@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: zhou-fen-2026
     resource: "https://doi.org/10.3389/fpubh.2026.1837667"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i1` small
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` In the baseline-adjusted ANCOVA the authors name as primary, the non-randomised intervention group's adjusted post-test social medical curiosity score was 1.13 points higher than the control group's (95% CI 0.21–2.05, p = 0.017, partial η² = 0.047); the unadjusted change-score comparison gave Cohen's d = 0.37. [→ Zhou Fen 2026](#zhou-fen-2026)

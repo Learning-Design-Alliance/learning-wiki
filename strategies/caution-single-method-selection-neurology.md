@@ -49,6 +49,7 @@ The article recommends that course designers not assume one method is universall
 - [Pharmacy course directors should consider gradually introducing PBL methods into their programs](gradually-introduce-pbl-pharmacy-programs.md)
 - [Combine the PBL and ATI models with different approaches for optimal results](combine-pbl-and-ati-models-strategy.md)
 - [Use combined PBL-CBL teaching in clinical settings where direct patient exposure is limited](pbl-cbl-for-limited-patient-exposure-settings.md)
+- [Apply combined PBL-CBL to anaphylactic shock teaching in fundamental nursing while budgeting extra preparation time](pbl-cbl-anaphylactic-shock-implementation-strategy.md)
 
 ## Examples
 -

@@ -78,3 +78,4 @@ Same RCT, Results section, reporting the two examination subsections. Basic theo
 - [Case-based learning combined with multidisciplinary team teaching yields significantly higher theoretical examination scores than lecture-based teaching in liver cancer clinical education.](cbl-mdt-higher-theoretical-examination-scores-liver-cancer.md) — related
 - [Blended learning interns scored significantly higher on the theoretical examination than traditional-group interns](blended-radiology-assistant-higher-theoretical-exam-score.md) — related
 - [Integrated clinical pathway and case-based teaching yields higher post-training theoretical examination scores than traditional teaching in endocrinology residency](clinical-pathway-cbt-higher-theoretical-scores.md) — related
+- [The PBL-CBL group outperformed the traditional group on every post-course test section: basic knowledge, clinical case analysis, and operation practice](pbl-cbl-better-all-test-sections.md) — related

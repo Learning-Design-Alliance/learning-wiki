@@ -69,3 +69,4 @@ Video-rated ANTS assessment across 40 teams. "Across all four ANTS categories—
 - [Simulation-based training is associated with communication and teamwork gains of approximately 2–3 points and NOTSS domain means of 2.8–3.5 on 4-point scales](simulation-communication-teamwork-gains-notss.md) — related
 - [No clear differences in ALS performance metrics in the asystole scenario between groups](app-no-asystole-performance-difference.md) — related
 - [NTS training improves observable team behavioural performance in EDs, including more frequent closed-loop communication, clearer role allocation and prioritisation, improved situational awareness, and higher teamwork ratings (moderate certainty).](nts-training-improves-ed-team-behaviours.md) — related
+- [Remote AR simulation is noninferior to in-person simulation across all four BARS nontechnical behavior domains](remote-ar-noninferior-bars-domains.md) — related

@@ -53,3 +53,4 @@ Learning curve analysis of the first 100 RDPs at each of 16 expert centers (1109
 - [Previous laparoscopic experience accelerates the RDP learning curve](prior-laparoscopic-experience-accelerates-rdp-learning.md) — related
 - [Learning curve estimates in robot-assisted surgery vary substantially between studies of the same procedure and are subject to considerable uncertainty](robotic-learning-curve-estimates-heterogeneous-uncertain.md) — a broader claim this one bears on
 - [Methods and terminology used to define the point at which the robot-assisted learning curve is overcome are inconsistent and often lack statistical validation](inconsistent-thresholds-terminology-learning-curve-overcome.md) — a broader claim this one bears on
+- [Both centers reached pre-defined institutional proficiency in robotic liver surgery at comparable case volumes (case 124 at UMCU and case 133 at KUH)](institutional-proficiency-124-133-cases.md) — related

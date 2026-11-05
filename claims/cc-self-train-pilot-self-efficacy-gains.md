@@ -81,3 +81,4 @@ Non-parametric confirmation of the overall pre/post gain in the same pilot. The 
 - [Single-group studies uniformly reported improvement after distance simulation training in self-assessment, knowledge, or skills](single-group-prepost-all-improved.md) — related
 - [Knowledge and self-efficacy in COVID-19 caregiving increased after a self-learning software intervention](self-learning-software-increased-covid-caregiving-knowledge.md) — related
 - [All five questionnaire domains improved significantly after training, with large effect sizes (r = 0.67–0.81)](us-training-all-questionnaire-domains-improved.md) — related
+- [Patient interaction scores increased significantly within both the hybrid simulation and control groups after training (p < 0.001 for both)](patient-interaction-improved-within-both-groups.md) — related

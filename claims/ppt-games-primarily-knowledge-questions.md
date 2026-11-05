@@ -50,3 +50,4 @@ Thematic analysis by two subject matter experts coding student game questions wi
 - [Students who created games twice did not write significantly more higher-order questions than students who created games once](repeat-game-design-no-significant-question-gain.md) — related
 - [Student-authored physics questions mostly require application or analysis, with under 5% at the lowest recall level](student-questions-majority-above-recall-bloom.md) — related
 - [Collected exam questions required no cognitive processes above apply and no originality in analysis or high-level interdependence](exam-questions-capped-at-apply-and-standardized-analysis.md) — related
+- [The cartooning activity engaged students in cognitive processes beyond the first level of Bloom's taxonomy, including analysis, evaluation and creativity](cartooning-blooms-taxonomy-higher-order.md) — related

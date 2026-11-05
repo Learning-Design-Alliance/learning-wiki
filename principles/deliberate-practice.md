@@ -23,7 +23,7 @@ sources:
 # Deliberate Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 20 claims (12 for, 8 mixed) · 34 studies (14 quant-synthesis, 7 review, 6 causal, 6 theoretical, 1 associational), `q1`–`q4` · 11 of 34 report an effect size · 11 claims rest on one study
+> **Evidence** · 21 claims (13 for, 8 mixed) · 35 studies (14 quant-synthesis, 7 review, 6 causal, 6 theoretical, 2 associational), `q1`–`q4` · 11 of 35 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -120,6 +120,7 @@ Re-read against the model on 2026-10-15; these two do not bear on its relationsh
 - [DP-informed simulation-based surgical training is associated with improved psychomotor skill acquisition in laparoscopic surgery](../claims/dp-informed-sbst-improves-laparoscopic-psychomotor-skills.md) [+W] — attached 2026-10-31 from Wickramasinghe D (2025), which proposed "Structure simulation-based surgical training according to deliberate practice principles, including immediate feedback and stepwise task progression"; tests this page's relationship.
 - [DP adherence varied widely across studies, with the most structured programs yielding the greatest benefits](../claims/dp-adherence-variability-influences-outcomes.md) [+W] — attached 2026-10-31 from Wickramasinghe D (2025), which proposed "Structure simulation-based surgical training according to deliberate practice principles, including immediate feedback and stepwise task progression"; tests this page's relationship.
 - [After up-front instruction, students start practice at about 65% correct and need about seven opportunities per knowledge component to reach 80%](../claims/practice-opportunities-needed-after-verbal-instruction.md) [+M] — added 2026-11-05 from Koedinger et al. (2023), 27 datasets from online practice systems with feedback; not yet read against the model above.
+- [Repeated deliberate practice over 20 virtual patient cases improves diagnostic justification, test ordering, cognitive errors, and misdiagnosis rates without plateau](../claims/deliberate-practice-improves-cr-no-plateau.md) [+W] — attached 2026-11-05 from Waechter Jason et al. (2026), which proposed "Deliberate-practice virtual patient case sequence with staged differential diagnosis revision and per-case feedback"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

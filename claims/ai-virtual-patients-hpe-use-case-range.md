@@ -56,3 +56,4 @@ Synthesis of use cases charted from 97 included studies in a scoping review foll
 - [AI-based assessment of therapeutic communication skills showed high reliability (ICC > 0.97) in a cited quasi-experimental nursing study](ai-communication-assessment-high-reliability.md) — related
 - [In an RCT reviewed here, adding AI-generated feedback to a GenAI virtual patient improved medical students' clinical decision-making relative to simulation alone](ai-feedback-improves-clinical-decision-making-rct.md) — related
 - [Virtual patient simulations show mixed effects: improved diagnostic accuracy in one trial, no advantage over video teaching in another, and short-lived knowledge gains](virtual-patients-mixed-psychiatry.md) — related
+- [Within generating, students proposed hypotheses, managed discordant information, and determined final diagnoses, with wide variation in data use](generating-hypotheses-discordant-data-final-diagnoses.md) — related

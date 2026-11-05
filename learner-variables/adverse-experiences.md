@@ -13,7 +13,7 @@ generated:
 # Adverse Experiences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 50 claims (41 show a difference, 6 mixed, 3 no difference) · 28 studies (12 review, 8 associational, 3 theoretical, 2 quant-synthesis, 2 design, 1 causal), `q1`–`q3` · 3 of 28 report an effect size · 50 claims rest on one study
+> **Evidence** · 51 claims (41 show a difference, 7 mixed, 3 no difference) · 29 studies (12 review, 9 associational, 3 theoretical, 2 quant-synthesis, 2 design, 1 causal), `q1`–`q3` · 3 of 29 report an effect size · 51 claims rest on one study
 
 ## Description
 Adverse experiences are events that can be traumatic: physical, sexual or emotional abuse and neglect, witnessing violence at home or in the community, family instability, and discrimination experienced as racial trauma. The concern for learning is the stress response they set off. Repeated or prolonged stress releases stress hormones that can change how the body and brain develop, and childhood is a sensitive period for this, so effects on cognition, health, emotional well-being and achievement can carry into adulthood. Exposure is usually measured with self-report or parent-report trauma checklists. The LVN treats it as relevant at every age it covers, from pre-kindergarten to adult education: for children it bears on learning to read, write and do mathematics, and for adults it includes earlier negative experiences of school that make returning to learning harder. The summaries are equally clear that harm is not fixed: children's brains are plastic enough to recover, evidence-based interventions exist, and protective factors such as [social supports](social-supports.md), a [sense of belonging](belonging.md) and a positive [identity](identity.md) can buffer the effects. It overlaps with [affect regulation](affect-regulation.md), which covers the emotional side, and with [safety](safety.md).
@@ -86,6 +86,7 @@ Adverse experiences are events that can be traumatic: physical, sexual or emotio
 - [Poverty, stress, and related environmental risk factors are correlated with deficits in children's EF](../claims/poverty-stress-correlated-ef-deficits.md) [+M] — learners who differ on it differ in outcomes
 - [Early childhood homelessness and maltreatment are associated with lower achievement, poorer social skills, and higher absenteeism in early primary grades](../claims/early-homelessness-maltreatment-associated-school-outcomes.md) [+M] — learners who differ on it differ in outcomes
 - [High academic abuse is associated with lower probability of adequate academic performance among medical students in Lima](../claims/high-academic-abuse-lower-adequate-performance-medical-students.md) [+M] — learners who differ on it differ in outcomes
+- [Number of lifetime adversity categories positively predicts performance, while adversity frequency negatively predicts the professional dimension and age negatively predicts clinical performance](../claims/lifetime-adversity-and-age-effects-on-performance.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Brief Trauma Questionnaire** (Schnurr et al., 2002): self-report of lifetime exposure to traumatic events such as accidents, combat, illness, abuse and disasters.

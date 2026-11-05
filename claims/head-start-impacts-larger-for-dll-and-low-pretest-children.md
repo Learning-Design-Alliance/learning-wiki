@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2018
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: morris-2018
     resource: "https://doi.org/10.1177/2332858418769287"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1` small
-> **Currency** · newest study 2018 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` The effect of Head Start random assignment on vocabulary was 0.26 SD for DLLs versus 0.10 SD for non-DLL peers, a 0.16-SD difference; low-pretest DLL children showed substantially larger effects than nonlow-pretest DLLs. [→ Morris 2018](#morris-2018)

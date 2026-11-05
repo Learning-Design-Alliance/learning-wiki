@@ -59,3 +59,4 @@ Subgroup analysis of examination scores across 3 variables (student major, publi
 - [PBL improves radiology skill (film reading) scores more strongly than theoretical scores (pooled SMD = 2.10)](pbl-higher-skill-scores-chinese-radiology.md) — related
 - [Included PBL studies show very high heterogeneity, limiting generalizability of pooled effect sizes](pbl-meta-analysis-high-heterogeneity-limits-generalizability.md) — related
 - [Heterogeneity among pooled PBL trials in Chinese pharmacy education is high (I2 = 93%)](pbl-pharmacy-meta-analysis-high-heterogeneity.md) — related
+- [Knowledge of virtual simulation differs by major and grade: Radiology and Anesthesiology students score higher and fifth-year students lower than Clinical Medicine and junior students](knowledge-varies-major-grade-virtual-simulation.md) — related

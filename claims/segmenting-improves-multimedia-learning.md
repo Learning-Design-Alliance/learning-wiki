@@ -150,3 +150,4 @@ Meta-analysis of the segmenting effect covering "56 investigations including 88 
 - [Studying dynamic phenomena as discrete time steps supports students' understanding of system behavior compared with continuous-time equation-derived processes.](discrete-time-steps-support-understanding.md) — a narrower finding that bears on this claim
 - [Segmenting online multimedia lessons into short user-paced segments improves transfer and reduces cognitive load](segmenting-improves-transfer-and-reduces-load.md) — related
 - [Segmentation of instructional videos enhances learning outcomes](segmentation-enhances-video-learning.md) — possibly the same claim (merge candidate)
+- [More benchmark videos at varied performance levels may clarify the expected standard, but increasing video number or explanation complexity risks overload that reduces engagement; examiners judged two to three videos an optimal compromise](more-benchmark-videos-help-but-risk-overload.md) — related

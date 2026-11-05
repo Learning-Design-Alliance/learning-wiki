@@ -51,3 +51,4 @@ Subgroup meta-analysis of six clinical medicine studies (327 cases, 327 controls
 - [After removing five outlying studies identified by Galbraith plot, the PBL advantage persisted with low heterogeneity (Hedges' g = 0.592, I2 = 26.807%)](pbl-advantage-persists-after-galbraith-removal.md) — related
 - [PBL's examination-score advantage holds across student majors, publication years, and class sizes, but heterogeneity remains high in all subgroups](pbl-exam-subgroup-analyses-heterogeneity.md) — related
 - [PBL score advantages hold in both probationer and intern subgroups, with larger effects among probationers](pbl-subgroup-probationer-intern-radiology.md)
+- [Knowledge of virtual simulation differs by major and grade: Radiology and Anesthesiology students score higher and fifth-year students lower than Clinical Medicine and junior students](knowledge-varies-major-grade-virtual-simulation.md) — related

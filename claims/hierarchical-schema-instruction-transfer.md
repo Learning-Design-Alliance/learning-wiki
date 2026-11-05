@@ -9,7 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2010
-source_checked: 2026-10-21
+source_checked: 2026-11-05
 sources:
   - id: slava-kalyuga-2010
     resource: "https://doi.org/10.1007/s10648-010-9132-9"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
-> **Currency** · newest study 2010 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a study by Kalyuga and Hanham (in press at the time) that this theoretical article reports, hierarchically organized schema-based instruction proceeding from general to detailed descriptions produced better transfer posttest performance than single-level schema-based and conventional nonschema-based instruction in novices; no statistics are given. [→ Slava Kalyuga 2010](#slava-kalyuga-2010)

@@ -56,3 +56,4 @@ Multi-cohort quasi-experiment with historical control (2023 LBL n=21; 2024/2025 
 - [AI-assisted CBL+FC residents significantly outperform lecture-based controls on post-course theoretical knowledge tests](ai-assisted-cbl-fc-higher-theoretical-scores.md) — related
 - [CBL-FC students achieve significantly higher post-intervention test scores than LBL students in pulmonary imaging education](cbl-fc-higher-post-test-scores-pulmonary-imaging.md) — related
 - [Baseline test scores did not differ significantly between the CBL-FC and LBL groups](cbl-fc-lbl-baseline-equivalence-untested.md) — related
+- [The PBL-CBL group achieved significantly higher total post-course test scores than the traditional LBL group in fundamental nursing](pbl-cbl-higher-total-test-scores-anaphylactic-shock.md) — related

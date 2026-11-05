@@ -9,7 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: moderate
 newest_evidence: 2024
-source_checked: 2026-10-18
+source_checked: 2026-11-05
 sources:
   - id: nadja-m-gentner-2024
     resource: "https://doi.org/10.1007/s11251-024-09671-x"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i3` large
-> **Currency** · newest study 2024 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` During the prompted journals of unit 1, self-reported metacognitive strategy use significantly increased from baseline, F(2.49,181.95)=31.35, p<.001, ηp²=0.30. [→ Nadja M. Gentner 2024](#nadja-m-gentner-2024)

@@ -50,3 +50,4 @@ The review synthesizes facilitation techniques across included studies, finding 
 - [Some VSP history-taking behaviors correlated with clinical reasoning metrics](vsp-behaviors-correlate-clinical-reasoning.md) — related
 - [Classroom events occur at different time scales requiring different modes of cognition](time-scales-require-different-modes-of-cognition.md) — a broader claim this one bears on
 - [Clinical teachers hold four key responsibilities for facilitating clinical reasoning in clinical settings](clinical-teacher-responsibilities-clinical-reasoning-facilitation.md) — a broader claim this one bears on
+- [Students perceive case-based learning as developing early clinical reasoning and critical thinking in the preclinical years](cbl-perceived-clinical-reasoning-development.md) — related

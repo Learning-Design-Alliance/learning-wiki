@@ -50,3 +50,5 @@ UEQ analysis across all dimensions showed significant differences favouring the 
 - [Web-based Orthotrainer training produced diagnostic performance equivalent to analogue case analysis training across training sessions and the final module exam](orthotrainer-equivalent-diagnostic-performance.md) — related
 - [Traditional teaching was rated easier, more efficient, and clearer, while iVR was rated more inventive and leading-edge](traditional-rated-easier-ivr-more-inventive.md) — related
 - [The inCarne VR prototype received descriptively positive user experience ratings across all AttrakDiff dimensions, with attractivity scoring highest (M = 1.71, SD = 0.59)](incarne-vr-positive-user-experience-attractivity-highest.md) — related
+- [User Experience Questionnaire evaluations did not differ significantly between the EyelearnMR and control groups](no-ueq-difference-between-arms.md) — related
+- [On the UEQ-S, HFS was rated more supportive, easy, efficient, and clear than VR, while both modalities scored above 5 on all usability items](ueq-s-usability-group-differences.md) — related

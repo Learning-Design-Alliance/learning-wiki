@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: gao-xiaoxing-2026
     resource: "https://doi.org/10.2196/95578"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of 92 students, 63 (68.5%) completed the feedback survey: satisfaction mean 6.4/10, convenience mean 4.1/5, realism mean 1.8/5, feedback value mean 2.4/5. [→ Gao Xiaoxing 2026](#gao-xiaoxing-2026)
@@ -52,3 +52,5 @@ Anonymous postencounter online questionnaire completed by 63 of 92 students (68.
 - [Expert evaluation found the virtual patient realistic and immediate ACT feedback increased therapists' awareness of intervention choices](expert-evaluation-realism-and-feedback-awareness.md) — related
 - [Student satisfaction did not differ significantly between AI-VSP and SP groups](ai-vsp-sp-satisfaction-similar.md) — related
 - [Students training with AI-VSPs give more positive and fewer negative feedback comments than traditional SP students](ai-vsp-more-positive-feedback-comments.md) — related
+- [Intervention-group students reported moderate presence in the VSP, highest for spatial presence and lowest for perceived realism](moderate-presence-ipq-vsp.md) — related
+- [Students rated the VSP system positively for usability and learning assistance, with comparatively low ratings for patient realism and authenticity](positive-ueq-ratings-vsp-system.md) — related

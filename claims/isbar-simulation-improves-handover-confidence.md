@@ -50,3 +50,4 @@ A single-group pretest-posttest study of 57 nursing students. Paired-samples t-t
 - [Students report that progressive simulation practice builds handover confidence by reducing anxiety](progressive-simulation-practice-builds-confidence.md) — related
 - [Simulation-based CARE handover training produces a large increase in nurses' perceived handover competency from pretest to posttest](simulation-care-training-increases-perceived-handover-competency.md) — related
 - [Total self-reported ICCAS scores rose significantly from pre-test to post-test after the simulation intervention in one uncontrolled pre-post study](sbl-total-iccas-significant-increase.md) — related
+- [Within the simulation group, total self-confidence rose significantly from pretest to posttest (d = 0.693)](hfs-within-group-selfconfidence-increase-d0693.md) — related

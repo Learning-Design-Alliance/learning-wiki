@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2024
-source_checked: 2026-10-10
+source_checked: 2026-11-05
 recheck_by: 2027
 sources:
   - id: germain-2024
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
-> **Currency** · newest study 2024 · checked against its sources 2026-10-10 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: local conditions change quickly
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: local conditions change quickly
 
 ## Subclaims
 `q2 i?` On the 2023–24 APS Skills, Habits, and Mindsets Student Survey, 66% of Los Padillas students reported a sense of belonging versus 44% districtwide, with perseverance, self-efficacy, and social awareness above district average. [→ Germain 2024](#germain-2024)

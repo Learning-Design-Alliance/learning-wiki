@@ -115,3 +115,4 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Stakeholders favor DHNs integrated into the existing clinical team, most often medical assistants or similar groups, but flag workload and training constraints](dhn-team-integration-occupational-background.md) — related
 - [Structured support systems, positive workplace culture, informal mentorship and contextualised training are key facilitators of IQN specialty skill transfer](support-systems-facilitate-iqn-skill-transfer.md) — related
 - [Lack of training and instructor motivation were the most commonly reported barriers to using e-learning resources](training-motivation-barriers-e-resources.md) — related
+- [Contextual constraints — time pressure, facilitator variability, limited clinical exposure and lack of visual aids — moderate CBL effectiveness in resource-limited settings](cbl-constrained-by-resource-limited-context.md) — related

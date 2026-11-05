@@ -49,3 +49,4 @@ The review reports that Denny et al. (2009) found "correlations between ratings 
 - [LoU Interview ratings correlated .65 with readers' ratings of written ethnographic protocols, which the author read as support for the interview's validity tempered by second-hand information](lou-interview-validated-against-ethnography.md) — related
 - [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related
 - [AI-generated assessment items frequently need faculty correction, supporting AI as a draft generator within quality assurance](genai-assessment-items-draft-generator-quality-assurance.md) — related
+- [The number of cast ARS votes did not correlate with MCQ difficulty level](no-correlation-vote-count-mcq-difficulty.md) — related

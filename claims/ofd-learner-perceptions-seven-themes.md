@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2016
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: jayaron-jose-mohammed-jafre-zainol-abidin-2016
     resource: "https://doi.org/10.5539/elt.v9n2p84"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
-> **Currency** · newest study 2016 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Thematic analysis of interviews with four OFD participants identified seven major themes: five positive (feelings such as happiness and comfort, motivation, peer interaction, perceived writing-skill gains, and autonomy) and two concerns (challenges: slow networks, too few computers, typing, time, topics, presentation and grouping; and a cultural issue, one student wanting topics suited to boys as well as girls). Overall the learners expressed positive attitudes toward forum discussion for EFL writing. [→ Jayaron Jose & Mohammed Jafre Zainol Abidin 2016](#jayaron-jose-mohammed-jafre-zainol-abidin-2016)

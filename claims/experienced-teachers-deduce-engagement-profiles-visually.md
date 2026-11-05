@@ -9,7 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2020
-source_checked: 2026-10-22
+source_checked: 2026-11-05
 sources:
   - id: jarodzka-2020
     resource: "https://doi.org/10.1007/s10648-020-09565-7"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
-> **Currency** · newest study 2020 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Seidel et al. showed that experienced teachers can quite proficiently deduce students' engagement and characteristic profiles (e.g., strong, struggling, underestimating) from mere visual observation, while beginning teachers struggle with it. [→ Jarodzka 2020](#jarodzka-2020)

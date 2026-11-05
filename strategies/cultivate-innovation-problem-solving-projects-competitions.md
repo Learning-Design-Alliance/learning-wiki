@@ -47,6 +47,7 @@ The authors recommend that teaching teams "place sustained emphasis on cultivati
 
 - [Use reflective practice as assessment strategy in courses promoting creative problem-solving](reflective-practice-assessment-creativity-courses.md)
 - [Sustain a faculty community of practice for creative problem-solving pedagogy](monthly-faculty-meetings-creative-pedagogy-development.md)
+- [Strengthen science communication competency through curricular innovation and multidisciplinary team-based practice platforms](curricular-innovation-and-multidisciplinary-tbl-platforms.md)
 
 ## Examples
 -

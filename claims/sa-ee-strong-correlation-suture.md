@@ -49,3 +49,4 @@ Correlation analysis of 70 trainee doctors' scores found "a strong and significa
 - [Learner anxiety affects self-assessment but not expert evaluation of technical skill](anxiety-affects-sa-not-ee.md) — related
 - [Trainee surgeons' self-assessment scores are lower than expert evaluation scores on a suture exercise](sa-lower-than-ee-suture-scores.md) — related
 - [Trainees who overestimated themselves were rated less competent by the expert](overestimators-rated-less-competent.md) — related
+- [Global rating scores correlate strongly positively with checklist scores (r = 0.78)](global-rating-checklist-correlation-cvc.md) — related

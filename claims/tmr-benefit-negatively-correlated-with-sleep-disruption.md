@@ -9,7 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-10-26
+source_checked: 2026-11-05
 sources:
   - id: whitmore-2022
     resource: "https://doi.org/10.1038/s41539-021-00119-2"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2022 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Cue-related sleep disruption (Sleep Disruption Index) was negatively correlated with the cuing effect on Δrecall (χ²(1,N=24)=3.98, p=0.046), with only a trend for the Sleep Fragmentation Index (p=0.109). [→ Whitmore 2022](#whitmore-2022)

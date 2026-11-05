@@ -68,3 +68,4 @@ Ablation study comparing ranked versus random sentence removal matched for sente
 ## Related Claims
 - [SHAP and LLM explanation methods show consistently low alignment, with mean top-10 Jaccard similarity of 0.085](low-alignment-shap-llm-sentence-selection.md) — related
 - [SHAP explanations transfer robustly across architectures while LLM rationales transfer poorly to PLM predictions](shap-explanations-transfer-across-architectures.md) — possibly the same claim (merge candidate)
+- [SHAP analysis identifies undergraduate GPA rank as the most influential predictor, followed by gender, confidence, undergraduate score average, and CET-4 performance](shap-undergrad-gpa-rank-strongest-predictor.md) — related

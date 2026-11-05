@@ -49,3 +49,4 @@ Multilevel models with pretest as outcome confirmed preexisting group difference
 - [Before implementation, treatment students performed significantly below control students on the standardized reading test](core5-treatment-pretest-disadvantage.md) — related
 - [SIWI improved discourse-level writing traits in both personal narrative and persuasive genres among grade 3-5 d/hh students](siwi-writing-trait-gains-elementary-dhh.md) — related
 - [SIWI improved written language accuracy and complexity outcomes, especially for personal narrative writing](siwi-written-language-gains-elementary-dhh.md) — related
+- [The clinical practice self-confidence change score significantly favored the simulation group despite its lower pretest score](hfs-clinical-practice-change-favors-simulation.md) — related

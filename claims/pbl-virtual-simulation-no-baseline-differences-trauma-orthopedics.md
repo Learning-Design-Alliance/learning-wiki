@@ -60,3 +60,5 @@ Baseline comparison in the same assessor-blinded RCT of 50 clinical medical stud
 - [Digital platform-based reciprocal peer practice improves operational skills more than traditional small-group practice in nursing students](rpp-digital-platform-operational-skills-gains.md) — related
 - [In practicing nurse anesthetists, core anesthesia nursing skill scores rose from after traditional teaching to after DBSS training in a one-group before–after study](dbss-improves-na-core-skill-scores.md) — related
 - [The hybrid CBL-SST-simulator model shows no significant difference from lecture-based learning in theoretical knowledge scores](hybrid-cbl-sst-no-difference-theoretical-knowledge.md) — related
+- [Improvement in the low-exposure skill vaginal delivery assistance was significantly greater than improvement in IUD removal, with all five core skills improving significantly](simulation-gains-largest-low-exposure-procedures.md) — related
+- [Theoretical exam scores did not differ between conventional, digital-only, and hybrid instructional groups](theoretical-exam-scores-similar-three-instructional-models.md) — related

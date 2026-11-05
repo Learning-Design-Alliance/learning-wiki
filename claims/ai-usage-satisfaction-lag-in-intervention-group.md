@@ -48,3 +48,4 @@ Separate 5-point Likert survey administered only to the 60 observation-group int
 - [AI-assisted PBL-CBL combined teaching raises medical interns' theoretical examination scores in post-herpetic neuralgia compared with lecture-based teaching](ai-pbl-cbl-improves-theoretical-examination-scores.md) — related
 - [AI-assisted PBL-CBL combined teaching increases teaching satisfaction among medical interns compared with lecture-based teaching](ai-pbl-cbl-increases-teaching-satisfaction.md) — related
 - [Students report generally high satisfaction with AI-powered PBL/CBL](ai-pbl-cbl-high-satisfaction.md) — related
+- [92.60% of students were satisfied with the A-SPIRE model and 96.3% believed their science communication ability improved](a-spire-high-satisfaction-self-assessed-improvement.md) — related

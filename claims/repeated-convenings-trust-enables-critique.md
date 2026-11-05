@@ -75,3 +75,4 @@ Interview participants in the three content-specific communities, each convened 
 - [Trust is a key enabler of knowledge sharing in online learning communities](trust-enables-knowledge-sharing-online.md) — a broader claim this one bears on
 - [Altınay and colleagues emphasize critical thinking, critical friendship, teamwork, and network-based collaboration for international standards](critical-friendship-teamwork-international-standards.md) — related
 - [Participants reported markedly improved feedback skills as the most tangible improvement from the program.](pedagogical-internship-track-feedback-skills.md) — related
+- [Moderator collaboration was evident through mutual reinforcement of prompts, cross-referencing prior discussions, peer questioning, and comment-building](moderator-cross-moderation-collaboration.md) — related

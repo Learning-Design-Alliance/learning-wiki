@@ -50,3 +50,4 @@ Synthesis of pedagogical benefits across the 58 included studies (Section 5.3.1,
 - [Intelligent tutoring systems are a mature, technologically sophisticated implementation of AI-driven personalized learning with mostly positive outcomes in programming, mathematics, and STEM](its-mature-implementation-personalized-learning.md) — related
 - [Instant access to information and 24/7 availability are the most recognised benefits of LLMs for learning](instant-access-24-7-top-llm-benefits.md) — related
 - [Programming support is the most common instructional objective for AI agents in programming education, reported in 94.83% of reviewed studies](programming-support-dominant-ai-objective.md) — related
+- [Individual teaching and video tutorials are valued for personalised pacing in older adults' digital learning](individual-teaching-video-tutorials-personalised-pacing.md) — related

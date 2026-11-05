@@ -49,6 +49,7 @@ The article recommends a staged progression in laparoscopic education: trainees 
 - [Match training modality emphasis to trainee proficiency level](match-modality-emphasis-to-proficiency-level.md)
 - [Integrate virtual reality training as an adjunct into surgical training curricula for junior trainees](integrate-vrt-adjunct-surgical-curricula.md)
 - [Replace massed Halstedian-style training with spaced VR simulator-based psychomotor training for novice doctors](implement-spaced-vr-simulator-training-novice-doctors.md)
+- [Blend VR and IP simulation within a curriculum, matching each modality to learning objectives and training stage](blended-vr-ip-simulation-curriculum.md)
 
 ## Examples
 -

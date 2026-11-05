@@ -47,3 +47,4 @@ Cross-sectional intra-operative study by Schiff et al. using the Quality of Comm
 ## Related Claims
 - [Higher team anticipation correlates with shorter operative time, while more requests correlate with longer operative time in robotic surgery](anticipation-ratio-shorter-operative-time-ras.md) — related
 - [Communication, environmental factors, anticipation and teamwork are the key non-technical skills reported in robotic-assisted surgery](key-nts-communication-environment-anticipation-teamwork-ras.md) — related
+- [Conversion to open surgery was associated with substantially increased blood loss and operative time, and Pringle maneuver use with reduced blood loss](conversion-and-pringle-associated-with-outcomes.md) — related

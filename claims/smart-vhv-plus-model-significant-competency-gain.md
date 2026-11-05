@@ -50,3 +50,4 @@ One-group pretest–posttest evaluation with 33 VHVs in Nong Bua Ban Village usi
 - [Qualitative findings identified five thematic competency gap domains](vhv-qualitative-gaps-in-five-domains.md) — related
 - [Self-efficacy for ultrasound procedural performance increased significantly after training among Korean Medicine students (p < .001, d = 1.44)](ultrasound-training-self-efficacy-increase-km.md) — related
 - [Both groups improved significantly from pre- to post-test, with a larger within-group gain in the flipped classroom group (d = 1.87 vs. d = 0.86)](within-group-gains-larger-flipped-group.md) — a broader claim this one bears on
+- [Large majorities of post-reform students self-reported gains in research competencies, academic communication skills and career development](student-self-reported-competency-gains-post-reform.md) — related

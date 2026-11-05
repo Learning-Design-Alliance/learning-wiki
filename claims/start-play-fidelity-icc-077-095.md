@@ -59,3 +59,4 @@ Reliability analysis in Phase I of the START-Play randomized controlled trial: 2
 - [Expert reference standard for MUL measurements showed excellent agreement (ICC 0.90)](expert-reference-mul-icc-090.md) — related
 - [Two independent observers showed excellent interrater agreement when assessing nursing students' VAP prevention skill performance in simulation](excellent-interrater-agreement-vap-checklist.md) — related
 - [The pediatric SCT instrument with aggregate scoring showed good-to-excellent inter-rater reliability and acceptable internal consistency](sct-aggregate-scoring-reliability-pediatric-topics.md) — related
+- [Rater reliability was good for the adapted checklist, and objective and subjective scores correlated strongly](adapted-checklist-irr-and-score-coherence.md) — related

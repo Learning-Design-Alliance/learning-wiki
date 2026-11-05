@@ -75,3 +75,4 @@ Synthesized professional-cognition finding: students approached virtual patients
 - [A JBI meta-synthesis of 17 qualitative studies integrates nursing students' virtual simulation experiences into nine categories and four synthesized findings](vs-teaching-meta-synthesis-four-findings.md) — a broader claim this one bears on
 - [Simulator practicals increased student confidence in practical skills](simulator-practicals-increase-practical-skills-confidence.md) — related
 - [The article claims adopting deliberate practice can significantly enhance skill development and accelerate the proficiency timeline in advanced periodontal and implant protocols](deliberate-practice-enhances-skill-development-claim.md) — related
+- [Repeated deliberate practice over 20 virtual patient cases improves diagnostic justification, test ordering, cognitive errors, and misdiagnosis rates without plateau](deliberate-practice-improves-cr-no-plateau.md) — related

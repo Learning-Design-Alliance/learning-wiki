@@ -63,6 +63,7 @@ The review recommends that debriefing be treated as a critical phase of high-fid
 - [Structure AI virtual patient sessions with pre-briefing, a structured diagnostic guide, and case-specific debriefing](pre-briefing-debriefing-ai-virtual-patient-session.md)
 - [Structured tutor-guided debriefing to drive reflective observation and abstract conceptualisation](structured-debriefing-reflection-bedside.md)
 - [Structured post-scenario debriefing after each simulation scenario](post-scenario-debriefing-triage-simulation.md)
+- [Use remote instructor-led AR simulation to deliver standardized team-leader assessment where in-person simulation access is limited](remote-ar-assessment-resource-limited-settings-strategy.md)
 
 ## Examples
 -

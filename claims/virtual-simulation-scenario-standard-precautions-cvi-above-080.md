@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 recheck_by: 2029
 sources:
   - id: gusmão-cristine-maria-pereira-2026
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Most scenario items achieved a content validity index above 0.80 in a panel of 11 expert nurses; four item-level ratings were 0.73 (setting appropriateness and relevance, expected-outcomes clarity, materials appropriateness), and of those items only "Materials to be selected" was revised, the other two being kept unchanged. [→ Gusmão Cristine Maria Pereira 2026](#gusmao-cristine-maria-pereira-2026)

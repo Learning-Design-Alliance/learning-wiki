@@ -52,3 +52,4 @@ Age-correlation analysis of the survey (Table 2). The article reports a highly s
 - [Graduate attribute attainment correlates only extremely weakly with years spent at university](weak-correlation-year-of-study-graduate-attributes.md) — related
 - [Older students perceive greater value of the technological skills acquired through online study](age-differentiates-digital-competence-assimilation.md) — related
 - [Age showed a weak but significant positive correlation with all evaluation domains, while gender showed no significant effect](age-correlation-domain-scores.md) — related
+- [Practice frequency and perceived competence were positively but weakly correlated (Spearman's r = 0.303, p = 0.019)](practice-frequency-perceived-competence-correlation.md) — related

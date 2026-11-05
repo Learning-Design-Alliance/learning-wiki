@@ -51,3 +51,4 @@ A 12-item five-point Likert survey of 33 experimental-group students, reviewed b
 - [Students rated Zoo U highly for engagement and likeability, with every usability area rated at least 3.8 on a four-point scale](zoo-u-high-student-engagement-likeability.md) — related
 - [Omani grade 4 students hold very high positive attitudes toward using cartoons in social studies lessons](grade4-positive-attitudes-cartoons.md) — related
 - [Students held positive attitudes toward mobile-assisted vocabulary exercises, with an overall mean of 3.98 on a five-point scale](positive-attitudes-mobile-vocabulary-exercises.md) — related
+- [Students rated the cartooning activity highly for engagement, learning and understanding, with average scores of 4.8, 4.5 and 4.2 on a 5-point scale](cartooning-high-engagement-learning-ratings.md) — related

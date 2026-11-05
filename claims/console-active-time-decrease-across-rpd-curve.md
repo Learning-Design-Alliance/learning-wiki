@@ -51,3 +51,4 @@ Per-protocol Full-Case telemetry comparison across the 60-case phase split in th
 - [Console time decreased substantially with increasing surgical experience, with an estimated reduction of 33.2 min over the first 14 procedures](console-time-decreases-with-experience-versius.md) — related
 - [A PD-ROBOSCORE-adjusted RA-CUSUM of idle time identifies a proficiency inflection around case 60 in the RPD learning curve](ra-cusum-idle-time-proficiency-inflection-case-60.md) — related
 - [Resection-phase telemetry shows time to complete mesopancreas dissection shortens materially across the RPD learning curve](mesopancreas-dissection-time-shortens-landmark-r.md) — related
+- [No significant differences in learning progression between individual console surgeons](no-surgeon-level-learning-progression-differences.md) — related

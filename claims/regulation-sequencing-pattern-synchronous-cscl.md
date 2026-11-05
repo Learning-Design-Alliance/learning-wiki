@@ -57,3 +57,4 @@ Process-mining analysis (Fuzzy Miner, Fluxicon Disco) of the coded regulatory ac
 - [High prior knowledge students engaged more in co-regulation behaviors while low prior knowledge students relied more on question-raising and idea-confirming sequences](prior-knowledge-differentiates-co-regulation-co-construction.md) — related
 - [LIWC analysis shows synchronous messages carry more social and emotional language while asynchronous notes carry more cognitive-processing language](liwc-social-emotional-cognitive-mode-differences.md) — related
 - [Metacognitive regulation in PT clinical reasoning is relational and often co-constructed in interaction with the self, patient, family, professionals and peers](mr-relational-interactive-co-constructed.md) — related
+- [Students enacted interpreting and framing concurrently at case start, followed by generating and justifying, in iterative loops over a case](reasoning-skill-sequences-iterative-loops.md) — related

@@ -48,3 +48,7 @@ Descriptive UEQ and IPQ results from the feasibility study (n = 32), scored per 
 - [Users rated the pediatric endocrinology e-learning tool positively across all six UEQ categories, with attractiveness and stimulation highest and dependability lowest](ueq-positive-evaluation-pediatric-elearning.md) — related
 - [Perceived usefulness and realism are the most common UX dimensions assessed, with less experienced users rating usefulness more positively](ux-usefulness-realism-dominant-dimensions.md) — related
 - [The simulation model demonstrated high usability across all six UEQ domains, with attractiveness rated highest and excellent internal consistency (Cronbach's alpha = 0.91)](sbml-probing-simulator-ueq-usability.md) — related
+- [The EyelearnMR platform received positive User Experience Questionnaire evaluations for attractiveness, efficiency, dependability, stimulation, and novelty, with perspicuity neutral](eyelearnmr-positive-ueq-evaluations.md) — related
+- [Intervention-group students reported moderate presence in the VSP, highest for spatial presence and lowest for perceived realism](moderate-presence-ipq-vsp.md) — related
+- [User Experience Questionnaire evaluations did not differ significantly between the EyelearnMR and control groups](no-ueq-difference-between-arms.md) — related
+- [Students rated the VSP system positively for usability and learning assistance, with comparatively low ratings for patient realism and authenticity](positive-ueq-ratings-vsp-system.md) — related

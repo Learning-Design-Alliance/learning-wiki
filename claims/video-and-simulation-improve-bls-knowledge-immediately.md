@@ -51,3 +51,4 @@ Pilot RCT knowledge assessment using a 15-item multiple-choice questionnaire ada
 - [Nurses trained with simulation showed higher skill scores than nurses trained with video-based instruction (exploratory)](simulation-higher-skill-scores-nurses-exploratory.md) — related
 - [Scenario-based simulation yields higher post-test knowledge scores than video-based training in anaesthesia undergraduates learning perioperative anaphylaxis management](sbs-higher-post-test-than-vbt-perioperative-anaphylaxis.md) — related
 - [Between-group difference in BLS knowledge gain is not statistically significant, with a numerically higher gain in the video group](bls-video-vs-simulation-knowledge-gain-no-difference.md) — related
+- [Scenario-based animation and routine skill video both increased nursing students' ROM exercise knowledge, with no significant difference between the groups](rom-animation-skill-video-equal-knowledge-gains.md) — a narrower finding that bears on this claim

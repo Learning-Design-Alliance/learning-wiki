@@ -50,3 +50,5 @@ Generalized linear models of GM-ITE total score with region of graduation, gende
 - [Overall GM-ITE scores did not differ significantly among resident physicians educated in Japan, Non-Japan Asia, and Europe and Other regions (p = 0.153)](gm-ite-overall-score-no-regional-difference.md) — related
 - [The Europe and Other group scored significantly higher on GM-ITE questions asked in English (p = 0.010)](gm-ite-english-questions-europe-higher.md) — related
 - [Japan-trained residents scored higher in the Surgery (p = 0.007) and Obstetrics and Gynecology (p = 0.002) fields, an exploratory finding](gm-ite-surgery-obgyn-japan-higher.md) — related
+- [Yearly inpatient volume as a continuous variable is not significantly associated with GM-ITE scores or burnout symptoms](continuous-inpatient-volume-not-significant.md) — related
+- [Longer daily self-study time and higher postgraduate year are associated with higher GM-ITE scores](self-study-time-pgy2-associated-with-gmite.md) — related

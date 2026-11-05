@@ -9,7 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2024
-source_checked: 2026-10-30
+source_checked: 2026-11-05
 sources:
   - id: peney-2024
     resource: "https://doi.org/10.1007/s11423-024-10402-9"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
-> **Currency** · newest study 2024 · checked against its sources 2026-10-30 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The article reports that Parong and Mayer (2021) found immersion improved affective processing but benefits were not reflected in cognitive processing or performance outcomes. [→ Peney 2024](#peney-2024)

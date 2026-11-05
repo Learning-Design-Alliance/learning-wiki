@@ -49,3 +49,4 @@ Games-Howell post hoc comparisons on SAS post-test scores. Both enriched groups 
 - [The 5E instructional model enriched with animations produced higher seventh-grade achievement on the light unit than the 5E model enriched with cooperative learning and the 5E model alone](5e-animation-enrichment-beats-cooperative-and-control-on-achievement.md) — related
 - [The animation-assisted 5E application produced a significant pre-to-post attitude change in the experimental group while the control group's attitudes did not change](animation-5e-attitude-change-experimental-only.md) — related
 - [The three intact classes were equivalent in prior achievement and scientific attitudes before the light-unit intervention](pretest-equivalence-three-5e-groups.md) — related
+- [Scenario-based animation training produced higher post-test e-learning attitudes than routine skill video training, which alone did not change attitudes](rom-animation-higher-attitude.md) — related

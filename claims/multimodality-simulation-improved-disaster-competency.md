@@ -60,3 +60,4 @@ Quasi-experimental one-group pretest–posttest study (Noh et al. 2020, South Ko
 - [Traditional Hazmat training showed no significant effect on nurses' site control or patient care performance in tabletop exercises](traditional-hazmat-training-no-significant-performance-effect.md) — related
 - [Virtual reality simulation training improved reserve nurses' theoretical knowledge, emergency care capability, and total disaster preparedness, but not post-disaster management](vr-simulation-training-improved-response-capability.md) — related
 - [Three-hour simulation-based tourniquet training significantly improves medical interns' knowledge, skills, attitudes, self-confidence and self-efficacy](simulation-tourniquet-training-improves-intern-outcomes.md) — related
+- [SKIT improves triage accuracy but not significantly the reasonableness of emergency management plans](skit-triage-accuracy-management-plan-decision-making.md) — related

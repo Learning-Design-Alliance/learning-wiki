@@ -9,7 +9,7 @@ generated:
   at: 2026-10-12
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-17
+source_checked: 2026-11-05
 sources:
   - id: zhang-y-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1918525"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The conditional indirect association through emotion regulation is significant for both male students (indirect effect = −0.089) and female students (indirect effect = −0.062), and stronger among male students. [→ Zhang Y 2026](#zhang-y-2026)

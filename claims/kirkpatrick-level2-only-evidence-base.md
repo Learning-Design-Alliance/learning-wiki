@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: shakir-t-2026
     resource: "https://doi.org/10.1007/s11701-026-03633-w"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across the 17 included studies, sixteen reported Kirkpatrick level 2 (learning) outcomes and one reported only level 1 (reaction) data; no study reported level 3 or level 4 outcomes. [→ Shakir T 2026](#shakir-t-2026)

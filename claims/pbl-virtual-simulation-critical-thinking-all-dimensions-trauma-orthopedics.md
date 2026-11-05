@@ -55,3 +55,4 @@ Dimension-level critical thinking results in the same assessor-blinded RCT of 50
 - [Humanistic care-integrated Mini-CEX teaching improves humanistic care ability across cognition, courage, and patience dimensions](mini-cex-humanistic-care-ability-gains.md) — related
 - [Structured PEARLS debriefing is associated with higher critical thinking disposition across all seven CTDI-CV dimensions](debriefing-higher-critical-thinking-disposition.md) — related
 - [All critical thinking subscales except inquisitiveness improved after DBSS; inquisitiveness showed no significant change](dbss-cctdi-subscales-except-inquisitiveness-improve.md) — reports the opposite
+- [PBL-CBL teaching was associated with higher critical thinking disposition scores than LBL across CCTDI-adapted questionnaire traits](pbl-cbl-higher-critical-thinking-dispositions.md) — related

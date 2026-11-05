@@ -65,3 +65,4 @@ Synthesis of post-project student focus group feedback in the Student Feedback s
 - [Students exposed to the IPLM CbMW felt better prepared to solve real-world computer networking problems than students not exposed to it.](iplm-exposure-increased-perceived-preparedness.md) — related
 - [Active-learning sequence improved student engagement](active-learning-improved-student-engagement.md) — related
 - [Group communication problems among students were a paramount challenge in the redesigned course, exacerbated by group size and lack of prior experience.](group-communication-challenge-pbl-redesign.md) — related
+- [Querying, framing, and real-world contextualization deepened clinical reasoning in topic discussions](moderator-topic-discussion-techniques.md) — related

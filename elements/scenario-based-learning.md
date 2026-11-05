@@ -13,7 +13,7 @@ generated:
 # Scenario-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 4 studies (2 qualitative, 1 causal, 1 review), `q2`–`q3` · 0 of 4 report an effect size · 4 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 6 studies (3 causal, 2 qualitative, 1 review), `q2`–`q3` · 0 of 6 report an effect size · 7 claims rest on one study
 
 ## Description
 Scenario-based learning is the element in which instruction is organized around a realistic situation, case, or mission that requires learners to interpret information and make decisions in context. It is useful when the goal is application, transfer, and judgment under conditions that resemble real use.
@@ -46,6 +46,9 @@ Scenario-based learning is the element in which instruction is organized around 
 - [Primary school students evaluate the scenario-based case study method as a positive learning experience in the 'from Production to Consumption' unit](../claims/scenario-case-study-positive-student-experience.md) [+W] — attached 2026-11-02 from Ahu TANERİ (2018), which proposed "Four scenario-based lesson plans for the 'from Production to Consumption' unit".
 - [Preservice teachers' self-reported attitudes toward the teaching profession rose significantly from before to after participation in a scenario-based blended learning environment combined with teaching practice, in one uncontrolled pre-post study](../claims/scenario-blended-learning-positive-teaching-attitudes.md) [~W] — attached 2026-11-03 from Samsa et al. (2010), which proposed "Scenario-based blended learning environment for the Teaching Practices course".
 - [Adding a tabletop exercise to lecturing produced consistently greater improvements in nurses' disaster preparedness than lecturing alone](../claims/tabletop-plus-lecture-beats-lecture-alone.md) [+M] — attached 2026-11-04 from Delbene Lara et al. (2026), which proposed "Tabletop exercises for disaster preparedness training"; tests this page's relationship.
+- [Scenario-based animation training produced higher post-test e-learning motivation than routine skill video training in nursing students](../claims/rom-animation-higher-motivation.md) [+W] — attached 2026-11-05 from Özsaban Aysel et al. (2026), which proposed "Scenario-based ROM exercises animation video (multiple sclerosis case, nursing-process scenario, 3D Studio Max)".
+- [Scenario-based animation training produced higher post-test e-learning attitudes than routine skill video training, which alone did not change attitudes](../claims/rom-animation-higher-attitude.md) [+W] — attached 2026-11-05 from Özsaban Aysel et al. (2026), which proposed "Scenario-based ROM exercises animation video (multiple sclerosis case, nursing-process scenario, 3D Studio Max)".
+- [Simulation training in VR or HFS significantly improves medical interns' self-reported confidence in managing oxygen desaturation](../claims/vr-hfs-desaturation-confidence-gain.md) [+M] — attached 2026-11-05 from Huh Yeon-Ju et al. (2026), which proposed "Scenario-based nonlinear decision-making VR system for oxygen desaturation management".
 
 ## Related Elements
 - [Problem Scenario](problem-scenario.md)

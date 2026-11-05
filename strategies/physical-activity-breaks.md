@@ -85,6 +85,7 @@ Sustained seated attention degrades over time, particularly for children; short 
 - [Check-In](../elements/check-in.md) — a low-movement alternative for reading the room's readiness state before deciding whether a break is needed
 - [Use a multiple-baseline across-classrooms observation routine to monitor on-task behavior around classroom activity breaks](multiple-baseline-ontask-observation-strategy.md)
 - [Incorporate a 3-minute low-intensity exercise break about 20 minutes into university lessons](three-minute-slow-aerobics-class-break.md)
+- [Schedule vigorous in-class exercise sessions after core academic lessons rather than before them](vigorous-activity-after-academic-lessons.md)
 
 ## Examples
 - **Instant Recess®** ([https://www.instantrecess.com](https://www.instantrecess.com)) — a 10-minute structured movement routine developed by Dr. Toni Yancey, designed for classrooms and workplaces.

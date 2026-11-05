@@ -49,3 +49,4 @@ Independent t-test comparison of 20-item OSCE procedural skills scores. The inte
 - [HFS/curriculum integration significantly improves knowledge of immediate newborn care (80% vs. 54%)](hfs-integration-newborn-care-knowledge.md) — related
 - [HFS/curriculum integration significantly improves OSCE performance in immediate newborn care (95% vs. 56%)](hfs-integration-newborn-care-osce.md) — related
 - [HFS/curriculum integration significantly improves knowledge of nursing care during vaginal delivery (86% vs. 46%)](hfs-integration-vaginal-delivery-knowledge.md) — related
+- [Improvement in the low-exposure skill vaginal delivery assistance was significantly greater than improvement in IUD removal, with all five core skills improving significantly](simulation-gains-largest-low-exposure-procedures.md) — related

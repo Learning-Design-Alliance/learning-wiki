@@ -50,3 +50,4 @@ Participant quotation from the thematic analysis of physician questionnaires. On
 - [Nurses and physicians emphasize different learning priorities during single-port robotic transition training](profession-specific-sp-learning-patterns.md) — related
 - [Joint team-based training during single-port transition clarifies role-specific constraints and improves collaborative problem-solving](joint-sp-team-training-shared-mental-models.md) — related
 - [Surgical performance improvement after virtual reality simulator training is limited to novice and intermediate trainees, not experienced or expert surgeons](vrs-performance-gains-novice-intermediate-only.md) — a broader claim this one bears on
+- [Team communication and decision-making gains show no significant differences across departments, experience levels, professions, or prior simulation exposure](communication-decision-gains-uniform-subgroups.md) — related

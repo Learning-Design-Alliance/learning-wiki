@@ -50,3 +50,4 @@ In the exploratory quasi-experimental study with 18 LPN students, two-way ANOVAs
 - [In Desktop-VR, interaction format (object movement vs. camera movement vs. no interaction) showed no significant main effect on learning outcomes](no-main-effect-interaction-format-desktop-vr.md) — related
 - [No difference in intrinsic cognitive load between visual-only and audio-visual text conditions in VR](vr-modality-no-intrinsic-load-difference.md) — related
 - [No difference in extraneous cognitive load between modality conditions in VR, contrary to the modality principle](vr-modality-no-extraneous-load-difference.md) — related
+- [In a crossover drawing study, illustrations produced while referencing a 2D cadaveric image or a prosection scored higher than those created using a VR model](vr-reference-lower-illustration-scores.md) — related

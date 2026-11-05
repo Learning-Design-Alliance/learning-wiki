@@ -56,3 +56,4 @@ Randomized single-blind experiment with 34 college students assigned to Active o
 - [Ten-day mental rotation training improves accuracy and response time, with behavioral benefits maintained up to 90 days post-training](mr-training-accuracy-rt-gains-90-days.md) — related
 - [Reaction times decreased with working memory training but were not additionally affected by tDCS](wmt-rt-decreases-unaffected-by-tdcs.md) — related
 - [The instruction-by-time interaction favoring the simulation group was only marginally significant (one-tailed p = 0.085, g2 = 0.05), and the main effect of instruction was not significant](interaction-marginally-significant-instruction-time.md) — related
+- [Response accuracy on the KoKi test increased over time in all groups, with no significant group differences or TIME × GROUP interaction](koki-accuracy-no-group-differences.md) — related

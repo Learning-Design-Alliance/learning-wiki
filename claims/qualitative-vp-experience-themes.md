@@ -53,3 +53,4 @@ Qualitative inductive content analysis of participants' open-ended responses in 
 - [Focus group interviews identified four user-experience themes: individualized learning, clinical reasoning engagement, educational applicability, and areas for improvement](vega-focus-group-four-themes.md) — related
 - [EFL learners perceive AI-mediated instruction as engaging, personalized, anxiety-reducing, and empowering for autonomous learning](learner-perceptions-ai-engagement-personalization.md) — related
 - [Open-ended QVP questions enabled nuanced reflection but introduced risk of socially desirable responses](open-ended-questions-reflection-and-bias-qvp.md) — related
+- [First-year AI simulation deployment faced operational challenges: unstable Wi-Fi disrupted sessions, background noise interfered with speech recognition, and missing dynamic nonverbal cues reduced realism](ai-sim-operational-challenges-uae.md) — related

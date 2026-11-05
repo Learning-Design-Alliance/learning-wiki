@@ -47,3 +47,4 @@ Group-level Wilcoxon tests on self-rated critical thinking (questionnaire), comp
 ## Related Claims
 - [Within-domain Socratic GenAI dialogue yields higher self-assessed critical thinking than outside-domain dialogue across all participants](within-domain-socratic-genai-raises-critical-thinking.md) — a broader claim this one bears on
 - [Both the GenAI-permitted and control groups improved significantly in instructional design performance and AI readiness over the course, but not in SRL or critical thinking](within-group-gains-design-and-ai-readiness-only.md) — related
+- [Master's students' basic immunology knowledge test scores improved significantly after the research topic–driven reform, while PhD students' gains did not reach significance](research-topic-driven-reform-masters-knowledge-score-gain.md) — related

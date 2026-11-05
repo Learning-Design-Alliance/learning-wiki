@@ -54,3 +54,4 @@ Descriptive actigraphy statistics from the week of monitoring in 160 adolescents
 - [Shorter time in bed the night before testing is associated with slower 3-back response times in older adolescents](acute-rest-time-slower-3back-response.md) — related
 - [Sleep the night before cognitive testing resembles weekly averages except for an earlier mid-sleep time](acute-sleep-matches-weekly-averages.md) — related
 - [Each additional hour of homework is associated with about 0.335 fewer hours of nightly sleep, and electronic device use is also negatively associated](homework-device-use-reduce-sleep-duration.md) — related
+- [Study time is negatively correlated with sleep duration, strengthening toward the exam day (r = −0.444), and higher study time is associated with poorer PSQI sleep quality](study-time-trades-off-against-sleep.md) — related

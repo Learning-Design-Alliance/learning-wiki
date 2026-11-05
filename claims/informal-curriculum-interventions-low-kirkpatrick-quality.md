@@ -56,3 +56,4 @@ Systematic review assessment of 11 included interventions using Kirkpatrick's hi
 - [Video review improves patient outcomes (Kirkpatrick level 4) in the single study reporting this level](video-review-kirkpatrick-level-4-patient-outcome.md) — related
 - [Limited evidence suggests PBL participants implement practice changes, but behavior-change data are sparse and mostly non-significant](pbl-behavior-change-limited-evidence-pgme.md) — related
 - [Four reviewed studies showed e-learning changed student study behaviour, including increased time invested in studying course subjects](elearning-behaviour-change-kirkpatrick-3.md) — related
+- [Self-assessed gains are Kirkpatrick level 2 perceptions, not evidence of behavioral change or durable effects](kirkpatrick-level2-limit-self-assessment.md) — related

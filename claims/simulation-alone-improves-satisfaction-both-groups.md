@@ -50,3 +50,4 @@ Wilcoxon signed-rank within-group analyses in the RCT show both conditions impro
 - [High-fidelity simulation yields higher student satisfaction and self-confidence in learning than low-fidelity models](hfs-3d-printer-moulage-higher-satisfaction-selfconfidence.md) — related
 - [High-fidelity simulation improves ECT procedural skills substantially but does not reliably improve theoretical knowledge or confidence](hfs-ect-procedural-skills.md) — reports the opposite
 - [HF simulation shows no significant benefit for satisfaction, confidence, or teamwork behaviors, and no long-term knowledge retention benefit](hf-simulation-null-secondary-outcomes.md) — reports the opposite
+- [High-fidelity simulation produced a significantly larger total self-confidence change score than theoretical instruction alone in senior nursing students](hfs-larger-selfconfidence-change-score-rct.md) — related

@@ -52,3 +52,4 @@ Expert-judgment evaluation in which seven instructors from Politecnico di Milano
 - [47.08% of the 242 correct MCQs met all evaluated criteria and only four items exhibited three or more flaws](mcq-flaw-cooccurrence-121-pass-all.md) — related
 - [Faculty-generated SBMCQs met all three ideal item-analysis criteria more often than ChatGPT-generated SBMCQs (19 vs. 9 of 40)](faculty-sbmcqs-outperform-chatgpt-ideal-criteria.md) — related
 - [Llama 2 generates MCQs of worse quality than humans on question clarity and distractor quality](llama-2-mcq-quality-worse-than-humans.md) — related
+- [Reviewers identified recurring weaknesses in AI-generated ethics MCQs: incorrect or missing best answers, overly obvious answers, and non-ethics content](ai-ethics-mcq-recurring-weaknesses.md) — reports the opposite

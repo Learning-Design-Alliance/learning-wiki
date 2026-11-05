@@ -53,3 +53,4 @@ Pearson correlation analysis among GPA, PSQI global score, ordinal IPAQ score, a
 - [Physical activity appears to partially offset the adverse association between poor sleep and GPA](pa-offsets-sleep-gpa-association.md) — related
 - [Physical activity and sleep quality independently predict GPA after adjusting for age and BMI, whereas BMI does not](pa-sleep-independent-gpa-predictors-regression.md) — related
 - [Poor sleep quality is highly prevalent (65.4%) among male university students in this Saudi cohort](poor-sleep-prevalence-male-saudi-students.md) — related
+- [Longer sleep on the exam day correlates weakly with higher most recent exam grade and higher GPA, but GPA is not correlated with PSQI score](exam-day-sleep-duration-correlates-grades-gpa.md) — reports the opposite

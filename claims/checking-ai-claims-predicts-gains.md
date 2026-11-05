@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: dimitrios-gousopoulos-2026
     resource: "https://doi.org/10.62225/2583049X.2026.6.3.6516"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r?` · `q2` · `i3` large
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Within the AI-assisted group, students who checked the AI's claims against sources more often showed larger decision-making gains (r = 0.52), an association rather than a tested effect of checking. [→ Dimitrios Gousopoulos 2026](#dimitrios-gousopoulos-2026)

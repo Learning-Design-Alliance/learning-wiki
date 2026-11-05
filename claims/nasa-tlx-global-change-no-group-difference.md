@@ -50,3 +50,4 @@ Exploratory comparison of NASA TLX global change scores in the randomized trial 
 - [Perceived performance subscale of the NASA-TLX changed differently between groups: simulator trainees reported reduced performance-related workload, game trainees did not](nasa-tlx-performance-subscale-group-difference.md) — related
 - [Under NASA TLX, AR-group students felt more frustrated but believed they performed relatively better, with nearly equal overall workload scores](nasa-tlx-frustration-perceived-performance-ar.md) — related
 - [Serious video game training is statistically non-inferior to mannequin-based simulator training for basic cardiac POCUS hand-eye coordination skills in medical novices](serious-game-noninferior-simulator-cardiac-pocus.md) — related
+- [Perceived cognitive load did not differ between facilitator-guided and self-guided debriefing groups](no-cognitive-load-difference-debriefing.md) — related

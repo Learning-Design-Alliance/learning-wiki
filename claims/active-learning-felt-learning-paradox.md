@@ -10,7 +10,6 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2025
-source_checked: 2026-10-28
 sources:
   - id: favero-2025
     resource: "https://doi.org/10.48550/arxiv.2507.06878"
@@ -34,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 theoretical `r2` · `q1`–`q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-28 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 

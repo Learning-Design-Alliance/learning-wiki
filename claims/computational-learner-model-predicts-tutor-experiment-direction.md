@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: weak
 newest_evidence: 2025
+recheck_by: 2028
 sources:
   - id: maclellan-2025
     resource: "https://doi.org/10.48550/arXiv.2502.02456"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · n=78 and 202 students
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 The paper proposes a "Model Human Learner": a computational model of learning that a designer could run to compare candidate interventions before testing them on people. This claim is about how well one such model predicted the outcomes of two experiments already run with students.
 

@@ -56,3 +56,4 @@ Pilot randomised controlled trial comparing SBS (n=42) and VBT (n=42) among four
 - [Both video-based and simulation-based training produce similarly high practical skills post-training with no overall between-group difference](video-and-simulation-similar-practical-skills-post-training.md) — related
 - [Facilitated interactive video and simulation-based training produce no statistically significant difference in 3-week BLS OSCE performance when both follow the same standardized lecture](bls-video-vs-simulation-osce-no-difference.md) — related
 - [Simulation training also improved theoretical knowledge of invasive coronary angiography relative to conventional video training](simulation-training-higher-theoretical-knowledge.md) — related
+- [Hybrid simulation-based training yields higher post-intervention suturing skill scores than routine mannequin training (P = 0.013, Cohen's d > 0.80)](hybrid-simulation-higher-suturing-scores-than-routine-training.md) — related

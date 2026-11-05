@@ -50,3 +50,4 @@ Multiple linear regression on the 321-nurse survey (R2 = 0.552, adjusted R2 = 0.
 - [Higher educational qualification and longer nursing experience predict self‐reported skills, but demographic factors do not predict perceived knowledge](qualification-experience-predict-skills-not-knowledge.md) — related
 - [Hospital grade, job position, work experience, and teaching experience distinguish core competence levels](demographic-factors-core-competence-nurses.md) — related
 - [Permanent employment is associated with higher patient safety competency scores](permanent-employment-higher-psc.md) — related
+- [Work experience, but not gender, education, or job category, significantly predicts organizational maturity](work-experience-significant-demographic-predictor-maturity.md) — related

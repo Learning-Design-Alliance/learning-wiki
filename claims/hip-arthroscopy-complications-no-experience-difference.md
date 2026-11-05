@@ -54,3 +54,4 @@ Random-effects meta-analysis of six studies reporting overall complications, whe
 - [Late-experience hip arthroscopy cases achieve higher functional improvement in MCID units than early-experience cases](hip-arthroscopy-experience-higher-functional-mcid.md) — related
 - [Blood loss, urinary complications, and morbidity decreased during the proficiency phase of robotic LLND](robotic-llnd-outcomes-improve-proficiency.md) — related
 - [Fellowship-trained surgeons showed shorter operative times and fewer complications compared with non-fellowship peers](fellowship-trained-surgeons-shorter-operative-times-fewer-complications.md) — related
+- [Odds of early complications decreased with institutional case number, independent of individual surgeon differences](complication-odds-decrease-institutional-experience.md) — related

@@ -53,3 +53,4 @@ Cross-sectional study at Kasturba Medical College, Manipal, India, streaming the
 - [81.9% of students endorsed the Anatomage as realistic compared to cadaveric dissection, with 'somewhat realistic' (67.0%) exceeding 'very realistic' (14.9%)](anatomage-realism-compared-to-cadaveric-dissection.md) — related
 - [Team RATs almost always reuse the i-RAT MCQs immediately afterwards, with in-session immediate feedback via IF-AT mechanisms and facilitator-led clarification](trat-same-mcqs-immediate-feedback-ifat.md) — related
 - [Students report greater satisfaction with VR-based anatomy learning than with conventional or 2D methods](vr-anatomy-satisfaction-advantage.md) — related
+- [Remote one-to-one procedural training via HoloLens 2 was feasible, with no tutorials cancelled for technology issues](hololens-remote-procedural-training-feasible.md) — related

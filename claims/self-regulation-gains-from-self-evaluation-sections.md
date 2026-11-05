@@ -9,7 +9,6 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2016
-source_checked: 2026-11-02
 sources:
   - id: feola-2016
     resource: "https://doi.org/10.13189/ujer.2016.040929"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2016 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students' ability to monitor the problem-solving process, check adopted strategies and correct them when not relevant, and their performance rose from pre-test to post-test after self-evaluation sections administered to each learner, in one one-group study with no comparison group. [→ Feola 2016](#feola-2016)

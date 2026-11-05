@@ -52,3 +52,4 @@ Logistic regression analysis of six Mini-Z 2.0 well-being items among 1,152 Japa
 - [Required scholarly activity shows a small adjusted ACE tool score difference and higher odds of future academic interest compared to no scholarly activity](required-scholarly-activity-ace-and-interest.md) — related
 - [Clinical research during junior residency is associated with higher odds of future academic interest but not with higher ACE tool scores](clinical-research-future-academic-interest.md)
 - [Depression symptom odds are heterogeneous across scholarly activity subgroups, with higher odds among those without clinical research or without requirements](depression-odds-heterogeneous-scholarly-subgroups.md)
+- [Burnout symptom prevalence does not differ significantly by hospital inpatient volume category](burnout-not-differ-by-inpatient-volume.md) — related

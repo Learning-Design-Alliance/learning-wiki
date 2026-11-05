@@ -9,7 +9,7 @@ generated:
   at: 2026-10-07
 evidence_strength: moderate
 newest_evidence: 2013
-source_checked: 2026-10-19
+source_checked: 2026-11-05
 sources:
   - id: kim-2013
     resource: "https://doi.org/10.1007/s11145-013-9440-9"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2013 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Phonological awareness and alphabet knowledge fluency were both uniquely related to word reading and spelling (ps ≤ .002) after accounting for each other, vocabulary knowledge, and letter writing automaticity. [→ Kim 2013](#kim-2013)

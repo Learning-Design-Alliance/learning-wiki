@@ -67,6 +67,7 @@ Offering multiple representations and modes of expression broadens access and gi
 - [Leverage cognitive strengths of low-SES children via group work, real-world application, and oral/narrative learning and assessment](leverage-hidden-talents-low-ses.md)
 - [Offer developmental writing students the feedback type that suits teacher needs, student learning style, and the assignment](match-feedback-type-to-teacher-and-student.md)
 - [Use general teaching techniques and materials that cover the needs of learners with diverse learning preferences](general-techniques-diverse-learning-preferences.md)
+- [Categorize digital medical courses as knowledge-, skill-, or problem-based and match each to its delivery format](three-digital-course-types-delivery-matching.md)
 
 ## Examples
 - A statistics tutor lets a learner who struggles with formulas first solve a real-world estimation problem hands-on, then maps the solution back onto the formal notation — the practical route becomes the bridge to the theoretical one.

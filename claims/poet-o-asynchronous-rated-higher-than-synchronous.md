@@ -52,3 +52,5 @@ In the four-facet Rasch model, asynchronous lessons scored M = −0.19 (SE = 0.0
 - [The 4-category rating scale of the POET-O functions properly overall but its threshold structure could be improved](poet-o-rating-scale-functions-with-disordered-thresholds.md) — related
 - [The POET-O demonstrates adequate construct validity and reliability for peer evaluation of single online lessons](poet-o-valid-reliable-peer-evaluation-online-lessons.md) — related
 - [The free, self-paced micro-courses showed an 82% completion retention rate, and most participants found the online, asynchronous format appealing](micro-courses-high-retention-and-format-appeal.md) — related
+- [Asynchronous courses scored higher than synchronous on system quality, self-efficacy, and continuance intention, while synchronous scored higher on teaching presence](asyn-vs-syn-latent-mean-differences.md) — related
+- [The authors interpret the OLM's advantages as stemming primarily from learner autonomy and asynchronicity rather than online delivery per se](autonomy-asynchronicity-interpretation-olm-advantage.md) — related

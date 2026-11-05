@@ -50,6 +50,7 @@ Based on nurses' feedback and the authors' recommendations, digital training pla
 - [Vary online teaching and learning activities to counter fatigue and anxiety in lengthy online sessions](vary-online-activities-lengthy-sessions.md)
 - [Use deliberate practice with repeated case-based engagement and immediate feedback for assessment skill training](deliberate-practice-case-based-pain-assessment-training.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
+- [Expand the VSP case library, stratify difficulty, and add richer interactivity and non-verbal cue capture](expand-vsp-case-library-and-nonverbal-cues.md)
 
 ## Examples
 -

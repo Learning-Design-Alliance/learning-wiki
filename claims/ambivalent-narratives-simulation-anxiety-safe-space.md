@@ -54,3 +54,4 @@ Bardin's content analysis of free narratives on simulation days (Table 3) identi
 - [Clinical simulation is perceived as a safe environment that allows learning from mistakes without risk to patients](simulation-safe-environment-learning-from-errors.md) — related
 - [Simulation-based BLS training evokes strong emotional engagement and builds nursing students' confidence through repeated practice in a safe, mistake-tolerant environment](simulation-bls-emotional-engagement-confidence.md) — related
 - [Peer observation anxiety, limited practice time, and large group sizes are perceived barriers to optimal learning in simulation-based BLS training](simulation-bls-perceived-barriers.md) — a narrower finding that bears on this claim
+- [Nervousness is the main emotion students identify after their first simulation day, and students link nerves to detrimentally influenced client interactions](nervousness-main-emotion-simulation-reflection.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: moderate
 newest_evidence: 2018
-source_checked: 2026-10-18
+source_checked: 2026-11-05
 sources:
   - id: voet-2018
     resource: "https://doi.org/10.1007/s11251-017-9439-8"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
-> **Currency** · newest study 2018 · checked against its sources 2026-10-18 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Student teachers' value for procedural knowledge goals increased significantly from pre- to posttest after a four-hour technology-enhanced inquiry activity. [→ Voet 2018](#voet-2018)

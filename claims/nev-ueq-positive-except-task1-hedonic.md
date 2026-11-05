@@ -52,3 +52,6 @@ Figure 4 reports average UEQ-S ratings (normalized -3 to +3) per task from the i
 - [Perceived usefulness and realism are the most common UX dimensions assessed, with less experienced users rating usefulness more positively](ux-usefulness-realism-dominant-dimensions.md) — related
 - [Users rated the pediatric endocrinology e-learning tool positively across all six UEQ categories, with attractiveness and stimulation highest and dependability lowest](ueq-positive-evaluation-pediatric-elearning.md) — related
 - [The simulation model demonstrated high usability across all six UEQ domains, with attractiveness rated highest and excellent internal consistency (Cronbach's alpha = 0.91)](sbml-probing-simulator-ueq-usability.md) — related
+- [The EyelearnMR platform received positive User Experience Questionnaire evaluations for attractiveness, efficiency, dependability, stimulation, and novelty, with perspicuity neutral](eyelearnmr-positive-ueq-evaluations.md) — related
+- [User Experience Questionnaire evaluations did not differ significantly between the EyelearnMR and control groups](no-ueq-difference-between-arms.md) — related
+- [On the UEQ-S, HFS was rated more supportive, easy, efficient, and clear than VR, while both modalities scored above 5 on all usability items](ueq-s-usability-group-differences.md) — related

@@ -60,3 +60,4 @@ RCT comparing immersive VR with conventional live simulation in 120 medical and 
 - [Immersive VR tracheostomy training reduced anxiety more than regular training at follow-up](vr-tracheostomy-training-reduced-anxiety.md) — related
 - [VR and conventional teaching produce equivalent medium-term learning success after one month](vr-unit-equivalent-medium-term-learning-success.md) — related
 - [No significant performance difference between VR and small group fellows on any of the 4 individual tracheostomy emergency cases](vr-small-group-no-case-level-difference.md) — related
+- [Remote AR simulation is noninferior to in-person simulation across all four BARS nontechnical behavior domains](remote-ar-noninferior-bars-domains.md) — related

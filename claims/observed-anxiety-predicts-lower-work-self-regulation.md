@@ -9,7 +9,6 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2011
-source_checked: 2026-10-17
 sources:
   - id: berhenke-2011
     resource: "https://doi.org/10.1016/j.ecresq.2011.04.001"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2011 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Expressions of anxiety predicted lower work-related and self-regulation skills. [→ Berhenke 2011](#berhenke-2011)

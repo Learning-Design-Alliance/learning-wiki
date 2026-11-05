@@ -49,3 +49,5 @@ Randomized controlled non-inferiority trial with 97 analyzed medical students ra
 - [No between-group differences in changes on any modified OSAUS subcategory, including image optimization](osaus-subcategory-changes-null-between-groups.md) — related
 - [Perceived performance subscale of the NASA-TLX changed differently between groups: simulator trainees reported reduced performance-related workload, game trainees did not](nasa-tlx-performance-subscale-group-difference.md) — related
 - [Global cognitive load (NASA TLX) change did not differ between training groups](nasa-tlx-global-change-no-group-difference.md) — related
+- [Remote AR simulation is noninferior to traditional in-person simulation for team leader checklist performance in a VF cardiac arrest scenario](remote-ar-noninferior-checklist-team-leader-performance.md) — a narrower finding that bears on this claim
+- [The review reports that simulator training was not inferior to live training for beginners without prior transthoracic echocardiography experience](simulator-training-not-inferior-to-live-training-beginners.md) — related

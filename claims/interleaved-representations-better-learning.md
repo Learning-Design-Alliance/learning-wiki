@@ -9,7 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-10-28
+source_checked: 2026-11-05
 sources:
   - id: rau-2014
     resource: "https://doi.org/10.1007/s40593-013-0011-7"
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i1` small · n=230
-> **Currency** · newest study 2014 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Across four practice schedules there was no significant main effect of schedule; the fully interleaved schedule significantly outperformed the other three on delayed conceptual transfer (d=0.33), the increasingly interleaved schedule had a marginal advantage on reproduction with area models (p<0.10, d=0.30), and the fully interleaved schedule beat the blocked one for students with low prior knowledge. [→ Rau 2014](#rau-2014)

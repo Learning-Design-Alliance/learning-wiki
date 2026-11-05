@@ -51,3 +51,4 @@ Descriptive statistics from the cross-sectional survey of 842 nursing students (
 - [Educator competence perception partially mediates the association between professional identity and willingness to engage in geriatric nursing](educator-competence-perception-partial-mediation.md) — related
 - [The three measurement instruments show acceptable reliability and validity in this sample](measurement-model-cfa-reliability-validity.md) — related
 - [The three competency profiles diverge significantly in professional identity (F = 24.11, η2 = 0.17), supporting external validity of the profiles.](profiles-diverge-professional-identity-external-validity.md) — related
+- [Chinese nursing students show moderate narrative competence, with only 16.1% at the strong level](nursing-students-moderate-narrative-competence-16-percent-strong.md) — related

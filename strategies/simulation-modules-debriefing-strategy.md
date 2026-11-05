@@ -54,6 +54,7 @@ The authors recommend that advanced simulation-based scenarios be embedded into 
 - [Integrate structured debriefing into simulation curricula with systematic teacher training and multi-method evaluation](debriefing-integration-strategy-nursing-education.md)
 - [Structured tutor-guided debriefing to drive reflective observation and abstract conceptualisation](structured-debriefing-reflection-bedside.md)
 - [Structured post-scenario debriefing after each simulation scenario](post-scenario-debriefing-triage-simulation.md)
+- [Integrate narrative medicine modules, simulation-based patient interaction, reflective writing, and digital storytelling into nursing curricula](integrate-narrative-medicine-digital-storytelling-nursing-curricula.md)
 
 ## Examples
 -

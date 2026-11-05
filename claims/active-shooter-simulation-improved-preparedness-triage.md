@@ -53,3 +53,4 @@ Quasi-experimental pre–post one-group study (Levey and Montenegro‐Montenegro
 - [PFA training improved nursing students' self-efficacy in disaster intervention and perception of disaster preparedness](pfa-training-improved-student-self-efficacy-preparedness.md) — related
 - [Interprofessional mass casualty incident simulation increased disaster-response confidence in 96% of participating pre-licensed nursing students](mass-casualty-simulation-confidence.md) — related
 - [A competency-based multiactor emergency preparedness training curriculum improved cognitive knowledge, self-assessed skill, and scenario performance after video debriefing](competency-based-multiactor-ept-improved-performance.md) — related
+- [SKIT improves triage accuracy but not significantly the reasonableness of emergency management plans](skit-triage-accuracy-management-plan-decision-making.md) — related

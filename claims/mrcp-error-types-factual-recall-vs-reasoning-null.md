@@ -52,3 +52,4 @@ Two-proportion Z test on ChatGPT-4's 16 incorrect MRCP Part 1 questions (4 factu
 - [ChatGPT-4 outperformed ChatGPT-3.5 in every postgraduate examination both models were tested on](chatgpt-4-outperformed-35-in-all-shared-exams.md) — related
 - [Task nature modulates brain activation: problem-solving tasks and difficult cases induced higher activation than simple recall or routine cases, and incorrect answers induced higher PFC activation than correct answers](task-difficulty-modulates-brain-activation.md) — related
 - [Pre-course test reveals high factual recall but insufficient clinical application ability under traditional teaching](pre-course-test-reveals-application-deficit-traditional-teaching.md) — related
+- [The evaluated LLMs show higher accuracy on knowledge-based than case-based DUS questions, indicating a limitation in clinically oriented reasoning](llm-knowledge-beats-case-based-prosthodontics.md) — related

@@ -52,3 +52,4 @@ Demographic analysis within the cross-sectional survey of 397 nurses. Null findi
 - [Teachers' SRL competence profiles do not differ by gender, age, or teaching experience](srl-profiles-no-demographic-differences.md) — related
 - [Demographic moderators (child gender, parent gender, ethnicity, sample type, socio-economic status) show limited moderating effects on the self-efficacy–partnership association](limited-demographic-moderators.md) — related
 - [All NEBPPR subscales correlate positively with PCC competency subscales and total scores, strongest for NEBPPR Total and PCC Total](spearman-positive-correlations-nebppr-pcc.md) — related
+- [Student leadership experience and number of communication skills training sessions, but not other demographics, associate with communication competence subscales](leadership-and-training-associated-communication-competence.md) — related

@@ -50,3 +50,4 @@ Wilcoxon signed-rank within-group analysis of the intervention group in the quas
 - [A 4-hour WHO-based PFA training program significantly increases community nurses' PFA knowledge immediately after training, with a smaller but sustained advantage at 2 months](pfa-training-increases-community-nurse-knowledge.md) — related
 - [Overall PFA competence (total score) is significantly higher in the trained group only immediately after training, not at the 2-month follow-up](pfa-total-competence-t1-only.md) — related
 - [Knowledge and self-efficacy scores remained stable, while attitude scores slightly decreased from post-test to two-month follow-up among medical interns in one uncontrolled pre-post study](knowledge-self-efficacy-attitude-retention.md) — related
+- [Both reflection methods showed good memory retention over two months in large lecture cohorts](both-reflection-methods-good-retention-two-months.md) — related

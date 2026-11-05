@@ -52,3 +52,4 @@ Post-intervention seven-item questionnaire completed only by the experimental gr
 - [Students expressed highly positive feedback toward the game-based learning approach across knowledge, attitude, habit, and viewpoint aspects](positive-student-feedback-game-based-nutrition.md) — related
 - [Students in the experimental group reported that Kahoot quizzes helped, were fun, and left them feeling positive about exam preparation](kahoot-fun-engaging-positive-experience.md) — related
 - [Both control and experimental students responded positively to e-learning, with the experimental group's attitude slightly higher](student-attitudes-elearning-experimental-higher.md) — related
+- [Students reported favorable perceptions of Kahoot! gamification across reaction, acceptance, perceived learning, behavior change, and collaboration](student-favorable-perceptions-kahoot.md) — related

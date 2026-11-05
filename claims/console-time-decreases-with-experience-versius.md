@@ -54,3 +54,4 @@ Predictive linear mixed-effects model built on Senior 1's data, plotting estimat
 - [Tertile analysis showed a significant stepwise decrease in operative time across experience but only a non-significant decreasing trend in composite failure](tertile-analysis-stepwise-operative-time.md) — related
 - [Mean procedure time decreased from 3.45 to 1.53 minutes after training (p < 0.001)](sbml-probing-procedure-time-reduction.md) — related
 - [Console time and active time decrease significantly between the initial and proficiency phases of the RPD learning curve](console-active-time-decrease-across-rpd-curve.md) — related
+- [No significant differences in learning progression between individual console surgeons](no-surgeon-level-learning-progression-differences.md) — related

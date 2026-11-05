@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-05
 sources:
   - id: cate-2015
     resource: "https://eric.ed.gov/?id=EJ1061484"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants (758 faculty, staff and administrators; 65% staff) showed a statistically significant change in GBS preparedness composite scores across pretraining, posttraining and 3-month follow-up, F(2, 758) = 927.4, p < .01: posttraining and follow-up scores were both significantly higher than baseline, though follow-up was significantly lower than posttraining. [→ Cate 2015](#cate-2015)

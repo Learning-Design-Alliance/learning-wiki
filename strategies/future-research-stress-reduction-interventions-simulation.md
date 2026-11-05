@@ -41,7 +41,8 @@ The review's forward-looking recommendation for the simulation community: conduc
 
 
 ## Related Strategies
-- 
+
+- [Design simulation scenarios that explicitly address psychological support and system knowledge, and use repeated sessions to affect stress](scenario-psychological-support-repeated-sessions-strategy.md)
 
 ## Examples
 -

@@ -54,3 +54,6 @@ Independent-samples t test comparing GPA between good (PSQI ≤ 5) and poor (PSQ
 - [Physical activity and sleep quality independently predict GPA after adjusting for age and BMI, whereas BMI does not](pa-sleep-independent-gpa-predictors-regression.md) — a broader claim this one bears on
 - [GPA differs significantly across physical activity levels among male university students, rising stepwise from low to high activity](pa-category-gpa-dose-response-male-students.md) — related
 - [Good sleep quality is associated with better academic achievement among Ethiopian university students](sleep-quality-associated-academic-achievement-ethiopia.md) — a broader claim this one bears on
+- [After adjustment, dentistry students had higher odds of poor sleep quality than both midwifery/nursing and medicine students, and female students higher odds than male students](dentistry-female-higher-odds-poor-sleep.md) — related
+- [Longer sleep on the exam day correlates weakly with higher most recent exam grade and higher GPA, but GPA is not correlated with PSQI score](exam-day-sleep-duration-correlates-grades-gpa.md) — reports the opposite
+- [Students with good sleep quality scored higher on the most recent exam than students with poor sleep quality, but cumulative GPA did not differ between the groups](exam-grade-higher-good-sleep-quality-gpa-null.md) — reports the opposite

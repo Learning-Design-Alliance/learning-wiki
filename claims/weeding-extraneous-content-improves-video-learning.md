@@ -9,7 +9,7 @@ generated:
   at: 2026-10-15
 evidence_strength: weak
 newest_evidence: 2016
-source_checked: 2026-10-19
+source_checked: 2026-11-05
 sources:
   - id: brame-cynthia-j-2016
     resource: "https://doi.org/10.1187/cbe.16-03-0125"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2016 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Eliminating interesting but extraneous information that does not contribute to the learning goal can improve retention and transfer from video. [→ Brame Cynthia J 2016](#brame-cynthia-j-2016)
@@ -54,3 +54,4 @@ The essay reports, citing Ibrahim et al. (2012), that weeding "can improve reten
 - [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](redundancy-hurts-learning.md) — related
 - [Weeding seductive details fostered learning only in a mandatory (high-reward) learning situation, not a voluntary one](weeding-effective-only-mandatory-learning.md) — related
 - [Background music with lyrics impaired reading comprehension and listening performance, especially under high linguistic load](lyrical-bgm-interference.md) — a narrower finding that bears on this claim
+- [More benchmark videos at varied performance levels may clarify the expected standard, but increasing video number or explanation complexity risks overload that reduces engagement; examiners judged two to three videos an optimal compromise](more-benchmark-videos-help-but-risk-overload.md) — related

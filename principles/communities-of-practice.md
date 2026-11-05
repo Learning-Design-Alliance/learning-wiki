@@ -36,7 +36,7 @@ sources:
 # Communities of Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (23 for, 10 mixed, 1 against) · 31 studies (7 review, 7 qualitative, 6 causal, 3 quant-synthesis, 3 associational, 3 theoretical, 2 design), `q1`–`q4` · 2 of 31 report an effect size · 31 claims rest on one study
+> **Evidence** · 35 claims (24 for, 10 mixed, 1 against) · 32 studies (8 qualitative, 7 review, 6 causal, 3 quant-synthesis, 3 associational, 3 theoretical, 2 design), `q1`–`q4` · 2 of 32 report an effect size · 32 claims rest on one study
 
 ## Conditional relationship
 
@@ -128,6 +128,7 @@ Re-read 2026-10-19 against the model above. The community-specific claims listed
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [~S] — not settled: the text available could not confirm the entries (abstract). Faded worked examples and a scaffolding review; the community analogue (facilitator handing over to members, step 2) is untested.
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+M] — checked by the judge: all 1 entries pass (abstract). A design argument about training, not about communities.
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — not settled: the text available could not confirm the entries (abstract). One-to-one tutoring studies; bears on coaching newcomers responsively (step 4) by transport.
+- [Moderators fostered participation through personalized prompts, affirming language, welcoming tone, and balanced encouragement frequency](../claims/moderator-participation-encouragement-techniques.md) [+W] — attached 2026-11-05 from Stone Alicia et al. (2026), which proposed "Invest in competency-based moderator training emphasizing empathetic communication and collaborative techniques to structure effective virtual communities of practice".
 
 ## Objective and learner-valued goal
 

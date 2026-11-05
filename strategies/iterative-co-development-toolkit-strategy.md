@@ -45,6 +45,7 @@ The partnership builds the toolkit through joint development with participating 
 - [Phase the intervention through cohorts that move from development to usability/feasibility testing to efficacy testing](phased-cohort-development-usability-efficacy-testing.md)
 - [Pair rapid evidence synthesis with community co-development to speed usable implementation plans](rapid-evidence-synthesis-with-community-codevelopment.md)
 - [Use design-based implementation research with educator co-design and iterative pre-post testing cycles to develop a usable, feasible classroom intervention.](dbir-iterative-co-design-process.md)
+- [Use a train-the-trainer faculty development model with rapid-cycle quality improvement and participatory design to implement a longitudinal teamwork curriculum](train-the-trainer-participatory-qi-strategy.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ The review reports findings from Benedetto et al. [2024] on simulating student r
 - [Higher knowledge-identification accuracy is associated with improved knowledge coverage in LLM-generated questions under Chain-of-Thought prompting](positive-correlation-identification-coverage.md) — related
 - [Simulating higher-cognitive-ability students is easier: simulation quality correlates positively with student cognitive score](simulation-quality-correlates-with-cognitive-ability.md) — related
 - [The competence paradox: broadly capable LLMs cannot genuinely unknow expert knowledge when simulating novices](competence-paradox-llm-student-simulation.md) — related
+- [Within justifying, students identified associations, explained associations, thought probabilistically, and prioritized evidence](justifying-four-strategies-associations-probabilistic-evidence.md) — related

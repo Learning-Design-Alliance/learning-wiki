@@ -53,3 +53,4 @@ Findings from the qualitative survey case study, analyzed through a critical fem
 - [Adaptive leadership is a critical enabler of successful AI adoption and institutional transformation in higher education](adaptive-leadership-enables-ai-adoption.md) — a broader claim this one bears on
 - [Faculty transformation followed four themes: fear shifting to curiosity, desire for ethical clarity, inclusive design as equity amplifier, and evolution from gatekeepers to guides](four-themes-faculty-ai-transformation.md) — related
 - [GenAI use involves substantial hidden labor of prompting, verification, and correction that remains invisible in productivity evaluation](genai-hidden-verification-labor-invisible.md) — a broader claim this one bears on
+- [Faculty described a gradual identity shift from educator–clinician toward service-oriented clinician under repeated exposure to service-oriented metrics](htp-faculty-role-identity-shift-toward-service-provider.md) — related

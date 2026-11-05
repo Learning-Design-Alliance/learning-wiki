@@ -59,3 +59,5 @@ Chi-squared tests on survey data from 327 students compared perceptions across f
 - [Most students agreed TBL enhanced critical thinking, engagement, accountability, and conceptual understanding, but only about half wanted TBL extended to other modules.](tbl-positive-feedback-mixed-acceptability.md) — related
 - [PBL raises student satisfaction and learning interest, and both correlate positively with final overall academic performance](pbl-satisfaction-interest-correlate-performance.md) — related
 - [First-year medical students reacted positively to the e-modules and preferred them as a supplement to, not a replacement for, traditional teaching](students-prefer-e-modules-as-supplement.md) — related
+- [Students perceive case-based learning as developing early clinical reasoning and critical thinking in the preclinical years](cbl-perceived-clinical-reasoning-development.md) — related
+- [SKIT improves recognition of thinking ability, communication skills, and practical application, but not significantly learning interest or knowledge understanding](skit-recognition-teaching-process-mixed.md) — related

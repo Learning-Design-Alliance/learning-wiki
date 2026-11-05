@@ -59,3 +59,4 @@ The review's thematic synthesis of challenges across the included studies identi
 - [Students perceived community care simulation scenarios as realistic and valuable for applying theory, clinical reasoning and communication](ccs-perceived-strengths-realism-reasoning-communication.md) — related
 - [Conventional OSCEs face systemic limitations including restricted clinical scenario range, reliability concerns, and high preparation burden](conventional-osce-systemic-limitations.md) — related
 - [Technology-enhanced experiential methods (e.g., CGM wear, virtual patient care) improve knowledge and self-efficacy but face cost and scalability constraints](tech-experiential-positive-but-scalability-limited.md) — related
+- [First-year AI simulation deployment faced operational challenges: unstable Wi-Fi disrupted sessions, background noise interfered with speech recognition, and missing dynamic nonverbal cues reduced realism](ai-sim-operational-challenges-uae.md) — related

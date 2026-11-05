@@ -9,7 +9,6 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2016
-source_checked: 2026-11-03
 sources:
   - id: naumenko-and-naumenko-2016
     resource: "https://doi.org/10.13187/ejced.2016.17.335"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2016 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students in the experimental groups showed an average increase of 18.5% in tolerant consciousness across academic years on the self-report questionnaire (average 78.0% before to 96.5% after, Table 3); expert ratings were reported separately as showing positive dynamics, with no percentage change given. [→ Naumenko and Naumenko 2016](#naumenko-and-naumenko-2016)

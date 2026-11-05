@@ -49,3 +49,4 @@ Descriptive pre/post questionnaire comparison (Table 6, Figure 3) showing shifts
 - [Students reported high confidence gains in history-taking, differential diagnosis, and management planning from AIVP](aivp-survey-confidence-gains.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — a broader claim this one bears on
 - [Before using the tool, undergraduate dental students mainly did not feel confident performing endodontic diagnostics independently and wanted more diagnostic training opportunities](baseline-low-endodontic-diagnostic-confidence.md) — related
+- [Undergraduate dental students perceive that PBL builds self-efficacy, moving from initial uncertainty toward confidence in independent learning](pbl-builds-self-efficacy-from-uncertainty.md) — related

@@ -69,3 +69,4 @@ Post-task questionnaire with 25 items (21 Likert-scale) completed by 30 students
 - [Student satisfaction with the online flipped classroom course was significantly above the neutral point](ofc-student-satisfaction-above-neutral.md) — related
 - [Students rated the chatbot interface highly, with 100% strongly agreeing the on-screen words were easy to read and 85.7% strongly agreeing multimedia improved case presentation](ai-roleplay-interface-usability-ratings.md) — a narrower finding that bears on this claim
 - [Most students in the experimental group reported positive perceptions of the examination-aligned blended teaching model](student-satisfaction-blended-exam-aligned.md) — related
+- [Students rated the cartooning activity highly for engagement, learning and understanding, with average scores of 4.8, 4.5 and 4.2 on a 5-point scale](cartooning-high-engagement-learning-ratings.md) — related

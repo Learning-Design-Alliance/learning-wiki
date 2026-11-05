@@ -54,3 +54,4 @@ LC-CUSUM analysis of the prospective cohort using console time thresholds (<165/
 - [LC-CUSUM trajectories showed progressive skill acquisition in both groups, with descriptive trends toward earlier competency in the mikoto arm](mikoto-lc-cusum-learning-curves.md) — related
 - [Case-mix imbalance (all grade IV patients and more prior procedures in Phase 1) did not fully explain the learning effect in risk-adjusted analysis](case-mix-imbalance-exploratory-adjustment.md) — related
 - [Learning curves showed proficiency gains with inflection points at session 6 (juniors) and session 4 (intermediates)](learning-curve-cusum-inflection-points.md) — related
+- [Both centers reached pre-defined institutional proficiency in robotic liver surgery at comparable case volumes (case 124 at UMCU and case 133 at KUH)](institutional-proficiency-124-133-cases.md) — related

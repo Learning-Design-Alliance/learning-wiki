@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: delbene-lara-2026
     resource: "https://doi.org/10.1111/inr.70193"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a pre–post evaluation without control group, cognitive knowledge rose from pretest mean 12.3 (SD 3.8) to post-training mean 18.5 (SD 2.2), and scenario performance improved after debriefing from 23/34 to 31/34 objectives completed by ≥50% of teams. [→ Delbene Lara 2026](#delbene-lara-2026)

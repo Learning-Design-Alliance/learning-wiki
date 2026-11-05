@@ -48,3 +48,4 @@ ANCOVA of the attitude-toward-humor scale (29 items, reliability 0.92) for both 
 - [Iranian undergraduate EFL learners taught idioms with humorous video clips hold positive attitudes toward their classroom use](positive-attitudes-toward-humorous-video-clips.md) — related
 - [ANCOVA controlling for pre-test scores showed a significant post-test attitude difference favoring the project-based group](ancova-significant-posttest-attitude-difference-pbl.md) — reports the opposite
 - [When pretest scores were controlled, the posttest attitude difference between the visual-materials and traditional groups was not statistically significant, though the experimental group's adjusted mean was higher](ancova-no-significant-group-attitude-difference.md) — related
+- [Scenario-based animation training produced higher post-test e-learning attitudes than routine skill video training, which alone did not change attitudes](rom-animation-higher-attitude.md) — related

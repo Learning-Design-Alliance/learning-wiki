@@ -52,3 +52,4 @@ In the linear mixed-effects model of 80 students' overall scores, the interactio
 - [A randomized controlled trial found VR and conventional 2D approaches both improved orthognathic diagnosis and treatment planning understanding with no significant difference between groups](vr-versus-conventional-orthognathic-planning-no-difference.md) — related
 - [Overall occlusal rest seat preparation scores improved significantly across three repeated practice sessions in both training groups](overall-scores-improve-across-repeated-rest-seat-sessions.md) — related
 - [Session-level effect sizes for the group difference grew to a moderate level approaching Hattie's hinge point](session-level-effect-sizes-approach-hinge-point.md) — related
+- [Theoretical exam scores did not differ between conventional, digital-only, and hybrid instructional groups](theoretical-exam-scores-similar-three-instructional-models.md) — related

@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 238 claims (121 for, 98 mixed, 19 against) · 131 studies (37 causal, 36 review, 18 design, 16 quant-synthesis, 14 qualitative, 6 associational, 4 theoretical), `q1`–`q4` · 26 of 131 report an effect size · 233 claims rest on one study
+> **Evidence** · 239 claims (122 for, 98 mixed, 19 against) · 132 studies (37 causal, 36 review, 18 design, 16 quant-synthesis, 14 qualitative, 7 associational, 4 theoretical), `q1`–`q4` · 26 of 132 report an effect size · 234 claims rest on one study
 
 ## Description and scope
 
@@ -166,6 +166,7 @@ Read against the model on 2026-10-19; these bear on the page but do not change a
 - [AI-generated feedback following social robotic VP interactions improves medical students' total OSCE performance (Cohen d=0.74)](../claims/ai-feedback-sari-improves-total-osce.md) [+M] — attached 2026-11-05 from Alexander Borg et al. (2026), which proposed "Integrate validated AI-generated feedback as a supplement to expert-led teaching during VP simulations".
 - [Simulation-based role-play was associated with larger self-reported gains in empathy, understanding emotional responses, and responding to emotional cues than lecture-based training](../claims/simulation-larger-emotional-communication-gains.md) [~W] — attached 2026-11-05 from Alghzawi A et al. (2026), which proposed "Integrate structured role-play and simulation exercises into medical communication curricula alongside didactic teaching"; tests this page's relationship.
 - [Sixth-year simulation students reported higher post-training knowledge, competence, and comfort than fifth-year lecture students](../claims/simulation-cohort-higher-post-training-scores.md) [~W] — attached 2026-11-05 from Alghzawi A et al. (2026), which proposed "Integrate structured role-play and simulation exercises into medical communication curricula alongside didactic teaching"; tests this page's relationship.
+- [Repeated deliberate practice over 20 virtual patient cases improves diagnostic justification, test ordering, cognitive errors, and misdiagnosis rates without plateau](../claims/deliberate-practice-improves-cr-no-plateau.md) [+W] — attached 2026-11-05 from Waechter Jason et al. (2026), which proposed "Start clinical reasoning training with virtual patient deliberate practice at the beginning of first year, before significant medical knowledge is acquired"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

@@ -50,3 +50,4 @@ Two-sample t-tests of Teacher Satisfaction Survey scores (22 items, coefficient 
 - [Neither PD approach changed teacher perceptions of teaching or attitudes towards teaching](pd-no-change-teacher-perceptions.md) — related
 - [No survey item differed significantly between the two clinical teaching bases; all categorical effect sizes were negligible (|Cohen's h| ≤ 0.143)](no-between-centre-differences-negligible-effect-sizes.md) — related
 - [Satisfaction scores clustered around scale midpoint in both cohorts, interpreted as moderate satisfaction](satisfaction-moderate-both-formats-exploratory.md) — related
+- [Learning-experience and satisfaction evaluations did not differ significantly across the three resident cohorts](no-cohort-differences-training-evaluations.md) — related

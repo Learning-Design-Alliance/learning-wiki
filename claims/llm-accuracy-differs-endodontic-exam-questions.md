@@ -51,3 +51,4 @@ Cross-sectional in silico analysis of 123 text-based endodontic questions from t
 - [Self-reported confidence scores differ significantly among the three LLMs, with Gemini highest and Claude lowest](llm-confidence-scores-differ-endodontic-questions.md) — related
 - [Inter-model agreement is moderate, indicating models do not consistently identify the same questions correctly](moderate-inter-model-agreement-endodontic-questions.md) — related
 - [GPT-4 achieves the highest pooled accuracy among LLMs (81%), significantly outperforming GPT-3.5 (60%)](gpt4-highest-accuracy-81-outperforms-gpt35.md) — related
+- [Wilcoxon pairwise comparisons showed Claude rated significantly higher than ChatGPT, Gemini, and DeepSeek in overall student ratings](wilcoxon-claude-beats-other-models.md) — related

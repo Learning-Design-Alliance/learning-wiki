@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-05
 sources:
   - id: podgurski-l-2025
     resource: "https://doi.org/10.1016/j.jpainsymman.2025.05.009"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Following two rounds of modified Delphi voting by 36 palliative care physicians, 32 competencies were included in the final list: seven from part A, 20 from part B, and five from part C. [→ Podgurski L 2025](#podgurski-l-2025)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-05
 sources:
   - id: lindquist-2024
     resource: "https://doi.org/10.1007/s11251-024-09680-w"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The treatment group scored significantly higher than the control group on the full 50-question post-test (72.4% vs 68.5%). [→ Lindquist 2024](#lindquist-2024)

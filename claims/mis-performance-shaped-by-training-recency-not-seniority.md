@@ -53,3 +53,4 @@ Authors' interpretation (type e) in the Discussion, offered as an explanation fo
 - [Composite adverse outcomes, recovery, reintervention and readmission were comparable between trainee- and specialist-performed laparoscopic pyloromyotomy](trainee-lp-comparable-recovery-outcomes.md) — related
 - [Trainee-performed laparoscopic pyloromyotomy takes modestly longer than specialist-performed cases (median +5 minutes)](trainee-lp-longer-operative-time.md) — related
 - [Supervised trainee-performed laparoscopic pyloromyotomy shows no significant increase in surgery-related complications compared with specialist-performed cases](trainee-lp-no-complication-increase.md) — related
+- [Glove-derived force features could not distinguish clinicians by seniority but showed modest ability to classify perceived task difficulty](glove-features-seniority-null-difficulty-classification.md) — related

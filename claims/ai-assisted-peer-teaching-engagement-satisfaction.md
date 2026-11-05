@@ -48,3 +48,4 @@ Five-point Likert-scale engagement measures in the same cohort; the quote report
 - [AI-assisted PBL-CBL combined teaching increases teaching satisfaction among medical interns compared with lecture-based teaching](ai-pbl-cbl-increases-teaching-satisfaction.md) — related
 - [More PBL than LBL students report satisfaction with improved thinking ability (RR = 1.42)](pbl-satisfaction-thinking-ability.md) — related
 - [AI-assisted peer teaching improves OSCE performance, with the largest effect on clinical reasoning](ai-assisted-peer-teaching-osce-clinical-reasoning.md) — related
+- [Students taught with PBL-CBL reported higher course satisfaction and teacher-student interaction than LBL students](pbl-cbl-higher-satisfaction-interaction.md) — related

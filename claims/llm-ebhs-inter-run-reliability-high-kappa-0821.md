@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 recheck_by: 2029
 sources:
   - id: güler-ibrahim-2026
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across five independent runs per model, inter-run reliability measured by Cohen's κ was consistently high: six of ten models were rated almost perfect (0.81–1.00), three substantial (0.61–0.80), one moderate (0.41–0.60), and the overall mean κ was 0.821 (SD 0.127; range 0.585–0.979). [→ Güler Ibrahim 2026](#guler-ibrahim-2026)

@@ -56,3 +56,4 @@ Review synthesis of Rowe (2002), a predictive-validity evaluation of the AccuTou
 - [Simulation-based training shows no significant benefit over non-simulation based training for time-skill in airway management](sbt-no-time-skill-benefit-airway.md) — reports the opposite
 - [Most trainees never performed several procedures: 90% skipped intraosseous access, 88.5% skipped paracentesis](most-trainees-skip-rare-procedures.md) — related
 - [Mean intubation time fell from 149.81±108 sec before to 51±96 sec after the simulation session in one uncontrolled pre-post study (p<0.001)](simulation-reduces-vl-intubation-time.md) — related
+- [Simulation-based training transferred to real clinical settings: the simulator group improved on assessments with pregnant volunteers from 53.5 ± 8.8 to 74.1 ± 12.0](sbme-transfers-to-real-clinical-obstetric-ultrasound-performance.md) — related

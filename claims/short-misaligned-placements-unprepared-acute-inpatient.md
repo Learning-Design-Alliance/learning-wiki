@@ -49,3 +49,4 @@ Educator interview accounts in Theme 1 reported that placement settings were "of
 - [Placement experiences with limited mental health exposure represent a missed opportunity to build confidence in personality disorder care.](limited-clinical-placement-exposure-to-pd.md) — related
 - [Limited placement exposure is perceived to contribute to underdeveloped therapeutic interpersonal skills and task-focused practice](limited-placement-underdeveloped-therapeutic-skills.md) — related
 - [Barriers graduate nurses face in dementia care are similar to those of experienced nurses, with supportive colleagues and early exposure as facilitators](graduate-nurse-dementia-care-barriers-facilitators.md) — related
+- [Chronic psychiatric placement shortage in the UAE left most mental health nursing practicum students without traditional placements, motivating AI simulation](clinical-placement-shortage-uae-mental-health.md) — a narrower finding that bears on this claim

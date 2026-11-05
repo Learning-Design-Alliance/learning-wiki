@@ -9,7 +9,7 @@ generated:
   at: 2026-10-16
 evidence_strength: moderate
 newest_evidence: 1980
-source_checked: 2026-10-19
+source_checked: 2026-11-05
 sources:
   - id: zechmeister-1980
     resource: "https://doi.org/10.3758/bf03329756"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 1980 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 1980 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In free recall, twice-presented distributed items are recalled better than twice-presented massed items. [→ Zechmeister 1980](#zechmeister-1980)

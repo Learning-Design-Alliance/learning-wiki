@@ -60,3 +60,4 @@ Theme 5 (Ethics in Practice) of the focus-group study. Staff compared paid AI ac
 - [First-generation status is a significant predictor of reliance intensity, indicating a compensatory dynamic at minority-serving institutions](first-generation-status-predicts-reliance-intensity.md) — related
 - [Equitable-access and digital-inclusion themes are minimally represented in HI/HIM AI policies](equitable-access-themes-limited-ai-policies.md) — related
 - [Equity disparities in GenAI Tutor use appear in how students engage, not in whether or how much they use the tool](equity-in-how-not-how-much-genai-use.md) — related
+- [The authors found no significant difference between paid and free models, or between generative pre-trained and reasoning-based models, in ethics MCQ generation quality (descriptive only)](no-descriptive-difference-paid-free-gpt-reasoning-models.md) — related

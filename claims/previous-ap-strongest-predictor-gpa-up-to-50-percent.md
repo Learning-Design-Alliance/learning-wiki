@@ -51,3 +51,4 @@ Step 2 of the first-year hierarchical regression: previous AP was the only signi
 - [Academic engagement and regulation of behavior and context show incremental validity over cognitive predictors of university GPA](engagement-and-behavior-context-regulation-incremental-validity.md) — related
 - [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](trait-ei-no-direct-association-university-gpa.md) — related
 - [Planning and implementation is the strongest positive SDL-R predictor of preclinical GPA, with the four domains explaining 22.2% of GPA variance in Year 1 and 9.0% in Year 2](planning-implementation-strongest-gpa-predictor.md) — reports the opposite
+- [Convergent thinking, divergent thinking, and openness jointly explain incremental variance in GPA beyond age and sex (ΔR² = 0.13)](thinking-personality-model-incremental-gpa-variance.md) — related

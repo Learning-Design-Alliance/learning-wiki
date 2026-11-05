@@ -75,3 +75,4 @@ The review's challenges synthesis (RQ2, Table 2) codes challenges to learners (d
 - [Controller-operation difficulty was the most commonly reported challenge and may have impeded immersion](ncpr-vr-controller-difficulty-feedback.md) — related
 - [Conventional OSCEs face systemic limitations including restricted clinical scenario range, reliability concerns, and high preparation burden](conventional-osce-systemic-limitations.md) — related
 - [Technology-enhanced experiential methods (e.g., CGM wear, virtual patient care) improve knowledge and self-efficacy but face cost and scalability constraints](tech-experiential-positive-but-scalability-limited.md) — related
+- [First-year AI simulation deployment faced operational challenges: unstable Wi-Fi disrupted sessions, background noise interfered with speech recognition, and missing dynamic nonverbal cues reduced realism](ai-sim-operational-challenges-uae.md) — a narrower finding that bears on this claim

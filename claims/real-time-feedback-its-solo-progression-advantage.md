@@ -9,6 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: ogunsakin-ib-2026
     title: Ogunsakin IB 2026
@@ -22,7 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2` · `i2` medium
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Learners using the adaptive diagnostic ITS with automated real-time feedback showed greater SOLO-based progression than learners using the same system without it, with a significant time-by-group interaction and a reported Cohen's d of 0.73. [→ Ogunsakin IB 2026](#ogunsakin-ib-2026)

@@ -67,6 +67,7 @@ Physical activity is associated with modest improvements in attention, executive
 - [Comprehensive School Physical Activity Programs](comprehensive-school-physical-activity-programs.md) — the framework that coordinates this strategy with PE and activity breaks
 - [Research and training programs should differentiate age periods, sporting disciplines, and compare physically active with cognitively active groups](future-research-differentiate-ages-disciplines-cognitively-active.md)
 - [School and community sports programs that maintain healthy weight may support children's academic performance](school-weight-maintenance-programs-academic-performance.md)
+- [Schedule vigorous in-class exercise sessions after core academic lessons rather than before them](vigorous-activity-after-academic-lessons.md)
 
 ## Examples
 - **[BOKS](https://www.bokskids.org)** — a before-school physical activity program offering structured 12-week curricula of running, games, and skill work, active in thousands of schools across North America.

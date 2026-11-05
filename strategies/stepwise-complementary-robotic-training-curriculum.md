@@ -72,6 +72,8 @@ The review recommends that training modalities be combined in a progressive curr
 - [Integrate dedicated surgical care practitioners into robotic programmes to free trainees from the bedside assistant role and facilitate their transition to the console](scp-bedside-assistant-integration-robotic-training.md)
 - [Integrate cognitive profiling and task-specific modality selection into surgical simulation training](cognitive-profiling-modality-selection-strategy.md)
 - [Sequence laparoscopic training from box trainers and simulators with preset proficiency benchmarks before cadaver training](simulator-benchmarks-before-cadaver-training.md)
+- [Blend VR and IP simulation within a curriculum, matching each modality to learning objectives and training stage](blended-vr-ip-simulation-curriculum.md)
+- [Incorporate the validated sensorised glove into structured obstetric training curricula after staged refinement and validation](staged-sensorised-glove-training-curriculum-strategy.md)
 
 ## Examples
 -

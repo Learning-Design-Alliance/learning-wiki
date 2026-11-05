@@ -55,6 +55,8 @@ The review recommends that immersive technologies like VR and AR be used as supp
 - [Use VR simulation alongside other teaching models to raise motivation and satisfaction in anatomy education](vr-alongside-other-teaching-models-anatomy.md)
 - [Use AR to supplement limited anatomy lab access by simulating visuospatial aspects of cadaveric dissection with multi-user collaborative functions](ar-supplement-limited-anatomy-lab-access.md)
 - [Use virtual simulation games as a preliminary or complementary method to face-to-face simulation and clinical practice](vsg-as-preliminary-or-complementary-simulation.md)
+- [Integrate a mixed reality simulation session as a mid-rotation consolidation supplement to clinical teaching](mr-simulation-mid-rotation-consolidation.md)
+- [Design VR anatomy studies and implementations to reduce cognitive burden: longitudinal exposure, sufficient familiarization, and mixed-reality devices for drawing tasks](reduce-vr-cognitive-burden-recommendations.md)
 
 ## Examples
 -

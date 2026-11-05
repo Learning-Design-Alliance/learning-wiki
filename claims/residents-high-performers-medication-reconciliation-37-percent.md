@@ -69,3 +69,4 @@ Comparison across residency programs within the same standardized patient study:
 - [Only seven studies of medication reconciliation education initiatives for medical trainees were eligible for inclusion, indicating a lack of published education initiatives](seven-studies-medication-reconciliation-trainee-education.md) — related
 - [Undergraduate medical student education combining didactic sessions, role-play and experiential learning increased confidence in medication history and reconciliation](student-confidence-increased-medication-reconciliation.md) — related
 - [Performance checklist scores vary by case, with lowest scores on the abnormal bone density case and on counseling about bioidentical hormones](menopause-simulation-performance-checklist-patterns.md) — related
+- [In a simulation-based pilot, residents' SAAAR scores improved significantly from pretraining to posttraining across all four domains](saaar-prepost-improvements-all-domains.md) — related

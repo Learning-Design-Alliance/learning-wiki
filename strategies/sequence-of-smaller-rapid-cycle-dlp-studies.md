@@ -50,6 +50,7 @@ The report recommends an iterative approach in which researchers use existing da
 - [Workshop model for running the IDR methodology with the wider community](idr-workshop-model-wider-community.md)
 - [School-led aggregated efficacy trials with independent expert oversight](school-led-aggregated-efficacy-trials.md)
 - [Use agile UX methodology with early-stage pilot evaluation to guide iterative VR development](agile-ux-iterative-vr-development-strategy.md)
+- [Use a train-the-trainer faculty development model with rapid-cycle quality improvement and participatory design to implement a longitudinal teamwork curriculum](train-the-trainer-participatory-qi-strategy.md)
 
 ## Examples
 -

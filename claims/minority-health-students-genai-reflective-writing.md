@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-18
+source_checked: 2026-11-05
 sources:
   - id: rajan-kadel-2026
     resource: "https://doi.org/10.48550/arxiv.2609.03413"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a study the review attributes to [43], only 33% of undergraduate health science students reported using GenAI on reflective writing, largely to enhance learning and efficiency rather than replace their own reflection. [→ Rajan Kadel 2026](#rajan-kadel-2026)

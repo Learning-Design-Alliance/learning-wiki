@@ -74,3 +74,4 @@ Review reports, citing Rogers et al. (prospective cohort, pediatric residents, N
 - [Nurses generally report satisfaction with e-learning in continuing education, though dissatisfaction arises from technical difficulties and preference for face-to-face formats](nurse-satisfaction-e-learning-ce-mixed-drivers.md) — related
 - [Trainees and observers reported generally positive experiences with seven tools in 10 studies (Kirkpatrick level 1)](positive-trainee-experience-seven-tools.md) — related
 - [Pharmacy students reported strong engagement and positive reactions to the campaign as an experiential learning activity.](pharmacy-students-strong-engagement-experiential-campaign.md) — related
+- [Learners and instructors reported high satisfaction with the Team FIRST curriculum, with composite reaction scores lowest in Module 1](team-first-high-reaction-satisfaction.md) — related

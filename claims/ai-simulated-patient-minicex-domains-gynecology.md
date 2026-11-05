@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` AI-group students scored higher on medical interviewing skills (7.70 vs 7.25, d = 0.69) and organization/efficiency (7.60 vs 7.10, d = 0.88). [→ Gao Lingling 2026](#gao-lingling-2026)
@@ -72,3 +72,4 @@ Null Mini-CEX domains in the same RCT: the trial reports "No statistically signi
 - [AI-Mentor pilot improves overall clinical competence on Mini-CEX from pretest to posttest](ai-mentor-pilot-improves-overall-mini-cex.md) — related
 - [AI-assisted peer teaching improves OSCE performance, with the largest effect on clinical reasoning](ai-assisted-peer-teaching-osce-clinical-reasoning.md) — related
 - [Final-year clinical medicine interns report high acceptance of the Mini-CEX-based four-stage virtual simulation teaching model, with all experience-item means exceeding 7.1 on a 10-point scale](high-student-acceptance-minicex-four-stage-virtual-simulation.md) — related
+- [After 12 months of AI-enhanced platform training, obstetrics and gynecology residents improved significantly across all four competency dimensions, with the largest gains in clinical reasoning and clinical skills](ai-progressive-training-four-dimension-competency-gains.md) — related

@@ -50,3 +50,4 @@ Review reports the correlation finding attributed to AbdElshafy et al. [22]; the
 - [Exploratory correlations suggest embodiment was specifically relevant in the re-experiencing group, correlating with written procedural knowledge and post-test self-efficacy](embodiment-correlations-re-experiencing-group.md) — related
 - [Higher response time, accuracy, and motivation correlate with higher post-test scores; reading time of explanations does not](correlations-post-test-behavioral-measures.md) — related
 - [Many nurses in SSA have adequate knowledge of diabetes self-management support and care in some studies](ssa-nurses-adequate-diabetes-care-knowledge.md) — related
+- [Nursing students' e-learning motivation and attitude were positively correlated after training, strongest in the control group](motivation-attitude-positive-correlation-nursing.md) — related

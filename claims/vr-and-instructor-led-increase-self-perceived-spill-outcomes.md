@@ -90,3 +90,5 @@ First-phase changes in Cohort 2 (n = 20) after VR simulation-based training, fro
 - [A renal biopsy simulation workshop significantly increased fifth-year medical students' self-perceived ability to perform renal biopsy](renal-biopsy-simulation-workshop-increased-student-confidence.md) — related
 - [Students' best virtual simulation scores are significantly higher than their initial scores](cataract-vsim-best-scores-higher-than-initial.md) — related
 - [VR training increased confidence on all 4 perceived competence scale items, while small group training increased only 2 of 4](vr-confidence-gains-all-pcs-items.md) — reports the opposite
+- [Self-reported perceived competence scores among paramedic students were significantly higher after simulation-based education than before it across all assessed skill areas, in one uncontrolled pre-post study](simulation-training-increased-perceived-competence.md) — related
+- [Simulation training in VR or HFS significantly improves medical interns' self-reported confidence in managing oxygen desaturation](vr-hfs-desaturation-confidence-gain.md) — related

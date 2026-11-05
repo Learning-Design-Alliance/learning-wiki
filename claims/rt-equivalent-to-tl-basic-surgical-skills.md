@@ -54,3 +54,4 @@ Thematic synthesis of 12 RT studies (7 basic, 5 advanced) in a systematic review
 - [Retention of knowledge over time showed no statistically significant difference between e-learning and traditional learning in the studies that assessed it](el-tl-knowledge-retention-no-difference.md) — related
 - [Flipped and traditional groups did not differ in basic technology competencies](flipped-classroom-no-technology-competency-difference.md) — related
 - [There is a limit to adaptability and competency development via telementoring when task complexity is high: mediastinal POCUS was less responsive to telementored feedback than lung POCUS](telementoring-complexity-ceiling-mediastinal-pocus.md) — related
+- [Remote AR simulation is noninferior to traditional in-person simulation for team leader checklist performance in a VF cardiac arrest scenario](remote-ar-noninferior-checklist-team-leader-performance.md) — a narrower finding that bears on this claim

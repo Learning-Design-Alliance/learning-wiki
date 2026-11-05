@@ -48,3 +48,4 @@ Content analysis of coded Positive Feedback tags across the four cohorts found s
 - [COVID-19 accelerated professional knowledge exchange (CK and PCK) in the L-PLC WhatsApp discourse, with tags significantly higher in pandemic cohorts](covid-accelerated-ck-pck-whatsapp-exchange.md) — related
 - [Sharing of teaching materials became a norm in the L-PLC during COVID-19, rising significantly in pandemic cohorts and remaining steady thereafter](sharing-became-norm-pandemic-cohorts.md) — related
 - [Requests for and sharing of technological knowledge rose sharply during COVID-19 (TK from 9 to 206 tags; ASK-TK from 6 to 82 tags between cohorts I and III)](covid-surge-tk-ask-tk-tags.md) — related
+- [Participation in the share phase of group reflection was similar between cohorts, reaching at most 40–47%](gr-share-participation-similar-groups.md) — related

@@ -49,3 +49,4 @@ Retrospective observational study of 100 consecutive RPD attempts by a single su
 - [Resection-phase telemetry shows time to complete mesopancreas dissection shortens materially across the RPD learning curve](mesopancreas-dissection-time-shortens-landmark-r.md) — related
 - [A PD-ROBOSCORE-adjusted RA-CUSUM of idle time identifies a proficiency inflection around case 60 in the RPD learning curve](ra-cusum-idle-time-proficiency-inflection-case-60.md) — related
 - [Arm-4 active time, a prespecified exposure/retraction workload endpoint, decreases significantly across the RPD learning curve](arm4-active-time-decreases-learning-curve.md) — related
+- [No significant differences in learning progression between individual console surgeons](no-surgeon-level-learning-progression-differences.md) — related

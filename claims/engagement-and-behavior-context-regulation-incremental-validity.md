@@ -51,3 +51,4 @@ Authors' interpretation of the Step 2 regression results, reporting "unique incr
 - [Previous academic performance is the strongest predictor of university GPA, and adding cognitive predictors raises explained variance to about 44–50%](previous-ap-strongest-predictor-gpa-up-to-50-percent.md) — related
 - [Cognitive ability (inductive reasoning) showed no significant association with university GPA in any analysis](inductive-reasoning-no-association-university-gpa.md) — related
 - [Planning and implementation is the strongest positive SDL-R predictor of preclinical GPA, with the four domains explaining 22.2% of GPA variance in Year 1 and 9.0% in Year 2](planning-implementation-strongest-gpa-predictor.md) — related
+- [Convergent thinking, divergent thinking, and openness jointly explain incremental variance in GPA beyond age and sex (ΔR² = 0.13)](thinking-personality-model-incremental-gpa-variance.md) — related

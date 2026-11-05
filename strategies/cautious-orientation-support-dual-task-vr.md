@@ -48,6 +48,7 @@ The article's design implication for VR learning environments is that attention 
 
 - [Virtual Reality Immersive Training](virtual-reality-immersive-training.md)
 - [Search for techniques such as sufficient learning time, navigational guidance, interface design, and progressive or controlled disclosure of details to increase supplantation and attenuate overload in desktop VR](techniques-increase-supplantation-attenuate-overload-desktop-vr.md)
+- [Design VR anatomy studies and implementations to reduce cognitive burden: longitudinal exposure, sufficient familiarization, and mixed-reality devices for drawing tasks](reduce-vr-cognitive-burden-recommendations.md)
 
 ## Examples
 -

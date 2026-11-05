@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/llm-explanations-flag-ambiguous-questions.md
+---
+
+# Revision history: [claims/llm-explanations-flag-ambiguous-questions](../claims/llm-explanations-flag-ambiguous-questions.md)
+
+### 2026-11-05 · ingest · process:wiki-ingest
+Ingested from pmc-12978932 (Performance Evaluation of Large Language Models in Multilingual Medical Multiple-Choice Questions: Mixed Methods Study.) via eval_harness.py + ingest_extractions.py

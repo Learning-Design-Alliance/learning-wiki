@@ -53,3 +53,4 @@ Sequential pattern mining with the TraMineR package on think-aloud-derived SRL p
 - [Empirical studies support Zimmerman's SRL models, including expert-novice differences and phase-training effects](empirical-support-zimmerman-srl-models.md) — a broader claim this one bears on
 - [Motivation and engagement relate cyclically: prior motivation predicts subsequent engagement and prior engagement predicts subsequent motivation](cyclical-motivation-engagement-relation.md) — related
 - [Team design activity is problem-centered and cyclic, with the linear Problem-Solution-Method pattern the least frequent type](cyclic-problem-centered-design-patterns.md) — related
+- [Students' reasoning reflected elements of both nonanalytic and analytic thinking: semantic qualifiers, partially activated illness scripts, and hypothetical-deductive reasoning](dual-process-elements-in-student-reasoning.md) — related

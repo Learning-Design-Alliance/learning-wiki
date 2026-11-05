@@ -49,3 +49,5 @@ Multivariable logistic regression in the same cross-sectional study of 514 stude
 - [Minimum dietary diversity is associated with approximately three times better academic performance in Ethiopian primary school children](dietary-diversity-associated-academic-performance-ethiopia.md) — related
 - [Eating breakfast is associated with about four times better academic performance among Ethiopian first-cycle primary school students](breakfast-consumption-associated-academic-performance-ethiopia.md) — related
 - [Normal BMI is associated with approximately four times higher academic performance compared with underweight among Ethiopian primary school students](normal-bmi-associated-academic-performance-ethiopia.md) — related
+- [Maternal education showed a gradient association with pupils' academic performance in bivariate analysis](maternal-education-gradient-academic-performance.md) — related
+- [Children of self-employed mothers had significantly lower odds of good academic performance than children of government-employed mothers](self-employed-mothers-lower-odds-good-performance.md) — related

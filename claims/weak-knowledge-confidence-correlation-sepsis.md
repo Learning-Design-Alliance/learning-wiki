@@ -55,3 +55,5 @@ Pearson product-moment correlation in the 355-nurse survey found "a weak yet sta
 - [Self-reported confidence and familiarity with screening tools did not reliably translate into accurate sepsis determination](confidence-competence-gap-sepsis-recognition.md) — a narrower finding that bears on this claim
 - [There is a weak to moderate positive correlation between SBWGTT placement time and the presence of complications](correlation-placement-time-complications-sbwgtt.md) — related
 - [Self‐assessed nutritional competencies did not correlate with actual nutritional knowledge, suggesting a mismatch between perceived and actual proficiency](self-assessment-knowledge-no-correlation.md) — related
+- [Nursing students' e-learning motivation and attitude were positively correlated after training, strongest in the control group](motivation-attitude-positive-correlation-nursing.md) — related
+- [Practice frequency and perceived competence were positively but weakly correlated (Spearman's r = 0.303, p = 0.019)](practice-frequency-perceived-competence-correlation.md) — related

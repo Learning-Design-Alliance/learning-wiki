@@ -49,3 +49,4 @@ Cross-sectional survey of 221 HMCAS practitioners using two scenario-based vigne
 - [Screening tool use among pre-hospital practitioners is predominantly reactive, applied only after sepsis is already suspected](reactive-confirmatory-sepsis-screening-use.md) — related
 - [CCPs showed more proactive sepsis recognition practices and stronger attitudes than APs/CCAs](ccp-vs-ap-cca-attitude-practice-differences.md) — related
 - [Recent/up-to-date sepsis training, belief in pre-hospital care's importance, and belief in pre-notification value predict diagnostic confidence (R² = 0.657)](sepsis-diagnostic-confidence-regression-predictors.md) — related
+- [No statistically significant differences between groups in recognition of septic shock](vr-ip-septic-shock-recognition-no-differences.md) — related

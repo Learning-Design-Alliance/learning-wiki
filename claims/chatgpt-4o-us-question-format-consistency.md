@@ -51,3 +51,4 @@ Analysis of ChatGPT-4o's performance across the three U.S. Dental Decks question
 - [ChatGPT-4o's accuracy on Chinese questions varied by question type, highest for A1-type (76%) and lowest for A2-type (61%)](chatgpt-4o-chinese-question-type-accuracy-varies.md) — related
 - [ChatGPT-4o showed a language-related performance gap, performing better on English than Chinese questions while humans showed the reverse pattern](chatgpt-4o-language-performance-gap-english-chinese.md) — related
 - [Studies using both text- and image-based questions show higher pooled LLM accuracy (78%) than text-only studies (71%)](multimodal-questions-higher-llm-accuracy.md) — related
+- [ChatGPT performs poorly on image-based data interpretation across DNA footprinting and BLI questions regardless of image detail](chatgpt-poor-image-inference-scientific-graphs.md) — reports the opposite

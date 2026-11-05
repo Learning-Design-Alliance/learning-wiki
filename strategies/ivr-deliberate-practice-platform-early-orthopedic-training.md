@@ -53,6 +53,7 @@ The authors recommend integrating the simulator into early orthopedic training "
 - [Staged mixed model integrating AI across orthopaedic training progression](staged-mixed-model-ai-ortho-training.md)
 - [Integrate AI-driven simulation into dental curricula as a complement to traditional training, attending to domain-specific effectiveness and the lack of long-term validated outcomes](ads-curricular-integration-strategy.md)
 - [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
+- [Incorporate the validated sensorised glove into structured obstetric training curricula after staged refinement and validation](staged-sensorised-glove-training-curriculum-strategy.md)
 
 ## Examples
 -

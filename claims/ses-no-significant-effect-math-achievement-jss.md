@@ -49,3 +49,4 @@ Quasi-experimental study of 240 junior secondary two students in three Nigerian 
 - [The three-way interaction of gender, socio-economic status, and treatment is statistically significant for mathematics achievement](gender-ses-treatment-three-way-interaction-significant-math-jss.md) — related
 - [The interaction between socio-economic status and treatment is statistically significant for mathematics achievement](ses-treatment-interaction-significant-math-jss.md) — related
 - [School-level socio-economic disadvantage significantly predicted immigrant students' self-efficacy and achievement but not valuing in exploratory multilevel tests](school-ses-disadvantage-predicts-efficacy-achievement-not-valuing.md) — related
+- [Digital stress subdimensions differ by gender, socio-economic status, and daily social media usage hours](digital-stress-demographic-differences-gender-usage.md) — related

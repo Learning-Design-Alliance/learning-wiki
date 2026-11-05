@@ -71,3 +71,4 @@ Pearson correlations (Table 7) among the 229 teachers. "the more children teache
 - [SDL readiness among nurses shows no significant correlation with age, gender, academic status, or marital status](sdl-readiness-no-demographic-correlations.md) — related
 - [Treatment shows a moderate correlation with argumentation skill while demographic variables show negligible correlations](treatment-moderate-correlation-argumentation-demographics-negligible.md) — related
 - [Demographic variables showed negligible relationships with content knowledge posttests and teaching method](demographics-negligible-relationship-achievement-treatment.md) — related
+- [Digital stress subdimensions differ by gender, socio-economic status, and daily social media usage hours](digital-stress-demographic-differences-gender-usage.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2012
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: ugur-et-al-2012
     resource: "http://www.akademikplus.com/eujer/index.html"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2012 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After treatment, the experimental (analogy) group showed better performance than the control group on the post Electric Concept Test, a statistically significant difference favoring the experimental group, with no pre-test difference between groups. [→ Ugur et al. 2012](#ugur-et-al-2012)

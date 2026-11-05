@@ -49,3 +49,4 @@ Thematic synthesis in the review's results section; the review reports that "eve
 - [Dialogic leadership is associated with increased social cohesion, including social unity, lasting friendships and greater community involvement](dialogic-leadership-increases-social-cohesion.md) — related
 - [Families appreciated school engagement efforts, but some family and community members expressed dissatisfaction with their inclusion in school governance](family-engagement-appreciation-governance-dissatisfaction.md) — related
 - [Dialogic leadership values diversity as an asset and fosters inclusion of marginalized groups](dialogic-leadership-diversity-inclusion.md) — related
+- [Narrative competence differs by leadership experience, family atmosphere, extroversion, and liking the major, but not by gender, residence, or practicum experience](narrative-competence-demographic-differences-nursing-students.md) — related

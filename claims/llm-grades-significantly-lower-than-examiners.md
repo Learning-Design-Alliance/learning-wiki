@@ -52,3 +52,4 @@ Bland-Altman and t-test analysis comparing Prompt 3 ChatGPT 3.5 grades with offi
 - [LLM agreement with human examiners is limited in fast mode and improves in reasoning or thinking modes](llm-fast-mode-limited-thinking-mode-better-agreement.md) — related
 - [LLM grading performance relative to human graders is mixed: comparable in 12 reviewed cases, worse in 11, with the strongest alignment on short, straightforward tasks](llm-grading-mixed-against-human-raters.md) — a broader claim this one bears on
 - [Proportional bias: AI assigned relatively higher scores at the lower end of the performance distribution](proportional-bias-ai-higher-scores-lower-end.md) — reports the opposite
+- [Bland-Altman analysis shows a systematic positive bias of about 10 percentage points in favor of GRS over checklists](bland-altman-grs-positive-bias-osce.md) — related

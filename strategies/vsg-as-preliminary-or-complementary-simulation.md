@@ -58,6 +58,8 @@ The authors recommend integrating well-designed VSGs into nursing education as p
 - [Use screen-based 360° contextual simulation videos as a scalable supplement when supervised practice opportunities are constrained](360-video-scalable-supplement-nursing.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Integrate virtual and augmented reality as supplementary tools rather than full replacements for traditional learning methods](integrate-vr-ar-as-supplementary-tools.md)
+- [Position AI simulation as a complement to—not a replacement for—traditional clinical placements, with faculty preparation and dedicated quiet spaces](ai-simulation-as-complement-not-replacement.md)
+- [Integrate hybrid simulation into clinical skills curricula to concurrently train communication and technical skills in a safe, repeatable environment](integrate-hybrid-simulation-clinical-skills-curricula.md)
 
 ## Examples
 -

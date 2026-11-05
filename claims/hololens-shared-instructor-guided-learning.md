@@ -47,3 +47,4 @@ Qualitative interview study of 12 first-year osteopathic medical students; thema
 ## Related Claims
 - [Students perceived online lab exercises as more effective when instructors were present online and used scaffolds and probes directing attention to key procedure aspects](online-labs-better-with-instructor-scaffolds.md) — related
 - [In case-study courses that shifted to remote instruction, few instructors offered collaborative learning activities, and some dropped ones used before](remote-shift-reduced-collaborative-learning.md) — related
+- [Remote one-to-one procedural training via HoloLens 2 was feasible, with no tutorials cancelled for technology issues](hololens-remote-procedural-training-feasible.md) — related

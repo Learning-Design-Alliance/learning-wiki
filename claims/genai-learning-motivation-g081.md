@@ -68,7 +68,7 @@ Random-effects meta-analysis of 56 effect sizes from 42 controlled experimental 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does learning with generative AI raise learners' motivation compared with learning without it, and where?* This table gathers the studies behind this claim and the 14 narrower claims that bear on it: **10 distinct studies** (5 causal, 2 quant-synthesis, 1 review, 1 qualitative, 1 associational), `q2`–`q4`, 4 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does learning with generative AI raise learners' motivation compared with learning without it, and where?* This table gathers the studies behind this claim and the 14 narrower claims that bear on it: **10 distinct studies** (5 causal, 2 quant-synthesis, 1 review, 1 qualitative, 1 associational), `q2`–`q4`, 5 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -79,7 +79,7 @@ Random-effects meta-analysis of 56 effect sizes from 42 controlled experimental 
 | [Sora Kang 2026](https://doi.org/10.48550/arxiv.2607.24751) | q3 · causal · r2 | i? | [Question-driven AI journaling increases intrinsic motivation and acting confidence among a](question-driven-ai-journaling-raises-motivation-confidence.md) (supports) |
 | [Jiajing Li 2026](https://doi.org/10.1080/15391523.2026.2672515) | q2 · review · r3 | i? | [The review reports mixed findings on AI's motivational effects: some studies show enhancem](ai-motivation-effects-mixed-evidence.md) (qualifies) |
 | [Kestin 2025](https://doi.org/10.1038/s41598-025-97652-6) | q3 · causal · r2 | i? | [Students report higher engagement and motivation with the AI tutor, with comparable enjoym](ai-tutor-engagement-motivation-higher.md) (supports) |
-| [Guo 2025](https://doi.org/10.31234/osf.io/srxga_v1) | q3 · causal · r1 | i? | [The generative AI relevance intervention did not significantly increase students' interest](ai-relevance-intervention-no-interest-effect.md) (counts against) |
+| [Guo 2025](https://doi.org/10.31234/osf.io/srxga_v1) | q3 · causal · r1 | i0 · negligible (η² = .003) | [The generative AI relevance intervention did not significantly increase students' interest](ai-relevance-intervention-no-interest-effect.md) (counts against) |
 | [intrinsic-1](https://doi.org/10.1145/3765964.3811653) | q2 · qualitative · r3 | i? | [Students who used AI reported feeling less accomplished, with heavier reliance associated ](ai-use-reduces-accomplishment-intrinsic-value.md) (counts against) |
 | [Zhang Y 2026](https://doi.org/10.3389/fpsyg.2026.1918525) | q2 · associational · r2 | i0 | [Daily AI use duration shows a weak positive correlation with academic motivation among uni](daily-ai-use-weakly-positively-correlated-academic-motivation.md) (qualifies) |
 <!-- synthesis:end -->

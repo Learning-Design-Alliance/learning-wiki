@@ -82,6 +82,7 @@ In the evaluated trial, intervention teachers received a layered support package
 - [Provide teacher training workshops and mentor support for virtual exchange practitioners](teacher-training-workshops-mentor-support-virtual-exchange.md)
 - [Train classroom teachers as facilitators with ongoing experiential workshops and monthly support meetings](teacher-facilitator-training-workshops-support.md)
 - [Train research assistants/teachers with lesson packages and experimental guides before practical instruction](one-week-teacher-training-practical-science.md)
+- [Use a train-the-trainer faculty development model with rapid-cycle quality improvement and participatory design to implement a longitudinal teamwork curriculum](train-the-trainer-participatory-qi-strategy.md)
 
 ## Examples
 -

@@ -59,3 +59,4 @@ Qualitative interview theme from inductive two-cycle coding of five purposively 
 - [Identified SRL interventions all focused on goal setting and monitoring and none on supporting self-evaluation](srl-interventions-neglect-self-evaluation.md) — related
 - [Students reported that analysing authentic TED talks was motivating and that self/peer evaluation of their video-recorded speaking tasks helped them overcome anxiety and track their progress](task-cycle-activities-reported-benefits.md) — related
 - [Students describe structured reflection and journaling as supporting self-awareness, recognition of behavioral patterns, and reoriented future actions](structured-reflection-self-awareness-growth.md) — related
+- [Undergraduate dental students perceive that the time-bound weekly PBL cycle compels short-term goal setting and planning, though workload makes self-regulation challenging for some](pbl-weekly-cycle-goal-setting-self-regulation-variability.md) — related

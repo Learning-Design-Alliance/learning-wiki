@@ -70,3 +70,4 @@ Games-Howell post hoc comparisons on SAT post-test scores. The animation group e
 - [Animation-supported 5E instruction produced significantly higher post-test grammar success than the current teaching programme in 7th grade Turkish](animation-5e-higher-posttest-grammar-success.md) — related
 - [The animation-assisted 5E application produced a significant pre-to-post attitude change in the experimental group while the control group's attitudes did not change](animation-5e-attitude-change-experimental-only.md) — related
 - [Jigsaw II students achieved significantly higher academic achievement than animation students in the Light unit](jigsaw-ii-higher-achievement-than-animations-light-unit.md) — reports the opposite
+- [Scenario-based animation training produced higher post-test e-learning attitudes than routine skill video training, which alone did not change attitudes](rom-animation-higher-attitude.md) — related

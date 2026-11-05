@@ -52,3 +52,4 @@ Correlational analysis across the full sample of 104 students relating exam scor
 - [Type of achievement measure moderates the correlation only when laboratory measures are excluded; course-exam correlation drops to r = .04](achievement-measure-moderator-lab-exclusion.md) — related
 - [Course grades correlated with QR post-test scores in the Study 2 PT section but not in Study 1 sections](course-grades-correlate-qr-study2.md) — related
 - [Belief in combining learning modalities shows a weak positive correlation with exam scores](multimodal-belief-weak-positive-exam-correlation.md) — related
+- [Overall intensity of use of the ten PORTAAL practices shows no significant correlation with student exam scores](practice-intensity-no-exam-correlation.md) — related

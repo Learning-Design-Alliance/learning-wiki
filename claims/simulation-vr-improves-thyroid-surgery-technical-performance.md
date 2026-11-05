@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 sources:
   - id: zhang-daqi-2026
     resource: "https://doi.org/10.1007/s00423-026-04013-6"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the review's simulation and VR group of studies, the one randomised trial (16 residents) found VR training shortened task completion time and raised OSATS scores compared with textbook learning, a simulation study with 96 junior residents found improved non-technical skills, and realism was rated high by expert evaluators validating a low-cost simulator and by residents rating a high-fidelity scenario. [→ Zhang Daqi 2026](#zhang-daqi-2026)

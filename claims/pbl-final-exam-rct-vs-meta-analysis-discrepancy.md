@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: mixed
 newest_evidence: 2024
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 sources:
   - id: chen-tu-2024
     resource: "https://doi.org/10.1371/journal.pone.0314017"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2024 · checked against its sources 2026-10-31 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The PBL group obtained a significantly better final exam grade (79.86±1.38) than the LBL group (68.1±1.76) in the trial. [→ Chen Tu 2024](#chen-tu-2024)

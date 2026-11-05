@@ -77,3 +77,4 @@ Theme 3 from older-adult interviews and Theme 2 from care-provider interviews (1
 - [Students perceived AIvaluate assessments as reducing social pressure and offering flexible pacing and ease of use, but noted technical challenges and lack of dynamic human interaction](aivaluate-thematic-advantages-and-limitations.md) — related
 - [Educators face challenges at the student level, teacher level, and institutional level](makerspace-three-level-challenges.md) — related
 - [Class teachers reported that some pupils' confidence and social skills improved during the programme](asp-teachers-reported-confidence-social-skills-gains.md) — related
+- [Individual teaching and video tutorials are valued for personalised pacing in older adults' digital learning](individual-teaching-video-tutorials-personalised-pacing.md) — related

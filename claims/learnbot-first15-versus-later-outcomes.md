@@ -50,3 +50,4 @@ Stratified comparison of the first 15 RPDs per center (n=222) against subsequent
 - [Operative time decreased significantly across the learning curve, from 27.1 to 20.4 minutes between phases](operative-time-reduction-thd-anolift.md) — related
 - [Tertile analysis showed a significant stepwise decrease in operative time across experience but only a non-significant decreasing trend in composite failure](tertile-analysis-stepwise-operative-time.md) — related
 - [Annual RDP volume above 15 procedures per year is associated with earlier decrease in operative time](rdp-volume-15-per-year-earlier-operative-time-decrease.md) — related
+- [Estimated blood loss decreased modestly as institutional case numbers progressed, while higher IWATE difficulty increased blood loss](blood-loss-decreases-with-case-number-iwate-increases.md) — related

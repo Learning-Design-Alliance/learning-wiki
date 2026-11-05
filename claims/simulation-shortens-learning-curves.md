@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2024
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: popov-vitaliy-2024
     resource: "https://doi.org/10.1080/07853890.2024.2424450"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
-> **Currency** · newest study 2024 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Twelve studies across gastroenterology, obstetrics, orthopedics, and perfusion demonstrate simulation-based training significantly shortens learning curves to competency compared to traditional clinical training alone. [→ Popov Vitaliy 2024](#popov-vitaliy-2024)

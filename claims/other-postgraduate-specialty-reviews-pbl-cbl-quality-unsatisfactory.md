@@ -78,3 +78,4 @@ The review reports, citing three prior studies, that PBL appeared more effective
 - [Student engagement with preparation resources builds confidence and is associated with improved engagement, participation and knowledge in CBL](cbl-student-preparation-improves-engagement-knowledge.md) — related
 - [CBE-MDT teaching yields higher trainee satisfaction than traditional teaching](cbe-mdt-higher-satisfaction-radiation-oncology.md) — a narrower finding that bears on this claim
 - [Students preferred PBL over TBL, citing clearer objectives, fuller participation, and more suitable pacing in small-group discussion.](students-preferred-pbl-over-tbl.md) — a narrower finding that bears on this claim
+- [Students perceive case-based learning in preclinical physiology as more engaging and motivating than traditional didactic lectures in a resource-limited setting](cbl-perceived-more-engaging-than-lectures.md) — a narrower finding that bears on this claim

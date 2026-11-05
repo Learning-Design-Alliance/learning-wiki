@@ -35,7 +35,7 @@ sources:
 # Multiple Methods of Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 48 claims (28 for, 18 mixed, 2 against) · 54 studies (15 causal, 10 review, 8 theoretical, 7 associational, 5 quant-synthesis, 5 qualitative, 4 design), `q1`–`q4` · 5 of 54 report an effect size · 42 claims rest on one study
+> **Evidence** · 49 claims (29 for, 18 mixed, 2 against) · 55 studies (15 causal, 10 review, 8 associational, 8 theoretical, 5 quant-synthesis, 5 qualitative, 4 design), `q1`–`q4` · 5 of 55 report an effect size · 43 claims rest on one study
 
 ## Conditional relationship
 
@@ -158,6 +158,7 @@ Relevant claims read against the model that do not change it, and off-topic clai
 - [Most studies (60.7%) of arthroscopic skills training combined objective metrics with subjective assessment scales](../claims/combined-objective-subjective-assessment-majority-studies.md) [+W] — attached 2026-11-01 from Zhou Haixia et al. (2022), which proposed "Combine subjective and objective assessment tools when evaluating arthroscopic skills training".
 - [Integrating dynamic speaking assessments with standardized criterion-referenced assessments significantly improves post-test performance](../claims/integrated-dynamic-standardized-assessment-improves-post-cra.md) [+W] — attached 2026-11-03 from Hill (2015), which proposed "Integrate dynamic and standardized forms of assessment to enhance performance on both"; tests this page's relationship.
 - [Checklist scores correlated positively with GRS but not with total procedure time](../claims/checklist-grs-correlation-afio.md) [~W] — attached 2026-11-04 from Haas D et al. (2026), which proposed "Use multimodal assessment combining GRS, checklist, and simulator metrics rather than checklists alone".
+- [GRS identifies station-level failures that checklist scores do not capture in a high-stakes OSCE](../claims/grs-discriminates-station-failures-checklists-miss.md) [+W] — attached 2026-11-05 from Ibrahim Olayinka Rasheed et al. (2026), which proposed "Combine checklists and GRS in high-stakes OSCE scoring to capture both critical steps and overall competence"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

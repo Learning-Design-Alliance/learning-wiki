@@ -75,3 +75,4 @@ The sixth proposition, a longitudinal prediction from the theory. The article st
 - [AI-directed problem selection may diminish the metacognitive dimension of self-testing while preserving retrieval practice](ai-directed-self-testing-diminishes-metacognitive-judgment.md) — a narrower finding that bears on this claim
 - [Evidence on GenAI in chemistry education is concentrated in short-term outcomes, with durable transfer and retention rarely tested](genai-chemistry-evidence-short-term-outcomes.md) — related
 - [The evidence base for AI-assisted formative assessment is promising but uneven, concentrated in short-term single-setting studies](ai-formative-assessment-evidence-uneven-early.md) — related
+- [ChatGPT generates coherent create-level hypotheses that lack precision to be directly testable](chatgpt-create-level-hypotheses-lack-precision.md) — related

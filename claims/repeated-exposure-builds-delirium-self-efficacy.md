@@ -80,3 +80,5 @@ Students reflected on growing ability to cope, with one noting experience from t
 - [Nursing students report emotional responses of inadequacy, low motivation, low self-confidence and fear during clinical practice](emotional-responses-inadequacy-low-motivation-fear.md) — reports the opposite
 - [Simulation-based BLS training evokes strong emotional engagement and builds nursing students' confidence through repeated practice in a safe, mistake-tolerant environment](simulation-bls-emotional-engagement-confidence.md) — related
 - [Nursing students experience inadequacy in clinical decision-making as the biggest challenge during clinical practice](inadequacy-clinical-decision-making-biggest-challenge.md) — related
+- [Undergraduate dental students perceive that PBL builds self-efficacy, moving from initial uncertainty toward confidence in independent learning](pbl-builds-self-efficacy-from-uncertainty.md) — related
+- [Self-efficacy is positively associated with most clinical communication subdomains among nursing interns](self-efficacy-positive-communication-subdomains.md) — related

@@ -9,7 +9,6 @@ generated:
   at: 2026-10-12
 evidence_strength: weak
 newest_evidence: 2025
-source_checked: 2026-10-20
 recheck_by: 2028
 sources:
   - id: kostopoulos-2025
@@ -34,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A case study with 12 educators found acceptable rater agreement (Cohen's 0.78) between AI and human scoring. [→ Kostopoulos 2025](#kostopoulos-2025)

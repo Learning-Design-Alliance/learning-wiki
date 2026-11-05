@@ -49,6 +49,8 @@ To implement digitally enhanced certification equitably, the statement recommend
 ## Related Strategies
 
 - [Four pillars for educational transformation: industry-independent accreditation, integrated curricula, objective competency assessment, and competency-based certification](four-pillars-educational-transformation-ep.md)
+- [Implement a tiered system of caregiving competencies with advanced training in swallowing, chewing, and oral care](tiered-caregiving-competency-advanced-training.md)
+- [Match the implementation pathway to institutional ambition: proctor-guided broad training for hub centers versus small-team complexity escalation for technical stewardship](two-implementation-pathways-hub-versus-stewardship.md)
 
 ## Examples
 -

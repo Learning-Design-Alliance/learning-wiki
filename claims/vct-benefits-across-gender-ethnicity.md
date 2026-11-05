@@ -55,3 +55,4 @@ Repeated-measures ANOVA by gender and minority status (N=525, Table 7). Satisfac
 - [Simulation exposure produced no detectable change in clinical trials career interest](vct-no-career-interest-change.md) — related
 - [Any simulation exposure slightly improved scientific possible selves, but two simulations conferred no additional benefit](vct-possible-selves-small-gain-no-dose-effect.md) — related
 - [Exposure to two simulations produced greater gains in positive attitudes toward clinical trials than exposure to one](vct-two-simulations-greater-attitude-gain.md) — related
+- [Female participants report slightly higher overall retrospective CRM learning gains than male participants](gender-difference-retrospective-crm-gain.md) — related

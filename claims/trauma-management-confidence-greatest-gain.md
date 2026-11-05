@@ -47,3 +47,4 @@ Wilcoxon signed-rank comparison of Likert self-confidence items in the pre–pos
 ## Related Claims
 - [In one uncontrolled pre–post study, scores across all evaluated competency domains among medical students rose from pre-test to post-test after a structured simulation-based orthopedic workshop, with statistically significant differences and large effect sizes](orthopedic-simulation-workshop-prepost-gains-all-domains.md) — a broader claim this one bears on
 - [Confidence, risk-recognition and trauma-management scores differed significantly across study years, with senior students (Year VI) outperforming earlier years](study-year-differences-senior-students-higher.md) — related
+- [Self-reported perceived competence scores among paramedic students were significantly higher after simulation-based education than before it across all assessed skill areas, in one uncontrolled pre-post study](simulation-training-increased-perceived-competence.md) — related

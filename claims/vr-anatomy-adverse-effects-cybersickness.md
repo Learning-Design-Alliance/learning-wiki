@@ -55,3 +55,4 @@ Adverse-effect reporting within the meta-analysis's review of the five satisfact
 - [Reported barriers to the VR session include headset ergonomics and occasional motion sickness](vr-barriers-headset-ergonomics-motion-sickness.md) — related
 - [Simulator sickness was low (median SSQ 1.9) with no serious adverse events](ncpr-vr-low-simulator-sickness.md) — related
 - [Approximately one quarter of XR-group participants reported cybersickness complaints](xr-cybersickness-complaints.md) — related
+- [Students reported usability and technological limitations including headaches, visual fatigue, gesture misinterpretation and restricted field of view](hololens-usability-limitations-cybersickness-gestures.md) — related

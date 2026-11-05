@@ -71,3 +71,4 @@ The review reports, citing Kirollos and Merchant (2023), evidence that cybersick
 - Only a minority of included trials used AR or mixed reality; roughly 88% evaluated purely VR simulations — related
 - [Reported barriers to the VR session include headset ergonomics and occasional motion sickness](vr-barriers-headset-ergonomics-motion-sickness.md) — related
 - [Approximately one quarter of XR-group participants reported cybersickness complaints](xr-cybersickness-complaints.md) — related
+- [Participants rated the VR learning experience positively with minimal cybersickness, yet most did not prefer VR over prosection as a drawing reference](vr-satisfaction-but-not-preferred-reference.md) — reports the opposite

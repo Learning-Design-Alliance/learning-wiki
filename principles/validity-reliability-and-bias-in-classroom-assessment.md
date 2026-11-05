@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 411 claims (189 for, 194 mixed, 28 against) · 309 studies (98 associational, 72 design, 51 causal, 46 review, 26 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 27 of 309 report an effect size · 404 claims rest on one study
+> **Evidence** · 412 claims (190 for, 194 mixed, 28 against) · 310 studies (98 associational, 73 design, 51 causal, 46 review, 26 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 27 of 310 report an effect size · 405 claims rest on one study
 
 ## Conditional relationship
 
@@ -255,6 +255,7 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [Task-specific metrics show excellent inter-rater reliability for simulated laparoscopic crural repair assessment](../claims/tsm-excellent-inter-rater-reliability-crural-repair.md) [+W] — attached 2026-11-04 from Garces-Palacios S et al. (2026), which proposed "Use task-specific metrics as standardized assessment tools in surgical simulation education"; tests this page's relationship.
 - [A generic rating scale shows higher internal consistency than an extended task-specific scale for basic abdominal ultrasound OSCE assessment](../claims/generic-scale-higher-cronbach-alpha-ultrasound-osce.md) [+W] — attached 2026-11-05 from Schneider Simon et al. (2026), which proposed "Use a well-designed generic rating scale for reliable, efficient OSCE assessment of basic technical (ultrasound) skills"; tests this page's relationship.
 - [The generic scale shows higher generalisability than the extended scale, indicating greater performance-related variance](../claims/generic-scale-higher-phi-ultrasound-osce.md) [+W] — attached 2026-11-05 from Schneider Simon et al. (2026), which proposed "Use a well-designed generic rating scale for reliable, efficient OSCE assessment of basic technical (ultrasound) skills"; tests this page's relationship.
+- [Each AI model generated 2–4 ethics MCQs (approximately 7–15% per model) that fell outside the ethics domain, assessing medical or legal knowledge instead](../claims/ai-ethics-mcqs-out-of-domain-7-15-percent.md) [+W] — attached 2026-11-05 from Obeid John et al. (2026), which proposed "Use AI to draft ethics MCQs only with expert oversight and refinement, not as a replacement for expert-created assessment content".
 
 ## Objective and learner-valued goal
 

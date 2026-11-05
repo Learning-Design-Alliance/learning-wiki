@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: xiao-meixia-2026
     resource: "https://doi.org/10.3389/fpubh.2026.1856743"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` On an end-of-training self-report questionnaire, the BOPPPS/FC-CBL group's mean ratings of teaching satisfaction (4.08 vs 3.24) and of their own self-directed learning capacity (3.91 vs 3.15) were higher than the LBL group's, with reported effect sizes of d = 1.48 and d = 1.62, which the authors read as favouring BOPPPS/FC-CBL; the methods define the scale as 1 = "very satisfied" and 5 = "very dissatisfied", which would make higher scores worse, and the paper does not reconcile the two. [→ Xiao Meixia 2026](#xiao-meixia-2026)
@@ -55,3 +55,5 @@ Randomised trial of 38 general-practice residents (19 per group) in one hospital
 - [PUC-FC students rated the course more highly than FC and LBL students on all satisfaction dimensions except rationality of class hour arrangement](puc-fc-satisfaction-advantage.md) — related
 - [AI-assisted CBL+FC residents report greater improvements in learning motivation, clinical reasoning, self-directed learning, and perceived course effectiveness](ai-assisted-cbl-fc-higher-satisfaction-motivation.md) — related
 - [Students in the CBL-FC group report high learning interest, positive experience, and overall satisfaction](cbl-fc-high-satisfaction-learning-experience.md) — related
+- [92.60% of students were satisfied with the A-SPIRE model and 96.3% believed their science communication ability improved](a-spire-high-satisfaction-self-assessed-improvement.md) — related
+- [Residents rated all learning-experience and satisfaction dimensions significantly above neutral, and satisfaction with technological implementation was the strongest predictor of overall satisfaction](resident-satisfaction-technology-implementation-predictor.md) — related

@@ -50,3 +50,4 @@ NLN Student Satisfaction and Self-Confidence in Learning Scale (13 items, five-p
 - [VR clinical simulation produced higher anxiety than face-to-face manikin simulation in maternal-newborn nursing](vr-simulation-higher-anxiety-than-face-to-face.md) — related
 - [Among nursing students, correct dosage calculation and reconstitution rates rose from 1.3% to 93.6% between the first and second hybrid simulation sessions with role-playing, in one uncontrolled pre-post study](hybrid-simulation-improves-dosage-calculation-nursing.md) — related
 - [Students rate clinical reasoning skills and overall satisfaction highest among self-reported outcomes](cataract-vsim-highest-rated-outcomes.md) — related
+- [Simulation training in VR or HFS significantly improves medical interns' self-reported confidence in managing oxygen desaturation](vr-hfs-desaturation-confidence-gain.md) — related

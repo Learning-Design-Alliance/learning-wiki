@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: weak
 newest_evidence: 2019
+recheck_by: 2022
 sources:
   - id: doroudi-2019
     resource: "https://doi.org/10.1145/3303772.3303838"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1` · n=simulated students (no real learners)
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: tool and model accuracy changes quickly
 
 Knowledge tracing estimates whether a student has mastered a skill and so decides how much practice each student gets before moving on. This claim is about whether those decisions serve different groups of students equally well, as shown in simulation rather than with real students.
 

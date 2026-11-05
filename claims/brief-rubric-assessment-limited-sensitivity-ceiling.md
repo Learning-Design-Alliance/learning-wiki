@@ -52,3 +52,4 @@ Authors' interpretation in the discussion of the pilot trial's assessment data; 
 - [LLM-as-a-judge ratings found only small, incremental differences between systems, with ceiling effects on several criteria](llm-judge-small-incremental-differences-ceiling.md) — related
 - [Independent LLM evaluators agreed on agent rankings but differed markedly in leniency, with ceiling effects compressing between-agent discrimination](llm-evaluator-leniency-ceiling-effects.md) — related
 - [Both PLAN A and control trainees improve significantly on case-based airway assessment from pre- to post-training](plan-a-within-group-pre-post-gains-both-groups.md) — related
+- [Control-group trainees show the largest checklist and confidence gains after hands-on training, consistent with a ceiling effect](control-group-largest-post-training-gains-cvc.md) — related

@@ -54,3 +54,4 @@ The review's synthesis of four RCTs measuring teamwork performance. Thomas et al
 - [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](simulation-skill-retention-two-month-follow-up.md)
 - [HF simulation shows no significant benefit for satisfaction, confidence, or teamwork behaviors, and no long-term knowledge retention benefit](hf-simulation-null-secondary-outcomes.md) — possibly the same claim (merge candidate)
 - [HF simulation improves ALS skill performance at course conclusion versus LF simulation and traditional training (pooled SMD = 0.63) with high heterogeneity](hf-simulation-improves-als-skill-course-conclusion.md) — related
+- [Authors position SKIT as excelling at non-technical skills while high-fidelity simulation outperforms it for fine procedural skills](skit-versus-hfs-vr-positioning.md) — related

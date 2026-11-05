@@ -45,6 +45,7 @@ The authors recommend that "Scenario-based learning method is applicable in the 
 ## Related Strategies
 
 - [Integrate scenario based and reflective learning applications into teacher training programmes and other courses](integrate-sbl-reflective-into-teacher-training.md)
+- [Integrate scenario-based animation videos into basic nursing course curricula as course material](integrate-scenario-animation-nursing-curriculum.md)
 
 ## Examples
 -

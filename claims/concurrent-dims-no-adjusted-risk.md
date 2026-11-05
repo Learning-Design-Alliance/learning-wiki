@@ -51,3 +51,4 @@ Logistic regression in the same longitudinal cohort, contrasting the Concurrent 
 - [Short sleep duration at age 3 was not associated with quality of life at about age 13](sleep-quality-of-life-null-longitudinal.md) — related
 - [Improving parental mental health in general may not in itself improve children's educational outcomes](improving-parental-mental-health-may-not-improve-achievement.md) — related
 - [Sleep duration, mental health, and cognitive performance mediate the screen time–academic performance association](sleep-mental-health-cognition-mediate-screen-academic-association.md) — related
+- [Tablet in the bedroom was associated with poor sleep quality in univariate analysis (86.1% vs 71.7%), but this association did not persist in the multivariable model](tablet-bedroom-association-not-persistent.md) — related

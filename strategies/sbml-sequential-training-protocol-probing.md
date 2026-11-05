@@ -59,6 +59,7 @@ The article's training protocol provides a replicable sequence for simulation-ba
 - [Deliver zone 0 preparatory self-directed learning through an interactive video structured on Peyton's 4-step approach](zone0-interactive-video-peyton-four-step-strategy.md)
 - [Structured stepwise endodontic curriculum: preclinical training, clinical observation, then supervised clinical practice](stepwise-endodontic-curriculum-preclinical-observation-practice.md)
 - [Use a structured one-day simulation program combining pre-briefing, theoretical training, practical skills practice, scenario-based simulation, and video-based debriefing](structured-one-day-simulation-caregiver-training.md)
+- [Structure remote MR tutorials as baseline assessment, metrics-based feedback and deliberate practice, preceded by device familiarisation training](hololens-familiarisation-plus-metrics-feedback-deliberate-practice.md)
 
 ## Examples
 -

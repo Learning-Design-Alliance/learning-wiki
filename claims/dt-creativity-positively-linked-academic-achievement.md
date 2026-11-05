@@ -69,3 +69,4 @@ The review reports a study in which creativity, measured by psychometric and sel
 ## Related Claims
 - [Cross-cultural studies show Eastern children can outperform Western ones on creativity measures, and children with little schooling can show high divergent thinking](cross-cultural-creativity-schooling-diverse-populations.md) — related
 - [Teachers' ratings of children's creativity correlate poorly with psychometric performance, and teachers tend to prefer appropriate answers over novel ones](teacher-ratings-creativity-poorly-correlate-psychometric.md) — related
+- [Achievement status moderates the divergent thinking–GPA association, which is stronger among high-achieving students](achievement-status-moderates-divergent-thinking-gpa.md) — a narrower finding that bears on this claim

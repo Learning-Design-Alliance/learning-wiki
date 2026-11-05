@@ -53,3 +53,4 @@ Multiple-response competency item completed by the 107 questionnaire respondents
 - [Most students self-reported that their interprofessional collaboration ability was better after the program, in one single-group pre-post study](sbl-global-perceived-improvement-item.md) — related
 - [Undergraduate health students' perceived interprofessional competency scores rose across all six domains from pre-test to post-test after simulation-based learning, in a single-group pre-post study](sbl-improves-interprofessional-competencies-retrospective-pre-post.md) — related
 - [Most medical students rate team competencies as very important for future practice and report high interest in interprofessionalism](students-rate-team-competencies-important-high-interest.md) — related
+- [Undergraduate dental students perceive that PBL strengthens communication and presentation skills needed for clinical practice](pbl-strengthens-communication-presentation-skills.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: murat-çetinkaya-2017
     resource: "http://iaesjournal.com/online/index.php/IJERE"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After a three-week flipped classroom unit, the experimental group using web-assisted activities alongside video lessons scored significantly higher on the unit achievement test than the control group using only video lessons (post-test means 66.8892 vs 55.4032; t(74)=3.293, p<0.05). [→ Murat Çetinkaya 2017](#murat-cetinkaya-2017)

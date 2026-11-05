@@ -55,3 +55,4 @@ Table 1 of the cluster-randomized trial reports baseline prerequisite (Human Ana
 - [BOPPPS/FC-CBL group achieves significantly higher clinical case evaluation scores than LBL group](boppps-fc-cbl-higher-clinical-case-scores-than-lbl.md) — related
 - [Collaborative teaching of PVE improves seventh-graders' mastery of practical skills compared with teaching by the PVE teacher alone](collaborative-teaching-improves-pve-practical-skills.md) — related
 - [The hybrid CBL-SST-simulator model shows no significant difference from lecture-based learning in theoretical knowledge scores](hybrid-cbl-sst-no-difference-theoretical-knowledge.md) — related
+- [Mid-stake end-of-block assessment scores were significantly higher in the Kahoot!-gamified cardiovascular module than in the non-gamified respiratory module (median paired difference 4.89%, r = 0.31)](kahoot-gamified-module-higher-assessment-scores.md) — related

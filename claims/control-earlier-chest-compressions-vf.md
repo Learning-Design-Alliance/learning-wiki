@@ -46,3 +46,4 @@ Ventricular fibrillation scenario with 10 teams per arm. "The only notable perfo
 
 ## Related Claims
 - [Time to first defibrillation is numerically shorter in the app group but not statistically significant](app-numerical-earlier-defibrillation-trend.md) — related
+- [Remote AR simulation is noninferior to traditional in-person simulation for team leader checklist performance in a VF cardiac arrest scenario](remote-ar-noninferior-checklist-team-leader-performance.md) — related

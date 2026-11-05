@@ -69,6 +69,7 @@ In the evaluated implementation, intervention teachers received 2.5 full days of
 - [Five-day teacher workshop for WRD curriculum framework training](five-day-wrd-teacher-workshop.md)
 - [Train classroom teachers as facilitators with ongoing experiential workshops and monthly support meetings](teacher-facilitator-training-workshops-support.md)
 - [Three-step tutor training model: initial training, daily debriefing, and individual consultation](three-step-tutor-training-model.md)
+- [Use a train-the-trainer faculty development model with rapid-cycle quality improvement and participatory design to implement a longitudinal teamwork curriculum](train-the-trainer-participatory-qi-strategy.md)
 
 ## Examples
 -

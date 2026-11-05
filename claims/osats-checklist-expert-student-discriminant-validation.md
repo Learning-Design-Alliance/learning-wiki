@@ -49,3 +49,4 @@ Preliminary validation of the assessment instruments before the trial, comparing
 - [Undergraduate students and residents showed no significant difference in final OSATS and checklist scores after a standardized simulator-based POCUS training program](pocus-final-scores-no-education-level-difference.md) — related
 - [Hybrid tools combining checklists with global rating scales (ASSET, OSATS) show promise but require further validation in the live operative theater](hybrid-tools-asset-osats-promise-live-theater-unvalidated.md) — related
 - [Mitral valve simulator performance scores increase with training level, from general surgery residents to cardiothoracic residents to attending surgeons](greenhouse-scores-increase-with-training-level.md) — related
+- [Pre-class videos raise pre-training checklist scores in ultrasound-guided CVC, with the POV group highest](pre-class-video-higher-pre-training-checklist-cvc.md) — related

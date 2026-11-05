@@ -51,3 +51,4 @@ Repeated single-file grading by ChatGPT on five different days (Table 3 last row
 - [Under single-pass deployment, Fs+CoT prompting yields the strongest agreement with teacher mean scores for music-analysis essay scoring (r = 0.795, ICC (2,1) = 0.657)](fscot-strongest-teacher-agreement-run1.md) — related
 - [ChatGPT in thinking mode shows the strongest agreement with human examiners on essay-style exam grading (weighted kappa 0.718)](chatgpt-thinking-mode-strongest-human-grading-agreement.md) — related
 - [Prompting strategy influenced ChatGPT-4 performance, with Resident prompts most consistent and Specialist prompts showing significantly different response patterns](prompting-strategy-influences-chatgpt-pes-performance.md) — related
+- [Blinded mQSAT reviewers showed only slight-to-moderate interrater agreement, suggesting assessment tools need cross-modality validation](mqsat-cross-modality-interrater-reliability.md) — related

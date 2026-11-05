@@ -55,3 +55,4 @@ Random effects meta-analysis of intraclass correlation coefficients between OSCE
 - [Inter-rater reliability of the GOALS total score was good (ICC = 0.795) in blinded porcine cholecystectomy assessment](goals-good-inter-rater-reliability-porcine-model.md) — related
 - [Rater variability accounted for 37% of residual variance in faculty total scores and 52% in communication scores](rater-variability-37-percent-residual-variance.md) — related
 - [Conventional OSCEs face systemic limitations including restricted clinical scenario range, reliability concerns, and high preparation burden](conventional-osce-systemic-limitations.md) — reports the opposite
+- [Rater reliability was good for the adapted checklist, and objective and subjective scores correlated strongly](adapted-checklist-irr-and-score-coherence.md) — related

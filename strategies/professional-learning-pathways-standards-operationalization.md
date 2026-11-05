@@ -60,6 +60,7 @@ The article recommends embedding the standards into structured professional lear
 - [Train teachers and tutors on instructional use rather than device mastery, and include school-level storage and maintenance training](ict-capacity-building-instructional-focus.md)
 - [Develop structured, standardized training pathways for simulation technicians integrating technical and pedagogical domains](structured-training-pathways-simulation-technicians.md)
 - [Advance PMSC training through explicit competency definitions, structured workplace-based learning, competency-oriented assessment, national training modules, and faculty development.](strategy-advance-pmsc-cbme-framework.md)
+- [Match the implementation pathway to institutional ambition: proctor-guided broad training for hub centers versus small-team complexity escalation for technical stewardship](two-implementation-pathways-hub-versus-stewardship.md)
 
 ## Examples
 -

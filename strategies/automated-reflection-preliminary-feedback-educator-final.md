@@ -51,6 +51,7 @@ The article recommends deploying automatic reflection-level classifiers as assis
 - [Deploy automated analysis tools to support tutors' time-consuming analysis of CSCL conversations](automated-tools-supporting-tutor-conversation-analysis.md)
 - [Deploy automated reflection analytics for immediate, scalable feedback on reflective writing](automated-reflection-analytics-immediate-scalable.md)
 - [Suggest targeted exercises from weak essay categories based on relative student performance](targeted-exercises-weak-essay-categories.md)
+- [Use the predictive model as a screening aid complementing existing academic monitoring, not as a deterministic evaluation tool](predictive-model-as-screening-aid-not-deterministic-tool.md)
 
 ## Examples
 -

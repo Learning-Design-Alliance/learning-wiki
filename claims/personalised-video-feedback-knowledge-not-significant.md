@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: gökduman-keleş-mine-göçmez-sema-2026
     resource: "https://doi.org/10.1111/nicc.70603"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Post-intervention knowledge scores were higher in the intervention group but the difference was not statistically significant (75.6 ± 7.6 vs 71.7 ± 11.1, t = 1.588, p = 0.118). [→ Gökduman Keleş Mine; Göçmez Sema 2026](#gokduman-keles-mine-gocmez-sema-2026)
@@ -54,3 +55,4 @@ In the same parallel RCT (n = 58), between-group comparison of the Knowledge Ass
 - [Structured PEARLS debriefing is associated with higher theoretical exam scores in surgical nursing simulation education](debriefing-higher-theoretical-exam-scores-surgical-nursing.md) — related
 - [Scenario-based simulation ward rounds combined with video feedback improve critical thinking disposition in gastroenterology residents](simulation-ward-rounds-video-feedback-improve-critical-thinking.md) — related
 - [Scenario-based simulation ward rounds combined with video feedback increase teaching satisfaction among gastroenterology residents](simulation-ward-rounds-video-feedback-increase-teaching-satisfaction.md) — related
+- [Scenario-based animation and routine skill video both increased nursing students' ROM exercise knowledge, with no significant difference between the groups](rom-animation-skill-video-equal-knowledge-gains.md) — related
