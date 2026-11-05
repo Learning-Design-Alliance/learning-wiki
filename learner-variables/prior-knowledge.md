@@ -6,8 +6,8 @@ description: A learner's existing domain knowledge in the subject area before in
 canonical: true
 status: review
 generated:
-  by: claude/unspecified
-  at: 2026-10-21
+  by: "process:article-ingest"
+  at: 2026-11-05
 ---
 
 # Prior Knowledge
@@ -298,6 +298,7 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Novices move their head farther from the mannequin when using a video laryngoscope than a direct laryngoscope](../claims/novices-head-distance-video-vs-direct-laryngoscope.md) [+M] — an instructional effect differs with it
 - [The authors explain the hybrid CI + VR paradox (highest Knowledge gains but more modest Understanding gains) via split-attention and expertise reversal effects](../claims/split-attention-explains-hybrid-paradox.md) [~W] — an instructional effect differs with it
 - [Triggered interest predicts test achievement only when learners have prior experience with the task domain (CPT), not in the MPT or computer-based environment](../claims/triggered-interest-predicts-achievement-only-with-prior-experience.md) [~M] — an instructional effect differs with it
+- [Students in online practice systems differ widely in initial knowledge but very little in learning rate per practice opportunity](../claims/students-differ-in-initial-knowledge-not-learning-rate.md) [+M] — learners who differ on it differ in outcomes: lower starting knowledge meant more practice opportunities to reach mastery, not a slower rate
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

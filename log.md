@@ -491,6 +491,11 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 * **Claim**: [patterns/spaced-learning](patterns/spaced-learning.md) — Linked claim from Improving students' long-term knowledge retention through personalized review (Lindsey et al., 2014), doi:10.1177/0956797613504302; written from the abstract
 * **Claim**: [elements/spaced-repetition](elements/spaced-repetition.md) — Linked claim from Improving students' long-term knowledge retention through personalized review (Lindsey et al., 2014), doi:10.1177/0956797613504302; written from the abstract
 * **Ingest**: [claims/personalized-spaced-review-improves-course-retention](claims/personalized-spaced-review-improves-course-retention.md) — Improving students' long-term knowledge retention through personalized review (Lindsey et al., 2014), doi:10.1177/0956797613504302; written from the abstract
+* **Claim**: [learner-variables/prior-knowledge](learner-variables/prior-knowledge.md) — Linked claim from An astonishing regularity in student learning rate (Koedinger et al., 2023), doi:10.1073/pnas.2221311120
+* **Claim**: [principles/mastery-learning](principles/mastery-learning.md) — Linked claim from An astonishing regularity in student learning rate (Koedinger et al., 2023), doi:10.1073/pnas.2221311120
+* **Claim**: [principles/deliberate-practice](principles/deliberate-practice.md) — Linked claim from An astonishing regularity in student learning rate (Koedinger et al., 2023), doi:10.1073/pnas.2221311120
+* **Ingest**: [claims/practice-opportunities-needed-after-verbal-instruction](claims/practice-opportunities-needed-after-verbal-instruction.md) — An astonishing regularity in student learning rate (Koedinger et al., 2023), doi:10.1073/pnas.2221311120
+* **Ingest**: [claims/students-differ-in-initial-knowledge-not-learning-rate](claims/students-differ-in-initial-knowledge-not-learning-rate.md) — An astonishing regularity in student learning rate (Koedinger et al., 2023), doi:10.1073/pnas.2221311120
 
 ## 2026-11-04
 

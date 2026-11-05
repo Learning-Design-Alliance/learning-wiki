@@ -7,8 +7,8 @@ description: "For a learner who can already perform a task but has stopped impro
 canonical: true
 status: review
 generated:
-  by: claude/unspecified
-  at: 2026-10-15
+  by: "process:article-ingest"
+  at: 2026-11-05
 sources:
   - id: ericsson-1993
     resource: "https://doi.org/10.1037/0033-295X.100.3.363"
@@ -119,6 +119,7 @@ Re-read against the model on 2026-10-15; these two do not bear on its relationsh
 - [Deliberate practice can expand short-term memory capacity beyond the conventional seven-item limit](../claims/deliberate-practice-expands-memory-capacity.md) [+W] — a second-hand report, in the same dissertation, of the digit-span training studies; one entry at `q1`. Shows that specific practice can change a capacity thought fixed; not a design finding.
 - [DP-informed simulation-based surgical training is associated with improved psychomotor skill acquisition in laparoscopic surgery](../claims/dp-informed-sbst-improves-laparoscopic-psychomotor-skills.md) [+W] — attached 2026-10-31 from Wickramasinghe D (2025), which proposed "Structure simulation-based surgical training according to deliberate practice principles, including immediate feedback and stepwise task progression"; tests this page's relationship.
 - [DP adherence varied widely across studies, with the most structured programs yielding the greatest benefits](../claims/dp-adherence-variability-influences-outcomes.md) [+W] — attached 2026-10-31 from Wickramasinghe D (2025), which proposed "Structure simulation-based surgical training according to deliberate practice principles, including immediate feedback and stepwise task progression"; tests this page's relationship.
+- [After up-front instruction, students start practice at about 65% correct and need about seven opportunities per knowledge component to reach 80%](../claims/practice-opportunities-needed-after-verbal-instruction.md) [+M] — added 2026-11-05 from Koedinger et al. (2023), 27 datasets from online practice systems with feedback; not yet read against the model above.
 
 ## Objective and learner-valued goal
 
