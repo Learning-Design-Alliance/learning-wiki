@@ -56,3 +56,4 @@ Randomized controlled trial of 67 third-year medical students in Vietnam, random
 - [Students training with AI-VSPs complete more practice cycles than students training with traditional SPs](ai-vsp-more-training-cycles.md) — related
 - [AI-VSP and traditional SP training show no significant difference in SEGUE Process scores or individual dimension scores](no-group-difference-process-segue-scores.md) — a narrower finding that bears on this claim
 - [SEGUE-based simulation training with either AI-VSPs or traditional SPs: medical students' communication scores rose significantly from pre-test to post-test in within-group comparisons](segue-simulation-training-improves-communication-scores.md) — related
+- [VSP-based training produced significantly higher post-intervention clinical interview scores than traditional practice in a small randomized controlled trial](vsp-training-improves-interview-skills-rct.md) — reports the opposite

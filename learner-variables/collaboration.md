@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 142 claims (113 show a difference, 19 mixed, 10 no difference) · 120 studies (45 causal, 26 review, 16 qualitative, 11 quant-synthesis, 9 associational, 8 design, 5 theoretical), `q1`–`q3` · 11 of 120 report an effect size · 142 claims rest on one study
+> **Evidence** · 145 claims (115 show a difference, 20 mixed, 10 no difference) · 122 studies (46 causal, 26 review, 17 qualitative, 11 quant-synthesis, 9 associational, 8 design, 5 theoretical), `q1`–`q3` · 11 of 122 report an effect size · 145 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -184,6 +184,9 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Joint team-based training during single-port transition clarifies role-specific constraints and improves collaborative problem-solving](../claims/joint-sp-team-training-shared-mental-models.md) [+M] — measured as an outcome of the instruction studied
 - [All interviewed interns reported that role rotation and teamwork were central benefits of the simulation-with-CBL training](../claims/role-rotation-teamwork-central-benefit-simulation-cbl.md) [+M] — measured as an outcome of the instruction studied
 - [Under human-machine collaboration, emergency nurses transform from experience-based executors to AI collaborative decision-makers](../claims/nurse-role-shift-executor-to-ai-collaborative-decision-maker.md) [+M] — measured as an outcome of the instruction studied
+- [Faculty focus groups identified perceived benefits in teamwork, time management, communication, critical thinking, active learning, and confidence, alongside drawbacks](../claims/faculty-focus-group-gamification-themes.md) [~M] — measured as an outcome of the instruction studied
+- [Immersive VR paediatric emergency training significantly improves interprofessional teamwork from baseline to 1-month follow-up in both debriefing groups](../claims/vr-training-improves-teamwork-both-debriefing-groups.md) [+M] — measured as an outcome of the instruction studied
+- [Students attributed competencies in teamwork, time management, quick thinking, critical thinking, communication, and confidence to team-based gamified quizzing](../claims/student-reported-competencies-gamified-quizzing.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

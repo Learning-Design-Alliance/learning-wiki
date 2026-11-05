@@ -49,3 +49,4 @@ Instructor observation during the gamified year, reported in the discussion sect
 - [Kahoot performance over a semester did not differ between high- and low-competitive undergraduates, though scores varied across time points](no-competitiveness-difference-kahoot-performance.md) — related
 - [During the course, curiosity, enjoyment, confusion and anxiety decreased over time, boredom increased, and surprise and frustration remained stationary.](time-trends-epistemic-emotions-decline-course.md) — related
 - [Cooperative team-based competition in a gamified course was associated with high reported enjoyment of group work, in contrast to studies using solely competitive elements](cooperative-team-competition-group-work-enjoyment.md) — related
+- [Kahoot! gamification sessions recorded full student attendance, the only sessions of the day to reach 100% participation](kahoot-sessions-full-attendance.md) — related

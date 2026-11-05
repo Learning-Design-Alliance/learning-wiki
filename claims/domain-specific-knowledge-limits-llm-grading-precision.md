@@ -52,3 +52,4 @@ Authors' interpretation in the discussion, not a directly tested hypothesis: the
 - [More advanced LLMs (ChatGPT 4.0, Claude 3.0 Haiku) did not improve criterion-based grading over ChatGPT 3.5 with the same prompt](advanced-llms-no-grading-improvement.md) — a narrower finding that bears on this claim
 - [More complex prompts tend to elicit superior results with advanced LLM versions (authors' observation)](complex-prompts-elicit-better-llm-results.md) — reports the opposite
 - [Switching from reference-based to contextual evaluation prompts improved GenAI grading accuracy](contextual-evaluation-prompt-improvement.md) — related
+- [Claude showed strong Turkish-language adaptability, which the authors attribute to its superior scenario performance](claude-turkish-language-adaptability.md) — related

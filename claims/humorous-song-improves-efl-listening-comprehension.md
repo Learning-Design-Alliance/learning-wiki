@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2010
+source_checked: 2026-11-05
 sources:
   - id: rafiee-et-al-2010
     resource: "http://www.ccsenet.org/elt"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Fifteen intermediate EFL learners who heard a humorous song after each listening lesson improved significantly from pretest to posttest (mean 41.3 to 54.0, paired t = −4.219, p = .001), while the 15-learner control group's gain (40.7 to 46.7) was not significant (t = −1.21, p = .246); no test comparing the two groups' gains is reported. [→ Rafiee et al. 2010](#rafiee-et-al-2010)

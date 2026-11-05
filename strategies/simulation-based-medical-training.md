@@ -81,6 +81,7 @@ Simulation works because it allows deliberate practice with immediate feedback â
 - [Use deliberate practice with repeated case-based engagement and immediate feedback for assessment skill training](deliberate-practice-case-based-pain-assessment-training.md)
 - [Expand mCLEIMS through faculty development, standardized scenario templates, and a train-the-trainer model](mcleims-expansion-train-the-trainer-strategy.md)
 - [Prioritize low-fidelity simulations with trained simulated participants over high-tech manikins for clinical reasoning training](low-fidelity-simulated-participants-over-manikins.md)
+- [Use remote instructor-led AR simulation to deliver standardized team-leader assessment where in-person simulation access is limited](remote-ar-assessment-resource-limited-settings-strategy.md)
 
 ## Examples
 - **[Center for Medical Simulation, Harvard](https://harvardmedsim.org)** â€” pioneer of the "debriefing with good judgment" method now widely adopted in simulation faculties.

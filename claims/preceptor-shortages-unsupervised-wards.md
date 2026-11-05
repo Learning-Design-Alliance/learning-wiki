@@ -51,3 +51,4 @@ Qualitative finding from the results section: "The shortage of preceptors emerge
 - [Trainees exposed to the Clinical Supervision Model developed more critical, better-justified evaluations of supervision quality than control-group trainees](csm-critical-evaluation-capacity.md) — related
 - [Clinical preceptor support shows the strongest association with clinical practice competency (AOR = 4.44)](preceptor-support-associated-competency-ethiopia.md) — a broader claim this one bears on
 - [The review identifies a lack of consensus on a clinical supervision definition, causing ambiguity and reduced use of this support.](lack-of-consensus-definition.md) — related
+- [Faculty perceived that increased student admissions combined with faculty shortages compressed pedagogical space and reduced bedside teaching and supervision after the HTP](htp-student-admissions-faculty-shortages-constrained-teaching.md) — related

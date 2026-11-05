@@ -66,3 +66,4 @@ Example of student feedback quoted under the fourth theme: students lacking acco
 ## Related Claims
 - [Open-ended learner feedback revealed four themes: trust in AI scaffolding, feedback clarity, engagement, and task authenticity](cyberagents-qualitative-four-themes.md) — related
 - [Thematic analysis of open responses surfaced four themes: immediacy as core value, calibrated trust, pinpointing the mistake, and progress and control](four-qualitative-themes-genai-practice-feedback.md) — related
+- [Thematic analysis of 120 free-form comments identified four themes: improved learning experience, engagement, collaborative learning and skill development](cartooning-feedback-four-themes.md) — related

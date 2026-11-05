@@ -48,3 +48,4 @@ This is a moderator highlighted in the review's synthesis of Hewitt et al.'s vid
 - [All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback whose credibility was not restricted by facilitator hierarchy](facilitators-prefer-vad-objective-feedback.md) — related
 - [Video-assisted debriefing enhances precision but risks psychological safety and narrows reflection to individual performance](video-debriefing-precision-safety-tradeoffs.md) — related
 - [Comparing their decisions with other teachers' reflections led a majority (70% to 80%) of pre-service teachers to modify or entirely re-invent their responses to classroom challenges](video-comparative-reflection-response-modification.md) — related
+- [Students initially preferred group reflection over individual reflection, but the preference faded over time](student-preference-group-reflection-faded-over-time.md) — related

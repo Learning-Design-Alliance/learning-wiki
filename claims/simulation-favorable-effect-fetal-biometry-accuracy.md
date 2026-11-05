@@ -47,3 +47,4 @@ Systematic review meta-analysis (Review Manager 5.3 and Meta-essentials) of 4 st
 ## Related Claims
 - [All four meta-analyzed studies reported positive effects of simulator training on novice performance, in CRL and FL measurement regardless of simulator model](simulator-training-positive-effect-crl-fl-novices.md) — possibly the same claim (merge candidate)
 - [The literature poorly addresses whether simulation-learned obstetric ultrasound skills transfer to clinical practice and are sustained over time](simulation-skill-transfer-to-clinic-poorly-addressed.md) — related
+- [Simulator-based training was more effective than traditional training at improving obstetric ultrasound performance, with large ANCOVA effect sizes](simulator-training-outperforms-traditional-training-obstetric-ultrasound.md) — a narrower finding that bears on this claim

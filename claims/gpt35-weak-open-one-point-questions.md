@@ -49,3 +49,4 @@ Results analysis categorizing the 124 exam items into multiple-choice, open one-
 - [Exam questions that GPT-4 answered inconsistently or incorrectly were harder for human examinees, who scored about 63–68% on them versus about 75% on the rest](gpt4-inconsistent-questions-harder-for-students.md) — related
 - [GPT-4 significantly outperforms the average Dutch student on VWO English reading comprehension, scoring 8.3 (March) and 8.1 (June) without re-prompting](gpt4-outperforms-average-student-english-exams.md) — related
 - [Question type affects accuracy: feature-to-concept questions are answered best and applied questions worst](question-type-accuracy-ordering.md) — related
+- [ChatGPT underperforms doctoral students on long-answer experimental design questions, driven by poor apply-level control answers](chatgpt-underperforms-long-answer-apply-level-controls.md) — related

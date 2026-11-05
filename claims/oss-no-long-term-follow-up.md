@@ -50,3 +50,4 @@ The review's discussion of outcome timing across the 12 included studies: "no st
 - [Evidence on long-term persistence of self-regulation intervention effects is mixed: no fadeout for metacognitive strategy interventions versus substantial fadeout in higher-quality RCT syntheses](srl-persistence-fadeout-mixed-evidence.md) — related
 - [Included studies acknowledge OSS cannot fully reproduce the lived experience of people with obesity](oss-cannot-replicate-lived-experience.md) — related
 - [No included flipped classroom study assessed long-term learning retention](no-long-term-retention-evidence-flipped-classroom.md) — related
+- [Self-assessed gains are Kirkpatrick level 2 perceptions, not evidence of behavioral change or durable effects](kirkpatrick-level2-limit-self-assessment.md) — a narrower finding that bears on this claim

@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 144 claims (84 for, 56 mixed, 4 against) · 92 studies (46 causal, 19 quant-synthesis, 13 review, 5 associational, 5 design, 2 qualitative, 2 theoretical), `q1`–`q4` · 33 of 92 report an effect size · 136 claims rest on one study
+> **Evidence** · 146 claims (86 for, 56 mixed, 4 against) · 93 studies (47 causal, 19 quant-synthesis, 13 review, 5 associational, 5 design, 2 qualitative, 2 theoretical), `q1`–`q4` · 33 of 93 report an effect size · 138 claims rest on one study
 
 ## Conditional relationship
 
@@ -185,6 +185,8 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [ICM students reported higher active participation and motivation, but frontal-teaching students scored higher on deepening content outside class](../claims/icm-active-participation-mixed-outside-class.md) [~W] — attached 2026-11-04 from Reuter Ann Katrin et al. (2026), which proposed "Implement the inverted classroom model as a complement to traditional teaching, with institutional support and careful attention to cognitive load in early-stage learners"; tests this page's relationship.
 - [Total clinical reasoning OSCE scores rose from pre-test to post-test among emergency medicine clerkship students in a single-group pre-test–post-test study of an online flipped classroom intervention](../claims/ofc-improved-clinical-reasoning-osce-emergency-clerkship.md) [+W] — attached 2026-11-04 from Delirrooyfard Ali et al. (2026), which proposed "Use a structured online flipped classroom design to develop clinical reasoning during clinical clerkships".
 - [Total cumulative study time is comparable between AI-assisted CBL+FC and lecture-based groups despite more intensive pre-class preparation](../claims/ai-assisted-cbl-fc-comparable-total-study-time.md) [~W] — attached 2026-11-04 from Wang et al. (2026), which proposed "Redistribute cognitive workload to pre-class AI-supported acquisition so in-class time serves higher-order clinical learning".
+- [Pre-class instructional videos (POV and F-t-F) yield higher pre-training global rating scores than no video in ultrasound-guided CVC training, with POV highest](../claims/pre-class-video-higher-pre-training-global-rating-cvc.md) [+W] — attached 2026-11-05 from Liao Po-Hsiang et al. (2026), which proposed "Integrate pre-class instructional videos into procedural training as a practical, scalable strategy, with first-person POV recordings adding value"; tests this page's relationship.
+- [Pre-class videos raise pre-training checklist scores in ultrasound-guided CVC, with the POV group highest](../claims/pre-class-video-higher-pre-training-checklist-cvc.md) [+W] — attached 2026-11-05 from Liao Po-Hsiang et al. (2026), which proposed "Integrate pre-class instructional videos into procedural training as a practical, scalable strategy, with first-person POV recordings adding value"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 sources:
   - id: gulfer-capar-2015
     resource: "https://doi.org/10.12738/estp.2015.2.2098"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2015 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across 26 studies (36 comparisons, 1988–2010), the random-effects combined effect size of cooperative learning on mathematics achievement was d++ = 0.59 (95% CI 0.38–0.80), a medium effect under Cohen's classification. [→ Gulfer Capar 2015](#gulfer-capar-2015)

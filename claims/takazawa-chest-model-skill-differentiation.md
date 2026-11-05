@@ -52,3 +52,4 @@ Study in which 53 surgeons each performed an endoscopic intracorporeal suturing 
 - [Training modality preferences differ by proficiency level: juniors favor box-trainers and theory, intermediates perfused organs and box-trainers, seniors perfused and ex vivo organs](level-stratified-training-modality-preferences.md) — related
 - [In CRT training, proficiency-based progression demonstrated superiority over traditional simulation in which proficiency benchmarks were optional](pbp-superiority-crt-training.md) — related
 - [In neonatal minimally invasive surgery, operative performance is shaped more by recency and depth of MIS-focused training than by surgeon seniority](mis-performance-shaped-by-training-recency-not-seniority.md) — related
+- [Glove-derived force features could not distinguish clinicians by seniority but showed modest ability to classify perceived task difficulty](glove-features-seniority-null-difficulty-classification.md) — reports the opposite

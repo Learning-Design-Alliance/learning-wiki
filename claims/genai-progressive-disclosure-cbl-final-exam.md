@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: waseem-j-2026
     resource: "https://doi.org/10.2196/103584"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` In a nonrandomized comparison with allocation by administrative class, the intervention group scored higher on the delayed final exam than the static-CBL control group (mean 80.96 vs 78.62; P=.02; d=0.31). [→ Waseem J 2026](#waseem-j-2026)

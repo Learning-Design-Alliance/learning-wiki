@@ -72,3 +72,4 @@ Cross-validated comparison on the TU/e dataset shows ChatGPT-5.4, ChatGPT-5.4-mi
 - Random Forest is the most commonly used NLP-supporting algorithm in LA, while deep learning models (LSTM, BERT) have been widely adopted since 2021 — related
 - [Component-level embeddings make CourseGraph interpretable: learning outcomes contributed most to an example overlap decision](coursegraph-component-level-interpretability.md) — related
 - [Regression-based XGBoost outperforms the classification formulation for automated speech scoring on the SOPI dataset](xgboost-regression-beats-classification-speech-scoring.md) — related
+- [The XGBoost model's precision–recall curve yielded an area under the curve of 0.905 on the testing set](xgboost-pr-curve-discriminative-ability.md) — related

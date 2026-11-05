@@ -51,3 +51,4 @@ Deductive thematic analysis of students' open-ended survey responses collected v
 - [Four factors influence learners' non-use of OLRs: personal study habits, content value, time cost, and resource delivery](four-factors-influence-olr-non-use.md) — related
 - [Students valued flexibility and self-directed learning but desired more in-person interaction and better lecture recordings in the hybrid flipped course](student-themes-flexibility-interaction-recordings.md) — related
 - [Qualitative analysis identifies realism, usability, technical performance, social presence, and engagement as key experience themes with the VP system](qualitative-vp-experience-themes.md) — related
+- [Thematic analysis of 120 free-form comments identified four themes: improved learning experience, engagement, collaborative learning and skill development](cartooning-feedback-four-themes.md) — related

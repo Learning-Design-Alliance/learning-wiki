@@ -50,3 +50,5 @@ Formative evaluation with 13 participants (12 residents, 1 student) using the UE
 - [A qualitative study with 14 students found very positive perceived task-difficulty and user-experience assessments for the Nemo+nev environment](nev-study-positive-task-difficulty-ux.md) — related
 - [User experience favored attractiveness, stimulation, and novelty, but IPQ involvement was unsatisfactory and realism only satisfactory](ncpr-vr-ueq-ipq-profile.md) — related
 - [The simulation model demonstrated high usability across all six UEQ domains, with attractiveness rated highest and excellent internal consistency (Cronbach's alpha = 0.91)](sbml-probing-simulator-ueq-usability.md) — related
+- [The EyelearnMR platform received positive User Experience Questionnaire evaluations for attractiveness, efficiency, dependability, stimulation, and novelty, with perspicuity neutral](eyelearnmr-positive-ueq-evaluations.md) — related
+- [User Experience Questionnaire evaluations did not differ significantly between the EyelearnMR and control groups](no-ueq-difference-between-arms.md) — related

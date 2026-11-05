@@ -76,3 +76,5 @@ Exploratory model for cognitive load during the task: MRT main effect significan
 - [Increased image rotation and suboptimal camera and monitor angles degrade MIS performance](image-rotation-camera-angle-degrade-mis-performance.md) — related
 - [Mental rotation ability shows a specific, significant influence on MIS learning and operative performance](mental-rotation-influences-mis-performance.md) — related
 - [No significant associations between baseline anatomical knowledge or visuospatial ability and ultrasound performance](no-baseline-predictors-ultrasound-performance.md) — reports the opposite
+- [Visuospatial ability (MRT-A) was not significantly associated with competency improvement in this HoloLens tutorial format](mrt-a-not-associated-competency-gain-hololens.md) — related
+- [Visuospatial ability (MRT-A) was not significantly associated with perceived usability (SUS) of the HoloLens 2](mrt-a-not-associated-sus-score.md) — related

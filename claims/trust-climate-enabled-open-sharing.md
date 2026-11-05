@@ -61,3 +61,4 @@ Participant testimony gathered by R15CC from members of the NDE More Rigorous In
 - [Trust is a key enabler of knowledge sharing in online learning communities](trust-enables-knowledge-sharing-online.md) — related
 - [Near-peer teaching is reported to foster a comfortable learning environment and reinforce concepts for student-teachers](near-peer-teaching-comfortable-environment.md) — related
 - [The near-peer structure of the track was perceived to create a psychologically safe learning environment that facilitated peer teaching.](pedagogical-internship-track-near-peer-safety.md) — related
+- [Undergraduate dental students perceive peer collaboration and facilitator guidance as key enablers of agency, while uneven participation and inconsistent facilitation are barriers](pbl-peer-facilitator-enablers-barriers.md) — related

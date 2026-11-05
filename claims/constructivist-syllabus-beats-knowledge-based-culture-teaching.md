@@ -54,3 +54,4 @@ This is background literature reported second-hand: the review attributes the fi
 - [EdTech messaging about AI over-emphasizes individual, cognitive learning while curricular frameworks emphasize social, contextual learning](edtech-ai-messaging-individual-vs-social-curricula.md) — related
 - [Dichotomous views of learning as individual or social continue to shape research and learning environments](constructivist-sociocultural-dichotomy-shapes-practice.md) — related
 - [Reviews find no differences in developing digital literacy between in-service and pre-service teachers, dispelling the digital natives myth](no-in-service-preservice-digital-literacy-difference.md) — related
+- [Trainers' preferred methods align with constructivist, humanistic, and andragogical didactic paradigms](geragogy-methods-align-constructivist-humanistic-paradigms.md) — related

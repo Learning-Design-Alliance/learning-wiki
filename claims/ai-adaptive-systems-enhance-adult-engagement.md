@@ -94,3 +94,4 @@ The review reports, in its section on adult learning theory and AI integration, 
 - [AI applications in clinical education enhance learner engagement, flexibility, feedback, and objective competency assessment](ai-enhances-engagement-feedback-assessment-clinical-education.md) — a narrower finding that bears on this claim
 - [Learning analytics and predictive modeling enable institutions to monitor learner progression, identify at-risk learners, and optimize curriculum](learning-analytics-monitor-risk-optimize-curriculum.md) — related
 - [AI models could forecast student outcomes, supporting personalised learning strategies and early intervention](ai-models-forecast-student-outcomes-personalised-learning.md) — related
+- [Individual teaching and video tutorials are valued for personalised pacing in older adults' digital learning](individual-teaching-video-tutorials-personalised-pacing.md) — a narrower finding that bears on this claim

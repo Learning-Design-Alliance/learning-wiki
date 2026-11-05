@@ -61,3 +61,4 @@ Univariable comparisons across the three latent profiles in the 605-nurse survey
 - [Work experience, supervisor title, and self-perceived achievement distinguish Profile 3 from Profile 4](profile3-predictors-experience-supervisor-achievement.md) — related
 - [Sociodemographic and job-related characteristics differ across competence profiles](sociodemographic-differences-across-profiles.md) — possibly the same claim (merge candidate)
 - [Nurses' working experience is associated with AI competence; other demographics show no significant association](working-experience-associated-with-aic-nurses.md) — related
+- [Student leadership experience and number of communication skills training sessions, but not other demographics, associate with communication competence subscales](leadership-and-training-associated-communication-competence.md) — related

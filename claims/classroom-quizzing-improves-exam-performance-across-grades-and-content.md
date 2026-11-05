@@ -152,3 +152,4 @@ The chapter reports Lindsey et al. (2014), whose personalized review system impl
 - [Daily assessments improved final exam performance on five of eight topics](daily-assessments-improved-final-exam-topics.md) — a narrower finding that bears on this claim
 - [Before-class online quizzes were used to ensure preparation and to launch class discussion](pre-class-quizzes-launch-discussion.md) — related
 - [Engagement with online quizzes is associated with higher practical exam scores](quiz-engagement-linked-to-practical-exam.md) — a narrower finding that bears on this claim
+- [Undergraduate biology students performed significantly better on quiz questions covering cartooned subtopics than on questions covering non-cartooned subtopics](cartooned-subtopics-better-quiz-performance.md) — related

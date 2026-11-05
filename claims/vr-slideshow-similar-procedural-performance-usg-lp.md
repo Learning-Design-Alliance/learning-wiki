@@ -50,3 +50,5 @@ Task-trainer performance evaluation after the lecture in the randomized trial: C
 - [VR lecture rated more enjoyable, more effective, and less boring than slideshow lecture](vr-lecture-enjoyment-effectiveness-boredom.md) — related
 - [Distraction during lecture was reported only by slideshow participants, suggesting VR is more engaging](vr-more-engaging-fewer-distractions.md) — related
 - [Immersive and non-immersive VR video formats showed no significant difference in learning success for clinical procedures, though immersive VR was rated more positively](immersive-vs-non-immersive-vr-no-learning-difference.md) — related
+- [VR-supplemented and purely conventional training produce no significant difference on the Standard Lumbar Puncture Rating Score or total procedure time](vr-lp-training-rating-score-and-time-null.md) — related
+- [Adding 10 minutes of VR training to conventional training yields overall LP proficiency comparable to 30 minutes of purely conventional training in preclinical medical students](vr-supplemented-lp-training-comparable-overall-proficiency.md) — related

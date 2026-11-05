@@ -9,7 +9,6 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-11-03
 sources:
   - id: alzubi-2015
     resource: "https://doi.org/10.7575/aiac.alls.v.6n.2p.187"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2015 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Elementary students taught grammar inductively scored significantly higher on the grammar post-test than students taught deductively (T = 2.769, significant at α≤0.09). [→ Alzu'bi 2015](#alzubi-2015)

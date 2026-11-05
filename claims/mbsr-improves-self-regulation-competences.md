@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: rupprecht-2017
     resource: "https://doi.org/10.12973/eu-jer.6.4.565"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a non-randomised waitlist-controlled study of 32 German teachers, the MBSR group reported statistically significant within-group improvements on self-report scales for tendency to resign, inner calm, general and teacher self-efficacy, and emotional competence; between-group effects at post-test were large for reduced resignation and teacher self-efficacy, medium for general self-efficacy, small for inner calm, and near zero for proactive problem-solving. [→ Rupprecht 2017](#rupprecht-2017)

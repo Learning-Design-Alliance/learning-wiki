@@ -46,3 +46,4 @@ Fixation analysis across two sessions: the expert leader fixated on predefined a
 
 ## Related Claims
 - [The expert leader showed greater patient-directed fixation and balanced gaze transitions, whereas the resident leader showed prolonged fixation within nonspecific areas](fpa-expert-vs-resident-gaze-distribution.md) — related
+- [Gaze-overlay review during debriefing revealed residents' failures to verify critical information, indicating projection and comprehension failures](gaze-overlay-debriefing-reveals-sa-failures.md) — related

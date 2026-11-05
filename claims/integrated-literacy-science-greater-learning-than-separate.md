@@ -59,3 +59,4 @@ This is the guide's own summary assertion in its closing section, offered withou
 - [Working with statistically messy authentic data in citizen science gave middle school students a window into scientists' world and intense experience with scientific reasoning](messy-radon-data-window-into-scientists-world.md) — a narrower finding that bears on this claim
 - [The better the five foundations are integrated, the greater the probability of success in the designed setting](foundation-integration-predicts-environment-success.md) — related
 - [Students rated real-world projects and discussions with structured or guiding questions as the most beneficial learner-to-content strategies](real-world-projects-structured-questions-top-content-strategies.md) — related
+- [Querying, framing, and real-world contextualization deepened clinical reasoning in topic discussions](moderator-topic-discussion-techniques.md) — related

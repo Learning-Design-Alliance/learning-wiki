@@ -63,3 +63,4 @@ Self-reported satisfaction data from the six residents who took part in high-fid
 - [Iterative refinement across ten academic cycles improved scenario fidelity, debriefing structure, and CR alignment](iterative-refinement-ten-academic-cycles.md) — related
 - [Facilitator role and quality of structured debriefing are critical determinants of nursing students' satisfaction with simulation-based BLS training](simulation-bls-facilitator-debriefing-quality.md) — related
 - [Students with opportunities to perform fluid resuscitation procedures were nearly four times more likely to possess appropriate knowledge and experience (authors' interpretation)](procedural-opportunity-linked-to-knowledge.md) — related
+- [Gaze-overlay review during debriefing revealed residents' failures to verify critical information, indicating projection and comprehension failures](gaze-overlay-debriefing-reveals-sa-failures.md) — related

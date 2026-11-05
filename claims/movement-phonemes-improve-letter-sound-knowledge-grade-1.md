@@ -9,7 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2023
-source_checked: 2026-10-21
+source_checked: 2026-11-05
 sources:
   - id: damsgaard-2023
     resource: "https://doi.org/10.1007/s10648-023-09791-9"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2023 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Damsgaard 2023: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims

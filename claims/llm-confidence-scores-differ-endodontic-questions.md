@@ -49,3 +49,4 @@ Same in silico study; each model's self-reported confidence (0%–100%) recorded
 - [Comparable accuracy between ChatGPT and Gemini masks markedly different confidence patterns](comparable-accuracy-does-not-imply-comparable-confidence.md) — related
 - [Accuracy rates differ significantly among ChatGPT, Claude, and Gemini on text-based endodontic examination questions](llm-accuracy-differs-endodontic-exam-questions.md) — related
 - [Overconfidence rates differ significantly among LLMs, with Gemini highest and Claude showing none](llm-overconfidence-rates-differ-endodontic-questions.md) — related
+- [Wilcoxon pairwise comparisons showed Claude rated significantly higher than ChatGPT, Gemini, and DeepSeek in overall student ratings](wilcoxon-claude-beats-other-models.md) — related

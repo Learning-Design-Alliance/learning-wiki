@@ -57,6 +57,7 @@ The review concludes that several types of school-based PA can be recommended to
 - [Mini Classroom Exercise Breaks](mini_classroom_exercise_breaks.md)
 - [Implement acute physical activity breaks of at least 10 minutes at moderate intensity with behavior change techniques](strategy-acute-pa-breaks-10min-moderate-with-bcts.md)
 - [Classroom Physical Activity Integration](classroom-physical-activity-integration.md)
+- [Schedule vigorous in-class exercise sessions after core academic lessons rather than before them](vigorous-activity-after-academic-lessons.md)
 
 ## Examples
 -

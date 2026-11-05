@@ -52,6 +52,7 @@ The review's forward-looking recommendations for VR training research in mental 
 - [Use cluster randomized clinical trials and blinded simulation-based behavior assessment to strengthen NTS training evidence](cluster-rct-blinded-simulation-assessment-nts.md)
 - [Future research should include long-term RCTs with adequate sample sizes, standardized outcome measures, and cost-effectiveness analyses](strategy-long-term-rcts-standardized-outcomes-arvr.md)
 - [Use size-matched randomized designs with baseline testing to isolate immersion effects in VR anatomy studies](size-matched-randomized-designs-vr-anatomy-studies.md)
+- [Expand the VSP case library, stratify difficulty, and add richer interactivity and non-verbal cue capture](expand-vsp-case-library-and-nonverbal-cues.md)
 
 ## Examples
 -

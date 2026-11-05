@@ -52,3 +52,4 @@ Satisfaction survey using a 4-point Likert scale (neutral midpoint intentionally
 - [Participants raised three concerns about the PCR class: low confidence to use learned expressions in real communication, insufficient grammar development, and doubts about roleplay tests](pcr-participant-concerns-three-aspects.md) — related
 - [Students expressed interest in broader use of simulation across physiology practicals](student-demand-for-broader-simulation-use.md) — related
 - [VSG students reported predominantly positive views of the game, with technical glitches the most common criticism](vsg-student-opinions-positive-with-technical-glitches.md) — related
+- [Most students express positive attitudes and willingness toward virtual simulation training, but a substantial minority doubt it can match real clinical practice](student-attitudes-virtual-simulation-survey.md) — related

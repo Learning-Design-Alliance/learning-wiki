@@ -52,3 +52,4 @@ Randomized trial of 87 residents (43 control, 44 experimental) over a four-week 
 - [Integrated model improves all seven Mini-CEX domains, largest gain in physical examination](microskills-cptm-minicex-all-domains.md) — related
 - [Integrated teaching raises satisfaction with the teaching approach on learning interest, disease comprehension, and clinical reasoning, but not on research awareness or communication](integrated-teaching-approach-survey-mixed.md) — related
 - [In a randomised trial of 80 first-year postgraduate oncology trainees, CBL produced significantly higher examination scores and satisfaction than traditional lecture-based learning, though confidence intervals crossed the null for examination results](bi-rct-cbl-higher-posttest-scores-satisfaction.md) — related
+- [SKIT raises theoretical exam and OSCE scores versus traditional teaching for cross-department emergency rotators](skit-higher-theory-osce-scores-emergency-rotation.md) — related

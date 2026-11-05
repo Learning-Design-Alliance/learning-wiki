@@ -49,6 +49,8 @@ Based on the review's findings, the authors recommend that "institutions should 
 - [SDL implementation must be tailored to each healthcare system's socio-cultural and economic realities, including hierarchical structures and resource constraints](tailor-sdl-to-sociocultural-context.md)
 - [Formalize clinical peer-mentorship programs pairing senior staff with junior nurses](peer-mentorship-junior-nurses-wound-care.md)
 - [Implement teaching-focused workplace-based peer teaching placements with mentorship, repetition, and role modeling](anatomy-ems-implementation-recommendations.md)
+- [Support EBP education with mentorship, protected time, and continuity of initiatives rather than isolated courses](ebp-institutional-support-strategy.md)
+- [Policy recommendations for protecting clinical education during health system reforms: protected teaching time, aligned evaluation, teaching-linked compensation, and embedded educational objectives](protecting-education-in-health-system-reforms-strategy.md)
 
 ## Examples
 -

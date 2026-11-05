@@ -58,6 +58,7 @@ The review recommends that clinical practice should design CPD programs with "ha
 - [Develop targeted, competency-based interprofessional continuing education programs and European frameworks for geriatric care](targeted-competency-based-geriatric-cpd-strategy.md)
 - [Bundle recurrent hands-on hypertension training, simplified point-of-care guidelines, and facility chronic care systems (registers, recall, referral protocols) for PHC workers](bundled-hypertension-capacity-strategy-phc.md)
 - [Prioritize regular, context-specific communication training with conversation guides and available technologies to embed GoPC conversations in practice](regular-context-specific-gopc-training-embedding.md)
+- [Support EBP education with mentorship, protected time, and continuity of initiatives rather than isolated courses](ebp-institutional-support-strategy.md)
 
 ## Examples
 -

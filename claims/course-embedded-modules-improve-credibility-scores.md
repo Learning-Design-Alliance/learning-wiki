@@ -53,3 +53,4 @@ Single-group pretest–posttest study of 87 undergraduates in two sections of an
 - [Objective nutrition knowledge increased significantly after the 'Eat This!' online lecture series](eat-this-objective-knowledge-increase-significant.md) — related
 - [Theory-based EBP teaching improved EBP skills, with fluctuations over time and mixed results for distinguishing credibility of online sources](ebp-skills-gains-fluctuations.md) — related
 - [A web-based EBP tool usable from computer, smartphone, or iPad significantly improved overall research skills among nursing and nutrition student groups](web-based-ebp-tool-improved-research-skills.md) — related
+- [Medical students taught via an asynchronous online learning module achieved significantly higher knowledge test scores than students taught via an in-person lecture in nutritional medicine](olm-higher-test-scores-than-ipl-nutritional-medicine.md) — related

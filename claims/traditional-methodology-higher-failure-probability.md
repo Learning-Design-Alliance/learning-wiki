@@ -10,7 +10,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 sources:
   - id: torres-martín-2022
     resource: "https://doi.org/10.1007/s11423-022-10095-y"
@@ -34,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r1`, 1 quant-synthesis `r3` · `q3`
-> **Currency** · newest study 2022 · checked against its sources 2026-10-31 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 

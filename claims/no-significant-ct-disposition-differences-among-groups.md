@@ -60,3 +60,4 @@ MANOVA on CCTDI pretest/posttest scores across the three instructional groups sh
 - [Digital RPP improves critical thinking disposition more than traditional group practice](rpp-digital-platform-critical-thinking-gains.md) — related
 - [Structured PEARLS debriefing is associated with higher critical thinking disposition across all seven CTDI-CV dimensions](debriefing-higher-critical-thinking-disposition.md) — related
 - [Self-rated critical thinking disposition scores of nurse anesthetists rose from the measurement after traditional teaching to the measurement after DBSS in one group with no comparison group, though both values remained below the positive-disposition threshold](dbss-improves-na-critical-thinking-disposition.md) — related
+- [PBL-CBL teaching was associated with higher critical thinking disposition scores than LBL across CCTDI-adapted questionnaire traits](pbl-cbl-higher-critical-thinking-dispositions.md) — reports the opposite

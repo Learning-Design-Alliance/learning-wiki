@@ -50,3 +50,4 @@ Cross-workshop comparison of the faculty and student workshops' differing views 
 - [Both workshops proposed a dual assessment approach combining controlled AI-free testing and open AI-allowed assignments](dual-assessment-ai-free-and-ai-allowed.md) — related
 - [Students rated real-world projects and discussions with structured or guiding questions as the most beneficial learner-to-content strategies](real-world-projects-structured-questions-top-content-strategies.md) — related
 - [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — related
+- [Querying, framing, and real-world contextualization deepened clinical reasoning in topic discussions](moderator-topic-discussion-techniques.md) — related

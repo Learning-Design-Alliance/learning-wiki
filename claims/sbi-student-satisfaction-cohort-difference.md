@@ -50,3 +50,4 @@ Two-sample t-tests of student Treatment Acceptability Rating Scale-Revised (TARF
 - [Cohort (teacher experience with SBI) was not a significant predictor of proportional problem-solving posttest or delayed posttest scores](sbi-cohort-no-pps-effect.md) — related
 - [Cohort was not a significant predictor of GMADE posttest or MCA-III mathematics posttest scores](sbi-cohort-no-gmade-mca-effect.md) — related
 - [Satisfaction scores clustered around scale midpoint in both cohorts, interpreted as moderate satisfaction](satisfaction-moderate-both-formats-exploratory.md) — related
+- [Learning-experience and satisfaction evaluations did not differ significantly across the three resident cohorts](no-cohort-differences-training-evaluations.md) — related

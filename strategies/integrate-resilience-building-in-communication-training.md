@@ -46,6 +46,7 @@ Based on the finding that internal psychological factors—especially resilience
 - [Integrate psychosocial support strategies—mentoring, mindfulness-based stress reduction, peer-support groups, and academic skills training—into medical education programs](psychosocial-support-strategies-medical-education.md)
 - [Targeted training programs focusing on psychological self-adjustment for lower-competency nurse profiles](targeted-psychological-self-adjustment-training-strategy.md)
 - [Teachers should incorporate PP-based strategies (fostering enjoyment, building resilience) into language teaching](incorporate-pp-strategies-in-language-teaching.md)
+- [Implement dual-focused nursing curricula combining communication skills training with alexithymia reduction and self-efficacy enhancement](dual-focused-alexithymia-self-efficacy-nursing-curriculum.md)
 
 ## Examples
 -

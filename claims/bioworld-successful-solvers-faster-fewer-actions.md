@@ -67,3 +67,4 @@ Comparison of successful versus less successful solvers in the computer-trace da
 - [In BioWorld, expert-like initial problem representation and library use correlate with expert-like evidence collection and diagnostic-test ordering](bioworld-feature-use-expert-correlations.md) — related
 - [Successful and unsuccessful complex problem solvers differ in transition frequencies between questions and decisions](transition-frequencies-differ-successful-solvers.md) — related
 - [Grade-9 students using BioWorld significantly increased their confidence in their diagnosis from initial to final hypothesis](bioworld-confidence-increase-initial-to-final.md) — related
+- [Correctly diagnosed cases involved more time on history and physical exam, fewer tests and test rounds, and fewer test-ordering penalties](correct-cases-more-time-fewer-tests-fewer-penalties.md) — related

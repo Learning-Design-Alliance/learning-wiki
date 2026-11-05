@@ -41,6 +41,7 @@ The authors lay out four forward-looking directions for the platform. They plan 
 
 - [Future improvements: real-world user studies, advanced student modeling, and spaced repetition](future-work-user-studies-student-modeling-spaced-repetition.md)
 - [Next-step post-training strategy: reinforcement learning from human feedback on authentic learning dialogues and scaling student feedback](rlhf-next-step-post-training-education.md)
+- [Expand the VSP case library, stratify difficulty, and add richer interactivity and non-verbal cue capture](expand-vsp-case-library-and-nonverbal-cues.md)
 
 ## Examples
 -

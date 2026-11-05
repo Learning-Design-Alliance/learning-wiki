@@ -9,7 +9,7 @@ generated:
   at: 2026-10-16
 evidence_strength: moderate
 newest_evidence: 2019
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 recheck_by: 2024
 sources:
   - id: oberauer-2019
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2024**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Stimuli can be attended to without being encoded into WM, as shown by surprise memory tests after attentional cueing and by to-be-forgotten words contributing no load to WM. [→ Oberauer 2019](#oberauer-2019)

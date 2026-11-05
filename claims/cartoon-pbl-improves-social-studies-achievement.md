@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: tanrıkulu-and-baysal-2022
     resource: "https://orcid.org/0000-0001-6713-1396"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2022 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On a 17-item researcher-made test of two Science, Technology and Society learning outcomes, the experimental class's post-test scores were significantly higher than the control class's (Mann–Whitney z = -5.412, p = .000). [→ Tanrıkulu and Baysal 2022](#tanrkulu-and-baysal-2022)

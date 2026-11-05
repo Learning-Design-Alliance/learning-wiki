@@ -47,3 +47,4 @@ Linear mixed model on progress-test scores of the 1:1 subtask in the 22-particip
 ## Related Claims
 - [On complex subtasks, both training time and the group-by-time interaction significantly predict performance, with the complex group better at later progress tests](btt-complex-subtask-group-by-time-effect.md) — related
 - [Learning progress (linear slope of progress-test scores) differs significantly between simple and complex training groups for complex subtasks but not the 1:1 subtask](learning-slope-group-difference-complex-only.md) — related
+- [VR log data show interns completed more subtasks in the complex case than the simple case, with no significant duration difference and no significant log–confidence relationships](vr-log-task-complex-case-subtasks.md) — related

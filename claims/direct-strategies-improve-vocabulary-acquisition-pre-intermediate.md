@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: naeimi-and-foo-2015
     resource: "https://doi.org/10.5539/elt.v8n10p142"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Group A, trained with direct vocabulary learning strategies, showed a statistically significant improvement from pre-test (M=31) to post-test (M=36) on a 40-item vocabulary test. [→ Naeimi and Foo 2015](#naeimi-and-foo-2015)

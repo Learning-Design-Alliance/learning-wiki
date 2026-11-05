@@ -54,3 +54,5 @@ Faculty key-informant quote from Theme 3: "Simulation provides a safe platform f
 - [Faculty identify clinical simulation as enabling intentional definition and integrated observation of multiple soft skills in nursing education](clinical-simulation-soft-skills-nursing.md) — related
 - [The near-peer structure of the track was perceived to create a psychologically safe learning environment that facilitated peer teaching.](pedagogical-internship-track-near-peer-safety.md) — related
 - [The program fostered professional legitimacy, including influence over the educational environment and perceived career advantage.](pedagogical-internship-track-professional-legitimacy.md) — related
+- [Undergraduate dental students perceive peer collaboration and facilitator guidance as key enablers of agency, while uneven participation and inconsistent facilitation are barriers](pbl-peer-facilitator-enablers-barriers.md) — related
+- [RCDP simulation sessions were perceived as psychologically safe by almost all participants, regardless of the number of facilitators present](rcdp-psychological-safety-high.md) — related

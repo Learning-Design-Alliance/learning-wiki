@@ -54,3 +54,4 @@ Review synthesis of Naik (2001), a randomised trial of a low-fidelity bench mode
 - [The ORSIM bronchoscopy simulator shows the most comprehensive validation among fibreoptic simulators, with construct validity (experts outperforming novices) and predictive validity](orsim-strongest-construct-predictive-validity.md) — related
 - [No longitudinal studies or RCTs demonstrate that AI-acquired skills transfer to the operating room](no-longitudinal-evidence-ai-skill-transfer-or.md) — reports the opposite
 - [RCT evidence comparing cadaveric with low-fidelity simulation is mixed: two RCTs favour cadaveric, one shows equivalence, one favours the bench model](cadaveric-vs-low-fidelity-simulation-mixed.md) — related
+- [Simulation-based training transferred to real clinical settings: the simulator group improved on assessments with pregnant volunteers from 53.5 ± 8.8 to 74.1 ± 12.0](sbme-transfers-to-real-clinical-obstetric-ultrasound-performance.md) — related

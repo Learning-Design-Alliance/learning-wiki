@@ -57,3 +57,4 @@ Break-reason and symptom data from the randomized trial. In the VR group, 23 (82
 - [Cybersickness increases over time in VR simulation regardless of movement condition](cybersickness-increases-over-time-vr.md) — related
 - [Simulator sickness was low (median SSQ 1.9) with no serious adverse events](ncpr-vr-low-simulator-sickness.md) — related
 - [Approximately one quarter of XR-group participants reported cybersickness complaints](xr-cybersickness-complaints.md) — related
+- [Participants rated the VR learning experience positively with minimal cybersickness, yet most did not prefer VR over prosection as a drawing reference](vr-satisfaction-but-not-preferred-reference.md) — related

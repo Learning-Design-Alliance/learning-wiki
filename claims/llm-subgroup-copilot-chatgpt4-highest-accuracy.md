@@ -66,3 +66,5 @@ Model-stratified subgroup analysis within the meta-analysis of 39 studies. Copil
 - [Accuracy, confidence, and overconfidence do not differ significantly between basic knowledge and clinical questions](no-question-type-differences-llm-endodontic-performance.md) — related
 - [ChatGPT-4o achieved 71% accuracy on the Chinese question bank, comparable to dental undergraduates and OMS graduate students but lower than OMS specialists](chatgpt-4o-71-percent-chinese-question-bank-accuracy.md) — related
 - [Language of presentation (Chinese vs. English) has no significant main effect on LLM accuracy on Chinese medical licensing exam questions](no-language-effect-llm-medical-licensing.md) — related
+- [ChatGPT-3.5 performed significantly worse on Arabic-language medical questions (43.9%) than its pooled published accuracy on English-language medical questions (60.7%)](chatgpt-arabic-lower-than-english-medical-accuracy.md) — related
+- [LLMs answer diagnosis questions significantly better than treatment questions in medical multiple-choice items](treatment-questions-solved-worse-than-diagnosis.md) — related

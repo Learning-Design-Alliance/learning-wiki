@@ -92,3 +92,4 @@ Single cross-sectional simulation study (Silva et al. 2011) comparing a six-stat
 - [The GISA shows moderately strong convergent validity with the six RISE subtests (r = .71 to .77)](gisa-convergent-validity-rise-subtests.md) — related
 - [The indicator system's predictive validity — whether scores correlate with clinical performance and patient outcomes — remains unverified and requires future multi-center testing](indicator-system-predictive-validity-unverified.md) — related
 - [A significant positive correlation exists between OSCE performance and self-reported knowledge and skill levels](osce-correlates-self-reported-competence.md) — related
+- [Simulator assessment scores correlate strongly and positively with real-patient assessment scores, supporting simulators as competency assessment alternatives](simulator-assessment-scores-correlate-with-real-patient-performance.md) — related

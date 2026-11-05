@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 149 claims (101 show a difference, 35 mixed, 13 no difference) · 79 studies (40 associational, 21 causal, 11 review, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 21 of 79 report an effect size · 146 claims rest on one study
+> **Evidence** · 151 claims (103 show a difference, 35 mixed, 13 no difference) · 81 studies (40 associational, 23 causal, 11 review, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 21 of 81 report an effect size · 148 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -184,6 +184,8 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Self-perceived competency correlates moderately with self-reported practice behavior, while objective knowledge correlates negatively with practice behavior](../claims/scs-cpbs-positive-okto-cpbs-negative-correlation.md) [+W] — learners who differ on it differ in outcomes
 - [Visual arts achievement is positively related to German intrinsic value (assimilation), and this relation is not mediated through self-concept](../claims/visual-arts-achievement-german-intrinsic-value-assimilation-unmediated.md) [-M] — learners who differ on it differ in outcomes
 - [Within all domains, achievement is positively related to self-concept in the same domain among German academic-track secondary students](../claims/within-domain-positive-achievement-self-concent-relations-eight-domains.md) [+M] — learners who differ on it differ in outcomes
+- [92.60% of students were satisfied with the A-SPIRE model and 96.3% believed their science communication ability improved](../claims/a-spire-high-satisfaction-self-assessed-improvement.md) [+M] — measured as an outcome of the instruction studied
+- [Focus group interviews at 1 and 5 months suggest perceived transfer of desaturation management learning to clinical practice, with rising self-rated ability](../claims/fgi-perceived-learning-transfer.md) [+W] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

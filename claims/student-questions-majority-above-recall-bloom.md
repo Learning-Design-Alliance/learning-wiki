@@ -55,3 +55,4 @@ Categorization of sampled Physics 1A questions (N=150 in 2010, N=200 in 2011) on
 - [An earlier analysis found 94% of student game questions were Knowledge-level and none exceeded Application](barbour-kromrei-94-percent-knowledge-questions.md) — reports the opposite
 - [Students creating homemade PowerPoint games in an environmental chemistry class wrote primarily knowledge-level questions](ppt-games-primarily-knowledge-questions.md) — related
 - [Experimental class outperforms control class across all Bloom's taxonomy cognitive process categories in physics](experimental-class-outperforms-across-bloom-categories-physics.md) — related
+- [The cartooning activity engaged students in cognitive processes beyond the first level of Bloom's taxonomy, including analysis, evaluation and creativity](cartooning-blooms-taxonomy-higher-order.md) — related

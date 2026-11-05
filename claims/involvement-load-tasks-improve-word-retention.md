@@ -9,7 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: weak
 newest_evidence: 2015
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 sources:
   - id: restrepo-ramos-2015
     resource: "http://dx.doi.org/10.15446/profile.v17n1.43957"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Xu found, as this review reports it, that reading tasks with higher involvement load (named in the review as glosses plus dictionary use) produced better word retention, and marginal glosses were more efficient in fostering incidental learning. [→ Restrepo Ramos 2015](#restrepo-ramos-2015)

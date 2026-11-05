@@ -9,7 +9,7 @@ generated:
   at: 2026-10-12
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-18
+source_checked: 2026-11-05
 sources:
   - id: yongliang-wang-yaobo-wang-2026
     resource: "https://doi.org/10.1057/s41599-026-07636-8"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teacher support significantly predicted mastery-approach goals (β = 0.434) and performance-approach goals (β = 0.402), while paths to mastery-avoidance and performance-avoidance goals were not supported. [→ Yongliang Wang & Yaobo Wang 2026](#yongliang-wang-yaobo-wang-2026)

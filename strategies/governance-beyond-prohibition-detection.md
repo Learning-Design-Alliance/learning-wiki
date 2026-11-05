@@ -96,6 +96,7 @@ The article recommends that effective institutional governance extend beyond pro
 - [Design AI-mediated cognitive supports with transparency, clear boundaries, and teacher evaluation](ai-supports-transparency-boundaries-evaluation.md)
 - [Incorporate guided AI-based learning activities, structured training on responsible AI use, and institutional guidelines for AI integration](guided-ai-learning-activities-training-guidelines.md)
 - [Integrate structured guidance on responsible, critical AI use alongside self-directed learning approaches](structured-guidance-responsible-critical-ai-use-nursing.md)
+- [Institutions should actively disseminate exemplar prompts and provide secure platforms, faculty development, and quality-assurance mechanisms](institutional-responsibilities-genai-item-writing.md)
 
 ## Examples
 -

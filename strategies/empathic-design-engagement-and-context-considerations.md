@@ -47,6 +47,7 @@ Respondent Xie extends empathic design with considerations for digital delivery.
 ## Related Strategies
 
 - [Apply the empathic design framework in teacher training to increase design efficiency and teacher self-efficacy, especially in K-12](empathic-design-in-teacher-training-strategy.md)
+- [Modality-sensitive online course design: structured templates for COC and synchronous elements embedded in asynchronous lessons](modality-sensitive-online-course-design-strategy.md)
 
 ## Examples
 -

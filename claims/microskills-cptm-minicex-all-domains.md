@@ -56,3 +56,4 @@ Mini-CEX assessment after eight subspecialty rotations in the randomized trial. 
 - [AI-assisted CBL+FC residents show superior overall clinical competence on Mini-CEX compared with lecture controls](ai-assisted-cbl-fc-minicex-overall-competence.md) — related
 - [Integrated clinical pathway and case-based teaching yields higher Mini-CEX clinical skills scores than traditional teaching](clinical-pathway-cbt-higher-mini-cex-scores.md) — a broader claim this one bears on
 - [Integrated clinical pathway and case-based teaching yields higher post-training theoretical examination scores than traditional teaching in endocrinology residency](clinical-pathway-cbt-higher-theoretical-scores.md) — related
+- [SKIT raises theoretical exam and OSCE scores versus traditional teaching for cross-department emergency rotators](skit-higher-theory-osce-scores-emergency-rotation.md) — related

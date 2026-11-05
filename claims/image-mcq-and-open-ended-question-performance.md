@@ -68,3 +68,4 @@ Narrative synthesis of 4 studies comparing open-ended questions with MCQs: "2 sh
 - [GPT-4 passed medical licensing examinations in 26 of 29 cases and outperformed average medical students in 13 of 17 cases, while GPT-3.5 passed in only 10 of 26 and surpassed students in 4 of 14](gpt4-pass-and-student-comparison-rates.md) — related
 - [Newer OpenAI LLM versions achieve significantly higher pooled accuracy on biomedical MCQs than earlier versions (GPT‐4o–o1: 90%; GPT‐4: 82%; GPT‐3/3.5: 59%)](openai-llm-accuracy-improves-across-versions-biomedical-mcq.md) — related
 - [LLM accuracy does not differ significantly across question languages, ranging from 62% in Polish to 77% in German](llm-accuracy-language-differences-nonsignificant.md) — related
+- [ChatGPT performs poorly on image-based data interpretation across DNA footprinting and BLI questions regardless of image detail](chatgpt-poor-image-inference-scientific-graphs.md) — related

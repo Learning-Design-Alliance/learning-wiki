@@ -41,6 +41,7 @@ Postsession debriefing uses a reflective model structured according to the PEARL
 - [Blend the PEARLS debrief with CHAT-guided facilitation to extend debriefing from the individual to the team and system](blended-pearls-chat-debrief-strategy.md)
 - [Use a structured 3-phase debriefing model as the core of in situ simulation training](three-phase-debriefing-model-in-situ-simulation.md)
 - [Include an immediate, structured debriefing session with descriptive, analysis and application phases in every high-fidelity simulation training](immediate-structured-debriefing-hf-simulation.md)
+- [Use a structured debriefing script (modified PEARLS) to scaffold self-guided debriefing in VR simulation](structured-script-scaffolds-self-guided-debriefing.md)
 
 ## Examples
 -

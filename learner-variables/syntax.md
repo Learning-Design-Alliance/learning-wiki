@@ -13,7 +13,7 @@ generated:
 # Syntax
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 100 claims (65 show a difference, 13 mixed, 22 no difference) · 73 studies (47 causal, 9 associational, 7 review, 5 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 7 of 73 report an effect size · 96 claims rest on one study
+> **Evidence** · 101 claims (65 show a difference, 13 mixed, 23 no difference) · 74 studies (48 causal, 9 associational, 7 review, 5 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 7 of 74 report an effect size · 97 claims rest on one study
 
 ## Description
 Syntax is knowledge of how sentences work: how the order of words, the arrangement of clauses and the use of punctuation change what a sentence means. Readers draw on it to work out who did what to whom in a long sentence, and writers draw on it to turn an idea into a sentence that says what they intend. It is assessed through samples of a learner's speech or writing, coded for features such as words per clause and clauses per sentence, and through standardised language batteries with syntax subtests.
@@ -138,6 +138,7 @@ Syntactic knowledge starts to develop in early childhood and keeps growing throu
 - [Instructional media teaching produced significantly higher sentence construction achievement than conventional teaching among teacher training students](../claims/instructional-media-higher-sentence-construction-achievement.md) [+M] — measured as an outcome of the instruction studied
 - [Instructional media teaching produced significantly higher transformation of sentences achievement than conventional teaching among teacher training students](../claims/instructional-media-higher-transformation-achievement.md) [+M] — measured as an outcome of the instruction studied
 - [Overall grammar achievement gains were significantly higher for the instructional media group than the conventional group across all four grammar items](../claims/instructional-media-higher-overall-grammar-gains.md) [+M] — measured as an outcome of the instruction studied
+- [Response accuracy on the KoKi test increased over time in all groups, with no significant group differences or TIME × GROUP interaction](../claims/koki-accuracy-no-group-differences.md) [-M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measures of syntactic complexity** (Beers & Nagy, 2007): Student writing samples are coded to identify how many words per clause and clauses per T-units (sentences) students use.

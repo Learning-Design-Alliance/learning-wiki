@@ -49,6 +49,7 @@ The article specifies implementable controls: temperature set at 0.7 and top-p f
 - [Development strategies targeting AI virtual patient limitations: expert-reviewed content, iterative prompt engineering, behavioral rules, few-shot prompting, and conversational memory](ai-virtual-patient-mitigation-strategies.md)
 - [Gate sensitive simulated-patient content behind an accumulated-skill threshold with constraint-first prompting](avp-content-gating-strategy.md)
 - [Match LLM temperature settings to construct characteristics when coding educational dialogue](match-llm-temperature-to-construct-characteristics.md)
+- [Use expert-reviewed, prompt-standardized LLM-generated scenarios as supplementary materials in simulation-based learning](llm-scenarios-supplementary-materials-strategy.md)
 
 ## Examples
 -

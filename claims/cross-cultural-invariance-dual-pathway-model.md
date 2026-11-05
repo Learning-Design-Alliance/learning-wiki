@@ -51,3 +51,4 @@ Multi-group analysis after partial MICOM measurement invariance across the three
 - [The ToM–achievement association is significantly weaker in European samples than in Asian and North American samples](european-samples-weaker-tom-achievement-link.md) — related
 - [Both cognitive vigilance and cognitive offloading mediate the relationship between pedagogical partnership and transformative learning](dual-cognitive-pathways-mediate-partnership-transformation.md) — related
 - [Processing speed measured with response times is better represented as four distinct cognitive processes (planning, attention, simultaneous, successive) than as a unitary speed factor](processing-speed-distinct-abilities-not-unitary.md) — related
+- [Four structural paths (IQ→PU, IQ→LS, PU→LS, PU→CI) differ significantly across the three online course modalities](four-paths-differ-across-modalities.md) — related

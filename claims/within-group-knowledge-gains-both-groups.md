@@ -49,3 +49,4 @@ Wilcoxon signed-rank within-group comparisons. Control improved from 75.66 to 84
 - [High-fidelity simulation yields higher stoma care skill scores than low-fidelity static models](hfs-3d-printer-moulage-higher-stoma-skills.md) — related
 - [Both groups improved significantly on the achievement test from pre-test to post-test, with the experimental group reaching a much higher post-test mean](jigsaw-iv-within-group-achievement-gains.md) — related
 - [Both groups improved significantly from pre- to post-test, with a larger within-group gain in the flipped classroom group (d = 1.87 vs. d = 0.86)](within-group-gains-larger-flipped-group.md) — related
+- [Patient interaction scores increased significantly within both the hybrid simulation and control groups after training (p < 0.001 for both)](patient-interaction-improved-within-both-groups.md) — a narrower finding that bears on this claim

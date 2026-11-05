@@ -50,3 +50,4 @@ Comparative trend analysis across ChatGPT submission versions (V1-V4) in the pil
 - [The advanced o1 Preview model did not consistently outperform GPT-4, underperforming V3 on descriptive tasks](o1-preview-no-consistent-advantage.md) — a narrower finding that bears on this claim
 - [Rubric-enhanced prompting (Variant 2) raises LLM assigned scores relative to the no-rubric baseline, with model-specific gaps at particular taxonomy levels](rubric-prompting-raises-llm-assigned-scores.md) — a narrower finding that bears on this claim
 - [Prompt quality and detailed scoring rubrics significantly influence the accuracy and consistency of LLM-generated grades](prompt-rubric-quality-drives-llm-grading.md) — a broader claim this one bears on
+- [Simple prompt engineering partially improves ChatGPT's apply-level performance, eliminating the significant gap with students](prompt-engineering-improves-chatgpt-apply-level.md) — related

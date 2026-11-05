@@ -9,7 +9,7 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 newest_evidence: 2015
-source_checked: 2026-10-17
+source_checked: 2026-11-05
 recheck_by: 2018
 sources:
   - id: steven-wise-2015
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q2`
-> **Currency** · newest study 2015 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2018**: tool and model accuracy changes quickly
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2018**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Standard measurement models for achievement testing rest on the assumption that students respond effortfully, so non-effortful responding violates the models' basis for score interpretation. [→ Steven Wise 2015](#steven-wise-2015)

@@ -49,6 +49,7 @@ The authors' forward-looking recommendation is that "Incorporating SPS combined 
 
 - [Adapt the blended online-PBL-CBL framework to other surgical disciplines and incorporate AI-assisted learning](adapt-blended-framework-other-disciplines-ai-future.md)
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
+- [Design simulation scenarios that explicitly address psychological support and system knowledge, and use repeated sessions to affect stress](scenario-psychological-support-repeated-sessions-strategy.md)
 
 ## Examples
 -

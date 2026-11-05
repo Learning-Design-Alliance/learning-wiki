@@ -52,3 +52,4 @@ DHC class 1 on emotional regulation drew on students' self-administered question
 - [Repeated clinical exposure reduces fear and develops professional self-efficacy in nursing students managing delirium](repeated-exposure-builds-delirium-self-efficacy.md) — related
 - [Fear of embarrassment and lack of psychological safety reduce nursing students' participation and retention in active learning activities](psychological-safety-barrier-active-learning-nursing.md) — related
 - [Nursing students report emotional responses of inadequacy, low motivation, low self-confidence and fear during clinical practice](emotional-responses-inadequacy-low-motivation-fear.md) — related
+- [Nervousness is the main emotion students identify after their first simulation day, and students link nerves to detrimentally influenced client interactions](nervousness-main-emotion-simulation-reflection.md) — related

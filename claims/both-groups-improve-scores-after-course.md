@@ -57,3 +57,4 @@ Pre- and post-class comparisons in the quasi-experimental study showed "both the
 - [Integrated PBL and medical humanities teaching produced no significant between-group difference in post-intervention theoretical examination scores compared with LBL](integrated-pbl-humanities-no-difference-theoretical-scores.md) — related
 - [No significant difference between CBL-FC and LBL groups in theoretical knowledge after intervention](cbl-fc-no-gain-theoretical-knowledge.md) — related
 - [Within the PBL-FC group all self-directed learning dimensions improve from pre- to post-class, while the traditional group shows no significant within-group change](pbl-fc-within-group-sdl-gains.md) — reports the opposite
+- [The PBL-CBL group outperformed the traditional group on every post-course test section: basic knowledge, clinical case analysis, and operation practice](pbl-cbl-better-all-test-sections.md) — related

@@ -48,6 +48,8 @@ The authors used the PEARLS (Promoting Excellence And Reflective Learning in Sim
 - [Structured pre- and post-simulation assignments to consolidate clinical reasoning learning](pre-post-simulation-reflective-assignments.md)
 - [Use structured debriefing after simulation scenarios to consolidate transferable prevention actions](structured-daa-debriefing-after-simulation.md)
 - [Structured post-scenario debriefing after each simulation scenario](post-scenario-debriefing-triage-simulation.md)
+- [Use required online discussion boards with specific prompts and peer commenting to facilitate reflection during SLT simulation placements](discussion-board-structured-prompts-simulation-reflection.md)
+- [Use a structured debriefing script (modified PEARLS) to scaffold self-guided debriefing in VR simulation](structured-script-scaffolds-self-guided-debriefing.md)
 
 ## Examples
 -

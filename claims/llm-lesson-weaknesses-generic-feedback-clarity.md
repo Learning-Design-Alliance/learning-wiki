@@ -50,3 +50,4 @@ Qualitative comparison (RQ2): two lesson designers critiqued three-segment LLM-g
 - [Feedback quality in LLM-generated lessons improved with three or more segments compared to one- or two-segment prompting](feedback-improves-three-or-more-segments.md) — related
 - [Lesson designers report LLM-generated lessons save substantial time drafting scenarios and multiple-choice questions](llm-lessons-time-saving-scenario-drafting.md) — related
 - [Task decomposition into three segments yields the highest-rated LLM-generated tutor training lessons, while single-step generation yields the lowest](three-segment-decomposition-highest-rated-llm-lessons.md) — related
+- [Reviewers identified recurring weaknesses in AI-generated ethics MCQs: incorrect or missing best answers, overly obvious answers, and non-ethics content](ai-ethics-mcq-recurring-weaknesses.md) — related

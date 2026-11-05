@@ -59,3 +59,4 @@ Five-point Likert self-ratings (assigned −2 to +2) were collected before and a
 - [Knowledge and skills decline significantly at 3 months after both training modalities](knowledge-and-skills-decline-significantly-at-3-months.md) — reports the opposite
 - [Pre-post self-assessments showed increases across all assessed competence domains, with larger gains for managing digital innovations than narrative communication](prepost-gains-larger-digital-than-narrative.md) — a narrower finding that bears on this claim
 - [Confidence retention at last follow-up was variable, with some technical steps showing limited retention without ongoing practice](neurosave-variable-retention-followup.md) — related
+- [Focus group interviews at 1 and 5 months suggest perceived transfer of desaturation management learning to clinical practice, with rising self-rated ability](fgi-perceived-learning-transfer.md) — related

@@ -10,7 +10,7 @@ generated:
   at: 2026-11-01
 evidence_strength: mixed
 newest_evidence: 2017
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: jitendra-2017
     resource: "https://doi.org/10.1177/0022219416629646"
@@ -24,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · `q3` peer-reviewed experiment
-> **Currency** · newest study 2017 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 

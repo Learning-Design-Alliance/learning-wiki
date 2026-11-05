@@ -68,3 +68,4 @@ Null domain-level contrasts in the same study; equivalence was not tested. The a
 - [GGR group achieves higher postintervention clinical reasoning scores than SNAPPS with moderate effect size (d=0.43)](ggr-higher-posttest-than-snapps.md) — related
 - [Baseline EMQ scores did not differ between GGR and SNAPPS groups, ensuring equivalent starting clinical reasoning skills](ggr-snapps-equivalent-baseline.md) — related
 - [Both GGR and SNAPPS significantly improve overall clinical reasoning scores in final-year MBBS students (p<0.001)](ggr-snapps-both-improve-clinical-reasoning.md) — related
+- [Students' reasoning reflected elements of both nonanalytic and analytic thinking: semantic qualifiers, partially activated illness scripts, and hypothetical-deductive reasoning](dual-process-elements-in-student-reasoning.md) — related

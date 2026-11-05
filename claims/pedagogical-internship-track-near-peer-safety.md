@@ -55,3 +55,4 @@ Interview quote from Respondent 4 in the 'Developing a culture of peer teaching 
 - [Peer tutoring contributes to psychological safety and reduced anxiety in demanding simulation learning environments](peer-tutoring-psychological-safety-anxiety.md) — related
 - [High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety](vad-stress-psychological-safety-threat.md) — related
 - [Peer observation anxiety, limited practice time, and large group sizes are perceived barriers to optimal learning in simulation-based BLS training](simulation-bls-perceived-barriers.md) — related
+- [RCDP simulation sessions were perceived as psychologically safe by almost all participants, regardless of the number of facilitators present](rcdp-psychological-safety-high.md) — related

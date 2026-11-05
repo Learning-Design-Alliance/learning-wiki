@@ -57,3 +57,4 @@ The review reports that only one eligible study (Smith & Ericson, 2009) used a q
 - [Reported barriers to the VR session include headset ergonomics and occasional motion sickness](vr-barriers-headset-ergonomics-motion-sickness.md) — related
 - [Simulator sickness was low (median SSQ 1.9) with no serious adverse events](ncpr-vr-low-simulator-sickness.md) — related
 - [Approximately one quarter of XR-group participants reported cybersickness complaints](xr-cybersickness-complaints.md) — related
+- [Participants rated the VR learning experience positively with minimal cybersickness, yet most did not prefer VR over prosection as a drawing reference](vr-satisfaction-but-not-preferred-reference.md) — related

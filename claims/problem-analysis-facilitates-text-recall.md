@@ -9,7 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 1989
-source_checked: 2026-10-25
+source_checked: 2026-11-05
 sources:
   - id: schmidt-1989
     resource: "https://doi.org/10.1037/0022-0663.81.4.610"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 1989 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 1989 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Experiment 2, problem analysis before text study produced a significant overall difference in free recall, F(1, 82) = 6.15, p < .05, with no significant treatment-by-expertise interaction, F(1, 82) = .01, p < .93. [→ Schmidt 1989](#schmidt-1989)

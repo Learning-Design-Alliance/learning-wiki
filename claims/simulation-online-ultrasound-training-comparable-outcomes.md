@@ -47,3 +47,4 @@ Prospective randomized blinded trial with 68 physiotherapy students (n=34 per gr
 ## Related Claims
 - [Telemedicine-based teaching of ultrasonography produces results similar to traditional methods in most comparative studies, except for venous access procedures where studies disagree](telemedicine-ultrasound-teaching-similar-to-traditional.md) — a broader claim this one bears on
 - [Mobile and e-learning approaches showed better patient positioning and transducer handling than traditional teaching, particularly among physiotherapy students](mlearning-better-positioning-transducer-handling.md) — related
+- [Conventional and hybrid instruction produced higher practical exam scores than digital-only Ren'Py instruction in physiotherapy students](face-to-face-hybrid-beat-digital-only-practical-exam-physiotherapy.md) — related

@@ -94,3 +94,4 @@ Markov analysis for Cluster 3's browsing-anchored exploration: "Template Cloning
 - [Teachers' post-workshop platform engagement fell into three behavioral profiles, with most teachers showing minimal creation and browsing](three-behavioral-engagement-profiles-ai-agent-creation.md) — related
 - [Subjects most often attributed their iteration to new insights or discovering that initial choices were not the best](subjects-attribute-iteration-to-new-insights.md) — related
 - [Behavioral patterns alone insufficiently predict AI-TPACK capacity because Cluster 3 is polarized between expert-level and surface-level integration](behavior-alone-insufficient-predict-ai-tpack.md) — related
+- [Students enacted interpreting and framing concurrently at case start, followed by generating and justifying, in iterative loops over a case](reasoning-skill-sequences-iterative-loops.md) — related

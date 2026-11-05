@@ -57,3 +57,4 @@ In the experimental group, the Simulator Sickness Questionnaire was completed be
 - [SVVR training is well tolerated, with only mild discomfort and no discontinuation due to adverse effects](svvr-training-well-tolerated-mild-discomfort.md) — related
 - [VR participants report more technical issues and cybersickness symptoms than slideshow participants](vr-technical-issues-cybersickness.md) — reports the opposite
 - [Simulator sickness was low (median SSQ 1.9) with no serious adverse events](ncpr-vr-low-simulator-sickness.md) — related
+- [No AR-related adverse effects occurred and ergonomic burden was low during short remote AR simulation sessions](remote-ar-low-ergonomic-burden-no-adverse-effects.md) — related

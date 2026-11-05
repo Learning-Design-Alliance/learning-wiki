@@ -9,7 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: weak
 newest_evidence: 2020
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 sources:
   - id: carolyn-p-rosé-sanna-järvelä-2020
     resource: "https://doi.org/10.1007/s11412-020-09329-z"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
-> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The editorial reports that analysis of seventh-grade teams' collaborative co-invention in maker spaces illustrated how successful teams sorted out coordination challenges, with social-discursive and materially mediated aspects of making intertwined. [→ Carolyn P. Rosé & Sanna Järvelä 2020](#carolyn-p-rose-sanna-jarvela-2020)

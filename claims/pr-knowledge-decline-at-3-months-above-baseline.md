@@ -58,3 +58,4 @@ Of 17 completers, 13 (76%) completed the 3-month follow-up. Wilcoxon signed-rank
 - [Knowledge and self-efficacy scores remained stable, while attitude scores slightly decreased from post-test to two-month follow-up among medical interns in one uncontrolled pre-post study](knowledge-self-efficacy-attitude-retention.md) — reports the opposite
 - [Three-hour simulation-based tourniquet training significantly improves medical interns' knowledge, skills, attitudes, self-confidence and self-efficacy](simulation-tourniquet-training-improves-intern-outcomes.md) — related
 - [Confidence retention at last follow-up was variable, with some technical steps showing limited retention without ongoing practice](neurosave-variable-retention-followup.md) — related
+- [SKIT shows better 3-month knowledge retention with smaller score declines from baseline](skit-better-knowledge-retention-3-month.md) — related

@@ -68,3 +68,5 @@ The review reports behavioural improvement "across study designs", with ratings 
 - [Multidisciplinary simulation increased nontechnical self-efficacy by 0.3 points on a 4-point scale](simulation-increased-nontechnical-self-efficacy-otolaryngology.md) — related
 - [Experts rated ALS certification and adaptability highest, with strong consensus also for psychological resilience and closed-loop communication](highest-rated-attributes-als-adaptability-resilience.md) — related
 - [The framework embeds communication, consent, and debriefing objectives alongside technical procedural skills](procedural-objectives-embed-communication-and-debriefing.md) — related
+- [Team communication and decision-making gains show no significant differences across departments, experience levels, professions, or prior simulation exposure](communication-decision-gains-uniform-subgroups.md) — related
+- [Self-guided and facilitator-guided debriefing showed no significant difference in paediatric emergency performance outcomes](no-performance-difference-between-debriefing-methods.md) — related

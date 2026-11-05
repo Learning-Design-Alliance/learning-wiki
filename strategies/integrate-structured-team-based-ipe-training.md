@@ -51,6 +51,7 @@ Based on the finding that teamwork and collaboration are the most frequently dev
 
 - [Design CPD programs with hands-on skill development, ongoing reinforcement, and integration into workplace protocols](cpd-hands-on-skills-reinforcement-protocol-integration.md)
 - [Build conflict-resolution and communication skills into multidisciplinary team projects](conflict-resolution-modules-multidisciplinary-teams.md)
+- [Strengthen science communication competency through curricular innovation and multidisciplinary team-based practice platforms](curricular-innovation-and-multidisciplinary-tbl-platforms.md)
 
 ## Examples
 -

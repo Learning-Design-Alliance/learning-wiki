@@ -50,3 +50,4 @@ Hierarchical multiple regression in the same 300-student cross-sectional study. 
 ## Related Claims
 - [Emotional, spiritual, and moral intelligence together account for 52.1% of variance in self-directed learning](three-intelligences-explain-52-percent-sdl-variance.md) — related
 - [Emotional intelligence correlates positively with self-directed learning among nursing students (r = 0.63)](ei-sdl-positive-correlation-nursing-students.md) — related
+- [Self-directed learning is the strongest positive predictor of narrative competence among Chinese nursing students (β = 0.428)](self-directed-learning-strongest-predictor-narrative-competence-nursing-students.md) — related

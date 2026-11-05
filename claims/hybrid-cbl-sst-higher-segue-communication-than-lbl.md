@@ -52,3 +52,4 @@ In the same randomized pilot (n = 20), communication was assessed with the SEGUE
 - [Scenario simulation combined with case teaching improved doctor-patient communication skills more than traditional lecture-based training](scenario-simulation-improves-doctor-patient-communication.md) — related
 - [SFHC intervention improved doctor-patient communication (SEGUE) scores post-intervention](sfhc-improved-segue-communication.md) — related
 - [Peer role-play and peer assessment improve non-technical clinical competencies (doctor-patient communication, humanistic care, preoperative preparation) with a large effect for communication skills](peer-roleplay-improves-nontechnical-clinical-competencies.md) — related
+- [Hybrid simulation-based training yields higher post-intervention suturing skill scores than routine mannequin training (P = 0.013, Cohen's d > 0.80)](hybrid-simulation-higher-suturing-scores-than-routine-training.md) — related

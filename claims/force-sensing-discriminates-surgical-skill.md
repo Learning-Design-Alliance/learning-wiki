@@ -60,3 +60,4 @@ The review reports a prospective cross-skill comparison of 60 participants (20 n
 - [Better mean performance in the Basic module is associated with shorter suturing time and a higher final Suture Score](basic-module-score-predicts-suturing-proficiency.md) — related
 - [Higher-performing suturing groups differ mainly in suturing time, accurate needle passages, and unnecessary piercing points, not other components](suture-components-group-discrimination.md) — related
 - [Novices take significantly longer to complete simulated WFWB procedures than intermediate and expert providers](novices-longer-completion-times-wfwb-simulation.md) — related
+- [Glove-derived force features could not distinguish clinicians by seniority but showed modest ability to classify perceived task difficulty](glove-features-seniority-null-difficulty-classification.md) — reports the opposite

@@ -89,3 +89,4 @@ In the moderation models, "Race did not moderate Exam Playbook effects (χ2(7) =
 - [The exam playbook intervention showed no statistically significant treatment-effect differences by gender, race, class standing, or prior performance](exam-playbook-no-subgroup-treatment-differences.md) — reports the opposite
 - [Self-administered Exam Playbook use predicts higher exam scores in real-world college classes (d = 0.18)](exam-playbook-use-exam-performance.md) — related
 - [Motivation and knowledge changes did not differ by gender or ethnicity in either sample](iglu-no-gender-ethnicity-effects.md) — related
+- [The exam-score benefit of medium learner-centered practice levels is larger for male than female students, with no gender difference at medium-high or high levels](gender-interaction-learner-centered-exam.md) — related

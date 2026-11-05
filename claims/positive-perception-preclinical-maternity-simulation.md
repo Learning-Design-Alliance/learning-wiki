@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: alfozan-et-al-2015
     resource: "https://www.iiste.org/journals/"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students agreed that the objectives of the simulation were clear (m = 4.14, SD = 0.59) and that it was appropriate to their level (m = 4.09, SD = 0.79), while fidelity items received the lowest agreement. [→ ALFozan et al. 2015](#alfozan-et-al-2015)

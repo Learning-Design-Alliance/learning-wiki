@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: diperna-2014
     resource: "https://eric.ed.gov/?id=ED562704"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2014 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` In a cluster randomized trial, SSIS-CIP classrooms showed higher posttest teacher-rated social skills than business-as-usual control classrooms, with adjusted effect sizes from .22 (self-control) to .38 (social engagement). [→ DiPerna 2014](#diperna-2014)

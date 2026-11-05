@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2018
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: pilnick-alison-2018
     resource: "https://doi.org/10.1186/s12909-018-1381-1"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2018 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Studies of role play in medical and nursing student training report increased empathy, safe practice opportunities, peer feedback value, and reservations about scenario artificiality and role players' acting skills. [→ Pilnick Alison 2018](#pilnick-alison-2018)
@@ -56,3 +56,4 @@ The review's narrative synthesis of role play studies with medical and nursing s
 - [Feedback facilitators such as faculty coaches can increase trainee receptivity to patient feedback](feedback-facilitators-increase-receptivity.md) — related
 - [Small-group, communication-focused SP simulations increase pre-licensure nursing students' comfort and confidence in therapeutic communication](sp-simulation-increases-therapeutic-communication-comfort.md) — related
 - [Simulation-based role-play was associated with larger self-reported gains in empathy, understanding emotional responses, and responding to emotional cues than lecture-based training](simulation-larger-emotional-communication-gains.md) — a narrower finding that bears on this claim
+- [AI-simulated psychiatric patients provided a psychologically safe, controlled context for undergraduate nursing students to develop therapeutic communication and assessment skills, per the authors' first-year reflective account](ai-voice-simulated-patient-psych-safety.md) — related

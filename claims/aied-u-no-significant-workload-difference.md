@@ -60,3 +60,4 @@ Teachers' perceived workload was measured with the raw NASA-TLX (0–10 per subs
 - [App-guided ALS support shows no clear improvement in overall perceived workload compared with standard practice](app-guided-als-no-overall-workload-difference.md) — related
 - [No significant difference in cognitive workload between novices and experienced participants across NASA-TLX domains](no-nasa-tlx-difference-novice-experienced.md) — related
 - [Global cognitive load (NASA TLX) change did not differ between training groups](nasa-tlx-global-change-no-group-difference.md) — related
+- [Perceived cognitive load did not differ between facilitator-guided and self-guided debriefing groups](no-cognitive-load-difference-debriefing.md) — related

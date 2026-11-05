@@ -57,3 +57,4 @@ Deductive framework analysis of 88 included studies mapped inductively derived t
 - [Small interdisciplinary teamwork was the most widely reported teaching strategy, explicitly reported in 62 articles](small-interdisciplinary-teams-62-articles.md) — related
 - [Interns' written reflections highlight appreciation of the interactive format, teamwork and communication, and confidence building](qps-reflections-themes-engagement-confidence.md) — related
 - [Teamwork and interprofessional communication is the most frequently represented communication competency theme in the formal curriculum, comprising 46.9% of identified quotes](teamwork-most-frequent-communication-theme.md) — related
+- [Students attributed competencies in teamwork, time management, quick thinking, critical thinking, communication, and confidence to team-based gamified quizzing](student-reported-competencies-gamified-quizzing.md) — a narrower finding that bears on this claim

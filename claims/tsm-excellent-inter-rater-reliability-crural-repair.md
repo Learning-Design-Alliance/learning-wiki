@@ -51,3 +51,4 @@ Reliability analysis of a random subset of 10 videos independently evaluated by 
 - [TSM and OSATS scores strongly positively correlated (Spearman's ρ = 0.88)](tsm-osats-strong-correlation.md) — related
 - [In Study 2, inter-rater agreement for rating creative problem solving ideas was good to excellent across indicators](cps-idea-ratings-good-excellent-interrater-agreement.md) — a broader claim this one bears on
 - [Two independent observers showed excellent interrater agreement when assessing nursing students' VAP prevention skill performance in simulation](excellent-interrater-agreement-vap-checklist.md) — related
+- [Rater reliability was good for the adapted checklist, and objective and subjective scores correlated strongly](adapted-checklist-irr-and-score-coherence.md) — related

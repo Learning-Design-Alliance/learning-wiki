@@ -67,3 +67,4 @@ Thematic analysis of semi-structured interviews with 20 adult learners, prompted
 - [The combination of e-mentoring and in-class self-evaluation encouraged sustained engagement in outside-of-class learning activities](e-mentoring-self-evaluation-sustained-engagement.md) — related
 - [AI applications in clinical education enhance learner engagement, flexibility, feedback, and objective competency assessment](ai-enhances-engagement-feedback-assessment-clinical-education.md) — related
 - [Students rate the GPT companion's formative assessment features highly, including question quality, feedback usefulness, and critical thinking support](positive-perceptions-formative-assessment-features-gpt-companion.md) — related
+- [Moderators fostered participation through personalized prompts, affirming language, welcoming tone, and balanced encouragement frequency](moderator-participation-encouragement-techniques.md) — related

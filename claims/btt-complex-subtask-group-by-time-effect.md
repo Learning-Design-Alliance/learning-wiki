@@ -47,3 +47,4 @@ Linear mixed model on complex-subtask progress-test scores in the 22-participant
 ## Related Claims
 - [Four weeks of bimanual tracking training significantly improves 1:1 subtask performance with training time, with no group effect on the 1:1 task](btt-11-performance-improves-with-training-time.md) — related
 - [Learning progress (linear slope of progress-test scores) differs significantly between simple and complex training groups for complex subtasks but not the 1:1 subtask](learning-slope-group-difference-complex-only.md) — a narrower finding that bears on this claim
+- [VR log data show interns completed more subtasks in the complex case than the simple case, with no significant duration difference and no significant log–confidence relationships](vr-log-task-complex-case-subtasks.md) — related

@@ -50,3 +50,4 @@ Randomized controlled trial of 136 surgical interns (68 per group) comparing the
 - [Integrated model raises satisfaction, clinical thinking, practical skill self-ratings and engagement, with no difference in resource utilization](microskills-cptm-questionnaire-engagement.md) — related
 - [Integrated model improves all seven Mini-CEX domains, largest gain in physical examination](microskills-cptm-minicex-all-domains.md) — related
 - [Medical imaging interns receiving the SPOC-based blended package achieve higher department-specific end-of-rotation examination scores than controls, with a more modest absolute difference](spoc-blended-package-higher-end-of-rotation-exam.md) — related
+- [SKIT raises theoretical exam and OSCE scores versus traditional teaching for cross-department emergency rotators](skit-higher-theory-osce-scores-emergency-rotation.md) — related

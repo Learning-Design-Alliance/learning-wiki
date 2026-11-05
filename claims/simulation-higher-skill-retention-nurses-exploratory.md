@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: farah-t-2026
     resource: "https://doi.org/10.1136/bmjpo-2025-003986"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Exploratory analyses indicated higher skill retention among nurses trained with simulation (80.0% vs 72.0%, p=0.003). [→ Farah T 2026](#farah-t-2026)

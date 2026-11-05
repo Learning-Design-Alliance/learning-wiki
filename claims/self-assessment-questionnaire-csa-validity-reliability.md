@@ -56,3 +56,4 @@ Instrument validation on the study sample: item analysis found all t values sign
 - [The three PSRBVBQ scales show good internal consistency, with Cronbach's alphas of .732 (perceived severity), .841 (response to bully) and .897 (response to victim)](psrbvbq-scales-internal-consistency.md) — related
 - [The attitude and motivation questionnaire demonstrated acceptable internal consistency](attitude-motivation-questionnaire-acceptable-reliability.md) — related
 - [The 13-item attitude questionnaire demonstrated good internal consistency (Cronbach's α = 0.873) but was not formally validated as a psychometric instrument](rat-questionnaire-internal-consistency-alpha-0873.md) — related
+- [The finalized 72-item scale shows excellent internal consistency and factorability (Cronbach's α = 0.928, KMO = 0.884)](scale-excellent-internal-consistency-0928.md) — related

@@ -47,6 +47,7 @@ The report details a repeatable recipe for co-designing evaluation criteria: "Di
 - [Six-step design methodology: elicit values, minimal intervention, multi-level multi-outcome evaluation, iterate, simulate scale, sunset](six-step-emancipatory-aied-design-methodology.md)
 - [Workshop model for running the IDR methodology with the wider community](idr-workshop-model-wider-community.md)
 - [Stage XR pilot implementations for elementary STEM with small cohorts, co-design, and interpretable analytics](staged-xr-pilot-implementation-guidance.md)
+- [Use a train-the-trainer faculty development model with rapid-cycle quality improvement and participatory design to implement a longitudinal teamwork curriculum](train-the-trainer-participatory-qi-strategy.md)
 
 ## Examples
 -

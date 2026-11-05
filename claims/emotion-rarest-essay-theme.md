@@ -50,3 +50,4 @@ Descriptive thematic finding from the 49-essay corpus: "Emotion was the rarest t
 - [Both students and teachers believe AI cannot capture social dynamics and emotional feelings, but only teachers additionally feared AI use would reduce interpersonal interactions in class](ai-cannot-capture-social-emotional-dynamics.md) — related
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related
 - [80% of IB student essays explicitly link reliance on AI to reduced thinking](essays-link-ai-reliance-to-reduced-thinking.md) — related
+- [Nervousness is the main emotion students identify after their first simulation day, and students link nerves to detrimentally influenced client interactions](nervousness-main-emotion-simulation-reflection.md) — reports the opposite

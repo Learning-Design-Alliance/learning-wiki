@@ -51,6 +51,7 @@ The article's lessons-learned set for embedding GenAI at institutional scale: br
 - [Concentrate AI-edtech adoption priorities through collaborative networks that share tools, policies, and evaluation practices](collaborative-networks-responsible-ai-edtech-adoption.md)
 - [Use the EPIS model's four stages (Exploration, Preparation, Implementation, Sustainment) to bring an educational technology intervention to scale in elementary schools](epis-staged-scaling-a2i.md)
 - [Phased implementation roadmap for departments adopting GenAI personalization](phased-genai-adoption-roadmap.md)
+- [Institutions should actively disseminate exemplar prompts and provide secure platforms, faculty development, and quality-assurance mechanisms](institutional-responsibilities-genai-item-writing.md)
 
 ## Examples
 -

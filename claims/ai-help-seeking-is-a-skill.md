@@ -9,7 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-17
+source_checked: 2026-11-05
 recheck_by: 2031
 sources:
   - id: qusay-h-mahmoud-2026
@@ -34,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2031: baselines and conditions change
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In an ACE 2024 survey of 47 computing students with eight interviews, GenAI had not displaced traditional help resources; preferences varied with task, quality, latency, and trustworthiness. [→ Qusay H. Mahmoud 2026](#qusay-h-mahmoud-2026)

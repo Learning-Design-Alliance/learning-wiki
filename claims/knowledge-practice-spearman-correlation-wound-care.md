@@ -47,3 +47,5 @@ Spearman rank correlation analysis of continuous KAP scores among 178 respondent
 ## Related Claims
 - [Reading efficacy correlated positively but weakly to moderately with reading achievement in blended learning settings](reading-efficacy-weak-moderate-correlation-blended.md) — related
 - [Willingness to study online courses in spare time showed only a weak correlation with practical skill improvement (r = 0.269, p < 0.001)](willingness-online-leisure-weak-correlation.md) — related
+- [Nursing students' e-learning motivation and attitude were positively correlated after training, strongest in the control group](motivation-attitude-positive-correlation-nursing.md) — related
+- [Practice frequency and perceived competence were positively but weakly correlated (Spearman's r = 0.303, p = 0.019)](practice-frequency-perceived-competence-correlation.md) — related

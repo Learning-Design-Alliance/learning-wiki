@@ -9,7 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 recheck_by: 2019
 sources:
   - id: benedek-mathias-2014
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2014 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2019**: baselines and conditions change
 
 ## Subclaims
 `q3 i2` Among the 230 participants, men showed higher creative potential than women (d = 0.52), while no sex differences appeared for fluid intelligence, updating, shifting, or inhibition. [→ Benedek Mathias 2014](#benedek-mathias-2014)
@@ -60,3 +60,4 @@ Descriptive t-tests of total factor scores in the 230-participant sample (70% fe
 - [Executive functions substantially account for the latent intelligence–creativity correlation, leaving a reduced but still positive residual of r = .34.](executive-functions-reduce-gf-creativity-correlation.md) — related
 - [The effect of crystallized intelligence on children's creativity is mediated by shifting](shifting-mediates-gc-creativity-children.md) — related
 - [Embedded figures test performance differed by sex and correlated relatively highly with intelligence](embedded-figures-test-sex-difference-intelligence-correlation.md) — related
+- [Divergent thinking positively predicts GPA among medical students in a PBL curriculum (β = 0.25)](divergent-thinking-predicts-medical-student-gpa.md) — related

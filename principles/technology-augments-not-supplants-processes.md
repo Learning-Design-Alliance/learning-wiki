@@ -31,7 +31,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 170 claims (106 for, 52 mixed, 12 against) · 139 studies (30 review, 30 theoretical, 29 qualitative, 24 causal, 15 design, 10 associational, 1 quant-synthesis), `q1`–`q4` · 8 of 139 report an effect size · 166 claims rest on one study
+> **Evidence** · 171 claims (106 for, 53 mixed, 12 against) · 140 studies (30 review, 30 theoretical, 29 qualitative, 25 causal, 15 design, 10 associational, 1 quant-synthesis), `q1`–`q4` · 8 of 140 report an effect size · 167 claims rest on one study
 
 ## Conditional relationship
 
@@ -264,6 +264,7 @@ Claims this page cited that the model above does not use. Each keeps its old mar
 - [A minority of students stated they needed lecturer support alongside the RLOs](../claims/minority-students-needed-lecturer-support-alongside-rlos.md) [+W] — attached 2026-11-01 from Bath-Hextall Fiona et al. (2011), which proposed "Use RLOs as a supplement to, not a replacement for, other delivery approaches such as lectures".
 - [AI-supported module used mainly as a reflective comparison tool rather than an answer provider](../claims/ai-module-reflective-scaffold-use.md) [+W] — attached 2026-11-04 from İnan Onur; Akyüz Ali (2026), which proposed "Position AI feedback as a supervised cognitive scaffold, not an authority"; tests this page's relationship.
 - [Students perceived benefits for review and recall with HoloLens, but not as a stand-alone learning solution](../claims/hololens-review-recall-supplementary.md) [+W] — attached 2026-11-04 from Lin Joseph et al. (2026), which proposed "Use mixed-reality anatomy tools as a supplement within a multimodal curriculum rather than as a replacement".
+- [Adding 10 minutes of VR training to conventional training yields overall LP proficiency comparable to 30 minutes of purely conventional training in preclinical medical students](../claims/vr-supplemented-lp-training-comparable-overall-proficiency.md) [~W] — attached 2026-11-05 from Zou Xinyang et al. (2026), which proposed "Use VR simulation as a complement to, not a substitute for, hands-on conventional procedural training"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

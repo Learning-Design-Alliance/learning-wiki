@@ -9,7 +9,7 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 newest_evidence: 2020
-source_checked: 2026-10-17
+source_checked: 2026-11-05
 sources:
   - id: pate-2020
     resource: "https://eric.ed.gov/?id=ED606091"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2020 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Trauma-informed practices, including safe and supportive learning environments and consistent positive relationships with peers and adults, are described as powerful ways to mitigate trauma effects and promote resilience. [→ Pate 2020](#pate-2020)

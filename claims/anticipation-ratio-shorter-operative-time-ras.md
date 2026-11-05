@@ -49,3 +49,4 @@ Cohort study by Sexton et al. in the live operating room, reported within the re
 - [Perceived deficits in communication quality during robotic surgery are associated with greater estimated blood loss and longer operative time](communication-deficit-blood-loss-operative-time.md) — related
 - [Higher NTSRS scores correlate with fewer near-miss events, while surgeon experience does not correlate with NTSRS scores except in decision-making](ntsrs-scores-near-miss-correlation.md) — related
 - [Communication, environmental factors, anticipation and teamwork are the key non-technical skills reported in robotic-assisted surgery](key-nts-communication-environment-anticipation-teamwork-ras.md) — related
+- [Conversion to open surgery was associated with substantially increased blood loss and operative time, and Pringle maneuver use with reduced blood loss](conversion-and-pringle-associated-with-outcomes.md) — related

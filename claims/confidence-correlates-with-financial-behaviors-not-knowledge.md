@@ -54,3 +54,4 @@ Pearson bivariate correlational analyses among the outcome variables (Table 3) i
 - The majority of students lacked confidence in their experimental results because they could not solicit the behaviors or obtained unexpected results — related
 - [Metacognitive confidence triggers intention offloading independently of objective memory need](metacognition-triggers-offloading.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
+- [Self-efficacy and objectively assessed handover performance show no significant correlation in the Team FIRST cohorts](no-correlation-self-efficacy-handover-performance.md) — reports the opposite

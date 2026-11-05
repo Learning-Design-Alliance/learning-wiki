@@ -9,7 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2024
-source_checked: 2026-10-21
+source_checked: 2026-11-05
 sources:
   - id: brendan-a-schuetze-2024
     resource: "https://doi.org/10.1007/s10648-024-09853-6"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
-> **Currency** · newest study 2024 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Metacognitive bias (over- or underconfidence) and precision (consistency of judgments) determine how accurately students anticipate exam performance and when they disengage from studying. [→ Brendan A. Schuetze 2024](#brendan-a-schuetze-2024)

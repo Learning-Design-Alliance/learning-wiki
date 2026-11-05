@@ -51,3 +51,4 @@ Satisfaction was measured on a 10-point scale questionnaire with a 100% response
 - [In a randomised trial of 80 first-year postgraduate oncology trainees, CBL produced significantly higher examination scores and satisfaction than traditional lecture-based learning, though confidence intervals crossed the null for examination results](bi-rct-cbl-higher-posttest-scores-satisfaction.md) — related
 - [Most new teaching methods reduce dissatisfaction relative to LBL, with WeChat-based combinations most favoured by residents](new-methods-reduce-dissatisfaction-versus-lbl.md) — related
 - [Students report higher class satisfaction with CBL than with LBL (RR = 1.63)](cbl-higher-class-satisfaction-than-lbl.md) — related
+- [Students taught with PBL-CBL reported higher course satisfaction and teacher-student interaction than LBL students](pbl-cbl-higher-satisfaction-interaction.md) — a broader claim this one bears on

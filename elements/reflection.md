@@ -101,6 +101,7 @@ Reflection deepens learning by engaging learners in self-explanation and self-mo
 
 **Kolb's Experiential Learning Cycle** — Published experiential curricula (Kolb, 1984) position reflective observation as the mandatory stage between concrete experience and abstract conceptualization.
 - [Use discussion forums with three reflection prompts to structure students' dialogic reflection after viewing visualisations](../strategies/three-prompt-reflection-forum-strategy.md)
+- [Use required online discussion boards with specific prompts and peer commenting to facilitate reflection during SLT simulation placements](../strategies/discussion-board-structured-prompts-simulation-reflection.md)
 
 ## Key Sources
 - Schön, D. A. (1983). *The Reflective Practitioner: How Professionals Think in Action*. Basic Books.

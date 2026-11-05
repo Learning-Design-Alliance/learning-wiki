@@ -52,3 +52,4 @@ Cross-tabulation of an eight-point challenge scale against satisfaction (Table 1
 - [Maintaining motivation was the most prevalent non-technology challenge students faced learning at a distance](motivation-most-prevalent-remote-challenge.md) — related
 - [STEM students' course satisfaction dropped sharply after courses moved fully online in spring 2020](stem-satisfaction-dropped-after-remote-shift-covid.md) — related
 - [Over 90% of students reported satisfaction with online learning resources and completion of online assignments in the blended PET course](high-online-self-learning-satisfaction-blended-pet.md) — related
+- [92.60% of students were satisfied with the A-SPIRE model and 96.3% believed their science communication ability improved](a-spire-high-satisfaction-self-assessed-improvement.md) — related

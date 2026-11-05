@@ -49,6 +49,7 @@ The authors recommend that training for beginners be dominated by theoretical le
 - [Adapt and tailor the triage simulation across program stages, modalities, and cohort needs](adapt-tailor-triage-simulation-blueprint.md)
 - [Sequence laparoscopic training from box trainers and simulators with preset proficiency benchmarks before cadaver training](simulator-benchmarks-before-cadaver-training.md)
 - [Stratify embodied Tai Chi tasks by proficiency: simplified movements for beginners, autonomy in creation for advanced learners, paired practice for similar-ability peers](stratified-embodied-task-support.md)
+- [Blend VR and IP simulation within a curriculum, matching each modality to learning objectives and training stage](blended-vr-ip-simulation-curriculum.md)
 
 ## Examples
 -

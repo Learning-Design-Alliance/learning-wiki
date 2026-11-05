@@ -51,3 +51,4 @@ Lag Sequential Analysis plus PrefixSpan routine mining on coded teacher actions 
 - [Perceived teacher support in the hypothesis and experimentation phases correlated positively with post-test achievement in both groups; argumentation-support and enjoyment correlations emerged only across the pooled sample](perceived-support-correlates-achievement.md) — related
 - [In-service teachers more often followed socioemotional challenges with monitoring, and the groups differed in recurrent self-loops of controlling versus monitoring](in-service-socioemotional-monitoring-and-self-loops.md) — related
 - The field lacks micro-level S-SRL theory and methodological guidelines, and studies have not connected temporal/sequential characteristics to learning gains — related
+- [Students enacted interpreting and framing concurrently at case start, followed by generating and justifying, in iterative loops over a case](reasoning-skill-sequences-iterative-loops.md) — related

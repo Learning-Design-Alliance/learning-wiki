@@ -9,7 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2021
-source_checked: 2026-10-29
+source_checked: 2026-11-05
 recheck_by: 2024
 sources:
   - id: abaci-2021
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
-> **Currency** · newest study 2021 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
+> **Currency** · newest study 2021 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Applying the framework to a school context showed it is biased toward TPD for OBL in higher education, because all but one reviewed study was situated in higher education. [→ Abaci 2021](#abaci-2021)

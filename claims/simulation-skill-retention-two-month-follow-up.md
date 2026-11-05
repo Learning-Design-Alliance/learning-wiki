@@ -71,3 +71,4 @@ RCT of 120 medical and nursing students comparing VR with live simulation, asses
 - [VR-trained and small-group-trained fellows show no significant difference in post-training checklist scores for tracheostomy emergencies](vr-noninferior-tracheostomy-emergency-checklist.md) — related
 - [Learning advantages of AI-assisted peer teaching persist at 3-month follow-up](ai-assisted-peer-teaching-retention-3-month.md) — related
 - [The VR group uniquely maintained full (100%) retention of Understanding at one-month follow-up](vr-full-understanding-retention.md) — related
+- [LP skill retention at 3 months is comparable between VR-supplemented and conventional training groups, with skills declining in both groups](lp-skill-retention-comparable-three-months.md) — related

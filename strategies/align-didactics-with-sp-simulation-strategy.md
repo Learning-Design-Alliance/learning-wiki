@@ -46,7 +46,8 @@ Based on observed trends, the authors recommend curricular adjustments: "A few s
 - [Undergraduate psychiatry students report that traditional methods are insufficient for mastering non-verbal cues](../claims/psychiatry-students-report-traditional-methods-insufficient-for-nonverbal-cues.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Expand the VSP case library, stratify difficulty, and add richer interactivity and non-verbal cue capture](expand-vsp-case-library-and-nonverbal-cues.md)
 
 ## Examples
 -

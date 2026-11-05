@@ -49,3 +49,4 @@ The review reports, citing a prior study, that GPT showed "the highest accuracy 
 - [Pooled LLM accuracy differs minimally by question source (71% for internal exams vs. 73% for public databases)](question-source-minimal-accuracy-difference.md) — related
 - [Preservice educators rate generative AI highest for logistical support (time saving, clarity, organizing thought) and lowest for epistemic trust, accuracy and consistency](preservice-educators-rate-ai-logistics-high-trust-low.md) — related
 - [Students rated ChatGPT highly for completing activities more quickly, among the highest-scoring survey items in both courses](chatgpt-rated-high-for-speed-of-completion.md) — related
+- [LLM accuracy on medical multiple-choice questions is significantly lower for Italian than German questions, with no significant German-French difference](question-language-effect-german-best-italian-lower.md) — related

@@ -58,3 +58,4 @@ Test-retest reliability was assessed with 46 nurses across two administrations s
 - [TAILS dimensions show high internal consistency, with Cronbach's alpha values above 0.90](tails-high-internal-consistency.md) — related
 - [The HSPNCS demonstrates excellent internal consistency (Cronbach's alpha 0.967)](hspncs-high-internal-consistency.md) — related
 - [The Salus-Ed questionnaire demonstrates excellent overall internal consistency (α = 0.95)](salus-ed-internal-consistency.md) — related
+- [The finalized 72-item scale shows excellent internal consistency and factorability (Cronbach's α = 0.928, KMO = 0.884)](scale-excellent-internal-consistency-0928.md) — related

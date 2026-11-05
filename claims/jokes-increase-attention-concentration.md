@@ -48,3 +48,4 @@ Authors' general interpretation of the pilot study results, presented in the Res
 - [Within the experimental groups, the humour-based memory strategy operated more efficiently with older participants than with younger ones](humour-retention-older-participants.md) — related
 - [Spanish B1 learners taught equivocal words through joke-telling retained more vocabulary on a two-week delayed post-test than learners taught the same items conventionally](joke-telling-improves-retention-equivocal-words.md) — related
 - [The yellow behavioral cluster corresponds to a joking frame in which ambiguous tone protects students who venture risky ideas](yellow-cluster-joking-frame-protects-ideas.md) — related
+- [Self-reported attention, concentration, and involvement did not differ between OLM and IPL students](no-difference-attention-concentration-involvement-olm-ipl.md) — related

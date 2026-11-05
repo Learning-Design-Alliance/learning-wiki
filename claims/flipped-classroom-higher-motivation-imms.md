@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2016
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: ilknur-özpinar-2016
     resource: "https://doi.org/10.11114/jets.v4i12.1934"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2016 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students in the flipped experimental group had higher Instructional Material Motivation Survey scores than control-group students. [→ İlknur Özpinar 2016](#ilknur-ozpinar-2016)
@@ -53,3 +53,4 @@ IMMS administered at the end of the eight-week application to both groups (25 pe
 - [Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82).](flipped-classroom-higher-student-satisfaction-medical-education.md) — related
 - [Flipped classroom instruction is associated with higher final knowledge scores than traditional instruction in medical education (SMD 0.90).](flipped-classroom-higher-knowledge-scores-medical-education.md) — related
 - [Flipped classroom instruction produced significantly higher calculus achievement than traditional instruction in a quasi-experiment at University of Tabuk](flipped-classroom-significant-achievement-gain-tabuk-calculus.md) — related
+- [The hybrid group reported higher motivation toward instructional materials than the conventional group, while the digital-only group did not](hybrid-model-higher-imms-motivation-than-conventional.md) — related

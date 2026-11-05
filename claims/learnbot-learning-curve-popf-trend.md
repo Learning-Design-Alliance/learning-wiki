@@ -51,3 +51,6 @@ Case-mix adjusted learning-curve estimation using generalized additive mixed mod
 - [Case-mix imbalance (all grade IV patients and more prior procedures in Phase 1) did not fully explain the learning effect in risk-adjusted analysis](case-mix-imbalance-exploratory-adjustment.md) — related
 - [Postoperative pancreatic fistula rates remain stable along the RDP learning curve](rdp-popf-stable-along-learning-curve.md) — reports the opposite
 - [Postoperative outcome learning curves (length of stay, major complications) stabilise around case 30, earlier than the telemetry proficiency threshold, and blood loss shows no temporal trend](postoperative-outcome-curves-stabilise-case-30.md) — reports the opposite
+- [Estimated blood loss decreased modestly as institutional case numbers progressed, while higher IWATE difficulty increased blood loss](blood-loss-decreases-with-case-number-iwate-increases.md) — reports the opposite
+- [Conversion to open surgery was associated with substantially increased blood loss and operative time, and Pringle maneuver use with reduced blood loss](conversion-and-pringle-associated-with-outcomes.md) — related
+- [The two centers followed opposite volume-complexity trajectories during implementation](opposite-volume-complexity-trajectories.md) — related

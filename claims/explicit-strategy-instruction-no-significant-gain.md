@@ -9,6 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: moderate
 newest_evidence: 1998
+source_checked: 2026-11-05
 sources:
   - id: stein-1998
     resource: "https://eric.ed.gov/?id=ED416501"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 1998 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1998 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Stein 1998: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 

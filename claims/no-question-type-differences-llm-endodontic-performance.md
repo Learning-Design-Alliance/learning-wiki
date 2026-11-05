@@ -47,3 +47,4 @@ Exploratory subgroup analysis of 77 basic knowledge and 46 clinical questions; c
 ## Related Claims
 - [Overconfidence rates differ significantly among LLMs, with Gemini highest and Claude showing none](llm-overconfidence-rates-differ-endodontic-questions.md) — related
 - [Subgroup analyses show significant between-model differences, with Copilot (75.25%) and ChatGPT-4 (72.97%) achieving the highest pooled accuracies](llm-subgroup-copilot-chatgpt4-highest-accuracy.md) — related
+- [No significant differences in LLM accuracy across medical specialties or between acute and chronic questions](no-accuracy-differences-specialty-urgency.md) — related

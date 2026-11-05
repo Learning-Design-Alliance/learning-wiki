@@ -58,3 +58,4 @@ Single-center prospective before–after study in Tanzania with 9708 newborns ac
 - [Simulation-based CRM training may translate to improved patient outcomes, including decreased mortality, based on a small number of studies](simulation-crm-training-patient-outcomes.md) — related
 - [Prior evidence cited by the article shows simulation training improved shoulder dystocia delivery outcomes and reduced neonatal complications](prior-evidence-simulation-improves-outcomes.md) — related
 - [Work experience correlates positively with complicated child delivery skill but negatively with newborn and pregnant women's resuscitation skills](work-experience-skill-correlations.md) — related
+- [Among 43 neonatal care providers, hands-on simulator training improved image quality scores and the number of acceptable or good views in a pre-post study reported by the review](simulation-training-improves-image-quality-neonatal-providers.md) — related

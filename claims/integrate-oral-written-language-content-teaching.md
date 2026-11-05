@@ -51,7 +51,7 @@ The guide's evidence summary for Recommendation 2 reports "Five randomized contr
 | Baker 2014 | q2 · review · r? | i? | this claim; [A WWC practice guide rests its recommendation to teach academic vocabulary intensively acr](academic-vocabulary-intensive-instruction-strong-evidence.md) (supports); [Structured opportunities to develop written language skills carry only minimal evidence, r](structured-writing-opportunities-minimal-evidence.md) (qualifies) |
 | Practitioner's guide to integrating literacy and science 2025 | q1 · design · r1 | i? | [Integrating literacy and science within authentic real-world experiences can produce great](integrated-literacy-science-greater-learning-than-separate.md) (supports) |
 | Haiwen Chu 2025 | q2 · design · r2 | i? | [Language development functions as a consequence of, not a prerequisite for, deep conceptua](language-consequence-not-prerequisite-math-el.md) (qualifies) |
-| Suarez 2008 | q2 · qualitative · r2 | i? | [ELLs attempted academic terminology from prior lessons, with experience mediating their co](experience-mediate-connection-academic-language-vibration.md) (qualifies) |
+| [Suarez 2013](https://doi.org/10.1063/1.4789738) | q2 · qualitative · r2 | i? | [ELLs attempted academic terminology from prior lessons, with experience mediating their co](experience-mediate-connection-academic-language-vibration.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

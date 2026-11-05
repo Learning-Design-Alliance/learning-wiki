@@ -13,7 +13,7 @@ generated:
 # Exercise Breaks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 31 claims (14 for, 14 mixed, 3 against) · 19 studies (8 quant-synthesis, 5 review, 4 causal, 1 qualitative, 1 design), `q1`–`q3` · 6 of 19 report an effect size · 29 claims rest on one study
+> **Evidence** · 33 claims (15 for, 15 mixed, 3 against) · 20 studies (8 quant-synthesis, 5 causal, 5 review, 1 qualitative, 1 design), `q1`–`q3` · 6 of 20 report an effect size · 31 claims rest on one study
 
 ## Description
 Exercise breaks are brief (typically 4–20 minute) episodes of moderate-to-vigorous physical activity — movement games, stretching, jumping, or walking — inserted between instructional segments. They function as attention-restoration and consolidation opportunities rather than as fitness interventions, though regular classroom physical activity also contributes to health outcomes.
@@ -81,6 +81,8 @@ Short aerobic activity reliably improves subsequent attention and on-task behavi
 - [Classroom-based physical activity improves on-task behaviour and reduces off-task behaviour in primary school children (pooled SMD = 0.60)](../claims/classroom-physical-activity-improves-on-task-behaviour.md) [+W]
 - [Acute PA before mathematics testing shows mixed effects: 10- and 20-min exercise breaks raised math scores but 5-min breaks did not, and pre-test PA sessions helped in two of four studies](../claims/acute-pa-timing-dose-math-performance.md) [~W]
 - [Whether PA itself causes the positive mathematics effects remains unclear, with engagement, attention from adults and innovative teaching proposed as alternative explanations](../claims/pa-math-causality-alternative-explanations.md) [~W]
+- [Concentration levels increased in all three in-class break intervention groups (BALANCE, CARDIO and MENTAL) after 5 weeks of daily 15-min sessions in primary school children](../claims/in-class-breaks-increase-concentration-all-formats.md) [+W] — attached 2026-11-05 from Leukel Christian et al. (2026), which proposed "Three classroom break intervention programs: BALANCE (balance training), CARDIO (aerobic/anaerobic circuit) and MENTAL (desk-based cognitive training)"; tests this page's relationship.
+- [Mathematics achievement improved only in the BALANCE and MENTAL groups — in both easy and difficult sections — while the CARDIO group showed no comparable gains](../claims/balance-mental-not-cardio-improve-math-achievement.md) [~W] — attached 2026-11-05 from Leukel Christian et al. (2026), which proposed "Three classroom break intervention programs: BALANCE (balance training), CARDIO (aerobic/anaerobic circuit) and MENTAL (desk-based cognitive training)".
 
 ## Related Elements
 - [Attention](attention.md) — the resource exercise breaks restore; schedule breaks against attentional demand, not the clock alone

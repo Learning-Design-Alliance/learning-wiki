@@ -74,3 +74,4 @@ Same longitudinal curriculum evaluation; Fresno test scores increased from basel
 - [All but seven of the 20 included studies reported using valid and reliable instruments, including the Fresno test, Berlin questionnaire, and EBP competence questionnaire](validated-instruments-used-in-most-studies.md) — related
 - [A single experiment-based session within a lecture-dominated course produces no significant overall learning gains on a post-experiment questionnaire](no-significant-gains-single-experiment-session.md) — related
 - [Both game-based blended learning and interactive lecture produce significant pre-to-post EBM competency gains](both-groups-significant-ebm-gains.md) — related
+- [The EBP course significantly improved Fresno Test scores in the intervention group, with a 24.2% gain](ebp-course-improves-fresno-scores.md) — related

@@ -78,3 +78,4 @@ Per-code endorsement analysis of contested codes; the article states this patter
 - [The LLM judge agrees with human annotators at 87.7% (κ = 0.842) on consensus pairs, but severity-rating agreement is uneven and medium-tier boundaries are uncertain](judge-calibration-labels-strong-severity-uneven.md)
 - [Judgments of comprehension in oral reading rest on unaided subjective judgment with no guarantee of consistency across times or judges](oral-reading-judgment-subjective-unreliable.md) — related
 - [Expert panel consensus (seven experts, ≥80% agreement rule) endorsed the refined EA framework structure](expert-consensus-ea-framework.md) — related
+- [Qualitative analysis of LLM answer explanations identified 3 ambiguous examination questions, supporting LLM use for question quality assurance](llm-explanations-flag-ambiguous-questions.md) — related

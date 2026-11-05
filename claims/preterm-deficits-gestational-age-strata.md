@@ -72,3 +72,4 @@ Subgroup meta-analyses by gestational age. Very preterm children showed signific
 - [Preterm children show deficits in all mathematics subskills, with the higher-order skill of applied problems most associated with preterm birth](preterm-mathematics-subskill-deficits.md) — related
 - [Each decreasing week of gestation is associated with a higher proportion of very preterm children not achieving expected educational levels, persisting after adjustment](gestational-age-dose-response-attainment.md) — related
 - [More than half of very preterm children do not meet expected school readiness or attainment levels at ages 5 to 7 years](half-very-preterm-below-expected-attainment.md) — related
+- [Birth weights of 2.5–3.9 kg and ≥ 4.0 kg were associated with reduced odds of good academic performance compared with < 2.5 kg](birth-weight-reduced-odds-good-performance.md) — related

@@ -59,3 +59,4 @@ Review's account of Spencer et al.'s (2022) blended/hybrid FC implementation in 
 - [Experiment-based learning is most effective when adopted as the dominant course strategy rather than an occasional technique](experiment-learning-needs-dominant-strategy.md) — related
 - [Flipped classroom students achieved significantly higher mean pharmacology exam grades than traditional classroom students](fc-higher-mean-exam-grade-dental-pharmacology.md) — related
 - [Flipped and blended learning shows mixed effectiveness in diabetes education, dependent on learner preparation and integration with experiential practice](flipped-blended-mixed-preparation-dependent.md) — related
+- [Conventional and hybrid instruction produced higher practical exam scores than digital-only Ren'Py instruction in physiotherapy students](face-to-face-hybrid-beat-digital-only-practical-exam-physiotherapy.md) — related

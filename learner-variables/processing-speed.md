@@ -13,7 +13,7 @@ generated:
 # Processing Speed
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 80 claims (46 show a difference, 26 mixed, 8 no difference) · 56 studies (24 causal, 18 associational, 7 quant-synthesis, 4 review, 2 qualitative, 1 theoretical), `q1`–`q4` · 16 of 56 report an effect size · 80 claims rest on one study
+> **Evidence** · 81 claims (47 show a difference, 26 mixed, 8 no difference) · 57 studies (25 causal, 18 associational, 7 quant-synthesis, 4 review, 2 qualitative, 1 theoretical), `q1`–`q4` · 16 of 57 report an effect size · 81 claims rest on one study
 
 ## Description
 Processing speed (the LVN calls it speed of processing) is how quickly a learner perceives and processes information and formulates a response. Reading and mathematics both require it constantly: a reader takes in letters, words, punctuation and layout, a mathematics learner numbers, shapes and symbols, and each has to choose and apply the right skills fast enough to keep the whole task in view. It grows quickly in the early years and keeps improving through adolescence, may dip during puberty, and declines with age in older adults. It is measured with timed tasks, such as pattern-matching and cancellation subtests of cognitive batteries and rapid automatised naming, though naming tasks also draw on vocabulary. It is related to [working memory](working-memory.md), since faster processing lets more be rehearsed and held, and to fluid reasoning in [general cognitive ability](general-cognitive-ability.md). Slow processing is also reported in learners with hearing loss and with dyslexia, which overlaps [learning disabilities](learning-disabilities.md).
@@ -116,6 +116,7 @@ Processing speed (the LVN calls it speed of processing) is how quickly a learner
 - [MANCOVA showed significant treatment effects for 11 of 15 dependent measures with consistently high effect sizes, while L2 reading speed, L2 spelling, L2 rapid digit naming and L3 stimulated vocabulary retrieval did not change as a function of the intervention](../claims/mancova-treatment-effects-11-of-15.md) [-M] — instruction changes it
 - [The training proved effective irrespective of reading ability and was more effective for the Test Dyslexic group than for the Test Nondyslexic group, which made greater gains on rapid naming, L3 receptive vocabulary and L3 picture naming](../claims/training-more-effective-for-dyslexic-learners.md) [~M] — instruction changes it
 - [Slow test-takers perform as well as fast ones when given the time they need, and may perform better on difficult items](../claims/slow-test-takers-perform-as-well-as-fast-ones.md) [~W] — learners who differ on it differ in outcomes
+- [The authors argue that improvements in working memory and processing speed from MPH do not translate into better exam performance](../claims/cognitive-gains-do-not-translate-to-exam-performance.md) [+W] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Woodcock-Johnson Tests of Cognitive Abilities** (Schrank, Mather, & McGrew, 2014): includes number-pattern matching, pair cancellation and letter-pattern matching subtests of processing speed.

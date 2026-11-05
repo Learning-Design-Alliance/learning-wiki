@@ -107,3 +107,4 @@ Open questions include how to measure load reliably in real classrooms (subjecti
 - [Segmenting online multimedia lessons into short user-paced segments improves transfer and reduces cognitive load](segmenting-improves-transfer-and-reduces-load.md) — a narrower finding that bears on this claim
 - [Segmentation of instructional videos enhances learning outcomes](segmentation-enhances-video-learning.md) — possibly the same claim (merge candidate)
 - [BCP settings may increase cognitive load and psychotherapists report BCP is more tiring and strenuous than face-to-face psychotherapy](bcp-increases-cognitive-load-and-fatigue.md) — related
+- [More benchmark videos at varied performance levels may clarify the expected standard, but increasing video number or explanation complexity risks overload that reduces engagement; examiners judged two to three videos an optimal compromise](more-benchmark-videos-help-but-risk-overload.md) — related

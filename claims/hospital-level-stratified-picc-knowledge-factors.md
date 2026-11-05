@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: xu-binbin-2026
     resource: "https://doi.org/10.1038/s41598-026-55786-1"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In secondary/primary hospitals, significant predictors were professional title (B = 4.147), education (B = 2.204), PICC care experience (B = 4.716), and prior training (B = 1.731); in tertiary hospitals, professional title (B = 5.829), PICC care experience (B = 6.693), workplace guidelines (B = 2.140), and training need (B = 2.828) were significant. [→ Xu Binbin 2026](#xu-binbin-2026)

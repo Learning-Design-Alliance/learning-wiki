@@ -70,3 +70,4 @@ Interpretation of looping patterns in the process maps and common subprocesses (
 - [Process mining of two fitness-typical groups suggests the group with more heterogeneous yellow markers and shared red markers worked more efficiently while both achieved the same summary outcome](process-mining-heterogeneous-yellow-group-more-efficient.md) — related
 - [Consultation skills were the most frequently chosen WBA clinical skills across all three Year 1 cohorts, followed by diagnostic procedures](consultation-skills-most-chosen-wba.md) — related
 - [Year 1 medical students complete more WBA assessments in secondary care placements, especially when secondary care is the first placement block](wba-more-assessments-secondary-care.md) — related
+- [Students enacted interpreting and framing concurrently at case start, followed by generating and justifying, in iterative loops over a case](reasoning-skill-sequences-iterative-loops.md) — related

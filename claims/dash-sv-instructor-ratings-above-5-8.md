@@ -48,3 +48,4 @@ Instructor performance was evaluated via learner-completed DASH-SV forms collect
 
 - [All eight PEM fellows participated in the 12-month simulation-based curriculum with an overall attendance rate of 68%](pem-sbl-curriculum-68-percent-attendance.md)
 - [Learners self-reported high satisfaction (4.4/5) and perceived educational value (4.9/5) for the curriculum](pem-sbl-high-satisfaction-educational-value.md)
+- [Learners and instructors reported high satisfaction with the Team FIRST curriculum, with composite reaction scores lowest in Module 1](team-first-high-reaction-satisfaction.md) — related

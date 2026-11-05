@@ -73,3 +73,4 @@ Meta-analysis of 30 comparative studies involving 4119 participants reporting ex
 - [Case review-based learning improves orthodontic examination scores compared with lecture-based learning](cbl-improves-orthodontic-exam-scores.md) — related
 - [Integrated PBL and medical humanities teaching produced no significant between-group difference in post-intervention theoretical examination scores compared with LBL](integrated-pbl-humanities-no-difference-theoretical-scores.md) — reports the opposite
 - [P-MASE pedagogy produced higher closed-book examination scores than traditional instruction in an undergraduate hospital management course RCT](pmase-higher-closed-book-exam-scores.md) — related
+- [The PBL-CBL group achieved significantly higher total post-course test scores than the traditional LBL group in fundamental nursing](pbl-cbl-higher-total-test-scores-anaphylactic-shock.md) — a narrower finding that bears on this claim

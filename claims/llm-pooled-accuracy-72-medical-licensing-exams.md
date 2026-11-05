@@ -61,3 +61,6 @@ Random-effects meta-analysis of 36 studies (2,404 records screened) evaluating L
 - [ChatGPT accuracy on health licensing examinations is highest in pharmacy and lowest in nursing](chatgpt-accuracy-field-order-pharmacy-nursing.md) — related
 - [ChatGPT models achieve a pooled accuracy of 70.1% on national health licensing examinations](chatgpt-pooled-accuracy-70-percent-licensing-exams.md) — a narrower finding that bears on this claim
 - [GPT-4 significantly outperforms ChatGPT-3.5 in accuracy on national health licensing examinations](gpt4-outperforms-chatgpt35-licensing-exams.md) — a narrower finding that bears on this claim
+- [ChatGPT-3.5 performed significantly worse on Arabic-language medical questions (43.9%) than its pooled published accuracy on English-language medical questions (60.7%)](chatgpt-arabic-lower-than-english-medical-accuracy.md) — related
+- [LLMs solve single-response medical multiple-choice questions significantly better than multiple-response questions](single-response-mcq-solved-better-than-multiple.md) — a narrower finding that bears on this claim
+- [LLMs answer diagnosis questions significantly better than treatment questions in medical multiple-choice items](treatment-questions-solved-worse-than-diagnosis.md) — a narrower finding that bears on this claim

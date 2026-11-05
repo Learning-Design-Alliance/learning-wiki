@@ -51,3 +51,4 @@ Content validation involved a panel of seven lecturers with a minimum of 15 year
 - [Expert and student judgements rate the WEIEC application feasible, with Aiken's V of 0.80 from experts and 0.81 from students](weiec-application-feasible-aiken-v-experts-students.md) — related
 - [The CSL-LTS demonstrates adequate internal consistency with Cronbach's α of 0.832 and McDonald's ω of 0.841](csl-lts-internal-consistency.md) — related
 - [Content validity of OPTIS was established through five consecutive rounds of expert feedback involving 18 experts](optis-content-validity-expert-rounds.md) — related
+- [Expert judges rated the SAAAR behavioral marker scale's sufficiency, coherence, importance, and relevance at 3.10 on average, with clarity lower at 2.60](saaar-content-validity-expert-judgment.md) — related

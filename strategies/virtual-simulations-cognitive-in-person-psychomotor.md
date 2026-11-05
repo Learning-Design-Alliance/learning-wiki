@@ -55,6 +55,7 @@ The review's concluding recommendation for a balanced instructional approach: "t
 - [Integrate interactive digital tools into large-enrollment courses to teach conceptually demanding content where lab access is limited](digital-tools-for-large-enrollment-conceptually-dense-content.md)
 - [Blend digital resources with traditional teaching to create a blended learning approach](blended-digital-traditional-pathology-teaching.md)
 - [Expand simulation-based and laboratory training before and alongside clinical practice](expand-simulation-laboratory-training-nursing.md)
+- [Use an echocardiography training simulator for initial skill acquisition before scanning real patients](strategy-simulator-first-echo-training.md)
 
 ## Examples
 -

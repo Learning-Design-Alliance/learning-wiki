@@ -67,6 +67,7 @@ The review recommends treating CPR education as an ongoing, reinforcement-based 
 - [Provide regular refresher sessions and periodic reassessment to sustain caregiver emergency-response skills over time](refresher-sessions-sustain-caregiver-skills.md)
 - [Time bolus refresher education to follow a level of forgetting that reintroduces uncertainty](time-refresher-education-to-reintroduce-uncertainty.md)
 - [Pair cadaveric workshops with a longitudinal pathway of refreshers, mentorship and task trainers to consolidate skills](neurosave-longitudinal-refreshers-mentorship-strategy.md)
+- [Support EBP education with mentorship, protected time, and continuity of initiatives rather than isolated courses](ebp-institutional-support-strategy.md)
 
 ## Examples
 -

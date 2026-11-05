@@ -9,7 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: mixed
 newest_evidence: 2026
-source_checked: 2026-10-28
+source_checked: 2026-11-05
 sources:
   - id: adurangba-victor-oje-2026
     resource: "https://doi.org/10.1007/s11423-026-10722-y"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1`–`i2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-28 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` No statistically significant difference in declarative knowledge between VR and control groups during the initial exploration phase (d = 0.24, p > .05); a non-significant result, not evidence that the groups were equal. [→ Adurangba Victor Oje 2026](#adurangba-victor-oje-2026)

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2016
-source_checked: 2026-10-17
+source_checked: 2026-11-05
 sources:
   - id: bellon-e-2016
     title: Bellon E 2016
@@ -23,7 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2016 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Symbolic numerical magnitude processing significantly predicted arithmetic fact retrieval (p < 0.001) even when controlling for each inhibition task, whereas non-symbolic processing did not (p = 0.407). [→ Bellon E 2016](#bellon-e-2016)

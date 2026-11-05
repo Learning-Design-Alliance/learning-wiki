@@ -49,3 +49,4 @@ Mixed-design ANOVA within the same RCT reported no significant main effect of ti
 - [No supplemental intervention was significantly better than another, and gains were not tied to program type](no-significant-intervention-differences.md) — related
 - [Presentation condition does not differentially affect microstructure comprehension over five weeks, though VNT and NT groups improved while the text-only group did not](mics-pre-post-no-group-differential-effect.md) — related
 - [Neither the workshop nor the one-on-one intervention affected enrollment in the following semester](academic-planning-interventions-no-persistence-effect.md) — related
+- [Response accuracy on the KoKi test increased over time in all groups, with no significant group differences or TIME × GROUP interaction](koki-accuracy-no-group-differences.md) — related

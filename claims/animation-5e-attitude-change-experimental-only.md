@@ -56,3 +56,5 @@ Pre/post attitude scale comparison within each group in the quasi-experiment, us
 - [Practical competencies-oriented teaching materials do not significantly improve students' problem-solving attitude](practical-materials-no-problem-solving-attitude-gain.md) — related
 - [Web-assisted instruction with emotional intelligence content produced higher post-test academic achievement, environmental attitudes and emotional intelligence than traditional lecture in 8th-grade energy-saving instruction](web-assisted-ei-content-posttest-advantage.md) — related
 - [Virtual museum application significantly improved open education students' attitudes toward history lessons.](virtual-museum-application-improves-history-attitudes.md) — related
+- [Professional attitudes toward physiotherapy did not change under any instructional model](no-attitude-change-any-instructional-model.md) — related
+- [Scenario-based animation training produced higher post-test e-learning attitudes than routine skill video training, which alone did not change attitudes](rom-animation-higher-attitude.md) — related

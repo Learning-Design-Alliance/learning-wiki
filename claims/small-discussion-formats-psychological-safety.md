@@ -51,3 +51,4 @@ Theme 5 of the thematic analysis; students reported that discussion-based format
 - [Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)](students-interaction-empathy-perspective-taking.md) — related
 - [Fear of embarrassment and lack of psychological safety reduce nursing students' participation and retention in active learning activities](psychological-safety-barrier-active-learning-nursing.md) — related
 - [For some students, AI-generated feedback reduces the perceived personal risk of exposing weaknesses, functioning as a psychologically safe space for feedback seeking](ai-feedback-reduces-perceived-personal-risk.md) — related
+- [Undergraduate dental students perceive reflection and feedback as central mechanisms for monitoring progress and refining learning strategies in PBL](pbl-reflection-feedback-monitoring-progress.md) — related

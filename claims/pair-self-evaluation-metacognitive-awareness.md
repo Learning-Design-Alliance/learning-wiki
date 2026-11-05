@@ -53,3 +53,4 @@ Qualitative discussion of the pair's self-evaluation dimension (3.3 PSE), which 
 - [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](self-monitoring-improves-self-regulation.md) — a broader claim this one bears on
 - [EFL students interviewed after metacognitive strategy training said they had become more self-reliant in monitoring their writing processes and progress](metacognitive-training-increases-writing-self-monitoring.md) — related
 - [Traditional self-report methods face significant limitations in capturing the dynamic nature of SRL](self-report-srl-limitations-dynamic-nature.md) — related
+- [Undergraduate dental students perceive reflection and feedback as central mechanisms for monitoring progress and refining learning strategies in PBL](pbl-reflection-feedback-monitoring-progress.md) — related

@@ -48,3 +48,4 @@ Cross-sectional survey of 550 nursing students at Alexandria University, Egypt, 
 - [Self-directed learning, AI acceptance, and perceived clinical competence are mutually positively correlated](sdl-ai-acceptance-competence-correlations-nursing.md) — related
 - [AI acceptance partially mediates the relationship between self-directed learning ability and perceived clinical competence](ai-acceptance-partially-mediates-sdl-clinical-competence.md) — related
 - [Self-directed learning ability is positively associated with membership of the moderate- and high-level competency profiles rather than the low-level profile](self-directed-learning-ability-higher-competency-profiles.md) — related
+- [Self-directed learning is the strongest positive predictor of narrative competence among Chinese nursing students (β = 0.428)](self-directed-learning-strongest-predictor-narrative-competence-nursing-students.md) — related

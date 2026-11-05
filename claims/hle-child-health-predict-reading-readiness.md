@@ -9,7 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-10-19
+source_checked: 2026-11-05
 sources:
   - id: dilnot-2017
     resource: "http://dx.doi.org/10.1017/S0954579416000134"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2017 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Home literacy environment and child health together accounted for 11% of variance in reading readiness; SES was no longer significant once proximal factors were entered, which the authors read as suggesting mediation by home literacy environment; no formal mediation test was run. [→ Dilnot 2017](#dilnot-2017)

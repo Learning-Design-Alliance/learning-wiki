@@ -48,3 +48,4 @@ Objective simulator metric collected automatically from the bronchoscopy simulat
 - [Proportion of learners completing intubation in under 120 seconds rose from pre-test to post-test in one uncontrolled pre-post study](rcdp-simulation-increases-under-120-seconds-proportion.md) — related
 - [Checklist scores correlated positively with GRS but not with total procedure time](checklist-grs-correlation-afio.md) — related
 - [Simulation-based rapid-cycle deliberate practice curriculum improved GRS-rated awake fiberoptic intubation performance at three months](rcdp-simulation-improves-afio-grs.md) — related
+- [Post-training success rates in observed procedural skills rose markedly, reaching 100% in oxygen administration and fracture stabilization and 90% in endotracheal intubation](post-training-skill-success-rates-gains.md) — related

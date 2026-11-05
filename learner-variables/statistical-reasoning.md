@@ -13,7 +13,7 @@ generated:
 # Statistical Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 32 claims (25 show a difference, 5 mixed, 2 no difference) · 17 studies (10 causal, 3 review, 1 quant-synthesis, 1 associational, 1 qualitative, 1 design), `q2`–`q3` · 2 of 17 report an effect size · 32 claims rest on one study
+> **Evidence** · 33 claims (25 show a difference, 6 mixed, 2 no difference) · 18 studies (10 causal, 3 review, 2 qualitative, 1 quant-synthesis, 1 associational, 1 design), `q2`–`q3` · 2 of 18 report an effect size · 33 claims rest on one study
 
 ## Description
 Statistical reasoning is thinking about uncertainty and building mental models of real-world phenomena from data. The Learner Variability Navigator describes it as a cycle: learners pose a question about data, decide what data they need, gather it, organise, analyse and display it, and then describe what it shows and draw inferences to answer the question. It is assessed with questionnaires on understanding of variation (in chance settings such as dice, and in data and graphs) that pair multiple-choice items with written explanations, and with the data-analysis and probability subtests of diagnostic batteries.
@@ -70,6 +70,7 @@ LVN follows it from grade 3 to grade 10. It builds on [measurement](measurement.
 - [The tablet e-textbook experimental group significantly outperformed the traditionally taught control group on the post-test](../claims/tablet-etextbook-outperformed-traditional-posttest.md) [+M] — instruction changes it
 - [Pretest scores significantly predicted posttest scores, supporting the pretest as an ANCOVA covariate in this study](../claims/pretest-covariate-significant-ancova-games-study.md) [+M] — learners who differ on it differ in outcomes
 - [Post-test comparison shows the PBL group significantly outperformed the control group on analysis, openness and justice temperaments and analysis and interpretation skills](../claims/pbl-posttest-group-differences.md) [+M] — instruction changes it
+- [Within generating, students proposed hypotheses, managed discordant information, and determined final diagnoses, with wide variation in data use](../claims/generating-hypotheses-discordant-data-final-diagnoses.md) [~M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Statistical Variation Measure** (Watson et al., 2003): Questionnaire examining student understanding of statistical variation, including understanding of basic chance measurement and graph reading, variation in a chance setting (e.g., results of throwing a die), and variation in data and graphs. Students respond to multiple choice questions but also have space to explain their responses which allows for a more comprehensive measure of their understanding.

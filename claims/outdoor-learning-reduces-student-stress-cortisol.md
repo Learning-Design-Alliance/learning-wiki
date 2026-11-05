@@ -75,3 +75,4 @@ The review reports a null result from Greenwood and Gatersleben's RCT with 120 s
 - [Effects of nature exposure on divergent thinking are mixed: five of eight reviewed studies showed significant effects while others found null or partial effects](divergent-thinking-nature-effects-mixed.md) — related
 - Only a limited subset of student lifestyle-cognition studies include direct biological or psychophysiological measures — related
 - [CALM produced a steeper cortisol awakening response than control](calm-steeper-cortisol-awakening-response.md) — related
+- [Methylphenidate produces a three-way Group by Day by Treatment interaction on heart rate and blood pressure, confirming the drug's physiological effect](mph-cardiovascular-three-way-interaction.md) — related

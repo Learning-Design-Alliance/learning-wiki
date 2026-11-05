@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 175 claims (134 show a difference, 27 mixed, 14 no difference) · 90 studies (41 causal, 20 associational, 13 review, 8 quant-synthesis, 4 design, 2 qualitative, 2 theoretical), `q1`–`q3` · 19 of 90 report an effect size · 173 claims rest on one study
+> **Evidence** · 182 claims (140 show a difference, 28 mixed, 14 no difference) · 92 studies (41 causal, 22 associational, 13 review, 8 quant-synthesis, 4 design, 2 qualitative, 2 theoretical), `q1`–`q3` · 19 of 92 report an effect size · 180 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -210,6 +210,13 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [NHT learning yields a higher normalized gain in mathematical creative thinking ability than conventional learning](../claims/nht-higher-normalized-gain-than-conventional.md) [+M] — measured as an outcome of the instruction studied
 - [NHT outperforms conventional learning on creative thinking gains at both high and medium school ranks](../claims/nht-gains-across-school-ranks.md) [+M] — measured as an outcome of the instruction studied
 - [Students taught with the Numbered Heads Together model show greater improvement in mathematical creative thinking ability than students taught with conventional learning](../claims/nht-improves-mathematical-creative-thinking.md) [+M] — measured as an outcome of the instruction studied
+- [Achievement status moderates the divergent thinking–GPA association, which is stronger among high-achieving students](../claims/achievement-status-moderates-divergent-thinking-gpa.md) [~M] — learners who differ on it differ in outcomes
+- [Convergent thinking, divergent thinking, and openness jointly explain incremental variance in GPA beyond age and sex (ΔR² = 0.13)](../claims/thinking-personality-model-incremental-gpa-variance.md) [+M] — learners who differ on it differ in outcomes
+- [Creative thinking has a significant direct effect on organizational maturity controlling for demographics](../claims/creative-thinking-direct-effect-organizational-maturity.md) [+M] — learners who differ on it differ in outcomes
+- [Creative thinking is positively associated with experiential learning among knowledge management professionals](../claims/creative-thinking-positively-associated-experiential-learning.md) [+M] — learners who differ on it differ in outcomes
+- [Creative thinking is positively associated with organizational maturity among knowledge management professionals](../claims/creative-thinking-positively-associated-organizational-maturity.md) [+M] — learners who differ on it differ in outcomes
+- [Divergent thinking positively predicts GPA among medical students in a PBL curriculum (β = 0.25)](../claims/divergent-thinking-predicts-medical-student-gpa.md) [+M] — learners who differ on it differ in outcomes
+- [Experiential learning partially mediates the relationship between creative thinking and organizational maturity](../claims/experiential-learning-partially-mediates-creative-thinking-maturity.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

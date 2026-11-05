@@ -55,3 +55,4 @@ Subgroup analyses were performed according to discipline, item type, and learner
 - [The Modified Angoff method was acceptable for setting different pass marks for senior and junior residents on the same OSCE](modified-angoff-different-pass-marks.md) — related
 - [Faculty- and LLM-derived Angoff cutoff scores produced identical pass and fail classifications](identical-pass-fail-classifications-faculty-llm-angoff.md) — related
 - [Students' self-assessment of performance broadly aligned with examination outcomes but showed a tendency toward underestimation](whisper-exam-self-assessment-underestimation.md) — related
+- [Role-dependent rating differences: faculty emphasize Importance, residents prioritize Feasibility, postgraduates rate Clarity slightly higher](role-dependent-rating-differences-three-groups.md) — related

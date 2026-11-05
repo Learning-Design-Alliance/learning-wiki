@@ -57,6 +57,7 @@ The article recommends institutional-level responses to staff survey findings: c
 - [Implement preventative measures: student awareness programs and regular professional development training for educators](chatbot-preventative-measures-strategy.md)
 - [Institutions should adopt clear, prominently displayed AI policies and cultivate AI literacy for ethical, employability-oriented use](clear-ai-policies-and-ai-literacy-strategy.md)
 - [Provide AI literacy training, human-AI interaction opportunities, and ethical-use guidelines and policies for instructional designers](ai-literacy-training-ethical-genai-guidelines-ids.md)
+- [Institutions should actively disseminate exemplar prompts and provide secure platforms, faculty development, and quality-assurance mechanisms](institutional-responsibilities-genai-item-writing.md)
 
 ## Examples
 -

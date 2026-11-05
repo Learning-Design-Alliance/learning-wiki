@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 276 claims (208 show a difference, 38 mixed, 30 no difference) · 220 studies (72 causal, 69 associational, 32 review, 19 qualitative, 10 quant-synthesis, 10 design, 7 theoretical), `q1`–`q4` · 46 of 220 report an effect size · 272 claims rest on one study
+> **Evidence** · 283 claims (215 show a difference, 38 mixed, 30 no difference) · 226 studies (75 causal, 70 associational, 32 review, 21 qualitative, 10 quant-synthesis, 10 design, 7 theoretical), `q1`–`q4` · 47 of 226 report an effect size · 279 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -307,6 +307,13 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Teaching self-efficacy positively predicts perceived teacher competence and job satisfaction](../claims/self-efficacy-predicts-competence-satisfaction.md) [+M] — learners who differ on it differ in outcomes
 - [PHTLS-trained professionals report lower self-perceived competence than non-trained peers](../claims/phtls-training-lower-self-perceived-competence.md) [+M] — measured as an outcome of the instruction studied
 - [Perceived organizational support and self-efficacy form a chain mediation from job burnout to emergency response competence, accounting for 15.67% of the total effect](../claims/chain-mediation-pos-self-efficacy-burnout-competence.md) [+W] — learners who differ on it differ in outcomes
+- [Focus group interviews at 1 and 5 months suggest perceived transfer of desaturation management learning to clinical practice, with rising self-rated ability](../claims/fgi-perceived-learning-transfer.md) [+W] — measured as an outcome of the instruction studied
+- [Practice frequency and perceived competence were positively but weakly correlated (Spearman's r = 0.303, p = 0.019)](../claims/practice-frequency-perceived-competence-correlation.md) [+M] — learners who differ on it differ in outcomes
+- [SHAP analysis identifies undergraduate GPA rank as the most influential predictor, followed by gender, confidence, undergraduate score average, and CET-4 performance](../claims/shap-undergrad-gpa-rank-strongest-predictor.md) [+M] — learners who differ on it differ in outcomes
+- [Self-reported perceived competence scores among paramedic students were significantly higher after simulation-based education than before it across all assessed skill areas, in one uncontrolled pre-post study](../claims/simulation-training-increased-perceived-competence.md) [+M] — measured as an outcome of the instruction studied
+- [Students attributed competencies in teamwork, time management, quick thinking, critical thinking, communication, and confidence to team-based gamified quizzing](../claims/student-reported-competencies-gamified-quizzing.md) [+M] — measured as an outcome of the instruction studied
+- [The FC-TBL seminar improved all five research self-efficacy dimensions, including collective research efficacy and theoretical research application](../claims/fc-tbl-seminar-improves-all-self-efficacy-dimensions.md) [+M] — measured as an outcome of the instruction studied
+- [Undergraduate dental students perceive that PBL builds self-efficacy, moving from initial uncertainty toward confidence in independent learning](../claims/pbl-builds-self-efficacy-from-uncertainty.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

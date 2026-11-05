@@ -65,3 +65,4 @@ Focus-group findings (Further development theme, 11 codes). Teachers cited Wi-Fi
 - [Students experienced technical challenges, internet issues and navigation issues during engagement with online simulation approaches](students-experienced-technical-internet-navigation-issues.md) — related
 - [VM users cited internet access and its cost as the main obstacles to using virtual microscopy](vm-users-internet-cost-obstacles.md) — related
 - [Qualitative analysis identifies realism, usability, technical performance, social presence, and engagement as key experience themes with the VP system](qualitative-vp-experience-themes.md) — related
+- [First-year AI simulation deployment faced operational challenges: unstable Wi-Fi disrupted sessions, background noise interfered with speech recognition, and missing dynamic nonverbal cues reduced realism](ai-sim-operational-challenges-uae.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-19
+source_checked: 2026-11-05
 sources:
   - id: hong-qu-2026
     resource: "https://doi.org/10.48550/arxiv.2609.18505"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Students and the instructor described pre-class videos as building procedural readiness for studio work, and used GenAI mainly to explore visual directions rather than to guide technical decisions. [→ Hong Qu 2026](#hong-qu-2026)

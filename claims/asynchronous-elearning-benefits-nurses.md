@@ -51,3 +51,4 @@ Conventional content analysis (Hsieh and Shannon method) of the 60 included arti
 - [Most students preferred receiving corrective feedback online via email, with ease of submission and time saving the leading reasons](students-prefer-online-corrective-feedback.md) — related
 - [Medical students perceived asynchronous videos as facilitating prior preparation for hands-on practice by allowing flexible, self-paced review of procedural steps.](asynchronous-videos-support-preparation-for-hands-on-practice.md) — a narrower finding that bears on this claim
 - [ICM students rated time flexibility and overall flexibility significantly higher than frontal-teaching students](icm-higher-flexibility-ratings-dental.md) — related
+- [The authors interpret the OLM's advantages as stemming primarily from learner autonomy and asynchronicity rather than online delivery per se](autonomy-asynchronicity-interpretation-olm-advantage.md) — related

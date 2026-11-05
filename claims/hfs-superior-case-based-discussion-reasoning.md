@@ -66,3 +66,4 @@ Narrative review assertion attributed to the included primary studies (Moliterno
 - [High-fidelity SBL does not outperform low-fidelity SBL on knowledge and skill gains, per one study the review cites](high-fidelity-not-superior-to-low-fidelity-sbl.md) — reports the opposite
 - [Simulation-based learning consistently improves nursing students' knowledge and skills acquisition across diverse designs and simulation topics](sbl-improves-nursing-knowledge-skills-acquisition.md) — related
 - [In situ simulated emergency training added to routine training raises self-rated clinical reasoning in junior nurses](in-situ-set-improves-clinical-reasoning-junior-nurses.md) — related
+- [Authors position SKIT as excelling at non-technical skills while high-fidelity simulation outperforms it for fine procedural skills](skit-versus-hfs-vr-positioning.md) — related

@@ -56,3 +56,5 @@ In this RCT, baseline MRT and anatomical knowledge tests showed no significant c
 - [Time to visualize the PLAX view is longer in the XR training group than the standard group](xr-training-slower-plax-acquisition.md) — related
 - [XR-based POCUS training is non-inferior to standard training for EPSS measurement accuracy](xr-training-non-inferior-epss.md) — related
 - [XR-based POCUS training is non-inferior to standard training for TAPSE measurement accuracy](xr-training-non-inferior-tapse.md) — related
+- [Visuospatial ability (MRT-A) was not significantly associated with competency improvement in this HoloLens tutorial format](mrt-a-not-associated-competency-gain-hololens.md) — related
+- [Visuospatial ability (MRT-A) was not significantly associated with perceived usability (SUS) of the HoloLens 2](mrt-a-not-associated-sus-score.md) — related

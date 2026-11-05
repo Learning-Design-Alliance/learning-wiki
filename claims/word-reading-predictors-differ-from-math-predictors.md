@@ -49,3 +49,4 @@ Discriminant-validity Bayesian analyses ran the same predictor sets on Word Read
 - [Visuospatial memory did not predict word reading achievement in any grade, providing a discriminative contrast with mathematics](visuospatial-memory-not-predict-word-reading.md) — possibly the same claim (merge candidate)
 - [Intelligence and working memory predicted seventh-grade mathematics before prior achievement was controlled, but their direct effects were masked by sixth-grade competence](intelligence-working-memory-masked-by-prior-knowledge.md) — related
 - [Previous domain knowledge accounts for most of the variance in later achievement, considerably reducing the predictive impact of IQ and WM](domain-knowledge-dominates-later-achievement.md) — related
+- [Visuospatial ability (MRT-A) was not significantly associated with competency improvement in this HoloLens tutorial format](mrt-a-not-associated-competency-gain-hololens.md) — related

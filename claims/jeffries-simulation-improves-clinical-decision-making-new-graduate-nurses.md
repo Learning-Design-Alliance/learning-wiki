@@ -8,7 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-11-04
 evidence_strength: moderate
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: luo-wenjing-2026
     title: Luo Wenjing 2026
@@ -22,7 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
-> **Currency** · no dated study recorded · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · no dated study recorded · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Total CDMNS clinical decision-making scores increased significantly from pre- to post-training in a single-group design (mean difference 7.23 ± 4.17 points, Cohen's d = 1.62, p < 0.001); with no control group, the gain cannot be attributed to the simulation alone. [→ Luo Wenjing 2026](#luo-wenjing-2026)

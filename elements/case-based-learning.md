@@ -13,7 +13,7 @@ generated:
 # Case-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 17 claims (11 for, 4 mixed, 2 against) · 27 studies (14 causal, 6 review, 4 quant-synthesis, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 27 report an effect size · 11 claims rest on one study
+> **Evidence** · 19 claims (13 for, 4 mixed, 2 against) · 28 studies (14 causal, 6 review, 4 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 7 of 28 report an effect size · 13 claims rest on one study
 
 ## Description
 Case-based learning places learners in the role of analyst or decision-maker confronting a realistic scenario — a patient presentation, a business dilemma, a legal dispute — and asks them to apply theoretical concepts to interpret it and choose a course of action. The case functions as an authentic problem context in which abstract principles must be retrieved, adapted, and defended rather than merely recalled.
@@ -64,6 +64,8 @@ Case-based learning improves exam performance and supports transfer by forcing l
 - [A case-based learning module on pediatric bacterial meningitis produced statistically significant pre/post knowledge gains in postgraduate learners](../claims/cbl-pediatric-meningitis-knowledge-gains.md) [+W] — attached 2026-11-04 from Huynh G et al. (2026), which proposed "Open-access pediatric bacterial meningitis CBL module with facilitator guide, trainee case, and pre/post quizzes".
 - [Learners rated the CBL module highly, with 100% reporting learning objectives were met and 93.5% endorsing anticipated practice change](../claims/cbl-pediatric-meningitis-learner-ratings.md) [+W] — attached 2026-11-04 from Huynh G et al. (2026), which proposed "Open-access pediatric bacterial meningitis CBL module with facilitator guide, trainee case, and pre/post quizzes".
 - [Instructors show higher willingness to adopt CBL than LBL for future clinical teaching](../claims/cbl-higher-instructor-adoption-willingness.md) [~W]
+- [Students perceive case-based learning in preclinical physiology as more engaging and motivating than traditional didactic lectures in a resource-limited setting](../claims/cbl-perceived-more-engaging-than-lectures.md) [+W] — attached 2026-11-05 from Ahmed et al. (2026), which proposed "Case-based learning as implemented in preclinical physiology at a resource-limited public-sector medical university".
+- [Students perceive that contextualizing physiology in clinical cases improves conceptual clarity, retention and understanding of abstract mechanisms](../claims/cbl-perceived-conceptual-clarity-retention.md) [+W] — attached 2026-11-05 from Ahmed et al. (2026), which proposed "Case-based learning as implemented in preclinical physiology at a resource-limited public-sector medical university".
 
 ## The evidence by question
 - *Does teaching through realistic cases, by itself, raise learning?* [Case-based learning improves exam performance](../claims/case-based-learning-improves-exam-performance.md) [+M]

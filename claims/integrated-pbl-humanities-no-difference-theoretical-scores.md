@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: wang-sufen-2026
     resource: "https://doi.org/10.1186/s12909-026-09701-x"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` After adjustment for class-level clustering using linear mixed-effects models, no significant between-group difference was observed in post-intervention theoretical examination scores (P = 0.122). [→ Wang Sufen 2026](#wang-sufen-2026)
@@ -56,3 +56,4 @@ Cluster-randomized controlled trial with four classes of second-year anesthesiol
 - [IWCL+CBL and LBL+CBL produce no significant overall difference in specialty physical examination proficiency in an otolaryngology clerkship](iwcl-cbl-no-difference-physical-exam-proficiency.md) — related
 - [PBL-DeepSeek students achieve higher theoretical examination scores than traditionally taught students in a glaucoma clerkship](deepseek-pbl-higher-theory-scores-glaucoma.md) — reports the opposite
 - [AI-assisted PBL-CBL combined teaching raises medical interns' theoretical examination scores in post-herpetic neuralgia compared with lecture-based teaching](ai-pbl-cbl-improves-theoretical-examination-scores.md) — related
+- [The PBL-CBL group achieved significantly higher total post-course test scores than the traditional LBL group in fundamental nursing](pbl-cbl-higher-total-test-scores-anaphylactic-shock.md) — related

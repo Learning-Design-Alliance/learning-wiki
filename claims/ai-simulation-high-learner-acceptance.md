@@ -62,3 +62,5 @@ Synthesis of acceptance evidence from 8 studies using standardized instruments (
 - [The DCBL platform achieved marginal-to-average usability (mean SUS 62.4) with moderate cognitive workload](dcbl-platform-usability-sus-workload.md) — a narrower finding that bears on this claim
 - [Student perceptions of peer instruction were generally favorable.](pi-favorable-student-perceptions.md) — related
 - [Providers are highly receptive to AKI guideline implementation, with acceptability scores averaging 29.1/30 and 89.8% expressing willingness to follow guidelines.](high-guideline-acceptability-aki-rwanda.md) — related
+- [AR participants rated the remote AR system usable, with an average SUS score of 73.8](remote-ar-sus-usability-73-8.md) — related
+- [Most students express positive attitudes and willingness toward virtual simulation training, but a substantial minority doubt it can match real clinical practice](student-attitudes-virtual-simulation-survey.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: weak
 newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: weitekamp-2020
     resource: "https://doi.org/10.1007/978-3-030-52237-7_47"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · n=117 students
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 Simulated learners are computational agents that learn from a tutoring system the way a student does, and are proposed for testing tutors, authoring them and giving teachers practice. This claim is about how faithfully one such system reproduces real students' errors, which bears on how far a design decision can rest on a simulated learner's behaviour.
 

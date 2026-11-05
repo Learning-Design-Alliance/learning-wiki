@@ -52,3 +52,5 @@ Thai-version UEQ administered post-training to the 20 residents; results were be
 - [User experience favored attractiveness, stimulation, and novelty, but IPQ involvement was unsatisfactory and realism only satisfactory](ncpr-vr-ueq-ipq-profile.md) — related
 - [Structured prompting raises perceived interaction clarity and dependability but reduces perceived novelty of AI-supported learning](prompting-raises-perspicuity-dependability-lowers-novelty.md) — related
 - [UEQ-S user-experience ratings were positive across tasks except one hedonic item on Task 1, with pragmatic qualities rated higher than hedonic](nev-ueq-positive-except-task1-hedonic.md) — related
+- [The EyelearnMR platform received positive User Experience Questionnaire evaluations for attractiveness, efficiency, dependability, stimulation, and novelty, with perspicuity neutral](eyelearnmr-positive-ueq-evaluations.md) — related
+- [User Experience Questionnaire evaluations did not differ significantly between the EyelearnMR and control groups](no-ueq-difference-between-arms.md) — related

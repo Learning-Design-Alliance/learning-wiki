@@ -102,3 +102,4 @@ Observational and interview study of four after-school sites; educators reported
 - [Logistical issues, particularly discussions cut short by the central coordinator and insufficient expert panel time, are the most frequently raised limitations of integrated TBL by students.](logistical-issues-most-frequent-tbl-limitation.md) — related
 - [Controller-operation difficulty was the most commonly reported challenge and may have impeded immersion](ncpr-vr-controller-difficulty-feedback.md) — related
 - [VSG students reported predominantly positive views of the game, with technical glitches the most common criticism](vsg-student-opinions-positive-with-technical-glitches.md) — related
+- [First-year AI simulation deployment faced operational challenges: unstable Wi-Fi disrupted sessions, background noise interfered with speech recognition, and missing dynamic nonverbal cues reduced realism](ai-sim-operational-challenges-uae.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-09-26
 evidence_strength: moderate
 newest_evidence: 2021
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 recheck_by: 2024
 sources:
   - id: honig-2021
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
-> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2024**: local conditions change quickly
+> **Currency** · newest study 2021 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2024**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` CoI survey grand means for teaching presence (M = 4.01), cognitive presence (M = 4.08), and social presence (M = 4.24) confirmed that MBA students perceived all three presences in their courses. [→ Honig 2021](#honig-2021)

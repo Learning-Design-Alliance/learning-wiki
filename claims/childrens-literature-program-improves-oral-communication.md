@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: strong
 newest_evidence: 2015
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: abdelhalim-2015
     resource: "https://doi.org/10.5539/elt.v8n2p178"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2015 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Experimental groups significantly outperformed the control group on the oral interpersonal communication test post-test (η² = .85). [→ Abdelhalim 2015](#abdelhalim-2015)

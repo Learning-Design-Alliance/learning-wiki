@@ -56,3 +56,4 @@ Hierarchical regression (Step 1) on first-year GPA in a sample of 386 Spanish un
 - [Conscientiousness is robustly associated with academic performance across primary, secondary, and tertiary education, with openness the next strongest predictor](conscientiousness-predicts-academic-performance-review.md) — related
 - [Both conscientiousness (β = .25) and openness (β = .17) are positively associated with GPA in adjusted models](gpa-associated-with-conscientiousness-and-openness.md) — related
 - [A three-predictor regression model (Source, APTTD, positive emotion) explains 32% of variance in group project grades](regression-model-32-percent-variance-grades.md) — related
+- [Convergent thinking, divergent thinking, and openness jointly explain incremental variance in GPA beyond age and sex (ΔR² = 0.13)](thinking-personality-model-incremental-gpa-variance.md) — related

@@ -87,3 +87,4 @@ RM-ANOVA on percent correct on the flanker task (congruent vs. incongruent, T1 v
 - [Growth mindset is unrelated to the ERN (early, automatic error-processing component) in children](mindset-unrelated-ern-children.md) — related
 - [Growth mindset endorsement is associated with larger Pe amplitude (greater attention to errors) in school-aged children](growth-mindset-larger-pe-children.md) — related
 - [Growth mindset endorsement is associated with higher post-error accuracy but not post-correct accuracy in children](growth-mindset-post-error-accuracy-children.md) — related
+- [Response accuracy on the KoKi test increased over time in all groups, with no significant group differences or TIME × GROUP interaction](koki-accuracy-no-group-differences.md) — related

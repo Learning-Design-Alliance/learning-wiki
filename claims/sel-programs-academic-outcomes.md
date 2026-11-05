@@ -9,7 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2023
-source_checked: 2026-10-27
+source_checked: 2026-11-05
 sources:
   - id: madeline-b-harms-and-sherona-d-garrett-ruffin-2023
     resource: "https://doi.org/10.1038/s41539-023-00199-2"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
-> **Currency** · newest study 2023 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Multi-country meta-analytic studies indicate largely positive effects of SEL programs on academic outcomes and long-lasting impacts on socio-emotional skills and high school graduation rates. [→ Madeline B. Harms and Sherona D. Garrett-Ruffin 2023](#madeline-b-harms-and-sherona-d-garrett-ruffin-2023)

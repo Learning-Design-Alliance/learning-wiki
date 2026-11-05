@@ -9,6 +9,7 @@ generated:
   at: 2026-10-07
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-05
 sources:
   - id: khan-abdus-salam-2025
     resource: "https://doi.org/10.7759/cureus.94133"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` The 4C/ID group achieved higher mean OSCE scores than the lecture group, but the difference was not statistically significant (ANCOVA partial eta squared = 0.084, p = 0.215). [→ Khan Abdus Salam 2025](#khan-abdus-salam-2025)

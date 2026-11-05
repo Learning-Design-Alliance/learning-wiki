@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: avcu-cagla-and-yildiz-tülin-2026
     resource: "https://doi.org/10.1111/iwj.71068"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Post-training knowledge scores were significantly higher in the experimental group than the control group (p < 0.001, r = 0.463). [→ Avcu Cagla and Yildiz Tülin 2026](#avcu-cagla-and-yildiz-tulin-2026)

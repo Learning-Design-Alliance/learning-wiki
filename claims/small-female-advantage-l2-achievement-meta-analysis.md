@@ -50,3 +50,4 @@ Three-level random-effects meta-analysis of 137 effect sizes from 41 studies (cu
 - [Achievement differences favor females over males under both teaching conditions, with a small effect](tps-gender-difference-favor-females.md) — a narrower finding that bears on this claim
 - [Male students report slightly higher SDL-R than female students, with small effect sizes and no difference in interpersonal communication](sex-differences-sdlr-small-effect-sizes.md) — related
 - [Female bachelor's thesis students in pedagogy at one Norwegian university show systematically higher cumulative grade distributions than male students over a decade (N = 924)](female-higher-cumulative-grades-pedagogy-bachelor-thesis.md) — related
+- [Female participants report slightly higher overall retrospective CRM learning gains than male participants](gender-difference-retrospective-crm-gain.md) — a narrower finding that bears on this claim

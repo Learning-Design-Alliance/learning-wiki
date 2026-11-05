@@ -52,3 +52,4 @@ Pilot randomized pretest–posttest study of 35 medical interns (VR n=17, manneq
 - [VR group showed numerically greater trauma-management error reduction than the mannequin group in exploratory comparison](vr-eye-tracking-greater-error-reduction-pilot.md) — related
 - [Both modalities significantly improved ATLS performance and reduced error scores within groups](both-modalities-improved-atls-and-errors-within-groups.md) — related
 - [Students trained via VR report significantly greater satisfaction than students trained on real patients or a mannequin](vr-training-greater-satisfaction-ecg-training.md) — related
+- [In the M5 handover exercise, 71.2% of medical students successfully managed a prescribed interruption](m5-interruption-management-71-percent.md) — related

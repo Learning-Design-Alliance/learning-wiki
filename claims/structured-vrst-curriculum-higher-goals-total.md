@@ -56,3 +56,4 @@ Prospective comparative study of 71 novice trainees (19 intervention, 52 control
 - [Trainees show significant post-training improvements in self-assessed laparoscopic skills including hand–eye coordination, bimanual dexterity, energy device use and suturing](post-training-self-assessed-laparoscopic-skill-improvements.md) — related
 - [Depth perception is the GEARS subdomain that significantly improves with simulator training, while bimanual dexterity and efficiency show non-significant positive trends](depth-perception-significant-gains-simulator-training.md) — related
 - [The K technique exercise stimulates five of six GEARS skill domains](k-technique-stimulates-five-gears-domains.md) — related
+- [Hybrid simulation-based training yields higher post-intervention suturing skill scores than routine mannequin training (P = 0.013, Cohen's d > 0.80)](hybrid-simulation-higher-suturing-scores-than-routine-training.md) — related

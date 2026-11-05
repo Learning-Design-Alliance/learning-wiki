@@ -55,3 +55,4 @@ Multivariate linear regression on the matched sample (n=80) adjusting for baseli
 - [Medical interns in a 3D printing-assisted family-school-hospital programme had higher social medical curiosity scores after baseline adjustment than a non-randomised traditional-teaching group](fsph-3d-model-improves-social-medical-curiosity.md) — related
 - [The AI-VSP score advantage is no longer significant after adjusting for baseline performance and training frequency](ai-vsp-advantage-attenuated-ancova-frequency.md) — reports the opposite
 - [AI-VSP training yields higher post-intervention SEGUE total and Content scores than traditional SP training](ai-vsp-higher-total-content-segue-scores.md) — reports the opposite
+- [Clinical interview skills improved significantly from baseline to post-intervention only in the VSP group, not in the control group](vsp-group-within-group-interview-skill-gain.md) — related

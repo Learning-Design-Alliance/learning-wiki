@@ -54,3 +54,4 @@ Inter-rater reliability assessment of the concept image rubric, with all protoco
 - [The checklist assessment showed strong interrater reliability, contributing validation evidence](checklist-interrater-reliability-kappa-0875.md) — related
 - [Expert human raters established an inter-rater reliability benchmark above ICC 0.89 on all four IELTS dimensions for the essay corpus](human-inter-rater-benchmark-icc-above-089-essays.md) — related
 - [Gamification-supported teaching has a substantive effect on pre-service teachers' concept images of curriculum elements, with large effect sizes for content (d = 1.59) and total score (d = 2.04)](gamification-effect-concept-images-curriculum-elements.md) — related
+- [Blinded mQSAT reviewers showed only slight-to-moderate interrater agreement, suggesting assessment tools need cross-modality validation](mqsat-cross-modality-interrater-reliability.md) — related

@@ -49,3 +49,4 @@ Table 6 survey of teacher preferences among eight material types; 75% preferred 
 - [Iranian EFL learners at pre-intermediate proficiency level hold positive attitudes toward authentic listening materials](pre-intermediate-iranian-efl-learners-positive-attitudes-authentic-listening.md) — related
 - [Most teachers prefer listening classes combining both authentic and simplified materials rather than either type alone](teachers-prefer-mix-authentic-simplified-materials.md) — related
 - [Teachers rank language level, student interests, and student needs as top criteria for selecting authentic listening materials](teacher-criteria-selecting-authentic-listening-materials.md) — related
+- [Sixty-eight percent of students preferred the cartooning activity over learning in a traditional question-and-answer format](students-prefer-cartooning-over-traditional-format.md) — related

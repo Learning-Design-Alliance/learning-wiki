@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: weak
 newest_evidence: 2017
+source_checked: 2026-11-05
 sources:
   - id: monika-geist-2017
     resource: "https://doi.org/10.14746/ssllt.2017.7.3.6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of the LREs identified in think-aloud protocols during an L2 writing task, the majority were lexical and only a minority were grammar-related. [→ Monika Geist 2017](#monika-geist-2017)

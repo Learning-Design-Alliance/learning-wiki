@@ -49,3 +49,4 @@ Descriptive analysis (Table 1, n = 130): 85 students (65.4%) had PSQI > 5 versus
 - [Good sleepers have significantly higher GPA than poor sleepers among male university students (d = 0.93)](good-vs-poor-sleepers-gpa-difference.md) — related
 - [Higher physical activity is strongly positively correlated with GPA while worse sleep quality is moderately negatively correlated](pa-sleep-gpa-bivariate-correlations.md) — related
 - [Good sleep quality is associated with better academic achievement among Ethiopian university students](sleep-quality-associated-academic-achievement-ethiopia.md) — related
+- [80.9% of health-related faculty students had poor sleep quality (PSQI > 5) when surveyed during the exam period](poor-sleep-quality-prevalence-health-students-giresun.md) — related

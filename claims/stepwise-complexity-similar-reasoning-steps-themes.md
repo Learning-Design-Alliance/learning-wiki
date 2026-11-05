@@ -48,3 +48,4 @@ Thematic analysis of three group interviews (n = 8) conducted by an external int
 - [Students rated the integrated VP session positively, with role modelling (M = 4.44) and varied case practice (M = 4.35) rated higher than “what-if” discussions (M = 3.76)](positive-perceptions-vp-role-modelling-varied-cases-what-if.md) — related
 - [Students perceived reflective “what-if” discussions and peer dialogue around VP feedback as supporting abstraction of underlying principles](what-if-peer-dialogue-abstraction-perceptions.md) — related
 - [The experimental group reported a higher maximum case-complexity stage than the control group in an exploratory self-reported analysis.](experimental-group-higher-self-reported-case-complexity-stage.md) — related
+- [Students perceive case-based learning as developing early clinical reasoning and critical thinking in the preclinical years](cbl-perceived-clinical-reasoning-development.md) — a broader claim this one bears on

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2018
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: hew-khe-foon-lo-chung-kwan-2018
     resource: "https://doi.org/10.1186/s12909-018-1144-z"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4` · `i1` small
-> **Currency** · newest study 2018 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i1` Across 28 comparative studies, learning outcomes favored flipped classrooms over traditional classrooms with a pooled standardized mean difference of 0.33 (95% CI 0.21–0.46, p < 0.001). [→ HEW Khe Foon; LO Chung Kwan 2018](#hew-khe-foon-lo-chung-kwan-2018)

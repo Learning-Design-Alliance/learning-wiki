@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: iwamoto-2017
     resource: "https://eric.ed.gov/?id=EJ1145220"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Exam scores of the section using Kahoot quizzes differed significantly from those of the control section, which reviewed with a study guide and a lecture-based review session; the authors describe the difference as improved performance but print no group means. [→ Iwamoto 2017](#iwamoto-2017)
@@ -54,3 +54,4 @@ Pilot quasi-experimental action research study with 49 undergraduate psychology 
 - [Ten weeks of Kahoot! clicker use produced significantly higher ESP post-test scores than the same instruction without clickers](clicker-use-higher-esp-posttest-scores.md) — related
 - [Lecturer-generated summaries spliced into online video lectures improve student recall of lecture content on quizzes](lecturer-generated-summaries-improve-video-recall.md) — related
 - [Engagement with online quizzes is associated with higher practical exam scores](quiz-engagement-linked-to-practical-exam.md) — related
+- [Mid-stake end-of-block assessment scores were significantly higher in the Kahoot!-gamified cardiovascular module than in the non-gamified respiratory module (median paired difference 4.89%, r = 0.31)](kahoot-gamified-module-higher-assessment-scores.md) — related

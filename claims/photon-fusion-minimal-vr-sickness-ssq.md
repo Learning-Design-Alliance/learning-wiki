@@ -59,3 +59,4 @@ SSQ administered after the lab session; Table I reports nausea 3.18 (SD 4.77), o
 - [VR use in anatomy learning can cause adverse effects and disorientation for some learners](vr-anatomy-adverse-effects-cybersickness.md) — related
 - [VR participants report more technical issues and cybersickness symptoms than slideshow participants](vr-technical-issues-cybersickness.md) — related
 - [Simulator sickness was low (median SSQ 1.9) with no serious adverse events](ncpr-vr-low-simulator-sickness.md) — related
+- [Participants rated the VR learning experience positively with minimal cybersickness, yet most did not prefer VR over prosection as a drawing reference](vr-satisfaction-but-not-preferred-reference.md) — related

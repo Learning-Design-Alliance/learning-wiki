@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Baseline 3D spatial test scores were an independent predictor of final performance in camera navigation (p = 0.003) and hand–eye coordination (p = 0.009). [→ Lepka Piotr 2026](#lepka-piotr-2026)

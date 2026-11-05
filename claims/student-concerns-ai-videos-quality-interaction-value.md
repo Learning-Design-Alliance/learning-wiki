@@ -54,3 +54,4 @@ Inductive thematic analysis of open-ended responses. Theme 1 (low content qualit
 - [Students perceived AIvaluate assessments as reducing social pressure and offering flexible pacing and ease of use, but noted technical challenges and lack of dynamic human interaction](aivaluate-thematic-advantages-and-limitations.md) — related
 - [Post-interaction reflections reveal four preference themes: AI as formative learning aid, preference for human authority, conditional acceptance, and skepticism about educational impact](four-themes-post-evaluation-ai-reflections.md) — related
 - [Students most often value study groups for learning from others (38%) and collaboration (32%), but stated reasons do not predict exam performance](reasons-valuing-study-groups-no-exam-effect.md) — related
+- [Student thematic analysis yielded three themes: educational applications, opportunities of AI use, and challenges and suggestions](student-themes-ai-scenario-feedback.md) — related

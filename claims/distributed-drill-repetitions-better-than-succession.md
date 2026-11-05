@@ -9,7 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 1916
-source_checked: 2026-10-24
+source_checked: 2026-11-05
 sources:
   - id: j-d-heilman-1916
     resource: "https://doi.org/10.1037/h0073918"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 1916 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 1916 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Investigations on learning show that well-distributed repetitions in drill work give better results than many repetitions made in succession. [→ J. D. Heilman 1916](#j-d-heilman-1916)

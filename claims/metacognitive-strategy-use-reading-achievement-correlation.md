@@ -9,6 +9,7 @@ generated:
   at: 2026-09-28
 evidence_strength: moderate
 newest_evidence: 2011
+source_checked: 2026-11-05
 sources:
   - id: thao-m-t-nguyen-and-lap-q-trinh-2011
     resource: "https://doi.org/10.26634/jelt.1.1.1348"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Pearson correlation between metacognitive strategy use and reading achievement was positive and statistically significant (r = .54, p = .00), though the authors note it was not very strong. [→ Thao M. T. Nguyen and Lap Q. Trinh 2011](#thao-m-t-nguyen-and-lap-q-trinh-2011)

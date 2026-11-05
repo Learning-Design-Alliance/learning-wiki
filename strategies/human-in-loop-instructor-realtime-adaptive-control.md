@@ -43,6 +43,7 @@ A specific future-direction recommendation: because a fully automated system may
 - [Incorporate an expert human in the loop to support LLM coding of difficult adjacent coding categories](expert-human-in-loop-for-llm-pck-coding.md)
 - [Prioritize inclusive-by-design architectures, interoperable agent frameworks, human-AI collaboration models, and real-world implementation studies](future-directions-inclusive-by-design-agentic-ai.md)
 - [Integrate GPT models into LA-supported feedback systems with an iterative instructor-student validation loop to improve reliability](iterative-validation-loop-gpt-feedback-systems.md)
+- [Integrate AI tools into A-SPIRE's practical stages as an adjunct to human expertise, with ethical oversight](ai-integration-into-a-spire-practical-stages.md)
 
 ## Examples
 -

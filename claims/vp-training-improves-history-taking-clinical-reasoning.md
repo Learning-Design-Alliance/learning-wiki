@@ -58,3 +58,4 @@ Pre-post intervention analysis of the 50-resident single-group cohort using pair
 - [Clinical reasoning scores were higher after training than before training in every clinical domain assessed, in one single-group pre-post study with no comparison group](ofc-gains-across-all-clinical-domains.md) — related
 - [AI feedback improved the generic medical history OSCE domain (r=0.27) while other domains showed no significant differences](ai-feedback-generic-medical-history-domain-only.md) — related
 - [AI-generated feedback following social robotic VP interactions improves medical students' total OSCE performance (Cohen d=0.74)](ai-feedback-sari-improves-total-osce.md) — related
+- [VSP-based training produced significantly higher post-intervention clinical interview scores than traditional practice in a small randomized controlled trial](vsp-training-improves-interview-skills-rct.md) — related

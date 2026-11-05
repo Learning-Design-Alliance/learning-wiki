@@ -53,6 +53,7 @@ The authors propose adaptations for settings with larger classes or limited facu
 - [Implement CBL successfully by ensuring pre-class preparation, authentic progressive cases, dual-competence facilitators, adequate time, and process-plus-outcome assessment](cbl-implementation-success-conditions.md)
 - [Integrate BOPPPS, flipped classroom, and case-based learning into a single pedagogical model for residency training](integrate-boppps-fc-cbl-single-model-residency.md)
 - [Phased implementation, rigorous case development, faculty development, and balanced assessment when adopting BOPPPS-CBL](boppps-cbl-implementation-strategies.md)
+- [Adapt case-based learning delivery for resource-limited preclinical settings: simplify cases, phase complexity, standardize facilitation, add low-cost visual aids](context-sensitive-cbl-adaptation-strategy.md)
 
 ## Examples
 -

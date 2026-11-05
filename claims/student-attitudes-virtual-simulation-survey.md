@@ -1,0 +1,51 @@
+---
+type: claim
+title: Most students express positive attitudes and willingness toward virtual simulation training, but a substantial minority doubt it can match real clinical practice
+description: Most students express positive attitudes and willingness toward virtual simulation training, but a substantial minority doubt it can match real clinical practice
+id: student-attitudes-virtual-simulation-survey
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-05
+evidence_strength: moderate
+newest_evidence: 2026
+sources:
+  - id: xia-qing-2026
+    resource: "https://doi.org/10.1186/s12909-026-08803-w"
+    title: "Xia Qing, Bu Juanjuan, Zuo Hang, Wang Jie, Hou Yuesong, Wang Jinian, Wu Xiaoli. (2026). Knowledge, attitudes, and practices of medical students at a Chinese university toward virtual simulation experimental training: a cross-sectional survey of self-perceived experience. BMC Medical Education. https://doi.org/10.1186/s12909-026-08803-w"
+    author: Xia Qing, Bu Juanjuan, Zuo Hang, Wang Jie, Hou Yuesong, Wang Jinian, Wu Xiaoli
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 2
+---
+
+# Most students express positive attitudes and willingness toward virtual simulation training, but a substantial minority doubt it can match real clinical practice
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q3 i?` 77.50% were willing to participate in virtual simulation training, 72.40% agreed it would stimulate learning enthusiasm, while 63.10% believed it could achieve results comparable to real experiments and 36.90% disagreed. [→ Xia Qing 2026](#xia-qing-2026)
+
+## Evidence
+
+### Xia Qing 2026
+
+Xia Qing, Bu Juanjuan, Zuo Hang, Wang Jie, Hou Yuesong, Wang Jinian, Wu Xiaoli. (2026). Knowledge, attitudes, and practices of medical students at a Chinese university toward virtual simulation experimental training: a cross-sectional survey of self-perceived experience. BMC Medical Education. https://doi.org/10.1186/s12909-026-08803-w
+
+`q3 · i?` · `associational · r2`
+
+Descriptive results from the attitude items (A1–A5) of the cross-sectional questionnaire completed by 525 students. The article also reports that on effectiveness (A3) "63.10% responded positively, while 36.90% disagreed". Percentages are descriptive; no inferential test is printed.
+
+> "The majority (77.50%) expressed willingness to participate in virtual simulation training (A1: "Are you willing to participate in virtual simulation clinical skills training?"). Furthermore, 72.40% agreed that such training would stimulate learning enthusiasm and improve independent learning (A2)."
+
+## Discussion
+
+
+## Related Claims
+- [Chinese medical students score adequately on knowledge and attitude toward virtual simulation but practice engagement is more limited](kap-scores-virtual-simulation-medical-students.md) — related
+- [Only 56.40% of students had participated in virtual simulation training, though most participants reported skill improvement and 62.90% wanted it as a compulsory course](practice-engagement-virtual-simulation-limited.md) — related
+- [Learner acceptance of AI simulations is generally high, with System Usability Scale scores of 61.6 to 78.56 and 72%-93% willingness to recommend](ai-simulation-high-learner-acceptance.md) — related
+- [Participants reported high satisfaction with simulation sessions but criticized time allocation and group size](simulation-session-satisfaction-time-group-size.md) — related

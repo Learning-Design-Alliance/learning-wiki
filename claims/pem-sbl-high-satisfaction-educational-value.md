@@ -56,3 +56,4 @@ End-of-curriculum anonymous online survey with 7 of 8 participants responding (8
 - [Nursing students reported high satisfaction with community care simulation, with all SDS domain means around 4.5 and support rated lowest](ccs-high-satisfaction-sds-domain-scores.md) — related
 - [Fellows reported high acceptance of the VR curriculum and both groups rated it as meeting their needs](high-acceptance-vr-curriculum.md) — possibly the same claim (merge candidate)
 - [Students report high satisfaction (91% ± 7.6) with the HFS/curriculum-integrated session across instructor, effectiveness, and active-learning domains](hfs-integration-high-satisfaction.md) — related
+- [Learners and instructors reported high satisfaction with the Team FIRST curriculum, with composite reaction scores lowest in Module 1](team-first-high-reaction-satisfaction.md) — related

@@ -53,3 +53,4 @@ Sally's Patterning Unit interview comment; Rachel similarly reported fewer conce
 - [Teachers perceived that beginning a lesson with a challenging task fosters more creative and empowered mathematical thinking in students](task-first-fosters-creativity-empowerment.md) — related
 - [Teachers perceived the Teach-First Approach as more focused and a more efficient approach to learning](teach-first-focused-efficient.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
+- [Undergraduate dental students perceive that PBL builds self-efficacy, moving from initial uncertainty toward confidence in independent learning](pbl-builds-self-efficacy-from-uncertainty.md) — related

@@ -53,3 +53,4 @@ Subgroup analysis by discipline within the procedural-skills meta-analysis of 10
 - [Virtual simulations and real persons show no significant difference in enhancing communication skills](vs-rp-no-difference-communication-skills.md) — reports the opposite
 - [Nurses trained with simulation showed higher skill scores than nurses trained with video-based instruction (exploratory)](simulation-higher-skill-scores-nurses-exploratory.md) — related
 - [Virtual simulation training reduced incisor buccolingual bracket deviation by approximately 32.69% compared with traditional training](virtual-simulation-reduced-incisor-buccolingual-deviation.md) — reports the opposite
+- [Only 56.40% of students had participated in virtual simulation training, though most participants reported skill improvement and 62.90% wanted it as a compulsory course](practice-engagement-virtual-simulation-limited.md) — related

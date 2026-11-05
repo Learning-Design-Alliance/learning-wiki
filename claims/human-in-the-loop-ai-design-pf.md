@@ -9,7 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-28
+source_checked: 2026-11-05
 sources:
   - id: jinhee-kim-2026
     resource: "https://doi.org/10.1007/s11423-026-10655-6"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Adult learners perceived human-in-the-loop design, integrating learner and instructor expertise into AI system lifecycles, as critical for effective and pedagogically relevant PF-based learning tools. [→ Jinhee Kim 2026](#jinhee-kim-2026)

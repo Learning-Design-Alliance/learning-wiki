@@ -55,3 +55,4 @@ The review's narrative synthesis of the two trials reporting long-term outcomes.
 - [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](simulation-skill-retention-two-month-follow-up.md) — related
 - [Technology-enhanced simulation may result in superior retention of clinical knowledge and skills compared to traditional teaching methods alone, with durable retention for months to years](simulation-improves-knowledge-retention.md) — a broader claim this one bears on
 - [Workshop, simulation, and team-review methods significantly improve teamwork behaviors, while the pooled effect of didactic education alone was not significant](didactic-education-fails-to-improve-teamwork.md) — related
+- [Individual and group reflection produce similar MCQ scores at the 60-day voluntary follow-up](ir-gr-similar-long-term-retention-60-days.md) — related
