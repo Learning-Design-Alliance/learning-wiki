@@ -1003,6 +1003,8 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 * **Content**: [research-methods/turing-like-validation-criterion-for-simulated-learners](research-methods/turing-like-validation-criterion-for-simulated-learners.md) — Doroudi, Aleven & Brunskill (2017), Robust evaluation matrix, doi:10.1145/3051457.3051463 (abstract)
 * **Content**: [research-methods/kt-grounded-simulated-learner](research-methods/kt-grounded-simulated-learner.md) — Doroudi, Aleven & Brunskill (2017), Robust evaluation matrix, doi:10.1145/3051457.3051463 (abstract)
 * **Ingest**: [research-methods/robust-evaluation-matrix](research-methods/robust-evaluation-matrix.md) — Doroudi, Aleven & Brunskill (2017), Robust evaluation matrix, doi:10.1145/3051457.3051463 (abstract)
+* **Content**: [elements/adaptive-mastery-learning](elements/adaptive-mastery-learning.md) — Doroudi & Brunskill (2019), Fairer but not fair enough, doi:10.1145/3303772.3303838 (abstract)
+* **Ingest**: [claims/knowledge-tracing-equity-depends-on-model-accuracy](claims/knowledge-tracing-equity-depends-on-model-accuracy.md) — Doroudi & Brunskill (2019), Fairer but not fair enough, doi:10.1145/3303772.3303838 (abstract)
 
 ## 2026-11-04
 
