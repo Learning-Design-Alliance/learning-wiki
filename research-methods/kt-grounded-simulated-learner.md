@@ -5,8 +5,8 @@ title: KT-grounded simulated learner
 description: "The simulated learner couples two components: a knowledge tracing model (AKT) that maintains a per-KC belief map trained on real student interaction data, and an LLM that role-plays the student and generates free-response attempts."
 status: review
 generated:
-  by: "process:settle-candidates"
-  at: 2026-10-10
+  by: "process:article-ingest"
+  at: 2026-11-05
 ---
 
 # KT-grounded simulated learner
@@ -28,7 +28,7 @@ The simulated learner couples two components: a knowledge tracing model (AKT) th
 - [Hybrid approaches combining LLMs with traditional knowledge-tracing algorithms outperform either method alone for learner modelling](../claims/hybrid-llm-knowledge-tracing-outperforms-either-alone.md) [~W]
 
 ## Related Research Methods
--
+- [Robust Evaluation Matrix (REM)](robust-evaluation-matrix.md) — evaluates an instructional policy under several fitted student models, to guard against trusting one simulator
 
 ## Key Sources
 - Lee, U.; Lee, S.; Jeong, Y.; Lee, E.; Shin, M.; Kwon, H. (2026). EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners. https://arxiv.org/abs/2608.03206. [doi:10.48550/arxiv.2608.03206](https://doi.org/10.48550/arxiv.2608.03206)

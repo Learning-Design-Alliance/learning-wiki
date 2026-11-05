@@ -1000,6 +1000,9 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 * **Content**: [elements/adaptive-learning](elements/adaptive-learning.md) — Doroudi, Aleven & Brunskill (2019), Where's the reward? doi:10.1007/s40593-019-00187-x
 * **Content**: [principles/sequencing](principles/sequencing.md) — Doroudi, Aleven & Brunskill (2019), Where's the reward? doi:10.1007/s40593-019-00187-x
 * **Ingest**: [claims/rl-sequencing-policies-beat-baselines-in-constrained-tasks](claims/rl-sequencing-policies-beat-baselines-in-constrained-tasks.md) — Doroudi, Aleven & Brunskill (2019), Where's the reward? doi:10.1007/s40593-019-00187-x
+* **Content**: [research-methods/turing-like-validation-criterion-for-simulated-learners](research-methods/turing-like-validation-criterion-for-simulated-learners.md) — Doroudi, Aleven & Brunskill (2017), Robust evaluation matrix, doi:10.1145/3051457.3051463 (abstract)
+* **Content**: [research-methods/kt-grounded-simulated-learner](research-methods/kt-grounded-simulated-learner.md) — Doroudi, Aleven & Brunskill (2017), Robust evaluation matrix, doi:10.1145/3051457.3051463 (abstract)
+* **Ingest**: [research-methods/robust-evaluation-matrix](research-methods/robust-evaluation-matrix.md) — Doroudi, Aleven & Brunskill (2017), Robust evaluation matrix, doi:10.1145/3051457.3051463 (abstract)
 
 ## 2026-11-04
 

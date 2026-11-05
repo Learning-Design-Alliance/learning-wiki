@@ -9,7 +9,7 @@
 "principle":170,
 "process":18,
 "product":3322,
-"research-method":1010,
+"research-method":1011,
 "strategy":10473,
 "theory":1360
 },
@@ -590018,6 +590018,14 @@
 "type":"research-method"
 },
 {
+"description":"A way to estimate before an experiment whether a new instructional policy is likely to help students, by simulating it under several plausible student models rather than only the one used to derive it.",
+"id":"robust-evaluation-matrix",
+"path":"research-methods/robust-evaluation-matrix.md",
+"status":"review",
+"title":"Robust Evaluation Matrix (REM)",
+"type":"research-method"
+},
+{
 "description":"A falsification test for teacher value-added models, introduced by Jesse Rothstein (2010) and re-assessed in this paper.",
 "id":"rothstein-falsification-test",
 "path":"research-methods/rothstein-falsification-test.md",
@@ -747507,6 +747515,7 @@
 "retrospective-emulation-of-evidence-centered-design-features-for-learning-analytics":"retrospective-emulation-of-evidence-centered-design-features-for-learning-analytics",
 "reusable-and-inspectable-behavioral-annotation-components":"reusable-and-inspectable-behavioral-annotation-components",
 "revealed-comparative-advantage-measure-of-teacher-equity-impact":"revealed-comparative-advantage-measure-of-teacher-equity-impact",
+"robust-evaluation-matrix":"robust-evaluation-matrix",
 "rothstein-falsification-test":"rothstein-falsification-test",
 "rubric-based-pedagogical-quality-scoring-for-educational-ai-explanations":"rubric-based-pedagogical-quality-scoring-for-educational-ai-explanations",
 "rule-space-model":"rule-space-model",

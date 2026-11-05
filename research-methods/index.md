@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**1010 entries** · 0 stable · 1010 in review · 0 drafts
+**1011 entries** · 0 stable · 1011 in review · 0 drafts
 
 ---
 
@@ -739,6 +739,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Retrospective emulation of evidence-centered design features for learning analytics](retrospective-emulation-of-evidence-centered-design-features-for-learning-analytics.md) - Because the full ECD framework cannot be applied retrospectively to existing game logs, the article recommends emulating its useful features: a student model operationalizing the hypothesized cognitive dynamics (here, the 2SM stances) and an evidence model mapping those dynamics onto observable log 
 * [Reusable and inspectable behavioral annotation components](reusable-and-inspectable-behavioral-annotation-components.md) - The article recommends making behavioral annotation components reusable and inspectable: an assertion annotated once in a corpus can inform multiple construct labels, and assertion annotations can train smaller classifiers for later annotation.
 * [Revealed comparative advantage measure of teacher equity impact](revealed-comparative-advantage-measure-of-teacher-equity-impact.md) - The article introduces \"a novel measure of teacher quality—called revealed comparative advantage—that estimates teachers' impact on racial achievement differences.\" A teacher's comparative advantage for Black students is their differential impact on Black students relative to non-Black students; a p
+* [Robust Evaluation Matrix (REM)](robust-evaluation-matrix.md) - A way to estimate before an experiment whether a new instructional policy is likely to help students, by simulating it under several plausible student models rather than only the one used to derive it.
 * [Rothstein falsification test](rothstein-falsification-test.md) - A falsification test for teacher value-added models, introduced by Jesse Rothstein (2010) and re-assessed in this paper.
 * [Rubric-based pedagogical quality scoring for educational AI explanations](rubric-based-pedagogical-quality-scoring-for-educational-ai-explanations.md) - The article defines a composite pedagogical quality score on [0,1] as the mean of six binary criteria applied per response: step-by-step exposition, correct mathematical notation, worked example, query coverage, explanation depth, and proof-step granularity.
 * [Rule Space model](rule-space-model.md) - The Rule Space model (Tatsuoka, 1983) is an IRT-based diagnostic classification framework in which \"Items are decomposed into attributes, which represent the latent traits that the items assess.\" From an examinee's response vector the model \"infers the most likely combination of attributes the exami
