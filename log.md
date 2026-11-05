@@ -487,6 +487,10 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 * **Claim**: [claims/spacing-effect-mathematics-overall-meta-analysis](claims/spacing-effect-mathematics-overall-meta-analysis.md) — Linked claim from Spaced mathematics practice improves test scores and reduces overconfidence (Emeny, Hartwig & Rohrer, 2021), doi:10.1002/acp.3814; written from the abstract
 * **Claim**: [principles/spaced-learning](principles/spaced-learning.md) — Linked claim from Spaced mathematics practice improves test scores and reduces overconfidence (Emeny, Hartwig & Rohrer, 2021), doi:10.1002/acp.3814; written from the abstract
 * **Ingest**: [claims/spaced-math-practice-raises-scores-and-calibration](claims/spaced-math-practice-raises-scores-and-calibration.md) — Spaced mathematics practice improves test scores and reduces overconfidence (Emeny, Hartwig & Rohrer, 2021), doi:10.1002/acp.3814; written from the abstract
+* **Claim**: [claims/classroom-quizzing-improves-exam-performance-across-grades-and-content](claims/classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — Linked claim from Improving students' long-term knowledge retention through personalized review (Lindsey et al., 2014), doi:10.1177/0956797613504302; written from the abstract
+* **Claim**: [patterns/spaced-learning](patterns/spaced-learning.md) — Linked claim from Improving students' long-term knowledge retention through personalized review (Lindsey et al., 2014), doi:10.1177/0956797613504302; written from the abstract
+* **Claim**: [elements/spaced-repetition](elements/spaced-repetition.md) — Linked claim from Improving students' long-term knowledge retention through personalized review (Lindsey et al., 2014), doi:10.1177/0956797613504302; written from the abstract
+* **Ingest**: [claims/personalized-spaced-review-improves-course-retention](claims/personalized-spaced-review-improves-course-retention.md) — Improving students' long-term knowledge retention through personalized review (Lindsey et al., 2014), doi:10.1177/0956797613504302; written from the abstract
 
 ## 2026-11-04
 
