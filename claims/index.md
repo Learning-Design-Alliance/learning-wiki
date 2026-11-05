@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**50240 entries** · 0 stable · 50240 in review · 0 drafts
+**50241 entries** · 0 stable · 50241 in review · 0 drafts
 
 ---
 
@@ -36619,6 +36619,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Spaced VR simulator training yields better performance and faster skill acquisition than massed training for surgical psychomotor skills](spaced-vr-training-superior-to-massed-surgical-psychomotor.md) - Spaced VR simulator training yields better performance and faster skill acquisition than massed training for surgical psychomotor skills
 * [Spacing content over time and interweaving different content strengthens learning and retention](spacing-interleaving-improve-retention.md) - Spacing content over time and interweaving different content strengthens learning and retention
 * [Spacing enhances learning across various domains and across the lifespan, with emphasis on applied educational settings](spacing-enhances-learning-across-domains-lifespan.md) - Spacing enhances learning across various domains and across the lifespan, with emphasis on applied educational settings
+* [Spacing mathematics practice across weeks raised Year 7 students' test scores a month later and made their score predictions more accurate than massed practice](spaced-math-practice-raises-scores-and-calibration.md) - In two classroom experiments with Year 7 students, practice divided across three sessions a week apart produced higher test scores one month later than the same practice in one session, and students' predictions of their scores were fairly accurate after spaced practice but grossly overconfident after massed practice.
 * [Spacing out retrieval practice produces better long-term retention than massing it](spaced-retrieval-outperforms-restudy.md)
 * [Spanish B1 learners taught equivocal words through joke-telling retained more vocabulary on a two-week delayed post-test than learners taught the same items conventionally](joke-telling-improves-retention-equivocal-words.md) - Spanish B1 learners taught equivocal words through joke-telling retained more vocabulary on a two-week delayed post-test than learners taught the same items conventionally
 * [Spanish examinee RIT scores and item difficulty increase on average from kindergarten through high school, with item difficulty matching student ability](spanish-rit-scores-increase-by-grade.md) - Spanish examinee RIT scores and item difficulty increase on average from kindergarten through high school, with item difficulty matching student ability

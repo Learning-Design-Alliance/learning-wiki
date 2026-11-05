@@ -5,8 +5,8 @@ description: Learners judge massed-presented items as more likely to be recalled
 id: judgments-overconfidence-massed-items
 status: review
 generated:
-  by: "process:wiki-ingest"
-  at: 2026-10-16
+  by: "process:article-ingest"
+  at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 1980
 sources:
@@ -64,6 +64,7 @@ A z-score analysis of the same experiment contrasted the MP-DP difference in rec
 
 
 ## Related Claims
+- [Spacing mathematics practice across weeks raised Year 7 students' test scores a month later and made their score predictions more accurate than massed practice](spaced-math-practice-raises-scores-and-calibration.md) — related: the same overconfidence after massed practice, in a mathematics classroom
 - [Learners accurately judge that twice-presented items are more likely to be recalled than once-presented items](accurate-jol-repetition-benefit.md) — related
 - [Across item types, items given high recall-likelihood ratings are recalled with greater probability than items given lower ratings](jol-predicts-relative-recall-within-types.md) — related
 - [Distributed presentations are recalled better than massed presentations in free recall (the spacing effect), and requiring likelihood ratings does not alter this effect](spacing-effect-free-recall-dp-beats-mp.md) — related

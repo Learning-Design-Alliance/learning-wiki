@@ -483,6 +483,10 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 * **Source**: [claims/learner-models-miscalibrated-outside-data-interval](claims/learner-models-miscalibrated-outside-data-interval.md) — Added verified DOI 10.5281/zenodo.4143614 to the Gervet et al. (2020) citations; linked the two new claims from the same study
 * **Ingest**: [claims/expert-kc-models-add-little-to-performance-prediction](claims/expert-kc-models-add-little-to-performance-prediction.md) — When is deep learning the best approach to knowledge tracing? (Gervet et al., 2020), doi:10.5281/zenodo.4143614
 * **Ingest**: [claims/knowledge-tracing-model-choice-depends-on-dataset](claims/knowledge-tracing-model-choice-depends-on-dataset.md) — When is deep learning the best approach to knowledge tracing? (Gervet et al., 2020), doi:10.5281/zenodo.4143614
+* **Claim**: [claims/judgments-overconfidence-massed-items](claims/judgments-overconfidence-massed-items.md) — Linked claim from Spaced mathematics practice improves test scores and reduces overconfidence (Emeny, Hartwig & Rohrer, 2021), doi:10.1002/acp.3814; written from the abstract
+* **Claim**: [claims/spacing-effect-mathematics-overall-meta-analysis](claims/spacing-effect-mathematics-overall-meta-analysis.md) — Linked claim from Spaced mathematics practice improves test scores and reduces overconfidence (Emeny, Hartwig & Rohrer, 2021), doi:10.1002/acp.3814; written from the abstract
+* **Claim**: [principles/spaced-learning](principles/spaced-learning.md) — Linked claim from Spaced mathematics practice improves test scores and reduces overconfidence (Emeny, Hartwig & Rohrer, 2021), doi:10.1002/acp.3814; written from the abstract
+* **Ingest**: [claims/spaced-math-practice-raises-scores-and-calibration](claims/spaced-math-practice-raises-scores-and-calibration.md) — Spaced mathematics practice improves test scores and reduces overconfidence (Emeny, Hartwig & Rohrer, 2021), doi:10.1002/acp.3814; written from the abstract
 
 ## 2026-11-04
 
