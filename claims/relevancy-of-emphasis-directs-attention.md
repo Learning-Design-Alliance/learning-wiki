@@ -7,13 +7,14 @@ generated:
   at: 2026-08-30
 evidence_strength: moderate
 newest_evidence: 1985
+source_checked: 2026-11-05
 sources:
   - id: nist-1985
     resource: "https://eric.ed.gov/?id=ED265520"
     title: "Nist, S. L., & Hogrebe, M. C. (1985). The Effects of High and Low Relevant Text Underlining on Test Performance. [ERIC ED265520](https://eric.ed.gov/?id=ED265520)"
     author: "Nist, S. L., & Hogrebe, M. C."
     q: 3
-    i: "?"
+    i: 3
     n: 67
     kind: causal
     rigour: "?"
@@ -22,7 +23,7 @@ sources:
     title: "Nist, S. L., & Hogrebe, M. C. (1985). The Effects of High and Low Relevant Text Underlining on Test Performance. [ERIC ED265520](https://eric.ed.gov/?id=ED265520)"
     author: "Nist, S. L., & Hogrebe, M. C."
     q: 3
-    i: "?"
+    i: 2
     n: 67
     kind: causal
     rigour: "?"
@@ -32,16 +33,16 @@ id: relevancy-of-emphasis-directs-attention
 # Relevancy of emphasized text directs attention and influences test performance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r?` · `q3`
-> **Currency** · newest study 1985 · not yet checked against its sources · not reviewed by a person
+> **Evidence** · 1 study (2 entries) · causal `r?` · `q3` · `i2`–`i3`
+> **Currency** · newest study 1985 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 Emphasis cues such as underlining do not simply boost learning overall — they shift attention toward whatever is emphasized, so test performance follows the *relevancy* of the marked material rather than the mere presence of marking.
 
 ## Subclaims
 
-`q3 i?` Emphasizing high-relevant material produces higher scores on questions targeting that high-relevant material. [→ Nist 1985](#nist-1985)
+`q3 i3` Emphasizing high-relevant material produces higher scores on questions targeting that high-relevant material. [→ Nist 1985](#nist-1985)
 
-`q3 i?` Emphasizing low-relevant material produces higher scores on questions targeting that low-relevant material. [→ Nist 1985 (2)](#nist-1985-2)
+`q3 i2` Emphasizing low-relevant material produces higher scores on questions targeting that low-relevant material. [→ Nist 1985 (2)](#nist-1985-2)
 
 ## Evidence
 
@@ -51,17 +52,17 @@ Primary evidence link: https://eric.ed.gov/?id=ED265520
 
 Nist, S. L., & Hogrebe, M. C. (1985). The Effects of High and Low Relevant Text Underlining on Test Performance. [ERIC ED265520](https://eric.ed.gov/?id=ED265520)
 
-`q3 · peer-reviewed experiment, not pre-registered` · `i? · F values only, no effect size printed` · `n=67` · `causal · r?`
+`q3 · randomised experiment, conference paper (National Reading Conference 1985), not pre-registered` · `i3 · large effect, η² = .21` · `n=67` · `causal · r?`
 
-Sixty-seven college freshmen read text passages with [underlining](../principles/annotating.md) applied to either high-relevant or low-relevant content, then completed a test with questions matched to both relevancy levels. A weighted-means ANOVA showed a significant main effect for relevancy on the high-relevant score, F(1, 49) = 13.56, p < .01: learners performed better on high-relevant questions when that material was the emphasized content. The pattern demonstrates that emphasis directs attention to the marked material, and test performance tracks what was marked.
+Sixty-seven college freshmen read text passages with [underlining](../principles/annotating.md) applied to either high-relevant or low-relevant content, then completed a test with questions matched to both relevancy levels. A weighted-means ANOVA showed a significant main effect for relevancy on the high-relevant score, F(1, 49) = 13.56, p < .01, with eta-squared .21 (by the authors' binomial effect size display, 73% of the high-relevant group scored above the median on high-relevant questions against 27% of the low-relevant group): learners performed better on high-relevant questions when that material was the emphasized content. The pattern demonstrates that emphasis directs attention to the marked material, and test performance tracks what was marked.
 
 ### Nist 1985 (2)
 
 Nist, S. L., & Hogrebe, M. C. (1985). The Effects of High and Low Relevant Text Underlining on Test Performance. [ERIC ED265520](https://eric.ed.gov/?id=ED265520)
 
-`q3 · peer-reviewed experiment, not pre-registered` · `i? · F values only, no effect size printed` · `n=67` · `causal · r?`
+`q3 · randomised experiment, conference paper (National Reading Conference 1985), not pre-registered` · `i2 · medium effect, η² = .12` · `n=67` · `causal · r?`
 
-In the same study, the main effect for relevancy was also significant for the low-relevant score, F(1, 40) = 6.98, p < .05. Learners scored higher on low-relevant questions when the low-relevant material was the emphasized content. Together with the high-relevant result, emphasis raised scores on whichever material was emphasized; that the effect is symmetric, of equal size regardless of the material's instructional importance, is not shown by the two F tests printed (unsourced on this page).
+In the same study, the main effect for relevancy was also significant for the low-relevant score, F = 6.98, p < .05 (the prose prints F(1, 40); Table 4 prints F(1, 49) = 6.9759), with eta-squared .12 (67% of the low-relevant group above the median on low-relevant questions against 33% of the high-relevant group). Learners scored higher on low-relevant questions when the low-relevant material was the emphasized content. Together with the high-relevant result, emphasis raised scores on whichever material was emphasized; that the effect is symmetric, of equal size regardless of the material's instructional importance, is not shown by the two F tests printed (unsourced on this page).
 
 ## Studies bearing on this claim
 
@@ -84,7 +85,7 @@ In the same study, the main effect for relevancy was also significant for the lo
 
 **Design implication.** The relevancy of instructor-provided emphasis is a design decision with direct assessment consequences. Textbook highlighting, slide emphasis, and pre-annotated readings should mark content that maps onto intended learning outcomes, not decorative or incidental detail. For learner-generated marking, the quality of what students choose to underline matters as much as the act of marking — see [Annotating improves learning.](../claims/annotating-improves-learning.md) [+M]
 
-**Boundary conditions.** Both subclaims rest on one experiment with 67 college freshmen reading expository text with underlining as the emphasis device. Generalization to other marking formats (bolding, color), other populations, and longer or more complex texts is not yet established. No effect size is printed (only F values), and outcomes were measured immediately; durability of the attention-shift effect over delay is untested here.
+**Boundary conditions.** Both subclaims rest on one experiment with 67 college freshmen reading expository text with underlining as the emphasis device. Generalization to other marking formats (bolding, color), other populations, and longer or more complex texts is not yet established. The study is a conference paper, and outcomes were measured immediately; durability of the attention-shift effect over delay is untested here.
 
 ## Related Claims
 

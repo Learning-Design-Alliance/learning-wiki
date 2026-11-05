@@ -69,7 +69,7 @@ An unexpected pattern in Study One: although activities were designed for one ch
 ## Related Claims
 - [Modeling training improved imaginative play in disadvantaged kindergartners, with gains in imaginativeness, verbal communication, spontaneity, and attention span persisting two months](modeling-training-improves-imaginative-play.md) — related
 - [Embodiment functioned as a social act: children built on and extended a partner's embodiment, used embodied turn-taking signals, and expressed emotions toward the robot with their bodies](embodied-collaboration-and-emotion.md) — related
-- [Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement](co-construction-scribe-teacher-fosters-composition-autonomy.md) — related
+- [In one observed session, six five-year-olds composing text with their teacher as scribe exercised autonomy of composition and judgement and stayed on task for 240 turns](co-construction-scribe-teacher-fosters-composition-autonomy.md) — related
 - [In triadic robot-mediated problem solving, children spontaneously embodied early mathematics and science knowledge, using gestures and whole-body movement to represent properties, processes, and reasoning sequences](embodied-early-math-science-reasoning.md) — related
 - [The robot's bodily movement triggered children to reposition themselves, producing a fluid, mobile learning space](robot-fluid-learning-space.md) — related
 - [Videogame play in class fostered peer competition, peer support, and student attention and immersion](videogame-peer-collaboration-attention.md) — related

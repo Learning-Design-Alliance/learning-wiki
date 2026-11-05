@@ -69,7 +69,7 @@ Narrative synthesis: generative AI and chatbot-based virtual patients "more comm
 - [Cognitive outcomes of AI-driven simulation are the most variable across modalities and designs, with generative AI gains often perceived rather than objectively validated](ads-cognitive-outcomes-variable.md) — related
 - [AI-driven simulation is associated with a statistically significant improvement in overall learning outcomes compared to traditional training in dental education](ads-improves-overall-learning-outcomes-dental.md) — related
 - [GenAI/LLM modalities provide the strongest evidence for cognitive and communication outcomes, while chatbots show weak independent effects](genai-llm-strongest-evidence-cognitive-communication.md) — reports the opposite
-- [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](ir-dental-equivalence-mixed-findings.md) — reports the opposite
+- [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](ir-dental-equivalence-mixed-findings.md) — reports the opposite
 - [Review syntheses: VR/AR most often improved academic achievement and motivation, but sometimes performed no better than conventional technologies](vr-ar-advantages-achievement-motivation-with-null-contrast.md) — related
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — related
 - [AR/VR training shows equal or superior outcomes versus conventional training in dental and OMFS education](arvr-noninferior-or-superior-dental-omfs-training.md) — related

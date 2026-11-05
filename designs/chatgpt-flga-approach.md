@@ -17,7 +17,7 @@ sources:
 # ChatGPT-based flipped learning guiding approach (ChatGPT-FLGA)
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 ChatGPT-FLGA is a flipped learning guiding approach the author developed "based on Chat Generative Pre-trained Transformer (ChatGPT) and the learning scaffolding theory", created "according to the analysis, design, development, implementation and evaluation model". It supplies instant personalised guidance to students during flipped learning, where the teacher alone could not guide all students at once. In the study it was used alongside flipped classroom instruction and Tencent QQ discussions in a courseware project.

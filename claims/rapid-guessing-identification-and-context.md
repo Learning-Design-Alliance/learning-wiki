@@ -13,8 +13,8 @@ source_checked: 2026-10-09
 recheck_by: 2020
 sources:
   - id: steven-wise-2017
-    resource: "https://doi.org/10.1111/emip.12189"
-    title: "Steven Wise. (2017). Rapid‐guessing behavior: Its identification, interpretation, and implications. Educational Measurement Issues and Practice 36 (4) 52-61. https://doi.org/10.1111/emip.12189"
+    resource: "https://doi.org/10.1111/emip.12165"
+    title: "Steven Wise. (2017). Rapid‐guessing behavior: Its identification, interpretation, and implications. Educational Measurement Issues and Practice 36 (4) 52-61. https://doi.org/10.1111/emip.12165"
     author: Steven Wise
     q: 2
     i: "?"
@@ -35,7 +35,7 @@ sources:
 
 ### Steven Wise 2017
 
-Steven Wise. (2017). Rapid‐guessing behavior: Its identification, interpretation, and implications. Educational Measurement Issues and Practice 36 (4) 52-61. https://doi.org/10.1111/emip.12189
+Steven Wise. (2017). Rapid‐guessing behavior: Its identification, interpretation, and implications. Educational Measurement Issues and Practice 36 (4) 52-61. https://doi.org/10.1111/emip.12165
 
 `q2 · i?` · `theoretical · r?`
 

@@ -8,8 +8,8 @@ generated:
   at: 2026-10-09
 sources:
   - id: steven-wise-2017
-    resource: "https://doi.org/10.1111/emip.12189"
-    title: "Steven Wise. (2017). Rapid‐guessing behavior: Its identification, interpretation, and implications. Educational Measurement Issues and Practice 36 (4) 52-61. https://doi.org/10.1111/emip.12189"
+    resource: "https://doi.org/10.1111/emip.12165"
+    title: "Steven Wise. (2017). Rapid‐guessing behavior: Its identification, interpretation, and implications. Educational Measurement Issues and Practice 36 (4) 52-61. https://doi.org/10.1111/emip.12165"
     author: Steven Wise
 ---
 
@@ -53,4 +53,4 @@ Wise conceptualizes a rapid guess not as a low-quality attempt at the item but a
 - [Use response time to identify test taker disengagement as rapid-guessing behavior](../strategies/response-time-identifies-rapid-guessing.md)
 
 ## Key Sources
-- Steven Wise. (2017). Rapid‐guessing behavior: Its identification, interpretation, and implications. Educational Measurement Issues and Practice 36 (4) 52-61. https://doi.org/10.1111/emip.12189
+- Steven Wise. (2017). Rapid‐guessing behavior: Its identification, interpretation, and implications. Educational Measurement Issues and Practice 36 (4) 52-61. https://doi.org/10.1111/emip.12165

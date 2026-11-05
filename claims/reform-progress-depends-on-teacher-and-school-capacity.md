@@ -65,7 +65,7 @@ The review's synthesis states that "Building capacity is therefore critical," fo
 
 ## Related Claims
 
-- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — the general claim this finding bears on, with the studies behind it
+- [An innovation foreign to the rest of its system may be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — the general claim this finding bears on, with the studies behind it
 - [Teachers in CHSRI small schools report significantly more supportive contexts for reform than similar teachers in other Chicago high schools](chsri-teachers-report-supportive-reform-context.md) — a narrower finding that bears on this claim
 - [High-trust schools are hypothesized to show greater teacher commitment, orientation to innovation, parent outreach, and collective responsibility](trust-linked-to-teacher-commitment-innovation-outreach.md) — a broader claim this one bears on
 - [Teachers in CHSRI schools reported statistically significantly higher perceptions of trust and collaboration than teachers in non-CHSRI schools](chrsi-teachers-higher-trust-collaboration-survey.md) — a narrower finding that bears on this claim

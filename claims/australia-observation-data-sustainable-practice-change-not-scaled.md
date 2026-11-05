@@ -46,7 +46,7 @@ Case study of participatory research with a Sydney secondary school using contin
 
 ## Related Claims
 - [Sustainability is a dimension and requirement of scalability](sustainability-prerequisite-of-scalability.md) — a broader claim this one bears on
-- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related
+- [An innovation foreign to the rest of its system may be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related
 - [Netherlands case: design-based TPACK interventions improved student teachers' TPACK and were sustained, but scaling was delayed by leadership decision structures](netherlands-tpack-interventions-sustained-scaling-delayed.md) — related
 - [United States case: a grassroots network sustained and scaled active-learning innovations through leadership and networks rather than research, but remained at second-order change](remake-learning-network-scaled-without-research.md) — related
 - [Purposeful research design can inform sustainability and scalability, but must be balanced with leadership and professional learning](research-design-informs-sustainability-scalability.md) — a broader claim this one bears on

@@ -39,7 +39,7 @@ Based on the qualitative boundary condition that students sometimes doubted the 
 ## Claims
 
 - [Benefits of peer-assisted learning are sensitive to the perceived expertise of peer mentors, a boundary condition identified in qualitative data](../claims/pal-boundary-condition-mentor-expertise.md) [~W]
-- [Peer feedback promoted critical reflection, collaboration and engagement, but students doubted its reliability because peers were statistics beginners](../claims/peer-feedback-soft-evaluative-judgement-statistics.md) [~W]
+- [Peer feedback promoted critical reflection, collaboration and engagement, but one interviewed student doubted its reliability because peers were statistics beginners](../claims/peer-feedback-soft-evaluative-judgement-statistics.md) [~W]
 - [Students taught by rigorously selected and well trained student tutors show no significant achievement differences from students taught by staff tutors in first-year PBL courses](../claims/student-tutors-no-achievement-difference-pbl.md) [+W]
 
 ## Related Strategies

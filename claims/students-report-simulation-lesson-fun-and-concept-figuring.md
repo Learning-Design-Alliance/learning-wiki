@@ -8,20 +8,21 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: weak
-newest_evidence: 2015
+newest_evidence: 2012
+source_checked: 2026-11-05
 sources:
-  - id: loo-kang-wee-2015
-    resource: "http://iwant2study.org/ospsg/index.php/interactive-resources/physics/02-newtonian-mechanics/02-dynamics/46-one-dimension-collision-js-model"
-    title: "Loo Kang WEE. (2015). One-Dimensional Collision Carts Computer Model and its Design Ideas for Productive Experiential Learning. http://iwant2study.org/ospsg/index.php/interactive-resources/physics/02-newtonian-mechanics/02-dynamics/46-one-dimension-collision-js-model"
-    author: Loo Kang WEE
+  - id: wee-2012
+    resource: "https://doi.org/10.1088/0031-9120/47/3/301"
+    title: "Wee, L. K. (2012). One-Dimensional Collision Carts Computer Model and its Design Ideas for Productive Experiential Learning. *Physics Education, 47*(3), 301–308. [doi:10.1088/0031-9120/47/3/301](https://doi.org/10.1088/0031-9120/47/3/301)"
+    author: Wee, L. K.
     q: 1
     i: "?"
     kind: design
     rigour: 2
-  - id: loo-kang-wee-2015-2
-    resource: "http://iwant2study.org/ospsg/index.php/interactive-resources/physics/02-newtonian-mechanics/02-dynamics/46-one-dimension-collision-js-model"
-    title: "Loo Kang WEE. (2015). One-Dimensional Collision Carts Computer Model and its Design Ideas for Productive Experiential Learning. http://iwant2study.org/ospsg/index.php/interactive-resources/physics/02-newtonian-mechanics/02-dynamics/46-one-dimension-collision-js-model"
-    author: Loo Kang WEE
+  - id: wee-2012-2
+    resource: "https://doi.org/10.1088/0031-9120/47/3/301"
+    title: "Wee, L. K. (2012). One-Dimensional Collision Carts Computer Model and its Design Ideas for Productive Experiential Learning. *Physics Education, 47*(3), 301–308. [doi:10.1088/0031-9120/47/3/301](https://doi.org/10.1088/0031-9120/47/3/301)"
+    author: Wee, L. K.
     q: 1
     i: "?"
     kind: design
@@ -32,28 +33,28 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q1`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
-`q1 i?` In qualitative survey excerpts and informal interviews, students said the lesson was fun and made them think rather than just listen and remember. [→ Loo Kang WEE 2015](#loo-kang-wee-2015)
-`q1 i?` Students reported the lab let them figure out concepts themselves and that identifying trends first hand helped them remember and learn independently. [→ Loo Kang WEE 2015 (2)](#loo-kang-wee-2015-2)
+`q1 i?` In qualitative survey excerpts and informal interviews, students said the lesson was fun and made them think rather than just listen and remember. [→ Wee 2012](#wee-2012)
+`q1 i?` Students reported the lab let them figure out concepts themselves and that identifying trends first hand helped them remember and learn independently. [→ Wee 2012 (2)](#wee-2012-2)
 
 ## Evidence
 
-### Loo Kang WEE 2015
+### Wee 2012
 
-Loo Kang WEE. (2015). One-Dimensional Collision Carts Computer Model and its Design Ideas for Productive Experiential Learning. http://iwant2study.org/ospsg/index.php/interactive-resources/physics/02-newtonian-mechanics/02-dynamics/46-one-dimension-collision-js-model
+Wee, L. K. (2012). One-Dimensional Collision Carts Computer Model and its Design Ideas for Productive Experiential Learning. *Physics Education, 47*(3), 301–308. [doi:10.1088/0031-9120/47/3/301](https://doi.org/10.1088/0031-9120/47/3/301)
 
 `q1 · i?` · `design · r2`
 
-Qualitative survey excerpts and informal interviews from the laboratory lessons, thematised by the author under headings such as active learning can be fun and need experience to understand. This student excerpt illustrates the fun-and-thinking theme; no quantitative analysis is reported.
+Qualitative survey excerpts and informal interviews from the laboratory lessons, thematised by the author under headings such as active learning can be fun and need experience to understand. This student excerpt illustrates the fun-and-thinking theme. Beside the excerpts the paper reports descriptive survey percentages (N = 64; Table 1: self-rated knowledge "very much" or "much" rose from 5% before to 56% after the lesson, over 50% rated it enjoyable and over 70% valuable), with no inferential statistics and no comparison group.
 
 > ""The lesson was fun and makes us think instead of just listen[ing] to teacher and remember[ing] whatever the teacher said"."
 
-### Loo Kang WEE 2015 (2)
+### Wee 2012 (2)
 
-Loo Kang WEE. (2015). One-Dimensional Collision Carts Computer Model and its Design Ideas for Productive Experiential Learning. http://iwant2study.org/ospsg/index.php/interactive-resources/physics/02-newtonian-mechanics/02-dynamics/46-one-dimension-collision-js-model
+Wee, L. K. (2012). One-Dimensional Collision Carts Computer Model and its Design Ideas for Productive Experiential Learning. *Physics Education, 47*(3), 301–308. [doi:10.1088/0031-9120/47/3/301](https://doi.org/10.1088/0031-9120/47/3/301)
 
 `q1 · i?` · `design · r2`
 

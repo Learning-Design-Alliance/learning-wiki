@@ -30,7 +30,7 @@ A framework proposed by Chan for guiding institutional AI integration through pe
 ### Claims
 - [Most U.S. colleges had adopted written generative AI policies by late 2024, with 69% defining appropriate versus inappropriate AI use in coursework](../claims/review-69-percent-colleges-genai-policies.md) [+M]
 - [Integrating governance criteria and regulatory frameworks into CA-supported LO assessment enhanced decision-making effectiveness](../claims/governance-integration-enhances-ca-decision-making.md) [+W]
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](../claims/integrity-equity-concerns-span-all-units.md) [+W]
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](../claims/integrity-equity-concerns-span-all-units.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -67,7 +67,7 @@ The review describes, citing Chan (2023), an "AI Ecological Education Policy Fra
 
 - [Review 69 Percent Colleges Genai Policies](../claims/review-69-percent-colleges-genai-policies.md) [+M]
 - [Integrating governance criteria and regulatory frameworks into CA-supported LO assessment enhanced decision-making effectiveness](../claims/governance-integration-enhances-ca-decision-making.md) [+W]
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](../claims/integrity-equity-concerns-span-all-units.md) [+W]
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](../claims/integrity-equity-concerns-span-all-units.md) [+W]
 
 ## Related Theories
 

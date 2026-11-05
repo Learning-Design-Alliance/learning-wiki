@@ -38,7 +38,7 @@ The chapter establishes six core principles (Table 3) to guide AI use in higher 
 
 ### Claims
 
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](../claims/integrity-equity-concerns-span-all-units.md) [~M]
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](../claims/integrity-equity-concerns-span-all-units.md) [~M]
 
 ## Related Strategies
 

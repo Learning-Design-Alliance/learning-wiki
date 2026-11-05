@@ -100,7 +100,7 @@ The article reports that the meta-analysis by Macnamara et al. (2014), echoed by
 
 ## Related Claims
 
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — the general claim this finding bears on, with the studies behind it
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — the general claim this finding bears on, with the studies behind it
 
 - [Feedback improves learning outcomes](feedback-improves-learning.md) — immediate informative feedback is a defining component of deliberate practice
 - [Testing effect: retrieval practice improves retention](retrieval-practice-improves-retention.md) — retrieval-based practice is one of the most robust ways to structure deliberate practice

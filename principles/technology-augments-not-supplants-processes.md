@@ -31,7 +31,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 170 claims (106 for, 52 mixed, 12 against) · 138 studies (30 review, 30 theoretical, 29 qualitative, 24 causal, 14 design, 10 associational, 1 quant-synthesis), `q1`–`q4` · 8 of 138 report an effect size · 166 claims rest on one study
+> **Evidence** · 170 claims (106 for, 52 mixed, 12 against) · 139 studies (30 review, 30 theoretical, 29 qualitative, 24 causal, 15 design, 10 associational, 1 quant-synthesis), `q1`–`q4` · 8 of 139 report an effect size · 166 claims rest on one study
 
 ## Conditional relationship
 

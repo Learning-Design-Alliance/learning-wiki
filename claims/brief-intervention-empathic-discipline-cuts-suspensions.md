@@ -42,7 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 causal `r3`, 1 review `r2` · `q3`–`q4`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 <!-- title before 2026-10-15: Brief Intervention Empathic Discipline Cuts Suspensions -->
 
 A short, scalable intervention that reframes discipline as an opportunity to maintain relationships with students — rather than to punish — can reduce suspension rates, particularly for students from historically disciplined groups.
@@ -51,7 +51,7 @@ A short, scalable intervention that reframes discipline as an opportunity to mai
 
 `q3 i?` A brief online exercise that encouraged middle-school teachers to take an empathic rather than punitive mindset about discipline halved year-long student suspension rates (9.6% to 4.8%) in a randomized field experiment at five schools, and raised the respect previously suspended students perceived from their teachers. [→ Okonofua et al. 2016](#okonofua-et-al-2016)
 
-`q4 i?` A preregistered, active-placebo-controlled replication with 66 randomized teachers and 5,822 students cut the Black/Hispanic-versus-other suspension disparity from 10.6 to 5.9 percentage points and reduced suspensions for previously suspended students and students in special education, but the preregistered overall main effect was small and only marginal (2.4–3.1 percentage points). [→ Okonofua et al. 2022](#okonofua-et-al-2022)
+`q4 i?` A preregistered, active-placebo-controlled replication with 66 randomized teachers and 5,822 students cut the Black/Hispanic-versus-other suspension disparity from 10.6 to 5.9 percentage points and reduced suspensions for previously suspended students and students in special education, but the preregistered overall main effect was small: 3.1 percentage points and marginal in the full eligible sample (P = .051), and 2.4 points and not significant among the randomized teachers' students (P = .130). [→ Okonofua et al. 2022](#okonofua-et-al-2022)
 
 `q3 i?` In a randomized experiment, classrooms of middle school math teachers assigned to an empathic mindset condition had significantly lower suspension rates than control classrooms, especially for students of color. [→ Hernández 2022](#hernandez-2022)
 
@@ -71,7 +71,7 @@ Okonofua, J. A., Goyer, J. P., Lindsay, C. A., Haugabrook, J., & Walton, G. M. (
 
 `q4 · preregistered active-placebo-controlled randomized field experiment` · `i? · no standardized effect size; main effect b=0.024, 95% CI −0.007 to 0.055 in the randomized sample` · `n=5822 students (66 randomized teachers)` · `causal · r3`
 
-Middle-school math teachers were randomized to a 45–70-minute online empathic-mindset exercise or an active control exercise, and their students' suspensions were tracked for the school year and the following year. The preregistered main effect was small and marginal. In the full eligible sample (173 teachers, 13,210 students), 17.3% of students with treated teachers were suspended against 20.4% of control students (P = 0.051, two-tailed). Among the 66 randomized teachers and their 5,822 students alone, b = 0.024 and P = 0.130. The larger effects were for groups at high risk of suspension. Among Black and Hispanic students, suspensions fell from 26.5% to 20.8%, which narrowed the racial disparity from 10.6 to 5.9 percentage points. Among previously suspended students they fell from 56.1% to 49.6%. The effect on students with two or more prior suspensions was not significant. In a subsample followed into the next year, the reduction held when students had different teachers (16.7% vs 20.9%).
+Middle-school math teachers were randomized to a 45–70-minute online empathic-mindset exercise or an active control exercise, and their students' suspensions were tracked for the school year and the following year. The preregistered main effect was small: marginal in the full eligible sample and not significant in the randomized sample. In the full eligible sample (173 teachers, 13,210 students), 17.3% of students with treated teachers were suspended against 20.4% of control students (P = 0.051, two-tailed). Among the 66 randomized teachers and their 5,822 students alone, b = 0.024 and P = 0.130. The larger effects were for groups at high risk of suspension. Among Black and Hispanic students, suspensions fell from 26.5% to 20.8%, which narrowed the racial disparity from 10.6 to 5.9 percentage points. Among previously suspended students they fell from 56.1% to 49.6%. The effect on students with two or more prior suspensions was not significant. In a subsample of 2,712 students followed into the next year (not preregistered), 94% of whom no longer had the math teacher randomized in the intervention year, the reduction persisted (16.7% vs 20.9%, P = 0.040).
 
 ### Hernández 2022
 

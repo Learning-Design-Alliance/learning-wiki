@@ -9,6 +9,7 @@ generated:
   at: 2026-10-02
 evidence_strength: moderate
 newest_evidence: 2013
+source_checked: 2026-11-05
 sources:
   - id: murray-harvey-2013
     resource: "https://eric.ed.gov/?id=EJ1108330"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teacher education students' written reflections on PBL group work yielded three attitude sub-categories: valuing others' perspectives, interdependence, and learning about self. [→ Murray-Harvey 2013](#murray-harvey-2013)
@@ -37,7 +38,7 @@ Murray-Harvey, R., Pourshafie, T., & Santos Reyes, W. (2013). What teacher educa
 
 `q2 · i?` · `qualitative · r3`
 
-Qualitative analysis of written reflections (journals, two assignments) from 122 Australian teacher education students who studied two PBL cases over one semester. Open coding in NVivo classified statements into ASK dimensions; the study reports that "Attitudes identified as necessary for collaborative learning were valuing others' perspectives, interdependence, and learning about self."
+Qualitative analysis of written reflections from Australian teacher education students (122 consenting participants) who studied two PBL cases over one semester; the texts analysed were the journal entries of 67 students, Assignment 1 reports of 58 and Learning Evaluations of 46 that referred to PBL. Open coding in NVivo classified statements into ASK dimensions; the study reports that "Attitudes identified as necessary for collaborative learning were valuing others' perspectives, interdependence, and learning about self."
 
 > "Attitudes identified as necessary for collaborative learning were valuing others' perspectives, interdependence, and learning about self."
 

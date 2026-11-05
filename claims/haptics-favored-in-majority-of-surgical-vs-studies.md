@@ -47,6 +47,6 @@ The review's own qualitative synthesis of 51 included studies comparing haptic v
 ## Related Claims
 
 - Included haptics studies most often used crossover designs, followed by RCTs, with a mean sample size of 24 — related
-- [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](ir-dental-equivalence-mixed-findings.md) — a narrower finding that bears on this claim
+- [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](ir-dental-equivalence-mixed-findings.md) — a narrower finding that bears on this claim
 - Methodological quality of included haptics studies was moderate, with weaknesses in sample size, instrument validity, and blinding — related
 - [Skills trained in a haptic simulator were not transferable to a non-haptic simulator in one randomized trial](haptic-trained-skills-not-transferable-non-haptic-simulator.md) — related

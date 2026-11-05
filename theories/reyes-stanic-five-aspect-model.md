@@ -39,7 +39,7 @@ The review describes Reyes and Stanic's (1988) model explaining differences in m
 
 - [Testimony at a 1987 congressional hearing reported 1985 SAT averages in which Black women scored 43 points below Black men and 264 points below white men, which the witness called a double penalty for minority females](../claims/minority-females-doubly-penalized-on-tests.md) [+W]
 - [Congressional hearing testimony reports, citing a 1979 ETS study second-hand, that females tend to do better on test items with female or neutral figures than on items with male figures](../claims/male-oriented-item-content-biases-test-scores.md) [+W]
-- [Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which admitted by SAT score, invited over 2,500 boys but 1,081 girls in one summer although equal numbers took the test](../claims/test-scores-gate-gifted-program-entry.md) [+W]
+- [Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which used SAT scores to decide summer-program invitations, was inviting over 2,500 boys but only 1,081 girls although equal numbers took the test](../claims/test-scores-gate-gifted-program-entry.md) [+W]
 - [PSAT-based National Merit scholarship selection distributes awards disproportionately to boys, with girls receiving 36 percent of scholarships](../claims/psat-national-merit-awards-skew-male.md) [+W]
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](../claims/sat-underpredicts-girls-performance.md) [+W]
 - [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes](../claims/mit-lower-sat-math-scores-equal-performance.md) [+W]

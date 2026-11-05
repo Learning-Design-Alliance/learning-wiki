@@ -48,7 +48,7 @@ Narrative synthesis across the nine included RCTs assessing Kirkpatrick Level 2 
 - [Learner motivation and engagement (Kirkpatrick Level 1) were consistently high across technology-enhanced neuroanatomy interventions](tl-neuroanatomy-high-motivation-l1.md) — related
 - [Review syntheses: VR/AR most often improved academic achievement and motivation, but sometimes performed no better than conventional technologies](vr-ar-advantages-achievement-motivation-with-null-contrast.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — related
-- [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](ir-dental-equivalence-mixed-findings.md) — a narrower finding that bears on this claim
+- [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](ir-dental-equivalence-mixed-findings.md) — a narrower finding that bears on this claim
 - [VR module matched a textbook on anatomy knowledge at pre-, post- and retention testing while being rated more engaging and motivating (Stepan et al.)](stepan-vr-equal-knowledge-higher-motivation.md) — a narrower finding that bears on this claim
 - [An AR application produced smaller test-score gains than cross-section study and higher extraneous cognitive load (Henssen et al.)](henssen-ar-lower-gains-higher-extraneous-load.md) — a narrower finding that bears on this claim
 - [Mind maps and concept maps significantly enhance knowledge retention, recall, and assessment performance in four of six RCTs among preclinical medical students](mind-concept-maps-improve-preclinical-performance-four-of-six-rcts.md) — related

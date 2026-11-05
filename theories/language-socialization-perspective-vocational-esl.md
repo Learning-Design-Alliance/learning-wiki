@@ -39,7 +39,7 @@ The article interprets participants' learning through a language socialization l
 
 ### Claims
 
-- [Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society](../claims/program-completion-increased-confidence-autonomy-settlement.md) [+W]
+- [Immigrant graduates of a healthcare-aide training program described completing it as raising their confidence and self-esteem, which for some aided settlement and integration in Canada](../claims/program-completion-increased-confidence-autonomy-settlement.md) [+W]
 
 ## Related Theories
 

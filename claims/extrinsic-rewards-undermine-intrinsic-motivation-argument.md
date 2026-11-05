@@ -38,7 +38,7 @@ Jim Reynolds. (2006). Learning-Centered Learning: A Mindset Shift for Educators.
 
 `q1 · i?` · `theoretical · r2`
 
-The essay's 'Learning Motivation' section reports, citing Deci, Koestner & Ryan (1999) and Vansteenkiste & Deci (2003), that external rewards can harm intrinsic motivation; the review attributes this finding to those researchers and quotes their warning about long-term negative effects of controlling behavior.
+The essay's 'Learning Motivation' section reports, citing Deci, Koestner & Ryan (1999) and Vansteenkiste & Deci (2003), that external rewards can harm intrinsic motivation; the essay, an argument for a learning-centered framework rather than an empirical review, attributes this finding to those researchers and quotes their warning about long-term negative effects of controlling behavior.
 
 > "Researchers (Deci, Koestner & Ryan, 1999; Vansteenkiste & Deci, 2003) have documented the negative effect on intrinsic motivation that can be caused by external rewards (extrinsic motivation)."
 

@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Simulation Based Education With Deliberate Practice Improves Clinical Outcomes
+title: Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition
 status: review
 generated:
   by: claude/unspecified
@@ -20,13 +20,14 @@ sources:
     rigour: "?"
 ---
 
-# Simulation Based Education With Deliberate Practice Improves Clinical Outcomes
+# Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i3` large · n=14 studies
 > **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+<!-- title before 2026-11-05 (the meta-analysis measured trainees' clinical skill acquisition, not patient-level clinical outcomes): Simulation Based Education With Deliberate Practice Improves Clinical Outcomes -->
 
-Simulation-based education that incorporates deliberate practice — repeated, goal-directed rehearsal with immediate feedback and increasing difficulty — improves clinical skill performance and, in some domains, patient-level outcomes.
+Simulation-based education that incorporates deliberate practice — repeated, goal-directed rehearsal with immediate feedback and increasing difficulty — improves trainees' clinical skill acquisition, mostly procedural and psychomotor skills. The meta-analysis recorded here did not pool patient-level outcomes; the authors discuss such studies only as related evidence outside it.
 
 ## Subclaims
 

@@ -13,7 +13,7 @@ generated:
 # Metacognitive Skills Evaluation Questionnaire (MSEQ)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A 45-item, six-point Likert self-report questionnaire developed by Chun-Yi Shen et al. to assess college students’ self-planning, self-monitoring, self-modifying, and self-evaluating metacognitive skills.
@@ -22,7 +22,7 @@ A 45-item, six-point Likert self-report questionnaire developed by Chun-Yi Shen 
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Web-based metacognitive skills training significantly improved college students' self-plan, self-monitor, and total metacognitive scores from pretest to posttest](../claims/web-training-prepost-gains-self-plan-self-monitor.md) [+M]
+- [College students given web-based metacognitive skills training rated their self-plan, self-monitor and total metacognitive scores higher at posttest than pretest, but gained more than a control group only on self-plan](../claims/web-training-prepost-gains-self-plan-self-monitor.md) [~W]
 
 ## Related Products and Programmes
 

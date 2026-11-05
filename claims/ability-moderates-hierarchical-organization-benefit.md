@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did"
-description: "Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did"
+title: "In one physics experiment, the hierarchical-organization advantage was significant for medium-ability but not low-ability subjects; no ability-by-treatment interaction was reported"
+description: "In one physics experiment, the hierarchical-organization advantage was significant for medium-ability but not low-ability subjects; no ability-by-treatment interaction was reported"
 id: ability-moderates-hierarchical-organization-benefit
 status: review
 generated:
@@ -28,12 +28,13 @@ sources:
     rigour: 1
 ---
 
-# Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did
+# In one physics experiment, the hierarchical-organization advantage was significant for medium-ability but not low-ability subjects; no ability-by-treatment interaction was reported
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`–`q3`
-> **Currency** · newest study 1979 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 1979 · not yet checked against its sources · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
+<!-- title before 2026-11-05 (the report gives separate within-ability Scheffe contrasts, states no interaction result from its two-way treatment-by-ability ANOVA, and calls its reading "possible"): Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did -->
 
 ## Subclaims
 `q3 i?` Among low-ability subjects in Experiment 1 there was no significant difference between any treatment means; among medium-ability subjects the H treatment significantly exceeded the combined S1 and S2 mean. [→ Eylon 1979](#eylon-1979)
@@ -47,7 +48,7 @@ Eylon, Bat-Sheva; Reif, F. (1979). Effects of Internal Knowledge Organization on
 
 `q3 · i?` · `causal · r2`
 
-Experiment 1 Scheffe a-posteriori contrasts on complex-task scores by ability block: high-ability H and S2 subjects did not differ but both exceeded S1 (p<0.01); medium-ability H subjects exceeded the combined S1/S2 mean (p<0.01); low-ability subjects showed no differences. The two-way ANOVA also showed a significant ability effect (p<0.01).
+Experiment 1 Scheffe a-posteriori contrasts on complex-task scores by ability block: high-ability H and S2 subjects did not differ, and their combined mean exceeded the S1 mean (p<0.01); medium-ability H subjects exceeded the combined S1/S2 mean (p<0.01); low-ability subjects showed no differences. The two-way ANOVA also showed a significant ability effect (p<0.01).
 
 > "Among the low-ability subjects, there was no significant difference between any of the mean scores."
 
@@ -73,7 +74,7 @@ Experiment 3 correlational observation: the two subjects whose retrieval paths c
 - [Hierarchical versus single-level organization does not significantly affect performance on local tasks relying only on individual detailed steps](no-organization-effect-on-local-tasks.md) — related
 - [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — related
 - [Information at higher levels of an acquired hierarchical organization is recalled better than information at lower levels](higher-hierarchy-levels-recalled-better.md) — related
-- [A hierarchical organization facilitates tasks only when matched to the task domain: organization A aids deductive tasks and organization B aids historical tasks](organization-task-match-determines-benefit.md) — related
+- [No hierarchical organization is best for every task: students given organization A did better on deductive tasks and those given organization B on historical tasks](organization-task-match-determines-benefit.md) — related
 - [Algebra ability level differences appear on both criteria with no treatment-by-ability interaction](ability-level-differences-verbal-problem-solving.md) — reports the opposite
 - [Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while prior knowledge did not affect post-test performance in the PF condition](prior-knowledge-moderates-vf-process-vs-pf.md) — related
 - [Previous domain knowledge did not affect e-learning text comprehension, directly or as a moderator](previous-knowledge-null-elearning-comprehension.md) — related

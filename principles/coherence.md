@@ -64,7 +64,7 @@ sources:
 # Coherence Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 46 claims (21 for, 22 mixed, 3 against) · 43 studies (21 causal, 8 review, 5 quant-synthesis, 5 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 12 of 43 report an effect size · 39 claims rest on one study
+> **Evidence** · 46 claims (21 for, 22 mixed, 3 against) · 43 studies (21 causal, 8 review, 5 quant-synthesis, 5 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 13 of 43 report an effect size · 39 claims rest on one study
 
 ## Conditional relationship
 

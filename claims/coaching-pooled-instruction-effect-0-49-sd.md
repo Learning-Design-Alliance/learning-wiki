@@ -33,13 +33,13 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 qualitative `r2` · `q2`–`q4` · `i2` medium
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 
 `q4 i2` Across causal studies of teacher coaching, the pooled effect on teachers' instructional practice is 0.49 SD, with substantial variability across programs (random-effect SD 0.33). [→ Kraft 2018](#kraft-2018)
 
-`q2 i?` A meta-analysis of 60 experimental or quasi-experimental studies found strong positive effects of coaching on educators' instruction and modest effects on student outcomes. [→ Schachner 2024](#schachner-2024)
+`q2 i?` A policy report, citing Kraft et al. (2018), says a meta-analysis of 60 experimental or quasi-experimental studies found strong positive effects of coaching on educators' instruction and modest effects on student outcomes. [→ Schachner 2024](#schachner-2024)
 
 `q2 i?` Effects appear larger for content-specific coaching programs, smaller coaching programs, and coaching combined with traditional professional development. [→ Schachner 2024](#schachner-2024)
 
@@ -61,7 +61,7 @@ Schachner, A., Yun, C., Melnick, H., & Barajas, J. (2024). Coaching at scale: A 
 
 `q2 · i?` · `qualitative · r2`
 
-The report's literature review attributes this to a recent meta-analysis of "60 experimental or quasi-experimental studies" in P-12 settings, reporting "strong positive effects of coaching on educators' instruction" and modest student-outcome effects. No effect sizes are printed.
+The report's literature review attributes this to a recent meta-analysis of "60 experimental or quasi-experimental studies" in P-12 settings, reporting "strong positive effects of coaching on educators' instruction" and modest student-outcome effects. No effect sizes are printed. The meta-analysis it describes is Kraft et al. (2018) (its endnotes 31–32), so this report is a second-hand account of the entry above, not independent evidence; it does not itself state the 0.49 SD estimate or the 43-study count, which come from Kraft 2018.
 
 > "A recent meta-analysis of 60 experimental or quasi-experimental studies found strong positive effects of coaching on educators’ instruction—with similar impacts of coaching shown for preschool, elementary, middle, and high school teachers—and modest effects of coaching on student outcomes."
 

@@ -9,12 +9,12 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 evidence_strength: moderate
-newest_evidence: 2008
+newest_evidence: 2009
 sources:
-  - id: takako-nomi-and-elaine-m-allensworth-2008
-    resource: "http://www.informaworld.com/smpp/content~db=all?content=10.1080/19345740802676739"
-    title: "Takako Nomi and Elaine M. Allensworth. (2008). “Double-dose” Algebra as an Alternative Strategy to Remediation: Effects on Students’ Academic Outcomes. Consortium on Chicago School Research, University of Chicago. http://www.informaworld.com/smpp/content~db=all?content=10.1080/19345740802676739"
-    author: Takako Nomi and Elaine M. Allensworth
+  - id: nomi-allensworth-2009
+    resource: "https://doi.org/10.1080/19345740802676739"
+    title: "Nomi, T., & Allensworth, E. (2009). “Double-dose” algebra as an alternative strategy to remediation: Effects on students’ academic outcomes. *Journal of Research on Educational Effectiveness, 2*(2), 111–148. [doi:10.1080/19345740802676739](https://doi.org/10.1080/19345740802676739)"
+    author: "Nomi, T., & Allensworth, E."
     q: 2
     i: "?"
     kind: causal
@@ -25,19 +25,19 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 
-`q2 i?` After the policy, math classes became more homogeneous in incoming math ability for both low- and high-ability students, with the largest decline in heterogeneity among students just below the national median. [→ Takako Nomi and Elaine M. Allensworth 2008](#takako-nomi-and-elaine-m-allensworth-2008)
+`q2 i?` After the policy, math classes became more homogeneous in incoming math ability for both low- and high-ability students, with the largest decline in heterogeneity among students just below the national median. [→ Nomi & Allensworth 2009](#nomi-allensworth-2009)
 
-`q3 i?` The policy induced a change in school organization: algebra classes were tracked by students' entering math skills. [→ Nomi & Allensworth 2009](#takako-nomi-and-elaine-m-allensworth-2008)
+`q3 i?` The policy induced a change in school organization: algebra classes were tracked by students' entering math skills. [→ Nomi & Allensworth 2009](#nomi-allensworth-2009)
 
 ## Evidence
 
-### Takako Nomi and Elaine M. Allensworth 2008
+### Nomi & Allensworth 2009
 
-Takako Nomi and Elaine M. Allensworth. (2008). “Double-dose” Algebra as an Alternative Strategy to Remediation: Effects on Students’ Academic Outcomes. Consortium on Chicago School Research, University of Chicago. http://www.informaworld.com/smpp/content~db=all?content=10.1080/19345740802676739
+Nomi, T., & Allensworth, E. (2009). “Double-dose” algebra as an alternative strategy to remediation: Effects on students’ academic outcomes. *Journal of Research on Educational Effectiveness, 2*(2), 111–148. [doi:10.1080/19345740802676739](https://doi.org/10.1080/19345740802676739)
 
 `q2 · i?` · `causal · r2`
 

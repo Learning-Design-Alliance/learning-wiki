@@ -49,11 +49,11 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies (4 entries) · 1 causal `r2`, 1 theoretical `r3` · `q2` · `i1` small
-> **Currency** · newest study 2026 · 1 of 4 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · 3 of 4 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 
-`q2 i1` AI-usage groups did not differ at pretest but differed significantly at test in solve rate (η² = 0.039) and skip rate (η² = 0.014). [→ Grace Liu 2026](#grace-liu-2026)
+`q2 i1` AI-usage groups did not differ at pretest but differed significantly at test in solve rate (η² = 0.040) and skip rate (η² = 0.014). [→ Grace Liu 2026](#grace-liu-2026)
 `q2 i1` Direct-solution users showed lower test solve rates than controls, hint-users, and non-users. [→ Grace Liu 2026 (2)](#grace-liu-2026-2)
 `q2 i1` Direct-solution users also skipped more at test than controls and hint-users. [→ Grace Liu 2026 (3)](#grace-liu-2026-3)
 
@@ -69,7 +69,7 @@ Grace Liu, Brian Christian, Tsvetomira Dumbalska, Michiel A. Bakker, Rachit Dube
 
 Cross-sectional analysis of the AI-assisted subset of Experiment 2, grouping participants by self-reported usage (direct answers 61%, hints 27%, no usage 12%). Pretest ANOVAs showed no group differences; test ANOVAs were significant for both measures.
 
-> "However, a one-way ANOVA test revealed a significant difference between the groups for both test solve rate (F(3, 581) = 7.89, P< 0.001, η2 = 0.039) and test skip rate (F(3, 581) =2.80,P=0.039,η 2 =0.014)."
+> "However, a one-way ANOVA test revealed a significant difference between the groups for both test solve rate (F(3, 581) = 8.15, P< 0.001, η2 = 0.040) and test skip rate (F(3, 581) =2.80,P=0.039,η 2 =0.014)."
 
 ### Grace Liu 2026 (2)
 
@@ -77,9 +77,9 @@ Grace Liu, Brian Christian, Tsvetomira Dumbalska, Michiel A. Bakker, Rachit Dube
 
 `q2 · i1` · `causal · r2`
 
-Pairwise t-tests between usage groups in Experiment 2. Direct-solution users (mean 0.65) scored below controls (d = -0.36), below hint-users (d = -0.29), and below non-users (d = -0.66). The authors note these cross-sectional findings are not necessarily causal.
+Pairwise t-tests between usage groups in Experiment 2. Direct-solution users (mean 0.65) scored below controls (d = -0.36), below hint-users (d = -0.30), and below non-users (d = -0.67). The authors note these cross-sectional findings are not necessarily causal.
 
-> "Participants who used the AI to get answers directly demonstrated lower subsequent task performance (mean 0.65, s.d. 0.38) compared to participants in the control group (mean 0.77, s.d. 0.32; t(464) =− 3.77, P< 0.001; Cohen's d=− 0.36, 95% CI [−0.54,-−0.17])"
+> "Participants who used the AI to get answers directly demonstrated lower subsequent task performance (mean 0.65, s.d. 0.38) compared to participants in the control group (mean 0.77, s.d. 0.32; t(464) =−3.84, P< 0.001; Cohen's d=− 0.36, 95% CI [−0.55,-−0.18])"
 
 ### Grace Liu 2026 (3)
 

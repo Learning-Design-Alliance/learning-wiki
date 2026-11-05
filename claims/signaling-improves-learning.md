@@ -43,13 +43,13 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 quant-synthesis `r?`, 1 causal `r?` · `q2`–`q4` · `i1`–`i2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 Signaling (cueing) — highlighting the essential elements of a lesson through visual emphasis, color, arrows, or headings — directs learner attention to key content and away from extraneous material, improving learning outcomes.
 
 ## Subclaims
 
-`q4 i2` An overview of 29 meta-analyses on multimedia design ranks signaling among the design principles with the largest benefits for learning. Its best estimate comes from the largest signaling meta-analysis (g = 0.43, k = 209). [→ Noetel et al. 2022](#noetel-et-al-2022)
+`q4 i2` An overview of 29 systematic reviews on multimedia design ranks signaling among the design principles with the largest benefits for learning. Its best estimate comes from the largest signaling meta-analysis (g = 0.43, k = 209). [→ Noetel et al. 2022](#noetel-et-al-2022)
 
 `q4 i1` A meta-analysis of 29 experiments (2,726 participants) finds that signaling improves learning outcomes by a small-to-moderate amount (d = 0.38), with study, participant, presentation and method features moderating the effect. [→ Alpizar et al. 2020](#alpizar-et-al-2020)
 

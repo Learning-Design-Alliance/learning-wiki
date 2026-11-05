@@ -9,6 +9,7 @@ generated:
   at: 2026-09-26
 evidence_strength: mixed
 newest_evidence: 2018
+source_checked: 2026-11-05
 sources:
   - id: chorianopoulos-2018
     resource: "https://www.irrodl.org/"
@@ -40,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r2` · `q2`
-> **Currency** · newest study 2018 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 3 of 3 entries) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 7 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
@@ -66,7 +67,7 @@ Chorianopoulos, K. (2018). A Taxonomy of Asynchronous Instructional Video Styles
 
 `q2 · i? · non-significant difference reported second-hand; no effect size printed` · `review · r2`
 
-Narrative review attributing to Kizilcec, Bailenson, and Gomez (2015) a comparison of constant versus moderate inclusion of a talking head in slide-presentation videos. No significant learning-performance difference was found; equivalence was not tested. Preference for the face is the authors' noted observation.
+Narrative review attributing to Kizilcec, Bailenson, and Gomez (2015) a comparison of constant versus moderate inclusion of a talking head in slide-presentation videos. The review reports no significant learning-performance difference and does not say whether equivalence was tested, so the result should not be read as shown equivalence. Preference for the face is the authors' noted observation.
 
 > "They found that there were no significant differences in terms of learning performance, but it seems that some students just prefer the presence of the instructor face"
 

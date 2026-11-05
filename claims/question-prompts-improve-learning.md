@@ -8,6 +8,7 @@ generated:
 id: question-prompts-improve-learning
 evidence_strength:
 newest_evidence: 2016
+source_checked: 2026-11-05
 sources:
   - id: hamaker-1986
     resource: "https://doi.org/10.3102/00346543056002212"
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r?` · `q3` · `i2` medium
-> **Currency** · newest study 2016 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 Question prompts are questions embedded in learning materials, tasks, or dialogue that ask learners to respond before, during, or after instruction. They are hypothesized to improve learning by prompting active processing — retrieval, self-explanation, and connection to prior knowledge — rather than passive reading or listening.
 
@@ -51,7 +52,7 @@ Hamaker, C. (1986). The Effects of Adjunct Questions on Prose Learning. *Review 
 
 `q3 · systematic review of the adjunct-questions literature (examines 13 design moderators across studies)` · `i? · no pooled effect size reported in the abstract` · `n=NR (narrative/quantitative review; study count not given in the abstract)` · `quant-synthesis · r?`
 
-This is a review of the research literature on factual and higher-order adjunct (inserted) questions — questions embedded before or after sections of text. It finds that adjunct questions of all cognitive levels strongly help learners on repeated (re-asked) test questions and help more weakly on related test questions. Higher-order adjunct questions (versus factual/verbatim ones) generalize further, improving performance on repeated, related, and even unrelated higher-order test questions. Factual pre-questions and (under time pressure) factual post-questions can actually hurt performance on unrelated, unquestioned material — the classic pre-question "narrowing of attention" cost. Effect sizes varied with text length, question density, question/test format, and control-group performance level, but not with learner age or the interval between reading and test. Only the abstract was available (publisher paywall; no open-access copy found), so no overall quantitative effect size can be reported here.
+This is a review of the research literature on factual and higher-order adjunct (inserted) questions — questions embedded before or after sections of text. It finds that adjunct questions of all cognitive levels strongly help learners on repeated (re-asked) test questions and help more weakly on related test questions. Higher-order adjunct questions (versus factual/verbatim ones) generalize further, improving performance on repeated, related, and even unrelated higher-order test questions. Factual pre-questions, and factual post-questions when study time is controlled, can actually hurt performance on unrelated, unquestioned material; factual post-questions help unrelated questions only when no time restrictions are imposed. Effect sizes varied with text length, question density, question/test format, and control-group performance level, but not with learner age or the interval between reading and test. Only the abstract was available (publisher paywall; no open-access copy found), so no overall quantitative effect size can be reported here.
 
 ### Hattie & Donoghue 2016
 

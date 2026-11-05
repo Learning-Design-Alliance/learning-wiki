@@ -68,7 +68,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 6 studies · 5 causal `r2`, 1 quant-synthesis `r?` · `q2`–`q3` · `i1` small
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · 1 of 6 entries checked against their sources (automated) · not reviewed by a person
 <!-- deprecated title (2026-09-30, overstated its evidence): Interesting but irrelevant details impair learning -->
 <!-- deprecated title (2026-10-05, did not fit the three absorbed studies, and only one entry prints an effect size): Interesting but irrelevant details can impair learning, but the recorded effects are small and depend on the material and the learner -->
 
@@ -113,7 +113,7 @@ González, F. M., Saux, G., & Burin, D. (2019). The decorative images' seductive
 
 `q3 · within-subjects counterbalanced experiments` · `i1 · small effect, η²=.04 (Study 1)` · `n=126 (Study 1); 58 analysed of 65 recruited (Study 2)` · `causal · r2`
 
-In Study 1, 126 first-year undergraduates in a Moodle course read texts with and without decorative, irrelevant images. Each student saw both conditions, in counterbalanced order. Comprehension was a little lower with the images (M = 9.24 vs 9.54; F(1,123) = 4.25, p = .041, η² = .04), and the authors call the effect "very small in magnitude". In Study 2, 65 undergraduates were recruited (58 in the final sample after exclusions and incomplete data) and read harder texts spread across several screens. The images had no overall effect (F(1,53) = 0.02), but they interacted with attentional inhibitory control (F(1,53) = 9.18, η² = .15): students less able to ignore irrelevant visual input understood less when the images were present.
+In Study 1, 126 first-year undergraduates in a Moodle course read texts with and without decorative, irrelevant images. Each student saw both conditions, in counterbalanced order. Comprehension was a little lower with the images (M = 9.24 vs 9.54; F(1,123) = 4.25, p = .041, η² = .04), and the authors call the effect "very small in magnitude". In Study 2, 65 undergraduates were recruited (58 in the final sample after exclusions and incomplete data) and read harder texts spread across several screens. The images had no statistically significant overall effect (F(1,53) = 0.02, p > .05), but they interacted with attentional inhibitory control (F(1,53) = 9.18, η² = .15): students less able to ignore irrelevant visual input understood less when the images were present.
 
 ### Garner et al. 1992
 

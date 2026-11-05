@@ -9,6 +9,7 @@ generated:
   at: 2026-10-02
 evidence_strength: weak
 newest_evidence: 2013
+source_checked: 2026-11-05
 sources:
   - id: murray-harvey-2013
     resource: "https://eric.ed.gov/?id=EJ1108330"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
@@ -38,7 +39,7 @@ Murray-Harvey, R., Pourshafie, T., & Santos Reyes, W. (2013). What teacher educa
 
 `q2 · i?` · `qualitative · r2`
 
-Discussion-section observation from the qualitative analysis of 122 students' written reflections. The authors state that "our students provided minimal reference to group  work delivering benefits (or losses) in relation to higher level cognitive / metacognitive processing, using those terms.", a point of departure from Schmidt et al.'s review.
+Discussion-section observation from the qualitative analysis of written texts from a cohort of 122 teacher education students; the texts analysed came from subsets of them: journal entries of 67 students, Assignment 1 PBL reports of 58, and Learning Evaluations of 46. The authors state that "our students provided minimal reference to group  work delivering benefits (or losses) in relation to higher level cognitive / metacognitive processing, using those terms.", a point of departure from Schmidt et al.'s review.
 
 > "our students provided minimal reference to group  work delivering benefits (or losses) in relation to higher level cognitive / metacognitive processing, using those terms."
 

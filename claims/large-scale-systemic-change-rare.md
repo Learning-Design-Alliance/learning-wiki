@@ -46,6 +46,6 @@ Editorial assertion citing Reigeluth and Garfinkle (1994) on systemic change and
 
 
 ## Related Claims
-- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related
+- [An innovation foreign to the rest of its system may be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related
 - [CSCL initiatives have produced sustainable educational change at classroom, school, and school-system levels](cscl-sustainable-change-three-levels.md) — reports the opposite
 - Three barriers impede replication, meta-analysis, and large-scale impact research: funding, researcher incentives, and instrument sharing — related

@@ -50,12 +50,12 @@ The review reports, citing Shute and Ke (2012) and Wouters et al. (2013), that f
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | Kelly McNeil 2026 | q2 · review · r2 | i? | this claim |
-| [McGaghie et al. 2011](https://doi.org/10.1097/acm.0b013e318217e119) | q3 · quant-synthesis · r? | i3 · large effect, pooled effect size correlation r=0.71 | [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) (supports) |
+| [McGaghie et al. 2011](https://doi.org/10.1097/acm.0b013e318217e119) | q3 · quant-synthesis · r? | i3 · large effect, pooled effect size correlation r=0.71 | [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) (supports) |
 | [Cook et al. 2011](https://doi.org/10.1001/jama.2011.1234) | q4 · quant-synthesis · r3 | i3 · large effect, pooled effect sizes 1.09–1.20 for knowledge and skills; 0.79–0.81 for behaviors | [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) (qualifies) |
 | [Guo 2022](https://doi.org/10.1080/14623943.2021.1995856) | q4 · quant-synthesis · r? | i2 · medium effect, g=0.56 (SE=0.06) | [Reflection interventions in higher education have a medium positive average effect on lear](reflective-practice-evidence-mixed-in-professional-education.md) (qualifies) |
 | [J. Vykopal 2026](https://doi.org/10.48550/arxiv.2607.28179) | q1 · design · r2 | i? | [In one design report on 25 cybersecurity tabletop exercises, the authors observed that tra](reflection-debriefing-time-underscheduled.md) (supports) |
 | [Zhiqi Gao 2026](https://doi.org/10.48550/arxiv.2606.17512) | q2 · qualitative · r3 | i? | [Formative participants preferred post-session debriefing over in-session interruption, wit](feedback-timing-post-session-debrief-preference.md) (qualifies) |
-| [Elliott 2021](https://doi.org/10.30707/tlcsd5.1.1624982519.538001) | q2 · qualitative · r3 | i? | [Students perceive debriefing and guided psychometric-property exploration as the most bene](debriefing-psychometric-instruction-valued.md) (supports) |
+| [Elliott 2021](https://doi.org/10.30707/tlcsd5.1.1624982519.538001) | q2 · qualitative · r3 | i? | [Graduate students in a simulated clinical course reported positive experiences with its we](debriefing-psychometric-instruction-valued.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -68,7 +68,7 @@ The review reports, citing Shute and Ke (2012) and Wouters et al. (2013), that f
 - [A 2017 cyberlearning community report states that students learn more from games when bridging activities connect game learning to classroom instruction, and that learning analytics can strengthen the connection](bridging-activities-connect-game-learning-to-instruction.md) — a narrower finding that bears on this claim
 - [In one design report on 25 cybersecurity tabletop exercises, the authors observed that trainees consistently wanted more debriefing time than the schedule allowed](reflection-debriefing-time-underscheduled.md) — a narrower finding that bears on this claim
 - [Formative participants preferred post-session debriefing over in-session interruption, with timing treated as contingent on error severity](feedback-timing-post-session-debrief-preference.md) — related
-- [Students perceive debriefing and guided psychometric-property exploration as the most beneficial components of a simulated clinical course](debriefing-psychometric-instruction-valued.md) — a narrower finding that bears on this claim
+- [Graduate students in a simulated clinical course reported positive experiences with its weekly debriefing and guided exploration of psychometric properties](debriefing-psychometric-instruction-valued.md) — a narrower finding that bears on this claim
 - [Immediate explanatory feedback prevents consolidation of erroneous concepts in interactive tutoring](immediate-explanatory-feedback-prevents-error-consolidation.md) — a narrower finding that bears on this claim
 - [Feedback and debriefing are the most important educational components of simulation-based learning in cardiac arrest education](feedback-debriefing-most-important-simulation-components.md) — a narrower finding that bears on this claim
 - [Difficulties with ITEM debriefing-domain questions may reflect limited contextual applicability rather than wording alone, because participants had not undergone a formal PEARLS-based structured debrief](item-debriefing-domain-contextual-applicability.md) — a narrower finding that bears on this claim

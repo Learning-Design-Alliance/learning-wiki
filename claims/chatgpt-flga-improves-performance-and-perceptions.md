@@ -9,13 +9,15 @@ generated:
   at: 2026-10-15
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-05
 sources:
   - id: li-2023
     resource: "https://doi.org/10.14742/ajet.8923"
     title: "Li, H. (2023). Effects of a ChatGPT-based flipped learning guiding approach on learners’ courseware project performances and perceptions. Australasian Journal of Educational Technology, 39(5), 40–58. https://doi.org/10.14742/ajet.8923"
     author: Li, H.
     q: 3
-    i: "?"
+    i: 2
+    n: 81
     kind: causal
     rigour: 2
 ---
@@ -23,11 +25,11 @@ sources:
 # Learning with a ChatGPT-based flipped learning guiding approach significantly improves students’ performance, self-efficacy, learning attitudes, intrinsic motivation and creative thinking in a courseware project
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium · n=81
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Students in the experimental group learning with ChatGPT-FLGA showed significantly improved performance, self-efficacy, learning attitudes, intrinsic motivation and creative thinking compared with the control group. [→ Li 2023](#li-2023)
+`q3 i2` Students in the experimental class learning with ChatGPT-FLGA scored higher on project performance (partial η² = .09) and rated their self-efficacy, learning attitudes, intrinsic motivation and creative thinking higher (partial η² = .05–.09) than the control class. [→ Li 2023](#li-2023)
 
 ## Evidence
 
@@ -35,9 +37,9 @@ sources:
 
 Li, H. (2023). Effects of a ChatGPT-based flipped learning guiding approach on learners’ courseware project performances and perceptions. Australasian Journal of Educational Technology, 39(5), 40–58. https://doi.org/10.14742/ajet.8923
 
-`q3 · i?` · `causal · r2`
+`q3 · i2 · medium effect, partial η² = .09 on project performance` · `n=81` · `causal · r2`
 
-A quasi-experiment in a courseware project compared two classes: one randomly assigned to the experimental group using ChatGPT-FLGA, the other a control group; both received flipped classroom instruction and discussed via Tencent QQ. The article reports the approach "significantly improved students’ performance, self-efficacy, learning attitudes, intrinsic motivation and creative thinking"; no effect sizes are printed in the supplied text.
+A quasi-experiment in a courseware project compared two intact classes: one (42 students) randomly assigned to the experimental group using ChatGPT-FLGA, the other (39) a control group using a conventional flipped learning guiding approach; both received flipped classroom instruction from the same teacher and discussed via Tencent QQ. One-way ANCOVAs favoured the experimental group on project performance (F = 8.32, partial η² = .09) and on the questionnaire ratings of self-efficacy (partial η² = .05), learning attitudes (.06), intrinsic motivation (.09) and creative thinking tendency (.08); extrinsic motivation did not differ (partial η² = .01). Project performance was scored with a rubric; the other outcomes were measured with self-report questionnaire scales.
 
 > "The results revealed that the ChatGPT-FLGA significantly improved students’ performance, self-efficacy, learning attitudes, intrinsic motivation and creative thinking."
 

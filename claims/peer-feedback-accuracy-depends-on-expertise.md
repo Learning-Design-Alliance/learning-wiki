@@ -84,7 +84,7 @@ Schunn, C., Godley, A., & DeMartino, S. (2016). The reliability and validity of 
 | [David Carless & David Boud 2018](https://doi.org/10.1080/02602938.2018.1463354) | q2 · review · r2 | i? | [Coached peer review improves the specificity of reviewer comments and receivers' uptake of](coached-peer-review-improves-comment-quality-and-uptake.md) (qualifies) |
 | [Banihashem 2024](https://doi.org/10.1186/s41239-024-00455-4) | q2 · associational · r2 | i1 | [Peers outperformed ChatGPT in identifying problems within essays](peers-better-problem-identification-feedback.md) (qualifies) |
 | [Kulkarni 2015](https://doi.org/10.1007/978-3-319-06823-7_9) | q2 · causal · r1 | i? | [In a large online class, peer grades correlated highly with staff-assigned grades, with me](peer-grades-correlate-highly-with-staff-grades-mooc.md) (qualifies); [Aggregating peer grades with the median improves agreement with staff grades compared with](median-aggregation-improves-peer-grade-agreement.md) (qualifies); [Students rated peers' work from their own country 3.6% higher than work from elsewhere](in-group-favoritism-peer-grading-country.md) (qualifies) |
-| [Xie 2025](https://doi.org/10.3390/bs15070884) | q2 · qualitative · r2 | i? | [Peer feedback promoted critical reflection, collaboration and engagement, but students dou](peer-feedback-soft-evaluative-judgement-statistics.md) (qualifies) |
+| [Xie 2025](https://doi.org/10.3390/bs15070884) | q2 · qualitative · r2 | i? | [Peer feedback promoted critical reflection, collaboration and engagement, but one intervie](peer-feedback-soft-evaluative-judgement-statistics.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

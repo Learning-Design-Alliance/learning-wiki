@@ -9,6 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: moderate
 newest_evidence: 1996
+source_checked: 2026-11-05
 sources:
   - id: schunk-1996
     resource: "https://eric.ed.gov/?id=ED394663"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 1996 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 1996 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 5 design pages cite it; treat it as a lead to check, not an established finding.
 <!-- deprecated title (2026-10-05, overstated its evidence): Proximal goals, ability attributional feedback, and peer models raise self-efficacy for learning more than distant goals, effort feedback, and teacher models -->
 
@@ -48,7 +49,7 @@ Schunk, D. H. (1996). Self-Efficacy for Learning and Performance. https://eric.e
 
 `q2 · narrative review reporting earlier studies second-hand · i? · the article prints no effect size for this finding` · `review · r2`
 
-Empirical evidence section on task factors, citing the Bandura and Schunk (1981) fractions study. Proximal goals are hypothesized to convey clearer information to students concerning their learning progress.
+Empirical evidence section on task factors, citing Bandura and Schunk (1981); the review does not describe that study's task or participants. Proximal goals are hypothesized to convey clearer information to students concerning their learning progress.
 
 > "close-at-hand proximal goals lead to higher self-efficacy, motivation, and skillful performance, compared with temporally distant goals (Bandura & Schunk, 1981)"
 

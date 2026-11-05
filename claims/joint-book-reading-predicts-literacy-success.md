@@ -42,7 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 3 quant-synthesis `r3` · `q3` · `i2` medium
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 The frequency and quality of adult–child shared book reading during early childhood is associated with later reading achievement, vocabulary growth, and emergent literacy skills. The claim is predictive rather than causal: the association is well established, but the unique causal contribution of shared reading itself remains contested.
 
@@ -50,9 +50,9 @@ The frequency and quality of adult–child shared book reading during early chil
 
 `q3 i2` Across the studies in a meta-analysis of how often parents read to preschoolers, reading frequency was related to language growth, emergent literacy and reading achievement (d = .59, about 8% of variance). The association held regardless of family socioeconomic status and grew smaller once children could read on their own. [→ Bus et al. 1995](#bus-et-al-1995)
 
-`q3 i2` Interactive (dialogic) shared reading adds to ordinary shared reading: in 16 intervention studies it raised expressive vocabulary with a moderate effect (d = .59, k = 9, n = 322), but the effect shrank substantially for 4- to 5-year-olds and for children at risk of language and literacy impairment. [→ Mol et al. 2008](#mol-et-al-2008)
+`q3 i2` Interactive (dialogic) shared reading adds to ordinary shared reading on vocabulary: a meta-analysis of 16 intervention studies measured vocabulary only (not literacy more broadly), and for the 9 studies measuring expressive vocabulary (k = 9, n = 322) the effect was moderate (d = .59), but it shrank substantially for 4- to 5-year-olds and for children at risk of language and literacy impairment. [→ Mol et al. 2008](#mol-et-al-2008)
 
-`q3 i2` Print exposure correlates moderately to strongly with reading comprehension and with technical reading and spelling from preschool to university (99 studies, N = 7,669). The authors read this as an upward spiral of causality and place shared reading to pre-readers at the start of that continuum. [→ Mol & Bus 2011](#mol-bus-2011)
+`q3 i2` Print exposure correlates moderately to strongly with reading comprehension and with technical reading and spelling from preschool to university (99 studies, N = 7,669). The authors read this as an upward spiral of causality and suggest that shared reading to pre-readers "may be part of" that continuum; the study measured leisure-time print exposure, not joint book reading, so it bears on this claim only indirectly. [→ Mol & Bus 2011](#mol-bus-2011)
 
 ## Evidence
 
@@ -70,7 +70,7 @@ Mol, S. E., Bus, A. G., de Jong, M. T., & Smeets, D. J. H. (2008). Added Value o
 
 `q3 · meta-analysis of intervention studies` · `i2 · medium effect, d=.59 (expressive vocabulary)` · `n=16 studies (expressive vocabulary: k=9, n=322 children)` · `quant-synthesis · r3`
 
-This meta-analysis included 16 studies that compared a dialogic reading intervention group, in which the child takes an active part in the reading, with a reading-as-usual control group and measured vocabulary ([dialogic reading](../elements/dialogic-reading.md)). For expressive vocabulary the added value of dialogic reading was moderate: d = .59 (SE = .08, 95% CI 0.44–0.75). The effect shrank substantially when the children were older (4 to 5 years) or at risk for language and literacy impairments. Dialogic reading changed the home literacy activities of families with 2- to 3-year-olds, but not those of families whose children were at greatest risk of school failure. This comparison between two reading formats is the page's best evidence that interaction quality matters. It also qualifies the claim, because the benefit is smallest for the children most in need.
+This meta-analysis included 16 studies that compared a dialogic reading intervention group, in which the child takes an active part in the reading, with a reading-as-usual control group and measured vocabulary ([dialogic reading](../elements/dialogic-reading.md)). For expressive vocabulary, measured in 9 of the 16 studies (k = 9, n = 322), the added value of dialogic reading was moderate: d = .59 (SE = .08, 95% CI 0.44–0.75). The study measured vocabulary only, so it bears on the language side of this claim rather than on later reading achievement. The effect shrank substantially when the children were older (4 to 5 years) or at risk for language and literacy impairments. Dialogic reading changed the home literacy activities of families with 2- to 3-year-olds, but not those of families whose children were at greatest risk of school failure. This comparison between two reading formats is the page's best evidence that interaction quality matters. It also qualifies the claim, because the benefit is smallest for the children most in need.
 
 ### Mol & Bus 2011
 
@@ -78,7 +78,7 @@ Mol, S. E., & Bus, A. G. (2011). To read or not to read: A meta-analysis of prin
 
 `q3 · meta-analysis of correlational studies` · `i2 · moderate-to-strong correlations; print exposure explained 12% of variance in oral language in preschool/kindergarten` · `n=99 studies (N=7,669)` · `quant-synthesis · r?`
 
-This research synthesis meta-analysed 99 studies (N = 7,669) of leisure-time reading in preschoolers and kindergartners, in pupils in Grades 1–12, and in college and university students. Print exposure correlated moderately to strongly with reading comprehension and with technical reading and spelling. The share of variance it explained in oral language rose from 12% in preschool and kindergarten to 34% at college and university. The authors interpret the pattern as an upward spiral of causality, and conclude that shared book reading to preconventional readers may be part of a continuum of out-of-school reading experiences. The evidence is correlational and bidirectional: more proficient readers also read more.
+This research synthesis meta-analysed 99 studies (N = 7,669) of leisure-time reading in preschoolers and kindergartners, in pupils in Grades 1–12, and in college and university students. Print exposure correlated moderately to strongly with reading comprehension and with technical reading and spelling. The abstract gives the variance it explained as an example: "in preschool and kindergarten print exposure explained 12% of the variance in oral language skills, in primary school 13%, in middle school 19%, in high school 30%, and in college and university 34%." The authors interpret the pattern as an upward spiral of causality, and conclude that shared book reading to preconventional readers may be part of a continuum of out-of-school reading experiences. The evidence is correlational and bidirectional: more proficient readers also read more. The meta-analysis did not measure joint book reading itself, so it supports this claim only indirectly, through the authors' suggestion that shared reading is an early part of the same continuum.
 
 ## Studies bearing on this claim
 

@@ -46,5 +46,5 @@ Paired-samples t test on a 10-item, 5-point Likert questionnaire (adopted from A
 
 ## Related Claims
 - [Skimming, inferring, and context-clues strategy use rose significantly after training, but note-taking use did not change](skimming-inferring-context-clues-gained-note-taking-not.md) — a narrower finding that bears on this claim
-- [Web-based metacognitive skills training significantly improved college students' self-plan, self-monitor, and total metacognitive scores from pretest to posttest](web-training-prepost-gains-self-plan-self-monitor.md) — related
+- [College students given web-based metacognitive skills training rated their self-plan, self-monitor and total metacognitive scores higher at posttest than pretest, but gained more than a control group only on self-plan](web-training-prepost-gains-self-plan-self-monitor.md) — related
 - [Web-based reading strategy training improved Iranian EFL learners' hypertext reading comprehension from pretest to posttest](web-based-strategy-training-improved-hypertext-comprehension.md) — related

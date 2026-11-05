@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "A hierarchical organization facilitates tasks only when matched to the task domain: organization A aids deductive tasks and organization B aids historical tasks"
-description: "A hierarchical organization facilitates tasks only when matched to the task domain: organization A aids deductive tasks and organization B aids historical tasks"
+title: "No hierarchical organization is best for every task: students given organization A did better on deductive tasks and those given organization B on historical tasks"
+description: "No hierarchical organization is best for every task: students given organization A did better on deductive tasks and those given organization B on historical tasks"
 id: organization-task-match-determines-benefit
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: moderate
 newest_evidence: 1979
+source_checked: 2026-11-05
 sources:
   - id: eylon-1979
     resource: "https://eric.ed.gov/?id=ED171804"
@@ -28,11 +29,11 @@ sources:
     rigour: 2
 ---
 
-# A hierarchical organization facilitates tasks only when matched to the task domain: organization A aids deductive tasks and organization B aids historical tasks
+# No hierarchical organization is best for every task: students given organization A did better on deductive tasks and those given organization B on historical tasks
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 1979 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1979 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 6 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
@@ -47,7 +48,7 @@ Eylon, Bat-Sheva; Reif, F. (1979). Effects of Internal Knowledge Organization on
 
 `q2 · i? · the article prints no effect size for this finding` · `causal · r2`
 
-Experiment 2: 20 students in an advanced high-school physics class, blocked by ability and randomly assigned to treatments inducing organization A (deductive information at higher levels) or B (historical at higher levels); tested two weeks later on both task types. The consistent pattern held on every one of the cued-recall and problem-solving tasks.
+Experiment 2: 20 students in an advanced high-school physics class, blocked by ability and randomly assigned to treatments inducing organization A (deductive information at higher levels) or B (historical at higher levels); tested two weeks later on both task types. The consistent pattern held on every one of the cued-recall and problem-solving tasks. The advantage is relative: the experiment compared the two hierarchical organizations with each other, not with a non-hierarchical control, and overall performance on the combined tasks was "about equally good" for both; the authors conclude that "no hierarchical organization is universally superior for all tasks".
 
 > "As predicted, subjects with the A organization performed consistently better on tasks of type a, while subjects with the B organization performed consistently better un tasks of type b."
 
@@ -57,7 +58,7 @@ Eylon, Bat-Sheva; Reif, F. (1979). Effects of Internal Knowledge Organization on
 
 `q2 · i?` · `causal · r2`
 
-ANOVA on the difference score between composite type-a and type-b task scores in Experiment 2 showed a significant input-version effect [F(1,12)=6.45, p<0.03], with no significant effect of strong versus weak acquisition tasks or of ability.
+ANOVA on the difference score between composite type-a and type-b task scores in Experiment 2 showed a significant input-version effect [F(1,12)=6.45, p<0.03], with no significant effect of strong versus weak acquisition tasks or of ability. The difference score measures the two organizations against each other; no non-hierarchical control was tested in this experiment.
 
 > "An analysis of variance (input version x acquisition tasks, blocked by 5 levels of ability) shows that this difference score depends signifi-cantly on the input version A or B (F(1,12) . 6,45,p < 0.03]"
 
@@ -69,7 +70,7 @@ ANOVA on the difference score between composite type-a and type-b task scores in
 - [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — related
 - [A hierarchical internal knowledge organization facilitates performance on complex recall and problem-solving tasks more than a single-level organization of the same knowledge](hierarchical-organization-improves-complex-task-performance.md) — related
 - [Information at higher levels of an acquired hierarchical organization is recalled better than information at lower levels](higher-hierarchy-levels-recalled-better.md) — related
-- [Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did](ability-moderates-hierarchical-organization-benefit.md) — related
+- [In one physics experiment, the hierarchical-organization advantage was significant for medium-ability but not low-ability subjects; no ability-by-treatment interaction was reported](ability-moderates-hierarchical-organization-benefit.md) — related
 - [Strong acquisition tasks explicating the organization produce better internalization than weak tasks asking only for a structured summary](strong-acquisition-tasks-improve-internalization.md) — related
 - [Structural signals show no consistent recall benefits but can aid deeper understanding measured by problem-solving tests](structural-signals-aid-problem-solving-not-recall.md) — related
 - [Hierarchical versus single-level organization does not significantly affect performance on local tasks relying only on individual detailed steps](no-organization-effect-on-local-tasks.md) — related

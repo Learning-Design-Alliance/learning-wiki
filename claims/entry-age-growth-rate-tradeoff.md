@@ -9,12 +9,13 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
-newest_evidence: 2020
+newest_evidence: 2021
+source_checked: 2026-11-05
 sources:
-  - id: angela-johnson-2020
+  - id: johnson-kuhfeld-2021
     resource: "https://doi.org/10.1080/19345747.2021.1894519"
-    title: "Angela Johnson, Megan Kuhfeld. (2020). Impacts of school entry age on academic growth through 2nd Grade: A multi-state regression discontinuity analysis. NWEA Research working paper. https://www.nwea.org/research/publication/impacts-of-school-entry-age-on-academic-growth-through-2nd-grade-a-multi-state-regression-discontinuity-analysis/ [doi:10.1080/19345747.2021.1894519](https://doi.org/10.1080/19345747.2021.1894519)"
-    author: Angela Johnson, Megan Kuhfeld
+    title: "Johnson, A., & Kuhfeld, M. (2021). Impacts of school entry age on academic growth through 2nd grade: A multi-state regression discontinuity analysis. *Journal of Research on Educational Effectiveness, 14*(3), 543–569. [doi:10.1080/19345747.2021.1894519](https://doi.org/10.1080/19345747.2021.1894519)"
+    author: "Johnson, A., & Kuhfeld, M."
     q: 3
     i: "?"
     kind: causal
@@ -25,21 +26,21 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 
-`q3 i?` A year of additional age at entry is associated with faster kindergarten growth but slower growth during 1st and 2nd grades. [→ Angela Johnson 2020](#angela-johnson-2020)
+`q3 i?` A year of additional age at entry is associated with faster kindergarten growth but slower growth during 1st and 2nd grades. [→ Johnson Kuhfeld 2021](#johnson-kuhfeld-2021)
 
-`q2 i?` Older school entry may confer an early advantage, but that advantage fades in later grades. [→ Angela Johnson 2020](#angela-johnson-2020)
+`q2 i?` Being a year older at entry leads to higher initial achievement and faster kindergarten growth, but slower growth in 1st and 2nd grades; the abstract does not say whether the achievement advantage itself closes by 2nd grade. [→ Johnson Kuhfeld 2021](#johnson-kuhfeld-2021)
 
-`q2 i?` The finding comes from a multi-state regression discontinuity analysis of academic growth through second grade. [→ Angela Johnson 2020](#angela-johnson-2020)
+`q2 i?` The finding comes from a multi-state regression discontinuity analysis of academic growth through second grade. [→ Johnson Kuhfeld 2021](#johnson-kuhfeld-2021)
 
 ## Evidence
 
-### Angela Johnson 2020
+### Johnson Kuhfeld 2021
 
-Angela Johnson, Megan Kuhfeld. (2020). Impacts of school entry age on academic growth through 2nd Grade: A multi-state regression discontinuity analysis. NWEA Research working paper. https://www.nwea.org/research/publication/impacts-of-school-entry-age-on-academic-growth-through-2nd-grade-a-multi-state-regression-discontinuity-analysis/ [doi:10.1080/19345747.2021.1894519](https://doi.org/10.1080/19345747.2021.1894519)
+Johnson, A., & Kuhfeld, M. (2021). Impacts of school entry age on academic growth through 2nd grade: A multi-state regression discontinuity analysis. *Journal of Research on Educational Effectiveness, 14*(3), 543–569. [doi:10.1080/19345747.2021.1894519](https://doi.org/10.1080/19345747.2021.1894519)
 
 `q3 · i?` · `causal · r?`
 

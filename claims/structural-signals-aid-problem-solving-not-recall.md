@@ -68,7 +68,7 @@ The review reports, citing Spyridakis and Standal (1987), that across eight vers
 - [Clear Structure Improves Learning](clear-structure-improves-learning.md) — a broader claim this one bears on
 - [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — related
 - [A hierarchical internal knowledge organization facilitates performance on complex recall and problem-solving tasks more than a single-level organization of the same knowledge](hierarchical-organization-improves-complex-task-performance.md) — related
-- [A hierarchical organization facilitates tasks only when matched to the task domain: organization A aids deductive tasks and organization B aids historical tasks](organization-task-match-determines-benefit.md) — related
+- [No hierarchical organization is best for every task: students given organization A did better on deductive tasks and those given organization B on historical tasks](organization-task-match-determines-benefit.md) — related
 - [Strong acquisition tasks explicating the organization produce better internalization than weak tasks asking only for a structured summary](strong-acquisition-tasks-improve-internalization.md) — related
 - [Adjunct aids such as learning objectives and embedded questions show limited effects and may interfere with competent readers' natural strategies](adjunct-aids-limited-effects-interference.md) — related
 - [Expert revisers' improvements are inconsistent across texts, with only signaling-structure strategies reliably corresponding to improved retention](expert-revisers-strategies-inconsistent-signaling-works.md) — reports the opposite

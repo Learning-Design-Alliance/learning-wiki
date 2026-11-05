@@ -7,10 +7,10 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-08
 sources:
-  - id: takako-nomi-and-elaine-m-allensworth-2008
-    resource: "http://www.informaworld.com/smpp/content~db=all?content=10.1080/19345740802676739"
-    title: "Takako Nomi and Elaine M. Allensworth. (2008). “Double-dose” Algebra as an Alternative Strategy to Remediation: Effects on Students’ Academic Outcomes. Consortium on Chicago School Research, University of Chicago. http://www.informaworld.com/smpp/content~db=all?content=10.1080/19345740802676739"
-    author: Takako Nomi and Elaine M. Allensworth
+  - id: nomi-allensworth-2009
+    resource: "https://doi.org/10.1080/19345740802676739"
+    title: "Nomi, T., & Allensworth, E. (2009). “Double-dose” algebra as an alternative strategy to remediation: Effects on students’ academic outcomes. *Journal of Research on Educational Effectiveness, 2*(2), 111–148. [doi:10.1080/19345740802676739](https://doi.org/10.1080/19345740802676739)"
+    author: "Nomi, T., & Allensworth, E."
 ---
 
 # Three-mechanism conceptual framework for how double-dose algebra affects outcomes: expanded time, changed instruction, and unintended tracking
@@ -56,4 +56,4 @@ The article proposes that the policy could affect outcomes through two intention
 - [Ninth-grade structure of interdisciplinary learning communities with double-dose courses and freshman seminars](../designs/ninth-grade-interdisciplinary-double-dose-structure.md)
 
 ## Key Sources
-- Takako Nomi and Elaine M. Allensworth. (2008). “Double-dose” Algebra as an Alternative Strategy to Remediation: Effects on Students’ Academic Outcomes. Consortium on Chicago School Research, University of Chicago. http://www.informaworld.com/smpp/content~db=all?content=10.1080/19345740802676739
+- Nomi, T., & Allensworth, E. (2009). “Double-dose” algebra as an alternative strategy to remediation: Effects on students’ academic outcomes. *Journal of Research on Educational Effectiveness, 2*(2), 111–148. [doi:10.1080/19345740802676739](https://doi.org/10.1080/19345740802676739)

@@ -65,5 +65,5 @@ Table 1 of the brief contrasts effective and less-effective feedback qualities, 
 
 ## Related Claims
 - [Teacher feedback as part of formative assessment has been shown by multiple studies to move student learning forward](teacher-feedback-moves-learning-forward.md) — a broader claim this one bears on
-- [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve](probing-feedback-revise-resubmit-evidence.md) — related
+- [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate improved on some criteria but not others](probing-feedback-revise-resubmit-evidence.md) — related
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — related

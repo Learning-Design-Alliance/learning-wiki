@@ -46,4 +46,4 @@ Descriptive moderator finding from the meta-analysis of 32 interventions reporte
 
 
 ## Related Claims
-- [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve](probing-feedback-revise-resubmit-evidence.md) — related
+- [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate improved on some criteria but not others](probing-feedback-revise-resubmit-evidence.md) — related

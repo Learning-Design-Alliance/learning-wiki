@@ -9,6 +9,7 @@ generated:
   at: 2026-10-08
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-11-05
 recheck_by: 2024
 sources:
   - id: soland-2021
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
+> **Currency** · newest study 2021 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` A large-scale study compared threshold-setting methods for detecting noneffortful item responses using reading test scores from over 728,923 3rd-8th-grade students in 2,056 schools in one U.S. state (the abstract says "across the United States", but the Methods section places the data in one state). [→ Soland 2021](#soland-2021)
@@ -38,9 +39,9 @@ Soland, J., Kuhfeld, M., & Rios, J. (2021). Comparing different response time th
 
 `q2 · i?` · `associational · r2`
 
-An NWEA publications listing (read in place of the article) gives this study's summary: a large-scale comparison of threshold-setting methods on reading test scores, covering "over 728,923 3rd–8th-grade students in 2,056 schools across the US". No per-method results are printed in the listing. The article's Methods section states that the data are from one U.S. state, so "across the US" describes the summary's wording, not a nationwide sample.
+The article's abstract describes a large-scale comparison of response-time threshold-setting methods (CUMP, MLN, NT10, NT30) on reading test scores from a computer-adaptive test of nearly 12,000 items, covering "over 728,923 3rd–8th-grade students in 2056 schools across the United States". The Methods section states that "the data for this study are from one U.S. state within the Growth Research Database (GRD) at NWEA", so "across the United States" is the abstract's wording, not a nationwide sample.
 
-> "This study uses reading test scores from over 728,923 3rd–8th-grade students in 2,056 schools across the US to compare threshold-setting methods to detect noneffortful item responses."
+> "In this study, we use reading test scores from over 728,923 3rd–8th-grade students in 2056 schools across the United States taking a CAT consisting of nearly 12,000 items to compare threshold-setting methods."
 
 ## Discussion
 

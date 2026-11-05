@@ -17,7 +17,7 @@ sources:
 # Use ChatGPT as a tool for supporting students’ learning and promoting problem-solving skills
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that "Teachers and universities should utilise ChatGPT as a tool for supporting students’ learning and promoting their problem-solving skills." This is an implementable practice recommendation drawn from the study's findings that ChatGPT-FLGA improved performance and perceptions. It positions ChatGPT as a learning support tool rather than a replacement for instruction.

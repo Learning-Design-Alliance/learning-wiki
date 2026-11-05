@@ -8,8 +8,8 @@ generated:
   at: 2026-09-25
 sources:
   - id: qais-faryadi-2007
-    resource: "http://www.juliantrubin.com/bigten/skinnerbox.html"
-    title: "Qais Faryadi. (2007). Behaviorism and the Construction of Knowledge. http://www.juliantrubin.com/bigten/skinnerbox.html"
+    resource: "https://eric.ed.gov/?id=ED495301"
+    title: "Qais Faryadi. (2007). Behaviorism and the Construction of Knowledge. [ERIC ED495301](https://eric.ed.gov/?id=ED495301)"
     author: Qais Faryadi
 ---
 
@@ -37,7 +37,7 @@ The review presents behaviorism, associated with B.F. Skinner, as a theory in wh
 
 ### Claims
 
-- [A non-peer-reviewed web essay asserts, citing an earlier source second-hand, that behaviorist reinforcement methods are very effective in creating positive behavior in almost any learning environment](../claims/behaviorist-reinforcement-effective-positive-behavior.md) [+W]
+- [A narrative review asserts, citing an earlier source second-hand, that behaviorist reinforcement methods are very effective in creating positive behavior in almost any learning environment](../claims/behaviorist-reinforcement-effective-positive-behavior.md) [+W]
 
 ## Related Theories
 
@@ -50,4 +50,4 @@ The review presents behaviorism, associated with B.F. Skinner, as a theory in wh
 - [Behaviorism](behaviorism.md)
 
 ## Key Sources
-- Qais Faryadi. (2007). Behaviorism and the Construction of Knowledge. http://www.juliantrubin.com/bigten/skinnerbox.html
+- Qais Faryadi. (2007). Behaviorism and the Construction of Knowledge. [ERIC ED495301](https://eric.ed.gov/?id=ED495301)
