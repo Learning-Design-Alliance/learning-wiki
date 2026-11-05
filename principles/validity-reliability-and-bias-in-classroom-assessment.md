@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 409 claims (187 for, 194 mixed, 28 against) · 308 studies (98 associational, 72 design, 50 causal, 46 review, 26 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 27 of 308 report an effect size · 402 claims rest on one study
+> **Evidence** · 411 claims (189 for, 194 mixed, 28 against) · 309 studies (98 associational, 72 design, 51 causal, 46 review, 26 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 27 of 309 report an effect size · 404 claims rest on one study
 
 ## Conditional relationship
 
@@ -253,6 +253,8 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [The DistilBERT model shows indications of fairness violations when comparing human and AI scores across different topics](../claims/distilbert-fairness-violations-across-topics.md) [+W] — attached 2026-11-04 from Debelak Rudolf (2026), which proposed "Evaluate fairness of AI-based scores by comparing model accuracy and score bias across relevant subgroups (prediction invariance)"; tests this page's relationship.
 - [GenAI-assisted item sets showed lower KR-20 internal consistency reliability, and Spearman-Brown projections implied far more items would be needed to reach KR-20=0.70](../claims/genai-mcq-lower-reliability.md) [+M] — attached 2026-11-04 from Sze Kai Ping et al. (2026), which proposed "Use GenAI as a drafting adjunct within educator-led item workflows that prioritize distractor engineering, pilot testing, empirical item analysis, and repair before item-bank or summative use"; tests this page's relationship.
 - [Task-specific metrics show excellent inter-rater reliability for simulated laparoscopic crural repair assessment](../claims/tsm-excellent-inter-rater-reliability-crural-repair.md) [+W] — attached 2026-11-04 from Garces-Palacios S et al. (2026), which proposed "Use task-specific metrics as standardized assessment tools in surgical simulation education"; tests this page's relationship.
+- [A generic rating scale shows higher internal consistency than an extended task-specific scale for basic abdominal ultrasound OSCE assessment](../claims/generic-scale-higher-cronbach-alpha-ultrasound-osce.md) [+W] — attached 2026-11-05 from Schneider Simon et al. (2026), which proposed "Use a well-designed generic rating scale for reliable, efficient OSCE assessment of basic technical (ultrasound) skills"; tests this page's relationship.
+- [The generic scale shows higher generalisability than the extended scale, indicating greater performance-related variance](../claims/generic-scale-higher-phi-ultrasound-osce.md) [+W] — attached 2026-11-05 from Schneider Simon et al. (2026), which proposed "Use a well-designed generic rating scale for reliable, efficient OSCE assessment of basic technical (ultrasound) skills"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2023
+recheck_by: 2028
 sources:
   - id: koedinger-et-al-2023
     resource: "https://doi.org/10.1073/pnas.2221311120"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2` · n=6,946 students in 27 datasets
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2028: baselines and conditions change
 
 Mastery here is the authors' criterion of 80% correct on first attempts; an opportunity is one attempt at a task that exercises the knowledge component, with feedback and help available.
 

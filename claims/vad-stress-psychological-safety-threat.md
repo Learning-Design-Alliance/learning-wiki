@@ -9,7 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 sources:
   - id: stefan-a-schreder-2025
     resource: "https://doi.org/10.1007/s11251-025-09716-9"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` High-tech VAD equipment led some participants to feel stressed, under pressure, and inhibited from showing natural behaviour; fear of being exposed with recorded mistakes applied to both VAD types. [→ Stefan A. Schreder 2025](#stefan-a-schreder-2025)
@@ -94,3 +94,4 @@ Participant quotation (FG 10, P 4) illustrating the emotional risk common to bot
 - [The near-peer structure of the track was perceived to create a psychologically safe learning environment that facilitated peer teaching.](pedagogical-internship-track-near-peer-safety.md) — related
 - [Facilitator role and quality of structured debriefing are critical determinants of nursing students' satisfaction with simulation-based BLS training](simulation-bls-facilitator-debriefing-quality.md) — related
 - [Peer observation anxiety, limited practice time, and large group sizes are perceived barriers to optimal learning in simulation-based BLS training](simulation-bls-perceived-barriers.md) — related
+- [Evidence that higher simulation fidelity yields better learning outcomes is mixed, while the affective component of SBE is under-attended](sbe-fidelity-outcomes-mixed-emotions-underattended.md) — related

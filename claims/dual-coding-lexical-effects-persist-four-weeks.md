@@ -9,7 +9,7 @@ generated:
   at: 2026-10-07
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-10-17
+source_checked: 2026-11-05
 sources:
   - id: lee-2017
     resource: "https://doi.org/10.15858/engtea.72.2.201706.29"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2017 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Lee 2017: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims

@@ -51,3 +51,5 @@ Same adjusted binary logistic regression model on the 400-dentist survey, with e
 - [Dentists hold positive attitudes toward BLS/CPR, but positive attitudes alone did not translate into adequate knowledge, confidence, or preparedness](positive-attitudes-not-translate-bls-preparedness.md) — related
 - [Only 26.0% of surveyed dentists in Saudi Arabia demonstrated good knowledge of BLS/CPR, with 41.0% moderate and 33.0% low knowledge](quarter-dentists-saudi-good-bls-knowledge.md) — related
 - [Prior hypertension training (AOR = 2.6) and more than 10 years' experience (AOR = 1.8) independently predicted good knowledge among PHC workers](training-and-experience-predict-hypertension-knowledge.md) — related
+- [Prior AED exposure (witnessing or using a defibrillator) is independently associated with higher CPR and MI knowledge](prior-aed-exposure-higher-knowledge-syria.md) — a narrower finding that bears on this claim
+- [Greater self-reported willingness to intervene in emergencies is associated with higher CPR knowledge among Syrian medical students](willingness-to-act-associated-cpr-knowledge.md) — related

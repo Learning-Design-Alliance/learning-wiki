@@ -59,3 +59,4 @@ Bayesian Multilevel-SEM estimated separately for each of four outcomes (intrinsi
 - [Students' perceived relative lack of autonomy support positively predicts extrinsic regulation](relative-lack-of-autonomy-support-predicts-extrinsic-regulation.md) — a narrower finding that bears on this claim
 - [Student perceptions of autonomy support, structure, and involvement positively predict student self-determination, mediated by autonomy and competence need satisfaction](student-perceived-strategies-predict-sdi.md) — related
 - [Autonomy-supportive supervision benefits are strengthened, not diminished, by clear direction](autonomy-support-and-structure-complementary.md) — related
+- [In bilingual Tai Chi instruction, teacher support has significant positive direct effects on basic psychological needs, learning motivation, and psychological well-being](teacher-support-direct-effects-embodied-bilingual.md) — related

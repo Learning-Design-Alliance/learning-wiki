@@ -47,3 +47,4 @@ Paired t test analysis of pre-post self-efficacy surveys in a 12-participant in-
 ## Related Claims
 - [In-situ simulation training significantly improves self-efficacy for managing outpatient hysteroscopy emergencies across multiple domains](in-situ-simulation-improves-self-efficacy-outpatient-hysteroscopy-emergencies.md) — a broader claim this one bears on
 - [Multidisciplinary simulation increased technical self-efficacy by 0.5 points on a 5-point scale, except tracheostomy suctioning](simulation-increased-technical-self-efficacy-otolaryngology.md) — related
+- [In an uncontrolled pre–post study, both lecture and simulation cohorts had statistically significantly higher self-reported knowledge, competence, and comfort with breaking bad news after training than before (p < 0.001)](bbn-both-modalities-significant-prepost-gains.md) — related

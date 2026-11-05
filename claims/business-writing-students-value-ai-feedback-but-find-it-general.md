@@ -62,3 +62,4 @@ Trends and comments from the Job or Graduate/Professional School Application ass
 - [Students identified lack of sensitivity to linguistic nuance as a limitation of AWA feedback](awa-lacks-sensitivity-linguistic-nuance.md) — related
 - [AWE is more effective for surface-level writing skills than for higher-order skills such as argumentation and coherence](awe-surface-level-stronger-than-higher-order.md) — reports the opposite
 - [Students perceived the automated personalized feedback as too general and lacking personal response](automated-feedback-perceived-too-general.md) — a narrower finding that bears on this claim
+- [On descriptive analytical tasks ChatGPT produced logically structured work but lacked deep contextualization, domain-specific insights, and visual elements](chatgpt-descriptive-tasks-generic-outputs.md) — a narrower finding that bears on this claim

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2023
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 recheck_by: 2026
 sources:
   - id: mirata-2023
@@ -34,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
-> **Currency** · newest study 2023 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2026: local conditions change quickly
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2026: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Internet access, quality, affordability, and accessibility of appropriate technology were identified as fundamental prerequisite factors only among the South African panel. [→ Mirata 2023](#mirata-2023)

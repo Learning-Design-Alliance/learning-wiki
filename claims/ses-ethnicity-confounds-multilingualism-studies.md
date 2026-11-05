@@ -76,3 +76,4 @@ Methods analysis of SES factor scores by language group in 1,673 pupils: monolin
 - [Simultaneous multilinguals show a small but reliable educational attainment advantage over monolinguals at ages 11 and 16 in UK adolescents](sm-attainment-advantage-ages-11-16.md) — related
 - [Cognitive differences mediate multilingual attainment advantages only in cross-sectional models and only for simultaneous multilinguals, so educational benefits are largely decoupled from cognitive differences](cognitive-skills-limited-mediator-of-multilingual-advantage.md) — related
 - [In UK-representative cohorts, the unadjusted SES–school performance estimate was 0.33, with the confounder-adjusted model nonidentified](uk-representative-cohorts-ses-estimate-033.md) — related
+- [Age-14 time-use composition is significantly associated with Attainment 8 in both weekday and weekend analyses](timeuse-composition-attainment8-association.md) — related

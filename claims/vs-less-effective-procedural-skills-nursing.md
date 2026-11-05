@@ -52,3 +52,4 @@ Subgroup analysis by discipline within the procedural-skills meta-analysis of 10
 - [Virtual simulations and mannequins or real persons show no significant difference in improving knowledge in medical and nursing education](vs-mannequin-rp-no-difference-knowledge.md) — reports the opposite
 - [Virtual simulations and real persons show no significant difference in enhancing communication skills](vs-rp-no-difference-communication-skills.md) — reports the opposite
 - [Nurses trained with simulation showed higher skill scores than nurses trained with video-based instruction (exploratory)](simulation-higher-skill-scores-nurses-exploratory.md) — related
+- [Virtual simulation training reduced incisor buccolingual bracket deviation by approximately 32.69% compared with traditional training](virtual-simulation-reduced-incisor-buccolingual-deviation.md) — reports the opposite

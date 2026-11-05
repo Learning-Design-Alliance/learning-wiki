@@ -51,6 +51,7 @@ The review's study implications call for coordinated development of e-learning f
 - [Employ experimental and longitudinal designs with standardised measurement tools in future pressure injury prevention research.](experimental-longitudinal-pi-research-designs.md)
 - [Future simulation research should use rigorous designs, standardized tools, and transparent reporting](strategy-rigorous-simulation-research-design.md)
 - [Evaluate training effectiveness regularly with pre- and post-training assessments to measure impact on knowledge and skills](pre-post-training-assessment-pi-competency.md)
+- [Prioritise practice-based, active learning over passive exposure to pressure injury material](practice-based-active-learning-pi-education.md)
 
 ## Examples
 -

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2019
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: loo-2019
     resource: "https://eric.ed.gov/?id=EJ1271191"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2019 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` An anticipated problem for language learners engaging in reflection is their ability to express thoughts completely and accurately in the language being learned. [→ Loo 2019](#loo-2019)

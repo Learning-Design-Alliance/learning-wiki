@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 200 claims (129 show a difference, 39 mixed, 32 no difference) · 139 studies (56 causal, 46 associational, 15 quant-synthesis, 13 review, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 33 of 139 report an effect size · 197 claims rest on one study
+> **Evidence** · 201 claims (129 show a difference, 40 mixed, 32 no difference) · 140 studies (56 causal, 47 associational, 15 quant-synthesis, 13 review, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 33 of 140 report an effect size · 198 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -236,6 +236,7 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [A significant serial indirect effect runs from physical activity through mental health to cognitive ability to academic performance, despite the non-significant activity-to-mental-health path](../claims/serial-chain-mediation-mind-body.md) [+M] — learners who differ on it differ in outcomes
 - [Cognitive ability at follow-up significantly mediates the association between baseline extracurricular physical activity and later academic performance in adolescents with high BMI](../claims/cognitive-ability-mediation-physical-activity-academic.md) [+M] — learners who differ on it differ in outcomes
 - [Higher extracurricular physical activity correlates with lower psychological distress, better cognitive ability, and better academic performance at follow-up](../claims/correlations-activity-distress-cognition-academics.md) [+M] — measured as an outcome of the instruction studied
+- [General intelligence shows no significant relationship with assessed Performance, Potential or Rate of Advancement among RN senior officers, but correlates with the Conceptualise cluster](../claims/g-no-relationship-senior-officer-outcomes.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

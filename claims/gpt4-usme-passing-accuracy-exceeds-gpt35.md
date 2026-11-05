@@ -66,3 +66,4 @@ Narrative synthesis of 9 USMLE benchmark evaluation studies within the review's 
 - [ChatGPT-4 achieved an overall accuracy of 81% on the Polish PES orthopedics exam, exceeding the 75% passing threshold on average](chatgpt-4-81-percent-accuracy-pes-orthopedics.md) — related
 - [Current-generation LLMs achieve 86% to 94% mean success rates on European anesthesiology examination questions, exceeding the EDAIC part I passing threshold](llm-success-rates-86-94-percent-anesthesiology-exams.md) — related
 - [ChatGPT-4o achieved 71% accuracy on the Chinese question bank, comparable to dental undergraduates and OMS graduate students but lower than OMS specialists](chatgpt-4o-71-percent-chinese-question-bank-accuracy.md) — related
+- [ChatGPT performs poorly on health database SQL programming tasks, with the best AI version scoring 56% against a top student score of 100%](chatgpt-sql-programming-weak.md) — related

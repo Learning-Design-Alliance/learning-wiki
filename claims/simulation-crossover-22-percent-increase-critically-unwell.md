@@ -62,3 +62,4 @@ Narrative review attributing this to McCoy et al.'s prospective randomised cross
 - [Voiceover-plus-review-game pedagogy produces quiz performance statistically equivalent to traditional didactic lecture and significantly better than no prior exposure](voiceover-review-game-quiz-equivalence.md) — related
 - [Integrated micro-skills training-CPTM improves OSCE practical skill scores versus traditional teaching](microskills-cptm-higher-osce.md) — related
 - [Facilitated interactive video and simulation-based training produce no statistically significant difference in 3-week BLS OSCE performance when both follow the same standardized lecture](bls-video-vs-simulation-osce-no-difference.md) — related
+- [E-modules improved first-year medical students' psychomotor (OSCE manipulation) performance compared with lectures alone](e-modules-improve-psychomotor-osce-performance.md) — a narrower finding that bears on this claim

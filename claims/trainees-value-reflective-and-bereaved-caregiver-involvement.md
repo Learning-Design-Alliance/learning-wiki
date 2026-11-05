@@ -70,3 +70,4 @@ Thematic synthesis of self-reflection exercises and debriefing across the review
 - [PKTP family learning activities created opportunities for informal teacher-family relationships and a greater sense of community](pktp-family-activities-built-informal-relationships.md) — related
 - [Structured debriefings enabled all scenario participants to reflect on and discuss their performance with constructive instructor feedback](three-phase-debriefing-reflection-feedback.md) — related
 - [Feedback facilitators such as faculty coaches can increase trainee receptivity to patient feedback](feedback-facilitators-increase-receptivity.md) — related
+- [The framework embeds communication, consent, and debriefing objectives alongside technical procedural skills](procedural-objectives-embed-communication-and-debriefing.md) — related

@@ -76,3 +76,4 @@ The review's challenges analysis states that CST research shows positive short-t
 - [Effective use of the Serious Illness Conversation Guide is itself a competence requiring balance between structure and flexibility](sicg-use-structure-flexibility-competence.md) — related
 - [CST interventions underpinned by conversation analysis show improved interactional outcomes in neurology, psychiatry and aphasia settings](ca-informed-cst-interventions-improve-interaction.md) — related
 - [Role play in CST is reported to increase empathy and provide safe practice, but students note artificiality and poor acting authenticity](role-play-benefits-and-artificiality-cst.md) — related
+- [Communication skills training improves clinician communication behaviors and confidence in goals-of-care conversations, with effects varying by skill and measure](gopc-training-improves-clinician-communication.md) — related

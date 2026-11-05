@@ -50,6 +50,7 @@ The article recommends integrating chatbot standardised patients (CSP) with CBL 
 ## Related Strategies
 
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
+- [Adopt hybrid CBL-SST-simulator teaching for preclinical clinical-reasoning and communication goals while retaining LBL for foundational knowledge](hybrid-cbl-sst-adoption-strategy-preclinical-dental.md)
 
 ## Examples
 -

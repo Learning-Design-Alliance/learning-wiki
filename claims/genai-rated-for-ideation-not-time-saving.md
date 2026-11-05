@@ -84,3 +84,4 @@ Section-level post-course ratings in the intervention cohort: flipped-learning c
 - [Participants rated the BOPPPS-PBL teaching model highly, with a mean teaching-effectiveness score of 56.43 ± 5.17 out of 60](boppps-pbl-high-teaching-effectiveness-ratings.md) — related
 - [Students in the flipped group rated the method as beneficial with a median benefit scale value of 4 out of 5](flipped-learning-benefit-median-four.md) — related
 - [Students rate the simulation program highly acceptable and useful, with the simulation component rated most useful.](simulation-high-acceptability-ratings.md) — related
+- [Medical students report high overall satisfaction with an interprofessional simulation-based learning module](ipe-module-high-student-satisfaction.md) — related

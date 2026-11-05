@@ -51,3 +51,4 @@ MANOVA on 41 students' final scores and NEO FFI personality factors found signif
 - [Teaching type interacts with attribution style and academic achievement in the global-local favorable condition](teaching-type-attribution-style-global-local-favorable-interaction.md) — related
 - [Of the Big Five personality traits, only conscientiousness (r = .22) and openness (r = .13) correlate appreciably with mathematics achievement](big-five-traits-correlate-weakly-with-math-achievement.md) — related
 - [Openness shows larger correlations with achievement in language than in STEM subject domains, a pattern that holds for both grades and test scores](openness-language-stem-domain-moderation.md) — related
+- [All five Big Five personality traits significantly predict academic achievement among medical master's students](big-five-traits-predict-achievement-medical-postgraduates.md) — related

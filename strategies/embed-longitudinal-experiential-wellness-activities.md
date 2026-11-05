@@ -54,6 +54,7 @@ The article recommends integrating wellness strategies into existing coursework 
 - [Integrate mandatory, longitudinal mental health literacy, self-care and reflective practice curricula throughout medical education rather than as isolated end-of-programme options.](longitudinal-mental-health-curriculum-medical-education.md)
 - [Embed resilience and coherence-strengthening interventions into existing curricular structures rather than standalone courses](embed-soc-interventions-existing-frameworks.md)
 - [Integrate grief training throughout the medical curriculum using interdisciplinary collaborations and experiential learning opportunities](integrate-grief-training-throughout-curriculum.md)
+- [Implement integrated stress-management strategies and structured physical activity programmes for medical students in military institutions](integrated-stress-management-structured-pa-military-medical-students.md)
 
 ## Examples
 -

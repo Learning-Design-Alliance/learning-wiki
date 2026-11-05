@@ -60,3 +60,4 @@ Mixed-methods comparison in which 30 first-year EAP students each submitted two 
 - [Marks for ChatGPT-generated essays show no significant difference from participants' overall course mark averages](chatgpt-essay-marks-no-significant-difference-course-average.md) — related
 - [Students identified lack of sensitivity to linguistic nuance as a limitation of AWA feedback](awa-lacks-sensitivity-linguistic-nuance.md) — related
 - [Human experts provide more nuanced and mixed feedback than ChatGPT-4o and Perplexity in mixed reality simulation mentoring](human-experts-more-nuanced-feedback-than-llm-mrs.md) — related
+- [On descriptive analytical tasks ChatGPT produced logically structured work but lacked deep contextualization, domain-specific insights, and visual elements](chatgpt-descriptive-tasks-generic-outputs.md) — a narrower finding that bears on this claim

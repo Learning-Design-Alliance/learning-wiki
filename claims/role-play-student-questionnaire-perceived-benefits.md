@@ -51,3 +51,4 @@ Feedback questionnaire given to observation-group students only (n=25) after the
 - [Undergraduate medical student education combining didactic sessions, role-play and experiential learning increased confidence in medication history and reconciliation](student-confidence-increased-medication-reconciliation.md) — related
 - [Role play in CST is reported to increase empathy and provide safe practice, but students note artificiality and poor acting authenticity](role-play-benefits-and-artificiality-cst.md) — related
 - [Students reported high confidence gains in history-taking, differential diagnosis, and management planning from AIVP](aivp-survey-confidence-gains.md) — related
+- [Educator observations found that AI role-play facilitated peer discussion, highlighted gaps in history-taking, and promoted peer learning in dental tutorials](ai-roleplay-peer-discussion-gaps-observations.md) — related

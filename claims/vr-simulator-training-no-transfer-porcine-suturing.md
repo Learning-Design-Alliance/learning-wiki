@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: mazzotta-alessandro-dario-2026
     resource: "https://doi.org/10.1007/s11701-026-03662-5"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article reports, citing Vargas et al., that no significant differences emerged in time or GEARS scores between VR-simulator-trained and orientation-only novices suturing on a porcine model. [→ Mazzotta Alessandro Dario 2026](#mazzotta-alessandro-dario-2026)

@@ -57,6 +57,7 @@ As a practitioner implication, the article recommends designing debriefing conve
 - [Include an immediate, structured debriefing session with descriptive, analysis and application phases in every high-fidelity simulation training](immediate-structured-debriefing-hf-simulation.md)
 - [Use RCDP with immediate directive feedback at scene interruptions, reserving debriefing for consolidation](rcdp-immediate-feedback-with-consolidation-debriefing.md)
 - [Incorporate clinical simulation with structured debriefing into nursing education planning for biosafety and emotional management](simulation-debriefing-biosafety-planning-strategy.md)
+- [Design SBE with strong debriefing and explicit support for recontextualising knowledge across sites, and enact shared values collaboratively between educators and clinical nurses](sbe-debriefing-recontextualisation-support-strategy.md)
 
 ## Examples
 -

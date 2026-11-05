@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: weak
 newest_evidence: 2017
+source_checked: 2026-11-05
 sources:
   - id: steven-s-christensen-jonathan-s-spackman-2017
     resource: "https://doi.org/10.9743/jeo.2017.14.2.7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only 50 of 196 courses (25.5%) had a Tipping Point, leading the authors to abandon the single-Tipping-Point hypothesis in favor of a multi-shape account. [→ Steven S. Christensen & Jonathan S. Spackman 2017](#steven-s-christensen-jonathan-s-spackman-2017)

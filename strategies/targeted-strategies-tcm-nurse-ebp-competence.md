@@ -51,7 +51,8 @@ Based on the study's findings, the authors recommend targeted strategies address
 - [Lack of time and institutional resource constraints are reported as major barriers to EBP competence among TCM specialist nurses, in both grassroots and tertiary hospitals](../claims/time-and-resource-barriers-tcm-nurse-ebp.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Strengthen nurses' EBP competence and clinical decision-making through targeted education, access to organizational resources, and supportive policies](targeted-ebp-education-resources-policies-strategy.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ The review's synthesis found that "Long‐term follow‐up studies provided inco
 - PBL is the most investigated active teaching methodology in undergraduate dentistry, followed by flipped classroom and gamification — related
 - [Evidence on clinical reasoning teaching strategies is inconclusive, so no specific teaching strategy can currently be recommended](no-clinical-reasoning-strategy-recommendable-inconclusive-evidence.md) — a narrower finding that bears on this claim
 - [No included flipped classroom study assessed long-term learning retention](no-long-term-retention-evidence-flipped-classroom.md) — a narrower finding that bears on this claim
+- [Systematic review evidence indicates SBE supports skills and knowledge acquisition, with short-term retention holding up but long-term retention unresolved](sbe-supports-knowledge-skills-acquisition.md) — a narrower finding that bears on this claim

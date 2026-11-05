@@ -52,3 +52,4 @@ Reliability analysis of the QCGE-SAS in the validation study (N = 246), covering
 - [A confirmatory factor analysis supports a four-factor structure of collaborative group engagement (behavioural, social, cognitive, conceptual-to-consequential) for the QCGE self-assessment scale](qcge-sas-four-factor-structure-cfa-supported.md) — related
 - [Item analysis showed high self-reported engagement and subscale differences in discriminatory power, with social engagement items weakest and cognitive engagement items strongest](qcge-sas-item-analysis-discrimination-subscale-differences.md) — related
 - [The DIGISOC questionnaire shows acceptable validity and reliability, including CFA data and favorable Cronbach's alpha coefficients](digisoc-acceptable-validity-reliability.md) — related
+- [The 16-item assessment showed weak internal consistency but mostly acceptable-to-excellent item discrimination](cxr-test-weak-alpha-item-analysis.md) — related

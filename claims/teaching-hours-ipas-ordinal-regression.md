@@ -49,3 +49,4 @@ Ordinal logistic regression on survey data from the four-center cross-sectional 
 - [Sonographer teaching confidence correlates positively with time spent teaching fellows and with interprofessional attitudes](sonographer-mctq-correlates-teaching-time.md) — related
 - [Prerequisites for sonographers teaching fellows were inconsistent across respondents and did not correlate with attitudes or teaching confidence](sonographer-teaching-prerequisites-inconsistent.md) — related
 - [Higher weekly teaching time was associated with higher sonographer self-assessed teaching ratings, with wide confidence intervals](teaching-hours-mctq-ordinal-regression.md) — related
+- [Higher learner-centered (CCSF) ATI-R scores are associated with more lectures taught and a greater percentage of time devoted to teaching](ccsf-scores-correlate-lectures-and-teaching-time.md) — related

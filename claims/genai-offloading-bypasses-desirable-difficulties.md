@@ -9,7 +9,7 @@ generated:
   at: 2026-10-12
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-13
+source_checked: 2026-11-05
 sources:
   - id: wang-h-and-shan-w-2026
     resource: "https://doi.org/10.3389/feduc.2026.1757622"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-13 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` When an LLM provides an immediate polished explanation, the learner may evaluate the output without fully engaging in the processes required for durable understanding. [→ Wang H and Shan W 2026](#wang-h-and-shan-w-2026)

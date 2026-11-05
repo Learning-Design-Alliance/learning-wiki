@@ -46,3 +46,4 @@ Path analyses predicted MicroDYN and CFT performance from mothers' and fathers' 
 - [Latent mean comparisons show only partial grade-level development in CPS, with Grade 9 students performing worst on both dimensions](cps-grade-development-grade-9-deviation.md) — related
 - [CPS predicts GPA beyond g, though the increment is small and not consistent across all grades](cps-predicts-gpa-beyond-g.md) — related
 - [g predicts CPS performance, but substantial shared CPS variance remains separable from g](cps-variance-separable-from-g.md) — related
+- [Parental education, school type, and school grades shape the educational pathway: vocational training, age at enrolment, and study financing](educational-pathway-determinants-vocational-age-financing.md) — related

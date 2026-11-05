@@ -49,6 +49,7 @@ The review recommends a staged approach to AI integration in orthopaedic educati
 - [Implement AI-assisted report feedback through a four-stage phased pathway beginning with mature low-level tools](phased-four-stage-ai-feedback-implementation.md)
 - [Longitudinal integration of AI literacy competencies across all phases of medical education](longitudinal-ai-literacy-curriculum-integration.md)
 - [Implement progressive and layered simulation training across career stages for paediatric surgery nurses](progressive-layered-simulation-training-career-stages.md)
+- [Integrate the validated iVR simulator into early orthopedic training as a platform for deliberate practice with individualized feedback, pending longitudinal confirmation](ivr-deliberate-practice-platform-early-orthopedic-training.md)
 
 ## Examples
 -

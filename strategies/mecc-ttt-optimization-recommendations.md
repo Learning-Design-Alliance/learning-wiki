@@ -50,7 +50,8 @@ The article recommends action at programme, individual and organizational levels
 - [The TtT model has unique value for MECC because trainers' knowledge of the organizations and individuals they train to increases the quality of MECC training delivered](../claims/ttt-local-knowledge-increases-training-quality.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Cascading training model from tertiary specialists to primary care physicians and community health workers for MASLD screening](cascading-masld-training-model.md)
 
 ## Examples
 -

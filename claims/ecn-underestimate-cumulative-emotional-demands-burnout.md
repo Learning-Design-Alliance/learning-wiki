@@ -47,3 +47,4 @@ Theme 3 interview data: educators reported ECNs "breaking down and needing…sup
 ## Related Claims
 - [Nurse educators perceive early career mental health nurses as lacking readiness for independent practice despite being registered](educators-perceive-ecn-lack-readiness-independent-practice.md) — related
 - [Nurse educators experience an ambiguous dual role supporting ECNs' emotional wellbeing while maintaining educational responsibilities](educator-dual-role-education-pastoral-support.md) — related
+- [Deliberate practice carries stated limitations: it is time-consuming, mentally and physically demanding, and risks burnout without rest](deliberate-practice-limitations-burnout.md) — related

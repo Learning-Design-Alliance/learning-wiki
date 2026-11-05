@@ -59,3 +59,4 @@ Baseline comparison in the same assessor-blinded RCT of 50 clinical medical stud
 - [Mid-term exam scores favored the experimental group (79.8 ± 7.0 vs 71.5 ± 7.3, mean difference 8.3, P < 0.001) with baseline prerequisite scores equivalent between groups](ai-kg-midterm-and-baseline-equivalence.md) — related
 - [Digital platform-based reciprocal peer practice improves operational skills more than traditional small-group practice in nursing students](rpp-digital-platform-operational-skills-gains.md) — related
 - [In practicing nurse anesthetists, core anesthesia nursing skill scores rose from after traditional teaching to after DBSS training in a one-group before–after study](dbss-improves-na-core-skill-scores.md) — related
+- [The hybrid CBL-SST-simulator model shows no significant difference from lecture-based learning in theoretical knowledge scores](hybrid-cbl-sst-no-difference-theoretical-knowledge.md) — related

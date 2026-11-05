@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2019
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: bakkum-2019
     resource: "https://doi.org/10.1002/cpt.1549"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2019 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` All 19 reviewed articles measuring knowledge acquisition reported that the digital learning intervention increased test scores relative to preintervention testing or no education. [→ Bakkum 2019](#bakkum-2019)

@@ -52,6 +52,7 @@ The article recommends simulation-based training, digital tools including the IA
 - [Strengthen simulation-based training, clinical case exposure, and complication management in undergraduate prosthodontic education](simulation-training-clinical-exposure-veneer-education.md)
 - [Develop trauma simulation training with objective automated evaluation, undergraduate inclusion, combined fidelity levels, and pre-hospital settings](trauma-simulation-development-recommendations.md)
 - [Evaluate digital decision-support in novice providers and optimize interface design to minimize cognitive overhead](future-research-novice-providers-interface-optimization.md)
+- [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
 
 ## Examples
 -

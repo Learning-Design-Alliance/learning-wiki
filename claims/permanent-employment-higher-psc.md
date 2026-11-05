@@ -48,3 +48,4 @@ Primary linear mixed-effects model estimate among 443 operating room nurses; una
 - [Operating room nurses with no more than 5 years of experience report lower patient safety competency than those with more than 20 years](early-career-or-nurses-lower-psc.md) — related
 - [Participation in patient safety training is associated with higher self-reported patient safety competency](safety-training-higher-psc.md) — related
 - [Systems thinking and personal accomplishment show model-dependent positive associations with patient safety competency](systems-thinking-pa-model-dependent-psc.md) — related
+- [Length of employment, resuscitation experience, and participation in public health emergency drills are significantly associated with emergency response competence](experience-resuscitation-drills-predict-emergency-competence.md) — related

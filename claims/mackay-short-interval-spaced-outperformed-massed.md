@@ -51,3 +51,4 @@ Randomized control trial (n=41 undergraduate and postgraduate students) on the M
 - [Spaced VR simulator training yields better performance and faster skill acquisition than massed training for surgical psychomotor skills](spaced-vr-training-superior-to-massed-surgical-psychomotor.md) — a broader claim this one bears on
 - [Spaced trainees completed endoscopic exercises 18.7% faster than massed trainees in Verdaasdonk et al.](verdaasdonk-spaced-18-7-percent-faster-endoscopic.md) — related
 - [Distributed preclinical practice is associated with higher plaque-removal effectiveness than massed block training in dental students](distributed-preclinical-training-higher-esp.md) — a narrower finding that bears on this claim
+- [Error scores on the Fine Dissection task did not improve significantly in any group, suggesting error metrics are more resistant to change over short training intervals](fine-dissection-error-scores-not-improved.md) — related

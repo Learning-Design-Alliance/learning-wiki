@@ -59,6 +59,7 @@ The article recommends that institutions integrate mandatory, longitudinal teach
 - [Embed longitudinal planning scaffolds and time support at semester transitions in preclinical curricula](longitudinal-planning-scaffolds-transitions.md)
 - [Integrate MLM education longitudinally with experiential learning and robust program evaluation](mlm-longitudinal-experiential-integration-strategy.md)
 - [Embed brief experiential wellness activities longitudinally within existing health professions curricula](embed-longitudinal-experiential-wellness-activities.md)
+- [Implement integrated stress-management strategies and structured physical activity programmes for medical students in military institutions](integrated-stress-management-structured-pa-military-medical-students.md)
 
 ## Examples
 -

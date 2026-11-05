@@ -58,3 +58,4 @@ satisfaction 40.86±2.71 50.17±7.34 6.51 0.001"
 - [Learning-motivation subdimensions each positively predict creativity](motivation-subdimensions-predict-creativity.md) — related
 - [Students report higher satisfaction and more positive emotional responses with simulation-based teaching than with traditional practical instruction](simulation-higher-satisfaction-positive-emotions.md) — related
 - [The ARCS + BOPPPS blended learning model significantly enhances student learning motivation across all four ARCS dimensions in Endodontics education](arcs-boppps-blended-model-enhances-learning-motivation.md) — related
+- [Virtual simulation trainees scored higher medians on motivation and satisfaction questionnaires, with only the Confidence dimension borderline significant](virtual-simulation-higher-motivation-satisfaction-medians.md) — related

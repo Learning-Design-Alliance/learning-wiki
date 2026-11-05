@@ -69,3 +69,4 @@ Same content analysis of the open-ended questionnaire, coded under effort manage
 ## Related Claims
 - [Task planning with mind maps raises post-test self-regulation strategy scores of pre-service teachers relative to a control group, except for rehearsal](mind-map-planning-improves-srl-strategies-preservice-teachers.md) — related
 - [Within the mind-map planning group, pre-to-post gains are significant on most self-regulation strategies and motivational beliefs, including a significant test-anxiety decrease](mind-map-group-within-group-prepost-gains.md) — related
+- [Grade 10 students showed significant pre-to-post gains in nearly all causal attribution, self-regulation, and achievement motivation variables after an eight-session intervention, in one uncontrolled pre-post study](intervention-improves-attributions-self-regulation-motivation.md) — related

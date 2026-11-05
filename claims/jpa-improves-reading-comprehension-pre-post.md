@@ -53,3 +53,4 @@ Quasi-experimental pre-test/post-test study: 20 Junior Secondary II students at 
 - [Team-teaching with a feedback intervention produced higher average final exam scores than traditional one-teacher teaching in a Nigerian senior secondary English language setting](team-teaching-feedback-higher-achievement-nigeria.md) — related
 - [Training on speed reading strategies (skimming and scanning) significantly improves reading comprehension among second secondary literary students in English language](speed-reading-strategies-training-improves-reading-comprehension.md) — related
 - [The experimental group's text production improved significantly from pre-test to post-test](experimental-group-pre-post-gain-significant.md) — related
+- [English academic performance scores rose significantly from pre-test to post-test, with a large effect size (d = 0.93), in one group with no comparison group](intervention-improves-english-performance-large-effect.md) — related

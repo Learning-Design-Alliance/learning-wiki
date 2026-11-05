@@ -57,3 +57,4 @@ Longitudinal studies using AEQ trait or state scales with university students, w
 - [Test boredom correlates negatively with math grades but not with the math test score in Study 1](test-boredom-negative-grades-not-test-score.md) — related
 - [Suggesting the SPP at detected boredom did not change its use: students were almost never bored, so SPP use was not reliably different between conditions](spp-boredom-suggestion-null.md) — related
 - [Anger was the strongest negative emotional predictor of final grades in an online mathematics course study](anger-predicts-online-math-grades.md) — related
+- [Cognitive engagement, emotional engagement, and testing perceptions did not correlate with exam scores, and cognitive engagement and testing perceptions did not moderate the testing effect](engagement-scales-no-correlation-exam-scores.md) — related

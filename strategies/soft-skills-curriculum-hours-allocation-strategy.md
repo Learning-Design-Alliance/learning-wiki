@@ -53,6 +53,7 @@ Based on its findings and institutional case studies, the review proposes operat
 - [Support the shift from standardized testing toward diverse assessment strategies—performance-based assessments, portfolios, and experiential learning—with teacher training, resource allocation, and accountability flexibility](diverse-pog-assessment-strategies-with-teacher-support.md)
 - [Include nutrition-related questions in mandatory written and practical assessments, including OSCEs, to motivate engagement with nutrition education](mandatory-nutrition-assessments-osce.md)
 - [Use active methodologies, case studies, simulation, portfolios, flipped classroom, and problem-based learning to develop soft skills in nursing curricula](active-methodologies-soft-skills-nursing-strategy.md)
+- [Develop standardized DHN training curricula that integrate interpersonal soft skills with digital competencies](dhn-training-integrating-soft-and-digital-skills.md)
 
 ## Examples
 -

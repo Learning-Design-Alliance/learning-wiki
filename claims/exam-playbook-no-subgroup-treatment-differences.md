@@ -58,3 +58,4 @@ Moderation analyses within the two randomized cohorts of the Strategic Resource 
 - [Treatment effects were not moderated by employment category (teacher vs. other) or by intervention timing (summer vs. school year)](hmp-effects-not-moderated-employment-timing.md) — related
 - [Exam Playbook benefits were larger for female users and for first-generation students, reducing achievement gaps](exam-playbook-moderation-demographic-benefits.md) — reports the opposite
 - [No significant treatment by demographic interactions were detected in moderation analyses](no-significant-treatment-demographic-interactions.md) — related
+- [Teacher support, basic psychological needs, learning motivation, and psychological well-being differ significantly across demographic subgroups](demographic-differences-embodied-tai-chi.md) — related

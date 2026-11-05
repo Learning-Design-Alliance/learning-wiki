@@ -50,3 +50,5 @@ Descriptive frequency analysis of the 26 included articles in the scoping review
 - [Evidence on clinical teaching models is concentrated in high-income settings: most included studies were conducted in the United States and none originated from Africa](clinical-teaching-models-us-concentration.md) — related
 - [SNAPPS outperformed the one-minute preceptor and both outperformed traditional clinical teaching for clinical reasoning skill](snapps-superior-one-minute-preceptor-traditional-teaching.md) — related
 - [Residents' probing-question scores rose from 3 to 4 from before to after SNAPPS, in one uncontrolled pre-post study](snapps-probe-increases-resident-questions.md) — a narrower finding that bears on this claim
+- [OMP preceptor training improves preceptors' teaching behaviors, self-confidence, and willingness to precept](omp-training-improves-preceptor-confidence-willingness.md) — a narrower finding that bears on this claim
+- [Research comparing the models demonstrates that SNAPPS performed better for clinical reasoning scores while OMP had a higher user satisfaction rating](snapps-better-clinical-reasoning-omp-higher-satisfaction.md) — related

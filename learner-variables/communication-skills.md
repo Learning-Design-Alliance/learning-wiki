@@ -13,7 +13,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 157 claims (106 show a difference, 28 mixed, 23 no difference) · 128 studies (48 causal, 25 review, 20 quant-synthesis, 19 associational, 6 design, 6 theoretical, 4 qualitative), `q1`–`q4` · 22 of 128 report an effect size · 154 claims rest on one study
+> **Evidence** · 158 claims (106 show a difference, 29 mixed, 23 no difference) · 129 studies (48 causal, 26 review, 20 quant-synthesis, 19 associational, 6 design, 6 theoretical, 4 qualitative), `q1`–`q4` · 22 of 129 report an effect size · 155 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.
@@ -198,6 +198,7 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [Mathematics was a relative strength across communication status, income, and gender](../claims/math-relative-strength-fourth-grade.md) [-M] — learners who differ on it differ in outcomes
 - [Case-based learning is perceived to improve communication skills, with most students reporting moderate to significant improvement](../claims/cbl-communication-skill-improvement-perceived.md) [+M] — measured as an outcome of the instruction studied
 - [Video-based learning shows a weak but statistically significant positive correlation with communication skill performance (r = 0.179, p = 0.043)](../claims/weak-significant-correlation-video-communication-skills.md) [+W] — measured as an outcome of the instruction studied
+- [Communication skills training improves clinician communication behaviors and confidence in goals-of-care conversations, with effects varying by skill and measure](../claims/gopc-training-improves-clinician-communication.md) [~M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

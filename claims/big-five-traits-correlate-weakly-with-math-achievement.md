@@ -76,3 +76,5 @@ The authors place this alongside earlier cross-domain findings of a modest link 
 - [Cognitive abilities show the strongest correlation with academic achievement among the student-characteristic domains examined](cognitive-abilities-strongest-correlate-academic-achievement.md) — related
 - [Teaching type interacts with personality factors on academic achievement for all Big Five traits except neuroticism](teaching-type-personality-interaction-big-five.md) — related
 - [Academic achievement correlates positively with all five antecedent conditions in the sample](positive-correlations-five-antecedents-achievement.md) — related
+- [All five Big Five personality traits significantly predict academic achievement among medical master's students](big-five-traits-predict-achievement-medical-postgraduates.md) — reports the opposite
+- [Neuroticism, Conscientiousness, Agreeableness, and Extraversion did not significantly moderate the stress–achievement relationship](other-big-five-traits-no-moderation-stress-achievement.md) — related

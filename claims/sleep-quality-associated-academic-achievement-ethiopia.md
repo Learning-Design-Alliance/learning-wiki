@@ -49,3 +49,5 @@ Cross-sectional study at Haramaya and Gondar University (n = 2173; mean age 21.6
 
 ## Related Claims
 - [Being a health science student and being aged 20–24 are associated with good academic performance](health-science-students-age-20-24-better-performance.md) — related
+- [Good sleepers have significantly higher GPA than poor sleepers among male university students (d = 0.93)](good-vs-poor-sleepers-gpa-difference.md) — a narrower finding that bears on this claim
+- [Poor sleep quality is highly prevalent (65.4%) among male university students in this Saudi cohort](poor-sleep-prevalence-male-saudi-students.md) — related

@@ -47,3 +47,4 @@ Single-group pretest-posttest study of 102 fourth-year dental students; knowledg
 ## Related Claims
 - [Service learning participation is associated with more positive attitudes and greater willingness toward oral health practice](service-learning-improves-attitudes-willingness.md) — related
 - [Service-learning participation is associated with a large increase in dental students' empathy toward community service](service-learning-empathy-increase-dental-students.md) — related
+- [A PBL oral-health case significantly increased 5th-year medical students' periodontitis knowledge, albeit on a low level](pbl-oral-health-case-increases-knowledge.md) — related

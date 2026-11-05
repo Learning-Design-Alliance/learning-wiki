@@ -51,3 +51,4 @@ Descriptive analysis of manifest scales in the survey of 249 teachers. The artic
 - [Teachers with higher self-efficacy are more likely to share information on Instagram, while enthusiasm for teaching is unrelated to sharing](self-efficacy-predicts-instagram-information-sharing.md) — related
 - [Different forms of Instagram collaboration are differentially associated with emotional, informational, and instrumental digital social support](instagram-collaboration-differential-digital-social-support.md) — related
 - [Seeking information on Instagram is negatively related to perceived informational support but positively related to perceived instrumental support](information-seeking-negative-informational-support.md) — related
+- [Only 26.6% of students used credible scientific sources in the open-book stage, revealing limited information-seeking skills even within a gamified high-engagement environment](limited-information-seeking-skills-open-book-stage.md) — related

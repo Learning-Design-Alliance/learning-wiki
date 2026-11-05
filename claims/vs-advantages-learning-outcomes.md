@@ -74,3 +74,4 @@ Synthesized professional-cognition finding: students approached virtual patients
 - [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
 - [A JBI meta-synthesis of 17 qualitative studies integrates nursing students' virtual simulation experiences into nine categories and four synthesized findings](vs-teaching-meta-synthesis-four-findings.md) — a broader claim this one bears on
 - [Simulator practicals increased student confidence in practical skills](simulator-practicals-increase-practical-skills-confidence.md) — related
+- [The article claims adopting deliberate practice can significantly enhance skill development and accelerate the proficiency timeline in advanced periodontal and implant protocols](deliberate-practice-enhances-skill-development-claim.md) — related

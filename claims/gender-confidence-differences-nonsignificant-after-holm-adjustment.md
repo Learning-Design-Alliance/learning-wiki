@@ -48,3 +48,4 @@ Mann–Whitney U tests compared female (n = 32) and male (n = 14) students. Init
 - [Final-year dental students report high self-perceived confidence in routine pediatric procedures such as fissure sealant application and oral hygiene instruction.](final-year-dental-students-high-confidence-routine-pediatric-procedures.md) — related
 - [Final-year dental students report lower self-perceived confidence in technically demanding procedures such as stainless steel crown placement and pulpotomy.](final-year-dental-students-low-confidence-technically-demanding-procedures.md) — related
 - [Female students reported lower challenge emotions than male students after controlling for other variables](female-lower-challenge-emotions-genai.md) — related
+- [No significant gender differences were found across most variables, except procedural risk recognition, where male participants reported higher confidence](gender-differences-only-risk-recognition.md) — related

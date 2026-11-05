@@ -50,3 +50,4 @@ Anonymous questionnaires administered to students in both groups (n = 21 each) w
 - [PBL-CBL teaching increases residents' learning interest, initiative, and critical thinking compared with traditional teaching](pbl-cbl-increases-interest-initiative-thinking.md) — related
 - [More PBL than LBL students report satisfaction with improved communication skills (RR = 1.66)](pbl-satisfaction-communication-skills.md) — related
 - [IWCL+CBL students report higher satisfaction with the teaching model than LBL+CBL students](iwcl-cbl-higher-teaching-satisfaction.md) — related
+- [PBL raises student satisfaction and learning interest, and both correlate positively with final overall academic performance](pbl-satisfaction-interest-correlate-performance.md) — related

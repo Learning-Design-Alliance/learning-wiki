@@ -51,3 +51,4 @@ Independent-samples t-tests on the 36-item ARCS-based Learning Motivation Scale 
 - [AI-featured methods significantly increased motivation across all four ARCS categories for computational problem-solving activities](ai-scaffolding-computational-problems-increases-all-arcs-motivation.md) — a broader claim this one bears on
 - [Experimental-group students reported high positive motivation toward the AR-developed Ottoman vocabulary material across the ARCS sub-dimensions](ar-ottoman-material-high-motivation-arcs.md) — related
 - [The e-learning group reported significantly higher motivation to learn than the lecture-based group](ecme-motivation-higher-than-lecture.md) — related
+- [Virtual simulation trainees scored higher medians on motivation and satisfaction questionnaires, with only the Confidence dimension borderline significant](virtual-simulation-higher-motivation-satisfaction-medians.md) — related

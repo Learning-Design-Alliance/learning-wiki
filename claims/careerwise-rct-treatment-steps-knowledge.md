@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: jennifer-m-bekki-2014
     resource: "https://eric.ed.gov/?id=EJ1076131"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2014 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Treatment group members scored higher than wait-list control group members on the APSS Question 1 measure of knowledge of interpersonal problem solving steps, with a medium effect size (Cohen's d = 0.508). [→ Jennifer M. Bekki 2014](#jennifer-m-bekki-2014)

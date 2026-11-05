@@ -48,6 +48,7 @@ The article recommends that, until a dedicated legal framework for dietitians is
 ## Related Strategies
 
 - [Establish a dedicated legal framework for the dietitian profession in Poland](legal-framework-dietitians-poland.md)
+- [Implement comprehensive nutrition education from the undergraduate level, coupled with continuing professional development and interprofessional collaboration](undergraduate-nutrition-education-oncology-nurses.md)
 
 ## Examples
 -

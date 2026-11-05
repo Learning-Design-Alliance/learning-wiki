@@ -58,3 +58,4 @@ Descriptive analysis of the four vocabulary tests (Table 5, Figure 1) for the co
 - [Most individual control-group learners' vocabulary scores declined from post-test to delayed post-test](control-group-individual-sharp-decline-delayed-posttest.md) — a narrower finding that bears on this claim
 - [Vocabulary gains from textual gloss use occur immediately but are not maintained over three weeks across all proficiency levels](gloss-gains-not-maintained-three-weeks.md) — related
 - [Concept mapping supports retention of science knowledge over five days](concept-mapping-supports-retention-delayed-posttest.md) — related
+- [The G-Jump group maintained and slightly improved its mean score from post-test to two-week follow-up, showing better short-term retention than the other groups](gjump-sustained-retention-follow-up.md) — related

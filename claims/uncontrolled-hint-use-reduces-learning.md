@@ -48,3 +48,4 @@ The article reports, citing Razzaq and Heffernan (2006), that uncontrolled hint 
 - [A warning message about potential AI mistakes increases seventh-graders' hint requests in a math intelligent tutoring system](ai-fallibility-warning-increases-help-seeking.md) — related
 - [AI assistance reduces persistence: persistence costs concentrate among learners who used AI for direct solutions, not hints](ai-assistance-persistence-costs-direct-solutions.md) — related
 - [Students in the combined condition tended to make fewer errors and request fewer hints over time than students in individual-only or collaborative-only conditions](combined-condition-fewer-errors-and-hints.md) — related
+- [Pilot students were unaware of the scoring system and hint point-deductions, and requested transparent scoring and immediate feedback](escape-room-scoring-opacity-frustration.md) — related

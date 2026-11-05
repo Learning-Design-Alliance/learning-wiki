@@ -45,6 +45,7 @@ The authors recommend embedding tools like CulturAIEd within professional develo
 - [Teachers iteratively refine LLM-simulated student ideas with classroom context before instructional use](iterative-teacher-llm-refinement-strategy.md)
 - [Integrate structured opportunities for critical engagement with AI into teacher education programs](structured-critical-ai-engagement-teacher-education.md)
 - [Comprehensive integration approach: experiential teacher learning, iterative design, context-specific tool adaptation, and anxiety mitigation](ai-efl-integration-challenges-strategy.md)
+- [Use AI as a tool for critique and refinement rather than a substitute for student work](ai-as-critique-and-refinement-tool.md)
 
 ## Examples
 -

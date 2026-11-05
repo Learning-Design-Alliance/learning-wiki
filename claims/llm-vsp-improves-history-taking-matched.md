@@ -54,3 +54,4 @@ Propensity-matched comparison (40 pairs) of end-of-term OSCE scores with real st
 - [The largest checklist-item gain from multi-agent scaffolding was in observable empathic expression, with additional gains in selected history-taking items](empathy-checklist-item-largest-gain.md) — related
 - [In an RCT reviewed by this study, an LLM-based digital patient improved ophthalmology medical history-taking skills relative to control](llm-digital-patient-improves-history-taking-rct.md) — related
 - [GP residents showed statistically significant pre-post improvements in history-taking (Cohen's d = 1.11) and clinical reasoning (Cohen's d = 1.32) after a 12-week VP training program](vp-training-improves-history-taking-clinical-reasoning.md) — related
+- [AI-generated feedback following social robotic VP interactions improves medical students' total OSCE performance (Cohen d=0.74)](ai-feedback-sari-improves-total-osce.md) — related

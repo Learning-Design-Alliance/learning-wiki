@@ -9,6 +9,7 @@ generated:
   at: 2026-09-26
 evidence_strength: moderate
 newest_evidence: 1995
+source_checked: 2026-11-05
 recheck_by: 1998
 sources:
   - id: williams-1995
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 1995 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1998**: local conditions change quickly
+> **Currency** · newest study 1995 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 1998**: local conditions change quickly
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims

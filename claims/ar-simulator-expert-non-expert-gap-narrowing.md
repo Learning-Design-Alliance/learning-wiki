@@ -48,3 +48,4 @@ Descriptive group comparison in the results section: "Experts consistently perfo
 - [Task completion time for nail insertion decreased significantly across simulation runs and remained stable during retention](ar-simulator-insertion-time-decrease-retention.md) — related
 - [Number of simulated fluoroscopic images declined significantly for insertion and alignment across training runs](ar-simulator-fluoroscopic-image-count-decline.md) — related
 - [Faster completion correlates with higher total score, significant for Run 1 only](helpmesee-time-score-correlation.md) — related
+- [No significant group difference in procedure time or number of fluoroscopic images; experienced surgeons used more fluoroscopy, which the authors argue should not compromise care quality](no-significant-difference-time-fluoroscopy-count.md) — reports the opposite

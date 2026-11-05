@@ -54,3 +54,4 @@ weaker (𝜌= 0.46)"
 - [Safety and Trustworthiness is strongly anti-correlated with Basic Education across the nine evaluated models (r = −0.83)](safety-basic-education-anticorrelation.md) — related
 - [Policy and enforcement counts were not strongly associated across systems](policy-enforcement-counts-not-associated.md) — related
 - [Multimodal XGBoost models achieved rubric-aligned scoring comparable to expert ratings, and no single modality approached multimodal performance](multimodal-xgboost-expert-comparable-scoring.md) — related
+- [Interpretation and diagnosis scores were not correlated, suggesting the two domains are partly independent](interpretation-diagnosis-uncorrelated.md) — related

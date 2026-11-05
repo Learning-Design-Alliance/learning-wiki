@@ -50,6 +50,7 @@ The article recommends using the three empirically identified CT profiles to tai
 - [Differentiate CT scaffolding by initial CT level: open-ended challenges for moderate-CT, constraint-based tasks for high-CT, structured pathways for low-CT learners](differentiated-scaffolding-by-initial-ct-level.md)
 - [Tailor institutional GenAI training to teachers' prior GenAI use experience](experience-tailored-genai-teacher-training.md)
 - [Differentiate transition curricula by prior experience level, offering abbreviated foundational modules and extended advanced sessions for experienced practitioners](experience-differentiated-transition-pathways.md)
+- [Differentiate e-module design by achievement level: add spaced repetition and adaptive quizzes for low achievers and advanced case-based challenges for high achievers](differentiated-e-module-design-by-achievement-level.md)
 
 ## Examples
 -

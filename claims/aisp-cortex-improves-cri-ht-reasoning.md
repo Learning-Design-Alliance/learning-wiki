@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: kridipaka-s-2026
     resource: "https://doi.org/10.1186/s12909-026-09511-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Mean CRI-HT scores increased from 28.2 to 37.0 after the AISP intervention (d = 1.81, p < 0.001). [→ Kridipaka S 2026](#kridipaka-s-2026)
@@ -55,3 +56,4 @@ In the same single-group pre-post study, the CRI-HT scale, which evaluates the r
 - [The Clinical Reasoning Index rose from 3.25 to 3.79, with all clinical scenarios surpassing the professional proficiency threshold of 3.0](cri-rose-above-proficiency-threshold.md) — related
 - [Clinical reasoning scores were higher after training than before training in every clinical domain assessed, in one single-group pre-post study with no comparison group](ofc-gains-across-all-clinical-domains.md) — related
 - [Total self-reported ICCAS scores rose significantly from pre-test to post-test after the simulation intervention in one uncontrolled pre-post study](sbl-total-iccas-significant-increase.md) — related
+- [AI-generated feedback following social robotic VP interactions improves medical students' total OSCE performance (Cohen d=0.74)](ai-feedback-sari-improves-total-osce.md) — related

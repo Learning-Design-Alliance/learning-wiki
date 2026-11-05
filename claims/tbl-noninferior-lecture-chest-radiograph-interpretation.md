@@ -51,3 +51,4 @@ Quasi-experimental cohort comparison with two consecutive PA student cohorts (87
 - [TBL produces significantly higher student engagement and peer/instructor interaction than lecture-based instruction](tbl-higher-engagement-peer-interaction-than-lecture.md) — related
 - [TBL students attribute self-efficacy to peer discussion while lecture students attribute it to practice cases and systematic approach](tbl-peer-discussion-vs-lecture-practice-cases-self-efficacy.md) — related
 - [PBL methods produce significantly better knowledge scores than traditional teaching among dental students (pooled MD 4.15)](pbl-improves-knowledge-scores.md) — related
+- [A brief resident-led checklist-guided session significantly improved chest radiograph interpretation scores over lecture-only instruction](checklist-session-improves-cxr-interpretation.md) — related

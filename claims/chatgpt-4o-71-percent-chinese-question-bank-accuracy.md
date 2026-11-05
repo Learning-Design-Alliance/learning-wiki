@@ -55,3 +55,4 @@ Testing on all 567 OMS questions from the 2024 Chinese Dental Licensing Exam Que
 - [Newer Anthropic and DeepSeek models approach GPT‐4o–o1 accuracy on biomedical MCQs, while Google Gemini and Microsoft Copilot trail the leading companies](llm-company-comparison-biomedical-mcq-accuracy.md) — related
 - [ChatGPT-4o's accuracy on Chinese questions varied by question type, highest for A1-type (76%) and lowest for A2-type (61%)](chatgpt-4o-chinese-question-type-accuracy-varies.md) — related
 - [ChatGPT-4o showed a language-related performance gap, performing better on English than Chinese questions while humans showed the reverse pattern](chatgpt-4o-language-performance-gap-english-chinese.md) — related
+- [Complex Type C integrative questions distinguish models most: the Deepseek-R1 vs. ChatGPT-4o accuracy gap on Type C was nearly 25%](type-c-questions-distinguish-models.md) — related

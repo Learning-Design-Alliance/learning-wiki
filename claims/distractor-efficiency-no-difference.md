@@ -47,3 +47,4 @@ Item-level distractor efficiency was compared in the ITT population with a Wilco
 ## Related Claims
 - [Student-generated MCQs showed higher item discrimination than AI-generated MCQs, with a small effect size and a majority of AI items in the poor-discrimination band](student-gen-items-higher-discrimination.md) — related
 - [Distractor efficiency is higher in MCQs than EMQs](distractor-efficiency-higher-mcqs.md) — related
+- [Factual MCQs are significantly more likely to be easy than clinical case-based MCQs, and absence of low-functioning distractors is inversely associated with item ease](factual-questions-easier-lfd-absence-inverse-ease.md) — related

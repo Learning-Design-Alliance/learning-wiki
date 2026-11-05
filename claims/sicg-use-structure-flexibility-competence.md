@@ -50,3 +50,4 @@ Thematic synthesis finding across included SICP/SICG articles: the review report
 - [Confidence is required for serious illness conversations, with discomfort arising especially around discussing prognosis](sic-confidence-discomfort-prognosis.md) — related
 - [Interpersonal capabilities — building connectedness and seeking permission — foster trust and psychosocial safety in serious illness conversations](sic-interpersonal-connectedness-permission.md) — related
 - [Communication skills training programs improve clinician patient-centeredness, but training approaches are variable and long-term retention is untested](cst-programs-improve-patient-centeredness-short-term.md) — related
+- [Structured conversation guides shift goals-of-care conversations beyond code status and support behavior change when implementation supports are present](conversation-guides-shift-beyond-code-status.md) — related

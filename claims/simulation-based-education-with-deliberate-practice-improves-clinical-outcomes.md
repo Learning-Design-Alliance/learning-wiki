@@ -8,6 +8,7 @@ generated:
 id: simulation-based-education-with-deliberate-practice-improves-clinical-outcomes
 evidence_strength: moderate
 newest_evidence: 2011
+source_checked: 2026-11-05
 sources:
   - id: mcgaghie-et-al-2011
     resource: "https://doi.org/10.1097/acm.0b013e318217e119"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i3` large · n=14 studies
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 <!-- title before 2026-11-05 (the meta-analysis measured trainees' clinical skill acquisition, not patient-level clinical outcomes): Simulation Based Education With Deliberate Practice Improves Clinical Outcomes -->
 
 Simulation-based education that incorporates deliberate practice — repeated, goal-directed rehearsal with immediate feedback and increasing difficulty — improves trainees' clinical skill acquisition, mostly procedural and psychomotor skills. The meta-analysis recorded here did not pool patient-level outcomes; the authors discuss such studies only as related evidence outside it.
@@ -136,3 +137,4 @@ Systematic review and meta-analysis of 3,742 identified articles, of which 14 me
 - [A competency-based multiactor emergency preparedness training curriculum improved cognitive knowledge, self-assessed skill, and scenario performance after video debriefing](competency-based-multiactor-ept-improved-performance.md) — a narrower finding that bears on this claim
 - [The proportion of participants meeting the 80% knowledge competency threshold rose from 18% pre-training to 82% post-training, and 94% met practical competencies after training, in one uncontrolled pre-post study](pr-training-competency-threshold-attainment.md) — a narrower finding that bears on this claim
 - [Authors attribute SBT performance advantages to repeated structured rehearsal in a controlled learning environment](sbt-advantage-attributed-repeated-structured-rehearsal.md) — a narrower finding that bears on this claim
+- [No significant performance improvement was detected at the midterm assessment after two training sessions, suggesting a threshold of repeated exposure precedes measurable gains](no-midterm-gain-exposure-threshold.md) — reports the opposite

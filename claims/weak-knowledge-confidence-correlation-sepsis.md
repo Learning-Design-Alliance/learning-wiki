@@ -54,3 +54,4 @@ Pearson product-moment correlation in the 355-nurse survey found "a weak yet sta
 - [Positive motivational assessments of introductory activities correlate weakly with learning outcomes on near-in-time tests but not with distant exam results](motivational-assessments-correlate-weakly-near-tests.md) — related
 - [Self-reported confidence and familiarity with screening tools did not reliably translate into accurate sepsis determination](confidence-competence-gap-sepsis-recognition.md) — a narrower finding that bears on this claim
 - [There is a weak to moderate positive correlation between SBWGTT placement time and the presence of complications](correlation-placement-time-complications-sbwgtt.md) — related
+- [Self‐assessed nutritional competencies did not correlate with actual nutritional knowledge, suggesting a mismatch between perceived and actual proficiency](self-assessment-knowledge-no-correlation.md) — related

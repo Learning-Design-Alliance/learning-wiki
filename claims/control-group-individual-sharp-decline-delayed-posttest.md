@@ -10,7 +10,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2017
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: nader-asadi-aidinlou-alireza-moradinejad-2016
     resource: "https://doi.org/10.7575/aiac.alls.v.7n.5p.14"
@@ -34,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q2`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 

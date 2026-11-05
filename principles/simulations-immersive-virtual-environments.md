@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 400 claims (224 for, 151 mixed, 25 against) · 243 studies (83 causal, 77 review, 39 quant-synthesis, 19 design, 16 qualitative, 8 theoretical, 1 associational), `q1`–`q4` · 50 of 243 report an effect size · 395 claims rest on one study
+> **Evidence** · 403 claims (226 for, 152 mixed, 25 against) · 246 studies (85 causal, 77 review, 39 quant-synthesis, 20 design, 16 qualitative, 8 theoretical, 1 associational), `q1`–`q4` · 51 of 246 report an effect size · 398 claims rest on one study
 
 ## Conditional relationship
 
@@ -398,6 +398,9 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Prior VR training significantly speeds femoral nailing synthetic-bone performance in both cohorts (about 7 minutes faster, P<.01; about 4 minutes faster, P=.05)](../claims/vr-pretraining-faster-femoral-nailing.md) [+W] — attached 2026-11-05 from Sandipan Chatterjee et al. (2026), which proposed "Integrate brief VR simulation sessions as a supplement to conventional hands-on surgical training, especially in low-resource settings"; tests this page's relationship.
 - [Third-year medical students who took the VR-based IAVSE course achieved higher human anatomy theory scores than students in the traditional laboratory course](../claims/iavse-higher-anatomy-theory-scores.md) [+W] — attached 2026-11-05 from Li A et al. (2026), which proposed "Use VR-based imaging anatomy as a transitional bridge between 3D anatomy instruction and 2D medical imaging coursework"; tests this page's relationship.
 - [Students who took the IAVSE course achieved higher fourth-year medical imaging theory, practical testing, and total scores than the control group](../claims/iavse-higher-medical-imaging-scores.md) [+W] — attached 2026-11-05 from Li A et al. (2026), which proposed "Use VR-based imaging anatomy as a transitional bridge between 3D anatomy instruction and 2D medical imaging coursework"; tests this page's relationship.
+- [High-fidelity simulation did not outperform medium-fidelity simulation on clinical skills for pressure-injury management (p = 0.853; d = 0.076)](../claims/high-fidelity-no-skills-advantage-pressure-injury.md) [~W] — attached 2026-11-05 from Luiz Franciane Silva et al. (2026), which proposed "Design simulation for immersion, objective alignment, and instructional-design quality rather than relying on technological fidelity level".
+- [Surgical residents rate laparoscopic procedures on Fix4Life cadavers as Good or Very Good for face validity](../claims/residents-rate-fix4life-good-face-validity.md) [+W] — attached 2026-11-05 from Rahimi A. Masie et al. (2026), which proposed "Use reusable embalmed cadavers that preserve tissue pliability and color as a bridge between simulators and the operating room".
+- [A Kolb-based VR simulation program produces significantly greater improvement in problem-solving ability than e-book-based case simulation among nursing students](../claims/vr-experiential-simulation-improves-dka-problem-solving.md) [+W] — attached 2026-11-05 from Baek Gyuli; Lee Eunju (2026), which proposed "Integrate VR simulation strategically into nursing curricula for high-risk, low-frequency clinical scenarios"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

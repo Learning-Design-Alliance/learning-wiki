@@ -66,3 +66,4 @@ The review's cross-study synthesis of 10 teaching-and-learning-method studies ca
 - [Students report increased self-perceived confidence following the pediatric dentistry internship.](students-report-increased-confidence-following-pediatric-dentistry-internship.md) — a narrower finding that bears on this claim
 - [Video-production experiential teaching raises self-perceived core health education competencies more than lecture-based instruction](video-production-experiential-teaching-raises-self-perceived-competencies.md) — a narrower finding that bears on this claim
 - [European dental schools show large variation in gerodontology teaching, with many lacking clinical and outreach components](european-gerodontology-teaching-variation-gaps.md) — related
+- [Flipped and blended learning shows mixed effectiveness in diabetes education, dependent on learner preparation and integration with experiential practice](flipped-blended-mixed-preparation-dependent.md) — related

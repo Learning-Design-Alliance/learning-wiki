@@ -9,7 +9,6 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-11-01
 sources:
   - id: ali-abdi-2014
     resource: "https://doi.org/10.13189/ujer.2014.020104"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2014 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students taught with inquiry-based instruction supported by the 5E learning cycle scored significantly higher on the post-test achievement measure than students taught with traditional instruction (F = 5.121, p = .030). [→ Ali Abdi 2014](#ali-abdi-2014)

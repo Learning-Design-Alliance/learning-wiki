@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-18
+source_checked: 2026-11-05
 sources:
   - id: tripathi-2026
     resource: "https://doi.org/10.48550/arxiv.2605.21962"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Empirical evidence shows that increased fidelity (visual realism and immersion) does not reliably improve learning or training outcomes in serious games, and in some cases increases extraneous cognitive load without proportional learning benefit. [→ Tripathi 2026](#tripathi-2026)
@@ -103,3 +103,4 @@ The chapter reports, citing prior systematic reviews, that the assumption that m
 - [AR technologies may facilitate physics learning by providing complementary visualizations, optimizing cognitive load, allowing haptic learning, reducing task completion time and promoting collaborative inquiry](ar-facilitates-physics-learning-five-mechanisms.md) — related
 - [Non-immersive classroom visualization shows no significant contemporaneous-gain advantage over no visualizations, and its Post-Pre advantage reverses relative to the control group](classroom-visualization-no-advantage.md) — a narrower finding that bears on this claim
 - [Students perceived that HoloLens increased engagement, but immersion was fragile and contingent on technical reliability and physical comfort](hololens-engagement-fragile-immersion.md) — related
+- [No significant Group × Time interaction in theoretical knowledge: knowledge gains occurred similarly in high- and medium-fidelity groups](no-group-time-interaction-knowledge-fidelity.md) — a narrower finding that bears on this claim

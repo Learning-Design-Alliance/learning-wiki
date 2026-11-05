@@ -45,6 +45,7 @@ The article recommends integrating gerodontology learning content across the who
 - [Integrate nutrition throughout medical training using a vertical spiral curriculum with practical teaching methods such as cooking lessons](vertical-spiral-nutrition-curriculum.md)
 - [Integrate grief training throughout the medical curriculum using interdisciplinary collaborations and experiential learning opportunities](integrate-grief-training-throughout-curriculum.md)
 - [Reduce assessment burden in integrated spiral curricula by combining formative and summative assessments or using technology-enhanced assessment platforms](reduce-assessment-burden-integrated-curricula.md)
+- [Anchor oral-health content longitudinally across the medical curriculum with a learning spiral and interdisciplinary formats](learning-spiral-oral-health-curriculum-integration.md)
 
 ## Examples
 -

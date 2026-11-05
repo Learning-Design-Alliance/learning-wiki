@@ -9,6 +9,7 @@ generated:
   at: 2026-10-02
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-11-05
 recheck_by: 2025
 sources:
   - id: mustafa-metin-2022
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: local conditions change quickly
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2025**: local conditions change quickly
 
 ## Subclaims
 `q2 i?` Pre-test NOSS (t = .446) and SKS (t = .931) differences between groups were not statistically significant (p > 0.05). [→ Mustafa Metin 2022](#mustafa-metin-2022)

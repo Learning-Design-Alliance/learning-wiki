@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2016
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: wanzek-et-al-2016
     resource: "https://eric.ed.gov/?id=ED577133"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
-> **Currency** · newest study 2016 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` No significant findings were observed for word reading or fluency outcomes (Hedge's g range = 0.04 to 0.07), and no significant effect for WJIII passage comprehension (g = 0.14). [→ Wanzek et al. 2016](#wanzek-et-al-2016)

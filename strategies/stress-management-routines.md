@@ -66,6 +66,7 @@ Stress is not uniformly harmful — moderate arousal can enhance performance —
 - [Classroom Climate Routines](classroom-climate-routines.md) — structural routines that reduce ambient stressors
 - [Reduce workloads and chunk instruction into smaller pieces to support diminished capacity and executive functioning](reduce-workload-chunk-instruction-distance-learning.md)
 - [Teach an academic toolbox combining study strategies with self-regulation skills such as goal setting, time management, and anxiety coping techniques](academic-toolbox-strategy-instruction.md)
+- [Implement integrated stress-management strategies and structured physical activity programmes for medical students in military institutions](integrated-stress-management-structured-pa-military-medical-students.md)
 
 ## Examples
 - **Mindfulness in schools**: Meta-analysis of school-based mindfulness programs (e.g., .b curriculum, [Mindfulness in Schools Project](https://mindfulnessinschools.org)) found small but reliable improvements in well-being and executive function, with stronger effects in secondary students [~M].

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: al-shaer-2014
     resource: "https://doi.org/10.20429/ijsotl.2014.080210"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2014 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The experimental group showed statistically significant pre-to-post gains in point of view (p .005), unity and coherence (p .008), development (p .004), organization (p .004), and thinking (p .010), with an overall p-value of .008. [→ Al-Shaer 2014](#al-shaer-2014)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-02
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-05
 sources:
   - id: şenel-elaldı-2016
     resource: "http://dx.doi.org/10.11114/jets.v4i1.1097"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across five PBL studies, the random-effects pooled effect size on academic achievement was 1.560, which the authors interpret as showing PBL has a more positive effect than traditional method; the study distribution was heterogeneous under FEM. [→ Şenel Elaldı 2016](#senel-elald-2016)

@@ -51,3 +51,4 @@ Stahl summarizes Silseth's dialogic case study of one student's social-studies l
 - [Students' own bodily responses to the VR film became resources in reflective dialogue for characterizing emotional reactions and reinterpreting prior experiences](students-own-bodily-responses-vr.md) — related
 - [Students in an upper secondary classroom experienced the individually-oriented viewing of the VR film Travelling While Black as highly social, despite sitting silently in headset-wearing groups](students-experienced-vr-film-viewing-as-social.md) — related
 - [Judicious use of technology, video, film and TV with captions can support FL learning, but technology use for its own sake is not advantageous](judicious-technology-use-fl-learning.md) — related
+- [Increases in hobby time are beneficially associated with Attainment 8, while reductions in hobby time are consistently associated with reduced attainment](hobby-time-beneficial-attainment8.md) — related

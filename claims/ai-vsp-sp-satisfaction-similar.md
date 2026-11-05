@@ -51,3 +51,4 @@ Secondary outcome in the RCT, assessed with a 5-point Likert scale measuring enj
 - [Post hoc analysis suggests OSCE equivalence and non-inferiority of AI-VSP for other learning outcomes and satisfaction](ai-vsp-equivalence-non-inferiority-post-hoc.md) — related
 - [Students valued VSP convenience but rated realism and feedback value below human standardized patients](vsp-student-feedback-convenience-high-realism-low.md) — related
 - [Students taught with a standardized patient reported marginally more engaging, effective, and confidence-building learning experiences than students taught by video demonstration](sp-feedback-more-engaging-and-confidence-building.md) — related
+- [Students training with AI-VSPs give more positive and fewer negative feedback comments than traditional SP students](ai-vsp-more-positive-feedback-comments.md) — related

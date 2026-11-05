@@ -51,6 +51,7 @@ The article recommends that to sustain and extend the benefits of simulation-bas
 - [Use regular refresher training to counter significant decline in BLS knowledge and skills at 3 months](regular-refresher-training-for-bls-decline.md)
 - [Design CPR education as an ongoing, reinforcement-based process combining spaced intervals, feedback, and cognitive components](cpr-education-reinforcement-based-design-strategy.md)
 - [Provide regular, periodic refresher training on frailty rather than one-time orientation programs](regular-frailty-refresher-training-strategy.md)
+- [Pair cadaveric workshops with a longitudinal pathway of refreshers, mentorship and task trainers to consolidate skills](neurosave-longitudinal-refreshers-mentorship-strategy.md)
 
 ## Examples
 -

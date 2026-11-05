@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-19
+source_checked: 2026-11-05
 sources:
   - id: raigul-zheldibayeva-2026
     resource: "https://doi.org/10.48550/arxiv.2605.17055"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When the conversational feature was available and visible, students asked follow-up questions and engaged in iterative feedback-revision cycles. [→ Raigul Zheldibayeva 2026](#raigul-zheldibayeva-2026)

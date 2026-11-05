@@ -53,3 +53,4 @@ Repeated measures ANOVA in a two-arm randomized controlled trial of 41 trainee t
 - [VR-based safety training enhances self-efficacy more effectively than traditional lecture-based training](vr-safety-training-enhances-self-efficacy.md) — related
 - [The e-learning group reported significantly higher motivation to learn than the lecture-based group](ecme-motivation-higher-than-lecture.md) — related
 - [The experimental group showed increased motivation and improved communication skills after citation-based lessons, while the control group remained virtually unchanged](citation-lessons-motivation-communication-gains.md) — related
+- [The VR group rated class evaluation, simulation design evaluation, and practice immersion significantly higher than the e-book control group](vr-group-higher-secondary-outcomes-dka-simulation.md) — a narrower finding that bears on this claim

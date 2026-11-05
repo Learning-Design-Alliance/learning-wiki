@@ -52,6 +52,8 @@ The authors recommend embedding nutrition-related competencies across the whole 
 - [Integrate nutrition throughout medical training using a vertical spiral curriculum with practical teaching methods such as cooking lessons](vertical-spiral-nutrition-curriculum.md)
 - [Integrate culinary medicine into compulsory German medical curricula with prevention and interprofessional learning contexts](integrate-cm-into-german-medical-curricula.md)
 - [Teach the missing nutrition-counselling topics in communication courses or culinary medicine programs, and deepen breastfeeding counselling in mandatory paediatric specialist training](targeted-courses-for-nklm-nutrition-gaps.md)
+- [Anchor oral-health content longitudinally across the medical curriculum with a learning spiral and interdisciplinary formats](learning-spiral-oral-health-curriculum-integration.md)
+- [Implement comprehensive nutrition education from the undergraduate level, coupled with continuing professional development and interprofessional collaboration](undergraduate-nutrition-education-oncology-nurses.md)
 
 ## Examples
 -

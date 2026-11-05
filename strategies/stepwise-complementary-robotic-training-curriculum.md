@@ -70,6 +70,8 @@ The review recommends that training modalities be combined in a progressive curr
 - [Design training rotas with consistent, protected time for access to robotic simulators for skill progression](protected-simulation-time-robotic-training-rotas.md)
 - [Structured stepwise endodontic curriculum: preclinical training, clinical observation, then supervised clinical practice](stepwise-endodontic-curriculum-preclinical-observation-practice.md)
 - [Integrate dedicated surgical care practitioners into robotic programmes to free trainees from the bedside assistant role and facilitate their transition to the console](scp-bedside-assistant-integration-robotic-training.md)
+- [Integrate cognitive profiling and task-specific modality selection into surgical simulation training](cognitive-profiling-modality-selection-strategy.md)
+- [Sequence laparoscopic training from box trainers and simulators with preset proficiency benchmarks before cadaver training](simulator-benchmarks-before-cadaver-training.md)
 
 ## Examples
 -

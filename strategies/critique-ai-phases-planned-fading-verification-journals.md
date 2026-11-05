@@ -45,6 +45,7 @@ The article's forward-looking design recommendations channel generative-AI use t
 - [Use a mixed-methods assessment sequence: diagnostic inventory, structured verification tasks, and discipline-specific critique or workflow-design assignments](mixed-methods-ai-literacy-assessment-sequence.md)
 - [Discourage mental offloading to AI by balancing guidance depth and frequency with application opportunities](discourage-mental-offloading-balance-guidance-application.md)
 - [Design GenAI tools with modular offloading control and meta-cognition support for learning contexts](modular-offloading-control-and-meta-cognition-support-genai.md)
+- [Use AI as a tool for critique and refinement rather than a substitute for student work](ai-as-critique-and-refinement-tool.md)
 
 ## Examples
 -

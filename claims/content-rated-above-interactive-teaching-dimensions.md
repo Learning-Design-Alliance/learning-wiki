@@ -50,3 +50,4 @@ Descriptive survey results from the same 318-student cross-sectional study, repo
 - [The scenario-based group's overall experience score was substantially higher than the traditional group's](overall-experience-higher-simulation-group.md) — related
 - [Most nurses expressed satisfaction with the AMS course content and its relevance to everyday practice](nursing-ams-course-satisfaction-relevance.md) — related
 - [Nearly two-thirds of clinical-year health science students at an Ethiopian teaching hospital experienced clinical skill anxiety](csa-prevalence-64-percent-ethiopian-clinical-year-students.md) — related
+- [94.5% of surveyed nursing interns were relatively satisfied with teaching quality and 95.5% with their preceptors after certification implementation](intern-satisfaction-94-5-teaching-quality.md) — related

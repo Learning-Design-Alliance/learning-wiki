@@ -49,6 +49,7 @@ The article recommends that, within a BLS curriculum that includes a shared stru
 
 - [Align simulation-based BLS training with INACSL guidelines including interactive lectures, skill demonstrations, high-fidelity manikin practice, scenarios, and GAS-model structured debriefing](strategy-inacsl-aligned-bls-simulation-module.md)
 - [Use screen-based 360° contextual simulation videos as a scalable supplement when supervised practice opportunities are constrained](360-video-scalable-supplement-nursing.md)
+- [Use blended learning—combining lectures, digital modules, and limited in-person simulation—as a scalable compromise for communication training](blended-learning-scalable-communication-training.md)
 
 ## Examples
 -

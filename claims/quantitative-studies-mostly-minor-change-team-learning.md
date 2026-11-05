@@ -9,7 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-21
+source_checked: 2026-11-05
 recheck_by: 2030
 sources:
   - id: andreas-widmann-2025
@@ -34,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-21 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2030: baselines and conditions change
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Most quantitative studies indicate minor change in sharing, team reflection, team activity, co-construction and constructive conflict, with mean differences between .01 and .15. [→ Andreas Widmann 2025](#andreas-widmann-2025)

@@ -43,7 +43,8 @@ The review recommends that training go beyond one-off instruction: "The findings
 - [Communication skills training programs improve clinician patient-centeredness, but training approaches are variable and long-term retention is untested](../claims/cst-programs-improve-patient-centeredness-short-term.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Prioritize regular, context-specific communication training with conversation guides and available technologies to embed GoPC conversations in practice](regular-context-specific-gopc-training-embedding.md)
 
 ## Examples
 -

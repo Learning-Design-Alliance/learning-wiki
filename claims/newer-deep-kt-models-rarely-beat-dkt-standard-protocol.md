@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2022
+recheck_by: 2025
 sources:
   - id: liu-et-al-2022
     resource: "https://doi.org/10.52202/068431-1347"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · n=7 datasets, 10 models
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 Knowledge tracing predicts whether a learner will answer the next question correctly from their history, and adaptive systems use it to decide what a learner has mastered. This claim concerns how far published accuracy gains for deep learning knowledge-tracing models hold up when every model is run on the same data splits and preprocessing; it does not test any model's effect on learning.
 

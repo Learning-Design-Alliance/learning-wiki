@@ -9,7 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-29
+source_checked: 2026-11-05
 sources:
   - id: pozdniakov-2026
     resource: "https://doi.org/10.1016/j.compedu.2026.105591"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The article's background summary of prior studies (not its own participants) reports that, across various contexts, students perceive feedback from instructors as significantly more useful, helpful, trustworthy, and genuine than feedback from AI, and that students tend to downgrade AI-generated feedback once they know its origin. [→ Pozdniakov 2026](#pozdniakov-2026)

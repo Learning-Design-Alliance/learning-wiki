@@ -58,3 +58,4 @@ Systematic review with narrative synthesis of 15 studies of early clinical expos
 - [Over 65% and 90% of graduates agreed mentorship programs and practical exposures would improve MPH programs; over 90% agreed on problem solving skills](graduates-recommend-mentorship-practical-exposure-problem-solving.md) — related
 - [Students reported that early exposure to surface anatomy, palpation, and systematic physical examination enhanced their confidence and competence with real patients](early-surface-anatomy-exposure-confidence.md) — related
 - [87.1% of students preferred group exams and 90.3% perceived improved future consultation skills](group-exam-and-consultation-perceptions-pilot.md) — related
+- [The intervention increased students' self-assessed confidence in dealing with oral diseases](pbl-case-increases-self-assessed-oral-confidence.md) — a narrower finding that bears on this claim

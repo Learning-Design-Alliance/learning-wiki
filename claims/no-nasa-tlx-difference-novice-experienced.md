@@ -51,3 +51,4 @@ NASA Task Load Index questionnaire administered after the simulated procedure. T
 - [Experienced participants scored significantly higher than novices on both OSATS and TSMs in simulated crural repair](experienced-outperform-novices-osats-tsm.md) — related
 - [Teacher perceived workload did not differ significantly across conditions on any NASA-TLX subscale, though the experimental condition was descriptively lower on most subscales](aied-u-no-significant-workload-difference.md) — related
 - [Under NASA TLX, AR-group students felt more frustrated but believed they performed relatively better, with nearly equal overall workload scores](nasa-tlx-frustration-perceived-performance-ar.md) — related
+- [Global cognitive load (NASA TLX) change did not differ between training groups](nasa-tlx-global-change-no-group-difference.md) — related

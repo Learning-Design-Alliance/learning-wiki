@@ -56,3 +56,4 @@ Observational pilot study of the Class of 2016 (n=31): one-tailed t-tests compar
 - [AI-assisted radiograph interpretation showed improved outcomes in dental student training](ai-assisted-radiograph-interpretation-improved-outcomes.md) — related
 - [All three online training methods significantly improved diagnostic performance for MUL measurements on prostate MRI with no significant differences between groups](online-training-improves-mul-diagnostic-performance.md) — related
 - [AI-driven teaching paradigm improves diagnostic performance in medical imaging education](ai-paradigm-improves-diagnostic-performance.md) — related
+- [The checklist-guided session also improved diagnosis scores, though with a smaller margin than interpretation](checklist-session-improves-cxr-diagnosis.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2018
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: bogale-2018
     resource: "https://eric.ed.gov/?id=EJ1207221"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2018 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After a semester of explicit reading strategy instruction, the experimental group's post-test reading comprehension mean was significantly higher than its pre-test mean at p<0.05. [→ Bogale 2018](#bogale-2018)

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-16
+source_checked: 2026-11-05
 sources:
   - id: kirk-vanacore-2026
     resource: "https://arxiv.org/abs/2602.19303"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` There is evidence that over-reliance on generative AI might negatively affect students' self-regulated learning behaviors, potentially impacting their ability to retain and transfer knowledge to novel contexts. [→ Kirk Vanacore 2026](#kirk-vanacore-2026)

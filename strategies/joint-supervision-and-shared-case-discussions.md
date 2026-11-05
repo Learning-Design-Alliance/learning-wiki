@@ -50,6 +50,7 @@ This strategy holds that promoting interprofessional learning opportunities such
 - [Reflective practice sessions, supervised role-play exercises and guided debriefing opportunities enable ANPs to process challenging encounters and develop empathy-based communication.](reflective-practice-and-guided-debriefing.md)
 - [Design recommendations for a contextually appropriate sim-IPE module in resource-constrained settings](sim-ipe-module-design-recommendations.md)
 - [Continuing professional development programmes tailored to personality disorder management, including short informal awareness sessions and simulation learning, should be evaluated for effectiveness.](pd-tailored-cpd-programmes.md)
+- [Cascading training model from tertiary specialists to primary care physicians and community health workers for MASLD screening](cascading-masld-training-model.md)
 
 ## Examples
 -

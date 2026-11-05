@@ -50,3 +50,6 @@ Assertion recorded in the review's Table 2 summary of SNAPPS benefits, which als
 - [SNAPPS outperformed the one-minute preceptor and both outperformed traditional clinical teaching for clinical reasoning skill](snapps-superior-one-minute-preceptor-traditional-teaching.md) — possibly the same claim (merge candidate)
 - [Residents' probing-question scores rose from 3 to 4 from before to after SNAPPS, in one uncontrolled pre-post study](snapps-probe-increases-resident-questions.md) — related
 - [Both GGR and SNAPPS significantly improve overall clinical reasoning scores in final-year MBBS students (p<0.001)](ggr-snapps-both-improve-clinical-reasoning.md) — related
+- [OMP preceptor training improves preceptors' teaching behaviors, self-confidence, and willingness to precept](omp-training-improves-preceptor-confidence-willingness.md) — related
+- [Research comparing the models demonstrates that SNAPPS performed better for clinical reasoning scores while OMP had a higher user satisfaction rating](snapps-better-clinical-reasoning-omp-higher-satisfaction.md) — possibly the same claim (merge candidate)
+- [SNAPPS training outperforms traditional case presentation on clinical reasoning outcomes in medical residency randomized controlled trials](snapps-outperforms-traditional-presentation-rcts.md) — related

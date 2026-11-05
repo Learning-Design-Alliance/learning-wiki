@@ -48,7 +48,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (4 entries) · review `r3` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · 2 of 4 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Butler (2010, Experiment 1), that practicing retrieval enhanced performance on new final inference questions relative to restudying, and variable tests were no better than same tests. [→ Karpicke 2017](#karpicke-2017)

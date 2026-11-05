@@ -10,6 +10,7 @@ generated:
   at: 2026-09-24
 evidence_strength: weak
 newest_evidence: 2000
+source_checked: 2026-11-05
 sources:
   - id: ellsworth-2000
     resource: "https://eric.ed.gov/?id=ED444597"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2000 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2000 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 <!-- title before 2026-11-05 (the source says "may be rejected", a possibility, not a tendency): An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations. -->
 
 "Innovation" here covers new technologies, teaching approaches and designs being introduced into a school, programme or organisation. The claim is about adoption and persistence, not about whether the innovation works where it is used.

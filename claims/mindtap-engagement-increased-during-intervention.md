@@ -52,3 +52,4 @@ A one-way within-subject ANOVA tested the change in MindTap engagement before an
 - [The amplifying effect of personalized persuasive strategies on engagement was not statistically significant in the MindTap learning platform.](personalization-effect-not-significant-mindtap.md) — related
 - [Students' engagement in the SARA system increased significantly after the persuasive intervention was introduced, compared to the pre-intervention baseline.](sara-engagement-increased-during-intervention.md) — related
 - [Personalizing persuasive strategies to students' susceptibility amplifies their effect on engagement in the SARA learning support system.](personalized-persuasive-strategies-amplify-sara-engagement.md) — related
+- [P-MASE students showed higher learning engagement (platform logins, valid discussion posts) and higher simulated ED waiting-time reduction than controls](pmase-higher-engagement-and-ed-optimization-performance.md) — related

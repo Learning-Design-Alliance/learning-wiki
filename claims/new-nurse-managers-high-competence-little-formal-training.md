@@ -72,3 +72,4 @@ Descriptive survey of 185 new nurse managers; Table 1 characteristics show 63.8%
 - [Full participation in a management training programme is associated with significantly higher managerial competence scores](management-training-participation-higher-competence.md) — related
 - [New nurse managers most request training in risk management and leadership (94.1%) and prefer face-to-face, short-term, in-house training delivered by academic staff with management experience](nurse-manager-training-preferences-risk-leadership.md) — related
 - [Most nurse educators in the validation sample lacked required pedagogical training for their role](nurse-educators-lack-pedagogical-training.md) — related
+- [Nurses reported low confidence in using validated malnutrition screening tools and very low awareness of the regional regulation mandating nutritional screening](low-confidence-malnutrition-screening-tools.md) — related

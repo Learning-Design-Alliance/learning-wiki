@@ -12,7 +12,7 @@ generated:
 # Four-Phase Model of Interest Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 27 claims (16 for, 10 mixed, 1 against) · 28 studies (16 causal, 4 associational, 4 theoretical, 1 quant-synthesis, 1 review, 1 design), `q1`–`q3` · 8 of 28 report an effect size · 26 claims rest on one study
+> **Evidence** · 27 claims (16 for, 10 mixed, 1 against) · 28 studies (16 causal, 5 associational, 4 theoretical, 1 quant-synthesis, 1 review, 1 design), `q1`–`q3` · 8 of 28 report an effect size · 26 claims rest on one study
 
 ## Description
 Interest, distinct from effort, is a source of intrinsic motivation: when students learn from interest rather than pure effort, they devote more attention to the topic and tend to use more thoughtful learning strategies ([Hidi & Renninger, 2006](https://doi.org/10.1207/s15326985ep4102_4); Hidi, 2001). The distinction between interest and effort is often artificial in practice — the two commonly blend, as when a student works hard at a skill they also genuinely enjoy — but the useful instructional target is to draw on interest as much as possible so that required effort stays within a reasonable, sustainable range.

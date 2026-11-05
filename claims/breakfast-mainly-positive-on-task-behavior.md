@@ -54,3 +54,4 @@ Narrative synthesis of 11 studies using direct classroom observation measures. T
 - [School breakfast programs show suggestive positive effects on academic performance, with clearest effects on mathematics and arithmetic grades in undernourished children](sbp-positive-academic-performance-undernourished.md) — related
 - [Quality of habitual breakfast, in terms of variety of food groups and adequate energy, is positively related to school performance](breakfast-quality-school-performance.md) — related
 - [Breakfast After the Bell shows benefits for attendance and behavior, but mixed evidence on test scores](batb-mixed-academic-evidence.md) — related
+- [About 56% of first-cycle primary students in North Shoa Zone showed good academic performance, with widespread undernutrition and low breakfast consumption](academic-performance-undernutrition-prevalence-north-shoa.md) — related

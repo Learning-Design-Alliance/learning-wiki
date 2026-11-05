@@ -49,3 +49,4 @@ The article's narrative synthesis, citing periodontology literature, states that
 - [Four oral diseases are associated with food choices, dietary behaviors, and/or nutrient intakes](four-oral-diseases-diet-nutrient-associated.md) — related
 - [Children from underserved families show methylation profiles indicating advanced biological age, faster aging, higher inflammation, higher BMI, and lower cognitive health](underserved-children-advanced-biological-aging-mps.md) — related
 - [Exergaming fosters small but significant improvements in quality of life for people living with chronic diseases, and structured programs associate with executive functioning gains](exergaming-quality-of-life-executive-gains.md) — related
+- [Students' agreement that medical conditions raise oral disease progression and post-dental-complication risks increased, including for incorrect associations](risk-assessment-agreement-increased-including-incorrect.md) — related

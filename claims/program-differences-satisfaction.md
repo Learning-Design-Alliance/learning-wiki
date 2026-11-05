@@ -48,3 +48,4 @@ Descriptive bar-chart analysis of survey responses divided by program (Fig. 5), 
 - [Most nurses expressed satisfaction with the AMS course content and its relevance to everyday practice](nursing-ams-course-satisfaction-relevance.md) — related
 - [Most included studies sampled medical students (n=13), with few studies among nursing, pharmacy, physiotherapy, dentistry, or mixed disciplines](medical-students-dominate-ebp-teaching-evidence.md) — related
 - [Newly enrolled Medicine students scored significantly higher on empathy than students from Dentistry, Nursing, and Pharmacy in Singapore](medicine-freshmen-highest-empathy-singapore.md) — related
+- [Engagement and satisfaction with active learning vary by professional group, with nursing and pharmacy learners reporting more positive experiences than medical learners](population-by-method-interaction-engagement.md) — possibly the same claim (merge candidate)

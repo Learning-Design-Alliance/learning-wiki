@@ -49,3 +49,4 @@ Review discussion of concurrent-validity studies comparing manikin airway anatom
 - [The review reports that high-fidelity simulation outperformed case-based discussion for clinical reasoning and leadership in paediatric emergencies](hfs-superior-case-based-discussion-reasoning.md) — related
 - [Across the reviewed studies, simulation-based interventions consistently improved paediatric undergraduate learning outcomes, including clinical reasoning, procedural skills and confidence](sbe-consistently-improved-paediatric-ume-outcomes.md) — related
 - [Training fidelity: low-fidelity manikins performed comparably to high-fidelity manikins for epidural skill acquisition](low-fidelity-manikins-comparable-to-high-fidelity-epidural.md) — related
+- [Physicians reported manikin-based training was regarded as inadequate for replicating technical nuances and anatomical variability of real patients](manikin-training-inadequate-real-patient-variability-cvc.md) — related

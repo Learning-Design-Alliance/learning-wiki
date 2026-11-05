@@ -52,3 +52,4 @@ Exploratory outcome analysis of participant perceptions in the feasibility study
 - [LLM-based standardized virtual patient responses are largely authentic in dental history-taking simulations](llm-virtual-patients-largely-authentic-dialogue.md) — related
 - [Undergraduate dental students report high satisfaction and self-confidence in simulation-based clinical decision-making training using LLM-based standardized virtual patients](dental-students-high-satisfaction-llm-virtual-patients.md) — related
 - [Students perceived the GPT-based virtual patient encounters as realistic and easy to converse with](ai-virtual-patient-perceived-realistic.md) — related
+- [Final-year dental students perceived the AI role-play as authentic and relevant to clinical practice, with 85.7% strongly agreeing it relates to real-life scenarios](ai-roleplay-perceived-authenticity-survey.md) — related

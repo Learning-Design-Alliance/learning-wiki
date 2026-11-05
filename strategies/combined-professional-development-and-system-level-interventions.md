@@ -49,7 +49,8 @@ The article recommends that strengthening medication safety competence requires 
 - [Guidance and Development Policy Instruments Are Individually Insufficient for Instructional Change](../claims/guidance-development-instruments-insufficient-alone.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Combined organizational-support, mentorship, simulation-based confidence-building, and workload-management interventions for new emergency and critical care nurses](four-part-support-intervention-new-critical-care-nurses.md)
 
 ## Examples
 -

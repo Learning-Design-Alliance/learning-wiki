@@ -16,12 +16,14 @@ sources:
     author: "Kehle, L., & Urhahne, D."
     q: 3
     i: "?"
+    kind: associational
+    rigour: 2
 ---
 
 # Triggered interest predicts test achievement only when learners have prior experience with the task domain (CPT), not in the MPT or computer-based environment
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · `q3` peer-reviewed experiment
+> **Evidence** · 1 study · associational `r2` · `q3`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
@@ -33,7 +35,7 @@ sources:
 
 Kehle, L., & Urhahne, D. (2025). Interest and effort in learning and performance. *British Journal of Educational Psychology, 96*(2), 593–611. [doi:10.1111/bjep.70040](https://doi.org/10.1111/bjep.70040)
 
-`q3 · i?`
+`q3 · i?` · `associational · r2`
 
 SEM results of Study 1 (N = 152) show triggered interest significantly predicted CPT test achievement, whereas for the MPT "only actual effort emerges as a significant positive predictor of test achievement". In Study 2 (N = 120), only actual effort was significant.
 

@@ -53,3 +53,4 @@ Prospective collection in the E-MIPS registry of all consecutive RPDs performed 
 - [Fellowship-trained surgeons showed shorter operative times and fewer complications compared with non-fellowship peers](fellowship-trained-surgeons-shorter-operative-times-fewer-complications.md) — related
 - [Surgeons' previous experience and participation in structured training programmes are associated with shorter robot-assisted learning curves](experience-and-training-programmes-shorten-learning-curves.md) — related
 - [Postoperative pancreatic fistula rates remain stable along the RDP learning curve](rdp-popf-stable-along-learning-curve.md) — related
+- [Conversion rates decline across the RPD learning curve while emergency conversions remain absent, and higher BMI is associated with conversion](conversion-declines-across-rpd-curve-bmi-risk.md) — related

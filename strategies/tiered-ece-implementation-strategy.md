@@ -90,6 +90,9 @@ The authors recommend a sequenced implementation model: "It is recommended to ac
 - [Promote learner responsibility and supervised independence to optimise the concrete experience](learner-responsibility-bedside-concrete-experience.md)
 - [Staged hybrid model: programmed instruction for foundational skills, then case-based scenarios for clinical reasoning](staged-hybrid-programmed-instruction-case-based.md)
 - [Use virtual simulation games as a preliminary or complementary method to face-to-face simulation and clinical practice](vsg-as-preliminary-or-complementary-simulation.md)
+- [Use blended learning—combining lectures, digital modules, and limited in-person simulation—as a scalable compromise for communication training](blended-learning-scalable-communication-training.md)
+- [Adopt hybrid CBL-SST-simulator teaching for preclinical clinical-reasoning and communication goals while retaining LBL for foundational knowledge](hybrid-cbl-sst-adoption-strategy-preclinical-dental.md)
+- [Embed trauma-informed care instruction before procedural simulation rather than after](tic-instruction-before-procedural-practice-strategy.md)
 
 ## Examples
 -

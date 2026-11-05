@@ -9,6 +9,7 @@ generated:
   at: 2026-10-02
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-05
 sources:
   - id: clinton-2017
     resource: "https://doi.org/10.4018/978-1-5225-1005-5.ch010"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 <!-- title before 2026-10-02: Revisions did not affect total time spent with the lesson (a nonsignificant F does not establish no effect) -->
 
 ## Subclaims

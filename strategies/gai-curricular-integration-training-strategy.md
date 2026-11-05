@@ -67,6 +67,7 @@ The article recommends that GAI-based teaching be adopted as a complement to, no
 - [Integrate AI into structured peer teaching in four modes with training and quality safeguards](four-mode-ai-integration-peer-teaching-strategy.md)
 - [Integrate AI- and technology-related communication skills systematically into medical curricula](integrate-ai-communication-skills-curricula.md)
 - [Integrate AI-assisted virtual patient pre-class work with flipped classroom in-class discussion for clinical decision-making training](ai-assisted-cbl-fc-blended-strategy.md)
+- [Incorporate artificial intelligence and platform-based course recommendations into future blended teaching](future-ai-integration-blended-medical-teaching.md)
 
 ## Examples
 -

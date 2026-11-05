@@ -51,3 +51,4 @@ Descriptive perception-of-AI-performance results from questionnaire 2 (Table 5).
 - [Coherence is the weakest Dialogue Authenticity Scale dimension for LLM-based virtual patients, compromised by limited inferential reasoning and role-constraint violations](coherence-weakest-dimension-limited-inferential-reasoning.md) — reports the opposite
 - [Expert evaluation found the virtual patient realistic and immediate ACT feedback increased therapists' awareness of intervention choices](expert-evaluation-realism-and-feedback-awareness.md) — related
 - [Participants perceived the AI-simulated patient interaction as authentic and potentially useful for shared decision-making training](perceived-authenticity-ai-sdm-chatbot.md) — related
+- [Final-year dental students perceived the AI role-play as authentic and relevant to clinical practice, with 85.7% strongly agreeing it relates to real-life scenarios](ai-roleplay-perceived-authenticity-survey.md) — related

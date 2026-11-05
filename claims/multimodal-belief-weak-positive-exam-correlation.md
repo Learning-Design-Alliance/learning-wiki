@@ -53,3 +53,4 @@ Spearman correlation in the cross-sectional survey among 271 students with prior
 - [Assignment to the arousal condition correlates significantly but weakly with exam score (r = 0.176) in a correlation matrix of 846 students](arousal-condition-exam-score-correlation.md) — related
 - [Students' preference levels for the four learning modalities were positively correlated, and cluster analysis separated a lower-preference group (135 students) from a higher-preference group (170 students)](learning-preferences-correlated-two-clusters.md) — related
 - [Preferred learning modality shows no significant association with exam scores among medical students](preferred-modality-no-exam-score-association.md) — related
+- [Use of additional online learning material correlated positively with examination scores but not significantly](moodle-material-use-exam-score-nonsignificant-correlation.md) — related

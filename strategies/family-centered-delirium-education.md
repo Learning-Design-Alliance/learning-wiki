@@ -48,6 +48,7 @@ Students emphasized that delirium management requires a holistic approach incorp
 
 - [Integrate simulation, case-based learning, and communication-focused training into pre-clinical delirium curricula](simulation-case-based-delirium-training.md)
 - [Redesign the geriatric curriculum to comprehensively cover interdisciplinary teamwork and patient/caregiver-centered competencies](redesign-geriatric-curriculum-teamwork-caregiver-competencies.md)
+- [Integrate humanistic care into professional teaching by having students investigate socially relevant injury-prevention cases and adopt patients' perspectives](socially-relevant-cases-empathy-integration-strategy.md)
 
 ## Examples
 -

@@ -51,6 +51,7 @@ This strategy addresses the review's geographic-gap finding: Western-designed Ra
 - [Tailor curricula, programs, and support systems to clinical readiness components](tailor-curricula-to-clinical-readiness-components.md)
 - [Adapt an existing European or global competency framework to national needs rather than developing one de novo](adapt-existing-competency-framework-to-national-needs.md)
 - [Local adaptation of the framework across diverse contexts](pat-framework-local-adaptation.md)
+- [Adapt and tailor the triage simulation across program stages, modalities, and cohort needs](adapt-tailor-triage-simulation-blueprint.md)
 
 ## Examples
 -

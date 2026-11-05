@@ -53,3 +53,4 @@ Exploratory multilevel model predicting belonging (Table 2): SES beta 0.12, Gend
 - [Latino girls reported higher belonging and achievement than boys, and Latino subgroup and parent-education differences emerged in the sixth grade](latino-gender-subgroup-covariate-differences.md) — related
 - [Indigenous youth and low-achieving, low-SES youth are at elevated NEET risk; school-average SES is protective](neet-risk-predictors-indigenous-achievement-school-ses.md) — related
 - [School belonging at age 15 predicts lower likelihood of NEET status at ages 16-20 controlling for demographics, achievement, and school context](school-belonging-predicts-neet-status.md) — related
+- [Relative sense of belonging does not always align with individual belonging, including a gender-specific pattern among high-belonging girls](relative-belonging-misaligns-with-individual-belonging.md) — related

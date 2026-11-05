@@ -62,3 +62,4 @@ Covariate effects on random intercepts in the RI-CLPMs (N = 3,425). The article 
 - [Female students had higher math course grades than male students, with no interactions between gender, math anxiety, and intervention group](female-students-higher-grades-no-gender-moderation.md) — reports the opposite
 - [Physics concept understanding is independent of gender when prior understanding is a covariate](physics-concept-understanding-independent-of-gender.md) — related
 - [Female EFL students report more positive and fewer negative achievement emotions than males, and age and home resources show distinct associations](gender-age-home-resources-emotion-associations.md) — related
+- [Qualitative interviews revealed gender-specific change pathways: males shifted from luck-based attributions and improved behavioral regulation, while females overcame ability-related doubt and strengthened emotional regulation](gender-specific-qualitative-change-pathways.md) — related

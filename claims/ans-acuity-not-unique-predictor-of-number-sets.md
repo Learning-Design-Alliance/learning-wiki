@@ -9,7 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2016
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 sources:
   - id: moore-2016
     resource: "https://doi.org/10.1016/j.jecp.2016.05.003"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2016 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Although ANS acuity correlated with later number sets performance (r = .32 at beginning, r = .39 at end of preschool), it did not emerge as a predictor in the Bayes or regression models. [→ Moore 2016](#moore-2016)

@@ -58,6 +58,7 @@ The article implements a blended instructional model in which foundational conte
 - [Virtual Flipped Classroom](virtual_flipped_classroom.md)
 - [Integrate GAI-based teaching into medical curricula with robust curricular integration, technological support, and systematic training for educators and students](gai-curricular-integration-training-strategy.md)
 - [Position immersive technologies and virtual patients as supplementary components within blended learning rather than stand-alone replacements for established clinical communication training](immersive-tech-adjunctive-blended-not-replacement.md)
+- [Menu of active-learning strategies deployed in case sessions, matched to curricular timing and objective level](active-learning-strategies-menu-pharmacology-cases.md)
 
 ## Examples
 -

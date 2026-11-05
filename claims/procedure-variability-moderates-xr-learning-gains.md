@@ -48,3 +48,4 @@ Review synthesis comparing longitudinal UP gains across procedure types: ventric
 - [A second training session two days later further increases reasoning accuracy beyond the first session, though less strongly](second-training-session-further-boosts-accuracy.md) — related
 - [Repeated training substantially reduces the proportion of biased responders and increases improved and correct responders at the individual level](individual-level-improved-responders-after-repeated-training.md) — related
 - [The active group improved faster during training, reaching a capacity plateau after six days, while the sham group rose more slowly](tdcs-accelerates-early-training-gains-plateau.md) — related
+- [No significant performance improvement was detected at the midterm assessment after two training sessions, suggesting a threshold of repeated exposure precedes measurable gains](no-midterm-gain-exposure-threshold.md) — related

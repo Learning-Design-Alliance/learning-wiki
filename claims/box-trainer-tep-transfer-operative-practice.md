@@ -52,3 +52,4 @@ Study of an elaborate box trainer for TEP repair tested on 21 surgical residents
 - [The SAW model shows construct validity and good correlation (0.87) between simulated and operating-room laparoscopic ventral/incisional hernia repair performance](saw-model-construct-validity-and-or-correlation.md) — related
 - [Simulation-based training improves laparoscopic performance time in the operating room](simulation-training-improves-performance-time.md) — a broader claim this one bears on
 - [Simulation-based training translates laparoscopic surgical skills to the operating room](simulation-training-translates-laparoscopic-skills-to-or.md) — a broader claim this one bears on
+- [Box trainer training produced pronounced improvements across all performance domains, particularly in precision and error reduction](box-trainer-error-reduction-gains.md) — related

@@ -62,3 +62,4 @@ Inverse-variance random-effects meta-analysis of five RCTs and one quasi-experim
 - [High-fidelity simulation outperforms traditional training in skill performance (SMD 1.63) and knowledge (SMD 0.69) immediately after training](hf-vs-traditional-skill-knowledge-benefit.md) — related
 - [Simulation-based training shows no significant benefit over non-simulation based training for knowledge acquisition in airway management](sbt-no-knowledge-benefit-airway.md) — related
 - [Simulation-based nursing education shows a medium-to-large pooled effect on learning outcomes (SMD = 0.70)](simulation-nursing-education-pooled-effect-070.md) — a broader claim this one bears on
+- [High-fidelity simulation did not outperform medium-fidelity simulation on clinical skills for pressure-injury management (p = 0.853; d = 0.076)](high-fidelity-no-skills-advantage-pressure-injury.md) — related

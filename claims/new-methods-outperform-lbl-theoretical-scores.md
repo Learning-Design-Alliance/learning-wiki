@@ -84,3 +84,4 @@ In the theoretical-score NMA (72 studies, 4874 trainees), eight interventions ea
 - [Integrated PBL and medical humanities teaching produced no significant between-group difference in post-intervention theoretical examination scores compared with LBL](integrated-pbl-humanities-no-difference-theoretical-scores.md) — reports the opposite
 - [AI-assisted PBL-CBL combined teaching increases teaching satisfaction among medical interns compared with lecture-based teaching](ai-pbl-cbl-increases-teaching-satisfaction.md) — related
 - [BOPPPS-CBL instruction is associated with significantly higher adjusted post-test knowledge scores than lecture-based learning in undergraduate HAI education](boppps-cbl-higher-adjusted-posttest-hai-knowledge.md) — related
+- [The hybrid CBL-SST-simulator model shows no significant difference from lecture-based learning in theoretical knowledge scores](hybrid-cbl-sst-no-difference-theoretical-knowledge.md) — related

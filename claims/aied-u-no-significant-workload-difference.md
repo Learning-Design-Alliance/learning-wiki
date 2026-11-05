@@ -59,3 +59,4 @@ Teachers' perceived workload was measured with the raw NASA-TLX (0–10 per subs
 - [Effort is higher with the app while frustration is higher without it, with no overall workload difference](app-effort-higher-frustration-higher-without.md) — related
 - [App-guided ALS support shows no clear improvement in overall perceived workload compared with standard practice](app-guided-als-no-overall-workload-difference.md) — related
 - [No significant difference in cognitive workload between novices and experienced participants across NASA-TLX domains](no-nasa-tlx-difference-novice-experienced.md) — related
+- [Global cognitive load (NASA TLX) change did not differ between training groups](nasa-tlx-global-change-no-group-difference.md) — related

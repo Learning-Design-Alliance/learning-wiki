@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 103 claims (69 show a difference, 22 mixed, 12 no difference) · 64 studies (26 causal, 18 associational, 12 review, 5 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 16 of 64 report an effect size · 102 claims rest on one study
+> **Evidence** · 106 claims (70 show a difference, 23 mixed, 13 no difference) · 66 studies (27 causal, 19 associational, 12 review, 5 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 17 of 66 report an effect size · 105 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -139,6 +139,9 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [Baseline visuospatial ability independently predicted final camera navigation and hand–eye coordination performance](../claims/baseline-visuospatial-ability-predicts-laparoscopic-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Students using the 3D model reported higher confidence, greater ability to visualize spatial relationships, and greater enjoyment than textbook-image students](../claims/3d-model-higher-confidence-visualization-enjoyment.md) [+M] — measured as an outcome of the instruction studied
 - [No significant associations between baseline anatomical knowledge or visuospatial ability and ultrasound performance](../claims/no-baseline-predictors-ultrasound-performance.md) [-M] — learners who differ on it differ in outcomes
+- [Spatial visualizers (SPAT) outperformed object visualizers and verbalizers across all laparoscopic training modalities and performance domains](../claims/spatial-learners-outperform-other-cognitive-styles.md) [+M] — learners who differ on it differ in outcomes
+- [Specific IC correlates moderately to strongly with prior 3D application experience (r=0.57, P=.007) and self-rated technical competence (r=0.46, P=.04), but shows no relevant association with spatial ability](../claims/specific-ic-3d-experience-not-spatial-ability.md) [-M] — learners who differ on it differ in outcomes
+- [Verbal learners improved significantly only in the VR training group, suggesting VR's structured feedback benefits learners with non-spatial cognitive profiles](../claims/verbal-learners-improve-only-in-vr-group.md) [~M] — an instructional effect differs with it
 
 ## Related Learner Variables
 

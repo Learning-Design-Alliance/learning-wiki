@@ -58,3 +58,4 @@ T-test comparing pre-test scores by gender across the whole sample (males n = 12
 - [Post-achievement differed significantly by gender in favor of males](post-achievement-gender-difference-favoring-males.md) — related
 - [Access and public school students showed no significant difference in English scores before treatment](access-public-schools-no-pretest-difference.md) — related
 - [Male students scored significantly higher than female students in spatial and intrapersonal intelligence](gender-differences-spatial-intrapersonal.md) — related
+- [Male and female students were statistically equivalent on English performance and psychological variables at pre-test](pretest-gender-equivalence-baseline.md) — reports the opposite

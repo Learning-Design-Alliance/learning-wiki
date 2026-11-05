@@ -60,3 +60,5 @@ Prospective single-center pre-post educational intervention with 113 fifth-year 
 - [Peer-assisted simulation workshops significantly improve immediate workshop-specific knowledge test scores in undergraduate medical students](peer-simulation-workshops-immediate-knowledge-gain.md) — related
 - [Self-reported confidence progressively increased across the four training steps, from median 2 after the video to median 4 after final evaluation](sbml-probing-confidence-progression.md) — related
 - [Training-related factors positively influenced confidence and performance](training-factors-boost-confidence-and-performance.md) — a broader claim this one bears on
+- [Pharmacy students' knowledge scores rose significantly from mean 6.86 to 8.44 after a peer-led workshop, in one uncontrolled pre-post study (r = 0.74)](peer-led-workshop-improved-medication-disposal-knowledge.md) — related
+- [Perceived importance of practical workshops increased after participation, with the proportion giving a maximum score rising from 34.28% to 61.42%](perceived-workshop-importance-increased.md) — related

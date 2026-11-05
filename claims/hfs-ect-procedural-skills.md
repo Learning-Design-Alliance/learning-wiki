@@ -82,3 +82,4 @@ Block-RCT with 35 psychiatry residents assigned to SIM-ECT (n = 18) or tradition
 - [High-fidelity simulation and procedural simulation workshops yield similar cannulation times for VA-ECMO training](high-fidelity-vs-procedural-simulation-ecmo-cannulation-time.md) — related
 - [Detailed medical inquiry knowledge is low in both groups with no significant difference, despite high basic inquiry retention in the active learning group](detailed-inquiry-low-both-groups-no-difference.md) — related
 - [Teachers report significantly higher satisfaction with the MOOC-HFS blended model across all questionnaire items](mooc-hfs-higher-teacher-satisfaction.md) — reports the opposite
+- [No significant Group × Time interaction in theoretical knowledge: knowledge gains occurred similarly in high- and medium-fidelity groups](no-group-time-interaction-knowledge-fidelity.md) — related

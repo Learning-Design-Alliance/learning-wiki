@@ -52,3 +52,4 @@ Pairwise McNemar tests with Bonferroni correction compared the four main models 
 - [The consistency gap increases with case complexity, though the 4-question subgroup contained only 7 cases](case-complexity-increases-consistency-gap.md) — related
 - [Newer Anthropic and DeepSeek models approach GPT‐4o–o1 accuracy on biomedical MCQs, while Google Gemini and Microsoft Copilot trail the leading companies](llm-company-comparison-biomedical-mcq-accuracy.md) — related
 - [GPT-4o and GPT-5.2 achieve higher accuracy and more fully correct answers on university IVDA multiple-choice questions than the smaller Mistral-7B and DeepSeek-R1 models](gpt-models-outperform-smaller-llms-on-ivda-mcqs.md) — related
+- [Complex Type C integrative questions distinguish models most: the Deepseek-R1 vs. ChatGPT-4o accuracy gap on Type C was nearly 25%](type-c-questions-distinguish-models.md) — related

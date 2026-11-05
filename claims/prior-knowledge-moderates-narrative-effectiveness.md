@@ -71,3 +71,4 @@ The two-way ANOVA's learning material × educational background interaction reac
 - [Narrative instruction produces higher transfer performance than expository instruction in undergraduate biology learning](narrative-instruction-higher-transfer-biology.md) — related
 - [Background knowledge has a greater impact on comprehension of expository texts than narrative texts for primary children](knowledge-impact-greater-expository-narrative.md) — related
 - [Subjects with a more developed schema for a body of knowledge show higher recall for materials related to that knowledge](developed-schema-higher-recall.md) — related
+- [Emotional engagement tentatively moderates the testing effect, with higher emotional engagement associated with greater gains from testing](emotional-engagement-moderates-testing-effect.md) — related

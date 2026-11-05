@@ -10,7 +10,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-26
+source_checked: 2026-11-05
 sources:
   - id: marlene-bönstrup-2020
     resource: "https://doi.org/10.1038/s41539-020-0066-9"
@@ -34,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2026 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 

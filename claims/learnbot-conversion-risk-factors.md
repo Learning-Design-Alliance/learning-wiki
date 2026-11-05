@@ -48,3 +48,4 @@ Multivariable regression analysis of risk factors for conversion among the 486 R
 ## Related Claims
 - [Lymphadenectomy was associated with a statistically significant increase in console time (estimated difference 18.0 min, 95% CI 6.3–29.6)](lymphadenectomy-increases-console-time.md) — related
 - [After completing the LEARNBOT training program, 40 previously RPD-inexperienced surgeons across 20 European centers performed 486 RPDs with outcomes comparable to established benchmarks](learnbot-feasibility-outcomes-486-rpd.md) — a broader claim this one bears on
+- [Conversion rates decline across the RPD learning curve while emergency conversions remain absent, and higher BMI is associated with conversion](conversion-declines-across-rpd-curve-bmi-risk.md) — related

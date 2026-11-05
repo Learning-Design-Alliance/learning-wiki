@@ -28,7 +28,7 @@ sources:
 # Competency-Based Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 56 claims (17 for, 37 mixed, 2 against) · 56 studies (12 causal, 11 review, 11 design, 9 associational, 9 theoretical, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 3 of 56 report an effect size · 51 claims rest on one study
+> **Evidence** · 58 claims (19 for, 37 mixed, 2 against) · 58 studies (13 design, 12 causal, 11 review, 9 associational, 9 theoretical, 2 quant-synthesis, 2 qualitative), `q1`–`q4` · 3 of 58 report an effect size · 53 claims rest on one study
 
 ## Conditional relationship
 
@@ -120,6 +120,8 @@ Re-read 2026-10-15: eleven of the claims listed here were worked into the model 
 - [Higher OSATS scores on video-assessed robotic gastroenterostomy predict a lower rate of grade B/C delayed gastric emptying after robotic pancreatoduodenectomy](../claims/osats-rge-score-predicts-grade-bc-dge.md) [+W] — attached 2026-11-04 from Video Assessment of Surgical Performance in Robotic Gastroenterostomy During Pancreatoduod, which proposed "OSATS video assessment can serve as a tool for competency-based training programs and quality-controlled implementation of robotic pancreatoduodenectomy".
 - [Expert-derived time- and score-based training benchmarks discriminate between novice learners and expert surgeons on all six FRS VR tasks](../claims/frs-vr-benchmarks-discriminate-novice-expert.md) [+W] — attached 2026-11-04 from Deravi Noosha D. et al. (2026), which proposed "Set VR surgical training benchmarks at or below expert trimmed mean time and at or above expert median score".
 - [Sustained primary competence (κ ≥ 0.8) was achieved by 37.5–62.5% of trainees for basic parameters within 99 examinations, with pathologic segment identification, BWT, and qualitative vascularization each reaching 62.5%](../claims/primary-competence-achievement-rates-basic-parameters.md) [+W] — attached 2026-11-04 from Learning curve in intestinal ultrasound: advancing from basic skills to advanced competenc, which proposed "IUS training should be competency-based rather than time-based, using parameter-specific learning thresholds rather than a single minimum examination count".
+- [Expert-derived benchmarks for 5 FAST arthroscopic skills modules are established as time-and-error thresholds from aggregated two-hand faculty performance](../claims/fast-five-module-proficiency-benchmarks.md) [+W] — attached 2026-11-05 from Davis Eric et al. (2026), which proposed "Use proficiency-based progression with objective expert-derived benchmarks so trainees advance on demonstrated skill rather than time or procedure counts".
+- [Experienced surgeons significantly outperformed novices on nine of 32 individual simulator metrics, while novices outperformed surgeons on one metric (distance from screw to fracture lines), which was excluded as construct-irrelevant](../claims/individual-metric-contrasts-nine-favor-surgeons-one-reverse.md) [+W] — attached 2026-11-05 from Jacobsen Mads Emil et al. (2026), which proposed "Develop surgical simulators around explicit, evidence-based assessment tools defined by expert consensus".
 
 ## Objective and learner-valued goal
 

@@ -72,3 +72,4 @@ Within the domain × measure subgroup analyses, openness correlations with langu
 - [Neuroticism correlates negatively with achievement overall, most strongly with STEM test scores](neuroticism-negative-achievement-association.md) — related
 - [For agreeableness, the language–STEM difference in achievement correlations is significant only for test scores, yielding a significant domain × measure interaction](agreeableness-domain-measure-interaction.md) — related
 - [Teaching type interacts with personality factors on academic achievement for all Big Five traits except neuroticism](teaching-type-personality-interaction-big-five.md) — related
+- [All five Big Five personality traits significantly predict academic achievement among medical master's students](big-five-traits-predict-achievement-medical-postgraduates.md) — related

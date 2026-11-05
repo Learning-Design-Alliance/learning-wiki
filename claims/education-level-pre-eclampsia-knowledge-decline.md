@@ -49,3 +49,4 @@ One-way ANOVA comparing knowledge decline by education level (certificate n = 76
 - [Knowledge declines differed by residence: urban providers declined more in pre-eclampsia but rural providers declined more in helping babies breathe](residence-differences-knowledge-decline-pre-eclampsia-hbb.md) — related
 - [Knowledge scores declined significantly across all four assessed HMS/HBS domains after training](hms-hbs-knowledge-decline-all-four-domains.md) — related
 - [Educational qualification shows no significant association with wound-care knowledge or practice levels](qualification-no-association-wound-knowledge.md) — related
+- [Higher formal education was not associated with better nutritional knowledge; Bachelor's degree holders scored significantly worse than university‐diploma holders](education-not-linked-to-nutrition-knowledge.md) — related

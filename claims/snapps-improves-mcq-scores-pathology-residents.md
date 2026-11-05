@@ -50,3 +50,4 @@ Pre/post comparison within a single-centre study of 35 pathology residents using
 - [Residents' probing-question scores rose from 3 to 4 from before to after SNAPPS, in one uncontrolled pre-post study](snapps-probe-increases-resident-questions.md) — related
 - [SNAPPS checklist scores improved for all six components, with self-directed learning lowest (median 1 to 2)](snapps-checklist-scores-improved-all-components.md) — related
 - [Over 90% of residents responded positively to most feedback items, but about 57% were neutral or negative on time required](snapps-feedback-positive-except-time-burden.md) — related
+- [SNAPPS training outperforms traditional case presentation on clinical reasoning outcomes in medical residency randomized controlled trials](snapps-outperforms-traditional-presentation-rcts.md) — related

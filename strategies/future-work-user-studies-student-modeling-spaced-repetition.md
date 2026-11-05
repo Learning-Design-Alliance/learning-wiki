@@ -51,6 +51,8 @@ The authors recommend a forward-looking agenda for the platform: conduct real-wo
 - [Planned extensions: expanded user studies, expert-in-the-loop RLHF, hybrid retrieval, and hand-tracking-based assessment](hdr-platform-future-work-strategies.md)
 - [Open design directions for adaptive authoring: crowdsourced standards, individual differences, modular customization, path visualization, and instructor real-time control](adaptive-authoring-open-research-directions.md)
 - [Incorporate real-time personalization in immersive learning environments for future deployments](real-time-personalization-immersive-learning.md)
+- [Differentiate e-module design by achievement level: add spaced repetition and adaptive quizzes for low achievers and advanced case-based challenges for high achievers](differentiated-e-module-design-by-achievement-level.md)
+- [Incorporate artificial intelligence and platform-based course recommendations into future blended teaching](future-ai-integration-blended-medical-teaching.md)
 
 ## Examples
 -

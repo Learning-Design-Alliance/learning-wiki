@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2024
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 sources:
   - id: li-shuze-2024
     resource: "https://doi.org/10.1186/s12909-024-05917-x"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i3` large
-> **Currency** · newest study 2024 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Across 13 studies with 2030 students, blended BOPPPS teaching was related to higher total scores than LBL (SMD = 1.193, 95% CI 0.813–1.572). [→ Li Shuze 2024](#li-shuze-2024)
@@ -68,3 +68,4 @@ Meta-analysis of 13 randomized controlled trials with 2030 students pooling tota
 - [The ARCS + BOPPPS blended learning model achieves higher attainment rates for knowledge, skills, and professionalism objectives and greater overall teaching satisfaction](arcs-boppps-blended-model-higher-objective-attainment-and-satisfaction.md) — a narrower finding that bears on this claim
 - [The ARCS + BOPPPS blended learning model significantly improves practical skills, innovative ability, and overall comprehensive competency but not theoretical knowledge](arcs-boppps-blended-model-improves-competencies-not-theoretical-knowledge.md) — a narrower finding that bears on this claim
 - [The modified BOPPPS model showed no significant post-course difference in basic theoretical knowledge (P = 0.263) but a statistically significant greater score improvement (P = 0.049)](modified-boppps-theoretical-knowledge-null-postcourse-gain.md) — related
+- [PBL-FC teaching produces significantly higher total self-directed learning ability scores than traditional lecture-based teaching in ophthalmology undergraduates](pbl-fc-higher-total-self-directed-learning.md) — related

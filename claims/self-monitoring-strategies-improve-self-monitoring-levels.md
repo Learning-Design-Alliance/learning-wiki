@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-05
 sources:
   - id: arslantas-2017
     resource: "https://doi.org/10.21890/ijres.327905"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Both experimental groups (strategies used during class and strategies used at the end of class) differed significantly from the control group on the self-monitoring scale post-test (F=14.67, p=0.00). Post-test means were 1.04 and 1.39 against 7.36 for the control group; the article says scores were "converted based on the ideal value" of 9.5 without saying how, and describes the experimental groups as "close to the ideal value (9,5)". Read literally as raw means, the experimental groups are farther from 9.5 than the control, so the printed numbers do not show the direction; the test compares post-test scores between groups, not movement toward the ideal. [→ Arslantas 2017](#arslantas-2017)

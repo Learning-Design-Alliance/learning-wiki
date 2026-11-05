@@ -47,6 +47,7 @@ After each simulation case, a faculty facilitator leads a structured debrief bas
 - [Simulation Based Medical Training](simulation-based-medical-training.md)
 - [Reference the most recent AHA and NCS guidelines and update simulation cases and frameworks to reflect clinical updates](update-simulation-cases-current-guidelines.md)
 - [Use a structured debriefing session after simulation scenarios to consolidate learning points.](structured-debriefing-after-simulation.md)
+- [Structured post-scenario debriefing after each simulation scenario](post-scenario-debriefing-triage-simulation.md)
 
 ## Examples
 -

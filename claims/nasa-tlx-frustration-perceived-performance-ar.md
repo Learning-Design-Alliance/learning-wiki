@@ -73,3 +73,5 @@ NASA TLX final score results (Figure 9): the average workload score achieved by 
 - [AR-assisted training reduces subjective workload (NASA-TLX) in novice learners](ar-training-reduces-subjective-workload.md) — reports the opposite
 - [App-guided ALS support shows no clear improvement in overall perceived workload compared with standard practice](app-guided-als-no-overall-workload-difference.md) — related
 - [No significant difference in cognitive workload between novices and experienced participants across NASA-TLX domains](no-nasa-tlx-difference-novice-experienced.md) — related
+- [Global cognitive load (NASA TLX) change did not differ between training groups](nasa-tlx-global-change-no-group-difference.md) — related
+- [Perceived performance subscale of the NASA-TLX changed differently between groups: simulator trainees reported reduced performance-related workload, game trainees did not](nasa-tlx-performance-subscale-group-difference.md) — related

@@ -58,6 +58,7 @@ The review recommends hybrid simulation approaches that combine different low-co
 - [Use simulations, dedicated clinical time, and interprofessional education to teach family caregiver collaboration](family-caregiver-simulation-clinical-iep-strategies.md)
 - [Improve mannequin design and increase practice opportunities to enhance SBL in oral radiology](improve-mannequin-design-and-practice-opportunities.md)
 - [Simulation-based training curriculum for high-risk, low-frequency prehospital emergencies](simulation-training-high-risk-low-frequency-events.md)
+- [Share standardized patient costs across specialties to run interprofessional simulation cost-effectively](shared-standardized-patient-costs-interprofessional-simulation.md)
 
 ## Examples
 -

@@ -44,7 +44,8 @@ The review's forward-looking implementation and research agenda. It argues that 
 - [Telesimulation and remote-facilitated paediatric simulation achieved outcomes comparable to in-person training](../claims/telesimulation-comparable-in-person-outcomes.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Prioritise simulation and gamification over flipped classroom models, and implement low-cost physical games before investing in expensive simulation equipment](prioritise-simulation-gamification-low-cost-first.md)
 
 ## Examples
 -

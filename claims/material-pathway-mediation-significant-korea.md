@@ -69,3 +69,4 @@ Bootstrap test of the specific indirect effect through parent–child communicat
 - [Both private educational expenditure and parent–child communication positively predicted later perceived academic performance](investments-predict-academic-performance-korea.md) — related
 - [Family stress and family investment models explain mediating processes of SES influence](ses-family-stress-investment-mediation.md) — a broader claim this one bears on
 - [The difference in magnitude between the material and relational indirect pathways did not reach statistical significance](pathway-difference-nonsignificant-korea.md) — related
+- [Background characteristics influence admission and life-course outcomes predominantly through indirect educational-pathway mediation, but play a limited mediating role for academic performance](background-effects-mediated-through-educational-pathways.md) — related

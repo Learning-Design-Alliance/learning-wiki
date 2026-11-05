@@ -9,7 +9,6 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-11-02
 sources:
   - id: papaioannou-2014
     resource: "https://eric.ed.gov/?id=EJ1033944"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
-> **Currency** · newest study 2014 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Campers who attended the DCP improved their general attitudes from pre to post (M 15.30 to 17.88) while the control group's did not change (M 14.41 to 14.30); the group × time interaction was significant (partial η² = .146). Groups were not randomly assigned. [→ Papaioannou 2014](#papaioannou-2014)

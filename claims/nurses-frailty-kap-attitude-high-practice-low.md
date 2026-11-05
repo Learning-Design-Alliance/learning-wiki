@@ -50,3 +50,4 @@ Descriptive statistics from a multicenter cross-sectional online survey of 610 v
 - [Geriatric nurse specialist certification is independently associated with higher frailty knowledge but not with overall KAP, attitude, or practice](geriatric-certification-knowledge-only.md) — related
 - [More recent frailty education is independently associated with higher total KAP scores among nurses](frailty-education-recency-associated-kap.md) — related
 - [Most nurses are willing to attend frailty training and prefer blended online-offline formats, short sessions, and practice-oriented content](nurses-frailty-training-preferences.md) — related
+- [Nurses' EBP competence is attitude-dominant while knowledge and skills lag, and CDM is weakest in adopting new information impartially](attitude-dominant-ebp-knowledge-skill-gaps.md) — related

@@ -50,3 +50,4 @@ Moderator analysis of burnout dimension in the multilevel meta-analysis; burnout
 - [Reduced efficacy shows the largest negative correlation with academic achievement (rc+ = −.39)](reduced-efficacy-largest-negative-achievement.md) — related
 - [The burnout–dropout intentions association is moderated by level of study, being higher for postgraduate students](level-of-study-moderates-burnout-dropout.md) — related
 - [Student burnout is positively associated with dropout intentions, with a pooled meta-analytic correlation of r+ = .46](burnout-dropout-intentions-pooled-r46.md) — related
+- [Third-year dental students reported exhaustion and inadequacy above the SBI-9 scale average with cynicism below average](dental-students-burnout-exhaustion-high-cynicism-low.md) — related

@@ -65,3 +65,4 @@ Model-stratified subgroup analysis within the meta-analysis of 39 studies. Copil
 - [GPT-4 significantly outperforms ChatGPT-3.5 in accuracy on national health licensing examinations](gpt4-outperforms-chatgpt35-licensing-exams.md) — related
 - [Accuracy, confidence, and overconfidence do not differ significantly between basic knowledge and clinical questions](no-question-type-differences-llm-endodontic-performance.md) — related
 - [ChatGPT-4o achieved 71% accuracy on the Chinese question bank, comparable to dental undergraduates and OMS graduate students but lower than OMS specialists](chatgpt-4o-71-percent-chinese-question-bank-accuracy.md) — related
+- [Language of presentation (Chinese vs. English) has no significant main effect on LLM accuracy on Chinese medical licensing exam questions](no-language-effect-llm-medical-licensing.md) — related

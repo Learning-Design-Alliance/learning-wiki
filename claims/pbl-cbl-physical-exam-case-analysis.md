@@ -78,3 +78,4 @@ Meta-analysis of 4 studies (248 students) on case analysis scores. The pooled es
 - [Case-based learning prevented the increase in surface approach to learning observed across the semester in the non-CBL group](cbl-prevents-surface-approach-increase-biochemistry.md) — related
 - [IWCL+CBL and LBL+CBL produce no significant overall difference in specialty physical examination proficiency in an otolaryngology clerkship](iwcl-cbl-no-difference-physical-exam-proficiency.md) — related
 - [Case review-based learning improves orthodontic examination scores compared with lecture-based learning](cbl-improves-orthodontic-exam-scores.md) — related
+- [Four technical skills—section-loss prevention, control false-negative prevention, adequate proteinase digestion, and avoiding non-specific staining—best discriminate PBL from LBL practical performance](roc-key-differentiating-ebers-ish-skills.md) — related

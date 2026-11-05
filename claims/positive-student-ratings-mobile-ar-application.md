@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-05
 sources:
   - id: arezoo-shirazi-and-amir-h-behzadan-2015
     resource: "https://eric.ed.gov/?id=EJ1076141"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2015 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 92% of test-group students said the AR application was very helpful or somewhat useful in their learning and only 4% felt distracted by it. [→ Arezoo Shirazi and Amir H. Behzadan 2015](#arezoo-shirazi-and-amir-h-behzadan-2015)
@@ -71,3 +72,4 @@ Post-experiment assessment in session 2: "a solid majority of 86%" viewed positi
 - [Most middle and high school students surveyed after classroom retrieval practice programs viewed them positively and said frequent retrieval practice helped them feel less nervous about exams](students-report-classroom-retrieval-practice-helps-learning-and-reduces-exam-nervousness.md) — related
 - [The classroom teacher judged the application successful and positive, recommending its extension to all lessons](mesnevi-values-education-teacher-views-positive.md) — related
 - [Most learners report that visual input helps them understand speakers](visual-input-helps-comprehension-perceptions.md) — related
+- [Students received the new PBL oral-health content positively, with most judging PBL a suitable format](students-received-pbl-oral-content-positively.md) — related

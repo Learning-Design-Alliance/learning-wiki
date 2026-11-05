@@ -51,6 +51,7 @@ The review concludes there is "an obvious need to integrate structured wound car
 - [Integrate culinary medicine into compulsory German medical curricula with prevention and interprofessional learning contexts](integrate-cm-into-german-medical-curricula.md)
 - [Incorporate clinical training in long-term care facilities, home visits, and interprofessional education into geriatric dental curricula](ltc-home-visits-interprofessional-training-strategy.md)
 - [Incorporate more clinical exposure and preclinical simulations to improve dental students' TDI management knowledge and confidence.](more-clinical-exposure-preclinical-simulations-tadi.md)
+- [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
 
 ## Examples
 -

@@ -50,6 +50,7 @@ The authors recommend that EdTech product developers use their leaderboards as "
 - [Match LLM deployment role in language education to the model's assessed proficiency level](match-llm-role-to-assessed-proficiency.md)
 - [Use domain-specific fine-tuning of open-source diffusion models to build trustworthy generative AI tools for specialized technical domains](domain-specific-fine-tuning-for-trustworthy-generative-ai.md)
 - [Prioritize teacher-centered AI implementations that enhance rather than replace human expertise](teacher-centered-ai-implementation-priority.md)
+- [Map identified procedural-training gaps to targeted simulation design features, including timed scenarios, embedded consent tasks, ethical scenarios, modular practice, feedback loops, and milestone-based benchmarks](simulation-design-features-mapped-to-cvc-training-gaps.md)
 
 ## Examples
 -

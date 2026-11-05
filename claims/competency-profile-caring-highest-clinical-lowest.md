@@ -52,3 +52,4 @@ Descriptive analysis of CINS sub-dimension scores among 249 newly graduated nurs
 - [Higher professional competency is independently associated with higher caring perception among newly graduated nurses](competency-independently-associated-caring-perception-new-graduates.md) — related
 - [Three latent profiles of holistic humanistic caring perception (low, moderate, high) were identified among newly graduated nurses](three-latent-profiles-holistic-humanistic-caring-perception-newly-graduated-nurses.md) — related
 - [Helping role is the highest self-assessed competence domain among newly graduated nurses over the transition period](helping-role-highest-competence-domain.md) — related
+- [New nurses' emergency response competence is at a moderate level, lower than previously reported for nurses overall](moderate-emergency-response-competence-new-nurses.md) — related

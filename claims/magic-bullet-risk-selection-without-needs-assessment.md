@@ -9,7 +9,7 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 newest_evidence: 2017
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 sources:
   - id: hale-2017
     resource: "http://www.wested.org/resources/evidence-based-improvement-essa-guide-for-states"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Selecting a program with positive average outcomes without needs assessment, local outcome analysis, and careful implementation can perpetuate a magic-bullet concept of improvement. [→ Hale 2017](#hale-2017)

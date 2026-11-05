@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/novices-rate-fix4life-more-favorably-than-experts.md
+---
+
+# Revision history: [claims/novices-rate-fix4life-more-favorably-than-experts](../claims/novices-rate-fix4life-more-favorably-than-experts.md)
+
+### 2026-11-05 · ingest · process:wiki-ingest
+Ingested from pmc-13053444 (Assessing the realism and face validity of Fix For Life: an embalmed human cadaver model for high-fidelity laparoscopic training.) via eval_harness.py + ingest_extractions.py

@@ -51,3 +51,4 @@ Thematic synthesis of included articles under the conversation-resources theme: 
 - [Confidence is required for serious illness conversations, with discomfort arising especially around discussing prognosis](sic-confidence-discomfort-prognosis.md) — related
 - [Effective use of the Serious Illness Conversation Guide is itself a competence requiring balance between structure and flexibility](sicg-use-structure-flexibility-competence.md) — related
 - [Demonstrating compassion in serious illness conversations is more challenging via telehealth because the whole person cannot be seen](sic-compassion-telehealth-challenge.md) — related
+- [Communication skills training improves clinician communication behaviors and confidence in goals-of-care conversations, with effects varying by skill and measure](gopc-training-improves-clinician-communication.md) — related

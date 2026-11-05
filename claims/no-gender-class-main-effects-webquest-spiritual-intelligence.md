@@ -51,3 +51,4 @@ ANCOVA on 134 4th graders' posttest scores: Gender F = 0.052, Sig = 0.820; Class
 - [No significant differences between high school and university students in spiritual intelligence, emotional intelligence, or achievement means](no-school-university-differences-si-ei-achievement.md) — related
 - [Pooled mean scores: achievement 15.91, spiritual intelligence 138.27, emotional intelligence 128.94](pooled-mean-scores-si-ei-achievement.md) — related
 - [Psilocybin occasioned experiences evaluated as having substantial and sustained personal meaning and spiritual significance](psilocybin-occasioned-mystical-experiences-hopkins.md) — related
+- [Gender, personality structure, and technology readiness showed no difference on the primary outcome, and no modifying gender-by-group effect](no-gender-personality-techreadiness-moderators-pocus-training.md) — related

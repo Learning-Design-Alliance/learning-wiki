@@ -9,6 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: moderate
 newest_evidence: 1979
+source_checked: 2026-11-05
 sources:
   - id: eylon-1979
     resource: "https://eric.ed.gov/?id=ED171804"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`–`q3`
-> **Currency** · newest study 1979 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1979 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 <!-- title before 2026-11-05 (the report gives separate within-ability Scheffe contrasts, states no interaction result from its two-way treatment-by-ability ANOVA, and calls its reading "possible"): Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did -->
 

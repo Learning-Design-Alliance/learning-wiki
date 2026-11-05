@@ -78,3 +78,4 @@ Randomised study of 169 second-year medical students comparing 3D VR and 2D lect
 - [Students using the 3D model reported higher confidence, greater ability to visualize spatial relationships, and greater enjoyment than textbook-image students](3d-model-higher-confidence-visualization-enjoyment.md) — related
 - [Prior meta-analytic evidence indicates 3D visualization technology yields superior anatomical knowledge and satisfaction compared to 2D materials](3dvt-meta-analysis-superior-knowledge-satisfaction.md) — related
 - [Improvement in overall scores did not differ significantly between digital and conventional training groups](no-group-session-interaction-overall-scores.md) — related
+- [Most participants in both groups rated their randomized training tool as helpful and enjoyable, and three quarters wanted more digitalization in medical education](positive-subjective-ratings-both-training-tools.md) — related

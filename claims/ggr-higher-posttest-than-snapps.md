@@ -49,3 +49,4 @@ Between-group comparison using independent t-tests in the quasi-experimental stu
 - [GGR outperforms SNAPPS on complex cases (chronic liver disease, chronic dyspnoea, chronic diarrhoea) but not on the simpler anaemia case](ggr-advantage-complex-cases-only.md) — a narrower finding that bears on this claim
 - [Both GGR and SNAPPS significantly improve overall clinical reasoning scores in final-year MBBS students (p<0.001)](ggr-snapps-both-improve-clinical-reasoning.md) — related
 - [Baseline EMQ scores did not differ between GGR and SNAPPS groups, ensuring equivalent starting clinical reasoning skills](ggr-snapps-equivalent-baseline.md) — related
+- [Research comparing the models demonstrates that SNAPPS performed better for clinical reasoning scores while OMP had a higher user satisfaction rating](snapps-better-clinical-reasoning-omp-higher-satisfaction.md) — related

@@ -68,6 +68,7 @@ The review enumerates crucial considerations for maximizing CBL's potential: "en
 - [Constructing a multi-dimensional evaluation system aligned with three-dimensional teaching objectives](multi-dimensional-evaluation-system-three-dimensional-objectives.md)
 - [Mitigate CBL-MDT implementation challenges through fixed protected scheduling, pre-course orientation, quarterly case review, and OSCE-based assessment.](cbl-mdt-implementation-challenges-mitigation-strategies.md)
 - [Structure integrated CBL-MDT interventions as five curated cases with pre-class self-directed learning, small-group analysis, simulated MDT discussion, and structured feedback.](cbl-mdt-five-case-structured-intervention-blueprint.md)
+- [Menu of active-learning strategies deployed in case sessions, matched to curricular timing and objective level](active-learning-strategies-menu-pharmacology-cases.md)
 
 ## Examples
 -

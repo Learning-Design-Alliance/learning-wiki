@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 91 claims (59 for, 30 mixed, 2 against) · 64 studies (29 causal, 14 quant-synthesis, 8 associational, 7 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 15 of 64 report an effect size · 89 claims rest on one study
+> **Evidence** · 92 claims (60 for, 30 mixed, 2 against) · 65 studies (30 causal, 14 quant-synthesis, 8 associational, 7 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 15 of 65 report an effect size · 90 claims rest on one study
 
 ## Description and scope
 
@@ -118,6 +118,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Blended teaching produces higher academic achievement than traditional teaching in a psychological diseases course](../claims/blended-teaching-higher-academic-achievement-medical-students.md) [+W] — attached 2026-11-03 from Mosalanejad et al. (2010), which proposed "Use blended learning with standard designing strategies for teaching medical sciences"; tests this page's relationship.
 - [More than 90% of VM-experienced students advocated combining traditional and virtual microscopy in histology laboratory sessions](../claims/students-prefer-hybrid-lm-vm.md) [+W] — attached 2026-11-04 from Koney Nii Koney‐Kwaku et al. (2026), which proposed "Adopt a strategic blended approach integrating traditional light microscopy and virtual microscopy, supported by institutional commitments".
 - [Blended learning interns reported significantly higher satisfaction than traditional-group interns across all five evaluated dimensions](../claims/blended-radiology-assistant-higher-satisfaction-all-dimensions.md) [+W] — attached 2026-11-05 from Zhang Tonghua et al. (2026), which proposed "Radiology Assistant–based blended learning model for clinical internships"; tests this page's relationship.
+- [Most undergraduate dental students preferred blended teaching, and a majority reported it reduced their study load](../claims/students-prefer-blended-teaching-orthodontics.md) [+W] — attached 2026-11-05 from Arponen Heidi (2026), which proposed "Use blended teaching for theoretical dental coursework to maintain outcomes while easing student study load and supporting well-being".
 
 ## Illustrative design instance and observation record
 

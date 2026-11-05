@@ -60,3 +60,4 @@ Cross-sectional survey of 2,432 Norwegian adolescents (1258 girls, 1187 boys) ag
 - [School breakfast programs show suggestive positive effects on academic performance, with clearest effects on mathematics and arithmetic grades in undernourished children](sbp-positive-academic-performance-undernourished.md) — related
 - [Breakfast skipping is associated with poor academic performance among Ethiopian students (pooled effect size 3.47)](breakfast-skipping-poor-academic-performance-ethiopia.md) — related
 - [The integrated program was associated with improved breakfast habits, school engagement, and academic grades](breakfast-morning-sport-improves-breakfast-habits-engagement-grades.md) — a narrower finding that bears on this claim
+- [Eating breakfast is associated with about four times better academic performance among Ethiopian first-cycle primary school students](breakfast-consumption-associated-academic-performance-ethiopia.md) — related

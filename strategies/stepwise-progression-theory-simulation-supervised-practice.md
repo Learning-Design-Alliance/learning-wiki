@@ -53,6 +53,7 @@ The article recommends a structured, stepwise progression integrating theoretica
 - [Structured stepwise endodontic curriculum: preclinical training, clinical observation, then supervised clinical practice](stepwise-endodontic-curriculum-preclinical-observation-practice.md)
 - [Integrate dedicated surgical care practitioners into robotic programmes to free trainees from the bedside assistant role and facilitate their transition to the console](scp-bedside-assistant-integration-robotic-training.md)
 - [Promote learner responsibility and supervised independence to optimise the concrete experience](learner-responsibility-bedside-concrete-experience.md)
+- [Adopt a measurable competency framework with OSATS-based assessment, supervised cases, re-certification and audit before implementation](neurosave-competency-framework-strategy.md)
 
 ## Examples
 -

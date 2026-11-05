@@ -58,3 +58,4 @@ The review tallies feedback-quality comparisons separately from grading comparis
 - [Students identified lack of sensitivity to linguistic nuance as a limitation of AWA feedback](awa-lacks-sensitivity-linguistic-nuance.md) — related
 - [Human experts provide more nuanced and mixed feedback than ChatGPT-4o and Perplexity in mixed reality simulation mentoring](human-experts-more-nuanced-feedback-than-llm-mrs.md) — related
 - [Students perceived the automated personalized feedback as too general and lacking personal response](automated-feedback-perceived-too-general.md) — a narrower finding that bears on this claim
+- [On descriptive analytical tasks ChatGPT produced logically structured work but lacked deep contextualization, domain-specific insights, and visual elements](chatgpt-descriptive-tasks-generic-outputs.md) — a narrower finding that bears on this claim

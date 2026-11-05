@@ -56,3 +56,4 @@ Benchmark evaluation of four LLMs on 189 CNMLE clinical cases (473 questions), e
 - [GPT-4 achieves a pooled MCQ accuracy of 81% on medical licensing examinations, significantly surpassing GPT-3.5's 58%](gpt4-81-percent-pooled-accuracy-surpasses-gpt35.md) — related
 - [Scaling Qwen2.5 from 3B to 32B parameters improved both metrics and reduced the consistency gap by approximately 50%](model-scaling-reduces-consistency-gap.md) — related
 - [Observed case pass rates closely align with expected case pass rates computed under question independence](observed-cpr-matches-expected-independence-benchmark.md) — related
+- [The authors argue complex integrative medical questions are particularly useful for evaluating and comparing the reasoning abilities of different LLMs](complex-questions-evaluate-llm-reasoning.md) — related

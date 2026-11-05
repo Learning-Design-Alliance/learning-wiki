@@ -56,3 +56,4 @@ Primary outcome domain D in the within-participants comparison of 20 students; W
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — related
 - [Virtual lab simulations improved blood typing knowledge and motivation but faced technical and language barriers](virtual-labs-improve-blood-typing-knowledge-motivation.md) — related
 - [VR-based acupuncture training was associated with higher theoretical knowledge posttest scores than conventional instruction](vr-acupuncture-higher-theoretical-knowledge.md) — related
+- [The VR group rated class evaluation, simulation design evaluation, and practice immersion significantly higher than the e-book control group](vr-group-higher-secondary-outcomes-dka-simulation.md) — related

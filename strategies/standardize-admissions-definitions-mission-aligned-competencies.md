@@ -45,6 +45,7 @@ The review recommends that future research establish a standard definition for b
 - [Align conceptualization, definition, measurement, and context when researching student engagement](align-se-conceptualization-measurement-context.md)
 - [Attach a minimal terminology statement (term, operational definition, hypothesized pathway) to each study](minimal-terminology-statement-per-study.md)
 - [Clarify assessment purpose, define skill expectations with rubrics and progressions, and calibrate on student work](clarify-purpose-norm-expectations-calibrate-pog.md)
+- [Standardize EA wording and align activities with competency-based curricula through stakeholder consultation](standardize-ea-wording-cbme-alignment.md)
 
 ## Examples
 -

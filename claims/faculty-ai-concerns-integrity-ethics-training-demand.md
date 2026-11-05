@@ -9,7 +9,6 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-15
 recheck_by: 2031
 sources:
   - id: john-chick-2026
@@ -26,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Pre-institute, plagiarism and cheating concerns dominated (80%), and participants most often requested training in ethics and academic integrity (70%) over self-paced formats (20%). [→ John Chick 2026](#john-chick-2026)

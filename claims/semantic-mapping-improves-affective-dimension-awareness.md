@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2012
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: nilforoushan-2012
     resource: "https://doi.org/10.5539/elt.v5n10p164"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2012 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` MANOVA showed a significant multivariate effect of teaching through semantic mapping on awareness of the evaluation and potency dimensions. [→ Nilforoushan 2012](#nilforoushan-2012)

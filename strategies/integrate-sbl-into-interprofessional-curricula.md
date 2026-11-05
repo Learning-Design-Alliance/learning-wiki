@@ -51,6 +51,7 @@ The authors recommend integrating simulation into interprofessional curricula, c
 - [Integrate high-quality, high-fidelity simulation-based learning into endocrinology curricula alongside traditional methods](integrate-high-quality-sbl-endocrinology-curricula.md)
 - [Integrate ECE into dental curricula through hybrid models balancing simulation and real patient contact](hybrid-ece-curriculum-integration-strategy.md)
 - [Incorporate VR-based simulation training into spine surgery residency curricula as an adjunct to traditional methods](incorporate-vr-training-into-residency-curricula-strategy.md)
+- [Share standardized patient costs across specialties to run interprofessional simulation cost-effectively](shared-standardized-patient-costs-interprofessional-simulation.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Item discrimination analysis of 195 paired SBA items in the randomised parallel-
 - [No significant difference in item discrimination index or point biserial correlation between ChatGPT 3.5 and human-generated MCQs](chatgpt-35-human-item-discrimination-no-difference.md) — related
 - [Polychotomously scored IF-AT physics exam items show excellent discrimination, with a mean item-total correlation of r′ = 0.41 ± 0.13 across 45 items](if-at-integrated-testlet-items-excellent-discrimination.md) — related
 - [Including patient ethnicity in SBA questions does not significantly affect medical student performance](ethnicity-inclusion-no-performance-effect.md) — related
+- [Pharmacology assessment items written under the integrated flipped case-based curriculum showed significantly higher item difficulty than legacy items while maintaining item discrimination](integrated-curriculum-higher-item-difficulty.md) — related

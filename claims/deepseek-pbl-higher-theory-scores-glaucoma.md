@@ -50,3 +50,4 @@ Randomized pilot study of 74 fourth-year medical students (37 per group) at a si
 - [Students in the PBL-DeepSeek group report high satisfaction and would continue using the approach, but a minority worry about AI accuracy](deepseek-pbl-satisfaction-and-accuracy-concerns.md) — related
 - [Integrated PBL and medical humanities teaching produced no significant between-group difference in post-intervention theoretical examination scores compared with LBL](integrated-pbl-humanities-no-difference-theoretical-scores.md) — reports the opposite
 - [TBL students achieve significantly higher post-test final scores than LBL students in medical education](tbl-higher-post-test-scores-than-lbl.md) — a broader claim this one bears on
+- [PBL-FC students achieve higher ophthalmology theoretical examination scores than traditionally taught students](pbl-fc-higher-exam-scores.md) — related

@@ -48,6 +48,7 @@ The article recommends that hospitals "Formalize clinical peer‐mentorship prog
 - [Treat post-course mentoring and institutional supports as a core implementation requirement when running innovation courses for novice nurses](post-course-mentoring-core-implementation-requirement.md)
 - [Establish institutional supports — standardized MDT protocols, guidelines access, and regular wound care training — to translate knowledge into practice](institutional-mdt-protocols-and-training-strategy.md)
 - [Leverage the NICU stay as a teachable moment for structured vaccine counseling by nurses and midwives](nicu-teachable-moment-vaccine-counseling.md)
+- [Combined organizational-support, mentorship, simulation-based confidence-building, and workload-management interventions for new emergency and critical care nurses](four-part-support-intervention-new-critical-care-nurses.md)
 
 ## Examples
 -

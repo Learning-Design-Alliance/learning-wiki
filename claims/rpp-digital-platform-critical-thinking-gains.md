@@ -58,3 +58,4 @@ Between-group comparison of CCTDI total scores in the same 72-student quasi-expe
 - [No significant differences in critical thinking dispositions were found among PBL, B-PBL, and traditional lecture groups at pretest or posttest](no-significant-ct-disposition-differences-among-groups.md) — related
 - [PBL and traditional teaching do not differ significantly in their effect on pre-service teachers’ critical thinking dispositions](pbl-no-difference-critical-thinking-disposition.md) — related
 - [Dimension-specific skill effects: RPP favored material preparation, operational skills, humanistic care, and critical thinking, but not patient assessment or general evaluation](rpp-dimension-specific-skill-effects.md) — related
+- [Within the PBL-FC group all self-directed learning dimensions improve from pre- to post-class, while the traditional group shows no significant within-group change](pbl-fc-within-group-sdl-gains.md) — related

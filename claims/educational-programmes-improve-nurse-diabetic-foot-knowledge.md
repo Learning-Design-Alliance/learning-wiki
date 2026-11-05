@@ -54,3 +54,4 @@ Systematic review narrative synthesis of nine quasi-experimental studies; knowle
 - [Certainty of evidence for narrative medicine education effects is rated very low under GRADE](narrative-medicine-evidence-very-low-certainty.md) — related
 - [Many nurses in SSA have adequate knowledge of diabetes self-management support and care in some studies](ssa-nurses-adequate-diabetes-care-knowledge.md) — related
 - [Only two studies evaluated learning outcomes, with small improvements and very low to moderate certainty](nts-training-icu-learning-outcomes-limited.md) — related
+- [Simulation-based learning consistently improves knowledge, skills, and self-efficacy in diabetes education, especially with structured debriefing and progressive case complexity](simulation-consistent-gains-diabetes-education.md) — related

@@ -48,3 +48,4 @@ Quasi-experimental pretest-posttest study of 50 German MTA trainees completing a
 ## Related Claims
 - [Learning gains from the radiology simulation did not differ significantly between radiology-specialized and laboratory-specialized trainees](simulation-learning-gains-equivalent-across-specializations.md) — related
 - [Perceived utility value does not significantly moderate learning gains from the radiology simulation](utility-value-does-not-moderate-learning-gains.md) — related
+- [Both high- and medium-fidelity simulation groups showed a significant pretest-to-posttest increase in theoretical knowledge about pressure injuries](simulation-pre-post-knowledge-gain-both-fidelity-groups.md) — related

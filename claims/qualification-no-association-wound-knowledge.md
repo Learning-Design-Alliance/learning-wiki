@@ -50,3 +50,5 @@ Bivariate chi-square analysis among 178 respondents; the article reports "X 2 = 
 - [B.S.-degree nurses show significantly higher odds of palliative care knowledge than diploma nurses (AOR = 3.01)](bs-degree-nurses-higher-palliative-knowledge-odds-aor-3-01.md) — related
 - [Nurses begin with low baseline knowledge of diabetic foot care, and educational qualifications may moderate post-training knowledge gains](low-baseline-nurse-knowledge-moderated-by-qualification.md) — related
 - [Pre-eclampsia knowledge decline differed significantly by professional education level, with certificate holders declining more than diploma and degree holders](education-level-pre-eclampsia-knowledge-decline.md) — related
+- [Higher formal education was not associated with better nutritional knowledge; Bachelor's degree holders scored significantly worse than university‐diploma holders](education-not-linked-to-nutrition-knowledge.md) — reports the opposite
+- [Nurses' pressure injury knowledge scores were not significantly associated with gender, education level, role, experience, certification or age](pi-knowledge-demographics-null-associations.md) — related

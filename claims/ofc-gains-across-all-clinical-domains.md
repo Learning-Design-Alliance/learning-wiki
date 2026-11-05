@@ -50,3 +50,4 @@ Domain-level paired comparisons in the same 45-student pre–post study, reporte
 - [GP residents showed statistically significant pre-post improvements in history-taking (Cohen's d = 1.11) and clinical reasoning (Cohen's d = 1.32) after a 12-week VP training program](vp-training-improves-history-taking-clinical-reasoning.md) — related
 - [The Clinical Reasoning Index rose from 3.25 to 3.79, with all clinical scenarios surpassing the professional proficiency threshold of 3.0](cri-rose-above-proficiency-threshold.md) — related
 - [AI-powered simulated patient practice with automated rubric-based feedback: medical students' headache history-taking OSCE scores rose from pre-test to post-test in a single-group pre-post study](aisp-cortex-improves-headache-osce-scores.md) — related
+- [AI feedback improved the generic medical history OSCE domain (r=0.27) while other domains showed no significant differences](ai-feedback-generic-medical-history-domain-only.md) — related

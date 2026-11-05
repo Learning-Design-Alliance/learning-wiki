@@ -13,7 +13,7 @@ generated:
 # Quizzes
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (11 for, 7 mixed) · 25 studies (11 causal, 7 quant-synthesis, 4 review, 2 associational, 1 design), `q2`–`q4` · 10 of 25 report an effect size · 14 claims rest on one study
+> **Evidence** · 19 claims (12 for, 7 mixed) · 26 studies (12 causal, 7 quant-synthesis, 4 review, 2 associational, 1 design), `q2`–`q4` · 11 of 26 report an effect size · 15 claims rest on one study
 
 ## Description
 Quizzes are short, low-stakes assessments used during learning rather than at its end. Their primary function is not measurement but learning: answering questions forces retrieval from memory, and the feedback that follows corrects and consolidates what was retrieved.
@@ -67,6 +67,7 @@ Quizzes are one of the most robustly supported instructional elements: testing i
 - [Pre-class tests motivated 80.5% of neuroanatomy students to prepare more thoroughly for class](../claims/pre-class-tests-motivate-neuroanatomy-preparation.md) [+M] — attached 2026-11-04 from Ekpenyong et al. (2026), which proposed "Google Forms-based pre-class testing model as a low-cost formative assessment tool".
 - [Elaborated autograded quizzes with clinical contexts and constructive alignment (step II) increased medical students' pharmacotherapeutic knowledge](../claims/step-ii-quizzes-increase-pharmacotherapeutic-knowledge.md) [+W] — attached 2026-11-05 from Wallerstedt SM et al. (2026), which proposed "Autograded pharmacotherapeutic digital quizzes for practice and summative assessment"; tests this page's relationship.
 - [Greater practice-quiz use correlated with better knowledge-test scores, while more summative test attempts correlated with worse scores](../claims/practice-quiz-use-correlates-with-knowledge.md) [+M] — attached 2026-11-05 from Wallerstedt SM et al. (2026), which proposed "Autograded pharmacotherapeutic digital quizzes for practice and summative assessment"; tests this page's relationship.
+- [Regular low-stakes post-lecture testing produces higher final exam scores on tested than on non-tested material in undergraduate endodontics](../claims/testing-effect-endodontics-final-exam.md) [+W] — attached 2026-11-05 from Kalyva et al. (2026), which proposed "Post-lecture low-stakes multiple-choice testing with automated corrective feedback on Blackboard Learn"; tests this page's relationship.
 
 ## The evidence by question
 
@@ -101,6 +102,7 @@ Quizzes are one of the most robustly supported instructional elements: testing i
 - [Implement weekly low-stakes spaced recall quizzes cycling fundamental concepts monthly, with a plan to address student frustration](../strategies/weekly-spaced-recall-quiz-strategy-fundamental-concepts.md)
 - [Apply retrieval practice (quizzes, peer teaching, flipped classroom) and monitor detail loss to balance gist and episodic memory](../strategies/retrieval-practice-balance-gist-detail-strategy.md)
 - [Use weekly formative quizzes during EFL listening instruction to support achievement and reduce anxiety](../strategies/weekly-formative-quizzes-efl-listening-instruction.md)
+- [Differentiate e-module design by achievement level: add spaced repetition and adaptive quizzes for low achievers and advanced case-based challenges for high achievers](../strategies/differentiated-e-module-design-by-achievement-level.md)
 
 ## Key Sources
 - Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)

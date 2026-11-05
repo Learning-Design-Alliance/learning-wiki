@@ -51,3 +51,6 @@ The review reports, from an included study attributed to reference [75], that SN
 - [Supporting evidence is unevenly distributed across the eight clinical teaching models, with OMP and SNAPPS the most extensively studied](omp-snapps-most-studied.md) — related
 - [Residents' probing-question scores rose from 3 to 4 from before to after SNAPPS, in one uncontrolled pre-post study](snapps-probe-increases-resident-questions.md) — related
 - [Both GGR and SNAPPS significantly improve overall clinical reasoning scores in final-year MBBS students (p<0.001)](ggr-snapps-both-improve-clinical-reasoning.md) — related
+- [OMP preceptor training improves preceptors' teaching behaviors, self-confidence, and willingness to precept](omp-training-improves-preceptor-confidence-willingness.md) — related
+- [Research comparing the models demonstrates that SNAPPS performed better for clinical reasoning scores while OMP had a higher user satisfaction rating](snapps-better-clinical-reasoning-omp-higher-satisfaction.md) — a narrower finding that bears on this claim
+- [SNAPPS training outperforms traditional case presentation on clinical reasoning outcomes in medical residency randomized controlled trials](snapps-outperforms-traditional-presentation-rcts.md) — a narrower finding that bears on this claim

@@ -50,6 +50,7 @@ The review recommends moving beyond descriptive KAP surveys toward more robust a
 - [Future simulation research should use rigorous designs, standardized tools, and transparent reporting](strategy-rigorous-simulation-research-design.md)
 - [Develop comprehensive, standardized e-learning programs for nurses in hospitals and clinics, with standardized content and assessment tools](standardized-elearning-programs-pressure-injury-nurse-training.md)
 - [Use large-scale surveys to evaluate ethical components of professional development in assessment](large-scale-surveys-ethical-pdp-evaluation.md)
+- [Prioritise practice-based, active learning over passive exposure to pressure injury material](practice-based-active-learning-pi-education.md)
 
 ## Examples
 -

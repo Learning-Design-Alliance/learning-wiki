@@ -58,6 +58,8 @@ Based on the pooled findings, the review recommends that training programs adopt
 - [Consider VR as an adjunct to dissection and evaluate cost-effectiveness and adverse reactions when adopting VR for anatomy teaching](vr-anatomy-adjunct-adoption-strategy.md)
 - [Use self-directed simulator practice as an adjunct to early colonoscopy training, with future curricula adding targeted instructor feedback](self-directed-simulator-adjunct-colonoscopy-training.md)
 - [Integrate simulation-based learning into interprofessional curricula to cultivate collaboration early in training](integrate-sbl-into-interprofessional-curricula.md)
+- [Integrate the validated iVR simulator into early orthopedic training as a platform for deliberate practice with individualized feedback, pending longitudinal confirmation](ivr-deliberate-practice-platform-early-orthopedic-training.md)
+- [Use virtual simulation as a structured, repeatable, risk-free complement to traditional bracket placement training in early skill development](virtual-simulation-complement-early-skill-training.md)
 
 ## Examples
 -

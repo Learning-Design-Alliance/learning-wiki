@@ -83,3 +83,4 @@ Independent-samples t-test comparing male (n = 388) and female (n = 722) student
 - [No statistically significant associations between overall VHV competency classification and any demographic or occupational variable examined](vhv-competency-not-differentiated-by-demographics.md) — related
 - [Gender, degree type, and personality show differential associations with course outcome dimensions](demographic-differences-course-dimensions.md) — reports the opposite
 - [Student perceptions of the GPT companion do not differ significantly by gender, academic background, or GPA](no-perception-differences-gender-stream-gpa-gpt-companion.md) — related
+- [No statistically significant post-test gender differences emerged on any psychological variable, with only small tendencies favoring females on some measures](no-posttest-gender-differences-psychological-variables.md) — related

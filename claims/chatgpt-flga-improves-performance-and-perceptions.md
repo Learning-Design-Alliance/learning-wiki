@@ -9,6 +9,7 @@ generated:
   at: 2026-10-15
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-05
 sources:
   - id: li-2023
     resource: "https://doi.org/10.14742/ajet.8923"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium · n=81
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Students in the experimental class learning with ChatGPT-FLGA scored higher on project performance (partial η² = .09) and rated their self-efficacy, learning attitudes, intrinsic motivation and creative thinking higher (partial η² = .05–.09) than the control class. [→ Li 2023](#li-2023)

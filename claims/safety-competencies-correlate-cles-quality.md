@@ -53,3 +53,4 @@ Spearman correlation analysis in the same cross-sectional study. The article rep
 - [Nursing students report higher perceived patient safety competencies in clinical settings than in academic settings, with small effect sizes](nursing-students-higher-safety-competencies-clinical-than-academic.md) — related
 - [Unfinished nursing care is weakly negatively correlated with perceived patient safety competencies](unfinished-care-negative-correlation-safety-competencies.md) — related
 - [Full-time students, students with better-staffed placements, and students with well-functioning assigned supervision report higher perceived competencies](placement-conditions-associated-safety-competencies.md) — related
+- [A perceived supportive work environment is positively associated with higher-quality care](supportive-environment-associated-with-quality.md) — related

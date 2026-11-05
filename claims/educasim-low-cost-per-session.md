@@ -51,3 +51,4 @@ Cost accounting from the deployment's methodology section: the platform uses GPT
 - [A deployment-hardening rehearsal with 50 distinct learner accounts recorded 50 completed sessions, 50 successful board pulls and 50 denials of student analytics access, with a median API session time of 3.064 s](hardening-rehearsal-50-sessions-and-access-denials.md) — related
 - [Running the Socrates playground and grader incurred low cost, with even gpt-4o consuming only $169.90](socrates-low-operational-cost.md) — related
 - [Video review sessions impose substantial time costs, with review sessions lasting roughly 30–90 minutes, and monetary costs are rarely reported](video-review-time-cost-sessions.md) — related
+- [Running the AI role-play cost $USD 13.17 for a 20-minute activity with just over 20 students, corresponding to 408 API requests](ai-roleplay-token-cost-feasibility.md) — related

@@ -54,3 +54,4 @@ Review synthesis attributing this pattern to cited source studies (refs 22–26,
 - [Students were more engaged in SDL when it was an assessed activity with anticipated outcomes and relevance to their future profession](assessment-relevance-engage-sdl.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Teachers are more likely to integrate technology into their teaching when they perceive professional development activities to be aligned with school content and relevant to their teaching.](escuela2-teacher-training-alignment-integration.md) — a narrower finding that bears on this claim
+- [Lack of training and instructor motivation were the most commonly reported barriers to using e-learning resources](training-motivation-barriers-e-resources.md) — related

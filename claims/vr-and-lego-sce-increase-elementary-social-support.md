@@ -9,7 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2023
-source_checked: 2026-10-29
+source_checked: 2026-11-05
 sources:
   - id: xining-wang-2023
     resource: "https://doi.org/10.1016/j.compedu.2023.104815"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2023 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` YSSQ total and all three subscales (subjective sense of social support, objective social support, utilization of social resources) increased significantly from pre- to post-test after Bonferroni correction, with no time-by-group interaction. [→ Xining Wang 2023](#xining-wang-2023)

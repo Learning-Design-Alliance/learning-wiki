@@ -51,3 +51,4 @@ Pairwise meta-analysis found "no significant difference in the average item disc
 - [Exploratory analysis found item difficulty differed across sources, driven by the Google Gemini versus NLE contrast](item-difficulty-differs-across-sources-gemini-nle.md) — related
 - [A post-search study found no significant difference in item difficulty between AI- and human-generated MCQs, but higher discriminatory power for human questions](laupichler-difficulty-equal-discrimination-human-higher.md) — related
 - [Including ethnicity does not significantly change item discrimination](ethnicity-inclusion-no-discrimination-effect.md) — related
+- [Pharmacology assessment items written under the integrated flipped case-based curriculum showed significantly higher item difficulty than legacy items while maintaining item discrimination](integrated-curriculum-higher-item-difficulty.md) — related

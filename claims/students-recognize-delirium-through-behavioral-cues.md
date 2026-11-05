@@ -47,3 +47,4 @@ Thematic analysis of semi-structured interviews with 13 fourth-year nursing stud
 ## Related Claims
 - [First encounters with delirium produce intense fear, professional inadequacy, and empathy-based emotional burden in nursing students](delirium-first-encounter-emotional-burden.md) — related
 - [Nursing students develop adaptive communication strategies for delirium through trial and error rather than structured preparation](communication-strategies-trial-and-error.md) — related
+- [Stakeholders expect DHNs to hold basic mental health knowledge and recognize early warning signs of deterioration, while crisis intervention remains with qualified clinicians](dhn-mental-health-knowledge-crisis-boundaries.md) — related

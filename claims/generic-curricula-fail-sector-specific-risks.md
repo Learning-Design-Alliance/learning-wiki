@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 sources:
   - id: caner-vedat-2026
     resource: "https://doi.org/10.3389/fpubh.2026.1767451"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Sectoral comparisons demonstrate that generic safety curricula fail to address specific lethal risks, such as falls in construction or transport-related injuries in healthcare. [→ Caner Vedat 2026](#caner-vedat-2026)

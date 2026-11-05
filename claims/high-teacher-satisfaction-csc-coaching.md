@@ -53,3 +53,4 @@ Descriptive TCES results (α = .91 in this study) from the 32 teachers; item mea
 - [Teachers and parents reported high satisfaction with First Step, and coach-teacher alliance was high, supporting social acceptability](first-step-satisfaction-alliance-asd-subsample.md) — related
 - [Subjects reported high satisfaction with the computer-based mapping training](high-satisfaction-concept-map-training.md) — related
 - [Students rated the 2-day mCLEIMS course very highly, with global satisfaction of 4.93 on a 5-point scale and item scores from 4.79 to 4.96](mcleims-high-satisfaction-ratings.md) — related
+- [Moderation, atmosphere and student involvement were the most highly rated aspects of the interprofessional module](ipe-module-moderation-atmosphere-involvement-rated-high.md) — related

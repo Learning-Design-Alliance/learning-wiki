@@ -44,6 +44,7 @@ Based on feedback that students increasingly use tools such as ChatGPT during pr
 - [Use MAPS-based reflection questions to prepare students to critique AI-generated physics solutions](maps-reflection-questions-prepare-ai-solution-critique.md)
 - [Five design principles for responsible implementation of AI-generated course readings](responsible-ai-reading-generation-design-principles.md)
 - [Structure opportunities for students to evaluate AI outputs using locally grounded criteria of relevance, harm, and usefulness](evaluate-ai-outputs-locally-grounded-criteria.md)
+- [Use AI as a tool for critique and refinement rather than a substitute for student work](ai-as-critique-and-refinement-tool.md)
 
 ## Examples
 -

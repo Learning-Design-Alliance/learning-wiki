@@ -55,3 +55,4 @@ The review's narrative synthesis of role play studies with medical and nursing s
 - [CHW trainees value realistic standardized patient scenarios as a key benefit of simulation-based MI training](chws-value-realistic-sp-scenarios-in-mi-simulation-training.md) — related
 - [Feedback facilitators such as faculty coaches can increase trainee receptivity to patient feedback](feedback-facilitators-increase-receptivity.md) — related
 - [Small-group, communication-focused SP simulations increase pre-licensure nursing students' comfort and confidence in therapeutic communication](sp-simulation-increases-therapeutic-communication-comfort.md) — related
+- [Simulation-based role-play was associated with larger self-reported gains in empathy, understanding emotional responses, and responding to emotional cues than lecture-based training](simulation-larger-emotional-communication-gains.md) — a narrower finding that bears on this claim

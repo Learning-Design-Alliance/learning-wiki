@@ -53,3 +53,4 @@ Theme from rapid qualitative analysis of three virtual focus groups with 19 Hisp
 - [Hispanic adults in LCS focus groups reported limited awareness and understanding of lung cancer screening, including eligibility, benefits, and harms](hispanic-adults-limited-lcs-awareness-focus-groups.md) — related
 - Teachers framed communication and digital literacy as foundational skills requiring clear, contextually relevant definitions — related
 - [Students value NANDA-I diagnoses for professional communication but report challenges in understanding, cultural adaptation, and anticipated workload](students-value-nanda-but-report-comprehension-challenges.md) — related
+- [Stakeholders expect DHNs to communicate professionally and sensitively, explain content in lay-friendly ways, and adapt communication to individual patients](dhn-communicative-competencies-expectations.md) — related

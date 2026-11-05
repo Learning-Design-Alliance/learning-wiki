@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2016
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: feola-2016
     resource: "https://doi.org/10.13189/ujer.2016.040929"
@@ -41,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2016 · checked against its sources 2026-11-02 (automated, 3 of 3 entries) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Comparing beginning and end of the trial, the resources component rose (86%) in the one-group pre-post study, especially in identifying key concepts, their definition and linking. [→ Feola 2016](#feola-2016)

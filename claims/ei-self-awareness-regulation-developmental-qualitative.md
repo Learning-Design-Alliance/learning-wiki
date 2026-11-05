@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: alhur-anas-ali-alshaya-abdulsalam-abdulrahman-alshaya-nada-abdulrahman-alhur-arwa-ali-adem-jibril-bashir-2026
     resource: "https://doi.org/10.1186/s12909-026-10005-3"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students described emotional awareness and regulation as developing progressively through academic challenges, reflection, and experience rather than as fixed traits. [→ Alhur Anas Ali; Alshaya Abdulsalam Abdulrahman; Alshaya Nada Abdulrahman; Alhur Arwa Ali; Adem Jibril Bashir 2026](#alhur-anas-ali-alshaya-abdulsalam-abdulrahman-alshaya-nada-abdulrahman-alhur-arwa-ali-adem-jibril-bashir-2026)

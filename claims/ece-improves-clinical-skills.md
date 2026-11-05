@@ -75,3 +75,4 @@ Quasi-experimental study synthesized narratively: ECE-group students had "signif
 - [Early preclinical exposure group outperformed late exposure group on theory, OSCE communication, and empathy measures](epce-higher-theory-osce-empathy-scores.md) — a narrower finding that bears on this claim
 - [Peer-assisted ECE produced higher post-test knowledge and OSPE scores than faculty-assisted ECE in one randomized trial](peer-assisted-ece-higher-post-test-ospe.md) — a narrower finding that bears on this claim
 - [The one pretest-post-test study (Li B et al.) found significant score improvement after ophthalmology teaching (p < 0.01)](pretest-posttest-significant-improvement-li-b.md) — a narrower finding that bears on this claim
+- [E-modules improved first-year medical students' psychomotor (OSCE manipulation) performance compared with lectures alone](e-modules-improve-psychomotor-osce-performance.md) — related

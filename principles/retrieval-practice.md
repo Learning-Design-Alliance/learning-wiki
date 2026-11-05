@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 152 claims (68 for, 74 mixed, 10 against) · 78 studies (38 causal, 16 review, 10 quant-synthesis, 6 theoretical, 5 associational, 3 qualitative), `q1`–`q4` · 22 of 78 report an effect size · 145 claims rest on one study
+> **Evidence** · 153 claims (69 for, 74 mixed, 10 against) · 79 studies (39 causal, 16 review, 10 quant-synthesis, 6 theoretical, 5 associational, 3 qualitative), `q1`–`q4` · 23 of 79 report an effect size · 146 claims rest on one study
 
 ## Conditional relationship
 
@@ -110,6 +110,7 @@ None at present. The sixteen restored claims were read on 2026-10-15; the eleven
 - [Post-testing yields significantly better retention than pre-testing when total retrieval-practice time is held comparable (position effect)](../claims/quiz-position-post-beats-pre-latimier.md) [+W] — attached 2026-10-26 from Latimier et al. (2019), which proposed "Spend retrieval-practice time testing students after, not before, initial exposure to learning content".
 - [Testing effect among low-WMC learners depends on stimulus WM demands: negative testing effect for low-frequency stimuli](../claims/wmc-stimulus-frequency-interaction-testing-effect.md) [~W] — attached 2026-10-26 from Zheng et al. (2024), which proposed "Balance learners' working memory capacity with task difficulty to unlock retrieval practice benefits"; tests this page's relationship.
 - [A course section that reviewed with Kahoot no-stakes quizzes differed significantly in high-stakes multiple-choice exam scores from a section that reviewed with a study guide and lecture, a difference the authors report as improvement without printing group means](../claims/kahoot-testing-effect-higher-exam-scores.md) [+W] — attached 2026-11-01 from Iwamoto et al. (2017), which proposed "Use no-stakes gamified retrieval-practice quizzes as exam preparation rather than lecture-based review alone"; tests this page's relationship.
+- [Regular low-stakes post-lecture testing produces higher final exam scores on tested than on non-tested material in undergraduate endodontics](../claims/testing-effect-endodontics-final-exam.md) [+W] — attached 2026-11-05 from Kalyva et al. (2026), which proposed "Integrate regular, low-stakes testing into endodontic and dental curricula to enhance learning outcomes"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

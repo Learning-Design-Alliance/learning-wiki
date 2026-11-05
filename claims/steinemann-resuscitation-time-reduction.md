@@ -54,3 +54,4 @@ The review attributes this Level 4 finding to Steinemann (2011), a before-and-af
 - [Only 20% of simulation-based trauma training studies targeted medical students during undergraduate training](scoping-review-trauma-simulation-undergraduate-gap.md) — related
 - [A relatively brief four-hour simulation-based curriculum improved clinical performance of multidisciplinary trauma teams, including a 16% reduction in mean overall ED resuscitation time](brief-simulation-curriculum-improves-trauma-team-performance.md) — possibly the same claim (merge candidate)
 - [Structured trauma resuscitation team training augmented by simulation improved teamwork domain ratings and reduced time to CT scanner, intubation, and operating room](simulation-augmented-team-training-improves-trauma-care-efficiency.md) — related
+- [Trauma-informed training before simulation does not increase time to scenario completion relative to control](tic-training-no-simulation-time-penalty.md) — related

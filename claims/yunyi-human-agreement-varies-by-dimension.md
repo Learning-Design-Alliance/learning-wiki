@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 sources:
   - id: chen-c-and-liu-t-2026
     title: Chen C and Liu T 2026
@@ -29,7 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q2` · `i2`–`i3`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 > **Design limits** · Chen C and Liu T 2026 (2): no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims

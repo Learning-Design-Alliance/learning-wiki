@@ -48,3 +48,4 @@ Second assessment grid: the four former waiting-control children received a shor
 - [A significant group x measurement point interaction confirms the training effect in the main evaluation (F(1,6) = 21.55, p < .01)](mzz-group-by-time-interaction-significant.md) — related
 - [The ANOVA showed no statistically significant main effect of group on EMBI performance (F(1,6) = 5.55, p > .05)](mzz-no-main-effect-of-group.md) — related
 - [The full MZZ training program significantly improves early mathematical precursor skills in school-entry children at risk, with a large advantage over waiting controls (d = 4.6)](mzz-training-improves-early-number-competencies-at-risk-children.md) — related
+- [No significant performance improvement was detected at the midterm assessment after two training sessions, suggesting a threshold of repeated exposure precedes measurable gains](no-midterm-gain-exposure-threshold.md) — related

@@ -69,3 +69,4 @@ Winter and spring interviews with purposively selected teachers and coaches prod
 - [Teacher confidence in teaching literacy and English learner students increased over the pilot year, especially with a local coach](wts-teacher-confidence-increased-over-year.md) — related
 - [Teacher leaders can play a valuable role in supporting the professional learning of their colleagues](teacher-leaders-support-colleague-professional-learning.md) — related
 - [Monthly coaching sessions helped teachers use and integrate MI Write with their instruction](monthly-coaching-helped-teachers-integrate-mi-write.md) — related
+- [Most participants in both groups rated their randomized training tool as helpful and enjoyable, and three quarters wanted more digitalization in medical education](positive-subjective-ratings-both-training-tools.md) — related

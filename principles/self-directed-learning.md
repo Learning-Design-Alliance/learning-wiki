@@ -18,7 +18,7 @@ sources:
 # Self-Directed Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 51 claims (16 for, 32 mixed, 3 against) · 52 studies (17 review, 11 causal, 9 theoretical, 8 quant-synthesis, 4 associational, 2 qualitative, 1 design), `q1`–`q4` · 7 of 52 report an effect size · 42 claims rest on one study
+> **Evidence** · 53 claims (18 for, 32 mixed, 3 against) · 53 studies (17 review, 12 causal, 9 theoretical, 8 quant-synthesis, 4 associational, 2 qualitative, 1 design), `q1`–`q4` · 7 of 53 report an effect size · 44 claims rest on one study
 
 ## Conditional relationship
 
@@ -120,6 +120,8 @@ Read against the model on 2026-10-15; the one claim below does not bear on a ste
 - [Tough's 1971 study found nearly all adults had undertaken a learning project in the past year, 68% self-planned and under 1% for credit, with women's categories logging fewer hours](../claims/tough-1971-learning-projects-prevalence-self-planned.md) [+W]: background only. A 1994 review's report of an interview study of 66 adults; it says most adult learning projects are self-planned, which is context for designing for adults, not evidence about how a hand-over should be run or whether it works.
 - [Evidence that PBL fosters SDL is mixed across studies](../claims/pbl-fosters-sdl-mixed-evidence.md) [~W] — attached 2026-10-19 from Loyens et al. (2008), which proposed "Provide conceptual clarity and guidance to teachers and students so PBL can produce self-directed learners".
 - [Self-directed learning yields higher mean exam scores than traditional didactic learning in undergraduate medical education](../claims/sdl-outperforms-tdl-exam-scores-medical-education.md) [+W] — attached 2026-10-31 from Aulakh Jasmine et al. (2025), which proposed "SDL should be incorporated into undergraduate medical curricula as an effective learning strategy"; tests this page's relationship.
+- [First-year medical students score higher on immediate post-session MCQs after a self-directed learning session than after a didactic lecture on the same clinical anatomy topics](../claims/sdl-posttest-scores-exceed-didactic-lecture-clinical-anatomy.md) [+W] — attached 2026-11-05 from Arora Samridhi et al. (2025), which proposed "Use self-directed learning rather than didactic lecture as the preferred teaching–learning method for clinical anatomy topics in first-year medical curricula"; tests this page's relationship.
+- [Knowledge retention measured 4 weeks after instruction is higher for topics learned through self-directed learning than for topics learned through didactic lecture](../claims/sdl-four-week-retention-exceeds-didactic-lecture.md) [+W] — attached 2026-11-05 from Arora Samridhi et al. (2025), which proposed "Use self-directed learning rather than didactic lecture as the preferred teaching–learning method for clinical anatomy topics in first-year medical curricula"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -176,6 +178,7 @@ Completion, achievement at the end of the course, self-reported autonomy or moti
 - [Promote autonomous motivation in low-education adult learners by helping them grasp the meaning of education and providing choice and volition](../strategies/promote-autonomous-motivation-low-education-adults.md)
 - [Support adult self-directed learning by enabling self-paced, self-styled access rather than only removing barriers to taught classes](../strategies/support-self-paced-access-over-barrier-removal.md)
 - [Embed self-directed learning in project-based learning carried out on Edmodo over 12 weeks with 5 hours per week.](../strategies/embed-sdl-in-pbl-on-edmodo.md)
+- [Have students generate specific learning objectives from resource material and compare them with facilitator-generated objectives during the SDL session](../strategies/student-generated-slos-compared-with-facilitator-objectives.md)
 
 ### Illustrative
 

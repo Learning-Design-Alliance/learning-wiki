@@ -67,3 +67,5 @@ Between-group comparison of score gains in the same RCT: "5.15 ± 2.88 in the AI
 - [AI-VSP teaching of history-taking skills achieves learning outcomes not significantly different from conventional SP in a randomized controlled trial](ai-vsp-non-inferior-to-sp-history-taking.md) — a broader claim this one bears on
 - [OSCE performance did not differ significantly between AI-VSP and SP groups](ai-vsp-sp-osce-scores-similar.md) — related
 - [Post hoc analysis suggests OSCE equivalence and non-inferiority of AI-VSP for other learning outcomes and satisfaction](ai-vsp-equivalence-non-inferiority-post-hoc.md) — related
+- [Students training with AI-VSPs complete more practice cycles than students training with traditional SPs](ai-vsp-more-training-cycles.md) — related
+- [SEGUE-based simulation training with either AI-VSPs or traditional SPs: medical students' communication scores rose significantly from pre-test to post-test in within-group comparisons](segue-simulation-training-improves-communication-scores.md) — related

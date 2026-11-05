@@ -48,3 +48,4 @@ Within-group pre-post comparison in the traditional instruction group (n = 60). 
 - [The control group instructed through the traditional method showed no statistically significant improvement in writing from pre-test to post-test](traditional-method-no-significant-writing-gain.md) — related
 - [Students' overall biology knowledge showed only a slight, statistically non-significant increase](biology-knowledge-non-significant-slight-increase.md) — related
 - [Control group showed only slight speaking gains from pre-test to post-test](control-group-slight-speaking-gain.md) — related
+- [Theoretical knowledge scores rose from pre-test to post-test in most domains in one uncontrolled pre-post study, while anatomical-considerations scores (Q4) fell from 55 correct before to 53 after the workshop](mcq-knowledge-improved-except-anatomy-domain.md) — related

@@ -49,3 +49,4 @@ Correlational analysis within the project's observational data found "the Spearm
 - [Teachers in a modeling-based discrete mathematics PD project significantly improved their discrete mathematics content knowledge, while matched comparison teachers did not](modeling-pd-improves-discrete-math-teacher-knowledge.md) — related
 - [Participating teachers' classroom practice became significantly more reformed and inquiry-based over the PD year, as measured by RTOP](modeling-pd-improves-reformed-practice-rtop.md) — related
 - [Conception orientation and TPACK level show a statistically significant positive association (Spearman's rho = 0.731; Cramer's V = 0.56)](conception-tpack-strong-association.md) — related
+- [Interpretation and diagnosis scores were not correlated, suggesting the two domains are partly independent](interpretation-diagnosis-uncorrelated.md) — related

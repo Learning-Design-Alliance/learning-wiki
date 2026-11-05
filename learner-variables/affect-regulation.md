@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 277 claims (199 show a difference, 51 mixed, 27 no difference) · 180 studies (57 associational, 51 causal, 32 review, 14 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 39 of 180 report an effect size · 269 claims rest on one study
+> **Evidence** · 278 claims (200 show a difference, 51 mixed, 27 no difference) · 181 studies (57 associational, 52 causal, 32 review, 14 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 39 of 181 report an effect size · 270 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -317,6 +317,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Students describe acquiring evidence-based stress management skills whose adoption was grounded in psychoeducation about stress physiology and the autonomic nervous system](../claims/stress-skills-psychoeducation-grounding.md) [+M] — measured as an outcome of the instruction studied
 - [Trait anxiety, GAD symptoms, social anxiety and anxiety sensitivity do not predict any school grades after controlling for other predictors](../claims/four-anxiety-measures-predict-no-grades.md) [-M] — learners who differ on it differ in outcomes
 - [Worry is the only anxiety measure positively linked with school grades after controlling for other anxieties](../claims/worry-positively-predicts-grades.md) [+M] — learners who differ on it differ in outcomes
+- [Qualitative interviews revealed gender-specific change pathways: males shifted from luck-based attributions and improved behavioral regulation, while females overcame ability-related doubt and strengthened emotional regulation](../claims/gender-specific-qualitative-change-pathways.md) [+W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

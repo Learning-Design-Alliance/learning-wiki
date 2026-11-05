@@ -57,6 +57,7 @@ The review identifies implementation strategies that "significantly enhanced exp
 - [Align simulation-based BLS training with INACSL guidelines including interactive lectures, skill demonstrations, high-fidelity manikin practice, scenarios, and GAS-model structured debriefing](strategy-inacsl-aligned-bls-simulation-module.md)
 - [DBSS session protocol: defect-identification exercise followed by GAS-framework debriefing](dbss-session-protocol-gas-debriefing.md)
 - [Integrate web-based decision support with simulation practice for medication safety training](decp-simulation-integration-strategy.md)
+- [Align simulation topics with students' clinical interests and enhance feedback processes such as video feedback](align-simulation-topics-clinical-interests-video-feedback.md)
 
 ## Examples
 -

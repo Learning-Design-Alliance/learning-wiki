@@ -55,3 +55,4 @@ Narrative review of Soderstrom and Bjork (2023), a 10-week undergraduate researc
 - [A course section that reviewed with Kahoot no-stakes quizzes differed significantly in high-stakes multiple-choice exam scores from a section that reviewed with a study guide and lecture, a difference the authors report as improvement without printing group means](kahoot-testing-effect-higher-exam-scores.md) — a narrower finding that bears on this claim
 - [Practicing test-taking through actual exam experience was interpreted as more effective than lecturing about the exam in IELTS preparation](test-practice-beats-lecturing-ielts.md) — a narrower finding that bears on this claim
 - Assessment does not have to be high-stakes to motivate students to perform — related
+- [Regular low-stakes post-lecture testing produces higher final exam scores on tested than on non-tested material in undergraduate endodontics](testing-effect-endodontics-final-exam.md) — related

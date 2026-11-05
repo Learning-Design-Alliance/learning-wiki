@@ -47,3 +47,4 @@ Descriptive analysis of student interviews in the experimental class. Students e
 ## Related Claims
 - [Male and female students show different tendencies in which media scaffolding they use](gender-tendencies-media-scaffolding-choice.md) — related
 - [Students strongly prefer qualitative tree visualizations over quantitative radar charts of classroom collaboration](students-prefer-qualitative-tree-over-radar.md) — related
+- [The article asserts that students prefer self-directed learning because it improves understanding of the subject and helps clear doubts, without reporting preference data](asserted-student-preference-for-sdl-understanding.md) — related

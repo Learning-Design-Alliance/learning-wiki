@@ -48,3 +48,4 @@ Analysis of covariance on all students' posttest scores covaried against pretest
 - [ANCOVA confirms the multimedia group's speaking-skill advantage after adjusting for pre-test differences.](ancova-confirms-multimedia-speaking-advantage.md) — possibly the same claim (merge candidate)
 - [First-semester calculus students in an experimental reflective-abstraction section outperformed a matched traditional section on a posttest of limits](reflective-abstraction-curriculum-improves-limit-posttest.md) — possibly the same claim (merge candidate)
 - [The teaching quality advantage remained significant after covariate adjustment, intention-to-treat, and mixed-effects sensitivity analyses](patient-in-classroom-sensitivity-analyses.md) — related
+- [The endodontic testing effect remains significant after adjusting for prior course grade and sex, with a homogeneous effect across students](testing-effect-robust-to-prior-grade-sex.md) — related

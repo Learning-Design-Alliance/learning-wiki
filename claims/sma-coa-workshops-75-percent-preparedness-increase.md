@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: osman-homira-2026
     resource: "https://doi.org/10.1177/22143602261416298"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Pre- and post-workshop surveys of 79 allied health professionals showed an average 75% increase in self-reported preparedness and familiarity across all COAs covered in the training; with no comparison group, this is a before-after change and does not show that the workshops caused it. [→ Osman Homira 2026](#osman-homira-2026)
@@ -58,3 +58,4 @@ Pre- and post-workshop survey study of 79 regulated allied health professionals 
 - [The near-peer bootcamp was feasible to coordinate as an alternative to faculty-led teaching](near-peer-bootcamp-feasibility.md) — related
 - [Faculty preparedness gaps and psychometric subjectivity are key barriers to implementing OHL-Mini-CEX](ohl-mini-cex-implementation-barriers.md) — related
 - [A competency-based multiactor emergency preparedness training curriculum improved cognitive knowledge, self-assessed skill, and scenario performance after video debriefing](competency-based-multiactor-ept-improved-performance.md) — related
+- [After a peer-led workshop, the proportion of students classified as high knowledge rose from 41.9% at pre-test to 86.0% at post-test in one uncontrolled pre-post study](knowledge-category-shift-after-peer-led-workshop.md) — related

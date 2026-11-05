@@ -19,7 +19,7 @@ sources:
 # FAST
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (5 mixed, 1 against) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (1 for, 5 mixed, 1 against) · 2 studies (1 causal, 1 design), `q2` · 0 of 2 report an effect size · 7 claims rest on one study
 
 ## Description
 Families and Schools Together (FAST), developed and implemented by Families and Schools Together, Inc., is a multifamily group programme that strengthens parenting, family relationships, and connections among families, schools, and communities.
@@ -27,6 +27,7 @@ Families and Schools Together (FAST), developed and implemented by Families and 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Families and Schools Together (FAST) program**: FAST is a multifamily group program aiming to "empower parents to improve their parenting skills, build positive relationships and social capital between families and schools." It has three stages: initial outreach, eight weekly multifamily group sessions of 10–12 families, and FASTWORKS monthly parent-led sessions for two years. Sessions include parent-led family activities (crafts, meals, singing, communication games), children's activity time with school/community staff, parent discussion groups, and 15 minutes of coached one-to-one "special play." Core components constitute 40 percent of implementation with structured local adaptations at 60 percent, intended to foster local buy-in and o (Bos et al. (2018))
+- **FAST workstation program: curriculum, simulator, and web-based self-paced tests with built-in timing, error entry, and instant benchmark feedback**: The Fundamentals of Arthroscopic Surgery Training program, established in 2011 by AANA, the American Board of Orthopaedic Surgery, and the American Academy of Orthopaedic Surgeons, consists of "a curriculum, a simulator, and a series of tests" for practicing fundamental arthroscopic skills outside the operating room. Its web-based design lets residents access modules independently, with a built-in stopwatch and error entry that determine progression at the resident's own pace. Six modules progress from basic skills (Probing) to more complex tasks (Knot Tying). (Davis Eric et al. (2026))
 
 ### Claims
 - [Fidelity of FAST program-component delivery was high (97–98 percent overall), but reach to families fell far below design expectations](../claims/fast-fidelity-high-reach-low.md) [~W]
@@ -35,14 +36,15 @@ Families and Schools Together (FAST), developed and implemented by Families and 
 - [Students who attended FAST three or more times showed strong positive effects on Grade 1 reading and more modest effects on mathematics, but a strong negative effect on kindergarten attendance](../claims/fast-qed-dose-effects-reading-math-attendance.md) [~W]
 - [Offering FAST produced no meaningful, enduring effects on family functioning, family-school relationships, academic learning, or social-behavioral outcomes in a 60-school cluster RCT](../claims/fast-rct-no-meaningful-enduring-effects.md) [-W]
 - [FAST take-up was far below the projected 60 percent participation rate, with only about 20 percent typical participation per year](../claims/fast-takeup-far-below-projected.md) [~W]
+- [Expert-derived benchmarks for 5 FAST arthroscopic skills modules are established as time-and-error thresholds from aggregated two-hand faculty performance](../claims/fast-five-module-proficiency-benchmarks.md) [+M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - Bos, J., Spier, E., Bandeira de Mello, V., González, R., & Huang, F. (2018). Investing in Innovation (i3) Validation Study of Families and Schools Together (FAST) Final Report. American Institutes for Research. https://evidenceforessa.org/program/families-and-schools-together-fast/
-
 <!-- merged 2026-10-10 from elements/fast-program-element ("Families and Schools Together (FAST) program"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Davis Eric, Caraet Brianna, Pedowitz Robert, Nicandri Gregg. (2026). Benchmark Development for Fundamental Arthroscopic Skills Using a Simulation-Based Training Program: Observational Study. JMIR Perioperative Medicine. https://doi.org/10.2196/82723
 
 # Families and Schools Together (FAST) program
 

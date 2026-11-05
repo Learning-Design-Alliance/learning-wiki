@@ -50,3 +50,4 @@ Independent t-test comparing 97 personnel by education level; the article report
 - [B.S.-degree nurses show significantly higher odds of palliative care knowledge than diploma nurses (AOR = 3.01)](bs-degree-nurses-higher-palliative-knowledge-odds-aor-3-01.md) — related
 - [Pre-hospital emergency personnel demonstrate moderate knowledge of obstetric emergencies with a mean score of 46.6%](p-hep-moderate-knowledge-obstetric-emergencies.md) — related
 - [Work experience correlates positively with complicated child delivery skill but negatively with newborn and pregnant women's resuscitation skills](work-experience-skill-correlations.md) — related
+- [Higher formal education was not associated with better nutritional knowledge; Bachelor's degree holders scored significantly worse than university‐diploma holders](education-not-linked-to-nutrition-knowledge.md) — related

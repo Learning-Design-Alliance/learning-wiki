@@ -9,7 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-13
+source_checked: 2026-11-05
 recheck_by: 2031
 sources:
   - id: jinhee-kim-2026
@@ -34,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-13 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2031: baselines and conditions change
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Adult learners perceive that question generators, fact-checking tools, dashboards, and concept-map generators activate prior knowledge, diagnose gaps, and support informed decision-making on authentic tasks. [→ Jinhee Kim 2026](#jinhee-kim-2026)

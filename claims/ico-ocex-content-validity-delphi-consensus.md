@@ -55,3 +55,4 @@ A multiphase mixed-method study used a modified Delphi technique with 24 nationa
 - [Cognitive pre-testing established response process validity and expanded the instrument from 33 to 34 items](ico-ocex-response-process-validity-cognitive-interviews.md) — related
 - [Expert review confirmed strong content validity of the Salus-Ed questionnaire items](salus-ed-content-validity.md) — related
 - [Expert surgeons confirmed strong content validity, with all items receiving mean scores above 4.0](content-validity-expert-ratings-ldsrs-model.md) — related
+- [Expert panel consensus (seven experts, ≥80% agreement rule) endorsed the refined EA framework structure](expert-consensus-ea-framework.md) — related

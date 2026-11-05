@@ -9,6 +9,7 @@ id: phonemic-awareness-training-improves-reading
 aliases: [phonological-awareness-training-improves-reading]
 evidence_strength: undetermined
 newest_evidence: 2001
+source_checked: 2026-11-05
 sources:
   - id: ehri-et-al-2001
     resource: "https://doi.org/10.1598/rrq.36.3.2"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4` · `i2` medium · n=52 studies, 96 treatment-control comparisons
-> **Currency** · newest study 2001 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2001 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 Explicit instruction in identifying, segmenting, and blending the individual sounds (phonemes) in spoken words improves later reading achievement, primarily by supporting the development of decoding and word-recognition skill.
 

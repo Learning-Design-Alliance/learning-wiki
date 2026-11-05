@@ -53,3 +53,4 @@ Benchmark of 119 pediatric dentistry MCQs from the DUS administered to 17 LLM co
 - [State-of-the-art LLMs show strong potential as diagnostic decision-support systems in dentistry based on vignette-based question performance](llms-diagnostic-decision-support-dentistry-potential.md) — a broader claim this one bears on
 - [LLM accuracy on pediatric residency-level MCQs varies widely (38%–90%) across models when all questions are delivered simultaneously](all-at-once-llm-accuracy-38-90.md) — related
 - [ChatGPT-5 achieved the highest overall accuracy on ophthalmology board-style questions (92.59%), with no statistically significant differences among the four LLMs](chatgpt-5-highest-overall-accuracy-ophthalmology-board-questions.md) — related
+- [Across all question types and languages, Doubao-1.5-pro achieved the highest accuracy (92.0% ± 1.3%) and ChatGPT-4o the lowest (82.8% ± 3.7%) among six LLMs benchmarked](doubao-highest-chatgpt4o-lowest-accuracy.md) — related

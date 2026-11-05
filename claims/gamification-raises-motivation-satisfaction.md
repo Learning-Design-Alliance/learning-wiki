@@ -67,3 +67,4 @@ The review reports, citing Yu (2023), a mixed-methods study of university studen
 - [Learners using TMM showed positive engagement, motivated by the software's scoring feature](tmm-scoring-feature-drove-learner-engagement.md) — a narrower finding that bears on this claim
 - [The gamified class achieved a higher average final grade (61% vs 53%), with correlation to gamification unconfirmed](gamification-higher-final-grades-python-course.md) — related
 - [Gamification of web-based learning improves academic achievement among primary school students learning English](gamification-web-learning-improves-primary-achievement.md) — related
+- [Gamification improves engagement and learning in diabetes education, with strongest results in board and escape games and smaller gains for digital games](gamification-board-escape-games-strongest.md) — a broader claim this one bears on

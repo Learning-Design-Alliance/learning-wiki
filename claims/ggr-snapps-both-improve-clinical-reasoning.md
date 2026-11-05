@@ -52,3 +52,4 @@ Quasi-experimental parallel-group pre–post study of 128 final-year MBBS studen
 - [SNAPPS outperformed the one-minute preceptor and both outperformed traditional clinical teaching for clinical reasoning skill](snapps-superior-one-minute-preceptor-traditional-teaching.md) — related
 - [Residents' probing-question scores rose from 3 to 4 from before to after SNAPPS, in one uncontrolled pre-post study](snapps-probe-increases-resident-questions.md) — related
 - [SNAPPS is reported as superior to the One-Minute Preceptor model in enhancing clinical reasoning](snapps-superior-omp-clinical-reasoning.md) — related
+- [SNAPPS training outperforms traditional case presentation on clinical reasoning outcomes in medical residency randomized controlled trials](snapps-outperforms-traditional-presentation-rcts.md) — related

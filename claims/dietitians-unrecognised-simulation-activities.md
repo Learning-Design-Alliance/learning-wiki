@@ -52,3 +52,4 @@ Thematic analysis of 15 semi-structured interviews deductively coded to COM-B do
 - [Only 14% of surveyed Irish dietitians report using simulation-based education despite 78% exposure and 85% interest in further training](irish-dietitians-low-sbe-use-high-interest.md) — related
 - [Years of professional experience was the only significant predictor of current SBE use among Irish dietitians](experience-only-predictor-sbe-use.md) — related
 - [Recurring comprehension difficulties with ITEM involved nonspecific referents such as \"activity\" and \"technology\", unfamiliar or abstract terminology, negative wording, temporal ambiguity, and contextual relevance](item-comprehension-difficulty-categories.md) — related
+- [Evidence that higher simulation fidelity yields better learning outcomes is mixed, while the affective component of SBE is under-attended](sbe-fidelity-outcomes-mixed-emotions-underattended.md) — related

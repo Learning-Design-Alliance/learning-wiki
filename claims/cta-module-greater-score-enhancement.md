@@ -60,3 +60,4 @@ Table 8 comparison of average scores shows the control group began higher (43.91
 - [Active learning students outperformed traditional-instruction students on each of the 14 individual writing and research skills, with an average 10.5-point higher score](active-learning-gains-fourteen-individual-skills.md) — related
 - [Both the situated learning group and the traditional instruction group improved significantly from pre-test to post-test in vocational English vocabulary](both-groups-significant-pretest-posttest-gains-vocational-english.md) — related
 - [The experimental group started with lower pre-test scores but achieved a higher average than the control group in the post-test](qmp-lower-pretest-higher-posttest-descriptive.md) — related
+- [English academic performance scores rose significantly from pre-test to post-test, with a large effect size (d = 0.93), in one group with no comparison group](intervention-improves-english-performance-large-effect.md) — related

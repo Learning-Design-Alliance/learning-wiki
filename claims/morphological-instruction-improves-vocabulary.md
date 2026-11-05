@@ -8,7 +8,6 @@ generated:
 id: morphological-instruction-improves-vocabulary
 evidence_strength:
 newest_evidence: 2013
-source_checked: 2026-10-19
 sources:
   - id: goodwin-ahn-2013
     resource: "https://doi.org/10.1080/10888438.2012.689791"
@@ -34,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q3` · `i1` small
-> **Currency** · newest study 2013 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2013 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Teaching learners to analyze and manipulate morphemes (prefixes, suffixes, roots, and inflections) improves vocabulary knowledge and supports word reading and comprehension.
 

@@ -50,6 +50,7 @@ To minimise disruption to flow and reduce recall bias from retrospective self-re
 
 - [Use two researchers as independent instruments for interpretation instead of one researcher confirming the other's reliability](two-researchers-independent-interpretive-instruments.md)
 - [Use unobtrusive AI facial expression recognition alongside qualitative interaction coding to study emotion regulation in collaborative learning](fer-alongside-qualitative-coding-for-ssrl-research.md)
+- [Use direct observation, OSCEs, or chart reviews instead of self-report to assess students' clinical fluid-management competence](direct-observation-osce-chart-review-assessment.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Exploratory post hoc two one-sided tests procedure computing 95% confidence inte
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
 - [Both AI-VSP and SP groups improved significantly from pre-test to post-test, with no significant difference in score improvement between groups](ai-vsp-sp-post-test-improvement-similar.md) — related
 - [Student satisfaction did not differ significantly between AI-VSP and SP groups](ai-vsp-sp-satisfaction-similar.md) — related
+- [SEGUE-based simulation training with either AI-VSPs or traditional SPs: medical students' communication scores rose significantly from pre-test to post-test in within-group comparisons](segue-simulation-training-improves-communication-scores.md) — related

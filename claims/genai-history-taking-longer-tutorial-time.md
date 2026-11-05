@@ -53,3 +53,4 @@ Descriptive observation of audio recordings from the four tutorial groups (two p
 - [Patient history recall was near ceiling in both conditions, with significant decline over two weeks but no difference between genAI and ePBLM conditions](genai-recall-near-ceiling-no-condition-difference.md) — related
 - [GenAI-condition students rated their PBL tutorial significantly higher after the tutorial than they rated their previous ePBLM-based experiences, especially clinical accuracy](genai-virtual-patient-higher-perceived-tutorial-quality.md) — related
 - [Students reported high confidence gains in history-taking, differential diagnosis, and management planning from AIVP](aivp-survey-confidence-gains.md) — related
+- [Intervention students spent more preparation time and control students more often felt disadvantaged, while other feedback items did not differ](student-feedback-prep-time-and-allocation-fairness.md) — related

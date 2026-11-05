@@ -59,3 +59,4 @@ Mixed quantitative–qualitative expert review with seven experts in teacher edu
 - [Content validity of the HSPNCS is acceptable (S-CVI/Ave 0.972)](hspncs-acceptable-content-validity.md) — related
 - [Expert review established content validity of VEGA's generated content, with I-CVIs of 0.83–1.00 and S-CVI/Ave of 0.96](vega-content-validity-cvi.md) — related
 - [Content validity of OPTIS was established through five consecutive rounds of expert feedback involving 18 experts](optis-content-validity-expert-rounds.md) — related
+- [Most Aquablation procedural steps receive I-CVI values exceeding 0.80, with average relevance scores of 3.5 or higher and medians reaching 4](aquablation-content-items-icvi-above-080.md) — related

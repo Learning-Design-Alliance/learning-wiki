@@ -50,3 +50,5 @@ Multivariable linear regression with HC3 robust standard errors on 500 participa
 - [Syrian medical students show low overall theoretical knowledge of clinical and surgical skills](syrian-medical-students-low-clinical-surgical-knowledge.md) — related
 - [University attended is significantly associated with clinical and surgical knowledge level](university-association-clinical-surgical-knowledge-syria.md) — related
 - [Engagement score, quiz completion rate, and assessment format independently predict answer accuracy in multivariate regression](multivariate-predictors-answer-accuracy.md) — related
+- [Clinical-year students at Syrian medical schools have higher CPR knowledge than pre-clinical students after adjustment](clinical-year-higher-cpr-knowledge-syria.md) — related
+- [Students at public Syrian universities show higher CPR and MI knowledge than private-university peers after adjustment](public-university-higher-cpr-mi-knowledge-syria.md) — related

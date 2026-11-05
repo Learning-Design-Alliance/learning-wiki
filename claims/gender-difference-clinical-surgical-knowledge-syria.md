@@ -52,3 +52,4 @@ Welch independent-samples t-test comparing male (n=237) and female (n=263) stude
 - [Mean FCI scores differ significantly between male and female students at a moderate magnitude favoring male students (g = 0.61) across international PER studies](fci-gender-gap-moderate-favoring-males.md) — related
 - [Syrian medical students show low overall theoretical knowledge of clinical and surgical skills](syrian-medical-students-low-clinical-surgical-knowledge.md) — related
 - [Gender and expertise domain are the most robust grade predictors; females outperform males in 9 of 13 subjects with negligible effects](gender-and-expertise-robust-grade-predictors.md) — related
+- [Syrian medical students show moderate CPR knowledge (mean 5.03/11) and MI symptom knowledge (mean 11.50/18) with the largest CPR gaps in AED timing and defibrillation parameters](syrian-medical-students-moderate-cpr-mi-knowledge-aed-gaps.md) — related

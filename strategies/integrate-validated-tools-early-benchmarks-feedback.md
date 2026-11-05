@@ -50,6 +50,8 @@ The review recommends integrating "validated assessment tools early in surgical 
 ## Related Strategies
 
 - [Prioritize predictive-validity research, benchmarking of existing tools, and integration of kinematic data and AI in surgical skill assessment](future-migs-assessment-kinematic-ai-benchmarking.md)
+- [Integrate FAST early in residency (intern year) with easy-access, pre-set workstations and a proctored introductory session to maximize independent practice](early-proctored-fast-implementation-strategy.md)
+- [Integrate the validated iVR simulator into early orthopedic training as a platform for deliberate practice with individualized feedback, pending longitudinal confirmation](ivr-deliberate-practice-platform-early-orthopedic-training.md)
 
 ## Examples
 -

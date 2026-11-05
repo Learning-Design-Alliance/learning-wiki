@@ -67,3 +67,4 @@ The review reports behavioural improvement "across study designs", with ratings 
 - [Ottawa GRS scores rated both leaders within the competent range while TEAM scores differentiated the expert and novice leaders more clearly](ottawa-grs-versus-team-score-differentiation.md) — related
 - [Multidisciplinary simulation increased nontechnical self-efficacy by 0.3 points on a 4-point scale](simulation-increased-nontechnical-self-efficacy-otolaryngology.md) — related
 - [Experts rated ALS certification and adaptability highest, with strong consensus also for psychological resilience and closed-loop communication](highest-rated-attributes-als-adaptability-resilience.md) — related
+- [The framework embeds communication, consent, and debriefing objectives alongside technical procedural skills](procedural-objectives-embed-communication-and-debriefing.md) — related

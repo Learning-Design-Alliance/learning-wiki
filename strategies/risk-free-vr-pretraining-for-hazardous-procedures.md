@@ -45,6 +45,7 @@ The article recommends that virtual simulation complement physical training for 
 - [Use AR visualization of hidden anatomy and simulated fluoroscopy to teach spatial reasoning in a radiation-free environment](ar-hidden-anatomy-spatial-learning-strategy.md)
 - [Use virtual simulation resources to prepare students before high-risk or complex experiments](virtual-simulation-prelearning-before-complex-experiments.md)
 - [Use VR simulation as a complementary, not competing, component of hazardous-drug spill-management training](vr-complementary-hazardous-drug-training.md)
+- [Use virtual simulation as a structured, repeatable, risk-free complement to traditional bracket placement training in early skill development](virtual-simulation-complement-early-skill-training.md)
 
 ## Examples
 -

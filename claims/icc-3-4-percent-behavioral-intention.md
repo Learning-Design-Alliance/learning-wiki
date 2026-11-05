@@ -51,3 +51,4 @@ Interclass correlation from a null (no-predictor) multilevel model on the nation
 - [Perceived usefulness strongly predicts faculty's behavioral intention and mediates the influence of teaching quality monitoring, with marginal mediation for strategic planning and leadership](perceived-usefulness-mediation-behavioral-intention.md) — related
 - [Leadership was not significantly related to faculty's perceived usefulness of online teaching](leadership-not-related-perceived-usefulness.md) — related
 - [Teacher-level intraclass correlations indicated 11.7% of pre-test and 40.6% of post-test ability variance lay at the teacher level](teacher-level-icc-pre-post-fractions.md) — related
+- [Roughly 45% of variance in Chinese adolescents' achievement lies between schools, supporting multilevel modeling](between-school-variance-achievement-icc-pisa-china.md) — related

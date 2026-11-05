@@ -10,7 +10,7 @@ generated:
   at: 2026-09-26
 evidence_strength: moderate
 newest_evidence: 2009
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 sources:
   - id: murphy-2009
     resource: "https://doi.org/10.19173/irrodl.v10i3.579"
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2009 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2009 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 
