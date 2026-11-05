@@ -70,3 +70,4 @@ CUSUM analysis of operative time showed a visual peak at Case 40 (maximum 576.7 
 - [Prior laparoscopic and robotic experience transferred to the Versius platform, enabling proficiency in fewer than 40 cases under structured proctoring](skill-transfer-prior-experience-versius.md) — related
 - [Erectile function preservation improved with surgical experience while continence outcomes stayed similar](erectile-function-improves-continence-stable-lrp-learning-curve.md) — related
 - [Console time decreased substantially with increasing surgical experience, with an estimated reduction of 33.2 min over the first 14 procedures](console-time-decreases-with-experience-versius.md) — related
+- [OPI-derived learning curves stabilize within the first 10 months of a surgeon's experience despite increasing case complexity](opi-learning-curve-stabilizes-ten-months.md) — related

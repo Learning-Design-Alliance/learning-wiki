@@ -52,3 +52,4 @@ Prospective parallel-group RCT; 120 undergraduates stratified by major and rando
 - [3DIPT-assisted teaching produces higher simulated NMLE anatomical imaging test scores than traditional internship teaching after 6 months](3dipt-higher-simulated-nmle-anatomical-imaging-scores.md) — related
 - [PBL produces higher examination scores than LBL in undergraduate pharmacology education (SMD = 2.03)](pbl-higher-examination-scores-pharmacology.md) — related
 - [BOPPPS-based blended teaching produces significantly higher final examination and process assessment scores than traditional lecture-based teaching](boppps-higher-final-exam-process-assessment.md) — related
+- [WeChat-based PBL students scored lower on memorization but higher on understanding and knowledge application than traditional-teaching peers in ophthalmology](wechat-pbl-exam-cognitive-levels-ophthalmology.md) — related

@@ -58,9 +58,11 @@ Recess functions as an attention-restoration and arousal-regulation mechanism: s
 5. Use a consistent transition routine to return students to instruction ([Clear Structure](../principles/clear-structure.md)).
 
 ## Related Strategies
+
 - [Active Learning](../principles/active-learning.md) — recess complements in-lesson activity; both address the limits of passive seatwork
 - [Brain Breaks / Movement Breaks](brain-breaks.md) — shorter in-class variants when recess is not feasible
 - [Classroom Physical Activity Integration](classroom-physical-activity-integration.md) — embedding movement into academic content rather than separating it
+- [Design running programs to support autonomy, competence and relatedness needs](sdt-aligned-running-program-design.md)
 
 ## Examples
 - **LiiNK Project (Texas Christian University)** — implements multiple daily outdoor recesses alongside character education; published studies report improved attention and reduced disciplinary referrals (https://liinkproject.tcu.edu)

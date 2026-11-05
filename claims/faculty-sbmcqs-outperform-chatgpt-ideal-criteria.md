@@ -60,3 +60,6 @@ Item analysis of four test sessions in a crossover study that enrolled all 120 f
 - [Human-edited GenAI-assisted items achieved plausible difficulty: mean difficulty index did not differ significantly and more GenAI-assisted items fell in the acceptable difficulty range](genai-mcq-plausible-difficulty.md) — related
 - [Student-generated MCQs showed higher item discrimination than AI-generated MCQs, with a small effect size and a majority of AI items in the poor-discrimination band](student-gen-items-higher-discrimination.md) — related
 - [A majority of ChatGPT-generated MCQs met 'good quality' criteria for balanced difficulty and discrimination](chatgpt-mcq-good-quality-proportion.md) — reports the opposite
+- [Difficulty ranges of ChatGPT and instructor items differed: ChatGPT items spanned a broader range while the human test included more high-difficulty items](chatgpt-items-broader-difficulty-range-human-more-high-difficulty.md) — related
+- [Instructor-developed items showed higher discrimination than ChatGPT items in 3PL IRT analysis](instructor-items-higher-discrimination-3pl.md) — related
+- [Students scored significantly higher on instructor-written MCQs than on ChatGPT-generated MCQs in a within-subjects dental assessment](instructor-mcqs-scored-higher-than-chatgpt-mcqs.md) — related

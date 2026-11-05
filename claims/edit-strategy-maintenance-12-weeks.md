@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: woods-groves-et-al-2017
     resource: "https://eric.ed.gov/?id=EJ1160277"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium
-> **Currency** · newest study 2017 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` At 12 weeks the intervention group significantly outperformed controls on total errors (d = .41), spelling (d = .60), and punctuation (d = .90); the substance difference was non-significant (p = .058, d = 1.06). [→ Woods-Groves et al. 2017](#woods-groves-et-al-2017)

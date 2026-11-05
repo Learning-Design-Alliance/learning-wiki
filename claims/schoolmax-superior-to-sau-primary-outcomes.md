@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2020
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: lopata-2020
     resource: "https://link.springer.com/journal/10802"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2020 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` schoolMAX outperformed SAU on CAM-C emotion recognition (d=1.41, p<.001), SRS-2 ASD symptoms (d=-1.15, p<.001), and ASC social skills (d=1.29, p=.001). [→ Lopata 2020](#lopata-2020)

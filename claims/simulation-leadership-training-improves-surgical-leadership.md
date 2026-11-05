@@ -47,3 +47,4 @@ Systematic review (PRISMA, PROSPERO-registered) of 12 primary studies with 430 p
 ## Related Claims
 - [Simulation-based training is associated with communication and teamwork gains of approximately 2–3 points and NOTSS domain means of 2.8–3.5 on 4-point scales](simulation-communication-teamwork-gains-notss.md) — related
 - [Experimental and quasi-experimental included studies describe improvements in time, precision, movement economy, task quality or perceived competence after laparoscopic simulation exposure](laparoscopic-simulation-performance-improvements.md) — related
+- [Instructors rank enhancing clinical skills, clinical thinking, and crisis management as the primary objectives of perioperative simulation training, valuing communication and leadership more than learners do](instructor-objectives-simulation-training.md) — related

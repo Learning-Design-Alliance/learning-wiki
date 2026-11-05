@@ -47,7 +47,8 @@ The review recommends designing EERs to support competence, autonomy, and relate
 - [The comprehensive psychological need satisfaction configuration (competence core) has the highest coverage for high learning engagement, with GAI use unconstrained](../claims/comprehensive-need-satisfaction-configuration-principal.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Design running programs to support autonomy, competence and relatedness needs](sdt-aligned-running-program-design.md)
 
 ## Examples
 -

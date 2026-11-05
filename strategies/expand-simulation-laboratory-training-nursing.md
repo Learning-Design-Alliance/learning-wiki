@@ -53,6 +53,7 @@ The article recommends increasing laboratory practice hours and expanding simula
 - [Integrate simulation technologies with traditional teaching through blended approaches tailored to specific clinical tasks](blended-simulation-integration-orthodontic-curricula.md)
 - [Integrate hybrid simulation into clinical skills curricula to concurrently train communication and technical skills in a safe, repeatable environment](integrate-hybrid-simulation-clinical-skills-curricula.md)
 - [Expand affordable, accessible Makaton training and embed it in undergraduate professional education](expand-makaton-training-embed-curricula.md)
+- [Use computer-aided simulations in nursing skills laboratories and support practical training with simulation](support-nursing-practical-training-with-simulation.md)
 
 ## Examples
 -

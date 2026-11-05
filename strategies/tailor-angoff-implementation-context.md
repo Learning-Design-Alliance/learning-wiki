@@ -51,6 +51,7 @@ The review recommends that dental educators tailor standard-setting implementati
 - [Adopt structured reporting standards for prescribing assessment research including reliability, validity, cut scores and costs](recommend-structured-reporting-prescribing-assessment.md)
 - [Tailor active methodologies to the specific educational context and subject matter](tailor-active-methods-to-context-dentistry.md)
 - [Adapt and tailor the triage simulation across program stages, modalities, and cohort needs](adapt-tailor-triage-simulation-blueprint.md)
+- [Use EPAs to standardize student performance expectations and assessment across dental schools](epas-standardize-dental-assessment-strategy.md)
 
 ## Examples
 -

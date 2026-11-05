@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-05
 sources:
   - id: telecan-teodora-2025
     resource: "https://doi.org/10.1186/s12909-025-07946-6"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A strong consensus emerged that VDTs are best suited as complementary resources: e.g., 87.9% of students opposed complete replacement of cadaveric dissection and 85.6% preferred a hybrid approach. [→ Telecan Teodora 2025](#telecan-teodora-2025)
@@ -52,3 +53,4 @@ Perception study reported within the review: in Koney et al.'s survey after a fu
 - [81.9% of students endorsed the Anatomage as realistic compared to cadaveric dissection, with 'somewhat realistic' (67.0%) exceeding 'very realistic' (14.9%)](anatomage-realism-compared-to-cadaveric-dissection.md) — related
 - [Medical students prefer viewing anatomy on pinned cadavers over digital images during practical exams](students-prefer-pinned-cadavers-over-digital-images-practical-exams.md) — related
 - [First-year medical students reacted positively to the e-modules and preferred them as a supplement to, not a replacement for, traditional teaching](students-prefer-e-modules-as-supplement.md) — related
+- [Anatomy education faces declining curriculum hours and constrained cadaver access driven by cost, ethics, and culture, motivating alternative methods](anatomy-hours-cadaver-access-declining-motivating-alternatives.md) — related

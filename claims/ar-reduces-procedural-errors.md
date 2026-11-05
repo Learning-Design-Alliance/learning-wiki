@@ -88,3 +88,4 @@ Parallel RCT (n=40 medical students) across 10 ex vivo laparoscopic cholecystect
 - [AR telestration lowers cognitive workload during surgical training as measured by validated instruments](ar-lowers-cognitive-workload.md) — related
 - [For lower-stakes basic skills, AR shows noninferiority rather than superiority over traditional instruction](ar-noninferiority-basic-skills.md) — reports the opposite
 - [A meta-analysis of 12 medical simulation studies found proficiency-based progression training reduces procedural errors by 60%, procedure time by 15%, and increases correctly executed steps by 47% versus conventional simulation](pbp-meta-analysis-errors-time-steps.md) — related
+- [Meta-analysis by Yeung et al. found AR improved performance time, confidence, and satisfaction but had no significant effect on knowledge or skill versus controls](ar-meta-analysis-improves-time-confidence-satisfaction-not-knowledge-skill.md) — related

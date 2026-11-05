@@ -72,3 +72,4 @@ Meta-analysis of 24 studies comparing theoretical exam scores between FC and LBL
 - [Active learning and team-based learning interventions have not consistently improved shelf exam scores](active-learning-no-consistent-shelf-improvement.md) — reports the opposite
 - [Flipped classroom intervention significantly increases college students' total physical activity and moderate-to-vigorous physical activity compared with traditional instruction immediately post-course.](fc-increases-total-pa-and-mvpa-post-course.md) — a narrower finding that bears on this claim
 - [Flipped and blended learning shows mixed effectiveness in diabetes education, dependent on learner preparation and integration with experiential practice](flipped-blended-mixed-preparation-dependent.md) — related
+- [Students rated OSCEai favourably compared to lecture-based teaching methods (4.14/5, P < 0.0001)](osceai-favoured-over-lecture-teaching.md) — related

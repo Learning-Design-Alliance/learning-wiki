@@ -40,7 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r1` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Second-year students significantly increased confidence in cardiac anatomy, general ultrasound, cardiac ultrasound, and TEE. [→ Beres Adam 2026](#beres-adam-2026)

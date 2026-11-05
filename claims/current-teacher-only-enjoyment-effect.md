@@ -9,7 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: weak
 newest_evidence: 2009
-source_checked: 2026-10-24
+source_checked: 2026-11-05
 sources:
   - id: frenzel-2009
     resource: "https://doi.org/10.1037/a0014695"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
-> **Currency** · newest study 2009 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2009 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In an additional model including Grade 7 perceived teacher enthusiasm, prior-year enthusiasm was unrelated to Grade 8 student enjoyment, and the mediation was largely unaffected. [→ Frenzel 2009](#frenzel-2009)

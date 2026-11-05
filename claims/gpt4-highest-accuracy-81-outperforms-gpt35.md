@@ -69,3 +69,4 @@ Subgroup analysis by LLM type across the 36 included studies (GPT-4 n=30, GPT-3.
 - [ChatGPT-5 achieved the highest overall accuracy on ophthalmology board-style questions (92.59%), with no statistically significant differences among the four LLMs](chatgpt-5-highest-overall-accuracy-ophthalmology-board-questions.md) — related
 - [Language of presentation (Chinese vs. English) has no significant main effect on LLM accuracy on Chinese medical licensing exam questions](no-language-effect-llm-medical-licensing.md) — related
 - [Claude 3.5 Sonnet achieved the highest overall performance (86.28%), accuracy (85.57%), and clarity (91.73%) in generating USMLE-style medical ethics MCQs](claude-35-sonnet-highest-ethics-mcq-performance.md) — related
+- [CoPilot Pro achieved the highest accuracy rate on periodontology exam questions both on Day-0 (73.6%) and after one month (75.2%)](copilot-pro-highest-accuracy-periodontology-questions.md) — related

@@ -55,3 +55,4 @@ A corpus-level topic-modeling study analyzing 1,048 AIOL publications with BERTo
 - [LDA topic modeling of 242 LDT syntheses reveals eight thematic areas, with computational tools most prevalent (21.7%) and generative AI integration emerging (8.2%)](lda-eight-thematic-areas-ldt-syntheses.md) — related
 - [LDA topic modeling of HI/HIM AI policy documents identifies four dominant themes: academic integrity, generative AI use, AI in research, and ChatGPT engagement](lda-four-themes-hi-him-ai-policies.md) — related
 - [Predictive analytics can benefit education only if educators heed how their use should differ from industry](predictive-analytics-benefit-heed-schooling-differences.md) — related
+- [BERTopic topic modeling of 24 NMLE sessions identified 25 topics, of which 10 increased in prominence, including non-organ-specific topics such as accountability and community health care](nmle-topic-modeling-ten-increasing-topics.md) — related

@@ -231,3 +231,4 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [Autonomy-supportive supervision benefits are strengthened, not diminished, by clear direction](autonomy-support-and-structure-complementary.md) — related
 - [Educator pressure from above and below predicts more controlling teaching behaviours](educator-pressure-predicts-controlling-teaching.md) — a narrower finding that bears on this claim
 - [Freedom to choose cases supported residents' sense of autonomy and motivation, while mandatory learning objectives decreased motivation for some](autonomy-case-choice-vr-motivation.md) — a narrower finding that bears on this claim
+- [Overemphasizing learner satisfaction can undermine educational quality, as educators become disincentivized from delivering critical feedback](overemphasizing-learner-satisfaction-undermines-quality.md) — related

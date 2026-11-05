@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3` · `i3` large
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the SEM path model, POE was strongly positively associated with FLE and negatively with FLB, whereas COI was non-significantly related to FLE and positively related to FLB. [→ Weng Tsung-han and Peng Jinchang 2026](#weng-tsung-han-and-peng-jinchang-2026)

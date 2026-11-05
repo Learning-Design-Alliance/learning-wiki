@@ -18,7 +18,7 @@ sources:
 # Problem-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (11 for, 1 mixed, 1 against) · 8 studies (5 causal, 3 quant-synthesis), `q1`–`q3` · 3 of 8 report an effect size · 13 claims rest on one study
+> **Evidence** · 15 claims (11 for, 3 mixed, 1 against) · 9 studies (6 causal, 3 quant-synthesis), `q1`–`q3` · 4 of 9 report an effect size · 15 claims rest on one study
 
 ## Description
 Problem-based learning, as an element, refers to the use of an authentic or ill-structured problem as the immediate driver of inquiry, information seeking, and solution development inside a larger design. This page serves as the canonical short-form target for element links that point to PBL-style problem framing.
@@ -60,6 +60,8 @@ Problem-based learning, as an element, refers to the use of an authentic or ill-
 - [PBL-trained kidney transplantation trainees achieve higher OSCE scores than traditionally trained trainees across all stations](../claims/pbl-higher-osce-scores-kidney-transplant.md) [+M] — attached 2026-11-05 from Gao C et al. (2026), which proposed "Structured PBL curriculum for specialist kidney transplantation training"; tests this page's relationship.
 - [Structured PBL is associated with higher overall clinical reasoning scores than conventional lectures in esophageal cancer teaching for medical interns](../claims/pbl-higher-clinical-reasoning-esophageal-cancer-interns.md) [+W] — attached 2026-11-05 from Zhao L et al. (2026), which proposed "Structured PBL module for esophageal cancer teaching (small fixed groups, authentic cases, facilitator-guided reasoning, formative assessment)"; tests this page's relationship.
 - [PBL interns show higher diagnostic accuracy and higher guideline-concordant therapeutic decision-making than lecture-taught interns in esophageal cancer teaching](../claims/pbl-diagnostic-accuracy-guideline-concordance-esophageal.md) [+W] — attached 2026-11-05 from Zhao L et al. (2026), which proposed "Structured PBL module for esophageal cancer teaching (small fixed groups, authentic cases, facilitator-guided reasoning, formative assessment)"; tests this page's relationship.
+- [PBL combined with 3D-VRT produced higher written examination scores than traditional teaching in trauma orthopaedics education](../claims/pbl-3d-vrt-higher-written-exam-scores-trauma-orthopaedics.md) [~M] — attached 2026-11-05 from Xue Gang et al. (2025), which proposed "PBL plus 3D visualization reconstruction workflow using Mimics and 3D Slicer for trauma orthopaedics teaching".
+- [PBL combined with 3D-VRT produced higher practical operation scores than traditional teaching in trauma orthopaedics education](../claims/pbl-3d-vrt-higher-practical-operation-scores.md) [~M] — attached 2026-11-05 from Xue Gang et al. (2025), which proposed "PBL plus 3D visualization reconstruction workflow using Mimics and 3D Slicer for trauma orthopaedics teaching".
 
 ## Related Elements
 - [Problem Scenario](problem-scenario.md)

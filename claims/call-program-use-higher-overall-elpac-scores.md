@@ -9,7 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-29
+source_checked: 2026-11-05
 sources:
   - id: nicholas-feroce-2025
     resource: "https://doi.org/10.1007/s11423-025-10462-5"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
-> **Currency** · newest study 2025 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` After controlling for demographics and school fixed effects, treatment students scored 0.197 SDs above their grade-specific mean on the overall ELPAC relative to comparison students. [→ Nicholas Feroce 2025](#nicholas-feroce-2025)

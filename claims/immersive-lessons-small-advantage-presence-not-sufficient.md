@@ -85,3 +85,4 @@ The review reports, citing multiple studies, that using XR without considering i
 - [Virtual-reality delirium training increased nurses' empathy and knowledge, with larger empathy gains when VR preceded didactic instruction](vr-delirium-empathy-order-effect.md) — a narrower finding that bears on this claim
 - [Virtual reality was particularly effective for procedural skill development and knowledge retention in paediatric undergraduate training](vr-effective-procedural-skills-retention.md) — related
 - [The motivational advantage of VR-based learning over traditional methods narrows over time, suggesting a novelty effect](vr-motivation-novelty-effect.md) — related
+- [Umbrella review by Tene et al. found no significant association between immersive technologies and improvements in medical education and training versus traditional methods](immersive-technologies-no-significant-association-umbrella-review.md) — related

@@ -71,3 +71,4 @@ Video-rated ANTS assessment across 40 teams. "Across all four ANTS categories—
 - [NTS training improves observable team behavioural performance in EDs, including more frequent closed-loop communication, clearer role allocation and prioritisation, improved situational awareness, and higher teamwork ratings (moderate certainty).](nts-training-improves-ed-team-behaviours.md) — related
 - [Remote AR simulation is noninferior to in-person simulation across all four BARS nontechnical behavior domains](remote-ar-noninferior-bars-domains.md) — related
 - [Residents demonstrate typical ANTS-rated non-technical skill performance (2.5–2.9 on a 1–4 scale) during a remote, international AR neonatal resuscitation simulation](remote-ar-nrp-simulation-ants-typical-performance.md) — related
+- [TPOT scores improved significantly across all five TeamSTEPPS domains, with greatest gains in team structure and leadership](ipstar-tpot-domain-gains.md) — reports the opposite

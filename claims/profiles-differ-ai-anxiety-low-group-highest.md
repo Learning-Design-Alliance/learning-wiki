@@ -9,7 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-18
+source_checked: 2026-11-05
 recheck_by: 2031
 sources:
   - id: wang-x-2026
@@ -24,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q3 i2` AI anxiety differed significantly across profiles (F = 14.695, p < 0.001, η2 = 0.062); the Low group scored highest (M = 3.429) and the High group lowest (M = 2.792). [→ Wang X 2026](#wang-x-2026)

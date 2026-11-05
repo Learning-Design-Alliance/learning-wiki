@@ -54,3 +54,4 @@ Interaction terms tested one at a time in weighted logit models on matched data 
 - [Early childhood education programs often yield larger benefits for children most in need, such as low-income children, children of color, and those with fewer educational resources](ece-larger-benefits-children-most-in-need.md) — a broader claim this one bears on
 - [In 2022 only one in nine eligible California children—and one in seven eligible Alameda County children—received subsidized childcare](subsidized-childcare-access-gap-2022.md) — related
 - [Children who attended informal childcare at 24–36 months were more likely to pursue higher education than children who attended formal childcare (Canadian 1994–95 cohort)](informal-childcare-higher-education-advantage.md) — related
+- [Neither child sex nor early childcare attendance moderates the genetic pathways to academic achievement](no-sex-childcare-moderation-genetic-pathways.md) — related

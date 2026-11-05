@@ -42,6 +42,7 @@ The review's conclusions propose four directions for advancing AI–metacognitio
 - [Propose a research agenda for the near future in character-enhanced learning](virtual-character-research-agenda.md)
 - [Combine individual adaptive reinforcement with collaborative approaches in a hybrid model for future development](hybrid-individual-reinforcement-collaborative-scripts.md)
 - [Use large-scale surveys to evaluate ethical components of professional development in assessment](large-scale-surveys-ethical-pdp-evaluation.md)
+- [Future CT-in-ELT research should prioritise inclusive, data-driven, longitudinal approaches integrating pedagogical experimentation and sociocultural perspectives](ct-elt-future-research-recommendations.md)
 
 ## Examples
 -

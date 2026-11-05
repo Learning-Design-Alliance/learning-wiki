@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2016
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: dowd-2016
     resource: "https://eric.ed.gov/?id=ED567231"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
-> **Currency** · newest study 2016 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` At baseline, home reading materials and literacy habits are modestly associated with students' reading achievement at most of the 12 sites, controlling for student and school characteristics; one site (the Philippines) shows significant negative coefficients on one index, and the association cannot show that the home environment causes the scores. [→ Dowd 2016](#dowd-2016)

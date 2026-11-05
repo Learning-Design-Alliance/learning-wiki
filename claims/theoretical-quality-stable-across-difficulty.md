@@ -55,3 +55,4 @@ Robustness analysis across Easy, Medium, and Hard scenarios (Figure 3 middle) sh
 - [Theory-based agents significantly outperform non-theory agents on Problem-centered design (d = 0.28) and Activation (d = 0.29), but non-theory agents score higher on Demonstration (d = -0.23)](theory-agents-problem-centered-activation-advantage.md) — related
 - [Task difficulty increases error counts, with significantly more errors on Medium and Hard tasks than Easy tasks](task-difficulty-increases-errors-scratch-videos.md) — related
 - [Easy tasks showed a floor effect across all participants and were excluded from hypothesis testing](easy-task-floor-effect-excluded.md) — related
+- [All participants are more accurate on easy than on hard clinical cases](easy-cases-more-accurate-than-hard-cases.md) — related

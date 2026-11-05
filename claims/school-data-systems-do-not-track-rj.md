@@ -9,7 +9,7 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 newest_evidence: 2015
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 recheck_by: 2020
 sources:
   - id: hurley-2015
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
-> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q1 i?` Interviewees reported that many district and school data systems do not track RJ efforts or student outcomes after RJ processes. [→ Hurley 2015](#hurley-2015)

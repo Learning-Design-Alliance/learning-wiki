@@ -49,6 +49,7 @@ The article suggests LLM-based question detection could provide real-time feedba
 ## Related Strategies
 
 - [Use automatic teacher-question detection as a reflective tool revealing extremes in questioning practices](automatic-question-detection-reflective-tool.md)
+- [Provide sample keywords and prompt guidance so students ask short, simple questions to the AI tool](sample-keywords-short-simple-prompts-strategy.md)
 
 ## Examples
 -

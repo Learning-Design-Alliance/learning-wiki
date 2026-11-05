@@ -9,7 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: long-dy-2026
     resource: "https://doi.org/10.3389/feduc.2025.1648661"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` AI-enhanced VR dissection raised medical student engagement by 34% relative to cadaver-based practice, with high equipment costs as a constraint. [→ Long DY 2026](#long-dy-2026)
@@ -50,3 +50,4 @@ The review reports, citing Koney et al. (2024), a 34% engagement increase for vi
 - [A theoretical article, citing two simulation studies, reports that novice clinical learners overestimated their performance and that their confidence exceeded their accuracy](novice-metacognitive-calibration-deficits.md) — related
 - [Voice modality roughly doubled dialogue turns and question-asking on equal engaged time within the same students](voice-doubles-turns-and-questions-equal-engaged-time.md) — related
 - Studies comparing digital tools to other instruction without hypothesizing instructional features cannot explain why effects occur — related
+- [Anatomy education faces declining curriculum hours and constrained cadaver access driven by cost, ethics, and culture, motivating alternative methods](anatomy-hours-cadaver-access-declining-motivating-alternatives.md) — related

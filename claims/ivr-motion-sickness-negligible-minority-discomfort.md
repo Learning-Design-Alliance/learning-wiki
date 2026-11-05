@@ -58,3 +58,4 @@ Simulator Sickness Questionnaire administered to the experimental group after th
 - [VR participants report more technical issues and cybersickness symptoms than slideshow participants](vr-technical-issues-cybersickness.md) — related
 - [Simulator sickness was low (median SSQ 1.9) with no serious adverse events](ncpr-vr-low-simulator-sickness.md) — related
 - [Most participants found first VR engagement exciting and easy to use, though a minority reported discomfort and initial difficulty](vtracs-excitement-with-minority-adverse-experiences.md) — a narrower finding that bears on this claim
+- [Cybersickness during short VR bellringer testing was minimal and unrelated to VR or total exam performance](cybersickness-minimal-unrelated-br-performance.md) — related

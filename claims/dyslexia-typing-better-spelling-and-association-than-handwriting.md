@@ -9,7 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-23
+source_checked: 2026-11-05
 sources:
   - id: cerni-2025
     resource: "https://doi.org/10.1016/j.learninstruc.2025.102119"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-23 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students with developmental dyslexia showed better spelling and nonword-image association performance after learning nonwords through typing than through handwriting. [→ Cerni 2025](#cerni-2025)

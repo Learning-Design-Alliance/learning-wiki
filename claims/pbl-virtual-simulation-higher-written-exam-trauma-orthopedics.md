@@ -58,3 +58,6 @@ Assessor-blinded RCT of 50 clinical medical students interning at the First Affi
 - [3DIPT-assisted teaching produces higher simulated NMLE anatomical imaging test scores than traditional internship teaching after 6 months](3dipt-higher-simulated-nmle-anatomical-imaging-scores.md) — related
 - [After the intervention, the peer-review group showed significantly greater post-lecture knowledge gains than the control group (83 vs 76, p = 0.003)](peer-review-greater-post-lecture-knowledge-gains.md) — related
 - [P-MASE pedagogy produced higher closed-book examination scores than traditional instruction in an undergraduate hospital management course RCT](pmase-higher-closed-book-exam-scores.md) — related
+- [PBL combined with 3D-VRT produced higher practical operation scores than traditional teaching in trauma orthopaedics education](pbl-3d-vrt-higher-practical-operation-scores.md) — related
+- [PBL combined with 3D-VRT produced higher written examination scores than traditional teaching in trauma orthopaedics education](pbl-3d-vrt-higher-written-exam-scores-trauma-orthopaedics.md) — related
+- [WeChat-based PBL students scored lower on memorization but higher on understanding and knowledge application than traditional-teaching peers in ophthalmology](wechat-pbl-exam-cognitive-levels-ophthalmology.md) — related

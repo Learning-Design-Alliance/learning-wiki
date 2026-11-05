@@ -53,3 +53,4 @@ Structural equation modeling of 180 children assessed at T1 (kindergarten) and T
 - [Preschool executive functions robustly predict mathematical skills during preschool and later in development](preschool-ef-predicts-mathematics.md) — a broader claim this one bears on
 - [Children who develop EF later start preschool with the lowest math levels and do not catch up to early or intermediate EF developers through second grade](covariates-early-intermediate-overlap-later-distinct.md) — related
 - [An after-school EF/VS intervention improves directly assessed executive function in kindergarten and first-grade children (intent-to-treat)](after-school-intervention-improves-executive-function.md) — related
+- [EF Touch performance at kindergarten entry longitudinally predicts later math achievement at kindergarten exit in autistic kindergartners](ef-touch-entry-predicts-exit-math.md) — a narrower finding that bears on this claim

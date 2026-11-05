@@ -68,3 +68,7 @@ Systematic review of 31 experimental, quasi-experimental and RCT studies publish
 - [The proportion of successful attempts on key PBLS actions rose significantly from pre-test to post-test after training, in one uncontrolled pre-post study](simulation-pbls-increases-successful-attempts.md) — a narrower finding that bears on this claim
 - [Step-level OSCE checklist performance is similar between video and simulation groups after Bonferroni correction](bls-osce-step-level-no-group-differences.md) — related
 - [A 90-minute ERC-guideline BLS training in a block schedule yields acceptable short- and long-term retention of chain-of-survival activation and high-quality chest compressions](bls-block-training-effective-core-skills.md) — related
+- [Emergency healthcare providers show a significant theory–practice gap in chest compression depth, with 97.95% theoretical knowledge but only 42.66% practical success](cpr-compression-depth-theory-practice-gap.md) — related
+- [Manikin audiovisual feedback reveals low overall compression accuracy (17%) despite adequate rate and recoil](cpr-manikin-feedback-quality-metrics.md) — related
+- [Compression-to-ventilation ratio is the only core CPR indicator with no significant theory–practice difference](cpr-ventilation-ratio-no-theory-practice-gap.md) — related
+- [Proportions of feeding-rate and IV-infiltration errors decreased significantly in the year after simulation implementation, while other targeted errors did not](targeted-errors-decreased-post-simulation.md) — related

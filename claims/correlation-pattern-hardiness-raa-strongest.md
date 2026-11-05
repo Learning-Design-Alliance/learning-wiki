@@ -73,3 +73,4 @@ Correlational analysis of the same survey sample. AI-assisted autonomous learnin
 - [Reduced efficacy shows the largest negative correlation with academic achievement (rc+ = −.39)](reduced-efficacy-largest-negative-achievement.md) — related
 - [Teacher burnout dimensions show the strongest correlations with CMSE among teacher-level psychometric constructs](cmse-teacher-burnout-strongest-teacher-level-correlate.md) — related
 - [Study demands lead to exhaustion and self-undermining behaviors, instigating a loss spiral](self-undermining-loss-spiral-students.md) — related
+- [Burnout affects up to 70% of residents and negatively affects clinical performance and decision-making](resident-burnout-up-to-70-percent-impairs-performance.md) — related

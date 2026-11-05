@@ -46,3 +46,4 @@ Descriptive analysis of the 13 checklist items in the simulated scenario (Table 
 
 ## Related Claims
 - [High-fidelity simulation did not outperform medium-fidelity simulation on clinical skills for pressure-injury management (p = 0.853; d = 0.076)](high-fidelity-no-skills-advantage-pressure-injury.md) — related
+- [Confidence in dressing selection and use is limited: 42.6% felt confident selecting dressings by healing phase and 48.3% were unsure they used dressings correctly](nurse-dressing-selection-confidence-limited.md) — related

@@ -98,3 +98,4 @@ Course-type subgroup analysis (Fig. 3C): theoretical-course SMD = 4.11 (95% CI 3
 - [Flipped courses show no reduction in academic performance compared with lecture-based courses.](flipped-courses-no-performance-reduction.md) — related
 - [Flipped classroom group scored significantly higher on Satisfaction, Involvement, Task Orientation, and Innovation, but not on Personalization, Student Cohesiveness, or Individualization](flipped-rct-cucei-four-of-seven-subscales.md) — related
 - [Performance differences favoring the blended model are larger in practical skill-focused Refractive Classroom than memory-based Amblyopia Classroom](mooc-hfs-larger-effects-practical-refractive-classroom.md) — a narrower finding that bears on this claim
+- [Students rated OSCEai favourably compared to lecture-based teaching methods (4.14/5, P < 0.0001)](osceai-favoured-over-lecture-teaching.md) — related

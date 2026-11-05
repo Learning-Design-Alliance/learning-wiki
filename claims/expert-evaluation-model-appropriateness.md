@@ -51,3 +51,4 @@ Phase 2 quality examination of the tentative model by seven experts in a focus g
 - [Experts rate the constructionism imagineering learning model via metaverse as appropriate at the highest level (Mean = 4.74, S.D. = 0.05)](cilm-metaverse-expert-assessment-highest.md) — related
 - [Experts rate the implemented constructionism imagineering learning model via metaverse as appropriate at the highest level overall (Mean = 4.67, S.D. = 0.08)](cilm-implemented-assessment-highest.md) — related
 - [Teachers rated current student critical thinking as moderate and need for the model as highest](teacher-needs-survey-critical-thinking.md) — related
+- [A needs analysis finds expert and student support for an imaginative activity-based model to develop innovation in Chinese medical students](needs-analysis-supports-imaginative-model-medical-innovation.md) — related

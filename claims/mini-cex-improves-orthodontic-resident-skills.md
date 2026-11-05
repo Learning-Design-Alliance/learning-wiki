@@ -54,3 +54,4 @@ The review reports that "Jamenis et al. (2020) found that Mini-CEX improved orth
 - [Modified Mini-CEX combined with SBAR teaching improves clinical skills scores but not theoretical exam scores](mini-cex-sbar-improves-clinical-skills-not-theory.md) — a narrower finding that bears on this claim
 - [Classic Mini-CEX systematically overlooks OHL communication practices in pediatric pneumonia education](mini-cex-blind-spot-ohl-communication.md) — related
 - [Dual formative feedback operates bidirectionally at provider and organizational levels](ohl-mini-cex-dual-feedback.md) — related
+- [Orthopaedic postgraduates taught with a BOPPPS-based micro-lecture system outperformed ordinary-teaching peers on most Mini-CEX clinical diagnostic and decision-making domains (p < 0.007 after Bonferroni correction), except humanistic care](boppps-microlecture-mini-cex-diagnostic-advantage.md) — related

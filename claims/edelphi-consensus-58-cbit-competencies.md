@@ -53,3 +53,4 @@ Three-round e-Delphi study (March–May 2024) with an international expert panel
 - [Two rounds of Delphi expert consultation with 22 experts demonstrate significant consensus and refine the retraining program from 9 to 11 learning modules.](delphi-consultation-refines-retraining-program-modules.md) — related
 - [A two-round modified Delphi process with a 36-physician voting panel finalized 32 high-priority mental health competencies for HPM physicians.](delphi-finalized-32-mental-health-competencies.md) — related
 - [In Round 1 at least 80% of experts fundamentally agreed with the preliminary competencies, but suggested amendments that led to revisions, additions, and renaming of the Soft Skills area](round1-high-agreement-with-amendments.md) — related
+- [A Delphi panel of 24 simulation center heads in China reached consensus on 24 evaluation items across six categories, forming the STRIVE model](delphi-consensus-24-items-strive-hsc.md) — related

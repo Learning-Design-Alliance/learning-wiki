@@ -54,3 +54,4 @@ Prospective educational intervention at a national residency training base: 30 r
 - [A 3-week high-fidelity mitral valve repair simulation program improved residents' scores on all 11 OSATS assessment points and reduced completion time](joyce-mvr-osats-improvement.md) — related
 - [All training groups improved repair times with repeated exposure to the simulator](repeated-exposure-improves-durotomy-repair-times.md) — related
 - [After 12 months of AI-enhanced platform training, obstetrics and gynecology residents improved significantly across all four competency dimensions, with the largest gains in clinical reasoning and clinical skills](ai-progressive-training-four-dimension-competency-gains.md) — related
+- [Coached simulation sessions are rare across all training levels, and practice rates decline substantially after PGY-3](minimal-coached-simulation-sessions.md) — related

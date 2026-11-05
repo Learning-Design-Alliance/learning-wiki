@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2012
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: liu-et-al-2012
     resource: "https://eric.ed.gov/?id=EJ989211"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2012 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Post-test total scores differed significantly between groups (t = 3.798, p = .000), while pre-test total scores did not (t = 1.476, p = .145). [→ Liu et al. 2012](#liu-et-al-2012)

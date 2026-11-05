@@ -67,3 +67,4 @@ t-test for independent samples on post-test Geography Achievement Test scores of
 - [The article infers male students performed better than female students using WBI, although its reported gender comparison was not statistically significant](wbi-gender-difference-inference-unsupported.md) — related
 - [Physics concept understanding is independent of gender when prior understanding is a covariate](physics-concept-understanding-independent-of-gender.md) — related
 - [No statistically significant post-test difference between male and female students within the Prezi experimental group](no-gender-difference-prezi-group-posttest.md) — related
+- [OSPE benefit scores differ by gender (females higher, P = .004) while OSCE benefit scores do not](gender-difference-ospe-benefit-score.md) — related

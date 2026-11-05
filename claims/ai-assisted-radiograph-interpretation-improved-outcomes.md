@@ -52,3 +52,4 @@ The review's abstract-level synthesis reports that "AI-assisted tasks, including
 - [Exposure to AI-assisted training did not impair students' independent radiographic interpretation when AI support was removed](ai-training-did-not-impair-independent-interpretation.md) — related
 - [AI-assisted training did not significantly improve undergraduate dental students' diagnostic scores for proximal caries extension compared with conventional radiology training](ai-training-no-gain-dental-caries-diagnostic-scores.md) — reports the opposite
 - [Accessing the online caries diagnosis module did not significantly improve dental students' radiographic diagnostic accuracy](online-module-no-accuracy-gain-caries.md) — related
+- [Dental students' pathology diagnosis on DPRs rose from pre-test to post-test after e-learning modules in one uncontrolled pre-post study, though complex odontoma remained challenging for some](pathology-diagnosis-improvement-dpr.md) — related

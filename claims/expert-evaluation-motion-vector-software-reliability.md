@@ -68,3 +68,4 @@ Thirty-one experienced physics teachers (at least five years' experience) rated 
 - [AEEGS scores show high absolute agreement with 12 human expert raters' scores on mathematical Economics essay items (average-measures ICC = 0.863)](aeegs-high-agreement-human-raters-icc-0863.md) — related
 - [The basic science process skills test used showed a Cronbach's Alpha of 0.876 across 10 items](basic-science-process-skills-test-reliability-0876.md) — related
 - [Expert validators rated the Corel VideoStudio Pro X7-based media very valid (97.7% material expert, 76.5% media expert) and a limited trial group rated it 93.06%](corel-videostudio-media-expert-validation-ratings.md) — related
+- [The European Prescribing Exam demonstrates adequate reliability and content validity in pilot administration](european-prescribing-exam-psychometric-quality.md) — related

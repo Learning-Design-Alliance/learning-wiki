@@ -9,7 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2024
-source_checked: 2026-10-25
+source_checked: 2026-11-05
 sources:
   - id: hu-2024
     resource: "https://doi.org/10.1037/edu0000895"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2024 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students exposed to peers' enjoyment reported higher mastery-approach goals than those exposed to peers' neutral state and peers' frustration, with no group differences in performance-approach or performance-avoidance goals. [→ Hu 2024](#hu-2024)

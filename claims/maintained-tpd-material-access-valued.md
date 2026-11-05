@@ -9,7 +9,6 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2021
-source_checked: 2026-10-28
 sources:
   - id: heap-2021
     resource: "https://doi.org/10.1007/s11423-020-09863-5"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2021 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In a faculty development program redesigned to be delivered digitally during the pandemic, opportunities for networking and the ability to review and maintain access to TPD materials and their community of practice were highly valued by faculty attendees. [→ Heap 2021](#heap-2021)

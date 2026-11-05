@@ -54,3 +54,4 @@ Pearson correlation analysis (Table 8) in the cross-sectional survey of 134 inte
 - [Knowledge scores are positively associated with self-reported screening and counselling practice among dental interns](knowledge-practice-association-dental-interns-opmd.md) — related
 - [Self-perceived competency correlates moderately with self-reported practice behavior, while objective knowledge correlates negatively with practice behavior](scs-cpbs-positive-okto-cpbs-negative-correlation.md) — related
 - [Self-efficacy and objectively assessed handover performance show no significant correlation in the Team FIRST cohorts](no-correlation-self-efficacy-handover-performance.md) — reports the opposite
+- [Self-confidence scores show a positive but non-significant correlation with exam performance in this cohort](confidence-exam-correlation-non-significant.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2021
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: kızkapan-2021
     resource: "https://doi.org/10.29333/pr/10949"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
-> **Currency** · newest study 2021 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Semi-structured interviews with six EETAM students yielded categories for certain knowledge, omniscient authority and innate ability. [→ Kızkapan 2021](#kzkapan-2021)

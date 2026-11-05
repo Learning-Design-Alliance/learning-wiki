@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: karaca-and-koray-2017
     resource: "http://dx.doi.org/10.14689/ejer.2017.67.12"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The experimental group scored significantly higher than the control group on fluency (t(37)=2.09, p<.05), flexibility (t(37)=4.006, p<.01), originality (t(37)=3.08, p<.01) and elaboration (t(37)=3.07, p<.01). [→ Karaca and Koray 2017](#karaca-and-koray-2017)

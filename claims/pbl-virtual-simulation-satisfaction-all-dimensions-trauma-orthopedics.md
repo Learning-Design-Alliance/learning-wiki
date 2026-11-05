@@ -64,3 +64,5 @@ Dimension-level teaching satisfaction results in the same assessor-blinded RCT o
 - [PA-PBL and control students reported comparable course satisfaction and self-evaluated competencies](pa-pbl-control-comparable-subjective-evaluations.md) — reports the opposite
 - [Students in the 3D-PBL-annotation group report higher satisfaction with learning motivation, academic atmosphere, teacher-student interaction, and knowledge absorption](3d-pbl-annotation-higher-satisfaction.md) — related
 - [Live-video teaching significantly boosts students' self-evaluated learning outcomes across all five measured aspects](ltm-self-evaluated-learning-outcomes.md) — related
+- [Students taught with PBL combined with 3D-VRT rated teaching methods higher than students taught traditionally](pbl-3d-vrt-higher-student-teaching-evaluations.md) — related
+- [PBL combined with 3D-VRT produced higher overall teaching satisfaction than traditional teaching across all six questionnaire components](pbl-3d-vrt-higher-teaching-satisfaction.md) — related

@@ -56,3 +56,4 @@ Qualitative thematic analysis of reflective narratives from 103 students, coded 
 - [First-year residents describe VR simulation as a safe and flexible learning tool for training in emergency care](residents-perceive-vr-safe-flexible-emergency-care.md) — related
 - [Perceived realism and transferability to clinical practice influenced residents' motivation to use VR simulation](realism-transferability-shape-vr-motivation.md) — related
 - [Medical students experienced strong immersion in VR simulation due to realistic environments, but reduced interactivity constrained authenticity](vr-immersion-strong-but-interactivity-limited.md) — related
+- [All 37 respondents affirmed that OSCEai filled a gap in their medical training](osceai-fills-training-gap.md) — related

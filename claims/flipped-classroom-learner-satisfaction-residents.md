@@ -86,3 +86,4 @@ Learner-group subgroup analysis for satisfaction (Fig. 6B): undergraduates SMD =
 - [Active learning and team-based learning interventions have not consistently improved shelf exam scores](active-learning-no-consistent-shelf-improvement.md) — related
 - [Flipped classroom students report more positive perceptions of resources, effort, and overall learning environment on the AEEMI](flipped-classroom-positive-aeemi-perceptions.md) — related
 - [Students rated the flipped classroom more positively than the traditional classroom, but the satisfaction difference was not statistically significant](fc-satisfaction-higher-not-significant.md) — reports the opposite
+- [Students rated OSCEai favourably compared to lecture-based teaching methods (4.14/5, P < 0.0001)](osceai-favoured-over-lecture-teaching.md) — related

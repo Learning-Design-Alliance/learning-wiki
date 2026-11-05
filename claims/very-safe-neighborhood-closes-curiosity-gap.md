@@ -9,7 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2023
-source_checked: 2026-10-19
+source_checked: 2026-11-05
 sources:
   - id: shah-pe-2023
     resource: "https://doi.org/10.3389/fpsyg.2023.986221"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
-> **Currency** · newest study 2023 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Lower-resourced children in very safe neighborhoods showed curiosity above the mean, commensurate with middle- and higher-resourced children, whereas in fairly safe neighborhoods their curiosity was below the mean (M = −0.19 vs M = 0.11, p = 0.003). [→ Shah PE 2023](#shah-pe-2023)

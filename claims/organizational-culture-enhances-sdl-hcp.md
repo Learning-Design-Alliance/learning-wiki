@@ -52,3 +52,4 @@ The review's narrative synthesis of 34 studies involving over 5,700 healthcare p
 - [Social interactions and the learning environment significantly shape SDL behaviors and attitudes among healthcare professionals](social-interactions-learning-environment-shape-sdl.md) — related
 - [Guidance and Development Policy Instruments Are Individually Insufficient for Instructional Change](guidance-development-instruments-insufficient-alone.md) — related
 - [Teamwork, collaborative work, interactivity, and networking are the most frequently reported physician facilitators of SDL, while medicine's on-the-job learning culture is the most cited social-influences barrier](social-influences-teamwork-facilitates-sdl.md) — related
+- [Managers identified challenges limiting peer learning, including weak teamwork culture, absent management development strategies, and restricted structured interactions](peer-learning-challenges-iranian-hospital-managers.md) — related

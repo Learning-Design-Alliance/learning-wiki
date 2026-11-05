@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 239 claims (126 show a difference, 56 mixed, 57 no difference) · 189 studies (81 associational, 75 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 32 of 189 report an effect size · 238 claims rest on one study
+> **Evidence** · 242 claims (127 show a difference, 58 mixed, 57 no difference) · 190 studies (82 associational, 75 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 32 of 190 report an effect size · 241 claims rest on one study
 
 ## How to read this page
 
@@ -324,6 +324,9 @@ A learner's economic and social position: family income or poverty (often measur
 - [The share of low-income students in a grade is negatively associated with proficiency across all school levels](../claims/low-income-share-negative-proficiency.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [First-generation and non-first-generation students benefit from learner-centered practices at different quartiles: non-FGN more at medium-high, FGN more at high levels](../claims/fgn-interaction-learner-centered-exam.md) [~M] — an instructional effect differs by group
 - [Gender, socioeconomic status, stress level and DREEM atmosphere score were not significant independent predictors of performance](../claims/null-multivariate-predictors-gender-ses-stress-atmosphere.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Family income positively predicts spatial ability in high school students](../claims/family-income-predicts-spatial-ability-adolescents.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Parental education is associated with increased left premotor cortex activation during mental rotation, but family income is not](../claims/parental-education-premotor-activation-mental-rotation.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Parental education, but not family income, predicts STEM GPA in high school students](../claims/parental-education-predicts-stem-gpa.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

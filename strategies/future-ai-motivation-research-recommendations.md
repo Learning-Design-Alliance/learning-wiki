@@ -51,6 +51,7 @@ The review's forward-looking recommendations urge researchers to move "beyond is
 - [Future gamification research should be qualitative or mixed and include educators' perspectives](future-gamification-research-qualitative-educator-perspectives.md)
 - [Future research should test design strategies targeting a broader range of motivational constructs, such as confidence, relatedness, and autonomy](broaden-motivational-constructs-beyond-interest-enjoyment.md)
 - [Use theory-driven framing of instructor talk as a first step before testing effects on student motivation](theory-driven-framing-before-talk-effects-testing.md)
+- [Future CT-in-ELT research should prioritise inclusive, data-driven, longitudinal approaches integrating pedagogical experimentation and sociocultural perspectives](ct-elt-future-research-recommendations.md)
 
 ## Examples
 -

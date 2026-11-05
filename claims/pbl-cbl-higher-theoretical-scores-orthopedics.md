@@ -62,3 +62,4 @@ Meta-analysis of 14 studies (920 students) comparing PBL-CBL with LBL in orthope
 - [MDT-CDIO integrated teaching yields higher theoretical assessment scores than traditional teaching in orthopedic clinical education](mdt-cdio-higher-theoretical-assessment-scores.md) — related
 - [Case review-based learning improves orthodontic examination scores compared with lecture-based learning](cbl-improves-orthodontic-exam-scores.md) — related
 - [PBL-FC students achieve higher ophthalmology theoretical examination scores than traditionally taught students](pbl-fc-higher-exam-scores.md) — a narrower finding that bears on this claim
+- [WeChat-based PBL students scored lower on memorization but higher on understanding and knowledge application than traditional-teaching peers in ophthalmology](wechat-pbl-exam-cognitive-levels-ophthalmology.md) — related

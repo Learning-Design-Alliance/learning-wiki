@@ -53,6 +53,7 @@ The article's implementable session recipe: an orientation introducing the study
 - [Structure remote MR tutorials as baseline assessment, metrics-based feedback and deliberate practice, preceded by device familiarisation training](hololens-familiarisation-plus-metrics-feedback-deliberate-practice.md)
 - [Include an immediate, structured debriefing session with descriptive, analysis and application phases in every high-fidelity simulation training](immediate-structured-debriefing-hf-simulation.md)
 - [Structure a simulation-based mastery learning program as sequential steps: video tutorial, MCQ with feedback, supervised practice, then repeated self-directed practice with video-based assessment](sbml-sequential-training-protocol-probing.md)
+- [Simulation-based mastery learning course with at-home simulator practice supported by written and video instructions](sbml-course-home-practice-video-instructions.md)
 
 ## Examples
 -

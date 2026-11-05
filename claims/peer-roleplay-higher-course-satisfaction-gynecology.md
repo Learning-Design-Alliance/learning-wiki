@@ -50,3 +50,4 @@ Post-course Likert-scale (1–5) satisfaction survey administered to both cohort
 - [Blended learning interns reported significantly higher satisfaction than traditional-group interns across all five evaluated dimensions](blended-radiology-assistant-higher-satisfaction-all-dimensions.md) — related
 - [MDT-CDIO integrated teaching yields higher student satisfaction across all five evaluated dimensions than traditional teaching](mdt-cdio-higher-satisfaction-all-dimensions.md) — related
 - [Evidence on simulated patients versus peer role play is mixed: equal competence in one randomised trial, higher skills and satisfaction for SPs in others](sp-versus-peer-role-play-mixed.md) — related
+- [Intervention students report higher educational satisfaction than controls after structured reflective sessions](reflective-sessions-increase-satisfaction.md) — related

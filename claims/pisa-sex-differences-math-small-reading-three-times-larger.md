@@ -111,3 +111,4 @@ Same PISA secondary analysis, Results section. The article reports the average r
 - [Male students showed a larger descriptive effect size (ES = +0.36) than female students (ES = +0.22), but the difference was not statistically significant](air-reading-gender-difference-not-significant.md) — related
 - [Self-affirmation eliminated the female reading advantage over boys observed in the comparison group](self-affirmation-erased-female-reading-advantage.md) — related
 - [A female reading advantage was found, but males outperformed females in math and science in lower- and upper-income groups](gender-advantage-reading-not-math-science.md) — a narrower finding that bears on this claim
+- [Male students report slightly higher classroom engagement than female students in the sample](gender-gap-engagement-boys-higher.md) — related

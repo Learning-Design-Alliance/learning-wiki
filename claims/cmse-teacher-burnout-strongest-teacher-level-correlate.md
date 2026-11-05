@@ -56,3 +56,4 @@ Random-effects meta-analysis of teacher-level factors across the 87 included stu
 - [Hardiness is negatively associated with reduced academic accomplishment](hardiness-negative-reduced-accomplishment.md) — related
 - [Burnout and work engagement are the strongest correlates of teacher wellbeing](burnout-engagement-strongest-correlates.md) — related
 - [Emotional exhaustion and depersonalization show no significant bivariate correlation with patient safety competency](burnout-dimensions-null-bivariate-psc.md) — related
+- [Burnout affects up to 70% of residents and negatively affects clinical performance and decision-making](resident-burnout-up-to-70-percent-impairs-performance.md) — related

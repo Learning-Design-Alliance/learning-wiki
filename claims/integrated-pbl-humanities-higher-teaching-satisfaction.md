@@ -48,3 +48,4 @@ Teaching satisfaction was assessed with a single-item question rated as very sat
 - [Residents report greater satisfaction with PBL-based teaching than with LBL in Chinese standardized residency training](pbl-higher-teaching-satisfaction-chinese-srt.md) — related
 - [IWCL+CBL students report higher satisfaction with the teaching model than LBL+CBL students](iwcl-cbl-higher-teaching-satisfaction.md) — related
 - [Students in the SCL group report greater satisfaction than those in the LBL group](scl-greater-student-satisfaction.md) — related
+- [Course satisfaction does not differ significantly between the CBL+MOC and traditional CBL teaching models](cbl-moc-satisfaction-unaffected.md) — related

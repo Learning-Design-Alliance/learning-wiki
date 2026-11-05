@@ -58,3 +58,4 @@ The authors' narrative review of prior concordancing and data-driven learning st
 - [Corpus-based DDL activities outperformed traditional activities for learning verb-adverb collocations in a Macedonian university study](ddl-collocations-daskalovska.md) — a narrower finding that bears on this claim
 - [DDL effects are consistent under specific conditions: limited native-speaker instructors, higher-level learners, both computer- and paper-based concordancing, and vocabulary/lexicogrammar uses](ddl-effective-conditions.md) — related
 - [Corpus-based DDL shows large effects on L2 learning outcomes in meta-analytic evidence](ddl-meta-analysis-large-effects.md) — related
+- [The frequency-analysis corpus method produced the highest immediate retention of medical terminology right after instruction](frequency-method-highest-immediate-retention.md) — related

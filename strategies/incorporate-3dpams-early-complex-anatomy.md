@@ -51,6 +51,7 @@ The review recommends deploying 3DPAMs in the first years of medical school and 
 ## Related Strategies
 
 - [Design future sectional anatomy sessions to be more multimodal and collaborative](future-sessions-more-multimodal-and-collaborative.md)
+- [Use digitized 3D anatomical models and VR/AR as supplements or alternatives to cadaver-based anatomy teaching](vr-ar-digitized-anatomical-models-supplement-alternative-cadavers.md)
 
 ## Examples
 -

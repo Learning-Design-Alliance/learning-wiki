@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: mahdiyeh-seyed-beheshti-nasab-seyyed-fariborz-pishdadi-motlagh-2015
     resource: "https://doi.org/10.7575/aiac.alls.v.6n.3p.166"
@@ -41,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2015 · checked against its sources 2026-11-01 (automated, 3 of 3 entries) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The metacognitive group's mean reading score (39) exceeded the social/affective group's (30.26) and the cognitive group's (24.76). [→ Mahdiyeh Seyed Beheshti Nasab & Seyyed Fariborz Pishdadi Motlagh 2015](#mahdiyeh-seyed-beheshti-nasab-seyyed-fariborz-pishdadi-motlagh-2015)

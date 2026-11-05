@@ -58,6 +58,7 @@ The authors recommend integrating TBL with other teaching methods such as Proble
 - [Case study method combined with project method for developing independent cognitive activity](case-study-project-method-informatics.md)
 - [Integrate BOPPPS, flipped classroom, and case-based learning into a single pedagogical model for residency training](integrate-boppps-fc-cbl-single-model-residency.md)
 - [Design interactive online tasks oriented towards questions or cases aligned with deep-learning goals](design-question-case-oriented-interactive-tasks.md)
+- [Reform TDI residency training with blended learning, simulation-based training, and competency-based assessment](blended-simulation-competency-tdi-training-reform.md)
 
 ## Examples
 -

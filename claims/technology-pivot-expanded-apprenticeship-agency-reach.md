@@ -50,3 +50,4 @@ Qualitative findings from virtual discussion groups with apprenticeship administ
 - [Training providers and instructors faced logistical challenges moving in-person apprenticeship training online but adapted quickly](providers-adapted-in-person-training-online.md) — related
 - [Online apprenticeship learning offers greater flexibility than in-person learning despite implementation challenges for hybrid or remote options](online-apprenticeship-learning-flexibility-tradeoffs.md) — related
 - [The study treats data infrastructure and performance measurement as a dimension of state apprenticeship expansion and success](data-infrastructure-performance-measurement-dimension.md) — related
+- [Stakeholders call for expanded investment and faculty development (administrators), intensified instructor training and standardized processes (instructors), and better scheduling and methods (learners)](stakeholder-suggestions-improve-sbme.md) — related

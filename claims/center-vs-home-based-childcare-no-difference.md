@@ -48,3 +48,4 @@ A posteriori analysis applying a 3-level treatment group (center-based, licensed
 - [Household income and maternal work status moderated the childcare–higher education association: formal childcare increased enrollment probability only for low-income and non-working families](childcare-effect-moderated-by-income-work-status.md) — related
 - [Children who attended informal childcare at 24–36 months were more likely to pursue higher education than children who attended formal childcare (Canadian 1994–95 cohort)](informal-childcare-higher-education-advantage.md) — related
 - [Higher weekly childcare dosage was associated with lower probability of higher education enrollment](childcare-dosage-negative-association.md) — related
+- [Neither child sex nor early childcare attendance moderates the genetic pathways to academic achievement](no-sex-childcare-moderation-genetic-pathways.md) — related

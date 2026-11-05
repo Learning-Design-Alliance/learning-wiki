@@ -54,3 +54,4 @@ Questionnaire surveys administered after PBL teaching in the included studies, r
 - [PBL teaching improves problem-solving, independent learning, teamwork, communication and clinical reasoning abilities more than traditional teaching in orthopaedics education](pbl-improves-process-abilities-orthopaedics.md) — related
 - [PBL-CBL outperforms LBL on subjective comprehensive competencies including self-learning, interest, efficiency, clinical thinking, teamwork, and communication](pbl-cbl-subjective-competencies-orthopedics.md) — related
 - [The process evaluation found PBL developed pupils' oracy, communication, teamwork and research skills](pbl-process-evaluation-skills-benefits.md) — related
+- [Students in the WeChat-based PBL group reported more favorable perceptions of motivation, knowledge acquisition, communication, self-learning, clinical thinking, and problem-solving than traditional-teaching students](wechat-pbl-student-perceptions-favorable.md) — related

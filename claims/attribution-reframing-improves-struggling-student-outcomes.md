@@ -9,7 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-21
+source_checked: 2026-11-05
 sources:
   - id: shan-li-2026
     resource: "https://doi.org/10.1007/s10648-025-10114-3"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review reports, citing Hamm et al. (2020), that an intervention reframing causal attributions for academic setbacks among 496 college students in STEM disciplines significantly increased graduation rates for students at risk of dropout. [→ Shan Li 2026](#shan-li-2026)

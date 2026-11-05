@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: hazaea-and-alzubi-2017
     resource: "https://eric.ed.gov/?id=EJ1171140"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-03 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Critical discourse analysis (explanation) questionnaire means rose from 2.46 to 3.70 and test means from 1.38 to 3.28, significant at .000; a paired-samples t-test comparing post questionnaire and posttest scores was significant only for explanation (.019). [→ Hazaea and AlZubi 2017](#hazaea-and-alzubi-2017)

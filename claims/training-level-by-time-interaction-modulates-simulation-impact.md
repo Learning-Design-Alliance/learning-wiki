@@ -51,3 +51,4 @@ Two-way repeated-measures ANOVA (Time Weeks 1-4 and Task Module Modules 1-4 with
 - [By the end of a four-week structured simulator curriculum, task completion times of PGY-1, PGY-2, and PGY-3 residents no longer differ significantly, indicating skill convergence.](skill-convergence-across-pgy-levels-after-simulator-training.md) — related
 - [The pork-based simulation model stratifies surgical competency across PGY levels](pork-model-stratifies-competency-pgy-levels.md) — related
 - [After 12 months of AI-enhanced platform training, obstetrics and gynecology residents improved significantly across all four competency dimensions, with the largest gains in clinical reasoning and clinical skills](ai-progressive-training-four-dimension-competency-gains.md) — related
+- [Coached simulation sessions are rare across all training levels, and practice rates decline substantially after PGY-3](minimal-coached-simulation-sessions.md) — related

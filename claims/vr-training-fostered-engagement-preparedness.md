@@ -53,3 +53,4 @@ Thematic analysis under the ITEM motivation domain of interviews with 11 medical
 - [AI-enhanced simulation in high-acuity nursing training improves clinical confidence and emergency preparedness](ai-simulation-improves-clinical-confidence-nursing.md) — related
 - [Perceived realism and transferability to clinical practice influenced residents' motivation to use VR simulation](realism-transferability-shape-vr-motivation.md) — possibly the same claim (merge candidate)
 - [Clinical students perceived VR-based training as a complementary method that enhances proficiency, confidence, and access](vtracs-perceived-complementary-proficiency-enhancement.md) — related
+- [Pass/fail grading reforms show mixed outcomes, including reduced anxiety but possible lowered residency preparedness and a shadow economy of effort](pass-fail-grading-mixed-outcomes-shadow-economy.md) — related

@@ -55,3 +55,4 @@ Post-rotation questionnaire study of 64 maternity nursing students using Jeffrie
 - [Most nurses expressed satisfaction with the AMS course content and its relevance to everyday practice](nursing-ams-course-satisfaction-relevance.md) — related
 - [Only about one in five student midwives strongly agreed that clinical objectives were clearly displayed in the unit](unclear-clinical-objectives-units.md) — related
 - [Content validity of the Endonix simulator is merely sufficient, with realism ratings lowest among experienced endoscopists](endonix-limited-content-validity-realism.md) — related
+- [Residents generally agreed with the simulator's anatomical appearance and functional fidelity, with only 5 of 22 fidelity items rated below 3 on a 4-point scale](simulator-fidelity-ratings-mostly-agree.md) — related

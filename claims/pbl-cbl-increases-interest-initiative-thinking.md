@@ -56,3 +56,4 @@ A 10-item self-developed questionnaire administered to all 50 residents showed t
 - [Residents taught with integrated 3D visualization and PBL report higher teaching satisfaction across most survey items](3d-visualization-pbl-higher-satisfaction-pcc.md) — related
 - [Higher engagement with case-based learning is significantly associated with greater satisfaction, better understanding, and enhanced perceived skills](cbl-engagement-associated-with-satisfaction-and-perceived-benefits.md) — related
 - [PBL interns report higher self-efficacy, instructional satisfaction, and perceived critical-thinking improvement than lecture-taught interns](pbl-self-evaluated-learning-gains-esophageal.md) — related
+- [Students in the WeChat-based PBL group reported more favorable perceptions of motivation, knowledge acquisition, communication, self-learning, clinical thinking, and problem-solving than traditional-teaching students](wechat-pbl-student-perceptions-favorable.md) — related

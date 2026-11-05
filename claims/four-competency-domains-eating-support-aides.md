@@ -47,3 +47,4 @@ Two-round modified Delphi study with a purposively sampled 26-expert panel; cons
 ## Related Claims
 - [In Delphi round 1, all four competency categories showed limited consensus, with Category 1 (assessment of chewing and swallowing functions) showing the lowest agreement (CV = 0.27, CDI = 0.22).](round1-low-consensus-all-categories.md) — related
 - [In Delphi round 2, all competency domains scored above 4.69 in mean importance with Consensus Deviation Index values between 0.06 and 0.10, meeting the pre-set consensus threshold.](round2-consensus-cdi-threshold-met.md) — related
+- [A Delphi panel of 24 simulation center heads in China reached consensus on 24 evaluation items across six categories, forming the STRIVE model](delphi-consensus-24-items-strive-hsc.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2023
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: yun-jungmi-2023
     resource: "https://doi.org/10.1186/s12909-023-04495-8"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2023 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Classroom-based studies achieved SBAR fidelity of 71–87% with moderate to considerable clarity improvements, while clinical-setting studies showed fidelity of 53–83% with no or only moderate improvements; the ranges overlap, the figures come from prior studies the review cites, and no moderation analysis was run. [→ Yun Jungmi 2023](#yun-jungmi-2023)

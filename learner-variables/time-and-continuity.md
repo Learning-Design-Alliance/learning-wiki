@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 211 claims (139 show a difference, 47 mixed, 25 no difference) · 180 studies (90 causal, 39 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 37 of 180 report an effect size · 207 claims rest on one study
+> **Evidence** · 212 claims (140 show a difference, 47 mixed, 25 no difference) · 181 studies (90 causal, 40 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 37 of 181 report an effect size · 208 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -268,6 +268,7 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Bullying and punitive teacher behavior increase chronic absenteeism while household work and family income reduce it](../claims/bullying-punitive-behavior-increase-chronic-absenteeism.md) [~M] — measured as an outcome of the instruction studied
 - [A BLS practical examination does not confer a significant advantage in overall skill retention over additional practice with continuous assessment among fifth-year medical students](../claims/bls-practical-exam-no-advantage-over-additional-practice.md) [-M] — measured as an outcome of the instruction studied
 - [Student attendance is significantly and moderately lower in remote discussion sections than in in-person sections](../claims/remote-sections-lower-attendance.md) [+W] — measured as an outcome of the instruction studied
+- [No absenteeism, preschool attendance and higher monthly income each significantly predicted better academic performance in the adjusted model](../claims/attendance-preschool-income-predict-academic-performance-ethiopia.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2020
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: karadeniz-2020
     resource: "https://doi.org/10.36681/tused.2020.23"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2020 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Per-book diary findings show that between 24 and 29 of the 30 experimental-group students stated each of the 12 books (9 science fiction and 3 non-science-fiction books that fictionalize the past) increased their science curiosity. [→ Karadeniz 2020](#karadeniz-2020)

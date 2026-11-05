@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: weak
 newest_evidence: 1966
+source_checked: 2026-11-05
 sources:
   - id: glaser-1966
     resource: "https://eric.ed.gov/?id=ED010518"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
-> **Currency** · newest study 1966 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1966 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 <!-- title before 2026-10-15: Rule-example expository sequences appeared highly efficient for introducing a new rule in early programmed-instruction work -->
 

@@ -49,3 +49,5 @@ Descriptive results from the practice items (P1–P5); P2 and P3 were analyzed o
 - [Most students express positive attitudes and willingness toward virtual simulation training, but a substantial minority doubt it can match real clinical practice](student-attitudes-virtual-simulation-survey.md) — related
 - [Virtual simulations are less effective than mannequins or real persons for procedural skills among nursing participants](vs-less-effective-procedural-skills-nursing.md) — related
 - [Residents strongly prefer VR as an adjunct to conventional training rather than a replacement (89% support adjunct use; only 3.4% prefer VR alone)](residents-prefer-vr-as-adjunct.md) — related
+- [Most residents believe additional simulated laparoscopic training would positively impact their operative autonomy, yet few practice regularly](residents-believe-simulation-improves-autonomy.md) — related
+- [Intervention-group students with knowledge about simulation, desire for simulation education, or belief in its usefulness reported higher satisfaction and self-confidence](simulation-attitudes-linked-satisfaction.md) — related

@@ -50,6 +50,7 @@ The article recommends that LLM use in foundational biomedical education focus o
 - [Use LLMs in medical education as support tools requiring human review, not as independent decision-makers or authoritative instructors](llms-as-support-tools-medical-education.md)
 - [Use LLMs in supervised settings to generate formative question variants and structured self-assessments for surgical trainees, while guarding against knowledge miscalibration.](supervised-llm-formative-question-generation-surgical-training.md)
 - [Cross-verify LLM answers using multiple models to reduce the risk of overconfident misinformation](cross-verification-multiple-llm-models.md)
+- [Use advanced LLMs as assistive tools in dental education and practice, with comprehensive validation, strict regulation, and human supervision before deployment](llm-assistive-dental-education-strategy.md)
 
 ## Examples
 -

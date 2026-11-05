@@ -9,7 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: weak
 newest_evidence: 2025
-source_checked: 2026-10-25
+source_checked: 2026-11-05
 sources:
   - id: asher-2025
     resource: "https://doi.org/10.1037/edu0000921"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i0` negligible
-> **Currency** · newest study 2025 · checked against its sources 2026-10-25 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i0` The choice manipulation decreased distraction by .15 standard deviations relative to control (d = −0.15, p = .017). [→ Asher 2025](#asher-2025)

@@ -61,3 +61,4 @@ The review's narrative synthesis of included-study results, attributed to specif
 - [Regular ISS over longer periods was reported for complex practices and patient outcomes, while one to three sessions were reported effective for more easily defined or isolated tasks](iss-frequency-matches-task-complexity.md) — related
 - [Simulated-patient and expert rating convergence may depend on comprehensive simulated-patient training](simulated-patient-training-supports-expert-congruence.md) — related
 - [Repeated deliberate practice over 20 virtual patient cases improves diagnostic justification, test ordering, cognitive errors, and misdiagnosis rates without plateau](deliberate-practice-improves-cr-no-plateau.md) — related
+- [Higher GAI temperature setting (0.9) was associated with higher student ratings of virtual simulated patients, with a small effect](gai-temperature-0-9-higher-ratings.md) — related

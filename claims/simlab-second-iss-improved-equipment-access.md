@@ -56,3 +56,4 @@ Participant self-report in the session 3 group interview following the second IS
 - [In situ simulation improved teamwork behaviours in 12 of 14 domains during the simulation phase, but benefits returned to baseline when the program was discontinued](in-situ-simulation-teamwork-gains-lost-without-continuation.md) — related
 - [In-situ simulation identified latent safety threats in all categories, leading to changes in unit protocols](in-situ-simulation-identifies-latent-safety-threats.md) — a broader claim this one bears on
 - [In-situ simulation training significantly improves self-efficacy for managing outpatient hysteroscopy emergencies across multiple domains](in-situ-simulation-improves-self-efficacy-outpatient-hysteroscopy-emergencies.md) — related
+- [In situ simulations identified latent safety threats on the unit, which were reviewed with leadership and addressed through mitigation strategies](in-situ-simulation-latent-safety-threats.md) — related

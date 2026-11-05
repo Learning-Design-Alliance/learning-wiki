@@ -56,6 +56,7 @@ The article recommends integrating wellness strategies into existing coursework 
 - [Integrate grief training throughout the medical curriculum using interdisciplinary collaborations and experiential learning opportunities](integrate-grief-training-throughout-curriculum.md)
 - [Implement integrated stress-management strategies and structured physical activity programmes for medical students in military institutions](integrated-stress-management-structured-pa-military-medical-students.md)
 - [Sustain engagement across the programme with system-level reforms, collaborative and experiential activities, and stimulating environments](sustain-engagement-system-level-strategies.md)
+- [Universities should implement targeted mental health services, stress management programs, and physical activity promotion for health-professional students](university-wellbeing-services-strategy-saudi-pt-students.md)
 
 ## Examples
 -

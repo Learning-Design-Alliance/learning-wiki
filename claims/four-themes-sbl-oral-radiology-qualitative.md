@@ -56,3 +56,4 @@ Qualitative thematic analysis of open-ended responses independently coded by two
 - [Thematic analysis of 120 free-form comments identified four themes: improved learning experience, engagement, collaborative learning and skill development](cartooning-feedback-four-themes.md) — related
 - [Students identified hands-on learning, debriefing and facilitator continuity as the key beneficial features of the pre-foundation simulation course](simulation-course-features-hands-on-debriefing-continuity.md) — related
 - [Thematic analysis of focus groups and open-ended responses identified immersion, clinical communication practice and safe decision-making environments as key perceived benefits](vr-pilot-qualitative-benefit-themes.md) — related
+- [Thematic analysis identifies five barrier categories, with professional knowledge the most frequently cited barrier to diabetic foot management](five-barrier-categories-diabetic-foot-nursing.md) — related

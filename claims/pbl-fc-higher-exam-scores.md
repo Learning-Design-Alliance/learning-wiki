@@ -48,3 +48,4 @@ Comparison of ophthalmology theoretical examination scores compiled after comple
 - [PBL-DeepSeek students achieve higher theoretical examination scores than traditionally taught students in a glaucoma clerkship](deepseek-pbl-higher-theory-scores-glaucoma.md) — related
 - [PBL-FC teaching produces significantly higher total self-directed learning ability scores than traditional lecture-based teaching in ophthalmology undergraduates](pbl-fc-higher-total-self-directed-learning.md) — related
 - [PBL-CBL produces significantly higher theoretical knowledge scores than LBL in orthopedic education](pbl-cbl-higher-theoretical-scores-orthopedics.md) — a broader claim this one bears on
+- [WeChat-based PBL students scored lower on memorization but higher on understanding and knowledge application than traditional-teaching peers in ophthalmology](wechat-pbl-exam-cognitive-levels-ophthalmology.md) — related

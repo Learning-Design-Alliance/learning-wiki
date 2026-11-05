@@ -46,3 +46,4 @@ Baseline questionnaire (T1) of 92 students applying a 5-point Likert scale. In T
 ## Related Claims
 - [Working with a GPT-4-based virtual patient e-learning tool improved dental students' self-perceived confidence to perform endodontic diagnostics independently](ai-virtual-patient-improved-endodontic-diagnostic-confidence.md) — related
 - [Use of the AI virtual patient tool was associated with improved self-perceived structured diagnostic approach, initial-diagnosis confidence, and patient-explanation confidence](ai-virtual-patient-structured-approach-gains.md) — related
+- [Only 36.3% of residents feel confident treating traumatized immature teeth while 96.9% want more training](low-confidence-high-training-demand-tdi.md) — related

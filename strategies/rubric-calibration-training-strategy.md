@@ -55,6 +55,7 @@ The review recommends that "Faculty and student training in rubric use is essent
 - [Maximise self-assessment as an alternative teaching and learning strategy in writing classes](self-assessment-writing-class-strategy.md)
 - [Provide at least three repeated practice sessions with expert-answer feedback when training novice raters on standardized assessment scoring](three-practice-sessions-feedback-strategy.md)
 - [Use the structured rubric-aligned feedback format developed in this study to inform faculty marking proformas or assessor training](structured-rubric-feedback-proforma-strategy.md)
+- [Pilot calibration interventions targeting social/communication self-assessment: facilitated video review with checklists, vignette calibration with expert anchors, and pre- to post-feedback self-ratings](osce-calibration-intervention-strategies.md)
 
 ## Examples
 -

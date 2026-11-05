@@ -54,3 +54,5 @@ Brain-behaviour PLS analysis using mean reaction times on the AST as a measure o
 - [Greater emotion dysregulation is associated with increased activation of cognitive-control and visual regions during neutral word trials](emotion-dysregulation-neutral-trial-activation.md) — related
 - [Negative word counting in stressed teachers engages reappraisal-related regions early, without amygdala activation, suggesting regulation of emotional responses](early-reappraisal-engagement-negative-words-teachers.md) — related
 - [Counting teacher-specific negative words uniquely engages the hippocampus late (12–15 s) relative to all other task conditions](late-hippocampal-activation-teacher-specific-negative.md) — related
+- [In experts, greater post-task resting-state activity in attention-related regions is associated with slower, deliberate responses on easy cases](expert-post-task-activity-slower-easy-case-responses.md) — related
+- [Pre-task resting-state behavior-PLS shows no significant brain–performance relationships before the task](pre-task-behavior-pls-no-significant-effects.md) — related

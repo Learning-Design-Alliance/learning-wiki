@@ -56,3 +56,4 @@ Quasi-experimental single-group pretest–posttest study (Hawsawi et al. 2025, S
 - [RAPID-PFA training improved nursing students' perceived competencies, disaster preparedness, helping capacity, and self-efficacy with effects maintained at follow-up](rapid-pfa-improved-student-competencies-maintained.md) — related
 - [An 8-hour online educational program significantly improved emergency nurses' knowledge, skills, and personal preparedness, though scores remained moderate](online-program-improved-knowledge-skills-preparedness.md) — related
 - [Adding a tabletop exercise to lecturing produced consistently greater improvements in nurses' disaster preparedness than lecturing alone](tabletop-plus-lecture-beats-lecture-alone.md) — related
+- [Health professionals achieved a mean of 69.4% correct clinical decisions in an immersive VR hypothermia/helicopter-evacuation ALS scenario](vr-als-hypothermia-mean-69-percent-correct-decisions.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: hamit-yokus-2015
     resource: "https://doi.org/10.12738/estp.2015.1.1917"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2015 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The experimental group scored significantly higher than the control group on total post-test Polyrhythmic Tapping Test scores (p < .001). [→ Hamit Yokus 2015](#hamit-yokus-2015)

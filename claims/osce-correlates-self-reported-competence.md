@@ -54,3 +54,4 @@ Pearson correlation analysis among 97 Tehran Emergency Center personnel; the art
 - [Peer-teaching-based oral exam training (PT-BET) is associated with increased students' confidence in their own competences during exams.](pt-bet-increased-exam-confidence.md) — related
 - [Knowledge scores from the video-and-MCQ phase showed no significant relationship with pre-practice rubric scores (r = 0.052, p = 0.827)](sbml-mcq-knowledge-no-rubric-correlation.md) — reports the opposite
 - [Self‐assessed nutritional competencies did not correlate with actual nutritional knowledge, suggesting a mismatch between perceived and actual proficiency](self-assessment-knowledge-no-correlation.md) — reports the opposite
+- [Self-confidence scores show a positive but non-significant correlation with exam performance in this cohort](confidence-exam-correlation-non-significant.md) — related

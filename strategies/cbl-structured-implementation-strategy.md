@@ -51,6 +51,7 @@ The authors recommend that medical schools implement faculty development program
 - [Implement CBL successfully by ensuring pre-class preparation, authentic progressive cases, dual-competence facilitators, adequate time, and process-plus-outcome assessment](cbl-implementation-success-conditions.md)
 - [Phased implementation, rigorous case development, faculty development, and balanced assessment when adopting BOPPPS-CBL](boppps-cbl-implementation-strategies.md)
 - [Integrate BOPPPS, flipped classroom, and case-based learning into a single pedagogical model for residency training](integrate-boppps-fc-cbl-single-model-residency.md)
+- [Develop structured post-FLS simulation curricula with advanced skills, regular faculty coaching, and early orientation to simulation resources](post-fls-structured-simulation-curricula-strategy.md)
 
 ## Examples
 -

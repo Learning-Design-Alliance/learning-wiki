@@ -53,3 +53,4 @@ Multilevel (3-level) models of Wave-1 and Wave-3 verbal ability in the combined 
 - [Including SES and offspring genome in the same model reduces the education PGS effect by more than 20% and SES effects by about 10–15%, implying 20–30% of parental SES effects are genomic](joint-model-corrects-upward-bias.md) — related
 - [Education and cognitive-ability polygenic scores significantly predict verbal ability, with the education PGS far more robust](pgs-predict-verbal-ability.md) — related
 - [A positive G×E interaction between the education PGS and SES indicates a favorable SES environment enhances the effect of offspring genome](gene-environment-interaction-ses-pgs.md) — related
+- [Parental education, but not family income, predicts STEM GPA in high school students](parental-education-predicts-stem-gpa.md) — related

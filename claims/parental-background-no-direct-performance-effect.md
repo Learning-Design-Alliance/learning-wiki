@@ -73,3 +73,4 @@ Same SEM, Table 2: mother German coefficient -0.276 (SE 0.089, p = 0.002) on M1 
 - [Household and community factors—parenting knowledge, stress, depression, and resource scarcity—may mediate or constrain SES-related differences in input and learning](household-community-factors-constrain-input.md) — related
 - [Within-family Mendelian randomization finds little evidence that mothers' or fathers' educational attainment causally affects children's depressive, anxiety, or ADHD traits at age 8](within-family-mr-little-evidence-parental-education-child-mental-health.md) — related
 - [Secondary school achievement directly predicts early medical school exam performance among admitted students](secondary-school-achievement-predicts-m1-performance.md) — related
+- [Father-headed households showed significantly higher odds of good academic performance compared with mother-headed households](father-head-household-academic-performance-ethiopia.md) — related

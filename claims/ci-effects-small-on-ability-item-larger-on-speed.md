@@ -71,3 +71,4 @@ Same descriptive comparison extended to speed parameters (Figures 3-4) and item 
 - [Rescoring with new item parameters changed average ability estimates negligibly, with new and original scores correlated above 0.99](drift-impact-ability-estimates-negligible.md) — related
 - [Computer-based testing's routine capture of item-level response times has driven increased interest in applications of response time to measuring ability and achievement](computer-based-testing-drives-response-time-interest.md) — related
 - [Ability and speed are negatively correlated, and the reading test's ability estimates are more affected by speed than the math test's](negative-ability-speed-correlation-li52-stronger.md) — related
+- [Guessing parameters were at or near zero for most items in both ChatGPT and instructor tests](guessing-near-zero-both-item-sets.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: şen-2017
     resource: "https://eric.ed.gov/?id=EJ1142503"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After the intervention, 81.1% of experimental-group responses used a problem-solving strategy versus 37.4% of control-group responses, and error types fell from 84.1% to 18.7% in the experimental group versus 89.4% to 62.4% in the control group. [→ Şen 2017](#sen-2017)

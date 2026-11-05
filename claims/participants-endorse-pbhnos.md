@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2016
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: ayşe-sert-çıbık-2016
     resource: "https://eric.ed.gov/?id=EJ1094587"
@@ -41,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2016 · checked against its sources 2026-11-03 (automated, 3 of 3 entries) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 3 of 3 entries) · not reviewed by a person
 > **Design limits** · Ayşe Sert Çıbık 2016 (2): no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims

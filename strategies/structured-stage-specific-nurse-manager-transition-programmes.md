@@ -57,6 +57,7 @@ The article recommends structured training programmes for newly appointed nurse 
 - [Develop structured, standardised transition pathways for IQNs including individualised plans, mentorship, CPD and competency-based recognition of prior expertise](structured-standardised-iqn-transition-pathways.md)
 - [Structured mentorship system in which trained nurse mentors deliver EBP education, bedside teaching and ongoing monitoring](nurse-mentor-ebp-monitoring-strategy.md)
 - [Integrate structured mentorship and reflective coaching alongside technical competency programs to support psychological outcomes](sccdp-mentorship-coaching-supplement-strategy.md)
+- [Screen for SMA and nomophobia and build academic self-efficacy through mastery experiences, role models, feedback, and coaching](ase-building-and-digital-wellbeing-strategy-nursing-interns.md)
 
 ## Examples
 -

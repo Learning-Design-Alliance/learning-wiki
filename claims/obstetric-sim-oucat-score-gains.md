@@ -1,0 +1,70 @@
+---
+type: claim
+title: OUCAT operational skill scores rose significantly from pre-test to post-test after a 4-hour modular simulation course among inexperienced and experienced obstetric ultrasound residents, and gain scores did not differ significantly between groups in a pre-test–post-test study
+description: OUCAT operational skill scores rose significantly from pre-test to post-test after a 4-hour modular simulation course among inexperienced and experienced obstetric ultrasound residents, and gain scores did not differ significantly between groups in a pre-test–post-test study
+id: obstetric-sim-oucat-score-gains
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-05
+evidence_strength: moderate
+newest_evidence: 2025
+sources:
+  - id: zhao-yongfeng-2025
+    resource: "https://doi.org/10.1371/journal.pone.0328122"
+    title: "Zhao Yongfeng, Zhou Ping, Tang Xiaohong, Zhu Wenhui, Liu Wengang, Zhou Jinguang, Wang Jie, Luo Yingchun, Zhang Junhui, Yang Lan, Xu Yan. (2025). Short-term simulation training course improves basic obstetric ultrasound operational skills of residents: A multi-center study. PLoS One 20(12): e0328122. https://doi.org/10.1371/journal.pone.0328122"
+    author: Zhao Yongfeng, Zhou Ping, Tang Xiaohong, Zhu Wenhui, Liu Wengang, Zhou Jinguang, Wang Jie, Luo Yingchun, Zhang Junhui, Yang Lan, Xu Yan
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
+  - id: zhao-yongfeng-2025-2
+    resource: "https://doi.org/10.1371/journal.pone.0328122"
+    title: "Zhao Yongfeng, Zhou Ping, Tang Xiaohong, Zhu Wenhui, Liu Wengang, Zhou Jinguang, Wang Jie, Luo Yingchun, Zhang Junhui, Yang Lan, Xu Yan. (2025). Short-term simulation training course improves basic obstetric ultrasound operational skills of residents: A multi-center study. PLoS One 20(12): e0328122. https://doi.org/10.1371/journal.pone.0328122"
+    author: Zhao Yongfeng, Zhou Ping, Tang Xiaohong, Zhu Wenhui, Liu Wengang, Zhou Jinguang, Wang Jie, Luo Yingchun, Zhang Junhui, Yang Lan, Xu Yan
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
+---
+
+# OUCAT operational skill scores rose significantly from pre-test to post-test after a 4-hour modular simulation course among inexperienced and experienced obstetric ultrasound residents, and gain scores did not differ significantly between groups in a pre-test–post-test study
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Zhao Yongfeng 2025: the intervention came bundled with another change (read from the study by two models, 2026-11-05)
+
+## Subclaims
+`q2 i?` OUCAT scores increased significantly from pre-test to post-test for both inexperienced and experienced trainees (both P < 0.001). [→ Zhao Yongfeng 2025](#zhao-yongfeng-2025)
+`q2 i?` Performance improvement did not differ between inexperienced and experienced trainees (P = 0.213). [→ Zhao Yongfeng 2025 (2)](#zhao-yongfeng-2025-2)
+
+## Evidence
+
+### Zhao Yongfeng 2025
+
+Zhao Yongfeng, Zhou Ping, Tang Xiaohong, Zhu Wenhui, Liu Wengang, Zhou Jinguang, Wang Jie, Luo Yingchun, Zhang Junhui, Yang Lan, Xu Yan. (2025). Short-term simulation training course improves basic obstetric ultrasound operational skills of residents: A multi-center study. PLoS One 20(12): e0328122. https://doi.org/10.1371/journal.pone.0328122
+
+`q2 · i?` · `causal · r1`
+
+Multi-center pre-test–post-test study of 65 residents on the U/S Mentor simulator. Paired comparison showed significant OUCAT gains for both groups, e.g. "from 20.48 ± 10.64 to 61.80 ± 15.40 for inexperienced trainees (P < 0.001)". No effect size printed.
+
+> "OUCAT scores increased from 20.48 ± 10.64 to 61.80 ± 15.40 for inexperienced trainees (P < 0.001), and from 39.83 ± 15.00 to 76.26 ± 12.16 for experienced trainees (P < 0.001)"
+
+### Zhao Yongfeng 2025 (2)
+
+Zhao Yongfeng, Zhou Ping, Tang Xiaohong, Zhu Wenhui, Liu Wengang, Zhou Jinguang, Wang Jie, Luo Yingchun, Zhang Junhui, Yang Lan, Xu Yan. (2025). Short-term simulation training course improves basic obstetric ultrasound operational skills of residents: A multi-center study. PLoS One 20(12): e0328122. https://doi.org/10.1371/journal.pone.0328122
+
+`q2 · i?` · `causal · r1`
+
+Between-group comparison of gain scores in the same pre-test–post-test study found "Performance improvement did not differ between groups" (P = 0.213), addressing the expertise reversal concern for mixed-experience cohorts. Descriptive gains only; no effect size printed.
+
+> "Performance improvement did not differ between groups (41.33 ± 15.47 for inexperienced trainees vs. 36.43 ± 14.32 for experienced trainees, P = 0.213)"
+
+## Discussion
+
+
+## Related Claims
+- [Trainees' self-rated confidence in performing obstetric ultrasound examinations rose significantly from pre-test to post-test after the simulation course, in one uncontrolled pre-post study](obstetric-sim-confidence-gain.md) — related
+- [Post-training performance relative to experts varied by module: inexperienced trainees matched experts in modules 1–3 but stayed inferior in module 4, while experienced trainees outperformed experts in module 3](obstetric-sim-module-specific-mastery.md) — related
+- [After the simulation course, passing rates rose to 90.5% for inexperienced and 97.7% for experienced trainees, while mastery learning rates reached only 23.8% and 70.5% respectively](obstetric-sim-passing-mastery-rates.md) — related

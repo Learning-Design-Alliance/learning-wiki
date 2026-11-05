@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2016
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: bowens-2016
     resource: "https://eric.ed.gov/?id=EJ1119158"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i1` small
-> **Currency** · newest study 2016 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` An ANOVA using the 2013 grade eight Algebra CST as the dependent variable found students with two summers of JEMP scored significantly higher, F(1, 242) = 9.99, p = .002, η2 = .039. [→ Bowens 2016](#bowens-2016)

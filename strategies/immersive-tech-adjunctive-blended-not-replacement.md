@@ -75,6 +75,7 @@ The review recommends a measured adoption strategy: immersive technologies and v
 - [Integrate a mixed reality simulation session as a mid-rotation consolidation supplement to clinical teaching](mr-simulation-mid-rotation-consolidation.md)
 - [Use LLM-based simulation to let trainees practise PFA conversations repeatedly, flexibly, and remotely](llm-simulation-scalable-pfa-practice.md)
 - [Use immersive VR virtual patient scenarios to give pre-clinical and multicultural students safe, repeatable clinical communication practice](vr-safe-practice-preclinical-multilingual-strategy.md)
+- [Integrate immersive VR simulation as a complementary tool in continuing emergency training programs for low-frequency, high-complexity scenarios](vr-complementary-continuing-emergency-training-strategy.md)
 
 ## Examples
 -

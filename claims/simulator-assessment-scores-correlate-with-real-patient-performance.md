@@ -50,3 +50,4 @@ Secondary-outcome correlation analysis across all 22 participants in the RCT (Ta
 - [Residents scored significantly higher on simulator assessments than on assessments with pregnant volunteers at both pre-test and post-test](simulator-scores-higher-than-real-patient-scores.md) — related
 - [OSCE validity correlations with other measures range from very weak to strong, suggesting OSCEs resemble narrow course examinations more than broad clinical practice](pt-osce-validity-correlations-mixed.md) — related
 - [Simulator-based training was more effective than traditional training at improving obstetric ultrasound performance, with large ANCOVA effect sizes](simulator-training-outperforms-traditional-training-obstetric-ultrasound.md) — related
+- [Virtual simulation performance scores correlate strongly with post-training practical performance (r = 0.73)](vs-score-correlates-practical-performance.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-05
 sources:
   - id: özgüven-öztornaci-b-2025
     resource: "https://doi.org/10.1097/MD.0000000000046222"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Overall medication error rate decreased significantly from 55.37% before to 13.52% after the DECP intervention (P < .001). [→ Özgüven Öztornaci B 2025](#ozguven-oztornaci-b-2025)
@@ -48,3 +49,4 @@ Quasi-experimental one-group pretest–posttest study with structured non-partic
 - [Preparation, administration, follow-up, and recording error rates all decreased significantly from pre-test to post-test in one group with no comparison group after the DECP intervention](decp-reduced-four-error-subcategory-rates.md) — related
 - [Most individual medication error sub-steps decreased significantly, but preparation time and aseptic-technique errors did not change](decp-error-substep-mcnemar-results.md) — related
 - [Before the intervention, senior nursing students showed high error rates, with recording errors at 84.1% and drug adherence control errors at 90.9%](high-baseline-medication-errors-senior-students.md) — related
+- [Proportions of feeding-rate and IV-infiltration errors decreased significantly in the year after simulation implementation, while other targeted errors did not](targeted-errors-decreased-post-simulation.md) — related

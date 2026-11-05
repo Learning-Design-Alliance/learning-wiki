@@ -64,6 +64,7 @@ Errors carry diagnostic information that correct answers do not: they expose the
 - [Formative Feedback](formative-feedback.md) — the feedback practices that convert surfaced errors into next steps
 - [Expert-recommended practices for fostering fun in learning: suggestion boxes, embracing failure, differentiated challenge, and open-ended questions](expert-practices-fostering-fun-learning.md)
 - [Build growth-mindset classroom cultures through teacher practices that convey all students can learn and improve](growth-mindset-classroom-culture-practices.md)
+- [Normalize failure and integrate post-traumatic growth through faculty disclosure of mistakes and structured reflection](failing-forward-ptg-reflection-strategy.md)
 
 ## Examples
 - **Erroneous worked examples in algebra**: learners are shown an incorrect solution to an equation, asked to find and explain the error, then produce a corrected version — a routine shown to improve conceptual knowledge of algebra [Erroneous examples build conceptual knowledge.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]

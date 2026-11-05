@@ -70,3 +70,4 @@ Subcategory-level moderator analysis in the same meta-analysis; the overall test
 - [Diagnostic labels cause a moderately negative overall effect on how adults evaluate children (g = −0.42)](diagnostic-labels-negative-overall-evaluation-effect.md) — a broader claim this one bears on
 - [Label effects are non-significant for attitudes toward the child, attributions of problem causes, and treatment-strategy evaluations](label-effect-null-attitudes-cause-treatment.md) — related
 - [Type of evaluation moderates the label effect, with academic evaluations and overall assessments most negatively affected](evaluation-type-moderates-label-effect.md) — related
+- [After controlling for co-occurring neurodevelopmental disorders, intellectual disabilities are the strongest predictor of poor academic performance across all subjects](id-strongest-predictor-adjusted.md) — related

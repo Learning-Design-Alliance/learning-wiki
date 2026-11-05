@@ -62,3 +62,4 @@ Questionnaire evaluation within the field test, using six Likert-scale usability
 - [Students rate the AISP chatbot highly usable, with robotic conversational style the most common concern](aisp-cortex-usability-cuq-findings.md) — related
 - [Peer discussion received the lowest positive rating (74.2%) of the intervention components](peer-discussion-lowest-rating-pilot.md) — related
 - [Flexibility in using fragmented time and platform ease of use received the highest student ratings (both 8.3), while perceived video quality received the lowest (7.1)](usability-items-highest-rated-video-quality-lowest.md) — related
+- [Students in the SML+AI group viewed the environment as usable and adopted ChatGPT as a study companion, but criticized its medical terminology, inconsistent answers, and the manipulatives' content depth](student-perceptions-ai-virtual-manipulative-anatomy.md) — related

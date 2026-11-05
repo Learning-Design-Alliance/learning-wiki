@@ -69,6 +69,7 @@ Help-seeking is a core component of [Self-Regulated Learning](../theories/self-r
 - [Normalize and de-stigmatize help-seeking behavior in the classroom so academic help-seeking habits carry over to health issues](normalize-destigmatize-help-seeking-classroom.md)
 - [Scaffold question formulation and active help-seeking in AI-supported tutoring systems](scaffold-question-formulation-ai-help-seeking.md)
 - [Design AI tutoring behaviors that withhold solutions, prompt recall, and ask critical questions](withhold-answers-prompt-recall-ask-questions.md)
+- [Provide sample keywords and prompt guidance so students ask short, simple questions to the AI tool](sample-keywords-short-simple-prompts-strategy.md)
 
 ## Examples
 - **Carnegie Learning's MATHia (Cognitive Tutor)** — implements an on-demand hint system with sequenced hints and a Help-Seeking tutor that coaches students on *when and how* to request help, based on Aleven and Koedinger's research (https://www.carnegielearning.com).

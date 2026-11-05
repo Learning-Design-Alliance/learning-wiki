@@ -49,3 +49,4 @@ Likert-scale feedback survey (5-point, agree/neutral/disagree groupings, Fig. 6)
 - [Spatial ability correlated positively with neuroanatomy performance across pretest and both quizzes in a crossover 3D-module study (Allen et al.)](allen-spatial-ability-correlates-neuroanatomy-performance.md) — related
 - [Spatial ability significantly predicts learning gains in XR anatomy training contexts, suggesting elementary XR designs need layered scaffolds for varying spatial reasoning](spatial-ability-predicts-xr-learning-gains.md) — related
 - [Learners rated the CBL module highly, with 100% reporting learning objectives were met and 93.5% endorsing anticipated practice change](cbl-pediatric-meningitis-learner-ratings.md) — related
+- [Students reported positive perceptions of the e-learning modules, supporting their integration into the dental curriculum](positive-student-perceptions-elearning-modules.md) — related

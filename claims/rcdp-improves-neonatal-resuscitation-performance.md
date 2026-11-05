@@ -68,3 +68,4 @@ The review reports a systematic review commissioned by the ILCOR task force find
 - [Just-in-time e-learning boosters immediately before procedures improved neonatal intubation knowledge and some performance measures](jit-elearning-booster-improves-intubation-knowledge-performance.md) — related
 - [RCDP simulation sessions were perceived as psychologically safe by almost all participants, regardless of the number of facilitators present](rcdp-psychological-safety-high.md) — related
 - [Self-reported confidence increased after e-learning boosters but did not relate to knowledge or performance](confidence-increases-unrelated-to-nrp-performance.md) — related
+- [RCDP-trained residents perform air enema reduction with shorter procedural time and lower reduction pressure than TTM-trained residents](rcdp-shorter-time-lower-pressure.md) — a narrower finding that bears on this claim

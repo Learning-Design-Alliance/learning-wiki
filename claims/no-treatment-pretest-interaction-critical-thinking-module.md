@@ -48,3 +48,4 @@ Same ANCOVA analysis of the 84-student quasi-experiment; the article reports "no
 - [A critical thinking module produced significantly higher post-test achievement in health education than control among Malaysian nursing students](critical-thinking-module-improves-nursing-health-education-achievement.md) — related
 - [No statistically significant pre-test sensitization interaction with the CBS treatment was found](no-pretest-treatment-interaction-cbs.md) — related
 - [Solomon four-group pilot found significant pre-post gains from EPIGAME play with no testing effects and no pretest-by-treatment interaction](study1-solomon-no-testing-effect.md) — related
+- [Pre-testing produced no significant sensitization effect in either intervention or control groups (Solomon design)](solomon-no-pretest-sensitization.md) — related

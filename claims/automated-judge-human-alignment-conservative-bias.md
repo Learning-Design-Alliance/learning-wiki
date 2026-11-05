@@ -68,3 +68,4 @@ A human validation study had three domain experts independently score a stratifi
 - [Agreement between AI-generated competency scores and human ratings was mixed across studies, with some reporting moderate to strong agreement and others showing score inflation and inconsistent performance](ai-ssp-score-agreement-with-human-ratings-mixed.md) — related
 - [Proportional bias: AI assigned relatively higher scores at the lower end of the performance distribution](proportional-bias-ai-higher-scores-lower-end.md) — related
 - [Student–expert agreement on bias assessment improves significantly after EBD training](student-expert-agreement-improves-post-ebd-training.md) — related
+- [Pearson correlations between AI and expert scores are weak (all r < 0.3) and statistically non-significant across all five criteria](ai-expert-pearson-weak-nonsignificant.md) — reports the opposite

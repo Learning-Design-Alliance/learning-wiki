@@ -13,7 +13,7 @@ generated:
 # Safety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 132 claims (92 show a difference, 29 mixed, 11 no difference) · 81 studies (22 review, 21 associational, 11 causal, 11 qualitative, 7 quant-synthesis, 5 design, 4 theoretical), `q1`–`q4` · 9 of 81 report an effect size · 132 claims rest on one study
+> **Evidence** · 133 claims (92 show a difference, 30 mixed, 11 no difference) · 82 studies (22 review, 21 associational, 12 qualitative, 11 causal, 7 quant-synthesis, 5 design, 4 theoretical), `q1`–`q4` · 9 of 82 report an effect size · 133 claims rest on one study
 
 ## Description
 Safety here means both being and feeling physically and psychologically secure in the places a learner spends time: home, school or work, the neighbourhood and the wider community. It covers violence and crime, bullying and cyberbullying, and, from adolescence on, a learner's own risk-taking behaviour such as substance use. It matters for learning because a learner who feels safe can focus on the task, while one who feels unsafe tends to miss school and take part less in class, losing learning opportunities. For adults, the LVN adds that learners who had bad experiences of school need to feel safe enough to learn again. It is measured with self-report bullying and victimisation scales, neighbourhood questionnaires and screening tools for risky behaviour. It overlaps with [adverse experiences](adverse-experiences.md), since feeling unsafe can be traumatic, and with [belonging](belonging.md).
@@ -168,6 +168,7 @@ Safety here means both being and feeling physically and psychologically secure i
 - [AI-simulated psychiatric patients provided a psychologically safe, controlled context for undergraduate nursing students to develop therapeutic communication and assessment skills, per the authors' first-year reflective account](../claims/ai-voice-simulated-patient-psych-safety.md) [+W] — measured as an outcome of the instruction studied
 - [RCDP simulation sessions were perceived as psychologically safe by almost all participants, regardless of the number of facilitators present](../claims/rcdp-psychological-safety-high.md) [+M] — measured as an outcome of the instruction studied
 - [First-year residents describe VR simulation as a safe and flexible learning tool for training in emergency care](../claims/residents-perceive-vr-safe-flexible-emergency-care.md) [+M] — measured as an outcome of the instruction studied
+- [Peer learning's effectiveness depends on psychological safety and trust within the group; informal networks may disproportionately benefit those with stronger social capital](../claims/peer-learning-psychological-safety-and-equity-conditions.md) [~M] — an instructional effect differs with it
 
 ## Measures
 - **Electronic Bullying Questionnaire** (Kowalski & Limber, 2007): self-report of how often a person has been cyberbullied or has cyberbullied others.

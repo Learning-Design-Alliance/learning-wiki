@@ -49,3 +49,4 @@ Multiple-response questionnaire item with denominator N = 88 in the single-insti
 - [Final-year dental students rate their self-perceived knowledge of vital pulp therapy as moderate, citing theoretical courses and clinical practice as main sources](dental-students-moderate-self-perceived-vpt-knowledge.md) — related
 - [Students report performing direct pulp capping in mature teeth more frequently than partial or total pulpotomy](direct-pulp-capping-performed-more-than-pulpotomy.md) — related
 - [Students' reported treatment preferences shift with pulp exposure size, from direct pulp capping for small exposures to pulpotomy or root canal treatment for large exposures](vpt-preferences-shift-with-exposure-size.md) — related
+- [94.5% of residents affirm the importance of vital pulp preservation, with significant specialty differences](residents-affirm-pulp-preservation-importance.md) — related

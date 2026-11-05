@@ -9,7 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-10-18
+source_checked: 2026-11-05
 sources:
   - id: zhou-x-2015
     title: Zhou X 2015
@@ -23,7 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2015 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Figure-matching ability had higher correlations with numerosity processing and computational fluency than did forward verbal working memory, visual tracing, non-verbal matrix reasoning, mental rotation, and choice reaction time. [→ Zhou X 2015](#zhou-x-2015)

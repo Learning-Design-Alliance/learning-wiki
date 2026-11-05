@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 541 claims (287 show a difference, 112 mixed, 142 no difference) · 378 studies (169 associational, 151 causal, 20 review, 16 quant-synthesis, 10 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 57 of 378 report an effect size · 533 claims rest on one study
+> **Evidence** · 542 claims (288 show a difference, 112 mixed, 142 no difference) · 379 studies (170 associational, 151 causal, 20 review, 16 quant-synthesis, 10 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 57 of 379 report an effect size · 534 claims rest on one study
 
 ## How to read this page
 
@@ -580,6 +580,7 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Reading self-efficacy matters more for girls' reading achievement than for boys'](../claims/reading-self-efficacy-more-important-girls.md) [~M] — an instructional effect differs by group
 - [Score gains from before to after the lecture did not differ significantly by sex or GPA category in a single-group pre-post study](../claims/no-sex-gpa-differences-in-score-gains.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Self-efficacy moderation effects are absent for boys in both math and reading](../claims/self-efficacy-moderation-null-boys.md) [-M] — an instructional effect differs by group
+- [Female psychology students rated GAI-based virtual simulated patients significantly higher than male students](../claims/female-students-rate-vsp-higher.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

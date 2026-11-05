@@ -44,6 +44,7 @@ Participants suggested that future sessions should include more multimodal learn
 - [Interdisciplinary scenario stations combining 3D models, CT-A interpretation, and expert-led clinical discussion](interdisciplinary-ica-scenario-stations.md)
 - [Design and implement VS teaching with simplified interfaces, multimodal feedback, multilingual diverse case libraries, pre-training, and controlled VR session lengths](vs-design-recommendations-strategy.md)
 - [Incorporate 3DPAMs into anatomy teaching early in medical school, prioritizing complex anatomical areas](incorporate-3dpams-early-complex-anatomy.md)
+- [Use digitized 3D anatomical models and VR/AR as supplements or alternatives to cadaver-based anatomy teaching](vr-ar-digitized-anatomical-models-supplement-alternative-cadavers.md)
 
 ## Examples
 -

@@ -57,3 +57,4 @@ Between-group comparison on an adapted six-dimension NASA-TLX (mental demand, ti
 - [AR telestration lowers cognitive workload during surgical training as measured by validated instruments](ar-lowers-cognitive-workload.md) — related
 - [Material modality significantly affects subjective cognitive load, with text materials inducing higher NASA-TLX scores than video-based materials](text-materials-highest-subjective-cognitive-load.md) — related
 - [AI-driven teaching paradigm reduces cognitive load measured by NASA-TLX](ai-paradigm-reduces-cognitive-load-nasa-tlx.md) — related
+- [Cognitive load did not differ significantly between the C, SML, and SML+AI groups, though the SML+AI group's load decreased descriptively](chatgpt-virtual-manipulatives-cognitive-load-no-group-difference.md) — reports the opposite

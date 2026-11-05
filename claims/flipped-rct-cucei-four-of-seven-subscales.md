@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: mixed
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: yousefi-mahboubeh-sadat-2026
     resource: "https://doi.org/10.1186/s12909-026-09746-y"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` With Bonferroni-corrected alpha of 0.007, the flipped group scored significantly higher on four of seven subscales (e.g., Innovation F = 493.148, partial η² = 0.898), while Personalization, Cohesiveness, and Individualization did not reach significance. [→ Yousefi Mahboubeh Sadat 2026](#yousefi-mahboubeh-sadat-2026)

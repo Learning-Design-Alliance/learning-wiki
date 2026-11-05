@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: busmin-gurning-aguslani-siregar-2017
     resource: "https://doi.org/10.5539/elt.v10n11p191"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` There was a significant interaction between teaching strategy and curiosity on reading comprehension (F observed 15.43 > F table 3.98). [→ Busmin Gurning & Aguslani Siregar 2017](#busmin-gurning-aguslani-siregar-2017)

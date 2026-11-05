@@ -50,3 +50,4 @@ Descriptive follow-up comparison within the three-group quasi-experiment two wee
 - [Vocabulary retention declines between immediate and first delayed recall, then rises slightly between the first and second delayed tests](vocabulary-forgetting-pattern-decline-then-rise.md) — related
 - [Cognitive training gains are maintained or further enhanced at two-month follow-up](act-cognitive-gains-sustained-follow-up.md) — related
 - [Learning advantages of AI-assisted peer teaching persist at 3-month follow-up](ai-assisted-peer-teaching-retention-3-month.md) — related
+- [Retention of the target medical terms declined significantly over the month across all teaching methods](retention-declines-over-time-all-groups.md) — reports the opposite

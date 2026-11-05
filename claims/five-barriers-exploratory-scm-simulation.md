@@ -51,3 +51,4 @@ Formative study with 7 students and 3 instructors using one-hour semi-structured
 - [Interviews identify IEI implementation gaps — curriculum-industry misalignment, limited project diversity, and weak enterprise engagement — as boundary conditions on the psychological pathways](iei-implementation-gaps-boundary-conditions.md) — related
 - [Interviewed teachers attributed disengagement to technical, institutional, and social-relational environmental constraints rather than capability deficits](environmental-constraints-attributed-disengagement.md) — related
 - [Challenges interact dynamically to form a self-reinforcing recursive constraint](self-reinforcing-recursive-constraint-srl-recommenders.md) — related
+- [Qualitative content analysis of student interviews identified five themes: novelty, engagement, critical awareness of child health determinants, deeper learning through visual contextualization, and practical barriers](photovoice-tbl-five-themes.md) — related

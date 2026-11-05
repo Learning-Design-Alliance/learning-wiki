@@ -52,6 +52,7 @@ The article recommends pairing stress-management support with structured physica
 - [Stress Management Routines](stress-management-routines.md)
 - [Embed brief experiential wellness activities longitudinally within existing health professions curricula](embed-longitudinal-experiential-wellness-activities.md)
 - [Physical Activity & Recess](physical-activity-recess.md)
+- [Universities should implement targeted mental health services, stress management programs, and physical activity promotion for health-professional students](university-wellbeing-services-strategy-saudi-pt-students.md)
 
 ## Examples
 -

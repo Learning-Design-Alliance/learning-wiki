@@ -57,3 +57,4 @@ Thematic synthesis finding across the 155 included studies in the barriers/susta
 - [AIED technologies span school administration to personalised learning, with ethical risks including surveillance, privacy loss, and dehumanising prescriptive teaching](aied-technologies-applications-ethical-challenges-synthesis.md) — related
 - [AIED offers opportunities for personalized, efficient online teaching but teachers lack readiness to use it](aied-opportunities-teacher-readiness-gap.md) — related
 - [Participants raised financial cost of VR headsets as a barrier to sustainable adoption, though not deterring acceptance](vr-financial-burden-sustainability-concern.md) — a narrower finding that bears on this claim
+- [Anatomy education faces declining curriculum hours and constrained cadaver access driven by cost, ethics, and culture, motivating alternative methods](anatomy-hours-cadaver-access-declining-motivating-alternatives.md) — a narrower finding that bears on this claim

@@ -70,3 +70,4 @@ Narrative review attributing this to Bernardi et al.'s prospective study of pati
 - [A post-ROSC simulation curriculum increased intern knowledge of post-ROSC hemodynamic and respiratory targets](post-rosc-simulation-increased-knowledge-targets.md) — related
 - [Knowledge gains varied by workshop topic, largest for pulmonary auscultation and smallest for rectal and breast examination](knowledge-gain-varies-by-workshop-topic.md) — related
 - [Mid-stake end-of-block assessment scores were significantly higher in the Kahoot!-gamified cardiovascular module than in the non-gamified respiratory module (median paired difference 4.89%, r = 0.31)](kahoot-gamified-module-higher-assessment-scores.md) — related
+- [Student performance varies by topic, with weakest knowledge on anticoagulants and weakest prescribing skills for pulmonary drugs](prescribing-scores-vary-by-drug-topic.md) — related

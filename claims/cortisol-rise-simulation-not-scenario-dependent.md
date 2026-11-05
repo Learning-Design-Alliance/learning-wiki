@@ -49,3 +49,4 @@ Objective stress measurement in the Lizotte 2017 parallel-group randomised trial
 - [Healthcare professionals report that paediatric manikin death increases the realism of simulation scenarios](manikin-death-increases-scenario-realism.md) — related
 - [Paediatric manikin death does not impair resuscitation performance measured against the NRP algorithm](manikin-death-no-performance-impairment-nrp.md) — related
 - [Prebrief disclosure that the manikin may die was not reported by participants as essential for psychological safety](prebrief-death-disclosure-not-essential.md) — related
+- [Threat-appraising students showed a significant cortisol increase after Scenario 1, while the challenge group's rise was not significant](threat-appraisal-cortisol-increase-scenario1.md) — related

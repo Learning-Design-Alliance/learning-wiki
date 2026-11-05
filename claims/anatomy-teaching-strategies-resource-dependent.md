@@ -51,3 +51,4 @@ Narrative synthesis across included studies in the scoping review's discussion; 
 - [Students overwhelmingly favored a hybrid approach combining VDTs with cadaveric dissection over full replacement](students-favor-hybrid-vdt-cadaver-approach.md) — related
 - [Teachers' teaching approaches were constrained by university entrance exam pressure and laboratory resource shortages](exam-pressure-and-resources-constrain-teaching-approach.md) — related
 - [Cognitive and creative results were 12% higher at the university with better laboratory equipment than at the two comparison universities](better-equipment-12-percent-higher-results.md) — related
+- [Anatomy education faces declining curriculum hours and constrained cadaver access driven by cost, ethics, and culture, motivating alternative methods](anatomy-hours-cadaver-access-declining-motivating-alternatives.md) — related

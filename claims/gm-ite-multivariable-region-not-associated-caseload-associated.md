@@ -52,3 +52,5 @@ Generalized linear models of GM-ITE total score with region of graduation, gende
 - [Japan-trained residents scored higher in the Surgery (p = 0.007) and Obstetrics and Gynecology (p = 0.002) fields, an exploratory finding](gm-ite-surgery-obgyn-japan-higher.md) — related
 - [Yearly inpatient volume as a continuous variable is not significantly associated with GM-ITE scores or burnout symptoms](continuous-inpatient-volume-not-significant.md) — related
 - [Longer daily self-study time and higher postgraduate year are associated with higher GM-ITE scores](self-study-time-pgy2-associated-with-gmite.md) — related
+- [Receiving teaching during the decision-making stage is associated with higher GM-ITE clinical scores among residents](decision-making-teaching-higher-gm-ite-scores.md) — related
+- [Receiving teaching during the physical examination stage is associated with lower GM-ITE clinical scores among residents](physical-examination-teaching-lower-gm-ite-scores.md) — related

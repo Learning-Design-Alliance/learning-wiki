@@ -9,7 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2023
-source_checked: 2026-10-26
+source_checked: 2026-11-05
 sources:
   - id: daker-2023
     resource: "https://doi.org/10.1038/s41539-023-00156-z"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2023 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The relation between math anxiety and math performance does not significantly depend on HF-HRV levels (β = -0.032, t(73) = -0.400, p = 0.691); this was surprising given the moderation of the anxiety link. [→ Daker 2023](#daker-2023)

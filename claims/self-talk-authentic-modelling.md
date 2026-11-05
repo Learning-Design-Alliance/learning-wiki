@@ -9,7 +9,6 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-04
 sources:
   - id: stewart-2026
     resource: "https://doi.org/10.1371/journal.pone.0359563"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Young people rejected inauthentic, overly optimistic teacher phrasing and positive wall statements, preferring authentic, balanced language with realistic positivity. [→ Stewart 2026](#stewart-2026)

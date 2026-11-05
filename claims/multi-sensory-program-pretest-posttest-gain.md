@@ -9,7 +9,6 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2019
-source_checked: 2026-11-02
 sources:
   - id: alenizi-2019
     resource: "https://doi.org/10.17583/ijep.2019.3346"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2019 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The experimental group's visual perception average was higher at post-test (1.815) than at pre-test (1.418), a descriptive difference the article reports as being in favor of the post-test. [→ Alenizi 2019](#alenizi-2019)

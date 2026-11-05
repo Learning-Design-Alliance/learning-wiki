@@ -47,3 +47,4 @@ Exam-level internal consistency was assessed with KR-20 and between-group differ
 
 ## Related Claims
 - [Student-generated MCQs showed higher item discrimination than AI-generated MCQs, with a small effect size and a majority of AI items in the poor-discrimination band](student-gen-items-higher-discrimination.md) — related
+- [Bellringer examinations across the three modalities showed respectable reliability (KR-20 averaging 0.785)](br-exam-kr20-respectable-reliability.md) — related

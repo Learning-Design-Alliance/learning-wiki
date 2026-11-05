@@ -72,3 +72,4 @@ Despite literature suggesting catheterization time may shorten with experience, 
 - [Blood loss, transfusion, and conversion outcomes remained low and did not change significantly across the learning curve](blood-loss-transfusion-stable-across-lrp-learning-curve.md) — related
 - [In exploratory analyses, the only factor significantly associated with prolonged length of stay was the study center](study-center-only-significant-predictor-prolonged-los.md) — related
 - [Console time decreased substantially with increasing surgical experience, with an estimated reduction of 33.2 min over the first 14 procedures](console-time-decreases-with-experience-versius.md) — related
+- [OPI-derived learning curves stabilize within the first 10 months of a surgeon's experience despite increasing case complexity](opi-learning-curve-stabilizes-ten-months.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-05
 sources:
   - id: johnels-jakob-åsberg-2025
     resource: "https://doi.org/10.1111/bjep.70050"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In four regression models with total grade score and secondary school eligibility as outcomes, ADHD/autism, closeness, conflict, and parental education all showed statistically significant independent main effects (all p < .005). [→ Johnels Jakob Åsberg 2025](#johnels-jakob-asberg-2025)

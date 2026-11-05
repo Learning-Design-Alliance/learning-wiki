@@ -48,3 +48,4 @@ Exploratory secondary analysis in the RCT examining whether individual participa
 - [The simulation advantage and interest differences hold across subgroups of age, gender, school form, and grade](no-subgroup-differences-method-comparison.md) — related
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
 - [Age, gender, previous interest in surgery, and video game exposure were not significantly associated with laparoscopic performance](demographics-not-associated-laparoscopic-performance.md) — related
+- [No significant differences in evaluation were observed by participants' previous VR experience](no-differences-by-prior-vr-experience.md) — related

@@ -56,3 +56,4 @@ Trial test of the AEEGS software with twenty examinees' written essay responses 
 - [The basic science process skills test used showed a Cronbach's Alpha of 0.876 across 10 items](basic-science-process-skills-test-reliability-0876.md) — related
 - [The parabola achievement test used was a 27-item open-ended instrument with high internal consistency (Cronbach's alpha 0.942) and near-perfect inter-rater agreement](pat-27-item-reliable-achievement-test.md) — related
 - [The self-developed evaluation instrument showed high internal consistency across its three parts (Cronbach's α = 0.941, 0.973, 0.953)](self-developed-training-evaluation-instrument-reliability.md) — related
+- [The European Prescribing Exam demonstrates adequate reliability and content validity in pilot administration](european-prescribing-exam-psychometric-quality.md) — related

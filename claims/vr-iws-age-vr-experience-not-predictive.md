@@ -48,3 +48,4 @@ Null result from the same linear regression analysis of first-session adapted AS
 - [Autistic children with intellectual disability scored significantly lower on task feasibility than children without intellectual disability](vr-iws-intellectual-disability-lower-feasibility.md) — related
 - [All 21 autistic students independently completed all 164 VR-IWS tasks offered across three countries](vr-iws-all-students-completed-164-tasks.md) — related
 - [Age did not significantly predict language learning aptitude in this adult sample](age-did-not-predict-language-aptitude-vr-study.md) — related
+- [No significant differences in evaluation were observed by participants' previous VR experience](no-differences-by-prior-vr-experience.md) — related

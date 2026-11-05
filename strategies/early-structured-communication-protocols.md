@@ -44,7 +44,8 @@ The study identifies the lower frequency of references to safe communication pro
 - [Role-playing simulation with SBAR-based observation improves nurse-patient communication behaviors among nursing students](../claims/role-play-sbar-improves-nurse-patient-communication.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Pair BOPPPS with in-class communication practice (e.g. SBAR role-play) rather than micro-lectures for doctor-patient communication skills](boppps-inclass-communication-practice-strategy.md)
 
 ## Examples
 -

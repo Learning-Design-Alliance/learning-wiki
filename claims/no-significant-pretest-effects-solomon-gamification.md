@@ -48,3 +48,4 @@ Null finding from the Solomon four-group experiment, in which one experimental a
 - [Gamification-supported teaching has a substantive effect on pre-service teachers' concept images of curriculum elements, with large effect sizes for content (d = 1.59) and total score (d = 2.04)](gamification-effect-concept-images-curriculum-elements.md) — related
 - [Solomon four-group pilot found significant pre-post gains from EPIGAME play with no testing effects and no pretest-by-treatment interaction](study1-solomon-no-testing-effect.md) — related
 - [No statistically significant pre-test sensitization interaction with the CBS treatment was found](no-pretest-treatment-interaction-cbs.md) — related
+- [Pre-testing produced no significant sensitization effect in either intervention or control groups (Solomon design)](solomon-no-pretest-sensitization.md) — related

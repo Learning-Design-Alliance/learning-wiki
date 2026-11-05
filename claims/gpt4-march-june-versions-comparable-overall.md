@@ -51,3 +51,4 @@ Version comparison from the Discussion's re-analysis of Table 1 and Table 2 data
 - [GPT-4 significantly outperforms the average Dutch student on VWO English reading comprehension, scoring 8.3 (March) and 8.1 (June) without re-prompting](gpt4-outperforms-average-student-english-exams.md) — related
 - [Self-consistency did not improve GPT-4's answer accuracy on these exams, unlike in chain-of-thought tasks](self-consistency-no-accuracy-gain-reading-exams.md) — related
 - [Including ethnicity does not significantly change mean question facility, but shifts facility in both directions for individual items](ethnicity-inclusion-facility-effects.md) — a narrower finding that bears on this claim
+- [GPT-4o was the most inconsistent chatbot, with 19 questions answered correctly in the first round answered incorrectly in the second](gpt-4o-most-inconsistent-across-rounds.md) — related

@@ -52,3 +52,4 @@ Career-stage ANOVA in the 109-respondent survey revealed "significant difference
 - [Academics who never use AI report higher guilt than users, with significant differences on anticipated remorse and research-writing guilt](ai-non-users-report-higher-guilt-than-users.md) — related
 - [The negative association between AI-assisted writing and team age is strongest among the youngest teams](ai-writing-age-effect-strongest-junior-teams.md) — related
 - [Academics' identity reconstruction through technology integration varies across career stages](career-stage-differences-identity-reconstruction-technology.md) — related
+- [Perceived career development benefits increase with year of study, with significant differences between early and later years](career-benefit-perceptions-increase-by-year.md) — related

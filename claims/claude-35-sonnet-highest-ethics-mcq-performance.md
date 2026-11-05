@@ -51,3 +51,4 @@ Descriptive expert-rating study: four reviewers scored 208 MCQs (26 per model ac
 - [LLM accuracy on multilingual medical multiple-choice questions varies substantially by model, with Claude-Sonnet-3.7 highest (87%) and open models lowest (64%-73%)](llm-accuracy-varies-by-model-medical-mcq.md) — related
 - [GPT-4 achieves the highest pooled accuracy among LLMs (81%), significantly outperforming GPT-3.5 (60%)](gpt4-highest-accuracy-81-outperforms-gpt35.md) — related
 - [Students rated Claude-generated Turkish clinical scenarios highest across clarity, realism, and clinical reasoning support](claude-highest-student-ratings-clinical-scenarios.md) — related
+- [Students rated OSCEai's ease of use at 4.73 and medical content quality at 4.70 out of 5](osceai-usability-content-ratings.md) — related

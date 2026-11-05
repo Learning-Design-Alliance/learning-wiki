@@ -56,3 +56,4 @@ Propensity-matched comparison (40 pairs) of end-of-term OSCE scores with real st
 - [GP residents showed statistically significant pre-post improvements in history-taking (Cohen's d = 1.11) and clinical reasoning (Cohen's d = 1.32) after a 12-week VP training program](vp-training-improves-history-taking-clinical-reasoning.md) — related
 - [AI-generated feedback following social robotic VP interactions improves medical students' total OSCE performance (Cohen d=0.74)](ai-feedback-sari-improves-total-osce.md) — related
 - [Clinical interview skills improved significantly from baseline to post-intervention only in the VSP group, not in the control group](vsp-group-within-group-interview-skill-gain.md) — related
+- [Average practical session grades were significantly lower in the VSP-based course than in the paper-based course](vsp-session-grades-lower.md) — related

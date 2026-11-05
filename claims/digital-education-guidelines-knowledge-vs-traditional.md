@@ -51,3 +51,4 @@ Meta-analysis of three RCTs (n = 405 across five studies measuring knowledge) co
 - [Healthcare professionals report higher satisfaction with digital education than with traditional learning for guideline training](digital-education-guidelines-satisfaction.md) — related
 - [Digital learning resources show no between-group difference compared with clinical practice guidelines in most studies](dlr-versus-guidelines-no-difference.md) — related
 - [Online training was more effective than written manuals for knowledge (SMD 0.99) but showed no difference for clinical behaviour, at very low evidence quality](online-vs-manual-knowledge-superior.md) — related
+- [Review by Kyaw et al. found VR improved post-intervention knowledge and skill outcomes among health professionals compared to traditional or other digital education](vr-improves-post-intervention-knowledge-skill-health-professionals.md) — related

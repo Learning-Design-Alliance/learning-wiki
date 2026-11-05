@@ -50,3 +50,4 @@ Cross-sectional OSCE assessment of 97 pre-hospital emergency personnel across fo
 - [Work experience correlates positively with complicated child delivery skill but negatively with newborn and pregnant women's resuscitation skills](work-experience-skill-correlations.md) — related
 - [A significant positive correlation exists between OSCE performance and self-reported knowledge and skill levels](osce-correlates-self-reported-competence.md) — related
 - [Pre-hospital emergency personnel demonstrate moderate knowledge of obstetric emergencies with a mean score of 46.6%](p-hep-moderate-knowledge-obstetric-emergencies.md) — related
+- [Student performance varies by topic, with weakest knowledge on anticoagulants and weakest prescribing skills for pulmonary drugs](prescribing-scores-vary-by-drug-topic.md) — related

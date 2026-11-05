@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: bisogno-arianna-leone-ludovica-doria-veronica-agostoni-carlo-abodi-martina-2026
     resource: "https://doi.org/10.3390/nu18101610"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a cluster-randomized trial of more than 3000 students aged 9-19, Kaledo improved nutrition knowledge and dietary behavior at 6 months, with significant BMI z-score reduction versus controls at both 6 (p < 0.001) and 18 months (p = 0.017). [→ Bisogno Arianna; Leone Ludovica; D'Oria Veronica; Agostoni Carlo; Abodi Martina 2026](#bisogno-arianna-leone-ludovica-doria-veronica-agostoni-carlo-abodi-martina-2026)

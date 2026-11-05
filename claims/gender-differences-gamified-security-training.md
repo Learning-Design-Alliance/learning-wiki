@@ -89,3 +89,4 @@ Format-acceptance item in the same gender breakdown of the N=50 survey. Female p
 - [Females were significantly more likely than males to accept an additional wait of over 120 minutes](female-patients-tolerate-longer-additional-waits.md) — related
 - [Male students reported higher confidence than female students despite no performance difference](male-students-report-higher-confidence-no-performance-difference.md) — reports the opposite
 - [Female students showed stronger motivation toward e-learning resources and training than male students](female-students-stronger-elearning-motivation.md) — related
+- [Female psychology students rated GAI-based virtual simulated patients significantly higher than male students](female-students-rate-vsp-higher.md) — related

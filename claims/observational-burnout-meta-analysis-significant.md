@@ -48,3 +48,4 @@ Random-effects meta-analysis of four observational before-and-after studies (no 
 - [The randomized trial providing analyzable burnout data showed no statistically significant improvement in any burnout subscale](rct-burnout-null-result.md) — related
 - [Subgroup analysis for primary care physicians showed burnout improvements that did not differ from the overall observational results](primary-care-subgroup-burnout.md) — related
 - [There is weak evidence to support one resilience intervention over another for physicians who have completed training](weak-evidence-resilience-interventions-physicians.md) — related
+- [Burnout affects up to 70% of residents and negatively affects clinical performance and decision-making](resident-burnout-up-to-70-percent-impairs-performance.md) — related

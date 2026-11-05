@@ -57,3 +57,4 @@ Pearson product-moment correlation in the 355-nurse survey found "a weak yet sta
 - [Self‐assessed nutritional competencies did not correlate with actual nutritional knowledge, suggesting a mismatch between perceived and actual proficiency](self-assessment-knowledge-no-correlation.md) — related
 - [Nursing students' e-learning motivation and attitude were positively correlated after training, strongest in the control group](motivation-attitude-positive-correlation-nursing.md) — related
 - [Practice frequency and perceived competence were positively but weakly correlated (Spearman's r = 0.303, p = 0.019)](practice-frequency-perceived-competence-correlation.md) — related
+- [Self-confidence scores show a positive but non-significant correlation with exam performance in this cohort](confidence-exam-correlation-non-significant.md) — related

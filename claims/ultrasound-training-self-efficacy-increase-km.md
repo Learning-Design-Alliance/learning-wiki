@@ -51,3 +51,4 @@ Paired t-test analysis of 105 KM students' pre- and post-practice self-efficacy 
 - [Median self-confidence in performing US-guided peripheral venous access increased from 5 to 8 after the brief training](us-training-confidence-5-to-8.md) — related
 - [Competency scores rose significantly from 86.14% to 98.16% after SMART VHV Plus Model training, in one uncontrolled pre-post study (Cohen's d = 1.96)](smart-vhv-plus-model-significant-competency-gain.md) — related
 - [Training-related factors positively influenced confidence and performance](training-factors-boost-confidence-and-performance.md) — a broader claim this one bears on
+- [Trainees' self-rated confidence in performing obstetric ultrasound examinations rose significantly from pre-test to post-test after the simulation course, in one uncontrolled pre-post study](obstetric-sim-confidence-gain.md) — related

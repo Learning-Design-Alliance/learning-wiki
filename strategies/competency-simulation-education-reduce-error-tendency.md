@@ -51,6 +51,7 @@ The article recommends strengthening the integration of theoretical knowledge wi
 - [Integrate structured debriefing into simulation curricula with systematic teacher training and multi-method evaluation](debriefing-integration-strategy-nursing-education.md)
 - [Integrate ethical reasoning, data literacy, systems thinking, and risk evaluation into decision-making training](integrate-ethics-data-literacy-systems-thinking-risk-evaluation-training.md)
 - [Incorporate clinical simulation with structured debriefing into nursing education planning for biosafety and emotional management](simulation-debriefing-biosafety-planning-strategy.md)
+- [Integrate occupational adaptive learning with simulation training, case studies, and interdisciplinary collaboration to strengthen clinical pharmacist preparation](integrate-adaptive-learning-with-simulation-case-studies.md)
 
 ## Examples
 -

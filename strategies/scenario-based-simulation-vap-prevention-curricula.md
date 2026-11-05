@@ -45,7 +45,8 @@ Based on their finding that simulation training significantly improved nursing s
 - [The VAP Prevention Performance Checklist showed acceptable-to-good internal consistency after training but low internal consistency at pretest](../claims/vap-checklist-internal-consistency-pre-post.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Use computer-aided simulations in nursing skills laboratories and support practical training with simulation](support-nursing-practical-training-with-simulation.md)
 
 ## Examples
 -

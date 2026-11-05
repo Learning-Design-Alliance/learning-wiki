@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: akdal-2014
     resource: "https://dergipark.org.tr/en/pub/ejer"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2014 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Fifth-grade students taught with an intertextual reading approach scored significantly higher on Originality of Ideas at final test than control-group students taught conventionally. [→ Akdal 2014](#akdal-2014)

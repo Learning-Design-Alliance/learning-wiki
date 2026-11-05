@@ -54,3 +54,4 @@ Null between-group result in the RCT; Table 4 reports post-intervention Process 
 - [AI-VSP teaching of history-taking skills achieves learning outcomes not significantly different from conventional SP in a randomized controlled trial](ai-vsp-non-inferior-to-sp-history-taking.md) — a broader claim this one bears on
 - [OSCE performance did not differ significantly between AI-VSP and SP groups](ai-vsp-sp-osce-scores-similar.md) — related
 - [VSP-based training produced significantly higher post-intervention clinical interview scores than traditional practice in a small randomized controlled trial](vsp-training-improves-interview-skills-rct.md) — reports the opposite
+- [SP training produced no significant differences in history-taking, differential diagnosis, laboratory tests, or diagnosis scores](sp-training-no-gain-history-diagnosis-scores.md) — related

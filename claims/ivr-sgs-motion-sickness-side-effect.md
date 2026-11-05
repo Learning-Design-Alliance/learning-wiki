@@ -60,3 +60,4 @@ The review reports that only one eligible study (Smith & Ericson, 2009) used a q
 - [Participants rated the VR learning experience positively with minimal cybersickness, yet most did not prefer VR over prosection as a drawing reference](vr-satisfaction-but-not-preferred-reference.md) — related
 - [Remote AR headset use imposes minimal reported ergonomic burden and no adverse events in neonatal resuscitation simulation](remote-ar-simulation-ergonomics-adverse-events.md) — related
 - [Most participants found first VR engagement exciting and easy to use, though a minority reported discomfort and initial difficulty](vtracs-excitement-with-minority-adverse-experiences.md) — a narrower finding that bears on this claim
+- [Most students remained open to VR use in anatomy examinations despite preferring physical specimens](students-open-to-vr-despite-preference.md) — related

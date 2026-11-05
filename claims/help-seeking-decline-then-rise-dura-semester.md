@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-18
+source_checked: 2026-11-05
 sources:
   - id: margaret-ellis-2026
     resource: "https://doi.org/10.48550/arxiv.2606.30908"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Course records showed a steep decline in Piazza posting in Fall 2024 and office hours usage in Spring 2025, followed by a rise in Fall 2025, and office hours use increased slightly during the DURA semester. [→ Margaret Ellis 2026](#margaret-ellis-2026)

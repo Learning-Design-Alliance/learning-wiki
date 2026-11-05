@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: wick-alexandra-md-2026
     resource: "https://doi.org/10.15766/mep_2374-8265.11576"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Checklist data revealed specific areas for improvement in every station, including fewer than 50% of interns completely addressing illness severity in sign-out and only 40% using closed-loop communication in the paging station. [→ Wick Alexandra MD 2026](#wick-alexandra-md-2026)

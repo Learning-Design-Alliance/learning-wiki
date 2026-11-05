@@ -55,3 +55,6 @@ Within-group before-to-after score gains in the same assessor-blinded RCT of 50 
 - [Working time and satisfaction do not differ between interactive and passive e-learning groups](e-learning-working-time-satisfaction-no-difference.md) — related
 - [Both groups improved from baseline, with substantially greater gains in the rubric group](rubric-group-greater-pre-post-gains-crown-preparation.md) — related
 - [After the intervention, the peer-review group showed significantly greater post-lecture knowledge gains than the control group (83 vs 76, p = 0.003)](peer-review-greater-post-lecture-knowledge-gains.md) — related
+- [Mean clinical decision-making scores increased pre to post in both groups, with the intervention group scoring higher at posttest (52.24 vs 48.09).](atls-simulation-prepost-score-gains-intervention-vs-control.md) — related
+- [PBL combined with 3D-VRT produced higher written examination scores than traditional teaching in trauma orthopaedics education](pbl-3d-vrt-higher-written-exam-scores-trauma-orthopaedics.md) — related
+- [Structured reflective sessions significantly improve theoretical knowledge (MCQ) scores of operating room technology students compared with controls](reflective-sessions-improve-mcq-knowledge-or-students.md) — related

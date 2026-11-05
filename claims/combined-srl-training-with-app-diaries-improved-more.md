@@ -58,3 +58,4 @@ Randomised control study of 73 university students from mixed disciplines and st
 - [Chatbot-guided feedback SRL improved university students' reflection more than conventional SRL](srl-cgf-improves-reflection.md) — related
 - [Worked examples combined with practice writing improved clinical note checklist scores more than worked examples alone](worked-examples-plus-practice-improve-note-scores.md) — related
 - [Individual reviewed studies reported statistically significant knowledge and skill gains from e-learning interventions compared with controls](elearning-significant-gains-individual-studies.md) — related
+- [Students and oral surgeons at every experience level agreed that combining model practice with clinical experience is the best preparation and that the model cannot replace clinical experience](combination-model-and-clinic-best-model-cannot-replace-clinic.md) — related

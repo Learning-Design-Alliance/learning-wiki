@@ -51,3 +51,5 @@ Conventional text analysis of open-ended feedback (20 valid AI-VSP comments, 24 
 - [Students training with AI-VSPs complete more practice cycles than students training with traditional SPs](ai-vsp-more-training-cycles.md) — related
 - [AI-VSP and traditional SP training show no significant difference in SEGUE Process scores or individual dimension scores](no-group-difference-process-segue-scores.md) — related
 - [SEGUE-based simulation training with either AI-VSPs or traditional SPs: medical students' communication scores rose significantly from pre-test to post-test in within-group comparisons](segue-simulation-training-improves-communication-scores.md) — related
+- [More connectivity failures during VSP interviews were associated with lower student ratings](connectivity-failures-lower-vsp-ratings.md) — related
+- [Sentiment analysis of GAI-generated VSP responses showed predominantly negative sentiment, consistent with clinical realism](vsp-responses-negative-sentiment.md) — related

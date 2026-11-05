@@ -49,3 +49,4 @@ Prospective observational cohort of 106 preclinical medical students followed ac
 - [Risk stratification does not predict requirement to repeat a semester](risk-groups-no-prediction-repeat-semester.md) — related
 - [High perceived stress combined with elevated cortisol tertile is associated with poorer perceived memory performance](high-stress-high-cortisol-poorer-perceived-memory.md) — related
 - [Poverty predicts children's cortisol and executive function, partially mediated by parental sensitive caregiving](poverty-cortisol-executive-function-mediation.md) — related
+- [Living with one's family is associated with increased odds of a high GPA among Saudi physical therapy students](living-with-family-higher-odds-high-gpa-saudi-pt-students.md) — related

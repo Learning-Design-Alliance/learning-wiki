@@ -69,3 +69,4 @@ Between-group comparison of score gains in the same RCT: "5.15 ± 2.88 in the AI
 - [Post hoc analysis suggests OSCE equivalence and non-inferiority of AI-VSP for other learning outcomes and satisfaction](ai-vsp-equivalence-non-inferiority-post-hoc.md) — related
 - [Students training with AI-VSPs complete more practice cycles than students training with traditional SPs](ai-vsp-more-training-cycles.md) — related
 - [SEGUE-based simulation training with either AI-VSPs or traditional SPs: medical students' communication scores rose significantly from pre-test to post-test in within-group comparisons](segue-simulation-training-improves-communication-scores.md) — related
+- [SP training produced no significant differences in history-taking, differential diagnosis, laboratory tests, or diagnosis scores](sp-training-no-gain-history-diagnosis-scores.md) — related

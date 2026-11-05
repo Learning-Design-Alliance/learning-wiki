@@ -52,6 +52,7 @@ The article recommends that universities and hospitals consider VR as a tool in 
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
 - [Use VR simulation alongside other teaching models to raise motivation and satisfaction in anatomy education](vr-alongside-other-teaching-models-anatomy.md)
 - [Use AR to supplement limited anatomy lab access by simulating visuospatial aspects of cadaveric dissection with multi-user collaborative functions](ar-supplement-limited-anatomy-lab-access.md)
+- [Use digitized 3D anatomical models and VR/AR as supplements or alternatives to cadaver-based anatomy teaching](vr-ar-digitized-anatomical-models-supplement-alternative-cadavers.md)
 
 ## Examples
 -

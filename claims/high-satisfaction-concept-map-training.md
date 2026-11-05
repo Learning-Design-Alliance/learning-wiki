@@ -49,3 +49,4 @@ Descriptive analysis of an eight-question Likert-type satisfaction inventory com
 - [Teachers rate LearnLens positively across usability, relevance, and accuracy, with all nine Likert items averaging at least 4.1/5](learnlens-teacher-satisfaction-4-1-of-5.md) — related
 - [Teachers, parents, and coaches report high satisfaction and strong coach-teacher alliance with First Step Next](fsn-high-satisfaction-alliance.md) — related
 - [Students rated the peer-assisted simulation workshops highly, with mean satisfaction scores above 4 of 5](high-satisfaction-peer-simulation-workshops.md) — related
+- [First-year surgery residents were highly satisfied with the homemade CVCD TIVAP simulator, with a mean overall rating of 8.7 of 10 (n = 28)](residents-high-satisfaction-homemade-tivap-simulator.md) — related

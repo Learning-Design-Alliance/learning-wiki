@@ -58,3 +58,4 @@ Inductive grounded-theory coding of open-ended survey responses from CHW trainee
 - [Open-ended reflections most often highlighted realism of the simulation (51.5%), the simulation patient's role (32.0%), and interprofessional collaboration (20.6%)](mcleims-open-ended-themes.md) — related
 - [Students taught with a standardized patient reported marginally more engaging, effective, and confidence-building learning experiences than students taught by video demonstration](sp-feedback-more-engaging-and-confidence-building.md) — related
 - [Small-group, communication-focused SP simulations increase pre-licensure nursing students' comfort and confidence in therapeutic communication](sp-simulation-increases-therapeutic-communication-comfort.md) — related
+- [Medical students most valued OSCEai's on-demand data, self-paced learning, and realistic patient interactions](osceai-valued-features-survey.md) — related

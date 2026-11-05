@@ -51,3 +51,4 @@ Parallel RCT with 58 second-year midwifery students randomised to personalised v
 - [Simulation alone significantly improves satisfaction and self-confidence within both groups regardless of feedback condition](simulation-alone-improves-satisfaction-both-groups.md) — related
 - [Structured PEARLS debriefing is associated with higher general self-efficacy](debriefing-higher-general-self-efficacy.md) — related
 - [INACSL-standard-based simulation training does not significantly improve midwifery students' self-confidence compared with standard training](inacsl-simulation-no-self-confidence-gain.md) — related
+- [Simulation-assisted application increases nursing students' satisfaction and self-confidence in learning compared with clinical practice alone](simulation-raises-nursing-satisfaction-self-confidence.md) — related

@@ -54,3 +54,4 @@ Repeated measures ANOVA in a two-arm randomized controlled trial of 41 trainee t
 - [The e-learning group reported significantly higher motivation to learn than the lecture-based group](ecme-motivation-higher-than-lecture.md) — related
 - [The experimental group showed increased motivation and improved communication skills after citation-based lessons, while the control group remained virtually unchanged](citation-lessons-motivation-communication-gains.md) — related
 - [The VR group rated class evaluation, simulation design evaluation, and practice immersion significantly higher than the e-book control group](vr-group-higher-secondary-outcomes-dka-simulation.md) — a narrower finding that bears on this claim
+- [DMIS students rated course content and self-efficacy higher than controls after laboratory lectures](dmis-higher-course-content-self-efficacy-ratings.md) — related

@@ -63,3 +63,4 @@ Questionnaire study with 30 participants, all with prior STEM teaching experienc
 - [Subjects reported high satisfaction with the computer-based mapping training](high-satisfaction-concept-map-training.md) — related
 - [Participants rated the VOC training highly on means efficacy, usefulness, and satisfaction, suggesting strong perceived value of the tool.](voc-training-high-means-efficacy-satisfaction.md) — related
 - [Trainees reported high satisfaction with the AI-enabled personalized teaching model](high-satisfaction-ai-personalized-teaching.md) — related
+- [Students rated the virtual simulation system highly across learning effectiveness, usability, instructional value, and satisfaction (means above 4.2/5; Cronbach's α > 0.80)](vs-irrigation-questionnaire-high-acceptability.md) — related

@@ -53,3 +53,4 @@ Independent samples t-test comparing male (n=73) and female (n=90) nursing stude
 - [Female participants reported significantly higher maths anxiety and general anxiety, while males reported higher maths self-efficacy and maths interest](sex-differences-maths-anxiety-motivation-means.md) — related
 - [Female students reported significantly lower initial self-efficacy for quantitative biology problems than male students, with small effect sizes](female-students-lower-initial-quantitative-self-efficacy.md) — reports the opposite
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — reports the opposite
+- [Gender differences in anxiety and satisfaction: female students scored higher on satisfaction (significant only in the intervention group) and male students higher on state anxiety](gender-differences-anxiety-satisfaction-simulation.md) — related

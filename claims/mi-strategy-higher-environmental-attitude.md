@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2010
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: baş-2010
     resource: "https://eric.ed.gov/?id=EJ1055373"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2010 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Post-test environmental attitude scores were significantly higher in the MI experiment group (X=4.17) than the control group (X=2.83), t(58)=4.50, p=.0001. [→ Baş 2010](#bas-2010)

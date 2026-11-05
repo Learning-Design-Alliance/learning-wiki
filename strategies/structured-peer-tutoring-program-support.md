@@ -51,6 +51,7 @@ The article recommends that institutions deliberately formalize and support peer
 - [Cross Age Tutoring](cross-age-tutoring.md)
 - [Sustain tutor quality through layered professional development: live and asynchronous learning, observations, coaching, and weekly office hours](layered-tutor-professional-development-support.md)
 - [Provide LLI interventionists with 3-day formal training including follow-up on-site coaching](lli-three-day-training-with-on-site-coaching.md)
+- [Revise professional development policies to build a structured framework for peer learning, including learning communities and succession planning programs](structured-peer-learning-framework-policy-strategy.md)
 
 ## Examples
 -

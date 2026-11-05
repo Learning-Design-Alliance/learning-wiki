@@ -55,3 +55,4 @@ Questionnaire survey with 100% response rate (25 per group), 10 items scored 10 
 - [Integrating 3D visualization reconstruction with PBL improves theoretical examination scores versus lecture-based learning in pheochromocytoma training](3d-visualization-pbl-higher-theoretical-scores-pcc.md) — related
 - [Students in the 3D-PBL-annotation group report higher satisfaction with learning motivation, academic atmosphere, teacher-student interaction, and knowledge absorption](3d-pbl-annotation-higher-satisfaction.md) — related
 - [Objective multiple-choice test scores do not differ significantly between 3D-PBL-annotation teaching and traditional lecture-based learning](3d-pbl-annotation-no-objective-score-difference.md) — related
+- [PBL combined with 3D-VRT produced higher overall teaching satisfaction than traditional teaching across all six questionnaire components](pbl-3d-vrt-higher-teaching-satisfaction.md) — related

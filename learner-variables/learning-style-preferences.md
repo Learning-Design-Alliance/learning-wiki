@@ -13,7 +13,7 @@ generated:
 # Learning-Style Preferences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 67 claims (37 show a difference, 14 mixed, 16 no difference) · 39 studies (20 causal, 6 review, 6 associational, 2 qualitative, 2 design, 2 theoretical, 1 quant-synthesis), `q1`–`q3` · 11 of 39 report an effect size · 66 claims rest on one study
+> **Evidence** · 68 claims (37 show a difference, 14 mixed, 17 no difference) · 40 studies (21 causal, 6 review, 6 associational, 2 qualitative, 2 design, 2 theoretical, 1 quant-synthesis), `q1`–`q3` · 11 of 40 report an effect size · 67 claims rest on one study
 
 ## Bottom line
 
@@ -105,6 +105,7 @@ Learning-style preferences are learners' reported preferences for one mode or fo
 - [Self-reported visual and auditory learning preferences declined significantly across matriculating classes during the study](../claims/vark-preferences-declining-trend.md) [+M] — reported style was measured as an outcome of the instruction studied
 - [Students' preference for hard skills and limited receptivity to soft-skill activities hinder soft skills teaching in nursing education](../claims/student-preference-hard-skills-barrier.md) [+M] — learners reporting different styles differed here; not a test of matching instruction to style
 - [Spatial visualizers (SPAT) outperformed object visualizers and verbalizers across all laparoscopic training modalities and performance domains](../claims/spatial-learners-outperform-other-cognitive-styles.md) [+M] — learners reporting different styles differed here; not a test of matching instruction to style
+- [Students strongly preferred physical specimens over VR and 2D, but modality preference did not affect exam performance](../claims/modality-preference-no-performance-effect.md) [-M] — learners reporting different styles differed here; not a test of matching instruction to style
 
 ## The evidence by question
 - *What should the adaptation be based on: responses, or learner styles and preferences?* [Learning Styles Matching Does Not Improve Learning](../claims/learning-styles-matching-does-not-improve-learning.md) [+S]

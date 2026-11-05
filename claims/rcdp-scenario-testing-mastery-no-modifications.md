@@ -9,7 +9,6 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-11-04
 sources:
   - id: da-silva-ruana-luiz-ferreira-oliveira-kumakura-ana-railka-de-souza-2026
     resource: "https://doi.org/10.1590/0034-7167-2024-0253"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In testing with five sixth-semester nursing students, the 15-minute scenario used three brief pauses for immediate directive feedback in cycles not exceeding five minutes, and no modifications to the setup were needed afterward; the one suggestion was to improve the device securing the EVD assembly to the IV stand, or replace the stand. The authors state the format ensured mastery; the 23-action checklist was used during the scenario to stop and repeat scenes, but no performance results or separate mastery outcome are reported. [→ da Silva Ruana Luiz Ferreira; Oliveira-Kumakura Ana Railka de Souza 2026](#da-silva-ruana-luiz-ferreira-oliveira-kumakura-ana-railka-de-souza-2026)

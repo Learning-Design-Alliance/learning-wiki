@@ -48,3 +48,4 @@ Multivariate linear regression on total decision accuracy (0–2) in a survey of
 - [Domain-specific knowledge (replantation and storage) is not independently associated with decision accuracy](domain-specific-knowledge-not-independently-associated.md) — possibly the same claim (merge candidate)
 - [Formal dental trauma training is weakly but significantly correlated with better decision-making performance](formal-training-correlated-with-better-performance.md) — related
 - [Medical students show low clinical decision accuracy in dental trauma scenarios, particularly for tooth avulsion](medical-students-low-decision-accuracy-dental-trauma.md) — related
+- [Residents know avulsed-tooth storage media well but only 29.3% identify the correct 2-week splinting duration](tdi-knowledge-storage-media-strong-splinting-gap.md) — related

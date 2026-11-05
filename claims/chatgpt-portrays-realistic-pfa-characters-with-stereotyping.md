@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: mixed
 newest_evidence: 2026
+source_checked: 2026-11-05
 recheck_by: 2029
 sources:
   - id: figueroa-rodrigo-a-2026
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` The LLM portrayed convincing behaviours, understood multiple-role scenarios, and created and improvised content in PFA role plays. [→ Figueroa Rodrigo A. 2026](#figueroa-rodrigo-a-2026)

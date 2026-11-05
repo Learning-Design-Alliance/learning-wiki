@@ -76,3 +76,4 @@ Exploratory correlations of mother spatial language quantity at 24 months with c
 - [Mothers and fathers show no difference in spatial language use with their children, and children produce similar spatial language with each parent](no-mother-father-spatial-language-difference.md) — related
 - [Boys and girls show comparable spatial language use at 24 and 48 months during structured DUPLO play](no-sex-differences-child-spatial-language-duplo.md) — related
 - [Parents used more spatial language at 24 months than at 48 months, an effect attributable to differences in overall talkativeness](parent-spatial-language-timepoint-talkativeness.md) — related
+- [Parental education positively predicts spatial ability in high school students](parental-education-predicts-spatial-ability-adolescents.md) — related

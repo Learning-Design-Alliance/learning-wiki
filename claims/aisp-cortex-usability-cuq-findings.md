@@ -54,3 +54,4 @@ Usability was assessed post-intervention using the validated 16-item Chatbot Usa
 - [Students reported positive usability and acceptance of MentorChat](mentorchat-positive-usability-acceptance.md) — related
 - [In a 16-rater usability survey after a session, CoLearn scores an overall mean of 4.0/5 with no dimension below ≈3.7, and 75% (12/16) would reuse it; Responsiveness is the lowest dimension](collearn-usability-survey-4-of-5.md) — related
 - [Field-tested IDSA prototype received moderate usability ratings: usage enjoyment highest, design and realization lowest](idsa-usability-ratings-enjoyment-high-design-low.md) — related
+- [The AI chatbot received excellent usability ratings for scenario accuracy and feedback quality, but scoring speed and understanding of traditional Korean medicine terminology fell below the satisfaction benchmark](chatbot-usability-strengths-feedback-weaknesses-tkm-speed.md) — related

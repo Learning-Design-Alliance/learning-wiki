@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: anchalee-santi-2026
     resource: "https://doi.org/10.1186/s12909-026-10011-5"
@@ -73,7 +73,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (7 entries) · causal `r1` · `q3`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 7 of 7 entries) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 7 of 7 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Residents' total knowledge scores increased significantly from pretest to posttest after playing the card game. [→ Anchalee Santi 2026](#anchalee-santi-2026)

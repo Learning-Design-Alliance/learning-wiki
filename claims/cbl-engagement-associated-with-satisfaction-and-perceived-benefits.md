@@ -61,3 +61,4 @@ Chi-squared tests on survey data from 327 students compared perceptions across f
 - [First-year medical students reacted positively to the e-modules and preferred them as a supplement to, not a replacement for, traditional teaching](students-prefer-e-modules-as-supplement.md) — related
 - [Students perceive case-based learning as developing early clinical reasoning and critical thinking in the preclinical years](cbl-perceived-clinical-reasoning-development.md) — related
 - [SKIT improves recognition of thinking ability, communication skills, and practical application, but not significantly learning interest or knowledge understanding](skit-recognition-teaching-process-mixed.md) — related
+- [Students in the WeChat-based PBL group reported more favorable perceptions of motivation, knowledge acquisition, communication, self-learning, clinical thinking, and problem-solving than traditional-teaching students](wechat-pbl-student-perceptions-favorable.md) — related

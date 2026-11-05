@@ -52,3 +52,4 @@ Classifier comparison in the Results section using F-scores (weighted and macro-
 - [Random forest achieves the highest mean test accuracy (0.9590) of all models compared for predicting exam grade categories from physiological signals](random-forest-highest-accuracy-physiological-exam-prediction.md) — related
 - [Random forest algorithms yielded the best classification performance in K–8 MMLA studies comparing multiple machine learning models](mmla-k8-random-forest-best-performance.md) — related
 - [SVM with RoBERTa sentence embeddings was the most accurate automatic scoring method (κ = .82) among the four tested combinations](roberta-svm-most-accurate-scoring-pisa.md) — related
+- [The prediction model accurately classified 76.7% of 'improvement required' and 'nonimprovement required' students in an independent validation cohort](prediction-model-validated-76-7-percent-accuracy.md) — related

@@ -49,3 +49,4 @@ Mediation analysis with 1,000 bootstrap rotations found a significant indirect e
 - [Female pharmacy students show better antifungal stewardship practice adherence than male students](female-students-better-practice-adherence-antifungal.md) — related
 - [Most pharmacy students in Karachi demonstrate good knowledge of antifungal resistance and stewardship, improving with study year](pharmacy-students-good-knowledge-antifungal-resistance.md) — related
 - [A majority of pharmacy students hold positive attitudes toward antifungal resistance and stewardship, improving with study year](pharmacy-students-positive-attitudes-antifungal-stewardship.md) — related
+- [Clinical reasoning competency partially mediates the relationships of delirium knowledge and self-efficacy with delirium care difficulties](clinical-reasoning-partially-mediates-difficulties.md) — a narrower finding that bears on this claim

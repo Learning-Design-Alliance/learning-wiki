@@ -86,3 +86,5 @@ Post-survey questionnaire results from the think-aloud study. Participants repor
 - [EVS usability scores above 'good' benchmark but students become more critical of usability when encountering staff competency or testing problems](evs-usability-context-dependent.md) — related
 - [The DCBL platform achieved marginal-to-average usability (mean SUS 62.4) with moderate cognitive workload](dcbl-platform-usability-sus-workload.md) — related
 - [Students rate the AISP chatbot highly usable, with robotic conversational style the most common concern](aisp-cortex-usability-cuq-findings.md) — related
+- [The AI chatbot received excellent usability ratings for scenario accuracy and feedback quality, but scoring speed and understanding of traditional Korean medicine terminology fell below the satisfaction benchmark](chatbot-usability-strengths-feedback-weaknesses-tkm-speed.md) — related
+- [OSCEai received an overall learning-tool rating of 4.62 and a recommendation likelihood of 4.78 out of 5](osceai-overall-reception-ratings.md) — related

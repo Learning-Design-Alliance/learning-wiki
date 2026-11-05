@@ -53,3 +53,4 @@ Cross-sectional paper-pencil survey of 192 completed questionnaires (97.46% resp
 - [Over 96% of flipped classroom residents express satisfaction, but 32.1% report increased time demands and 28.6% report greater self-presentation pressure](fc-satisfaction-and-implementation-challenges.md) — related
 - [92.60% of students were satisfied with the A-SPIRE model and 96.3% believed their science communication ability improved](a-spire-high-satisfaction-self-assessed-improvement.md) — related
 - [Students across all groups reported high satisfaction with the module, with no statistically significant group differences in satisfaction or self-reported mastery](high-satisfaction-no-group-differences-perceptions.md) — related
+- [First-year surgery residents were highly satisfied with the homemade CVCD TIVAP simulator, with a mean overall rating of 8.7 of 10 (n = 28)](residents-high-satisfaction-homemade-tivap-simulator.md) — related

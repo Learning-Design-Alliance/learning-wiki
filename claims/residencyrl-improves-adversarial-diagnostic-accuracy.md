@@ -9,7 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-18
+source_checked: 2026-11-05
 sources:
   - id: liévin-2026
     resource: "https://doi.org/10.48550/arxiv.2608.07418"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On held-out in-domain adversarial scenarios, the ResidencyRL-trained agent achieves higher diagnostic accuracy than the base model (88.0% vs. 81.0% rubric score ≥4/5). [→ Liévin 2026](#lievin-2026)

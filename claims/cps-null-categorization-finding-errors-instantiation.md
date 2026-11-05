@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2015
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: docktor-2015
     resource: "https://doi.org/10.1103/PhysRevSTPER.11.020106"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The categorization, equation instantiation, and finding errors tests did not show any significant differences between groups; nonsignificant differences favored CPS on categorization and equation instantiation, while the finding errors test was near floor and did not consistently favor either group. [→ Docktor 2015](#docktor-2015)

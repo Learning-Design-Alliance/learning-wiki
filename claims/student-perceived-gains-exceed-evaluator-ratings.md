@@ -53,3 +53,4 @@ Comparison of survey perceptions with expert ratings in the pilot found students
 - [Students tend to overestimate their own performance when self-assessing with rubrics](students-overestimate-self-assessment-with-rubrics.md) — related
 - [Students tend to overestimate their clinical judgment ability relative to evaluator-assessed scores](students-overestimate-clinical-judgment.md) — related
 - [Explicit strategy instruction did not significantly enhance self-assessed language progress in mixed-ability groups](explicit-strategy-instruction-no-self-assessment-effect.md) — related
+- [First-year nursing students strongly overestimate their social/communication skills relative to examiner ratings (mean difference −0.141, d = 0.99)](nursing-students-overestimate-communication-osce.md) — related

@@ -73,3 +73,4 @@ Checklist-item analysis in the same pilot. The article reports Cohen's d > 1 for
 - [Some PBLS steps, including calling for help and checking for clear signs of life, did not reach statistical significance after training](some-pbls-steps-not-statistically-significant.md) — related
 - [The one-step checklist item for checking chest expansion showed no statistically significant change from pre-test to post-test in one group after training, with no comparison group](chest-expansion-check-not-significant.md) — related
 - [The proportion of successful attempts on key PBLS actions rose significantly from pre-test to post-test after training, in one uncontrolled pre-post study](simulation-pbls-increases-successful-attempts.md) — related
+- [Self-perceived confidence improved significantly across all ten surveyed pediatric CPR and interprofessional collaboration items (p < 0.001 each)](ipstar-confidence-gains.md) — related

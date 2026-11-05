@@ -13,7 +13,7 @@ generated:
 # Hands-on Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 24 claims (19 for, 5 mixed) · 20 studies (9 causal, 3 quant-synthesis, 3 review, 3 design, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 20 report an effect size · 24 claims rest on one study
+> **Evidence** · 25 claims (20 for, 5 mixed) · 22 studies (11 causal, 3 quant-synthesis, 3 review, 3 design, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 22 report an effect size · 24 claims rest on one study
 
 ## Description
 Hands-on learning is the element in which learners manipulate materials, tools, or environments directly while applying ideas in practice. It is useful when understanding depends on doing, making, testing, or experiencing rather than only discussing.
@@ -63,6 +63,7 @@ Hands-on learning is the element in which learners manipulate materials, tools, 
 - [The teaching-skill advantage of hands-on supervision was maintained at two-month follow-up](../claims/hands-on-supervision-gains-maintained-follow-up.md) [+W]
 - [Active learning based science camp activities improved students' psychomotor skills towards scientific views on environmental issues](../claims/science-camp-improved-psychomotor-skills.md) [+W]
 - [A one-day cadaveric neurosurgical workshop significantly increases general and pediatric surgeons' immediate self-rated confidence across most life-saving cranial trauma procedural steps](../claims/neurosave-immediate-confidence-gains.md) [+W] — attached 2026-11-05 from Górecki W et al. (2026), which proposed "NEUROSAVE one-day cadaveric neurosurgical workshop with six neurosurgeon-supervised stations".
+- [A ChatGPT-supported virtual manipulative learning environment produces higher anatomy academic achievement than simulation-only and traditional teaching](../claims/chatgpt-virtual-manipulatives-higher-anatomy-achievement.md) [+W] — attached 2026-11-05 from An Alternative Approach in Anatomy Education: Design of a Learning Environment Based on Ar, which proposed "Web-based anatomy learning module integrating 3D virtual manipulatives with a ChatGPT sidebar".
 
 ## The evidence by question
 - *Does a concrete stage help at all over abstract symbols alone?* [Manipulatives Improve Math Learning](../claims/manipulatives-improve-math-learning.md) [+M]

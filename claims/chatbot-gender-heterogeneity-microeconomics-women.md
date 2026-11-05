@@ -58,3 +58,4 @@ Subgroup ITT analysis in the Microeconomics RCT (915 randomized students) with f
 - [The GenAI-integrated group outperformed controls across course assessment components, with Cohen's d ranging from 0.65 to 0.88, and a higher proportion earning B+ or higher](genai-group-better-course-performance.md) — related
 - [The tutored group also obtained significantly higher final (indicative exam) grades than the non-tutored group after the 11-week intervention](peer-tutoring-final-grade-advantage.md) — related
 - [ITS program completers earned an average final course grade of 2.18 on a 4.0 scale (SD = 1.388, N = 39)](its-completers-average-course-grade-2-18.md) — related
+- [No significant gender difference in scenario scores before or after training.](no-gender-difference-trauma-scenario-scores.md) — related

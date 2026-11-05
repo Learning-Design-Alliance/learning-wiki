@@ -49,3 +49,4 @@ Descriptive results from the attitude items (A1–A5) of the cross-sectional que
 - [Only 56.40% of students had participated in virtual simulation training, though most participants reported skill improvement and 62.90% wanted it as a compulsory course](practice-engagement-virtual-simulation-limited.md) — related
 - [Learner acceptance of AI simulations is generally high, with System Usability Scale scores of 61.6 to 78.56 and 72%-93% willingness to recommend](ai-simulation-high-learner-acceptance.md) — related
 - [Participants reported high satisfaction with simulation sessions but criticized time allocation and group size](simulation-session-satisfaction-time-group-size.md) — related
+- [Most residents believe additional simulated laparoscopic training would positively impact their operative autonomy, yet few practice regularly](residents-believe-simulation-improves-autonomy.md) — related

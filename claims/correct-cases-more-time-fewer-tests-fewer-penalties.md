@@ -47,3 +47,4 @@ Univariate comparison of time, navigation, and penalty measures between correctl
 ## Related Claims
 - [Correct diagnoses are associated with higher diagnostic justification and test-ordering scores and fewer cognitive errors in pre-clerkship virtual patient cases](correct-diagnoses-higher-dxj-fewer-cognitive-errors.md) — related
 - [Most students solved BioWorld cases, and successful solvers took less time and fewer actions than unsuccessful solvers](bioworld-successful-solvers-faster-fewer-actions.md) — related
+- [Expert gastroenterologists diagnose more clinical cases accurately than second-year medical students](experts-outperform-novices-diagnostic-accuracy.md) — related

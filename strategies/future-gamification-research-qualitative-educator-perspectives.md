@@ -45,6 +45,7 @@ Based on the descriptive gaps its review exposed — only 2% qualitative studies
 
 - [Advance AI-motivation research through theory-driven, pedagogically explicit, longitudinal designs covering broader motivational constructs](future-ai-motivation-research-recommendations.md)
 - [Future AI-SRL research should broaden search strategies, include educators and younger learners, address motivation, and apply longitudinal designs](ai-srl-future-research-recommendations.md)
+- [Future CT-in-ELT research should prioritise inclusive, data-driven, longitudinal approaches integrating pedagogical experimentation and sociocultural perspectives](ct-elt-future-research-recommendations.md)
 
 ## Examples
 -

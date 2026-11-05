@@ -59,3 +59,4 @@ In the experimental group, the Simulator Sickness Questionnaire was completed be
 - [Simulator sickness was low (median SSQ 1.9) with no serious adverse events](ncpr-vr-low-simulator-sickness.md) — related
 - [No AR-related adverse effects occurred and ergonomic burden was low during short remote AR simulation sessions](remote-ar-low-ergonomic-burden-no-adverse-effects.md) — related
 - [Remote AR headset use imposes minimal reported ergonomic burden and no adverse events in neonatal resuscitation simulation](remote-ar-simulation-ergonomics-adverse-events.md) — related
+- [Cybersickness during short VR bellringer testing was minimal and unrelated to VR or total exam performance](cybersickness-minimal-unrelated-br-performance.md) — related

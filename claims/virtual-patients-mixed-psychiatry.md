@@ -113,3 +113,4 @@ Uncontrolled before-after study (RT-SIM) with 32 psychiatry residents completing
 - [A Kolb-based VR simulation program produces significantly greater improvement in problem-solving ability than e-book-based case simulation among nursing students](vr-experiential-simulation-improves-dka-problem-solving.md) — related
 - [Diagnostic accuracy did not differ between the VR and standardized patient units despite lower subjective ratings for VR](diagnostic-accuracy-similar-vr-and-sp-units.md) — related
 - [VR-trained students outperformed control students in all three assessed competency modules in both assessment modes](vr-cataract-three-module-subscore-advantage.md) — related
+- [In one uncontrolled pre-post study, dental students' use of complex medical jargon fell from before to after the virtual dental clinic module, while straightforward language with patients rose](vdc-communication-jargon-reduction.md) — related

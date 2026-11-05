@@ -55,6 +55,7 @@ The review recommends formal tutor training programs embedded in undergraduate s
 - [Train normal peers, teachers and parents in peer tutoring to support children with ASD](train-peers-teachers-parents-peer-tutoring-asd.md)
 - [Implement a structured clinical supervision model with trained supervisors, scheduled observations, and three-way conferences](structured-clinical-supervision-implementation-strategy.md)
 - [Support short intensive gifted-education certificate programs with supervision or micro-teaching practices](supervision-microteaching-support-for-certificate-programs.md)
+- [Develop structured post-FLS simulation curricula with advanced skills, regular faculty coaching, and early orientation to simulation resources](post-fls-structured-simulation-curricula-strategy.md)
 
 ## Examples
 -

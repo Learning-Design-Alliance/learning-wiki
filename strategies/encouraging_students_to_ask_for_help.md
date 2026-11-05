@@ -73,6 +73,7 @@ Help-seeking is a core self-regulatory behavior: students who seek help adaptive
 - [Use predicted hint-taking likelihood and hint effects to adaptively decide whether to withhold or provide hints](adaptive-hint-withholding-from-hint-prediction.md)
 - [Normalize and de-stigmatize help-seeking behavior in the classroom so academic help-seeking habits carry over to health issues](normalize-destigmatize-help-seeking-classroom.md)
 - [Design AI tutoring behaviors that withhold solutions, prompt recall, and ask critical questions](withhold-answers-prompt-recall-ask-questions.md)
+- [Provide sample keywords and prompt guidance so students ask short, simple questions to the AI tool](sample-keywords-short-simple-prompts-strategy.md)
 
 ## Examples
 - **Khan Academy (https://www.khanacademy.org)** — hint sequences in exercises are deliberately ordered from general to specific, an attempt to keep help instrumental; research on such systems shows learners often under-use or abuse hints, motivating explicit help-seeking training.

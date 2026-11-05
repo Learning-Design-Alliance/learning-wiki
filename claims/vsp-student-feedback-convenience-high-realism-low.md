@@ -56,3 +56,4 @@ Anonymous postencounter online questionnaire completed by 63 of 92 students (68.
 - [Students rated the VSP system positively for usability and learning assistance, with comparatively low ratings for patient realism and authenticity](positive-ueq-ratings-vsp-system.md) — related
 - [Student satisfaction with the patient navigator experience was high, with a mean score of 8.3 on a 10-point scale](flip-high-student-satisfaction-8-of-10.md) — related
 - [Medical students rate the virtual patients as realistic and comprehensible, with face validity exceeding the acceptability threshold](vp-acceptable-face-validity.md) — reports the opposite
+- [Sentiment analysis of GAI-generated VSP responses showed predominantly negative sentiment, consistent with clinical realism](vsp-responses-negative-sentiment.md) — related

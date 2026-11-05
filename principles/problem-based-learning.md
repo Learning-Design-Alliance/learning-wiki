@@ -32,7 +32,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 148 claims (61 for, 77 mixed, 10 against) · 88 studies (32 quant-synthesis, 23 causal, 12 review, 8 qualitative, 6 theoretical, 5 associational, 2 design), `q1`–`q4` · 22 of 88 report an effect size · 143 claims rest on one study
+> **Evidence** · 149 claims (62 for, 77 mixed, 10 against) · 89 studies (32 quant-synthesis, 23 causal, 12 review, 8 qualitative, 6 associational, 6 theoretical, 2 design), `q1`–`q4` · 22 of 89 report an effect size · 144 claims rest on one study
 
 ## Conditional relationship
 
@@ -140,6 +140,7 @@ On 2026-10-19 (wave 2) the other claims linked here were read and moved into the
 - [PBL teaching significantly improves the critical thinking skills of analysis and interpretation in English-major sophomores](../claims/pbl-improves-analysis-interpretation-skills.md) [+W] — attached 2026-11-03 from Zhen Zhou (2018), which proposed "Use PBL to cultivate critical thinking in English teaching because it centres students on real problem situations"; tests this page's relationship.
 - [Cartoon-supported problem-based learning improves fourth-grade students' perceptions of their problem-solving skills](../claims/cartoon-pbl-improves-problem-solving-perceptions.md) [+W] — attached 2026-11-03 from Derya Duygu Tanrıkulu (2022), which proposed "Use cartoons as a humour element to support problem-based learning in primary school Social Studies".
 - [Cartoon-supported problem-based learning improves fourth-grade students' achievement on two Science, Technology and Society outcomes in Social Studies](../claims/cartoon-pbl-improves-social-studies-achievement.md) [+W] — attached 2026-11-03 from Derya Duygu Tanrıkulu (2022), which proposed "Use cartoons as a humour element to support problem-based learning in primary school Social Studies".
+- [Students in problem-based learning curricula outperform students in traditional curricula on the European Prescribing Exam](../claims/pbl-curriculum-higher-prescribing-exam-scores.md) [+W] — attached 2026-11-05 from Donker et al. (2026), which proposed "Include a final CPT examination and problem-based learning in medical curricula to strengthen prescribing competence"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

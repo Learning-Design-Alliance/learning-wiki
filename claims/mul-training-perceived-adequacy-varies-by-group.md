@@ -49,3 +49,4 @@ Post-study questionnaire (Google Forms) completed by 69 of 81 participants (85% 
 - [Scaffolding must be balanced: too little led to confusion and overload, while too much reduced opportunities for critical thinking](scaffolding-balance-confusion-versus-critical-thinking.md) — related
 - [All three online training methods significantly improved diagnostic performance for MUL measurements on prostate MRI with no significant differences between groups](online-training-improves-mul-diagnostic-performance.md) — related
 - [Self-reported reader confidence in measuring MUL rose significantly from pre-test to post-test across all training groups in one uncontrolled pre-post study](online-training-improves-mul-reader-confidence.md) — related
+- [Students in the WeChat-based PBL group perceived the course as occupying too much of their spare time](wechat-pbl-spare-time-burden-perception.md) — related

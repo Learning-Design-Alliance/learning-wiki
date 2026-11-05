@@ -9,7 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2024
-source_checked: 2026-10-21
+source_checked: 2026-11-05
 sources:
   - id: alexander-skulmowski-2024
     resource: "https://doi.org/10.1007/s10648-024-09869-y"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
-> **Currency** · newest study 2024 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the meta-analysis by Mavilidi et al. (2022), the largest positive effects on memory were achieved when motor activities combined high integration with high relevance. [→ Alexander Skulmowski 2024](#alexander-skulmowski-2024)

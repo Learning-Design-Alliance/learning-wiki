@@ -74,3 +74,4 @@ The review reports, citing Kaldaras et al., a controlled classroom deployment wi
 - [GPT-4 demonstrated higher reliability of feedback than GPT-3.5, with higher F1 agreement with instructors on most assessment aspects](gpt4-higher-polarity-reliability-than-gpt35.md) — related
 - [State-of-the-art conversational agents (Blender and GPT-3) replied adequately to students but were well behind human performance in helping the student (reported from a dialogue study)](conversational-agents-behind-human-helping-students.md) — related
 - [A heuristic for assigning blame to rules behind incorrect steps agreed with human coders at kappa=0.78](heuristic-blame-assignment-kappa-078.md) — related
+- [Students rated expert feedback higher than AI feedback on educational contribution, clinical thinking support, and perceived reliability, with no statistically significant differences](students-rate-expert-feedback-higher-not-significant.md) — related

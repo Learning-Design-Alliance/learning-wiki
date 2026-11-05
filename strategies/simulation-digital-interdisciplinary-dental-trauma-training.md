@@ -54,6 +54,7 @@ The article recommends simulation-based training, digital tools including the IA
 - [Evaluate digital decision-support in novice providers and optimize interface design to minimize cognitive overhead](future-research-novice-providers-interface-optimization.md)
 - [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
 - [Integrate structured, interdisciplinary dental trauma training into vocational health curricula using modular, problem-based and digital formats](structured-dental-trauma-curriculum-integration-strategy.md)
+- [Integrate occupational adaptive learning with simulation training, case studies, and interdisciplinary collaboration to strengthen clinical pharmacist preparation](integrate-adaptive-learning-with-simulation-case-studies.md)
 
 ## Examples
 -

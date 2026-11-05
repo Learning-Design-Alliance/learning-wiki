@@ -54,3 +54,4 @@ Bootstrapping analysis submitting each exam to GPT-4 50 times (API 'n' parameter
 - [The authors argue that LLMs such as GPT-3 threaten OBE validity by enabling answers without deep understanding, particularly in unproctored settings](llms-threaten-obe-validity-argument.md) — related
 - [MELD analysis found no completion matched the MRCP sample paper at 95% or more, suggesting ChatGPT-4 was unlikely trained on it](meld-analysis-suggests-no-mrcp-training-data-memorisation.md) — related
 - [ChatGPT versions were inconsistent, matching scores in all 3 runs for only 18% and 10% of encounters.](llm-inconsistent-across-runs.md) — related
+- [GPT-4o was the most inconsistent chatbot, with 19 questions answered correctly in the first round answered incorrectly in the second](gpt-4o-most-inconsistent-across-rounds.md) — related

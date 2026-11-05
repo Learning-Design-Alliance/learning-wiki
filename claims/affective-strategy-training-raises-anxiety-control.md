@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2016
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: mostafavi-and-vahdany-2016
     resource: "https://doi.org/10.7575/aiac.alls.v.7n.4p.197"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2016 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The experimental group's level of anxiety control was statistically different and higher than the control group's at the end of the study (independent samples t=5.30, p=.00). [→ Mostafavi and Vahdany 2016](#mostafavi-and-vahdany-2016)

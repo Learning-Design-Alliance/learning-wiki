@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: robert-alexander-graham-coates-2017
     resource: "https://portal.issn.org/resource/ISSN/1692-5777"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Overall pronunciation improvement for the trial cohort was statistically significant (p = 0.000), with the digraph category showing the largest effect (F = 119.01). [→ Robert Alexander Graham Coates 2017](#robert-alexander-graham-coates-2017)

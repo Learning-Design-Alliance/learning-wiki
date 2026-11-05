@@ -49,3 +49,4 @@ Descriptive result from the sequential-query phase of the benchmark; Table 1 rep
 - [Case-based question accuracy does not differ significantly across the four LLMs under either querying method](case-based-accuracy-no-model-difference.md) — related
 - [Sequential querying significantly reduces knowledge-question accuracy for GPT-5 (91% to 75%) and GPT-4o (86% to 73%), but not for DeepSeek or Gemini 2.5 Pro](sequential-querying-degrades-gpt-knowledge-accuracy.md) — related
 - [The four LLMs differ significantly in overall and knowledge-question accuracy on DUS prosthodontics questions under independent querying, driven by DeepSeek's lower performance](llm-accuracy-differs-independent-query-dus-prosthodontics.md) — related
+- [On the CDLE benchmark, DeepSeek-R1, GPT-5 Thinking, Gemini 2.5 Pro, and OpenAI o3 significantly outperform GPT-4o in overall accuracy, with Gemini 2.5 Pro highest at 91.67%](cdle-four-llms-outperform-gpt4o-overall.md) — related
