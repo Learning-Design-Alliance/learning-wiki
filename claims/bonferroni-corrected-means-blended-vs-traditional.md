@@ -50,3 +50,4 @@ Bonferroni test for post comparisons of corrected means controlling pretest: tra
 - [Both blended learning and problem-based learning produced significantly higher algebra achievement than traditional lecture method, while BL and PBL did not differ significantly](bl-pbl-outperform-tlm-algebra.md) — reports the opposite
 - [Blended problem-based learning produced significantly higher posttest academic achievement than PBL and traditional lecture instruction](bpbl-higher-academic-achievement-than-pbl-and-lecture.md) — related
 - [Both blended and traditional teaching produced significant pretest-posttest changes in personality subscales](both-teaching-methods-change-personality-subscales.md) — related
+- [Critique scores did not differ significantly between the blended AI-integrated curriculum group and the traditional lecture group](critique-score-no-significant-difference-blended-ai-curriculum.md) — related

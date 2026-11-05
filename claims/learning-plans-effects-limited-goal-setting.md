@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2018
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: van-houtenschat-maaike-a-2018
     resource: "https://doi.org/10.1111/medu.13615"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2018 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Although learning plans were aimed at the complete SRL cycle, effects were only found in setting a wide range of learning objectives and in increased focus for learning. [→ van Houten‐Schat Maaike A 2018](#van-houtenschat-maaike-a-2018)

@@ -47,3 +47,4 @@ Cumulative login data analysis: "The majority of the students (more than 90%) ac
 
 ## Related Claims
 - [Learners used products outside class despite infrastructure limits: 65% of surveyed students reported doing software work outside class while mobile access was largely unavailable](adult-ed-out-of-class-use-mobile-gap.md) — related
+- [Website analytics showed module traffic spiking in the 1-3 days before examinations and around laboratory sessions](analytics-traffic-spikes-exams-labs.md) — related

@@ -13,7 +13,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 87 claims (63 show a difference, 19 mixed, 5 no difference) · 78 studies (20 review, 15 causal, 15 qualitative, 13 design, 5 quant-synthesis, 5 associational, 5 theoretical), `q1`–`q4` · 10 of 78 report an effect size · 83 claims rest on one study
+> **Evidence** · 88 claims (64 show a difference, 19 mixed, 5 no difference) · 79 studies (20 review, 16 causal, 15 qualitative, 13 design, 5 quant-synthesis, 5 associational, 5 theoretical), `q1`–`q4` · 10 of 79 report an effect size · 84 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -128,6 +128,7 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [Students perceive wellness course content as immediately applicable to daily life, which they describe as heightening motivation and sustained engagement](../claims/perceived-relevance-heightens-engagement.md) [+M] — learners who differ on it differ in outcomes
 - [Final-year dental students perceived the AI role-play as authentic and relevant to clinical practice, with 85.7% strongly agreeing it relates to real-life scenarios](../claims/ai-roleplay-perceived-authenticity-survey.md) [+M] — measured as an outcome of the instruction studied
 - [Contextual constraints — time pressure, facilitator variability, limited clinical exposure and lack of visual aids — moderate CBL effectiveness in resource-limited settings](../claims/cbl-constrained-by-resource-limited-context.md) [~M] — an instructional effect differs with it
+- [Students in the high-tech group reported higher engagement and perceived value than low-tech students, who wanted more high-tech exposure](../claims/high-tech-simulation-qualitative-engagement.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

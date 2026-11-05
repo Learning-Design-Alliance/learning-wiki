@@ -56,6 +56,7 @@ Organize undergraduate training of invasive dental procedures by deconstructing 
 - [Checklists](checklists.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Structured stepwise endodontic curriculum: preclinical training, clinical observation, then supervised clinical practice](stepwise-endodontic-curriculum-preclinical-observation-practice.md)
+- [Divide a complex procedure into measurable subcomponents to support stepwise training and objective skill assessment](subcomponent-division-stepwise-training.md)
 
 ## Examples
 -

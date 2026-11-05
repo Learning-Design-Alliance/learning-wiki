@@ -52,3 +52,4 @@ Randomized comparison of 20 students per group (40 analyzed) in preclinical endo
 - [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](ir-dental-equivalence-mixed-findings.md) — reports the opposite
 - [A hybrid CBL-SST-simulator model produces significantly higher clinical thinking scores than lecture-based learning in preclinical endodontics](hybrid-cbl-sst-higher-clinical-thinking-than-lbl.md) — related
 - [Participants trained with simulated models and phantom bodies in addition to extracted teeth reported better understanding and practice of endodontics (P < 0.001)](simulative-models-better-understanding-practice.md) — related
+- [Within the P-I-T-D-S model, students who used the OSCRS simulator before class scored significantly higher than those who used it after class](pre-class-oscrs-timing-higher-scores.md) — related

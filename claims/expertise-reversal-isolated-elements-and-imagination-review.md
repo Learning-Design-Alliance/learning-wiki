@@ -61,3 +61,4 @@ The review attributes this to Cooper, Tindall-Ford, Chandler, and Sweller (2001)
 - [Imagining worked examples benefits learners with adequate prior knowledge but harms performance for low-knowledge learners](imagined-worked-examples-prior-knowledge.md) — possibly the same claim (merge candidate)
 - [Experienced educators ranked experience-drawing and imagination questions highest and factual and technique questions lowest among eighteen literature study questions](expert-rankings-literature-study-questions.md) — related
 - [An expertise reversal pattern: AR provides substantial benefits to novices with diminishing returns for experienced surgeons](ar-expertise-reversal-effect.md) — a narrower finding that bears on this claim
+- [Expertise reversal effect: benefits of two modalities and worked examples diminish or reverse as learner expertise increases](expertise-reversal-modality-worked-examples.md) — related

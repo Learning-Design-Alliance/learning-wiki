@@ -58,3 +58,7 @@ One-group pre-test/post-test study of 106 preregistration pharmacist trainees us
 - [Knowledge gains declined significantly from post-training to 3-month follow-up while remaining above baseline](pr-knowledge-decline-at-3-months-above-baseline.md) — related
 - [Extremity tourniquet skill and self-confidence decline significantly at two months while remaining above baseline](extremity-tourniquet-skill-decay-two-months.md) — related
 - [Phase 1 participants retained their knowledge gains at a 4-week follow-up, with a slight nonsignificant decline from post-test.](venomventure-4week-retention.md) — related
+- [In novice optometry students, fixation hits in the PL group decreased from post-training to three-month retention and remained higher than baseline](fixation-gains-decline-at-retention.md) — related
+- [Individual-level knowledge change follows a consistent pattern across students in both groups: large gain then smaller decline](individual-level-change-consistent-across-students.md) — a broader claim this one bears on
+- [Knowledge gains from both Jigsaw and traditional teaching persist to three months, with a small decline from post-intervention](knowledge-retention-three-months-both-methods.md) — related
+- [Management competency improved by 13.5% immediately after the lecture but declined by 6% at the two-month follow-up](management-competency-gain-declines-at-follow-up.md) — a narrower finding that bears on this claim

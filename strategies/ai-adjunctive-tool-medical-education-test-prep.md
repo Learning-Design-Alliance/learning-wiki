@@ -54,6 +54,8 @@ The article recommends that AI can and should assist in medical education, espec
 - [Use online tutoring modules before clinic entry to reinforce diagnostic skills through repetitive application on complex cases](preclinic-online-tutoring-modules-strategy.md)
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
 - [Use ChatGPT-4o as a supplementary educational tool rather than an autonomous clinical decision-support system in non-English contexts](chatgpt-4o-as-supplementary-tool-non-english.md)
+- [Use LLMs as supplements for theoretical learning while preserving hands-on training for practical skills](llm-supplement-theoretical-learning-ot.md)
+- [Integrate AI chatbots into dental education as supervised supplementary tools for exam preparation and formative self-assessment](supervised-chatbot-supplementary-dental-education.md)
 
 ## Examples
 -

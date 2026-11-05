@@ -51,3 +51,4 @@ Moderation testing across all grades and outcomes found no significant sex moder
 - [Sex-specific subgroup models show the same functional forms for boys and girls, though cubic coefficients for boys were not significant after correction](sex-subgroup-functional-forms-similar.md) — related
 - [Sex does not moderate the baseline BMI × BMI-change effect on academic performance](sex-does-not-moderate-bmi-change-effect.md) — related
 - [ACE-outcome associations did not differ between girls and boys](no-gender-differences-ace-associations.md) — related
+- [Gender, BMI, and sleep habits are not significantly associated with academic motivation in rehabilitation students](gender-bmi-sleep-not-associated-sdi.md) — related

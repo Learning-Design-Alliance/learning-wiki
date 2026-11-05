@@ -52,3 +52,4 @@ Baseline comparison in the retrospective cohort: age (P = .305), sex (P = .799),
 - [At baseline, the intervention and control groups showed no statistically significant differences in demographics, evaluation location, or referral type, and comparable low pre-intervention Mini-CEX scores](serious-game-burn-trial-baseline-equivalence.md) — related
 - [The evidence that PBL improves specialist transplant training outcomes is limited by single-institution quasi-experimental design, unblinded assessment, and possible Hawthorne effects](pbl-transplant-study-design-limitations.md) — related
 - [PBL-trained kidney transplantation trainees report higher satisfaction with training than traditionally trained trainees](pbl-higher-trainee-satisfaction-kidney-transplant.md) — related
+- [Baseline characteristics (age, sex, pre-rotation theoretical scores) did not differ significantly between the PBL and lecture cohorts](baseline-comparability-pbl-esophageal-cohort.md) — related

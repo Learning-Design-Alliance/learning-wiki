@@ -53,6 +53,7 @@ Based on its synthesis, the review recommends that healthcare administrators and
 ## Related Strategies
 
 - [Use the shared competency list as a team to identify unmet needs, guide clinical teaching, and shape training and assessment](team-shared-competency-list-unmet-needs.md)
+- [Target QS graduate training programs at management and personality development, combining management content with personal image and innovative insight](qs-management-personality-training-programs.md)
 
 ## Examples
 -

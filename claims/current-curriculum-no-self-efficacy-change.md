@@ -46,3 +46,4 @@ Single-factor repeated-measures ANOVA for the 33 control-group students taught w
 
 ## Related Claims
 - [TPACK-based education applications raise prospective science teachers' self-efficacy belief levels toward science education more than the current curriculum after a 14-week course](tpack-applications-raise-prospective-teacher-science-self-efficacy.md) — related
+- [Both microlearning and webinars significantly increase EMT self-efficacy, while the control group shows no significant change](both-interventions-raise-self-efficacy-control-null.md) — related

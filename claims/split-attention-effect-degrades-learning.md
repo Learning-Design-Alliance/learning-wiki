@@ -6,9 +6,9 @@ generated:
   by: claude/unspecified
   at: 2026-09-25
 id: split-attention-effect-degrades-learning
-aliases: [contiguity-principle-improves-learning, spatial-contiguity-improves-learning, split-attention-effect-impairs-learning, split-attention-effect-integration-improves-learning, spatial-contiguity-meta-analysis-36-studies]
+aliases: [contiguity-principle-improves-learning, spatial-contiguity-improves-learning, split-attention-effect-impairs-learning, split-attention-effect-integration-improves-learning, spatial-contiguity-meta-analysis-36-studies, split-attention-integrated-designs-improve-learning]
 evidence_strength: none
-newest_evidence: 2018
+newest_evidence: 2026
 sources:
   - id: schroeder-cenkci-2018
     resource: "https://doi.org/10.1007/s10648-018-9435-9"
@@ -19,19 +19,29 @@ sources:
     n: 2426 (58 independent comparisons)
     kind: quant-synthesis
     rigour: "?"
+  - id: paridon-h-2026
+    resource: "https://journals.publisso.de/en/journals/jme/volume43/zma001805"
+    title: "Paridon H. (2026). Evidence-based teaching: The examination and use of psychological theories in medical education research using the example of cognitive load theory. GMS Journal for Medical Education. https://journals.publisso.de/en/journals/jme/volume43/zma001805"
+    author: Paridon H.
+    q: 3
+    i: 2
+    kind: theoretical
+    rigour: 2
 ---
 
 # Split Attention Effect Degrades Learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i2` medium · n=2426 (58 independent comparisons)
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 theoretical `r2` · `q3`–`q4` · `i2` medium · n=2426 (58 independent comparisons)
+> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 When learners must mentally integrate information that is physically or temporally separated — such as a diagram and its explanatory text presented apart — working memory resources are consumed by search-and-match processes, degrading learning relative to integrated presentations.
 
 ## Subclaims
 
 `q4 i2` A meta-analysis of 58 independent comparisons (n=2426) found that spatially integrating mutually referring text and diagrams produced a medium-to-large learning benefit over spatially separated presentation, g=0.63. [→ Schroeder Cenkci 2018](#schroeder-cenkci-2018)
+
+`q3 i2` A meta-analysis showed integrated designs improve learning across many moderator variables with an overall effect size of g=0.63. [→ Paridon H 2026](#paridon-h-2026)
 
 ## Evidence
 
@@ -57,14 +67,25 @@ The article reports, citing Schroeder and Cenkci (2018), a meta-analysis of 36 s
 > "Schroeder and Cenkci’s (2018) meta-analysis of 36 studies found that instructional designs with spatial contiguity increased learning outcomes."
 -->
 
+### Paridon H 2026
+
+Paridon H. (2026). Evidence-based teaching: The examination and use of psychological theories in medical education research using the example of cognitive load theory. GMS Journal for Medical Education. https://journals.publisso.de/en/journals/jme/volume43/zma001805
+
+`q3 · i2` · `theoretical · r2`
+
+The review reports a meta-analysis on spatial contiguity and split-attention effects in multimedia learning environments, finding integrated designs improve learning with overall effect size g=0.63 across many moderator variables.
+
+> "A meta-analysis showed that integrated designs improve learning across many moderator variables with an overall effect size of g=0.63"
+
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should words sit next to, and arrive with, the picture they describe?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **6 distinct studies** (3 quant-synthesis, 3 review), `q2`–`q4`, 4 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Should words sit next to, and arrive with, the picture they describe?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **7 distinct studies** (3 quant-synthesis, 3 review, 1 kind not coded), `q2`–`q4`, 5 of 7 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Schroeder Cenkci 2018](https://doi.org/10.1007/s10648-018-9435-9) | q4 · quant-synthesis · r? | i2 · medium-to-large effect, g=0.63 | this claim |
+| Paridon H 2026 | q3 | i2 | this claim |
 | [Noetel 2022](https://doi.org/10.3102/00346543211052329) | q3 · quant-synthesis · r3 | i2 | [Presenting related material contiguously in space and time yields large learning benefits](contiguity-spatial-temporal-large-learning-benefits.md) (supports) |
 | [Ginns 2006](https://doi.org/10.1016/j.learninstruc.2006.10.001) | q2 / q3 · quant-synthesis · r2 | i3; i2; i? | [Integrating spatially or temporally separated but related elements of instructional inform](integration-of-related-elements-large-mean-effect.md) (supports); [The learning benefit of increasing integration is substantially larger for high element in](element-interactivity-moderates-contiguity-effect.md) (qualifies); [Contiguity effects show no statistically reliable difference between static and dynamic pr](static-dynamic-presentation-no-moderation.md) (qualifies); [Spatial and temporal contiguity effects do not differ significantly in mean magnitude](spatial-temporal-contiguity-equivalent-magnitudes.md) (qualifies); [Contiguity effects are larger under one-on-one testing (d = .89) than under group testing ](testing-format-moderates-contiguity-effect.md) (qualifies); [Reviews report that the split-attention benefit for novices reverses into a redundancy eff](expertise-reversal-split-attention-redundancy-review.md) (qualifies) |
 | [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · review · r2 | i3 | [Contiguity principles: near placement and simultaneous presentation of corresponding words](contiguity-principles-mayer-2008.md) (supports) |

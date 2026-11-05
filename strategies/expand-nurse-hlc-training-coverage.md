@@ -43,7 +43,8 @@ Based on the survey finding that nearly half of nurses had no relevant training 
 - [Health status, health literacy training, and competency training are independent predictors of nurses' HLC, explaining 7.8% of variance](../claims/training-and-health-status-predict-nurse-hlc.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use the validated Korean HLC instrument for competency assessment, CPD gap identification, and pre–post training evaluation](hlc-assessment-cpd-training-strategy.md)
 
 ## Examples
 -

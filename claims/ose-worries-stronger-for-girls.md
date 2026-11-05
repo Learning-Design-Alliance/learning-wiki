@@ -55,3 +55,4 @@ Multiple-group SEM comparison of 932 student-parent pairs tested sex differences
 - [Adolescents' online learning self-efficacy during school suspension is negatively associated with their perceived worries after school resumption, for both girls and boys](ose-negative-worries-both-sexes.md) — related
 - [Suspension-period factors explained substantially more variance in girls' post-resumption worries (46.5%) than boys' (24.2%)](variance-explained-sex-difference.md) — related
 - [Gender moderates the link between educational processes and children's social–emotional competence, with stronger associations for girls than boys](gender-moderates-educational-processes-to-social-emotional-competence-link.md) — a broader claim this one bears on
+- [Reading self-efficacy matters more for girls' reading achievement than for boys'](reading-self-efficacy-more-important-girls.md) — related

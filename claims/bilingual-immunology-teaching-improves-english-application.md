@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 sources:
   - id: ji-pengyu-2026
     resource: "https://doi.org/10.1186/s12909-026-08725-7"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Bilingual immunology instruction produced a statistically significant improvement in students' English application ability (RD = 0.36, 95% CI 0.13–0.59, p = 0.003). [→ Ji Pengyu 2026](#ji-pengyu-2026)

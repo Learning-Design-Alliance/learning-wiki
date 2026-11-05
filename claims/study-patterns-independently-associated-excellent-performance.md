@@ -66,3 +66,4 @@ The same adjusted model found no significant independent associations for daily 
 ## Related Claims
 - [Common/passive learning strategies are not independently associated with excellent academic performance after adjustment](common-passive-strategies-not-associated-excellent-performance.md) — related
 - [More frequent use of evidence-based learning strategies is independently associated with higher odds of excellent academic performance among medical students](evidence-based-strategies-associated-excellent-performance-medical-students.md) — related
+- [More daily revision hours independently predict higher academic performance (OR = 1.08 per hour)](daily-revision-hours-predict-performance.md) — reports the opposite

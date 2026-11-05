@@ -53,3 +53,4 @@ NASA Task Load Index questionnaire administered after the simulated procedure. T
 - [Under NASA TLX, AR-group students felt more frustrated but believed they performed relatively better, with nearly equal overall workload scores](nasa-tlx-frustration-perceived-performance-ar.md) — related
 - [Global cognitive load (NASA TLX) change did not differ between training groups](nasa-tlx-global-change-no-group-difference.md) — related
 - [Perceived cognitive load did not differ between facilitator-guided and self-guided debriefing groups](no-cognitive-load-difference-debriefing.md) — related
+- [Perceived task load on the NASA-TLX is higher for novices than beginners and experienced endoscopists](endonix-nasa-tlx-higher-novices.md) — reports the opposite

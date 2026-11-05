@@ -49,3 +49,4 @@ De-identified post-intervention survey completed by trial participants. "partici
 - [LP skill retention at 3 months is comparable between VR-supplemented and conventional training groups, with skills declining in both groups](lp-skill-retention-comparable-three-months.md) — related
 - [Adding 10 minutes of VR training to conventional training yields overall LP proficiency comparable to 30 minutes of purely conventional training in preclinical medical students](vr-supplemented-lp-training-comparable-overall-proficiency.md) — related
 - [VR-supplemented and purely conventional training produce no significant difference on the Standard Lumbar Puncture Rating Score or total procedure time](vr-lp-training-rating-score-and-time-null.md) — related
+- [Student satisfaction was moderately and positively correlated with academic performance in both curriculum groups](satisfaction-performance-moderate-correlation-both-groups.md) — related

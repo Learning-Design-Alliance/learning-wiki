@@ -51,3 +51,4 @@ Trait anxiety measured weeks before the first simulation with the STAI-T among 5
 - [VDT use was associated with reduced cadaveric dissection-related anxiety, including lower pre-exam STAI scores](vdt-reduces-dissection-anxiety-stai.md) — related
 - [A CBT-based skill-training program reduces university students' trait anxiety compared with a no-treatment control](cbt-skill-training-reduces-trait-anxiety.md) — related
 - [Higher trait depression, anxiety, and negative emotionality are associated with setting higher baseline goals (Study 1)](trait-negative-emotionality-higher-goal-levels.md) — related
+- [Participation in a peer-led mock OSCE significantly reduced state anxiety during the summative OSCE among fifth-semester medical students](peer-led-mock-osce-reduces-state-anxiety.md) — related

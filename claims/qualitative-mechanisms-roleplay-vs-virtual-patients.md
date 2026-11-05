@@ -52,3 +52,4 @@ Semi-structured interviews with six students (four virtual patient group, two ro
 - [Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)](students-interaction-empathy-perspective-taking.md) — related
 - [Students report higher satisfaction with role-play than with linear virtual patients](roleplay-higher-satisfaction-than-virtual-patients.md) — related
 - [Qualitative themes of performance, learning and interaction characterise student experience of AISP learning](aisp-qualitative-themes.md) — related
+- [Semistructured interviews with student navigators identified three themes: increased empathy and understanding of patients' lives, improved clinical skills, and interpersonal enrichment](flip-interview-three-themes-empathy-skills-enrichment.md) — related

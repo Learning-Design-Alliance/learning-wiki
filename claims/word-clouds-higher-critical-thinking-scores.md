@@ -49,3 +49,4 @@ Quasi-experimental survey of 132 undergraduates in two sections of an anthropolo
 - [A larger share of word cloud condition students reported that classmate interaction was promoted compared to linear condition students](word-clouds-promote-classmate-interaction.md) — related
 - [Word cloud analysis prompted qualitative changes in student thinking including objective analysis and purposeful reflection](word-clouds-prompt-changes-in-thinking.md) — related
 - [Critical thinking and engagement were positively correlated in online discussion activity](critical-thinking-engagement-positive-correlation.md) — related
+- [Single-word word-cloud elicitation showed students’ associations with VR shifting from entertainment and scepticism toward constructive, professional and educational associations](vr-pilot-word-cloud-conceptual-shift.md) — related

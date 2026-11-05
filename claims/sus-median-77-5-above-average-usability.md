@@ -58,3 +58,4 @@ Adapted SUS administered to clinician testers after each testing round of the te
 - [Mobile AR for anatomy education received a mean System Usability Scale score of 58.25 (SD ±15.41), below the average threshold of 68 and translating to a 'D' grade](mobile-ar-anatomy-sus-58-25-d-grade.md) — related
 - [Students rated the HoloLens 2 above average on the System Usability Scale (mean 79.4)](hololens-sus-79-above-average-usability.md) — related
 - [AR participants rated the remote AR system usable, with an average SUS score of 73.8](remote-ar-sus-usability-73-8.md) — related
+- [The Endonix simulator achieves a median SUS score of 75, indicating good usability across experience levels](endonix-sus-good-usability.md) — related

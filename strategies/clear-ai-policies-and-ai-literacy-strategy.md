@@ -45,6 +45,7 @@ The authors recommend that doctoral-granting institutions develop "clear and pro
 - [Integrate AI literacy, digital skill development, and technology-focused career planning into coursework, with targeted support for higher-anxiety groups](ai-literacy-career-planning-support-strategy.md)
 - [Prepare teachers to use AI expeditiously and provide AI-text detectors for evaluation, alongside updated academic-integrity rules](teacher-ai-preparedness-and-detectors-strategy.md)
 - [Provide AI literacy training, human-AI interaction opportunities, and ethical-use guidelines and policies for instructional designers](ai-literacy-training-ethical-genai-guidelines-ids.md)
+- [Establish transparent ethical guidelines and faculty development for AI use in postgraduate coursework](ethical-ai-integration-guidelines-faculty-development-strategy.md)
 
 ## Examples
 -

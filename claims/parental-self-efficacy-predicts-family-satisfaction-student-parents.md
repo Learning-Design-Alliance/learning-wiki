@@ -71,3 +71,4 @@ Bootstrapped mediation analysis (1000 draws) of the same survey data. The parent
 - [School-family balance is predicted by both academic and parental self-efficacy and in turn predicts school and family satisfaction](school-family-balance-predicted-by-efficacy-predicts-satisfaction.md) — related
 - [Partnered student parents report higher school and family satisfaction, and part-time enrolment is associated with higher family satisfaction](partner-status-enrolment-subgroup-satisfaction-differences.md) — related
 - [Parenting self-efficacy shows a small to medium positive correlation with parents' contributions to the home-school partnership among primary school families](pse-hsp-overall-correlation.md) — related
+- [Student satisfaction was moderately and positively correlated with academic performance in both curriculum groups](satisfaction-performance-moderate-correlation-both-groups.md) — related

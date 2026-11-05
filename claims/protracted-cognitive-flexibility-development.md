@@ -9,7 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-10-18
+source_checked: 2026-11-05
 recheck_by: 2020
 sources:
   - id: dajani-2015
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2015 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Cognitive flexibility shows a sharp increase between 7 and 9 years, is largely mature by age 10, and peaks between ages 21 and 30. [→ Dajani 2015](#dajani-2015)

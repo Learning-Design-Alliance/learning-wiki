@@ -60,3 +60,4 @@ Supplementary linear regressions on the same sample; Table 6 prints non-signific
 - [Work self-control showed a small but significant negative association with academic achievement among Chilean university students](work-self-control-negative-achievement-association.md) — related
 - [For girls, relative sense of belonging shows no statistically significant association with math, reading, or science achievement](relative-belonging-girls-null-association.md) — related
 - [Discussion section attendance significantly increases agreement with 10 of 19 sense of belonging items](attendance-predicts-belonging.md) — related
+- [Challenge state correlates positively with academic self-efficacy, resilience, grit, and growth mindset](challenge-state-correlates-noncognitive.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: weak
 newest_evidence: 2014
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: magid-2014
     resource: "https://doi.org/10.11114/jets.v2i1.232"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2014 · checked against its sources 2026-11-03 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 90% of experimental-group participants became more motivated, more confident, and more positive toward learning English, compared with 50% motivated, 75% confident, and 90% positive in the control group. [→ Magid 2014](#magid-2014)

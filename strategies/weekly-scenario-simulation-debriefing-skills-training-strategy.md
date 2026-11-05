@@ -63,6 +63,7 @@ The article's intervention model combines weekly scenario simulation courses wit
 - [Structured pre- and post-simulation assignments to consolidate clinical reasoning learning](pre-post-simulation-reflective-assignments.md)
 - [Use a structured one-day simulation program combining pre-briefing, theoretical training, practical skills practice, scenario-based simulation, and video-based debriefing](structured-one-day-simulation-caregiver-training.md)
 - [Structured post-scenario debriefing after each simulation scenario](post-scenario-debriefing-triage-simulation.md)
+- [Combine VR task-training for operators with simulation team-training for the whole acute stroke team](combine-vr-task-training-with-stroke-team-simulation.md)
 
 ## Examples
 -

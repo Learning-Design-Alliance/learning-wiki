@@ -9,6 +9,7 @@ generated:
   at: 2026-09-26
 evidence_strength: weak
 newest_evidence: 2022
+source_checked: 2026-11-05
 sources:
   - id: rosenbach-2022
     resource: "https://doi.org/10.1002/pits.22513"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Contrary to hypotheses, frequency of participating in immigration discussions did not predict residualized change in critical reflection or sociopolitical efficacy; equivalence was not tested. [→ Rosenbach 2022](#rosenbach-2022)

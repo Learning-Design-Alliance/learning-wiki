@@ -55,3 +55,4 @@ Review synthesis of Naik (2001), a randomised trial of a low-fidelity bench mode
 - [No longitudinal studies or RCTs demonstrate that AI-acquired skills transfer to the operating room](no-longitudinal-evidence-ai-skill-transfer-or.md) — reports the opposite
 - [RCT evidence comparing cadaveric with low-fidelity simulation is mixed: two RCTs favour cadaveric, one shows equivalence, one favours the bench model](cadaveric-vs-low-fidelity-simulation-mixed.md) — related
 - [Simulation-based training transferred to real clinical settings: the simulator group improved on assessments with pregnant volunteers from 53.5 ± 8.8 to 74.1 ± 12.0](sbme-transfers-to-real-clinical-obstetric-ultrasound-performance.md) — related
+- [Cadaveric specimens are rated the most beneficial PTED simulation modality and low-fidelity bench-top models the least](cadaveric-specimens-preferred-pted-simulation-modality.md) — related

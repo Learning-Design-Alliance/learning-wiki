@@ -9,7 +9,6 @@ generated:
   at: 2026-10-30
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-30
 sources:
   - id: martins-van-jaarsveld-2025
     resource: "https://doi.org/10.1016/j.compedu.2025.105441"
@@ -26,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · n=84 students
-> **Currency** · newest study 2025 · checked against its sources 2026-10-30 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a randomised trial with 84 undergraduates at one Dutch university, all four conditions set weekly goals with the same scripted, non-generative agent; the two conditions that added goal-monitoring prompts (Monitoring Only, Monitoring & Reflection) reported higher goal attainment than Reflection Only and goal-setting-only Control. Goal attainment was self-reported, and the pairwise contrasts carry p values only. [→ Martins van Jaarsveld 2025](#martins-van-jaarsveld-2025)

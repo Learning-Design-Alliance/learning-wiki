@@ -54,6 +54,7 @@ The article recommends that universities address AI anxiety as a risk factor in 
 - [Incorporate AI literacy into educational-leadership preparation curricula](ai-literacy-in-leadership-preparation-curricula.md)
 - [Integrate AI literacy, digital skill development, and technology-focused career planning into coursework, with targeted support for higher-anxiety groups](ai-literacy-career-planning-support-strategy.md)
 - [Integrate AI task literacy into CTE curricula now, ahead of employer adoption](integrate-ai-task-literacy-cte-curricula.md)
+- [Integrate AI literacy and critical appraisal skills into dental curricula alongside discipline-specific AI validation](ai-literacy-critical-appraisal-dental-curricula-strategy.md)
 
 ## Examples
 -

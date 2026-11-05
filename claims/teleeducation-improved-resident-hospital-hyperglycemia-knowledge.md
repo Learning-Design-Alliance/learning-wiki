@@ -69,3 +69,4 @@ Within-group pre-post comparison in the same randomized trial: the intervention 
 - [Blended WhatsApp-plus-lecture conditions produced significantly higher knowledge outcomes than lectures alone, with no difference between two blended configurations](blended-whatsapp-lectures-higher-than-lectures-alone.md) — related
 - [In the one controlled pre/post comparison, WhatsApp learning and didactic lectures both improved knowledge but did not differ between groups](whatsapp-versus-lectures-no-between-group-difference.md) — related
 - [Median hospital length of stay was longer in the intervention group than the control group (19 vs. 13 days)](longer-los-intervention-group.md) — related
+- [Microlearning produces more durable knowledge gains than webinars and routine training in EMTs at one-month follow-up](microlearning-more-durable-knowledge-than-webinar-emts.md) — related

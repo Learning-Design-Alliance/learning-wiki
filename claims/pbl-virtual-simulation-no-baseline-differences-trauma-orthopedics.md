@@ -63,3 +63,5 @@ Baseline comparison in the same assessor-blinded RCT of 50 clinical medical stud
 - [Improvement in the low-exposure skill vaginal delivery assistance was significantly greater than improvement in IUD removal, with all five core skills improving significantly](simulation-gains-largest-low-exposure-procedures.md) — related
 - [Theoretical exam scores did not differ between conventional, digital-only, and hybrid instructional groups](theoretical-exam-scores-similar-three-instructional-models.md) — related
 - [The DwGJ and control groups did not differ in admission theoretical or skill examination scores at baseline](dwgj-trial-baseline-equivalence-admission-scores.md) — possibly the same claim (merge candidate)
+- [Baseline characteristics (age, sex, pre-rotation theoretical scores) did not differ significantly between the PBL and lecture cohorts](baseline-comparability-pbl-esophageal-cohort.md) — related
+- [No significant difference between teaching models in theoretical examination scores](ltm-theoretical-exam-no-difference.md) — related

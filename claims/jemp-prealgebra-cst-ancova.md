@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2016
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: bowens-2016
     resource: "https://eric.ed.gov/?id=EJ1119158"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
-> **Currency** · newest study 2016 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` An ANCOVA controlling for grade six mathematics CST scores found a significant treatment effect favoring JEMP participants on grade seven Pre-algebra CST scores, F(1,848) = 17.69, p < .001, η2 = .020. [→ Bowens 2016](#bowens-2016)

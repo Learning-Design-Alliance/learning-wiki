@@ -48,3 +48,4 @@ SEM path analysis of the 229-respondent survey shows social influence significan
 - [Academic self-efficacy does not significantly predict academic stress, and social influence does not directly predict AI dependence](ase-stress-and-si-dependence-null-paths.md) — related
 - [Perceived trust mediates the relationship between social influence and generative AI dependence](trust-mediation-social-influence-ai-dependence.md) — related
 - [Social influence plays a diminishing role in Gen Z students' AI adoption intention](si-diminishing-role-gen-z-ai-adoption.md) — related
+- [Trust in DeepSeek moderates the relationship between social influence and intention to use, amplifying it at higher trust](trust-moderates-social-influence-intention.md) — related

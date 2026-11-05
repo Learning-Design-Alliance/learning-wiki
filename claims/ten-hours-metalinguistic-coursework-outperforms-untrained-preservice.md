@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2018
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: mcneill-2018
     resource: "http://ro.ecu.edu.au/ajte/vol43/iss1/2"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2018 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After 10 hours of metalinguistic coursework, preservice teachers scored higher on phoneme identification (78.8%) and morpheme identification (72.9%) than preservice teachers who had not received metalinguistic content (49.7% and 64.5%). [→ McNeill 2018](#mcneill-2018)

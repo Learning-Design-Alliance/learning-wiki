@@ -49,3 +49,4 @@ The hierarchical mixed-model analysis of the linked WEC–academic dataset found
 - [The relationship between the WEC index and academic achievement is stable across student year levels and census years, with no meaningful interaction effects](wec-achievement-relationship-stable-year-census.md) — related
 - [The overall WEC well-being index has a weak positive association with academic outcomes, with effect sizes no larger than 0.1 SD](wec-index-weak-positive-association-academic-outcomes.md) — related
 - [WEC index effects on academic outcomes are more pronounced for male students, with the well-being effect on literacy absent for females](wec-effects-more-pronounced-males-literacy.md) — related
+- [Subjective well-being in school relates weakly to achievement and is not statistically significant in models with school fixed effects](well-being-weak-nonsignificant-fixed-effects-elementary.md) — related

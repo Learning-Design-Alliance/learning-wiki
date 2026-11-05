@@ -9,7 +9,6 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2019
-source_checked: 2026-10-28
 sources:
   - id: betty-tärning-2019
     resource: "https://doi.org/10.1007/s40593-018-0167-2"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
-> **Currency** · newest study 2019 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the matched agent-student SE group there was a significant positive SE increase, while the mismatched group showed no significant increase. [→ Betty Tärning 2019](#betty-tarning-2019)

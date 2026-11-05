@@ -51,3 +51,4 @@ Mixed linear models of procedure time (seconds) by group with academic year as c
 - [Pork belly simulation training reduces TAP block procedure time compared to traditional training](pork-belly-sim-shorter-tap-procedure-time.md) — related
 - [Simulation-based teaching produces higher post-intervention technical skill scores and success rates for blood-sampling procedures than traditional teaching](simulation-higher-technical-skills-success-rates.md) — related
 - [Simulation-based teaching reduces the time required to complete venipuncture and arterial blood gas sampling compared with traditional teaching](simulation-reduces-procedure-completion-time.md) — related
+- [After brief cadaver-based training, nearly all novice medical students independently guided a needle into the femoral nerve block target zone under ultrasound, averaging 106 seconds and 1.9 attempts](cadaver-training-skills-test-performance.md) — related

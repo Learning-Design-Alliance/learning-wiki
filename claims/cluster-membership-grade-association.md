@@ -78,3 +78,4 @@ Chi-square test of independence examining gender distribution across the three c
 - [Response rates to a learning analytics consent email differ by gender and ethnicity, with Black students underrepresented and White students overrepresented among respondents](la-consent-response-gap-gender-ethnicity.md) — related
 - [The five clustering variables differed significantly across the four clusters, with large effect sizes for all five.](five-variables-differentiate-four-clusters.md) — related
 - [Demographic characteristics of young new farmers show significant distribution differences across gender, age, and education level.](young-new-farmers-demographic-distribution.md) — related
+- [No significant relationship between student gender and teachers' WCF strategy use](no-gender-bias-in-wcf-strategies.md) — related

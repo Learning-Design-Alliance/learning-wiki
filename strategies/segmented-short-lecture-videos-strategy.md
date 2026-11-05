@@ -49,6 +49,7 @@ Based on student feedback criticizing long recordings, the article recommends th
 - [Keep flipped-classroom videos concise, ideally no longer than about 10 minutes, splitting longer videos into shorter segments](keep-flipped-videos-concise-strategy.md)
 - [Keep pre-class teaching videos short (10–20 minutes), goal-targeted, and followed by checking homework](short-goal-targeted-pre-class-videos.md)
 - [Keep online lecture videos under twenty minutes and segment by topic with speed control](online-lecture-under-twenty-minutes.md)
+- [Integrate targeted one-hour interactive online lectures on common orofacial conditions into continuing dental education, with periodic reinforcement](targeted-online-lecture-continuing-dental-education.md)
 
 ## Examples
 -

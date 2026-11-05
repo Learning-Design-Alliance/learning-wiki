@@ -50,3 +50,4 @@ Regression analysis of motivation subdimensions on creativity in the same study;
 - [AI-featured methods significantly increased motivation across all four ARCS categories for computational problem-solving activities](ai-scaffolding-computational-problems-increases-all-arcs-motivation.md) — related
 - [Each of the four ARCS motivational components (attention, relevance, confidence, satisfaction) was rated significantly higher in the e-learning group](arcs-components-all-higher-ecme.md) — related
 - [OER-based blended learning with Quipper School raised relevance and confidence motivation significantly higher than face-to-face classroom learning](oer-blended-quipper-relevance-confidence.md) — related
+- [Students rated the program's ARCS confidence component significantly lower than attention, relevance, and satisfaction](arcs-confidence-lower-than-other-components.md) — related

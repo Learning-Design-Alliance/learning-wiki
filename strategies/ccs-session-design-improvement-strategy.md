@@ -46,6 +46,7 @@ The article's forward-looking design recommendations for community care simulati
 - [Embedding online simulation throughout curricula and providing more student access to online simulation approaches](embed-online-simulation-throughout-curricula.md)
 - [Structured pre- and post-simulation assignments to consolidate clinical reasoning learning](pre-post-simulation-reflective-assignments.md)
 - [Design simulation scenarios that explicitly address psychological support and system knowledge, and use repeated sessions to affect stress](scenario-psychological-support-repeated-sessions-strategy.md)
+- [Engage observers as active learners throughout the post-simulation debrief, seeking their input before the performing participant](observer-engagement-during-debriefing.md)
 
 ## Examples
 -

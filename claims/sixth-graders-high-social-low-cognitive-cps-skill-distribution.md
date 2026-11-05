@@ -9,7 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 recheck_by: 2027
 sources:
   - id: shupin-li-johanna-pöysä-tarhonen-päivi-häkkinen-2022
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: baselines and conditions change
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: baselines and conditions change
 
 ## Subclaims
 `q3 i?` Sixth graders' social CPS skills were predominantly at high levels (4-6) while their cognitive CPS skills were predominantly at low levels (1-3). [→ Shupin Li · Johanna Pöysä-Tarhonen · Päivi Häkkinen 2022](#shupin-li-johanna-poysa-tarhonen-paivi-hakkinen-2022)

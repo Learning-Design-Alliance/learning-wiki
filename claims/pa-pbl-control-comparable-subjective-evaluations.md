@@ -53,3 +53,4 @@ End-of-course questionnaire completed by 472 of 523 students (90.2% valid respon
 - [Integrated online-PBL-CBL teaching improves overall Mini-CEX clinical competence but not its individual sub-dimensions](online-pbl-cbl-minicex-overall-competence-gain.md) — related
 - [In an RCT, pharmacy students taught with PBL rated their own problem-solving and self-directed learning significantly higher on a questionnaire than LBL students did](pbl-rct-higher-problem-solving-self-directed-learning.md) — reports the opposite
 - [PA-PBL participants rated all four feedback questionnaire domains above 4.7 on a 5-point scale](pa-pbl-high-satisfaction-reaction-level.md) — related
+- [PBL interns report higher self-efficacy, instructional satisfaction, and perceived critical-thinking improvement than lecture-taught interns](pbl-self-evaluated-learning-gains-esophageal.md) — reports the opposite

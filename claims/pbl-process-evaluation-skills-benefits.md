@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2016
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: menzies-2016
     resource: "https://educationendowmentfoundation.org.uk/public/files/Projects/EEF_Project_Protocol_ProjectBasedLearning.pdf"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2016 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Observations and feedback from school leaders, teachers, pupils and the delivery team indicated positive benefits, particularly for oracy, communication, team working and research skills. [→ Menzies 2016](#menzies-2016)

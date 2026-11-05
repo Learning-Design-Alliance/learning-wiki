@@ -9,7 +9,6 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-10-17
 sources:
   - id: miller-amanda-c-2014
     resource: "https://doi.org/10.1080/19345747.2014.906691"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2014 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Grade 3 reading comprehension was significantly predicted by grade 3 sight word reading and grade 3 listening comprehension, with no significant direct effect of pre-treatment attention. [→ Miller Amanda C. 2014](#miller-amanda-c-2014)

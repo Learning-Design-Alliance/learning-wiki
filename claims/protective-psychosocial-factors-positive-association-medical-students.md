@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 sources:
   - id: ríos-andrade-raúl-2026
     resource: "https://doi.org/10.1186/s12909-026-08742-6"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Intrinsic motivation, resilience, emotional intelligence, and perceived social support demonstrated mostly positive associations with academic performance, in 60–85% of relevant studies. [→ Ríos Andrade Raúl 2026](#rios-andrade-raul-2026)

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: hyunwoo-kim-2026
     resource: "https://doi.org/10.48550/arxiv.2604.14807"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The article argues the LLM fallacy should be operationalized as a measurable construct via metrics comparing self-assessed competence with independently evaluated performance, and via longitudinal studies of repeated LLM interaction. [→ Hyunwoo Kim 2026](#hyunwoo-kim-2026)

@@ -58,3 +58,4 @@ Theoretical argument from the cross-cutting theme synthesis concerning self-expl
 - [GenAI fluency corrupts metacognitive monitoring by producing cognitive ease that is misread as comprehension, weakening the regulation needed to keep offloading beneficial](metacognitive-trap-genai-fluency.md) — related
 - [Factor 3 student teachers were uncritical users whose agency was almost completely subverted to the GenAI system](f3-uncritical-reliant-diminished-agency.md) — related
 - [EFL students interviewed after metacognitive strategy training said they had become more self-reliant in monitoring their writing processes and progress](metacognitive-training-increases-writing-self-monitoring.md) — related
+- [Miscalibrated self-assessment in learners risks cognitive bias, clinical reasoning errors, and adverse patient outcomes (theoretical argument)](dunning-kruger-overconfidence-clinical-risk.md) — related

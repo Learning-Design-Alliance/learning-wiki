@@ -55,6 +55,8 @@ The article recommends structured training programmes for newly appointed nurse 
 - [Differentiate transition curricula by prior experience level, offering abbreviated foundational modules and extended advanced sessions for experienced practitioners](experience-differentiated-transition-pathways.md)
 - [Combined organizational-support, mentorship, simulation-based confidence-building, and workload-management interventions for new emergency and critical care nurses](four-part-support-intervention-new-critical-care-nurses.md)
 - [Develop structured, standardised transition pathways for IQNs including individualised plans, mentorship, CPD and competency-based recognition of prior expertise](structured-standardised-iqn-transition-pathways.md)
+- [Structured mentorship system in which trained nurse mentors deliver EBP education, bedside teaching and ongoing monitoring](nurse-mentor-ebp-monitoring-strategy.md)
+- [Integrate structured mentorship and reflective coaching alongside technical competency programs to support psychological outcomes](sccdp-mentorship-coaching-supplement-strategy.md)
 
 ## Examples
 -

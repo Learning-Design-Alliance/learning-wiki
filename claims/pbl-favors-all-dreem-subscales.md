@@ -49,3 +49,4 @@ Meta-analysis of subscale scores reported in all six included studies (335/338 p
 - [PBL is associated with higher overall DREEM medical educational environment scores than LBL in randomized trials](pbl-higher-dreem-than-lbl.md)
 - [Evidence for PBL's DREEM advantage comes from six small Chinese RCTs with randomization and blinding weaknesses](pbl-dreem-evidence-limited-chinese-rcts.md) — related
 - [The pooled PBL advantage on DREEM was robust in sensitivity analyses excluding the largest, heaviest, and smallest studies](pbl-dreem-sensitivity-analysis-robust.md) — related
+- [Students perceived the educational environment as generally positive (median DREEM 115), with lowest scores in academic and social self-perception](dreem-positive-environment-low-self-perception-scores.md) — related

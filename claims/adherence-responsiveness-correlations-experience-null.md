@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2020
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: mihee-an-2020
     resource: "https://doi.org/10.1111/dmcn.14702"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2020 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the START-Play group (14 therapists), several adherence measures (information sharing or brainstorming, encouraging parent-led activities, START-Play behaviours per minute) and the therapist's effectiveness in initiating parental engagement correlated significantly and positively with parent engagement, while other measures (cognitive opportunity with engagement with the therapist, flexibility, using the just-right challenge) did not reach significance; correlations between therapists' years of early-intervention experience and adherence or quality of delivery were not significant (p>0.05), which does not show that experience has no relation to fidelity. [→ Mihee An 2020](#mihee-an-2020)

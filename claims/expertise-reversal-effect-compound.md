@@ -73,3 +73,4 @@ This narrative review attributes the expertise reversal effect to Kalyuga et al.
 - [Chunking via prior knowledge can massively increase the information processed in working memory](chunking-increases-effective-working-memory.md) — related
 - [Students with lower cognitive abilities and prior knowledge are less capable of self-regulating their learning and require more instructional support, known as the expertise-reversal effect](expertise-reversal-effect-self-regulation-support.md) — related
 - [Cognitive load eliminated instruction-induced reversal of specific PIT in prior cited work, suggesting reversal instruction use is resource-dependent](cognitive-load-eliminates-reversal-pit-cited.md) — related
+- [Expertise reversal effect: benefits of two modalities and worked examples diminish or reverse as learner expertise increases](expertise-reversal-modality-worked-examples.md) — a narrower finding that bears on this claim

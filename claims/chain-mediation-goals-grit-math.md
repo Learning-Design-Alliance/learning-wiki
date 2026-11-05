@@ -54,3 +54,5 @@ Bootstrap chain mediation analysis (PROCESS Model 80, 5000 resamples) in the 691
 - [The mediating role of mastery-approach goals was not significant](mastery-approach-mediation-null.md) — reports the opposite
 - [Growth mindset shows a significant negative direct association with mathematics achievement and a non-significant total effect in Chinese Grade 7 students](growth-mindset-negative-direct-association-math-china.md) — related
 - [Grit, sense of belonging, and motives for attending college showed no significant direct associations with academic achievement in this sample](grit-belonging-motives-no-achievement-association.md) — reports the opposite
+- [Grit mediates the relationship between growth mindset and academic performance of female art majors](grit-mediation-growth-mindset-performance.md) — related
+- [Learning adaptability mediates the relationship between growth mindset and academic performance of female art majors](learning-adaptability-mediation-growth-mindset-performance.md) — related

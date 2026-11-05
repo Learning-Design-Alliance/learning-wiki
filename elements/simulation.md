@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 385 claims (235 for, 128 mixed, 22 against) · 241 studies (79 review, 75 causal, 38 quant-synthesis, 24 design, 12 associational, 10 qualitative, 3 theoretical), `q1`–`q4` · 44 of 241 report an effect size · 375 claims rest on one study
+> **Evidence** · 387 claims (237 for, 128 mixed, 22 against) · 243 studies (79 review, 76 causal, 38 quant-synthesis, 25 design, 12 associational, 10 qualitative, 3 theoretical), `q1`–`q4` · 44 of 243 report an effect size · 377 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -440,6 +440,8 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Empathic tendency scores changed over time across all groups, rising after simulation and returning near baseline during counseling](../claims/empathy-changed-over-time-all-groups.md) [~W] — attached 2026-11-05 from Karakoç Hediye (2026), which proposed "Wearable simulated birth model with structured seven-week counseling intervention for midwifery students".
 - [Privacy-protection awareness increased over time across all groups after simulation, with no between-group difference](../claims/privacy-awareness-increased-over-time.md) [~W] — attached 2026-11-05 from Karakoç Hediye (2026), which proposed "Wearable simulated birth model with structured seven-week counseling intervention for midwifery students".
 - [External and internal barriers, including cybersickness, logistics, workload and lack of time, limited residents' use of VR simulation](../claims/barriers-limit-residents-vr-use.md) [~M] — attached 2026-11-05 from Mosling Marte et al. (2026), which proposed "VR simulation offer at Levanger Hospital: Oxford Medical Simulation platform on Meta Quest 2 headsets with 20 emergency medical cases".
+- [Undergraduates trained on a VR cataract simulation platform scored significantly higher total scores than traditionally trained peers in both traditional and VR assessments](../claims/vr-cataract-simulation-higher-total-scores.md) [+M] — attached 2026-11-05 from Zhang Meng-lu et al. (2025), which proposed "Virtual simulation teaching platform for cataract surgery"; tests this page's relationship.
+- [Medical students rate the virtual patients as realistic and comprehensible, with face validity exceeding the acceptability threshold](../claims/vp-acceptable-face-validity.md) [+W] — attached 2026-11-05 from Mohd Salim Nurul Ain et al. (2026), which proposed "Culturally adapted immersive virtual patient system with 3D avatars, VR consultation room, and AI-driven speech interaction".
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

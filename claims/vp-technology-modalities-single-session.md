@@ -52,3 +52,4 @@ Review's mapping of technological formats (RQ4). The review reports that "virtua
 - [In one meta-analysis, modality-effect studies using virtual reality head-mounted displays show larger effects than studies using computer screens or audio-tapes](modality-effect-stronger-in-virtual-reality.md) — related
 - [All included VR training interventions used non-immersive desktop systems; no immersive VR studies met the review's inclusion criteria](all-included-vr-interventions-non-immersive-desktop.md) — reports the opposite
 - [HCD workshops with providers co-created context-specific solutions including laminated dosage charts and peer-led simulations](hcd-co-created-mgso4-solutions.md) — related
+- [Virtual patient platform plus mind mapping improves reported learning efficiency versus conventional teaching](dxr-mindmap-learning-efficiency.md) — related

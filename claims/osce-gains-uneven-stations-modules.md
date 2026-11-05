@@ -67,3 +67,4 @@ Module-level OSCE contrasts from the same study's results; the article reports m
 - [Simulation-trained students showed higher mean scores across all four OSCE stations compared with clinically trained peers](sbt-higher-mean-scores-all-osce-stations.md) — related
 - [No statistically significant difference between SBT and CBT groups on the theoretical knowledge OSCE station](no-significant-difference-theoretical-knowledge-station.md) — related
 - [A specialty-specific OSCE plus WBA curriculum raised end-of-rotation OSCE total scores versus historical controls in radiation oncology postgraduates](specialty-osce-wba-curriculum-higher-osce-total.md) — a broader claim this one bears on
+- [Station-level analysis showed intervention advantages on Station 1 (examiners) and Station 5 (intervention), with no differences on Stations 2–4](station-level-osce-differences.md) — related

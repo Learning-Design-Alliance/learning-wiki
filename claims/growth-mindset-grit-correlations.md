@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: dong-jia-2026
     resource: "https://doi.org/10.1186/s40359-026-05153-6"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Growth mindset was significantly positively correlated with grit (r = 0.31, p < 0.01), and grit was significantly positively correlated with mathematics grades (r = 0.18, p < 0.01). [→ Dong Jia 2026](#dong-jia-2026)
@@ -55,3 +55,4 @@ Pearson correlation analysis in the 691-student sample (Table 1) showed growth m
 - [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](growth-mindset-achievement-correlation-weak.md) — related
 - [Growth mindset shows a significant negative direct association with mathematics achievement and a non-significant total effect in Chinese Grade 7 students](growth-mindset-negative-direct-association-math-china.md) — reports the opposite
 - [Grit, sense of belonging, and motives for attending college showed no significant direct associations with academic achievement in this sample](grit-belonging-motives-no-achievement-association.md) — reports the opposite
+- [Challenge state correlates positively with academic self-efficacy, resilience, grit, and growth mindset](challenge-state-correlates-noncognitive.md) — related

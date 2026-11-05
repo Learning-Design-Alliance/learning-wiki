@@ -49,3 +49,4 @@ Workload outcome (NASA-TLX, 0–100) in the pilot trial; group means were 47.3 (
 - [Global cognitive load (NASA TLX) change did not differ between training groups](nasa-tlx-global-change-no-group-difference.md) — related
 - [No significant difference in cognitive workload between novices and experienced participants across NASA-TLX domains](no-nasa-tlx-difference-novice-experienced.md) — related
 - [Self-guided and facilitator-guided debriefing showed no significant difference in paediatric emergency performance outcomes](no-performance-difference-between-debriefing-methods.md) — related
+- [Perceived task load on the NASA-TLX is higher for novices than beginners and experienced endoscopists](endonix-nasa-tlx-higher-novices.md) — related

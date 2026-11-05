@@ -78086,5 +78086,573 @@
  "technology-tool\tAI chatbot access\tno AI access": {
   "label": "AI chatbot access vs no AI access",
   "treatment_is_a": true
+ },
+ "active-learning\t1-day lecture and PBL program\tpreintervention essays": {
+  "label": "lecture-and-PBL program vs preintervention/no active-learning program",
+  "treatment_is_a": true
+ },
+ "active-learning\t1-day lecture and PBL program\tpretest before the program": {
+  "label": "lecture-and-PBL program vs preintervention/no active-learning program",
+  "treatment_is_a": true
+ },
+ "active-learning\tJigsaw teaching\ttraditional teaching": {
+  "label": "jigsaw teaching vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tJigsaw teaching method\ttraditional teaching": {
+  "label": "jigsaw teaching vs traditional teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tLectures, VR, simulation and bedside mentoring\tbefore training": {
+  "label": "multimodal active training with VR, simulation, and bedside mentoring vs pretraining",
+  "treatment_is_a": true
+ },
+ "active-learning\tP-I-T-D-S flipped classroom model\ttraditional lecture-based model": {
+  "label": "flipped classroom vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tP-I-T-D-S flipped classroom model assisted by OSCRS\ttraditional lecture-based model": {
+  "label": "flipped classroom vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tP-I-T-D-S flipped classroom with OSCRS\ttraditional lecture-based model": {
+  "label": "flipped classroom vs traditional lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tPBL phase\tlecture phase": {
+  "label": "problem-based learning vs lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive engagement and iterative peer feedback\ttraditional instructional formats": {
+  "label": "active engagement with iterative peer feedback vs traditional instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tblended inquiry-based curriculum with peer critique, gamification, and AI feedback\ttraditional lecture-based curriculum": {
+  "label": "blended inquiry-based curriculum with peer critique, gamification, and AI feedback vs traditional lecture-based curriculum",
+  "treatment_is_a": true
+ },
+ "active-learning\tblended peer-led AI-integrated curriculum\ttraditional lecture-based curriculum": {
+  "label": "blended peer-led AI-integrated curriculum vs traditional lecture-based curriculum",
+  "treatment_is_a": true
+ },
+ "active-learning\tblended peer-led AI-integrated curriculum\ttraditional lectures": {
+  "label": "blended peer-led AI-integrated curriculum vs traditional lecture-based curriculum",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom\ttraditional class": {
+  "label": "flipped classroom vs traditional classroom instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tflipped classroom with Moodle Book\ttraditional classroom methodology": {
+  "label": "flipped classroom vs traditional classroom instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tgroup supervision with peer interaction\tnot stated": {
+  "label": "group supervision with peer interaction vs unspecified comparison",
+  "treatment_is_a": true
+ },
+ "active-learning\tinteractive, live, cross-disciplinary training with role-play and discussion\trigid or non-interactive training": {
+  "label": "interactive role-play and discussion-based training vs rigid non-interactive training",
+  "treatment_is_a": true
+ },
+ "active-learning\tlecture and PBL program\tpretest before the program": {
+  "label": "lecture-and-PBL program vs preintervention/no active-learning program",
+  "treatment_is_a": true
+ },
+ "active-learning\tonline case-based learning modules\tno comparison condition reported": {
+  "label": "online case-based learning modules vs no comparison condition",
+  "treatment_is_a": true
+ },
+ "active-learning\tparticipation in the peer-led mock OSCE\tcontrol group without the mock OSCE": {
+  "label": "participation in a peer-led mock OSCE vs no mock OSCE participation",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer-led mock OSCE as examinees\tcontrol group without mock OSCE": {
+  "label": "participation as a mock-OSCE examinee vs no mock OSCE participation",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer-led mock OSCE as examiners\tcontrol group without mock OSCE": {
+  "label": "participation as a mock-OSCE examiner vs no mock OSCE participation",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer-led mock OSCE as examiners\tcontrol group without the mock OSCE": {
+  "label": "participation as a mock-OSCE examiner vs no mock OSCE participation",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer-led mock OSCE with students designing and administering stations\tno participation in the mock OSCE": {
+  "label": "participation as a mock-OSCE station designer and administrator vs no mock OSCE participation",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer-led mock OSCE with students designing, examining, and taking stations\tno participation in the mock OSCE": {
+  "label": "participation as a mock-OSCE station designer, examiner, and examinee vs no mock OSCE participation",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer-led mock OSCE, examiners versus examinees\teach other": {
+  "label": "mock-OSCE examiner role vs examinee role",
+  "treatment_is_a": true
+ },
+ "active-learning\tstructured problem-based learning\tconventional lecture-based teaching": {
+  "label": "structured problem-based learning vs conventional lecture-based teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tstructured problem-based learning\tconventional teacher-centered lectures": {
+  "label": "structured problem-based learning vs conventional teacher-centered lectures",
+  "treatment_is_a": true
+ },
+ "active-learning\tstructured problem-based learning\tconventional teacher-centered teaching": {
+  "label": "structured problem-based learning vs conventional teacher-centered teaching",
+  "treatment_is_a": true
+ },
+ "active-learning\tstructured problem-based learning modules\tconventional teacher-centered lectures": {
+  "label": "structured problem-based learning vs conventional teacher-centered lectures",
+  "treatment_is_a": true
+ },
+ "active-learning\tstudent participation as mock-OSCE station creators and examiners\tno participation in the mock OSCE": {
+  "label": "participation as a mock-OSCE station designer and examiner vs no mock OSCE participation",
+  "treatment_is_a": true
+ },
+ "active-learning\ttraditional teaching\tJigsaw teaching": {
+  "label": "jigsaw teaching vs traditional teaching",
+  "treatment_is_a": false
+ },
+ "autonomy-support\tself-directed learning after initial training\tinitial training alone": {
+  "label": "self-directed learning vs initial training alone",
+  "treatment_is_a": true
+ },
+ "debriefing\tchallenging cases supported by supervision and group support\tchallenging cases without those reflective supports": {
+  "label": "supervised and group-supported reflection vs unsupported reflection",
+  "treatment_is_a": true
+ },
+ "debriefing\tsupervision and group support with reflective practice\treflective practice without this support": {
+  "label": "supervised and group-supported reflection vs unsupported reflection",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tEBP lectures and training with mentoring\tbefore training": {
+  "label": "explicit instruction with mentoring vs no training",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tOSCE-based generic medical communication training\texperienced physiotherapists": {
+  "label": "generic communication training vs experienced practice",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tOSCE-based generic medical communication training\tpracticing physiotherapists": {
+  "label": "generic communication training vs experienced practice",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tone-hour evidence-based interactive lecture\tbefore the lecture": {
+  "label": "explicit interactive instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tone-hour interactive evidence-based lecture\tbaseline before lecture": {
+  "label": "explicit interactive instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tone-hour interactive evidence-based lecture\tpre-lecture baseline": {
+  "label": "explicit interactive instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tone-hour interactive online lecture\tbefore the lecture": {
+  "label": "explicit interactive online instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tone-hour interactive online lecture\tpre-lecture baseline": {
+  "label": "explicit interactive online instruction vs no instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tshort, focused teaching encounters\tunfocused or overloaded teaching": {
+  "label": "focused instruction vs unfocused or overloaded instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\ttwo-month follow-up assessment\timmediate post-lecture assessment": {
+  "label": "delayed assessment vs immediate assessment",
+  "treatment_is_a": true
+ },
+ "fading\tfading\tbusiness as usual/problem-solving only": {
+  "label": "fading vs business-as-usual/problem-solving only",
+  "treatment_is_a": true
+ },
+ "fading\tfading\tpretest": {
+  "label": "fading vs pretest",
+  "treatment_is_a": true
+ },
+ "fading\tfading\tworked example with self-explanation": {
+  "label": "fading vs worked example with self-explanation",
+  "treatment_is_a": true
+ },
+ "fading\tfading conditions collapsed\tall other conditions": {
+  "label": "fading conditions vs all other conditions",
+  "treatment_is_a": true
+ },
+ "fading\tfading with self-explanation\tworked example with self-explanation": {
+  "label": "fading with self-explanation vs worked example with self-explanation",
+  "treatment_is_a": true
+ },
+ "fading\tfading with self-explanation prompts\tbusiness as usual problem solving": {
+  "label": "fading with self-explanation prompts vs business-as-usual problem solving",
+  "treatment_is_a": true
+ },
+ "fading\tfading with self-explanation prompts\tbusiness-as-usual problem solving": {
+  "label": "fading with self-explanation prompts vs business-as-usual problem solving",
+  "treatment_is_a": true
+ },
+ "fading\tfading with self-explanation prompts\tpretest": {
+  "label": "fading with self-explanation prompts vs pretest",
+  "treatment_is_a": true
+ },
+ "fading\tfading worked examples\tbusiness as usual problem solving": {
+  "label": "fading worked examples vs business-as-usual problem solving",
+  "treatment_is_a": true
+ },
+ "fading\tfading worked examples\tbusiness-as-usual problem solving": {
+  "label": "fading worked examples vs business-as-usual problem solving",
+  "treatment_is_a": true
+ },
+ "fading\tfading worked examples\tcombined business-as-usual and worked-example conditions": {
+  "label": "fading worked examples vs combined business-as-usual and worked-example conditions",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tnegative emotional and instructive feedback\tno feedback": {
+  "label": "negative feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tnegative feedback\tno feedback": {
+  "label": "negative feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tpositive emotional and instructive feedback\tno feedback": {
+  "label": "positive feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tpositive feedback\tno feedback": {
+  "label": "positive feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tdirect feedback\tindirect feedback": {
+  "label": "direct feedback vs indirect feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tnegative emotional and instructive feedback\tno feedback": {
+  "label": "negative emotional and instructive feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpositive emotional and instructive feedback\tnegative emotional and instructive feedback": {
+  "label": "positive emotional and instructive feedback vs negative emotional and instructive feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tpositive emotional and instructive feedback\tno feedback": {
+  "label": "positive emotional and instructive feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tselective feedback\tcomprehensive feedback": {
+  "label": "selective feedback vs comprehensive feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tselective written corrective feedback\tcomprehensive written corrective feedback": {
+  "label": "selective feedback vs comprehensive feedback",
+  "treatment_is_a": true
+ },
+ "feedback-type\tself-reported comprehensive feedback\tobserved comprehensive feedback in essays": {
+  "label": "self-reported vs observed feedback use",
+  "treatment_is_a": true
+ },
+ "feedback-type\tself-reported use of error codes\tobserved use of error codes in essays": {
+  "label": "self-reported vs observed feedback use",
+  "treatment_is_a": true
+ },
+ "mastery-learning\tcompetency-based education\ttime-based training": {
+  "label": "mastery-based vs time-based instruction",
+  "treatment_is_a": true
+ },
+ "media-design\taudiovisual materials\tpurely visual materials": {
+  "label": "audiovisual vs purely visual",
+  "treatment_is_a": true
+ },
+ "media-design\taudiovisual presentation\tpurely visual presentation": {
+  "label": "audiovisual vs purely visual",
+  "treatment_is_a": true
+ },
+ "media-design\timage-based questions\ttext-based questions": {
+  "label": "image-based/visually based vs text-based/text-only",
+  "treatment_is_a": true
+ },
+ "media-design\tintegrated presentation of related visual information\tspatially separated presentation of related visual information": {
+  "label": "integrated vs spatially separated related visual information",
+  "treatment_is_a": true
+ },
+ "media-design\tintegrated related visual information\tspatially separated related visual information": {
+  "label": "integrated vs spatially separated related visual information",
+  "treatment_is_a": true
+ },
+ "media-design\tredundant auditory and visual information\tnon-redundant two-modality information": {
+  "label": "redundant vs non-redundant auditory and visual information",
+  "treatment_is_a": true
+ },
+ "media-design\tspatially integrated related visual information\tspatially separated related visual information": {
+  "label": "integrated vs spatially separated related visual information",
+  "treatment_is_a": true
+ },
+ "media-design\ttext-only questions\tvisually-based questions": {
+  "label": "image-based/visually based vs text-based/text-only",
+  "treatment_is_a": false
+ },
+ "media-design\ttwo modalities: auditory plus visual presentation\tpurely visual presentation": {
+  "label": "audiovisual vs purely visual",
+  "treatment_is_a": true
+ },
+ "media-design\tvisually-based OT-specific questions\ttext-only OT-specific questions": {
+  "label": "image-based/visually based vs text-based/text-only",
+  "treatment_is_a": true
+ },
+ "media-design\tvisually-based questions\ttext-only questions": {
+  "label": "image-based/visually based vs text-based/text-only",
+  "treatment_is_a": true
+ },
+ "media-design\tvisually-based questions with images or figures\ttext-only questions": {
+  "label": "image-based/visually based vs text-based/text-only",
+  "treatment_is_a": true
+ },
+ "practice-amount\tIncreased daily revision hours\tFewer daily revision hours": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tfour-week perceptual learning module\tno-training control": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tfour-week perceptual learning with enhanced contrast\tno-training control": {
+  "label": "practice vs no practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tlate phase, cases 18–36\tearly phase, cases 1–17": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": true
+ },
+ "prompts\tPrompt to adopt a less stereotyped, pseudo-cooperative attitude\tInitial role-play without the attitude-adjustment prompt": {
+  "label": "attitude-adjustment prompt vs no attitude-adjustment prompt",
+  "treatment_is_a": true
+ },
+ "scaffolding\tindividualized field coaching with shadowing, joint cases, follow-up and debriefing\tbefore field coaching": {
+  "label": "individualized field coaching vs no field coaching",
+  "treatment_is_a": true
+ },
+ "scaffolding\tperceptual learning with enhanced contrast\tperceptual learning without enhanced contrast": {
+  "label": "enhanced contrast vs no enhanced contrast",
+  "treatment_is_a": true
+ },
+ "simulation\t15-minute video plus 20-minute one-on-one formalin-embalmed cadaver workshop\tpre-training": {
+  "label": "formalin-embalmed cadaver simulation/training vs pre-training",
+  "treatment_is_a": true
+ },
+ "simulation\t2-day ACP workshop with lecture, guided practice, simulation and role-play\tpre-workshop assessment": {
+  "label": "ACP workshop vs pre-workshop baseline",
+  "treatment_is_a": true
+ },
+ "simulation\t20-minute SEE THE PAIN suicide-risk-assessment simulation with immediate feedback\tpre-intervention baseline": {
+  "label": "SEE THE PAIN suicide-risk-assessment simulation vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "simulation\t20-minute interaction with the suicide-risk-assessment simulator and immediate feedback\tpre-intervention baseline": {
+  "label": "SEE THE PAIN suicide-risk-assessment simulation vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "simulation\t20-minute multilingual SEE THE PAIN simulator with immediate feedback\tpre-intervention assessment": {
+  "label": "SEE THE PAIN suicide-risk-assessment simulation vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "simulation\t20-minute one-on-one formalin-embalmed cadaver simulation workshop\tpre-training": {
+  "label": "formalin-embalmed cadaver simulation/training vs pre-training",
+  "treatment_is_a": true
+ },
+ "simulation\t5-week Friend Supporter web-based experiential learning program\tnot stated": {
+  "label": "web-based experiential learning program vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "simulation\t5-week web-based experiential learning program\tno comparison condition reported": {
+  "label": "web-based experiential learning program vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "simulation\tChatGPT-3.5-turbo text role-play\tno comparison condition": {
+  "label": "ChatGPT text role-play vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "simulation\tEBP training with simulation and mentoring\tbefore training": {
+  "label": "simulation-and-mentoring EBP training vs pre-training",
+  "treatment_is_a": true
+ },
+ "simulation\tEBP training with simulation and mentoring followed by clinical implementation\tbefore training": {
+  "label": "simulation-and-mentoring EBP training vs pre-training",
+  "treatment_is_a": true
+ },
+ "simulation\tEndodontic simulation using extracted teeth\tEndodontic simulation using plastic teeth": {
+  "label": "extracted-tooth simulation vs plastic-tooth simulation",
+  "treatment_is_a": true
+ },
+ "simulation\tLLM-based ACLS simulation platform\tAHA-based ACLS checklist/gold standard": {
+  "label": "LLM-based ACLS simulation vs AHA checklist/gold standard",
+  "treatment_is_a": true
+ },
+ "simulation\tOSCRS training before the course\tOSCRS training after the course": {
+  "label": "post-course OSCRS training vs pre-course OSCRS training",
+  "treatment_is_a": false
+ },
+ "simulation\tSEE THE PAIN AI simulator\tpre-intervention baseline": {
+  "label": "SEE THE PAIN suicide-risk-assessment simulation vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tSEE THE PAIN multilingual GenAI suicide-risk-assessment simulation with immediate feedback\tpre-intervention assessment before simulator use": {
+  "label": "SEE THE PAIN suicide-risk-assessment simulation vs pre-intervention baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tVR simulation cataract training\ttraditional offline practical training": {
+  "label": "VR simulation vs traditional offline practical training",
+  "treatment_is_a": true
+ },
+ "simulation\tVR simulation practical training\ttraditional offline practical training": {
+  "label": "VR simulation vs traditional offline practical training",
+  "treatment_is_a": true
+ },
+ "simulation\tVR-based patient simulation training\tpre-course baseline": {
+  "label": "VR-based virtual-patient simulation training vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tVR-based virtual patient simulation course\tpre-course baseline": {
+  "label": "VR-based virtual-patient simulation training vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tVR-based virtual patient simulation training\tpre-course baseline": {
+  "label": "VR-based virtual-patient simulation training vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tVR-based virtual patient simulation training\tpre-intervention baseline": {
+  "label": "VR-based virtual-patient simulation training vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tVR-based virtual patient training\tpre-course baseline": {
+  "label": "VR-based virtual-patient simulation training vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tVTRACS standardized virtual clinical scenarios\ttraditional patient-based clinical assessment": {
+  "label": "VTRACS virtual clinical simulation vs traditional clinical assessment/training",
+  "treatment_is_a": true
+ },
+ "simulation\tVTRACS virtual reality clinical scenarios\ttraditional physical clinical training": {
+  "label": "VTRACS virtual clinical simulation vs traditional clinical assessment/training",
+  "treatment_is_a": true
+ },
+ "simulation\tVTRACS virtual-reality clinical simulation\ttraditional physical clinical training": {
+  "label": "VTRACS virtual clinical simulation vs traditional clinical assessment/training",
+  "treatment_is_a": true
+ },
+ "simulation\tVTRACS virtual-reality learning\ttraditional physical learning": {
+  "label": "VTRACS virtual clinical simulation vs traditional clinical assessment/training",
+  "treatment_is_a": true
+ },
+ "simulation\tdirected observer role\tactive one-to-one participation": {
+  "label": "directed observer role vs active participant role",
+  "treatment_is_a": true
+ },
+ "simulation\tdirected observer role\tactive participant role": {
+  "label": "directed observer role vs active participant role",
+  "treatment_is_a": true
+ },
+ "simulation\tfive months of VR thrombectomy simulation training\tpretest before training": {
+  "label": "VR thrombectomy simulation training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tfive-month VR simulator training\tpretest performance": {
+  "label": "VR thrombectomy simulation training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tfive-month VR thrombectomy simulator training\tpretest simulator performance": {
+  "label": "VR thrombectomy simulation training vs pre-training baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tformal-instruction video plus cadaver simulation workshop\tpre-training baseline": {
+  "label": "formalin-embalmed cadaver simulation/training vs pre-training",
+  "treatment_is_a": true
+ },
+ "simulation\tformalin-embalmed cadaver simulation training\tpre-training baseline": {
+  "label": "formalin-embalmed cadaver simulation/training vs pre-training",
+  "treatment_is_a": true
+ },
+ "simulation\tformal­in-embalmed cadaver simulation with ultrasound needle-guidance practice\tnot stated": {
+  "label": "formalin-embalmed cadaver simulation vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "simulation\tformal­in-embalmed cadaver simulation workshop\tpre-training": {
+  "label": "formalin-embalmed cadaver simulation/training vs pre-training",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity acute simulation and life support course\tpre-course baseline": {
+  "label": "high-fidelity acute simulation and life-support course vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity acute simulation and life-support course\tpre-course baseline": {
+  "label": "high-fidelity acute simulation and life-support course vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-fidelity acute simulation and life-support course\tpre-course state before simulation": {
+  "label": "high-fidelity acute simulation and life-support course vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-tech simulation\tlow-tech simulation": {
+  "label": "high-tech simulation vs low-tech simulation",
+  "treatment_is_a": true
+ },
+ "simulation\thigh-tech simulation with entrepreneurship lecture\tlow-tech simulation without entrepreneurship content": {
+  "label": "high-tech simulation vs low-tech simulation",
+  "treatment_is_a": true
+ },
+ "simulation\thigher pre-clinical simulation marks\tlower pre-clinical simulation marks": {
+  "label": "higher vs lower pre-clinical simulation marks",
+  "treatment_is_a": true
+ },
+ "simulation\timmersive VR virtual-patient sessions with debriefing\tpre-course perceptions of VR": {
+  "label": "immersive VR virtual-patient simulation with debriefing vs pre-course baseline",
+  "treatment_is_a": true
+ },
+ "simulation\tintegrated experiential simulation\tisolated knowledge or technical drills": {
+  "label": "integrated experiential simulation vs isolated knowledge or technical drills",
+  "treatment_is_a": true
+ },
+ "simulation\tpeer-led mock OSCE with student station design, examiner, or examinee roles\tno participation in the mock OSCE": {
+  "label": "peer-led mock OSCE participation vs no mock-OSCE participation",
+  "treatment_is_a": true
+ },
+ "simulation\tpre-clinical Periodontics simulation assessment\tclinical Periodontics assessment": {
+  "label": "pre-clinical simulation assessment vs clinical assessment/performance",
+  "treatment_is_a": true
+ },
+ "simulation\tpre-clinical Restorative simulation assessment\tclinical Restorative assessment": {
+  "label": "pre-clinical simulation assessment vs clinical assessment/performance",
+  "treatment_is_a": true
+ },
+ "simulation\tpre-clinical endodontics simulation assessment\tclinical endodontics performance": {
+  "label": "pre-clinical simulation assessment vs clinical assessment/performance",
+  "treatment_is_a": true
+ },
+ "simulation\tpre-clinical periodontics simulation assessment\tclinical periodontics performance": {
+  "label": "pre-clinical simulation assessment vs clinical assessment/performance",
+  "treatment_is_a": true
+ },
+ "simulation\tpre-clinical restorative simulation assessment\tclinical restorative performance": {
+  "label": "pre-clinical simulation assessment vs clinical assessment/performance",
+  "treatment_is_a": true
+ },
+ "simulation\tvirtual-patient OSCE\tno comparison; internal consistency assessment": {
+  "label": "virtual-patient OSCE vs no comparison reported",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked examples with self-explanation prompts\tbusiness as usual problem solving": {
+  "label": "worked examples with self-explanation prompts vs business-as-usual problem solving",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked examples with self-explanation prompts\tbusiness-as-usual problem solving": {
+  "label": "worked examples with self-explanation prompts vs business-as-usual problem solving",
+  "treatment_is_a": true
+ },
+ "worked-examples\tworked examples with self-explanation prompts\tpretest": {
+  "label": "worked examples with self-explanation prompts vs pretest",
+  "treatment_is_a": true
  }
 }

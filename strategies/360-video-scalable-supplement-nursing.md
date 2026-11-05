@@ -53,6 +53,7 @@ The authors recommend that "screen-based 360° contextual simulation videos may 
 - [Use standalone VR for repeated self-directed skill maintenance between certification cycles](standalone-vr-skill-maintenance-strategy.md)
 - [Use facilitated interactive video as a scalable BLS training adjunct when simulation capacity is limited](facilitated-video-adjunct-when-simulation-capacity-limited.md)
 - [Use virtual simulation games as a preliminary or complementary method to face-to-face simulation and clinical practice](vsg-as-preliminary-or-complementary-simulation.md)
+- [Just-in-time training: stop-and-go simulation debriefing and over-the-shoulder clinical coaching](just-in-time-stop-and-go-over-the-shoulder.md)
 
 ## Examples
 -

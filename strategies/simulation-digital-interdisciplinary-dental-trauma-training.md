@@ -53,6 +53,7 @@ The article recommends simulation-based training, digital tools including the IA
 - [Develop trauma simulation training with objective automated evaluation, undergraduate inclusion, combined fidelity levels, and pre-hospital settings](trauma-simulation-development-recommendations.md)
 - [Evaluate digital decision-support in novice providers and optimize interface design to minimize cognitive overhead](future-research-novice-providers-interface-optimization.md)
 - [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
+- [Integrate structured, interdisciplinary dental trauma training into vocational health curricula using modular, problem-based and digital formats](structured-dental-trauma-curriculum-integration-strategy.md)
 
 ## Examples
 -

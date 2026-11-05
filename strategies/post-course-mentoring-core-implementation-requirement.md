@@ -52,6 +52,8 @@ The article recommends that nurse managers and innovation mentors treat post-cou
 - [Formalize clinical peer-mentorship programs pairing senior staff with junior nurses](peer-mentorship-junior-nurses-wound-care.md)
 - [Combined organizational-support, mentorship, simulation-based confidence-building, and workload-management interventions for new emergency and critical care nurses](four-part-support-intervention-new-critical-care-nurses.md)
 - [Support EBP education with mentorship, protected time, and continuity of initiatives rather than isolated courses](ebp-institutional-support-strategy.md)
+- [Structured mentorship system in which trained nurse mentors deliver EBP education, bedside teaching and ongoing monitoring](nurse-mentor-ebp-monitoring-strategy.md)
+- [Integrate structured mentorship and reflective coaching alongside technical competency programs to support psychological outcomes](sccdp-mentorship-coaching-supplement-strategy.md)
 
 ## Examples
 -

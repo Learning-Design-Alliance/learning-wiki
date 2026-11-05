@@ -50,6 +50,7 @@ Building on PBP principles, the statement proposes four implementation pillars: 
 - [Stepwise progression pathway integrating theoretical instruction, simulation, and supervised clinical practice](stepwise-progression-theory-simulation-supervised-practice.md)
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
 - [Tiered certification tracks with regional simulation hubs, mobile units, and shared access to avoid excluding resource-limited centres](tiered-certification-regional-hubs-strategy.md)
+- [Blend simulation with traditional apprenticeship under a competency-based milestone framework for PTED training](blended-competency-based-pted-training-pathway.md)
 
 ## Examples
 -

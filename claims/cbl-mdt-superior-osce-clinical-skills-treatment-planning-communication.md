@@ -60,3 +60,5 @@ OSCE with five blinded stations, three independent assessors per student, in the
 - [Interns' teaching-model preference shifted significantly toward MDT-CBL from pre-test to post-test within the experimental group, with 65.6% preferring it post-test](mdt-cbl-preference-shift-significant.md) — related
 - [WBLP students report significantly better teacher–student interaction, patient–doctor communication, and humanistic care perceptions](wblp-better-interaction-communication-humanistic-care-ratings.md) — related
 - [WBLP students show the largest performance gap in procedural skills (bone marrow aspiration and thoracentesis), with gains also in history taking, clinical reasoning, and physical examination](wblp-largest-gap-procedural-skills-station.md) — related
+- [Station-level analysis showed intervention advantages on Station 1 (examiners) and Station 5 (intervention), with no differences on Stations 2–4](station-level-osce-differences.md) — related
+- [VR-trained students outperformed control students in all three assessed competency modules in both assessment modes](vr-cataract-three-module-subscore-advantage.md) — related

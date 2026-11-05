@@ -59,3 +59,6 @@ Randomized trial of 87 residents (43 control, 44 experimental) over a four-week 
 - [The DwGJ group outperformed the control group on OSCE-based practical skill assessment after the course](dwgj-cbl-higher-osce-skill-scores.md) — related
 - [PBL-trained kidney transplantation trainees show higher clinical reasoning performance than traditionally trained trainees on structured case analyses](pbl-higher-clinical-reasoning-kidney-transplant.md) — related
 - [PBL-trained kidney transplantation trainees achieve higher OSCE scores than traditionally trained trainees across all stations](pbl-higher-osce-scores-kidney-transplant.md) — related
+- [Anesthesiology trainees taught with a DeepSeek-based AI teaching assistant on top of traditional teaching achieved significantly higher immediate theoretical test scores than those taught by traditional teaching alone](deepseek-assistant-higher-immediate-anesthesia-theory-scores.md) — related
+- [Residents self-report high knowledge acquisition from online pediatric endocrinology CBL modules](online-cbl-self-reported-knowledge-gain-endocrinology.md) — related
+- [Structured PBL is associated with higher overall clinical reasoning scores than conventional lectures in esophageal cancer teaching for medical interns](pbl-higher-clinical-reasoning-esophageal-cancer-interns.md) — related

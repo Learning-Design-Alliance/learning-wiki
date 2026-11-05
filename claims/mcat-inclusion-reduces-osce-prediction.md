@@ -51,3 +51,4 @@ Retrospective cohort analysis of 349 admitted students. Pearson correlations com
 - [MCAT scores moderately correlate with NBME Pharmacology Subject Exam scores (r = 0.45)](mcat-moderate-correlation-nbme-pharmacology.md) — related
 - [MCAT scores and USGPA correlate with academic outcomes and alter LASSI correlations when controlled](mcat-usgpa-control-effects-on-lassi-correlations.md) — related
 - [Using ML-predicted MCAT scores would have changed 6.3% to 9.4% of admission decisions despite strong rank agreement](predicted-mcat-changes-admission-decisions.md) — related
+- [Baseline academic comparability of the two MD cohorts was established on MCAT scores, uGPA, and sGPA](md-cohorts-baseline-comparability.md) — related

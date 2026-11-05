@@ -72,3 +72,4 @@ Random-effects pooled comparison for pseudoword decoding. The article reports th
 - [Semantic ability correlates with phonological awareness, rapid naming, and both decoding measures in children with dyslexia](semantics-correlates-pa-ran-decoding.md) — related
 - [More than half of very preterm children do not meet expected school readiness or attainment levels at ages 5 to 7 years](half-very-preterm-below-expected-attainment.md) — related
 - [Birth weights of 2.5–3.9 kg and ≥ 4.0 kg were associated with reduced odds of good academic performance compared with < 2.5 kg](birth-weight-reduced-odds-good-performance.md) — related
+- [EI receipt is associated with lower test scores among preterm and low-birth-weight children, with the article urging caution in interpretation](ei-inverse-association-preterm-low-birth-weight.md) — related

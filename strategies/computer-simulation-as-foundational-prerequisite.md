@@ -46,6 +46,7 @@ The article recommends sequencing computer simulation before mannequin-based sce
 ## Related Strategies
 
 - [Simulations + Structured Activity](simulations-structured-activity.md)
+- [Deploy LLM-powered ACLS simulations as a structured, scalable adjunct to traditional resuscitation leadership training](llm-simulation-adjunct-resuscitation-leadership-training.md)
 
 ## Examples
 -

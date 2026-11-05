@@ -52,3 +52,4 @@ Meta-analysis of colonoscopy RCTs pooling "7 study, 163 participants". The revie
 - [Virtual endoscopy simulator training shows no statistically significant difference in total procedure time for gastroscopy (SMD 0.01, 95% CI −0.61–0.59, P=0.98)](no-gastroscopy-procedure-time-difference.md) — related
 - [Simulation-based training does not significantly improve success rate of procedure completion on patients compared with non-simulation based training](sbt-no-patient-success-benefit-airway.md) — a broader claim this one bears on
 - [Feedback is necessary for performance improvement on virtual colonoscopy simulators; without feedback novices do not improve](no-feedback-no-learning-simulators.md) — related
+- [Most participants favor simulator implementation in endoscopy training, but few have institutional access](endonix-implementation-attitudes-and-access.md) — related

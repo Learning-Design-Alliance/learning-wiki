@@ -63,3 +63,4 @@ Same assessor-blinded RCT of 50 clinical medical students. Teaching effectivenes
 - [Residents in the integrated-teaching group report higher overall satisfaction with instructors, driven by skill training and bedside teaching](integrated-teaching-higher-instructor-satisfaction.md) — related
 - [A significantly larger proportion of integrated-teaching trainees positively evaluate the teaching method (100% vs. 86.0%)](teaching-satisfaction-proportion-chi-square.md) — related
 - [PBL-trained kidney transplantation trainees perform better in multidisciplinary case discussions than traditionally trained trainees](pbl-better-multidisciplinary-discussion-performance.md) — related
+- [Live-video teaching significantly boosts students' self-evaluated learning outcomes across all five measured aspects](ltm-self-evaluated-learning-outcomes.md) — related

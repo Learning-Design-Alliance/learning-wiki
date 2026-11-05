@@ -56,3 +56,4 @@ The review reports this as the only included study of predictive validity (Palte
 - [Transfer of VR training gains to real clinical practice remains unconfirmed](vr-training-transfer-unconfirmed.md) — reports the opposite
 - [Among consultant paediatric surgeons, operative time fell significantly from before to after a 12-week porcine-model laparoscopic training programme in one uncontrolled pre-post study](porcine-model-training-reduces-operative-time-consultants.md) — related
 - [The authors report that VR surgical training may improve operator performance and reduce surgical complication rates relative to animal and cadaver model outcomes, while impact on clinical competency remains controversial](vr-training-performance-and-controversy.md) — related
+- [Younger surgeons report significantly more VR simulation training than senior counterparts, while cadaveric training remains the most commonly received](younger-surgeons-more-vr-simulation-exposure.md) — related

@@ -53,3 +53,4 @@ Qualitative Likert ratings (7-point scale) collected after each of the 20 interv
 - [Expert evaluation found the virtual patient realistic and immediate ACT feedback increased therapists' awareness of intervention choices](expert-evaluation-realism-and-feedback-awareness.md) — related
 - [LLM integration into virtual patient scenarios enables realistic, context-sensitive medical interviews in a metaverse environment](llm-virtual-patient-realistic-interviews.md) — a broader claim this one bears on
 - [Students perceived the GPT-based virtual patient encounters as realistic and easy to converse with](ai-virtual-patient-perceived-realistic.md) — related
+- [Medical students rate the virtual patients as realistic and comprehensible, with face validity exceeding the acceptability threshold](vp-acceptable-face-validity.md) — related

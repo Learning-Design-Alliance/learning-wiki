@@ -67,3 +67,4 @@ The brief's opening statement of the teacher-leader role, offered as the authors
 - [Team-based professional development in higher education leads colleagues to learn more about each other, with some becoming role models for one another](team-pd-collegiality-learning.md) — related
 - [Training team leaders to present pre-briefs and interactive post-briefs significantly improved both leader capabilities and team performance](leader-briefing-training-improves-team-performance.md) — related
 - [Buddy Leaders reported consolidation of their own learning, developing networks, and improved team and leadership skills as benefits of leading SBS groups](buddy-leaders-reported-consolidation-and-leadership-benefits.md) — a narrower finding that bears on this claim
+- [Reflective practice, supported by individual and group supervision, helped facilitators learn from rather than be derailed by challenging cases](reflective-practice-supervision-challenging-cases.md) — related

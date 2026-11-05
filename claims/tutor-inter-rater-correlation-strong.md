@@ -47,3 +47,4 @@ Inter-rater reliability analysis comparing scores given by two primary-care and 
 ## Related Claims
 - [Students score higher on patient-centered information and emotional connection than on assessing patient needs and learning](competency-profile-information-empathy-stronger.md) — related
 - [Interpretation and diagnosis scores were not correlated, suggesting the two domains are partly independent](interpretation-diagnosis-uncorrelated.md) — related
+- [Perceptions of structure, clarity, and tutor preparedness were strongly positively correlated within each teaching group](structure-clarity-engagement-strong-correlations.md) — related

@@ -18,7 +18,7 @@ sources:
 # Problem-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (9 for, 1 mixed, 1 against) · 7 studies (4 causal, 3 quant-synthesis), `q1`–`q3` · 3 of 7 report an effect size · 11 claims rest on one study
+> **Evidence** · 13 claims (11 for, 1 mixed, 1 against) · 8 studies (5 causal, 3 quant-synthesis), `q1`–`q3` · 3 of 8 report an effect size · 13 claims rest on one study
 
 ## Description
 Problem-based learning, as an element, refers to the use of an authentic or ill-structured problem as the immediate driver of inquiry, information seeking, and solution development inside a larger design. This page serves as the canonical short-form target for element links that point to PBL-style problem framing.
@@ -58,6 +58,8 @@ Problem-based learning, as an element, refers to the use of an authentic or ill-
 - [PBL-DeepSeek students achieve higher theoretical examination scores than traditionally taught students in a glaucoma clerkship](../claims/deepseek-pbl-higher-theory-scores-glaucoma.md) [+W]
 - [PBL-trained kidney transplantation specialist trainees achieve higher post-training theoretical examination scores than traditionally trained trainees across all tested domains](../claims/pbl-higher-theoretical-scores-kidney-transplant-training.md) [+M] — attached 2026-11-05 from Gao C et al. (2026), which proposed "Structured PBL curriculum for specialist kidney transplantation training"; tests this page's relationship.
 - [PBL-trained kidney transplantation trainees achieve higher OSCE scores than traditionally trained trainees across all stations](../claims/pbl-higher-osce-scores-kidney-transplant.md) [+M] — attached 2026-11-05 from Gao C et al. (2026), which proposed "Structured PBL curriculum for specialist kidney transplantation training"; tests this page's relationship.
+- [Structured PBL is associated with higher overall clinical reasoning scores than conventional lectures in esophageal cancer teaching for medical interns](../claims/pbl-higher-clinical-reasoning-esophageal-cancer-interns.md) [+W] — attached 2026-11-05 from Zhao L et al. (2026), which proposed "Structured PBL module for esophageal cancer teaching (small fixed groups, authentic cases, facilitator-guided reasoning, formative assessment)"; tests this page's relationship.
+- [PBL interns show higher diagnostic accuracy and higher guideline-concordant therapeutic decision-making than lecture-taught interns in esophageal cancer teaching](../claims/pbl-diagnostic-accuracy-guideline-concordance-esophageal.md) [+W] — attached 2026-11-05 from Zhao L et al. (2026), which proposed "Structured PBL module for esophageal cancer teaching (small fixed groups, authentic cases, facilitator-guided reasoning, formative assessment)"; tests this page's relationship.
 
 ## Related Elements
 - [Problem Scenario](problem-scenario.md)

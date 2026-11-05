@@ -9,7 +9,7 @@ generated:
   at: 2026-10-08
 evidence_strength: moderate
 newest_evidence: 2013
-source_checked: 2026-10-18
+source_checked: 2026-11-05
 recheck_by: 2016
 sources:
   - id: peter-z-schochet-2013
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
-> **Currency** · newest study 2013 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2016**: tool and model accuracy changes quickly
+> **Currency** · newest study 2013 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2016**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Using value-added models, error rates for comparing a teacher's performance to the average are likely to be about 25 percent with three years of data and 35 percent with one year of data. [→ Peter Z. Schochet 2013](#peter-z-schochet-2013)

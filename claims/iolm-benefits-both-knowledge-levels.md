@@ -9,7 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2016
-source_checked: 2026-10-27
+source_checked: 2026-11-05
 sources:
   - id: vania-dimitrova-paul-brna-2016
     resource: "https://doi.org/10.1007/s40593-015-0087-3"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
-> **Currency** · newest study 2016 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` More knowledgeable learners engaged in reflective interactions about the domain, while less knowledgeable learners were provoked to inspect their models and challenge their robustness. [→ Vania Dimitrova & Paul Brna 2016](#vania-dimitrova-paul-brna-2016)

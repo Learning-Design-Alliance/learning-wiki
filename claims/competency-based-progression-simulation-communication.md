@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 sources:
   - id: gonzález-sanz-a-2026
     resource: "https://doi.org/10.2196/87898"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In one randomised trial included in this review (Breen et al., 2019), communication competence was achieved by 60% in the competency-based progression group versus 6.9% with e-learning alone and 13% with standard simulation (P<.001). [→ González-Sanz A 2026](#gonzalez-sanz-a-2026)

@@ -68,3 +68,4 @@ Narrative synthesis in the Discussion contrasting two included reviews' retentio
 - [Non-verbal communication gains persisted at a two-month follow-up, with no statistically significant decline from post-test](peer-tutoring-asd-gains-retained-two-month-followup.md) — related
 - [Comprehensive data linking simulation training to patient outcomes, complication rates, and long-term skill retention are lacking](simulation-skill-transfer-outcomes-lacking.md) — related
 - [Evidence for transfer of SBE-gained knowledge and skills to clinical practice is weak, with scarce control groups and longitudinal studies](sbe-evidence-gaps-transfer-weak.md) — a narrower finding that bears on this claim
+- [Facilitators reported professional and personal rewards from delivering the intervention, including transferable communication skills](facilitator-rewards-transferable-communication-skills.md) — related

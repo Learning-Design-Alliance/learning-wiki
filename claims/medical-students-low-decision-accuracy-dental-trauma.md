@@ -50,3 +50,5 @@ Cross-sectional survey of 291 medical students using scenario-based vignettes sc
 - [Self-assessed knowledge does not significantly predict correct decision-making in fracture scenarios](self-assessed-knowledge-not-predictive-fracture-decisions.md) — related
 - [General avulsion knowledge is the only significant predictor of clinical decision accuracy in regression analysis](general-avulsion-knowledge-predicts-decision-accuracy.md) — related
 - [Most fourth-year dental students at one Australian university report low confidence in managing TDI cases despite having average knowledge.](dental-students-low-confidence-tadi-management.md) — related
+- [Health vocational students in Turkey show limited knowledge of dental trauma emergency management, with only 7.2% receiving first aid training that included dental trauma content](limited-dental-trauma-knowledge-turkish-vocational-students.md) — related
+- [Students who self-reported knowing what to do for an avulsed permanent tooth gave significantly more correct answers on contaminated-tooth and fractured-tooth management](self-reported-avulsion-knowledge-predicts-correct-responses.md) — related

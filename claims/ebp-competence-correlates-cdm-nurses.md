@@ -50,3 +50,4 @@ Cross-sectional survey of 387 nurses using Pearson's correlation between scale t
 - [Education, EBP competence, and research experience positively predict nurses' clinical decision-making](education-ebp-research-predict-cdm.md) — related
 - [Higher education, research involvement, and following scientific publications positively predict nurses' EBP competence](education-research-publications-predict-ebp-competence.md) — related
 - [Foreign language knowledge, EBP training, following publications, scientific event participation, and research experience each associate with higher EBP and CDM scores](professional-engagement-factors-higher-ebp-cdm.md) — related
+- [After EBP implementation, weak-to-moderate significant correlations emerged among nurses' knowledge, practice, skill, and motivation/work engagement](competency-correlations-after-ebp-implementation.md) — related

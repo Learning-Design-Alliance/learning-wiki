@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: bloom-and-weiland-2014
     resource: "https://eric.ed.gov/?id=ED562943"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2014 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` There were statistically significant differences in impacts by race/ethnicity for receptive vocabulary and early numeracy, with larger impacts among Hispanic students (0.23 and 0.22) than among Black students (0.05 and 0.03). [→ Bloom and Weiland 2014](#bloom-and-weiland-2014)

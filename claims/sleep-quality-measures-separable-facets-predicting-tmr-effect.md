@@ -9,7 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-10-26
+source_checked: 2026-11-05
 sources:
   - id: whitmore-2022
     resource: "https://doi.org/10.1038/s41539-021-00119-2"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2022 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A multiple regression model including N3 duration, Sleep Disruption Index, Sleep Fragmentation Index, and number of cues significantly predicted the recall cuing effect (r(17)=0.55, p=0.01), with significant coefficients for Sleep Fragmentation Index (p=0.01), Sleep Disruption Index (p=0.01), and number of name cues (p=0.02). [→ Whitmore 2022](#whitmore-2022)

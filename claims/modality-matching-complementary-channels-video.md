@@ -61,3 +61,5 @@ The essay reports, citing Mayer and Moreno (2003), Guo et al. (2014), and Thomso
 - [Concrete visual presentation can convey only concrete, simple meanings; abstract and general meanings are conveyed by language](visual-presentation-limited-to-concrete-meanings.md) — related
 - [Signalling, integrated pictures and words, and pedagogical agents probably improve learning outcomes.](signalling-integrated-pictures-and-pedagogical-agents-probably-improve-learning.md) — related
 - [Students built food chains more easily from anonymous images of living beings than from their names, suggesting visual aids convey more information than verbal labels](images-beat-verbal-names-food-chains.md) — related
+- [The modality effect: complex visual displays are better understood when explanatory words are presented auditorily rather than visually](modality-effect-audiovisual-superiority.md) — related
+- [Redundancy effect: auditory content redundant to visual material deteriorates learning performance, especially with high complexity](redundancy-effect-two-modalities.md) — related

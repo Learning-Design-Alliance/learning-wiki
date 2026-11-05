@@ -9,7 +9,6 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-29
 sources:
   - id: mustafa-sat-2026
     resource: "https://doi.org/10.1007/s11423-026-10597-z"
@@ -33,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants expressed high transfer confidence: 71.0% strongly agreed they could design similar activities with wearable e-textiles and 80.6% agreed or strongly agreed they could apply what they learned at school. [→ Mustafa Sat 2026](#mustafa-sat-2026)

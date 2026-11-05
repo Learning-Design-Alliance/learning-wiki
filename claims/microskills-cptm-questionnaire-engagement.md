@@ -75,3 +75,4 @@ Resource utilization showed "no statistically significant difference", which the
 - [Integrated teaching raises satisfaction with the teaching approach on learning interest, disease comprehension, and clinical reasoning, but not on research awareness or communication](integrated-teaching-approach-survey-mixed.md) — possibly the same claim (merge candidate)
 - [PA-PBL and control students reported comparable course satisfaction and self-evaluated competencies](pa-pbl-control-comparable-subjective-evaluations.md) — reports the opposite
 - [Experimental-group students rated satisfaction, learning enthusiasm, comprehension, interaction, and interest in nephrology more favorably than control students](boppps-rain-classroom-favorable-student-evaluations.md) — related
+- [PBL interns report higher self-efficacy, instructional satisfaction, and perceived critical-thinking improvement than lecture-taught interns](pbl-self-evaluated-learning-gains-esophageal.md) — related

@@ -58,3 +58,4 @@ SEM mediation analysis with 225 4th graders; the indirect growth-mindset path vi
 - [Achievement goals and grit sequentially chain-mediate the growth mindset–mathematics achievement relationship](chain-mediation-goals-grit-math.md) — related
 - [Grit mediates the relationship between growth mindset and mathematics achievement](grit-mediation-growth-mindset-math.md) — possibly the same claim (merge candidate)
 - [Growth mindset correlates positively with grit and grit correlates positively with mathematics achievement](growth-mindset-grit-correlations.md) — a narrower finding that bears on this claim
+- [Grit mediates the relationship between growth mindset and academic performance of female art majors](grit-mediation-growth-mindset-performance.md) — related

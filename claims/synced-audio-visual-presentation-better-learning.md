@@ -52,3 +52,4 @@ The review reports, citing Mayer and colleagues (2019), a series of studies on m
 - [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](redundancy-hurts-learning.md) — related
 - [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](redundancy-principle.md) — related
 - [Concrete visual presentation can convey only concrete, simple meanings; abstract and general meanings are conveyed by language](visual-presentation-limited-to-concrete-meanings.md) — related
+- [Redundancy effect: auditory content redundant to visual material deteriorates learning performance, especially with high complexity](redundancy-effect-two-modalities.md) — related

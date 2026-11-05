@@ -49,3 +49,4 @@ Likert-scale information-quantity ratings (1 = Not Enough Information to 5 = Too
 - [Students perceived diverse and generic explanations as similarly helpful, with no statistically significant difference across explanation-sequence groups](no-significant-difference-perceived-helpfulness.md) — related
 - [Diverse LLM explanations were associated with about 7.7% higher open-ended response accuracy than generic explanations, but the condition effect was not significant after Bonferroni adjustment](diverse-llm-explanations-higher-oe-accuracy-not-significant.md) — related
 - [Prompted, unprompted, and slide-based learning conditions yield statistically comparable multiple-choice performance](no-multiple-choice-difference-prompted-ai-learning.md) — related
+- [Perceived cognitive load did not differ significantly across instructional conditions and did not moderate the fading effect](cognitive-load-no-condition-differences.md) — related

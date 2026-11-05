@@ -65,3 +65,4 @@ The review attributes this to Kalyuga et al. (2000), experiments on using indust
 - [Within-subjects designs also show a moderate-to-large modality effect (d = 0.73)](modality-effect-within-subjects-d073.md) — related
 - [Transient information effect: lengthy spoken text can reverse the modality effect, while shorter spoken text restores the conventional modality advantage](transient-information-effect-reverse-modality-length.md) — related
 - [The modality effect may disappear or reverse for lengthy, complex spoken text](modality-effect-reversal-complex-spoken-text.md) — related
+- [Expertise reversal effect: benefits of two modalities and worked examples diminish or reverse as learner expertise increases](expertise-reversal-modality-worked-examples.md) — a broader claim this one bears on

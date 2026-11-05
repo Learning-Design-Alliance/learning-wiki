@@ -56,3 +56,4 @@ Frequency analysis of the full WAT corpus (N = 436; 1376 coded responses) found 
 - [The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism](ethical-issues-most-reported-ai-risk.md) — related
 - [Algorithmic and technical-mechanism concepts are marginal in students' AI networks: machine learning was produced by a single participant across 436 respondents](algorithmic-concepts-marginal-machine-learning-single-response.md) — related
 - No included ITS study considered AI ethics, and the review calls for longer interventions, larger and more diverse samples, and ethical investigation — related
+- [Cooccurrence network analysis found that students' AI-ethics thinking changed from fragmented clusters at pretest to integrated networks at posttest in one single-group pre-post study](cooccurrence-network-structural-transformation.md) — related

@@ -59,3 +59,4 @@ The meta-analysis's moderator analysis compared involvement components; it found
 - [Effects of parent aspirations on student outcomes are predominantly small and mixed in direction](parent-aspirations-small-mixed-effects.md) — reports the opposite
 - [Teacher expectations correlate most strongly with achievement among Year-10 expectation and aspiration measures](teacher-expectations-highest-achievement-correlations.md) — related
 - [Concept Cat facilitated parents' involvement in the setting and their understanding of children's learning, and all surveyed lead practitioners intended to continue the programme](concept-cat-parent-involvement-and-sustainability.md) — related
+- [Initial levels and changes in self-concepts and parent expectations predict third-level attainment, with parent expectations a stronger predictor for economically vulnerable children](self-concept-expectations-predict-attainment.md) — a narrower finding that bears on this claim

@@ -51,3 +51,4 @@ Single-group pretest–posttest quasi-experiment with 80 OR nurses at one tertia
 - [Registered nurses in three Saudi tertiary hospitals scored a mean 62.54% on pressure injury staging knowledge items, below the 70% threshold used in previous studies](nurses-pi-staging-knowledge-62-percent.md) — related
 - [Nurses' pressure injury knowledge scores differ significantly across clinical units, with operating-room nurses scoring higher than outpatient-clinic nurses](pi-knowledge-differs-by-clinical-unit.md) — related
 - [Adverse events during circulating nursing work were lower after BOPPPS-integrated simulation training than before, in one uncontrolled pre-post study](adverse-events-decline-after-boppps-simulation.md) — related
+- [Objective AI knowledge scores rose from pretest to posttest among Japanese medical students after a 1-day PBL program on AI ethics, in a single-group pre-post study](pbl-ai-ethics-mcq-knowledge-gain.md) — related

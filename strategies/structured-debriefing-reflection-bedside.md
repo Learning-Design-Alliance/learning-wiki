@@ -49,6 +49,7 @@ Bedside teaching should conclude with structured debriefing, conducted away from
 - [Blend the PEARLS debrief with CHAT-guided facilitation to extend debriefing from the individual to the team and system](blended-pearls-chat-debrief-strategy.md)
 - [Integrate structured reflection sessions like GGR into undergraduate clinical clerkships, especially where bedside exposure is limited](integrate-ggr-into-undergraduate-clerkships.md)
 - [Embed simulation-based scenarios into the curriculum as structured learning modules with guided debriefings and reflective exercises](simulation-modules-debriefing-strategy.md)
+- [Engage observers as active learners throughout the post-simulation debrief, seeking their input before the performing participant](observer-engagement-during-debriefing.md)
 
 ## Examples
 -

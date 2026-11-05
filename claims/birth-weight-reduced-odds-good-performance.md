@@ -51,3 +51,4 @@ Multivariable logistic regression in the cross-sectional study; both birth-weigh
 - [Children who slept <10 hours/day at ages 3-4 years had worse maternal-reported executive function and behavioral difficulties at age 7 than children with age-appropriate sleep](short-sleep-3-4-years-worse-maternal-neurobehavioral-age-7.md) — related
 - [Mode of delivery was not a significant predictor of academic performance after adjusting for confounding variables](delivery-mode-not-independent-predictor-academic-performance.md) — related
 - [Children of self-employed mothers had significantly lower odds of good academic performance than children of government-employed mothers](self-employed-mothers-lower-odds-good-performance.md) — related
+- [EI receipt is associated with lower test scores among preterm and low-birth-weight children, with the article urging caution in interpretation](ei-inverse-association-preterm-low-birth-weight.md) — related

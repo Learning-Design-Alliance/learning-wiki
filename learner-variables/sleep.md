@@ -13,7 +13,7 @@ generated:
 # Sleep
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 59 claims (32 show a difference, 21 mixed, 6 no difference) · 23 studies (9 causal, 8 associational, 5 review, 1 quant-synthesis), `q2`–`q3` · 9 of 23 report an effect size · 59 claims rest on one study
+> **Evidence** · 62 claims (35 show a difference, 21 mixed, 6 no difference) · 24 studies (9 causal, 9 associational, 5 review, 1 quant-synthesis), `q2`–`q3` · 10 of 24 report an effect size · 62 claims rest on one study
 
 ## Description
 Sleep is the period in which consciousness is suspended and the body and brain rest and recuperate. During sleep the brain consolidates memories, the body heals and recovers energy, and waste products of brain activity may be cleared. Its quantity, regularity and quality matter for nearly every aspect of cognition, as well as for physical and emotional well-being. When learners do not get enough good sleep, mood and cognitive skills suffer and focus is lost more easily. Sleep is measured with self-report and parent-report questionnaires on sleep habits, timing, quality and daytime sleepiness. The LVN treats it as relevant from pre-kindergarten to adulthood, and suggests extra cognitive supports, such as redirecting attention when a learner's mind wanders, for students who are short of sleep. It overlaps with [physical well-being](physical-wellbeing.md), of which adequate sleep is a part, and with [long-term memory](long-term-memory.md) through consolidation.
@@ -95,6 +95,9 @@ Sleep is the period in which consciousness is suspended and the body and brain r
 - [Most students believe their sleep pattern affects academic performance, and 85.7% reported performance decreases during sleep disturbance](../claims/student-beliefs-sleep-affects-performance.md) [+W] — learners who differ on it differ in outcomes
 - [Students with good sleep quality scored higher on the most recent exam than students with poor sleep quality, but cumulative GPA did not differ between the groups](../claims/exam-grade-higher-good-sleep-quality-gpa-null.md) [~W] — learners who differ on it differ in outcomes
 - [Study time is negatively correlated with sleep duration, strengthening toward the exam day (r = −0.444), and higher study time is associated with poorer PSQI sleep quality](../claims/study-time-trades-off-against-sleep.md) [+M] — learners who differ on it differ in outcomes
+- [Final exam scores correlate positively with sleep efficiency, negatively with sleep onset latency, and negatively with the MADs of SE, SOL, and TST](../claims/exam-score-correlations-sleep-parameters.md) [+M] — learners who differ on it differ in outcomes
+- [High-scoring students show lower night-to-night variability (MAD) of sleep efficiency, sleep onset latency, and total sleep time](../claims/lower-mad-se-sol-tst-high-scorers.md) [+M] — learners who differ on it differ in outcomes
+- [Students with higher final exam scores show significantly higher actigraphy sleep efficiency and shorter sleep onset latency than lower-scoring peers](../claims/higher-exam-scores-higher-se-shorter-sol-actigraphy.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Sleep Timing Questionnaire** (Monk et al., 2003): self-report of sleep-wake patterns on weekdays and weekends.

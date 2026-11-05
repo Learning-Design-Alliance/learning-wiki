@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: weak
 newest_evidence: 2016
+source_checked: 2026-11-05
 sources:
   - id: zhao-2016
     resource: "https://doi.org/10.64152/10125/66903"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i0` negligible
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i0` Motivation was not a significant predictor of incidental vocabulary acquisition (β = .02, p > .05). [→ Zhao 2016](#zhao-2016)

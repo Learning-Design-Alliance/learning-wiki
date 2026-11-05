@@ -85,3 +85,4 @@ Section-level post-course ratings in the intervention cohort: flipped-learning c
 - [Students in the flipped group rated the method as beneficial with a median benefit scale value of 4 out of 5](flipped-learning-benefit-median-four.md) — related
 - [Students rate the simulation program highly acceptable and useful, with the simulation component rated most useful.](simulation-high-acceptability-ratings.md) — related
 - [Medical students report high overall satisfaction with an interprofessional simulation-based learning module](ipe-module-high-student-satisfaction.md) — related
+- [Across all survey items, learners rated the CME modules highly, with median Likert scores of 4 and means above 4.0 for content quality, clarity, motivation, competence, and perceived educational value](espe-cme-high-likert-satisfaction.md) — related

@@ -107,3 +107,4 @@ The discussion cites Kalyuga et al. (1998), reported in the article as finding t
 - [Completion time detects training gains only in less experienced trainees, per the review's account of Kim et al.](completion-time-significant-only-less-experienced-trainees.md) — related
 - [Programming language and prior experience interact on GUI-programming exam success: novices do better with the blocks-based language, experienced students with the text-based language](language-experience-interaction-gui-exam.md) — related
 - [The authors explain the hybrid CI + VR paradox (highest Knowledge gains but more modest Understanding gains) via split-attention and expertise reversal effects](split-attention-explains-hybrid-paradox.md) — a narrower finding that bears on this claim
+- [Expertise reversal effect: benefits of two modalities and worked examples diminish or reverse as learner expertise increases](expertise-reversal-modality-worked-examples.md) — related

@@ -56,3 +56,5 @@ Self-administered 5-point Likert questionnaire completed by the CBL-FC group onl
 - [Students reported high satisfaction with the BOPPPS-flipped classroom model in pediatric dentistry](boppps-flipped-high-student-satisfaction.md) — related
 - [Students across all groups reported high satisfaction with the module, with no statistically significant group differences in satisfaction or self-reported mastery](high-satisfaction-no-group-differences-perceptions.md) — related
 - [Experimental-group students rated satisfaction, learning enthusiasm, comprehension, interaction, and interest in nephrology more favorably than control students](boppps-rain-classroom-favorable-student-evaluations.md) — related
+- [Residents on a pediatric endocrinology elective report high satisfaction with self-directed online CBL modules](online-cbl-high-resident-satisfaction-pediatric-endocrinology.md) — related
+- [Residents self-report high knowledge acquisition from online pediatric endocrinology CBL modules](online-cbl-self-reported-knowledge-gain-endocrinology.md) — related

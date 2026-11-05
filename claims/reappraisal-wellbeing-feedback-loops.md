@@ -45,3 +45,4 @@ Mediation analysis using 95% confidence intervals around indirect-effect point e
 ## Related Claims
 - [Cognitive reappraisal positively predicts subsequent school-related wellbeing in both between-person (CLPM) and within-person (RI-CLPM) longitudinal models](reappraisal-predicts-school-wellbeing-longitudinal.md) — related
 - [School-related wellbeing positively predicts subsequent cognitive reappraisal, making the relation reciprocal](school-wellbeing-predicts-reappraisal.md) — related
+- [Task-oriented coping and positive affect show positive reciprocal cross-lagged relations over one semester, implying positive feedback loops](task-coping-positive-affect-feedback-loop.md) — related

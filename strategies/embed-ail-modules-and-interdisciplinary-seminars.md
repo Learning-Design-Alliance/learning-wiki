@@ -51,6 +51,7 @@ The article recommends that universities adopt adaptive curricula integrating AI
 - [Integrate AI literacy education as an integral component of first-year curriculum development rather than an add-on](ai-literacy-integral-first-year-curriculum.md)
 - [Breadcrumb strategy: embed small AI-native skill exercises, nudges, and prompts across multiple courses throughout the four-year curriculum](breadcrumb-strategy-ai-native-skills.md)
 - [Embed subject-specific web credibility modules into existing courses rather than creating standalone courses](embed-subject-specific-credibility-modules.md)
+- [Integrate AI literacy and critical appraisal skills into dental curricula alongside discipline-specific AI validation](ai-literacy-critical-appraisal-dental-curricula-strategy.md)
 
 ## Examples
 -

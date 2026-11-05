@@ -95,3 +95,4 @@ Bootstrapped mediation analysis within PLS-SEM on the 487-student sample, testin
 - [The structural model explains 75.3% of the variance in self-directed learning, but measurement invariance across gender was only partial](sdl-variance-explained-partial-invariance.md) — related
 - [Self-efficacy and motivation positively predict self-directed learning, with motivation the strongest predictor](se-mov-positive-predict-sdl-henan-sem.md) — related
 - [Thoughtless use of generative AI exerts a significant direct negative effect on undergraduates’ self-directed learning](tuga-negative-direct-effect-sdl-henan-sem.md) — related
+- [Major satisfaction partially mediates the effect of achievement motivation on sustainable education (β = 0.15)](major-satisfaction-partially-mediates-motivation-sustainability.md) — related

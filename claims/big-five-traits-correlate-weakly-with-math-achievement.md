@@ -78,3 +78,4 @@ The authors place this alongside earlier cross-domain findings of a modest link 
 - [Academic achievement correlates positively with all five antecedent conditions in the sample](positive-correlations-five-antecedents-achievement.md) — related
 - [All five Big Five personality traits significantly predict academic achievement among medical master's students](big-five-traits-predict-achievement-medical-postgraduates.md) — reports the opposite
 - [Neuroticism, Conscientiousness, Agreeableness, and Extraversion did not significantly moderate the stress–achievement relationship](other-big-five-traits-no-moderation-stress-achievement.md) — related
+- [Big Five personality traits show no significant association with dental students' radiographic diagnostic accuracy](personality-traits-no-effect-radiographic-accuracy.md) — related

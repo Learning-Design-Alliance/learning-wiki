@@ -53,6 +53,8 @@ The authors recommend that nurse educators incorporate simulation activities com
 - [Use debriefing to enable multiple viewpoints, shared cognitive resources, and challenge students' assumptions to foster critical thinking](debriefing-multiple-viewpoints-critical-thinking.md)
 - [Use weekly scenario simulation with structured debriefing and operational skills training to develop new graduate nurses' competence](weekly-scenario-simulation-debriefing-skills-training-strategy.md)
 - [Incorporate simulation training into continuing professional development, differentiating communication approaches for doctors and nurses](simulation-als-continuing-professional-development-strategy.md)
+- [Strengthen final-year nursing preparation through competency-based, simulation-supported education focused on clinical skills, critical thinking, and ethics](competency-simulation-education-reduce-error-tendency.md)
+- [Deliver pre-foundation simulation with hands-on scenarios, structured debriefing and facilitator continuity to optimise the learning environment](pfa-simulation-design-features-strategy.md)
 
 ## Examples
 -

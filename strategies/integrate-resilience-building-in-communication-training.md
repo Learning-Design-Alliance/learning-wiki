@@ -47,6 +47,7 @@ Based on the finding that internal psychological factors—especially resilience
 - [Targeted training programs focusing on psychological self-adjustment for lower-competency nurse profiles](targeted-psychological-self-adjustment-training-strategy.md)
 - [Teachers should incorporate PP-based strategies (fostering enjoyment, building resilience) into language teaching](incorporate-pp-strategies-in-language-teaching.md)
 - [Implement dual-focused nursing curricula combining communication skills training with alexithymia reduction and self-efficacy enhancement](dual-focused-alexithymia-self-efficacy-nursing-curriculum.md)
+- [Integrate resilience-building strategies into teacher training programs, prioritizing psychosocial facets of academic success and pairing them with study-skill instruction when grade improvement is the goal](resilience-building-teacher-training-strategy.md)
 
 ## Examples
 -

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: bavaharji-2014
     resource: "https://doi.org/10.5539/elt.v7n5p1"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
-> **Currency** · newest study 2014 · checked against its sources 2026-11-03 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All 45 participants in the experimental group agreed that captions increased their knowledge of new words. [→ BavaHarji 2014](#bavaharji-2014)

@@ -73,3 +73,5 @@ ANOVA comparing accuracy distributions across subjects for each model, with post
 - [All seven LLMs showed markedly lower accuracy on image-based than text-based DUS questions, with significant text-image gaps for five models but not Gemini or Claude](llms-lower-accuracy-image-based-dus-questions.md) — related
 - [Gemini 2.5 Pro achieved the highest accuracy (90%) on 100 radiology multiple-choice questions, and all LLMs and 3rd-year residents significantly outperformed 1st- and 2nd-year residents](llms-gemini-highest-radiology-mcq-accuracy-outperform-junior-residents.md) — related
 - [Large language models achieve a pooled accuracy of 63.69% (95% CI 60.26%-67.06%) in answering dental examination questions](llm-pooled-accuracy-dental-exam-63-69.md) — related
+- [LLM accuracy is uniformly high in OT basic sciences but lower on OT-specific content, widening further on visuals](basic-sciences-high-ot-specific-lower.md) — related
+- [Diagnostic accuracy and confidence vary widely across lesion types, with stafne bone cavity easiest and adenomatoid odontogenic tumor and odontogenic keratocyst hardest](case-difficulty-varies-across-radiographic-lesions.md) — related

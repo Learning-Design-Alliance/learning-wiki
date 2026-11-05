@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2013
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: lin-2013
     resource: "https://doi.org/10.5539/elt.v6n9p110"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2013 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The experimental group receiving hierarchy vocabulary exercises significantly outperformed the control group receiving copying exercises on the immediate vocabulary post-test (t(54) = 2.380, p = .021). [→ Lin 2013](#lin-2013)

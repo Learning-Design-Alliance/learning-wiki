@@ -61,6 +61,7 @@ The article recommends multiagent virtual patient (VP) frameworks as a "customiz
 - [Position immersive technologies and virtual patients as supplementary components within blended learning rather than stand-alone replacements for established clinical communication training](immersive-tech-adjunctive-blended-not-replacement.md)
 - [Use virtual patients to replace passive instruction and train clinical reasoning before bedside learning, without diminishing bedside teaching hours](vp-replace-passive-before-bedside-strategy.md)
 - [Use blended learning—combining lectures, digital modules, and limited in-person simulation—as a scalable compromise for communication training](blended-learning-scalable-communication-training.md)
+- [Deploy DeepSeek in medical education as a virtual mentor, PBL case tool, and adaptive question bank](deepseek-medical-education-integration-strategies.md)
 
 ## Examples
 -

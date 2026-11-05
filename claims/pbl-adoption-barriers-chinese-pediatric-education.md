@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2019
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: ma-yimei-mm-2019
     resource: "https://doi.org/10.1097/MD.0000000000014052"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q1`
-> **Currency** · newest study 2019 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors identify time commitment, students' initially unsystematic theoretical knowledge, and insufficient faculty and financial resources as barriers to wide PBL adoption in China. [→ Ma Yimei MM 2019](#ma-yimei-mm-2019)

@@ -54,3 +54,4 @@ Pre-post evaluation of a 3-month single-intervention EBM course for 5th-year med
 - [Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months](pr-training-self-rated-gains-sustained-3-months.md) — related
 - [Palestinian medical students understand basic EBM terms better than advanced appraisal-related terms, and prior EBM training is associated with higher knowledge of most terms](ebm-terminology-gradient-basic-advanced-palestinian-students.md) — related
 - [Prior EBM training is associated with higher self-rated EBM skills across all skill domains among Palestinian medical students](ebm-training-higher-self-rated-skills-palestinian-students.md) — related
+- [After at least 6 months of navigator participation, students showed statistically significant knowledge improvements across multiple food insecurity domains (p < .001 for each)](flip-significant-knowledge-gains-six-months.md) — related

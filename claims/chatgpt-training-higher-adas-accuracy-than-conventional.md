@@ -9,7 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2024
-source_checked: 2026-10-27
+source_checked: 2026-11-05
 sources:
   - id: murtaza-2024
     resource: "https://doi.org/10.1007/s40593-024-00407-z"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2024 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a simulator experiment with 86 participants, Pearson Chi-square tests showed significant differences in learning outcomes between the ChatGPT and conventional groups for LKA (p = 0.014), ACC (p = 0.008) and CA (p = 0.034). [→ Murtaza 2024](#murtaza-2024)

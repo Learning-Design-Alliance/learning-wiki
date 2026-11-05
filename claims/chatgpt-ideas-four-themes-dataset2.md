@@ -51,3 +51,4 @@ Analysis of 35 written ideas submitted by K12-to-higher-education educators in a
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
 - [Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use](teacher-role-shift-facilitator-ethical-supervisor.md) — related
 - [The empirical evidence for claimed pedagogical benefits of virtual characters is weak and inconclusive](virtual-character-pedagogical-benefits-weak-evidence.md) — related
+- [ChatGPT-3.5-turbo portrayed convincing characters in the aftermath of stressful events, though portrayals were sometimes overly stereotypical](chatgpt-portrays-realistic-pfa-characters-with-stereotyping.md) — a narrower finding that bears on this claim

@@ -95,6 +95,9 @@ The authors recommend a sequenced implementation model: "It is recommended to ac
 - [Embed trauma-informed care instruction before procedural simulation rather than after](tic-instruction-before-procedural-practice-strategy.md)
 - [Scaffolded progression to independent clinical practice: graded movement from observation to assisted practice to supervised independent care](scaffolded-progression-independent-clinical-practice.md)
 - [Staged, vertically integrated EBM curriculum mapped to the five EBM steps, with low-cost case-triggered activities for resource-constrained settings](staged-vertically-integrated-ebm-curriculum-strategy.md)
+- [Blend simulation with traditional apprenticeship under a competency-based milestone framework for PTED training](blended-competency-based-pted-training-pathway.md)
+- [Schedule virtual simulation training before the flipped classroom course rather than after it](oscrs-training-before-class-strategy.md)
+- [Use immersive VR virtual patient scenarios to give pre-clinical and multicultural students safe, repeatable clinical communication practice](vr-safe-practice-preclinical-multilingual-strategy.md)
 
 ## Examples
 -

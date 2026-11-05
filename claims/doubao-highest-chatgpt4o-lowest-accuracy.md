@@ -52,3 +52,4 @@ Benchmark evaluation of six LLMs answering 198 bilingual licensing-exam question
 - [Gemini 2.5 Pro achieved the highest accuracy (92.44%) on pediatric dentistry DUS questions, significantly outperforming most other LLMs](gemini-2-5-pro-highest-accuracy-pediatric-dus.md) — related
 - [Complex Type C integrative questions distinguish models most: the Deepseek-R1 vs. ChatGPT-4o accuracy gap on Type C was nearly 25%](type-c-questions-distinguish-models.md) — related
 - [ChatGPT 4.0 achieved the highest accuracy (91.3%) on DUS oral and maxillofacial radiology questions and significantly outperformed all other evaluated LLMs](chatgpt-4-highest-accuracy-dus-radiology.md) — related
+- [ChatGPT-4o and Gemini Advanced show no statistically significant overall accuracy difference on DUS questions, both exceeding 80%](chatgpt4o-gemini-advanced-no-overall-accuracy-difference-dus.md) — related

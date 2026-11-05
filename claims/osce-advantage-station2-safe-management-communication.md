@@ -69,3 +69,4 @@ Domain-level Welch t-tests with Holm adjustment in the same quasi-experimental c
 - [The 10-minute two-station four-domain modified OSCE is more sensitive than the end-of-rotation comprehensive score in detecting key competency differences from pathway-driven training.](modified-osce-more-sensitive-than-comprehensive-score.md) — a broader claim this one bears on
 - [The largest OSCE-domain improvement from multi-agent scaffolding was in communication performance](communication-largest-osce-gain.md) — related
 - [Correlations between different OSCE station scores are weak, with a pooled Pearson correlation of 0.27](pt-osce-station-station-correlation-weak.md) — related
+- [Station-level analysis showed intervention advantages on Station 1 (examiners) and Station 5 (intervention), with no differences on Stations 2–4](station-level-osce-differences.md) — related

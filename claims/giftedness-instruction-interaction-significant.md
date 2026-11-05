@@ -9,7 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: moderate
 newest_evidence: 2023
-source_checked: 2026-10-18
+source_checked: 2026-11-05
 sources:
   - id: lim-2023
     resource: "https://doi.org/10.1007/s11251-023-09616-w"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · `i2` medium
-> **Currency** · newest study 2023 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The multivariate ANOVA found a significant interaction between giftedness and instruction (invention-first vs example-first), Wilks' λ = .923, F (5, 186) = 3.12, p = .010, η2 p = .077, a medium multivariate effect size. [→ Lim 2023](#lim-2023)

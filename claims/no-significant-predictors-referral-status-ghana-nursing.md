@@ -69,3 +69,4 @@ Omnibus model-fit test comparing the full referral model to the null model among
 - [WASSCE aggregate score and psychological preparedness constructs were not independently associated with GPA after adjustment](preparedness-constructs-not-associated-gpa-ghana-nursing.md) — related
 - [English Language and Social Studies WASSCE grades were significantly associated with academic referral status, while Core Mathematics and Integrated Science were not](wassce-english-social-studies-associated-referral.md) — reports the opposite
 - [No statistically significant associations were observed between last-semester GPA and WASSCE core subject grades](wassce-grades-not-associated-semester-gpa.md) — related
+- [Gender, socioeconomic status, stress level and DREEM atmosphere score were not significant independent predictors of performance](null-multivariate-predictors-gender-ses-stress-atmosphere.md) — related

@@ -52,3 +52,4 @@ Resident survey results stratified by diagnosis (Fig. 3). Autonomy was "low (< 3
 - [A majority (60%) of surveyed emergency medicine program directors report no structured and longitudinal ECG curriculum](majority-pds-report-no-structured-ecg-curriculum.md) — related
 - [Knowledge–confidence inverse pattern is strongest among paramedics and non-trained resident physicians](phtls-knowledge-confidence-subgroup-pattern.md) — related
 - [Accuracy on basic ECG electrophysiology items is high but drops sharply on complex patterns](ecg-basic-high-complex-low-accuracy.md) — related
+- [Interns recognize high-alarm ECG conditions well (STEMI 85.9%, ventricular fibrillation 84%) but perform poorly on nuanced abnormalities (second-degree block 41.8%)](ecg-pattern-recognition-high-alarm-versus-nuanced.md) — related

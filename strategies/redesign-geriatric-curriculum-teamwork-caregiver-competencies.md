@@ -51,6 +51,7 @@ Based on the identified underrepresentation of interdisciplinary teamwork and pa
 - [Develop targeted, competency-based interprofessional continuing education programs and European frameworks for geriatric care](targeted-competency-based-geriatric-cpd-strategy.md)
 - [Use simulations, dedicated clinical time, and interprofessional education to teach family caregiver collaboration](family-caregiver-simulation-clinical-iep-strategies.md)
 - [Interprofessional learning formats connecting dental students with nursing and geriatric care programmes](interprofessional-learning-formats-dop-oral-care.md)
+- [Use consensus-derived teamwork competencies to develop a European curriculum for community-based interprofessional team specialists](eu-curriculum-development-from-consensus-competencies.md)
 
 ## Examples
 -

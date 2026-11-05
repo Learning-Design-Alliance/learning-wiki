@@ -43,7 +43,8 @@ The article reports that a voluntary peer-led practice day was offered prior to 
 - [Students rated the PJ-OSCE favourably, with 41.0% reporting substantial learning gains.](../claims/pj-osce-student-evaluation-learning-gains.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Peer-led mock OSCE as a cost-effective strategy to reduce anxiety and support well-being before high-stakes clinical assessments](peer-led-mock-osce-strategy.md)
 
 ## Examples
 -

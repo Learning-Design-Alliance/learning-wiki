@@ -46,6 +46,7 @@ The article identifies an effective prompting technique for LLM-based scoring th
 
 - [Translate deductive coding rubrics into structured zero-shot prompts to compare LLM coding against human coding](zero-shot-prompt-codebook-translation-strategy.md)
 - [Guide student instruction with chain-of-thought decomposition, few-shot worked examples, and self-consistency over multiple LLM queries](cot-fewshot-selfconsistency-student-guidance.md)
+- [Use a simulated multiagent prompt combining role, instruction-based, chain, and few-shot prompting to generate OSCE stations with an LLM](simulated-multiagent-prompting-for-osce-generation.md)
 
 ## Examples
 -

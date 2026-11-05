@@ -53,3 +53,4 @@ Parallel-group randomized controlled study with 196 students. Satisfaction measu
 - [Healthcare professionals report higher satisfaction with digital education than with traditional learning for guideline training](digital-education-guidelines-satisfaction.md) — related
 - [Flipped classroom significantly improves practical exam scores over lecture-based learning (pooled SMD 0.50)](fc-practical-exam-smd-050.md) — related
 - [Blended learning interns reported significantly higher satisfaction than traditional-group interns across all five evaluated dimensions](blended-radiology-assistant-higher-satisfaction-all-dimensions.md) — related
+- [Students in the P-I-T-D-S flipped classroom reported significantly higher satisfaction than traditional-lecture students across nearly all questionnaire items](pitds-flipped-higher-satisfaction.md) — related

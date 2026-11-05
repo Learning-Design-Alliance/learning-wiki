@@ -54,6 +54,7 @@ The article recommends that EBP educational interventions be embedded in institu
 - [Design CPD programs with hands-on skill development, ongoing reinforcement, and integration into workplace protocols](cpd-hands-on-skills-reinforcement-protocol-integration.md)
 - [Design CPR education as an ongoing, reinforcement-based process combining spaced intervals, feedback, and cognitive components](cpr-education-reinforcement-based-design-strategy.md)
 - [Implement AI-supported STEM instruction through sustained, system-level integration of one to two months or more rather than isolated short interventions](sustained-system-level-ai-integration-stem.md)
+- [Structured mentorship system in which trained nurse mentors deliver EBP education, bedside teaching and ongoing monitoring](nurse-mentor-ebp-monitoring-strategy.md)
 
 ## Examples
 -

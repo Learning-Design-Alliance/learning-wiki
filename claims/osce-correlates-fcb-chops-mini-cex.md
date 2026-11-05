@@ -51,3 +51,4 @@ Exploratory correlation analysis within the intervention cohort relating end-of-
 - [Within the intervention cohort, workplace-based assessment mini-CEX and FCB-CHOPS scores rose from pre-test to post-test after the curriculum, while 360-degree overall score did not change significantly](wba-mini-cex-fcb-chops-improved-360-null.md) — related
 - [Integrated model improves all seven Mini-CEX domains, largest gain in physical examination](microskills-cptm-minicex-all-domains.md) — related
 - [A specialty-specific OSCE plus WBA curriculum raised end-of-rotation OSCE total scores versus historical controls in radiation oncology postgraduates](specialty-osce-wba-curriculum-higher-osce-total.md) — related
+- [Student satisfaction was moderately and positively correlated with academic performance in both curriculum groups](satisfaction-performance-moderate-correlation-both-groups.md) — related

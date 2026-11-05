@@ -70,3 +70,4 @@ Discussion-section interpretation of the contrast between the failed degree item
 - [The framework adapts Benner's novice-to-expert model because UK nurses now enter practice at degree level with baseline clinical competencies already attained](benner-model-adapted-degree-entry-nurses.md) — related
 - [Experts rated ALS certification and adaptability highest, with strong consensus also for psychological resilience and closed-loop communication](highest-rated-attributes-als-adaptability-resilience.md) — related
 - [Strongest expert consensus emerged in the non-technical and technical skills domains of the nursing resuscitation attribute framework](strongest-consensus-nts-technical-domains.md) — related
+- [Korean experts and survey respondents favored applied health literacy content over theoretical and contextual items](korean-hlc-applied-content-preference.md) — related

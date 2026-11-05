@@ -47,3 +47,4 @@ Descriptive survey results from the quasi-experimental study: 71% of word cloud 
 ## Related Claims
 - [Students analyzing text in word clouds reported moderately higher critical thinking scores than students analyzing the same text in linear form](word-clouds-higher-critical-thinking-scores.md) — related
 - [Students analyzing text in word clouds reported higher engagement scores than students analyzing the same text in linear form](word-clouds-higher-engagement-scores.md) — related
+- [Single-word word-cloud elicitation showed students’ associations with VR shifting from entertainment and scepticism toward constructive, professional and educational associations](vr-pilot-word-cloud-conceptual-shift.md) — related

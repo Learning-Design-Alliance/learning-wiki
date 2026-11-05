@@ -9,7 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-26
+source_checked: 2026-11-05
 sources:
   - id: vanessa-frei-nathalie-giroud-2025
     resource: "https://doi.org/10.1038/s41539-025-00306-5"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Comprehension performance was significantly better in the immersive than the auditory training session (main effect of modality). [→ Vanessa Frei & Nathalie Giroud 2025](#vanessa-frei-nathalie-giroud-2025)

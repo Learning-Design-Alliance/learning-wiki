@@ -54,3 +54,4 @@ Narrative synthesis in the review's discussion of fibreoptic intubation simulato
 - [VR-based UAV flight training (DroneSim) offers comparable or superior results to real-world building inspection training](dronesim-vr-uav-training-comparable-results.md) — related
 - [In CRT training, proficiency-based progression demonstrated superiority over traditional simulation in which proficiency benchmarks were optional](pbp-superiority-crt-training.md) — related
 - [A simulation-based FOI test on a portable VR simulator demonstrates strong validity evidence across all five sources in Messick's framework](vr-simulator-foi-test-strong-validity-evidence.md) — related
+- [Cadaveric specimens are rated the most beneficial PTED simulation modality and low-fidelity bench-top models the least](cadaveric-specimens-preferred-pted-simulation-modality.md) — related

@@ -50,3 +50,5 @@ Construct validity was assessed by comparing operative scores and times across t
 - [The EyeSi Surgical Simulator can differentiate VRS novices from experts, providing construct validity evidence](eyesi-differentiates-novices-from-experts-vrs.md) — related
 - [Novices take significantly longer to complete simulated WFWB procedures than intermediate and expert providers](novices-longer-completion-times-wfwb-simulation.md) — related
 - [After ten training sessions, junior and intermediate groups still scored significantly lower than the senior group](persistent-performance-gap-after-repeated-training.md) — related
+- [Novices take significantly longer than experts to complete a total laparoscopic hysterectomy on the MaiSurge model (an 85.3% increase in operating time)](maisurge-experts-novices-operating-time.md) — a narrower finding that bears on this claim
+- [Reported average simulated-training duration for PTED is only about 22.8 hours, with no significant difference across experience levels](pted-simulated-training-averages-22-8-hours.md) — reports the opposite

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: gheith-and-aljaberi-2017
     resource: "https://doi.org/10.5539/ies.v10n6p60"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among university students randomly assigned to an interactive training program, traditional teaching or no training, one-way ANOVAs found significant differences on the overall non-cognitive skills scale and on empathy, growth mindset and grit (not on locus of control, planning or self-confidence); Tukey post hoc tests found the interactive group significantly above the traditional group, and the no-training control also significantly above the traditional group; the article does not report the comparison between the interactive group and the control. [→ Gheith and Aljaberi 2017](#gheith-and-aljaberi-2017)

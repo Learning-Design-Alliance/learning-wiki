@@ -58,3 +58,4 @@ Treatment fidelity check on peer tutoring sessions: the first and fourth authors
 - [Teachers implemented some PACT components at medium-high fidelity but struggled with knowledge acquisition and team-based application components](pact-fidelity-component-variation.md) — related
 - [Implementation fidelity and global instructional quality were high across the intervention's instructional components](high-fidelity-vocabulary-self-regulation-tutoring.md) — related
 - [Teachers in a 16-week cross-age peer tutoring RCT reported high implementation fidelity and support, with 94% reporting pairs worked well together](teacher-reported-high-fidelity-peer-tutoring-implementation.md) — related
+- [Students across repeatedly taught groups reported no significant differences in clarity of explanations and tutor preparedness](pre-session-planning-consistent-clarity-preparedness.md) — related

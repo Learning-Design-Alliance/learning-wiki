@@ -71,3 +71,4 @@ Test–retest assessment with 81 nurses re-completing the HLC-N after a two-week
 - [Chongqing nurses show moderately high HLC (mean 154.41, SD 20.60) with weakest knowledge and collaboration dimension scores](nurses-moderately-high-hlc-weak-knowledge-collaboration.md) — related
 - [The CSL-LTS demonstrates strong temporal stability with an intraclass correlation coefficient of 0.991 over a 15-day test–retest interval](csl-lts-temporal-stability-icc.md) — related
 - [The DKSCQ-N demonstrates high internal consistency (Cronbach's α = 0.906) and excellent test-retest stability (ICC = 0.829) over two weeks.](dkscqn-reliability-alpha-icc.md) — related
+- [The 43-item Korean HLCs shows strong internal consistency and test-retest reliability](korean-hlc-reliability-strong.md) — related

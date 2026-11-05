@@ -67,3 +67,4 @@ Model fit assessment of the four SEM models in the same analysis, reporting χ2/
 - [Externally oriented thinking is negatively correlated with self-efficacy and several clinical communication subdomains among nursing interns](eot-negative-correlations-self-efficacy-communication.md) — related
 - [Chinese nursing interns show elevated alexithymia, with 27.4% scoring in the alexithymia range and moderate communication competence](nursing-interns-elevated-alexithymia-moderate-communication.md) — related
 - [Self-efficacy is positively associated with most clinical communication subdomains among nursing interns](self-efficacy-positive-communication-subdomains.md) — related
+- [The integrated mediation-moderation model fits the data well and explains 38% of variance in academic performance](sem-model-fit-r2-38-percent.md) — related

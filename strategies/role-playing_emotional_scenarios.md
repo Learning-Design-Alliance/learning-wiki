@@ -68,6 +68,7 @@ Role-play works because it combines behavioral rehearsal with observation of pee
 - ['What's My Emotion?' Game Check-in](../strategies/whats_my_emotion_game_check-in.md) — builds the emotional vocabulary that role-play scenarios depend on
 - [Case-Based Learning](../strategies/case-based-learning.md) — narrative analysis of interpersonal situations without enactment
 - [Five classroom use cases deploying social robots for emotional learning, conflict mediation, and one-on-one support](five-robot-use-cases-mindmatters.md)
+- [Retain core empathy and supportive-communication components while adapting delivery to other social roles and contexts](adapt-core-components-other-social-roles.md)
 
 ## Related Elements
 - [Act](../elements/act.md) — the enactment element at the core of this strategy

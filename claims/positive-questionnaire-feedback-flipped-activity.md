@@ -51,3 +51,4 @@ Descriptive analysis of a revalidated five-point Likert questionnaire (Cronbach'
 - [Both the flipped-learning group and the lecture-based control group showed statistically significant within-group gains from pre-test to post-test](within-group-significant-gains-both-groups.md) — related
 - [Students in flipped courses report modestly but consistently higher satisfaction than traditional-course students, with significantly higher perceived instructor availability.](flipped-courses-higher-satisfaction-instructor-availability.md) — related
 - [Over 90% of residents responded positively to most feedback items, but about 57% were neutral or negative on time required](snapps-feedback-positive-except-time-burden.md) — related
+- [Students in the P-I-T-D-S flipped classroom reported significantly higher satisfaction than traditional-lecture students across nearly all questionnaire items](pitds-flipped-higher-satisfaction.md) — related

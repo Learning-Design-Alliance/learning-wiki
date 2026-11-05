@@ -9,7 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: moderate
 newest_evidence: 2011
-source_checked: 2026-10-25
+source_checked: 2026-11-05
 sources:
   - id: floris-m-van-blankenstein-2011
     resource: "https://doi.org/10.1007/s11251-009-9124-7"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2011 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Participants who explained during a relevant simulated discussion recalled more text propositions one month later than participants who only listened (r = 0.31). [→ Floris M. van Blankenstein 2011](#floris-m-van-blankenstein-2011)

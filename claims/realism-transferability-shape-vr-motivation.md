@@ -52,3 +52,4 @@ Authors' interpretive finding from the interview data (Theme 3, Recognizing one'
 - [VR communication training faces challenges of scenario realism, lack of clinical urgency in virtual characters, and language barriers](vr-communication-training-challenges-realism-urgency-language.md) — related
 - [Students perceived community care simulation scenarios as realistic and valuable for applying theory, clinical reasoning and communication](ccs-perceived-strengths-realism-reasoning-communication.md) — related
 - [VR simulation training fostered active engagement and a greater sense of preparedness for clinical practice among medical students](vr-training-fostered-engagement-preparedness.md) — possibly the same claim (merge candidate)
+- [Participants described standardized clinical scenarios in VR as promoting objectivity and uniformity in clinical training and assessment](vr-standardized-scenarios-objectivity-uniformity.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2016
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: al-ghazo-2016
     resource: "https://eric.ed.gov/?id=EJ1099460"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2016 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After two and a half months of explicit metacognitive strategy instruction, the experimental group outperformed the control group on a reading comprehension post-test. [→ Al-Ghazo 2016](#al-ghazo-2016)

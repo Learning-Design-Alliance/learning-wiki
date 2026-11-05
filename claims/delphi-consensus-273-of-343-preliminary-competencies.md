@@ -55,3 +55,4 @@ First Delphi round of the national consensus-development study evaluating specia
 - [A two-round modified Delphi process with a 36-physician voting panel finalized 32 high-priority mental health competencies for HPM physicians.](delphi-finalized-32-mental-health-competencies.md) — related
 - [Expert consensus was reached on 35 of 39 candidate attributes for nurses' effective participation in in-hospital resuscitation teams](delphi-35-of-39-attributes-consensus.md) — related
 - [A three-round Delphi panel of 47 SMHPs reached consensus on 151 competencies for interdisciplinary collaboration](delphi-consensus-151-competencies.md) — related
+- [A three-round e-Delphi panel of 19 experts from 6 European countries achieved consensus on 58 core teamwork competencies for community-based interprofessional teams, grouped into five areas](edelphi-consensus-58-cbit-competencies.md) — related

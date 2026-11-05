@@ -100,3 +100,4 @@ Content analysis of risks/limitations across the 18 included studies, coded into
 - [Students broadly endorse LLMs as educational aids (74% positive) while 61% raise integrity concerns, 59% cite hallucination risk, and 82% report no institutional guidance](student-llm-perceptions-no-guidance-majority.md) — related
 - [LLM use in dental education raises application-related challenges including ethical concerns, absence of usage guidelines, potential harm to students' knowledge and skills, and cautious stakeholder attitudes](llm-application-challenges-ethics-guidelines.md) — related
 - [Significant barriers to AI implementation include algorithmic bias, lack of transparency, data privacy concerns, unregulated use, and system limitations](ai-implementation-barriers-medical-education.md) — related
+- [The LLM gave the learner warnings, ethical advice, and feedback on their PFA performance, including psychoeducation](llm-gives-learner-feedback-and-warnings.md) — related

@@ -51,3 +51,4 @@ The article's risk analysis argues this concern is especially relevant for LLM-b
 - [Pseudo-agency: students may appear engaged without understanding the epistemic purpose of their actions](pseudo-agency-surface-engagement-without-purpose.md) — related
 - [Distributed epistemic agency emerges as learners attribute authority to AI outputs and shift responsibility for knowledge validation, though some engage dialogically](distributed-epistemic-agency-machine-authority.md) — related
 - [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](unstructured-llm-use-cognitive-offloading.md) — related
+- [Miscalibrated self-assessment in learners risks cognitive bias, clinical reasoning errors, and adverse patient outcomes (theoretical argument)](dunning-kruger-overconfidence-clinical-risk.md) — related

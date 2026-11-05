@@ -69,6 +69,7 @@ The model aligns with [Active Learning](../principles/active-learning.md): class
 - [Assess e-learning readiness and motivation before implementing the flipped classroom, and provide brief in-class explanations of out-of-class assignments](fc-readiness-assessment-and-assignment-briefing.md)
 - [Use quizzes or assignments due at the beginning of class to ensure students review materials and come prepared.](beginning-of-class-quizzes-assignments-preparation.md)
 - [Implement flipped reading instruction by assigning pre-class videos and reserving class time for collaborative application](flipped-reading-video-then-in-class-practice-strategy.md)
+- [Flipped classroom: pre-class self-paced preparation followed by interactive problem-solving sessions](flipped-classroom-icu-overload-limiting.md)
 
 ## Examples
 - **[Flipped Learning](../principles/flipped-learning.md)** — the general pattern this strategy instantiates; see also [Flipped Classroom](../principles/flipped-learning.md).

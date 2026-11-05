@@ -94,3 +94,4 @@ Reliability analysis of essay scoring by three high school physics teachers of 1
 - [CAR 1.0 achieved good to excellent inter-rater reliability across all five key components (α = 0.836 to 0.973)](car-1-0-cronbach-alpha-reliability.md) — related
 - [The checklist assessment showed strong interrater reliability, contributing validation evidence](checklist-interrater-reliability-kappa-0875.md) — related
 - [Rubric scoring of concept image protocols showed inter-rater reliability exceeding acceptable thresholds (Fleiss Kappa 0.60–0.88; Krippendorff's Alpha 0.60–0.88; ICC 0.89–0.98)](concept-image-rubric-inter-rater-reliability.md) — related
+- [Blinded expert raters showed very high agreement when evaluating the LLM-based ACLS simulation scenarios (Kendall W > 0.754)](acls-llm-sim-high-interrater-reliability.md) — related

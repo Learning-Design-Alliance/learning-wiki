@@ -49,3 +49,4 @@ Interview finding from the qualitative thematic analysis (Subtheme 1a); no effec
 - [Core barriers to VP training implementation were limited physical examination fidelity, a restrictive documentation interface, transfer difficulty, and variable workshop effectiveness](vp-training-implementation-barriers.md) — related
 - [Physicians in a six-participant qualitative study reported perceived lack of preparedness before their first patient CVC placement despite prior observation and manikin training](physicians-perceive-cvc-training-insufficient-preparation.md) — related
 - [Physicians called for standardized CVC training protocols across programs and reliable access to high-quality training resources](physicians-call-for-standardized-cvc-protocols-and-resources.md) — related
+- [Participants expressed concern that VR training may limit empathy development and patient-variability feedback](vr-limited-empathy-and-patient-variability-concerns.md) — related

@@ -13,7 +13,7 @@ generated:
 # Multimedia Instruction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 100 claims (61 for, 36 mixed, 3 against) · 82 studies (60 causal, 10 quant-synthesis, 9 review, 2 theoretical, 1 design), `q1`–`q4` · 18 of 82 report an effect size · 95 claims rest on one study
+> **Evidence** · 100 claims (61 for, 36 mixed, 3 against) · 83 studies (60 causal, 10 quant-synthesis, 9 review, 3 theoretical, 1 design), `q1`–`q4` · 19 of 83 report an effect size · 94 claims rest on one study
 
 ## Description
 Multimedia instruction is the element in which teaching combines spoken or written language with visuals, diagrams, animation, or other media in a coordinated instructional sequence. It is useful when multiple representations clarify explanation and support comprehension.

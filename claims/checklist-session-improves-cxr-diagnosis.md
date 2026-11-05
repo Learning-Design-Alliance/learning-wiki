@@ -47,3 +47,4 @@ In the same randomized trial, the Results section reports diagnosis medians of 3
 ## Related Claims
 - [A brief resident-led checklist-guided session significantly improved chest radiograph interpretation scores over lecture-only instruction](checklist-session-improves-cxr-interpretation.md) — related
 - [Accessing the online caries diagnosis module did not significantly improve dental students' radiographic diagnostic accuracy](online-module-no-accuracy-gain-caries.md) — related
+- [PBL interns formulate more differential diagnosis items and higher-quality case presentations than lecture-taught interns](pbl-differential-diagnosis-case-presentation-esophageal.md) — related

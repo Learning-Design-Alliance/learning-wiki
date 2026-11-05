@@ -49,3 +49,4 @@ Cochrane risk-of-bias assessment of the six included RCTs by two independent rev
 - [Included RCT evidence is of generally low methodologic quality with high heterogeneity, limiting confidence in the PBL advantage](pbl-pediatric-rct-evidence-low-quality-heterogeneous.md) — possibly the same claim (merge candidate)
 - [PBL is associated with higher overall DREEM medical educational environment scores than LBL in randomized trials](pbl-higher-dreem-than-lbl.md) — related
 - [PBL outperformed LBL on all five DREEM subscales, including perceptions of teachers and social self-perceptions](pbl-favors-all-dreem-subscales.md) — related
+- [Students perceived the educational environment as generally positive (median DREEM 115), with lowest scores in academic and social self-perception](dreem-positive-environment-low-self-perception-scores.md) — related

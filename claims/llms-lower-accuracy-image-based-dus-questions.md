@@ -69,3 +69,5 @@ Statistical comparison of image-based versus text-based accuracy per model (Tabl
 - [All four LLMs show higher accuracy on general than clinical questions, significant only for Grok-4](general-vs-clinical-accuracy-gap.md) — related
 - [Accuracy is significantly lower on image-based than non-image-based questions for three of four LLMs](image-based-questions-lower-accuracy.md) — related
 - [LLM accuracy varied by subject area, with oral pathology (94%) and salivary gland diseases (91.8%) highest and radiological anatomy (67.3%) lowest; only Copilot showed a statistically significant across-subject difference](subject-area-accuracy-variation-dus-llms.md) — related
+- [LLM accuracy is uniformly high in OT basic sciences but lower on OT-specific content, widening further on visuals](basic-sciences-high-ot-specific-lower.md) — related
+- [Chatbot performance on image-based questions is inconsistent, with most models at 50–75% accuracy](chatbot-image-based-question-weakness.md) — a narrower finding that bears on this claim

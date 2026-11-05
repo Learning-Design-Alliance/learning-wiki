@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 538 claims (287 show a difference, 111 mixed, 140 no difference) · 376 studies (168 associational, 150 causal, 20 review, 16 quant-synthesis, 10 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 57 of 376 report an effect size · 530 claims rest on one study
+> **Evidence** · 541 claims (287 show a difference, 112 mixed, 142 no difference) · 378 studies (169 associational, 151 causal, 20 review, 16 quant-synthesis, 10 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 57 of 378 report an effect size · 533 claims rest on one study
 
 ## How to read this page
 
@@ -577,6 +577,9 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Male sex was the only factor independently associated with lower skills retention one year after simulation training](../claims/male-sex-lower-skills-retention-apr.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Males scored significantly lower than females on skills scores one year after implementation, independent of other factors](../claims/males-lower-one-year-skill-scores.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [In the traditional-instruction control group, male students' scores rose significantly from pre-test to post-test, while female students' scores did not change significantly](../claims/control-group-gender-reversal-traditional-instruction.md) [+M] — an instructional effect differs by group
+- [Reading self-efficacy matters more for girls' reading achievement than for boys'](../claims/reading-self-efficacy-more-important-girls.md) [~M] — an instructional effect differs by group
+- [Score gains from before to after the lecture did not differ significantly by sex or GPA category in a single-group pre-post study](../claims/no-sex-gpa-differences-in-score-gains.md) [-M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Self-efficacy moderation effects are absent for boys in both math and reading](../claims/self-efficacy-moderation-null-boys.md) [-M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

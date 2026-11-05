@@ -71,3 +71,4 @@ Same satisfaction questionnaire. "No statistically significant difference" in te
 - [Most new teaching methods reduce dissatisfaction relative to LBL, with WeChat-based combinations most favoured by residents](new-methods-reduce-dissatisfaction-versus-lbl.md) — a broader claim this one bears on
 - [Eight new teaching methods (PBL + CBL, PBL + CP, CBL + WeChat, PBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on residents' theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
 - [PBL+LBL raises satisfactory teaching effect but not general or poor teaching effect ratings](pbl-lbl-teaching-satisfaction-effects.md) — related
+- [AI-assisted trainees rated learning engagement and responsiveness to questions significantly higher, but learning interest and satisfaction did not differ significantly](deepseek-assistant-satisfaction-engagement-higher-interest-not.md) — reports the opposite

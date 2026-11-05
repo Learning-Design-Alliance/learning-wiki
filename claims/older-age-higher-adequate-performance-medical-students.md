@@ -52,3 +52,4 @@ Multivariable Poisson regression with robust variance among 255 medical students
 - [Older age is independently associated with higher perceived geriatric knowledge and competence, while gender is not](age-associated-gender-not-perceived-geriatric-knowledge.md) — related
 - [Older age is associated with lower knowledge revision scores, with each additional year predicting a 0.04-unit reduction](age-negative-predictor-knowledge-revision.md) — related
 - [Prior failure of at least one subject is associated with higher probability of adequate academic performance](prior-failure-higher-adequate-performance-medical-students.md) — related
+- [In univariate analysis, performance was associated with age, gender, nationality, substance and tobacco use, stress, academic year, prior failure, revision hours, satisfaction and motivation; only the DREEM atmosphere subscale was significant among DREEM domains](univariate-associations-performance-factors.md) — related

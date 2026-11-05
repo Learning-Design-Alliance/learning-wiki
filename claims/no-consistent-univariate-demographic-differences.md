@@ -54,3 +54,4 @@ Mann–Whitney U and Kruskal–Wallis tests comparing CINS and CBI-30 scores acr
 - [No significant relationships were found between demographic co-variates and interprofessional socialisation scores](no-significant-covariate-relationships-with-is-scores.md) — related
 - [Caring perception is highest in Professional Knowledge and Attitude subdimension](caring-perception-highest-professional-knowledge-attitude.md) — related
 - [Sociodemographic and job-related characteristics differ across competence profiles](sociodemographic-differences-across-profiles.md) — related
+- [Core competencies differ by place of birth, reason for choosing nursing, and employment intention, with effect sizes near moderate](competency-differences-birthplace-major-reason-employment-intention.md) — reports the opposite

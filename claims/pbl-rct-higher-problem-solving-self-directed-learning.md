@@ -61,3 +61,4 @@ These four outcomes (problem-solving, self-directed learning, communication skil
 - [Students taught with integrated PBL and medical humanities reported significantly higher learning motivation, self-directed learning ability, and communication and expression skills than LBL students](integrated-pbl-humanities-higher-motivation-self-directed-communication.md) — related
 - [PBL raises student satisfaction and learning interest, and both correlate positively with final overall academic performance](pbl-satisfaction-interest-correlate-performance.md) — related
 - [PA-PBL and control students reported comparable course satisfaction and self-evaluated competencies](pa-pbl-control-comparable-subjective-evaluations.md) — reports the opposite
+- [PBL interns report higher self-efficacy, instructional satisfaction, and perceived critical-thinking improvement than lecture-taught interns](pbl-self-evaluated-learning-gains-esophageal.md) — related

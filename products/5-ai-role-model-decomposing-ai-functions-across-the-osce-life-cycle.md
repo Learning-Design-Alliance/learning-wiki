@@ -13,7 +13,7 @@ generated:
 # 5-AI-role model decomposing AI functions across the OSCE life cycle
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 mixed) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A proposed framework by Kubota Kazumi et al. for assigning five AI roles across pre-, peri-, and post-OSCE activities with governance artifacts, human decision rights, and risk controls.

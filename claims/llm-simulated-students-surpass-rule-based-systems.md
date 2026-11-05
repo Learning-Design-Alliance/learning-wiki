@@ -54,3 +54,4 @@ The review's own thematic synthesis comparing LLM-based simulated students with 
 - [Phase VI AI-enabled systems face six documented challenges: explainability, hallucination risk, prompt sensitivity, computational cost, validation complexity, and limited large-scale evidence](phase-vi-ai-systems-six-challenges.md) — related
 - [Open issues for dynamic assessment include cost-effectiveness, training, reliability and validity, and generalization](da-open-issues-cost-training-reliability-validity.md) — related
 - [LLMs help bridge the gap between theoretical curricula and real-world skills by creating simulated scenarios, cases and problem contexts that are hard to reproduce in traditional classrooms](llm-simulations-bridge-theory-practice-gap.md) — related
+- [The LLM gave the learner warnings, ethical advice, and feedback on their PFA performance, including psychoeducation](llm-gives-learner-feedback-and-warnings.md) — related

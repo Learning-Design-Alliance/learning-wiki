@@ -47,3 +47,4 @@ Randomized controlled educational trial of 50 final-year medical students; after
 ## Related Claims
 - [The checklist-guided session also improved diagnosis scores, though with a smaller margin than interpretation](checklist-session-improves-cxr-diagnosis.md) — related
 - [TBL and lecture-based instruction show no statistically significant difference in PA students' chest radiograph interpretation test scores](tbl-noninferior-lecture-chest-radiograph-interpretation.md) — related
+- [PBL interns formulate more differential diagnosis items and higher-quality case presentations than lecture-taught interns](pbl-differential-diagnosis-case-presentation-esophageal.md) — related

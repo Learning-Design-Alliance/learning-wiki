@@ -65,3 +65,4 @@ The scan's key idea following its compilation of exposure and exploration resour
 - [Teachers reported that students needed dedicated time to learn and explore technologies before being expected to gain mathematics understanding from them](students-need-time-learn-technology-first.md) — related
 - [A pilot mixed-method trial with 71 participants found students valued the system along three dimensions: career exploration, personalisation, and skill awareness/self-reflection](c3-ioc-pilot-three-value-dimensions.md) — related
 - [Participation in career and technical education or working while in high school may relate to better employment outcomes for students with disabilities](cte-and-inschool-employment-employment-hypothesis.md) — related
+- [The scGY program affirmed or strengthened most participants' intent to pursue a healthcare career, while helping a few rule the path out](scgy-career-affirmation-and-exploration.md) — a narrower finding that bears on this claim

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2023
-source_checked: 2026-10-26
+source_checked: 2026-11-05
 sources:
   - id: tae-lee-lee-2023
     resource: "https://doi.org/10.1038/s41539-022-00152-9"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i1` small
-> **Currency** · newest study 2023 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Online theta-band tACS significantly improved executive function/complex attention (SMD = 0.325); online gamma improved executive function (SMD = 0.154) and perceptual-motor function (SMD = 0.264); offline theta improved executive function (SMD = 0.204). [→ Tae Lee Lee 2023](#tae-lee-lee-2023)

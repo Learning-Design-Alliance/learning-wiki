@@ -65,3 +65,4 @@ Mann-Whitney U tests comparing process assessment and final examination scores b
 - [Fifth-year medical students taught with BOPPPS combined with Rain Classroom scored significantly higher on a nephrology final examination than students taught by traditional lecture](boppps-rain-classroom-higher-nephrology-exam-scores.md) — related
 - [BOPPPS-flipped classroom reform is linked to significantly higher regular academic grades in pediatric dentistry than traditional instruction](boppps-flipped-higher-regular-grades-pediatric-dentistry.md) — related
 - [The BOPPPS-Rain Classroom group showed markedly higher classroom participation than the traditional lecture group](boppps-rain-classroom-higher-class-participation.md) — related
+- [Critique scores did not differ significantly between the blended AI-integrated curriculum group and the traditional lecture group](critique-score-no-significant-difference-blended-ai-curriculum.md) — related

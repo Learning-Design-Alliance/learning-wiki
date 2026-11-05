@@ -9,7 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2019
-source_checked: 2026-10-29
+source_checked: 2026-11-05
 sources:
   - id: kantorski-2019
     resource: "https://doi.org/10.1007/s11423-019-09662-7"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2019 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Early focus group testing revealed users could not identify what information to store in the free-form digital notebook; replacing free-text input with drag-and-drop information gathering reduced frustration and improved focus and engagement. [→ Kantorski 2019](#kantorski-2019)

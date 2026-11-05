@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 390 claims (257 show a difference, 92 mixed, 41 no difference) · 284 studies (99 causal, 95 associational, 41 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 7 design), `q1`–`q4` · 78 of 284 report an effect size · 378 claims rest on one study
+> **Evidence** · 394 claims (260 show a difference, 93 mixed, 41 no difference) · 286 studies (99 causal, 97 associational, 41 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 7 design), `q1`–`q4` · 78 of 286 report an effect size · 382 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -440,6 +440,10 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Cognitive engagement, emotional engagement, and testing perceptions did not correlate with exam scores, and cognitive engagement and testing perceptions did not moderate the testing effect](../claims/engagement-scales-no-correlation-exam-scores.md) [-M] — learners who differ on it differ in outcomes
 - [Emotional engagement tentatively moderates the testing effect, with higher emotional engagement associated with greater gains from testing](../claims/emotional-engagement-moderates-testing-effect.md) [~M] — an instructional effect differs with it
 - [Freedom to choose cases supported residents' sense of autonomy and motivation, while mandatory learning objectives decreased motivation for some](../claims/autonomy-case-choice-vr-motivation.md) [+M] — measured as an outcome of the instruction studied
+- [Grit mediates the relationship between growth mindset and academic performance of female art majors](../claims/grit-mediation-growth-mindset-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Growth mindset is positively associated with academic performance among Chinese female art majors (direct effect 0.25, p < .001)](../claims/growth-mindset-positive-direct-effect-female-art-majors.md) [+M] — learners who differ on it differ in outcomes
+- [Perceived interactivity of DeepSeek indirectly promotes medical students' willingness to use it through performance expectancy and effort expectancy](../claims/deepseek-perceived-interactivity-promotes-intention-via-expectancies.md) [+M] — measured as an outcome of the instruction studied
+- [Personal growth initiative moderates the growth mindset–academic performance link, with a steeper slope at high PGI](../claims/pgi-moderation-growth-mindset-performance.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

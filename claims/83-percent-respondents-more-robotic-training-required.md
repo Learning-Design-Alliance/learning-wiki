@@ -50,3 +50,4 @@ Descriptive finding from the national survey of 82 trainees: "A majority of resp
 - [Over half (54%) of respondents with thoracic surgery as their main operating subspecialty had not fully performed a single RATS procedure](over-half-respondents-not-fully-performed-rats-procedure.md) — related
 - [Dual console systems were absent or unused in 43% of robotic units, and lack of dual-console access was identified as the most significant barrier to RATS training](dual-console-absent-unused-43-percent-top-barrier.md) — related
 - [Surgeons' previous experience and participation in structured training programmes are associated with shorter robot-assisted learning curves](experience-and-training-programmes-shorten-learning-curves.md) — related
+- [Most participants favor simulator implementation in endoscopy training, but few have institutional access](endonix-implementation-attitudes-and-access.md) — related

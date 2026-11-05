@@ -54,3 +54,4 @@ Bonferroni post-hoc comparison of treatment groups' adjusted mean scores on the 
 - [Instructional strategy has a statistically significant main effect on senior secondary students' achievement in algebra, with a large partial eta squared of .136](treatment-main-effect-algebra-achievement.md) — related
 - [Blended problem-based learning produced significantly higher posttest academic achievement than PBL and traditional lecture instruction](bpbl-higher-academic-achievement-than-pbl-and-lecture.md) — related
 - [Small-group problem-based instruction (PBIS) produced the highest adjusted mathematics achievement among the four treatment conditions](pbis-highest-adjusted-math-achievement.md) — related
+- [Critique scores did not differ significantly between the blended AI-integrated curriculum group and the traditional lecture group](critique-score-no-significant-difference-blended-ai-curriculum.md) — related

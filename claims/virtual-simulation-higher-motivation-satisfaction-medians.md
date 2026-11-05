@@ -51,3 +51,4 @@ Pilot RCT questionnaire analysis using the ARCS Learning Motivation Questionnair
 - [AI-featured methods significantly increased motivation across all four ARCS categories for computational problem-solving activities](ai-scaffolding-computational-problems-increases-all-arcs-motivation.md) — related
 - [Virtual simulation training reduced incisor buccolingual bracket deviation by approximately 32.69% compared with traditional training](virtual-simulation-reduced-incisor-buccolingual-deviation.md) — related
 - [Virtual simulation training reduced incisor mesiodistal bracket placement deviation compared with traditional training in a pilot RCT](virtual-simulation-reduced-incisor-mesiodistal-deviation.md) — related
+- [Students rated the program's ARCS confidence component significantly lower than attention, relevance, and satisfaction](arcs-confidence-lower-than-other-components.md) — related

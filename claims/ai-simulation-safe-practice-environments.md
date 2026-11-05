@@ -93,3 +93,5 @@ Thematic analysis of qualitative data from 11 studies (focus groups, think-aloud
 - [Moderators bridged theory-practice gaps by sharing their own clinical experiences on screening, treatment protocols, and evidence translation](moderator-clinical-practice-bridging.md) — related
 - [Repeated VR practice of therapeutic conversations builds students' confidence and flow in communication](vr-repeated-practice-confidence-flow.md) — a narrower finding that bears on this claim
 - [VR simulation training fostered active engagement and a greater sense of preparedness for clinical practice among medical students](vr-training-fostered-engagement-preparedness.md) — related
+- [Thematic analysis of focus groups and open-ended responses identified immersion, clinical communication practice and safe decision-making environments as key perceived benefits](vr-pilot-qualitative-benefit-themes.md) — related
+- [Clinical students perceived VR-based training as a complementary method that enhances proficiency, confidence, and access](vtracs-perceived-complementary-proficiency-enhancement.md) — a narrower finding that bears on this claim

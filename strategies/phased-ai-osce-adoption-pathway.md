@@ -17,7 +17,7 @@ sources:
 # Phased adoption pathway: practice pilots, mock OSCEs with A/B comparisons, then limited high-stakes use
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends a staged pathway in which adoption is phased (practice, mock OSCEs, and limited high-stakes stations) with predefined gates for reliability, validity, equity, and workload. Phase 1 involves manually defining allowed prompts, approving rubrics and persona cards, and running red-team tests; Phase 2 assigns stations to AI-assisted or standard conditions and requires raters to verify AI-extracted evidence; Phase 3 restricts deployment to stations with clear behavioral anchors, requires a real-time kill switch and escalation route, and scales "only if predefined reliability, equity, and workload gates are met."

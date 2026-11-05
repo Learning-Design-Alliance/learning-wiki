@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2015
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: christine-merrell-2015
     resource: "https://eric.ed.gov/?id=ED581118"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Pupils receiving Butterfly Phonics had significantly higher NGRT reading comprehension scores than control pupils after adjusting for baseline, with an effect size of 0.43 (95% CI 0.03, 0.84), equivalent to five months of reading progress. [→ Christine Merrell 2015](#christine-merrell-2015)

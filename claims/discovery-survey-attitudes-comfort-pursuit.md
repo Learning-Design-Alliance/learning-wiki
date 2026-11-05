@@ -50,3 +50,4 @@ Pre/post survey administration by teachers across the five terms (217 responses 
 - [Post-session survey responses indicated students found the session relevant and worthwhile, valuing database search skills and citation management software](post-session-survey-perceptions-positive.md) — related
 - [Most integrated-course participants reported the format maximized learning time, inspired interest, enhanced understanding of key concepts, and allotted theory-practice time appropriately](integrated-histology-student-feedback.md) — related
 - [VR-cohort students reported high self-reported understanding, positive format evaluations, and willingness to participate again](vr-students-report-high-understanding-and-willingness.md) — related
+- [The scGY program affirmed or strengthened most participants' intent to pursue a healthcare career, while helping a few rule the path out](scgy-career-affirmation-and-exploration.md) — related

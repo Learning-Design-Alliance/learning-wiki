@@ -49,3 +49,4 @@ Descriptive comparison of self-reported training-environment questionnaire items
 - [Residents at Very Low-Volume Japanese community hospitals score significantly higher on the GM-ITE than residents at Low-Volume hospitals](very-low-volume-higher-gmite-than-low-volume.md) — related
 - [GM-ITE scores of Very Low-Volume hospital residents do not differ significantly from those of Moderate- or High-Volume hospital residents](very-low-volume-gmite-comparable-to-moderate-high.md) — related
 - [Burnout symptom prevalence does not differ significantly by hospital inpatient volume category](burnout-not-differ-by-inpatient-volume.md) — related
+- [Training in university or urban hospitals and older age were associated with higher Clinical Preparedness scores, and university hospitals with higher Clinical Training scores](institutional-context-predicts-preparedness-training-subscales.md) — related

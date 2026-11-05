@@ -49,3 +49,4 @@ Chi-square test of independence across 1922 30-s video/EDA segments from 10 grou
 - [Most group affective states were neutral or negative in valence and deactivating in physiological level](valence-distribution-collaborative-segments.md) — related
 - [Socially-related factors trigger mixed-valence physiological activation; task-related factors trigger activation without emotional expressions](social-factors-trigger-mixed-activation-task-factors-neutral.md) — related
 - [Increased physiological arousal and higher physiological synchrony relate to more monitoring with negative valence](arousal-synchrony-negative-valence-monitoring.md) — related
+- [Negative activating emotions dominate debriefing emotion talk despite positive activating emotions being most reported in the SERQ](debriefing-emotion-discussion-gap.md) — related

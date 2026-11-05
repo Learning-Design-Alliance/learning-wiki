@@ -66,3 +66,4 @@ Network centrality and bridge-node analyses (Fig. 5); Corsi Blocks was the main 
 ## Related Claims
 - [Isolated EF interventions show robust near-term EF gains but poor transfer, including to early mathematics](isolated-ef-interventions-poor-transfer.md) — related
 - [Mindfulness interventions show comparatively robust efficacy for preschool SR/EF, especially for outcomes requiring integrated mobilisation of EFs and SR](mindfulness-preschool-sr-ef-efficacy.md) — related
+- [Cooccurrence network analysis found that students' AI-ethics thinking changed from fragmented clusters at pretest to integrated networks at posttest in one single-group pre-post study](cooccurrence-network-structural-transformation.md) — related

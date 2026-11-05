@@ -62,3 +62,4 @@ Univariable comparisons across the three latent profiles in the 605-nurse survey
 - [Sociodemographic and job-related characteristics differ across competence profiles](sociodemographic-differences-across-profiles.md) — possibly the same claim (merge candidate)
 - [Nurses' working experience is associated with AI competence; other demographics show no significant association](working-experience-associated-with-aic-nurses.md) — related
 - [Student leadership experience and number of communication skills training sessions, but not other demographics, associate with communication competence subscales](leadership-and-training-associated-communication-competence.md) — related
+- [Core competencies differ by place of birth, reason for choosing nursing, and employment intention, with effect sizes near moderate](competency-differences-birthplace-major-reason-employment-intention.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-18
+source_checked: 2026-11-05
 sources:
   - id: xin-xia-2026
     resource: "https://doi.org/10.1007/s11251-026-09800-8"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a two-level multilevel model, each unit increase in perceived interesting science instruction is associated with a 0.32 increase in emotional engagement (b = 0.32, CI [0.25, 0.38], p < 0.001). [→ Xin Xia 2026](#xin-xia-2026)

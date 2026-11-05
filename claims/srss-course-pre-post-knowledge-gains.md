@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2024
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 sources:
   - id: farris-david-p-2024
     resource: "https://doi.org/10.5195/jmla.2024.1930"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2024 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Identical five-question pre-tests and post-tests showed increased confidence in building a comprehensive literature search and increased percent-correct on knowledge items covering SRSS skills. [→ Farris David P. 2024](#farris-david-p-2024)

@@ -52,6 +52,7 @@ The article recommends strengthening PMSC training by explicit competency framew
 - [Prioritise sustained hands-on DT process-skill training and authentic practice over trait-based selection in faculty development](prioritise-hands-on-dt-skill-training-faculty-development.md)
 - [Align customized AI tutor responses with course learning outcomes, competency frameworks, and licensing exam blueprints](align-ai-tutor-with-curriculum-and-exam-blueprints.md)
 - [Integrate TMJ, myofunctional, and periodontal-orthodontic multidisciplinary content into residency training and target continuing education at undertrained practitioners](integrate-mdt-content-orthodontic-training.md)
+- [Implement targeted structural reforms for tourniquet safety training: standardized national training modules, mandatory simulation-based certification, competency reassessment, institutional protocols, and interdisciplinary safety checklists](tourniquet-safety-training-reform-strategy.md)
 
 ## Examples
 -

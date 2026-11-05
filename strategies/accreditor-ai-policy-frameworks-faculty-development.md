@@ -55,6 +55,7 @@ The article recommends that, given substantial variation in policy structure and
 - [Strengthen institutional policies, ethics education, verification, disclosure, and data protection to support ethical GenAI use](institutional-strategies-ethical-genai-use.md)
 - [Adopt AI-PBL frameworks with institutional and policy-level support and teacher training investment](adopt-ai-pbl-with-teacher-training-investment.md)
 - [Institutions should adopt clear, prominently displayed AI policies and cultivate AI literacy for ethical, employability-oriented use](clear-ai-policies-and-ai-literacy-strategy.md)
+- [Establish transparent ethical guidelines and faculty development for AI use in postgraduate coursework](ethical-ai-integration-guidelines-faculty-development-strategy.md)
 
 ## Examples
 -

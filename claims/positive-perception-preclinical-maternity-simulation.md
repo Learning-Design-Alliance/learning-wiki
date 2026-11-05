@@ -54,3 +54,4 @@ Post-rotation questionnaire study of 64 maternity nursing students using Jeffrie
 - [Readiness for clinical transition is the highest-rated SBL perception item (mean 4.53) while realism is the lowest (mean 3.81)](readiness-clinical-transition-highest-realism-lowest-sbl-items.md) — related
 - [Most nurses expressed satisfaction with the AMS course content and its relevance to everyday practice](nursing-ams-course-satisfaction-relevance.md) — related
 - [Only about one in five student midwives strongly agreed that clinical objectives were clearly displayed in the unit](unclear-clinical-objectives-units.md) — related
+- [Content validity of the Endonix simulator is merely sufficient, with realism ratings lowest among experienced endoscopists](endonix-limited-content-validity-realism.md) — related

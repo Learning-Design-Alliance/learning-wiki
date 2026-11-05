@@ -48,3 +48,4 @@ Pearson correlation coefficients were calculated to descriptively explore associ
 - [Learner-side gains from curiosity modulation persist even when tutor-side instructional quality remains unchanged or degrades, suggesting curiosity operates as a partially independent interaction-level mechanism](learner-gains-persist-despite-tutor-quality-degradation.md) — related
 - [All six GenAI-SRL dimensions correlate positively with learners' perceived writing improvement (r = 0.275–0.338)](genai-srl-dimensions-correlate-perceived-writing-gains.md) — related
 - [The inCarne VR prototype received descriptively positive user experience ratings across all AttrakDiff dimensions, with attractivity scoring highest (M = 1.71, SD = 0.59)](incarne-vr-positive-user-experience-attractivity-highest.md) — related
+- [Working memory and perceived cognitive load were not significantly correlated in this sample](wm-cognitive-load-uncorrelated.md) — related

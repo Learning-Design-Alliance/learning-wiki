@@ -52,3 +52,4 @@ Survey of all 72 students with a 100% response rate, rated on five-point Likert 
 - [Integrated model raises satisfaction, clinical thinking, practical skill self-ratings and engagement, with no difference in resource utilization](microskills-cptm-questionnaire-engagement.md) — related
 - [Experimental-group students rated the IAVSE course significantly higher than the control group rated traditional instruction across seven Likert-scale pedagogical dimensions](iavse-higher-likert-feedback.md) — related
 - [Students in the CBL-FC group report high learning interest, positive experience, and overall satisfaction](cbl-fc-high-satisfaction-learning-experience.md) — related
+- [AI-assisted trainees rated learning engagement and responsiveness to questions significantly higher, but learning interest and satisfaction did not differ significantly](deepseek-assistant-satisfaction-engagement-higher-interest-not.md) — reports the opposite

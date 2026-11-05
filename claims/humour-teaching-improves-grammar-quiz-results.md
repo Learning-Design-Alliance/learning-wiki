@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2017
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: rufaidah-kamal-abdulmajeed-sarab-khalil-hameed-2017
     resource: "https://doi.org/10.5539/elt.v10n2p40"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students taught inherent and non-inherent adjectives with humour devices scored higher on an identical end-of-lesson quiz than students taught by the traditional method (13 vs 5 correct out of 19 each). [→ Rufaidah Kamal Abdulmajeed & Sarab Khalil Hameed 2017](#rufaidah-kamal-abdulmajeed-sarab-khalil-hameed-2017)

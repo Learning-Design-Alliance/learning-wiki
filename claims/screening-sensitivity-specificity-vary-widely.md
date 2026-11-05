@@ -51,3 +51,4 @@ Descriptive synthesis of sensitivity and specificity data from nine validation s
 - [Screening domain is a significant moderator of validity: literacy-literacy correlations (r = .55) exceed language-literacy (r = .38) and mathematics/literacy-achievement (r = .27)](domain-moderates-screening-validity.md) — related
 - [Screening tools in the Three Tier model show a moderate pooled correlation with academic achievement outcomes (r = .51), with very high heterogeneity](screening-pooled-correlation-r51-three-tier.md) — related
 - [Screening 63 pre-school children with the EMBI interview identified about 30% as at risk using a cut-off of fewer than 9 of 15 relevant tasks](embi-screening-identifies-thirty-percent-at-risk.md) — related
+- [Chatbot accuracy varies by content domain, with cavity preparation showing the greatest variability across models](chatbot-accuracy-varies-content-domain.md) — related

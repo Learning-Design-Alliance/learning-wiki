@@ -56,3 +56,4 @@ Qualitative synthesis of seven included studies in a systematic review. The revi
 - [Performance scores increased significantly with surgical experience, demonstrating strong construct validity](construct-validity-performance-scores-experience.md) — related
 - [No significant difference in rubric scores between intermediate and expert providers in simulated WFWB procedures](no-difference-intermediate-expert-wfwb-scores.md) — related
 - [Novices achieve significantly lower rubric scores than intermediate and expert providers in simulated WFWB collection and transfusion](novices-lower-rubric-scores-wfwb-simulation.md) — related
+- [The VR assessment items showed high internal consistency (Cronbach's α = 0.79) validated by expert maximum-score consistency](vr-assessment-reliability-cronbach-alpha.md) — related

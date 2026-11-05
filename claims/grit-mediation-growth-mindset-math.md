@@ -57,3 +57,5 @@ Bootstrap mediation test in the same 691-student sample found four significant s
 - [Fixed math mindset negatively predicts primary math achievement while growth math mindset shows no direct effect](fixed-math-mindset-negative-direct-effect-primary.md) — related
 - [Learning engagement mediates the association between teacher support and mathematics achievement.](learning-engagement-mediation-teacher-support-achievement.md) — related
 - [Grit, sense of belonging, and motives for attending college showed no significant direct associations with academic achievement in this sample](grit-belonging-motives-no-achievement-association.md) — reports the opposite
+- [Grit mediates the relationship between growth mindset and academic performance of female art majors](grit-mediation-growth-mindset-performance.md) — related
+- [Learning adaptability mediates the relationship between growth mindset and academic performance of female art majors](learning-adaptability-mediation-growth-mindset-performance.md) — related

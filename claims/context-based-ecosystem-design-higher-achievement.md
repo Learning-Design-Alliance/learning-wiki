@@ -90,3 +90,4 @@ Post-hoc comparison following the ANCOVA on post-test AT scores in the quasi-exp
 - [The iHEC cohort showed higher post-rotation self-directed learning readiness than the conventional cohort (Cohen's d = 0.78)](ihec-higher-sdl-readiness.md) — related
 - [The teaching quality advantage remained significant after covariate adjustment, intention-to-treat, and mixed-effects sensitivity analyses](patient-in-classroom-sensitivity-analyses.md) — related
 - [The BOPPPS advantage in knowledge and skills remained statistically significant after ANCOVA adjustment for baseline scores](ancova-adjusted-boppps-effects.md) — related
+- [Critique scores did not differ significantly between the blended AI-integrated curriculum group and the traditional lecture group](critique-score-no-significant-difference-blended-ai-curriculum.md) — related

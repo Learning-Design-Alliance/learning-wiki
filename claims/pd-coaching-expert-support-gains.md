@@ -78,3 +78,4 @@ Powell and colleagues (2010) coaching model for early childhood educators: biwee
 - [Providing books and a single workshop without ongoing coaching did not improve prekindergarten classroom quality](minimal-books-workshop-intervention-insufficient.md) — a narrower finding that bears on this claim
 - [Professional development programs improve teachers' classroom assessment practices and skills](pdp-improves-teacher-assessment-practices.md) — related
 - [Professional development workshops and instructional support interventions positively impact teachers' performance in standard assessments](pdp-workshops-isi-positive-impact-standard-assessments.md) — a narrower finding that bears on this claim
+- [Post-coaching interviews revealed professional growth and personal gains among program participants](field-coaching-professional-personal-gains.md) — related

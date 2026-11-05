@@ -9,7 +9,7 @@ generated:
   at: 2026-10-20
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 sources:
   - id: guido-makransky-2025
     resource: "https://doi.org/10.1007/s10648-025-10039-x"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3` · `i2`–`i3`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 > **Design limits** · Guido Makransky 2025: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims

@@ -47,3 +47,4 @@ Theme 6 of the thematic analysis; one participant requested "a more detailed cur
 ## Related Claims
 - [Undergraduate students in experiential wellness courses describe weekly experiential assignments as catalysts for self-endorsed healthy habit formation and perceived lifestyle improvement](wellness-weekly-experiential-assignments-habit-formation.md) — related
 - [Thematic analysis of open-ended feedback found students valued interactive 3D models, concise case presentation, and clinical context, while requesting labeled structures, step-by-step platform guidance, videos, technical fixes, and embedded quizzes](xr-cbl-feedback-thematic-analysis.md) — related
+- [Qualitative themes linked intervention-group satisfaction to course clarity, active and collaborative learning, and research preparedness, and control-group dissatisfaction to workload and logistics](qualitative-themes-clarity-engagement-versus-workload-logistics.md) — related

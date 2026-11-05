@@ -49,3 +49,4 @@ Cross-sectional panel analysis linking WEC survey data to NAPLAN and PAT scores 
 - [The relationship between the WEC index and academic achievement is stable across student year levels and census years, with no meaningful interaction effects](wec-achievement-relationship-stable-year-census.md) — related
 - [The emotional well-being index has the least predictive power on academic outcomes, with effect sizes in the hundredth-of-a-SD range](well-being-index-least-predictive-academic-outcomes.md) — related
 - [WEC index effects on academic outcomes are more pronounced for male students, with the well-being effect on literacy absent for females](wec-effects-more-pronounced-males-literacy.md) — related
+- [Subjective well-being in school relates weakly to achievement and is not statistically significant in models with school fixed effects](well-being-weak-nonsignificant-fixed-effects-elementary.md) — related

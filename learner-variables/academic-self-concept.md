@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 151 claims (103 show a difference, 35 mixed, 13 no difference) · 81 studies (40 associational, 23 causal, 11 review, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 21 of 81 report an effect size · 148 claims rest on one study
+> **Evidence** · 152 claims (104 show a difference, 35 mixed, 13 no difference) · 82 studies (41 associational, 23 causal, 11 review, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 21 of 82 report an effect size · 149 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -186,6 +186,7 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Within all domains, achievement is positively related to self-concept in the same domain among German academic-track secondary students](../claims/within-domain-positive-achievement-self-concent-relations-eight-domains.md) [+M] — learners who differ on it differ in outcomes
 - [92.60% of students were satisfied with the A-SPIRE model and 96.3% believed their science communication ability improved](../claims/a-spire-high-satisfaction-self-assessed-improvement.md) [+M] — measured as an outcome of the instruction studied
 - [Focus group interviews at 1 and 5 months suggest perceived transfer of desaturation management learning to clinical practice, with rising self-rated ability](../claims/fgi-perceived-learning-transfer.md) [+W] — measured as an outcome of the instruction studied
+- [Initial levels and changes in self-concepts and parent expectations predict third-level attainment, with parent expectations a stronger predictor for economically vulnerable children](../claims/self-concept-expectations-predict-attainment.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

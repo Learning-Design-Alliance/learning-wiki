@@ -54,3 +54,4 @@ Content validity evaluation based on relevance ratings by the 16 Delphi experts.
 - [The DKSCQ-N demonstrates strong content validity with a scale-level Content Validity Index of 0.95 following expert review and item refinement.](dkscqn-content-validity-s-cvi-095.md) — related
 - [Content validity of the HSPNCS is acceptable (S-CVI/Ave 0.972)](hspncs-acceptable-content-validity.md) — related
 - [Expert review established content validity of VEGA's generated content, with I-CVIs of 0.83–1.00 and S-CVI/Ave of 0.96](vega-content-validity-cvi.md) — related
+- [Korean experts and survey respondents favored applied health literacy content over theoretical and contextual items](korean-hlc-applied-content-preference.md) — related

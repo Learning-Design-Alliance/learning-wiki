@@ -65,3 +65,4 @@ PLS-SEM structural analysis of survey data from 842 Lesotho students (bootstrapp
 - [Perceived usefulness, attitude, and behavioral intention form a significant TAM pathway predicting GenAI adoption among law students](tam-pathway-genai-adoption-law-students.md) — related
 - [Effort expectancy has no direct effect on behavioral intention; its effect is fully mediated by attitude.](effort-expectancy-mediated-by-attitude.md) — reports the opposite
 - [Performance expectancy significantly predicts both behavioral intention and actual use of MALL.](performance-expectancy-predicts-intention-and-use.md) — related
+- [Behavioral intention positively predicts self-directed learning ability while social influence shows a negative direct effect on it](intention-positive-social-influence-negative-sdla.md) — related

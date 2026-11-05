@@ -48,6 +48,7 @@ To address barriers including limited training resources, time constraints, and 
 
 - [Implement simulation-based refresher drills, visual job aids, mentorship champions, and stocked emergency kits for MgSO4 readiness](mgso4-competency-intervention-package.md)
 - [Pair VR haptic training with Entrustable Professional Activities (EPA) assessment to gauge trainee readiness for independent surgical practice](epa-assessment-for-vr-trainees.md)
+- [Implement targeted structural reforms for tourniquet safety training: standardized national training modules, mandatory simulation-based certification, competency reassessment, institutional protocols, and interdisciplinary safety checklists](tourniquet-safety-training-reform-strategy.md)
 
 ## Examples
 -

@@ -45,6 +45,8 @@ The article recommends designing continuing professional development (CPD) aroun
 
 - [Redesign the geriatric curriculum to comprehensively cover interdisciplinary teamwork and patient/caregiver-centered competencies](redesign-geriatric-curriculum-teamwork-caregiver-competencies.md)
 - [Design CPD programs with hands-on skill development, ongoing reinforcement, and integration into workplace protocols](cpd-hands-on-skills-reinforcement-protocol-integration.md)
+- [Use consensus-derived teamwork competencies to develop a European curriculum for community-based interprofessional team specialists](eu-curriculum-development-from-consensus-competencies.md)
+- [Target QS graduate training programs at management and personality development, combining management content with personal image and innovative insight](qs-management-personality-training-programs.md)
 
 ## Examples
 -

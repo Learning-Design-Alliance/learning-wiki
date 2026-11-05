@@ -58,3 +58,4 @@ In the 32-intern study, knowledge (8.7 ± 1.4 to 8.4 ± 1.3), self-efficacy (36.
 - [Self-efficacy did not change significantly after the simulation training programme](als-simulation-self-efficacy-change-not-significant.md) — related
 - [Total BLS skill retention scores remain stable across two weeks, two months and one year after training](total-bls-scores-stable-across-retention-intervals.md) — related
 - [Phase 1 participants retained their knowledge gains at a 4-week follow-up, with a slight nonsignificant decline from post-test.](venomventure-4week-retention.md) — related
+- [New nurses' self-rated self-efficacy rose slightly but not significantly from pre-program levels at three and six months following the SCCDP, in one single-group pre-post study](sccdp-self-efficacy-no-significant-change.md) — related

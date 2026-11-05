@@ -9,7 +9,6 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2019
-source_checked: 2026-10-29
 sources:
   - id: cousins-2019
     resource: "https://doi.org/10.1038/s41539-019-0047-z"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2019 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i2` For the most confident (certain) memories, the split sleep group outperformed the continuous sleep group for species learned in the afternoon, d = 0.71, with no significant difference for morning learning. For overall memory the group-by-time interaction was not significant, but a planned comparison favoured the split group for afternoon-learned species, d = 0.57. Both groups had the same 6.5 h sleep opportunity; the split group actually slept about 15 min less. [→ Cousins 2019](#cousins-2019)

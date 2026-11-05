@@ -52,3 +52,4 @@ Multigroup SEM of control-value relations in a 14,534-student sample, comparing 
 - [Structural paths did not differ significantly across AI usage-frequency groups, though exploratory coefficients varied numerically](no-significant-path-differences-across-usage-frequency-groups.md) — related
 - [Main structural paths remain substantively unchanged after controlling for gender, major, and AI tool use frequency](paths-robust-to-demographic-controls.md) — related
 - [The homework management–homework behavior link is stronger for girls than for boys](homework-management-behavior-link-stronger-girls.md) — related
+- [The path from psychological quality to professional recognition is stronger in applied disciplines (Social Sciences, Engineering) than in theoretical disciplines (Humanities, Natural Sciences)](discipline-moderates-quality-to-recognition-path.md) — related

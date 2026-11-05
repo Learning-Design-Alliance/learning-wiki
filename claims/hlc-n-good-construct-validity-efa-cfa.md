@@ -67,3 +67,4 @@ Confirmatory factor analysis on the independent validation subsample of 393 nurs
 ## Related Claims
 - [Exploratory factor analysis supports a five-factor GAA-LS structure explaining 67.82% of variance](gaa-ls-five-factor-efa-structure.md) — related
 - [The Turkish SATS-36 showed a six-factor structure with adequate fit, Rasch item parameters and acceptable-to-good reliability in this sample](sats36-turkish-six-factor-validation-sample.md) — related
+- [The revised 43-item Korean HLCs four-factor model shows good confirmatory factor analysis fit](korean-hlc-four-factor-model-fit.md) — related

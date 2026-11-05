@@ -52,3 +52,4 @@ SEM mediation analysis using AMOS with a 95% confidence interval for the indirec
 - [Self-directed learning, AI acceptance, and perceived clinical competence are mutually positively correlated](sdl-ai-acceptance-competence-correlations-nursing.md) — related
 - [Self-directed learning ability is positively associated with perceived clinical competence among nursing students](sdl-associated-with-perceived-clinical-competence-nursing.md) — related
 - [AI trust partially mediates the relationship between AI uncertainty and AI competence among nurses](ai-trust-partially-medaiates-aiu-aic-nurses.md) — related
+- [Professional recognition partially mediates the relationship between psychological quality and entrepreneurial competence](professional-recognition-partial-mediation.md) — related

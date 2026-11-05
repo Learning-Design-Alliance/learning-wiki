@@ -79,3 +79,4 @@ Correlational analysis of model size versus F1 across the 18 models. The article
 - [State-of-the-art multimodal LLMs cannot reliably interpret circuit diagrams and therefore cannot independently solve circuit analysis problems](vlm-cannot-interpret-circuit-diagrams.md) — related
 - [Studies using both text- and image-based questions show higher pooled LLM accuracy (78%) than text-only studies (71%)](multimodal-questions-higher-llm-accuracy.md) — possibly the same claim (merge candidate)
 - [LLMs underperformed on image-based dental examination questions compared with text-based questions](llms-underperform-image-based-questions.md) — reports the opposite
+- [All four multimodal LLMs show a marked decrease in correct response rates on visually-based versus text-only JNEOT questions](llm-visual-question-decline-jneot.md) — reports the opposite

@@ -75,3 +75,4 @@ Subgroup meta-analysis pooling two RCTs (IIAS-supported CBL and WFO-integrated C
 - [Most reviewed studies found active learning improved satisfaction and knowledge acquisition and was superior to traditional lectures](active-learning-superior-lectures-dental-classroom.md) — related
 - [PBL methods produce significantly better knowledge scores than traditional teaching among dental students (pooled MD 4.15)](pbl-improves-knowledge-scores.md) — related
 - [Blended problem-based learning produced significantly higher posttest academic achievement than PBL and traditional lecture instruction](bpbl-higher-academic-achievement-than-pbl-and-lecture.md) — related
+- [A blended, peer-led, AI-integrated research methods curriculum produced significantly higher overall student satisfaction than traditional lecture-based instruction in postgraduate dental students](blended-ai-curriculum-higher-satisfaction-postgraduate-dental.md) — related

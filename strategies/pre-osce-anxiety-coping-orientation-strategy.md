@@ -43,7 +43,8 @@ The article recommends preparing students for the anxiety of high-stakes OSCE as
 - [Combining work and study is significantly associated with higher pre-OSCE anxiety levels](../claims/work-study-balance-associated-anxiety.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Peer-led mock OSCE as a cost-effective strategy to reduce anxiety and support well-being before high-stakes clinical assessments](peer-led-mock-osce-strategy.md)
 
 ## Examples
 -

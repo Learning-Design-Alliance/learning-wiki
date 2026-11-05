@@ -74,3 +74,4 @@ Authors' interpretation of the Experiment B follow-up data: even high-quality de
 - [IVR knowledge benefits appear immediately post-intervention but attenuate at later follow-up](ivr-knowledge-gains-attenuate-at-follow-up.md) — related
 - [Learning advantages of AI-assisted peer teaching persist at 3-month follow-up](ai-assisted-peer-teaching-retention-3-month.md) — related
 - [The AI-enhanced group showed significantly higher one-month knowledge retention than both comparison groups](ai-enhanced-higher-knowledge-retention.md) — related
+- [One month after the course, knowledge retention did not differ significantly between the AI-assisted and traditional-teaching groups](deepseek-assistant-no-retention-advantage-one-month.md) — related

@@ -52,3 +52,4 @@ Randomized controlled trial of 120 fifth-year clinical medicine undergraduates r
 - [Objective multiple-choice test scores do not differ significantly between 3D-PBL-annotation teaching and traditional lecture-based learning](3d-pbl-annotation-no-objective-score-difference.md) — related
 - [PBL-CBL combined teaching improves post-class case analysis scores compared with traditional lecture-based teaching in gynecology residents](pbl-cbl-improves-case-analysis-scores-gynecology-residents.md) — related
 - [Students in the 3D-PBL-annotation group report higher self-rated mastery of spinal endoscopic steps, anatomy, MSU classification, nerve-root manifestations, and differential diagnosis](3d-pbl-annotation-higher-self-rated-mastery.md) — related
+- [PBL interns formulate more differential diagnosis items and higher-quality case presentations than lecture-taught interns](pbl-differential-diagnosis-case-presentation-esophageal.md) — related

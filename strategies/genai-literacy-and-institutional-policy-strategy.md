@@ -56,6 +56,7 @@ The article recommends that institutions develop policies and formal guidance on
 - [Provide AI literacy training, human-AI interaction opportunities, and ethical-use guidelines and policies for instructional designers](ai-literacy-training-ethical-genai-guidelines-ids.md)
 - [Establish standardized, ethically sound guidelines and coordinated stakeholder efforts for integrating LLMs into dental education](llm-integration-guidelines-dental-education-strategy.md)
 - [Incorporate guided AI-based learning activities, structured training on responsible AI use, and institutional guidelines for AI integration](guided-ai-learning-activities-training-guidelines.md)
+- [Establish transparent ethical guidelines and faculty development for AI use in postgraduate coursework](ethical-ai-integration-guidelines-faculty-development-strategy.md)
 
 ## Examples
 -

@@ -56,3 +56,4 @@ Paths from the same three-wave SEM (H1 and H2), estimated in Mplus with robust m
 - [Prior academic self-efficacy and attainment value do not cross-predict each other over the school year](no-cross-paths-between-efficacy-and-attainment-value.md) — related
 - [Feedback valence affects post-task self-efficacy, challenge, and threat: negative feedback lowers self-efficacy and challenge and raises threat (Experiments 1 and 2)](feedback-valence-affects-self-efficacy-challenge-threat.md) — related
 - [Student task value judgments' antecedents and consequences show initial interest and mastery goals predict subsequent interest, and individual differences matter for teaching strategy](hulleman-task-values-individual-differences.md) — related
+- [Academic self-efficacy is the only significant non-cognitive predictor of academic threat appraisal](self-efficacy-predicts-threat-appraisal.md) — related

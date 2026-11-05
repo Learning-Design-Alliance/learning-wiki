@@ -50,3 +50,4 @@ This is the author's philosophical argument rather than an empirical test: "anal
 - [Pooled risk difference across 11 student‐clinic studies is 0.43 but with considerable heterogeneity (I² = 93%)](student-rct-pooled-risk-difference-heterogeneous.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — related
 - [Clinical judgment based on experience alone shows wide variation and can be misleading](clinical-judgment-experience-variation.md)
+- [Miscalibrated self-assessment in learners risks cognitive bias, clinical reasoning errors, and adverse patient outcomes (theoretical argument)](dunning-kruger-overconfidence-clinical-risk.md) — related

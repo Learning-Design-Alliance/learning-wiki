@@ -51,6 +51,7 @@ The article recommends that "Mathematics teaching and evaluation strategies shou
 
 - [Use problem-based learning as an additional mathematics teaching strategy to overcome the male image of mathematics](pbl-to-overcome-male-image-of-mathematics.md)
 - [Introduce computer science to girls in elementary school, before gender-interest stereotypes take root](introduce-cs-early-before-interest-stereotypes-take-root.md)
+- [Target development of math self-efficacy, especially for elementary school girls, through teacher professional development on supportive practices](target-math-self-efficacy-girls-teacher-pd.md)
 
 ## Examples
 -

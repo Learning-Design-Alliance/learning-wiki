@@ -55,3 +55,4 @@ R² values from the structural model of 533 respondents; the article states the 
 - [Adding time-varying task features roughly halves unexplained variance in disciplinary engagement ratings](task-features-explain-half-de-variance.md) — related
 - [Metacognitive strategies correlate strongly with problem-solving skills, and behavioural metrics correlate with task performance](metacognition-problem-solving-correlation.md) — related
 - [Epistemic orientation and intellectual values jointly predict students’ critical use of genAI, accounting for about one-third of its variance](epistemic-orientation-intellectual-values-predict-critical-genai-use.md) — related
+- [The integrated mediation-moderation model fits the data well and explains 38% of variance in academic performance](sem-model-fit-r2-38-percent.md) — related

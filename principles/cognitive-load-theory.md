@@ -32,7 +32,7 @@ sources:
 # Cognitive Load Theory
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 73 claims (32 for, 39 mixed, 2 against) · 70 studies (32 causal, 17 review, 13 theoretical, 6 quant-synthesis, 2 qualitative), `q1`–`q4` · 14 of 70 report an effect size · 62 claims rest on one study
+> **Evidence** · 73 claims (32 for, 39 mixed, 2 against) · 71 studies (32 causal, 17 review, 14 theoretical, 6 quant-synthesis, 2 qualitative), `q1`–`q4` · 15 of 71 report an effect size · 61 claims rest on one study
 
 ## Conditional relationship
 
@@ -170,6 +170,7 @@ A learning-phase efficiency gain, immediate performance, near transfer, delayed 
 - Stepwise visual explanations paired with constrained early practice in technical training.
 - Instructional materials redesigned to remove split-attention and unnecessary visual clutter.
 - [Manage intrinsic load with a part-whole approach, task variability, and self-explanation to raise germane load](../strategies/part-whole-variability-self-explanation-raise-germane-load.md)
+- [Apply CLT-derived design principles in medical education: integrated information sources, oral explanations for animations, completion tasks, worked examples, and variable practice](../strategies/clt-design-recommendations-medical-education.md)
 
 ## Key Sources
 - Sweller, J., van Merriënboer, J. J. G., & Paas, F. (1998). Cognitive architecture and instructional design. *Educational Psychology Review, 10*(3), 251-296. [https://doi.org/10.1023/A:1022193728205](https://doi.org/10.1023/A:1022193728205)

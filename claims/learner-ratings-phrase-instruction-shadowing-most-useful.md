@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2017
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: thomson-2017
     resource: "https://doi.org/10.18806/tesl.v34i3.1272"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q1`–`q2`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-03 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Phrase instruction and shadowing received the highest perceived-usefulness ratings, with no significant difference between them. [→ Thomson 2017](#thomson-2017)

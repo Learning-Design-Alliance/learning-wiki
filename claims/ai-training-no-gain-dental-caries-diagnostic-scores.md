@@ -56,3 +56,4 @@ Randomized experimental study of 79 undergraduate dental students (41 AI, 38 con
 - [All three online training methods significantly improved diagnostic performance for MUL measurements on prostate MRI with no significant differences between groups](online-training-improves-mul-diagnostic-performance.md) — related
 - [Improvement in overall scores did not differ significantly between digital and conventional training groups](no-group-session-interaction-overall-scores.md) — related
 - [Improvement in caries detection decreased with increasing clinical experience, though pairwise stage differences were not significant](improvement-decreases-with-clinical-experience.md) — related
+- [Big Five personality traits show no significant association with dental students' radiographic diagnostic accuracy](personality-traits-no-effect-radiographic-accuracy.md) — related

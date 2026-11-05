@@ -49,3 +49,4 @@ The article reports, citing Randler et al. (2012), that in fish dissection inter
 - [Humorous video clips prior to a fish dissection reduce state anxiety compared to a life-history control video](humor-video-reduces-pre-dissection-anxiety.md) — related
 - [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](math-anxiety-degrades-performance.md) — a broader claim this one bears on
 - [Observed anxiety expressions during challenging tasks predict lower teacher-rated work-related and self-regulation skills](observed-anxiety-predicts-lower-work-self-regulation.md) — related
+- [Perceived competence correlated with interest and pressure differently under positive versus negative feedback](competence-correlations-differ-by-feedback-valence.md) — related

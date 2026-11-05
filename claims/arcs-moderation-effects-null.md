@@ -50,3 +50,4 @@ PLS-SEM moderation tests (Table 8) in the 842-student Lesotho survey; all four i
 - [ARCS motivation showed the strongest correlations in the matrix with both behavioral intention and use behavior](arcs-strongest-correlations-intention-use.md) — related
 - [Technology acceptance conditions the virtual-real-imagination–behavioral-intention association, which is stronger at higher reported technology acceptance](technology-acceptance-moderates-vr-imagination-behavioral-intention.md) — related
 - [ARCS motivation factors significantly predict learning achievement](arcs-factors-predict-learning-achievement.md) — related
+- [Achievement motivation, major satisfaction, and successful intelligence contribute independently to sustainable education: all tested interaction effects are non-significant](independent-effects-no-significant-interactions.md) — related

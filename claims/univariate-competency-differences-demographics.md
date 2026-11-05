@@ -52,3 +52,4 @@ Univariate analysis (t-tests or one-way ANOVA) of general characteristics and co
 - [No statistically significant associations between overall VHV competency classification and any demographic or occupational variable examined](vhv-competency-not-differentiated-by-demographics.md) — related
 - [Hospital grade, job position, work experience, and teaching experience distinguish core competence levels](demographic-factors-core-competence-nurses.md) — related
 - [Sociodemographic and job-related characteristics differ across competence profiles](sociodemographic-differences-across-profiles.md) — related
+- [Core competencies differ by place of birth, reason for choosing nursing, and employment intention, with effect sizes near moderate](competency-differences-birthplace-major-reason-employment-intention.md) — related

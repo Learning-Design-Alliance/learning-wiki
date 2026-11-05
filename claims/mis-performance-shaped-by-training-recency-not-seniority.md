@@ -54,3 +54,4 @@ Authors' interpretation (type e) in the Discussion, offered as an explanation fo
 - [Trainee-performed laparoscopic pyloromyotomy takes modestly longer than specialist-performed cases (median +5 minutes)](trainee-lp-longer-operative-time.md) — related
 - [Supervised trainee-performed laparoscopic pyloromyotomy shows no significant increase in surgery-related complications compared with specialist-performed cases](trainee-lp-no-complication-increase.md) — related
 - [Glove-derived force features could not distinguish clinicians by seniority but showed modest ability to classify perceived task difficulty](glove-features-seniority-null-difficulty-classification.md) — related
+- [More experienced surgeons rate knowledge of imaging anatomy and spatial perception as more important pre-operative general skills than trainees do](experience-level-differences-general-skill-importance-ratings.md) — related

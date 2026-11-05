@@ -57,6 +57,7 @@ The review recommends that immersive technologies like VR and AR be used as supp
 - [Use virtual simulation games as a preliminary or complementary method to face-to-face simulation and clinical practice](vsg-as-preliminary-or-complementary-simulation.md)
 - [Integrate a mixed reality simulation session as a mid-rotation consolidation supplement to clinical teaching](mr-simulation-mid-rotation-consolidation.md)
 - [Design VR anatomy studies and implementations to reduce cognitive burden: longitudinal exposure, sufficient familiarization, and mixed-reality devices for drawing tasks](reduce-vr-cognitive-burden-recommendations.md)
+- [Use LLMs as supplements for theoretical learning while preserving hands-on training for practical skills](llm-supplement-theoretical-learning-ot.md)
 
 ## Examples
 -

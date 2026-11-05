@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2023
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: vasilopoulos-fotini-2023
     resource: "https://doi.org/10.1038/s41598-023-35082-y"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
-> **Currency** · newest study 2023 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Three highly creative interventions (six effect sizes) showed a significant negative group difference for cognitive flexibility, and the effect persisted after removing influential cases. [→ Vasilopoulos Fotini 2023](#vasilopoulos-fotini-2023)

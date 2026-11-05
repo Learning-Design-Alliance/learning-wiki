@@ -73,6 +73,8 @@ The review recommends a measured adoption strategy: immersive technologies and v
 - [Use virtual simulation games as a preliminary or complementary method to face-to-face simulation and clinical practice](vsg-as-preliminary-or-complementary-simulation.md)
 - [Position AI simulation as a complement to—not a replacement for—traditional clinical placements, with faculty preparation and dedicated quiet spaces](ai-simulation-as-complement-not-replacement.md)
 - [Integrate a mixed reality simulation session as a mid-rotation consolidation supplement to clinical teaching](mr-simulation-mid-rotation-consolidation.md)
+- [Use LLM-based simulation to let trainees practise PFA conversations repeatedly, flexibly, and remotely](llm-simulation-scalable-pfa-practice.md)
+- [Use immersive VR virtual patient scenarios to give pre-clinical and multicultural students safe, repeatable clinical communication practice](vr-safe-practice-preclinical-multilingual-strategy.md)
 
 ## Examples
 -

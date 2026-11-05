@@ -63,3 +63,4 @@ Dimension-level teaching satisfaction results in the same assessor-blinded RCT o
 - [Objective multiple-choice test scores do not differ significantly between 3D-PBL-annotation teaching and traditional lecture-based learning](3d-pbl-annotation-no-objective-score-difference.md) — related
 - [PA-PBL and control students reported comparable course satisfaction and self-evaluated competencies](pa-pbl-control-comparable-subjective-evaluations.md) — reports the opposite
 - [Students in the 3D-PBL-annotation group report higher satisfaction with learning motivation, academic atmosphere, teacher-student interaction, and knowledge absorption](3d-pbl-annotation-higher-satisfaction.md) — related
+- [Live-video teaching significantly boosts students' self-evaluated learning outcomes across all five measured aspects](ltm-self-evaluated-learning-outcomes.md) — related

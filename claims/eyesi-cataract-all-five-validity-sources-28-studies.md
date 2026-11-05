@@ -50,3 +50,4 @@ The review's synthesis of the Eyesi cataract evidence base in its virtual realit
 - [The EyeSi Surgical Simulator can differentiate VRS novices from experts, providing construct validity evidence](eyesi-differentiates-novices-from-experts-vrs.md) — related
 - [Effectiveness evidence for ophthalmic simulators mostly stops at level 2 (contained effects), with isolated exceptions at level 3 (Sophocle) and level 5 (Eyesi for cataract surgery).](simulator-effectiveness-mostly-level-2-rare-downstream-target-effects.md) — related
 - [Deuchler et al. found learning occurs with EyeSi simulator training but is higher when combined with an online theory platform](eyesi-plus-online-platform-higher-learning-deuchler.md) — related
+- [The VR assessment items showed high internal consistency (Cronbach's α = 0.79) validated by expert maximum-score consistency](vr-assessment-reliability-cronbach-alpha.md) — related

@@ -53,3 +53,4 @@ Theoretical analysis in the review's Pathway 1 section, drawing on reviews of ge
 - [GenAI chemistry outputs can be fluent and locally persuasive while chemically invalid across representations](genai-fluent-but-chemically-invalid-outputs.md) — a narrower finding that bears on this claim
 - [Students exhibited high trust in GenAI but limited critical evaluation of its outputs](high-trust-limited-critical-evaluation-genai.md) — related
 - [Epistemic overtrust is a key risk: learners may accept AI outputs because they appear authoritative even when reasoning is incomplete, biased, or unsupported](epistemic-overtrust-ai-feedback-risk.md) — possibly the same claim (merge candidate)
+- [Miscalibrated self-assessment in learners risks cognitive bias, clinical reasoning errors, and adverse patient outcomes (theoretical argument)](dunning-kruger-overconfidence-clinical-risk.md) — related
