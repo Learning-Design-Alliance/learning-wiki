@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**49438 entries** · 0 stable · 49438 in review · 0 drafts
+**49439 entries** · 0 stable · 49439 in review · 0 drafts
 
 ---
 
@@ -47309,6 +47309,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Under NCLB, CPS transfer demand far exceeded available seats, and school classifications were unstable](nclb-cps-transfer-demand-exceeds-seats.md) - Under NCLB, CPS transfer demand far exceeded available seats, and school classifications were unstable
 * [Under New Jersey's original passing thresholds, first-attempt passing was more likely on the HiSET and TASC than on the GED after controlling for grade 8 test scores](nj-original-thresholds-hiset-tasc-easier-first-attempt.md) - Under New Jersey's original passing thresholds, first-attempt passing was more likely on the HiSET and TASC than on the GED after controlling for grade 8 test scores
 * [Under normal conditions children with ADHD show deficits in vigilance, visual search and divided attention relative to TD children](adhd-attention-deficits-normal-conditions.md) - Under normal conditions children with ADHD show deficits in vigilance, visual search and divided attention relative to TD children
+* [Under one standardised evaluation, most deep knowledge-tracing models published after the original DKT do not beat it, and a common KC-level evaluation shortcut inflates reported accuracy](newer-deep-kt-models-rarely-beat-dkt-standard-protocol.md) - A benchmark of ten deep knowledge-tracing models on seven datasets with shared preprocessing and five-fold cross-validation found that most models proposed after deep knowledge tracing (DKT) did not outperform it, that only AKT led on almost every dataset, and that evaluating expanded knowledge-component sequences one by one leaks answers and inflates AUC.
 * [Under persona simulation with hidden ground-truth mastery, Adaptive sessions yield lower final-belief mastery MAE (0.12) than Random-topic (0.16) and Frozen (0.20) controls, and belief updates shrink as estimates converge](collearn-adaptive-mastery-mae-convergence.md) - Under persona simulation with hidden ground-truth mastery, Adaptive sessions yield lower final-belief mastery MAE (0.12) than Random-topic (0.16) and Frozen (0.20) controls, and belief updates shrink as estimates conv...
 * [Under phenotypic assortment NTFD models, parental education shows no environmental effect on offspring educational attainment once genetic influences are accounted for](parental-education-no-environmental-effect-pa-models.md) - Under phenotypic assortment NTFD models, parental education shows no environmental effect on offspring educational attainment once genetic influences are accounted for
 * [Under RCT-YES default (alternative) assumptions, differences from the reference model-based method are slightly larger than under matched assumptions and are limited to clustered designs](alternative-assumptions-differences-limited-to-clustered-designs.md) - Under RCT-YES default (alternative) assumptions, differences from the reference model-based method are slightly larger than under matched assumptions and are limited to clustered designs

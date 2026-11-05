@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":49438,
+"claim":49439,
 "design":2540,
 "element":1057,
 "learner-variable":75,
@@ -295836,6 +295836,16 @@
 "recheck_by":"2023",
 "status":"review",
 "title":"Newell's complex systems theory of interdisciplinarity fails to explain integration, as its critics and Newell himself acknowledge",
+"type":"claim"
+},
+{
+"description":"A benchmark of ten deep knowledge-tracing models on seven datasets with shared preprocessing and five-fold cross-validation found that most models proposed after deep knowledge tracing (DKT) did not outperform it, that only AKT led on almost every dataset, and that evaluating expanded knowledge-component sequences one by one leaks answers and inflates AUC.",
+"evidence_strength":"moderate",
+"id":"newer-deep-kt-models-rarely-beat-dkt-standard-protocol",
+"newest_evidence":"2022",
+"path":"claims/newer-deep-kt-models-rarely-beat-dkt-standard-protocol.md",
+"status":"review",
+"title":"Under one standardised evaluation, most deep knowledge-tracing models published after the original DKT do not beat it, and a common KC-level evaluation shortcut inflates reported accuracy",
 "type":"claim"
 },
 {
@@ -701076,6 +701086,7 @@
 "newark-cmo-vs-independent-charter-growth":"newark-cmo-vs-independent-charter-growth",
 "newark-magnet-special-ed-math-growth":"newark-magnet-special-ed-math-growth",
 "newell-complex-systems-theory-integration-gap":"newell-complex-systems-theory-integration-gap",
+"newer-deep-kt-models-rarely-beat-dkt-standard-protocol":"newer-deep-kt-models-rarely-beat-dkt-standard-protocol",
 "newer-llms-outperform-older-dental-exams":"newer-llms-outperform-older-dental-exams",
 "newer-teachers-more-positive-about-tpe-than-veterans":"newer-teachers-more-positive-about-tpe-than-veterans",
 "newsletter-teaching-activities-higher-engagement":"newsletter-teaching-activities-higher-engagement",

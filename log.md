@@ -10,6 +10,13 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 
 ---
 
+## 2026-11-05
+
+* **Claim**: [claims/deep-learning-knowledge-tracing-outperforms-but-lacks-interpretability](claims/deep-learning-knowledge-tracing-outperforms-but-lacks-interpretability.md) — Linked claim from pyKT: A Python library to benchmark deep learning based knowledge tracing models (Liu et al., 2022), doi:10.52202/068431-1347
+* **Claim**: [theories/deep-learning-knowledge-tracing-models](theories/deep-learning-knowledge-tracing-models.md) — Linked claim from pyKT: A Python library to benchmark deep learning based knowledge tracing models (Liu et al., 2022), doi:10.52202/068431-1347
+* **Claim**: [principles/adaptive-learning](principles/adaptive-learning.md) — Linked claim from pyKT: A Python library to benchmark deep learning based knowledge tracing models (Liu et al., 2022), doi:10.52202/068431-1347
+* **Ingest**: [claims/newer-deep-kt-models-rarely-beat-dkt-standard-protocol](claims/newer-deep-kt-models-rarely-beat-dkt-standard-protocol.md) — pyKT: A Python library to benchmark deep learning based knowledge tracing models (Liu et al., 2022), doi:10.52202/068431-1347
+
 ## 2026-11-04
 
 * **Ingest**: [claims/undocumented-renal-recovery-discharge-gap](claims/undocumented-renal-recovery-discharge-gap.md) — Ingested from pmc-13312666 (Pediatric acute kidney injury in Rwanda: awareness, early detection, and timely management to improve outcomes, a multi-center mixed method study.) via eval_harness.py + ingest_extractions.py

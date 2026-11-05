@@ -5,8 +5,8 @@ description: "The survey reviews deep learning KT in four sub-categories: deep k
 canonical: true
 status: review
 generated:
-  by: claude/unspecified
-  at: 2026-09-24
+  by: "process:article-ingest"
+  at: 2026-11-05
 sources:
   - id: shuanghong-shen-2021
     resource: "https://arxiv.org/abs/2105.15106"
@@ -50,6 +50,7 @@ The survey reviews deep learning KT in four sub-categories: deep knowledge traci
 - [Sequential deep learning models outperform static models for concepts mapped to multiple post-test questions](../claims/sequential-models-outperform-static-multi-question-concepts.md) [+W]
 - [Task-specific hyperparameter optimization substantially raises baseline DKT performance, indicating prior DKT-vs-PKT gaps partly reflect insufficient baseline tuning](../claims/task-specific-hyperparameter-tuning-raises-dkt-baseline.md) [~W]
 - [DKT+ regularization addresses two DKT deficits: failure to reconstruct observed interactions and inconsistent knowledge-state transitions across time steps.](../claims/dkt-plus-regularization-addresses-reconstruction-and-transition-consistency.md) [~W]
+- [Under one standardised evaluation, most deep knowledge-tracing models published after the original DKT do not beat it, and a common KC-level evaluation shortcut inflates reported accuracy](../claims/newer-deep-kt-models-rarely-beat-dkt-standard-protocol.md) [~M] — a benchmark of ten deep models on seven datasets under one protocol
 
 ## The evidence by question
 

@@ -8,8 +8,8 @@ description: "When learners on a cumulative, decomposable task start from differ
 canonical: true
 status: review
 generated:
-  by: claude/unspecified
-  at: 2026-10-15
+  by: "process:article-ingest"
+  at: 2026-11-05
 sources:
   - id: shuanghong-shen-2021
     resource: "https://arxiv.org/abs/2105.15106"
@@ -138,6 +138,7 @@ Re-read 2026-10-15: the claims below were read against the model above and do no
 - [Individual records revealed contrasting specific disabilities within the same pupil across arithmetic operations](../claims/individual-records-specific-disabilities.md) [+W] — attached 2026-10-24 from Buford Johnson (1918), which proposed "Instruction should be devised from elaborated testing built on analysis of individual performance".
 - [Learner models with population-level parameters systematically misestimate the trial of mastery for most students whose learning rates vary](../claims/population-parameters-systematic-mastery-error.md) [+W] — attached 2026-10-27 from Eglington et al. (2022), which proposed "Adaptive instructional systems should include online mechanisms that adjust for systematic learner-model error".
 - [Web-assisted instruction with adaptive LSA modules reduced average error counts in most writing error categories compared to teacher-led instruction alone](../claims/web-assisted-instruction-reduced-writing-errors-business-communication.md) [+W] — attached 2026-11-03 from Austin et al. (2017), which proposed "Assign web-assisted grammar and mechanics modules outside class to free instructional time for higher-level writing strategies"; tests this page's relationship.
+- [Under one standardised evaluation, most deep knowledge-tracing models published after the original DKT do not beat it, and a common KC-level evaluation shortcut inflates reported accuracy](../claims/newer-deep-kt-models-rarely-beat-dkt-standard-protocol.md) [~M] — added 2026-11-05 from Liu et al. (2022): bears on the row on vendor-reported accuracy (check the evaluation protocol, not only the AUC); prediction accuracy only, no learner outcome; not yet read against the model above.
 
 ## Objective and learner-valued goal
 
