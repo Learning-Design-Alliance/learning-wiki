@@ -47,5 +47,5 @@ Subgroup result of the five-week inquiry project: the article reports that the t
 ## Related Claims
 - [All eleven participating first graders gained sight vocabulary, with 89% knowing four or all five taught words at posttest](one-to-one-sight-word-intervention-gains-all-students.md) — a broader claim this one bears on
 - [First graders taught sight words with ASL signs achieved higher posttest accuracy than students taught without ASL](asl-signing-higher-sight-word-posttest-accuracy.md) — related
-- [An ELL student spontaneously signed sight words when seeing them in context, which appeared to support word recognition](spontaneous-signing-in-context-study-aid.md) — related
+- [An ELL student spontaneously signed sight words when seeing them in context, which her intern believed supported word recognition](spontaneous-signing-in-context-study-aid.md) — related
 - [Interns observed extremely high enthusiasm for ASL vocabulary learning, including home practice and increased self-confidence](asl-sight-word-instruction-high-enthusiasm-qualitative.md) — related

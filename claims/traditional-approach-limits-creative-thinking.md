@@ -48,4 +48,4 @@ Authors' interpretation (type e) in the Discussion section, contrasting the trad
 - [Creativity](../learner-variables/creativity.md) — outcome: instruction changes it
 
 ## Related Claims
-- [The article reports that PBL raised the average creative thinking ability of its participants above the control class](pbl-above-control-creative-thinking.md) — related
+- [The article reports that PBL raised average creative thinking ability above a class taught with the ATI model, which it calls the control class](pbl-above-control-creative-thinking.md) — related

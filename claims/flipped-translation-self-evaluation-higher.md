@@ -50,4 +50,4 @@ Questionnaire domain from the 15-minute in-class questionnaire on both classes a
 - [A project-based flipped learning model raised translation competence test scores in a Business English Translation course over one 16-week semester](flipped-translation-competence-posttest-gain.md) — related
 - [Interviewed students in the flipped class reported strong interest and greater initiative, crediting checklists, role division and translation logs](flipped-translation-interview-engagement.md) — related
 - [Out-of-class motivation showed a smaller group difference but greater within-class spread in the flipped class, attributed to client versus translator roles](flipped-translation-out-of-class-motivation-mixed.md) — related
-- [Mastery of translation skills showed little difference between the flipped and traditional classes, suggesting traditional teaching still delivers basic skills effectively](flipped-translation-skills-mastery-small-difference.md) — related
+- [Self-rated mastery of translation skills differed little between the flipped and traditional classes](flipped-translation-skills-mastery-small-difference.md) — related

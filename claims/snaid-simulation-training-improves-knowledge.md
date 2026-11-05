@@ -45,7 +45,7 @@ Quasi-experimental one-group pretest-posttest study of 156 military personnel at
 
 
 ## Related Claims
-- [Simulation-based training with the Snaid® extrication device significantly improves skill, confidence, and comfort among military personnel](snaid-simulation-training-improves-skill-confidence.md) — related
+- [Military personnel's self-rated skill, confidence and comfort with the Snaid® extrication device rose from pre-test to post-test after simulation-based training, in one uncontrolled pre-post study](snaid-simulation-training-improves-skill-confidence.md) — related
 - [Simulation-based training with the Snaid® extrication device significantly improves self-efficacy among military personnel](snaid-simulation-training-improves-self-efficacy.md) — related
 - [Simulation-based training with the Snaid® extrication device significantly reduces extrication time from the Leopard 2E tank](snaid-simulation-training-reduces-extrication-time.md) — related
 - [Ability to teach others, readiness to use, and willingness to recommend the Snaid® extrication device rose from pre-test to post-test after simulation-based training in one uncontrolled pre-post study](snaid-simulation-training-improves-teach-readiness-recommend.md) — related

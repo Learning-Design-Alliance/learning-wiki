@@ -49,5 +49,5 @@ Independent interviews on 10 students from each class, each lasting 5-7 minutes 
 - [Classroom participation was rated significantly higher in the flipped project-based class than in the control class](flipped-translation-classroom-participation-higher.md) — related
 - [Students in the flipped project-based class rated their translation competence self-evaluation higher than control-class students](flipped-translation-self-evaluation-higher.md) — related
 - [Out-of-class motivation showed a smaller group difference but greater within-class spread in the flipped class, attributed to client versus translator roles](flipped-translation-out-of-class-motivation-mixed.md) — related
-- [Mastery of translation skills showed little difference between the flipped and traditional classes, suggesting traditional teaching still delivers basic skills effectively](flipped-translation-skills-mastery-small-difference.md) — related
+- [Self-rated mastery of translation skills differed little between the flipped and traditional classes](flipped-translation-skills-mastery-small-difference.md) — related
 - [After-class reflection in an online discussion forum and group project work supplemented the flipped cycle](after-class-reflection-and-group-projects.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Inquiry-based programme increased informative explorations targeting specific variables (CVS gains)
-description: Inquiry-based programme increased informative explorations targeting specific variables (CVS gains)
+title: "An inquiry-based programme increased children's observed informative explorations targeting specific variables, compared with non-randomised control classes"
+description: "An inquiry-based programme increased children's observed informative explorations targeting specific variables, compared with non-randomised control classes"
 id: inquiry-programme-increases-informative-explorations-cvs
 status: review
 generated:
@@ -21,7 +21,7 @@ sources:
     rigour: 1
 ---
 
-# Inquiry-based programme increased informative explorations targeting specific variables (CVS gains)
+# An inquiry-based programme increased children's observed informative explorations targeting specific variables, compared with non-randomised control classes
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Simulation-based training with the Snaid® extrication device significantly improves skill, confidence, and comfort among military personnel
-description: Simulation-based training with the Snaid® extrication device significantly improves skill, confidence, and comfort among military personnel
+title: "Military personnel's self-rated skill, confidence and comfort with the Snaid® extrication device rose from pre-test to post-test after simulation-based training, in one uncontrolled pre-post study"
+description: "Military personnel's self-rated skill, confidence and comfort with the Snaid® extrication device rose from pre-test to post-test after simulation-based training, in one uncontrolled pre-post study"
 id: snaid-simulation-training-improves-skill-confidence
 status: review
 generated:
@@ -36,7 +36,7 @@ sources:
     rigour: 1
 ---
 
-# Simulation-based training with the Snaid® extrication device significantly improves skill, confidence, and comfort among military personnel
+# Military personnel's self-rated skill, confidence and comfort with the Snaid® extrication device rose from pre-test to post-test after simulation-based training, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r1` · `q2`
@@ -44,9 +44,9 @@ sources:
 > **Design limits** · Segura-Fornieles 2026: the intervention came bundled with another change · Segura-Fornieles 2026 (2): the intervention came bundled with another change · Segura-Fornieles 2026 (3): the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
-`q2 i?` Skill scores improved significantly from pre-test (M = 5.74, SD = 2.19) to post-test (M = 8.67, SD = 1.18) (p < 0.001). [→ Segura-Fornieles 2026](#segura-fornieles-2026)
-`q2 i?` Confidence scores improved significantly from pre-intervention (M = 7.08, SD = 2.16) to post-intervention (M = 8.72, SD = 0.93) (p < 0.001). [→ Segura-Fornieles 2026 (2)](#segura-fornieles-2026-2)
-`q2 i?` Comfort scores improved significantly from pre-test (M = 5.91, SD = 1.59) to post-test (M = 7.58, SD = 1.68) (p < 0.001). [→ Segura-Fornieles 2026 (3)](#segura-fornieles-2026-3)
+`q2 i?` Self-rated skill scores rose significantly from pre-test (M = 5.74, SD = 2.19) to post-test (M = 8.67, SD = 1.18) (p < 0.001). [→ Segura-Fornieles 2026](#segura-fornieles-2026)
+`q2 i?` Self-rated confidence scores rose significantly from pre-intervention (M = 7.08, SD = 2.16) to post-intervention (M = 8.72, SD = 0.93) (p < 0.001). [→ Segura-Fornieles 2026 (2)](#segura-fornieles-2026-2)
+`q2 i?` Self-rated comfort scores rose significantly from pre-test (M = 5.91, SD = 1.59) to post-test (M = 7.58, SD = 1.68) (p < 0.001). [→ Segura-Fornieles 2026 (3)](#segura-fornieles-2026-3)
 
 ## Evidence
 

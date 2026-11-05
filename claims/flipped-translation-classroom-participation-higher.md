@@ -49,4 +49,4 @@ Questionnaire participation domain from the same post-experiment survey of both 
 - [Within the flipped-classroom experimental group, engagement rose significantly from pre-test to post-test on four sub-dimensions and disengagement fell significantly](experimental-group-prepost-engagement-gain.md) — related
 - [A project-based flipped learning model raised translation competence test scores in a Business English Translation course over one 16-week semester](flipped-translation-competence-posttest-gain.md) — related
 - [Interviewed students in the flipped class reported strong interest and greater initiative, crediting checklists, role division and translation logs](flipped-translation-interview-engagement.md) — related
-- [Mastery of translation skills showed little difference between the flipped and traditional classes, suggesting traditional teaching still delivers basic skills effectively](flipped-translation-skills-mastery-small-difference.md) — related
+- [Self-rated mastery of translation skills differed little between the flipped and traditional classes](flipped-translation-skills-mastery-small-difference.md) — related

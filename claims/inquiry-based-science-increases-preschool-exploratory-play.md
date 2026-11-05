@@ -51,4 +51,4 @@ A MANOVA on total explorations (informative plus uninformative) in a quasi-exper
 - [Percentage of uninformative explorations decreased from pre-test to post-test in the intervention group but not controls](inquiry-preschool-science-uninformative-decrease.md) — related
 - [Intervention group showed a significant pre-test to post-test interaction for informative explorations](inquiry-preschool-science-informative-interaction.md) — related
 - [Lower pre-test exploratory levels predicted greater gain scores, with the covariate significantly predicting difference scores](inquiry-preschool-science-pretest-covariate-gain.md) — related
-- [Inquiry-based programme increased informative explorations targeting specific variables (CVS gains)](inquiry-programme-increases-informative-explorations-cvs.md) — related
+- [An inquiry-based programme increased children's observed informative explorations targeting specific variables, compared with non-randomised control classes](inquiry-programme-increases-informative-explorations-cvs.md) — related

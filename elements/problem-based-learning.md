@@ -53,7 +53,7 @@ Problem-based learning, as an element, refers to the use of an authentic or ill-
 - [PBL improves knowledge scores in Chinese physical diagnostics education compared with traditional teaching (SMD = 0.76)](../claims/pbl-knowledge-scores-chinese-physical-diagnostics-meta-analysis.md) [+W]
 - [PBL advantage on knowledge scores holds in the five-year school-system subgroup (SMD = 0.90)](../claims/pbl-knowledge-five-year-system-subgroup.md) [~W]
 - [PBL yields higher course examination pass rates than LBL in introductory Chinese undergraduate medical courses](../claims/pbl-higher-pass-rates-chinese-medical-courses.md) [+W]
-- [The article reports that PBL raised the average creative thinking ability of its participants above the control class](../claims/pbl-above-control-creative-thinking.md) [+W] — attached 2026-11-01 from Maskur et al. (2020), which proposed "Problem Based Learning model as implemented in this study"; tests this page's relationship.
+- [The article reports that PBL raised average creative thinking ability above a class taught with the ATI model, which it calls the control class](../claims/pbl-above-control-creative-thinking.md) [+W] — attached 2026-11-01 from Maskur et al. (2020), which proposed "Problem Based Learning model as implemented in this study"; tests this page's relationship.
 - [PBL scored lower than non-PBL on stimulating students to carry on learning, though not statistically significantly](../claims/pbl-lower-stimulated-carry-on-learning-null.md) [-W]
 - [PBL-DeepSeek students achieve higher theoretical examination scores than traditionally taught students in a glaucoma clerkship](../claims/deepseek-pbl-higher-theory-scores-glaucoma.md) [+W]
 

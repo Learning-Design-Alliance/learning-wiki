@@ -80,7 +80,7 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [In the experimental stage, FCM was implemented with 64 teacher candidates in a pretest–posttest control-group quasi-experimental design](../claims/fcm-experimental-stage-design.md) [+W]
 - [Out-of-class motivation showed a smaller group difference but greater within-class spread in the flipped class, attributed to client versus translator roles](../claims/flipped-translation-out-of-class-motivation-mixed.md) [+W]
 - [Students in the flipped project-based class rated their translation competence self-evaluation higher than control-class students](../claims/flipped-translation-self-evaluation-higher.md) [+W]
-- [Mastery of translation skills showed little difference between the flipped and traditional classes, suggesting traditional teaching still delivers basic skills effectively](../claims/flipped-translation-skills-mastery-small-difference.md) [~M]
+- [Self-rated mastery of translation skills differed little between the flipped and traditional classes](../claims/flipped-translation-skills-mastery-small-difference.md) [~M]
 - [Publication bias checks indicate the positive FCM effect is robust: trim-and-fill estimate 0.21619 and fail-safe number 5725.2](../claims/fcm-meta-publication-bias-robust.md) [+W]
 - [The flipped classroom has two components: direct video instruction outside class and active face-to-face learning inside class](../claims/flipped-classroom-two-components.md) [+W]
 - [Ahmad (2016) identified blended learning, student-centered learning, and active learning as theoretical foundations of the flipped classroom](../claims/flipped-classroom-theoretical-foundations.md) [+W]

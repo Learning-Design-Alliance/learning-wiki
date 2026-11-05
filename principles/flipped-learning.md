@@ -257,7 +257,7 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Class size showed no significant relationship with TPR effect sizes in meta-regression](../claims/tpr-class-size-null-meta-regression.md) [~W]
 - [Interviewed students in the flipped class reported strong interest and greater initiative, crediting checklists, role division and translation logs](../claims/flipped-translation-interview-engagement.md) [+W]
 - [Students in the flipped project-based class rated their translation competence self-evaluation higher than control-class students](../claims/flipped-translation-self-evaluation-higher.md) [+W]
-- [Mastery of translation skills showed little difference between the flipped and traditional classes, suggesting traditional teaching still delivers basic skills effectively](../claims/flipped-translation-skills-mastery-small-difference.md) [~M]
+- [Self-rated mastery of translation skills differed little between the flipped and traditional classes](../claims/flipped-translation-skills-mastery-small-difference.md) [~M]
 - [Class time in the flipped model was devoted to active learning activities rather than lecturing](../claims/flipped-class-time-active-learning-activities.md) [+W]
 - [The flipped classroom has two components: direct video instruction outside class and active face-to-face learning inside class](../claims/flipped-classroom-two-components.md) [+W]
 - [Before-class online quizzes were used to ensure preparation and to launch class discussion](../claims/pre-class-quizzes-launch-discussion.md) [+W]

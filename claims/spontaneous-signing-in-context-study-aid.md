@@ -1,7 +1,7 @@
 ---
 type: claim
-title: An ELL student spontaneously signed sight words when seeing them in context, which appeared to support word recognition
-description: An ELL student spontaneously signed sight words when seeing them in context, which appeared to support word recognition
+title: An ELL student spontaneously signed sight words when seeing them in context, which her intern believed supported word recognition
+description: An ELL student spontaneously signed sight words when seeing them in context, which her intern believed supported word recognition
 id: spontaneous-signing-in-context-study-aid
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# An ELL student spontaneously signed sight words when seeing them in context, which appeared to support word recognition
+# An ELL student spontaneously signed sight words when seeing them in context, which her intern believed supported word recognition
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
