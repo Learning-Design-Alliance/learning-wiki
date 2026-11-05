@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 > **Currency** · newest study 2019 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Ramyar O. Qader and Fadime Yalcin Arslan 2019: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` After an eight-week FCI program, the experimental group's post-test writing mean (6.17) was significantly higher than the control group's (5.31), t=2.013, P=0.048. [→ Ramyar O. Qader and Fadime Yalcin Arslan 2019](#ramyar-o-qader-and-fadime-yalcin-arslan-2019)

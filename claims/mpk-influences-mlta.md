@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Aminah 2018: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` MPK had a significant main effect on MLTA achievement, with MLTA and N-gain increasing across high, medium and low MPK groups in both classes. [→ Aminah 2018](#aminah-2018)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Admiraal 2014: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Repeated measures analyses showed no significant increase in teacher educators' use of the particular assessment procedure in the experimental condition compared to the control condition, and no differences in evaluation (all Fs < 0.25, all ps > .62). [→ Admiraal 2014](#admiraal-2014)

@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2017 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Tongtong Zhang & Zhiwei Wu 2017 (2): the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` Both groups scored significantly higher on the summary-writing post-test than pre-test after 16 weeks of CI training. [→ Tongtong Zhang & Zhiwei Wu 2017](#tongtong-zhang-zhiwei-wu-2017)

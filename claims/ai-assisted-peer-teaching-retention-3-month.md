@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Brini Stefano 2026: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i2` At 3-month follow-up, the AI-assisted group maintained significantly higher knowledge scores (d=0.47), with similar knowledge decay rates between groups. [→ Brini Stefano 2026](#brini-stefano-2026)

@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 2026 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Han Jiang 2026: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i3` Significant Time × Group interactions were observed across all inhibitory control measures with medium-to-large effect sizes, with the NAT group improving while controls remained stable. [→ Han Jiang 2026](#han-jiang-2026)

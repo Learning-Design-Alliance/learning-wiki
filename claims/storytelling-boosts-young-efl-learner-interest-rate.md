@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Farzaneh Kalantari & Mahmood Hashemian 2016: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Teacher-recorded notes showed almost all experimental learners' interest rate rose after storytelling treatment, except three learners who were already highly interested. [→ Farzaneh Kalantari & Mahmood Hashemian 2016](#farzaneh-kalantari-mahmood-hashemian-2016)

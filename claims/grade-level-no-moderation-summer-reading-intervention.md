@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Pagan 2014: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` Grade level did not interact with condition, time, or time and condition, suggesting grade did not moderate children's performance. [→ Pagan 2014](#pagan-2014)

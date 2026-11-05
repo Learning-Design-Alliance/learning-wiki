@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Chang Peng Kee 2013: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q1 i?` Survey responses after intervention were almost all positive, with students finding the activities interesting and understanding-enhancing. [→ Chang Peng Kee 2013](#chang-peng-kee-2013)

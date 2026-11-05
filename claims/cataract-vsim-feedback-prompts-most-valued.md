@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Xiang Xiaoli 2026: no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` "Immediate feedback on incorrect operations" (74.2%) and "surgical procedure prompts" (71.0%) were the most frequently selected learning resources. [→ Xiang Xiaoli 2026](#xiang-xiaoli-2026)

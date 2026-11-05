@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
+> **Design limits** · Yakmaci-Guzel 2013: the intervention came bundled with another change · Yakmaci-Guzel 2013 (2): the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Inappropriate classifications of physical composition were numerous at pretest (n=45), decreased to n=34 at posttest, but increased again to n=40 at delayed posttest. [→ Yakmaci-Guzel 2013](#yakmaci-guzel-2013)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Amini Mahtab 2026: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` The CBL group improved significantly between Test 1 and Test 3, and the GBL group improved significantly between Test 1 and Test 3 and between Test 2 and Test 3. [→ Amini Mahtab 2026](#amini-mahtab-2026)

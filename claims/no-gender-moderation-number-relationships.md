@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Jung 2013: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` Neither the main effect of gender nor the Treatment × Gender interaction on posttest scores was statistically significant. [→ Jung 2013](#jung-2013)

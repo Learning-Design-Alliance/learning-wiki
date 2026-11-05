@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Mohammadzadeh 2018: the intervention came bundled with another change · Mohammadzadeh 2018 (2): the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Repeated-measures ANOVA showed mean speaking performance differed significantly across time points for both experimental groups. [→ Mohammadzadeh 2018](#mohammadzadeh-2018)

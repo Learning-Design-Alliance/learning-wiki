@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2018 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Onder Sensoy 2018: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` After the 14-week intervention, the experimental group's self-efficacy posttest mean was significantly higher than the control group's (t(63)=3.162; p=.002). [→ Onder Sensoy 2018](#onder-sensoy-2018)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Hassan et al. 2014: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` The MALQ total scores did not differ significantly between the online learning and traditional classroom groups, though the type of strategy items used most often differed. [→ Hassan et al. 2014](#hassan-et-al-2014)

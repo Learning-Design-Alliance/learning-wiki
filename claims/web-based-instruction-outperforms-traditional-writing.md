@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Maryam Soleimani & Shima Gahhari 2012: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` After six months, the web-based group significantly outperformed the traditional group on the writing post-test (M 31.10 vs 16.95). [→ Maryam Soleimani & Shima Gahhari 2012](#maryam-soleimani-shima-gahhari-2012)

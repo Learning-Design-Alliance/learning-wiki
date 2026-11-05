@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i0`–`i3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Balaman 2018: groups were assigned but students were analysed as independent · Balaman 2018 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i0` At the beginning of the experiment the groups' pre-test results were not statistically significant (F(1, 41) = 0.34, p = .855, partial η2 = .001). [→ Balaman 2018](#balaman-2018)

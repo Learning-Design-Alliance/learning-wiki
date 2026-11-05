@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Schmidt 2014 (2): the intervention came bundled with another change (Existing courses and students’ own video projects) (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Average scores on the adapted Ashley, Maksl, and Craft media literacy knowledge scale improved significantly from pretest to posttest (p < .001, two-tailed). [→ Schmidt 2014](#schmidt-2014)

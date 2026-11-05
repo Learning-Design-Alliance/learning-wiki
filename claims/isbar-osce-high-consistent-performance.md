@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Sun Jui-Chiung 2026: no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` After the intervention, students' mean OSCE scores were high and similar across the two obstetric handover stations. [→ Sun Jui-Chiung 2026](#sun-jui-chiung-2026)

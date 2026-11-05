@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Mária Ganajová 2021: groups were assigned but students were analysed as independent · Mária Ganajová 2021 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` Two-factor ANOVA found no statistically significant gender difference in pre-test (p=.165) or post-test (p=.088) inquiry scores, and no gender × overall-assessment interaction (post-test p=.920). [→ Mária Ganajová 2021](#maria-ganajova-2021)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Wiboonwachara 2022: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` After eight weeks of GBSRI, participants' overall writing ability mean score rose from 16.89 to 26.53 out of 40, a statistically significant difference (p < 0.05). [→ Wiboonwachara 2022](#wiboonwachara-2022)

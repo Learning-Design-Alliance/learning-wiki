@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
 > **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Jorczak and Dupuis 2011: no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i2` The correlation between exam scores and total course points earned in learning activities (excluding online discussion participation points) was r = 0.30 (p = .01), which the authors call surprisingly weak. [→ Jorczak and Dupuis 2011](#jorczak-and-dupuis-2011)

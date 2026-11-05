@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Töpfer J 2026: the intervention came bundled with another change · Töpfer J 2026 (2): the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` In theoretical understanding, the mean absolute gain was 1.41 for narrative communication scales versus 2.81 for managing digital innovations scales. [→ Töpfer J 2026](#topfer-j-2026)

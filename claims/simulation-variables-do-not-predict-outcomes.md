@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Cecil Julia 2026: no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` In exploratory multiple linear regressions, none of the simulation-related variables significantly predicted changes in competence, self-efficacy, knowledge, or insecurity. [→ Cecil Julia 2026](#cecil-julia-2026)

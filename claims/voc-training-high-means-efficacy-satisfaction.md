@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Cate 2015: no comparison group · Cate 2015 (2): no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` All measures of means efficacy were high, with participants rating the training as useful, well constructed, easy to use, and likely to help with students in psychological distress. [→ Cate 2015](#cate-2015)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Zennure Elgün Gündüz 2016: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` The experimental group's paired pre-post writing score difference was significant (p<.05), with means rising from 31.48 to 51.80. [→ Zennure Elgün Gündüz 2016](#zennure-elgun-gunduz-2016)

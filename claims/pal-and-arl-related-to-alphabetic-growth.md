@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Roberts et al. 2018: no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` Growth in paired-associate learning and articulation-referencing learning was related to growth in alphabet learning outcomes. [→ Roberts et al. 2018](#roberts-et-al-2018)

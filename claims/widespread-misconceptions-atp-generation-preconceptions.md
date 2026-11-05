@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
+> **Design limits** · Jena 2015: no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` 88% of students showed different types of misconceptions rooted in preconceptions derived from everyday experiences. [→ Jena 2015](#jena-2015)

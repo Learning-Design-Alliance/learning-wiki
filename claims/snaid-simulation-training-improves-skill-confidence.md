@@ -41,6 +41,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Segura-Fornieles 2026: the intervention came bundled with another change · Segura-Fornieles 2026 (2): the intervention came bundled with another change · Segura-Fornieles 2026 (3): the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Skill scores improved significantly from pre-test (M = 5.74, SD = 2.19) to post-test (M = 8.67, SD = 1.18) (p < 0.001). [→ Segura-Fornieles 2026](#segura-fornieles-2026)

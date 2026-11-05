@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Steegen 2018: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` Post-hoc analysis indicated that the learning effect as measured by the gain scores was lower for the tablet lecture than for the lecture with experiments (p=0.035) and lower than for the traditional lecture (p=0.001). [→ Steegen 2018](#steegen-2018)

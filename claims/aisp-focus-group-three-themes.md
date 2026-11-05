@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Kridipaka S 2026: no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Thematic analysis of focus groups yielded three themes: structured practice and feedback supported skill development; realism was sufficient for cognitive rehearsal but limited interpersonally; and students recommended broader case variation and curriculum integration. [→ Kridipaka S 2026](#kridipaka-s-2026)

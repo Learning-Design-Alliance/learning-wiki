@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Shafiee et al. 2015: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i3` Experimental groups taught prewriting strategies (freewriting, brainstorming, listing, clustering, wh-questions) produced significantly more idea units on the posttest than the control group, with eta squared = .31. [→ Shafiee et al. 2015](#shafiee-et-al-2015)

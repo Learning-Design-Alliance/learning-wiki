@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Al-Hajaya 2012: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Neither reading nor writing achievement differed significantly by gender, nor by the interaction of gender and teaching method. [→ Al-Hajaya 2012](#al-hajaya-2012)

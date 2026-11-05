@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
 > **Currency** · newest study 2016 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Dejonckheere 2016: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i2` Experimental children executed significantly more informative explorations of orientation, position, or other variables than controls (main effect of group, partial η² = 0.13), with a significant pretest/post-test × group interaction (F(1, 52) = 31.58; no effect size reported for the interaction). [→ Dejonckheere 2016](#dejonckheere-2016)

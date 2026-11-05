@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
 > **Currency** · newest study 2026 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Cheng 2026: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Graduate students' collaborative knowledge construction with generative AI was of higher quality after a role-based intervention than before it; the abstract reports no comparison group. [→ Cheng 2026](#cheng-2026)

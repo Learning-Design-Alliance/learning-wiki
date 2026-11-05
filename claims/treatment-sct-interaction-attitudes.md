@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Awofala 2013: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` The interaction of treatment and style of categorisation significantly affected students' attitudes toward mathematics, with field independent students showing stronger attitudes in learner-centred strategies and field dependent students showing stronger attitudes in the traditional method. [→ Awofala 2013](#awofala-2013)

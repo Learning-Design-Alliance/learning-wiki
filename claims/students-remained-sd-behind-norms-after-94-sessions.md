@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Al Otaiba 2018: no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` After participating in an average of 94 small-group intervention sessions, students' spring reading comprehension remained roughly one SD below norms, with negligible change in word reading. [→ Al Otaiba 2018](#al-otaiba-2018)

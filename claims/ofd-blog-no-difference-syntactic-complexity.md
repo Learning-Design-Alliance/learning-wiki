@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Jayaron Jose & Mohammed Jafre Zainol Abidin 2016: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Post-test syntactic complexity did not differ significantly (OFD M = 0.70 vs blog M = 0.66; t(54) = 1.22, p = 0.21). [→ Jayaron Jose & Mohammed Jafre Zainol Abidin 2016](#jayaron-jose-mohammed-jafre-zainol-abidin-2016)

@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Andi Tenri Ampa 2015: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Posttest listening scores of the experimental group taught with interactive multimedia materials were significantly higher than those of the control group taught with audio materials (t-cal 5.583 > t-table 2.000, df 70). [→ Andi Tenri Ampa 2015](#andi-tenri-ampa-2015)

@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2015 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Booth 2015: the intervention came bundled with another change (self-explanation prompts and both correct and incorrect worked examples) (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` The condition-by-pretest interaction was significant, such that low prior knowledge students improved more in the treatment condition. [→ Booth 2015](#booth-2015)

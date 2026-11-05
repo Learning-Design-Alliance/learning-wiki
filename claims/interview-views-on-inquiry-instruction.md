@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Ceylan ŞEN 2016: no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q1 i?` Participants described inquiry-based laboratory work as more fun, more active, and producing more permanent learning, but also tiring and time-consuming with difficulty accessing reliable resources. [→ Ceylan ŞEN 2016](#ceylan-sen-2016)

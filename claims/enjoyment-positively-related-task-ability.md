@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Wongpinunwatana 2013: no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Simple regression showed a positive relationship between perceived enjoyment and perceived ability to perform tasks (F=17.281, p=0.000, R2=0.191). [→ Wongpinunwatana 2013](#wongpinunwatana-2013)

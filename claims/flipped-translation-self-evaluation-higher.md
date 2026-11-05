@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Deng 2018: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` The experimental class mean self-evaluation of translation competence was 4.40 (SD 0.29) versus 3.76 (SD 0.56) in the control class. [→ Deng 2018](#deng-2018)

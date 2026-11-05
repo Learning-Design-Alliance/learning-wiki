@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 > **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Kocakulah and Kural 2010 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Experimental-group interviewees articulated the role of path difference in bright and dark fringe formation. [→ Kocakulah and Kural 2010](#kocakulah-and-kural-2010)

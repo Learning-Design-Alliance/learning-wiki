@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Pečjak and Pirc 2018: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i3` In the EG, MKR was an additional significant predictor of follow-up summarizing (β = .24), and Summ_2 was the strongest predictor (β = .39 EG, β = .52 CG). [→ Pečjak and Pirc 2018](#pecjak-and-pirc-2018)

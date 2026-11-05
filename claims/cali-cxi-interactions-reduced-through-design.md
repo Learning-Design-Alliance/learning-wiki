@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
 > **Currency** · newest study 2017 · checked against its sources 2026-10-24 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Dombek 2017: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` In the fourth design iteration, CALI showed strong pre-post unit test effects (d = .86) with no significant CXI interactions. [→ Dombek 2017](#dombek-2017)

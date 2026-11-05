@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Deng 2018: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` The mastery-of-translation-skills domain showed close means (3.86 experimental, 3.76 control), which the article reads as traditional teaching still working well for basic knowledge and skills. [→ Deng 2018](#deng-2018)

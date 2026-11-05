@@ -35,6 +35,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2014 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2017**: local conditions change quickly
+> **Design limits** · National Foundation for Educational Research (NFER) 2014: no comparison group · National Foundation for Educational Research (NFER) 2014 (2): no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Very few interviewees reported learners receiving the intended two 15-minute sessions each week, with pupil and staff absences and scheduling cited as causes. [→ National Foundation for Educational Research (NFER) 2014](#national-foundation-for-educational-research-nfer-2014)

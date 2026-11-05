@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3`
 > **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Stephens 2011: the intervention came bundled with another change; groups were assigned but students were analysed as independent · Stephens 2011 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` No students wrote a correct symbolic functional rule at pretest, but experimental students improved substantially, with over 30% of fourth graders and almost half of fifth graders producing correct symbolic rules at posttest. [→ Stephens 2011](#stephens-2011)

@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i2` medium
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Sarı et al. 2017 (2): the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` Supported students' posttest scores were significantly higher than not-supported controls (p = 0.001); no effect size is printed for this posttest comparison. [→ Sarı et al. 2017](#sar-et-al-2017)

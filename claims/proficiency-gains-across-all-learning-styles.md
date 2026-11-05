@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Orawiwatnakul 2011: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` BA students in all four learning styles (activist, pragmatist, theorist, reflector) improved mean scores significantly. [→ Orawiwatnakul 2011](#orawiwatnakul-2011)

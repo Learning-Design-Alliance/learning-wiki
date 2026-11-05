@@ -41,6 +41,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Alsamani and Daif-Allah 2016: the intervention came bundled with another change; groups were assigned but students were analysed as independent · Alsamani and Daif-Allah 2016 (2): the intervention came bundled with another change; groups were assigned but students were analysed as independent · Alsamani and Daif-Allah 2016 (3): the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` The experimental group scored significantly higher than the control group on the post-test of specialization-related vocabulary (29.58 vs 12.79), t(84)=15.89, significant at 0.01. [→ Alsamani and Daif-Allah 2016](#alsamani-and-daif-allah-2016)
