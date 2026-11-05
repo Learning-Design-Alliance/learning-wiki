@@ -51,7 +51,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 4 studies · 3 quant-synthesis `r2`, 1 review `r2` · `q2`–`q3` · `i2`–`i3`
-> **Currency** · newest study 2023 · 1 of 4 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 <!-- title before 2026-10-15: Incidental Vocabulary Exposure Limited -->
 

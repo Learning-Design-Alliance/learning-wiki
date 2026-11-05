@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 116 claims (83 for, 30 mixed, 3 against) · 79 studies (27 associational, 19 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 19 of 79 report an effect size · 110 claims rest on one study
+> **Evidence** · 118 claims (85 for, 30 mixed, 3 against) · 80 studies (28 associational, 19 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 design, 1 qualitative), `q1`–`q4` · 19 of 80 report an effect size · 112 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -172,6 +172,8 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Family satisfaction partially mediates the association between family structure and autonomous motivation and academic achievement](../claims/family-satisfaction-partial-mediator-family-structure-achievement.md) [~W]
 - [Self-directed learning ability and autonomous motivation each significantly and partially mediate the effect of flipped classroom on physical activity.](../claims/sdl-and-am-partially-mediate-fc-pa.md) [+W]
 - [A chained indirect effect through self-directed learning ability then autonomous motivation significantly transmits the flipped classroom effect on physical activity.](../claims/chained-sdl-then-am-indirect-effect.md) [+W]
+- [Positive academic emotions mediate most of the association between autonomy-supportive teaching and agentic engagement](../claims/pae-mediate-ast-agentic-engagement.md) [+M] — attached 2026-11-04 from Gan Lingling et al. (2026), which proposed "Integrated SDT–CVT motivational–affective framework for agentic engagement".
+- [Perceived autonomy-supportive teaching is positively associated with agentic engagement among Chinese university EFL learners](../claims/ast-associated-agentic-engagement-efl.md) [+M] — attached 2026-11-04 from Gan Lingling et al. (2026), which proposed "Integrated SDT–CVT motivational–affective framework for agentic engagement".
 
 ## The evidence by question
 

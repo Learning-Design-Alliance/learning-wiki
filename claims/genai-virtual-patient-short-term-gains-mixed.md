@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: mixed
 newest_evidence: 2026
-source_checked: 2026-10-16
+source_checked: 2026-11-05
 sources:
   - id: zhao-j-2026
     resource: "https://doi.org/10.3389/feduc.2026.1907589"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-16 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Several controlled studies reported short-term objective gains for history taking, communication, and OSCE practice with GenAI patients. [→ Zhao J 2026](#zhao-j-2026)
@@ -149,3 +149,6 @@ The review reports countervailing findings in the same category, including that 
 - [LLM integration into virtual patient scenarios enables realistic, context-sensitive medical interviews in a metaverse environment](llm-virtual-patient-realistic-interviews.md) — related
 - [The metaverse environment enables delivery of consistent and reproducible scenarios supporting objective assessment of communication and diagnostic reasoning skills](metaverse-consistent-reproducible-scenarios.md) — related
 - [OSCE results validate improvements in technical accuracy and patient communication after training](osce-validates-bpm-skill-improvement.md) — related
+- [The evidence base for AI-assisted formative assessment is promising but uneven, concentrated in short-term single-setting studies](ai-formative-assessment-evidence-uneven-early.md) — a broader claim this one bears on
+- [Undergraduate dental students report high satisfaction and self-confidence in simulation-based clinical decision-making training using LLM-based standardized virtual patients](dental-students-high-satisfaction-llm-virtual-patients.md) — a narrower finding that bears on this claim
+- [LLM-based standardized virtual patient responses are largely authentic in dental history-taking simulations](llm-virtual-patients-largely-authentic-dialogue.md) — related

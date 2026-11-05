@@ -51,3 +51,4 @@ Fisher exact test on the Distinction (A) grade band for 522 traditional and 635 
 - [Probability of failing is higher under traditional methodology](traditional-methodology-higher-failure-probability.md) — related
 - [Cohorts taught with the flipped classroom earned significantly higher average grades than earlier cohorts taught traditionally, in a non-equivalent-groups comparison](flipped-classroom-higher-grades-than-traditional.md) — related
 - [Teaching resources used within the flipped classroom years do not affect average grades, except for the year with reduced technology access](flipped-resources-no-effect-except-technology-classroom-year.md) — related
+- [Students achieving an A grade accessed e-modules on more days than B–C and D–F bands, and accessed them earlier than the B–C band](grade-band-regularity-timeliness-association.md) — related

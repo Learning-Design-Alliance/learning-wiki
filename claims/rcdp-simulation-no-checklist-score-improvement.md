@@ -50,3 +50,4 @@ Checklist scores in the same 46-participant pilot showed no statistically signif
 - [At one-month follow-up the experimental group outperformed controls on six specific checklist tasks](modified-peyton-six-checklist-tasks-retention.md) — related
 - [Turret position moderates specific checklist items at post-test, favoring turret 12](snaid-turret-position-checklist-items.md) — related
 - [Only a minority of residents achieved dual proficiency (GRS ≥4 plus complete checklist) for either procedure](dual-proficiency-grs-checklist-minority.md) — related
+- [The one-step checklist item for checking chest expansion showed no statistically significant change from pre-test to post-test in one group after training, with no comparison group](chest-expansion-check-not-significant.md) — a narrower finding that bears on this claim

@@ -55,3 +55,5 @@ Review synthesis reporting that "Internet access was identified as a barrier in 
 - [Infrastructure and access constraints were reported in 18 of 54 studies (33%) as the second higher-order technical limitation category](infrastructure-access-constraints-ai-efl.md) — related
 - [Technological prerequisites such as internet access and device availability were identified only by the South African panel, with equity of education as a distal outcome](technological-prerequisites-south-african-panel-equity.md) — related
 - [Caregivers with low confidence in their own health are more likely to seek health information online](low-health-confidence-increases-information-seeking.md) — related
+- [Internet is the primary source of vaccine information for most NICU parents](internet-primary-vaccine-information-source-nicu-parents.md) — related
+- [All NICU parents in the sample were willing to receive structured, evidence-based vaccine information](parents-willing-receive-structured-vaccine-information.md) — related

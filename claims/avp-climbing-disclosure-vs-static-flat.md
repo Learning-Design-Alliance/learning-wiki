@@ -57,3 +57,4 @@ Within-subjects evaluation (20 clinicians and trainees, 80 sessions, 1,033 turns
 - [Expert evaluation found the virtual patient realistic and immediate ACT feedback increased therapists' awareness of intervention choices](expert-evaluation-realism-and-feedback-awareness.md) — related
 - [LLM coders replicate many human discursive moves but lack questioning, adaptive responsiveness, and emotional expressiveness](claim-llms-replicate-discursive-moves-lack-questioning.md)
 - [Reviewed GenAI virtual patients show underdeveloped emotional-behavioral complexity, limited adaptability beyond dialog, and no memory across interactions](genai-vp-emotional-complexity-and-memory-limitations.md) — related
+- [Coherence is the weakest Dialogue Authenticity Scale dimension for LLM-based virtual patients, compromised by limited inferential reasoning and role-constraint violations](coherence-weakest-dimension-limited-inferential-reasoning.md) — related

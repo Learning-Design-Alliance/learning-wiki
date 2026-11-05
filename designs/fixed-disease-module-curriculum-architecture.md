@@ -45,6 +45,8 @@ The curriculum was designed backward from core clinical tasks rather than lectur
 ## Related Designs
 
 - [The integrated NM-PAL curriculum pattern: five synergistic modules combining narrative cases with small-group peer mentoring](nm-pal-five-module-curriculum-pattern.md)
+- [CBE-MDT rotation model combining weekly multidisciplinary sessions, simulation modules, and continuous formative assessment](cbe-mdt-radiation-oncology-rotation-pattern.md)
+- [Small-group simulation with peer-assisted learning for delineation training](small-group-pal-simulation-delineation.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Qualitative checklist-component result from the same cohort; the article reports
 - [Supporting evidence is unevenly distributed across the eight clinical teaching models, with OMP and SNAPPS the most extensively studied](omp-snapps-most-studied.md) — a broader claim this one bears on
 - [A JBI-guided scoping review identified eight structured clinical teaching models for healthcare trainees published between 2000 and 2025, from 26 included articles](eight-clinical-teaching-models-mapped.md) — a broader claim this one bears on
 - [Both GGR and SNAPPS significantly improve overall clinical reasoning scores in final-year MBBS students (p<0.001)](ggr-snapps-both-improve-clinical-reasoning.md) — related
+- [All but one of five studies reporting resident confidence before and after an educational intervention reported increased resident confidence.](rhinoplasty-education-interventions-increase-resident-confidence.md) — a broader claim this one bears on

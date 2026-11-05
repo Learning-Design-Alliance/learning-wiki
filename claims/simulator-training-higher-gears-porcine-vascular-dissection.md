@@ -50,3 +50,4 @@ Prospective, controlled, non-randomized feasibility study of 12 novice robotic s
 - [Trained participants show safer tissue handling, more consistent vessel exposure, and improved stapler positioning in qualitative blinded assessment](qualitative-safer-tissue-handling-trained-group.md) — a narrower finding that bears on this claim
 - [Independent samples t-test shows significantly higher GEARS scores for XR-trained novices versus no additional training](t-test-gears-xr-significantly-higher-than-no-training.md) — related
 - [Consultant paediatric surgeons showed a significant overall reduction in operative time after a 12-week porcine-model laparoscopic training programme](porcine-model-training-reduces-operative-time-consultants.md) — related
+- [The K technique exercise stimulates five of six GEARS skill domains](k-technique-stimulates-five-gears-domains.md) — related

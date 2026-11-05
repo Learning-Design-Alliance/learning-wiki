@@ -47,3 +47,4 @@ Qualitative descriptive study with four focus groups (n = 17) at one Palestinian
 ## Related Claims
 - [Case-based discussion is the most commonly used learning activity type in interprofessional education for undergraduate healthcare students](cbd-most-common-ipe-activity.md) — related
 - [Problem-based learning, case-based learning, small group discussion, flipped learning, and blended learning were the most common online active learning strategies employed.](oal-dental-education-common-strategies.md) — related
+- [Nursing students use peer support, effective communication, knowledge-seeking, nurse support and self-affirmation as coping strategies](coping-strategies-peer-support-self-affirmation.md) — related

@@ -68,3 +68,4 @@ Supplementary moderation analysis treating digital readiness as continuous, cond
 - [Lower extraneous cognitive load is associated with greater flow experience, and greater flow with higher learning engagement](load-flow-engagement-associations-nursing-simulation.md) — a broader claim this one bears on
 - [Structural paths did not differ significantly across AI usage-frequency groups, though exploratory coefficients varied numerically](no-significant-path-differences-across-usage-frequency-groups.md) — related
 - [A sequential indirect association runs from usability through extraneous load and flow to engagement](sequential-indirect-association-usability-load-flow-engagement.md) — related
+- [Subjective cognitive load is negatively correlated with achievement scores in nursing digital learning](negative-correlation-cognitive-load-achievement.md) — related

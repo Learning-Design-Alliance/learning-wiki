@@ -48,3 +48,4 @@ In the same census survey of 46 final-year dental students, the lowest mean conf
 - [Final-year dental students report high self-perceived confidence in routine pediatric procedures such as fissure sealant application and oral hygiene instruction.](final-year-dental-students-high-confidence-routine-pediatric-procedures.md) — related
 - [Exploratory gender differences in confidence for three procedures were not statistically significant after Holm adjustment for multiple comparisons.](gender-confidence-differences-nonsignificant-after-holm-adjustment.md) — related
 - [Students report increased self-perceived confidence following the pediatric dentistry internship.](students-report-increased-confidence-following-pediatric-dentistry-internship.md) — related
+- [Dental students' self-confidence declines during clinical internship for rubber dam application, flare-up management, and non-vital bleaching](dental-confidence-declines-rubber-dam-flareup-bleaching.md) — related

@@ -41,6 +41,7 @@ As a future research and design recommendation, the article proposes building a 
 
 - [Use shallow-learning detectors to route students to conceptual-grounding remediation and real-time metacognitive feedback](shallow-detector-remediation-strategy.md)
 - [Use advanced immersive learning technologies as research and learning tools to deliver developmentally-appropriate metacognitive scaffolding](immersive-tech-metacognitive-scaffolding-strategy.md)
+- [Leverage artificial intelligence and software technologies to further improve rhinoplasty education.](ai-software-technologies-rhinoplasty-education-strategy.md)
 
 ## Examples
 -

@@ -65,3 +65,4 @@ MANOVA by gender (831 female, 578 male). Table 9 shows PGO F=5,76, p=,01, while 
 - [No significant gender differences were found on any model variable](no-gender-differences-model-variables.md) — reports the opposite
 - [Students' perceptions of university lectures are significantly below neutral, with female students rating lectures more positively than males](ul-perceptions-below-neutral-females-higher.md) — related
 - [Gender, degree type, and personality show differential associations with course outcome dimensions](demographic-differences-course-dimensions.md) — related
+- [Male students reported higher confidence than female students despite no performance difference](male-students-report-higher-confidence-no-performance-difference.md) — related

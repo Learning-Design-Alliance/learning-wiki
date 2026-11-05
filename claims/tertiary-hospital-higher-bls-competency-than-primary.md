@@ -73,3 +73,5 @@ Multivariable linear regression for total BLS knowledge score. The article repor
 - [Nurses in tertiary hospitals scored higher on PICC care knowledge than nurses in secondary/primary hospitals](tertiary-hospital-nurses-higher-picc-knowledge.md) — related
 - [Providers working in District Hospitals/Medical Centers had higher odds of good partograph knowledge than those in Health Centers](district-hospital-higher-odds-partograph-knowledge.md) — related
 - [Hospital grade, job position, work experience, and teaching experience distinguish core competence levels](demographic-factors-core-competence-nurses.md) — related
+- [Research participation is significantly positively associated with job competency among public health students after propensity score matching](research-participation-associated-with-job-competency-public-health-students.md) — related
+- [Nurses' working experience is associated with AI competence; other demographics show no significant association](working-experience-associated-with-aic-nurses.md) — related

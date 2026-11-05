@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2018
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: vincy-2018
     resource: "https://doi.org/10.26634/jelt.8.2.14155"
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · n=30
-> **Currency** · newest study 2018 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students randomly selected into a lesson with explicit instruction and an intentional learning environment outperformed those taught the same lesson by another teacher, whose vocabulary teaching is not described, on the self-report VKS receptive test (t = 5.279, two-tail p = 0.00001). [→ Vincy 2018](#vincy-2018)

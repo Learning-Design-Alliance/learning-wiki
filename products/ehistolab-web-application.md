@@ -26,7 +26,9 @@ eHistoLab is a bilingual mobile/web virtual microscopy platform developed by Shi
 - [Most students preferred virtual microscopy over recorded e-lecturing for learning histology and reported higher motivation with it](../claims/students-prefer-virtual-microscopy-histology.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [University of Leeds Virtual Pathology website](university-of-leeds-virtual-pathology-website.md)
+- [PathPresenter](pathpresenter.md)
 
 ## Key Sources
 - Poorhassan M, Hooshmandja M, Karimian Z, Seifali E. (2026). Enhancing histology education: Iranian medical students’ experience with eHistoLab web-application virtual microscopy. BMC Medical Education. https://doi.org/10.1186/s12909-026-09829-w

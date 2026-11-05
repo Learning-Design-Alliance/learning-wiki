@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2`–`r3` · `q3` · `i1` small
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` KOKU was associated with an adjusted incremental fall-related cost of −£59.81 (95% CI −£215.37 to £43.39, not significant) and an average incremental QALY gain of 0.020 (95% CI 0.004 to 0.033, significant), making it dominant. [→ French Chloe 2026](#french-chloe-2026)

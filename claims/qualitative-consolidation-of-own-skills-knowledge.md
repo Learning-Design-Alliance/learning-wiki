@@ -46,3 +46,4 @@ Qualitative analysis of open-ended questionnaire responses, grouped into themes 
 
 ## Related Claims
 - [Final year paramedic students who participated as peer teachers in a pilot PAL program obtained higher final clinical examination marks than randomly selected non-PAL peers in both 2011 and 2012](pal-peer-teachers-higher-clinical-exam-marks-paramedic.md) — related
+- [Repetitive delivery of similar teaching sessions consolidated peer teachers' anatomical knowledge](anatomy-ems-repetition-consolidates-knowledge.md) — related

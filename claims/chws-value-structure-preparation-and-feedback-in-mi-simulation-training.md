@@ -53,3 +53,4 @@ Inductive grounded-theory coding of open-ended survey responses from CHW trainee
 - [Simulation-based MI training significantly improves CHW trainees' confidence in using culturally appropriate resources to combat health misinformation](simulation-mi-training-increases-chw-confidence-combatting-misinformation.md) — related
 - [Simulation-based MI training significantly improves CHW trainees' confidence in engaging in conversations with individuals holding differing opinions](simulation-mi-training-increases-chw-confidence-engaging-differing-opinions.md) — related
 - [Feedback facilitators such as faculty coaches can increase trainee receptivity to patient feedback](feedback-facilitators-increase-receptivity.md) — related
+- [Facilitator role and quality of structured debriefing are critical determinants of nursing students' satisfaction with simulation-based BLS training](simulation-bls-facilitator-debriefing-quality.md) — related

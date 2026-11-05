@@ -53,3 +53,4 @@ In this single-center parallel-group RCT, 20 medical interns were randomized 1:1
 - [The VR group scored significantly lower than controls at week 2, reflecting an initial learning curve with the VR system](vr-initial-learning-curve-week-2.md) — related
 - [Virtual simulations and mannequins or real persons show no significant difference in improving knowledge in medical and nursing education](vs-mannequin-rp-no-difference-knowledge.md) — related
 - [Virtual patients more effectively improve skills than traditional education (pooled SMD=0.90)](vp-traditional-skills-advantage.md) — a broader claim this one bears on
+- [VR group showed numerically greater ATLS performance gains than the mannequin group in exploratory comparison](vr-eye-tracking-greater-atls-gains-pilot.md) — related

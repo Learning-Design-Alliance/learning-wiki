@@ -53,3 +53,4 @@ Correlational analysis preceding the ANOVAs in the same quasi-experiment. The ar
 - [Assignment to the arousal condition correlates significantly but weakly with exam score (r = 0.176) in a correlation matrix of 846 students](arousal-condition-exam-score-correlation.md) — related
 - [Students' conceptual understanding and motivation correlate moderately (score correlation 0.46) when learning the Solar System with PhET simulation](phet-understanding-motivation-correlation.md) — related
 - [Sepsis knowledge correlates only weakly with self-rated confidence (r = .213)](weak-knowledge-confidence-correlation-sepsis.md) — related
+- [Knowledge scores from the video-and-MCQ phase showed no significant relationship with pre-practice rubric scores (r = 0.052, p = 0.827)](sbml-mcq-knowledge-no-rubric-correlation.md) — related

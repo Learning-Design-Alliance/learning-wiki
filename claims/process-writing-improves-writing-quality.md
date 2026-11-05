@@ -9,7 +9,7 @@ id: process-writing-improves-writing-quality
 aliases: [process-writing-instruction-improves-writing-quality]
 evidence_strength: low
 newest_evidence: 2011
-source_checked: 2026-10-07
+source_checked: 2026-11-05
 sources:
   - id: graham-and-sandmel-2011
     resource: "https://doi.org/10.1080/00220671.2010.488703"
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q4` · `i1` small · n=29 studies (grades 1-12)
-> **Currency** · newest study 2011 · checked against its sources 2026-10-07 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 Teaching writing as a recursive process — planning, drafting, revising, and editing with explicit strategy instruction and peer/teacher feedback — produces stronger written compositions than traditional focus on grammar and product alone.
 

@@ -56,3 +56,4 @@ Conceptual analysis in Phase 2 (instrumentation and measurement), applying Chang
 - Formalisation of theory offers generative models, counterfactual reasoning, and optimal-performance yardsticks unavailable to verbal accounts — related
 - [AI systems relying on black-box models should not be used for high-stakes applications](black-box-ai-not-for-high-stakes-applications.md) — related
 - [Cognitive process inference in computerized testing rarely rests on strong process data](weak-process-data-in-computerized-testing.md) — related
+- [Automation bias and metric gaming may create a hidden curriculum in which machine-measurable performance is mistaken for professional competence](automation-bias-metric-gaming-hidden-curriculum.md) — related

@@ -67,3 +67,4 @@ The article argues from its literature synthesis, citing established digital-ine
 - [Digital learning environments during the pandemic raise implications for addressing social inequities and education policy reform](digital-environments-social-inequities-policy-reform.md) — related
 - [In Higher Education, disciplinary culture and context, together with technology, shape pedagogical practice and the digital capabilities teachers need](disciplinary-culture-shapes-he-digital-capabilities.md) — related
 - [The review finds digital environments produce disparate, even counterproductive effects during abrupt transitions and in low-resource communities](abrupt-transition-disparate-counterproductive-effects.md) — related
+- [Institutional inequity and data governance gaps may widen existing disparities and compromise privacy without explicit safeguards](ai-formative-assessment-equity-data-governance-risk.md) — related

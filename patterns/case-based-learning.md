@@ -37,7 +37,7 @@ sources:
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 85 claims (44 for, 39 mixed, 2 against) · 63 studies (29 causal, 14 quant-synthesis, 10 review, 4 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 19 of 63 report an effect size · 80 claims rest on one study
+> **Evidence** · 87 claims (46 for, 39 mixed, 2 against) · 64 studies (30 causal, 14 quant-synthesis, 10 review, 4 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 19 of 64 report an effect size · 82 claims rest on one study
 
 ## Description and scope
 
@@ -153,6 +153,8 @@ Claims this page cited before it was rewritten as a conditional model. Both clai
 - [No significant difference between CBL-3D and traditional teaching in qualitative diagnosis of focal liver lesions](../claims/cbl-3d-reconstruction-no-gain-qualitative-diagnosis.md) [~W] — attached 2026-11-04 from Wu Yanyan et al. (2026), which proposed "Combining CBL with 3D image reconstruction as a clinical teaching model for spatially complex ultrasound skills".
 - [Case review-based learning improves orthodontic examination scores compared with lecture-based learning](../claims/cbl-improves-orthodontic-exam-scores.md) [+W] — attached 2026-11-04 from Gao Jie et al. (2026), which proposed "Structured longitudinal case review model linking each treatment stage to theoretical knowledge"; tests this page's relationship.
 - [BOPPPS-CBL instruction is associated with significantly higher adjusted post-test knowledge scores than lecture-based learning in undergraduate HAI education](../claims/boppps-cbl-higher-adjusted-posttest-hai-knowledge.md) [+W] — attached 2026-11-04 from Fei Yuda et al. (2026), which proposed "BOPPPS-CBL session structure integrating case-based learning into the Participatory Learning phase"; tests this page's relationship.
+- [Students taught pulmonary imaging with CBL-FC scored higher than an LBL group on application of imaging principles and diagnostic reasoning, in a quasi-randomized comparison where CBL-FC also added peer interaction](../claims/cbl-fc-improves-application-and-diagnostic-reasoning.md) [+W] — attached 2026-11-04 from Mao Haijia et al. (2026), which proposed "CBL-FC instructional pattern: pre-class case preparation, in-class student-led presentation with peer evaluation, post-class individual reporting with feedback"; tests this page's relationship.
+- [CBL-FC students achieve significantly higher post-intervention test scores than LBL students in pulmonary imaging education](../claims/cbl-fc-higher-post-test-scores-pulmonary-imaging.md) [+W] — attached 2026-11-04 from Mao Haijia et al. (2026), which proposed "CBL-FC instructional pattern: pre-class case preparation, in-class student-led presentation with peer evaluation, post-class individual reporting with feedback"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

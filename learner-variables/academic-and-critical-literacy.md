@@ -13,7 +13,7 @@ generated:
 # Academic and Critical Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 77 claims (46 show a difference, 20 mixed, 11 no difference) · 63 studies (29 causal, 9 associational, 8 quant-synthesis, 7 review, 4 qualitative, 3 design, 3 theoretical), `q1`–`q4` · 13 of 63 report an effect size · 74 claims rest on one study
+> **Evidence** · 78 claims (46 show a difference, 21 mixed, 11 no difference) · 64 studies (29 causal, 10 associational, 8 quant-synthesis, 7 review, 4 qualitative, 3 design, 3 theoretical), `q1`–`q4` · 13 of 64 report an effect size · 75 claims rest on one study
 
 ## Description
 This page brings together two related factors from the Learner Variability Navigator; its third, Core Academic Literacies (general fluency across the core subjects), is on [prior knowledge](prior-knowledge.md). Disciplinary literacy is the ability to read, write, speak and present in the ways each discipline uses (proofs, lab reports, historical arguments) and, for adults, in real-world domains such as health and finance. Critical literacy is the ability to identify a text's purpose, motives and possible biases, which supports comprehension and critical thinking and prepares learners for civic participation.
@@ -115,6 +115,7 @@ They are assessed through performance tasks rather than a single test: argumenta
 - [Academic vocabulary instruction improves standardized written expression](../claims/alias-vocabulary-improves-written-expression.md) [-M] — instruction changes it
 - [Corrective feedback via e-portfolio improves language micro-components (length, accuracy, academic words) more than paper-and-pen portfolio](../claims/ep-feedback-improves-language-microcomponents.md) [+M] — measured as an outcome of the instruction studied
 - [AI use is associated with lower critical thinking, with trust strengthening and AI literacy weakening the effect](../claims/ai-use-lower-critical-thinking-literacy-buffer.md) [~M] — measured as an outcome of the instruction studied
+- [English Language and Social Studies WASSCE grades were significantly associated with academic referral status, while Core Mathematics and Integrated Science were not](../claims/wassce-english-social-studies-associated-referral.md) [~W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Test of Functional Health Literacy in Adults (TOFHLA)** (Parker et al., 1995): This test measures the reading comprehension and numeracy skill components of health literacy in adults using real-life health situations.

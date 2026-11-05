@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**1004 entries** · 0 stable · 1004 in review · 0 drafts
+**1006 entries** · 0 stable · 1006 in review · 0 drafts
 
 ---
 
@@ -707,6 +707,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 
 * [Quadratic aptitude-treatment interaction regression model](quadratic-aptitude-treatment-interaction-regression-model.md) - The article introduces a multiple regression model in which the aptitude variable enters as a continuous predictor and visual design is coded with two dummy variables, dumOpt and dumSub, each carrying a quadratic interaction term with ability.
 * [Qualitative meta-synthesis](qualitative-meta-synthesis.md) - The article's organizing approach is a qualitative meta-synthesis: rather than computing a new pooled estimate, it compares and contrasts the assumptions and findings of existing meta-analyses of PBL.
+* [Quantitative motion-capture and eye-tracking analysis of medical skill proficiency](quantitative-motion-capture-and-eye-tracking-analysis-of-medical-skill-proficiency.md) - The article frames an explanatory approach in which \"motion measurement using motion capture and gaze measurement using an eye-tracking device were combined\" to quantify differences in body movement and gaze by skill level.
 
 #### R {: #letter-r }
 
@@ -754,6 +755,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Seasonal learning analysis](seasonal-learning-analysis.md) - The brief organizes its inquiry around seasonal learning patterns: comparing how racial and ethnic achievement gaps change across school-year and summer periods to determine when inequality grows.
 * [Segalowitz's three notions of L2 fluency framework](segalowitzs-three-notions-of-l2-fluency-framework.md) - The article organizes its measurement of speaking around Segalowitz's distinction among cognitive fluency, utterance fluency and perceived fluency.
 * [SEL status-and-growth early-warning modeling](sel-status-and-growth-early-warning-modeling.md) - This framework treats social-emotional learning constructs (academic growth mindset, self-efficacy, self-management) as developmental processes with their own growth trajectories, asking \"whether a student's mean SEL score in 6th grade (status) or growth between 6th through 8th grade is more predict
+* [Self-controlled before-and-after design with paired measures](self-controlled-before-and-after-design-with-paired-measures.md) - The study uses a self-controlled before-and-after design where \"the first 6-hour session in the initial semester served as the control condition (conventional teaching), while the subsequent 6-hour session in the following semester served as the experimental condition (debriefing teaching).\" This de
 * [Self-management intervention taxonomy for academic outcomes](self-management-intervention-taxonomy-for-academic-outcomes.md) - The review organizes academic self-management interventions for students with emotional and behavioral disorders into five technique types, reporting that \"Self-monitoring interventions were the predominant type of self-management technique used by researchers.\" The taxonomy distinguishes self-evalu
 * [Self-referential analytic assessment framework](self-referential-analytic-assessment-framework.md) - An evaluation paradigm for analytic essay scoring that shifts from normative (inter-learner ranking) to within-learner interpretation of analytic profiles.
 * [Self-reflective LLM annotation agent with iterative criteria refinement and short-term memory](self-reflective-llm-annotation-agent-with-iterative-criteria-refinement-and-short-term-mem.md) - An LLM-based agent that labels each discourse sample, then reflects to identify weaknesses in the current coding framework and applies revision actions (modify, add, delete, hold, merge) before labeling the next sample.

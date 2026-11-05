@@ -53,3 +53,4 @@ Ten clinical case-based questions assessed application of anatomical knowledge t
 - [In a three-arm RCT, nursing students using an AI-enhanced blended teaching model achieved significantly higher module scores than blended and traditional teaching groups](ai-enhanced-group-higher-module-scores-rct.md) — related
 - [The AI-enhanced teaching model produced significantly higher final comprehensive scores than blended and traditional teaching in the RCT](ai-enhanced-higher-final-comprehensive-scores.md) — related
 - [Knowledge graph comprehension showed a very large effect favoring the AI-enhanced group, with all three groups differing significantly](knowledge-graph-comprehension-large-effect.md) — related
+- [AI-supported scenario training improves rehabilitation students' digital competence more than traditional-only training](ai-scenario-training-improves-digital-competence-rehabilitation-students.md) — related

@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 142 claims (98 show a difference, 32 mixed, 12 no difference) · 76 studies (38 associational, 20 causal, 11 review, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 20 of 76 report an effect size · 139 claims rest on one study
+> **Evidence** · 143 claims (99 show a difference, 32 mixed, 12 no difference) · 77 studies (38 associational, 21 causal, 11 review, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 20 of 77 report an effect size · 140 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -177,6 +177,7 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Students' self-rated knowledge of karyogram construction rose significantly from before to after using an interactive digital karyotyping tool in both cohorts, in an uncontrolled pre–post study](../claims/digital-karyotyping-tool-increased-self-perceived-knowledge.md) [+M] — measured as an outcome of the instruction studied
 - [Students' self-perceived ability to identify chromosomal abnormalities increased significantly after using the tool](../claims/digital-karyotyping-tool-increased-confidence-identifying-abnormalities.md) [+M] — measured as an outcome of the instruction studied
 - [Student-centred non-cognitive measures (academic interest, self-perceived ability, curiosity) show stronger mediation effects than measures of the external learning environment](../claims/student-centred-noncognitive-measures-stronger-mediation.md) [+M] — learners who differ on it differ in outcomes
+- [Most students self-reported that their interprofessional collaboration ability was better after the program, in one single-group pre-post study](../claims/sbl-global-perceived-improvement-item.md) [+M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

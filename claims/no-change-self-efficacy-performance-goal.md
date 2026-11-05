@@ -61,3 +61,5 @@ Wilcoxon signed-rank tests within each group (Tables 5-7); self-efficacy and per
 - [Students' extrinsic goal orientation, task value, control of learning beliefs, and self-efficacy decreased after traditional instruction for the gas unit](traditional-instruction-decreases-motivation-subscales.md) — reports the opposite
 - [Contrary to expectations, the digital writing workshop significantly decreased fourth-graders' writing motivation while control-group motivation did not change](digital-writing-workshop-decreases-writing-motivation.md) — related
 - [Neither face-to-face nor online RE-SB consultation significantly increases overall teacher efficacy beliefs](re-sb-consultation-no-effect-teacher-efficacy.md) — related
+- [Clinical self-efficacy improves within all training groups but shows no significant between-group differences](clinical-self-efficacy-improves-within-all-groups-no-between-group-difference.md) — reports the opposite
+- [Self-, peer-, and instructor-feedback within SDTS show no statistically significant differences in post-training OSCE performance](feedback-modality-no-significant-difference.md) — related

@@ -72,3 +72,4 @@ Two-way ANOVA on self-efficacy: majors' background significant, "F(2,64)=4.63, p
 - [The Group by Major interaction on calculus achievement was not statistically significant](group-major-interaction-non-significant-flipped-calculus.md) — related
 - [No statistically significant difference in calculus achievement was found among students by major (medicine, applied medical science, engineering, computer science, science)](no-achievement-difference-by-major-flipped-calculus.md) — related
 - [Student background variables significantly affect learning motivation and demographic variables significantly affect learning achievement](background-demographic-variables-affect-motivation-achievement.md) — related
+- [Students from General Science and Agricultural Science SHS backgrounds had higher odds of belonging to higher GPA categories than Home Economics students](shs-science-background-higher-gpa-nursing-ghana.md) — related

@@ -50,3 +50,4 @@ Synthesis across included studies reports the largest gains in musculoskeletal a
 - [VDT use is associated with improved academic performance in 86% of studies, with score increases of 8–31% over traditional teaching methods](vdt-improved-academic-performance-86-percent-studies.md) — a broader claim this one bears on
 - [Practical exam scores are higher for anatomical regions with online image support than for unsupported regions within the same intervention groups](intra-group-image-supported-blocks-score-higher.md) — related
 - [Students studying musculoskeletal anatomy with an interactive 3D digital model show greater pre-to-post test score improvement than students studying textbook images](3d-model-greater-score-gains-than-textbook-images.md) — related
+- [Trainees show variable delineation skills, with greatest difficulty in anatomically complex regions such as the head and neck](delineation-skill-variability-complex-regions.md) — related

@@ -48,3 +48,4 @@ Qualitative/artifact findings on designing for capability development in the pro
 - Mathematics teachers appreciate ChatGPT-generated generative learning activities as hands-on, collaborative, engaging, open-ended, differentiated, and using multiple representations — related
 - [Mathematics teachers critique ChatGPT-generated generative learning lessons for poor fit to students, boredom, preparation time, missing student-facing materials, mathematical flaws, and required materials](teachers-critique-chatgpt-lesson-output.md) — related
 - [Middle school teachers envisioned AI chatbots as adaptive instructional scaffolds providing differentiated support responsive to students' varying needs](teachers-envision-chatbots-adaptive-scaffolds-differentiated-support.md) — related
+- [The placement developed multiple facets of communication skills, including adapting explanations to diverse learner needs](anatomy-ems-communication-development.md) — related

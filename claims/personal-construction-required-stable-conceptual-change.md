@@ -9,6 +9,7 @@ generated:
   at: 2026-10-02
 evidence_strength: moderate
 newest_evidence: 1997
+source_checked: 2026-11-05
 sources:
   - id: tao-1997
     resource: "https://eric.ed.gov/?id=ED406151"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 1997 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1997 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Developing shared knowledge was important, but to achieve conceptual change it needed to be accompanied by students' personal construction and sense making of the new understanding. [→ Tao 1997](#tao-1997)

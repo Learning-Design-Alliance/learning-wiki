@@ -71,3 +71,6 @@ Same SET-M post-simulation survey. The article reports "94%, N = 15" strongly ag
 - [Simulation-based education improves nursing students' clinical decision-making, judgment, and self-confidence](simulation-improves-nursing-decision-making-confidence.md) — a broader claim this one bears on
 - [Simulation type–outcome alignment: high-fidelity formats favour judgment and decision-making, VR and games favour empathy and reflection](simulation-type-outcome-alignment.md) — related
 - [Students recommended offering the handoff simulation earlier in the curriculum, before or at the beginning of clinical rotations.](students-recommend-earlier-handoff-simulation-placement.md) — related
+- [Nursing students experience inadequacy in clinical decision-making as the biggest challenge during clinical practice](inadequacy-clinical-decision-making-biggest-challenge.md) — related
+- [Most participants who implemented their training reported increased self-value, empowerment and self-confidence](rvt-implementers-empowerment-confidence.md) — related
+- [Structured debriefing is reported to enhance clinical skills and affect patient care outcomes](structured-debriefing-enhances-clinical-skills.md) — related

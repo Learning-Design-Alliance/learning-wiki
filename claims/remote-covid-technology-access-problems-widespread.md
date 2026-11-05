@@ -10,7 +10,6 @@ generated:
   at: 2026-10-09
 evidence_strength: moderate
 newest_evidence: 2021
-source_checked: 2026-10-19
 sources:
   - id: means-2021
     resource: "https://doi.org/10.51388/20.500.12265/116"
@@ -42,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies (3 entries) · 2 associational `r2` · `q2`–`q3`
-> **Currency** · newest study 2021 · checked against its sources 2026-10-19 (automated, 3 of 3 entries) · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 

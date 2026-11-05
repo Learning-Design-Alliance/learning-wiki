@@ -50,3 +50,7 @@ In the same parallel RCT (n = 58), between-group comparison of the Knowledge Ass
 - [Personalised video-assisted feedback improves selected simulation-based learning subdimensions: nursing process, patient safety and reflective behaviour](personalised-video-feedback-improves-nursing-process-safety-reflection.md) — related
 - [Simulation training significantly improved residents' theoretical knowledge of shoulder dystocia management](simulation-improved-theoretical-knowledge-shoulder-dystocia.md) — related
 - [Structured debriefings enabled all scenario participants to reflect on and discuss their performance with constructive instructor feedback](three-phase-debriefing-reflection-feedback.md) — related
+- [Scenario-based simulation ward rounds combined with video feedback improve teaching ward round assessment scores in gastroenterology residents](simulation-ward-rounds-video-feedback-improve-ward-round-performance.md) — related
+- [Structured PEARLS debriefing is associated with higher theoretical exam scores in surgical nursing simulation education](debriefing-higher-theoretical-exam-scores-surgical-nursing.md) — related
+- [Scenario-based simulation ward rounds combined with video feedback improve critical thinking disposition in gastroenterology residents](simulation-ward-rounds-video-feedback-improve-critical-thinking.md) — related
+- [Scenario-based simulation ward rounds combined with video feedback increase teaching satisfaction among gastroenterology residents](simulation-ward-rounds-video-feedback-increase-teaching-satisfaction.md) — related

@@ -51,3 +51,4 @@ Wilcoxon tests comparing post and follow-up SSS scores for the experimental grou
 ## Related Claims
 - [Experimental group's social skills scores improved significantly from pre- to post-test](pre-post-gains-social-skills-experimental-group.md) — related
 - [Non-verbal communication gains persisted at a two-month follow-up, with no statistically significant decline from post-test](peer-tutoring-asd-gains-retained-two-month-followup.md) — a narrower finding that bears on this claim
+- [Junctional tourniquet skill scores rose from 1.7 ± 2.1 to 10.8 ± 0.9 and were 10.4 ± 1.0 at two-month follow-up in one single-group pre-post study](junctional-tourniquet-skill-retention-two-months.md) — related

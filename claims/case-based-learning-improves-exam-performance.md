@@ -8,7 +8,6 @@ generated:
 id: case-based-learning-improves-exam-performance
 evidence_strength: undetermined
 newest_evidence: 2015
-source_checked: 2026-10-20
 sources:
   - id: bonney-2015
     resource: "https://doi.org/10.1128/jmbe.v16i1.846"
@@ -34,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r2`, 1 review `r3` · `q2`–`q3`
-> **Currency** · newest study 2015 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2015 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 This claim concerns [case-based learning](../elements/case-based-learning.md) — instruction organized around the analysis of realistic, contextualized cases — and its effect on performance on course examinations relative to conventional instruction.
 

@@ -26,7 +26,8 @@ LEARNBOT is a pan-European multicenter surgical training programme run by E-MIPS
 - [After completing the LEARNBOT training program, 40 previously RPD-inexperienced surgeons across 20 European centers performed 486 RPDs with outcomes comparable to established benchmarks](../claims/learnbot-feasibility-outcomes-486-rpd.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [ESTS/EACTS Delphi consensus framework for robotic thoracic training](estseacts-delphi-consensus-framework-for-robotic-thoracic-training.md)
 
 ## Key Sources
 - Jones Leia R., Zwart Maurice J.W., Nickel Felix, Hackert Thilo, Daams Freek, Groot Koerkamp Bas, Molenaar Quintus, Boggi Ugo, Saint-Marc Olivier, Leenart Philip, Amiri Rawin, Ali Mahsoem, Festen Sebastiaan, Busch Olivier, Krohn Paul S., Sparrelid Ernesto, Björnsson Bergthor, Toso Christian, Rosso Edoardo, Strücker Benjamin, Strandberg-Holka Peter, Dewulf Maxime, Schmeding Maximilian, Bozkurt Emre, Ferrari Giovanni, White Steve, Vigia Emanuel, Soonawalla Zahir, Stommel Martijn, Pencavel Tim, Lovecek Martin, Dunne Declan, Marchegiani Giovanni, Gryspeerdt Filip, Hogg Melissa E., Abu Hilal Mohammad, Besselink Marc G., for the European Consortium on Minimally Invasive Pancreatic Surgery (E-MIPS). (2026). Pan-European Training Program for Robotic Pancreatoduodenectomy (LEARNBOT): Prospective Multicenter Study on Feasibility and Outcome. Annals of Surgery. https://doi.org/10.1097/SLA.0000000000007170

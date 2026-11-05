@@ -55,3 +55,4 @@ Pearson correlation analyses (n = 140) on the game experiment's behavioral measu
 - [Post-game competence, effort, and deep-learning strategy use correlate significantly with pre-game measures, but interest does not](pre-post-motivation-correlations-stability.md) — related
 - [Practical performance shows a statistically significant low correlation with student motivation](practical-performance-low-correlation-motivation.md) — related
 - [Time spent on the pre/post assessment correlated positively with most QR rubric scores, suggesting motivation contributes to scores](time-on-task-correlates-qr-scores.md) — related
+- [Knowledge scores from the video-and-MCQ phase showed no significant relationship with pre-practice rubric scores (r = 0.052, p = 0.827)](sbml-mcq-knowledge-no-rubric-correlation.md) — related

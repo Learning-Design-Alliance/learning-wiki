@@ -56,3 +56,6 @@ The review attributes this to Lin-na et al. (2023), a quasi-experimental study o
 - [Integrated micro-skills training-CPTM improves OSCE practical skill scores versus traditional teaching](microskills-cptm-higher-osce.md) — related
 - [Simroid robot training effects persisted at the second assessment, with significant differences in clinical examination and doctor-patient communication](simroid-robot-effects-persisted-second-assessment.md) — related
 - [SFHC intervention improved doctor-patient communication (SEGUE) scores post-intervention](sfhc-improved-segue-communication.md) — related
+- [Case-based learning combined with multidisciplinary team teaching yields superior OSCE clinical skills scores, particularly in treatment planning and doctor-patient communication, but not in physical examination.](cbl-mdt-superior-osce-clinical-skills-treatment-planning-communication.md) — related
+- [Scenario-based simulation ward rounds combined with video feedback improve teaching ward round assessment scores in gastroenterology residents](simulation-ward-rounds-video-feedback-improve-ward-round-performance.md) — related
+- [Scenario-based simulation ward rounds combined with video feedback increase teaching satisfaction among gastroenterology residents](simulation-ward-rounds-video-feedback-increase-teaching-satisfaction.md) — related

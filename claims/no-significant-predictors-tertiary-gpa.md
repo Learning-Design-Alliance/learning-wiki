@@ -63,3 +63,4 @@ Bivariate correlation analysis in the Results section (tertiary GPA, N = 143). T
 - [Standardized test batteries are poor predictors of counselor trainee success](standardized-tests-poor-predictors-trainee-success.md) — related
 - [Curiosity is a special case of interest, with the two constructs overlapping in a part-whole rather than mutually exclusive relationship](curiosity-special-case-of-interest.md) — related
 - [Years of prior education significantly predict GPA in older learners](prior-education-predicts-gpa-older-learners.md) — related
+- [WASSCE aggregate score and psychological preparedness constructs were not independently associated with GPA after adjustment](preparedness-constructs-not-associated-gpa-ghana-nursing.md) — related

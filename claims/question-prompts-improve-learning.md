@@ -8,7 +8,6 @@ generated:
 id: question-prompts-improve-learning
 evidence_strength:
 newest_evidence: 2016
-source_checked: 2026-10-20
 sources:
   - id: hamaker-1986
     resource: "https://doi.org/10.3102/00346543056002212"
@@ -34,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r?` · `q3` · `i2` medium
-> **Currency** · newest study 2016 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2016 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Question prompts are questions embedded in learning materials, tasks, or dialogue that ask learners to respond before, during, or after instruction. They are hypothesized to improve learning by prompting active processing — retrieval, self-explanation, and connection to prior knowledge — rather than passive reading or listening.
 

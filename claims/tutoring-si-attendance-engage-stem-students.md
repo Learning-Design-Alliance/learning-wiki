@@ -52,3 +52,5 @@ Frequency: Attended supplemental instruction sessions 0.05 0.01 ***"
 - [Drop-in one-to-one tutorial attendees improved P1X-to-P1Y marks while the class average declined](drop-in-tutorials-improve-p1y-marks.md)
 - [The four profiles differ in academic self-efficacy, time/study management, and effort regulation, with HL highest, but not in help seeking](profiles-differ-in-self-regulatory-resources-except-help-seeking.md) — related
 - [Attendance at offered SI sessions is low and highly variable: on average 2.3 of 7 sessions, with 29% never attending](si-attendance-low-variable.md) — related
+- [Regardless of resource-use profile, students reported more frequent use of near-peer social resources (e.g., classmates) than non-peer supports such as instructors or tutoring centers.](near-peer-social-resource-preference.md) — related
+- [Students who reported frequent use of both social and material resources earned significantly lower grades than students in other resource-use profiles.](high-frequency-resource-use-lower-grades.md) — reports the opposite

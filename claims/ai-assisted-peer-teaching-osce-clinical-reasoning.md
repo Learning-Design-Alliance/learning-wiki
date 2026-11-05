@@ -56,3 +56,5 @@ Four-station OSCE with blinded assessors (ICC>0.85) in the same cohort study; th
 - [AI simulation improves Mini-CEX medical interviewing skills and organization/efficiency but not professionalism, clinical judgment, counseling, or overall competence](ai-simulated-patient-minicex-domains-gynecology.md) — related
 - [AI-group students achieve significantly higher total OSCE scores than control-group students](ai-simulated-patient-osce-scores-gynecology.md) — related
 - [End-of-rotation OSCE total score correlated moderately with FCB-CHOPS (r = 0.61) and mini-CEX (r = 0.48), indicating overlapping but non-identical constructs](osce-correlates-fcb-chops-mini-cex.md) — related
+- [AI-assisted CBL+FC residents achieve higher OSCE total scores than lecture controls, driven by history collection and physical examination stations](ai-assisted-cbl-fc-osce-total-scores.md) — related
+- [Total clinical reasoning OSCE scores rose from pre-test to post-test among emergency medicine clerkship students in a single-group pre-test–post-test study of an online flipped classroom intervention](ofc-improved-clinical-reasoning-osce-emergency-clerkship.md) — related

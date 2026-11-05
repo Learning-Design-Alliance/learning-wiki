@@ -51,6 +51,7 @@ The authors recommend that advanced simulation-based scenarios be embedded into 
 - [Integrate BPSO guidelines into core courses through evidence-based situational simulations](bpso-guideline-integration-simulations.md)
 - [Implement peer-teaching-based exam training with structured curriculum integration, realistic scenarios, defined roles, and trained tutors](pt-bet-implementation-strategy.md)
 - [Simulation-based training curriculum for high-risk, low-frequency prehospital emergencies](simulation-training-high-risk-low-frequency-events.md)
+- [Integrate structured debriefing into simulation curricula with systematic teacher training and multi-method evaluation](debriefing-integration-strategy-nursing-education.md)
 
 ## Examples
 -

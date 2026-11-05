@@ -53,3 +53,4 @@ Dimension-level critical thinking results in the same assessor-blinded RCT of 50
 - [BOPPPS with virtual simulation improves humanistic care ability overall (d = 0.46), with gains in cognition and patience but not courage](boppps-virtual-simulation-humanistic-care.md) — related
 - [Integrated model raises satisfaction, clinical thinking, practical skill self-ratings and engagement, with no difference in resource utilization](microskills-cptm-questionnaire-engagement.md) — related
 - [Humanistic care-integrated Mini-CEX teaching improves humanistic care ability across cognition, courage, and patience dimensions](mini-cex-humanistic-care-ability-gains.md) — related
+- [Structured PEARLS debriefing is associated with higher critical thinking disposition across all seven CTDI-CV dimensions](debriefing-higher-critical-thinking-disposition.md) — related

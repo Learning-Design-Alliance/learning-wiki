@@ -61,6 +61,7 @@ The article's intervention model combines weekly scenario simulation courses wit
 - [Simulation Based Learning](simulation-based-learning.md)
 - [Combine lectures, role-playing, simulations, peer feedback, and briefing/debriefing tailored to the surgical context to improve communication skills](multimodal-communication-training-surgical-context.md)
 - [Structured pre- and post-simulation assignments to consolidate clinical reasoning learning](pre-post-simulation-reflective-assignments.md)
+- [Use a structured one-day simulation program combining pre-briefing, theoretical training, practical skills practice, scenario-based simulation, and video-based debriefing](structured-one-day-simulation-caregiver-training.md)
 
 ## Examples
 -

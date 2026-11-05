@@ -49,6 +49,7 @@ In its implications for research, the article states that "Future research shoul
 - [Hospitals should provide easier access to PICC care guidelines, such as purchasing clinical guideline databases and training on guideline use](easier-access-to-picc-guidelines.md)
 - [Research should explore simulation's effects across diverse populations including developing countries](strategy-explore-simulation-diverse-populations.md)
 - [Evaluate digital decision-support in novice providers and optimize interface design to minimize cognitive overhead](future-research-novice-providers-interface-optimization.md)
+- [Implement structured AI training programmes and nurse-led AI decision-making to enhance AI competence](structured-ai-training-nurse-led-decision-making.md)
 
 ## Examples
 -

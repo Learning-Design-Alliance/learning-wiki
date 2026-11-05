@@ -61,3 +61,4 @@ The authors' review of Cronbach's alpha for relevant scales of existing online S
 - [Psychometric studies of the AEQ report most constructs falling below the conventional Cronbach's alpha cutoff of 0.80](aeq-psychometric-validity-questionable.md) — related
 - [The attitude questionnaire showed high Cronbach's Alpha reliability in both groups](attitude-questionnaire-high-reliability-both-groups.md) — related
 - [The GISA shows moderately strong convergent validity with the six RISE subtests (r = .71 to .77)](gisa-convergent-validity-rise-subtests.md) — related
+- [The ICO-OCEX demonstrated high internal consistency with an overall Cronbach's alpha of 0.995](ico-ocex-internal-consistency-high-alpha.md) — related

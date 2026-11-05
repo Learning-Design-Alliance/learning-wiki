@@ -74,3 +74,5 @@ Pilot study of a web-based content refresher (N = 10 NNPs): 4/5 participants in 
 - [Simulation-based training improved theoretical knowledge of intubation and videolaryngoscopy among ED residents (mean pretest 12.9/20 vs post-test 14.6/20, p<0.001)](simulation-improves-vl-intubation-theoretical-knowledge.md) — related
 - [No significant difference in successful intubation rate or esophageal intubation rate before and after simulation training](simulation-no-significant-success-rate-change.md) — related
 - [Theoretical training alone improves patient-education knowledge in all three student groups](theoretical-training-improves-knowledge-all-groups.md) — related
+- [All but one of five studies reporting resident confidence before and after an educational intervention reported increased resident confidence.](rhinoplasty-education-interventions-increase-resident-confidence.md) — a broader claim this one bears on
+- [Invasive interventions such as intubation, cardiopulmonary resuscitation, or intraosseous access were rarely needed in prehospital pediatric emergencies](invasive-interventions-rare-in-prehospital-pediatric-emergencies.md) — related

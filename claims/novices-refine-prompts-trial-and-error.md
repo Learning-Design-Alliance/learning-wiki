@@ -53,3 +53,4 @@ Deductive coding of Dataset 1, five pair-produced reports from a home assignment
 - [Some participants' ChatGPT interactions followed a pattern of inquiry-based learning with iterative prompt refinement](chatgpt-inquiry-based-learning-pattern.md) — a narrower finding that bears on this claim
 - [Working with imperfect AI outputs under mentor supervision was followed by students developing skepticism and independent debugging skills](ai-error-debugging-builds-student-skepticism.md) — related
 - [First-cycle underperformance was attributed to low-quality student-generated questions that failed to represent journal article patterns](question-quality-limited-first-cycle-outcomes.md) — related
+- [Iterative prompt refinement and expert pilot-testing may partly explain favorable LLM virtual patient output quality](iterative-prompt-refinement-expert-testing-improves-output.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-10-17
+source_checked: 2026-11-05
 sources:
   - id: drijbooms-2015
     resource: "https://doi.org/10.1007/s11145-015-9558-z"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2015 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` EF made no significant unique contribution to syntactic complexity or story content in hierarchical regressions. [→ Drijbooms 2015](#drijbooms-2015)

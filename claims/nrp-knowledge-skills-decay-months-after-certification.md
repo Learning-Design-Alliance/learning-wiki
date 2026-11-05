@@ -75,3 +75,4 @@ In the randomized controlled trial of booster modalities (N = 44 family medicine
 - [Simulation-based mock code training was associated with increased pediatric resuscitation survival rates, from 33% to 50% within one year](mock-code-training-pediatric-survival-increase.md) — related
 - [Both groups retained cardiac cycle knowledge equally well at the six-month follow-up assessment](dramatization-six-month-retention-equal-groups.md) — related
 - [Low-dose, high-frequency ALS training yields higher overall simulation-based resuscitation performance scores at 12 months than annual full-day training](ldhf-als-higher-overall-performance-12-months.md) — related
+- [Self-perceived competence is heterogeneous across pediatric scenarios, with high confidence for seizures, anaphylaxis, and hypoglycemia but markedly lower confidence for neonatal care, pediatric polytrauma, and resuscitation](heterogeneous-self-perceived-competence-pediatric-scenarios.md) — related

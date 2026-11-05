@@ -57,6 +57,7 @@ The article's teacher, director, and authors converge on recommendations for imp
 - [Plan game use deliberately and combine it with traditional vocabulary techniques](plan-game-use-and-combine-with-traditional-techniques.md)
 - [Teacher professional development and school-leader support for enacting game-based learning](teacher-pd-and-leader-support-game-based.md)
 - [Five-step experience sequence for training teachers to use videogames as curricular tools](five-step-videogame-teacher-training-sequence.md)
+- [When implementing experiential school nutrition programs, secure sufficient duration, curriculum integration, teacher involvement, and supporting resources](secure-duration-integration-teacher-resources-for-nutrition-programs.md)
 
 ## Examples
 -

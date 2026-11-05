@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 231 claims (118 for, 94 mixed, 19 against) · 126 studies (36 review, 34 causal, 17 design, 16 quant-synthesis, 13 qualitative, 6 associational, 4 theoretical), `q1`–`q4` · 24 of 126 report an effect size · 226 claims rest on one study
+> **Evidence** · 232 claims (119 for, 94 mixed, 19 against) · 127 studies (36 review, 34 causal, 18 design, 16 quant-synthesis, 13 qualitative, 6 associational, 4 theoretical), `q1`–`q4` · 24 of 127 report an effect size · 227 claims rest on one study
 
 ## Description and scope
 
@@ -159,6 +159,7 @@ Read against the model on 2026-10-19; these bear on the page but do not change a
 - [VP training does not enhance knowledge about mental disorders](../claims/vp-training-no-knowledge-gains.md) [~W] — attached 2026-11-04 from Cecil Julia et al. (2026), which proposed "Use VP simulations with pre-briefings and enhanced authenticity as a scalable complementary method in psychotherapy training".
 - [Dental students' communication skills with standardized patients remained consistent in several domains and improved over time in others across 2016–2022](../claims/dental-sp-communication-seven-year-trends.md) [+W] — attached 2026-11-04 from Tiwari Tamanna et al. (2025), which proposed "Standardized patient encounter with immediate SP feedback and coach debrief as summative communication assessment"; tests this page's relationship.
 - [AI-generated OPTION-12 ratings agree strongly with human expert ratings of shared decision-making performance in AI-simulated consultations](../claims/ai-human-option12-agreement-feasibility.md) [+W] — attached 2026-11-04 from Herschbach L et al. (2026), which proposed "Use AI-simulated patients to provide scalable, low-threshold SDM practice opportunities with individualized automated feedback".
+- [Iterative prompt refinement and expert pilot-testing may partly explain favorable LLM virtual patient output quality](../claims/iterative-prompt-refinement-expert-testing-improves-output.md) [+W] — attached 2026-11-04 from BaHammam Fahad BDS et al. (2026), which proposed "Refine LLM virtual patient system prompts iteratively with expert pilot-testing before learner deployment".
 
 ## Illustrative design instance and observation record
 

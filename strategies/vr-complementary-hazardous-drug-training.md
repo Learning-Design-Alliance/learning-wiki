@@ -42,6 +42,7 @@ The article recommends treating VR as a complementary component within a broader
 ## Related Strategies
 
 - [Use risk-free high-fidelity VR simulation to complement physical training for hazardous clinical procedures](risk-free-vr-pretraining-for-hazardous-procedures.md)
+- [Implement XR-based ultrasound training as partial replacement of standard training during a dedicated training day](xr-partial-replacement-training-day.md)
 
 ## Examples
 -

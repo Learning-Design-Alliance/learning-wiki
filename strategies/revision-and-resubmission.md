@@ -69,6 +69,7 @@ Feedback only improves achievement when learners actually use it, and resubmissi
 - [Implement AI-peer integrated feedback as a standardized two-phase revision cycle with rubric-aligned prompting and instructor monitoring](ai-peer-integrated-feedback-cycle-strategy.md)
 - [Offer pre-grading with corrective comments and resubmission before the due date, supported by an automated grader](pre-grading-resubmission-strategy.md)
 - [Use formative quizzes, writing portfolios, and peer-feedback rubrics rather than relying only on a final examination](formative-assessment-toolkit-strategy.md)
+- [Use the attempt, compare, critique, and act learner routine to convert AI feedback into learning actions](attempt-compare-critique-act-routine.md)
 
 ## Examples
 - **Writing-intensive courses using portfolio drafting** — students submit drafts, receive instructor comments, and revise; only the portfolio grade counts, so every piece goes through at least one revision cycle.

@@ -73,3 +73,4 @@ Survey data from the first training round (T1) of the quasi-experimental study. 
 - [Repeated exposure to PT-BET may be associated with stronger improvements in stress management, self-assessment, and trust strengthening.](pt-bet-repeated-exposure-benefits.md) — related
 - [A significant positive correlation exists between OSCE performance and self-reported knowledge and skill levels](osce-correlates-self-reported-competence.md) — related
 - [Tutors observed considerable improvement in the quality of students' oral exam presentations after the second training round.](pt-bet-tutor-rated-improvement.md) — related
+- [Training-related factors positively influenced confidence and performance](training-factors-boost-confidence-and-performance.md) — a broader claim this one bears on

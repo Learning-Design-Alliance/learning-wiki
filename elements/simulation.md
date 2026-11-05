@@ -14,7 +14,7 @@ generated:
 # Simulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 348 claims (204 for, 122 mixed, 22 against) · 215 studies (79 review, 59 causal, 38 quant-synthesis, 19 design, 10 associational, 7 qualitative, 3 theoretical), `q1`–`q4` · 37 of 215 report an effect size · 338 claims rest on one study
+> **Evidence** · 353 claims (209 for, 122 mixed, 22 against) · 218 studies (79 review, 60 causal, 38 quant-synthesis, 21 design, 10 associational, 7 qualitative, 3 theoretical), `q1`–`q4` · 38 of 218 report an effect size · 343 claims rest on one study
 
 ## Description
 A simulation is an interactive model of a real or hypothetical system — physical, biological, economic, social, or procedural — in which learners take actions, observe the consequences, and adjust their approach. Unlike a [Demonstration](demonstration.md), which presents expert performance for observation, a simulation makes the learner the actor, embedding practice inside a simplified environment where errors are safe and consequences are visible.
@@ -403,6 +403,11 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Nurses trained with simulation showed higher skill retention at 3 months than nurses trained with video-based instruction (exploratory)](../claims/simulation-higher-skill-retention-nurses-exploratory.md) [+W]
 - [Both video-based and simulation-based training produce similarly high practical skills post-training with no overall between-group difference](../claims/video-and-simulation-similar-practical-skills-post-training.md) [~W]
 - [Physical examination modules in the metaverse face technical limitations in replicating procedures requiring tactile or haptic feedback](../claims/metaverse-physical-exam-haptic-limitations.md) [~W]
+- [The simulation model demonstrated high usability across all six UEQ domains, with attractiveness rated highest and excellent internal consistency (Cronbach's alpha = 0.91)](../claims/sbml-probing-simulator-ueq-usability.md) [+W] — attached 2026-11-04 from Theerakulpisut Saralee et al. (2026), which proposed "Multifaceted probing simulation (MPS) model: a low-cost rubber-and-silicone simulator head for nasolacrimal duct probing training".
+- [More senior trainees outperform junior residents on first attempt at simulated durotomy repair, supporting the simulator's validity](../claims/senior-surgeons-outperform-juniors-first-attempt-durotomy-simulator.md) [+W] — attached 2026-11-04 from Bukowiec Lainey G. et al. (2026), which proposed "3D-printed durotomy repair spine simulator with lumbar and thoracic windows".
+- [All training groups improved repair times with repeated exposure to the simulator](../claims/repeated-exposure-improves-durotomy-repair-times.md) [+W] — attached 2026-11-04 from Bukowiec Lainey G. et al. (2026), which proposed "3D-printed durotomy repair spine simulator with lumbar and thoracic windows"; tests this page's relationship.
+- [VR training with eye-tracking heatmap feedback yields numerically greater situational awareness gains than mannequin-based training in a pilot RCT under simulated ED interruptions](../claims/vr-eye-tracking-feedback-greater-sa-gains-pilot-rct.md) [+M] — attached 2026-11-04 from Emadi Navaz et al. (2026), which proposed "VR trauma simulation with eye-tracking heatmap feedback (3DVista/Unreal Engine, HTC VIVE Pro Eye)"; tests this page's relationship.
+- [Eye-tracking-based VR feedback with simulated ED interruptions was feasible to implement in a pilot trial](../claims/eye-tracking-vr-feedback-feasibility-pilot.md) [+W] — attached 2026-11-04 from Emadi Navaz et al. (2026), which proposed "VR trauma simulation with eye-tracking heatmap feedback (3DVista/Unreal Engine, HTC VIVE Pro Eye)".
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

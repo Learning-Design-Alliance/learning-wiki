@@ -58,6 +58,7 @@ The article recommends that educational institutions incorporate high-quality SB
 - [Integrate simulation, case-based learning, and communication-focused training into pre-clinical delirium curricula](simulation-case-based-delirium-training.md)
 - [Improve mannequin design and increase practice opportunities to enhance SBL in oral radiology](improve-mannequin-design-and-practice-opportunities.md)
 - [Incorporate hands-on clinical simulation with low-fidelity task trainers into basic science curricula to bridge theoretical knowledge and clinical application](hands-on-clinical-simulation-basic-science-strategy.md)
+- [Integrate simulation-based learning into interprofessional curricula to cultivate collaboration early in training](integrate-sbl-into-interprofessional-curricula.md)
 
 ## Examples
 -

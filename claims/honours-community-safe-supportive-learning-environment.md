@@ -9,7 +9,7 @@ generated:
   at: 2026-09-26
 evidence_strength: moderate
 newest_evidence: 2021
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 sources:
   - id: wabike-2021
     resource: "https://doi.org/10.5296/jei.v7i2.18814"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2` · `i1` small
-> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Honours students report that the community creates a safe environment in which they feel comfortable exploring new ideas and receiving help. [→ Wabike 2021](#wabike-2021)
@@ -65,3 +65,4 @@ Qualitative open-ended responses from 28 honours students (56% return rate) were
 - [Trust is a key enabler of knowledge sharing in online learning communities](trust-enables-knowledge-sharing-online.md) — related
 - [The authors conclude that in a telecollaborative environment students feel freer to explore, discuss and add more ideas and write longer texts](telecollaborative-environment-freer-exploration-longer-texts.md) — related
 - [Without teamwork supports, lack of trust creates individualistic learning and withdrawal; a low-key norming intervention improved teamwork through psychological safety](cbl-teamwork-supports-psychological-safety.md) — related
+- [The near-peer structure of the track was perceived to create a psychologically safe learning environment that facilitated peer teaching.](pedagogical-internship-track-near-peer-safety.md) — related

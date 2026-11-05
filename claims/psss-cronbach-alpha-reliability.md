@@ -49,3 +49,4 @@ Internal consistency was examined with Cronbach's alpha. Table 7 reports alpha =
 
 - [Item factor loadings in the CFA ranged from 0.42 to 0.79 and were statistically significant by t values](psss-item-loadings-significant.md)
 - [Test reliability was acceptable across the four listening texts](listening-test-reliability-acceptable.md) — related
+- [The FOI test shows high internal consistency reliability (Cronbach's α = 0.89)](foi-test-internal-consistency-cronbach-alpha-089.md) — related

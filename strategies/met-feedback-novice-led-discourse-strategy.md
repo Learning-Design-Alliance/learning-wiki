@@ -52,6 +52,7 @@ The authors recommend MET video feedback sessions in which an instructor listens
 - [Analyzing Video Replays](analyzing_video_replays.md)
 - [Modeling And Think Alouds](modeling-and-think-alouds.md)
 - [Think-Alouds](think-alouds.md)
+- [Use video-recorded simulation sessions followed by instructor-led structured self-reflection and peer review to enable reflection-on-action](video-feedback-structured-reflection-strategy.md)
 
 ## Examples
 -

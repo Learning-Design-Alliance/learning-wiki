@@ -50,3 +50,4 @@ Pearson correlation analysis of sub-dimensions of the CTSS and PPCPS among the s
 ## Related Claims
 - [Critical thinking skills correlate strongly and positively with personal and professional competency perceptions among earthquake-exposed teacher candidates](ct-competency-strong-correlation-earthquake-candidates.md) — a broader claim this one bears on
 - [Earthquake-exposed teacher candidates reported high self-perceived competencies and critical thinking skills overall](high-descriptive-competency-ct-scores.md) — related
+- [A moderate positive correlation exists between professional competency and caring perception scores](moderate-positive-correlation-competency-caring.md) — related

@@ -64,6 +64,10 @@ The review enumerates crucial considerations for maximizing CBL's potential: "en
 - [Balance active-learning formats by matching cognitive demands across comparison conditions](matched-cognitive-demands-active-learning-formats.md)
 - [Implement CBL with institutional faculty support, clinician facilitators, authentic multimodal cases, preparation incentives and a safe group environment while avoiding behaviour-only assessment](cbl-implementation-strategy-realist-review.md)
 - [Implement faculty development programs, systematic curriculum integration, and student orientation to maximize case-based learning benefits](cbl-structured-implementation-strategy.md)
+- [Scale CBL-FC to larger classes using online pre-class materials, teaching-assistant facilitation, and cross-department faculty collaboration](cbl-fc-scaling-strategy-tas-online-preclass.md)
+- [Constructing a multi-dimensional evaluation system aligned with three-dimensional teaching objectives](multi-dimensional-evaluation-system-three-dimensional-objectives.md)
+- [Mitigate CBL-MDT implementation challenges through fixed protected scheduling, pre-course orientation, quarterly case review, and OSCE-based assessment.](cbl-mdt-implementation-challenges-mitigation-strategies.md)
+- [Structure integrated CBL-MDT interventions as five curated cases with pre-class self-directed learning, small-group analysis, simulated MDT discussion, and structured feedback.](cbl-mdt-five-case-structured-intervention-blueprint.md)
 
 ## Examples
 -

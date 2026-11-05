@@ -48,3 +48,4 @@ Survey descriptive statistics (Table 3) show the most commonly reported training
 ## Related Claims
 - [Three quarters (75%) of surveyed therapists had provided SM intervention, predominantly speech and language therapists, mostly within schools involving parents and teaching staff](sm-intervention-provision-profile.md) — related
 - [Most surveyed UK therapists (59%) had received some form of selective mutism training, but only 15% received it during their professional qualification](sm-training-received-59-percent-15-percent-qualification.md) — related
+- [Over 80% of surveyed palliative care physicians reported that mental health comorbidities reduce their comfort in delivering palliative care.](over-80-percent-comfort-reduced-by-mental-health-comorbidities.md) — related

@@ -52,3 +52,4 @@ Intersectional comparison of belonging codes among majors by race and gender, an
 - [Students of color majoring in STEM report significantly lower sense of belonging than white majors](students-of-color-report-less-belonging-than-white-majors.md) — related
 - [Collaborative pedagogies such as problem- and project-based learning are more likely to promote students' sense of belonging than lecture-based pedagogies, but effects depend on the group's attributes](collaborative-pedagogy-promotes-belonging.md) — related
 - [Racially marginalized students are less likely to report a sense of belonging in STEM education](marginalized-students-lower-stem-belonging.md) — a broader claim this one bears on
+- [Cisgender men speak more during small-group or whole-class discussions, reinforcing perceptions of greater competence in STEM.](men-speak-more-discussions-competence-perceptions.md) — related

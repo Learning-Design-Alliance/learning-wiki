@@ -50,3 +50,4 @@ Level-2 analysis predicting the significant random effect of morning sleep quali
 - [Previous night's sleep quality and time in bed predict children's morning working memory performance fluctuations](sleep-quality-time-in-bed-predict-morning-working-memory.md) — a broader claim this one bears on
 - [Current daytime tiredness predicts children's afternoon working memory performance fluctuations](tiredness-predicts-afternoon-working-memory.md) — related
 - [Elementary school children show substantial within-person day-to-day fluctuations in working memory performance in the school context](substantial-within-person-daily-wm-fluctuations-children.md) — related
+- [Grade 9 within-pair effects show better sleep quality predicts better reading and mathematics, while less school-night sleep predicts better reading](grade9-within-pair-sleep.md) — related

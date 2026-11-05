@@ -9,6 +9,7 @@ generated:
   at: 2026-09-28
 evidence_strength: weak
 newest_evidence: 2019
+source_checked: 2026-11-05
 sources:
   - id: rafael-zaccaron-2019
     resource: "http://dx.doi.org/10.15448/2178-3640.2019.2.32988"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the carousel task, students repeatedly presented their poster to rotating visitors, and immediate repetition offered benefits in pronunciation, vocabulary and grammar for most participants. [→ Rafael Zaccaron 2019](#rafael-zaccaron-2019)

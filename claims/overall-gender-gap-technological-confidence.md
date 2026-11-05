@@ -91,3 +91,5 @@ Independent samples t-test with Welch's correction on the survey's gender-based 
 - [Postgraduate qualification was positively and health education specialisation negatively associated with teaching efficacy; female teachers scored higher on pedagogical knowledge](demographic-covariates-knowledge-efficacy.md) — related
 - [Gender, degree type, and personality show differential associations with course outcome dimensions](demographic-differences-course-dimensions.md) — related
 - [Female nursing students report greater e-learning satisfaction, higher self-efficacy, and higher perceived academic performance than male students](female-nursing-students-higher-satisfaction-self-efficacy-performance.md) — reports the opposite
+- [Gender and major differences in agentic engagement and autonomy-support perceptions among Chinese EFL students](gender-major-differences-ae-past.md) — related
+- [Student perceptions of the GPT companion do not differ significantly by gender, academic background, or GPA](no-perception-differences-gender-stream-gpa-gpt-companion.md) — related

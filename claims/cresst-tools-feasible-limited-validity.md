@@ -9,6 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: weak
 newest_evidence: 1997
+source_checked: 2026-11-05
 recheck_by: 2000
 sources:
   - id: chung-1997
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q2`
-> **Currency** · newest study 1997 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2000**: tool and model accuracy changes quickly
+> **Currency** · newest study 1997 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2000**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Evaluation data show the CRESST assessment tools to be feasible, though reliability and validity evidence is limited and further studies are planned. [→ Chung 1997](#chung-1997)

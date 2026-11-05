@@ -9,7 +9,7 @@ id: manipulatives-improve-math-learning
 aliases: [hands-on-learning-improves-achievement]
 evidence_strength:
 newest_evidence: 2013
-source_checked: 2026-10-14
+source_checked: 2026-11-05
 sources:
   - id: carbonneau-et-al-2013
     resource: "https://doi.org/10.1037/a0031084"
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4` · n=7,237 students, k=55 studies
-> **Currency** · newest study 2013 · checked against its sources 2026-10-14 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 Physical or visual objects that learners manipulate (counters, base-ten blocks, fraction tiles) can support mathematics learning by making abstract relationships concrete and actionable.
 

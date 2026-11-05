@@ -51,3 +51,4 @@ Observational comparison within the 59-participant study using the validated LLM
 - [Prior AI-related training is associated with higher perception scores in the overall score and the willingness, attitudes, and personal-experiences dimensions](prior-ai-training-associated-perceptions.md) — related
 - [An automated LLM assessor rates 3E clinical communication skills with agreement comparable to individual human raters](llm-assessor-agrees-with-human-raters-3e.md) — related
 - [Counselors without prior training on prostitution/sex trafficking endorsed more stigmatizing beliefs and more rape myths](lack-of-trafficking-training-linked-stigma-rape-myths.md) — related
+- [No significant differences in procedural time or pre- and post-practice rubric scores between participants with and without previous probing experience](sbml-probing-no-experience-difference.md) — reports the opposite

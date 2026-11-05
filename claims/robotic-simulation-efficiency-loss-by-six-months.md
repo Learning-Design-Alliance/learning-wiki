@@ -49,3 +49,4 @@ In the same retrospective skill decay cohort (n = 30), paired comparison of task
 
 ## Related Claims
 - [Robotic simulation technical performance (OSATS) declines significantly after training gaps of roughly three months or more](robotic-simulation-osats-decay-after-training-gap.md) — related
+- [Respondents reported a median of 5 hours of simulation training on a robotic console, and restricted simulation access was a key barrier](median-5-hours-simulation-training-restricted-access-barrier.md) — related

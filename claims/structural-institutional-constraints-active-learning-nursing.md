@@ -51,3 +51,5 @@ Educator focus group data (Theme 3, Subtheme 3.2.2). One educator noted the tens
 - [Common barriers to pressure injury prevention include staff shortages, high workload, limited resources, and insufficient institutional support.](systemic-barriers-pi-prevention.md) — related
 - [Barriers to soft skills integration: time constraints, systemic obstacles, learner emotional strain, and adapting to new modalities](soft-skills-curricular-barriers-medical-education.md) — related
 - [Teachers identified time demands, class size, and curriculum coverage requirements as the main obstacles to differentiating instruction](di-obstacles-time-class-size-curriculum.md) — related
+- [Barriers to interprofessional socialisation among healthcare educators include resource limitations, lack of awareness, institutional influences, professional tensions, COVID-19 burnout and limited exposure](barriers-to-interprofessional-socialisation.md) — related
+- [Opportunities to strengthen interprofessional socialisation include enhanced institutional support, opportunities for socialisation and more collaboration](opportunities-to-strengthen-interprofessional-socialisation.md) — related

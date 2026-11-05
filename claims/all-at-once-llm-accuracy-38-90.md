@@ -50,3 +50,4 @@ Cross-sectional comparative evaluation of six publicly available LLMs on 77 vali
 - [ChatGPT-5.1, DeepSeek-R1, and Gemini 2.5 Flash show high, statistically comparable accuracy on Turkish Pharmacy Specialty Examination questions](llms-high-comparable-accuracy-eus.md) — related
 - [Batch delivery of ten questions converges LLM accuracy to 83%–88% with no statistically significant inter-model differences](batch-delivery-convergence-83-88.md) — related
 - [Expert physician review excluded 23 of 100 LLM-generated MCQs, yielding a validated set of 77 questions](physician-validation-77-mcqs.md) — related
+- [LLM performance was weakest in paediatric urology and testicular cancer and strongest in research methodology and andrology](llm-subspecialty-weaknesses-paediatric-urology-testicular-cancer.md) — related

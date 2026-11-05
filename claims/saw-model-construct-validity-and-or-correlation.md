@@ -70,3 +70,4 @@ Correlational study assessing 14 surgeons with the GOALS-IH tool on the SAW mode
 - [A simulation-based mastery-learning curriculum using the Guildford MATTU TEP model produced faster TEP repair, higher GOALS scores and fewer complications than standard apprenticeship training](guildford-mattu-mastery-learning-improves-tep-outcomes.md) — related
 - [A moulded rubber TEP box trainer programme produced higher composite operative scores (P = 0.01) and suggested transfer of skills to real operations](box-trainer-tep-transfer-operative-practice.md) — related
 - [Consultant paediatric surgeons showed a significant overall reduction in operative time after a 12-week porcine-model laparoscopic training programme](porcine-model-training-reduces-operative-time-consultants.md) — related
+- [Expert surgeons rated the model highly on face validity, with all items scoring 5.0 except texture (3.70 ± 0.82)](face-validity-expert-ratings-ldsrs-model.md) — related

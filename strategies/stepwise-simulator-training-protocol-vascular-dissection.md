@@ -53,6 +53,10 @@ The article’s training recipe consists of a standardized instructional video i
 
 - [Pair a pre-test anastomosis attempt with standardized video instruction and supervised practice before a post-test on the same simulator](video-instruction-supervised-practice-prepost-strategy.md)
 - [Embed technical skills practice in a full clinical encounter simulation with preoperative and postoperative tasks](full-clinical-encounter-simulation-strategy.md)
+- [Structure simulation training in four sequential phases: video instruction, expert demonstration, supervised practice, and formative feedback](four-phase-ldsrs-simulation-training-protocol.md)
+- [Structure a simulation-based mastery learning program as sequential steps: video tutorial, MCQ with feedback, supervised practice, then repeated self-directed practice with video-based assessment](sbml-sequential-training-protocol-probing.md)
+- [Structured stepwise endodontic curriculum: preclinical training, clinical observation, then supervised clinical practice](stepwise-endodontic-curriculum-preclinical-observation-practice.md)
+- [Structured pre-simulation briefing, hands-on practice, and model-based debriefing sequence](briefing-practice-debriefing-sequence-sbl.md)
 
 ## Examples
 -

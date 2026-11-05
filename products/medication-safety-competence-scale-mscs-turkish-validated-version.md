@@ -21,6 +21,7 @@ A 36-item Likert-scale instrument developed and validated to assess emergency nu
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Medication Safety Competence Scale for Nurses (MSCS), Turkish-validated version**: The MSCS is a 36-item self-report instrument assessing medication safety competence across six subdimensions: patient-centered medication management, improvement of safety issues, management of influencing factors, safe risk management, multidisciplinary collaboration, and nursing responsibility. Items are rated on a five-point Likert scale, with higher scores indicating superior competence. The scale demonstrated excellent reliability in this study ("Cronbach's α = 0.953"). (Tüzün Hande et al. (2026))
+- **Medication Safety Competence Scale (MSCS), Chinese version**: A 36-item five-point Likert scale measuring medication safety competence across six factors, developed by Seomun and Park and translated into Chinese by Yang. Scores range from 36 to 180, with 36–90, 91–150, and 151–180 indicating poor, fair, and good competence respectively. The article reports "The Cronbach's α coefficient for the Chinese version of the MSCS was previously calculated as .940" and was .994 in this study. (Zhang et al. (2026))
 
 ### Claims
 
@@ -32,3 +33,4 @@ A 36-item Likert-scale instrument developed and validated to assess emergency nu
 
 ## Key Sources
 - Tüzün Hande, Cebeci Fatma, Çetin Songül Bişkin. (2026). Medication safety in emergency departments: a mixed methods study. BMC Emergency Medicine. https://doi.org/10.1186/s12873-026-01615-7
+- Zhang, P., Yu, G., Xu, R., Cao, S., Lin, M., Liu, Y., & Wu, Y. (2026). Factors associated with medication safety competence among clinical nurses in China: A latent profile analysis. The Journal of Nursing Research. https://doi.org/10.1097/jnr.0000000000000749

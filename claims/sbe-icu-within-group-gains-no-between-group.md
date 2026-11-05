@@ -78,3 +78,5 @@ A scoping review of simulation-based education (SBE) for delirium recognition. I
 - [VP simulation training increases clinical self-efficacy but not more than video training](vp-simulation-increases-clinical-self-efficacy.md) — related
 - [Training shifted ICU nurses from low/moderate to high knowledge-based competence categories in VAP prevention](vap-competence-category-shift-after-training.md) — related
 - [Both video-based and simulation-based training produce similarly high practical skills post-training with no overall between-group difference](video-and-simulation-similar-practical-skills-post-training.md) — related
+- [Clinical self-efficacy improves within all training groups but shows no significant between-group differences](clinical-self-efficacy-improves-within-all-groups-no-between-group-difference.md) — related
+- [No statistically significant relationship was observed between video-based learning and overall procedural competency (r = 0.153, p = 0.086)](no-significant-relationship-video-overall-competency.md) — related

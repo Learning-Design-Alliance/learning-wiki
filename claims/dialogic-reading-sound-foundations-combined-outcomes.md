@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q3`
-> **Currency** · newest study 2007 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2007 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Whitehurst, Epstein, et al. (1994), the combined intervention produced statistically significant differences favoring the intervention group on the Print concepts and Writing factors, but no significant oral language effect. [→ WWC Intervention Report: Dialogic Reading 2007](#wwc-intervention-report-dialogic-reading-2007)

@@ -50,3 +50,4 @@ Error-pattern analysis of the benchmark responses. The article attributes Llama 
 - [GPT-4o shows more consistent performance than Llama 3 70B across topics and metrics, while Llama 3 70B falls below 60% on the unit metric for three advanced topics](gpt4o-consistency-vs-llama3-unit-weakness.md) — related
 - [GPT-4o and Llama 3 70B significantly outperform GPT-3.5 Turbo across all five homework-assessment metrics in circuit analysis](gpt4o-llama3-outperform-gpt35-circuit-homework-assessment.md) — related
 - [Sinusoidal steady-state analysis is the most challenging topic for both GPT-4o and Llama 3 70B in homework assessment](sinusoidal-steady-state-hardest-topic-for-llms.md) — related
+- [The pass/fail standard produced false positives and a false negative, possibly because the simulator recognizes a specific fixed pathway](foi-test-false-positives-fixed-pathway-limitation.md) — related

@@ -26,7 +26,8 @@ A 17-item five-point Likert self-report instrument developed by de Moura Regina 
 - [Composite reliability was adequate for both factors of the MID competency scale](../claims/mid-competency-instrument-composite-reliability.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Vaccine Opposition Scale (VOS)](vaccine-opposition-scale-vos.md)
 
 ## Key Sources
 - de Moura Regina Cardoso, Perazzo Matheus França, Leal Soraya Coelho, Maia Lucianne Cople, Massignan Carla. (2026). Brazilian dentists’ knowledge, skills, and attitudes towards minimal intervention dentistry: development and psychometric analysis. Brazilian Oral Research. https://doi.org/10.1590/1807-3107bor-2026.vol40.039

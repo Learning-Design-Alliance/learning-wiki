@@ -44,7 +44,8 @@ A 3-hour curriculum combining a 15-minute palliative medicine didactic on the SP
 - [Simulation Breaking Bad News Improves Obgyn Resident Self Perceived Preparedness](../claims/simulation-breaking-bad-news-improves-obgyn-resident-self-perceived-preparedness.md) [+M]
 
 ## Related Designs
-- 
+
+- [Three-hour simulation-based tourniquet training program (ATLS/TCCC/STB-based)](three-hour-tourniquet-simulation-training-program.md)
 
 ## Examples
 -

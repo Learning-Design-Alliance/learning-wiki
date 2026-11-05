@@ -72,3 +72,4 @@ Same box-plot analysis of the four domains: HR shows the largest range (0–1) o
 - [A few countries follow relatively pure accountability logics, but most countries follow mixed forms](most-countries-follow-mixed-accountability-logics.md) — related
 - [Accountability strengths lie in school climate and communication while stakeholder-involved vision evaluation scores lowest](accountability-indicator-strengths-weaknesses.md) — related
 - [Authorship scores were highly concentrated near the maximum of the rubric scale](authorship-ceiling-concentration.md) — related
+- [Curriculum similarity across medical schools within the same country is reported in only 42.9% of surveyed countries.](national-curriculum-similarity-42-9-percent.md) — related

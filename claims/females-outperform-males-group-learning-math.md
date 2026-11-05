@@ -74,3 +74,4 @@ Independent-sample t-test comparing male (n = 40) and female (n = 44) students w
 - [Female biology education students' academic achievement in DNA replication increased significantly more than male students'](female-students-greater-dna-achievement-gain.md) — related
 - [Female students significantly outperformed male students in mathematics achievement](female-students-outperform-males-math-achievement.md) — a broader claim this one bears on
 - [Male students held stronger attitudes toward mathematics than female students](gender-main-effect-mathematics-attitudes.md) — reports the opposite
+- [Female students scored significantly higher than males on several post-test competency domains despite no pre-test gender differences](sbl-gender-differences-post-test-females-higher.md) — related

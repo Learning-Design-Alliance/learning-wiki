@@ -53,3 +53,4 @@ A single-group pretest-posttest study of 57 nursing students in an obstetric sim
 - [Structured communication tools such as SBAR incorporated into simulation are associated with improved team coordination and information transfer](sbar-structured-communication-in-simulation.md) — a broader claim this one bears on
 - [In situ simulated emergency training does not significantly improve clinical communication in junior nurses](in-situ-set-no-effect-clinical-communication.md) — related
 - [Simulation-based CARE handover training produces a large increase in nurses' perceived handover competency from pretest to posttest](simulation-care-training-increases-perceived-handover-competency.md) — related
+- [Total self-reported ICCAS scores rose significantly from pre-test to post-test after the simulation intervention in one uncontrolled pre-post study](sbl-total-iccas-significant-increase.md) — related

@@ -47,3 +47,4 @@ Pre/post comparison across three procedure types. Varicocelectomy and hernia rep
 ## Related Claims
 - [Consultant paediatric surgeons showed a significant overall reduction in operative time after a 12-week porcine-model laparoscopic training programme](porcine-model-training-reduces-operative-time-consultants.md) — a broader claim this one bears on
 - [Mean age at surgery for herniorrhaphy was significantly lower in the post-training period](herniorrhaphy-age-reduction-post-training.md) — related
+- [Mean procedure time decreased from 3.45 to 1.53 minutes after training (p < 0.001)](sbml-probing-procedure-time-reduction.md) — related

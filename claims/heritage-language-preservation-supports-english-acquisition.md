@@ -41,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 1 causal `r?`, 1 review `r?`, 1 theoretical `r?` · `q1`–`q2`
-> **Currency** · newest study 2005 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person
 
 A common assumption treats time and attention spent on a bilingual student's home (heritage) language as competing with, and therefore slowing, English acquisition. The three entries below do not test that assumption directly: a narrative review recommends that speech-language services for linguistically diverse preschoolers with language impairment support the home language, a practitioner account argues that a preserved shared language keeps parents able to support schooling, and a vocabulary study shows that second-language words once known and then forgotten are relearned with savings. The direct tests of the assumption are in the narrower claims gathered in the table below, and they are associational.
 

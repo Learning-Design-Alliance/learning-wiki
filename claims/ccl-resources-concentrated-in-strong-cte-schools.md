@@ -50,3 +50,4 @@ Finding from the report's document reviews and interviews with district leaders 
 - [CTE programs of study vary across CPS high schools and are more common on the south and west sides](cte-programs-vary-and-cluster-south-west-sides.md) — related
 - [Most work-based learning participants have been CTE students despite district intent to expand access](wbl-participation-concentrated-among-cte-students.md) — related
 - [Program demand varied widely: 21 percent of programs had more than ten times as many applications as seats, led by arts, CTE, and SEHS programs](gocps-program-demand-variation-arts-cte-sehs.md) — related
+- [Only 58.3% of undergraduate public health students have participated in research projects, with opportunities concentrated among academically strong students](research-participation-prevalence-58-percent-selective-barriers.md) — related

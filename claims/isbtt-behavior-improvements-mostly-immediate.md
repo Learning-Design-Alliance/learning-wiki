@@ -67,3 +67,4 @@ The review reports few longer-term measurements; of 15 articles including clinic
 - [Comparative ISBTT studies suggest simulation added to training improves collaborative behaviors, with mixed results for modality and interprofessional versus uniprofessional comparisons](isbtt-comparative-studies-mixed-results.md) — related
 - [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](simulation-skill-retention-two-month-follow-up.md) — related
 - [Most ISBTT programs are one-time events involving two or three professions, with debriefing nearly universal and psychological safety rarely addressed](isbtt-design-features-one-time-two-professions.md) — related
+- [Most students self-reported that their interprofessional collaboration ability was better after the program, in one single-group pre-post study](sbl-global-perceived-improvement-item.md) — a narrower finding that bears on this claim

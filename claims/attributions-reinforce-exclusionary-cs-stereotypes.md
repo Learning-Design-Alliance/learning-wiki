@@ -49,3 +49,4 @@ Authors' critical interpretation in the discussion, not a tested result: they ar
 - [Negative dispositional attributions persisted even after successful task completion](dispositional-attributions-persist-after-success.md) — related
 - [Stereotypical attributions framed struggle as dispositional, uncontrollable, and permanent, while non-stereotypical attributions were situational, controllable, and temporary](dispositional-uncontrollable-permanent-attributions.md) — a narrower finding that bears on this claim
 - [Preservice teachers' attributions to struggle with computational thinking were predominantly stereotypical and negative](stereotypical-attributions-prevalence-ct-struggle.md) — related
+- [White, non-Hispanic participants remain over-represented in PAT clinical trials](white-participants-overrepresented-pat-trials.md) — related

@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 181 claims (129 show a difference, 32 mixed, 20 no difference) · 119 studies (59 causal, 22 review, 12 associational, 8 quant-synthesis, 7 theoretical, 6 design, 5 qualitative), `q1`–`q3` · 25 of 119 report an effect size · 179 claims rest on one study
+> **Evidence** · 184 claims (132 show a difference, 32 mixed, 20 no difference) · 122 studies (61 causal, 22 review, 13 associational, 8 quant-synthesis, 7 theoretical, 6 design, 5 qualitative), `q1`–`q3` · 26 of 122 report an effect size · 182 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -222,6 +222,9 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Post-earthquake conditions were perceived to positively affect critical thinking skills, dominated by gaining a different perspective](../claims/post-earthquake-positive-ct-effects.md) [+M] — measured as an outcome of the instruction studied
 - [Digital RPP improves critical thinking disposition more than traditional group practice](../claims/rpp-digital-platform-critical-thinking-gains.md) [+W] — measured as an outcome of the instruction studied
 - [Dimension-specific skill effects: RPP favored material preparation, operational skills, humanistic care, and critical thinking, but not patient assessment or general evaluation](../claims/rpp-dimension-specific-skill-effects.md) [+W] — measured as an outcome of the instruction studied
+- [Higher critical thinking scores predict membership in higher medication safety competence profiles](../claims/critical-thinking-predicts-medication-safety-competence-profile.md) [+M] — learners who differ on it differ in outcomes
+- [Scenario-based simulation ward rounds combined with video feedback improve critical thinking disposition in gastroenterology residents](../claims/simulation-ward-rounds-video-feedback-improve-critical-thinking.md) [+M] — measured as an outcome of the instruction studied
+- [Structured PEARLS debriefing is associated with higher critical thinking disposition across all seven CTDI-CV dimensions](../claims/debriefing-higher-critical-thinking-disposition.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

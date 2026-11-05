@@ -53,3 +53,4 @@ The report's challenge section cites statistics including that "Almost 40% of hi
 - [Global inclusion gaps persist despite large EdTech investment](inclusion-gap-persists-despite-edtech-investment.md) — related
 - [The Yolo County needs assessment identifies eight countywide needs for children, youth, and families, led by childcare, mental health access, and transportation](yolo-county-eight-countywide-needs.md) — related
 - [Many countries face serious STEM education problems, and tailoring instruction to students' knowledge levels is identified as a key challenge](stem-problems-tailoring-instruction-challenge.md) — related
+- [Focus groups identified lengthy pre-reading material as the predominant driver of learner dissatisfaction and disengagement with TBL.](tbl-pre-reading-burden-dissatisfaction.md) — related

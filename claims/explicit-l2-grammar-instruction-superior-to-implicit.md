@@ -10,6 +10,7 @@ generated:
   at: 2026-09-28
 evidence_strength: weak
 newest_evidence: 2022
+source_checked: 2026-11-05
 sources:
   - id: aydinbek-c-2022
     resource: "https://doi.org/10.5897/ERR2022.4230"
@@ -60,7 +61,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 5 studies · 3 quant-synthesis `r2`, 1 causal `r1`, 1 review `r2` · `q1`–`q3`
-> **Currency** · newest study 2022 · 4 of 5 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 5 of 5 entries) · not reviewed by a person
 
 ## Subclaims
 

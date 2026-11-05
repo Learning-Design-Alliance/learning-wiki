@@ -50,3 +50,4 @@ Crossover simulation study; visible-first group performance in the hidden condit
 - [In hidden-first participants ventilating a preterm manikin, visible RFM feedback significantly reduced breath-to-breath variability in tidal volume and mask leak](visible-rfm-feedback-reduces-ventilation-variability-preterm.md) — related
 - [Most ventilation adjustments occurred when RFM feedback was visible, suggesting real-time feedback prompted corrective action](ventilation-adjustments-occur-under-visible-rfm-feedback.md) — related
 - [Real-time feedback training does not improve ventilation quality; both groups fail the 500–600 mL tidal volume target](real-time-feedback-no-ventilation-improvement.md) — reports the opposite
+- [The proportion of successful attempts on key PBLS actions rose significantly from pre-test to post-test after training, in one uncontrolled pre-post study](simulation-pbls-increases-successful-attempts.md) — related

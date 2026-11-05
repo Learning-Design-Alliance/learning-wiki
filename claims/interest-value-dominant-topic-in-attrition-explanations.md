@@ -53,3 +53,4 @@ Consensus coding of all 192 leaver responses into four themes (confidence/abilit
 - [Leavers reported lower end-of-semester interest, lower prior achievement, and lower biology grades than stayers, with no differences in FG status, gender, or baseline interest](leavers-lower-interest-achievement-grades-than-stayers.md) — related
 - [Four factors explain students' sense of belonging in STEM, with interpersonal relationships the most commonly cited](four-factors-interpersonal-relationships-competence-interest-identity-explain-belonging.md) — related
 - [URM students left biomedical fields at higher rates than majority students, an effect explained in part by their lower biology course grades](urm-higher-biomedical-attrition-mediated-by-grades.md) — related
+- [Placement participation was elective and self-selected, attracting students more comfortable with teaching's interpersonal demands](anatomy-ems-self-selection-bias.md) — related

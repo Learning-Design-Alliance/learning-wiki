@@ -59,6 +59,7 @@ The article recommends embedding the standards into structured professional lear
 - [Provide staff and student induction and ongoing training for educational technologies in inquiry-based contexts](staff-student-induction-training-edtech-pbl.md)
 - [Train teachers and tutors on instructional use rather than device mastery, and include school-level storage and maintenance training](ict-capacity-building-instructional-focus.md)
 - [Develop structured, standardized training pathways for simulation technicians integrating technical and pedagogical domains](structured-training-pathways-simulation-technicians.md)
+- [Advance PMSC training through explicit competency definitions, structured workplace-based learning, competency-oriented assessment, national training modules, and faculty development.](strategy-advance-pmsc-cbme-framework.md)
 
 ## Examples
 -

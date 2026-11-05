@@ -54,6 +54,7 @@ The chapter recommends institutions translate the teaming framework into practic
 - [Deploy GenAI for continuous longitudinal analysis of student development to enable ipsative feedback, and scaffold feedback literacies for all students](genai-ipsative-progress-tracking-strategy.md)
 - [Stage XR pilot implementations for elementary STEM with small cohorts, co-design, and interpretable analytics](staged-xr-pilot-implementation-guidance.md)
 - [Staged multi-group pilot and mixed-method evaluation with a benchmark control group](fas-staged-multigroup-pilot-strategy.md)
+- [Institutions should pilot low-stakes, prespecify evaluation indicators, and scale only after governance, faculty capacity, and equity safeguards are in place](phased-low-stakes-pilot-implementation.md)
 
 ## Examples
 -

@@ -54,3 +54,5 @@ Retrospective single-group pre/post analysis of 40 nuclear medicine residents us
 - [Flipped classroom significantly improves practical exam scores over lecture-based learning (pooled SMD 0.50)](fc-practical-exam-smd-050.md) — related
 - [Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82).](flipped-classroom-higher-student-satisfaction-medical-education.md) — related
 - [Both CBL and GBL in a virtual flipped classroom produce significant within-group knowledge gains over time](cbl-gbl-virtual-flipped-significant-gains.md) — a broader claim this one bears on
+- [Students have access to radiography during internships in all faculties (100%), while interventional radiology and nuclear medicine are accessible in none (0%).](internship-imaging-modality-access-radiography-universal-interventional-nuclear-absent.md) — related
+- [Participant performance in the SIAPeC Quiz varied widely, with correct response rates ranging from 0% to 100% across questions](siapec-quiz-performance-variation.md) — related

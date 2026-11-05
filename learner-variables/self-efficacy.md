@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 274 claims (206 show a difference, 38 mixed, 30 no difference) · 218 studies (72 causal, 67 associational, 32 review, 19 qualitative, 10 quant-synthesis, 10 design, 7 theoretical), `q1`–`q4` · 45 of 218 report an effect size · 270 claims rest on one study
+> **Evidence** · 275 claims (207 show a difference, 38 mixed, 30 no difference) · 219 studies (72 causal, 68 associational, 32 review, 19 qualitative, 10 quant-synthesis, 10 design, 7 theoretical), `q1`–`q4` · 46 of 219 report an effect size · 271 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -305,6 +305,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Qualitative interviews revealed enhanced critical appraisal skills, evidence synthesis capabilities, and professional confidence](../claims/qualitative-ebp-competency-gains.md) [+M] — measured as an outcome of the instruction studied
 - [Teaching self-efficacy and perceived teacher competence mediate the P-O fit–job satisfaction link independently and as a chain](../claims/chain-mediation-fit-efficacy-competence-satisfaction.md) [+M] — learners who differ on it differ in outcomes
 - [Teaching self-efficacy positively predicts perceived teacher competence and job satisfaction](../claims/self-efficacy-predicts-competence-satisfaction.md) [+M] — learners who differ on it differ in outcomes
+- [PHTLS-trained professionals report lower self-perceived competence than non-trained peers](../claims/phtls-training-lower-self-perceived-competence.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2016
-source_checked: 2026-10-19
+source_checked: 2026-11-05
 sources:
   - id: van-de-kamp-2016
     resource: "https://doi.org/10.1007/s11251-016-9384-y"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2016 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In two cohorts of Grade-11 students, a 50-minute strategy instruction on divergent thinking produced positive effects on fluency, flexibility and originality compared with a regular brainstorm lesson. [→ van de Kamp 2016](#van-de-kamp-2016)

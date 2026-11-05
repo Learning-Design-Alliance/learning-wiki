@@ -50,3 +50,4 @@ Scoping review searching PubMed, Scopus and Google Scholar (2000–2025) with th
 - [TBL alone and TBL combined with other methods both outperform LBL, with no significant difference between the two TBL formats](tbl-alone-versus-blended-no-significant-difference.md) — related
 - [No included studies applied AI-based modalities specifically to public health education, though external reviews report positive satisfaction with AI-assisted PBL and CBL](no-ai-studies-in-public-health-active-learning-yet.md) — related
 - [One included study reported a 13.2% per-student cost reduction with CBL versus TL, but cost-efficiency was not consistently reported](cbl-cost-reduction-13-2-percent-single-study.md) — related
+- [Students preferred PBL over TBL, citing clearer objectives, fuller participation, and more suitable pacing in small-group discussion.](students-preferred-pbl-over-tbl.md) — related

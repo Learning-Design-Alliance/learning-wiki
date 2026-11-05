@@ -67,3 +67,4 @@ Time analysis (Table 8): five graders spent 138 minutes scoring 117 responses pl
 - [In the one human-vs-LLM comparison, human-written MCQs outperformed ChatGPT-generated MCQs in quality and validity, while AI was far faster](humans-outperform-chatgpt-mcq-quality.md) — related
 - [The e-learning group needed far less time for reading and learning than the traditional group](ecme-less-learning-time.md) — related
 - [A custom GPT-based model generated pharmacology SAQ feedback approximately 15 times faster than fully manual faculty marking in a pilot study](custom-gpt-saq-feedback-15x-faster-than-manual-marking.md) — related
+- [All four LLMs completed the 240-question assessment in under 3 minutes, far faster than the human time allocation](llms-complete-frcs-urol-under-three-minutes.md) — related

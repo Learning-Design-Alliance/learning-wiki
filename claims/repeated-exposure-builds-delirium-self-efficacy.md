@@ -76,3 +76,7 @@ Students reflected on growing ability to cope, with one noting experience from t
 - [Students experience anxiety and nervousness during simulation but recognize emotional regulation as central to safe patient interaction](simulation-emotional-regulation-anxiety.md) — related
 - [Increased exposure to unsupervised difficult conversations is associated with greater emotional confidence, while rare exposure is associated with higher distress](exposure-frequency-emotional-reaction-association.md) — a narrower finding that bears on this claim
 - [Mean clinical skill anxiety scores declined progressively with year of study](csa-declines-with-year-of-study.md) — possibly the same claim (merge candidate)
+- [Nursing students use peer support, effective communication, knowledge-seeking, nurse support and self-affirmation as coping strategies](coping-strategies-peer-support-self-affirmation.md) — related
+- [Nursing students report emotional responses of inadequacy, low motivation, low self-confidence and fear during clinical practice](emotional-responses-inadequacy-low-motivation-fear.md) — reports the opposite
+- [Simulation-based BLS training evokes strong emotional engagement and builds nursing students' confidence through repeated practice in a safe, mistake-tolerant environment](simulation-bls-emotional-engagement-confidence.md) — related
+- [Nursing students experience inadequacy in clinical decision-making as the biggest challenge during clinical practice](inadequacy-clinical-decision-making-biggest-challenge.md) — related

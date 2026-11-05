@@ -48,3 +48,4 @@ Cavity classification (poor/moderate/good) analyzed with the Fisher–Freeman–
 - [Preclinical HVRS training significantly improves endodontic access cavity preparation scores on real patients](hvrs-training-improves-access-cavity-scores.md) — related
 - [Students perceived HVRS training as useful and wanted it integrated into the endodontics curriculum](hvrs-positive-student-perceptions.md) — related
 - [Level-1 ('largely unaware') answers were more frequent in the control group (40%) than the experimental group (16%), while level-2 answers were nearly equal (44% vs 48%)](level1-difference-control-vs-experimental.md) — related
+- [No significant change in self-confidence across stages for access cavity preparation, radiographic evaluation, post-treatment follow-up, or patient communication](dental-confidence-null-procedures-no-change.md) — related

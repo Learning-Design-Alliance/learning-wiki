@@ -43,6 +43,7 @@ The ADDIE model "consists of the phases of analysis, design, development, implem
 
 - [ADDIE model as a five-phase instructional design framework](addie-five-phase-instructional-design-model.md)
 - [Holistic Model of Life Cycle Interactive Physics Learning Software Development](holistic-life-cycle-interactive-physics-software-development-model.md)
+- [The ADDIE model as a framework for designing simulation-based delineation training](addie-model-sbl-program-design.md)
 
 ## Examples
 -

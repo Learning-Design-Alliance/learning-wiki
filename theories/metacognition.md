@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 510 claims (243 for, 237 mixed, 30 against) · 276 studies (136 causal, 57 associational, 34 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 8 design), `q1`–`q4` · 92 of 276 report an effect size · 503 claims rest on one study
+> **Evidence** · 511 claims (243 for, 238 mixed, 30 against) · 277 studies (136 causal, 58 associational, 34 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 8 design), `q1`–`q4` · 92 of 277 report an effect size · 504 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -554,6 +554,7 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Trainees who overestimated themselves were rated less competent by the expert](../claims/overestimators-rated-less-competent.md) [+W]
 - [Self-reported confidence and familiarity with screening tools did not reliably translate into accurate sepsis determination](../claims/confidence-competence-gap-sepsis-recognition.md) [-W]
 - [Less surgical experience is associated with overestimation of abilities](../claims/less-experience-overestimation.md) [-W]
+- [Knowledge–confidence inverse pattern is strongest among paramedics and non-trained resident physicians](../claims/phtls-knowledge-confidence-subgroup-pattern.md) [~M] — attached 2026-11-04 from Çevikbaş Pınar et al. (2026), which proposed "Dunning-Kruger-like effect as an interpretive lens for the knowledge–confidence paradox".
 
 ## The evidence by question
 

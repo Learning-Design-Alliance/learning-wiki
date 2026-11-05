@@ -58,3 +58,4 @@ Single-factor repeated-measures ANOVA for the 32 experimental-group students; me
 - [Feasibility study shows WHS increases teacher self-efficacy from pre to post](whs-feasibility-self-efficacy-increase.md) — related
 - [Science concept gains from keyword strategy instruction are retained six weeks after instruction ends](keyword-strategy-gains-retained-six-weeks.md) — related
 - [Teachers using We Have Skills! show greater improvement in self-efficacy than control teachers](whs-teacher-self-efficacy-improvement.md) — related
+- [Clinical self-efficacy improves within all training groups but shows no significant between-group differences](clinical-self-efficacy-improves-within-all-groups-no-between-group-difference.md) — related

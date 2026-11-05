@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2019
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: spencer-et-al-2019
     resource: "https://doi.org/10.1177/0271121418779439"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i1` small
-> **Currency** · newest study 2019 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Spanish receptive knowledge of the targeted words showed only a small effect (d = .34), with several children performing the same or worse at posttest. [→ Spencer et al. 2019](#spencer-et-al-2019)

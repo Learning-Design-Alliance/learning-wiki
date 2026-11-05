@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 206 claims (136 show a difference, 46 mixed, 24 no difference) · 176 studies (88 causal, 37 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 36 of 176 report an effect size · 202 claims rest on one study
+> **Evidence** · 208 claims (138 show a difference, 46 mixed, 24 no difference) · 177 studies (89 causal, 37 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 36 of 177 report an effect size · 204 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -263,6 +263,8 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [The feedback group shows longer hands-off time and total CPR time than the control group in 30:2 cycles](../claims/feedback-group-longer-hands-off-time.md) [+W] — measured as an outcome of the instruction studied
 - [Continued training yields significant gains in most OSATS subdomains except knowledge of instruments](../claims/continued-training-osats-subdomain-gains.md) [+M] — learners who differ on it differ in outcomes
 - [Task completion time worsens after training gaps, with efficiency loss evident by six months](../claims/robotic-simulation-efficiency-loss-by-six-months.md) [+M] — learners who differ on it differ in outcomes
+- [Students learning venipuncture with a segmented-interactive video scored significantly higher on the technical component than students using a continuous video](../claims/segmented-interactive-video-technical-component-significant.md) [+M] — an instructional effect differs with it
+- [More students in the segmented-interactive video group reached the competence level after the intervention (70.3% vs 55.6% in the continuous-video control group)](../claims/segmented-interactive-video-competence-level-descriptive-advantage.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 

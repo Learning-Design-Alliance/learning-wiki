@@ -61,3 +61,4 @@ Analysis of administrative records for first-time third, sixth, and eighth grade
 - [Retained students struggled in their second time through the promotional policy, with only about half meeting cutoffs and eighth graders doing worst](retained-students-struggle-second-time-through.md) — related
 - [Only 43% of retained third graders and 47% of retained sixth graders met the test criteria by summer 1998 despite four chances, yet over two-thirds were promoted the next year largely due to waivers](retained-students-low-second-year-passing.md) — related
 - [Sixth graders promoted in 1997 without meeting the test cutoff fared poorly at the eighth-grade gate, while Summer Bridge passers did relatively well](waived-students-poor-outcomes-second-gate.md) — related
+- [Students failing the Pass check phase are excluded from ranking and their peer evaluations removed](pass-check-exclusion-rule.md) — related

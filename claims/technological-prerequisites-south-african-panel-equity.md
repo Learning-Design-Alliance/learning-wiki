@@ -86,3 +86,4 @@ Qualitative Delphi data from the South African panel; the article reports this l
 - [Teachers and pupils perceived multimedia as an effective instructional medium, conditional on adequate facilities and curriculum-aligned materials](multimedia-perceived-effective-two-prerequisites.md) — related
 - [Non-users of VM blamed lack of hardware devices, internet access, technical knowledge, and insufficient promotion by instructional personnel](vm-nonusers-obstacles-devices-promotion.md) — related
 - [Access to technology and hardware was not seen as a barrier to SBE readiness, with adequate access reported (mean 3.21)](technology-access-not-a-barrier-to-sbe-readiness.md) — related
+- [Young new farmers show high acceptance and proficiency with digital technologies and platforms.](young-new-farmers-digital-technology-acceptance.md) — related

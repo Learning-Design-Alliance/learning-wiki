@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 139 claims (110 show a difference, 19 mixed, 10 no difference) · 117 studies (44 causal, 26 review, 14 qualitative, 11 quant-synthesis, 9 associational, 8 design, 5 theoretical), `q1`–`q3` · 11 of 117 report an effect size · 139 claims rest on one study
+> **Evidence** · 140 claims (111 show a difference, 19 mixed, 10 no difference) · 118 studies (44 causal, 26 review, 15 qualitative, 11 quant-synthesis, 9 associational, 8 design, 5 theoretical), `q1`–`q3` · 11 of 118 report an effect size · 140 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -181,6 +181,7 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Without teamwork supports, lack of trust creates individualistic learning and withdrawal; a low-key norming intervention improved teamwork through psychological safety](../claims/cbl-teamwork-supports-psychological-safety.md) [+M] — measured as an outcome of the instruction studied
 - [Cooperative learning swimming teaching produced the best social adaptability outcomes, especially peer interaction and collective integration](../claims/cooperative-learning-swimming-social-adaptability.md) [+M] — measured as an outcome of the instruction studied
 - [Participants most cited improved teamwork and exposure to rare clinical scenarios as key benefits](../claims/simulation-participants-valued-teamwork-and-rare-scenario-exposure.md) [+M] — measured as an outcome of the instruction studied
+- [Joint team-based training during single-port transition clarifies role-specific constraints and improves collaborative problem-solving](../claims/joint-sp-team-training-shared-mental-models.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

@@ -48,3 +48,4 @@ Open-ended comment field at the end of the first Delphi round allowed participan
 - [A two-round modified Delphi process achieved consensus on 273 of 343 preliminary psychomotor competency statements (79.6%) for Brazilian medical graduates](delphi-consensus-273-of-343-preliminary-competencies.md) — related
 - [The final national consensus catalog comprised 363 specialty-specific psychomotor competencies, corresponding to 244 unique competencies after harmonization](final-catalog-363-specialty-specific-244-unique-competencies.md) — related
 - [Delphi panel reaches broad consensus on CAMHS crisis team competencies and outcomes, with over 90% of proposed items meeting the consensus threshold](delphi-consensus-camhs-crisis-competencies-outcomes.md) — related
+- [A two-round modified Delphi process with a 36-physician voting panel finalized 32 high-priority mental health competencies for HPM physicians.](delphi-finalized-32-mental-health-competencies.md) — related

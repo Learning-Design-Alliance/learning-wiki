@@ -90,3 +90,4 @@ Descriptive group-specific coefficients from Table 9; the authors present these 
 - [Attitudinal outcomes did not differ significantly between roles across most studies, with isolated exceptions in self-efficacy and 3-month perceived learning transfer](attitudinal-outcomes-mostly-null-exceptions.md) — related
 - [Structure-outcome relationships appear largely universal across grade levels](structure-benefits-appear-universal-across-grade-levels.md) — related
 - [The negative load–flow association is stronger among nursing students with lower digital readiness](digital-readiness-moderates-load-flow-association.md) — related
+- [Higher GPT usage frequency is associated with more positive student perceptions, with significant differences between high and low usage groups](usage-frequency-associated-with-positive-perceptions-gpt-companion.md) — related

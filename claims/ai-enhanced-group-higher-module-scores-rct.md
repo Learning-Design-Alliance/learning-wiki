@@ -50,3 +50,4 @@ Three-arm parallel randomized controlled trial of 301 first-year nursing student
 - [The AI-enhanced group showed significantly higher one-month knowledge retention than both comparison groups](ai-enhanced-higher-knowledge-retention.md) — related
 - [Knowledge graph comprehension showed a very large effect favoring the AI-enhanced group, with all three groups differing significantly](knowledge-graph-comprehension-large-effect.md) — related
 - [Case-based inference accuracy was significantly higher in the AI-enhanced group than in both comparison groups](ai-enhanced-higher-case-inference-accuracy.md) — related
+- [AI-supported scenario training improves rehabilitation students' digital competence more than traditional-only training](ai-scenario-training-improves-digital-competence-rehabilitation-students.md) — related

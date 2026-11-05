@@ -45,7 +45,8 @@ The article designs a scaffolding sequence inserted between the planning and tra
 - [Scaffolding Medium Effect Conceptual Understanding](../claims/scaffolding-medium-effect-conceptual-understanding.md) [+M]
 
 ## Related Designs
-- 
+
+- [Five-phase scaffolding instructional design for language courses](five-phase-scaffolding-language-course.md)
 
 ## Examples
 -

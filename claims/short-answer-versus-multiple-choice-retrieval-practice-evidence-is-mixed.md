@@ -9,6 +9,7 @@ generated:
   at: 2026-09-24
 evidence_strength: mixed
 newest_evidence: 2017
+source_checked: 2026-11-05
 sources:
   - id: karpicke-2017
     resource: "https://doi.org/10.1016/B978-0-12-809324-5.21055-9"
@@ -56,7 +57,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (5 entries) · review `r3` · `q2` · `i0` negligible
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 5 of 5 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The chapter reports, citing Butler and Roediger (2007), that performance on a final short-answer test 1 month later was best after an initial short-answer test. [→ Karpicke 2017](#karpicke-2017)

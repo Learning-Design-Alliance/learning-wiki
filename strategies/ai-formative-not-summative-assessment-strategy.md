@@ -47,6 +47,7 @@ The review recommends that "the use of AI in summative assessment should be avoi
 - [Non-prescriptive GAI feedback via sequenced guiding questions calibrated to cognitive challenge](non-prescriptive-guiding-question-feedback.md)
 - [Summative Assessment to Measure Learning Over Time](summative_assessment_to_measure_learning_over_time.md)
 - [Design balanced, integrated assessment models that combine theoretical and laboratory learning and incorporate both formative and summative dimensions supported by technology](balanced-integrated-general-chemistry-assessment-models.md)
+- [Use the validated VR simulator test for both formative feedback and summative certification within a mastery learning training program](foi-test-formative-summative-mastery-learning-use.md)
 
 ## Examples
 -

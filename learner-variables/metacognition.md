@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 180 claims (115 show a difference, 39 mixed, 26 no difference) · 130 studies (61 causal, 20 associational, 16 review, 11 theoretical, 10 qualitative, 7 quant-synthesis, 5 design), `q1`–`q4` · 30 of 130 report an effect size · 179 claims rest on one study
+> **Evidence** · 181 claims (116 show a difference, 39 mixed, 26 no difference) · 131 studies (61 causal, 21 associational, 16 review, 11 theoretical, 10 qualitative, 7 quant-synthesis, 5 design), `q1`–`q4` · 30 of 131 report an effect size · 180 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -222,6 +222,7 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [Stated confidence discriminates correct from incorrect responses (GPT-5.2 AUROC approximately 0.87 to 0.90), though most configurations are net underconfident](../claims/llm-confidence-discriminates-correctness.md) [+W] — learners who differ on it differ in outcomes
 - [Better metacognitive knowledge of study strategies at course entry is associated with higher exam scores in introductory biology](../claims/metacognitive-knowledge-predicts-biology-exam-scores.md) [+W] — learners who differ on it differ in outcomes
 - [A 16-week personalized teaching intervention was associated with significantly higher posttest metacognitive strategy use across planning, monitoring, and evaluation among vocational college students.](../claims/personalized-teaching-higher-metacognitive-strategy-use.md) [+M] — measured as an outcome of the instruction studied
+- [Self-monitoring accuracy for a complex clinical skill improved over a six-month retention interval](../claims/self-monitoring-accuracy-improves-over-six-months.md) [+W] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

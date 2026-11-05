@@ -13,7 +13,7 @@ generated:
 # DoctorU
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 causal), `q3` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 DoctorU is a WeChat-based LLM virtual standardized-patient teaching system developed for medical history-taking practice, combining simulated patient dialogue with automated rubric scoring and formative feedback.
@@ -24,9 +24,11 @@ DoctorU is a WeChat-based LLM virtual standardized-patient teaching system devel
 
 ### Claims
 - [LLM-VSP self-practice improves medical history-taking performance in matched comparison (Cohen d=0.52)](../claims/llm-vsp-improves-history-taking-matched.md) [+M]
+- [Virtual standardized patient interview comprehensiveness rose across successive SP consultations in the AI-assisted group, in one uncontrolled pre-post study](../claims/virtual-sp-interview-comprehensiveness-increases-sp1-sp3.md) [+M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - Stone Alicia, Vicente Maria Asuncion, Xia Oudong, He Yuchen, Chen Chen, Yin Rong, Zhang Wuyang, Chang Haoli, Yang Wei, Li Fei, Li Xinhua, Xia Zhuying, Xie Xiaoyun, Huang Jing, Zeng Qiuming, Yang Guang, Wu Jing. (2026). Effect of Large Language Model–Powered Virtual Standardized Patients on History-Taking Among Undergraduate Medical Students: Propensity-Matched Cohort Study. JMIR Medical Education. https://doi.org/10.2196/92486
+- Wang, Q., Hu, C., Li, Y., Zhang, T., & Zhang, S. (2026). AI-assisted case-based learning and flipped classroom to improve clinical decision-making: a randomized controlled trial in reproductive medicine. Medical Education Online. https://doi.org/10.1080/10872981.2026.2670047

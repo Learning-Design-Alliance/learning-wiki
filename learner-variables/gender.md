@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 522 claims (275 show a difference, 109 mixed, 138 no difference) · 363 studies (161 associational, 145 causal, 20 review, 16 quant-synthesis, 10 design, 6 theoretical, 5 qualitative), `q1`–`q4` · 56 of 363 report an effect size · 514 claims rest on one study
+> **Evidence** · 526 claims (278 show a difference, 109 mixed, 139 no difference) · 367 studies (163 associational, 146 causal, 20 review, 16 quant-synthesis, 10 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 56 of 367 report an effect size · 518 claims rest on one study
 
 ## How to read this page
 
@@ -561,6 +561,10 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Higher in-school MVPA is associated with higher GPA among boys, with no significant association among girls](../claims/mvpa-gpa-boys-positive.md) [~M] — an instructional effect differs by group
 - [Female nursing students report greater e-learning satisfaction, higher self-efficacy, and higher perceived academic performance than male students](../claims/female-nursing-students-higher-satisfaction-self-efficacy-performance.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Females were significantly more likely than males to accept an additional wait of over 120 minutes](../claims/female-patients-tolerate-longer-additional-waits.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Cisgender men speak more during small-group or whole-class discussions, reinforcing perceptions of greater competence in STEM.](../claims/men-speak-more-discussions-competence-perceptions.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female students scored significantly higher than males on several post-test competency domains despite no pre-test gender differences](../claims/sbl-gender-differences-post-test-females-higher.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Male students reported higher confidence than female students despite no performance difference](../claims/male-students-report-higher-confidence-no-performance-difference.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Sex does not moderate sleep–outcome associations](../claims/sex-no-moderation-sleep.md) [-W] — an instructional effect differs by group
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

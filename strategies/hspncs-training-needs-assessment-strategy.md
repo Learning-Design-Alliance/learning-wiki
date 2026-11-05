@@ -47,7 +47,8 @@ The article recommends using the HSPNCS as a quantitative baseline for hospital 
 - [Item refinement reduced the scale from 45 to 36 items through NGT and pilot testing](../claims/hspncs-item-refinement-process.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use validated competency questionnaires to diagnose educator strengths and design targeted professional development](competency-diagnosis-professional-development-strategy.md)
 
 ## Examples
 -

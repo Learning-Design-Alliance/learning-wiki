@@ -27,7 +27,8 @@ A researcher-developed seven-item Likert questionnaire for evaluating perceived 
 - [Perceived usability of AR smart glasses was domain-specific: observation support, image quality, procedural understanding and recommendation scored higher (medians 4.5–5) than comfort and efficiency (median 3.5)](../claims/ar-glasses-domain-specific-usability-comfort-efficiency-lower.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [13-item training evaluation questionnaire adapted from validated international tools](13-item-training-evaluation-questionnaire-adapted-from-validated-international-tools.md)
 
 ## Key Sources
 - Fontes Carlos Edmundo Rodrigues, Castilio Rafael Fernandez, Moreno Félix Plaza, Aboboreira Mateus de Amorim, de Lima Maria Luíza Bernardo, Mansano Yves Henrique Ramos, Bodgan Claudio, Cavazana Willian Cesar, Massago Miyoko, Gurgel Sanderland José Tavares, de Andrade Luciano. (2026). Augmented reality in clinical skills simulation: usability and feasibility of smart glasses in a simulated environment. Acta Cirúrgica Brasileira. https://doi.org/10.1590/acb414626

@@ -56,3 +56,4 @@ Synthesis under the competence theme: a participant using Scratch described "It'
 - [Beyond cognitive gains, the experience increased girls' interest in computing and confidence, and fostered work ethics, perseverance, social development, digital citizenship, and independent learning](e5c-beyond-cognition-themes.md) — related
 - [Peer tutoring benefits extend to the tutors themselves, including confidence, autonomy, leadership, teamwork, and empowerment](peer-tutor-role-benefits-to-tutors.md) — related
 - [Response competency is a multidimensional construct combining technical skills with psychological resilience, collaboration, leadership, communication, and professional identity](response-competency-multidimensional-construct.md) — related
+- [Most participants who implemented their training reported increased self-value, empowerment and self-confidence](rvt-implementers-empowerment-confidence.md) — related

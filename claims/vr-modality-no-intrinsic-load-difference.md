@@ -62,3 +62,4 @@ ANCOVA on intrinsic cognitive load measured with the Differentiated Cognitive Lo
 - [Desktop VR with scaffolded interaction and reflective self-explanation reduces extraneous and intrinsic cognitive load compared to traditional instruction](desktop-vr-scaffolded-self-explanation-cognitive-load.md) — related
 - [Desktop VR and still-image presentations produced no significant differences on overall scenic orientation, timed detail recall, or time on learning presentation](desktop-vr-still-image-no-significant-main-effects-core-measures.md) — related
 - [Cognitive load does not differ between free-movement and seated VR conditions](cognitive-load-no-difference-vr-conditions.md) — related
+- [Text-graphic composite modality yields the highest knowledge acquisition efficiency despite moderate cognitive load](text-graphic-composite-optimal-learning-efficiency.md) — related

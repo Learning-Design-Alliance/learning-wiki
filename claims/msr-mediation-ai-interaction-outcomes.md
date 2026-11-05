@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-10
+source_checked: 2026-11-05
 sources:
   - id: davor-i-2026
     resource: "https://doi.org/10.3389/feduc.2026.1855869"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-10 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Bias-corrected bootstrapped indirect effects through metacognitive self-regulation were significant for scaffolding (β = .012 and .013), verification literacy (β = .016 and .018), and offloading (β = −.031 and −.035) on both outcomes. [→ Davor I 2026](#davor-i-2026)

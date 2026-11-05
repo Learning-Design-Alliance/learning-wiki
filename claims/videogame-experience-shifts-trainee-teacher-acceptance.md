@@ -50,3 +50,4 @@ Quasi-experimental pre/post survey of 65 students in the Media Education course 
 - [Students remained largely disagreeing that the videogame supports self-regulation of learning (continuous assessment)](videogame-self-regulation-item-stays-negative.md) — related
 - [A third of Spanish educators (36.4%) used videogames as didactic tools in 2011-2012, with younger teachers more willing](spanish-educators-videogame-use-36-percent.md) — related
 - [Videogame play in class fostered peer competition, peer support, and student attention and immersion](videogame-peer-collaboration-attention.md) — related
+- [Educators with more than one year of AR experience disagreed that AR should be used to teach anatomy while less-experienced educators agreed](experienced-educators-disagree-ar-teaching-anatomy.md) — related

@@ -50,6 +50,7 @@ The article enumerates five implementable institutional actions: "Recognise AI-d
 - [Strengthen institutional policies, ethics education, verification, disclosure, and data protection to support ethical GenAI use](institutional-strategies-ethical-genai-use.md)
 - [Fund AI literacy initiatives integrating AI ethics into curricula and adapting assessments](ai-literacy-ethics-curricula-assessment-strategy.md)
 - [Role-specific pilot actions for shifting to an open knowledge system](stakeholder-open-knowledge-pilot-actions.md)
+- [Institutions should pilot low-stakes, prespecify evaluation indicators, and scale only after governance, faculty capacity, and equity safeguards are in place](phased-low-stakes-pilot-implementation.md)
 
 ## Examples
 -

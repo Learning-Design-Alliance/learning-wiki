@@ -48,3 +48,4 @@ Bayesian fit of the maximal item-varying random-effects specification on 890 QWK
 ## Related Claims
 - [Decoder-only (GPT-style) architectures underperform encoder-based architectures in short-answer scoring agreement with humans by a substantial margin](decoder-only-underperforms-encoders-scoring.md) — related
 - [State interviewees raised three equity concerns about performance-based assessments: perceived lower rigor and tracking, uneven implementation quality, and inequitable or unreliable scoring](equity-concerns-performance-based-assessments.md) — related
+- [Substantial within-model output instability was identified, most notably GPT-5.2 in female urology (SD ±22.8%) and anatomy (SD ±14.2%)](llm-output-instability-female-urology-anatomy.md) — related

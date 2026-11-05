@@ -63,6 +63,7 @@ Belonging is a strong predictor of persistence, engagement, and achievement, and
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — valuing students' existing knowledge signals that their backgrounds are assets, a direct belonging cue
 - [Cultivate mathematics belonging by publicly recognizing every student as a mathematical thinker](mathematics-belonging-recognition-practices.md)
 - [Deliver a brief online role model letter that normalizes belonging concerns, frames academics as an investment, and exemplifies overcoming challenges](brief-online-role-model-letter-strategy.md)
+- [Actively address status hierarchies through the multiple abilities intervention and the assigning competence intervention.](status-interventions-multiple-abilities-assigning-competence.md)
 
 ## Examples
 - **Social-belonging intervention (Walton & Cohen)** — Students read survey results showing that worries about fitting in are common and diminish over time, then write about their own experience; a single session improved GPA and halved the racial-achievement gap among marginalized students years later.

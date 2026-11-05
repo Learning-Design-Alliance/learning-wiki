@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 142 claims (83 for, 55 mixed, 4 against) · 90 studies (44 causal, 19 quant-synthesis, 13 review, 5 associational, 5 design, 2 qualitative, 2 theoretical), `q1`–`q4` · 32 of 90 report an effect size · 134 claims rest on one study
+> **Evidence** · 144 claims (84 for, 56 mixed, 4 against) · 92 studies (46 causal, 19 quant-synthesis, 13 review, 5 associational, 5 design, 2 qualitative, 2 theoretical), `q1`–`q4` · 33 of 92 report an effect size · 136 claims rest on one study
 
 ## Conditional relationship
 
@@ -183,6 +183,8 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [ICM students reported significantly higher preparation ratings than frontal-teaching students, with large effects on the overall preparation score](../claims/icm-higher-preparation-ratings-dental.md) [+W] — attached 2026-11-04 from Reuter Ann Katrin et al. (2026), which proposed "Implement the inverted classroom model as a complement to traditional teaching, with institutional support and careful attention to cognitive load in early-stage learners"; tests this page's relationship.
 - [ICM students rated collaborative learning significantly higher than frontal-teaching students, with large effects](../claims/icm-higher-collaborative-learning-ratings.md) [+W] — attached 2026-11-04 from Reuter Ann Katrin et al. (2026), which proposed "Implement the inverted classroom model as a complement to traditional teaching, with institutional support and careful attention to cognitive load in early-stage learners"; tests this page's relationship.
 - [ICM students reported higher active participation and motivation, but frontal-teaching students scored higher on deepening content outside class](../claims/icm-active-participation-mixed-outside-class.md) [~W] — attached 2026-11-04 from Reuter Ann Katrin et al. (2026), which proposed "Implement the inverted classroom model as a complement to traditional teaching, with institutional support and careful attention to cognitive load in early-stage learners"; tests this page's relationship.
+- [Total clinical reasoning OSCE scores rose from pre-test to post-test among emergency medicine clerkship students in a single-group pre-test–post-test study of an online flipped classroom intervention](../claims/ofc-improved-clinical-reasoning-osce-emergency-clerkship.md) [+W] — attached 2026-11-04 from Delirrooyfard Ali et al. (2026), which proposed "Use a structured online flipped classroom design to develop clinical reasoning during clinical clerkships".
+- [Total cumulative study time is comparable between AI-assisted CBL+FC and lecture-based groups despite more intensive pre-class preparation](../claims/ai-assisted-cbl-fc-comparable-total-study-time.md) [~W] — attached 2026-11-04 from Wang et al. (2026), which proposed "Redistribute cognitive workload to pre-class AI-supported acquisition so in-class time serves higher-order clinical learning".
 
 ## Objective and learner-valued goal
 

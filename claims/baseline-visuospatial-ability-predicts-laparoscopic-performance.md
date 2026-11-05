@@ -74,3 +74,4 @@ Pearson correlations at baseline (T1) between the 3D visuospatial T-score and la
 - [Visual-spatial working memory predicts higher-order QNC (Level II/III) but not basic numerical skills, and is linked to Grade 3 math only indirectly](visuospatial-sketchpad-predicts-higher-qnc.md) — related
 - [tDCS showed no independent effect on camera navigation or hand–eye coordination outcomes in laparoscopic training](tdcs-no-effect-camera-navigation-hand-eye.md) — related
 - [Male participants performed significantly better than females in final camera navigation and bimanual coordination, but not hand–eye coordination](sex-difference-laparoscopic-final-performance.md) — related
+- [No significant associations between baseline anatomical knowledge or visuospatial ability and ultrasound performance](no-baseline-predictors-ultrasound-performance.md) — reports the opposite

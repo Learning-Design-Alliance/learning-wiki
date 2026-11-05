@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 288 claims (137 for, 136 mixed, 15 against) · 214 studies (67 causal, 63 associational, 28 review, 18 quant-synthesis, 15 theoretical, 13 qualitative, 10 design), `q1`–`q4` · 49 of 214 report an effect size · 272 claims rest on one study
+> **Evidence** · 291 claims (138 for, 138 mixed, 15 against) · 215 studies (68 causal, 63 associational, 28 review, 18 quant-synthesis, 15 theoretical, 13 qualitative, 10 design), `q1`–`q4` · 49 of 215 report an effect size · 275 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -335,6 +335,9 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Weekly reflections were barely used while learning goals and daily reflections dominated actual app use](../claims/weekly-reflections-barely-used-goals-daily-dominant.md) [~W] — attached 2026-11-04 from Ivo Bril-Broers et al. (2026), which proposed "Self-regulated learning cycle model underlying the Nurse-IT reflection app".
 - [Smartphone-based reflection app lowered practical barriers to structural reflection and decreased the mental burden of self-regulated learning for nursing students on clinical placement](../claims/reflection-app-lowers-barriers-structural-reflection-nursing-placement.md) [+W]
 - [Radar charts after feedback helped novice nurses identify strengths, weaknesses and track progress across clinical domains](../claims/mini-cex-dops-radar-charts-progress-tracking.md) [+W]
+- [Perceived teacher support is positively correlated with all three types of self-regulated learning (preparation, performance, self-evaluation).](../claims/teacher-support-correlates-srl-types.md) [~W] — attached 2026-11-04 from Zhu An (2026), which proposed "Expected Value Theory-based model linking perceived teacher support, three SRL types, and learning achievement".
+- [All three types of self-regulated learning are positively associated with learning achievement in emergency language courses.](../claims/srl-types-predict-achievement.md) [+W] — attached 2026-11-04 from Zhu An (2026), which proposed "Expected Value Theory-based model linking perceived teacher support, three SRL types, and learning achievement".
+- [Self-regulated learning partially mediates the effect of perceived teacher support on learning achievement.](../claims/srl-partially-mediate-teacher-support-achievement.md) [~W] — attached 2026-11-04 from Zhu An (2026), which proposed "Expected Value Theory-based model linking perceived teacher support, three SRL types, and learning achievement".
 
 ## The evidence by question
 

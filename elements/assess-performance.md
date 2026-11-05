@@ -85,6 +85,7 @@ Performance assessment is most effective when criteria are transparent and feedb
 
 **[Codecademy](https://www.codecademy.com)** — Project-based assessments in which learners build working artifacts evaluated against checklists, assessing integrated skill rather than isolated syntax.
 - [Use a three-part process-understanding-product rubric for formative and summative maker assessment](../strategies/three-part-rubric-maker-assessment.md)
+- [Use the validated VR simulator test for both formative feedback and summative certification within a mastery learning training program](../strategies/foi-test-formative-summative-mastery-learning-use.md)
 
 ## Key Sources
 - Black, P., & Wiliam, D. (1998). Assessment and classroom learning. *Assessment in Education: Principles, Policy & Practice, 5*(1), 7–74. [doi:10.1080/0969595980050102](https://doi.org/10.1080/0969595980050102)

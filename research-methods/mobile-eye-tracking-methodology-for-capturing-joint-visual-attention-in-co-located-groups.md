@@ -30,6 +30,7 @@ The paper describes a methodology for studying co-located collaborative groups u
 
 - [Eye-tracking research paradigm for studying professional vision and teacher expertise](eye-tracking-research-paradigm-for-studying-professional-vision-and-teacher-expertise.md)
 - [Time-course and mixed-effects analysis of educational eye-tracking data](time-course-and-mixed-effects-analysis-of-educational-eye-tracking-data.md)
+- [Quantitative motion-capture and eye-tracking analysis of medical skill proficiency](quantitative-motion-capture-and-eye-tracking-analysis-of-medical-skill-proficiency.md)
 
 ## Key Sources
 - Schneider, B., Sharma, K., Cuendet, S., Zufferey, G., Dillenbourg, P., & Pea, R. (2018). Leveraging mobile eye-trackers to capture joint visual attention in co-located collaborative learning groups. International Journal of Computer-Supported Collaborative Learning, 13(3), 241–261. https://doi.org/10.1007/s11412-018-9281-2

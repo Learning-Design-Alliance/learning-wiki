@@ -49,3 +49,4 @@ Abstract-reported result substantiated in Results Tables 1 and 4: SC total-score
 - [Under single-pass deployment, Fs+CoT prompting yields the strongest agreement with teacher mean scores for music-analysis essay scoring (r = 0.795, ICC (2,1) = 0.657)](fscot-strongest-teacher-agreement-run1.md) — related
 - Median aggregation across three runs produces only minor changes in agreement and does not alter the ordering of prompting strategies — related
 - [Prompting strategies produce distinct directional bias profiles: Fs+CoT under-scores (bias = -1.730), RAG over-scores (bias = 1.787), and SC shows minimal directional bias (bias = -0.083)](strategy-specific-bias-profiles.md) — related
+- [Substantial within-model output instability was identified, most notably GPT-5.2 in female urology (SD ±22.8%) and anatomy (SD ±14.2%)](llm-output-instability-female-urology-anatomy.md) — related

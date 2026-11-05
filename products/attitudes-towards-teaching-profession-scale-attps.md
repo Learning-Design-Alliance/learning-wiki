@@ -35,6 +35,7 @@ A 12-item, five-point Likert self-report scale developed by Serçe Hüseyin et a
 - [School Attitude Assessment Survey-Revised (SAAS-R)](school-attitude-assessment-survey-revised-saas-r.md)
 - [20-item five-point Likert attitude questionnaire on listening](20-item-five-point-likert-attitude-questionnaire-on-listening.md)
 - [Spanish adaptation of the Community Service Attitudes Scale (CSAS)](spanish-adaptation-of-the-community-service-attitudes-scale-csas.md)
+- [Vaccine Opposition Scale (VOS)](vaccine-opposition-scale-vos.md)
 
 ## Key Sources
 - Serçe Hüseyin, Aydoğmuş Mevlüt, Şentürk Cihad. (2026). Psychological predictors of professional readiness: modeling the effects of preservice teachers' 21st-century skills on self-efficacy and professional attitudes. BMC Psychology. https://doi.org/10.1186/s40359-026-05039-7

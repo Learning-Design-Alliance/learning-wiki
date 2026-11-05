@@ -27,7 +27,8 @@ A 34-item five-point Likert self-report scale developed by Wu et al. to assess t
 - [Self-directed learning competence is positively associated with core competence among infectious disease nurses](../claims/self-directed-learning-competence-core-competence-infectious-disease-nurses.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Vaccine Opposition Scale (VOS)](vaccine-opposition-scale-vos.md)
 
 ## Key Sources
 - Zhang Jian-Wei, Yue Li-Hong, Wang Yan, Duan Jia-Yu, Shan Hai-Hong. (2026). Influence of self-efficacy and self-directed learning competence on core competence among nurses specializing in infectious diseases: a cross-sectional study. Frontiers in Public Health. https://doi.org/10.3389/fpubh.2026.1775251

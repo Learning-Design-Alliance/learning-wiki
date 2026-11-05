@@ -47,3 +47,4 @@ The review reports that "IONM-based education lowered recurrent laryngeal nerve 
 ## Related Claims
 - [Feedback content matters: feedback on the procedural skill was superior to feedback on results, and light/buzzer feedback outperformed voice or no feedback](usra-feedback-content-matters.md) — related
 - [Isolated feature comparisons: multiple learning strategies with repetitive practice increased self‐reported block success, and AI‐assisted nerve identification reduced patient complications](usra-isolated-feature-trials.md) — related
+- [PDCA implementation significantly reduced oesophageal intubation and laryngeal oedema/vocal cord injury rates](pdca-reduces-key-etl-complications.md) — related

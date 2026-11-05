@@ -52,3 +52,4 @@ Cross-sectional study (Table 4) of 21 urological trainees and experts completing
 - [Robotic VR simulator performance is positively correlated with intraoperative performance, with a pooled correlation of r = 0.67 (95% CI 0.22 to 0.88)](vr-simulator-performance-predicts-intraoperative-performance-r067.md) — a broader claim this one bears on
 - [Depth perception is the GEARS subdomain that significantly improves with simulator training, while bimanual dexterity and efficiency show non-significant positive trends](depth-perception-significant-gains-simulator-training.md) — related
 - [Virtual-reality simulator training alone failed to show significant transfer to in vivo porcine suturing in a cited prior randomized trial, contrasting with the present physical-simulator findings](vr-simulator-training-no-transfer-porcine-suturing.md) — related
+- [The K technique exercise stimulates five of six GEARS skill domains](k-technique-stimulates-five-gears-domains.md) — related

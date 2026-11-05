@@ -9,6 +9,7 @@ generated:
   at: 2026-09-28
 evidence_strength: moderate
 newest_evidence: 2011
+source_checked: 2026-11-05
 sources:
   - id: ponniah-2011
     resource: "https://doi.org/10.26634/jelt.1.2.1452"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Vocabulary can be acquired subconsciously while receiving comprehensible input, and this incidental acquisition outperforms intentional (conscious, tool-supported) learning in effectiveness per unit of time and in retention. [→ Ponniah 2011](#ponniah-2011)

@@ -55,3 +55,4 @@ One-way ANOVA in the same quasi-experiment (27 control, 34 treatment grade XI ph
 - [Prospective teachers taught with an activity-based blended learning strategy reported significantly higher motivation than those taught with conventional blended learning](abl-motivation-beats-conventional-blended.md) — related
 - [ARCS motivation factors significantly predict learning achievement](arcs-factors-predict-learning-achievement.md) — related
 - [Learning-motivation subdimensions each positively predict creativity](motivation-subdimensions-predict-creativity.md) — related
+- [The ARCS + BOPPPS blended learning model significantly enhances student learning motivation across all four ARCS dimensions in Endodontics education](arcs-boppps-blended-model-enhances-learning-motivation.md) — related

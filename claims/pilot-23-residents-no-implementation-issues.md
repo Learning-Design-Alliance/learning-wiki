@@ -49,3 +49,5 @@ Downstream pilot of the full workshop (didactic, simulation with competency rubr
 - [Simulation interventions showed positive usability and feasibility, with technical preparation needs sometimes causing non-completion](usability-feasibility-technical-issues.md) — related
 - [A pilot test with 20 nursing students found no difficulties in understanding or completing the questionnaire](csl-lts-pilot-comprehensibility.md) — related
 - [Knowledge and confidence improvements show no significant differences among specialties](menopause-simulation-no-specialty-differences.md) — related
+- [Eye-tracking-based VR feedback with simulated ED interruptions was feasible to implement in a pilot trial](eye-tracking-vr-feedback-feasibility-pilot.md) — related
+- [All 20 enrolled residents completed the full simulation-based mastery learning program for nasolacrimal duct probing](sbml-nasolacrimal-probing-feasibility-completion.md) — related

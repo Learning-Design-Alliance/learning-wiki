@@ -40,6 +40,7 @@ The article recommends that professional development programmes integrate online
 ## Related Strategies
 
 - [Integrate ECE into dental curricula through hybrid models balancing simulation and real patient contact](hybrid-ece-curriculum-integration-strategy.md)
+- [Integrate simulation-based learning into interprofessional curricula to cultivate collaboration early in training](integrate-sbl-into-interprofessional-curricula.md)
 
 ## Examples
 -

@@ -44,6 +44,7 @@ The article recommends reallocating scholarly attention from capability benchmar
 - [Research agenda for generative AI in teaching and learning: identify needed skills, resources and capabilities](generative-ai-skills-capabilities-research-agenda.md)
 - [Test whether student learning concepts and findings hold in online environments, and relate higher education curricula to secondary curricula](online-environments-validity-and-secondary-curriculum-link.md)
 - [Develop rigorous benchmarks for LLM data extraction tasks in education systematic reviews](develop-benchmarks-llm-data-extraction-education.md)
+- [Future work should evaluate LLM performance on Part B, viva-style and clinical scenario assessments and study effects on trainee learning outcomes](future-llm-evaluation-part-b-viva-learning-outcomes.md)
 
 ## Examples
 -

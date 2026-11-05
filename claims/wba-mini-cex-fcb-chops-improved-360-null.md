@@ -86,3 +86,4 @@ Within-cohort multisource 360-degree evaluation in the intervention cohort; the 
 - [End-of-rotation OSCE total score correlated moderately with FCB-CHOPS (r = 0.61) and mini-CEX (r = 0.48), indicating overlapping but non-identical constructs](osce-correlates-fcb-chops-mini-cex.md) — related
 - [AI-Mentor pilot improves overall clinical competence on Mini-CEX from pretest to posttest](ai-mentor-pilot-improves-overall-mini-cex.md) — related
 - [AI-Mentor pilot yields the largest gains in reasoning-aligned Mini-CEX domains, notably clinical judgment](ai-mentor-largest-gains-reasoning-domains.md) — related
+- [Workplace-based assessments such as 360-degree evaluations and mini-CEX are less frequently used than written examinations for assessing psychosomatic competency in Chinese GP residency programs.](workplace-based-assessment-less-frequent-than-written.md) — related

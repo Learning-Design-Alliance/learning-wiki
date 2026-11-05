@@ -52,3 +52,4 @@ Latent profile analysis (mclust, 1–6 profile solutions) on AI cognition and su
 - [Latent profile analysis of mobile study app log data identifies three distinct student engagement profiles: disengaged, utilitarian, and active](three-engagement-profiles-mobile-retrieval-app.md) — related
 - [Secondary students in AI learning fall into three distinct SDT-based motivational profiles — Disengaged, Developing, and Self-Determined — at both pre- and post-test](three-sdt-motivational-profiles-ai-learning.md) — related
 - [Four distinct action-control belief profiles (agentic, moderate, avoidant, and mixed) emerge among Finnish ninth graders](four-action-control-belief-profiles-ninth-graders.md) — related
+- [Latent profile analysis of Chinese clinical nurses' medication safety competence yields four distinct profiles](four-latent-profiles-medication-safety-competence-nurses.md) — related

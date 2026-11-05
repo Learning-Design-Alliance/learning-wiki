@@ -87,3 +87,4 @@ Baseline equivalence analysis using independent-samples t-tests on pretest score
 - [EFL students trained to use a rubric as an instructional tool outperformed control students on compare-and-contrast essay writing](rubric-instruction-improves-efl-writing-performance.md) — related
 - [Both DS-integrated and traditional writing instruction significantly improved narrative writing scores from pre-test to post-test](both-instruction-types-improved-narrative-writing.md) — related
 - [Online-based writing instruction produces equivalent overall essay performance gains compared to classroom-based instruction for ESL students](online-lms-writing-instruction-equivalent-gains.md) — related
+- [Scaffolding instruction produces significantly higher learning achievement than traditional instruction in undergraduate emergency language courses.](scaffolding-higher-achievement-emergency-language.md) — related

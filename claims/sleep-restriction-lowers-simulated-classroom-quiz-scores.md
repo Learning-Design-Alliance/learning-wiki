@@ -55,3 +55,4 @@ Counterbalanced within-subject sleep manipulation of 16 healthy adolescents (5 n
 - [Poorer sleep quality is associated with poorer Stroop Word and Color-Word performance in healthy older adults after controlling for hypertension and carbohydrate intake](poorer-sleep-quality-associated-poorer-stroop-word-color-word-performance.md)
 - [A 30-minute rest and a full night's sleep each add small further gains in mental multiplication output, with accuracy unchanged](rest-gains-small-mental-multiplication.md) — related
 - [School films tend to be shorter than adult films, with an average running time of 15 minutes compared to 22 minutes for adult films.](school-films-shorter-than-adult-films.md) — related
+- [Grade 9 within-pair effects show better sleep quality predicts better reading and mathematics, while less school-night sleep predicts better reading](grade9-within-pair-sleep.md) — related

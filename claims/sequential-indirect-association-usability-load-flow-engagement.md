@@ -49,3 +49,4 @@ Bias-corrected bootstrap with 5000 resamples on the 2016-respondent SEM; the thr
 - [Lower extraneous cognitive load is associated with greater flow experience, and greater flow with higher learning engagement](load-flow-engagement-associations-nursing-simulation.md) — related
 - [Greater AI system usability is associated with lower extraneous cognitive load and higher learning engagement in nursing virtual simulation](usability-associated-lower-load-higher-engagement-nursing-simulation.md) — related
 - [The negative load–flow association is stronger among nursing students with lower digital readiness](digital-readiness-moderates-load-flow-association.md) — related
+- [Subjective cognitive load is negatively correlated with achievement scores in nursing digital learning](negative-correlation-cognitive-load-achievement.md) — related

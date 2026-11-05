@@ -45,6 +45,7 @@ Because the DCBL format aligned best with discrete, guideline-amenable decision 
 ## Related Strategies
 
 - [Deliver DCBL as iterative, spaced exposure rather than a one-off session to support durable gains in complex clinical reasoning](iterative-spaced-dcbl-exposure-strategy.md)
+- [Pair education with system-level changes to shift responsibility attitudes in perioperative teams](pair-education-with-system-level-responsibility-changes.md)
 
 ## Examples
 -

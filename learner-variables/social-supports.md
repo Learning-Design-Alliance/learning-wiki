@@ -13,7 +13,7 @@ generated:
 # Social Supports
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 115 claims (84 show a difference, 21 mixed, 10 no difference) · 95 studies (27 associational, 17 review, 16 causal, 16 qualitative, 8 theoretical, 7 quant-synthesis, 4 design), `q1`–`q3` · 10 of 95 report an effect size · 115 claims rest on one study
+> **Evidence** · 116 claims (85 show a difference, 21 mixed, 10 no difference) · 96 studies (27 associational, 17 causal, 17 review, 16 qualitative, 8 theoretical, 7 quant-synthesis, 4 design), `q1`–`q3` · 10 of 96 report an effect size · 116 claims rest on one study
 
 ## Description
 Social supports are the people available to help a learner if needed, and the learner's perception that they are there: parents and family, friends and classmates, teachers and other school staff, and the wider community. The support they give can be emotional (care and compassion), appraisal (useful feedback), instrumental (time, money, resources) and informational (advice). The LVN stresses perception: feeling that support would be there, even if it is never called on, contributes to well-being and academic success, and help that is actually received can strengthen that perception and a learner's sense of efficacy. Effective support looks different across families and cultures and can be provided across income levels; what matters is what the people around a learner do. Supports can be eroded by family separation, bereavement, parental imprisonment, substance misuse or illness, by bullying and discrimination, and by moving schools, and a relationship with another trusted adult can partly make up for that. It is measured with perceived-support scales for children, adolescents and adults. It overlaps with [belonging](belonging.md) and with the [home learning environment](home-learning-environment.md).
@@ -151,6 +151,7 @@ Social supports are the people available to help a learner if needed, and the le
 - [Teacher support is positively and significantly correlated with high school students’ mathematics achievement (r = 0.091).](../claims/teacher-support-positive-correlation-math-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [PHEEM total score increased modestly, driven by role autonomy and teaching, with no change in the social-support domain](../claims/pheem-total-increased-social-support-null.md) [-M] — measured as an outcome of the instruction studied
 - [Support resources positively predict psychological state but do not mediate the foundation–success relationship](../claims/support-resources-covariate-not-mediator.md) [~M] — learners who differ on it differ in outcomes
+- [Self-regulated learning partially mediates the effect of perceived teacher support on learning achievement.](../claims/srl-partially-mediate-teacher-support-achievement.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

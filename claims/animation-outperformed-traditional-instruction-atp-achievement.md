@@ -64,3 +64,4 @@ Univariate Analysis of Variance comparing post achievement test scores of the co
 - [Secondary students taught the human digestive system with an animated instructional DVD significantly outperformed orally taught controls at all three Bauchi locations](animated-instructional-resource-outperforms-oral-teaching-bauchi.md) — related
 - [Pupils taught with the IWB and XERTE resource scored no better on post-tests than pupils taught traditionally](iwb-no-significant-score-difference-mauritius.md) — reports the opposite
 - [Direct instruction strategy improves basic mathematics achievement of 4th- and 5th-grade students with learning difficulties compared with traditional teaching](direct-instruction-improves-math-achievement-learning-difficulties.md) — related
+- [Summative academic performance in the AI-supported Reproduction module does not significantly differ from traditionally taught modules](no-significant-summative-performance-difference-ai-module.md) — related

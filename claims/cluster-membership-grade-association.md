@@ -77,3 +77,4 @@ Chi-square test of independence examining gender distribution across the three c
 - [The Devalued/Ambivalent profile is significantly overrepresented in academically selective magnet schools, and Resistors are underrepresented there](devalued-ambivalent-profile-overrepresented-in-magnet-schools.md) — related
 - [Response rates to a learning analytics consent email differ by gender and ethnicity, with Black students underrepresented and White students overrepresented among respondents](la-consent-response-gap-gender-ethnicity.md) — related
 - [The five clustering variables differed significantly across the four clusters, with large effect sizes for all five.](five-variables-differentiate-four-clusters.md) — related
+- [Demographic characteristics of young new farmers show significant distribution differences across gender, age, and education level.](young-new-farmers-demographic-distribution.md) — related

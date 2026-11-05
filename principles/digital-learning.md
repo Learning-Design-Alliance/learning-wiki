@@ -31,7 +31,7 @@ sources:
 # Digital Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 100 claims (43 for, 50 mixed, 7 against) · 109 studies (29 causal, 24 review, 18 theoretical, 16 quant-synthesis, 8 associational, 7 qualitative, 7 design), `q1`–`q4` · 14 of 109 report an effect size · 89 claims rest on one study
+> **Evidence** · 101 claims (44 for, 50 mixed, 7 against) · 110 studies (29 causal, 24 review, 18 theoretical, 16 quant-synthesis, 8 associational, 8 qualitative, 7 design), `q1`–`q4` · 14 of 110 report an effect size · 90 claims rest on one study
 
 ## Conditional relationship
 
@@ -168,6 +168,7 @@ Claims read against this model that bear on it only at the edges, or not at all.
 - [Multimedia materials alone are insufficient: attitude changes required interactivity and hands-on use](../claims/interactivity-hands-on-required-attitude-change.md) [+W] — attached 2026-11-03 from Záhorec et al. (2010), which proposed "Multimedia teaching materials must offer interactivity and hands-on student use to influence attitudes"; tests this page's relationship.
 - [Access to a structured Google Sites learning pathway increases consistent use of the faculty-recommended nine-step ECG interpretation worksheet.](../claims/google-sites-increases-worksheet-use.md) [+W] — attached 2026-11-04 from El Ayech Boudiche Faten et al. (2026), which proposed "Embed the faculty-recommended structured worksheet within the digital learning pathway rather than leaving it as a standalone resource".
 - [MEES motivation, learning enhancers, and real-world translation domains were highly rated, while barriers and learning discouragers received low scores](../claims/mees-domain-scores-pediatric-elearning.md) [+W] — attached 2026-11-04 from Hrasnica F et al. (2026), which proposed "Incorporate key messages, feedback, real-world cases, interactivity, and customizable content into e-learning tools".
+- [Educators found AR presented more challenges than benefits for anatomy education, citing hardware instability and inadequate anatomical detail compared to cadaveric specimens](../claims/ar-more-challenges-than-benefits-anatomy.md) [+W] — attached 2026-11-04 from Williams A et al. (2026), which proposed "Match AR hardware delivery method to the intended learning benefit: mobile devices for individual learning, HMDs for collaborative and immersive benefits".
 
 ## Objective and learner-valued goal
 

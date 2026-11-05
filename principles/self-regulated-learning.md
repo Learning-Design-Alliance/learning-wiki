@@ -312,6 +312,7 @@ Gains in strategy knowledge, self-reported regulation, self-efficacy, study time
 - [Use self-scoring against correct answers as a tool to foster primary students' monitoring accuracy during math problem-solving practice](../strategies/self-scoring-foster-monitoring-accuracy-strategy.md)
 - [Train transfer actively and leverage environmental cues to strengthen persistence and generalizability of SRL interventions](../strategies/actively-train-transfer-and-leverage-environmental-cues.md)
 - [Support SRL in the clinical context with a dual approach: improve individuals' goal setting, reflection skills and SRL confidence while creating a learning environment that lets students use their skills](../strategies/dual-approach-srl-clinical-context.md)
+- [Integrate task-specific feedback on self-monitoring accuracy into regular progress test reports](../strategies/feedback-on-self-monitoring-in-progress-test-reports.md)
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

@@ -32,7 +32,8 @@ The article introduces BtBC as a dyadic measure derived from video-based Motion 
 - [Instructional personalization did not significantly affect learning outcome or BtBC](../claims/personalization-null-body-coupling.md) [+W]
 
 ## Related Research Methods
--
+
+- [Quantitative motion-capture and eye-tracking analysis of medical skill proficiency](quantitative-motion-capture-and-eye-tracking-analysis-of-medical-skill-proficiency.md)
 
 ## Key Sources
 - Yafeng Pan, Suzanne Dikker, Yi Zhu, Cuirong Yang, Yi Hu and Pavel Goldstein. (2022). Instructor-learner body coupling reflects instruction and learning. npj Science of Learning. https://doi.org/10.1038/s41539-022-00131-0

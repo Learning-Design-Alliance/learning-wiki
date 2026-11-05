@@ -75,3 +75,4 @@ Mann–Whitney U test on age in the same survey found "a lack of substantial age
 - [Student personal and educational characteristics (gender, age, grade, GPA, courses taken, SAE type) were descriptively profiled for the 102 participants in the two groups](participant-characteristics-oklahoma-animal-science-students.md) — related
 - [Male pre-service teachers provided more total feedback than females in this study, contrary to previous research](males-provided-more-feedback-than-females.md) — related
 - [Cluster analysis identified two student phenotypes differing in satisfaction, modality, gender and age](two-student-phenotypes-pbl-satisfaction.md) — related
+- [Gender and major differences in agentic engagement and autonomy-support perceptions among Chinese EFL students](gender-major-differences-ae-past.md) — related

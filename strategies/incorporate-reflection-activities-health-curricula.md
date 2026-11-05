@@ -51,6 +51,7 @@ The review documents that educators incorporate activities to promote reflection
 ## Related Strategies
 
 - [Incorporate role modeling, time for reflection, and social small-group strategies into undergraduate EBP curricula](ebp-curricula-role-modeling-reflection-social-strategies.md)
+- [Explicitly incorporate soft skills as defined competencies within postgraduate curricula through periodic programme review](explicit-soft-skills-competencies-postgraduate-curricula.md)
 
 ## Examples
 -

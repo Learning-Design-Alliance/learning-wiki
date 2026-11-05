@@ -54,3 +54,4 @@ Mantel-Haenszel DIF procedure (items with p<0.05 flagged) applied to the boys-ve
 - The negative response time–likelihood trend holds for boys (R=-0.22) but not for girls (R=+0.04) — related
 - Differential item functioning was found in four items across the function, form and level dimensions — related
 - [Most Spanish test items show negligible differential item functioning across gender and Hispanic–White comparisons](spanish-dif-negligible-most-items.md) — related
+- [Institutional context showed the most extensive differential item functioning, with significant direct effects on all 12 resource-use indicators.](institution-dif-all-indicators.md) — related

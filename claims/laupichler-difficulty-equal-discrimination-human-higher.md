@@ -47,3 +47,4 @@ Second-hand citation: the review reports this result from a paper by Laupichler 
 
 ## Related Claims
 - [No significant difference in item discrimination index or point biserial correlation between ChatGPT 3.5 and human-generated MCQs](chatgpt-35-human-item-discrimination-no-difference.md) — related
+- [All 12 cases had excellent discriminatory ability (item analysis: 0.31–0.84)](foi-test-all-12-cases-excellent-discrimination.md) — related

@@ -53,7 +53,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 5 studies · 5 associational `r?` · `q1`–`q2`
-> **Currency** · newest study 2026 · 3 of 5 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 

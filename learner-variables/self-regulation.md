@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 255 claims (180 show a difference, 43 mixed, 32 no difference) · 183 studies (68 causal, 39 associational, 38 review, 14 quant-synthesis, 11 theoretical, 10 qualitative, 3 design), `q1`–`q4` · 34 of 183 report an effect size · 246 claims rest on one study
+> **Evidence** · 256 claims (181 show a difference, 43 mixed, 32 no difference) · 184 studies (68 causal, 40 associational, 38 review, 14 quant-synthesis, 11 theoretical, 10 qualitative, 3 design), `q1`–`q4` · 34 of 184 report an effect size · 247 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -304,6 +304,7 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [Indirect vocabulary learning strategies correlate more highly with both depth (r=0.78) and breadth (r=0.66) of vocabulary knowledge than direct strategies (r=0.58, r=0.51).](../claims/indirect-strategies-stronger-correlation-with-vocabulary-knowledge.md) [+M] — learners who differ on it differ in outcomes
 - [No significant relationships were found between vocabulary learning strategy use and recognition vocabulary, or between strategy use and vocabulary in the control group](../claims/no-relationship-strategies-recognition-and-control-vocabulary.md) [-M] — learners who differ on it differ in outcomes
 - [Students integrate educational Instagram content into self-regulated learning strategies including rapid revision, self-assessment, and consolidation](../claims/histo-embryo-instagram-supports-self-regulated-learning.md) [+M] — measured as an outcome of the instruction studied
+- [Self-monitoring accuracy for a complex clinical skill improved over a six-month retention interval](../claims/self-monitoring-accuracy-improves-over-six-months.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

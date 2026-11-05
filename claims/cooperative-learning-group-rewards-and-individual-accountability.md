@@ -43,7 +43,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 1 causal `r?`, 1 quant-synthesis `r?`, 1 review `r3` · `q2`–`q3` · `i1` small
-> **Currency** · newest study 2003 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2003 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Group rewards combined with individual accountability make cooperative learning effective -->
 
 Cooperative learning raises achievement more when the group's success depends on each member's learning (individual accountability) and groups are recognised or rewarded on members' learning gains (group rewards). The recorded evidence is from elementary and secondary schools: a best-evidence review, an elementary meta-analysis and one randomised component analysis. It does not make the rewards strictly necessary, since Slavin (1996) also reports structured-interaction methods that work without them, and no entry measures free-riding directly.
@@ -179,3 +179,4 @@ The standard remedy in the cooperative learning literature is **individual accou
 - [Task-based group participants prepared classified ads in groups of three and received peer and instructor feedback, supporting ZPD-based cooperative learning.](task-based-cooperative-feedback-zpd.md) — a narrower finding that bears on this claim
 - [Cooperative learning benefits both low- and high-proficiency EFL students in the Chinese context](cooperative-writing-benefits-all-proficiency-levels.md) — a narrower finding that bears on this claim
 - [Partner work was most successful grouping format for primary students](partner-work-most-successful-primary.md) — a narrower finding that bears on this claim
+- [The Ringelmann effect describes declining average contribution as group size increases, with large groups of five or more often dividing work into subtasks and reducing motivation and collaboration.](ringelmann-effect-group-size-contribution-declines.md) — related

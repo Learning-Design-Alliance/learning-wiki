@@ -41,7 +41,8 @@ The article defines CLIL (content and language integrated learning) as a learnin
 - [Clil No Significant Effect Galician Marks](../claims/clil-no-significant-effect-galician-marks.md) [+M]
 
 ## Related Designs
-- 
+
+- [CLIL-based emergency language course on 'Concise Chinese for epidemic prevention and control'](clil-emergency-language-course.md)
 
 ## Examples
 -

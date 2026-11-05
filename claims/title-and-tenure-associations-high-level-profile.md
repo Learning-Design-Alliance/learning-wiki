@@ -49,3 +49,6 @@ Multivariable multinomial logistic regression (table 4) in the 605-nurse survey;
 - [Self-directed learning ability is positively associated with membership of the moderate- and high-level competency profiles rather than the low-level profile](self-directed-learning-ability-higher-competency-profiles.md) — related
 - [Demographic characteristics (age, gender, education, institution type, tenure) show no statistically significant difference in new nurse managers' competence scores](demographics-no-competence-difference-nurse-managers.md) — related
 - [No statistically significant associations between overall VHV competency classification and any demographic or occupational variable examined](vhv-competency-not-differentiated-by-demographics.md) — related
+- [Junior title, low self-perceived achievement, and medication error history distinguish Profile 1 from Profile 4](profile1-predictors-junior-no-achievement-error-history.md) — related
+- [Sociodemographic and job-related characteristics differ across competence profiles](sociodemographic-differences-across-profiles.md) — a broader claim this one bears on
+- [Work experience, supervisor title, and self-perceived achievement distinguish Profile 3 from Profile 4](profile3-predictors-experience-supervisor-achievement.md) — related

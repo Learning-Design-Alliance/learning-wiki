@@ -49,6 +49,9 @@ The article conceptualizes asynchronous videos not merely as supplementary resou
 - [Use microlearning-based preparatory materials to scaffold simulation-based communication skills training](microlearning-preparation-before-simulation-strategy.md)
 - [Provide intensive early supervision to build mental representation, then transition learners to self-directed practice with automated feedback](early-intensive-supervision-then-self-directed-practice.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
+- [Structure a simulation-based mastery learning program as sequential steps: video tutorial, MCQ with feedback, supervised practice, then repeated self-directed practice with video-based assessment](sbml-sequential-training-protocol-probing.md)
+- [Use a training video adapted from military source material before simulated WFWB procedures](training-video-before-simulated-wfwb-procedures.md)
+- [Structure simulation training in four sequential phases: video instruction, expert demonstration, supervised practice, and formative feedback](four-phase-ldsrs-simulation-training-protocol.md)
 
 ## Examples
 -

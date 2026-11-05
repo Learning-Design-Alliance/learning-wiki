@@ -51,3 +51,5 @@ First Delphi round of the national consensus-development study evaluating specia
 - [A modified Delphi needs assessment with 26 stakeholders identified areas of convergence and divergence that informed the core competencies](delphi-needs-assessment-long-covid-competencies.md) — related
 - [Delphi panel reaches broad consensus on CAMHS crisis team competencies and outcomes, with over 90% of proposed items meeting the consensus threshold](delphi-consensus-camhs-crisis-competencies-outcomes.md) — related
 - [Expert engagement was strong: effective recovery rates were 90% and 100% across the two rounds and the expert authority coefficient was 0.930](delphi-recovery-rates-90-100-authority-0930.md) — related
+- [The ICO-OCEX achieved strong content validity through a modified Delphi technique with expert consensus on all 33 items](ico-ocex-content-validity-delphi-consensus.md) — related
+- [A two-round modified Delphi process with a 36-physician voting panel finalized 32 high-priority mental health competencies for HPM physicians.](delphi-finalized-32-mental-health-competencies.md) — related

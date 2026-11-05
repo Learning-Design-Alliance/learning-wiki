@@ -13,7 +13,7 @@ generated:
 # Sleep
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 43 claims (24 show a difference, 13 mixed, 6 no difference) · 20 studies (9 causal, 5 review, 5 associational, 1 quant-synthesis), `q2`–`q3` · 7 of 20 report an effect size · 43 claims rest on one study
+> **Evidence** · 51 claims (27 show a difference, 18 mixed, 6 no difference) · 21 studies (9 causal, 6 associational, 5 review, 1 quant-synthesis), `q2`–`q3` · 7 of 21 report an effect size · 51 claims rest on one study
 
 ## Description
 Sleep is the period in which consciousness is suspended and the body and brain rest and recuperate. During sleep the brain consolidates memories, the body heals and recovers energy, and waste products of brain activity may be cleared. Its quantity, regularity and quality matter for nearly every aspect of cognition, as well as for physical and emotional well-being. When learners do not get enough good sleep, mood and cognitive skills suffer and focus is lost more easily. Sleep is measured with self-report and parent-report questionnaires on sleep habits, timing, quality and daytime sleepiness. The LVN treats it as relevant from pre-kindergarten to adulthood, and suggests extra cognitive supports, such as redirecting attention when a learner's mind wanders, for students who are short of sleep. It overlaps with [physical well-being](physical-wellbeing.md), of which adequate sleep is a part, and with [long-term memory](long-term-memory.md) through consolidation.
@@ -79,6 +79,14 @@ Sleep is the period in which consciousness is suspended and the body and brain r
 - [Subjective sleep quality decreases in the first two TMR nights and recovers to baseline by the third night, with no change in sleep duration](../claims/sleep-quality-habituation-tmr-nights.md) [~W] — instruction changes it
 - [Good sleep quality is associated with better academic achievement among Ethiopian university students](../claims/sleep-quality-associated-academic-achievement-ethiopia.md) [+M] — learners who differ on it differ in outcomes
 - [Sleep duration, mental health, and cognitive performance mediate the screen time–academic performance association](../claims/sleep-mental-health-cognition-mediate-screen-academic-association.md) [+M] — learners who differ on it differ in outcomes
+- [Better between-pair sleep quality predicts better attention and less hyperactivity in every grade except Grade 7](../claims/sleep-quality-between-pair-attention.md) [~W] — learners who differ on it differ in outcomes
+- [Grade 9 within-pair effects show better sleep quality predicts better reading and mathematics, while less school-night sleep predicts better reading](../claims/grade9-within-pair-sleep.md) [~W] — learners who differ on it differ in outcomes
+- [Inattention mediates the association between daytime sleepiness and reading and mathematics in Grade 3](../claims/inattention-mediation-sleep-achievement.md) [~W] — learners who differ on it differ in outcomes
+- [Sleep measures account for up to 7% of variance in inattention and hyperactivity](../claims/sleep-inattention-hyperactivity-variance.md) [+W] — learners who differ on it differ in outcomes
+- [Sleep variables explain only about 1% of variance in reading and mathematics scores](../claims/sleep-small-academic-variance.md) [+W] — learners who differ on it differ in outcomes
+- [Sleep–achievement correlations are small and inconsistent across grades](../claims/sleep-achievement-small-correlations.md) [~W] — learners who differ on it differ in outcomes
+- [Sleep–attention correlations are slightly stronger than sleep–achievement correlations but still small](../claims/sleep-attention-correlations.md) [+W] — learners who differ on it differ in outcomes
+- [Within-pair daytime sleepiness differences predict all four outcomes in Grade 3](../claims/within-pair-sleepiness-grade3.md) [~W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Sleep Timing Questionnaire** (Monk et al., 2003): self-report of sleep-wake patterns on weekdays and weekends.

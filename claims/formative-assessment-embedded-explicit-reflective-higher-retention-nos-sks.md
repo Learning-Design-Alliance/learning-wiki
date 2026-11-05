@@ -9,6 +9,7 @@ generated:
   at: 2026-10-02
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-11-05
 sources:
   - id: mustafa-metin-2022
     resource: "https://doi.org/10.17509/jsl.v5i1.33190"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Retention-test NOSS means were significantly higher in the experimental group (t = 17.286; p < 0.05). [→ Mustafa Metin 2022](#mustafa-metin-2022)

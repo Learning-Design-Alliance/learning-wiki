@@ -58,6 +58,7 @@ The review recommends exploring COTS gesture-detection technology as the basis f
 - [Integrate cost-effective simulation with structured, proficiency-based curricula into pediatric MIS training](proficiency-based-curricula-neonatal-mis.md)
 - [Develop and validate a reusable, cost-effective, high-fidelity training platform and build homogeneous assessment tools for aneurysm clipping simulation](develop-validated-reusable-cost-effective-aneurysm-training-platform.md)
 - [Strengthen vascular simulation research with modern validity frameworks, longer skill-retention follow-up, cost-effectiveness analysis, and more nontechnical-skills and cadaver models](vascular-simulation-research-recommendations.md)
+- [Use the K technique as a basis for building VR training models at scale](k-technique-basis-for-vr-training-models.md)
 
 ## Examples
 -

@@ -71,3 +71,5 @@ In the same mixed-effects models with modality as a fixed effect, the studying-r
 - [Fifth graders review videos mostly linearly forward, whereas review of illustrated texts combines varied strategies](review-strategies-vary-by-modality.md) — related
 - [Decoding ability did not predict cognitive load directly or through interaction with modality, contradicting the hypothesis that weak decoding raises reading effort](decoding-no-cognitive-load-effect.md) — related
 - [Fifth and sixth graders showed higher delayed retention and lower cognitive load when learning science from videos than from illustrated texts](video-better-retention-lower-load-classroom.md) — related
+- [Video-based materials produce longer total fixation duration and more visits than other modalities](video-materials-longer-fixation-more-visits.md) — related
+- [No significant interaction between pre-academic performance and material modality on cognitive load or learning outcomes](no-aptitude-modality-interaction-nursing.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-05
 sources:
   - id: tingey-2023
     resource: "https://www.acf.hhs.gov/opre"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 6 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
@@ -106,3 +107,4 @@ Youth focus group accounts in Section II.C; one student said breath to focus hel
 - [Qualitative studies depict teachers as emotional socialisers whose modelling, warmth, and structure are perceived to foster students' SEC and classroom engagement](qualitative-teacher-emotional-socialiser-perceptions.md) — related
 - [Classroom-level teacher structure is linked with students' behavioral, cognitive and emotional engagement in language classes](classroom-structure-linked-three-engagement-components.md) — related
 - [Homeschooling supports learning through one-to-one support, safe environments, and special-needs accommodation](homeschooling-three-learning-dimensions.md) — related
+- [The near-peer structure of the track was perceived to create a psychologically safe learning environment that facilitated peer teaching.](pedagogical-internship-track-near-peer-safety.md) — related

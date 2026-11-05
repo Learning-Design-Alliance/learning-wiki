@@ -13,7 +13,7 @@ generated:
 # Multimedia Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 53 claims (38 for, 15 mixed) · 51 studies (30 causal, 7 review, 6 quant-synthesis, 5 associational, 2 qualitative, 1 design), `q1`–`q4` · 13 of 51 report an effect size · 49 claims rest on one study
+> **Evidence** · 55 claims (40 for, 15 mixed) · 52 studies (31 causal, 7 review, 6 quant-synthesis, 5 associational, 2 qualitative, 1 design), `q1`–`q4` · 13 of 52 report an effect size · 51 claims rest on one study
 
 ## Description
 Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media. It is useful when multiple representations clarify structure, process, or relationship more effectively than a single mode alone.
@@ -89,6 +89,8 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [64.53% of students recommended incorporating additional resources such as videos or animations to enrich the learning experience](../claims/students-recommend-more-resources-videos-animations.md) [+W]
 - [Students studying musculoskeletal anatomy with an interactive 3D digital model show greater pre-to-post test score improvement than students studying textbook images](../claims/3d-model-greater-score-gains-than-textbook-images.md) [+W] — attached 2026-11-04 from Safir AH et al. (2026), which proposed "Annotated, interactive 3D musculoskeletal anatomy model built in Blender from open-source files and hosted on Sketchfab"; tests this page's relationship.
 - [Students using the 3D model reported higher confidence, greater ability to visualize spatial relationships, and greater enjoyment than textbook-image students](../claims/3d-model-higher-confidence-visualization-enjoyment.md) [+W] — attached 2026-11-04 from Safir AH et al. (2026), which proposed "Annotated, interactive 3D musculoskeletal anatomy model built in Blender from open-source files and hosted on Sketchfab".
+- [Students learning venipuncture with a segmented-interactive video scored significantly higher on the technical component than students using a continuous video](../claims/segmented-interactive-video-technical-component-significant.md) [+W] — attached 2026-11-04 from Hamzah Nurul Rimadhayanti et al. (2026), which proposed "Segmented-interactive venipuncture video built in H5P with overlays, quizzes, and guided narration".
+- [Students learning venipuncture with a segmented-interactive video scored significantly higher on the communication component than students using a continuous video](../claims/segmented-interactive-video-communication-component-significant.md) [+W] — attached 2026-11-04 from Hamzah Nurul Rimadhayanti et al. (2026), which proposed "Segmented-interactive venipuncture video built in H5P with overlays, quizzes, and guided narration".
 
 ## The evidence by question
 

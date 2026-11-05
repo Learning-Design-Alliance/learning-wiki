@@ -51,3 +51,5 @@ Self-designed 40-item satisfaction questionnaire (Cronbach's α = 0.921, CVI = 0
 - [A minority of students report challenges integrating expert perspectives and desire more hands-on practice during initial MDT-CDIO implementation](mdt-cdio-implementation-challenges-hands-on-time.md) — related
 - [Most students report that the MDT-CDIO model enhances interdisciplinary collaboration and clinical reasoning skills](mdt-cdio-students-report-enhanced-collaboration-reasoning.md) — related
 - [In the same RCT, the experimental group reported higher scores than the control group across all five dimensions of teaching satisfaction (all P < 0.05)](pbl-virtual-simulation-satisfaction-all-dimensions-trauma-orthopedics.md) — related
+- [CBE-MDT teaching yields higher trainee satisfaction than traditional teaching](cbe-mdt-higher-satisfaction-radiation-oncology.md) — related
+- [CBE-MDT teaching improves final exam scores compared with traditional teaching in radiation oncology rotations](cbe-mdt-improves-exam-scores-radiation-oncology.md) — related

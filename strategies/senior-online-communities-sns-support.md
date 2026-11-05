@@ -39,6 +39,7 @@ The article recommends that people advising senior citizens point older, new soc
 ## Related Strategies
 
 - [Use scripted, small-group social media training workshops to foster older adults' social media engagement, and plan ongoing support to sustain use after training ends](social-media-training-workshops-older-adults-strategy.md)
+- [Guide parents toward reliable, evidence-based online resources to strengthen digital health literacy](guide-parents-reliable-online-vaccine-resources.md)
 
 ## Examples
 -

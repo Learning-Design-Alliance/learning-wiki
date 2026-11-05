@@ -63,6 +63,7 @@ The paper presents Constructivism as a theory of knowledge and learning concerne
 
 - [Integrate evaluation into the learning process with learners participating in creating and understanding standards](../strategies/integrate-evaluation-into-learning-process-participation.md)
 - [Use educational discussion and debate to form ecological and moral convictions](../strategies/discussion-debate-ecological-convictions.md)
+- [Simulation-based mastery learning (SBML) framework integrating constructivist and behavioral learning theories](../designs/sbml-constructivist-behavioral-framework-probing.md)
 
 ## Key Sources
 - Luppicini, Rocci; Schnackenberg, Heidi. (2000). In Support of Constructivism: Utilizing Rational, Moral and Communicative Frameworks to Address Frequently Posited Criticisms. https://eric.ed.gov/?id=ED455777

@@ -60,3 +60,4 @@ Multivariate regression (N = 821): the authors report that "age, gender, class l
 - [AI anxiety is moderately and positively correlated with university students' job finding anxiety](ai-anxiety-correlates-job-finding-anxiety.md) — related
 - [Demographic and socioeconomic variables did not significantly predict parental resistance to educational smartphone use](demographics-do-not-predict-parental-resistance.md) — related
 - [SDL readiness among nurses shows no significant correlation with age, gender, academic status, or marital status](sdl-readiness-no-demographic-correlations.md) — related
+- [Voluntary choice of nursing profession loses significance and reverses direction in multivariable model](voluntary-choice-suppression-effect-multivariable.md) — related

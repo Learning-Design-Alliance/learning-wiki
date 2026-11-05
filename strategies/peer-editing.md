@@ -59,9 +59,11 @@ Peer editing works because evaluating someone else's text forces learners to app
 5. Collect the revised draft with a cover note explaining how peer feedback was used; assess the revision, not just the product ([Assessment](../elements/assessment.md)).
 
 ## Related Strategies
+
 - [Peer Tutoring](peer-tutoring.md) — same reciprocal structure applied to skill practice rather than drafts
 - [Collaborative Writing](collaborative-writing.md) — co-authoring as an alternative route to shared criteria and text quality gains
 - [Formative Feedback Loops](formative-feedback-loops.md) — peer editing is one cycle within a broader feedback system
+- [Clearly explain the purpose, benefits, challenges, and evaluation criteria of group work, and use detailed rubrics, training, and practice to support equitable peer evaluation.](transparent-communication-peer-evaluation-rubrics.md)
 
 ## Examples
 - **[Calibrated Peer Review](calibrated_peer_review.md) (CPR)** (https://cpr.molsci.ucla.edu) — web system where students calibrate against instructor-anchored texts before reviewing peers, widely used in STEM writing assignments.

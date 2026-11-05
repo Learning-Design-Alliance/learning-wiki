@@ -54,3 +54,4 @@ One-way ANOVAs on the full sample compared GPA by sex and by faculty enrolment (
 - [No significant gender differences were found on any model variable](no-gender-differences-model-variables.md) — a broader claim this one bears on
 - [Student personal and educational characteristics (gender, age, grade, GPA, courses taken, SAE type) were descriptively profiled for the 102 participants in the two groups](participant-characteristics-oklahoma-animal-science-students.md) — related
 - [Motivation did not differ significantly by gender or GPA, and no interactions among teaching strategy, gender and GPA were found for motivation](no-gender-gpa-motivation-effects.md) — related
+- [Student perceptions of the GPT companion do not differ significantly by gender, academic background, or GPA](no-perception-differences-gender-stream-gpa-gpt-companion.md) — related

@@ -49,3 +49,4 @@ In the same randomized trial, blinded video-based assessment using a Delphi-deri
 - [High-fidelity simulation training is associated with better surgical draping performance than procedural workshop training](high-fidelity-simulation-better-surgical-draping-ecmo.md) — related
 - [High-fidelity simulation and procedural simulation workshops yield similar cannulation times for VA-ECMO training](high-fidelity-vs-procedural-simulation-ecmo-cannulation-time.md) — related
 - [Procedural simulation workshop training is associated with better advanced communication performance than high-fidelity simulation training](procedural-workshop-better-advanced-communication-ecmo.md) — related
+- [Median procedural performance rubric scores improved from 16 to 26.5 after simulation-based mastery learning training (p < 0.001)](sbml-probing-rubric-score-improvement.md) — related

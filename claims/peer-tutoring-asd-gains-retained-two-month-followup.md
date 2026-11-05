@@ -57,3 +57,4 @@ Wilcoxon test for related pairs on the experimental group's scores from post mea
 - [The teaching-skill advantage of hands-on supervision was maintained at two-month follow-up](hands-on-supervision-gains-maintained-follow-up.md) — related
 - [Knowledge retention after simulation varies by item type: cellular and genetic concepts are less retained than procedural or physiological ones.](simulation-retention-varies-by-concept-type.md) — related
 - [Learning advantages of AI-assisted peer teaching persist at 3-month follow-up](ai-assisted-peer-teaching-retention-3-month.md) — related
+- [Junctional tourniquet skill scores rose from 1.7 ± 2.1 to 10.8 ± 0.9 and were 10.4 ± 1.0 at two-month follow-up in one single-group pre-post study](junctional-tourniquet-skill-retention-two-months.md) — related

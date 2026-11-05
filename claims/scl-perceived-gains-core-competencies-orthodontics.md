@@ -66,3 +66,4 @@ Same post-discussion survey, reporting perceived gains in four broader outcomes:
 ## Related Claims
 - [Simulation-based training enhances short-term diagnostic accuracy, treatment planning, and practical skills in orthodontic education](simulation-short-term-clinical-skills-orthodontics.md) — a broader claim this one bears on
 - [Perceived gains from SCL followed a U-shaped curve relative to clinical experience, with the 50–80 cases group reporting the lowest satisfaction](scl-perceived-gains-u-shaped-clinical-experience.md) — related
+- [Learners report high satisfaction with SDTS video-based feedback and perceived skill improvement](sdts-high-learner-satisfaction.md) — related

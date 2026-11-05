@@ -50,3 +50,4 @@ Paired-samples t-test on 153 students with paired T2–T3 data. The article repo
 - [Knowledge gains declined significantly from post-training to 3-month follow-up while remaining above baseline](pr-knowledge-decline-at-3-months-above-baseline.md) — related
 - [Most dental students evaluate the poverty simulation positively, but agreement with intention-to-treat statements declines over time](simulation-evaluations-positive-but-intention-declines.md) — related
 - [Simulation evaluation scores do not change significantly between post-simulation and two-month follow-up](simulation-evaluations-stable-over-two-months.md) — related
+- [Extremity tourniquet skill and self-confidence decline significantly at two months while remaining above baseline](extremity-tourniquet-skill-decay-two-months.md) — related

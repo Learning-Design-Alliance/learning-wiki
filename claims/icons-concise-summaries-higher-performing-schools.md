@@ -53,3 +53,4 @@ In the same randomized factorial experiment, the article reports that icon-based
 - [Five school-information design factors each showed impacts on parents' knowledge, attitudes, or choice behavior](five-design-factors-impact-parent-school-choice-outcomes.md) — a broader claim this one bears on
 - [How school information is presented can affect how parents rank their school choices](school-info-presentation-affects-school-rankings.md) — a broader claim this one bears on
 - [Growth matters more than achievement or status when parents choose between schools](growth-matters-more-when-choosing-between-schools.md) — related
+- [Embedding choice architecture (defaults, traffic-light labeling, item positioning) into online school canteen ordering systems significantly improved the nutritional quality of student purchases without requiring active educational engagement](choice-architecture-online-canteen-improves-purchases.md) — related

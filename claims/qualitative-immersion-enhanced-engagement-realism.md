@@ -64,3 +64,5 @@ Semistructured interviews with all 54 experimental-group participants, analyzed 
 - [Qualitative interviews identify five themes: learning interest, self-directed learning, communication and humanistic care, clinical thinking, and improvement suggestions](boppps-virtual-simulation-qualitative-themes.md) — related
 - [Open-ended reflections most often highlighted realism of the simulation (51.5%), the simulation patient's role (32.0%), and interprofessional collaboration (20.6%)](mcleims-open-ended-themes.md) — related
 - [Participants perceived the AI-simulated patient interaction as authentic and potentially useful for shared decision-making training](perceived-authenticity-ai-sdm-chatbot.md) — related
+- [Structured debriefing is reported to enhance clinical skills and affect patient care outcomes](structured-debriefing-enhances-clinical-skills.md) — related
+- [An immersive anatomy education EMS placement fostered self-directed, active, experiential learning and enhanced motivation and clinical relevance of anatomy](anatomy-ems-quality-learning-theme.md) — related

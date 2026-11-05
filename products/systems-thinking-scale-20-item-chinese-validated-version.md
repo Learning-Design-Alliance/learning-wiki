@@ -29,6 +29,7 @@ A culturally adapted 20-item self-report scale developed for assessing systems t
 - [Integrated competency system for tumor early screening](integrated-competency-system-for-tumor-early-screening.md)
 - [Spiritual Care Competence Scale (SCCS)](spiritual-care-competence-scale-sccs.md)
 - [SDT-based Chinese-language ESP motivation questionnaire (adapted LLOS-IEA)](sdt-based-chinese-language-esp-motivation-questionnaire-adapted-llos-iea.md)
+- [Critical Thinking Diagnostic Scale (CTDS), Chinese version](critical-thinking-diagnostic-scale-ctds-chinese-version.md)
 
 ## Key Sources
 - Chen Daoming, Li Chenxi, Su Yubin, Wu Fang, Fang Xiaoru, Chu Hongwei, Bai Shuang. (2026). Patient Safety Competency Among Operating Room Nurses: Associations With Safety Attitudes, Systems Thinking and Burnout in a Multicentre Cross‐Sectional Study. Nursing Open. https://doi.org/10.1002/nop2.70831

@@ -73,3 +73,4 @@ Pre-study questionnaire on AI perceptions among the 48 surveyed teachers. The ar
 - [Fragmented data systems made intervention planning slow and burdensome, with educators spending 2-3 hours building a single student intervention plan](fragmented-data-systems-slow-intervention-planning.md) — related
 - [Teachers want to spend orchestration time on one-on-one support and planning, and are willing to invest up-front time in routines and collaboration skills](teachers-prefer-one-on-one-support-time.md) — related
 - [Waste-material instructional resources enabled teachers to teach weaving lessons they had previously omitted for lack of skills and materials](waste-resources-enable-previously-omitted-weaving-lessons.md) — related
+- [The integrated '1 + N' one-click teaching platform and modular resource repositories achieve high utilization efficiency in Endodontics education](one-n-platform-modular-repositories-high-utilization-efficiency.md) — related

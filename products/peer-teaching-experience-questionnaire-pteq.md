@@ -25,7 +25,8 @@ A 14-item, five-point Likert self-report questionnaire originally developed for 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [13-item training evaluation questionnaire adapted from validated international tools](13-item-training-evaluation-questionnaire-adapted-from-validated-international-tools.md)
 
 ## Key Sources
 - Williams, Brett; Fellows, Holly; Eastwood, Kathryn, and Wallis, Jaime. (2014). Peer teaching experiences of final year paramedic students: 2011–2012. Journal of Peer Learning, 7, 81-91. http://ro.uow.edu.au/ajpl/vol7/iss1/7

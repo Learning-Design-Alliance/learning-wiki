@@ -46,6 +46,8 @@ The review concludes that structured teaching, learner engagement, reflection, f
 
 - [Operationalize the faculty standards through structured professional learning pathways with modules, microcredentials, and peer review](professional-learning-pathways-standards-operationalization.md)
 - [Align pre-clinical curriculum design with core TBL strategies supported by curriculum governance frameworks and faculty development programs](align-tbl-curriculum-governance-faculty-development.md)
+- [Reduce clinical group sizes and strengthen mentoring and feedback structures](reduce-group-sizes-strengthen-mentoring.md)
+- [Advance PMSC training through explicit competency definitions, structured workplace-based learning, competency-oriented assessment, national training modules, and faculty development.](strategy-advance-pmsc-cbme-framework.md)
 
 ## Examples
 -

@@ -46,6 +46,7 @@ The review's implications section sets three priorities for future work: standar
 - [Prioritize multicenter, randomized designs with standardized reporting and longitudinal follow-up in future surgical education research](prioritize-multicenter-randomized-standardized-reporting-research.md)
 - [Future online-training trials should follow TIDieR reporting, match comparison arms on duration and content, use Kirkpatrick's outcome hierarchy, and run factorial experiments optimising online features](tidier-reporting-and-factorial-designs-for-online-training-trials.md)
 - [Future research agenda: detailed BCT-coded systematic review, primary qualitative examination of patient experience, and economic analysis within trials](digital-asthma-research-gap-agenda.md)
+- [Future work should evaluate LLM performance on Part B, viva-style and clinical scenario assessments and study effects on trainee learning outcomes](future-llm-evaluation-part-b-viva-learning-outcomes.md)
 
 ## Examples
 -

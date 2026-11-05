@@ -49,3 +49,4 @@ Random-effects pooling of means and standard deviations from the 27 included stu
 - [Spiritual intelligence is positively correlated with student achievement (pooled r = 0.36)](spiritual-intelligence-correlated-student-achievement.md) — related
 - [Emotional intelligence is positively correlated with student achievement (pooled r = 0.50)](emotional-intelligence-correlated-student-achievement.md) — related
 - [No significant main effects of gender or class, and no significant class-by-group interaction, on spiritual intelligence gains](no-gender-class-main-effects-webquest-spiritual-intelligence.md) — related
+- [Psilocybin occasioned experiences evaluated as having substantial and sustained personal meaning and spiritual significance](psilocybin-occasioned-mystical-experiences-hopkins.md) — related

@@ -28,6 +28,7 @@ A 20-item five-point Likert self-report scale developed from Turkey's Middle Sch
 
 - [Attitude Scale towards Science Lesson (Kececi & Kirbag Zengin, 2015)](attitude-scale-towards-science-lesson-kececi-kirbag-zengin-2015.md)
 - [Attitudes Towards Teaching Profession Scale (ATTPS)](attitudes-towards-teaching-profession-scale-attps.md)
+- [Vaccine Opposition Scale (VOS)](vaccine-opposition-scale-vos.md)
 
 ## Key Sources
 - Akif ARSLAN. (2016). Effect of Jigsaw I technique on teaching Turkish grammar. Educational Research and Reviews. https://doi.org/10.5897/ERR2016.2709

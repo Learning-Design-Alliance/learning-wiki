@@ -42,7 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 review `r2`, 1 quant-synthesis `r?` · `q3`–`q4` · `i2` medium
-> **Currency** · newest study 2021 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 Teaching science through guided inquiry — where students investigate questions, generate hypotheses, and evaluate evidence — raises science achievement relative to traditional transmission-style instruction, with the strongest effects when inquiry is scaffolded and teacher-guided [+M]. The claim applies to *guided* inquiry; unguided discovery is treated as a boundary condition, not part of the claim.
 

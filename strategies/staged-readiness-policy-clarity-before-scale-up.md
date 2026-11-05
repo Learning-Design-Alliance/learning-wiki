@@ -50,6 +50,7 @@ The article recommends that institutions sequence AI and online expansion so tha
 - [Co-create contextualized AI literacy policies via multi-stakeholder task forces with phased roadmaps](co-create-ai-literacy-policies-task-forces.md)
 - [Assess organisational readiness at the start of an adaptive learning implementation project by selecting context-relevant determinants from the framework](assess-organisational-readiness-determinants-selection.md)
 - [Develop a centralised, strategically governed SBE framework with embedded leadership and faculty development](centralised-strategically-governed-sbe-framework.md)
+- [Institutions should pilot low-stakes, prespecify evaluation indicators, and scale only after governance, faculty capacity, and equity safeguards are in place](phased-low-stakes-pilot-implementation.md)
 
 ## Examples
 -

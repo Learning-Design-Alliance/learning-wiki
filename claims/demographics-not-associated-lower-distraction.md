@@ -79,3 +79,4 @@ Independent samples t-test comparing digital distraction between male and female
 - [Student personal and educational characteristics (gender, age, grade, GPA, courses taken, SAE type) were descriptively profiled for the 102 participants in the two groups](participant-characteristics-oklahoma-animal-science-students.md) — related
 - [Test-group students rated the mobile AR application very positively: 92% found it helpful for learning, 89% interactive, 86% positive about wider course use, and only 4% distracted](positive-student-ratings-mobile-ar-application.md) — related
 - [Metacognitive knowledge of study strategies does not differ meaningfully across demographic groups](no-demographic-differences-metacognitive-knowledge.md) — related
+- [Gender and major differences in agentic engagement and autonomy-support perceptions among Chinese EFL students](gender-major-differences-ae-past.md) — reports the opposite

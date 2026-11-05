@@ -55,3 +55,5 @@ Multiple linear regression on the full sample of 3528 nurses with variables sele
 - [Nurses who reported a need for further PICC care training scored higher on knowledge, possibly reflecting reverse causation consistent with the Dunning–Kruger effect](training-need-positive-association-dunning-kruger.md) — possibly the same claim (merge candidate)
 - [Working years were not independently associated with PICC care knowledge after adjustment for other variables](working-years-not-independently-associated-picc-knowledge.md) — related
 - [Higher education, senior job grade, and acute-care employment independently predict sepsis knowledge (R² = 0.156)](education-grade-setting-predict-sepsis-knowledge.md) — related
+- [PHTLS training is the strongest independent predictor of passing the knowledge test after adjustment](phtls-training-strongest-predictor-passing.md) — related
+- [Nurses' working experience is associated with AI competence; other demographics show no significant association](working-experience-associated-with-aic-nurses.md) — related

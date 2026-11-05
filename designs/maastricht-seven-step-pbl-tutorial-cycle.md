@@ -46,6 +46,7 @@ The course used a hybrid form of the 7-step Maastricht PBL model in which a case
 ## Related Designs
 
 - [PBL course structure with weekly problem situations, small-group problem-solving plans, and end-of-week solution presentations](pbl-weekly-problem-cycle-small-groups.md)
+- [Eight-session hybrid PBL plus scenario-based simulation curriculum for OR MDRPI prevention](hybrid-pbl-simulation-mdrpi-curriculum.md)
 
 ## Examples
 -
