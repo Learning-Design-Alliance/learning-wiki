@@ -10,6 +10,11 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 
 ---
 
+## 2026-11-05
+
+* **Content**: [elements/adaptive-mastery-learning](elements/adaptive-mastery-learning.md) — Doroudi & Brunskill (2019), Fairer but not fair enough, doi:10.1145/3303772.3303838 (abstract)
+* **Ingest**: [claims/knowledge-tracing-equity-depends-on-model-accuracy](claims/knowledge-tracing-equity-depends-on-model-accuracy.md) — Doroudi & Brunskill (2019), Fairer but not fair enough, doi:10.1145/3303772.3303838 (abstract)
+
 ## 2026-11-04
 
 * **Ingest**: [claims/voluntary-choice-suppression-effect-multivariable](claims/voluntary-choice-suppression-effect-multivariable.md) — Ingested from pmc-13240153 (Newly Graduated Nurses' Professional Competency and Caring Perception: A Cross-Sectional Correlational Study.) via eval_harness.py + ingest_extractions.py

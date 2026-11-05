@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**49846 entries** · 0 stable · 49846 in review · 0 drafts
+**49847 entries** · 0 stable · 49847 in review · 0 drafts
 
 ---
 
@@ -21802,6 +21802,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Knowledge-test scores correlated significantly with the self-assessed knowledge item at both pretest and posttest](knowledge-test-correlates-with-self-assessment.md) - Knowledge-test scores correlated significantly with the self-assessed knowledge item at both pretest and posttest
 * [Knowledge-test scores differed strongly between German school types, with academic-track students scoring highest](knowledge-test-school-type-differences.md) - Knowledge-test scores differed strongly between German school types, with academic-track students scoring highest
 * [Knowledge-to-Practice, Reaction-to-Training, and Practice-to-Belief models were not well-suited to explain empirical transfer data, and Knowledge-Skills-Beliefs fit only in RCT/quasi-experimental subsets](three-transfer-models-failed-fit.md) - Knowledge-to-Practice, Reaction-to-Training, and Practice-to-Belief models were not well-suited to explain empirical transfer data, and Knowledge-Skills-Beliefs fit only in RCT/quasi-experimental subsets
+* [Knowledge-tracing mastery decisions are more equitable than fixed practice but can still under-serve some students when the learner model is fit to the aggregate population or makes wrong assumptions](knowledge-tracing-equity-depends-on-model-accuracy.md) - In simulations, knowledge-tracing algorithms were substantially more equitable than giving every student the same amount of practice, but Bayesian knowledge tracing and the N-consecutive-correct heuristic became inequitable when they relied on inaccurate models, while knowledge tracing with the additive factor model may be more equitable.
 * [Knowledge–confidence inverse pattern is strongest among paramedics and non-trained resident physicians](phtls-knowledge-confidence-subgroup-pattern.md) - Knowledge–confidence inverse pattern is strongest among paramedics and non-trained resident physicians
 * [KOKU improves lower-limb function, concerns about falling and health-related quality of life, but not mood, physical activity, fatigue or fall rate](koku-secondary-outcomes-mixed.md) - KOKU improves lower-limb function, concerns about falling and health-related quality of life, but not mood, physical activity, fatigue or fall rate
 * [Kolb learning-style measures, as a system, are significantly related to student motivation, with Active Experimentation the highest-correlated subscale](learning-styles-related-to-motivation.md) - Kolb learning-style measures, as a system, are significantly related to student motivation, with Active Experimentation the highest-correlated subscale
