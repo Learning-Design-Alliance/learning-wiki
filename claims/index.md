@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**49846 entries** · 0 stable · 49846 in review · 0 drafts
+**49847 entries** · 0 stable · 49847 in review · 0 drafts
 
 ---
 
@@ -33690,6 +33690,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Review reports that reticent non-local students who resisted local classroom norms were academically superior on other performance kinds (Duff, 2002)](reticent-students-academically-superior-duff.md) - Review reports that reticent non-local students who resisted local classroom norms were academically superior on other performance kinds (Duff, 2002)
 * [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](teacher-beliefs-mediate-ai-integration.md) - Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration
 * [Review reports the Wikiglass learning analytics tool study shows interplay between teacher and student use of the tool](editorial-wikiglass-teacher-student-interplay.md) - Review reports the Wikiglass learning analytics tool study shows interplay between teacher and student use of the tool
+* [Review scheduled by a model of each student's memory improved end-of-semester retention in a middle-school language course more than massed or uniformly spaced review of the same duration](personalized-spaced-review-improves-course-retention.md) - In a semester-long middle-school foreign-language course, personalized review chosen by a model combining memory theory with estimates of individual differences raised retention on a cumulative exam by 16.5% over massed study and 10.0% over one-size-fits-all spaced review, with review time matched.
 * [Review syntheses: VR/AR most often improved academic achievement and motivation, but sometimes performed no better than conventional technologies](vr-ar-advantages-achievement-motivation-with-null-contrast.md) - Review syntheses: VR/AR most often improved academic achievement and motivation, but sometimes performed no better than conventional technologies
 * [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](explicit-instruction-context-dependent-synthesis.md) - Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure
 * [Review synthesizes three competency areas: preparing/developing interprofessional practice, supporting the learning process, and creating an interprofessional mentor identity](three-synthesized-mentoring-competency-findings.md) - Review synthesizes three competency areas: preparing/developing interprofessional practice, supporting the learning process, and creating an interprofessional mentor identity

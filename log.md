@@ -10,6 +10,13 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 
 ---
 
+## 2026-11-05
+
+* **Claim**: [claims/classroom-quizzing-improves-exam-performance-across-grades-and-content](claims/classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — Linked claim from Improving students' long-term knowledge retention through personalized review (Lindsey et al., 2014), doi:10.1177/0956797613504302; written from the abstract
+* **Claim**: [patterns/spaced-learning](patterns/spaced-learning.md) — Linked claim from Improving students' long-term knowledge retention through personalized review (Lindsey et al., 2014), doi:10.1177/0956797613504302; written from the abstract
+* **Claim**: [elements/spaced-repetition](elements/spaced-repetition.md) — Linked claim from Improving students' long-term knowledge retention through personalized review (Lindsey et al., 2014), doi:10.1177/0956797613504302; written from the abstract
+* **Ingest**: [claims/personalized-spaced-review-improves-course-retention](claims/personalized-spaced-review-improves-course-retention.md) — Improving students' long-term knowledge retention through personalized review (Lindsey et al., 2014), doi:10.1177/0956797613504302; written from the abstract
+
 ## 2026-11-04
 
 * **Ingest**: [claims/voluntary-choice-suppression-effect-multivariable](claims/voluntary-choice-suppression-effect-multivariable.md) — Ingested from pmc-13240153 (Newly Graduated Nurses' Professional Competency and Caring Perception: A Cross-Sectional Correlational Study.) via eval_harness.py + ingest_extractions.py

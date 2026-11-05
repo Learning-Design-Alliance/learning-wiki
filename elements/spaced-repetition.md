@@ -6,8 +6,8 @@ description: Spaced repetition is the element in which key material is revisited
 canonical: true
 status: review
 generated:
-  by: codex/unspecified
-  at: 2026-04-08
+  by: "process:article-ingest"
+  at: 2026-11-05
 sources:
   - id: cepeda-2006
     resource: "https://doi.org/10.1037/0033-2909.132.3.354"
@@ -66,6 +66,7 @@ Spaced repetition is the element in which key material is revisited at strategic
 - [Experimentally, adaptive scheduling at OET 0.86 and 0.94 produced significantly higher final-test recall than OET 0.40, OET 0.98, and a conventional S15 schedule](../claims/experiment-oet-86-94-significantly-higher-recall.md) [~W]
 - [OET 94 scheduling yielded approximately 40% higher memory retention than conventional scheduling (S15), with a benefit of Cohen's d = 0.64](../claims/oet94-forty-percent-gain-over-conventional.md) [~M]
 - [Optimal ACT-R parameter values change systematically and predictably with the length of the between-session interval](../claims/parameters-vary-systematically-with-interval.md) [~W]
+- [Review scheduled by a model of each student's memory improved end-of-semester retention in a middle-school language course more than massed or uniformly spaced review of the same duration](../claims/personalized-spaced-review-improves-course-retention.md) [+M] — Lindsey et al. (2014): personalized scheduling inside retrieval-practice software, one middle-school foreign-language course
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

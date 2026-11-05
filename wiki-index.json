@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":49846,
+"claim":49847,
 "design":2572,
 "element":1057,
 "learner-variable":75,
@@ -342014,6 +342014,16 @@
 "path":"claims/personalized-scaffolds-compliance-essay-scores.md",
 "status":"review",
 "title":"Personalized SRL scaffolds showed higher compliance than no and non-personalized scaffolds, linked to better essay scores",
+"type":"claim"
+},
+{
+"description":"In a semester-long middle-school foreign-language course, personalized review chosen by a model combining memory theory with estimates of individual differences raised retention on a cumulative exam by 16.5% over massed study and 10.0% over one-size-fits-all spaced review, with review time matched.",
+"evidence_strength":"moderate",
+"id":"personalized-spaced-review-improves-course-retention",
+"newest_evidence":"2014",
+"path":"claims/personalized-spaced-review-improves-course-retention.md",
+"status":"review",
+"title":"Review scheduled by a model of each student's memory improved end-of-semester retention in a middle-school language course more than massed or uniformly spaced review of the same duration",
 "type":"claim"
 },
 {
@@ -710967,6 +710977,7 @@
 "personalized-problem-contexts-boost-engagement-grades-4-8":"personalized-problem-contexts-boost-engagement-grades-4-8",
 "personalized-refutation-text-conceptual-change-misconception-holders":"personalized-refutation-text-conceptual-change-misconception-holders",
 "personalized-scaffolds-compliance-essay-scores":"personalized-scaffolds-compliance-essay-scores",
+"personalized-spaced-review-improves-course-retention":"personalized-spaced-review-improves-course-retention",
 "personalized-srl-interventions-raised-srl-scores-mooc":"personalized-srl-interventions-raised-srl-scores-mooc",
 "personalized-teaching-higher-metacognitive-strategy-use":"personalized-teaching-higher-metacognitive-strategy-use",
 "personalized-teaching-vocabulary-breadth-gains":"personalized-teaching-vocabulary-breadth-gains",
