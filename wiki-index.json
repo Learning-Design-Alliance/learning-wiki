@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":50649,
+"claim":50650,
 "design":2630,
 "element":1057,
 "learner-variable":75,
@@ -86124,6 +86124,16 @@
 "recheck_by":"2006",
 "status":"review",
 "title":"A computational framework can enable a system to analyse ongoing group interaction and detect and mediate meta-cognitive conflicts",
+"type":"claim"
+},
+{
+"description":"Simulated learners trained only on the tutors' task structure showed the same main effects as students in a blocked-versus-interleaved fractions experiment and a constrained-versus-unconstrained problem-design experiment, while over-predicting early errors where students had prior knowledge.",
+"evidence_strength":"weak",
+"id":"computational-learner-model-predicts-tutor-experiment-direction",
+"newest_evidence":"2025",
+"path":"claims/computational-learner-model-predicts-tutor-experiment-direction.md",
+"status":"review",
+"title":"A computational model of learning reproduced the direction of two tutor A/B experiments without human training data, but not students' absolute performance",
 "type":"claim"
 },
 {
@@ -696112,6 +696122,7 @@
 "computational-concepts-achievable-ages-3-to-6-mastery-by-4":"computational-concepts-achievable-ages-3-to-6-mastery-by-4",
 "computational-efficiency-model-supported-in-both-tasks":"computational-efficiency-model-supported-in-both-tasks",
 "computational-framework-detect-mediate-meta-cognitive-conflicts":"computational-framework-detect-mediate-meta-cognitive-conflicts",
+"computational-learner-model-predicts-tutor-experiment-direction":"computational-learner-model-predicts-tutor-experiment-direction",
 "computer-adaptive-quizzing-nclex-success-relationship":"computer-adaptive-quizzing-nclex-success-relationship",
 "computer-anxiety-negative-effect-lms-peu":"computer-anxiety-negative-effect-lms-peu",
 "computer-anxiety-null-satisfaction":"computer-anxiety-null-satisfaction",

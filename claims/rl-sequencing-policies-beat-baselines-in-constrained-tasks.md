@@ -12,11 +12,11 @@ newest_evidence: 2019
 sources:
   - id: doroudi-2019
     resource: "https://doi.org/10.1007/s40593-019-00187-x"
-    title: "Doroudi, S., Aleven, V., & Brunskill, E. (2019). Where's the reward? A review of reinforcement learning for instructional sequencing. International Journal of Artificial Intelligence in Education, 29(4), 568-620"
+    title: "Doroudi, S., Aleven, V., & Brunskill, E. (2019). Where's the reward? A review of reinforcement learning for instructional sequencing. *International Journal of Artificial Intelligence in Education, 29*(4), 568-620. [doi:10.1007/s40593-019-00187-x](https://doi.org/10.1007/s40593-019-00187-x)"
     author: "Doroudi, S., Aleven, V., & Brunskill, E."
     q: 3
     i: "?"
-    n: 41 studies
+    n: 41 studies (34 papers)
     kind: review
     rigour: 3
 ---

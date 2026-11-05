@@ -12,7 +12,7 @@ newest_evidence: 2020
 sources:
   - id: weitekamp-2020
     resource: "https://doi.org/10.1007/978-3-030-52237-7_47"
-    title: "Weitekamp, D., Ye, Z., Rachatasumrit, N., Harpstead, E., & Koedinger, K. (2020). Investigating differential error types between human and simulated learners. In Artificial Intelligence in Education (AIED 2020), Lecture Notes in Computer Science, 12163, 586-597"
+    title: "Weitekamp, D., Ye, Z., Rachatasumrit, N., Harpstead, E., & Koedinger, K. (2020). Investigating differential error types between human and simulated learners. In I. I. Bittencourt, M. Cukurova, K. Muldner, R. Luckin, & E. Millán (Eds.), *Artificial Intelligence in Education (AIED 2020)*, Lecture Notes in Computer Science, vol. 12163 (pp. 586-597). Springer. [doi:10.1007/978-3-030-52237-7_47](https://doi.org/10.1007/978-3-030-52237-7_47)"
     author: "Weitekamp, D., Ye, Z., Rachatasumrit, N., Harpstead, E., & Koedinger, K."
     q: 2
     i: "?"

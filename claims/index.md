@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**50649 entries** · 0 stable · 50649 in review · 0 drafts
+**50650 entries** · 0 stable · 50650 in review · 0 drafts
 
 ---
 
@@ -248,6 +248,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [A compulsory specialized course on religions of the region increased students' confessional tolerance over a four-year teaching experiment](specialized-religion-course-increased-confessional-tolerance.md) - A compulsory specialized course on religions of the region increased students' confessional tolerance over a four-year teaching experiment
 * [A computational framework can enable a system to analyse ongoing group interaction and detect and mediate meta-cognitive conflicts](computational-framework-detect-mediate-meta-cognitive-conflicts.md) - A computational framework can enable a system to analyse ongoing group interaction and detect and mediate meta-cognitive conflicts
 * [A computational model combining informed and non-informed advice-taking with individual learning (Model 5) best predicts participants' choices](winning-mixture-model-advice-taking.md) - A computational model combining informed and non-informed advice-taking with individual learning (Model 5) best predicts participants' choices
+* [A computational model of learning reproduced the direction of two tutor A/B experiments without human training data, but not students' absolute performance](computational-learner-model-predicts-tutor-experiment-direction.md) - Simulated learners trained only on the tutors' task structure showed the same main effects as students in a blocked-versus-interleaved fractions experiment and a constrained-versus-unconstrained problem-design experiment, while over-predicting early errors where students had prior knowledge.
 * [A computer program based on the ADDIE model produced significantly higher listening comprehension post-test scores than traditional teaching among Jordanian ninth graders](addie-computer-program-improves-listening-comprehension-ninth-graders.md) - A computer program based on the ADDIE model produced significantly higher listening comprehension post-test scores than traditional teaching among Jordanian ninth graders
 * [A computer program based on the ADDIE model produced significantly higher reading comprehension post-test scores than traditional teaching among Jordanian ninth graders](addie-computer-program-improves-reading-comprehension-ninth-graders.md) - A computer program based on the ADDIE model produced significantly higher reading comprehension post-test scores than traditional teaching among Jordanian ninth graders
 * [A computer-based implementation of the tutorial yields the lowest post-test scores, statistically lower on momentum than every other style in the same study and the prior study's ideal implementation](computer-based-tutorial-implementation-lowest-posttest.md) - A computer-based implementation of the tutorial yields the lowest post-test scores, statistically lower on momentum than every other style in the same study and the prior study's ideal implementation

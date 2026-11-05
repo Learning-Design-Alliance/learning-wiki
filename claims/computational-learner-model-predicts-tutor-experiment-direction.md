@@ -12,11 +12,11 @@ newest_evidence: 2025
 sources:
   - id: maclellan-2025
     resource: "https://doi.org/10.48550/arXiv.2502.02456"
-    title: "MacLellan, C. J. (2025). Model human learners: Computational models to guide instructional design. arXiv preprint arXiv:2502.02456"
-    author: "MacLellan, C. J."
+    title: "MacLellan, C. J. (2025). Model human learners: Computational models to guide instructional design. *arXiv preprint* arXiv:2502.02456 (v4). [doi:10.48550/arXiv.2502.02456](https://doi.org/10.48550/arXiv.2502.02456)"
+    author: MacLellan, C. J.
     q: 2
     i: "?"
-    n: 78 and 202 students (two archived experiments)
+    n: 78 and 202 students
     kind: design
     rigour: 2
 ---

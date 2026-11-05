@@ -12,10 +12,11 @@ newest_evidence: 2019
 sources:
   - id: doroudi-2019
     resource: "https://doi.org/10.1145/3303772.3303838"
-    title: "Doroudi, S., & Brunskill, E. (2019). Fairer but not fair enough: On the equitability of knowledge tracing. Proceedings of the 9th International Conference on Learning Analytics & Knowledge, 335-339"
+    title: "Doroudi, S., & Brunskill, E. (2019). Fairer but not fair enough: On the equitability of knowledge tracing. In *Proceedings of the 9th International Conference on Learning Analytics & Knowledge* (pp. 335-339). ACM. [doi:10.1145/3303772.3303838](https://doi.org/10.1145/3303772.3303838)"
     author: "Doroudi, S., & Brunskill, E."
     q: 1
     i: "?"
+    n: simulated students (no real learners)
     kind: theoretical
     rigour: "?"
 ---

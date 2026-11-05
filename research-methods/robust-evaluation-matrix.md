@@ -12,6 +12,7 @@ generated:
 # Robust Evaluation Matrix (REM)
 
 > **Research Method** · [All research methods](index.md)
+> **Evidence** · no claims cited
 
 ## Description
 The robust evaluation matrix (REM) is a method for offline evaluation of instructional policies, such as new ways to sequence existing material in a tutoring system. Student models fitted to earlier data can be used as simulators to estimate how learners would do under a proposed policy, but the abstract notes that existing methods for doing so "can overestimate the performance of new teaching methods". REM addresses this by explicitly considering model mismatch: each candidate policy, including one derived from a particular student model, is evaluated by simulation under other plausible student models as well, so a policy is favoured only if it looks better across models rather than under the model it was optimised for. It is meant to be used before running an experiment with real students, to decide whether a new policy is worth testing. It applies only to the kinds of change a student model can simulate, such as reordering existing material, and it is limited by the set of models considered.

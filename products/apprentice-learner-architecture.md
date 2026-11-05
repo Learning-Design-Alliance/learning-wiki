@@ -13,7 +13,7 @@ generated:
 # Apprentice Learner Architecture
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 3 studies (2 design, 1 causal), `q2` · 0 of 3 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 4 studies (3 design, 1 causal), `q2` · 0 of 4 report an effect size · 5 claims rest on one study
 
 ## Description
 A domain-general architecture and authoring framework by MacLellan and Koedinger for creating teachable-agent tutors with learner models that can be trained across diverse instructional domains.
