@@ -46,6 +46,7 @@ Pre-registered meta-analysis using robust variance estimation with correlated hi
 
 ## Related Claims
 - [Spacing mathematics practice across weeks raised Year 7 students' test scores a month later and made their score predictions more accurate than massed practice](spaced-math-practice-raises-scores-and-calibration.md) — a narrower finding that bears on this claim
+- [Distributing mathematics practice over three days instead of one helped seventh graders at one and six weeks, but third graders only at one week](distributed-math-practice-grade3-grade7-classroom.md) — a narrower finding that bears on this claim
 - [When spacing is embedded into a course, spaced practice retains a robust but numerically smaller effect (g = 0.24) than for isolated material.](spacing-course-embedded-mathematics-g024.md) — a narrower finding that bears on this claim
 - [Total retrieval spacing improved one-week vocabulary recall while relative schedules were not distinguished](total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished.md) — related
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related

@@ -6,8 +6,8 @@ description: "A learner's age, grade level or stage of development, from early c
 canonical: true
 status: review
 generated:
-  by: claude/unspecified
-  at: 2026-10-15
+  by: "process:article-ingest"
+  at: 2026-11-05
 ---
 
 # Age and Developmental Stage
@@ -259,6 +259,7 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Mature Nursing students reported significantly lower empathic care intentions than younger counterparts, possibly explaining the discipline's lower scores](../claims/mature-nursing-students-lower-empathic-intentions.md) [+W] — learners who differ on it differ in outcomes
 - [Older age is associated with higher probability of adequate academic performance among medical students in Lima](../claims/older-age-higher-adequate-performance-medical-students.md) [+M] — learners who differ on it differ in outcomes
 - [SEL ratings decline with grade level, and informant discrepancies widen with age (significant group × grade interaction)](../claims/sel-ratings-decline-with-grade-discrepancies-widen.md) [+M] — learners who differ on it differ in outcomes
+- [Distributing mathematics practice over three days instead of one helped seventh graders at one and six weeks, but third graders only at one week](../claims/distributed-math-practice-grade3-grade7-classroom.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

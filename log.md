@@ -500,6 +500,10 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 * **Claim**: [theories/deep-learning-knowledge-tracing-models](theories/deep-learning-knowledge-tracing-models.md) — Linked claim from pyKT: A Python library to benchmark deep learning based knowledge tracing models (Liu et al., 2022), doi:10.52202/068431-1347
 * **Claim**: [principles/adaptive-learning](principles/adaptive-learning.md) — Linked claim from pyKT: A Python library to benchmark deep learning based knowledge tracing models (Liu et al., 2022), doi:10.52202/068431-1347
 * **Ingest**: [claims/newer-deep-kt-models-rarely-beat-dkt-standard-protocol](claims/newer-deep-kt-models-rarely-beat-dkt-standard-protocol.md) — pyKT: A Python library to benchmark deep learning based knowledge tracing models (Liu et al., 2022), doi:10.52202/068431-1347
+* **Claim**: [learner-variables/age-and-developmental-stage](learner-variables/age-and-developmental-stage.md) — Linked claim from Barzagar Nazari & Ebersbach (2019), doi:10.1002/acp.3485
+* **Claim**: [claims/spacing-effect-mathematics-overall-meta-analysis](claims/spacing-effect-mathematics-overall-meta-analysis.md) — Linked claim from Distributing mathematical practice of third and seventh graders (Barzagar Nazari & Ebersbach, 2019), doi:10.1002/acp.3485; written from the abstract
+* **Claim**: [principles/spaced-learning](principles/spaced-learning.md) — Linked claim from Distributing mathematical practice of third and seventh graders (Barzagar Nazari & Ebersbach, 2019), doi:10.1002/acp.3485; written from the abstract
+* **Ingest**: [claims/distributed-math-practice-grade3-grade7-classroom](claims/distributed-math-practice-grade3-grade7-classroom.md) — Distributing mathematical practice of third and seventh graders (Barzagar Nazari & Ebersbach, 2019), doi:10.1002/acp.3485; written from the abstract
 
 ## 2026-11-04
 
