@@ -1005,6 +1005,8 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 * **Ingest**: [research-methods/robust-evaluation-matrix](research-methods/robust-evaluation-matrix.md) — Doroudi, Aleven & Brunskill (2017), Robust evaluation matrix, doi:10.1145/3051457.3051463 (abstract)
 * **Content**: [elements/adaptive-mastery-learning](elements/adaptive-mastery-learning.md) — Doroudi & Brunskill (2019), Fairer but not fair enough, doi:10.1145/3303772.3303838 (abstract)
 * **Ingest**: [claims/knowledge-tracing-equity-depends-on-model-accuracy](claims/knowledge-tracing-equity-depends-on-model-accuracy.md) — Doroudi & Brunskill (2019), Fairer but not fair enough, doi:10.1145/3303772.3303838 (abstract)
+* **Content**: [products/apprentice-learner-architecture](products/apprentice-learner-architecture.md) — Weitekamp et al. (2020), Investigating differential error types between human and simulated learners, doi:10.1007/978-3-030-52237-7_47
+* **Ingest**: [claims/simulated-learners-differ-from-humans-in-error-types](claims/simulated-learners-differ-from-humans-in-error-types.md) — Weitekamp et al. (2020), Investigating differential error types between human and simulated learners, doi:10.1007/978-3-030-52237-7_47
 
 ## 2026-11-04
 
