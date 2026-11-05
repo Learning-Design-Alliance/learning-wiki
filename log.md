@@ -10,6 +10,11 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 
 ---
 
+## 2026-11-05
+
+* **Content**: [products/apprentice-learner-architecture](products/apprentice-learner-architecture.md) — MacLellan (2025), Model human learners, arXiv:2502.02456
+* **Ingest**: [claims/computational-learner-model-predicts-tutor-experiment-direction](claims/computational-learner-model-predicts-tutor-experiment-direction.md) — MacLellan (2025), Model human learners, arXiv:2502.02456
+
 ## 2026-11-04
 
 * **Ingest**: [claims/voluntary-choice-suppression-effect-multivariable](claims/voluntary-choice-suppression-effect-multivariable.md) — Ingested from pmc-13240153 (Newly Graduated Nurses' Professional Competency and Caring Perception: A Cross-Sectional Correlational Study.) via eval_harness.py + ingest_extractions.py
