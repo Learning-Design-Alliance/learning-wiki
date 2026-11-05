@@ -9,7 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2024
-source_checked: 2026-10-26
+source_checked: 2026-11-05
 sources:
   - id: peña-2024
     resource: "https://doi.org/10.1038/s41539-024-00249-3"
@@ -41,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2024 · checked against its sources 2026-10-26 (automated, 3 of 3 entries) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Toddlers who played the tablet game showed greater pre-post gains in ASQ-3 Communication domain raw scores than matched controls (r = -0.25). [→ Peña 2024](#pena-2024)

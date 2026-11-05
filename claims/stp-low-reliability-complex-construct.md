@@ -85,3 +85,4 @@ Human inter-rater reliability measured with Fleiss' κ among three researchers c
 - [Mistral 7B shows high ICCs but low Fleiss kappa when scoring summary statements](mistral-7b-high-icc-low-fleiss-kappa.md) — related
 - [Student–expert agreement on bias assessment improves significantly after EBD training](student-expert-agreement-improves-post-ebd-training.md) — related
 - [Rubric scoring of concept image protocols showed inter-rater reliability exceeding acceptable thresholds (Fleiss Kappa 0.60–0.88; Krippendorff's Alpha 0.60–0.88; ICC 0.89–0.98)](concept-image-rubric-inter-rater-reliability.md) — related
+- [ChatGPT-4o and expert agreement on root canal treatment radiograph ratings is poor to moderate, with ICC ranging from 0.36 to 0.45 across five rubric criteria](ai-expert-icc-poor-moderate-endodontic.md) — related

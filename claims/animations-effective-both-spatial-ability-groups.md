@@ -9,7 +9,6 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2019
-source_checked: 2026-11-02
 sources:
   - id: kaushal-2019
     resource: "https://eric.ed.gov/?id=EJ1219792"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i1` small
-> **Currency** · newest study 2019 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` The weighted mean effect size of animation-based teaching is 0.34 for HSA groups and 0.58 for LSA groups, both positive, so the null hypothesis that animations are only effective for HSA students is rejected. [→ Kaushal 2019](#kaushal-2019)

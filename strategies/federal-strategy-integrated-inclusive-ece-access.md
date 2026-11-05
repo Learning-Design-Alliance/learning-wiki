@@ -51,6 +51,7 @@ The whitepaper's first recommendation area directs the federal government to exp
 
 - [Federal policy should expand access to high-quality, integrated early care and education with quality assurance and adequate ECE educator compensation](federal-expand-high-quality-integrated-ece.md)
 - [Reduce families' dependence on private education or expand access to high-quality learning resources for lower-income youth](reduce-private-education-dependence-policy-korea.md)
+- [Policies improving school attendance, supporting low-income households and expanding early childhood education to raise academic outcomes in low-income urban settings](attendance-income-early-education-policy-strategy.md)
 
 ## Examples
 -

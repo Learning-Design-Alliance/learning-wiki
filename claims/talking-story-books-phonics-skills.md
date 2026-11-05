@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: alsamadani-2017
     resource: "https://doi.org/10.5539/elt.v10n5p204"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
-> **Currency** · newest study 2017 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` The experimental group scored significantly higher on reading-based phonics, F(2,76) = 125.34, partial eta squared = 0.77. [→ Alsamadani 2017](#alsamadani-2017)

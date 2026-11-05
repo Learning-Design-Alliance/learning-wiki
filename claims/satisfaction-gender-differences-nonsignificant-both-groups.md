@@ -50,3 +50,4 @@ Gender-stratified comparison of overall satisfaction (Table 3; intervention male
 - [No statistically significant difference in mathematics achievement between male and female students taught with computerized packages](no-gender-difference-computerized-math-achievement.md) — related
 - [Female gifted students slightly outperformed males on creative thinking posttests in both groups, with no group-by-gender interaction](six-hats-gender-difference-females-creative-thinking.md) — related
 - [Student satisfaction was moderately and positively correlated with academic performance in both curriculum groups](satisfaction-performance-moderate-correlation-both-groups.md) — related
+- [Gender differences in anxiety and satisfaction: female students scored higher on satisfaction (significant only in the intervention group) and male students higher on state anxiety](gender-differences-anxiety-satisfaction-simulation.md) — reports the opposite

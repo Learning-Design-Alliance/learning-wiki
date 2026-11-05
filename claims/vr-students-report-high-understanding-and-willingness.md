@@ -51,3 +51,4 @@ Voluntary anonymous 5-point Likert-type perception questionnaire administered on
 - [Post-program surveys show most students felt more likely to pursue STEM, more comfortable in university labs, and found the program appropriately challenging](discovery-survey-attitudes-comfort-pursuit.md) — related
 - [Placement participation was elective and self-selected, attracting students more comfortable with teaching's interpersonal demands](anatomy-ems-self-selection-bias.md) — related
 - [Residents strongly prefer VR as an adjunct to conventional training rather than a replacement (89% support adjunct use; only 3.4% prefer VR alone)](residents-prefer-vr-as-adjunct.md) — related
+- [Most students remained open to VR use in anatomy examinations despite preferring physical specimens](students-open-to-vr-despite-preference.md) — related

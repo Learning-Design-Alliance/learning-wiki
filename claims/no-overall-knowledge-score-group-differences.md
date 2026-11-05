@@ -48,3 +48,4 @@ Inferential analyses using Mann-Whitney U and Kruskal-Wallis tests across demogr
 - [Acute-care nurses (ED/UCC, ICU/HDU) demonstrate significantly higher sepsis knowledge than general ward nurses](acute-care-nurses-higher-sepsis-knowledge.md) — related
 - [Recent sepsis training was associated with higher confidence but not higher knowledge scores](recent-training-confidence-not-knowledge.md) — related
 - [No differences between groups in completion of the Sepsis 6 bundle components](vr-ip-sepsis6-completion-no-differences.md) — related
+- [Perceived autonomy, training, and dressing confidence showed no significant associations with years of experience or health area](no-competence-differences-experience-health-area.md) — related

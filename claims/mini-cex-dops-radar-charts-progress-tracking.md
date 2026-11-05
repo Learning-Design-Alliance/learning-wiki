@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: nie-shengxiao-2026
     resource: "https://doi.org/10.1136/bmjopen-2025-113912"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Educator-completed radar charts of competency scores serve a dual purpose of helping nurses identify strengths and weaknesses and highlighting specific areas for improvement. [→ Nie Shengxiao 2026](#nie-shengxiao-2026)

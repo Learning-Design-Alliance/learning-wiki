@@ -51,3 +51,6 @@ Multivariable logistic regression in the same cross-sectional study of 514 stude
 - [Normal BMI is associated with approximately four times higher academic performance compared with underweight among Ethiopian primary school students](normal-bmi-associated-academic-performance-ethiopia.md) — related
 - [Maternal education showed a gradient association with pupils' academic performance in bivariate analysis](maternal-education-gradient-academic-performance.md) — related
 - [Children of self-employed mothers had significantly lower odds of good academic performance than children of government-employed mothers](self-employed-mothers-lower-odds-good-performance.md) — related
+- [Father-headed households showed significantly higher odds of good academic performance compared with mother-headed households](father-head-household-academic-performance-ethiopia.md) — related
+- [In the adjusted model, height-for-age (HAZ) nutritional status did not statistically predict academic performance among urban primary school children in northern Ethiopia](haz-nutritional-status-not-predicting-academic-performance-ethiopia.md) — related
+- [Children aged 7–10 years had significantly higher odds of good academic performance than children aged 11–14 years in northern Ethiopian urban primary schools](younger-age-better-academic-performance-ethiopia.md) — related

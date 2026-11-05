@@ -49,3 +49,4 @@ The review's discussion of motivation, attributing the observation to studies of
 - [Immersive lessons show a small effect size advantage over less immersive technology, but increased presence does not necessarily lead to more learning](immersive-lessons-small-advantage-presence-not-sufficient.md) — related
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — related
 - [Review syntheses: VR/AR most often improved academic achievement and motivation, but sometimes performed no better than conventional technologies](vr-ar-advantages-achievement-motivation-with-null-contrast.md) — related
+- [No significant differences in evaluation were observed by participants' previous VR experience](no-differences-by-prior-vr-experience.md) — related

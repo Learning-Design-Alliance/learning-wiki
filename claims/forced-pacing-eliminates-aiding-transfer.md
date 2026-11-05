@@ -9,6 +9,7 @@ generated:
   at: 2026-09-26
 evidence_strength: moderate
 newest_evidence: 1980
+source_checked: 2026-11-05
 sources:
   - id: rouse-1980
     resource: "https://eric.ed.gov/?id=ED192743"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 1980 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1980 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims

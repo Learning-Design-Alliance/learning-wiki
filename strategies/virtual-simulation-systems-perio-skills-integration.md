@@ -45,6 +45,7 @@ In the discussion, the authors propose that "the acquisition of technical skills
 ## Related Strategies
 
 - [Sequence VR haptic simulator training before students' first artificial-tooth access cavity preparation in preclinical endodontic curricula](sequence-vr-simulator-before-artificial-teeth.md)
+- [Three-stage instructional sequence: theoretical instruction, virtual simulation training, then phantom-head practice](three-stage-vs-irrigation-instructional-framework.md)
 
 ## Examples
 -

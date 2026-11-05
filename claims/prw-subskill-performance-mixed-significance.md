@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: mixed
 newest_evidence: 2014
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: wickramaarachchi-2014
     resource: "https://doi.org/10.7575/aiac.alls.v.5n.5p.213"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2014 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The experimental group outperformed the control group on all sub-skills except the second (predictions), where the control group scored slightly higher (3.36 vs 3.28). [→ Wickramaarachchi 2014](#wickramaarachchi-2014)

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2021
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: tugba-inciman-celik-2021
     resource: "https://doi.org/10.5539/elt.v14n12p154"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2021 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Of ten analytical themes, two significantly explained variance among the 13 studies: the learning-pace theme (Qb=10.349, p=0.001), where the single implementing study showed ES=2.745 (1.762, 3.729) against 1.021 (0.652, 1.390) for the other 12, and teaching the written forms of words (Qb=5.875, p=0.015). [→ Tugba Inciman Celik 2021](#tugba-inciman-celik-2021)

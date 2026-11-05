@@ -44,6 +44,7 @@ Because self-evaluation scored lowest among self-directed learning dimensions (3
 ## Related Strategies
 
 - [Support metacognitive awareness by providing time and place for reflection, regulation-practice tasks, and profile-sensitive support](profile-sensitive-metacognitive-support-strategy.md)
+- [Provide regular continuing education programmes for health cadres, especially younger cadres, to maintain competency](regular-continuing-education-for-cadres.md)
 
 ## Examples
 -

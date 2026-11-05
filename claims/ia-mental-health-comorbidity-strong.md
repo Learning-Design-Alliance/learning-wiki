@@ -55,3 +55,4 @@ The review's narrative synthesis reports, citing Sayed (2022), that Egyptian pha
 - [Reported prevalence of internet addiction among health sciences students varies widely across studies, from 6% to 84%](ia-prevalence-heterogeneity-health-sciences-students.md) — related
 - [Internet addiction and frequent smartphone use are associated with higher surface learning and lower deep learning among medical students](ia-surface-learning-deep-learning-association.md) — related
 - [Stress, anxiety, and depressive symptoms show predominantly negative associations with academic performance in medical students](stress-anxiety-depression-negative-association-medical-students.md) — related
+- [Low physical activity and psychological distress are highly prevalent among Saudi physical therapy students](high-prevalence-low-activity-distress-saudi-pt-students.md) — related

@@ -58,3 +58,5 @@ Dimension-level critical thinking results in the same assessor-blinded RCT of 50
 - [PBL-CBL teaching was associated with higher critical thinking disposition scores than LBL across CCTDI-adapted questionnaire traits](pbl-cbl-higher-critical-thinking-dispositions.md) — related
 - [DwGJ participants consistently outperformed controls across self-reported clinical reasoning dimensions of critical thinking, systematic thinking, and evidence-based thinking](dwgj-cbl-higher-self-reported-clinical-reasoning.md) — related
 - [Several individual clinical-reasoning questionnaire items showed no significant difference between the DwGJ and control groups](dwgj-reasoning-item-level-null-differences.md) — related
+- [Attending offline CBL classes is associated with significantly higher self-confidence, particularly in collaboration, communication, and critical thinking](offline-cbl-attendance-higher-self-confidence.md) — related
+- [PBL combined with 3D-VRT produced higher critical thinking disposition scores across all seven dimensions than traditional teaching](pbl-3d-vrt-critical-thinking-all-seven-dimensions.md) — possibly the same claim (merge candidate)

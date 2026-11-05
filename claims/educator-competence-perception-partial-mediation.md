@@ -48,3 +48,4 @@ Bootstrap mediation test (5000 samples) within the SEM of 842 nursing students; 
 - [Nursing students report moderate scores for PI, educator competence perception, and willingness to engage in geriatric nursing](descriptive-scores-pi-gents-weans.md) — related
 - [Among Chinese vocational nursing students, professional identity is positively associated with willingness to engage in geriatric nursing](pi-associated-with-geriatric-willingness.md) — related
 - [PI, educator competence perception, and willingness to engage in geriatric nursing are pairwise positively correlated](pairwise-correlations-pi-competence-willingness.md) — related
+- [Flourishing and engagement partially mediate the effect of teacher competence on English learning motivation](flourishing-engagement-mediate-competence-motivation.md) — related

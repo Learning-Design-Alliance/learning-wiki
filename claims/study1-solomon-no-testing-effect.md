@@ -52,3 +52,4 @@ Study 1 was a pilot with 86 9th graders in a Solomon four-group design; treatmen
 - [No significant interaction of treatment and pre-test on participants' achievement in the critical thinking module study](no-treatment-pretest-interaction-critical-thinking-module.md) — related
 - [Both experimental and control groups improved significantly in French vocabulary over time, with no time-versus-group interaction attributable to the digital game treatment](pan-no-time-group-interaction-vocabulary.md) — related
 - [No significant pretest effects were observed on pre-service teachers' concept images of curriculum elements in the Solomon four-group design](no-significant-pretest-effects-solomon-gamification.md) — related
+- [Pre-testing produced no significant sensitization effect in either intervention or control groups (Solomon design)](solomon-no-pretest-sensitization.md) — related

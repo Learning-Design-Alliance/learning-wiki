@@ -53,3 +53,4 @@ Human-LLM alignment analysis (Pearson r, MAE, Bland-Altman bias) of five LLMs ag
 - [LLM-generated erroneous code aligns with authentic student errors at levels that depend on model and prompting strategy, with Claude Sonnet 4 most consistently aligned](llm-error-alignment-depends-on-model-and-prompting-strategy.md) — related
 - [Even the best LLM grader reaches only moderate agreement with human teachers, below the threshold for good reliability](llm-grading-moderate-human-agreement-icc.md) — related
 - [Inter-rater reliability between human experts and AI coding is very low](low-irr-experts-vs-ai-coding.md) — reports the opposite
+- [Bland–Altman analysis shows systematic bias and wide limits of agreement, with AI tending to assign slightly higher scores than the expert across most criteria](bland-altman-ai-higher-scores-poor-interchangeability.md) — related

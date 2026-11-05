@@ -54,3 +54,4 @@ Semi-structured interviews with 14 intervention-group interns, analyzed via dire
 - [Interviews with intervention-group interns yield 9 core themes in four clusters about how situational simulation with CBL supported learning](qualitative-nine-themes-four-clusters-simulation-cbl.md) — related
 - [Postactivity student evaluations of the triage simulation were favorable](favorable-student-evaluations-triage-simulation.md) — related
 - [Participant experiences of integrated simulation with TBL cluster into four themes: reflection and feedback, highly simulated scenarios, improved clinical thinking, and teamwork and communication](four-theme-clusters-simulation-tbl-experience.md) — related
+- [Qualitative content analysis of student interviews identified five themes: novelty, engagement, critical awareness of child health determinants, deeper learning through visual contextualization, and practical barriers](photovoice-tbl-five-themes.md) — related

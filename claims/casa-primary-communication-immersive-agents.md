@@ -9,7 +9,7 @@ generated:
   at: 2026-10-12
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-19
+source_checked: 2026-11-05
 sources:
   - id: ross-2026
     resource: "https://doi.org/10.31234/osf.io/e6smh_v1"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Learners in immersive media environments tend to treat pedagogical agents as if they were real people, primarily relying on biologically primary communication patterns, so social interaction closely resembles real-life human-human interaction. [→ Ross 2026](#ross-2026)

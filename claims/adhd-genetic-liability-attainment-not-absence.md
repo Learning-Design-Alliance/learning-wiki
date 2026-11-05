@@ -52,3 +52,4 @@ Genetic association analysis in ALSPAC adjusting for gender and 20 ancestry prin
 - [Children's own polygenic index for educational attainment is negatively associated with their ADHD traits at age 8, independent of parental PGIs](child-education-pgi-lower-adhd-traits.md) — related
 - [Genetic instrumental-variable analysis supports a causal negative effect of higher BMI in childhood and adolescence on GCSE attainment and school absence (ALSPAC cohort)](bmi-causal-effect-educational-attainment-mr.md) — related
 - [For childhood outcomes (academic achievement, ADHD symptoms), genetic-nurturing designs found only direct genetic effects and no genetic nurturing](no-genetic-nurturing-childhood-outcomes.md) — related
+- [Attention problems mediate the association between genetic predisposition to neurodevelopmental problems and lower academic achievement in both childhood and adolescence](attention-problems-mediate-pgs-ndd-academic-achievement.md) — related

@@ -9,7 +9,6 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-11-02
 sources:
   - id: duong-et-al-2022
     resource: "https://doi.org/10.1007/s12310-022-09516-3"
@@ -33,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2022 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2022 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Significant race × condition interactions emerged for nine outcomes, with simple slopes showing significant positive E-EMR effects for Asian students on school belonging (B = 0.28, p < 0.01) but not White students. [→ Duong et al. 2022](#duong-et-al-2022)

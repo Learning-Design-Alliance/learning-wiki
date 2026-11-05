@@ -70,3 +70,4 @@ One-sample Wilcoxon signed-rank test on recall-type scores versus all trainees; 
 - [ChatGPT-5, Gemini 3.0 Pro, and Claude Sonnet 4.5 achieved significantly higher overall scores than mean ophthalmology trainee performance, while ChatGPT-4o did not](three-llms-outperform-mean-trainee-overall.md) — related
 - [On problem-solving-type questions, all LLMs scored lower than average fellows and none significantly outperformed trainees](llms-weaker-on-problem-solving-type-questions.md) — related
 - [Model strengths differ by question type: Gemini 1.5 Pro leads on A1 recall and image-based questions, Claude 3.5 Sonnet on A2 application, and Gemini and GPT-4o on case analysis](llm-strengths-vary-by-srtp-question-type.md) — related
+- [New-generation LLMs significantly outperform GPT-4o on knowledge-based question types (A1, B1) but not on case-analysis types (A2, A3/A4)](cdle-knowledge-vs-case-analysis-question-types.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2018
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 recheck_by: 2023
 sources:
   - id: dahn-j-2018
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
-> **Currency** · newest study 2018 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2023**: baselines and conditions change
 
 ## Subclaims
 `q3 i?` The highest number of physician barriers was reported in the environmental context and resources domain, led by time constraints, alongside limited access to tools/programs, competing demands, cost, technological problems, and lack of faculty expertise in team training. [→ Dahn J 2018](#dahn-j-2018)

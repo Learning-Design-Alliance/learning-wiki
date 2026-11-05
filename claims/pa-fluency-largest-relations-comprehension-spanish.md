@@ -9,7 +9,7 @@ generated:
   at: 2026-10-19
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-10-19
+source_checked: 2026-11-05
 sources:
   - id: baker-2022
     resource: "https://doi.org/10.1007/s10648-022-09694-1"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2022 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Among the essential components of reading, the largest meta-analytic effect sizes with reading comprehension in monolingual Spanish-speaking children were for phonological awareness and for fluency. [→ Baker 2022](#baker-2022)

@@ -48,3 +48,5 @@ Multilevel multivariable linear regression with random intercept on 4,867 reside
 - [Yearly inpatient volume as a continuous variable is not significantly associated with GM-ITE scores or burnout symptoms](continuous-inpatient-volume-not-significant.md) — related
 - [GM-ITE scores of Very Low-Volume hospital residents do not differ significantly from those of Moderate- or High-Volume hospital residents](very-low-volume-gmite-comparable-to-moderate-high.md) — related
 - [Residents at Very Low-Volume hospitals report weaker training guidance systems, clinical training support systems, and academic journal availability](very-low-volume-weaker-training-environment.md) — related
+- [Receiving teaching during the decision-making stage is associated with higher GM-ITE clinical scores among residents](decision-making-teaching-higher-gm-ite-scores.md) — related
+- [Receiving teaching during the physical examination stage is associated with lower GM-ITE clinical scores among residents](physical-examination-teaching-lower-gm-ite-scores.md) — related

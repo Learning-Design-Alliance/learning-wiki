@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2014
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: christian-doabler-2014
     resource: "https://eric.ed.gov/?id=ED562831"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2014 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Round-1 observation data indicate ROOTS-small groups received practice opportunity rates at least as high as ROOTS-large groups, suggesting more individualized, intensive practice. [→ Christian Doabler 2014](#christian-doabler-2014)

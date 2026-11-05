@@ -73,3 +73,4 @@ Items were categorized against published DI thresholds (poor ≤ 0.20; acceptabl
 - [LLM-assisted MCQ generation achieved a 5.6-fold efficiency gain over student authorship in a formative medical exam context](llm-mcq-generation-efficiency-gain.md) — related
 - [ChatGPT-generated and educator-generated MCQs show no statistically significant difference in difficulty index in a real dental exam](chatgpt-educator-mcq-no-difficulty-difference.md) — related
 - [ChatGPT-generated and educator-generated MCQs show no statistically significant difference in discriminative index in a real dental exam](chatgpt-educator-mcq-no-discrimination-difference.md) — related
+- [Students scored significantly higher on instructor-written MCQs than on ChatGPT-generated MCQs in a within-subjects dental assessment](instructor-mcqs-scored-higher-than-chatgpt-mcqs.md) — related

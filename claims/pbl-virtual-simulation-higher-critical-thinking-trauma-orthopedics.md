@@ -54,3 +54,6 @@ Same assessor-blinded RCT of 50 clinical medical students. Critical thinking was
 - [In the RCT, PBL students rated their own communication skills and critical thinking significantly higher on a questionnaire than LBL students did](pbl-rct-higher-communication-critical-thinking.md) — related
 - [BOPPPS with virtual simulation yields significantly higher total internship performance scores than traditional teaching (d = 3.12)](boppps-virtual-simulation-higher-internship-performance.md) — related
 - [Working time and satisfaction do not differ between interactive and passive e-learning groups](e-learning-working-time-satisfaction-no-difference.md) — related
+- [PBL combined with 3D-VRT produced higher critical thinking disposition scores across all seven dimensions than traditional teaching](pbl-3d-vrt-critical-thinking-all-seven-dimensions.md) — related
+- [PBL combined with 3D-VRT produced higher practical operation scores than traditional teaching in trauma orthopaedics education](pbl-3d-vrt-higher-practical-operation-scores.md) — related
+- [Students taught with PBL combined with 3D-VRT rated teaching methods higher than students taught traditionally](pbl-3d-vrt-higher-student-teaching-evaluations.md) — related

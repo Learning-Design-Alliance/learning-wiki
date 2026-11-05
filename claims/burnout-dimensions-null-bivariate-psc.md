@@ -50,3 +50,4 @@ Pearson correlation analysis among 443 operating room nurses. Both effect sizes 
 - [Operating room nurses with no more than 5 years of experience report lower patient safety competency than those with more than 20 years](early-career-or-nurses-lower-psc.md) — related
 - [Higher safety attitudes are the most consistent psychosocial correlate of patient safety competency](safety-attitudes-psc-association.md) — related
 - [Systems thinking and personal accomplishment show model-dependent positive associations with patient safety competency](systems-thinking-pa-model-dependent-psc.md) — related
+- [Burnout affects up to 70% of residents and negatively affects clinical performance and decision-making](resident-burnout-up-to-70-percent-impairs-performance.md) — reports the opposite

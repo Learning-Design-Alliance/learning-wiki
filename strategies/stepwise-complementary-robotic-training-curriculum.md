@@ -75,6 +75,8 @@ The review recommends that training modalities be combined in a progressive curr
 - [Blend VR and IP simulation within a curriculum, matching each modality to learning objectives and training stage](blended-vr-ip-simulation-curriculum.md)
 - [Incorporate the validated sensorised glove into structured obstetric training curricula after staged refinement and validation](staged-sensorised-glove-training-curriculum-strategy.md)
 - [Integrate the MaiSurge model into gynecology residency curricula for continuous TLH training and skill assessment outside the operating room](maisurge-curriculum-integration-strategy.md)
+- [Stepwise blended learning: train clinical reasoning with the AI chatbot first, then practice procedural and communication skills through PRP or standardized patients, with structured debriefing](stepwise-blended-chatbot-then-prp-osce-strategy.md)
+- [Three-stage instructional sequence: theoretical instruction, virtual simulation training, then phantom-head practice](three-stage-vs-irrigation-instructional-framework.md)
 
 ## Examples
 -

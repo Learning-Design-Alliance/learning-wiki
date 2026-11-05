@@ -51,3 +51,4 @@ Repeated measures ANOVA in the intervention group (n = 20) showed a significant 
 - [Game-based learning in a mental health nursing internship significantly improves nursing students' self-directed learning, with large within-group effects sustained at one-month follow-up](gbl-improves-self-directed-learning-nursing.md) — related
 - [Digital interventions show sustained improvements in performance and retention, with confidence and diagnostic ability remaining elevated four months post-intervention in some studies](digital-learning-knowledge-retention-four-months.md) — a broader claim this one bears on
 - [Clinical Application scores increased from Post-test to one-month Follow-up in all three groups](application-scores-increased-at-follow-up.md) — related
+- [Academic self-efficacy positively predicts clinical performance in nursing internship students](ase-positive-prediction-clinical-performance.md) — related

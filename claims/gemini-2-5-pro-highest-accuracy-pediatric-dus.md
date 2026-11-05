@@ -57,3 +57,4 @@ Benchmark of 119 pediatric dentistry MCQs from the DUS administered to 17 LLM co
 - [ChatGPT 4.0 achieved the highest accuracy (91.3%) on DUS oral and maxillofacial radiology questions and significantly outperformed all other evaluated LLMs](chatgpt-4-highest-accuracy-dus-radiology.md) — related
 - [All four LLMs show higher accuracy on general than clinical questions, significant only for Grok-4](general-vs-clinical-accuracy-gap.md) — related
 - [Pairwise chi-square comparisons found no significant difference only between Grok and ChatGPT 4.5, while all other model pairs differed significantly](pairwise-llm-comparisons-grok-chatgpt45-nonsignificant.md) — related
+- [GPT-4o significantly lags the other four LLMs on dentistry questions, while in clinical medicine no significant pairwise differences were detected](cdle-dentistry-gpt4o-lags-subjects.md) — related

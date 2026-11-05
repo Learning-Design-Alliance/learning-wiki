@@ -50,3 +50,4 @@ The review reports a US randomized controlled trial (cited as reference 34, Medi
 - [In a Spanish RCT, widows whose family physician was trained in bereavement care experienced poorer emotional outcomes than widows in the control group](spanish-rct-bereavement-training-poorer-widow-outcomes.md)
 - [Grief training outcomes were usually measured by immediate self-assessment showing increased knowledge and comfort, with few studies measuring patient care, physician well-being or longitudinal effects](grief-training-outcomes-self-assessed-few-longitudinal.md) — related
 - [Emotional exhaustion and depersonalization show no significant bivariate correlation with patient safety competency](burnout-dimensions-null-bivariate-psc.md) — related
+- [Burnout affects up to 70% of residents and negatively affects clinical performance and decision-making](resident-burnout-up-to-70-percent-impairs-performance.md) — related

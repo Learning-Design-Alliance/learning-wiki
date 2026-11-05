@@ -9,7 +9,6 @@ generated:
   at: 2026-10-13
 evidence_strength: moderate
 newest_evidence: 2021
-source_checked: 2026-10-18
 sources:
   - id: tanmay-sinha-and-manu-kapur-2021
     resource: "https://doi.org/10.3102/00346543211019105"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q4`
-> **Currency** · newest study 2021 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 <!-- title before 2026-10-15: The fidelity benefit of PS-I reverses for very short interventions: fidelity gains shrink when everything is crammed into a few hours -->
 

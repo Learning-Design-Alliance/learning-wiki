@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 243 claims (124 for, 100 mixed, 19 against) · 134 studies (39 causal, 36 review, 18 design, 16 quant-synthesis, 14 qualitative, 7 associational, 4 theoretical), `q1`–`q4` · 27 of 134 report an effect size · 238 claims rest on one study
+> **Evidence** · 245 claims (126 for, 100 mixed, 19 against) · 135 studies (40 causal, 36 review, 18 design, 16 quant-synthesis, 14 qualitative, 7 associational, 4 theoretical), `q1`–`q4` · 27 of 135 report an effect size · 240 claims rest on one study
 
 ## Description and scope
 
@@ -171,6 +171,8 @@ Read against the model on 2026-10-19; these bear on the page but do not change a
 - [Log analysis showed only 42.7% of virtual patient answers were correctly allocated, with system errors dominating (75%)](../claims/vr-speech-recognition-error-analysis.md) [~W] — attached 2026-11-05 from Graf Linda et al. (2026), which proposed "Use VR virtual patients as a low-threshold, standardized preparatory tool before standardized patient encounters".
 - [Early-career psychiatrists' self-rated self-efficacy in conducting suicide risk assessments rose significantly from pre- to post-intervention after a 20-minute GenAI simulator session, in one uncontrolled pre-post study](../claims/genai-simulator-increases-suicide-assessment-self-efficacy.md) [+M] — attached 2026-11-05 from Elyoseph Zohar et al. (2026), which proposed "Use GenAI simulators to provide a psychologically safe, repeatable practice environment with immediate standardized feedback for high-stakes clinical skills".
 - [In one uncontrolled pre-post study, psychiatrists' self-rated willingness to treat patients at suicide risk rose from pre-intervention to post-intervention after a GenAI simulator session.](../claims/genai-simulator-increases-willingness-to-treat-suicidal-patients.md) [+M] — attached 2026-11-05 from Elyoseph Zohar et al. (2026), which proposed "Use GenAI simulators to provide a psychologically safe, repeatable practice environment with immediate standardized feedback for high-stakes clinical skills".
+- [SP training significantly improved emergency residents' physical examination, management and treatment, and total checklist scores for acute chest pain](../claims/sp-training-improves-physical-exam-management-scores.md) [+W] — attached 2026-11-05 from Lu Fan et al. (2025), which proposed "Team-based SP simulation session with a designated leader, minimal instructor intervention, and peer observers"; tests this page's relationship.
+- [After SP training, residents completed POCT cTnI, diagnosis, and catheterization room activation significantly faster](../claims/sp-training-reduces-key-treatment-time-nodes.md) [+W] — attached 2026-11-05 from Lu Fan et al. (2025), which proposed "Adopt and generalize standardized patient training for emergency department residents managing acute chest pain"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

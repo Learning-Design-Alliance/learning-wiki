@@ -49,3 +49,4 @@ Conditional process analysis in the RCT showed "the indirect effect strengthenin
 - [Open science practice significantly amplifies the effect of feedback-based pedagogy on innovation capacity through a positive interaction](open-science-amplifies-feedback-innovation-effect.md) — related
 - [The indirect effect of AI literacy on engagement via psychological capital strengthens as professional commitment rises (moderated mediation)](moderated-mediation-conditional-indirect-effect.md) — related
 - [The serial indirect effect of AI literacy on continued use is weaker at higher levels of AI anxiety (moderated mediation)](moderated-mediation-anxiety-serial-path.md) — related
+- [AI integration amplifies the positive effects of flourishing and engagement on English learning motivation](ai-integration-moderates-motivation-pathways.md) — a narrower finding that bears on this claim

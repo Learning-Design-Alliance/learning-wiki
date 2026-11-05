@@ -55,3 +55,4 @@ Pearson correlation analysis among GPA, PSQI global score, ordinal IPAQ score, a
 - [Poor sleep quality is highly prevalent (65.4%) among male university students in this Saudi cohort](poor-sleep-prevalence-male-saudi-students.md) — related
 - [Longer sleep on the exam day correlates weakly with higher most recent exam grade and higher GPA, but GPA is not correlated with PSQI score](exam-day-sleep-duration-correlates-grades-gpa.md) — reports the opposite
 - [Subjective sleep measures (PSQI) show no significant differences or correlations with academic performance, contrasting with objective actigraphy](psqi-null-vs-actigraphy-significant.md) — reports the opposite
+- [Physical activity category is not statistically significantly associated with GPA category among Saudi physical therapy students](pars3-category-not-associated-gpa-saudi-pt-students.md) — reports the opposite

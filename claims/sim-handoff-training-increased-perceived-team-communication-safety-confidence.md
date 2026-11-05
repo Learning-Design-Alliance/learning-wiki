@@ -77,3 +77,4 @@ Same SET-M post-simulation survey item on confidence in communicating with the h
 - [Participants reported perceived increases in confidence when approaching early clinical tasks after completing the integrated module.](integrated-module-increases-confidence-early-clinical-tasks.md) — related
 - [Structured debriefing is reported to enhance clinical skills and affect patient care outcomes](structured-debriefing-enhances-clinical-skills.md) — related
 - [Students evaluate structured debriefing positively across knowledge, emotional attitude, and nursing skills](debriefing-positive-student-evaluations.md) — related
+- [Participants overwhelmingly perceived the interprofessional in situ simulation program as a medical education tool that could improve patient safety culture](simulation-perceived-improving-safety-culture.md) — related

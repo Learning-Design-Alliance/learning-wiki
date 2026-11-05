@@ -61,3 +61,4 @@ The scoping review's thematic synthesis of empirical studies (RQ3) reports this 
 - [Depression predicts increased assessment dishonesty, amplified among students with high non-academic screen time](depression-predicts-assessment-dishonesty-screen-time-moderation.md) — a narrower finding that bears on this claim
 - [Higher social media use and screen time are significantly associated with poorer mental health among tertiary students in Ghana](social-media-screen-time-poorer-mental-health-ghana-tertiary.md) — related
 - [Resilience shows no direct association with study performance (grades) among pre-service teachers, regardless of personality or mental health profile](resilience-no-direct-association-study-performance.md) — related
+- [Low physical activity and psychological distress are highly prevalent among Saudi physical therapy students](high-prevalence-low-activity-distress-saudi-pt-students.md) — related

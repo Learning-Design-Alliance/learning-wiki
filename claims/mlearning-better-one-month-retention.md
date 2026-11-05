@@ -52,3 +52,4 @@ Quasi-experimental study with 90 NICU nurses. At one month, total mean IPAT scor
 - [Onsite training skill effects are larger at immediate post‐intervention than at follow‐up, while hybrid skill effects do not differ by assessment point](onsite-skill-effects-larger-immediate-post-intervention.md) — a broader claim this one bears on
 - [Significant Time × Group interaction shows experimental group maintained scores while control group declined at final examination](mooc-hfs-time-group-interaction-retention.md) — related
 - [Game-based training with precision teaching improved disaster knowledge and behavioral fluency more than case-based training, with no significant fluency decline at one month](game-based-precision-teaching-improved-fluency.md) — related
+- [Retention of the target medical terms declined significantly over the month across all teaching methods](retention-declines-over-time-all-groups.md) — related

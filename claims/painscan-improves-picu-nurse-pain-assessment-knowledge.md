@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: rong-xinyi-2026
     resource: "https://doi.org/10.1002/nop2.70741"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` PICU nurses trained with PainScan showed significant within-group improvement in pain assessment knowledge (t = 10.249, p < 0.001). [→ Rong Xinyi 2026](#rong-xinyi-2026)

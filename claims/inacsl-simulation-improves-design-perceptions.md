@@ -71,3 +71,4 @@ Total Simulation Design Scale score comparison in the same study (intervention n
 - [INACSL-standard-based simulation training increases active learning scores versus standard simulation training](inacsl-simulation-raises-active-learning.md) — related
 - [INACSL-standard-based simulation training does not significantly improve midwifery students' self-confidence compared with standard training](inacsl-simulation-no-self-confidence-gain.md) — related
 - [Nursing students reported high satisfaction with community care simulation, with all SDS domain means around 4.5 and support rated lowest](ccs-high-satisfaction-sds-domain-scores.md) — related
+- [Intervention students report higher educational satisfaction than controls after structured reflective sessions](reflective-sessions-increase-satisfaction.md) — related

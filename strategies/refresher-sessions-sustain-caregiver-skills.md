@@ -54,6 +54,7 @@ The article recommends that to sustain and extend the benefits of simulation-bas
 - [Pair cadaveric workshops with a longitudinal pathway of refreshers, mentorship and task trainers to consolidate skills](neurosave-longitudinal-refreshers-mentorship-strategy.md)
 - [Schedule repeated simulation sessions across the psychiatric attachment and extend the program to other clinicians](repeated-psychiatric-simulation-sessions-strategy.md)
 - [Conduct short, simple skill-training sessions on a low-cost self-made model where full-scale simulators are unavailable, embedded in recurring refresher training](low-cost-model-short-fona-training-sessions.md)
+- [Recalibrate CPR training toward regular, simulation-based skills refreshers with real-time audiovisual feedback and instructor-led debriefing](simulation-feedback-cpr-training-recalibration.md)
 
 ## Examples
 -

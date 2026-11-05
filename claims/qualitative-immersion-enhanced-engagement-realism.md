@@ -75,3 +75,4 @@ Semistructured interviews with all 54 experimental-group participants, analyzed 
 - [Qualitative feedback highlighted accessibility, content reinforcement, engagement, and complementarity with the donor, with interface design the most-cited area for improvement](qualitative-feedback-themes-modules.md) — related
 - [Thematic analysis of focus groups and open-ended responses identified immersion, clinical communication practice and safe decision-making environments as key perceived benefits](vr-pilot-qualitative-benefit-themes.md) — related
 - [Participants described standardized clinical scenarios in VR as promoting objectivity and uniformity in clinical training and assessment](vr-standardized-scenarios-objectivity-uniformity.md) — related
+- [Participants rated the immersive VR hypothermia training very positively, with realism 8.87/10 and usefulness scores above 4.7/5](vr-als-training-positive-perception-ratings.md) — a narrower finding that bears on this claim

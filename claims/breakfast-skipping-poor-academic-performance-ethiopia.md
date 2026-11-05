@@ -56,3 +56,4 @@ Subgroup meta-analysis of nutrition-related predictors within the review; four s
 - [Underweight children are less likely to achieve high academic scores (pooled effect size 0.605)](underweight-lower-academic-scores-ethiopia.md) — related
 - [About 56% of first-cycle primary students in North Shoa Zone showed good academic performance, with widespread undernutrition and low breakfast consumption](academic-performance-undernutrition-prevalence-north-shoa.md) — related
 - [Eating breakfast is associated with about four times better academic performance among Ethiopian first-cycle primary school students](breakfast-consumption-associated-academic-performance-ethiopia.md) — related
+- [Undernutrition burden was high among the sampled urban primary school children, with wasting at 34.0%, underweight at 24.0%, stunting at 23.8% and overweight at 4.3%](malnutrition-prevalence-urban-primary-schools-northern-ethiopia.md) — related

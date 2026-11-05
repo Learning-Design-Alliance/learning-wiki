@@ -64,3 +64,4 @@ Blind pairwise human study on a domain-stratified subset of 45 TutorBench sessio
 - [In blind A/B comparison, raters prefer personalised (Adaptive) questions over non-personalised (Random-topic) questions about 68–69% of the time in Biology and Chemistry](collearn-ab-personalised-question-preference.md) — related
 - [Solving-oriented and pedagogy-oriented composite scores on the public MathTutorBench leaderboard are only moderately correlated (Pearson 0.421, Spearman 0.690)](solving-pedagogy-composites-moderately-correlated-mathtutorbench.md) — related
 - [Blinded board-certified clinicians prefer the RL-trained agent in 87.6% of side-by-side comparisons for overall clinical impression](residencyrl-clinician-preference-side-by-side.md) — related
+- [Pearson correlations between AI and expert scores are weak (all r < 0.3) and statistically non-significant across all five criteria](ai-expert-pearson-weak-nonsignificant.md) — reports the opposite

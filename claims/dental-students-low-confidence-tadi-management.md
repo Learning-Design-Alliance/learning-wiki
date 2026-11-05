@@ -53,3 +53,4 @@ Self-reported confidence measured via Likert-scale items in Section E of the que
 - [Awareness of the most recent IADT guidelines is associated with higher knowledge and confidence in TDI management](iadt-guideline-awareness-knowledge-confidence.md) — related
 - [Medical students show low clinical decision accuracy in dental trauma scenarios, particularly for tooth avulsion](medical-students-low-decision-accuracy-dental-trauma.md) — related
 - [Most Turkish health vocational students believed dental trauma education is necessary (89.8%) and expressed interest in attending such training (80.2%)](strong-demand-dental-trauma-education-vocational-students.md) — related
+- [Only 36.3% of residents feel confident treating traumatized immature teeth while 96.9% want more training](low-confidence-high-training-demand-tdi.md) — related

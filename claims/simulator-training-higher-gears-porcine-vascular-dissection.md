@@ -51,3 +51,4 @@ Prospective, controlled, non-randomized feasibility study of 12 novice robotic s
 - [Independent samples t-test shows significantly higher GEARS scores for XR-trained novices versus no additional training](t-test-gears-xr-significantly-higher-than-no-training.md) — related
 - [Among consultant paediatric surgeons, operative time fell significantly from before to after a 12-week porcine-model laparoscopic training programme in one uncontrolled pre-post study](porcine-model-training-reduces-operative-time-consultants.md) — related
 - [The K technique exercise stimulates five of six GEARS skill domains](k-technique-stimulates-five-gears-domains.md) — related
+- [RCDP training with an ex vivo porcine intussusception model produces higher post-training theoretical and practical assessment scores than traditional teaching methods in radiology residents](rcdp-exvivo-model-higher-air-enema-scores.md) — related

@@ -53,3 +53,4 @@ Classification-accuracy analysis of the threshold on the cohort dataset. The art
 - [MAP Reading Fluency SWCPM scores classify students into ARM proficiency categories with exact match rates of 74.6–90.8%, kappa 0.60–0.85, and overall accuracy 0.81–0.96](swcpm-classification-accuracy-arm-proficiency.md) — related
 - [The models' classification accuracy exceeds that of 97 percent of prior studies predicting high school completion](accuracy-exceeds-97-percent-of-prior-studies.md) — related
 - [Prior categoric studies found teachers correctly classified only about half of students' monitoring orientations](prior-studies-half-students-monitoring-classified-correctly.md)
+- [The prediction model accurately classified 76.7% of 'improvement required' and 'nonimprovement required' students in an independent validation cohort](prediction-model-validated-76-7-percent-accuracy.md) — related

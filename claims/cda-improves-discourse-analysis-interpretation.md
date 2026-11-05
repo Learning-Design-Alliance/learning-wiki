@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: hazaea-and-alzubi-2017
     resource: "https://eric.ed.gov/?id=EJ1171140"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Discourse analysis (interpretation) questionnaire means rose from 2.89 to 4.01 and test means from 2.94 to 4.13, significant at .000, with the lowest mean improvement of the three categories. [→ Hazaea and AlZubi 2017](#hazaea-and-alzubi-2017)

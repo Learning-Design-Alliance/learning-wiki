@@ -53,3 +53,4 @@ Independent-samples t-test (df=107) comparing post-test scores of the experiment
 - [The podcast group significantly outperformed the control group on the listening comprehension post-test](podcast-group-outperformed-control-listening-posttest.md) — related
 - [Between-group differences in reading comprehension gains were not statistically significant despite group 1 showing larger effect sizes](rap-between-group-differences-nonsignificant.md) — related
 - [Explicit instruction in reading strategies was essential to bring about increased use of reading strategies by experimental-group learners](explicit-instruction-increases-reading-strategy-use.md) — related
+- [Knowledge test scores did not differ significantly overall between DMIS and control groups, but the DMIS group scored significantly higher on Lecture 2](dmis-knowledge-test-lecture2-advantage.md) — related

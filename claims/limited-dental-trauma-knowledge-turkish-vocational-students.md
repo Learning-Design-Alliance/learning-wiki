@@ -52,3 +52,4 @@ Cross-sectional online survey of 333 students from 16 programs across 7 Turkish 
 - [Students who self-assessed their dental injury knowledge as adequate answered the contaminated-tooth question correctly at a significantly higher rate (p = 0.006)](perceived-knowledge-adequacy-contamination-accuracy.md) — related
 - [Students who self-reported knowing what to do for an avulsed permanent tooth gave significantly more correct answers on contaminated-tooth and fractured-tooth management](self-reported-avulsion-knowledge-predicts-correct-responses.md) — related
 - [Medical students show low clinical decision accuracy in dental trauma scenarios, particularly for tooth avulsion](medical-students-low-decision-accuracy-dental-trauma.md) — related
+- [Residents know avulsed-tooth storage media well but only 29.3% identify the correct 2-week splinting duration](tdi-knowledge-storage-media-strong-splinting-gap.md) — related

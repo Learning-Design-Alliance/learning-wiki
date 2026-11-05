@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2017
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: ritchey-et-al-2017
     resource: "https://doi.org/10.1177/0731948716682689"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In an exploratory median-split analysis, students with lower initial fluency did not consistently respond differently from students with higher fluency. [→ Ritchey et al. 2017](#ritchey-et-al-2017)

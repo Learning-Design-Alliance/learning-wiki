@@ -48,6 +48,7 @@ The authors recommend leveraging simulation with trainees from multiple specialt
 - [Use learner-led open-ended debriefing after each standardized patient encounter](learner-led-debriefing-after-simulation-encounters.md)
 - [Integrate grief training throughout the medical curriculum using interdisciplinary collaborations and experiential learning opportunities](integrate-grief-training-throughout-curriculum.md)
 - [Integrate case-based learning, visual diagnostic training, and interdisciplinary teaching into medical curricula to strengthen oral diagnosis](integrate-case-based-oral-diagnosis-training-strategy.md)
+- [Integrate occupational adaptive learning with simulation training, case studies, and interdisciplinary collaboration to strengthen clinical pharmacist preparation](integrate-adaptive-learning-with-simulation-case-studies.md)
 
 ## Examples
 -

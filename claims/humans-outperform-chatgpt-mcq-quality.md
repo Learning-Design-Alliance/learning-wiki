@@ -74,3 +74,4 @@ Same Cheung et al. comparison reported in the review: AI generation of 50 MCQs t
 - [LLM-generated modified Angoff cutoff estimates are comparable to faculty-generated estimates for a medical MCQ examination](llm-angoff-estimates-comparable-to-faculty.md) — related
 - [LLM-assisted MCQ generation achieved a 5.6-fold efficiency gain over student authorship in a formative medical exam context](llm-mcq-generation-efficiency-gain.md) — related
 - [ChatGPT generated usable MCQs roughly five times faster than educator panels but with a 44% rejection rate](chatgpt-mcq-generation-speed-rejection-tradeoff.md) — possibly the same claim (merge candidate)
+- [Students scored significantly higher on instructor-written MCQs than on ChatGPT-generated MCQs in a within-subjects dental assessment](instructor-mcqs-scored-higher-than-chatgpt-mcqs.md) — related

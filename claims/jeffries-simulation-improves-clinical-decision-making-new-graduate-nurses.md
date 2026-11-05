@@ -53,3 +53,6 @@ Same single-group pretest/posttest study (n = 60); preceptors rated decision-mak
 - [In situ simulated emergency training added to routine training raises self-rated clinical reasoning in junior nurses](in-situ-set-improves-clinical-reasoning-junior-nurses.md) — related
 - [Evidence-based graduation theses rose from 18.6% to 30.0% during model implementation](ebp-graduation-theses-increase.md) — related
 - [Total self-reported ICCAS scores rose significantly from pre-test to post-test after the simulation intervention in one uncontrolled pre-post study](sbl-total-iccas-significant-increase.md) — related
+- [Paired pre-post comparison of the whole sample showed a statistically significant increase in clinical decision-making scores (P < 0.001).](atls-prepost-paired-t-significant-increase-overall.md) — possibly the same claim (merge candidate)
+- [Mean clinical decision-making scores increased pre to post in both groups, with the intervention group scoring higher at posttest (52.24 vs 48.09).](atls-simulation-prepost-score-gains-intervention-vs-control.md) — related
+- [MCQ scores in the control group without structured reflection fell from pre-test to post-test in a within-group pre-test–post-test measurement](no-reflection-mcq-decline.md) — related

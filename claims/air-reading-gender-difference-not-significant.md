@@ -54,3 +54,4 @@ Subgroup analysis by gender within the main RCT model with interaction terms; th
 - [Among top-performing math students, male students show strongly math-oriented math–reading achievement profiles whereas female students' profiles are more balanced](math-reading-profile-gender-tilt-top5.md) — related
 - [Accelerated Reader appears more effective for girls than boys, though results are positive for both](ar-more-effective-for-girls.md) — reports the opposite
 - [Book desert severity does not significantly moderate the book distribution treatment effect, though marginal effects differ descriptively](book-desert-moderator-null.md) — related
+- [Male students report slightly higher classroom engagement than female students in the sample](gender-gap-engagement-boys-higher.md) — related

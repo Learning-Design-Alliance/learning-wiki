@@ -9,7 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-10-29
+source_checked: 2026-11-05
 sources:
   - id: ana-cebollero-salinas-2022
     resource: "https://doi.org/10.1016/j.compedu.2022.104464"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i2`–`i3`
-> **Currency** · newest study 2022 · checked against its sources 2026-10-29 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` In a cross-sectional survey, correlations with e-self-control of impulsiveness, emotional e-regulation, and emotional e-independence are negative (e.g., r = -.556 for boys' e-self-control), social e-competency correlates weakly and positively (r = .111 to .178, not significant for girls), and emotional e-awareness shows no significant correlation. [→ Ana Cebollero-Salinas 2022](#ana-cebollero-salinas-2022)

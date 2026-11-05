@@ -65,3 +65,4 @@ Baseline comparison in the same assessor-blinded RCT of 50 clinical medical stud
 - [The DwGJ and control groups did not differ in admission theoretical or skill examination scores at baseline](dwgj-trial-baseline-equivalence-admission-scores.md) — possibly the same claim (merge candidate)
 - [Baseline characteristics (age, sex, pre-rotation theoretical scores) did not differ significantly between the PBL and lecture cohorts](baseline-comparability-pbl-esophageal-cohort.md) — related
 - [No significant difference between teaching models in theoretical examination scores](ltm-theoretical-exam-no-difference.md) — related
+- [Before extreme scores are removed, total exam scores do not differ significantly between CBL+MOC and traditional CBL groups](cbl-moc-total-score-not-significant-before-exclusion.md) — related

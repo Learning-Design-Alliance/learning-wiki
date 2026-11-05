@@ -48,3 +48,4 @@ Exploratory brain-behavior correlation analyses. For example, the pre-to-post in
 - [A semester of physics instruction alters resting-state brain dynamics, increasing a somatomotor/cingulo-opercular state (CAP-7) and decreasing effortful (CAP-4) and multimodal (CAP-1) states](resting-state-cap-changes-semester-physics.md) — related
 - [In-scanner sentence judgment accuracy correlates significantly with standardized reading fluency and phonological awareness scores across both groups](inscanner-performance-correlates-fluency-phonological.md) — related
 - [The magnitude of ERP prediction markers correlates with the behavioral reaction-time benefit of predictability](erp-prediction-markers-correlate-rt-benefit.md) — reports the opposite
+- [Pre-task resting-state behavior-PLS shows no significant brain–performance relationships before the task](pre-task-behavior-pls-no-significant-effects.md) — related

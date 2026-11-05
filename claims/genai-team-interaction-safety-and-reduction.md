@@ -80,3 +80,4 @@ The review reports concerns from He et al. (2024) and Kiesler et al. (2025) that
 - [ChatGPT served as an emotional support agent during practicum, offering a nonjudgmental, constantly available interlocutor](chatgpt-emotional-support-agent-practicum.md) — related
 - [Peer tutoring contributes to psychological safety and reduced anxiety in demanding simulation learning environments](peer-tutoring-psychological-safety-anxiety.md) — related
 - [Interpersonal capabilities — building connectedness and seeking permission — foster trust and psychosocial safety in serious illness conversations](sic-interpersonal-connectedness-permission.md) — related
+- [Peer learning's effectiveness depends on psychological safety and trust within the group; informal networks may disproportionately benefit those with stronger social capital](peer-learning-psychological-safety-and-equity-conditions.md) — related

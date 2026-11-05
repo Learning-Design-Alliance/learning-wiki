@@ -88,3 +88,4 @@ The playbook summarizes prior research (citing Attendance Works' compilation of 
 - [Ninth grade truancy rates do not differ much by gender, undercutting the hypothesis that gang activity primarily drives absenteeism](truancy-rates-similar-by-gender.md) — related
 - [Peer victimization is associated with more school absences and lower grades and achievement among school-aged students](peer-victimization-academic-costs.md) — a narrower finding that bears on this claim
 - [Cumulative ACEs show a dose-response association with truancy, absenteeism, and lower expectations of graduating](aces-dose-response-truancy-absenteeism.md) — related
+- [No absenteeism, preschool attendance and higher monthly income each significantly predicted better academic performance in the adjusted model](attendance-preschool-income-predict-academic-performance-ethiopia.md) — a narrower finding that bears on this claim

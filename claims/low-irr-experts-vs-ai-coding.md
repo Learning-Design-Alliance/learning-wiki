@@ -58,3 +58,4 @@ Cohen's kappa was calculated for every category and pair of coders. Agreement be
 - [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
 - The proposed coding scheme achieves high inter-rater reliability across design object, design move, and communication move dimensions — related
+- [ChatGPT-4o and expert agreement on root canal treatment radiograph ratings is poor to moderate, with ICC ranging from 0.36 to 0.45 across five rubric criteria](ai-expert-icc-poor-moderate-endodontic.md) — related

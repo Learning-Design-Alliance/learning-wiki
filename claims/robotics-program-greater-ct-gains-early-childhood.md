@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2019
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: muñoz-repiso-and-caballero-gonzález-2019
     resource: "https://doi.org/10.3916/C59-2019-06"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i3` large
-> **Currency** · newest study 2019 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a non-randomised comparison with initially non-equivalent groups, learning gains (post-test minus pre-test) were significantly higher in the experimental group than the control group for every dimension and the total score (asymptotic significance less than .01). [→ Muñoz-Repiso and Caballero-González 2019](#munoz-repiso-and-caballero-gonzalez-2019)

@@ -51,3 +51,4 @@ Complete-case (unimputed) sensitivity analysis on the much smaller subsets with 
 - [Non-genetic models show small negative associations between parents' years of education and children's depressive traits, which attenuate once confounders are accounted for](non-genetic-associations-parental-education-depression-attenuate.md) — related
 - [Children's own polygenic index for educational attainment is negatively associated with their ADHD traits at age 8, independent of parental PGIs](child-education-pgi-lower-adhd-traits.md) — related
 - [Families of children with ADHD or autism report lower closeness, higher conflict, and lower parental educational attainment than other families](ndd-families-lower-closeness-higher-conflict.md) — related
+- [Mothers' and fathers' education polygenic scores are unexpectedly negatively associated with maternal positive and literacy-focused parenting](parent-pgsedu-negative-parenting-association.md) — related

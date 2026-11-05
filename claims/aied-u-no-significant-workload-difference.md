@@ -61,3 +61,4 @@ Teachers' perceived workload was measured with the raw NASA-TLX (0–10 per subs
 - [No significant difference in cognitive workload between novices and experienced participants across NASA-TLX domains](no-nasa-tlx-difference-novice-experienced.md) — related
 - [Global cognitive load (NASA TLX) change did not differ between training groups](nasa-tlx-global-change-no-group-difference.md) — related
 - [Perceived cognitive load did not differ between facilitator-guided and self-guided debriefing groups](no-cognitive-load-difference-debriefing.md) — related
+- [Cognitive load did not differ significantly between the C, SML, and SML+AI groups, though the SML+AI group's load decreased descriptively](chatgpt-virtual-manipulatives-cognitive-load-no-group-difference.md) — related

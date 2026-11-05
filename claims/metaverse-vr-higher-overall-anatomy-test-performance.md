@@ -55,3 +55,4 @@ Nonrandomized curriculum-embedded comparison of intact cohorts: fourth-year Zoom
 - [Students report greater satisfaction with VR-based anatomy learning than with conventional or 2D methods](vr-anatomy-satisfaction-advantage.md) — related
 - [VR-based acupuncture training was associated with higher theoretical knowledge posttest scores than conventional instruction](vr-acupuncture-higher-theoretical-knowledge.md) — related
 - [Prior meta-analytic evidence indicates 3D visualization technology yields superior anatomical knowledge and satisfaction compared to 2D materials](3dvt-meta-analysis-superior-knowledge-satisfaction.md) — a broader claim this one bears on
+- [Perceived usefulness of VR correlated with perceived knowledge impact, with the strongest association between immersion and understanding (R = 0.73)](vr-perception-correlations-immersion-understanding.md) — related

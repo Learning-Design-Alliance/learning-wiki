@@ -56,3 +56,6 @@ In the initial regression (N = 181), all LSNS subscales (family, neighbours, fri
 - [Associations between psychosocial factors and academic performance are heterogeneous, with 13 of 45 studies reporting null or weak findings](heterogeneous-associations-null-findings-medical-students.md) — a broader claim this one bears on
 - [Stress, anxiety, and depressive symptoms show predominantly negative associations with academic performance in medical students](stress-anxiety-depression-negative-association-medical-students.md) — reports the opposite
 - [Trait anxiety, GAD symptoms, social anxiety and anxiety sensitivity do not predict any school grades after controlling for other predictors](four-anxiety-measures-predict-no-grades.md) — related
+- [Anxiety severity (GAD-7) is not statistically significantly associated with GPA category among Saudi physical therapy students](gad7-not-associated-gpa-saudi-pt-students.md) — related
+- [Physical activity, anxiety, and depression scores are not independent predictors of GPA category after demographic adjustment](pars3-gad7-phq9-not-independent-gpa-predictors.md) — related
+- [Depressive symptom severity (PHQ-9) is not statistically significantly associated with GPA category among Saudi physical therapy students](phq9-not-associated-gpa-saudi-pt-students.md) — related

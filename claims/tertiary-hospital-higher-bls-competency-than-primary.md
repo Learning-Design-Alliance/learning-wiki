@@ -75,3 +75,5 @@ Multivariable linear regression for total BLS knowledge score. The article repor
 - [Hospital grade, job position, work experience, and teaching experience distinguish core competence levels](demographic-factors-core-competence-nurses.md) — related
 - [Research participation is significantly positively associated with job competency among public health students after propensity score matching](research-participation-associated-with-job-competency-public-health-students.md) — related
 - [Nurses' working experience is associated with AI competence; other demographics show no significant association](working-experience-associated-with-aic-nurses.md) — related
+- [BLS trainees working in tertiary facilities were 80% less likely than those in primary facilities to have adequate BLS knowledge and skills](tertiary-facility-lower-adequate-bls-odds.md) — reports the opposite
+- [Health care professionals from the Volta and Oti regions were 4.94 times more likely than those from Bono East to have adequate BLS knowledge and skills](volta-oti-higher-bls-odds-than-bono-east.md) — reports the opposite

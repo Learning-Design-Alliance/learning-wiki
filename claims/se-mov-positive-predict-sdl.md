@@ -63,3 +63,4 @@ Same PLS-SEM path analysis (Table 6). MOV was the strongest direct predictor of 
 - [The structural model explains 75.3% of the variance in self-directed learning, but measurement invariance across gender was only partial](sdl-variance-explained-partial-invariance.md) — related
 - [Self-efficacy and motivation positively predict self-directed learning, with motivation the strongest predictor](se-mov-positive-predict-sdl-henan-sem.md) — possibly the same claim (merge candidate)
 - [Thoughtless use of generative AI exerts a significant direct negative effect on undergraduates’ self-directed learning](tuga-negative-direct-effect-sdl-henan-sem.md) — related
+- [Self-efficacy, resilience, optimism, and responsibility each positively predict student engagement among Chinese undergraduates](psycap-dimensions-positive-predictors-engagement-chinese-undergraduates.md) — related

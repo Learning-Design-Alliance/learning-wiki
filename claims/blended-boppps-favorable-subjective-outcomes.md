@@ -72,3 +72,4 @@ Meta-analysis pooling questionnaire surveys from 16 studies (2169 students) for 
 - [Students in the CBL-FC group report high learning interest, positive experience, and overall satisfaction](cbl-fc-high-satisfaction-learning-experience.md) — related
 - [Students attributed improvements in self-directed learning and communication skills to blended teaching](blended-self-reported-autonomous-learning-gains.md) — related
 - [First-year medical students reacted positively to the e-modules and preferred them as a supplement to, not a replacement for, traditional teaching](students-prefer-e-modules-as-supplement.md) — related
+- [Students in the WeChat-based PBL group reported more favorable perceptions of motivation, knowledge acquisition, communication, self-learning, clinical thinking, and problem-solving than traditional-teaching students](wechat-pbl-student-perceptions-favorable.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-10-25
+source_checked: 2026-11-05
 sources:
   - id: spencer-mercedes-2022
     resource: "https://doi.org/10.1037/edu0000670"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
-> **Currency** · newest study 2022 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Early listening comprehension was directly associated with later WPS (0.167) and reading (0.103), not calculations, and intermediary NC did not mediate this relation; the associations cannot show cause. [→ Spencer Mercedes 2022](#spencer-mercedes-2022)

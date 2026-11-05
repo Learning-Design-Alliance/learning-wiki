@@ -59,3 +59,4 @@ Meta-analysis of 25 studies reporting GPT-3.5 accuracy and 29 reporting GPT-4 ac
 - [ChatGPT-3.5 performed significantly worse on Arabic-language medical questions (43.9%) than its pooled published accuracy on English-language medical questions (60.7%)](chatgpt-arabic-lower-than-english-medical-accuracy.md) — related
 - [LLMs solve single-response medical multiple-choice questions significantly better than multiple-response questions](single-response-mcq-solved-better-than-multiple.md) — related
 - [LLMs answer diagnosis questions significantly better than treatment questions in medical multiple-choice items](treatment-questions-solved-worse-than-diagnosis.md) — related
+- [Students rated OSCEai's ease of use at 4.73 and medical content quality at 4.70 out of 5](osceai-usability-content-ratings.md) — related

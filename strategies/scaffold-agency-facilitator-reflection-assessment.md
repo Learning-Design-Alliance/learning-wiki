@@ -54,7 +54,8 @@ Based on the study's findings, the authors recommend multi-level strategies to e
 - [Undergraduate dental students perceive that the time-bound weekly PBL cycle compels short-term goal setting and planning, though workload makes self-regulation challenging for some](../claims/pbl-weekly-cycle-goal-setting-self-regulation-variability.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Implementation recommendations for WeChat-based PBL: small teams, 1-week advance materials, active facilitation, and workload refinements](wechat-pbl-implementation-recommendations.md)
 
 ## Examples
 -

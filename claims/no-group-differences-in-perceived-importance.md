@@ -70,3 +70,4 @@ Near-threshold Kruskal–Wallis result for postural drainage importance in the s
 - [Self-assessed competence in postural drainage and manual chest techniques differs significantly by group, with large effects favouring experienced physiotherapists over early-year students](competence-gaps-postural-drainage-manual-techniques.md) — related
 - [No significant group differences in self-assessed competence for basic techniques (strength/endurance training and breathing exercises)](null-group-differences-basic-technique-competence.md) — related
 - [Experienced physiotherapists (≥6 years) rate their pulmonary rehabilitation experience significantly higher than second-year students](experienced-clinicians-higher-experience-ratings-than-students.md) — related
+- [Perceived importance of the EPAs did not differ significantly across universities (p = 1)](no-university-difference-epa-importance.md) — related

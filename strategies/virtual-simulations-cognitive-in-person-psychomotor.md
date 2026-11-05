@@ -56,6 +56,7 @@ The review's concluding recommendation for a balanced instructional approach: "t
 - [Blend digital resources with traditional teaching to create a blended learning approach](blended-digital-traditional-pathology-teaching.md)
 - [Expand simulation-based and laboratory training before and alongside clinical practice](expand-simulation-laboratory-training-nursing.md)
 - [Use an echocardiography training simulator for initial skill acquisition before scanning real patients](strategy-simulator-first-echo-training.md)
+- [Use computer-aided simulations in nursing skills laboratories and support practical training with simulation](support-nursing-practical-training-with-simulation.md)
 
 ## Examples
 -

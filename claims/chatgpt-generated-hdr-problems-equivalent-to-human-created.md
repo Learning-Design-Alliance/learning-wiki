@@ -69,3 +69,4 @@ Experiment 1 score-distribution analysis: mean scores and 95% confidence interva
 - [HDR scores correlate only weakly with reading comprehension (α = 0.36 and 0.41), indicating the task measures practical application ability rather than reading skill](hdr-measures-application-not-reading-comprehension.md) — related
 - Both proposed adjustment methods (IEA and BA) reduce RMSE of item difficulty estimates from direct 2PL-IRT fitting, with BA yielding more consistent (lower-variance) estimates in simulation — related
 - [Students did not consistently detect scientific errors in ChatGPT responses, and students with stronger prior knowledge evaluated AI responses more critically](prior-knowledge-supports-critical-ai-evaluation.md) — related
+- [Instructor-developed items showed higher person reliability than ChatGPT items](instructor-items-higher-person-reliability.md) — related

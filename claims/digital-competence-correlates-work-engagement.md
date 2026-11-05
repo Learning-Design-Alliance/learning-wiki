@@ -9,7 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2023
-source_checked: 2026-10-28
+source_checked: 2026-11-05
 sources:
   - id: sarah-k-howard-2023
     resource: "https://doi.org/10.1007/s11423-023-10211-6"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
-> **Currency** · newest study 2023 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Higher education teachers' digital competence positively and significantly correlated with their work engagement and their effort expectancy in a structural equation modeling study at a Chinese normal university. [→ Sarah K. Howard 2023](#sarah-k-howard-2023)

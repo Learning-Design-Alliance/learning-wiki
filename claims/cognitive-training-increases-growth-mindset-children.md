@@ -9,7 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-10-26
+source_checked: 2026-11-05
 sources:
   - id: lang-chen-2022
     resource: "https://doi.org/10.1038/s41539-022-00146-7"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium
-> **Currency** · newest study 2022 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Children who received four weeks of cognitive training showed greater increases in growth mindset than a no-contact control group (post-training between-group d = 0.508). [→ Lang Chen 2022](#lang-chen-2022)

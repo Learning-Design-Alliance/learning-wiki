@@ -52,3 +52,4 @@ Pearson correlation analysis between MRT-A scores (mean 12.35 ± 3.69) and illus
 - [Visuospatial ability (MRT-A) was not significantly associated with perceived usability (SUS) of the HoloLens 2](mrt-a-not-associated-sus-score.md) — related
 - [In a crossover drawing study, illustrations produced while referencing a 2D cadaveric image or a prosection scored higher than those created using a VR model](vr-reference-lower-illustration-scores.md) — related
 - [Participants depicted the depth of anatomical structures better when drawing using prosection compared with VR, and layout better with a 2D image than VR](vr-reduced-depth-depiction.md) — related
+- [Visuospatial ability was weakly and negligibly associated with bellringer and VR question success, and unrelated to cybersickness](mrt-negligible-association-br-success.md) — related

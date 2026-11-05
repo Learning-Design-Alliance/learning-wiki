@@ -58,3 +58,5 @@ Observational pilot study of the Class of 2016 (n=31): one-tailed t-tests compar
 - [AI-driven teaching paradigm improves diagnostic performance in medical imaging education](ai-paradigm-improves-diagnostic-performance.md) — related
 - [The checklist-guided session also improved diagnosis scores, though with a smaller margin than interpretation](checklist-session-improves-cxr-diagnosis.md) — related
 - [Big Five personality traits show no significant association with dental students' radiographic diagnostic accuracy](personality-traits-no-effect-radiographic-accuracy.md) — related
+- [E-learning modules improved dental students' identification of radiographic anatomical landmarks and positioning errors on DPRs](landmark-and-error-identification-improvement.md) — related
+- [Dental students' pathology diagnosis on DPRs rose from pre-test to post-test after e-learning modules in one uncontrolled pre-post study, though complex odontoma remained challenging for some](pathology-diagnosis-improvement-dpr.md) — related

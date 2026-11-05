@@ -228,3 +228,4 @@ Open questions include how the effect interacts with learner control over pacing
 - [Text-graphic composite modality yields the highest knowledge acquisition efficiency despite moderate cognitive load](text-graphic-composite-optimal-learning-efficiency.md) — related
 - [The modality effect: complex visual displays are better understood when explanatory words are presented auditorily rather than visually](modality-effect-audiovisual-superiority.md) — a narrower finding that bears on this claim
 - [Redundancy effect: auditory content redundant to visual material deteriorates learning performance, especially with high complexity](redundancy-effect-two-modalities.md) — related
+- [Network analysis showed the strongest correlation among preparatory resources was between auditory and dynamic visual information (r=0.74)](auditory-dynamic-visual-strongest-resource-correlation.md) — related

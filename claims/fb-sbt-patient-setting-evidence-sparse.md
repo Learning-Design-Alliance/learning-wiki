@@ -48,3 +48,4 @@ Review synthesis of the four included studies measuring Kirkpatrick level 3 beha
 - [The highest-quality FB SBT studies with the most relevant outcomes shared curriculum integration and a gradual increase in task difficulty](curriculum-integration-task-difficulty-highest-quality.md) — related
 - [Flexible bronchoscopy simulation-based training improves novice trainees' skills when evaluated in a simulation setting](fb-sbt-effective-simulation-setting.md) — related
 - [Evidence on transfer to clinical behavior and patient outcomes is scarce: only 2 studies reached Kirkpatrick level 3 and 1 reached level 4](transfer-and-patient-outcomes-scarce.md) — related
+- [A 40-minute AI-guided simulation-based training intervention did not significantly improve clinical bronchoscopy performance in intermediate and experienced bronchoscopists](ai-simulation-training-no-clinical-bronchoscopy-gain.md) — related

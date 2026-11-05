@@ -56,3 +56,4 @@ Bootstrapped path coefficient from the PLS-SEM structural model (Table 6). The S
 - [The TUGA, motivation, and self-efficacy jointly explain 75.3% of the variance in undergraduates’ self-directed learning](model-explains-75-percent-sdl-variance.md) — related
 - [The structural model explains 75.3% of the variance in self-directed learning, but measurement invariance across gender was only partial](sdl-variance-explained-partial-invariance.md) — related
 - [Self-efficacy and motivation positively predict self-directed learning, with motivation the strongest predictor](se-mov-positive-predict-sdl-henan-sem.md) — a broader claim this one bears on
+- [Self-efficacy, resilience, optimism, and responsibility each positively predict student engagement among Chinese undergraduates](psycap-dimensions-positive-predictors-engagement-chinese-undergraduates.md) — related

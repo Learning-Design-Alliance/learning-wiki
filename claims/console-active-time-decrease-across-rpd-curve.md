@@ -52,3 +52,4 @@ Per-protocol Full-Case telemetry comparison across the 60-case phase split in th
 - [A PD-ROBOSCORE-adjusted RA-CUSUM of idle time identifies a proficiency inflection around case 60 in the RPD learning curve](ra-cusum-idle-time-proficiency-inflection-case-60.md) — related
 - [Resection-phase telemetry shows time to complete mesopancreas dissection shortens materially across the RPD learning curve](mesopancreas-dissection-time-shortens-landmark-r.md) — related
 - [No significant differences in learning progression between individual console surgeons](no-surgeon-level-learning-progression-differences.md) — related
+- [OPI-derived learning curves stabilize within the first 10 months of a surgeon's experience despite increasing case complexity](opi-learning-curve-stabilizes-ten-months.md) — related

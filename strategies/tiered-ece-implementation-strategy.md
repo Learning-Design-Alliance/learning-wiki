@@ -98,6 +98,10 @@ The authors recommend a sequenced implementation model: "It is recommended to ac
 - [Blend simulation with traditional apprenticeship under a competency-based milestone framework for PTED training](blended-competency-based-pted-training-pathway.md)
 - [Schedule virtual simulation training before the flipped classroom course rather than after it](oscrs-training-before-class-strategy.md)
 - [Use immersive VR virtual patient scenarios to give pre-clinical and multicultural students safe, repeatable clinical communication practice](vr-safe-practice-preclinical-multilingual-strategy.md)
+- [Reform TDI residency training with blended learning, simulation-based training, and competency-based assessment](blended-simulation-competency-tdi-training-reform.md)
+- [Integrate occupational adaptive learning with simulation training, case studies, and interdisciplinary collaboration to strengthen clinical pharmacist preparation](integrate-adaptive-learning-with-simulation-case-studies.md)
+- [In resource-limited settings, begin simulation training with standardized patients and part-task simulators, progressing to high-fidelity simulation centers as funding becomes available](staged-sbme-implementation-low-resource.md)
+- [Three-stage instructional sequence: theoretical instruction, virtual simulation training, then phantom-head practice](three-stage-vs-irrigation-instructional-framework.md)
 
 ## Examples
 -

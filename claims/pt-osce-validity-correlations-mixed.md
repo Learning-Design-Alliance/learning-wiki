@@ -94,3 +94,4 @@ Single cross-sectional simulation study (Silva et al. 2011) comparing a six-stat
 - [A significant positive correlation exists between OSCE performance and self-reported knowledge and skill levels](osce-correlates-self-reported-competence.md) — related
 - [Simulator assessment scores correlate strongly and positively with real-patient assessment scores, supporting simulators as competency assessment alternatives](simulator-assessment-scores-correlate-with-real-patient-performance.md) — related
 - [Student performance with virtual patients correlates only weakly and non-significantly with performance with human standardized patients](vp-concurrent-validity-weak-correlation.md) — related
+- [Structured PGY interview scores are not significantly associated with national OSCE performance](structured-pgy-interview-not-associated-osce.md) — related

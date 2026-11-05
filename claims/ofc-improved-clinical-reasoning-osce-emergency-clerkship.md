@@ -50,3 +50,4 @@ Quasi-experimental single-group pre-test–post-test study of 45 medical student
 - [Active learning and team-based learning interventions have not consistently improved shelf exam scores](active-learning-no-consistent-shelf-improvement.md) — related
 - [Flipped classroom residents report higher perceived teaching effectiveness in clinical skills, learning interest, self-learning, problem-solving, and team collaboration, but not theoretical knowledge](fc-higher-perceived-effectiveness-domains.md) — related
 - [Total self-reported ICCAS scores rose significantly from pre-test to post-test after the simulation intervention in one uncontrolled pre-post study](sbl-total-iccas-significant-increase.md) — related
+- [Correct identification of practice owners as responsible for paying for reasonable accommodations more than doubled after the clerkship](accommodation-payer-knowledge-doubled.md) — related

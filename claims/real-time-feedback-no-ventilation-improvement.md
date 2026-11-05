@@ -54,3 +54,4 @@ In the randomized study's 30:2 test, ventilation target compliance was 0% in bot
 - [Most ventilation adjustments occurred when RFM feedback was visible, suggesting real-time feedback prompted corrective action](ventilation-adjustments-occur-under-visible-rfm-feedback.md) — related
 - [In hidden-first participants ventilating a term manikin, visible RFM feedback significantly increased mean expired tidal volume](visible-rfm-feedback-increases-mean-vte-term-manikin.md) — reports the opposite
 - [The proportion of successful attempts on key PBLS actions rose significantly from pre-test to post-test after training, in one uncontrolled pre-post study](simulation-pbls-increases-successful-attempts.md) — reports the opposite
+- [Compression-to-ventilation ratio is the only core CPR indicator with no significant theory–practice difference](cpr-ventilation-ratio-no-theory-practice-gap.md) — related

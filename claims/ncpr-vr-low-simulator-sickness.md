@@ -56,3 +56,4 @@ Safety outcome from the feasibility study (n = 32), with SSQ administered before
 - [Participants rated NCPR-VR highly useful and were willing to recommend it (median 5 of 5 on both)](ncpr-vr-usefulness-recommend-medians.md) — related
 - [Approximately one quarter of XR-group participants reported cybersickness complaints](xr-cybersickness-complaints.md) — related
 - [Remote AR headset use imposes minimal reported ergonomic burden and no adverse events in neonatal resuscitation simulation](remote-ar-simulation-ergonomics-adverse-events.md) — related
+- [Cybersickness during short VR bellringer testing was minimal and unrelated to VR or total exam performance](cybersickness-minimal-unrelated-br-performance.md) — related

@@ -55,3 +55,4 @@ Educators' reflective commentary on two editions of the course Planetary Health 
 - [The planetary health impact of prescribing emerged as a new learning outcome for clinical pharmacology and therapeutics education](planetary-health-new-cpt-learning-outcome.md) — related
 - [Preparing for and developing interprofessional clinical practice requires engaging all stakeholders, collaboration with managers and education providers, and solving administrative and logistical constraints](preparing-developing-interprofessional-practice-competencies.md) — related
 - [Flexibility and access are an initial characterization of Open Teaching](open-teaching-flexibility-and-access.md) — related
+- [Digital flexibility and hybrid teaching environments are identified as necessary to meet allied health students' varied learning needs and circumstances](digital-flexibility-inclusive-nbsp-learning-environments.md) — related

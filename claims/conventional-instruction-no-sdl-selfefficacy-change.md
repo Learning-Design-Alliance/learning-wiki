@@ -48,3 +48,4 @@ Within-group repeated measures ANOVA in the control group (n = 20), which receiv
 - [Self-reported SRL questionnaire scores rose over a five-week goal-setting intervention in all conditions, with no differences between conditions](srl-skills-increase-all-conditions.md) — related
 - [Game-based learning in a mental health nursing internship significantly improves nursing students' academic self-efficacy, with large within-group effects sustained at one-month follow-up](gbl-improves-academic-self-efficacy-nursing.md) — related
 - [Game-based learning in a mental health nursing internship significantly improves nursing students' self-directed learning, with large within-group effects sustained at one-month follow-up](gbl-improves-self-directed-learning-nursing.md) — related
+- [Academic self-efficacy positively predicts clinical performance in nursing internship students](ase-positive-prediction-clinical-performance.md) — related

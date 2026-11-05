@@ -697,6 +697,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Use weekly scenario simulation with structured debriefing and operational skills training to develop new graduate nurses' competence](../strategies/weekly-scenario-simulation-debriefing-skills-training-strategy.md)
 - [Combine VR task-training for operators with simulation team-training for the whole acute stroke team](../strategies/combine-vr-task-training-with-stroke-team-simulation.md)
 - [Introduce virtual simulation systems in Periodontics to support integration of theoretical and practical skills](../strategies/virtual-simulation-systems-perio-skills-integration.md)
+- [Integrate immersive VR simulation as a complementary tool in continuing emergency training programs for low-frequency, high-complexity scenarios](../strategies/vr-complementary-continuing-emergency-training-strategy.md)
 
 ## Key Sources
 - Akcayir, M., & Akcayir, G. (2017). Advantages and challenges associated with augmented reality for education: A systematic review of the literature. *Educational Research Review, 20*, 1-11. [https://doi.org/10.1016/j.edurev.2016.11.002](https://doi.org/10.1016/j.edurev.2016.11.002)

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: muhammad-irfan-arif-and-munawar-s-mirza-2017
     resource: "https://eric.ed.gov/?id=EJ1210192"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Non-resilient at-risk students receiving the intervention training performed better on overall resilience than those not receiving it. [→ Muhammad Irfan Arif and Munawar S. Mirza 2017](#muhammad-irfan-arif-and-munawar-s-mirza-2017)

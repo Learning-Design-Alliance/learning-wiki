@@ -53,3 +53,4 @@ Across three skill retention assessments (n=20, 16, 23), correct performance rem
 - [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — related
 - [A BLS practical examination does not confer a significant advantage in overall skill retention over additional practice with continuous assessment among fifth-year medical students](bls-practical-exam-no-advantage-over-additional-practice.md) — related
 - [Total BLS skill retention scores remain stable across two weeks, two months and one year after training](total-bls-scores-stable-across-retention-intervals.md) — related
+- [Emergency healthcare providers show a significant theory–practice gap in chest compression depth, with 97.95% theoretical knowledge but only 42.66% practical success](cpr-compression-depth-theory-practice-gap.md) — related

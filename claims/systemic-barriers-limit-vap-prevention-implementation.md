@@ -48,3 +48,4 @@ Thematic analysis of semi-structured interviews with eight purposively selected 
 - [A brief structured VAP prevention workshop significantly improved ICU nurses' knowledge scores in a resource-limited setting (group-level improvement)](structured-workshop-improved-icu-nurse-vap-knowledge.md) — related
 - [Common barriers to pressure injury prevention include staff shortages, high workload, limited resources, and insufficient institutional support.](systemic-barriers-pi-prevention.md) — a broader claim this one bears on
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
+- [Managers identified challenges limiting peer learning, including weak teamwork culture, absent management development strategies, and restricted structured interactions](peer-learning-challenges-iranian-hospital-managers.md) — related

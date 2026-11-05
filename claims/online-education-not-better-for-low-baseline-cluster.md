@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: goudarzi-houman-2026
     resource: "https://doi.org/10.1186/s12909-026-08737-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Cluster 2, in which about 80% of students had online/combined education and which had the lowest baseline entrance exam, general English skills, and medical terminology, showed the second lowest academic performance (76.8 ± 1.2). [→ Goudarzi Houman 2026](#goudarzi-houman-2026)

@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 168 claims (129 show a difference, 17 mixed, 22 no difference) · 133 studies (79 causal, 16 review, 11 quant-synthesis, 10 associational, 6 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 31 of 133 report an effect size · 165 claims rest on one study
+> **Evidence** · 172 claims (133 show a difference, 17 mixed, 22 no difference) · 136 studies (80 causal, 16 review, 11 quant-synthesis, 11 associational, 7 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 31 of 136 report an effect size · 169 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -206,6 +206,10 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Understanding (problem-oriented) teaching outperformed traditional teaching on problem solving and emotional expression](../claims/understanding-teaching-problem-solving-emotional-expression.md) [+M] — measured as an outcome of the instruction studied
 - [Tutoring developed tutors' problem-solving, critical thinking, communication and patience skills and shaped career aspirations toward education roles](../claims/tutor-skill-development-peer-tutoring-nursing.md) [+M] — measured as an outcome of the instruction studied
 - [In a pilot VR virtual patient course, medical students’ self-reported communication confidence rose from 3.0 to 4.5 and decision-making confidence from 2.9 to 3.8 on matched pre-post questionnaires](../claims/vr-pilot-communication-decision-confidence-gains.md) [+M] — measured as an outcome of the instruction studied
+- [ATLS simulation training produces a significantly greater improvement in clinical decision-making scores over time than no training (significant time × group interaction).](../claims/atls-simulation-improves-trauma-decision-making-nursing-students.md) [+M] — measured as an outcome of the instruction studied
+- [Experts respond faster than novices on clinical decision-making cases](../claims/experts-faster-response-times-clinical-cases.md) [+M] — learners who differ on it differ in outcomes
+- [Hospital managers report that peer learning improved decision-making, managerial performance, inter-organizational interactions, and continuous updating of specialized knowledge](../claims/peer-learning-improves-hospital-manager-competencies.md) [+M] — measured as an outcome of the instruction studied
+- [Paired pre-post comparison of the whole sample showed a statistically significant increase in clinical decision-making scores (P < 0.001).](../claims/atls-prepost-paired-t-significant-increase-overall.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

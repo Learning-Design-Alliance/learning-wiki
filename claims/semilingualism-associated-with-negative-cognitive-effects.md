@@ -9,6 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: weak
 newest_evidence: 1979
+source_checked: 2026-11-05
 sources:
   - id: cummins-1979
     resource: "https://doi.org/10.3102/00346543049002222"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
-> **Currency** · newest study 1979 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1979 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Evidence is cited that some minority-language and migrant children show semilingualism, with detrimental cognitive and academic consequences. [→ Cummins 1979](#cummins-1979)

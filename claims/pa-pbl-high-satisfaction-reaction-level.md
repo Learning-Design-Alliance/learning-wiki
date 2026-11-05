@@ -49,3 +49,4 @@ Post-session on-site questionnaires (51 items, four domains) from the experiment
 - [Certified preceptors reported high satisfaction with the certification system, with every questionnaire item scoring above 4.7 on a 5-point scale (Cronbach's α = 0.936)](preceptor-certification-satisfaction-above-4-7.md) — related
 - [PA-PBL and control students reported comparable course satisfaction and self-evaluated competencies](pa-pbl-control-comparable-subjective-evaluations.md) — related
 - [Peer tutors and non-tutor participants in PA-PBL showed no statistically significant difference in examination performance](pa-pbl-tutor-nontutor-no-difference.md) — related
+- [Students rated the virtual simulation system highly across learning effectiveness, usability, instructional value, and satisfaction (means above 4.2/5; Cronbach's α > 0.80)](vs-irrigation-questionnaire-high-acceptability.md) — related

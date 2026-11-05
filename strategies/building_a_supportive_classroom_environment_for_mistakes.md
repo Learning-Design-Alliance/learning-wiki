@@ -67,6 +67,7 @@ Error is one of the most information-rich events in learning, but only when it i
 - [Design assessment as information, not reward and punishment, and provide an engaging curriculum with choice and community](assessment-as-information-not-reward.md)
 - [Use the system's student data analysis to let teachers monitor class progress and mistakes at scale](teacher-monitors-class-progress-via-its-data.md)
 - [Teacher practices for building confidence and eliminating intimidation in P.E.](sbsm-teacher-confidence-practices.md)
+- [Normalize failure and integrate post-traumatic growth through faculty disclosure of mistakes and structured reflection](failing-forward-ptg-reflection-strategy.md)
 
 ## Examples
 - **"Mistake of the Week" bulletin board** — an anonymized student error is posted; the class discusses what the reasoning reveals and how to fix it, positioning the error as instructive rather than shameful.

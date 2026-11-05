@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2021
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: kızkapan-2021
     resource: "https://doi.org/10.29333/pr/10949"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2021 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` There was a statistically significant difference between the EETAM group and the comparison group in epistemological belief post-test scores (p=.034). [→ Kızkapan 2021](#kzkapan-2021)

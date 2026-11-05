@@ -50,3 +50,4 @@ Two-way repeated measures ANOVA (within-subject modality, between-subject group)
 - [Participants depicted the depth of anatomical structures better when drawing using prosection compared with VR, and layout better with a 2D image than VR](vr-reduced-depth-depiction.md) — a narrower finding that bears on this claim
 - [Participants rated the VR learning experience positively with minimal cybersickness, yet most did not prefer VR over prosection as a drawing reference](vr-satisfaction-but-not-preferred-reference.md) — related
 - [Desktop VR and still-image presentations produced no significant differences on overall scenic orientation, timed detail recall, or time on learning presentation](desktop-vr-still-image-no-significant-main-effects-core-measures.md) — related
+- [Students strongly preferred physical specimens over VR and 2D, but modality preference did not affect exam performance](modality-preference-no-performance-effect.md) — related

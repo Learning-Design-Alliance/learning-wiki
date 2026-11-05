@@ -52,6 +52,7 @@ The article recommends using a 3D printing technique to create lifelike simulati
 - [Build low-cost 3D anatomy models using open-source files, Blender, and Sketchfab to maximize accessibility](open-source-blender-sketchfab-3d-model-strategy.md)
 - [Establish 3D printing teaching platforms in hospitals and universities to enhance interns' professional value recognition and internship teaching quality](establish-3d-printing-teaching-platforms-strategy.md)
 - [Use a one-day multimodal simulation workshop combining lectures, manikins, virtual simulation and a 3D-printed model to train basic bronchoscopy to multidisciplinary teams](one-day-multimodal-bronchoscopy-workshop-strategy.md)
+- [Extend the low-cost homemade simulator principle to other basic, highly structuralized, standardized surgical procedures](extend-homemade-simulator-principle-other-procedures.md)
 
 ## Examples
 -

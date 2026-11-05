@@ -66,3 +66,4 @@ Inverse-probability-weighted logistic regression of conversion on baseline covar
 ## Related Claims
 - [After completing the LEARNBOT training program, 40 previously RPD-inexperienced surgeons across 20 European centers performed 486 RPDs with outcomes comparable to established benchmarks](learnbot-feasibility-outcomes-486-rpd.md) — related
 - [Soft or normal pancreatic texture significantly increased the risk of conversion to open surgery, while larger pancreatic duct diameter reduced it](learnbot-conversion-risk-factors.md) — related
+- [OPI-derived learning curves stabilize within the first 10 months of a surgeon's experience despite increasing case complexity](opi-learning-curve-stabilizes-ten-months.md) — related

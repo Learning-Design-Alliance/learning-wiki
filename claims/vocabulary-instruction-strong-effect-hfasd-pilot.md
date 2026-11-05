@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: roux-et-al-2015
     resource: "https://eric.ed.gov/?id=EJ1057963"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Intervention students made greater progress on knowledge of definitions than control students, with a very strong effect size. [→ Roux et al. 2015](#roux-et-al-2015)

@@ -70,3 +70,4 @@ Multiple regression analysis of GM-ITE scores by program requirement, adjusted f
 - [Scholarly activity without clinical research is associated with a small adjusted difference in ACE tool EBM competency scores among Japanese PGY1-2 residents](scholarly-activity-small-ace-ebm-difference-pgy1-2.md) — related
 - [Mini-Z well-being measures show minimal differences across scholarly activity groups among Japanese PGY1-2 residents](mini-z-wellbeing-minimal-differences.md) — related
 - [Required scholarly activity shows a small adjusted ACE tool score difference and higher odds of future academic interest compared to no scholarly activity](required-scholarly-activity-ace-and-interest.md) — related
+- [Receiving teaching during the physical examination stage is associated with lower GM-ITE clinical scores among residents](physical-examination-teaching-lower-gm-ite-scores.md) — related

@@ -70,3 +70,4 @@ Summary statistics in Table 2.2 for both samples: mean absolute distances of out
 - [New and old fit statistics are moderately correlated, with Pearson coefficients mostly between 0.50 and 0.79](new-old-fit-statistics-moderately-correlated.md) — related
 - [Mathematics items showed more variation in fit statistics than Reading items, and outfit statistics varied more than infit statistics](math-outfit-more-variable-than-reading-infit.md) — related
 - [Item fit findings were the same regardless of whether the AllYr or LatestYr response sample was used](map-k2-fit-findings-sample-invariant.md) — related
+- [ChatGPT items showed more consistent infit and outfit statistics, while human-developed items fluctuated more](chatgpt-items-more-consistent-fit-statistics.md) — related

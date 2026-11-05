@@ -52,3 +52,4 @@ Exploratory comparison of NASA TLX global change scores in the randomized trial 
 - [Serious video game training is statistically non-inferior to mannequin-based simulator training for basic cardiac POCUS hand-eye coordination skills in medical novices](serious-game-noninferior-simulator-cardiac-pocus.md) — related
 - [Perceived cognitive load did not differ between facilitator-guided and self-guided debriefing groups](no-cognitive-load-difference-debriefing.md) — related
 - [Perceived task load on the NASA-TLX is higher for novices than beginners and experienced endoscopists](endonix-nasa-tlx-higher-novices.md) — related
+- [Cognitive load did not differ significantly between the C, SML, and SML+AI groups, though the SML+AI group's load decreased descriptively](chatgpt-virtual-manipulatives-cognitive-load-no-group-difference.md) — related

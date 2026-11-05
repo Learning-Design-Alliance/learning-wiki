@@ -117,3 +117,4 @@ In the Belonging and Collaboration in Practice section, the primer attributes th
 - [Teachers' provision of opportunities to belong predicts Black and Latine students' class engagement and overall school engagement](opportunities-to-belong-predict-engagement.md) — related
 - [Discussion section attendance significantly increases agreement with 10 of 19 sense of belonging items](attendance-predicts-belonging.md) — related
 - [Teaching practices are associated with sense of belonging: higher group work characterizes agreement on most items that differ](group-work-belonging-simplex.md) — related
+- [Among medical students, having role models and the number of role models are positively associated with all three sense of belonging subconstructs, most strongly peer support](role-models-associated-with-sense-of-belonging-medical-students.md) — a narrower finding that bears on this claim

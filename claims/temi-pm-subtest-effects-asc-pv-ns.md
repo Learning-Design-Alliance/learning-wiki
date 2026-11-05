@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2011
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: bryant-2011
     resource: "https://eric.ed.gov/?id=ED577119"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2011 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Adjusted for Type I error, treatment students significantly outperformed comparison students on Addition/Subtraction Combinations (g* = .55), Place Value (g* = .39), and Number Sequences (g* = .47), with no significant difference on Magnitude Comparisons (p = .16; g* = .18). [→ Bryant 2011](#bryant-2011)

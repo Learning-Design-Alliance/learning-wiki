@@ -59,3 +59,4 @@ Qualitative student comment (S1) on how students generally evaluated ChatGPT's a
 - [Educators see AI as having potential to increase capacity for high-quality formative assessment, which is an operational challenge at scale](ai-formative-assessment-capacity-demand.md) — related
 - [Human TAs demonstrated stronger instructor voice, understanding, and helpfulness than AI in responding to student laboratory questions](human-tas-stronger-teaching-effectiveness-than-chatgpt.md) — related
 - [Most students judge written corrective feedback alone insufficient and want accompanying metalinguistic explanation](wcf-alone-insufficient-need-metalinguistic-explanation.md) — related
+- [Students in the SML+AI group viewed the environment as usable and adopted ChatGPT as a study companion, but criticized its medical terminology, inconsistent answers, and the manipulatives' content depth](student-perceptions-ai-virtual-manipulative-anatomy.md) — related

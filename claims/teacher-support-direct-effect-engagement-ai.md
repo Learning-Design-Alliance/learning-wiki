@@ -54,3 +54,4 @@ In the SEM of 758 Chinese university EFL students, the direct path from teacher 
 - [AI literacy directly and positively predicts learning engagement among university students](ai-literacy-predicts-learning-engagement.md) — related
 - [Only mastery-approach and performance-approach goals mediate the relationship between teacher support and engagement in AI-assisted English learning](approach-goals-mediate-support-engagement-ai.md) — related
 - [Perceived social support positively predicts both AI literacy and technological self-efficacy among university faculty](social-support-predicts-ai-literacy-and-self-efficacy-faculty.md) — related
+- [English teacher competence directly and positively predicts student English learning motivation in Chinese higher education](teacher-competence-predicts-english-motivation-china.md) — related

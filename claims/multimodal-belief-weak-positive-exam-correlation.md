@@ -54,3 +54,4 @@ Spearman correlation in the cross-sectional survey among 271 students with prior
 - [Students' preference levels for the four learning modalities were positively correlated, and cluster analysis separated a lower-preference group (135 students) from a higher-preference group (170 students)](learning-preferences-correlated-two-clusters.md) — related
 - [Preferred learning modality shows no significant association with exam scores among medical students](preferred-modality-no-exam-score-association.md) — related
 - [Use of additional online learning material correlated positively with examination scores but not significantly](moodle-material-use-exam-score-nonsignificant-correlation.md) — related
+- [Students strongly preferred physical specimens over VR and 2D, but modality preference did not affect exam performance](modality-preference-no-performance-effect.md) — related

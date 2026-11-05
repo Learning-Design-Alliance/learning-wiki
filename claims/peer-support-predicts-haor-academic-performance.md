@@ -52,3 +52,4 @@ Logistic regression in the same 189-student survey found peer help for study sig
 - [Family income is the strongest positive predictor of good academic performance among Haor secondary students](family-income-strongest-predictor-haor-academic-performance.md) — related
 - [Parental education positively predicts regular attendance while school distance and limited peer help negatively predict it](parental-education-distance-peer-help-predict-attendance.md) — related
 - [Number of teachers is strongly associated with academic performance and absenteeism in Haor schools](teacher-shortage-associated-performance-absenteeism.md) — related
+- [No absenteeism, preschool attendance and higher monthly income each significantly predicted better academic performance in the adjusted model](attendance-preschool-income-predict-academic-performance-ethiopia.md) — related

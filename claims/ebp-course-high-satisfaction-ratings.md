@@ -49,3 +49,4 @@ Course evaluation survey using a researcher-designed five-point Likert scale adm
 - [Students rated content relevance and inter-university comparison most highly in post-intervention satisfaction](cblc-satisfaction-highest-items.md) — related
 - [Satisfaction was lowest for technical aspects and time management items](cblc-satisfaction-lowest-technical-items.md) — related
 - [Across all survey items, learners rated the CME modules highly, with median Likert scores of 4 and means above 4.0 for content quality, clarity, motivation, competence, and perceived educational value](espe-cme-high-likert-satisfaction.md) — related
+- [Trainees reported high satisfaction with the simulation course, rating training-effectiveness items highest, while disagreeing most that simulation can replace training on pregnant women](obstetric-sim-satisfaction-survey.md) — related

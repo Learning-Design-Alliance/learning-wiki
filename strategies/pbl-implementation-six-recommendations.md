@@ -52,6 +52,7 @@ The report's literature review distilled six recommendations for facilitating PB
 - Real Projects Essential Components Pattern
 - [Teachers implementing TEPBLL should describe technological knowledge and learning objectives, match projects to proficiency levels, assign group roles, and provide staged progressive feedback](tepbll-teacher-facilitation-recommendations.md)
 - [Implementation recommendations for adopting project-based learning in higher education classrooms](pobl-classroom-implementation-recommendations.md)
+- [Implementation recommendations for WeChat-based PBL: small teams, 1-week advance materials, active facilitation, and workload refinements](wechat-pbl-implementation-recommendations.md)
 
 ## Examples
 -

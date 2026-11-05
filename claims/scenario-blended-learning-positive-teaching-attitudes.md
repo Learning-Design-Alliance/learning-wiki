@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2010
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: samsa-2010
     resource: "https://dergipark.org.tr/en/pub/tojde"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2010 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Attitude scores of 37 preservice teachers rose significantly from a pretest mean of 80.54 to a posttest mean of 88.27 after the 10-week scenario-based blended Teaching Practices course [t36=-2.55, p<.05]. [→ Samsa 2010](#samsa-2010)

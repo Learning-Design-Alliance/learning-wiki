@@ -51,3 +51,4 @@ Nominal group technique study in which 20 CPT teachers from 15 countries propose
 - [Teachers' proposed prescribing-education resources organize into ten prioritized themes under three overarching themes: learning outcomes, format of teaching, and resource and faculty development](ten-themes-three-overarching-cpt-resource-needs.md) — related
 - [Teach-the-teacher materials on problem-based learning were the top-ranked suggestion in the first nominal group meeting](teach-the-teacher-top-ranked-first-meeting.md) — related
 - [There is no clear consensus among CPT teachers on which prescribing competencies medical students should have when they graduate](no-consensus-cpt-teachers-prescribing-competencies.md) — related
+- [A Nominal Group Technique with nine experts identifies and ranks 19 core learning activities for the innovation model](ngt-identifies-19-innovation-learning-activities.md) — related

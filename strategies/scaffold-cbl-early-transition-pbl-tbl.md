@@ -65,6 +65,9 @@ The authors recommend a "scaffolded integration of these methods": utilizing "Ca
 - [Staged hybrid model: programmed instruction for foundational skills, then case-based scenarios for clinical reasoning](staged-hybrid-programmed-instruction-case-based.md)
 - [Menu of active-learning strategies deployed in case sessions, matched to curricular timing and objective level](active-learning-strategies-menu-pharmacology-cases.md)
 - [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
+- [Reform TDI residency training with blended learning, simulation-based training, and competency-based assessment](blended-simulation-competency-tdi-training-reform.md)
+- [Structured case-based or simulation-based exercises that vary clinical modifiers and require explicit justification of choices](case-based-exercises-varying-clinical-modifiers.md)
+- [Integrate structured reflective sessions into clinical curricula, tailored to students' developmental stage](integrate-structured-reflection-clinical-curricula.md)
 
 ## Examples
 -

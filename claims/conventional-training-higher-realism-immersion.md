@@ -73,3 +73,5 @@ Primary outcome domain C in the within-participants comparison of 20 students; W
 - [Diagnostic accuracy did not differ between the VR and standardized patient units despite lower subjective ratings for VR](diagnostic-accuracy-similar-vr-and-sp-units.md) — related
 - [Standardized patients were rated significantly more believable than virtual patients on behavior, emotion, and overall subscales](sp-higher-believability-than-virtual-patients.md) — related
 - [Perceived realism of virtual patient scenarios and comfort interacting in VR rose substantially from pre to post (realism 2.9 to 4.4; VR comfort 3.0 to 4.6)](vr-pilot-realism-comfort-gains.md) — reports the opposite
+- [Participants rated the immersive VR hypothermia training very positively, with realism 8.87/10 and usefulness scores above 4.7/5](vr-als-training-positive-perception-ratings.md) — related
+- [Perceived usefulness of VR correlated with perceived knowledge impact, with the strongest association between immersion and understanding (R = 0.73)](vr-perception-correlations-immersion-understanding.md) — reports the opposite

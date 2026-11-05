@@ -47,3 +47,4 @@ Fuzzy Delphi Method assessment with 15 experts ranked learners' motivation first
 ## Related Claims
 - [Clearly defined learners' backgrounds is the second most important sub-indicator for blended MOOC implementation](learner-backgrounds-second-priority-bmooc.md) — related
 - [Overall L2 motivation is a significant positive predictor of L2 self-efficacy among Iranian EFL learners](l2-motivation-predicts-self-efficacy.md) — related
+- [Fuzzy Delphi evaluation with 50 respondents yields defuzzification values confirming moderate expert agreement on the model's usability](fdm-evaluation-usability-defuzzification-values.md) — related

@@ -70,3 +70,4 @@ The review's discussion reports that "Eleven studies concluded that 3D printing 
 - [3DPAM pedagogical effectiveness appears best for complex anatomical areas and for students early in their medical studies](3dpam-effectiveness-best-complex-areas-early-students.md) — related
 - [In seven reviewed studies 3DPAMs were not superior to other models on student knowledge tests](3dpam-not-superior-in-seven-studies.md) — related
 - [One hour of learning with a lower-limb 3DPAM showed no significant difference from one hour of dissection on the same area](3dpam-versus-dissection-no-significant-difference.md) — related
+- [A 3D-printed baseboard variant costs $10 USD, is more durable, and could afford more practice repetitions](three-d-printed-baseboard-variant-cost-durability.md) — a narrower finding that bears on this claim

@@ -69,3 +69,4 @@ Random effects meta-analysis of kappa coefficients for intra-rater reliability o
 - [Inter-assessor agreement on OSCE scores is substantial, with a pooled intraclass correlation coefficient of 0.77](pt-osce-icc-assessors-substantial.md) — related
 - [Studies of simulated patient-based CST report positive effects on trainee confidence and communication performance](sp-cst-positive-effects-confidence-performance.md) — related
 - [SP ratings and blinded third-party rater consensus show moderate-to-strong agreement](sp-tp-rater-agreement-moderate-strong.md) — related
+- [Inter-rater reliability was high for both Team OSCE (Kappa 0.80 pre, 0.76 post) and TPOT (ICC 0.94 pre, 0.93 post)](ipstar-interrater-reliability.md) — related

@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/convergent-validity-across-br-modalities.md
+---
+
+# Revision history: [claims/convergent-validity-across-br-modalities](../claims/convergent-validity-across-br-modalities.md)
+
+### 2026-11-05 · ingest · process:wiki-ingest
+Ingested from pmc-12748052 (A preliminary comparison of bellringer performance across three visual modalities for the assessment of anatomy knowledge.) via eval_harness.py + ingest_extractions.py

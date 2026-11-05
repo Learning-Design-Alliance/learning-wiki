@@ -47,3 +47,4 @@ The review's analysis of the devices used in the included empirical studies foun
 ## Related Claims
 - IVR eye-tracking studies commonly use small samples, adult participants, professional-domain tasks, and default vendor hardware and software configurations — related
 - [Non-immersive devices, especially smartphone/tablet-based AR, dominated VR/AR-supported K-12 STEM studies; immersive AR was rarely used](smartphone-tablet-ar-dominates-k12-stem-devices.md) — related
+- [Systematic review by Barteit et al. found AR and VR head-mounted devices achieved results at least non-inferior to conventional teaching](ar-vr-head-mounted-non-inferior-conventional-teaching.md) — related

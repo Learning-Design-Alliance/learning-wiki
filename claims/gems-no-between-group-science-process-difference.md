@@ -68,3 +68,4 @@ Wilcoxon Signed Rank tests on pre-post SPOF scores: the experimental group's tot
 - [Within the experimental group, achievement rose significantly from pre-test to post-test, while the control group's gain was not statistically significant](within-group-gain-experimental-significant-control-not.md) — related
 - [Both the flipped-learning group and the lecture-based control group showed statistically significant within-group gains from pre-test to post-test](within-group-significant-gains-both-groups.md) — related
 - [Role-play training shows no significant difference between groups in theoretical examination scores](role-play-no-significant-theory-exam-difference.md) — related
+- [Knowledge test scores did not differ significantly overall between DMIS and control groups, but the DMIS group scored significantly higher on Lecture 2](dmis-knowledge-test-lecture2-advantage.md) — related

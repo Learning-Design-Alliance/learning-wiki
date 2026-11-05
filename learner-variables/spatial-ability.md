@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 109 claims (70 show a difference, 23 mixed, 16 no difference) · 68 studies (29 causal, 19 associational, 12 review, 5 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 68 report an effect size · 108 claims rest on one study
+> **Evidence** · 111 claims (71 show a difference, 24 mixed, 16 no difference) · 70 studies (30 causal, 20 associational, 12 review, 5 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 70 report an effect size · 110 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -145,6 +145,8 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [Visuospatial ability (MRT-A) was not significantly associated with competency improvement in this HoloLens tutorial format](../claims/mrt-a-not-associated-competency-gain-hololens.md) [-W] — learners who differ on it differ in outcomes
 - [Visuospatial ability (MRT-A) was not significantly associated with perceived usability (SUS) of the HoloLens 2](../claims/mrt-a-not-associated-sus-score.md) [-W] — learners who differ on it differ in outcomes
 - [Visuospatial ability showed negligible correlation with illustration scores across all three reference modalities](../claims/no-vz-illustration-score-correlation.md) [-W] — learners who differ on it differ in outcomes
+- [Spatial ability partially mediates the relation between SES and STEM achievement](../claims/spatial-ability-partially-mediates-ses-stem-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Visuospatial ability was weakly and negligibly associated with bellringer and VR question success, and unrelated to cybersickness](../claims/mrt-negligible-association-br-success.md) [~M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

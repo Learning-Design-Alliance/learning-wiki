@@ -71,3 +71,4 @@ Results for the five image-based questions (3 electrocardiograms, 2 CT scans), K
 - [LLM accuracy declines steadily as question complexity increases, from roughly 80% on recall questions to 28.6–33.3% on case-analysis questions, mirroring the human trend](llm-accuracy-declines-with-question-complexity.md) — related
 - [On recall-type questions, all four LLMs outperformed both residents and fellows, with ChatGPT-5 highest at 92.59%](llms-outperform-trainees-recall-type-questions.md) — related
 - [All three LLMs exceed the 400/650-point passing threshold on a Chinese anesthesiology SRTP mock exam, with Claude 3.5 Sonnet achieving the highest mean score](llms-pass-chinese-anesthesiology-srtp-exam-claude-highest.md) — related
+- [New-generation LLMs significantly outperform GPT-4o on knowledge-based question types (A1, B1) but not on case-analysis types (A2, A3/A4)](cdle-knowledge-vs-case-analysis-question-types.md) — related

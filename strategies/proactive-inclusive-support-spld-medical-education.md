@@ -49,7 +49,8 @@ The review's implications for the field recommend that medical schools "implemen
 - [Medical students with SpLDs report persistent academic, emotional, and social challenges including reading and writing difficulties, time pressure, anxiety, and isolation](../claims/spld-qualitative-challenges-emotional-burden.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Actively seek co-occurring neurodevelopmental diagnoses and provide early diagnosis with targeted, inclusive academic supports](seek-co-occurring-nd-diagnoses-early-targeted-support.md)
 
 ## Examples
 -

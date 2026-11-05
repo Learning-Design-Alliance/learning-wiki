@@ -73,3 +73,4 @@ Bonferroni tests on the retention test showed all three experimental groups sign
 - [Students taught with the reform-based instructional method retained significantly more mathematics knowledge than those taught with the traditional method](reform-based-method-better-math-retention.md) — a narrower finding that bears on this claim
 - [Jigsaw cooperative learning produced better retention of knowledge after 11 weeks than traditional teaching](jigsaw-better-retention-eleven-weeks.md) — related
 - [Science concept gains from keyword strategy instruction are retained six weeks after instruction ends](keyword-strategy-gains-retained-six-weeks.md) — related
+- [The SML+AI group showed significantly higher 5-month retention of anatomical knowledge than the control and SML groups](chatgpt-virtual-manipulatives-higher-retention.md) — related

@@ -78,3 +78,5 @@ Evaluation of the Vantage collaboration protocol with 188 Prolific-recruited par
 - [Agreement between AI-generated competency scores and human ratings was mixed across studies, with some reporting moderate to strong agreement and others showing score inflation and inconsistent performance](ai-ssp-score-agreement-with-human-ratings-mixed.md) — related
 - [The CALM tool showed only weak inter-rater agreement (weighted Kappa 0.45) in its single ED video-review study](calm-weak-kappa-045-single-study.md) — related
 - [ChatGPT LLM scores showed only moderate agreement with human transcript scores.](llm-moderate-agreement-human-scores.md) — related
+- [ChatGPT-4o and expert agreement on root canal treatment radiograph ratings is poor to moderate, with ICC ranging from 0.36 to 0.45 across five rubric criteria](ai-expert-icc-poor-moderate-endodontic.md) — related
+- [Pearson correlations between AI and expert scores are weak (all r < 0.3) and statistically non-significant across all five criteria](ai-expert-pearson-weak-nonsignificant.md) — reports the opposite

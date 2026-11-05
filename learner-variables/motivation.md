@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 394 claims (260 show a difference, 93 mixed, 41 no difference) · 286 studies (99 causal, 97 associational, 41 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 7 design), `q1`–`q4` · 78 of 286 report an effect size · 382 claims rest on one study
+> **Evidence** · 398 claims (262 show a difference, 95 mixed, 41 no difference) · 287 studies (100 causal, 97 associational, 41 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 7 design), `q1`–`q4` · 79 of 287 report an effect size · 386 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -444,6 +444,10 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Growth mindset is positively associated with academic performance among Chinese female art majors (direct effect 0.25, p < .001)](../claims/growth-mindset-positive-direct-effect-female-art-majors.md) [+M] — learners who differ on it differ in outcomes
 - [Perceived interactivity of DeepSeek indirectly promotes medical students' willingness to use it through performance expectancy and effort expectancy](../claims/deepseek-perceived-interactivity-promotes-intention-via-expectancies.md) [+M] — measured as an outcome of the instruction studied
 - [Personal growth initiative moderates the growth mindset–academic performance link, with a steeper slope at high PGI](../claims/pgi-moderation-growth-mindset-performance.md) [~M] — an instructional effect differs with it
+- [A four-month daily running intervention significantly improved students' mental health, intrinsic motivation and extrinsic motivation over time](../claims/running-intervention-improved-mental-health-and-motivation.md) [+M] — measured as an outcome of the instruction studied
+- [In students in the running intervention, self-reported extrinsic motivation rose more than intrinsic motivation from pre-test to post-test and remained higher at each time point in one uncontrolled pre-post study](../claims/extrinsic-motivation-surpassed-intrinsic-over-time.md) [+M] — measured as an outcome of the instruction studied
+- [In one uncontrolled pre-post study, time-by-construct differences were significant for all outcomes; the largest observed difference was for self-rated mental health and a smaller one for self-rated intrinsic motivation](../claims/interaction-effects-strongest-for-mental-health.md) [~M] — measured as an outcome of the instruction studied
+- [In one group measured before and after, an indirect statistical association involving self-reported mental health was reported between physical activity at T1 and academic motivation at T3, larger for extrinsic than intrinsic motivation](../claims/mental-health-mediates-pa-to-academic-motivation.md) [~M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

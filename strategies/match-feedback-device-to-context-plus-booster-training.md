@@ -53,6 +53,7 @@ The review's concluding recommendation is that real-time feedback is valuable bu
 - [Design CPR education as an ongoing, reinforcement-based process combining spaced intervals, feedback, and cognitive components](cpr-education-reinforcement-based-design-strategy.md)
 - [Distributed Practice](distributed-practice.md)
 - [Train paraprofessional tutors with one initial day of training plus two two-hour booster sessions](tutor-booster-training-model.md)
+- [Recalibrate CPR training toward regular, simulation-based skills refreshers with real-time audiovisual feedback and instructor-led debriefing](simulation-feedback-cpr-training-recalibration.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Benchmark-style testing of 128 DUS prosthodontics questions (106 knowledge, 22 c
 - [Sequential querying significantly reduces knowledge-question accuracy for GPT-5 (91% to 75%) and GPT-4o (86% to 73%), but not for DeepSeek or Gemini 2.5 Pro](sequential-querying-degrades-gpt-knowledge-accuracy.md) — related
 - [The evaluated LLMs show higher accuracy on knowledge-based than case-based DUS questions, indicating a limitation in clinically oriented reasoning](llm-knowledge-beats-case-based-prosthodontics.md) — related
 - [Gemini 2.5 Pro achieved the highest case-based accuracy (91%) under sequential querying](gemini-highest-case-accuracy-sequential.md) — related
+- [On the CDLE benchmark, DeepSeek-R1, GPT-5 Thinking, Gemini 2.5 Pro, and OpenAI o3 significantly outperform GPT-4o in overall accuracy, with Gemini 2.5 Pro highest at 91.67%](cdle-four-llms-outperform-gpt4o-overall.md) — related

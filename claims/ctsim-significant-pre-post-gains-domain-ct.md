@@ -9,7 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-10-28
+source_checked: 2026-11-05
 sources:
   - id: ningyu-zhang-2022
     resource: "https://doi.org/10.1007/s40593-021-00275-x"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3` · `i2` medium
-> **Currency** · newest study 2022 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Students showed significant pre-to-post improvements on all three tests, with moderate effect sizes for acceleration and CT gains (0.43 and 0.57) and a large effect size for diffusion (0.9). [→ Ningyu Zhang 2022](#ningyu-zhang-2022)

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2016
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: kawthar-shabatat-mohammed-al-tarawneh-2016
     resource: "https://doi.org/10.5539/hes.v6n2p162"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2016 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After controlling for prior exam scores, ANCOVA showed a statistically significant impact of teaching method on academic achievement in favor of the experimental (BBL) group; the article reports eta squared equal to 0.80 as variance explained, but no standardized effect size. [→ Kawthar shabatat & Mohammed Al-Tarawneh 2016](#kawthar-shabatat-mohammed-al-tarawneh-2016)

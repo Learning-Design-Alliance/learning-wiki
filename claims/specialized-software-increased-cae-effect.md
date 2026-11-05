@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2014
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 sources:
   - id: demir-2014
     resource: "http://www.edam.com.tr/estp"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
-> **Currency** · newest study 2014 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The authors state in the discussion that specialized software usage increased the positive effect of CAE on mathematics achievement, and on that basis propose using CAE at every level of the education system. [→ Demir 2014](#demir-2014)

@@ -59,6 +59,7 @@ The review recommends hybrid simulation approaches that combine different low-co
 - [Improve mannequin design and increase practice opportunities to enhance SBL in oral radiology](improve-mannequin-design-and-practice-opportunities.md)
 - [Simulation-based training curriculum for high-risk, low-frequency prehospital emergencies](simulation-training-high-risk-low-frequency-events.md)
 - [Share standardized patient costs across specialties to run interprofessional simulation cost-effectively](shared-standardized-patient-costs-interprofessional-simulation.md)
+- [Use computer-aided simulations in nursing skills laboratories and support practical training with simulation](support-nursing-practical-training-with-simulation.md)
 
 ## Examples
 -

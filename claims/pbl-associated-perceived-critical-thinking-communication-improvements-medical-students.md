@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 sources:
   - id: abugri-bruce-ayabilla-2026
     resource: "https://doi.org/10.1371/journal.pone.0342599"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Included studies reported that PBL was associated with perceived improvements in critical thinking and communication skills among undergraduate medical students in both resource-limited and resource-rich educational environments. [→ Abugri Bruce Ayabilla 2026](#abugri-bruce-ayabilla-2026)

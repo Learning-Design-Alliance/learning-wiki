@@ -90,3 +90,4 @@ Quasi-experimental study of a 1-day lecture and simulated-patient roleplay progr
 - [Structured conversation guides shift goals-of-care conversations beyond code status and support behavior change when implementation supports are present](conversation-guides-shift-beyond-code-status.md) — related
 - [Pre-post evaluations in reviewed SBLE studies report significant gains in EOL knowledge and attitudes, but not uniformly across studies](pre-post-sble-gains-mixed.md) — related
 - [Communication skills training programs improve clinician patient-centeredness, but training approaches are variable and long-term retention is untested](cst-programs-improve-patient-centeredness-short-term.md) — related
+- [Communication skills, patient privacy protection, and compassion for patients showed no significant between-group differences after standardized training](cpoal-no-difference-communication-privacy-compassion.md) — related

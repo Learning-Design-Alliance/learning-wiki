@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: wang-junqiang-2026
     resource: "https://doi.org/10.3389/fpubh.2026.1854470"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among students without improved innovation ability and without depth mastery, those with improved comprehensive problem-solving ability had a strong cognitive performance rate of 50.0%, compared with 15.8% without improvement. [→ Wang Junqiang 2026](#wang-junqiang-2026)

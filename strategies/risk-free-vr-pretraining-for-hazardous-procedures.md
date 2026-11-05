@@ -46,6 +46,7 @@ The article recommends that virtual simulation complement physical training for 
 - [Use virtual simulation resources to prepare students before high-risk or complex experiments](virtual-simulation-prelearning-before-complex-experiments.md)
 - [Use VR simulation as a complementary, not competing, component of hazardous-drug spill-management training](vr-complementary-hazardous-drug-training.md)
 - [Use virtual simulation as a structured, repeatable, risk-free complement to traditional bracket placement training in early skill development](virtual-simulation-complement-early-skill-training.md)
+- [Integrate immersive VR simulation as a complementary tool in continuing emergency training programs for low-frequency, high-complexity scenarios](vr-complementary-continuing-emergency-training-strategy.md)
 
 ## Examples
 -

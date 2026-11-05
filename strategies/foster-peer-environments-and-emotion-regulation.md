@@ -54,6 +54,7 @@ The article recommends that universities move beyond curriculum delivery to fost
 - [Integrate psychosocial support strategies—mentoring, mindfulness-based stress reduction, peer-support groups, and academic skills training—into medical education programs](psychosocial-support-strategies-medical-education.md)
 - [Design instructional environments to foster positive academic emotions: improve instruction quality, grant calibrated autonomy, match expectations to capabilities, increase success opportunities, and foster cooperative interaction structures](instructional-guidelines-foster-positive-academic-emotions.md)
 - [Integrate resilience-building strategies into teacher training programs, prioritizing psychosocial facets of academic success and pairing them with study-skill instruction when grade improvement is the goal](resilience-building-teacher-training-strategy.md)
+- [Structure educational environments to facilitate role model identification and embed role models in a broader social network](structure-environments-for-role-model-identification.md)
 
 ## Examples
 -

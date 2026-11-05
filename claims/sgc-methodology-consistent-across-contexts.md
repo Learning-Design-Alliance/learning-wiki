@@ -50,3 +50,4 @@ Kruskal-Wallis tests comparing six student groups (across two universities and t
 - [Perceived learning from SGC activities is positively correlated with awareness of SDGs and with satisfaction with SDG themes.](sgc-learning-correlates-with-sdg-awareness-and-satisfaction.md) — related
 - [Completing a series of student-generated content projects significantly increases students' subjective knowledge of Sustainable Development Goals.](sgc-projects-increase-subjective-sdg-knowledge.md) — related
 - [A K-means clustering of students based on pre- and post-project SDG knowledge identifies three distinct learning profiles, with the largest cluster showing the greatest knowledge gain.](k-means-three-sgc-learning-clusters.md) — related
+- [Perceived importance of the EPAs did not differ significantly across universities (p = 1)](no-university-difference-epa-importance.md) — related

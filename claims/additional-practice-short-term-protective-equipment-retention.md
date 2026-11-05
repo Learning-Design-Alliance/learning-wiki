@@ -68,3 +68,4 @@ Comparison of all three skill retention assessments (Table 5): the between-group
 - [Prior trials reported short-term benefits of BLS practical examinations, but this trial's null result may reflect methodological differences](testing-effect-in-bls-unclear-beyond-six-months.md) — related
 - [Total BLS skill retention scores remain stable across two weeks, two months and one year after training](total-bls-scores-stable-across-retention-intervals.md) — related
 - [A BLS practical examination does not confer a significant advantage in overall skill retention over additional practice with continuous assessment among fifth-year medical students](bls-practical-exam-no-advantage-over-additional-practice.md) — related
+- [Retention of the target medical terms declined significantly over the month across all teaching methods](retention-declines-over-time-all-groups.md) — related

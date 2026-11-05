@@ -59,3 +59,4 @@ Correlation analysis across VMI, VP, MC and dysgraphia classification for the wh
 - [No significant difference was found between grade groups in the classification distribution of VMI, VP and MC performance levels](no-group-difference-performance-classification.md) — related
 - [First-grade students show inferior visual-motor integration, visual perception and motor coordination performance compared with the other grade groups](grade1-inferior-vmi-vp-mc-performance.md) — related
 - [Fine motor skills show a significant moderate overall correlation (r = .329) with academic-cognitive skills in children and adolescents](fms-moderate-correlation-academic-cognitive.md) — related
+- [OSCE benefit correlates with career development impact score (r = 0.410) while overall OSPE benefit shows a strong correlation (r = 0.748)](osce-ospe-benefit-career-correlations.md) — related

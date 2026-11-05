@@ -62,6 +62,7 @@ The article's training protocol provides a replicable sequence for simulation-ba
 - [Structure remote MR tutorials as baseline assessment, metrics-based feedback and deliberate practice, preceded by device familiarisation training](hololens-familiarisation-plus-metrics-feedback-deliberate-practice.md)
 - [Structure a remote AR simulation session as orientation, preparatory video, simulation, structured debriefing, and post-intervention questionnaires](remote-ar-session-structure-strategy.md)
 - [Brief video orientation plus one-on-one hands-on cadaver workshop followed by an independent skills test](video-plus-one-on-one-cadaver-workshop-strategy.md)
+- [Simulation-based mastery learning course with at-home simulator practice supported by written and video instructions](sbml-course-home-practice-video-instructions.md)
 
 ## Examples
 -

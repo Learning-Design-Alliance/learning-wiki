@@ -71,3 +71,4 @@ Within-group pre-to-post knowledge comparisons after the intervention using pair
 - [In the same RCT, the experimental group showed greater score gains than the control group in both written examination (22.24 ± 5.20 vs. 10.64 ± 5.96) and practical operation (21.80 ± 4.71 vs. 12.12 ± 4.79) outcomes](pbl-virtual-simulation-greater-score-gains-trauma-orthopedics.md) — related
 - [P-MASE pedagogy produced higher closed-book examination scores than traditional instruction in an undergraduate hospital management course RCT](pmase-higher-closed-book-exam-scores.md) — related
 - [No significant difference between teaching models in theoretical examination scores](ltm-theoretical-exam-no-difference.md) — related
+- [Structured reflective sessions significantly improve theoretical knowledge (MCQ) scores of operating room technology students compared with controls](reflective-sessions-improve-mcq-knowledge-or-students.md) — related

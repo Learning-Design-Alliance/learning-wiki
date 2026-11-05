@@ -1,0 +1,50 @@
+---
+type: claim
+title: The BOPPPS-based micro-lecture system showed no significant advantage over ordinary teaching for doctor-patient communication skills, informed consent, or humanistic care, which the authors deem unsuitable for micro-lecture delivery
+description: The BOPPPS-based micro-lecture system showed no significant advantage over ordinary teaching for doctor-patient communication skills, informed consent, or humanistic care, which the authors deem unsuitable for micro-l...
+id: boppps-microlecture-no-communication-advantage
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-05
+evidence_strength: weak
+newest_evidence: 2026
+sources:
+  - id: yang-xu-2026
+    resource: "https://doi.org/10.1080/10872981.2026.2616194"
+    title: "Yang Xu, Liu Tianyang, Li Ying, Gao Fuqiang. (2026). A BOPPPS-based micro-lecture teaching intervention for orthopaedic postgraduates in China. Medical Education Online. https://doi.org/10.1080/10872981.2026.2616194"
+    author: Yang Xu, Liu Tianyang, Li Ying, Gao Fuqiang
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
+---
+
+# The BOPPPS-based micro-lecture system showed no significant advantage over ordinary teaching for doctor-patient communication skills, informed consent, or humanistic care, which the authors deem unsuitable for micro-lecture delivery
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q3 i?` No significant differences were found between groups on humanistic care, obtaining informed consent, or communication skills with patients after Bonferroni correction; the article reports the acquisition of communication skills should be considered unsuitable for the micro-lecture system. [→ Yang Xu 2026](#yang-xu-2026)
+
+## Evidence
+
+### Yang Xu 2026
+
+Yang Xu, Liu Tianyang, Li Ying, Gao Fuqiang. (2026). A BOPPPS-based micro-lecture teaching intervention for orthopaedic postgraduates in China. Medical Education Online. https://doi.org/10.1080/10872981.2026.2616194
+
+`q3 · i?` · `causal · r2`
+
+Null findings from the same randomised two-group comparison (n = 24 per group) on the Mini-CEX humanistic care and communication items and the DOPS consent and patient-communication items. The article prints p = 0.015, p = 0.190, and p = 0.209 for these contrasts; no effect sizes are reported, so equivalence was not tested.
+
+> "Our results show no significant differences between ESs and CSs in doctor-patient communication skills (the skill of general communication, the obtainment of informed consent, and Humanistic care), especially after Bonferroni correction."
+
+## Discussion
+
+
+## Related Claims
+- [The BOPPPS-based micro-lecture group outperformed controls on eight of eleven DOPS clinical skills indicators (p < 0.005), with preoperative preparation at the significance threshold and no differences on informed consent or patient communication](boppps-microlecture-dops-clinical-skills.md) — possibly the same claim (merge candidate)
+- [Orthopaedic postgraduates taught with a BOPPPS-based micro-lecture system outperformed ordinary-teaching peers on most Mini-CEX clinical diagnostic and decision-making domains (p < 0.007 after Bonferroni correction), except humanistic care](boppps-microlecture-mini-cex-diagnostic-advantage.md) — related
+- [Experimental-group students reported strong preference for the BOPPPS-based micro-lecture method, with 23 of 24 preferring it to ordinary teaching, though the authors caution about social desirability bias](boppps-microlecture-student-satisfaction.md) — related

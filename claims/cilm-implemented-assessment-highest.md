@@ -52,3 +52,4 @@ Expert assessment of the implemented model covering model appropriateness (Mean 
 - [Experts rated the CBT curriculum's overall implementation efficiency at the highest level, with contents rated highest quality](expert-evaluation-cbt-curriculum-highest-efficiency.md) — related
 - [Expert focus group rated the model appropriate at the highest level](expert-evaluation-model-appropriateness.md) — related
 - [Expert audit rated the developed model good to very good across appropriateness, possibility, correctness, usefulness and innovation](model-audit-good-to-very-good.md) — related
+- [A needs analysis finds expert and student support for an imaginative activity-based model to develop innovation in Chinese medical students](needs-analysis-supports-imaginative-model-medical-innovation.md) — related

@@ -64,3 +64,6 @@ Same assessor-blinded RCT of 50 clinical medical students. Teaching effectivenes
 - [A significantly larger proportion of integrated-teaching trainees positively evaluate the teaching method (100% vs. 86.0%)](teaching-satisfaction-proportion-chi-square.md) — related
 - [PBL-trained kidney transplantation trainees perform better in multidisciplinary case discussions than traditionally trained trainees](pbl-better-multidisciplinary-discussion-performance.md) — related
 - [Live-video teaching significantly boosts students' self-evaluated learning outcomes across all five measured aspects](ltm-self-evaluated-learning-outcomes.md) — related
+- [OSCEai received an overall learning-tool rating of 4.62 and a recommendation likelihood of 4.78 out of 5](osceai-overall-reception-ratings.md) — related
+- [Students taught with PBL combined with 3D-VRT rated teaching methods higher than students taught traditionally](pbl-3d-vrt-higher-student-teaching-evaluations.md) — related
+- [Intervention students report higher educational satisfaction than controls after structured reflective sessions](reflective-sessions-increase-satisfaction.md) — related

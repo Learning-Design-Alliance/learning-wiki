@@ -56,3 +56,4 @@ Instrument development reported in the Method section: a 10-item essay basic sci
 - [Expert panels and 31 experienced physics teachers rated the software favourably, with reliability of Cronbach's alpha .843 across 24 items](expert-evaluation-motion-vector-software-reliability.md) — related
 - [The post-study survey instrument showed high internal consistency (alpha = 0.90)](cyberagents-survey-alpha-090.md) — related
 - [Students responded positively to using recycle materials in science practicum (questionnaire mean 2.82 of 3)](recycle-materials-practicum-positive-student-feedback.md) — related
+- [The European Prescribing Exam demonstrates adequate reliability and content validity in pilot administration](european-prescribing-exam-psychometric-quality.md) — related

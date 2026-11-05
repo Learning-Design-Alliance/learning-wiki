@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: catherine-lewis-rebecca-perry-2014
     resource: "https://eric.ed.gov/?id=EJ1046670"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2014 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Teachers in the experimental condition showed significant pre-to-post gains in fraction as number, understanding of the whole, and unit fractions, plus increased use of linear measurement representations; control teachers showed no significant change on those facets. Both groups significantly reduced fraction errors, the experimental group more. The contrast rests on separate within-group paired t tests; no test of the difference between groups is reported. [→ Catherine Lewis & Rebecca Perry 2014](#catherine-lewis-rebecca-perry-2014)

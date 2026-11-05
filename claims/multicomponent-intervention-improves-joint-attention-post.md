@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2020
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: hampton-et-al-2020
     resource: "https://doi.org/10.1177/1362361320934558"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
-> **Currency** · newest study 2020 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Children assigned to the intervention demonstrated significantly greater initiated joint attention than the comparison group immediately following intervention (d = 0.312). [→ Hampton et al. 2020](#hampton-et-al-2020)

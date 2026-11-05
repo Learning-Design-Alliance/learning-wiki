@@ -50,3 +50,4 @@ This is the article's theoretical characterization (drawing on Eraut's mode-of-c
 - [Experts detect and correct small changes before events become full-blown, while novices are distracted by possibly irrelevant phenomena](expert-monitoring-prevents-full-blown-events.md) — related
 - [Expert teachers' classroom perception appears knowledge-driven while novices' appears image-driven, guided by salient visual features](knowledge-driven-vs-image-driven-classroom-perception.md) — related
 - [Experts perceive classroom situations in terms of groups of students while novices devote more visual attention to individual students](experts-perceive-groups-novices-individuals.md) — related
+- [Experts respond faster than novices on clinical decision-making cases](experts-faster-response-times-clinical-cases.md) — a narrower finding that bears on this claim

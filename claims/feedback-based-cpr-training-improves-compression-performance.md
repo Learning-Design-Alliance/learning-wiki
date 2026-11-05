@@ -66,3 +66,4 @@ Synthesis across randomized trials in the review's instructional modality and fe
 - [Low-dose high-frequency training shortens time to key resuscitation interventions, including CPR initiation, rhythm analysis, supraglottic airway insertion and hands-off time](ldhf-als-shorter-time-to-interventions.md) — related
 - [Simulation-based PBLS training significantly improves specific life-support skills including airway opening, rescue breathing, and chest compression quality](simulation-pbls-improves-specific-pbls-steps.md) — related
 - [A 90-minute ERC-guideline BLS training in a block schedule yields acceptable short- and long-term retention of chain-of-survival activation and high-quality chest compressions](bls-block-training-effective-core-skills.md) — related
+- [Manikin audiovisual feedback reveals low overall compression accuracy (17%) despite adequate rate and recoil](cpr-manikin-feedback-quality-metrics.md) — related

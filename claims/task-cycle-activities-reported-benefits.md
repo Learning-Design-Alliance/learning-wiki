@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2015
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: mohammad-mohammadipour-sabariah-md-rashid-2015
     resource: "https://doi.org/10.7575/aiac.alls.v.6n.2p.113"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q1`
-> **Currency** · newest study 2015 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Students reported that a discovery approach through analysing TED-Talks was motivating and helped them form and test hypotheses about spoken language rules. [→ Mohammad Mohammadipour & Sabariah MD Rashid 2015](#mohammad-mohammadipour-sabariah-md-rashid-2015)

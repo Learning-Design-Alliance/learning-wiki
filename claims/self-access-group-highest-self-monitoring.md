@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: tsai-pi-hua-2015
     resource: "https://eric.ed.gov/?id=EJ1077659"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The Self-Access Group produced the highest frequency of self-monitoring statements (N=58), yet reported more difficulties than the Collaborative Group and developed fewer strategies. [→ Tsai Pi-hua 2015](#tsai-pi-hua-2015)

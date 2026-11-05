@@ -52,3 +52,4 @@ Cross-sectional study of 130 male undergraduates; one-way ANOVA of GPA across IP
 - [Physical activity appears to partially offset the adverse association between poor sleep and GPA](pa-offsets-sleep-gpa-association.md) — related
 - [Higher physical activity is strongly positively correlated with GPA while worse sleep quality is moderately negatively correlated](pa-sleep-gpa-bivariate-correlations.md) — related
 - [Physical activity and sleep quality independently predict GPA after adjusting for age and BMI, whereas BMI does not](pa-sleep-independent-gpa-predictors-regression.md) — related
+- [Physical activity category is not statistically significantly associated with GPA category among Saudi physical therapy students](pars3-category-not-associated-gpa-saudi-pt-students.md) — reports the opposite

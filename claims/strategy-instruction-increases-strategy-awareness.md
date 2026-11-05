@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2011
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: muhittin-çalişkan-ali-murat-sünbül-2011
     resource: "https://eric.ed.gov/?id=EJ919894"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2011 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After 15 weeks of strategy instruction, the experimental group scored significantly higher than the control group on the Learning Strategies Identification Scale. [→ Muhittin ÇALIŞKAN & Ali Murat SÜNBÜL 2011](#muhittin-caliskan-ali-murat-sunbul-2011)

@@ -60,6 +60,7 @@ The article implements a blended instructional model in which foundational conte
 - [Position immersive technologies and virtual patients as supplementary components within blended learning rather than stand-alone replacements for established clinical communication training](immersive-tech-adjunctive-blended-not-replacement.md)
 - [Menu of active-learning strategies deployed in case sessions, matched to curricular timing and objective level](active-learning-strategies-menu-pharmacology-cases.md)
 - [Schedule virtual simulation training before the flipped classroom course rather than after it](oscrs-training-before-class-strategy.md)
+- [Reform TDI residency training with blended learning, simulation-based training, and competency-based assessment](blended-simulation-competency-tdi-training-reform.md)
 
 ## Examples
 -

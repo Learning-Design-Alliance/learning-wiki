@@ -53,6 +53,7 @@ The article describes a concrete implementation sequence for research topic–dr
 ## Related Strategies
 
 - [Redesign course projects around collaboration, open-ended problems, shared knowledge objects, technology mediation, and as-needed mentoring](five-design-principles-collaborative-course-redesign.md)
+- [Structured individual research-project sequence with faculty mentorship and formative feedback](prbl-structured-research-project-sequence.md)
 
 ## Examples
 -

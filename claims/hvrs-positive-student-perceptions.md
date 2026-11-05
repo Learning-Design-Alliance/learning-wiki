@@ -53,3 +53,5 @@ A 10-item 5-point Likert questionnaire developed by the authors and administered
 - [Students who train on the VR haptic simulator first report higher self-confidence in performing access cavity preparation and managing procedural challenges](vr-first-higher-self-confidence.md) — related
 - [Most participants favor simulator implementation in endoscopy training, but few have institutional access](endonix-implementation-attitudes-and-access.md) — related
 - [Clinical students perceived VR-based training as a complementary method that enhances proficiency, confidence, and access](vtracs-perceived-complementary-proficiency-enhancement.md) — related
+- [Students reported positive perceptions of the e-learning modules, supporting their integration into the dental curriculum](positive-student-perceptions-elearning-modules.md) — related
+- [Virtual simulation training improved dental students' theoretical knowledge of root canal irrigation (mean increase 9.3%, d = 0.65)](vs-irrigation-theory-score-gain.md) — related

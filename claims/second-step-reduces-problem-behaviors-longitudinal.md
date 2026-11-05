@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2016
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: top-2016
     resource: "https://eric.ed.gov/?id=EJ1167262"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2016 · checked against its sources 2026-11-03 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The growth rate of problem school behaviors in treatment schools was lower than in control schools after controlling for gender, ethnicity, and SES (γ101 = -3.718942, p < 0.01). [→ Top 2016](#top-2016)

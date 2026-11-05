@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: zhang-yongshuo-2026
     resource: "https://doi.org/10.1186/s12909-026-08948-8"
@@ -40,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2`–`r3` · `q4`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q4 i?` In standardized budgeting/resource-allocation simulation tasks, the P-MASE group achieved higher simulated departmental satisfaction (82.5 ± 3.4% vs. 74.3 ± 5.1%, P < 0.001) than the control group. [→ Zhang Yongshuo 2026](#zhang-yongshuo-2026)

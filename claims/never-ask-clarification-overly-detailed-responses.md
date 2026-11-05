@@ -52,3 +52,4 @@ Author interpretation from the discussion section, tracing the tendency to provi
 - [Iterative prompt refinement and expert pilot-testing may partly explain favorable LLM virtual patient output quality](iterative-prompt-refinement-expert-testing-improves-output.md) — related
 - [LLM-based virtual patients predominantly lack emotional depth or expressions of concern, lowering Personal dimension ratings](lack-emotional-depth-lowers-personal-ratings.md) — related
 - [LLM coders replicate many human discursive moves but lack questioning, adaptive responsiveness, and emotional expressiveness](claim-llms-replicate-discursive-moves-lack-questioning.md) — related
+- [Eight of 37 respondents reported OSCEai scenarios or elements that were confusing or not representative of real-life practice](osceai-limitations-realism-confusion.md) — related

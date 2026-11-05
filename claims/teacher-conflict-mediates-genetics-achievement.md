@@ -87,3 +87,4 @@ Null mediation result from the same SEM analysis: the closeness indirect effect 
 - [Children's higher education-linked genetic propensities are associated with lower student–teacher conflict and more positive teacher responses at age 5, but not closeness](pgsedu-evokes-lower-teacher-conflict.md) — related
 - [PGSedu is directly associated with educational performance at ages 6–8, with a total association of β = 0.13 explaining 2% of the variance](pgsedu-total-association-educational-performance.md) — related
 - [All three student–teacher relationship dimensions at age 5 are positively associated with educational performance at ages 6–8](strs-dimensions-predict-educational-performance.md) — related
+- [Literacy-focused (but not positive) maternal parenting mediates the effect of children's education polygenic scores on educational performance](literacy-focused-parenting-mediation-pgsedu-education.md) — related

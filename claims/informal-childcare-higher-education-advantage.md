@@ -49,3 +49,4 @@ Propensity score matching analysis (ATT, kernel matching) of 550 NLSCY children 
 - [Higher weekly childcare dosage was associated with lower probability of higher education enrollment](childcare-dosage-negative-association.md) — related
 - [Household income and maternal work status moderated the childcare–higher education association: formal childcare increased enrollment probability only for low-income and non-working families](childcare-effect-moderated-by-income-work-status.md) — related
 - [Early childhood education attendance is associated with higher high school completion, college attendance, and employment](ece-higher-completion-college-employment.md) — a broader claim this one bears on
+- [Neither child sex nor early childcare attendance moderates the genetic pathways to academic achievement](no-sex-childcare-moderation-genetic-pathways.md) — related

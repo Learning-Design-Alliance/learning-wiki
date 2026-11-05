@@ -50,3 +50,4 @@ General linear model in a cross-sectional survey of 1,208 medical undergraduates
 ## Related Claims
 - [Self-directed learning correlates positively with conscientiousness, openness, self-esteem, AI cognition, and subjective norms, while self-control correlates negatively with subjective norms](spearman-correlations-sdl-personality-ai-dimensions.md) — related
 - [Personality effects on self-directed learning are heterogeneous across AI-context learner profiles, with openness dominant only in the Cognitively Advanced but Constrained subgroup](within-profile-heterogeneous-personality-effects.md) — related
+- [Self-efficacy, resilience, optimism, and responsibility each positively predict student engagement among Chinese undergraduates](psycap-dimensions-positive-predictors-engagement-chinese-undergraduates.md) — related

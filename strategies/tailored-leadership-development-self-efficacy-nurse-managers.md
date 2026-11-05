@@ -49,6 +49,7 @@ The article recommends that "leadership development initiatives should combine c
 ## Related Strategies
 
 - [Design structured, competency-based, stage-specific transition programmes for new nurse managers with mentoring by experienced managers](structured-stage-specific-nurse-manager-transition-programmes.md)
+- [Screen for SMA and nomophobia and build academic self-efficacy through mastery experiences, role models, feedback, and coaching](ase-building-and-digital-wellbeing-strategy-nursing-interns.md)
 
 ## Examples
 -

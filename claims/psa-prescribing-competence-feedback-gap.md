@@ -67,3 +67,4 @@ The review observes that educational interventions accompanying the PSA roll-out
 
 - [Final-year students report low confidence in prescription writing and feel underprepared for prescribing](students-underprepared-prescription-writing-confidence.md)
 - [The Foundation Programme requires successful completion of the Prescribing Safety Assessment for FY1 but leaves resuscitation preparedness to variable local provision, an inconsistency the authors argue is hard to defend.](psa-required-fy1-resuscitation-left-local-inconsistency.md) — related
+- [Specific knowledge gaps among Foundation Year doctors: components of Hartmann's solution (42% correct), ideal-body-weight maintenance fluid prescribing (14% correct), and risk of hyperchloraemic metabolic acidosis (38% aware)](specific-fluid-knowledge-gaps-hartmanns-obese-hyperchloraemia.md) — related

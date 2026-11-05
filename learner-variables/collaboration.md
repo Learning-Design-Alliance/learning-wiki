@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 147 claims (116 show a difference, 20 mixed, 11 no difference) · 124 studies (47 causal, 26 review, 18 qualitative, 11 quant-synthesis, 9 associational, 8 design, 5 theoretical), `q1`–`q3` · 11 of 124 report an effect size · 147 claims rest on one study
+> **Evidence** · 149 claims (118 show a difference, 20 mixed, 11 no difference) · 126 studies (48 causal, 26 review, 19 qualitative, 11 quant-synthesis, 9 associational, 8 design, 5 theoretical), `q1`–`q3` · 11 of 126 report an effect size · 149 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -189,6 +189,8 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Students attributed competencies in teamwork, time management, quick thinking, critical thinking, communication, and confidence to team-based gamified quizzing](../claims/student-reported-competencies-gamified-quizzing.md) [+M] — measured as an outcome of the instruction studied
 - [Collaborative learning in the postgraduate PBL course did not achieve deep peer collaboration, unlike the positive self-directed learning outcomes](../claims/pbl-collaborative-learning-shortfall.md) [-M] — measured as an outcome of the instruction studied
 - [Supplementary questionnaire responses from the experimental group indicate perceived gains in learning experience, problem-solving, cooperation, communication, and commitment](../claims/boppps-rain-classroom-supplementary-questionnaire-perceptions.md) [+M] — measured as an outcome of the instruction studied
+- [A three-month CPOAL pre-training program before standardized training yields significantly higher post-training scores in cooperative ability, resilience, and good character than standardized training alone](../claims/cpoal-pretraining-raises-cooperation-resilience-character.md) [+M] — measured as an outcome of the instruction studied
+- [Over 90% of nursing students agreed that Photovoice combined with team-based learning enhanced motivation, active participation, teamwork, and overall learning experience](../claims/photovoice-tbl-high-agreement-motivation-teamwork.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

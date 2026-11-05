@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Mean item difficulty was 0.07 higher for integrated-curriculum pharmacology items than legacy items, with mean point biserial differing by only 0.01. [→ Brinda Desai Bradaric 2026](#brinda-desai-bradaric-2026)

@@ -50,3 +50,4 @@ In the same stratified RCT, a follow-up test one month after the course compared
 - [The immediate advantage of deep-processing prompts does not persist at a 5-month follow-up, with a Bayesian test confirming the null](deep-prompt-advantage-fades-at-follow-up.md) — related
 - [The AI-enhanced group showed significantly higher one-month knowledge retention than both comparison groups](ai-enhanced-higher-knowledge-retention.md) — reports the opposite
 - [Achievement declined significantly from post-test to one-month follow-up in both groups, with no significant between-group difference in the decline](jigsaw-followup-decline-no-between-group-difference.md) — related
+- [The SML+AI group showed significantly higher 5-month retention of anatomical knowledge than the control and SML groups](chatgpt-virtual-manipulatives-higher-retention.md) — reports the opposite

@@ -52,3 +52,4 @@ Expert assessment of the learning process on a five-level rating scale. All eigh
 - [Five professionals approved the model as appropriate at a high level](stem-ict-model-professional-approval-high.md) — related
 - [Expert focus group rated the model appropriate at the highest level](expert-evaluation-model-appropriateness.md) — related
 - [Expert audit rated the developed model good to very good across appropriateness, possibility, correctness, usefulness and innovation](model-audit-good-to-very-good.md) — related
+- [A needs analysis finds expert and student support for an imaginative activity-based model to develop innovation in Chinese medical students](needs-analysis-supports-imaginative-model-medical-innovation.md) — related

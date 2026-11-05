@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 153 claims (94 for, 54 mixed, 5 against) · 115 studies (47 associational, 35 causal, 22 review, 6 design, 4 quant-synthesis, 1 theoretical), `q1`–`q3` · 29 of 115 report an effect size · 151 claims rest on one study
+> **Evidence** · 155 claims (95 for, 55 mixed, 5 against) · 116 studies (48 associational, 35 causal, 22 review, 6 design, 4 quant-synthesis, 1 theoretical), `q1`–`q3` · 30 of 116 report an effect size · 153 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" ([Bandura, 1977](https://doi.org/10.1037/0033-295x.84.2.191)). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" ([Seifert & Sutton, 2018](https://edtechbooks.org/lidtfoundations/motivation_theories_on_learning)). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -200,6 +200,8 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [No significant changes in self-efficacy for CPR or uterine balloon tamponade, likely reflecting high baseline confidence and a ceiling effect](../claims/no-significant-change-cpr-balloon-tamponade-ceiling-effect.md) [~W]
 - [Mean self-efficacy scores significantly increased for comfort managing emergencies, resource knowledge, resource utilization, communication, oversedation management, and LAST management](../claims/significant-self-efficacy-gains-six-domains-hysteroscopy-simulation.md) [+W]
 - [Self-efficacy partially mediates the relationship between externally oriented thinking and clinical communication competence](../claims/self-efficacy-partial-mediator-eot-communication.md) [+W] — attached 2026-11-05 from Yu Jiaying et al. (2026), which proposed "Self-efficacy as the mediating mechanism linking alexithymia to clinical communication competence"; tests this page's relationship.
+- [Academic self-efficacy partially mediates the indirect effects of social media addiction risk and nomophobia on clinical performance](../claims/ase-partial-mediator-sma-nomophobia-clinical-performance.md) [~W] — attached 2026-11-05 from Berdida et al. (2026), which proposed "Bandura's self-efficacy theory framing academic self-efficacy as a protective intrinsic asset for nursing interns"; tests this page's relationship.
+- [Academic self-efficacy positively predicts clinical performance in nursing internship students](../claims/ase-positive-prediction-clinical-performance.md) [+W] — attached 2026-11-05 from Berdida et al. (2026), which proposed "Bandura's self-efficacy theory framing academic self-efficacy as a protective intrinsic asset for nursing interns"; tests this page's relationship.
 
 ## The evidence by question
 

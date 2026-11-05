@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2013
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: yoke-et-al-2013
     resource: "https://doi.org/10.5539/elt.v6n12p175"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2013 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` From first to final draft, the online corrective feedback group reduced sentence structure errors by 47.4%, grammar errors by 70.6% and vocabulary errors by 45.4%, while the conventional group reduced sentence structure by 23.2% and vocabulary by 17.6% with no grammatical improvement. [→ Yoke et al. 2013](#yoke-et-al-2013)

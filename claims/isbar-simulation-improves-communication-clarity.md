@@ -56,3 +56,5 @@ A single-group pretest-posttest study of 57 nursing students in an obstetric sim
 - [Simulation-based CARE handover training produces a large increase in nurses' perceived handover competency from pretest to posttest](simulation-care-training-increases-perceived-handover-competency.md) — related
 - [Total self-reported ICCAS scores rose significantly from pre-test to post-test after the simulation intervention in one uncontrolled pre-post study](sbl-total-iccas-significant-increase.md) — related
 - [SBAR and handover capabilities did not change significantly from pre-test to post-test in one single-group study with no comparison group](sccdp-sbar-handover-no-significant-change.md) — related
+- [Team OSCE total scores rose from a pre-intervention median of 6.25 to a post-intervention median of 17 after IP-STAR training](ipstar-team-osce-gain.md) — related
+- [MCQ scores in the control group without structured reflection fell from pre-test to post-test in a within-group pre-test–post-test measurement](no-reflection-mcq-decline.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: molitor-vincent-2026
     resource: "https://doi.org/10.1186/s12909-026-09297-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` After completing the five-module e-learning program, nurses' median delirium knowledge score rose from 32 to 40 correct answers, a statistically significant improvement with a large effect size. [→ Molitor Vincent 2026](#molitor-vincent-2026)

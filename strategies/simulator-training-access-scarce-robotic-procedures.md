@@ -45,7 +45,8 @@ The authors recommend integrating the validated simulator as a training station 
 - [Item-total correlations for the face-validity questionnaire range from 0.53 to 0.88, supporting the instrument's internal consistency](../claims/aquablation-face-survey-item-total-correlations.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Extend the low-cost homemade simulator principle to other basic, highly structuralized, standardized surgical procedures](extend-homemade-simulator-principle-other-procedures.md)
 
 ## Examples
 -

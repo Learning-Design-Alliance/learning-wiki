@@ -53,3 +53,4 @@ Query robustness analysis comparing original, paraphrased, and keyword-perturbed
 - [Small input perturbations such as minor spelling errors can reduce state-of-the-art dialogue and assessment model accuracy by over 30%](its-dialogue-models-brittleness-perturbations.md) — related
 - [Post-deployment diagnostics attributed many remaining retrieval misses to query formulation, with bounded expansion recovering eleven of 24 original queries without lowering the relevance floor](retrieval-misses-attributed-to-query-formulation.md)
 - [General-purpose embedding yields better retrieval while domain-specific embedding yields higher answer completeness and relevance](embedding-model-tradeoff-retrieval-vs-completeness.md) — related
+- [All five LLMs show only slight, non-significant accuracy declines under semantic-equivalence and irrelevant-information perturbations, indicating strong robustness](cdle-llm-robustness-adversarial-perturbations.md) — related

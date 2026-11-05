@@ -51,3 +51,4 @@ Review synthesis of Baker (2016), an expert–novice discrimination study of the
 - [Training on a simple low-fidelity 'choose-the-hole' bench model transferred to real clinical fibreoptic intubation performance in an RCT](choose-the-hole-bench-model-predictive-validity-rct.md) — related
 - [Most reviewed simulation studies demonstrated face and content validity, but few assessed construct or predictive validity](simulation-validity-face-content-yes-predictive-rare.md) — a broader claim this one bears on
 - [A simulation-based FOI test on a portable VR simulator demonstrates strong validity evidence across all five sources in Messick's framework](vr-simulator-foi-test-strong-validity-evidence.md) — related
+- [A 40-minute AI-guided simulation-based training intervention did not significantly improve clinical bronchoscopy performance in intermediate and experienced bronchoscopists](ai-simulation-training-no-clinical-bronchoscopy-gain.md) — related

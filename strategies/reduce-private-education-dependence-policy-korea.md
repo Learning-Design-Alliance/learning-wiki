@@ -49,6 +49,7 @@ The article draws a policy implication from its finding that private educational
 - [Federal policy should expand access to high-quality, integrated early care and education with quality assurance and adequate ECE educator compensation](federal-expand-high-quality-integrated-ece.md)
 - [Federal strategy to expand access to integrated, inclusive ECE through child care funding, universal preschool, Head Start alignment, and inclusive special education](federal-strategy-integrated-inclusive-ece-access.md)
 - [State policymakers should pair any choice expansion with quality controls, equitable access safeguards, integration management, and research and evaluation requirements](state-choice-quality-and-equity-safeguards.md)
+- [Policies improving school attendance, supporting low-income households and expanding early childhood education to raise academic outcomes in low-income urban settings](attendance-income-early-education-policy-strategy.md)
 
 ## Examples
 -

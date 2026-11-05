@@ -61,3 +61,4 @@ Table 8 comparison of average scores shows the control group began higher (43.91
 - [Both the situated learning group and the traditional instruction group improved significantly from pre-test to post-test in vocational English vocabulary](both-groups-significant-pretest-posttest-gains-vocational-english.md) — related
 - [The experimental group started with lower pre-test scores but achieved a higher average than the control group in the post-test](qmp-lower-pretest-higher-posttest-descriptive.md) — related
 - [English academic performance scores rose significantly from pre-test to post-test, with a large effect size (d = 0.93), in one group with no comparison group](intervention-improves-english-performance-large-effect.md) — related
+- [Mean clinical decision-making scores increased pre to post in both groups, with the intervention group scoring higher at posttest (52.24 vs 48.09).](atls-simulation-prepost-score-gains-intervention-vs-control.md) — related

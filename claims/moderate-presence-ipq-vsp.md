@@ -48,3 +48,4 @@ Post-intervention IPQ self-reports from the nine intervention-group participants
 - [User experience favored attractiveness, stimulation, and novelty, but IPQ involvement was unsatisfactory and realism only satisfactory](ncpr-vr-ueq-ipq-profile.md) — related
 - [Students rated the VSP system positively for usability and learning assistance, with comparatively low ratings for patient realism and authenticity](positive-ueq-ratings-vsp-system.md) — related
 - [Students valued VSP convenience but rated realism and feedback value below human standardized patients](vsp-student-feedback-convenience-high-realism-low.md) — related
+- [More connectivity failures during VSP interviews were associated with lower student ratings](connectivity-failures-lower-vsp-ratings.md) — related

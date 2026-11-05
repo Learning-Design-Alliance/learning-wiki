@@ -68,6 +68,7 @@ The review recommends that structured, interactive and hands-on diabetic foot ca
 - [Integrate TMJ, myofunctional, and periodontal-orthodontic multidisciplinary content into residency training and target continuing education at undertrained practitioners](integrate-mdt-content-orthodontic-training.md)
 - [Implement mandatory structured in-service ECG training with simulation-based practice and rhythm-strip workshops for ICU nurses](mandatory-simulation-ecg-training-icu-nurses.md)
 - [Integrate targeted one-hour interactive online lectures on common orofacial conditions into continuing dental education, with periodic reinforcement](targeted-online-lecture-continuing-dental-education.md)
+- [Implement targeted training strategies plus standardized protocols and institutional support to improve diabetic foot management](targeted-training-and-protocols-diabetic-foot.md)
 
 ## Examples
 -

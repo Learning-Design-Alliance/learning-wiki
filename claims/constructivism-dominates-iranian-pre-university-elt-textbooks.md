@@ -9,6 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-05
 sources:
   - id: hossein-hashem-neghad-2014
     resource: "https://doi.org/10.7575/aiac.alls.v.5n.2p.115"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · `i2` medium
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In Iranian Pre-University ELT textbooks, constructivism had a relative frequency of 52.8% and frequency count of 37, making it the major organizing principle, while behaviourism fell to 18.6%. [→ Hossein Hashem Neghad 2014](#hossein-hashem-neghad-2014)

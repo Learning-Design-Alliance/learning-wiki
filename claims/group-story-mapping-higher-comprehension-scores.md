@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2017
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: alturki-2017
     resource: "https://www.academicjournals.org/ERR"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2017 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students who received the group story-mapping intervention answered more comprehension test questions correctly than students who did not receive it. [→ Alturki 2017](#alturki-2017)

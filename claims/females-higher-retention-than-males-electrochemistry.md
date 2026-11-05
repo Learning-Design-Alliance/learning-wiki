@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2016
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: akpoghol-2016
     resource: "https://eric.ed.gov/?id=EJ1092390"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2016 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Female students taught electrochemistry had higher retention scores than male counterparts, and the gender effect was statistically significant. [→ Akpoghol 2016](#akpoghol-2016)

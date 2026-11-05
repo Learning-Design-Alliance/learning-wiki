@@ -82,3 +82,4 @@ Same gender t-test analysis; for positive AI attitudes the test was non-signific
 - [Female participants reported significantly higher maths anxiety and general anxiety, while males reported higher maths self-efficacy and maths interest](sex-differences-maths-anxiety-motivation-means.md) — related
 - [Female EFL students report more positive and fewer negative achievement emotions than males, and age and home resources show distinct associations](gender-age-home-resources-emotion-associations.md) — related
 - [AI attitudes improve in all groups with no significant between-group differences](ai-attitudes-improve-all-groups-no-between-group-difference.md) — related
+- [Gender differences in anxiety and satisfaction: female students scored higher on satisfaction (significant only in the intervention group) and male students higher on state anxiety](gender-differences-anxiety-satisfaction-simulation.md) — related

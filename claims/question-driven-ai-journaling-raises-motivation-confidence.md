@@ -92,3 +92,4 @@ Same crossover study's daily survey measure of acting confidence. The article re
 - [The LLM-based journaling assistant shows no significant effect on students' intrinsic motivation for creating a learning journal](journaling-assistant-no-intrinsic-motivation-effect.md) — related
 - [Students value GenAI corrective feedback with rationales and report increased motivation and confidence](genai-corrective-feedback-motivation-benefits.md) — related
 - [An example-based built-in course in a mobile chatbot journaling system increases students' intrinsic motivation for creating a learning journal](example-based-course-increases-journaling-intrinsic-motivation.md) — related
+- [A four-month daily running intervention significantly improved students' mental health, intrinsic motivation and extrinsic motivation over time](running-intervention-improved-mental-health-and-motivation.md) — related

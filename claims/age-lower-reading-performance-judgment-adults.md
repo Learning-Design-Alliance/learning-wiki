@@ -52,3 +52,4 @@ Weighted linear regression on the NEPS SC6 adult subsample with the reading test
 - [Age negatively and education positively predict memory self-efficacy, and age negatively predicts memory performance](age-education-predict-memory-self-efficacy-and-performance.md) — related
 - [Gender differences in global performance judgments follow domain stereotypes: men higher in mathematics, women higher in reading, with no gender differences in bias](gender-stereotyped-performance-judgments-adults.md) — related
 - [In the metacognitive strategy group, older learners' reading scores were lower (r = -.427, p = .019)](age-negative-reading-metacognitive-group.md) — related
+- [Older first-year nursing students show smaller overestimation of social/communication skills (age negatively predicts the discrepancy, R² = 0.07)](age-predicts-smaller-social-calibration-gap.md) — a narrower finding that bears on this claim

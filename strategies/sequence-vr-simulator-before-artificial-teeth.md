@@ -56,6 +56,7 @@ The article's central design recommendation is to place VR haptic simulator sess
 
 - [Use combined training modules integrating extracted teeth, artificial/simulative teeth, and phantom bodies in endodontic preclinical curricula](combined-endodontic-training-modules-strategy.md)
 - [Introduce virtual simulation systems in Periodontics to support integration of theoretical and practical skills](virtual-simulation-systems-perio-skills-integration.md)
+- [Three-stage instructional sequence: theoretical instruction, virtual simulation training, then phantom-head practice](three-stage-vs-irrigation-instructional-framework.md)
 
 ## Examples
 -

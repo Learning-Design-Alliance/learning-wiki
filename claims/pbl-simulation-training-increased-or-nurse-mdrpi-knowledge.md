@@ -52,3 +52,4 @@ Single-group pretest–posttest quasi-experiment with 80 OR nurses at one tertia
 - [Nurses' pressure injury knowledge scores differ significantly across clinical units, with operating-room nurses scoring higher than outpatient-clinic nurses](pi-knowledge-differs-by-clinical-unit.md) — related
 - [Adverse events during circulating nursing work were lower after BOPPPS-integrated simulation training than before, in one uncontrolled pre-post study](adverse-events-decline-after-boppps-simulation.md) — related
 - [Objective AI knowledge scores rose from pretest to posttest among Japanese medical students after a 1-day PBL program on AI ethics, in a single-group pre-post study](pbl-ai-ethics-mcq-knowledge-gain.md) — related
+- [MCQ scores in the control group without structured reflection fell from pre-test to post-test in a within-group pre-test–post-test measurement](no-reflection-mcq-decline.md) — related

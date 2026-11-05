@@ -9,7 +9,6 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2019
-source_checked: 2026-11-03
 sources:
   - id: akbaş-2019
     resource: "https://doi.org/10.33403/rigeo.529139"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2019 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students ranked competing theories, news, and concept cartoons as their favorite ABSL activities, citing easier argument creation and better expression of ideas. [→ Akbaş 2019](#akbas-2019)

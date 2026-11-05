@@ -49,3 +49,4 @@ Results section, Clip Applying analysis of the randomized study: the serious gam
 - [VR simulator training produced the largest gains on the VR-simulator post-test, outperforming box trainer, serious game, and control groups on the complex Clip Applying task](vr-training-largest-gains-complex-laparoscopic-tasks.md) — related
 - [Spatial visualizers (SPAT) outperformed object visualizers and verbalizers across all laparoscopic training modalities and performance domains](spatial-learners-outperform-other-cognitive-styles.md) — related
 - [Error scores on the Fine Dissection task did not improve significantly in any group, suggesting error metrics are more resistant to change over short training intervals](fine-dissection-error-scores-not-improved.md) — related
+- [Only about one-third of residents believe FLS skills transfer to complex laparoscopic cases, with positivity declining as training advances](fls-skill-transferability-skepticism.md) — related

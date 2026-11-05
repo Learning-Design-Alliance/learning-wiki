@@ -53,3 +53,4 @@ The survey attributes this to Aiba et al. (2024), describing a system where lear
 - [AI-enhanced simulation in high-acuity nursing training improves clinical confidence and emergency preparedness](ai-simulation-improves-clinical-confidence-nursing.md) — related
 - [Guiding analytics for learners can improve mathematics achievement, retention, learning strategies, and reduce math anxiety](guiding-analytics-improves-achievement-and-strategies.md) — related
 - Before their first presentation, students in the two experimental groups did not differ in anxiety, preparedness, or motivation — related
+- [Pass/fail grading reforms show mixed outcomes, including reduced anxiety but possible lowered residency preparedness and a shadow economy of effort](pass-fail-grading-mixed-outcomes-shadow-economy.md) — related

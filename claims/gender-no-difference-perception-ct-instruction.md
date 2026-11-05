@@ -50,3 +50,4 @@ An independent samples t-test on questionnaire scores showed no significant gend
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — reports the opposite
 - [The vast majority of EFL learners perceive debate instruction as effective for developing critical thinking skills](students-perceive-debate-effective-for-ct.md) — related
 - [Gender and major differences in agentic engagement and autonomy-support perceptions among Chinese EFL students](gender-major-differences-ae-past.md) — related
+- [OSPE benefit scores differ by gender (females higher, P = .004) while OSCE benefit scores do not](gender-difference-ospe-benefit-score.md) — related

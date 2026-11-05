@@ -57,3 +57,4 @@ Retrospective pre/post comparison of procedures by the same six surgeons at one 
 - [Mean procedure time decreased from 3.45 to 1.53 minutes after training (p < 0.001)](sbml-probing-procedure-time-reduction.md) — related
 - [All training groups improved repair times with repeated exposure to the simulator](repeated-exposure-improves-durotomy-repair-times.md) — a broader claim this one bears on
 - [Trainee-performed laparoscopic pyloromyotomy takes modestly longer than specialist-performed cases (median +5 minutes)](trainee-lp-longer-operative-time.md) — related
+- [RCDP training with an ex vivo porcine intussusception model produces higher post-training theoretical and practical assessment scores than traditional teaching methods in radiology residents](rcdp-exvivo-model-higher-air-enema-scores.md) — related

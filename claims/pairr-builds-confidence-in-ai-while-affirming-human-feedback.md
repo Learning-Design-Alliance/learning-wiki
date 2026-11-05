@@ -53,3 +53,4 @@ The authors' initial 2024 study of PAIRR in 10 courses with 654 students, includ
 - [Frequency of AI use predicts AI feedback preference, while comfort with technology and frequency of human feedback predict relative preference for AI over human grading](regression-predictors-of-ai-assessment-preferences.md)
 - [AI and peer feedback differed in complementary ways: AI gave general, rubric-driven, actionable feedback while peers gave more specific, contextual feedback](ai-and-peer-feedback-complementary.md) — related
 - [Students who continued feedback conversations with ChatGPT perceived more utility in AI feedback than one-shot users](continued-ai-conversations-linked-to-perceived-utility.md) — related
+- [A majority of students (53.1%) preferred a combination of AI and expert feedback over either source alone](majority-prefer-combined-ai-expert-feedback.md) — related

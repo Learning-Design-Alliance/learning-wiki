@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: mery-2014
     resource: "https://journals.lib.pdx.edu/index.php/informationliteracy"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2014 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` A one-way ANOVA on post-test scores across control, screencast, and GotS groups showed a significant difference (F(2, 87) = 10.009, p < .001, η2 = .187), with the control group scoring significantly lower than both treatment groups. [→ Mery 2014](#mery-2014)

@@ -53,3 +53,4 @@ Bayesian network meta-analysis (R/JAGS, MCMC, random-effects) of 50 randomized c
 - [MDT-CBL produced the greatest increase in learning interest versus lecture-based learning, but 3D-PBL was the only top-ranked option with high-quality evidence](mdt-cbl-greatest-learning-interest-gains.md) — reports the opposite
 - [3D + PBL improves orthopedic skills in orthopedic education](3d-pbl-improves-orthopedic-skills.md) — related
 - [3D + PBL improves communication ability in orthopedic education](3d-pbl-improves-communication-ability-orthopedics.md) — related
+- [Postgraduates scored higher than undergraduates across outcomes but no between-group difference reached significance; undergraduates showed larger practical gains](vs-irrigation-subgroup-null-differences.md) — related

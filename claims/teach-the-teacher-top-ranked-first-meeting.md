@@ -47,3 +47,4 @@ Results section reporting Table 2a rankings: in the first meeting (five particip
 ## Related Claims
 - [European CPT teachers rank prescribing scenarios for clinical cases as the most needed online problem-based teaching resource](prescribing-scenarios-ranked-most-needed-cpt-resource.md) — related
 - [Teachers' proposed prescribing-education resources organize into ten prioritized themes under three overarching themes: learning outcomes, format of teaching, and resource and faculty development](ten-themes-three-overarching-cpt-resource-needs.md) — related
+- [A Nominal Group Technique with nine experts identifies and ranks 19 core learning activities for the innovation model](ngt-identifies-19-innovation-learning-activities.md) — related

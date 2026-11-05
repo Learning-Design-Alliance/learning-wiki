@@ -9,7 +9,6 @@ generated:
   at: 2026-11-02
 evidence_strength: mixed
 newest_evidence: 2015
-source_checked: 2026-11-02
 sources:
   - id: chen-et-al-2015
     resource: "https://eric.ed.gov/?id=ED588091"
@@ -33,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1` small
-> **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2015 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` There was no significant intervention effect of the SEALS program on students' peer victimization subtype placement. [→ Chen et al. 2015](#chen-et-al-2015)

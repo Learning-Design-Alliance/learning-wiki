@@ -72,3 +72,4 @@ K-means clustering with the elbow technique (Hartigan & Wong) on the same sample
 - [In hierarchical regression, gender and LD status contributed 6.4% to science achievements, and auditory learning preference contributed a further significant 3.1% beyond them](auditory-preference-predicts-achievement-beyond-gender-ld.md) — related
 - [Students' perception that visual strategies are better than traditional methods strongly predicts their preference for using them.](perceived-usefulness-predicts-preference-for-visual-strategies.md) — related
 - [Belief in combining learning modalities shows a weak positive correlation with exam scores](multimodal-belief-weak-positive-exam-correlation.md) — related
+- [Network analysis showed the strongest correlation among preparatory resources was between auditory and dynamic visual information (r=0.74)](auditory-dynamic-visual-strongest-resource-correlation.md) — related

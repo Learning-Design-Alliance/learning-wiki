@@ -62,6 +62,9 @@ The authors recommend formally embedding simulation-based learning into undergra
 - [Integrate the validated iVR simulator into early orthopedic training as a platform for deliberate practice with individualized feedback, pending longitudinal confirmation](ivr-deliberate-practice-platform-early-orthopedic-training.md)
 - [Develop a wider variety of CCS covering diverse oral diseases and transition to mobile platforms to broaden access](expand-ccs-disease-variety-mobile-platforms.md)
 - [Integrate multi-component simulation-plus-counseling strategies into midwifery curricula to strengthen respectful maternity care](integrate-simulation-counseling-into-midwifery-curricula.md)
+- [Structured case-based or simulation-based exercises that vary clinical modifiers and require explicit justification of choices](case-based-exercises-varying-clinical-modifiers.md)
+- [Integrate occupational adaptive learning with simulation training, case studies, and interdisciplinary collaboration to strengthen clinical pharmacist preparation](integrate-adaptive-learning-with-simulation-case-studies.md)
+- [Integrate ATLS-based simulation programs into nursing curricula](integrate-atls-simulation-into-nursing-curricula.md)
 
 ## Examples
 -

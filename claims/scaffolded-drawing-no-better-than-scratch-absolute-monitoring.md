@@ -9,7 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: moderate
 newest_evidence: 2020
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 sources:
   - id: julia-kollmer-2020
     resource: "https://doi.org/10.1007/s11251-020-09521-6"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i0` negligible
-> **Currency** · newest study 2020 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Julia Kollmer 2020: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims

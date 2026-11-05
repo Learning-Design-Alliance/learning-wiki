@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 293 claims (138 for, 140 mixed, 15 against) · 216 studies (68 causal, 64 associational, 28 review, 18 quant-synthesis, 15 theoretical, 13 qualitative, 10 design), `q1`–`q4` · 50 of 216 report an effect size · 277 claims rest on one study
+> **Evidence** · 294 claims (138 for, 141 mixed, 15 against) · 217 studies (68 causal, 65 associational, 28 review, 18 quant-synthesis, 15 theoretical, 13 qualitative, 10 design), `q1`–`q4` · 51 of 217 report an effect size · 278 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -340,6 +340,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Self-regulated learning partially mediates the effect of perceived teacher support on learning achievement.](../claims/srl-partially-mediate-teacher-support-achievement.md) [~W] — attached 2026-11-04 from Zhu An (2026), which proposed "Expected Value Theory-based model linking perceived teacher support, three SRL types, and learning achievement".
 - [In a structural model, self-regulation predicts time management (β = 0.72), time management predicts academic self-efficacy (β = 0.61), and self-regulation directly predicts academic self-efficacy (β = 0.44)](../claims/sem-direct-paths-sr-tm-ase.md) [~W] — attached 2026-11-05 from Çobanoğlu Necati (2026), which proposed "Integrated account positioning self-regulation as foundational capacity, time management as behavioral mechanism, and academic self-efficacy as cognitive outcome".
 - [Time management partially mediates the relationship between self-regulation and academic self-efficacy (standardized indirect effect β = 0.44, bias-corrected 95% CI (0.17, 0.41))](../claims/tm-partial-mediation-sr-ase.md) [~W] — attached 2026-11-05 from Çobanoğlu Necati (2026), which proposed "Integrated account positioning self-regulation as foundational capacity, time management as behavioral mechanism, and academic self-efficacy as cognitive outcome".
+- [First-year nursing students strongly overestimate their social/communication skills relative to examiner ratings (mean difference −0.141, d = 0.99)](../claims/nursing-students-overestimate-communication-osce.md) [~W] — attached 2026-11-05 from Roszipal Benjamin et al. (2025), which proposed "Calibration-as-monitoring account within self-regulated learning: transparent criteria support accurate self-assessment, tacit interpersonal standards foster overestimation".
 
 ## The evidence by question
 

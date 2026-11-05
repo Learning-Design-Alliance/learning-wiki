@@ -54,3 +54,4 @@ Usability assessment in the multisite trial used the 10-item SUS with the 21 stu
 - [Students rated the HoloLens 2 above average on the System Usability Scale (mean 79.4)](hololens-sus-79-above-average-usability.md) — related
 - [Immersive VR training was acceptable and usable, but cybersickness affected nearly half of participants](vr-training-acceptable-usable-cybersickness.md) — related
 - [Students rated Meta Quest 3 headset usability and comfort very highly (mean 4.7 ± 0.5) and openness to curricular VR integration rose from 3.6 to 4.4](vr-pilot-headset-usability-openness.md) — related
+- [The VR system received a mean System Usability Scale score of 76.68, indicating good usability](vr-als-system-sus-76-good-usability.md) — related

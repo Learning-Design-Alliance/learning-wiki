@@ -52,3 +52,4 @@ User experience survey (CSQ-VR plus satisfaction items) completed by all 17 part
 - [Cybersickness remains a persistent practical challenge, affecting approximately 42% of VR users, and can occur in AR where symptoms may exceed those in VR](cybersickness-prevalence-vr-ar-immersive-learning.md) — reports the opposite
 - [Motion sickness remains a disagreeable side effect of IVR serious games for a minority of participants](ivr-sgs-motion-sickness-side-effect.md) — related
 - [Adverse effects of IVR simulation in nursing education are generally mild visual and vestibular symptoms](ivr-adverse-effects-mild-visual-vestibular.md) — related
+- [Most students remained open to VR use in anatomy examinations despite preferring physical specimens](students-open-to-vr-despite-preference.md) — related

@@ -55,3 +55,4 @@ Qualitative arm: written responses to open questions after training were coded a
 - [First-year residents describe VR simulation as a safe and flexible learning tool for training in emergency care](residents-perceive-vr-safe-flexible-emergency-care.md) — related
 - [Medical students experienced strong immersion in VR simulation due to realistic environments, but reduced interactivity constrained authenticity](vr-immersion-strong-but-interactivity-limited.md) — related
 - [Perceived realism of virtual patient scenarios and comfort interacting in VR rose substantially from pre to post (realism 2.9 to 4.4; VR comfort 3.0 to 4.6)](vr-pilot-realism-comfort-gains.md) — related
+- [All 37 respondents affirmed that OSCEai filled a gap in their medical training](osceai-fills-training-gap.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: docktor-2015
     resource: "https://doi.org/10.1103/PhysRevSTPER.11.020106"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Conceptual question scores favored CPS classes at all schools, with significant differences of 10% at school A and 20% at school B. [→ Docktor 2015](#docktor-2015)

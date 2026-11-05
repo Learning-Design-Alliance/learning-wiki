@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2012
-source_checked: 2026-10-18
+source_checked: 2026-11-05
 sources:
   - id: cook-2012
     resource: "http://www.ed.gov/about/offices/list/opepd/ppss/index.html"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2012 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students' initial ELP level influences the expected time frame for attaining the English-proficient criterion, so more refined time-to-English-proficiency criteria can be derived by initial proficiency level and grade cluster. [→ Cook 2012](#cook-2012)

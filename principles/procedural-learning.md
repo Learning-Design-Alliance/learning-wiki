@@ -18,7 +18,7 @@ sources:
 # Procedural Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 53 claims (33 for, 18 mixed, 2 against) · 69 studies (35 causal, 14 review, 9 quant-synthesis, 7 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 11 of 69 report an effect size · 43 claims rest on one study
+> **Evidence** · 55 claims (35 for, 18 mixed, 2 against) · 70 studies (36 causal, 14 review, 9 quant-synthesis, 7 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 11 of 70 report an effect size · 45 claims rest on one study
 
 ## Conditional relationship
 
@@ -139,6 +139,8 @@ Claims that bear on procedural learning but are not part of the model above, eac
 - [Video-assisted instruction improved CVC psychomotor skill performance one week after training, with large effect sizes](../claims/video-assisted-instruction-cvc-psychomotor-skills.md) [+W] — attached 2026-11-04 from Koç Gamze et al. (2026), which proposed "Video-assisted instruction supports short-term psychomotor skill acquisition in simulated clinical training".
 - [Modified Peyton’s four-step approach yields higher immediate post-training OSCE scores than traditional Peyton in resident clinical skills training](../claims/modified-peyton-higher-immediate-osce.md) [+W] — attached 2026-11-04 from Liu Bingyan et al. (2026), which proposed "Modified Peyton’s four-step pattern: video playback, deconstruction with post-hoc questions, peer group learning with mutual supervision, and video-recorded practice".
 - [Modified Peyton’s four-step approach yields better one-month skill retention than traditional Peyton](../claims/modified-peyton-one-month-retention.md) [+W] — attached 2026-11-04 from Liu Bingyan et al. (2026), which proposed "Modified Peyton’s four-step pattern: video playback, deconstruction with post-hoc questions, peer group learning with mutual supervision, and video-recorded practice".
+- [RCDP training with an ex vivo porcine intussusception model produces higher post-training theoretical and practical assessment scores than traditional teaching methods in radiology residents](../claims/rcdp-exvivo-model-higher-air-enema-scores.md) [+W] — attached 2026-11-05 from Xie Lichun et al. (2025), which proposed "RCDP five-step chunked procedural training with iterative feedback until mastery"; tests this page's relationship.
+- [RCDP training yields larger pre-to-post improvement effect sizes than TTM for theoretical and practical air enema scores](../claims/rcdp-larger-prepost-effect-sizes.md) [+W] — attached 2026-11-05 from Xie Lichun et al. (2025), which proposed "RCDP five-step chunked procedural training with iterative feedback until mastery"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

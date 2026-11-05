@@ -9,7 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-10-29
+source_checked: 2026-11-05
 sources:
   - id: jakob-schwerter-2022
     resource: "https://doi.org/10.1007/s11423-022-10105-z"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2022 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In random-effects regressions, sessions for which students reported having watched the preparation videos had a learning-phase proportion correct 0.109 higher, and solving the exercise sheet (0.084) was also a significant predictor; preparation was self-reported, not assigned, so these are associations, not shown causes. [→ Jakob Schwerter 2022](#jakob-schwerter-2022)

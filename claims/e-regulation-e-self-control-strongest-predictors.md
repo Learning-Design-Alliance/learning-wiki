@@ -9,7 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-10-29
+source_checked: 2026-11-05
 sources:
   - id: ana-cebollero-salinas-2022
     resource: "https://doi.org/10.1016/j.compedu.2022.104464"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
-> **Currency** · newest study 2022 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` In a cross-sectional multi-group SEM, higher emotional e-regulation goes with fewer habitual digital behaviors for boys and girls (β = −0.39) and both age groups (β = −0.34), and e-self-control of impulsiveness has an equal negative weight by gender (β = −0.35) but a larger one for younger students (β = −0.45 vs. β = −0.24); these are statistical predictors, not causes. [→ Ana Cebollero-Salinas 2022](#ana-cebollero-salinas-2022)

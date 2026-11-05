@@ -52,3 +52,4 @@ Difficulty–accuracy analysis (Fig. 5) of the 30-iteration accuracy data across
 - [All three LLMs outscored 32 human SRTP trainees on the mock exam overall, though the gap narrowed for the most complex questions](llms-outperform-human-trainees-srtp-mock-exam.md) — related
 - [Next-turn recovery from impasses declines steadily as impasse depth increases, with help-seeking impasses declining most sharply](recovery-declines-with-impasse-depth.md) — related
 - [Proportions of variance explained follow a curvilinear pattern across the six taxonomy levels](curvilinear-variance-pattern-across-taxonomy-levels.md) — related
+- [New-generation LLMs significantly outperform GPT-4o on knowledge-based question types (A1, B1) but not on case-analysis types (A2, A3/A4)](cdle-knowledge-vs-case-analysis-question-types.md) — related

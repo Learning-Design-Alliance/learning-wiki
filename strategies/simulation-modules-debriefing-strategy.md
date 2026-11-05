@@ -56,6 +56,8 @@ The authors recommend that advanced simulation-based scenarios be embedded into 
 - [Structured post-scenario debriefing after each simulation scenario](post-scenario-debriefing-triage-simulation.md)
 - [Integrate narrative medicine modules, simulation-based patient interaction, reflective writing, and digital storytelling into nursing curricula](integrate-narrative-medicine-digital-storytelling-nursing-curricula.md)
 - [Integrate VR simulation design with prebriefing, intuitive interfaces, adaptive difficulty, scenario variability, ergonomic hardware, and structured debriefing](vr-design-balance-usability-load-debriefing-strategy.md)
+- [Embed short, high-frequency RCDP-based interprofessional simulation sessions early in undergraduate health curricula](embed-rcdp-ipse-sessions-undergraduate.md)
+- [Integrate structured reflective sessions into clinical curricula, tailored to students' developmental stage](integrate-structured-reflection-clinical-curricula.md)
 
 ## Examples
 -

@@ -56,3 +56,4 @@ The review reports Strout et al.'s interprofessional mass casualty incident simu
 - [Educational programs incorporating realistic simulations, virtual technologies, and interprofessional exercises are most effective in improving technical skills, confidence, and crisis management](rea-36-studies-simulation-virtual-interprofessional-most-effective.md) — a broader claim this one bears on
 - [Postactivity student evaluations of the triage simulation were favorable](favorable-student-evaluations-triage-simulation.md) — related
 - [Students reported in open-ended responses that the simulation was positive and improved their interprofessional communication and confidence](student-open-ended-feedback-positive-simulation-experience.md) — related
+- [Self-perceived confidence improved significantly across all ten surveyed pediatric CPR and interprofessional collaboration items (p < 0.001 each)](ipstar-confidence-gains.md) — related

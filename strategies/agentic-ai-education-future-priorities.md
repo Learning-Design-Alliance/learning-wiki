@@ -57,6 +57,7 @@ Drawing on the converging gaps across the reviewed literature, the review recomm
 - [Employ experimental and longitudinal designs with standardised measurement tools in future pressure injury prevention research.](experimental-longitudinal-pi-research-designs.md)
 - [Extend AI tutor implementation across modules, expand question banks, and establish ethical oversight guidelines](future-directions-ai-tutor-expansion-and-oversight.md)
 - [Integrate AI tools into A-SPIRE's practical stages as an adjunct to human expertise, with ethical oversight](ai-integration-into-a-spire-practical-stages.md)
+- [Future CT-in-ELT research should prioritise inclusive, data-driven, longitudinal approaches integrating pedagogical experimentation and sociocultural perspectives](ct-elt-future-research-recommendations.md)
 
 ## Examples
 -

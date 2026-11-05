@@ -54,3 +54,4 @@ The statement's limitations section asserts that "comprehensive data on patient 
 - [Evidence on long-term retention and transfer of clinical communication skills to clinical practice remained inconsistent or lacking across included reviews](vp-communication-long-term-retention-transfer-inconsistent.md) — related
 - [Technology-based interventions in psychiatry education mostly show positive short-term effects on knowledge, skills, confidence, and empathy, but evidence of sustained learning is inconsistent](psychiatry-ed-tech-short-term-gains.md) — related
 - [Evidence for transfer of SBE-gained knowledge and skills to clinical practice is weak, with scarce control groups and longitudinal studies](sbe-evidence-gaps-transfer-weak.md) — possibly the same claim (merge candidate)
+- [Gains in patient outcomes rise with clinical experience but plateau once a threshold caseload is reached](patient-outcomes-plateau-at-threshold-caseload.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: abeysuriya-v-2026
     resource: "https://doi.org/10.1186/s12909-026-09488-x"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Facilitator notes recorded higher engagement compared with lecture-based sessions. [→ Abeysuriya V. 2026](#abeysuriya-v-2026)

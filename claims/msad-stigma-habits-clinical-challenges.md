@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2025
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 recheck_by: 2030
 sources:
   - id: khiri-nasr-and-kristy-howells-2025
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2030: baselines and conditions change
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The scoping review's thematic synthesis lists stigma and personal health habits, and challenges in clinical practice (lack of time, funding and guidance; low referral rates to dietitians), among the reasons for the nutrition knowledge deficit; it argues that stigma-driven avoidance and time and funding pressures widen the gap, while for health habits and referrals it reports associations and barriers rather than an effect on knowledge. [→ Khiri Nasr and Kristy Howells 2025](#khiri-nasr-and-kristy-howells-2025)

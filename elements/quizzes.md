@@ -103,6 +103,7 @@ Quizzes are one of the most robustly supported instructional elements: testing i
 - [Apply retrieval practice (quizzes, peer teaching, flipped classroom) and monitor detail loss to balance gist and episodic memory](../strategies/retrieval-practice-balance-gist-detail-strategy.md)
 - [Use weekly formative quizzes during EFL listening instruction to support achievement and reduce anxiety](../strategies/weekly-formative-quizzes-efl-listening-instruction.md)
 - [Differentiate e-module design by achievement level: add spaced repetition and adaptive quizzes for low achievers and advanced case-based challenges for high achievers](../strategies/differentiated-e-module-design-by-achievement-level.md)
+- [Provide post-exam feedback with correct answers and guideline references to increase educational value](../strategies/post-exam-feedback-references-strategy.md)
 
 ## Key Sources
 - Roediger, H. L., & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. *Psychological Science, 17*(3), 249–255. [doi:10.1111/j.1467-9280.2006.01693.x](https://doi.org/10.1111/j.1467-9280.2006.01693.x)

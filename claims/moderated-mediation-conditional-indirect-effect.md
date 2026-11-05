@@ -54,3 +54,4 @@ Bootstrap conditional indirect effect analysis (5,000 resamples) on the 1,198-st
 - [Psychological availability mediates the positive pathway from teacher–AI collaboration to work engagement](psychological-availability-mediation-teacher-ai-engagement.md) — related
 - [Teacher–AI collaboration is positively related to university teachers' work engagement](teacher-ai-collaboration-positively-related-work-engagement.md) — related
 - [Open science engagement significantly moderates the mediated pathway, amplifying the indirect effect by 58% under high-engagement conditions](open-science-moderates-mediated-pathway-58-percent.md) — related
+- [AI integration amplifies the positive effects of flourishing and engagement on English learning motivation](ai-integration-moderates-motivation-pathways.md) — a narrower finding that bears on this claim

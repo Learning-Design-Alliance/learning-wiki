@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2019
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: wahabi-ha-2019
     resource: "https://doi.org/10.2196/12998"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2019 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Compared with no intervention, OCDE may improve knowledge gain (RM range 1.36-0.98; 4 studies, 401 participants; low grade of evidence). [→ Wahabi HA 2019](#wahabi-ha-2019)

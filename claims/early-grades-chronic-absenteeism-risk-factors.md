@@ -74,3 +74,4 @@ The source is a fact sheet for schools produced for Regional Educational Laborat
 - [Attendance patterns indicate students were substantially more engaged in Discovery sessions than in regular classes](discovery-attendance-exceeds-class-attendance.md) — related
 - [Early childhood homelessness and maltreatment are associated with lower achievement, poorer social skills, and higher absenteeism in early primary grades](early-homelessness-maltreatment-associated-school-outcomes.md) — related
 - [Early marriage is associated with poorer academic performance and higher chronic absenteeism among female Haor students](early-marriage-poorer-performance-absenteeism-female-students.md) — a narrower finding that bears on this claim
+- [No absenteeism, preschool attendance and higher monthly income each significantly predicted better academic performance in the adjusted model](attendance-preschool-income-predict-academic-performance-ethiopia.md) — related

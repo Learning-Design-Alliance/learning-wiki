@@ -49,3 +49,4 @@ Multivariable logistic regression in the cross-sectional study of 481 pupils; ma
 - [Exclusive breastfeeding doubled the odds of good academic performance](exclusive-breastfeeding-doubled-odds-good-performance.md) — related
 - [Maternal literacy and education are associated with better academic performance of first-cycle primary school children in North Shoa Zone, Ethiopia](maternal-education-associated-academic-performance-ethiopia.md) — related
 - [Birth weights of 2.5–3.9 kg and ≥ 4.0 kg were associated with reduced odds of good academic performance compared with < 2.5 kg](birth-weight-reduced-odds-good-performance.md) — related
+- [Father-headed households showed significantly higher odds of good academic performance compared with mother-headed households](father-head-household-academic-performance-ethiopia.md) — related

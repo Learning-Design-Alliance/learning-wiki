@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-05
 sources:
   - id: arora-samridhi-2025
     resource: "https://doi.org/10.4103/aam.aam_104_25"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` On the retention test conducted 4 weeks after the sessions, the SDL-taught topic scored 6.61 ± 0.73 versus 6.01 ± 0.71 for the lecture-taught topic, P = 0.0009. [→ Arora Samridhi 2025](#arora-samridhi-2025)

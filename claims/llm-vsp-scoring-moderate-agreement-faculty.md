@@ -53,3 +53,4 @@ Cross-sectional observational study of 92 fourth-year medical students each comp
 - [An automated LLM assessor rates 3E clinical communication skills with agreement comparable to individual human raters](llm-assessor-agrees-with-human-raters-3e.md) — related
 - [A sensitivity analysis in the lowest performance quartile showed attenuated but consistent AI-faculty agreement](lowest-quartile-attenuated-agreement.md) — a narrower finding that bears on this claim
 - [AI-generated OPTION-12 ratings agree strongly with human expert ratings of shared decision-making performance in AI-simulated consultations](ai-human-option12-agreement-feasibility.md) — related
+- [More connectivity failures during VSP interviews were associated with lower student ratings](connectivity-failures-lower-vsp-ratings.md) — related

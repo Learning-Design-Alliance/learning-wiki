@@ -55,3 +55,4 @@ Teaching effectiveness was assessed with a self-developed 12-item questionnaire 
 - [Understanding (problem-oriented) teaching outperformed traditional teaching on problem solving and emotional expression](understanding-teaching-problem-solving-emotional-expression.md) — related
 - [Students attributed improvements in self-directed learning and communication skills to blended teaching](blended-self-reported-autonomous-learning-gains.md) — related
 - [SKIT improves recognition of thinking ability, communication skills, and practical application, but not significantly learning interest or knowledge understanding](skit-recognition-teaching-process-mixed.md) — related
+- [Students in the WeChat-based PBL group reported more favorable perceptions of motivation, knowledge acquisition, communication, self-learning, clinical thinking, and problem-solving than traditional-teaching students](wechat-pbl-student-perceptions-favorable.md) — related
