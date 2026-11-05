@@ -10,6 +10,14 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 
 ---
 
+## 2026-11-05
+
+* **Claim**: [theories/deep-learning-knowledge-tracing-models](theories/deep-learning-knowledge-tracing-models.md) — Linked claim from When is deep learning the best approach to knowledge tracing? (Gervet et al., 2020), doi:10.5281/zenodo.4143614
+* **Claim**: [principles/adaptive-learning](principles/adaptive-learning.md) — Linked claim from When is deep learning the best approach to knowledge tracing? (Gervet et al., 2020), doi:10.5281/zenodo.4143614
+* **Source**: [claims/learner-models-miscalibrated-outside-data-interval](claims/learner-models-miscalibrated-outside-data-interval.md) — Added verified DOI 10.5281/zenodo.4143614 to the Gervet et al. (2020) citations; linked the two new claims from the same study
+* **Ingest**: [claims/expert-kc-models-add-little-to-performance-prediction](claims/expert-kc-models-add-little-to-performance-prediction.md) — When is deep learning the best approach to knowledge tracing? (Gervet et al., 2020), doi:10.5281/zenodo.4143614
+* **Ingest**: [claims/knowledge-tracing-model-choice-depends-on-dataset](claims/knowledge-tracing-model-choice-depends-on-dataset.md) — When is deep learning the best approach to knowledge tracing? (Gervet et al., 2020), doi:10.5281/zenodo.4143614
+
 ## 2026-11-04
 
 * **Ingest**: [claims/undocumented-renal-recovery-discharge-gap](claims/undocumented-renal-recovery-discharge-gap.md) — Ingested from pmc-13312666 (Pediatric acute kidney injury in Rwanda: awareness, early detection, and timely management to improve outcomes, a multi-center mixed method study.) via eval_harness.py + ingest_extractions.py

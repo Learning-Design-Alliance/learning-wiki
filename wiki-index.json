@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":49438,
+"claim":49440,
 "design":2540,
 "element":1057,
 "learner-variable":75,
@@ -151043,6 +151043,16 @@
 "type":"claim"
 },
 {
+"description":"On seven of nine tutoring-system datasets, adding the datasets' expert-designed knowledge-component features to a logistic-regression learner model raised prediction accuracy by 0.01 AUC or less, which the authors read as a sign of low-quality knowledge-component models.",
+"evidence_strength":"moderate",
+"id":"expert-kc-models-add-little-to-performance-prediction",
+"newest_evidence":"2020",
+"path":"claims/expert-kc-models-add-little-to-performance-prediction.md",
+"status":"review",
+"title":"Expert-designed knowledge-component models add little to the accuracy of logistic-regression learner models on most tutoring datasets",
+"type":"claim"
+},
+{
 "description":"Comparing self-generated keywords with expert keywords increases bias, specifically underconfidence",
 "evidence_strength":"moderate",
 "id":"expert-keyword-comparison-increases-underconfidence",
@@ -238840,6 +238850,16 @@
 "recheck_by":"2030",
 "status":"review",
 "title":"Knowledge-test scores differed strongly between German school types, with academic-track students scoring highest",
+"type":"claim"
+},
+{
+"description":"In a comparison on nine tutoring-system datasets, a logistic regression model with well-chosen features predicted best on four and deep knowledge tracing on five, depending mainly on how many learners attempted each item, how sequentially learners moved through the material and how long each learner's history was.",
+"evidence_strength":"moderate",
+"id":"knowledge-tracing-model-choice-depends-on-dataset",
+"newest_evidence":"2020",
+"path":"claims/knowledge-tracing-model-choice-depends-on-dataset.md",
+"status":"review",
+"title":"Which knowledge-tracing model predicts learner performance best depends on the data, with logistic regression leading on smaller datasets and very long learner histories and deep knowledge tracing on large or sequential ones",
 "type":"claim"
 },
 {
@@ -686921,6 +686941,7 @@
 "expert-inter-rater-agreement-high-written-exam":"expert-inter-rater-agreement-high-written-exam",
 "expert-interview-validation-mbpa-framework":"expert-interview-validation-mbpa-framework",
 "expert-interviews-miss-up-to-70-percent-subtasks":"expert-interviews-miss-up-to-70-percent-subtasks",
+"expert-kc-models-add-little-to-performance-prediction":"expert-kc-models-add-little-to-performance-prediction",
 "expert-keyword-comparison-increases-underconfidence":"expert-keyword-comparison-increases-underconfidence",
 "expert-leaderboards-separate-ai-tutors":"expert-leaderboards-separate-ai-tutors",
 "expert-llm-error-patterns-differ":"expert-llm-error-patterns-differ",
@@ -695525,6 +695546,7 @@
 "knowledge-test-correlates-with-self-assessment":"knowledge-test-correlates-with-self-assessment",
 "knowledge-test-gains-after-creative-projects":"knowledge-test-gains-after-creative-projects",
 "knowledge-test-school-type-differences":"knowledge-test-school-type-differences",
+"knowledge-tracing-model-choice-depends-on-dataset":"knowledge-tracing-model-choice-depends-on-dataset",
 "knowledge-transfer-alleviates-cold-start-kt":"knowledge-transfer-alleviates-cold-start-kt",
 "knowledge-transforming-process-working-memory-rhetorical-goals":"knowledge-transforming-process-working-memory-rhetorical-goals",
 "knowledge-type-complexity-learning-difficulty":"knowledge-type-complexity-learning-difficulty",
