@@ -8,11 +8,11 @@ This wiki is written by language models, from published research, and checked by
 
 | | |
 |---|---|
-| Claims | 50,649, from 12,121 sources |
+| Claims | 50,649, from 12,122 sources |
 | Reviewed by a person | 0 |
 | Every evidence entry compared with its source by the faithfulness judge | 7,037 claims (14%) |
 | Claims citing at least one DOI | 37,577 claims (74%) |
-| Sources whose citations went through the Crossref identity gate | 11,324 of 12,121 |
+| Sources whose citations went through the Crossref identity gate | 11,324 of 12,122 |
 | Sources read for impossible statistics and invented references | 6,251 of 7,135 (2026-10-25) |
 | Cited DOIs checked for retraction | 6,793 of 6,793 (2026-10-25) |
 | Retracted sources found and acted on | 4 |
@@ -27,7 +27,7 @@ Each source is screened against the published [inclusion criteria](https://githu
 
 **Cannot catch.** A source that is in scope and badly done. Inclusion is about what a source is, not how good it is.
 
-**Coverage.** 14,377 sources reviewed: 12,121 ingested, 2,256 refused (out-of-scope 1,873, no-ingestable-content 207, validation-error 132, uncoded 22, opinion-piece 17, parse-error 3, no-contributions-extracted 2).
+**Coverage.** 14,378 sources reviewed: 12,122 ingested, 2,256 refused (out-of-scope 1,873, no-ingestable-content 207, validation-error 132, uncoded 22, opinion-piece 17, parse-error 3, no-contributions-extracted 2).
 
 ### 2. Extraction and structural validation
 
@@ -43,7 +43,7 @@ Every DOI written on a page is resolved against Crossref (DataCite after a Cross
 
 **Cannot catch.** A citation with no DOI and no registry record; a correct citation to a study that is itself wrong.
 
-**Coverage.** 11,324 of 12,121 ingested sources passed the gate with the registry reachable; 441 DOIs removed as the wrong paper, 81 flagged for a person; 3 book citations verified by a person.
+**Coverage.** 11,324 of 12,122 ingested sources passed the gate with the registry reachable; 441 DOIs removed as the wrong paper, 81 flagged for a person; 3 book citations verified by a person.
 
 ### 4. A verifiable source for every claim
 
