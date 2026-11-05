@@ -59,7 +59,7 @@ A second model, from a different provider, reads each evidence entry beside the 
 
 **Cannot catch.** A claim checked only against an abstract, for detail an abstract does not carry. The judge is a model and has been wrong; its failures are read before they are acted on.
 
-**Coverage.** 7,067 claims (14%) have had every evidence entry compared with its source and passed; 185 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
+**Coverage.** 7,067 claims (14%) have had every evidence entry compared with its source and passed; 186 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
 
 ### 6. Can the source be believed?
 
