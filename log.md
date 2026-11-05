@@ -10,6 +10,10 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 
 ---
 
+## 2026-11-05
+
+* **Content**: [research-methods/student-digital-twin](research-methods/student-digital-twin.md) — Wright & Davidson (2020), How to tell the difference between a model and a digital twin, doi:10.1186/s40323-020-00147-4
+
 ## 2026-11-04
 
 * **Ingest**: [claims/voluntary-choice-suppression-effect-multivariable](claims/voluntary-choice-suppression-effect-multivariable.md) — Ingested from pmc-13240153 (Newly Graduated Nurses' Professional Competency and Caring Perception: A Cross-Sectional Correlational Study.) via eval_harness.py + ingest_extractions.py
