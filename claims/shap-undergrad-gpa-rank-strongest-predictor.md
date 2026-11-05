@@ -71,3 +71,4 @@ SHAP summary-plot analysis of psychosocial predictors in the same model; the art
 - [Deletion tests show SHAP sentence rankings are more faithful than LLM-generated rationales for PLM scorers](shap-more-faithful-than-llm-rationales-deletion.md) — related
 - [Feature importance analyses rank failed courses first for predicting academic performance, followed by institutional and academic background variables, with some regression-specific differences](feature-importance-failed-courses-institutional-background.md) — related
 - [An XGBoost model predicted post-class test performance well, with knowledge mastery and learning interest the strongest SHAP contributors](xgboost-shap-knowledge-mastery-interest-predictors.md) — related
+- [Biology and Introduction to Health Sciences midterm scores are the strongest predictors of at-risk classification, with SHAP analyses showing the largest case-level impact](biology-intro-midterms-strongest-predictors.md) — related

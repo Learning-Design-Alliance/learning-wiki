@@ -58,8 +58,10 @@ Facilitation works only when it is structured, not laissez-faire: guided forms o
 6. Debrief both content and process, and adjust the degree of autonomy for the next cycle.
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — facilitation begins by surfacing what students bring, not delivering what they lack
 - [Acting-Role-Play](../strategies/acting-role-play.md) — a facilitated format in which students carry the activity themselves
+- [Tutor facilitation through four dynamic roles during group inquiry](tutor-four-role-dynamic-facilitation.md)
 
 ## Examples
 - **[Collaborative Learning](../patterns/collaborative-learning.md)** — the facilitator designs group tasks and monitors, while groups carry the cognitive work; structured cooperative formats show reliable achievement gains [Active learning improves exam performance.](../claims/active-learning-improves-exam-performance.md) [+S]

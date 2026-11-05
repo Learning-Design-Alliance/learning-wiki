@@ -58,3 +58,4 @@ LC-CUSUM analysis of the prospective cohort using console time thresholds (<165/
 - [Length of hospital stay decreased significantly with surgical experience in laparoscopic radical prostatectomy, while catheterization duration did not change](hospital-stay-decreases-with-lrp-experience.md) — related
 - [Operative time in laparoscopic radical prostatectomy reaches a proficiency plateau after the 61st case in this series](lrp-operative-time-plateau-case-61.md) — related
 - [OPI-derived learning curves stabilize within the first 10 months of a surgeon's experience despite increasing case complexity](opi-learning-curve-stabilizes-ten-months.md) — related
+- [Pooled mean CUSUM analysis identifies a turning point of 20 procedures for US-guided distal radial artery cannulation by novice anesthesiologists](cusum-turning-point-20-procedures-dra-cannulation.md) — related

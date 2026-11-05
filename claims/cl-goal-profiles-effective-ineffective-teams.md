@@ -58,3 +58,4 @@ Content analysis of stimulated-recall group interviews, with goal statements cat
 - [Work-avoidance goals show a small positive association with academic dishonesty](work-avoidance-goals-positive-dishonesty.md) — related
 - [Readers with a study goal paraphrase and repeat text more often than readers with an entertainment goal](study-goal-more-paraphrase-repetition.md) — related
 - [Mastery goals are negatively associated with academic dishonesty across studies](mastery-goals-negative-academic-dishonesty.md) — related
+- [Performance avoidance goals are negatively associated with in-degree but positively associated with out-degree centrality, suggesting ineffective social outreach](performance-avoidance-goals-ineffective-social-outreach.md) — related

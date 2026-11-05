@@ -42,6 +42,7 @@ The authors recommend that "Educational deployments require urgent auditing, as 
 - [AI in Education Toolkit for Racial Equity](ai_in_education_toolkit_for_racial_equity.md)
 - [Evaluate AI systems in DLPs for fairness across learner groups, not just overall accuracy](evaluate-ai-fairness-across-learner-groups.md)
 - [Four-step deployment preparation for patient-facing generative AI: audit, triage, fill priority gaps, and retain evidence](four-step-patient-facing-ai-deployment-preparation.md)
+- [Deploy the predictive model as a mid-semester triage tool with capacity-aligned thresholds, recalibration, non-punitive governance, and bias auditing](mid-semester-triage-deployment-strategy.md)
 
 ## Examples
 -

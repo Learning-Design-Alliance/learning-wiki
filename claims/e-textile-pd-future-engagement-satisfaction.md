@@ -70,3 +70,4 @@ Enjoyment/satisfaction survey (N = 31). Negatively framed items showed minimal n
 - [Participants generally perceive NTS training programs as beneficial despite variations in teaching strategies](nts-training-icu-positive-reaction-perceptions.md) — related
 - [Students who used the module reported positive perceptions and supported its curricular implementation with modifications](student-perceptions-online-caries-module.md) — related
 - [Interns highly accepted the formative OSCE, with 97% agreeing it was valuable and 94% agreeing it should continue](osce-high-acceptance-interns-valuable-continue.md) — related
+- [Participants rated the CCC note-taking strategy highly acceptable on a social validity survey](ccc-social-validity-high-acceptability.md) — related

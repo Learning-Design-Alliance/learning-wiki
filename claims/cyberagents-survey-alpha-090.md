@@ -92,3 +92,4 @@ Reliability analysis of the post-study Likert survey administered to undergradua
 - [The adapted MIQ shows excellent internal consistency in this sample (Cronbach's alpha 0.90 at baseline and 0.88 post-workshop)](adapted-miq-internal-consistency-pvc.md) — related
 - [The satisfaction survey showed excellent internal consistency while the competence questionnaire showed borderline reliability](cblc-instrument-reliability-contrast.md) — related
 - [The European Prescribing Exam demonstrates adequate reliability and content validity in pilot administration](european-prescribing-exam-psychometric-quality.md) — related
+- [The purpose-built 19-item questionnaire showed excellent internal consistency (Cronbach's Alpha = 0.910) but lacked formal validation](purpose-built-questionnaire-alpha-0910.md) — related

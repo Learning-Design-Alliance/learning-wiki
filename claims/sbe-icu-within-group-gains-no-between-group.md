@@ -88,3 +88,4 @@ A scoping review of simulation-based education (SBE) for delirium recognition. I
 - [Both video groups report higher pre-training self-rated confidence than controls, with no POV–F-t-F difference](pre-class-video-higher-pre-training-confidence-cvc.md) — related
 - [Scenario-based animation and routine skill video both increased nursing students' ROM exercise knowledge, with no significant difference between the groups](rom-animation-skill-video-equal-knowledge-gains.md) — possibly the same claim (merge candidate)
 - [Knowledge scores improved over time in both groups, with a stronger overall effect in the collaborative learning group](knowledge-gains-over-time-both-groups-collaborative-stronger.md) — related
+- [Both telesimulation and videoconferencing didactics produced sustained gains in clinical lactation self-efficacy with no significant between-group difference](lactation-self-efficacy-gains-both-arms.md) — related

@@ -53,3 +53,4 @@ Outcome Likert-scale questionnaire (Table 2, n = 64) covering nine skill outcome
 - [Very high majorities of students rated high-fidelity simulation as enhancing learning, clinical reasoning, decision-making, and value](coffey-hfs-student-ratings.md) — related
 - [Simulation type–outcome alignment: high-fidelity formats favour judgment and decision-making, VR and games favour empathy and reflection](simulation-type-outcome-alignment.md) — related
 - [No included study measured critical thinking as an explicit outcome or compared simulation modalities directly](sbe-delirium-no-explicit-ct-measure.md) — reports the opposite
+- [According to the study's mapping onto Barnett's framework, SBL in nursing education can promote only the 2 lowest levels of criticality (critical skills and reflexivity), not the highest levels.](sbl-promotes-two-lowest-criticality-levels.md) — related

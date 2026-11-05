@@ -49,3 +49,4 @@ Descriptive statistics from a survey of 1,299 middle school students using MI Wr
 - [Some students struggled to use Ecree's and MI Write's automated feedback](some-students-struggled-automated-feedback-use.md) — related
 - [A 2021–2022 study examined teachers' and students' use of MI Write and its impact on student and teacher outcomes](mi-write-study-examined-use-and-impact.md) — related
 - [Students with higher writing proficiency rated MI Write as less useable and useful, but proficiency was not related to desirability](writing-proficiency-negatively-related-usability-usefulness-not-desirability.md) — related
+- [Students perceived automated note feedback as clearer, more direct, and easier for comparison than model note feedback](automated-feedback-clearer-easier-comparison.md) — related

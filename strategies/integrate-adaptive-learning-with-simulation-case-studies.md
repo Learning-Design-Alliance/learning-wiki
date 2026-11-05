@@ -54,6 +54,7 @@ In the discussion, the authors recommend combining pre-training occupational ada
 - [Integrate case-based learning, visual diagnostic training, and interdisciplinary teaching into medical curricula to strengthen oral diagnosis](integrate-case-based-oral-diagnosis-training-strategy.md)
 - [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
 - [Strengthen final-year nursing preparation through competency-based, simulation-supported education focused on clinical skills, critical thinking, and ethics](competency-simulation-education-reduce-error-tendency.md)
+- [Integrate case-based learning, supervised clinical simulations and e-learning modules aligned with WHO and CDC standards into infection control curricula](integrate-case-based-simulation-elearning-ipc-training.md)
 
 ## Examples
 -

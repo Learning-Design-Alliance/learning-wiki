@@ -51,3 +51,4 @@ Focus-group interview responses on out-of-class study behavior. The article repo
 - [Students generally resisted learning topics on their own outside the classroom and preferred instructor-led learning in class](fc-student-resistance-self-learning.md) — related
 - [Students in the control conditions overwhelmingly chose rehearsal or re-reading as their learning strategy](students-choose-rehearsal-strategies.md) — related
 - [Half of students spent over two hours preparing for each pre-class test](pre-class-tests-preparation-time-investment.md) — related
+- [FCCL students showed high engagement with pre-class videos (average 2.8 of 3 videos viewed weekly; 78.5% average viewing proportion)](fccl-high-pre-class-video-engagement.md) — related

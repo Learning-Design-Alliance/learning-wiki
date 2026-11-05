@@ -47,3 +47,4 @@ Single-item burden measure (not reverse-coded) from the post-course questionnair
 ## Related Claims
 - [BOPPPS-CBL students reported significantly higher scores on all seven positive perception dimensions after Bonferroni correction](boppps-cbl-higher-positive-perceptions.md) — related
 - [Residents taught with BOPPPS/FC-CBL self-rated teaching satisfaction and self-directed learning higher than lecture-taught residents, with large reported effect sizes but an inconsistently described rating scale](boppps-fc-cbl-large-effect-satisfaction-self-directed-learning.md) — related
+- [SST residents report higher satisfaction with course content, resources, interaction, and teaching methods, with no difference in perceived learning burden](sst-higher-satisfaction-equal-burden.md) — related

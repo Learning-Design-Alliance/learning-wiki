@@ -60,3 +60,4 @@ Mini-CEX assessment after eight subspecialty rotations in the randomized trial. 
 - [CCS training yields significantly greater post-clerkship Mini-CEX improvements than traditional training across all assessment domains](ccs-greater-post-clerkship-mini-cex-gains.md) — related
 - [Interns taught with combined sandwich-case teaching scored higher than traditionally taught interns on all seven Mini-CEX dimensions, including clinical judgment and communication skills](sandwich-case-teaching-higher-mini-cex-scores.md) — related
 - [CCS training produces higher theoretical examination scores than traditional didactic training across all four classes of non-dentistry medical undergraduates](ccs-higher-theoretical-exam-scores-stomatology.md) — related
+- [SST residents achieve a higher total Mini-CEX score than controls, with advantages in all Mini-CEX items except 4-C and 6-A](sst-higher-mini-cex-scores.md) — related

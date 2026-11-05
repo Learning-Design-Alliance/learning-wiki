@@ -48,3 +48,4 @@ Post-intervention questionnaire (120 responses, 100% response rate, 10-point sca
 - [Students in the 3D-PBL-annotation group report higher satisfaction with learning motivation, academic atmosphere, teacher-student interaction, and knowledge absorption](3d-pbl-annotation-higher-satisfaction.md) — related
 - [Students taught with 3D-PBL-annotation teaching score significantly higher on subjective case-analysis questions than students taught by traditional lectures](3d-pbl-annotation-higher-case-analysis-scores.md) — related
 - [Objective multiple-choice test scores do not differ significantly between 3D-PBL-annotation teaching and traditional lecture-based learning](3d-pbl-annotation-no-objective-score-difference.md) — related
+- [No difference between 3DP and lecture-based groups in self-reported mastery of basic knowledge](3dp-pbl-no-difference-basic-knowledge-mastery.md) — related

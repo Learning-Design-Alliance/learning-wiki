@@ -57,3 +57,4 @@ The review's synthesis of multiple included simulation studies reports that "Sim
 - [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](simulation-skill-retention-two-month-follow-up.md) — related
 - [Students report that EI supports interpersonal relationships and teamwork through empathy, active listening, and conflict management](ei-teamwork-empathy-conflict-management.md) — related
 - [Team-based interprofessional simulation sessions were associated with 92% of respondents reporting increased interprofessional understanding and an average 18% rise in team performance scores](interprofessional-team-simulation-gains.md) — related
+- [Faculty regard bedside teaching as irreplaceable for learning empathy and communication, and students say simulation cannot fully replicate real patients](bedside-teaching-irreplaceable-empathy-communication.md) — reports the opposite

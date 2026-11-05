@@ -53,3 +53,4 @@ The Factor 3 (Wary Thinkers) viewpoint shared with Factor 1 an emphasis on over-
 - [University students held positive attitudes toward GAI in DST creation but expressed moderate concern about over-reliance and low concern about reduced social interaction](student-perceptions-gai-dst-mixed-attitudes.md) — related
 - [Pessimistic Evaluators' foremost concern is misleading, inaccurate, or biased ChatGPT-generated information](pessimistic-evaluators-misleading-information-concern.md) — related
 - [Institutional guidance cautions instructors about privacy (60% of institutions) while syllabi more often flag veracity of GenAI output and hindering learning](concerns-privacy-institutional-veracity-syllabi.md) — related
+- [Students perceived ChatGPT as helping with time savings and understanding, but far fewer saw benefits for knowledge application or long-term retention](chatgpt-perceived-time-saving-not-retention.md) — related

@@ -72,3 +72,4 @@ Pearson correlations (Table 7) among the 229 teachers. "the more children teache
 - [Treatment shows a moderate correlation with argumentation skill while demographic variables show negligible correlations](treatment-moderate-correlation-argumentation-demographics-negligible.md) — related
 - [Demographic variables showed negligible relationships with content knowledge posttests and teaching method](demographics-negligible-relationship-achievement-treatment.md) — related
 - [Digital stress subdimensions differ by gender, socio-economic status, and daily social media usage hours](digital-stress-demographic-differences-gender-usage.md) — related
+- [No significant baseline differences in engagement, positive emotions, or academic emotions by most demographic variables](no-demographic-differences-baseline-nursing-engagement-emotions.md) — related

@@ -47,3 +47,4 @@ Quasi-experimental cohort comparison of 186 first-year dental medicine students 
 ## Related Claims
 - [Performance advantage of English-language cohort persisted in Committee 4 where both cohorts received identical traditional teaching](ec-advantage-persisted-tem-only-committee-4.md) — related
 - [RM-ANCOVA showed cohort difference magnitude varied across committees with small effect sizes](rmancova-time-cohort-interaction-small-effects.md) — related
+- [FCCL and traditional instruction produce no statistically significant difference in overall theoretical examination scores in anatomy](fccl-tce-no-significant-difference.md) — related

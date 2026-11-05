@@ -50,3 +50,4 @@ Bootstrap-mediated indirect effect from the serial multiple mediation model in t
 - [A serial chain through psychological state then behavioral engagement mediates exam success (10.8% of total effect)](serial-chain-psychological-state-behavioral-engagement.md) — related
 - [Psychological state has the highest direct effect on exam outcome among all predictors (B = 0.442)](psychological-state-highest-direct-predictor.md) — related
 - [Support resources positively predict psychological state but do not mediate the foundation–success relationship](support-resources-covariate-not-mediator.md) — related
+- [School climate and academic motivation chain-mediate the effect of academic self-concept on psychological truancy](chain-mediation-climate-motivation-truancy.md) — related

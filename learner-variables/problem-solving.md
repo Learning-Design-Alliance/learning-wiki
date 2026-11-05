@@ -13,7 +13,7 @@ generated:
 # Problem Solving
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 172 claims (133 show a difference, 17 mixed, 22 no difference) · 136 studies (80 causal, 16 review, 11 quant-synthesis, 11 associational, 7 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 31 of 136 report an effect size · 169 claims rest on one study
+> **Evidence** · 173 claims (133 show a difference, 18 mixed, 22 no difference) · 137 studies (81 causal, 16 review, 11 quant-synthesis, 11 associational, 7 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 32 of 137 report an effect size · 170 claims rest on one study
 
 ## Description
 Problem solving is the ability to work through a challenge that has no ready answer: defining the goal, drawing on relevant [prior knowledge](prior-knowledge.md), resources and skills, generating options and choosing among them. The LVN record (written for adult learners) treats it broadly, covering everyday, career and academic problems and conflicts, and includes both critical and creative thinking within it. It can be measured with scenario-based tasks in which learners analyse realistic problems from home, family and work life.
@@ -210,6 +210,7 @@ For adults, problem solving bears on navigating personal, workplace and educatio
 - [Experts respond faster than novices on clinical decision-making cases](../claims/experts-faster-response-times-clinical-cases.md) [+M] — learners who differ on it differ in outcomes
 - [Hospital managers report that peer learning improved decision-making, managerial performance, inter-organizational interactions, and continuous updating of specialized knowledge](../claims/peer-learning-improves-hospital-manager-competencies.md) [+M] — measured as an outcome of the instruction studied
 - [Paired pre-post comparison of the whole sample showed a statistically significant increase in clinical decision-making scores (P < 0.001).](../claims/atls-prepost-paired-t-significant-increase-overall.md) [+M] — measured as an outcome of the instruction studied
+- [Decision-making competence improved over the intervention but the Group × Time interaction only approached significance](../claims/active-breaks-decision-making-trend.md) [~W] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Everyday Problem Solving Inventory** (Cornelius & Capsi, 1987): task-based assessment in which learners analyse 48 real-life scenarios about family, home, conflict and managing information.

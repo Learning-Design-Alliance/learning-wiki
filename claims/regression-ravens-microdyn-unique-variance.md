@@ -51,3 +51,4 @@ Multiple regression analysis from the validation study with Raven's entered firs
 - [Adding MicroDYN rule application significantly improves prediction of overall problem solving, planning, tool usage, and evaluating progress, but not analyzing givens](rule-application-predicts-facets-except-analyzing-givens.md) — related
 - [Students with higher general cognitive ability are more efficient in equation rearrangement](cognitive-ability-correlates-equation-efficiency.md) — related
 - [Stealth assessment facets show good internal consistency (Cronbach's alpha = 0.76) while MicroDYN reliabilities were low in this middle-school sample](internal-consistency-stealth-versus-microdyn.md) — related
+- [Mathematics learning strategy and perceived task difficulty jointly explain 22% of variance in students' mathematics achievement in an SEM path model](sem-strategy-task-difficulty-22-percent-math-achievement.md) — related

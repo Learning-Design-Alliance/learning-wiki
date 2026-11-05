@@ -75,3 +75,4 @@ Independent-sample t-test comparing male (n = 40) and female (n = 44) students w
 - [Female students significantly outperformed male students in mathematics achievement](female-students-outperform-males-math-achievement.md) — a broader claim this one bears on
 - [Male students held stronger attitudes toward mathematics than female students](gender-main-effect-mathematics-attitudes.md) — reports the opposite
 - [Female students scored significantly higher than males on several post-test competency domains despite no pre-test gender differences](sbl-gender-differences-post-test-females-higher.md) — related
+- [Male students score higher on average in mathematics achievement than females in both grades in descriptive comparisons](gender-descriptive-achievement-gap-grades-10-11.md) — reports the opposite

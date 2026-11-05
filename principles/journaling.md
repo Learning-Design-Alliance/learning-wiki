@@ -171,6 +171,7 @@ Better entries, more entries, self-regulation questionnaire scores, course exams
 - [Use prompts in learning journals for a limited initial period; if continuing long-term, add support such as feedback, adaptive prompts, or additional help](../strategies/limit-journal-prompting-to-initial-weeks-unless-supported.md)
 - [Supplement VR lessons with pre-training and follow-up reflection activities, and keep VR sessions short to limit fatigue and cybersickness](../strategies/vr-sce-session-design-pretraining-reflection.md)
 - [Use learner diaries at key stages during virtual exchange to prompt reflection](../strategies/learner-diaries-virtual-exchange-reflection.md)
+- [Implement guided reflective diary writing with weekly entries and individualized teacher feedback](../strategies/guided-reflective-diary-writing-strategy-nursing.md)
 
 ## Key Sources
 - Dunlap, J. C. (2006). Using guided reflective journaling activities to capture students' changing perceptions. *TechTrends, 50*(6), 20-26. [https://doi.org/10.1007/s11528-006-7614-x](https://doi.org/10.1007/s11528-006-7614-x)

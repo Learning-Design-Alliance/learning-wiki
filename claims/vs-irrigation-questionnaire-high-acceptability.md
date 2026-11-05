@@ -71,3 +71,5 @@ Reliability analysis of the four questionnaire domains (perceived learning effec
 - [PA-PBL participants rated all four feedback questionnaire domains above 4.7 on a 5-point scale](pa-pbl-high-satisfaction-reaction-level.md) — related
 - [Teachers rate LearnLens positively across usability, relevance, and accuracy, with all nine Likert items averaging at least 4.1/5](learnlens-teacher-satisfaction-4-1-of-5.md) — related
 - [Virtual simulation training improved dental students' theoretical knowledge of root canal irrigation (mean increase 9.3%, d = 0.65)](vs-irrigation-theory-score-gain.md) — related
+- [IVR trainees rate the educational module higher than control trainees on enjoyment, ease of use, repetitivity, perceived improvement, and overall satisfaction](ivr-higher-perceived-benefits-ratings.md) — related
+- [Over 70% of preclinical dental students expressed satisfaction or high satisfaction with the digital inlay training platform](vr-inlay-platform-high-satisfaction.md) — related

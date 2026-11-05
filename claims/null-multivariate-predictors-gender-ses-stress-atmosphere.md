@@ -51,3 +51,4 @@ Multivariate ordinal logistic regression of the cross-sectional FMSo survey (n =
 - [In univariate analysis, performance was associated with age, gender, nationality, substance and tobacco use, stress, academic year, prior failure, revision hours, satisfaction and motivation; only the DREEM atmosphere subscale was significant among DREEM domains](univariate-associations-performance-factors.md) — related
 - [No predictors reached conventional statistical significance for academic referral status in the multivariable logistic regression](no-significant-predictors-referral-status-ghana-nursing.md) — related
 - [Tunisian nationality independently predicts higher academic performance among Tunisian medical students (OR = 4.99)](tunisian-nationality-higher-academic-performance.md) — related
+- [No significant association was found between student gender and NCAT-EM scores across the seven domains](no-gender-association-ncat-em-scores.md) — related

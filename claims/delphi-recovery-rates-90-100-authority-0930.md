@@ -52,3 +52,4 @@ Delphi results section reporting the authority coefficient components: "Ca, Cs a
 - [A two-round modified Delphi process achieved consensus on 273 of 343 preliminary psychomotor competency statements (79.6%) for Brazilian medical graduates](delphi-consensus-273-of-343-preliminary-competencies.md) — related
 - [Indicator retention criteria were a mean importance score of at least 4.00, full score rate of at least 20% and coefficient of variation of at most 0.25](delphi-retention-criteria-importance-full-score-cv.md) — related
 - [Expert consensus was reached on 35 of 39 candidate attributes for nurses' effective participation in in-hospital resuscitation teams](delphi-35-of-39-attributes-consensus.md) — related
+- [Two Delphi rounds with 15 experts produced high authority and consensus coefficients for the EVD KAP item pool](evd-kap-delphi-expert-consensus.md) — related

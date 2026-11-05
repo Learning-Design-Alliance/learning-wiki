@@ -76,3 +76,5 @@ The review's discussion of the video-review study reports improved accuracy with
 - [Simulation-based training significantly improves technical performance and accelerates skill acquisition in robotic surgery](simulation-training-improves-technical-performance.md) — related
 - [Stepwise CBME training was associated with significantly shortened learning curves compared to conventional training](stepwise-cbme-shortened-learning-curves.md) — related
 - [The VR group scored significantly lower than controls at week 2, reflecting an initial learning curve with the VR system](vr-initial-learning-curve-week-2.md) — related
+- [3D VR acclimatisation shortens simulator completion time and reduces instrument path length versus 2D video](3d-vr-reduces-path-length-and-time.md) — related
+- [Performance in the VR suture training improved with practice repetitions but reached a plateau after 2 to 4 practices](vr-suture-practice-plateau.md) — related

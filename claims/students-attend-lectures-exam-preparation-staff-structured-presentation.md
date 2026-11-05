@@ -50,3 +50,4 @@ Cross-sectional questionnaire study; Table 4 reports 261 (65.7%) Bulgarian stude
 - [Active learning conditions more often include quizzes, homework, and learning/exam preparation than lecture conditions](active-learning-conditions-more-other-pedagogical-features.md) — related
 - [Bulgarian students more frequently reported that preparation provided was sufficient for examinations compared with international students](bulgarian-students-report-sufficient-preparation-more-often.md) — related
 - [More than half of students reported not receiving an individualized educational approach, in contrast to academic staff perceptions](students-report-no-individualized-approach-staff-discrepancy.md) — related
+- [Pilot students reported the MiLeMed microlearning app as a valuable complement to obstetrics teaching and supportive of exam preparation](milemed-pilot-positive-feedback.md) — related

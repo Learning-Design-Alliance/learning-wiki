@@ -52,3 +52,4 @@ Two-round Delphi validation with 10 Cypriot field experts (six senior principals
 - [The created test tasks showed high validity (β = 0,97) via a Delphi procedure with 10 experts](test-validity-delphi-beta-097.md) — related
 - [The ICO-OCEX achieved strong content validity through a modified Delphi technique with expert consensus on all 33 items](ico-ocex-content-validity-delphi-consensus.md) — related
 - [Expert panel consensus (seven experts, ≥80% agreement rule) endorsed the refined EA framework structure](expert-consensus-ea-framework.md) — related
+- [A four-round Delphi process with educators and students reached consensus on goals, content priorities, and implementation strategies for the OSCE preparatory tool](delphi-consensus-osce-tool-goals.md) — related

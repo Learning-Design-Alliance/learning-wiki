@@ -53,6 +53,7 @@ The authors propose that EEG-derived markers of learning stage and cognitive sta
 
 - [Hybrid Socratic-to-sub-question tutoring with EEG-triggered fallback and progressively concrete hints](eeg-triggered-socratic-fallback-hybrid-tutoring.md)
 - [Use validated EEG and eye-tracking models to provide objective, expert-free performance and learning-rate feedback in surgical residency training](eeg-eye-tracking-objective-ras-training-assessment.md)
+- [Use INS as an online marker of learning quality to trigger dynamically increased autonomy support during teaching](neurofeedback-guided-autonomy-support-teaching.md)
 
 ## Examples
 -

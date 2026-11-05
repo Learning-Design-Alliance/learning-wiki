@@ -58,3 +58,4 @@ One-month 5-point Likert satisfaction questionnaire in the RCT; Table 6 reports 
 - [Students in the CBL-FC group report high learning interest, positive experience, and overall satisfaction](cbl-fc-high-satisfaction-learning-experience.md) — related
 - [Residents in the integrated-teaching group report higher overall satisfaction with instructors, driven by skill training and bedside teaching](integrated-teaching-higher-instructor-satisfaction.md) — related
 - [PBL-trained kidney transplantation trainees report higher satisfaction with training than traditionally trained trainees](pbl-higher-trainee-satisfaction-kidney-transplant.md) — related
+- [Experimental-group trainees report higher satisfaction than controls in teaching atmosphere, learning interest, and learning efficiency](digital-cbl-higher-satisfaction-interest-efficiency.md) — related

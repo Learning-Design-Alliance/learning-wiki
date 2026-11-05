@@ -70,3 +70,4 @@ The article reports, citing Oberauer (2005), that with neutral words "only omiss
 - [Omission (no response) errors vary with age but not with reading skill](no-response-errors-age-not-reading-skill.md) — related
 - [Task-level executive function differences in dyslexia on the Phoneme Go No-Go and Picture 2-back tasks are no longer significant after controlling for processing speed](phoneme-gng-picture-2back-null-after-speed-control.md) — related
 - [Increased motivation eliminated ADHD–TD differences on most attention measures but differences persisted in complex multitasking and commission errors](motivation-reduces-but-not-eliminates-adhd-deficits.md) — related
+- [Faster reaction time on the 2-back working memory task is associated with better GPA](faster-2back-reaction-time-better-gpa.md) — related

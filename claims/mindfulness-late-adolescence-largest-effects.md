@@ -58,3 +58,4 @@ Meta-analytic moderator analysis across the 24 included studies. The article rep
 - [School meditation programmes foster small improvements in well-being, more consistently reducing negative outcomes than promoting positive ones](meditation-small-wellbeing-gains-negative-outcomes.md) — related
 - [Effects of school-based mindfulness interventions differ according to whether delivery is by an outside facilitator or by trained educators/teachers](mindfulness-facilitator-type-moderates-effects.md) — related
 - [Youth focus groups surfaced four key digital well-being challenge themes: addiction and compulsive use, impact on thinking, effects on social skills, and effects on mental health](youth-focus-groups-four-digital-wellbeing-challenge-themes.md) — related
+- [In the MIND model group, younger learners (18–24) achieved significantly higher learning outcomes than older age groups](mind-younger-learners-higher-outcomes-age.md) — related

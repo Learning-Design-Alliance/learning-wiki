@@ -50,3 +50,4 @@ ANCOVA on the MST_T at T3 controlling for T2 cognitive strategy application foun
 - [Hybrid training fosters far transfer of metacognitive skills to a new cognitive strategy, though one hybrid condition did not beat control](hybrid-training-fosters-far-transfer-metacognitive-skills.md) — related
 - [Hybrid training improves fifth-graders' application of metacognitive skills in near-transfer tasks compared to non-hybrid and control training](hybrid-training-improves-near-transfer-metacognitive-skills.md) — related
 - [Cognitive learning strategy training yields preliminary evidence of far metacognitive transfer to effort regulation (Wirth et al., 2025)](far-metacognitive-transfer-effort-regulation.md) — related
+- [FCCL students self-report substantially more active metacognitive learning strategies than traditional classroom students](fccl-self-reported-metacognitive-strategies.md) — related

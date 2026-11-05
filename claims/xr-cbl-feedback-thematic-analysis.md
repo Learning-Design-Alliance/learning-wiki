@@ -52,3 +52,4 @@ Qualitative thematic analysis of open-ended survey responses from both cohorts t
 - [Students request clearer course organization, reminders, and more experiential practice opportunities while affirming overall satisfaction with the wellness courses](student-feedback-course-structure-improvements.md) — related
 - [Thematic analysis of open-ended feedback identified three cross-cutting themes, shifting from logistics/clarity in 2022 toward case-based stepwise practice in 2023](qualitative-themes-case-based-practice-shift.md) — related
 - [Students' open-ended feedback clustered around improvements including incorporating clinical context, clearer AI explanation logic, and interactive or comparative features](student-suggested-feedback-improvements.md) — related
+- [Students specifically praised the app's original visual materials as pedagogically helpful and ethnically inclusive](inclusive-visual-materials-praised.md) — related

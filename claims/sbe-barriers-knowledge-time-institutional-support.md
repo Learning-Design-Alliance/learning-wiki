@@ -56,3 +56,4 @@ Survey of 114 dietitians; Table 3 lists barriers including "Lack of knowledge/tr
 - [Fewer than 40% of Chinese GP residency programs employ interactive learning methods such as role-playing, multidisciplinary team participation, or situational teaching for PMSC training.](interactive-pmsc-methods-fewer-than-40-percent.md) — related
 - [Lack of training and instructor motivation were the most commonly reported barriers to using e-learning resources](training-motivation-barriers-e-resources.md) — related
 - [Programs cite lack of funding, limited simulation lab or equipment access, and lack of faculty expertise or availability as barriers to simulation implementation](simulation-barriers-funding-faculty-expertise.md) — related
+- [The most frequently mentioned barrier to implementing RaT curricula is balancing workload on faculty and residents](rat-implementation-barriers-workload.md) — related

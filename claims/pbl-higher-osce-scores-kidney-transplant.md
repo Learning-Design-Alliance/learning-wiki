@@ -53,3 +53,4 @@ OSCE with checklist-scored stations on postoperative monitoring, immunosuppressa
 - [The evidence that PBL improves specialist transplant training outcomes is limited by single-institution quasi-experimental design, unblinded assessment, and possible Hawthorne effects](pbl-transplant-study-design-limitations.md) — related
 - [AI-assisted CBL+FC residents achieve higher OSCE total scores than lecture controls, driven by history collection and physical examination stations](ai-assisted-cbl-fc-osce-total-scores.md) — related
 - [Integrated clinical pathway and case-based teaching yields higher post-training theoretical examination scores than traditional teaching in endocrinology residency](clinical-pathway-cbt-higher-theoretical-scores.md) — related
+- [OBE-PBL teaching improves total practical assessment scores, with no difference at the neurological examination station](obe-pbl-practical-assessment-station-pattern.md) — related

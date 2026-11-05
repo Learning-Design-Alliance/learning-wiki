@@ -49,3 +49,4 @@ Cross-sectional Study 1 multiple-regression model of Chalder Fatigue Scale score
 
 ## Related Claims
 - [Course development satisfaction is positively associated with first-year students' emotional management, stress coping, and academic adjustment in cross-sectional self-report data](course-development-satisfaction-positive-adjustment-association.md) — related
+- [Regression analysis identifies interest, platform stability, and academic standardization of resources as significant positive predictors of student satisfaction, while convenience, operational flexibility, section organization, and resource richness are not significant](interest-stability-standardization-predict-satisfaction.md) — related

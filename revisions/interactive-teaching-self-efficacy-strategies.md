@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../strategies/interactive-teaching-self-efficacy-strategies.md
+---
+
+# Revision history: [strategies/interactive-teaching-self-efficacy-strategies](../strategies/interactive-teaching-self-efficacy-strategies.md)
+
+### 2026-11-05 · ingest · process:wiki-ingest
+Ingested from pmc-12640484 (Exploring the relationship between student-content interaction, student-student interaction, self-efficacy, and learning achievements in a student-centered classroom.) via eval_harness.py + ingest_extractions.py

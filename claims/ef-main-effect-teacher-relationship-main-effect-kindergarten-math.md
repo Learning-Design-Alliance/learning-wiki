@@ -80,3 +80,4 @@ Model 1 main effect of teacher-rated relationship quality (STRS composite of clo
 - [EF abilities strongly predict pre-academic abilities in preschoolers](efs-predict-preacademic-abilities-preschool.md) — a broader claim this one bears on
 - [Young children’s EF skills show a robust positive relationship with academic outcomes in preschool through third grade](ef-correlates-academic-outcomes-preschool-third-grade.md) — a broader claim this one bears on
 - [EF strongly predicts mathematics achievement with an unusually large standardized path (β ≈ 0.96–0.97)](ef-strongly-predicts-math-latent-path.md) — related
+- [Age negatively moderates the path from executive function to mathematics achievement, while gender and age moderation is non-significant on all other paths in both models](age-negatively-moderates-ef-mathematics-path.md) — related

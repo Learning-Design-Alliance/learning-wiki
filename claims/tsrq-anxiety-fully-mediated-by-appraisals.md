@@ -50,3 +50,5 @@ Bootstrap mediation analysis (5000 resamples, bias-corrected 95% CIs) within the
 - [TSRQ is positively associated with control and value appraisals in EFL learning](tsrq-positively-associated-with-control-value-appraisals.md) — related
 - [Control and value appraisals are proximal predictors of EFL achievement emotions](appraisals-predict-efl-achievement-emotions.md) — related
 - [Female EFL students report more positive and fewer negative achievement emotions than males, and age and home resources show distinct associations](gender-age-home-resources-emotion-associations.md) — related
+- [Foreign language emotions fully mediate the relationship between social support and English academic achievement](fl-emotions-fully-mediate-support-achievement.md) — related
+- [Foreign language enjoyment, boredom, and anxiety each significantly mediate the relationship between social support and English academic achievement](fl-emotions-mediate-support-achievement.md) — related

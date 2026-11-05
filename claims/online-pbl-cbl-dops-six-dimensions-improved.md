@@ -71,3 +71,5 @@ Results section reporting non-significant DOPS findings. The Discussion attribut
 - [Non-linear PBL grades comparable to essays and oral presentations but lower than online quizzes](non-linear-pbl-grades-comparable-to-essays-and-oral-presentations.md) — related
 - [Integrated model improves six of seven DOPS domains but not humanistic literacy](microskills-cptm-dops-mixed.md) — related
 - [At one-month follow-up the experimental group outperformed controls on six specific checklist tasks](modified-peyton-six-checklist-tasks-retention.md) — related
+- [Blended PBL-CBL-seminar chairside teaching improves DOPS procedural skill scores versus LBL, except technique and seeking assistance](blended-pbl-cbl-seminar-improves-dops-scores.md) — related
+- [Procedural skill (DOPS) scores of digitally-CBL-trained novices do not differ significantly from traditionally trained specialists](digital-cbl-dops-scores-comparable.md) — related

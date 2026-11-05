@@ -90,3 +90,4 @@ In the same ZINB count model of StatBot use, prior knowledge carried a negative 
 - [Female students are more negative about their overall integrated TBL experience than male students.](female-students-more-negative-overall-tbl-experience.md) — related
 - [Gender, degree type, and personality show differential associations with course outcome dimensions](demographic-differences-course-dimensions.md) — related
 - [Male students were significantly more likely than female students to report English proficiency and course relevance as barriers to e-resource use](gender-barriers-english-proficiency.md) — related
+- [Female students and higher previous-year achievers were more likely to be high users of the PPES course](ppes-course-use-predictors-female-achievers.md) — related

@@ -73,3 +73,4 @@ Review synthesis of preference data across the 22 included studies; the preferen
 - [TBL students attribute self-efficacy to peer discussion while lecture students attribute it to practice cases and systematic approach](tbl-peer-discussion-vs-lecture-practice-cases-self-efficacy.md) — related
 - [All surveyed students perceive the near-peer tutorial as superior to lectures, textbooks, or videos for learning musculoskeletal examination](near-peer-tutorial-superior-to-traditional-resources.md) — a narrower finding that bears on this claim
 - [Students preferred PBL over TBL, citing clearer objectives, fuller participation, and more suitable pacing in small-group discussion.](students-preferred-pbl-over-tbl.md) — a narrower finding that bears on this claim
+- [Interns taught with OBE-integrated PBL achieve their career plans one year after graduation at a higher rate than lecture-taught peers](obe-pbl-career-plan-achievement-one-year.md) — related

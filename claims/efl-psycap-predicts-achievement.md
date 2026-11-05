@@ -49,3 +49,4 @@ SEM analysis of survey data from 1460 Chinese secondary EFL learners (grades 7-8
 - [Gender, age and SES correlate with EFL PsyCap, boredom, engagement and achievement](gender-age-ses-efl-outcomes.md) — related
 - [EFL PsyCap is negatively associated with academic boredom and positively with behavioural engagement, and boredom negatively predicts engagement and achievement](psycap-boredom-engagement-paths.md) — related
 - [Behavioural engagement mediates the relationship between EFL PsyCap and EFL achievement](engagement-mediatepsycap-achievement.md) — a narrower finding that bears on this claim
+- [Social support directly and positively predicts English academic achievement among Chinese secondary school students](social-support-predicts-english-achievement.md) — related

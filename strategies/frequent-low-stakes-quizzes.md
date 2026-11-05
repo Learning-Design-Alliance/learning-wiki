@@ -120,6 +120,7 @@ Retrieval practice produces substantially more durable retention than restudying
 - [Use weekly formative quizzes during EFL listening instruction to support achievement and reduce anxiety](weekly-formative-quizzes-efl-listening-instruction.md)
 - [Incorporate learner-recommended external question banks and apps alongside instructor-curated OLRs](incorporate-learner-recommended-olrs.md)
 - [Incorporate spaced review, elaboration opportunities, dual coding, and frequent low-stakes assessments into medical curricula](curriculum-embedded-evidence-based-strategies-medical-education.md)
+- [Use closed-book pre-class specimen quizzes as retrieval practice to activate prior anatomical knowledge](pre-class-specimen-quiz-retrieval-strategy.md)
 
 ## Examples
 - **Team-Based Learning** ([tbl.teamslearn.org](http://www.tbl.teamslearn.org)) — individual Readiness Assurance Tests taken before team discussion, with immediate appeal and feedback

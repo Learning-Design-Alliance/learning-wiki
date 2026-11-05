@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 400 claims (264 show a difference, 95 mixed, 41 no difference) · 289 studies (100 causal, 98 associational, 42 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 7 design), `q1`–`q4` · 79 of 289 report an effect size · 388 claims rest on one study
+> **Evidence** · 404 claims (267 show a difference, 96 mixed, 41 no difference) · 290 studies (100 causal, 99 associational, 42 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 7 design), `q1`–`q4` · 79 of 290 report an effect size · 392 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -450,6 +450,10 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [In one group measured before and after, an indirect statistical association involving self-reported mental health was reported between physical activity at T1 and academic motivation at T3, larger for extrinsic than intrinsic motivation](../claims/mental-health-mediates-pa-to-academic-motivation.md) [~M] — measured as an outcome of the instruction studied
 - [Intrinsic motivation was associated with full participation (χ21=4.03; P=.045)](../claims/intrinsic-motivation-full-participation.md) [+M] — learners who differ on it differ in outcomes
 - [Urology interest groups and mandatory skills sessions significantly increase medical student interest and procedural confidence](../claims/urology-interest-groups-skills-sessions-student-interest.md) [+M] — measured as an outcome of the instruction studied
+- [Bivariate correlations between math scores and growth mindsets were modest across countries and weaker than those with socioeconomic status](../claims/modest-mindset-math-correlations.md) [+M] — learners who differ on it differ in outcomes
+- [Growth mindset coefficients were non-significant in 19 of 74 countries, showing the mindset–achievement association is not uniform](../claims/growth-mindsets-null-19-countries.md) [~M] — learners who differ on it differ in outcomes
+- [Growth mindsets are significantly positively associated with math achievement in 50 of 74 PISA 2022 countries after controlling for socioeconomic status](../claims/growth-mindsets-positive-math-50-of-74-countries.md) [+M] — learners who differ on it differ in outcomes
+- [Growth mindsets were significantly negatively associated with math achievement in five countries, where fixed-mindset students outperformed growth-mindset students](../claims/growth-mindsets-negative-five-countries.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

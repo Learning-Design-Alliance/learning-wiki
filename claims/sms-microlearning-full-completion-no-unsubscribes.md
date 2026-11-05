@@ -47,3 +47,4 @@ Of 34 clinicians who signed up, 22 completed the baseline questionnaire and enro
 ## Related Claims
 - [Clinicians' self-reported confidence in managing tobacco use disorder rose from baseline to after a 13-day SMS microlearning series, with a statistically significant pre-post change, in a single-arm pre-post pilot](sms-microlearning-increased-tobacco-confidence-pilot.md) — related
 - [Participants engaged with embedded resource links in 67% of the SMS microlearning messages](sms-microlearning-link-engagement-67-percent.md) — related
+- [Pilot students reported the MiLeMed microlearning app as a valuable complement to obstetrics teaching and supportive of exam preparation](milemed-pilot-positive-feedback.md) — related

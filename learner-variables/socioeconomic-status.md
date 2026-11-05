@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 242 claims (127 show a difference, 58 mixed, 57 no difference) · 190 studies (82 associational, 75 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 32 of 190 report an effect size · 241 claims rest on one study
+> **Evidence** · 245 claims (129 show a difference, 59 mixed, 57 no difference) · 191 studies (83 associational, 75 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 32 of 191 report an effect size · 244 claims rest on one study
 
 ## How to read this page
 
@@ -327,6 +327,9 @@ A learner's economic and social position: family income or poverty (often measur
 - [Family income positively predicts spatial ability in high school students](../claims/family-income-predicts-spatial-ability-adolescents.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Parental education is associated with increased left premotor cortex activation during mental rotation, but family income is not](../claims/parental-education-premotor-activation-mental-rotation.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Parental education, but not family income, predicts STEM GPA in high school students](../claims/parental-education-predicts-stem-gpa.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Bivariate correlations between math scores and growth mindsets were modest across countries and weaker than those with socioeconomic status](../claims/modest-mindset-math-correlations.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Socioeconomic status significantly moderated the growth mindset–math achievement association in 33 of 74 countries, with no consistent direction](../claims/ses-moderates-mindset-33-of-74.md) [~M] — an instructional effect differs by group
+- [The socioeconomic status moderation of the mindset–achievement association remained robust across alternative model specifications](../claims/ses-moderation-robustness-checks.md) [+M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

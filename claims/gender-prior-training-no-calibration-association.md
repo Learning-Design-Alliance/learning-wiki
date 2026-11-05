@@ -48,3 +48,4 @@ Between-subjects t-tests within the OSCE cohort compared discrepancy scores by p
 - [First-year nursing students show no significant self-examiner discrepancy in professional knowledge or methodological domains](accurate-calibration-technical-domains-osce.md) — related
 - [Older first-year nursing students show smaller overestimation of social/communication skills (age negatively predicts the discrepancy, R² = 0.07)](age-predicts-smaller-social-calibration-gap.md) — related
 - [Self-other rating differences vary across competency domains in first-year nursing OSCEs, with the largest discrepancy in social/communication skills (Rating Type × Domain interaction η²ₚ = 0.416)](osce-rating-type-domain-interaction-nursing.md) — related
+- [No significant association was found between student gender and NCAT-EM scores across the seven domains](no-gender-association-ncat-em-scores.md) — related

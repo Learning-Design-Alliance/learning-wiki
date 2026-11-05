@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 223 claims (178 show a difference, 33 mixed, 12 no difference) · 167 studies (90 associational, 29 causal, 28 review, 8 theoretical, 7 qualitative, 3 design, 2 quant-synthesis), `q1`–`q4` · 6 of 167 report an effect size · 221 claims rest on one study
+> **Evidence** · 224 claims (179 show a difference, 33 mixed, 12 no difference) · 168 studies (91 associational, 29 causal, 28 review, 8 theoretical, 7 qualitative, 3 design, 2 quant-synthesis), `q1`–`q4` · 6 of 168 report an effect size · 222 claims rest on one study
 
 ## How to read this page
 
@@ -260,6 +260,7 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [Hispanic students had significantly higher odds than white students of being in the Independent Navigator profile versus the Moderate Guided Users profile (OR = 2.01).](../claims/hispanic-students-independent-navigator-odds.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Ethnic minority students received higher final ratings than majority students for ascending performances, but only when rated by residents](../claims/minority-higher-final-ratings-ascending-residents-only.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Rating changes between first impressions and final ratings are larger for ethnic minority than ethnic majority students, for both ascending and descending performances](../claims/larger-rating-changes-minority-students.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [In a sensitivity analysis comparing Black to non-Black students, lower scores appeared in history/physical and prioritized differential domains with large positive race-concordance interactions](../claims/black-students-lower-scores-concordance-interactions.md) [+W] — an instructional effect differs by group
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

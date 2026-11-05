@@ -63,6 +63,8 @@ The review's forward-looking recommendations for VS teaching design: future devi
 - [Deliver multilingual GenAI simulation training in the trainee's preferred language to standardize training across linguistic contexts](multilingual-genai-simulation-preferred-language-strategy.md)
 - [Use immersive VR virtual patient scenarios to give pre-clinical and multicultural students safe, repeatable clinical communication practice](vr-safe-practice-preclinical-multilingual-strategy.md)
 - [Design VR learning tools with learner-centered UI/UX choices that limit cybersickness and extraneous cognitive load](learner-centered-vr-design-limit-cybersickness-load.md)
+- [Simplify simulation models or divide training into smaller sections to maintain engagement](simplify-or-segment-simulation-training.md)
+- [Iterate digital simulation platforms using trainee suggestions: add haptic feedback modules, case-discussion content, scoring and login tracking, and a streamlined interface](trainee-driven-platform-improvement-strategy.md)
 
 ## Examples
 -

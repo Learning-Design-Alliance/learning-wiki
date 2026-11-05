@@ -57,6 +57,7 @@ The report recommends that school leaders use multitiered systems of support (MT
 - [Integrated school-based health and social safety net supports addressing out-of-school learning barriers](school-based-health-safety-net-integrated-supports.md)
 - [Multi-level institutional response to problematic internet use: digital wellbeing policies, psychoeducational curriculum programs, peer-led initiatives, and screening services](ia-multi-level-institutional-response-strategy.md)
 - [Pair universal SEL programs with targeted individual instruction for students with more intense needs](tiered-sel-universal-plus-targeted.md)
+- [University programs that strengthen students' social well-being to support academic motivation](social-well-being-support-programs-medical-students.md)
 
 ## Examples
 -

@@ -57,3 +57,4 @@ The review reports, citing its reference 11, that instructional rubrics with fac
 - [Rubrics enhance grading consistency and inter-rater reliability in dental education assessment](rubrics-enhance-grading-consistency-dental-education.md) — a broader claim this one bears on
 - [Inter-rater scoring of the writing tests showed good correlation-coefficient reliability](inter-rater-reliability-writing-scores.md) — related
 - [Inter-rater reliability of EFeCT scoring improved from moderate (ICC 0.67) to excellent (ICC 0.96) after consensus calibration, with an overall ICC of 0.66 across the full sample](efect-inter-rater-reliability-consensus-calibration.md) — a narrower finding that bears on this claim
+- [Rubric-based scoring in the PROMPTa study showed strong intra-rater and moderate-to-strong inter-rater reliability](prompta-rater-reliability-estimates.md) — related

@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 422 claims (242 for, 155 mixed, 25 against) · 261 studies (97 causal, 77 review, 39 quant-synthesis, 20 design, 19 qualitative, 8 theoretical, 1 associational), `q1`–`q4` · 54 of 261 report an effect size · 417 claims rest on one study
+> **Evidence** · 423 claims (243 for, 155 mixed, 25 against) · 262 studies (97 causal, 77 review, 39 quant-synthesis, 21 design, 19 qualitative, 8 theoretical, 1 associational), `q1`–`q4` · 54 of 262 report an effect size · 418 claims rest on one study
 
 ## Conditional relationship
 
@@ -420,6 +420,7 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Students' self-reported supervision level for managing an acute situation rose from median 3 to 4 after the simulation course, in one uncontrolled pre-post study](../claims/pfa-simulation-improves-supervision-independence.md) [+W] — attached 2026-11-05 from Moore Amber Jennifer Sara et al. (2025), which proposed "Use simulation to supplement variable clinical experiential learning in the pre-foundation period, providing a psychologically safe environment to practise acute care".
 - [After a single 90-minute training session, novices trained on a high-fidelity VR arthroscopy simulator show no significant skill-acquisition advantage over novices trained on a low-fidelity benchtop simulator](../claims/single-session-no-fidelity-skill-acquisition-difference-arthroscopy.md) [~W] — attached 2026-11-05 from Kutsuna Tatsuhiko et al. (2025), which proposed "Use high-fidelity simulation to enhance novice trainee satisfaction and motivation even when it does not outperform low-fidelity simulation for short-term skill acquisition".
 - [Students rate RCDP higher than SWSP on the Simulation Design Scale overall, including the support and problem-solving factors](../claims/rcdp-higher-simulation-design-scale.md) [+W] — attached 2026-11-05 from da Silva Gisele Cabral et al. (2025), which proposed "Use active simulation methodologies, including RCDP, in nursing education, weighing RCDP's engagement and design advantages in curricular decisions".
+- [Repeated practice in a case-based VR suture simulation significantly improved stomatology undergraduates' item and total scores from formative to final test](../claims/vr-facial-wound-suture-score-improvement.md) [+W] — attached 2026-11-05 from Zhang Yan et al. (2025), which proposed "Use case-based VR simulation as preclinical training to build skills and confidence while conserving training resources"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -700,6 +701,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Combine VR task-training for operators with simulation team-training for the whole acute stroke team](../strategies/combine-vr-task-training-with-stroke-team-simulation.md)
 - [Introduce virtual simulation systems in Periodontics to support integration of theoretical and practical skills](../strategies/virtual-simulation-systems-perio-skills-integration.md)
 - [Integrate immersive VR simulation as a complementary tool in continuing emergency training programs for low-frequency, high-complexity scenarios](../strategies/vr-complementary-continuing-emergency-training-strategy.md)
+- [Schedule repeated daily VR simulation sessions with formative feedback before a delayed practical test](../strategies/daily-repeated-vr-practice-then-final-test.md)
 
 ## Key Sources
 - Akcayir, M., & Akcayir, G. (2017). Advantages and challenges associated with augmented reality for education: A systematic review of the literature. *Educational Research Review, 20*, 1-11. [https://doi.org/10.1016/j.edurev.2016.11.002](https://doi.org/10.1016/j.edurev.2016.11.002)

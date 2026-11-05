@@ -52,3 +52,4 @@ The review reports, from Sytek et al.'s mixed-methods study assessing orthodonti
 - [Immersive and non-immersive VR video formats showed no significant difference in learning success for clinical procedures, though immersive VR was rated more positively](immersive-vs-non-immersive-vr-no-learning-difference.md) — related
 - [VR and conventional teaching produce equivalent short-term learning success in a quasi-randomized field experiment](vr-unit-equivalent-short-term-learning-success.md) — related
 - [Performance differences among formats hold in most courses but not orthodontics](format-performance-differs-by-course.md) — related
+- [3D VR video acclimatisation improves overall robotic simulator performance among novices compared with 2D video](3d-vr-acclimatisation-improves-simulator-performance.md) — related

@@ -56,3 +56,4 @@ Path analysis of cross-sectional survey data from 600 adolescents in seven Harle
 - [School belonging and GPA were modestly positively correlated among Latino sixth graders (r = .20)](belonging-gpa-correlation-latino-sixth-graders.md) — related
 - [Mastery orientation, value, belonging, self-efficacy, and SRL show small demographic differences by gender, ethnicity, and grade](demographic-correlates-identity-motivation.md) — related
 - [The attitude-achievement paradox: disadvantaged minority youth may show low achievement despite high motivation to achieve upward mobility through schooling](attitude-achievement-paradox-minority-youth.md) — related
+- [School engagement mediates the relationship between campus climate and academic achievement among historically marginalized adolescents](school-engagement-mediation-campus-climate-achievement.md) — related

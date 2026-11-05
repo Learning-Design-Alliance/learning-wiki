@@ -44,7 +44,8 @@ The article prescribes a concrete procedure for introducing journal writing as a
 - [Weekly journal writing as a self-assessment technique significantly increased Iranian EFL learners' intrinsic motivation over a semester](../claims/journal-writing-self-assessment-increased-intrinsic-motivation.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Implement guided reflective diary writing with weekly entries and individualized teacher feedback](guided-reflective-diary-writing-strategy-nursing.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Process evaluation findings from case study interviews, focus groups, and observ
 - [Grading answers required weighted partial credit because responses varied in degrees of rightness](weighted-partial-credit-grading.md) — related
 - [LLM-based scoring produced fewer false negatives than Deep Tutor on a balanced test set, which the authors expect would spare students the frustration of correct explanations judged incorrect](llm-scoring-fewer-false-negatives-than-deep-tutor.md) — related
 - [Teachers and pupils were generally positive about the LRS, valuing instant feedback and self-paced work](lrs-positive-teacher-pupil-perceptions.md) — related
+- [Automated note feedback system had occasional phrase recognition errors and false positives](automated-feedback-phrase-recognition-limitations.md) — related

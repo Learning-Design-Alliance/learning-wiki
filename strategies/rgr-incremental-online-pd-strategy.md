@@ -39,6 +39,7 @@ The RGR professional development model spreads a small time commitment across th
 ## Related Strategies
 
 - [Implement Classtime with a kick-off training day plus ongoing grade-specific follow-up sessions](classtime-kickoff-plus-ongoing-pd-strategy.md)
+- [Sequence self-directed e-learning before interactive PBL case seminars so seminars build on an established theoretical foundation](elearning-before-pbl-case-seminars-sequence.md)
 
 ## Examples
 -

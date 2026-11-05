@@ -13,7 +13,7 @@ generated:
 # SimConverse
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 2 studies (2 causal), `q2`–`q3` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 SimConverse is a web-based AI simulated-patient platform made by Dymaxion Technologies Pty. Ltd. that supports scripted spoken clinical-history practice with automated rubrics, transcripts, and feedback summaries.
@@ -26,9 +26,12 @@ SimConverse is a web-based AI simulated-patient platform made by Dymaxion Techno
 ### Claims
 - [AISP-based self-directed learning is statistically noninferior to standard online SDL resources in vCSA scores among fourth-year surgical students](../claims/aisp-noninferior-vcsa-scores.md) [+M]
 - [Participant satisfaction with the AISP platform was overwhelmingly positive, with perceived cultural safety](../claims/aisp-positive-satisfaction.md) [+M]
+- [Both AI-driven virtual patient simulator training and actor-based simulation significantly increase self-reported communication skills attainment in undergraduate medical students](../claims/ai-cst-and-ab-cst-both-improve-self-reported-communication-skills.md) [+M]
+- [The self-reported communication skills attainment increase was lower for AI-driven virtual patient simulator training than for actor-based simulation](../claims/ai-cst-attainment-gain-lower-than-ab-cst.md) [~M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - Baraza W., Staples G., Wells C., Barbier L., Tonga I., Singh P., Puttick M., Webster C. (2026). Artificially Intelligent Simulated Patients in Undergraduate Surgical Teaching: A Single Blinded Randomized Controlled Study. The Clinical Teacher. https://doi.org/10.1111/tct.70486
+- Tyrrell Edward G, Sandhu Sardip K, Berry Kathryn, Ghannam Suzan F, Lewis Sarah A, Crowfoot Daniel, Sahota Gurvinder Singh, Carson Julie, Wilson Emma E, Taggar Jaspal. (2025). Web-Based AI-Driven Virtual Patient Simulator Versus Actor-Based Simulation for Teaching Consultation Skills: Multicenter Randomized Crossover Study. JMIR Formative Research. https://doi.org/10.2196/71667

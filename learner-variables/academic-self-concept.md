@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 153 claims (105 show a difference, 35 mixed, 13 no difference) · 83 studies (41 associational, 24 causal, 11 review, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 21 of 83 report an effect size · 150 claims rest on one study
+> **Evidence** · 162 claims (111 show a difference, 37 mixed, 14 no difference) · 85 studies (43 associational, 24 causal, 11 review, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 23 of 85 report an effect size · 159 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -188,6 +188,15 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Focus group interviews at 1 and 5 months suggest perceived transfer of desaturation management learning to clinical practice, with rising self-rated ability](../claims/fgi-perceived-learning-transfer.md) [+W] — measured as an outcome of the instruction studied
 - [Initial levels and changes in self-concepts and parent expectations predict third-level attainment, with parent expectations a stronger predictor for economically vulnerable children](../claims/self-concept-expectations-predict-attainment.md) [+M] — learners who differ on it differ in outcomes
 - [Students largely perceived improved symptom-identification ability, but final examination scores did not significantly differ from a prior paper-based cohort](../claims/vsp-perceived-gains-exam-null.md) [+M] — measured as an outcome of the instruction studied
+- [Academic motivation partially mediates the link between academic self-concept and psychological truancy](../claims/academic-motivation-mediation-asc-truancy.md) [+W] — learners who differ on it differ in outcomes
+- [Academic self-concept directly and negatively predicts psychological truancy among Chinese medical students](../claims/asc-direct-negative-predicts-psychological-truancy.md) [+W] — learners who differ on it differ in outcomes
+- [Academic self-concept, school climate, and academic motivation correlate substantially with psychological truancy](../claims/correlations-four-study-variables.md) [+M] — learners who differ on it differ in outcomes
+- [All measured variables (emotions, self-concept, social support, achievement) are significantly intercorrelated in the expected directions](../claims/fl-emotions-achievement-correlations.md) [+M] — learners who differ on it differ in outcomes
+- [At high English academic self-concept, social support's positive association with enjoyment and negative association with anxiety are significantly stronger than at low self-concept](../claims/self-concept-strengthens-simple-slopes.md) [~M] — an instructional effect differs with it
+- [English academic self-concept moderates the association of social support with foreign language enjoyment (positively) and foreign language anxiety (negatively)](../claims/self-concept-moderates-support-emotion-paths.md) [~M] — an instructional effect differs with it
+- [School climate and academic motivation chain-mediate the effect of academic self-concept on psychological truancy](../claims/chain-mediation-climate-motivation-truancy.md) [+W] — learners who differ on it differ in outcomes
+- [School climate partially mediates the link between academic self-concept and psychological truancy](../claims/school-climate-mediation-asc-truancy.md) [+W] — learners who differ on it differ in outcomes
+- [English academic self-concept did not significantly moderate the association of social support with foreign language boredom](../claims/boredom-path-not-moderated-by-self-concept.md) [-M] — an instructional effect differs with it
 
 ## Related Learner Variables
 

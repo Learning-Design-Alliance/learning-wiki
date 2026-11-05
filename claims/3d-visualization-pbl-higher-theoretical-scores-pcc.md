@@ -55,3 +55,4 @@ Randomized comparison of 50 urology residents (25 per group) at Peking Union Med
 - [No significant difference between CBL-3D and traditional teaching in qualitative diagnosis of focal liver lesions](cbl-3d-reconstruction-no-gain-qualitative-diagnosis.md) — related
 - [Objective multiple-choice test scores do not differ significantly between 3D-PBL-annotation teaching and traditional lecture-based learning](3d-pbl-annotation-no-objective-score-difference.md) — reports the opposite
 - [Residents trained with DwGJ-integrated CBL scored higher on the post-course theoretical examination than residents receiving conventional CBL](dwgj-cbl-higher-theoretical-exam-scores.md) — related
+- [3D printing integrated with PBL yields higher immediate post-course knowledge scores than lecture-based teaching for AGP trainees on thoracolumbar fractures](3dp-pbl-higher-immediate-post-course-scores.md) — related

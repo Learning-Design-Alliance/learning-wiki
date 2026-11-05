@@ -52,3 +52,4 @@ Thematic analysis of interviews with 23 prenatal clinicians found that "a key ch
 - [Prenatal clinicians prefer live, dynamic sessions over online video-based training modules](tic-live-sessions-preference-prenatal.md) — related
 - [Prenatal clinicians recommend system-wide TIC training targeting the whole workforce including leadership](tic-system-wide-training-recommendation.md) — related
 - [Stakeholders identified an educational-support gap: LEDs stabilise the workforce but receive less structured teaching than HEE trainees, with lack of protected time a key barrier](led-education-support-gap-protected-time.md) — related
+- [Clinical educators lacked specific training in teaching telehealth competencies and relied on assumed workplace knowledge](educator-lack-telehealth-training-simulation.md) — related

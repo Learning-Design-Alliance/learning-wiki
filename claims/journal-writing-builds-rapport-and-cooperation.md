@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2010
+source_checked: 2026-11-05
 sources:
   - id: tuan-2010
     resource: "https://eric.ed.gov/?id=EJ1081806"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q1`
-> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2010 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` By the seventh week a cooperative learning atmosphere pervaded the experimental group, with students discussing journal entries and forming voluntary peer-editing groups. [→ Tuan 2010](#tuan-2010)

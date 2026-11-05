@@ -53,3 +53,4 @@ Cluster-randomized controlled study; Mini-CEX administered pre- and post-clerksh
 - [Modified Mini-CEX combined with SBAR teaching improves clinical skills scores but not theoretical exam scores](mini-cex-sbar-improves-clinical-skills-not-theory.md) — related
 - [AI-Mentor pilot improves overall clinical competence on Mini-CEX from pretest to posttest](ai-mentor-pilot-improves-overall-mini-cex.md) — related
 - [Non-dentistry undergraduates prioritize learning oral pathologies and diagnostic thinking over basic oral procedural skills in their stomatology clerkship](non-dental-students-prioritize-diagnostic-over-procedural-skills.md) — related
+- [Students taught with combined PBL, MDT, and flipped classroom methods scored higher on a clinical skills exam than traditionally taught students in the ACS clerkship](pbl-mdt-flipped-higher-skill-exam-scores-acs.md) — related

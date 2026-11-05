@@ -72,3 +72,4 @@ Discouragement item (n=219 responses). The inaccuracy reason was rated 'a lot' b
 - [Low comment rewriting does not imply a smooth process: students describe the main effort as verifying generated code rather than revising prompts](verification-burden-shifts-work-from-rewriting-to-reviewing.md) — related
 - [Most students reported no change in study habits, but students who adapted their study strategies rated GenAI-evaluation assignments as significantly more helpful](study-habit-adapters-rate-genai-grading-helpful.md) — related
 - [Students use self-initiated strategies of verification, skill improvement, post-editing, pre-editing and reliance management to cope with GenAI challenges](genai-translation-self-initiated-coping-strategies.md) — related
+- [Trust in ChatGPT's outputs was low overall and correlated positively with usage frequency](chatgpt-trust-correlates-with-usage-frequency.md) — related

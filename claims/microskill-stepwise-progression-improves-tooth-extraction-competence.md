@@ -52,3 +52,4 @@ Randomized pilot study of 40 fifth-year dental students allocated 1:1 during an 
 - [The experimental group reported a higher maximum case-complexity stage than the control group in an exploratory self-reported analysis.](experimental-group-higher-self-reported-case-complexity-stage.md) — related
 - [Integrated online-PBL-CBL teaching improves six DOPS procedural dimensions but not overall DOPS performance](online-pbl-cbl-dops-six-dimensions-improved.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — related
+- [Procedural skill (DOPS) scores of digitally-CBL-trained novices do not differ significantly from traditionally trained specialists](digital-cbl-dops-scores-comparable.md) — related

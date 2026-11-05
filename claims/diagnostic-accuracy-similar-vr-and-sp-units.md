@@ -53,3 +53,4 @@ Post-interview diagnosis task in the within-subjects study of 50 students: after
 - [Multi-agent scaffolding showed no significant difference from the structured control in binary diagnostic accuracy or worksheet completion](no-diagnostic-accuracy-difference.md) — related
 - [Virtual patient simulations show mixed effects: improved diagnostic accuracy in one trial, no advantage over video teaching in another, and short-lived knowledge gains](virtual-patients-mixed-psychiatry.md) — related
 - [Conventional training received significantly higher ratings for perceived realism and immersion than VR-based training (r=0.774)](conventional-training-higher-realism-immersion.md) — related
+- [Vietnamese participants reported higher recommendation and perceived realism rates and lower VR-related discomfort than a prior U.S. cohort, with no statistically significant between-cohort differences](vietnam-us-cohort-feedback-comparison-no-significant-differences.md) — related

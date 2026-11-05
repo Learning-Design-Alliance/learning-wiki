@@ -129,3 +129,4 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Students found argumentation-based activities fun and instructive, with experimenting the most-liked part](student-views-argumentation-activities-fun-instructive.md) — related
 - [Water Module students found the active, integrative teaching style stimulating for independent and critical thinking despite initial discomfort](water-module-active-learning-reception.md) — related
 - [Students report culture-based activities create an enjoyable and comfortable atmosphere](culture-activities-enjoyable-atmosphere.md) — related
+- [Students rated the interdisciplinary escape room positively, with the highest ratings for recommendation to peers, fun, relevance, and learning atmosphere](escape-room-student-satisfaction.md) — related

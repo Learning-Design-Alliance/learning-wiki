@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/baseline-equivalence-dental-chairside-rct.md
+---
+
+# Revision history: [claims/baseline-equivalence-dental-chairside-rct](../claims/baseline-equivalence-dental-chairside-rct.md)
+
+### 2026-11-05 · ingest · process:wiki-ingest
+Ingested from pmc-12659616 (A PBL-, CBL-, and seminar-based blended teaching model for chairside instruction of undergraduate dental students: a randomized controlled trial.) via eval_harness.py + ingest_extractions.py

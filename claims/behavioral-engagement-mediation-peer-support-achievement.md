@@ -51,3 +51,4 @@ Bootstrapping (5,000 resamples) indirect-effect test in the SEM (Table 7). The a
 - [Emotion regulation mediates the relationship between perceived peer support and academic achievement](emotion-regulation-mediation-peer-support-achievement.md) — related
 - [A sequential mediation pathway runs from perceived peer support through emotion regulation and behavioral engagement to academic achievement](sequential-mediation-er-be-pathway.md) — related
 - [Behavioural engagement mediates the relationship between EFL PsyCap and EFL achievement](engagement-mediatepsycap-achievement.md) — related
+- [Peer support does not mediate the relationship between motivational regulation strategies and achievement in the tested alternative models](peer-support-not-mediator-alternative-models.md) — related

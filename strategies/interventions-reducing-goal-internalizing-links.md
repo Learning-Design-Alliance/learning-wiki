@@ -51,6 +51,7 @@ The authors state that their findings "have implications for intervention progra
 ## Related Strategies
 
 - [Design interventions that address mathematical and motivational/socioemotional dimensions concurrently](concurrent-math-motivation-algebra-interventions.md)
+- [Intervene by reframing performance-avoidant students' motivations toward mastery and teaching them relationship-initiation strategies](reframing-performance-avoidance-and-social-skills-intervention.md)
 
 ## Examples
 -

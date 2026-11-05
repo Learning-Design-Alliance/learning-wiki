@@ -55,3 +55,4 @@ Safety questionnaire covering 18 symptoms rated for frequency, severity, and bot
 - [No significant safety issues arose in VR-IWS use; one young participant reported minor dizziness in one session only](vr-iws-no-significant-safety-issues.md) — related
 - [Simulator sickness was low (median SSQ 1.9) with no serious adverse events](ncpr-vr-low-simulator-sickness.md) — related
 - [TNO stereopsis scores show a transient reduction after EyeSi VR simulation](eyesi-vr-transient-stereopsis-reduction.md) — related
+- [Mild, transient cybersickness occurs in a minority of novices using 3D VR video acclimatisation](3d-vr-mild-transient-cybersickness.md) — related

@@ -51,6 +51,7 @@ The review recommends that future work develop high-fidelity computer-based simu
 - [Combine behavioural observation with explicit evaluation of formulation and reasoning processes in simulation-based assessment](combine-behavioural-observation-with-formulation-assessment.md)
 - [Class-level randomization with blinded examiners for comparing instructional methods across intact student groups](class-level-randomization-strategy.md)
 - [Combine standardized theoretical training with high-fidelity simulation-based practical skills training](combine-theoretical-training-with-simulation-phtls.md)
+- [Evaluate microlearning effectiveness with an RCT adding objective outcomes to self-report measures](planned-rct-microlearning-evaluation-strategy.md)
 
 ## Examples
 -

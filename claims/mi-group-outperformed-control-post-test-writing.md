@@ -72,3 +72,4 @@ Independent-samples t-test comparing post-test essay scores of the experimental 
 - [Online-based writing instruction produces equivalent overall essay performance gains compared to classroom-based instruction for ESL students](online-lms-writing-instruction-equivalent-gains.md) — related
 - [Cooperative learning significantly improves EFL writing achievement compared with solitary writing](cooperative-writing-improves-efl-writing-achievement.md) — related
 - [EFL students' writing skills rose significantly from pre-test to post-test in one uncontrolled pre-post study of teacher scaffolding within a writing process approach.](scaffolding-writing-process-improves-efl-writing.md) — related
+- [Undergraduates using the PROMPTa ICT-based alternative assessment platform outperformed a traditionally assessed control group on writing post-test scores](prompta-raises-undergraduate-writing-posttest.md) — related

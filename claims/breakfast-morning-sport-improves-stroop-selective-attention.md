@@ -72,3 +72,4 @@ Pearson correlation analysis of individual change scores (post minus pre) within
 - [Children using cycling desks showed improved inhibitory control and selective attention on some tasks](cycling-desks-improve-inhibitory-control-attention.md) — related
 - [Small pilot studies provide preliminary evidence that exercise interventions improve behavioral symptoms and neuropsychological functioning in children with ADHD](exercise-pilots-improve-adhd-symptoms-cognition.md) — a broader claim this one bears on
 - [Quality of habitual breakfast, in terms of variety of food groups and adequate energy, is positively related to school performance](breakfast-quality-school-performance.md) — related
+- [Active-break and control groups differed on the Stroop Test regardless of time, but the Group × Time interaction was not significant, so no effect of the active breaks on inhibitory control was shown](active-breaks-improve-executive-function-stroop.md) — related

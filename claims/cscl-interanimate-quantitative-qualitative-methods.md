@@ -55,3 +55,4 @@ The editorial's interpretive conclusion (type e) drawn from three methodology ar
 - [Exploratory analyses find evidence for a relation between aspects of the collaborative process and knowledge convergence](process-aspects-relate-to-knowledge-convergence-exploratory.md) — related
 - The editorial calls for empirically grounded analysis combining Rabardel's theory with design-based research data to study mutual shaping of CSCL software and group cognition — related
 - [CSCL workshop participants concluded that building a single shared CSCL paradigm was neither feasible nor desirable, favoring maintained paradigm diversity](cscl-paradigm-building-deemed-infeasible-2025-workshop.md) — related
+- [The ISM roadmap identifies interdependencies without quantifying their strength, a stated limitation](ism-roadmap-strength-unquantified-limitation.md) — related

@@ -52,3 +52,4 @@ The article states as a general pattern across cited studies that "reaction time
 - [Accuracy and the proportion of high bets decrease with increasing discrimination difficulty in both domains](difficulty-reduces-accuracy-and-high-bets.md) — a narrower finding that bears on this claim
 - [N-back response time increases and accuracy decreases with cognitive load, and Posner cue conditions differ in speed and accuracy trade-offs](cognitive-load-dose-response-nback-posner.md) — possibly the same claim (merge candidate)
 - [WMPT accuracy, confidence, Bias Index and Absolute Accuracy Index all change significantly with task difficulty](wmpt-measures-vary-with-difficulty.md) — related
+- [Faster reaction time on the 2-back working memory task is associated with better GPA](faster-2back-reaction-time-better-gpa.md) — related

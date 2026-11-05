@@ -75,3 +75,4 @@ Post hoc comparison across the four pretest/posttest by group conditions in the 
 - [Online-based writing instruction produces equivalent overall essay performance gains compared to classroom-based instruction for ESL students](online-lms-writing-instruction-equivalent-gains.md) — related
 - [Flipped classroom produced significantly higher adjusted post-test knowledge scores than lecture-based learning in a fluids and electrolytes course (partial η² = 0.65)](flipped-classroom-higher-posttest-knowledge-nursing-rct.md) — related
 - [Both groups improved significantly from pretest to posttest, but improvement was significantly greater in the flipped classroom condition](flipped-rct-greater-within-group-gain.md) — related
+- [The flipped classroom model in live online classes produces no significant immediate learning achievement advantage over traditional teaching](fcm-loc-no-immediate-achievement-difference.md) — reports the opposite

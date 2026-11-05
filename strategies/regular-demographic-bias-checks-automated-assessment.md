@@ -45,6 +45,7 @@ The authors operationalize bias as a situation where "the model exhibits a highe
 ## Related Strategies
 
 - [Mitigating Racial Bias in Edtech Products](mitigating_racial_bias_in_edtech_products.md)
+- [Use rater training, diversity recruitment, and equitable resource access to mitigate assessment disparities](rater-training-and-diversity-efforts-for-assessment-equity.md)
 
 ## Examples
 -

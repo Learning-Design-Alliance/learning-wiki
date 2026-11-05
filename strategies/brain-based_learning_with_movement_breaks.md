@@ -63,6 +63,7 @@ Movement breaks work primarily by counteracting the vigilance decrement — sust
 - [Brain Breaks](brain-breaks.md) — the general family of short reset activities this strategy structures into instruction
 - [Include opportunities for mini-breaks during lessons, such as drawing, music, games, stretching, or going outside](mini-breaks-during-lessons.md)
 - [Use review evidence to make teachers critical consumers of brain-based explanations, rather than dropping neuroscience directly into practice](critical-consumers-of-brain-based-explanations.md)
+- [Integrate structured active breaks into academic curricula to support student well-being and performance](integrate-active-breaks-into-curricula.md)
 
 ## Examples
 - **[GoNoodle](https://www.gonoodle.com)** — short guided movement videos designed for classroom transitions between instructional segments.

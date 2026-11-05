@@ -61,3 +61,4 @@ Primary outcome domains F and G in the within-participants comparison of 20 stud
 - [Medical students report high overall satisfaction with an interprofessional simulation-based learning module](ipe-module-high-student-satisfaction.md) — related
 - [The VR group rated class evaluation, simulation design evaluation, and practice immersion significantly higher than the e-book control group](vr-group-higher-secondary-outcomes-dka-simulation.md) — related
 - [Perceived usefulness of VR correlated with perceived knowledge impact, with the strongest association between immersion and understanding (R = 0.73)](vr-perception-correlations-immersion-understanding.md) — related
+- [Students' ratings of the importance of simulation training and human factors training rose significantly from pre-test to post-test after the module, in one uncontrolled pre-post study](simulation-module-improved-simulation-human-factors-ratings.md) — related

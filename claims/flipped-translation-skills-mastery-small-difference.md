@@ -53,3 +53,5 @@ Questionnaire skills-mastery domain from the post-experiment survey of both clas
 - [Classroom participation was rated significantly higher in the flipped project-based class than in the control class](flipped-translation-classroom-participation-higher.md) — related
 - [Students in both classes reported low satisfaction with the traditional summative assessment model](summative-assessment-dissatisfaction-translation.md) — related
 - [Flipped learning reduces but does not eradicate writer's block in ESP business students relative to traditional teaching](flipped-learning-reduces-writers-block-not-eradicated.md) — related
+- [No difference between 3DP and lecture-based groups in self-reported mastery of basic knowledge](3dp-pbl-no-difference-basic-knowledge-mastery.md) — related
+- [Participation in the flipped classroom model does not significantly improve university students' self-directed learning skills](fcm-loc-no-sls-improvement.md) — related

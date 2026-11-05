@@ -72,3 +72,4 @@ Univariate ANOVA on JOL gamma correlations for older adults (n = 40). The direct
 - [Judgments of learning are higher for easy than difficult items at all ages and increase with age, confirming the difficulty manipulation aligned with subjective difficulty](jol-difficulty-and-age-effects.md) — related
 - [JOL resolution (relative accuracy) did not differ between younger and older adults](jol-resolution-no-age-difference.md) — related
 - [Aging does not materially reduce the relative accuracy (resolution) of judgments of learning during encoding, with cross-sectional evidence of no age declines and even age-related increases in aggregate JOL resolution across ages 18 to 81](aging-spares-jol-resolution-encoding.md) — related
+- [In the MIND model group, younger learners (18–24) achieved significantly higher learning outcomes than older age groups](mind-younger-learners-higher-outcomes-age.md) — related

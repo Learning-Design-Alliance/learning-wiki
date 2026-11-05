@@ -45,6 +45,7 @@ The article recommends that post-crisis educational interventions move beyond un
 
 - [Differentiated, profile-matched university AI-readiness and career-education support instead of uniform AI-literacy programs](profile-differentiated-ai-career-education-support.md)
 - [Tailor school interventions to school conditions and prior performance rather than applying uniform mandated interventions](tailor-interventions-to-school-conditions.md)
+- [Differentiate English instruction by learners' academic self-concept level to optimize emotional pathways](self-concept-differentiated-efl-instruction.md)
 
 ## Examples
 -

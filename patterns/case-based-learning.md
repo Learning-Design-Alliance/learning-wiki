@@ -37,7 +37,7 @@ sources:
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 88 claims (46 for, 40 mixed, 2 against) · 65 studies (31 causal, 14 quant-synthesis, 10 review, 4 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 20 of 65 report an effect size · 83 claims rest on one study
+> **Evidence** · 89 claims (47 for, 40 mixed, 2 against) · 66 studies (32 causal, 14 quant-synthesis, 10 review, 4 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 20 of 66 report an effect size · 84 claims rest on one study
 
 ## Description and scope
 
@@ -156,6 +156,7 @@ Claims this page cited before it was rewritten as a conditional model. Both clai
 - [Students taught pulmonary imaging with CBL-FC scored higher than an LBL group on application of imaging principles and diagnostic reasoning, in a quasi-randomized comparison where CBL-FC also added peer interaction](../claims/cbl-fc-improves-application-and-diagnostic-reasoning.md) [+W] — attached 2026-11-04 from Mao Haijia et al. (2026), which proposed "CBL-FC instructional pattern: pre-class case preparation, in-class student-led presentation with peer evaluation, post-class individual reporting with feedback"; tests this page's relationship.
 - [CBL-FC students achieve significantly higher post-intervention test scores than LBL students in pulmonary imaging education](../claims/cbl-fc-higher-post-test-scores-pulmonary-imaging.md) [+W] — attached 2026-11-04 from Mao Haijia et al. (2026), which proposed "CBL-FC instructional pattern: pre-class case preparation, in-class student-led presentation with peer evaluation, post-class individual reporting with feedback"; tests this page's relationship.
 - [MDT-CBL interns scored numerically higher than traditionally taught interns on a urology knowledge test, but the difference was not statistically significant](../claims/mdt-cbl-knowledge-test-null-pilot.md) [~W] — attached 2026-11-05 from Tang Shiying et al. (2026), which proposed "MDT-enhanced CBL: a case-based learning pattern in which a multidisciplinary specialist team jointly teaches real clinical cases"; tests this page's relationship.
+- [Experimental-group trainees' theoretical implantology knowledge scores rose significantly from pre-course to post-course in a single-group pre-post study with no comparison group](../claims/digital-cbl-significant-pre-post-theoretical-gain.md) [+W] — attached 2026-11-05 from Cai Z (2025), which proposed "Combine digital technology with case-based learning rather than relying on digital navigation alone"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

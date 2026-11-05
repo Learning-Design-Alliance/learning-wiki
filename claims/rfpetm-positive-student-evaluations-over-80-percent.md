@@ -47,3 +47,4 @@ Questionnaire survey of RFPETM students across teaching-method aspects with IOC 
 ## Related Claims
 - [The RFPETM group had a far larger proportion of students rated excellent (69.77%) on final scores than the TPETM group (4.62%)](rfpetm-excellent-final-score-proportion-69-77-percent.md) — related
 - [Most RFPETM students reported that the model helped their knowledge acquisition, with 82.17% rating improvement or significant improvement](rfpetm-students-report-knowledge-acquisition-gains.md) — related
+- [More than 80 percent of boot camp participants gave favorable ratings to all aspects of the training](boot-camp-favorable-trainee-ratings.md) — related

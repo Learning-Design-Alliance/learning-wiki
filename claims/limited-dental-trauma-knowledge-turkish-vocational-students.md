@@ -53,3 +53,4 @@ Cross-sectional online survey of 333 students from 16 programs across 7 Turkish 
 - [Students who self-reported knowing what to do for an avulsed permanent tooth gave significantly more correct answers on contaminated-tooth and fractured-tooth management](self-reported-avulsion-knowledge-predicts-correct-responses.md) — related
 - [Medical students show low clinical decision accuracy in dental trauma scenarios, particularly for tooth avulsion](medical-students-low-decision-accuracy-dental-trauma.md) — related
 - [Residents know avulsed-tooth storage media well but only 29.3% identify the correct 2-week splinting duration](tdi-knowledge-storage-media-strong-splinting-gap.md) — related
+- [Students' self-assessed knowledge of dental injury first aid is low and does not increase across years of study despite rising objective knowledge](self-assessment-low-and-flat-across-years.md) — related

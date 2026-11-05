@@ -63,3 +63,4 @@ Within the cooperative learning group (Table 6: 37 males, 33 females), females' 
 - [Female and male students' histology post-test scores did not differ significantly](no-gender-difference-histology-posttest.md) — related
 - [Female students report significantly higher learning environment perceptions than male students, though post-test performance does not differ by gender](female-students-higher-perceptions-exploratory.md) — related
 - [Female participants report slightly higher overall retrospective CRM learning gains than male participants](gender-difference-retrospective-crm-gain.md) — related
+- [Male students score higher on average in mathematics achievement than females in both grades in descriptive comparisons](gender-descriptive-achievement-gap-grades-10-11.md) — reports the opposite

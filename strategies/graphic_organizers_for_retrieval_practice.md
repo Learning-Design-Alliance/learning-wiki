@@ -90,6 +90,7 @@ The strategy combines two complementary mechanisms: retrieval strengthens memory
 - [Retrieval Practice Activities](retrieval-practice-activities.md)
 - [Graphic Organizers for Note-Taking](graphic_organizers_for_note-taking.md)
 - [Implement computerized covert retrieval practice for visuospatial materials such as maps, faces, and diagrams instead of passive scrutiny](computerized-covert-retrieval-nonverbal-materials.md)
+- [Use cover, copy, and compare with graphic organizers as a study strategy for learning stimulus relations](ccc-graphic-organizer-study-strategy.md)
 
 ## Examples
 - After a Civil War chapter, students brain-dump, then sort their recalled items onto a timeline and a causes/effects organizer, then verify against the text (see [Cult of Pedagogy's retrieval practice resources](https://www.cultofpedagogy.com/retrieval-practice/)).

@@ -52,3 +52,4 @@ In the RCT of 70 medical students, domain-level ANCOVA comparisons of interventi
 - [PBL-DeepSeek students show higher Mini-CEX clinical competence across all seven domains than traditionally taught students](deepseek-pbl-minicex-clinical-gains.md) — related
 - [Item-level analysis found statistically significant score rises on 9 of 10 peer instruction questions from pre-test to post-test in one group with no comparison group, after Holm–Bonferroni correction.](pi-item-level-improvement-nine-of-ten.md) — related
 - [Integrated model improves all seven Mini-CEX domains, largest gain in physical examination](microskills-cptm-minicex-all-domains.md) — related
+- [SST residents achieve a higher total Mini-CEX score than controls, with advantages in all Mini-CEX items except 4-C and 6-A](sst-higher-mini-cex-scores.md) — related

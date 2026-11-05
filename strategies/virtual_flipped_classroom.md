@@ -82,6 +82,7 @@ The flipped model's advantage comes from spending scarce synchronous time on act
 - [Pair online lectures with virtual role-play or simulation sessions to add experiential learning](online-lecture-virtual-roleplay-simulation.md)
 - [Design PPS training as blended learning with short, concise online modules and in-person workshops focused on role-play skills practice](blended-learning-pps-training-design.md)
 - [Integrate AI-assisted virtual patient pre-class work with flipped classroom in-class discussion for clinical decision-making training](ai-assisted-cbl-fc-blended-strategy.md)
+- [Use asynchronous pre-work to improve learner engagement and preparation before virtual education sessions](asynchronous-prework-before-virtual-education.md)
 
 ## Examples
 - **Michigan State University's fully online flipped calculus courses** — students watch short videos and complete online checks before live problem-solving sessions; published studies report improved pass rates over lecture-based online sections.

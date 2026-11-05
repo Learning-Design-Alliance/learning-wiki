@@ -50,3 +50,4 @@ Multiple linear regression on the full sample (N = 3528); Table 3 reports B = -0
 - [Factors associated with PICC care knowledge differ across hospital levels: guidelines and training need were significant only in tertiary hospitals, while education and prior training were significant only in secondary/primary hospitals](hospital-level-stratified-picc-knowledge-factors.md) — related
 - [PHTLS training is the strongest independent predictor of passing the knowledge test after adjustment](phtls-training-strongest-predictor-passing.md) — related
 - [Nurses' working experience is associated with AI competence; other demographics show no significant association](working-experience-associated-with-aic-nurses.md) — related
+- [Working experience, age and education variables show no statistically significant association with Knowledge Score or with ethics/equity understanding](no-association-demographics-knowledge-score-ethics.md) — related

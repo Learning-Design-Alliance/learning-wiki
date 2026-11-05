@@ -49,3 +49,4 @@ The review's synthesis of included studies reports that "Some control groups als
 - [The active group improved faster during training, reaching a capacity plateau after six days, while the sham group rose more slowly](tdcs-accelerates-early-training-gains-plateau.md) — related
 - [Pre-training educational video review improved simulator scores and shortened the learning curve but temporarily increased completion time](video-review-improves-scores-plateau-earlier.md) — related
 - [Stepwise task progression was reported in five of ten included studies and identified as important for skills training](stepwise-task-progression-in-dp-sbst.md) — related
+- [Performance in the VR suture training improved with practice repetitions but reached a plateau after 2 to 4 practices](vr-suture-practice-plateau.md) — related

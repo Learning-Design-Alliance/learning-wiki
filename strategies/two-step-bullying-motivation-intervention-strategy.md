@@ -48,6 +48,7 @@ Based on the meta-analytic findings, the authors recommend that educational inte
 
 - [Two-step bullying intervention: first reduce victimisation and rebuild motivational factors, then raise achievement and engagement](two-step-bullying-motivation-intervention.md)
 - [Implement school-wide policy action to address weight-based teasing and bullying](school-wide-policy-weight-based-teasing.md)
+- [Multi-level interventions to reduce psychological truancy: build self-concept, boost motivation, and improve school climate](three-level-truancy-intervention-strategy.md)
 
 ## Examples
 -

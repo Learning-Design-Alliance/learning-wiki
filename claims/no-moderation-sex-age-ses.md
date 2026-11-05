@@ -56,3 +56,4 @@ Moderation tests in the longitudinal SEM sample: Box's M for SES was significant
 - [The mediating role of executive functions remains significant when children's temperament and vocabulary are modeled as alternative mediators](ef-mediation-robust-to-temperament-vocabulary.md) — related
 - [Children's executive functions at 54 months partly account for the association between mothers' early autonomy support and achievement in elementary and high school](executive-functions-mediate-autonomy-support-achievement.md) — related
 - [No differences in attention span based on sex were found or expected in this age group](no-sex-differences-attention-preschool.md) — related
+- [Age negatively moderates the path from executive function to mathematics achievement, while gender and age moderation is non-significant on all other paths in both models](age-negatively-moderates-ef-mathematics-path.md) — related

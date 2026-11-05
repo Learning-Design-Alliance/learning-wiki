@@ -52,6 +52,7 @@ Students keep English journals outside class about topics of personal relevance,
 
 - [Dialogue Journals](dialogue-journals.md)
 - [Math Journals](math_journals.md)
+- [Implement guided reflective diary writing with weekly entries and individualized teacher feedback](guided-reflective-diary-writing-strategy-nursing.md)
 
 ## Examples
 -

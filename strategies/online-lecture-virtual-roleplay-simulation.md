@@ -43,6 +43,7 @@ The review describes combining online lectures with virtual role-play or simulat
 - [Virtual Flipped Classroom](virtual_flipped_classroom.md)
 - [Debriefing](debriefing.md)
 - [Games](games.md)
+- [Use asynchronous pre-work to improve learner engagement and preparation before virtual education sessions](asynchronous-prework-before-virtual-education.md)
 
 ## Examples
 -

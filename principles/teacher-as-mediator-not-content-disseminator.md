@@ -252,6 +252,7 @@ Reported engagement, end-of-unit understanding, exam performance, delayed retent
 - [Instructor acts as facilitator in student-centered guest lecturing: select speakers, set expectations, monitor, but avoid dominating each stage](../strategies/instructor-facilitator-role-guest-lecturing.md)
 - [Use concrete props and algebraic patterns to scaffold analogical skill in geometry discovery lessons](../strategies/props-and-algebraic-patterns-analogy-scaffolding.md)
 - [Mediate each grammar-test item interactively using clue-seeking, elimination and comparison strategies, with a take-home information paper](../strategies/mediated-item-strategies-information-paper.md)
+- [Tutor facilitation through four dynamic roles during group inquiry](../strategies/tutor-four-role-dynamic-facilitation.md)
 
 ## Key Sources
 - Mutlu, A. & Şahin, M. (2019). The Mediated Learning Experience (MLE) Theory in Meaningful Language Instruction. International Journal on New Trends in Education and Their Implications, 10(2). http://www.ijonte.org

@@ -75,3 +75,5 @@ Stepwise regression performed to confirm robustness of the simultaneous model in
 - [Engagement score, quiz completion rate, and assessment format independently predict answer accuracy in multivariate regression](multivariate-predictors-answer-accuracy.md) — related
 - [Males scored significantly lower than females on skills scores one year after implementation, independent of other factors](males-lower-one-year-skill-scores.md) — reports the opposite
 - [Female gender, administrative position and lecture attendance independently predict adequate enteral nutrition knowledge](independent-factors-adequate-en-knowledge.md) — related
+- [Male students demonstrated higher GPA than female students in this sample, and sex was a significant regression predictor](sex-difference-gpa-male-higher-dilla-sample.md) — reports the opposite
+- [Social well-being components explain 11.1% of variance in academic achievement, with social acceptance the significant predictor (β = 0.136) despite a null bivariate correlation](social-acceptance-predicts-achievement-regression.md) — related

@@ -53,3 +53,4 @@ Exploratory post hoc two one-sided tests procedure computing 95% confidence inte
 - [Both AI-VSP and SP groups improved significantly from pre-test to post-test, with no significant difference in score improvement between groups](ai-vsp-sp-post-test-improvement-similar.md) — related
 - [Student satisfaction did not differ significantly between AI-VSP and SP groups](ai-vsp-sp-satisfaction-similar.md) — related
 - [SEGUE-based simulation training with either AI-VSPs or traditional SPs: medical students' communication scores rose significantly from pre-test to post-test in within-group comparisons](segue-simulation-training-improves-communication-scores.md) — related
+- [Student satisfaction was significantly lower for AI-driven virtual patient simulator training than for actor-based simulation, though satisfaction was high for both](satisfaction-lower-for-ai-cst-than-ab-cst.md) — reports the opposite

@@ -18,7 +18,7 @@ sources:
 # Self-Directed Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 55 claims (18 for, 34 mixed, 3 against) · 54 studies (17 review, 13 causal, 9 theoretical, 8 quant-synthesis, 4 associational, 2 qualitative, 1 design), `q1`–`q4` · 7 of 54 report an effect size · 46 claims rest on one study
+> **Evidence** · 56 claims (18 for, 35 mixed, 3 against) · 55 studies (17 review, 14 causal, 9 theoretical, 8 quant-synthesis, 4 associational, 2 qualitative, 1 design), `q1`–`q4` · 8 of 55 report an effect size · 47 claims rest on one study
 
 ## Conditional relationship
 
@@ -124,6 +124,7 @@ Read against the model on 2026-10-15; the one claim below does not bear on a ste
 - [Knowledge retention measured 4 weeks after instruction is higher for topics learned through self-directed learning than for topics learned through didactic lecture](../claims/sdl-four-week-retention-exceeds-didactic-lecture.md) [+W] — attached 2026-11-05 from Arora Samridhi et al. (2025), which proposed "Use self-directed learning rather than didactic lecture as the preferred teaching–learning method for clinical anatomy topics in first-year medical curricula"; tests this page's relationship.
 - [Video-supported self-directed learning is noninferior to instructor-led workshop training for passing a practical assessment on a new anaesthesia workstation](../claims/self-directed-video-noninferior-anaesthesia-workstation.md) [~M] — attached 2026-11-05 from Gutersohn Caterina et al. (2025), which proposed "Use video-supported self-directed learning with hands-on exercises and a self-check to train clinical staff on new medical devices, reducing instructor need over time".
 - [Majorities in both arms preferred traditional teacher-led workshops over the self-directed video format, with the instructor-led arm preferring it more](../claims/learners-prefer-traditional-instructor-led-workshop.md) [~M] — attached 2026-11-05 from Gutersohn Caterina et al. (2025), which proposed "Use video-supported self-directed learning with hands-on exercises and a self-check to train clinical staff on new medical devices, reducing instructor need over time".
+- [Participation in the flipped classroom model does not significantly improve university students' self-directed learning skills](../claims/fcm-loc-no-sls-improvement.md) [~W] — attached 2026-11-05 from Aslan Seda Aktı et al. (2025), which proposed "Embed explicit self-directed learning support and structured interaction protocols when implementing the flipped classroom in synchronous online settings".
 
 ## Objective and learner-valued goal
 

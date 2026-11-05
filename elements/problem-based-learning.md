@@ -73,7 +73,9 @@ Problem-based learning, as an element, refers to the use of an authentic or ill-
 - [Goal-Based Scenarios](../patterns/anchored-instruction.md)
 
 ## Examples
+
 - A case, challenge, or scenario that learners must investigate before formal explanation.
+- [Structure PBL sessions around case-specific 3D-printed models with teacher-facilitated group inquiry and self- and peer-assessment](../strategies/3dp-integrated-pbl-session-structure-strategy.md)
 
 ## Key Sources
 - Hmelo-Silver, C. E. (2004). Problem-based learning: What and how do students learn? *Educational Psychology Review, 16*(3), 235-266. [https://doi.org/10.1023/B:EDPR.0000034022.16470.f3](https://doi.org/10.1023/B:EDPR.0000034022.16470.f3)

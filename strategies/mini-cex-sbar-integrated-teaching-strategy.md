@@ -47,6 +47,7 @@ The article describes an integrated teaching method in which "an modified Mini-C
 
 - [Use an SBAR-inspired observation grid to structure and assess nurse-patient communication during simulation](sbar-grid-assess-patient-communication-simulation.md)
 - [Three integrated strategies pairing public health with clinical teaching: faculty partnerships, digital prompts, and data aggregation](ohl-mini-cex-integrated-strategies.md)
+- [Three-week staged SBAR plus mini-CEX clinical teaching sequence with one-on-one mentoring](three-week-sbar-minicex-teaching-sequence.md)
 
 ## Examples
 -

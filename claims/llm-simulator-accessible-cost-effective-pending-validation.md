@@ -51,3 +51,4 @@ Authors' concluding interpretation of the pilot evaluation; no objective learner
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
 - [Phase VI AI-enabled systems face six documented challenges: explainability, hallucination risk, prompt sensitivity, computational cost, validation complexity, and limited large-scale evidence](phase-vi-ai-systems-six-challenges.md) — related
 - [Iterative prompt refinement and expert pilot-testing may partly explain favorable LLM virtual patient output quality](iterative-prompt-refinement-expert-testing-improves-output.md) — related
+- [Steady-state direct delivery cost per student was substantially lower for AI-driven virtual patient simulator training than for actor-based simulation](ai-cst-direct-cost-half-of-ab-cst.md) — a narrower finding that bears on this claim

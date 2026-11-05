@@ -56,3 +56,4 @@ Meta-analytic synthesis of the remaining math motivation measures. Male top perf
 - [Task value predicted cognitive and regulatory strategy use but not classroom grades, whereas self-efficacy predicted grades in all three subjects](task-value-predicts-strategy-use-not-grades.md) — related
 - [Male top-performing math students show strongly science-oriented science–reading profiles while female students' profiles are more balanced](science-reading-profile-gender-tilt-top5.md) — related
 - [Self-efficacy's association with achievement is stronger for math than reading, especially for boys](self-efficacy-math-stronger-than-reading-gender.md) — related
+- [Male students score higher on average in mathematics achievement than females in both grades in descriptive comparisons](gender-descriptive-achievement-gap-grades-10-11.md) — related

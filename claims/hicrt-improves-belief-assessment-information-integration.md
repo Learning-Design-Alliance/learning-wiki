@@ -52,3 +52,4 @@ In the 16-week RCT (n = 160), ANCOVA models with active control as reference tes
 - [Pre-intervention executive function correlates with information integration, but not value assessment or belief assessment](pre-intervention-set-shifting-correlates-information-integration.md) — related
 - [All three facets of decision-making competence improved from pre- to post-intervention at the omnibus level](omnibus-improvement-decision-making-competence.md) — related
 - [Across all modalities, training interventions improved either performance or safety outcomes](training-interventions-improve-performance-or-safety-across-modalities.md) — a broader claim this one bears on
+- [Decision-making competence improved over the intervention but the Group × Time interaction only approached significance](active-breaks-decision-making-trend.md) — related

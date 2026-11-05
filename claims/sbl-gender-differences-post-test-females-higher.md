@@ -55,3 +55,4 @@ Independent samples t-tests comparing males (N = 174) and females (N = 366) in t
 - [Male and female experimental groups did not differ significantly in reading comprehension at post-test after Telegram instruction](no-gender-difference-telegram-reading-posttest.md) — related
 - [Male and female experimental and control students were homogeneous in reading comprehension before the treatment](pretest-homogeneity-blog-reading-study.md) — related
 - [Within the group learning treatment, female students achieved significantly higher mathematics post-test scores than male students](females-outperform-males-group-learning-math.md) — related
+- [Female medical students scored higher than male students on both pre-test and post-test knowledge measures in the escape room evaluation](escape-room-gender-knowledge-correlation.md) — related

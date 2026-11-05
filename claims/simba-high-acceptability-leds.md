@@ -49,3 +49,4 @@ Survey acceptability results from the same 46-participant cohort: participants r
 - [SIMBA participation was followed by self-reported improvements across all six ACGME competencies, largest in patient management and patient care](simba-improves-acgme-competencies.md) — related
 - [All surveyed students perceive the near-peer tutorial as superior to lectures, textbooks, or videos for learning musculoskeletal examination](near-peer-tutorial-superior-to-traditional-resources.md) — related
 - [Most students endorse the service learning model and would recommend it for future students](service-learning-student-endorsement-recommendation.md) — related
+- [Participants rated the CCC note-taking strategy highly acceptable on a social validity survey](ccc-social-validity-high-acceptability.md) — related

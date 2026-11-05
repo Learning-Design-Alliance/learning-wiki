@@ -55,3 +55,4 @@ Two-way ANOVA on pre/post case-analysis scores of 64 university students randoml
 - [A DLS with multiple scaffolds improved achievement and SRL attitudes, with high-achieving students beating traditional teaching but not flipped classroom](multiple-scaffolds-dls-achievement-srl.md) — related
 - [Structured teacher-student interaction yields higher interbrain synchrony in left DLPFC than spontaneous interaction](structured-interaction-increases-left-dlpfc-ibs.md) — related
 - [The flipped classroom has two components: direct video instruction outside class and active face-to-face learning inside class](flipped-classroom-two-components.md) — related
+- [The flipped classroom model does not significantly enhance student course interaction in live online classes](fcm-loc-no-interaction-difference.md) — related

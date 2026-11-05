@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 123 claims (89 for, 31 mixed, 3 against) · 84 studies (31 associational, 19 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 design, 2 qualitative), `q1`–`q4` · 20 of 84 report an effect size · 117 claims rest on one study
+> **Evidence** · 125 claims (91 for, 31 mixed, 3 against) · 86 studies (33 associational, 19 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 design, 2 qualitative), `q1`–`q4` · 20 of 86 report an effect size · 119 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -179,6 +179,8 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Freedom to choose cases supported residents' sense of autonomy and motivation, while mandatory learning objectives decreased motivation for some](../claims/autonomy-case-choice-vr-motivation.md) [+W] — attached 2026-11-05 from Mosling Marte et al. (2026), which proposed "Self-Determination Theory applied post hoc to interpret residents' motivation for VR simulation"; tests this page's relationship.
 - [Final-year rehabilitation students in a Chinese-foreign cooperative program report higher self-determined academic motivation than peers in a domestic program at the same college](../claims/cooperative-program-higher-sdi-rehabilitation-students.md) [+W] — attached 2026-11-05 from Hu Huiling; Luo Hongmei (2026), which proposed "Self-Determination Theory as the framework interpreting academic motivation in rehabilitation education".
 - [Intrinsic motivation was associated with full participation (χ21=4.03; P=.045)](../claims/intrinsic-motivation-full-participation.md) [+W] — attached 2026-11-05 from Alicia S et al. (2025), which proposed "Behavioral pathway of learner autonomy: autonomous motivation → sustained participation → active content-aligned engagement → higher performance"; tests this page's relationship.
+- [Perceived emotional support from peers positively predicts personally referred performance self-talk, self-efficacy enhancement and enhancement of situational interest in secondary students](../claims/emotional-peer-support-predicts-motivational-regulation-strategies.md) [+W] — attached 2026-11-05 from Villar et al. (2025), which proposed "Self-determination theory and the self-system model of motivational development as the framework linking peer support provisions to motivational self-regulation"; tests this page's relationship.
+- [Intrinsic motivation to experience stimulation significantly strengthens the achievement composition effect in L2 classrooms](../claims/im-experience-stimulation-moderates-ace.md) [+W] — attached 2026-11-05 from Mendoza et al. (2025), which proposed "Self-Determination Theory and the self-system model of motivational development as the framework for peer-achievement effects".
 
 ## The evidence by question
 

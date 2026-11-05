@@ -52,3 +52,4 @@ Quasi-experimental pre-post comparison of 409 physiotherapy students using Mann�
 - [Both groups' JSPE-HPS scores increased over time, suggesting a general effect of theoretical empathy education](jspe-time-effect-both-groups.md) — related
 - [Virtual-reality delirium training increased nurses' empathy and knowledge, with larger empathy gains when VR preceded didactic instruction](vr-delirium-empathy-order-effect.md) — related
 - [Adding an aging simulation suit experience to theoretical training improves clinical empathy (JSPE-HPS total) in long-term care professionals](aging-suit-improves-jspe-total-empathy.md) — related
+- [Clinical teachers function as mentors and professional exemplars whose modelled conduct transmits empathy, professionalism and clinical reasoning to students](clinical-teachers-as-mentors-and-exemplars.md) — related

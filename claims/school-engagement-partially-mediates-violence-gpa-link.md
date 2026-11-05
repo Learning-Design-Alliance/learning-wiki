@@ -48,3 +48,4 @@ Hierarchical multiple regression predicting cumulative high-school GPA (n = 96 w
 - [Earlier community violence exposure inversely predicts later school engagement, but earlier school engagement does not predict later community violence exposure](community-violence-predicts-lower-later-school-engagement-unidirectional.md) — related
 - [Internalizing, externalizing, and posttraumatic stress symptoms do not mediate the association between community violence exposure and GPA](psychological-symptoms-do-not-mediate-violence-gpa.md) — related
 - [Externalizing and internalizing symptoms, but not posttraumatic stress symptoms, mediate the association between community violence exposure and later school engagement](internalizing-externalizing-symptoms-mediate-violence-engagement.md) — related
+- [School engagement partially mediates the relationship between stressful life events and academic achievement](school-engagement-partial-mediation-sles-achievement.md) — related

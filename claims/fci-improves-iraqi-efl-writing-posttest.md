@@ -90,3 +90,4 @@ Descriptive statistics (Table 2) for the same quasi-experiment show the experime
 - [Egyptian EFL students' listening comprehension scores rose from pre-test to post-test in a one-group pre-posttest study of the flipped classroom model](flipped-classroom-improves-efl-listening-comprehension.md) — related
 - [Both groups improved significantly from pretest to posttest, but improvement was significantly greater in the flipped classroom condition](flipped-rct-greater-within-group-gain.md) — related
 - [AI-mediated active learning produces significantly larger EFL writing gains than traditional teacher-centered instruction in a 15-week quasi-experiment](ai-mediated-active-learning-writing-gains.md) — related
+- [The flipped classroom model in live online classes produces no significant immediate learning achievement advantage over traditional teaching](fcm-loc-no-immediate-achievement-difference.md) — reports the opposite

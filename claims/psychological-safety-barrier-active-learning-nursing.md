@@ -57,3 +57,4 @@ Student focus group data (Theme 3, Subtheme 3.1.3). Participants reported fear o
 - [A minority of nursing students report negative emotional responses to virtual simulation teaching, including fear, anxiety, and burnout](vs-negative-emotional-experiences.md) — related
 - [Nursing students report emotional responses of inadequacy, low motivation, low self-confidence and fear during clinical practice](emotional-responses-inadequacy-low-motivation-fear.md) — related
 - [Small, discussion-based course formats are described by students as fostering psychological safety, validation, and peer connection that function as a central learning mechanism](small-discussion-formats-psychological-safety.md) — related
+- [Teachers perceived that making students feel stressed during simulations is nonbeneficial for developing nursing students' critical thinking, favouring exciting and fun learning opportunities.](stress-free-motivating-climate-ct-nursing-sbl.md) — related

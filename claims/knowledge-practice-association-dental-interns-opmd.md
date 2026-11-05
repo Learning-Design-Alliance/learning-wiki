@@ -89,3 +89,4 @@ Independent t-tests compared knowledge between "Always" and "Not always" respond
 - [Objective knowledge and self-perceived clinical confidence show a weak negative correlation (r = -0.201) among dental interns](negative-knowledge-confidence-correlation-veneers.md) — related
 - [Knowledge tertile is significantly associated with consistent screening practice among dental interns](knowledge-tertile-consistent-practice-association.md) — related
 - [Practical teaching activities should include training in recognizing malignancy risk factors such as smoking, persistent dysphonia, and non-healing oral ulcers.](teaching-malignancy-risk-factor-recognition.md) — related
+- [Knowledge scores correlate positively with attitude and opinion scores among clinical dental students in southern Nigeria](knowledge-attitude-positive-correlation-ams-dental-students.md) — related

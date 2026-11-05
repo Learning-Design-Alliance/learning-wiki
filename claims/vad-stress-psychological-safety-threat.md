@@ -99,3 +99,4 @@ Participant quotation (FG 10, P 4) illustrating the emotional risk common to bot
 - [Participants reported VR assessment environments may reduce anxiety compared with physical assessment settings](vr-assessment-reduces-performance-anxiety.md) — related
 - [Most teachers experienced participants' cameras being off as negatively affecting teaching and group process](online-mbp-cameras-off-negative-impact.md) — related
 - [Learning alongside peers in a group-based simulation assessment reduced assessment-related anxiety for most students, though some still felt overwhelmed](peer-support-reduced-assessment-anxiety-mixed.md) — related
+- [Teachers perceived that making students feel stressed during simulations is nonbeneficial for developing nursing students' critical thinking, favouring exciting and fun learning opportunities.](stress-free-motivating-climate-ct-nursing-sbl.md) — related

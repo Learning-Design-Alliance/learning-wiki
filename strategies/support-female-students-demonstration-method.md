@@ -45,6 +45,7 @@ The article recommends that teachers of agricultural science effectively employ 
 
 - [Recruit ICT-trained teachers and outline computer-based demonstration approaches for the agricultural science curriculum](ict-teacher-recruitment-and-cbd-curriculum-strategy.md)
 - [Use computer-based simulations to teach chemistry topics that are difficult to demonstrate, as a gender-friendly bridge of the achievement gap](cbs-gender-friendly-chemistry-strategy.md)
+- [Target hope- and engagement-building interventions, with particular attention to female students](hope-engagement-intervention-strategy.md)
 
 ## Examples
 -

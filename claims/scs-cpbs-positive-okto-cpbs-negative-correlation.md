@@ -52,3 +52,4 @@ Spearman correlation analysis among the three instrument components in the 434-p
 - [Objective knowledge shows a different domain pattern than self-reported competency: adequate TMJ knowledge but weakest myofunctional knowledge](okto-knowledge-pattern-myofunctional-weakest.md) — related
 - [Students' self-reported AI literacy was moderately negatively correlated with objectively measured AI competency, suggesting potential overestimation of AI abilities](perceived-ai-ability-misaligns-objective-competency.md) — related
 - [Objective knowledge and self-perceived clinical confidence show a weak negative correlation (r = -0.201) among dental interns](negative-knowledge-confidence-correlation-veneers.md) — related
+- [Self-assessed knowledge does not correlate with objective TDI-KNOW scores overall, but correlates negatively among sixth-year students](self-assessment-not-reliable-measure-of-knowledge.md) — related

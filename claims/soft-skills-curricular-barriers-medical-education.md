@@ -80,3 +80,5 @@ The review's second barrier category states institutions "may lack the necessary
 - [Students' preference for hard skills and limited receptivity to soft-skill activities hinder soft skills teaching in nursing education](student-preference-hard-skills-barrier.md) — related
 - [Institutional support and opportunities to teach were identified as key facilitators, while time constraints were the primary barrier to sustained skill application](facilitators-and-barriers-to-sustained-teaching-skills.md) — related
 - [Stakeholders favor DHNs integrated into the existing clinical team, most often medical assistants or similar groups, but flag workload and training constraints](dhn-team-integration-occupational-background.md) — related
+- [Systemic, cultural and resource barriers—patient availability, gender and consent constraints, faculty shortages and exam-focused study—impede clinical learning in the studied LMIC setting](lmic-systemic-barriers-clinical-teaching.md) — related
+- [The most frequently mentioned barrier to implementing RaT curricula is balancing workload on faculty and residents](rat-implementation-barriers-workload.md) — related

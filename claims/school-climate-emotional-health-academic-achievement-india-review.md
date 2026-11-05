@@ -52,3 +52,4 @@ Systematic review of eleven Indian studies (3,711 participants, grades 8–10) i
 - [School bonding significantly mediates the association between psychological distress and grades and expulsions among Black adolescents](school-bonding-mediates-distress-grades-expulsions.md) — related
 - [Students perceive peer interaction—companionship, support as a social buffer, and cooperation toward shared goals—as a key element of fun in learning](peer-interaction-fun-element.md) — related
 - [School environment is positively associated with educational aspiration among Indian secondary students (r = .346), motivating participation in school activities](school-environment-educational-aspiration-correlation.md) — related
+- [Academic self-concept, school climate, and academic motivation correlate substantially with psychological truancy](correlations-four-study-variables.md) — related

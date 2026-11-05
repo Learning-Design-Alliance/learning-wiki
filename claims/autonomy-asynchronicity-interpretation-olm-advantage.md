@@ -50,3 +50,4 @@ Authors' theoretical interpretation in the Discussion, not a tested result; they
 - [Reported benefits of asynchronous e-learning include cost-effectiveness, self-paced learning, flexibility, and immediate feedback](asynchronous-elearning-benefits-nurses.md) — related
 - [The free, self-paced micro-courses showed an 82% completion retention rate, and most participants found the online, asynchronous format appealing](micro-courses-high-retention-and-format-appeal.md) — related
 - [Medical students taught via an asynchronous online learning module achieved significantly higher knowledge test scores than students taught via an in-person lecture in nutritional medicine](olm-higher-test-scores-than-ipl-nutritional-medicine.md) — related
+- [Healthcare providers' confidence in virtual care delivery rose from pre-test to post-test after an asynchronous virtual care CPD module, in one uncontrolled pre-post study](virtual-care-cpd-module-improves-confidence.md) — related

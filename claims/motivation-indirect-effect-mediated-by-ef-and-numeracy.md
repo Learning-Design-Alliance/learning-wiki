@@ -57,3 +57,4 @@ Mediation analysis following Baron and Kenny on the same longitudinal SEM sample
 - [Executive function partially mediates the link between family SES and middle-school academic achievement](ef-mediation-ses-achievement.md) — related
 - [Improvements in executive function mediate the intervention's effects on learning-related behaviors and problem behaviors](ef-improvement-mediates-classroom-behavior.md) — related
 - [Mediation hypothesis not confirmed: indirect effects of City Connects through grade 5 academic and non-cognitive skills are not significantly different from zero](city-connects-mediation-not-confirmed-grade-5-skills.md) — related
+- [Executive function partially mediates the relationship between fundamental motor skills and academic achievement in both Chinese and mathematics](ef-partially-mediates-fms-academic-achievement.md) — related

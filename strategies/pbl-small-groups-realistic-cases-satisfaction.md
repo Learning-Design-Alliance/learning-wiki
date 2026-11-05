@@ -48,6 +48,7 @@ Drawing on prior work on healthcare students' satisfaction with small-group acti
 
 - [Problem Based Learning](problem-based-learning.md)
 - [Structure PBL teaching around the problem-laying, information-search, group-discussion, summary, and effectiveness-evaluation sequence](pbl-teaching-process-sequence-strategy.md)
+- [Structure PBL sessions around case-specific 3D-printed models with teacher-facilitated group inquiry and self- and peer-assessment](3dp-integrated-pbl-session-structure-strategy.md)
 
 ## Examples
 -

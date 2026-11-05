@@ -65,6 +65,7 @@ Aerobic activity acutely improves executive function and attention in children, 
 - [Add physical activity to the school day via PA breaks, extra PA sessions, more intense PE lessons, or PA integrated into academic lessons](add-pa-to-school-day-math.md)
 - [Deliver classroom-based physical activity with an academic focus to potentially support both academic performance and overall physical activity levels](classroom-based-pa-academic-focus-strategy.md)
 - [Implement integrated stress-management strategies and structured physical activity programmes for medical students in military institutions](integrated-stress-management-structured-pa-military-medical-students.md)
+- [Integrate structured active breaks into academic curricula to support student well-being and performance](integrate-active-breaks-into-curricula.md)
 
 ## Examples
 - **[Physical Activity Across the Curriculum (PAAC)](https://doi.org/10.1016/j.ypmed.2011.01.027)** — a 3-year cluster-randomized trial in 17 elementary schools delivering math and reading through physically active lessons; academic achievement was maintained or improved.

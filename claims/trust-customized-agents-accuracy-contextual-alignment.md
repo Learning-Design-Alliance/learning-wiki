@@ -51,3 +51,4 @@ Thematic analysis found clarity/operability codes more prevalent in customized g
 - [Discrepancies between lenient learner feedback and more critical automated feedback caused tutors confusion, distrust, and demands for rationale](feedback-source-discrepancies-cause-confusion.md) — related
 - [Qualitative analysis confirms the agent can identify confusing lesson content and provide actionable feedback for designers](agent-identifies-confusing-content-actionable-feedback.md) — related
 - [AI multimodal feedback is rated higher than educator feedback on specificity, clarity, simplicity, motivation, satisfaction, and lower mental effort, with comparable correctness, trust, and acceptance](ai-feedback-higher-perceived-quality-value.md) — related
+- [Students perceived automated note feedback as clearer, more direct, and easier for comparison than model note feedback](automated-feedback-clearer-easier-comparison.md) — related

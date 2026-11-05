@@ -57,6 +57,7 @@ SDT is a broad framework distinguishing intrinsic motivation (knowledge, accompl
 - [SDT-based Chinese-language ESP motivation questionnaire (adapted LLOS-IEA)](../products/sdt-based-chinese-language-esp-motivation-questionnaire-adapted-llos-iea.md)
 - [Autonomy-supportive ESP teaching strategies to foster motivation](../strategies/autonomy-supportive-esp-teaching-strategies.md)
 - [Cultivate identified and intrinsic AI motivation through curriculum integration, activities, workshops, and real-world AI applications](../strategies/cultivate-intrinsic-identified-ai-motivation-strategies.md)
+- [Nurture intrinsic motivation to experience stimulation and foster behavioural and emotional engagement to harness peer-achievement spillover](../strategies/nurture-stimulation-motivation-engagement-l2.md)
 
 ## Key Sources
 - Liu, L. (2016). Why Do Chinese College Students Learn ESP: An Analysis of Language Learning Motivations within SDT Framework. English Language Teaching, 9(4). https://doi.org/10.5539/elt.v9n4p92

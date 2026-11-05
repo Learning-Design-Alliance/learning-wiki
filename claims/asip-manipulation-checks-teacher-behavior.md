@@ -68,3 +68,4 @@ Multilevel condition × time test of student-perceived autonomy support (LCQ, α
 - Participants were successfully blind to stimulation condition assignment across all four groups — related
 - [Teaching practices increase in both intervention conditions as a manipulation check](teaching-practices-increase-both-intervention-conditions.md) — related
 - [PHEEM total score increased modestly, driven by role autonomy and teaching, with no change in the social-support domain](pheem-total-increased-social-support-null.md) — related
+- [Teacher autonomy support and control styles can be experimentally manipulated in simulated one-to-one teaching with strong perceived-style checks, but style differences in lPFC INS do not extend to the rTPJ](simulated-teaching-style-manipulation-fnirs-paradigm.md) — related

@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 229 claims (153 show a difference, 56 mixed, 20 no difference) · 138 studies (47 associational, 46 causal, 15 review, 11 qualitative, 10 theoretical, 7 design, 2 quant-synthesis), `q1`–`q4` · 32 of 138 report an effect size · 226 claims rest on one study
+> **Evidence** · 235 claims (158 show a difference, 56 mixed, 21 no difference) · 141 studies (49 associational, 47 causal, 15 review, 11 qualitative, 10 theoretical, 7 design, 2 quant-synthesis), `q1`–`q4` · 34 of 141 report an effect size · 232 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -264,6 +264,12 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Academic boredom mediates the relationship between EFL PsyCap and EFL achievement](../claims/boredom-mediates-psycap-achievement.md) [-W] — learners who differ on it differ in outcomes
 - [EFL PsyCap is negatively associated with academic boredom and positively with behavioural engagement, and boredom negatively predicts engagement and achievement](../claims/psycap-boredom-engagement-paths.md) [+M] — learners who differ on it differ in outcomes
 - [Most surveyed medical students perceived the pharmacology games as enjoyable and effective for understanding concepts](../claims/students-perceive-games-enjoyable-effective.md) [+M] — measured as an outcome of the instruction studied
+- [All measured variables (emotions, self-concept, social support, achievement) are significantly intercorrelated in the expected directions](../claims/fl-emotions-achievement-correlations.md) [+M] — learners who differ on it differ in outcomes
+- [Emotional engagement significantly strengthens the achievement composition effect in L2 classrooms](../claims/emotional-engagement-moderates-ace.md) [+M] — an instructional effect differs with it
+- [Foreign language emotions fully mediate the relationship between social support and English academic achievement](../claims/fl-emotions-fully-mediate-support-achievement.md) [+W] — learners who differ on it differ in outcomes
+- [Self-rated positive academic emotions (activity and outcome orientation) rose from pre-test to post-test after reflective diary writing, in one uncontrolled pre-post study among nursing students](../claims/reflective-diaries-increase-positive-academic-emotions.md) [+M] — measured as an outcome of the instruction studied
+- [In nursing students, self-rated scores for negative academic emotions (activity and outcome orientation) fell from pre-test to post-test after reflective diary writing in one single-group pre-post study](../claims/reflective-diaries-reduce-negative-academic-emotions.md) [+M] — measured as an outcome of the instruction studied
+- [English academic self-concept did not significantly moderate the association of social support with foreign language boredom](../claims/boredom-path-not-moderated-by-self-concept.md) [-W] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

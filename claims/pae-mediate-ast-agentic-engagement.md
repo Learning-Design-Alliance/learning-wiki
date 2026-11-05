@@ -53,3 +53,4 @@ Bootstrap mediation analysis in the SEM study of 566 Chinese EFL students confir
 - [Autonomy-supportive teaching is strongly associated with positive academic emotions in EFL learners](ast-associated-positive-academic-emotions.md) — related
 - [Direct effect of autonomy-supportive teaching on agentic engagement is significant but small relative to the indirect path](ast-direct-effect-small-partial-mediation.md) — related
 - [Positive academic emotions strongly predict agentic engagement](pae-predict-agentic-engagement.md) — related
+- [Students' autonomy need satisfaction fully mediates the effect of teacher autonomy support on autonomous motivation and positive academic emotions, but does not mediate the effect on negative emotions](autonomy-need-satisfaction-full-mediation.md) — related

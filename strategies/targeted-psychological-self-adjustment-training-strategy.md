@@ -47,6 +47,7 @@ The article recommends that future competency-development programs address the w
 
 - [Frustration and Stress Prevention/Reduction Techniques](frustration-and-stress-prevention-reduction-techniques.md)
 - [Integrate resilience-building strategies and psychological skills into communication training](integrate-resilience-building-in-communication-training.md)
+- [Train university students in stress-coping techniques alongside early screening for attention or learning difficulties](coping-training-plus-attention-screening-strategy.md)
 
 ## Examples
 -

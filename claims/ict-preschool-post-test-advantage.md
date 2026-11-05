@@ -49,3 +49,4 @@ Independent samples t-test on post-test EMSAT scores of the experimental group (
 - [The traditionally taught control group also improved significantly from pre-test to post-test](control-group-pre-post-gain.md) — related
 - [Experimental and control groups showed no significant difference in numeracy and science achievement at pre-test](ict-preschool-pretest-equivalence.md) — related
 - [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — related
+- [Undergraduates using the PROMPTa ICT-based alternative assessment platform outperformed a traditionally assessed control group on writing post-test scores](prompta-raises-undergraduate-writing-posttest.md) — related

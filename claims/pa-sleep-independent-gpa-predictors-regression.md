@@ -58,3 +58,4 @@ Multiple linear regression with GPA as dependent variable and IPAQ ordinal score
 - [BMI is negatively correlated with physical activity level among health sciences students](bmi-negatively-correlated-physical-activity-students.md) — related
 - [Health sciences students' GPA is positively correlated with their physical activity level (r = 0.279)](gpa-positively-correlated-physical-activity-health-sciences-students.md) — related
 - [In an adjusted regression model, GPA predicts higher physical activity while female gender and comorbidity predict lower activity](regression-gpa-gender-health-predict-physical-activity.md) — related
+- [Male students demonstrated higher GPA than female students in this sample, and sex was a significant regression predictor](sex-difference-gpa-male-higher-dilla-sample.md) — related

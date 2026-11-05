@@ -6,11 +6,11 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 ## In short
 
-The wiki holds **12,309 distinct studies** behind 52,683 claims. What they add up to (the sections below have the detail):
+The wiki holds **12,387 distinct studies** behind 53,067 claims. What they add up to (the sections below have the detail):
 
 - **Few studies can show a cause.** 33% are experiments or systematic reviews (`q3` or `q4`); only 2% are pre-registered trials or well-powered meta-analyses (`q4`). 58% are quasi-experiments, observational studies or narrative reviews, and 9% are case studies, opinion or theory.
-- **Few print an effect size.** 3,285 of 12,309 studies (27%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
-- **Strong work is not only trials.** 1,362 studies are rated `r3`, done well for their kind; 869 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
+- **Few print an effect size.** 3,310 of 12,387 studies (27%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
+- **Strong work is not only trials.** 1,370 studies are rated `r3`, done well for their kind; 874 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
 - **Most findings stand alone.** 99% of claims rest on one study; a finding reported once, in one setting, has not been shown to hold elsewhere.
 - **Not all research reaches design.** 79% of studies, and 52% of claims, are cited by a principle, pattern, element, strategy or design; the rest are recorded but not connected to a design decision, either because none has been written or because the finding does not bear on one.
 - **Principles and patterns.** Of 224 pages written in the conditional format, 106 have research testing their central relationship, at least in part, and 118 carry a labelled default design because nothing in the wiki tests it. Their citations of claims are 3% strong, 31% moderate and 66% weak, and 51% supporting, 43% conditional and 6% against.
@@ -21,32 +21,32 @@ These figures describe two things at once: what education research has produced,
 
 | | |
 |---|---|
-| Claims | 52,683 |
-| Evidence entries | 61,791 |
-| Distinct studies | 12,309 |
-| Claims resting on one study | 52,079 (99%) |
+| Claims | 53,067 |
+| Evidence entries | 62,222 |
+| Distinct studies | 12,387 |
+| Claims resting on one study | 52,462 (99%) |
 | Claims with no coded evidence | 3 |
-| Studies reporting an effect size | 3,285 of 12,309 (27%) |
+| Studies reporting an effect size | 3,310 of 12,387 (27%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 144 | 2,277 | 1,690 | 411 | 4,522 |
+| causal | 145 | 2,294 | 1,702 | 411 | 4,552 |
 | quant-synthesis | 204 | 386 | 85 | 135 | 810 |
-| review | 328 | 883 | 136 | 151 | 1,498 |
-| associational | 145 | 1,495 | 692 | 306 | 2,638 |
-| qualitative | 231 | 397 | 80 | 104 | 812 |
-| design | 109 | 915 | 161 | 39 | 1,224 |
-| theoretical | 201 | 447 | 84 | 73 | 805 |
+| review | 328 | 885 | 136 | 151 | 1,500 |
+| associational | 147 | 1,515 | 701 | 306 | 2,669 |
+| qualitative | 235 | 398 | 80 | 104 | 817 |
+| design | 110 | 923 | 161 | 39 | 1,233 |
+| theoretical | 201 | 448 | 84 | 73 | 806 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 1,139 (9%) | 7,096 (58%) | 3,886 (32%) | 188 (2%) |
+| 1,141 (9%) | 7,141 (58%) | 3,917 (32%) | 188 (2%) |
 
-**Studies per claim:** 0: 3, 1: 52,079, 2: 512, 3: 68, 4 or more: 21.
+**Studies per claim:** 0: 3, 1: 52,462, 2: 513, 3: 68, 4 or more: 21.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -115,7 +115,7 @@ Of the 39 claims cited from 50 or more pages, **6 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-700 claims are cited both ways.
+703 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -135,10 +135,10 @@ Claims cited as support on some pages and as counter-evidence on others (`[+]` a
 | [PS-I effects vary by grade level: negative for 2nd–5th graders and increasing with age](claims/psi-effect-increases-with-grade-level.md) | 1 | 1 | 5 | 1 |
 | [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while …](claims/rewards-undermine-intrinsic-motivation.md) | 11 | 10 | 5 | 5 |
 | [Prompting learners to self-explain improves understanding and problem solving on …](claims/self-explanation-improves-conceptual-understanding.md) | 442 | 25 | 5 | 4 |
+| [English academic self-concept did not significantly moderate the association of social …](claims/boredom-path-not-moderated-by-self-concept.md) | 1 | 0 | 4 | 1 |
 | [Executive functions do not directly predict syntactic complexity or story content once …](claims/ef-no-direct-effect-syntactic-complexity-story-content.md) | 2 | 0 | 4 | 1 |
 | [Taking initial multiple-choice tests without feedback can lead students to later produce …](claims/multiple-choice-lures-can-be-learned-as-false-knowledge.md) | 2 | 1 | 4 | 1 |
 | [Redundant on-screen text impairs learning when it competes with a visualization, though …](claims/redundancy-principle.md) | 6 | 8 | 4 | 1 |
-| [Students find computer-based simulation feedback insufficient because incorrect responses …](claims/simucase-feedback-insufficient.md) | 1 | 0 | 4 | 1 |
 
 ## Evidence by kind of page
 
@@ -149,14 +149,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 170 | 170 | 34 | 0 |
 | [elements](elements/index.md) | 1,057 | 797 | 2 | 0 |
 | [patterns](patterns/index.md) | 54 | 54 | 37.5 | 0 |
-| [strategies](strategies/index.md) | 10,785 | 7,176 | 1 | 0 |
+| [strategies](strategies/index.md) | 10,854 | 7,234 | 1 | 0 |
 | [processes](processes/index.md) | 18 | 17 | 14 | 0 |
 | [methods](methods/index.md) | 37 | 22 | 1.5 | 0 |
 | [theories](theories/index.md) | 1,360 | 924 | 1 | 0 |
-| [learner-variables](learner-variables/index.md) | 75 | 75 | 82 | 0 |
-| [designs](designs/index.md) | 2,760 | 2,115 | 1 | 1 |
-| [products](products/index.md) | 3,426 | 2,621 | 1 | 1 |
-| [research-methods](research-methods/index.md) | 1,024 | 822 | 1 | 0 |
+| [learner-variables](learner-variables/index.md) | 75 | 75 | 83 | 0 |
+| [designs](designs/index.md) | 2,794 | 2,142 | 1 | 1 |
+| [products](products/index.md) | 3,448 | 2,637 | 1 | 1 |
+| [research-methods](research-methods/index.md) | 1,026 | 823 | 1 | 0 |
 
 ## Toward pooled estimates
 

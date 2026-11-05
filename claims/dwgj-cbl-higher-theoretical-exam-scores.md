@@ -54,3 +54,4 @@ Post-course theoretical examination in the randomized controlled educational tri
 - [AI-assisted PBL-CBL combined teaching raises medical interns' theoretical examination scores in post-herpetic neuralgia compared with lecture-based teaching](ai-pbl-cbl-improves-theoretical-examination-scores.md) — related
 - [Integrating 3D visualization reconstruction with PBL improves theoretical examination scores versus lecture-based learning in pheochromocytoma training](3d-visualization-pbl-higher-theoretical-scores-pcc.md) — related
 - [DwGJ residents reported higher course satisfaction and perceived learning outcomes, while ratings of instructors' teaching attitudes did not differ between groups](dwgj-higher-satisfaction-instructor-ratings-null.md) — related
+- [OBE-integrated PBL teaching yields higher theoretical assessment scores than lecture-based teaching in psychiatric clinical practice](obe-pbl-higher-theoretical-assessment-psychiatry.md) — related

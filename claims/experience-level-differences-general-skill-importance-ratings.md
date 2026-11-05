@@ -52,3 +52,4 @@ Bonferroni-corrected Welch ANOVA of five general-skill importance ratings across
 - [In neonatal minimally invasive surgery, operative performance is shaped more by recency and depth of MIS-focused training than by surgeon seniority](mis-performance-shaped-by-training-recency-not-seniority.md) — related
 - [Reported average simulated-training duration for PTED is only about 22.8 hours, with no significant difference across experience levels](pted-simulated-training-averages-22-8-hours.md) — related
 - [Younger surgeons report significantly more VR simulation training than senior counterparts, while cadaveric training remains the most commonly received](younger-surgeons-more-vr-simulation-exposure.md) — related
+- [IVR and control groups do not differ in attending-surgeon interventions, verbal answers to composite questions, or safety cessations](ivr-null-surgeon-intervention-questions-safety.md) — related

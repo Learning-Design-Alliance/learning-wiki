@@ -58,6 +58,7 @@ The review recommends that, given faster skill acquisition under spaced schedule
 - [Require repeated benchmark performance with spaced repetition to ensure reliable skill acquisition](repeated-benchmark-performance-spaced-repetition.md)
 - [Use standalone VR for repeated self-directed skill maintenance between certification cycles](standalone-vr-skill-maintenance-strategy.md)
 - [Sequence laparoscopic training from box trainers and simulators with preset proficiency benchmarks before cadaver training](simulator-benchmarks-before-cadaver-training.md)
+- [Schedule repeated daily VR simulation sessions with formative feedback before a delayed practical test](daily-repeated-vr-practice-then-final-test.md)
 
 ## Examples
 -

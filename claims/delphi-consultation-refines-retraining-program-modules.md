@@ -76,3 +76,5 @@ Delphi expert consultation with 22 experts refined the preliminary framework of 
 - [Expert panel consensus (seven experts, ≥80% agreement rule) endorsed the refined EA framework structure](expert-consensus-ea-framework.md) — related
 - [A three-round e-Delphi panel of 19 experts from 6 European countries achieved consensus on 58 core teamwork competencies for community-based interprofessional teams, grouped into five areas](edelphi-consensus-58-cbit-competencies.md) — related
 - [In Delphi Round 2, three of 16 candidate shared-competency items were deleted for high variability (SD above 0.8) and lower relevance to shared collaborative roles](delphi-round2-item-deletion-high-sd.md) — related
+- [A four-round Delphi process with educators and students reached consensus on goals, content priorities, and implementation strategies for the OSCE preparatory tool](delphi-consensus-osce-tool-goals.md) — related
+- [Two Delphi rounds with 15 experts produced high authority and consensus coefficients for the EVD KAP item pool](evd-kap-delphi-expert-consensus.md) — related

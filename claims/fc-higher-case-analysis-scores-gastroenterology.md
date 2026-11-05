@@ -49,3 +49,4 @@ Randomized controlled trial of 112 residents (FC n = 56, TC n = 56) after 4 week
 - [Flipped classroom and traditional classroom groups show comparable multiple-choice question performance (p = 0.651)](fc-comparable-multiple-choice-performance.md) — related
 - [Flipped classroom has a moderately positive effect on college students' academic performance (SMD = 0.66)](flipped-classroom-moderate-positive-effect-college.md) — a broader claim this one bears on
 - [Flipped classroom students achieved significantly higher mean pharmacology exam grades than traditional classroom students](fc-higher-mean-exam-grade-dental-pharmacology.md) — related
+- [FCCL students significantly outperform traditional classroom students on higher-order (application and analysis) anatomy exam items](fccl-higher-order-bloom-advantage.md) — related

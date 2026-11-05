@@ -56,3 +56,4 @@ Bivariate analyses and ANOVA of the 330-RN cross-sectional sample found "No stat
 - [Nurses' pressure injury knowledge scores were not significantly associated with gender, education level, role, experience, certification or age](pi-knowledge-demographics-null-associations.md) — related
 - [Previous reading or training on pressure injuries was not significantly associated with nurses' knowledge scores](pi-reading-training-not-associated-with-knowledge.md) — related
 - [Nurses in Türkiye demonstrate a moderate level of knowledge about pressure injury prevention, with a mean score of 43.00 out of 72 on the PZ-PIKT](turse-nurses-moderate-pi-knowledge-43-of-72.md) — related
+- [Working experience, age and education variables show no statistically significant association with Knowledge Score or with ethics/equity understanding](no-association-demographics-knowledge-score-ethics.md) — related

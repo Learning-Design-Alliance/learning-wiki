@@ -62,3 +62,4 @@ The review reports, citing Allensworth et al. (2014), a Chicago study of middle 
 - [No evidence of an association between student grit or parental network centrality and the magnitude of pandemic effects on tracking outcomes](null-grit-parental-network-centrality-pandemic-effects.md) — related
 - [The survey grit measure has limited predictive power over platform performance in this sample and does not predict pandemic-era performance declines](survey-grit-limited-predictive-power.md) — related
 - [Parental education positively predicts regular attendance while school distance and limited peer help negatively predict it](parental-education-distance-peer-help-predict-attendance.md) — related
+- [High school GPA has partial but limited discriminative power for at-risk status, with midterm performance adding predictive value beyond prior GPA](high-school-gpa-partial-limited-predictive-value.md) — related

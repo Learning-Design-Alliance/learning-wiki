@@ -55,6 +55,7 @@ The study implemented diary keeping within regular classroom instruction over fo
 - [Give pre-service teachers feedback on their teaching practice through focus group discussions based on their diaries and observation records](feedback-via-focus-group-discussions-strategy.md)
 - [Journals and Learning Logs](journals_and_learning_logs.md)
 - [Writing weekly reflection diaries on weblogs, with freedom to add representative images and pictures, as an additional assignment for lower achieving students during learning processes.](weekly-weblog-reflection-diary-strategy.md)
+- [Implement guided reflective diary writing with weekly entries and individualized teacher feedback](guided-reflective-diary-writing-strategy-nursing.md)
 
 ## Examples
 -

@@ -43,6 +43,7 @@ The review identifies areas ripe for further research: establishing viable study
 - [Prioritize longitudinal studies tracking trainees from simulation to real-world surgical performance](longitudinal-simulation-to-or-tracking-studies.md)
 - [Prioritize longitudinal designs, detailed screen-time measures, and late-adolescent samples in future neuroimaging research](future-neuroimaging-longitudinal-detailed-measures.md)
 - [Prioritize multicenter, randomized designs with standardized reporting and longitudinal follow-up in future surgical education research](prioritize-multicenter-randomized-standardized-reporting-research.md)
+- [Use INS as an online marker of learning quality to trigger dynamically increased autonomy support during teaching](neurofeedback-guided-autonomy-support-teaching.md)
 
 ## Examples
 -

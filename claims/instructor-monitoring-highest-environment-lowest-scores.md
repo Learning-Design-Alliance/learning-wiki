@@ -49,3 +49,4 @@ Descriptive analysis of the standardized Delaram et al. (2006) questionnaire, co
 - [Nursing students reported high satisfaction with community care simulation, with all SDS domain means around 4.5 and support rated lowest](ccs-high-satisfaction-sds-domain-scores.md) — related
 - [Both trainee nurses and clinical instructors rated the training objectives, clinical instructors and training schedule as 'very effective'](high-effectiveness-ratings-training-programme.md) — related
 - [Overall e-learning satisfaction among nursing students in synchronous virtual learning is relatively low](low-elearning-satisfaction-synchronous-nursing.md) — related
+- [Students report highest use of peer learning and lowest use of repeating and managing learning environment](descriptive-strategy-use-peer-learning-highest.md) — related

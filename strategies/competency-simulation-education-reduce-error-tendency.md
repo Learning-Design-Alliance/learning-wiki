@@ -52,6 +52,7 @@ The article recommends strengthening the integration of theoretical knowledge wi
 - [Integrate ethical reasoning, data literacy, systems thinking, and risk evaluation into decision-making training](integrate-ethics-data-literacy-systems-thinking-risk-evaluation-training.md)
 - [Incorporate clinical simulation with structured debriefing into nursing education planning for biosafety and emotional management](simulation-debriefing-biosafety-planning-strategy.md)
 - [Integrate occupational adaptive learning with simulation training, case studies, and interdisciplinary collaboration to strengthen clinical pharmacist preparation](integrate-adaptive-learning-with-simulation-case-studies.md)
+- [Integrate case-based learning, supervised clinical simulations and e-learning modules aligned with WHO and CDC standards into infection control curricula](integrate-case-based-simulation-elearning-ipc-training.md)
 
 ## Examples
 -

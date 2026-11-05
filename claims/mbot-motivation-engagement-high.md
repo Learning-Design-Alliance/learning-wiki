@@ -50,3 +50,4 @@ Dimension 3 used participant observation with an estimation scale (no control co
 - [The review reports a positive relationship between gamification and motivation in learning processes](gamification-motivation-positive-relationship-review.md) — related
 - [Intervention students reported fiction videos made instruction more interesting and helped them understand difficult concepts, but rated hands-on labs as most helpful](student-interviews-fiction-interest-labs-preferred.md) — related
 - [The authors report that multimedia use appeared to include more students in the learning process and increase interest, motivation and participation](multimedia-engagement-observation.md) — related
+- [Students rated the interdisciplinary escape room positively, with the highest ratings for recommendation to peers, fun, relevance, and learning atmosphere](escape-room-student-satisfaction.md) — related

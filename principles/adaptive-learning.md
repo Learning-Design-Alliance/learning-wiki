@@ -242,6 +242,7 @@ Within-system performance, aligned achievement, standardised achievement, delaye
 - [Problem Solving Tutor](../products/problem-solving-tutor.md)
 - [Item allocation rules: start easy, increase difficulty with grade, and re-select past incorrect and old material with some probability](../strategies/item-allocation-rules-difficulty-with-grade.md)
 - [Use counterfactual inference models on online educational experiments to support personalized hint selection](../strategies/counterfactual-inference-for-personalized-hints.md)
+- [Use formative assessment to identify missing prerequisite skills and social scaffolding to lower perceived task difficulty](../strategies/formative-assessment-prerequisites-and-social-scaffolding-strategy.md)
 
 ### Validated
 - **[ASSISTments](https://www.assistments.org)** — Free web-based math platform (grades 6–12) that adapts problem selection and hint delivery based on item-level responses. Randomized studies across Maine schools showed significant homework-related learning gains over business-as-usual conditions (Roschelle et al., 2016, *AERJ*).

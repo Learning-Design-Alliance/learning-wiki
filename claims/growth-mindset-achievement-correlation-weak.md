@@ -90,3 +90,4 @@ Random-effects meta-analysis of 273 effect sizes from 162 independent samples (N
 - [Growth mindset correlates positively with grit and grit correlates positively with mathematics achievement](growth-mindset-grit-correlations.md) — related
 - [Challenge state correlates positively with academic self-efficacy, resilience, grit, and growth mindset](challenge-state-correlates-noncognitive.md) — related
 - [Personal growth initiative moderates the growth mindset–academic performance link, with a steeper slope at high PGI](pgi-moderation-growth-mindset-performance.md) — a narrower finding that bears on this claim
+- [Bivariate correlations between math scores and growth mindsets were modest across countries and weaker than those with socioeconomic status](modest-mindset-math-correlations.md) — a narrower finding that bears on this claim

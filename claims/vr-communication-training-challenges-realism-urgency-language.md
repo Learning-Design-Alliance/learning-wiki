@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-05
 sources:
   - id: deng-jing-2025
     resource: "https://doi.org/10.1186/s12909-025-08450-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Key challenges include ensuring conversations are relevant to real-life situations, virtual characters lacking situational sensitivity and clinical urgency, and language barriers for non-native speakers. [→ Deng Jing 2025](#deng-jing-2025)
@@ -65,3 +66,4 @@ The review's thematic synthesis of challenges across the included studies identi
 - [Medical students reported system usability barriers to VR training involving headset accessibility, technical issues, and limited scenario variability](vr-training-usability-barriers-medical-students.md) — related
 - [Participants expressed concern that VR training may limit empathy development and patient-variability feedback](vr-limited-empathy-and-patient-variability-concerns.md) — related
 - [By 2024 more than one-third of simulation sessions used VR and AI tools, and students reported engagement and scenario recall gains of over 30% compared with non-electronic learning](vr-ai-simulation-engagement-recall.md) — related
+- [Vietnamese participants reported higher recommendation and perceived realism rates and lower VR-related discomfort than a prior U.S. cohort, with no statistically significant between-cohort differences](vietnam-us-cohort-feedback-comparison-no-significant-differences.md) — related

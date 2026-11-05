@@ -49,6 +49,7 @@ As a future research direction, the article proposes linking individual adaptive
 - [Four-part research agenda: longitudinal studies, hybrid frameworks, ethical frameworks, and underrepresented STEM domains](four-recommendations-ai-metacognition-research-agenda.md)
 - [Four-phase development roadmap for creating an SRL-Scaffolding Architecture](four-phase-roadmap-srl-scaffolding-architecture.md)
 - [Develop worksheets adapted to the form of learning, student characteristics, and students' environment to improve problem-solving](develop-worksheets-adapted-to-learners-and-learning-form.md)
+- [Support less digitally savvy learners with targeted digital scaffolding and add collaborative activities to AI-enhanced microlearning](digital-scaffolding-and-peer-interaction-microlearning.md)
 
 ## Examples
 -

@@ -57,3 +57,4 @@ Univariate meta-regressions (Table 2) tested sex, region, PSU assessment, achiev
 - [Problematic smartphone use shows a small negative pooled correlation with academic achievement (r = −0.110)](psu-negative-small-correlation-academic-achievement.md) — related
 - [No differences in attention span based on sex were found or expected in this age group](no-sex-differences-attention-preschool.md) — related
 - [The addiction–performance association held only among women and students without their own income in stratified analysis](addiction-performance-association-significant-only-women-no-income.md) — related
+- [No significant baseline differences in engagement, positive emotions, or academic emotions by most demographic variables](no-demographic-differences-baseline-nursing-engagement-emotions.md) — related

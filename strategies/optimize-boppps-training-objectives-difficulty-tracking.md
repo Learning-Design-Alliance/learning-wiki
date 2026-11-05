@@ -49,6 +49,7 @@ The article recommends that future implementations focus on "dynamically refinin
 - [Future simulation research should use rigorous designs, standardized tools, and transparent reporting](strategy-rigorous-simulation-research-design.md)
 - [Prioritize longitudinal studies tracking trainees from simulation to real-world surgical performance](longitudinal-simulation-to-or-tracking-studies.md)
 - [Prioritize multicenter, randomized designs with standardized reporting and longitudinal follow-up in future surgical education research](prioritize-multicenter-randomized-standardized-reporting-research.md)
+- [Maintain a difficulty-classified dynamic case bank and rotate group roles to counter implementation challenges](case-bank-role-rotation-strategies.md)
 
 ## Examples
 -

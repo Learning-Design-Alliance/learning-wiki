@@ -73,7 +73,9 @@ Performance assessments carry real, specific tradeoffs (Linn & Miller, 2005). Th
 - [Problem-Based Learning](../patterns/problem-based-learning.md)
 
 ## Examples
+
 - Oral exams, presentations, live demonstrations, portfolios, and capstone performances.
+- [Consider baseline competence when designing OSCE stations, since well-established skills may show limited measurable change](../strategies/consider-baseline-competence-osce-station-design.md)
 
 ## Key Sources
 - Wiggins, G. (1998). *Educative assessment*. Jossey-Bass.

@@ -49,3 +49,4 @@ An author interpretation reported in the Discussion section of the pilot study, 
 ## Related Claims
 - [Despite generally accurate feedback, the LLM's scoring explanations could be unpredictable and prone to logical inconsistency, failing to award points even when citing the correct rubric directive](llm-logical-inconsistency-scoring-feedback.md) — related
 - [Research-informed and ML-based rubrics assess students' mechanistic reasoning comparably, supporting ML techniques in rubric development](ml-and-research-informed-rubrics-assess-comparably.md) — related
+- [Automated note feedback system had occasional phrase recognition errors and false positives](automated-feedback-phrase-recognition-limitations.md) — a narrower finding that bears on this claim

@@ -53,3 +53,4 @@ Bootstrap mediation test (5,000 samples, 95% CI) on the 1,193-student survey: th
 - [Class environment and mastery approach goal chain-mediate the link between perceived teacher support and learning engagement, with the largest indirect effect](mastery-approach-goal-chain-mediation-engagement.md) — related
 - [Only mastery-approach and performance-approach goals mediate the relationship between teacher support and engagement in AI-assisted English learning](approach-goals-mediate-support-engagement-ai.md) — related
 - [Performance approach goal positively and performance avoidance goal negatively chain-mediate perceived teacher support effects on learning engagement](performance-goal-chain-mediation-engagement.md) — related
+- [No significant associations emerged between mastery avoidance or performance approach goals and any classroom centrality metric](mastery-avoidance-performance-approach-no-centrality-association.md) — related

@@ -51,3 +51,4 @@ Review synthesis of 13 observational studies of total gross motor scores and mat
 - [The FiMS–GMS difference is larger for intelligence than for executive functions, where both motor skills show similar moderate links](intelligence-versus-executive-functions-motor-links.md)
 - [Total fine motor scores are significantly and positively associated with mathematics performance in school-aged children, with strong review-level evidence](total-fine-motor-scores-positive-mathematics-association.md) — related
 - [Fine motor skills show a significant moderate overall correlation (r = .329) with academic-cognitive skills in children and adolescents](fms-moderate-correlation-academic-cognitive.md) — related
+- [Gross motor competence is positively associated with academic achievement in schoolchildren](gmc-positively-associated-academic-achievement-schoolchildren.md) — possibly the same claim (merge candidate)

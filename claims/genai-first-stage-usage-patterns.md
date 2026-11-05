@@ -76,3 +76,4 @@ LLM-classified ChatGPT conversation logs from treated students, complemented by 
 - [By the final survey wave, using LLMs for debugging and understanding concepts was nearly universal among surveyed students](debugging-and-concept-llm-use-nearly-universal-by-term-end.md) — related
 - [The most common reported AI chatbot use for school tasks is explaining concepts (81.63%), followed by idea generation (68.65%) and text summarization (59.21%)](ai-chatbot-school-task-use-concept-explanation-most-common.md) — related
 - [Students strongly oppose allowing AI chatbots to complete entire assignments, with 82.73% saying it should never be allowed, while supporting AI for concept explanation and brainstorming](students-oppose-ai-complete-entire-assignments.md) — related
+- [Students used ChatGPT mainly for summarizing information, literature research, and clarifying concepts](chatgpt-used-for-summarizing-research-clarifying.md) — related

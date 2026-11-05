@@ -50,3 +50,7 @@ Course evaluation survey using a researcher-designed five-point Likert scale adm
 - [Satisfaction was lowest for technical aspects and time management items](cblc-satisfaction-lowest-technical-items.md) — related
 - [Across all survey items, learners rated the CME modules highly, with median Likert scores of 4 and means above 4.0 for content quality, clarity, motivation, competence, and perceived educational value](espe-cme-high-likert-satisfaction.md) — related
 - [Trainees reported high satisfaction with the simulation course, rating training-effectiveness items highest, while disagreeing most that simulation can replace training on pregnant women](obstetric-sim-satisfaction-survey.md) — related
+- [More than 80 percent of boot camp participants gave favorable ratings to all aspects of the training](boot-camp-favorable-trainee-ratings.md) — related
+- [Both groups report similarly high satisfaction with the simulation training, with session duration rated lowest](high-satisfaction-similar-groups-duration-lowest.md) — related
+- [Nursing students report high satisfaction with creating educational videos, with applicability rated highest (4.12 ± 0.59) and complexity lowest (3.47 ± 0.69)](nursing-students-high-satisfaction-video-creation.md) — related
+- [Healthcare providers report high satisfaction with an asynchronous virtual care CPD module](virtual-care-cpd-module-high-satisfaction.md) — related

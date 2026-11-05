@@ -53,3 +53,4 @@ The review reports this randomized control trial of 60 first-year nursing studen
 - [VR sepsis game decreased nursing students' anxiety by a reported 23.4%](vr-sepsis-game-anxiety-decrease.md) — related
 - [XR gesture-simulation interventions reduce anxiety in most included midwifery and nursing education studies](xr-gesture-simulation-reduces-nursing-anxiety.md) — a broader claim this one bears on
 - Included haptics studies most often used crossover designs, followed by RCTs, with a mean sample size of 24 — related
+- [Simulation training does not significantly reduce anxiety or stress relative to theoretical instruction alone, though both improved within the simulation group](simulation-no-between-group-anxiety-stress-reduction.md) — related

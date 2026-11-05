@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 260 claims (186 show a difference, 44 mixed, 30 no difference) · 179 studies (80 causal, 46 associational, 22 review, 13 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 48 of 179 report an effect size · 254 claims rest on one study
+> **Evidence** · 264 claims (190 show a difference, 44 mixed, 30 no difference) · 180 studies (80 causal, 47 associational, 22 review, 13 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 48 of 180 report an effect size · 258 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -295,6 +295,10 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [The effects on math self-efficacy, math utility value and STEM vocational interest do not persist at the 6-month follow-up](../claims/srl-intervention-followup-nonpersistence-utility-interest.md) [-M] — measured as an outcome of the instruction studied
 - [Most surveyed medical students perceived the pharmacology games as enjoyable and effective for understanding concepts](../claims/students-perceive-games-enjoyable-effective.md) [+M] — measured as an outcome of the instruction studied
 - [Urology interest groups and mandatory skills sessions significantly increase medical student interest and procedural confidence](../claims/urology-interest-groups-skills-sessions-student-interest.md) [+M] — measured as an outcome of the instruction studied
+- [Motivational regulation strategies predict achievement: personally referred self-talk, self-efficacy enhancement and cost appraisal positively; work-avoidance self-talk and enhancement of situational interest negatively; mastery, self-defeating and self-consequating not significantly](../claims/mrs-predict-achievement-secondary.md) [+M] — learners who differ on it differ in outcomes
+- [Perceived emotional support from peers positively predicts personally referred performance self-talk, self-efficacy enhancement and enhancement of situational interest in secondary students](../claims/emotional-peer-support-predicts-motivational-regulation-strategies.md) [+M] — measured as an outcome of the instruction studied
+- [Perceived guidance from peers negatively predicts work-avoidance self-talk and positively predicts personally referred self-talk, self-efficacy enhancement and enhancement of situational interest](../claims/guidance-peer-support-predicts-mrs.md) [+M] — measured as an outcome of the instruction studied
+- [Perceived reassurance of worth from peers positively predicts personally referred performance self-talk, self-efficacy enhancement, enhancement of situational interest and cost appraisal](../claims/reassurance-worth-predicts-mrs.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

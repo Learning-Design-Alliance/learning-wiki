@@ -58,3 +58,4 @@ Structural equation model of cross-sectional survey data from 502 faculty at one
 - [Teacher support directly and positively predicts learning engagement in AI-assisted English learning](teacher-support-direct-effect-engagement-ai.md) — related
 - [Technological self-efficacy significantly but modestly predicts faculty AI well-being](technological-self-efficacy-modest-predictor-ai-well-being.md) — related
 - [Higher education teachers' digital competence positively and significantly correlates with their work engagement and effort expectancy](digital-competence-correlates-work-engagement.md) — related
+- [Social support directly and positively predicts English academic achievement among Chinese secondary school students](social-support-predicts-english-achievement.md) — related

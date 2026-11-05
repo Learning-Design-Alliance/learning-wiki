@@ -53,6 +53,7 @@ The article recommends delivering CBT-based coping skills through structured psy
 
 - [Reducing Test Anxiety](reducing-test-anxiety.md)
 - [Test Anxiety Reduction](test-anxiety-reduction.md)
+- [Train university students in stress-coping techniques alongside early screening for attention or learning difficulties](coping-training-plus-attention-screening-strategy.md)
 
 ## Examples
 -

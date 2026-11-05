@@ -84,3 +84,4 @@ Block-RCT with 35 psychiatry residents assigned to SIM-ECT (n = 18) or tradition
 - [Teachers report significantly higher satisfaction with the MOOC-HFS blended model across all questionnaire items](mooc-hfs-higher-teacher-satisfaction.md) — reports the opposite
 - [No significant Group × Time interaction in theoretical knowledge: knowledge gains occurred similarly in high- and medium-fidelity groups](no-group-time-interaction-knowledge-fidelity.md) — related
 - [No statistically significant between-group difference in posttest total self-confidence or perceived stress after high-fidelity simulation versus theoretical instruction](hfs-no-posttest-between-group-difference-confidence-stress.md) — related
+- [Simulation training with 3D-printed trauma models yields significantly higher self-confidence than theoretical instruction alone at two weeks (p < 0.001)](3d-printed-simulation-raises-self-confidence-dental-trauma.md) — reports the opposite

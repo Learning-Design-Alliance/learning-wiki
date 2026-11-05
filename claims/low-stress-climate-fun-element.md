@@ -58,3 +58,4 @@ Focus group thematic analysis: students described stress from being made to sing
 - [Positive classroom climate is associated with more frequent socially shared regulation of learning](positive-climate-promotes-shared-regulation.md) — related
 - [Creating a safe and supportive learning environment is crucial for clinical reasoning development](safe-learning-environment-clinical-reasoning.md) — related
 - [Students identified teacher teaching style as the top motivator and interest as the top reason for favorite subjects](teacher-style-top-motivator-survey.md) — related
+- [Teachers perceived that making students feel stressed during simulations is nonbeneficial for developing nursing students' critical thinking, favouring exciting and fun learning opportunities.](stress-free-motivating-climate-ct-nursing-sbl.md) — related

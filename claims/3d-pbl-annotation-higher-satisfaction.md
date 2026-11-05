@@ -51,3 +51,4 @@ Satisfaction domain of the same 10-point questionnaire in the RCT. Table 3 shows
 - [3D + PBL improves teaching satisfaction in orthopedic education](3d-pbl-improves-teaching-satisfaction-orthopedics.md) — a broader claim this one bears on
 - [Residents taught with CBL plus 3D reconstruction report higher satisfaction than residents taught with traditional lectures across all five survey domains](cbl-3d-reconstruction-higher-satisfaction-liver-ultrasound.md) — related
 - [In the same RCT, the experimental group reported higher scores than the control group across all five dimensions of teaching satisfaction (all P < 0.05)](pbl-virtual-simulation-satisfaction-all-dimensions-trauma-orthopedics.md) — related
+- [Experimental-group trainees report higher satisfaction than controls in teaching atmosphere, learning interest, and learning efficiency](digital-cbl-higher-satisfaction-interest-efficiency.md) — related

@@ -54,3 +54,4 @@ Expert consultation procedure: a synchronous Zoom meeting (~60 min) with seven e
 - [In the first Delphi round, 12 of 22 potential competencies received unanimous endorsement and 10 required revisions based on expert feedback.](delphi-first-round-12-unanimous-10-revised.md) — related
 - [A three-round Delphi study with 17 experts from education, industry, and cultural expertise produced the SAIL AI literacy framework](sail-framework-produced-by-three-round-delphi-study.md) — related
 - [In Round 1 at least 80% of experts fundamentally agreed with the preliminary competencies, but suggested amendments that led to revisions, additions, and renaming of the Soft Skills area](round1-high-agreement-with-amendments.md) — related
+- [A four-round Delphi process with educators and students reached consensus on goals, content priorities, and implementation strategies for the OSCE preparatory tool](delphi-consensus-osce-tool-goals.md) — related

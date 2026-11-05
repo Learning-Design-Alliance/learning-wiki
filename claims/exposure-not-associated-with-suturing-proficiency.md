@@ -71,3 +71,5 @@ Same correlation analysis (Table 2). Repetitions in Basic showed a near-zero, no
 - [A 2-day endoscopic mitral annuloplasty course significantly improved operative speed, suture accuracy and theoretical knowledge](sardari-nia-endoscopic-mv-course-gains.md) — related
 - [Post-training objective assessments show significantly reduced operation time in pattern cutting and suturing tasks and improved suturing quality](objective-task-time-reduction-suturing-quality-gain.md) — related
 - [Simulation-based training improves suturing, cutting, and cautery skills](simulation-training-improves-suturing-cutting-cautery.md) — related
+- [Repeated practice in a case-based VR suture simulation significantly improved stomatology undergraduates' item and total scores from formative to final test](vr-facial-wound-suture-score-improvement.md) — reports the opposite
+- [Performance in the VR suture training improved with practice repetitions but reached a plateau after 2 to 4 practices](vr-suture-practice-plateau.md) — related

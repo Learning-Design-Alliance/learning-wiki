@@ -50,3 +50,4 @@ SEM analysis in Mplus 8.3 with gender, age, school, and grade as controls. The s
 ## Related Claims
 - [Mathematical metacognition statistically mediates the association between mathematics anxiety and children's word problem solving after controlling for IQ](metacognition-mediates-ma-wps-children.md) — related
 - [Academic emotions—enjoyment, anxiety, and boredom—mediate the association between perceived AI-adaptive environments and SRL, accounting for 54.8% of the total effect](academic-emotions-mediate-ai-environment-srl.md) — related
+- [Foreign language emotions fully mediate the relationship between social support and English academic achievement](fl-emotions-fully-mediate-support-achievement.md) — a narrower finding that bears on this claim

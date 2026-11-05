@@ -48,3 +48,4 @@ Meta-analysis of eight studies (1,473 students) using a random-effects model aft
 - [Chinese students in FCCL groups outperform LBL peers in both theoretical scores and clinical analysis skills](fccl-chinese-students-advantage-both-outcomes.md) — a narrower finding that bears on this claim
 - [FCCL outperforms LBL on clinical analysis skills with a large pooled effect (Cohen's d = 1.53)](fccl-outperforms-lbl-clinical-analysis-skills-large-effect.md) — related
 - [Western students in FCCL groups outperform LBL peers in clinical analysis skills but not in theoretical scores](fccl-western-students-advantage-only-clinical-analysis-skills.md) — reports the opposite
+- [FCCL and traditional instruction produce no statistically significant difference in overall theoretical examination scores in anatomy](fccl-tce-no-significant-difference.md) — reports the opposite

@@ -62,6 +62,7 @@ To address scalability, the authors recommend that "future implementations in re
 - [Scale simulator-based POCUS training to large cohorts through blended strategies](blended-scaling-pocus-training-large-cohorts.md)
 - [Adopt PBP training in high-volume national surgical training programmes](pbp-for-high-volume-national-programmes.md)
 - [Prioritize scalable, low-cost simulation solutions and phased implementation so resource-limited settings can adopt the RT competency framework](scalable-low-cost-simulation-phased-implementation-rt.md)
+- [Recommendations for future interprofessional OMP workshops: balance professions, stress efficiency, add a follow-up session, and refine micro-skill wording](interprofessional-omp-workshop-implementation-recommendations.md)
 
 ## Examples
 -

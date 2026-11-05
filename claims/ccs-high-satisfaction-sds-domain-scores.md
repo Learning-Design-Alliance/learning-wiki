@@ -53,3 +53,5 @@ Quantitative component of a descriptive mixed-methods study: 103 second-year nur
 - [Most nurses expressed satisfaction with the AMS course content and its relevance to everyday practice](nursing-ams-course-satisfaction-relevance.md) — related
 - [INACSL-standard-based training improves perceived simulation design, especially objectives/information and guided reflection/feedback](inacsl-simulation-improves-design-perceptions.md) — related
 - [Nurses report very high satisfaction with the BOPPPS-plus-simulation training course, with objectives and assessment criteria rated lowest](high-satisfaction-boppps-simulation-training.md) — related
+- [Both groups report similarly high satisfaction with the simulation training, with session duration rated lowest](high-satisfaction-similar-groups-duration-lowest.md) — related
+- [Nursing students report high satisfaction with creating educational videos, with applicability rated highest (4.12 ± 0.59) and complexity lowest (3.47 ± 0.69)](nursing-students-high-satisfaction-video-creation.md) — related

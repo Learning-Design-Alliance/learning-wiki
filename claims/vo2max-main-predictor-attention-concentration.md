@@ -53,3 +53,4 @@ Stepwise linear regression analysis (Table 3) regressing d2 measures on fitness 
 - [Cardiorespiratory fitness predicts nearly all cognitive and psychosocial measures, with anxiety/insomnia predicted by horizontal jump and life satisfaction by fat mass](vo2max-predicts-cognitive-psychosocial.md) — related
 - [Cardiorespiratory fitness (VO2max) is the physical fitness measure most strongly correlated with cognitive functioning in adolescents](vo2max-best-correlated-cognition.md) — related
 - [Fitness–attention relationships are stronger in boys than girls, with higher explained variance in boys' regression models](gender-moderates-fitness-attention-links.md) — related
+- [Fitness variables show significant correlations with academic achievement and executive function, with consistently higher coefficients in girls than boys](fitness-correlations-aa-ef-higher-girls.md) — related

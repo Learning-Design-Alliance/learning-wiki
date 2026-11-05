@@ -58,3 +58,4 @@ Permanence test: the same achievement test was re-administered four weeks after 
 - [Animation-supported 5E instruction produced significantly higher retention scores than the current programme five weeks after implementation](animation-5e-higher-retention-scores.md) — related
 - [The virtual material did not significantly improve knowledge permanency three weeks after the unit, while the control group's scores declined significantly](virtual-material-no-permanency-advantage.md) — related
 - [Students taught with an eclectic learning approach retained significantly more English content than students taught with a traditional learning approach.](eclectic-approach-higher-english-retention.md) — related
+- [The 3DP group retained more knowledge at 4 weeks, scoring significantly higher on the delayed post-course test than the lecture-based control group](3dp-pbl-higher-delayed-4-week-test-scores.md) — a narrower finding that bears on this claim

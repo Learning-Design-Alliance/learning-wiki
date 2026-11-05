@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 129 claims (74 show a difference, 36 mixed, 19 no difference) · 54 studies (20 associational, 19 causal, 8 review, 4 quant-synthesis, 3 theoretical), `q1`–`q4` · 19 of 54 report an effect size · 127 claims rest on one study
+> **Evidence** · 139 claims (81 show a difference, 38 mixed, 20 no difference) · 57 studies (23 associational, 19 causal, 8 review, 4 quant-synthesis, 3 theoretical), `q1`–`q4` · 20 of 57 report an effect size · 137 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -164,6 +164,16 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Future orientation moderates the first-stage paths from perceived teacher support to mastery approach and performance approach goals, but not to avoidance goals](../claims/future-orientation-moderates-approach-goal-paths.md) [~M] — measured as an outcome of the instruction studied
 - [Performance approach goal positively and performance avoidance goal negatively chain-mediate perceived teacher support effects on learning engagement](../claims/performance-goal-chain-mediation-engagement.md) [+M] — learners who differ on it differ in outcomes
 - [The chain mediation involving mastery avoidance goal between perceived teacher support and learning engagement is not statistically significant](../claims/mastery-avoidance-chain-mediation-null.md) [-M] — learners who differ on it differ in outcomes
+- [Class-level classroom goal structures (injunctive norms) predict changes in individual achievement goals when tested alone, but not when peer achievement goals are included](../claims/class-goal-structures-alone-not-with-peer-goals.md) [~M] — measured as an outcome of the instruction studied
+- [Individual-level and school-level peer competition are positively associated with mastery-approach goals, contrary to the hypothesized negative associations](../claims/peer-competition-positively-linked-mastery-approach-goals.md) [+W] — measured as an outcome of the instruction studied
+- [Individual-level and school-level peer cooperation are positively associated with mastery-approach goals in a cross-cultural sample of 15-year-olds](../claims/peer-cooperation-positively-linked-mastery-approach-goals.md) [+M] — measured as an outcome of the instruction studied
+- [Individual-level classroom goal structures and prior individual achievement goals predict changes in the corresponding individual achievement goals](../claims/individual-level-goal-structures-predict-goal-change.md) [+M] — measured as an outcome of the instruction studied
+- [Mastery approach goals are positively associated with out-degree, closeness and betweenness centrality in the classroom social network](../claims/mastery-approach-goals-central-classroom-network.md) [+M] — learners who differ on it differ in outcomes
+- [No significant associations emerged between mastery avoidance or performance approach goals and any classroom centrality metric](../claims/mastery-avoidance-performance-approach-no-centrality-association.md) [-M] — learners who differ on it differ in outcomes
+- [Peer achievement goals, as descriptive norms, remain the single significant classroom-level predictor of changes in individual achievement goals when class-level classroom goal structures are also included](../claims/peer-goals-sole-class-level-predictor-goal-change.md) [+M] — measured as an outcome of the instruction studied
+- [Peer competition, but not peer cooperation, predicts a proxy measure of performance-approach goals in the PISA sample](../claims/competition-predicts-performance-goal-proxy.md) [+M] — measured as an outcome of the instruction studied
+- [Performance avoidance goals are negatively associated with in-degree but positively associated with out-degree centrality, suggesting ineffective social outreach](../claims/performance-avoidance-goals-ineffective-social-outreach.md) [~M] — learners who differ on it differ in outcomes
+- [Positive associations of peer cooperation and competition with mastery-approach goals persist after controlling for motives, demographics, and a proxy for performance-approach goals](../claims/peer-effects-robust-to-covariates.md) [+W] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

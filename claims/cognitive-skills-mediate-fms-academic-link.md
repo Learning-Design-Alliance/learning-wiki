@@ -49,3 +49,4 @@ Two-stage MASEM (18 studies with academic–intelligence correlations, 27 with e
 - [Fine motor skills show a significant moderate overall correlation (r = .329) with academic-cognitive skills in children and adolescents](fms-moderate-correlation-academic-cognitive.md) — related
 - [Graphomotor skills show the strongest links of the FMS subdomains with academic-cognitive skills, significantly exceeding dexterity](graphomotor-strongest-fms-subdomain.md) — related
 - [FiMS relate more strongly than GMS to reading, writing, mathematics, general academics and cognition, but not to language; GMS show no significant link to general academic skills](fims-gms-domain-specific-associations.md) — related
+- [Executive function partially mediates the relationship between fundamental motor skills and academic achievement in both Chinese and mathematics](ef-partially-mediates-fms-academic-achievement.md) — related
