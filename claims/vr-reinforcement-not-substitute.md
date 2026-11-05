@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-11-05
 sources:
   - id: vargas-2024
     resource: "https://eric.ed.gov/?id=EJ1445872"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Technologies like virtual reality should be seen as a reinforcement, not a substitute, for the original educational action, strengthening the situated dimension. [→ Vargas 2024](#vargas-2024)
@@ -74,7 +75,7 @@ Discussion-level interpretation (attributed by the review to Hamilton et al., 20
 - [Conventional training received significantly higher ratings for perceived realism and immersion than VR-based training (r=0.774)](conventional-training-higher-realism-immersion.md) — related
 - [Qualitative analysis found radiation became perceptible in VR for all participants, while all reported operability differences favoring conventional training](qualitative-themes-visualization-versus-operability.md) — related
 - [VR-based training with radiation field visualization received significantly higher ratings for radiation understanding and visualization than conventional training (r=0.878)](vr-radiation-visualization-higher-understanding-ratings.md) — a narrower finding that bears on this claim
-- [VR-based training received significantly higher ratings for medical safety awareness and radiation protection than conventional training (r=0.856)](vr-training-higher-safety-awareness-ratings.md) — related
+- [Students' ratings for medical safety awareness and radiation protection rose significantly from pre-test to post-test after VR-based training in one single-group pre-post study with no comparison group (r=0.856)](vr-training-higher-safety-awareness-ratings.md) — related
 - [The VR application did not increase students' interest in biodiversity, and only the academic-track control group showed a significant interest increase](vr-did-not-increase-interest.md) — related
 - [VR improved movement-based transfer test performance versus reading in security training, while learning in VR without the possibility to act was detrimental](vr-transfer-benefit-but-actionless-vr-detrimental.md) — related
 - [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected](immersion-cost-benefit-transfer-motivation.md) — related

@@ -53,3 +53,4 @@ Randomized controlled trial of 30 anesthesiology and critical care residents, ra
 - [Median self-confidence in performing US-guided peripheral venous access increased from 5 to 8 after the brief training](us-training-confidence-5-to-8.md) — related
 - [PGY residents completed US-guided cannulation significantly faster than clerks (68.5 vs. 133 s)](pgy-faster-than-clerks-cannulation-time.md) — related
 - [High-fidelity simulation improves ECT procedural skills substantially but does not reliably improve theoretical knowledge or confidence](hfs-ect-procedural-skills.md) — related
+- [Median procedural performance rubric scores improved from 16 to 26.5 after simulation-based mastery learning training (p < 0.001)](sbml-probing-rubric-score-improvement.md) — related

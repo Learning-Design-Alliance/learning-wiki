@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Chaemsai 2016: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` Seventh-grade students taught through DR-TA scored significantly higher on English reading comprehension than the control group taught traditionally, F = 8.24, p = .005. [→ Chaemsai 2016](#chaemsai-2016)

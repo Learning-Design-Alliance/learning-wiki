@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r2` · `q2`–`q3` · n=41 studies
-> **Currency** · newest study 2010 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-09-30, overstated its evidence once the syntheses were added): Explicit grammar teaching improves performance on complex rules but equals implicit teaching for simple rules -->
 
 ## Subclaims

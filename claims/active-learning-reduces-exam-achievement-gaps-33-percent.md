@@ -10,7 +10,7 @@ generated:
   at: 2026-10-13
 evidence_strength: strong
 newest_evidence: 2020
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: theobald-elli-j-et-al-2020
     resource: "https://doi.org/10.1073/pnas.1916903117"
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4`
-> **Currency** · newest study 2020 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 
@@ -77,3 +77,4 @@ Individual-participant-data meta-analysis using hierarchical Bayesian regression
 - [Students in traditional lecture STEM courses are 1.5 times more likely to fail than students in active-learning courses](lecturing-increases-stem-failure-rates.md) — related
 - [Active learning in an entry-level biology course closed performance gaps between underrepresented and non-underrepresented minority students and increased all students' self-efficacy](active-learning-closed-gaps-increased-self-efficacy.md) — a narrower finding that bears on this claim
 - [The effect of active learning on achievement gaps varies extensively across studies, and in some studies active learning increased gaps](active-learning-gap-variation-across-studies-ipd.md) — related
+- [Group work implementation increases average student performance compared with lecture alone in undergraduate biology classrooms.](group-work-increases-average-performance-biology.md) — a narrower finding that bears on this claim

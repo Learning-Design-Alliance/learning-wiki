@@ -68,3 +68,4 @@ Bivariate correlation analysis (Table 1, N = 486) consistent with theoretical ex
 - [Negative emotional associations of AI-adaptive environments are pronounced among students with low AI literacy but substantially attenuated among those with high AI literacy](simple-slopes-ai-literacy-low-high.md) — related
 - [Self-regulated learning and critical AI evaluation promote effective AI use](srl-and-critical-evaluation-promote-effective-ai-use.md) — related
 - [AI is implemented in SRL research primarily as an intervention, most often through adaptive systems and personalization](ai-implemented-as-intervention-adaptive-systems-personalization.md) — related
+- [Perceived teacher support is positively correlated with all three types of self-regulated learning (preparation, performance, self-evaluation).](teacher-support-correlates-srl-types.md) — reports the opposite

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 sources:
   - id: fikria-ainun-setiawan-slamet-munir-ahmad-2025
     resource: "https://doi.org/10.12688/f1000research.165491.1"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across the 31 reviewed SSCI studies, TEPBLL was associated with gains in eight language skills and knowledge areas, as synthesized by the review authors. [→ Fikria Ainun; Setiawan Slamet; Munir Ahmad 2025](#fikria-ainun-setiawan-slamet-munir-ahmad-2025)

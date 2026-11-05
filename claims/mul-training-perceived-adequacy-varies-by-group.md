@@ -48,4 +48,4 @@ Post-study questionnaire (Google Forms) completed by 69 of 81 participants (85% 
 - [Only 32% of Jordanian ICU nurses had received formal mental health training, and 79% felt they could be better prepared with additional education](icu-nurses-mental-health-training-gap.md) — related
 - [Scaffolding must be balanced: too little led to confusion and overload, while too much reduced opportunities for critical thinking](scaffolding-balance-confusion-versus-critical-thinking.md) — related
 - [All three online training methods significantly improved diagnostic performance for MUL measurements on prostate MRI with no significant differences between groups](online-training-improves-mul-diagnostic-performance.md) — related
-- [Reader confidence in measuring MUL significantly increased across all training groups](online-training-improves-mul-reader-confidence.md) — related
+- [Self-reported reader confidence in measuring MUL rose significantly from pre-test to post-test across all training groups in one uncontrolled pre-post study](online-training-improves-mul-reader-confidence.md) — related

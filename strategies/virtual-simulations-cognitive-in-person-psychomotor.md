@@ -53,6 +53,8 @@ The review's concluding recommendation for a balanced instructional approach: "t
 - [Use web-assisted activities and simulations in an integrated way with real experiments rather than as a replacement](integrated-web-activities-with-real-experiments.md)
 - [Pair large-group RAT with small-group Anatomage laboratory sessions to create a tiered blended learning model](tiered-blended-rat-plus-small-group-anatomage.md)
 - [Integrate interactive digital tools into large-enrollment courses to teach conceptually demanding content where lab access is limited](digital-tools-for-large-enrollment-conceptually-dense-content.md)
+- [Blend digital resources with traditional teaching to create a blended learning approach](blended-digital-traditional-pathology-teaching.md)
+- [Expand simulation-based and laboratory training before and alongside clinical practice](expand-simulation-laboratory-training-nursing.md)
 
 ## Examples
 -

@@ -85,3 +85,6 @@ Reliability analysis of the post-study Likert survey administered to undergradua
 - [The seven-item AR usability questionnaire showed high internal consistency (α = 0.97) that may reflect item redundancy](ar-usability-questionnaire-high-alpha-redundancy.md) — related
 - [The five-item PBL collaboration peer-evaluation scale demonstrates strong internal consistency](pbl-collaboration-scale-reliability.md) — related
 - [The self-developed evaluation instrument showed high internal consistency across its three parts (Cronbach's α = 0.941, 0.973, 0.953)](self-developed-training-evaluation-instrument-reliability.md) — related
+- [The study's two-dimensional self-confidence scale shows high internal consistency (Cronbach's alpha > 0.80) across all three measurement time points](endodontic-confidence-scale-high-internal-consistency.md) — related
+- [The FOI test shows high internal consistency reliability (Cronbach's α = 0.89)](foi-test-internal-consistency-cronbach-alpha-089.md) — related
+- [The simulation model demonstrated high usability across all six UEQ domains, with attractiveness rated highest and excellent internal consistency (Cronbach's alpha = 0.91)](sbml-probing-simulator-ueq-usability.md) — related

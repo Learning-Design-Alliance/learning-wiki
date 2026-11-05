@@ -50,3 +50,4 @@ Narrative synthesis of the 209 included studies, grouped by training modality. T
 - From 2014 onwards, robotic training studies shifted toward transfer of virtual and dry lab skills to the wet lab and operating room — related
 - [Two randomized trials of dVSS or dV-Trainer training to proficiency found no significant differences between trained and control groups on operative performance](rcts-no-significant-difference-vr-trained-versus-controls.md) — related
 - [A systematic review identified 131 original studies describing 93 different ophthalmic simulation models, distributed across virtual reality, wet-lab, dry-lab and e-learning modalities.](131-studies-93-ophthalmic-simulators-four-modalities.md) — related
+- [Dry-lab training promotes technical skill development more than VR training](dry-lab-training-exceeds-vr-robotic-skills.md) — related

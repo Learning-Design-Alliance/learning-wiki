@@ -64,7 +64,7 @@ The interaction is described as disordinal and strongest for females who receive
 
 
 ## Related Claims
-- [In one word-problem study, females gained significantly when the formatted procedural plan came after an unformatted test, and scored lower when the formatted test came first](females-benefit-free-exploration-then-plan.md) — related
+- [In one word-problem study, females' scores rose significantly from pre-test to post-test in the unformatted-to-formatted sequence and fell from pre-test to post-test in the formatted-to-unformatted sequence, based on within-group pre-post measurements](females-benefit-free-exploration-then-plan.md) — related
 - [No significant gender difference in word-problem performance on either formatted or unformatted test forms](no-gender-difference-either-test-form.md) — related
 - Retention differs by type of knowledge tested, with concepts and rules retained best and problem solving worst — related
 - [In a randomized trial of SRL interventions in an online mathematics preparation course, group and time interacted significantly on SRL knowledge, self-efficacy and the SRL overall score, with Group TDP (training + diary + peer feedback) showing the most prominent gains](srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep.md) — related

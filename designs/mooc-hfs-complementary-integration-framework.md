@@ -43,7 +43,8 @@ The article proposes that "MOOC and HFS are not isolated educational tools, but 
 - [Mooc Hfs Larger Effects Practical Refractive Classroom](../claims/mooc-hfs-larger-effects-practical-refractive-classroom.md) [+M]
 
 ## Related Designs
-- 
+
+- [Simulation-based mastery learning (SBML) framework integrating constructivist and behavioral learning theories](sbml-constructivist-behavioral-framework-probing.md)
 
 ## Examples
 -

@@ -45,7 +45,7 @@ Chi-square analyses of Phase 1 survey data dichotomised competency into high (n 
 
 
 ## Related Claims
-- [SMART VHV Plus Model training was associated with a statistically significant competency gain from 86.14% to 98.16% (Cohen's d = 1.96)](smart-vhv-plus-model-significant-competency-gain.md) — related
+- [Competency scores rose significantly from 86.14% to 98.16% after SMART VHV Plus Model training, in one uncontrolled pre-post study (Cohen's d = 1.96)](smart-vhv-plus-model-significant-competency-gain.md) — related
 - [Baseline self-reported competency among 416 VHVs was high overall, with practices strongest and knowledge weakest](vhv-baseline-competency-high-with-knowledge-weakest.md) — related
 - [Univariate analyses show core competency total scores differ by sex, hospital classification, palliative care working duration, training experience, and recent bereavement.](univariate-competency-differences-demographics.md) — related
 - [In the adjusted model, intermediate professional title is positively associated with the high-level profile while short nursing tenure is negatively associated with it](title-and-tenure-associations-high-level-profile.md) — related
@@ -53,3 +53,4 @@ Chi-square analyses of Phase 1 survey data dichotomised competency into high (n 
 - [Skill acquisition in the experimental group did not differ significantly by sex, academic year, or university major](no-demographic-differences-skill-acquisition.md) — related
 - [Univariable differences across competency profiles concentrate in career-stage and psychological variables, while sex, education and specialist nurse status show no significant differences](profile-differences-career-stage-psychological-variables.md) — related
 - [Academic year, marital status, working status, and financial status show no significant association with knowledge level](no-association-demographics-knowledge-syria.md) — related
+- [Nurses' working experience is associated with AI competence; other demographics show no significant association](working-experience-associated-with-aic-nurses.md) — related

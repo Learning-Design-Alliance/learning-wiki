@@ -49,4 +49,4 @@ Quasi-experiment with two intact sections of 21 male students each at Al-Ashrafi
 - [ANCOVA controlling for pre-test scores confirmed that metacognitive strategy with books of literary quality improved reading comprehension relative to the control group](ancova-metacognitive-strategy-reading-comprehension-effect.md) — related
 - [Six weeks of Joint Productive Activity instruction significantly improved Nigerian Junior Secondary II students' reading comprehension performance from pre-test to post-test](jpa-improves-reading-comprehension-pre-post.md) — related
 - [Students taught reading comprehension with Joint Productive Activity scored higher on post-tests than students taught by the traditional method](jpa-group-outperformed-traditional-group-post-test.md) — related
-- [The study's null hypothesis of no pre-test/post-test difference in scores was rejected](null-hypothesis-rejected-pre-post-english.md) — related
+- [Scores rose from pre-test to post-test in one group with no comparison group](null-hypothesis-rejected-pre-post-english.md) — related

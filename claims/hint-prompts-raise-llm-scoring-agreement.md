@@ -79,3 +79,4 @@ Experiment 1 agreement analysis (Table 4): 9-ChatGPT agreement on the ChatGPT-ge
 - [Automated HDR problem generation makes repeated and longitudinal assessment feasible by producing structurally equivalent cases with different contexts](automated-generation-enables-longitudinal-hdr-assessment.md) — related
 - [LLMs can grade short-answer reading comprehension questions with accuracy comparable to human experts, supporting formative assessment grading](llm-grading-reading-comprehension-expert-comparable.md) — related
 - [LLM data extraction accuracy varies by data type, with high precision but lower recall across tasks](llm-extraction-high-precision-lower-recall.md) — related
+- [All four LLMs completed the 240-question assessment in under 3 minutes, far faster than the human time allocation](llms-complete-frcs-urol-under-three-minutes.md) — related

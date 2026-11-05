@@ -50,3 +50,5 @@ Discussion of follow-up evidence across included studies. The shortest follow-up
 - [School-based CPR training effectively promotes change in CPR knowledge and skills among adolescents](school-cpr-training-improves-adolescent-knowledge-skills.md) — related
 - [CPR skills deteriorate within three to six months without frequent practice or retraining](cpr-skills-decay-3-6-months.md) — reports the opposite
 - [Technical and non-technical ACLS skills decline by 12 months post-training across all simulation groups](acls-skill-decline-at-twelve-months.md) — reports the opposite
+- [Knowledge and self-efficacy scores remained stable, while attitude scores slightly decreased from post-test to two-month follow-up among medical interns in one uncontrolled pre-post study](knowledge-self-efficacy-attitude-retention.md) — related
+- [A one-on-one TCT refresher training delivered 6–9 months after the original course was highly valued by participants, with 83% believing it should become standard practice](tct-refresher-training-highly-valued-by-trainers.md) — related

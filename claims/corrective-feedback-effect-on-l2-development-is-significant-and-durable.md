@@ -9,7 +9,6 @@ generated:
   at: 2026-09-30
 evidence_strength: moderate
 newest_evidence: 2010
-source_checked: 2026-10-20
 sources:
   - id: lyster-saito-2010
     resource: "https://doi.org/10.1017/S0272263109990520"
@@ -35,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2010 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Corrective feedback here is a teacher's or interlocutor's response to a learner's error in the target language (recasts, prompts, explicit correction and similar moves). The claim is about feedback as a whole; which type works best is a separate question (see Related Claims).
 
@@ -155,7 +154,7 @@ Both syntheses find the effect of corrective feedback durable, and they overlap 
 - [Learners perceived instructor corrective feedback delivered through Voice Thread as helpful for improving grammar accuracy](online-instructor-feedback-perceived-helpful.md) — related
 - [Written corrective feedback in general is inconclusive as a predictor of long-term improvement in L2 writing accuracy, with roughly 55% of studies showing positive effects](wcf-inconclusive-predictor-long-term-accuracy.md) — related
 - [Grammar-oriented uptake rates are significantly higher in input-providing and output-prompting feedback classes than in a no-feedback class among young EFL learners](feedback-groups-uptake-exceed-no-feedback-young-efl.md) — a narrower finding that bears on this claim
-- [Young EFL learners receiving input-providing corrective feedback improve significantly in grammar from pretest to immediate and delayed posttests, with gains retained](input-providing-group-significant-gains-over-time.md) — a narrower finding that bears on this claim
+- [Young EFL learners receiving input-providing corrective feedback had significantly higher grammar scores at the immediate and delayed posttests than at pretest, with no significant change between posttests, in one uncontrolled pre-post study](input-providing-group-significant-gains-over-time.md) — a narrower finding that bears on this claim
 - [Output-prompting feedback outperforms input-providing and no-feedback conditions on both immediate and delayed grammar posttests in young EFL learners](output-prompting-outperforms-input-providing-grammar.md) — a narrower finding that bears on this claim
 - [The treatment's benefits on the second conditional were maintained on delayed posttests four and eight weeks after instruction](virtual-world-gains-maintained-delayed-posttests.md) — a narrower finding that bears on this claim
 - [Incidental focus on form via recasting during jigsaw retelling tasks improves EFL learners' overall grammatical accuracy](incidental-fof-recasting-improves-grammatical-accuracy.md) — a narrower finding that bears on this claim

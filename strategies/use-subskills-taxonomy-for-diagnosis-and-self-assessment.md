@@ -39,6 +39,7 @@ The article recommends that teachers and teacher-researchers use the operational
 ## Related Strategies
 
 - [Design RC and LC tests with the offered subskills and validate them with think-aloud protocols and interviews](design-tests-with-offered-subskills-and-validate-think-alouds.md)
+- [Use validated competency questionnaires to diagnose educator strengths and design targeted professional development](competency-diagnosis-professional-development-strategy.md)
 
 ## Examples
 -

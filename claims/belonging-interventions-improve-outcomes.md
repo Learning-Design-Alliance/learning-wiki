@@ -8,7 +8,7 @@ generated:
 id: belonging-interventions-improve-outcomes
 evidence_strength: weak
 newest_evidence: 2023
-source_checked: 2026-10-07
+source_checked: 2026-11-05
 sources:
   - id: walton-cohen-2011
     resource: "https://doi.org/10.1126/science.1198364"
@@ -34,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r3` · `q3`
-> **Currency** · newest study 2023 · checked against its sources 2026-10-07 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 Brief, targeted interventions that address students' doubts about whether they belong in school can improve academic outcomes, particularly during transitions and for students from groups subject to negative stereotypes about their ability.
 

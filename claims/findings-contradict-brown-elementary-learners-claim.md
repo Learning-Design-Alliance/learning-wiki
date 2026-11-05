@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "The present study's significant gains contrast with Brown's (1992) claim that intensive programs are not beneficial for elementary-level learners"
-description: "The present study's significant gains contrast with Brown's (1992) claim that intensive programs are not beneficial for elementary-level learners"
+title: "Beginning-level Malaysian secondary school students' language proficiency scores were significantly higher at post-test than pre-test after an intensive English program, in a single-group pre-post study with no comparison group"
+description: "Beginning-level Malaysian secondary school students' language proficiency scores were significantly higher at post-test than pre-test after an intensive English program, in a single-group pre-post study with no comparison group"
 id: findings-contradict-brown-elementary-learners-claim
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# The present study's significant gains contrast with Brown's (1992) claim that intensive programs are not beneficial for elementary-level learners
+# Beginning-level Malaysian secondary school students' language proficiency scores were significantly higher at post-test than pre-test after an intensive English program, in a single-group pre-post study with no comparison group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

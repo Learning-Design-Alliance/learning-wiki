@@ -8,6 +8,7 @@ generated:
 id: rubrics-improve-peer-feedback-quality
 evidence_strength: unestablished
 newest_evidence: 2022
+source_checked: 2026-11-05
 sources:
   - id: li-et-al-2022
     resource: "https://doi.org/10.1145/3543321.3543344"
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r1` · `q2`
-> **Currency** · newest study 2022 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Rubrics Improve Peer Feedback Quality -->
 <!-- title before 2026-10-15: Rubrics changed what online peer reviewers commented on and improved their rating of complex criteria in two quasi-experiments, though one found less reflective feedback -->
 

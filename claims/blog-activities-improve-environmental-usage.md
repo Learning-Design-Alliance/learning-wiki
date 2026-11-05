@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Blog activities significantly improved students’ usage of environment
-description: Blog activities significantly improved students’ usage of environment
+title: Students’ usage of environment scores rose significantly from pre-test to post-test after blog activities, in one uncontrolled pre-post study
+description: Students’ usage of environment scores rose significantly from pre-test to post-test after blog activities, in one uncontrolled pre-post study
 id: blog-activities-improve-environmental-usage
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Blog activities significantly improved students’ usage of environment
+# Students’ usage of environment scores rose significantly from pre-test to post-test after blog activities, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -46,5 +46,5 @@ Repeated-measures t-test on the usage subscale for 56 students. Post-test mean (
 
 ## Related Claims
 - [Blog activities significantly improved students’ attitudes toward the environment](blog-activities-improve-environmental-attitude.md) — related
-- [Blog activities significantly improved students’ environmental knowledge](blog-activities-improve-environmental-knowledge.md) — related
+- [Students’ environmental knowledge scores rose significantly from pre-test to post-test after eight weeks of blog activities, in one uncontrolled pre-post study](blog-activities-improve-environmental-knowledge.md) — related
 - [Blog activities did not improve students’ interest in environmental problems](blog-activities-not-improve-environmental-interest.md) — related

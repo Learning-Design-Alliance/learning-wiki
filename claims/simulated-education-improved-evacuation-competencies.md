@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Delbene Lara 2026: the intervention came bundled with another change (The evacuation simulation was bundled with a lecture and practical small-group simulation) (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` In a quasi-experimental single-group pretest–posttest study of 119 fourth-year undergraduate nursing students, simulated evacuation training produced significant improvement in all subcategories, with overall correct answers increasing from 48.5% to 72.1%. [→ Delbene Lara 2026](#delbene-lara-2026)

@@ -39,8 +39,8 @@ The article recommends integrating basic mathematics skill practice into creativ
 
 ## Claims
 
-- [Preschool children's overall basic mathematics scores rise significantly after plasticized-clay art activities (p<.01, t=26.458)](../claims/clay-activities-significant-pre-post-gain-overall.md) [+W]
-- [Each of the six individual basic mathematics skills improves significantly after plasticized-clay activities](../claims/clay-activities-individual-skills-significant-gains.md) [+W]
+- [Preschool children's overall basic mathematics scores rose significantly from pre-test to post-test after plasticized-clay art activities, in one uncontrolled pre-post study (p<.01, t=26.458)](../claims/clay-activities-significant-pre-post-gain-overall.md) [+W]
+- [Each of the six individual basic mathematics skills scored higher from pre-test to post-test after plasticized-clay activities in one uncontrolled pre-post study](../claims/clay-activities-individual-skills-significant-gains.md) [+W]
 - [Classification is the least-developed basic mathematics skill after plasticized-clay activities, rated moderate](../claims/classification-least-developed-clay-activities.md) [~W]
 - [Plasticized-clay art activities produce high post-activity development levels across basic mathematics skills in preschool children](../claims/plasticized-clay-art-high-development-math-skills.md) [+W]
 

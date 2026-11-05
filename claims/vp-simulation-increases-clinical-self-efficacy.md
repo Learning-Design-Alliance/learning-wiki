@@ -52,3 +52,4 @@ In the same randomized N = 87 experiment, an LMM on the SE-12 self-efficacy scal
 - [In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies](vp-vs-other-digital-no-difference.md) — related
 - [Virtual patient-based learning produces greater learning performance, self-efficacy and communication skills than conventional learning in a quasi-experimental study](vp-social-learning-quasi-experiment-communication.md) — reports the opposite
 - [VP simulation training reduces perceived insecurity across most subdomains](vp-simulation-reduces-perceived-insecurity.md) — related
+- [Clinical self-efficacy improves within all training groups but shows no significant between-group differences](clinical-self-efficacy-improves-within-all-groups-no-between-group-difference.md) — possibly the same claim (merge candidate)

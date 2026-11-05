@@ -23,7 +23,7 @@ An observation-based assessment instrument developed by Isman et al. for trained
 - **Teaching Skills Scale Card (TSSC) for observing student teachers' teaching implementation skills**: The Teaching Skills Scale Card (TSSC) is an observation instrument prepared by the authors in 2011 for rating student teachers' teaching implementation skills during classroom observation. It covers four domains — planning (13 points), learning strategies and classroom management (28 points), knowledge of subject matter (20 points), and evaluation (14 points) — for a total score of 75, with each standard operationalized by concrete behavioral indicators such as "Uses dialogue as a means of knowing the needs and experience of students." (Isman et al. (2012))
 
 ### Claims
-- [Blended e-learning produced statistically significant pre-post gains in student teachers' teaching implementation skills in favor of the posttest](../claims/blended-learning-significant-pre-post-gains-teaching-skills.md) [+M]
+- [Student teachers' teaching implementation skills were higher at posttest than pretest after blended e-learning, with a statistically significant difference in one uncontrolled pre-post study.](../claims/blended-learning-significant-pre-post-gains-teaching-skills.md) [+M]
 
 ## Related Products and Programmes
 -

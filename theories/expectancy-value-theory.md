@@ -12,7 +12,7 @@ generated:
 # Expectancy-Value Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 58 claims (35 for, 22 mixed, 1 against) · 43 studies (20 causal, 9 associational, 6 review, 3 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q3` · 12 of 43 report an effect size · 57 claims rest on one study
+> **Evidence** · 59 claims (35 for, 23 mixed, 1 against) · 44 studies (20 causal, 10 associational, 6 review, 3 qualitative, 2 quant-synthesis, 2 theoretical, 1 design), `q1`–`q3` · 13 of 44 report an effect size · 58 claims rest on one study
 
 ## Description
 Expectancy-Value Theory (Wigfield & Eccles, 2000) proposes that achievement behavior is most immediately predicted by two beliefs: **expectancy for success** (whether the learner believes they will do well on an upcoming task) and **task value** (why the learner believes the task is worth doing). Expectancy for success is conceptually distinct from present-tense **ability beliefs** — expectancy is about future potential, ability belief is about current competence — though the two are closely related in practice.
@@ -117,6 +117,7 @@ The theory is explicitly integrative — it is often used as the organizing fram
 - [Most first-year students expect a lower degree grade than they hope for, and few cite ability as key to success](../claims/student-grade-expectations-and-success-attributions.md) [~W]
 - [Radiology-specialized trainees report substantially higher perceived utility value of the simulation than laboratory-specialized trainees](../claims/radiology-trainees-report-higher-utility-value.md) [~W]
 - [Perceived educational value and anticipation of anaphylaxis correlate weakly but significantly with objective VR performance](../claims/perceived-value-anticipation-correlate-performance.md) [+W]
+- [Topic-related interest, but not importance, utility, or self-efficacy, predicted task-related enjoyment while secondary students learned with an ITS](../claims/interest-predicts-task-enjoyment-its.md) [~W] — attached 2026-11-04 from Chevalère et al. (2023), which proposed "Control-value theory sequence applied to ITS learning: partial correlational support but difficult causal establishment".
 
 ## Related Theories
 

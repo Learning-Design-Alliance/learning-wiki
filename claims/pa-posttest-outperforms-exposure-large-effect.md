@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i3` large
 > **Currency** · newest study 2018 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Ibrahim 2018: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` The treatment group (M=42.64) significantly outscored the control group (M=6.39) on the posttest, t=11.920, p=0.001. [→ Ibrahim 2018](#ibrahim-2018)

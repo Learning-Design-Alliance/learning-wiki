@@ -52,3 +52,4 @@ Chi-square analysis of cluster membership against the two demographic variables 
 - [Teachers' SRL competence profiles do not differ by gender, age, or teaching experience](srl-profiles-no-demographic-differences.md) — reports the opposite
 - [The Devalued/Ambivalent profile is significantly overrepresented in academically selective magnet schools, and Resistors are underrepresented there](devalued-ambivalent-profile-overrepresented-in-magnet-schools.md) — related
 - [The five clustering variables differed significantly across the four clusters, with large effect sizes for all five.](five-variables-differentiate-four-clusters.md) — related
+- [Demographic characteristics of young new farmers show significant distribution differences across gender, age, and education level.](young-new-farmers-demographic-distribution.md) — related

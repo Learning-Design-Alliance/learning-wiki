@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Videolaryngoscopy enables shared visualisation between instructor and learner, supporting immediate corrections during intubation training
-description: Videolaryngoscopy enables shared visualisation between instructor and learner, supporting immediate corrections during intubation training
+title: The source described shared visualisation between instructor and learner and immediate corrections during videolaryngoscopy intubation training
+description: The source described shared visualisation between instructor and learner and immediate corrections during videolaryngoscopy intubation training
 id: vl-shared-view-supports-instructor-feedback
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# Videolaryngoscopy enables shared visualisation between instructor and learner, supporting immediate corrections during intubation training
+# The source described shared visualisation between instructor and learner and immediate corrections during videolaryngoscopy intubation training
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q1 i?` The VL allows a shared experience between instructor and student, who simultaneously view images on the video screen, enabling immediate corrections and greater understanding of the maneuver. [→ Bahri Badra 2025](#bahri-badra-2025)
+`q1 i?` The source described a shared experience between instructor and student, with both simultaneously viewing images on the video screen, and described immediate corrections and greater understanding of the maneuver. [→ Bahri Badra 2025](#bahri-badra-2025)
 
 ## Evidence
 

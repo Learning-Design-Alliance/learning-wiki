@@ -47,4 +47,4 @@ The impact study used a quasi-experimental matched comparison design at the LEA 
 ## Related Claims
 - [The RMEP Project had no statistically detectable impact on students' attitudes toward mathematics or interest in STEM careers](rmep-no-impact-attitudes-stem-interest.md) — related
 - [Propensity-score-matched comparison found no statistically significant difference in adjusted posttest scores between tutored and nontutored students, though within-group effect sizes favored tutored students](matched-comparison-nonsignificant-tutoring-effect.md) — related
-- [Synchronous online mathematics tutoring produced statistically significant within-group gains in mathematics achievement for low-achieving middle school students in two rural schools](online-tutoring-significant-within-group-gains.md) — related
+- [Mathematics achievement scores rose significantly from pre-test to post-test among low-achieving middle school students receiving synchronous online mathematics tutoring in two rural schools, in single-group pre-post studies](online-tutoring-significant-within-group-gains.md) — related

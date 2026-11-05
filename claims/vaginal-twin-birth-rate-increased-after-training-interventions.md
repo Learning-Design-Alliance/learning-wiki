@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Celentano C 2026: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` Vaginal birth rates for twins increased significantly from 9.2% pre-intervention to 40.8% post-intervention across two Italian hospitals. [→ Celentano C 2026](#celentano-c-2026)

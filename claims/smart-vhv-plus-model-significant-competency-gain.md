@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "SMART VHV Plus Model training was associated with a statistically significant competency gain from 86.14% to 98.16% (Cohen's d = 1.96)"
-description: "SMART VHV Plus Model training was associated with a statistically significant competency gain from 86.14% to 98.16% (Cohen's d = 1.96)"
+title: "Competency scores rose significantly from 86.14% to 98.16% after SMART VHV Plus Model training, in one uncontrolled pre-post study (Cohen's d = 1.96)"
+description: "Competency scores rose significantly from 86.14% to 98.16% after SMART VHV Plus Model training, in one uncontrolled pre-post study (Cohen's d = 1.96)"
 id: smart-vhv-plus-model-significant-competency-gain
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# SMART VHV Plus Model training was associated with a statistically significant competency gain from 86.14% to 98.16% (Cohen's d = 1.96)
+# Competency scores rose significantly from 86.14% to 98.16% after SMART VHV Plus Model training, in one uncontrolled pre-post study (Cohen's d = 1.96)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i3` Following the SMART VHV Plus Model training, overall competency scores of 33 VHVs improved significantly from a pre-intervention mean of 86.14% to a post-intervention mean of 98.16% (Cohen's d = 1.96). [→ Chaleephrom Pariyakorn 2026](#chaleephrom-pariyakorn-2026)
+`q2 i3` In one uncontrolled pre-post study, overall competency scores of 33 VHVs rose significantly from a pre-intervention mean of 86.14% to a post-intervention mean of 98.16% after SMART VHV Plus Model training (Cohen's d = 1.96). [→ Chaleephrom Pariyakorn 2026](#chaleephrom-pariyakorn-2026)
 
 ## Evidence
 

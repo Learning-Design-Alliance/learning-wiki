@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i3` large
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Chen et al. 2018: no comparison group · Chen et al. 2018 (2): no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i3` Correlation between syntactic parsing ability and reading rate was r = .705 at pretest and r = .802 at posttest, both significant at the .01 level. [→ Chen et al. 2018](#chen-et-al-2018)

@@ -48,6 +48,6 @@ Paired-samples t-test in the same quasi-experiment. Mean perceived enjoyment in 
 - [Interest](../learner-variables/interest.md) — outcome: instruction changes it
 
 ## Related Claims
-- [The role-playing game increased students' perceived ability to perform actual information systems auditing tasks from pretest to posttest](rpg-increased-perceived-ability-perform-audit-tasks.md) — related
+- [Students' perceived ability to perform actual information systems auditing tasks rose from pretest to posttest in one uncontrolled pre-post study of a role-playing game](rpg-increased-perceived-ability-perform-audit-tasks.md) — related
 - [A role-playing game with lecturer involvement increased graduate accounting students' perceived knowledgeability of information systems audit from pretest to posttest](rpg-increased-perceived-knowledgeability-is-audit.md) — related
 - [TGT produced significant positive shifts on two of sixteen mathematics-attitude statements in the experimental group](tgt-attitude-shifts-two-statements.md) — related

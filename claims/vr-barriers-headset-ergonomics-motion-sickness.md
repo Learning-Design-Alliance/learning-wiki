@@ -48,3 +48,4 @@ Perceived disadvantages reported in the VR cohort's structured feedback and opti
 - [Cybersickness remains a persistent practical challenge, affecting approximately 42% of VR users, and can occur in AR where symptoms may exceed those in VR](cybersickness-prevalence-vr-ar-immersive-learning.md) — related
 - [VR use in anatomy learning can cause adverse effects and disorientation for some learners](vr-anatomy-adverse-effects-cybersickness.md) — related
 - [Motion sickness remains a disagreeable side effect of IVR serious games for a minority of participants](ivr-sgs-motion-sickness-side-effect.md) — related
+- [Approximately one quarter of XR-group participants reported cybersickness complaints](xr-cybersickness-complaints.md) — related

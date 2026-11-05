@@ -65,3 +65,4 @@ The article asserts as its framing premise that "Student engagement increases st
 - [Students report mixed social perceptions of DPBL, with some feeling isolated and others valuing the focused learning environment](dpbl-mixed-social-perceptions-isolation-focus.md) — related
 - [Peers have an essential role in promoting SDL through collaboration, motivation and support, though effects are mixed](peers-promote-sdl-collaboration-motivation.md) — related
 - [Higher social presence tends to align with improved learning outcomes and team performance, but can distract or increase social pressure in large-scale multi-user settings](social-presence-learning-outcomes-mixed.md) — related
+- [Resistance can be reduced when instructors communicate the purpose of group work, and evidence-based explanations of its importance increased student participation and perceived value.](communicating-purpose-reduces-resistance.md) — related

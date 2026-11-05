@@ -50,6 +50,7 @@ The article recommends that teacher educators model inquiry-based instruction, p
 - [Teacher educators should model inquiry-based instruction and provide in-service training on argumentation development](teacher-educators-model-inquiry-and-train-argumentation.md)
 - [Train instructors intensively before implementing assessment for learning in a new setting](intensive-instructor-training-for-afl-implementation.md)
 - [Involve students in the design of inquiry-based mobile learning activities and provide teachers with in-service training and constant support](student-involvement-and-teacher-training-mobile-inquiry.md)
+- [Implement teaching-focused workplace-based peer teaching placements with mentorship, repetition, and role modeling](anatomy-ems-implementation-recommendations.md)
 
 ## Examples
 -

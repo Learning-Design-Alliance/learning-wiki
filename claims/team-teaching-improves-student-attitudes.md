@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "EFL students' attitudes toward team teaching improve significantly after experiencing it in reading comprehension lessons"
-description: "EFL students' attitudes toward team teaching improve significantly after experiencing it in reading comprehension lessons"
+title: "EFL students' attitudes toward team teaching rose significantly from pre-test to post-test after experiencing it in reading comprehension lessons, measured within the experimental group"
+description: "EFL students' attitudes toward team teaching rose significantly from pre-test to post-test after experiencing it in reading comprehension lessons, measured within the experimental group"
 id: team-teaching-improves-student-attitudes
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 2
 ---
 
-# EFL students' attitudes toward team teaching improve significantly after experiencing it in reading comprehension lessons
+# EFL students' attitudes toward team teaching rose significantly from pre-test to post-test after experiencing it in reading comprehension lessons, measured within the experimental group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`

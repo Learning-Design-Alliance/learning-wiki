@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "A six-hour remedial training session significantly improved participants' recognition of If-clause pitch patterns (p < .05)"
-description: "A six-hour remedial training session significantly improved participants' recognition of If-clause pitch patterns (p < .05)"
+title: "In one single-group pre-post study, participants' recognition scores for If-clause pitch patterns rose from pre-test to post-test after a six-hour remedial training session (p < .05)"
+description: "In one single-group pre-post study, participants' recognition scores for If-clause pitch patterns rose from pre-test to post-test after a six-hour remedial training session (p < .05)"
 id: remedial-training-improves-pitch-recognition
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# A six-hour remedial training session significantly improved participants' recognition of If-clause pitch patterns (p < .05)
+# In one single-group pre-post study, participants' recognition scores for If-clause pitch patterns rose from pre-test to post-test after a six-hour remedial training session (p < .05)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -45,6 +45,6 @@ Paired-samples t-test on written recognition scores of the same 61 participants 
 
 
 ## Related Claims
-- [The remedial training did not significantly improve participants' production of If-clause pitch patterns (p = .094)](remedial-training-production-not-significant.md) — related
+- [Participants' oral production scores for If-clause pitch patterns rose from pre-test to post-test after remedial training, in one uncontrolled pre-post study (p = .094)](remedial-training-production-not-significant.md) — related
 - [Turkish pre-service teachers of English showed low baseline competency, with approximately 80% failing to recognize the pitch patterns of If-clauses on the pre-test](turkish-pre-service-teachers-low-pitch-recognition-pretest.md) — related
-- [Post-test production improved for Type 2 and Type 3 conditionals but decreased by almost 5% for Type 1 sentences](type1-production-decreased-posttest.md) — related
+- [In one uncontrolled pre-post study, production rose from pre-test to post-test for Type 2 and Type 3 conditionals but fell by almost 5% for Type 1 sentences](type1-production-decreased-posttest.md) — related

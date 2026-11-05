@@ -54,3 +54,4 @@ Authors' interpretation in the Discussion section of the quasi-experimental stud
 - [Male students taught algebraic expressions with games achieved significantly higher adjusted scores than female students](games-favor-male-algebra-achievement.md) — related
 - [Gender was not a determining factor in FACT efficacy, although only males showed a significant pre-to-post gain](gender-not-determining-factor-facts.md) — related
 - [Learning achievement in game-based learning shows no significant difference between males and females](game-based-learning-achievement-no-gender-difference.md) — reports the opposite
+- [Male students reported higher confidence than female students despite no performance difference](male-students-report-higher-confidence-no-performance-difference.md) — related

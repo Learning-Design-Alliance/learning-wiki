@@ -52,7 +52,7 @@ Quasi-experimental posttest-only comparison of two experimental classes, one tau
 ## Related Claims
 - [Descriptive scores for mathematical creative thinking ability were higher in the ATI class (mean 87.07) than in the PBL class (mean 77.18)](ati-pbl-descriptive-creative-thinking-scores.md) — possibly the same claim (merge candidate)
 - [No aptitude-treatment interaction: prior proficiency did not interact with hint type](no-ati-hint-type-proficiency.md) — related
-- [The article reports that PBL raised the average creative thinking ability of its participants above the control class](pbl-above-control-creative-thinking.md) — related
+- [The article reports that PBL raised average creative thinking ability above a class taught with the ATI model, which it calls the control class](pbl-above-control-creative-thinking.md) — related
 - [ATI research using static aptitude measures has yielded remarkably sparse robust results](ati-static-measures-sparse-results.md) — related
 - [Empirical patterns of the expertise reversal effect fit those found in Aptitude Treatment Interaction studies initiated in the mid-60s](expertise-reversal-fits-ati-patterns.md) — related
 - [Hypothesized ATI effects of individualized explanations based on typical mistakes were not supported; exploratory benefits emerged for high-resource vocational-school students](individualized-explanations-ati-hypotheses-not-supported.md) — related

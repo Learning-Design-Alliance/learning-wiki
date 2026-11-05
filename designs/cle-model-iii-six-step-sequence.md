@@ -43,7 +43,7 @@ CLE Model III is a structured instructional sequence that "begins with a reading
 - [A replicated grade-11 study of CLE model III used a one-experimental-group time-series design with MANOVA repeated measures, reporting significant development in reading and creative writing at the .001 level](../claims/cle-model-3-grade-11-time-series.md) [+W]
 - [CLE Model III instruction significantly improves English creative writing ability in eleventh-grade Thai students](../claims/cle-model-iii-improves-creative-writing.md) [+W]
 - [Students report significantly higher satisfaction after learning through CLE Model III](../claims/cle-model-iii-increases-student-satisfaction.md) [+W]
-- [CLE Model III instruction significantly improves English reading ability in eleventh-grade Thai students](../claims/cle-model-iii-improves-reading-ability.md) [+W]
+- [English reading ability scores rose significantly from pre-test to post-test in one uncontrolled pre-post study of eleventh-grade Thai students after CLE Model III instruction](../claims/cle-model-iii-improves-reading-ability.md) [+W]
 
 ## Related Designs
 

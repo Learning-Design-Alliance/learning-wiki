@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Aminah 2018: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` Tests of between-subjects effects found a significant Learning × MPK interaction for SRL post-scale (Sig. = 0.010) but not for MLTA post-test (Sig. = 0.284). [→ Aminah 2018](#aminah-2018)

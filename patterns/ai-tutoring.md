@@ -14,7 +14,7 @@ grain_size: course
 # AI Tutoring
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 429 claims (190 for, 182 mixed, 57 against) · 295 studies (113 causal, 61 review, 39 design, 28 theoretical, 22 quant-synthesis, 17 associational, 15 qualitative), `q1`–`q4` · 62 of 295 report an effect size · 413 claims rest on one study
+> **Evidence** · 430 claims (190 for, 183 mixed, 57 against) · 296 studies (114 causal, 61 review, 39 design, 28 theoretical, 22 quant-synthesis, 17 associational, 15 qualitative), `q1`–`q4` · 62 of 296 report an effect size · 414 claims rest on one study
 
 ## Description and scope
 
@@ -301,6 +301,7 @@ Claims linked to this pattern that the model above does not use. All were read a
 - [The adaptive peer-like agent brought the most benefit to children's vocabulary learning and affective engagement compared with fixed-role agents](../claims/adaptive-peer-agent-most-benefit.md) [+W] — attached 2026-10-29 from Chen et al. (2020), which proposed "Design educational agents to adaptively switch between tutor and tutee roles based on the student's engagement and learning needs"; tests this page's relationship.
 - [Medical interns using MAPLE-CR achieved higher posttest clinical reasoning knowledge scores than controls completing case-matched self-study](../claims/maple-cr-higher-posttest-than-self-study.md) [+M] — attached 2026-11-04 from Zhao Zhengqi et al. (2026), which proposed "Use generative AI as a process-oriented scaffold orchestrating the full PBL cycle rather than as an on-demand answer tool"; tests this page's relationship.
 - [Learners reported high acceptability of MAPLE-CR, with questionnaire means of 4.19-4.62 on positively worded items but salient cognitive-load concerns](../claims/maple-cr-high-acceptability-cognitive-load.md) [~M] — attached 2026-11-04 from Zhao Zhengqi et al. (2026), which proposed "Use generative AI as a process-oriented scaffold orchestrating the full PBL cycle rather than as an on-demand answer tool".
+- [Summative academic performance in the AI-supported Reproduction module does not significantly differ from traditionally taught modules](../claims/no-significant-summative-performance-difference-ai-module.md) [~W] — attached 2026-11-04 from Elsamanoudy Ayman; Alhazimi Awdah; Hassanien Mohammed; Almarabheh Amer; Al-Aqidi Sultan; Alwalidi Raghad; Alrefaie Zienab zeinab (2026), which proposed "AI tutors can be safely integrated as supplemental resources in medical education without adversely affecting academic performance"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

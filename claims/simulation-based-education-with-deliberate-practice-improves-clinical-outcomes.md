@@ -8,7 +8,6 @@ generated:
 id: simulation-based-education-with-deliberate-practice-improves-clinical-outcomes
 evidence_strength: moderate
 newest_evidence: 2011
-source_checked: 2026-10-20
 sources:
   - id: mcgaghie-et-al-2011
     resource: "https://doi.org/10.1097/acm.0b013e318217e119"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i3` large · n=14 studies
-> **Currency** · newest study 2011 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 Simulation-based education that incorporates deliberate practice — repeated, goal-directed rehearsal with immediate feedback and increasing difficulty — improves clinical skill performance and, in some domains, patient-level outcomes.
 
@@ -134,5 +133,5 @@ Systematic review and meta-analysis of 3,742 identified articles, of which 14 me
 - [Video feedback intervention is associated with increased self-efficacy in athletic training students learning a psychomotor competency skill, with significant pairwise differences only between trials spanning the intervention](video-feedback-increases-self-efficacy-psychomotor-skill.md) — a narrower finding that bears on this claim
 - [Scenario-based 3D simulator training produced statistically significant pre-to-post improvements across all evaluated perception domains in first-year medical students](scenario-3d-ica-significant-gains-all-domains.md) — a narrower finding that bears on this claim
 - [A competency-based multiactor emergency preparedness training curriculum improved cognitive knowledge, self-assessed skill, and scenario performance after video debriefing](competency-based-multiactor-ept-improved-performance.md) — a narrower finding that bears on this claim
-- [Most participants met the 80% knowledge competency threshold and 94% met practical competencies only after training](pr-training-competency-threshold-attainment.md) — a narrower finding that bears on this claim
+- [The proportion of participants meeting the 80% knowledge competency threshold rose from 18% pre-training to 82% post-training, and 94% met practical competencies after training, in one uncontrolled pre-post study](pr-training-competency-threshold-attainment.md) — a narrower finding that bears on this claim
 - [Authors attribute SBT performance advantages to repeated structured rehearsal in a controlled learning environment](sbt-advantage-attributed-repeated-structured-rehearsal.md) — a narrower finding that bears on this claim

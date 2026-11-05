@@ -51,7 +51,7 @@ Conclusion drawn from comparing pretest, seen posttest and unseen posttest score
 ## Related Claims
 - [The experimental group showed a statistically significant vocabulary gain from pretest to posttest under the flash card treatment](vfc-experimental-group-significant-pre-post-gain.md) — a narrower finding that bears on this claim
 - [Vocabulary learning under embedded instruction declined over the course of the school year](vocabulary-learning-decline-over-units.md) — reports the opposite
-- [Input Enhancement strategy improved the vocabulary knowledge of Iranian EFL learners over a three-month treatment](input-enhancement-improves-efl-vocabulary-knowledge.md) — a narrower finding that bears on this claim
+- [Input Enhancement group's vocabulary knowledge rose from pre-test to seen post-test over a three-month treatment in Iranian EFL learners (single-group pre-post study)](input-enhancement-improves-efl-vocabulary-knowledge.md) — a narrower finding that bears on this claim
 - [Traditional vocabulary teaching produced no statistically significant pretest-to-posttest gain in the control group](traditional-teaching-no-significant-vocabulary-gain.md) — reports the opposite
 - [Contextual vocabulary teaching produced statistically significant pretest-to-posttest vocabulary gains in Iranian intermediate EFL learners](contextual-vocabulary-teaching-significant-gains-iranian-efl.md) — a narrower finding that bears on this claim
 - [Embedded vocabulary lessons in prerecorded storybooks produce large vocabulary learning gains relative to hearing the same stories without lessons](embedded-lessons-vocabulary-gains-story-friends.md) — a narrower finding that bears on this claim

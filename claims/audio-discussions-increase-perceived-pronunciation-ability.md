@@ -57,3 +57,4 @@ Wilcoxon signed-rank test on self-assessment forms from 36 consenting students i
 - [WTC decreases as class size increases on both talk-time and turns of talk](wtc-decreases-as-class-size-increases.md) — related
 - [Resource scarcity and large class sizes limit individualized pronunciation feedback in Bangladeshi classrooms](resource-scarcity-large-classes-limit-pronunciation-feedback.md) — related
 - [English pronunciation self-efficacy is strongly and positively associated with willingness to communicate in English among Chinese EFL learners](pronunciation-self-efficacy-associated-with-wtc.md) — related
+- [Video-based learning shows a weak but statistically significant positive correlation with communication skill performance (r = 0.179, p = 0.043)](weak-significant-correlation-video-communication-skills.md) — related

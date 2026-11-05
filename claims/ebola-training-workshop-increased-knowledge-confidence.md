@@ -47,5 +47,5 @@ Pre–post training evaluation study without control group (Carlos et al. 2015, 
 ## Related Claims
 - [Zlotos study found confidence gains at post-test and 6-month follow-up, with knowledge peaking immediately then declining but staying above pretest](zlotos-confidence-knowledge-trajectory.md) — related
 - [A 2-day foot ulcer simulation training workshop increased podiatrists' confidence and significantly improved their theoretical knowledge and practical skills](fust-workshop-improved-confidence-knowledge-skills.md) — related
-- [A short pulmonary rehabilitation training program significantly improved knowledge scores in primary care physiotherapists and AEPs](pr-training-improves-knowledge-primary-care-clinicians.md) — related
+- [Knowledge scores rose significantly from pre-training to post-training after a short pulmonary rehabilitation training program among primary care physiotherapists and AEPs, in a single-group pre-post study](pr-training-improves-knowledge-primary-care-clinicians.md) — related
 - [Non-randomized and pre/post-test studies broadly support simulation training benefits for attitudes, skills, knowledge and behaviors, though subject to natural learning effects](simulation-nonrct-ppt-narrative-support.md) — a broader claim this one bears on

@@ -54,3 +54,4 @@ Safety outcome from the feasibility study (n = 32), with SSQ administered before
 - [VR participants report more technical issues and cybersickness symptoms than slideshow participants](vr-technical-issues-cybersickness.md) — related
 - [No significant safety issues arose in VR-IWS use; one young participant reported minor dizziness in one session only](vr-iws-no-significant-safety-issues.md) — related
 - [Participants rated NCPR-VR highly useful and were willing to recommend it (median 5 of 5 on both)](ncpr-vr-usefulness-recommend-medians.md) — related
+- [Approximately one quarter of XR-group participants reported cybersickness complaints](xr-cybersickness-complaints.md) — related

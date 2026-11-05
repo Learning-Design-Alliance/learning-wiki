@@ -69,3 +69,4 @@ Authors' stated possible explanations in the Conclusion: "more than half of the 
 - [SQU ELT trainers encouraged peer observation and same-day feedback sessions, with 78.9% of trainees agreeing trainers encouraged class visits and 81.9% agreeing feedback came the same day as observation](squ-trainers-encouraged-peer-observation-and-same-day-feedback.md)
 - [Gaps in reflective training: 42.9 per cent of trainees had not experienced on-line collaborative talk and 42 per cent had not been asked to produce written assignments about ELT in Oman](gaps-collaborative-talk-and-written-assignments.md) — related
 - [Performance feedback increased adherence to the predetermined teaching method (Item 19) and checking on other students during one-to-one teaching (Item 21)](pf-increased-teaching-process-items-19-21.md) — related
+- [The SIAPeC Quiz revealed a gap in digital resource literacy among trainees](siapec-quiz-digital-resource-literacy-gap.md) — related

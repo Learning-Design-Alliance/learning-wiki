@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Monmouth entrepreneurial program: two of three prompt comparisons improved significantly, one declined significantly, and the combined 7.39% gain was not significant"
-description: "Monmouth entrepreneurial program: two of three prompt comparisons improved significantly, one declined significantly, and the combined 7.39% gain was not significant"
+title: "Monmouth entrepreneurial program: two of three prompt comparisons rose significantly from beginning to end, one fell significantly, and the combined 7.39% change was not significant, in one uncontrolled pre-post study"
+description: "Monmouth entrepreneurial program: two of three prompt comparisons rose significantly from beginning to end, one fell significantly, and the combined 7.39% change was not significant, in one uncontrolled pre-post study"
 id: monmouth-mixed-prompt-results
 status: review
 generated:
@@ -28,15 +28,15 @@ sources:
     rigour: 1
 ---
 
-# Monmouth entrepreneurial program: two of three prompt comparisons improved significantly, one declined significantly, and the combined 7.39% gain was not significant
+# Monmouth entrepreneurial program: two of three prompt comparisons rose significantly from beginning to end, one fell significantly, and the combined 7.39% change was not significant, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Beginning prompt 3 to ending prompt 1 improved 23.54% (two-tailed .0222), and the identical prompt 2 improved 16.16% (two-tailed .0423), while beginning prompt 1 to ending prompt 3 declined 17.32% (two-tailed .0407). [→ DeSimone and Buzza 2013](#desimone-and-buzza-2013)
-`q2 i?` The combined average of all three prompts improved 7.39% but the two-tailed t-test indicated an insignificant statistical result. [→ DeSimone and Buzza 2013 (2)](#desimone-and-buzza-2013-2)
+`q2 i?` Beginning prompt 3 to ending prompt 1 rose 23.54% (two-tailed .0222), and the identical prompt 2 rose 16.16% (two-tailed .0423), while beginning prompt 1 to ending prompt 3 fell 17.32% (two-tailed .0407), from pre-test to post-test in one group with no comparison group. [→ DeSimone and Buzza 2013](#desimone-and-buzza-2013)
+`q2 i?` The combined average of all three prompts rose 7.39% from pre-test to post-test in one group with no comparison group, but the two-tailed t-test indicated an insignificant statistical result. [→ DeSimone and Buzza 2013 (2)](#desimone-and-buzza-2013-2)
 
 ## Evidence
 

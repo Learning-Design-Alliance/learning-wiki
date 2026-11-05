@@ -70,3 +70,4 @@ Same gain-score analysis on the behavior sub-scale. The article reports "no sign
 - [Post-test environmental attitudes did not differ significantly between experimental and control groups in the ANCOVA](posttest-eas-ancova-no-significant-difference.md) — reports the opposite
 - [The experimental and control groups were equivalent on all four environmental literacy dimensions at pre-test](pretest-equivalence-environmental-literacy-groups.md) — related
 - [Within the experimental group, AAT, EIS and EAS scores rose significantly from pre-test to post-test](experimental-group-prepost-gains.md) — related
+- [Four of five attitude dimensions rose significantly from pre-test to post-test, but the responsibility dimension did not change significantly, in one single-group pre-test–post-test study](responsibility-attitude-dimension-unchanged.md) — related

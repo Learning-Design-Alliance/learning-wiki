@@ -51,4 +51,4 @@ The review reports that in studies of computer and internet-based learning progr
 - [PBL-CBL improves physical examination and case analysis performance relative to LBL](pbl-cbl-physical-exam-case-analysis.md) — related
 - [Software-based platforms generally improve examination scores, diagnostic accuracy, and decision-making performance](software-platforms-improve-knowledge-and-decision-making.md) — a broader claim this one bears on
 - [Simulation training increased nursing students' confidence in cardiopulmonary physical examination skills more than traditional training (Tawalbeh et al. study)](simulation-confidence-cardiopulmonary-tawalbeh.md) — related
-- [Physical examination and medical record writing scores did not improve significantly after the VP program (d = 0.28 and d = 0.26)](vp-training-no-gain-physical-exam-documentation.md) — reports the opposite
+- [Physical examination and medical record writing scores did not change significantly from pre-test to post-test in one single-group pre-post study with no comparison group (d = 0.28 and d = 0.26)](vp-training-no-gain-physical-exam-documentation.md) — reports the opposite

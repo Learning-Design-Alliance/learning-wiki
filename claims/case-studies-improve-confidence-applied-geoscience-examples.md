@@ -50,4 +50,4 @@ One-group pretest–posttest quasiexperimental survey of the 30 mining engineeri
 
 ## Related Claims
 - [Students became significantly more willing to convince others that geoscience is important in mining after the intervention](case-studies-increase-willingness-advocate-geoscience-mining.md) — related
-- [Students gained significant improvement in exposure to geoscience concepts through the case study–based curriculum](case-studies-increase-exposure-geoscience-concepts.md) — related
+- [Students' self-reported exposure to geoscience concepts rose significantly from pre-test to post-test in one group with no comparison group after a case study–based curriculum](case-studies-increase-exposure-geoscience-concepts.md) — related

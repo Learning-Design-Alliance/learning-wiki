@@ -66,7 +66,7 @@ Longitudinal HLM (model 5np) for Cohort 2 year 3 without the pretest covariate. 
 ## Related Claims
 - [CCT with professional development outperforms graphing-calculator-only instruction on algebra 1 achievement across three years, with effect sizes from 0.19 to 0.37](cct-algebra-achievement-es-019-037.md) — a broader claim this one bears on
 - [Cohort 1 cross-sectional effects in years 2 and 3 were mixed: significant without pretest control (ES = 0.36) but not significant with it (ES = 0.23, 0.24)](cct-cohort1-years2-3-mixed-effects.md) — related
-- [Longitudinal comparison of Cohort 2 teachers' year 2 CCT classrooms against their own year 1 control classrooms shows significant improvement (ES = 0.20)](cct-longitudinal-cohort2-es020.md) — related
+- [Cohort 2 teachers' student achievement scores rose significantly from their year 1 classrooms to their year 2 CCT classrooms in a single-group pre-post comparison with no comparison group (ES = 0.20)](cct-longitudinal-cohort2-es020.md) — related
 - [In year 1, CCT treatment classrooms significantly outperformed control classrooms on the algebra posttest (ES = 0.30)](cct-year1-cross-sectional-es030.md) — related
 - [The CCT treatment effect on comprehension was statistically significant only for students with pretest ORF up to 0.20 SD above the sample mean (64.0% of the sample), and not for higher-fluency students](orf-region-of-significance-cct-effect.md) — related
 - [Years of teaching experience was a consistently significant covariate, adding about one posttest point per five to ten years of experience](teacher-experience-covariate-algebra-posttest.md) — related

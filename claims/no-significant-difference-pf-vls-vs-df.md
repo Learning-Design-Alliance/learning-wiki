@@ -48,6 +48,6 @@ Independent t-test comparing PV gains between the PF and DF groups. The article 
 - [Vocabulary](../learner-variables/vocabulary.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Both paper-flashcard and digital-flashcard groups made significant productive vocabulary gains over the 12-week treatment](pf-df-significant-pv-gains.md) — related
+- [Productive vocabulary scores rose significantly from pre-test to post-test within both the paper-flashcard and digital-flashcard groups in the 12-week study](pf-df-significant-pv-gains.md) — related
 - [The PF and DF groups were unequal at pre-test, with the DF group scoring significantly higher in both receptive and productive vocabulary](pretest-inequality-pf-df-groups.md) — related
-- [Both paper-flashcard and digital-flashcard groups made significant receptive vocabulary gains over a 12-week treatment](pf-df-significant-rv-gains.md) — related
+- [Receptive vocabulary scores rose significantly from pre-test to post-test within both paper-flashcard and digital-flashcard groups over 12 weeks](pf-df-significant-rv-gains.md) — related

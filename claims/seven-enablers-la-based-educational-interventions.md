@@ -52,3 +52,4 @@ Delphi round 1 with 18 international experts rated each of seven preliminary ena
 - [The created test tasks showed high validity (β = 0,97) via a Delphi procedure with 10 experts](test-validity-delphi-beta-097.md) — related
 - [In the first Delphi round, 12 of 22 potential competencies received unanimous endorsement and 10 required revisions based on expert feedback.](delphi-first-round-12-unanimous-10-revised.md) — related
 - [Two rounds of Delphi expert consultation with 22 experts demonstrate significant consensus and refine the retraining program from 9 to 11 learning modules.](delphi-consultation-refines-retraining-program-modules.md) — related
+- [The ICO-OCEX achieved strong content validity through a modified Delphi technique with expert consensus on all 33 items](ico-ocex-content-validity-delphi-consensus.md) — related

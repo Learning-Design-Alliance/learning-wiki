@@ -188,7 +188,7 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Use of the educational software during the experimental stage produced better worksheet grades for the experimental group, with the gap widening from Worksheet 1 to Worksheet 2](../claims/worksheet-grades-favor-software-group.md) [+W]
 - [Instructional software alone significantly improved learners' attitudes towards pronunciation](../claims/software-improves-pronunciation-attitudes.md) [+W]
 - [Participants held positive attitudes toward Web-based reading strategy instruction](../claims/positive-attitudes-toward-web-based-strategy-instruction.md) [+W]
-- [Both paper-flashcard and digital-flashcard groups made significant productive vocabulary gains over the 12-week treatment](../claims/pf-df-significant-pv-gains.md) [~W]
+- [Productive vocabulary scores rose significantly from pre-test to post-test within both the paper-flashcard and digital-flashcard groups in the 12-week study](../claims/pf-df-significant-pv-gains.md) [~W]
 - [Second Life speaking activities increase EFL learners' speaking achievement](../claims/sl-speaking-activities-increase-achievement.md) [+W] — attached 2026-11-03 from Guzel et al. (2016), which proposed "Second Life as a virtual EFL speaking practice environment"; tests this page's relationship.
 - [Geogebra-assisted instruction improves overall post-test scores on applications of derivative](../claims/geogebra-improves-overall-scores-applications-derivative.md) [+W]
 - [Time spent using MasterMaths software was positively and significantly correlated with mathematics performance improvement in Louw et al.'s (2008) study](../claims/mastermaths-time-on-task-correlated-with-mathematics-improvement.md) [~W]

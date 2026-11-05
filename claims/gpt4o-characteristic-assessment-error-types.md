@@ -56,3 +56,4 @@ Qualitative error taxonomy drawn from the authors' review of GPT-4o responses (T
 - [GPT-4o shows more consistent performance than Llama 3 70B across topics and metrics, while Llama 3 70B falls below 60% on the unit metric for three advanced topics](gpt4o-consistency-vs-llama3-unit-weakness.md) — related
 - [Qualitative error analysis yields five recurring error types, with over-inference most prevalent (33.5%), followed by evidence misidentification (23.4%) and hallucination (19.8%)](five-error-types-llm-diagnosis-vague-evidence.md) — related
 - [Homework solutions showed experimental students using multiple strategies correctly while control students made additive errors](homework-solutions-show-strategy-and-error-differences.md) — related
+- [The pass/fail standard produced false positives and a false negative, possibly because the simulator recognizes a specific fixed pathway](foi-test-false-positives-fixed-pathway-limitation.md) — related

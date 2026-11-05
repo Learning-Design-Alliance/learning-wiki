@@ -49,7 +49,7 @@ Review's retention-period synthesis: in Aqel et al. (first-year nursing students
 - [Skill retention after simulation is rarely measured; at 2-month follow-up only the VR group maintained significant ISVS improvement](simulation-skill-retention-two-month-follow-up.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [HF simulation shows no significant benefit for satisfaction, confidence, or teamwork behaviors, and no long-term knowledge retention benefit](hf-simulation-null-secondary-outcomes.md) — reports the opposite
-- [Knowledge retained one month after CATM training, with post-test2 scores exceeding post-test1 in both periods](catm-knowledge-retention-one-month.md) — a narrower finding that bears on this claim
+- [Knowledge scores were higher one month after CATM training than immediately after training in one group, in both periods](catm-knowledge-retention-one-month.md) — a narrower finding that bears on this claim
 - [Nigerian secondary school students retain statistically significant CPR skills six weeks after conventional CPR training](nigerian-secondary-students-retain-cpr-skills-six-weeks.md) — a narrower finding that bears on this claim
 - [SVVR training produces greater gains in nurses' delirium care knowledge than noninteractive video education immediately after training and at 1-month follow-up](svvr-greater-delirium-knowledge-gains-than-video.md) — related
 - [Knowledge gains from a one-day simulation curriculum persist at three months among pre-health students who completed follow-up.](simulation-knowledge-retention-three-months.md) — related

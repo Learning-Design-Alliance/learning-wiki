@@ -50,3 +50,4 @@ Pearson correlation analysis (Table 2, Figure 2 heatmap) among the four core con
 - [The negative load–flow association is stronger among nursing students with lower digital readiness](digital-readiness-moderates-load-flow-association.md) — related
 - [Extraneous cognitive load is negatively associated with autonomous motivation and positively with disengagement, while intrinsic load is negatively associated with motivation, engagement, and achievement](cognitive-load-negatively-associated-motivation-engagement.md) — related
 - [Lower extraneous cognitive load is associated with greater flow experience, and greater flow with higher learning engagement](load-flow-engagement-associations-nursing-simulation.md) — related
+- [Subjective cognitive load is negatively correlated with achievement scores in nursing digital learning](negative-correlation-cognitive-load-achievement.md) — related

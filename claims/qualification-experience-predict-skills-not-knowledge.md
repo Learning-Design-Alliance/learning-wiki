@@ -76,3 +76,4 @@ Multiple linear regression for the perceived knowledge‐and‐beliefs domain; a
 - [Demographic and professional factors explain only 1.8% of variance in perceived competency, whereas internal psychological factors raise explained variance to 76.5%](psychological-factors-outperform-demographics-predicting-competency.md) — related
 - [Significant differences in patient-centered medication management by age and experience, but not overall competence](age-experience-differences-patient-centered-medication-management.md) — related
 - [Experience variables did not predict post-training VAP knowledge-based competence](experience-did-not-predict-post-training-vap-knowledge.md) — related
+- [Demographics and prior tourniquet experience do not significantly impact post-training outcomes](prior-experience-no-effect-on-post-training-scores.md) — reports the opposite

@@ -52,3 +52,4 @@ Review synthesis: taste-testing (used in 19 of 25 studies) "demonstrated a large
 - [Successful interventions combined multiple experiential strategies, involved parents, used theory, and were shorter but more intense](successful-intervention-features-multiple-strategies-parents-intensity.md)
 - [Experiential learning activities improve children's knowledge, attitudes, and behaviors towards healthy eating](experiential-learning-improves-children-healthy-eating-outcomes.md) — a broader claim this one bears on
 - [Evidence for effective experiential learning approaches is weaker for preschool children than for primary school children](weaker-evidence-preschool-versus-primary-school.md) — related
+- [The TX Sprouts gardening-cooking-nutrition cluster-randomized trial improved diet quality, including the HEI-2015 Total Vegetables component and protein share, versus controls](tx-sprouts-improved-diet-quality-components.md) — related

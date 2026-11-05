@@ -66,3 +66,5 @@ Quasi-experimental non-equivalent groups comparison of grades in the course "Did
 - [Medical students in an integrated histology course scored significantly higher on the end-of-semester exam than non-participants taught traditionally](integrated-histology-higher-test-scores.md) — related
 - [The vodcast-access cohort showed no significant improvement over the control cohort on the end-of-module exam.](no-vodcast-effect-on-eom-exam-performance.md) — related
 - [Both the flipped classroom and AI-enhanced flipped classroom groups achieved higher question accuracy than the traditional classroom group.](flipped-models-higher-question-accuracy.md) — related
+- [Summative academic performance in the AI-supported Reproduction module does not significantly differ from traditionally taught modules](no-significant-summative-performance-difference-ai-module.md) — related
+- [Students achieving an A grade accessed e-modules on more days than B–C and D–F bands, and accessed them earlier than the B–C band](grade-band-regularity-timeliness-association.md) — related

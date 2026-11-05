@@ -67,3 +67,4 @@ Same non-CE subgroup of the construct validity study: novices' mean completion t
 - [Novices were twice as likely as experts to incur critical errors on the SP chicken anastomosis task, but the difference was not statistically significant](sp-anastomosis-critical-error-nonsignificant.md) — related
 - [A modified Delphi process with 14 panelists achieved 100% agreement on a metrics set of 5 steps, 20 errors, 1 failure-to-progress definition and 4 critical errors for the SP anastomosis task](sp-anastomosis-delphi-metrics-consensus.md) — related
 - [Objective performance metrics for the SP chicken anastomosis task discriminate expert from novice surgeons on completion time, with novices taking significantly longer (23.8 vs 12.1 min)](sp-chicken-anastomosis-construct-validity-time.md) — related
+- [Novices take significantly longer to complete simulated WFWB procedures than intermediate and expert providers](novices-longer-completion-times-wfwb-simulation.md) — related

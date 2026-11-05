@@ -50,7 +50,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 4 studies · 2 quant-synthesis `r3`, 1 causal `r?`, 1 review `r2` · `q2`–`q4` · `i1`–`i2`
-> **Currency** · newest study 2022 · 3 of 4 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2022 · 1 of 4 entries checked against their sources (automated) · not reviewed by a person
 
 Presenting words as spoken narration rather than on-screen text — alongside graphics or animation — improves learning, because distributing information across the auditory and visual channels reduces overload in the visual channel.
 
@@ -225,3 +225,4 @@ Open questions include how the effect interacts with learner control over pacing
 - [Learner pacing is a proposed moderator that may explain the absence of a split-attention effect in visually-based mobile learning](self-pacing-may-moderate-split-attention-in-mobile-learning.md) — related
 - [Screen reading is slower than reading from printed out material according to prior literature reviewed](screen-reading-slower-than-printed-reading-literature.md) — related
 - [Pupils using the audio-and-image (AI) mode significantly outperformed pupils using the audio-image-text (AIT) mode on the music theory post-test](ai-mode-outperformed-ait-mode-music-theory.md) — a narrower finding that bears on this claim
+- [Text-graphic composite modality yields the highest knowledge acquisition efficiency despite moderate cognitive load](text-graphic-composite-optimal-learning-efficiency.md) — related

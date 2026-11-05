@@ -41,7 +41,7 @@ The authors advise that because immersion in IBL "may not be effective for stude
 - [Added interpretive support did not significantly affect the evolution of student teachers' educational beliefs](../claims/additional-support-no-significant-belief-impact.md) [~W]
 - [The impact of immersion in IBL on beliefs varies significantly across individual students, with about 8% holding content-oriented beliefs largely unaffected](../claims/ibl-immersion-impact-varies-content-oriented-subgroup.md) [+W]
 - [Immersion in IBL improves student teachers' self-reported understanding of the interpretative nature of historical research](../claims/ibl-immersion-improves-understanding-historical-inquiry.md) [+W]
-- [Immersion in inquiry-based learning significantly increases student teachers' value for procedural knowledge goals and self-efficacy for inquiry, but not substantive knowledge goals](../claims/immersion-ibl-increases-procedural-knowledge-goals-self-efficacy.md) [+W]
+- [Student teachers' value for procedural knowledge goals and self-efficacy for inquiry rose significantly from pre-test to post-test, while value for substantive knowledge goals did not change, in one uncontrolled pre-post study of immersion in inquiry-based learning](../claims/immersion-ibl-increases-procedural-knowledge-goals-self-efficacy.md) [+W]
 
 ## Related Strategies
 

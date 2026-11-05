@@ -48,5 +48,5 @@ Two Wilcoxon tests on the BIN improvement score in the 25-child low-ability subs
 - [Number Sense](../learner-variables/number-sense.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [All three groups (cooperative learning, individual learning, and control) improved significantly in early numeracy from pre-test to post-test over 12 weeks](all-groups-significant-pre-post-numeracy-gain-middle-income-kindergarteners.md) — related
+- [Early numeracy scores rose significantly from pre-test to post-test over 12 weeks in the cooperative learning, individual learning, and control groups, with changes measured within each group](all-groups-significant-pre-post-numeracy-gain-middle-income-kindergarteners.md) — related
 - [Within the group learning treatment, female students achieved significantly higher mathematics post-test scores than male students](females-outperform-males-group-learning-math.md) — reports the opposite

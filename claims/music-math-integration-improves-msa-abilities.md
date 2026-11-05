@@ -45,8 +45,8 @@ Quasi-experiment with multiple pretests and posttests (10 MSA observations) in o
 
 
 ## Related Claims
-- [First-grade students improved in modeling, strategy, and application with effect sizes of 1.66, 1.75, and 1.70 respectively](first-grade-msa-gains-effect-sizes.md) — a narrower finding that bears on this claim
-- [Third-grade students improved in modeling, strategy, and application with effect sizes of 3.40, 3.44, and 3.00 respectively](third-grade-msa-gains-effect-sizes.md) — a narrower finding that bears on this claim
+- [First-grade students' modeling, strategy, and application measures rose from pre-test to post-test in one single-group pre-post study, with effect sizes of 1.66, 1.75, and 1.70 respectively](first-grade-msa-gains-effect-sizes.md) — a narrower finding that bears on this claim
+- [Third-grade students' modeling, strategy, and application scores rose from pre-test to post-test in one uncontrolled pre-post study, with reported effect sizes of 3.40, 3.44, and 3.00 respectively](third-grade-msa-gains-effect-sizes.md) — a narrower finding that bears on this claim
 - [Music group students' mathematics process ability (model, strategy, application) improved significantly across the intervention, with large effect sizes](music-math-process-ability-gains-time-series.md) — a broader claim this one bears on
 - [Third-grade students receiving music-mathematics integrated lessons scored significantly higher on posttest mathematics achievement than non-music control students](music-math-lessons-posttest-achievement-advantage.md) — related
 - [Both teachers integrated a variety of music activities spanning all five California mathematics content areas over the ten lessons](teachers-integrated-varied-music-activities-all-content-areas.md) — related

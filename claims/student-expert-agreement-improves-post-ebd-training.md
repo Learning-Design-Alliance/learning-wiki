@@ -46,7 +46,7 @@ Prospective cohort study measuring inter-operator agreement between students and
 
 
 ## Related Claims
-- [EBD education significantly improves dental students' critical appraisal performance on a risk-of-bias tool](ebd-education-improves-critical-appraisal-dental-students.md) — related
+- [Dental students' critical appraisal performance on a risk-of-bias tool rose from pre-test to post-test after EBD education in one uncontrolled pre-post study](ebd-education-improves-critical-appraisal-dental-students.md) — related
 - [After EBD training, most student responses demonstrate acquired and applied critical appraisal knowledge, though gaps persist](ebd-secondary-outcomes-acquired-applied-responses.md) — related
 - [Intra-student agreement between baseline and post-training responses is low, suggesting answers reflect learning rather than consistency](intra-student-agreement-low-t0-t1.md) — related
 - [Inter-annotator agreement was moderate (combined mean Fleiss's κ of 0.62 across 23 groups), yet most students reported having reached consensus](moderate-kappa-versus-perceived-consensus-gap.md) — related

@@ -47,6 +47,6 @@ Pre-post comparison for all 32 Wagner Consumer Behavior students surveyed on Sep
 
 ## Related Claims
 - [Wagner marketing incubator participants outscored non-participants on end-of-semester critical thinking prompts by 16.95%, significant at the 11% two-tailed level](marketing-incubator-participants-endscore-advantage.md) — related
-- [Monmouth entrepreneurial program: two of three prompt comparisons improved significantly, one declined significantly, and the combined 7.39% gain was not significant](monmouth-mixed-prompt-results.md) — related
+- [Monmouth entrepreneurial program: two of three prompt comparisons rose significantly from beginning to end, one fell significantly, and the combined 7.39% change was not significant, in one uncontrolled pre-post study](monmouth-mixed-prompt-results.md) — related
 - [Students who chose to join the marketing incubator started the semester with critical thinking scores about 10% higher than those who did not](self-selection-higher-baseline-incubator.md) — related
 - [A three-month WISE Agent intervention did not significantly increase sixth-graders' aggregate critical thinking disposition scores](wise-agent-no-aggregate-ct-gain.md) — related

@@ -49,7 +49,8 @@ An integrated teaching model in which ChatGPT-4o generated practice questions, s
 - [High Satisfaction Ai Personalized Teaching](../claims/high-satisfaction-ai-personalized-teaching.md) [+M]
 
 ## Related Designs
-- 
+
+- [Eight-week AI-generated patient scenario programme for rehabilitation education](eight-week-ai-generated-patient-scenario-programme.md)
 
 ## Examples
 -

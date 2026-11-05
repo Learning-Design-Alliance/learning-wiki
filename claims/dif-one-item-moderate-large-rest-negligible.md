@@ -51,3 +51,4 @@ DIF analyses using the standardization method with ETS classification compared s
 - [Most Spanish test items show negligible differential item functioning across gender and Hispanic–White comparisons](spanish-dif-negligible-most-items.md) — a broader claim this one bears on
 - [DIF study finds most items in category A, with C DIF rare (~1%) except for the Native English/Bilingual group (6.66%)](spanish-map-reading-dif-patterns.md) — a broader claim this one bears on
 - [The overall CT–PCK Survey functioned similarly across teacher characteristic groups, though some items showed raw differential item functioning above 0.64 logits](ct-pck-dif-dtf-findings.md) — related
+- [Institutional context showed the most extensive differential item functioning, with significant direct effects on all 12 resource-use indicators.](institution-dif-all-indicators.md) — reports the opposite

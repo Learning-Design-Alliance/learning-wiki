@@ -64,3 +64,5 @@ SUS questionnaire administered after the one-hour lab session with 10 participan
 - [Perceived usability of the TARGET-tool improved from mid-term (SUS 57.3) to the end of the experimental phase (SUS 67.0), a medium effect that was not statistically significant](target-tool-sus-increase-nonsignificant.md) — related
 - [Adapted SUS scores indicated above-average usability, with the round 2 median of 77.5 exceeding the industry average of 68](sus-median-77-5-above-average-usability.md) — related
 - [The DCBL platform achieved marginal-to-average usability (mean SUS 62.4) with moderate cognitive workload](dcbl-platform-usability-sus-workload.md) — related
+- [Mobile AR for anatomy education received a mean System Usability Scale score of 58.25 (SD ±15.41), below the average threshold of 68 and translating to a 'D' grade](mobile-ar-anatomy-sus-58-25-d-grade.md) — related
+- [Individual SUS scores did not correlate with educators' prior AR experience; experienced educators' scores were divided between grades F and B](sus-scores-no-correlation-ar-experience.md) — related

@@ -130,3 +130,4 @@ Participants also reported "the lack of emotional connection and dependence on t
 - [Hallucination — the generation of inaccurate, unverified, or illogical content — is the most frequently reported technical challenge for LLMs in dental education](hallucination-most-frequent-technical-challenge.md) — related
 - [Distance education was perceived to negatively affect both professional competencies and critical thinking skills](distance-education-negative-effects-competencies-ct.md) — related
 - [Professional accuracy showed the smallest improvement among the five dimensions, with some students scoring lower due to uncritical adoption of AI-generated content.](professional-accuracy-gains-smallest-among-dimensions.md) — related
+- [LLM-based virtual patients predominantly lack emotional depth or expressions of concern, lowering Personal dimension ratings](lack-emotional-depth-lowers-personal-ratings.md) — related

@@ -46,3 +46,4 @@ Cross-sectional survey of 233 nurses in Türkiye; PROCESS Model 4 mediation with
 
 ## Related Claims
 - [Innovation climate correlates moderately with AI attitudes, creative self-efficacy, and perceived clinical competence](innovation-climate-correlates-moderately-all-variables.md) — related
+- [AI trust partially mediates the relationship between AI uncertainty and AI competence among nurses](ai-trust-partially-medaiates-aiu-aic-nurses.md) — related

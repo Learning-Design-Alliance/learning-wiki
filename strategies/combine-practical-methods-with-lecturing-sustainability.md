@@ -46,6 +46,7 @@ The review concludes that "Combining practical, experiential methods with tradit
 ## Related Strategies
 
 - [Integrate all sustainability competencies holistically across dietetics curricula rather than emphasising isolated aspects](holistic-curriculum-integration-sustainability-competencies.md)
+- [When implementing experiential school nutrition programs, secure sufficient duration, curriculum integration, teacher involvement, and supporting resources](secure-duration-integration-teacher-resources-for-nutrition-programs.md)
 
 ## Examples
 -

@@ -86,3 +86,5 @@ IRT item-parameter analysis of the main-study data using the 3PL1p model. Mean d
 - [The seven holistic leadership factors demonstrated high internal consistency across pre- and post-test administrations.](holistic-leadership-factors-high-reliability.md) — related
 - [The DKSCQ-N demonstrates high internal consistency (Cronbach's α = 0.906) and excellent test-retest stability (ICC = 0.829) over two weeks.](dkscqn-reliability-alpha-icc.md) — related
 - [The scale demonstrates strong reliability and validity evidence including internal consistency, composite reliability, and average variance extracted](reliability-validity-evidence-generative-ai-teacher-scale.md) — related
+- [The ICCAS showed satisfactory internal consistency in this study despite slight post-test declines in some domains](iccas-reliability-satisfactory-post-test-declines.md) — related
+- [The job competency evaluation framework comprises 5 primary dimensions, 24 secondary dimensions, and 52 tertiary items with strong psychometric properties](job-competency-framework-five-dimensions-52-items.md) — related

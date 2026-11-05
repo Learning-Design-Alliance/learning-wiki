@@ -38,7 +38,7 @@ The authors recommend embedding financial literacy instruction in the regular sc
 
 ## Claims
 
-- [A 1-week financial fitness camp raised financial knowledge of low-income 8th graders by roughly 12 percentage points on a pretest–posttest design](../claims/financial-fitness-camp-12-point-gain.md) [+W]
+- [Financial knowledge of low-income 8th graders rose by roughly 12 percentage points from pre-test to post-test after a 1-week financial fitness camp, in one uncontrolled pre-post study](../claims/financial-fitness-camp-12-point-gain.md) [+W]
 - [Parents with high present bias were less likely to enroll their 8th graders in the financial literacy camp](../claims/present-bias-reduces-camp-enrollment.md) [+W]
 
 ## Related Strategies

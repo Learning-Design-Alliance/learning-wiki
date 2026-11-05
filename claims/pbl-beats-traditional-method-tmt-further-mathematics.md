@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 > **Currency** · newest study 2013 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Fatade et al. 2013: the intervention came bundled with another change · Fatade et al. 2013 (2): the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Post-test TMT achievement differed significantly between the PBL and TM groups in favour of PBL (t=-3.58, p=.001). [→ Fatade et al. 2013](#fatade-et-al-2013)

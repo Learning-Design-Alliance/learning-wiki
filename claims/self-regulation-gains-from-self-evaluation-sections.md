@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Students developed self-regulation, gaining the ability to monitor problem-solving processes and correct irrelevant strategies, with self-evaluation enabling reflection on their actions
-description: Students developed self-regulation, gaining the ability to monitor problem-solving processes and correct irrelevant strategies, with self-evaluation enabling reflection on their actions
+title: "Students' self-regulation abilities rose from pre-test to post-test after self-evaluation sections, including monitoring problem-solving processes, correcting irrelevant strategies and reflecting on actions, in one one-group study with no comparison group"
+description: "Students' self-regulation abilities rose from pre-test to post-test after self-evaluation sections, including monitoring problem-solving processes, correcting irrelevant strategies and reflecting on actions, in one one-group study with no comparison group"
 id: self-regulation-gains-from-self-evaluation-sections
 status: review
 generated:
@@ -21,14 +21,14 @@ sources:
     rigour: 1
 ---
 
-# Students developed self-regulation, gaining the ability to monitor problem-solving processes and correct irrelevant strategies, with self-evaluation enabling reflection on their actions
+# Students' self-regulation abilities rose from pre-test to post-test after self-evaluation sections, including monitoring problem-solving processes, correcting irrelevant strategies and reflecting on actions, in one one-group study with no comparison group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2016 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Through self-evaluation sections administered to each learner, students achieved the ability to monitor the problem-solving process, check adopted strategies and correct them when not relevant, resulting in increased performance. [→ Feola 2016](#feola-2016)
+`q2 i?` Students' ability to monitor the problem-solving process, check adopted strategies and correct them when not relevant, and their performance rose from pre-test to post-test after self-evaluation sections administered to each learner, in one one-group study with no comparison group. [→ Feola 2016](#feola-2016)
 
 ## Evidence
 

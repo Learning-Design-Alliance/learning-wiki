@@ -45,7 +45,7 @@ Qualitative interpretation of weekly performance-assessment (rubric) ratings by 
 
 
 ## Related Claims
-- [A scenario-based blended learning environment combined with teaching practice is associated with a statistically significant increase in preservice teachers' attitudes toward the teaching profession](scenario-blended-learning-positive-teaching-attitudes.md) — related
+- [Preservice teachers' self-reported attitudes toward the teaching profession rose significantly from before to after participation in a scenario-based blended learning environment combined with teaching practice, in one uncontrolled pre-post study](scenario-blended-learning-positive-teaching-attitudes.md) — related
 - [Rubrics enhance grading consistency and inter-rater reliability in dental education assessment](rubrics-enhance-grading-consistency-dental-education.md) — related
 - [Participation in the quasi-community pedagogy was followed by very high success in the certification examination](quasi-community-high-certification-success.md) — related
 - [Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard](expert-triad-high-inter-rater-reliability-bash-grading.md) — related

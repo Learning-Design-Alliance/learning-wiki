@@ -45,6 +45,6 @@ Quality improvement project with pre–post intervention design, one group (Melo
 
 
 ## Related Claims
-- [An active shooter simulation with mass casualty triage improved nursing students' preparedness and triaging skills](active-shooter-simulation-improved-preparedness-triage.md) — related
+- [Nursing students' preparedness and triaging skills scores rose from pre-test to post-test after an active shooter simulation with mass casualty triage, in a one-group pre–post study](active-shooter-simulation-improved-preparedness-triage.md) — related
 - [Interprofessional mass casualty incident simulation increased disaster-response confidence in 96% of participating pre-licensed nursing students](mass-casualty-simulation-confidence.md) — related
 - [Immersive virtual reality disaster training improved emergency nurses' preparedness and self-efficacy with short-term retention](immersive-vr-training-improved-preparedness-self-efficacy.md) — related

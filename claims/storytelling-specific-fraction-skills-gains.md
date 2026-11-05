@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i0` negligible
 > **Currency** · newest study 2019 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Charalambos Lemonidis & Ioanna Kaiafa 2019: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` Experimental-group students scored significantly higher than control-group students on comparing fractions, equivalent fractions, creating and manipulating fraction representations, and problem solving. [→ Charalambos Lemonidis & Ioanna Kaiafa 2019](#charalambos-lemonidis-ioanna-kaiafa-2019)

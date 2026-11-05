@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "A 12-week newspapers-in-science-teaching program significantly improved sixth graders' learning attitudes toward newspapers in education"
-description: "A 12-week newspapers-in-science-teaching program significantly improved sixth graders' learning attitudes toward newspapers in education"
+title: "After a 12-week newspapers-in-science-teaching program, sixth graders' self-rated learning attitudes toward newspapers in education scores rose significantly from pre-test to post-test in one single-group pre-post study with no comparison group"
+description: "After a 12-week newspapers-in-science-teaching program, sixth graders' self-rated learning attitudes toward newspapers in education scores rose significantly from pre-test to post-test in one single-group pre-post study with no comparison group"
 id: newspapers-in-education-improved-learning-attitude
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# A 12-week newspapers-in-science-teaching program significantly improved sixth graders' learning attitudes toward newspapers in education
+# After a 12-week newspapers-in-science-teaching program, sixth graders' self-rated learning attitudes toward newspapers in education scores rose significantly from pre-test to post-test in one single-group pre-post study with no comparison group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -45,5 +45,5 @@ Single-group quasi-experiment with 33 sixth graders; paired t-test on the 29-ite
 
 
 ## Related Claims
-- [A 12-week newspapers-in-science-teaching program significantly improved sixth graders' attitudes toward science](newspapers-in-education-improved-attitude-toward-science.md) — related
-- [A 12-week newspapers-in-science-teaching program significantly improved sixth graders' attitudes toward science reading](newspapers-in-education-improved-science-reading-attitude.md) — related
+- [Sixth graders' self-rated attitudes toward science rose from pre-test to post-test after a 12-week newspapers-in-science-teaching program, in one uncontrolled pre-post study](newspapers-in-education-improved-attitude-toward-science.md) — related
+- [In one uncontrolled pre-post study, sixth graders' self-reported attitudes toward science reading rose significantly from pre-test to post-test during a 12-week newspapers-in-science-teaching program](newspapers-in-education-improved-science-reading-attitude.md) — related

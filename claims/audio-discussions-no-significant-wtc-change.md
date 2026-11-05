@@ -9,6 +9,7 @@ generated:
   at: 2026-09-26
 evidence_strength: weak
 newest_evidence: 2014
+source_checked: 2026-11-05
 sources:
   - id: lepore-2014
     resource: "http://www.voicethread.com"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 5 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
@@ -55,6 +56,6 @@ Repeated-measures Wilcoxon signed-rank analysis of Part 2 self-assessment WTC sc
 - [Gameplay increased participants' willingness to communicate in English](gameplay-increased-willingness-to-communicate.md) — reports the opposite
 - [Motivation correlates positively and significantly with L2 willingness to communicate among Turkish EFL preparatory students](motivation-correlates-with-l2-wtc-turkish-efl.md) — related
 - [English pronunciation self-efficacy is strongly and positively associated with willingness to communicate in English among Chinese EFL learners](pronunciation-self-efficacy-associated-with-wtc.md) — related
-- [Both Debate instruction and Philosophy Inquiry discussion significantly increased ESL learners' Willingness to Communicate over a semester](debate-and-pi-increase-esl-wtc.md) — related
+- [ESL learners' self-reported Willingness to Communicate scores rose from pre-test to post-test within the Debate and Philosophy Inquiry groups over a semester](debate-and-pi-increase-esl-wtc.md) — related
 - [Control-group learners showed no statistically significant change in Willingness to Communicate from pre-test to post-test](control-group-wtc-unchanged.md) — related
 - [Culture-based activities increase student willingness to participate](culture-activities-increase-participation.md) — related

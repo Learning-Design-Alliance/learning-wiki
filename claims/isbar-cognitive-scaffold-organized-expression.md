@@ -45,7 +45,7 @@ Content analysis of focus group interviews (26 participants), 57 reflective jour
 
 
 ## Related Claims
-- [ISBAR-structured handover simulation teaching significantly improves nursing students' handover confidence](isbar-simulation-improves-handover-confidence.md) — related
+- [Nursing students' self-rated handover confidence scores rose from pre-test to post-test after ISBAR-structured handover simulation teaching, in one uncontrolled pre-post study](isbar-simulation-improves-handover-confidence.md) — related
 - [Nursing students' communication clarity rose significantly from before to after ISBAR-structured handover simulation teaching, in an uncontrolled pre-post study](isbar-simulation-improves-communication-clarity.md) — related
 - [Students achieved high and consistent OSCE handover performance across antenatal and postpartum stations after the intervention](isbar-osce-high-consistent-performance.md) — related
 - [Students report that progressive simulation practice builds handover confidence by reducing anxiety](progressive-simulation-practice-builds-confidence.md) — related

@@ -46,7 +46,7 @@ Gain-score comparison within the treatment group of Study 1 between 6 children i
 
 
 ## Related Claims
-- [Treatment preschoolers significantly improved Spanish receptive and expressive vocabulary and English receptive vocabulary from pre-test to post-test, with moderate effect sizes](link-prepost-vocabulary-gains-spanish-english.md) — related
-- [In a single-case study, home-only LINK improved all four children's Spanish expressive vocabulary, with larger effects at maintenance (overall 0.76 baseline-to-intervention; 0.87 baseline-to-maintenance)](link-home-single-case-tau-u.md) — related
+- [Among preschoolers in the treatment group, Spanish receptive and expressive vocabulary and English receptive vocabulary rose significantly from pre-test to post-test, with moderate effect sizes, in one uncontrolled pre-post study](link-prepost-vocabulary-gains-spanish-english.md) — related
+- [In one uncontrolled single-case pre-post study, all four children's Spanish expressive vocabulary rose from baseline to maintenance after home-only LINK, with the overall baseline-to-maintenance value (0.87) larger than the baseline-to-intervention value (0.76)](link-home-single-case-tau-u.md) — related
 - [Dual language narrative intervention produced a large English vocabulary gain (d = .98) but only a small Spanish vocabulary gain (d = .34)](english-vocabulary-large-effect-spanish-small.md) — related
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related

@@ -47,7 +47,7 @@ Chi-square test of independence comparing course completion deadline attainment 
 ## Related Claims
 - [Students who use the ePSRL Management System spend more time learning per month and complete the course in fewer months than non-users](epsrl-increases-learning-motivation-time-and-speed.md) — related
 - [Only the 200740F high-use group showed a significantly higher rate of good academic standing compared to non-visitors](tutoring-good-standing-significant-only-one-cohort.md) — related
-- [Using the ePSRL Management System increases postgraduate online students' perceived awareness, understanding and application of self-regulated learning](epsrl-increases-perceived-srl-awareness-understanding-application.md) — related
+- [Postgraduate online students' perceived awareness, understanding and application of self-regulated learning rose from pre-test to post-test after using the ePSRL Management System, in one group with no comparison group](epsrl-increases-perceived-srl-awareness-understanding-application.md) — related
 - [Using the ePSRL Management System shows no significant difference in mean assessment results or mean attempts per quiz between users and non-users](epsrl-no-difference-assessment-results-quiz-attempts.md) — related
 - [Learning paths used for SRL improved accuracy and performance without increasing effort, and tutoring-system benefits required sustained practice](learning-paths-srl-accuracy-without-effort.md) — related
 - [Adoption intent does not differ significantly across teacher prior-practice groups, with every cohort exceeding 65% willingness to continue using LearnLens](learnlens-adoption-intent-stable-across-groups.md) — related

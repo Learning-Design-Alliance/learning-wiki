@@ -54,4 +54,4 @@ Pre-posttest with control group using SFS civic engagement (N participants = 18,
 - [Positive relationships with professors, community partners, and peer mentors are associated with increased intention to be civically engaged](positive-relationships-increase-civic-engagement-intention.md) — related
 - [A specific civic education subject provides valuable knowledge but is insufficient on its own to develop civic competence](civic-subject-alone-insufficient.md) — related
 - [Service-learning students with a SLAM peer mentor scored higher on posttest civic action than non-mentored students, in a non-randomised comparison](peer-mentoring-increases-civic-action-service-learning.md) — related
-- [Seven of ten CSAS subscales showed no significant pre–post change after service-learning, likely due to a ceiling effect](seven-csas-subscales-no-change-ceiling.md) — related
+- [Seven of ten self-reported CSAS subscale scores showed no significant pre–post change after service-learning in one group with no comparison group](seven-csas-subscales-no-change-ceiling.md) — related

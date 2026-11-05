@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Active learning based science camp activities did not significantly change primary school students' scientific process skills"
-description: "Active learning based science camp activities did not significantly change primary school students' scientific process skills"
+title: "Primary school students' scientific process skills did not significantly change from pre-test to post-test after active learning based science camp activities, in one single-group pre-post study"
+description: "Primary school students' scientific process skills did not significantly change from pre-test to post-test after active learning based science camp activities, in one single-group pre-post study"
 id: science-camp-no-change-scientific-process-skills
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Active learning based science camp activities did not significantly change primary school students' scientific process skills
+# Primary school students' scientific process skills did not significantly change from pre-test to post-test after active learning based science camp activities, in one single-group pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -47,6 +47,6 @@ Mann Whitney U analysis of Scientific Process Skills Scale pretest and posttest 
 ## Related Claims
 - [Active learning based science camp activities improved students' psychomotor skills towards scientific views on environmental issues](science-camp-improved-psychomotor-skills.md) — related
 - [Active learning based science camp activities improved primary school students' opinions towards scientific knowledge](science-camp-improved-scientific-knowledge-opinions.md) — related
-- [Active learning based science camp activities increased students' conceptual knowledge of environmental problems](science-camp-increased-environmental-conceptual-knowledge.md) — related
-- [Inquiry-based instruction significantly improved pre-service science teachers' scientific process skills from pretest to post-test in a university biology laboratory](inquiry-instruction-improved-preservice-spst-pre-post.md) — related
+- [Students' responses on conceptual knowledge of environmental problems shifted toward higher categories and included more explanations from pre-test to post-test after active learning based science camp activities, in one uncontrolled pre-post study](science-camp-increased-environmental-conceptual-knowledge.md) — related
+- [Pre-service science teachers' scientific process skills rose significantly from pretest to post-test within the experimental group during inquiry-based instruction in a university biology laboratory](inquiry-instruction-improved-preservice-spst-pre-post.md) — related
 - [Argumentation-based teaching shows no significant effect on 7th graders' scientific process skills compared to the current program when pretest scores are controlled](argumentation-teaching-no-effect-scientific-process-skills-grade7.md) — related

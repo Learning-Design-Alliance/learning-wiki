@@ -52,3 +52,4 @@ Qualitative self-report from students, caregivers, and school staff interviewed 
 - [Using co-regulation strategies helped facilitators and youth build warm, trusting relationships](co-regulation-builds-warm-trusting-relationships.md) — related
 - [Interpersonal agency in instructional design centers on collegial engagement, learner advocacy and trust building with faculty clients](interpersonal-agency-instructional-design.md) — related
 - [Students reported coaching improved six academic skills, including self-advocacy, grades and GPA, writing, persistence, study skills, and on-time assignment submission](coaching-improves-academic-skills-six-ways.md) — related
+- [Most participants who implemented their training reported increased self-value, empowerment and self-confidence](rvt-implementers-empowerment-confidence.md) — related

@@ -41,6 +41,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q3` · `i1` small
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Clinton 2016 (2): no comparison group · Clinton 2016 (3): no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` The overwhelming majority of elaborative interrogation answers were missing, circular, wrong, or inadequate. [→ Clinton 2016](#clinton-2016)

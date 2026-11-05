@@ -24,7 +24,7 @@ Topal (2018) developed this 12-sentence written and oral assessment for evaluati
 ### Claims
 
 - [Turkish pre-service teachers of English showed low baseline competency, with approximately 80% failing to recognize the pitch patterns of If-clauses on the pre-test](../claims/turkish-pre-service-teachers-low-pitch-recognition-pretest.md) [+W]
-- [Post-test production improved for Type 2 and Type 3 conditionals but decreased by almost 5% for Type 1 sentences](../claims/type1-production-decreased-posttest.md) [+W]
+- [In one uncontrolled pre-post study, production rose from pre-test to post-test for Type 2 and Type 3 conditionals but fell by almost 5% for Type 1 sentences](../claims/type1-production-decreased-posttest.md) [+W]
 
 ## Related Products and Programmes
 -

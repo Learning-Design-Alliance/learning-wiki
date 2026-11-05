@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Movie-based watch-write-talk intervention significantly raises multiculturalism perceptions
-description: Movie-based watch-write-talk intervention significantly raises multiculturalism perceptions
+title: Multiculturalism perceptions rose from pre-test to post-test after a movie-based watch-write-talk intervention, in one uncontrolled pre-post study
+description: Multiculturalism perceptions rose from pre-test to post-test after a movie-based watch-write-talk intervention, in one uncontrolled pre-post study.
 id: movie-intervention-raises-multiculturalism-perceptions
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# Movie-based watch-write-talk intervention significantly raises multiculturalism perceptions
+# Multiculturalism perceptions rose from pre-test to post-test after a movie-based watch-write-talk intervention, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` A statistically meaningful difference in multiculturalism perceptions was found in favor of posttests after the movie-based intervention (t(61)=-4.893, p<0.05), with mean rising from 102.59 to 110.26. [→ Karadeniz 2016](#karadeniz-2016)
+`q2 i?` Self-rated multiculturalism perceptions rose from pre-test to post-test after the movie-based intervention, in one uncontrolled pre-post study (t(61)=-4.893, p<0.05), with mean rising from 102.59 to 110.26. [→ Karadeniz 2016](#karadeniz-2016)
 
 ## Evidence
 

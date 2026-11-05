@@ -50,5 +50,5 @@ In the RCT of 70 medical students, domain-level ANCOVA comparisons of interventi
 - [At baseline, the intervention and control groups showed no statistically significant differences in demographics, evaluation location, or referral type, and comparable low pre-intervention Mini-CEX scores](serious-game-burn-trial-baseline-equivalence.md) — related
 - [Modified Mini-CEX combined with SBAR teaching improves clinical skills scores but not theoretical exam scores](mini-cex-sbar-improves-clinical-skills-not-theory.md) — related
 - [PBL-DeepSeek students show higher Mini-CEX clinical competence across all seven domains than traditionally taught students](deepseek-pbl-minicex-clinical-gains.md) — related
-- [Item-level analysis showed significant improvement on 9 of 10 peer instruction questions after Holm–Bonferroni correction.](pi-item-level-improvement-nine-of-ten.md) — related
+- [Item-level analysis found statistically significant score rises on 9 of 10 peer instruction questions from pre-test to post-test in one group with no comparison group, after Holm–Bonferroni correction.](pi-item-level-improvement-nine-of-ten.md) — related
 - [Integrated model improves all seven Mini-CEX domains, largest gain in physical examination](microskills-cptm-minicex-all-domains.md) — related

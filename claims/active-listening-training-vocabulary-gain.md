@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2017 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Berker Bulut 2017: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` The increase in vocabulary achievement of the experimental group was significantly higher than the increase in the control group (Group*Measure interaction F(1,123) = 5.76, p < .05). [→ Berker Bulut 2017](#berker-bulut-2017)

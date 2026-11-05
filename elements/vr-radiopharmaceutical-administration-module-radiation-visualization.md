@@ -45,8 +45,8 @@ A VR training module for radiopharmaceutical administration built in Unity with 
 - [No significant differences between VR-based and conventional training in operational understanding, technical skills, or system usability](../claims/no-difference-operational-skills-usability.md) [~W]
 - [Qualitative analysis found radiation became perceptible in VR for all participants, while all reported operability differences favoring conventional training](../claims/qualitative-themes-visualization-versus-operability.md) [+W]
 - [VR-based training with radiation field visualization received significantly higher ratings for radiation understanding and visualization than conventional training (r=0.878)](../claims/vr-radiation-visualization-higher-understanding-ratings.md) [+W]
-- [VR-based training received significantly higher ratings for medical safety awareness and radiation protection than conventional training (r=0.856)](../claims/vr-training-higher-safety-awareness-ratings.md) [+W]
-- [VR-based training received significantly higher ratings for learning satisfaction and self-evaluation than conventional training](../claims/vr-training-higher-satisfaction-self-evaluation.md) [+W]
+- [Students' ratings for medical safety awareness and radiation protection rose significantly from pre-test to post-test after VR-based training in one single-group pre-post study with no comparison group (r=0.856)](../claims/vr-training-higher-safety-awareness-ratings.md) [+W]
+- [In one group measured before and after, learning satisfaction and self-evaluation ratings were significantly higher after VR-based training than after conventional training](../claims/vr-training-higher-satisfaction-self-evaluation.md) [+W]
 
 ## Related Elements
 - 

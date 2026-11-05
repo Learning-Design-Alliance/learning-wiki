@@ -51,3 +51,4 @@ Thematic analysis of open-ended responses from 97 students (response rate 89.8%)
 - [CHW trainees value realistic standardized patient scenarios as a key benefit of simulation-based MI training](chws-value-realistic-sp-scenarios-in-mi-simulation-training.md) — related
 - [Qualitative analysis identifies realism, usability, technical performance, social presence, and engagement as key experience themes with the VP system](qualitative-vp-experience-themes.md) — related
 - [Participants most cited improved teamwork and exposure to rare clinical scenarios as key benefits](simulation-participants-valued-teamwork-and-rare-scenario-exposure.md) — related
+- [Nursing students perceive simulation-based BLS scenarios as realistic and clinically relevant, which enhances their understanding of BLS procedures and readiness for emergencies](simulation-bls-perceived-realism-clinical-relevance.md) — related

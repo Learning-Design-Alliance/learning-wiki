@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: baselines and conditions change
+> **Design limits** · Daif-Allah 2016: no comparison group · Daif-Allah 2016 (2): no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` 60% of students reported they rarely participated in oral discussion inside the classroom. [→ Daif-Allah 2016](#daif-allah-2016)
@@ -67,4 +68,4 @@ Descriptive survey result from Table 3 of the needs-assessment questionnaire wit
 ## Related Claims
 - [Students and instructors identified real-life communication, expressing opinions orally, and developing confidence as top speaking needs](speaking-needs-priorities-saudi-efl-majors.md) — related
 - [Interview participants attributed speaking gains to small groups, relaxed environment, and non-interrupting instructor mentoring](interviews-attribute-gains-to-relaxed-small-group-format.md) — related
-- [Open Discussion Sessions significantly improved Saudi EFL majors' pre-post speaking test scores in favor of post-testing](open-discussion-sessions-significant-speaking-gains.md) — related
+- [Saudi EFL majors' speaking test scores rose from pre-test to post-test after Open Discussion Sessions, in one uncontrolled pre-post study](open-discussion-sessions-significant-speaking-gains.md) — related

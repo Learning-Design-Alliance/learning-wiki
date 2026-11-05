@@ -45,7 +45,8 @@ The article recommends Content and Language Integrated Learning for teaching Eng
 - [Clil Produced Higher Motivation To Learn English](../claims/clil-produced-higher-motivation-to-learn-english.md) [+M]
 
 ## Related Designs
-- 
+
+- [CLIL-based emergency language course on 'Concise Chinese for epidemic prevention and control'](clil-emergency-language-course.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Regression analyses across centers assessed factors impacting the learning curve
 - [Surgeons' previous experience and participation in structured training programmes are associated with shorter robot-assisted learning curves](experience-and-training-programmes-shorten-learning-curves.md) — related
 - [Competency, proficiency, and mastery in robotic distal pancreatectomy are reached after 46, 63, and 73 procedures respectively at international expert centers](rdp-learning-curve-competency-proficiency-mastery-46-63-73.md) — related
 - [Major complications decrease after reaching proficiency at 63 RDP procedures](rdp-major-complications-decrease-after-proficiency.md) — related
+- [No significant differences in procedural time or pre- and post-practice rubric scores between participants with and without previous probing experience](sbml-probing-no-experience-difference.md) — related

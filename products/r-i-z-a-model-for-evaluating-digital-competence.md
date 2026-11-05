@@ -22,7 +22,7 @@ A competence-assessment framework proposed by Elvia Ilaria Feola, drawing on Tri
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [R-I-Z-A-based assessment found satisfactory qualitative outcomes: 86% improvement in resources, 81% excellent interpretation performance, and 76% able to produce a medial message](../claims/riza-competence-profiles-satisfactory-outcomes.md) [+M]
+- [R-I-Z-A-based assessment reported satisfactory qualitative outcomes in one uncontrolled pre-post study: the resources component rose from beginning to end (86%), 81% of participants had excellent interpretation performance at the end, and 76% could produce a medial message at the end](../claims/riza-competence-profiles-satisfactory-outcomes.md) [+M]
 
 ## Related Products and Programmes
 -

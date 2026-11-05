@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · İlknur Özpinar 2017: no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` 25 of 30 students said they liked the course, and 20 wanted digital storytelling to continue in future mathematics courses. [→ İlknur Özpinar 2017](#ilknur-ozpinar-2017)

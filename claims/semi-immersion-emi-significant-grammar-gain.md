@@ -48,3 +48,4 @@ Wilcoxon signed-ranks analysis of pre/post scores for the semi-immersion group (
 - [Statistically significant linguistic gains after one year of EMI were detected in the semi-immersion group only, despite the immersion group's larger mean gains](emi-gains-semi-immersion-only.md) — a broader claim this one bears on
 - [Listening comprehension does not improve after one year of EMI in either group, with slightly lower scores at post-test](emi-listening-no-improvement.md) — related
 - [Full-immersion EMI students show no statistically significant gains in any measured language domain over one year, despite descriptive improvement trends](full-immersion-emi-no-significant-gains.md) — related
+- [Academic performance improved significantly over the one-year interval while mental health scores showed no significant change](academic-gains-stable-mental-health-over-year.md) — a narrower finding that bears on this claim

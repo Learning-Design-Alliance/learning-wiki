@@ -84,6 +84,7 @@ Peer and self-assessment work because evaluating work against criteria requires 
 - [Two-stage exams](../strategies/two-stage-exams.md) — a peer-assessment variant applied to testing itself
 - [Calibration training and moderation to ensure reliable rubric-based portfolio review](calibration-training-moderation-portfolio-review.md)
 - [Reallocate graders to gradees based on model confidence so low-confidence submissions receive more or better graders](confidence-based-grader-reallocation.md)
+- [Clearly explain the purpose, benefits, challenges, and evaluation criteria of group work, and use detailed rubrics, training, and practice to support equitable peer evaluation.](transparent-communication-peer-evaluation-rubrics.md)
 
 ## Examples
 - **[Calibrated Peer Review](calibrated_peer_review.md) (CPR)** (https://cpr.molsci.ucla.edu) — a tool in which students first calibrate their judgment against instructor-graded exemplars, then review peers' anonymous submissions; calibration accuracy gates whether a student's reviews count.

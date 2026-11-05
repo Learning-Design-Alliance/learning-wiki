@@ -52,3 +52,4 @@ Review synthesis of practical usability and feasibility outcomes in the Results 
 - [After usability testing and refinement, the simulation was piloted with 23 residents without unanticipated technical problems](pilot-23-residents-no-implementation-issues.md) — related
 - [The zone 0 interactive-video intervention was feasible and highly acceptable, with no adverse events or technical issues](zone0-iv-feasibility-acceptability.md) — related
 - [The FC/TPS pilot demonstrated high feasibility and learner acceptability but not proven efficacy](fc-tps-pilot-feasibility-not-efficacy.md) — related
+- [Eye-tracking-based VR feedback with simulated ED interruptions was feasible to implement in a pilot trial](eye-tracking-vr-feedback-feasibility-pilot.md) — a narrower finding that bears on this claim

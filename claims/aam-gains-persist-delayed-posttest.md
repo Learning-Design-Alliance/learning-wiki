@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Pronunciation gains from the Audio Articulation Method persisted at delayed post-test four weeks later
-description: Pronunciation gains from the Audio Articulation Method persisted at delayed post-test four weeks later
+title: Pronunciation scores rose from pre-test to delayed post-test four weeks after Audio Articulation Method instruction, in one single-group pre-post study
+description: Pronunciation scores rose from pre-test to delayed post-test four weeks after Audio Articulation Method instruction, in one single-group pre-post study
 id: aam-gains-persist-delayed-posttest
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 2
 ---
 
-# Pronunciation gains from the Audio Articulation Method persisted at delayed post-test four weeks later
+# Pronunciation scores rose from pre-test to delayed post-test four weeks after Audio Articulation Method instruction, in one single-group pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Students' pronunciation scores on the delayed test four weeks after instruction remained significantly higher than pre-test scores, indicating retention of the newly learned sounds. [→ Kayaoglu 2013](#kayaoglu-2013)
+`q2 i?` Students' pronunciation scores rose significantly from pre-test to the delayed test four weeks after Audio Articulation Method instruction, in one single-group pre-post study. [→ Kayaoglu 2013](#kayaoglu-2013)
 
 ## Evidence
 

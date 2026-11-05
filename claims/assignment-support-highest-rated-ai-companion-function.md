@@ -52,3 +52,5 @@ Descriptive survey analysis (n = 24) of five rated Class Companion functions in 
 - [Districts rate ISAT alignment to state learning standards highest among five rated areas, but fewer than half use the top two categories, and month administered and speed of reporting rate lowest](isat-ratings-alignment-highest-timing-lowest.md) — related
 - [Written assignments are the most used object of peer assessment, and beliefs and perceptions are the most investigated outcome](peer-assessment-written-object-beliefs-outcome.md) — related
 - [Field-tested IDSA prototype received moderate usability ratings: usage enjoyment highest, design and realization lowest](idsa-usability-ratings-enjoyment-high-design-low.md) — related
+- [Students' strongest functional demands were access to course materials (0.82) and assessment information (0.80) on a 0–1 demand scale](course-materials-and-assessment-info-highest-demand.md) — related
+- [Flexibility in using fragmented time and platform ease of use received the highest student ratings (both 8.3), while perceived video quality received the lowest (7.1)](usability-items-highest-rated-video-quality-lowest.md) — related

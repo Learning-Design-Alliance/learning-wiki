@@ -63,3 +63,4 @@ The article reports, citing a recent study, that responses used in E-M scoring "
 - [Disengaged student responses raise the issue of whether engaged responses maintain the intended content representation](disengaged-responses-threaten-engaged-content-representation.md) — related
 - [Technology-enhanced assessment items were studied as a potential means of increasing student test engagement and reducing disengagement](technology-enhanced-items-studied-for-test-engagement.md) — related
 - [A modified E-M scoring method using more liberal time thresholds accounts for two-thirds or more of score distortion, outperforming standard thresholds](liberal-threshold-em-scoring-two-thirds-distortion.md) — related
+- [Z-number representation captures both evaluation content and evaluator reliability in peer assessment](z-number-captures-reliability-peer-evaluations.md) — related

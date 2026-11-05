@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Simulation training significantly improved residents' theoretical knowledge of shoulder dystocia management"
-description: "Simulation training significantly improved residents' theoretical knowledge of shoulder dystocia management"
+title: "Residents' theoretical knowledge scores for shoulder dystocia management rose from pre-test to post-test after simulation training, in a single-group pre-post study"
+description: "Residents' theoretical knowledge scores for shoulder dystocia management rose from pre-test to post-test after simulation training, in a single-group pre-post study"
 id: simulation-improved-theoretical-knowledge-shoulder-dystocia
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Simulation training significantly improved residents' theoretical knowledge of shoulder dystocia management
+# Residents' theoretical knowledge scores for shoulder dystocia management rose from pre-test to post-test after simulation training, in a single-group pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -52,5 +52,5 @@ Pre-test/post-test assessment of 42 candidates in a structured simulation progra
 - [Participants reported high satisfaction with simulation sessions but criticized time allocation and group size](simulation-session-satisfaction-time-group-size.md) — related
 - [A single simulation-based intervention with structured debriefing improved immediate adrenal crisis knowledge among pediatric residents](simulation-debriefing-improved-adrenal-crisis-knowledge.md) — a broader claim this one bears on
 - [Just-in-time e-learning boosters immediately before procedures improved neonatal intubation knowledge and some performance measures](jit-elearning-booster-improves-intubation-knowledge-performance.md) — related
-- [Outpatient sick-day management showed the largest knowledge gap at baseline and the greatest post-simulation gain](sick-day-management-largest-gap-gain.md) — related
+- [Outpatient sick-day management showed the largest baseline knowledge gap and the greatest observed pre-test-to-post-test rise in correct responses, from 2.9% to 85.3%, in one group with no comparison group](sick-day-management-largest-gap-gain.md) — related
 - [Personalised video-assisted feedback does not significantly improve theoretical knowledge scores compared to structured self-debriefing](personalised-video-feedback-knowledge-not-significant.md) — related

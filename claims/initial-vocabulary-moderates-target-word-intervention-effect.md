@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i2` medium
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Coyne 2019: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i2` The Treatment × PPVT interaction was statistically significant for target word learning (γ3000 = 0.28), with effect sizes rising from g = 0.92 for students 5 points below the mean to g = 1.21 for students 5 points above the mean. [→ Coyne 2019](#coyne-2019)

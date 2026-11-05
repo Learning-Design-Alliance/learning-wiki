@@ -49,3 +49,4 @@ Independent sample t-tests over each mathematical skill, visualized as a heatmap
 - [Models trained with combined DKT/DKT+ knowledge-state and student-profile features generally outperform models trained with student profile alone on STEM/non-STEM job prediction.](combined-dkt-knowledge-state-features-improve-stem-job-prediction.md) — related
 - [LDA projection visualizations show knowledge-state features separate STEM and non-STEM classes better than student-profile features.](lda-projection-knowledge-state-separates-classes-better-than-profile.md) — related
 - [STEM students show a higher mastery level and a higher learning gain in mathematics than non-STEM students.](stem-students-higher-mastery-and-learning-gain-in-mathematics.md) — related
+- [The test significantly discriminates between novices and experienced anesthesiologists (p < 0.001)](foi-test-discriminates-novices-experienced.md) — related

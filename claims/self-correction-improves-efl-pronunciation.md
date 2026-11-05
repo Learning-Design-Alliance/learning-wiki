@@ -48,5 +48,5 @@ Paired samples t-test on the quasi-experiment's self-correction group (n=15), pr
 - [Peer correction improves EFL learners' pronunciation significantly over a semester of narrative tasks](peer-correction-improves-efl-pronunciation.md) — related
 - [Peer correction group outperformed teacher correction (control) group in posttest pronunciation](peer-correction-outperforms-teacher-correction.md) — related
 - [Instructional software alone significantly improved general pronunciation quality over two weeks for young Chinese EFL learners](software-alone-improves-pronunciation-young-efl.md) — related
-- [QDPR significantly improved Indonesian EFL learners' knowledge of the target English phonemes in a one-group pretest-posttest study](qdpr-improved-phoneme-knowledge.md) — related
+- [Indonesian EFL learners' knowledge of the target English phonemes rose significantly from pretest to posttest after QDPR, in one uncontrolled pretest-posttest study](qdpr-improved-phoneme-knowledge.md) — related
 - [Self-correction group outperformed peer-correction and teacher-correction groups in posttest pronunciation](self-correction-outperforms-peer-and-teacher-correction.md) — related

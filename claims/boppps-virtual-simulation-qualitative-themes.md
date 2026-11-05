@@ -50,3 +50,4 @@ Semi-structured interviews with 14 intervention-group interns, analyzed via dire
 - [Qualitative findings indicate SVVR immersion enhanced engagement, concentration, perceived realism, patient assessment, clinical decision-making, and interdisciplinary collaboration](qualitative-immersion-enhanced-engagement-realism.md) — related
 - [Interviews revealed six themes: enhanced efficiency, improved quality, facilitated reflection, increased interaction, improved collaboration, and concerns about over-reliance](gai-dst-interview-six-themes.md) — related
 - [Qualitative interviews revealed enhanced critical appraisal skills, evidence synthesis capabilities, and professional confidence](qualitative-ebp-competency-gains.md) — related
+- [Students evaluate structured debriefing positively across knowledge, emotional attitude, and nursing skills](debriefing-positive-student-evaluations.md) — related

@@ -49,3 +49,4 @@ Known-group standard setting study comparing 16 fourth-year medical students' fi
 - [Novice first-attempt total scores were significantly lower than expert median scores on all six FRS VR tasks](frs-vr-novice-scores-lower-than-experts.md) — a narrower finding that bears on this claim
 - [Novice first-attempt completion times were significantly longer than expert times on all six FRS VR tasks](frs-vr-novice-times-longer-than-experts.md) — a narrower finding that bears on this claim
 - [Knot Tying showed the lowest and most variable expert scores on FRS VR, likely due to poor interaction fidelity](frs-vr-knot-tying-poor-interaction-fidelity.md) — related
+- [The test significantly discriminates between novices and experienced anesthesiologists (p < 0.001)](foi-test-discriminates-novices-experienced.md) — related

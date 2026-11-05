@@ -57,3 +57,4 @@ Reliability analysis of the two case-study examinations, whose unadjusted Cronba
 - [The Statistical Reasoning Assessment instrument showed acceptable internal consistency (Cronbach alpha .82) in a 30-subject pilot study](sra-instrument-cronbach-alpha-82-pilot.md) — related
 - [The exam instrument showed acceptable reliability with a Cronbach coefficient of 0.82](exam-reliability-cronbach-082-nursing-skills.md) — related
 - [The DKSCQ-N demonstrates high internal consistency (Cronbach's α = 0.906) and excellent test-retest stability (ICC = 0.829) over two weeks.](dkscqn-reliability-alpha-icc.md) — related
+- [The FOI test shows high internal consistency reliability (Cronbach's α = 0.89)](foi-test-internal-consistency-cronbach-alpha-089.md) — related

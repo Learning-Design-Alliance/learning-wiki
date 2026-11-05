@@ -49,3 +49,4 @@ Item-level analysis (Fig. 3a) plotting each email's actual difficulty against pe
 - [Future anti-phishing interventions should measure both performance and metacognition, aiming to shift the phishing calibration curve toward the legitimate-email pattern](measure-performance-and-metacognition-in-interventions.md) — related
 - [Participants are consistently overconfident for phishing emails but relatively well calibrated for legitimate emails except at 100% confidence](overconfident-phishing-well-calibrated-legitimate.md) — related
 - [Email-detection confidence judgments show good calibration but poor resolution, with aggregate overconfidence of 18%](phishing-metacognition-good-calibration-poor-resolution.md) — a broader claim this one bears on
+- [Participant performance in the SIAPeC Quiz varied widely, with correct response rates ranging from 0% to 100% across questions](siapec-quiz-performance-variation.md) — related

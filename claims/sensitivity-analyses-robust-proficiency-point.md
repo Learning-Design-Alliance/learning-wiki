@@ -48,3 +48,4 @@ Pre-specified and post hoc sensitivity analyses on the same 51-case cohort: CUSU
 - [Case-mix imbalance (all grade IV patients and more prior procedures in Phase 1) did not fully explain the learning effect in risk-adjusted analysis](case-mix-imbalance-exploratory-adjustment.md) — a narrower finding that bears on this claim
 - [The operative-time CUSUM identified a concordant proficiency point at case 26, suggesting technical efficiency and clinical outcomes mature in parallel](concordant-time-based-proficiency-case-26.md) — related
 - [CUSUM analysis of a single surgeon's first 51 THD-Anolift cases identifies a proficiency point at case 23 for the composite failure endpoint](cusum-proficiency-case-23-thd-anolift.md) — related
+- [Learning curves showed proficiency gains with inflection points at session 6 (juniors) and session 4 (intermediates)](learning-curve-cusum-inflection-points.md) — related

@@ -43,7 +43,7 @@ In the conclusions the article recommends that workplace trainers become acquain
 
 ## Claims
 
-- [Knowledge retained one month after CATM training, with post-test2 scores exceeding post-test1 in both periods](../claims/catm-knowledge-retention-one-month.md) [+W]
+- [Knowledge scores were higher one month after CATM training than immediately after training in one group, in both periods](../claims/catm-knowledge-retention-one-month.md) [+W]
 - [CATM training produced statistically significant knowledge gains among cleaning workers in both training periods](../claims/catm-significant-knowledge-gains-cleaning-workers.md) [+W]
 - [CATM-trained cleaning workers outperformed certified cleaners and supervisors on chemicals-hazard knowledge](../claims/catm-trained-outperform-certified-control.md) [+W]
 - [Switching from written short-answer to multiple-choice test format did not substantially change score levels](../claims/test-format-written-vs-mcq-little-difference.md) [+W]

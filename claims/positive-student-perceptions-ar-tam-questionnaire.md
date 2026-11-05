@@ -54,3 +54,4 @@ Likert-type questionnaire (16 items, five TAM dimensions: utility, ease of use, 
 - [Adult ESL learners report above-neutral perceptions of ASR as a writing tool on usefulness, ease of use, and intention to use](esl-learners-positive-perceptions-asr-writing.md) — related
 - [Students reported positive perceptions of OCRA's suitability for teaching and learning, with an overall mean of 4.44](ocra-positive-student-perception.md) — related
 - [Learners rate the AI-Mentor cognitive core highly on technology acceptance](ai-mentor-high-tam-acceptance.md) — related
+- [Flexibility in using fragmented time and platform ease of use received the highest student ratings (both 8.3), while perceived video quality received the lowest (7.1)](usability-items-highest-rated-video-quality-lowest.md) — related

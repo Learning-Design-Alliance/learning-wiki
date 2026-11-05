@@ -47,3 +47,4 @@ Cross-sectional satisfaction survey of 112 enrolled gynecologists (junior n=34, 
 ## Related Claims
 - [Training modality preferences differ by proficiency level: juniors favor box-trainers and theory, intermediates perfused organs and box-trainers, seniors perfused and ex vivo organs](level-stratified-training-modality-preferences.md) — related
 - [Prior laparoscopic training experience is associated with greater satisfaction regarding training productivity](prior-laparoscopic-experience-productivity-satisfaction.md) — a narrower finding that bears on this claim
+- [Learning curves showed proficiency gains with inflection points at session 6 (juniors) and session 4 (intermediates)](learning-curve-cusum-inflection-points.md) — related

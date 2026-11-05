@@ -51,7 +51,7 @@ Descriptive analysis of posttest scores in Table 1 from the two experimental cla
 
 ## Related Claims
 - [The Aptitude Treatment Interaction model has a significant effect on students' mathematical creative thinking abilities compared to the Problem Based Learning model](ati-outperforms-pbl-math-creative-thinking.md) — possibly the same claim (merge candidate)
-- [The article reports that PBL raised the average creative thinking ability of its participants above the control class](pbl-above-control-creative-thinking.md) — related
+- [The article reports that PBL raised average creative thinking ability above a class taught with the ATI model, which it calls the control class](pbl-above-control-creative-thinking.md) — related
 - [Hypothesized ATI effects of individualized explanations based on typical mistakes were not supported; exploratory benefits emerged for high-resource vocational-school students](individualized-explanations-ati-hypotheses-not-supported.md) — related
 - [Empirical patterns of the expertise reversal effect fit those found in Aptitude Treatment Interaction studies initiated in the mid-60s](expertise-reversal-fits-ati-patterns.md) — a broader claim this one bears on
 - [ATI research using static aptitude measures has yielded remarkably sparse robust results](ati-static-measures-sparse-results.md) — a broader claim this one bears on

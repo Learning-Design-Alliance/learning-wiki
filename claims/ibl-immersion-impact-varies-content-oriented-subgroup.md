@@ -50,5 +50,5 @@ The multivariate multilevel model of difference scores found significant between
 
 ## Related Claims
 - [Added interpretive support did not significantly affect the evolution of student teachers' educational beliefs](additional-support-no-significant-belief-impact.md) — related
-- [Immersion in inquiry-based learning significantly increases student teachers' value for procedural knowledge goals and self-efficacy for inquiry, but not substantive knowledge goals](immersion-ibl-increases-procedural-knowledge-goals-self-efficacy.md) — related
+- [Student teachers' value for procedural knowledge goals and self-efficacy for inquiry rose significantly from pre-test to post-test, while value for substantive knowledge goals did not change, in one uncontrolled pre-post study of immersion in inquiry-based learning](immersion-ibl-increases-procedural-knowledge-goals-self-efficacy.md) — related
 - [Immersion in IBL improves student teachers' self-reported understanding of the interpretative nature of historical research](ibl-immersion-improves-understanding-historical-inquiry.md) — related

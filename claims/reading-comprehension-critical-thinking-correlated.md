@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Tous et al. 2015: no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i3` There was a positive relationship between students' performance on the RTCRCT and CCTST (r = 0.723, n = 88, p = 0.000). [→ Tous et al. 2015](#tous-et-al-2015)

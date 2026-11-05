@@ -104,7 +104,7 @@ Auditory processing is what the brain does with sound once it has been heard: lo
 - [Providing captions of any type improved general listening comprehension of EFL students compared with no captions](../claims/captions-any-type-effective-listening.md) [+M] — instruction changes it
 - [The no-captions control group also improved significantly in listening comprehension over the treatment period](../claims/control-group-listening-gains-without-captions.md) [+M] — instruction changes it
 - [Auditory training uses electronically modified music and language to stimulate auditory pathways and enhance auditory processing ability.](../claims/auditory-training-definition-asha.md) [+W] — instruction changes it
-- [The flipped classroom model improved Egyptian EFL students' listening comprehension in a one-group pre-posttest study](../claims/flipped-classroom-improves-efl-listening-comprehension.md) [+M] — instruction changes it
+- [Egyptian EFL students' listening comprehension scores rose from pre-test to post-test in a one-group pre-posttest study of the flipped classroom model](../claims/flipped-classroom-improves-efl-listening-comprehension.md) [+M] — instruction changes it
 
 ## Measures
 - **Test of Auditory Processing Skills** (Martin, Brownell & Hamaguchi, 2018): auditory attention, auditory memory and phonological skills for ages 4 to 18.

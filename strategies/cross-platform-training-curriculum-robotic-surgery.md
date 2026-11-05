@@ -50,6 +50,7 @@ The review recommends a structured, cross-platform training curriculum for robot
 - [Train robotic surgery teams regularly by simulating intraoperative emergencies and maintain a dedicated team](ras-team-emergency-simulation-training-strategy.md)
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
 - [Integrate the validated SP chicken anastomosis task into SP-specific Proficiency Based Progression training pathways](sp-pbp-training-pathway-strategy.md)
+- [Integrate dedicated surgical care practitioners into robotic programmes to free trainees from the bedside assistant role and facilitate their transition to the console](scp-bedside-assistant-integration-robotic-training.md)
 
 ## Examples
 -

@@ -43,13 +43,15 @@ The article describes a workshop combining "didactic lectures, small group skill
 - [Knowledge gains from the workshop were largest in sampling and critical care domains for both professional groups](../claims/bronchoscopy-workshop-domain-specific-gains.md) [+W]
 - [Participants were highly satisfied with the workshop and all would recommend it to colleagues](../claims/bronchoscopy-workshop-high-satisfaction.md) [+W]
 - [Delegates who stayed for extra practice all successfully navigated the bronchoscope to specified bronchopulmonary segments](../claims/bronchoscopy-workshop-informal-skill-assessment.md) [+W]
-- [A one-day simulation-based bronchoscopy workshop significantly improves knowledge of bronchoscopy among medical doctors in critical care](../claims/one-day-bronchoscopy-workshop-md-knowledge-gains.md) [+W]
-- [A one-day simulation-based bronchoscopy workshop significantly improves knowledge of bronchoscopy among non-physician critical care staff](../claims/one-day-bronchoscopy-workshop-nonmd-knowledge-gains.md) [+W]
+- [Among medical doctors in critical care, average bronchoscopy-knowledge scores rose from pre-test to post-test after a one-day simulation-based workshop, in one uncontrolled pre-post study](../claims/one-day-bronchoscopy-workshop-md-knowledge-gains.md) [+W]
+- [Knowledge of bronchoscopy rose among non-physician critical care staff from pre-test to post-test after a one-day simulation-based workshop in one uncontrolled pre-post study](../claims/one-day-bronchoscopy-workshop-nonmd-knowledge-gains.md) [+W]
 - [In a randomised crossover trial, simulation training produced a 22% absolute increase in scores for assessing critically unwell patients versus didactic lectures](../claims/simulation-crossover-22-percent-increase-critically-unwell.md) [+W]
 
 ## Related Strategies
 
 - [Deliver NTS training through simulation-based courses with structured debriefing focused on Crisis Resource Management principles, supplemented by in-situ refreshers and visual reminders.](simulation-crm-debriefing-delivery-strategy.md)
+- [Align simulation-based BLS training with INACSL guidelines including interactive lectures, skill demonstrations, high-fidelity manikin practice, scenarios, and GAS-model structured debriefing](strategy-inacsl-aligned-bls-simulation-module.md)
+- [Build simulation models from patient imaging with 3D printing to accommodate anatomical variations at low cost](imaging-based-3d-printing-custom-simulation-models.md)
 
 ## Examples
 -

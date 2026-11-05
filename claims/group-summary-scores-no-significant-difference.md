@@ -52,3 +52,4 @@ Group summaries submitted via BookRoll's memo function were scored by the senior
 - [In a high school EFL active-reading setting, mixed genetic algorithm group formation with Wordcloud awareness produced significantly greater vocabulary learning gains than random grouping](mixed-ga-grouping-greater-vocabulary-gain-efl.md) — related
 - [No significant differences between conditions in the quantity or quality of discussion summaries](no-script-effect-on-summary-quantity-quality.md) — related
 - [The mixed-algorithm grouping intervention did not significantly change comprehension test performance despite slightly higher experimental mean](comprehension-no-significant-difference-mixed-ga.md) — related
+- [A recent study showed no difference in undergraduate biology lab performance between maximally heterogeneous groups and randomly assigned groups.](no-difference-heterogeneous-vs-random-biology-lab.md) — related

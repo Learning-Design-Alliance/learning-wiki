@@ -52,3 +52,4 @@ ANCOVA on comprehension in the same VR modality experiment, controlling for prio
 - [In an immersive VR learning environment, visual-only text yields higher recall than audio-visual text (reverse modality effect)](vr-reverse-modality-effect-recall.md) — related
 - [Visual-only text produces higher germane cognitive load than audio-visual text in VR](vr-visual-only-higher-germane-load.md) — related
 - [In one meta-analysis, modality-effect studies using virtual reality head-mounted displays show larger effects than studies using computer screens or audio-tapes](modality-effect-stronger-in-virtual-reality.md) — reports the opposite
+- [Text-graphic composite modality yields the highest knowledge acquisition efficiency despite moderate cognitive load](text-graphic-composite-optimal-learning-efficiency.md) — related

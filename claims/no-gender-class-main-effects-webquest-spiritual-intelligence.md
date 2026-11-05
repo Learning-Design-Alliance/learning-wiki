@@ -50,3 +50,4 @@ ANCOVA on 134 4th graders' posttest scores: Gender F = 0.052, Sig = 0.820; Class
 - [Using a WebQuest significantly enhances 4th graders' spiritual intelligence in favor of the experimental group](webquest-enhances-spiritual-intelligence-experimental.md) — related
 - [No significant differences between high school and university students in spiritual intelligence, emotional intelligence, or achievement means](no-school-university-differences-si-ei-achievement.md) — related
 - [Pooled mean scores: achievement 15.91, spiritual intelligence 138.27, emotional intelligence 128.94](pooled-mean-scores-si-ei-achievement.md) — related
+- [Psilocybin occasioned experiences evaluated as having substantial and sustained personal meaning and spiritual significance](psilocybin-occasioned-mystical-experiences-hopkins.md) — related

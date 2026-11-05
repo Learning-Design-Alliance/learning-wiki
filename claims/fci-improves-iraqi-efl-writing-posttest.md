@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 > **Currency** · newest study 2019 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Ramyar O. Qader and Fadime Yalcin Arslan 2019: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` After an eight-week FCI program, the experimental group's post-test writing mean (6.17) was significantly higher than the control group's (5.31), t=2.013, P=0.048. [→ Ramyar O. Qader and Fadime Yalcin Arslan 2019](#ramyar-o-qader-and-fadime-yalcin-arslan-2019)
@@ -86,5 +87,5 @@ Descriptive statistics (Table 2) for the same quasi-experiment show the experime
 - [In the experimental stage, FCM was implemented with 64 teacher candidates in a pretest–posttest control-group quasi-experimental design](fcm-experimental-stage-design.md) — related
 - [A project-based flipped learning model raised translation competence test scores in a Business English Translation course over one 16-week semester](flipped-translation-competence-posttest-gain.md) — related
 - [Interactive learning technologies produced greater gains in foreign language communicative competence than traditional instruction in a 54-student quasi-experiment](interactive-technologies-greater-flcc-gains-kfu.md) — related
-- [The flipped classroom model improved Egyptian EFL students' listening comprehension in a one-group pre-posttest study](flipped-classroom-improves-efl-listening-comprehension.md) — related
+- [Egyptian EFL students' listening comprehension scores rose from pre-test to post-test in a one-group pre-posttest study of the flipped classroom model](flipped-classroom-improves-efl-listening-comprehension.md) — related
 - [Both groups improved significantly from pretest to posttest, but improvement was significantly greater in the flipped classroom condition](flipped-rct-greater-within-group-gain.md) — related

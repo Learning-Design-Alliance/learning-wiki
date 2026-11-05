@@ -47,6 +47,6 @@ Paired-samples t tests on comprehension percentages for the TROR group's four sc
 
 ## Related Claims
 - [Reading rate gains in both treatment groups were accompanied by comprehension increases during the treatment, with rates generally below the 70% threshold](rate-gains-accompanied-by-comprehension-increases.md) — related
-- [The TR group's comprehension results were mixed: a significant 11% average-method gain but a significant 12% decrease on the three-extremes passages](tr-comprehension-mixed-three-extremes-decrease.md) — related
+- [The TR group's comprehension results were mixed: comprehension scores rose significantly by 11% on the average method but fell significantly by 12% on the three-extremes passages from pre-test to post-test in one uncontrolled pre-post study](tr-comprehension-mixed-three-extremes-decrease.md) — related
 - [The TROR group (timed reading plus repeated oral reading with chunking and prosody) made statistically significant reading rate gains of about 13 to 27 swpm across four scoring methods](tror-group-significant-rate-gains-four-scoring-methods.md) — related
 - [The three groups differed significantly on posttest reading rate but not on posttest comprehension in a MANCOVA with pretest covariates](mancova-group-differences-rate-not-comprehension.md) — related

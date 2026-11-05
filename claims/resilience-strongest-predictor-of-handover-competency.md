@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Resilience in handover is the strongest predictor of perceived competency (β = 0.376) and correlates most strongly with it (r = 0.920)
-description: Resilience in handover is the strongest predictor of perceived competency (β = 0.376) and correlates most strongly with it (r = 0.920)
+title: In one single-group pre-test–post-test study with no comparison group, resilience in handover had the strongest observed association with self-rated perceived competency (β = 0.376) and the strongest correlation with it (r = 0.920)
+description: In one single-group pre-test–post-test study with no comparison group, resilience in handover had the strongest observed association with self-rated perceived competency (β = 0.376) and the strongest correlation with it (r = 0.920)
 id: resilience-strongest-predictor-of-handover-competency
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Resilience in handover is the strongest predictor of perceived competency (β = 0.376) and correlates most strongly with it (r = 0.920)
+# In one single-group pre-test–post-test study with no comparison group, resilience in handover had the strongest observed association with self-rated perceived competency (β = 0.376) and the strongest correlation with it (r = 0.920)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

@@ -55,3 +55,4 @@ In the randomized three-group experiment, the 2 (Group: IP-Sham, RP-Sham) × 3 (
 - [Stimulation at PMd during repetitive practice fails to induce the early (6-h) time-dependent consolidation typical of interleaved practice](pmd-tdcs-no-early-6h-consolidation.md) — related
 - [Anodal tDCS at left PMd, but not right PMd, during repetitive practice produces sleep-related offline gain similar to interleaved practice](left-pmd-tdcs-sleep-related-offline-gain.md) — related
 - [Forgetting after repetitive practice is extremely rapid, appearing within roughly 3–5 minutes after training ends](rapid-forgetting-after-repetitive-practice.md) — related
+- [Repetitive delivery of similar teaching sessions consolidated peer teachers' anatomical knowledge](anatomy-ems-repetition-consolidates-knowledge.md) — related

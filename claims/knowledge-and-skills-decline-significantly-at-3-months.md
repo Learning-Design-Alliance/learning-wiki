@@ -51,3 +51,5 @@ Farah T, Besbes H, Ajmi H, Zayani S, Chemli J, Chouchane S. (2026). Comparing vi
 - [PoCUS competency declines across all I-AIM domains over 1–12 months, with Acquisition showing the most pronounced decline (median −11.8%)](pocus-acquisition-domain-most-pronounced-retention-decline.md) — related
 - [Game-based training with precision teaching improved disaster knowledge and behavioral fluency more than case-based training, with no significant fluency decline at one month](game-based-precision-teaching-improved-fluency.md) — related
 - [Both video-based and simulation-based training significantly improve paediatric BLS knowledge immediately after training](video-and-simulation-improve-bls-knowledge-immediately.md) — related
+- [Extremity tourniquet skill and self-confidence decline significantly at two months while remaining above baseline](extremity-tourniquet-skill-decay-two-months.md) — related
+- [Three-hour simulation-based tourniquet training significantly improves medical interns' knowledge, skills, attitudes, self-confidence and self-efficacy](simulation-tourniquet-training-improves-intern-outcomes.md) — related

@@ -68,3 +68,4 @@ Same Model 9 results, lower panel (emotions→relationship). The article reports
 - [Within persons, grades negatively predict subsequent anger and hopelessness, and anger, anxiety, boredom, and hopelessness negatively predict subsequent grades](grades-negative-emotions-within-person-effects.md) — related
 - [Reciprocal associations between relationship quality and emotions are largely equivalent across school domains](domain-equivalence-relationship-emotions-links.md) — related
 - [The strength of reciprocal relationship-emotion associations differs across discrete achievement emotions](emotion-specific-strength-relationship-links.md) — a broader claim this one bears on
+- [Teacher-student relationship quality is positively associated with enjoyment and negatively associated with anxiety and boredom among Chinese college EFL learners](tsrq-associated-with-efl-achievement-emotions.md) — reports the opposite

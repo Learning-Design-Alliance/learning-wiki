@@ -46,5 +46,5 @@ A 17-item five-point Likert questionnaire explored perceptions of the instructio
 
 ## Related Claims
 - [Explicit instruction on academic formulaic sequences significantly improved EFL college learners' FS test performance from pretest to posttest.](explicit-fs-instruction-improves-fs-test-performance.md) — related
-- [Lower-proficiency learners caught up with higher-proficiency peers on FS test performance after explicit instruction.](explicit-fs-instruction-benefits-lower-proficiency-learners.md) — related
+- [The mean FS test score gap between lower- and higher-proficiency learners narrowed from pre-test to post-test and delayed post-test after explicit instruction, in one uncontrolled pre-post study.](explicit-fs-instruction-benefits-lower-proficiency-learners.md) — related
 - [EFL learners rated explicit strategy instruction favorably and reported increased confidence and efficiency in learning.](learners-perceive-strategy-instruction-as-useful.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: GCLA use enhances higher-order thinking skills—critical thinking, problem-solving, and creativity—compared with traditional ChatGPT use
-description: GCLA use enhances higher-order thinking skills—critical thinking, problem-solving, and creativity—compared with traditional ChatGPT use
+title: Students using GCLA rated their higher-order thinking skills—critical thinking, problem-solving, and creativity—higher than students using traditional ChatGPT
+description: Students using GCLA rated their higher-order thinking skills—critical thinking, problem-solving, and creativity—higher than students using traditional ChatGPT
 id: gcla-improves-hots
 status: review
 generated:
@@ -29,15 +29,15 @@ sources:
     rigour: 2
 ---
 
-# GCLA use enhances higher-order thinking skills—critical thinking, problem-solving, and creativity—compared with traditional ChatGPT use
+# Students using GCLA rated their higher-order thinking skills—critical thinking, problem-solving, and creativity—higher than students using traditional ChatGPT
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
 > **Currency** · newest study 2024 · checked against its sources 2026-10-16 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
-`q3 i3` Treatment-group students outperformed control-group students on critical thinking (MEG = 17.3 > MCG = 13.8; partial η² = 0.418). [→ Lee 2024](#lee-2024)
-`q3 i3` Treatment-group students outperformed control-group students on problem-solving (MEG = 15.9 > MCG = 13.1; partial η² = 0.400) and creativity (MEG = 11.0 > MCG = 10.1; partial η² = 0.134). [→ Lee 2024](#lee-2024)
+`q3 i3` Treatment-group students rated their critical thinking higher than control-group students did (MEG = 17.3 > MCG = 13.8; partial η² = 0.418). [→ Lee 2024](#lee-2024)
+`q3 i3` Treatment-group students rated their problem-solving higher than control-group students did (MEG = 15.9 > MCG = 13.1; partial η² = 0.400) and creativity (MEG = 11.0 > MCG = 10.1; partial η² = 0.134). [→ Lee 2024](#lee-2024)
 
 ## Evidence
 

@@ -50,4 +50,4 @@ Independent t-test comparing post-test scores of the S group (n=24, mean 26.67) 
 
 ## Related Claims
 - [Asymmetrical scaffolding significantly improved EFL learners' reading comprehension scores](asymmetrical-scaffolding-improves-reading-comprehension.md) — related
-- [Symmetrical scaffolding significantly improved EFL learners' reading comprehension scores](symmetrical-scaffolding-improves-reading-comprehension.md) — related
+- [EFL learners' reading comprehension scores rose significantly from pre-test to post-test after symmetrical scaffolding, in one uncontrolled pre-post study](symmetrical-scaffolding-improves-reading-comprehension.md) — related

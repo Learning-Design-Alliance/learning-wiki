@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Service-learning participation is associated with a large reduction in dental students' perceived costs of community engagement"
-description: "Service-learning participation is associated with a large reduction in dental students' perceived costs of community engagement"
+title: "Dental students' self-rated perceived costs of community engagement showed a large reduction from pre-test to post-test after service-learning participation, in one uncontrolled pre-post study"
+description: "Dental students' self-rated perceived costs of community engagement showed a large reduction from pre-test to post-test after service-learning participation, in one uncontrolled pre-post study"
 id: service-learning-perceived-costs-reduction
 status: review
 generated:
@@ -21,7 +21,7 @@ sources:
     rigour: 1
 ---
 
-# Service-learning participation is associated with a large reduction in dental students' perceived costs of community engagement
+# Dental students' self-rated perceived costs of community engagement showed a large reduction from pre-test to post-test after service-learning participation, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
@@ -50,6 +50,6 @@ In the same matched pre–post sample (n = 77), repeated-measures ANOVA showed t
 
 ## Related Claims
 - [The reduction in perceived costs after service-learning was significantly smaller among junior than intermediate and senior dental students](costs-reduction-smaller-junior-students.md) — related
-- [Service-learning participation is associated with a small increase in dental students' norms regarding community service](service-learning-norms-increase-small-effect.md) — related
+- [Dental students' self-reported norms regarding community service rose slightly from pre-test to post-test after service-learning participation, in one single-group pre-post study](service-learning-norms-increase-small-effect.md) — related
 - [Service-learning participation is associated with a large increase in dental students' empathy toward community service](service-learning-empathy-increase-dental-students.md) — related
 - [Attitudinal changes after service-learning did not differ significantly by sex or prior community service experience](attitude-change-no-sex-or-experience-differences.md) — related

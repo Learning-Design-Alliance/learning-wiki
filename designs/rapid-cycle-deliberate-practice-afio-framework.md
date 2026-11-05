@@ -42,7 +42,8 @@ Rapid-cycle deliberate practice is an educational framework using repeated pract
 - [Rcdp Simulation Decreases Afio Simulator Time](../claims/rcdp-simulation-decreases-afio-simulator-time.md) [+M]
 
 ## Related Designs
-- 
+
+- [Three-hour simulation-based tourniquet training program (ATLS/TCCC/STB-based)](three-hour-tourniquet-simulation-training-program.md)
 
 ## Examples
 -

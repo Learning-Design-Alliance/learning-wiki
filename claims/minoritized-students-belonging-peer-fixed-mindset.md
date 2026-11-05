@@ -9,7 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: weak
 newest_evidence: 2025
-source_checked: 2026-10-22
+source_checked: 2026-11-05
 sources:
   - id: eunjin-seo-2025
     resource: "https://doi.org/10.1007/s10648-025-10082-8"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-22 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Black and Latinx students reported lower belonging in classrooms where their Asian and White peers endorsed more fixed mindset beliefs, whereas the reverse was not true. [→ Eunjin Seo 2025](#eunjin-seo-2025)
@@ -59,3 +59,4 @@ Narrative review attributing this empirical finding to Lee et al. (2025); the re
 - [A racial school-climate gap exists: White and Asian students generally report higher safety, support, and connectedness than African American, American Indian, and Hispanic students](racial-school-climate-gap-students.md) — related
 - [Peer mindsets are socially transmissible: a recent meta-analysis links peers' mindsets to students' own mindsets](peer-mindset-social-contagion-meta-analysis.md) — related
 - [Students who perceive their teacher as supporting a growth mindset report greater belonging and reduced evaluative concerns, impostor feelings, and negative affect](perceived-growth-teacher-belonging-reduced-vulnerability.md) — related
+- [Peer assessment is vulnerable to implicit bias influenced by status perceptions, with women and minoritized students receiving lower evaluations despite substantive contributions.](peer-assessment-implicit-bias-status-perceptions.md) — related

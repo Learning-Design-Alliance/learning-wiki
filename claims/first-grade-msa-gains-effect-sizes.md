@@ -1,7 +1,7 @@
 ---
 type: claim
-title: First-grade students improved in modeling, strategy, and application with effect sizes of 1.66, 1.75, and 1.70 respectively
-description: First-grade students improved in modeling, strategy, and application with effect sizes of 1.66, 1.75, and 1.70 respectively
+title: "First-grade students' modeling, strategy, and application measures rose from pre-test to post-test in one single-group pre-post study, with effect sizes of 1.66, 1.75, and 1.70 respectively"
+description: "First-grade students' modeling, strategy, and application measures rose from pre-test to post-test in one single-group pre-post study, with effect sizes of 1.66, 1.75, and 1.70 respectively"
 id: first-grade-msa-gains-effect-sizes
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# First-grade students improved in modeling, strategy, and application with effect sizes of 1.66, 1.75, and 1.70 respectively
+# First-grade students' modeling, strategy, and application measures rose from pre-test to post-test in one single-group pre-post study, with effect sizes of 1.66, 1.75, and 1.70 respectively
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
@@ -46,4 +46,4 @@ Paired-sample t-tests on five pre and five post MSA assessments for the first-gr
 
 ## Related Claims
 - [Music-mathematics integrated lessons produced statistically significant improvements in first- and third-grade students' MSA mathematical ability levels](music-math-integration-improves-msa-abilities.md) — a broader claim this one bears on
-- [Third-grade students improved in modeling, strategy, and application with effect sizes of 3.40, 3.44, and 3.00 respectively](third-grade-msa-gains-effect-sizes.md) — related
+- [Third-grade students' modeling, strategy, and application scores rose from pre-test to post-test in one uncontrolled pre-post study, with reported effect sizes of 3.40, 3.44, and 3.00 respectively](third-grade-msa-gains-effect-sizes.md) — related

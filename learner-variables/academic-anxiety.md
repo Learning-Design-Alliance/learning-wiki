@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 242 claims (165 show a difference, 46 mixed, 31 no difference) · 152 studies (51 causal, 51 associational, 26 review, 10 quant-synthesis, 6 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 34 of 152 report an effect size · 235 claims rest on one study
+> **Evidence** · 243 claims (166 show a difference, 46 mixed, 31 no difference) · 155 studies (54 causal, 51 associational, 26 review, 10 quant-synthesis, 6 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 34 of 155 report an effect size · 235 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -241,7 +241,7 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Relaxation training produced a significant pre-to-post reduction in test anxiety among third-grade students in the experimental group](../claims/relaxation-training-reduces-test-anxiety-third-graders.md) [+M] — instruction changes it
 - [Third-grade control students receiving no relaxation training showed no significant decrease in test anxiety](../claims/no-test-anxiety-decrease-without-relaxation-training.md) [-M] — instruction changes it
 - [Case-based instruction significantly raises extrinsic goal orientation, task value, control of learning beliefs, and self-efficacy, but not intrinsic goal orientation or test anxiety](../claims/cbl-gains-four-motivation-subscales-not-two.md) [-M] — instruction changes it
-- [Self-regulated strategy instruction significantly reduced speaking anxiety of Egyptian EFL university students](../claims/srl-strategy-instruction-reduced-speaking-anxiety.md) [+M] — instruction changes it
+- [Speaking anxiety scores decreased significantly from pretest to posttest after self-regulated strategy instruction, in one group of Egyptian EFL university students with no comparison group](../claims/srl-strategy-instruction-reduced-speaking-anxiety.md) [+M] — instruction changes it
 - [Speaking proficiency and speaking anxiety were significantly negatively correlated at posttest](../claims/speaking-proficiency-anxiety-negative-correlation.md) [+M] — learners who differ on it differ in outcomes
 - [Participation in the Student Success Skills program reduced the growth of test anxiety over the school year in 5th graders](../claims/sss-reduced-test-anxiety-growth-fifth-grade.md) [+M] — instruction changes it
 - [Instruction through the situated learning model significantly reduces mathematics anxiety of seventh-grade students compared with traditional teaching](../claims/situated-learning-reduces-mathematics-anxiety.md) [+M] — instruction changes it
@@ -278,6 +278,7 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Most nursing students report mild to moderate anxiety before an OSCE, with severe anxiety reported by a minority](../claims/mild-moderate-anxiety-majority-before-osce.md) [+M] — measured as an outcome of the instruction studied
 - [Self-efficacy was most strongly associated with monitoring strategy use, while learning anxiety was most strongly inversely associated with planning.](../claims/dimension-specific-psychological-correlates-metacognition.md) [+M] — learners who differ on it differ in outcomes
 - [Trait anxiety shows a similar sociodemographic pattern to state anxiety before the OSCE](../claims/trait-anxiety-similar-pattern-state-anxiety.md) [+M] — measured as an outcome of the instruction studied
+- [Bell-pacing significantly exacerbates reactive test anxiety compared to self-pacing during gross anatomy laboratory examinations.](../claims/bell-pacing-exacerbates-reactive-test-anxiety.md) [+S] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

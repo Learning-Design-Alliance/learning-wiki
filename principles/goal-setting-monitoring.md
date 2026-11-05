@@ -144,6 +144,7 @@ Effects on effort, persistence, completion, on-task behaviour, self-efficacy, im
 - **[Duolingo Streaks](https://www.duolingo.com)** — Employs daily goals and visual feedback (streaks) to encourage persistence and self-monitoring.
 - **SMARTER Goal Templates**: Worksheets that guide students in defining Specific, Measurable, Achievable, Relevant, Time-bound, Evaluated, and Rewarded targets.
 - [Have students unpack goals into tasks and subtasks to counter the planning fallacy](../strategies/task-unpacking-goal-setting-worksheet.md)
+- [Integrate task-specific feedback on self-monitoring accuracy into regular progress test reports](../strategies/feedback-on-self-monitoring-in-progress-test-reports.md)
 
 ## Key Sources
 - Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. *American Psychologist, 57*(9), 705–717. [https://doi.org/10.1037/0003-066X.57.9.705](https://doi.org/10.1037/0003-066X.57.9.705)

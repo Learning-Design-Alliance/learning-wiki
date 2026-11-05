@@ -52,7 +52,7 @@ Baseline comparison in the same pre-test post-test control group experiment (n=3
 - [Interactive whiteboard lessons supported by visual materials produce higher listening comprehension achievement than regular 2018 Turkish Course Curriculum teaching in middle school students](iwb-visual-materials-improve-listening-comprehension.md) — related
 - [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — related
 - [Experimental and control groups did not differ significantly in initial-test grades before the intervention](pretest-equivalence-independent-activities-groups.md) — related
-- [Students given more control spent significantly more weekly time on listening practice, indicating greater effort and autonomy](learner-control-increases-listening-practice-time.md) — related
+- [Experimental-group students' weekly listening-practice time rose significantly from before to during the experiment, measured within that group](learner-control-increases-listening-practice-time.md) — related
 - [On the initial test's application section the experimental and control groups did not differ significantly](project-method-application-initial-null.md) — related
 - [Pretest scores did not differ significantly between the dramatization-first and lecture-first groups](dramatization-pretest-no-group-difference.md) — a narrower finding that bears on this claim
 - [Before instruction, the experimental and control groups did not differ significantly in request speech act use](pretest-equivalence-request-groups.md) — related

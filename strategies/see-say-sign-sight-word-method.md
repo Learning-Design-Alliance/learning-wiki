@@ -43,7 +43,7 @@ The article's ASL treatment procedure has the intern explain that the sign makes
 - [ELL first graders who learned ASL signs with sight vocabulary moved from zero pretest words to perfect posttest scores](../claims/asl-sight-vocabulary-ell-students-perfect-posttest.md) [+W]
 - [First graders taught sight words with ASL signs achieved higher posttest accuracy than students taught without ASL](../claims/asl-signing-higher-sight-word-posttest-accuracy.md) [+W]
 - [All eleven participating first graders gained sight vocabulary, with 89% knowing four or all five taught words at posttest](../claims/one-to-one-sight-word-intervention-gains-all-students.md) [+W]
-- [An ELL student spontaneously signed sight words when seeing them in context, which appeared to support word recognition](../claims/spontaneous-signing-in-context-study-aid.md) [+W]
+- [An ELL student spontaneously signed sight words when seeing them in context, which her intern believed supported word recognition](../claims/spontaneous-signing-in-context-study-aid.md) [+W]
 - [Interns observed extremely high enthusiasm for ASL vocabulary learning, including home practice and increased self-confidence](../claims/asl-sight-word-instruction-high-enthusiasm-qualitative.md) [+W]
 
 ## Related Strategies

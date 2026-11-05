@@ -61,3 +61,4 @@ Practitioner perspectives in the primer identify these barriers: scaffolding and
 - [Lack of support and infrastructure at the school level hinders curricular change implementation](meso-lack-support-infrastructure-hinders-implementation.md) — related
 - [Patient-related, technical and organisational challenges hindered clinical LUS integration](lus-integration-challenges-ed.md) — related
 - [Logistical constraints, including limited time for individualized feedback and challenges related to the physical learning environment, were identified as barriers to the integrated module.](logistical-constraints-limit-individualized-feedback.md) — related
+- [Institutional support and opportunities to teach were identified as key facilitators, while time constraints were the primary barrier to sustained skill application](facilitators-and-barriers-to-sustained-teaching-skills.md) — related

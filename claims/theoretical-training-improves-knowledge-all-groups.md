@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Theoretical training alone improves patient-education knowledge in all three student groups
-description: Theoretical training alone improves patient-education knowledge in all three student groups
+title: Patient-education knowledge scores rose from pre-test to post-test in all three student groups after theoretical training alone, in a pre-post study with no comparison group
+description: Patient-education knowledge scores rose from pre-test to post-test in all three student groups after theoretical training alone, in a pre-post study with no comparison group
 id: theoretical-training-improves-knowledge-all-groups
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# Theoretical training alone improves patient-education knowledge in all three student groups
+# Patient-education knowledge scores rose from pre-test to post-test in all three student groups after theoretical training alone, in a pre-post study with no comparison group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Post-training theoretical scores were significantly higher than pretest scores (8.07 vs 9.31, p < 0.001), improving in all three groups. [→ Aparicio M. 2026](#aparicio-m-2026)
+`q2 i?` Post-training theoretical scores were significantly higher than pretest scores (8.07 vs 9.31, p < 0.001) in all three groups, measured within each group from pre-test to post-test in a pre-post study with no comparison group. [→ Aparicio M. 2026](#aparicio-m-2026)
 
 ## Evidence
 

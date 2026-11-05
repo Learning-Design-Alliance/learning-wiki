@@ -56,3 +56,4 @@ Regression on pretest monitoring judgments in the 1,177-participant sample: accu
 - [Men morally disengage toward cheating more than women](men-moral-disengage-more-than-women.md) — related
 - [Male and female subjects responded differently, confounding interpretation](sex-differences-confound-attitude-change.md) — related
 - [Men report higher computer self-efficacy, domain identification, knowledge, and motivation than women](gender-gaps-computer-self-efficacy-knowledge-motivation.md) — related
+- [Students identifying as women reported higher levels of reactive test anxiety than students identifying as men, even after controlling for assigned pacing condition.](women-higher-reactive-test-anxiety-anatomy-lab.md) — related

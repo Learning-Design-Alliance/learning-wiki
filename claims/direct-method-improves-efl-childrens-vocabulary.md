@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Direct Method instruction significantly improves EFL young learners' L2 vocabulary knowledge from pretest to posttest"
-description: "Direct Method instruction significantly improves EFL young learners' L2 vocabulary knowledge from pretest to posttest"
+title: "EFL young learners' L2 vocabulary knowledge scores rose significantly from pretest to posttest after Direct Method instruction, in one uncontrolled pre-post study"
+description: "EFL young learners' L2 vocabulary knowledge scores rose significantly from pretest to posttest after Direct Method instruction, in one uncontrolled pre-post study"
 id: direct-method-improves-efl-childrens-vocabulary
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Direct Method instruction significantly improves EFL young learners' L2 vocabulary knowledge from pretest to posttest
+# EFL young learners' L2 vocabulary knowledge scores rose significantly from pretest to posttest after Direct Method instruction, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

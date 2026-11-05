@@ -47,3 +47,5 @@ Prespecified LC-CUSUM learning-curve analysis across cases 1–30, shown in Figu
 ## Related Claims
 - [Risk-adjusted learning-curve analysis showed a significant downward trend in predicted POPF risk and operative duration with increasing center experience, an upward trend in blood loss, and stable major complications](learnbot-learning-curve-popf-trend.md) — related
 - [Surgeons achieved proficiency in Versius-assisted radical prostatectomy within 40 cases, with experienced surgeons reaching proficiency after 23 cases and novice surgeons after 37](versius-rp-proficiency-under-40-cases.md) — related
+- [CUSUM analysis shows uniformly high apparent competency achievement (75% of trainees reaching binary detection competency within 48.5–61.6 examinations), contrasting with kappa-based variation of 12.5–62.5%](cusum-versus-kappa-competency-assessment-divergence.md) — related
+- [Learning curves showed proficiency gains with inflection points at session 6 (juniors) and session 4 (intermediates)](learning-curve-cusum-inflection-points.md) — related

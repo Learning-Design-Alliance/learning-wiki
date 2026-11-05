@@ -52,3 +52,4 @@ The review's descriptive synthesis of the 26 included studies, reported in the a
 - [Simulation-based teaching produces higher post-intervention technical skill scores and success rates for blood-sampling procedures than traditional teaching](simulation-higher-technical-skills-success-rates.md) — related
 - [Physical examination modules in the metaverse face technical limitations in replicating procedures requiring tactile or haptic feedback](metaverse-physical-exam-haptic-limitations.md) — a narrower finding that bears on this claim
 - [Participants could distinguish arterial from venous bleeding patterns and practice digital pressure techniques on the task trainer](trainer-supports-bleed-type-identification.md) — related
+- [The 3D-printed durotomy simulator is a cost-effective alternative to virtual reality or cadaveric models](durotomy-simulator-cost-effective-build.md) — a narrower finding that bears on this claim

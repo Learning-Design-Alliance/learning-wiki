@@ -54,3 +54,4 @@ Weekly epistemic networks for Weeks 6 and 13 (Figure 5) from the same trace-data
 - [Commitment devices such as deadlines show demand but mixed effectiveness for student performance](commitment-devices-mixed-effectiveness-education.md) — related
 - [Counting questions students procrastinate, practicing little until late in the semester, while counting days spreads practice across the term](counting-questions-procrastination-pattern.md) — related
 - [Students used the rDSA system extensively during formative assessment, with usage peaking the day before the exam](rdsa-usage-peaks-before-exams.md) — related
+- [Over half of students used the GPT companion multiple times per week, mainly for understanding difficult topics, exam preparation, and formative quizzes](frequent-gpt-companion-usage-patterns-medical-students.md) — related

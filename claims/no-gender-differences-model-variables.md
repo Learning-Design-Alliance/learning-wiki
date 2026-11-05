@@ -56,3 +56,4 @@ T-tests comparing female (n = 100) and male (n = 44) preservice teachers on all 
 - [Male students score significantly higher than females on Openness to Experience and Extraversion, while age shows no significant correlation with personality](gender-age-personality-differences.md) — reports the opposite
 - [Gender showed no significant effect on test outcomes](gender-no-significant-effect-on-test-outcomes.md) — a narrower finding that bears on this claim
 - [No gender differences were found in any dimension according to teacher SEL training](ruler-no-gender-differences.md) — related
+- [Student perceptions of the GPT companion do not differ significantly by gender, academic background, or GPA](no-perception-differences-gender-stream-gpa-gpt-companion.md) — a narrower finding that bears on this claim

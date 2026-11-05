@@ -33,9 +33,10 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Siegel 2015 (2): no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
-`q2 i?` A majority of treatment-group students reported increased confidence in listening as a result of the BU exercises. [→ Siegel 2015](#siegel-2015)
+`q2 i?` A majority of treatment-group students reported increased confidence in listening after the BU exercises. [→ Siegel 2015](#siegel-2015)
 `q2 i?` Students rated the BU activities positively on both enjoyment and perceived improvement. [→ Siegel 2015 (2)](#siegel-2015-2)
 
 ## Evidence

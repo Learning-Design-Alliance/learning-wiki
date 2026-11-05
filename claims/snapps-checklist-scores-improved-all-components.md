@@ -46,5 +46,5 @@ Preceptor-scored SNAPPS checklists (5-point scale per component) compared before
 
 
 ## Related Claims
-- [Probing the preceptor showed one of the largest behavioural changes, with residents actively asking questions after SNAPPS](snapps-probe-increases-resident-questions.md) — related
-- [SNAPPS-based case presentation improves post-test MCQ scores across all three pathology residency years](snapps-improves-mcq-scores-pathology-residents.md) — related
+- [Residents' probing-question scores rose from 3 to 4 from before to after SNAPPS, in one uncontrolled pre-post study](snapps-probe-increases-resident-questions.md) — related
+- [Post-test MCQ scores rose from pre-test to post-test across all three pathology residency years in one single-group pre-post study of SNAPPS-based case presentation](snapps-improves-mcq-scores-pathology-residents.md) — related

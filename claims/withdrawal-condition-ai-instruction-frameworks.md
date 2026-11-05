@@ -61,3 +61,4 @@ Theoretical argument in the conclusion of a design-proposal article. The authors
 - [Timing of support poses the assistance dilemma, and no empirically validated principles yet exist for when and how much support to give collaborating students](assistance-dilemma-timing-no-validated-principles.md) — related
 - [LLM use as a supplementary learning aid yields modest short-term knowledge gains (d = 0.31–0.71) that attenuate without durable retention](llm-shortterm-knowledge-gains-no-retention.md) — related
 - [AR training accelerates learning curves, with gains retained when AR is removed](ar-accelerates-learning-curve-retention.md) — a narrower finding that bears on this claim
+- [The evidence base for AI-assisted formative assessment is promising but uneven, concentrated in short-term single-setting studies](ai-formative-assessment-evidence-uneven-early.md) — related

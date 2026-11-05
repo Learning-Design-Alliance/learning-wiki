@@ -51,3 +51,4 @@ Subgroup comparison of pooled means by educational level across the three forest
 - [Spiritual intelligence is positively correlated with student achievement (pooled r = 0.36)](spiritual-intelligence-correlated-student-achievement.md) — related
 - Included studies show high heterogeneity (I2 = 94.5%), addressed with random effects modelling and meta-regression — related
 - [No significant main effects of gender or class, and no significant class-by-group interaction, on spiritual intelligence gains](no-gender-class-main-effects-webquest-spiritual-intelligence.md) — related
+- [Psilocybin occasioned experiences evaluated as having substantial and sustained personal meaning and spiritual significance](psilocybin-occasioned-mystical-experiences-hopkins.md) — related

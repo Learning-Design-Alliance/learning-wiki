@@ -42,9 +42,9 @@ Based on their findings, the authors recommend that "This kind of training shoul
 ## Claims
 
 - [Simulation-based training improved theoretical knowledge of intubation and videolaryngoscopy among ED residents (mean pretest 12.9/20 vs post-test 14.6/20, p<0.001)](../claims/simulation-improves-vl-intubation-theoretical-knowledge.md) [+W]
-- [Simulation training reduced the mean number of attempts for successful intubation (3.81 vs 1.84, p<0.001)](../claims/simulation-reduces-intubation-attempts.md) [+W]
-- [Simulation training reduced mean intubation time (149.81±108 sec before vs 51±96 sec after, p<0.001)](../claims/simulation-reduces-vl-intubation-time.md) [+W]
-- [Videolaryngoscopy enables shared visualisation between instructor and learner, supporting immediate corrections during intubation training](../claims/vl-shared-view-supports-instructor-feedback.md) [+W]
+- [The mean number of attempts for successful intubation decreased from 3.81 before simulation training to 1.84 after the session (p<0.001), in one group with no comparison group](../claims/simulation-reduces-intubation-attempts.md) [+W]
+- [Mean intubation time fell from 149.81±108 sec before to 51±96 sec after the simulation session in one uncontrolled pre-post study (p<0.001)](../claims/simulation-reduces-vl-intubation-time.md) [+W]
+- [The source described shared visualisation between instructor and learner and immediate corrections during videolaryngoscopy intubation training](../claims/vl-shared-view-supports-instructor-feedback.md) [+W]
 
 ## Related Strategies
 - 

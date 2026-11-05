@@ -80,3 +80,5 @@ Same gender t-test analysis; for positive AI attitudes the test was non-signific
 - [The indirect association between AI anxiety and academic motivation through emotion regulation is significant for both male and female students but stronger among male students](moderated-mediation-indirect-effect-stronger-male-students.md) — related
 - [Gender related to students' emotions but showed no significant effects on math grades, while intelligence and SES related positively to grades](covariates-gender-intelligence-ses-effects.md) — related
 - [Female participants reported significantly higher maths anxiety and general anxiety, while males reported higher maths self-efficacy and maths interest](sex-differences-maths-anxiety-motivation-means.md) — related
+- [Female EFL students report more positive and fewer negative achievement emotions than males, and age and home resources show distinct associations](gender-age-home-resources-emotion-associations.md) — related
+- [AI attitudes improve in all groups with no significant between-group differences](ai-attitudes-improve-all-groups-no-between-group-difference.md) — related

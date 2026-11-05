@@ -42,6 +42,7 @@ The article recommends integrating metacognitive instruction, assessment, and fe
 ## Related Strategies
 
 - [Integrate metacognitive strategy instruction across content areas and across before, during, and after phases of teaching](integrate-metacognition-before-during-after-lesson.md)
+- [Constructing a multi-dimensional evaluation system aligned with three-dimensional teaching objectives](multi-dimensional-evaluation-system-three-dimensional-objectives.md)
 
 ## Examples
 -

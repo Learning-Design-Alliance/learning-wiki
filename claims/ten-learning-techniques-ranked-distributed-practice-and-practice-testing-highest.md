@@ -9,7 +9,6 @@ generated:
   at: 2026-10-13
 evidence_strength: moderate
 newest_evidence: 2021
-source_checked: 2026-10-15
 sources:
   - id: donoghue-hattie-2021
     resource: "https://doi.org/10.3389/feduc.2021.581216"
@@ -26,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i2` medium · n=242 studies
-> **Currency** · newest study 2021 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 Relative effectiveness of the ten learning techniques Dunlosky et al. (2013) reviewed, re-analysed as a meta-analysis of the studies they cited.
 

@@ -46,7 +46,7 @@ Quasi-experimental within-subject study of 15 EFL third-year college students in
 
 
 ## Related Claims
-- [Lower-proficiency learners caught up with higher-proficiency peers on FS test performance after explicit instruction.](explicit-fs-instruction-benefits-lower-proficiency-learners.md) — related
+- [The mean FS test score gap between lower- and higher-proficiency learners narrowed from pre-test to post-test and delayed post-test after explicit instruction, in one uncontrolled pre-post study.](explicit-fs-instruction-benefits-lower-proficiency-learners.md) — related
 - [Explicit FS instruction increased learners' spontaneous use of taught FSs in writing, with 60% of taught FSs appearing in participants' writing.](explicit-fs-instruction-increases-spontaneous-fs-use.md) — related
 - [Advanced EFL learners exposed to TV-series video clips retained formulaic sequences at a significantly higher rate than learners receiving explicit instruction only](tv-clips-improve-fs-retention.md) — related
 - [Humorous video clips improve Iranian undergraduate EFL learners' idiom achievement compared with conventional instruction without clips](humorous-video-clips-improve-efl-idiom-achievement.md) — related

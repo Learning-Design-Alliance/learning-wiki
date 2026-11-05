@@ -51,3 +51,4 @@ A between-subject ANOVA on difference scores between the immediate and 6-h tests
 - [Anodal tDCS at left PMd, but not right PMd, during repetitive practice produces sleep-related offline gain similar to interleaved practice](left-pmd-tdcs-sleep-related-offline-gain.md) — related
 - [Early offline gain after interleaved practice is reduced by ctDCS: IP-Sham improves from final training block to the 5-min test while IP-ctDCS remains stable](ctdcs-reduces-early-offline-gain.md) — related
 - [ctDCS to M1 during interleaved practice does not disrupt subsequent offline consolidation, which proceeds similarly with and without stimulation](ctdcs-does-not-disrupt-consolidation.md) — related
+- [Repetitive delivery of similar teaching sessions consolidated peer teachers' anatomical knowledge](anatomy-ems-repetition-consolidates-knowledge.md) — related

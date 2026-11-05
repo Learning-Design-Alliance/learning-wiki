@@ -52,3 +52,4 @@ Quantile regression across the achievement distribution (Fig. 3), showing the ma
 - [Grade 8 reading scores in 2019 decreased across the performance distribution, with greater decreases at the 10th and 25th percentiles](naep-2019-grade-8-reading-declines.md) — related
 - [Optimal sleep duration varies by subject: about 8–9 hours for mathematics and 7–8 hours for Chinese, English, science, and arts](subject-specific-optimal-sleep-duration.md) — related
 - [Quantile regression estimates show little evidence of heterogeneous Mathematics Mastery treatment effects across the post-test score distribution](mathematics-mastery-quantile-regression-little-heterogeneity.md) — related
+- [Sleep variables explain only about 1% of variance in reading and mathematics scores](sleep-small-academic-variance.md) — related

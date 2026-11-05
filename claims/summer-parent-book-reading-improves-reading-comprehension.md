@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2014 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Pagan 2014: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i2` Children in the intervention condition had significantly higher post-test reading comprehension than control children (partial η² = 0.09). [→ Pagan 2014](#pagan-2014)

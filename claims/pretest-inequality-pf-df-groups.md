@@ -66,5 +66,5 @@ Independent t-test on pre-test productive vocabulary. The article reports the PF
 
 ## Related Claims
 - [Gains in receptive and productive vocabulary did not differ significantly between the paper-flashcard-with-VLS group and the digital-flashcard group](no-significant-difference-pf-vls-vs-df.md) — related
-- [Both paper-flashcard and digital-flashcard groups made significant productive vocabulary gains over the 12-week treatment](pf-df-significant-pv-gains.md) — related
-- [Both paper-flashcard and digital-flashcard groups made significant receptive vocabulary gains over a 12-week treatment](pf-df-significant-rv-gains.md) — related
+- [Productive vocabulary scores rose significantly from pre-test to post-test within both the paper-flashcard and digital-flashcard groups in the 12-week study](pf-df-significant-pv-gains.md) — related
+- [Receptive vocabulary scores rose significantly from pre-test to post-test within both paper-flashcard and digital-flashcard groups over 12 weeks](pf-df-significant-rv-gains.md) — related

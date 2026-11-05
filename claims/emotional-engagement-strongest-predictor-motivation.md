@@ -88,3 +88,4 @@ The cognition-based motivations sub-analysis included 116 effect sizes from 16 s
 - [Geographical region moderated several engagement-correlate relations, with Eastern students showing higher relations than Western students](region-moderates-engagement-correlate-relations.md) — related
 - [Emotional engagement is the strongest predictor of student well-being](emotional-engagement-strongest-predictor-well-being.md) — related
 - [Student online engagement (cognitive, emotional, behavioral) positively predicts learning performance and satisfaction](online-engagement-predicts-performance-satisfaction.md) — related
+- [Positive academic emotions strongly predict agentic engagement](pae-predict-agentic-engagement.md) — related

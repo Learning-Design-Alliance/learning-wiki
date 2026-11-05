@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Iranian pre-intermediate EFL learners taught with video-based tasks improved significantly in listening comprehension from pre-test to post-test, in a within-group test with no between-group comparison reported
-description: Iranian pre-intermediate EFL learners taught with video-based tasks improved significantly in listening comprehension from pre-test to post-test, in a within-group test with no between-group comparison reported
+title: "Iranian pre-intermediate EFL learners' listening comprehension scores rose significantly from pre-test to post-test after video-based tasks, in a within-group test with no between-group comparison reported"
+description: "Iranian pre-intermediate EFL learners' listening comprehension scores rose significantly from pre-test to post-test after video-based tasks, in a within-group test with no between-group comparison reported"
 id: video-based-tasks-improve-listening-comprehension
 status: review
 generated:
@@ -21,7 +21,7 @@ sources:
     rigour: 1
 ---
 
-# Iranian pre-intermediate EFL learners taught with video-based tasks improved significantly in listening comprehension from pre-test to post-test, in a within-group test with no between-group comparison reported
+# Iranian pre-intermediate EFL learners' listening comprehension scores rose significantly from pre-test to post-test after video-based tasks, in a within-group test with no between-group comparison reported
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

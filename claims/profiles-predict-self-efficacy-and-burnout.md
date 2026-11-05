@@ -54,3 +54,4 @@ BCH-adjusted Wald tests of Time 3 distal outcomes across profiles, accounting fo
 - [Maladaptive motivational profiles are associated with less time on task and lower cognitive task achievement](maladaptive-profiles-less-time-on-task-lower-achievement.md) — related
 - [General self-efficacy is positively associated with membership of the moderate- and high-level competency profiles, with a particularly strong association for the high-level profile](self-efficacy-high-level-competency-profile-membership.md) — related
 - [The three competency profiles diverge significantly in professional identity (F = 24.11, η2 = 0.17), supporting external validity of the profiles.](profiles-diverge-professional-identity-external-validity.md) — related
+- [Student characteristics such as race and gender identity were not strong predictors of resource-use profile membership; only two pairwise comparisons were significant.](few-demographic-predictors-resource-profiles.md) — related

@@ -53,3 +53,4 @@ Comparison of belonging by sub-discipline (biology vs physical sciences) among w
 - [A regional collective initiative (Teaching is My Favorite Color) provided teachers of color a safe space, belonging, and authentic identity expression](teaching-is-my-favorite-color-belonging-impact.md) — related
 - [Students who remain in STEM majors report greater sense of belonging than leavers, and lack of science identity distinguishes leavers](belonging-associated-with-persistence-science-identity-differentiates-leavers.md) — related
 - [Qualitative research shows marginalized students' sense of belonging depends on maintaining connections to their valued identities at school (self-concept fit)](self-concept-fit-qualitative-belonging.md) — related
+- [Cisgender men speak more during small-group or whole-class discussions, reinforcing perceptions of greater competence in STEM.](men-speak-more-discussions-competence-perceptions.md) — related

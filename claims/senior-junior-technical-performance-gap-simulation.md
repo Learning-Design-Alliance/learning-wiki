@@ -52,3 +52,5 @@ Descriptive synthesis of technical performance outcomes across included studies 
 - Studies finding unaltered performance under simulation stress tended to involve more experienced participants and smaller samples — related
 - [User performance differences favor more experienced participants in XR simulation, but not consistently across all metrics](xr-performance-favors-experienced-users.md) — a broader claim this one bears on
 - [A meta-analysis tends to show a minimal negative impact of resident participation in thyroidectomy procedures when adequately supervised.](resident-thyroidectomy-participation-minimal-impact.md) — related
+- [Significant gaps persist in perceived adequacy of rhinoplasty training exposure, with 72% of senior residents reporting adequate training versus only 13% of junior residents.](rhinoplasty-training-exposure-gap-senior-junior-residents.md) — related
+- [More senior trainees outperform junior residents on first attempt at simulated durotomy repair, supporting the simulator's validity](senior-surgeons-outperform-juniors-first-attempt-durotomy-simulator.md) — a narrower finding that bears on this claim

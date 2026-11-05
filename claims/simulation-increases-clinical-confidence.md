@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Clinical simulation significantly increases pre-health students' self-reported confidence in clinical identification and emergency skills."
-description: "Clinical simulation significantly increases pre-health students' self-reported confidence in clinical identification and emergency skills."
+title: "Pre-health students' self-reported confidence in clinical identification and emergency skills rose from pre-test to post-test after clinical simulation in one uncontrolled pre-post study."
+description: "Pre-health students' self-reported confidence in clinical identification and emergency skills rose from pre-test to post-test after clinical simulation in one uncontrolled pre-post study."
 id: simulation-increases-clinical-confidence
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Clinical simulation significantly increases pre-health students' self-reported confidence in clinical identification and emergency skills.
+# Pre-health students' self-reported confidence in clinical identification and emergency skills rose from pre-test to post-test after clinical simulation in one uncontrolled pre-post study.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

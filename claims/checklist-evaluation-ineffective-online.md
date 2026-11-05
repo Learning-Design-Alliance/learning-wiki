@@ -42,7 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 causal `r1`, 1 qualitative `r?` · `q2`
-> **Currency** · newest study 2026 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Checklist-based evaluation instruction does not reliably improve online source evaluation -->
 
 <!-- deprecated (2026-10-05, overstated its evidence): Teaching learners to evaluate online information via static checklists (e.g., source-evaluation rubrics applied to a single page) does not reliably produce sound evaluation of web sources. -->

@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Ramadoni 2022: groups were assigned but students were analysed as independent · Ramadoni 2022 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Majors' background significantly affected conceptual understanding, F(2,63)=5.77, p=.005, partial η2=.155, with natural science highest. [→ Ramadoni 2022](#ramadoni-2022)
@@ -72,3 +73,4 @@ Two-way ANOVA on self-efficacy: majors' background significant, "F(2,64)=4.63, p
 - [The Group by Major interaction on calculus achievement was not statistically significant](group-major-interaction-non-significant-flipped-calculus.md) — related
 - [No statistically significant difference in calculus achievement was found among students by major (medicine, applied medical science, engineering, computer science, science)](no-achievement-difference-by-major-flipped-calculus.md) — related
 - [Student background variables significantly affect learning motivation and demographic variables significantly affect learning achievement](background-demographic-variables-affect-motivation-achievement.md) — related
+- [Students from General Science and Agricultural Science SHS backgrounds had higher odds of belonging to higher GPA categories than Home Economics students](shs-science-background-higher-gpa-nursing-ghana.md) — related

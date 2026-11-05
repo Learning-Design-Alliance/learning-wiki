@@ -56,3 +56,4 @@ One-group pre-test/post-test study of 106 preregistration pharmacist trainees us
 - [Knowledge retention after simulation varies by item type: cellular and genetic concepts are less retained than procedural or physiological ones.](simulation-retention-varies-by-concept-type.md) — related
 - [A 3-day Ebola training workshop significantly increased health professionals' knowledge and confidence in caring for EVD patients](ebola-training-workshop-increased-knowledge-confidence.md) — related
 - [Knowledge gains declined significantly from post-training to 3-month follow-up while remaining above baseline](pr-knowledge-decline-at-3-months-above-baseline.md) — related
+- [Extremity tourniquet skill and self-confidence decline significantly at two months while remaining above baseline](extremity-tourniquet-skill-decay-two-months.md) — related

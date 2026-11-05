@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Tangkiengsirisin 2026: no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` All seven IMI sub-scales showed moderate motivation (M < 4.00), with effort/importance highest (M = 3.90) and perceived choice lowest (M = 3.52). [→ Tangkiengsirisin 2026](#tangkiengsirisin-2026)

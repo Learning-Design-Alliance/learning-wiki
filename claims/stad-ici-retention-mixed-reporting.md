@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Gambarı and Yusuf 2015: groups were assigned but students were analysed as independent · Gambarı and Yusuf 2015 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` The ANCOVA retention test main effect yielded F (1, 81) = 3.870, p = 0.053, which the Results section calls significant at the .05 alpha level. [→ Gambarı and Yusuf 2015](#gambar-and-yusuf-2015)

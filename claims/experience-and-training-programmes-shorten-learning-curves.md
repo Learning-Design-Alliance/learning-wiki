@@ -70,4 +70,8 @@ The review attributes this finding to Guend and colleagues, describing it as bas
 - [Time-based metrics dominate robot-assisted learning curve assessment, and recovery and safety metrics show substantially longer learning curves than operating time](time-metrics-dominate-safety-curves-longer.md) — related
 - [After completing the LEARNBOT training program, 40 previously RPD-inexperienced surgeons across 20 European centers performed 486 RPDs with outcomes comparable to established benchmarks](learnbot-feasibility-outcomes-486-rpd.md) — related
 - [Previous laparoscopic experience accelerates the RDP learning curve](prior-laparoscopic-experience-accelerates-rdp-learning.md) — related
+- [Over half (54%) of respondents with thoracic surgery as their main operating subspecialty had not fully performed a single RATS procedure](over-half-respondents-not-fully-performed-rats-procedure.md) — related
+- [No significant differences in procedural time or pre- and post-practice rubric scores between participants with and without previous probing experience](sbml-probing-no-experience-difference.md) — related
+- [RATS was performed in 71% of surveyed UK and ROI trainees' units, but only 16% of those units had a structured training programme in place](rats-performed-71-percent-units-only-16-percent-structured-programme.md) — related
+- [83% of respondents agreed that more robotic training is required before the completion of training](83-percent-respondents-more-robotic-training-required.md) — related
 

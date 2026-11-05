@@ -59,3 +59,4 @@ restricts score variance"
 - [ChatGPT answered unsupervised web-based MCQ assessments with a mean accuracy of 70% (range 35–100%)](chatgpt-wba-mcq-mean-70-percent.md) — related
 - [Students report learning from tutor-web quizzes: 53 of 60 surveyed students found last questions easier than first](student-survey-learning-quizzes.md) — related
 - [Engagement score, quiz completion rate, and assessment format independently predict answer accuracy in multivariate regression](multivariate-predictors-answer-accuracy.md) — related
+- [Participant performance in the SIAPeC Quiz varied widely, with correct response rates ranging from 0% to 100% across questions](siapec-quiz-performance-variation.md) — reports the opposite

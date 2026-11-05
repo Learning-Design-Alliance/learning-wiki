@@ -1,7 +1,7 @@
 ---
 type: claim
-title: CBPSI significantly improved problem solving performance of Grade 10 learners from pre-test to post-test
-description: CBPSI significantly improved problem solving performance of Grade 10 learners from pre-test to post-test
+title: Problem solving performance of Grade 10 learners rose significantly from pre-test to post-test after CBPSI, in one uncontrolled pre-post study
+description: Problem solving performance of Grade 10 learners rose significantly from pre-test to post-test after CBPSI, in one uncontrolled pre-post study
 id: cbpsi-improves-problem-solving-performance-grade-10
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# CBPSI significantly improved problem solving performance of Grade 10 learners from pre-test to post-test
+# Problem solving performance of Grade 10 learners rose significantly from pre-test to post-test after CBPSI, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

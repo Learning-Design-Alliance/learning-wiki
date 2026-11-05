@@ -54,3 +54,4 @@ The author's interpretation of score patterns across the 69-student cohort, offe
 - [Seven of nine readiness assurance questions achieved the maximum score during the t-RAT](seven-of-nine-max-t-rat.md) — related
 - [Students particularly value the IRAT and AES within the closing session for gauging their own knowledge and applying it to clinically pertinent scenarios.](students-value-irat-and-aes-in-closing-session.md) — related
 - [Team-based readiness assurance test scores significantly exceeded individual readiness assurance test scores in an interdisciplinary TBL session](t-rat-exceeds-i-rat-interdisciplinary-tbl.md) — a narrower finding that bears on this claim
+- [TBL sessions improved knowledge acquisition: tRAT and end-of-session test scores were significantly higher than iRAT scores (p < 0.0001).](tbl-improved-knowledge-acquisition-irat-comparison.md) — related

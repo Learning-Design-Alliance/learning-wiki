@@ -1,7 +1,7 @@
 ---
 type: claim
-title: MI-based instruction improved oral presentation skills of EFL pre-service teachers
-description: MI-based instruction improved oral presentation skills of EFL pre-service teachers
+title: Oral presentation skills test scores rose from pre-test to post-test after MI-based instruction among EFL pre-service teachers in a one-group pre-post study without a comparison group
+description: Oral presentation skills test scores rose from pre-test to post-test after MI-based instruction among EFL pre-service teachers in a one-group pre-post study without a comparison group
 id: mi-instruction-improves-oral-presentation-skills
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# MI-based instruction improved oral presentation skills of EFL pre-service teachers
+# Oral presentation skills test scores rose from pre-test to post-test after MI-based instruction among EFL pre-service teachers in a one-group pre-post study without a comparison group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
@@ -45,11 +45,11 @@ Same one-group pre-post quasi-experiment (n = 60). Oral presentation pretest M =
 
 
 ## Related Claims
-- [MI-based instruction improved overall EFL pre-service teacher speaking performance in a one-group pre-post design](mi-instruction-improves-efl-preservice-speaking-overall.md) — a broader claim this one bears on
-- [MI-based instruction improved the making-requests subskill of EFL pre-service teachers](mi-instruction-improves-making-requests-subskill.md) — related
-- [MI-based instruction improved the making-suggestions subskill of EFL pre-service teachers](mi-instruction-improves-making-suggestions-subskill.md) — related
-- [MI-based instruction improved the giving-advice subskill of EFL pre-service teachers](mi-instruction-improves-giving-advice-subskill.md) — related
+- [Overall EFL pre-service teacher speaking performance rose from pre-test to post-test after MI-based instruction, in one group with no comparison group](mi-instruction-improves-efl-preservice-speaking-overall.md) — a broader claim this one bears on
+- [Scores on the making-requests subskill rose from pre-test to post-test among EFL pre-service teachers in a single-group pre-post study following MI-based instruction](mi-instruction-improves-making-requests-subskill.md) — related
+- [Making-suggestions subskill scores among EFL pre-service teachers rose from pre-test to post-test after MI-based instruction, in one uncontrolled pre-post study](mi-instruction-improves-making-suggestions-subskill.md) — related
+- [Among EFL pre-service teachers, giving-advice scores rose from pre-test to post-test after MI-based instruction in one uncontrolled pre-post study](mi-instruction-improves-giving-advice-subskill.md) — related
 - [Sixth-grade EFL students taught through multiple intelligences activities showed a statistically significant pre-test to post-test improvement in essay writing scores](mi-activities-significant-within-group-writing-gain.md) — related
 - [At post-test, the multiple intelligences group significantly outperformed the traditionally instructed control group on the writing test](mi-group-outperformed-control-post-test-writing.md) — related
 - [Students aged 18-21 scored significantly higher than students aged 22-25 in spatial and musical intelligence](age-differences-spatial-musical.md) — related
-- [A writing workshop-based program significantly improves overall basic writing skills of prospective English teachers](writing-workshop-improves-basic-writing-skills-prospective-teachers.md) — related
+- [Overall basic writing skills test scores rose significantly from pre-test to post-test after a writing workshop-based program, in one uncontrolled pre-post study of prospective English teachers](writing-workshop-improves-basic-writing-skills-prospective-teachers.md) — related

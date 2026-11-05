@@ -47,8 +47,8 @@ Multilevel regression analysis of judgments from fourth-grade students (495 mult
 ## Related Claims
 - [Before self-scoring, the unskilled-and-unaware effect in regulation accuracy appears on multiplication but not on division tasks](unskilled-unaware-regulation-before-self-scoring-task-dependent.md) — related
 - [After self-scoring, the monitoring-accuracy gap between low- and high-performing students remains on multiplication (small) but disappears on division](unskilled-unaware-monitoring-after-self-scoring.md) — related
-- [Self-scoring improves primary students' monitoring accuracy on math problem-solving tasks to near-accurate levels](self-scoring-improves-monitoring-accuracy-math.md) — related
-- [Self-scoring improves regulation accuracy for the whole sample, but not significantly for low- and high-performing students on division tasks](self-scoring-regulation-accuracy-limited-division.md) — related
+- [Primary students' monitoring accuracy on math problem-solving tasks rose from pre-test to post-test after self-scoring and was near accurate in one single-group pre-post study](self-scoring-improves-monitoring-accuracy-math.md) — related
+- [Regulation accuracy rose from pre-test to post-test after self-scoring for the whole sample, but not significantly for low- and high-performing students on division tasks, in one single-group pre-post study](self-scoring-regulation-accuracy-limited-division.md) — related
 - [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — a broader claim this one bears on
 - [In this sample the best-performing university students calibrated slightly worse than the lowest-performing students, so no unskilled-and-unaware effect was supported](best-performers-calibrated-worse-no-unskilled-unaware.md) — related
 - [High achievers are more accurate than low achievers in metacognitive monitoring and controlling during test taking](high-achievers-more-accurate-metacognitive-monitoring-control.md) — related

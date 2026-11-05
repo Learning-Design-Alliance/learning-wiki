@@ -41,7 +41,7 @@ The article's educational implications call on institutions, funders, teachers a
 
 ## Claims
 
-- [ANOVA across the total sample favoured post-intervention outcomes of the multimedia programme](../claims/anova-favours-post-intervention-multimedia-environmental-outcomes.md) [+W]
+- [Outcomes across the total sample rose from pre-test to post-test after the multimedia programme, in one pre-post study without a comparison group](../claims/anova-favours-post-intervention-multimedia-environmental-outcomes.md) [+W]
 - [Secondary school students' environmental sustainability achievement scores rose significantly after the multimedia programme](../claims/multimedia-raises-school-students-environmental-sustainability-scores.md) [+W]
 - [University students' environmental sustainability achievement scores rose significantly after the multimedia programme](../claims/multimedia-raises-university-students-environmental-sustainability-scores.md) [+W]
 - [No significant difference in achievement was found between school and university students after the programme](../claims/no-significant-difference-school-university-achievement-multimedia.md) [+W]

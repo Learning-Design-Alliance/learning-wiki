@@ -47,4 +47,4 @@ Pearson correlation analyses in the same cohort found "correlated positively wit
 ## Related Claims
 - [SPST pre-test and post-test scores show a moderate positive correlation](spst-pretest-posttest-correlation.md) — related
 - [Pre- and post-test scores are positively correlated in the whole sample (r=0.63, p<0.01) and in the middle school subsample (r=0.63, p<0.01)](pre-post-test-correlation-computational-fluency.md) — related
-- [Peer instruction was associated with a statistically significant short-term improvement in performance scores among first-year osteopathic medical students in a preclinical microbiology session.](pi-improves-short-term-performance-osteopathic-microbiology.md) — related
+- [Performance scores rose significantly from pre-test to post-test after peer instruction, in one uncontrolled pre-post study of first-year osteopathic medical students in a preclinical microbiology session.](pi-improves-short-term-performance-osteopathic-microbiology.md) — related

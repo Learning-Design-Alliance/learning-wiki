@@ -53,3 +53,4 @@ Factor analytic procedures on both pre- and post-test data yielded the same seve
 - [The attitude questionnaire showed high Cronbach's Alpha reliability in both groups](attitude-questionnaire-high-reliability-both-groups.md) — related
 - [Teachers' perceptions of the importance of the seven holistic leadership dimensions remained stable from pre-test to post-test.](importance-perceptions-stable-across-tests.md) — related
 - [The intervention programme likely had a significant influence on teachers' perceptions of principals' competence, as 93% of post-test competence variance was attributable to other variables.](intervention-influence-on-competence-perceptions.md) — related
+- [The ICCAS showed satisfactory internal consistency in this study despite slight post-test declines in some domains](iccas-reliability-satisfactory-post-test-declines.md) — related

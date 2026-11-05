@@ -52,3 +52,4 @@ Quasi-experimental pretest–posttest study (Wong et al. 2022, Hawaii) convertin
 - [Interprofessional mass casualty incident simulation increased disaster-response confidence in 96% of participating pre-licensed nursing students](mass-casualty-simulation-confidence.md) — related
 - [Adding a tabletop exercise to lecturing produced consistently greater improvements in nurses' disaster preparedness than lecturing alone](tabletop-plus-lecture-beats-lecture-alone.md) — related
 - [Telemedicine and in-person disaster preparedness courses both increased knowledge, with no significant difference in posttest scores between modalities](telemedicine-in-person-disaster-course-equivalent-posttest.md) — related
+- [Most students self-reported that their interprofessional collaboration ability was better after the program, in one single-group pre-post study](sbl-global-perceived-improvement-item.md) — related

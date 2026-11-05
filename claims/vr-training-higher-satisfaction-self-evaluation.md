@@ -1,7 +1,7 @@
 ---
 type: claim
-title: VR-based training received significantly higher ratings for learning satisfaction and self-evaluation than conventional training
-description: VR-based training received significantly higher ratings for learning satisfaction and self-evaluation than conventional training
+title: In one group measured before and after, learning satisfaction and self-evaluation ratings were significantly higher after VR-based training than after conventional training
+description: In one group measured before and after, learning satisfaction and self-evaluation ratings were significantly higher after VR-based training than after conventional training
 id: vr-training-higher-satisfaction-self-evaluation
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# VR-based training received significantly higher ratings for learning satisfaction and self-evaluation than conventional training
+# In one group measured before and after, learning satisfaction and self-evaluation ratings were significantly higher after VR-based training than after conventional training
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -47,7 +47,7 @@ Primary outcome domains F and G in the within-participants comparison of 20 stud
 ## Related Claims
 - [Conventional training received significantly higher ratings for perceived realism and immersion than VR-based training (r=0.774)](conventional-training-higher-realism-immersion.md) — related
 - [VR-based training with radiation field visualization received significantly higher ratings for radiation understanding and visualization than conventional training (r=0.878)](vr-radiation-visualization-higher-understanding-ratings.md) — related
-- [VR-based training received significantly higher ratings for medical safety awareness and radiation protection than conventional training (r=0.856)](vr-training-higher-safety-awareness-ratings.md) — related
+- [Students' ratings for medical safety awareness and radiation protection rose significantly from pre-test to post-test after VR-based training in one single-group pre-post study with no comparison group (r=0.856)](vr-training-higher-safety-awareness-ratings.md) — related
 - [No significant differences between VR-based and conventional training in operational understanding, technical skills, or system usability](no-difference-operational-skills-usability.md) — related
 - [AIfred users report higher perceived learning support, innovation, satisfaction, and cognitive demand, with no difference in perceived productivity](aifred-user-experience-ratings.md) — related
 - [VR sickness in the system is minimal overall (SSQ total 12.88), with nausea lowest and oculomotor symptoms most significant](photon-fusion-minimal-vr-sickness-ssq.md) — related

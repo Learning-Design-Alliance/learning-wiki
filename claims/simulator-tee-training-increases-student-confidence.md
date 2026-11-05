@@ -84,6 +84,6 @@ Phase 2 paired t-test analysis of 42 first-year medical students' confidence sur
 
 ## Related Claims
 - [Students with more prior ultrasound experience show larger confidence gains from TEE simulator training](prior-ultrasound-experience-moderates-tee-confidence-gains.md) — related
-- [Simulator-based TEE training significantly improves medical students' TEE knowledge scores](simulator-tee-training-improves-student-knowledge.md) — related
+- [Medical students' TEE knowledge scores rose from pre-test to post-test after simulator-based TEE training, in a single-group pre-post study](simulator-tee-training-improves-student-knowledge.md) — related
 - [Simulator-based TEE training is feasible for larger cohorts of early medical students](tee-simulator-training-feasible-large-cohorts.md) — a broader claim this one bears on
 - [All participants successfully demonstrated TEE skills after simulator-based training](simulator-tee-training-skills-mastery.md) — related

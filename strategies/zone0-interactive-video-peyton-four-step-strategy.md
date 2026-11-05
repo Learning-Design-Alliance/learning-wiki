@@ -50,7 +50,9 @@ The article's zone 0 session is an implementable recipe: an approximately 30-min
 - [Immediately after zone 1 training, competence did not differ significantly between groups despite 100% vs 84% competence](../claims/zone0-iv-cpr-competence-immediate-nonsignificant.md) [~M]
 
 ## Related Strategies
-- 
+
+- [Structure simulation training in four sequential phases: video instruction, expert demonstration, supervised practice, and formative feedback](four-phase-ldsrs-simulation-training-protocol.md)
+- [Structure a simulation-based mastery learning program as sequential steps: video tutorial, MCQ with feedback, supervised practice, then repeated self-directed practice with video-based assessment](sbml-sequential-training-protocol-probing.md)
 
 ## Examples
 -

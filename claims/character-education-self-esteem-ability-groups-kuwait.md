@@ -67,5 +67,5 @@ Two-way within-between ANOVA on RSS scores found a significant interaction betwe
 - [Gender differences in self-esteem change under character education: boys increased while girls decreased](character-education-gender-differences-self-esteem.md) — related
 - [The main effect of character education program on self-esteem was non-significant compared to traditional instruction](character-education-main-effect-non-significant.md) — related
 - [The gap in self-esteem between intellectually able and less able students narrowed after character education](character-education-narrowed-ability-gap-self-esteem.md) — related
-- [The traditional instructional program was associated with a decrease in self-esteem for intellectually less able students](traditional-instruction-self-esteem-decline-less-able.md) — related
+- [Self-rated self-esteem among intellectually less able students fell from pre-test to post-test in one single-group pre-post study of the traditional instructional program](traditional-instruction-self-esteem-decline-less-able.md) — related
 - [Both girls and boys achieved pedagogically significant self-esteem gains despite pre-test baseline differences, with the educator's gender showing no effect](self-esteem-gains-both-genders-male-educator.md) — related

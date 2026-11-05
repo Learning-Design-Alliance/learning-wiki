@@ -69,6 +69,6 @@ Repeated-measures ANOVA on the interprofessional scenario in the same trial. Sco
 - [MPathic-VR-trained students achieve significantly higher composite scores than computer-based learning students on a subsequent advanced communication OSCE, several days later](mpathic-vr-osce-composite-transfer.md) — related
 - [Students trained with MPathic-VR report significantly more positive attitudes toward their learning experience than computer-based learning students](mpathic-vr-more-positive-attitudes.md) — related
 - [MPathic-VR training produces a significant advantage on the OSCE nonverbal communication scale, suggesting particular value for acquiring nonverbal skills](mpathic-vr-nonverbal-osce-advantage.md) — related
-- [VR-based training received significantly higher ratings for learning satisfaction and self-evaluation than conventional training](vr-training-higher-satisfaction-self-evaluation.md) — related
+- [In one group measured before and after, learning satisfaction and self-evaluation ratings were significantly higher after VR-based training than after conventional training](vr-training-higher-satisfaction-self-evaluation.md) — related
 - [Conventional training received significantly higher ratings for perceived realism and immersion than VR-based training (r=0.774)](conventional-training-higher-realism-immersion.md) — related
 - [Repeated brief VR exposures reduced state anxiety during the first two practice sessions.](vr-practice-sessions-reduce-state-anxiety.md) — related

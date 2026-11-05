@@ -52,3 +52,4 @@ The same 96-paper systematic review reports challenges alongside opportunities. 
 - [Legal and technical issues are described as the main challenges of developing and using virtual patients](vp-challenges-legal-technical.md) — related
 - [Substantial technical problems with the adapted software prevented full implementation and drove school withdrawal](tutoring-with-alphie-software-problems-prevented-implementation.md) — related
 - [Students' critical remarks identified pedagogical shortcomings and technological challenges, and the authors suggest implementation problems may explain the limited quantitative differences](implementation-problems-explain-limited-interest-differences.md) — related
+- [Educators found AR presented more challenges than benefits for anatomy education, citing hardware instability and inadequate anatomical detail compared to cadaveric specimens](ar-more-challenges-than-benefits-anatomy.md) — a narrower finding that bears on this claim

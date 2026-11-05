@@ -50,3 +50,4 @@ Authors' concluding interpretation of the pilot evaluation; no objective learner
 - [In a paired crossover study, the AIPatient GenAI system matched or exceeded human-simulated patients on emotional realism, technical reliability, and clinical reasoning support](aipatient-matches-or-exceeds-human-simulated-patients.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
 - [Phase VI AI-enabled systems face six documented challenges: explainability, hallucination risk, prompt sensitivity, computational cost, validation complexity, and limited large-scale evidence](phase-vi-ai-systems-six-challenges.md) — related
+- [Iterative prompt refinement and expert pilot-testing may partly explain favorable LLM virtual patient output quality](iterative-prompt-refinement-expert-testing-improves-output.md) — related

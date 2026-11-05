@@ -52,3 +52,4 @@ Quasi-experimental two-groups pretest-posttest design with an untreated control 
 - [WebQuest instruction does not significantly change 7th-graders' attitudes towards science compared with classical teaching](webquest-no-gain-attitude-towards-science.md) — related
 - [WebQuest-based instruction improves 7th-grade science achievement more than classical curriculum-based teaching](webquest-improves-science-achievement-grade-7.md) — related
 - [WebQuest instruction shows no significant immediate effect on ninth-grade mathematics achievement at posttest](webquests-no-immediate-achievement-effect.md) — related
+- [Psilocybin occasioned experiences evaluated as having substantial and sustained personal meaning and spiritual significance](psilocybin-occasioned-mystical-experiences-hopkins.md) — related

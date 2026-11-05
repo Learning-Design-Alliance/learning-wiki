@@ -70,7 +70,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 6 studies · 3 causal `r2`, 3 quant-synthesis `r?` · `q3`–`q4` · `i2`–`i3`
-> **Currency** · newest study 2022 · 3 of 6 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2022 · 2 of 6 entries checked against their sources (automated) · not reviewed by a person
 
 Practicing or reviewing material across multiple sessions separated in time produces stronger long-term retention than concentrating the same amount of practice into a single session (massed practice).
 

@@ -46,6 +46,6 @@ Two-way ANOVA main effect test. The character education group's overall self-est
 
 ## Related Claims
 - [Character education activities improved self-esteem of intellectually less able students but decreased self-esteem of intellectually able students](character-education-self-esteem-ability-groups-kuwait.md) — related
-- [The traditional instructional program was associated with a decrease in self-esteem for intellectually less able students](traditional-instruction-self-esteem-decline-less-able.md) — related
+- [Self-rated self-esteem among intellectually less able students fell from pre-test to post-test in one single-group pre-post study of the traditional instructional program](traditional-instruction-self-esteem-decline-less-able.md) — related
 - [The gap in self-esteem between intellectually able and less able students narrowed after character education](character-education-narrowed-ability-gap-self-esteem.md) — related
 - [Building Decision Skills plus service learning showed no statistically significant effects on self-esteem, general social responsibility, or anticipated community participation](bds-null-self-esteem-general-responsibility.md) — related

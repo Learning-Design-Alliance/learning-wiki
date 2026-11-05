@@ -53,3 +53,6 @@ Multi-cohort quasi-experiment with historical control (2023 LBL n=21; 2024/2025 
 - [Differences among the six novel teaching strategies are minor, and in pairwise meta-analysis only BOPPPS and SBL significantly beat LBL on all three outcomes](minor-differences-among-novel-strategies-pairwise.md) — related
 - [BOPPPS/FC-CBL residents self-rated their teamwork and clinical thinking higher than LBL residents on a five-point questionnaire](boppps-fc-cbl-higher-teamwork-clinical-thinking.md) — related
 - [BOPPPS/FC-CBL group achieves significantly higher clinical case evaluation scores than LBL group](boppps-fc-cbl-higher-clinical-case-scores-than-lbl.md) — related
+- [AI-assisted CBL+FC residents significantly outperform lecture-based controls on post-course theoretical knowledge tests](ai-assisted-cbl-fc-higher-theoretical-scores.md) — related
+- [CBL-FC students achieve significantly higher post-intervention test scores than LBL students in pulmonary imaging education](cbl-fc-higher-post-test-scores-pulmonary-imaging.md) — related
+- [Baseline test scores did not differ significantly between the CBL-FC and LBL groups](cbl-fc-lbl-baseline-equivalence-untested.md) — related

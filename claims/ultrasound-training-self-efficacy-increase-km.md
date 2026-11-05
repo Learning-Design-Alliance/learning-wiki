@@ -47,6 +47,7 @@ Paired t-test analysis of 105 KM students' pre- and post-practice self-efficacy 
 ## Related Claims
 - [Neither self-assessment, self-efficacy change, nor self-video activity was significantly associated with OSCE performance in novice ultrasound training](no-quantitative-predictors-of-osce-ultrasound.md) — related
 - [Students perceived instructor's supportive guidance and portable ultrasound practicality as key features of the learning environment](supportive-guidance-portable-ultrasound-environment.md) — related
-- [Participation in the BOPPPS-PBL course is associated with a modest increase in general self-efficacy among newly recruited nurses](boppps-pbl-course-self-efficacy-increase.md) — related
+- [Self-rated general self-efficacy scores rose modestly from before to after the BOPPPS-PBL course among newly recruited nurses in one uncontrolled pre-post study](boppps-pbl-course-self-efficacy-increase.md) — related
 - [Median self-confidence in performing US-guided peripheral venous access increased from 5 to 8 after the brief training](us-training-confidence-5-to-8.md) — related
-- [SMART VHV Plus Model training was associated with a statistically significant competency gain from 86.14% to 98.16% (Cohen's d = 1.96)](smart-vhv-plus-model-significant-competency-gain.md) — related
+- [Competency scores rose significantly from 86.14% to 98.16% after SMART VHV Plus Model training, in one uncontrolled pre-post study (Cohen's d = 1.96)](smart-vhv-plus-model-significant-competency-gain.md) — related
+- [Training-related factors positively influenced confidence and performance](training-factors-boost-confidence-and-performance.md) — a broader claim this one bears on

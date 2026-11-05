@@ -50,3 +50,4 @@ Authors' stated limitation of the single-group, post-intervention pilot design (
 - [Healthcare professionals perceive AR smart glasses with real-time remote guidance as generally usable and acceptable in simulated pediatric bladder catheterization](ar-smart-glasses-favorable-usability-simulated-catheterization.md) — related
 - [Simulation interventions showed positive usability and feasibility, with technical preparation needs sometimes causing non-completion](usability-feasibility-technical-issues.md) — related
 - [STORY MINE is rated feasible and acceptable as a supplement to specialized mental health care, with positive user-friendliness ratings](story-mine-feasible-acceptable-pilot.md) — related
+- [The study's single-center, no-control-group, cross-sectional design limits attribution of positive perceptions to the Mini-CEX integration](single-center-no-control-design-limits-attribution.md) — a narrower finding that bears on this claim

@@ -48,5 +48,5 @@ Pearson correlation analysis in the phase 1 study of 100 cytotechnologists. High
 - [Shorter total fixation duration on the low-power field main object is the sole independent predictor of high diagnostic accuracy](lpf-fixation-duration-sole-independent-predictor-accuracy.md) — a narrower finding that bears on this claim
 - [Training increases students' focus on LPF main object targets and HPF cytoplasm](training-increases-focus-on-target-aois.md) — related
 - [Years of experience correlate positively with gaze metrics on sample information review](experience-correlates-sample-information-review.md) — related
-- [Training decreases students' time to first fixation on targets, indicating faster target acquisition](training-decreases-time-to-first-fixation-targets.md) — related
+- [Students' time to first fixation on targets fell from pre-test to post-test after a 3-month training program, in one uncontrolled pre-post study](training-decreases-time-to-first-fixation-targets.md) — related
 - [High-accuracy cytotechnologists show shorter examination time, less background dwell, and faster HPF cytoplasm detection than low-accuracy peers](high-accuracy-group-faster-search-patterns.md) — related

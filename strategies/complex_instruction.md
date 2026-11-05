@@ -64,6 +64,7 @@ CI treats unequal participation as a status problem to be engineered away, not a
 - [Collaborative Learning](../patterns/collaborative-learning.md) — the broader family CI belongs to
 - [Discussion-Based Learning](../principles/collaborative-learning.md) — whole-class debriefs extend group reasoning
 - [Assign adult learners to heterogeneous cooperative learning groups mixing ability, ethnicity, gender, perspective, and language](heterogeneous-grouping-adult-cooperative-learning.md)
+- [Actively address status hierarchies through the multiple abilities intervention and the assigning competence intervention.](status-interventions-multiple-abilities-assigning-competence.md)
 
 ## Related Elements
 - [Assigned Positions](../elements/assigned-positions.md) — the role structure that creates interdependence

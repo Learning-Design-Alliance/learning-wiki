@@ -66,3 +66,4 @@ Thematic analysis of semi-structured interviews with 20 adult learners, prompted
 - [Hybrid models combining SDVT with real-time feedback may enhance learner autonomy while maintaining instructional oversight](hybrid-sdvt-rt-feedback-benefits.md) — related
 - [The combination of e-mentoring and in-class self-evaluation encouraged sustained engagement in outside-of-class learning activities](e-mentoring-self-evaluation-sustained-engagement.md) — related
 - [AI applications in clinical education enhance learner engagement, flexibility, feedback, and objective competency assessment](ai-enhances-engagement-feedback-assessment-clinical-education.md) — related
+- [Students rate the GPT companion's formative assessment features highly, including question quality, feedback usefulness, and critical thinking support](positive-perceptions-formative-assessment-features-gpt-companion.md) — related

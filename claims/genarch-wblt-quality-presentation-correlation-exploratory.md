@@ -48,3 +48,4 @@ Exploratory team-level Spearman correlations between WBLT subscale scores (Learn
 ## Related Claims
 - [Blinded panel ratings of design presentations did not differ significantly between GenARch and Control teams](genarch-panel-presentation-no-significant-difference.md) — related
 - [Self-reported perceived quality is largely decoupled from quiz performance in AI-generated educational interactive fiction](if-quality-ratings-decoupled-from-quiz-performance.md) — related
+- [Group-level knowledge scores correlate perfectly and negatively with self-perceived competence across six profession × training strata](knowledge-confidence-spearman-negative-strata.md) — related

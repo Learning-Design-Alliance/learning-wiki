@@ -60,9 +60,9 @@ The design is a single group of 21 students tested before and after, with no com
 - [Students' explanation (argument, presentation) levels improved after the intervention, though gains were smaller than in vocabulary](explanation-levels-improve-post-test.md) — related
 - [Students' Domain interest increased largely across a short introductory teaching course (Cohen's d = 2.07).](domain-interest-large-increase-short-course.md) — related
 - [Tablet use is positively associated with student satisfaction and engagement](tablet-use-satisfaction-engagement.md) — related
-- [Students mastered significantly more game words each successive week of the four-week intervention](mastered-game-words-increase-weekly.md) — related
+- [The number of game words students mastered rose significantly from week 1 to week 4 during the four-week intervention, in one uncontrolled pre-post study](mastered-game-words-increase-weekly.md) — related
 - [Sixth-grade students in a Puerto Rican public school who played My English Coach in class showed significant pre-post growth in English receptive vocabulary, but so did a same-school control class that did not play it, while an external control group did not](videogame-classroom-vocabulary-gains-puerto-rico.md) — related
-- [Students given more control spent significantly more weekly time on listening practice, indicating greater effort and autonomy](learner-control-increases-listening-practice-time.md) — related
+- [Experimental-group students' weekly listening-practice time rose significantly from before to during the experiment, measured within that group](learner-control-increases-listening-practice-time.md) — related
 - [Within the task-based group, technical vocabulary scores rose significantly from pre-test to post-test](tblt-group-prepost-vocabulary-gain.md) — related
 - [Multimedia learning delivered in an integrated text, picture, and sound mode improved third-grade Thai pupils' achievement in size of vocabulary knowledge](multimedia-improves-size-vocabulary-thai-third-grade.md) — related
 - [The treatment group's vocabulary size increased significantly from pre-test to post-test, by about 17 correct answers](treatment-group-significant-prepost-vocabulary-gain.md) — related

@@ -50,3 +50,5 @@ Qualitative thematic analysis of reflective narratives from 103 students, coded 
 - [Virtual simulation fosters clinical reasoning and psychomotor skills in a safe, realistic environment with immediate feedback](virtual-simulation-safe-environment-immediate-feedback-claim.md) — a broader claim this one bears on
 - [VR communication training faces challenges of scenario realism, lack of clinical urgency in virtual characters, and language barriers](vr-communication-training-challenges-realism-urgency-language.md) — related
 - [Students reported limitations of community care simulation in session timing, preparation, facilitator support, performance anxiety and limited participation](ccs-perceived-limitations-timing-preparation-anxiety.md) — related
+- [Most participants held positive perceptions of the training programme immediately after completing it](rvt-positive-post-programme-perceptions.md) — related
+- [Nursing students perceive simulation-based BLS scenarios as realistic and clinically relevant, which enhances their understanding of BLS procedures and readiness for emergencies](simulation-bls-perceived-realism-clinical-relevance.md) — related

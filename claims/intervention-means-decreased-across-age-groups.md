@@ -27,7 +27,7 @@ sources:
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` The article reports the intervention was effective for students across different age groups, with mean problem values decreasing after the intervention for 12-, 13- and 14-year-olds. [→ Abed 2016](#abed-2016)
+`q2 i?` The article reports that mean problem scores decreased from pre-test to post-test after the intervention for students aged 12, 13 and 14 years, in one group with no comparison group. [→ Abed 2016](#abed-2016)
 
 ## Evidence
 

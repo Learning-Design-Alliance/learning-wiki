@@ -41,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 3 causal `r?` · `q3`
-> **Currency** · newest study 2010 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 

@@ -50,3 +50,4 @@ Weighted pooled success rates by tooth type from the three‐study meta‐analys
 - Only 4 of 11 studies (36.4%) of student root canal treatment had low risk of bias — related
 - [Student clinic success rates do not differ significantly from those reported for experienced clinicians and residents](student-outcomes-comparable-specialist-practice.md) — related
 - [Root canal treatment by undergraduate students succeeds more often in teeth with vital pulps (87.8%) than necrotic pulps (65.6%)](student-rct-vital-vs-necrotic-success.md) — related
+- [Self-confidence in molar endodontics decreases across educational stages while confidence in anterior and premolar teeth increases](dental-confidence-molars-decrease-anterior-premolars-increase.md) — related

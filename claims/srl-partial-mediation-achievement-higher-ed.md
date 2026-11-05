@@ -51,3 +51,4 @@ MASEM analysis pooling correlations across studies of SRL interventions, SRL act
 - [Task motivation and time on task are proposed as factors potentially influencing SRL intervention effectiveness](task-motivation-time-on-task-moderators-hypothesis.md) — related
 - [The authors hypothesize that self-regulated learning acts as a mediating factor linking video annotation advantages to acting performance improvement](srl-hypothesized-mediator-video-annotation-acting.md) — related
 - Partial least squares structural equation modelling was used to test the research model and hypotheses — related
+- [Self-regulated learning partially mediates the effect of perceived teacher support on learning achievement.](srl-partially-mediate-teacher-support-achievement.md) — related

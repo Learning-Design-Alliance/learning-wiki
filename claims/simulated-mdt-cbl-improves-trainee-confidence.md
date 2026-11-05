@@ -53,3 +53,6 @@ Educational pilot study (Mackay et al., 2024) with 11 oncology and 8 respiratory
 - All eligible postgraduate CBL studies had serious methodological flaws identified by CASP appraisal, limiting the validity and reliability of their conclusions — related
 - [Case-based learning is viewed positively by practicing doctors, with all eligible postgraduate studies reporting favourable perceptions](cbl-viewed-positively-practicing-doctors.md) — related
 - [A case-based learning module on pediatric bacterial meningitis produced statistically significant pre/post knowledge gains in postgraduate learners](cbl-pediatric-meningitis-knowledge-gains.md) — related
+- [CBE-MDT teaching yields higher trainee satisfaction than traditional teaching](cbe-mdt-higher-satisfaction-radiation-oncology.md) — related
+- [Simulation-based PBLS training increases caregiver confidence and satisfaction with training](simulation-pbls-increases-caregiver-confidence.md) — related
+- [CBE-MDT teaching improves final exam scores compared with traditional teaching in radiation oncology rotations](cbe-mdt-improves-exam-scores-radiation-oncology.md) — related

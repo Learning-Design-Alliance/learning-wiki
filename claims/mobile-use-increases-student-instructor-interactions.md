@@ -47,6 +47,6 @@ Qualitative finding from classroom observations, student surveys and the two-hou
 ## Related Claims
 - [Regular classroom use of mobile devices with 3G was associated with higher total course achievement scores than the lecture-only section](mobile-3g-use-higher-achievement-scores.md) — related
 - [Mobile-3G classroom use produced off-task use, network difficulties and classroom-design problems, and network troubles were linked to reduced student liking](mobile-classroom-issues-off-task-network-design.md) — reports the opposite
-- [A term of regular mobile-3G classroom use increased student confidence and decreased anxiety, while liking and general usefulness showed no significant change](mobile-use-confidence-anxiety-attitude-changes.md) — related
+- [Within the mobile-3G classroom group, self-reported student confidence rose and self-reported anxiety fell from pre-test to post-test over a term of regular use, while self-reported liking and general usefulness showed no significant change](mobile-use-confidence-anxiety-attitude-changes.md) — related
 - [Mobile-3G use in class was observed to increase student engagement and involvement in learning activities](mobile-use-increases-classroom-engagement.md) — related
 - [In mobile-3G classrooms the lecturer's role shifted from presenter of knowledge to facilitator of learning, requiring altered planning and class structure](mobile-use-shifts-lecturer-to-facilitator.md) — related

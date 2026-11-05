@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 139 claims (110 show a difference, 19 mixed, 10 no difference) · 117 studies (44 causal, 26 review, 14 qualitative, 11 quant-synthesis, 9 associational, 8 design, 5 theoretical), `q1`–`q3` · 11 of 117 report an effect size · 139 claims rest on one study
+> **Evidence** · 140 claims (111 show a difference, 19 mixed, 10 no difference) · 118 studies (44 causal, 26 review, 15 qualitative, 11 quant-synthesis, 9 associational, 8 design, 5 theoretical), `q1`–`q3` · 11 of 118 report an effect size · 140 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -66,7 +66,7 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [PLI students digitally collaborated significantly more than non-PLI students with the same technology access, and digital collaboration had a small significant association with SBAC scores](../claims/pli-digital-collaboration-associated-with-scores.md) [+M] — learners who differ on it differ in outcomes
 - [Prospective teachers' qualitative feedback credited CCCT with communication, teamwork and engagement gains but noted unequal participation and time constraints](../claims/ccct-qualitative-strengths-challenges.md) [~W] — instruction changes it
 - [Research in language classes suggested cooperative learning was better than whole-class instruction for language skills and produced more student turns than teacher-centered classes](../claims/cooperative-learning-language-class-outcomes.md) [+M] — instruction changes it
-- [Role design facilitates transitions among higher-order collaborative behaviors in human-GAI collaboration](../claims/role-design-facilitates-higher-order-behavior-transitions.md) [+W] — instruction changes it
+- [Transitions among higher-order collaborative behaviors were observed from pre-test to post-test after role design in human-GAI collaboration, in one group with no comparison group](../claims/role-design-facilitates-higher-order-behavior-transitions.md) [+W] — instruction changes it
 - [Schools where staff maintain strong relationships and collaborate frequently are more effective in supporting student learning and well-being, and collaboration and teacher leadership approaches contribute to staff retention](../claims/staff-collaboration-effectiveness-retention.md) [+M] — learners who differ on it differ in outcomes
 - [Several collaboration activities show promise in spreading effective practices across schools and staff, but overall progress in increasing collaboration has been limited](../claims/district-charter-collaboration-progress-limited-despite-promising-activities.md) [~M] — instruction changes it
 - [Several collaboration activities show promise in spreading effective practices, but overall progress in increasing collaboration has been limited](../claims/collaboration-progress-limited-despite-promise.md) [~M] — instruction changes it
@@ -181,6 +181,7 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Without teamwork supports, lack of trust creates individualistic learning and withdrawal; a low-key norming intervention improved teamwork through psychological safety](../claims/cbl-teamwork-supports-psychological-safety.md) [+M] — measured as an outcome of the instruction studied
 - [Cooperative learning swimming teaching produced the best social adaptability outcomes, especially peer interaction and collective integration](../claims/cooperative-learning-swimming-social-adaptability.md) [+M] — measured as an outcome of the instruction studied
 - [Participants most cited improved teamwork and exposure to rare clinical scenarios as key benefits](../claims/simulation-participants-valued-teamwork-and-rare-scenario-exposure.md) [+M] — measured as an outcome of the instruction studied
+- [Joint team-based training during single-port transition clarifies role-specific constraints and improves collaborative problem-solving](../claims/joint-sp-team-training-shared-mental-models.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

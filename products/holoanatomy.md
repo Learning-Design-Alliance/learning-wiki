@@ -29,7 +29,8 @@ HoloAnatomy is a mixed-reality anatomy-learning software platform developed by C
 - [Students perceived the educational value of HoloLens as dependent on usability, learner control, and curricular integration](../claims/hololens-value-depends-on-implementation.md) [~W]
 
 ## Related Products and Programmes
--
+
+- [Augmedicine: Ultrasound](augmedicine-ultrasound.md)
 
 ## Key Sources
 - Lin Joseph, Ghazi Sarmad, Kuss Ethan, Shehata Sarah. (2026). Medical students’ experiences of mixed-reality-based anatomy instruction in a non-cadaveric curriculum: a qualitative case study. BMC Medical Education. https://doi.org/10.1186/s12909-026-09881-6

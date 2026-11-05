@@ -50,7 +50,9 @@ The article integrates the multidisciplinary team (MDT) model with the Conceiveâ
 - [Mdt Cdio Higher Satisfaction All Dimensions](../claims/mdt-cdio-higher-satisfaction-all-dimensions.md) [+M]
 
 ## Related Designs
-- 
+
+- [Multidisciplinary team teaching as a mechanism for communication, clinical reasoning, and collaborative decision-making](mdt-teaching-collaborative-competencies.md)
+- [PDCA cycle management as a four-phase continuous quality improvement framework for procedural training](pdca-cycle-training-quality-framework.md)
 
 ## Examples
 -

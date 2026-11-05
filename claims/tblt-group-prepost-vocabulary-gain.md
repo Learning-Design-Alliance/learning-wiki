@@ -46,5 +46,5 @@ Paired-sample t-test on the 25 experimental-group students' teacher-made technic
 
 ## Related Claims
 - [Thai undergraduates' business vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group](mangomon-rpg-gamification-improves-business-vocabulary.md) — related
-- [Experimental-group learners significantly improved vocabulary knowledge from pretest to posttest after storytelling instruction](storytelling-experimental-group-prepost-vocabulary-gain.md) — related
+- [Experimental-group learners' vocabulary knowledge rose significantly from pretest to posttest after storytelling instruction, measured within the experimental group](storytelling-experimental-group-prepost-vocabulary-gain.md) — related
 - [Experimental group showed significant pre-to-post gains on vocabulary test score](experimental-group-pre-post-vocabulary-gains.md) — related

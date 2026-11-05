@@ -49,3 +49,4 @@ Subtopic-level analysis of the Chinese question bank results (visualized in Fig.
 - [ChatGPT-4o achieved 71% accuracy on the Chinese question bank, comparable to dental undergraduates and OMS graduate students but lower than OMS specialists](chatgpt-4o-71-percent-chinese-question-bank-accuracy.md) — related
 - [ChatGPT-4o's accuracy on Chinese questions varied by question type, highest for A1-type (76%) and lowest for A2-type (61%)](chatgpt-4o-chinese-question-type-accuracy-varies.md) — related
 - [ChatGPT-4o showed a language-related performance gap, performing better on English than Chinese questions while humans showed the reverse pattern](chatgpt-4o-language-performance-gap-english-chinese.md) — related
+- [LLM performance was weakest in paediatric urology and testicular cancer and strongest in research methodology and andrology](llm-subspecialty-weaknesses-paediatric-urology-testicular-cancer.md) — related

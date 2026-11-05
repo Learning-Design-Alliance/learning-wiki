@@ -87,3 +87,4 @@ Pearson bivariate correlation (Table 5, Figure 5) between post-test and lesson 1
 - [Undergraduate students' art appreciation test scores improved progressively across pre-test, middle-test and post-test under an Anderson's-model teaching module](anderson-module-test-score-gains.md) — related
 - [Pre- and post-test scores are positively correlated in the whole sample (r=0.63, p<0.01) and in the middle school subsample (r=0.63, p<0.01)](pre-post-test-correlation-computational-fluency.md) — related
 - [Post-game competence, effort, and deep-learning strategy use correlate significantly with pre-game measures, but interest does not](pre-post-motivation-correlations-stability.md) — related
+- [Knowledge scores from the video-and-MCQ phase showed no significant relationship with pre-practice rubric scores (r = 0.052, p = 0.827)](sbml-mcq-knowledge-no-rubric-correlation.md) — related

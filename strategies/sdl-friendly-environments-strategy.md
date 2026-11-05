@@ -48,6 +48,7 @@ Based on the review's findings, the authors recommend that "institutions should 
 - [Build supportive organizational structures — clear career pathways, mentorship programs, and leadership development — to enhance nurses' EBHC competence](organizational-structures-care-pathways-mentorship-leadership-ebhc.md)
 - [SDL implementation must be tailored to each healthcare system's socio-cultural and economic realities, including hierarchical structures and resource constraints](tailor-sdl-to-sociocultural-context.md)
 - [Formalize clinical peer-mentorship programs pairing senior staff with junior nurses](peer-mentorship-junior-nurses-wound-care.md)
+- [Implement teaching-focused workplace-based peer teaching placements with mentorship, repetition, and role modeling](anatomy-ems-implementation-recommendations.md)
 
 ## Examples
 -

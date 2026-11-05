@@ -47,5 +47,5 @@ Baseline item-level analysis of the pre-course knowledge test in the same retros
 
 ## Related Claims
 - [Performance on non-integrated factual recall questions remained relatively stable or showed a slight decline under case discussions](cbl-non-integrated-questions-stable-or-slight-decline.md) — related
-- [Flipped classroom combined with case-based learning improves post-course knowledge quiz scores in nuclear medicine residents](flipped-classroom-cbl-improves-nuclear-medicine-resident-quiz-scores.md) — related
+- [Post-course knowledge quiz scores rose from pre-course to post-course in nuclear medicine residents after a flipped classroom combined with case-based learning, in one uncontrolled pre-post study](flipped-classroom-cbl-improves-nuclear-medicine-resident-quiz-scores.md) — related
 - [ChatGPT-4's incorrect MRCP Part 1 answers showed no significant difference between factual recall and complex reasoning question types](mrcp-error-types-factual-recall-vs-reasoning-null.md) — related

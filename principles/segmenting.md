@@ -50,7 +50,7 @@ sources:
 # Segmenting Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 27 claims (13 for, 14 mixed) · 24 studies (8 review, 6 causal, 6 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 6 of 24 report an effect size · 22 claims rest on one study
+> **Evidence** · 29 claims (15 for, 14 mixed) · 25 studies (8 review, 7 causal, 6 quant-synthesis, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 6 of 25 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -151,6 +151,8 @@ Each question links a general claim that gathers the studies behind it and the n
 - [Students pause the video after a few sequences to consult a segment menu](../claims/students-pause-video-to-view-segment-menu.md) [~W]: a classroom design report; learners judged workload by the number of segments.
 - [Guo et al.: short videos, talking heads and Khan-style drawing were more engaging](../claims/guo-video-style-engagement-findings.md) [+W]: engagement, as reported in a review, not learning.
 - [Pretraining principle](../claims/pretraining-principle-mayer-2008.md) [+M]: the companion move that front-loads component names before a segmented or continuous lesson.
+- [Students learning venipuncture with a segmented-interactive video scored significantly higher on the technical component than students using a continuous video](../claims/segmented-interactive-video-technical-component-significant.md) [+W] — attached 2026-11-04 from Hamzah Nurul Rimadhayanti et al. (2026), which proposed "Design procedural-skill videos as segmented-interactive experiences rather than continuous videos"; tests this page's relationship.
+- [Students learning venipuncture with a segmented-interactive video scored significantly higher on the communication component than students using a continuous video](../claims/segmented-interactive-video-communication-component-significant.md) [+W] — attached 2026-11-04 from Hamzah Nurul Rimadhayanti et al. (2026), which proposed "Design procedural-skill videos as segmented-interactive experiences rather than continuous videos"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

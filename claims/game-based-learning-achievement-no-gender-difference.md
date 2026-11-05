@@ -56,3 +56,4 @@ Secondary analysis reported in the conclusions of the quasi-experiment (47 male,
 - [Both male and female students gained from games-based instruction, though the gain was higher for males](both-sexes-gain-from-games-males-more.md) — reports the opposite
 - [Posttest achievement under jigsaw instruction did not differ significantly by gender](no-gender-difference-posttest-jigsaw.md) — related
 - [The article infers male students performed better than female students using WBI, although its reported gender comparison was not statistically significant](wbi-gender-difference-inference-unsupported.md) — related
+- [Male students reported higher confidence than female students despite no performance difference](male-students-report-higher-confidence-no-performance-difference.md) — a narrower finding that bears on this claim

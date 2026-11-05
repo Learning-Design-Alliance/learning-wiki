@@ -49,6 +49,7 @@ The report recommends treating infrastructure investment as inseparable from tec
 - [Invest in technological infrastructure for evidence generation, including synthetic data, shared platforms, and privacy-enhancing technologies](invest-in-evidence-infrastructure.md)
 - [Pair literacy accountability indicators with funded professional development and aligned mandates](pair-literacy-accountability-with-funded-pd.md)
 - [Integrate e-learning into health professions training while ensuring equitable technology access and developing students' computer skills](integrate-elearning-equitable-access-computer-skills.md)
+- [Institutions should pilot low-stakes, prespecify evaluation indicators, and scale only after governance, faculty capacity, and equity safeguards are in place](phased-low-stakes-pilot-implementation.md)
 
 ## Examples
 -

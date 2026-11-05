@@ -51,7 +51,7 @@ Longitudinal case study with a pre-, post-, and post–post experimental design 
 - [Direct CT instruction combined with modeling, coaching, and discussion yields more consistent CT improvement than implicit teaching strategies](direct-ct-instruction-outperforms-implicit-strategies.md) — the general claim this finding bears on, with the studies behind it
 - The study used a three-group longitudinal design with an experimental science group and two traditionally taught controls — related
 - [HOTS-oriented teaching improves disposition towards critical thinking subscales including truth-seeking, open-mindedness, self-confidence, and maturity](hots-teaching-improves-ct-dispositions.md) — a narrower finding that bears on this claim
-- [GCLA use enhances higher-order thinking skills—critical thinking, problem-solving, and creativity—compared with traditional ChatGPT use](gcla-improves-hots.md) — related
+- [Students using GCLA rated their higher-order thinking skills—critical thinking, problem-solving, and creativity—higher than students using traditional ChatGPT](gcla-improves-hots.md) — related
 - [GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)](genai-higher-order-thinking-g072.md) — a broader claim this one bears on
 - [Students taught with the animation model significantly outperformed traditionally taught control students on the ATP generation post-test](animation-outperformed-traditional-instruction-atp-achievement.md) — a narrower finding that bears on this claim
 - [Think–Pair–Share instruction produces a large statistically significant achievement advantage over traditional teaching in third-grade science](tps-large-achievement-advantage-third-grade-science.md) — related

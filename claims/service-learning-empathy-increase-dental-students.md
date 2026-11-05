@@ -46,9 +46,9 @@ Quasi-experimental pre–post survey of matched dental students (n = 77) in a Ch
 
 
 ## Related Claims
-- [Service-learning participation is associated with a small increase in dental students' norms regarding community service](service-learning-norms-increase-small-effect.md) — related
-- [Seven of ten CSAS subscales showed no significant pre–post change after service-learning, likely due to a ceiling effect](seven-csas-subscales-no-change-ceiling.md) — related
+- [Dental students' self-reported norms regarding community service rose slightly from pre-test to post-test after service-learning participation, in one single-group pre-post study](service-learning-norms-increase-small-effect.md) — related
+- [Seven of ten self-reported CSAS subscale scores showed no significant pre–post change after service-learning in one group with no comparison group](seven-csas-subscales-no-change-ceiling.md) — related
 - [Attitudinal changes after service-learning did not differ significantly by sex or prior community service experience](attitude-change-no-sex-or-experience-differences.md) — related
-- [Service-learning participation is associated with a large reduction in dental students' perceived costs of community engagement](service-learning-perceived-costs-reduction.md) — related
+- [Dental students' self-rated perceived costs of community engagement showed a large reduction from pre-test to post-test after service-learning participation, in one uncontrolled pre-post study](service-learning-perceived-costs-reduction.md) — related
 - [Service learning participation is associated with improved dental knowledge scores in fourth-year dental students](service-learning-improves-dental-knowledge-scores.md) — related
 - [Attitude gains were significant in male students but not in female students](csas-gains-males-not-females.md) — related

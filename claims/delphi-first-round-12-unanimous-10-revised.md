@@ -52,3 +52,4 @@ In the first consensus iteration, participants evaluated each proposed competenc
 - [A three-round Delphi process with 36 Hong Kong school teachers reached consensus on 20 ChatGPT-based learning activities that satisfy SDT needs and foster SRL phases.](delphi-consensus-20-chatgpt-learning-activities.md) — related
 - [Delphi and wider-review feedback led Level 4 to be repositioned as beyond AI literacy, clarifying the boundary of AI literacy](sail-level-four-beyond-ai-literacy-boundary.md) — related
 - [Seven enablers of LA-based educational interventions were identified and validated by an international expert panel](seven-enablers-la-based-educational-interventions.md) — related
+- [The ICO-OCEX achieved strong content validity through a modified Delphi technique with expert consensus on all 33 items](ico-ocex-content-validity-delphi-consensus.md) — related

@@ -1,0 +1,56 @@
+---
+type: claim
+title: No consistent significant differences in competency or caring scores across socio-demographic characteristics in univariate analyses
+description: No consistent significant differences in competency or caring scores across socio-demographic characteristics in univariate analyses
+id: no-consistent-univariate-demographic-differences
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-04
+evidence_strength: moderate
+newest_evidence: 2026
+sources:
+  - id: yilmaz-merve-2026
+    resource: "https://doi.org/10.1002/nop2.70614"
+    title: "Yilmaz Merve, Korkmaz Fatos. (2026). Newly Graduated Nurses' Professional Competency and Caring Perception: A Cross‐Sectional Correlational Study. Nursing Open. https://doi.org/10.1002/nop2.70614"
+    author: Yilmaz Merve, Korkmaz Fatos
+    q: 3
+    i: "?"
+    kind: associational
+    rigour: 2
+---
+
+# No consistent significant differences in competency or caring scores across socio-demographic characteristics in univariate analyses
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q3`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q3 i?` In univariate analyses, no consistent significant differences were observed between total CINS or CBI-30 scores and socio-demographic characteristics (p > 0.05), though specific factors such as prior caregiving experience and willingness to choose nursing showed significant differences. [→ Yilmaz Merve 2026](#yilmaz-merve-2026)
+
+## Evidence
+
+### Yilmaz Merve 2026
+
+Yilmaz Merve, Korkmaz Fatos. (2026). Newly Graduated Nurses' Professional Competency and Caring Perception: A Cross‐Sectional Correlational Study. Nursing Open. https://doi.org/10.1002/nop2.70614
+
+`q3 · i?` · `associational · r2`
+
+Mann–Whitney U and Kruskal–Wallis tests comparing CINS and CBI-30 scores across socio-demographic subgroups among 249 newly graduated nurses. Significant differences were found for prior caregiving experience, willingness to choose nursing, and perceived education adequacy, but not consistently across all characteristics.
+
+> "In univariate analyses, no consistent significant differences were observed between total CINS or CBI‐30 scores and socio‐demographic characteristics (p > 0.05)."
+
+## Discussion
+
+
+## Related Claims
+- [Higher professional competency is independently associated with higher caring perception among newly graduated nurses](competency-independently-associated-caring-perception-new-graduates.md) — related
+- [Newly graduated nurses report highest competency in Caring and lowest in Clinical Biomedical Science and General Clinical Skills](competency-profile-caring-highest-clinical-lowest.md) — related
+- [A moderate positive correlation exists between professional competency and caring perception scores](moderate-positive-correlation-competency-caring.md) — related
+- [Univariable differences across competency profiles concentrate in career-stage and psychological variables, while sex, education and specialist nurse status show no significant differences](profile-differences-career-stage-psychological-variables.md) — related
+- [Demographic characteristics (age, gender, education, institution type, tenure) show no statistically significant difference in new nurse managers' competence scores](demographics-no-competence-difference-nurse-managers.md) — related
+- [No statistically significant differences in PI staging accuracy were observed by sex, age, work experience or educational level](no-demographic-differences-pi-staging-accuracy.md) — related
+- [No significant relationships were found between demographic co-variates and interprofessional socialisation scores](no-significant-covariate-relationships-with-is-scores.md) — related
+- [Caring perception is highest in Professional Knowledge and Attitude subdimension](caring-perception-highest-professional-knowledge-attitude.md) — related
+- [Sociodemographic and job-related characteristics differ across competence profiles](sociodemographic-differences-across-profiles.md) — related

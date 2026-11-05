@@ -74,3 +74,4 @@ Same multinomial logistic regression analysis. The three non-gender predictors w
 - [Gender, study major and age group show no significant differences in team creative skills across stickiness stages](no-gender-major-age-differences-creative-skills.md) — related
 - [Academic performance did not significantly predict membership in any of the four latent psychosocial profiles among Chilean university students](academic-performance-did-not-predict-profile-membership.md) — related
 - [Age and sex predicted membership in the latent psychosocial profiles among Chilean university students](age-sex-predict-latent-profile-membership.md) — related
+- [Student characteristics such as race and gender identity were not strong predictors of resource-use profile membership; only two pairwise comparisons were significant.](few-demographic-predictors-resource-profiles.md) — reports the opposite

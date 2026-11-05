@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Heckman two-step estimates found no evidence of selection bias in the pretest–posttest gain score regressions based on camp attendance
-description: Heckman two-step estimates found no evidence of selection bias in the pretest–posttest gain score regressions based on camp attendance
+title: Heckman two-step estimates found statistically insignificant Mills ratio coefficients in all three specifications in pretest–posttest gain score regressions based on camp attendance, in one group with no comparison group
+description: Heckman two-step estimates found statistically insignificant Mills ratio coefficients in all three specifications in pretest–posttest gain score regressions based on camp attendance, in one group with no comparison group
 id: no-selection-bias-camp-attendance
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# Heckman two-step estimates found no evidence of selection bias in the pretest–posttest gain score regressions based on camp attendance
+# Heckman two-step estimates found statistically insignificant Mills ratio coefficients in all three specifications in pretest–posttest gain score regressions based on camp attendance, in one group with no comparison group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Mills ratio coefficients in all three Heckman specifications were statistically insignificant, indicating no detectable selection bias. [→ Bhattacharya et al. 2016](#bhattacharya-et-al-2016)
+`q2 i?` Mills ratio coefficients in all three Heckman specifications were statistically insignificant in a pretest–posttest analysis of one group with no comparison group. [→ Bhattacharya et al. 2016](#bhattacharya-et-al-2016)
 
 ## Evidence
 
@@ -45,6 +45,6 @@ Heckman (1979) two-step estimator with a first-stage probit on camp attendance (
 
 
 ## Related Claims
-- [A 1-week financial fitness camp raised financial knowledge of low-income 8th graders by roughly 12 percentage points on a pretest–posttest design](financial-fitness-camp-12-point-gain.md) — related
+- [Financial knowledge of low-income 8th graders rose by roughly 12 percentage points from pre-test to post-test after a 1-week financial fitness camp, in one uncontrolled pre-post study](financial-fitness-camp-12-point-gain.md) — related
 - [IDA participation and contribution level showed no statistically significant effect on financial knowledge gains from camp instruction](ida-participation-no-knowledge-gain.md) — related
 - [Parents with high present bias were less likely to enroll their 8th graders in the financial literacy camp](present-bias-reduces-camp-enrollment.md) — related

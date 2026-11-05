@@ -49,6 +49,7 @@ Based on student optimization recommendations from the qualitative analysis, the
 - [Future ISS research and evaluation should include detailed demographic and contextual data, develop valid data collection tools, and identify optimal frequency and length of simulations](iss-future-research-recommendations.md)
 - [Recommendation that educators include implicit spatial training combining multimodal visual and physical resources](recommend-multimodal-visual-haptic-spatial-training.md)
 - [Design future sectional anatomy sessions to be more multimodal and collaborative](future-sessions-more-multimodal-and-collaborative.md)
+- [Establish 3D printing teaching platforms in hospitals and universities to enhance interns' professional value recognition and internship teaching quality](establish-3d-printing-teaching-platforms-strategy.md)
 
 ## Examples
 -

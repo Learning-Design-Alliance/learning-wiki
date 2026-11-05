@@ -89,6 +89,7 @@ Blended designs outperform either mode alone when the two components are deliber
 - [Blend e-delivered theoretical content with face-to-face practice to develop student teachers' teaching skills](blend-elearning-with-classroom-practice-strategy.md)
 - [Integrate web-based case analysis tools into blended learning combining digital case-based practice with face-to-face teaching](blended-digital-analogue-case-analysis-strategy.md)
 - [Use varied face-to-face teaching strategies matched to learning objectives to sustain engagement in a full-day course](varied-face-to-face-teaching-strategies-ams-course.md)
+- [Implement XR-based ultrasound training as partial replacement of standard training during a dedicated training day](xr-partial-replacement-training-day.md)
 
 ## Related Elements
 - [Lectures](../elements/lectures.md) — typically relocated to the online strand as recorded video

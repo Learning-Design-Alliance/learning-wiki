@@ -77,4 +77,4 @@ Dependent samples t-test on the 29 control students' scores; means were 43.75 (p
 - [Within the experimental group, achievement scores rose significantly from pre-test to post-test after Multiple Intelligence Theory-based instruction](mi-group-pretest-posttest-gain.md) — related
 - [The collocation group's mean score rose from 8.2 to 17.7 while the control group's rose from 8.7 to 11.1](collocation-group-gain-9-5-versus-control-2-4.md) — related
 - [The experimental group's distribution across motivational levels shifted toward higher levels from pre-test to post-test while the control group's did not](experimental-group-level-shift-motivational-component.md) — related
-- [Speaking-skill score distribution shifted upward after integrative teaching (mean 65.75 to 76.5)](german-speaking-pre-post-descriptives.md) — related
+- [Speaking-skill score distribution shifted upward from pre-test to post-test in one single-group pre-post study of integrative teaching (mean 65.75 to 76.5)](german-speaking-pre-post-descriptives.md) — related

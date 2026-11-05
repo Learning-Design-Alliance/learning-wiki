@@ -40,8 +40,8 @@ The article describes a five-step instructional sequence: information about the 
 ## Claims
 
 - [Trainee teachers shift toward agreement that videogames help develop the curriculum crosswise after experiencing one](../claims/videogame-experience-shifts-trainee-teacher-acceptance.md) [+W]
-- [Students' endorsement of videogames for developing visual memory and retentiveness rose sharply after the experience](../claims/videogame-experience-visual-memory-item-shift.md) [+W]
-- [After the experience, 100% of students fully agreed the videogame develops heuristic (trial-and-error) thinking](../claims/videogame-heuristic-thinking-unanimous-agreement.md) [+W]
+- [Students' self-reported endorsement of videogames for developing visual memory and retentiveness rose sharply from pre-test to post-test after the experience, in one uncontrolled pre-post study](../claims/videogame-experience-visual-memory-item-shift.md) [+W]
+- [After playing the videogame, 100% of students fully agreed with the heuristic (trial-and-error) thinking item; before playing, 94% were indifferent and 6% disagreed, based on self-reported responses in one single-group pre-post study](../claims/videogame-heuristic-thinking-unanimous-agreement.md) [+W]
 - [Students remained largely disagreeing that the videogame supports self-regulation of learning (continuous assessment)](../claims/videogame-self-regulation-item-stays-negative.md) [~W]
 - [A third of Spanish educators (36.4%) used videogames as didactic tools in 2011-2012, with younger teachers more willing](../claims/spanish-educators-videogame-use-36-percent.md) [+W]
 

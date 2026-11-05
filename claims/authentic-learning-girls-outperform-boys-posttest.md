@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i2` medium
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Gürgil 2018: the intervention came bundled with another change · Gürgil 2018 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i2` Posttest scores differed significantly between girls and boys in the experimental group (p = .007, η² = .08), with no pretest difference. [→ Gürgil 2018](#gurgil-2018)

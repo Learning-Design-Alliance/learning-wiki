@@ -46,5 +46,5 @@ Table 1 post-activity ratings (N=15): classification averaged 3.466 (S.D. .5164)
 
 ## Related Claims
 - [Plasticized-clay art activities produce high post-activity development levels across basic mathematics skills in preschool children](plasticized-clay-art-high-development-math-skills.md) — a broader claim this one bears on
-- [Each of the six individual basic mathematics skills improves significantly after plasticized-clay activities](clay-activities-individual-skills-significant-gains.md) — related
-- [Preschool children's overall basic mathematics scores rise significantly after plasticized-clay art activities (p<.01, t=26.458)](clay-activities-significant-pre-post-gain-overall.md) — related
+- [Each of the six individual basic mathematics skills scored higher from pre-test to post-test after plasticized-clay activities in one uncontrolled pre-post study](clay-activities-individual-skills-significant-gains.md) — related
+- [Preschool children's overall basic mathematics scores rose significantly from pre-test to post-test after plasticized-clay art activities, in one uncontrolled pre-post study (p<.01, t=26.458)](clay-activities-significant-pre-post-gain-overall.md) — related

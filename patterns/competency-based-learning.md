@@ -25,7 +25,7 @@ sources:
 # Competency-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 76 claims (31 for, 38 mixed, 7 against) · 74 studies (22 causal, 13 quant-synthesis, 10 review, 9 associational, 7 qualitative, 7 design, 6 theoretical), `q1`–`q4` · 13 of 74 report an effect size · 68 claims rest on one study
+> **Evidence** · 78 claims (31 for, 40 mixed, 7 against) · 75 studies (23 causal, 13 quant-synthesis, 10 review, 9 associational, 7 qualitative, 7 design, 6 theoretical), `q1`–`q4` · 13 of 75 report an effect size · 70 claims rest on one study
 
 ## Description and scope
 
@@ -156,6 +156,8 @@ Added 2026-10-17 after a search for competency-based, mastery-based and self-pac
 - [Stepwise CBME training significantly improves ultrasound-guided biopsy pathological concordance rate compared to conventional training](../claims/stepwise-cbme-improves-biopsy-concordance.md) [+W] — attached 2026-11-04 from Xu Kailun et al. (2026), which proposed "Match clinical teaching opportunities to current competency level rather than to case availability"; tests this page's relationship.
 - [Stepwise CBME training significantly improves catheterization success rate for venous access port implantation compared to conventional training](../claims/stepwise-cbme-improves-port-catheterization-success.md) [+W] — attached 2026-11-04 from Xu Kailun et al. (2026), which proposed "Match clinical teaching opportunities to current competency level rather than to case availability"; tests this page's relationship.
 - [Stepwise CBME training significantly shortens operative time for supervised breast-conserving surgery compared to conventional training](../claims/stepwise-cbme-shortens-bcs-operative-time.md) [+W] — attached 2026-11-04 from Xu Kailun et al. (2026), which proposed "Match clinical teaching opportunities to current competency level rather than to case availability"; tests this page's relationship.
+- [CBE-MDT teaching improves final exam scores compared with traditional teaching in radiation oncology rotations](../claims/cbe-mdt-improves-exam-scores-radiation-oncology.md) [~W] — attached 2026-11-04 from Liu Min et al. (2025), which proposed "Adopt CBE-MDT approaches in medical education to build competencies that didactic teaching fails to develop".
+- [CBE-MDT teaching yields higher trainee satisfaction than traditional teaching](../claims/cbe-mdt-higher-satisfaction-radiation-oncology.md) [~W] — attached 2026-11-04 from Liu Min et al. (2025), which proposed "Adopt CBE-MDT approaches in medical education to build competencies that didactic teaching fails to develop".
 
 ## Illustrative design instance and observation record
 
@@ -198,6 +200,7 @@ This pattern is scoped to a course organised around a competency map with criter
 - A competency map that lets learners reassess specific standards until they show proficiency.
 - Modular technical training where prior experience allows early demonstration and faster progression.
 - [Promote student agency by letting students decide the pace of their work and whether to complete it independently or collaboratively](../strategies/student-agency-pace-and-work-mode.md)
+- [Simulation-based assessment gate requiring three passed assessments before clinical intubation practice](../strategies/simulation-assessment-gate-clinical-practice.md)
 
 ## Key Sources
 - Le, C., Wolfe, R. E., & Steinberg, A. (2014). *The past and the promise: Today's competency education movement*. Jobs for the Future.

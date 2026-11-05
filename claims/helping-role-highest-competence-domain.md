@@ -49,3 +49,4 @@ Longitudinal NCS self-assessment data from the same 151-participant study show t
 - [Therapeutic interventions is the lowest self-assessed competence domain and was rated insufficient in the first months of work](therapeutic-interventions-lowest-competence-domain.md) — related
 - [Simulation was not suggested as supporting the helping role and teaching–coaching competence domains](simulation-not-suggested-helping-teaching-coaching.md) — related
 - [Newly graduated registered nurses' self-assessed overall competence fluctuates over the first 5 months, dipping after 15 days and rising by 3 and 5 months](ngrn-competence-fluctuates-first-5-months.md) — related
+- [Newly graduated nurses report highest competency in Caring and lowest in Clinical Biomedical Science and General Clinical Skills](competency-profile-caring-highest-clinical-lowest.md) — related

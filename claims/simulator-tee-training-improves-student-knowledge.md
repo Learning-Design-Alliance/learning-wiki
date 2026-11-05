@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Simulator-based TEE training significantly improves medical students' TEE knowledge scores"
-description: "Simulator-based TEE training significantly improves medical students' TEE knowledge scores"
+title: "Medical students' TEE knowledge scores rose from pre-test to post-test after simulator-based TEE training, in a single-group pre-post study"
+description: "Medical students' TEE knowledge scores rose from pre-test to post-test after simulator-based TEE training, in a single-group pre-post study"
 id: simulator-tee-training-improves-student-knowledge
 status: review
 generated:
@@ -28,7 +28,7 @@ sources:
     rigour: 1
 ---
 
-# Simulator-based TEE training significantly improves medical students' TEE knowledge scores
+# Medical students' TEE knowledge scores rose from pre-test to post-test after simulator-based TEE training, in a single-group pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3`

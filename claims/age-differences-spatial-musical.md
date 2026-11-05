@@ -45,4 +45,4 @@ Independent-samples t-test comparing age groups 18-21 (n=55) and 22-25 (n=53) ac
 
 
 ## Related Claims
-- [MI-based instruction improved oral presentation skills of EFL pre-service teachers](mi-instruction-improves-oral-presentation-skills.md) — related
+- [Oral presentation skills test scores rose from pre-test to post-test after MI-based instruction among EFL pre-service teachers in a one-group pre-post study without a comparison group](mi-instruction-improves-oral-presentation-skills.md) — related

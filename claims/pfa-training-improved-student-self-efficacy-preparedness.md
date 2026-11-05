@@ -45,7 +45,7 @@ Mixed-methods study (Bahadır Yılmaz 2025, Turkey) of a face-to-face PFA traini
 
 
 ## Related Claims
-- [An active shooter simulation with mass casualty triage improved nursing students' preparedness and triaging skills](active-shooter-simulation-improved-preparedness-triage.md) — related
+- [Nursing students' preparedness and triaging skills scores rose from pre-test to post-test after an active shooter simulation with mass casualty triage, in a one-group pre–post study](active-shooter-simulation-improved-preparedness-triage.md) — related
 - [Model-based training with a learning management system significantly increased disaster preparedness perception and disaster response self-efficacy in nursing students](jennings-model-lms-training-increased-preparedness-drses.md) — related
 - [RAPID-PFA training improved nursing students' perceived competencies, disaster preparedness, helping capacity, and self-efficacy with effects maintained at follow-up](rapid-pfa-improved-student-competencies-maintained.md) — related
 - [A multimodality simulation disaster education program improved hospital nurses' disaster competencies across outcomes](multimodality-simulation-improved-disaster-competency.md) — related

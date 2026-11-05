@@ -47,4 +47,4 @@ Descriptive pre-test/post-test means from the quasi-experiment: SGA rose from 41
 ## Related Claims
 - [Video clips combined with Small Group Activities produced significantly higher EFL speaking post-test scores than video clips combined with Individual Activities for young learners](video-clips-small-group-beats-individual-speaking.md) — related
 - [The Small Group Activity group outperformed the Individual Activity group on all five measured speaking aspects (vocabulary, fluency, grammar, pronunciation, comprehension)](small-group-video-all-five-speaking-aspects.md) — a narrower finding that bears on this claim
-- [Speaking-skill score distribution shifted upward after integrative teaching (mean 65.75 to 76.5)](german-speaking-pre-post-descriptives.md) — related
+- [Speaking-skill score distribution shifted upward from pre-test to post-test in one single-group pre-post study of integrative teaching (mean 65.75 to 76.5)](german-speaking-pre-post-descriptives.md) — related

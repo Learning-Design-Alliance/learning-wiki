@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Consultant paediatric surgeons showed a significant overall reduction in operative time after a 12-week porcine-model laparoscopic training programme
-description: Consultant paediatric surgeons showed a significant overall reduction in operative time after a 12-week porcine-model laparoscopic training programme
+title: Among consultant paediatric surgeons, operative time fell significantly from before to after a 12-week porcine-model laparoscopic training programme in one uncontrolled pre-post study
+description: Among consultant paediatric surgeons, operative time fell significantly from before to after a 12-week porcine-model laparoscopic training programme in one uncontrolled pre-post study
 id: porcine-model-training-reduces-operative-time-consultants
 status: review
 generated:
@@ -21,7 +21,7 @@ sources:
     rigour: 1
 ---
 
-# Consultant paediatric surgeons showed a significant overall reduction in operative time after a 12-week porcine-model laparoscopic training programme
+# Among consultant paediatric surgeons, operative time fell significantly from before to after a 12-week porcine-model laparoscopic training programme in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -53,3 +53,6 @@ Retrospective pre/post comparison of procedures by the same six surgeons at one 
 - [A 3-week high-fidelity mitral valve repair simulation program improved residents' scores on all 11 OSATS assessment points and reduced completion time](joyce-mvr-osats-improvement.md) — related
 - [Only one included study assessed predictive validity, showing a curriculum including body donor lab sessions improved real-patient laparoscopic performance over conventional training](single-predictive-validity-study-palter.md) — related
 - [The SAW model shows construct validity and good correlation (0.87) between simulated and operating-room laparoscopic ventral/incisional hernia repair performance](saw-model-construct-validity-and-or-correlation.md) — related
+- [Among PGY-1 and PGY-2 obstetrics and gynecology residents, task completion times were shorter after a structured four-week laparoscopic simulator curriculum than before, in one single-group pre-post study.](laparoscopic-simulator-training-improves-task-efficiency-pgy1-pgy2.md) — related
+- [Mean procedure time decreased from 3.45 to 1.53 minutes after training (p < 0.001)](sbml-probing-procedure-time-reduction.md) — related
+- [All training groups improved repair times with repeated exposure to the simulator](repeated-exposure-improves-durotomy-repair-times.md) — a broader claim this one bears on

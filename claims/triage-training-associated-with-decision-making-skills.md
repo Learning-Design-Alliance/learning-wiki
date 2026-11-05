@@ -48,6 +48,6 @@ Cross-sectional correlational study with one-group posttest-only design (Alzahra
 - [Problem Solving](../learner-variables/problem-solving.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [An active shooter simulation with mass casualty triage improved nursing students' preparedness and triaging skills](active-shooter-simulation-improved-preparedness-triage.md) — related
+- [Nursing students' preparedness and triaging skills scores rose from pre-test to post-test after an active shooter simulation with mass casualty triage, in a one-group pre–post study](active-shooter-simulation-improved-preparedness-triage.md) — related
 - [Interventions including chatbots, blended learning programs, and mobile devices show positive effects on SDL among healthcare professionals](interventions-positive-effects-sdl-hcp.md) — related
 - [Training programmes improved healthcare practitioners' communication with patients with PPS relative to control groups](pps-training-improves-hcp-communication.md) — related

@@ -216,6 +216,7 @@ Achievement on the grouped task, delayed retention, participation, belonging and
 - [Set Up Learning Centers with More Tasks Than Any One Pupil Can Complete](../strategies/learning-centers-in-science-classrooms.md)
 - [Cooperative Learning](../strategies/cooperative-learning.md)
 - [Homogeneous ability grouping by screening test for catch-up literacy sessions](../designs/homogeneous-screening-grouped-catch-up-sets.md)
+- [Form intentionally heterogeneous instructor-assigned groups of three to four students, avoiding tokenistic demographic balancing, and regroup periodically through controlled randomness.](../strategies/intentional-heterogeneous-grouping-small-groups.md)
 
 ## Key Sources
 - Burris, C. C., Heubert, J. P., & Levin, H. M. (2006). Accelerating mathematics achievement using heterogeneous grouping. *American Educational Research Journal, 43*(1), 137-154. [doi:10.3102/00028312043001105](https://doi.org/10.3102/00028312043001105)

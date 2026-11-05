@@ -104,3 +104,4 @@ Budget domain classification from Table 3: 19 countries mixed control and eight 
 - [Across 38 countries, external control is highest in assessment and lowest in curriculum and budget](external-control-highest-assessment-lowest-curriculum.md) — related
 - [A few countries follow relatively pure accountability logics, but most countries follow mixed forms](most-countries-follow-mixed-accountability-logics.md) — related
 - [Extreme country cases: Spain reports universal external control of hiring while the Netherlands reports universal internal control of HR, curriculum, and budget](extreme-country-control-cases-spain-netherlands.md) — related
+- [Curriculum similarity across medical schools within the same country is reported in only 42.9% of surveyed countries.](national-curriculum-similarity-42-9-percent.md) — related

@@ -49,4 +49,4 @@ Mixed-effects linear regression with experience (<10 vs ≥10 years) and trainin
 - [Completion time detects training gains only in less experienced trainees, per the review's account of Kim et al.](completion-time-significant-only-less-experienced-trainees.md) — related
 - [Construct validity evidence shows statistically significant proficiency differences favouring junior over senior groups across modalities, though junior and senior residents did not differ on some metrics](simulation-construct-validity-junior-senior-differences.md) — reports the opposite
 - [All three online training methods significantly improved diagnostic performance for MUL measurements on prostate MRI with no significant differences between groups](online-training-improves-mul-diagnostic-performance.md) — related
-- [Reader confidence in measuring MUL significantly increased across all training groups](online-training-improves-mul-reader-confidence.md) — related
+- [Self-reported reader confidence in measuring MUL rose significantly from pre-test to post-test across all training groups in one uncontrolled pre-post study](online-training-improves-mul-reader-confidence.md) — related

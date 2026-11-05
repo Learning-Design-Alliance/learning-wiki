@@ -43,7 +43,7 @@ The article's teacher, director, and authors converge on recommendations for imp
 ## Claims
 
 - [Students advanced significantly in game levels each successive week of the intervention](../claims/advanced-game-levels-increase-weekly.md) [+W]
-- [Students mastered significantly more game words each successive week of the four-week intervention](../claims/mastered-game-words-increase-weekly.md) [+W]
+- [The number of game words students mastered rose significantly from week 1 to week 4 during the four-week intervention, in one uncontrolled pre-post study](../claims/mastered-game-words-increase-weekly.md) [+W]
 - [Sixth-grade students in a Puerto Rican public school who played My English Coach in class showed significant pre-post growth in English receptive vocabulary, but so did a same-school control class that did not play it, while an external control group did not](../claims/videogame-classroom-vocabulary-gains-puerto-rico.md) [~W]
 - [Qualitative findings showed increased student motivation toward English class and learning vocabulary through videogames](../claims/videogame-motivation-qualitative-increase.md) [+W]
 - [Videogame play in class fostered peer competition, peer support, and student attention and immersion](../claims/videogame-peer-collaboration-attention.md) [+W]
@@ -57,6 +57,7 @@ The article's teacher, director, and authors converge on recommendations for imp
 - [Plan game use deliberately and combine it with traditional vocabulary techniques](plan-game-use-and-combine-with-traditional-techniques.md)
 - [Teacher professional development and school-leader support for enacting game-based learning](teacher-pd-and-leader-support-game-based.md)
 - [Five-step experience sequence for training teachers to use videogames as curricular tools](five-step-videogame-teacher-training-sequence.md)
+- [When implementing experiential school nutrition programs, secure sufficient duration, curriculum integration, teacher involvement, and supporting resources](secure-duration-integration-teacher-resources-for-nutrition-programs.md)
 
 ## Examples
 -

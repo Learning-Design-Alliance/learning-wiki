@@ -54,3 +54,6 @@ CTDI-CV comparison in the randomized study (n = 79 per group): total score 301.5
 - [AI-enabled personalized teaching improved several CTDI-CV subdimensions but not critical thinking self-confidence or cognitive maturity](ctdi-cv-subdimension-effects-mixed.md) — related
 - [The iHEC cohort showed higher post-rotation critical thinking disposition than the conventional cohort (Cohen's d = 0.75)](ihec-higher-critical-thinking.md) — related
 - [A three-month WISE Agent intervention did not significantly increase sixth-graders' aggregate critical thinking disposition scores](wise-agent-no-aggregate-ct-gain.md) — related
+- [Structured PEARLS debriefing is associated with higher critical thinking disposition across all seven CTDI-CV dimensions](debriefing-higher-critical-thinking-disposition.md) — related
+- [Scenario-based simulation ward rounds combined with video feedback improve critical thinking disposition in gastroenterology residents](simulation-ward-rounds-video-feedback-improve-critical-thinking.md) — related
+- [Structured PEARLS debriefing is associated with higher general self-efficacy](debriefing-higher-general-self-efficacy.md) — related

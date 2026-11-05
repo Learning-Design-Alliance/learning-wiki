@@ -47,4 +47,4 @@ Wilcoxon signed-rank item-level analysis (n = 21). For Q1, the far transfer p-va
 ## Related Claims
 - [Overall performance improved significantly for far transfer (r = 0.53) but not for near transfer (r = 0.30, p = 0.19)](far-transfer-total-score-gain-not-near.md) — related
 - [Theoretical expectation: hybrid metacognitive skill training benefits content knowledge acquisition more in near than in far transfer because far transfer is more cognitively demanding](near-transfer-working-memory-advantage-hypothesis.md) — related
-- [Tumour-stage reasoning improved significantly for both near transfer (r = 0.75) and far transfer (r = 0.78)](tumour-stage-reasoning-gains-near-far-transfer.md) — related
+- [Tumour-stage reasoning scores rose significantly from pre-test to post-test for both near transfer (r = 0.75) and far transfer (r = 0.78), in one uncontrolled pre-post study](tumour-stage-reasoning-gains-near-far-transfer.md) — related

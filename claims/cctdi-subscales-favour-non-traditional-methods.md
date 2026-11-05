@@ -58,3 +58,4 @@ Subscale meta-analysis of CCTDI datasets using random effects model. Six subscal
 - [AI-enabled personalized teaching improved several CTDI-CV subdimensions but not critical thinking self-confidence or cognitive maturity](ctdi-cv-subdimension-effects-mixed.md) — related
 - [In the same RCT, the experimental group scored higher than the control group on all seven dimensions of critical thinking ability (all P < 0.05)](pbl-virtual-simulation-critical-thinking-all-dimensions-trauma-orthopedics.md) — reports the opposite
 - [Digital RPP improves critical thinking disposition more than traditional group practice](rpp-digital-platform-critical-thinking-gains.md) — related
+- [Structured PEARLS debriefing is associated with higher critical thinking disposition across all seven CTDI-CV dimensions](debriefing-higher-critical-thinking-disposition.md) — related

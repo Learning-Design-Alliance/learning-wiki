@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Steegen 2018: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` Post-hoc analysis showed that the difference between tablet and experiment lecture disappeared (p=0.305), while the tablet lecture remained different from the traditional lecture (p=0.012). [→ Steegen 2018](#steegen-2018)

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2016
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: johanson-2016
     resource: "https://doi.org/10.1080/10888691.2015.1074050"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2016 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Children whose preschool teachers implemented LLLI did not significantly outperform business-as-usual children on any of the three kindergarten outcomes (Table 4: p = .15 expressive vocabulary, .23 letter-word identification, .61 passage comprehension; the text summarises these as "ps > .20"), though all raw differences favored the treatment group (descriptive d = 0.02, 0.19 and 0.02). [→ Johanson 2016](#johanson-2016)

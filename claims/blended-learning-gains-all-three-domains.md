@@ -45,6 +45,6 @@ Table (1) reports paired-samples t-test results for the three domains, with t va
 
 
 ## Related Claims
-- [Significant pre-post differences favoring the posttest appeared on every individual standard within the three domains](blended-learning-gains-all-standards.md) — related
+- [In one group with no comparison group, scores were significantly higher at post-test than pre-test on every individual standard within the three domains](blended-learning-gains-all-standards.md) — related
 - [The conventionally instructed control group also improved significantly from pretest to posttest in all three teaching-skill domains](control-group-prepost-gains.md) — related
 - [The WebQuest experimental group improved significantly from pretest to posttest in planning, implementation and evaluation teaching skills](webquest-group-prepost-gains.md) — related

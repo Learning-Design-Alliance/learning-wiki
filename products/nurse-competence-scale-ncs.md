@@ -36,6 +36,7 @@ The Nurse Competence Scale (NCS) is a validated 73-item visual-analogue self-ass
 - [Health Literacy Competencies Scale for Nurses (HLC-N)](health-literacy-competencies-scale-for-nurses-hlc-n.md)
 - [Three-dimensional model of critical reflection competency in delirium care (AECR, PCER, ROPR)](three-dimensional-model-of-critical-reflection-competency-in-delirium-care-aecr-pcer-ropr.md)
 - [Competency Framework for Registered Nurses in China](competency-framework-for-registered-nurses-in-china.md)
+- [Critical Thinking Diagnostic Scale (CTDS), Chinese version](critical-thinking-diagnostic-scale-ctds-chinese-version.md)
 
 ## Key Sources
 - Mesaglio, M., Dentice, S., Grassetti, L., Achil, I., Bernardinis, A., Caruzzo, D., Inserra, A., Mansutti, I., Mattiussi, E., Menegoz, S., Piani, T., Vanzo, E., Chiappinotto, S., Palese, A. (2026). The Role of the Simulation in Supporting Newly Graduated Nurses in Their First 5 Months of Working Transition: Findings From a Mixed‐Method Study. Journal of Clinical Nursing, 35(10), 4210–4220. https://doi.org/10.1111/jocn.17617

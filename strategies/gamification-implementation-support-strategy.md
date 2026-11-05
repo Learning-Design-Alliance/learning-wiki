@@ -52,6 +52,7 @@ The review's challenges section recommends that institutions implementing gamifi
 - [Address technology access disparities with offline or low-tech alternatives when implementing gamified learning](offline-low-tech-alternatives-for-technology-access-disparities.md)
 - [Provide professional development to equip educators with gamification implementation skills](professional-development-for-gamification-implementation.md)
 - [Train in-service teachers to use gamification of web-based learning in English teaching](train-teachers-gamification-web-english.md)
+- [Integrate gamified formats into continuing medical education to support lifelong learning](gamification-in-cme-strategy.md)
 
 ## Examples
 -

@@ -58,3 +58,4 @@ Quasi-experimental study of 50 gynecology residents assigned to PBL-CBL or tradi
 - [Case review-based learning improves orthodontic examination scores compared with lecture-based learning](cbl-improves-orthodontic-exam-scores.md) — related
 - [AI-assisted PBL-CBL combined teaching raises medical interns' clinical skill examination scores in post-herpetic neuralgia compared with lecture-based teaching](ai-pbl-cbl-improves-clinical-skill-examination-scores.md) — related
 - [AI-assisted PBL-CBL combined teaching raises medical interns' theoretical examination scores in post-herpetic neuralgia compared with lecture-based teaching](ai-pbl-cbl-improves-theoretical-examination-scores.md) — a narrower finding that bears on this claim
+- [AI-assisted CBL+FC residents significantly outperform lecture-based controls on post-course theoretical knowledge tests](ai-assisted-cbl-fc-higher-theoretical-scores.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Peer instruction was associated with a statistically significant short-term improvement in performance scores among first-year osteopathic medical students in a preclinical microbiology session.
-description: Peer instruction was associated with a statistically significant short-term improvement in performance scores among first-year osteopathic medical students in a preclinical microbiology session.
+title: Performance scores rose significantly from pre-test to post-test after peer instruction, in one uncontrolled pre-post study of first-year osteopathic medical students in a preclinical microbiology session.
+description: Performance scores rose significantly from pre-test to post-test after peer instruction, in one uncontrolled pre-post study of first-year osteopathic medical students in a preclinical microbiology session.
 id: pi-improves-short-term-performance-osteopathic-microbiology
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Peer instruction was associated with a statistically significant short-term improvement in performance scores among first-year osteopathic medical students in a preclinical microbiology session.
+# Performance scores rose significantly from pre-test to post-test after peer instruction, in one uncontrolled pre-post study of first-year osteopathic medical students in a preclinical microbiology session.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
@@ -48,5 +48,5 @@ A paired-samples t-test in a single-group pre–post quasi-experimental study of
 - [Learning gains did not differ by campus location.](pi-gains-comparable-across-campuses.md) — related
 - [Student perceptions of peer instruction were generally favorable.](pi-favorable-student-perceptions.md) — related
 - [Exit quiz scores correlated positively with both pre- and post-PI scores.](exit-quiz-correlates-pre-post-pi.md) — related
-- [Item-level analysis showed significant improvement on 9 of 10 peer instruction questions after Holm–Bonferroni correction.](pi-item-level-improvement-nine-of-ten.md) — related
+- [Item-level analysis found statistically significant score rises on 9 of 10 peer instruction questions from pre-test to post-test in one group with no comparison group, after Holm–Bonferroni correction.](pi-item-level-improvement-nine-of-ten.md) — related
 - [No significant association was observed between student perceptions and measured learning gains.](perceptions-not-aligned-with-gains.md) — related

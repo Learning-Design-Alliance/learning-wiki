@@ -22,9 +22,9 @@ LINK (ENLACE) is a bilingual preschool and home language-and-vocabulary interven
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Treatment preschoolers significantly improved Spanish receptive and expressive vocabulary and English receptive vocabulary from pre-test to post-test, with moderate effect sizes](../claims/link-prepost-vocabulary-gains-spanish-english.md) [+M]
+- [Among preschoolers in the treatment group, Spanish receptive and expressive vocabulary and English receptive vocabulary rose significantly from pre-test to post-test, with moderate effect sizes, in one uncontrolled pre-post study](../claims/link-prepost-vocabulary-gains-spanish-english.md) [+M]
 - [Children receiving the home plus preschool LINK intervention outperformed preschool-only children on Spanish vocabulary gains (d = 0.91 RNA; d = 0.79 RVK)](../claims/home-plus-preschool-beats-preschool-only-spanish.md) [+M]
-- [In a single-case study, home-only LINK improved all four children's Spanish expressive vocabulary, with larger effects at maintenance (overall 0.76 baseline-to-intervention; 0.87 baseline-to-maintenance)](../claims/link-home-single-case-tau-u.md) [+M]
+- [In one uncontrolled single-case pre-post study, all four children's Spanish expressive vocabulary rose from baseline to maintenance after home-only LINK, with the overall baseline-to-maintenance value (0.87) larger than the baseline-to-intervention value (0.76)](../claims/link-home-single-case-tau-u.md) [+M]
 - [Teachers and parents rated the LINK training and materials very positively, and parents reported increased reading time and child engagement](../claims/link-social-validity-parent-teacher-perceptions.md) [+W]
 
 ## Related Products and Programmes

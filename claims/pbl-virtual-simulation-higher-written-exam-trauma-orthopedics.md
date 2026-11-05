@@ -55,3 +55,4 @@ Assessor-blinded RCT of 50 clinical medical students interning at the First Affi
 - [Puzzle intervention groups achieve significantly higher final exam accuracy than control groups](puzzle-higher-final-exam-accuracy-than-controls.md) — related
 - [BOPPPS with virtual simulation yields significantly higher total internship performance scores than traditional teaching (d = 3.12)](boppps-virtual-simulation-higher-internship-performance.md) — related
 - [Mid-term exam scores favored the experimental group (79.8 ± 7.0 vs 71.5 ± 7.3, mean difference 8.3, P < 0.001) with baseline prerequisite scores equivalent between groups](ai-kg-midterm-and-baseline-equivalence.md) — related
+- [3DIPT-assisted teaching produces higher simulated NMLE anatomical imaging test scores than traditional internship teaching after 6 months](3dipt-higher-simulated-nmle-anatomical-imaging-scores.md) — related

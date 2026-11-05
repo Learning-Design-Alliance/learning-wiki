@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 sources:
   - id: zhang-yukun-2026
     resource: "https://doi.org/10.1186/s13049-026-01574-9"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` NTS training is associated with consistent pre- to post-training improvements in knowledge, teamwork attitudes, and self-confidence among ED healthcare professionals. [→ Zhang YuKun 2026](#zhang-yukun-2026)
@@ -63,9 +63,12 @@ The review's synthesis of 15 included studies (two RCTs, one quasi-experimental,
 - [Team training programs in hospitals produce sustained improvements in teamwork knowledge, skills, attitudes, and behaviors on the job, up to 12 months after training](team-training-sustained-ksa-transfer-hospitals.md) — related
 - [Students perceive personalised simulation with adaptive scenario complexity and targeted role allocation as supporting professional confidence and role development](personalised-simulation-confidence-role-development.md) — related
 - [Participants anticipate professional development and patient-level benefits from interprofessional learning](anticipated-benefits-ipe-pharmacy.md) — related
-- [Clinical simulation significantly increases pre-health students' self-reported confidence in clinical identification and emergency skills.](simulation-increases-clinical-confidence.md) — related
+- [Pre-health students' self-reported confidence in clinical identification and emergency skills rose from pre-test to post-test after clinical simulation in one uncontrolled pre-post study.](simulation-increases-clinical-confidence.md) — related
 - [A competency-based multiactor emergency preparedness training curriculum improved cognitive knowledge, self-assessed skill, and scenario performance after video debriefing](competency-based-multiactor-ept-improved-performance.md) — related
 - [An in-situ simulated patient environment improved knowledge and attitude scores across all professional groups](in-situ-simulated-patient-environment-improved-knowledge-attitude.md) — related
 - [Most participants reported perceived competency gains in interprofessional collaboration, communication, teamwork and empathy, and professional knowledge and skills](mcleims-perceived-competency-gains.md) — a narrower finding that bears on this claim
 - [Providers reported increased skill, knowledge, and confidence after training interventions](provider-confidence-knowledge-skill-increased-after-training.md) — a narrower finding that bears on this claim
 - [Participants most cited improved teamwork and exposure to rare clinical scenarios as key benefits](simulation-participants-valued-teamwork-and-rare-scenario-exposure.md) — related
+- [PHTLS-trained professionals report lower self-perceived competence than non-trained peers](phtls-training-lower-self-perceived-competence.md) — reports the opposite
+- [Most students self-reported that their interprofessional collaboration ability was better after the program, in one single-group pre-post study](sbl-global-perceived-improvement-item.md) — related
+- [Undergraduate health students' perceived interprofessional competency scores rose across all six domains from pre-test to post-test after simulation-based learning, in a single-group pre-post study](sbl-improves-interprofessional-competencies-retrospective-pre-post.md) — related

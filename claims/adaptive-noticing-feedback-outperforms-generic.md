@@ -49,3 +49,4 @@ The editorial reports, citing Huang et al. (2025), an intervention with pre-serv
 - [A feedback provision scaffold of prompts plus a sample solution significantly improves the quality of feedback messages pre-service teachers provide on peers' case analyses](feedback-provision-scaffold-improves-feedback-quality.md) — related
 - [The review reports AI-driven personalization improves student engagement and learning outcomes, and virtual teaching assistants support diverse learning needs](ai-personalized-learning-reported-benefits.md) — a broader claim this one bears on
 - [Adaptive feedback does not improve pre-service teachers' diagnostic accuracy in simulation-based learning](ann-adaptive-feedback-no-diagnostic-accuracy-effect.md) — related
+- [The placement developed multiple facets of communication skills, including adapting explanations to diverse learner needs](anatomy-ems-communication-development.md) — related

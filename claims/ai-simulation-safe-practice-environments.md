@@ -9,7 +9,7 @@ generated:
   at: 2026-10-12
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-16
+source_checked: 2026-11-05
 sources:
   - id: jiang-hongzhan-2026
     resource: "https://doi.org/10.2196/95167"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Qualitative findings across 11 studies show learners valued safe, repeatable, low-pressure practice environments and reported enhanced confidence and reduced anxiety. [→ Jiang Hongzhan 2026](#jiang-hongzhan-2026)
@@ -85,3 +85,7 @@ Thematic analysis of qualitative data from 11 studies (focus groups, think-aloud
 - [Students perceive simulation practice as a protective factor that enhances confidence, safety, and readiness for real procedures](simulation-perceived-protective-factor-confidence.md) — a narrower finding that bears on this claim
 - [Divergence between high self-reported collaboration and hesitancy in error reporting within perceived punitive environments](divergence-collaboration-scores-error-reporting-hesitancy.md) — related
 - [Authors attribute SBT performance advantages to repeated structured rehearsal in a controlled learning environment](sbt-advantage-attributed-repeated-structured-rehearsal.md) — related
+- [The placement acted as a safe space fostering self-efficacy, intellectual humility, and uncertainty tolerance](anatomy-ems-safe-space-personal-development.md) — a narrower finding that bears on this claim
+- [Students evaluate structured debriefing positively across knowledge, emotional attitude, and nursing skills](debriefing-positive-student-evaluations.md) — related
+- [Simulation-based BLS training evokes strong emotional engagement and builds nursing students' confidence through repeated practice in a safe, mistake-tolerant environment](simulation-bls-emotional-engagement-confidence.md) — possibly the same claim (merge candidate)
+- [An immersive anatomy education EMS placement fostered self-directed, active, experiential learning and enhanced motivation and clinical relevance of anatomy](anatomy-ems-quality-learning-theme.md) — related

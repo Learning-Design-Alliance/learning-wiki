@@ -107,3 +107,6 @@ This is a conceptual policy paper drawing on the literature and international po
 - [One analyzed article found that lack of access to technological resources in higher education limits academic success among the Latino-ethnic population](technology-access-limits-latino-success.md) — a narrower finding that bears on this claim
 - [Non-users of VM blamed lack of hardware devices, internet access, technical knowledge, and insufficient promotion by instructional personnel](vm-nonusers-obstacles-devices-promotion.md) — a narrower finding that bears on this claim
 - [Access to technology and hardware was not seen as a barrier to SBE readiness, with adequate access reported (mean 3.21)](technology-access-not-a-barrier-to-sbe-readiness.md) — related
+- [Institutional inequity and data governance gaps may widen existing disparities and compromise privacy without explicit safeguards](ai-formative-assessment-equity-data-governance-risk.md) — related
+- [Young new farmers show high acceptance and proficiency with digital technologies and platforms.](young-new-farmers-digital-technology-acceptance.md) — related
+- [The SIAPeC Quiz revealed a gap in digital resource literacy among trainees](siapec-quiz-digital-resource-literacy-gap.md) — related

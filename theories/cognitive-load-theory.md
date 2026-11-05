@@ -235,6 +235,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Select interaction types based on content type rather than random variation to preserve format-meaning coherence](../strategies/content-type-based-interaction-selection.md)
 - [Balance cognitive load in digital learning by aligning design-factor costs and benefits with desired learning outcomes via constructive alignment](../strategies/align-cognitive-load-with-learning-outcomes-digital.md)
 - [Ground problem solving tasks in learners' real-world contexts to reduce extraneous cognitive load](../strategies/ground-tasks-in-learners-real-world-contexts.md)
+- [Dual CTML-CLT framework with Gagné's Nine Events guiding segmented-interactive video design](../designs/ctml-clt-gagne-framework-segmented-video.md)
 
 ## Key Sources
 - Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285. [doi:10.1207/s15516709cog1202_4](https://doi.org/10.1207/s15516709cog1202_4)

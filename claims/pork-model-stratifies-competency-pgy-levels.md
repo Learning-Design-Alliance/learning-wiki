@@ -106,3 +106,4 @@ The comparison between PGY-3 and PGY-2 residents on the rating scale showed no s
 - [Residents rated the pork-based model higher in fidelity and satisfaction than the silicone model, with no difference in operational difficulty](pork-model-higher-fidelity-satisfaction-than-silicone.md) — related
 - [Surgical technique subcomponents of the rating scale discriminate PGY levels better than non-technical subcomponents](technical-subcomponents-greater-discernibility.md) — related
 - [The pork-based model's validation evidence is limited to feasibility and face and construct validity, with key gaps acknowledged](pork-model-validation-gaps.md) — a broader claim this one bears on
+- [The rate of improvement in laparoscopic task completion time differs significantly by training level, with a significant Training Level × Time interaction driven primarily by gains in PGY-1 and PGY-2 residents.](training-level-by-time-interaction-modulates-simulation-impact.md) — related

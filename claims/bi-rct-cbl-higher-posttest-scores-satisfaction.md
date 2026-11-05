@@ -69,3 +69,7 @@ Randomised controlled trial (Bi et al., 2019) in which 80 first-year postgraduat
 - [Online PBL was associated with higher student satisfaction than in-person PBL in a Japanese medical cohort](online-pbl-higher-satisfaction-japanese-cohort.md) — related
 - [Students report higher satisfaction and more positive emotional responses with simulation-based teaching than with traditional practical instruction](simulation-higher-satisfaction-positive-emotions.md) — a narrower finding that bears on this claim
 - [Integrating 3D visualization reconstruction with PBL improves theoretical examination scores versus lecture-based learning in pheochromocytoma training](3d-visualization-pbl-higher-theoretical-scores-pcc.md) — related
+- [CBE-MDT teaching yields higher trainee satisfaction than traditional teaching](cbe-mdt-higher-satisfaction-radiation-oncology.md) — related
+- [Case-based learning combined with multidisciplinary team teaching yields significantly higher theoretical examination scores than lecture-based teaching in liver cancer clinical education.](cbl-mdt-higher-theoretical-examination-scores-liver-cancer.md) — related
+- [CBE-MDT teaching improves final exam scores compared with traditional teaching in radiation oncology rotations](cbe-mdt-improves-exam-scores-radiation-oncology.md) — related
+- [Simulation-based PBLS training increases caregiver confidence and satisfaction with training](simulation-pbls-increases-caregiver-confidence.md) — related

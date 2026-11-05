@@ -65,3 +65,4 @@ Measurement model evaluation of the 38-item, nine-construct questionnaire in the
 - [The self-assessment questionnaire measuring cognition, skill, and attitude showed good validity and reliability in this sample](self-assessment-questionnaire-csa-validity-reliability.md) — related
 - [PBE shows no statistically significant effect on teachers' self-reported pedagogical practices, and the survey measure may lack sensitivity](pbe-no-pedagogical-practice-effect.md) — related
 - [The three measurement instruments show acceptable reliability and validity in this sample](measurement-model-cfa-reliability-validity.md) — related
+- [Most nurse educators in the validation sample lacked required pedagogical training for their role](nurse-educators-lack-pedagogical-training.md) — related

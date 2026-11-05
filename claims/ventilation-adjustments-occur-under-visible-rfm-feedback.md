@@ -52,3 +52,4 @@ Video-recorded adjustment analysis across both manikins in the crossover simulat
 - [Affinity-propagation clustering showed ventilation performance patterns were determined by ventilation behaviour rather than professional role](clustering-performance-by-behaviour-not-role.md) — related
 - [Real-time feedback systems generally improve CPR quality in simulation-based training, particularly compression rate and depth](real-time-feedback-improves-cpr-quality-simulation.md) — a broader claim this one bears on
 - [Real-time feedback training does not improve ventilation quality; both groups fail the 500–600 mL tidal volume target](real-time-feedback-no-ventilation-improvement.md) — related
+- [The proportion of successful attempts on key PBLS actions rose significantly from pre-test to post-test after training, in one uncontrolled pre-post study](simulation-pbls-increases-successful-attempts.md) — related

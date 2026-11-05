@@ -53,7 +53,7 @@ Pre-survey logistic regression (Table 2) controlling for year level and school o
 ## Related Claims
 - [Female students are significantly more likely than male students to use AI for schoolwork and to seek advice from AI tools](females-more-ai-schoolwork-and-advice-use.md) — related
 - [Male secondary students report significantly higher STEM career interest than female students across AI, computer science, and engineering at baseline](baseline-male-higher-stem-career-interest-ai-literacy.md) — related
-- [Both genders improve in recognising AI's role in entertainment platforms after the workshop, with females additionally gaining in identifying TikTok](platform-recognition-gains-netflix-spotify.md) — related
+- [Recognition of AI's role in entertainment platforms rose from pre-test to post-test for both genders after the workshop, and females' recognition of TikTok also rose, in one uncontrolled pre-post study](platform-recognition-gains-netflix-spotify.md) — related
 - [Both male and female students rated their AI knowledge and confidence significantly higher after a one-day AI literacy workshop, which had no comparison group](both-genders-gain-ai-knowledge-confidence-workshop.md) — related
 - [Female students show broader post-workshop gains than males, including significant increases in AI and computer science career interest, while male career interest remains unchanged](females-broader-gains-career-interest-narrow-gap.md) — related
 - [At-risk identification is demographically patterned, with Black, Hispanic, and male students more likely to be identified](at-risk-identification-demographic-patterns.md) — related

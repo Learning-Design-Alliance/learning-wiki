@@ -45,7 +45,7 @@ Posttest and retention test analysis of 65 pre-service teachers' responses about
 
 
 ## Related Claims
-- [Sequential inquiry-based science activities with challenging questions reduce misconceptions associated with the magnetic pole concept and orient participant concepts towards the basic concepts of magnetism.](sequential-inquiry-reduces-magnetic-pole-misconceptions.md) — a broader claim this one bears on
+- [In one uncontrolled pre-post study, participant use of misconceptions associated with the magnetic pole fell from pre-test to post-test, and concepts used were oriented towards the basic concepts of magnetism after sequential inquiry-based science activities with challenging questions](sequential-inquiry-reduces-magnetic-pole-misconceptions.md) — a broader claim this one bears on
 - [Correct answers for determining the numbers of poles and their locations were fewer in the other types of magnets compared to bar and horseshoe magnets in the pretest.](pretest-correct-answers-fewer-other-magnet-types.md) — related
 - [With a sphere magnet, both upper-lower and internal-external surfaces have lost their functions, and the inquiry begins with the question of how to find the poles of a magnet.](sphere-magnet-creates-cognitive-engagement.md) — related
 - [Participants commonly view a magnetic pole as located at the ends, a view associated with upper-lower or internal-external surfaces for a ring magnet.](poles-viewed-as-located-at-ends.md) — related

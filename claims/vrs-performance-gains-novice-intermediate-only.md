@@ -54,3 +54,5 @@ Review reports on one included study (Thomsen): significant improvement of OSACS
 - [Virtual reality simulation training is associated with safer cataract surgery outcomes than supervised surgical training on actual patients alone](vrs-safer-than-supervised-cataract-training.md) — related
 - [The EyeSi Surgical Simulator can differentiate VRS novices from experts, providing construct validity evidence](eyesi-differentiates-novices-from-experts-vrs.md)
 - [Repeated simulator attempts improve VRS performance, with expert groups showing no further improvement](vrs-simulator-performance-curves-improve.md) — possibly the same claim (merge candidate)
+- [No significant difference in rubric scores between intermediate and expert providers in simulated WFWB procedures](no-difference-intermediate-expert-wfwb-scores.md) — related
+- [Experienced physicians with extensive multi-port experience report limited perceived learning gains from single-port transition training](prior-expertise-limits-sp-training-gains.md) — a narrower finding that bears on this claim

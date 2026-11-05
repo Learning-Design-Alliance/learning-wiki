@@ -22,7 +22,7 @@ A researcher-built wooden-box and block assessment task developed by Dejonckheer
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Inquiry-based programme increased informative explorations targeting specific variables (CVS gains)](../claims/inquiry-programme-increases-informative-explorations-cvs.md) [+M]
+- [An inquiry-based programme increased children's observed informative explorations targeting specific variables, compared with non-randomised control classes](../claims/inquiry-programme-increases-informative-explorations-cvs.md) [+W]
 
 ## Related Products and Programmes
 -

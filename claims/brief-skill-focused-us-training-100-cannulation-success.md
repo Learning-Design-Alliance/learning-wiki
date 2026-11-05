@@ -52,3 +52,4 @@ Post-training practical assessment of 30 participants (22 clerks, 8 PGY resident
 - [PGY residents completed US-guided cannulation significantly faster than clerks (68.5 vs. 133 s)](pgy-faster-than-clerks-cannulation-time.md) — related
 - [Completion rate increased from 43% to 100% in the ultrasound-guided phase, a large but statistically non-significant difference](us-guided-completion-rate-100-vs-43-non-significant.md) — related
 - [High-fidelity simulation and procedural simulation workshops yield similar cannulation times for VA-ECMO training](high-fidelity-vs-procedural-simulation-ecmo-cannulation-time.md) — related
+- [All but one of five studies reporting resident confidence before and after an educational intervention reported increased resident confidence.](rhinoplasty-education-interventions-increase-resident-confidence.md) — related

@@ -42,7 +42,7 @@ The authors recommend that the ELT practices used in the Access Program be resea
 - [Access and public school students showed no significant difference in English scores before treatment](../claims/access-public-schools-no-pretest-difference.md) [+W]
 - [Access Program students improved by about 24 points on the diagnostic test over one year](../claims/access-students-significant-prepost-gain.md) [+W]
 - [The complete sample showed a significant overall pre-to-post gain of about 16 points](../claims/overall-sample-significant-prepost-gain.md) [+W]
-- [Public school students improved by only about 8 points over the same year](../claims/public-schools-smaller-prepost-gain.md) [+W]
+- [Public school students' scores rose by only about 8 points from pre-test to post-test over the same year within the public-school group](../claims/public-schools-smaller-prepost-gain.md) [+W]
 
 ## Related Strategies
 - 

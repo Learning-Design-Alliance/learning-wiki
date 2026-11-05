@@ -85,6 +85,7 @@ Co constructing rubrics makes evaluative criteria explicit and gives learners pr
 - [Self-Assessment](../elements/self-assessment.md) — the co-constructed rubric is the instrument learners use to judge their own drafts
 - [Exemplar Analysis](exemplar-analysis.md) — the exemplar-sorting activity that typically precedes or feeds co-construction
 - [Safeguard equity in performance assessment systems through non-negotiables, clear rubrics, normed scoring, multiple pathways, and inclusive design](equity-safeguards-performance-assessment-implementation.md)
+- [Clearly explain the purpose, benefits, challenges, and evaluation criteria of group work, and use detailed rubrics, training, and practice to support equitable peer evaluation.](transparent-communication-peer-evaluation-rubrics.md)
 
 ## Examples
 - **Writing instruction**: Andrade's work with middle-school English learners had students co construct rubrics for essays, then self-assess drafts against them before revision, improving writing quality and student understanding of "good writing"

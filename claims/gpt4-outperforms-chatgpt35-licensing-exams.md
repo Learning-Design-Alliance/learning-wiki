@@ -56,3 +56,4 @@ Random-effects subgroup analysis comparing the two ChatGPT model versions across
 - [Subgroup analyses show significant between-model differences, with Copilot (75.25%) and ChatGPT-4 (72.97%) achieving the highest pooled accuracies](llm-subgroup-copilot-chatgpt4-highest-accuracy.md) — related
 - [LLMs perform worse on dental licensing examinations than on medical licensing examinations](llms-perform-worse-dental-than-medical-licensing-exams.md) — related
 - [GPT-4 performed significantly better on examinations from English-speaking countries (86% vs 80%, P=.02), while GPT-3.5 showed no such difference (P=.72)](gpt4-english-speaking-country-advantage.md) — related
+- [Frontier LLM scores on the FRCS Urology examination represent a substantial improvement over ChatGPT-3.5's reported 35% failure](frontier-llms-improve-over-chatgpt-3-5-frcs-urol.md) — a narrower finding that bears on this claim

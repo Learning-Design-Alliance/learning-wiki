@@ -1,7 +1,7 @@
 ---
 type: claim
-title: VR-based training received significantly higher ratings for medical safety awareness and radiation protection than conventional training (r=0.856)
-description: VR-based training received significantly higher ratings for medical safety awareness and radiation protection than conventional training (r=0.856)
+title: "Students' ratings for medical safety awareness and radiation protection rose significantly from pre-test to post-test after VR-based training in one single-group pre-post study with no comparison group (r=0.856)"
+description: "Students' ratings for medical safety awareness and radiation protection rose significantly from pre-test to post-test after VR-based training in one single-group pre-post study with no comparison group (r=0.856)"
 id: vr-training-higher-safety-awareness-ratings
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# VR-based training received significantly higher ratings for medical safety awareness and radiation protection than conventional training (r=0.856)
+# Students' ratings for medical safety awareness and radiation protection rose significantly from pre-test to post-test after VR-based training in one single-group pre-post study with no comparison group (r=0.856)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
@@ -28,7 +28,7 @@ sources:
 > **Design limits** · Kakimoto Akihiro 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
-`q2 i3` Students rated medical safety awareness and radiation protection higher after VR-based training (mean 4.35, SD 0.46) than conventional training (mean 3.07, SD 0.57), r=0.856, P<.001. [→ Kakimoto Akihiro 2026](#kakimoto-akihiro-2026)
+`q2 i3` Students' ratings for medical safety awareness and radiation protection rose from pre-test (mean 3.07, SD 0.57) to post-test (mean 4.35, SD 0.46) after VR-based training, in one single-group pre-post study with no comparison group, r=0.856, P<.001. [→ Kakimoto Akihiro 2026](#kakimoto-akihiro-2026)
 
 ## Evidence
 
@@ -49,7 +49,7 @@ Primary outcome domain D in the within-participants comparison of 20 students; W
 - [Conventional training received significantly higher ratings for perceived realism and immersion than VR-based training (r=0.774)](conventional-training-higher-realism-immersion.md) — related
 - [Qualitative analysis found radiation became perceptible in VR for all participants, while all reported operability differences favoring conventional training](qualitative-themes-visualization-versus-operability.md) — related
 - [VR-based training with radiation field visualization received significantly higher ratings for radiation understanding and visualization than conventional training (r=0.878)](vr-radiation-visualization-higher-understanding-ratings.md) — related
-- [VR-based training received significantly higher ratings for learning satisfaction and self-evaluation than conventional training](vr-training-higher-satisfaction-self-evaluation.md) — related
+- [In one group measured before and after, learning satisfaction and self-evaluation ratings were significantly higher after VR-based training than after conventional training](vr-training-higher-satisfaction-self-evaluation.md) — related
 - [No significant differences between VR-based and conventional training in operational understanding, technical skills, or system usability](no-difference-operational-skills-usability.md) — related
 - [Immersive VR simulation increased self-efficacy and intrinsic motivation more than a conventional safety manual in laboratory safety training](immersive-vr-boosted-self-efficacy-intrinsic-motivation.md) — related
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — related

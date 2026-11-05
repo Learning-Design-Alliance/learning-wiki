@@ -55,4 +55,5 @@ Individual interviews with the five facilitators of the SIMMed training cycle. F
 - [Low facilitator-to-student ratios (roughly 1:6 to 1:16) are preferred in CBD- and simulation-based IPE and were associated with more interaction and feedback opportunities](low-facilitator-ratios-ipe.md) — related
 - [Objective, device-based feedback is preferred in cardiac arrest simulation education](device-based-feedback-preferred.md) — related
 - [Structured debriefings enabled all scenario participants to reflect on and discuss their performance with constructive instructor feedback](three-phase-debriefing-reflection-feedback.md) — related
-- [Videolaryngoscopy enables shared visualisation between instructor and learner, supporting immediate corrections during intubation training](vl-shared-view-supports-instructor-feedback.md) — related
+- [The source described shared visualisation between instructor and learner and immediate corrections during videolaryngoscopy intubation training](vl-shared-view-supports-instructor-feedback.md) — related
+- [Facilitator role and quality of structured debriefing are critical determinants of nursing students' satisfaction with simulation-based BLS training](simulation-bls-facilitator-debriefing-quality.md) — related

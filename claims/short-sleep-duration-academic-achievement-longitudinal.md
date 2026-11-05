@@ -81,3 +81,4 @@ Same cohort analysis of baseline sleep duration categories (<9, 9-10, ≥10 hour
 - [Infants who slept <11 hours/day showed no association with mother- or teacher-reported neurobehavioral outcomes at age 7 after full adjustment](infant-sleep-under-11-hours-no-association.md) — related
 - [Sleep duration shows an inverted U-shaped association with academic performance in all five subjects, with a peak around 8 hours of nightly sleep](inverted-u-sleep-duration-academic-performance.md) — related
 - [Each additional hour of homework is associated with about 0.335 fewer hours of nightly sleep, and electronic device use is also negatively associated](homework-device-use-reduce-sleep-duration.md) — related
+- [Referred students reported significantly longer commute times and slightly longer sleep duration than non-referred students](commute-time-sleep-associated-referral-ghana-nursing.md) — related

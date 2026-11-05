@@ -54,3 +54,4 @@ Theme 2 subtheme on resources and supportive infrastructure for Latinx youth and
 - [Youth and parents reimagined schools without discrimination, with clear rules for equitable treatment, and with adults and peers who speak up against discrimination and support them](speaking-up-against-discrimination-allies.md) — related
 - [Teachers report a burden of daily bureaucratic tasks and a desire to automate them](teachers-want-bureaucratic-task-automation.md) — related
 - [Individually based protective strategies such as active coping are ineffective for youth facing the most severe and chronic stressors unless broader interpersonal and setting supports are in place.](active-coping-ineffective-without-supports-severely-stressed-youth.md) — related
+- [Participants reported logistical and administrative burdens associated with orchestrating teaching events.](pedagogical-internship-track-administrative-burden.md) — related

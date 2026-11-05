@@ -50,4 +50,4 @@ Same quasi-experimental sample of 57 preschool children. The repeated-measures a
 - [Percentage of uninformative explorations decreased from pre-test to post-test in the intervention group but not controls](inquiry-preschool-science-uninformative-decrease.md) — related
 - [Intervention group explored more overall at post-test relative to controls](inquiry-preschool-science-overall-exploration-increase.md) — related
 - [Inquiry-based science activities increased spontaneous exploratory play in preschoolers relative to controls](inquiry-based-science-increases-preschool-exploratory-play.md) — related
-- [Inquiry-based programme increased informative explorations targeting specific variables (CVS gains)](inquiry-programme-increases-informative-explorations-cvs.md) — possibly the same claim (merge candidate)
+- [An inquiry-based programme increased children's observed informative explorations targeting specific variables, compared with non-randomised control classes](inquiry-programme-increases-informative-explorations-cvs.md) — possibly the same claim (merge candidate)

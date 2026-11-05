@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Ramadoni 2022: no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` In CFC, conceptual understanding correlated with self-efficacy at r=.362 (p<.05); in PTFC at r=.394 (p<.05). [→ Ramadoni 2022](#ramadoni-2022)

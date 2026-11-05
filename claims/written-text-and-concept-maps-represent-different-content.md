@@ -28,7 +28,7 @@ sources:
 > **Currency** · newest study 2010 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Written texts and concept maps produced by the same learners on the same topic represent different structure and content, with low similarity across most HIMATT measures. [→ Ifenthaler 2010](#ifenthaler-2010)
+`q3 i?` Written texts and concept maps from the same learners on the same topic showed different structure and content, with low similarity across most HIMATT measures. [→ Ifenthaler 2010](#ifenthaler-2010)
 
 ## Evidence
 

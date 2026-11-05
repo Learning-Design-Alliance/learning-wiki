@@ -52,3 +52,4 @@ Reliability analysis of the 30-item questionnaire based on Gardner's Attitude & 
 - [The post-interaction reflection instrument showed satisfactory internal consistency (Cronbach's α = .863)](ai-reflection-instrument-alpha-863.md) — related
 - [The post-study survey instrument showed high internal consistency (alpha = 0.90)](cyberagents-survey-alpha-090.md) — related
 - [The multiple intelligences questionnaire demonstrated reliability with an overall Cronbach's alpha of 0.8587](mi-questionnaire-reliability.md) — related
+- [The Salus-Ed questionnaire demonstrates excellent overall internal consistency (α = 0.95)](salus-ed-internal-consistency.md) — related

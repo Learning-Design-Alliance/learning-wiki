@@ -41,7 +41,7 @@ The article proposes a four-day structured sequence in which trainee teachers wa
 
 ## Claims
 
-- [Movie-based watch-write-talk intervention significantly raises multiculturalism perceptions](../claims/movie-intervention-raises-multiculturalism-perceptions.md) [+M]
+- [Multiculturalism perceptions rose from pre-test to post-test after a movie-based watch-write-talk intervention, in one uncontrolled pre-post study](../claims/movie-intervention-raises-multiculturalism-perceptions.md) [+M]
 - [Written movie reflections become progressively more positive across successive movies](../claims/movie-reflections-increasingly-positive-across-movies.md) [+W]
 - [Post-intervention perception gains do not differ by gender, age, region of birth, or graduation type](../claims/posttest-gains-no-demographic-differences.md) [+M]
 - [Pre-intervention multiculturalism perceptions do not differ by gender, age, region of birth, or graduation type](../claims/pretest-perceptions-no-demographic-differences.md) [+M]

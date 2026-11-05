@@ -65,6 +65,7 @@ Norms function as procedural scaffolding: they reduce the cognitive and social u
 - [Implement programs to improve students' classroom behavior and social skills](behavior-social-skills-programs-strategy.md)
 - [Explicitly frame a group AI agent's role and design introductory activities that encourage collaborative dialogue rather than system testing](frame-agent-role-and-design-dialogue-based-introductory-activities.md)
 - [Co-design AI policies with students through open dialogue rather than enforcement and surveillance](codesign-ai-policies-open-dialogue.md)
+- [Establish group norms and procedural roles, delegate authority, and monitor group dynamics to foster student accountability.](group-roles-norms-accountability.md)
 
 ## Examples
 - **Intensive Summer institutes (e.g., HILT/Harvard Bok Center teaching consultations)** recommend posting 3–5 discussion norms and rehearsing them with a first-day pair-share before the first graded discussion.

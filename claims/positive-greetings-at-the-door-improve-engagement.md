@@ -34,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q1`–`q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 Greeting each student individually and positively as they enter the classroom increases academic engaged time and reduces disruptive behavior.
 

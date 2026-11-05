@@ -50,3 +50,5 @@ Multivariate linear regression on 392 nurses (F = 71.446, p < 0.001, R2 = 0.711)
 - [Healthcare professionals in tertiary hospitals had significantly higher odds of high knowledge-based BLS competency than those in primary hospitals.](tertiary-hospital-higher-bls-competency-than-primary.md) — related
 - [Providers working in District Hospitals/Medical Centers had higher odds of good partograph knowledge than those in Health Centers](district-hospital-higher-odds-partograph-knowledge.md) — related
 - [Self-directed learning competence is positively associated with core competence among infectious disease nurses](self-directed-learning-competence-core-competence-infectious-disease-nurses.md) — related
+- [Research participation is significantly positively associated with job competency among public health students after propensity score matching](research-participation-associated-with-job-competency-public-health-students.md) — related
+- [Nurses' working experience is associated with AI competence; other demographics show no significant association](working-experience-associated-with-aic-nurses.md) — related

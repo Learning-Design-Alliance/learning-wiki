@@ -1,7 +1,7 @@
 ---
 type: claim
-title: AI-generated revision podcasts produce statistically significant immediate learning gains in medical students at both study centres
-description: AI-generated revision podcasts produce statistically significant immediate learning gains in medical students at both study centres
+title: "Medical students' MCQ scores rose significantly from pre-test to immediate post-test at both study centres after AI-generated revision podcasts, in a one-group pre-post study"
+description: "Medical students' MCQ scores rose significantly from pre-test to immediate post-test at both study centres after AI-generated revision podcasts, in a one-group pre-post study"
 id: ai-revision-podcasts-immediate-learning-gains-medical-students
 status: review
 generated:
@@ -21,7 +21,7 @@ sources:
     rigour: 1
 ---
 
-# AI-generated revision podcasts produce statistically significant immediate learning gains in medical students at both study centres
+# Medical students' MCQ scores rose significantly from pre-test to immediate post-test at both study centres after AI-generated revision podcasts, in a one-group pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium

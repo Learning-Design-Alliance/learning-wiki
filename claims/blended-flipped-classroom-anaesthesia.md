@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2025
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 sources:
   - id: blackwood-lachlan-2025
     resource: "https://doi.org/10.1186/s12909-025-07502-2"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q1`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The review suggests that blended learning or flipped classroom models may enable learners to process theoretical constructs using e-learning resources at their own pace before engaging in traditional practical skills learning. [→ Blackwood Lachlan 2025](#blackwood-lachlan-2025)
@@ -55,4 +55,4 @@ The review suggests that blended learning or flipped classroom models may enable
 - [E-learning is an important adjunct to traditional learning methods in anaesthesia education](e-learning-adjunct-anaesthesia-education.md) — related
 - [Electronic resources as adjuncts to in-person teaching were associated with increased attendance in three studies](electronic-resources-adjunct-increased-attendance.md) — a narrower finding that bears on this claim
 - [The review reports that a blended learning model contributed more to high school students' biology achievement than traditional teaching methods](blended-learning-beats-traditional-biology-achievement-review.md) — related
-- [The flipped classroom rests on blended learning, student-centered learning, and active learning as theoretical foundations](flipped-classroom-theoretical-foundations.md) — related
+- [Ahmad (2016) identified blended learning, student-centered learning, and active learning as theoretical foundations of the flipped classroom](flipped-classroom-theoretical-foundations.md) — related

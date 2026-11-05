@@ -46,6 +46,7 @@ The digest presents Robert Gagne's Events of Instruction as the dominant framewo
 ## Examples
 
 - [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
+- [Dual CTML-CLT framework with Gagné's Nine Events guiding segmented-interactive video design](../designs/ctml-clt-gagne-framework-segmented-video.md)
 
 ## Key Sources
 - Molenda, Michael. (2002). A New Framework for Teaching in the Cognitive Domain. ERIC Digest. https://eric.ed.gov/?id=ED470983

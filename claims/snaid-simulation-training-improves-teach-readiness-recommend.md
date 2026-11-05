@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Simulation-based training with the Snaid® extrication device significantly improves ability to teach others, readiness to use the device, and willingness to recommend it
-description: Simulation-based training with the Snaid® extrication device significantly improves ability to teach others, readiness to use the device, and willingness to recommend it
+title: Ability to teach others, readiness to use, and willingness to recommend the Snaid® extrication device rose from pre-test to post-test after simulation-based training in one uncontrolled pre-post study
+description: Ability to teach others, readiness to use, and willingness to recommend the Snaid® extrication device rose from pre-test to post-test after simulation-based training in one uncontrolled pre-post study
 id: snaid-simulation-training-improves-teach-readiness-recommend
 status: review
 generated:
@@ -28,14 +28,14 @@ sources:
     rigour: 1
 ---
 
-# Simulation-based training with the Snaid® extrication device significantly improves ability to teach others, readiness to use the device, and willingness to recommend it
+# Ability to teach others, readiness to use, and willingness to recommend the Snaid® extrication device rose from pre-test to post-test after simulation-based training in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Ability to teach others how to use the device improved significantly from 32.7% pretest to 96.8% posttest (p < 0.001), and readiness to use the device improved from 43.6% to 100% (p < 0.001). [→ Segura-Fornieles 2026](#segura-fornieles-2026)
+`q2 i?` Self-reported ability to teach others how to use the device improved significantly from 32.7% pretest to 96.8% posttest (p < 0.001), and self-reported readiness to use the device improved from 43.6% to 100% (p < 0.001). [→ Segura-Fornieles 2026](#segura-fornieles-2026)
 `q2 i?` Willingness to recommend device use improved significantly from M = 7.87 (SD = 1.71) pre-intervention to M = 9.05 (SD = 0.83) post-intervention (p < 0.001). [→ Segura-Fornieles 2026 (2)](#segura-fornieles-2026-2)
 
 ## Evidence
@@ -64,9 +64,9 @@ Same study (N = 156); willingness to recommend the device self-rated on a 0–10
 
 
 ## Related Claims
-- [Simulation-based training with the Snaid® extrication device significantly improves knowledge of device use among military personnel](snaid-simulation-training-improves-knowledge.md) — related
-- [Simulation-based training with the Snaid® extrication device significantly improves checklist-assessed procedural performance across all observed parameters](snaid-simulation-training-improves-procedural-checklist.md) — related
+- [Knowledge scores rose significantly from pre-test to post-test among military personnel after simulation-based training with the Snaid® extrication device, in one uncontrolled pre-post study](snaid-simulation-training-improves-knowledge.md) — related
+- [Checklist-assessed procedural performance was higher at post-test than pre-test across all observed parameters in one group with no comparison group after simulation-based training with the Snaid® extrication device](snaid-simulation-training-improves-procedural-checklist.md) — related
 - [Simulation-based training with the Snaid® extrication device significantly improves self-efficacy among military personnel](snaid-simulation-training-improves-self-efficacy.md) — related
 - [Simulation-based training with the Snaid® extrication device significantly reduces extrication time from the Leopard 2E tank](snaid-simulation-training-reduces-extrication-time.md) — related
-- [Simulation-based training with the Snaid® extrication device significantly improves skill, confidence, and comfort among military personnel](snaid-simulation-training-improves-skill-confidence.md) — related
+- [Military personnel's self-rated skill, confidence and comfort with the Snaid® extrication device rose from pre-test to post-test after simulation-based training, in one uncontrolled pre-post study](snaid-simulation-training-improves-skill-confidence.md) — related
 - [Turret position moderates specific checklist items at post-test, favoring turret 12](snaid-turret-position-checklist-items.md) — related

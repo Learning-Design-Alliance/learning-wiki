@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Ebadi 2018: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q1 i?` Experimental-group participants reported that the instructor's online corrective feedback helped them notice and correct their errors, while peer feedback was scarce. [→ Ebadi 2018](#ebadi-2018)

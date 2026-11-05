@@ -49,3 +49,4 @@ The review reports, citing Kamalov et al., a field study of 10 faculty across tw
 - [Active participation and commitment of teaching staff were essential for successful CA-supported LO assessment, fostered by clear actionable data and institutional support](faculty-engagement-essential-for-ca-assessment-success.md) — related
 - [An agentic AI instructor sustained and deepened student engagement across successive course modules in a field deployment](agentic-instructor-sustained-engagement-iisc.md) — related
 - [Edtech coaches frequently helped teachers use video conferencing tools, LMS platforms, and asynchronous instruction during closures](coach-support-to-teachers-closures.md) — related
+- [Participants reported logistical and administrative burdens associated with orchestrating teaching events.](pedagogical-internship-track-administrative-burden.md) — related

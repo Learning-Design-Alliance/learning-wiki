@@ -1,0 +1,54 @@
+---
+type: claim
+title: Extremity tourniquet skill and self-confidence decline significantly at two months while remaining above baseline
+description: Extremity tourniquet skill and self-confidence decline significantly at two months while remaining above baseline
+id: extremity-tourniquet-skill-decay-two-months
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-04
+evidence_strength: moderate
+newest_evidence: 2026
+sources:
+  - id: sahin-abdul-samet-2026
+    resource: "https://doi.org/10.1186/s12909-026-09111-z"
+    title: "Sahin Abdul Samet, Yilmaz Mutlu, Imamoglu Melih, Beser Muhammet Fatih, Karaca Yunus, Pasli Sinan, Gunduz Abdulkadir. (2026). Effectiveness and retention of extremity and junctional tourniquet training among medical interns. BMC Medical Education. https://doi.org/10.1186/s12909-026-09111-z"
+    author: Sahin Abdul Samet, Yilmaz Mutlu, Imamoglu Melih, Beser Muhammet Fatih, Karaca Yunus, Pasli Sinan, Gunduz Abdulkadir
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
+---
+
+# Extremity tourniquet skill and self-confidence decline significantly at two months while remaining above baseline
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` Extremity tourniquet skill and self-confidence scores declined significantly at two months compared with immediate post-training levels (p < 0.001), though they remained above baseline values. [→ Sahin Abdul Samet 2026](#sahin-abdul-samet-2026)
+
+## Evidence
+
+### Sahin Abdul Samet 2026
+
+Sahin Abdul Samet, Yilmaz Mutlu, Imamoglu Melih, Beser Muhammet Fatih, Karaca Yunus, Pasli Sinan, Gunduz Abdulkadir. (2026). Effectiveness and retention of extremity and junctional tourniquet training among medical interns. BMC Medical Education. https://doi.org/10.1186/s12909-026-09111-z
+
+`q2 · i?` · `causal · r1`
+
+In the 32-intern longitudinal study, extremity skill scores (max 20) fell from 18.9 ± 1.6 post-training to 16.7 ± 1.8 at follow-up (baseline 8.6 ± 3.7); the post-test to follow-up pairwise comparison was significant after Bonferroni correction.
+
+> "Although extremity tourniquet skill and self-confidence scores declined significantly at two months compared with immediate post-training levels (p < 0.001), they remained above baseline values."
+
+## Discussion
+
+
+## Related Claims
+- [Knowledge gains declined significantly from post-training to 3-month follow-up while remaining above baseline](pr-knowledge-decline-at-3-months-above-baseline.md) — related
+- [Improvement in poverty attitudes declines significantly between post-simulation and two-month follow-up](attitude-gains-decline-at-two-month-follow-up.md) — related
+- [Junctional tourniquet skill scores rose from 1.7 ± 2.1 to 10.8 ± 0.9 and were 10.4 ± 1.0 at two-month follow-up in one single-group pre-post study](junctional-tourniquet-skill-retention-two-months.md) — related
+- [Zlotos study found confidence gains at post-test and 6-month follow-up, with knowledge peaking immediately then declining but staying above pretest](zlotos-confidence-knowledge-trajectory.md) — related
+- [Knowledge and skills decline significantly at 3 months after both training modalities](knowledge-and-skills-decline-significantly-at-3-months.md) — related
+- [Three-hour simulation-based tourniquet training significantly improves medical interns' knowledge, skills, attitudes, self-confidence and self-efficacy](simulation-tourniquet-training-improves-intern-outcomes.md) — related
+- [Knowledge and self-efficacy scores remained stable, while attitude scores slightly decreased from post-test to two-month follow-up among medical interns in one uncontrolled pre-post study](knowledge-self-efficacy-attitude-retention.md) — reports the opposite

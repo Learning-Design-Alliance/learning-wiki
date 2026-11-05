@@ -46,5 +46,5 @@ Two-way MANOVA with group and type of high school variables on the quasi-experim
 
 ## Related Claims
 - [Teaching with educational technology innovations and techniques produces statistically significant gains in total academic achievement among pre-service teachers compared with traditional methods](edtech-innovations-increase-academic-achievement-practicum.md) — related
-- [Inquiry-based instruction significantly improved pre-service science teachers' scientific process skills from pretest to post-test in a university biology laboratory](inquiry-instruction-improved-preservice-spst-pre-post.md) — related
+- [Pre-service science teachers' scientific process skills rose significantly from pretest to post-test within the experimental group during inquiry-based instruction in a university biology laboratory](inquiry-instruction-improved-preservice-spst-pre-post.md) — related
 - [Frequency of internet use significantly affects good teaching, generic skills, and e-learning subscale scores](internet-use-frequency-affects-effective-teaching-subscales.md) — related

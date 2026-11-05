@@ -45,7 +45,7 @@ Effect size analysis of the pre-post improvement for the 30-student indirect str
 
 
 ## Related Claims
-- [The effect size for the direct strategies group's pre-post improvement was large (η2 = 0.11)](direct-strategies-large-effect-size-eta-011.md) — related
+- [The direct strategies group's pre-test to post-test difference in means was large (η2 = 0.11), measured within that group](direct-strategies-large-effect-size-eta-011.md) — related
 - [The flipped classroom model did not significantly affect pre-service teachers' academic achievement compared with traditional blended learning over four weeks](fc-model-no-significant-achievement-effect.md) — related
 - [The direct strategies group outperformed the indirect strategies group on vocabulary acquisition at pre-intermediate level](direct-group-outperformed-indirect-group-vocabulary.md) — related
 - [The Interval*Group interaction effect on RCT scores was a medium effect (partial eta² = 0.659 per the article's reading of Cohen, 1988)](elbrcs-medium-effect-eta-0659.md) — related

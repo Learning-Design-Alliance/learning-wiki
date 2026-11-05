@@ -65,6 +65,6 @@ Authors' interpretation in the conclusions linking the significant skill-level g
 
 ## Related Claims
 - [Teaching with FACTs produces significantly better inquiry-skill post-test results than teacher-centred teaching without FACTs in upper-secondary science](facts-improve-inquiry-skills-teacher-centred.md) — a broader claim this one bears on
-- [Inquiry-based instruction significantly improved pre-service science teachers' scientific process skills from pretest to post-test in a university biology laboratory](inquiry-instruction-improved-preservice-spst-pre-post.md) — related
+- [Pre-service science teachers' scientific process skills rose significantly from pretest to post-test within the experimental group during inquiry-based instruction in a university biology laboratory](inquiry-instruction-improved-preservice-spst-pre-post.md) — related
 - [FACTs benefit lower-performing students most: significant gains for Passed and Passed-very-well students but not for Passed-with-distinction students](facts-benefit-lower-performing-students.md) — related
 - [Gender was not a determining factor in FACT efficacy, although only males showed a significant pre-to-post gain](gender-not-determining-factor-facts.md) — related

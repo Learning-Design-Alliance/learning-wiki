@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 sources:
   - id: omirzakova-2026
     resource: "https://doi.org/10.20897/ejsteme/19221"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Heavy dependence on ready-made AI solutions may reduce opportunities to practise problem-solving, and AI tools including specialised Math-LLMs can produce incorrect solutions or flawed strategies on complex problems. [→ Omirzakova 2026](#omirzakova-2026)
@@ -222,3 +222,4 @@ Review synthesis on uncritical trust in AI outputs. The authors conclude that "u
 - [Over-reliance on AI leading to superficial learning is the most frequently reported learning risk, documented in 65.52% of reviewed studies](overreliance-superficial-learning-risk.md) — related
 - [Students' overreliance on generative AI can limit development of critical thinking skills when AI replaces rather than scaffolds learner reasoning](generative-ai-overreliance-limits-critical-thinking-development.md) — related
 - [Professional accuracy showed the smallest improvement among the five dimensions, with some students scoring lower due to uncritical adoption of AI-generated content.](professional-accuracy-gains-smallest-among-dimensions.md) — a narrower finding that bears on this claim
+- [Epistemic overtrust is a key risk: learners may accept AI outputs because they appear authoritative even when reasoning is incomplete, biased, or unsupported](epistemic-overtrust-ai-feedback-risk.md) — a narrower finding that bears on this claim

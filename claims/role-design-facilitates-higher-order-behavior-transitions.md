@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Role design facilitates transitions among higher-order collaborative behaviors in human-GAI collaboration
-description: Role design facilitates transitions among higher-order collaborative behaviors in human-GAI collaboration
+title: Transitions among higher-order collaborative behaviors were observed from pre-test to post-test after role design in human-GAI collaboration, in one group with no comparison group
+description: Transitions among higher-order collaborative behaviors were observed from pre-test to post-test after role design in human-GAI collaboration, in one group with no comparison group
 id: role-design-facilitates-higher-order-behavior-transitions
 status: review
 generated:
@@ -21,14 +21,14 @@ sources:
     rigour: "?"
 ---
 
-# Role design facilitates transitions among higher-order collaborative behaviors in human-GAI collaboration
+# Transitions among higher-order collaborative behaviors were observed from pre-test to post-test after role design in human-GAI collaboration, in one group with no comparison group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
 > **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` The role intervention facilitated transitions among higher-order collaborative behaviors, as shown by lag sequential analysis of interaction. [→ Cheng 2026](#cheng-2026)
+`q3 i?` Transitions among higher-order collaborative behaviors were observed from pre-test to post-test after the role intervention, in one group with no comparison group, as shown by lag sequential analysis of interaction. [→ Cheng 2026](#cheng-2026)
 
 ## Evidence
 
@@ -52,7 +52,7 @@ Behavioral interaction data from the quasi-experiment with 58 graduate students 
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — the general claim this finding bears on, with the studies behind it
 - [High CT students used the AICA for code understanding and debugging while low CT students used it for direct answer retrieval](ct-groups-differ-aica-behavioral-patterns.md) — related
 - [Collaborative knowledge construction among graduate students working with generative AI online was of higher quality after a symbiosis theory-based role design than before it, in a pretest-posttest study with no comparison group reported](role-design-enhances-collaborative-knowledge-construction-quality.md) — related
-- [Role design improves learners' perceived usefulness and ease of use of GAI, but moderately increases collaborative cognitive load](role-design-improves-gai-perceptions-raises-cognitive-load.md) — related
+- [Learners' perceived usefulness and ease of use of GAI rose from pre-test to post-test, while collaborative cognitive load moderately rose, in one uncontrolled pre-post study](role-design-improves-gai-perceptions-raises-cognitive-load.md) — related
 - [Student-agent interaction featured a significant Query-Evaluation-Query verification loop (RM-QR-EA), distinct from the linear QR-UN path of student-instructor interaction](query-evaluation-verification-loop.md) — related
 - [Video review produces more structured reflective behavior patterns, with modality-specific video interaction sequences](video-review-structured-reflective-behavior-patterns.md) — related
 - [Sequential analysis methods for discussion forums avoid the loss of sequential interaction information in coded-posting statistics](sequential-analysis-preserves-interaction-information.md) — related

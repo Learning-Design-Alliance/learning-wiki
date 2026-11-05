@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Both low-ability training and low-ability control children improved significantly in early numeracy from pre-test to post-test
-description: Both low-ability training and low-ability control children improved significantly in early numeracy from pre-test to post-test
+title: Early numeracy scores rose significantly from pre-test to post-test in both the low-ability training and low-ability control groups, with change measured within each group
+description: Early numeracy scores rose significantly from pre-test to post-test in both the low-ability training and low-ability control groups, with change measured within each group
 id: low-ability-children-both-groups-significant-pre-post-gains
 status: review
 generated:
@@ -28,15 +28,15 @@ sources:
     rigour: 1
 ---
 
-# Both low-ability training and low-ability control children improved significantly in early numeracy from pre-test to post-test
+# Early numeracy scores rose significantly from pre-test to post-test in both the low-ability training and low-ability control groups, with change measured within each group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i3` large
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i3` The low-ability training group improved significantly from pre- to post-test (V = 0, p = .002, printed effect size |r| = .85). [→ Meloni et al. 2017](#meloni-et-al-2017)
-`q2 i3` The low-ability control group also improved significantly from pre- to post-test (V = 1, p = .005, printed effect size |r| = .76). [→ Meloni et al. 2017 (2)](#meloni-et-al-2017-2)
+`q2 i3` Early numeracy scores in the low-ability training group rose significantly from pre- to post-test, based on a within-group comparison (V = 0, p = .002, printed effect size |r| = .85). [→ Meloni et al. 2017](#meloni-et-al-2017)
+`q2 i3` Early numeracy scores in the low-ability control group also rose significantly from pre- to post-test, based on a within-group comparison (V = 1, p = .005, printed effect size |r| = .76). [→ Meloni et al. 2017 (2)](#meloni-et-al-2017-2)
 
 ## Evidence
 
@@ -67,5 +67,5 @@ Wilcoxon paired test on the low-ability control group (n=11) in the 25-child sub
 - [Number Sense](../learner-variables/number-sense.md) — outcome: instruction changes it
 
 ## Related Claims
-- [All three groups (cooperative learning, individual learning, and control) improved significantly in early numeracy from pre-test to post-test over 12 weeks](all-groups-significant-pre-post-numeracy-gain-middle-income-kindergarteners.md) — a broader claim this one bears on
+- [Early numeracy scores rose significantly from pre-test to post-test over 12 weeks in the cooperative learning, individual learning, and control groups, with changes measured within each group](all-groups-significant-pre-post-numeracy-gain-middle-income-kindergarteners.md) — a broader claim this one bears on
 - [Among low-early-math-ability kindergarteners, supplemental training produced significantly higher improvement than an equally low-ability control group](low-ability-kindergarteners-training-outperforms-control.md) — related

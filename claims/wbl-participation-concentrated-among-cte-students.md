@@ -48,3 +48,4 @@ Analysis of the district's novel WBL participation data as part of the report's 
 - [CTE programs of study vary across CPS high schools and are more common on the south and west sides](cte-programs-vary-and-cluster-south-west-sides.md) — related
 - [Most CTE students also participated in college-level coursework, though CTE students had slightly lower AP participation](cte-students-college-coursework-participation.md) — related
 - [CPS concentrated CCL resources in a subset of schools with numerous CTE programs of study](ccl-resources-concentrated-in-strong-cte-schools.md) — related
+- [Only 58.3% of undergraduate public health students have participated in research projects, with opportunities concentrated among academically strong students](research-participation-prevalence-58-percent-selective-barriers.md) — related

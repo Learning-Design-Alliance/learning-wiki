@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2012
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: yalçınkaya-2012
     resource: "https://eric.ed.gov/?id=EJ975553"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i1`–`i2`
-> **Currency** · newest study 2012 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` Follow-up univariate ANOVAs on gain scores showed significant treatment effects on extrinsic goal orientation (η²=0.103), task value (η²=0.169), control of learning beliefs (η²=0.175), and self-efficacy for learning and performance (η²=0.346). [→ Yalçınkaya 2012](#yalcnkaya-2012)

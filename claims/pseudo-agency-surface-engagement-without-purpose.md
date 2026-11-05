@@ -54,3 +54,4 @@ The paper reports, citing González-Howard et al. (2024), an example in which st
 - [Teachers are positioned as moral gatekeepers of AI use without adequate structural support](teachers-moral-gatekeepers-ai-lacking-support.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Marzano's taxonomy chosen over Bloom's because it accommodates three knowledge types and positions metacognition and ethics](marzano-over-bloom-rationale-genai-literacy.md) — related
+- [Epistemic overtrust is a key risk: learners may accept AI outputs because they appear authoritative even when reasoning is incomplete, biased, or unsupported](epistemic-overtrust-ai-feedback-risk.md) — related

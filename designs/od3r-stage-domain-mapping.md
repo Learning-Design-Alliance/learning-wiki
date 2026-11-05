@@ -39,7 +39,7 @@ The article assigns each OD3R stage a domain profile: orientation generates moti
 ### Claims
 
 - [All categories of students' scientific attitudes improve after implementation of the OD3R method, with responsibility showing the highest score](../claims/od3r-improves-scientific-attitudes.md) [+W]
-- [The OD3R method significantly increases students' practical skills in biochemistry, from an average of 49.5 before to 74 after implementation](../claims/od3r-increases-practical-skills.md) [+W]
+- [Students' practical skill scores in biochemistry rose from an average of 49.5 before to 74 after OD3R implementation, in a one-group pre-post study with no comparison group](../claims/od3r-increases-practical-skills.md) [+W]
 
 ## Related Designs
 

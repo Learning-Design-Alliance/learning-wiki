@@ -53,6 +53,7 @@ The article concludes that "the blend itself will focus on optimizing the mix of
 - [Blended Learning](blended_learning.md)
 - [Blend web-based and traditional approaches rather than replacing classroom instruction with web-based instruction](amalgamate-web-based-and-traditional-approaches.md)
 - [Inform teacher trainees about online self-study tools and pair phonology coursework with web-based pronunciation resources](inform-trainees-of-online-pronunciation-tools.md)
+- [Blend digital resources with traditional teaching to create a blended learning approach](blended-digital-traditional-pathology-teaching.md)
 
 ## Examples
 -

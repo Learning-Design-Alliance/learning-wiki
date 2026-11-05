@@ -45,6 +45,7 @@ The article uses the ADDIE model as the organizing framework for designing its c
 ## Related Designs
 
 - [ADDIE instructional design model guiding the phased development of an AI-based learning tool](addie-model-guided-vega-development.md)
+- [The ADDIE model as a framework for designing simulation-based delineation training](addie-model-sbl-program-design.md)
 
 ## Examples
 -

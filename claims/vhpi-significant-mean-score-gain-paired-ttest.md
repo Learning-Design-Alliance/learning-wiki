@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Armah 2018: groups were assigned but students were analysed as independent · Armah 2018 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` In the experimental group, mean VHGT scores rose from 18.32 to 30.79 with a significant paired difference (t(74) = -30.776, p = 0.000 < 0.05). [→ Armah 2018](#armah-2018)

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Wongpinunwatana 2013: no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Simple regression showed a positive relationship between perceived enjoyment and perceived ability to perform tasks (F=17.281, p=0.000, R2=0.191). [→ Wongpinunwatana 2013](#wongpinunwatana-2013)
@@ -51,4 +52,4 @@ Simple regression on the same sample (Table 4: F=17.281, p=0.000, R2=0.191); the
 ## Related Claims
 - [Students' perceived enjoyment of learning was positively related to their perceived knowledgeability](enjoyment-positively-related-knowledgeability.md) — related
 - [Higher synopsis enjoyment predicts better comprehension of that synopsis, even controlling for reading ability in Experiment 1](enjoyment-predicts-synopsis-comprehension.md) — related
-- [The role-playing game increased students' perceived ability to perform actual information systems auditing tasks from pretest to posttest](rpg-increased-perceived-ability-perform-audit-tasks.md) — related
+- [Students' perceived ability to perform actual information systems auditing tasks rose from pretest to posttest in one uncontrolled pre-post study of a role-playing game](rpg-increased-perceived-ability-perform-audit-tasks.md) — related

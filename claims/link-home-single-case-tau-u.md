@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "In a single-case study, home-only LINK improved all four children's Spanish expressive vocabulary, with larger effects at maintenance (overall 0.76 baseline-to-intervention; 0.87 baseline-to-maintenance)"
-description: "In a single-case study, home-only LINK improved all four children's Spanish expressive vocabulary, with larger effects at maintenance (overall 0.76 baseline-to-intervention; 0.87 baseline-to-maintenance)"
+title: "In one uncontrolled single-case pre-post study, all four children's Spanish expressive vocabulary rose from baseline to maintenance after home-only LINK, with the overall baseline-to-maintenance value (0.87) larger than the baseline-to-intervention value (0.76)"
+description: "In one uncontrolled single-case pre-post study, all four children's Spanish expressive vocabulary rose from baseline to maintenance after home-only LINK, with the overall baseline-to-maintenance value (0.87) larger than the baseline-to-intervention value (0.76)"
 id: link-home-single-case-tau-u
 status: review
 generated:
@@ -28,14 +28,14 @@ sources:
     rigour: 1
 ---
 
-# In a single-case study, home-only LINK improved all four children's Spanish expressive vocabulary, with larger effects at maintenance (overall 0.76 baseline-to-intervention; 0.87 baseline-to-maintenance)
+# In one uncontrolled single-case pre-post study, all four children's Spanish expressive vocabulary rose from baseline to maintenance after home-only LINK, with the overall baseline-to-maintenance value (0.87) larger than the baseline-to-intervention value (0.76)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Three children improved significantly on the RNA from baseline to intervention (Tau-U 0.82 to 1); the fourth improved significantly only by maintenance. [→ Baker 2016](#baker-2016)
+`q2 i?` Three children's RNA scores rose significantly from baseline to intervention (Tau-U 0.82 to 1); the fourth child's score rose significantly only by maintenance. [→ Baker 2016](#baker-2016)
 `q2 i?` Receptive vocabulary gains were smaller than expressive gains for three of four children; Maria was the exception (Tau-U = 0.89). [→ Baker 2016 (2)](#baker-2016-2)
 
 ## Evidence
@@ -68,4 +68,4 @@ Single-case receptive vocabulary (RVK) analysis in Study 2 across three measurem
 
 ## Related Claims
 - [Children receiving the home plus preschool LINK intervention outperformed preschool-only children on Spanish vocabulary gains (d = 0.91 RNA; d = 0.79 RVK)](home-plus-preschool-beats-preschool-only-spanish.md) — related
-- [Treatment preschoolers significantly improved Spanish receptive and expressive vocabulary and English receptive vocabulary from pre-test to post-test, with moderate effect sizes](link-prepost-vocabulary-gains-spanish-english.md) — related
+- [Among preschoolers in the treatment group, Spanish receptive and expressive vocabulary and English receptive vocabulary rose significantly from pre-test to post-test, with moderate effect sizes, in one uncontrolled pre-post study](link-prepost-vocabulary-gains-spanish-english.md) — related

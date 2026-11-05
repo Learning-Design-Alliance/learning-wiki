@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2023 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Castillo-Gualda 2023: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Students whose teachers received RULER SEL training scored significantly lower on clinical maladjustment, emotional symptoms index and clinical scale, with small effect sizes. [→ Castillo-Gualda 2023](#castillo-gualda-2023)

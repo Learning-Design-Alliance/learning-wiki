@@ -50,3 +50,4 @@ Quasi-experimental within-design study (n=15) reported in the review's Table 3, 
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
 - [Virtual simulation stimulated higher self-reported purposefulness (active reflection) than authentic video](vs-higher-purposefulness-reflection.md) — related
 - [In an RCT reviewed by this study, an LLM-based digital patient improved ophthalmology medical history-taking skills relative to control](llm-digital-patient-improves-history-taking-rct.md) — related
+- [LLM-based standardized virtual patient responses are largely authentic in dental history-taking simulations](llm-virtual-patients-largely-authentic-dialogue.md) — related

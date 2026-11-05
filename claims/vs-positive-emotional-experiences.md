@@ -67,3 +67,6 @@ Synthesized finding from the meta-synthesis of 17 qualitative studies, drawing o
 - [Simulator practicals increased student confidence in practical skills](simulator-practicals-increase-practical-skills-confidence.md) — related
 - [Increased exposure to unsupervised difficult conversations is associated with greater emotional confidence, while rare exposure is associated with higher distress](exposure-frequency-emotional-reaction-association.md) — related
 - [Fear of embarrassment and lack of psychological safety reduce nursing students' participation and retention in active learning activities](psychological-safety-barrier-active-learning-nursing.md) — reports the opposite
+- [Nursing students report emotional responses of inadequacy, low motivation, low self-confidence and fear during clinical practice](emotional-responses-inadequacy-low-motivation-fear.md) — reports the opposite
+- [Simulation-based BLS training evokes strong emotional engagement and builds nursing students' confidence through repeated practice in a safe, mistake-tolerant environment](simulation-bls-emotional-engagement-confidence.md) — related
+- [The placement acted as a safe space fostering self-efficacy, intellectual humility, and uncertainty tolerance](anatomy-ems-safe-space-personal-development.md) — related

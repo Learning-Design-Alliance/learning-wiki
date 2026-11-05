@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Nurhan Aktaş & Hayati Akyol 2020 (2): the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` The group-by-measurement interaction for writing motivation was significant. [→ Nurhan Aktaş & Hayati Akyol 2020](#nurhan-aktas-hayati-akyol-2020)

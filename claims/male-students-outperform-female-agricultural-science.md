@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Daluba 2013: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Male students taught with the demonstration method scored higher (x = 70.30) than female students (x = 62.44), and male students taught with the conventional lecture method also scored higher than female students. [→ Daluba 2013](#daluba-2013)

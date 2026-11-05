@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i1` small
-> **Currency** · newest study 2008 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The MLM-script group scored above the Textbook group but below the MLM group on both assessments, in accord with predictions from the coherence and dual-channel principles. [→ Stelzer 2008](#stelzer-2008)

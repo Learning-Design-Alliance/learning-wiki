@@ -51,3 +51,4 @@ Fisher exact test on grade-band categories (Fail, Pass, Notable, Distinction) fo
 - [No significant difference in distinction grades by teaching methodology](no-methodology-difference-distinction-grades.md) — related
 - [Teaching methodology has no effect on student withdrawal from the exam](no-methodology-effect-exam-withdrawal.md) — related
 - [Flip teaching in laboratory sessions produces significantly higher laboratory grades than traditional methodology in Physics and Electricity courses.](flipped-lab-teaching-higher-lab-grades.md) — related
+- [Students achieving an A grade accessed e-modules on more days than B–C and D–F bands, and accessed them earlier than the B–C band](grade-band-regularity-timeliness-association.md) — related

@@ -48,3 +48,4 @@ CUSUM chart of operative time across the same 51-case chronological series ident
 - [The case-23 proficiency point was robust across sensitivity analyses including recurrence-only CUSUM, risk-adjusted CUSUM, and best-case/worst-case imputation](sensitivity-analyses-robust-proficiency-point.md) — related
 - [CUSUM analysis of a single surgeon's first 51 THD-Anolift cases identifies a proficiency point at case 23 for the composite failure endpoint](cusum-proficiency-case-23-thd-anolift.md) — related
 - [Operative time decreased significantly across the learning curve, from 27.1 to 20.4 minutes between phases](operative-time-reduction-thd-anolift.md) — related
+- [Learning curves showed proficiency gains with inflection points at session 6 (juniors) and session 4 (intermediates)](learning-curve-cusum-inflection-points.md) — related

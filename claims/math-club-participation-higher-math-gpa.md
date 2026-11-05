@@ -70,3 +70,4 @@ Propensity score matching analysis contrasting matched math club participants an
 - [Math club participation is associated with higher odds of declaring a STEM major in college, remaining significant after propensity score matching](math-club-participation-stem-college-major.md) — related
 - [The math club–math GPA relationship holds for non-poverty students but not for poverty students, with a race-by-poverty interaction](poverty-moderates-math-club-gpa-relationship.md) — related
 - [STEM club participants differ descriptively from non-participants in GPA, course-taking, test scores, and college desire](stem-club-participants-descriptive-differences.md) — a broader claim this one bears on
+- [Research participation is significantly positively associated with job competency among public health students after propensity score matching](research-participation-associated-with-job-competency-public-health-students.md) — related

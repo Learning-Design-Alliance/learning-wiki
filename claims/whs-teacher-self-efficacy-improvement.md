@@ -45,7 +45,7 @@ A randomized controlled trial with 70 K-3 classrooms (37 intervention, 33 contro
 
 
 ## Related Claims
-- [Feasibility study shows WHS increases teacher self-efficacy from pre to post](whs-feasibility-self-efficacy-increase.md) — related
+- [Feasibility study found that teachers' self-rated self-efficacy rose from pre-test to post-test after WHS, in one uncontrolled pre-post study](whs-feasibility-self-efficacy-increase.md) — related
 - [Students in WHS classrooms are rated higher on social skills at posttest than control students](whs-student-social-skills-improvement.md) — related
 - [Teachers report high satisfaction and willingness to recommend We Have Skills!](whs-high-social-validity-satisfaction.md) — related
 - [Within the experimental group, self-efficacy rose significantly from pretest to posttest and follow-up, with no significant drop from posttest to follow-up](experimental-group-within-group-self-efficacy-gain.md) — related

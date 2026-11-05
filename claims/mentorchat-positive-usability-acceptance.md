@@ -66,3 +66,4 @@ Post-task questionnaire with 25 items (21 Likert-scale) completed by 30 students
 - [Students rate the simulation program highly acceptable and useful, with the simulation component rated most useful.](simulation-high-acceptability-ratings.md) — related
 - [Students rate the AISP chatbot highly usable, with robotic conversational style the most common concern](aisp-cortex-usability-cuq-findings.md) — related
 - [Students rated the 2-day mCLEIMS course very highly, with global satisfaction of 4.93 on a 5-point scale and item scores from 4.79 to 4.96](mcleims-high-satisfaction-ratings.md) — related
+- [Student satisfaction with the online flipped classroom course was significantly above the neutral point](ofc-student-satisfaction-above-neutral.md) — related

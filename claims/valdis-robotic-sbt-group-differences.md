@@ -53,3 +53,4 @@ Randomized controlled trial reported in the review: 40 surgical trainees with fe
 - [Robotic novices trained with extended reality simulators complete tasks significantly faster than novices with no additional training](xr-training-faster-time-to-complete-than-no-training.md) — related
 - [A systematic review identified 131 original studies describing 93 different ophthalmic simulation models, distributed across virtual reality, wet-lab, dry-lab and e-learning modalities.](131-studies-93-ophthalmic-simulators-four-modalities.md) — related
 - [Virtual-reality simulator training alone failed to show significant transfer to in vivo porcine suturing in a cited prior randomized trial, contrasting with the present physical-simulator findings](vr-simulator-training-no-transfer-porcine-suturing.md) — related
+- [Dry-lab training promotes technical skill development more than VR training](dry-lab-training-exceeds-vr-robotic-skills.md) — a broader claim this one bears on

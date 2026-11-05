@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 220 claims (176 show a difference, 32 mixed, 12 no difference) · 165 studies (89 associational, 28 causal, 28 review, 8 theoretical, 7 qualitative, 3 design, 2 quant-synthesis), `q1`–`q4` · 4 of 165 report an effect size · 218 claims rest on one study
+> **Evidence** · 221 claims (177 show a difference, 32 mixed, 12 no difference) · 166 studies (90 associational, 28 causal, 28 review, 8 theoretical, 7 qualitative, 3 design, 2 quant-synthesis), `q1`–`q4` · 5 of 166 report an effect size · 219 claims rest on one study
 
 ## How to read this page
 
@@ -257,6 +257,7 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [Simulations benefited students regardless of gender or ethnicity, though females were more satisfied and minorities more engaged](../claims/vct-benefits-across-gender-ethnicity.md) [~M] — an instructional effect differs by group
 - [Year-two whole-grade BARR implementation further improved core credit earning and reduced Hispanic course failure](../claims/barr-year-two-whole-grade-outcomes.md) [+W] — an instructional effect differs by group
 - [Black and White students differ significantly in AP course enrollment, exam taking, and exam passing rates across all three years studied.](../claims/black-white-ap-participation-rate-differences.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Hispanic students had significantly higher odds than white students of being in the Independent Navigator profile versus the Moderate Guided Users profile (OR = 2.01).](../claims/hispanic-students-independent-navigator-odds.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

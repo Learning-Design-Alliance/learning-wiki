@@ -53,6 +53,7 @@ Based on the finding that skills and experience, not traits, predict DT-aligned 
 ## Related Strategies
 
 - [Direct faculty development funding for a multiplier effect rather than standalone student workshops](faculty-development-multiplier-effect-strategy.md)
+- [Advance PMSC training through explicit competency definitions, structured workplace-based learning, competency-oriented assessment, national training modules, and faculty development.](strategy-advance-pmsc-cbme-framework.md)
 
 ## Examples
 -

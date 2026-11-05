@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Sequential inquiry-based science activities with challenging questions reduce misconceptions associated with the magnetic pole concept and orient participant concepts towards the basic concepts of magnetism.
-description: Sequential inquiry-based science activities with challenging questions reduce misconceptions associated with the magnetic pole concept and orient participant concepts towards the basic concepts of magnetism.
+title: In one uncontrolled pre-post study, participant use of misconceptions associated with the magnetic pole fell from pre-test to post-test, and concepts used were oriented towards the basic concepts of magnetism after sequential inquiry-based science activities with challenging questions
+description: In one uncontrolled pre-post study, participant use of misconceptions associated with the magnetic pole fell from pre-test to post-test, and concepts used were oriented towards the basic concepts of magnetism after sequential inquiry-based science activities with challenging questions.
 id: sequential-inquiry-reduces-magnetic-pole-misconceptions
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# Sequential inquiry-based science activities with challenging questions reduce misconceptions associated with the magnetic pole concept and orient participant concepts towards the basic concepts of magnetism.
+# In one uncontrolled pre-post study, participant use of misconceptions associated with the magnetic pole fell from pre-test to post-test, and concepts used were oriented towards the basic concepts of magnetism after sequential inquiry-based science activities with challenging questions
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` After the sequential implementation, the frequency of use of misconceptions associated with the magnetic pole was reduced and the used concepts were oriented towards the basic concepts of magnetism. [→ Okulu 2018](#okulu-2018)
+`q2 i?` In the one-group pre-test/post-test study, the frequency of use of misconceptions associated with the magnetic pole fell from pre-test to post-test, and the concepts used were oriented towards the basic concepts of magnetism. [→ Okulu 2018](#okulu-2018)
 
 ## Evidence
 

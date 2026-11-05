@@ -83,3 +83,8 @@ The article's abstract reports the psychometric outcome across the validation sa
 - [The HSPNCS demonstrates excellent internal consistency (Cronbach's alpha 0.967)](hspncs-high-internal-consistency.md) — related
 - [The scale demonstrates strong reliability and validity evidence including internal consistency, composite reliability, and average variance extracted](reliability-validity-evidence-generative-ai-teacher-scale.md) — related
 - [The self-developed evaluation instrument showed high internal consistency across its three parts (Cronbach's α = 0.941, 0.973, 0.953)](self-developed-training-evaluation-instrument-reliability.md) — related
+- [The study's two-dimensional self-confidence scale shows high internal consistency (Cronbach's alpha > 0.80) across all three measurement time points](endodontic-confidence-scale-high-internal-consistency.md) — related
+- [The FOI test shows high internal consistency reliability (Cronbach's α = 0.89)](foi-test-internal-consistency-cronbach-alpha-089.md) — related
+- [The ICCAS showed satisfactory internal consistency in this study despite slight post-test declines in some domains](iccas-reliability-satisfactory-post-test-declines.md) — related
+- [The Salus-Ed questionnaire demonstrates excellent overall internal consistency (α = 0.95)](salus-ed-internal-consistency.md) — related
+- [The job competency evaluation framework comprises 5 primary dimensions, 24 secondary dimensions, and 52 tertiary items with strong psychometric properties](job-competency-framework-five-dimensions-52-items.md) — related

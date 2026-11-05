@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
 > **Currency** · newest study 2011 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Slezak 2011: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Style 5, designed as an ideal implementation led by the program's most skilled Socratic teaching assistant, produced lower-than-expected post-test results; audio review revealed lengthy checkpoints lacking succinct summaries, so students may have exited without clear understanding. [→ Slezak 2011](#slezak-2011)

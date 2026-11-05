@@ -46,6 +46,7 @@ The 2-day mCLEIMS course organized 108 students into six teams of six per sessio
 
 - [Sequential simulation as a linked patient-journey design with team-based participation and interprofessional exposure](sequential-simulation-patient-journey-theory.md)
 - [Multi-scenario simulation day pairing lecture with role-based team clinical cases.](multi-scenario-simulation-day-pattern.md)
+- [An online flipped classroom clinical reasoning course for emergency medicine clerkship, designed via a modified ADDIE model](ofc-emergency-medicine-clinical-reasoning-course.md)
 
 ## Examples
 -

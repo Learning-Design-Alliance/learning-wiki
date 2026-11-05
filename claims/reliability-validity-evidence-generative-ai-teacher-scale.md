@@ -55,3 +55,4 @@ Psychometric evaluation across both subsamples assessing internal consistency, c
 - [The MAKQ dimensions show acceptable internal consistency across both studies (alphas 0.77-0.93)](makq-reliability-alphas.md) — related
 - [The 16-item CT–PCK Survey shows internal consistency reliability around .71–.72 and person separation reliability of .69](ct-pck-reliability-internal-consistency.md) — related
 - [The five-item PBL collaboration peer-evaluation scale demonstrates strong internal consistency](pbl-collaboration-scale-reliability.md) — a narrower finding that bears on this claim
+- [The job competency evaluation framework comprises 5 primary dimensions, 24 secondary dimensions, and 52 tertiary items with strong psychometric properties](job-competency-framework-five-dimensions-52-items.md) — a narrower finding that bears on this claim

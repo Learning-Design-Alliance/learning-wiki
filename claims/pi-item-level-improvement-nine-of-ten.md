@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Item-level analysis showed significant improvement on 9 of 10 peer instruction questions after Holm–Bonferroni correction.
-description: Item-level analysis showed significant improvement on 9 of 10 peer instruction questions after Holm–Bonferroni correction.
+title: Item-level analysis found statistically significant score rises on 9 of 10 peer instruction questions from pre-test to post-test in one group with no comparison group, after Holm–Bonferroni correction.
+description: Item-level analysis found statistically significant score rises on 9 of 10 peer instruction questions from pre-test to post-test in one group with no comparison group, after Holm–Bonferroni correction.
 id: pi-item-level-improvement-nine-of-ten
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Item-level analysis showed significant improvement on 9 of 10 peer instruction questions after Holm–Bonferroni correction.
+# Item-level analysis found statistically significant score rises on 9 of 10 peer instruction questions from pre-test to post-test in one group with no comparison group, after Holm–Bonferroni correction.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
@@ -45,6 +45,6 @@ Item-level analysis using McNemar's test with Holm–Bonferroni correction found
 
 
 ## Related Claims
-- [Peer instruction was associated with a statistically significant short-term improvement in performance scores among first-year osteopathic medical students in a preclinical microbiology session.](pi-improves-short-term-performance-osteopathic-microbiology.md) — related
+- [Performance scores rose significantly from pre-test to post-test after peer instruction, in one uncontrolled pre-post study of first-year osteopathic medical students in a preclinical microbiology session.](pi-improves-short-term-performance-osteopathic-microbiology.md) — related
 - [No significant correlations between contextual emotion differences and overall game score after Holm-Bonferroni correction](no-significant-emotion-game-score-correlations.md) — related
 - [The serious game intervention produced statistically significant post-intervention improvements in all seven Mini-CEX skill domains with large effect sizes (partial η² 0.71–0.90)](serious-game-all-seven-mini-cex-domains.md) — related

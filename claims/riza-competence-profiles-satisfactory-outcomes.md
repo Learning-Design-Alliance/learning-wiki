@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "R-I-Z-A-based assessment found satisfactory qualitative outcomes: 86% improvement in resources, 81% excellent interpretation performance, and 76% able to produce a medial message"
-description: "R-I-Z-A-based assessment found satisfactory qualitative outcomes: 86% improvement in resources, 81% excellent interpretation performance, and 76% able to produce a medial message"
+title: "R-I-Z-A-based assessment reported satisfactory qualitative outcomes in one uncontrolled pre-post study: the resources component rose from beginning to end (86%), 81% of participants had excellent interpretation performance at the end, and 76% could produce a medial message at the end"
+description: "R-I-Z-A-based assessment reported satisfactory qualitative outcomes in one uncontrolled pre-post study: the resources component rose from beginning to end (86%), 81% of participants had excellent interpretation performance at the end, and 76% could produce a medial message at the end"
 id: riza-competence-profiles-satisfactory-outcomes
 status: review
 generated:
@@ -37,14 +37,14 @@ sources:
     rigour: 1
 ---
 
-# R-I-Z-A-based assessment found satisfactory qualitative outcomes: 86% improvement in resources, 81% excellent interpretation performance, and 76% able to produce a medial message
+# R-I-Z-A-based assessment reported satisfactory qualitative outcomes in one uncontrolled pre-post study: the resources component rose from beginning to end (86%), 81% of participants had excellent interpretation performance at the end, and 76% could produce a medial message at the end
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2016 · checked against its sources 2026-11-02 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Comparing beginning and end of the trial, the resources component showed a significant improvement (86%), especially in identifying key concepts, their definition and linking. [→ Feola 2016](#feola-2016)
+`q2 i?` Comparing beginning and end of the trial, the resources component rose (86%) in the one-group pre-post study, especially in identifying key concepts, their definition and linking. [→ Feola 2016](#feola-2016)
 `q2 i?` 81% of participants achieved excellent performance levels in analysing a media text, giving value judgments on the medial relationship, recognising private emotions and narrating the experience. [→ Feola 2016 (2)](#feola-2016-2)
 `q2 i?` By the end, 76% of learners could produce a medial message using media linguistic rules, 72% could discriminate facts and actions from personal opinions, and 80% could select relevant information discarding the superfluous. [→ Feola 2016 (3)](#feola-2016-3)
 

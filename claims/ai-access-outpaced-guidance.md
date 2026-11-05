@@ -91,3 +91,4 @@ Survey finding (120 respondents): over 70% reported campus provision of paid gen
 - [Over one-third of PGR participants emphasised financial support for paid AI tools as necessary institutional support for responsible GenAI use](financial-support-paid-ai-tools-institutional.md) — related
 - [No framework, guidelines, policies or regulations have been devised to address the specific ethical issues raised by the use of AI in education](no-aied-ethics-framework-or-policy.md) — related
 - [Institutional approaches to academic integrity have shifted over two decades from punitive, rules-focused responses to educative, values-based approaches](ai-shift-punitive-to-educative-approaches.md) — related
+- [Institutional inequity and data governance gaps may widen existing disparities and compromise privacy without explicit safeguards](ai-formative-assessment-equity-data-governance-risk.md) — related

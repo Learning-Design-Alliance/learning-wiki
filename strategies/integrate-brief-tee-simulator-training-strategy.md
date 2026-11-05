@@ -39,7 +39,7 @@ The authors recommend implementing TEE simulator training into medical curricula
 
 ## Claims
 
-- [Simulator-based TEE training significantly improves medical students' TEE knowledge scores](../claims/simulator-tee-training-improves-student-knowledge.md) [+M]
+- [Medical students' TEE knowledge scores rose from pre-test to post-test after simulator-based TEE training, in a single-group pre-post study](../claims/simulator-tee-training-improves-student-knowledge.md) [+M]
 - [Simulator-based TEE training significantly increases medical students' confidence across all measured categories](../claims/simulator-tee-training-increases-student-confidence.md) [+M]
 - [All participants successfully demonstrated TEE skills after simulator-based training](../claims/simulator-tee-training-skills-mastery.md) [+M]
 - [Simulator-based TEE training is feasible for larger cohorts of early medical students](../claims/tee-simulator-training-feasible-large-cohorts.md) [+M]

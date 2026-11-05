@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Töpfer J 2026: the intervention came bundled with another change · Töpfer J 2026 (2): the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` In theoretical understanding, the mean absolute gain was 1.41 for narrative communication scales versus 2.81 for managing digital innovations scales. [→ Töpfer J 2026](#topfer-j-2026)
@@ -69,5 +70,5 @@ Applied communication skills domain from the same pre-post questionnaire (n = 6)
 - [Oral Language](../learner-variables/oral-language.md) — outcome: measured as an outcome of the instruction studied
 
 ## Related Claims
-- [Students reported the lowest baseline confidence in digital innovation competencies, which showed the strongest subjective learning gains](lowest-baseline-strongest-gains-digital-competencies.md) — possibly the same claim (merge candidate)
+- [Students' confidence ratings in digital innovation competencies were lowest at pre-test and rose the most from pre-test to post-test in one group with no comparison group](lowest-baseline-strongest-gains-digital-competencies.md) — possibly the same claim (merge candidate)
 - [Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months](pr-training-self-rated-gains-sustained-3-months.md) — a broader claim this one bears on

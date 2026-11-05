@@ -55,3 +55,4 @@ Analysis of 2024-25 classes assessed against seven fidelity criteria developed w
 - [Implementation fidelity of the creative writing unit was high: absentee rates below about 3% and completion of crucial divergent-thinking and writing assignments between 88% and 94%](cwi-unit-high-fidelity-attendance-completion.md) — related
 - [Most instructors using adaptive courseware believed it improved student learning and would use it again](instructors-positive-perceptions-adaptive-courseware.md) — related
 - [Schools implemented the Lesson Study programme with high fidelity, attending training and completing roughly one cycle per term](lesson-study-high-implementation-fidelity.md) — related
+- [Case study applies the framework to 24 students evaluated by multiple stakeholder groups](z-mabac-case-study-24-students.md) — related

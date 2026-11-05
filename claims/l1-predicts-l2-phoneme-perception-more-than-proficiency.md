@@ -87,5 +87,5 @@ some configurations.
 - [The phonological loop plays a significant role in vocabulary acquisition and second language learning](phonological-loop-vocabulary-acquisition-l2.md) — related
 - [Ultimate attainment and optimal-period length do not reliably differ across major native-language groups, with slightly more evidence for differences in learning curves](native-language-group-differences-small-unreliable.md) — related
 - [Young DLLs have two separate phonological and grammatical language systems early in life](dlls-two-separate-language-systems-early.md)
-- [Common serious mispronunciations of Indonesian learners stem from absent L1 phonemes and different sound categorisation in the L1](l1-absence-and-categorization-cause-mispronunciations.md) — related
+- [Common serious mispronunciations of Indonesian learners were reported alongside absent L1 phonemes and different sound categorisation in the L1](l1-absence-and-categorization-cause-mispronunciations.md) — related
 - [Linguistically relevant teaching, including L1 as a springboard for L2 acquisition, is necessary for ELL success](linguistically-relevant-teaching-l1-springboard.md) — related

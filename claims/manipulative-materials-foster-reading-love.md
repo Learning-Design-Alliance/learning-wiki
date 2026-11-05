@@ -46,4 +46,4 @@ Inductive content analysis of pupils' diary extracts and the cooperating teacher
 
 ## Related Claims
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
-- [Second Life-based instruction significantly increased sympathy and interest toward mathematics on the paired interest/love items (z=3.01, p<.05)](sl-math-robot-interest-love-pair-increase.md) — related
+- [Self-reported sympathy and interest toward mathematics on the paired interest/love items differed significantly from pre-test to post-test after Second Life-based instruction, with post-test scores favored in one uncontrolled pre-post study (z=3.01, p<.05)](sl-math-robot-interest-love-pair-increase.md) — related

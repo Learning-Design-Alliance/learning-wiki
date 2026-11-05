@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Prompt Coach's largest learning gains occurred on Inclusion of Constraints, Error Handling, and Context Awareness, the dimensions developers scored lowest on at baseline"
-description: "Prompt Coach's largest learning gains occurred on Inclusion of Constraints, Error Handling, and Context Awareness, the dimensions developers scored lowest on at baseline"
+title: "In one uncontrolled pre-post study, developers' largest score increases from pre-test to post-test were on Inclusion of Constraints, Error Handling, and Context Awareness, the dimensions developers scored lowest on at baseline"
+description: "In one uncontrolled pre-post study, developers' largest score increases from pre-test to post-test were on Inclusion of Constraints, Error Handling, and Context Awareness, the dimensions developers scored lowest on at baseline"
 id: prompt-coach-largest-gains-on-baseline-blind-spots
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# Prompt Coach's largest learning gains occurred on Inclusion of Constraints, Error Handling, and Context Awareness, the dimensions developers scored lowest on at baseline
+# In one uncontrolled pre-post study, developers' largest score increases from pre-test to post-test were on Inclusion of Constraints, Error Handling, and Context Awareness, the dimensions developers scored lowest on at baseline
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` The largest post-learning gains were in Inclusion of Constraints, Error Handling, and Context Awareness, which were also the lowest-scoring baseline dimensions. [→ Rohit Mehra 2026](#rohit-mehra-2026)
+`q2 i?` In one uncontrolled pre-post study, developers' largest score increases from pre-test to post-test were in Inclusion of Constraints, Error Handling, and Context Awareness, which were also the lowest-scoring baseline dimensions. [→ Rohit Mehra 2026](#rohit-mehra-2026)
 
 ## Evidence
 

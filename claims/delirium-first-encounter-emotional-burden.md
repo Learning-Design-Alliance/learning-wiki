@@ -73,3 +73,6 @@ Interview data showed "altered consciousness and inability to communicate evoked
 - [Repeated simulated patient encounters produced no significant change in state anxiety or LSAS over time among students with repeated responses](no-anxiety-reduction-repeated-simulation-exposure.md) — related
 - [Students experience anxiety and nervousness during simulation but recognize emotional regulation as central to safe patient interaction](simulation-emotional-regulation-anxiety.md) — related
 - [Pressure to achieve high grades was the most common anxiety trigger among clinical-year students](grade-pressure-top-anxiety-trigger.md) — related
+- [Nursing students report emotional responses of inadequacy, low motivation, low self-confidence and fear during clinical practice](emotional-responses-inadequacy-low-motivation-fear.md) — a broader claim this one bears on
+- [Nursing students experience inadequacy in clinical decision-making as the biggest challenge during clinical practice](inadequacy-clinical-decision-making-biggest-challenge.md) — related
+- [Perceived 'intern bias' from patients and nurses is a reported cause of difficulty in clinical practice](intern-bias-cause-of-difficulty.md) — related

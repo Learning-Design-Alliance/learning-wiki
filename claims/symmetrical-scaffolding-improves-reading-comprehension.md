@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Symmetrical scaffolding significantly improved EFL learners' reading comprehension scores"
-description: "Symmetrical scaffolding significantly improved EFL learners' reading comprehension scores"
+title: "EFL learners' reading comprehension scores rose significantly from pre-test to post-test after symmetrical scaffolding, in one uncontrolled pre-post study"
+description: "EFL learners' reading comprehension scores rose significantly from pre-test to post-test after symmetrical scaffolding, in one uncontrolled pre-post study"
 id: symmetrical-scaffolding-improves-reading-comprehension
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Symmetrical scaffolding significantly improved EFL learners' reading comprehension scores
+# EFL learners' reading comprehension scores rose significantly from pre-test to post-test after symmetrical scaffolding, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -28,7 +28,7 @@ sources:
 > **Design limits** · Pishghadam 2011: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-03)
 
 ## Subclaims
-`q2 i?` The symmetrical group's pre-to-post gain was statistically significant, indicating that equal-ability pair scaffolding improved reading comprehension. [→ Pishghadam 2011](#pishghadam-2011)
+`q2 i?` The symmetrical group's reading comprehension scores rose significantly from pre-test to post-test in a single-group pre-post comparison; the group used equal-ability pair scaffolding. [→ Pishghadam 2011](#pishghadam-2011)
 
 ## Evidence
 

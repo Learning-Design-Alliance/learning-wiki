@@ -54,4 +54,4 @@ Pearson correlation analysis of post-test scores in the same 78-student study. T
 - [Post-game competence, effort, and deep-learning strategy use correlate significantly with pre-game measures, but interest does not](pre-post-motivation-correlations-stability.md) — related
 - [Six component reading skills show strong average relationships with reading comprehension in struggling adult readers (rs ≥ .50)](six-strong-component-skills-adult-reading-comprehension.md) — related
 - [Self-efficacy correlates positively with foreign language achievement measures](self-efficacy-correlates-language-achievement.md) — a broader claim this one bears on
-- [Explicit strategy instruction strengthened the correlation between language learning strategy use and English self-efficacy.](strategy-instruction-strengthens-strategy-self-efficacy-correlation.md) — related
+- [The correlation between language learning strategy use and English self-efficacy was larger after explicit strategy instruction than before in one uncontrolled pre-post study.](strategy-instruction-strengthens-strategy-self-efficacy-correlation.md) — related

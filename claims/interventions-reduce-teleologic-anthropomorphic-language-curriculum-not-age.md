@@ -66,7 +66,7 @@ ANCOVA grouping factor tests in the same study: age F = .395, p = .676 (not sign
 
 ## Related Claims
 
-- [Anthropomorphic explanations of 15 abstract physics concepts differ significantly before and after classroom pedagogical interventions](anthropomorphic-explanations-corrected-by-pedagogical-interventions.md) — related
+- [Anthropomorphic explanations of 15 abstract physics concepts differed significantly from pre-test to post-test in one group with no comparison group](anthropomorphic-explanations-corrected-by-pedagogical-interventions.md) — related
 - [Students who just completed secondary education and those from the English curriculum showed the least teleologic-anthropomorphic affordance](english-curriculum-and-recent-graduates-least-teleologic-anthropomorphic.md) — related
 - [The interaction of interventions with age and curricular undertaking is not significant at the .05 level](intervention-age-curriculum-interaction-not-significant.md) — related
 - [Students' teleologic explanations and anthropomorphic languages correlate with age and are associated with curricular undertaking](teleologic-anthropomorphic-language-related-to-age-and-curriculum.md) — reports the opposite

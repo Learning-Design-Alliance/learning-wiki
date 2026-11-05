@@ -45,8 +45,8 @@ Pre–post analysis of the Mindsets engagement dataset using a cumulative link m
 
 
 ## Related Claims
-- [Students showed a large, statistically significant pre-to-post improvement in repeated reasoning (SMP 8) in the Mindsets program (d ≈ 1.19)](mindsets-smp8-pre-post-improvement.md) — related
-- [Students showed a large, statistically significant pre-to-post improvement in ability to reason (SMP 2) in the Mindsets program (d ≈ 1.20)](mindsets-smp2-pre-post-improvement.md) — related
+- [In one uncontrolled pre-post study, students' Repeated Reasoning (SMP 8) scores rose from pre-test to post-test after the Mindsets program (d ≈ 1.19; statistically significant, large)](mindsets-smp8-pre-post-improvement.md) — related
+- [Students showed a large, statistically significant rise in Ability to Reason (SMP 2) scores from pre-test to post-test in one uncontrolled pre-post study of the Mindsets program (d ≈ 1.20)](mindsets-smp2-pre-post-improvement.md) — related
 - [Web-based SRL training combined with a learning diary (Group TD) produced statistically significant pre-post gains in SRL knowledge, the SRL overall score and self-efficacy, but not in mathematics scores, among prospective university students in an online preparation course](web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math.md) — related
 - [In a randomized trial of SRL interventions in an online mathematics preparation course, group and time interacted significantly on SRL knowledge, self-efficacy and the SRL overall score, with Group TDP (training + diary + peer feedback) showing the most prominent gains](srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep.md) — related
 - [Repeated Reasoning (SMP 8) benchmark levels improved linearly across all three time points (d ≈ 0.77) with no significant quadratic trend](mindsets-smp8-linear-trend.md) — related

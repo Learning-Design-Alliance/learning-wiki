@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
 > **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Sun Jui-Chiung 2026: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i3` After the ISBAR-structured handover simulation intervention, students' overall post-test Communication Clarity Scale scores significantly exceeded their own pre-test scores (within-subject dz = 1.04); with no control group, the authors state the gain cannot be attributed to the intervention alone. [→ Sun Jui-Chiung 2026](#sun-jui-chiung-2026)
@@ -49,7 +50,8 @@ A single-group pretest-posttest study of 57 nursing students in an obstetric sim
 - [Improvement in communication clarity after ISBAR simulation teaching was broad, with the greatest gains in the situation domain](isbar-clarity-gains-broad-situation-domain-largest.md) — related
 - [Students report that ISBAR provides a cognitive scaffold for organized handover expression](isbar-cognitive-scaffold-organized-expression.md) — related
 - [Students achieved high and consistent OSCE handover performance across antenatal and postpartum stations after the intervention](isbar-osce-high-consistent-performance.md) — related
-- [ISBAR-structured handover simulation teaching significantly improves nursing students' handover confidence](isbar-simulation-improves-handover-confidence.md) — related
+- [Nursing students' self-rated handover confidence scores rose from pre-test to post-test after ISBAR-structured handover simulation teaching, in one uncontrolled pre-post study](isbar-simulation-improves-handover-confidence.md) — related
 - [Structured communication tools such as SBAR incorporated into simulation are associated with improved team coordination and information transfer](sbar-structured-communication-in-simulation.md) — a broader claim this one bears on
 - [In situ simulated emergency training does not significantly improve clinical communication in junior nurses](in-situ-set-no-effect-clinical-communication.md) — related
 - [Simulation-based CARE handover training produces a large increase in nurses' perceived handover competency from pretest to posttest](simulation-care-training-increases-perceived-handover-competency.md) — related
+- [Total self-reported ICCAS scores rose significantly from pre-test to post-test after the simulation intervention in one uncontrolled pre-post study](sbl-total-iccas-significant-increase.md) — related

@@ -37,7 +37,8 @@ Vendor focus groups and principal/coordinator surveys indicated that external pr
 - successful implementation of school-climate and safety programs
 
 ## Related Strategies
-- 
+
+- [When implementing experiential school nutrition programs, secure sufficient duration, curriculum integration, teacher involvement, and supporting resources](secure-duration-integration-teacher-resources-for-nutrition-programs.md)
 
 ## Examples
 -

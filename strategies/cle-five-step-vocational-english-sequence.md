@@ -46,7 +46,7 @@ The article breaks the CLE process with reciprocal peer teaching into five imple
 - [All three teachers expressed positive opinions about the CLE and reciprocal peer teaching treatment](../claims/cle-peer-teaching-positive-teacher-opinions.md) [+W]
 - [Students' reading and writing scores improved significantly from pre-test to post-tests in all three classes](../claims/cle-peer-teaching-reading-writing-gains.md) [+W]
 - [Students' English listening and speaking frequency increased in each experimental class after the experiment](../claims/cle-peer-teaching-student-listening-speaking-increased.md) [+W]
-- [Teachers increased their frequency of English language use in class after CLE training with reciprocal peer teaching](../claims/cle-peer-teaching-teacher-english-use-increased.md) [+W]
+- [Teachers' frequency of English language use in class rose from pre-experiment to post-experiment 1 and 2 intervals after CLE training with reciprocal peer teaching, in one uncontrolled pre-post study](../claims/cle-peer-teaching-teacher-english-use-increased.md) [+W]
 - [Teachers increased their English speaking through scaffolding techniques after the experiment](../claims/cle-peer-teaching-teacher-scaffolding-increased.md) [+W]
 
 ## Related Strategies

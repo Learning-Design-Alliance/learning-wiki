@@ -39,7 +39,7 @@ The article recommends that in paediatric surgery, "where case volumes may be li
 
 ## Claims
 
-- [Consultant paediatric surgeons showed a significant overall reduction in operative time after a 12-week porcine-model laparoscopic training programme](../claims/porcine-model-training-reduces-operative-time-consultants.md) [+W]
+- [Among consultant paediatric surgeons, operative time fell significantly from before to after a 12-week porcine-model laparoscopic training programme in one uncontrolled pre-post study](../claims/porcine-model-training-reduces-operative-time-consultants.md) [+W]
 - [Operative-time reduction after porcine-model training was significant for varicocelectomy and hernia repair but not orchiopexy](../claims/procedure-specific-operative-time-reduction.md) [+W]
 - [Mean age at surgery for herniorrhaphy was significantly lower in the post-training period](../claims/herniorrhaphy-age-reduction-post-training.md) [~W]
 - [Complication rates did not differ significantly between pre- and post-training periods](../claims/no-significant-complication-change-after-porcine-training.md) [~W]

@@ -46,7 +46,7 @@ Focus-group interview responses on out-of-class study behavior. The article repo
 
 
 ## Related Claims
-- [Students given more control spent significantly more weekly time on listening practice, indicating greater effort and autonomy](learner-control-increases-listening-practice-time.md) — related
+- [Experimental-group students' weekly listening-practice time rose significantly from before to during the experiment, measured within that group](learner-control-increases-listening-practice-time.md) — related
 - [Viewing of the personalized AI videos declined sharply across the quarter, with views of the first week-9 video set suggesting fewer than 10% of the course population was watching voluntarily by the end of the course](video-views-declined-across-quarter.md) — related
 - [Students generally resisted learning topics on their own outside the classroom and preferred instructor-led learning in class](fc-student-resistance-self-learning.md) — related
 - [Students in the control conditions overwhelmingly chose rehearsal or re-reading as their learning strategy](students-choose-rehearsal-strategies.md) — related

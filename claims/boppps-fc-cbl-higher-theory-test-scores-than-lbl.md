@@ -55,3 +55,6 @@ Randomized controlled trial with 38 general practice residents (19 per group) ov
 - [BOPPPS/FC-CBL residents self-rated their teamwork and clinical thinking higher than LBL residents on a five-point questionnaire](boppps-fc-cbl-higher-teamwork-clinical-thinking.md) — related
 - [BOPPPS-CBL instruction is associated with significantly higher adjusted post-test knowledge scores than lecture-based learning in undergraduate HAI education](boppps-cbl-higher-adjusted-posttest-hai-knowledge.md) — related
 - [Gain scores were significantly larger in the BOPPPS-CBL group than the LBL group (Cohen's d = 1.77)](boppps-cbl-larger-gain-scores.md) — related
+- [AI-assisted CBL+FC residents significantly outperform lecture-based controls on post-course theoretical knowledge tests](ai-assisted-cbl-fc-higher-theoretical-scores.md) — a narrower finding that bears on this claim
+- [CBL-FC students achieve significantly higher post-intervention test scores than LBL students in pulmonary imaging education](cbl-fc-higher-post-test-scores-pulmonary-imaging.md) — related
+- [No significant difference between CBL-FC and LBL groups in theoretical knowledge after intervention](cbl-fc-no-gain-theoretical-knowledge.md) — reports the opposite

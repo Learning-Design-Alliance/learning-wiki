@@ -45,6 +45,7 @@ The article recommends that training should prioritize the most challenging comp
 ## Related Strategies
 
 - [Personalize remediation based on each student's position on the latent trait scale](personalized-remediation-latent-trait.md)
+- [Introduce complex semi-quantitative assessments after trainees establish foundational skills, using targeted image review sessions for challenging parameters](staggered-learning-approach-ius-training.md)
 
 ## Examples
 -

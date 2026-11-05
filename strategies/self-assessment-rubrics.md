@@ -59,10 +59,12 @@ Self assessment with rubrics develops *evaluative judgment* — the capacity to 
 6. Repeat across multiple assignments; fade rubric detail as learners internalize the criteria
 
 ## Related Strategies
+
 - [Peer Assessment](../elements/peer-assessment.md) — same criteria applied to others' work; often easier to judge honestly and calibrates self-judgment indirectly
 - [Portfolio Assessment](portfolio-assessment.md) — self-assessment rubrics give portfolios their evaluative spine across artifacts
 - [Error Analysis](../principles/error-analysis.md) — self-identified errors against criteria build the same monitoring skill
 - [Reflective Journals](reflective-journals.md) — a qualitative complement that captures the reasoning behind self-ratings
+- [Clearly explain the purpose, benefits, challenges, and evaluation criteria of group work, and use detailed rubrics, training, and practice to support equitable peer evaluation.](transparent-communication-peer-evaluation-rubrics.md)
 
 ## Examples
 - **[Calibrated Peer Review](https://calibratedpeerreview.org)** — learners first score instructor-seeded calibration essays; only after their scores align with expert scores do they review peers and themselves, directly operationalizing rubric calibration.

@@ -82,4 +82,4 @@ Delayed measurement two weeks after the posttest with the same 45 participants; 
 - [The structural group retained significantly more vocabulary than the contextual group on the delayed retention test, except among high achievers](retention-test-structural-advantage-except-high-achievers.md) — a narrower finding that bears on this claim
 - [Multisensory language teaching improves reading retention in young English learners a month after treatment, with a large effect size.](mslt-improves-reading-retention.md) — related
 - [The posttest advantage of literacy-based instruction persisted two weeks later on the delayed posttest (d = .51)](literacy-methods-delayed-posttest-advantage-persists.md) — related
-- [Pronunciation gains from the Audio Articulation Method persisted at delayed post-test four weeks later](aam-gains-persist-delayed-posttest.md) — related
+- [Pronunciation scores rose from pre-test to delayed post-test four weeks after Audio Articulation Method instruction, in one single-group pre-post study](aam-gains-persist-delayed-posttest.md) — related

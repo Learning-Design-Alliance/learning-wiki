@@ -49,3 +49,4 @@ A systematic review of eight retrospective studies using the CUSUM method found 
 - [No learning curve inflection point was identified for open LLND](open-llnd-no-inflection-point.md) — related
 - [Prior robotic surgical experience is the main driver of better baseline performance and skills progression](prior-robotic-experience-driver-transfer.md) — related
 - [Blood loss, urinary complications, and morbidity decreased during the proficiency phase of robotic LLND](robotic-llnd-outcomes-improve-proficiency.md) — related
+- [Learning curves showed proficiency gains with inflection points at session 6 (juniors) and session 4 (intermediates)](learning-curve-cusum-inflection-points.md) — related

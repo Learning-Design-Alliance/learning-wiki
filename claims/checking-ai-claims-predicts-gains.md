@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r?` · `q3`
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students who checked the AI's claims against sources more often showed larger decision-making gains. [→ Dimitrios Gousopoulos 2026](#dimitrios-gousopoulos-2026)

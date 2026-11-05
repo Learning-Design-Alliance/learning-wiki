@@ -8,7 +8,7 @@ generated:
 id: pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone
 evidence_strength: weak
 newest_evidence: 1986
-source_checked: 2026-10-07
+source_checked: 2026-11-05
 sources:
   - id: stahl-fairbanks-1986
     resource: "https://doi.org/10.3102/00346543056001072"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3` · n=? (meta-analysis; component-study count not stated in the abstract read)
-> **Currency** · newest study 1986 · checked against its sources 2026-10-07 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 1986 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 Vocabulary learning is strongest when learners meet words in meaningful contexts (reading, listening, use) *and* receive deliberate instruction on word meanings — neither incidental exposure nor isolated instruction alone matches the combination.
 

@@ -50,6 +50,7 @@ The article proposes two uses for a shallow-learning detector in remediation. Fi
 ## Related Strategies
 
 - [Automate metacognitive prompts in discussion board software based on critical thinking keywords](automate-metacognitive-prompts-discussion-software.md)
+- [Leverage artificial intelligence and software technologies to further improve rhinoplasty education.](ai-software-technologies-rhinoplasty-education-strategy.md)
 
 ## Examples
 -

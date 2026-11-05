@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Mukundan et al. 2012: the intervention came bundled with another change · Mukundan et al. 2012 (2): the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Low-scoring Form 4 students (n=30) scored significantly higher on the ELS placement test after completing a one-month intensive English program (p = .000 < .05). [→ Mukundan et al. 2012](#mukundan-et-al-2012)

@@ -45,7 +45,7 @@ Quasi-experimental non-equivalent groups study of 79 pre-service science teacher
 
 
 ## Related Claims
-- [Inquiry-based instruction significantly improved pre-service science teachers' scientific process skills from pretest to post-test in a university biology laboratory](inquiry-instruction-improved-preservice-spst-pre-post.md) — related
+- [Pre-service science teachers' scientific process skills rose significantly from pretest to post-test within the experimental group during inquiry-based instruction in a university biology laboratory](inquiry-instruction-improved-preservice-spst-pre-post.md) — related
 - [ADI-based laboratory instruction does not significantly change pre-service teachers' argumentativeness compared to traditional laboratory instruction](adi-no-change-argumentativeness.md) — related
 - [ADI-based laboratory instruction improves science process skills more than traditional laboratory instruction](adi-lab-instruction-improves-science-process-skills.md) — related
 - [The inquiry-based instruction group scored significantly higher than the traditional-approach group on the post-test of scientific process skills](inquiry-group-higher-post-test-spst.md) — related

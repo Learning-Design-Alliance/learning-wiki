@@ -9,7 +9,6 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2011
-source_checked: 2026-11-01
 sources:
   - id: chun-yi-shen-hsiu-chuan-liu-2011
     resource: "https://eric.ed.gov/?id=EJ932234"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2011 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Experimental group posttest scores were significantly higher than pretest scores in self-plan, self-monitor, and total score after four weeks of web-based training, while the control group showed no significant change. [→ Chun-Yi Shen & Hsiu-Chuan Liu 2011](#chun-yi-shen-hsiu-chuan-liu-2011)

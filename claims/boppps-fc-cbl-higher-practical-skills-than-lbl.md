@@ -52,3 +52,5 @@ Same RCT; practical skills exam focused on thoracentesis worth 110 marks. Indepe
 - [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — related
 - [BOPPPS-CBL instruction is associated with significantly higher adjusted post-test knowledge scores than lecture-based learning in undergraduate HAI education](boppps-cbl-higher-adjusted-posttest-hai-knowledge.md) — related
 - [Gain scores were significantly larger in the BOPPPS-CBL group than the LBL group (Cohen's d = 1.77)](boppps-cbl-larger-gain-scores.md) — related
+- [CBL-FC students achieve significantly higher post-intervention test scores than LBL students in pulmonary imaging education](cbl-fc-higher-post-test-scores-pulmonary-imaging.md) — related
+- [Students taught pulmonary imaging with CBL-FC scored higher than an LBL group on application of imaging principles and diagnostic reasoning, in a quasi-randomized comparison where CBL-FC also added peer interaction](cbl-fc-improves-application-and-diagnostic-reasoning.md) — related

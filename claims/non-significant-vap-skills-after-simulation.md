@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Some VAP prevention skills did not improve significantly after simulation, including head-of-bed elevation, hand hygiene and cuff pressure measurement
-description: Some VAP prevention skills did not improve significantly after simulation, including head-of-bed elevation, hand hygiene and cuff pressure measurement
+title: Some VAP prevention skills did not show statistically significant changes from pre-test to post-test after simulation, in one group with no comparison group, including head-of-bed elevation, hand hygiene and cuff pressure measurement
+description: Some VAP prevention skills did not show statistically significant changes from pre-test to post-test after simulation, in one group with no comparison group, including head-of-bed elevation, hand hygiene and cuff pressure measurement
 id: non-significant-vap-skills-after-simulation
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Some VAP prevention skills did not improve significantly after simulation, including head-of-bed elevation, hand hygiene and cuff pressure measurement
+# Some VAP prevention skills did not show statistically significant changes from pre-test to post-test after simulation, in one group with no comparison group, including head-of-bed elevation, hand hygiene and cuff pressure measurement
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
@@ -46,4 +46,4 @@ Item-level analysis in the same quasi-experiment; Table 3 prints non-significant
 
 ## Related Claims
 - [After simulation training, significantly more teams performed several specific VAP prevention skills, including checking physician's order, oral care with chlorhexidine, and checking ventilator circuit filters](item-level-vap-skill-improvements-after-simulation.md) — related
-- [Scenario-based simulation training significantly increases nursing students' VAP prevention skill performance scores in a single-group pretest–posttest study](simulation-training-increases-vap-prevention-skill-performance.md) — related
+- [Nursing students' VAP prevention skill performance scores rose from pretest to posttest after scenario-based simulation training in a single-group pretest–posttest study](simulation-training-increases-vap-prevention-skill-performance.md) — related

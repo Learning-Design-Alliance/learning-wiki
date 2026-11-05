@@ -50,3 +50,4 @@ Paired t-tests in the retrospective survey of 46 former seminar students showed 
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — related
 - [Most former students reported using group processing after their seminar and rated it as transferable to other contexts](group-processing-skills-transferable-to-other-contexts.md) — related
 - [Students retrospectively evaluated group processing as time well spent and vividly remembered it years later](group-processing-retrospectively-valued-time-well-spent.md) — related
+- [Participants reported markedly improved feedback skills as the most tangible improvement from the program.](pedagogical-internship-track-feedback-skills.md) — possibly the same claim (merge candidate)

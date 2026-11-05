@@ -93,3 +93,4 @@ The same multiple regression on motivational factors found no significant predic
 - [No correlation between motivation or engagement measures and tutor learning gains](no-correlation-motivation-learning-gain.md) — related
 - [Speaking proficiency and speaking anxiety were significantly negatively correlated at posttest](speaking-proficiency-anxiety-negative-correlation.md) — related
 - [Self-efficacy correlates positively with foreign language achievement measures](self-efficacy-correlates-language-achievement.md) — a broader claim this one bears on
+- [All three types of self-regulated learning are positively associated with learning achievement in emergency language courses.](srl-types-predict-achievement.md) — related

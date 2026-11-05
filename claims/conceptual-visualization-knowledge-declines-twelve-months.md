@@ -50,3 +50,4 @@ Longitudinal LMM analysis of 40 doctoral students' rubric scores at T0, T1, and 
 - [Procedural losses were steepest for axis labeling and annotations, while conceptual losses were steepest for explanation of scales and terminology](criterion-level-decline-patterns-visualization.md)
 - [Procedural execution in data visualization declined significantly and more steeply than conceptual understanding over twelve months](procedural-visualization-execution-decays-faster.md) — related
 - [Rubric-based assessment showed substantial to almost-perfect inter-rater reliability across all three time points](rubric-interrater-reliability-visualization-assessment.md) — related
+- [Performance declined and confidence decreased over the six-month follow-up period](performance-decline-confidence-decrease-six-months.md) — related

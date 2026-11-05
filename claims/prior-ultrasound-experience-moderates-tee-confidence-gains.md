@@ -47,6 +47,6 @@ Descriptive comparison of percentage confidence increases across the three cohor
 ## Related Claims
 - [Simulator-based TEE training significantly increases medical students' confidence across all measured categories](simulator-tee-training-increases-student-confidence.md) — related
 - [Junior and non-cardiothoracic residents show larger time improvements from coronary anastomosis simulation than senior residents](junior-residents-gain-more-time-from-simulation.md) — related
-- [Simulator-based TEE training significantly improves medical students' TEE knowledge scores](simulator-tee-training-improves-student-knowledge.md) — related
+- [Medical students' TEE knowledge scores rose from pre-test to post-test after simulator-based TEE training, in a single-group pre-post study](simulator-tee-training-improves-student-knowledge.md) — related
 - [All participants successfully demonstrated TEE skills after simulator-based training](simulator-tee-training-skills-mastery.md) — related
 - [Simulator-based TEE training is feasible for larger cohorts of early medical students](tee-simulator-training-feasible-large-cohorts.md) — related

@@ -51,6 +51,7 @@ The article recommends differentiating professional training by teachers' existi
 - [Develop adaptive and discipline-specific GenAI feedback solutions](adaptive-discipline-specific-genai-feedback-solutions.md)
 - [Tailor GenAI chatbot onboarding, training, and support to identified adoption personas](persona-tailored-chatbot-onboarding-support.md)
 - [Tailor active methodologies to the specific educational context and subject matter](tailor-active-methods-to-context-dentistry.md)
+- [Differentiate transition curricula by prior experience level, offering abbreviated foundational modules and extended advanced sessions for experienced practitioners](experience-differentiated-transition-pathways.md)
 
 ## Examples
 -

@@ -69,3 +69,4 @@ Witnessing harsh or dismissive attitudes prompted students to reflect on "what k
 - [Physical restraint practices and inadequate communication during delirium care trigger ethical and moral discomfort in nursing students](restraint-triggers-ethical-discomfort.md) — related
 - [Nursing students struggle to label observed changes as delirium and often misinterpret them as other conditions](students-misattribute-delirium-symptoms.md) — related
 - [Nursing students report that purely theoretical delirium education is insufficient for clinical readiness](theory-alone-insufficient-delirium-education.md) — related
+- [Perceived 'intern bias' from patients and nurses is a reported cause of difficulty in clinical practice](intern-bias-cause-of-difficulty.md) — related

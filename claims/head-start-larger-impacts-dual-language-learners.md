@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: bloom-and-weiland-2014
     resource: "https://eric.ed.gov/?id=ED562943"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2014 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Impacts on receptive vocabulary (0.27 vs 0.09) and early numeracy (0.30 vs 0.06) were statistically significantly larger for dual language learners than for English-only children. [→ Bloom and Weiland 2014](#bloom-and-weiland-2014)

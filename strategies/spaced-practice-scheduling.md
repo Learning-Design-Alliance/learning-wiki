@@ -104,6 +104,7 @@ Spacing is one of the most robust findings in learning science: across hundreds 
 - [Cumulative Assessment](../elements/assessment.md) — assessment structure that forces spaced review rather than unit-then-forget study
 - [Use Worked Examples](worked-examples-first.md) — faded and revisited worked examples across sessions implement spacing for procedural skills
 - [Interleaving](interleaving.md) — the within-session complement to between-session spacing
+- [Time bolus refresher education to follow a level of forgetting that reintroduces uncertainty](time-refresher-education-to-reintroduce-uncertainty.md)
 
 ## Examples
 - **Anki** (https://apps.ankiweb.net) — open-source flashcard system implementing expanding spaced repetition with per-item scheduling; widely used in medical education.

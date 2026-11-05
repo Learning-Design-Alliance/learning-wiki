@@ -58,7 +58,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 5 studies · 2 quant-synthesis `r3`, 2 review `r2`–`r3`, 1 causal `r?` · `q3`–`q4` · `i2`–`i3`
-> **Currency** · newest study 2018 · 1 of 5 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2018 · 2 of 5 entries checked against their sources (automated) · not reviewed by a person
 
 Actively recalling information from memory (rather than rereading or reviewing it) strengthens long-term retention of that information. This is one of the most consistently replicated effects in cognitive psychology of learning, often called the "testing effect."
 

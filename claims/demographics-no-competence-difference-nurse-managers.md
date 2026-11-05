@@ -54,3 +54,5 @@ Bivariate non-parametric comparisons (Mann–Whitney U, Kruskal–Wallis) across
 - [Age group and staff position are the only demographic factors associated with significant growth in perceived competency, with registered nurses and nurses aged 30–34 showing the greatest gains](age-and-staff-position-moderate-competency-growth.md) — reports the opposite
 - [Demographic and professional characteristics showed no statistically significant associations with PCC competency scores](no-demographic-associations-pcc-competency.md) — related
 - [Significant differences in patient-centered medication management by age and experience, but not overall competence](age-experience-differences-patient-centered-medication-management.md) — related
+- [No consistent significant differences in competency or caring scores across socio-demographic characteristics in univariate analyses](no-consistent-univariate-demographic-differences.md) — related
+- [Sociodemographic and job-related characteristics differ across competence profiles](sociodemographic-differences-across-profiles.md) — reports the opposite

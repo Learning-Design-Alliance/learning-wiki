@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Steegen 2018: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` The high prevalence of the different misconceptions shows again that misconceptions are very robust, even though the physics principles underneath are explicitly targeted in all lectures. [→ Steegen 2018](#steegen-2018)

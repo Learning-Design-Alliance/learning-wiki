@@ -51,6 +51,7 @@ The article recommends a phased, mixed pedagogical approach for encouraging girl
 - [Build computational thinking skills in the younger grades through plugged and unplugged activities](develop-ct-skills-younger-grades.md)
 - [Design early learning (K-3) CT opportunities both plugged and unplugged, with devices leveraged where appropriate](plugged-and-unplugged-early-ct-skills.md)
 - [Provide students access to prevalent digital tools to develop fluency and confidence as an integral part of DL education programs](provide-access-prevalent-tools-dl-fluency.md)
+- [Introduce complex semi-quantitative assessments after trainees establish foundational skills, using targeted image review sessions for challenging parameters](staggered-learning-approach-ius-training.md)
 
 ## Examples
 -

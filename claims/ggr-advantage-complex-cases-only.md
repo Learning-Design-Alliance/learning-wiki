@@ -67,6 +67,6 @@ Null topic-level contrast for anaemia in the same study; the authors interpret t
 - [GGR outperforms SNAPPS in data acquisition, problem presentation and hypothesis generation, but not in illness script comparison or diagnosis](ggr-domain-specific-advantages.md) — related
 - [Both GGR and SNAPPS significantly improve overall clinical reasoning scores in final-year MBBS students (p<0.001)](ggr-snapps-both-improve-clinical-reasoning.md) — related
 - [Baseline EMQ scores did not differ between GGR and SNAPPS groups, ensuring equivalent starting clinical reasoning skills](ggr-snapps-equivalent-baseline.md) — related
-- [The UTI case showed a statistically significant domain-specific SCT improvement, while URTI and diarrhoea cases showed no significant change](uti-case-significant-sct-improvement.md) — related
+- [In one single-group pre-post study with no comparison group, UTI SCT scores rose significantly from pre-test to post-test, while URTI and diarrhoea SCT scores did not change significantly](uti-case-significant-sct-improvement.md) — related
 - [The relation between medical expertise and diagnostic accuracy was case-dependent: positive for Case 4, negative for Case 1 (novices outperformed experts), and absent for Cases 2, 3, and 5](expertise-diagnostic-accuracy-case-dependent.md) — related
 - [GGR group achieves higher postintervention clinical reasoning scores than SNAPPS with moderate effect size (d=0.43)](ggr-higher-posttest-than-snapps.md) — a broader claim this one bears on

@@ -55,3 +55,4 @@ Separate multiple linear regressions for secondary/primary (n = 1957) and tertia
 - [Healthcare professionals in tertiary hospitals had significantly higher odds of high knowledge-based BLS competency than those in primary hospitals.](tertiary-hospital-higher-bls-competency-than-primary.md) — related
 - [Nurses who reported a need for further PICC care training scored higher on knowledge, possibly reflecting reverse causation consistent with the Dunning–Kruger effect](training-need-positive-association-dunning-kruger.md) — related
 - [Working years were not independently associated with PICC care knowledge after adjustment for other variables](working-years-not-independently-associated-picc-knowledge.md) — related
+- [Nurses' working experience is associated with AI competence; other demographics show no significant association](working-experience-associated-with-aic-nurses.md) — related

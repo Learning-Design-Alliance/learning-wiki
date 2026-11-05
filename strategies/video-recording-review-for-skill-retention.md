@@ -41,6 +41,7 @@ The article recommends incorporating a video recording component into clinical s
 
 - [Embed peer learning activities and recorded-performance review in RT remedial teaching](peer-learning-activities-in-rt-remedial-strategy.md)
 - [Phased implementation with shared video library and peer-assisted feedback to scale micro-skills training](microskills-cptm-scaling-strategy.md)
+- [Use video-recorded simulation sessions followed by instructor-led structured self-reflection and peer review to enable reflection-on-action](video-feedback-structured-reflection-strategy.md)
 
 ## Examples
 -

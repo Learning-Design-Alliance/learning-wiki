@@ -39,11 +39,11 @@ The article recommends, on the basis of its findings, that linguistic classroom 
 
 ## Claims
 
-- [Training in linguistic classroom activities is followed by statistically significant pre-post gains in decision-making skill, with eta squared of 0.91](../claims/linguistic-activities-decision-making-gains.md) [+W]
-- [Training in linguistic classroom activities is followed by statistically significant pre-post gains in oral linguistic performance on the focus of ideas, with eta squared of 0.97](../claims/linguistic-activities-ideas-gains.md) [+W]
-- [Training in linguistic classroom activities is followed by statistically significant pre-post gains in overall oral linguistic performance in English, with eta squared of 0.97](../claims/linguistic-activities-overall-performance-gains.md) [+W]
-- [Training in linguistic classroom activities is followed by statistically significant pre-post gains in oral linguistic performance on the focus of structures, with eta squared of 0.95](../claims/linguistic-activities-structures-gains.md) [+W]
-- [Training in linguistic classroom activities is followed by statistically significant pre-post gains in oral linguistic performance on the focus of words among third-grade intermediate students, with eta squared of 0.93](../claims/linguistic-activities-words-gains.md) [+W]
+- [Among third-grade intermediate students in Makah, decision-making skill scores rose significantly from pre-test to post-test in one group with no comparison group after linguistic classroom activities, with eta squared of 0.91](../claims/linguistic-activities-decision-making-gains.md) [+W]
+- [Oral linguistic performance on the focus of ideas rose significantly from pre-test to post-test after training in linguistic classroom activities, in one uncontrolled pre-post study of third-grade intermediate students in Makah, with eta squared of 0.97](../claims/linguistic-activities-ideas-gains.md) [+W]
+- [Overall oral linguistic performance scores in English rose significantly from pre-test to post-test after training in linguistic classroom activities, in one uncontrolled pre-post study, with eta squared of 0.97](../claims/linguistic-activities-overall-performance-gains.md) [+W]
+- [Oral linguistic performance scores on the focus of structures rose significantly from pre-test to post-test among third-grade intermediate students in Makah after training in linguistic classroom activities, in one uncontrolled pre-post study, with eta squared of 0.95](../claims/linguistic-activities-structures-gains.md) [+W]
+- [Oral linguistic performance scores on the focus of words rose significantly from pre-test to post-test among third-grade intermediate students after training in linguistic classroom activities, in one uncontrolled pre-post study, with eta squared of 0.93](../claims/linguistic-activities-words-gains.md) [+W]
 - [Post-application scores in oral linguistic performance and decision-making are strongly positively correlated (r = 0.989)](../claims/post-performance-decision-correlation.md) [+W]
 
 ## Related Strategies

@@ -24,7 +24,7 @@ Prompt Coach is a multi-agent tutoring software system for professional develope
 
 ### Claims
 - [A 60-minute session with Prompt Coach significantly improved professional developers' prompt quality, a 13.73% relative gain overall](../claims/prompt-coach-significant-overall-prompt-quality-gain.md) [+M]
-- [Prompt Coach's largest learning gains occurred on Inclusion of Constraints, Error Handling, and Context Awareness, the dimensions developers scored lowest on at baseline](../claims/prompt-coach-largest-gains-on-baseline-blind-spots.md) [+M]
+- [In one uncontrolled pre-post study, developers' largest score increases from pre-test to post-test were on Inclusion of Constraints, Error Handling, and Context Awareness, the dimensions developers scored lowest on at baseline](../claims/prompt-coach-largest-gains-on-baseline-blind-spots.md) [+M]
 - [Developers unanimously agreed Prompt Coach improved their prompt-writing skills and reported strong trust, personalization, and adoption readiness](../claims/prompt-coach-positive-learner-perceptions.md) [+M]
 
 ## Related Products and Programmes

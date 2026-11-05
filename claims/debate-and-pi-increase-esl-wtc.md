@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Both Debate instruction and Philosophy Inquiry discussion significantly increased ESL learners' Willingness to Communicate over a semester"
-description: "Both Debate instruction and Philosophy Inquiry discussion significantly increased ESL learners' Willingness to Communicate over a semester"
+title: "ESL learners' self-reported Willingness to Communicate scores rose from pre-test to post-test within the Debate and Philosophy Inquiry groups over a semester"
+description: "ESL learners' self-reported Willingness to Communicate scores rose from pre-test to post-test within the Debate and Philosophy Inquiry groups over a semester"
 id: debate-and-pi-increase-esl-wtc
 status: review
 generated:
@@ -28,15 +28,15 @@ sources:
     rigour: 2
 ---
 
-# Both Debate instruction and Philosophy Inquiry discussion significantly increased ESL learners' Willingness to Communicate over a semester
+# ESL learners' self-reported Willingness to Communicate scores rose from pre-test to post-test within the Debate and Philosophy Inquiry groups over a semester
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Debate instruction produced a statistically significant pre-to-post increase in WTC (t=6.76, p=.000). [→ Shamsudin et al. 2017](#shamsudin-et-al-2017)
-`q2 i?` Philosophy Inquiry discussion produced a statistically significant pre-to-post increase in WTC (t=3.16, p=.004). [→ Shamsudin et al. 2017 (2)](#shamsudin-et-al-2017-2)
+`q2 i?` Self-reported WTC scores in the Debate group showed a statistically significant rise from pre-test to post-test (t=6.76, p=.000). [→ Shamsudin et al. 2017](#shamsudin-et-al-2017)
+`q2 i?` Self-reported WTC scores in the Philosophy Inquiry discussion group showed a statistically significant rise from pre-test to post-test (t=3.16, p=.004). [→ Shamsudin et al. 2017 (2)](#shamsudin-et-al-2017-2)
 
 ## Evidence
 

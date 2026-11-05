@@ -52,8 +52,9 @@ Wilcoxon test for related pairs on the experimental group's scores from post mea
 - [Preschoolers with autism given a multi-component communication intervention used more social communicative utterances with their caregivers than comparison children 4 months after it ended, a small difference that was not significant immediately after intervention](scu-ccx-maintained-at-follow-up.md) — related
 - [Achievement declined significantly from post-test to one-month follow-up in both groups, with no significant between-group difference in the decline](jigsaw-followup-decline-no-between-group-difference.md) — related
 - [No significant difference between post-test and one-month follow-up scores](no-significant-posttest-followup-difference.md) — related
-- [Social skills gains were maintained at follow-up, with no significant post-to-follow-up differences](social-skills-gains-maintained-follow-up.md) — a broader claim this one bears on
+- [Social skills scores did not change from post-test to follow-up in the experimental group, with no statistically significant post-to-follow-up differences](social-skills-gains-maintained-follow-up.md) — a broader claim this one bears on
 - [Teacher training in natural communication strategies and social stories improved social skills of students with autism versus control](teacher-training-natural-communication-social-stories-improved-social-skills-autism.md) — related
 - [The teaching-skill advantage of hands-on supervision was maintained at two-month follow-up](hands-on-supervision-gains-maintained-follow-up.md) — related
 - [Knowledge retention after simulation varies by item type: cellular and genetic concepts are less retained than procedural or physiological ones.](simulation-retention-varies-by-concept-type.md) — related
 - [Learning advantages of AI-assisted peer teaching persist at 3-month follow-up](ai-assisted-peer-teaching-retention-3-month.md) — related
+- [Junctional tourniquet skill scores rose from 1.7 ± 2.1 to 10.8 ± 0.9 and were 10.4 ± 1.0 at two-month follow-up in one single-group pre-post study](junctional-tourniquet-skill-retention-two-months.md) — related

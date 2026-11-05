@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r2`, 1 theoretical `r3` · `q3` · `i1` small · n=3,765 participants across 29 studies, k=89 effect sizes
-> **Currency** · newest study 2022 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 Training learners' spatial skills — through mental rotation, spatial visualization, and similar tasks — transfers to improved performance in mathematics, particularly in areas with strong spatial components such as geometry, measurement, and graph interpretation.
 

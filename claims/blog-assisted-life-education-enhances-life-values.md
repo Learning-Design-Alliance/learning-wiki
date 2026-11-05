@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Blog-assisted life education instruction significantly enhances fifth-grade elementary students' life education values"
-description: "Blog-assisted life education instruction significantly enhances fifth-grade elementary students' life education values"
+title: "Fifth-grade elementary students' life phenomenon, harmony between nature and human beings, life meaning and value, and total life education values scores rose significantly from pre-test to post-test after blog-assisted life education instruction, in one single-group pre-post study"
+description: "Fifth-grade elementary students' life phenomenon, harmony between nature and human beings, life meaning and value, and total life education values scores rose significantly from pre-test to post-test after blog-assisted life education instruction, in one single-group pre-post study"
 id: blog-assisted-life-education-enhances-life-values
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Blog-assisted life education instruction significantly enhances fifth-grade elementary students' life education values
+# Fifth-grade elementary students' life phenomenon, harmony between nature and human beings, life meaning and value, and total life education values scores rose significantly from pre-test to post-test after blog-assisted life education instruction, in one single-group pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -48,4 +48,4 @@ Paired-sample t-test comparing pretest and posttest on the Life Education Values
 - [Blog-assisted life education instruction significantly enhances students' information literacy and competence and course satisfaction](blog-life-education-enhances-learning-effectiveness.md) — related
 - [Blog-assisted life education instruction significantly enhances students' collaborative learning attitudes and attitudes toward blog use](blog-life-education-enhances-learning-attitudes.md) — related
 - [Most students enjoyed the blog-assisted life education course, favoring film watching and blog activity as instructional methods](students-favored-blog-assisted-life-education-course.md) — related
-- [Blog activities significantly improved students’ environmental knowledge](blog-activities-improve-environmental-knowledge.md) — related
+- [Students’ environmental knowledge scores rose significantly from pre-test to post-test after eight weeks of blog activities, in one uncontrolled pre-post study](blog-activities-improve-environmental-knowledge.md) — related

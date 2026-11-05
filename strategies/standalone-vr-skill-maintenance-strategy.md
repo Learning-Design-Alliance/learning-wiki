@@ -52,6 +52,7 @@ The article recommends scalable, self-directed VR practice to support skill main
 - [Virtual Reality Immersive Training](virtual-reality-immersive-training.md)
 - [Use screen-based 360° contextual simulation videos as a scalable supplement when supervised practice opportunities are constrained](360-video-scalable-supplement-nursing.md)
 - [Replace massed Halstedian-style training with spaced VR simulator-based psychomotor training for novice doctors](implement-spaced-vr-simulator-training-novice-doctors.md)
+- [Design training rotas with consistent, protected time for access to robotic simulators for skill progression](protected-simulation-time-robotic-training-rotas.md)
 
 ## Examples
 -

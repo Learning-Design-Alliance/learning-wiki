@@ -67,3 +67,4 @@ Same stratified Mann–Whitney analysis (Table 1). The article suggests these do
 - [Better mean performance in the Basic module is associated with shorter suturing time and a higher final Suture Score](basic-module-score-predicts-suturing-proficiency.md) — related
 - [Cumulative exposure (total simulation time and repetitions) shows no significant association with final suturing performance](exposure-not-associated-with-suturing-proficiency.md) — related
 - [Sensor-based force measurement discriminates skill levels, with experts suturing faster and with lower applied force than novices](force-sensing-discriminates-surgical-skill.md) — related
+- [Students learning venipuncture with a segmented-interactive video scored significantly higher on the technical component than students using a continuous video](segmented-interactive-video-technical-component-significant.md) — related

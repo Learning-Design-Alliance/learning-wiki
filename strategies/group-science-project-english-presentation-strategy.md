@@ -44,7 +44,7 @@ The article's procedure: form groups of 4-5 students after a pretest, assign eac
 
 ## Claims
 
-- [Project-based CLIL significantly improved vocabulary and pronunciation but not grammar, fluency, or comprehensibility](../claims/clil-gains-vocabulary-pronunciation-only.md) [+W]
+- [In one group with no comparison group, vocabulary and pronunciation scores rose from pre-test to post-test after project-based CLIL, while grammar, fluency, and comprehensibility scores did not change](../claims/clil-gains-vocabulary-pronunciation-only.md) [+W]
 - [Observations showed most students worked very well in groups during project-based CLIL](../claims/clil-group-work-observation.md) [+W]
 - [Students responded very positively to project-based CLIL learning](../claims/clil-positive-student-perceptions.md) [+W]
 - [Project-based CLIL significantly improved written English competence of mathematics students over one semester](../claims/project-based-clil-improves-written-english-competence.md) [+W]

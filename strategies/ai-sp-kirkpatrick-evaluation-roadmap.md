@@ -48,6 +48,7 @@ The article proposes a testable evaluation framework based on Kirkpatrick's 4-le
 ## Related Strategies
 
 - [Use the MEES questionnaire to evaluate postgraduate medical e-learning at Kirkpatrick levels 1 and 2](mees-questionnaire-elearning-evaluation-strategy.md)
+- [Kirkpatrick four-level evaluation of simulation training outcomes](kirkpatrick-four-level-sbl-evaluation.md)
 
 ## Examples
 -

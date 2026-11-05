@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Fall self-regulation (HTKS) scores predict spring literacy gains in first grade
-description: Fall self-regulation (HTKS) scores predict spring literacy gains in first grade
+title: In first grade, students with lower fall self-regulation (HTKS) scores demonstrated weaker literacy skill gains by spring
+description: In first grade, students with lower fall self-regulation (HTKS) scores demonstrated weaker literacy skill gains by spring
 id: fall-htks-predicts-literacy-gains
 status: review
 generated:
@@ -21,7 +21,7 @@ sources:
     rigour: 2
 ---
 
-# Fall self-regulation (HTKS) scores predict spring literacy gains in first grade
+# In first grade, students with lower fall self-regulation (HTKS) scores demonstrated weaker literacy skill gains by spring
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`

@@ -72,3 +72,4 @@ Prospective mixed-methods evaluation of two consecutive Year-1 medical cohorts (
 - [The TBL cohort performed significantly worse than PBL cohorts on semester tests, with mixed results by assessment type.](tbl-cohort-worse-semester-tests-than-pbl.md) — related
 - [Year 1 medical students positively receive the ease of accessing learning resources, clearly defined ILOs, interactive sessions, team composition, facilitator support and real-world applicability of weekly themes in integrated TBL.](tbl-elements-positively-received-year1-medical.md) — related
 - [TBL is slightly more cost effective than PBL despite the initial outlay required for technological devices to support room-to-room videoconferencing.](tbl-more-cost-effective-than-pbl.md) — a broader claim this one bears on
+- [Participants reported logistical and administrative burdens associated with orchestrating teaching events.](pedagogical-internship-track-administrative-burden.md) — related

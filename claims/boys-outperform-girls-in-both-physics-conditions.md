@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Musasia 2016: groups were assigned but students were analysed as independent · Musasia 2016 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` In both groups boys' mean scores were higher than girls' (experimental: 55.9 vs 48.8; control: 28.6 vs 29.5 for girls). [→ Musasia 2016](#musasia-2016)

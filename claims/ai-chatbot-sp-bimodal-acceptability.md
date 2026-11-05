@@ -49,3 +49,4 @@ Voluntary post-session survey of the 2026 cohort (20 of 24 students completed) c
 - [Students rated the human standardized patient customer discovery simulation highly, with 85% agreeing it met learning objectives](human-sp-customer-discovery-simulation-high-acceptability.md) — related
 - [Expert raters rated the virtual patients' profile consistency, character cohesion, and dialogue realism favorably across 20 interviews](virtual-patient-qualitative-realism-ratings.md) — related
 - [A formative study with 12 clinical-year medical students produced four design-oriented themes for AI-SP consultation practice](formative-study-four-design-themes-ai-sp.md) — related
+- [Virtual standardized patient interview comprehensiveness rose across successive SP consultations in the AI-assisted group, in one uncontrolled pre-post study](virtual-sp-interview-comprehensiveness-increases-sp1-sp3.md) — related

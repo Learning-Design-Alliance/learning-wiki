@@ -71,7 +71,7 @@ Wilcoxon Signed-Rank test of the control group's (n=16) pretest-posttest PRT sco
 ## Related Claims
 - [Teaching problem-solving strategies for ratio problems raises sixth-graders' proportional reasoning posttest scores above regular instruction](strategy-teaching-improves-proportional-reasoning-posttest.md) — related
 - [Reasoning scores of both prospective and current faculty teachers increased significantly during the short pedagogical training, but noticing did not improve significantly in either group](training-improves-reasoning-not-noticing.md) — related
-- [Inquiry-based instruction significantly improved pre-service science teachers' scientific process skills from pretest to post-test in a university biology laboratory](inquiry-instruction-improved-preservice-spst-pre-post.md) — related
+- [Pre-service science teachers' scientific process skills rose significantly from pretest to post-test within the experimental group during inquiry-based instruction in a university biology laboratory](inquiry-instruction-improved-preservice-spst-pre-post.md) — related
 - [Both experimental and control students showed significant pre-to-post gains on the Newton's Laws achievement test](both-groups-significant-pre-post-gains.md) — related
 - [Both the graphic-novel and traditional-activity groups improved significantly from pre-test to post-test, with a larger gain in the experimental group](both-groups-significant-pre-post-gains-graphic-novel-larger.md) — related
 - [The experimental group improved significantly from pre-test to post-test after learning the synthesis strategy](experimental-group-pre-post-gain.md) — related

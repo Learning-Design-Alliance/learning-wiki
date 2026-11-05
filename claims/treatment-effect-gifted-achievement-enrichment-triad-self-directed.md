@@ -48,5 +48,5 @@ Quasi-experimental pre-test/post-test control-group study of 75 gifted secondary
 - [Multiple Classification Analysis shows both treatment groups with large positive adjusted deviations and the control group far below average](mca-adjusted-deviations-treatment-vs-control-gifted.md) — a narrower finding that bears on this claim
 - [Gender has no significant main effect on gifted students' post-test achievement in the study](gender-no-significant-main-effect-gifted-achievement.md) — related
 - [Treatment (7E learning cycle, case-based learning, or conventional teaching) has a significant main effect on senior secondary students' chemistry achievement](treatment-main-effect-chemistry-achievement-adesoji.md) — related
-- [The study's null hypothesis of no pre-test/post-test difference in scores was rejected](null-hypothesis-rejected-pre-post-english.md) — related
+- [Scores rose from pre-test to post-test in one group with no comparison group](null-hypothesis-rejected-pre-post-english.md) — related
 - [Students' learning motivation has a significant impact on their learning achievement in the system analysis unit](learning-motivation-impacts-achievement-system-analysis.md) — related

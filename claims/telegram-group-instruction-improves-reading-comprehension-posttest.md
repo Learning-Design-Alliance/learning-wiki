@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i1` small
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Naderi 2018: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i1` Intermediate university EFL students taught reading comprehension through Telegram groups scored significantly higher than control students taught the same passages in class, with a printed effect size of .34. [→ Naderi 2018](#naderi-2018)

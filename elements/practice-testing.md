@@ -134,7 +134,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [High SRL students run significantly fewer tests than Medium or Low SRL students](../claims/high-srl-students-fewer-tests.md) [-W]
 - [Practice testing outperforms no-activity controls and restudy, with format and feedback moderators](../claims/practice-testing-superior-to-restudy.md) [+W]
 - [Students recalled a high percentage (87-88% on average) of concepts reinforced with the TtR strategy on unannounced midterm and final examinations](../claims/ttr-high-retention-87-88-percent.md) [+W] — attached 2026-11-02 from Divoll et al. (2010), which proposed "Ticket to retention (TtR) technique distinguished from other classroom assessment techniques in four ways".
-- [Both paper-flashcard and digital-flashcard groups made significant productive vocabulary gains over the 12-week treatment](../claims/pf-df-significant-pv-gains.md) [+W]
+- [Productive vocabulary scores rose significantly from pre-test to post-test within both the paper-flashcard and digital-flashcard groups in the 12-week study](../claims/pf-df-significant-pv-gains.md) [+W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

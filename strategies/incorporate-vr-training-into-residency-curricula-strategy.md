@@ -57,6 +57,7 @@ Based on the pooled findings, the review recommends that training programs adopt
 - [Integrate virtual reality training as an adjunct into surgical training curricula for junior trainees](integrate-vrt-adjunct-surgical-curricula.md)
 - [Consider VR as an adjunct to dissection and evaluate cost-effectiveness and adverse reactions when adopting VR for anatomy teaching](vr-anatomy-adjunct-adoption-strategy.md)
 - [Use self-directed simulator practice as an adjunct to early colonoscopy training, with future curricula adding targeted instructor feedback](self-directed-simulator-adjunct-colonoscopy-training.md)
+- [Integrate simulation-based learning into interprofessional curricula to cultivate collaboration early in training](integrate-sbl-into-interprofessional-curricula.md)
 
 ## Examples
 -

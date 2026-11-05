@@ -48,7 +48,7 @@ The article's results text, contradicted in part by its Table 2:
 
 
 ## Related Claims
-- [Flipped classroom combined with case-based learning improves post-course knowledge quiz scores in nuclear medicine residents](flipped-classroom-cbl-improves-nuclear-medicine-resident-quiz-scores.md) — related
+- [Post-course knowledge quiz scores rose from pre-course to post-course in nuclear medicine residents after a flipped classroom combined with case-based learning, in one uncontrolled pre-post study](flipped-classroom-cbl-improves-nuclear-medicine-resident-quiz-scores.md) — related
 - [Active-learning flipped instruction improved correct answers at all three Bloom difficulty levels, with the largest gains on medium and difficult questions](active-learning-gains-across-bloom-difficulty-levels.md) — a broader claim this one bears on
 - [Case-based learning and combined emerging methods show non-significant pooled advantages over lecture-based learning](cbl-combined-methods-nonsignificant-dental.md) — reports the opposite
 - [Flipped classroom shows a significant pooled advantage over lecture-based learning in dental education (SMD = 0.50)](flipped-classroom-significant-vs-lbl-dental.md) — a broader claim this one bears on

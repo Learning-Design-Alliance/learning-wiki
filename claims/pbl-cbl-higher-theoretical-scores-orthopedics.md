@@ -57,7 +57,7 @@ Meta-analysis of 14 studies (920 students) comparing PBL-CBL with LBL in orthope
 - [PBL produces better clinical competence than LBL in surgical education (SMD = 0.81)](pbl-better-clinical-competence-than-lbl-surgery.md) — related
 - [PBL improves comprehensive question scores compared with LBL (pooled SMD 0.53)](pbl-comprehensive-question-scores-smd-053.md) — related
 - [PBL methods produce significantly better knowledge scores than traditional teaching among dental students (pooled MD 4.15)](pbl-improves-knowledge-scores.md) — related
-- [A Context Based Learning physics model improves sport science students' analytical thinking skills with a high-category N-gain of 0.78](cbl-sport-context-improves-analytical-thinking-n-gain-078.md) — related
+- [Sport science students' analytical thinking scores rose from pre-test to post-test after a Context Based Learning physics model, with a high-category N-gain of 0.78, in a single-group pre-post study](cbl-sport-context-improves-analytical-thinking-n-gain-078.md) — related
 - [The CBL group performed significantly better on the final exam than the non-CBL group](cbl-improves-final-exam-performance-biochemistry.md) — related
 - [MDT-CDIO integrated teaching yields higher theoretical assessment scores than traditional teaching in orthopedic clinical education](mdt-cdio-higher-theoretical-assessment-scores.md) — related
 - [Case review-based learning improves orthodontic examination scores compared with lecture-based learning](cbl-improves-orthodontic-exam-scores.md) — related

@@ -29,6 +29,7 @@ A seven-dimension competency framework and self-assessment scale for evaluating 
 ## Related Products and Programmes
 
 - [Nurse Competence Scale (NCS)](nurse-competence-scale-ncs.md)
+- [Critical Thinking Diagnostic Scale (CTDS), Chinese version](critical-thinking-diagnostic-scale-ctds-chinese-version.md)
 
 ## Key Sources
 - Tian Xiao Miao, Chen Yu Zhen, Xie Su Mei, Shao Han Mei, Li Yan Yi, Liu Jian. (2026). Constructing A Core Competency Evaluation Index System for Incontinence Specialist Nurses: A Delphi Study. Nursing Open. https://doi.org/10.1002/nop2.70617

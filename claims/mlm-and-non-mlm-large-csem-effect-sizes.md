@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Both MLM and non-MLM groups using reformed pedagogies demonstrate very large effect sizes on the CSEM, with the MLM group's effect size close to 'huge'"
-description: "Both MLM and non-MLM groups using reformed pedagogies demonstrate very large effect sizes on the CSEM, with the MLM group's effect size close to 'huge'"
+title: "CSEM scores rose from pre-test to post-test in both MLM and non-MLM groups using reformed pedagogies; the observed standardized gains were very large, with the MLM group's close to 'huge' (pre-post measurements with no comparison group)"
+description: "CSEM scores rose from pre-test to post-test in both MLM and non-MLM groups using reformed pedagogies; the observed standardized gains were very large, with the MLM group's close to 'huge' (pre-post measurements with no comparison group)"
 id: mlm-and-non-mlm-large-csem-effect-sizes
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Both MLM and non-MLM groups using reformed pedagogies demonstrate very large effect sizes on the CSEM, with the MLM group's effect size close to 'huge'
+# CSEM scores rose from pre-test to post-test in both MLM and non-MLM groups using reformed pedagogies; the observed standardized gains were very large, with the MLM group's close to 'huge' (pre-post measurements with no comparison group)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

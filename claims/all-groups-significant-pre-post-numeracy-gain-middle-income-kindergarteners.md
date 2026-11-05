@@ -1,7 +1,7 @@
 ---
 type: claim
-title: All three groups (cooperative learning, individual learning, and control) improved significantly in early numeracy from pre-test to post-test over 12 weeks
-description: All three groups (cooperative learning, individual learning, and control) improved significantly in early numeracy from pre-test to post-test over 12 weeks
+title: Early numeracy scores rose significantly from pre-test to post-test over 12 weeks in the cooperative learning, individual learning, and control groups, with changes measured within each group
+description: Early numeracy scores rose significantly from pre-test to post-test over 12 weeks in the cooperative learning, individual learning, and control groups, with changes measured within each group
 id: all-groups-significant-pre-post-numeracy-gain-middle-income-kindergarteners
 status: review
 generated:
@@ -36,16 +36,16 @@ sources:
     rigour: 1
 ---
 
-# All three groups (cooperative learning, individual learning, and control) improved significantly in early numeracy from pre-test to post-test over 12 weeks
+# Early numeracy scores rose significantly from pre-test to post-test over 12 weeks in the cooperative learning, individual learning, and control groups, with changes measured within each group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r1` · `q2` · `i3` large
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i3` The cooperative learning training group improved significantly in BIN 4-6 z-score from pre- to post-test, with printed effect size |r| = .88. [→ Meloni et al. 2017](#meloni-et-al-2017)
-`q2 i3` The individual learning training group improved significantly in BIN 4-6 z-score from pre- to post-test, with printed effect size |r| = .88. [→ Meloni et al. 2017 (2)](#meloni-et-al-2017-2)
-`q2 i3` The control group doing drawing activities also improved significantly in BIN 4-6 z-score from pre- to post-test, with printed effect size |r| = .83. [→ Meloni et al. 2017 (3)](#meloni-et-al-2017-3)
+`q2 i3` The BIN 4-6 z-score rose significantly from pre- to post-test in the cooperative learning training group, with the change measured within that group and printed effect size |r| = .88. [→ Meloni et al. 2017](#meloni-et-al-2017)
+`q2 i3` The BIN 4-6 z-score rose significantly from pre- to post-test in the individual learning training group, with the change measured within that group and printed effect size |r| = .88. [→ Meloni et al. 2017 (2)](#meloni-et-al-2017-2)
+`q2 i3` The BIN 4-6 z-score also rose significantly from pre- to post-test in the control group doing drawing activities, with the change measured within that group and printed effect size |r| = .83. [→ Meloni et al. 2017 (3)](#meloni-et-al-2017-3)
 
 ## Evidence
 
@@ -86,7 +86,7 @@ Wilcoxon paired test on the control group (n=14), who did drawing and block-play
 - [Number Sense](../learner-variables/number-sense.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Both low-ability training and low-ability control children improved significantly in early numeracy from pre-test to post-test](low-ability-children-both-groups-significant-pre-post-gains.md) — a narrower finding that bears on this claim
+- [Early numeracy scores rose significantly from pre-test to post-test in both the low-ability training and low-ability control groups, with change measured within each group](low-ability-children-both-groups-significant-pre-post-gains.md) — a narrower finding that bears on this claim
 - [Among low-early-math-ability kindergarteners, supplemental training produced significantly higher improvement than an equally low-ability control group](low-ability-kindergarteners-training-outperforms-control.md) — a narrower finding that bears on this claim
 - [No significant gender difference was found in early numeracy improvement in either experimental group](no-gender-difference-numeracy-improvement.md) — related
 - [Children improved their numerical and letter-sound knowledge between pre-test and post-test regardless of condition](numeracy-letter-sound-gains-all-conditions.md) — related

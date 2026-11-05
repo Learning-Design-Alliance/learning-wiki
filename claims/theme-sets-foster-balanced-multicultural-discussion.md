@@ -50,3 +50,4 @@ Instructor observations of semistructured small-group and whole-class discussion
 - [Native speakers in theme-set courses tend to ignore the primary text while engaging supplemental multimodal materials](native-speakers-skip-primary-text-with-theme-sets.md) — related
 - [In theme-set courses, L2 students outperform native-speaking peers on unit surveys, reversing the control-group gap](theme-sets-reverse-l2-native-comprehension-gap.md) — related
 - [Multimodal theme-sets increase the proportion of students earning exceptional final portfolio ratings](theme-sets-increase-exceptional-portfolio-ratings.md) — related
+- [Cisgender men speak more during small-group or whole-class discussions, reinforcing perceptions of greater competence in STEM.](men-speak-more-discussions-competence-perceptions.md) — related

@@ -74,3 +74,4 @@ Interview participants in the three content-specific communities, each convened 
 - [Implementation projects most commonly fail due to simplistic planning, lack of adaptation, and poor teamwork](implementation-failure-modes-planning-adaptation-teamwork.md) — related
 - [Trust is a key enabler of knowledge sharing in online learning communities](trust-enables-knowledge-sharing-online.md) — a broader claim this one bears on
 - [Altınay and colleagues emphasize critical thinking, critical friendship, teamwork, and network-based collaboration for international standards](critical-friendship-teamwork-international-standards.md) — related
+- [Participants reported markedly improved feedback skills as the most tangible improvement from the program.](pedagogical-internship-track-feedback-skills.md) — related

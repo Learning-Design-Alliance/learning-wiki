@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Spatial training children improved significantly on missing term and multi-digit problems from pretest to posttest
-description: Spatial training children improved significantly on missing term and multi-digit problems from pretest to posttest
+title: Spatial training children’s scores rose significantly from pretest to posttest on missing term and multi-digit problems, within that group
+description: Spatial training children’s scores rose significantly from pretest to posttest on missing term and multi-digit problems, within that group
 id: spatial-group-prepost-gains
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 2
 ---
 
-# Spatial training children improved significantly on missing term and multi-digit problems from pretest to posttest
+# Spatial training children’s scores rose significantly from pretest to posttest on missing term and multi-digit problems, within that group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`

@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i0` negligible
 > **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Christian Hartmann 2021 (2): no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` Condition significantly affected self-reported awareness of knowledge gaps (F(2, 170) = 11.57, p < 0.001), with PF students reporting more awareness than both VF conditions. [→ Christian Hartmann 2021](#christian-hartmann-2021)

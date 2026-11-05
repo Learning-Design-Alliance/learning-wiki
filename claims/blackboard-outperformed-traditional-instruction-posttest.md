@@ -45,6 +45,6 @@ Mann-Whitney comparison of the twenty-student experimental group and twenty-stud
 
 
 ## Related Claims
-- [Blackboard-based instruction produced statistically significant pre-to-post achievement gains in the EFL teaching methods course for the experimental group](blackboard-instruction-significant-prepost-gains-efl-methods.md) — related
+- [The experimental group showed statistically significant pre-to-post achievement gains in the EFL teaching methods course after Blackboard-based instruction](blackboard-instruction-significant-prepost-gains-efl-methods.md) — related
 - [Blackboard-based blended teaching produced significantly higher academic achievement than traditional teaching, with η² = 0.75](blackboard-blended-teaching-achievement-eta-075.md) — possibly the same claim (merge candidate)
 - [Blended Blackboard CMC instruction using discussion boards, blogs and wikis significantly improves integrated reading/writing performance in EFL college students](blackboard-cmc-improves-integrated-reading-writing.md) — related

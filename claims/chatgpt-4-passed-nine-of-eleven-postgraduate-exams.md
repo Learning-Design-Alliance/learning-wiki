@@ -72,3 +72,4 @@ Combined analysis across eleven examinations (Table 1) showing ChatGPT-4 passed 
 - [GPT-4 examination accuracy is moderated by item type: multi-step vignettes (61–71%) and image-dependent items (48–63%) fall well below single-fact recall (83–88%)](gpt4-accuracy-item-type-moderators.md) — related
 - [GPT-4 passed medical licensing examinations in 26 of 29 cases and outperformed average medical students in 13 of 17 cases, while GPT-3.5 passed in only 10 of 26 and surpassed students in 4 of 14](gpt4-pass-and-student-comparison-rates.md) — related
 - [Hallucination, fabrication and reduced explanation accuracy limit ChatGPT's potential as a medical learning tool](hallucination-and-explanation-accuracy-limit-chatgpt-learning-tool.md) — related
+- [Frontier LLM scores on the FRCS Urology examination represent a substantial improvement over ChatGPT-3.5's reported 35% failure](frontier-llms-improve-over-chatgpt-3-5-frcs-urol.md) — related

@@ -63,9 +63,11 @@ Feedback only improves learning when recipients actively process and use it, yet
 7. Follow up: revisit the revised work so learners see the payoff of acting on feedback ([Assessment](../elements/assessment.md) for learning, not just of learning).
 
 ## Related Strategies
+
 - [Action-Oriented Feedback](action-oriented-feedback.md) — shapes the feedback itself so it is actionable; modeling reception teaches learners what to do with it
 - [Peer Feedback](../elements/peer-feedback.md) — receiving peer critique is often harder emotionally; modeling reception prepares learners for it
 - [Revision](../elements/revision.md) — the concrete act that modeled reception should lead into
+- [Use the attempt, compare, critique, and act learner routine to convert AI feedback into learning actions](attempt-compare-critique-act-routine.md)
 
 ## Examples
 - **Writing center conferences** (e.g., the University of North Carolina Writing Center model): tutors narrate how they would respond to instructor comments on a draft before the student attempts their own response ([https://writingcenter.unc.edu](https://writingcenter.unc.edu)).

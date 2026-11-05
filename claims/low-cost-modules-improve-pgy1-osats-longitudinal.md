@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Orthopaedic interns with year-long at-home access to low-cost skills modules significantly improved OSATS Global Rating Scores across all five modules from beginning to end of the academic year
-description: Orthopaedic interns with year-long at-home access to low-cost skills modules significantly improved OSATS Global Rating Scores across all five modules from beginning to end of the academic year
+title: "Orthopaedic interns' OSATS Global Rating Scores rose significantly across all five modules from the beginning to the end of the academic year in a within-group pre-test/post-test comparison after year-long at-home access to low-cost skills modules"
+description: "Orthopaedic interns' OSATS Global Rating Scores rose significantly across all five modules from the beginning to the end of the academic year in a within-group pre-test/post-test comparison after year-long at-home access to low-cost skills modules"
 id: low-cost-modules-improve-pgy1-osats-longitudinal
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# Orthopaedic interns with year-long at-home access to low-cost skills modules significantly improved OSATS Global Rating Scores across all five modules from beginning to end of the academic year
+# Orthopaedic interns' OSATS Global Rating Scores rose significantly across all five modules from the beginning to the end of the academic year in a within-group pre-test/post-test comparison after year-long at-home access to low-cost skills modules
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` PGY1 residents with home module access showed statistically significant GRS improvement across all modules over one year, with all residents improving. [→ Hagen M. S. 2026](#hagen-m-s-2026)
+`q2 i?` Among PGY1 residents with home module access, GRS rose statistically significantly across all modules from the beginning to the end of one year in a within-group pre-test/post-test comparison, and all residents had higher GRS at the end. [→ Hagen M. S. 2026](#hagen-m-s-2026)
 
 ## Evidence
 
@@ -50,3 +50,4 @@ Prospective cohort study of eight PGY1 residents tested before and after a year 
 - [Within the PGY1 cohort, drill plunge accuracy and angled drilling time improved significantly from beginning to end of year, while other accuracy and time measures did not change significantly](within-cohort-drill-plunge-accuracy-angled-drilling-time.md) — a narrower finding that bears on this claim
 - [Module access was associated with greater task efficiency in drill plunge, depth gauge, and angled drilling versus controls, with no significant accuracy differences between groups](module-access-efficiency-not-accuracy-gains.md) — related
 - [Residents used the modules an average of 10.6 total hours over the academic year, with wide variation and two residents reporting zero hours](module-use-averaged-10-6-hours-self-reported.md) — related
+- [All but one of five studies reporting resident confidence before and after an educational intervention reported increased resident confidence.](rhinoplasty-education-interventions-increase-resident-confidence.md) — a broader claim this one bears on

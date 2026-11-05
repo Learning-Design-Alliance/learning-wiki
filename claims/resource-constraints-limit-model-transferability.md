@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 sources:
   - id: munguiko-clement-2026
     resource: "https://doi.org/10.1186/s12909-026-09710-w"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The review argues that high patient volumes, workforce shortages, and constrained infrastructure in low- and middle-income settings may hinder application of structured, time-intensive, feedback-demanding models, so direct transferability should not be assumed. [→ Munguiko Clement 2026](#munguiko-clement-2026)
@@ -61,3 +61,4 @@ Authors' interpretive synthesis in the discussion, attributing transferability c
 - [Time constraints, patient expectations, and lack of relevant evidence are widely reported barriers to EBM in general practice](barriers-to-ebm-in-general-practice.md) — related
 - [Teachers' teaching approaches were constrained by university entrance exam pressure and laboratory resource shortages](exam-pressure-and-resources-constrain-teaching-approach.md) — a narrower finding that bears on this claim
 - [Patient-related, technical and organisational challenges hindered clinical LUS integration](lus-integration-challenges-ed.md) — a narrower finding that bears on this claim
+- [Institutional support and opportunities to teach were identified as key facilitators, while time constraints were the primary barrier to sustained skill application](facilitators-and-barriers-to-sustained-teaching-skills.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Role design improves learners' perceived usefulness and ease of use of GAI, but moderately increases collaborative cognitive load"
-description: "Role design improves learners' perceived usefulness and ease of use of GAI, but moderately increases collaborative cognitive load"
+title: "Learners' perceived usefulness and ease of use of GAI rose from pre-test to post-test, while collaborative cognitive load moderately rose, in one uncontrolled pre-post study"
+description: "Learners' perceived usefulness and ease of use of GAI rose from pre-test to post-test, while collaborative cognitive load moderately rose, in one uncontrolled pre-post study"
 id: role-design-improves-gai-perceptions-raises-cognitive-load
 status: review
 generated:
@@ -28,15 +28,15 @@ sources:
     rigour: "?"
 ---
 
-# Role design improves learners' perceived usefulness and ease of use of GAI, but moderately increases collaborative cognitive load
+# Learners' perceived usefulness and ease of use of GAI rose from pre-test to post-test, while collaborative cognitive load moderately rose, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` The role intervention improved learners' perceived usefulness and ease of use of generative AI. [→ Cheng 2026](#cheng-2026)
-`q3 i?` The role intervention led to a moderate increase in collaborative cognitive load. [→ Cheng 2026 (2)](#cheng-2026-2)
+`q3 i?` Learners' perceived usefulness and ease of use of generative AI rose from pre-test to post-test in one group with no comparison group. [→ Cheng 2026](#cheng-2026)
+`q3 i?` Collaborative cognitive load rose moderately from pre-test to post-test in one group with no comparison group. [→ Cheng 2026 (2)](#cheng-2026-2)
 
 ## Evidence
 
@@ -68,5 +68,5 @@ Perceived collaborative cognitive load was measured as an outcome in the same qu
 
 ## Related Claims
 - [Collaborative knowledge construction among graduate students working with generative AI online was of higher quality after a symbiosis theory-based role design than before it, in a pretest-posttest study with no comparison group reported](role-design-enhances-collaborative-knowledge-construction-quality.md) — related
-- [Role design facilitates transitions among higher-order collaborative behaviors in human-GAI collaboration](role-design-facilitates-higher-order-behavior-transitions.md) — related
+- [Transitions among higher-order collaborative behaviors were observed from pre-test to post-test after role design in human-GAI collaboration, in one group with no comparison group](role-design-facilitates-higher-order-behavior-transitions.md) — related
 - [Students in secondary mathematics report high acceptance of the domain-specific AI chatbot ADA across all Technology Acceptance Model dimensions](ada-high-tam-acceptance-secondary-math.md) — related

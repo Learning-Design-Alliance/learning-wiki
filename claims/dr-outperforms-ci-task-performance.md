@@ -57,5 +57,5 @@ Kruskal-Wallis comparison of expert-rated task performance across the three clus
 - [Cluster analysis of student-AI dialogue identifies three distinct collaboration profiles: Delegated Reasoning, Concerted Interpretation, and Delegated Elaboration](three-human-ai-cps-profiles-dr-ci-de.md) — related
 - [Epistemic network analysis shows metacognitive behaviors co-occur with invitation actions in DR and DE but with human-initiated reasoning and elaboration in CI](ena-metacognition-invitations-versus-reasoning.md) — related
 - [Groups of high-performing students often fail problem-solving tasks when they do not collaborate, showing why collaborative skills need assessment and feedback](high-performing-groups-fail-without-collaboration.md) — related
-- [GAI-assisted DST creation significantly enhanced all five CPS sub-dimensions compared to traditional methods](gai-assisted-dst-improves-cps-subdimensions.md) — related
+- [Students in a GAI-assisted DST class reported higher scores than a traditional-methods class on all five self-reported CPS sub-dimensions](gai-assisted-dst-improves-cps-subdimensions.md) — related
 - [Collaborative learning with self-assessment improves geometry achievement at low and high cognitive levels relative to traditional teaching](collaborative-self-assessment-improves-geometry-achievement.md) — related

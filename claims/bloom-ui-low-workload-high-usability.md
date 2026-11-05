@@ -67,3 +67,4 @@ Usability study (RQ3) with N=50 Prolific participants who used the UI for 10 min
 - [Adapted SUS scores indicated above-average usability, with the round 2 median of 77.5 exceeding the industry average of 68](sus-median-77-5-above-average-usability.md) — related
 - [The DCBL platform achieved marginal-to-average usability (mean SUS 62.4) with moderate cognitive workload](dcbl-platform-usability-sus-workload.md) — related
 - [Students rate the AISP chatbot highly usable, with robotic conversational style the most common concern](aisp-cortex-usability-cuq-findings.md) — related
+- [Mobile AR for anatomy education received a mean System Usability Scale score of 58.25 (SD ±15.41), below the average threshold of 68 and translating to a 'D' grade](mobile-ar-anatomy-sus-58-25-d-grade.md) — related

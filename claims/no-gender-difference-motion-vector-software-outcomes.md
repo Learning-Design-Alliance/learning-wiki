@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Mohd. Jasmy Abd Rahman 2014: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` The article reports that conceptual understanding of male and female students was similar and motivation increased for both genders. [→ Mohd. Jasmy Abd Rahman 2014](#mohd-jasmy-abd-rahman-2014)
