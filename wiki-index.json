@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":49846,
+"claim":49847,
 "design":2572,
 "element":1057,
 "learner-variable":75,
@@ -121079,6 +121079,16 @@
 "path":"claims/distributed-leadership-emergent-group-phenomenon.md",
 "status":"review",
 "title":"Without assigned roles, all group members generally participate in many core dimensions of group leadership, which emerges as an interactive group phenomenon",
+"type":"claim"
+},
+{
+"description":"In a classroom study of 213 third and seventh graders, one practice set a day for three days produced better follow-up test performance than three sets in one day for seventh graders at both delays, while for third graders the data supported a benefit only at the one-week test.",
+"evidence_strength":"moderate",
+"id":"distributed-math-practice-grade3-grade7-classroom",
+"newest_evidence":"2019",
+"path":"claims/distributed-math-practice-grade3-grade7-classroom.md",
+"status":"review",
+"title":"Distributing mathematics practice over three days instead of one helped seventh graders at one and six weeks, but third graders only at one week",
 "type":"claim"
 },
 {
@@ -689355,6 +689365,7 @@
 "distributed-drill-repetitions-better-than-succession":"distributed-drill-repetitions-better-than-succession",
 "distributed-epistemic-agency-machine-authority":"distributed-epistemic-agency-machine-authority",
 "distributed-leadership-emergent-group-phenomenon":"distributed-leadership-emergent-group-phenomenon",
+"distributed-math-practice-grade3-grade7-classroom":"distributed-math-practice-grade3-grade7-classroom",
 "distributed-metacognition-analysis-application":"distributed-metacognition-analysis-application",
 "distributed-pair-programming-lowers-programming-skills":"distributed-pair-programming-lowers-programming-skills",
 "distributed-practice-beats-cramming-principle":"distributed-practice-beats-cramming-principle",

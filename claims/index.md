@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**49846 entries** · 0 stable · 49846 in review · 0 drafts
+**49847 entries** · 0 stable · 49847 in review · 0 drafts
 
 ---
 
@@ -10866,6 +10866,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Distributed school practice in addition produces large gains, roughly 50 per cent in examples correct, in school pupils as found](large-gains-distributed-practice-addition-school-pupils.md) - Distributed school practice in addition produces large gains, roughly 50 per cent in examples correct, in school pupils as found
 * [Distributing drill repetitions in time gives better learning results than making many repetitions in succession](distributed-drill-repetitions-better-than-succession.md) - Distributing drill repetitions in time gives better learning results than making many repetitions in succession
 * [Distributing hardware without capable software produced no measurable effect on mathematics or language scores in a large randomized evaluation, as the article reports citing Cristia et al.](olpc-randomized-hardware-null-no-score-effect.md) - Distributing hardware without capable software produced no measurable effect on mathematics or language scores in a large randomized evaluation, as the article reports citing Cristia et al.
+* [Distributing mathematics practice over three days instead of one helped seventh graders at one and six weeks, but third graders only at one week](distributed-math-practice-grade3-grade7-classroom.md) - In a classroom study of 213 third and seventh graders, one practice set a day for three days produced better follow-up test performance than three sets in one day for seventh graders at both delays, while for third graders the data supported a benefit only at the one-week test.
 * [Distributional learning across a task-irrelevant dimension slows duration decisions for low-probability frequencies](task-irrelevant-distribution-slows-duration-decisions.md) - Distributional learning across a task-irrelevant dimension slows duration decisions for low-probability frequencies
 * [Distributional learning exhibits hysteresis, with prior distributions influencing judgments after distributions change](hysteresis-carryover-prior-distributions.md) - Distributional learning exhibits hysteresis, with prior distributions influencing judgments after distributions change
 * [Distributional learning modulates tone detection in noise, with better detection of high-probability frequencies](distributional-learning-modulates-tone-detection.md) - Distributional learning modulates tone detection in noise, with better detection of high-probability frequencies
