@@ -46,5 +46,5 @@ Classroom observations by researchers and BELA staff identified fidelity failure
 
 ## Related Claims
 - [Implementation fidelity of Switch-on was compromised in some schools, with modifications to prescribed content, duration and format of sessions](switch-on-fidelity-compromised-scale-up.md) — related
-- [Implementation fell short of the intended dosage: very few learners received two 15-minute sessions weekly for 30 weeks, mainly due to timetabling and absence](catch-up-numeracy-fidelity-timetabling-barriers.md) — related
+- [Very few interviewed staff reported learners receiving the intended two 15-minute sessions a week, and they named timetabling and absence as barriers](catch-up-numeracy-fidelity-timetabling-barriers.md) — related
 - [Schools delivered very few RTI sessions in practice, making it impossible to implement, monitor and adjust the intervention as intended](rti-few-sessions-fidelity-problem.md) — related

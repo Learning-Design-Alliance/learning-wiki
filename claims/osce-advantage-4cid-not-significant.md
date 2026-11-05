@@ -15,7 +15,7 @@ sources:
     title: "Khan Abdus Salam, Khan Muhammad Nasir Ayub, Khan Muhammad I. (2025). Comparing the Lecture-Based Learning With the Four-Component Instructional Design (4C/ID) Model of Learning in Enhancing the Skills of Consent-Taking in the Emergency Department: A Quasi-experimental Study. Cureus. https://doi.org/10.7759/cureus.94133"
     author: Khan Abdus Salam, Khan Muhammad Nasir Ayub, Khan Muhammad I.
     q: 2
-    i: "?"
+    i: 2
     kind: causal
     rigour: 1
 ---
@@ -23,11 +23,11 @@ sources:
 # The 4C/ID group scored higher on consent-taking OSCEs than the lecture group, but the difference was not statistically significant
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r1` · `q2`
+> **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` The 4C/ID group achieved higher mean OSCE scores than the lecture group, but the difference was not statistically significant. [→ Khan Abdus Salam 2025](#khan-abdus-salam-2025)
+`q2 i2` The 4C/ID group achieved higher mean OSCE scores than the lecture group, but the difference was not statistically significant (ANCOVA partial eta squared = 0.084, p = 0.215). [→ Khan Abdus Salam 2025](#khan-abdus-salam-2025)
 
 ## Evidence
 
@@ -35,9 +35,9 @@ sources:
 
 Khan Abdus Salam, Khan Muhammad Nasir Ayub, Khan Muhammad I. (2025). Comparing the Lecture-Based Learning With the Four-Component Instructional Design (4C/ID) Model of Learning in Enhancing the Skills of Consent-Taking in the Emergency Department: A Quasi-experimental Study. Cureus. https://doi.org/10.7759/cureus.94133
 
-`q2 · i?` · `causal · r1`
+`q2 · i2` · `causal · r1`
 
-In the same quasi-experiment, blinded trained raters scored blueprint-aligned OSCE stations with standardized patients. Group B's mean OSCE (18.64 ± 1.22) exceeded Group A's (17.44 ± 2.46), a difference that 'was not statistically significant (p=0.168)'; no effect size was printed.
+In the same quasi-experiment, blinded trained raters scored blueprint-aligned OSCE stations with standardized patients. Group B's mean OSCE (18.64 ± 1.22) exceeded Group A's (17.44 ± 2.46), a difference that 'was not statistically significant (p=0.168)'. An ANCOVA adjusting for years of emergency-department experience (Table 3) also found no significant group effect (F = 1.654, p = 0.215, partial eta squared = 0.084, observed power 0.23).
 
 > "Group B achieved higher mean OSCE scores compared with Group A (18.64 ± 1.22 vs. 17.44 ± 2.46), although this difference was not statistically significant (p=0.168)."
 

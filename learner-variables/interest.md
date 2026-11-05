@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 258 claims (184 show a difference, 44 mixed, 30 no difference) · 177 studies (79 causal, 46 associational, 21 review, 13 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 47 of 177 report an effect size · 252 claims rest on one study
+> **Evidence** · 258 claims (184 show a difference, 44 mixed, 30 no difference) · 177 studies (79 causal, 46 associational, 21 review, 13 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 48 of 177 report an effect size · 252 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -74,7 +74,7 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Instructors perceive that experiential learning cultivates enjoyment, satisfaction, and self-confidence through peer and community engagement (beauty)](../claims/instructors-enjoyment-peer-community-engagement.md) [+W] — instruction changes it
 - [Interest alignment is highest among course completers while economic motivations (higher pay, better benefits, increased stability) are highest among non-completers](../claims/interest-alignment-vs-economic-motivations-persistence.md) [+W] — learners who differ on it differ in outcomes
 - [Interest ratings were the only significant predictor of readers' predictive judgments of understanding](../claims/interest-predicts-judgments-of-understanding.md) [+M] — learners who differ on it differ in outcomes
-- [Interest/enjoyment and perceived choice were the weakest motivation dimensions, suggesting Mangomon's RPG mechanics did not yet fully serve learner autonomy](../claims/rpg-mechanics-not-yet-serve-autonomy.md) [+W] — instruction changes it
+- [Perceived choice and enjoying catching Mangomon were the lowest-rated motivation items, which the authors read as its RPG mechanics not yet fully serving learner autonomy](../claims/rpg-mechanics-not-yet-serve-autonomy.md) [+W] — instruction changes it
 - [IPS implemented with adult support and regular review may increase students’ academic engagement, agency, career-relevant knowledge and skills, and college/career drive](../claims/ips-with-adult-support-and-review-associated-outcomes.md) [~W] — instruction changes it
 - [Learner-side gains from curiosity modulation generalize across model families, academic domains, and topic complexity levels](../claims/curiosity-gains-generalize-across-models-domains-complexity.md) [+M] — learners who differ on it differ in outcomes
 - [Learner-side gains from curiosity modulation persist even when tutor-side instructional quality remains unchanged or degrades, suggesting curiosity operates as a partially independent interaction-level mechanism](../claims/learner-gains-persist-despite-tutor-quality-degradation.md) [+M] — learners who differ on it differ in outcomes

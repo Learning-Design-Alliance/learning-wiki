@@ -49,7 +49,7 @@ A quasi-experimental study with 40 adult intermediate EFL learners in Tehran com
 - [Song intervention significantly improves connected speech in speaking mode](songs-improve-speaking-connected-speech.md) — a narrower finding that bears on this claim
 - [Song intervention significantly improves connected speech in reading-aloud mode](songs-improve-reading-aloud-connected-speech.md) — a narrower finding that bears on this claim
 - [English verbal songs show no significant difference in effect between reading-aloud and speaking modes of speech production](songs-equal-effect-reading-aloud-speaking.md) — related
-- [EFL learners who listened to humorous songs gained significantly on a listening comprehension test while a control group taught without the songs did not, though the groups were not compared directly](humorous-song-improves-efl-listening-comprehension.md) — related
+- [EFL learners who listened to humorous songs gained significantly on a listening comprehension test while a control group did not, though the groups were not compared directly](humorous-song-improves-efl-listening-comprehension.md) — related
 - [Connected speech includes phonological processes of reduction, elision, assimilation, and contraction](connected-speech-phonological-processes.md) — related
 - [Connected speech is a natural feature of native-speaker English that contributes to speech naturalness and intelligibility](connected-speech-naturalness-importance.md) — related
 - [First-year Chinese EFL majors taught with song education scored 3.1 points higher on the Comprehensive English Course post-test than a parallel control class](song-education-post-test-advantage-efl-majors.md) — related

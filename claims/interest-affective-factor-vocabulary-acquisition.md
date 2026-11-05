@@ -48,6 +48,6 @@ This is the authors' interpretive statement in the Discussion section, not a sep
 - [Motivation](../learner-variables/motivation.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Interest/enjoyment and perceived choice were the weakest motivation dimensions, suggesting Mangomon's RPG mechanics did not yet fully serve learner autonomy](rpg-mechanics-not-yet-serve-autonomy.md) — related
+- [Perceived choice and enjoying catching Mangomon were the lowest-rated motivation items, which the authors read as its RPG mechanics not yet fully serving learner autonomy](rpg-mechanics-not-yet-serve-autonomy.md) — related
 - [Student motivation, enjoyment, and engagement are higher in natural learning settings, including spillover to subsequent indoor lessons](nature-settings-boost-motivation-engagement.md) — related
 - [University learners of Italian in two surveys report ideal-self motivation rather than instrumental motivation; a contrast with their teachers' view is reported but not confirmed in the text read.](italian-l2-motivation-is-ideal-self-not-instrumental.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Implementation fell short of the intended dosage: very few learners received two 15-minute sessions weekly for 30 weeks, mainly due to timetabling and absence"
-description: "Implementation fell short of the intended dosage: very few learners received two 15-minute sessions weekly for 30 weeks, mainly due to timetabling and absence"
+title: "Very few interviewed staff reported learners receiving the intended two 15-minute sessions a week, and they named timetabling and absence as barriers"
+description: "Very few interviewed staff reported learners receiving the intended two 15-minute sessions a week, and they named timetabling and absence as barriers"
 id: catch-up-numeracy-fidelity-timetabling-barriers
 status: review
 generated:
@@ -29,16 +29,16 @@ sources:
     rigour: 2
 ---
 
-# Implementation fell short of the intended dosage: very few learners received two 15-minute sessions weekly for 30 weeks, mainly due to timetabling and absence
+# Very few interviewed staff reported learners receiving the intended two 15-minute sessions a week, and they named timetabling and absence as barriers
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2014 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person · **overdue for a recheck since 2017**: local conditions change quickly
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: local conditions change quickly
 > **Design limits** · National Foundation for Educational Research (NFER) 2014: no comparison group · National Foundation for Educational Research (NFER) 2014 (2): no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Very few interviewees reported learners receiving the intended two 15-minute sessions each week, with pupil and staff absences and scheduling cited as causes. [→ National Foundation for Educational Research (NFER) 2014](#national-foundation-for-educational-research-nfer-2014)
-`q2 i?` The most commonly reported barrier was lack of TA time to plan, prepare and fit sessions into the existing timetable. [→ National Foundation for Educational Research (NFER) 2014 (2)](#national-foundation-for-educational-research-nfer-2014-2)
+`q2 i?` In interviews, the most commonly reported barrier was lack of TA time to plan, prepare and fit sessions into the existing timetable. [→ National Foundation for Educational Research (NFER) 2014 (2)](#national-foundation-for-educational-research-nfer-2014-2)
 
 ## Evidence
 
@@ -48,7 +48,7 @@ National Foundation for Educational Research (NFER), evaluation team led by Simo
 
 `q2 · i?` · `causal · r2`
 
-Qualitative process evaluation based on telephone interviews with 25 TAs and 24 coordinators across 27 schools (N=49 participants), plus training observations and TA questionnaires. Fidelity to the intended 60-session dosage was rare.
+Qualitative process evaluation based on telephone interviews with 25 TAs and 24 coordinators across 27 schools (N=49 participants), plus training observations and TA questionnaires. Few interviewees reported the intended two sessions a week being delivered; the report does not measure how many learners actually received the full dosage.
 
 > "Very few interviewees reported that learners had received two  15-minutes sessions each week. TAs tried to adhere to the intervention where possible, but pupils or staff absences prevented this from happening."
 

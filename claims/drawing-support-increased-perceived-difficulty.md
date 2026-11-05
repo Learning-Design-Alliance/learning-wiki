@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Drawing support increased rather than decreased perceived difficulty, indicating cognitive overload
-description: Drawing support increased rather than decreased perceived difficulty, indicating cognitive overload
+title: Drawing support increased rather than decreased perceived difficulty, which the authors read as a hint of cognitive overload
+description: Drawing support increased rather than decreased perceived difficulty, which the authors read as a hint of cognitive overload
 id: drawing-support-increased-perceived-difficulty
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 3
 ---
 
-# Drawing support increased rather than decreased perceived difficulty, indicating cognitive overload
+# Drawing support increased rather than decreased perceived difficulty, which the authors read as a hint of cognitive overload
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i2` medium

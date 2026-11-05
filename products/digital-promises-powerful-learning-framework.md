@@ -34,7 +34,7 @@ A framework developed by Digital Promise that describes powerful teaching and le
 
 ### Claims
 - [Curiosity balanced against knowledge-gap overwhelm drives prolonged engagement and memory](../claims/curiosity-knowledge-gap-balance-engagement-memory.md) [+W]
-- [Purpose in learning increases engagement, self-regulation, and academic performance](../claims/purpose-increases-engagement-self-regulation-performance.md) [+W]
+- [A framework report argues that finding purpose in learning increases engagement, self-regulation, and academic performance](../claims/purpose-increases-engagement-self-regulation-performance.md) [+W]
 - [Learners face compounding systemic challenges: widening gaps, isolation, and shifting skill demands](../claims/systemic-challenges-gaps-isolation-shifting-skills.md) [+W]
 
 ## Related Products and Programmes
@@ -75,7 +75,7 @@ The report defines Powerful Learning as Digital Promise's organizing framework f
 ### Claims
 
 - [Curiosity balanced against knowledge-gap overwhelm drives prolonged engagement and memory](../claims/curiosity-knowledge-gap-balance-engagement-memory.md) [+W]
-- [Purpose in learning increases engagement, self-regulation, and academic performance](../claims/purpose-increases-engagement-self-regulation-performance.md) [+W]
+- [A framework report argues that finding purpose in learning increases engagement, self-regulation, and academic performance](../claims/purpose-increases-engagement-self-regulation-performance.md) [+W]
 
 ## Related Theories
 
@@ -109,7 +109,7 @@ A Digital Promise framework that organizes a vision of learning around fostering
 
 ### Claims
 - [Curiosity balanced against knowledge-gap overwhelm drives prolonged engagement and memory](../claims/curiosity-knowledge-gap-balance-engagement-memory.md) [+W]
-- [Purpose in learning increases engagement, self-regulation, and academic performance](../claims/purpose-increases-engagement-self-regulation-performance.md) [+W]
+- [A framework report argues that finding purpose in learning increases engagement, self-regulation, and academic performance](../claims/purpose-increases-engagement-self-regulation-performance.md) [+W]
 - [Learners face compounding systemic challenges: widening gaps, isolation, and shifting skill demands](../claims/systemic-challenges-gaps-isolation-shifting-skills.md) [+W]
 
 ## Related Products and Programmes
@@ -145,7 +145,7 @@ Powerful Learning is Digital Promise's unifying framework that synthesizes learn
 ### Claims
 
 - [Curiosity balanced against knowledge-gap overwhelm drives prolonged engagement and memory](../claims/curiosity-knowledge-gap-balance-engagement-memory.md) [+W]
-- [Purpose in learning increases engagement, self-regulation, and academic performance](../claims/purpose-increases-engagement-self-regulation-performance.md) [+W]
+- [A framework report argues that finding purpose in learning increases engagement, self-regulation, and academic performance](../claims/purpose-increases-engagement-self-regulation-performance.md) [+W]
 - [Learners face compounding systemic challenges: widening gaps, isolation, and shifting skill demands](../claims/systemic-challenges-gaps-isolation-shifting-skills.md) [+W]
 
 ## Related Theories

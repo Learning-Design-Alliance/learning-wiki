@@ -45,7 +45,7 @@ Systematic review following PRISMA of 14 studies (13 articles) selected from 285
 
 
 ## Related Claims
-- [In elementary school students, short-term green breaks restore attention and working memory, with effects on inhibition mixed](green-breaks-elementary-attention-restoration.md) — a narrower finding that bears on this claim
+- [In elementary school students, short-term green breaks restore attention and working memory, but did not improve inhibition in the two studies that measured it](green-breaks-elementary-attention-restoration.md) — a narrower finding that bears on this claim
 - [In secondary school students, breaks with green views or walks in larger green spaces improve attention performance](green-exposure-secondary-school-attention.md) — a narrower finding that bears on this claim
 - [In university students, walks or sitting in natural settings after cognitive fatigue improve some attention and working memory measures, with null results for others](green-exposure-university-cognitive-benefits.md) — a narrower finding that bears on this claim
 - [Long-term nature exposure shows inconsistent effects on processing speed, positive in the greened schoolyard study but null in the classroom green wall study](processing-speed-mixed-long-term-nature.md) — related

@@ -48,7 +48,7 @@ MANCOVA in the same randomized experiment (N = 91) using five enjoyment items fr
 - [Interest](../learner-variables/interest.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected](immersion-cost-benefit-transfer-motivation.md) — a broader claim this one bears on
+- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation, with no significant effect on retention](immersion-cost-benefit-transfer-motivation.md) — a broader claim this one bears on
 - [High-immersion VR produced a significantly higher sense of presence than video instruction, with a large effect size](vr-higher-presence-than-video.md) — related
 - [Middle-school students taking a virtual field trip via a 3D HMD report higher interest than students taking the same trip as a 2D video](hmd-virtual-field-trip-higher-interest-than-2d-video.md) — related
 - [Middle-school students taking a virtual field trip via a 3D HMD report higher presence than students taking the same trip as a 2D video](hmd-virtual-field-trip-higher-presence-than-2d-video.md) — related

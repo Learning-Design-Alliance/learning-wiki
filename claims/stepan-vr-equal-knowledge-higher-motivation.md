@@ -45,7 +45,7 @@ Randomised controlled study with 66 medical students (33 per group) comparing a 
 
 
 ## Related Claims
-- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected](immersion-cost-benefit-transfer-motivation.md) — a broader claim this one bears on
+- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation, with no significant effect on retention](immersion-cost-benefit-transfer-motivation.md) — a broader claim this one bears on
 - [3D virtual-reality lecture was statistically non-inferior to 2D lecture on knowledge and rated better on spatial understanding and enjoyment (Kockro et al.)](kockro-3d-lecture-noninferior-rated-better.md) — related
 - [Learner motivation and engagement (Kirkpatrick Level 1) were consistently high across technology-enhanced neuroanatomy interventions](tl-neuroanatomy-high-motivation-l1.md) — a broader claim this one bears on
 - [AR and 2D methods boosted knowledge similarly, but the 3D AR method drew greater satisfaction and student preference (Lopez et al.)](lopez-ar-similar-knowledge-higher-satisfaction.md) — related

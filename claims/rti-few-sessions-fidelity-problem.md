@@ -45,7 +45,7 @@ Process evaluation of the trial, based on field visits, observations and intervi
 
 
 ## Related Claims
-- [Implementation fell short of the intended dosage: very few learners received two 15-minute sessions weekly for 30 weeks, mainly due to timetabling and absence](catch-up-numeracy-fidelity-timetabling-barriers.md) — related
+- [Very few interviewed staff reported learners receiving the intended two 15-minute sessions a week, and they named timetabling and absence as barriers](catch-up-numeracy-fidelity-timetabling-barriers.md) — related
 - [Implementation of the FLL intervention varied widely, with some schools delivering fewer weeks and some omitting the linked English literacy component](fll-variable-implementation-english-component-omitted.md) — related
 - [Nearly a quarter of schools failed to deliver the intervention, and successful implementation required senior-leader support, dedicated space, staff time and a timetabled slot](youth-united-implementation-conditions.md) — related
 - [Most Oakland secondary students receiving LLI fell short of the recommended minimum number of sessions](lli-students-fell-short-recommended-sessions.md) — related

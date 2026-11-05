@@ -60,7 +60,7 @@ Adaptive mastery systems ensure that foundational gaps are closed before higher-
 - [Adaptive learning functions as the algorithmic engine that operationalizes personalized learning](../claims/adaptive-learning-engine-of-personalization.md) [+W]
 - [Learner engagement was strengthened when the AI tutor adapted to learners' pace and prior knowledge](../claims/ai-tutor-pace-adaptation-strengthened-engagement.md) [+W]
 - [Adaptivity to individual learners is the primary bottleneck for LLMs in KC path planning](../claims/adaptivity-bottleneck-llm-path-planning.md) [~W]
-- [Automated real-time feedback in an adaptive diagnostic ITS produced greater progression on a SOLO-based mathematics assessment than the same system without real-time feedback](../claims/real-time-feedback-its-solo-progression-advantage.md) [+W]
+- [Learners using an adaptive diagnostic ITS with automated real-time feedback showed greater progression on a SOLO-based mathematics assessment than learners using the same system without it](../claims/real-time-feedback-its-solo-progression-advantage.md) [+W]
 - [Removing explicit mastery information from learner profiles mainly degrades Adaptivity](../claims/mastery-information-needed-for-adaptivity.md) [+W]
 - [One pilot instructor reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed](../claims/socratic-test-faculty-differentiation.md) [+W]
 - [The review argues that the dominance of adaptive learning within AI integration undermines educational goals and limits student agency and creativity](../claims/adaptive-learning-dominance-limits-student-agency.md) [-W]

@@ -47,7 +47,7 @@ The review reports, from Sytek et al.'s mixed-methods study assessing orthodonti
 ## Related Claims
 - [A randomized controlled trial found VR and conventional 2D approaches both improved orthognathic diagnosis and treatment planning understanding with no significant difference between groups](vr-versus-conventional-orthognathic-planning-no-difference.md) — related
 - [Simulation-based training enhances short-term diagnostic accuracy, treatment planning, and practical skills in orthodontic education](simulation-short-term-clinical-skills-orthodontics.md) — related
-- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected](immersion-cost-benefit-transfer-motivation.md) — related
+- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation, with no significant effect on retention](immersion-cost-benefit-transfer-motivation.md) — related
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — a broader claim this one bears on
 - [Immersive and non-immersive VR video formats showed no significant difference in learning success for clinical procedures, though immersive VR was rated more positively](immersive-vs-non-immersive-vr-no-learning-difference.md) — related
 - [VR and conventional teaching produce equivalent short-term learning success in a quasi-randomized field experiment](vr-unit-equivalent-short-term-learning-success.md) — related

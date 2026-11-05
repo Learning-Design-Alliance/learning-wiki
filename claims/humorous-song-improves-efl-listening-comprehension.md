@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "EFL learners who listened to humorous songs gained significantly on a listening comprehension test while a control group taught without the songs did not, though the groups were not compared directly"
-description: "EFL learners who listened to humorous songs gained significantly on a listening comprehension test while a control group taught without the songs did not, though the groups were not compared directly"
+title: "EFL learners who listened to humorous songs gained significantly on a listening comprehension test while a control group did not, though the groups were not compared directly"
+description: "EFL learners who listened to humorous songs gained significantly on a listening comprehension test while a control group did not, though the groups were not compared directly"
 id: humorous-song-improves-efl-listening-comprehension
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# EFL learners who listened to humorous songs gained significantly on a listening comprehension test while a control group taught without the songs did not, though the groups were not compared directly
+# EFL learners who listened to humorous songs gained significantly on a listening comprehension test while a control group did not, though the groups were not compared directly
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -37,7 +37,7 @@ Marzieh Rafiee, Zohre Kassaian, Hossein Vahid Dastjerdi. (2010). The Application
 
 `q2 · i?` · `causal · r1`
 
-Thirty female intermediate EFL learners (aged 15–25) at Iranian English institutes were numbered 1 to 30 and assigned by odd and even number to a control group, whose instruction the article does not describe beyond the absence of songs, and an experimental group that listened to a Shel Silverstein humorous song immediately after the Interchange course material in each of seventeen 90-minute sessions; the authors call this an experimental design and the numbering a way "to simply randomize the participants". The listening-comprehension results rest only on within-group paired-samples t-tests (the article's other test, a Wilcoxon signed-rank test, compares the experimental group's immediate and delayed recall): the experimental group's gain was significant (Table 2: t = −4.219, df 14, p = .001; the text prints t(29)), the control group's was not (t = −1.21, df 14, p = .246). The two groups' gains are never tested against each other, so the article's conclusion that the experimental group "outperformed" the control rests on the posttest means (54.0 vs 46.7) alone. The reported "eta scored" value of 0.07 is called a moderate effect size.
+Thirty female intermediate EFL learners (aged 15–25) at Iranian English institutes were numbered 1 to 30 and assigned by odd and even number to a control group, whose instruction the article does not describe (it never states that this group heard no songs), and an experimental group that listened to a Shel Silverstein humorous song immediately after the Interchange course material in each of seventeen 90-minute sessions; the authors call this an experimental design and the numbering a way "to simply randomize the participants". The listening-comprehension results rest only on within-group paired-samples t-tests (the article's other test, a Wilcoxon signed-rank test, compares the experimental group's immediate and delayed recall): the experimental group's gain was significant (Table 2: t = −4.219, df 14, p = .001; the text prints t(29)), the control group's was not (t = −1.21, df 14, p = .246). The two groups' gains are never tested against each other, so the article's conclusion that the experimental group "outperformed" the control rests on the posttest means (54.0 vs 46.7) alone. The reported "eta scored" value of 0.07 is called a moderate effect size.
 
 > "There was a statistically significant increase in listening comprehension test from the second test part A (M=41.33, SD=10.60) to part B (M =54.00, SD=10.55), t(29)= -4.219, p ≤ 0.05. The eta scored statistics (0.07) indicated a moderate effect size (according to Cohen, 1988)."
 

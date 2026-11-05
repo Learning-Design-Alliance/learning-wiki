@@ -47,7 +47,7 @@ Blosser, P. E. (1993). Using Cooperative Learning in Science Education. ERIC Cle
 
 `q2 · i?` · `review · r3`
 
-The review attributes this to Johnson and Johnson's nine studies of high-ability and gifted students conducted over a 15-year period, including a cited physics study in which gifted students used expert reasoning strategies in cooperative groups but novice strategies alone. No effect sizes are printed in the digest.
+The review attributes this to Johnson and Johnson's nine studies of high-ability and gifted students conducted over a 15-year period, including a cited physics study in which gifted students used expert reasoning strategies in cooperative groups but novice strategies alone. The digest prints no effect sizes for these gifted and high-ability studies (the effect sizes of .87 to 5.15 it reports belong to Newmann and Thompson's separate review of 27 secondary-level studies).
 
 > "They have found mastery and retention of assigned material higher in cooperative work than in competitive and individual learning. When these students were given a task to be solved that could involve higher-level or lower-level reasoning strategies, they more frequently used higher-level strategies when working cooperatively"
 

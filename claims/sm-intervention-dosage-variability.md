@@ -47,7 +47,7 @@ Survey descriptive statistics (Table 4): medians of 45 min per session (range 15
 ## Related Claims
 - [No dose-response effect: video benefits do not systematically increase with intervention length](no-dose-response-video-duration.md) — related
 - [Gains were achieved with a relatively small tutoring dose: about 27 sessions averaging 25–45 minutes, roughly 15–19 hours across one school year](tutoring-dose-27-sessions-15-19-hours.md) — related
-- [Implementation fell short of the intended dosage: very few learners received two 15-minute sessions weekly for 30 weeks, mainly due to timetabling and absence](catch-up-numeracy-fidelity-timetabling-barriers.md) — related
+- [Very few interviewed staff reported learners receiving the intended two 15-minute sessions a week, and they named timetabling and absence as barriers](catch-up-numeracy-fidelity-timetabling-barriers.md) — related
 - [An interactive forum organized in six 120-minute sessions produced a median pre-post overall score difference of 13% (P<0.001) among medical students](interactive-forum-score-improvement.md) — related
 - [The on-treatment analysis revealed a significant positive relationship between total coaching contact time (dosage) and pupils' reading and writing outcomes](perry-beeches-coaching-dosage-outcome-relationship.md) — related
 - [Most surveyed UK therapists (59%) had received some form of selective mutism training, but only 15% received it during their professional qualification](sm-training-received-59-percent-15-percent-qualification.md) — related

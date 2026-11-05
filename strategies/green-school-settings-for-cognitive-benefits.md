@@ -51,7 +51,7 @@ The review recommends that schools offer nature contact in varied forms, since i
 - [Long-term nature exposure shows inconsistent effects on processing speed, positive in the greened schoolyard study but null in the classroom green wall study](../claims/processing-speed-mixed-long-term-nature.md) [~W]
 - [In secondary school students, breaks with green views or walks in larger green spaces improve attention performance](../claims/green-exposure-secondary-school-attention.md) [+W]
 - [Short-term passive exposure to nature produces cognitive benefits in 12 of 14 reviewed studies across educational levels, mainly as directed attention restoration](../claims/short-term-green-exposure-restores-attention-12-of-14.md) [+W]
-- [In elementary school students, short-term green breaks restore attention and working memory, with effects on inhibition mixed](../claims/green-breaks-elementary-attention-restoration.md) [+W]
+- [In elementary school students, short-term green breaks restore attention and working memory, but did not improve inhibition in the two studies that measured it](../claims/green-breaks-elementary-attention-restoration.md) [+W]
 - [Nature exposure relieves stress in learners, including experimentally demonstrated reductions in heart rate and self-reported stress](../claims/nature-exposure-reduces-learner-stress.md) [+M]
 - [Effects on sustained/selective attention are mixed across studies, with benefits in some green settings but no effect in others regardless of exposure duration](../claims/sustained-selective-attention-mixed-nature-effects.md) [~W]
 

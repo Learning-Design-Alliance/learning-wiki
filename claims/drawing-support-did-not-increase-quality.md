@@ -46,7 +46,7 @@ ANOVA on drawing quality across the three drawing conditions, F(2,114) = 31.26, 
 
 ## Related Claims
 - [All three drawing conditions scored better than the control condition on the drawing test and performed equally well](drawing-outperforms-control-drawing-test.md) — reports the opposite
-- [Drawing support increased rather than decreased perceived difficulty, indicating cognitive overload](drawing-support-increased-perceived-difficulty.md) — related
+- [Drawing support increased rather than decreased perceived difficulty, which the authors read as a hint of cognitive overload](drawing-support-increased-perceived-difficulty.md) — related
 - [Drawing conditions that were compared to control outperformed the read-only control condition on transfer performance](drawing-outperforms-control-transfer.md) — related
 - [Drawing provided no benefit for lower-order recognition knowledge, and the local support condition scored significantly lower than control](drawing-no-recognition-benefit-local-worse.md) — related
 - [Instructional drawing support does not significantly improve students' comprehension or transfer compared with unsupported drawing overall](drawing-support-no-overall-effect.md) — related

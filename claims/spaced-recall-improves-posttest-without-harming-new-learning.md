@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics without harming learning of current material
-description: Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics without harming learning of current material
+title: Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics, with no significant difference on the exam covering current material
+description: Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics, with no significant difference on the exam covering current material
 id: spaced-recall-improves-posttest-without-harming-new-learning
 status: review
 generated:
@@ -28,15 +28,15 @@ sources:
     rigour: 2
 ---
 
-# Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics without harming learning of current material
+# Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics, with no significant difference on the exam covering current material
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2024 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The treatment group scored significantly higher than the control group on the full 50-question post-test (72.4% vs 68.5%). [→ Lindquist 2024](#lindquist-2024)
-`q3 i?` Treatment and control groups performed similarly on the quarter three final exam covering current material (74.9% vs 76.4%, not significant), indicating lost instructional time did not hurt new learning. [→ Lindquist 2024 (2)](#lindquist-2024-2)
+`q3 i?` Treatment and control groups performed similarly on the quarter three final exam covering current material (74.9% vs 76.4%, p = 0.400, not significant); the authors read this as both groups understanding the new concepts equally well, but equivalence was not tested, so a cost of the lost instructional time is not ruled out. [→ Lindquist 2024 (2)](#lindquist-2024-2)
 
 ## Evidence
 

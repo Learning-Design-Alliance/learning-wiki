@@ -27,7 +27,7 @@ sources:
 # Personalization
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 115 claims (63 for, 42 mixed, 10 against) · 115 studies (34 review, 28 causal, 13 theoretical, 11 associational, 11 qualitative, 9 quant-synthesis, 9 design), `q1`–`q4` · 9 of 115 report an effect size · 110 claims rest on one study
+> **Evidence** · 115 claims (63 for, 42 mixed, 10 against) · 115 studies (34 review, 28 causal, 13 theoretical, 11 associational, 11 qualitative, 9 quant-synthesis, 9 design), `q1`–`q4` · 10 of 115 report an effect size · 110 claims rest on one study
 
 ## Conditional relationship
 

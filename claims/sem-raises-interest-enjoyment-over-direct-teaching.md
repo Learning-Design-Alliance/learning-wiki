@@ -50,4 +50,4 @@ Mann-Whitney U test of post-implementation attitudes in a 12-week quasi-experime
 - [The direct teaching group shows higher (more negative) work perception scores than the sports education group](sem-lower-work-perception-scores-than-direct-teaching.md) — related
 - [No significant difference between the models in perceived option or pressure/tension dimensions](sem-no-difference-perceived-option-pressure-tension.md) — related
 - [In a randomised experiment, AI access raised students' enjoyment of learning (p = 0.063) with no statistically detectable effect on self-assessed knowledge or felt effectiveness](genai-raises-learning-enjoyment.md) — related
-- [Interest/enjoyment and perceived choice were the weakest motivation dimensions, suggesting Mangomon's RPG mechanics did not yet fully serve learner autonomy](rpg-mechanics-not-yet-serve-autonomy.md) — related
+- [Perceived choice and enjoying catching Mangomon were the lowest-rated motivation items, which the authors read as its RPG mechanics not yet fully serving learner autonomy](rpg-mechanics-not-yet-serve-autonomy.md) — related

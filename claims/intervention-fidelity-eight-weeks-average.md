@@ -48,5 +48,5 @@ Implementation fidelity was monitored through weekly/biweekly parent-survey data
 ## Related Claims
 - [Odyssey® Math usage varied across classrooms in the DiLeo (2007) trial, partly because of differential access to technology](odyssey-math-usage-varied-with-technology-access.md) — related
 - [Fidelity of implementation of early language curricula varies widely across teachers and studies](wide-variability-foi-early-language-curricula.md) — related
-- [Implementation fell short of the intended dosage: very few learners received two 15-minute sessions weekly for 30 weeks, mainly due to timetabling and absence](catch-up-numeracy-fidelity-timetabling-barriers.md) — related
+- [Very few interviewed staff reported learners receiving the intended two 15-minute sessions a week, and they named timetabling and absence as barriers](catch-up-numeracy-fidelity-timetabling-barriers.md) — related
 - [NS1 was implemented with moderate overall fidelity and substantial variability between groups, with treatment students completing on average 18.6 sessions and 499.8 practice opportunities](nsl1-moderate-fidelity-variability-dosage.md) — related

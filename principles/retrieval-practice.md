@@ -212,7 +212,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Overall posttest performance does not differ between targeted and holistic retrieval conditions](../claims/no-overall-performance-difference-between-retrieval-task-types.md) [~W]
 - [Holistic retrieval increases situational interest, with better recall performance predicting greater interest, contrary to the knowledge-deprivation hypothesis](../claims/free-recall-increases-situational-interest-performance-mediated.md) [~W]
 - [The retention benefit of spaced recall quizzes holds regardless of instructor teaching experience](../claims/spaced-recall-effective-regardless-instructor-experience.md) [+W]
-- [Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics without harming learning of current material](../claims/spaced-recall-improves-posttest-without-harming-new-learning.md) [+W]
+- [Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics, with no significant difference on the exam covering current material](../claims/spaced-recall-improves-posttest-without-harming-new-learning.md) [+W]
 - [Spaced recall quizzing improves long-term retention even when immediate feedback is not provided](../claims/testing-effect-persists-without-immediate-feedback.md) [+W]
 - [The retention benefit of spaced recall quizzes holds regardless of the hour of the day the class meets](../claims/spaced-recall-effective-regardless-class-hour.md) [+W]
 - [Without feedback, more practice-test participation predicts lower specificity (worse detection of incorrect answers); with corrective feedback this negative relation disappears](../claims/practice-test-specificity-negative-without-feedback.md) [~W]

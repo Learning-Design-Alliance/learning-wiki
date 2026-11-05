@@ -37,7 +37,7 @@ Jingyan Lu, Nancy Law. (2012). Online peer assessment: effects of cognitive and 
 
 `q2 · i?` · `associational · r2`
 
-In the same hierarchical multiple regression (N = 181), giving suggestions to peers was a significant predictor of final project scores (t = 2.17, p< .05). Suggestions were the second most frequently given type of cognitive feedback in the descriptive statistics.
+In the same hierarchical multiple regression (Table 4 is headed N = 187, although the text says data from 181 students were included in the analysis), giving suggestions to peers was a significant predictor of final project scores (t = 2.17, p< .05). Suggestions were the second most frequently given type of cognitive feedback in the descriptive statistics.
 
 > "Giving suggestions to peers (t = 2.17, p< .05), giving feedback on identifying problems to peers (t = 2.16, p< .05), and positive affective feedback from peers ( t = 2.25, p< .05)"
 

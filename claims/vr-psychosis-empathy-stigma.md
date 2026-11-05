@@ -49,4 +49,4 @@ Randomized study of 144 second- and third-year medical students (72 VR, 72 contr
 
 ## Related Claims
 - [Virtual-reality delirium training increased nurses' empathy and knowledge, with larger empathy gains when VR preceded didactic instruction](vr-delirium-empathy-order-effect.md) — related
-- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected](immersion-cost-benefit-transfer-motivation.md) — related
+- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation, with no significant effect on retention](immersion-cost-benefit-transfer-motivation.md) — related

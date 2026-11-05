@@ -37,7 +37,7 @@ sources:
 
 ## Subclaims
 `q2 i?` In Experiment 2 free-recall summaries, recall scores declined from highest to lowest hierarchy levels, with the steepest drop for information placed low by the acquired organization. [→ Eylon 1979](#eylon-1979)
-`q2 i?` In Experiment 3 oral-recall protocols, average proportions of knowledge units recalled also declined from the first to the third level in both organizations. [→ Eylon 1979 (2)](#eylon-1979-2)
+`q2 i?` In Experiment 3 oral-recall protocols, the highest level was recalled best in both organizations ("Higher levels ... were usually recalled better than lower levels"): recall declined across levels in the deductive organization (63%, 45%, 9%), but in the historical organization the third level (43%) was recalled better than the second (36%). [→ Eylon 1979 (2)](#eylon-1979-2)
 
 ## Evidence
 

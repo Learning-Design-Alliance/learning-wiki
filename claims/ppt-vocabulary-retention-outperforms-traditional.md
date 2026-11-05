@@ -37,7 +37,7 @@ Ta Thanh Nam & Lap Q. Trinh. (2012). PowerPoint as a potential tool to learners'
 
 `q2 · i?` · `causal · r1`
 
-Two-group pre-test/post-test study of 68 grade-10 students (34 per group, two intact classes) in a Vietnamese secondary school; the groups' pre-test means were close (6.87 vs 6.82). An independent-samples t-test on post-test scores showed the experimental group's mean (M = 8.92) exceeded the control group's (M = 7.53), a "statistically significant" difference; within-group pre/post changes were tested separately with paired-samples t-tests.
+Two-group pre-test/post-test study of 68 grade-10 students (34 per group; the 68 were "randomly chosen" from 440 grade-10 students and "grouped into two classes") in a Vietnamese secondary school; the groups' pre-test means were close (6.87 vs 6.82). An independent-samples t-test on post-test scores showed the experimental group's mean (M = 8.92) exceeded the control group's (M = 7.53), a "statistically significant" difference; within-group pre/post changes were tested separately with paired-samples t-tests.
 
 > "The Independent Samples T-Test showed that the mean difference (MD = -1.39) in the participants' vocabulary retention after the study was statistically significant (t = -8.86, df = 66, p = .00)."
 

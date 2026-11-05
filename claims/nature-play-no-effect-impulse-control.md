@@ -45,5 +45,5 @@ The review reports this null result from Amicone et al. (2018, Study 1), a quasi
 
 
 ## Related Claims
-- [In elementary school students, short-term green breaks restore attention and working memory, with effects on inhibition mixed](green-breaks-elementary-attention-restoration.md) — related
+- [In elementary school students, short-term green breaks restore attention and working memory, but did not improve inhibition in the two studies that measured it](green-breaks-elementary-attention-restoration.md) — related
 - [Short walks and green playtime improve selective attention in children and adolescents relative to urban or indoor comparisons](nature-walk-improves-selective-attention.md) — related

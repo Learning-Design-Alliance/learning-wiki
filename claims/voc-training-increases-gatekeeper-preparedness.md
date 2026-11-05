@@ -27,7 +27,7 @@ sources:
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Participants (758 faculty, staff and administrators; 65% staff) showed statistically significant increases in GBS preparedness composite scores from pretraining to posttraining to 3-month follow-up, F(2, 758) = 927.4, p < .01. [→ Cate 2015](#cate-2015)
+`q2 i?` Participants (758 faculty, staff and administrators; 65% staff) showed a statistically significant change in GBS preparedness composite scores across pretraining, posttraining and 3-month follow-up, F(2, 758) = 927.4, p < .01: posttraining and follow-up scores were both significantly higher than baseline, though follow-up was significantly lower than posttraining. [→ Cate 2015](#cate-2015)
 `q2 i?` Follow-up preparedness scores were significantly lower than posttraining scores but remained significantly higher than baseline, indicating some reduction over time. [→ Cate 2015](#cate-2015)
 
 ## Evidence
@@ -38,7 +38,7 @@ Cate, C. A., & Albright, G. (2015). Supporting Student Veterans: Utilizing Game-
 
 `q2 · i?` · `causal · r1`
 
-A quasi-experimental post-hoc study of 758 faculty, staff and administrators (65% staff, 33% full- or part-time faculty) from 20 four-year colleges or universities and four community colleges who completed the 30-minute Veterans on Campus simulation, with no comparison group. A repeated-measures ANOVA on the self-rated GBS preparedness composite (five items on a 5-point scale) showed significant increases across three time points (means 2.94 before, 3.87 after, 3.78 at 3 months), with "statistically significant increases in participants’ GBS preparedness composite score" from pretraining to follow-up. With no control group, the rise follows the training but the design cannot show the training caused it; no effect size is printed for this sample.
+A quasi-experimental post-hoc study of 758 faculty, staff and administrators (65% staff, 33% full- or part-time faculty) from 20 four-year colleges or universities and four community colleges who completed the 30-minute Veterans on Campus simulation, with no comparison group. A repeated-measures ANOVA on the self-rated GBS preparedness composite (five items on a 5-point scale) showed a significant change across three time points (means 2.94 before, 3.87 after, 3.78 at 3 months); Bonferroni comparisons put both posttraining and follow-up scores significantly above baseline, with follow-up significantly lower than posttraining. With no control group, the rise follows the training but the design cannot show the training caused it; no effect size is printed for this sample.
 
 > "A repeated-measures analysis of variance (ANOVA) revealed statistically significant increases in participants’ GBS preparedness composite score to recognize, discuss, motivate, and help student veterans in psychological distress between pretraining, posttraining, and follow-up scores F(2,758) = 927.4, p < . 01."
 

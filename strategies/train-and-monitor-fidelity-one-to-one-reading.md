@@ -40,7 +40,7 @@ The evaluation found the intervention was delivered by teaching assistants after
 
 - [Higher adherence and lower discipline problems during delivery were associated with more positive changes in utility value](../claims/adherence-discipline-utility-value-changes.md) [+W]
 - [Nearly a quarter of schools failed to deliver the intervention, and successful implementation required senior-leader support, dedicated space, staff time and a timetabled slot](../claims/youth-united-implementation-conditions.md) [+W]
-- [Implementation fell short of the intended dosage: very few learners received two 15-minute sessions weekly for 30 weeks, mainly due to timetabling and absence](../claims/catch-up-numeracy-fidelity-timetabling-barriers.md) [+W]
+- [Very few interviewed staff reported learners receiving the intended two 15-minute sessions a week, and they named timetabling and absence as barriers](../claims/catch-up-numeracy-fidelity-timetabling-barriers.md) [+W]
 
 ## Related Strategies
 

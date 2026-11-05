@@ -48,7 +48,7 @@ Randomized classroom experiment in 17 sections of a precalculus course at USMAPS
 
 ## Related Claims
 - [The retention benefit of spaced recall quizzes holds regardless of the hour of the day the class meets](spaced-recall-effective-regardless-class-hour.md) — related
-- [Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics without harming learning of current material](spaced-recall-improves-posttest-without-harming-new-learning.md) — related
+- [Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics, with no significant difference on the exam covering current material](spaced-recall-improves-posttest-without-harming-new-learning.md) — related
 - [Spaced recall quizzing improves long-term retention even when immediate feedback is not provided](testing-effect-persists-without-immediate-feedback.md) — related
 - [The retention benefit of spaced recall quizzes holds regardless of instructor teaching experience](spaced-recall-effective-regardless-instructor-experience.md) — related
 - Study lead instructors did not differ from non-study-lead instructors in student retention performance — related

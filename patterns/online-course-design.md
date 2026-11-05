@@ -198,7 +198,7 @@ This pattern is scoped to the shape of a mostly online course across a term. How
 - Abrami, P. C., Bernard, R. M., Bures, E. M., Borokhovski, E., & Tamim, R. M. (2012). Interaction in distance education and online learning: Using evidence and theory to improve practice. In L. Moller & J. Huett (Eds.), *The Next Generation of Distance Education*. Springer. [doi:10.1007/978-1-4614-1785-9_4](https://doi.org/10.1007/978-1-4614-1785-9_4)
 - Bettinger, E. P., Fox, L., Loeb, S., & Taylor, E. S. (2017). Virtual classrooms: How online college courses affect student success. *American Economic Review, 107*(9). [doi:10.1257/aer.20151193](https://doi.org/10.1257/aer.20151193)
 - Yoon, S. A., Miller, K., Richman, T., Wendel, D., Schoenfeld, I., Anderson, E., & Shim, J. (2020). Encouraging collaboration and building community in online asynchronous professional development: Designing for social capital. *International Journal of Computer-Supported Collaborative Learning, 15*, 351–371. [doi:10.1007/s11412-020-09326-2](https://doi.org/10.1007/s11412-020-09326-2)
-- Pollard, V., Armatas, C., & Pepe, A. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. *Online Learning, 29*(3). [doi:10.24059/olj.v29i3.4555](https://doi.org/10.24059/olj.v29i3.4555)
+- Pollard, V., & Armatas, C. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. *Online Learning, 29*(3). [doi:10.24059/olj.v29i3.4555](https://doi.org/10.24059/olj.v29i3.4555)
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 ## Description

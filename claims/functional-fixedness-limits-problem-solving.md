@@ -39,7 +39,7 @@ Functional fixedness is a tendency to regard the functions of objects and ideas 
 
 ## Subclaims
 
-`q2 i?` Functional fixedness reduces problem-solving success on tasks that require using a familiar object or concept in an atypical way, and the effect has been documented even in a technologically sparse culture, suggesting it is not simply an artifact of exposure to a single kind of object use. [→ German and Barrett 2005](#german-and-barrett-2005)
+`q2 i?` When an object's typical (design) function has been primed, problem solving that requires an atypical function for that object suffers relative to control conditions, and the effect was demonstrated among Shuar adolescents in a technologically sparse culture, which the authors take to suggest design function may universally be the core property of artifact concepts. [→ German and Barrett 2005](#german-and-barrett-2005)
 
 `q1 i1` A related obstacle, response set (or mental set), is the tendency to keep framing each problem in a series the same way a previous problem was framed, even when that framing no longer fits — illustrated by a classroom nine-dot puzzle where students kept assuming lines could not extend beyond the dot matrix, though the instructions never actually said so. [→ Arduini-Van Hoose classroom example](#arduini-van-hoose-classroom-example)
 

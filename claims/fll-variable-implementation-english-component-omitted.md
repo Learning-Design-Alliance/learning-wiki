@@ -48,7 +48,7 @@ Process evaluation using training observations, unit completion records, teacher
 - [No prior RCTs existed on foreign-language-teaching effects on English literacy, and the trial was designed to compare FLL against existing school language provision rather than no language teaching](fll-trial-design-no-prior-rct-control-context.md) — related
 - [Nearly a quarter of schools failed to deliver the intervention, and successful implementation required senior-leader support, dedicated space, staff time and a timetabled slot](youth-united-implementation-conditions.md) — related
 - [Fidelity of implementation of early language curricula varies widely across teachers and studies](wide-variability-foi-early-language-curricula.md) — a broader claim this one bears on
-- [Implementation fell short of the intended dosage: very few learners received two 15-minute sessions weekly for 30 weeks, mainly due to timetabling and absence](catch-up-numeracy-fidelity-timetabling-barriers.md) — related
+- [Very few interviewed staff reported learners receiving the intended two 15-minute sessions a week, and they named timetabling and absence as barriers](catch-up-numeracy-fidelity-timetabling-barriers.md) — related
 - [Schools delivered very few RTI sessions in practice, making it impossible to implement, monitor and adjust the intervention as intended](rti-few-sessions-fidelity-problem.md) — related
 - [Teachers reported insufficient time to deliver PATHS at the recommended frequency, with on average only half of lessons delivered](paths-dosage-shortfall-time.md) — related
 - [Implementation of the LRS was variable, with many teachers not meeting weekly usage targets](lrs-variable-implementation.md) — related
