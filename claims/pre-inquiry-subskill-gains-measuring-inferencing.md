@@ -68,7 +68,7 @@ Table 3 posttest t-test row for observing: experimental 1.73 (0.876) vs control 
 
 ## Related Claims
 - [Science lessons built on students' meaningful pre-inquiries produce higher total science process skills than traditional textbook lessons in 6th-grade classes](pre-inquiry-lessons-improve-science-process-skills.md) — a broader claim this one bears on
-- [Inquiry-based instruction significantly improved pre-service science teachers' scientific process skills from pretest to post-test in a university biology laboratory](inquiry-instruction-improved-preservice-spst-pre-post.md) — a broader claim this one bears on
+- [Pre-service science teachers' scientific process skills rose significantly from pretest to post-test within the experimental group during inquiry-based instruction in a university biology laboratory](inquiry-instruction-improved-preservice-spst-pre-post.md) — a broader claim this one bears on
 - [Visuospatial inferencing relates to hypothesis validation and experimentation but not to generating conclusions when linguistic abilities are controlled](visuospatial-inferencing-stage-specific-scientific-reasoning.md) — related
 - [Within the eco-hunt group, all six science process skill dimensions improved significantly, with classifying improving most (39.3%) and predicting least (9.2%)](sps-dimension-gains-classifying-most-predicting-least.md) — related
 - [Experimental class outperforms control class on every individual science process skill indicator](experimental-class-outperforms-every-sps-indicator.md) — reports the opposite

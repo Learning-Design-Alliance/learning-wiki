@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The article reports that PBL raised the average creative thinking ability of its participants above the control class
-description: The article reports that PBL raised the average creative thinking ability of its participants above the control class
+title: The article reports that PBL raised average creative thinking ability above a class taught with the ATI model, which it calls the control class
+description: The article reports that PBL raised average creative thinking ability above a class taught with the ATI model, which it calls the control class
 id: pbl-above-control-creative-thinking
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# The article reports that PBL raised the average creative thinking ability of its participants above the control class
+# The article reports that PBL raised average creative thinking ability above a class taught with the ATI model, which it calls the control class
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q1 i?` The authors state that the average creative thinking ability of students using the PBL model was bigger than the control class, attributing PBL's effect to an open-ended approach. [→ Maskur 2020](#maskur-2020)
+`q1 i?` The authors state that the average creative thinking ability of students using the PBL model was bigger than the ATI class (which the article calls the control class), attributing PBL's effect to an open-ended approach. [→ Maskur 2020](#maskur-2020)
 
 ## Evidence
 

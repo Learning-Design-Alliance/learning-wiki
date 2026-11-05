@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Self-directed learning activities significantly improve English proficiency of Thai EFL undergraduates over 12 weeks
-description: Self-directed learning activities significantly improve English proficiency of Thai EFL undergraduates over 12 weeks
+title: English proficiency scores rose from pre-test to post-test among Thai EFL undergraduates after 12 weeks of self-directed learning activities, based on within-group pre-post measurements
+description: English proficiency scores rose from pre-test to post-test among Thai EFL undergraduates after 12 weeks of self-directed learning activities, based on within-group pre-post measurements
 id: self-directed-learning-activities-improve-efl-proficiency-thai-undergraduates
 status: review
 generated:
@@ -28,7 +28,7 @@ sources:
     rigour: 1
 ---
 
-# Self-directed learning activities significantly improve English proficiency of Thai EFL undergraduates over 12 weeks
+# English proficiency scores rose from pre-test to post-test among Thai EFL undergraduates after 12 weeks of self-directed learning activities, based on within-group pre-post measurements
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
@@ -64,6 +64,6 @@ Dependent-samples t-test for the 40-student CA group in the same 12-week interve
 
 
 ## Related Claims
-- [CA students in all four learning styles significantly improved self-directed learning ability](ca-all-learning-styles-improved-sdl-ability.md) — related
+- [CA students in all four learning styles had significantly higher self-rated self-directed learning ability at post-test than at pre-test in one uncontrolled pre-post study](ca-all-learning-styles-improved-sdl-ability.md) — related
 - [Communication Arts students significantly outperform Business Administration students on post-intervention English proficiency](ca-students-outperform-ba-on-posttest-proficiency.md) — related
 - [English proficiency gains from self-directed learning activities occur across all four Honey-and-Mumford learning styles in both BA and CA groups](proficiency-gains-across-all-learning-styles.md) — a narrower finding that bears on this claim

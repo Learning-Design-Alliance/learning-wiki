@@ -45,7 +45,7 @@ Repeated measures ANOVA in the intervention group (n = 20) showed a significant 
 
 
 ## Related Claims
-- [Participation in the BOPPPS-PBL course is associated with a modest increase in general self-efficacy among newly recruited nurses](boppps-pbl-course-self-efficacy-increase.md) — related
+- [Self-rated general self-efficacy scores rose modestly from before to after the BOPPPS-PBL course among newly recruited nurses in one uncontrolled pre-post study](boppps-pbl-course-self-efficacy-increase.md) — related
 - [Conventional internship instruction alone produced no significant change in self-directed learning or academic self-efficacy over the five-week course](conventional-instruction-no-sdl-selfefficacy-change.md) — related
 - [Nursing students receiving game-based learning score significantly higher than conventionally taught controls on self-directed learning and academic self-efficacy at posttest and one-month follow-up](gbl-between-group-advantage-sustained.md) — related
 - [Game-based learning in a mental health nursing internship significantly improves nursing students' self-directed learning, with large within-group effects sustained at one-month follow-up](gbl-improves-self-directed-learning-nursing.md) — related

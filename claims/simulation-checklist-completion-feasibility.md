@@ -46,6 +46,6 @@ Behavioral observation during the four scenarios using a predefined checklist to
 
 
 ## Related Claims
-- [Simulation-based training with the Snaid® extrication device significantly improves checklist-assessed procedural performance across all observed parameters](snaid-simulation-training-improves-procedural-checklist.md) — related
+- [Checklist-assessed procedural performance was higher at post-test than pre-test across all observed parameters in one group with no comparison group after simulation-based training with the Snaid® extrication device](snaid-simulation-training-improves-procedural-checklist.md) — related
 - [The automated Story Friends intervention was implemented with high fidelity in preschool classrooms](story-friends-high-implementation-fidelity.md) — related
 - [Typical early childhood providers implemented PTR-YC with very high fidelity, while BAU classrooms completed almost none of the process steps](ptr-yc-high-fidelity-by-typical-providers.md) — related

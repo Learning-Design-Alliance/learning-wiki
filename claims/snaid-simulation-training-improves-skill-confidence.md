@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Simulation-based training with the Snaid® extrication device significantly improves skill, confidence, and comfort among military personnel
-description: Simulation-based training with the Snaid® extrication device significantly improves skill, confidence, and comfort among military personnel
+title: "Military personnel's self-rated skill, confidence and comfort with the Snaid® extrication device rose from pre-test to post-test after simulation-based training, in one uncontrolled pre-post study"
+description: "Military personnel's self-rated skill, confidence and comfort with the Snaid® extrication device rose from pre-test to post-test after simulation-based training, in one uncontrolled pre-post study"
 id: snaid-simulation-training-improves-skill-confidence
 status: review
 generated:
@@ -36,16 +36,17 @@ sources:
     rigour: 1
 ---
 
-# Simulation-based training with the Snaid® extrication device significantly improves skill, confidence, and comfort among military personnel
+# Military personnel's self-rated skill, confidence and comfort with the Snaid® extrication device rose from pre-test to post-test after simulation-based training, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Segura-Fornieles 2026: the intervention came bundled with another change · Segura-Fornieles 2026 (2): the intervention came bundled with another change · Segura-Fornieles 2026 (3): the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
-`q2 i?` Skill scores improved significantly from pre-test (M = 5.74, SD = 2.19) to post-test (M = 8.67, SD = 1.18) (p < 0.001). [→ Segura-Fornieles 2026](#segura-fornieles-2026)
-`q2 i?` Confidence scores improved significantly from pre-intervention (M = 7.08, SD = 2.16) to post-intervention (M = 8.72, SD = 0.93) (p < 0.001). [→ Segura-Fornieles 2026 (2)](#segura-fornieles-2026-2)
-`q2 i?` Comfort scores improved significantly from pre-test (M = 5.91, SD = 1.59) to post-test (M = 7.58, SD = 1.68) (p < 0.001). [→ Segura-Fornieles 2026 (3)](#segura-fornieles-2026-3)
+`q2 i?` Self-rated skill scores rose significantly from pre-test (M = 5.74, SD = 2.19) to post-test (M = 8.67, SD = 1.18) (p < 0.001). [→ Segura-Fornieles 2026](#segura-fornieles-2026)
+`q2 i?` Self-rated confidence scores rose significantly from pre-intervention (M = 7.08, SD = 2.16) to post-intervention (M = 8.72, SD = 0.93) (p < 0.001). [→ Segura-Fornieles 2026 (2)](#segura-fornieles-2026-2)
+`q2 i?` Self-rated comfort scores rose significantly from pre-test (M = 5.91, SD = 1.59) to post-test (M = 7.58, SD = 1.68) (p < 0.001). [→ Segura-Fornieles 2026 (3)](#segura-fornieles-2026-3)
 
 ## Evidence
 
@@ -83,9 +84,9 @@ Same study (N = 156); comfort self-rated. Statistically significant improvement 
 
 
 ## Related Claims
-- [Simulation-based training with the Snaid® extrication device significantly improves knowledge of device use among military personnel](snaid-simulation-training-improves-knowledge.md) — related
-- [Simulation-based training with the Snaid® extrication device significantly improves checklist-assessed procedural performance across all observed parameters](snaid-simulation-training-improves-procedural-checklist.md) — related
+- [Knowledge scores rose significantly from pre-test to post-test among military personnel after simulation-based training with the Snaid® extrication device, in one uncontrolled pre-post study](snaid-simulation-training-improves-knowledge.md) — related
+- [Checklist-assessed procedural performance was higher at post-test than pre-test across all observed parameters in one group with no comparison group after simulation-based training with the Snaid® extrication device](snaid-simulation-training-improves-procedural-checklist.md) — related
 - [Simulation-based training with the Snaid® extrication device significantly improves self-efficacy among military personnel](snaid-simulation-training-improves-self-efficacy.md) — related
 - [Turret position moderates post-training outcomes: turret 9 shows better skill and confidence, while turret 12 shows better comfort](snaid-turret-position-moderates-outcomes.md) — related
-- [Simulation-based training with the Snaid® extrication device significantly improves ability to teach others, readiness to use the device, and willingness to recommend it](snaid-simulation-training-improves-teach-readiness-recommend.md) — related
+- [Ability to teach others, readiness to use, and willingness to recommend the Snaid® extrication device rose from pre-test to post-test after simulation-based training in one uncontrolled pre-post study](snaid-simulation-training-improves-teach-readiness-recommend.md) — related
 - [Simulation-based training with the Snaid® extrication device significantly reduces extrication time from the Leopard 2E tank](snaid-simulation-training-reduces-extrication-time.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Spirometry was the lowest-rated domain at baseline and remained lowest after training despite improvement
-description: Spirometry was the lowest-rated domain at baseline and remained lowest after training despite improvement
+title: Spirometry was the lowest-rated domain at baseline and remained lowest post-training; self-rated knowledge, skills, and confidence rose from baseline to post-training in one single-group pre-post study
+description: Spirometry was the lowest-rated domain at baseline and remained lowest post-training; self-rated knowledge, skills, and confidence rose from baseline to post-training in one single-group pre-post study
 id: spirometry-lowest-rated-domain-pr-training
 status: review
 generated:
@@ -21,7 +21,7 @@ sources:
     rigour: 1
 ---
 
-# Spirometry was the lowest-rated domain at baseline and remained lowest after training despite improvement
+# Spirometry was the lowest-rated domain at baseline and remained lowest post-training; self-rated knowledge, skills, and confidence rose from baseline to post-training in one single-group pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -46,7 +46,7 @@ Self-report finding from the pre-post cohort. The authors attribute this to the 
 
 
 ## Related Claims
-- [A short pulmonary rehabilitation training program significantly improved knowledge scores in primary care physiotherapists and AEPs](pr-training-improves-knowledge-primary-care-clinicians.md) — related
+- [Knowledge scores rose significantly from pre-training to post-training after a short pulmonary rehabilitation training program among primary care physiotherapists and AEPs, in a single-group pre-post study](pr-training-improves-knowledge-primary-care-clinicians.md) — related
 - [Exercise capacity assessment, exercise prescription, and patient education showed the most clinically meaningful shifts](pr-training-largest-gains-core-delivery-competencies.md) — related
 - [Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months](pr-training-self-rated-gains-sustained-3-months.md) — related
 - [Nurses reported the lowest confidence in differentiating delirium, completing mental state examinations and risk assessments, and managing suicidal or psychotic presentations](icu-nurses-confidence-gaps-assessment-and-complex-presentations.md) — related

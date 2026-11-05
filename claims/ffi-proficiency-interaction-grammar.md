@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Rooholamin et al. 2016: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i2` The interaction of proficiency level and input delivery method had a significant impact on learners' grammatical knowledge. [→ Rooholamin et al. 2016](#rooholamin-et-al-2016)

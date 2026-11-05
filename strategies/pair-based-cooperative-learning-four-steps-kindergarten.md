@@ -39,7 +39,7 @@ The cooperative learning training followed the learning together approach (Johns
 ## Claims
 
 - [Cooperative Learning Improves Achievement](../claims/cooperative-learning-improves-achievement.md) [+M]
-- [All three groups (cooperative learning, individual learning, and control) improved significantly in early numeracy from pre-test to post-test over 12 weeks](../claims/all-groups-significant-pre-post-numeracy-gain-middle-income-kindergarteners.md) [+W]
+- [Early numeracy scores rose significantly from pre-test to post-test over 12 weeks in the cooperative learning, individual learning, and control groups, with changes measured within each group](../claims/all-groups-significant-pre-post-numeracy-gain-middle-income-kindergarteners.md) [+W]
 - [Among low-early-math-ability kindergarteners, supplemental training produced significantly higher improvement than an equally low-ability control group](../claims/low-ability-kindergarteners-training-outperforms-control.md) [+W]
 
 ## Related Strategies

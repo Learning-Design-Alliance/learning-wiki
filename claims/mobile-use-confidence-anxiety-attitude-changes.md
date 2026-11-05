@@ -1,7 +1,7 @@
 ---
 type: claim
-title: A term of regular mobile-3G classroom use increased student confidence and decreased anxiety, while liking and general usefulness showed no significant change
-description: A term of regular mobile-3G classroom use increased student confidence and decreased anxiety, while liking and general usefulness showed no significant change
+title: Within the mobile-3G classroom group, self-reported student confidence rose and self-reported anxiety fell from pre-test to post-test over a term of regular use, while self-reported liking and general usefulness showed no significant change
+description: Within the mobile-3G classroom group, self-reported student confidence rose and self-reported anxiety fell from pre-test to post-test over a term of regular use, while self-reported liking and general usefulness showed no significant change
 id: mobile-use-confidence-anxiety-attitude-changes
 status: review
 generated:
@@ -28,15 +28,15 @@ sources:
     rigour: 1
 ---
 
-# A term of regular mobile-3G classroom use increased student confidence and decreased anxiety, while liking and general usefulness showed no significant change
+# Within the mobile-3G classroom group, self-reported student confidence rose and self-reported anxiety fell from pre-test to post-test over a term of regular use, while self-reported liking and general usefulness showed no significant change
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Wilcoxon signed-rank tests on matched pre-post surveys showed confidence increased (p = 0.041) and anxiety decreased (p = 0.020). [→ Jabbour 2014](#jabbour-2014)
-`q2 i?` No significant pre-post change was found for liking (p = 0.182) or usefulness in general (p = 0.058). [→ Jabbour 2014 (2)](#jabbour-2014-2)
+`q2 i?` Wilcoxon signed-rank tests on matched pre-post surveys showed self-reported confidence increased from pre-test to post-test (p = 0.041) and self-reported anxiety decreased from pre-test to post-test (p = 0.020). [→ Jabbour 2014](#jabbour-2014)
+`q2 i?` No significant pre-post change was found for self-reported liking (p = 0.182) or self-reported usefulness in general (p = 0.058). [→ Jabbour 2014 (2)](#jabbour-2014-2)
 
 ## Evidence
 

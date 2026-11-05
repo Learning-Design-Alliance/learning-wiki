@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Young EFL learners receiving input-providing corrective feedback improve significantly in grammar from pretest to immediate and delayed posttests, with gains retained
-description: Young EFL learners receiving input-providing corrective feedback improve significantly in grammar from pretest to immediate and delayed posttests, with gains retained
+title: Young EFL learners receiving input-providing corrective feedback had significantly higher grammar scores at the immediate and delayed posttests than at pretest, with no significant change between posttests, in one uncontrolled pre-post study
+description: Young EFL learners receiving input-providing corrective feedback had significantly higher grammar scores at the immediate and delayed posttests than at pretest, with no significant change between posttests, in one uncontrolled pre-post study
 id: input-providing-group-significant-gains-over-time
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Young EFL learners receiving input-providing corrective feedback improve significantly in grammar from pretest to immediate and delayed posttests, with gains retained
+# Young EFL learners receiving input-providing corrective feedback had significantly higher grammar scores at the immediate and delayed posttests than at pretest, with no significant change between posttests, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Experimental-group learners significantly improved vocabulary knowledge from pretest to posttest after storytelling instruction
-description: Experimental-group learners significantly improved vocabulary knowledge from pretest to posttest after storytelling instruction
+title: "Experimental-group learners' vocabulary knowledge rose significantly from pretest to posttest after storytelling instruction, measured within the experimental group"
+description: "Experimental-group learners' vocabulary knowledge rose significantly from pretest to posttest after storytelling instruction, measured within the experimental group"
 id: storytelling-experimental-group-prepost-vocabulary-gain
 status: review
 generated:
@@ -21,7 +21,7 @@ sources:
     rigour: 1
 ---
 
-# Experimental-group learners significantly improved vocabulary knowledge from pretest to posttest after storytelling instruction
+# Experimental-group learners' vocabulary knowledge rose significantly from pretest to posttest after storytelling instruction, measured within the experimental group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -54,6 +54,6 @@ Matched (paired) t test on the experimental group's pretest and posttest vocabul
 - [A storytelling approach produced significantly higher vocabulary posttest scores than traditional instruction for young Iranian EFL learners](storytelling-approach-vocabulary-posttest-advantage-young-efl.md) — related
 - [Delayed-posttest retention scores did not significantly differ by digital storytelling, though experimental-group means were higher](digital-storytelling-math-delayed-posttest-no-significant-difference.md) — related
 - [Within the task-based group, technical vocabulary scores rose significantly from pre-test to post-test](tblt-group-prepost-vocabulary-gain.md) — related
-- [Storytelling instruction increased English vocabulary test performance among five-year-old Iranian kindergarten children in a one-group pre-test post-test study](storytelling-improves-kindergarten-english-vocabulary.md) — related
+- [English vocabulary test performance rose from pre-test to post-test among five-year-old Iranian kindergarten children in a one-group pre-test post-test study of storytelling instruction](storytelling-improves-kindergarten-english-vocabulary.md) — related
 - [TPR instruction significantly improves EFL young learners' L2 vocabulary knowledge from pretest to posttest](tpr-improves-iranian-efl-childrens-vocabulary.md) — related
 - [The cooperative learning group improved significantly from pretest to posttest](cooperative-group-pretest-posttest-gain.md) — a narrower finding that bears on this claim

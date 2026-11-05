@@ -45,7 +45,7 @@ The article recommends that universities give prospective teachers opportunities
 - [TPACK-based education applications raise prospective science teachers' self-efficacy belief levels toward science education more than the current curriculum after a 14-week course](../claims/tpack-applications-raise-prospective-teacher-science-self-efficacy.md) [+W]
 - [The self-efficacy advantage of TPACK-based applications persists three months after the course ends](../claims/tpack-self-efficacy-gain-persists-three-months.md) [+W]
 - [Within the experimental group, self-efficacy rose significantly from pretest to posttest and follow-up, with no significant drop from posttest to follow-up](../claims/experimental-group-within-group-self-efficacy-gain.md) [+W]
-- [The current-curriculum instruction in the control group produced no significant change in prospective teachers' self-efficacy across pretest, posttest and follow-up](../claims/current-curriculum-no-self-efficacy-change.md) [+W]
+- [Within the control group receiving current-curriculum instruction, prospective teachers' self-reported self-efficacy showed no significant change from pretest to posttest and follow-up](../claims/current-curriculum-no-self-efficacy-change.md) [+W]
 - [Before the intervention, the experimental and control groups did not differ significantly in self-efficacy toward science education](../claims/pretest-equivalence-self-efficacy-groups.md) [+W]
 
 ## Related Strategies

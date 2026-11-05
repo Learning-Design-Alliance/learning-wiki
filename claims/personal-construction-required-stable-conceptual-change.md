@@ -71,5 +71,5 @@ Finding derived from the 7 case studies of collaboration: students' conversation
 - [Co-construction alone does not contribute to shared mental model development and shows a negative unique effect](co-construction-alone-hinders-shared-mental-models.md) — related
 - [Students' postings of personal experiences in discussion forums support, rather than undermine, knowledge building](personal-experiences-support-knowledge-building.md) — related
 - [Co-regulation led to shared understandings with effective patient management as a result (Lajoie and Lu)](co-regulation-shared-understanding-patient-management.md) — related
-- [High joint on-task engagement with high equality and mutuality of engagement did not necessarily mean cognitive engagement or ensure conceptual change](high-equality-mutuality-not-sufficient-conceptual-change.md) — related
+- [In one single-group pre-post study, dyads with high joint on-task engagement and high equality and mutuality of engagement included one student who showed substantial conceptual change and another who showed none](high-equality-mutuality-not-sufficient-conceptual-change.md) — related
 - Videographed bilingual-lesson discussions are analysed qualitatively with interaction analysis to reconstruct negotiated taken-as-shared meaning — related

@@ -50,7 +50,7 @@ HLM analysis of the cluster randomized trial modeled spring HTKS controlling for
 
 ## Related Claims
 - [More teacher time using A2i software is associated with less classroom time in disruption and discipline events](a2i-use-fewer-disruptions.md) — related
-- [Fall self-regulation (HTKS) scores predict spring literacy gains in first grade](fall-htks-predicts-literacy-gains.md) — related
+- [In first grade, students with lower fall self-regulation (HTKS) scores demonstrated weaker literacy skill gains by spring](fall-htks-predicts-literacy-gains.md) — related
 - [The ISI intervention shows no main effect on first graders' self-regulation gains from fall to spring](isi-no-main-effect-self-regulation-gains.md) — related
 - [ISI teachers demonstrate stronger classroom management than control teachers, with more instructional time and fewer disruptions](isi-teachers-stronger-classroom-management.md) — related
 - [Teachers' time spent using A2i predicted students' word reading gains, with about 0.1 GE per 100 extra minutes of use](a2i-teacher-usage-predicts-gains.md) — related

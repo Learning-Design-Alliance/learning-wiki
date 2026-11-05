@@ -45,7 +45,7 @@ Mixed-effects linear regression on pre/post MUL measurements from 81 radiologist
 
 
 ## Related Claims
-- [Reader confidence in measuring MUL significantly increased across all training groups](online-training-improves-mul-reader-confidence.md) — related
+- [Self-reported reader confidence in measuring MUL rose significantly from pre-test to post-test across all training groups in one uncontrolled pre-post study](online-training-improves-mul-reader-confidence.md) — related
 - [Interreader agreement for MUL measurements improved substantially after online training across all groups](online-training-improves-mul-interreader-agreement.md) — related
 - [No significant difference in training effect between more and less experienced radiologists or between residents and radiologists](mul-training-effect-independent-of-experience.md) — related
 - [Expert reference standard for MUL measurements showed excellent agreement (ICC 0.90)](expert-reference-mul-icc-090.md) — related

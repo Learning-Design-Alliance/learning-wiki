@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Suleiman 2016: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Mean test scores of cleaning workers improved significantly from pre-test to post-test1 and post-test2 after CATM training in both training periods. [→ Suleiman 2016](#suleiman-2016)
@@ -45,5 +46,5 @@ One-way ANOVA over the three tests in the first training period, with Tamhane's 
 
 
 ## Related Claims
-- [Knowledge retained one month after CATM training, with post-test2 scores exceeding post-test1 in both periods](catm-knowledge-retention-one-month.md) — related
+- [Knowledge scores were higher one month after CATM training than immediately after training in one group, in both periods](catm-knowledge-retention-one-month.md) — related
 - [CATM-trained cleaning workers outperformed certified cleaners and supervisors on chemicals-hazard knowledge](catm-trained-outperform-certified-control.md) — related

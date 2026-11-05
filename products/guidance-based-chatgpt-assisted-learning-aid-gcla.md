@@ -23,7 +23,7 @@ GCLA is a ChatGPT-assisted learning aid developed by Lee et al. that uses Apple 
 
 ### Claims
 - [GCLA use improves cognitive and behavioral engagement and self-efficacy compared with traditional ChatGPT use in blended learning](../claims/gcla-improves-engagement-and-self-efficacy.md) [+M]
-- [GCLA use enhances higher-order thinking skills—critical thinking, problem-solving, and creativity—compared with traditional ChatGPT use](../claims/gcla-improves-hots.md) [+M]
+- [Students using GCLA rated their higher-order thinking skills—critical thinking, problem-solving, and creativity—higher than students using traditional ChatGPT](../claims/gcla-improves-hots.md) [+W]
 - [GCLA use improves chemistry knowledge construction, including two-week retention, compared with traditional ChatGPT use](../claims/gcla-improves-knowledge-construction.md) [+M]
 
 ## Related Products and Programmes

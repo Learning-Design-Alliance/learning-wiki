@@ -47,4 +47,4 @@ Qualitative analysis of 84 tutor-generated session summaries across both schools
 
 ## Related Claims
 - [Reviewed literature identifies personalisation, adaptive support, rapid feedback, and teacher-facing automation as recurring pedagogical opportunities of AI in mathematics education](ai-math-pedagogical-opportunities-personalisation-feedback.md) — related
-- [Synchronous online mathematics tutoring produced statistically significant within-group gains in mathematics achievement for low-achieving middle school students in two rural schools](online-tutoring-significant-within-group-gains.md) — related
+- [Mathematics achievement scores rose significantly from pre-test to post-test among low-achieving middle school students receiving synchronous online mathematics tutoring in two rural schools, in single-group pre-post studies](online-tutoring-significant-within-group-gains.md) — related

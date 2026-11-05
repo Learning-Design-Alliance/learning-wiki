@@ -45,7 +45,7 @@ Frequency analysis (Table 6) shows states-of-matter misclassifications dropped f
 
 
 ## Related Claims
-- [A multiple-representations instruction significantly increased preservice chemistry teachers' scientifically appropriate classifications of particulate drawings from pretest to posttest](multiple-representations-instruction-increased-appropriate-classifications.md) — a broader claim this one bears on
+- [Preservice chemistry teachers' scientifically appropriate classifications of particulate drawings rose significantly from pretest to posttest after multiple-representations instruction, in one uncontrolled pre-post study](multiple-representations-instruction-increased-appropriate-classifications.md) — a broader claim this one bears on
 - [Classifying the physical composition of matter (pure substance vs. homogeneous vs. heterogeneous mixture) was the most difficult aspect, and confusion between homogeneous and heterogeneous mixtures persisted after instruction](physical-composition-hardest-aspect-homogeneous-heterogeneous-confusion.md) — related
-- [Improvements in classifying the chemical composition of matter were not durable: some participants reverted to their initial inappropriate classifications 17 months later](chemical-composition-gains-not-durable.md) — related
+- [In one uncontrolled pre-post study, inappropriate classifications of the chemical composition of matter rose from n=2 at posttest to n=13 at delayed posttest 17 months later](chemical-composition-gains-not-durable.md) — related
 - [Particle-concept understanding does not affect gains at the macroscopic or symbolic levels of changing states of matter](no-effect-macroscopic-symbolic-levels.md) — related

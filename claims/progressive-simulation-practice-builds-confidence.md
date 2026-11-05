@@ -46,7 +46,7 @@ Content analysis of focus group interviews, reflective journals and teaching ref
 
 ## Related Claims
 - [Students report that ISBAR provides a cognitive scaffold for organized handover expression](isbar-cognitive-scaffold-organized-expression.md) — related
-- [ISBAR-structured handover simulation teaching significantly improves nursing students' handover confidence](isbar-simulation-improves-handover-confidence.md) — related
+- [Nursing students' self-rated handover confidence scores rose from pre-test to post-test after ISBAR-structured handover simulation teaching, in one uncontrolled pre-post study](isbar-simulation-improves-handover-confidence.md) — related
 - [A minority of nursing students report negative emotional responses to virtual simulation teaching, including fear, anxiety, and burnout](vs-negative-emotional-experiences.md) — reports the opposite
 - [The vast majority of nursing students report positive emotional experiences in virtual simulation teaching, including excitement, reduced psychological burden, and boosted confidence](vs-positive-emotional-experiences.md) — a broader claim this one bears on
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — a broader claim this one bears on

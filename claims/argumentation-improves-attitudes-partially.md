@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Balci 2016: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` Significant differences favoring the experiment group were found for positive attitude (F (1,74)= 18.913, p< .05) and interest (F (1,74)= 11.643, p< .05); differences on negative attitude and importance were not significant. [→ Balci 2016](#balci-2016)

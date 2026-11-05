@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
 > **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Filippini 2012: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i2` First-grade English Learners in the morphological-awareness vocab+ condition gained more target word vocabulary than the PAD-only control (d = .64), and the semantic-relations condition outperformed it as well (d = .54), but the ANCOVA was not statistically significant. [→ Filippini 2012](#filippini-2012)

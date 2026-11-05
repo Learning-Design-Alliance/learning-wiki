@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Students gained significant improvement in exposure to geoscience concepts through the case study–based curriculum
-description: Students gained significant improvement in exposure to geoscience concepts through the case study–based curriculum
+title: "Students' self-reported exposure to geoscience concepts rose significantly from pre-test to post-test in one group with no comparison group after a case study–based curriculum"
+description: "Students' self-reported exposure to geoscience concepts rose significantly from pre-test to post-test in one group with no comparison group after a case study–based curriculum"
 id: case-studies-increase-exposure-geoscience-concepts
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# Students gained significant improvement in exposure to geoscience concepts through the case study–based curriculum
+# Students' self-reported exposure to geoscience concepts rose significantly from pre-test to post-test in one group with no comparison group after a case study–based curriculum
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Students showed significant improvement (p < 0.01) in self-reported exposure to big-picture geological concepts after the intervention. [→ Holley 2017](#holley-2017)
+`q2 i?` Students' self-reported exposure to big-picture geological concepts rose significantly (p < 0.01) from pre-test to post-test in one group with no comparison group after the intervention. [→ Holley 2017](#holley-2017)
 
 ## Evidence
 

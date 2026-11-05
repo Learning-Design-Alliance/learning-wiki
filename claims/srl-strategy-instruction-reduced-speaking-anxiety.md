@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Self-regulated strategy instruction significantly reduced speaking anxiety of Egyptian EFL university students
-description: Self-regulated strategy instruction significantly reduced speaking anxiety of Egyptian EFL university students
+title: Speaking anxiety scores decreased significantly from pretest to posttest after self-regulated strategy instruction, in one group of Egyptian EFL university students with no comparison group
+description: Speaking anxiety scores decreased significantly from pretest to posttest after self-regulated strategy instruction, in one group of Egyptian EFL university students with no comparison group
 id: srl-strategy-instruction-reduced-speaking-anxiety
 status: review
 generated:
@@ -9,7 +9,6 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2016
-source_checked: 2026-11-05
 sources:
   - id: el-sakka-2016
     resource: "https://doi.org/10.5539/elt.v9n12p22"
@@ -21,11 +20,11 @@ sources:
     rigour: 1
 ---
 
-# Self-regulated strategy instruction significantly reduced speaking anxiety of Egyptian EFL university students
+# Speaking anxiety scores decreased significantly from pretest to posttest after self-regulated strategy instruction, in one group of Egyptian EFL university students with no comparison group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants' speaking anxiety scores decreased significantly from pretest to posttest after the intervention. [→ El-Sakka 2016](#el-sakka-2016)
@@ -50,6 +49,6 @@ Same one-group quasi-experiment (forty third-year English majors), measured with
 
 ## Related Claims
 - [Speaking proficiency and speaking anxiety were significantly negatively correlated at posttest](speaking-proficiency-anxiety-negative-correlation.md) — related
-- [Self-regulated strategy instruction significantly improved speaking proficiency of Egyptian EFL university students in a one-group pre-posttest quasi-experiment](srl-strategy-instruction-improved-speaking-proficiency-egyptian-efl.md) — related
+- [Speaking proficiency scores rose significantly from pretest to posttest among Egyptian EFL university students after self-regulated strategy instruction, in a one-group pre-posttest quasi-experiment](srl-strategy-instruction-improved-speaking-proficiency-egyptian-efl.md) — related
 - [Prior evidence on self-regulated learning and speaking proficiency is mixed, with one study finding significant effects and another only a weak relationship](mixed-prior-evidence-srl-speaking-proficiency.md) — related
 - [Drama instruction reduced students' speech anxiety to a lower level than conventional instruction at posttest](drama-instruction-reduces-speech-anxiety-more-than-conventional.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Workplace-based assessment improved after the curriculum: mini-CEX and FCB-CHOPS scores increased, while 360-degree overall score did not change significantly"
-description: "Workplace-based assessment improved after the curriculum: mini-CEX and FCB-CHOPS scores increased, while 360-degree overall score did not change significantly"
+title: Within the intervention cohort, workplace-based assessment mini-CEX and FCB-CHOPS scores rose from pre-test to post-test after the curriculum, while 360-degree overall score did not change significantly
+description: Within the intervention cohort, workplace-based assessment mini-CEX and FCB-CHOPS scores rose from pre-test to post-test after the curriculum, while 360-degree overall score did not change significantly
 id: wba-mini-cex-fcb-chops-improved-360-null
 status: review
 generated:
@@ -36,7 +36,7 @@ sources:
     rigour: 1
 ---
 
-# Workplace-based assessment improved after the curriculum: mini-CEX and FCB-CHOPS scores increased, while 360-degree overall score did not change significantly
+# Within the intervention cohort, workplace-based assessment mini-CEX and FCB-CHOPS scores rose from pre-test to post-test after the curriculum, while 360-degree overall score did not change significantly
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r1` · `q2`

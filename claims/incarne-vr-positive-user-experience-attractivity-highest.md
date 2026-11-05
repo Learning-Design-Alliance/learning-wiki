@@ -47,7 +47,7 @@ Pilot study with 17 participants (kinesiology students and anatomy experts) comp
 ## Related Claims
 - [Exploratory correlations showed moderate to strong descriptive associations between selected user experience and cognitive load dimensions](incarne-ux-cognitive-load-correlations.md) — related
 - [Field-tested IDSA prototype received moderate usability ratings: usage enjoyment highest, design and realization lowest](idsa-usability-ratings-enjoyment-high-design-low.md) — related
-- [VR-based training received significantly higher ratings for learning satisfaction and self-evaluation than conventional training](vr-training-higher-satisfaction-self-evaluation.md) — related
+- [In one group measured before and after, learning satisfaction and self-evaluation ratings were significantly higher after VR-based training than after conventional training](vr-training-higher-satisfaction-self-evaluation.md) — related
 - [Students rate AI's helpfulness positively overall, with academic challenges receiving the highest usefulness, satisfaction, and intent-to-continue scores](academic-domain-highest-ai-helpfulness-ratings.md) — related
 - [VR-cohort students reported high self-reported understanding, positive format evaluations, and willingness to participate again](vr-students-report-high-understanding-and-willingness.md) — related
 - [The digital application received substantially higher usability (SUS) and user experience (UEQ) ratings than the analogue training condition](orthotrainer-higher-usability-and-ux.md) — related

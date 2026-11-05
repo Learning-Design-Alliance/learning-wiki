@@ -50,5 +50,5 @@ Survey of 11 faculties. Students always have access to radiography in all facult
 ## Related Claims
 - [Radiology teaching in francophone sub-Saharan African medical schools shows significant heterogeneity in hours, content, methods, and assessment across faculties.](radiology-teaching-heterogeneity-francophone-sub-saharan-africa.md) — related
 - [Dental students hold overall positive perceptions of simulation-based learning in oral radiology, with a combined mean of 4.27 on a 5-point Likert scale](dental-students-positive-perceptions-sbl-oral-radiology.md) — related
-- [Flipped classroom combined with case-based learning improves post-course knowledge quiz scores in nuclear medicine residents](flipped-classroom-cbl-improves-nuclear-medicine-resident-quiz-scores.md) — related
+- [Post-course knowledge quiz scores rose from pre-course to post-course in nuclear medicine residents after a flipped classroom combined with case-based learning, in one uncontrolled pre-post study](flipped-classroom-cbl-improves-nuclear-medicine-resident-quiz-scores.md) — related
 - [Radiology teaching begins during the bachelor's programme in 63.6% of faculties and during the master's programme in 36.4%.](radiology-teaching-start-bachelor-versus-master.md) — related

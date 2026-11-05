@@ -43,7 +43,7 @@ Single-group pretest/posttest quasi-experiment with 60 new graduate paediatric s
 
 
 ## Related Claims
-- [Improvements after Jeffries-framework simulation vary across competence dimensions, with no significant change in professional development](jeffries-simulation-dimension-specific-competence-changes.md) — a narrower finding that bears on this claim
+- [Competence dimension scores varied in their pre-test-to-post-test changes after Jeffries-framework simulation, with no significant change in professional development, in one single-group pre-post study](jeffries-simulation-dimension-specific-competence-changes.md) — a narrower finding that bears on this claim
 - [Clinical decision-making scores of new graduate paediatric surgery nurses rose significantly after Jeffries-framework simulation training, in one uncontrolled pre/post study](jeffries-simulation-improves-clinical-decision-making-new-graduate-nurses.md) — related
 - [New graduate paediatric surgery nurses show lowest baseline proficiency in critical thinking and research skills](new-graduate-paediatric-nurses-lowest-baseline-critical-thinking.md) — related
 - [The competency profiles differ by overall level, with all seven CIRN dimensions increasing synchronously, rather than by divergent strength-and-weakness combinations](synchronous-dimension-increases-across-profiles.md) — related

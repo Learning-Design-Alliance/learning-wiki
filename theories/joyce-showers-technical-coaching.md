@@ -44,7 +44,7 @@ The paper analyzes Joyce and Showers' model, which borrows coaching from athleti
 - [Coaching effects on instruction and achievement are positively correlated, but large instructional improvements are needed for modest achievement gains](../claims/instruction-achievement-weak-link-coaching.md) [+M] — attached 2026-10-13 from Kraft et al. (2018), which proposed "Theory of action for teacher coaching: individualized observation-and-feedback cycles translate teacher knowledge into classroom practice and student achievement"; tests this page's relationship.
 - [CSC coaching significantly reduced teachers' need for change in instructional practices (IS discrepancy scores, d = .88)](../claims/csc-reduced-instructional-discrepancy-scores.md) [+W]
 - [Teachers maintained Pyramid Model practices after coaching ended, with two of three teachers needing only brief reminders](../claims/pyramid-practice-maintenance-after-coaching-ends.md) [~W]
-- [Performance feedback significantly improves the overall teaching skills of student teachers working with students with MDVI](../claims/performance-feedback-improves-teaching-skills-mdvi-student-teachers.md) [+W]
+- [Overall teaching skills scores rose from pre-test to post-test after performance feedback, in one uncontrolled pre-post study among student teachers working with students with MDVI](../claims/performance-feedback-improves-teaching-skills-mdvi-student-teachers.md) [+W]
 
 ## The evidence by question
 

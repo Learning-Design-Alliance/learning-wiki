@@ -45,7 +45,7 @@ Four-point Likert questionnaire administered after the treatment; descriptive st
 
 
 ## Related Claims
-- [Both procedural and descriptive writing scores improved significantly after GBSRI](gbsri-improves-procedural-and-descriptive-genres.md) — related
+- [Both procedural and descriptive writing scores rose significantly from pre-test to post-test in one group with no comparison group after GBSRI](gbsri-improves-procedural-and-descriptive-genres.md) — related
 - [GBSRI significantly improved Thai undergraduates' overall English paragraph writing scores after eight weeks](gbsri-improves-thai-undergraduate-writing-scores.md) — related
 - [Most questionnaire respondents (96.88%) reported that GBSRI activities improved their writing, and collaborative activities were the most preferred](gbsri-respondents-reported-writing-improvement.md) — related
 - [Undergraduate learners rated CyberAGENTS positively, with scenario authenticity highest and challenge difficulty alignment lowest](cyberagents-positive-learner-perceptions.md) — related

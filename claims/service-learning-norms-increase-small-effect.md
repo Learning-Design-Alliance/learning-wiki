@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Service-learning participation is associated with a small increase in dental students' norms regarding community service"
-description: "Service-learning participation is associated with a small increase in dental students' norms regarding community service"
+title: "Dental students' self-reported norms regarding community service rose slightly from pre-test to post-test after service-learning participation, in one single-group pre-post study"
+description: "Dental students' self-reported norms regarding community service rose slightly from pre-test to post-test after service-learning participation, in one single-group pre-post study"
 id: service-learning-norms-increase-small-effect
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Service-learning participation is associated with a small increase in dental students' norms regarding community service
+# Dental students' self-reported norms regarding community service rose slightly from pre-test to post-test after service-learning participation, in one single-group pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i1` small
@@ -46,6 +46,6 @@ Repeated-measures ANOVA on the matched sample (n = 77) showed the norms subscale
 
 ## Related Claims
 - [Service-learning participation is associated with a large increase in dental students' empathy toward community service](service-learning-empathy-increase-dental-students.md) — related
-- [Service-learning participation is associated with a large reduction in dental students' perceived costs of community engagement](service-learning-perceived-costs-reduction.md) — related
-- [Seven of ten CSAS subscales showed no significant pre–post change after service-learning, likely due to a ceiling effect](seven-csas-subscales-no-change-ceiling.md) — related
+- [Dental students' self-rated perceived costs of community engagement showed a large reduction from pre-test to post-test after service-learning participation, in one uncontrolled pre-post study](service-learning-perceived-costs-reduction.md) — related
+- [Seven of ten self-reported CSAS subscale scores showed no significant pre–post change after service-learning in one group with no comparison group](seven-csas-subscales-no-change-ceiling.md) — related
 - [Attitudinal changes after service-learning did not differ significantly by sex or prior community service experience](attitude-change-no-sex-or-experience-differences.md) — related

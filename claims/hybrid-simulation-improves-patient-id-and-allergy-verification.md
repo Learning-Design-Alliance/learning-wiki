@@ -49,5 +49,5 @@ Pre-post comparison across two hybrid simulation sessions with 78 nursing studen
 ## Related Claims
 - [Hybrid simulation with role-playing improves hand hygiene compliance and PPE use in medication administration among nursing students](hybrid-simulation-improves-hand-hygiene-and-ppe-nursing.md) — related
 - [Role-playing simulation with SBAR-based observation improves nurse-patient communication behaviors among nursing students](role-play-sbar-improves-nurse-patient-communication.md) — related
-- [Hybrid simulation with role-playing dramatically improves correct dosage calculation and reconstitution rates in nursing students](hybrid-simulation-improves-dosage-calculation-nursing.md) — related
-- [Theoretical pharmacology knowledge improves after simulation training except for the right patient domain](simulation-improves-pharmacology-knowledge-except-right-patient.md) — related
+- [Among nursing students, correct dosage calculation and reconstitution rates rose from 1.3% to 93.6% between the first and second hybrid simulation sessions with role-playing, in one uncontrolled pre-post study](hybrid-simulation-improves-dosage-calculation-nursing.md) — related
+- [Theoretical pharmacology knowledge scores rose from pre-test to post-test after simulation training, except for the right patient domain, in one uncontrolled pre-post study](simulation-improves-pharmacology-knowledge-except-right-patient.md) — related

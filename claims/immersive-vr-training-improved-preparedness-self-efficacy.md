@@ -45,7 +45,7 @@ Quasi-experimental pre–post one-group study (Alsaqer and Alhmoud 2025, Jordan)
 
 
 ## Related Claims
-- [An active shooter simulation with mass casualty triage improved nursing students' preparedness and triaging skills](active-shooter-simulation-improved-preparedness-triage.md) — related
+- [Nursing students' preparedness and triaging skills scores rose from pre-test to post-test after an active shooter simulation with mass casualty triage, in a one-group pre–post study](active-shooter-simulation-improved-preparedness-triage.md) — related
 - [A competency-based multiactor emergency preparedness training curriculum improved cognitive knowledge, self-assessed skill, and scenario performance after video debriefing](competency-based-multiactor-ept-improved-performance.md) — related
 - [An immersive cinematic escape room approach improved nurses' disaster preparedness over time compared with traditional teaching](immersive-cinematic-escape-room-improved-preparedness.md) — related
 - [Virtual reality simulation training improved reserve nurses' theoretical knowledge, emergency care capability, and total disaster preparedness, but not post-disaster management](vr-simulation-training-improved-response-capability.md) — related

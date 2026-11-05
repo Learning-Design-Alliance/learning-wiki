@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "L2C coaching significantly reduces learners' lap times and failure counts from pre- to post-coaching in FPV drone racing"
-description: "L2C coaching significantly reduces learners' lap times and failure counts from pre- to post-coaching in FPV drone racing"
+title: "Learners' lap times and failure counts fell from pre-coaching to post-coaching in FPV drone racing in a single-group pre-post study of L2C coaching"
+description: "Learners' lap times and failure counts fell from pre-coaching to post-coaching in FPV drone racing in a single-group pre-post study of L2C coaching"
 id: l2c-within-subject-lap-time-failure-gains
 status: review
 generated:
@@ -29,7 +29,7 @@ sources:
     rigour: 2
 ---
 
-# L2C coaching significantly reduces learners' lap times and failure counts from pre- to post-coaching in FPV drone racing
+# Learners' lap times and failure counts fell from pre-coaching to post-coaching in FPV drone racing in a single-group pre-post study of L2C coaching
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2`–`i3`

@@ -49,7 +49,7 @@ Descriptive statistics from the SRL ANCOVA in the RCT (TG N = 31, CG N = 30); Ta
 
 ## Related Claims
 - [GCLA use improves cognitive and behavioral engagement and self-efficacy compared with traditional ChatGPT use in blended learning](gcla-improves-engagement-and-self-efficacy.md) — related
-- [GCLA use enhances higher-order thinking skills—critical thinking, problem-solving, and creativity—compared with traditional ChatGPT use](gcla-improves-hots.md) — related
+- [Students using GCLA rated their higher-order thinking skills—critical thinking, problem-solving, and creativity—higher than students using traditional ChatGPT](gcla-improves-hots.md) — related
 - [GCLA use improves chemistry knowledge construction, including two-week retention, compared with traditional ChatGPT use](gcla-improves-knowledge-construction.md) — related
 - [As cited second-hand in an AI-literacy framework paper: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — related
 - [Frequent generative AI use for essay writing can foster metacognitive laziness, reducing intrinsic motivation and learning autonomy](genai-metacognitive-laziness-and-autonomy.md) — related

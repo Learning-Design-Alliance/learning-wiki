@@ -45,7 +45,7 @@ Within-group pretest-posttest comparison for the 18-student experimental group t
 
 
 ## Related Claims
-- [Experimental-group learners significantly improved vocabulary knowledge from pretest to posttest after storytelling instruction](storytelling-experimental-group-prepost-vocabulary-gain.md) — a broader claim this one bears on
+- [Experimental-group learners' vocabulary knowledge rose significantly from pretest to posttest after storytelling instruction, measured within the experimental group](storytelling-experimental-group-prepost-vocabulary-gain.md) — a broader claim this one bears on
 - [Experimental-group students' listening comprehension scores rose significantly from pre-test to post-test after interactive whiteboard instruction with visual materials](iwb-visual-within-group-gain.md) — a broader claim this one bears on
 - [Both the SMS and control groups improved significantly from pretest to posttest in the programming course](both-groups-pretest-posttest-gains.md) — a broader claim this one bears on
 - [Experimental-group students' Ottoman Turkish achievement scores rose significantly from pre-test to post-test during the AR-supported instruction](ar-ottoman-pretest-posttest-significant-gain.md) — a broader claim this one bears on

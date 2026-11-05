@@ -34,6 +34,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2019**: local conditions change quickly
+> **Design limits** · Daşdemir 2016: groups were assigned but students were analysed as independent · Daşdemir 2016 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` SAT pre-test scores showed no significant difference among the animation, cooperative and control groups (F(2, 81)= 2.353, p> 0.05). [→ Daşdemir 2016](#dasdemir-2016)

@@ -47,7 +47,7 @@ Self-reported satisfaction data from the six residents who took part in high-fid
 
 ## Related Claims
 - [All residents in high-fidelity scenarios diagnosed shoulder dystocia and called for assistance within one minute, but key tasks and documentation varied](high-fidelity-scenario-performance-gaps.md) — related
-- [Simulation training significantly improved residents' theoretical knowledge of shoulder dystocia management](simulation-improved-theoretical-knowledge-shoulder-dystocia.md) — related
+- [Residents' theoretical knowledge scores for shoulder dystocia management rose from pre-test to post-test after simulation training, in a single-group pre-post study](simulation-improved-theoretical-knowledge-shoulder-dystocia.md) — related
 - [Students perceive debriefing and guided psychometric-property exploration as the most beneficial components of a simulated clinical course](debriefing-psychometric-instruction-valued.md) — related
 - [Feedback and debriefing are the most important educational components of simulation-based learning in cardiac arrest education](feedback-debriefing-most-important-simulation-components.md) — a broader claim this one bears on
 - [All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback whose credibility was not restricted by facilitator hierarchy](facilitators-prefer-vad-objective-feedback.md) — related

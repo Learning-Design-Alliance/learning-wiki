@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2012 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Farahman Farrokhi 2012: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Feedback effects on oral accuracy appeared in the last session rather than earlier sessions, consistent with delayed effects for partially acquired structures. [→ Farahman Farrokhi 2012](#farahman-farrokhi-2012)

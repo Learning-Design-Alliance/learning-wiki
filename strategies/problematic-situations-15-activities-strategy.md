@@ -46,8 +46,8 @@ The course design placed learners "before problematic situations in order to ena
 - [Post-test ethical-dimension results are non-uniform: 47% on respecting users in the network, 40% on privacy protection and 30% on knowledge of differences](../claims/dca-post-ethical-dimension-profile.md) [+W]
 - [Post-test Instant DCA profiles show sufficient technological expertise on interface identification (59%) and technical problem solving (52%) but very low technological understanding (26%)](../claims/dca-post-technological-dimension-profile.md) [+W]
 - [A 60-hour e-learning activity programme significantly increased pre-service teachers' Instant DCA scores on the technological, cognitive and ethical dimensions](../claims/elearning-activities-increase-dca-digital-competence.md) [+W]
-- [R-I-Z-A-based assessment found satisfactory qualitative outcomes: 86% improvement in resources, 81% excellent interpretation performance, and 76% able to produce a medial message](../claims/riza-competence-profiles-satisfactory-outcomes.md) [+W]
-- [Students developed self-regulation, gaining the ability to monitor problem-solving processes and correct irrelevant strategies, with self-evaluation enabling reflection on their actions](../claims/self-regulation-gains-from-self-evaluation-sections.md) [+W]
+- [R-I-Z-A-based assessment reported satisfactory qualitative outcomes in one uncontrolled pre-post study: the resources component rose from beginning to end (86%), 81% of participants had excellent interpretation performance at the end, and 76% could produce a medial message at the end](../claims/riza-competence-profiles-satisfactory-outcomes.md) [+W]
+- [Students' self-regulation abilities rose from pre-test to post-test after self-evaluation sections, including monitoring problem-solving processes, correcting irrelevant strategies and reflecting on actions, in one one-group study with no comparison group](../claims/self-regulation-gains-from-self-evaluation-sections.md) [+W]
 
 ## Related Strategies
 

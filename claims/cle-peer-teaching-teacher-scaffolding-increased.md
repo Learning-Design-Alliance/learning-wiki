@@ -46,5 +46,5 @@ Frequency analysis of scaffolding behaviours (initiating/questioning, leading by
 
 ## Related Claims
 - [Students' English listening and speaking frequency increased in each experimental class after the experiment](cle-peer-teaching-student-listening-speaking-increased.md) — related
-- [Teachers increased their frequency of English language use in class after CLE training with reciprocal peer teaching](cle-peer-teaching-teacher-english-use-increased.md) — related
+- [Teachers' frequency of English language use in class rose from pre-experiment to post-experiment 1 and 2 intervals after CLE training with reciprocal peer teaching, in one uncontrolled pre-post study](cle-peer-teaching-teacher-english-use-increased.md) — related
 - [The SSTP increased teachers' classroom use of social skills teaching techniques for students with and without special needs, and use persisted at follow-up](sstp-increases-use-of-teaching-techniques.md) — related

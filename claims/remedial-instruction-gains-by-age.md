@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Post-instruction gains held across age subgroups (10 years and below vs above 10 years)
-description: Post-instruction gains held across age subgroups (10 years and below vs above 10 years)
+title: Mathematical ability scores were higher after remedial instruction than before in both age subgroups (10 years and below vs above 10 years), in one single-group pre-post study
+description: Mathematical ability scores were higher after remedial instruction than before in both age subgroups (10 years and below vs above 10 years), in one single-group pre-post study
 id: remedial-instruction-gains-by-age
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Post-instruction gains held across age subgroups (10 years and below vs above 10 years)
+# Mathematical ability scores were higher after remedial instruction than before in both age subgroups (10 years and below vs above 10 years), in one single-group pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -45,7 +45,7 @@ Subgroup analysis by age in the same single-group study: 9 students aged 10 year
 
 
 ## Related Claims
-- [Remedial instruction significantly enhanced the mathematical ability of dyscalculic primary students in a single-group study](remedial-instruction-enhances-mathematical-ability-dyscalculics.md) — a broader claim this one bears on
-- [Post-instruction gains held across locality subgroups (rural and urban)](remedial-instruction-gains-by-locality.md) — related
+- [Among dyscalculic primary students, mathematical ability test scores rose significantly from pre-test to post-test after remedial instruction in a single-group study](remedial-instruction-enhances-mathematical-ability-dyscalculics.md) — a broader claim this one bears on
+- [Rural and urban dyscalculic students' scores rose from pre-test to post-test after remedial instruction, in one uncontrolled pre-post study](remedial-instruction-gains-by-locality.md) — related
 - [Post-instruction gains held across gender subgroups (male and female)](remedial-instruction-gains-by-gender.md) — related
 - [Interviewed students at below-average, average, and above-average levels showed improved understanding of condensation after the intervention](pdeode-interviews-improved-understanding-three-levels.md) — related

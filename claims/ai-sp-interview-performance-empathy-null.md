@@ -76,7 +76,7 @@ Same blinded simulated interview assessment; Table 3 reports empathy 4.02 ± 0.6
 - [Structurally designed AI-SPs are noninferior to human SPs in communication skill improvement, with unique advantages for self-efficacy](ai-sp-noninferior-communication-skills.md) — related
 - [GP residents showed statistically significant pre-post improvements in history-taking (Cohen's d = 1.11) and clinical reasoning (Cohen's d = 1.32) after a 12-week VP training program](vp-training-improves-history-taking-clinical-reasoning.md) — related
 - [AI-assisted peer teaching improves OSCE performance, with the largest effect on clinical reasoning](ai-assisted-peer-teaching-osce-clinical-reasoning.md) — related
-- [AI-powered simulated patient practice improves clinical reasoning measured by the CRI-HT scale](aisp-cortex-improves-cri-ht-reasoning.md) — related
+- [CRI-HT scores rose from pre-test to post-test after AI-powered simulated patient practice, in one uncontrolled pre-post study](aisp-cortex-improves-cri-ht-reasoning.md) — related
 - [AI-simulated patients improve gynecological history-taking checklist completion and reduce missed key items compared with instructor-led standardized patients](ai-simulated-patient-checklist-completion-gynecology.md) — related
 - [OSCE results validate improvements in technical accuracy and patient communication after training](osce-validates-bpm-skill-improvement.md) — related
 - [Virtual standardized patient interview comprehensiveness rose across successive SP consultations in the AI-assisted group, in one uncontrolled pre-post study](virtual-sp-interview-comprehensiveness-increases-sp1-sp3.md) — related

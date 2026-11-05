@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Significant pre-post differences favoring the posttest appeared on every individual standard within the three domains
-description: Significant pre-post differences favoring the posttest appeared on every individual standard within the three domains
+title: In one group with no comparison group, scores were significantly higher at post-test than pre-test on every individual standard within the three domains
+description: In one group with no comparison group, scores were significantly higher at post-test than pre-test on every individual standard within the three domains
 id: blended-learning-gains-all-standards
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Significant pre-post differences favoring the posttest appeared on every individual standard within the three domains
+# In one group with no comparison group, scores were significantly higher at post-test than pre-test on every individual standard within the three domains
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

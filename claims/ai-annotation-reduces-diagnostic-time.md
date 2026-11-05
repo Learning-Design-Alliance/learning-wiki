@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "AI-assisted annotation reduces dental students' diagnostic time per panoramic radiograph"
-description: "AI-assisted annotation reduces dental students' diagnostic time per panoramic radiograph"
+title: "Dental students' diagnostic time per panoramic radiograph fell from pre-test to post-test after AI-assisted annotation, in one uncontrolled pre-post study"
+description: "Dental students' diagnostic time per panoramic radiograph fell from pre-test to post-test after AI-assisted annotation, in one uncontrolled pre-post study"
 id: ai-annotation-reduces-diagnostic-time
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# AI-assisted annotation reduces dental students' diagnostic time per panoramic radiograph
+# Dental students' diagnostic time per panoramic radiograph fell from pre-test to post-test after AI-assisted annotation, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

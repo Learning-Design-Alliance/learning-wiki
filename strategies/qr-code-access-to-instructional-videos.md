@@ -39,8 +39,8 @@ Upload self-created demonstration videos and supplementary materials (instructio
 
 ## Claims
 
-- [QR-code-linked demonstration videos significantly improve OSPE performance in pharmacology students](../claims/qr-code-linked-videos-improve-ospe-performance.md) [+W]
-- [Students report QR-code-linked demonstration videos improve comprehension and confidence in OSPE techniques](../claims/students-report-videos-improve-ospe-comprehension.md) [+W]
+- [OSPE scores rose from pre-test to post-test after access to QR-code-linked demonstration videos, in pharmacology students in one uncontrolled pre-post study](../claims/qr-code-linked-videos-improve-ospe-performance.md) [+W]
+- [Students reported greater comprehension and confidence in OSPE techniques after using QR-code-linked demonstration videos](../claims/students-report-videos-improve-ospe-comprehension.md) [+W]
 - [Students prefer learning via demonstration videos and recommend them for future batches](../claims/students-prefer-and-recommend-demonstration-videos.md) [+W]
 
 ## Related Strategies

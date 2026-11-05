@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Performance feedback increased the number of student teachers clearly describing the activity (Item 15)
-description: Performance feedback increased the number of student teachers clearly describing the activity (Item 15)
+title: The number of student teachers clearly describing the activity rose from before to after performance feedback, in one single-group pre-post study (Item 15)
+description: The number of student teachers clearly describing the activity rose from before to after performance feedback, in one single-group pre-post study (Item 15)
 id: pf-increased-describing-activity-item-15
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Performance feedback increased the number of student teachers clearly describing the activity (Item 15)
+# The number of student teachers clearly describing the activity rose from before to after performance feedback, in one single-group pre-post study (Item 15)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

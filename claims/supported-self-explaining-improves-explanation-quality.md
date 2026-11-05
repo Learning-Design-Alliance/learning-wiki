@@ -35,6 +35,8 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2`–`r3` · `q3` · `i2` medium
 > **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person
+> **Design limits** · Fuchs 2016: the intervention came bundled with another change (a common multi-component fraction intervention shared with the word-problem condition) (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 

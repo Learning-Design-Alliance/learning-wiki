@@ -183,7 +183,7 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Knowledge, academic self-efficacy, and self-directed learning readiness are positively correlated](../claims/knowledge-self-efficacy-sdlr-positive-correlations.md) [+W]
 - [Trainees report greater confidence with ultrasound-guided than with landmark-based cannulation for both IJV and RA access](../claims/trainees-greater-confidence-ultrasound-guided-cannulation.md) [+W]
 - [Video-assisted PBL enhances academic self-efficacy more than traditional PBL](../claims/video-assisted-pbl-enhances-academic-self-efficacy.md) [+W]
-- [Clinical simulation significantly increases pre-health students' self-reported confidence in clinical identification and emergency skills.](../claims/simulation-increases-clinical-confidence.md) [+W]
+- [Pre-health students' self-reported confidence in clinical identification and emergency skills rose from pre-test to post-test after clinical simulation in one uncontrolled pre-post study.](../claims/simulation-increases-clinical-confidence.md) [+W]
 - [Perceived confidence in CPR skill retention improved markedly between 3 and 6 months in both groups](../claims/retention-confidence-self-report-trajectory.md) [~W]
 - [SBL produced greater gains in teaching efficacy than OCL (significant group × time interaction)](../claims/sbl-greater-efficacy-gains-than-ocl.md) [+W]
 - [Simulation-based MI training significantly improves CHW trainees' confidence in applying MI skills to promote health behavior change](../claims/simulation-mi-training-increases-chw-confidence-applying-mi-skills.md) [+W]

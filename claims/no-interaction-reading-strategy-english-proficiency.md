@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Azhar Aziz Lubis; Gunadi Harry Sulistyo 2018: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Two-way ANOVA found no significant strategy-by-proficiency interaction (F = .180, p = .673), suggesting PRWR applies across proficiency levels. [→ Azhar Aziz Lubis; Gunadi Harry Sulistyo 2018](#azhar-aziz-lubis-gunadi-harry-sulistyo-2018)

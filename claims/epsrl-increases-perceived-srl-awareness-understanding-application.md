@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Using the ePSRL Management System increases postgraduate online students' perceived awareness, understanding and application of self-regulated learning"
-description: "Using the ePSRL Management System increases postgraduate online students' perceived awareness, understanding and application of self-regulated learning"
+title: "Postgraduate online students' perceived awareness, understanding and application of self-regulated learning rose from pre-test to post-test after using the ePSRL Management System, in one group with no comparison group"
+description: "Postgraduate online students' perceived awareness, understanding and application of self-regulated learning rose from pre-test to post-test after using the ePSRL Management System, in one group with no comparison group"
 id: epsrl-increases-perceived-srl-awareness-understanding-application
 status: review
 generated:
@@ -36,16 +36,16 @@ sources:
     rigour: 2
 ---
 
-# Using the ePSRL Management System increases postgraduate online students' perceived awareness, understanding and application of self-regulated learning
+# Postgraduate online students' perceived awareness, understanding and application of self-regulated learning rose from pre-test to post-test after using the ePSRL Management System, in one group with no comparison group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q2` · `i2`–`i3`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i3` Intervention students perceived increased awareness of self-regulated learning after using the system (dCohen = 1.314). [→ Khiat 2022](#khiat-2022)
-`q2 i3` Intervention students perceived greater understanding of self-regulated learning strategies after use (dCohen = 1.093). [→ Khiat 2022 (2)](#khiat-2022-2)
-`q2 i2` Intervention students perceived themselves applying self-regulated learning strategies more after use (dCohen = 0.687). [→ Khiat 2022 (3)](#khiat-2022-3)
+`q2 i3` Intervention students' perceived awareness of self-regulated learning rose from pre-test to post-test after using the system, in one group with no comparison group (dCohen = 1.314). [→ Khiat 2022](#khiat-2022)
+`q2 i3` Intervention students' perceived understanding of self-regulated learning strategies rose from pre-test to post-test after using the system, in one group with no comparison group (dCohen = 1.093). [→ Khiat 2022 (2)](#khiat-2022-2)
+`q2 i2` Intervention students' perceived likelihood of applying self-regulated learning strategies rose from pre-test to post-test after using the system, in one group with no comparison group (dCohen = 0.687). [→ Khiat 2022 (3)](#khiat-2022-3)
 
 ## Evidence
 

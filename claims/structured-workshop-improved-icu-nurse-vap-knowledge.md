@@ -46,6 +46,6 @@ Single-group quasi-experimental pre-test–post-test study of ICU nurses (pre-te
 
 ## Related Claims
 - [Experience variables did not predict post-training VAP knowledge-based competence](experience-did-not-predict-post-training-vap-knowledge.md) — related
-- [Training shifted ICU nurses from low/moderate to high knowledge-based competence categories in VAP prevention](vap-competence-category-shift-after-training.md) — related
-- [Systemic barriers—supply shortages, unreliable power, absent protocols, limited supervision and high workload—restricted consistent VAP prevention despite improved knowledge](systemic-barriers-limit-vap-prevention-implementation.md) — related
+- [Among ICU nurses, the proportion classified as high knowledge-based competence rose from pre-test to post-test after training, in one single-group pre-post study of VAP prevention](vap-competence-category-shift-after-training.md) — related
+- [Qualitative interviews identified systemic barriers—supply shortages, unreliable power, absent protocols, limited supervision and high workload—alongside knowledge scores rising from pre-test to post-test in one group with no comparison group](systemic-barriers-limit-vap-prevention-implementation.md) — related
 - [Knowledge gains were largest in domains with low baseline knowledge: humidifier change frequency, suction systems, patient positioning and subglottic secretion drainage](item-level-vap-knowledge-gains-largest-low-baseline-domains.md) — a narrower finding that bears on this claim

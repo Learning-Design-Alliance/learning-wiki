@@ -46,5 +46,5 @@ Comparison of mean scores across ten treatment-session writing assignments for b
 
 ## Related Claims
 - [Peer-assisted mediation within dynamic assessment produced significantly greater writing development than tutor-intervention for intermediate EFL learners.](peer-mediation-beats-tutor-intervention-writing.md) — a broader claim this one bears on
-- [Peer-assisted mediation significantly improved learners' writing scores from pretest to posttest within the peer group.](peer-mediation-within-group-writing-gain.md) — related
+- [Learners' writing scores rose significantly from pretest to posttest within the peer-assisted mediation group.](peer-mediation-within-group-writing-gain.md) — related
 - [Both peer-assisted mediation and tutor-intervention significantly improved learners' attitudes toward writing, with no significant difference between the two conditions.](both-conditions-improve-writing-attitude.md) — related

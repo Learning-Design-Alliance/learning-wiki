@@ -1,7 +1,7 @@
 ---
 type: claim
-title: GAI-assisted DST creation significantly enhanced all five CPS sub-dimensions compared to traditional methods
-description: GAI-assisted DST creation significantly enhanced all five CPS sub-dimensions compared to traditional methods
+title: Students in a GAI-assisted DST class reported higher scores than a traditional-methods class on all five self-reported CPS sub-dimensions
+description: Students in a GAI-assisted DST class reported higher scores than a traditional-methods class on all five self-reported CPS sub-dimensions
 id: gai-assisted-dst-improves-cps-subdimensions
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 2
 ---
 
-# GAI-assisted DST creation significantly enhanced all five CPS sub-dimensions compared to traditional methods
+# Students in a GAI-assisted DST class reported higher scores than a traditional-methods class on all five self-reported CPS sub-dimensions
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i2` All five CPS sub-dimensions (participation, perspective taking, social regulation, task regulation, learning and knowledge building) showed significant differences favoring the GAI group, with partial η² ranging from 0.08 to 0.11. [→ Wei 2025](#wei-2025)
+`q3 i2` All five CPS sub-dimensions (participation, perspective taking, social regulation, task regulation, learning and knowledge building) showed significant differences favoring the GAI group on a self-report questionnaire, with partial η² ranging from 0.08 to 0.11. [→ Wei 2025](#wei-2025)
 
 ## Evidence
 

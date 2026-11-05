@@ -45,7 +45,7 @@ Satisfaction survey using a 4-point Likert scale (neutral midpoint intentionally
 
 
 ## Related Claims
-- [Simulation training significantly improved residents' theoretical knowledge of shoulder dystocia management](simulation-improved-theoretical-knowledge-shoulder-dystocia.md) — related
+- [Residents' theoretical knowledge scores for shoulder dystocia management rose from pre-test to post-test after simulation training, in a single-group pre-post study](simulation-improved-theoretical-knowledge-shoulder-dystocia.md) — related
 - [Nursing students express positive perception of preclinical maternity simulation sessions, with objectives and information rated highest and fidelity/realism rated lowest](positive-perception-preclinical-maternity-simulation.md) — related
 - [Students report satisfaction with simulation-based maternity sessions, agreeing simulation assisted understanding of clinical practice and should precede real practice](satisfaction-simulation-maternity-sessions.md) — related
 - [Students and teachers expressed predominantly positive opinions about the guides and activities, with time pressure the main teacher criticism](positive-student-teacher-opinions-design.md) — related

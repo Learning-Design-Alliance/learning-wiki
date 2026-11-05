@@ -47,7 +47,7 @@ Independent sample t test on post-test scores of 200 Access and 200 non-Access s
 
 ## Related Claims
 - [Access Program students improved by about 24 points on the diagnostic test over one year](access-students-significant-prepost-gain.md) — related
-- [Public school students improved by only about 8 points over the same year](public-schools-smaller-prepost-gain.md) — related
+- [Public school students' scores rose by only about 8 points from pre-test to post-test over the same year within the public-school group](public-schools-smaller-prepost-gain.md) — related
 - [Female participants exposed to goal-setting training scored significantly higher in English language post-test than male participants](gender-difference-english-posttest-goal-setting.md) — related
 - [First-grade ELs in the blended learning program significantly outperformed matched non-ELs on aimsweb by end of Year One](first-grade-els-outperform-non-els-blended-learning.md) — related
 - [University freshmen learning academic vocabulary via SMS show no significant short-term advantage over freshmen learning the same words with a dictionary](sms-vs-dictionary-no-posttest-difference.md) — related

@@ -49,7 +49,7 @@ Questionnaire study of students (n = 226) and instructors (n = 256) in European 
 ## Related Claims
 - [Instructors' moral awareness and intention grow parallel with institutional and social support](instructor-moral-awareness-intention-institutional-social-support.md) — related
 - [Surveyed professionals show strong technical AI awareness but limited ethical and governance readiness](strong-technical-awareness-limited-ethical-governance-readiness.md) — related
-- [A GenAI-integrated professional development program produced significant pre-to-post gains in EAP educators' ethical awareness (d = 0.93) and digital andragogical competence](genai-pd-significant-ethical-awareness-gains.md) — related
+- [EAP educators showed significant pre-to-post gains in ethical awareness (d = 0.93) and digital andragogical competence in a single-group pre-post study with no comparison group after a GenAI-integrated professional development program](genai-pd-significant-ethical-awareness-gains.md) — related
 - [After an SDT-driven redesign of a two-day teacher workshop (one cohort of 26, no control group), self-reported AI-TPACK (d = 0.70), IPACK (d = 0.86) and AI attitude (d = 0.58) rose significantly from pre to post](sdt-driven-redesign-capacity-willingness-gains.md) — related
 - [Faculty members rate equality, inclusiveness, and justice highest and institutional support lowest, with adequacy of institutional guidelines the lowest-rated item](faculty-survey-ethical-ai-profile-institutional-support-lowest.md) — related
 - [A majority of surveyed students want institutional training on professional and ethical AI tool use](students-want-ai-training-survey.md) — related

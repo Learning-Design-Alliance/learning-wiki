@@ -45,7 +45,7 @@ Expert-panel assessment: three nursing innovation experts independently scored e
 
 
 ## Related Claims
-- [Participation in a BOPPPS-PBL nursing innovation course is associated with higher post-course creativity scores among newly recruited nurses](boppps-pbl-course-creativity-increase.md) — related
+- [Among newly recruited nurses, creativity scores rose from before to after a BOPPPS-PBL nursing innovation course in one uncontrolled pre-post study](boppps-pbl-course-creativity-increase.md) — related
 - [Participants rated the BOPPPS-PBL teaching model highly, with a mean teaching-effectiveness score of 56.43 ± 5.17 out of 60](boppps-pbl-high-teaching-effectiveness-ratings.md) — related
 - [Experimental-group students rated their performance positively on self-evaluation forms but found the presentation phase most challenging due to anxiety](pbl-game-self-evaluation-presentation-anxiety.md) — related
 - [At 1-year follow-up, the 10 groups produced 16 documented innovation outputs linked to course-developed projects, including 10 patent-submission activities](one-year-innovation-outputs-documented.md) — related

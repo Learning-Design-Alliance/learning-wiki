@@ -26,8 +26,8 @@ Cortex is a proprietary platform developed by Cortex Global that uses handwritte
 - [Automated marking reduced assessment turnaround from 11.2 days to 0.1 days and enabled intervention students to complete 4.1 times the practice volume of controls](../claims/automated-marking-turnaround-and-practice-volume.md) [+M]
 - [Step-by-step automated annotations accelerated correction of procedural misconceptions, with intervention students rectifying fundamental errors weeks before control peers](../claims/automated-annotations-accelerate-misconception-correction.md) [+M]
 - [AI total scores correlate strongly with official human scores on handwritten physics assessments (r = 0.91–0.97 in Round I; 0.93–0.96 in Round II)](../claims/ai-human-total-score-correlation-handwritten-physics.md) [+W]
-- [AI-powered simulated patient practice with automated rubric-based feedback improves medical students' headache history-taking OSCE scores](../claims/aisp-cortex-improves-headache-osce-scores.md) [+M]
-- [AI-powered simulated patient practice improves clinical reasoning measured by the CRI-HT scale](../claims/aisp-cortex-improves-cri-ht-reasoning.md) [+M]
+- [AI-powered simulated patient practice with automated rubric-based feedback: medical students' headache history-taking OSCE scores rose from pre-test to post-test in a single-group pre-post study](../claims/aisp-cortex-improves-headache-osce-scores.md) [+M]
+- [CRI-HT scores rose from pre-test to post-test after AI-powered simulated patient practice, in one uncontrolled pre-post study](../claims/aisp-cortex-improves-cri-ht-reasoning.md) [+M]
 
 ## Related Products and Programmes
 -

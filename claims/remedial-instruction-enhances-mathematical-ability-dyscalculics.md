@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Remedial instruction significantly enhanced the mathematical ability of dyscalculic primary students in a single-group study
-description: Remedial instruction significantly enhanced the mathematical ability of dyscalculic primary students in a single-group study
+title: Among dyscalculic primary students, mathematical ability test scores rose significantly from pre-test to post-test after remedial instruction in a single-group study
+description: Among dyscalculic primary students, mathematical ability test scores rose significantly from pre-test to post-test after remedial instruction in a single-group study
 id: remedial-instruction-enhances-mathematical-ability-dyscalculics
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Remedial instruction significantly enhanced the mathematical ability of dyscalculic primary students in a single-group study
+# Among dyscalculic primary students, mathematical ability test scores rose significantly from pre-test to post-test after remedial instruction in a single-group study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -46,6 +46,6 @@ Single-group experimental study of 46 dyscalculic Standard V students given one 
 
 ## Related Claims
 - [Post-instruction gains held across gender subgroups (male and female)](remedial-instruction-gains-by-gender.md) — a narrower finding that bears on this claim
-- [Post-instruction gains held across locality subgroups (rural and urban)](remedial-instruction-gains-by-locality.md) — a narrower finding that bears on this claim
-- [Post-instruction gains held across age subgroups (10 years and below vs above 10 years)](remedial-instruction-gains-by-age.md) — a narrower finding that bears on this claim
+- [Rural and urban dyscalculic students' scores rose from pre-test to post-test after remedial instruction, in one uncontrolled pre-post study](remedial-instruction-gains-by-locality.md) — a narrower finding that bears on this claim
+- [Mathematical ability scores were higher after remedial instruction than before in both age subgroups (10 years and below vs above 10 years), in one single-group pre-post study](remedial-instruction-gains-by-age.md) — a narrower finding that bears on this claim
 - [The reviewed literature indicates mathematically disabled learners' problems can be addressed through appropriate, explicit and early instruction and intervention](early-explicit-intervention-math-disabilities-review.md) — a broader claim this one bears on

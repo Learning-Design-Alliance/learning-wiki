@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Schmidt 2014 (2): the intervention came bundled with another change (Existing courses and students’ own video projects) (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Average scores on the adapted Ashley, Maksl, and Craft media literacy knowledge scale improved significantly from pretest to posttest (p < .001, two-tailed). [→ Schmidt 2014](#schmidt-2014)
@@ -67,6 +68,6 @@ Table 4 reports category means: messages and meanings rose from M = 5.30 to M = 
 - [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Narrow media production lessons increase students' reported thinking about media literacy concepts in daily life](media-lessons-increase-everyday-concept-thinking.md) — related
+- [Students' self-reported thinking about media literacy concepts in daily life rose from pre-test to post-test after narrow media production lessons, in one uncontrolled pre-post study](media-lessons-increase-everyday-concept-thinking.md) — related
 - [The study's central hypothesis that narrow mediated-message-communication instruction leads to broader media literacy competencies was supported, with stated limits](narrow-instruction-supports-broader-competencies-hypothesis.md) — a broader claim this one bears on
 - [Narrowly focused media production lessons increase university students' perceived media literacy competencies across all four dimensions](narrow-media-lessons-increase-perceived-competencies.md) — related

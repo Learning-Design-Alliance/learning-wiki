@@ -55,4 +55,4 @@ The review reports a pre/post-test study (attributed to Creighton et al., 2025) 
 - [Extended immersive ward-based simulation may improve preparedness and self-confidence of nursing students](immersive-ward-simulation-improves-preparedness.md) — related
 - [Self-confidence is an additional critical attribute of clinical readiness for practice among student nurses beyond previously identified attributes](self-confidence-additional-attribute-clinical-readiness.md) — related
 - [Simulation-based training improved PPE donning/doffing performance and reduced cognitive load from pre-test to post-test](simulation-ppe-donning-doffing-pre-post-gains.md) — related
-- [Clinical simulation significantly increases pre-health students' self-reported confidence in clinical identification and emergency skills.](simulation-increases-clinical-confidence.md) — related
+- [Pre-health students' self-reported confidence in clinical identification and emergency skills rose from pre-test to post-test after clinical simulation in one uncontrolled pre-post study.](simulation-increases-clinical-confidence.md) — related

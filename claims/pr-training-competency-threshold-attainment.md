@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Most participants met the 80% knowledge competency threshold and 94% met practical competencies only after training"
-description: "Most participants met the 80% knowledge competency threshold and 94% met practical competencies only after training"
+title: "The proportion of participants meeting the 80% knowledge competency threshold rose from 18% pre-training to 82% post-training, and 94% met practical competencies after training, in one uncontrolled pre-post study"
+description: "The proportion of participants meeting the 80% knowledge competency threshold rose from 18% pre-training to 82% post-training, and 94% met practical competencies after training, in one uncontrolled pre-post study"
 id: pr-training-competency-threshold-attainment
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Most participants met the 80% knowledge competency threshold and 94% met practical competencies only after training
+# The proportion of participants meeting the 80% knowledge competency threshold rose from 18% pre-training to 82% post-training, and 94% met practical competencies after training, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -49,5 +49,5 @@ In the same pre-post cohort, the proportion reaching the pre-specified 80% knowl
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
 - [A professional development masterclass produces a 24% overall improvement in educators' AI utilization competence with large effect sizes](pd-masterclass-24-percent-ai-competence-gain.md) — related
 - [Few participants in either group reached high accuracy cut-offs on the final FMA-LE test](fma-le-cutoff-pass-rates-low.md) — related
-- [A short pulmonary rehabilitation training program significantly improved knowledge scores in primary care physiotherapists and AEPs](pr-training-improves-knowledge-primary-care-clinicians.md) — related
+- [Knowledge scores rose significantly from pre-training to post-training after a short pulmonary rehabilitation training program among primary care physiotherapists and AEPs, in a single-group pre-post study](pr-training-improves-knowledge-primary-care-clinicians.md) — related
 - [Exercise capacity assessment, exercise prescription, and patient education showed the most clinically meaningful shifts](pr-training-largest-gains-core-delivery-competencies.md) — related

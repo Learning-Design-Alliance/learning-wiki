@@ -45,7 +45,7 @@ Pre/post face-to-face interviews with the eight P.E. teachers who delivered the 
 
 
 ## Related Claims
-- [The SBSM curriculum significantly increased student fitness knowledge and confidence](sbsm-curriculum-increased-fitness-knowledge-confidence.md) — related
+- [Student fitness knowledge and confidence rose from pre-test to post-test after the SBSM curriculum, in one uncontrolled pre-post study](sbsm-curriculum-increased-fitness-knowledge-confidence.md) — related
 - [The SBSM curriculum significantly improved FITNESSGRAM performance, with passing rates rising from 20% to 60%](sbsm-curriculum-improved-fitnessgram-passing.md) — related
 - [Parental perceptions of child fitness and activity did not change significantly after the curriculum](sbsm-parental-perceptions-no-significant-change.md) — related
 - [SBSM students outperformed both control groups and district/state averages on FITNESSGRAM passing](sbsm-students-outperformed-controls-fitnessgram.md) — related

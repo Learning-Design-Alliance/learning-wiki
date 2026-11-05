@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Teacher scaffolding within a writing process approach significantly improved EFL students' self-reported writing skills from pre-test to post-test."
-description: "Teacher scaffolding within a writing process approach significantly improved EFL students' self-reported writing skills from pre-test to post-test."
+title: "EFL students' writing skills rose significantly from pre-test to post-test in one uncontrolled pre-post study of teacher scaffolding within a writing process approach."
+description: "EFL students' writing skills rose significantly from pre-test to post-test in one uncontrolled pre-post study of teacher scaffolding within a writing process approach."
 id: scaffolding-writing-process-improves-efl-writing
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Teacher scaffolding within a writing process approach significantly improved EFL students' self-reported writing skills from pre-test to post-test.
+# EFL students' writing skills rose significantly from pre-test to post-test in one uncontrolled pre-post study of teacher scaffolding within a writing process approach.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -48,7 +48,7 @@ A one-group pre-test/post-test study of 30 second-year EFL students at Koya Univ
 - [Writing Skills](../learner-variables/writing-skills.md) — outcome: measured as an outcome of the instruction studied
 
 ## Related Claims
-- [Scaffolding through the writing process approach met EFL students' needs and improved their writing skill despite persistent difficulty with basic elements such as grammar.](scaffolding-met-needs-despite-grammar-difficulty.md) — possibly the same claim (merge candidate)
+- [EFL students' writing skill rose from pre-test to post-test after scaffolding through the writing process approach in one uncontrolled pre-post study, while most students still had difficulty with basic elements such as grammar.](scaffolding-met-needs-despite-grammar-difficulty.md) — possibly the same claim (merge candidate)
 - [Writing performance improved significantly from pre-test to post-test across the writing-instruction groups](pretest-posttest-writing-gain-significant.md) — a broader claim this one bears on
 - [Students taught with the Process Approach improved significantly from pre-test to post-test on all essay-writing variables](process-approach-pre-post-gains-experimental.md) — related
 - [Sixth-grade EFL students taught through multiple intelligences activities showed a statistically significant pre-test to post-test improvement in essay writing scores](mi-activities-significant-within-group-writing-gain.md) — related

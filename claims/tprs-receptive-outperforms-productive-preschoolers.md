@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Receptive vocabulary learning benefits from TPRS instruction more than productive learning in very young learners
-description: Receptive vocabulary learning benefits from TPRS instruction more than productive learning in very young learners
+title: Receptive test means were higher than productive test means on immediate and delayed administrations during TPRS instruction among very young learners, in a single-group pre-post study with no comparison group
+description: Receptive test means were higher than productive test means on immediate and delayed administrations during TPRS instruction among very young learners, in a single-group pre-post study with no comparison group
 id: tprs-receptive-outperforms-productive-preschoolers
 status: review
 generated:
@@ -21,7 +21,7 @@ sources:
     rigour: 1
 ---
 
-# Receptive vocabulary learning benefits from TPRS instruction more than productive learning in very young learners
+# Receptive test means were higher than productive test means on immediate and delayed administrations during TPRS instruction among very young learners, in a single-group pre-post study with no comparison group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -51,4 +51,4 @@ Comparison of receptive and productive means in Table 1 across all five weekly c
 
 ## Related Claims
 - [Four-year-olds taught L2 vocabulary with TPRS largely retained it on delayed posttests two weeks later, in a single-group study with no control group](tprs-long-term-vocabulary-retention-preschoolers.md) — related
-- [TPRS treatment produces a short-term effect on very young learners' receptive and productive L2 vocabulary, with immediate posttest means higher than pretests in all weeks](tprs-short-term-vocabulary-gains-preschoolers.md) — related
+- [In one single-group pre-post study of TPRS with very young learners, immediate posttest means for receptive and productive L2 vocabulary were higher than pretest means in all weeks](tprs-short-term-vocabulary-gains-preschoolers.md) — related

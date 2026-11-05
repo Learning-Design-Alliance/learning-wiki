@@ -47,7 +47,7 @@ The intervention used activities based on Rational Emotive Behavior Therapy (Ver
 - [The main effect of character education program on self-esteem was non-significant compared to traditional instruction](../claims/character-education-main-effect-non-significant.md) [~W]
 - [The gap in self-esteem between intellectually able and less able students narrowed after character education](../claims/character-education-narrowed-ability-gap-self-esteem.md) [+W]
 - [Character education activities improved self-esteem of intellectually less able students but decreased self-esteem of intellectually able students](../claims/character-education-self-esteem-ability-groups-kuwait.md) [~W]
-- [The traditional instructional program was associated with a decrease in self-esteem for intellectually less able students](../claims/traditional-instruction-self-esteem-decline-less-able.md) [-W]
+- [Self-rated self-esteem among intellectually less able students fell from pre-test to post-test in one single-group pre-post study of the traditional instructional program](../claims/traditional-instruction-self-esteem-decline-less-able.md) [-W]
 
 ## Related Strategies
 - 

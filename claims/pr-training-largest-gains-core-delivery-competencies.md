@@ -48,7 +48,7 @@ Authors' interpretation of the Likert data from the pre-post cohort, identifying
 - [Physical Well-Being](../learner-variables/physical-wellbeing.md) — outcome: measured as an outcome of the instruction studied
 
 ## Related Claims
-- [A short pulmonary rehabilitation training program significantly improved knowledge scores in primary care physiotherapists and AEPs](pr-training-improves-knowledge-primary-care-clinicians.md) — related
+- [Knowledge scores rose significantly from pre-training to post-training after a short pulmonary rehabilitation training program among primary care physiotherapists and AEPs, in a single-group pre-post study](pr-training-improves-knowledge-primary-care-clinicians.md) — related
 - [Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months](pr-training-self-rated-gains-sustained-3-months.md) — a broader claim this one bears on
-- [Spirometry was the lowest-rated domain at baseline and remained lowest after training despite improvement](spirometry-lowest-rated-domain-pr-training.md) — related
-- [Most participants met the 80% knowledge competency threshold and 94% met practical competencies only after training](pr-training-competency-threshold-attainment.md) — related
+- [Spirometry was the lowest-rated domain at baseline and remained lowest post-training; self-rated knowledge, skills, and confidence rose from baseline to post-training in one single-group pre-post study](spirometry-lowest-rated-domain-pr-training.md) — related
+- [The proportion of participants meeting the 80% knowledge competency threshold rose from 18% pre-training to 82% post-training, and 94% met practical competencies after training, in one uncontrolled pre-post study](pr-training-competency-threshold-attainment.md) — related

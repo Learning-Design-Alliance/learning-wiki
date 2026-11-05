@@ -48,5 +48,5 @@ Initial repeated-measure MANCOVA controlling for gender and ethnicity found all 
 - [Engineering students' course learning motivation increased significantly after using the IGLU web-based modules, cross-validated across two samples](iglu-modules-increase-engineering-student-motivation.md) — related
 - [Exam Playbook benefits were larger for female users and for first-generation students, reducing achievement gaps](exam-playbook-moderation-demographic-benefits.md) — related
 - [Mastery orientation, value, belonging, self-efficacy, and SRL show small demographic differences by gender, ethnicity, and grade](demographic-correlates-identity-motivation.md) — reports the opposite
-- [The omnibus multivariate within-subject effect of the IGLU intervention on combined motivation and knowledge scores was significant in both samples](iglu-omnibus-mancova-effect.md) — related
+- [Combined motivation and knowledge scores differed significantly from pre-test to post-test in both samples, in one group with no comparison group after the IGLU intervention](iglu-omnibus-mancova-effect.md) — related
 - [Age and gender showed no significant effects on performance in the sample, though the authors call for exploration of their combined effect with a larger sample](age-gender-no-significant-effects-infant-sample.md) — related

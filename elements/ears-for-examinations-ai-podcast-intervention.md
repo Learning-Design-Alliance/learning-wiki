@@ -38,7 +38,7 @@ A series of six AI-generated, faculty-validated revision podcasts, each an 8–1
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [AI-generated revision podcasts produce statistically significant immediate learning gains in medical students at both study centres](../claims/ai-revision-podcasts-immediate-learning-gains-medical-students.md) [+W]
+- [Medical students' MCQ scores rose significantly from pre-test to immediate post-test at both study centres after AI-generated revision podcasts, in a one-group pre-post study](../claims/ai-revision-podcasts-immediate-learning-gains-medical-students.md) [+W]
 - [Learners valued AI revision podcasts for portability and 'dead time' use but identified absent pauses and AI voice monotony as design barriers](../claims/podcast-design-barriers-pauses-voice-monotony.md) [+W]
 - [Higher episode completion (>50%) is independently associated with greater learning gain, and the centre effect on gain is mediated by engagement](../claims/podcast-dose-response-learning-gain.md) [+W]
 - [Podcast gains extend beyond recall to higher-order application and analysis items at both centres](../claims/podcast-gains-higher-order-domains.md) [+W]

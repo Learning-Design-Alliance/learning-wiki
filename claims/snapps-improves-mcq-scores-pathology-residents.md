@@ -1,7 +1,7 @@
 ---
 type: claim
-title: SNAPPS-based case presentation improves post-test MCQ scores across all three pathology residency years
-description: SNAPPS-based case presentation improves post-test MCQ scores across all three pathology residency years
+title: Post-test MCQ scores rose from pre-test to post-test across all three pathology residency years in one single-group pre-post study of SNAPPS-based case presentation
+description: Post-test MCQ scores rose from pre-test to post-test across all three pathology residency years in one single-group pre-post study of SNAPPS-based case presentation
 id: snapps-improves-mcq-scores-pathology-residents
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# SNAPPS-based case presentation improves post-test MCQ scores across all three pathology residency years
+# Post-test MCQ scores rose from pre-test to post-test across all three pathology residency years in one single-group pre-post study of SNAPPS-based case presentation
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -47,6 +47,6 @@ Pre/post comparison within a single-centre study of 35 pathology residents using
 
 ## Related Claims
 - [Third-year residents showed the greatest MCQ learning gains under SNAPPS (p < 0.0001)](snapps-greatest-gains-third-year-residents.md) — related
-- [Probing the preceptor showed one of the largest behavioural changes, with residents actively asking questions after SNAPPS](snapps-probe-increases-resident-questions.md) — related
+- [Residents' probing-question scores rose from 3 to 4 from before to after SNAPPS, in one uncontrolled pre-post study](snapps-probe-increases-resident-questions.md) — related
 - [SNAPPS checklist scores improved for all six components, with self-directed learning lowest (median 1 to 2)](snapps-checklist-scores-improved-all-components.md) — related
 - [Over 90% of residents responded positively to most feedback items, but about 57% were neutral or negative on time required](snapps-feedback-positive-except-time-burden.md) — related

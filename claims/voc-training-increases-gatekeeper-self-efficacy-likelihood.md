@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Game-based virtual-human role-play training significantly increases faculty self-efficacy and behavioral intent to support student veterans, with sustained gains at 3-month follow-up.
-description: Game-based virtual-human role-play training significantly increases faculty self-efficacy and behavioral intent to support student veterans, with sustained gains at 3-month follow-up.
+title: Faculty self-rated self-efficacy and behavioral intent to support student veterans rose from pretraining to posttraining and 3-month follow-up in one uncontrolled pre-post study of game-based virtual-human role-play training.
+description: Faculty self-rated self-efficacy and behavioral intent to support student veterans rose from pretraining to posttraining and 3-month follow-up in one uncontrolled pre-post study of game-based virtual-human role-play training.
 id: voc-training-increases-gatekeeper-self-efficacy-likelihood
 status: review
 generated:
@@ -29,7 +29,7 @@ sources:
     rigour: 1
 ---
 
-# Game-based virtual-human role-play training significantly increases faculty self-efficacy and behavioral intent to support student veterans, with sustained gains at 3-month follow-up.
+# Faculty self-rated self-efficacy and behavioral intent to support student veterans rose from pretraining to posttraining and 3-month follow-up in one uncontrolled pre-post study of game-based virtual-human role-play training.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
@@ -37,7 +37,7 @@ sources:
 
 ## Subclaims
 `q2 i?` Participants showed statistically significant increases in GBS self-efficacy composite scores from pretraining to posttraining to 3-month follow-up, F(2, 725) = 520.37, p < .01. [→ Cate 2015](#cate-2015)
-`q2 i?` Participants showed statistically significant increases in GBS likelihood (behavioral intent) composite scores across the same three time points, F(2, 742) = 228.0, p < .01. [→ Cate 2015 (2)](#cate-2015-2)
+`q2 i?` Participants' self-rated GBS likelihood (behavioral intent) composite scores showed statistically significant increases across the same three time points, F(2, 742) = 228.0, p < .01. [→ Cate 2015 (2)](#cate-2015-2)
 
 ## Evidence
 
@@ -65,9 +65,9 @@ A repeated-measures ANOVA on the GBS likelihood subscale (two items on a 4-point
 
 
 ## Related Claims
-- [Self-reported gatekeeper behaviors (identifying, approaching, and referring distressed student veterans) trended upward after training but did not reach statistical significance on the composite measure.](voc-training-gatekeeper-behavior-trend.md) — related
+- [Gatekeeper behaviors (identifying, approaching, and referring distressed student veterans) trended upward from before to after training, but did not reach statistical significance on the composite measure, in one uncontrolled pre-post study.](voc-training-gatekeeper-behavior-trend.md) — related
 - [College faculty, staff and administrators rated their preparedness to support student veterans in psychological distress significantly higher after game-based virtual-human role-play training, and still above baseline at 3-month follow-up, in a pre/post study with no control group.](voc-training-increases-gatekeeper-preparedness.md) — related
-- [Game-based virtual-human role-play training significantly increases faculty military cultural competency, with sustained gains at 3-month follow-up.](voc-training-increases-military-cultural-competency.md) — related
+- [Faculty military cultural competency scores rose from pretraining to posttraining and remained higher at 3-month follow-up after game-based virtual-human role-play training, in one uncontrolled pre-post study.](voc-training-increases-military-cultural-competency.md) — related
 - [Over one third of participants reported increased conversations with colleagues about student veterans they were concerned about, suggesting potential institutional-level culture change.](voc-training-increases-collegial-conversations.md) — related
 - [Participants rated the VOC training highly on means efficacy, usefulness, and satisfaction, suggesting strong perceived value of the tool.](voc-training-high-means-efficacy-satisfaction.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related

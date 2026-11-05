@@ -49,4 +49,4 @@ Qualitative open-ended interviews conducted by the researcher after the posttest
 - [Teachers and principals reported satisfaction with READ 180 implementation and positive perceptions of its impacts, while recommending additional professional development](read-180-implementation-satisfaction-and-pd-recommendations.md) — related
 - [Educators reported high satisfaction with Story Friends, but some found repeated listens and scheduling challenging](story-friends-social-validity-teachers.md) — related
 - [Both video and text/image groups reported satisfaction with the materials and activities in class](both-groups-satisfied-with-materials-and-activities.md) — related
-- [95% of experimental-learning participants reached sufficient or high levels of lexical skills and speech abilities by course end](95-percent-sufficient-high-lexical-levels.md) — related
+- [95% of experimental-learning participants showed sufficient or high levels of lexical skills and speech abilities at course end in a one-group pre-test-to-post-test study with no comparison group](95-percent-sufficient-high-lexical-levels.md) — related

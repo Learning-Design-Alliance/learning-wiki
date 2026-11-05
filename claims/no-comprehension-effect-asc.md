@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Goldstein et al. 2016: the intervention came bundled with another change (embedded vocabulary lessons in the same Story Friends intervention) · Goldstein et al. 2016 (2): the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` After controlling for initial differences, there were no significant effects of group or Group × Unit on ASC total score. [→ Goldstein et al. 2016](#goldstein-et-al-2016)

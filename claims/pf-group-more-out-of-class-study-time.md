@@ -45,5 +45,5 @@ Self-reported estimated out-of-class study time collected via the post-treatment
 
 
 ## Related Claims
-- [Both paper-flashcard and digital-flashcard groups made significant productive vocabulary gains over the 12-week treatment](pf-df-significant-pv-gains.md) — related
+- [Productive vocabulary scores rose significantly from pre-test to post-test within both the paper-flashcard and digital-flashcard groups in the 12-week study](pf-df-significant-pv-gains.md) — related
 - [Among the three taught vocabulary learning strategies, oral rehearsal was perceived most useful, followed by association and dropping](vls-perceived-usefulness-oral-rehearsal-highest.md) — related

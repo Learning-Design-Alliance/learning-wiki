@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "A 12-week newspapers-in-science-teaching program significantly improved sixth graders' attitudes toward science"
-description: "A 12-week newspapers-in-science-teaching program significantly improved sixth graders' attitudes toward science"
+title: "Sixth graders' self-rated attitudes toward science rose from pre-test to post-test after a 12-week newspapers-in-science-teaching program, in one uncontrolled pre-post study"
+description: "Sixth graders' self-rated attitudes toward science rose from pre-test to post-test after a 12-week newspapers-in-science-teaching program, in one uncontrolled pre-post study"
 id: newspapers-in-education-improved-attitude-toward-science
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# A 12-week newspapers-in-science-teaching program significantly improved sixth graders' attitudes toward science
+# Sixth graders' self-rated attitudes toward science rose from pre-test to post-test after a 12-week newspapers-in-science-teaching program, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -45,8 +45,8 @@ Paired t-test on the 27-item Attitude toward Science Scale (Cronbach's α = .92)
 
 
 ## Related Claims
-- [A 12-week newspapers-in-science-teaching program significantly improved sixth graders' attitudes toward science reading](newspapers-in-education-improved-science-reading-attitude.md) — related
+- [In one uncontrolled pre-post study, sixth graders' self-reported attitudes toward science reading rose significantly from pre-test to post-test during a 12-week newspapers-in-science-teaching program](newspapers-in-education-improved-science-reading-attitude.md) — related
 - [WebQuest instruction does not significantly change 7th-graders' attitudes towards science compared with classical teaching](webquest-no-gain-attitude-towards-science.md) — related
 - [Including out-of-school learning environments in 6th-grade science instruction produces significantly higher attitudes toward the science course than curriculum-only instruction at posttest](out-of-school-environments-raise-science-attitudes-posttest.md) — related
-- [A 12-week newspapers-in-science-teaching program significantly improved sixth graders' learning attitudes toward newspapers in education](newspapers-in-education-improved-learning-attitude.md) — related
+- [After a 12-week newspapers-in-science-teaching program, sixth graders' self-rated learning attitudes toward newspapers in education scores rose significantly from pre-test to post-test in one single-group pre-post study with no comparison group](newspapers-in-education-improved-learning-attitude.md) — related
 - [Mesnevî Supported Values Education produced significantly higher posttest attitudes towards the five targeted values than normal curriculum instruction in 4th graders](mesnevi-values-education-improves-attitudes.md) — related

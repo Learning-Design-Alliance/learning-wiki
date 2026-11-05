@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Lin 2017: groups were assigned but students were analysed as independent · Lin 2017 (2): the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` The PBL group scored significantly higher than the non-PBL group on the reading comprehension post-test total score (t = 2.206, p < .05). [→ Lin 2017](#lin-2017)

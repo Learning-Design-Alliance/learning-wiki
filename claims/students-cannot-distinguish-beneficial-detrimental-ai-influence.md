@@ -45,5 +45,5 @@ In the pilot study of 185 students, "Pairwise comparisons using Mann-Whitney U t
 
 
 ## Related Claims
-- [AI chatbot access is associated with improved diagnostic accuracy in pre-clerkship medical students](ai-access-improves-diagnostic-accuracy-preclerkship.md) — related
+- [Among pre-clerkship medical students, diagnostic accuracy scores rose for some, fell for others, and did not change for others from before to after AI chatbot access in a single-group pre-post study](ai-access-improves-diagnostic-accuracy-preclerkship.md) — related
 - [Student prompts that omit key pertinent negatives are associated with AI-induced diagnostic errors](prompt-omission-pertinent-negatives-ai-errors.md) — related

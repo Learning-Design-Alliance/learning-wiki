@@ -65,7 +65,7 @@ The same one-way ANOVA run on pretest scores showed no significant difference am
 
 ## Related Claims
 - [Grammar-oriented uptake rates are significantly higher in input-providing and output-prompting feedback classes than in a no-feedback class among young EFL learners](feedback-groups-uptake-exceed-no-feedback-young-efl.md) — related
-- [Young EFL learners receiving input-providing corrective feedback improve significantly in grammar from pretest to immediate and delayed posttests, with gains retained](input-providing-group-significant-gains-over-time.md) — related
+- [Young EFL learners receiving input-providing corrective feedback had significantly higher grammar scores at the immediate and delayed posttests than at pretest, with no significant change between posttests, in one uncontrolled pre-post study](input-providing-group-significant-gains-over-time.md) — related
 - [Uptake rates do not differ significantly between input-providing and output-prompting feedback groups](no-uptake-difference-input-output-groups.md) — related
 - [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) — a broader claim this one bears on
 - [All three groups benefited from the instructional intervention, with both experimental groups benefiting the most](all-groups-benefited-experimental-most.md) — related

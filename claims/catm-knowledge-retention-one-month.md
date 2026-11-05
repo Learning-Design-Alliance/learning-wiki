@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Knowledge retained one month after CATM training, with post-test2 scores exceeding post-test1 in both periods
-description: Knowledge retained one month after CATM training, with post-test2 scores exceeding post-test1 in both periods
+title: Knowledge scores were higher one month after CATM training than immediately after training in one group, in both periods
+description: Knowledge scores were higher one month after CATM training than immediately after training in one group, in both periods
 id: catm-knowledge-retention-one-month
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# Knowledge retained one month after CATM training, with post-test2 scores exceeding post-test1 in both periods
+# Knowledge scores were higher one month after CATM training than immediately after training in one group, in both periods
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Scores one month after training were higher than immediately after training, which the authors read as good knowledge retention. [→ Suleiman 2016](#suleiman-2016)
+`q2 i?` Scores one month after training were higher than immediately after training in one group, in within-group repeated pre-test-to-post-test measurements. [→ Suleiman 2016](#suleiman-2016)
 
 ## Evidence
 

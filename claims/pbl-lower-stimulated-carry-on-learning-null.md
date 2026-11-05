@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2011 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Manaf et al. 2011: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Contrary to expectation, PBL groups scored lower on the item stimulating me to carry on learning (mean 3.82 vs 3.96), a non-significant difference (p=.098). [→ Manaf et al. 2011](#manaf-et-al-2011)

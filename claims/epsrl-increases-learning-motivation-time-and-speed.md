@@ -66,5 +66,5 @@ Mann–Whitney U comparison of months taken to complete the course (students had
 ## Related Claims
 - [Students who use the ePSRL Management System meet the course completion deadline at a significantly higher rate than non-users](epsrl-higher-course-completion-deadline-rate.md) — related
 - [Students who use the ePSRL Management System post more scaffold reflections and self-reflections per month than non-users](epsrl-increases-metacognitive-reflection-posts.md) — related
-- [Using the ePSRL Management System increases postgraduate online students' perceived awareness, understanding and application of self-regulated learning](epsrl-increases-perceived-srl-awareness-understanding-application.md) — related
+- [Postgraduate online students' perceived awareness, understanding and application of self-regulated learning rose from pre-test to post-test after using the ePSRL Management System, in one group with no comparison group](epsrl-increases-perceived-srl-awareness-understanding-application.md) — related
 - [Using the ePSRL Management System shows no significant difference in mean assessment results or mean attempts per quiz between users and non-users](epsrl-no-difference-assessment-results-quiz-attempts.md) — related

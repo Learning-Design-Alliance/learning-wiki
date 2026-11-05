@@ -49,4 +49,4 @@ Delayed posttest scores from Table 1 of the two-group vocabulary study. The auth
 - [Descriptive patterns trend toward the Clicker Group, with higher score variability suggesting clickers may benefit some learners more than others](clicker-group-descriptive-trend-individual-differences.md) — related
 - [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — a broader claim this one bears on
 - [Most individual control-group learners' vocabulary scores declined from post-test to delayed post-test](control-group-individual-sharp-decline-delayed-posttest.md) — related
-- [Some vocabulary items were more challenging to acquire than others, mostly attributable to low frequency, though not always](tprs-item-difficulty-word-frequency.md) — related
+- [Some vocabulary items were more challenging to acquire than others in one single-group pre-post study, and difficulty did not always correspond to frequency](tprs-item-difficulty-word-frequency.md) — related

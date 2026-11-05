@@ -49,7 +49,7 @@ Qualitative discussion of the pair's self-evaluation dimension (3.3 PSE), which 
 
 ## Related Claims
 - [Qualitative process analysis identifies four dimensions possibly influencing positive construction of the tutor's Reading Self-Concept: positive work environment, positive tutor-to-tutee task evaluation, reading aloud with active listening, and metacognitive self-evaluation](four-qualitative-dimensions-tutor-rsc.md) — related
-- [Students developed self-regulation, gaining the ability to monitor problem-solving processes and correct irrelevant strategies, with self-evaluation enabling reflection on their actions](self-regulation-gains-from-self-evaluation-sections.md) — related
+- [Students' self-regulation abilities rose from pre-test to post-test after self-evaluation sections, including monitoring problem-solving processes, correcting irrelevant strategies and reflecting on actions, in one one-group study with no comparison group](self-regulation-gains-from-self-evaluation-sections.md) — related
 - [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](self-monitoring-improves-self-regulation.md) — a broader claim this one bears on
 - [EFL students interviewed after metacognitive strategy training said they had become more self-reliant in monitoring their writing processes and progress](metacognitive-training-increases-writing-self-monitoring.md) — related
 - [Traditional self-report methods face significant limitations in capturing the dynamic nature of SRL](self-report-srl-limitations-dynamic-nature.md) — related

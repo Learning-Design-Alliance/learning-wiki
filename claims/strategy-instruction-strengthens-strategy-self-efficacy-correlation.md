@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Explicit strategy instruction strengthened the correlation between language learning strategy use and English self-efficacy.
-description: Explicit strategy instruction strengthened the correlation between language learning strategy use and English self-efficacy.
+title: The correlation between language learning strategy use and English self-efficacy was larger after explicit strategy instruction than before in one uncontrolled pre-post study.
+description: The correlation between language learning strategy use and English self-efficacy was larger after explicit strategy instruction than before in one uncontrolled pre-post study.
 id: strategy-instruction-strengthens-strategy-self-efficacy-correlation
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 2
 ---
 
-# Explicit strategy instruction strengthened the correlation between language learning strategy use and English self-efficacy.
+# The correlation between language learning strategy use and English self-efficacy was larger after explicit strategy instruction than before in one uncontrolled pre-post study.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large

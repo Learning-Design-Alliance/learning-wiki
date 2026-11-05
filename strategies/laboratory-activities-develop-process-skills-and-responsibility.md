@@ -44,7 +44,7 @@ The article's suggestions section recommends applying teaching approaches that d
 - [The inquiry-based instruction group scored significantly higher than the traditional-approach group on the post-test of laboratory usage self-efficacy](../claims/inquiry-group-higher-post-test-lusps.md) [+W]
 - [The inquiry-based instruction group scored significantly higher than the traditional-approach group on the post-test of scientific process skills](../claims/inquiry-group-higher-post-test-spst.md) [+W]
 - [Inquiry-based instruction significantly improved pre-service science teachers' laboratory usage self-efficacy perceptions from pretest to post-test](../claims/inquiry-instruction-improved-lusps-pre-post.md) [+W]
-- [Inquiry-based instruction significantly improved pre-service science teachers' scientific process skills from pretest to post-test in a university biology laboratory](../claims/inquiry-instruction-improved-preservice-spst-pre-post.md) [+W]
+- [Pre-service science teachers' scientific process skills rose significantly from pretest to post-test within the experimental group during inquiry-based instruction in a university biology laboratory](../claims/inquiry-instruction-improved-preservice-spst-pre-post.md) [+W]
 - [Pre-service science teachers in the inquiry group reported both positive experiences (permanent learning, active research, cooperation) and difficulties (time demands, unreliable resources)](../claims/interview-views-on-inquiry-instruction.md) [+W]
 
 ## Related Strategies

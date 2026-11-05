@@ -47,7 +47,7 @@ In the stratified randomized posttest comparison of 60 third-year TCM undergradu
 ## Related Claims
 - [VR-based acupuncture training was associated with higher practical skills assessment scores than conventional instruction](vr-acupuncture-higher-practical-skills.md) — related
 - [Students in the VR group reported more positive learning experiences than controls across all 11 feedback items](vr-acupuncture-positive-learning-experience.md) — related
-- [VR-based training received significantly higher ratings for learning satisfaction and self-evaluation than conventional training](vr-training-higher-satisfaction-self-evaluation.md) — related
-- [VR-based training received significantly higher ratings for medical safety awareness and radiation protection than conventional training (r=0.856)](vr-training-higher-safety-awareness-ratings.md) — related
+- [In one group measured before and after, learning satisfaction and self-evaluation ratings were significantly higher after VR-based training than after conventional training](vr-training-higher-satisfaction-self-evaluation.md) — related
+- [Students' ratings for medical safety awareness and radiation protection rose significantly from pre-test to post-test after VR-based training in one single-group pre-post study with no comparison group (r=0.856)](vr-training-higher-safety-awareness-ratings.md) — related
 - [Observed group differences likely reflect the combined influence of modality, self-directed structure, feedback format, and instructor involvement, not VR technology alone](vr-acupuncture-confounded-comparison.md) — related
 - [Metaverse-based interactive VR instruction is associated with higher overall anatomy test performance than a conventional 2D online lecture](metaverse-vr-higher-overall-anatomy-test-performance.md) — related

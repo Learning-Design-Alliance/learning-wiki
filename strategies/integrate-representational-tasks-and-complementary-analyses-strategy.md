@@ -40,9 +40,9 @@ The article recommends that science teacher educators "might consider using mult
 
 ## Claims
 
-- [Improvements in classifying the chemical composition of matter were not durable: some participants reverted to their initial inappropriate classifications 17 months later](../claims/chemical-composition-gains-not-durable.md) [-W]
+- [In one uncontrolled pre-post study, inappropriate classifications of the chemical composition of matter rose from n=2 at posttest to n=13 at delayed posttest 17 months later](../claims/chemical-composition-gains-not-durable.md) [-W]
 - [Gains in scientifically appropriate classifications were maintained over 17 months, with no significant difference between posttest and delayed posttest scores](../claims/classification-gains-maintained-17-months.md) [+W]
-- [A multiple-representations instruction significantly increased preservice chemistry teachers' scientifically appropriate classifications of particulate drawings from pretest to posttest](../claims/multiple-representations-instruction-increased-appropriate-classifications.md) [+W]
+- [Preservice chemistry teachers' scientifically appropriate classifications of particulate drawings rose significantly from pretest to posttest after multiple-representations instruction, in one uncontrolled pre-post study](../claims/multiple-representations-instruction-increased-appropriate-classifications.md) [+W]
 - [Classifying the physical composition of matter (pure substance vs. homogeneous vs. heterogeneous mixture) was the most difficult aspect, and confusion between homogeneous and heterogeneous mixtures persisted after instruction](../claims/physical-composition-hardest-aspect-homogeneous-heterogeneous-confusion.md) [-W]
 - [The instruction was most effective for the physical states of matter, shifting justifications from macroscopic to submicroscopic evidence](../claims/physical-states-aspect-most-improved-submicroscopic-justifications.md) [+W]
 

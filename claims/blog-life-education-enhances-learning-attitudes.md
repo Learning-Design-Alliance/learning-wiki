@@ -45,6 +45,6 @@ One-sample t-test analysis of the researchers' 21-item learning attitude scale (
 
 
 ## Related Claims
-- [Blog-assisted life education instruction significantly enhances fifth-grade elementary students' life education values](blog-assisted-life-education-enhances-life-values.md) — related
+- [Fifth-grade elementary students' life phenomenon, harmony between nature and human beings, life meaning and value, and total life education values scores rose significantly from pre-test to post-test after blog-assisted life education instruction, in one single-group pre-post study](blog-assisted-life-education-enhances-life-values.md) — related
 - [Blog-assisted life education instruction significantly enhances students' information literacy and competence and course satisfaction](blog-life-education-enhances-learning-effectiveness.md) — related
 - [Students' attitudes toward life made gradual progress across the ten weekly themes of the course](gradual-attitude-progress-across-weekly-themes.md) — related

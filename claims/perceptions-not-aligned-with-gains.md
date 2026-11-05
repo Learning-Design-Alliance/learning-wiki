@@ -47,4 +47,4 @@ Kruskal–Wallis tests across all five survey items found "no statistically sign
 ## Related Claims
 - [Prior AI education shows no family-wise association with any baseline perception outcome, with at most small effect sizes, under both three-group and two-group codings](prior-ai-education-null-intake-feature.md) — related
 - [Temporal network motif frequencies differ significantly between perception groups, with dyadic motifs characterising divergent-perception teams and triadic motifs aligned teams](temporal-motifs-differ-by-perception-group.md) — related
-- [Peer instruction was associated with a statistically significant short-term improvement in performance scores among first-year osteopathic medical students in a preclinical microbiology session.](pi-improves-short-term-performance-osteopathic-microbiology.md) — related
+- [Performance scores rose significantly from pre-test to post-test after peer instruction, in one uncontrolled pre-post study of first-year osteopathic medical students in a preclinical microbiology session.](pi-improves-short-term-performance-osteopathic-microbiology.md) — related

@@ -45,5 +45,5 @@ One-tailed paired t-tests comparing control children's (n = 27) pre- and posttes
 
 
 ## Related Claims
-- [Spatial training children improved significantly on missing term and multi-digit problems from pretest to posttest](spatial-group-prepost-gains.md) — related
+- [Spatial training children’s scores rose significantly from pretest to posttest on missing term and multi-digit problems, within that group](spatial-group-prepost-gains.md) — related
 - [Spatial training's math effect is concentrated in missing term problems](spatial-training-missing-term-problems.md) — related

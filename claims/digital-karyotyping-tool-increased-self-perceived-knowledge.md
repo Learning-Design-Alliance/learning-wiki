@@ -49,7 +49,7 @@ Pre–post interventional study without control group; about 252 first-year medi
 - [Academic Self-Concept](../learner-variables/academic-self-concept.md) — outcome: measured as an outcome of the instruction studied
 
 ## Related Claims
-- [Students' self-perceived ability to identify chromosomal abnormalities increased significantly after using the tool](digital-karyotyping-tool-increased-confidence-identifying-abnormalities.md) — related
+- [Students' self-perceived ability to identify chromosomal abnormalities rose from pre-test to post-test after using the tool, in one uncontrolled pre-post study](digital-karyotyping-tool-increased-confidence-identifying-abnormalities.md) — related
 - [Most students perceived the tool as useful and would recommend it to other students or universities](high-perceived-utility-and-recommendation-of-karyotyping-tool.md) — related
 - [The tool functioned comparably across small and large class sizes, with similar gains in both cohorts](digital-tool-comparable-across-class-sizes.md) — a broader claim this one bears on
 - [Including normal and abnormal karyotypes together, with explanations after incorrect answers, was rated highly helpful for learning](contrasting-normal-abnormal-karyotypes-rated-helpful.md) — related

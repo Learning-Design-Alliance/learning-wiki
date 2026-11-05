@@ -89,8 +89,8 @@ It is related to [social awareness and relationship skills](social-awareness-and
 - [Experimental-group students improved on all four measured prosocial-tolerance qualities, with the largest gain in courage in upholding position (~20%) and the smallest in independence (~10%)](../claims/eg-gains-four-tolerance-qualities.md) [+M] — instruction changes it
 - [The course produced no measurable increase in civic engagement or political action, and scores on both were low](../claims/sis-course-no-civic-engagement-effect.md) [-M] — instruction changes it
 - [Pre-service teachers required to read critical literature and reflect through guiding questions show greater awareness of the political aspects of language than those who are not](../claims/guided-reflection-critical-literature-raise-politics-of-language-awareness.md) [+M] — instruction changes it
-- [Service-learning participation is associated with a large reduction in dental students' perceived costs of community engagement](../claims/service-learning-perceived-costs-reduction.md) [+M] — measured as an outcome of the instruction studied
-- [Seven of ten CSAS subscales showed no significant pre–post change after service-learning, likely due to a ceiling effect](../claims/seven-csas-subscales-no-change-ceiling.md) [-M] — measured as an outcome of the instruction studied
+- [Dental students' self-rated perceived costs of community engagement showed a large reduction from pre-test to post-test after service-learning participation, in one uncontrolled pre-post study](../claims/service-learning-perceived-costs-reduction.md) [+M] — measured as an outcome of the instruction studied
+- [Seven of ten self-reported CSAS subscale scores showed no significant pre–post change after service-learning in one group with no comparison group](../claims/seven-csas-subscales-no-change-ceiling.md) [-M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Civic Outcomes for Elementary School** (Chi et al., 2006): instruments for civic knowledge, thinking, dispositions and participation in elementary classrooms.

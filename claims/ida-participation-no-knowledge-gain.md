@@ -47,6 +47,6 @@ OLS gain score regressions (Table 4, N = 82 down to 47) with binary IDA contribu
 ## Related Claims
 - [Standardized Language Arts and Mathematics test scores, not GPA, predicted financial knowledge gains from the camp](language-arts-scores-predict-financial-gains.md) — related
 - [An additional 90 minutes of intensive instruction did not produce statistically significant gains in financial knowledge beyond the 11-hour camp](instruction-intensity-no-additional-gain.md) — related
-- [Heckman two-step estimates found no evidence of selection bias in the pretest–posttest gain score regressions based on camp attendance](no-selection-bias-camp-attendance.md) — related
-- [A 1-week financial fitness camp raised financial knowledge of low-income 8th graders by roughly 12 percentage points on a pretest–posttest design](financial-fitness-camp-12-point-gain.md) — related
+- [Heckman two-step estimates found statistically insignificant Mills ratio coefficients in all three specifications in pretest–posttest gain score regressions based on camp attendance, in one group with no comparison group](no-selection-bias-camp-attendance.md) — related
+- [Financial knowledge of low-income 8th graders rose by roughly 12 percentage points from pre-test to post-test after a 1-week financial fitness camp, in one uncontrolled pre-post study](financial-fitness-camp-12-point-gain.md) — related
 - [Parents with high present bias were less likely to enroll their 8th graders in the financial literacy camp](present-bias-reduces-camp-enrollment.md) — related

@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Soon Singh Bikar Singh 2016: groups were assigned but students were analysed as independent · Soon Singh Bikar Singh 2016 (2): the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` The experiment group's mastery goal post-test scores were significantly higher than its pre-test scores, a large sized within-group effect. [→ Soon Singh Bikar Singh 2016](#soon-singh-bikar-singh-2016)

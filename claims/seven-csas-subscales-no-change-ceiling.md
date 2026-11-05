@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Seven of ten CSAS subscales showed no significant pre–post change after service-learning, likely due to a ceiling effect
-description: Seven of ten CSAS subscales showed no significant pre–post change after service-learning, likely due to a ceiling effect
+title: Seven of ten self-reported CSAS subscale scores showed no significant pre–post change after service-learning in one group with no comparison group
+description: Seven of ten self-reported CSAS subscale scores showed no significant pre–post change after service-learning in one group with no comparison group
 id: seven-csas-subscales-no-change-ceiling
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Seven of ten CSAS subscales showed no significant pre–post change after service-learning, likely due to a ceiling effect
+# Seven of ten self-reported CSAS subscale scores showed no significant pre–post change after service-learning in one group with no comparison group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -50,7 +50,7 @@ In the matched pre–post analysis (n = 77), the seven remaining subscales showe
 ## Related Claims
 - [Attitudinal changes after service-learning did not differ significantly by sex or prior community service experience](attitude-change-no-sex-or-experience-differences.md) — related
 - [Service-learning participation is associated with a large increase in dental students' empathy toward community service](service-learning-empathy-increase-dental-students.md) — related
-- [Service-learning participation is associated with a small increase in dental students' norms regarding community service](service-learning-norms-increase-small-effect.md) — related
+- [Dental students' self-reported norms regarding community service rose slightly from pre-test to post-test after service-learning participation, in one single-group pre-post study](service-learning-norms-increase-small-effect.md) — related
 - [Rural seventh-grade mentees receiving cross-age peer mentoring showed a statistically significant increase on the \"Self-in-Future\" connectedness subscale](camp-self-in-future-subscale-significant-increase.md) — reports the opposite
 - [The course produced no measurable increase in civic engagement or political action, and scores on both were low](sis-course-no-civic-engagement-effect.md) — related
 - [Attitude gains were significant in male students but not in female students](csas-gains-males-not-females.md) — related

@@ -47,7 +47,7 @@ Paired t test on procedure durations recorded from video performances of the sam
 ## Related Claims
 - [All 20 enrolled residents completed the full simulation-based mastery learning program for nasolacrimal duct probing](sbml-nasolacrimal-probing-feasibility-completion.md) — related
 - [No significant differences in procedural time or pre- and post-practice rubric scores between participants with and without previous probing experience](sbml-probing-no-experience-difference.md) — related
-- [Consultant paediatric surgeons showed a significant overall reduction in operative time after a 12-week porcine-model laparoscopic training programme](porcine-model-training-reduces-operative-time-consultants.md) — related
+- [Among consultant paediatric surgeons, operative time fell significantly from before to after a 12-week porcine-model laparoscopic training programme in one uncontrolled pre-post study](porcine-model-training-reduces-operative-time-consultants.md) — related
 - [Operative-time reduction after porcine-model training was significant for varicocelectomy and hernia repair but not orchiopexy](procedure-specific-operative-time-reduction.md) — related
 - [Mean anastomosis completion time decreased significantly after training, with significant reductions among second- and third-year residents](anastomosis-completion-time-reduction-pgy2-3.md) — related
 - [Operative time decreased significantly across the learning curve, from 27.1 to 20.4 minutes between phases](operative-time-reduction-thd-anolift.md) — related

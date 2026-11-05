@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q4`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Horner 2018: the intervention came bundled with another change (follow-up technical assistance/coaching after the TIPS workshop) (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q4 i?` At O3, significantly more Immediate Group teams than Waitlist teams documented a reduction in ODRs per 100 students. [→ Horner 2018](#horner-2018)

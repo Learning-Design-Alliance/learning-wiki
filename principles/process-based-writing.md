@@ -175,7 +175,7 @@ Better drafts with help, better final versions, better unaided writing on the ne
 - [EDIT Strategy effects persist at 12 weeks for total, spelling, and punctuation errors, with a non-significant substance difference](../claims/edit-strategy-maintenance-12-weeks.md) [+W]
 - [Editing-only intervention did not significantly differ from control except a trend on the editing task, and no group differences emerged on the writing sample](../claims/editing-only-null-versus-control-and-writing-null.md) [-W]
 - [Writer's Workshop with sharing shifted first-grade ELL students' writing attitudes from mechanics-focused to strategies-focused](../claims/writers-workshop-writing-attitudes-ell.md) [~W]
-- [The writing workshop program significantly improves the process writing component](../claims/writing-workshop-improves-process-writing-component.md) [+W]
+- [Process writing component scores rose from pre-test to post-test after the writing workshop program, in one uncontrolled pre-post study](../claims/writing-workshop-improves-process-writing-component.md) [+W]
 
 ## Related Principles
 - [Journaling](journaling.md) — journaling can provide low-stakes writing practice and reflection that feeds larger writing tasks.

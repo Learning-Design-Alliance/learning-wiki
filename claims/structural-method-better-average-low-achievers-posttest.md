@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
 > **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Malik Behlol & Mohammad Munir Kaini 2011: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` Average achievers in the structural group (M = 73.16) scored significantly higher than average achievers in the contextual group (M = 57.16), t(22) = 7.17, p = .000. [→ Malik Behlol & Mohammad Munir Kaini 2011](#malik-behlol-mohammad-munir-kaini-2011)

@@ -48,6 +48,6 @@ Exploratory correlation analysis within the intervention cohort relating end-of-
 ## Related Claims
 - [AI scores correlated significantly with Mini-CEX scores (r = 0.579, p < 0.001)](ai-scores-correlate-minicex-r-0579.md) — related
 - [AI-assisted peer teaching improves OSCE performance, with the largest effect on clinical reasoning](ai-assisted-peer-teaching-osce-clinical-reasoning.md) — related
-- [Workplace-based assessment improved after the curriculum: mini-CEX and FCB-CHOPS scores increased, while 360-degree overall score did not change significantly](wba-mini-cex-fcb-chops-improved-360-null.md) — related
+- [Within the intervention cohort, workplace-based assessment mini-CEX and FCB-CHOPS scores rose from pre-test to post-test after the curriculum, while 360-degree overall score did not change significantly](wba-mini-cex-fcb-chops-improved-360-null.md) — related
 - [Integrated model improves all seven Mini-CEX domains, largest gain in physical examination](microskills-cptm-minicex-all-domains.md) — related
 - [A specialty-specific OSCE plus WBA curriculum raised end-of-rotation OSCE total scores versus historical controls in radiation oncology postgraduates](specialty-osce-wba-curriculum-higher-osce-total.md) — related

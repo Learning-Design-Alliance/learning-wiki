@@ -49,6 +49,6 @@ Item-level analysis of student work on a 10-item descriptive test found Question
 - [Student performance on the exploration aspect of mathematical critical thinking is the weakest across both ILSC and conventional learning groups](exploration-aspect-weakest-mcta-indicator.md) — related
 - [Relative to traditional PBL, the AI-IVE-PBL model improves vocational students' design ability and creative ability](ai-ive-pbl-improves-design-creativity.md) — related
 - [The Aptitude Treatment Interaction model has a significant effect on students' mathematical creative thinking abilities compared to the Problem Based Learning model](ati-outperforms-pbl-math-creative-thinking.md) — related
-- [The article reports that PBL raised the average creative thinking ability of its participants above the control class](pbl-above-control-creative-thinking.md) — related
+- [The article reports that PBL raised average creative thinking ability above a class taught with the ATI model, which it calls the control class](pbl-above-control-creative-thinking.md) — related
 - [Descriptive scores for mathematical creative thinking ability were higher in the ATI class (mean 87.07) than in the PBL class (mean 77.18)](ati-pbl-descriptive-creative-thinking-scores.md) — related
 - [Students taught with the Numbered Heads Together model show greater improvement in mathematical creative thinking ability than students taught with conventional learning](nht-improves-mathematical-creative-thinking.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Physical examination and medical record writing scores did not improve significantly after the VP program (d = 0.28 and d = 0.26)
-description: Physical examination and medical record writing scores did not improve significantly after the VP program (d = 0.28 and d = 0.26)
+title: Physical examination and medical record writing scores did not change significantly from pre-test to post-test in one single-group pre-post study with no comparison group (d = 0.28 and d = 0.26)
+description: Physical examination and medical record writing scores did not change significantly from pre-test to post-test in one single-group pre-post study with no comparison group (d = 0.28 and d = 0.26)
 id: vp-training-no-gain-physical-exam-documentation
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Physical examination and medical record writing scores did not improve significantly after the VP program (d = 0.28 and d = 0.26)
+# Physical examination and medical record writing scores did not change significantly from pre-test to post-test in one single-group pre-post study with no comparison group (d = 0.28 and d = 0.26)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

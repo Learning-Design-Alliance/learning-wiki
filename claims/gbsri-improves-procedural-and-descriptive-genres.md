@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Both procedural and descriptive writing scores improved significantly after GBSRI
-description: Both procedural and descriptive writing scores improved significantly after GBSRI
+title: Both procedural and descriptive writing scores rose significantly from pre-test to post-test in one group with no comparison group after GBSRI
+description: Both procedural and descriptive writing scores rose significantly from pre-test to post-test in one group with no comparison group after GBSRI
 id: gbsri-improves-procedural-and-descriptive-genres
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Both procedural and descriptive writing scores improved significantly after GBSRI
+# Both procedural and descriptive writing scores rose significantly from pre-test to post-test in one group with no comparison group after GBSRI
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

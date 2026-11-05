@@ -26,6 +26,8 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 > **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Mohaidat 2018: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i2` After controlling for the pretest, the experimental group taught with electronic mind maps scored significantly higher on the reading comprehension posttest than the control group taught by the traditional method. [→ Mohaidat 2018](#mohaidat-2018)

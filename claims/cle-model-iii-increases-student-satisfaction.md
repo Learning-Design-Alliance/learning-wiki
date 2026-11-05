@@ -46,5 +46,5 @@ A one-sample t-test on a 5-point Likert satisfaction questionnaire (reliability 
 
 ## Related Claims
 - [CLE Model III instruction significantly improves English creative writing ability in eleventh-grade Thai students](cle-model-iii-improves-creative-writing.md) — related
-- [CLE Model III instruction significantly improves English reading ability in eleventh-grade Thai students](cle-model-iii-improves-reading-ability.md) — related
+- [English reading ability scores rose significantly from pre-test to post-test in one uncontrolled pre-post study of eleventh-grade Thai students after CLE Model III instruction](cle-model-iii-improves-reading-ability.md) — related
 - [A replicated grade-11 study of CLE model III used a one-experimental-group time-series design with MANOVA repeated measures, reporting significant development in reading and creative writing at the .001 level](cle-model-3-grade-11-time-series.md) — possibly the same claim (merge candidate)

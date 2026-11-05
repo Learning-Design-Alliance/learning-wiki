@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Ceylan ŞEN 2016: no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q1 i?` Participants described inquiry-based laboratory work as more fun, more active, and producing more permanent learning, but also tiring and time-consuming with difficulty accessing reliable resources. [→ Ceylan ŞEN 2016](#ceylan-sen-2016)
@@ -49,7 +50,7 @@ Semi-structured interviews with all 12 experimental-group participants in week 1
 
 ## Related Claims
 - [Inquiry-based instruction significantly improved pre-service science teachers' laboratory usage self-efficacy perceptions from pretest to post-test](inquiry-instruction-improved-lusps-pre-post.md) — related
-- [Inquiry-based instruction significantly improved pre-service science teachers' scientific process skills from pretest to post-test in a university biology laboratory](inquiry-instruction-improved-preservice-spst-pre-post.md) — related
+- [Pre-service science teachers' scientific process skills rose significantly from pretest to post-test within the experimental group during inquiry-based instruction in a university biology laboratory](inquiry-instruction-improved-preservice-spst-pre-post.md) — related
 - [Role rotation created opportunities for perspective-taking and collaborative accountability, but also produced difficulty adapting to unfamiliar roles and uneven participation](role-rotation-perspective-taking-and-challenges.md) — related
 - [The inquiry-based instruction group scored significantly higher than the traditional-approach group on the post-test of laboratory usage self-efficacy](inquiry-group-higher-post-test-lusps.md) — related
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related

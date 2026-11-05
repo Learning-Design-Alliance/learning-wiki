@@ -49,4 +49,4 @@ Open-ended questionnaire responses collected after the experiment from the three
 - [Students expressed positive overall opinions of GBSRI, rating Independent Practicing highest and Post-writing lowest](gbsri-positive-student-opinions-stage-ratings.md) — related
 - [Approximately 80% of voluntary TPS-group students expressed positive opinions of the strategy, citing improved understanding, participation, confidence and attitude](tps-student-opinions-mostly-positive.md) — related
 - [Students with SLD express positive opinions about science concept instruction based on the keyword strategy](positive-social-validity-keyword-strategy.md) — related
-- [Teachers increased their frequency of English language use in class after CLE training with reciprocal peer teaching](cle-peer-teaching-teacher-english-use-increased.md) — related
+- [Teachers' frequency of English language use in class rose from pre-experiment to post-experiment 1 and 2 intervals after CLE training with reciprocal peer teaching, in one uncontrolled pre-post study](cle-peer-teaching-teacher-english-use-increased.md) — related

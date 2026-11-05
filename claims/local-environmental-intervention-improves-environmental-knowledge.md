@@ -47,4 +47,4 @@ Quasi-experimental intervention with three experimental groups (61 students) and
 ## Related Claims
 - [The context-based instructional design produced higher post-test cognitive achievement than the existing curriculum when prior readiness was controlled](context-based-ecosystem-design-higher-achievement.md) — related
 - [Private middle school students significantly outperformed the three public middle schools on the environmental knowledge test, with no significant difference among the public schools](private-school-outperforms-public-schools-knowledge-test.md) — related
-- [Blog activities significantly improved students’ environmental knowledge](blog-activities-improve-environmental-knowledge.md) — related
+- [Students’ environmental knowledge scores rose significantly from pre-test to post-test after eight weeks of blog activities, in one uncontrolled pre-post study](blog-activities-improve-environmental-knowledge.md) — related

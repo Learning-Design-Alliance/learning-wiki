@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Çelik Korkmaz 2018: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q1 i?` Multisensory materials and activities increased pupils' willingness and desire to be actively involved in stimulating activities. [→ Çelik Korkmaz 2018](#celik-korkmaz-2018)

@@ -46,7 +46,7 @@ The HTKS, described as a validated measure of young children's behavioral self-r
 
 ## Related Claims
 - [The ISI intervention shows no main effect on first graders' self-regulation gains from fall to spring](isi-no-main-effect-self-regulation-gains.md) — related
-- [Fall self-regulation (HTKS) scores predict spring literacy gains in first grade](fall-htks-predicts-literacy-gains.md) — related
+- [In first grade, students with lower fall self-regulation (HTKS) scores demonstrated weaker literacy skill gains by spring](fall-htks-predicts-literacy-gains.md) — related
 - [HTKS scores show validity evidence for first graders, associating with teacher-rated social skills and problem behavior](htks-validity-first-graders.md) — related
 - [For first graders with weak initial self-regulation, ISI is associated with greater self-regulation gains, increasing with teachers' A2i use](isi-greater-gains-weak-initial-self-regulation.md) — reports the opposite
 - [Children in the PBS KIDS Transmedia Math Supplement condition scored significantly higher on the Supplement-based Assessment than children in the Business as Usual condition](transmedia-math-supplement-sba-beats-business-as-usual.md) — related

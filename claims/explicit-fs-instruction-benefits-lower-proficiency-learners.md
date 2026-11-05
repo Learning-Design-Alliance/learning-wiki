@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Lower-proficiency learners caught up with higher-proficiency peers on FS test performance after explicit instruction.
-description: Lower-proficiency learners caught up with higher-proficiency peers on FS test performance after explicit instruction.
+title: The mean FS test score gap between lower- and higher-proficiency learners narrowed from pre-test to post-test and delayed post-test after explicit instruction, in one uncontrolled pre-post study.
+description: The mean FS test score gap between lower- and higher-proficiency learners narrowed from pre-test to post-test and delayed post-test after explicit instruction, in one uncontrolled pre-post study.
 id: explicit-fs-instruction-benefits-lower-proficiency-learners
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Lower-proficiency learners caught up with higher-proficiency peers on FS test performance after explicit instruction.
+# The mean FS test score gap between lower- and higher-proficiency learners narrowed from pre-test to post-test and delayed post-test after explicit instruction, in one uncontrolled pre-post study.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

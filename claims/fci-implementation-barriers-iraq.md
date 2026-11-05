@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Ramyar O. Qader and Fadime Yalcin Arslan 2019: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Interviewees named slow internet connection (N=7), video quality (N=6), unawareness of using technology (N=4), and social factors (N=3) as drawbacks of FCI. [→ Ramyar O. Qader and Fadime Yalcin Arslan 2019](#ramyar-o-qader-and-fadime-yalcin-arslan-2019)

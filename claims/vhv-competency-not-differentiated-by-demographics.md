@@ -45,7 +45,7 @@ Chi-square analyses of Phase 1 survey data dichotomised competency into high (n 
 
 
 ## Related Claims
-- [SMART VHV Plus Model training was associated with a statistically significant competency gain from 86.14% to 98.16% (Cohen's d = 1.96)](smart-vhv-plus-model-significant-competency-gain.md) — related
+- [Competency scores rose significantly from 86.14% to 98.16% after SMART VHV Plus Model training, in one uncontrolled pre-post study (Cohen's d = 1.96)](smart-vhv-plus-model-significant-competency-gain.md) — related
 - [Baseline self-reported competency among 416 VHVs was high overall, with practices strongest and knowledge weakest](vhv-baseline-competency-high-with-knowledge-weakest.md) — related
 - [Univariate analyses show core competency total scores differ by sex, hospital classification, palliative care working duration, training experience, and recent bereavement.](univariate-competency-differences-demographics.md) — related
 - [In the adjusted model, intermediate professional title is positively associated with the high-level profile while short nursing tenure is negatively associated with it](title-and-tenure-associations-high-level-profile.md) — related

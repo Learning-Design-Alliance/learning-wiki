@@ -47,7 +47,7 @@ Comparison of pre-test and post-test means reported in Table 1 for both groups o
 ## Related Claims
 - [High school students using the Every Circuit virtual module scored higher on the post-quiz than the paper-based control group after starting with nearly identical pre-quiz scores](every-circuit-post-quiz-outperformed-control.md) — related
 - [Within the experimental group, the modeling based science education program was followed by a statistically significant increase in critical thinking scores from pre-test to post-test](mbsep-experimental-group-prepost-gain.md) — related
-- [Both procedural and descriptive writing scores improved significantly after GBSRI](gbsri-improves-procedural-and-descriptive-genres.md) — related
+- [Both procedural and descriptive writing scores rose significantly from pre-test to post-test in one group with no comparison group after GBSRI](gbsri-improves-procedural-and-descriptive-genres.md) — related
 - [Journal entry practice enhancement activities outperform general vocabulary exercises for learning ESP technical vocabulary](journal-entry-practice-outperforms-vocabulary-exercises.md) — related
 - [Descriptive means moved in opposite directions: the treatment group's critical thinking disposition mean rose while the control group's fell](ctd-means-opposite-directions.md) — related
 - [Measured climate science knowledge significantly decreased pre- to post-intervention in all three groups, including controls](climate-knowledge-decreased-all-groups.md) — related

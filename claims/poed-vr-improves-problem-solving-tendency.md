@@ -53,4 +53,4 @@ One-way ANCOVA on a 5-point Likert problem-solving tendency questionnaire adapte
 - [The POED-based VR approach improved students' metacognition tendency more than the POEE-based VR approach](poed-vr-improves-metacognition-tendency.md) — related
 - [POED diagnostic feedback led students to read supplementary materials after incorrect answers and then answer correctly, while POEE students repeated errors](poed-diagnostic-feedback-drives-supplementary-material-use.md) — related
 - [AI applications contributed to STEM students' higher-order thinking, including problem-solving, computational thinking, and self-regulated learning](ai-stem-higher-order-thinking-effects.md) — related
-- [GCLA use enhances higher-order thinking skills—critical thinking, problem-solving, and creativity—compared with traditional ChatGPT use](gcla-improves-hots.md) — related
+- [Students using GCLA rated their higher-order thinking skills—critical thinking, problem-solving, and creativity—higher than students using traditional ChatGPT](gcla-improves-hots.md) — related

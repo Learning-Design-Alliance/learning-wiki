@@ -24,7 +24,7 @@ A German small-group preschool training programme developed by Krajewski, Niedin
 
 ### Claims
 - [The full MZZ training program significantly improves early mathematical precursor skills in school-entry children at risk, with a large advantage over waiting controls (d = 4.6)](../claims/mzz-training-improves-early-number-competencies-at-risk-children.md) [+M]
-- [A shortened 18-session MZZ program replicated the training effect in the former waiting control group (d = 2.5)](../claims/shortened-mzz-replicates-effect-waiting-controls.md) [+M]
+- [The former waiting control group's scores rose from pre-test to post-test after a shortened 18-session MZZ program, in a pre-post comparison within that group (d = 2.5)](../claims/shortened-mzz-replicates-effect-waiting-controls.md) [+M]
 
 ## Related Products and Programmes
 -

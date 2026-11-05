@@ -98,7 +98,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Specific, difficult goals lead to higher performance than easy or vague "do your best" goals.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [~M] — not yet checked against its sources
 - [Peer instruction produced significantly higher post-test conceptual comprehension scores than traditional lecture in a pre-service teacher methodology course](../claims/peer-instruction-higher-posttest-conceptual-comprehension.md) [+W] — attached 2026-11-03 from Safaa Mohammad Al-Hebaishi (2017), which proposed "Peer instruction lecture sequence: mini-lecture, individual concept-question response, peer discussion, and optional answer revision"; tests this page's relationship.
-- [Peer instruction was associated with a statistically significant short-term improvement in performance scores among first-year osteopathic medical students in a preclinical microbiology session.](../claims/pi-improves-short-term-performance-osteopathic-microbiology.md) [+M] — attached 2026-11-04 from Nepal Hari Prasad et al. (2026), which proposed "Structured peer instruction sequence combining individual polling, peer discussion, re-polling, student explanation, and faculty review."; tests this page's relationship.
+- [Performance scores rose significantly from pre-test to post-test after peer instruction, in one uncontrolled pre-post study of first-year osteopathic medical students in a preclinical microbiology session.](../claims/pi-improves-short-term-performance-osteopathic-microbiology.md) [+M] — attached 2026-11-04 from Nepal Hari Prasad et al. (2026), which proposed "Structured peer instruction sequence combining individual polling, peer discussion, re-polling, student explanation, and faculty review."; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -122,7 +122,7 @@ This pattern is scoped to conceptual questions with a defensible answer. Open-en
 - [Partner confidence does not significantly affect whether learners change their assumption in the face of disagreement](../claims/partner-confidence-no-effect-on-change.md) [~W]
 - [ANCOVA adjusting for pre-test scores showed a significant group effect favouring the peer instruction group on post-test comprehension](../claims/ancova-group-effect-peer-instruction-posttest.md) [+W]
 - [Student perceptions of peer instruction were generally favorable.](../claims/pi-favorable-student-perceptions.md) [+W]
-- [Item-level analysis showed significant improvement on 9 of 10 peer instruction questions after Holm–Bonferroni correction.](../claims/pi-item-level-improvement-nine-of-ten.md) [+W]
+- [Item-level analysis found statistically significant score rises on 9 of 10 peer instruction questions from pre-test to post-test in one group with no comparison group, after Holm–Bonferroni correction.](../claims/pi-item-level-improvement-nine-of-ten.md) [+W]
 
 ## Related Patterns
 - [Think-Pair-Share](think-pair-share.md)

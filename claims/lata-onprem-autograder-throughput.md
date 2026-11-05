@@ -54,4 +54,4 @@ Operational evidence collected by the instructor during the Winter 2026 term in 
 - [A page-by-page, rubric-guided multimodal LLM workflow graded an authentic handwritten exam in about three hours at roughly $100 in token costs, versus about $3,500 in TA time](ai-grading-workflow-feasibility-cost.md) — related
 - [About 400 labeled proofs are sufficient for adequate autograding performance](400-proofs-sufficient-training.md) — related
 - [Automated tool reduces correction time by 43% (raw) and 33% (normalised)](automated-tool-reduces-correction-time-43-percent.md) — related
-- [Implementing the AGLS automated grader reduced grading time and allowed the instructor to require twelve assignments instead of five](agls-reduced-grading-time-more-assignments.md) — related
+- [In one course section with no comparison group, the instructor's grading time fell from before to after AGLS implementation, and the instructor required twelve assignments instead of five.](agls-reduced-grading-time-more-assignments.md) — related

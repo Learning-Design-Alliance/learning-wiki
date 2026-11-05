@@ -43,10 +43,10 @@ Same single-group pretest/posttest study (n = 60); preceptors rated decision-mak
 
 
 ## Related Claims
-- [The clarifying goals and values dimension of clinical decision-making shows the largest improvement after Jeffries-framework simulation](jeffries-simulation-clarifying-goals-values-largest-cdmns-gain.md) — a narrower finding that bears on this claim
+- [The clarifying goals and values dimension of clinical decision-making rose from pre-test to post-test after Jeffries-framework simulation, with the largest gain in one group with no comparison group](jeffries-simulation-clarifying-goals-values-largest-cdmns-gain.md) — a narrower finding that bears on this claim
 - [Total core competence scores of new graduate paediatric surgery nurses rose significantly after Jeffries-framework simulation training, in one uncontrolled pre/post study](jeffries-simulation-improves-core-competence-new-graduate-paediatric-nurses.md) — related
 - [New graduate paediatric surgery nurses show lowest baseline proficiency in critical thinking and research skills](new-graduate-paediatric-nurses-lowest-baseline-critical-thinking.md) — related
-- [Improvements after Jeffries-framework simulation vary across competence dimensions, with no significant change in professional development](jeffries-simulation-dimension-specific-competence-changes.md) — related
+- [Competence dimension scores varied in their pre-test-to-post-test changes after Jeffries-framework simulation, with no significant change in professional development, in one single-group pre-post study](jeffries-simulation-dimension-specific-competence-changes.md) — related
 - [Simulation-based curriculum with deliberate practice improved cognitive knowledge and cardiovascular assessment skills from pre-test to post-test (Jeffries et al. study)](deliberate-practice-harvey-simulation-skills.md) — related
 - [Very high majorities of students rated high-fidelity simulation as enhancing learning, clinical reasoning, decision-making, and value](coffey-hfs-student-ratings.md) — related
 - [Simulation training increased nursing students' confidence in cardiopulmonary physical examination skills more than traditional training (Tawalbeh et al. study)](simulation-confidence-cardiopulmonary-tawalbeh.md) — related

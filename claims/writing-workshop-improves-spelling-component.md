@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The writing workshop program significantly improves spelling skills
-description: The writing workshop program significantly improves spelling skills
+title: Spelling scores rose from pretest to posttest after the writing workshop program among prospective teachers of English in Egypt, in one uncontrolled pre-post study
+description: Spelling scores rose from pretest to posttest after the writing workshop program among prospective teachers of English in Egypt, in one uncontrolled pre-post study
 id: writing-workshop-improves-spelling-component
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# The writing workshop program significantly improves spelling skills
+# Spelling scores rose from pretest to posttest after the writing workshop program among prospective teachers of English in Egypt, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -48,6 +48,6 @@ Component analysis of the same one-group pre-post study (n = 40). Spelling prete
 - [Writing Skills](../learner-variables/writing-skills.md) — outcome: measured as an outcome of the instruction studied
 
 ## Related Claims
-- [A writing workshop-based program significantly improves overall basic writing skills of prospective English teachers](writing-workshop-improves-basic-writing-skills-prospective-teachers.md) — a broader claim this one bears on
-- [The writing workshop program significantly improves the process writing component](writing-workshop-improves-process-writing-component.md) — related
-- [The writing workshop program significantly improves punctuation skills](writing-workshop-improves-punctuation-component.md) — related
+- [Overall basic writing skills test scores rose significantly from pre-test to post-test after a writing workshop-based program, in one uncontrolled pre-post study of prospective English teachers](writing-workshop-improves-basic-writing-skills-prospective-teachers.md) — a broader claim this one bears on
+- [Process writing component scores rose from pre-test to post-test after the writing workshop program, in one uncontrolled pre-post study](writing-workshop-improves-process-writing-component.md) — related
+- [Punctuation scores rose significantly from pre-test to post-test after the writing workshop program, in one uncontrolled pre-post study](writing-workshop-improves-punctuation-component.md) — related

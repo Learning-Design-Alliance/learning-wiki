@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Students' self-perceived ability to identify chromosomal abnormalities increased significantly after using the tool"
-description: "Students' self-perceived ability to identify chromosomal abnormalities increased significantly after using the tool"
+title: "Students' self-perceived ability to identify chromosomal abnormalities rose from pre-test to post-test after using the tool, in one uncontrolled pre-post study"
+description: "Students' self-perceived ability to identify chromosomal abnormalities rose from pre-test to post-test after using the tool, in one uncontrolled pre-post study"
 id: digital-karyotyping-tool-increased-confidence-identifying-abnormalities
 status: review
 generated:
@@ -21,7 +21,7 @@ sources:
     rigour: 1
 ---
 
-# Students' self-perceived ability to identify chromosomal abnormalities increased significantly after using the tool
+# Students' self-perceived ability to identify chromosomal abnormalities rose from pre-test to post-test after using the tool, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

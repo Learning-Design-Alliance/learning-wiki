@@ -24,7 +24,7 @@ A university co-requisite developmental mathematics programme that combines conc
 
 ### Claims
 - [FOCUS Intervention students were significantly less likely to withdraw from College Algebra than a baseline comparison group (OR = 0.22, a large effect)](../claims/focus-intervention-lower-course-withdrawal.md) [+M]
-- [FOCUS Intervention students made a statistically significant increase in THEA mathematics scores from pretest to posttest (d = .61)](../claims/focus-intervention-significant-thea-gains.md) [+M]
+- [FOCUS Intervention students' THEA mathematics scores rose from pretest to posttest in a single-group pre-post study (d = .61)](../claims/focus-intervention-significant-thea-gains.md) [+M]
 
 ## Related Products and Programmes
 -

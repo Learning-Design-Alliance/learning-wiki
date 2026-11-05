@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Students report QR-code-linked demonstration videos improve comprehension and confidence in OSPE techniques
-description: Students report QR-code-linked demonstration videos improve comprehension and confidence in OSPE techniques
+title: Students reported greater comprehension and confidence in OSPE techniques after using QR-code-linked demonstration videos
+description: Students reported greater comprehension and confidence in OSPE techniques after using QR-code-linked demonstration videos
 id: students-report-videos-improve-ospe-comprehension
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Students report QR-code-linked demonstration videos improve comprehension and confidence in OSPE techniques
+# Students reported greater comprehension and confidence in OSPE techniques after using QR-code-linked demonstration videos
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -28,7 +28,7 @@ sources:
 > **Design limits** · Eldhose Anupa 2026: the intervention came bundled with another change (traditional live demonstrations as part of a blended-learning approach) (read from the study by two models, 2026-11-04)
 
 ## Subclaims
-`q2 i?` A majority (96.6%) of students reported the videos improved their comprehension of and confidence in OSPE techniques compared to conventional teaching. [→ Eldhose Anupa 2026](#eldhose-anupa-2026)
+`q2 i?` A majority (96.6%) of students reported greater comprehension of and confidence in OSPE techniques after using QR-code-linked demonstration videos than with conventional teaching. [→ Eldhose Anupa 2026](#eldhose-anupa-2026)
 
 ## Evidence
 
@@ -47,5 +47,5 @@ Feedback collected via a 3-point Likert scale after the posttest in the same pro
 
 ## Related Claims
 - [Blended learning with demonstration videos provides deeper understanding of pharmacology subject matter](blended-videos-deeper-understanding-pharmacology.md) — related
-- [QR-code-linked demonstration videos significantly improve OSPE performance in pharmacology students](qr-code-linked-videos-improve-ospe-performance.md) — related
+- [OSPE scores rose from pre-test to post-test after access to QR-code-linked demonstration videos, in pharmacology students in one uncontrolled pre-post study](qr-code-linked-videos-improve-ospe-performance.md) — related
 - [Blended learning (virtual flipped classroom plus demonstration) achieves higher laboratory OSPE scores than traditional lectures in practical immunohematology training](blended-learning-higher-laboratory-ospe-immunohematology.md) — related

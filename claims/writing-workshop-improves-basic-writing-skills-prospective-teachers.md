@@ -1,7 +1,7 @@
 ---
 type: claim
-title: A writing workshop-based program significantly improves overall basic writing skills of prospective English teachers
-description: A writing workshop-based program significantly improves overall basic writing skills of prospective English teachers
+title: Overall basic writing skills test scores rose significantly from pre-test to post-test after a writing workshop-based program, in one uncontrolled pre-post study of prospective English teachers
+description: Overall basic writing skills test scores rose significantly from pre-test to post-test after a writing workshop-based program, in one uncontrolled pre-post study of prospective English teachers
 id: writing-workshop-improves-basic-writing-skills-prospective-teachers
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# A writing workshop-based program significantly improves overall basic writing skills of prospective English teachers
+# Overall basic writing skills test scores rose significantly from pre-test to post-test after a writing workshop-based program, in one uncontrolled pre-post study of prospective English teachers
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -48,9 +48,9 @@ One-group pre-post quasi-experiment with 40 prospective English teachers taught 
 - [Writing Skills](../learner-variables/writing-skills.md) — outcome: measured as an outcome of the instruction studied
 
 ## Related Claims
-- [The writing workshop program significantly improves punctuation skills](writing-workshop-improves-punctuation-component.md) — a narrower finding that bears on this claim
-- [The writing workshop program significantly improves spelling skills](writing-workshop-improves-spelling-component.md) — a narrower finding that bears on this claim
-- [The writing workshop program significantly improves the process writing component](writing-workshop-improves-process-writing-component.md) — a narrower finding that bears on this claim
-- [MI-based instruction improved overall EFL pre-service teacher speaking performance in a one-group pre-post design](mi-instruction-improves-efl-preservice-speaking-overall.md) — related
-- [MI-based instruction improved oral presentation skills of EFL pre-service teachers](mi-instruction-improves-oral-presentation-skills.md) — related
-- [MI-based instruction improved the making-suggestions subskill of EFL pre-service teachers](mi-instruction-improves-making-suggestions-subskill.md) — related
+- [Punctuation scores rose significantly from pre-test to post-test after the writing workshop program, in one uncontrolled pre-post study](writing-workshop-improves-punctuation-component.md) — a narrower finding that bears on this claim
+- [Spelling scores rose from pretest to posttest after the writing workshop program among prospective teachers of English in Egypt, in one uncontrolled pre-post study](writing-workshop-improves-spelling-component.md) — a narrower finding that bears on this claim
+- [Process writing component scores rose from pre-test to post-test after the writing workshop program, in one uncontrolled pre-post study](writing-workshop-improves-process-writing-component.md) — a narrower finding that bears on this claim
+- [Overall EFL pre-service teacher speaking performance rose from pre-test to post-test after MI-based instruction, in one group with no comparison group](mi-instruction-improves-efl-preservice-speaking-overall.md) — related
+- [Oral presentation skills test scores rose from pre-test to post-test after MI-based instruction among EFL pre-service teachers in a one-group pre-post study without a comparison group](mi-instruction-improves-oral-presentation-skills.md) — related
+- [Making-suggestions subskill scores among EFL pre-service teachers rose from pre-test to post-test after MI-based instruction, in one uncontrolled pre-post study](mi-instruction-improves-making-suggestions-subskill.md) — related

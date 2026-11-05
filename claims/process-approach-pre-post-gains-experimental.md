@@ -55,4 +55,4 @@ Paired t-test comparison of pre-test and post-test scores for the 40 Experimenta
 - [The experimental group's text production improved significantly from pre-test to post-test](experimental-group-pre-post-gain-significant.md) — related
 - [Writing performance improved significantly from pre-test to post-test across the writing-instruction groups](pretest-posttest-writing-gain-significant.md) — related
 - [Online-based writing instruction produces equivalent overall essay performance gains compared to classroom-based instruction for ESL students](online-lms-writing-instruction-equivalent-gains.md) — related
-- [Teacher scaffolding within a writing process approach significantly improved EFL students' self-reported writing skills from pre-test to post-test.](scaffolding-writing-process-improves-efl-writing.md) — related
+- [EFL students' writing skills rose significantly from pre-test to post-test in one uncontrolled pre-post study of teacher scaffolding within a writing process approach.](scaffolding-writing-process-improves-efl-writing.md) — related

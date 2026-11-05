@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Narrow media production lessons increase students' reported thinking about media literacy concepts in daily life"
-description: "Narrow media production lessons increase students' reported thinking about media literacy concepts in daily life"
+title: "Students' self-reported thinking about media literacy concepts in daily life rose from pre-test to post-test after narrow media production lessons, in one uncontrolled pre-post study"
+description: "Students' self-reported thinking about media literacy concepts in daily life rose from pre-test to post-test after narrow media production lessons, in one uncontrolled pre-post study"
 id: media-lessons-increase-everyday-concept-thinking
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Narrow media production lessons increase students' reported thinking about media literacy concepts in daily life
+# Students' self-reported thinking about media literacy concepts in daily life rose from pre-test to post-test after narrow media production lessons, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

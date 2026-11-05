@@ -45,7 +45,7 @@ Quasi-experiment with non-equivalent groups (non-MLM n = 44, MLM n = 33) in a ca
 
 
 ## Related Claims
-- [Both MLM and non-MLM groups using reformed pedagogies demonstrate very large effect sizes on the CSEM, with the MLM group's effect size close to 'huge'](mlm-and-non-mlm-large-csem-effect-sizes.md) — related
+- [CSEM scores rose from pre-test to post-test in both MLM and non-MLM groups using reformed pedagogies; the observed standardized gains were very large, with the MLM group's close to 'huge' (pre-post measurements with no comparison group)](mlm-and-non-mlm-large-csem-effect-sizes.md) — related
 - [The non-MLM group using TIP and JiTT pedagogies had an average normalized gain below the national average for courses not utilizing active engagement pedagogies](non-mlm-group-below-national-average-gain.md) — related
 - [Students completing multimedia learning modules score between 8 and 9% higher on mid-term examinations covering electrostatics and electromagnetism than non-MLM students](mlm-preparation-higher-exam-scores.md) — related
 - [The multimedia learning module advantage over the textbook persists on a retention test administered two weeks after the lessons](mlm-retention-advantage-two-weeks.md) — related

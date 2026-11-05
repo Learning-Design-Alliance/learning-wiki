@@ -42,7 +42,7 @@ This study measured game-based learning outcomes using identical pre- and postte
 - [Anesthesiology residents' anesthetic-drug knowledge scores rose significantly from pretest to posttest around a card-game session, in a single-group study with no control group](../claims/card-game-improves-anesthesiology-resident-pharmacology-knowledge.md) [+W]
 - [Students in the AI-integrated database course showed large, statistically significant pre/post gains on seven identical database assessment questions](../claims/ai-integrated-course-large-prepost-db-gains.md) [+W]
 - [College faculty, staff and administrators rated their preparedness to support student veterans in psychological distress significantly higher after game-based virtual-human role-play training, and still above baseline at 3-month follow-up, in a pre/post study with no control group.](../claims/voc-training-increases-gatekeeper-preparedness.md) [+W]
-- [Game-based virtual-human role-play training significantly increases faculty military cultural competency, with sustained gains at 3-month follow-up.](../claims/voc-training-increases-military-cultural-competency.md) [+W]
+- [Faculty military cultural competency scores rose from pretraining to posttraining and remained higher at 3-month follow-up after game-based virtual-human role-play training, in one uncontrolled pre-post study.](../claims/voc-training-increases-military-cultural-competency.md) [+W]
 
 ## Related Strategies
 

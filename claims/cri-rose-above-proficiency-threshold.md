@@ -45,6 +45,6 @@ Descriptive CRI analysis from the same pre–post study (n = 45), reported in th
 
 
 ## Related Claims
-- [AI-powered simulated patient practice improves clinical reasoning measured by the CRI-HT scale](aisp-cortex-improves-cri-ht-reasoning.md) — related
+- [CRI-HT scores rose from pre-test to post-test after AI-powered simulated patient practice, in one uncontrolled pre-post study](aisp-cortex-improves-cri-ht-reasoning.md) — related
 - [Post-intervention CRI-HT-S responses concentrated in the higher achievement categories, with minimal frequency in the 'criteria not met' category](cri-ht-s-achievement-level-shift.md) — related
 - [Clinical reasoning scores were higher after training than before training in every clinical domain assessed, in one single-group pre-post study with no comparison group](ofc-gains-across-all-clinical-domains.md) — related

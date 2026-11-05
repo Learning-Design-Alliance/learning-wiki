@@ -55,4 +55,4 @@ Same quasi-experiment: both groups retook the 21-item Algebra Success Test four 
 - [The advantage of dual coding elucidation for correct lexical usage persists over a four-week delay](dual-coding-lexical-effects-persist-four-weeks.md) — related
 - [Technology-supported teaching produced higher learning retention four months later, while control-group retention fell below its pre-test level](technology-supported-teaching-higher-retention-four-months.md) — related
 - [The self-study-before-discussion advantage persisted at one-week delayed tests, with lecture-condition scores declining over time while self-study-condition scores remained stable](self-study-discussion-long-term-retention-transfer.md) — related
-- [Pronunciation gains from the Audio Articulation Method persisted at delayed post-test four weeks later](aam-gains-persist-delayed-posttest.md) — related
+- [Pronunciation scores rose from pre-test to delayed post-test four weeks after Audio Articulation Method instruction, in one single-group pre-post study](aam-gains-persist-delayed-posttest.md) — related

@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Akbarzadeh 2014: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i2` The OIF group produced significantly fewer errors per T-Unit than the EF group in revised compositions, with partial eta squared = .63. [→ Akbarzadeh 2014](#akbarzadeh-2014)

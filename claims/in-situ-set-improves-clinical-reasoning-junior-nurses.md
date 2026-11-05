@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Shen Meiyu 2026: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` In a randomised comparison, after training, self-rated clinical reasoning (the 15-item Likert Nurses' Clinical Reasoning Scale) was significantly higher in the intervention group, which had in situ simulation 2-3 times a month on top of routine training, than in the control group, which had once-monthly routine training only. [→ Shen Meiyu 2026](#shen-meiyu-2026)

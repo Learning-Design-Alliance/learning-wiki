@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
 > **Currency** · newest study 2017 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Lee 2017: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i0` Among pictorial-group students, learning style scores correlated nonsignificantly with immediate posttest scores (r = .08) and delayed posttest scores (r = .01). [→ Lee 2017](#lee-2017)

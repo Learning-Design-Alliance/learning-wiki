@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Andi Tenri Ampa 2015: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Posttest listening scores of the experimental group taught with interactive multimedia materials were significantly higher than those of the control group taught with audio materials (t-cal 5.583 > t-table 2.000, df 70). [→ Andi Tenri Ampa 2015](#andi-tenri-ampa-2015)
@@ -60,7 +61,7 @@ Quasi-experimental non-equivalent control group study: 36 students per group, ex
 - [Multimedia modular instruction produces significantly higher speaking-skill post-test scores than traditional method among student-teachers.](multimedia-modular-approach-improves-speaking-skill.md) — related
 - [Audio-only listening instruction produced no statistically significant pre-to-post change in listening comprehension in the control group](audio-only-instruction-no-significant-gain.md) — related
 - [Learners value classroom listening practice and prefer video or equal weighting over audio-only materials](learners-prefer-video-over-audio-materials.md) — related
-- [Integrative teaching techniques improve German speaking-skill learning outcomes in a single-group quasi-experiment](integrative-techniques-improve-german-speaking-outcomes.md) — related
+- [German speaking-skill learning outcomes rose from pre-test to post-test after integrative teaching techniques in a single-group pre-post study with no comparison group](integrative-techniques-improve-german-speaking-outcomes.md) — related
 - [Instructional media teaching produced significantly higher comprehension achievement than conventional teaching among teacher training students](instructional-media-higher-comprehension-achievement.md) — related
 - [Instructional media teaching produced significantly higher lexis formation achievement than conventional teaching among teacher training students](instructional-media-higher-lexis-formation-achievement.md) — related
 - [Audio-only listening test group outperformed video-only group on overall listening comprehension scores](audio-outperforms-video-efl-listening-test.md) — reports the opposite

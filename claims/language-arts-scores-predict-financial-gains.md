@@ -48,6 +48,6 @@ OLS gain score regression (Table 4, column ii, N = 82) controlling for GPA and I
 - [Academic and Critical Literacy](../learner-variables/academic-and-critical-literacy.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [A 1-week financial fitness camp raised financial knowledge of low-income 8th graders by roughly 12 percentage points on a pretest–posttest design](financial-fitness-camp-12-point-gain.md) — related
+- [Financial knowledge of low-income 8th graders rose by roughly 12 percentage points from pre-test to post-test after a 1-week financial fitness camp, in one uncontrolled pre-post study](financial-fitness-camp-12-point-gain.md) — related
 - [IDA participation and contribution level showed no statistically significant effect on financial knowledge gains from camp instruction](ida-participation-no-knowledge-gain.md) — related
 - [An additional 90 minutes of intensive instruction did not produce statistically significant gains in financial knowledge beyond the 11-hour camp](instruction-intensity-no-additional-gain.md) — related

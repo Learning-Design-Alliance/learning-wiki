@@ -1,7 +1,7 @@
 ---
 type: claim
-title: MI-based instruction improved overall EFL pre-service teacher speaking performance in a one-group pre-post design
-description: MI-based instruction improved overall EFL pre-service teacher speaking performance in a one-group pre-post design
+title: Overall EFL pre-service teacher speaking performance rose from pre-test to post-test after MI-based instruction, in one group with no comparison group
+description: Overall EFL pre-service teacher speaking performance rose from pre-test to post-test after MI-based instruction, in one group with no comparison group
 id: mi-instruction-improves-efl-preservice-speaking-overall
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# MI-based instruction improved overall EFL pre-service teacher speaking performance in a one-group pre-post design
+# Overall EFL pre-service teacher speaking performance rose from pre-test to post-test after MI-based instruction, in one group with no comparison group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
@@ -45,13 +45,13 @@ One-group pretest-posttest quasi-experiment with 60 fourth-year prospective teac
 
 
 ## Related Claims
-- [MI-based instruction improved the giving-advice subskill of EFL pre-service teachers](mi-instruction-improves-giving-advice-subskill.md) — a narrower finding that bears on this claim
-- [MI-based instruction improved the making-requests subskill of EFL pre-service teachers](mi-instruction-improves-making-requests-subskill.md) — a narrower finding that bears on this claim
-- [MI-based instruction improved the making-suggestions subskill of EFL pre-service teachers](mi-instruction-improves-making-suggestions-subskill.md) — a narrower finding that bears on this claim
-- [MI-based instruction improved oral presentation skills of EFL pre-service teachers](mi-instruction-improves-oral-presentation-skills.md) — a narrower finding that bears on this claim
+- [Among EFL pre-service teachers, giving-advice scores rose from pre-test to post-test after MI-based instruction in one uncontrolled pre-post study](mi-instruction-improves-giving-advice-subskill.md) — a narrower finding that bears on this claim
+- [Scores on the making-requests subskill rose from pre-test to post-test among EFL pre-service teachers in a single-group pre-post study following MI-based instruction](mi-instruction-improves-making-requests-subskill.md) — a narrower finding that bears on this claim
+- [Making-suggestions subskill scores among EFL pre-service teachers rose from pre-test to post-test after MI-based instruction, in one uncontrolled pre-post study](mi-instruction-improves-making-suggestions-subskill.md) — a narrower finding that bears on this claim
+- [Oral presentation skills test scores rose from pre-test to post-test after MI-based instruction among EFL pre-service teachers in a one-group pre-post study without a comparison group](mi-instruction-improves-oral-presentation-skills.md) — a narrower finding that bears on this claim
 - [At post-test, the multiple intelligences group significantly outperformed the traditionally instructed control group on the writing test](mi-group-outperformed-control-post-test-writing.md) — related
 - [Sixth-grade EFL students taught through multiple intelligences activities showed a statistically significant pre-test to post-test improvement in essay writing scores](mi-activities-significant-within-group-writing-gain.md) — related
-- [Blackboard-based instruction produced statistically significant pre-to-post achievement gains in the EFL teaching methods course for the experimental group](blackboard-instruction-significant-prepost-gains-efl-methods.md) — related
+- [The experimental group showed statistically significant pre-to-post achievement gains in the EFL teaching methods course after Blackboard-based instruction](blackboard-instruction-significant-prepost-gains-efl-methods.md) — related
 - [Elementary EFL learners taught through web-based instruction significantly outperform traditionally taught learners in writing](web-based-instruction-outperforms-traditional-writing.md) — related
-- [Open Discussion Sessions significantly improved Saudi EFL majors' pre-post speaking test scores in favor of post-testing](open-discussion-sessions-significant-speaking-gains.md) — related
-- [A writing workshop-based program significantly improves overall basic writing skills of prospective English teachers](writing-workshop-improves-basic-writing-skills-prospective-teachers.md) — related
+- [Saudi EFL majors' speaking test scores rose from pre-test to post-test after Open Discussion Sessions, in one uncontrolled pre-post study](open-discussion-sessions-significant-speaking-gains.md) — related
+- [Overall basic writing skills test scores rose significantly from pre-test to post-test after a writing workshop-based program, in one uncontrolled pre-post study of prospective English teachers](writing-workshop-improves-basic-writing-skills-prospective-teachers.md) — related

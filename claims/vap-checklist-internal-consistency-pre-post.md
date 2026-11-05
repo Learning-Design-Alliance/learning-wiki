@@ -47,5 +47,5 @@ Internal consistency analysis of the 23-item checklist in the quasi-experiment; 
 
 ## Related Claims
 - [After simulation training, significantly more teams performed several specific VAP prevention skills, including checking physician's order, oral care with chlorhexidine, and checking ventilator circuit filters](item-level-vap-skill-improvements-after-simulation.md) — related
-- [Scenario-based simulation training significantly increases nursing students' VAP prevention skill performance scores in a single-group pretest–posttest study](simulation-training-increases-vap-prevention-skill-performance.md) — related
+- [Nursing students' VAP prevention skill performance scores rose from pretest to posttest after scenario-based simulation training in a single-group pretest–posttest study](simulation-training-increases-vap-prevention-skill-performance.md) — related
 - [Two independent observers showed excellent interrater agreement when assessing nursing students' VAP prevention skill performance in simulation](excellent-interrater-agreement-vap-checklist.md) — related

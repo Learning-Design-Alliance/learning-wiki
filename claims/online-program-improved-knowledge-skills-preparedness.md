@@ -27,7 +27,7 @@ sources:
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` In a quasi-experimental one-group pretest–posttest study of 50 registered emergency nurses, an 8-hour online program produced significant improvements in knowledge, skills, personal preparedness, and total DPET, but scores increased only to a moderate level post-intervention. [→ Delbene Lara 2026](#delbene-lara-2026)
+`q2 i?` In a quasi-experimental one-group pretest–posttest study of 50 registered emergency nurses, knowledge, skills, personal preparedness, and total DPET scores rose significantly from pretest to posttest after an 8-hour online program, but post-intervention scores reached only a moderate level. [→ Delbene Lara 2026](#delbene-lara-2026)
 
 ## Evidence
 
@@ -45,7 +45,7 @@ Quasi-experimental one-group pretest–posttest study (Al‐Qbelat et al. 2022, 
 
 
 ## Related Claims
-- [An active shooter simulation with mass casualty triage improved nursing students' preparedness and triaging skills](active-shooter-simulation-improved-preparedness-triage.md) — related
+- [Nursing students' preparedness and triaging skills scores rose from pre-test to post-test after an active shooter simulation with mass casualty triage, in a one-group pre–post study](active-shooter-simulation-improved-preparedness-triage.md) — related
 - [An immersive cinematic escape room approach improved nurses' disaster preparedness over time compared with traditional teaching](immersive-cinematic-escape-room-improved-preparedness.md) — related
 - [A multimodality simulation disaster education program improved hospital nurses' disaster competencies across outcomes](multimodality-simulation-improved-disaster-competency.md) — related
 - [An online educational program produced slight but non-significant improvements in nurses' familiarity and attitudes toward disaster preparedness](online-program-no-significant-familiarity-attitude-change.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Students showed a large, statistically significant pre-to-post improvement in ability to reason (SMP 2) in the Mindsets program (d ≈ 1.20)
-description: Students showed a large, statistically significant pre-to-post improvement in ability to reason (SMP 2) in the Mindsets program (d ≈ 1.20)
+title: Students showed a large, statistically significant rise in Ability to Reason (SMP 2) scores from pre-test to post-test in one uncontrolled pre-post study of the Mindsets program (d ≈ 1.20)
+description: Students showed a large, statistically significant rise in Ability to Reason (SMP 2) scores from pre-test to post-test in one uncontrolled pre-post study of the Mindsets program (d ≈ 1.20)
 id: mindsets-smp2-pre-post-improvement
 status: review
 generated:
@@ -21,7 +21,7 @@ sources:
     rigour: 1
 ---
 
-# Students showed a large, statistically significant pre-to-post improvement in ability to reason (SMP 2) in the Mindsets program (d ≈ 1.20)
+# Students showed a large, statistically significant rise in Ability to Reason (SMP 2) scores from pre-test to post-test in one uncontrolled pre-post study of the Mindsets program (d ≈ 1.20)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
@@ -52,5 +52,5 @@ Pre–post CLMM on the SMP dataset (889 observations at beginning, 763 at end) w
 ## Related Claims
 - [Students showed a large, statistically significant increase in engagement from pre- to post-intervention in the 5-week Mindsets program (d ≈ 1.11)](mindsets-engagement-pre-post-increase.md) — related
 - [Ability to Reason (SMP 2) benchmark levels improved linearly across all three time points (d ≈ 0.78) with no significant quadratic trend](mindsets-smp2-linear-trend.md) — related
-- [Students showed a large, statistically significant pre-to-post improvement in repeated reasoning (SMP 8) in the Mindsets program (d ≈ 1.19)](mindsets-smp8-pre-post-improvement.md) — related
+- [In one uncontrolled pre-post study, students' Repeated Reasoning (SMP 8) scores rose from pre-test to post-test after the Mindsets program (d ≈ 1.19; statistically significant, large)](mindsets-smp8-pre-post-improvement.md) — related
 - [Repeated Reasoning (SMP 8) benchmark levels improved linearly across all three time points (d ≈ 0.77) with no significant quadratic trend](mindsets-smp8-linear-trend.md) — related

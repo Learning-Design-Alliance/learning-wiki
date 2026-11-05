@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Bradshaw 2018: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` Teachers randomly assigned to coaching had significantly lower rates of office discipline referrals for Black students (IRR = 0.76, p = .015) than non-coached teachers. [→ Bradshaw 2018](#bradshaw-2018)

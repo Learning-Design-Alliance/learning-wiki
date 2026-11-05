@@ -55,7 +55,7 @@ Single-factor repeated-measures ANOVA for the 32 experimental-group students; me
 - [The experimental group showed a significant pretest-to-posttest gain in writing scores](gda-pretest-posttest-gain-experimental.md) — related
 - [In the experimental group, agreement with having no interest in physical education decreased significantly from pretest to posttest.](peer-education-reduced-no-interest-item.md) — related
 - [SRL-based activities reduce lack of self-directedness among teacher candidates](lack-of-self-directedness-decreased.md) — related
-- [Feasibility study shows WHS increases teacher self-efficacy from pre to post](whs-feasibility-self-efficacy-increase.md) — related
+- [Feasibility study found that teachers' self-rated self-efficacy rose from pre-test to post-test after WHS, in one uncontrolled pre-post study](whs-feasibility-self-efficacy-increase.md) — related
 - [Science concept gains from keyword strategy instruction are retained six weeks after instruction ends](keyword-strategy-gains-retained-six-weeks.md) — related
 - [Teachers using We Have Skills! show greater improvement in self-efficacy than control teachers](whs-teacher-self-efficacy-improvement.md) — related
 - [Clinical self-efficacy improves within all training groups but shows no significant between-group differences](clinical-self-efficacy-improves-within-all-groups-no-between-group-difference.md) — related

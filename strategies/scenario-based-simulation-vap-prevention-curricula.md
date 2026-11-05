@@ -40,8 +40,8 @@ Based on their finding that simulation training significantly improved nursing s
 
 - [Two independent observers showed excellent interrater agreement when assessing nursing students' VAP prevention skill performance in simulation](../claims/excellent-interrater-agreement-vap-checklist.md) [+W]
 - [After simulation training, significantly more teams performed several specific VAP prevention skills, including checking physician's order, oral care with chlorhexidine, and checking ventilator circuit filters](../claims/item-level-vap-skill-improvements-after-simulation.md) [+W]
-- [Some VAP prevention skills did not improve significantly after simulation, including head-of-bed elevation, hand hygiene and cuff pressure measurement](../claims/non-significant-vap-skills-after-simulation.md) [~W]
-- [Scenario-based simulation training significantly increases nursing students' VAP prevention skill performance scores in a single-group pretest–posttest study](../claims/simulation-training-increases-vap-prevention-skill-performance.md) [+W]
+- [Some VAP prevention skills did not show statistically significant changes from pre-test to post-test after simulation, in one group with no comparison group, including head-of-bed elevation, hand hygiene and cuff pressure measurement](../claims/non-significant-vap-skills-after-simulation.md) [~W]
+- [Nursing students' VAP prevention skill performance scores rose from pretest to posttest after scenario-based simulation training in a single-group pretest–posttest study](../claims/simulation-training-increases-vap-prevention-skill-performance.md) [+W]
 - [The VAP Prevention Performance Checklist showed acceptable-to-good internal consistency after training but low internal consistency at pretest](../claims/vap-checklist-internal-consistency-pre-post.md) [~W]
 
 ## Related Strategies

@@ -107,6 +107,6 @@ Nothing here says where retention falls off.
 - [Both groups lost a statistically significant number of learnt words between the immediate post-test and the delayed test ten days later](vocabulary-loss-delayed-post-test-both-groups.md) — reports the opposite
 - [Word-recall advantage of musical mnemonic persists across repeated trials including a delayed trial 10 days later](musical-mnemonic-delayed-recall-trial.md) — related
 - [Tatar-school teachers in course groups taught with communicatively developing methods scored higher than control groups on eight oral-speech characteristics, with no sample size or statistical test reported](communicatively-developing-methods-improve-teacher-coherent-speech.md) — related
-- [The present study's significant gains contrast with Brown's (1992) claim that intensive programs are not beneficial for elementary-level learners](findings-contradict-brown-elementary-learners-claim.md) — related
-- [Pronunciation gains from the Audio Articulation Method persisted at delayed post-test four weeks later](aam-gains-persist-delayed-posttest.md) — related
+- [Beginning-level Malaysian secondary school students' language proficiency scores were significantly higher at post-test than pre-test after an intensive English program, in a single-group pre-post study with no comparison group](findings-contradict-brown-elementary-learners-claim.md) — related
+- [Pronunciation scores rose from pre-test to delayed post-test four weeks after Audio Articulation Method instruction, in one single-group pre-post study](aam-gains-persist-delayed-posttest.md) — related
 - [Learning advantages of AI-assisted peer teaching persist at 3-month follow-up](ai-assisted-peer-teaching-retention-3-month.md) — related

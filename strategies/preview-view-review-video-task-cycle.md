@@ -39,7 +39,7 @@ The article operationalizes Willis's task cycle as a three-step lesson routine f
 ## Claims
 
 - [Audio-only listening instruction produced no statistically significant pre-to-post change in listening comprehension in the control group](../claims/audio-only-instruction-no-significant-gain.md) [+W]
-- [Iranian pre-intermediate EFL learners taught with video-based tasks improved significantly in listening comprehension from pre-test to post-test, in a within-group test with no between-group comparison reported](../claims/video-based-tasks-improve-listening-comprehension.md) [+W]
+- [Iranian pre-intermediate EFL learners' listening comprehension scores rose significantly from pre-test to post-test after video-based tasks, in a within-group test with no between-group comparison reported](../claims/video-based-tasks-improve-listening-comprehension.md) [+W]
 
 ## Related Strategies
 

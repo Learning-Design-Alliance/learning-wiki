@@ -1,7 +1,7 @@
 ---
 type: claim
-title: CLE Model III instruction significantly improves English reading ability in eleventh-grade Thai students
-description: CLE Model III instruction significantly improves English reading ability in eleventh-grade Thai students
+title: English reading ability scores rose significantly from pre-test to post-test in one uncontrolled pre-post study of eleventh-grade Thai students after CLE Model III instruction
+description: English reading ability scores rose significantly from pre-test to post-test in one uncontrolled pre-post study of eleventh-grade Thai students after CLE Model III instruction
 id: cle-model-iii-improves-reading-ability
 status: review
 generated:
@@ -21,7 +21,7 @@ sources:
     rigour: 1
 ---
 
-# CLE Model III instruction significantly improves English reading ability in eleventh-grade Thai students
+# English reading ability scores rose significantly from pre-test to post-test in one uncontrolled pre-post study of eleventh-grade Thai students after CLE Model III instruction
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large

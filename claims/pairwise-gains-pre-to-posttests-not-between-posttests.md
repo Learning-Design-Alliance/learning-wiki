@@ -46,5 +46,5 @@ Pairwise Comparison Test (Table 3) following the omnibus ANOVA in the randomized
 
 ## Related Claims
 - [The increase in self-directed learning depends on treatment group, with a greater rate of increase for the PoBL group (group × measurement interaction)](pobl-by-measurement-interaction-self-directed-learning.md) — related
-- [Using the ePSRL Management System increases postgraduate online students' perceived awareness, understanding and application of self-regulated learning](epsrl-increases-perceived-srl-awareness-understanding-application.md) — related
+- [Postgraduate online students' perceived awareness, understanding and application of self-regulated learning rose from pre-test to post-test after using the ePSRL Management System, in one group with no comparison group](epsrl-increases-perceived-srl-awareness-understanding-application.md) — related
 - [Procedural knowledge gained during video training declines significantly from practice to the post-tests](practice-to-posttest-decline-software-video.md) — related

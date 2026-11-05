@@ -23,7 +23,7 @@ A set of original instruments developed by Alharbi et al. to measure EAP educato
 - **Original measurement instruments: Scenario Rubric, Artefact Rubric, and engagement index**: The study developed original instruments to measure educator change across the professional development program. The article states that "Original instruments, including a Scenario Rubric, Artefact Rubric, and engagement index, measured pre- and post-program changes." These instruments operationalised the quantitative strand, and the resulting ratings were described as "supported by high inter-rater reliability." (Alharbi et al. (2026))
 
 ### Claims
-- [A GenAI-integrated professional development program produced significant pre-to-post gains in EAP educators' ethical awareness (d = 0.93) and digital andragogical competence](../claims/genai-pd-significant-ethical-awareness-gains.md) [+M]
+- [EAP educators showed significant pre-to-post gains in ethical awareness (d = 0.93) and digital andragogical competence in a single-group pre-post study with no comparison group after a GenAI-integrated professional development program](../claims/genai-pd-significant-ethical-awareness-gains.md) [+M]
 
 ## Related Products and Programmes
 -

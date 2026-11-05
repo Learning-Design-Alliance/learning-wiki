@@ -46,6 +46,6 @@ Wilcoxon signed-rank pre-post comparison of 28 students. Table 4 also reports in
 
 ## Related Claims
 - [Diagnostic accuracy correlates negatively with total examination time and LPF main object gaze metrics](accuracy-negative-correlation-examination-time-lpf-metrics.md) — related
-- [Training decreases students' time to first fixation on targets, indicating faster target acquisition](training-decreases-time-to-first-fixation-targets.md) — related
+- [Students' time to first fixation on targets fell from pre-test to post-test after a 3-month training program, in one uncontrolled pre-post study](training-decreases-time-to-first-fixation-targets.md) — related
 - [High-accuracy cytotechnologists show shorter examination time, less background dwell, and faster HPF cytoplasm detection than low-accuracy peers](high-accuracy-group-faster-search-patterns.md) — related
 - [Shorter total fixation duration on the low-power field main object is the sole independent predictor of high diagnostic accuracy](lpf-fixation-duration-sole-independent-predictor-accuracy.md) — related

@@ -45,4 +45,4 @@ Weekly game-log analysis of the EG measured advanced game levels at four time po
 
 
 ## Related Claims
-- [Students mastered significantly more game words each successive week of the four-week intervention](mastered-game-words-increase-weekly.md) — related
+- [The number of game words students mastered rose significantly from week 1 to week 4 during the four-week intervention, in one uncontrolled pre-post study](mastered-game-words-increase-weekly.md) — related

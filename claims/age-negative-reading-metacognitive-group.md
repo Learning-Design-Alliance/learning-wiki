@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Mahdiyeh Seyed Beheshti Nasab & Seyyed Fariborz Pishdadi Motlagh 2015: no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i3` Learners' age correlated negatively with reading scores in the metacognitive group (r = -.427, p = .019). [→ Mahdiyeh Seyed Beheshti Nasab & Seyyed Fariborz Pishdadi Motlagh 2015](#mahdiyeh-seyed-beheshti-nasab-seyyed-fariborz-pishdadi-motlagh-2015)

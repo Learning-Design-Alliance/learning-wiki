@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Naeimeh Bakshiri 2011: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` The proactive-over-reactive advantage held at both proficiency levels tested, indicating the effect was not moderated by beginner versus upper-intermediate status. [→ Naeimeh Bakshiri 2011](#naeimeh-bakshiri-2011)

@@ -46,4 +46,4 @@ Secondary outcome in the same randomized trial: script concordance test score de
 
 ## Related Claims
 - [Interactive e-learning yields significantly greater theoretical clinical knowledge gains than passive e-learning in anesthesia residents](interactive-e-learning-beats-passive-knowledge-gains.md) — related
-- [A single-session rule-based DCBL intervention did not produce a statistically significant overall change in SCT-measured antibiotic-stewardship reasoning among MBBS learners](single-session-dcbl-no-significant-overall-sct-change.md) — related
+- [Overall SCT-measured antibiotic-stewardship reasoning scores rose from pre-test to post-test, without a statistically significant change, among MBBS learners after a single-session rule-based DCBL intervention in one uncontrolled pre-post study](single-session-dcbl-no-significant-overall-sct-change.md) — related

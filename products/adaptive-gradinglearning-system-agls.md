@@ -23,7 +23,7 @@ AGLS is a custom-built automated grading system developed by Thomas N. Janicki a
 - **Adaptive Grading/Learning System (AGLS), a custom-built automated grader with rapid personalized feedback, shared assignment libraries, and plagiarism detection**: AGLS is a customized automated grading system developed and implemented in fall 2008 at a regional public university. It "consists of modules that provide automated grading of Microsoft Excel 2007 and Access 2007 assignments with personalized and rapid feedback, assignment libraries that can be shared among participating instructors, and plagiarism detection". It also lets instructors increase exercise complexity without much additional effort, and it supports pre-grading rounds in which comments point to what needs correction rather than giving solutions. (Thomas N. Janicki et al. (2011))
 
 ### Claims
-- [Implementing the AGLS automated grader reduced grading time and allowed the instructor to require twelve assignments instead of five](../claims/agls-reduced-grading-time-more-assignments.md) [+M]
+- [In one course section with no comparison group, the instructor's grading time fell from before to after AGLS implementation, and the instructor required twelve assignments instead of five.](../claims/agls-reduced-grading-time-more-assignments.md) [+M]
 - [Pre-grading/resubmission was associated with a statistically significant learning difference only for the Excel Solver assignment, not for Access or Excel IF assignments](../claims/pre-grading-significant-only-excel-solver.md) [+M]
 
 ## Related Products and Programmes

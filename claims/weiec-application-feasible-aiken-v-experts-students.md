@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Mitra Yadiannur and Supahar 2017: no comparison group · Mitra Yadiannur and Supahar 2017 (2): no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Nine experts judged the WEIEC application feasible, with a mean Aiken's V of 0.80 on both materials and media aspects. [→ Mitra Yadiannur and Supahar 2017](#mitra-yadiannur-and-supahar-2017)

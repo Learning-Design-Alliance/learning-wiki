@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Le-Thi 2017 (2): the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q3 i?` In the experimental groups, low-salience-plus items (appearing in coursebook exercises) did not score higher than low-salience items (meaning-focused input only), while explicitly taught items significantly outperformed both. [→ Le-Thi 2017](#le-thi-2017)

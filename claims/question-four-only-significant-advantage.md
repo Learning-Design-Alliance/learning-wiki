@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Reichert et al. 2015: the intervention came bundled with another change · Reichert et al. 2015 (2): the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` A proportional odds model showed a significant positive treatment effect for Question 4 (coefficient 1.13, p = 0.007, adjusted p = 0.035), while Questions 1–3 were nonsignificant and Question 5 did not warrant a model. [→ Reichert et al. 2015](#reichert-et-al-2015)

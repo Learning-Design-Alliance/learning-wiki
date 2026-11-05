@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Performance feedback significantly improves the overall teaching skills of student teachers working with students with MDVI
-description: Performance feedback significantly improves the overall teaching skills of student teachers working with students with MDVI
+title: Overall teaching skills scores rose from pre-test to post-test after performance feedback, in one uncontrolled pre-post study among student teachers working with students with MDVI
+description: Overall teaching skills scores rose from pre-test to post-test after performance feedback, in one uncontrolled pre-post study among student teachers working with students with MDVI
 id: performance-feedback-improves-teaching-skills-mdvi-student-teachers
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Performance feedback significantly improves the overall teaching skills of student teachers working with students with MDVI
+# Overall teaching skills scores rose from pre-test to post-test after performance feedback, in one uncontrolled pre-post study among student teachers working with students with MDVI
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large

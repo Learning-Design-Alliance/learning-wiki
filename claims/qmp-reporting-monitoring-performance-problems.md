@@ -46,6 +46,6 @@ The authors report that QMP's reporting functionalities, such as the Test Analys
 
 ## Related Claims
 - [Automated formative evaluations via QMP produced no statistically significant reading comprehension improvement compared to printed materials](qmp-automated-formative-evaluations-no-significant-reading-gains.md) — related
-- [Students developed self-regulation, gaining the ability to monitor problem-solving processes and correct irrelevant strategies, with self-evaluation enabling reflection on their actions](self-regulation-gains-from-self-evaluation-sections.md) — related
+- [Students' self-regulation abilities rose from pre-test to post-test after self-evaluation sections, including monitoring problem-solving processes, correcting irrelevant strategies and reflecting on actions, in one one-group study with no comparison group](self-regulation-gains-from-self-evaluation-sections.md) — related
 - [Low-performing students tended to procrastinate more on graded problem-solving exercises and on video watching with formative MCQs](low-performers-procrastinated-exercises-and-videos.md) — related
 - [Students reported positive attitudes toward QMP-based automated formative evaluations](qmp-student-satisfaction-positive-attitudes.md) — related

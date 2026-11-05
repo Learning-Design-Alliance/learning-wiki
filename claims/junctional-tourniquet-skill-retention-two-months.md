@@ -49,4 +49,4 @@ In the same 32-intern single-group study, junctional skill scores (max 12) rose 
 - [Knowledge and self-efficacy scores remained stable, while attitude scores slightly decreased from post-test to two-month follow-up among medical interns in one uncontrolled pre-post study](knowledge-self-efficacy-attitude-retention.md) — related
 - [Three-hour simulation-based tourniquet training significantly improves medical interns' knowledge, skills, attitudes, self-confidence and self-efficacy](simulation-tourniquet-training-improves-intern-outcomes.md) — related
 - [Non-verbal communication gains persisted at a two-month follow-up, with no statistically significant decline from post-test](peer-tutoring-asd-gains-retained-two-month-followup.md) — related
-- [Social skills gains were maintained at follow-up, with no significant post-to-follow-up differences](social-skills-gains-maintained-follow-up.md) — related
+- [Social skills scores did not change from post-test to follow-up in the experimental group, with no statistically significant post-to-follow-up differences](social-skills-gains-maintained-follow-up.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "After open-ended VBA-based learning, students showed gains in independent creation: 31.43% created new ideas without following examples and 20% made animation-based props, up from 8.69% and 60.86% example-dependence"
-description: "After open-ended VBA-based learning, students showed gains in independent creation: 31.43% created new ideas without following examples and 20% made animation-based props, up from 8.69% and 60.86% example-dependence"
+title: "In one uncontrolled pre-post study, after open-ended VBA-based learning, 31.43% of students created new ideas without following examples and 20% made animation-based props, compared with 8.69% and 60.86% before learning"
+description: "In one uncontrolled pre-post study, after open-ended VBA-based learning, 31.43% of students created new ideas without following examples and 20% made animation-based props, compared with 8.69% and 60.86% before learning"
 id: post-learning-creation-gains-vba-open-ended
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# After open-ended VBA-based learning, students showed gains in independent creation: 31.43% created new ideas without following examples and 20% made animation-based props, up from 8.69% and 60.86% example-dependence
+# In one uncontrolled pre-post study, after open-ended VBA-based learning, 31.43% of students created new ideas without following examples and 20% made animation-based props, compared with 8.69% and 60.86% before learning
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

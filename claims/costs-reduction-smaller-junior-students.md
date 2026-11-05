@@ -45,4 +45,4 @@ Subgroup analysis of the costs subscale by academic level (Junior n = 25, Interm
 
 
 ## Related Claims
-- [Service-learning participation is associated with a large reduction in dental students' perceived costs of community engagement](service-learning-perceived-costs-reduction.md) — related
+- [Dental students' self-rated perceived costs of community engagement showed a large reduction from pre-test to post-test after service-learning participation, in one uncontrolled pre-post study](service-learning-perceived-costs-reduction.md) — related

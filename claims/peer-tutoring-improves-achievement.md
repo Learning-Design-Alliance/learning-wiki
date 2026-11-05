@@ -122,7 +122,7 @@ A meta-analysis of 50 independent studies of peer-tutoring programs in mathemati
 - Summary research table reports tutoring impacts of roughly 90 to 222 days of additional learning across five studies — related
 - A recent meta-analysis of 14 types of educational interventions found high-impact tutoring the most effective at improving student achievement — related
 - [Interrupted time series analysis found tutor quality improved gradually over time (β=0.01, p=.022) with no immediate level change or slope change at the training intervention](its-gradual-trend-not-intervention-effect.md) — related
-- [Scenario-based tutor lessons produced a significant pooled 7.4% learning gain, driven by three lessons with established construct validity while three newer lessons showed no significant gains](scenario-lessons-pooled-74-percent-gain.md) — a narrower finding that bears on this claim
+- [In one single-group pretest-posttest study with no comparison group, tutors' pooled scores rose by a significant 7.4% after scenario-based tutor lessons; three lessons with established construct validity showed gains, while three newer lessons showed no significant gains](scenario-lessons-pooled-74-percent-gain.md) — a narrower finding that bears on this claim
 - [Social learning theory](../theories/social-learning-theory.md) — social accountability and modeling explain tutor-side motivation gains
 - [Constructivism](../theories/constructivism.md) — knowledge consolidation through explanation and use
 - [Cognitive apprenticeship](../theories/cognitive-apprenticeship.md) — modeling, coaching, and fading map onto the tutor's role progression

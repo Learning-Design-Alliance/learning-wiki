@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Third-grade students improved in modeling, strategy, and application with effect sizes of 3.40, 3.44, and 3.00 respectively
-description: Third-grade students improved in modeling, strategy, and application with effect sizes of 3.40, 3.44, and 3.00 respectively
+title: "Third-grade students' modeling, strategy, and application scores rose from pre-test to post-test in one uncontrolled pre-post study, with reported effect sizes of 3.40, 3.44, and 3.00 respectively"
+description: "Third-grade students' modeling, strategy, and application scores rose from pre-test to post-test in one uncontrolled pre-post study, with reported effect sizes of 3.40, 3.44, and 3.00 respectively"
 id: third-grade-msa-gains-effect-sizes
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Third-grade students improved in modeling, strategy, and application with effect sizes of 3.40, 3.44, and 3.00 respectively
+# Third-grade students' modeling, strategy, and application scores rose from pre-test to post-test in one uncontrolled pre-post study, with reported effect sizes of 3.40, 3.44, and 3.00 respectively
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
@@ -45,5 +45,5 @@ Paired-sample t-tests on five pre and five post MSA assessments for the third-gr
 
 
 ## Related Claims
-- [First-grade students improved in modeling, strategy, and application with effect sizes of 1.66, 1.75, and 1.70 respectively](first-grade-msa-gains-effect-sizes.md) — related
+- [First-grade students' modeling, strategy, and application measures rose from pre-test to post-test in one single-group pre-post study, with effect sizes of 1.66, 1.75, and 1.70 respectively](first-grade-msa-gains-effect-sizes.md) — related
 - [Music-mathematics integrated lessons produced statistically significant improvements in first- and third-grade students' MSA mathematical ability levels](music-math-integration-improves-msa-abilities.md) — a broader claim this one bears on

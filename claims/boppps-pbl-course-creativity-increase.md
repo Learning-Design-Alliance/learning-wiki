@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Participation in a BOPPPS-PBL nursing innovation course is associated with higher post-course creativity scores among newly recruited nurses
-description: Participation in a BOPPPS-PBL nursing innovation course is associated with higher post-course creativity scores among newly recruited nurses
+title: Among newly recruited nurses, creativity scores rose from before to after a BOPPPS-PBL nursing innovation course in one uncontrolled pre-post study
+description: Among newly recruited nurses, creativity scores rose from before to after a BOPPPS-PBL nursing innovation course in one uncontrolled pre-post study
 id: boppps-pbl-course-creativity-increase
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Participation in a BOPPPS-PBL nursing innovation course is associated with higher post-course creativity scores among newly recruited nurses
+# Among newly recruited nurses, creativity scores rose from before to after a BOPPPS-PBL nursing innovation course in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium
@@ -45,7 +45,7 @@ Single-group pretest–posttest pilot with all 60 newly recruited nurses analyse
 
 
 ## Related Claims
-- [Participation in the BOPPPS-PBL course is associated with a modest increase in general self-efficacy among newly recruited nurses](boppps-pbl-course-self-efficacy-increase.md) — related
+- [Self-rated general self-efficacy scores rose modestly from before to after the BOPPPS-PBL course among newly recruited nurses in one uncontrolled pre-post study](boppps-pbl-course-self-efficacy-increase.md) — related
 - [Participants rated the BOPPPS-PBL teaching model highly, with a mean teaching-effectiveness score of 56.43 ± 5.17 out of 60](boppps-pbl-high-teaching-effectiveness-ratings.md) — related
 - [Group innovation project presentations scored a mean of 80.57 ± 11.29 out of 100, with teamwork the highest-rated dimension](innovation-demonstration-scores-descriptive.md) — related
 - [At 1-year follow-up, the 10 groups produced 16 documented innovation outputs linked to course-developed projects, including 10 patent-submission activities](one-year-innovation-outputs-documented.md) — related

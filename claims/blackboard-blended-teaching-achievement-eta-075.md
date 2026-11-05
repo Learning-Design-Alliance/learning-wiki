@@ -63,7 +63,7 @@ Effect-size estimation reported in the Results and Discussion section of the sam
 ## Related Claims
 
 - [Blackboard-based blended teaching showed no statistically significant effect on university study skills](blended-teaching-no-effect-study-skills.md) — related
-- [Blackboard-based instruction produced statistically significant pre-to-post achievement gains in the EFL teaching methods course for the experimental group](blackboard-instruction-significant-prepost-gains-efl-methods.md) — related
+- [The experimental group showed statistically significant pre-to-post achievement gains in the EFL teaching methods course after Blackboard-based instruction](blackboard-instruction-significant-prepost-gains-efl-methods.md) — related
 - [Blackboard-based instruction was more effective than traditional instruction in improving post-test achievement, with the experimental group outperforming the control group](blackboard-outperformed-traditional-instruction-posttest.md) — possibly the same claim (merge candidate)
 - [Blended e-learning significantly raised students' overall self-assessment scores relative to traditional learning (η2 = .129)](blended-elearning-overall-self-assessment-higher.md) — related
 - [Blended-section students reported somewhat greater confidence in genre-based writing skills, with one third rating their research-genre skills advanced versus one fifth of control students](blended-genre-skill-confidence-advanced.md) — related

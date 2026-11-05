@@ -45,8 +45,8 @@ One-group pretest-posttest study of 28 secondary third-grade students taught wit
 
 
 ## Related Claims
-- [Second Life-based mathematics instruction had no significant effect on students' fear of mathematics (z=1.93, p>.05)](sl-math-robot-fear-item-no-effect.md) — a narrower finding that bears on this claim
+- [Students' self-rated fear of mathematics did not change significantly from pre-test to post-test after Second Life-based mathematics instruction, in one uncontrolled pre-post study (z=1.93, p>.05)](sl-math-robot-fear-item-no-effect.md) — a narrower finding that bears on this claim
 - [Second Life-based mathematics instruction significantly increased students' agreement that mathematics is interesting (z=2.95, p<.05)](sl-math-robot-interest-item-increase.md) — related
-- [Second Life-based instruction had no significant effect on the paired learn/fear items (z=1.85, p>.05)](sl-math-robot-learn-fear-pair-no-effect.md) — a narrower finding that bears on this claim
-- [Second Life-based instruction significantly increased students' wish to reserve time for and gain advanced information about mathematics (z=2.82, p<.05)](sl-math-robot-time-advanced-info-pair-increase.md) — related
-- [Second Life-based mathematics instruction significantly increased the time students would reserve for mathematics (z=3.14, p<.05)](sl-math-robot-time-reservation-increase.md) — related
+- [Self-reported answers to the paired learn/fear items did not change significantly from pre-test to post-test in one group with no comparison group after Second Life-based instruction (z=1.85, p>.05)](sl-math-robot-learn-fear-pair-no-effect.md) — a narrower finding that bears on this claim
+- [Students' self-reported wishes to reserve time for and gain advanced information about mathematics were significantly higher at post-test than at pre-test after Second Life-based instruction, in one uncontrolled pre-post study (z=2.82, p<.05)](sl-math-robot-time-advanced-info-pair-increase.md) — related
+- [In one uncontrolled pre-post study, students' self-reported time they would reserve for mathematics rose from pre-test to post-test after Second Life-based mathematics instruction (z=3.14, p<.05)](sl-math-robot-time-reservation-increase.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Individual learner responses to the DCBL intervention were highly heterogeneous across all three case domains
-description: Individual learner responses to the DCBL intervention were highly heterogeneous across all three case domains
+title: Across all three case domains, individual learner SCT scores showed heterogeneous rises, falls, or no change from pre-test to post-test in one single-group pre-post study of DCBL
+description: Across all three case domains, individual learner SCT scores showed heterogeneous rises, falls, or no change from pre-test to post-test in one single-group pre-post study of DCBL
 id: heterogeneous-individual-sct-responses-dcbl
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Individual learner responses to the DCBL intervention were highly heterogeneous across all three case domains
+# Across all three case domains, individual learner SCT scores showed heterogeneous rises, falls, or no change from pre-test to post-test in one single-group pre-post study of DCBL
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -45,6 +45,6 @@ Individual-level response analysis within the 271-learner pre-post study. Across
 
 
 ## Related Claims
-- [The UTI case showed a statistically significant domain-specific SCT improvement, while URTI and diarrhoea cases showed no significant change](uti-case-significant-sct-improvement.md) — related
+- [In one single-group pre-post study with no comparison group, UTI SCT scores rose significantly from pre-test to post-test, while URTI and diarrhoea SCT scores did not change significantly](uti-case-significant-sct-improvement.md) — related
 - [Case-wise risk differences in appropriate treatment decisions at Node-2 did not reach statistical significance for any case](node2-treatment-decision-risk-differences-null.md) — related
-- [A single-session rule-based DCBL intervention did not produce a statistically significant overall change in SCT-measured antibiotic-stewardship reasoning among MBBS learners](single-session-dcbl-no-significant-overall-sct-change.md) — related
+- [Overall SCT-measured antibiotic-stewardship reasoning scores rose from pre-test to post-test, without a statistically significant change, among MBBS learners after a single-session rule-based DCBL intervention in one uncontrolled pre-post study](single-session-dcbl-no-significant-overall-sct-change.md) — related

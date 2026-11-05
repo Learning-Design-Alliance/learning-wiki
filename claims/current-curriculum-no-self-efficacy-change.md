@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "The current-curriculum instruction in the control group produced no significant change in prospective teachers' self-efficacy across pretest, posttest and follow-up"
-description: "The current-curriculum instruction in the control group produced no significant change in prospective teachers' self-efficacy across pretest, posttest and follow-up"
+title: "Within the control group receiving current-curriculum instruction, prospective teachers' self-reported self-efficacy showed no significant change from pretest to posttest and follow-up"
+description: "Within the control group receiving current-curriculum instruction, prospective teachers' self-reported self-efficacy showed no significant change from pretest to posttest and follow-up"
 id: current-curriculum-no-self-efficacy-change
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 2
 ---
 
-# The current-curriculum instruction in the control group produced no significant change in prospective teachers' self-efficacy across pretest, posttest and follow-up
+# Within the control group receiving current-curriculum instruction, prospective teachers' self-reported self-efficacy showed no significant change from pretest to posttest and follow-up
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`

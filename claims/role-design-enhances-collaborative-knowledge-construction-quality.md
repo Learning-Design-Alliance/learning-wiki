@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
 > **Currency** · newest study 2026 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Cheng 2026: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Graduate students' collaborative knowledge construction with generative AI was of higher quality after a role-based intervention than before it; the abstract reports no comparison group. [→ Cheng 2026](#cheng-2026)
@@ -52,12 +53,12 @@ Pretest-posttest study with 58 graduate students and no comparison group reporte
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — the general claim this finding bears on, with the studies behind it
 
 - [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — the general claim this finding bears on, with the studies behind it
-- [Role design facilitates transitions among higher-order collaborative behaviors in human-GAI collaboration](role-design-facilitates-higher-order-behavior-transitions.md) — related
-- [Role design improves learners' perceived usefulness and ease of use of GAI, but moderately increases collaborative cognitive load](role-design-improves-gai-perceptions-raises-cognitive-load.md) — related
+- [Transitions among higher-order collaborative behaviors were observed from pre-test to post-test after role design in human-GAI collaboration, in one group with no comparison group](role-design-facilitates-higher-order-behavior-transitions.md) — related
+- [Learners' perceived usefulness and ease of use of GAI rose from pre-test to post-test, while collaborative cognitive load moderately rose, in one uncontrolled pre-post study](role-design-improves-gai-perceptions-raises-cognitive-load.md) — related
 - [A descriptive report defines peer assisted learning and asserts, without a tested result, that it promotes knowledge construction, collaboration ability and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — a broader claim this one bears on
 - [The review reports that role-playing exercises significantly enhanced students' 21st-century skills including communication, collaboration, and critical thinking](role-play-enhances-21st-century-skills.md) — related
 - [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](gai-value-contingent-on-pedagogical-integration.md) — a broader claim this one bears on
-- [GAI-assisted DST creation significantly enhanced all five CPS sub-dimensions compared to traditional methods](gai-assisted-dst-improves-cps-subdimensions.md) — related
+- [Students in a GAI-assisted DST class reported higher scores than a traditional-methods class on all five self-reported CPS sub-dimensions](gai-assisted-dst-improves-cps-subdimensions.md) — related
 - [Simple, targeted mere exposure prompt (MEP) scripts show promise for promoting desirable learning behaviors in a fully online multiplayer role-play classroom](mep-scripts-socially-shared-regulation-role-play.md) — related
 - The most frequently measured pedagogical aspects of technology integration are enhancing students' cognitive engagement, promoting collaboration between students, and allowing students to conduct research online. — related
 - [Blog commenting promoted interaction among participants but did not achieve collaboration for social construction of knowledge or higher-order competencies such as coaching](blog-commenting-interaction-not-knowledge-construction.md) — related

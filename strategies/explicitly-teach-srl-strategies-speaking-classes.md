@@ -42,8 +42,8 @@ The article's first recommendation is that "Self-regulated strategies must be ex
 
 - [Prior evidence on self-regulated learning and speaking proficiency is mixed, with one study finding significant effects and another only a weak relationship](../claims/mixed-prior-evidence-srl-speaking-proficiency.md) [~W]
 - [Speaking proficiency and speaking anxiety were significantly negatively correlated at posttest](../claims/speaking-proficiency-anxiety-negative-correlation.md) [+W]
-- [Self-regulated strategy instruction significantly improved speaking proficiency of Egyptian EFL university students in a one-group pre-posttest quasi-experiment](../claims/srl-strategy-instruction-improved-speaking-proficiency-egyptian-efl.md) [+W]
-- [Self-regulated strategy instruction significantly reduced speaking anxiety of Egyptian EFL university students](../claims/srl-strategy-instruction-reduced-speaking-anxiety.md) [+W]
+- [Speaking proficiency scores rose significantly from pretest to posttest among Egyptian EFL university students after self-regulated strategy instruction, in a one-group pre-posttest quasi-experiment](../claims/srl-strategy-instruction-improved-speaking-proficiency-egyptian-efl.md) [+W]
+- [Speaking anxiety scores decreased significantly from pretest to posttest after self-regulated strategy instruction, in one group of Egyptian EFL university students with no comparison group](../claims/srl-strategy-instruction-reduced-speaking-anxiety.md) [+W]
 
 ## Related Strategies
 

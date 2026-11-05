@@ -52,6 +52,6 @@ ANCOVA row from Table 7 for the self-efficacy sub-dimension in the same RCT, sho
 - [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — the general claim this finding bears on, with the studies behind it
 - [GCLA does not bolster motivational aspects of SRL: traditional ChatGPT users showed higher intrinsic motivation and higher amotivation than GCLA users](gcla-no-motivation-advantage.md) — related
 - [Teaching a ChatGPT agent improves students' self-regulated learning, specifically self-efficacy and use of cognitive strategies](chatgpt-teaching-self-efficacy-cognitive-strategies.md) — related
-- [GCLA use enhances higher-order thinking skills—critical thinking, problem-solving, and creativity—compared with traditional ChatGPT use](gcla-improves-hots.md) — related
+- [Students using GCLA rated their higher-order thinking skills—critical thinking, problem-solving, and creativity—higher than students using traditional ChatGPT](gcla-improves-hots.md) — related
 - [GCLA use improves chemistry knowledge construction, including two-week retention, compared with traditional ChatGPT use](gcla-improves-knowledge-construction.md) — related
 - [As cited second-hand in an AI-literacy framework paper: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — related

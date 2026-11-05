@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Hursen 2016: no comparison group · Hursen 2016 (2): no comparison group (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Six teachers who observed the experimental group stated that authentic childhood games motivated and entertained students, made them participate willingly, and helped learning English easier. [→ Hursen 2016](#hursen-2016)

@@ -46,5 +46,5 @@ Separate ANCOVAs per problem type in the same randomized study found the missing
 
 ## Related Claims
 - [Control children showed no significant improvement on any math subskill](control-no-math-improvement.md) — related
-- [Spatial training children improved significantly on missing term and multi-digit problems from pretest to posttest](spatial-group-prepost-gains.md) — related
+- [Spatial training children’s scores rose significantly from pretest to posttest on missing term and multi-digit problems, within that group](spatial-group-prepost-gains.md) — related
 - [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — a broader claim this one bears on

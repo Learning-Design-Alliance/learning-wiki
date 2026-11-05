@@ -44,7 +44,7 @@ The article describes peer review worksheets that are "specifically task-oriente
 
 - [EFL students who used peer review report high acceptance of collaborative work, with 80% preferring group work and enjoying the process](../claims/peer-review-collaborative-work-perception-efl.md) [+W]
 - [Students perceive peer review as improving composition quality, with ideas and structure benefiting most](../claims/peer-review-composition-quality-perception.md) [+W]
-- [Learners report peer review fostered critical thinking in an EFL academic-writing course, with mixed answers on identifying proper academic writing](../claims/peer-review-critical-thinking-perception.md) [+W]
+- [Learners in an EFL academic-writing course reported positive responses on most critical-thinking indicators after peer review, with mixed answers on identifying proper academic writing](../claims/peer-review-critical-thinking-perception.md) [+W]
 - [More than 70% of participants reported peer review improved multiple aspects of their writing, and the vast majority approved of the method](../claims/peer-review-overall-approval-efl.md) [+W]
 
 ## Related Strategies

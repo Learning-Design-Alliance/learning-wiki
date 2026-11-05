@@ -83,7 +83,7 @@ Paired sample t-tests on pre/post CPS scores for both groups (n = 30 each). The 
 
 ## Related Claims
 
-- [GAI-assisted DST creation significantly enhanced all five CPS sub-dimensions compared to traditional methods](gai-assisted-dst-improves-cps-subdimensions.md) — a narrower finding that bears on this claim
+- [Students in a GAI-assisted DST class reported higher scores than a traditional-methods class on all five self-reported CPS sub-dimensions](gai-assisted-dst-improves-cps-subdimensions.md) — a narrower finding that bears on this claim
 - [GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)](genai-higher-order-thinking-g072.md) — a broader claim this one bears on
 - [GAI-assisted DST creation produced significantly better team creativity performance than traditional methods, particularly in novelty and user experience](gai-assisted-dst-improves-team-creativity.md) — related
 - [Both instructional groups improved significantly from pre-test to post-test, with larger gains in the generative AI-supported group](genai-geometry-within-group-gains.md) — related

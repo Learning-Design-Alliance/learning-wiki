@@ -46,4 +46,4 @@ Descriptive analysis of the written and oral pre-tests of 61 Turkish freshman EL
 
 
 ## Related Claims
-- [A six-hour remedial training session significantly improved participants' recognition of If-clause pitch patterns (p < .05)](remedial-training-improves-pitch-recognition.md) — related
+- [In one single-group pre-post study, participants' recognition scores for If-clause pitch patterns rose from pre-test to post-test after a six-hour remedial training session (p < .05)](remedial-training-improves-pitch-recognition.md) — related

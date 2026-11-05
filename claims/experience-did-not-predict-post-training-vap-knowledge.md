@@ -48,4 +48,4 @@ Multiple linear regression on post-training scores (n = 56) with years of RN exp
 - [Higher educational qualification and longer nursing experience predict self‐reported skills, but demographic factors do not predict perceived knowledge](qualification-experience-predict-skills-not-knowledge.md) — related
 - [More positive attitudes toward mental health care are associated with educational qualification, years as a qualified nurse and ICU experience](attitudes-predicted-by-education-nursing-and-icu-experience.md) — related
 - [A brief structured VAP prevention workshop significantly improved ICU nurses' knowledge scores in a resource-limited setting (group-level improvement)](structured-workshop-improved-icu-nurse-vap-knowledge.md) — related
-- [Training shifted ICU nurses from low/moderate to high knowledge-based competence categories in VAP prevention](vap-competence-category-shift-after-training.md) — related
+- [Among ICU nurses, the proportion classified as high knowledge-based competence rose from pre-test to post-test after training, in one single-group pre-post study of VAP prevention](vap-competence-category-shift-after-training.md) — related

@@ -82,7 +82,7 @@ Design-tier stratification of the review's included studies: 3 RCTs assessed wit
 - [AI-SP training was associated with higher simulated clinical interview scores in information collection, communication, and diagnostic reasoning, but not empathy](ai-sp-interview-performance-empathy-null.md) — a narrower finding that bears on this claim
 - [Students value role-play for interpersonal engagement and virtual patients for reducing stress and supporting reflective learning](qualitative-mechanisms-roleplay-vs-virtual-patients.md) — related
 - [Structurally designed AI-SPs are noninferior to human SPs in communication skill improvement, with unique advantages for self-efficacy](ai-sp-noninferior-communication-skills.md) — related
-- [AI-powered simulated patient practice improves clinical reasoning measured by the CRI-HT scale](aisp-cortex-improves-cri-ht-reasoning.md) — a narrower finding that bears on this claim
+- [CRI-HT scores rose from pre-test to post-test after AI-powered simulated patient practice, in one uncontrolled pre-post study](aisp-cortex-improves-cri-ht-reasoning.md) — a narrower finding that bears on this claim
 - [Virtual patient simulations produced educational improvements equivalent to live standardized patient simulations](virtual-patients-equivalent-to-standardized-patients.md) — related
 - [Literature offers no consensus on whether video demonstration or standardized patient teaching is better for psychomotor skills, motivating direct comparison](no-consensus-vd-vs-sp-psychomotor-teaching.md) — related
 - [The evidence base for AI-assisted formative assessment is promising but uneven, concentrated in short-term single-setting studies](ai-formative-assessment-evidence-uneven-early.md) — a broader claim this one bears on

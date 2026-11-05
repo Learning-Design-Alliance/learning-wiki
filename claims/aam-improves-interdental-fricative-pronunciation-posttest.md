@@ -45,6 +45,6 @@ Quasi-experimental pre-test/post-test control group design with 36 vocational sc
 
 
 ## Related Claims
-- [Pronunciation gains from the Audio Articulation Method persisted at delayed post-test four weeks later](aam-gains-persist-delayed-posttest.md) — a broader claim this one bears on
+- [Pronunciation scores rose from pre-test to delayed post-test four weeks after Audio Articulation Method instruction, in one single-group pre-post study](aam-gains-persist-delayed-posttest.md) — a broader claim this one bears on
 - [Students reverted to previous pronunciation habits in routine classroom instruction despite test performance gains](aam-gains-not-maintained-routine-classroom.md) — related
 - [Theta /theta/ sounds were pronounced more accurately than eth /eth/ sounds across all tests](theta-more-accurate-than-eth.md) — related

@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2017**: tool and model accuracy changes quickly
+> **Design limits** · Gambari 2014: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` The researcher-developed 25-item multiple-choice BTAT had a reliability coefficient of 0.84 using KR-21 as reported in the methodology section. [→ Gambari 2014](#gambari-2014)

@@ -33,6 +33,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 > **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Orawiwatnakul 2011: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` BA students in all four learning styles (activist, pragmatist, theorist, reflector) improved mean scores significantly. [→ Orawiwatnakul 2011](#orawiwatnakul-2011)
@@ -64,9 +65,9 @@ Learning-style subgroup t-tests for the CA group (activist n=8, pragmatist n=15,
 
 
 ## Related Claims
-- [Only BA pragmatists and theorists significantly improved self-directed learning ability; BA activists and reflectors did not](ba-pragmatists-theorists-only-improved-sdl-ability.md) — reports the opposite
+- [In a single-group pre-post study, self-rated self-directed learning ability scores rose significantly among BA pragmatists and theorists, while no significant pre-post rise was reported among BA activists and reflectors](ba-pragmatists-theorists-only-improved-sdl-ability.md) — reports the opposite
 - [Communication Arts students significantly outperform Business Administration students on post-intervention English proficiency](ca-students-outperform-ba-on-posttest-proficiency.md) — related
 - [Students in both groups hold highly positive opinions toward self-directed learning activities](positive-opinions-toward-sdl-activities.md) — related
-- [CA students in all four learning styles significantly improved self-directed learning ability](ca-all-learning-styles-improved-sdl-ability.md) — related
-- [Self-directed learning activities significantly improve English proficiency of Thai EFL undergraduates over 12 weeks](self-directed-learning-activities-improve-efl-proficiency-thai-undergraduates.md) — a broader claim this one bears on
+- [CA students in all four learning styles had significantly higher self-rated self-directed learning ability at post-test than at pre-test in one uncontrolled pre-post study](ca-all-learning-styles-improved-sdl-ability.md) — related
+- [English proficiency scores rose from pre-test to post-test among Thai EFL undergraduates after 12 weeks of self-directed learning activities, based on within-group pre-post measurements](self-directed-learning-activities-improve-efl-proficiency-thai-undergraduates.md) — a broader claim this one bears on
 - [Both BA and CA groups significantly increased overall self-directed learning ability after the intervention](sdl-ability-increased-both-groups.md) — related

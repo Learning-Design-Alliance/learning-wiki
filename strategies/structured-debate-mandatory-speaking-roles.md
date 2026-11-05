@@ -42,7 +42,7 @@ The article's Debate treatment introduced learners to Debate structure, speaker 
 
 ## Claims
 
-- [Both Debate instruction and Philosophy Inquiry discussion significantly increased ESL learners' Willingness to Communicate over a semester](../claims/debate-and-pi-increase-esl-wtc.md) [+M]
+- [ESL learners' self-reported Willingness to Communicate scores rose from pre-test to post-test within the Debate and Philosophy Inquiry groups over a semester](../claims/debate-and-pi-increase-esl-wtc.md) [+M]
 - [Debate was more effective than Philosophy Inquiry discussion in enhancing ESL learners' WTC at post-test](../claims/debate-more-effective-than-pi-for-wtc.md) [+M]
 - [The Debate group showed a larger descriptive gain in Self-Perceived Communicative Competence than the PI group](../claims/debate-larger-communicative-competence-gain.md) [+W]
 - [Communicative Apprehension increased slightly more in the Debate group than in the PI group](../claims/debate-slightly-more-apprehension.md) [-W]

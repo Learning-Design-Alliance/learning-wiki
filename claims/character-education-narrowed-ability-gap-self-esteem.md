@@ -48,5 +48,5 @@ Descriptive analysis from Figure 2 data. The pre-treatment gap of 4.71 points na
 - [Gender differences in self-esteem change under character education: boys increased while girls decreased](character-education-gender-differences-self-esteem.md) — related
 - [The main effect of character education program on self-esteem was non-significant compared to traditional instruction](character-education-main-effect-non-significant.md) — related
 - [Character education activities improved self-esteem of intellectually less able students but decreased self-esteem of intellectually able students](character-education-self-esteem-ability-groups-kuwait.md) — related
-- [The traditional instructional program was associated with a decrease in self-esteem for intellectually less able students](traditional-instruction-self-esteem-decline-less-able.md) — related
+- [Self-rated self-esteem among intellectually less able students fell from pre-test to post-test in one single-group pre-post study of the traditional instructional program](traditional-instruction-self-esteem-decline-less-able.md) — related
 - [Both girls and boys achieved pedagogically significant self-esteem gains despite pre-test baseline differences, with the educator's gender showing no effect](self-esteem-gains-both-genders-male-educator.md) — related

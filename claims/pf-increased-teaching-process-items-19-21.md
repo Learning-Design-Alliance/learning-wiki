@@ -64,7 +64,7 @@ Item-level TSOF analysis of Item 21 across 11 student teachers' video-recorded l
 
 
 ## Related Claims
-- [Performance feedback increased the number of student teachers clearly describing the activity (Item 15)](pf-increased-describing-activity-item-15.md) — related
+- [The number of student teachers clearly describing the activity rose from before to after performance feedback, in one single-group pre-post study (Item 15)](pf-increased-describing-activity-item-15.md) — related
 - [Performance feedback increased the number of student teachers arranging student desks to support teaching (Item 12)](pf-increased-desk-arrangement-item-12.md) — related
 - [Trainee and trainer responses contradicted each other on ten questionnaire items (4, 10, 11, 14, 17, 18, 19, 21, 23, 25), suggesting a lack of coordination among trainers](trainee-trainer-response-contradiction-ten-items.md) — related
 - [Some teaching skills showed no significant change after performance feedback, including choice provision among materials (Item 20) and assistive technology use (Item 37)](pf-no-change-items-20-37.md) — related

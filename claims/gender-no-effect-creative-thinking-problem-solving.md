@@ -54,7 +54,7 @@ Independent samples t-test (Hypothesis 1) on creative thinking scores of 450 sec
 - [Students across all genders perceive scientific citizenship positively](scientific-citizenship-positive-across-genders.md) — related
 - [Under concept mapping instruction, male students achieved significantly better than female students in trigonometry](concept-mapping-gender-advantage-males-trigonometry.md) — related
 - [Achievement differences favor females over males under both teaching conditions, with a small effect](tps-gender-difference-favor-females.md) — related
-- [In one word-problem study, females gained significantly when the formatted procedural plan came after an unformatted test, and scored lower when the formatted test came first](females-benefit-free-exploration-then-plan.md) — related
+- [In one word-problem study, females' scores rose significantly from pre-test to post-test in the unformatted-to-formatted sequence and fell from pre-test to post-test in the formatted-to-unformatted sequence, based on within-group pre-post measurements](females-benefit-free-exploration-then-plan.md) — related
 - [Male students taught with the Target-Task Model significantly outperformed female students on the PTCE](target-task-gender-difference-males-outperform.md) — related
 - [Parents' job type does not significantly affect students' creative thinking](parents-job-no-effect-creative-thinking.md) — related
 - [Learning model and academic ability each significantly affect creative thinking, but their interaction does not](sscs-ms-ancova-main-effects-no-interaction.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: A one-day simulation-based bronchoscopy workshop significantly improves knowledge of bronchoscopy among medical doctors in critical care
-description: A one-day simulation-based bronchoscopy workshop significantly improves knowledge of bronchoscopy among medical doctors in critical care
+title: Among medical doctors in critical care, average bronchoscopy-knowledge scores rose from pre-test to post-test after a one-day simulation-based workshop, in one uncontrolled pre-post study
+description: Among medical doctors in critical care, average bronchoscopy-knowledge scores rose from pre-test to post-test after a one-day simulation-based workshop, in one uncontrolled pre-post study
 id: one-day-bronchoscopy-workshop-md-knowledge-gains
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# A one-day simulation-based bronchoscopy workshop significantly improves knowledge of bronchoscopy among medical doctors in critical care
+# Among medical doctors in critical care, average bronchoscopy-knowledge scores rose from pre-test to post-test after a one-day simulation-based workshop, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
@@ -45,6 +45,6 @@ Pre-test/post-test analysis of 38 MDs attending the one-day workshop, using a 50
 
 
 ## Related Claims
-- [A one-day simulation-based bronchoscopy workshop significantly improves knowledge of bronchoscopy among non-physician critical care staff](one-day-bronchoscopy-workshop-nonmd-knowledge-gains.md) — related
+- [Knowledge of bronchoscopy rose among non-physician critical care staff from pre-test to post-test after a one-day simulation-based workshop in one uncontrolled pre-post study](one-day-bronchoscopy-workshop-nonmd-knowledge-gains.md) — related
 - [Knowledge gains from the workshop were largest in sampling and critical care domains for both professional groups](bronchoscopy-workshop-domain-specific-gains.md) — a narrower finding that bears on this claim
 - [Bronchoscopy manipulation skills may decay over time, necessitating periodic practice to maintain proficiency](bronchoscopy-skill-decay-periodic-practice.md) — related

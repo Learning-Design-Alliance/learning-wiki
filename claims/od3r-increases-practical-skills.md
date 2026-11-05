@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "The OD3R method significantly increases students' practical skills in biochemistry, from an average of 49.5 before to 74 after implementation"
-description: "The OD3R method significantly increases students' practical skills in biochemistry, from an average of 49.5 before to 74 after implementation"
+title: "Students' practical skill scores in biochemistry rose from an average of 49.5 before to 74 after OD3R implementation, in a one-group pre-post study with no comparison group"
+description: "Students' practical skill scores in biochemistry rose from an average of 49.5 before to 74 after OD3R implementation, in a one-group pre-post study with no comparison group"
 id: od3r-increases-practical-skills
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# The OD3R method significantly increases students' practical skills in biochemistry, from an average of 49.5 before to 74 after implementation
+# Students' practical skill scores in biochemistry rose from an average of 49.5 before to 74 after OD3R implementation, in a one-group pre-post study with no comparison group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Average practical skill scores increased significantly from 49.5 before to 74 after OD3R implementation, with every skill category improving. [→ Yunita Arian Sani Anwar 2018](#yunita-arian-sani-anwar-2018)
+`q2 i?` Average practical skill scores increased significantly from 49.5 before to 74 after OD3R implementation in one group with no comparison group, with every skill category showing higher scores after implementation. [→ Yunita Arian Sani Anwar 2018](#yunita-arian-sani-anwar-2018)
 
 ## Evidence
 

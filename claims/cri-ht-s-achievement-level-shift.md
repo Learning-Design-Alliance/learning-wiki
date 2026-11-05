@@ -45,6 +45,6 @@ Frequency distribution analysis of CRI-HT-S responses across eight clinical reas
 
 
 ## Related Claims
-- [AI-powered simulated patient practice improves clinical reasoning measured by the CRI-HT scale](aisp-cortex-improves-cri-ht-reasoning.md) — related
+- [CRI-HT scores rose from pre-test to post-test after AI-powered simulated patient practice, in one uncontrolled pre-post study](aisp-cortex-improves-cri-ht-reasoning.md) — related
 - [Clinical reasoning scores were higher after training than before training in every clinical domain assessed, in one single-group pre-post study with no comparison group](ofc-gains-across-all-clinical-domains.md) — related
 - [The Clinical Reasoning Index rose from 3.25 to 3.79, with all clinical scenarios surpassing the professional proficiency threshold of 3.0](cri-rose-above-proficiency-threshold.md) — related

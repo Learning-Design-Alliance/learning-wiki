@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "95% of experimental-learning participants reached sufficient or high levels of lexical skills and speech abilities by course end"
-description: "95% of experimental-learning participants reached sufficient or high levels of lexical skills and speech abilities by course end"
+title: "95% of experimental-learning participants showed sufficient or high levels of lexical skills and speech abilities at course end in a one-group pre-test-to-post-test study with no comparison group"
+description: "95% of experimental-learning participants showed sufficient or high levels of lexical skills and speech abilities at course end in a one-group pre-test-to-post-test study with no comparison group"
 id: 95-percent-sufficient-high-lexical-levels
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# 95% of experimental-learning participants reached sufficient or high levels of lexical skills and speech abilities by course end
+# 95% of experimental-learning participants showed sufficient or high levels of lexical skills and speech abilities at course end in a one-group pre-test-to-post-test study with no comparison group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` After experimental learning with 116 second-year software engineering students, 95% showed sufficient and high levels of lexical skills and speech abilities at the end of the course. [→ Chainikova 2018](#chainikova-2018)
+`q2 i?` Among 116 second-year software engineering students, 95% showed sufficient and high levels of lexical skills and speech abilities at the end of the course in a single-group pre-test-to-post-test study with no comparison group. [→ Chainikova 2018](#chainikova-2018)
 
 ## Evidence
 

@@ -68,7 +68,7 @@ Model 3 cross-domain pathways from kindergarten spring to first grade showed the
 - [Kindergarten-spring conflict is positively associated with first-grade closeness, driven by high-conflict children, suggesting an opportunity for a fresh start](high-conflict-children-can-form-new-closer-relationships.md) — related
 - [Child gender at kindergarten entry predicts initial functioning: boys show more conflict and inattention/impulsivity, girls more closeness and school engagement](gender-predicts-relationships-and-behavior-at-entry.md) — related
 - [Teacher-child conflict does not predict subsequent increases in children's inattention and impulsivity, contradicting a bidirectional transaction](no-bidirectional-conflict-to-self-regulation-effect.md) — related
-- [Fall self-regulation (HTKS) scores predict spring literacy gains in first grade](fall-htks-predicts-literacy-gains.md) — related
+- [In first grade, students with lower fall self-regulation (HTKS) scores demonstrated weaker literacy skill gains by spring](fall-htks-predicts-literacy-gains.md) — related
 - [Among kindergartners with low number sense, attention problems and executive functioning each uniquely predict first-grade mathematics outcomes](ef-attention-unique-predictors-first-grade-math-low-number-sense.md) — related
 - [Teacher-rated hyperactive/impulsive behavior did not predict any first-grade academic outcomes in children with low number sense](hyperactivity-impulsivity-no-prediction-academic-outcomes.md) — related
 - [Observed motivation indicators predict student-teacher conflict but not closeness: less persistence, greater task competence, and more interest/arousal predict greater conflict](observed-motivation-predicts-teacher-conflict-not-closeness.md) — related

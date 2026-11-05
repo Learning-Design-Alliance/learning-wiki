@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
 > **Currency** · newest study 2013 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · McLean 2013: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i3` In a quasi-experiment with intact classes, an ANCOVA on posttest VST scores with pretest as covariate was significant, with the word-card variable accounting for 55% of variance; the authors judge it plausible, not established, that Word Engine use caused much of the gain, because selection and time-on-task confounds were not controlled. [→ McLean 2013](#mclean-2013)

@@ -50,5 +50,5 @@ Summary feedback table (n = 29) reporting the combined percentage agreeing or st
 ## Related Claims
 - [Lecturers rated DPBL activities as appropriate and effective for improving creative thinking and teamwork skills](lecturers-rated-dpbl-appropriate-and-effective.md) — related
 - [GPT feedback in VR markedly improved problem-solving and critical thinking but had limited impact on creativity](gpt-feedback-hots-problem-solving-critical-thinking-limited-creativity.md) — related
-- [GCLA use enhances higher-order thinking skills—critical thinking, problem-solving, and creativity—compared with traditional ChatGPT use](gcla-improves-hots.md) — related
+- [Students using GCLA rated their higher-order thinking skills—critical thinking, problem-solving, and creativity—higher than students using traditional ChatGPT](gcla-improves-hots.md) — related
 - [Postgraduate immunology students report that small-group mind maps encouraged idea sharing (87% agree or strongly agree)](pbl-small-group-mind-maps-idea-sharing-immunology.md) — related

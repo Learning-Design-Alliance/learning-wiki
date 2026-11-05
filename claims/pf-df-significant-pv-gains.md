@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Both paper-flashcard and digital-flashcard groups made significant productive vocabulary gains over the 12-week treatment
-description: Both paper-flashcard and digital-flashcard groups made significant productive vocabulary gains over the 12-week treatment
+title: Productive vocabulary scores rose significantly from pre-test to post-test within both the paper-flashcard and digital-flashcard groups in the 12-week study
+description: Productive vocabulary scores rose significantly from pre-test to post-test within both the paper-flashcard and digital-flashcard groups in the 12-week study
 id: pf-df-significant-pv-gains
 status: review
 generated:
@@ -28,15 +28,15 @@ sources:
     rigour: 1
 ---
 
-# Both paper-flashcard and digital-flashcard groups made significant productive vocabulary gains over the 12-week treatment
+# Productive vocabulary scores rose significantly from pre-test to post-test within both the paper-flashcard and digital-flashcard groups in the 12-week study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` The PF group improved significantly in productive vocabulary from pre-test to post-test. [→ Gilbert Dizon and Daniel Tang 2017](#gilbert-dizon-and-daniel-tang-2017)
-`q3 i?` The DF group improved significantly in productive vocabulary from pre-test to post-test. [→ Gilbert Dizon and Daniel Tang 2017 (2)](#gilbert-dizon-and-daniel-tang-2017-2)
+`q3 i?` Productive vocabulary scores in the PF group rose significantly from pre-test to post-test. [→ Gilbert Dizon and Daniel Tang 2017](#gilbert-dizon-and-daniel-tang-2017)
+`q3 i?` Productive vocabulary scores in the DF group rose significantly from pre-test to post-test. [→ Gilbert Dizon and Daniel Tang 2017 (2)](#gilbert-dizon-and-daniel-tang-2017-2)
 
 ## Evidence
 
@@ -65,6 +65,6 @@ Paired t-test within the DF group (n = 26) studying with Quizlet and Cram. The a
 
 ## Related Claims
 - [Gains in receptive and productive vocabulary did not differ significantly between the paper-flashcard-with-VLS group and the digital-flashcard group](no-significant-difference-pf-vls-vs-df.md) — related
-- [Both paper-flashcard and digital-flashcard groups made significant receptive vocabulary gains over a 12-week treatment](pf-df-significant-rv-gains.md) — related
+- [Receptive vocabulary scores rose significantly from pre-test to post-test within both paper-flashcard and digital-flashcard groups over 12 weeks](pf-df-significant-rv-gains.md) — related
 - [The PF and DF groups were unequal at pre-test, with the DF group scoring significantly higher in both receptive and productive vocabulary](pretest-inequality-pf-df-groups.md) — related
 - [A larger percentage of the paper-flashcard group studied the target vocabulary outside class than the digital-flashcard group](pf-group-more-out-of-class-study-time.md) — related

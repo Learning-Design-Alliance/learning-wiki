@@ -26,7 +26,7 @@ A Persian-language, five-point rater-scored assessment instrument developed for 
 
 - [The Clinical Reasoning Index rose from 3.25 to 3.79, with all clinical scenarios surpassing the professional proficiency threshold of 3.0](../claims/cri-rose-above-proficiency-threshold.md) [+M]
 - [Post-intervention CRI-HT-S responses concentrated in the higher achievement categories, with minimal frequency in the 'criteria not met' category](../claims/cri-ht-s-achievement-level-shift.md) [+M]
-- [AI-powered simulated patient practice improves clinical reasoning measured by the CRI-HT scale](../claims/aisp-cortex-improves-cri-ht-reasoning.md) [+M]
+- [CRI-HT scores rose from pre-test to post-test after AI-powered simulated patient practice, in one uncontrolled pre-post study](../claims/aisp-cortex-improves-cri-ht-reasoning.md) [+M]
 - [Lower-baseline students show larger OSCE gains after AISP practice, narrowing the performance gap](../claims/aisp-cortex-catch-up-effect-low-performers.md) [+M]
 - [The CRI-HT gain difference between baseline subgroups is not statistically significant](../claims/aisp-cri-ht-subgroup-gain-not-significant.md) [+M]
 - [Clinical reasoning scores were higher after training than before training in every clinical domain assessed, in one single-group pre-post study with no comparison group](../claims/ofc-gains-across-all-clinical-domains.md) [+W]

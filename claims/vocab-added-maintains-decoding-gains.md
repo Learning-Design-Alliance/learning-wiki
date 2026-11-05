@@ -26,6 +26,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2012 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Design limits** · Filippini 2012: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` The ANOVA on Nonsense Word Fluency gain scores showed no main effect of instructional condition, and posttest standardized mean differences favored the vocabulary-added groups (SR d = .37, MA d = .44 relative to PAD). [→ Filippini 2012](#filippini-2012)

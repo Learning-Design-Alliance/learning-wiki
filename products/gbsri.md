@@ -29,7 +29,7 @@ GBSRI is a genre-based, self-regulated writing-instruction framework developed b
 - **Genre-based writing lesson pattern cycling Presenting, Collaborative Practicing, Independent Writing, and Post-Writing Task stages**: A reusable lesson-level pattern in which each writing task cycles through the GBSRI stages: students first explore real-world sample texts (recipes, cookbooks, YouTube clips) to understand context and genre features; then analyze model texts and set personal writing goals and plans with teacher and peer collaboration; then compose independent drafts with teacher-learner conference feedback; and finally evaluate and reflect on strategies in a learning diary. The article states "These teaching stages of the GBSRI can be circulated for each writing task to encourage and scaffold the writing ability and self-regulation of EFL student writers." (Wiboonwachara et al. (2022))
 
 ### Claims
-- [Both procedural and descriptive writing scores improved significantly after GBSRI](../claims/gbsri-improves-procedural-and-descriptive-genres.md) [+M]
+- [Both procedural and descriptive writing scores rose significantly from pre-test to post-test in one group with no comparison group after GBSRI](../claims/gbsri-improves-procedural-and-descriptive-genres.md) [+M]
 
 ## Related Products and Programmes
 -

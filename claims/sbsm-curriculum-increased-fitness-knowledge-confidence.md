@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The SBSM curriculum significantly increased student fitness knowledge and confidence
-description: The SBSM curriculum significantly increased student fitness knowledge and confidence
+title: Student fitness knowledge and confidence rose from pre-test to post-test after the SBSM curriculum, in one uncontrolled pre-post study
+description: Student fitness knowledge and confidence rose from pre-test to post-test after the SBSM curriculum, in one uncontrolled pre-post study
 id: sbsm-curriculum-increased-fitness-knowledge-confidence
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# The SBSM curriculum significantly increased student fitness knowledge and confidence
+# Student fitness knowledge and confidence rose from pre-test to post-test after the SBSM curriculum, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`

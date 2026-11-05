@@ -50,6 +50,6 @@ Same quasi-experiment, measured with the 31-item Attitude towards Science Scale 
 - [ICT-supported teaching improved pupils' attitudes toward ICT but not their attitudes toward social studies](ict-treatment-attitude-effects-split.md) — related
 - [Post-test attitudes towards science differed significantly in favor of the ICT-narrative group, with a small-to-medium effect](ict-narratives-attitudes-posttest-difference.md) — related
 - [WebQuest instruction shows no significant immediate effect on ninth-grade mathematics achievement at posttest](webquests-no-immediate-achievement-effect.md) — related
-- [A 12-week newspapers-in-science-teaching program significantly improved sixth graders' attitudes toward science](newspapers-in-education-improved-attitude-toward-science.md) — related
-- [A 12-week newspapers-in-science-teaching program significantly improved sixth graders' attitudes toward science reading](newspapers-in-education-improved-science-reading-attitude.md) — related
+- [Sixth graders' self-rated attitudes toward science rose from pre-test to post-test after a 12-week newspapers-in-science-teaching program, in one uncontrolled pre-post study](newspapers-in-education-improved-attitude-toward-science.md) — related
+- [In one uncontrolled pre-post study, sixth graders' self-reported attitudes toward science reading rose significantly from pre-test to post-test during a 12-week newspapers-in-science-teaching program](newspapers-in-education-improved-science-reading-attitude.md) — related
 - [Using a WebQuest significantly enhances 4th graders' spiritual intelligence in favor of the experimental group](webquest-enhances-spiritual-intelligence-experimental.md) — related

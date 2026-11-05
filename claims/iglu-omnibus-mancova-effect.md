@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The omnibus multivariate within-subject effect of the IGLU intervention on combined motivation and knowledge scores was significant in both samples
-description: The omnibus multivariate within-subject effect of the IGLU intervention on combined motivation and knowledge scores was significant in both samples
+title: Combined motivation and knowledge scores differed significantly from pre-test to post-test in both samples, in one group with no comparison group after the IGLU intervention
+description: Combined motivation and knowledge scores differed significantly from pre-test to post-test in both samples, in one group with no comparison group after the IGLU intervention
 id: iglu-omnibus-mancova-effect
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# The omnibus multivariate within-subject effect of the IGLU intervention on combined motivation and knowledge scores was significant in both samples
+# Combined motivation and knowledge scores differed significantly from pre-test to post-test in both samples, in one group with no comparison group after the IGLU intervention
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Repeated-measure multivariate tests showed significant combined pre/post effects (Data 1: Wilks' λ = .101, η2 = .899; Data 2: Wilks' λ = .237, η2 = .763). [→ Bai 2016](#bai-2016)
+`q3 i?` Repeated-measure multivariate tests showed significant combined pre/post differences in one group with no comparison group (Data 1: Wilks' λ = .101, η2 = .899; Data 2: Wilks' λ = .237, η2 = .763). [→ Bai 2016](#bai-2016)
 
 ## Evidence
 

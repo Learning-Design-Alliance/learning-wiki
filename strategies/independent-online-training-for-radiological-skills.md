@@ -46,7 +46,7 @@ The article concludes that "Independent online training offers practical advanta
 - [Participants perceived training adequacy differently by group: written-instructions group wanted more, expert-led group found it too time-consuming](../claims/mul-training-perceived-adequacy-varies-by-group.md) [~W]
 - [All three online training methods significantly improved diagnostic performance for MUL measurements on prostate MRI with no significant differences between groups](../claims/online-training-improves-mul-diagnostic-performance.md) [+W]
 - [Interreader agreement for MUL measurements improved substantially after online training across all groups](../claims/online-training-improves-mul-interreader-agreement.md) [+W]
-- [Reader confidence in measuring MUL significantly increased across all training groups](../claims/online-training-improves-mul-reader-confidence.md) [+W]
+- [Self-reported reader confidence in measuring MUL rose significantly from pre-test to post-test across all training groups in one uncontrolled pre-post study](../claims/online-training-improves-mul-reader-confidence.md) [+W]
 
 ## Related Strategies
 - 

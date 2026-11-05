@@ -46,7 +46,7 @@ Usability was assessed post-intervention using the validated 16-item Chatbot Usa
 
 
 ## Related Claims
-- [AI-powered simulated patient practice with automated rubric-based feedback improves medical students' headache history-taking OSCE scores](aisp-cortex-improves-headache-osce-scores.md) — related
+- [AI-powered simulated patient practice with automated rubric-based feedback: medical students' headache history-taking OSCE scores rose from pre-test to post-test in a single-group pre-post study](aisp-cortex-improves-headache-osce-scores.md) — related
 - [The FACTRIA-aware chatbot received good usability ratings (SUS 70.84) and high usefulness ratings from most of the 11 stakeholders](factria-chatbot-usability-sus-70-84.md) — related
 - [In a pilot study, the TigerGPT survey chatbot achieved a 75% usability rating and an 81% satisfaction score, with 50% of participants preferring it over traditional surveys](tigergpt-pilot-usability-satisfaction.md) — related
 - [Older adults rated the KOKU digital programme with excellent usability and high acceptability](koku-high-usability-acceptability.md) — related

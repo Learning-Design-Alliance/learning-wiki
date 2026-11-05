@@ -43,7 +43,7 @@ The review's synthesis found that "Educational programs incorporating realistic 
 
 ## Claims
 
-- [An active shooter simulation with mass casualty triage improved nursing students' preparedness and triaging skills](../claims/active-shooter-simulation-improved-preparedness-triage.md) [+W]
+- [Nursing students' preparedness and triaging skills scores rose from pre-test to post-test after an active shooter simulation with mass casualty triage, in a one-group pre–post study](../claims/active-shooter-simulation-improved-preparedness-triage.md) [+W]
 - [Augmented reality tabletop exercises enhanced immersion and engagement but showed limited usability](../claims/ar-tabletop-exercises-enhanced-engagement-limited-usability.md) [~W]
 - [A competency-based multiactor emergency preparedness training curriculum improved cognitive knowledge, self-assessed skill, and scenario performance after video debriefing](../claims/competency-based-multiactor-ept-improved-performance.md) [+W]
 - [Educational programs incorporating realistic simulations, virtual technologies, and interprofessional exercises are most effective in improving technical skills, confidence, and crisis management](../claims/rea-36-studies-simulation-virtual-interprofessional-most-effective.md) [+W]

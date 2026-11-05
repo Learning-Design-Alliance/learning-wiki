@@ -35,7 +35,7 @@ Learning management systems are the element in which course organization, materi
 - [Integrating the IDSA into an existing learning management system limited usability, as the platform predefined frontend structure and navigation](../claims/idsa-lms-integration-usability-tradeoff.md) [-W]
 - [Existing components in learning management systems are the most frequently chosen LA tools and software](../claims/la-tools-lms-components-most-frequent.md) [+W]
 - [Blackboard-based blended teaching produced significantly higher academic achievement than traditional teaching, with η² = 0.75](../claims/blackboard-blended-teaching-achievement-eta-075.md) [+W] — attached 2026-11-01 from Wadha H. Al-Otaibi (2017), which proposed "Blackboard-based blended course design for Science Teaching Strategies (Code 423)"; tests this page's relationship.
-- [Blackboard-based instruction produced statistically significant pre-to-post achievement gains in the EFL teaching methods course for the experimental group](../claims/blackboard-instruction-significant-prepost-gains-efl-methods.md) [~W]
+- [The experimental group showed statistically significant pre-to-post achievement gains in the EFL teaching methods course after Blackboard-based instruction](../claims/blackboard-instruction-significant-prepost-gains-efl-methods.md) [~W]
 - [Blackboard-based instruction was more effective than traditional instruction in improving post-test achievement, with the experimental group outperforming the control group](../claims/blackboard-outperformed-traditional-instruction-posttest.md) [+W]
 
 ## Related Elements

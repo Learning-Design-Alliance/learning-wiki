@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Reflective blogfolios shifted EFL tertiary students' ways of knowing significantly toward more connected knowing"
-description: "Reflective blogfolios shifted EFL tertiary students' ways of knowing significantly toward more connected knowing"
+title: "EFL tertiary students' ways-of-knowing scores rose significantly from pre- to post-assessment after reflective blogfolios, in one uncontrolled pre-post study"
+description: "EFL tertiary students' ways-of-knowing scores rose significantly from pre- to post-assessment after reflective blogfolios, in one uncontrolled pre-post study"
 id: blogfolios-shifted-ways-of-knowing-toward-connected
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Reflective blogfolios shifted EFL tertiary students' ways of knowing significantly toward more connected knowing
+# EFL tertiary students' ways-of-knowing scores rose significantly from pre- to post-assessment after reflective blogfolios, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -45,6 +45,6 @@ Paired samples t-test on the revalidated Ways-of-Knowing Scale for the same 51 s
 
 
 ## Related Claims
-- [Reflective blogfolios in EFL writing classes produced statistically significant pre-post gains in tertiary students' argumentative essay writing skills](reflective-blogfolios-improved-argumentative-writing.md) — related
+- [In one uncontrolled pre-post study, tertiary students' argumentative essay writing scores in EFL writing classes rose significantly from pre-test to post-test after reflective blogfolios](reflective-blogfolios-improved-argumentative-writing.md) — related
 - [The article argues connected ways of knowing are better predictors of quality argumentative writing performance than separate ways of knowing](connected-knowing-better-predictor-of-writing.md) — related
-- [Ways of knowing predicted post-instruction argumentative writing performance but not pre-instruction performance](ways-of-knowing-predict-post-instruction-writing.md) — related
+- [Ways of knowing were associated with post-instruction argumentative writing performance but not pre-instruction performance in one single-group pre-post study with no comparison group](ways-of-knowing-predict-post-instruction-writing.md) — related

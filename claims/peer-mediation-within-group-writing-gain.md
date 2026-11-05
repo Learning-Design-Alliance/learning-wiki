@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Peer-assisted mediation significantly improved learners' writing scores from pretest to posttest within the peer group."
-description: "Peer-assisted mediation significantly improved learners' writing scores from pretest to posttest within the peer group."
+title: "Learners' writing scores rose significantly from pretest to posttest within the peer-assisted mediation group."
+description: "Learners' writing scores rose significantly from pretest to posttest within the peer-assisted mediation group."
 id: peer-mediation-within-group-writing-gain
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 2
 ---
 
-# Peer-assisted mediation significantly improved learners' writing scores from pretest to posttest within the peer group.
+# Learners' writing scores rose significantly from pretest to posttest within the peer-assisted mediation group.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`

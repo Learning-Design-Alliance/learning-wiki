@@ -25,6 +25,7 @@ sources:
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Design limits** · Junsay 2016: groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` The reflective learning group's mean gain in problem solving (12.53) was significantly higher than the lecture-discussion group's (9.63), t(29)=2.98, p=.006. [→ Junsay 2016](#junsay-2016)

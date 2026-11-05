@@ -45,7 +45,7 @@ Phase 2 of the study applied the same training curriculum to 42 first-year medic
 
 
 ## Related Claims
-- [Simulator-based TEE training significantly improves medical students' TEE knowledge scores](simulator-tee-training-improves-student-knowledge.md) — related
+- [Medical students' TEE knowledge scores rose from pre-test to post-test after simulator-based TEE training, in a single-group pre-post study](simulator-tee-training-improves-student-knowledge.md) — related
 - [Simulator-based TEE training significantly increases medical students' confidence across all measured categories](simulator-tee-training-increases-student-confidence.md) — a narrower finding that bears on this claim
 - [All participants successfully demonstrated TEE skills after simulator-based training](simulator-tee-training-skills-mastery.md) — related
 - [Students with more prior ultrasound experience show larger confidence gains from TEE simulator training](prior-ultrasound-experience-moderates-tee-confidence-gains.md) — related

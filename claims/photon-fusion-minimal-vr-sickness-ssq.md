@@ -47,7 +47,7 @@ SSQ administered after the lab session; Table I reports nausea 3.18 (SD 4.77), o
 
 ## Related Claims
 - [The Photon Fusion VR learning system achieves stable real-time communication with minimal device load](photon-fusion-stable-realtime-communication.md) — related
-- [VR-based training received significantly higher ratings for learning satisfaction and self-evaluation than conventional training](vr-training-higher-satisfaction-self-evaluation.md) — related
+- [In one group measured before and after, learning satisfaction and self-evaluation ratings were significantly higher after VR-based training than after conventional training](vr-training-higher-satisfaction-self-evaluation.md) — related
 - [Cybersickness remains a persistent practical challenge, affecting approximately 42% of VR users, and can occur in AR where symptoms may exceed those in VR](cybersickness-prevalence-vr-ar-immersive-learning.md) — related
 - [Higher-visuospatial-ability learners experienced lower motion sickness in Desktop-VR, with a tendency for an interaction with format](vsa-motion-sickness-desktop-vr.md) — related
 - [Motion sickness after the iVR experience was negligible for most participants, but a minority felt significant discomfort](ivr-motion-sickness-negligible-minority-discomfort.md) — related

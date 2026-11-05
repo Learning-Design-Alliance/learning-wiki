@@ -52,7 +52,7 @@ Small modified inquiry comparison in a Professional Development School: eleven s
 - [ELL first graders who learned ASL signs with sight vocabulary moved from zero pretest words to perfect posttest scores](asl-sight-vocabulary-ell-students-perfect-posttest.md) — related
 - [Interns observed extremely high enthusiasm for ASL vocabulary learning, including home practice and increased self-confidence](asl-sight-word-instruction-high-enthusiasm-qualitative.md) — related
 - [All eleven participating first graders gained sight vocabulary, with 89% knowing four or all five taught words at posttest](one-to-one-sight-word-intervention-gains-all-students.md) — related
-- [An ELL student spontaneously signed sight words when seeing them in context, which appeared to support word recognition](spontaneous-signing-in-context-study-aid.md) — related
+- [An ELL student spontaneously signed sight words when seeing them in context, which her intern believed supported word recognition](spontaneous-signing-in-context-study-aid.md) — related
 - [ASL proficiency correlates positively with English reading comprehension among deaf adults](asl-proficiency-correlates-reading-comprehension-deaf.md) — related
 - [Adult ASL-fluent participants significantly improved STEM test scores by about 22% after watching four-to-six-minute ASL video lessons](asl-stem-video-lessons-pre-post-learning-gain.md) — related
 - [Native signers of ASL show more proficient bilingual abilities than non-native signers](native-signers-higher-bilingual-abilities.md) — related

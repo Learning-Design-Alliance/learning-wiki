@@ -47,6 +47,6 @@ Analysis of FITNESSGRAM scores for 389 matched pre/post students; McNemar's test
 ## Related Claims
 - [SBSM students outperformed both control groups and district/state averages on FITNESSGRAM passing](sbsm-students-outperformed-controls-fitnessgram.md) — related
 - [Parental perceptions of child fitness and activity did not change significantly after the curriculum](sbsm-parental-perceptions-no-significant-change.md) — related
-- [The SBSM curriculum significantly increased student fitness knowledge and confidence](sbsm-curriculum-increased-fitness-knowledge-confidence.md) — related
+- [Student fitness knowledge and confidence rose from pre-test to post-test after the SBSM curriculum, in one uncontrolled pre-post study](sbsm-curriculum-increased-fitness-knowledge-confidence.md) — related
 - [The SBSM P.E. curriculum significantly increased student enjoyment of P.E. among Los Angeles inner-city adolescents](sbsm-curriculum-increased-pe-enjoyment.md) — related
 - [Teachers rated the SBSM curriculum highly effective and observed higher student participation than prior curricula](sbsm-teachers-rated-highly-effective-higher-participation.md) — related

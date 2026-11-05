@@ -46,4 +46,4 @@ ANCOVA on the Argumentation Test (Infante & Rancer, 1982) controlling for pretes
 
 ## Related Claims
 - [Scientific argumentation based learning significantly improves eighth-grade students' academic achievement in the unit of cell division and inheritance compared to traditional teaching.](argumentation-improves-cell-division-achievement.md) — related
-- [Participating in argumentation-based lessons increases students' willingness for argumentation](argumentation-increases-willingness-for-argumentation.md) — related
+- [Students' Argumentation Willingness Scale scores rose from pretest to posttest within the experiment group after argumentation-based lessons](argumentation-increases-willingness-for-argumentation.md) — related

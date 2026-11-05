@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Each of the six individual basic mathematics skills improves significantly after plasticized-clay activities
-description: Each of the six individual basic mathematics skills improves significantly after plasticized-clay activities
+title: Each of the six individual basic mathematics skills scored higher from pre-test to post-test after plasticized-clay activities in one uncontrolled pre-post study
+description: Each of the six individual basic mathematics skills scored higher from pre-test to post-test after plasticized-clay activities in one uncontrolled pre-post study
 id: clay-activities-individual-skills-significant-gains
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Each of the six individual basic mathematics skills improves significantly after plasticized-clay activities
+# Each of the six individual basic mathematics skills scored higher from pre-test to post-test after plasticized-clay activities in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -46,5 +46,5 @@ Paired sample T-Tests on each of the six skills (5 questions each) in Table 2 (N
 
 ## Related Claims
 - [Classification is the least-developed basic mathematics skill after plasticized-clay activities, rated moderate](classification-least-developed-clay-activities.md) — related
-- [Preschool children's overall basic mathematics scores rise significantly after plasticized-clay art activities (p<.01, t=26.458)](clay-activities-significant-pre-post-gain-overall.md) — a broader claim this one bears on
+- [Preschool children's overall basic mathematics scores rose significantly from pre-test to post-test after plasticized-clay art activities, in one uncontrolled pre-post study (p<.01, t=26.458)](clay-activities-significant-pre-post-gain-overall.md) — a broader claim this one bears on
 - [Plasticized-clay art activities produce high post-activity development levels across basic mathematics skills in preschool children](plasticized-clay-art-high-development-math-skills.md) — related
