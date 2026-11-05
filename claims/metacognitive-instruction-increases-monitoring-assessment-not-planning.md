@@ -51,7 +51,7 @@ Questionnaire data from the experimental group (n=24) using a 34-item metacognit
 
 ## Related Claims
 - [Explicit metacognitive strategy instruction improves ESL reading comprehension performance](metacognitive-strategy-instruction-improves-esl-reading-comprehension.md) — related
-- [Web-based metacognitive skills training significantly improved college students' self-plan, self-monitor, and total metacognitive scores from pretest to posttest](web-training-prepost-gains-self-plan-self-monitor.md) — related
+- [College students given web-based metacognitive skills training rated their self-plan, self-monitor and total metacognitive scores higher at posttest than pretest, but gained more than a control group only on self-plan](web-training-prepost-gains-self-plan-self-monitor.md) — related
 - [Diary keeping significantly increases metacognition strategy use of pre-service science teachers](diaries-increase-metacognition-strategies.md) — related
 - [Explicit reading strategy instruction produced a statistically significant pre-to-post gain in reading comprehension for Ethiopian EFL university students](strategy-instruction-significant-prepost-gain-efl.md) — related
 - [Grade 11 ESL learners who received explicit reading strategy instruction achieved statistically and practically significantly higher reading comprehension scores than control-group learners](strategy-instruction-improves-grade11-esl-reading-comprehension.md) — related

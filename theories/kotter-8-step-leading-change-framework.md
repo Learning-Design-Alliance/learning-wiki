@@ -39,7 +39,7 @@ Kotter's 8-Step Process for Leading Change is a change management roadmap for le
 
 ### Claims
 
-- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](../claims/isolated-innovations-are-rejected-by-the-system-they-enter.md) [~W]
+- [An innovation foreign to the rest of its system may be rejected; lasting change needs a coordinated bundle of innovations.](../claims/isolated-innovations-are-rejected-by-the-system-they-enter.md) [~W]
 
 ## Related Theories
 - 

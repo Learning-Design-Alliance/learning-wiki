@@ -68,7 +68,7 @@ The paper cites prior Logo research (Jonassen & Reeves, 1996; Pea, Kurland, & Ha
 
 - [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md) — the general claim this finding bears on, with the studies behind it
 
-- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — the general claim this finding bears on, with the studies behind it
+- [An innovation foreign to the rest of its system may be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — the general claim this finding bears on, with the studies behind it
 - [Salomon distinguishes effects with the computer (system performance) from effects of the computer (cognitive residue on the solo performer)](effects-with-versus-effects-of-computer.md) — related
 - Salomon and Perkins distinguish learning with a tool from learning of a tool, with tools triggering cognitive transformations — related
 - [Mead holds that the process of acquiring changes the thing acquired, making change of subject matter the rule](acquiring-changes-the-thing-acquired.md) — related

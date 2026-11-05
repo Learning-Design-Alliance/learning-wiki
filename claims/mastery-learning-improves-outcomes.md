@@ -79,7 +79,7 @@ This meta-analysis pooled 108 controlled evaluations of mastery learning program
 
 ## Related Claims
 
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — the general claim this finding bears on, with the studies behind it
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — the general claim this finding bears on, with the studies behind it
 
 - [Mastery learning gains persist at follow-up](mastery-learning-gains-persist-at-follow-up.md) — the same synthesis, follow-up examinations
 - [Mastery learning effects are larger for lower-aptitude students](mastery-learning-effects-larger-for-lower-aptitude-students.md) — the same synthesis, by aptitude

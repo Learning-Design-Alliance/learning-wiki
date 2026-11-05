@@ -71,6 +71,6 @@ Synthesized professional-cognition finding: students approached virtual patients
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
 - [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md) — related
 - [In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies](vp-vs-other-digital-no-difference.md) — reports the opposite
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
 - [A JBI meta-synthesis of 17 qualitative studies integrates nursing students' virtual simulation experiences into nine categories and four synthesized findings](vs-teaching-meta-synthesis-four-findings.md) — a broader claim this one bears on
 - [Simulator practicals increased student confidence in practical skills](simulator-practicals-increase-practical-skills-confidence.md) — related

@@ -50,7 +50,7 @@ Survey of academic staff at an Australian university administered in 2023 explor
 - [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — a broader claim this one bears on
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — a broader claim this one bears on
 - [Qualitative findings identified plagiarism, student overreliance on AI, and a barrier of reconciling institutional policy gaps with personal ethical values](qualitative-genai-challenges-policy-gap-barrier.md) — a narrower finding that bears on this claim
 - [Nursing academics fear GenAI overreliance undermines critical thinking, knowledge translation and graduates' readiness for safe clinical practice](genai-overreliance-threatens-clinical-readiness.md) — a narrower finding that bears on this claim
 - [Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access](ai-concerns-critical-thinking-plagiarism-nursing.md) — a narrower finding that bears on this claim

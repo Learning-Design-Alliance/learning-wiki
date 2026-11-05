@@ -47,7 +47,7 @@ Authors' conceptual argument in the section adapting the knowledge triangle. The
 
 ## Related Claims
 - [Dispositions such as openness and shared responsibility are shaped by conditions, not fixed individual traits](dispositions-shaped-by-conditions.md) — related
-- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related
+- [An innovation foreign to the rest of its system may be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related
 - [Equitable access emerged as a prominent governance theme, with one-third of panelists explicitly mentioning equity or inclusion](genai-equitable-access-governance-theme.md) — related
 - [Staff reflections identify partner skills, knowledge, and dispositions that support full participation in Collaborative Innovation](staff-reflections-capacities-collaborative-innovation.md) — related
 - [Compatibility and relative advantage strongly enhance perceived innovation attributes of AI technologies](compatibility-relative-advantage-enhance-innovation-attributes.md) — related

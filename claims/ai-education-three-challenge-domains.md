@@ -49,7 +49,7 @@ The article's conceptual analysis enumerates three challenge domains, citing pri
 - [Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access](ai-concerns-critical-thinking-plagiarism-nursing.md) — a narrower finding that bears on this claim
 - Six named risks from AI systems span overestimation, data collection, synthetic outputs, invisibility, bias replication, and human and environmental costs — a broader claim this one bears on
 - [Passive engagement within correctly classified Aid tasks is a detection-resistant mis-skilling pathway requiring expert epistemic auditing](passive-engagement-aid-subzone-mis-skilling.md) — a narrower finding that bears on this claim
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - Implementing AI methodologies introduces a new layer of epistemic dependence and diffused accountability in science education research — related
 - [Equitable access emerged as a prominent governance theme, with one-third of panelists explicitly mentioning equity or inclusion](genai-equitable-access-governance-theme.md) — related
 - Generative AI can help people finish tasks more quickly but does not accelerate learning itself — related

@@ -47,7 +47,7 @@ Study of 60 clinical students randomised across traditional instruction, hand-he
 ## Related Claims
 - [AR and 2D methods boosted knowledge similarly, but the 3D AR method drew greater satisfaction and student preference (Lopez et al.)](lopez-ar-similar-knowledge-higher-satisfaction.md) — related
 - [3D virtual-reality lecture was statistically non-inferior to 2D lecture on knowledge and rated better on spatial understanding and enjoyment (Kockro et al.)](kockro-3d-lecture-noninferior-rated-better.md) — related
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — related
 - [Interactive 3D stereoscopic video produced higher post-test scores on anatomical relationships and clinical reasoning than 2D video (Bernard et al.)](bernard-3d-stereoscopy-relationships-reasoning.md) — related
 - [Simulation training improves fundus identification rate and time compared with simulated-patient-only training in a randomised trial](wu-3d-printed-eye-model-improves-fundus-identification.md) — related

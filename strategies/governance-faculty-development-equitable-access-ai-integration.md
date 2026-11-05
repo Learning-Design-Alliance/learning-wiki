@@ -43,7 +43,7 @@ The review concludes that despite advantages of AI-based technologies, "Successf
 
 - [Significant barriers to AI implementation include algorithmic bias, lack of transparency, data privacy concerns, unregulated use, and system limitations](../claims/ai-implementation-barriers-medical-education.md) [+W]
 - [Equitable access emerged as a prominent governance theme, with one-third of panelists explicitly mentioning equity or inclusion](../claims/genai-equitable-access-governance-theme.md) [+W]
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](../claims/integrity-equity-concerns-span-all-units.md) [+W]
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](../claims/integrity-equity-concerns-span-all-units.md) [+W]
 
 ## Related Strategies
 - 

@@ -48,4 +48,4 @@ Null comparison of VR simulator output data between the two randomized groups of
 ## Related Claims
 - [Students who complete VR haptic simulator training before artificial-tooth practice report lower stress before and after access cavity preparation than students who start with artificial teeth](vr-first-lower-stress-artificial-teeth.md) — related
 - [Dental students who train on a VR haptic simulator before artificial-teeth practice score higher on preclinical access cavity preparation and self-assessment than students who practice on artificial teeth first](vr-first-higher-preclinical-dexterity-scores.md) — related
-- [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](ir-dental-equivalence-mixed-findings.md) — related
+- [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](ir-dental-equivalence-mixed-findings.md) — related

@@ -47,6 +47,6 @@ The review reports, citing Sitzmann (2011), a meta-analysis of 65 studies findin
 ## Related Claims
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [The review reports that students learning with serious games often perform better on content knowledge assessments than those in traditional settings](serious-games-better-content-knowledge-than-traditional.md) — related
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related
 - [The review reports that simulation games support near transfer of knowledge but evidence for long-term or far transfer is less robust](simulation-near-transfer-robust-far-transfer-weak.md) — related
 - [Simulation games are effective as a supplement to other instruction but not as standalone instruction, where comparison groups learned slightly more (a difference not statistically significant)](simulation-games-as-supplement-not-standalone.md) — related

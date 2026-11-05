@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve"
-description: "In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve"
+title: "In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate improved on some criteria but not others"
+description: "In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate improved on some criteria but not others"
 id: probing-feedback-revise-resubmit-evidence
 status: review
 generated:
@@ -28,11 +28,11 @@ sources:
     rigour: 3
 ---
 
-# In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve
+# In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate improved on some criteria but not others
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r3` · `q1`
-> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Probing instructor feedback with required revise-and-resubmit moved candidates toward evidence-based descriptions of student understanding -->
 
 ## Subclaims
@@ -47,7 +47,7 @@ Janis, S., Schmeichel, M., Grace, C., Wegrzyn, K., & Lee, J. (2025). Making Lear
 
 `q1 · case analysis of individual candidates' submissions` · `i?` · `design · r3`
 
-Case analysis of Marcus's weekly submissions. After probing feedback ("You need evidence from the students' responses to answer this question. Please revise and resubmit"), Marcus added cited student evidence such as students who "pulled out specific information from the text."
+Case analysis of Marcus's assignment submissions (six analysed per candidate). After probing feedback ("You need evidence from the students' responses to answer this question. Please revise and resubmit"), Marcus added cited student evidence such as students who "pulled out specific information from the text."
 
 > "By focusing Marcus' attention to the elements that were lacking in his assessment of student understandings, and offering him an opportunity to resubmit, the clinical instructor played a strategic role in guiding Marcus towards more sophisticated pedagogical judgment."
 
@@ -57,7 +57,7 @@ Janis, S., Schmeichel, M., Grace, C., Wegrzyn, K., & Lee, J. (2025). Making Lear
 
 `q1 · case analysis of individual candidates' submissions` · `i?` · `design · r3`
 
-The same case analysis notes non-linear progress: Marcus sometimes "reverted to vague descriptions of student understandings." Alice "did not improve her capacity to attend to individual students" and persisted in blaming students, so improvement was partial and criterion-specific.
+The same case analysis notes non-linear progress: Marcus sometimes "reverted to vague descriptions of student understandings." A second candidate, Alice, did improve in one respect: after a revised prompt and repeated requests for detail she began describing students' understanding with concrete examples and reached the "sophisticated" level of rich descriptions. But she "did not improve her capacity to attend to individual students" and largely continued to frame students as the source of their difficulties, so improvement was partial and criterion-specific.
 
 > "It is important to note that Marcus’ progress was not linear; some of his responses were enhanced following feedback from the clinical instructor."
 

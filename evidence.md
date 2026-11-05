@@ -6,10 +6,10 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 ## In short
 
-The wiki holds **11,827 distinct studies** behind 50,238 claims. What they add up to (the sections below have the detail):
+The wiki holds **11,828 distinct studies** behind 50,238 claims. What they add up to (the sections below have the detail):
 
 - **Few studies can show a cause.** 33% are experiments or systematic reviews (`q3` or `q4`); only 2% are pre-registered trials or well-powered meta-analyses (`q4`). 58% are quasi-experiments, observational studies or narrative reviews, and 10% are case studies, opinion or theory.
-- **Few print an effect size.** 3,124 of 11,827 studies (26%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
+- **Few print an effect size.** 3,125 of 11,828 studies (26%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
 - **Strong work is not only trials.** 1,322 studies are rated `r3`, done well for their kind; 842 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
 - **Most findings stand alone.** 99% of claims rest on one study; a finding reported once, in one setting, has not been shown to hold elsewhere.
 - **Not all research reaches design.** 78% of studies, and 51% of claims, are cited by a principle, pattern, element, strategy or design; the rest are recorded but not connected to a design decision, either because none has been written or because the finding does not bear on one.
@@ -23,10 +23,10 @@ These figures describe two things at once: what education research has produced,
 |---|---|
 | Claims | 50,238 |
 | Evidence entries | 58,910 |
-| Distinct studies | 11,827 |
+| Distinct studies | 11,828 |
 | Claims resting on one study | 49,642 (99%) |
 | Claims with no coded evidence | 3 |
-| Studies reporting an effect size | 3,124 of 11,827 (26%) |
+| Studies reporting an effect size | 3,125 of 11,828 (26%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
@@ -37,14 +37,14 @@ These figures describe two things at once: what education research has produced,
 | review | 327 | 876 | 136 | 151 | 1,490 |
 | associational | 134 | 1,398 | 635 | 306 | 2,473 |
 | qualitative | 209 | 389 | 80 | 104 | 782 |
-| design | 106 | 845 | 159 | 39 | 1,149 |
+| design | 106 | 846 | 159 | 39 | 1,150 |
 | theoretical | 200 | 438 | 84 | 72 | 794 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 1,126 (10%) | 6,806 (58%) | 3,708 (31%) | 187 (2%) |
+| 1,127 (10%) | 6,806 (58%) | 3,708 (31%) | 187 (2%) |
 
 **Studies per claim:** 0: 3, 1: 49,642, 2: 504, 3: 68, 4 or more: 21.
 
@@ -103,13 +103,13 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Learners invest more effort in tasks they perceive as interesting, personally important, …](claims/task-value-increases-motivation-and-engagement.md) | 130 pages | 2 | q2–q3 | 0 of 2 |
 | [Process goals lead to better skill acquisition for novices than outcome goals.](claims/process-goals-outperform-outcome-goals-for-novices.md) | 106 pages | 2 | q3 | 0 of 2 |
 | [Worked-example guidance becomes less effective as learner expertise increases.](claims/worked-examples-less-effective-with-expertise.md) | 98 pages | 2 | q3 | 0 of 2 |
-| [In one 37-student classroom experiment, recall and retention differ across media …](claims/media-combinations-affect-recall-and-retention.md) | 90 pages | 1 | q3 | 0 of 1 |
+| [In one 37-student classroom experiment, learning scores differ across media combinations …](claims/media-combinations-affect-recall-and-retention.md) | 90 pages | 1 | q3 | 0 of 1 |
 | [Adding relevant pictures or graphics to text improves learning from it, with a small …](claims/dual-coding-improves-learning.md) | 86 pages | 3 | q2–q4 | 1 of 3 |
 | [Interesting but irrelevant details can impair comprehension and transfer, with effects …](claims/seductive-details-effect.md) | 86 pages | 6 | q2–q3 | 1 of 6 |
 | [In school studies, cooperative and peer-learning methods that reward groups on every …](claims/cooperative-learning-group-rewards-and-individual-accountability.md) | 84 pages | 3 | q2–q3 | 2 of 3 |
 | [Building Empathy Improves Intergroup Attitudes](claims/building-empathy-improves-intergroup-attitudes.md) | 80 pages | 3 | q3–q4 | 0 of 3 |
 
-Of the 39 claims cited from 50 or more pages, **6 rest on one study or none**: [In one 37-student classroom experiment, recall and retention differ …](claims/media-combinations-affect-recall-and-retention.md), [Part-task practice reduces cognitive load for absolute novices during …](claims/part-task-practice-reduces-load-for-novices.md), [Relevancy of emphasized text directs attention and influences test …](claims/relevancy-of-emphasis-directs-attention.md), [A training-design argument, not tested by any study recorded here, …](claims/whole-task-performance-improves-transfer.md), [Example-first conditions outperformed problem-first conditions on an …](claims/worked-example-problem-sequences.md), [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md).
+Of the 39 claims cited from 50 or more pages, **6 rest on one study or none**: [In one 37-student classroom experiment, learning scores differ across …](claims/media-combinations-affect-recall-and-retention.md), [Part-task practice reduces cognitive load for absolute novices during …](claims/part-task-practice-reduces-load-for-novices.md), [Relevancy of emphasized text directs attention and influences test …](claims/relevancy-of-emphasis-directs-attention.md), [A training-design argument, not tested by any study recorded here, …](claims/whole-task-performance-improves-transfer.md), [Example-first conditions outperformed problem-first conditions on an …](claims/worked-example-problem-sequences.md), [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md).
 
 ## Contested claims
 

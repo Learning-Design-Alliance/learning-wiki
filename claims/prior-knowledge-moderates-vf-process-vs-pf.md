@@ -74,7 +74,7 @@ Follow-up simple-correlation analyses within conditions: in VF-process prior kno
 - [Students who generated their own solutions or observed the full process did not significantly outperform students who only viewed the outcomes of failed solution attempts on conceptual knowledge](pf-vf-process-not-superior-to-vf-outcome.md) — related
 - [The three preparatory conditions did not differ on procedural knowledge acquisition](no-condition-differences-procedural-knowledge.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
-- [Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did](ability-moderates-hierarchical-organization-benefit.md) — related
+- [In one physics experiment, the hierarchical-organization advantage was significant for medium-ability but not low-ability subjects; no ability-by-treatment interaction was reported](ability-moderates-hierarchical-organization-benefit.md) — related
 - [Neither the quantity nor the quality of PF students' own solution attempts correlated with their conceptual knowledge acquisition](solution-attempts-not-correlated-with-conceptual-knowledge.md) — related
 - [Vicarious failure with high solution diversity is as effective as engaging in Productive Failure oneself for conceptual knowledge acquisition](vf-high-as-effective-as-pf.md) — related
 - [Prior knowledge score did not significantly moderate the sequence effect within either experiment, though each experiment covered a restricted prior-knowledge range](prior-knowledge-not-significant-moderator-within-experiments.md) — reports the opposite

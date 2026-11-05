@@ -48,7 +48,7 @@ Descriptive direction-of-effect synthesis across haptic simulator RCTs; the revi
 ## Related Claims
 - [Immersive VR-haptic and ITS modalities are more often associated with objective psychomotor and cognitive gains, while generative AI platforms are more often associated with affective outcomes](ads-modality-domain-patterns.md) — a broader claim this one bears on
 - [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](vr-enhances-practical-skill-acquisition-with-barriers.md) — related
-- [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](ir-dental-equivalence-mixed-findings.md) — reports the opposite
+- [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](ir-dental-equivalence-mixed-findings.md) — reports the opposite
 - [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — related
 - [Haptic virtual reality simulation reduces procedural time for pulpotomy training compared with conventional simulators](ir-reduces-procedural-time-dental.md) — related
 - [Sensor-based force measurement discriminates skill levels, with experts suturing faster and with lower applied force than novices](force-sensing-discriminates-surgical-skill.md) — related

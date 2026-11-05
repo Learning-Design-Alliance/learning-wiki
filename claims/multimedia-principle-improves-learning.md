@@ -76,7 +76,7 @@ Adults (Experiment 1, N=207) and youth (Experiment 2, N=193) were each randomly 
 | [Hahn and Klein 2025](https://doi.org/10.3389/fpsyg.2025.1544764) | q2 · causal · r1 | i2 · medium effect, d=0.40 | [Multiple representations improve learning](multiple-representations-improve-learning.md) (supports) |
 | [Rau 2017](https://doi.org/10.1007/s10648-016-9365-3) | q2 · review · r? | i? | [Multiple representations improve learning](multiple-representations-improve-learning.md) (supports) |
 | [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · theoretical · r3 | i3 | [Generative processing principles: words with pictures and conversational-style words impro](generative-processing-principles-mayer-2008.md) (supports) |
-| Alty 2002 | q3 · causal · r? | i? | [In one 37-student classroom experiment, recall and retention differ across media combinati](media-combinations-affect-recall-and-retention.md) (supports) |
+| Alty 2002 | q3 · causal · r? | i? | [In one 37-student classroom experiment, learning scores differ across media combinations i](media-combinations-affect-recall-and-retention.md) (supports) |
 | Kutbay 2020 | q2 · causal · r2 | i3 | [All ten multimedia treatment conditions produced significant pre-to-post achievement gains](all-treatments-produced-significant-gains.md) (supports) |
 | [Guo et al. 2020](https://doi.org/10.1177/2332858420901696) | q4 · quant-synthesis · r2 | i1 · small-to-moderate effect, g=0.39 | [Adding relevant pictures or graphics to text improves learning from it, with a small poole](dual-coding-improves-learning.md) (supports) |
 | [Carney and Levin 2002](https://doi.org/10.1023/a:1013176309260) | q2 · review · r? | i? | [Adding relevant pictures or graphics to text improves learning from it, with a small poole](dual-coding-improves-learning.md) (supports) |
@@ -149,7 +149,7 @@ Open questions include how the effect scales across media formats (static illust
 - [Hispanic adults valued culturally relevant visual design — bright colors, Hispanic representation, and realistic imagery — in lung cancer screening educational materials](culturally-relevant-visual-design-lcs-materials.md) — a narrower finding that bears on this claim
 - [Decorative Illustrations Do Not Improve Learning](seductive-details-effect.md) — related
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — a narrower finding that bears on this claim
-- [In one 37-student classroom experiment, recall and retention differ across media combinations in the direction Dual Coding Theory predicts](media-combinations-affect-recall-and-retention.md) — a broader claim this one bears on
+- [In one 37-student classroom experiment, learning scores differ across media combinations in the direction Dual Coding Theory predicts](media-combinations-affect-recall-and-retention.md) — a broader claim this one bears on
 - [MLM-script presentations fall between the other two groups: above the Textbook group but below the MLM group, as multimedia learning theory predicts](mlm-script-intermediate-between-mlm-and-textbook.md) — a narrower finding that bears on this claim
 - [Cognitive Load Management](cognitive-load-management.md) — related
 - [Redundancy Effect Impairs Learning](redundancy-principle.md) — related

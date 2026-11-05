@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which admitted by SAT score, invited over 2,500 boys but 1,081 girls in one summer although equal numbers took the test"
-description: "Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which admitted by SAT score, invited over 2,500 boys but 1,081 girls in one summer although equal numbers took the test"
+title: "Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which used SAT scores to decide summer-program invitations, was inviting over 2,500 boys but only 1,081 girls although equal numbers took the test"
+description: "Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which used SAT scores to decide summer-program invitations, was inviting over 2,500 boys but only 1,081 girls although equal numbers took the test"
 id: test-scores-gate-gifted-program-entry
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which admitted by SAT score, invited over 2,500 boys but 1,081 girls in one summer although equal numbers took the test
+# Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which used SAT scores to decide summer-program invitations, was inviting over 2,500 boys but only 1,081 girls although equal numbers took the test
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r1` · `q2`
@@ -29,7 +29,7 @@ sources:
 <!-- deprecated title (2026-10-05, overstated its evidence): Lower SAT scores reduce girls' entry into gifted and enrichment programs that use test scores for admission -->
 
 ## Subclaims
-`q2 i?` Talent-search programs using SAT scores admit far more boys than girls: Johns Hopkins CTY extended invitations to over 2,500 boys but only 1,081 girls in one summer, although an equal number of boys and girls took the test. [→ Sex and Race Differences on Standardized Tests: Oversight Hearings before the Subcommittee on Civil and Constitutional Rights of the Committee on the Judiciary 1989](#sex-and-race-differences-on-standardized-tests-oversight-hearings-before-the-subcommittee-on-civil-and-constitutional-rights-of-the-committee-on-the-judiciary-1989)
+`q2 i?` Rosser testified that at one talent search, Johns Hopkins CTY, where seventh graders scoring 500 or more on the SAT are invited to its summer camps, invitations that summer would go to over 2,500 boys but only 1,081 girls, although an equal number of boys and girls take the test. [→ Sex and Race Differences on Standardized Tests: Oversight Hearings before the Subcommittee on Civil and Constitutional Rights of the Committee on the Judiciary 1989](#sex-and-race-differences-on-standardized-tests-oversight-hearings-before-the-subcommittee-on-civil-and-constitutional-rights-of-the-committee-on-the-judiciary-1989)
 
 ## Evidence
 
@@ -39,7 +39,7 @@ Sex and Race Differences on Standardized Tests: Oversight Hearings before the Su
 
 `q2 · i? · the article prints no effect size for this finding` · `review · r1`
 
-Rosser's written testimony on the Johns Hopkins Center for the Advancement of Academically Talented Youth, which invited 16,876 seventh graders in 19 states to take the SAT. She reports the invitation split and argues girls' lower scores also cost them enrichment programs like the New Jersey Governor's School.
+Rosser's written testimony on the Johns Hopkins Center for the Advancement of Academically Talented Youth, which invited seventh graders in 19 states to take the SAT (the count is partly illegible in the scanned ERIC copy, which reads ".6,876"). She reports the invitation split and argues girls' lower scores also cost them enrichment programs like the New Jersey Governor's School.
 
 > "This summer, invitations to the Johns Hopkins program will be extended to over 2,500 boys but only 1,081 girls.Although an equal number of boys and girls take the test, girl's lower SAT scores keep them from qualifying, for these high-powered summer programs."
 

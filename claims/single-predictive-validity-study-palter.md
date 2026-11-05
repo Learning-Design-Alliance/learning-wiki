@@ -45,7 +45,7 @@ The review reports this as the only included study of predictive validity (Palte
 
 
 ## Related Claims
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
 - [Only one identified training study evaluated transfer to clinical outcomes, finding no impact](single-study-clinical-transfer-no-impact.md) — related
 - [Supervised resident training reduced operative time after 30–50 cases, approximating senior benchmarks](supervised-resident-training-reduces-operative-time-30-50-cases.md) — related
 - [A moulded rubber TEP box trainer programme produced higher composite operative scores (P = 0.01) and suggested transfer of skills to real operations](box-trainer-tep-transfer-operative-practice.md) — related

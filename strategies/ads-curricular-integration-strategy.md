@@ -49,7 +49,7 @@ Based on its synthesis, the review recommends that ADS may support complementary
 - [Evidence on AI-driven simulation in dental education shows moderate-to-high heterogeneity and limited certainty](../claims/ads-evidence-heterogeneity-limited-certainty.md) [~W]
 - [AI-driven simulation is associated with a statistically significant improvement in overall learning outcomes compared to traditional training in dental education](../claims/ads-improves-overall-learning-outcomes-dental.md) [+W]
 - [Immersive VR-haptic and ITS modalities are more often associated with objective psychomotor and cognitive gains, while generative AI platforms are more often associated with affective outcomes](../claims/ads-modality-domain-patterns.md) [+W]
-- [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](../claims/ir-dental-equivalence-mixed-findings.md) [-W]
+- [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](../claims/ir-dental-equivalence-mixed-findings.md) [-W]
 
 ## Related Strategies
 

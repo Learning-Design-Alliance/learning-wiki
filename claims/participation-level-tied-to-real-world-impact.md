@@ -46,4 +46,4 @@ Authors' interpretive assertion in the participatory research methods section, a
 
 ## Related Claims
 - [The authors assert that Systems Review participation builds SEA teams' capacity for shared purpose, decision-making, and adaptive change management](systems-review-builds-capacity-outcomes.md) — related
-- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related
+- [An innovation foreign to the rest of its system may be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related

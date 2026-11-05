@@ -68,7 +68,7 @@ Linear-model analysis of the same randomized comparison confirmed the exam-score
 - [The largest OSCE-domain improvement from multi-agent scaffolding was in communication performance](communication-largest-osce-gain.md) — a narrower finding that bears on this claim
 - [The largest checklist-item gain from multi-agent scaffolding was in observable empathic expression, with additional gains in selected history-taking items](empathy-checklist-item-largest-gain.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
 - [Multi-agent scaffolding showed no significant difference from the structured control in binary diagnostic accuracy or worksheet completion](no-diagnostic-accuracy-difference.md) — related
 - [Access to a structured conversational AI tutor increased post-test content scores over a no-AI holdout with ambient consumer AI available](structured-ai-tutor-raises-post-test-scores-field-experiment.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — a broader claim this one bears on

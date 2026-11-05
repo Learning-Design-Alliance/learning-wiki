@@ -47,7 +47,7 @@ The study's design sentence: a qualitative case study analysing "17 cases of Gen
 
 ## Related Claims
 - [In first-year GenAI adoption in business higher education, curriculum-integrated modules reported enhanced student engagement, performance and employability, while fragmented approaches were more susceptible to ethical concerns, overreliance and inequality](genai-integration-depth-tradeoff-business-education.md) — related
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - [Undergraduate business students strongly support integrating GenAI knowledge and application into higher education curricula](business-students-support-genai-curriculum-integration.md) — related
 - [First-year undergraduate business students reported high engagement and recognised the necessity of developing GenAI skills for their future careers](business-students-engaged-genai-skills-necessity.md) — related
 - [AI integration is associated with improvements in teaching, learning, and administrative efficiency in higher education when supported by adequate infrastructure](ai-integration-improves-teaching-learning-admin-efficiency.md) — a broader claim this one bears on

@@ -48,6 +48,6 @@ Quasi-experimental pretest/posttest control group study with two intact classes 
 ## Related Claims
 - [In one quasi-experiment in EFL writing classes, students given AI-peer integrated feedback reported higher posttest cognitive engagement than students given conventional peer feedback](ai-peer-feedback-higher-cognitive-engagement.md) — related
 - [The CEA learning model has a significant simultaneous effect on EFL students' speaking performance and feedback literacy](cea-simultaneous-effect-speaking-feedback-literacy.md) — related
-- [Web-based metacognitive skills training significantly improved college students' self-plan, self-monitor, and total metacognitive scores from pretest to posttest](web-training-prepost-gains-self-plan-self-monitor.md) — related
+- [College students given web-based metacognitive skills training rated their self-plan, self-monitor and total metacognitive scores higher at posttest than pretest, but gained more than a control group only on self-plan](web-training-prepost-gains-self-plan-self-monitor.md) — related
 - [Self-assessment has a significant positive effect on seventh-grade EFL students' independence compared with conventional teacher assessment](self-assessment-significant-effect-student-independence-efl.md) — related
 - [Brain-based teaching significantly improves self-efficacy in young EFL learners](brain-based-teaching-improves-young-efl-self-efficacy.md) — related

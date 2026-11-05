@@ -38,7 +38,7 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 
 ## Claims
 <!-- Claims reporting findings about this variable, with evidence tags -->
-- [Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did](../claims/ability-moderates-hierarchical-organization-benefit.md) [~M] — an instructional effect differs with it
+- [In one physics experiment, the hierarchical-organization advantage was significant for medium-ability but not low-ability subjects; no ability-by-treatment interaction was reported](../claims/ability-moderates-hierarchical-organization-benefit.md) [~M] — an instructional effect differs with it
 - [Ability to Reason (SMP 2) benchmark levels improved linearly across all three time points (d ≈ 0.78) with no significant quadratic trend](../claims/mindsets-smp2-linear-trend.md) [+M] — instruction changes it
 - [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](../claims/advance-organizers-improve-learning.md) [+M] — an instructional effect differs with it
 - [Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points); classroom environment and peer ability explained most of the above-norm rise but not the below-norm fall](../claims/double-dose-failure-rates-divergent.md) [~M] — an instructional effect differs with it

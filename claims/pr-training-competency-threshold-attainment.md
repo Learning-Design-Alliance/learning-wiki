@@ -46,7 +46,7 @@ In the same pre-post cohort, the proportion reaching the pre-specified 80% knowl
 
 ## Related Claims
 - [Only 40.26% of surveyed healthcare professionals met the criterion for high knowledge-based BLS competency (score ≥80 points).](40-percent-high-bls-knowledge-competency.md) — related
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
 - [A professional development masterclass produces a 24% overall improvement in educators' AI utilization competence with large effect sizes](pd-masterclass-24-percent-ai-competence-gain.md) — related
 - [Few participants in either group reached high accuracy cut-offs on the final FMA-LE test](fma-le-cutoff-pass-rates-low.md) — related
 - [Knowledge scores rose significantly from pre-training to post-training after a short pulmonary rehabilitation training program among primary care physiotherapists and AEPs, in a single-group pre-post study](pr-training-improves-knowledge-primary-care-clinicians.md) — related

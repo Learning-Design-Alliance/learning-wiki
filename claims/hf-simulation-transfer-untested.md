@@ -49,5 +49,5 @@ The review's synthesis of transfer evidence: one high-quality pre-post study rep
 - [Most included trials were conducted in simulated settings at Kirkpatrick evaluation level two, which may limit application to routine clinical practice](feedback-trials-mostly-simulated-kirkpatrick-level-two.md) — possibly the same claim (merge candidate)
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
 - [Gamification carries a risk of negative skill transfer when game scenarios differ from real-life practice](gamification-negative-transfer-risk.md) — related
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — reports the opposite
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — reports the opposite
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — reports the opposite

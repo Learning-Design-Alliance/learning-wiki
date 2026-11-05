@@ -29,7 +29,7 @@ A 30-hour, six-module supervisor-training curriculum developed by Dyer for ESL-q
 
 ### Claims
 - [The package claims minimal technical English limits workplace training through comprehension, confidence and written-form difficulties](../claims/minimal-technical-english-limits-training.md) [+W]
-- [Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society](../claims/program-completion-increased-confidence-autonomy-settlement.md) [+W]
+- [Immigrant graduates of a healthcare-aide training program described completing it as raising their confidence and self-esteem, which for some aided settlement and integration in Canada](../claims/program-completion-increased-confidence-autonomy-settlement.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -66,7 +66,7 @@ A 30-hour training package designed to assist workplace supervisors in Australia
 ## Claims
 
 - [The package claims minimal technical English limits workplace training through comprehension, confidence and written-form difficulties](../claims/minimal-technical-english-limits-training.md) [+W]
-- [Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society](../claims/program-completion-increased-confidence-autonomy-settlement.md) [+W]
+- [Immigrant graduates of a healthcare-aide training program described completing it as raising their confidence and self-esteem, which for some aided settlement and integration in Canada](../claims/program-completion-increased-confidence-autonomy-settlement.md) [+W]
 
 ## Related Elements
 - 

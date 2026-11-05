@@ -46,5 +46,5 @@ Narrative review attribution: the article reports, citing Scerbo et al. (2006), 
 
 ## Related Claims
 - [No significant difference was found between the traditional-method control group and the VRS experimental group on any of five phlebotomy performance metrics measured on actual patients](no-significant-difference-traditional-vs-vrs-phlebotomy-metrics.md) — related
-- [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](ir-dental-equivalence-mixed-findings.md) — related
+- [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](ir-dental-equivalence-mixed-findings.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on

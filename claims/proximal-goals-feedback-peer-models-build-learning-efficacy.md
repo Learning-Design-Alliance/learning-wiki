@@ -48,7 +48,7 @@ Schunk, D. H. (1996). Self-Efficacy for Learning and Performance. https://eric.e
 
 `q2 · narrative review reporting earlier studies second-hand · i? · the article prints no effect size for this finding` · `review · r2`
 
-Empirical evidence section on task factors, citing the Bandura and Schunk (1981) fractions study. Proximal goals are hypothesized to convey clearer information to students concerning their learning progress.
+Empirical evidence section on task factors, citing Bandura and Schunk (1981); the review does not describe that study's task or participants. Proximal goals are hypothesized to convey clearer information to students concerning their learning progress.
 
 > "close-at-hand proximal goals lead to higher self-efficacy, motivation, and skillful performance, compared with temporally distant goals (Bandura & Schunk, 1981)"
 

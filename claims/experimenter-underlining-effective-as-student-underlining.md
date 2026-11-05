@@ -15,7 +15,7 @@ sources:
     author: "Nist, S. L., & Hogrebe, M. C."
     q: 3
     i: "?"
-    n: not reported in what was read
+    n: 67
     kind: causal
     rigour: "?"
 ---
@@ -23,18 +23,18 @@ sources:
 # In one experiment, students who generated their own underlining did not score significantly higher on tests than students given experimenter-generated underlining
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r?` · `q3` · n=not reported in what was read
+> **Evidence** · 1 study · causal `r?` · `q3` · n=67
 > **Currency** · newest study 1985 · not yet checked against its sources · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 13 design pages cite it; treat it as a lead to check, not an established finding.
 <!-- deprecated title (2026-10-05, overstated its evidence): Experimenter-generated underlining is as effective as student-generated underlining for test performance -->
 
 <!-- deprecated (2026-10-05, overstated its evidence): The act of generating one's own underlining does not, by itself, improve test performance over simply studying text that someone else has underlined — what matters is which content gets marked, not who marks it. -->
 
-One experiment found no significant advantage for students who generated their own underlining over students given experimenter-generated underlining. The entry records no sample size and no effect size, so the result is a single non-significant difference, not a demonstration that the two are equivalent; the entry does not report the result of the study's relevance manipulation.
+One experiment found no significant advantage for students who generated their own underlining over students given experimenter-generated underlining. With 67 students across five groups of 12 to 14 and no effect size printed for this comparison, the result is a single non-significant difference, not a demonstration that the two are equivalent.
 
 ## Subclaims
 
-`q3 i?` In one experiment, students who generated their own underlining did not perform significantly better on tests than students given experimenter-generated underlining; no effect size or sample size is recorded. [→ Nist 1985](#nist-1985)
+`q3 i?` In one experiment, students who generated their own underlining did not perform significantly better on tests than students given experimenter-generated underlining (n = 67 across five groups); no effect size is printed for this comparison. [→ Nist 1985](#nist-1985)
 
 ## Evidence
 
@@ -44,15 +44,15 @@ Primary evidence link: https://eric.ed.gov/?id=ED265520
 
 Nist, S. L., & Hogrebe, M. C. (1985). The Effects of High and Low Relevant Text Underlining on Test Performance. [ERIC ED265520](https://eric.ed.gov/?id=ED265520)
 
-`q3 · peer-reviewed experiment, not pre-registered` · `i? · not significant; no effect size reported in what was read` · `n=not reported in what was read` · `causal · r?`
+`q3 · randomised experiment, conference paper (National Reading Conference 1985), not pre-registered` · `i? · not significant; no effect size printed for this comparison` · `n=67` · `causal · r?`
 
-In a controlled experiment comparing student-generated underlining with experimenter-generated underlining, the authors found that "subjects who generated their own underlining did not perform significantly better" than those given experimenter-generated underlining. The study also manipulated the relevance of the underlined content (high vs. low relevant text), suggesting that the selection of what to mark — rather than the generative act of marking — drives any effect on test performance.
+Sixty-seven college freshmen in a developmental reading/study-strategies course were randomly assigned to five conditions: high- or low-relevant experimenter underlining, each with or without annotation (n = 13, 14, 14, 12), or a control group (n = 13) given an unmarked passage and told to generate their own marking. A Dunnett test compared the control mean with each experimental condition on the high-relevant, low-relevant and total scores of a 24-item test taken the next day, and "the mean of the control group did not differ significantly from the most disparate mean of the four conditions": "subjects who generated their own underlining did not perform significantly better" than those given experimenter-generated underlining. Separately, the relevance of the experimenter's underlining shifted scores toward the emphasized questions (high-relevant score F(1, 49) = 13.56, eta-squared .21; low-relevant score eta-squared .12). The study did not analyse what the control students chose to mark, so it does not show whether selection, rather than the act of marking, explains the result.
 
 ## Discussion
 
-**Generation is not the active ingredient.** A common intuition holds that [annotating](../principles/annotating.md) text oneself is a generative activity that deepens processing relative to passively reviewing someone else's marks. This finding is in tension with that intuition for underlining specifically, though a single non-significant difference with no recorded sample size cannot show that generating the underlining adds nothing. This aligns with the broader literature on text marking, where underlining is among the weaker learning strategies and its value depends heavily on the quality of selection.
+**Generation is not the active ingredient.** A common intuition holds that [annotating](../principles/annotating.md) text oneself is a generative activity that deepens processing relative to passively reviewing someone else's marks. This finding is in tension with that intuition for underlining specifically, though a single non-significant difference in groups of 12 to 14 cannot show that generating the underlining adds nothing. This aligns with the broader literature on text marking, where underlining is among the weaker learning strategies and its value depends heavily on the quality of selection.
 
-**Selection quality is the moderator.** The study also manipulated the relevance of underlined content, but the entry does not report what that manipulation found. If relevance matters as the authors' design suggests, poorly chosen marks — whether made by students or experimenters — can be useless or harmful, while well-chosen marks help regardless of who makes them. Novices often select poorly when marking on their own, which may explain why self-generated underlining frequently fails to beat provided marks.
+**Selection quality is the moderator.** The study also manipulated the relevance of underlined content, and scores shifted toward whichever material the experimenter emphasized (see [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md)). If relevance matters in this way, poorly chosen marks — whether made by students or experimenters — can be useless or harmful, while well-chosen marks help regardless of who makes them. Novices often select poorly when marking on their own, which may explain why self-generated underlining frequently fails to beat provided marks.
 
 **Scope limits.** The claim concerns underlining specifically and immediate test performance; it does not establish that all forms of [annotating](../principles/annotating.md) are equivalent to provided marks. Richer annotation (marginal notes, elaborative comments, self-questioning) involves different cognitive processes than drawing lines and may show genuine generation benefits. Single-study support in one text domain also warrants replication before strong design prescriptions are drawn.
 

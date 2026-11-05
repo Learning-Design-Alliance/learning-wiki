@@ -38,7 +38,7 @@ Murray-Harvey, R., Pourshafie, T., & Santos Reyes, W. (2013). What teacher educa
 
 `q2 · i?` · `qualitative · r2`
 
-Discussion-section observation from the qualitative analysis of 122 students' written reflections. The authors state that "our students provided minimal reference to group  work delivering benefits (or losses) in relation to higher level cognitive / metacognitive processing, using those terms.", a point of departure from Schmidt et al.'s review.
+Discussion-section observation from the qualitative analysis of written texts from a cohort of 122 teacher education students; the texts analysed came from subsets of them: journal entries of 67 students, Assignment 1 PBL reports of 58, and Learning Evaluations of 46. The authors state that "our students provided minimal reference to group  work delivering benefits (or losses) in relation to higher level cognitive / metacognitive processing, using those terms.", a point of departure from Schmidt et al.'s review.
 
 > "our students provided minimal reference to group  work delivering benefits (or losses) in relation to higher level cognitive / metacognitive processing, using those terms."
 

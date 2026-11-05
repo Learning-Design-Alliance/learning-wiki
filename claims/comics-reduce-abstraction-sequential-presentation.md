@@ -50,5 +50,5 @@ The author's interpretation in the discussion section about why comic materials 
 - [Comic pictures may help struggling readers reach good readers' pace through greater picture use](comic-pictures-help-struggling-readers.md) — related
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related
 - [Material-oriented interventions such as complexity reduction, cueing/signaling, and text-picture integration are empirically tested support procedures for visual displays](material-oriented-interventions-tested.md) — related
-- [In one 37-student classroom experiment, recall and retention differ across media combinations in the direction Dual Coding Theory predicts](media-combinations-affect-recall-and-retention.md) — related
+- [In one 37-student classroom experiment, learning scores differ across media combinations in the direction Dual Coding Theory predicts](media-combinations-affect-recall-and-retention.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related

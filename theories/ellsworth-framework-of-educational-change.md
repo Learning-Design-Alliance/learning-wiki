@@ -47,7 +47,7 @@ Its concluding argument is systemic. A single innovation foreign to the rest of 
 
 ## Claims
 
-- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](../claims/isolated-innovations-are-rejected-by-the-system-they-enter.md) [+W]
+- [An innovation foreign to the rest of its system may be rejected; lasting change needs a coordinated bundle of innovations.](../claims/isolated-innovations-are-rejected-by-the-system-they-enter.md) [+W]
 - [Change is a specialized instance of the general communication model](../claims/change-as-specialized-communication-instance.md) [+W]
 - [One student's resistance to GenAI was entangled with neurodiversity, a biological conception of authentic effortful learning, and anxieties about rapid technological change](../claims/genai-resistance-entangled-neurodiversity-authenticity.md) [~W]
 - [Innovation attributes catalyse both intention to use and actual adoption of AI-enabled systems](../claims/innovation-attributes-drive-intention-and-adoption.md) [~W]
@@ -57,7 +57,7 @@ Its concluding argument is systemic. A single innovation foreign to the rest of 
 
 ## The evidence by question
 
-- *Is an educational innovation more likely to be adopted and kept when it fits the system it enters and adopters perceive it as compatible and advantageous?* [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](../claims/isolated-innovations-are-rejected-by-the-system-they-enter.md) [+M]
+- *Is an educational innovation more likely to be adopted and kept when it fits the system it enters and adopters perceive it as compatible and advantageous?* [An innovation foreign to the rest of its system may be rejected; lasting change needs a coordinated bundle of innovations.](../claims/isolated-innovations-are-rejected-by-the-system-they-enter.md) [+M]
 
 ## Related Theories
 

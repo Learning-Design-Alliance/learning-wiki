@@ -46,7 +46,7 @@ Grounded-coding finding from the Delphi panel: "Panelists voiced concern that wi
 
 
 ## Related Claims
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - [Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access](ai-concerns-critical-thinking-plagiarism-nursing.md) — related
 - [Universities' GenAI policies widely embrace core ethical and governance principles but often overlook inclusion, equity, and sustainability issues such as internet access, gender parity in AI, and environmental impact](genai-policies-overlook-inclusion-equity-sustainability.md) — related
 - [Staff raised equity concerns that students who pay for upgraded GenAI tools gain an advantage over peers using free versions](paid-ai-tool-access-equity-advantage.md) — related

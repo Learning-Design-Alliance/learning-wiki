@@ -57,6 +57,6 @@ KJ-method qualitative descriptive analysis of open-ended responses from all 20 p
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — related
 - [Haptic virtual reality simulation reduces procedural time for pulpotomy training compared with conventional simulators](ir-reduces-procedural-time-dental.md) — related
 - [Virtual haptic drilling training achieved outcomes similar to conventional practice in less time in restorative dentistry](ir-shortens-dental-training-duration.md) — related
-- [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](ir-dental-equivalence-mixed-findings.md) — related
+- [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](ir-dental-equivalence-mixed-findings.md) — related
 - [AR/VR training shows equal or superior outcomes versus conventional training in dental and OMFS education](arvr-noninferior-or-superior-dental-omfs-training.md) — related
 - [VR neurosurgical simulators show favourable visual realism but low haptic fidelity, with only 12% of participants in one study agreeing haptics were realistic](vr-neurosurgical-simulators-low-haptic-fidelity.md) — related

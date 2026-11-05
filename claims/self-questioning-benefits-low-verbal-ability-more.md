@@ -51,7 +51,7 @@ Experiment 1: 29 rural high school seniors randomly assigned to questioning-with
 
 ## Related Claims
 - [Treatment x verbal ability interaction replicated only after excluding the high-variance middle ability group (Experiment 2)](treatment-ability-interaction-middle-group-excluded.md) — possibly the same claim (merge candidate)
-- [Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did](ability-moderates-hierarchical-organization-benefit.md) — related
+- [In one physics experiment, the hierarchical-organization advantage was significant for medium-ability but not low-ability subjects; no ability-by-treatment interaction was reported](ability-moderates-hierarchical-organization-benefit.md) — related
 - [A self-explanation instruction during rereading improves monitoring accuracy for all readers above mere rereading (Experiment 2)](self-explanation-improves-metacomprehension-accuracy.md) — related
 - [AI Interaction Competence, not GPA or prior knowledge, is the decisive moderator of LLM-assisted learning gains](aic-moderates-llm-learning-gains.md) — related
 - [Questioning-with-training produced higher posttest scores than read-reread study (Experiment 2)](questioning-with-training-beats-rereading.md) — related

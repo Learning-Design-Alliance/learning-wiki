@@ -67,7 +67,7 @@ Ngo et al. (2024) qualify this claim. The claim concerns practice frequency and 
 
 ## Related Claims
 
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — the general claim this finding bears on, with the studies behind it
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — the general claim this finding bears on, with the studies behind it
 
 - [CAPT software shows promising results for segmental pronunciation, while prosodic features and fluency still require further research and development](capt-strong-segmentals-weak-prosody.md) — the general claim this finding bears on, with the studies behind it
 - [ASR transcription serves as a diagnostic tool identifying individual learners' pronunciation errors, with function words most commonly mispronounced](asr-diagnostic-identification-pronunciation-errors.md) — related

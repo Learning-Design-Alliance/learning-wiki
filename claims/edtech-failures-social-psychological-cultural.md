@@ -45,7 +45,7 @@ The commentary's interpretive argument, citing Cuban, Ames, and Reich: failures 
 
 
 ## Related Claims
-- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — a broader claim this one bears on
+- [An innovation foreign to the rest of its system may be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — a broader claim this one bears on
 - [Digital education innovations are an interplay of technological, pedagogical, organisational and governance-related dimensions](digital-education-innovation-four-dimension-interplay.md) — a broader claim this one bears on
 - [Primary barriers to infusing 21st century skills are psychological, political, and cultural rather than conceptual, technical, or economic](barriers-psychological-political-cultural.md) — related
 - [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](technical-issues-barrier-playlist-implementation.md) — reports the opposite

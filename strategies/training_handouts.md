@@ -12,7 +12,7 @@ generated:
 # Training Handouts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 10 studies (5 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 2 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 10 studies (5 causal, 3 quant-synthesis, 2 review), `q2`–`q4` · 3 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 Training handouts are supplementary materials distributed during training sessions to structure attention, support note-taking, and provide a durable reference after the session ends. Effective handouts do not duplicate slides verbatim; they are designed as participation tools — outlines with gaps to complete, worksheets, feedback forms, and action plans — that require learners to actively process content during the session.

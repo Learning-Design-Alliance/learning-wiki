@@ -71,7 +71,7 @@ The same leader survey, as reported in the brief, found leaders expressed instit
 - [Most surveyed college leaders report written GenAI responsible-use policies, but decision-making is largely left to educators](majority-college-leaders-written-genai-policies.md) — related
 - Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs — related
 - [Implementing collaborative argumentation is challenged by time constraints, curriculum fit, teacher training, and system-level support](argumentation-implementation-challenges.md) — related
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - [Four current challenges impede AI literacy implementation: inconsistent policies, uneven knowledge, resistance, and cost barriers](four-challenges-ai-literacy-implementation.md) — related
 - [A majority of surveyed students want institutional training on professional and ethical AI tool use](students-want-ai-training-survey.md) — related
 - [Fear that AI will replace jobs creates significant barriers to workforce engagement in AI literacy training](job-replacement-fear-barriers-ai-training.md) — related

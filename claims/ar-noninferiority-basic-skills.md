@@ -67,7 +67,7 @@ Evaluator-blinded parallel RCT (n=20 medical students) comparing Vuzix M300XL sm
 - [AR guidance improves objective technical accuracy in surgical trainees, most strongly in tasks with high visuospatial demands](ar-improves-technical-accuracy-visuospatial-tasks.md) — related
 - [No significant difference between virtual simulation and authentic video on the basic observation dimension of assignments](vs-av-no-difference-observation-dimension.md) — related
 - [Immersive VR simulation is noninferior to live simulation for developing teamwork and communication skills](vr-noninferior-to-live-simulation-teamwork-communication.md) — a broader claim this one bears on
-- [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](ir-dental-equivalence-mixed-findings.md) — a broader claim this one bears on
+- [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](ir-dental-equivalence-mixed-findings.md) — a broader claim this one bears on
 - [AR training is consistently associated with reduced procedural errors across all studies measuring that outcome](ar-reduces-procedural-errors.md) — reports the opposite
 - [Distance simulation of technical skills achieves skill outcomes comparable to traditional on-site training in most comparative studies](distance-simulation-comparable-to-onsite-technical-skills.md) — a broader claim this one bears on
 - [Three comparative studies reported superior outcomes for distance simulation over traditional training, involving augmented reality telementoring, remote robotic teaching, and a virtual classroom](distance-simulation-superior-outcomes-three-studies.md) — reports the opposite

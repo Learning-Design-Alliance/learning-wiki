@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Peer feedback promoted critical reflection, collaboration and engagement, but students doubted its reliability because peers were statistics beginners
-description: Peer feedback promoted critical reflection, collaboration and engagement, but students doubted its reliability because peers were statistics beginners
+title: Peer feedback promoted critical reflection, collaboration and engagement, but one interviewed student doubted its reliability because peers were statistics beginners
+description: Peer feedback promoted critical reflection, collaboration and engagement, but one interviewed student doubted its reliability because peers were statistics beginners
 id: peer-feedback-soft-evaluative-judgement-statistics
 status: review
 generated:
@@ -28,15 +28,15 @@ sources:
     rigour: "?"
 ---
 
-# Peer feedback promoted critical reflection, collaboration and engagement, but students doubted its reliability because peers were statistics beginners
+# Peer feedback promoted critical reflection, collaboration and engagement, but one interviewed student doubted its reliability because peers were statistics beginners
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
-> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Peer feedback encouraged critical reflection, alternative explanations and co-regulated engagement in statistical analysis. [→ Xie 2025](#xie-2025)
-`q2 i?` Students limited their trust in peer feedback for final application because peers were beginners in statistics. [→ Xie 2025 (2)](#xie-2025-2)
+`q2 i?` One of the six purposively selected interviewees (Viki, in the peer-feedback group) limited her trust in peer feedback for final application because peers were beginners in statistics. [→ Xie 2025 (2)](#xie-2025-2)
 
 ## Evidence
 

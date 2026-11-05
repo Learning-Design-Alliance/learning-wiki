@@ -52,7 +52,7 @@ One-way ANOVA by proficiency level: VocTest 1 p = .011 (Level 2) and p = .003 (L
 - [Vocabulary retention declines between immediate and first delayed recall, then rises slightly between the first and second delayed tests](vocabulary-forgetting-pattern-decline-then-rise.md) — related
 - [Reading proficiency level moderates incidental vocabulary gains: higher-proficiency readers gained more, consistent with i+1](proficiency-level-moderates-incidental-vocabulary-gains.md) — related
 - [In Lomicka's think-aloud study, no statistical differences emerged among no-gloss, single-gloss, and multiple-gloss groups despite apparent vocabulary gains from multiple annotations](lomicka-no-statistical-difference-gloss-groups.md) — related
-- [Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did](ability-moderates-hierarchical-organization-benefit.md) — related
+- [In one physics experiment, the hierarchical-organization advantage was significant for medium-ability but not low-ability subjects; no ability-by-treatment interaction was reported](ability-moderates-hierarchical-organization-benefit.md) — related
 - [L2 proficiency level is a significant moderator: multiple glosses benefit intermediate and advanced learners more than elementary learners](proficiency-level-moderates-gloss-effect.md) — related
 - [The review reports that readers' proficiency, not the kind of schemata activated, moderates the benefit of pre-reading approaches](proficiency-moderates-prereading-benefit.md) — related
 - [Vocabulary gains from textual gloss use occur immediately but are not maintained over three weeks across all proficiency levels](gloss-gains-not-maintained-three-weeks.md) — related

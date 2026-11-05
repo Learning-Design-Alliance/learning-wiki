@@ -46,7 +46,7 @@ Authors' interpretation in the Discussion section, not a tested result. They sug
 
 
 ## Related Claims
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
 - [Simulation-trained students significantly outperformed clinically trained peers on the radiation safety procedures OSCE station](sbt-outperforms-cbt-safety-procedures-station.md) — related
 - [Simulation-trained students showed higher mean scores across all four OSCE stations compared with clinically trained peers](sbt-higher-mean-scores-all-osce-stations.md) — related

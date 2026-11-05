@@ -66,7 +66,7 @@ Submission creates the accountability structure that makes practice productive: 
 ## The evidence by question
 
 - *Does independent practice outside class (homework) raise achievement, and what makes it work?* [Timely feedback on homework increases learning, and computer platforms providing immediate feedback help teachers adapt](../claims/timely-feedback-improves-homework-learning.md) [+M]
-- *Does requiring learners to revise and resubmit after feedback improve the work, and when do repeated resubmissions stop helping?* [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve](../claims/probing-feedback-revise-resubmit-evidence.md) [~W]
+- *Does requiring learners to revise and resubmit after feedback improve the work, and when do repeated resubmissions stop helping?* [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate improved on some criteria but not others](../claims/probing-feedback-revise-resubmit-evidence.md) [~W]
 
 ## Related Elements
 

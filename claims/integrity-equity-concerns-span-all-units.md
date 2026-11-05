@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently
-description: Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently
+title: Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns
+description: Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns
 id: integrity-equity-concerns-span-all-units
 status: review
 generated:
@@ -21,14 +21,14 @@ sources:
     rigour: 2
 ---
 
-# Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently
+# Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
-`q2 i?` Across all surveyed units, respondents consistently raised academic integrity concerns, calls for professional development, absence of institutional vision, and equity concerns ranging from unequal access to paid AI tools to biased AI outputs. [→ Dozier 2026](#dozier-2026)
+`q2 i?` Themes that spanned all surveyed units were the absence of an institutional vision, academic integrity concerns (interpreted differently by unit) and calls for professional development; in addition, several respondents raised equity concerns, ranging from unequal access to paid AI tools to biased or exclusionary AI outputs. [→ Dozier 2026](#dozier-2026)
 
 ## Evidence
 

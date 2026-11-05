@@ -17,7 +17,7 @@ sources:
 # Four-section web-based metacognitive training website
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The authors developed a website with four sections — self-plan, self-monitor, self-modify, and self-evaluate — each with stated learning objectives (e.g. "Make learning plans", "Identify the concepts learners do not understand"). Each section consisted of introduction, learning by case, exercises by case, and test, was expected to be completed in one hour, and integrated advance organizers, multimedia case studies, and exercises using concept maps, checklists, and the Creative Problem-Solving Model. Materials were also accessible from home after class.
@@ -37,7 +37,7 @@ The authors developed a website with four sections — self-plan, self-monitor, 
 - self-planning, self-monitoring, self-modifying, and self-evaluating one's learning
 
 ### Claims
-- [Web Training Prepost Gains Self Plan Self Monitor](../claims/web-training-prepost-gains-self-plan-self-monitor.md) [+M]
+- [College students given web-based metacognitive skills training rated their self-plan, self-monitor and total metacognitive scores higher at posttest than pretest, but gained more than a control group only on self-plan](../claims/web-training-prepost-gains-self-plan-self-monitor.md) [~W]
 
 ## Related Designs
 - 

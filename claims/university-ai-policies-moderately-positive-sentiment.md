@@ -50,7 +50,7 @@ NLP sentiment analysis of a corpus of 130 university AI policies crawled from R1
 - [Only eight of 130 sampled universities had a business-school-specific AI policy, limiting discipline-specific alignment](few-business-schools-own-ai-policies.md) — related
 - [Public sentiment toward AI in education on Twitter was predominantly positive (81.65% of tweets) across 2019–2024](twitter-aied-discourse-predominantly-positive-sentiment.md) — related
 - [Participants' perceptions of AI in higher education shifted from 20% negative and 40% neutral pre-institute to 0% negative and 90% positive post-institute](ubridge-perception-shift-positive.md) — related
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - [K-12 and higher education educators express generally positive feelings about research on digital learning platforms, with no negative respondents](educators-positive-feelings-dlp-research.md) — related
 - [AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent](ai-adoption-outpaces-regulatory-frameworks-inconsistency.md) — related
 - [Institutional initiatives, demographics, teaching practices, and information sources show weak or null associations with AI pedagogical orientation and use](institutional-and-information-variables-weakly-related-to-ai-use.md) — related

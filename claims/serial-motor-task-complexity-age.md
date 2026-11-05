@@ -49,7 +49,7 @@ Zaichkowsky reports his own 1974 study on memory development in a serial motor t
 - [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement](co-construction-scribe-teacher-fosters-composition-autonomy.md) — related
+- [In one observed session, six five-year-olds composing text with their teacher as scribe exercised autonomy of composition and judgement and stayed on task for 240 turns](co-construction-scribe-teacher-fosters-composition-autonomy.md) — related
 - [Self Talk Improves Learning And Performance](self-talk-improves-learning-and-performance.md) — related
 - [Short-term memory task profiles differ by age: 7–8-year-olds show no verbal–spatial difference, while 9–10-year-olds show a verbal > visuo-spatial > motor gradient.](stm-task-profiles-differ-by-age.md) — related
 - [Five-year-olds recall more words in a Brown-Peterson task when they finger-track a transparent goal cue during the retention interval](finger-tracking-transparent-goal-cue-improves-5yo-recall.md) — related

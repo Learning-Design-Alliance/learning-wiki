@@ -9,9 +9,9 @@ generated:
   by: "process:sweep-kinds"
   at: 2026-10-10
 sources:
-  - id: steven-s-christensen-jonathan-s-spackman-2016
-    resource: "https://eric.ed.gov/?id=EJ1150708"
-    title: "Steven S. Christensen & Jonathan S. Spackman. (2016). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. Journal of Educators Online. https://eric.ed.gov/?id=EJ1150708"
+  - id: steven-s-christensen-jonathan-s-spackman-2017
+    resource: "https://doi.org/10.9743/jeo.2017.14.2.7"
+    title: "Steven S. Christensen & Jonathan S. Spackman. (2017). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. *Journal of Educators Online, 14*(2). https://eric.ed.gov/?id=EJ1150708 [doi:10.9743/jeo.2017.14.2.7](https://doi.org/10.9743/jeo.2017.14.2.7)"
     author: "Steven S. Christensen & Jonathan S. Spackman"
 ---
 
@@ -36,7 +36,7 @@ The Student Momentum Indicator is a grounded-theory metric defined as "the perce
 -
 
 ## Key Sources
-- Steven S. Christensen & Jonathan S. Spackman. (2016). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. Journal of Educators Online. https://eric.ed.gov/?id=EJ1150708
+- Steven S. Christensen & Jonathan S. Spackman. (2017). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. *Journal of Educators Online, 14*(2). https://eric.ed.gov/?id=EJ1150708 [doi:10.9743/jeo.2017.14.2.7](https://doi.org/10.9743/jeo.2017.14.2.7)
 
 <!-- merged 2026-10-10 from theories/student-momentum-indicator-theory ("The Student Momentum Indicator (M): a lesson-by-lesson completion trajectory metric for online courses"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -79,5 +79,5 @@ The Student Momentum Indicator is a grounded-theory metric defined as "the perce
 - [Prioritize redesign of late, back-to-back, and spanning Course Walls, where momentum recovery is least likely](../strategies/prioritize-late-and-spanning-course-walls.md)
 
 ## Key Sources
-- Steven S. Christensen & Jonathan S. Spackman. (2016). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. Journal of Educators Online. https://eric.ed.gov/?id=EJ1150708
+- Steven S. Christensen & Jonathan S. Spackman. (2017). Dropout Rates, Student Momentum, and Course Walls: A New Tool for Distance Education Designers. *Journal of Educators Online, 14*(2). https://eric.ed.gov/?id=EJ1150708 [doi:10.9743/jeo.2017.14.2.7](https://doi.org/10.9743/jeo.2017.14.2.7)
 -->

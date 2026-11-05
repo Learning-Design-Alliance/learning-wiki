@@ -41,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 review `r2`, 1 design `r1` · `q2`
-> **Currency** · newest study 1999 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 1999 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 9 design pages cite it; treat it as a lead to check, not an established finding.
 <!-- deprecated title (2026-10-05, overstated its evidence): Cooperative learning experiences tend to promote higher achievement than competitive and individualistic learning experiences across ages, subjects, and types of learning -->
 
@@ -49,7 +49,7 @@ sources:
 
 `q2 i?` According to the Johnsons and others, cooperative learning experiences tend to promote higher achievement for students of all ages, across all subject areas, for virtually all types of learning than do competitive and individualistic learning experiences. [→ Daniels 1996](#daniels-1996)
 
-`q2 i?` A clearinghouse digest reports that Johnson and Johnson's meta-analysis of 122 studies (1924-1981) with 286 findings, analyzed by voting, effect size, and z score, found cooperative learning tends to promote higher achievement than competition or individual work, holding for all age levels, subject areas, and a variety of tasks. [→ Blosser 1993](#blosser-1993)
+`q2 i?` A clearinghouse information bulletin reports that Johnson and Johnson's meta-analysis of 122 studies (1924-1981) with 286 findings, analyzed by voting, effect size, and z score, found cooperative learning tends to promote higher achievement than competition or individual work, holding for all age levels, subject areas, and a variety of tasks. [→ Blosser 1993](#blosser-1993)
 
 `q2 i?` Johnson and Johnson's (1989) meta-analysis of 352 studies found achievement was higher for students in cooperative learning. [→ Kluge 1999](#kluge-1999)
 
@@ -71,7 +71,7 @@ Blosser, P. E. (1993). Using Cooperative Learning in Science Education. ERIC Cle
 
 `q2 · narrative review digest reporting a meta-analysis second-hand (was q3) · i?` · `review · r2`
 
-The review, a two-page ERIC clearinghouse digest, reports second-hand Johnson and Johnson's meta-analysis of 122 studies done between 1924 and 1981, whose 286 findings were analyzed using "three different methods: voting, effect size, and z score." No pooled effect size value is printed in the digest.
+The review, an 11-page ERIC/CSMEE information bulletin (The Science Outlook series), reports second-hand Johnson and Johnson's meta-analysis of 122 studies done between 1924 and 1981, whose 286 findings were analyzed using "three different methods: voting, effect size, and z score." No pooled effect size value is printed in the digest.
 
 > "All methods of analysis resulted in the same finding: cooperative learning tends to promote higher achievement than does competition or individual work, with this finding holding for all age levels, all subject areas, and a variety of tasks"
 

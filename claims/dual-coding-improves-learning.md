@@ -43,7 +43,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 1 causal `r?`, 1 quant-synthesis `r2`, 1 review `r?` · `q2`–`q4` · `i1` small
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Dual Coding Improves Learning -->
 
 Pairing text with corresponding pictures or graphics improves learning from it: a meta-analysis of 39 experiments found a small-to-moderate benefit for reading comprehension (g = 0.39), and a narrative review concludes that carefully constructed illustrations improve text-dependent outcomes. The usual explanation, that verbal and visual processing create two memory traces rather than one ([dual coding theory](../theories/dual-coding-theory.md)), is contested: Higdon et al. (2025) found the picture-superiority effect in memory followed physical distinctiveness instead. The evidence recorded here measures comprehension and text-dependent performance more than recall as such.
@@ -113,7 +113,7 @@ The experiments tested whether pictures are remembered better than words because
 | [Harp and Mayer 1998](https://doi.org/10.1037/0022-0663.90.3.414) | q3 · causal · r? | i? | [Interesting but irrelevant details can impair comprehension and transfer, with effects tha](seductive-details-effect.md) (qualifies) |
 | Sanchez and Wiley 2006 | q3 · causal · r? | i? | [Interesting but irrelevant details can impair comprehension and transfer, with effects tha](seductive-details-effect.md) (qualifies) |
 | [Slava Kalyuga 2010](https://doi.org/10.1007/s11251-009-9102-0) | q3 · review · r2 | i? | [Iconic visual scaffolds in chemistry visualizations helped low-prior-knowledge high-school](expertise-reversal-iconic-scaffolds-development.md) (qualifies) |
-| Alty 2002 | q3 · causal · r? | i? | [In one 37-student classroom experiment, recall and retention differ across media combinati](media-combinations-affect-recall-and-retention.md) (supports) |
+| Alty 2002 | q3 · causal · r? | i? | [In one 37-student classroom experiment, learning scores differ across media combinations i](media-combinations-affect-recall-and-retention.md) (supports) |
 | [Restrepo Ramos 2015](https://doi.org/10.15446/profile.v17n1.43957) | q2 · review · r2 | i? | [Combining textual and pictorial glosses improves incidental vocabulary learning more than ](multimodal-glosses-improve-incidental-vocabulary-learning.md) (supports) |
 | Ceballos & Nutta 2022 | q2 · review · r2 | i? | [A practice article reports that the studies it cites found better post-test outcomes from ](multimedia-principle-words-and-pictures-outcomes.md) (supports) |
 | [Nesbit & Adesope 2006](https://doi.org/10.3102/00346543076003413) | q4 · quant-synthesis · r2 | i2 · medium effect, g=0.60 overall (0.37 for studying maps) | [Graphic organizers such as concept maps improve comprehension and retention with a medium ](graphic-organizers-support-novice-comprehension.md) (qualifies) |
@@ -150,7 +150,7 @@ Open questions: how durable the recall advantage is over long retention interval
 - [Learner-constructed graphic organizers are not shown to outperform provided ones: the one direct test, with college readers, favoured provided organizers on transfer](learner-constructed-graphic-organizers-outperform-provided.md) — related
 - [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) — related
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
-- [In one 37-student classroom experiment, recall and retention differ across media combinations in the direction Dual Coding Theory predicts](media-combinations-affect-recall-and-retention.md) — related
+- [In one 37-student classroom experiment, learning scores differ across media combinations in the direction Dual Coding Theory predicts](media-combinations-affect-recall-and-retention.md) — related
 - [Combining textual and pictorial glosses improves incidental vocabulary learning more than single-mode glosses](multimodal-glosses-improve-incidental-vocabulary-learning.md) — a narrower finding that bears on this claim
 - [A practice article reports that the studies it cites found better post-test outcomes from words with relevant pictures than from words alone, especially with spoken words](multimedia-principle-words-and-pictures-outcomes.md) — related
 - [Activation improves learning.](activation-improves-learning.md) — prior knowledge determines whether a second representation adds retrieval routes

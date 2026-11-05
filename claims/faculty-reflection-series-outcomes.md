@@ -65,5 +65,5 @@ Follow-up observation reported in the discussion section: after the mini-HW-defe
 
 ## Related Claims
 - [Project leaders reported catalyzed changes in practice but concerns about rushed timelines and sustainability](team-lead-reflections-first-year.md) — related
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - [A six-session faculty learning community on AI was implemented in a physics department, engaging nineteen faculty across biweekly meetings](physics-faculty-learning-community-ai-workshop-series.md) — related

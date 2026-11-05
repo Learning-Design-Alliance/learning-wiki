@@ -76,7 +76,7 @@ The review's synthesis of reported limitations across VR studies, naming cybersi
 - [The review reports that high-fidelity simulation outperformed case-based discussion for clinical reasoning and leadership in paediatric emergencies](hfs-superior-case-based-discussion-reasoning.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [Resource limitations, technical hurdles and time constraints were the primary reported barriers to implementing paediatric SBE](sbe-implementation-barriers-cost-faculty-maintenance.md) — related
-- [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](ir-dental-equivalence-mixed-findings.md) — related
+- [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](ir-dental-equivalence-mixed-findings.md) — related
 - [VR/AR implementation challenges fall on three fronts: learner distraction and discomfort, teacher classroom-management and design burdens, and school cost and infrastructure limits](vr-ar-challenges-learners-teachers-schools.md) — related
 - [AI-powered simulations show short-term gains in communication confidence and structured knowledge in RCTs, with limited or inferior effects for tactile psychomotor skills](ai-simulation-short-term-gains-nursing.md) — related
 - [AR/VR training shows equal or superior outcomes versus conventional training in dental and OMFS education](arvr-noninferior-or-superior-dental-omfs-training.md) — a narrower finding that bears on this claim

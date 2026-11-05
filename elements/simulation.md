@@ -71,7 +71,7 @@ Simulations support learning by making system dynamics explorable: learners buil
 - [Students find computer-based simulation feedback insufficient](../claims/simucase-feedback-insufficient.md) [+M]
 - [Graduate SLP students perceive the simulation's learning mode as highly beneficial](../claims/simucase-learning-mode-perceived-beneficial.md) [+M]
 - [Reflective practice improves outcomes when structured](../claims/reflective-practice-improves-outcomes-when-structured.md) [+S]
-- [Students perceive debriefing as among the most beneficial components of a simulated clinical course](../claims/debriefing-psychometric-instruction-valued.md) [+M]
+- [Graduate students in a simulated clinical course reported positive experiences with its weekly debriefing](../claims/debriefing-psychometric-instruction-valued.md) [+W]
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](../claims/contextualized-teaching-facilitates-transfer.md) [+W]
 - [Students recommend integrating computer-based simulation cases into each course to make learning more concrete](../claims/students-recommend-simulation-in-each-course.md) [+W]
 - [In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications](../claims/simucase-lacks-behavioral-authenticity.md) [-W]
@@ -428,7 +428,7 @@ Simulations support learning by making system dynamics explorable: learners buil
 - **Not settled:** how fast to fade guidance within a simulation, and whether the discovery findings carry over unchanged to interactive models; no wiki claim tests it.
 
 ### What should the simulation be built around?
-- **Default:** repeated, goal-directed practice with mastery standards and immediate feedback; simulation-based medical education with deliberate practice beat traditional clinical education (d = 0.71, 14 studies, mostly procedural skills) — [Simulation-based education with deliberate practice improves clinical outcomes](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M]
+- **Default:** repeated, goal-directed practice with mastery standards and immediate feedback; simulation-based medical education with deliberate practice beat traditional clinical education (pooled effect-size correlation r = 0.71, 14 studies, mostly procedural skills) — [Simulation-based education with deliberate practice improves clinical outcomes](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M]
 - **Default:** against no intervention, technology-enhanced simulation gave large pooled effects on knowledge and skills (g ≈ 1.09–1.20) and a moderate one on direct patient outcomes (g = 0.50, k = 32) — [Simulation-based education improves outcomes](../claims/simulation-based-education-improves-outcomes.md) [+M]
 - **Changes when:** the comparison is equally long non-simulation practice → the no-intervention meta-analysis cannot say, and its subgroup analyses found no consistent interaction with feedback, repetition, mastery learning, distributed practice or curricular integration — [Simulation-based education improves outcomes](../claims/simulation-based-education-improves-outcomes.md) [~M]
 - **Tested with:** physicians, nurses, dentists and other health-professions trainees (609 studies, 35,226 trainees; 14 studies for the deliberate-practice comparison).
@@ -455,7 +455,7 @@ Simulations support learning by making system dynamics explorable: learners buil
 
 ### What should follow the simulation?
 - **Default:** a structured reflection with specific prompts rather than a generic invitation; metacognitive-reflection prompts were the strongest moderator in 48 writing-to-learn studies (b = 0.48), and specific prompts beat generic ones for 208 engineering students — [Reflective practice improves outcomes when structured](../claims/reflective-practice-improves-outcomes-when-structured.md) [+S]
-- **Default:** students in a simulated clinical course named the weekly debriefing among its most beneficial parts — [Students perceive debriefing as among the most beneficial components of a simulated clinical course](../claims/debriefing-psychometric-instruction-valued.md) [+M]
+- **Default:** students in a simulated clinical course reported positive experiences with its weekly debriefing — [Graduate students in a simulated clinical course reported positive experiences with its weekly debriefing](../claims/debriefing-psychometric-instruction-valued.md) [+W]
 - **Tested with:** school writing-to-learn studies and a first-year engineering course (structured reflection); 10 SLP graduate students (debriefing, perception only).
 - **Not settled:** no wiki claim compares a simulation with and without a debrief; see [Debrief](debrief.md) for the debrief's own decisions.
 
@@ -530,7 +530,7 @@ Simulations are the element in which learners engage with realistic, model-based
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](../claims/contextualized-teaching-facilitates-transfer.md) [+W]
 - [Students recommend integrating computer-based simulation cases into each course to make learning more concrete](../claims/students-recommend-simulation-in-each-course.md) [+W]
 - [In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications](../claims/simucase-lacks-behavioral-authenticity.md) [-W]
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+W]
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+W]
 
 ## Related Elements
 - [Scenario-Based Learning](scenario-based-learning.md)

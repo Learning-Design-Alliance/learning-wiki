@@ -49,6 +49,6 @@ A stated position in Module 6's performance criteria, offered without empirical 
 
 - [Vocabulary Instruction Improves Comprehension](vocabulary-instruction-improves-comprehension.md) — the general claim this finding bears on, with the studies behind it
 - Even after training, participants had limited opportunities to use English outside work, and some workplaces were predominantly non-English — related
-- [Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society](program-completion-increased-confidence-autonomy-settlement.md) — related
+- [Immigrant graduates of a healthcare-aide training program described completing it as raising their confidence and self-esteem, which for some aided settlement and integration in Canada](program-completion-increased-confidence-autonomy-settlement.md) — related
 - The package argues the workplace provides experiences that give meaning to new language — related
 - [Limited contextual understanding of pragmatic, cultural, and discourse information is a major technical limitation, reported in 16 of 54 studies (30%)](limited-contextual-understanding-ai-efl-technical.md) — related

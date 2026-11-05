@@ -46,7 +46,7 @@ Multicenter prospective quasi-experimental one-group pre-post study across four 
 
 ## Related Claims
 - [Clinical simulation improves nursing students' knowledge, confidence and performance in cardiovascular physical examination compared with traditional teaching, per a systematic review of six studies](clinical-simulation-improves-cardiovascular-assessment-nursing.md) — a broader claim this one bears on
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
 - [Clinical simulation improved overall cardiovascular examination performance compared with traditional lecture in the Brazilian quasi-experimental study (Fernandes et al.)](simulation-vs-lecture-cardiovascular-performance-brazil.md) — related
 - [Single-group studies uniformly reported improvement after distance simulation training in self-assessment, knowledge, or skills](single-group-prepost-all-improved.md) — a broader claim this one bears on
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on

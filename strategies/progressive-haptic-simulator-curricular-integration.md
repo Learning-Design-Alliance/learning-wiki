@@ -44,7 +44,7 @@ The review recommends a staged curricular integration of haptic virtual simulato
 - [Skills trained in a haptic simulator were not transferable to a non-haptic simulator in one randomized trial](../claims/haptic-trained-skills-not-transferable-non-haptic-simulator.md) [~W]
 - [Across 51 included studies, most results favored haptic over non-haptic conditions in surgical virtual simulations](../claims/haptics-favored-in-majority-of-surgical-vs-studies.md) [+M]
 - [Sensor-based force measurement discriminates skill levels, with experts suturing faster and with lower applied force than novices](../claims/force-sensing-discriminates-surgical-skill.md) [+W]
-- [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](../claims/ir-dental-equivalence-mixed-findings.md) [~W]
+- [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](../claims/ir-dental-equivalence-mixed-findings.md) [~W]
 - [Haptic simulator trials more frequently show superior accuracy outcomes when force-feedback and structured guidance are included](../claims/haptic-simulator-force-feedback-accuracy-gains.md) [+M]
 
 ## Related Strategies

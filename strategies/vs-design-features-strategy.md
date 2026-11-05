@@ -42,7 +42,7 @@ The article's discussion derives design recommendations from its subgroup and li
 
 - [Haptic simulator trials more frequently show superior accuracy outcomes when force-feedback and structured guidance are included](../claims/haptic-simulator-force-feedback-accuracy-gains.md) [+W]
 - [Haptic virtual reality simulation reduces procedural time for pulpotomy training compared with conventional simulators](../claims/ir-reduces-procedural-time-dental.md) [+W]
-- [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](../claims/ir-dental-equivalence-mixed-findings.md) [~W]
+- [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](../claims/ir-dental-equivalence-mixed-findings.md) [~W]
 - [Immersive VR-haptic and ITS modalities are more often associated with objective psychomotor and cognitive gains, while generative AI platforms are more often associated with affective outcomes](../claims/ads-modality-domain-patterns.md) [~W]
 
 ## Related Strategies

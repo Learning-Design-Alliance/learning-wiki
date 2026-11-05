@@ -48,7 +48,7 @@ A single cohort of 26 volunteer teachers (Cycle 2) completed self-report surveys
 
 - [A 13-week TPACK-based course significantly improves pre-service preschool teachers' instructional design competence compared with traditional instruction](tpack-course-improves-preservice-preschool-idc.md) — the general claim this finding bears on, with the studies behind it
 
-- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — the general claim this finding bears on, with the studies behind it
+- [An innovation foreign to the rest of its system may be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — the general claim this finding bears on, with the studies behind it
 - [87% of K-12 teachers ceased meaningful AI agent creation within three weeks of completing a two-day professional development workshop](87-percent-teachers-cease-ai-agent-creation-three-weeks.md) — related
 - [SDT need satisfaction predicted post-intervention willingness beyond baseline capacity, while post-intervention TPACK showed only a weak, non-significant association with willingness](need-satisfaction-predicts-willingness-beyond-capacity.md) — related
 - [AI-TPACK positively predicts science teaching self-efficacy among Chinese pre-service science teachers](ai-tpack-predicts-science-teaching-self-efficacy.md) — related

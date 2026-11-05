@@ -50,7 +50,7 @@ The article's central design recommendation is to place VR haptic simulator sess
 - [Simulator-based performance metrics are comparable between students trained before versus after artificial-tooth practice](../claims/simulator-metrics-comparable-between-groups.md) [-W]
 - [Preclinical HVRS training significantly improves endodontic access cavity preparation scores on real patients](../claims/hvrs-training-improves-access-cavity-scores.md) [+W]
 - [Students perceived HVRS training as useful and wanted it integrated into the endodontics curriculum](../claims/hvrs-positive-student-perceptions.md) [+W]
-- [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](../claims/ir-dental-equivalence-mixed-findings.md) [-W]
+- [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](../claims/ir-dental-equivalence-mixed-findings.md) [-W]
 
 ## Related Strategies
 - 

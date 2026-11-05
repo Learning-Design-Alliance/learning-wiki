@@ -40,7 +40,7 @@ The book proposes that coherence in Chicago's district reform did not come from 
 
 ### Claims
 
-- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](../claims/isolated-innovations-are-rejected-by-the-system-they-enter.md) [+W]
+- [An innovation foreign to the rest of its system may be rejected; lasting change needs a coordinated bundle of innovations.](../claims/isolated-innovations-are-rejected-by-the-system-they-enter.md) [+W]
 
 ## Related Theories
 

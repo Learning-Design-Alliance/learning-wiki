@@ -47,5 +47,5 @@ The abstract reports this as a tendency, not a tested difference, from the Physi
 ## Related Claims
 - [In the Utah Physics Film Project, filmed and regular physics instruction showed no differences in large and small schools, but medium-sized schools favored regular instruction](physics-films-no-difference-medium-schools-favor-regular.md) — related
 - [The Physics Film Project concluded that physics can be taught effectively with the filmed course despite inadequately prepared instructors and ill-equipped laboratories](physics-taught-effectively-with-filmed-course.md) — a broader claim this one bears on
-- [Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did](ability-moderates-hierarchical-organization-benefit.md) — related
+- [In one physics experiment, the hierarchical-organization advantage was significant for medium-ability but not low-ability subjects; no ability-by-treatment interaction was reported](ability-moderates-hierarchical-organization-benefit.md) — related
 - [More intelligent learners benefited more than less intelligent learners from additional film examples, and supplementary instruction reduced common mistakes on difficult material](ability-moderates-example-benefits.md) — related

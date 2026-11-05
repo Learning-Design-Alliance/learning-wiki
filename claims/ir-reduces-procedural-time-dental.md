@@ -47,7 +47,7 @@ In the review's synthesis of procedural-time outcomes, Philip et al.'s pilot stu
 
 ## Related Claims
 - [Immersive reality training produced higher knowledge and skill scores than conventional training in dental studies](ir-improves-dental-knowledge-skill-scores.md) — related
-- [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](ir-dental-equivalence-mixed-findings.md) — related
+- [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](ir-dental-equivalence-mixed-findings.md) — related
 - [Virtual haptic drilling training achieved outcomes similar to conventional practice in less time in restorative dentistry](ir-shortens-dental-training-duration.md) — related
 - [Virtual reality was particularly effective for procedural skill development and knowledge retention in paediatric undergraduate training](vr-effective-procedural-skills-retention.md) — a broader claim this one bears on
 - [Qualitative analysis found radiation became perceptible in VR for all participants, while all reported operability differences favoring conventional training](qualitative-themes-visualization-versus-operability.md) — related

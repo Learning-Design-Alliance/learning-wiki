@@ -68,7 +68,7 @@ Debriefing is where much of the learning from experience is actually consolidate
 - [Peer discussion improves conceptual understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M]
 - [Students' evaluation of group processing increased over the course and after](../claims/group-processing-perceived-value-increases-over-time.md) [+M]
 - [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [~M]
-- [Students perceive debriefing and guided psychometric-property exploration as the most beneficial components of a simulated clinical course](../claims/debriefing-psychometric-instruction-valued.md) [+W]
+- [Graduate students in a simulated clinical course reported positive experiences with its weekly debriefing and guided exploration of psychometric properties](../claims/debriefing-psychometric-instruction-valued.md) [+W]
 - [In the debriefings, students who observed a scenario via live video join facilitators in attempts to reconceptualise the experiences expressed by scenario participants, using audiovisual appearances as a resource](../claims/peer-students-reconceptualisation-supported.md) [+W]
 - [Debriefing presence shows a numerical trend toward stronger knowledge gains but the subgroup difference is not significant](../claims/ivr-debriefing-knowledge-subgroup-trend.md) [~W]
 - [Feedback and debriefing are the most important educational components of simulation-based learning in cardiac arrest education](../claims/feedback-debriefing-most-important-simulation-components.md) [+W]
@@ -83,7 +83,7 @@ Debriefing is where much of the learning from experience is actually consolidate
      cites the claims that settle it, with markers capped by each claim's recorded evidence. -->
 
 ### Does the debrief add anything to the experience it follows?
-- **Default:** treat the debrief as the feedback step of a deliberate-practice loop; simulation-based medical education with deliberate practice (repetition, mastery standards, immediate feedback) beat traditional clinical education (d = 0.71, 14 studies) — [Simulation-based education with deliberate practice improves clinical outcomes](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M]
+- **Default:** treat the debrief as the feedback step of a deliberate-practice loop; simulation-based medical education with deliberate practice (repetition, mastery standards, immediate feedback) beat traditional clinical education (pooled effect-size correlation r = 0.71, 14 studies) — [Simulation-based education with deliberate practice improves clinical outcomes](../claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) [+M]
 - **Changes when:** read against the largest simulation meta-analysis → its subgroup analyses found no consistent interaction between simulation effects and feedback as a design feature, so the debrief's own contribution is not isolated — [Simulation-based education improves outcomes](../claims/simulation-based-education-improves-outcomes.md) [~M]
 - **Tested with:** health-professions trainees, mostly on procedural and psychomotor skills.
 - **Not settled:** no wiki claim compares the same experience with and without a debrief; the claim that debriefing is "a key moderator" is stated in a Discussion, not in recorded evidence.
@@ -173,7 +173,7 @@ Debriefing is the element in which learners reflect on an activity, simulation, 
 
 ### Claims
 <!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
-- [Students perceive debriefing and guided psychometric-property exploration as the most beneficial components of a simulated clinical course](../claims/debriefing-psychometric-instruction-valued.md) [+W]
+- [Graduate students in a simulated clinical course reported positive experiences with its weekly debriefing and guided exploration of psychometric properties](../claims/debriefing-psychometric-instruction-valued.md) [+W]
 
 ## Related Elements
 - [Reflection Activities](reflection-activities.md)

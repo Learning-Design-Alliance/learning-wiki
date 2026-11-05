@@ -46,4 +46,4 @@ Boundary condition emerging from the hybrid thematic analysis of 14 experimental
 
 ## Related Claims
 - [First-year medical students in an integrated NM-PAL model reported significantly higher overall self-reported core competency scores than lecture-based peers over 10 months](nm-pal-higher-self-reported-core-competence.md) — related
-- [Peer feedback promoted critical reflection, collaboration and engagement, but students doubted its reliability because peers were statistics beginners](peer-feedback-soft-evaluative-judgement-statistics.md) — related
+- [Peer feedback promoted critical reflection, collaboration and engagement, but one interviewed student doubted its reliability because peers were statistics beginners](peer-feedback-soft-evaluative-judgement-statistics.md) — related

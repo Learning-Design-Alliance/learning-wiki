@@ -49,7 +49,7 @@ Pooled analysis by Kirkpatrick outcome level across the 12 competency-versus-non
 - [Competency-based simulation training outperforms noncompetency-based simulation for procedural skill outcomes in health professionals (moderate pooled effect)](competency-simulation-beats-noncompetency-procedural-skills.md) — a broader claim this one bears on
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — related
 - [Training-time ratio moderates the competency-based simulation advantage: large effects when competency training takes less time, non-significant when it takes more](time-ratio-moderates-competency-simulation-effect.md) — related
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related
 - [Evidence on transfer to clinical behavior and patient outcomes is scarce: only 2 studies reached Kirkpatrick level 3 and 1 reached level 4](transfer-and-patient-outcomes-scarce.md) — related
 - [No included SDL studies measured Kirkpatrick Level 4 (patient/system) outcomes](sdl-no-kirkpatrick-level-4-outcomes.md) — related
 - [Most LMIC simulation-based education studies testing significance demonstrate at least partial improvement in patient-level (Kirkpatrick Level 4) outcomes](sbe-lmic-most-studies-partial-improvement-level4.md) — related

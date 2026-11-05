@@ -46,7 +46,7 @@ The article describes, citing Legare and Lombrozo, a study in which five-year-ol
 ## Related Claims
 
 - [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — the general claim this finding bears on, with the studies behind it
-- [Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement](co-construction-scribe-teacher-fosters-composition-autonomy.md) — related
+- [In one observed session, six five-year-olds composing text with their teacher as scribe exercised autonomy of composition and judgement and stayed on task for 240 turns](co-construction-scribe-teacher-fosters-composition-autonomy.md) — related
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — a broader claim this one bears on
 - [Drawing improves STEM learning by a small-to-moderate amount over not drawing and over other active study strategies, in one meta-analysis](drawing-improves-learning.md) — related
 - [AI-mediated feedback in hands-on exhibits improves learning and engagement](ai-mediated-feedback-in-hands-on-exhibits-improves-learning-and-engagement.md) — related

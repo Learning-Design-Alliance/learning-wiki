@@ -15,8 +15,8 @@ sources:
     title: "Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher classroom management practices: Effects on disruptive or aggressive student behavior. https://www.sree.org"
     author: "Oliver, R. M., Wehby, J. H., & Reschly, D. J"
   - id: qais-faryadi-2007
-    resource: "http://www.juliantrubin.com/bigten/skinnerbox.html"
-    title: "Qais Faryadi. (2007). Behaviorism and the Construction of Knowledge. http://www.juliantrubin.com/bigten/skinnerbox.html"
+    resource: "https://eric.ed.gov/?id=ED495301"
+    title: "Qais Faryadi. (2007). Behaviorism and the Construction of Knowledge. [ERIC ED495301](https://eric.ed.gov/?id=ED495301)"
     author: Qais Faryadi
 ---
 
@@ -136,7 +136,7 @@ Read against the model on 2026-10-15 and left here because none can carry a step
 - [Student off-task behavior declined markedly in trained teachers' classrooms](../claims/off-task-behavior-declines-after-training.md) [+W] — teacher training in group-based mastery learning, not in classroom management; off-task behavior fell against control classrooms (ANCOVA, no effect size). Bears only indirectly: the change came from instruction, not from a management plan.
 - [Out-of-school suspensions decreased 41% at a middle school implementing PBIS under the TEAM Student framework](../claims/pbis-suspensions-decreased-41-percent.md) [+W] — a single-school before-after count with no comparison school; bears on a schoolwide system a brief may name, but cannot attribute the drop to it.
 - Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels [+W] — a 1970 narrative survey with no effect sizes; the behavior-analytic tradition's case, on achievement rather than classroom behavior, and no comparison with other traditions.
-- [A non-peer-reviewed web essay asserts that behaviorist reinforcement methods are very effective in creating positive behavior](../claims/behaviorist-reinforcement-effective-positive-behavior.md) [+W] — a second-hand assertion with no sample; listed because the earlier page linked reinforcement theory.
+- [A narrative review asserts that behaviorist reinforcement methods are very effective in creating positive behavior](../claims/behaviorist-reinforcement-effective-positive-behavior.md) [+W] — a second-hand assertion with no sample; listed because the earlier page linked reinforcement theory.
 - [High-information feedback has a very large effect (d = 0.99) while reinforcement/punishment has a low effect (d = 0.24)](../claims/feedback-most-effective-at-task-and-process-levels.md) [-W]
 - [Making rounds minimizes off-task behaviour because pupils monitor for the teacher's approach and adjust their behaviour](../claims/rounds-surveillance-minimizes-off-task.md) [+W] — attached 2026-10-18 from Christian Greiffenhagen (2011), which proposed "Teacher rounds as the routine organization of monitoring during pair work at computers".
 - [Teacher–student relationship quality partially mediates the association between student behavior and peer relationships](../claims/tsr-partially-mediates-behavior-peer-association.md) [~W] — attached 2026-10-20 from Endedijk et al. (2022), which proposed "Prevent or reduce negative aspects of teacher–student relationships, especially for students with behavioral problems, to support classroom peer relationships".
@@ -196,7 +196,7 @@ Fewer disruptions, more engaged time, learning gains, lasting self-control and f
 - Kohn, A. (2006). *Beyond discipline: From compliance to community*. Association for Supervision and Curriculum Development.
 - Arduini-Van Hoose, N. (2020). Responding to student misbehavior. In *Educational psychology*. Retrieved from https://edpsych.pressbooks.sunycreate.cloud. CC BY-NC-SA 4.0.
 - Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher classroom management practices: Effects on disruptive or aggressive student behavior. https://www.sree.org. [doi:10.4073/csr.2011.4](https://doi.org/10.4073/csr.2011.4)
-- Qais Faryadi. (2007). Behaviorism and the Construction of Knowledge. http://www.juliantrubin.com/bigten/skinnerbox.html
+- Qais Faryadi. (2007). Behaviorism and the Construction of Knowledge. [ERIC ED495301](https://eric.ed.gov/?id=ED495301)
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 ## Description
@@ -395,5 +395,5 @@ The review concludes that although behaviorism should not be accepted as a compr
 -
 
 ## Key Sources
-- Qais Faryadi. (2007). Behaviorism and the Construction of Knowledge. http://www.juliantrubin.com/bigten/skinnerbox.html
+- Qais Faryadi. (2007). Behaviorism and the Construction of Knowledge. [ERIC ED495301](https://eric.ed.gov/?id=ED495301)
 -->

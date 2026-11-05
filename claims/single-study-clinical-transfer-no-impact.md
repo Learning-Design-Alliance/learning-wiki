@@ -45,5 +45,5 @@ The review identified this single study (the STAR trial, a randomised pilot stud
 
 
 ## Related Claims
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related
 - [Only one included study assessed predictive validity, showing a curriculum including body donor lab sessions improved real-patient laparoscopic performance over conventional training](single-predictive-validity-study-palter.md) — related

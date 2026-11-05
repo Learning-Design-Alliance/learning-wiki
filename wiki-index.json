@@ -4591,13 +4591,13 @@
 "type":"claim"
 },
 {
-"description":"Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did",
+"description":"In one physics experiment, the hierarchical-organization advantage was significant for medium-ability but not low-ability subjects; no ability-by-treatment interaction was reported",
 "evidence_strength":"moderate",
 "id":"ability-moderates-hierarchical-organization-benefit",
 "newest_evidence":"1979",
 "path":"claims/ability-moderates-hierarchical-organization-benefit.md",
 "status":"review",
-"title":"Ability moderates the hierarchical-organization advantage: low-ability subjects showed no significant benefit, while medium-ability subjects did",
+"title":"In one physics experiment, the hierarchical-organization advantage was significant for medium-ability but not low-ability subjects; no ability-by-treatment interaction was reported",
 "type":"claim"
 },
 {
@@ -44080,13 +44080,13 @@
 "type":"claim"
 },
 {
-"description":"A non-peer-reviewed web essay asserts, citing an earlier source second-hand, that behaviorist reinforcement methods are very effective in creating positive behavior in almost any learning environment",
+"description":"A narrative review asserts, citing an earlier source second-hand, that behaviorist reinforcement methods are very effective in creating positive behavior in almost any learning environment",
 "evidence_strength":"weak",
 "id":"behaviorist-reinforcement-effective-positive-behavior",
 "newest_evidence":"2007",
 "path":"claims/behaviorist-reinforcement-effective-positive-behavior.md",
 "status":"review",
-"title":"A non-peer-reviewed web essay asserts, citing an earlier source second-hand, that behaviorist reinforcement methods are very effective in creating positive behavior in almost any learning environment",
+"title":"A narrative review asserts, citing an earlier source second-hand, that behaviorist reinforcement methods are very effective in creating positive behavior in almost any learning environment",
 "type":"claim"
 },
 {
@@ -58567,6 +58567,7 @@
 "id":"case-based-learning-improves-exam-performance",
 "newest_evidence":"2015",
 "path":"claims/case-based-learning-improves-exam-performance.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"Case-based learning improves exam performance",
 "type":"claim"
@@ -75930,13 +75931,13 @@
 "type":"claim"
 },
 {
-"description":"Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement",
+"description":"In one observed session, six five-year-olds composing text with their teacher as scribe exercised autonomy of composition and judgement and stayed on task for 240 turns",
 "evidence_strength":"weak",
 "id":"co-construction-scribe-teacher-fosters-composition-autonomy",
 "newest_evidence":"1999",
 "path":"claims/co-construction-scribe-teacher-fosters-composition-autonomy.md",
 "status":"review",
-"title":"Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement",
+"title":"In one observed session, six five-year-olds composing text with their teacher as scribe exercised autonomy of composition and judgement and stayed on task for 240 turns",
 "type":"claim"
 },
 {
@@ -109868,13 +109869,13 @@
 "type":"claim"
 },
 {
-"description":"Students perceive debriefing and guided psychometric-property exploration as the most beneficial components of a simulated clinical course",
+"description":"Graduate students in a simulated clinical course reported positive experiences with its weekly debriefing and guided exploration of psychometric properties",
 "evidence_strength":"weak",
 "id":"debriefing-psychometric-instruction-valued",
 "newest_evidence":"2021",
 "path":"claims/debriefing-psychometric-instruction-valued.md",
 "status":"review",
-"title":"Students perceive debriefing and guided psychometric-property exploration as the most beneficial components of a simulated clinical course",
+"title":"Graduate students in a simulated clinical course reported positive experiences with its weekly debriefing and guided exploration of psychometric properties",
 "type":"claim"
 },
 {
@@ -113928,6 +113929,7 @@
 "id":"design-principle-effects-moderated-by-pacing-and-complexity",
 "newest_evidence":"2022",
 "path":"claims/design-principle-effects-moderated-by-pacing-and-complexity.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"Design principle effects are larger in system-paced and in complex media, and learner prior knowledge was not a significant moderator (p = 0.14)",
 "type":"claim"
@@ -124814,7 +124816,7 @@
 "description":"Double-dose algebra improved algebra test scores for targeted students just below the cutoff, with a larger post-policy gain than for students just above the cutoff",
 "evidence_strength":"moderate",
 "id":"double-dose-algebra-test-score-gains-targeted-students",
-"newest_evidence":"2008",
+"newest_evidence":"2009",
 "path":"claims/double-dose-algebra-test-score-gains-targeted-students.md",
 "status":"review",
 "title":"Double-dose algebra improved algebra test scores for targeted students just below the cutoff, with a larger post-policy gain than for students just above the cutoff",
@@ -124845,7 +124847,7 @@
 "description":"Policy effects on grades and failure rates differed by incoming ability: most below-norm students' grades improved slightly, but the very lowest-ability students' algebra grades declined",
 "evidence_strength":"moderate",
 "id":"double-dose-effects-vary-by-initial-ability",
-"newest_evidence":"2008",
+"newest_evidence":"2009",
 "path":"claims/double-dose-effects-vary-by-initial-ability.md",
 "status":"review",
 "title":"Policy effects on grades and failure rates differed by incoming ability: most below-norm students' grades improved slightly, but the very lowest-ability students' algebra grades declined",
@@ -124866,7 +124868,7 @@
 "description":"Evidence on the policy's effects on 10th-grade geometry outcomes was inconsistent across groups and years",
 "evidence_strength":"weak",
 "id":"double-dose-geometry-outcomes-inconsistent",
-"newest_evidence":"2008",
+"newest_evidence":"2009",
 "path":"claims/double-dose-geometry-outcomes-inconsistent.md",
 "source_checked":"2026-10-08",
 "status":"review",
@@ -124889,7 +124891,7 @@
 "description":"The double-dose policy led schools to track algebra classes by entering math skills, making classrooms more homogeneous in ability",
 "evidence_strength":"moderate",
 "id":"double-dose-induced-algebra-tracking",
-"newest_evidence":"2008",
+"newest_evidence":"2009",
 "path":"claims/double-dose-induced-algebra-tracking.md",
 "status":"review",
 "title":"The double-dose policy led schools to track algebra classes by entering math skills, making classrooms more homogeneous in ability",
@@ -124909,7 +124911,7 @@
 "description":"The double-dose algebra policy adversely affected non-targeted above-norm students: their algebra grades declined and failure rates increased post-policy",
 "evidence_strength":"moderate",
 "id":"double-dose-policy-harmed-above-norm-grades",
-"newest_evidence":"2008",
+"newest_evidence":"2009",
 "path":"claims/double-dose-policy-harmed-above-norm-grades.md",
 "status":"review",
 "title":"The double-dose algebra policy adversely affected non-targeted above-norm students: their algebra grades declined and failure rates increased post-policy",
@@ -144342,7 +144344,7 @@
 "description":"Older entrants show higher kindergarten growth rates but lower growth rates in 1st and 2nd grades",
 "evidence_strength":"moderate",
 "id":"entry-age-growth-rate-tradeoff",
-"newest_evidence":"2020",
+"newest_evidence":"2021",
 "path":"claims/entry-age-growth-rate-tradeoff.md",
 "status":"review",
 "title":"Older entrants show higher kindergarten growth rates but lower growth rates in 1st and 2nd grades",
@@ -163122,13 +163124,13 @@
 "type":"claim"
 },
 {
-"description":"A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours",
+"description":"A review reports that in three cued-recall studies pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours",
 "evidence_strength":"mixed",
 "id":"feedback-timing-moderates-pretesting",
 "newest_evidence":"2023",
 "path":"claims/feedback-timing-moderates-pretesting.md",
 "status":"review",
-"title":"A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours",
+"title":"A review reports that in three cued-recall studies pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours",
 "type":"claim"
 },
 {
@@ -226089,14 +226091,14 @@
 "type":"claim"
 },
 {
-"description":"Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently",
+"description":"Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns",
 "evidence_strength":"weak",
 "id":"integrity-equity-concerns-span-all-units",
 "newest_evidence":"2026",
 "path":"claims/integrity-equity-concerns-span-all-units.md",
 "recheck_by":"2031",
 "status":"review",
-"title":"Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently",
+"title":"Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns",
 "type":"claim"
 },
 {
@@ -232360,13 +232362,13 @@
 "type":"claim"
 },
 {
-"description":"Several included studies found haptic VR training equivalent rather than superior to conventional dental training",
+"description":"Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR",
 "evidence_strength":"mixed",
 "id":"ir-dental-equivalence-mixed-findings",
 "newest_evidence":"2026",
 "path":"claims/ir-dental-equivalence-mixed-findings.md",
 "status":"review",
-"title":"Several included studies found haptic VR training equivalent rather than superior to conventional dental training",
+"title":"Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR",
 "type":"claim"
 },
 {
@@ -233356,7 +233358,7 @@
 "newest_evidence":"2000",
 "path":"claims/isolated-innovations-are-rejected-by-the-system-they-enter.md",
 "status":"review",
-"title":"An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.",
+"title":"An innovation foreign to the rest of its system may be rejected; lasting change needs a coordinated bundle of innovations.",
 "type":"claim"
 },
 {
@@ -273706,7 +273708,7 @@
 "newest_evidence":"2002",
 "path":"claims/media-combinations-affect-recall-and-retention.md",
 "status":"review",
-"title":"In one 37-student classroom experiment, recall and retention differ across media combinations in the direction Dual Coding Theory predicts",
+"title":"In one 37-student classroom experiment, learning scores differ across media combinations in the direction Dual Coding Theory predicts",
 "type":"claim"
 },
 {
@@ -287032,7 +287034,7 @@
 "description":"Student Momentum graph shapes differ markedly by subject area, with math courses predominantly convex slope and political science courses predominantly steep wall",
 "evidence_strength":"weak",
 "id":"momentum-graph-shapes-vary-by-subject",
-"newest_evidence":"2016",
+"newest_evidence":"2017",
 "path":"claims/momentum-graph-shapes-vary-by-subject.md",
 "status":"review",
 "title":"Student Momentum graph shapes differ markedly by subject area, with math courses predominantly convex slope and political science courses predominantly steep wall",
@@ -300561,9 +300563,9 @@
 "description":"Graphing the Student Momentum Indicator across lessons yields nine dropout-behavior shape categories, with steep wall shapes the most common (25.5%) and flat slope shapes rare (2.6%)",
 "evidence_strength":"weak",
 "id":"nine-student-momentum-graph-shape-categories",
-"newest_evidence":"2016",
+"newest_evidence":"2017",
 "path":"claims/nine-student-momentum-graph-shape-categories.md",
-"recheck_by":"2019",
+"recheck_by":"2020",
 "status":"review",
 "title":"Graphing the Student Momentum Indicator across lessons yields nine dropout-behavior shape categories, with steep wall shapes the most common (25.5%) and flat slope shapes rare (2.6%)",
 "type":"claim"
@@ -324765,13 +324767,13 @@
 "type":"claim"
 },
 {
-"description":"A hierarchical organization facilitates tasks only when matched to the task domain: organization A aids deductive tasks and organization B aids historical tasks",
+"description":"No hierarchical organization is best for every task: students given organization A did better on deductive tasks and those given organization B on historical tasks",
 "evidence_strength":"moderate",
 "id":"organization-task-match-determines-benefit",
 "newest_evidence":"1979",
 "path":"claims/organization-task-match-determines-benefit.md",
 "status":"review",
-"title":"A hierarchical organization facilitates tasks only when matched to the task domain: organization A aids deductive tasks and organization B aids historical tasks",
+"title":"No hierarchical organization is best for every task: students given organization A did better on deductive tasks and those given organization B on historical tasks",
 "type":"claim"
 },
 {
@@ -339104,13 +339106,13 @@
 "type":"claim"
 },
 {
-"description":"Peer feedback promoted critical reflection, collaboration and engagement, but students doubted its reliability because peers were statistics beginners",
+"description":"Peer feedback promoted critical reflection, collaboration and engagement, but one interviewed student doubted its reliability because peers were statistics beginners",
 "evidence_strength":"moderate",
 "id":"peer-feedback-soft-evaluative-judgement-statistics",
 "newest_evidence":"2025",
 "path":"claims/peer-feedback-soft-evaluative-judgement-statistics.md",
 "status":"review",
-"title":"Peer feedback promoted critical reflection, collaboration and engagement, but students doubted its reliability because peers were statistics beginners",
+"title":"Peer feedback promoted critical reflection, collaboration and engagement, but one interviewed student doubted its reliability because peers were statistics beginners",
 "type":"claim"
 },
 {
@@ -365717,13 +365719,13 @@
 "type":"claim"
 },
 {
-"description":"In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve",
+"description":"In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate improved on some criteria but not others",
 "evidence_strength":"moderate",
 "id":"probing-feedback-revise-resubmit-evidence",
 "newest_evidence":"2025",
 "path":"claims/probing-feedback-revise-resubmit-evidence.md",
 "status":"review",
-"title":"In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve",
+"title":"In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate improved on some criteria but not others",
 "type":"claim"
 },
 {
@@ -368441,13 +368443,13 @@
 "type":"claim"
 },
 {
-"description":"Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society",
+"description":"In interviews with nine immigrant graduates of a healthcare-aide training program combining occupational skills and ESL, several described completing it as raising their confidence and self-esteem, and some linked it to settlement and integration in Canada",
 "evidence_strength":"moderate",
 "id":"program-completion-increased-confidence-autonomy-settlement",
 "newest_evidence":"2001",
 "path":"claims/program-completion-increased-confidence-autonomy-settlement.md",
 "status":"review",
-"title":"Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society",
+"title":"Immigrant graduates of a healthcare-aide training program described completing it as raising their confidence and self-esteem, which for some aided settlement and integration in Canada",
 "type":"claim"
 },
 {
@@ -392507,6 +392509,7 @@
 "id":"revised-visuals-processing-text-prior-knowledge-interaction",
 "newest_evidence":"2017",
 "path":"claims/revised-visuals-processing-text-prior-knowledge-interaction.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"Revised visuals reduce cognitive processing of lesson text for low prior knowledge students but increase it for middle prior knowledge students",
 "type":"claim"
@@ -412837,13 +412840,13 @@
 "type":"claim"
 },
 {
-"description":"Self-monitoring strategies used during or at the end of Social Studies lessons moved fifth-graders' self-monitoring scores significantly closer to the scale's ideal value than formal curriculum teaching",
+"description":"Fifth-graders taught Social Studies with self-monitoring strategies differed significantly from a formal-curriculum group on a self-monitoring post-test, which the authors read as scores closer to the scale's ideal value",
 "evidence_strength":"moderate",
 "id":"self-monitoring-strategies-improve-self-monitoring-levels",
 "newest_evidence":"2017",
 "path":"claims/self-monitoring-strategies-improve-self-monitoring-levels.md",
 "status":"review",
-"title":"Self-monitoring strategies used during or at the end of Social Studies lessons moved fifth-graders' self-monitoring scores significantly closer to the scale's ideal value than formal curriculum teaching",
+"title":"Fifth-graders taught Social Studies with self-monitoring strategies differed significantly from a formal-curriculum group on a self-monitoring post-test, which the authors read as scores closer to the scale's ideal value",
 "type":"claim"
 },
 {
@@ -421790,7 +421793,7 @@
 "newest_evidence":"2011",
 "path":"claims/simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md",
 "status":"review",
-"title":"Simulation Based Education With Deliberate Practice Improves Clinical Outcomes",
+"title":"Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition",
 "type":"claim"
 },
 {
@@ -442695,6 +442698,7 @@
 "id":"stereotype-threat-undermines-collaborative-contribution",
 "newest_evidence":"2025",
 "path":"claims/stereotype-threat-undermines-collaborative-contribution.md",
+"source_checked":"2026-11-05",
 "status":"review",
 "title":"Stereotype threat in collaborative contexts can interfere with working memory and reduce meaningful contribution",
 "type":"claim"
@@ -452031,7 +452035,7 @@
 "description":"Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists",
 "evidence_strength":"weak",
 "id":"students-report-simulation-lesson-fun-and-concept-figuring",
-"newest_evidence":"2015",
+"newest_evidence":"2012",
 "path":"claims/students-report-simulation-lesson-fun-and-concept-figuring.md",
 "status":"review",
 "title":"Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists",
@@ -473739,7 +473743,7 @@
 "type":"claim"
 },
 {
-"description":"Over 242 studies (1,619 effects, 169,179 participants) the overall mean was d = 0.56: distributed practice 0.85, practice testing 0.74, elaborative interrogation 0.56, imagery 0.56, self-explanation 0.54, mnemonics 0.50, re-reading 0.47, interleaved practice 0.47, underlining 0.44, summarization 0.44.",
+"description":"Across 242 studies (1,619 effects, 169,179 participants) the overall mean was d = 0.56: distributed practice 0.85, practice testing 0.74, elaborative interrogation 0.56, imagery 0.56, self-explanation 0.54, mnemonics 0.50, re-reading 0.47, interleaved practice 0.47, underlining 0.44, summarization 0.44.",
 "evidence_strength":"moderate",
 "id":"ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest",
 "newest_evidence":"2021",
@@ -474790,13 +474794,13 @@
 "type":"claim"
 },
 {
-"description":"Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which admitted by SAT score, invited over 2,500 boys but 1,081 girls in one summer although equal numbers took the test",
+"description":"Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which used SAT scores to decide summer-program invitations, was inviting over 2,500 boys but only 1,081 girls although equal numbers took the test",
 "evidence_strength":"weak",
 "id":"test-scores-gate-gifted-program-entry",
 "newest_evidence":"1989",
 "path":"claims/test-scores-gate-gifted-program-entry.md",
 "status":"review",
-"title":"Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which admitted by SAT score, invited over 2,500 boys but 1,081 girls in one summer although equal numbers took the test",
+"title":"Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which used SAT scores to decide summer-program invitations, was inviting over 2,500 boys but only 1,081 girls although equal numbers took the test",
 "type":"claim"
 },
 {
@@ -481226,7 +481230,7 @@
 "description":"A single Tipping Point explains dropout patterns in only about a quarter of online courses, so lesson-level dropout behavior is more complex than one critical lesson",
 "evidence_strength":"weak",
 "id":"tipping-point-hypothesis-insufficient-online-dropout",
-"newest_evidence":"2016",
+"newest_evidence":"2017",
 "path":"claims/tipping-point-hypothesis-insufficient-online-dropout.md",
 "status":"review",
 "title":"A single Tipping Point explains dropout patterns in only about a quarter of online courses, so lesson-level dropout behavior is more complex than one critical lesson",
@@ -510549,13 +510553,13 @@
 "type":"claim"
 },
 {
-"description":"Web-based metacognitive skills training significantly improved college students' self-plan, self-monitor, and total metacognitive scores from pretest to posttest",
+"description":"College students given web-based metacognitive skills training rated their self-plan, self-monitor and total metacognitive scores higher at posttest than pretest, but gained more than a control group only on self-plan",
 "evidence_strength":"moderate",
 "id":"web-training-prepost-gains-self-plan-self-monitor",
 "newest_evidence":"2011",
 "path":"claims/web-training-prepost-gains-self-plan-self-monitor.md",
 "status":"review",
-"title":"Web-based metacognitive skills training significantly improved college students' self-plan, self-monitor, and total metacognitive scores from pretest to posttest",
+"title":"College students given web-based metacognitive skills training rated their self-plan, self-monitor and total metacognitive scores higher at posttest than pretest, but gained more than a control group only on self-plan",
 "type":"claim"
 },
 {

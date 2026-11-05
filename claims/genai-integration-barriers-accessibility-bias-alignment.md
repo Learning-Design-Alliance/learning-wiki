@@ -48,6 +48,6 @@ Findings section of the systematic review synthesizing limitations across the 40
 - [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related
 - [Teacher educators show shallow understanding of GenAI tools and gaps in aligning AI use with pedagogical goals](teacher-educators-shallow-genai-understanding-gaps.md) — related
 - [Infrastructure and access constraints were reported in 18 of 54 studies (33%) as the second higher-order technical limitation category](infrastructure-access-constraints-ai-efl.md) — related
-- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - [Institutional approval processes, privacy regulations, technology access, and limited classroom time constrained chatbot adoption beyond instructional value](institutional-privacy-practical-barriers-chatbot-adoption.md) — related
 - [Successful GenAI integration in programming education hinges on intentional teaching strategies, designed assessments, and structured integration processes](genai-integration-success-hinges-on-strategy-assessment-structure.md) — a broader claim this one bears on

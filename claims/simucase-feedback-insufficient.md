@@ -58,5 +58,5 @@ Focus-group theme from the 10-participant qualitative pilot. Typed-response subt
 - [Explanatory feedback alone raises both perceived fairness and decision acceptance, and the indirect effect of agent on acceptance is significant only when explanations are provided](explanatory-feedback-main-effects-and-conditional-indirect-effect.md) — related
 - [Students report teacher feedback on writing is insufficient, and they value scores over feedback](insufficient-writing-feedback-scores-over-feedback.md) — related
 - [Students report increased confidence in selecting, administering, scoring, and interpreting assessments after a simulated clinical course](simucase-increases-assessment-confidence.md) — related
-- [Students perceive debriefing and guided psychometric-property exploration as the most beneficial components of a simulated clinical course](debriefing-psychometric-instruction-valued.md) — related
+- [Graduate students in a simulated clinical course reported positive experiences with its weekly debriefing and guided exploration of psychometric properties](debriefing-psychometric-instruction-valued.md) — related
 - [Pilot students reported the conversational format forced explanation of reasoning, with a majority agreeing it combats rote memorization](socratic-test-pilot-beyond-recall.md) — related

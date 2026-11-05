@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Several included studies found haptic VR training equivalent rather than superior to conventional dental training
-description: Several included studies found haptic VR training equivalent rather than superior to conventional dental training
+title: Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR
+description: Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR
 id: ir-dental-equivalence-mixed-findings
 status: review
 generated:
@@ -28,11 +28,11 @@ sources:
     rigour: 2
 ---
 
-# Several included studies found haptic VR training equivalent rather than superior to conventional dental training
+# Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Vincent et al. found no significant differences between haptic simulator (VirtEasy) and conventional practice on plastic teeth in restorative dentistry training. [→ Ruslin Muhammad 2026](#ruslin-muhammad-2026)

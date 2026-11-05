@@ -50,4 +50,4 @@ Assessment of 408 teeth (204 per group) found no coronal perforation in either g
 - [Artificial teeth group students were more concerned with ethical and biohazard aspects than natural teeth group students](atg-students-ethical-biohazard-concerns.md) — related
 - [Natural teeth group showed more marginal ridge damage and short fillings than artificial teeth group](natural-teeth-more-ridge-damage-short-fillings.md) — related
 - [Students perceived natural teeth as better for endodontic preclinical training than artificial teeth](students-prefer-natural-teeth-training.md) — related
-- [Several included studies found haptic VR training equivalent rather than superior to conventional dental training](ir-dental-equivalence-mixed-findings.md)
+- [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](ir-dental-equivalence-mixed-findings.md)

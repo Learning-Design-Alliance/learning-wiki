@@ -47,4 +47,4 @@ Authors' observational interpretation from researcher notes and usability questi
 ## Related Claims
 - [For the Electricity in daily life learning object, individually studied students benefitted significantly more than collaboratively studied students](electricity-lo-individual-outperformed-collaborative.md) — related
 - [Studying flashcards in pairs raised negative affect in Experiment 1, but not in Experiment 2, which added an icebreaker and relaxed feedback rules](paired-flashcards-negative-affect-icebreaker.md) — related
-- [A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours](feedback-timing-moderates-pretesting.md) — related
+- [A review reports that in three cued-recall studies pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours](feedback-timing-moderates-pretesting.md) — related

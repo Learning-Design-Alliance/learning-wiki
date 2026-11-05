@@ -37,7 +37,7 @@ Deborah K. Anderson, Michelle Schoenleber, and Stuart Korshavn. (2023). Higher-O
 
 `q3 · i2` · `causal · r2`
 
-Counterbalanced quasi-experiment over two semesters of a nonmajors Human Biology course; paired-sample t tests across both semesters compared the four unit-level exam scores. The study found "HOCS clicker questions contributed to better performance on LOCS exam questions than did LOCS clicker questions" with a small-to-medium effect size (d = 0.47).
+Counterbalanced quasi-experiment over two semesters of a nonmajors Human Biology course; paired-sample t tests across both semesters compared four aggregate percentage-correct scores computed for each student across exams II to IV (LOCS and HOCS exam questions, each pooled across the units taught with LOCS clicker questions and across the units taught with HOCS clicker questions). The study found "HOCS clicker questions contributed to better performance on LOCS exam questions than did LOCS clicker questions" with a small-to-medium effect size (d = 0.47).
 
 > "HOCS clicker questions contributed to better performance on LOCS exam questions than did LOCS clicker questions (M LCL = 72% versus MHCL = 76%; t [52] = 4.25, P < 0.001, Cohen’s d = 0.47)"
 

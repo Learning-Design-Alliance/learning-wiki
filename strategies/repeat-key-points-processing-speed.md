@@ -12,7 +12,7 @@ generated:
 # Repeat Key Points (Processing Speed)
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 14 studies (6 causal, 5 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 3 of 14 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 mixed) · 14 studies (6 causal, 5 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 4 of 14 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy reinforces essential information by restating key points multiple times and in multiple forms — verbal repetition, rephrasing, visual summaries, and worked demonstrations. It is primarily an accommodation for learners with slower processing speed: because these learners need more time to encode and consolidate incoming information, deliberate redundancy prevents critical content from being lost before it is consolidated. The repetition must be *varied* — verbatim looping adds little, while rephrasing and re-modality presentation deepen encoding Levels-of-processing research shows deeper, varied encoding improves retention. [+S].

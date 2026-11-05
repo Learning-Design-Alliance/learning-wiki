@@ -38,9 +38,9 @@ Soland, J., Kuhfeld, M., & Rios, J. (2021). Comparing different response time th
 
 `q2 · i?` · `associational · r2`
 
-An NWEA publications listing (read in place of the article) gives this study's summary: a large-scale comparison of threshold-setting methods on reading test scores, covering "over 728,923 3rd–8th-grade students in 2,056 schools across the US". No per-method results are printed in the listing. The article's Methods section states that the data are from one U.S. state, so "across the US" describes the summary's wording, not a nationwide sample.
+The article's abstract describes a large-scale comparison of response-time threshold-setting methods (CUMP, MLN, NT10, NT30) on reading test scores from a computer-adaptive test of nearly 12,000 items, covering "over 728,923 3rd–8th-grade students in 2056 schools across the United States". The Methods section states that "the data for this study are from one U.S. state within the Growth Research Database (GRD) at NWEA", so "across the United States" is the abstract's wording, not a nationwide sample.
 
-> "This study uses reading test scores from over 728,923 3rd–8th-grade students in 2,056 schools across the US to compare threshold-setting methods to detect noneffortful item responses."
+> "In this study, we use reading test scores from over 728,923 3rd–8th-grade students in 2056 schools across the United States taking a CAT consisting of nearly 12,000 items to compare threshold-setting methods."
 
 ## Discussion
 

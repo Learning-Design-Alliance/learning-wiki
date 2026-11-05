@@ -29,4 +29,4 @@ When a threshold-based policy changes conditions for non-targeted students too, 
 -
 
 ## Key Sources
-- Takako Nomi and Elaine M. Allensworth. (2008). “Double-dose” Algebra as an Alternative Strategy to Remediation: Effects on Students’ Academic Outcomes. Consortium on Chicago School Research, University of Chicago. http://www.informaworld.com/smpp/content~db=all?content=10.1080/19345740802676739
+- Nomi, T., & Allensworth, E. (2009). “Double-dose” algebra as an alternative strategy to remediation: Effects on students’ academic outcomes. *Journal of Research on Educational Effectiveness, 2*(2), 111–148. [doi:10.1080/19345740802676739](https://doi.org/10.1080/19345740802676739)

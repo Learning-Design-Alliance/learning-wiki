@@ -47,5 +47,5 @@ Systematic review synthesis of included studies' reported benefits. The review s
 ## Related Claims
 - [Plastic cannister designs are the most common direct ophthalmoscopy simulation model in the literature](plastic-cannister-most-common-do-simulation-model.md) — related
 - [Simulation training improves fundus identification rate and time compared with simulated-patient-only training in a randomised trial](wu-3d-printed-eye-model-improves-fundus-identification.md) — related
-- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
+- [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
