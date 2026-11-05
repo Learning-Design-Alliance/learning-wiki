@@ -1,0 +1,54 @@
+---
+type: claim
+title: Physical activity and sleep quality independently predict GPA after adjusting for age and BMI, whereas BMI does not
+description: Physical activity and sleep quality independently predict GPA after adjusting for age and BMI, whereas BMI does not
+id: pa-sleep-independent-gpa-predictors-regression
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-05
+evidence_strength: moderate
+newest_evidence: 2026
+sources:
+  - id: alghadier-mshari-2026
+    resource: "https://doi.org/10.7717/peerj.21154"
+    title: "Alghadier Mshari, Badcock Nicholas. (2026). Sleep, movement, and marks: exploring the relationship between sleep quality, physical activity, and academic performance in male university students. PeerJ 14:e21154. https://doi.org/10.7717/peerj.21154"
+    author: Alghadier Mshari, Badcock Nicholas
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 2
+---
+
+# Physical activity and sleep quality independently predict GPA after adjusting for age and BMI, whereas BMI does not
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · associational `r2` · `q2`
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` In a multiple linear regression, higher PA (B = 0.43) and better sleep quality (B = −0.04 per PSQI point) independently predicted higher GPA; BMI was not significant. [→ Alghadier Mshari 2026](#alghadier-mshari-2026)
+
+## Evidence
+
+### Alghadier Mshari 2026
+
+Alghadier Mshari, Badcock Nicholas. (2026). Sleep, movement, and marks: exploring the relationship between sleep quality, physical activity, and academic performance in male university students. PeerJ 14:e21154. https://doi.org/10.7717/peerj.21154
+
+`q2 · i?` · `associational · r2`
+
+Multiple linear regression with GPA as dependent variable and IPAQ ordinal score, PSQI global score, age, and BMI as predictors (R2 = 0.64, F(4, 125) = 55.61, p < 0.001); BMI coefficient was non-significant (p = 0.163).
+
+> "The overall model was statistically significant and explained a substantial 64% of the variance in GPA. After adjusting for age and BMI, higher PA levels remained a robust independent predictor of better academic performance."
+
+## Discussion
+
+
+## Learner Variables
+- [Sleep](../learner-variables/sleep.md) — predictor: learners who differ on it differ in outcomes
+
+## Related Claims
+- [Good sleepers have significantly higher GPA than poor sleepers among male university students (d = 0.93)](good-vs-poor-sleepers-gpa-difference.md) — a narrower finding that bears on this claim
+- [Physical activity appears to partially offset the adverse association between poor sleep and GPA](pa-offsets-sleep-gpa-association.md) — a narrower finding that bears on this claim
+- [Higher physical activity is strongly positively correlated with GPA while worse sleep quality is moderately negatively correlated](pa-sleep-gpa-bivariate-correlations.md) — related
+- [GPA differs significantly across physical activity levels among male university students, rising stepwise from low to high activity](pa-category-gpa-dose-response-male-students.md) — related

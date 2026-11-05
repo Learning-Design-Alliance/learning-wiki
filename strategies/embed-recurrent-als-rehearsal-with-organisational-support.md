@@ -53,6 +53,7 @@ The review recommends treating ALS competence maintenance as an ongoing workplac
 - [Use video feedback alongside augmented feedback to support self-efficacy when learning a new psychomotor competency skill](video-feedback-plus-augmented-feedback-strategy.md)
 - [Combine knowledge-based BLS instruction with hands-on and simulation-based training.](combine-knowledge-instruction-with-simulation-bls.md)
 - [Use standalone VR for repeated self-directed skill maintenance between certification cycles](standalone-vr-skill-maintenance-strategy.md)
+- [Embed structured BLS/AED training early in the medical curriculum with spaced simulation-based reinforcement and competency-based assessment](early-structured-bls-aed-training-spaced-simulation.md)
 
 ## Examples
 -

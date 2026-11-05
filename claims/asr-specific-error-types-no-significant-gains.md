@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: weak
 newest_evidence: 2023
+source_checked: 2026-11-05
 sources:
   - id: dillon-2023
     resource: "https://doi.org/10.15858/engtea.78.1.202303.3"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Paired t-tests on each error category showed no statistically significant improvement for any error type, though treatment-group improvements exceeded control-group changes for most categories. [→ Dillon 2023](#dillon-2023)
@@ -76,3 +77,4 @@ Analysis of error-type changes in Table 5 of the quasi-experiment found "some pr
 - [Step-by-step automated annotations accelerated correction of procedural misconceptions, with intervention students rectifying fundamental errors weeks before control peers](automated-annotations-accelerate-misconception-correction.md) — related
 - [Wavelength (and analogously voltage) is a difficult concept for learners: most show no improvement and some regress, even under systematic inquiry](wavelength-voltage-hard-to-learn-simulations.md) — related
 - [The benefit of corrective feedback is not limited to specific grammatical error types](cf-benefit-across-error-types.md) — related
+- [Error scores on the Fine Dissection task did not improve significantly in any group, suggesting error metrics are more resistant to change over short training intervals](fine-dissection-error-scores-not-improved.md) — a narrower finding that bears on this claim

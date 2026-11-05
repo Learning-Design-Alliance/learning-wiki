@@ -55,3 +55,4 @@ Descriptive item statistic from the 19-item belief scale in the survey of 72 pra
 - [Instructors engage LLM-generated suggestions as a controllable refinement process](instructors-use-llm-suggestions-as-controllable-refinement.md) — related
 - [Students framed AI as replacement rather than scaffolding in 48 of 49 essays](replacement-frame-near-universal-in-essays.md) — reports the opposite
 - [Students exercise ethical agency in GenAI use through human-AI collaboration strategies, personal ethical frameworks, strategic calibration of use, and resistance to over-reliance](student-ethical-agency-genai-use.md) — related
+- [Student preference for the AI role-play over other teaching methods was variable, with a third disagreeing or neutral](ai-roleplay-preference-variability.md) — related

@@ -15,7 +15,7 @@ sources:
     title: "Guo, Z., Fryer, L. K., & Shum, A. (2025). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. [doi:10.31234/osf.io/srxga_v1](https://doi.org/10.31234/osf.io/srxga_v1)"
     author: "Guo, Z., Fryer, L. K., & Shum, A."
     q: 3
-    i: "?"
+    i: 0
     kind: causal
     rigour: 1
 ---
@@ -23,12 +23,12 @@ sources:
 # The generative AI relevance intervention did not significantly increase students' interest in the math class
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r1` · `q3`
+> **Evidence** · 1 study · causal `r1` · `q3` · `i0` negligible
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 > **Design limits** · Guo 2025: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
-`q3 i?` The intervention's effect on post math class interest was not significant, despite significant effects on relevance as identification in the collective condition. [→ Guo 2025](#guo-2025)
+`q3 i0` The intervention's effect on post math class interest was not significant, despite significant effects on relevance as identification in the collective condition. [→ Guo 2025](#guo-2025)
 
 ## Evidence
 
@@ -36,9 +36,9 @@ sources:
 
 Guo, Z., Fryer, L. K., & Shum, A. (2025). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. [doi:10.31234/osf.io/srxga_v1](https://doi.org/10.31234/osf.io/srxga_v1)
 
-`q3 · i?` · `causal · r1`
+`q3 · i0 · negligible (η² = .003)` · `causal · r1`
 
-Univariate ANCOVA follow-up to the MANCOVA on post math class interest; the article reports "The effect of the intervention on students' math class interest was not significant". No effect size was printed for this null finding; equivalence was not tested.
+Univariate ANCOVA follow-up to the MANCOVA on post math class interest; the article reports "The effect of the intervention on students' math class interest was not significant". Table 2 gives F = .29, p = .75, η² = .003 for post math class interest; equivalence was not tested.
 
 > "The effect of the intervention on students' math class interest was not significant (see Table 2)."
 

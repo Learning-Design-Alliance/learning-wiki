@@ -67,3 +67,4 @@ Table 4 item: 37.3% disagreed, 8.7% strongly disagreed, and 24.2% were unsure th
 - [More than 90% of VM-experienced students advocated combining traditional and virtual microscopy in histology laboratory sessions](students-prefer-hybrid-lm-vm.md) — related
 - [VM awareness and use increased significantly across class levels exposed to histology during or after the COVID-19 pandemic at the University of Ghana](vm-awareness-use-increased-pandemic-ug.md) — related
 - [Most students preferred virtual microscopy over recorded e-lecturing for learning histology and reported higher motivation with it](students-prefer-virtual-microscopy-histology.md) — related
+- [The article asserts that students prefer self-directed learning because it improves understanding of the subject and helps clear doubts, without reporting preference data](asserted-student-preference-for-sdl-understanding.md) — related

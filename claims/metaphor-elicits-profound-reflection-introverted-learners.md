@@ -49,3 +49,4 @@ In the same case study, direct-question answers were terse (e.g., 'The feedback 
 - [Online feedback is valued by introverted learners for its relational and expressive role, providing a private one-to-one exchange that avoids face-threat](online-feedback-relational-role-introverted-learners.md) — related
 - [Learners' metaphoric perceptions of online feedback coded into six analogous characteristics describing how online feedback benefited them](six-analogous-characteristics-online-feedback.md) — related
 - [Reflection in language learning contexts is hindered by learners' difficulty expressing thoughts in the target language](language-learners-expression-difficulty-reflection.md) — related
+- [Culturally metaphorical English expressions of Tai Chi movement names are associated with higher comprehension than direct translations](metaphorical-translation-comprehension.md) — related

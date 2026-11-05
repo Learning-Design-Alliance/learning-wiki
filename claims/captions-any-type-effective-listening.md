@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: behroozizad-and-majidi-2015
     resource: "https://doi.org/10.7575/aiac.alls.v.6n.4p.115"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2015 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` After 15 sessions, both caption groups (full and keyword) scored significantly higher on the listening post-test than the no-captions control group (one-way ANOVA on post-test scores, F(2, 42) = 103.51, then Scheffé comparisons); gains from pre-test were not compared between groups. [→ Behroozizad and Majidi 2015](#behroozizad-and-majidi-2015)

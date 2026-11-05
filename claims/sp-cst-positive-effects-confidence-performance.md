@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2018
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: pilnick-alison-2018
     resource: "https://doi.org/10.1186/s12909-018-1381-1"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2018 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Empirical studies of SP-based CST across student and practising HCP settings report increased confidence, improved communication performance judged by SPs, and improved standardised assessment performance. [→ Pilnick Alison 2018](#pilnick-alison-2018)
@@ -66,3 +66,5 @@ The review's synthesis of empirical SP studies across settings (anaesthesia, obs
 - [Feedback facilitators such as faculty coaches can increase trainee receptivity to patient feedback](feedback-facilitators-increase-receptivity.md) — related
 - [Simulated participants judged prepared students as performing better in simulations](sp-reflections-prepared-students-perform-better.md) — a narrower finding that bears on this claim
 - [Virtual standardized patient interview comprehensiveness rose across successive SP consultations in the AI-assisted group, in one uncontrolled pre-post study](virtual-sp-interview-comprehensiveness-increases-sp1-sp3.md) — a narrower finding that bears on this claim
+- [CVC training reportedly lacked patient interactions, communication, consent, and ethical scenario preparation, and gave minimal sterile-field instruction](cvc-training-lacks-patient-centered-and-sterility-preparation.md) — related
+- [P-MASE students showed better standardized simulation/task-based skills performance: higher simulated departmental satisfaction, more empathy markers, and lower DRG grouping error rate](pmase-better-simulation-task-skills-performance.md) — related

@@ -53,3 +53,4 @@ Subgroup meta-analysis pooling two studies of Ethiopian schoolchildren. The revi
 - [Nutrition and WASH exposures show a pooled positive association with academic performance among Ethiopian schoolchildren (pooled effect size 2.05) with very high heterogeneity](pooled-nutrition-wash-academic-performance-ethiopia-2-05.md) — related
 - [Breakfast skipping is associated with poor academic performance among Ethiopian students (pooled effect size 3.47)](breakfast-skipping-poor-academic-performance-ethiopia.md) — related
 - [School feeding programs show mixed, statistically nonsignificant pooled effects on academic performance (1.314, CI crossing null)](school-feeding-programs-nonsignificant-pooled-effect.md) — related
+- [Normal BMI is associated with approximately four times higher academic performance compared with underweight among Ethiopian primary school students](normal-bmi-associated-academic-performance-ethiopia.md) — reports the opposite

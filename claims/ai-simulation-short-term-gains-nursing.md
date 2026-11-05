@@ -91,3 +91,4 @@ Design-tier stratification of the review's included studies: 3 RCTs assessed wit
 - [XR-based POCUS training is non-inferior to standard training for TAPSE measurement accuracy](xr-training-non-inferior-tapse.md) — related
 - [Use of the AI virtual patient tool was associated with improved self-perceived structured diagnostic approach, initial-diagnosis confidence, and patient-explanation confidence](ai-virtual-patient-structured-approach-gains.md) — a narrower finding that bears on this claim
 - [Small-group, communication-focused SP simulations increase pre-licensure nursing students' comfort and confidence in therapeutic communication](sp-simulation-increases-therapeutic-communication-comfort.md) — related
+- [The intervention increased students' self-assessed confidence in dealing with oral diseases](pbl-case-increases-self-assessed-oral-confidence.md) — related

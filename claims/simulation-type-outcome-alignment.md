@@ -49,7 +49,7 @@ The review's cross-study synthesis of the included literature found modality–o
 - [Simulation-based education improves nursing students' clinical decision-making, judgment, and self-confidence](simulation-improves-nursing-decision-making-confidence.md) — related
 - [The review reports that high-fidelity simulation outperformed case-based discussion for clinical reasoning and leadership in paediatric emergencies](hfs-superior-case-based-discussion-reasoning.md) — a narrower finding that bears on this claim
 - [Review syntheses: VR/AR most often improved academic achievement and motivation, but sometimes performed no better than conventional technologies](vr-ar-advantages-achievement-motivation-with-null-contrast.md) — related
-- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected](immersion-cost-benefit-transfer-motivation.md) — related
+- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation, with no significant effect on retention](immersion-cost-benefit-transfer-motivation.md) — related
 - [Virtual reality was particularly effective for procedural skill development and knowledge retention in paediatric undergraduate training](vr-effective-procedural-skills-retention.md) — related
 - [Very high majorities of students rated high-fidelity simulation as enhancing learning, clinical reasoning, decision-making, and value](coffey-hfs-student-ratings.md) — related
 - High-fidelity simulation is the most commonly used simulation type in studies of critical thinking — related
@@ -57,3 +57,4 @@ The review's cross-study synthesis of the included literature found modality–o
 - [The review's authors interpret structured pre-briefing as supporting nursing students' metacognition, clinical judgment, and meaningful simulation learning](structured-pre-briefing-supports-clinical-judgment.md) — related
 - [Students rate simulation as improving critical thinking, problem solving, reporting and recording, and decision making, with communication and nursing process rated lower](simulation-improves-self-rated-maternity-skills.md) — related
 - [Simulation-based handoff training with a structured communication tool enhanced nurse anesthesia students' perceived confidence in clinical decision-making and empowerment.](sim-handoff-training-increased-perceived-decision-making-confidence.md) — related
+- [P-MASE students showed better standardized simulation/task-based skills performance: higher simulated departmental satisfaction, more empathy markers, and lower DRG grouping error rate](pmase-better-simulation-task-skills-performance.md) — related

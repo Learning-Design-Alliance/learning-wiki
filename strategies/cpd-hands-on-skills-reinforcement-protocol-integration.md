@@ -57,6 +57,7 @@ The review recommends that clinical practice should design CPD programs with "ha
 - [Embed the Long COVID core competencies in training and professional development to standardize practices and improve patient outcomes](embed-competencies-in-long-covid-training.md)
 - [Develop targeted, competency-based interprofessional continuing education programs and European frameworks for geriatric care](targeted-competency-based-geriatric-cpd-strategy.md)
 - [Bundle recurrent hands-on hypertension training, simplified point-of-care guidelines, and facility chronic care systems (registers, recall, referral protocols) for PHC workers](bundled-hypertension-capacity-strategy-phc.md)
+- [Prioritize regular, context-specific communication training with conversation guides and available technologies to embed GoPC conversations in practice](regular-context-specific-gopc-training-embedding.md)
 
 ## Examples
 -

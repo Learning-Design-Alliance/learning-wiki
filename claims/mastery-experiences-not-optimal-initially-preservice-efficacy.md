@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: mixed
 newest_evidence: 2016
+source_checked: 2026-11-05
 sources:
   - id: mckim-2016
     resource: "https://doi.org/10.5032/jae.2016.01073"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Studies of peer teaching, early field experiences, and student teaching course load found mastery experiences were inconsistently or negatively related to preservice and novice agriculture teachers' self-efficacy. [→ McKim 2016](#mckim-2016)

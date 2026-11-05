@@ -9,7 +9,6 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-11-01
 sources:
   - id: torgerson-2014
     resource: "https://eric.ed.gov/?id=ED581140"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i3` large
-> **Currency** · newest study 2014 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In a randomised controlled trial of 261 eligible pupils, the intervention group scored 2.53 marks higher on extended writing than controls, an effect size of 0.74 (95% CI 0.26 to 1.22). [→ Torgerson 2014](#torgerson-2014)

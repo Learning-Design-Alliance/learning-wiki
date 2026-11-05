@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2016
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: abiola-lateef-olori-and-adekunle-olusegun-igbosanu-2016
     resource: "https://eric.ed.gov/?id=EJ1122547"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2016 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Post-test mean achievement of the CBMP group (16.45) was significantly higher than that of the conventional-method group (13.18), t-cal 6.31 exceeding the tabulated 1.99 at P<0.05. [→ Abiola Lateef Olori and Adekunle Olusegun Igbosanu 2016](#abiola-lateef-olori-and-adekunle-olusegun-igbosanu-2016)

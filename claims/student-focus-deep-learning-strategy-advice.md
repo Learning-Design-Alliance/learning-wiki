@@ -50,3 +50,4 @@ Regression analysis in the correlational part of the online study with 70 academ
 - [Student-focused reflection instructions before answering led academics to give less advice than teacher-focused instructions](student-focus-reflection-less-advice.md) — related
 - [Women academics mentioned fewer external motivators and more resource management strategies than men](gender-differences-in-advice-content.md) — related
 - [Soft-discipline academics give reasons for self-learning containing fewer external motivators than hard-discipline academics](soft-discipline-fewer-external-motivators.md) — related
+- [Higher learner-centered (CCSF) ATI-R scores are associated with more lectures taught and a greater percentage of time devoted to teaching](ccsf-scores-correlate-lectures-and-teaching-time.md) — related

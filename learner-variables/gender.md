@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 528 claims (280 show a difference, 109 mixed, 139 no difference) · 369 studies (164 associational, 147 causal, 20 review, 16 quant-synthesis, 10 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 56 of 369 report an effect size · 520 claims rest on one study
+> **Evidence** · 534 claims (283 show a difference, 111 mixed, 140 no difference) · 374 studies (167 associational, 149 causal, 20 review, 16 quant-synthesis, 10 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 57 of 374 report an effect size · 526 claims rest on one study
 
 ## How to read this page
 
@@ -567,6 +567,12 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Sex does not moderate sleep–outcome associations](../claims/sex-no-moderation-sleep.md) [-W] — an instructional effect differs by group
 - [Female students report higher stress than male students during hands-on artificial-tooth training, despite comparable performance](../claims/female-higher-stress-hands-on-training.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Variance-covariance structures of gaming and motivation differ by sex, supporting sex-stratified modeling](../claims/sex-noninvariance-gaming-motivation-covariance.md) [+W] — an instructional effect differs by group
+- [Female students score higher on empathy than male students in both teaching groups before and after class](../claims/female-higher-empathy-both-groups.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female students showed stronger motivation toward e-learning resources and training than male students](../claims/female-students-stronger-elearning-motivation.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [For boys, higher relative sense of belonging significantly predicts reading and science achievement, with a positive but Bonferroni-non-significant math coefficient](../claims/relative-belonging-boys-reading-science.md) [~W] — an instructional effect differs by group
+- [Gender, personality structure, and technology readiness showed no difference on the primary outcome, and no modifying gender-by-group effect](../claims/no-gender-personality-techreadiness-moderators-pocus-training.md) [-M] — an instructional effect differs by group
+- [In this cohort, females scored significantly higher in Chinese, English, and Politics, whereas males outperformed females in Mathematics, Physics, Chemistry, Geography, and overall achievement](../claims/gender-gap-subject-grades-chinese-cohort.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Sex differences in bodily sensation maps are minimal across learning contexts but evident for anxiety, with females showing stronger head and torso activation](../claims/sex-difference-anxiety-bsm.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

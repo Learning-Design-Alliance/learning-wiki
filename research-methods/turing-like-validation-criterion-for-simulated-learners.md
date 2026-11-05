@@ -5,8 +5,8 @@ title: Turing-like validation criterion for simulated learners
 description: "The review proposes a universal validation criterion for simulated learners modeled on Turing's Test."
 status: review
 generated:
-  by: "process:settle-candidates"
-  at: 2026-10-27
+  by: "process:article-ingest"
+  at: 2026-11-05
 ---
 
 # Turing-like validation criterion for simulated learners
@@ -24,7 +24,7 @@ The review proposes a universal validation criterion for simulated learners mode
 ### Claims
 
 ## Related Research Methods
--
+- [Robust Evaluation Matrix (REM)](robust-evaluation-matrix.md) — offline evaluation of instructional policies with simulated students, which depends on those simulators' validity
 
 ## Key Sources
 - Käser, T., & Alexandron, G. (2023). Simulated Learners in Educational Technology: A Systematic Literature Review and a Turing-like Test. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-023-00337-2

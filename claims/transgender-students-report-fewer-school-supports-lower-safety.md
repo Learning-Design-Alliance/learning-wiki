@@ -9,7 +9,7 @@ generated:
   at: 2026-10-09
 evidence_strength: moderate
 newest_evidence: 2021
-source_checked: 2026-10-16
+source_checked: 2026-11-05
 recheck_by: 2026
 sources:
   - id: cerna-2021
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2021 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2026: baselines and conditions change
+> **Currency** · newest study 2021 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Transgender students in nearly all race/ethnicity groups were markedly less likely than non-transgender peers to report key school supports, feeling safe, academic motivation, school connectedness, and positive academic outcomes. [→ Cerna 2021](#cerna-2021)

@@ -13,7 +13,7 @@ generated:
 # Feedback
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 268 claims (123 for, 126 mixed, 19 against) · 202 studies (85 causal, 36 review, 28 quant-synthesis, 18 associational, 15 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 49 of 202 report an effect size · 244 claims rest on one study
+> **Evidence** · 269 claims (124 for, 126 mixed, 19 against) · 203 studies (86 causal, 36 review, 28 quant-synthesis, 18 associational, 15 design, 10 qualitative, 10 theoretical), `q1`–`q4` · 50 of 203 report an effect size · 245 claims rest on one study
 
 ## Description
 Feedback is information provided to learners about their performance or understanding, intended to close the gap between current and desired performance. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective mechanism in any instructional cycle that includes [Practice](practice.md) or [Assessment](assessment.md).
@@ -316,6 +316,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [In an exploratory blinded comparison of five double-marked submissions, no statistically significant differences were detected between AI-generated and faculty-generated feedback across rated domains](../claims/blinded-comparison-no-significant-difference-ai-vs-faculty-feedback.md) [~W]
 - [Feedback timing (immediate vs delayed) shows mixed effects, with no timing effect found in some studies](../claims/feedback-timing-mixed-evidence.md) [~W]
 - [CHW trainees value structured preparation, pre-briefing, and immediate SP feedback in simulation-based MI training](../claims/chws-value-structure-preparation-and-feedback-in-mi-simulation-training.md) [+W]
+- [AI-generated feedback following social robotic VP interactions improves medical students' total OSCE performance (Cohen d=0.74)](../claims/ai-feedback-sari-improves-total-osce.md) [+M] — attached 2026-11-05 from Alexander Borg et al. (2026), which proposed "Two-stage LLM feedback algorithm with rubric-constrained assessment".
 
 ## Design Decisions
 <!-- Decision section (2026-09-30 pilot): drafted from the linked claim pages only; every choice

@@ -54,9 +54,9 @@ sources:
     resource: "https://doi.org/10.48550/arXiv.0706.2717"
     title: "Barber, R. P., Jr., Popalisky, D. J., Hacking, R., & Chiapella, K. (2007). Newton's 2nd Law and the Physics of Dance. arXiv:0706.2717. [doi:10.48550/arXiv.0706.2717](https://doi.org/10.48550/arXiv.0706.2717)"
     author: "Barber, R. P., Jr., Popalisky, D. J., Hacking, R., & Chiapella, K."
-  - id: suarez-2008
-    resource: "https://www.eric.ed.gov"
-    title: "Suarez, E. and Otero, V. (2008). 3rd grade English language learners making sense of sound. https://www.eric.ed.gov"
+  - id: suarez-2013
+    resource: "https://doi.org/10.1063/1.4789738"
+    title: "Suarez, E., & Otero, V. (2013). 3rd grade English language learners making sense of sound. *AIP Conference Proceedings* (2012 Physics Education Research Conference), 406-409. [doi:10.1063/1.4789738](https://doi.org/10.1063/1.4789738) (preprint arXiv:1210.4509, 2012)"
     author: Suarez, E. and Otero, V
   - id: funds-of-knowledge-learning-from-language-minority-households-eric-digest-1994
     resource: "https://eric.ed.gov/?id=ED367146"
@@ -283,7 +283,7 @@ The present evidence establishes no dose, no sequence, no effect on achievement 
 - Schleppegrell, Mary. (1987). The Older Language Learner. ERIC Clearinghouse on Languages and Linguistics, Washington DC. https://eric.ed.gov/?id=ED287313
 - Weintraub, L. (2025). Grandma Needs English, Too. Adult Literacy Education. http://doi.org/10.35847/LWeintraub.7.1.37
 - Barber, R. P., Jr., Popalisky, D. J., Hacking, R., & Chiapella, K. (2007). Newton's 2nd Law and the Physics of Dance. arXiv:0706.2717. [doi:10.48550/arXiv.0706.2717](https://doi.org/10.48550/arXiv.0706.2717)
-- Suarez, E. and Otero, V. (2008). 3rd grade English language learners making sense of sound. https://www.eric.ed.gov
+- Suarez, E., & Otero, V. (2013). 3rd grade English language learners making sense of sound. *AIP Conference Proceedings* (2012 Physics Education Research Conference), 406-409. [doi:10.1063/1.4789738](https://doi.org/10.1063/1.4789738) (preprint arXiv:1210.4509, 2012)
 - Funds of Knowledge: Learning from Language Minority Households. ERIC Digest. (1994). https://eric.ed.gov/?id=ED367146
 - O'Shea, B., Terry, L., & Benenson, W. (2013). From F=ma to Flying Squirrels: Curricular Change in an Introductory Physics Course. CBE-Life Science Education (accepted). https://www.lifescied.org
 - Liu, X., Liu, S., Lee, S.-h., & Magjuka, R. J. (2010). Cultural Differences in Online Learning: International Student Perceptions. *Educational Technology & Society, 13*(3), 177-188. https://www.jstor.org/stable/jeductechsoci.13.3
@@ -702,7 +702,7 @@ The article argues that classrooms recognizing and valuing students' everyday la
 -
 
 ## Key Sources
-- Suarez, E. and Otero, V. (2008). 3rd grade English language learners making sense of sound. https://www.eric.ed.gov
+- Suarez, E., & Otero, V. (2013). 3rd grade English language learners making sense of sound. *AIP Conference Proceedings* (2012 Physics Education Research Conference), 406-409. [doi:10.1063/1.4789738](https://doi.org/10.1063/1.4789738) (preprint arXiv:1210.4509, 2012)
 -->
 
 <!-- merged 2026-10-15 from patterns/funds-of-knowledge-teacher-research-model ("Funds of Knowledge Teacher-Research Model (Tucson Project)"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.

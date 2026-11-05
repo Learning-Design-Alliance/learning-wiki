@@ -49,6 +49,8 @@ In its conclusions, the review recommends that "healthcare organizations and edu
 - [Formalize clinical peer-mentorship programs pairing senior staff with junior nurses](peer-mentorship-junior-nurses-wound-care.md)
 - [Treat post-course mentoring and institutional supports as a core implementation requirement when running innovation courses for novice nurses](post-course-mentoring-core-implementation-requirement.md)
 - [Design structured, competency-based, stage-specific transition programmes for new nurse managers with mentoring by experienced managers](structured-stage-specific-nurse-manager-transition-programmes.md)
+- [Combined organizational-support, mentorship, simulation-based confidence-building, and workload-management interventions for new emergency and critical care nurses](four-part-support-intervention-new-critical-care-nurses.md)
+- [Strengthen nurses' EBP competence and clinical decision-making through targeted education, access to organizational resources, and supportive policies](targeted-ebp-education-resources-policies-strategy.md)
 
 ## Examples
 -

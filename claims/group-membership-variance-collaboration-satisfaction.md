@@ -48,3 +48,4 @@ Scenario A null-model LMM variance decomposition. The intraclass correlation of 
 - [SI-PASS group membership (leader) had no effect on exam performance, with only the TOLT logical thinking score predicting grades in multilevel analysis](si-pass-no-leader-group-effect.md) — related
 - [Teacher-level intraclass correlations indicated 11.7% of pre-test and 40.6% of post-test ability variance lay at the teacher level](teacher-level-icc-pre-post-fractions.md) — related
 - [Computation competence showed substantial class-specific differential development, with ICC rising from 3% at pretest to 25% at posttest within the measured group](class-specific-differential-development-icc.md) — related
+- [Roughly 45% of variance in Chinese adolescents' achievement lies between schools, supporting multilevel modeling](between-school-variance-achievement-icc-pisa-china.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: booth-2015
     resource: "https://doi.org/10.1080/19345747.2015.1055636"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2015 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Experiment 1 treatment students outscored control students on the posttest, a significant main effect of condition. [→ Booth 2015](#booth-2015)

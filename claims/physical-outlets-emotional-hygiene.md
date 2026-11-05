@@ -51,3 +51,4 @@ Theoretical argument linking physical condition to emotional life. The article c
 - [Expressive Writing Improves Health Outcomes](expressive-writing-improves-health-outcomes.md) — related
 - [KOKU improves lower-limb function, concerns about falling and health-related quality of life, but not mood, physical activity, fatigue or fall rate](koku-secondary-outcomes-mixed.md) — related
 - [Health status predicts perceived school belonging beyond demographic controls](health-status-predicts-belonging.md) — related
+- [Academic emotions exhibit distinct bodily signatures, with positive emotions producing widespread activation and negative emotions differing by type](academic-emotion-bsm-signatures.md) — related

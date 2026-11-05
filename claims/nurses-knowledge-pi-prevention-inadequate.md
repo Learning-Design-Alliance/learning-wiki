@@ -50,3 +50,5 @@ Narrative synthesis of 29 cross-sectional studies found knowledge frequently sub
 - [Nurses' attitudes toward pressure injury prevention are generally positive across studies.](nurses-attitudes-pi-prevention-positive.md) — related
 - [Common barriers to pressure injury prevention include staff shortages, high workload, limited resources, and insufficient institutional support.](systemic-barriers-pi-prevention.md) — related
 - [Higher education, specialised experience, recent training, and seniority are associated with better knowledge, attitudes, and practices.](education-training-seniority-better-kap.md) — a broader claim this one bears on
+- [Previous reading or training on pressure injuries was not significantly associated with nurses' knowledge scores](pi-reading-training-not-associated-with-knowledge.md) — related
+- [Nurses in Türkiye demonstrate a moderate level of knowledge about pressure injury prevention, with a mean score of 43.00 out of 72 on the PZ-PIKT](turse-nurses-moderate-pi-knowledge-43-of-72.md) — a narrower finding that bears on this claim

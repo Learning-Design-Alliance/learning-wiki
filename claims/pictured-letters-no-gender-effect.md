@@ -49,3 +49,5 @@ Post-test ANCOVA in the 90-student quasi-experiment (45 male, 45 female, 15 of e
 - [In the post-test, teaching method significantly affected learning of similar English letters among students with learning disabilities, favoring the modified-plus-abstract pictured letters method over traditional teaching](pictured-letters-mnemonics-post-test-method-effect.md) — related
 - [No statistically significant interaction between teaching method and gender was found on the post-test or follow-up test](pictured-letters-no-method-gender-interaction.md) — related
 - [Gender had no significant main or interaction effect on post-test scores](gender-no-effect-post-test.md) — related
+- [Performance differences remained significant after controlling for age and GPA, and no gender effects were observed](gjump-effects-robust-to-gpa-age-gender.md) — related
+- [Gender, personality structure, and technology readiness showed no difference on the primary outcome, and no modifying gender-by-group effect](no-gender-personality-techreadiness-moderators-pocus-training.md) — related

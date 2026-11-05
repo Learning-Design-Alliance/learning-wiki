@@ -50,6 +50,7 @@ The article recommends a coordinated set of enablers for SBE in dietetic educati
 
 - [Implement simulation-based education with targeted interventions, high-intensity low-dose high-frequency training, and strong integration and support](three-features-effective-sbe-programs.md)
 - [Provide more training, ongoing support and shared interactive resources to enable effective IWB use](iwb-training-support-resource-sharing-strategy.md)
+- [Design SBE with strong debriefing and explicit support for recontextualising knowledge across sites, and enact shared values collaboratively between educators and clinical nurses](sbe-debriefing-recontextualisation-support-strategy.md)
 
 ## Examples
 -

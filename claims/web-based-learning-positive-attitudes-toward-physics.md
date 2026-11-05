@@ -69,3 +69,4 @@ Same survey, question on online tests: "However, 90% of the students in this gro
 - [Older adults rate the blended LMS workshop positively on ease of use, perceived usefulness, attitude toward using, and intention to use](tam-validation-blended-workshop-older-adults.md) — related
 - [Students in the FLEX blended learning format rated the learning environment positively across all surveyed dimensions](flex-students-positive-perceptions-all-dimensions.md) — related
 - [The article reports that the REACT strategy affects learners' learning motivation and attitudes and contributes to a more positive learning environment](react-affects-motivation-attitudes.md) — related
+- [Most students in the experimental group reported positive perceptions of the examination-aligned blended teaching model](student-satisfaction-blended-exam-aligned.md) — related

@@ -62,3 +62,4 @@ Authors' interpretive synthesis in the discussion, attributing transferability c
 - [Teachers' teaching approaches were constrained by university entrance exam pressure and laboratory resource shortages](exam-pressure-and-resources-constrain-teaching-approach.md) — a narrower finding that bears on this claim
 - [Patient-related, technical and organisational challenges hindered clinical LUS integration](lus-integration-challenges-ed.md) — a narrower finding that bears on this claim
 - [Institutional support and opportunities to teach were identified as key facilitators, while time constraints were the primary barrier to sustained skill application](facilitators-and-barriers-to-sustained-teaching-skills.md) — related
+- [Missed CVC training opportunities were attributed to time constraints, variable patient volume, and inconsistent access to equipment and funding](cvc-training-opportunities-limited-time-volume-equipment.md) — a narrower finding that bears on this claim

@@ -47,7 +47,7 @@ The article's practical implication is that instructors should "incorporate less
 - [Middle-school students taking a virtual field trip via a 3D HMD report higher interest than students taking the same trip as a 2D video](../claims/hmd-virtual-field-trip-higher-interest-than-2d-video.md) [+W]
 - [Middle-school students taking a virtual field trip via a 3D HMD report higher presence than students taking the same trip as a 2D video](../claims/hmd-virtual-field-trip-higher-presence-than-2d-video.md) [+W]
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](../claims/immersion-principle-no-vr-benefit.md) [-W]
-- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected](../claims/immersion-cost-benefit-transfer-motivation.md) [~W]
+- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation, with no significant effect on retention](../claims/immersion-cost-benefit-transfer-motivation.md) [~W]
 
 ## Related Strategies
 

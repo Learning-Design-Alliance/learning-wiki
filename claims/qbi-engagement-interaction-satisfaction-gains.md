@@ -69,3 +69,4 @@ Tukey's HSD post hoc comparisons: each experimental group differed from control 
 - [QBI students scored significantly higher on weekly formative quizzes than control students, with no difference between the two QBI platforms](qbi-formative-quiz-advantage.md) — related
 - [Interviewed students attributed QBI's attentional gains to structured unpredictability from incrementally placed quiz prompts](qbi-structured-unpredictability-attention.md) — related
 - [Students in the cloud-platform group reported significantly positive learning satisfaction across all measured domains](cloud-platform-learning-satisfaction-domains.md) — related
+- [P-MASE students showed higher learning engagement (platform logins, valid discussion posts) and higher simulated ED waiting-time reduction than controls](pmase-higher-engagement-and-ed-optimization-performance.md) — related

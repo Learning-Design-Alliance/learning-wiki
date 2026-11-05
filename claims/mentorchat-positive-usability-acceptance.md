@@ -67,3 +67,5 @@ Post-task questionnaire with 25 items (21 Likert-scale) completed by 30 students
 - [Students rate the AISP chatbot highly usable, with robotic conversational style the most common concern](aisp-cortex-usability-cuq-findings.md) — related
 - [Students rated the 2-day mCLEIMS course very highly, with global satisfaction of 4.93 on a 5-point scale and item scores from 4.79 to 4.96](mcleims-high-satisfaction-ratings.md) — related
 - [Student satisfaction with the online flipped classroom course was significantly above the neutral point](ofc-student-satisfaction-above-neutral.md) — related
+- [Students rated the chatbot interface highly, with 100% strongly agreeing the on-screen words were easy to read and 85.7% strongly agreeing multimedia improved case presentation](ai-roleplay-interface-usability-ratings.md) — a narrower finding that bears on this claim
+- [Most students in the experimental group reported positive perceptions of the examination-aligned blended teaching model](student-satisfaction-blended-exam-aligned.md) — related

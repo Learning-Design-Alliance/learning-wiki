@@ -59,8 +59,10 @@ Checklists work by offloading procedural memory onto an external artifact, reduc
 6. Fade the checklist as learners internalize the routine, shifting from full checklists to partial prompts to independent execution
 
 ## Related Strategies
+
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — checklists can prompt retrieval of previously learned procedures before application
 - [Achievable Micro-Goals](../strategies/achievable_micro-goals.md) — checklist items function as micro-goals whose completion sustains momentum
+- [Apply deliberate practice in microsurgery by setting measurable goals, deconstructing skills, planning practice time, and seeking expert guidance](apply-deliberate-practice-microsurgery-steps.md)
 
 ## Examples
 - **Writing-process checklists** in explicit writing frameworks (e.g., Self-Regulated Strategy Development, [SRSD](https://srsdteachers.uncg.edu/)): students check planning, drafting, and revision steps, with self-monitoring built into each stage

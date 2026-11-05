@@ -12,8 +12,8 @@ newest_evidence: 2026
 sources:
   - id: hamzah-nurul-rimadhayanti-2026
     resource: "https://doi.org/10.1007/s10459-025-10471-2"
-    title: "Hamzah Nurul Rimadhayanti, Mohd Fadzil Abdul Hanid & Mohamad Ikram Zakaria (2026). The effect of segmented-interactive video demonstration on student performance in procedural skills among healthcare students. Advances in Health Sciences Education. https://doi.org/10.1007/s10459-025-10471-2"
-    author: "Hamzah Nurul Rimadhayanti, Mohd Fadzil Abdul Hanid & Mohamad Ikram Zakaria"
+    title: "Hamzah, N. R., Hanid, M. F. A., & Zakaria, M. I. (2026). The effect of segmented-interactive video demonstration on student performance in procedural skills among healthcare students. Advances in Health Sciences Education. https://doi.org/10.1007/s10459-025-10471-2"
+    author: "Hamzah, N. R., Hanid, M. F. A., & Zakaria, M. I."
     q: 2
     i: "?"
     kind: causal
@@ -33,7 +33,7 @@ sources:
 
 ### Hamzah Nurul Rimadhayanti 2026
 
-Hamzah Nurul Rimadhayanti, Mohd Fadzil Abdul Hanid & Mohamad Ikram Zakaria (2026). The effect of segmented-interactive video demonstration on student performance in procedural skills among healthcare students. Advances in Health Sciences Education. https://doi.org/10.1007/s10459-025-10471-2
+Hamzah, N. R., Hanid, M. F. A., & Zakaria, M. I. (2026). The effect of segmented-interactive video demonstration on student performance in procedural skills among healthcare students. Advances in Health Sciences Education. https://doi.org/10.1007/s10459-025-10471-2
 
 `q2 · i?` · `causal · r1`
 

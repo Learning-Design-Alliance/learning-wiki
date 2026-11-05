@@ -49,4 +49,4 @@ Editorial summary of the paper 'Embedding diagnostic mechanisms in a digital gam
 
 ## Related Claims
 - [Difficult math exercises impair elementary children's motivational, cognitive and affective task experiences relative to easier exercises](difficult-math-tasks-impair-motivation-engagement.md) — related
-- [Automated real-time feedback in an adaptive diagnostic ITS produced greater progression on a SOLO-based mathematics assessment than the same system without real-time feedback](real-time-feedback-its-solo-progression-advantage.md) — related
+- [Learners using an adaptive diagnostic ITS with automated real-time feedback showed greater progression on a SOLO-based mathematics assessment than learners using the same system without it](real-time-feedback-its-solo-progression-advantage.md) — related

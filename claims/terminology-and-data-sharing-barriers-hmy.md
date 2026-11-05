@@ -9,7 +9,6 @@ generated:
   at: 2026-10-09
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-18
 recheck_by: 2031
 sources:
   - id: harrington-2026
@@ -34,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-18 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2031: baselines and conditions change
+> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Vague statutory terminology (e.g., out-of-home placement) and cautious data environments impede coordinated service delivery and outcome interpretation in Colorado. [→ Harrington 2026](#harrington-2026)

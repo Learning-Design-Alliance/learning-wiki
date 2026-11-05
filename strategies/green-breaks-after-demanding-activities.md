@@ -41,7 +41,7 @@ The review's practical recommendation is that schools exploit short-term passive
 
 ## Claims
 
-- [In elementary school students, short-term green breaks restore attention and working memory, with effects on inhibition mixed](../claims/green-breaks-elementary-attention-restoration.md) [+W]
+- [In elementary school students, short-term green breaks restore attention and working memory, but did not improve inhibition in the two studies that measured it](../claims/green-breaks-elementary-attention-restoration.md) [+W]
 - [In secondary school students, breaks with green views or walks in larger green spaces improve attention performance](../claims/green-exposure-secondary-school-attention.md) [+W]
 - [In university students, walks or sitting in natural settings after cognitive fatigue improve some attention and working memory measures, with null results for others](../claims/green-exposure-university-cognitive-benefits.md) [+W]
 - [Short-term passive exposure to nature produces cognitive benefits in 12 of 14 reviewed studies across educational levels, mainly as directed attention restoration](../claims/short-term-green-exposure-restores-attention-12-of-14.md) [+W]

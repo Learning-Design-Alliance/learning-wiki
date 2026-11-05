@@ -46,3 +46,4 @@ Pearson and point-biserial correlation procedures examined the association betwe
 
 ## Related Claims
 - [Erroneous examples and problem solving do not differ significantly on an immediate posttest](erroneous-examples-no-immediate-difference.md) — related
+- [Use of additional online learning material correlated positively with examination scores but not significantly](moodle-material-use-exam-score-nonsignificant-correlation.md) — related

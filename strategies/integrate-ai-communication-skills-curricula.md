@@ -49,6 +49,7 @@ The authors recommend that digital communication competencies receive systematic
 - [Integrate GAI-based teaching into medical curricula with robust curricular integration, technological support, and systematic training for educators and students](gai-curricular-integration-training-strategy.md)
 - [Position immersive technologies and virtual patients as supplementary components within blended learning rather than stand-alone replacements for established clinical communication training](immersive-tech-adjunctive-blended-not-replacement.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
+- [Develop standardized DHN training curricula that integrate interpersonal soft skills with digital competencies](dhn-training-integrating-soft-and-digital-skills.md)
 
 ## Examples
 -

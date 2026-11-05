@@ -9,7 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-17
+source_checked: 2026-11-05
 sources:
   - id: li-2026
     resource: "https://doi.org/10.14742/ajet.11467"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Thematic analysis showed students viewed group feedback as contextually rich but sometimes subjective, and AI feedback as objective and well structured though occasionally lacking contextual sensitivity. [→ Li 2026](#li-2026)
@@ -59,3 +59,4 @@ Thematic analysis of student perceptions in the mixed methods study of 13 peer g
 - [Text-based rubrics alone provide insufficient contextual, dynamic and procedural information to support rich mental model development of complex skills](text-rubrics-lack-contextual-dynamic-procedural-information.md) — related
 - [Students perceived the automated personalized feedback as too general and lacking personal response](automated-feedback-perceived-too-general.md) — related
 - [Student perceptions of pre-clinical TBL are generally favourable, but peer feedback is sometimes met with hesitation](tbl-student-perceptions-favourable-peer-feedback-hesitation.md) — related
+- [On descriptive analytical tasks ChatGPT produced logically structured work but lacked deep contextualization, domain-specific insights, and visual elements](chatgpt-descriptive-tasks-generic-outputs.md) — related

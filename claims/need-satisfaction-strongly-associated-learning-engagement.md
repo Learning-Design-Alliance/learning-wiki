@@ -73,3 +73,4 @@ In the same CB-SEM structural model of 498 medical undergraduates, the path from
 - [A key divergence: SDT theorizes need thwarting as an active, independent dimension predicting unique negative outcomes, while HET focuses on positive teaching dimensions](need-thwarting-divergence-het-sdt.md) — related
 - [Perceived individual and class-directed autonomy support positively predict students' intrinsic motivation, effort, and persistence](autonomy-support-predicts-intrinsic-motivation-effort-persistence.md) — related
 - [Perceived school support strongly predicts cognitive engagement strategies](pss-strongly-predicts-ces.md) — related
+- [In bilingual Tai Chi instruction, teacher support has significant positive direct effects on basic psychological needs, learning motivation, and psychological well-being](teacher-support-direct-effects-embodied-bilingual.md) — related

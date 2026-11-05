@@ -50,6 +50,7 @@ Based on the review's findings that distress and burnout hinder performance whil
 - [Integrate resilience-building strategies and psychological skills into communication training](integrate-resilience-building-in-communication-training.md)
 - [Foster a supportive organizational climate through a university-department-supervisor tri-level linkage](tri-level-organizational-climate-support.md)
 - [Foster supportive peer environments and emotion regulation skills to support academic development](foster-peer-environments-and-emotion-regulation.md)
+- [Implement integrated stress-management strategies and structured physical activity programmes for medical students in military institutions](integrated-stress-management-structured-pa-military-medical-students.md)
 
 ## Examples
 -

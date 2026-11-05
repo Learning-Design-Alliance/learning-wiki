@@ -9,7 +9,6 @@ generated:
   at: 2026-10-12
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-10-17
 sources:
   - id: conijn-2022
     resource: "https://doi.org/10.1111/jcal.12651"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2022 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 <!-- title before 2026-10-15: Distracting contextual factors — lack of dedicated study space, lack of reliable technology and financial issues — increase test anxiety -->
 
 ## Subclaims

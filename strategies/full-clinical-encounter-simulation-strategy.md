@@ -48,6 +48,7 @@ The training protocol wraps the technical procedure in a simulated complete clin
 
 - [Structured stepwise simulator training protocol: instructional video, console familiarization, then repeated dissection practice with and without force feedback](stepwise-simulator-training-protocol-vascular-dissection.md)
 - [Assign clerkship students to follow a single patient longitudinally from outpatient visit through surgery and postoperative review](longitudinal-patient-following-strategy.md)
+- [Embed trauma-informed care instruction before procedural simulation rather than after](tic-instruction-before-procedural-practice-strategy.md)
 
 ## Examples
 -

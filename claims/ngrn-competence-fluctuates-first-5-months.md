@@ -51,3 +51,4 @@ Longitudinal self-assessment of 151 newly graduated registered nurses using the 
 - [Simulation was not suggested as supporting the helping role and teaching–coaching competence domains](simulation-not-suggested-helping-teaching-coaching.md) — related
 - [Preceptors identified nine potentialities through which simulation may support newly graduated nurses during their transition to independent practice](nine-simulation-potentialities-ngrn-transition.md) — related
 - [Individual growth curves demonstrated continuous improvement for most students over the training period.](individual-growth-curves-continuous-improvement.md) — related
+- [New nurses' emergency response competence is at a moderate level, lower than previously reported for nurses overall](moderate-emergency-response-competence-new-nurses.md) — related

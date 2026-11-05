@@ -49,3 +49,4 @@ Distribution analysis of final scores across five evaluation levels for both gro
 - [RFPETM students scored significantly higher than TPETM students on online, midterm, experimental report, final, and composite pharmacology experimental course scores](rfpetm-higher-qelp-scores-than-tpetm.md) — related
 - [Over 80% of RFPETM students gave positive evaluations of the model's teaching methods, learning experiences, and cultivation of innovative abilities](rfpetm-positive-student-evaluations-over-80-percent.md) — related
 - [80% of the VR group achieved excellent final scores (≥270 points) compared to 10% of the control group](vr-excellent-competency-proportion.md) — related
+- [PBL students achieve significantly higher excellent-rate proportions on EBERs-ISH theoretical assessments than LBL students, with no significant differences in good or fail rates](pbl-higher-theoretical-excellent-rate-ebers-ish.md) — related

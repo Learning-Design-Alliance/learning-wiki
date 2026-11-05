@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: moderate
 newest_evidence: 2009
+source_checked: 2026-11-05
 sources:
   - id: cheng-2009
     resource: "https://doi.org/10.64152/10125/66828"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2009 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Significant differences among gloss conditions on vocabulary recall tests were found only for Level 2 and Level 3 subjects, not for Levels 1 and 4. [→ Cheng 2009](#cheng-2009)

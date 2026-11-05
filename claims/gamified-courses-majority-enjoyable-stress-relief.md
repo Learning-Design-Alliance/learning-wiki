@@ -70,5 +70,5 @@ Qualitative open-ended survey commentary: students reported the gaming elements 
 ## Related Claims
 - [Departmental grading rules forced one gamified course to run a dual grading structure, and gamifying the course alone appeared to sustain engagement even without tying marks to game points](department-rules-dual-grading-gamified-course.md) — related
 - [Students in two gamified undergraduate media studies courses reported high enjoyment and that gamification held their attention at mid-course and term end](gamified-media-courses-high-enjoyment-attention.md) — related
-- [Interest/enjoyment and perceived choice were the weakest motivation dimensions, suggesting Mangomon's RPG mechanics did not yet fully serve learner autonomy](rpg-mechanics-not-yet-serve-autonomy.md) — reports the opposite
+- [Perceived choice and enjoying catching Mangomon were the lowest-rated motivation items, which the authors read as its RPG mechanics not yet fully serving learner autonomy](rpg-mechanics-not-yet-serve-autonomy.md) — reports the opposite
 - [A large majority of students perceived the gamified review activities as useful, motivating, and enjoyable](students-perceive-gamification-useful-motivating-enjoyable.md) — related

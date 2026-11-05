@@ -97,3 +97,4 @@ Spearman correlation analysis of continuous factors in the survey. Training dura
 - [Student background variables significantly affect learning motivation and demographic variables significantly affect learning achievement](background-demographic-variables-affect-motivation-achievement.md) — related
 - [Parents' educational level was not significantly related to post-training FLRA scores in the experiment group](parents-education-not-related-to-flra.md) — related
 - [No significant correlation exists between educators' quality of life and their work experience (r = 0.179, p = 0.098) or age (r = 0.128, p = 0.238).](educator-qol-no-work-experience-age-correlation.md) — related
+- [Teacher support, basic psychological needs, learning motivation, and psychological well-being differ significantly across demographic subgroups](demographic-differences-embodied-tai-chi.md) — related

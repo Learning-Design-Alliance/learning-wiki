@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-11-05
 sources:
   - id: baxmann-martin-2024
     resource: "https://doi.org/10.1186/s12909-024-06425-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Orthodontic students in scenario-based simulations scored significantly higher on communication assessment scales than those receiving traditional lecture-based training. [→ Baxmann Martin 2024](#baxmann-martin-2024)
@@ -60,3 +61,4 @@ The review attributes this to Lin-na et al. (2023), a quasi-experimental study o
 - [Scenario-based simulation ward rounds combined with video feedback improve teaching ward round assessment scores in gastroenterology residents](simulation-ward-rounds-video-feedback-improve-ward-round-performance.md) — related
 - [Scenario-based simulation ward rounds combined with video feedback increase teaching satisfaction among gastroenterology residents](simulation-ward-rounds-video-feedback-increase-teaching-satisfaction.md) — related
 - [Facilitated interactive video and simulation-based training produce no statistically significant difference in 3-week BLS OSCE performance when both follow the same standardized lecture](bls-video-vs-simulation-osce-no-difference.md) — related
+- [A hybrid CBL-SST-simulator model produces significantly higher doctor-patient communication scores than lecture-based learning on the SEGUE Framework](hybrid-cbl-sst-higher-segue-communication-than-lbl.md) — related

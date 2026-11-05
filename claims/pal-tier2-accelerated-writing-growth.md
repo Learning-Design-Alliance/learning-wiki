@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2013
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: hooper-2013
     resource: "https://doi.org/10.1007/s11881-011-0056-y"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1` small
-> **Currency** · newest study 2013 · checked against its sources 2026-11-03 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The treatment effect on WIAT-II Written Expression was significant on the quadratic (acceleration) component of the slope (B=1.18, p<.006), and by the start of third grade the treated group's growth rate significantly exceeded the untreated at-risk group's (B=2.79, p<.003). [→ Hooper 2013](#hooper-2013)

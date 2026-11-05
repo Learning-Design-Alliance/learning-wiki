@@ -69,3 +69,4 @@ Attrition reported by 65 of the reviewed studies (73.86%). The authors note they
 - [Structural and fiscal conditions—including grade-3 class-size incentive cliffs and declining enrollment—jeopardize the bilingual teacher pipeline and program sustainability](structural-fiscal-risks-bilingual-pipeline-sustainability.md) — related
 - [Texas teacher attrition exceeds the national average by over 50%, with about 12% of teachers exiting districts before the 2023–24 school year](texas-teacher-attrition-exceeds-national-average.md) — related
 - [ECHO session attendance is variable, higher among prescribers than non-prescribers, with time demands and clinic leadership support as reported barriers](echo-attendance-prescribers-barriers.md) — related
+- [Deliberate practice carries stated limitations: it is time-consuming, mentally and physically demanding, and risks burnout without rest](deliberate-practice-limitations-burnout.md) — related

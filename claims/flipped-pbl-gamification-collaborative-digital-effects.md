@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 sources:
   - id: casimiro-urcos-cn-2026
     resource: "https://doi.org/10.12688/f1000research.176682.1"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Strategies such as flipped classroom, problem-based learning, gamification, experiential learning, and collaborative learning, adapted to digital environments, generated positive effects on motivation, participation, and transversal competences. [→ Casimiro Urcos CN 2026](#casimiro-urcos-cn-2026)
@@ -71,3 +71,5 @@ Narrative synthesis of the included innovation studies: the named active-learnin
 - [Ahmad (2016) identified blended learning, student-centered learning, and active learning as theoretical foundations of the flipped classroom](flipped-classroom-theoretical-foundations.md) — related
 - [A blend of learning activities works best: students find learning by doing essential but not exclusively experiential learning](blend-of-learning-activities-works-best-qualitative-research.md) — related
 - [PBL participants exhibited significantly higher active English learning attitudes than non-PBL participants overall and on motivation intensity, desire to learn English, and communication inside and outside the classroom](pbl-fosters-active-english-learning-attitudes.md) — a narrower finding that bears on this claim
+- [Flipped and blended learning shows mixed effectiveness in diabetes education, dependent on learner preparation and integration with experiential practice](flipped-blended-mixed-preparation-dependent.md) — related
+- [PBL students rate instructors higher on engagement-fostering teaching dimensions, while both groups rate foundational teaching competencies equally](pbl-teaching-effectiveness-evaluations-ebers-ish.md) — a narrower finding that bears on this claim

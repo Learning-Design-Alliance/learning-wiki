@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 225 claims (153 show a difference, 47 mixed, 25 no difference) · 165 studies (53 causal, 42 review, 31 associational, 16 quant-synthesis, 13 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 45 of 165 report an effect size · 218 claims rest on one study
+> **Evidence** · 226 claims (154 show a difference, 47 mixed, 25 no difference) · 166 studies (54 causal, 42 review, 31 associational, 16 quant-synthesis, 13 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 45 of 166 report an effect size · 219 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -267,6 +267,7 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Emotion regulation and social adaptability were strongly positively correlated after intervention, with the steepest regression slope in the cooperative learning group](../claims/emotion-regulation-social-adaptability-correlation.md) [+M] — measured as an outcome of the instruction studied
 - [Second-year physiotherapy students showed statistically significant decreases in engagement (dedication, absorption, total) and empathy (perspective taking) after simulation-based learning, unlike third- and fourth-year students](../claims/sbl-decreases-engagement-empathy-second-year-students.md) [~M] — measured as an outcome of the instruction studied
 - [Limited placement exposure is perceived to contribute to underdeveloped therapeutic interpersonal skills and task-focused practice](../claims/limited-placement-underdeveloped-therapeutic-skills.md) [+M] — measured as an outcome of the instruction studied
+- [PBL-FC teaching is associated with significantly higher post-class empathy (EQ-40) scores than traditional teaching](../claims/pbl-fc-higher-empathy-eq40.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

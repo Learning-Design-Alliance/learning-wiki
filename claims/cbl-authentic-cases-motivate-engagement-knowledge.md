@@ -50,3 +50,4 @@ The review reports, citing the qualitative study of Al-bedaery (2024), that part
 - [In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications](simucase-lacks-behavioral-authenticity.md) — reports the opposite
 - [CHW trainees value realistic standardized patient scenarios as a key benefit of simulation-based MI training](chws-value-realistic-sp-scenarios-in-mi-simulation-training.md) — related
 - [Participants most cited improved teamwork and exposure to rare clinical scenarios as key benefits](simulation-participants-valued-teamwork-and-rare-scenario-exposure.md) — a narrower finding that bears on this claim
+- [Medical students found curriculum-aligned digital escape rooms exciting, engaging, and motivating in a pilot implementation](escape-rooms-exciting-medical-students.md) — related

@@ -7,6 +7,7 @@ generated:
   at: 2026-08-30
 evidence_strength: moderate
 newest_evidence: 1985
+source_checked: 2026-11-05
 sources:
   - id: nist-1985
     resource: "https://eric.ed.gov/?id=ED265520"
@@ -33,7 +34,7 @@ id: relevancy-of-emphasis-directs-attention
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q3` · `i2`–`i3`
-> **Currency** · newest study 1985 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1985 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 Emphasis cues such as underlining do not simply boost learning overall — they shift attention toward whatever is emphasized, so test performance follows the *relevancy* of the marked material rather than the mere presence of marking.
 
@@ -66,11 +67,11 @@ In the same study, the main effect for relevancy was also significant for the lo
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does it matter what is marked, and who marks it (learner or instructor)?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **6 distinct studies** (4 causal, 2 review), `q2`–`q3`, 2 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does it matter what is marked, and who marks it (learner or instructor)?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **6 distinct studies** (4 causal, 2 review), `q2`–`q3`, 3 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| Nist 1985 | q3 · causal · r? | i? | this claim; [In one experiment, students who generated their own underlining did not score significantl](experimenter-underlining-effective-as-student-underlining.md) (qualifies) |
+| Nist 1985 | q3 · causal · r? | i3 · large effect, η² = .21; i2 · medium effect, η² = .12; i? | this claim; [In one experiment, students who generated their own underlining did not score significantl](experimenter-underlining-effective-as-student-underlining.md) (qualifies) |
 | Mutlu-Bayraktar 2018 | q2 · causal · r1 | i? | [The change on the object being verbally described was the most detected change, seen by 10](signalled-and-cued-object-change-most-detected.md) (supports); [Among two objects with the same signalling, participants focused more on the arrow-cued ob](cueing-outcompetes-signalling-alone-for-attention.md) (supports); [Change in the most-focused central object was detected at a low rate (41.66%) unless it wa](central-object-change-detection-low-without-cueing.md) (supports); [In a multimedia animation, participants focused more on signalled objects and detected few](signalling-focuses-attention-reduces-change-detection-elsewhere.md) (qualifies) |
 | [Yow 2019](https://doi.org/10.1177/2332858419878126) | q3 · causal · r1 | i3; i1 | [Audio narration with finger-tracking animation directs bilingual preschoolers' attention t](enhancing-features-direct-attention-dual-language-e-books.md) (supports); [The attention-guiding effect of narration-plus-animation is phase-dependent: target-langua](animation-phase-dependent-attention-to-print.md) (qualifies) |
 | [Dunlosky et al. 2013](https://doi.org/10.1177/1529100612453266) | q3 · review · r3 | i? | [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md) (counts against) |

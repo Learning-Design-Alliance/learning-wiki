@@ -53,6 +53,8 @@ The article recommends structured training programmes for newly appointed nurse 
 - [Implement progressive and layered simulation training across career stages for paediatric surgery nurses](progressive-layered-simulation-training-career-stages.md)
 - [Tailor leadership development to managers' self-efficacy levels, combining context-specific education with self-efficacy building](tailored-leadership-development-self-efficacy-nurse-managers.md)
 - [Differentiate transition curricula by prior experience level, offering abbreviated foundational modules and extended advanced sessions for experienced practitioners](experience-differentiated-transition-pathways.md)
+- [Combined organizational-support, mentorship, simulation-based confidence-building, and workload-management interventions for new emergency and critical care nurses](four-part-support-intervention-new-critical-care-nurses.md)
+- [Develop structured, standardised transition pathways for IQNs including individualised plans, mentorship, CPD and competency-based recognition of prior expertise](structured-standardised-iqn-transition-pathways.md)
 
 ## Examples
 -

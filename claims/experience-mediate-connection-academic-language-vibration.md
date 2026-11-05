@@ -8,12 +8,12 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 evidence_strength: moderate
-newest_evidence: 2008
+newest_evidence: 2013
 sources:
-  - id: suarez-2008
-    resource: "https://www.eric.ed.gov"
-    title: "Suarez, E. and Otero, V. (2008). 3rd grade English language learners making sense of sound. https://www.eric.ed.gov"
-    author: Suarez, E. and Otero, V.
+  - id: suarez-2013
+    resource: "https://doi.org/10.1063/1.4789738"
+    title: "Suarez, E., & Otero, V. (2013). 3rd grade English language learners making sense of sound. *AIP Conference Proceedings* (2012 Physics Education Research Conference), 406-409. [doi:10.1063/1.4789738](https://doi.org/10.1063/1.4789738) (preprint arXiv:1210.4509, 2012)"
+    author: "Suarez, E., & Otero, V."
     q: 2
     i: "?"
     kind: qualitative
@@ -24,17 +24,17 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
-`q2 i?` Students tried out the academic term introduced through schooling (vibration), initially mispronounced or substituted, and experience with the ruler experiment mediated their connection to the concept. [→ Suarez 2008](#suarez-2008)
+`q2 i?` Students tried out the academic term introduced through schooling (vibration), initially mispronounced or substituted, and experience with the ruler experiment mediated their connection to the concept. [→ Suarez 2008](#suarez-2013)
 
 ## Evidence
 
-### Suarez 2008
+### Suarez 2013
 
-Suarez, E. and Otero, V. (2008). 3rd grade English language learners making sense of sound. https://www.eric.ed.gov
+Suarez, E., & Otero, V. (2013). 3rd grade English language learners making sense of sound. *AIP Conference Proceedings* (2012 Physics Education Research Conference), 406-409. [doi:10.1063/1.4789738](https://doi.org/10.1063/1.4789738) (preprint arXiv:1210.4509, 2012)
 
 `q2 · i?` · `qualitative · r2`
 

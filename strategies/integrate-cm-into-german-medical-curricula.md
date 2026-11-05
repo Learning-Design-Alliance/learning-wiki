@@ -50,6 +50,7 @@ The review recommends that German universities move CM beyond electives into the
 - [Integrate diet- and nutrition-related oral health content into existing curricula via online instruction, coursework integration, or nutrition courses with clinic integration](integrate-diet-nutrition-content-existing-curricula.md)
 - [Integrate nutrition-related competencies horizontally and vertically and teach them in practical teaching formats from the start of studies through specialist training](horizontal-vertical-nutrition-competency-integration.md)
 - [Teach the missing nutrition-counselling topics in communication courses or culinary medicine programs, and deepen breastfeeding counselling in mandatory paediatric specialist training](targeted-courses-for-nklm-nutrition-gaps.md)
+- [Implement comprehensive nutrition education from the undergraduate level, coupled with continuing professional development and interprofessional collaboration](undergraduate-nutrition-education-oncology-nurses.md)
 
 ## Examples
 -

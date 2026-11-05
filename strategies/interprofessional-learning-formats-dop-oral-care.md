@@ -46,6 +46,7 @@ Because oral hygiene routines, early detection of oral problems and access organ
 - [Incorporate clinical training in long-term care facilities, home visits, and interprofessional education into geriatric dental curricula](ltc-home-visits-interprofessional-training-strategy.md)
 - [Redesign the geriatric curriculum to comprehensively cover interdisciplinary teamwork and patient/caregiver-centered competencies](redesign-geriatric-curriculum-teamwork-caregiver-competencies.md)
 - [Use simulations, dedicated clinical time, and interprofessional education to teach family caregiver collaboration](family-caregiver-simulation-clinical-iep-strategies.md)
+- [Implement comprehensive nutrition education from the undergraduate level, coupled with continuing professional development and interprofessional collaboration](undergraduate-nutrition-education-oncology-nurses.md)
 
 ## Examples
 -

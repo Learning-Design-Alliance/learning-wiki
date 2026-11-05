@@ -42,7 +42,7 @@ The article recommends automatic adaptive feedback in simulations as a way to gi
 - [Adaptive feedback does not improve pre-service teachers' diagnostic accuracy in simulation-based learning](../claims/ann-adaptive-feedback-no-diagnostic-accuracy-effect.md) [~W]
 - [Static expert-solution feedback had detrimental effects on the learning process when pre-service teachers worked in dyads](../claims/static-feedback-detrimental-dyads.md) [+W]
 - [Real-time adaptive scaffolding based on note-coded proof indicators elicited more elaborate diagnostic reasoning](../claims/adaptive-scaffolding-diagnostic-reasoning.md) [+W]
-- [Automated real-time feedback in an adaptive diagnostic ITS produced greater progression on a SOLO-based mathematics assessment than the same system without real-time feedback](../claims/real-time-feedback-its-solo-progression-advantage.md) [+W]
+- [Learners using an adaptive diagnostic ITS with automated real-time feedback showed greater progression on a SOLO-based mathematics assessment than learners using the same system without it](../claims/real-time-feedback-its-solo-progression-advantage.md) [+W]
 
 ## Related Strategies
 

@@ -45,7 +45,7 @@ Case-level mixed-effects analysis with a random intercept for operator; the arti
 
 
 ## Related Claims
-- [Drawing support increased rather than decreased perceived difficulty, indicating cognitive overload](drawing-support-increased-perceived-difficulty.md) — related
+- [Drawing support increased rather than decreased perceived difficulty, which the authors read as a hint of cognitive overload](drawing-support-increased-perceived-difficulty.md) — related
 - [Major downward difficulty adaptation increases situational interest in game-based math learning, while major upward adaptation decreases it and minor adaptation has no effect](difficulty-adaptation-strength-direction-situational-interest.md) — related
 - [The goal difficulty intervention significantly decreased students' perceived goal difficulty relative to control](goal-difficulty-intervention-lowered-perceived-difficulty.md) — related
 - [Novice learners require fewer attempts to master OdonAssist than the Vacca 5-step vacuum technique in simulation training](odonassist-fewer-attempts-than-vacca-5-step.md) — related

@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 103 claims (70 show a difference, 22 mixed, 11 no difference) · 50 studies (19 associational, 15 review, 9 causal, 5 quant-synthesis, 2 theoretical), `q2`–`q4` · 17 of 50 report an effect size · 103 claims rest on one study
+> **Evidence** · 107 claims (71 show a difference, 24 mixed, 12 no difference) · 51 studies (20 associational, 15 review, 9 causal, 5 quant-synthesis, 2 theoretical), `q2`–`q4` · 17 of 51 report an effect size · 107 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -138,6 +138,10 @@ Personality traits are relatively stable individual differences, most often meas
 - [Work self-control showed a small but significant negative association with academic achievement among Chilean university students](../claims/work-self-control-negative-achievement-association.md) [+M] — learners who differ on it differ in outcomes
 - [Emotional variables fully mediate both grit dimensions' associations with foreign language achievement, with COI acting negatively via boredom and POE showing competitive suppression](../claims/emotions-fully-mediate-grit-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [In an exam-oriented Chinese EFL context, POE predicts enjoyment and reduced boredom while COI predicts boredom and shows no enjoyment association](../claims/poe-coi-divergent-emotional-pathways.md) [~M] — learners who differ on it differ in outcomes
+- [All five Big Five personality traits significantly predict academic achievement among medical master's students](../claims/big-five-traits-predict-achievement-medical-postgraduates.md) [+M] — learners who differ on it differ in outcomes
+- [Neuroticism, Conscientiousness, Agreeableness, and Extraversion did not significantly moderate the stress–achievement relationship](../claims/other-big-five-traits-no-moderation-stress-achievement.md) [-M] — an instructional effect differs with it
+- [Openness significantly moderates the relationship between academic stress and academic achievement, weakening the negative association](../claims/openness-moderates-stress-achievement-relationship.md) [~M] — an instructional effect differs with it
+- [Openness significantly moderates the relationship between each academic stress dimension and academic achievement](../claims/openness-moderates-each-stress-dimension.md) [~M] — an instructional effect differs with it
 
 ## Related Learner Variables
 

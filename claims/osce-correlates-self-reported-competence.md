@@ -53,3 +53,4 @@ Pearson correlation analysis among 97 Tehran Emergency Center personnel; the art
 - [Pre-hospital emergency personnel demonstrate moderate knowledge of obstetric emergencies with a mean score of 46.6%](p-hep-moderate-knowledge-obstetric-emergencies.md) — related
 - [Peer-teaching-based oral exam training (PT-BET) is associated with increased students' confidence in their own competences during exams.](pt-bet-increased-exam-confidence.md) — related
 - [Knowledge scores from the video-and-MCQ phase showed no significant relationship with pre-practice rubric scores (r = 0.052, p = 0.827)](sbml-mcq-knowledge-no-rubric-correlation.md) — reports the opposite
+- [Self‐assessed nutritional competencies did not correlate with actual nutritional knowledge, suggesting a mismatch between perceived and actual proficiency](self-assessment-knowledge-no-correlation.md) — reports the opposite

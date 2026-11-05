@@ -101,7 +101,7 @@ Program of controlled experiments in the author's lab comparing concise versus e
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should interesting but unneeded material be cut?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **11 distinct studies** (7 causal, 2 quant-synthesis, 1 theoretical, 1 design), `q1`–`q4`, 2 of 11 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Should interesting but unneeded material be cut?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **11 distinct studies** (7 causal, 2 quant-synthesis, 1 theoretical, 1 design), `q1`–`q4`, 3 of 11 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -115,7 +115,7 @@ Program of controlled experiments in the author's lab comparing concise versus e
 | Garner et al. 1992 | q2 · causal · r? | i? | [Interesting but irrelevant details can impair comprehension and transfer, with effects tha](seductive-details-effect.md) (qualifies) |
 | Sanchez and Wiley 2006 | q3 · causal · r? | i? | [Interesting but irrelevant details can impair comprehension and transfer, with effects tha](seductive-details-effect.md) (qualifies) |
 | Merging Cognitive Science and Curriculum to Strengthen Middle School Math 2014 | q1 · design · r1 | i? | [A WestEd research bulletin reports a curriculum revision that replaced a decorative photog](decorative-images-distract-from-math-problems.md) (supports) |
-| Nist 1985 | q3 · causal · r? | i? | [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) (supports) |
+| Nist 1985 | q3 · causal · r? | i3 · large effect, η² = .21; i2 · medium effect, η² = .12 | [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

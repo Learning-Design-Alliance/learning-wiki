@@ -57,3 +57,4 @@ The article's results text, contradicted in part by its Table 2:
 - [Stress-dose hydrocortisone dosing accuracy improved from 42.9% to 93.9% after the simulation](stress-dose-dosing-improved-simulation.md) — related
 - [Both CBL and GBL in a virtual flipped classroom produce significant within-group knowledge gains over time](cbl-gbl-virtual-flipped-significant-gains.md) — a broader claim this one bears on
 - [Both groups improved significantly from pre- to post-test, with a larger within-group gain in the flipped classroom group (d = 1.87 vs. d = 0.86)](within-group-gains-larger-flipped-group.md) — related
+- [Item-level knowledge scores rose significantly from pre-test to post-test for wastewater treatment, incineration, solid medicines and creams, but MDI disposal knowledge remained low post-test, in one uncontrolled pre-post study](item-level-knowledge-gains-uneven-mdi-low.md) — a narrower finding that bears on this claim

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: el-hussein-mohamed-toufic-2026
     resource: "https://doi.org/10.1111/jan.70640"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The scoping review reports that a randomized controlled trial of ICU nurses (Ho et al. 2021) found no between-group differences at 6 weeks on primary outcomes or clinical observation audit, while the intervention group showed significant within-group improvements in knowledge, confidence and competence. [→ EL Hussein Mohamed Toufic 2026](#el-hussein-mohamed-toufic-2026)
@@ -82,3 +82,4 @@ A scoping review of simulation-based education (SBE) for delirium recognition. I
 - [No statistically significant relationship was observed between video-based learning and overall procedural competency (r = 0.153, p = 0.086)](no-significant-relationship-video-overall-competency.md) — related
 - [Within both training groups, knowledge scores rose significantly from pre-test to post-test, with very large within-group effect sizes](bls-prepost-knowledge-gain-both-groups.md) — possibly the same claim (merge candidate)
 - [INACSL-standard-based simulation training does not significantly improve midwifery students' self-confidence compared with standard training](inacsl-simulation-no-self-confidence-gain.md) — related
+- [No significant Group × Time interaction in theoretical knowledge: knowledge gains occurred similarly in high- and medium-fidelity groups](no-group-time-interaction-knowledge-fidelity.md) — related

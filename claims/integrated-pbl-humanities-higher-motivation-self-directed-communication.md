@@ -53,3 +53,4 @@ Teaching effectiveness was assessed with a self-developed 12-item questionnaire 
 - [Teamwork ability, professional ethics awareness, and understanding of healthcare-related social responsibility did not differ significantly between integrated PBL-humanities and LBL groups](integrated-pbl-humanities-null-teamwork-ethics-social-responsibility.md) — related
 - [Medical imaging interns receiving the SPOC-based blended package report higher self-directed learning ability than controls, with the experimental mean near the scale ceiling](spoc-blended-package-higher-self-directed-learning.md) — related
 - [Understanding (problem-oriented) teaching outperformed traditional teaching on problem solving and emotional expression](understanding-teaching-problem-solving-emotional-expression.md) — related
+- [Students attributed improvements in self-directed learning and communication skills to blended teaching](blended-self-reported-autonomous-learning-gains.md) — related

@@ -49,7 +49,7 @@ The review contrasts Wallner et al. (2018), positive D2-R effect in Vienna high 
 
 ## Related Claims
 - [Short walks and green playtime improve selective attention in children and adolescents relative to urban or indoor comparisons](nature-walk-improves-selective-attention.md) — related
-- [In elementary school students, short-term green breaks restore attention and working memory, with effects on inhibition mixed](green-breaks-elementary-attention-restoration.md) — related
+- [In elementary school students, short-term green breaks restore attention and working memory, but did not improve inhibition in the two studies that measured it](green-breaks-elementary-attention-restoration.md) — related
 - [In secondary school students, breaks with green views or walks in larger green spaces improve attention performance](green-exposure-secondary-school-attention.md) — related
 - [In university students, walks or sitting in natural settings after cognitive fatigue improve some attention and working memory measures, with null results for others](green-exposure-university-cognitive-benefits.md) — related
 - [Short-term passive exposure to nature produces cognitive benefits in 12 of 14 reviewed studies across educational levels, mainly as directed attention restoration](short-term-green-exposure-restores-attention-12-of-14.md) — a broader claim this one bears on

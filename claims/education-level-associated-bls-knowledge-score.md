@@ -53,3 +53,4 @@ Multivariable linear regression on 2,017 responses with college-or-below as refe
 - [Interns have higher baseline paediatric BLS knowledge than nurses](interns-higher-baseline-bls-knowledge-than-nurses.md) — related
 - [Prior real-life emergency encounters strongly predict good BLS/CPR knowledge among dentists (aOR = 12.97)](emergency-encounter-predicts-bls-knowledge.md) — related
 - [Four attributes failed consensus: nursing specialty completion, postgraduate/doctoral degrees, longer experience as automatically higher effectiveness, and younger age](four-attributes-failed-consensus.md) — related
+- [Higher formal education was not associated with better nutritional knowledge; Bachelor's degree holders scored significantly worse than university‐diploma holders](education-not-linked-to-nutrition-knowledge.md) — related

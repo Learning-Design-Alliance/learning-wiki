@@ -87,7 +87,7 @@ Within-subjects experiment with N = 10 university students (Mage = 20 years) in 
 - [Working Memory](../learner-variables/working-memory.md) — outcome: instruction changes it
 
 ## Related Claims
-- [In elementary school students, short-term green breaks restore attention and working memory, with effects on inhibition mixed](green-breaks-elementary-attention-restoration.md) — related
+- [In elementary school students, short-term green breaks restore attention and working memory, but did not improve inhibition in the two studies that measured it](green-breaks-elementary-attention-restoration.md) — related
 - [In secondary school students, breaks with green views or walks in larger green spaces improve attention performance](green-exposure-secondary-school-attention.md) — related
 - [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — related
 - [Acute cardio exercise improves executive functions, response time, and academic performance in children with ADHD](acute-cardio-exercise-improves-executive-function-adhd-children.md) — related

@@ -50,6 +50,6 @@ Descriptive baseline finding from the Personal Information Form and pre-interven
 - [Baseline vaccine perceptions show low confidence and side-effect concerns among NICU parents](baseline-low-confidence-side-effect-concerns.md) — related
 - [Internet access and trust in information are the main barriers to caregiver self-directed learning via mobile health](internet-access-and-trust-barriers-caregiver-self-directed-learning.md) — related
 - [Self-rated scores for Vaccine Opposition, Strategies to Avoid Vaccination, and Legitimation of Hesitancy decreased from pre-test to post-test in one group after NETM.](netm-decreases-opposition-avoidance-legitimation.md) — related
-- [NETM intervention reduces vaccine hesitancy among NICU parents across all VOS subscales](netm-reduces-vaccine-hesitancy-nicu-parents.md) — related
+- [NICU parents' self-rated vaccine attitudes improved on all four Vaccine Opposition Scale subscales after NETM, in one uncontrolled pre-post study](netm-reduces-vaccine-hesitancy-nicu-parents.md) — related
 - [All NICU parents in the sample were willing to receive structured, evidence-based vaccine information](parents-willing-receive-structured-vaccine-information.md) — related
 - [Smartphone access among informal caregivers ranges from 61% to 99% depending on country](caregiver-smartphone-access-61-99-percent.md) — related

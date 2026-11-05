@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 sources:
   - id: jiang-juming-2026
     resource: "https://doi.org/10.2196/82756"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Medical students using the LLM-based digital patient scored significantly higher on history-taking than controls (mean difference 10.50 points, P<.001). [→ Jiang Juming 2026](#jiang-juming-2026)
@@ -66,3 +66,5 @@ RCT reported in the review's Table 3 (Luo et al, n=13 per group, 1-hour session)
 - [AI-VSP teaching of history-taking skills achieves learning outcomes not significantly different from conventional SP in a randomized controlled trial](ai-vsp-non-inferior-to-sp-history-taking.md) — related
 - [Participants perceived the AI-simulated patient interaction as authentic and potentially useful for shared decision-making training](perceived-authenticity-ai-sdm-chatbot.md) — related
 - [AI-supported scenario training improves rehabilitation students' digital competence more than traditional-only training](ai-scenario-training-improves-digital-competence-rehabilitation-students.md) — related
+- [AI feedback improved the generic medical history OSCE domain (r=0.27) while other domains showed no significant differences](ai-feedback-generic-medical-history-domain-only.md) — related
+- [AI-generated feedback following social robotic VP interactions improves medical students' total OSCE performance (Cohen d=0.74)](ai-feedback-sari-improves-total-osce.md) — related

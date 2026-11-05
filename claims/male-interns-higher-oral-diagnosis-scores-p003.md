@@ -48,3 +48,4 @@ Group comparison via independent t-test among 66 medical interns (36 male, 30 fe
 - [Medical interns demonstrate suboptimal diagnostic performance in oral diseases, averaging 7.14 ± 2.9 on a 0–20 scale](medical-interns-suboptimal-oral-disease-diagnostic-performance.md) — related
 - [Male interns report significantly higher self-perceived clinical confidence than females, while theoretical knowledge does not differ significantly by gender](gender-confidence-knowledge-difference-veneers.md) — related
 - [GPA shows a significant positive correlation with oral disease diagnostic performance (p < 0.001) while age shows no significant association](gpa-positive-correlation-diagnostic-performance.md) — related
+- [Performance differences remained significant after controlling for age and GPA, and no gender effects were observed](gjump-effects-robust-to-gpa-age-gender.md) — reports the opposite

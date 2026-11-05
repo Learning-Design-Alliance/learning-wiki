@@ -49,7 +49,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies (4 entries) · 1 causal `r2`, 1 theoretical `r3` · `q2` · `i1` small
-> **Currency** · newest study 2026 · 1 of 4 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · 3 of 4 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 

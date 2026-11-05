@@ -154,3 +154,5 @@ The review reports countervailing findings in the same category, including that 
 - [LLM-based standardized virtual patient responses are largely authentic in dental history-taking simulations](llm-virtual-patients-largely-authentic-dialogue.md) — related
 - [AI-generated counseling dialogues appeared staged and did not capture the emotional complexity of real consultations with families](ai-dialogues-staged-lack-emotional-complexity.md) — related
 - [Use of the AI virtual patient tool was associated with improved self-perceived structured diagnostic approach, initial-diagnosis confidence, and patient-explanation confidence](ai-virtual-patient-structured-approach-gains.md) — a narrower finding that bears on this claim
+- [AI-generated feedback following social robotic VP interactions improves medical students' total OSCE performance (Cohen d=0.74)](ai-feedback-sari-improves-total-osce.md) — a narrower finding that bears on this claim
+- [Educator observations found that AI role-play facilitated peer discussion, highlighted gaps in history-taking, and promoted peer learning in dental tutorials](ai-roleplay-peer-discussion-gaps-observations.md) — related

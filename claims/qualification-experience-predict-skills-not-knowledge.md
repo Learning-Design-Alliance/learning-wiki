@@ -77,3 +77,5 @@ Multiple linear regression for the perceived knowledge‐and‐beliefs domain; a
 - [Significant differences in patient-centered medication management by age and experience, but not overall competence](age-experience-differences-patient-centered-medication-management.md) — related
 - [Experience variables did not predict post-training VAP knowledge-based competence](experience-did-not-predict-post-training-vap-knowledge.md) — related
 - [Demographics and prior tourniquet experience do not significantly impact post-training outcomes](prior-experience-no-effect-on-post-training-scores.md) — reports the opposite
+- [Nurses aged 51–60 and those with more than 10 years of experience had significantly better nutritional knowledge than the youngest reference groups in multivariable regression](age-experience-predict-nutrition-knowledge.md) — related
+- [Length of employment, resuscitation experience, and participation in public health emergency drills are significantly associated with emergency response competence](experience-resuscitation-drills-predict-emergency-competence.md) — related

@@ -27,7 +27,7 @@ sources:
 # Guide change efforts with systemic understanding, focusing interventions on one framework component at a time as needed
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (18 for, 7 mixed) · 21 studies (7 theoretical, 5 review, 3 causal, 2 associational, 2 qualitative, 2 design), `q1`–`q3` · 1 of 21 report an effect size · 25 claims rest on one study
+> **Evidence** · 26 claims (19 for, 7 mixed) · 22 studies (7 theoretical, 5 review, 3 causal, 3 associational, 2 qualitative, 2 design), `q1`–`q3` · 1 of 22 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 
@@ -148,6 +148,7 @@ Claims bearing on the topic that have been read but are not part of the model ab
 - [Boston Controlled Choice Most Students Get First Or Second Choice](../claims/boston-controlled-choice-most-students-get-first-or-second-choice.md) [+M]
 - [Policy design details are likely critical to the effects of school choice programs](../claims/choice-program-design-details-critical-to-effects.md) [~W]
 - [The null results suggest simply communicating research evidence to schools is not enough to improve outcomes; transforming evidence into usable practice and school implementation conditions may matter as much](../claims/communicating-evidence-alone-insufficient.md) [~W] — attached 2026-11-01 from Pippa Lord et al. (2017), which proposed "Pair disseminated evidence-based materials with support that transforms them into practice and builds school implementation conditions".
+- [Supervision alone is positively associated with clinical quality only in facilities with quality assurance activities](../claims/quality-assurance-moderates-supervision-effect.md) [+W] — attached 2026-11-05 from Li Mengyao et al. (2026), which proposed "Combine supervision with feedback or training and institutional support rather than implementing supervision alone"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

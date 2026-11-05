@@ -72,3 +72,5 @@ Per-level comparison of Gemini 3.0 Pro's assigned grades under the two prompt va
 - [Despite generally accurate feedback, the LLM's scoring explanations could be unpredictable and prone to logical inconsistency, failing to award points even when citing the correct rubric directive](llm-logical-inconsistency-scoring-feedback.md) — related
 - Model performance is robust to minor prompt wording changes but sensitive to holistic rubric redesign — related
 - [gpt-4o graded student submissions most correctly in almost all assignments, but gemini-1.0-pro graded the boolean-algebra assignment most correctly](grader-llm-correctness-comparison-socrates.md) — related
+- [Rubric-based GPT-4 prompting produced the strongest reflective assessment (80%), surpassing the top student submission (70%), though lacking personalization](chatgpt-reflective-assessment-strong-but-impersonal.md) — a narrower finding that bears on this claim
+- [ChatGPT scores rose from V1 to V3 across assessment types in one uncontrolled pre-post study, with V3 achieving the highest average scores](rubric-integration-improves-chatgpt-scores.md) — a broader claim this one bears on

@@ -54,3 +54,4 @@ Table 1 of the cluster-randomized trial reports baseline prerequisite (Human Ana
 - [In the same RCT, PBL combined with virtual simulation received significantly higher student evaluations of teaching effectiveness (17.72 ± 1.24 vs. 12.72 ± 1.02, p < 0.01) and teaching satisfaction (86.96 ± 6.46 vs. 70.24 ± 8.71, p < 0.05)](pbl-virtual-simulation-higher-satisfaction-trauma-orthopedics.md) — related
 - [BOPPPS/FC-CBL group achieves significantly higher clinical case evaluation scores than LBL group](boppps-fc-cbl-higher-clinical-case-scores-than-lbl.md) — related
 - [Collaborative teaching of PVE improves seventh-graders' mastery of practical skills compared with teaching by the PVE teacher alone](collaborative-teaching-improves-pve-practical-skills.md) — related
+- [The hybrid CBL-SST-simulator model shows no significant difference from lecture-based learning in theoretical knowledge scores](hybrid-cbl-sst-no-difference-theoretical-knowledge.md) — related

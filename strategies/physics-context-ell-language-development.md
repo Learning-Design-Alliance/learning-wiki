@@ -8,9 +8,9 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-09-26
 sources:
-  - id: suarez-2008
-    resource: "https://www.eric.ed.gov"
-    title: "Suarez, E. and Otero, V. (2008). 3rd grade English language learners making sense of sound. https://www.eric.ed.gov"
+  - id: suarez-2013
+    resource: "https://doi.org/10.1063/1.4789738"
+    title: "Suarez, E., & Otero, V. (2013). 3rd grade English language learners making sense of sound. *AIP Conference Proceedings* (2012 Physics Education Research Conference), 406-409. [doi:10.1063/1.4789738](https://doi.org/10.1063/1.4789738) (preprint arXiv:1210.4509, 2012)"
     author: Suarez, E. and Otero, V
 ---
 
@@ -47,4 +47,4 @@ The authors recommend designing learning environments that depend on students' c
 -
 
 ## Key Sources
-- Suarez, E. and Otero, V. (2008). 3rd grade English language learners making sense of sound. https://www.eric.ed.gov
+- Suarez, E., & Otero, V. (2013). 3rd grade English language learners making sense of sound. *AIP Conference Proceedings* (2012 Physics Education Research Conference), 406-409. [doi:10.1063/1.4789738](https://doi.org/10.1063/1.4789738) (preprint arXiv:1210.4509, 2012)

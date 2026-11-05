@@ -47,4 +47,4 @@ The results section reports that "mean post-film scores" for the no-review, spac
 ## Related Claims
 - [No significant differences in learning among sub-titling conditions](no-significant-subtitling-differences.md) — related
 - [Massed review at end of film produced significantly greater learning than no review or spaced review](massed-review-greater-learning-than-spaced-or-none.md) — related
-- [Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics without harming learning of current material](spaced-recall-improves-posttest-without-harming-new-learning.md) — related
+- [Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics, with no significant difference on the exam covering current material](spaced-recall-improves-posttest-without-harming-new-learning.md) — related

@@ -69,3 +69,4 @@ AIC-based model comparison among 11 nested multilevel models showed random EA-PG
 - [Between-school variation in EA-PGI effects is substantial: the average EA-PGI effect is 0.22 with slope SD 0.034, and variance explained by EA-PGI ranges from ~2% in the weakest-effect schools to ~8% in the strongest](school-variation-in-pgi-effect-magnitude.md) — related
 - [Five measured school sociodemographic characteristics do not explain the EA-PGI-by-school interaction](school-sociodemographics-do-not-explain-pgi-interaction.md) — related
 - [The EA-PGI-by-school interaction is stronger for maths and reading than for English](pgi-school-interaction-subject-specific.md) — related
+- [Roughly 45% of variance in Chinese adolescents' achievement lies between schools, supporting multilevel modeling](between-school-variance-achievement-icc-pisa-china.md) — related

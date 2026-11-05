@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2018
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: kartal-and-yangineksi-2018
     resource: "https://so04.tci-thaijo.org/index.php/pasaa"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
-> **Currency** · newest study 2018 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Controlling for pre-test production, the corpus group produced significantly more correct verb-noun collocations in post-experiment writing than the control group, with a medium-to-large effect size (r = .418, adjusted r = .397). [→ Kartal and Yangineksi 2018](#kartal-and-yangineksi-2018)

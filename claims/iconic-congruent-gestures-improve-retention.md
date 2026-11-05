@@ -77,3 +77,4 @@ The review reports, citing García-Gámez and Macizo (2023), that "congruent ges
 - [Item-level retention advantage of a highly motionally salient gesture cannot be attributed to movement dynamics alone](motional-salience-not-independently-causal-nunun.md) — related
 - [Gesture-enacted L2 vocabulary learning yields significantly better memory and more sustained retention than non-gesture learning, lasting 2–6 months](gesture-learning-sustained-l2-retention.md) — related
 - [Interest in cultural comparison increases vocabulary learning](cultural-comparison-increases-vocabulary-learning.md) — related
+- [Culturally metaphorical English expressions of Tai Chi movement names are associated with higher comprehension than direct translations](metaphorical-translation-comprehension.md) — related

@@ -71,3 +71,4 @@ Pairwise subgroup comparisons (online SM Appendix D Table S2) showed the Random 
 - [Inhibitory control is moderately positively correlated with mathematical ability in elementary school children (r = 0.19)](inhibitory-control-math-ability-correlation-elementary.md) — related
 - [The inhibitory control–mathematical ability correlation does not differ across domains of mathematical ability](no-domain-moderation-inhibitory-control-math.md) — related
 - [The reward effect on inhibitory control is significant across all six IC task types, but task type significantly moderates the effect, with the largest effect in Stroop tasks](task-type-moderates-reward-effect-on-inhibitory-control.md) — related
+- [Both general and specific IC show borderline, moderate associations with VR-OSCE station performance (r=0.41, P=.06; r=0.37, P=.09) but neither relates to overall analog OSCE performance](ic-borderline-association-vr-osce-not-analog-osce.md) — related

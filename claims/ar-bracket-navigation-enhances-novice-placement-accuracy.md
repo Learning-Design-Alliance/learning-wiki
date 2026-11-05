@@ -51,3 +51,4 @@ The review reports, from Lo et al.'s clinical trial of an assisted bracket navig
 - [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](vr-enhances-practical-skill-acquisition-with-barriers.md) — related
 - [Haptic simulator trials more frequently show superior accuracy outcomes when force-feedback and structured guidance are included](haptic-simulator-force-feedback-accuracy-gains.md) — related
 - [Review syntheses: VR/AR most often improved academic achievement and motivation, but sometimes performed no better than conventional technologies](vr-ar-advantages-achievement-motivation-with-null-contrast.md) — related
+- [Virtual simulation training reduced incisor mesiodistal bracket placement deviation compared with traditional training in a pilot RCT](virtual-simulation-reduced-incisor-mesiodistal-deviation.md) — related

@@ -54,3 +54,5 @@ Subgroup meta-analysis of nutrition-related predictors within the review; four s
 - [Chronic iodine deficiency shows the strongest association with academic performance among the reviewed exposures (effect size 4.490)](chronic-iodine-deficiency-strongest-academic-association.md) — related
 - [Nutrition-only and WASH-only interventions do not differ significantly in their pooled association with academic performance](nutrition-vs-wash-no-significant-group-difference.md) — related
 - [Underweight children are less likely to achieve high academic scores (pooled effect size 0.605)](underweight-lower-academic-scores-ethiopia.md) — related
+- [About 56% of first-cycle primary students in North Shoa Zone showed good academic performance, with widespread undernutrition and low breakfast consumption](academic-performance-undernutrition-prevalence-north-shoa.md) — related
+- [Eating breakfast is associated with about four times better academic performance among Ethiopian first-cycle primary school students](breakfast-consumption-associated-academic-performance-ethiopia.md) — related

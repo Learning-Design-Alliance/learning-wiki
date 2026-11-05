@@ -58,6 +58,7 @@ The article recommends weaving EI training into existing courses with objectives
 - [Develop job-specific, multidimensional training modules differentiated by occupational role](job-specific-multidimensional-training-modules.md)
 - [Integrate structured debriefing into simulation curricula with systematic teacher training and multi-method evaluation](debriefing-integration-strategy-nursing-education.md)
 - [Embed brief experiential wellness activities longitudinally within existing health professions curricula](embed-longitudinal-experiential-wellness-activities.md)
+- [Integrate humanistic care into professional teaching by having students investigate socially relevant injury-prevention cases and adopt patients' perspectives](socially-relevant-cases-empathy-integration-strategy.md)
 
 ## Examples
 -

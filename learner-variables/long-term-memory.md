@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 232 claims (136 show a difference, 56 mixed, 40 no difference) · 152 studies (85 causal, 32 review, 17 quant-synthesis, 9 theoretical, 7 associational, 2 qualitative), `q1`–`q4` · 50 of 152 report an effect size · 224 claims rest on one study
+> **Evidence** · 234 claims (136 show a difference, 58 mixed, 40 no difference) · 154 studies (85 causal, 32 review, 17 quant-synthesis, 10 theoretical, 7 associational, 2 qualitative, 1 design), `q1`–`q4` · 50 of 154 report an effect size · 226 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -267,6 +267,8 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [Female students had significantly higher electrochemistry retention scores than male students.](../claims/females-higher-retention-than-males-electrochemistry.md) [+W] — learners who differ on it differ in outcomes
 - [There was no significant interaction effect of instructional strategy and gender on students' mean retention scores in electrochemistry.](../claims/no-significant-strategy-gender-interaction-retention.md) [-W] — instruction changes it
 - [Teacher-assisted consolidation (CALT) produced significantly higher long-term retention than computer-aided consolidation (CALC) among computer-aided learners.](../claims/teacher-assisted-consolidation-improves-retention.md) [+W] — instruction changes it
+- [Confidence retention at last follow-up was variable, with some technical steps showing limited retention without ongoing practice](../claims/neurosave-variable-retention-followup.md) [~W] — measured as an outcome of the instruction studied
+- [Systematic review evidence indicates SBE supports skills and knowledge acquisition, with short-term retention holding up but long-term retention unresolved](../claims/sbe-supports-knowledge-skills-acquisition.md) [~M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

@@ -54,3 +54,4 @@ Item-level analysis of the 11-task checklist at one month in the RCT; Table 4 re
 - [Standardising aseptic technique with the ANTT Clinical Practice Framework increased staff mean compliance with hand hygiene, glove use, key-part protection, and aseptic field management, as reported by Clare and Rowley](antt-cpf-standardisation-increased-compliance.md) — related
 - [No significant improvement in procedural checklist scores was observed](rcdp-simulation-no-checklist-score-improvement.md) — related
 - [Most individual medication error sub-steps decreased significantly, but preparation time and aseptic-technique errors did not change](decp-error-substep-mcnemar-results.md) — reports the opposite
+- [High-fidelity simulation did not outperform medium-fidelity simulation on clinical skills for pressure-injury management (p = 0.853; d = 0.076)](high-fidelity-no-skills-advantage-pressure-injury.md) — related

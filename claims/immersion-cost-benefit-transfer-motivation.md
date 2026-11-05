@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected
-description: Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected
+title: Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation, with no significant effect on retention
+description: Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation, with no significant effect on retention
 id: immersion-cost-benefit-transfer-motivation
 status: review
 generated:
@@ -28,11 +28,11 @@ sources:
     rigour: 2
 ---
 
-# Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected
+# Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation, with no significant effect on retention
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2022 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Immersive VR did not significantly affect retention compared to written instruction but increased transfer scores, enjoyment, and motivation. [→ Alexander Skulmowski & Kate Man Xu 2022](#alexander-skulmowski-kate-man-xu-2022)

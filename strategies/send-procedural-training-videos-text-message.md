@@ -47,6 +47,7 @@ Send short procedural training videos to learners via text message before practi
 - [Utilize Text Messaging for Parent Engagement](utilize_text_messaging_for_parent_engagement.md)
 - [Deliver low-intensity parental engagement support via short, actionable school text messages rather than apps or face-to-face sessions](school-text-messages-parental-engagement-strategy.md)
 - [Send SMS exercises in the afternoon or evening, two or three per week](sms-afternoon-evening-scheduling-strategy.md)
+- [Embed trauma-informed care instruction before procedural simulation rather than after](tic-instruction-before-procedural-practice-strategy.md)
 
 ## Examples
 -

@@ -44,6 +44,7 @@ Based on the Optimal Development Zone finding, the authors recommend differentia
 - [Provide differentiated scaffolding matched to teachers' behavioral-cognitive profiles when supporting multi-agent AI workflow design](differentiated-scaffolding-teacher-ai-design-profiles.md)
 - [Use CT profiles and behavioural metrics to differentiate pre-service teacher instruction and design a learning analytics dashboard](ct-profile-differentiated-teacher-training-dashboard.md)
 - [Profile-based stratified competency development: an assessment-intervention-reassessment pathway tailored to low-, moderate- and high-level nurses](stratified-competency-development-pathway.md)
+- [Stratify embodied Tai Chi tasks by proficiency: simplified movements for beginners, autonomy in creation for advanced learners, paired practice for similar-ability peers](stratified-embodied-task-support.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 387 claims (256 show a difference, 91 mixed, 40 no difference) · 282 studies (98 causal, 95 associational, 41 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 7 design), `q1`–`q4` · 76 of 282 report an effect size · 375 claims rest on one study
+> **Evidence** · 389 claims (256 show a difference, 92 mixed, 41 no difference) · 283 studies (99 causal, 95 associational, 41 review, 16 theoretical, 14 quant-synthesis, 11 qualitative, 7 design), `q1`–`q4` · 78 of 283 report an effect size · 377 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -437,6 +437,8 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Correlations among T2 variables support the hypothesized ability-motivation-behavior sequence, with SDL ability positively correlated with autonomous motivation and motivation with physical activity.](../claims/t2-correlations-support-ability-motivation-behavior-sequence.md) [+M] — learners who differ on it differ in outcomes
 - [Student engagement with preparation resources builds confidence and is associated with improved engagement, participation and knowledge in CBL](../claims/cbl-student-preparation-improves-engagement-knowledge.md) [+M] — measured as an outcome of the instruction studied
 - [Actual interest predicts test achievement indirectly through actual effort across all three learning tasks, while triggered interest does not carry forward into actual interest](../claims/actual-interest-acts-through-actual-effort.md) [~M] — learners who differ on it differ in outcomes
+- [Cognitive engagement, emotional engagement, and testing perceptions did not correlate with exam scores, and cognitive engagement and testing perceptions did not moderate the testing effect](../claims/engagement-scales-no-correlation-exam-scores.md) [-M] — learners who differ on it differ in outcomes
+- [Emotional engagement tentatively moderates the testing effect, with higher emotional engagement associated with greater gains from testing](../claims/emotional-engagement-moderates-testing-effect.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

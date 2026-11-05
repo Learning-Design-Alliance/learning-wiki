@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2024
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 sources:
   - id: li-shuze-2024
     resource: "https://doi.org/10.1186/s12909-024-05917-x"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2024 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Questionnaire-based meta-analysis found positive associations for autonomous learning ability (SMD = 0.825), learning interest (SMD = 0.735), teamwork ability (SMD = 0.846), interpersonal skills (SMD = 0.851), problem-solving ability (SMD = 0.786), group interaction (SMD = 0.804), learning engagement (SMD = 0.747), and learning strategies (SMD = 0.524). [→ Li Shuze 2024](#li-shuze-2024)
@@ -70,3 +70,5 @@ Meta-analysis pooling questionnaire surveys from 16 studies (2169 students) for 
 - [The ARCS + BOPPPS blended learning model significantly improves practical skills, innovative ability, and overall comprehensive competency but not theoretical knowledge](arcs-boppps-blended-model-improves-competencies-not-theoretical-knowledge.md) — related
 - [The ARCS + BOPPPS blended learning model achieves higher attainment rates for knowledge, skills, and professionalism objectives and greater overall teaching satisfaction](arcs-boppps-blended-model-higher-objective-attainment-and-satisfaction.md) — related
 - [Students in the CBL-FC group report high learning interest, positive experience, and overall satisfaction](cbl-fc-high-satisfaction-learning-experience.md) — related
+- [Students attributed improvements in self-directed learning and communication skills to blended teaching](blended-self-reported-autonomous-learning-gains.md) — related
+- [First-year medical students reacted positively to the e-modules and preferred them as a supplement to, not a replacement for, traditional teaching](students-prefer-e-modules-as-supplement.md) — related

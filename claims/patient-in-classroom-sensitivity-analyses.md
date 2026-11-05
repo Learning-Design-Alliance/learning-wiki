@@ -80,3 +80,6 @@ Sensitivity analyses in the same study: intention-to-treat with 20 imputations (
 - [TBL and lecture cohorts show no baseline differences in admissions data](tbl-lecture-cohorts-baseline-comparable.md) — related
 - [The modified model's advantage on the primary endpoint remained statistically significant across both high- and low-engagement strata, suggesting the effect is not solely dependent on engagement levels](modified-boppps-effect-robust-across-engagement-strata.md) — related
 - [The modified BOPPPS model produced significantly higher comprehensive clinical application ability scores than traditional BOPPPS, an effect that remained significant after covariate adjustment (β = 2.35, P = 0.020)](modified-boppps-higher-clinical-application-ability.md) — related
+- [The handheld-practice advantage on eFAST outcomes persists after adjustment for age, semester, prior experience, prior training and tutor](adjusted-regression-confirms-handheld-practice-effect.md) — related
+- [Performance differences remained significant after controlling for age and GPA, and no gender effects were observed](gjump-effects-robust-to-gpa-age-gender.md) — related
+- [The endodontic testing effect remains significant after adjusting for prior course grade and sex, with a homogeneous effect across students](testing-effect-robust-to-prior-grade-sex.md) — related

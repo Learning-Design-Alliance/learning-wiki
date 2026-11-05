@@ -80,3 +80,4 @@ Independent samples t-test comparing digital distraction between male and female
 - [Test-group students rated the mobile AR application very positively: 92% found it helpful for learning, 89% interactive, 86% positive about wider course use, and only 4% distracted](positive-student-ratings-mobile-ar-application.md) — related
 - [Metacognitive knowledge of study strategies does not differ meaningfully across demographic groups](no-demographic-differences-metacognitive-knowledge.md) — related
 - [Gender and major differences in agentic engagement and autonomy-support perceptions among Chinese EFL students](gender-major-differences-ae-past.md) — reports the opposite
+- [Teacher support, basic psychological needs, learning motivation, and psychological well-being differ significantly across demographic subgroups](demographic-differences-embodied-tai-chi.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-19
+source_checked: 2026-11-05
 sources:
   - id: liu-w-2026
     title: Liu W 2026
@@ -29,7 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r1`–`r2` · `q3` · `i3` large
-> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 > **Design limits** · Liu W 2026: groups were assigned but students were analysed as independent · Liu W 2026 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims

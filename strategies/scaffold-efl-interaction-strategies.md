@@ -50,6 +50,7 @@ The review distills classroom recommendations from the pooled evidence: teachers
 ## Related Strategies
 
 - [Promote task-based peer interaction in primary EFL classes and scaffold L2 meaning negotiation through formulaic language and explicit training in negotiation strategies](promote-peer-interaction-scaffold-l2-nom.md)
+- [Stratify embodied Tai Chi tasks by proficiency: simplified movements for beginners, autonomy in creation for advanced learners, paired practice for similar-ability peers](stratified-embodied-task-support.md)
 
 ## Examples
 -

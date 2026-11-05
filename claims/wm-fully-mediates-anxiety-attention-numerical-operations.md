@@ -9,7 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-10-17
+source_checked: 2026-11-05
 sources:
   - id: wu-2017
     resource: "https://doi.org/10.1016/j.cognition.2017.05.016"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2017 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For non-verbal NO, only WM had significant direct paths; math anxiety and attention affected NO only indirectly through WM. [→ Wu 2017](#wu-2017)

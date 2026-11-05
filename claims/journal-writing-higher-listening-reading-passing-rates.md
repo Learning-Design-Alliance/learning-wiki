@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2015
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: saad-and-ahmed-2015
     resource: "https://doi.org/10.13189/ujer.2015.031106"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Results of the three classes were comparable through the first-semester tests; from the first-semester mid-term on, the two experimental classes that practiced daily journal writing had higher passing percentages than the control class through the second semester (except ICPT 201, where all three classes passed 100%) and the third semester, and on the final DLPT-5. [→ Saad and Ahmed 2015](#saad-and-ahmed-2015)

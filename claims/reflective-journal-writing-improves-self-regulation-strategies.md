@@ -52,3 +52,4 @@ Pre-post control group quasi-experiment with 62 tenth-grade students (32 experim
 - [Keeping a structured learning diary without further intervention did not improve university students' self-regulation](learning-diary-alone-no-self-regulation-gain.md) — related
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — a broader claim this one bears on
 - [Lower achieving students who wrote weekly reflective diaries during software design achieved overall course scores statistically comparable to higher achieving students who did not.](reflective-diary-comparable-overall-scores.md) — related
+- [Grade 10 students showed significant pre-to-post gains in nearly all causal attribution, self-regulation, and achievement motivation variables after an eight-session intervention, in one uncontrolled pre-post study](intervention-improves-attributions-self-regulation-motivation.md) — related

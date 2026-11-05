@@ -49,3 +49,4 @@ Posttraining satisfaction questionnaire on a 5-point Likert scale administered t
 - [E-learning module on endocrine disruptors significantly improved residents' knowledge of household EDCs (mean 55.56-point increase, P<.001)](edc-elearning-knowledge-gains.md) — related
 - [Most participants declined to pursue thesis work on EDCs or environmental health despite increased training interest](edc-elearning-thesis-interest.md) — related
 - [Secondary knowledge outcomes: high posttraining identification of at-risk populations, health effects, and EDC locations, with persistent gaps for behavioral disorders, alkylphenols, and phenoxyethanol](edc-elearning-secondary-knowledge.md) — related
+- [Medical students report high overall satisfaction with an interprofessional simulation-based learning module](ipe-module-high-student-satisfaction.md) — a narrower finding that bears on this claim

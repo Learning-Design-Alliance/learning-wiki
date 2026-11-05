@@ -49,3 +49,4 @@ Repeated measures ANOVA on initial and final self-efficacy reports from 65 upper
 - [All participants reported higher teaching self-efficacy after the teaching-simulation training](teaching-simulation-training-raises-self-efficacy.md) — related
 - [DBT-based video tutorials significantly raise both task relevance and self-efficacy from before to after training](dbt-tutorials-raise-task-relevance-self-efficacy.md) — related
 - [Video tutorials produced large learning gains from pre-test to training test, with significant decline at later post-tests and no condition effect](video-tutorials-learning-gains-decline-no-condition-effect.md) — related
+- [The untrained control group improved substantially from repeated exposure to the assessment tasks, which may have underestimated differences between structured and unstructured training](control-group-improvement-repeated-exposure.md) — related

@@ -67,3 +67,4 @@ ANCOVA on the blended learning group (n = 30 per Table 2) with pretest as covari
 - [Gender showed no significant difference in retention among students taught physics with computer-assisted STAD](gender-no-effect-stad-physics-retention.md) — related
 - [No significant gender differences in overall chemistry achievement or retention](no-gender-difference-achievement-retention.md) — related
 - [The authors argue blended learning could be used to close the gender gap in algebra achievement because male and female students achieved comparably under BL](bl-closes-gender-gap-algebra.md) — possibly the same claim (merge candidate)
+- [In this cohort, females scored significantly higher in Chinese, English, and Politics, whereas males outperformed females in Mathematics, Physics, Chemistry, Geography, and overall achievement](gender-gap-subject-grades-chinese-cohort.md) — reports the opposite

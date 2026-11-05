@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: mixed
 newest_evidence: 2026
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: gonzález-sanz-a-2026
     resource: "https://doi.org/10.2196/87898"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` One included quasi-experimental study (Li et al. 2023, n=205) found online patient-safety training plus simulation produced higher patient safety competency than online training alone; the review's narrative describes this as simulation complemented by other techniques versus simulation alone. [→ González-Sanz A 2026](#gonzalez-sanz-a-2026)

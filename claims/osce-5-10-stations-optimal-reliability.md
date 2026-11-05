@@ -55,3 +55,4 @@ Random-effects meta-analysis of 23 studies (26 alpha values) categorized by stat
 - [Students achieved high and consistent OSCE handover performance across antenatal and postpartum stations after the intervention](isbar-osce-high-consistent-performance.md) — related
 - [The PJ-OSCE achieved high internal consistency, with circuit-level Cronbach's alpha averaging 0.84.](pj-osce-high-reliability-cronbach-alpha-084.md) — a narrower finding that bears on this claim
 - [The 10-minute two-station four-domain modified OSCE is more sensitive than the end-of-rotation comprehensive score in detecting key competency differences from pathway-driven training.](modified-osce-more-sensitive-than-comprehensive-score.md) — related
+- [More OSCE stations are needed to reach a target reliability with the extended scale than with the generic scale](decision-study-stations-to-target-reliability.md) — related

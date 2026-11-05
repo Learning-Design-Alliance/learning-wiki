@@ -12,7 +12,7 @@ newest_evidence: 2022
 sources:
   - id: aslan-2022
     resource: "https://doi.org/10.1007/s11423-021-10072-x"
-    title: "Aslan, S., Agrawal, A., Alyuz, N., Chierichetti, R., Durham, L. M., Manuvinakurike, R., Okur, E., Sahay, S., Sharma, S., Sherry, J., Raffa, G., & Nachman, L. (2022). Exploring Kid Space in the wild: a preliminary study of multimodal and immersive collaborative play-based learning experiences. Education Tech Research Dev, 70, 205–230. https://doi.org/10.1007/s11423-021-10072-x"
+    title: "Aslan, S., Agrawal, A., Alyuz, N., Chierichetti, R., Durham, L. M., Manuvinakurike, R., Okur, E., Sahay, S., Sharma, S., Sherry, J., Raffa, G., & Nachman, L. (2022). Exploring Kid Space in the wild: a preliminary study of multimodal and immersive collaborative play-based learning experiences. Educational Technology Research and Development, 70, 205–230. https://doi.org/10.1007/s11423-021-10072-x"
     author: "Aslan, S., Agrawal, A., Alyuz, N., Chierichetti, R., Durham, L. M., Manuvinakurike, R., Okur, E., Sahay, S., Sharma, S., Sherry, J., Raffa, G., & Nachman, L."
     q: 1
     i: "?"
@@ -34,7 +34,7 @@ sources:
 
 ### Aslan 2022
 
-Aslan, S., Agrawal, A., Alyuz, N., Chierichetti, R., Durham, L. M., Manuvinakurike, R., Okur, E., Sahay, S., Sharma, S., Sherry, J., Raffa, G., & Nachman, L. (2022). Exploring Kid Space in the wild: a preliminary study of multimodal and immersive collaborative play-based learning experiences. Education Tech Research Dev, 70, 205–230. https://doi.org/10.1007/s11423-021-10072-x
+Aslan, S., Agrawal, A., Alyuz, N., Chierichetti, R., Durham, L. M., Manuvinakurike, R., Okur, E., Sahay, S., Sharma, S., Sherry, J., Raffa, G., & Nachman, L. (2022). Exploring Kid Space in the wild: a preliminary study of multimodal and immersive collaborative play-based learning experiences. Educational Technology Research and Development, 70, 205–230. https://doi.org/10.1007/s11423-021-10072-x
 
 `q1 · exploratory case study` · `i?` · `n=8` · `qualitative · r1`
 

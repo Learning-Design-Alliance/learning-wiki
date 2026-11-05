@@ -52,6 +52,7 @@ The review identifies several game elements used across studies: "points, badges
 - [Gamified Practice](gamified-practice.md)
 - [Game-Based Learning (GBL)](game-based-learning-gbl.md)
 - [Learning Games](learning-games.md)
+- [Refine digital escape rooms with adaptive difficulty, clear feedback and instructions, and collaborative gameplay](escape-room-design-refinements-strategy.md)
 
 ## Examples
 -

@@ -79,3 +79,4 @@ The review's second barrier category states institutions "may lack the necessary
 - [Time-consuming assessment and manual documentation plus heavy clinical workload were primary obstacles to implementing mini-CEX and DOPS](mini-cex-dops-time-burden-primary-obstacle.md) — related
 - [Students' preference for hard skills and limited receptivity to soft-skill activities hinder soft skills teaching in nursing education](student-preference-hard-skills-barrier.md) — related
 - [Institutional support and opportunities to teach were identified as key facilitators, while time constraints were the primary barrier to sustained skill application](facilitators-and-barriers-to-sustained-teaching-skills.md) — related
+- [Stakeholders favor DHNs integrated into the existing clinical team, most often medical assistants or similar groups, but flag workload and training constraints](dhn-team-integration-occupational-background.md) — related

@@ -50,3 +50,4 @@ Repeated measures GLM analysis of 153 LQ participants versus 61 non-participatin
 - [Teachers rated the importance of promoting a healthy lifestyle significantly higher after the workshop (d = 0.74 within the intervention group)](lq-workshop-increased-importance-of-healthy-lifestyle.md) — related
 - [No significant change was found in the importance of creating a safe learning environment, likely due to a ceiling effect](lq-no-change-importance-safe-environment-ceiling.md) — related
 - [Perceived task value of LQ-type training increased significantly in the intervention group (d = 0.55) with a large gain-score difference between groups (d = 1.24)](lq-workshop-increased-task-value.md) — related
+- [Perceived importance of practical workshops increased after participation, with the proportion giving a maximum score rising from 34.28% to 61.42%](perceived-workshop-importance-increased.md) — related

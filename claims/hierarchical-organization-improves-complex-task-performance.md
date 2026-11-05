@@ -9,6 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: moderate
 newest_evidence: 1979
+source_checked: 2026-11-05
 sources:
   - id: eylon-1979
     resource: "https://eric.ed.gov/?id=ED171804"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 1979 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1979 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` College physics subjects trained with a hierarchical organization scored highest on composite complex-task scores; treatment differed significantly overall, and in a priori t-tests the hierarchical group beat the single-level-twice group, which in turn beat the single-level-once group (no direct hierarchical versus single-level-once test is reported). [→ Eylon 1979](#eylon-1979)

@@ -67,3 +67,4 @@ In the same classroom studies, domain-level learning was assessed with a pre/pos
 - [Students frequently used on-demand help ineffectively, and raw help frequency correlated negatively with learning gains](ineffective-help-seeking-log-data-findings.md) — related
 - [Help Tutor metacognitive instruction produced no domain-level geometry learning gains and no lasting help-seeking procedural knowledge](help-tutor-no-domain-learning-gains.md) — reports the opposite
 - [Students rarely request on-demand hints in this tutor, with no significant differences between conditions or proficiency groups](on-demand-hint-requests-rare-and-equivalent.md) — related
+- [Pilot students were unaware of the scoring system and hint point-deductions, and requested transparent scoring and immediate feedback](escape-room-scoring-opacity-frustration.md) — related

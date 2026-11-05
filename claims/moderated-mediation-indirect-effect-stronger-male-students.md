@@ -78,3 +78,5 @@ Index of moderated mediation test from the same PROCESS Model 14 analysis. The i
 - [Female students report higher job finding anxiety, AI anxiety, and negative AI attitudes than male students](female-students-higher-ai-and-job-anxiety.md) — related
 - [Gender related to students' emotions but showed no significant effects on math grades, while intelligence and SES related positively to grades](covariates-gender-intelligence-ses-effects.md) — related
 - [Emotion regulation mediates the relationship between perceived peer support and academic achievement](emotion-regulation-mediation-peer-support-achievement.md) — related
+- [SDL use and frequency of use differed significantly between male and female pharmacy students](gender-difference-sdl-use.md) — related
+- [Qualitative interviews revealed gender-specific change pathways: males shifted from luck-based attributions and improved behavioral regulation, while females overcame ability-related doubt and strengthened emotional regulation](gender-specific-qualitative-change-pathways.md) — related

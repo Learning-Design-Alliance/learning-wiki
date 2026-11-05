@@ -8,6 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-31
 evidence_strength: moderate
+source_checked: 2026-11-05
 sources:
   - id: zenani-2022
     title: Zenani 2022
@@ -21,7 +22,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
-> **Currency** · no dated study recorded · not yet checked against its sources · not reviewed by a person
+> **Currency** · no dated study recorded · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Follow-up periods of 6 months and 1 year post-intervention showed participants' CPR knowledge and technical acquisition remained at a sufficient level. [→ Zenani 2022](#zenani-2022)

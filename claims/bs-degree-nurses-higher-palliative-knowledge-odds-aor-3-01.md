@@ -51,3 +51,4 @@ Meta-analysis of educational status as a factor associated with nurses' palliati
 - [Educational qualification shows no significant association with wound-care knowledge or practice levels](qualification-no-association-wound-knowledge.md) — related
 - [Educational level was significantly associated with total BLS knowledge score, with bachelor's and master's degree holders scoring higher.](education-level-associated-bls-knowledge-score.md) — related
 - [Personnel with a bachelor's degree scored significantly higher than associate-degree holders in managing complicated child delivery](bachelor-degree-higher-ccd-score.md) — related
+- [Higher formal education was not associated with better nutritional knowledge; Bachelor's degree holders scored significantly worse than university‐diploma holders](education-not-linked-to-nutrition-knowledge.md) — reports the opposite

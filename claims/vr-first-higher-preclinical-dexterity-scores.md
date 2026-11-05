@@ -50,3 +50,4 @@ Randomized comparison of 20 students per group (40 analyzed) in preclinical endo
 - [Students who train on the VR haptic simulator first report higher self-confidence in performing access cavity preparation and managing procedural challenges](vr-first-higher-self-confidence.md) — related
 - [Preclinical HVRS training significantly improves endodontic access cavity preparation scores on real patients](hvrs-training-improves-access-cavity-scores.md) — related
 - [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](ir-dental-equivalence-mixed-findings.md) — reports the opposite
+- [A hybrid CBL-SST-simulator model produces significantly higher clinical thinking scores than lecture-based learning in preclinical endodontics](hybrid-cbl-sst-higher-clinical-thinking-than-lbl.md) — related

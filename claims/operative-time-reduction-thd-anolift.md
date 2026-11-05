@@ -53,3 +53,4 @@ Retrospective cohort analysis of operative time as a continuous measure of techn
 - [Comparing the first 15 RPDs per center with subsequent procedures, operative time decreased while bile leakage grade B/C increased and most other outcomes did not significantly differ](learnbot-first15-versus-later-outcomes.md) — related
 - [Operative time decreases significantly after reaching competency at 46 RDP procedures](rdp-operative-time-decrease-after-competency.md) — related
 - [Mean procedure time decreased from 3.45 to 1.53 minutes after training (p < 0.001)](sbml-probing-procedure-time-reduction.md) — related
+- [Resection-phase telemetry shows time to complete mesopancreas dissection shortens materially across the RPD learning curve](mesopancreas-dissection-time-shortens-landmark-r.md) — related

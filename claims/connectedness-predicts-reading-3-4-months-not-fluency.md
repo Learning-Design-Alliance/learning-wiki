@@ -9,7 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2024
-source_checked: 2026-10-27
+source_checked: 2026-11-05
 sources:
   - id: bárbara-malcorra-2024
     resource: "https://doi.org/10.1038/s41539-024-00248-4"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2024 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Narrative connectedness measures obtained months earlier predicted later performance in phonological awareness, word reading accuracy, and text comprehension, but did not predict reading fluency. [→ Bárbara Malcorra 2024](#barbara-malcorra-2024)

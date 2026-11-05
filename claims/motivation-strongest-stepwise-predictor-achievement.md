@@ -70,3 +70,4 @@ Stepwise regression result: across the six models built from motivation, context
 - [Achievement in mathematics word problems correlates positively with five attitude dimensions and negatively with anxiety](attitude-achievement-correlations-word-problems.md) — related
 - [Self-confidence, liking, usefulness, motivation, context, anxiety, male domain and treatment jointly and significantly predict achievement in mathematics word problems](attitudes-and-treatment-predict-word-problem-achievement.md) — related
 - [Personalised print-based instruction produces statistically significant multivariate differences in attitudes toward mathematics word problems compared with non-personalised instruction](personalisation-instruction-improves-attitudes-word-problems.md) — related
+- [Motivation scales significantly predict senior-officer outcomes and augment personality scales on Potential and ROA, but not on Performance](motivation-scales-augment-personality.md) — related

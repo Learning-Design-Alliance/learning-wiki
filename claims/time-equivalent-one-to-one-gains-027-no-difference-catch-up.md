@@ -66,5 +66,5 @@ The same ITT analysis reports the time-equivalent versus control effect with a p
 ## Related Claims
 - [An earlier 2010 non-randomised trial of Catch Up Numeracy reported medium to large effects (0.3 SD versus matched-time controls, 0.4 SD versus pure controls)](catch-up-numeracy-2010-trial-medium-large-effects.md) — related
 - [Catch Up Numeracy produced a significant improvement in numeracy outcomes versus business-as-usual control (effect size 0.21) in a three-arm randomised trial](catch-up-numeracy-vs-control-effect-021.md) — related
-- [Implementation fell short of the intended dosage: very few learners received two 15-minute sessions weekly for 30 weeks, mainly due to timetabling and absence](catch-up-numeracy-fidelity-timetabling-barriers.md) — related
+- [Very few interviewed staff reported learners receiving the intended two 15-minute sessions a week, and they named timetabling and absence as barriers](catch-up-numeracy-fidelity-timetabling-barriers.md) — related
 - [No significant differences between control and either intervention group on secondary outcomes (reading and general ability)](catch-up-numeracy-secondary-outcomes-null.md) — related

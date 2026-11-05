@@ -50,3 +50,4 @@ Pre-post survey of 13 OB/GYN residents completing the curriculum, analyzed with 
 - [Residents report increased comfort delivering bad news for specific clinical scenarios after simulation training](simulation-training-increases-comfort-specific-obgyn-scenarios.md) — a narrower finding that bears on this claim
 - [Residents overwhelmingly endorse the SPIKES protocol as useful in clinical practice after training](residents-endorse-spikes-protocol-usefulness.md) — related
 - [Knowledge and confidence improvements show no significant differences among specialties](menopause-simulation-no-specialty-differences.md) — related
+- [In an uncontrolled pre–post study, both lecture and simulation cohorts had statistically significantly higher self-reported knowledge, competence, and comfort with breaking bad news after training than before (p < 0.001)](bbn-both-modalities-significant-prepost-gains.md) — related

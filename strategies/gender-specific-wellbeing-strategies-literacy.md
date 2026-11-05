@@ -43,6 +43,7 @@ The article's Notes for Practice recommend that "Future research should explore 
 ## Related Strategies
 
 - [Three design recommendations for gender-responsive AI literacy programs](gender-responsive-ai-literacy-program-recommendations.md)
+- [Gender- and emotion-sensitive classroom adjustments based on students' embodied emotional response patterns](gender-emotion-sensitive-bsm-pedagogy.md)
 
 ## Examples
 -

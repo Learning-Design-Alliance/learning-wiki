@@ -1,7 +1,7 @@
 ---
 type: claim
-title: NETM intervention reduces vaccine hesitancy among NICU parents across all VOS subscales
-description: NETM intervention reduces vaccine hesitancy among NICU parents across all VOS subscales
+title: NICU parents' self-rated vaccine attitudes improved on all four Vaccine Opposition Scale subscales after NETM, in one uncontrolled pre-post study
+description: NICU parents' self-rated vaccine attitudes improved on all four Vaccine Opposition Scale subscales after NETM, in one uncontrolled pre-post study
 id: netm-reduces-vaccine-hesitancy-nicu-parents
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# NETM intervention reduces vaccine hesitancy among NICU parents across all VOS subscales
+# NICU parents' self-rated vaccine attitudes improved on all four Vaccine Opposition Scale subscales after NETM, in one uncontrolled pre-post study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Following the NETM intervention, NICU parents showed statistically significant improvements across all four Vaccine Opposition Scale subscales (all p < 0.001). [→ Tümsek Gizem Solmaz and Akmeşe Zehra Baykal 2026](#tumsek-gizem-solmaz-and-akmese-zehra-baykal-2026)
+`q2 i?` Following the NETM intervention, NICU parents showed statistically significant improvements across all four Vaccine Opposition Scale subscales (all p < 0.001): Belief in Vaccine Benefit rose and the three hesitancy subscales fell; with no control group, the authors say the changes cannot be attributed exclusively to NETM. [→ Tümsek Gizem Solmaz and Akmeşe Zehra Baykal 2026](#tumsek-gizem-solmaz-and-akmese-zehra-baykal-2026)
 
 ## Evidence
 
@@ -37,7 +37,7 @@ Tümsek Gizem Solmaz and Akmeşe Zehra Baykal. (2026). Reducing parents’ vacci
 
 `q2 · i?` · `causal · r1`
 
-One-group pretest–posttest quasi-experimental study of 50 parents of infants in a Level III NICU in Izmir, Türkiye. Paired samples t-tests compared pre- and post-intervention VOS scores; the study reports "significant differences were observed across all four VOS subscales following the intervention (all p < 0.001)". No effect sizes printed for the subscale comparisons.
+One-group pretest–posttest quasi-experimental study of 50 parents of infants in a Level III NICU in Izmir, Türkiye. Paired samples t-tests compared pre- and post-intervention VOS scores; the study reports "significant differences were observed across all four VOS subscales following the intervention (all p < 0.001)". Belief in Vaccine Benefit increased (11.96 to 17.72), while Vaccine Opposition (22.58 to 15.54), Strategies to Avoid Vaccination (18.06 to 12.62) and Legitimation of Hesitancy (15.12 to 10.96) decreased. The authors describe NETM as "associated with" improved attitudes and note that the design "without a control group limits the ability to attribute the observed changes exclusively to the intervention"; the post-test was immediate and vaccination behaviour was not measured. No effect sizes printed for the subscale comparisons.
 
 > "Statistically significant differences were observed across all four VOS subscales following the intervention (all p < 0.001)."
 

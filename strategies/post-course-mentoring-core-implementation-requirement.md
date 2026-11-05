@@ -50,6 +50,7 @@ The article recommends that nurse managers and innovation mentors treat post-cou
 - [Build supportive organizational structures — clear career pathways, mentorship programs, and leadership development — to enhance nurses' EBHC competence](organizational-structures-care-pathways-mentorship-leadership-ebhc.md)
 - [Design structured, competency-based, stage-specific transition programmes for new nurse managers with mentoring by experienced managers](structured-stage-specific-nurse-manager-transition-programmes.md)
 - [Formalize clinical peer-mentorship programs pairing senior staff with junior nurses](peer-mentorship-junior-nurses-wound-care.md)
+- [Combined organizational-support, mentorship, simulation-based confidence-building, and workload-management interventions for new emergency and critical care nurses](four-part-support-intervention-new-critical-care-nurses.md)
 
 ## Examples
 -

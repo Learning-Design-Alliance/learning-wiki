@@ -65,7 +65,7 @@ Within-subjects experiment with N = 64 Austrian students aged 16–18 comparing 
 
 
 ## Related Claims
-- [In elementary school students, short-term green breaks restore attention and working memory, with effects on inhibition mixed](green-breaks-elementary-attention-restoration.md) — related
+- [In elementary school students, short-term green breaks restore attention and working memory, but did not improve inhibition in the two studies that measured it](green-breaks-elementary-attention-restoration.md) — related
 - [Classroom views of greenery improve children's concentration compared with built views or windowless classrooms](green-classroom-views-boost-concentration.md) — possibly the same claim (merge candidate)
 - [Natural lighting and green window views benefit mood, sleep, cognition, and test performance](daylight-green-views-benefit-students.md) — related
 - [Nature exposure relieves stress in learners, including experimentally demonstrated reductions in heart rate and self-reported stress](nature-exposure-reduces-learner-stress.md) — related

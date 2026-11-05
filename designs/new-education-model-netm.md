@@ -42,7 +42,7 @@ The New Education Model (NETM) is a "structured, theory-informed, and interactiv
 
 ### Claims
 
-- [Netm Reduces Vaccine Hesitancy Nicu Parents](../claims/netm-reduces-vaccine-hesitancy-nicu-parents.md) [+M]
+- [NICU parents' self-rated vaccine attitudes improved on all four Vaccine Opposition Scale subscales after NETM, in one uncontrolled pre-post study](../claims/netm-reduces-vaccine-hesitancy-nicu-parents.md) [+W]
 - [Self-rated belief in vaccine benefit scores rose from pre-test to post-test after NETM, in one uncontrolled pre-post study](../claims/netm-increases-belief-vaccine-benefit.md) [+W]
 - [Self-rated scores for Vaccine Opposition, Strategies to Avoid Vaccination, and Legitimation of Hesitancy decreased from pre-test to post-test in one group after NETM.](../claims/netm-decreases-opposition-avoidance-legitimation.md) [+W]
 - [All NICU parents in the sample were willing to receive structured, evidence-based vaccine information](../claims/parents-willing-receive-structured-vaccine-information.md) [+W]

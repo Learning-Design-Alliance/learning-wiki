@@ -49,3 +49,4 @@ Post-simulation descriptive statistics and Kruskal–Wallis comparisons across a
 - [Third- and fourth-year physiotherapy students showed consistent significant improvements across most self-efficacy, engagement, and empathy dimensions after simulation-based learning, with effect sizes approaching medium magnitude in fourth-year students](sbl-improves-outcomes-advanced-year-students.md) — related
 - [Students' perceptions of mandatory attendance are significantly below neutral and decline across academic years](attendance-perceptions-below-neutral-decline-by-year.md) — related
 - [The focus-on-students effect was not robust: significant in the ANOVA but not in non-parametric tests](focus-on-students-effect-not-robust.md) — related
+- [Confidence, risk-recognition and trauma-management scores differed significantly across study years, with senior students (Year VI) outperforming earlier years](study-year-differences-senior-students-higher.md) — related

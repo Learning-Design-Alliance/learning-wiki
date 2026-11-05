@@ -48,3 +48,4 @@ Qualitative discourse and conversation analysis of the videotaped interactions, 
 - [Female students took more classroom turns than male students in the EAP reading interactions](female-students-more-turns-eap-classroom.md) — related
 - [Gender prompts shift feedback stance: female students receive affective, first-person, empathy-oriented feedback while male students receive objective, task-oriented critique](gender-prompt-emotional-connection-pedagogy.md) — related
 - [Understandings of valued thinking have been dominated by the voices of White, predominantly male scholars](white-male-scholars-dominated-valued-thinking.md) — related
+- [Qualitative interviews revealed gender-specific change pathways: males shifted from luck-based attributions and improved behavioral regulation, while females overcame ability-related doubt and strengthened emotional regulation](gender-specific-qualitative-change-pathways.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-29
+source_checked: 2026-11-05
 recheck_by: 2028
 sources:
   - id: chauhan-2025
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q3 i?` Among 40 items per source, 19 faculty SBMCQs (47.5%) versus 9 ChatGPT SBMCQs (22.5%) met ideal criteria of appropriate difficulty, high discrimination, and 100% distractor effectiveness. [→ Chauhan 2025](#chauhan-2025)

@@ -37,7 +37,7 @@ Anna Keune (2022). Material syntonicity: Examining computational performance and
 
 `q2 · i?` · `qualitative · r2`
 
-Qualitative analysis of two fiber crafts course sessions at a K-8 charter school design studio, with pseudocode translation of student projects. The analysis found that heddle position paired with shuttle direction produced conditionals, pattern duration a variable, and repeated row production a row_by_row function with a while loop, showing "the performance of variables, conditionals, and functions."
+Qualitative analysis of a fiber crafts course at a K-8 charter school design studio (three units of two sessions each; the article analyses the first two units, weaving and fabric manipulation, and this finding comes from the weaving unit), with pseudocode translation of student projects. The analysis found that heddle position paired with shuttle direction produced conditionals, pattern duration a variable, and repeated row production a row_by_row function with a while loop, showing "the performance of variables, conditionals, and functions."
 
 > "Through the interplay of heddle positions, shuttle direction, and students’ full-body engagement, students produced woven fabric required the performance of variables, conditionals, and functions."
 

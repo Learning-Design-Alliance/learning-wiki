@@ -49,3 +49,4 @@ Mann–Whitney comparison of distractor efficiency in the 29-student dental exam
 - [EMQs are significantly more difficult than MCQs and SAQs in dental exams](emqs-more-difficult-than-mcqs-saqs.md) — related
 - [Student performance differs by question format, highest in SAQs and lowest in EMQs](performance-highest-saqs-lowest-emqs.md) — related
 - [Distractor efficiency did not differ significantly between AI-generated and student-generated exams](distractor-efficiency-no-difference.md) — related
+- [Factual MCQs are significantly more likely to be easy than clinical case-based MCQs, and absence of low-functioning distractors is inversely associated with item ease](factual-questions-easier-lfd-absence-inverse-ease.md) — related

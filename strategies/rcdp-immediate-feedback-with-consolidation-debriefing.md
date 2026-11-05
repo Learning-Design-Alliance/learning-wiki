@@ -56,6 +56,7 @@ The article recommends adopting RCDP in nursing education because it provides im
 - [Use debriefing to enable multiple viewpoints, shared cognitive resources, and challenge students' assumptions to foster critical thinking](debriefing-multiple-viewpoints-critical-thinking.md)
 - [Include debriefing with reflective questions after simulation sessions before receiving feedback](debriefing-before-feedback-simulations.md)
 - [Use structured debriefing after simulation scenarios to consolidate transferable prevention actions](structured-daa-debriefing-after-simulation.md)
+- [Align simulation topics with students' clinical interests and enhance feedback processes such as video feedback](align-simulation-topics-clinical-interests-video-feedback.md)
 
 ## Examples
 -

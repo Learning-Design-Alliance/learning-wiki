@@ -58,3 +58,5 @@ Primary outcome domains F and G in the within-participants comparison of 20 stud
 - [Nursing students reported high satisfaction with community care simulation, with all SDS domain means around 4.5 and support rated lowest](ccs-high-satisfaction-sds-domain-scores.md) — related
 - [VR-based acupuncture training was associated with higher theoretical knowledge posttest scores than conventional instruction](vr-acupuncture-higher-theoretical-knowledge.md) — related
 - [VR-based training yields higher overall training satisfaction than model simulation](vr-training-higher-satisfaction.md) — possibly the same claim (merge candidate)
+- [Medical students report high overall satisfaction with an interprofessional simulation-based learning module](ipe-module-high-student-satisfaction.md) — related
+- [The VR group rated class evaluation, simulation design evaluation, and practice immersion significantly higher than the e-book control group](vr-group-higher-secondary-outcomes-dka-simulation.md) — related

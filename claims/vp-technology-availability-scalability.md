@@ -46,3 +46,4 @@ Qualitative content analysis of VP descriptions in the healthcare education lite
 
 ## Related Claims
 - [Reported barriers to immersive and VP-based communication training include limited authenticity of non-verbal interaction, unrealistic student perceptions, high institutional resource requirements, technical challenges, and scalability constraints](vp-communication-implementation-barriers-authenticity-resources.md) — reports the opposite
+- [Technology-enhanced experiential methods (e.g., CGM wear, virtual patient care) improve knowledge and self-efficacy but face cost and scalability constraints](tech-experiential-positive-but-scalability-limited.md) — reports the opposite

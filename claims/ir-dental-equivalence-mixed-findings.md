@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: mixed
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: ruslin-muhammad-2026
     resource: "https://doi.org/10.1186/s12909-026-09739-x"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Vincent et al. found no significant differences between haptic simulator (VirtEasy) and conventional practice on plastic teeth in restorative dentistry training. [→ Ruslin Muhammad 2026](#ruslin-muhammad-2026)
@@ -94,3 +95,4 @@ The review reports Dwisaptarini et al.'s RCT of minimal invasive caries removal 
 - [Adding peer role-play and peer assessment does not change technical procedural proficiency: no significant difference between cohorts in procedural steps and key points](peer-roleplay-technical-proficiency-comparable.md) — related
 - [Simulator-based performance metrics are comparable between students trained before versus after artificial-tooth practice](simulator-metrics-comparable-between-groups.md) — related
 - [Dental students who train on a VR haptic simulator before artificial-teeth practice score higher on preclinical access cavity preparation and self-assessment than students who practice on artificial teeth first](vr-first-higher-preclinical-dexterity-scores.md) — reports the opposite
+- [The hybrid CBL-SST-simulator model shows no significant difference from lecture-based learning in clinical operational skills](hybrid-cbl-sst-no-difference-clinical-skills.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-09-26
 evidence_strength: mixed
 newest_evidence: 2018
+source_checked: 2026-11-05
 sources:
   - id: chorianopoulos-2018
     resource: "https://www.irrodl.org/"
@@ -40,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r2` · `q2`
-> **Currency** · newest study 2018 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 3 of 3 entries) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 7 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims

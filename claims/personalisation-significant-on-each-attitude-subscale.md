@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: awofala-2014
     resource: "https://eric.ed.gov/?id=EJ1059026"
@@ -41,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2014 · checked against its sources 2026-11-01 (automated, 3 of 3 entries) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Univariate ANOVAs on post-treatment scores showed statistically significant differences between the personalised and non-personalised groups on each of the seven attitude subscales. [→ Awofala 2014](#awofala-2014)

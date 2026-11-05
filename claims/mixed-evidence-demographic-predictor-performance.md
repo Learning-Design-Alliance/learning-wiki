@@ -9,7 +9,6 @@ generated:
   at: 2026-10-08
 evidence_strength: mixed
 newest_evidence: 2023
-source_checked: 2026-10-19
 recheck_by: 2026
 sources:
   - id: baker-2023
@@ -42,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · theoretical `r3` · `q1`
-> **Currency** · newest study 2023 · checked against its sources 2026-10-19 (automated, 3 of 3 entries) · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person · recheck by 2026: tool and model accuracy changes quickly
 
 ## Subclaims
 `q1 i?` Some studies find models including race perform substantially better, while others find worse performance or no significant advantage from including demographic variables. [→ Baker 2023](#baker-2023)

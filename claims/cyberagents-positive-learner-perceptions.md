@@ -57,3 +57,4 @@ Classroom deployment with 24 undergraduate students using a within-subjects desi
 - [Students rate LLM-generated simplified instructions positively, averaging 7.83 on a 1-10 usefulness scale across 42 ratings in a live cybersecurity course](student-feedback-7-83-ocr-llm-instructions.md) — related
 - [Students rated DPs positively, did not distinguish the two LLMs, and disagreed with experts on the same DPs, rating feasibility significantly lower](student-perceptions-of-dps-differ-from-experts.md) — related
 - [Students rated all student-facing design principles positively, with formative assessment and learning content rated highest (above 6 on a 7-point scale)](design-principles-rated-positively-survey.md) — related
+- [Simulation scenarios, scenario topics and feedback exercises showed the greatest variance in student ratings](greatest-variance-simulation-feedback-ratings.md) — related

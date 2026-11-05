@@ -9,7 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-16
+source_checked: 2026-11-05
 sources:
   - id: ren-s-2026
     title: Ren S 2026
@@ -29,7 +29,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r2` · `q3` · `i1`–`i3`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-16 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 > **Design limits** · Ren S 2026: the intervention came bundled with another change (The reflection prompt was accompanied by increased engagement time on AI-assisted trials) (read from the study by two models, 2026-10-25)
 
 ## Subclaims

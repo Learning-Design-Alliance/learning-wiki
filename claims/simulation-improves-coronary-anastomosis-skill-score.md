@@ -51,3 +51,4 @@ Random-effects meta-analysis of seven studies (14 groups) comparing five-point-s
 - [Simulator fidelity does not significantly affect improvement rates in coronary anastomosis simulation training](simulator-fidelity-no-significant-effect.md) — related
 - [Junior and non-cardiothoracic residents show larger time improvements from coronary anastomosis simulation than senior residents](junior-residents-gain-more-time-from-simulation.md) — related
 - [Simulation-based training with a leakage-testing vascular anastomosis model reduced severe leakage (Grade 3) from 69.3% to 28.1% among surgical residents](leakage-grade3-reduction-vascular-anastomosis-simulation.md) — related
+- [Simulation-trained students committed fewer procedural safety red flags than conventionally trained students in a simulated coronary angiography](simulation-training-fewer-safety-red-flags.md) — a narrower finding that bears on this claim

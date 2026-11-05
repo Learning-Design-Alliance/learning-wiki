@@ -50,3 +50,4 @@ Case-mix adjusted learning-curve estimation using generalized additive mixed mod
 - [LC-CUSUM trajectories showed progressive skill acquisition in both groups, with descriptive trends toward earlier competency in the mikoto arm](mikoto-lc-cusum-learning-curves.md) — related
 - [Case-mix imbalance (all grade IV patients and more prior procedures in Phase 1) did not fully explain the learning effect in risk-adjusted analysis](case-mix-imbalance-exploratory-adjustment.md) — related
 - [Postoperative pancreatic fistula rates remain stable along the RDP learning curve](rdp-popf-stable-along-learning-curve.md) — reports the opposite
+- [Postoperative outcome learning curves (length of stay, major complications) stabilise around case 30, earlier than the telemetry proficiency threshold, and blood loss shows no temporal trend](postoperative-outcome-curves-stabilise-case-30.md) — reports the opposite

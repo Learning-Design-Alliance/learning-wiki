@@ -55,3 +55,4 @@ Paired samples T test of the experimental group before and after the 12-week PBL
 - [PBL teaching did not significantly improve students' CET4 English scores compared with traditional teaching](pbl-no-effect-english-scores.md) — related
 - [Descriptive means moved in opposite directions: the treatment group's critical thinking disposition mean rose while the control group's fell](ctd-means-opposite-directions.md) — related
 - [PBL and traditional teaching do not differ significantly in their effect on pre-service teachers’ critical thinking dispositions](pbl-no-difference-critical-thinking-disposition.md) — related
+- [Within the PBL-FC group all self-directed learning dimensions improve from pre- to post-class, while the traditional group shows no significant within-group change](pbl-fc-within-group-sdl-gains.md) — related

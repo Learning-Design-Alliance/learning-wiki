@@ -70,7 +70,7 @@ From the same systematic review of 31 studies: autonomy challenges appeared in s
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
 - [Students perceive manageable challenge matched to their skills, with a sense of accomplishment, as an intrinsically rewarding element of fun in formal learning](challenge-accomplishment-fun-primary.md) — related
 - [Correctness and informative feedback with appropriate challenge fostered competence and autonomy](feedback-features-fostered-competence-autonomy.md) — related
-- [Interest/enjoyment and perceived choice were the weakest motivation dimensions, suggesting Mangomon's RPG mechanics did not yet fully serve learner autonomy](rpg-mechanics-not-yet-serve-autonomy.md) — related
+- [Perceived choice and enjoying catching Mangomon were the lowest-rated motivation items, which the authors read as its RPG mechanics not yet fully serving learner autonomy](rpg-mechanics-not-yet-serve-autonomy.md) — related
 - [Gamification positively and significantly affects students' perceptions of autonomy](gamification-enhances-perceived-autonomy.md) — related
 - [Gamification has minimal impact on students' perceived competence](gamification-minimal-impact-perceived-competence.md) — related
 - Gamification studies measure intrinsic motivation almost exclusively through self-report instruments, with no study using free-choice behavioral measures — related

@@ -71,3 +71,4 @@ Linear model of within-LLM differences with cluster-robust standard errors clust
 - [Open-weight (DeepSeek) and proprietary (OpenAI) rubrics produced equivalent grading outcomes in every assignment-approach comparison except Assignment 1 free-form](open-weight-proprietary-rubric-equivalence.md) — related
 - [Under LLM evaluators, structured rubrics produced larger negative deviations from the human baseline than free-form rubrics, the opposite direction of the human-evaluator pattern](structured-free-form-llm-deviation-contrast.md) — possibly the same claim (merge candidate)
 - [Cohort members predominantly used off-the-shelf multimodal LLMs, mostly OpenAI's GPT, and nearly all combined closed and open source models](cohort-model-use-off-the-shelf-gpt.md)
+- [Doubao-1.5-pro, Deepseek-R1, and Deepseek-V3 show strong cross-lingual stability, with Chinese–English accuracy differences below 5%](cross-lingual-stability-three-models.md) — related

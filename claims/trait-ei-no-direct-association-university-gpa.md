@@ -67,3 +67,4 @@ Null direct association between global trait EI (TEIQue) and GPA in this sample,
 - [Mindfulness correlates positively and significantly with trait emotional intelligence in Portuguese adolescents](mindfulness-positive-correlation-trait-ei-adolescents.md) — related
 - [Trait EI is positively associated with well-being but not significantly with school results in adolescents](trait-ei-well-being-not-school-results.md) — related
 - [Emotional intelligence correlates positively with self-directed learning among nursing students (r = 0.63)](ei-sdl-positive-correlation-nursing-students.md) — related
+- [Cognitive engagement, emotional engagement, and testing perceptions did not correlate with exam scores, and cognitive engagement and testing perceptions did not moderate the testing effect](engagement-scales-no-correlation-exam-scores.md) — related

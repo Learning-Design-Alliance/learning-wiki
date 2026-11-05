@@ -50,3 +50,4 @@ Log data from 63 participants showed the experimental group spent on average 48 
 - [Students receiving intelligent ITS feedback spent significantly more time and made significantly more steps on the hypothesis-testing tasks than controls](its-feedback-more-time-and-steps.md) — related
 - [The experimental group answered achievement tests faster (6.18 minutes) than the control group (7.51 minutes)](cft-hypertext-design-faster-test-completion.md) — related
 - [Students using the AVDS tool completed the performance test faster than controls](avds-tool-shortens-completion-time.md) — related
+- [Intervention students spent more preparation time and control students more often felt disadvantaged, while other feedback items did not differ](student-feedback-prep-time-and-allocation-fairness.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: weak
 newest_evidence: 2016
+source_checked: 2026-11-05
 sources:
   - id: walls-2016
     resource: "https://doi.org/10.14434/josotl.v16i2.19217"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` A framework paper states, citing Driscoll (2000) and Michel, Cater, and Varela (2009), that active and collaborative approaches encourage student-peer interactions and promote higher-order thinking and complex reasoning. [→ Walls 2016](#walls-2016)

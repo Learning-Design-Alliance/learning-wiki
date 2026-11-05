@@ -54,3 +54,4 @@ Follow-up assessment completed by 174 of 190 participants (91.6%); the quote rep
 - [Mannequin and combined simulation groups maintain consistently higher non-technical skill scores than the computer group across all five follow-up assessments](nontechnical-advantage-persists-across-timepoints.md) — related
 - [CPR skills deteriorate within three to six months without frequent practice or retraining](cpr-skills-decay-3-6-months.md) — related
 - [The accuracy advantage of MExplore-supported learning persisted at a 2-week retention test](mexplore-retention-advantage-two-weeks.md) — related
+- [The G-Jump group maintained and slightly improved its mean score from post-test to two-week follow-up, showing better short-term retention than the other groups](gjump-sustained-retention-follow-up.md) — related

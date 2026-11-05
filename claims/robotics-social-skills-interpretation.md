@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2019
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: muñoz-repiso-and-caballero-gonzález-2019
     resource: "https://doi.org/10.3916/C59-2019-06"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q1`
-> **Currency** · newest study 2019 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors interpret the methodology as supporting acquisition of communication, collaborative work, creativity, autonomy and leadership; no separate social-skills measure is reported. [→ Muñoz-Repiso and Caballero-González 2019](#munoz-repiso-and-caballero-gonzalez-2019)

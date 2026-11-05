@@ -53,3 +53,4 @@ The review's synthesis of 99 included studies reports that "simulation-based tra
 - Most identified training and assessment studies are of low methodological quality — related
 - [Simulation training for ultrasound‐guided regional anaesthesia most often shows significant improvement at Kirkpatrick level 2 outcomes](usra-simulation-improves-kirkpatrick-level-2.md) — related
 - [Stepwise CBME training improves multiple secondary outcome measures across all three training stages](stepwise-cbme-improves-secondary-outcomes.md) — related
+- [The 2025 framework recommends simulation-based training as a means of maintaining procedural knowledge and skills](shm-2025-recommends-simulation-based-training-procedural-maintenance.md) — related

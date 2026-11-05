@@ -40,6 +40,7 @@ The article recommends that because students in agent-enriched contexts engage i
 
 - [Four design principles for educational AI that empowers epistemic agency rather than passive offloading](four-design-principles-epistemic-agency-ai.md)
 - [Embed verification cycles and faded prompt scaffolding into GenAI-supported STEAM tasks](verification-cycles-and-faded-prompt-scaffolding-genai.md)
+- [Pair perceptual scaffolding (checklists) with clinical-integration tasks to close the perception-to-diagnosis gap](pair-checklists-with-integration-tasks.md)
 
 ## Examples
 -

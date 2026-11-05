@@ -59,6 +59,7 @@ The review recommends that curriculum integration of ECE proceed "through hybrid
 - [Sequence OCL before SBL in a hybrid professional development framework](ocl-then-sbl-hybrid-teacher-pd.md)
 - [Expand simulation-based and laboratory training before and alongside clinical practice](expand-simulation-laboratory-training-nursing.md)
 - [Integrate simulation-based learning into interprofessional curricula to cultivate collaboration early in training](integrate-sbl-into-interprofessional-curricula.md)
+- [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
 
 ## Examples
 -

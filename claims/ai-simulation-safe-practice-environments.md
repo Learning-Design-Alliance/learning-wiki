@@ -89,3 +89,4 @@ Thematic analysis of qualitative data from 11 studies (focus groups, think-aloud
 - [Students evaluate structured debriefing positively across knowledge, emotional attitude, and nursing skills](debriefing-positive-student-evaluations.md) — related
 - [Simulation-based BLS training evokes strong emotional engagement and builds nursing students' confidence through repeated practice in a safe, mistake-tolerant environment](simulation-bls-emotional-engagement-confidence.md) — possibly the same claim (merge candidate)
 - [An immersive anatomy education EMS placement fostered self-directed, active, experiential learning and enhanced motivation and clinical relevance of anatomy](anatomy-ems-quality-learning-theme.md) — related
+- [Introducing SBE as a third learning site may increase the theory-practice split for student nurses](sbe-may-increase-theory-practice-split.md) — reports the opposite

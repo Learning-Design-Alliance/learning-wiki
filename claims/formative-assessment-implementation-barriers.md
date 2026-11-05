@@ -37,7 +37,7 @@ Marks, A., Woolcott, G., & Markopoulos, C. (2021). Differentiating Instruction: 
 
 `q2 · i?` · `review · r2`
 
-Narrative review of implementation barriers: the article reports, citing Vingsle (2014), that formative assessment is "a complex, demanding and challenging process" and that adjusting subsequent learning from assessment information is extremely difficult. No effect size is printed.
+Conceptual, framework-development article on differentiated instruction in secondary mathematics, which explores theory and practice (including formative assessment) and proposes a prototype practice framework. In its discussion of formative assessment it reports, citing Vingsle (2014), that formative assessment is "a complex, demanding and challenging process" and that adjusting subsequent learning from assessment information is extremely difficult. No effect size is printed.
 
 > "Firstly, formative assessment is a complex, demanding and challenging process, and using assessment information to adjust subsequent learning to meet student needs is extremely difficult (Vingsle, 2014)."
 

@@ -49,3 +49,4 @@ Subgroup analysis grouping the 189 cases by number of questions (2, 3, or 4). In
 ## Related Claims
 - [LLMs with high question-level accuracy on medical licensing exam cases show substantially lower case-level accuracy, with consistency gaps of 10% to 17.9%](llm-consistency-gap-question-vs-case-level.md) — possibly the same claim (merge candidate)
 - [DeepSeek-R1 and Qwen2.5-32B significantly outperformed GPT-4o on both question-level and case-level accuracy](deepseek-qwen32b-outperform-gpt4o-clinical-cases.md) — related
+- [The authors argue complex integrative medical questions are particularly useful for evaluating and comparing the reasoning abilities of different LLMs](complex-questions-evaluate-llm-reasoning.md) — a broader claim this one bears on

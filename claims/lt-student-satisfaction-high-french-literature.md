@@ -70,3 +70,4 @@ Item rankings aggregated across the three groups from the opinion questionnaire;
 - [Learning Together technique significantly raised learning achievement in a Modern French Literature course, with the lowest pre-test students gaining the most](lt-technique-significant-achievement-gains-french-literature.md) — related
 - [Students rated course content (68.6% substantial) and teaching quality (64.5% satisfied) more positively than method diversity (52.8%) and encouragement to participate (50.0%)](content-rated-above-interactive-teaching-dimensions.md) — related
 - [Students rate clinical reasoning skills and overall satisfaction highest among self-reported outcomes](cataract-vsim-highest-rated-outcomes.md) — related
+- [Students received the new PBL oral-health content positively, with most judging PBL a suitable format](students-received-pbl-oral-content-positively.md) — related

@@ -53,3 +53,6 @@ Randomized controlled trial of 67 third-year medical students in Vietnam, random
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — a broader claim this one bears on
 - [The largest checklist-item gain from multi-agent scaffolding was in observable empathic expression, with additional gains in selected history-taking items](empathy-checklist-item-largest-gain.md) — related
 - [In an RCT reviewed by this study, an LLM-based digital patient improved ophthalmology medical history-taking skills relative to control](llm-digital-patient-improves-history-taking-rct.md) — related
+- [Students training with AI-VSPs complete more practice cycles than students training with traditional SPs](ai-vsp-more-training-cycles.md) — related
+- [AI-VSP and traditional SP training show no significant difference in SEGUE Process scores or individual dimension scores](no-group-difference-process-segue-scores.md) — a narrower finding that bears on this claim
+- [SEGUE-based simulation training with either AI-VSPs or traditional SPs: medical students' communication scores rose significantly from pre-test to post-test in within-group comparisons](segue-simulation-training-improves-communication-scores.md) — related

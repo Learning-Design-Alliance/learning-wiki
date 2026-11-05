@@ -54,6 +54,8 @@ The review recommends curricular innovations that embed nutrition across all yea
 - [Spiral, phased integration of gerodontology content across all curriculum phases with regular assessment](spiral-phased-gerodontology-integration.md)
 - [Integrate nutrition-related competencies horizontally and vertically and teach them in practical teaching formats from the start of studies through specialist training](horizontal-vertical-nutrition-competency-integration.md)
 - [Teach the missing nutrition-counselling topics in communication courses or culinary medicine programs, and deepen breastfeeding counselling in mandatory paediatric specialist training](targeted-courses-for-nklm-nutrition-gaps.md)
+- [Anchor oral-health content longitudinally across the medical curriculum with a learning spiral and interdisciplinary formats](learning-spiral-oral-health-curriculum-integration.md)
+- [Implement comprehensive nutrition education from the undergraduate level, coupled with continuing professional development and interprofessional collaboration](undergraduate-nutrition-education-oncology-nurses.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Post-survey item administered after perception ratings, with students not told a
 - [Students oppose preferring AI videos over instructor-recorded videos and distrust AI video information as much as human-presented information](students-oppose-ai-videos-replacing-instructors.md) — related
 - [Students view AI videos as appropriate for simple, visualizable, and supplemental learning contexts but inappropriate for complex, subjective, or interactive ones](students-contextualize-ai-video-appropriateness.md) — related
 - [Computing students rate short AI-generated Markdown videos favorably across quality, comprehension, and accuracy dimensions](students-rate-ai-markdown-videos-favorably.md) — related
+- [Student preference for the AI role-play over other teaching methods was variable, with a third disagreeing or neutral](ai-roleplay-preference-variability.md) — related

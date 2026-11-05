@@ -50,3 +50,4 @@ Expert evaluation by ten laparoscopic surgeons using a 15-item questionnaire wit
 - [Weisser et al. 3D-printed pediatric MIS curriculum: expert surgeons outperformed residents on all tasks with high interrater reliability](susiped1-experts-outperform-residents.md) — related
 - [The SAW model shows construct validity and good correlation (0.87) between simulated and operating-room laparoscopic ventral/incisional hernia repair performance](saw-model-construct-validity-and-or-correlation.md) — related
 - [Expert review confirmed strong content validity of the Salus-Ed questionnaire items](salus-ed-content-validity.md) — related
+- [Expert surgeons rate Fix4Life as a valuable training modality, with no significant between-procedure differences after Bonferroni adjustment](experts-rate-fix4life-valuable-training-modality.md) — related

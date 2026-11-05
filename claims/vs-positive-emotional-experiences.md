@@ -70,3 +70,4 @@ Synthesized finding from the meta-synthesis of 17 qualitative studies, drawing o
 - [Nursing students report emotional responses of inadequacy, low motivation, low self-confidence and fear during clinical practice](emotional-responses-inadequacy-low-motivation-fear.md) — reports the opposite
 - [Simulation-based BLS training evokes strong emotional engagement and builds nursing students' confidence through repeated practice in a safe, mistake-tolerant environment](simulation-bls-emotional-engagement-confidence.md) — related
 - [The placement acted as a safe space fostering self-efficacy, intellectual humility, and uncertainty tolerance](anatomy-ems-safe-space-personal-development.md) — related
+- [Medical students found curriculum-aligned digital escape rooms exciting, engaging, and motivating in a pilot implementation](escape-rooms-exciting-medical-students.md) — related

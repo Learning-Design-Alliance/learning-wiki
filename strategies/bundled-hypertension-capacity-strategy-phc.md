@@ -44,6 +44,7 @@ The article recommends a multicomponent capacity-building strategy for PHC worke
 
 - [Design CPD programs with hands-on skill development, ongoing reinforcement, and integration into workplace protocols](cpd-hands-on-skills-reinforcement-protocol-integration.md)
 - [Establish institutional supports — standardized MDT protocols, guidelines access, and regular wound care training — to translate knowledge into practice](institutional-mdt-protocols-and-training-strategy.md)
+- [Cascading training model from tertiary specialists to primary care physicians and community health workers for MASLD screening](cascading-masld-training-model.md)
 
 ## Examples
 -

@@ -74,3 +74,4 @@ The review's challenges synthesis (RQ2, Table 2) codes challenges to learners (d
 - [Educational programs incorporating realistic simulations, virtual technologies, and interprofessional exercises are most effective in improving technical skills, confidence, and crisis management](rea-36-studies-simulation-virtual-interprofessional-most-effective.md) — related
 - [Controller-operation difficulty was the most commonly reported challenge and may have impeded immersion](ncpr-vr-controller-difficulty-feedback.md) — related
 - [Conventional OSCEs face systemic limitations including restricted clinical scenario range, reliability concerns, and high preparation burden](conventional-osce-systemic-limitations.md) — related
+- [Technology-enhanced experiential methods (e.g., CGM wear, virtual patient care) improve knowledge and self-efficacy but face cost and scalability constraints](tech-experiential-positive-but-scalability-limited.md) — related

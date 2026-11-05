@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2020
+recheck_by: 2023
 sources:
   - id: gervet-et-al-2020
     resource: "https://doi.org/10.5281/zenodo.4143614"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2` · n=9 tutoring-system datasets
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2023**: tool and model accuracy changes quickly
 
 A knowledge-component (KC) model tags each question with the skills or concepts it exercises; adaptive systems use it to decide what a learner has mastered. The finding concerns the KC models that came with these datasets, not KC modelling in general.
 

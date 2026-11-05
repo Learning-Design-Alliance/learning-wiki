@@ -102,3 +102,4 @@ The review reports, citing Chevalier and Blaye (2016), a study recording gaze po
 - [Bilinguals may have a specific advantage in transferring understanding of novel symbolic rules to new contexts](bilingual-transfer-novel-symbolic-rules.md) — related
 - [Experimental studies report transfer of training across diverse operations, from sensory discrimination to memorizing](transfer-of-training-diverse-operations-review.md) — related
 - [Four weeks of cognitive training produced larger increases in growth mindset in children than business-as-usual schooling](cognitive-training-increases-growth-mindset-children.md) — related
+- [The untrained control group improved substantially from repeated exposure to the assessment tasks, which may have underestimated differences between structured and unstructured training](control-group-improvement-repeated-exposure.md) — related

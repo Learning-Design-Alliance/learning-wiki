@@ -68,7 +68,7 @@ Section 8 calibration analysis with reliability diagrams binned by predicted and
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| Theophile Gervet 2020 | q2 · design · r2 | i? | this claim |
+| [Theophile Gervet 2020](https://doi.org/10.5281/zenodo.4143614) | q2 · design · r2 | i? | this claim |
 | [Kirk Vanacore 2026](https://doi.org/10.48550/arxiv.2602.19303) | q2 · review · r2 | i? | [Emerging evidence indicates generative AI tutors currently struggle to accurately infer st](genai-tutors-struggle-infer-student-knowledge.md) (supports) |
 | [Jaewook Kim 2026](https://doi.org/10.48550/arxiv.2605.04727) | q2 · causal · r2 | i? | [Failing to sort student attempt sequences by ServerTimestamp violates temporal causality a](pkt-temporal-causality-violation-inflates-performance.md) (supports) |
 | [Lu 2024](https://doi.org/10.31219/osf.io/3k7z2) | q3 · design · r2 | i2 | [The proposed Transformer-based framework achieved first place in the EDM Cup 2023 with an ](transformer-kt-first-place-edm-cup-2023.md) (qualifies) |

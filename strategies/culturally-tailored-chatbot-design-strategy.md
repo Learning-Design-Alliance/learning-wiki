@@ -47,6 +47,7 @@ The authors recommend designing AI chatbot applications differently across cultu
 - [Position AI chatbots for relatedness as companions that normalize help-seeking and connect students to human communities, not substitutes for them](ai-relatedness-companion-not-substitute-strategy.md)
 - [Use background-characteristic evidence to decide when and for whom to deploy game-based learning and whether to tailor instruction](tailor-game-based-learning-to-student-background.md)
 - [Adapt RaT curricula to local cultural, institutional, and workforce characteristics rather than directly adopting Western-designed programs](contextually-adapted-rat-program-design.md)
+- [Adapt and tailor the triage simulation across program stages, modalities, and cohort needs](adapt-tailor-triage-simulation-blueprint.md)
 
 ## Examples
 -

@@ -57,3 +57,4 @@ The scoping review's thematic synthesis of empirical studies (RQ3) reports this 
 - [Stress, anxiety, and depressive symptoms show predominantly negative associations with academic performance in medical students](stress-anxiety-depression-negative-association-medical-students.md) — a narrower finding that bears on this claim
 - [Lower academic achievement is associated with higher odds of mental distress among Ethiopian university students](mental-distress-associated-lower-gpa-ethiopia.md) — related
 - [Stress shows inconsistent relationships with academic performance in rehabilitation science students](stress-inconsistent-relationship-academic-performance.md) — related
+- [Academic stress negatively predicts academic achievement among medical master's students](academic-stress-negative-predictor-medical-postgraduates.md) — related

@@ -52,3 +52,4 @@ The research team's synthesis of cited literature identified four oral diseases 
 - [Popular or fad diets restrict food choices and are often energy- and nutrient-deficient](popular-fad-diets-nutrient-deficient.md) — related
 - [Chronic inflammation secondary to obesity is associated with an increased risk of periodontal disease](obesity-inflammation-periodontal-disease-risk.md) — related
 - [Oral dysfunction leads to modification of food choices with implications for energy and nutrient intakes and risk of malnutrition](oral-dysfunction-modifies-food-choices-malnutrition-risk.md) — related
+- [Nurses generally identified correct diet–disease associations, linking high fat intake with cardiovascular disease and excessive sugar with diabetes](nurses-diet-disease-associations.md) — related

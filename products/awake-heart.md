@@ -25,7 +25,7 @@ Awake Heart is a free educational virtual-reality anatomy application that teach
 ### Claims
 
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](../claims/immersion-principle-no-vr-benefit.md) [~W]
-- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected](../claims/immersion-cost-benefit-transfer-motivation.md) [~W]
+- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation, with no significant effect on retention](../claims/immersion-cost-benefit-transfer-motivation.md) [~W]
 
 ## Related Products and Programmes
 

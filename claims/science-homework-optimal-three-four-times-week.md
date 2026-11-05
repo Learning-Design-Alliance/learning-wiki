@@ -50,3 +50,4 @@ Results from the multivariate Bayesian Causal Forests analysis of the TIMSS 2019
 - [Students from advantaged socioeconomic backgrounds do not benefit significantly more from homework than their peers in eighth grade](ses-does-not-moderate-homework-benefit-eighth-grade.md) — related
 - [Homework frequency is more important than homework duration for improving eighth-grade mathematics and science achievement](homework-frequency-more-important-than-duration.md) — related
 - [SEM intervention frequency of two lessons per week is optimal; no significant effect above two lessons per week](sem-frequency-moderator.md) — related
+- [Psychological well-being shows an inverted U-shaped peak when learning frequency is 3 to 4 times per week](inverted-u-learning-frequency-wellbeing.md) — possibly the same claim (merge candidate)

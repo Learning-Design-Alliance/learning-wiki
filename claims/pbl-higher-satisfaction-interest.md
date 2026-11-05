@@ -54,3 +54,4 @@ Randomized controlled trial of 57 pharmacy students; Table 1 reports satisfactio
 - [Students taught with the 5E+AI model reported significantly higher learning interest, self-perceived communication competence, and course satisfaction](5e-ai-model-improved-self-report-questionnaire-dimensions.md) — related
 - [Students in the CBL group report higher satisfaction across all evaluated domains than the LBL group](cbl-higher-student-satisfaction.md) — related
 - [CBL is associated with improved learning interest and self-directed learning ability](cbl-improves-interest-self-directed-learning.md) — related
+- [PBL raises student satisfaction and learning interest, and both correlate positively with final overall academic performance](pbl-satisfaction-interest-correlate-performance.md) — possibly the same claim (merge candidate)

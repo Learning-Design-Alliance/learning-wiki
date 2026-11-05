@@ -82,3 +82,4 @@ Same five-run reliability analysis computed at the rubric-cell (item×student) l
 - [Large closed-weights LLMs show high test-retest reliability when scoring clinical summary statements across repeated runs](llm-high-test-retest-reliability-summary-statement-scoring.md) — related
 - [CAR 1.0 achieved good to excellent inter-rater reliability across all five key components (α = 0.836 to 0.973)](car-1-0-cronbach-alpha-reliability.md) — related
 - [Inter-run reliability of LLM performance on the EBHS examination was consistently high, with an overall mean Cohen's κ of 0.821 and no model falling below moderate agreement.](llm-ebhs-inter-run-reliability-high-kappa-0821.md) — related
+- [Assessment scoring standards remained stable across the four-year study period, with no significant inter-year score differences in either group](inter-year-score-stability-ebers-ish-assessment.md) — related

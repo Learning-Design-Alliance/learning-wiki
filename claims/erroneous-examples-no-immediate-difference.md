@@ -9,7 +9,7 @@ generated:
   at: 2026-10-16
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-10-19
+source_checked: 2026-11-05
 sources:
   - id: bruce-m-mclaren-deanne-m-adams-richard-e-mayer-2015
     resource: "https://doi.org/10.1007/s40593-015-0064-x"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2015 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Gain scores from pretest to immediate posttest showed only a marginally significant advantage for erroneous examples (p=.055, d=.22); the groups did not differ significantly on immediate testing. [→ Bruce M. McLaren & Deanne M. Adams & Richard E. Mayer 2015](#bruce-m-mclaren-deanne-m-adams-richard-e-mayer-2015)

@@ -57,6 +57,7 @@ The article recommends tailoring support to teacher profiles: "Cluster 3 require
 - [Differentiated, profile-matched university AI-readiness and career-education support instead of uniform AI-literacy programs](profile-differentiated-ai-career-education-support.md)
 - [Match scaffolding type to learners' prior professional knowledge level](match-scaffolding-type-to-prior-knowledge-level.md)
 - [Differentiate transition curricula by prior experience level, offering abbreviated foundational modules and extended advanced sessions for experienced practitioners](experience-differentiated-transition-pathways.md)
+- [Differentiate e-module design by achievement level: add spaced repetition and adaptive quizzes for low achievers and advanced case-based challenges for high achievers](differentiated-e-module-design-by-achievement-level.md)
 
 ## Examples
 -

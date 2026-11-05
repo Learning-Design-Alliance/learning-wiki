@@ -55,6 +55,7 @@ The article recommends that the demand for modern teaching methods observed amon
 - [Integrate structured reflection sessions like GGR into undergraduate clinical clerkships, especially where bedside exposure is limited](integrate-ggr-into-undergraduate-clerkships.md)
 - [Conduct bedside evidence-based nursing rounds during Year 4 clinical internships](bedside-ebp-nursing-rounds-strategy.md)
 - [Use virtual simulation games as a preliminary or complementary method to face-to-face simulation and clinical practice](vsg-as-preliminary-or-complementary-simulation.md)
+- [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
 
 ## Examples
 -

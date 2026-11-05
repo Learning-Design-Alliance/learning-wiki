@@ -50,7 +50,7 @@ This was a prospective, single-centre, quasi-experimental crossover study with 1
 ## Related Claims
 - [Delirium knowledge gains from simulation-based education were sustained over time in repeated-survey and delayed-assessment studies](sbe-delirium-knowledge-sustained-gains.md) — related
 - [Immersive lessons show a small effect size advantage over less immersive technology, but increased presence does not necessarily lead to more learning](immersive-lessons-small-advantage-presence-not-sufficient.md) — a broader claim this one bears on
-- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation while leaving retention unaffected](immersion-cost-benefit-transfer-motivation.md) — related
+- [Immersion in virtual reality adds extraneous load yet can boost transfer, enjoyment, and motivation, with no significant effect on retention](immersion-cost-benefit-transfer-motivation.md) — related
 - [Review syntheses: VR/AR most often improved academic achievement and motivation, but sometimes performed no better than conventional technologies](vr-ar-advantages-achievement-motivation-with-null-contrast.md) — a broader claim this one bears on
 - [Immersive VR simulation increased self-efficacy and intrinsic motivation more than a conventional safety manual in laboratory safety training](immersive-vr-boosted-self-efficacy-intrinsic-motivation.md) — related
 - [Knowledge transfer outcomes show the largest effect sizes of immersive procedural training (g = 1.80), while knowledge gain and retention effects are not significant](ivr-knowledge-transfer-largest-effect.md) — related
@@ -62,3 +62,4 @@ This was a prospective, single-centre, quasi-experimental crossover study with 1
 - [The Through the D'mentia Lens virtual reality simulation improved caregivers' empathy and confidence in caring](tdl-virtual-reality-improved-empathy-confidence.md) — related
 - [VR-based safety training enhances self-efficacy more effectively than traditional lecture-based training](vr-safety-training-enhances-self-efficacy.md) — related
 - [Simulation-based learning is associated with statistically significant improvements in self-efficacy, engagement (vigor, absorption, total), and empathy (compassionate care, total) among undergraduate physiotherapy students, with small effect sizes](sbl-improves-self-efficacy-engagement-empathy-pt-students.md) — related
+- [Simulation-based role-play was associated with larger self-reported gains in empathy, understanding emotional responses, and responding to emotional cues than lecture-based training](simulation-larger-emotional-communication-gains.md) — related

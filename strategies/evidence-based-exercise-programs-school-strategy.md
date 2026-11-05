@@ -48,6 +48,7 @@ The review recommends implementing evidence-based physical education programs in
 
 - [Design physical activity interventions as continuous regular activity sustained over several weeks](continuous-regular-physical-activity-over-weeks.md)
 - [Embed 30-minute bouts of structured physical activity, especially open-skill team games, into primary-school routines to support short-term memory](30-min-school-exercise-bouts-for-stm.md)
+- [Combine sleep hygiene education and physical activity promotion in campus student support programs](campus-sleep-hygiene-pa-combined-strategy.md)
 
 ## Examples
 -

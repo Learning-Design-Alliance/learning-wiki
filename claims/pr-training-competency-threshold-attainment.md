@@ -51,3 +51,4 @@ In the same pre-post cohort, the proportion reaching the pre-specified 80% knowl
 - [Few participants in either group reached high accuracy cut-offs on the final FMA-LE test](fma-le-cutoff-pass-rates-low.md) — related
 - [Knowledge scores rose significantly from pre-training to post-training after a short pulmonary rehabilitation training program among primary care physiotherapists and AEPs, in a single-group pre-post study](pr-training-improves-knowledge-primary-care-clinicians.md) — related
 - [Exercise capacity assessment, exercise prescription, and patient education showed the most clinically meaningful shifts](pr-training-largest-gains-core-delivery-competencies.md) — related
+- [After a peer-led workshop, the proportion of students classified as high knowledge rose from 41.9% at pre-test to 86.0% at post-test in one uncontrolled pre-post study](knowledge-category-shift-after-peer-led-workshop.md) — related

@@ -48,7 +48,7 @@ ANCOVA on weekly formative quiz scores for three intact class sections (N = 90),
 ## Related Claims
 - [Technology acceptance did not differ between Mentimeter and AhaSlides QBI conditions](no-platform-difference-tam.md) — related
 - [QBI conditions showed significantly higher learning engagement, perceived interaction, and course satisfaction than the control, with large effect sizes and no differences between platforms](qbi-engagement-interaction-satisfaction-gains.md) — related
-- [Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics without harming learning of current material](spaced-recall-improves-posttest-without-harming-new-learning.md) — related
+- [Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics, with no significant difference on the exam covering current material](spaced-recall-improves-posttest-without-harming-new-learning.md) — related
 - [The formative-assessment-embedded group retained higher NOS and SK scores than the control group on a retention test four weeks after the intervention](formative-assessment-embedded-explicit-reflective-higher-retention-nos-sks.md) — related
 - [Generative retrieval improves anatomy knowledge retention in anaesthesiology residents at one week and one month](generative-retrieval-improves-anatomy-retention-residents.md) — related
 - [Weekly pre-test scores showed no significant treatment-control differences in eight of ten weeks; control scored higher in the first two weeks (p<.05)](equity-pedagogy-pretest-equivalence-eight-of-ten-weeks.md) — related

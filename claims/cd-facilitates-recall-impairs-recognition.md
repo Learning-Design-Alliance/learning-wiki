@@ -9,6 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: weak
 newest_evidence: 2017
+source_checked: 2026-11-05
 sources:
   - id: jones-2017
     resource: "https://doi.org/10.1016/bs.plm.2017.03.008"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In episodic memory tasks, higher contextual diversity is associated with better recall but worse recognition performance. [→ Jones 2017](#jones-2017)

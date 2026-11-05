@@ -47,3 +47,4 @@ Validity evidence for consequences; the standard resulted in two false positives
 ## Related Claims
 - [A mean-classification cut-score method outperformed a contrasting-groups-style mean method because it was more robust to outliers](mean-classification-cut-score-method-robust.md) — related
 - [The pass/fail standard produced false positives and a false negative, possibly because the simulator recognizes a specific fixed pathway](foi-test-false-positives-fixed-pathway-limitation.md) — related
+- [A Contrasting Groups' Method pass/fail standard of 34.0 points completely discriminated between novices and experienced surgeons, with no false positives or false negatives](cgm-cut-score-34-complete-discrimination-drf.md) — related

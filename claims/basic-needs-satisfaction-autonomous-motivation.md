@@ -9,7 +9,7 @@ generated:
   at: 2026-10-19
 evidence_strength: moderate
 newest_evidence: 2023
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 sources:
   - id: detlef-urhahne-lisette-wijnia-2023
     resource: "https://doi.org/10.1007/s10648-023-09767-9"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q3`
-> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Basic psychological need satisfaction is positively associated with autonomous forms of motivation; the need for competence most strongly predicted intrinsic and identified motivation. [→ Detlef Urhahne · Lisette Wijnia 2023](#detlef-urhahne-lisette-wijnia-2023)

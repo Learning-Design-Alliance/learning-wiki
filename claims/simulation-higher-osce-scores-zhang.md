@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2022
+source_checked: 2026-11-05
 sources:
   - id: mcinerney-niall-2022
     resource: "https://www.egms.de/en/journals/zma/2022-39/zma001572.shtml"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across two year groups, the mean score for 16 OSCE stations was significantly better for students who had undergone simulation training than for the didactic lecture group. [→ McInerney Niall 2022](#mcinerney-niall-2022)
@@ -55,3 +56,5 @@ Narrative review attributing this to Zhang et al.'s study in which students were
 - [OSCE results validate improvements in technical accuracy and patient communication after training](osce-validates-bpm-skill-improvement.md) — a narrower finding that bears on this claim
 - [Case-based learning combined with multidisciplinary team teaching yields superior OSCE clinical skills scores, particularly in treatment planning and doctor-patient communication, but not in physical examination.](cbl-mdt-superior-osce-clinical-skills-treatment-planning-communication.md) — related
 - [Facilitated interactive video and simulation-based training produce no statistically significant difference in 3-week BLS OSCE performance when both follow the same standardized lecture](bls-video-vs-simulation-osce-no-difference.md) — related
+- [CBME-aligned e-modules added to lectures improved first-year medical students' performance at all four assessed Bloom cognitive levels compared with lectures alone](e-modules-improve-all-cognitive-levels-medical-students.md) — related
+- [E-modules improved first-year medical students' psychomotor (OSCE manipulation) performance compared with lectures alone](e-modules-improve-psychomotor-osce-performance.md) — a narrower finding that bears on this claim

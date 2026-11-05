@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2012
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: k-thiyagu-2012
     resource: "https://eric.ed.gov/?id=EJ1102329"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2012 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Experimental-group students outperformed control-group students in gain scores, a statistically significant difference at the 5% level. [→ K. Thiyagu 2012](#k-thiyagu-2012)
@@ -64,3 +64,4 @@ Two equivalent-group quasi-experiment with 20 students per group matched on pre-
 - [Cooperative learning produced higher General Science posttest achievement than traditional teaching among 9th-grade students](cooperative-learning-higher-general-science-achievement.md) — related
 - [Cooperative learning improves course exam achievement more than lecture teaching in college Comprehensive English classes](cooperative-learning-improves-course-exam-achievement-college.md) — related
 - [Students engage more and retain greater knowledge through active participation than lecture-based teaching, per trials the article cites](active-participation-beats-didactic-bedside.md) — related
+- [Knowledge retention measured 4 weeks after instruction is higher for topics learned through self-directed learning than for topics learned through didactic lecture](sdl-four-week-retention-exceeds-didactic-lecture.md) — related

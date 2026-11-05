@@ -28,7 +28,7 @@ sources:
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
-`q2 i?` In dyads with high joint on-task engagement high in equality and mutuality, one student showed substantial conceptual change from pre-test to post-test while the other showed none. [→ Tao 1997](#tao-1997)
+`q2 i?` In dyads with high joint on-task engagement high in equality and mutuality, one student showed substantial conceptual change after instruction while the other showed none (Sam at post-test; Nigel showed no change at post-test but substantial change at the final interview). [→ Tao 1997](#tao-1997)
 
 ## Evidence
 

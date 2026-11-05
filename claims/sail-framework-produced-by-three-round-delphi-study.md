@@ -55,3 +55,4 @@ Delphi expert-consultation study conducted in Aotearoa New Zealand with three su
 - [In the first Delphi round, 12 of 22 potential competencies received unanimous endorsement and 10 required revisions based on expert feedback.](delphi-first-round-12-unanimous-10-revised.md) — related
 - [The expert panel proposed 68 initial competencies divided into psychological foundations, psychiatric disorders, and systems-based practice.](68-initial-competencies-three-categories.md) — related
 - [The ICO-OCEX achieved strong content validity through a modified Delphi technique with expert consensus on all 33 items](ico-ocex-content-validity-delphi-consensus.md) — related
+- [Expert panel consensus (seven experts, ≥80% agreement rule) endorsed the refined EA framework structure](expert-consensus-ea-framework.md) — related

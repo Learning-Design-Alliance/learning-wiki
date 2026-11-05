@@ -9,7 +9,6 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-11-03
 sources:
   - id: uçar-2015
     resource: "https://eric.ed.gov/?id=EJ1057374"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2015 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A paired-samples t-test found a statistically significant pretest-to-posttest improvement in the experimental group taught with corpus-based concordancing activities (t(14)=-4.481, p<.005), with means rising from 31.87 to 65.93. [→ Uçar 2015](#ucar-2015)

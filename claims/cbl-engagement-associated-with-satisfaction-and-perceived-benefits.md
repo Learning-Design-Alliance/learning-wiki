@@ -57,3 +57,5 @@ Chi-squared tests on survey data from 327 students compared perceptions across f
 - [Residents in the modified Peyton group report higher teaching satisfaction across all surveyed dimensions](modified-peyton-higher-satisfaction.md) — related
 - [Case-based learning combined with multidisciplinary team teaching yields significantly higher satisfaction rates across learning interest, clinical thinking, team collaboration, and communication skills dimensions.](cbl-mdt-higher-satisfaction-rates-competency-domains.md) — related
 - [Most students agreed TBL enhanced critical thinking, engagement, accountability, and conceptual understanding, but only about half wanted TBL extended to other modules.](tbl-positive-feedback-mixed-acceptability.md) — related
+- [PBL raises student satisfaction and learning interest, and both correlate positively with final overall academic performance](pbl-satisfaction-interest-correlate-performance.md) — related
+- [First-year medical students reacted positively to the e-modules and preferred them as a supplement to, not a replacement for, traditional teaching](students-prefer-e-modules-as-supplement.md) — related

@@ -52,3 +52,4 @@ A randomized controlled trial with 275 fourth-year undergraduate dental students
 - [OER-based blended learning with Quipper School raised relevance and confidence motivation significantly higher than face-to-face classroom learning](oer-blended-quipper-relevance-confidence.md) — related
 - [The ARCS + BOPPPS blended learning model significantly improves practical skills, innovative ability, and overall comprehensive competency but not theoretical knowledge](arcs-boppps-blended-model-improves-competencies-not-theoretical-knowledge.md) — related
 - [BOPPPS-based blended teaching produces significantly higher overall course scores than traditional lecture-based teaching](boppps-higher-overall-course-scores.md) — related
+- [Virtual simulation trainees scored higher medians on motivation and satisfaction questionnaires, with only the Confidence dimension borderline significant](virtual-simulation-higher-motivation-satisfaction-medians.md) — related

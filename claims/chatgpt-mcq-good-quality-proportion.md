@@ -53,3 +53,4 @@ Cross-tabulation of difficulty and discrimination indices against established th
 - [Faculty-generated SBMCQs showed superior discrimination indices and distractor effectiveness compared with ChatGPT-generated SBMCQs](faculty-sbmcqs-superior-discrimination.md) — reports the opposite
 - [Human-edited GenAI-assisted items achieved plausible difficulty: mean difficulty index did not differ significantly and more GenAI-assisted items fell in the acceptable difficulty range](genai-mcq-plausible-difficulty.md) — related
 - [ChatGPT-generated SBMCQs skewed easier than faculty-generated SBMCQs, whose difficulty was predominantly in the appropriate range](chatgpt-sbmcqs-easier-difficulty-index.md) — reports the opposite
+- [Item difficulty ranged broadly (completion rates 0.05–0.90) and discrimination ranged 0.14–0.60, with UI-related and navigation-heavy tasks showing particularly good discrimination](specific-ic-item-difficulty-discrimination-range.md) — related

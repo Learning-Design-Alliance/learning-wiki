@@ -41,7 +41,7 @@ Given the pervasive influence of digital misinformation, the article recommends 
 
 - [Internet is the primary source of vaccine information for most NICU parents](../claims/internet-primary-vaccine-information-source-nicu-parents.md) [+W]
 - [Self-rated scores for Vaccine Opposition, Strategies to Avoid Vaccination, and Legitimation of Hesitancy decreased from pre-test to post-test in one group after NETM.](../claims/netm-decreases-opposition-avoidance-legitimation.md) [+W]
-- [NETM intervention reduces vaccine hesitancy among NICU parents across all VOS subscales](../claims/netm-reduces-vaccine-hesitancy-nicu-parents.md) [+W]
+- [NICU parents' self-rated vaccine attitudes improved on all four Vaccine Opposition Scale subscales after NETM, in one uncontrolled pre-post study](../claims/netm-reduces-vaccine-hesitancy-nicu-parents.md) [+W]
 - [All NICU parents in the sample were willing to receive structured, evidence-based vaccine information](../claims/parents-willing-receive-structured-vaccine-information.md) [+W]
 - [Self-rated belief in vaccine benefit scores rose from pre-test to post-test after NETM, in one uncontrolled pre-post study](../claims/netm-increases-belief-vaccine-benefit.md) [+W]
 - [Baseline vaccine perceptions show low confidence and side-effect concerns among NICU parents](../claims/baseline-low-confidence-side-effect-concerns.md) [~W]

@@ -50,3 +50,5 @@ End-of-course OSCE history-taking station in the RCT: "6.5 ± 1.5 for the AI-VSP
 - [AI-VSP teaching of history-taking skills achieves learning outcomes not significantly different from conventional SP in a randomized controlled trial](ai-vsp-non-inferior-to-sp-history-taking.md) — a broader claim this one bears on
 - [Both AI-VSP and SP groups improved significantly from pre-test to post-test, with no significant difference in score improvement between groups](ai-vsp-sp-post-test-improvement-similar.md) — related
 - [Student satisfaction did not differ significantly between AI-VSP and SP groups](ai-vsp-sp-satisfaction-similar.md) — related
+- [AI-VSP and traditional SP training show no significant difference in SEGUE Process scores or individual dimension scores](no-group-difference-process-segue-scores.md) — related
+- [SEGUE-based simulation training with either AI-VSPs or traditional SPs: medical students' communication scores rose significantly from pre-test to post-test in within-group comparisons](segue-simulation-training-improves-communication-scores.md) — related

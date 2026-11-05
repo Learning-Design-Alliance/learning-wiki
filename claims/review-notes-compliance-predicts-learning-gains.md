@@ -38,7 +38,7 @@ Lallé, S., Mudrick, N., Conati, C., Taub, M., Azevedo, R. (2017). On the Influe
 
 `q3 · i3` · `associational · r1`
 
-Same multiple linear regression over explicit compliance rates in the 28-student MetaTutor user study. The review notes prompt showed a significant main effect, "F1,20 = 7.43, p=.013, ηp2 =.16", an effect size in the paper's medium-to-large range (ηp2 ≥ 0.13).
+Same multiple linear regression over explicit compliance rates in the 28-student MetaTutor user study. The review notes prompt showed a significant main effect, "F1,20 = 7.43, p=.013, ηp2 =.16", an effect size the paper's own thresholds class as medium (medium for ηp2 ≥ 0.13, large for ηp2 ≥ 0.26).
 
 > "Review notes (F1,20 = 7.43, p=.013, ηp2 =.16), shown Fig. 2b."
 

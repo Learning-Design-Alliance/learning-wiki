@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2013
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: behjat-2013
     resource: "https://eric.ed.gov/?id=EJ1068891"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2013 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After three months, gain scores on the same TOEFL reading test differed significantly across the four gender-by-condition groups (one-way ANOVA, F(3,58) = 48.742, sig. = .000); Scheffé post hoc tests showed the blog-collaboration groups gained more than the individual print-reading groups (mean gains 4.00 and 4.44 against 1.57 and 2.04), with no significant gender difference within either condition. [→ Behjat 2013](#behjat-2013)

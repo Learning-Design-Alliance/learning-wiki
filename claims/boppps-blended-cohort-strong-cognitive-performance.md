@@ -51,3 +51,4 @@ Cross-sectional observational study of postgraduate students at a single institu
 - [BOPPPS-based blended teaching produces significantly higher overall course scores than traditional lecture-based teaching](boppps-higher-overall-course-scores.md) — related
 - [Comprehensive problem-solving ability improvement differentiates cognitive performance in lower decision tree branches](problem-solving-ability-decision-tree-lower-branches.md) — related
 - [Attitudinal factors (interest in major, optimism about prospects, campus adaptation) are associated with cognitive performance level](attitudinal-factors-associated-cognitive-performance.md) — related
+- [Most students in the experimental group reported positive perceptions of the examination-aligned blended teaching model](student-satisfaction-blended-exam-aligned.md) — related

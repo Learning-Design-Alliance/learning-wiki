@@ -9,7 +9,7 @@ generated:
   at: 2026-10-19
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 sources:
   - id: katrin-schuessler-2026
     resource: "https://doi.org/10.1007/s10648-025-10105-4"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Intervention groups without prompting perceive the tasks as less difficult than prompting groups, and prior knowledge influences perceived difficulty regardless of group. [→ Katrin Schuessler 2026](#katrin-schuessler-2026)
@@ -77,7 +77,7 @@ Bayesian multilevel ordinal regression for invested mental effort (best-fitting 
 - [Perceived task difficulty correlates negatively with self-assessed understanding and with interest at essentially all measurement points, while interest and self-assessed understanding correlate positively throughout](difficulty-negative-interest-understanding-positive-correlations.md) — related
 - [Model-based posterior-prediction correlations between the four variables show distinct dynamic patterns across the 21 time points and four intervention groups](posterior-prediction-correlations-dynamic-across-groups.md) — related
 - [Students perceive collaborative physics tasks as less difficult after completing them](task-difficulty-decreases-after-collaborative-task.md) — related
-- [Drawing support increased rather than decreased perceived difficulty, indicating cognitive overload](drawing-support-increased-perceived-difficulty.md) — related
+- [Drawing support increased rather than decreased perceived difficulty, which the authors read as a hint of cognitive overload](drawing-support-increased-perceived-difficulty.md) — related
 - [Learners invest more mental effort in media they perceive as difficult, so multimedia should raise perceived demand characteristics](perceived-demand-drives-invested-mental-effort.md) — related
 - [High experienced effort-by-complexity is not necessarily indicative of better learning outcomes](high-effort-not-indicative-better-learning.md) — related
 - [Mental effort is more suitably modeled as a non-linear than linear predictor of learning outcomes in most re-analyzed studies](mental-effort-nonlinear-predictor-reanalyses.md) — related

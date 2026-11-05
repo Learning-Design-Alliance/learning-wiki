@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2024
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: zhang-shuai-long-2024
     resource: "https://doi.org/10.1186/s12909-024-06291-4"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i3` large
-> **Currency** · newest study 2024 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` In the network meta-analysis of 58 studies (5,427 students), CBL ranked most likely to enhance theoretical test scores (SUCRA 89.4%), and CBL (SMD = 1.19), PBL (0.71), SBL (0.69) and FC (0.69) each significantly outperformed LBL. [→ Zhang Shuai-Long 2024](#zhang-shuai-long-2024)

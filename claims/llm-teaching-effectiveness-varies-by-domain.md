@@ -9,7 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-19
+source_checked: 2026-11-05
 recheck_by: 2029
 sources:
   - id: zheng-li-2026
@@ -34,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-19 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Across six additional subjects, teaching outcomes rank Mathematics, History, and Politics strongest, Geography and Biology intermediate, and Physics and Chemistry weakest. [→ Zheng Li 2026](#zheng-li-2026)
@@ -79,3 +79,4 @@ Table 4 row for Qwen3-235B: accuracy changes of -6.30 in Chemistry and -5.65 in 
 - [Flipped classrooms benefit students in STEM subjects such as chemistry, engineering, mathematics, and physics less than students in other subjects](flipped-classroom-smaller-effects-stem-subjects.md) — related
 - [Stratified teaching positively affects all seven studied subjects, with larger effects in English, physics, and geography than in chemistry, biology, and mathematics](stratified-teaching-subject-effects-english-physics-geography.md) — related
 - [LLM performance was weakest in paediatric urology and testicular cancer and strongest in research methodology and andrology](llm-subspecialty-weaknesses-paediatric-urology-testicular-cancer.md) — a narrower finding that bears on this claim
+- [In this cohort, females scored significantly higher in Chinese, English, and Politics, whereas males outperformed females in Mathematics, Physics, Chemistry, Geography, and overall achievement](gender-gap-subject-grades-chinese-cohort.md) — related

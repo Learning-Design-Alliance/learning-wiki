@@ -58,3 +58,4 @@ Five-point Likert self-ratings (assigned −2 to +2) were collected before and a
 - [Knowledge scores declined significantly across all four assessed HMS/HBS domains after training](hms-hbs-knowledge-decline-all-four-domains.md) — reports the opposite
 - [Knowledge and skills decline significantly at 3 months after both training modalities](knowledge-and-skills-decline-significantly-at-3-months.md) — reports the opposite
 - [Pre-post self-assessments showed increases across all assessed competence domains, with larger gains for managing digital innovations than narrative communication](prepost-gains-larger-digital-than-narrative.md) — a narrower finding that bears on this claim
+- [Confidence retention at last follow-up was variable, with some technical steps showing limited retention without ongoing practice](neurosave-variable-retention-followup.md) — related

@@ -69,3 +69,4 @@ Same 5000-resample bootstrap analysis. The indirect path through basic psycholog
 - [Basic psychological need satisfaction is strongly associated with learning engagement among medical undergraduates](need-satisfaction-strongly-associated-learning-engagement.md) — related
 - [AI Prompting Literacy is indirectly and significantly associated with Deep Revision Engagement through Perceived Competence, Intrinsic Motivation, and Psychological Safety](apl-parallel-mediation-deep-revision.md) — related
 - [AI literacy directly and positively predicts learning engagement among university students](ai-literacy-predicts-learning-engagement.md) — related
+- [Teacher support indirectly relates to psychological well-being through the chain basic psychological needs → learning motivation, with a small supplementary effect](chain-mediation-teacher-support-wellbeing.md) — related

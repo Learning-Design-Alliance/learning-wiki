@@ -46,4 +46,4 @@ Quasi-experimental study of 240 junior secondary two students in three Nigerian 
 
 ## Related Claims
 - [Formative testing with feedback and remediation yields higher junior secondary mathematics achievement than feedback alone or test-only control](feedback-remediation-outperforms-feedback-only-math-jss.md) — related
-- [Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics without harming learning of current material](spaced-recall-improves-posttest-without-harming-new-learning.md) — related
+- [Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics, with no significant difference on the exam covering current material](spaced-recall-improves-posttest-without-harming-new-learning.md) — related

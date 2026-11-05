@@ -46,6 +46,9 @@ The authors recommend that training for beginners be dominated by theoretical le
 
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
 - [Exhaust the learning potential of one training modality before progressing to other modalities or supervised surgery](exhaust-modality-learning-potential-before-progression.md)
+- [Adapt and tailor the triage simulation across program stages, modalities, and cohort needs](adapt-tailor-triage-simulation-blueprint.md)
+- [Sequence laparoscopic training from box trainers and simulators with preset proficiency benchmarks before cadaver training](simulator-benchmarks-before-cadaver-training.md)
+- [Stratify embodied Tai Chi tasks by proficiency: simplified movements for beginners, autonomy in creation for advanced learners, paired practice for similar-ability peers](stratified-embodied-task-support.md)
 
 ## Examples
 -

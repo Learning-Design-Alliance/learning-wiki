@@ -53,3 +53,4 @@ Analysis of the same group's continued dialogue, where students distinguished re
 - [Students characterized their VR experience through a feeling of taking part in conversations, showing co-presence with the people in the film during collaborative reflection](feeling-of-taking-part-in-vr-conversations.md) — related
 - [Films with existential themes can serve as vehicles for Bildung in higher education](existential-films-vehicle-for-bildung.md) — related
 - [Personal, out-of-school experiences serve as real resources for sense making in classroom discussion](personal-experiences-as-classroom-learning-resources.md) — related
+- [Academic emotions exhibit distinct bodily signatures, with positive emotions producing widespread activation and negative emotions differing by type](academic-emotion-bsm-signatures.md) — related

@@ -51,3 +51,4 @@ Pre-exam two-way ANOVA on the quasi-experiment's baseline scores. Table 2 prints
 - [Before the intervention, male students scored significantly higher than female students on the English grammar pre-test](pretest-gender-difference-males-favor-grammar.md) — reports the opposite
 - [Male and female experimental and control students were homogeneous in reading comprehension before the treatment](pretest-homogeneity-blog-reading-study.md) — related
 - [No statistical gender difference appeared in pre-test or comparison scores in either control group](no-gender-difference-vocabulary-test-controls.md) — related
+- [Female students score higher on empathy than male students in both teaching groups before and after class](female-higher-empathy-both-groups.md) — related

@@ -6,14 +6,14 @@ description: Learners progress through levels of difficulty with personalized ch
 canonical: true
 status: review
 generated:
-  by: "claude/unspecified"
-  at: 2026-08-29
+  by: "process:article-ingest"
+  at: 2026-11-05
 ---
 
 # Adaptive Mastery Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 24 claims (15 for, 8 mixed, 1 against) · 34 studies (11 review, 9 causal, 7 quant-synthesis, 3 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 8 of 34 report an effect size · 20 claims rest on one study
+> **Evidence** · 25 claims (15 for, 9 mixed, 1 against) · 35 studies (11 review, 9 causal, 7 quant-synthesis, 3 qualitative, 3 theoretical, 2 design), `q1`–`q4` · 8 of 35 report an effect size · 21 claims rest on one study
 
 ## Description
 Adaptive mastery learning combines Bloom's mastery learning model — requiring demonstrated proficiency before advancing — with adaptive systems that adjust task difficulty, sequencing, and feedback to individual performance. The system continuously estimates what each learner knows and serves the next challenge at the frontier of their competence, advancing only when mastery criteria are met.
@@ -60,7 +60,7 @@ Adaptive mastery systems ensure that foundational gaps are closed before higher-
 - [Adaptive learning functions as the algorithmic engine that operationalizes personalized learning](../claims/adaptive-learning-engine-of-personalization.md) [+W]
 - [Learner engagement was strengthened when the AI tutor adapted to learners' pace and prior knowledge](../claims/ai-tutor-pace-adaptation-strengthened-engagement.md) [+W]
 - [Adaptivity to individual learners is the primary bottleneck for LLMs in KC path planning](../claims/adaptivity-bottleneck-llm-path-planning.md) [~W]
-- [Automated real-time feedback in an adaptive diagnostic ITS produced greater progression on a SOLO-based mathematics assessment than the same system without real-time feedback](../claims/real-time-feedback-its-solo-progression-advantage.md) [+W]
+- [Learners using an adaptive diagnostic ITS with automated real-time feedback showed greater progression on a SOLO-based mathematics assessment than learners using the same system without it](../claims/real-time-feedback-its-solo-progression-advantage.md) [+W]
 - [Removing explicit mastery information from learner profiles mainly degrades Adaptivity](../claims/mastery-information-needed-for-adaptivity.md) [+W]
 - [One pilot instructor reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed](../claims/socratic-test-faculty-differentiation.md) [+W]
 - [The review argues that the dominance of adaptive learning within AI integration undermines educational goals and limits student agency and creativity](../claims/adaptive-learning-dominance-limits-student-agency.md) [-W]
@@ -73,6 +73,7 @@ Adaptive mastery systems ensure that foundational gaps are closed before higher-
 - [Log analysis shows adaptive condition concentrates practice on unmastered concepts while random condition over-practices easy ones](../claims/bkt-adaptivity-log-practice-allocation.md) [+W]
 - [The student model rapidly adapts to a child's knowledge level, reaching the first key skill after about 148 tasks](../claims/rapid-adaptation-to-learner-knowledge-level.md) [+W]
 - [Difficulty adaptation significantly changed task correctness according to the strength and direction of adaptation (manipulation check)](../claims/difficulty-adaptation-manipulation-check-task-correctness.md) [~W]
+- [Knowledge-tracing mastery decisions are more equitable than fixed practice but can still under-serve some students when the learner model is fit to the aggregate population or makes wrong assumptions](../claims/knowledge-tracing-equity-depends-on-model-accuracy.md) [~W] — attached 2026-11-05 from Doroudi & Brunskill (2019), a simulation study: check that the mastery model's parameters suit each group of students, not only the population average.
 
 ## The evidence by question
 

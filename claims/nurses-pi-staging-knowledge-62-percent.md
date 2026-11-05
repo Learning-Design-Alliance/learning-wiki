@@ -53,3 +53,4 @@ Cross-sectional survey of 330 registered nurses in three Saudi tertiary hospital
 - [E-learning shows no statistically significant effect on nurses' pressure injury classification skills when scored as a binary outcome (pooled OR 1.75, p = 0.08)](elearning-no-significant-effect-classification-binary-outcome.md) — related
 - [Knowledge gains occurred in all three PZ-PUKT subdomains, with staging and wound description remaining comparatively weaker](knowledge-gains-all-pz-pukt-subdomains.md) — related
 - [Operating room nurses' total MDRPI knowledge scores rose from pre-test to post-test after hybrid PBL–simulation training in one uncontrolled pre-post study (Cohen's dz = 2.231)](pbl-simulation-training-increased-or-nurse-mdrpi-knowledge.md) — related
+- [Nurses in Türkiye demonstrate a moderate level of knowledge about pressure injury prevention, with a mean score of 43.00 out of 72 on the PZ-PIKT](turse-nurses-moderate-pi-knowledge-43-of-72.md) — related

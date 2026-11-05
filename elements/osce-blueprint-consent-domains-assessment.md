@@ -17,7 +17,7 @@ sources:
 # Blueprint-aligned OSCE station assessment for consent-taking skills
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A practical skills assessment for consent-taking consisting of OSCE stations whose content was 'blueprint-aligned to the four domains of informed consent' — capacity, communication, voluntary decision-making, and disclosure. Stations cover rapport building, procedure explanation, risk and benefit disclosure, capacity assessment, language barriers, family dynamics, alternatives, time-sensitive consent, and documentation, scored on standardized checklists with standardized patients.

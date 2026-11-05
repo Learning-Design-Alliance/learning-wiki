@@ -52,3 +52,4 @@ Dichotomous course feedback items from the same study; the article reports "87.1
 - [Most students said they would prefer to use the flipped classroom method as future teachers](flipped-classroom-future-teacher-preference.md) — related
 - [Student preference for CBL, PBL or TBL over traditional teaching was reported in 15 of 22 studies (68.1%), but only two studies used a controlled comparison with lecture](preference-over-lecture-15-studies-only-two-controlled.md) — a broader claim this one bears on
 - [Students valued teacher guidance (90%) and recommended continuation of the activity (93%)](pbl-scaffolding-teacher-guidance-continuation.md) — related
+- [Students received the new PBL oral-health content positively, with most judging PBL a suitable format](students-received-pbl-oral-content-positively.md) — related

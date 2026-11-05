@@ -77,3 +77,4 @@ Regression analysis of the same randomized exam data yielded a 0.90-point commun
 - [AI-assisted peer teaching improves OSCE performance, with the largest effect on clinical reasoning](ai-assisted-peer-teaching-osce-clinical-reasoning.md) — related
 - [AI-simulated patients improve gynecological history-taking checklist completion and reduce missed key items compared with instructor-led standardized patients](ai-simulated-patient-checklist-completion-gynecology.md) — related
 - [In the OSCE, the intervention group outperformed the control group most clearly in AI tool counselling and appropriate closing, contributing substantially to a two-point total difference](osce-largest-differences-ai-counselling-closing.md) — related
+- [E-modules produced the largest improvement in the affective domain (OSCE responding) of all assessed outcomes](e-modules-largest-affective-domain-gain.md) — related

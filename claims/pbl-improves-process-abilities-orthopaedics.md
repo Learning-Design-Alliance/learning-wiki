@@ -147,3 +147,4 @@ Meta-analysis of 8 RCTs (n=592), low heterogeneity (I2 =21%). Pooled odds ratio 
 - [Among newly recruited nurses, creativity scores rose from before to after a BOPPPS-PBL nursing innovation course in one uncontrolled pre-post study](boppps-pbl-course-creativity-increase.md) — a narrower finding that bears on this claim
 - [Both PBL formats improve knowledge versus conventional teaching](pbl-improves-knowledge-versus-conventional-teaching.md) — related
 - [Video-assisted PBL yields higher pediatric nursing knowledge than traditional PBL and conventional teaching](video-assisted-pbl-higher-pediatric-knowledge.md) — related
+- [A Kolb-based VR simulation program produces significantly greater improvement in problem-solving ability than e-book-based case simulation among nursing students](vr-experiential-simulation-improves-dka-problem-solving.md) — related

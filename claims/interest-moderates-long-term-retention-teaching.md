@@ -9,7 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-21
+source_checked: 2026-11-05
 sources:
   - id: lachner-2025
     resource: "https://doi.org/10.1007/s10648-025-10060-0"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Long-term retention after non-interactive teaching was moderated by interest in physics: low- and medium-interest, but not high-interest, students showed superior performance eight weeks later, explained by increased mental effort allocation. [→ Lachner 2025](#lachner-2025)

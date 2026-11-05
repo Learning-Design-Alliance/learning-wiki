@@ -9,7 +9,7 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 newest_evidence: 2022
-source_checked: 2026-10-15
+source_checked: 2026-11-05
 sources:
   - id: browning-2022
     resource: "https://eric.ed.gov/?id=ED655925"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2022 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` When teachers use culturally responsive pedagogies, students are more engaged, have more agency in their learning, and take more responsibility for seeking information, as the paper reports citing Glynn et al. (2010). [→ Browning 2022](#browning-2022)

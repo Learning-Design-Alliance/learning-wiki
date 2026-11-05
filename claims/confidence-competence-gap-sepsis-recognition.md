@@ -51,3 +51,4 @@ Cross-sectional survey of 221 practitioners; the conclusion states that "Self-re
 - [Pre-hospital practitioners in Qatar correctly identified overt sepsis (79.2%) far more often than they correctly determined sepsis was absent in an ambiguous scenario (33.5%)](qatar-prehospital-sepsis-scenario-accuracy-overt-vs-absent.md) — related
 - [Screening tool use among pre-hospital practitioners is predominantly reactive, applied only after sepsis is already suspected](reactive-confirmatory-sepsis-screening-use.md) — related
 - [Prenatal clinicians show a gap between TIC knowledge and practice despite favorable attitudes](tic-knowledge-practice-gap-prenatal-clinicians.md) — related
+- [Self‐assessed nutritional competencies did not correlate with actual nutritional knowledge, suggesting a mismatch between perceived and actual proficiency](self-assessment-knowledge-no-correlation.md) — related

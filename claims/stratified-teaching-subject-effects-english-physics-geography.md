@@ -52,3 +52,4 @@ Subject moderator analysis of the included studies (Table 3), covering seven sub
 - [Science-related subject areas (mathematics, science, medical science) show larger effects than programming technology and other fields](subject-area-moderates-cps-critical-thinking-effects.md) — related
 - [Scientific discipline does not significantly moderate PBL’s effect on secondary science achievement](pbl-discipline-moderator-no-significant-difference.md) — related
 - [Intervention effects did not differ between physics and English subjects](genai-srl-effects-no-subject-differences.md) — related
+- [In this cohort, females scored significantly higher in Chinese, English, and Politics, whereas males outperformed females in Mathematics, Physics, Chemistry, Geography, and overall achievement](gender-gap-subject-grades-chinese-cohort.md) — related

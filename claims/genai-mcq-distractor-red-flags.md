@@ -71,3 +71,4 @@ Co-occurrence analysis of negative-discrimination items and distractor red flags
 - [AI-generated assessment items frequently need faculty correction, supporting AI as a draft generator within quality assurance](genai-assessment-items-draft-generator-quality-assurance.md) — related
 - [GenAI-assisted items showed weaker corrected point-biserial discrimination and more negative discrimination than educator-crafted items](genai-mcq-weaker-discrimination.md) — related
 - [Participants scored significantly lower on human-edited GenAI-assisted MCQs than on educator-crafted MCQs, indicating GenAI-assisted items were not easier](genai-mcq-lower-total-scores.md) — related
+- [Factual MCQs are significantly more likely to be easy than clinical case-based MCQs, and absence of low-functioning distractors is inversely associated with item ease](factual-questions-easier-lfd-absence-inverse-ease.md) — related

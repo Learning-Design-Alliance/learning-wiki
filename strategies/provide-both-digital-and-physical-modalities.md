@@ -47,6 +47,7 @@ The article recommends offering complementary digital and physical resources in 
 ## Related Strategies
 
 - [Strengthen simulation-based training, clinical case exposure, and complication management in undergraduate prosthodontic education](simulation-training-clinical-exposure-veneer-education.md)
+- [Adapt and tailor the triage simulation across program stages, modalities, and cohort needs](adapt-tailor-triage-simulation-blueprint.md)
 
 ## Examples
 -

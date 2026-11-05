@@ -49,3 +49,4 @@ Mann-Whitney U test comparing post-test FLRAS scores by gender within the 20-stu
 - [Parents' educational level was not significantly related to post-training FLRA scores in the experiment group](parents-education-not-related-to-flra.md) — related
 - [High school type was significantly related to post-training FLRA scores, with Anatolian high school graduates most anxious and vocational graduates least anxious](high-school-type-related-to-flra.md) — related
 - [Reading strategy training was followed by a statistically significant increase in FLRA levels in the experiment group, while the control group's change was not significant](strategy-training-increased-flra-experiment-group.md) — related
+- [No significant gender differences were found across most variables, except procedural risk recognition, where male participants reported higher confidence](gender-differences-only-risk-recognition.md) — related

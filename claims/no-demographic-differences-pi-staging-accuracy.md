@@ -53,3 +53,6 @@ Bivariate analyses and ANOVA of the 330-RN cross-sectional sample found "No stat
 - [Nurses' mean accuracy in classifying pressure injury photographs was 62.04%, consistent with their knowledge scores](nurses-photo-based-pi-staging-accuracy-62-percent.md) — related
 - [Age group and staff position are the only demographic factors associated with significant growth in perceived competency, with registered nurses and nurses aged 30–34 showing the greatest gains](age-and-staff-position-moderate-competency-growth.md) — related
 - [No consistent significant differences in competency or caring scores across socio-demographic characteristics in univariate analyses](no-consistent-univariate-demographic-differences.md) — related
+- [Nurses' pressure injury knowledge scores were not significantly associated with gender, education level, role, experience, certification or age](pi-knowledge-demographics-null-associations.md) — related
+- [Previous reading or training on pressure injuries was not significantly associated with nurses' knowledge scores](pi-reading-training-not-associated-with-knowledge.md) — related
+- [Nurses in Türkiye demonstrate a moderate level of knowledge about pressure injury prevention, with a mean score of 43.00 out of 72 on the PZ-PIKT](turse-nurses-moderate-pi-knowledge-43-of-72.md) — related

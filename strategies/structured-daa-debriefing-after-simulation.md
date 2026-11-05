@@ -45,6 +45,7 @@ Each simulation session in the program paired 40 minutes of scenario execution u
 - [Debriefing](debriefing.md)
 - [Simulation Based Practice](simulation-based-practice.md)
 - [Scenario Based Training](scenario-based-training.md)
+- [Structured post-scenario debriefing after each simulation scenario](post-scenario-debriefing-triage-simulation.md)
 
 ## Examples
 -

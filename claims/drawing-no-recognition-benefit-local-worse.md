@@ -48,4 +48,4 @@ ANCOVA on recognition performance with prior knowledge as covariate in the four-
 - [All three drawing conditions scored better than the control condition on the drawing test and performed equally well](drawing-outperforms-control-drawing-test.md) — related
 - [Drawing conditions that were compared to control outperformed the read-only control condition on transfer performance](drawing-outperforms-control-transfer.md) — related
 - [Neither global nor local drawing support increased drawing quality, and local support significantly decreased it relative to unsupported drawing](drawing-support-did-not-increase-quality.md) — related
-- [Drawing support increased rather than decreased perceived difficulty, indicating cognitive overload](drawing-support-increased-perceived-difficulty.md) — related
+- [Drawing support increased rather than decreased perceived difficulty, which the authors read as a hint of cognitive overload](drawing-support-increased-perceived-difficulty.md) — related

@@ -23,7 +23,7 @@ A 21-item, five-point Likert-scale instrument developed by Kılınçarslan et al
 
 ### Claims
 
-- [NETM intervention reduces vaccine hesitancy among NICU parents across all VOS subscales](../claims/netm-reduces-vaccine-hesitancy-nicu-parents.md) [+W]
+- [NICU parents' self-rated vaccine attitudes improved on all four Vaccine Opposition Scale subscales after NETM, in one uncontrolled pre-post study](../claims/netm-reduces-vaccine-hesitancy-nicu-parents.md) [+W]
 
 ## Related Products and Programmes
 

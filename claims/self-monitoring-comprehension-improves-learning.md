@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r1`, 1 quant-synthesis `r?` · `q2`–`q4` · `i2` medium
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 > **Design limits** · Adimora et al. 2017: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 <!-- title before 2026-10-15: Self Monitoring Comprehension Improves Learning -->
 

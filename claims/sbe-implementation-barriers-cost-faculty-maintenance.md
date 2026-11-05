@@ -60,3 +60,4 @@ The review's synthesis of implementation barriers reported in Table 3 across the
 - [Key barriers to SBE implementation are lack of knowledge or training, lack of awareness of resources, limited time and resources, and limited institutional support](sbe-barriers-knowledge-time-institutional-support.md) — related
 - [Release time to lead SBE integration (mean 1.53) and fiscal resources for developing physical learning spaces (mean 1.98) received the lowest scores within resource readiness](scors-release-time-and-fiscal-resources-lowest.md) — related
 - [Conventional OSCEs face systemic limitations including restricted clinical scenario range, reliability concerns, and high preparation burden](conventional-osce-systemic-limitations.md) — related
+- [Technology-enhanced experiential methods (e.g., CGM wear, virtual patient care) improve knowledge and self-efficacy but face cost and scalability constraints](tech-experiential-positive-but-scalability-limited.md) — related

@@ -71,3 +71,4 @@ Review discussion of longitudinal limitations. The review states only 8 of 33 st
 - [CPR knowledge and technical skills remained at a sufficient level at 6-month and 1-year follow-ups, with refresher courses recommended](cpr-knowledge-skills-retention-follow-up.md) — related
 - [CPR skills deteriorate within three to six months without frequent practice or retraining](cpr-skills-decay-3-6-months.md) — related
 - [Technical and non-technical ACLS skills decline by 12 months post-training across all simulation groups](acls-skill-decline-at-twelve-months.md) — related
+- [Systematic review evidence indicates SBE supports skills and knowledge acquisition, with short-term retention holding up but long-term retention unresolved](sbe-supports-knowledge-skills-acquisition.md) — related

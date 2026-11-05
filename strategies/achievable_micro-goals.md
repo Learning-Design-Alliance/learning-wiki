@@ -74,6 +74,7 @@ Micro-goals work because perceived progress is one of the strongest drivers of m
 - [Chunking](../principles/chunking.md) — the content-side counterpart: micro-goals chunk the *task*, chunking chunks the *material*
 - [Mastery Learning](../elements/adaptive-mastery-learning.md) — a pattern in which micro-goals are gated by demonstrated competence
 - [Break large homework assignments into smaller, frequent, short-duration daily tasks](frequent-short-homework-tasks.md)
+- [Apply deliberate practice in microsurgery by setting measurable goals, deconstructing skills, planning practice time, and seeking expert guidance](apply-deliberate-practice-microsurgery-steps.md)
 
 ## Examples
 - **[Duolingo](https://www.duolingo.com)** — daily goals, streaks, and unit-by-unit progression turn language learning into a sequence of small, reliably achievable sessions; progress displays register each completion.

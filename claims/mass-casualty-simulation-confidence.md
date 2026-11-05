@@ -54,3 +54,5 @@ The review reports Strout et al.'s interprofessional mass casualty incident simu
 - [A fully online interprofessional disaster simulation produced higher interprofessional collaborative skills than in-person cohorts](online-interprofessional-disaster-simulation-higher-collaborative-skills.md) — related
 - [A structured educational intervention improved pediatric emergency nurses' mass casualty incident readiness](pediatric-mci-educational-intervention-improved-readiness.md) — related
 - [Educational programs incorporating realistic simulations, virtual technologies, and interprofessional exercises are most effective in improving technical skills, confidence, and crisis management](rea-36-studies-simulation-virtual-interprofessional-most-effective.md) — a broader claim this one bears on
+- [Postactivity student evaluations of the triage simulation were favorable](favorable-student-evaluations-triage-simulation.md) — related
+- [Students reported in open-ended responses that the simulation was positive and improved their interprofessional communication and confidence](student-open-ended-feedback-positive-simulation-experience.md) — related

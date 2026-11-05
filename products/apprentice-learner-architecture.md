@@ -6,14 +6,14 @@ description: A domain-general architecture and authoring framework by MacLellan 
 product_kind: framework
 status: review
 generated:
-  by: "process:settle-candidates"
-  at: 2026-10-27
+  by: "process:article-ingest"
+  at: 2026-11-05
 ---
 
 # Apprentice Learner Architecture
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (1 causal, 1 design), `q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (3 for, 2 mixed) · 4 studies (3 design, 1 causal), `q2` · 0 of 4 report an effect size · 5 claims rest on one study
 
 ## Description
 A domain-general architecture and authoring framework by MacLellan and Koedinger for creating teachable-agent tutors with learner models that can be trained across diverse instructional domains.
@@ -30,6 +30,8 @@ A domain-general architecture and authoring framework by MacLellan and Koedinger
 - [Apprentice learner models support efficient tutor authoring, more efficient than Example-Tracing with mass production](../claims/apprentice-learner-models-efficient-authoring.md) [+M]
 - [Apprentice learner models are domain-general: they learn expert models across eight tutor domains without specialized domain knowledge](../claims/apprentice-learner-models-domain-general.md) [+M]
 - [In SimStudent simulations across three math and science domains, interleaved-order curricula yielded as effective or more effective learning than blocked-order curricula](../claims/simstudent-interleaved-as-or-more-effective.md) [+M]
+- [Simulated learners can match human error rates overall while learning faster and making different kinds of errors than the students they model](../claims/simulated-learners-differ-from-humans-in-error-types.md) [~W] — attached 2026-11-05 from Weitekamp et al. (2020): Apprentice Learner agents compared with 117 students on a fractions tutor
+- [A computational model of learning reproduced the direction of two tutor A/B experiments without human training data, but not students' absolute performance](../claims/computational-learner-model-predicts-tutor-experiment-direction.md) [~W] — attached 2026-11-05 from MacLellan (2025), a preprint
 
 ## Related Products and Programmes
 -
@@ -38,3 +40,5 @@ A domain-general architecture and authoring framework by MacLellan and Koedinger
 - Andrew M. Olney, Stephen B. Gilbert, Kelly Rivers. (2021). Preface to the Special Issue on Creating and Improving Adaptive Learning: Smart Authoring Tools and Processes. International Journal of Artificial Intelligence in Education (2022) 32:1–3. https://doi.org/10.1007/s40593-021-00277-9
 - Christopher J. MacLellan & Kenneth R. Koedinger. (2022). Domain-General Tutor Authoring with Apprentice Learner Models. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-020-00214-2
 - Nan Li, William W. Cohen, Kenneth R. Koedinger. (2013). Problem Order Implications for Learning. Int J Artif Intell Educ. https://doi.org/10.1007/s40593-013-0005-5
+- Weitekamp, D., Ye, Z., Rachatasumrit, N., Harpstead, E., & Koedinger, K. (2020). Investigating differential error types between human and simulated learners. In Artificial Intelligence in Education (AIED 2020), LNCS 12163, 586-597. https://doi.org/10.1007/978-3-030-52237-7_47
+- MacLellan, C. J. (2025). Model human learners: Computational models to guide instructional design. arXiv preprint arXiv:2502.02456. https://doi.org/10.48550/arXiv.2502.02456

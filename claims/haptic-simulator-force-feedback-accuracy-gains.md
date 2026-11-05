@@ -63,3 +63,4 @@ Descriptive direction-of-effect synthesis across haptic simulator RCTs; the revi
 - [Simulation-based training should be incorporated into surgical curricula targeting novice learners](simulation-training-should-be-incorporated-into-curricula.md) — related
 - [Immediate feedback on incorrect operations and surgical step prompts are the most valued learning resources](cataract-vsim-feedback-prompts-most-valued.md) — related
 - [Observed group differences likely reflect the combined influence of modality, self-directed structure, feedback format, and instructor involvement, not VR technology alone](vr-acupuncture-confounded-comparison.md) — related
+- [Virtual simulation training reduced incisor mesiodistal bracket placement deviation compared with traditional training in a pilot RCT](virtual-simulation-reduced-incisor-mesiodistal-deviation.md) — related

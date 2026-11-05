@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: strong
 newest_evidence: 2012
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: lesaux-2012
     resource: "https://eric.ed.gov/?id=EJ992411"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q4` · `i2` medium
-> **Currency** · newest study 2012 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i2` The intervention significantly improved academic word mastery (d = 0.41) and word associations/depth of word knowledge (d = 0.22). [→ Lesaux 2012](#lesaux-2012)

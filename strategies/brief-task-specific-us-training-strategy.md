@@ -53,6 +53,7 @@ The article recommends a goal-directed, skill-focused curriculum using handheld 
 - [Planned future curricular changes: more ultrasound integration, in-situ simulations with interprofessional recruits, and a peer-to-peer medical education component](sbl-curriculum-future-directions-changes.md)
 - [Augmented Reality (AR) for Medical Education and Training](augmented-reality-ar-for-medical-education-and-training.md)
 - [Use a low-cost 3D-printed simulator to reduce financial barriers in ultrasound-guided procedural training](low-cost-3d-printed-models-for-us-training.md)
+- [Integrate voluntary handheld ultrasound practice into undergraduate eFAST curricula alongside digital self-study](integrate-handheld-ultrasound-practice-undergraduate-curriculum.md)
 
 ## Examples
 -

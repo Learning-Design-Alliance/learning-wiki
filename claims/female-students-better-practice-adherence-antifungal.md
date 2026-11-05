@@ -51,3 +51,4 @@ Logistic regression found gender was the only significant predictor of practice,
 - [Female students reported significantly higher empathic care intentions than male students, but the sex difference in empathy was not significant](sex-differences-empathic-care-intentions.md) — related
 - [Attitude partially mediates the relationship between knowledge and practice of antifungal stewardship](attitude-partially-mediates-knowledge-practice-antifungal.md) — related
 - [Female at-risk students had higher odds of passing than male students, but the gender effect became insignificant when advising was included in the model](gender-effect-passing-multicollinearity.md) — related
+- [SDL use and frequency of use differed significantly between male and female pharmacy students](gender-difference-sdl-use.md) — related

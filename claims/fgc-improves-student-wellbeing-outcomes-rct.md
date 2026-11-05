@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2016
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: argentin-et-al-2016
     resource: "https://eric.ed.gov/?id=ED567232"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
-> **Currency** · newest study 2016 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` At the end of the first year, FGC increased parental involvement as perceived by students, reduced their perception of teachers' hostility, improved self-efficacy about learning, and improved satisfaction about their school experience, with p-value < 0.05 and effect size > .20. [→ Argentin et al. 2016](#argentin-et-al-2016)

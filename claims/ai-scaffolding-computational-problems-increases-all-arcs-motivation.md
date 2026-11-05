@@ -56,3 +56,4 @@ Paired t-test comparing post-survey motivational means between conventional (Act
 - [Gamified educational robots increase all four learning-motivation dimensions (attention, relevance, self-confidence, satisfaction) in a STEM curriculum](gamified-robots-increase-stem-motivation.md) — a narrower finding that bears on this claim
 - [Learning-motivation subdimensions each positively predict creativity](motivation-subdimensions-predict-creativity.md) — related
 - [The ARCS + BOPPPS blended learning model significantly enhances student learning motivation across all four ARCS dimensions in Endodontics education](arcs-boppps-blended-model-enhances-learning-motivation.md) — related
+- [Virtual simulation trainees scored higher medians on motivation and satisfaction questionnaires, with only the Confidence dimension borderline significant](virtual-simulation-higher-motivation-satisfaction-medians.md) — related

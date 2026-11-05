@@ -100,6 +100,7 @@ Modeling works because it converts tacit expert knowledge into explicit, observa
 - [Train self-assessment and task-selection with video modeling examples before a self-regulated learning phase](video-modeling-examples-train-self-assessment-task-selection.md)
 - [Use the thinking loudly strategy to move students out of isolation and build self-expression during reading lessons](thinking-loudly-strategy-arabic-reading.md)
 - [Use TAPPS as a listening-partner procedure in which the solver verbalizes thoughts while the listener prompts without guiding](tapps-listening-partner-verbalization-procedure.md)
+- [Apply deliberate practice in microsurgery by setting measurable goals, deconstructing skills, planning practice time, and seeking expert guidance](apply-deliberate-practice-microsurgery-steps.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — the observable-performance component; modeling adds the reasoning narration

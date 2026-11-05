@@ -55,3 +55,4 @@ One-way ANOVA by educational level in the quantitative phase (N = 302). The arti
 - [Higher educational attainment is associated with more positive evaluations of international cooperation efforts](education-level-internationalization-perceptions.md) — related
 - [AI tool usage patterns differed by academic level](ai-usage-patterns-differ-by-level.md) — related
 - [Teacher quality covariates are significant only at specific levels: Master's degree share at middle and high schools, experience at elementary schools](teacher-quality-covariate-pattern.md) — related
+- [Higher formal education was not associated with better nutritional knowledge; Bachelor's degree holders scored significantly worse than university‐diploma holders](education-not-linked-to-nutrition-knowledge.md) — related

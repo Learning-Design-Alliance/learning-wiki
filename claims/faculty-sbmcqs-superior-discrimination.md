@@ -57,3 +57,4 @@ Discussion statement summarizing the discrimination-index classification across 
 - [GenAI-assisted items had more distractor-functioning red flags — nonfunctioning and negatively discriminating distractors — although these differences were not statistically significant](genai-mcq-distractor-red-flags.md) — related
 - [Student-generated MCQs showed higher item discrimination than AI-generated MCQs, with a small effect size and a majority of AI items in the poor-discrimination band](student-gen-items-higher-discrimination.md) — related
 - [A majority of ChatGPT-generated MCQs met 'good quality' criteria for balanced difficulty and discrimination](chatgpt-mcq-good-quality-proportion.md) — reports the opposite
+- [Item difficulty ranged broadly (completion rates 0.05–0.90) and discrimination ranged 0.14–0.60, with UI-related and navigation-heavy tasks showing particularly good discrimination](specific-ic-item-difficulty-discrimination-range.md) — related
