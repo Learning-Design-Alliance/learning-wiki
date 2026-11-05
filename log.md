@@ -997,6 +997,9 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 * **Claim**: [claims/spacing-effect-mathematics-overall-meta-analysis](claims/spacing-effect-mathematics-overall-meta-analysis.md) — Linked claim from Distributing mathematical practice of third and seventh graders (Barzagar Nazari & Ebersbach, 2019), doi:10.1002/acp.3485; written from the abstract
 * **Claim**: [principles/spaced-learning](principles/spaced-learning.md) — Linked claim from Distributing mathematical practice of third and seventh graders (Barzagar Nazari & Ebersbach, 2019), doi:10.1002/acp.3485; written from the abstract
 * **Ingest**: [claims/distributed-math-practice-grade3-grade7-classroom](claims/distributed-math-practice-grade3-grade7-classroom.md) — Distributing mathematical practice of third and seventh graders (Barzagar Nazari & Ebersbach, 2019), doi:10.1002/acp.3485; written from the abstract
+* **Content**: [elements/adaptive-learning](elements/adaptive-learning.md) — Doroudi, Aleven & Brunskill (2019), Where's the reward? doi:10.1007/s40593-019-00187-x
+* **Content**: [principles/sequencing](principles/sequencing.md) — Doroudi, Aleven & Brunskill (2019), Where's the reward? doi:10.1007/s40593-019-00187-x
+* **Ingest**: [claims/rl-sequencing-policies-beat-baselines-in-constrained-tasks](claims/rl-sequencing-policies-beat-baselines-in-constrained-tasks.md) — Doroudi, Aleven & Brunskill (2019), Where's the reward? doi:10.1007/s40593-019-00187-x
 
 ## 2026-11-04
 

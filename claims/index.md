@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**50646 entries** · 0 stable · 50646 in review · 0 drafts
+**50647 entries** · 0 stable · 50647 in review · 0 drafts
 
 ---
 
@@ -33687,6 +33687,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Reinforcement learning operationalizes motivational constructs by representing motivation in the reward function](rl-reward-function-operationalizes-motivation.md) - Reinforcement learning operationalizes motivational constructs by representing motivation in the reward function
 * [Reinforcement learning used for micro-adaptation showed potential learning gains of up to 1 sigma over poorly-optimized dialog or no dialog (per the article, citing Chi et al. 2014)](reinforcement-learning-micro-adaptation-gains.md) - Reinforcement learning used for micro-adaptation showed potential learning gains of up to 1 sigma over poorly-optimized dialog or no dialog (per the article, citing Chi et al.
 * [Reinforcement learning with a learned alignment reward substantially improves question-concept alignment after supervised fine-tuning, while answerability remains high throughout training](alignment-rl-improves-concept-alignment.md) - Reinforcement learning with a learned alignment reward substantially improves question-concept alignment after supervised fine-tuning, while answerability remains high throughout training
+* [Reinforcement-learning sequencing policies beat baseline sequencing in about half of controlled studies, mostly in constrained tasks and against weak baselines](rl-sequencing-policies-beat-baselines-in-constrained-tasks.md) - A review of 41 controlled studies found reinforcement-learning-induced instructional sequencing policies significantly outperformed all baselines in 21, with success concentrated in paired-associate, concept-learning and activity-type sequencing and none for sequencing interdependent content.
 * [Reinforcing learning styles absent from the selected combination on poor performance (strategy 3) yields the most consistent probabilistic learning-style model](strategy3-best-lsp-consistency.md) - Reinforcing learning styles absent from the selected combination on poor performance (strategy 3) yields the most consistent probabilistic learning-style model
 * [Reinstating high-stakes testing to measure learning loss narrows the curriculum and does not benefit long-term achievement](high-stakes-testing-narrows-curriculum.md) - Reinstating high-stakes testing to measure learning loss narrows the curriculum and does not benefit long-term achievement
 * [Rejected and disliked children communicate less responsively and less coherently than popular or liked peers](rejected-children-less-responsive-communication.md) - Rejected and disliked children communicate less responsively and less coherently than popular or liked peers

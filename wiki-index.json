@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":50646,
+"claim":50647,
 "design":2630,
 "element":1057,
 "learner-variable":75,
@@ -397408,6 +397408,16 @@
 "type":"claim"
 },
 {
+"description":"A review of 41 controlled studies found reinforcement-learning-induced instructional sequencing policies significantly outperformed all baselines in 21, with success concentrated in paired-associate, concept-learning and activity-type sequencing and none for sequencing interdependent content.",
+"evidence_strength":"moderate",
+"id":"rl-sequencing-policies-beat-baselines-in-constrained-tasks",
+"newest_evidence":"2019",
+"path":"claims/rl-sequencing-policies-beat-baselines-in-constrained-tasks.md",
+"status":"review",
+"title":"Reinforcement-learning sequencing policies beat baseline sequencing in about half of controlled studies, mostly in constrained tasks and against weak baselines",
+"type":"claim"
+},
+{
 "description":"Both RL stages are needed: removing DPO and GRPO training causes the largest performance drop in student simulation",
 "evidence_strength":"moderate",
 "id":"rl-stages-needed-faithful-student-simulation",
@@ -726532,6 +726542,7 @@
 "rl-reward-misalignment-failure-modes":"rl-reward-misalignment-failure-modes",
 "rl-sample-inefficiency-reward-design-limits":"rl-sample-inefficiency-reward-design-limits",
 "rl-sequencing-beats-fixed-oral-curriculum":"rl-sequencing-beats-fixed-oral-curriculum",
+"rl-sequencing-policies-beat-baselines-in-constrained-tasks":"rl-sequencing-policies-beat-baselines-in-constrained-tasks",
 "rl-stages-needed-faithful-student-simulation":"rl-stages-needed-faithful-student-simulation",
 "rlc-no-differential-fsm-impact":"rlc-no-differential-fsm-impact",
 "rlc-no-impact-ks2-reading":"rlc-no-impact-ks2-reading",
