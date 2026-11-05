@@ -55,6 +55,7 @@ The article concludes that virtual reality training could provide a useful train
 - [Sequence porcine-model training as the final step of a graduated simulation pathway](graduated-simulation-pathway-porcine-final-step.md)
 - [Practice frame assembly outside the operating room to mitigate prolonged procedure times for trainees](prior-frame-assembly-practice-mitigates-prolonged-times.md)
 - [Sequence laparoscopic training from box trainers and simulators with preset proficiency benchmarks before cadaver training](simulator-benchmarks-before-cadaver-training.md)
+- [Integrate the MaiSurge model into gynecology residency curricula for continuous TLH training and skill assessment outside the operating room](maisurge-curriculum-integration-strategy.md)
 
 ## Examples
 -

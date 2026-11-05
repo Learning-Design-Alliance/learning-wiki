@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 278 claims (200 show a difference, 51 mixed, 27 no difference) · 181 studies (57 associational, 52 causal, 32 review, 14 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 39 of 181 report an effect size · 270 claims rest on one study
+> **Evidence** · 284 claims (203 show a difference, 52 mixed, 29 no difference) · 183 studies (59 associational, 52 causal, 32 review, 14 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 40 of 183 report an effect size · 276 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -318,6 +318,12 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Trait anxiety, GAD symptoms, social anxiety and anxiety sensitivity do not predict any school grades after controlling for other predictors](../claims/four-anxiety-measures-predict-no-grades.md) [-M] — learners who differ on it differ in outcomes
 - [Worry is the only anxiety measure positively linked with school grades after controlling for other anxieties](../claims/worry-positively-predicts-grades.md) [+M] — learners who differ on it differ in outcomes
 - [Qualitative interviews revealed gender-specific change pathways: males shifted from luck-based attributions and improved behavioral regulation, while females overcame ability-related doubt and strengthened emotional regulation](../claims/gender-specific-qualitative-change-pathways.md) [+W] — measured as an outcome of the instruction studied
+- [Avoidance-oriented coping (distraction and social diversion) shows no cross-lagged relations to subsequent well-being changes](../claims/avoidance-coping-null-wellbeing-effects.md) [-M] — learners who differ on it differ in outcomes
+- [Emotion-oriented coping (rumination) predicts increases in negative affect and decreases in positive affect and job satisfaction over time](../claims/emotion-coping-predicts-wellbeing-declines.md) [+M] — learners who differ on it differ in outcomes
+- [Negative affect does not predict subsequent use of emotion-oriented coping, contrary to prior findings](../claims/negative-affect-null-emotion-coping.md) [-M] — learners who differ on it differ in outcomes
+- [Negative affect predicts increased reliance on social diversion, but not distraction, over time](../claims/negative-affect-predicts-social-diversion.md) [~M] — learners who differ on it differ in outcomes
+- [Post-simulation happiness/hopefulness positively and frustration negatively predict perceived team mood](../claims/emotions-predict-team-mood-perceptions.md) [+M] — learners who differ on it differ in outcomes
+- [Task-oriented coping and positive affect show positive reciprocal cross-lagged relations over one semester, implying positive feedback loops](../claims/task-coping-positive-affect-feedback-loop.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

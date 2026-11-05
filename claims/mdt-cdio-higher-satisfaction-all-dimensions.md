@@ -56,3 +56,4 @@ Self-designed 40-item satisfaction questionnaire (Cronbach's α = 0.921, CVI = 0
 - [Blended learning interns reported significantly higher satisfaction than traditional-group interns across all five evaluated dimensions](blended-radiology-assistant-higher-satisfaction-all-dimensions.md) — related
 - [International medical students receiving peer role-play and peer assessment report significantly higher course satisfaction across all measured dimensions than students in traditional collaborative group learning](peer-roleplay-higher-course-satisfaction-gynecology.md) — related
 - [PA-PBL and control students reported comparable course satisfaction and self-evaluated competencies](pa-pbl-control-comparable-subjective-evaluations.md) — reports the opposite
+- [Live-video teaching significantly boosts students' self-evaluated learning outcomes across all five measured aspects](ltm-self-evaluated-learning-outcomes.md) — related

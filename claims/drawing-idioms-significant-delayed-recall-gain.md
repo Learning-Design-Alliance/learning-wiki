@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: afrouz-aeineh-2014
     resource: "https://doi.org/10.7575/aiac.alls.v.5n.3p.28"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2014 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The experimental group (M=16.00) scored significantly higher than the control group (M=14.55) on the delayed posttest administered two weeks after treatment (P=.018). [→ Afrouz Aeineh 2014](#afrouz-aeineh-2014)

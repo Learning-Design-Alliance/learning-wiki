@@ -52,3 +52,4 @@ Meta-analysis of colonoscopy RCTs; procedure-time outcome from "1 study, 16 part
 - [Virtual endoscopy simulator training reduces required assistance in gastroscopy training of novices (RR 0.42, 95% CI 0.35–0.50, P<0.00001)](simulator-training-reduces-gastroscopy-assistance.md) — related
 - [Feedback is necessary for performance improvement on virtual colonoscopy simulators; without feedback novices do not improve](no-feedback-no-learning-simulators.md) — related
 - [Time to complete the procedure showed the lowest p value between groups but remained non-significant](time-to-complete-lowest-p-value-nonsignificant.md) — related
+- [Most participants favor simulator implementation in endoscopy training, but few have institutional access](endonix-implementation-attitudes-and-access.md) — related

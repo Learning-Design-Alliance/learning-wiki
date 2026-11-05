@@ -60,6 +60,8 @@ The review's forward-looking recommendations for VS teaching design: future devi
 - [Expand the VSP case library, stratify difficulty, and add richer interactivity and non-verbal cue capture](expand-vsp-case-library-and-nonverbal-cues.md)
 - [Design VR anatomy studies and implementations to reduce cognitive burden: longitudinal exposure, sufficient familiarization, and mixed-reality devices for drawing tasks](reduce-vr-cognitive-burden-recommendations.md)
 - [Integrate VR simulation design with prebriefing, intuitive interfaces, adaptive difficulty, scenario variability, ergonomic hardware, and structured debriefing](vr-design-balance-usability-load-debriefing-strategy.md)
+- [Deliver multilingual GenAI simulation training in the trainee's preferred language to standardize training across linguistic contexts](multilingual-genai-simulation-preferred-language-strategy.md)
+- [Use immersive VR virtual patient scenarios to give pre-clinical and multicultural students safe, repeatable clinical communication practice](vr-safe-practice-preclinical-multilingual-strategy.md)
 
 ## Examples
 -

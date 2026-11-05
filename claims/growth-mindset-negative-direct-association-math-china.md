@@ -72,3 +72,4 @@ Bootstrap chain mediation analysis (5000 resamples, 95% CI) in the same sample r
 - [Growth mindset correlates positively with grit and grit correlates positively with mathematics achievement](growth-mindset-grit-correlations.md) — reports the opposite
 - [The mediating role of mastery-approach goals was not significant](mastery-approach-mediation-null.md) — related
 - [Achievement goals and grit sequentially chain-mediate the growth mindset–mathematics achievement relationship](chain-mediation-goals-grit-math.md) — related
+- [Growth mindset is positively associated with academic performance among Chinese female art majors (direct effect 0.25, p < .001)](growth-mindset-positive-direct-effect-female-art-majors.md) — reports the opposite

@@ -9,7 +9,7 @@ generated:
   at: 2026-09-26
 evidence_strength: moderate
 newest_evidence: 2021
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 recheck_by: 2026
 sources:
   - id: honig-2021
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2021 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2026: baselines and conditions change
+> **Currency** · newest study 2021 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Stimulated recall interviews with MBA learners identified three thematic categories of learner presence: Learner Intentions, Learner Metacognition, and Peer Monitoring. [→ Honig 2021](#honig-2021)

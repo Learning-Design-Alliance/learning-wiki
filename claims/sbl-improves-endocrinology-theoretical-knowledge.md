@@ -50,3 +50,4 @@ Meta-analysis of 17 randomized controlled trials comparing SBL with NSBL in endo
 - No significant publication bias was detected for the knowledge and skill outcomes — related
 - [CBL is the highest-ranked strategy for enhancing medical students' theoretical test scores, with CBL, PBL, SBL and FC each significantly outperforming LBL](cbl-highest-ranked-theoretical-test-scores-nma.md) — related
 - [Simulation-based learning consistently improves nursing students' knowledge and skills acquisition across diverse designs and simulation topics](sbl-improves-nursing-knowledge-skills-acquisition.md) — a broader claim this one bears on
+- [Residents self-report high knowledge acquisition from online pediatric endocrinology CBL modules](online-cbl-self-reported-knowledge-gain-endocrinology.md) — a narrower finding that bears on this claim

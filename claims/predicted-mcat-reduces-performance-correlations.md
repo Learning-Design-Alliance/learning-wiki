@@ -51,3 +51,4 @@ For 2021-2022 (n=167) and 2022-2023 (n=148) cohorts admitted without MCAT, predi
 - [Including MCAT scores in admissions composites does not improve prediction of overall academic performance compared with composites excluding MCAT](mcat-no-incremental-validity-academic-performance.md) — related
 - [An ML ensemble model predicts MCAT scores with limited accuracy, explaining 36% of variance](ml-mcat-prediction-limited-accuracy.md) — related
 - [Using ML-predicted MCAT scores would have changed 6.3% to 9.4% of admission decisions despite strong rank agreement](predicted-mcat-changes-admission-decisions.md) — related
+- [Baseline academic comparability of the two MD cohorts was established on MCAT scores, uGPA, and sGPA](md-cohorts-baseline-comparability.md) — related

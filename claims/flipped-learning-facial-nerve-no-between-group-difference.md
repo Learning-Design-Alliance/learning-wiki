@@ -47,3 +47,4 @@ Quasi-experimental pretest-posttest-follow-up study with 59 second-year dental s
 ## Related Claims
 - [Within the flipped learning experimental group, pretest-posttest and pretest-follow-up gains were significant while the posttest-follow-up difference was not](flipped-group-within-gains-significant-retention.md) — a narrower finding that bears on this claim
 - [Both groups improved significantly from pretest to posttest, but improvement was significantly greater in the flipped classroom condition](flipped-rct-greater-within-group-gain.md) — reports the opposite
+- [No statistically significant differences in anatomy and physiology knowledge between Jigsaw and traditional teaching at post-intervention or three-month follow-up](no-knowledge-difference-jigsaw-vs-tt.md) — related

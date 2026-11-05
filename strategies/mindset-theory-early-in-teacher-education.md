@@ -41,6 +41,7 @@ Based on the finding that Turkish student teachers lean toward entity beliefs an
 ## Related Strategies
 
 - [Modeling a Growth Mindset](modeling_a_growth_mindset.md)
+- [Discipline‐sensitive interventions to foster growth‐oriented beliefs in preservice teachers](discipline-sensitive-fab-interventions.md)
 
 ## Examples
 -

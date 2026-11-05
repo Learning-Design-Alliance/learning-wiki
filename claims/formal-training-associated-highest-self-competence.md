@@ -49,3 +49,4 @@ Cross-tabulation of training received (Question 20) against preferred approach (
 - [Only 7.9% of Italian surgical residents report receiving formal communication training during residency, despite 91% rating it as crucial](surgical-residents-formal-communication-training-gap.md) — related
 - [Over 70% of surgical trainees who communicated difficult diagnoses would have preferred to handle the conversation differently](trainees-prefer-different-communication-approach.md) — related
 - [85.2% of surgical trainees report having communicated a difficult diagnosis without supervision during training](unsupervised-difficult-diagnosis-communication-prevalence.md) — related
+- [Trainees who received negative feedback reported lower perceived competence than those receiving positive or no feedback](negative-feedback-lower-perceived-competence-imi.md) — related

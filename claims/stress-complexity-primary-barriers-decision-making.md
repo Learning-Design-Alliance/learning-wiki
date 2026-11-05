@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 recheck_by: 2030
 sources:
   - id: gonzalez-garcia-a-2025
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2030: baselines and conditions change
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` High levels of stress and the complexity of healthcare environments were identified as the primary barriers to effective decision-making. [→ Gonzalez-Garcia A. 2025](#gonzalez-garcia-a-2025)

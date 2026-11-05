@@ -9,7 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2023
-source_checked: 2026-10-26
+source_checked: 2026-11-05
 sources:
   - id: raffael-schmitt-2023
     resource: "https://doi.org/10.1038/s41539-023-00179-6"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
-> **Currency** · newest study 2023 · checked against its sources 2026-10-26 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a multiple regression of pre-training visual enhancement on hearing level (PTA), age, visual working memory and processing speed, no predictor was significantly associated with it (all p ≥ 0.115). [→ Raffael Schmitt 2023](#raffael-schmitt-2023)

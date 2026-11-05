@@ -54,3 +54,4 @@ SEM analysis of the extended UTAUT model reports a "diminishing role of Social I
 - [Performance expectancy, effort expectancy, and social influence positively predict behavioral intention to use ChatGPT among Lesotho higher education students](pe-ee-si-predict-chatgpt-intention-lesotho.md) — reports the opposite
 - [Risk aversion plays a significant role in teachers' GenAI adoption decisions](risk-aversion-significant-in-genai-adoption.md) — related
 - [Social influence positively predicts perceived trust in generative AI](social-influence-predicts-perceived-trust.md) — related
+- [Trust in DeepSeek moderates the relationship between social influence and intention to use, amplifying it at higher trust](trust-moderates-social-influence-intention.md) — related

@@ -34,7 +34,7 @@ moved_from: [pattern/cognitive-load-theory]
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 132 claims (86 for, 35 mixed, 11 against) · 110 studies (49 causal, 25 review, 19 theoretical, 13 quant-synthesis, 2 associational, 2 design), `q1`–`q4` · 20 of 110 report an effect size · 121 claims rest on one study
+> **Evidence** · 135 claims (89 for, 35 mixed, 11 against) · 111 studies (49 causal, 26 review, 19 theoretical, 13 quant-synthesis, 2 associational, 2 design), `q1`–`q4` · 21 of 111 report an effect size · 123 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -203,6 +203,9 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Preceding worked-example demonstrations increase knowledge gains in technology-enhanced learning of sectional anatomy among novice medical students](../claims/worked-example-demonstrations-increase-sectional-anatomy-knowledge-gains.md) [+W] — attached 2026-11-04 from Fonseca Guilherme Reis Borges Coelho et al. (2026), which proposed "Cognitive Load Theory and Cognitive Theory of Multimedia Learning as frameworks for technology-enhanced anatomy instruction".
 - [Preceding worked-example demonstrations lower extraneous cognitive load in technology-enhanced learning of sectional anatomy](../claims/worked-example-demonstrations-lower-extraneous-cognitive-load.md) [+W] — attached 2026-11-04 from Fonseca Guilherme Reis Borges Coelho et al. (2026), which proposed "Cognitive Load Theory and Cognitive Theory of Multimedia Learning as frameworks for technology-enhanced anatomy instruction".
 - [Mediation hypotheses via extraneous cognitive load and mental effort are unsupported](../claims/humour-mediation-cognitive-load-unsupported.md) [-W]
+- [The modality effect: complex visual displays are better understood when explanatory words are presented auditorily rather than visually](../claims/modality-effect-audiovisual-superiority.md) [+W] — attached 2026-11-05 from Paridon H (2026), which proposed "Cognitive Load Theory: learning depends on managing limited working memory capacity".
+- [Expertise reversal effect: benefits of two modalities and worked examples diminish or reverse as learner expertise increases](../claims/expertise-reversal-modality-worked-examples.md) [+W] — attached 2026-11-05 from Paridon H (2026), which proposed "Cognitive Load Theory: learning depends on managing limited working memory capacity"; tests this page's relationship.
+- [Working memory resources can be exhausted during learning, decreasing performance, and restored through a break](../claims/working-memory-exhaustion-restored-by-break.md) [+W] — attached 2026-11-05 from Paridon H (2026), which proposed "Extended CLT model for clinical practice: schema construction and automation reduce intrinsic and extraneous load for experienced medical professionals"; tests this page's relationship.
 
 ## The evidence by question
 
@@ -236,6 +239,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Balance cognitive load in digital learning by aligning design-factor costs and benefits with desired learning outcomes via constructive alignment](../strategies/align-cognitive-load-with-learning-outcomes-digital.md)
 - [Ground problem solving tasks in learners' real-world contexts to reduce extraneous cognitive load](../strategies/ground-tasks-in-learners-real-world-contexts.md)
 - [Dual CTML-CLT framework with Gagné's Nine Events guiding segmented-interactive video design](../designs/ctml-clt-gagne-framework-segmented-video.md)
+- [Apply CLT-derived design principles in medical education: integrated information sources, oral explanations for animations, completion tasks, worked examples, and variable practice](../strategies/clt-design-recommendations-medical-education.md)
 
 ## Key Sources
 - Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285. [doi:10.1207/s15516709cog1202_4](https://doi.org/10.1207/s15516709cog1202_4)

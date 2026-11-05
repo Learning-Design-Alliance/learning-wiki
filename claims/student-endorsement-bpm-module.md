@@ -49,3 +49,5 @@ Post-survey module feedback from both cohorts. 84% (n = 166) endorsed continued 
 - [Both cohorts significantly improve ability to identify factors influencing BPM accuracy (medical p = 0.002; PA p = 0.035)](bpm-factor-identification-gains.md) — related
 - [Students who used the module reported positive perceptions and supported its curricular implementation with modifications](student-perceptions-online-caries-module.md) — related
 - [Interns highly accepted the formative OSCE, with 97% agreeing it was valuable and 94% agreeing it should continue](osce-high-acceptance-interns-valuable-continue.md) — related
+- [Most surveyed PA/DPT and MD students reported using the modules 1-2 hours per week, both with the donor and as a stand-alone study tool](module-usage-survey-hours-and-contexts.md) — related
+- [Majorities of surveyed students believed the modules helped their examination performance and preparedness](perceived-exam-benefit-survey.md) — related

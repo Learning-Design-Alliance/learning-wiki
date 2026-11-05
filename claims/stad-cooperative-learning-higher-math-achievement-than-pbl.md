@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2016
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: tawachai-rattanatumma-and-drvichian-puncreobutr-2016
     resource: "https://eric.ed.gov/?id=EJ1099565"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2016 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The STAD group scored significantly higher on the mathematics learning achievement post-test than the PBL group after controlling for pre-test scores (F = 434.716, p < .01). [→ Tawachai Rattanatumma and Dr.Vichian Puncreobutr 2016](#tawachai-rattanatumma-and-drvichian-puncreobutr-2016)

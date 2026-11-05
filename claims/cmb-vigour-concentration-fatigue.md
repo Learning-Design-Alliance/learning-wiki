@@ -55,3 +55,4 @@ Single-group intervention–control study (Blasche et al., n = 66) comparing 6 m
 - [Dose-response evidence suggests 10-minute active breaks, moderate intensity, and twice-daily frequency favour academic-related outcomes](active-break-dose-response-academic-outcomes.md) — related
 - [Item-level gains concentrated on neurotransmitter and receptor questions that could be physically acted out](dramatization-item-gains-neurotransmitter-receptor-questions.md) — related
 - [Concentration levels increased in all three in-class break intervention groups (BALANCE, CARDIO and MENTAL) after 5 weeks of daily 15-min sessions in primary school children](in-class-breaks-increase-concentration-all-formats.md) — a narrower finding that bears on this claim
+- [Working memory resources can be exhausted during learning, decreasing performance, and restored through a break](working-memory-exhaustion-restored-by-break.md) — a broader claim this one bears on

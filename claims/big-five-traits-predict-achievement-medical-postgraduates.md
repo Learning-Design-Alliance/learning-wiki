@@ -52,3 +52,4 @@ Regression analyses in the cross-sectional survey (Table 2). All five Big Five t
 - [Neuroticism, Conscientiousness, Agreeableness, and Extraversion did not significantly moderate the stress–achievement relationship](other-big-five-traits-no-moderation-stress-achievement.md) — related
 - [Teaching type interacts with personality factors on academic achievement for all Big Five traits except neuroticism](teaching-type-personality-interaction-big-five.md) — related
 - [Openness shows larger correlations with achievement in language than in STEM subject domains, a pattern that holds for both grades and test scores](openness-language-stem-domain-moderation.md) — related
+- [Big Five personality traits show no significant association with dental students' radiographic diagnostic accuracy](personality-traits-no-effect-radiographic-accuracy.md) — related

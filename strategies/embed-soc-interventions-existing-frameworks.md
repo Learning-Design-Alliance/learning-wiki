@@ -51,6 +51,8 @@ The article recommends that interventions to strengthen students' sense of coher
 - [Integrate AI literacy education as an integral component of first-year curriculum development rather than an add-on](ai-literacy-integral-first-year-curriculum.md)
 - [Embed computational thinking across existing K-12 subject areas using everyday and data-based activities](embed-ct-across-subject-areas.md)
 - [Embed brief experiential wellness activities longitudinally within existing health professions curricula](embed-longitudinal-experiential-wellness-activities.md)
+- [Integrate coping psychoeducation into academic support workshops and counselling for university teachers](coping-psychoeducation-workshops-faculty.md)
+- [Integrate resilience-building strategies into teacher training programs, prioritizing psychosocial facets of academic success and pairing them with study-skill instruction when grade improvement is the goal](resilience-building-teacher-training-strategy.md)
 
 ## Examples
 -

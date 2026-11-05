@@ -61,3 +61,4 @@ Safety evaluation in the multisite trial used exclusion criteria (seizures, migr
 - [Simulator sickness was low (median SSQ 1.9) with no serious adverse events](ncpr-vr-low-simulator-sickness.md) — related
 - [No AR-related adverse effects occurred and ergonomic burden was low during short remote AR simulation sessions](remote-ar-low-ergonomic-burden-no-adverse-effects.md) — related
 - [Remote AR headset use imposes minimal reported ergonomic burden and no adverse events in neonatal resuscitation simulation](remote-ar-simulation-ergonomics-adverse-events.md) — related
+- [Most participants found first VR engagement exciting and easy to use, though a minority reported discomfort and initial difficulty](vtracs-excitement-with-minority-adverse-experiences.md) — related

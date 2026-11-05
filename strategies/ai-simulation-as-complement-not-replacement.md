@@ -58,6 +58,8 @@ The authors recommend treating AI-enhanced simulation as an augmenting strategy 
 - [Integrate simulation technologies with traditional teaching through blended approaches tailored to specific clinical tasks](blended-simulation-integration-orthodontic-curricula.md)
 - [Integrate hybrid simulation into clinical skills curricula to concurrently train communication and technical skills in a safe, repeatable environment](integrate-hybrid-simulation-clinical-skills-curricula.md)
 - [Integrate AISP platforms into medical curricula as complements to traditional teaching with expanded case variety](aisp-curricular-integration-strategy.md)
+- [Implement VR in clinical education as a complement with robust infrastructure, faculty training, and short adaptive sessions](vr-complementary-implementation-strategy-clinical-education.md)
+- [Use immersive VR virtual patient scenarios to give pre-clinical and multicultural students safe, repeatable clinical communication practice](vr-safe-practice-preclinical-multilingual-strategy.md)
 
 ## Examples
 -

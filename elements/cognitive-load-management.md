@@ -13,7 +13,7 @@ generated:
 # Cognitive Load Management
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 10 claims (9 for, 1 against) · 13 studies (5 quant-synthesis, 3 causal, 2 review, 1 associational, 1 qualitative, 1 design), `q2`–`q4` · 4 of 13 report an effect size · 6 claims rest on one study
+> **Evidence** · 10 claims (9 for, 1 against) · 14 studies (5 quant-synthesis, 3 causal, 2 review, 1 associational, 1 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 5 of 14 report an effect size · 5 claims rest on one study
 
 ## Description
 Cognitive load management is the element in which instruction is designed to reduce unnecessary processing and preserve effort for learning-relevant work.

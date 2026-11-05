@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: yasuda-yukinori-2026
     resource: "https://doi.org/10.1038/s41598-026-44432-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Using a direct laryngoscope, experts maintained a greater minimum distance from the mannequin's mouth (0.529 ± 0.104 m) than novices (0.331 ± 0.055 m), a statistically significant difference. [→ Yasuda Yukinori 2026](#yasuda-yukinori-2026)

@@ -9,7 +9,6 @@ generated:
   at: 2026-10-18
 evidence_strength: weak
 newest_evidence: 2017
-source_checked: 2026-10-20
 sources:
   - id: carolyn-p-rosé-2017
     resource: "https://doi.org/10.1007/s11412-017-9265-7"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In an experimental study embedded in an undergraduate Psychology course, prompts delivered peer-to-peer (with instructor modeling first) yielded promising results on argumentation, consensus, and perceived efficacy outcomes. [→ Carolyn P. Rosé 2017](#carolyn-p-rose-2017)

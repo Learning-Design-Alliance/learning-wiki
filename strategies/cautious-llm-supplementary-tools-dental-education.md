@@ -59,6 +59,7 @@ The review recommends that, given pooled LLM accuracy of about 64%, dental educa
 - [Cross-verify LLM answers using multiple models to reduce the risk of overconfident misinformation](cross-verification-multiple-llm-models.md)
 - [Use ChatGPT-4o as a supplementary educational tool rather than an autonomous clinical decision-support system in non-English contexts](chatgpt-4o-as-supplementary-tool-non-english.md)
 - [Use high-performance LLMs as supportive tools in medical education for feedback and learning-process optimization, pending image-based validation](llms-supportive-tools-medical-education-feedback.md)
+- [Integrate AI chatbots into dental education as supervised supplementary tools for exam preparation and formative self-assessment](supervised-chatbot-supplementary-dental-education.md)
 
 ## Examples
 -

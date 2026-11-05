@@ -17,7 +17,7 @@ sources:
 # Fading
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 8 studies (4 review, 2 causal, 2 theoretical), `q1`–`q3` · 0 of 8 report an effect size
+> **Evidence** · 5 claims (3 for, 2 mixed) · 9 studies (4 review, 3 causal, 2 theoretical), `q1`–`q3` · 0 of 9 report an effect size · 2 claims rest on one study
 
 ## Description
 Fading is the element in which instructional support is deliberately reduced as learner competence grows. It is useful when the design goal is to transition from supported performance to independence without either over-supporting or abandoning learners too early.
@@ -46,6 +46,8 @@ Fading is the element in which instructional support is deliberately reduced as 
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](../claims/expertise-reversal-effect.md) [+M]
 - [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M]
 - [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [+M]
+- [Working memory did not significantly moderate the effect of fading on posttest math performance](../claims/wm-does-not-moderate-fading.md) [~W] — attached 2026-11-05 from Miller‐Cotto et al. (2026), which proposed "ASSISTments-delivered faded worked example homework unit on surface area and volume"; tests this page's relationship.
+- [Perceived cognitive load did not differ significantly across instructional conditions and did not moderate the fading effect](../claims/cognitive-load-no-condition-differences.md) [~W] — attached 2026-11-05 from Miller‐Cotto et al. (2026), which proposed "ASSISTments-delivered faded worked example homework unit on surface area and volume"; tests this page's relationship.
 
 ## Related Elements
 - [Demonstration](demonstration.md)

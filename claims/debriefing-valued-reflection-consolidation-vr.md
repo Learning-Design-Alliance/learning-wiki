@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: chartash-david-2026
     resource: "https://doi.org/10.2196/74301"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants regarded post-simulation debriefing sessions as among the most beneficial aspects of the VR program, enabling reflection on mistakes and consolidation of learning. [→ Chartash David 2026](#chartash-david-2026)
@@ -52,3 +53,4 @@ Thematic analysis under the ITEM debriefing domain of interviews with 11 medical
 - [Facilitator role and quality of structured debriefing are critical determinants of nursing students' satisfaction with simulation-based BLS training](simulation-bls-facilitator-debriefing-quality.md) — related
 - [The review reports that embedded analytics, timely feedback, and structured reflection strengthen conceptual consolidation and learning gains](analytics-feedback-reflection-strengthen-learning-gains.md) — related
 - [Formative participants preferred post-session debriefing over in-session interruption, with timing treated as contingent on error severity](feedback-timing-post-session-debrief-preference.md) — related
+- [Students identified hands-on learning, debriefing and facilitator continuity as the key beneficial features of the pre-foundation simulation course](simulation-course-features-hands-on-debriefing-continuity.md) — related

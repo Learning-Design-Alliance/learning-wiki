@@ -73,3 +73,4 @@ Subgroup meta-analysis by birth era for mathematics. The most severe impairments
 - [For cohorts born since 1990, reading progress increased while math progress slowed](post-1990-reading-up-math-slowed.md) — related
 - [Preterm birth is associated with deficits in both higher-order reading comprehension and lower-order reading subskills of decoding and word identification, but not pseudoword decoding](preterm-reading-subskill-deficits.md) — related
 - [More than half of very preterm children do not meet expected school readiness or attainment levels at ages 5 to 7 years](half-very-preterm-below-expected-attainment.md) — related
+- [EI receipt is associated with lower test scores among preterm and low-birth-weight children, with the article urging caution in interpretation](ei-inverse-association-preterm-low-birth-weight.md) — related

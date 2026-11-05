@@ -49,3 +49,4 @@ A researcher-developed UEQ administered to the intervention group post-intervent
 - [Students valued VSP convenience but rated realism and feedback value below human standardized patients](vsp-student-feedback-convenience-high-realism-low.md) — related
 - [Participants rate SOPHIE's actionable feedback highest among system features, above avatar realism](sophie-actionable-feedback-highest-rated-feature.md) — related
 - [User experience favored attractiveness, stimulation, and novelty, but IPQ involvement was unsatisfactory and realism only satisfactory](ncpr-vr-ueq-ipq-profile.md) — related
+- [Users rated the GenAI simulator positively for future utility, feedback quality and recommendation, while ratings for resemblance to human interaction were moderate](genai-simulator-user-experience-ratings.md) — related

@@ -53,3 +53,4 @@ Cross-sectional in silico analysis of 123 text-based endodontic questions from t
 - [GPT-4 achieves the highest pooled accuracy among LLMs (81%), significantly outperforming GPT-3.5 (60%)](gpt4-highest-accuracy-81-outperforms-gpt35.md) — related
 - [Wilcoxon pairwise comparisons showed Claude rated significantly higher than ChatGPT, Gemini, and DeepSeek in overall student ratings](wilcoxon-claude-beats-other-models.md) — related
 - [ChatGPT 4.0 was more consistent on a question-by-question basis than other models, whose error rates were considerably higher on items ChatGPT 4.0 answered correctly](chatgpt-4-question-level-consistency-advantage.md) — related
+- [Gemini 2.5 significantly outperformed GPT-4.5 and Claude 3.7 on overall JNEOT accuracy, with Gemini 2.5 highest at 91.0%](gemini-outperformed-gpt45-claude37-jneot.md) — related

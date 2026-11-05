@@ -56,3 +56,4 @@ Correlational analysis within the randomized Grade 3 study relating pretest exec
 - [At high pretest WMC, the visual-only condition outperformed verbal-only, verbal+visual, and control on solution accuracy](high-wmc-visual-only-outperforms.md) — related
 - [At high WMC, children with math difficulties performed significantly better under visual-only strategy conditions relative to other conditions at Wave 4](visual-only-strategy-advantage-high-wmc-md.md) — related
 - [Strategy instruction effects on word problem solving in children with math difficulties are moderated by working memory capacity, favoring high-WMC levels](wmc-moderates-strategy-instruction-md-word-problems.md) — related
+- [Working memory did not significantly moderate the effect of fading on posttest math performance](wm-does-not-moderate-fading.md) — related

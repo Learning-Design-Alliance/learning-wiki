@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2018
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: ayed-h-ziadat-mohammad-soud-a-al-awan-2018
     resource: "https://doi.org/10.5539/ies.v11n1p165"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2018 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A Two Way ANOVA showed a significant main effect of gender (F = 21.58, p < .05), with boys scoring higher than girls in both the NIM and control groups; the group-by-gender interaction was not significant (F = 1.058, p = .311). [→ Ayed H. Ziadat & Mohammad Soud A. AL-Awan 2018](#ayed-h-ziadat-mohammad-soud-a-al-awan-2018)

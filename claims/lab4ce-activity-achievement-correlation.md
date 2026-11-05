@@ -9,7 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2017
-source_checked: 2026-10-27
+source_checked: 2026-11-05
 sources:
   - id: julien-broisin-2017
     resource: "https://doi.org/10.1007/s40593-015-0079-3"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
-> **Currency** · newest study 2017 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` A significant positive Pearson correlation exists between students' activity (inputs per time spent) and achievement on a final multiple-choice test (r = 0.41, p = .002). [→ Julien Broisin 2017](#julien-broisin-2017)

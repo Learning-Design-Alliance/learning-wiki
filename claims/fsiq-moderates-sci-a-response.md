@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2018
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: stichter-2018
     resource: "https://doi.org/10.1177/0145445517698654"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2018 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The FSIQ × condition interaction was significant only for the Communication subscale (p = .037); on awareness, cognition, motivation and restricted/repetitive behavior it was not significant (p = .073 to .194). On communication, SCI-A students at lower FSIQ (85) had lower (better) SRS-2 scores than BAU students (d = −0.46). [→ Stichter 2018](#stichter-2018)

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: a-power-2026
     resource: "https://doi.org/10.1111/jhn.70326"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Interview participants viewed SBE as useful for building student confidence and preparing learners for challenging consultations, but cautioned that simulation should not displace real patient contact. [→ A. Power 2026](#a-power-2026)
@@ -50,3 +50,4 @@ Interview data from 15 dietitians analysed thematically; a participant stated th
 - [Only 14% of surveyed Irish dietitians report using simulation-based education despite 78% exposure and 85% interest in further training](irish-dietitians-low-sbe-use-high-interest.md) — related
 - [Participants view virtual training as a resource-efficient supplement to, not a replacement for, real-life exercises](virtual-training-supplement-not-replacement.md) — possibly the same claim (merge candidate)
 - [Years of professional experience was the only significant predictor of current SBE use among Irish dietitians](experience-only-predictor-sbe-use.md) — related
+- [Facilitators reported that real delivery experience, not role-play training alone, was needed to become confident and competent](experiential-learning-facilitator-competence.md) — related

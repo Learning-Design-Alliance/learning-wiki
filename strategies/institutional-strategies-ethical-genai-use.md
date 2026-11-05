@@ -57,6 +57,7 @@ Based on the model's findings, the authors recommend a set of institutional acti
 - [Institutions should adopt clear, prominently displayed AI policies and cultivate AI literacy for ethical, employability-oriented use](clear-ai-policies-and-ai-literacy-strategy.md)
 - [Establish standardized, ethically sound guidelines and coordinated stakeholder efforts for integrating LLMs into dental education](llm-integration-guidelines-dental-education-strategy.md)
 - [Institutions should actively disseminate exemplar prompts and provide secure platforms, faculty development, and quality-assurance mechanisms](institutional-responsibilities-genai-item-writing.md)
+- [Establish transparent ethical guidelines and faculty development for AI use in postgraduate coursework](ethical-ai-integration-guidelines-faculty-development-strategy.md)
 
 ## Examples
 -

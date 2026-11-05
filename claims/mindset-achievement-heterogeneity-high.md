@@ -54,3 +54,4 @@ Forest-plot and heterogeneity analysis of the 273 Meta-Analysis 1 effect sizes: 
 - [Math mindsets and academic grit correlate substantially with primary math achievement](mindset-grit-math-achievement-correlations.md) — related
 - [Academic risk status does not significantly moderate the mind-set–achievement correlation](academic-risk-not-moderator-mindset-correlation.md) — related
 - Effect sizes across the 31 included studies are highly heterogeneous (I² = 81.957%), warranting a random effects model — related
+- [Challenge state correlates positively with academic self-efficacy, resilience, grit, and growth mindset](challenge-state-correlates-noncognitive.md) — related

@@ -95,3 +95,5 @@ Participant quotation (FG 10, P 4) illustrating the emotional risk common to bot
 - [Facilitator role and quality of structured debriefing are critical determinants of nursing students' satisfaction with simulation-based BLS training](simulation-bls-facilitator-debriefing-quality.md) — related
 - [Peer observation anxiety, limited practice time, and large group sizes are perceived barriers to optimal learning in simulation-based BLS training](simulation-bls-perceived-barriers.md) — related
 - [Evidence that higher simulation fidelity yields better learning outcomes is mixed, while the affective component of SBE is under-attended](sbe-fidelity-outcomes-mixed-emotions-underattended.md) — related
+- [Negative activating emotions dominate debriefing emotion talk despite positive activating emotions being most reported in the SERQ](debriefing-emotion-discussion-gap.md) — related
+- [Participants reported VR assessment environments may reduce anxiety compared with physical assessment settings](vr-assessment-reduces-performance-anxiety.md) — related

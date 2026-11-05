@@ -114,3 +114,5 @@ The review's synthesis of reported limitations across VR studies, naming cybersi
 - [The additional practice group showed better short-term retention of COVID-19 protective measures, with the advantage disappearing over time](additional-practice-short-term-protective-equipment-retention.md) — related
 - [First-year residents describe VR simulation as a safe and flexible learning tool for training in emergency care](residents-perceive-vr-safe-flexible-emergency-care.md) — a narrower finding that bears on this claim
 - [Medical students experienced strong immersion in VR simulation due to realistic environments, but reduced interactivity constrained authenticity](vr-immersion-strong-but-interactivity-limited.md) — related
+- [VR-trained students outperformed control students in all three assessed competency modules in both assessment modes](vr-cataract-three-module-subscore-advantage.md) — a narrower finding that bears on this claim
+- [Clinical students perceived VR-based training as a complementary method that enhances proficiency, confidence, and access](vtracs-perceived-complementary-proficiency-enhancement.md) — a narrower finding that bears on this claim

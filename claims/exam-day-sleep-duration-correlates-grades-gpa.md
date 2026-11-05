@@ -54,3 +54,5 @@ Pearson correlation analysis (Table 2) in the same cross-sectional survey found 
 - [Good sleepers have significantly higher GPA than poor sleepers among male university students (d = 0.93)](good-vs-poor-sleepers-gpa-difference.md) — reports the opposite
 - [Students with good sleep quality scored higher on the most recent exam than students with poor sleep quality, but cumulative GPA did not differ between the groups](exam-grade-higher-good-sleep-quality-gpa-null.md) — related
 - [Physical activity and sleep quality independently predict GPA after adjusting for age and BMI, whereas BMI does not](pa-sleep-independent-gpa-predictors-regression.md) — reports the opposite
+- [Final exam scores correlate positively with sleep efficiency, negatively with sleep onset latency, and negatively with the MADs of SE, SOL, and TST](exam-score-correlations-sleep-parameters.md) — related
+- [Subjective sleep measures (PSQI) show no significant differences or correlations with academic performance, contrasting with objective actigraphy](psqi-null-vs-actigraphy-significant.md) — related

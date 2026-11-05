@@ -51,6 +51,7 @@ For future curricula the article proposes treating VR and IP simulation as compl
 - [Incorporate VR-based simulation training into spine surgery residency curricula as an adjunct to traditional methods](incorporate-vr-training-into-residency-curricula-strategy.md)
 - [Use VR simulation as a complementary, not competing, component of hazardous-drug spill-management training](vr-complementary-hazardous-drug-training.md)
 - [Match training modality emphasis to trainee proficiency level](match-modality-emphasis-to-proficiency-level.md)
+- [Blend simulation with traditional apprenticeship under a competency-based milestone framework for PTED training](blended-competency-based-pted-training-pathway.md)
 
 ## Examples
 -

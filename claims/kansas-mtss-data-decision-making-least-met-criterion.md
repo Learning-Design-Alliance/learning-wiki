@@ -9,7 +9,7 @@ generated:
   at: 2026-10-09
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-10-19
+source_checked: 2026-11-05
 sources:
   - id: kristin-reedy-2015
     resource: "https://eric.ed.gov/?id=ED559729"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2015 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Only 43.9% of schools met the data-based decision making criterion in 2014, whereas 87.5% reported conducting universal screening three times per year (once a year for high school). [→ Kristin Reedy 2015](#kristin-reedy-2015)

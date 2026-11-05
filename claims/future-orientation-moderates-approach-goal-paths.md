@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: mixed
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: liu-zihan-2026
     resource: "https://doi.org/10.1186/s40359-026-03990-z"
@@ -40,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The perceived teacher support × future orientation interaction on mastery approach goal is statistically significant (β = 0.06, p < 0.01). [→ Liu Zihan 2026](#liu-zihan-2026)

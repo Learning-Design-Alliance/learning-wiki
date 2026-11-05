@@ -76,3 +76,4 @@ Dependent t test within the jigsaw group (n=23) one month after instruction; the
 - [No significant difference between post-test and one-month follow-up scores](no-significant-posttest-followup-difference.md) — related
 - [Both intervention groups showed significant performance decline from one week to one month post-intervention](both-groups-decline-one-month.md) — related
 - [At one-month follow-up the experimental group outperformed controls on six specific checklist tasks](modified-peyton-six-checklist-tasks-retention.md) — related
+- [One month after the course, knowledge retention did not differ significantly between the AI-assisted and traditional-teaching groups](deepseek-assistant-no-retention-advantage-one-month.md) — related

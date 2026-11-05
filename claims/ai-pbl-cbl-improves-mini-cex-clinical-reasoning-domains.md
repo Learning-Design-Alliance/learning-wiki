@@ -86,3 +86,4 @@ Same Mini-CEX assessment in the RCT. Two domains showed "no statistically signif
 - [Interns taught with combined sandwich-case teaching scored higher than traditionally taught interns on all seven Mini-CEX dimensions, including clinical judgment and communication skills](sandwich-case-teaching-higher-mini-cex-scores.md) — related
 - [WBLP students report significantly better teacher–student interaction, patient–doctor communication, and humanistic care perceptions](wblp-better-interaction-communication-humanistic-care-ratings.md) — related
 - [MDT-CBL interns scored numerically higher than traditionally taught interns on a urology knowledge test, but the difference was not statistically significant](mdt-cbl-knowledge-test-null-pilot.md) — related
+- [PBL interns formulate more differential diagnosis items and higher-quality case presentations than lecture-taught interns](pbl-differential-diagnosis-case-presentation-esophageal.md) — related

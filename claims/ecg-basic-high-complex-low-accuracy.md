@@ -51,3 +51,4 @@ Descriptive item-level results from the survey of 100 ICU nurses (Table 2): "ide
 - [Knowledge–confidence inverse pattern is strongest among paramedics and non-trained resident physicians](phtls-knowledge-confidence-subgroup-pattern.md) — related
 - [Greek ICU nurses demonstrate moderate theoretical ECG knowledge, with a median composite score of 6.0 of 10](icu-nurses-moderate-ecg-knowledge-greece.md) — related
 - [Cardiac ICU nurses outperform general ICU nurses on specialist arrhythmia items](cardiac-icu-nurses-better-specialist-items.md) — related
+- [Interns recognize high-alarm ECG conditions well (STEMI 85.9%, ventricular fibrillation 84%) but perform poorly on nuanced abnormalities (second-degree block 41.8%)](ecg-pattern-recognition-high-alarm-versus-nuanced.md) — related

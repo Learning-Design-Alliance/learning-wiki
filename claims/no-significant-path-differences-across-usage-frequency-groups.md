@@ -91,3 +91,4 @@ Descriptive group-specific coefficients from Table 9; the authors present these 
 - [Structure-outcome relationships appear largely universal across grade levels](structure-benefits-appear-universal-across-grade-levels.md) — related
 - [The negative load–flow association is stronger among nursing students with lower digital readiness](digital-readiness-moderates-load-flow-association.md) — related
 - [Higher GPT usage frequency is associated with more positive student perceptions, with significant differences between high and low usage groups](usage-frequency-associated-with-positive-perceptions-gpt-companion.md) — related
+- [The path from psychological quality to professional recognition is stronger in applied disciplines (Social Sciences, Engineering) than in theoretical disciplines (Humanities, Natural Sciences)](discipline-moderates-quality-to-recognition-path.md) — related

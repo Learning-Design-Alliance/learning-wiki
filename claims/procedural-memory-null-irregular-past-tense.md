@@ -9,7 +9,7 @@ generated:
   at: 2026-09-28
 evidence_strength: moderate
 newest_evidence: 2023
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 sources:
   - id: yusuke-sato-2023
     resource: "https://doi.org/10.52598/jpll/5/1/4"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2023 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Procedural memory (SRT) was not a significant predictor of UGJT or EIT posttest scores for irregular past tense in any CF group. [→ Yusuke Sato 2023](#yusuke-sato-2023)

@@ -72,3 +72,4 @@ The review reports other SP-versus-role-play comparison studies found "higher le
 - [Literature offers no consensus on whether video demonstration or standardized patient teaching is better for psychomotor skills, motivating direct comparison](no-consensus-vd-vs-sp-psychomotor-teaching.md) — related
 - [Technicians and collaborators disagree on whether technicians should perform roles in simulation scenarios](technician-role-scenario-disagreement.md) — related
 - [International medical students receiving peer role-play and peer assessment report significantly higher course satisfaction across all measured dimensions than students in traditional collaborative group learning](peer-roleplay-higher-course-satisfaction-gynecology.md) — related
+- [Facilitators reported that real delivery experience, not role-play training alone, was needed to become confident and competent](experiential-learning-facilitator-competence.md) — related

@@ -61,3 +61,4 @@ Human-rater validation study: five M.Sc.-level psychologists, blind to persona c
 - [AI-generated OPTION-12 ratings agree strongly with human expert ratings of shared decision-making performance in AI-simulated consultations](ai-human-option12-agreement-feasibility.md) — a narrower finding that bears on this claim
 - [Two independent observers showed excellent interrater agreement when assessing nursing students' VAP prevention skill performance in simulation](excellent-interrater-agreement-vap-checklist.md) — related
 - [The OPTION-12 scale shows good internal consistency when applied by AI in simulated consultations](option12-internal-consistency-ai-setting.md) — related
+- [Blinded expert raters showed very high agreement when evaluating the LLM-based ACLS simulation scenarios (Kendall W > 0.754)](acls-llm-sim-high-interrater-reliability.md) — related

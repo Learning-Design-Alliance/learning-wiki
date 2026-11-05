@@ -47,7 +47,8 @@ The article's practical recommendation is that RCR courses should engage learner
 - [Knowledge acquisition in RCR training benefits from individualized learning and application of ethical guidelines, and is hindered by mandatory status and purely theoretical emphasis](../claims/rcr-knowledge-moderators-individual-guidelines.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Professional development on WCF should be practical, context-sensitive training rather than theoretical lectures](context-sensitive-wcf-teacher-development.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Trainee-perspective subgroup analysis (Table 6) of 111 current students comparin
 - [Participants trained with simulated models and phantom bodies in addition to extracted teeth reported better understanding and practice of endodontics (P < 0.001)](simulative-models-better-understanding-practice.md) — related
 - [Artificial teeth were perceived as easier than extracted teeth for most root canal treatment stages, with the largest advantage in pulp chamber and canal entrance localisation (76.3%)](artificial-teeth-easier-than-extracted-teeth-perception.md) — related
 - [Students perceived natural teeth as better for endodontic preclinical training than artificial teeth](students-prefer-natural-teeth-training.md) — related
+- [Endodontic simulation marks differed significantly by tooth type (extracted vs plastic), with extracted teeth showing a non‐significant positive correlation with clinical marks](endo-simulation-tooth-type-extracted-versus-plastic.md) — related

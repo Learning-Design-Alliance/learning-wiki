@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: weak
 newest_evidence: 2015
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: wilujeng-2015
     resource: "https://journals.iafor.org/wp-content/uploads/2015/08/iafor-education-vol3-issue2.pdf"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the essay section of the questionnaire, 8 students said the internet connection was too bad, 3 students said they needed much more time to create online comics, and 7 students in the collaborative learning group mentioned limited time given. [→ Wilujeng 2015](#wilujeng-2015)

@@ -57,6 +57,7 @@ The review synthesizes implementable strategies for improving AI-generated virtu
 - [Develop open, reusable, generalizable CBL platforms for specific learning contexts instead of building closed systems from scratch](reusable-open-cbl-platforms-strategy.md)
 - [Configure the LLM simulated patient with behavioral constraints and standardized scripts to ensure consistency](llm-simulated-patient-prompt-constraints-strategy.md)
 - [Use detailed, comprehensive system prompts and patient-like prompt language to optimize LLM virtual patient performance](detailed-system-prompts-optimize-llm-virtual-patients.md)
+- [Use a simulated multiagent prompt combining role, instruction-based, chain, and few-shot prompting to generate OSCE stations with an LLM](simulated-multiagent-prompting-for-osce-generation.md)
 
 ## Examples
 -

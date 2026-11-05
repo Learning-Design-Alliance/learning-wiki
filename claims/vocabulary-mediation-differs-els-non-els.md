@@ -9,7 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2019
-source_checked: 2026-10-25
+source_checked: 2026-11-05
 sources:
   - id: cho-2019
     resource: "https://doi.org/10.1037/edu0000332"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
-> **Currency** · newest study 2019 · checked against its sources 2026-10-25 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` For ELs, a complete mediation model, in which vocabulary's effects on reading comprehension pass through listening comprehension and word reading, fit best. [→ Cho 2019](#cho-2019)

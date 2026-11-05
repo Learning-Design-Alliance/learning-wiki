@@ -44,6 +44,7 @@ The editorial's forward-looking recommendation is that intellectuals in higher e
 - [Embed AI literacy across disciplines by identifying intersections with existing content and using case studies, interdisciplinary modules, and collaborative projects](embed-ai-literacy-across-disciplines.md)
 - [Embed AIL across disciplines by adding modules to existing Digital Literacy courses and offering interdisciplinary AI ethics and legal seminars](embed-ail-modules-and-interdisciplinary-seminars.md)
 - [Embed ethics in AI capacity building using hands-on approaches, case studies, and role reversal](hands-on-case-study-ai-ethics-training.md)
+- [Integrate AI literacy and critical appraisal skills into dental curricula alongside discipline-specific AI validation](ai-literacy-critical-appraisal-dental-curricula-strategy.md)
 
 ## Examples
 -

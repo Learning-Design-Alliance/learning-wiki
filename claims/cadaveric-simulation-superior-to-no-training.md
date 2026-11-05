@@ -47,4 +47,5 @@ Review synthesis of three RCTs (OCEBM level 1b/2a) comparing cadaveric simulatio
 
 ## Related Claims
 - [RCT evidence comparing cadaveric with low-fidelity simulation is mixed: two RCTs favour cadaveric, one shows equivalence, one favours the bench model](cadaveric-vs-low-fidelity-simulation-mixed.md) — related
+- [Cadaveric specimens are rated the most beneficial PTED simulation modality and low-fidelity bench-top models the least](cadaveric-specimens-preferred-pted-simulation-modality.md) — related
 

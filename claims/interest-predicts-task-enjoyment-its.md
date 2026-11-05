@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-05
 sources:
   - id: chevalère-2023
     resource: "https://doi.org/10.1016/j.learninstruc.2023.101799"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Higher topic-related interest in climate change was associated with more enjoyment while working with Betty's Brain (β = .29), whereas importance, utility, and self-efficacy showed no significant relations (ps ≥ .35). [→ Chevalère 2023](#chevalere-2023)

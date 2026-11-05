@@ -57,3 +57,4 @@ The review's narrative synthesis of its included experimental and quasi-experime
 - [Simulation-based training increases economy of movement in laparoscopic surgery](simulation-training-increases-economy-of-movement.md) — a narrower finding that bears on this claim
 - [VR training increased confidence on all 4 perceived competence scale items, while small group training increased only 2 of 4](vr-confidence-gains-all-pcs-items.md) — a narrower finding that bears on this claim
 - [Participants reported perceived increases in confidence when approaching early clinical tasks after completing the integrated module.](integrated-module-increases-confidence-early-clinical-tasks.md) — related
+- [VR-trained students outperformed control students in all three assessed competency modules in both assessment modes](vr-cataract-three-module-subscore-advantage.md) — a narrower finding that bears on this claim

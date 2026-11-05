@@ -48,3 +48,4 @@ Chi-square test of association between self-reported knowing how to respond and 
 
 - [Students report low self-assessed knowledge but high perceived need for education and willingness to train](low-self-knowledge-high-education-need.md)
 - [Self-assessed knowledge does not significantly predict correct decision-making in fracture scenarios](self-assessed-knowledge-not-predictive-fracture-decisions.md)
+- [First aid training participation alone was not associated with better dental trauma awareness among these students](first-aid-training-no-dental-trauma-awareness-difference.md) — related

@@ -52,3 +52,4 @@ Self-reported confidence measured via Likert-scale items in Section E of the que
 - [GDP confidence in TDI management is lowest among recently qualified practitioners and declines as injury complexity increases](gdp-confidence-experience-complexity.md) — related
 - [Awareness of the most recent IADT guidelines is associated with higher knowledge and confidence in TDI management](iadt-guideline-awareness-knowledge-confidence.md) — related
 - [Medical students show low clinical decision accuracy in dental trauma scenarios, particularly for tooth avulsion](medical-students-low-decision-accuracy-dental-trauma.md) — related
+- [Most Turkish health vocational students believed dental trauma education is necessary (89.8%) and expressed interest in attending such training (80.2%)](strong-demand-dental-trauma-education-vocational-students.md) — related

@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2` · `i2`–`i3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Bullying (OR = 3.90) and punitive teacher behavior (OR = 3.15) increased odds of chronic absenteeism. [→ Hossain Md. Ismail 2026](#hossain-md-ismail-2026)

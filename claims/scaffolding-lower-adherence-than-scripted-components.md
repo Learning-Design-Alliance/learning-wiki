@@ -9,7 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: moderate
 newest_evidence: 2021
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: zucker-2021
     resource: "https://doi.org/10.1080/10409289.2020.1839288"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
-> **Currency** · newest study 2021 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Adherence to the scaffolding approach was lower than adherence to scripted vocabulary instruction and inferential questions in Studies 2 and 3 (76.00% against 93.50% and 86.91%; 61.46% against 95.76% and 78.57%), but not in Study 1, where scaffolding (73.71%) was slightly above both (72.50% and 72.69%). [→ Zucker 2021](#zucker-2021)

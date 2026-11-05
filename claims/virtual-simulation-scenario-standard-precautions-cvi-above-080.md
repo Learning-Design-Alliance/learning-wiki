@@ -55,3 +55,4 @@ Expert validation study using a researcher-developed Likert-type questionnaire o
 - [The CSL-LTS demonstrates adequate content validity with Aiken's V values exceeding 0.8 for all three assessed attributes](csl-lts-content-validity-aiken-v.md) — related
 - [Expert review established content validity of VEGA's generated content, with I-CVIs of 0.83–1.00 and S-CVI/Ave of 0.96](vega-content-validity-cvi.md) — related
 - [Document analysis found learning materials adequate and aligned with SRL principles and learning outcomes](document-analysis-materials-adequate-srl.md) — related
+- [Culturally adapted virtual patients achieve acceptable content validity for assessing history-taking and communication skills](vp-acceptable-content-validity.md) — related

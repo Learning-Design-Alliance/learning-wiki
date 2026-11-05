@@ -51,3 +51,5 @@ A 10-item 5-point Likert questionnaire developed by the authors and administered
 - [Simulation-based handoff training with a structured communication tool enhanced nurse anesthesia students' perceived confidence in team communication and patient safety interventions.](sim-handoff-training-increased-perceived-team-communication-safety-confidence.md) — related
 - [No significant change in self-confidence across stages for access cavity preparation, radiographic evaluation, post-treatment follow-up, or patient communication](dental-confidence-null-procedures-no-change.md) — related
 - [Students who train on the VR haptic simulator first report higher self-confidence in performing access cavity preparation and managing procedural challenges](vr-first-higher-self-confidence.md) — related
+- [Most participants favor simulator implementation in endoscopy training, but few have institutional access](endonix-implementation-attitudes-and-access.md) — related
+- [Clinical students perceived VR-based training as a complementary method that enhances proficiency, confidence, and access](vtracs-perceived-complementary-proficiency-enhancement.md) — related

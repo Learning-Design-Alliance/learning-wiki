@@ -17,7 +17,7 @@ sources:
 # Shared deidentified registry and cross-border data governance for benchmarking AI-augmented OSCEs
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article proposes a joint Taiwan-Japan road map including harmonized rubric vocabularies across Chinese, Japanese, and English and a shared, deidentified registry of OSCE logs and outcome indicators focusing on reliability, validity, equity, and workload. The registry "records model versions and prompts to enable cross-site comparability and accompanies each dataset with transparency artifacts documenting intended use and known limitations." Where cross-border transfer constraints are substantial, federated analytics with local computation and only aggregate sharing is offered as a practical alternative.

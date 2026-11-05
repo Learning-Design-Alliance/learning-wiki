@@ -50,3 +50,4 @@ Thematic analysis of open-ended survey comments from word cloud condition studen
 - [Every think-aloud student showed creative problem solving behaviors belonging to each of the four CPS model elements](all-four-cps-elements-observed-in-think-aloud.md) — related
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
 - [Teachers report AI tools enhance students' higher-order scientific skills including experimental design, inquiry, hypothesis testing, and argumentation](ai-enhances-higher-order-scientific-skills.md) — related
+- [Single-word word-cloud elicitation showed students’ associations with VR shifting from entertainment and scepticism toward constructive, professional and educational associations](vr-pilot-word-cloud-conceptual-shift.md) — related

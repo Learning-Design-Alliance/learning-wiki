@@ -59,3 +59,4 @@ Descriptive synthesis of software-based platform RCTs (desktop VR, web-based sim
 - [Computer/internet-based learning programs improved physical examination skill performance compared to students without IT support](computer-based-learning-improves-pe-skills.md) — a narrower finding that bears on this claim
 - [MEET remediation cohort showed significant overall OSCE improvement after AI virtual patient use](aivp-meet-cohort-significant-osce-gain.md) — a narrower finding that bears on this claim
 - [AI chatbots, simulations, and generative models enhanced student engagement and learning efficiency in dental education](ai-tools-enhance-dental-student-engagement-efficiency.md) — related
+- [Virtual patient platform plus mind mapping improves reported learning efficiency versus conventional teaching](dxr-mindmap-learning-efficiency.md) — related

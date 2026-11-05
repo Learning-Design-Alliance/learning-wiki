@@ -55,3 +55,4 @@ Meta-analytic synthesis of the remaining math motivation measures. Male top perf
 - [Task value was higher for mathematics than for English and social studies for both genders, with gender differences only in the English–social studies comparison](task-value-higher-mathematics-both-genders.md) — related
 - [Task value predicted cognitive and regulatory strategy use but not classroom grades, whereas self-efficacy predicted grades in all three subjects](task-value-predicts-strategy-use-not-grades.md) — related
 - [Male top-performing math students show strongly science-oriented science–reading profiles while female students' profiles are more balanced](science-reading-profile-gender-tilt-top5.md) — related
+- [Self-efficacy's association with achievement is stronger for math than reading, especially for boys](self-efficacy-math-stronger-than-reading-gender.md) — related

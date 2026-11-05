@@ -46,3 +46,4 @@ Pearson correlation in the 29-student cohort linking post-exam perception questi
 
 ## Related Claims
 - [Parity in MCQ assessments does not extend to other formats: lower performance reported in EMQ, SAQ, OSCE, and delayed progression](non-mcq-formats-lower-performance-spld.md) — related
+- [Students' impressions of what improves their learning may not align with actual learning outcomes](student-perceptions-misalign-with-actual-learning.md) — a broader claim this one bears on

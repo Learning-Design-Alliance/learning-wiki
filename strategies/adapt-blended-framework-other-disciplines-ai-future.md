@@ -53,6 +53,7 @@ The article recommends that the blended framework is adaptable to other surgical
 - [Adapt the two question-design strategies across disciplines: novel scenarios for logic puzzles, guided reasoning for proofs and critical analyses](cross-disciplinary-adaptation-of-question-strategies.md)
 - [Blend digital resources with traditional teaching to create a blended learning approach](blended-digital-traditional-pathology-teaching.md)
 - [Incorporate artificial intelligence and platform-based course recommendations into future blended teaching](future-ai-integration-blended-medical-teaching.md)
+- [Deploy DeepSeek in medical education as a virtual mentor, PBL case tool, and adaptive question bank](deepseek-medical-education-integration-strategies.md)
 
 ## Examples
 -

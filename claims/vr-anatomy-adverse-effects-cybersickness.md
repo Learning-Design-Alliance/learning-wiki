@@ -58,3 +58,4 @@ Adverse-effect reporting within the meta-analysis's review of the five satisfact
 - [Students reported usability and technological limitations including headaches, visual fatigue, gesture misinterpretation and restricted field of view](hololens-usability-limitations-cybersickness-gestures.md) — related
 - [External and internal barriers, including cybersickness, logistics, workload and lack of time, limited residents' use of VR simulation](barriers-limit-residents-vr-use.md) — related
 - [Remote AR headset use imposes minimal reported ergonomic burden and no adverse events in neonatal resuscitation simulation](remote-ar-simulation-ergonomics-adverse-events.md) — related
+- [Most participants found first VR engagement exciting and easy to use, though a minority reported discomfort and initial difficulty](vtracs-excitement-with-minority-adverse-experiences.md) — related

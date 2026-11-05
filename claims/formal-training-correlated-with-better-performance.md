@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: pawlaczyk-kamieńska-t-2026
     resource: "https://doi.org/10.1186/s12909-026-09447-6"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participation in formal dental trauma training was weakly but significantly correlated with better performance (ρ = 0.125, p = 0.034). [→ Pawlaczyk-Kamieńska T 2026](#pawlaczyk-kamienska-t-2026)
@@ -52,3 +52,4 @@ Bivariate Spearman correlation in a cross-sectional survey of 291 medical studen
 - [Medical students show low clinical decision accuracy in dental trauma scenarios, particularly for tooth avulsion](medical-students-low-decision-accuracy-dental-trauma.md) — related
 - [Self-assessed knowledge does not significantly predict correct decision-making in fracture scenarios](self-assessed-knowledge-not-predictive-fracture-decisions.md) — related
 - [General avulsion knowledge is the only significant predictor of clinical decision accuracy in regression analysis](general-avulsion-knowledge-predicts-decision-accuracy.md) — related
+- [First aid training participation alone was not associated with better dental trauma awareness among these students](first-aid-training-no-dental-trauma-awareness-difference.md) — reports the opposite

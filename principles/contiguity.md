@@ -50,7 +50,7 @@ sources:
 # Contiguity Principle (Spatial and Temporal)
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 32 claims (18 for, 14 mixed) · 26 studies (8 review, 7 causal, 5 quant-synthesis, 2 associational, 2 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 7 of 26 report an effect size · 27 claims rest on one study
+> **Evidence** · 32 claims (18 for, 14 mixed) · 27 studies (8 review, 7 causal, 5 quant-synthesis, 2 associational, 2 design, 2 theoretical, 1 qualitative), `q1`–`q4` · 8 of 27 report an effect size · 26 claims rest on one study
 
 ## Conditional relationship
 

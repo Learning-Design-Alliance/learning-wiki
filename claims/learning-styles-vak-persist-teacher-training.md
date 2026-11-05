@@ -9,7 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2025
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: bowen-2025
     resource: "https://doi.org/10.1038/s41539-025-00370-x"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Debunked learning-styles theories, particularly Visual-Auditory-Kinaesthetic (VAK), persist in teacher training, and an overwhelming majority of teachers report believing in them despite robust evidence that learning-styles practices do not positively impact educational outcomes and may be detrimental. [→ Bowen 2025](#bowen-2025)

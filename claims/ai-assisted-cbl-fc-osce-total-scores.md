@@ -75,3 +75,4 @@ Station-level results show significant advantages for the AI-assisted group on m
 - [Virtual standardized patient interview comprehensiveness rose across successive SP consultations in the AI-assisted group, in one uncontrolled pre-post study](virtual-sp-interview-comprehensiveness-increases-sp1-sp3.md) — related
 - [The DwGJ group outperformed the control group on OSCE-based practical skill assessment after the course](dwgj-cbl-higher-osce-skill-scores.md) — related
 - [PBL-trained kidney transplantation trainees achieve higher OSCE scores than traditionally trained trainees across all stations](pbl-higher-osce-scores-kidney-transplant.md) — related
+- [Station-level analysis showed intervention advantages on Station 1 (examiners) and Station 5 (intervention), with no differences on Stations 2–4](station-level-osce-differences.md) — related

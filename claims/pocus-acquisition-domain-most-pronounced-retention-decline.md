@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 recheck_by: 2030
 sources:
   - id: wang-lw-2025
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2030: baselines and conditions change
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` All I-AIM domains of PoCUS competency show decline over 1–12-month follow-up, with the Acquisition domain declining most (median −11.8%, IQR −16.5% to −6.4%). [→ Wang L‐W 2025](#wang-lw-2025)

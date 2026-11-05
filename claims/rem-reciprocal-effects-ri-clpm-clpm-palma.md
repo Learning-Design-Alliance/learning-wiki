@@ -98,3 +98,4 @@ Reanalysis of the PALMA longitudinal study (five annual waves of mathematics dat
 - [When marks and tests are modeled as separate latent variables with cross-lagged effects between them, effects of self-concept on achievement completely disappear](separate-indicators-self-concept-effects-disappear.md) — reports the opposite
 - [Academic buoyancy and adaptability show reciprocal cross-lagged effects over time, each a medium effect (β = .07, p < .01) in latent modeling](buoyancy-adaptability-reciprocal-cross-lagged-effects.md)
 - [Learning outcomes and skill transfer/retention show a bidirectional but developmentally asymmetrical longitudinal relationship, with prior learning exerting the stronger forward influence](lo-str-bidirectional-asymmetrical-coupling.md) — related
+- [Associations between academic self-concept and parent expectations during the transition are bidirectional but asymmetric](bidirectional-self-concept-expectations-transition.md) — related

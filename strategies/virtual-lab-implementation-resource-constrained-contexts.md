@@ -43,7 +43,8 @@ The review notes that two-thirds of included studies were conducted in high-inco
 - [Cost, equipment availability, maintenance and faculty training are reported implementation barriers for laparoscopic simulation, especially in resource-constrained settings](../claims/laparoscopic-simulation-implementation-barriers.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Multi-pronged cost-mitigation strategies for deploying live-video teaching equipment in low-resource settings](ltm-cost-mitigation-strategies.md)
 
 ## Examples
 -

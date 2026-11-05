@@ -63,3 +63,4 @@ Post-interaction usability assessment in the validation experiment: 26 adults we
 - [Students report no usability issues with the formative assessment tool (ASQ means 5.2–5.5)](students-report-no-usability-issues-asq.md) — related
 - [The experimental group rated AVDS usability as excellent while the control group rated it as good](sus-usability-excellent-experimental-good-control.md) — related
 - [The DCBL platform achieved marginal-to-average usability (mean SUS 62.4) with moderate cognitive workload](dcbl-platform-usability-sus-workload.md) — related
+- [The Endonix simulator achieves a median SUS score of 75, indicating good usability across experience levels](endonix-sus-good-usability.md) — related

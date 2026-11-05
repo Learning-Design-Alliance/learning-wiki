@@ -52,3 +52,4 @@ Meta-analysis of influencing factors across the 16 included cross-sectional stud
 - [Nurses assessed in 2023 had the highest average spiritual care score, with 2019–2023 mean differences statistically significant](spiritual-care-scores-highest-2023-subgroup.md) — related
 - [Univariable differences across competency profiles concentrate in career-stage and psychological variables, while sex, education and specialist nurse status show no significant differences](profile-differences-career-stage-psychological-variables.md) — related
 - [Most psychology training programs offer no courses in religion and spirituality](psychology-training-lacks-religion-spirituality-courses.md) — related
+- [The religious attachment dimension of spiritual health scored lowest and showed only a weak correlation with core competencies](religious-attachment-lowest-weak-correlation-competencies.md) — related

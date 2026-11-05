@@ -49,3 +49,4 @@ Baseline observational finding from the study's pretest data (n = 60): preceptor
 - [Graduating nurses often lack clinical skills and readiness for practice](graduating-nurses-lack-clinical-readiness.md) — related
 - [The clarifying goals and values dimension of clinical decision-making rose from pre-test to post-test after Jeffries-framework simulation, with the largest gain in one group with no comparison group](jeffries-simulation-clarifying-goals-values-largest-cdmns-gain.md) — related
 - [An AI-supported four-stage training framework was associated with significant improvement in overall teaching competence among prosthodontics graduate students.](ai-training-framework-improves-teaching-competence-prosthodontics.md) — related
+- [Core competencies of nursing intern students are at a medium level, with critical thinking and reasoning the weakest dimension](nursing-intern-competencies-medium-critical-thinking-lowest.md) — related

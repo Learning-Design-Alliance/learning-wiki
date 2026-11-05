@@ -226,3 +226,5 @@ Open questions include how the effect interacts with learner control over pacing
 - [Screen reading is slower than reading from printed out material according to prior literature reviewed](screen-reading-slower-than-printed-reading-literature.md) — related
 - [Pupils using the audio-and-image (AI) mode significantly outperformed pupils using the audio-image-text (AIT) mode on the music theory post-test](ai-mode-outperformed-ait-mode-music-theory.md) — a narrower finding that bears on this claim
 - [Text-graphic composite modality yields the highest knowledge acquisition efficiency despite moderate cognitive load](text-graphic-composite-optimal-learning-efficiency.md) — related
+- [The modality effect: complex visual displays are better understood when explanatory words are presented auditorily rather than visually](modality-effect-audiovisual-superiority.md) — a narrower finding that bears on this claim
+- [Redundancy effect: auditory content redundant to visual material deteriorates learning performance, especially with high complexity](redundancy-effect-two-modalities.md) — related

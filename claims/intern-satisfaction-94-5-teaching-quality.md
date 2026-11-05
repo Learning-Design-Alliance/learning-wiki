@@ -49,3 +49,4 @@ Descriptive satisfaction survey of nursing interns using a four-level scale (sat
 - [Students rate clinical reasoning skills and overall satisfaction highest among self-reported outcomes](cataract-vsim-highest-rated-outcomes.md) — related
 - [Certified preceptors reported high satisfaction with the certification system, with every questionnaire item scoring above 4.7 on a 5-point scale (Cronbach's α = 0.936)](preceptor-certification-satisfaction-above-4-7.md) — related
 - [Course participants reported high satisfaction (95.5%) and perceived clinical impact (97.7%), but nearly half reported a high or moderately high learning burden](tripartite-course-satisfaction-burden-survey.md) — related
+- [Most interns are dissatisfied with ECG training feedback and 97.3% want more training, but supervisor feedback was not a significant independent predictor of competency](intern-dissatisfaction-ecg-training-feedback-null-predictor.md) — reports the opposite

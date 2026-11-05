@@ -55,3 +55,4 @@ Author interpretation from the discussion section, tracing undermined coherence 
 - [The adaptive virtual patient produces a steadily climbing disclosure trajectory across a session while a prompt-only baseline with the same LLM and persona stays flat](avp-climbing-disclosure-vs-static-flat.md) — related
 - [Students perceived the GPT-based virtual patient encounters as realistic and easy to converse with](ai-virtual-patient-perceived-realistic.md) — reports the opposite
 - [Iterative persona refinement against reference answers achieved over 90% VSP response accuracy](vsp-persona-response-accuracy-over-90.md) — related
+- [The LLM cooperated with the trainer by improvising scripts and adjusting its attitude on instruction, but sometimes violated timing and role-boundary directives](llm-cooperates-with-trainer-but-breaks-instructions.md) — related

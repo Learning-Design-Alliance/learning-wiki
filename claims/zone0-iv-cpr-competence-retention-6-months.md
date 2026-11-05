@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: trampal-ramos-á-2026
     resource: "https://doi.org/10.2196/95529"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` At 6 months, competence was 96% (22/23) in the experimental group vs 62% (8/13) in the control group (P=.02; OR 13.75, 95% CI 1.39-136.39). [→ Trampal Ramos Á 2026](#trampal-ramos-a-2026)

@@ -322,6 +322,7 @@ Assisted performance, unaided immediate performance, delayed retention, transfer
 - [Keep governance of teacher-AI design processes with teachers](../strategies/governance-of-design-processes-remains-with-teachers.md)
 - [Design learning-oriented LLM prompts around guided questions, step-by-step support, reflection, and a thinking partner rather than direct answers](../strategies/learning-oriented-llm-prompt-strategy.md)
 - [AI chatbots to moderate feedback loops and reframe self-reflection away from success versus failure](../strategies/ai-chatbot-feedback-reframing.md)
+- [Use LLMs as supplements for theoretical learning while preserving hands-on training for practical skills](../strategies/llm-supplement-theoretical-learning-ot.md)
 
 ## Key Sources
 - Land, Susan M.; Hannafin, Michael J. (1996). Student-Centered Learning Environments: Foundations, Assumptions, and Implications. https://eric.ed.gov/?id=ED397810

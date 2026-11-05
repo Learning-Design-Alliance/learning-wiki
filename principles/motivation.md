@@ -46,7 +46,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 135 claims (81 for, 52 mixed, 2 against) · 122 studies (37 causal, 30 review, 18 associational, 12 theoretical, 10 qualitative, 9 quant-synthesis, 6 design), `q1`–`q4` · 16 of 122 report an effect size · 121 claims rest on one study
+> **Evidence** · 136 claims (81 for, 53 mixed, 2 against) · 123 studies (37 causal, 30 review, 19 associational, 12 theoretical, 10 qualitative, 9 quant-synthesis, 6 design), `q1`–`q4` · 16 of 123 report an effect size · 122 claims rest on one study
 
 ## Conditional relationship
 
@@ -216,6 +216,7 @@ Read 2026-10-19 and left here because they do not change the model. Claims attac
 - [Students most enjoyed oral-language-based reading activities — teacher read aloud, reading plays, short stories, silent reading, and student read aloud — each enjoyed by roughly 50% of students.](../claims/oral-language-activities-most-enjoyed.md) [+W] — attached 2026-11-03 from Varuzza et al. (2014), which proposed "Successful teachers motivate young adolescents through classroom interaction, challenging literacy activities, and discussion about what was read.".
 - [Socio‐emotional differentiation aligns more closely with academic achievement than with socioeconomic position across the full distribution of profiles](../claims/socio-emotional-differentiation-aligns-with-achievement-not-ses.md) [+W] — attached 2026-11-04 from Rémeau Margot et al. (2026), which proposed "Motivational vulnerabilities should be identified and supported across the full socioeconomic spectrum, moving beyond SES as a sole marker of risk".
 - [Actual effort is a significant positive predictor of test achievement across all three learning tasks](../claims/actual-effort-predicts-test-achievement-across-tasks.md) [+W] — attached 2026-11-05 from Kehle et al. (2025), which proposed "Foster both interest and effort, cultivating effort by making learning goals explicit and guiding purposeful learning pathways".
+- [Rehabilitation students with at least one specific professional interest report higher self-determined academic motivation than students without one](../claims/specific-interest-higher-sdi-rehabilitation-students.md) [~W] — attached 2026-11-05 from Hu Huiling; Luo Hongmei (2026), which proposed "Foster early specialization and professional interest within rehabilitation curricula to enhance academic motivation".
 
 ## Objective and learner-valued goal
 

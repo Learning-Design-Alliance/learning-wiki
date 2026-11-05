@@ -74,3 +74,5 @@ Same posttest-only quasi-experiment; the PC factor (z=-1,183, p=.237) showed no 
 - [Pre-service teachers’ perceptions of problem-solving ability are generally at a middle level](preservice-teachers-middle-psi-levels.md) — related
 - [Gains in problem-solving self-confidence and self-control persist at retention test, but avoidance and total inventory scores regress](cartoon-pbl-retention-subdimensions.md) — related
 - [The control group showed no significant change in problem-solving perceptions or achievement over the seven-week period](control-group-no-change-social-studies.md) — related
+- [High-tech simulations improve technological problem-solving ability more than low-tech simulations](high-tech-simulation-improves-problem-solving.md) — related
+- [Improvement spans all problem-solving subcategories: personal control, avoidance/approach, and confidence](psi-subcategories-all-improved-high-tech.md) — reports the opposite

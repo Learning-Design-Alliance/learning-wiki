@@ -50,3 +50,4 @@ Predicted MCAT scores were used to recalculate rankings for two pandemic-era coh
 - [An ML ensemble model predicts MCAT scores with limited accuracy, explaining 36% of variance](ml-mcat-prediction-limited-accuracy.md) — related
 - [Incorporating ML-predicted MCAT scores into admissions composites reduces correlations with subsequent medical school performance](predicted-mcat-reduces-performance-correlations.md) — related
 - [Including MCAT scores in admissions composites weakens prediction of clinical skills performance measured by OSCE scores](mcat-inclusion-reduces-osce-prediction.md) — related
+- [Baseline academic comparability of the two MD cohorts was established on MCAT scores, uGPA, and sGPA](md-cohorts-baseline-comparability.md) — related

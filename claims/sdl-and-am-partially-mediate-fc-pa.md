@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: yang-hechong-2026
     resource: "https://doi.org/10.3389/fpubh.2026.1804884"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The indirect effect via SDL ability alone was 0.07 and via AM alone was 0.06, with all bootstrap CIs excluding zero, indicating significant partial mediation. [→ Yang Hechong 2026](#yang-hechong-2026)
@@ -50,3 +50,4 @@ Structural equation modeling with bias-corrected bootstrap (5,000 resamples) tes
 - [Correlations among T2 variables support the hypothesized ability-motivation-behavior sequence, with SDL ability positively correlated with autonomous motivation and motivation with physical activity.](t2-correlations-support-ability-motivation-behavior-sequence.md) — related
 - [Self-directed learning partially mediated the association between iHEC teaching model and educational performance, accounting for 51.4% of the total association](sdl-partial-mediation-ihec-performance.md) — related
 - [AI acceptance partially mediates the relationship between self-directed learning ability and perceived clinical competence](ai-acceptance-partially-mediates-sdl-clinical-competence.md) — related
+- [Professional recognition partially mediates the relationship between psychological quality and entrepreneurial competence](professional-recognition-partial-mediation.md) — related

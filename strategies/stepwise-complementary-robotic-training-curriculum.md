@@ -74,6 +74,7 @@ The review recommends that training modalities be combined in a progressive curr
 - [Sequence laparoscopic training from box trainers and simulators with preset proficiency benchmarks before cadaver training](simulator-benchmarks-before-cadaver-training.md)
 - [Blend VR and IP simulation within a curriculum, matching each modality to learning objectives and training stage](blended-vr-ip-simulation-curriculum.md)
 - [Incorporate the validated sensorised glove into structured obstetric training curricula after staged refinement and validation](staged-sensorised-glove-training-curriculum-strategy.md)
+- [Integrate the MaiSurge model into gynecology residency curricula for continuous TLH training and skill assessment outside the operating room](maisurge-curriculum-integration-strategy.md)
 
 ## Examples
 -

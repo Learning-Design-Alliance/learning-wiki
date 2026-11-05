@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2024
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: nawanopparatsakul-2024
     resource: "https://eric.ed.gov/?id=ED673088"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2024 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After instructor feedback, students' individual RCT evaluation scores rose from 71.11 ± 5.57% to 96.11 ± 8.32%, a statistically significant improvement (p < 0.0001). [→ Nawanopparatsakul 2024](#nawanopparatsakul-2024)

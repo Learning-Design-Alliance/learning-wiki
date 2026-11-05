@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2019
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: türkben-2019
     resource: "https://doi.org/10.29329/ijpe.2019.203.3"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2019 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The test group taught with the self-regulation based program scored significantly higher than the control group on the Reading Strategies Cognitive Awareness Scale at post-test. [→ Türkben 2019](#turkben-2019)

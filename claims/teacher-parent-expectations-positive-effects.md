@@ -51,3 +51,5 @@ Longitudinal SEM analysis of the nationally representative ELS:2002 sample of 16
 - [The parental aspiration-expectation gap negatively predicts student expectations, academic self-concept, GPA, and age-26 outcomes](aspiration-expectation-gap-negative-effects.md) — related
 - [Expectations and aspirations partly mediate the adverse impacts of school-average achievement on GPA and age-26 outcomes](expectations-mediate-school-composition-effects.md) — related
 - [Effects of parent aspirations on student outcomes are predominantly small and mixed in direction](parent-aspirations-small-mixed-effects.md) — related
+- [Associations between academic self-concept and parent expectations during the transition are bidirectional but asymmetric](bidirectional-self-concept-expectations-transition.md) — related
+- [Initial levels and changes in self-concepts and parent expectations predict third-level attainment, with parent expectations a stronger predictor for economically vulnerable children](self-concept-expectations-predict-attainment.md) — related

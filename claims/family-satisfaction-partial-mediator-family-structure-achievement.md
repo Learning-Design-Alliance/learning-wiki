@@ -49,3 +49,4 @@ Structural equation modeling (Mplus 8, MLR, 5,000 bootstrap resamples) on the sa
 - [Quality of family relationships, not number of adults in the family, matters for adolescents' motivation and achievement](family-relationship-quality-over-family-structure.md) — related
 - [Adolescents from intact families show higher autonomous motivation, persistence, GPA, family satisfaction, and lower homework cheating than those from single-mother and stepfather families](intact-family-advantage-motivation-achievement-russian-adolescents.md) — related
 - [School-related variables (satisfaction with teachers, external motivation) showed no family-structure differences, suggesting school climate as a protective factor](school-climate-protective-family-structure.md) — related
+- [Satisfaction with the educational environment is a protective factor for academic performance (OR = 0.60)](educational-environment-satisfaction-protects-performance.md) — related

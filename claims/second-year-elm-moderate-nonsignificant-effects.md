@@ -10,7 +10,7 @@ generated:
   at: 2026-11-03
 evidence_strength: weak
 newest_evidence: 2018
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: doabler-2018
     resource: "https://doi.org/10.1177/0731948718756040"
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
-> **Currency** · newest study 2018 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 

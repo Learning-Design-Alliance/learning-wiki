@@ -56,6 +56,7 @@ Based on the study's findings of low knowledge and short-term one-off effects, t
 - [Integrate nutrition-related competencies horizontally and vertically and teach them in practical teaching formats from the start of studies through specialist training](horizontal-vertical-nutrition-competency-integration.md)
 - [Staged, vertically integrated EBM curriculum mapped to the five EBM steps, with low-cost case-triggered activities for resource-constrained settings](staged-vertically-integrated-ebm-curriculum-strategy.md)
 - [Evaluate short-term teaching innovations with longitudinal, skills-based assessments and delayed post-tests rather than a single written test](longitudinal-skills-based-assessment-recommendation.md)
+- [Integrate structured, interdisciplinary dental trauma training into vocational health curricula using modular, problem-based and digital formats](structured-dental-trauma-curriculum-integration-strategy.md)
 
 ## Examples
 -

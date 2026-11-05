@@ -50,3 +50,4 @@ Self-report finding from the pre-post cohort. The authors attribute this to the 
 - [Exercise capacity assessment, exercise prescription, and patient education showed the most clinically meaningful shifts](pr-training-largest-gains-core-delivery-competencies.md) — related
 - [Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months](pr-training-self-rated-gains-sustained-3-months.md) — related
 - [Nurses reported the lowest confidence in differentiating delirium, completing mental state examinations and risk assessments, and managing suicidal or psychotic presentations](icu-nurses-confidence-gaps-assessment-and-complex-presentations.md) — related
+- [Respondents rate core assessment and treatment techniques as highly important, with near-universal agreement on spirometry, breathing exercises, and strength/endurance training](high-importance-ratings-core-techniques.md) — related

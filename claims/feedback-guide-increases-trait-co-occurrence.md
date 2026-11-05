@@ -9,7 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2024
-source_checked: 2026-10-29
+source_checked: 2026-11-05
 sources:
   - id: george-gyamfi-2024
     resource: "https://doi.org/10.1007/s11423-024-10346-0"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2024 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` 87% of trained-group comments displayed multiple S.P.A.R.K. traits versus 55.72% of untrained-group comments. [→ George Gyamfi 2024](#george-gyamfi-2024)

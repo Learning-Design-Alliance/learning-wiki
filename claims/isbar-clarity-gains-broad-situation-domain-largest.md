@@ -50,3 +50,4 @@ Item-level exploratory analysis of the Communication Clarity Scale in a single-g
 - [Simulation-based training is associated with improved patient safety-related skills and knowledge in undergraduate nursing students](simulation-improves-nursing-patient-safety-skills.md) — a broader claim this one bears on
 - [Students report that ISBAR provides a cognitive scaffold for organized handover expression](isbar-cognitive-scaffold-organized-expression.md) — related
 - [Knowledge gains from the workshop were largest in sampling and critical care domains for both professional groups](bronchoscopy-workshop-domain-specific-gains.md) — related
+- [SBAR and handover capabilities did not change significantly from pre-test to post-test in one single-group study with no comparison group](sccdp-sbar-handover-no-significant-change.md) — related

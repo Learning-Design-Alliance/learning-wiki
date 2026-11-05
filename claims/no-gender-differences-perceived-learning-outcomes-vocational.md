@@ -84,3 +84,4 @@ Independent-samples t-test comparing male (n = 388) and female (n = 722) student
 - [Gender, degree type, and personality show differential associations with course outcome dimensions](demographic-differences-course-dimensions.md) — reports the opposite
 - [Student perceptions of the GPT companion do not differ significantly by gender, academic background, or GPA](no-perception-differences-gender-stream-gpa-gpt-companion.md) — related
 - [No statistically significant post-test gender differences emerged on any psychological variable, with only small tendencies favoring females on some measures](no-posttest-gender-differences-psychological-variables.md) — related
+- [Score gains from before to after the lecture did not differ significantly by sex or GPA category in a single-group pre-post study](no-sex-gpa-differences-in-score-gains.md) — related

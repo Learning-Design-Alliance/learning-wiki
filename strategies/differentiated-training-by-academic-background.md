@@ -48,7 +48,8 @@ The study recommends that universities and training institutions design differen
 - [K-means clustering identifies three distinct ability profiles among young new farmers, with varying overlap across competency dimensions.](../claims/kmeans-clustering-ability-profiles.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Target QS graduate training programs at management and personality development, combining management content with personal image and innovative insight](qs-management-personality-training-programs.md)
 
 ## Examples
 -

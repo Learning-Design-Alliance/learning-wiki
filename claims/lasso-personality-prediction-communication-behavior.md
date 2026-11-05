@@ -67,3 +67,4 @@ Spearman's rank correlation between predicted values and ground truth for the sa
 ## Related Claims
 - [Distinct communication-behavior features significantly predict each Big-Five trait, with exclamation marks and after-class activities the strongest Neuroticism predictors](significant-predictors-per-personality-trait.md) — a narrower finding that bears on this claim
 - [Students' Big-Five personality significantly influences their usage of communication tools in a web-based learning system, with 32 of 120 behavioral features significantly affected](personality-influences-communication-tool-behavior.md) — related
+- [Big Five personality traits show no significant association with dental students' radiographic diagnostic accuracy](personality-traits-no-effect-radiographic-accuracy.md) — related

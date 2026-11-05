@@ -18,7 +18,7 @@ sources:
 # Observation/Shadowing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (15 for, 14 mixed) · 28 studies (6 causal, 6 review, 4 theoretical, 3 quant-synthesis, 3 associational, 3 qualitative, 3 design), `q1`–`q4` · 3 of 28 report an effect size · 26 claims rest on one study
+> **Evidence** · 31 claims (15 for, 16 mixed) · 29 studies (7 causal, 6 review, 4 theoretical, 3 quant-synthesis, 3 associational, 3 qualitative, 3 design), `q1`–`q4` · 3 of 29 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -139,6 +139,8 @@ Claims that mention observation but bear on this page little or not at all:
 - [A BOPPPS-based structured perioperative observation model was associated with higher learning objective clarity and self-reported purposeful observation than a conventional clerkship in early anesthesiology exposure](../claims/structured-perioperative-observation-improves-objective-clarity.md) [+W] — attached 2026-11-04 from Zhu Xiaocheng et al. (2026), which proposed "Structured perioperative observation pattern: explicit objectives plus checklist-guided observation and reflective summary within existing clinical exposure time"; tests this page's relationship.
 - [The structured observation group showed greater gains in anesthesia-related awareness and knowledge test scores than the conventional group](../claims/structured-observation-greater-awareness-knowledge-gains.md) [+W] — attached 2026-11-04 from Zhu Xiaocheng et al. (2026), which proposed "Structured perioperative observation pattern: explicit objectives plus checklist-guided observation and reflective summary within existing clinical exposure time"; tests this page's relationship.
 - [Open-ended feedback suggested structured observation shifted student descriptions from visible equipment and procedures toward perioperative workflow, patient safety, and team collaboration](../claims/open-ended-feedback-shift-toward-workflow-safety.md) [+W] — attached 2026-11-04 from Zhu Xiaocheng et al. (2026), which proposed "Provide explicit objectives and observation frameworks to prevent early clinical exposure from becoming passive watching".
+- [Directed observer and active participant roles produced statistically comparable knowledge gains in bowel preparation counselling in an interprofessional simulation trial](../claims/observer-role-knowledge-gains-equivalent-rct.md) [~W] — attached 2026-11-05 from Inam Maha et al. (2025), which proposed "Directed observer role combining vicarious observation, a checklist and debriefing participation".
+- [Self-efficacy gains from directed observer participation matched those of active participation in bowel preparation counselling training](../claims/observer-role-self-efficacy-gains-equivalent-rct.md) [~W] — attached 2026-11-05 from Inam Maha et al. (2025), which proposed "Use directed observer roles to educate larger cohorts within the same simulation timeframe and resources"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

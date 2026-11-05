@@ -50,3 +50,4 @@ In the three-round Delphi study, Round 2 retained 124 items meeting consensus cr
 - [A two-round modified Delphi process achieved consensus on 273 of 343 preliminary psychomotor competency statements (79.6%) for Brazilian medical graduates](delphi-consensus-273-of-343-preliminary-competencies.md) — related
 - [Delphi panel reached consensus on six competence areas and 43 learning objectives for dental care of DOP](delphi-consensus-43-learning-objectives-dop.md) — related
 - [Two rounds of Delphi expert consultation with 22 experts demonstrate significant consensus and refine the retraining program from 9 to 11 learning modules.](delphi-consultation-refines-retraining-program-modules.md) — related
+- [A three-round e-Delphi panel of 19 experts from 6 European countries achieved consensus on 58 core teamwork competencies for community-based interprofessional teams, grouped into five areas](edelphi-consensus-58-cbit-competencies.md) — related

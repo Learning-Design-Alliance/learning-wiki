@@ -55,3 +55,6 @@ Chi-square and ANOVA comparisons of sociodemographic variables across the four p
 - [Univariate analyses show core competency total scores differ by sex, hospital classification, palliative care working duration, training experience, and recent bereavement.](univariate-competency-differences-demographics.md) — related
 - [No consistent significant differences in competency or caring scores across socio-demographic characteristics in univariate analyses](no-consistent-univariate-demographic-differences.md) — related
 - [Nurses' working experience is associated with AI competence; other demographics show no significant association](working-experience-associated-with-aic-nurses.md) — related
+- [Sociodemographic differences in competency were no longer statistically significant after EBP training in one uncontrolled pre-post study](ebp-training-erased-sociodemographic-competency-gaps.md) — related
+- [Competence and error-tendency scores differ by academic achievement, clinical department, self-perceived competence, and confidence in nursing skills](manova-academic-department-self-perceived-differences.md) — related
+- [Age, department satisfaction, and prior encounter with or making of medical errors showed no significant differences in competence or error tendency](no-significant-differences-age-satisfaction-error-experience.md) — reports the opposite

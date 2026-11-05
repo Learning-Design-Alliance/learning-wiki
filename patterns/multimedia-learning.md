@@ -25,7 +25,7 @@ sources:
 # Multimedia Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 117 claims (50 for, 63 mixed, 4 against) · 93 studies (60 causal, 12 review, 10 quant-synthesis, 4 theoretical, 3 associational, 2 qualitative, 2 design), `q1`–`q4` · 22 of 93 report an effect size · 108 claims rest on one study
+> **Evidence** · 117 claims (50 for, 63 mixed, 4 against) · 94 studies (60 causal, 12 review, 10 quant-synthesis, 5 theoretical, 3 associational, 2 qualitative, 2 design), `q1`–`q4` · 23 of 94 report an effect size · 107 claims rest on one study
 
 ## Description and scope
 

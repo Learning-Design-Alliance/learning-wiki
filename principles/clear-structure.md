@@ -31,7 +31,7 @@ sources:
 # Clear Structure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 38 claims (24 for, 12 mixed, 2 against) · 41 studies (13 causal, 9 quant-synthesis, 7 review, 6 qualitative, 4 theoretical, 2 associational), `q1`–`q4` · 9 of 41 report an effect size · 29 claims rest on one study
+> **Evidence** · 39 claims (24 for, 13 mixed, 2 against) · 42 studies (13 causal, 9 quant-synthesis, 7 review, 6 qualitative, 4 theoretical, 3 associational), `q1`–`q4` · 9 of 42 report an effect size · 30 claims rest on one study
 
 ## Conditional relationship
 
@@ -104,6 +104,7 @@ Claims this page cited before it was rewritten as a conditional model. Each was 
 - [Clarity and concept structure interact for defining and applying concepts, each accounting for about 40-44% of variance](../claims/clarity-concept-structure-interaction.md) [+M]
 - [Students accurately perceive differences between clear and unclear lessons regardless of concept structure](../claims/students-perceive-lesson-clarity.md) [+W]
 - [In the scanned textbooks, statistics terms such as cluster and outlier are defined vaguely before any examples, and more formal criteria are never developed](../claims/vague-statistics-definitions-never-formalized.md) [+W]
+- [Under structured pre-session planning, students across four repeatedly taught groups reported no significant differences in perceptions of structure and organization](../claims/pre-session-planning-consistent-structure-perceptions.md) [~W] — attached 2026-11-05 from Alotiby Amna (2025), which proposed "Use structured pre-session planning to maintain teaching consistency across repeated delivery of identical sessions".
 
 ## Objective and learner-valued goal
 

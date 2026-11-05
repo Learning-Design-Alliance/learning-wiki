@@ -53,6 +53,7 @@ Based on the finding that growth mindset's association with achievement is prima
 ## Related Strategies
 
 - [Develop perseverance indirectly by shaping classroom context, mindsets, and learning strategies rather than targeting grit directly](develop-perseverance-through-context-mindsets-strategies.md)
+- [Four-part support strategy: mindset interventions, grit-building tasks, adaptability support, and PGI-promoting growth opportunities](four-part-mindset-grit-adaptability-pgi-support-strategy.md)
 
 ## Examples
 -

@@ -57,3 +57,5 @@ The review reports, citing Hannak, Joseph, Larremore, and Cimpian (2023), an ana
 - [Brilliance stereotypes associating brilliance with boys, higher-SES, and White children emerge by age 6](brilliance-stereotypes-emerge-by-age-six.md) — related
 - [Intersectional brilliance stereotypes show mixed patterns, supporting both intersectional invisibility and double jeopardy accounts](intersectional-brilliance-stereotypes-mixed.md) — related
 - [Sociocultural factors including stereotype threat, teacher interactions, and parental perceptions are discussed as likely sources of later-emerging gender differences in math](sociocultural-sources-of-gender-differences-in-math.md) — related
+- [Preservice teachers' FABs decline over four years of university teacher education in five of six subject groups](fab-decline-over-teacher-education.md) — related
+- [Gender predicts initial FAB levels but is unrelated to change over time; prior achievement predicts neither](gender-predicts-initial-fab-not-change.md) — related

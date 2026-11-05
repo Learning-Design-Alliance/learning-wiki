@@ -50,3 +50,4 @@ Two-way ANCOVA of post-exam scores in the same quasi-experiment. The article rep
 - [Male and female groups differed significantly on the pretest before the intervention, with females scoring higher](pretest-gender-difference-females-higher.md) — related
 - [No significant performance difference between male and female students taught with the Polya Problem-Solving Model](polya-model-no-gender-difference.md) — related
 - [No statistically significant gender difference in chemistry achievement among students taught through computer-based simulations](cbs-no-gender-difference-chemistry-achievement.md) — related
+- [Gender differences in satisfaction were not statistically significant in either curriculum group](satisfaction-gender-differences-nonsignificant-both-groups.md) — related

@@ -60,9 +60,11 @@ Translanguaging reframes home languages as an asset rather than a deficit, which
 6. Invite families to participate in the home language to extend support beyond the classroom.
 
 ## Related Strategies
+
 - [Activating background knowledge](activate_background_knowledge.md) — translanguaging is the primary vehicle for activating knowledge encoded in the home language
 - [Accessible syntax](accessible_syntax.md) — complements translanguaging by lowering the linguistic barrier of English input
 - [Address mother tongue interference](address_mother_tongue_interference.md) — the deficit-framed counterpart; translanguaging reframes the same phenomenon as repertoire use
+- [Deliver multilingual GenAI simulation training in the trainee's preferred language to standardize training across linguistic contexts](multilingual-genai-simulation-preferred-language-strategy.md)
 
 ## Examples
 - **The CUNY-NYSIEB project** (City University of New York) — a New York State initiative that helped schools adopt translanguaging pedagogies, including bilingual co-drafting and multilingual writing centers. https://www.cuny-nysieb.org

@@ -52,6 +52,7 @@ The authors recommend prevention and intervention programs that integrate family
 - [Interventions should simultaneously enhance academic self-concept and achievement](interventions-enhance-both-self-concept-and-achievement.md)
 - [Embed longitudinal planning scaffolds and time support at semester transitions in preclinical curricula](longitudinal-planning-scaffolds-transitions.md)
 - [Prioritize academic engagement in interventions to prevent negative risk-taking and address both domains to interrupt vicious cycles](engagement-first-intervention-negative-risk-taking-prevention.md)
+- [Bolster academic self-concepts before the secondary transition and take a dual home-and-school approach for low-SES students](bolster-self-concepts-before-transition-dual-site.md)
 
 ## Examples
 -

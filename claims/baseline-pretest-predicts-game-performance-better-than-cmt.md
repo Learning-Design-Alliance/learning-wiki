@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2012
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: prell-et-al-2012
     resource: "https://sheppardsoftware.com/USA_Geography/USA_G2_double2.html"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2` · `i2`–`i3`
-> **Currency** · newest study 2012 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` U.S.A. baseline test scores correlated r = 0.627 with percent correct and r = 0.549 with distance error, a strong predictor in two of three categories. [→ Prell et al. 2012](#prell-et-al-2012)

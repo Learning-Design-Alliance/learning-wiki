@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 recheck_by: 2031
 sources:
   - id: nguyen-mytien-2026
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q3 i?` URiM students with disabilities scored 17.4 points lower (adjusted β: −17.36; 95% CI: −20.98 to −13.74) and Asian students with disabilities 10.1 points lower (−10.10) than White nondisabled peers. [→ Nguyen Mytien 2026](#nguyen-mytien-2026)

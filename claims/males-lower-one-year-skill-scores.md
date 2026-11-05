@@ -56,3 +56,5 @@ Random intercept linear mixed effects model (adjusting for within-facility depen
 - [Male students report slightly higher SDL-R than female students, with small effect sizes and no difference in interpersonal communication](sex-differences-sdlr-small-effect-sizes.md) — related
 - [77% of healthcare providers retained simulated neonatal resuscitation skills one year after in situ low-dose high-frequency simulation training](ldhf-simulation-one-year-skills-retention-77-percent.md) — related
 - [Knowledge scores rose from pre-test to post-test in one group with no comparison group: male students had greater gains than female students, and second-year students had greater gains than third-year students](knowledge-gain-gender-academic-year-subgroups.md) — related
+- [Female residents scored significantly higher than male residents on total LGBT-DOCSS-JP scores](female-residents-higher-lgbt-docss-jp-total.md) — related
+- [Score gains from before to after the lecture did not differ significantly by sex or GPA category in a single-group pre-post study](no-sex-gpa-differences-in-score-gains.md) — reports the opposite

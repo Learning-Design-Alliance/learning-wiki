@@ -50,3 +50,4 @@ Binomial GLMM on 4010 trials (incorrect guesses only) from 100 adults; the artic
 - [Low and medium Knowledge Confidence heighten curiosity, contradicting the predicted inverted U-shaped relationship](low-medium-knowledge-confidence-heighten-curiosity.md) — related
 - [Correctness Confidence did not significantly predict recall accuracy, contrary to the authors' hypothesis](correctness-confidence-did-not-predict-recall.md) — related
 - [Correctness Confidence linearly predicts curiosity, with higher confidence in a guess associated with greater curiosity](correctness-confidence-linearly-predicts-curiosity.md) — related
+- [Diagnostic accuracy rises systematically with students' case-level confidence, from 23.8% for 'Very unsure' to 74.7% for 'Sure'](diagnostic-accuracy-increases-with-confidence-level.md) — related

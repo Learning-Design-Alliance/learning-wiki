@@ -49,3 +49,4 @@ Follow-up assessment of the same quasi-experimental cohort: 36 of 43 students (8
 - [High-fidelity simulation training produced knowledge and skill gains in nursing students that persisted at three months](high-fidelity-simulation-cpr-gains-retained-3-months.md) — related
 - [Zlotos study found confidence gains at post-test and 6-month follow-up, with knowledge peaking immediately then declining but staying above pretest](zlotos-confidence-knowledge-trajectory.md) — related
 - [Knowledge gains declined significantly from post-training to 3-month follow-up while remaining above baseline](pr-knowledge-decline-at-3-months-above-baseline.md) — related
+- [Knowledge gains from both Jigsaw and traditional teaching persist to three months, with a small decline from post-intervention](knowledge-retention-three-months-both-methods.md) — related

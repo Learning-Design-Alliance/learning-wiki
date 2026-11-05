@@ -50,3 +50,4 @@ Pearson correlation analysis in the phase 1 study of 100 cytotechnologists. High
 - [Years of experience correlate positively with gaze metrics on sample information review](experience-correlates-sample-information-review.md) — related
 - [Students' time to first fixation on targets fell from pre-test to post-test after a 3-month training program, in one uncontrolled pre-post study](training-decreases-time-to-first-fixation-targets.md) — related
 - [High-accuracy cytotechnologists show shorter examination time, less background dwell, and faster HPF cytoplasm detection than low-accuracy peers](high-accuracy-group-faster-search-patterns.md) — related
+- [After perceptual learning training, novices' gaze accuracy on pathological areas is moderately correlated with diagnostic accuracy — a link absent at baseline and in senior students](post-training-gaze-accuracy-correlation.md) — related

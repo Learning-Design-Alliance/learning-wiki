@@ -49,3 +49,4 @@ One-way ANOVA, Kruskal–Wallis H-tests and a correlation matrix exploring relat
 - [No statistically significant difference in PCC competency across sources of patient rights education](no-difference-pcc-by-education-source.md) — related
 - [Healthcare educators' attitudes toward interprofessional socialisation increased significantly after an interprofessional simulation facilitator training programme](simulation-facilitator-training-increases-attitudes-toward-interprofessional-socialisation.md) — related
 - [Simulator acceptability was high with no differences between groups in either population](high-simulator-acceptability-across-groups.md) — related
+- [Course evaluation scores did not differ significantly across occupational groups](course-evaluation-no-occupational-difference.md) — related

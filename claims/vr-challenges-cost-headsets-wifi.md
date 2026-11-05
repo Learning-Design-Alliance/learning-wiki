@@ -69,3 +69,4 @@ Focus-group findings (Further development theme, 11 codes). Teachers cited Wi-Fi
 - [VR training imposed cognitive load on medical students through divided attention, physical effects, and a need for clearer guidance and familiarization](vr-training-cognitive-load-divided-attention.md) — related
 - [Medical students reported system usability barriers to VR training involving headset accessibility, technical issues, and limited scenario variability](vr-training-usability-barriers-medical-students.md) — related
 - [External and internal barriers, including cybersickness, logistics, workload and lack of time, limited residents' use of VR simulation](barriers-limit-residents-vr-use.md) — related
+- [Participants raised financial cost of VR headsets as a barrier to sustainable adoption, though not deterring acceptance](vr-financial-burden-sustainability-concern.md) — related

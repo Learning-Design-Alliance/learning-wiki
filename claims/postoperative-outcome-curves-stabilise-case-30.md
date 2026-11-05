@@ -67,3 +67,4 @@ Secondary RA-CUSUM analysis of Clavien–Dindo ≥III complications adjusted for
 - [Risk-adjusted learning-curve analysis showed a significant downward trend in predicted POPF risk and operative duration with increasing center experience, an upward trend in blood loss, and stable major complications](learnbot-learning-curve-popf-trend.md) — reports the opposite
 - [A PD-ROBOSCORE-adjusted RA-CUSUM of idle time identifies a proficiency inflection around case 60 in the RPD learning curve](ra-cusum-idle-time-proficiency-inflection-case-60.md) — related
 - [Postoperative pancreatic fistula rates remain stable along the RDP learning curve](rdp-popf-stable-along-learning-curve.md) — related
+- [Major complications occurred only after the learning phase, and phase differences in severe complications and anastomotic leakage were not statistically significant](complications-after-proficiency-phase.md) — related

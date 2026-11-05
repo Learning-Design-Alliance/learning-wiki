@@ -49,3 +49,4 @@ Tertile stratification of 349 admitted students based on admission composite sco
 - [Including MCAT scores in admissions composites does not improve prediction of overall academic performance compared with composites excluding MCAT](mcat-no-incremental-validity-academic-performance.md) — related
 - [Including MCAT scores in admissions composites weakens prediction of clinical skills performance measured by OSCE scores](mcat-inclusion-reduces-osce-prediction.md) — related
 - [Incorporating ML-predicted MCAT scores into admissions composites reduces correlations with subsequent medical school performance](predicted-mcat-reduces-performance-correlations.md) — related
+- [Baseline academic comparability of the two MD cohorts was established on MCAT scores, uGPA, and sGPA](md-cohorts-baseline-comparability.md) — related

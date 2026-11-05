@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2013
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 recheck_by: 2018
 sources:
   - id: huang-and-witz-2013
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2013 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
+> **Currency** · newest study 2013 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` All the fourth-graders interviewed displayed good memorization skills regarding the area formula of a rectangle, yet approximately two-fifths had difficulty differentiating the general concept of area from measuring area. [→ Huang and Witz 2013](#huang-and-witz-2013)

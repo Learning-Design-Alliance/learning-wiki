@@ -52,3 +52,4 @@ Known-group standard setting study comparing 16 fourth-year medical students' fi
 - [The test significantly discriminates between novices and experienced anesthesiologists (p < 0.001)](foi-test-discriminates-novices-experienced.md) — related
 - [A composite total simulator score on an expert-informed iVR simulator significantly discriminated between novice and experienced orthopedic surgeons after a single procedure (Cohen's d = 4.2)](ivr-total-score-discriminates-novices-experienced-drf.md) — related
 - [Expert surgeons outperformed novices on all four quantitative measures of the resection task: smaller margin errors, lower carbonization, faster resection, fewer grasps](experts-outperform-novices-four-measures.md) — a narrower finding that bears on this claim
+- [On a baseline vaginal cuff suturing task, experts perform significantly faster and score significantly better than novices](maisurge-baseline-suturing-experts-faster.md) — related

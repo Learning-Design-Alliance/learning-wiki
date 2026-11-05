@@ -40,7 +40,8 @@ The essay recommends that, following the logic of the three-layer model, "educat
 - Three Layer Model Of Learning Activities
 
 ## Related Strategies
-- 
+
+- [Master corneal suturing with a dedicated rubric before proceeding to penetrating keratoplasty](suture-rubric-before-pk-strategy.md)
 
 ## Examples
 -

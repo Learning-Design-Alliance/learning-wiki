@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2016
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: zhou-jiyin-2016
     resource: "https://doi.org/10.1186/s12909-016-0546-z"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q2`
-> **Currency** · newest study 2016 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students at PBL pilot institutions reported more enthusiasm for PBL than conventional methods, and questionnaires indicated PBL superiority across six self-reported outcome domains. [→ Zhou Jiyin 2016](#zhou-jiyin-2016)

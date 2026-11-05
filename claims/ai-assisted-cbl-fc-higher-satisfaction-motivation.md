@@ -49,3 +49,4 @@ Post-course questionnaire on a 5-point Likert scale assessing motivation for lea
 - [AI-assisted CBL+FC residents significantly outperform lecture-based controls on post-course theoretical knowledge tests](ai-assisted-cbl-fc-higher-theoretical-scores.md) — related
 - [Flipped classroom residents report higher perceived teaching effectiveness in clinical skills, learning interest, self-learning, problem-solving, and team collaboration, but not theoretical knowledge](fc-higher-perceived-effectiveness-domains.md) — related
 - [Students in the CBL-FC group report high learning interest, positive experience, and overall satisfaction](cbl-fc-high-satisfaction-learning-experience.md) — related
+- [Residents perceive online CBL modules will improve their effectiveness as pediatricians](online-cbl-perceived-impact-pediatric-effectiveness.md) — related

@@ -51,6 +51,7 @@ Based on the review's findings that distress and burnout hinder performance whil
 - [Foster a supportive organizational climate through a university-department-supervisor tri-level linkage](tri-level-organizational-climate-support.md)
 - [Foster supportive peer environments and emotion regulation skills to support academic development](foster-peer-environments-and-emotion-regulation.md)
 - [Implement integrated stress-management strategies and structured physical activity programmes for medical students in military institutions](integrated-stress-management-structured-pa-military-medical-students.md)
+- [Integrate resilience-building strategies into teacher training programs, prioritizing psychosocial facets of academic success and pairing them with study-skill instruction when grade improvement is the goal](resilience-building-teacher-training-strategy.md)
 
 ## Examples
 -

@@ -57,6 +57,7 @@ The authors recommend that "nursing education institutions should commit to deve
 - [Embed simulation-based scenarios into the curriculum as structured learning modules with guided debriefings and reflective exercises](simulation-modules-debriefing-strategy.md)
 - [Integrate EI into health sciences curricula through structured experiential methods such as reflective journaling, simulation, peer mentoring, and structured debriefing](ei-experiential-curriculum-integration-strategy.md)
 - [Six-step implementation guideline for integrating collaborative simulation-based learning into health sciences curricula](collaborative-sbl-implementation-guidelines.md)
+- [Strengthen final-year nursing preparation through competency-based, simulation-supported education focused on clinical skills, critical thinking, and ethics](competency-simulation-education-reduce-error-tendency.md)
 
 ## Examples
 -

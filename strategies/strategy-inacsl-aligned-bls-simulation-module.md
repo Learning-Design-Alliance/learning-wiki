@@ -52,6 +52,7 @@ The article describes a structured simulation-based BLS training module "aligned
 - [Combine standardized theoretical training with high-fidelity simulation-based practical skills training](combine-theoretical-training-with-simulation-phtls.md)
 - [DBSS session protocol: defect-identification exercise followed by GAS-framework debriefing](dbss-session-protocol-gas-debriefing.md)
 - [Use facilitated interactive video as a scalable BLS training adjunct when simulation capacity is limited](facilitated-video-adjunct-when-simulation-capacity-limited.md)
+- [Deliver pre-foundation simulation with hands-on scenarios, structured debriefing and facilitator continuity to optimise the learning environment](pfa-simulation-design-features-strategy.md)
 
 ## Examples
 -

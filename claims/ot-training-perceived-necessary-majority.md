@@ -53,3 +53,4 @@ Chi-squared comparison of perceived training need across professional groups in 
 - [Healthcare professionals at a Somali tertiary hospital show predominantly poor knowledge of oxygen therapy technical parameters for non-intubated patients](poor-ot-knowledge-somalia-tertiary-hospital.md) — related
 - [All participants scored at the poor level on flow values for 100% FiO2 via face masks and nasal cannulas and key patient monitoring parameters](floor-effect-flow-fio2-monitoring-parameters.md)
 - [Training sources differed by profession: nurses reported more school and orientation training; attending physicians more conferences and course programs](ot-training-sources-differ-by-profession.md)
+- [Most Turkish health vocational students believed dental trauma education is necessary (89.8%) and expressed interest in attending such training (80.2%)](strong-demand-dental-trauma-education-vocational-students.md) — related

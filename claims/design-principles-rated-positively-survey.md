@@ -74,3 +74,4 @@ Same end-of-term survey (176 respondents). The article contrasts the two DP2 sub
 - [Students rated the 2-day mCLEIMS course very highly, with global satisfaction of 4.93 on a 5-point scale and item scores from 4.79 to 4.96](mcleims-high-satisfaction-ratings.md) — related
 - [Formative assessment and continuous feedback are prioritized over traditional offline final examinations in the evaluation phase](formative-assessment-over-final-exams-bmooc.md) — related
 - [Students rate the GPT companion's formative assessment features highly, including question quality, feedback usefulness, and critical thinking support](positive-perceptions-formative-assessment-features-gpt-companion.md) — related
+- [Across all survey items, learners rated the CME modules highly, with median Likert scores of 4 and means above 4.0 for content quality, clarity, motivation, competence, and perceived educational value](espe-cme-high-likert-satisfaction.md) — related

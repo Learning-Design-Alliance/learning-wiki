@@ -51,6 +51,7 @@ The article recommends leveraging virtual patient simulations to give trainees r
 ## Related Strategies
 
 - [Provide at least three repeated practice sessions with expert-answer feedback when training novice raters on standardized assessment scoring](three-practice-sessions-feedback-strategy.md)
+- [Deliver multilingual GenAI simulation training in the trainee's preferred language to standardize training across linguistic contexts](multilingual-genai-simulation-preferred-language-strategy.md)
 
 ## Examples
 -

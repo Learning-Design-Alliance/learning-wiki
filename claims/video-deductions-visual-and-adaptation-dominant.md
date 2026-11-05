@@ -69,3 +69,4 @@ Count-based factual-error metrics recorded separately from severity-scored dimen
 - [Across rubric dimensions, content scored highest (A = 4.03) while production scored lowest (D = 3.41), driven by synthetic voice quality (D1 = 3.16)](bespoke-content-strongest-production-weakest-voice.md) — related
 - [Each pedagogical verification component contributes to a distinct quality dimension: layout verification most strongly](verification-components-ablation-contributions.md) — related
 - [Managers report training gaps in didactic knowledge, IT competencies, and audiovisual systems](manager-reported-training-gaps.md) — related
+- [Free-text feedback was dominated by praise (71.3% of 384 comments), with improvement suggestions including more interactive cases, more algorithms, and less text-heavy content](espe-cme-free-text-feedback-themes.md) — related

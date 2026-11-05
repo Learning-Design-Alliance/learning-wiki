@@ -52,3 +52,4 @@ In the 32-intern longitudinal study, extremity skill scores (max 20) fell from 1
 - [Knowledge and skills decline significantly at 3 months after both training modalities](knowledge-and-skills-decline-significantly-at-3-months.md) — related
 - [Three-hour simulation-based tourniquet training significantly improves medical interns' knowledge, skills, attitudes, self-confidence and self-efficacy](simulation-tourniquet-training-improves-intern-outcomes.md) — related
 - [Knowledge and self-efficacy scores remained stable, while attitude scores slightly decreased from post-test to two-month follow-up among medical interns in one uncontrolled pre-post study](knowledge-self-efficacy-attitude-retention.md) — reports the opposite
+- [Management competency improved by 13.5% immediately after the lecture but declined by 6% at the two-month follow-up](management-competency-gain-declines-at-follow-up.md) — a narrower finding that bears on this claim

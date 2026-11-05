@@ -56,3 +56,4 @@ Review reports on one included study (Thomsen): significant improvement of OSACS
 - [Repeated simulator attempts improve VRS performance, with expert groups showing no further improvement](vrs-simulator-performance-curves-improve.md) — possibly the same claim (merge candidate)
 - [No significant difference in rubric scores between intermediate and expert providers in simulated WFWB procedures](no-difference-intermediate-expert-wfwb-scores.md) — related
 - [Experienced physicians with extensive multi-port experience report limited perceived learning gains from single-port transition training](prior-expertise-limits-sp-training-gains.md) — a narrower finding that bears on this claim
+- [Approximately 92% of novices reported improved surgical performance after training on the MaiSurge model, while few experts did](maisurge-novices-perceived-improvement.md) — a narrower finding that bears on this claim

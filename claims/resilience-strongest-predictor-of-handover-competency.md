@@ -47,3 +47,4 @@ Pearson correlation analysis of 501 nurses' scores; RH correlated most strongly 
 ## Related Claims
 - [Demographic and professional factors explain only 1.8% of variance in perceived competency, whereas internal psychological factors raise explained variance to 76.5%](psychological-factors-outperform-demographics-predicting-competency.md) — related
 - [Simulation-based CARE handover training produces a large increase in nurses' perceived handover competency from pretest to posttest](simulation-care-training-increases-perceived-handover-competency.md) — related
+- [Resilience is significantly associated with social adaptation among pre-service teachers, explaining about 30% of variance, with Positive Acceptance of Change and Secure Relationships the strongest contributor](resilience-associated-social-adaptation.md) — related

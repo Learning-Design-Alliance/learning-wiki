@@ -52,3 +52,4 @@ Cross-sectional online questionnaire study of 238 participants in Türkiye (stud
 - [Among students, training content that included simulative models was statistically significant, with higher preparation and enjoyment rates than extracted teeth alone (p < 0.003)](student-training-included-simulative-models-significant.md) — related
 - [Students perceived natural teeth as better for endodontic preclinical training than artificial teeth](students-prefer-natural-teeth-training.md) — related
 - [Artificial teeth group showed more ledges and root fractures than natural teeth group during preclinical endodontic training](artificial-teeth-more-ledges-root-fractures.md) — related
+- [Endodontic simulation marks differed significantly by tooth type (extracted vs plastic), with extracted teeth showing a non‐significant positive correlation with clinical marks](endo-simulation-tooth-type-extracted-versus-plastic.md) — related

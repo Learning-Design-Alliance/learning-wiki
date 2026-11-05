@@ -71,3 +71,7 @@ Semistructured interviews with all 54 experimental-group participants, analyzed 
 - [Perceived realism and transferability to clinical practice influenced residents' motivation to use VR simulation](realism-transferability-shape-vr-motivation.md) — related
 - [A majority of students (81.4%) preferred the standardized patient unit, most often citing insufficient speech recognition](students-prefer-standardized-patient-unit.md) — related
 - [VR simulation training fostered active engagement and a greater sense of preparedness for clinical practice among medical students](vr-training-fostered-engagement-preparedness.md) — related
+- [Semistructured interviews with student navigators identified three themes: increased empathy and understanding of patients' lives, improved clinical skills, and interpersonal enrichment](flip-interview-three-themes-empathy-skills-enrichment.md) — related
+- [Qualitative feedback highlighted accessibility, content reinforcement, engagement, and complementarity with the donor, with interface design the most-cited area for improvement](qualitative-feedback-themes-modules.md) — related
+- [Thematic analysis of focus groups and open-ended responses identified immersion, clinical communication practice and safe decision-making environments as key perceived benefits](vr-pilot-qualitative-benefit-themes.md) — related
+- [Participants described standardized clinical scenarios in VR as promoting objectivity and uniformity in clinical training and assessment](vr-standardized-scenarios-objectivity-uniformity.md) — related

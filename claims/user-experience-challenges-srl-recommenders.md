@@ -52,3 +52,4 @@ Meta-synthesis of 33 empirical studies. The review reports that user experience 
 - [Waterfall-like design spaces are inadequate for AIEd because adaptable systems have untestable states](waterfall-design-inadequate-for-aied.md) — related
 - [Students enjoyed learning by playing user-generated microgames despite disadvantages such as missing learning instructions and inadequate interfaces](students-enjoyed-microgames-despite-disadvantages.md) — a narrower finding that bears on this claim
 - [Teachers found user-generated microgames acceptable for short serious gaming sessions despite limitations to one player with basic interfaces](teachers-found-microgames-acceptable-despite-limits.md) — related
+- [Qualitative feedback highlighted accessibility, content reinforcement, engagement, and complementarity with the donor, with interface design the most-cited area for improvement](qualitative-feedback-themes-modules.md) — related

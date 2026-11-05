@@ -50,3 +50,4 @@ Same quasi-experimental survey study comparing word cloud and linear conditions;
 - [Word cloud analysis prompted qualitative changes in student thinking including objective analysis and purposeful reflection](word-clouds-prompt-changes-in-thinking.md) — related
 - [Internally divergent momentary engagement profiles occur within a single task, with students attentive yet emotionally and cognitively disengaged](divergent-internal-engagement-dynamics-single-task.md) — related
 - [Critical thinking and engagement were positively correlated in online discussion activity](critical-thinking-engagement-positive-correlation.md) — related
+- [Single-word word-cloud elicitation showed students’ associations with VR shifting from entertainment and scepticism toward constructive, professional and educational associations](vr-pilot-word-cloud-conceptual-shift.md) — related

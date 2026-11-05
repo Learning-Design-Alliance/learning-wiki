@@ -46,3 +46,4 @@ Cross-sectional study at Hawassa University (n = 592) reviewed in the synthesis:
 
 ## Related Claims
 - [Drop-in one-to-one tutorial attendees improved P1X-to-P1Y marks while the class average declined](drop-in-tutorials-improve-p1y-marks.md) — related
+- [In univariate analysis, performance was associated with age, gender, nationality, substance and tobacco use, stress, academic year, prior failure, revision hours, satisfaction and motivation; only the DREEM atmosphere subscale was significant among DREEM domains](univariate-associations-performance-factors.md) — related

@@ -57,3 +57,4 @@ The review's conceptual specification of an affective pathway within digital sel
 - [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](pre-actional-components-predict-actional-regulation.md) — related
 - [Regulatory difficulty in digital engagement is negatively associated with achievement motivation in adolescents (β = −0.330)](regulatory-difficulty-negative-achievement-motivation.md) — related
 - [Regulatory difficulty in digital engagement is positively associated with total aggression in adolescents (β = 0.380)](regulatory-difficulty-positive-total-aggression.md) — related
+- [Avoidance-oriented coping (distraction and social diversion) shows no cross-lagged relations to subsequent well-being changes](avoidance-coping-null-wellbeing-effects.md) — related

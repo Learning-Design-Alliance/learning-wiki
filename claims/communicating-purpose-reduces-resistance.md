@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: de-jesus-m-m-2026
     resource: "https://doi.org/10.1187/cbe.25-07-0154"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Resistance can be reduced when instructors communicate the purpose of group work, and evidence-based explanations increased student participation and perception of its value. [→ De Jesus M. M. 2026](#de-jesus-m-m-2026)

@@ -71,3 +71,4 @@ Discussion of the SEM results for the same sample. The discussion reports hedoni
 - [Personal innovativeness did not significantly influence behavioral intention to use ChatGPT](personal-innovativeness-null-intention.md) — related
 - [Hedonic motivation and habit were the strongest predictors of behavioral intention, and habit also substantially predicted use behavior](hedonic-motivation-habit-strongest-intention-predictors.md) — related
 - [Prior research identifies motivational, cognitive, affective, contextual, and ethical factors influencing GenAI adoption among instructors and students](genai-adoption-influencing-factors-review.md) — related
+- [Perceived interactivity of DeepSeek indirectly promotes medical students' willingness to use it through performance expectancy and effort expectancy](deepseek-perceived-interactivity-promotes-intention-via-expectancies.md) — related

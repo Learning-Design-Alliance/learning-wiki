@@ -49,3 +49,4 @@ Follow-up test one month after the final examination; retention rate calculated 
 - [Case-based inference accuracy was significantly higher in the AI-enhanced group than in both comparison groups](ai-enhanced-higher-case-inference-accuracy.md) — related
 - [The AI-enhanced teaching model produced significantly higher final comprehensive scores than blended and traditional teaching in the RCT](ai-enhanced-higher-final-comprehensive-scores.md) — related
 - [The immediate advantage of deep-processing prompts does not persist at a 5-month follow-up, with a Bayesian test confirming the null](deep-prompt-advantage-fades-at-follow-up.md) — related
+- [One month after the course, knowledge retention did not differ significantly between the AI-assisted and traditional-teaching groups](deepseek-assistant-no-retention-advantage-one-month.md) — reports the opposite

@@ -51,3 +51,4 @@ Moderation analyses in the same survey (Table 2, Models 1–4). The article repo
 - [All five Big Five personality traits significantly predict academic achievement among medical master's students](big-five-traits-predict-achievement-medical-postgraduates.md) — related
 - [Openness significantly moderates the relationship between academic stress and academic achievement, weakening the negative association](openness-moderates-stress-achievement-relationship.md) — related
 - [Of the Big Five personality traits, only conscientiousness (r = .22) and openness (r = .13) correlate appreciably with mathematics achievement](big-five-traits-correlate-weakly-with-math-achievement.md) — related
+- [Big Five personality traits show no significant association with dental students' radiographic diagnostic accuracy](personality-traits-no-effect-radiographic-accuracy.md) — related

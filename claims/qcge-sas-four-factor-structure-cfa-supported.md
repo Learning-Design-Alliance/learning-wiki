@@ -75,3 +75,4 @@ The authors' summary of the same confirmatory factor analysis, stating the "four
 - [Confirmatory factor analysis supports both distinct 11-factor and four higher-order group structures of the Wheel across educational levels](wheel-cfa-structure-support.md) — related
 - [Global-fit evidence does not clearly favor unidimensional over multidimensional academic resilience measurement models, as fit-index pass rates diverge by index](dimensionality-evidence-mixed-resilience-scales.md) — related
 - [Confirmatory factor analysis with 448 secondary students showed the 32-item SAICS measurement model has good fit and high validity and reliability](saics-cfa-good-model-fit-448-students.md) — related
+- [The revised 43-item Korean HLCs four-factor model shows good confirmatory factor analysis fit](korean-hlc-four-factor-model-fit.md) — related

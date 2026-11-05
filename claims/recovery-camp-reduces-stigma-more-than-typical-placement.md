@@ -48,3 +48,4 @@ The review reports, citing Moxham et al., a quasi-experimental comparison of nur
 - [Higher student motivation is associated with significantly higher relational competence after clinical placements](motivation-linked-to-relational-competence-after-placement.md) — related
 - [Face-to-face learning enabled direct educator feedback and skill practice, and one online clinical tool showed less value in clinical placement than classroom use](face-to-face-benefits-placement-integration.md) — related
 - [Exploratory ITT analyses showed small to medium negative effect estimates favoring control on confidence, hope, self-stigma, and personal recovery](story-mine-negative-exploratory-effects.md) — related
+- [A Cochrane search found no systematic review of cancer stigma reduction interventions for the public, but mental illness stigma reviews support mass media, first-person narratives, and multicomponent designs](no-cdsr-review-cancer-stigma-public.md) — related

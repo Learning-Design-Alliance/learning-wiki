@@ -56,3 +56,4 @@ Delphi expert-consultation study conducted in Aotearoa New Zealand with three su
 - [The expert panel proposed 68 initial competencies divided into psychological foundations, psychiatric disorders, and systems-based practice.](68-initial-competencies-three-categories.md) — related
 - [The ICO-OCEX achieved strong content validity through a modified Delphi technique with expert consensus on all 33 items](ico-ocex-content-validity-delphi-consensus.md) — related
 - [Expert panel consensus (seven experts, ≥80% agreement rule) endorsed the refined EA framework structure](expert-consensus-ea-framework.md) — related
+- [In Round 1 at least 80% of experts fundamentally agreed with the preliminary competencies, but suggested amendments that led to revisions, additions, and renaming of the Soft Skills area](round1-high-agreement-with-amendments.md) — related

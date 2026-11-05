@@ -52,6 +52,7 @@ The article recommends LLM-driven multimodal simulation as a scalable solution t
 - [Position immersive technologies and virtual patients as supplementary components within blended learning rather than stand-alone replacements for established clinical communication training](immersive-tech-adjunctive-blended-not-replacement.md)
 - [Use periodic high-intensity training sessions to compensate for uneven clinical case exposure in paediatric surgery](periodic-high-intensity-training-uneven-case-volumes.md)
 - [Use multiagent virtual patient frameworks as scalable, customizable alternatives to standardized patients in clinical communication training](multiagent-vp-alternative-to-standardized-patients.md)
+- [Deploy DeepSeek in medical education as a virtual mentor, PBL case tool, and adaptive question bank](deepseek-medical-education-integration-strategies.md)
 
 ## Examples
 -

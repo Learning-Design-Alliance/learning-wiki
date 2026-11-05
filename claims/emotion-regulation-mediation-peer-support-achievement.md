@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: gai-guangyan-2026
     resource: "https://doi.org/10.1038/s41598-026-45417-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The indirect effect of perceived peer support on academic achievement through emotion regulation is statistically significant (Estimate = 0.090, 95% CI excludes zero). [→ Gai Guangyan 2026](#gai-guangyan-2026)

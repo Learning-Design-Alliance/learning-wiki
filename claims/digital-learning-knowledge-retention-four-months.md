@@ -59,3 +59,4 @@ Narrative synthesis of retention findings, attributed by the review to Azman et 
 - [Knowledge and self-efficacy scores remained stable, while attitude scores slightly decreased from post-test to two-month follow-up among medical interns in one uncontrolled pre-post study](knowledge-self-efficacy-attitude-retention.md) — a narrower finding that bears on this claim
 - [Focus group interviews at 1 and 5 months suggest perceived transfer of desaturation management learning to clinical practice, with rising self-rated ability](fgi-perceived-learning-transfer.md) — related
 - [Phase 1 participants retained their knowledge gains at a 4-week follow-up, with a slight nonsignificant decline from post-test.](venomventure-4week-retention.md) — related
+- [Diagnostic accuracy gains from perceptual learning are retained three months after training ends](plm-accuracy-gains-retained-three-months.md) — a narrower finding that bears on this claim

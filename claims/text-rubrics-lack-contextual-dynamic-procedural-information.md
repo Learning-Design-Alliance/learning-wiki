@@ -9,7 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2019
-source_checked: 2026-10-29
+source_checked: 2026-11-05
 sources:
   - id: kevin-ackermans-2019
     resource: "https://doi.org/10.1007/s11423-019-09668-1"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2019 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The authors argue text-based rubrics are fragmentary, lack contextual and dynamic information, and do not provide the procedural information needed to support automation of constituent skills, risking incomplete mental models. [→ Kevin Ackermans 2019](#kevin-ackermans-2019)

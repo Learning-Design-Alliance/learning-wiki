@@ -53,3 +53,4 @@ Multiple linear regression with GPA as dependent variable and IPAQ ordinal score
 - [Higher physical activity is strongly positively correlated with GPA while worse sleep quality is moderately negatively correlated](pa-sleep-gpa-bivariate-correlations.md) — related
 - [GPA differs significantly across physical activity levels among male university students, rising stepwise from low to high activity](pa-category-gpa-dose-response-male-students.md) — related
 - [Longer sleep on the exam day correlates weakly with higher most recent exam grade and higher GPA, but GPA is not correlated with PSQI score](exam-day-sleep-duration-correlates-grades-gpa.md) — reports the opposite
+- [Subjective sleep measures (PSQI) show no significant differences or correlations with academic performance, contrasting with objective actigraphy](psqi-null-vs-actigraphy-significant.md) — reports the opposite

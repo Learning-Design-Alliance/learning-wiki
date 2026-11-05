@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-05
 sources:
   - id: qiao-weiguang-2014
     resource: "https://doi.org/10.1371/journal.pone.0089224"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In one included RCT, 87.7% of novices in the simulator training group completed gastroscopy procedures independently compared to 70.0% in the control group (RR 1.25, 95% CI 1.13–1.39, P<0.0001). [→ Qiao Weiguang 2014](#qiao-weiguang-2014)
@@ -50,3 +51,4 @@ Meta-analysis of RCTs comparing virtual endoscopy simulator training with bedsid
 - [Simulation-based training does not significantly improve success rate of procedure completion on patients compared with non-simulation based training](sbt-no-patient-success-benefit-airway.md) — reports the opposite
 - [Virtual endoscopy simulator training reduces required assistance in gastroscopy training of novices (RR 0.42, 95% CI 0.35–0.50, P<0.00001)](simulator-training-reduces-gastroscopy-assistance.md) — related
 - [Virtual endoscopy simulator training increases required assistance in colonoscopy training (RR 2.51, 95% CI 1.38–4.55, P=0.002)](simulator-training-increases-colonoscopy-assistance.md) — related
+- [Most participants favor simulator implementation in endoscopy training, but few have institutional access](endonix-implementation-attitudes-and-access.md) — related

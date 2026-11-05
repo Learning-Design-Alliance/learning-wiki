@@ -48,3 +48,4 @@ Latent bivariate correlations reported in Table 1 from the preliminary measureme
 - [Gender and year group are associated with fear appeal appraisals and baseline academic self-efficacy](gender-year-group-covariates-fear-appeal-appraisal.md) — related
 - [Higher attainment value with higher academic self-efficacy predicts challenge appraisal, whereas higher attainment value with lower academic self-efficacy predicts threat appraisal](value-and-efficacy-antecedents-of-fear-appeal-appraisal.md) — related
 - [Prior academic self-efficacy and attainment value do not cross-predict each other over the school year](no-cross-paths-between-efficacy-and-attainment-value.md) — related
+- [Academic threat appraisal shows no significant association with end-of-first-year GPA](threat-appraisal-no-gpa-association.md) — related

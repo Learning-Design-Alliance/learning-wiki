@@ -48,6 +48,7 @@ The article proposes that a mandatory model need not require every doctor to att
 
 - [Publish national data on ALS uptake, completion, delay, exemption and any association with ARCP capability sign-off to evaluate the current system.](publish-als-uptake-and-outcome-data.md)
 - [Four pillars for educational transformation: industry-independent accreditation, integrated curricula, objective competency assessment, and competency-based certification](four-pillars-educational-transformation-ep.md)
+- [Blend simulation with traditional apprenticeship under a competency-based milestone framework for PTED training](blended-competency-based-pted-training-pathway.md)
 
 ## Examples
 -

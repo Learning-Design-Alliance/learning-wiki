@@ -9,7 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2023
-source_checked: 2026-10-29
+source_checked: 2026-11-05
 sources:
   - id: gherghel-2023
     resource: "https://doi.org/10.1016/j.compedu.2023.104795"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2023 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Correlational analyses showed opportunities for social interaction were associated with emotional and behavioral engagement in both years, and with self-directed study time significantly only in 2021 (r = .111, p < .05; 2020 r = .053, not significant). [→ Gherghel 2023](#gherghel-2023)

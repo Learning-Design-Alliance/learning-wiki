@@ -50,3 +50,4 @@ Qualitative thematic analysis of open-ended survey responses from both cohorts t
 - [Students strongly endorse online anatomical image repositories and quizzes as learning aids](student-satisfaction-anatomical-image-repository.md) — related
 - [The variety of learning activities offered each week, along with the engagement and clinical relevance of these, was the strongest theme raised by students in open-ended survey responses.](variety-of-learning-activities-strongest-student-theme.md) — related
 - [Students request clearer course organization, reminders, and more experiential practice opportunities while affirming overall satisfaction with the wellness courses](student-feedback-course-structure-improvements.md) — related
+- [Thematic analysis of open-ended feedback identified three cross-cutting themes, shifting from logistics/clarity in 2022 toward case-based stepwise practice in 2023](qualitative-themes-case-based-practice-shift.md) — related

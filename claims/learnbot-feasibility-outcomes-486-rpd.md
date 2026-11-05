@@ -55,3 +55,4 @@ Prospective collection in the E-MIPS registry of all consecutive RPDs performed 
 - [Postoperative pancreatic fistula rates remain stable along the RDP learning curve](rdp-popf-stable-along-learning-curve.md) — related
 - [Conversion rates decline across the RPD learning curve while emergency conversions remain absent, and higher BMI is associated with conversion](conversion-declines-across-rpd-curve-bmi-risk.md) — related
 - [Blood loss, transfusion, and conversion outcomes remained low and did not change significantly across the learning curve](blood-loss-transfusion-stable-across-lrp-learning-curve.md) — related
+- [Major complications occurred only after the learning phase, and phase differences in severe complications and anastomotic leakage were not statistically significant](complications-after-proficiency-phase.md) — related

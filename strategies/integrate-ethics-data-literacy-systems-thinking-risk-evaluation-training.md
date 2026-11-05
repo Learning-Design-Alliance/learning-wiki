@@ -46,6 +46,7 @@ The review concludes that strengthening decision-making competency in nurse mana
 ## Related Strategies
 
 - [Use simulation and virtual reality to train nurse managers' decision-making competency](simulation-vr-training-nurse-manager-decision-making.md)
+- [Strengthen final-year nursing preparation through competency-based, simulation-supported education focused on clinical skills, critical thinking, and ethics](competency-simulation-education-reduce-error-tendency.md)
 
 ## Examples
 -

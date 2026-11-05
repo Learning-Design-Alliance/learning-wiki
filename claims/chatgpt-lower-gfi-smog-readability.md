@@ -70,3 +70,4 @@ Durbin–Conover post-hoc pairwise comparisons of readability indices (Table 4).
 - [LLMs frequently assign maximum self-reported confidence to incorrect EUS answers](llm-overconfidence-incorrect-eus-answers.md) — related
 - [ChatGPT-5.1, DeepSeek-R1, and Gemini 2.5 Flash show high, statistically comparable accuracy on Turkish Pharmacy Specialty Examination questions](llms-high-comparable-accuracy-eus.md) — related
 - [All EUS-generated LLM texts show low Flesch Reading Ease scores, indicating substantial reading difficulty](low-fre-llm-pharmacy-texts.md) — related
+- [Chatbots differ significantly in response time and word count, with Gemini 1.5 fastest and DeepSeek slowest and least accurate](chatbot-response-time-length-differences.md) — related

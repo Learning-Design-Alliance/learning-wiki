@@ -97,3 +97,4 @@ Independent samples t-test with Welch's correction on the survey's gender-based 
 - [No statistically significant post-test gender differences emerged on any psychological variable, with only small tendencies favoring females on some measures](no-posttest-gender-differences-psychological-variables.md) — reports the opposite
 - [Males scored significantly lower than females on skills scores one year after implementation, independent of other factors](males-lower-one-year-skill-scores.md) — related
 - [In AI-mediated active learning, female EFL students show higher engagement and greater improvement than male students](ai-active-learning-gender-engagement-females.md) — related
+- [Female final-year nursing students scored higher than male students on both competence and (reversed) error tendency (Partial η² = 0.143)](gender-differences-competence-error-tendency.md) — related

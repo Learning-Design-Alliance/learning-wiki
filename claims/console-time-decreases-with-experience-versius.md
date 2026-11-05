@@ -58,3 +58,4 @@ Predictive linear mixed-effects model built on Senior 1's data, plotting estimat
 - [Length of hospital stay decreased significantly with surgical experience in laparoscopic radical prostatectomy, while catheterization duration did not change](hospital-stay-decreases-with-lrp-experience.md) — related
 - [Surgical experience is an independent predictor of shorter operative time in laparoscopic radical prostatectomy, though it explains only part of the variance](surgical-experience-independent-predictor-operative-time.md) — related
 - [Operative time in laparoscopic radical prostatectomy reaches a proficiency plateau after the 61st case in this series](lrp-operative-time-plateau-case-61.md) — related
+- [Technical performance metrics (pure RiSSA interval, purse-string times, console time) improved significantly after the case-17 inflection point](technical-metrics-improve-after-inflection.md) — related

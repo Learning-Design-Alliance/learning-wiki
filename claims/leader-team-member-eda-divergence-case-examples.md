@@ -50,3 +50,4 @@ Descriptive case example from the third simulation (V3) reported in the Results 
 - [In the beginning-segment Lasso model, participant role accounted for 15% of the final prediction model](participant-role-15-percent-beginning-model.md) — related
 - [In medical simulation training, socially shared regulation relates to subsequent emotional stabilization, with electrodermal activity modeled as a dependent variable](socially-shared-regulation-emotional-stabilization-eda.md) — related
 - [Lecture-based learning events show a clearer decline in EDA across within-event segments than flipped learning events](lecture-based-events-clearer-eda-decline-across-segments.md) — related
+- [Team leaders report significantly higher post-simulation shame than team members in team-based medical simulations](team-leaders-higher-post-simulation-shame.md) — related

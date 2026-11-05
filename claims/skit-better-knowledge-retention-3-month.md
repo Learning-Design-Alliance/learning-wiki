@@ -50,3 +50,4 @@ Unannounced 3-month follow-up testing with the same theoretical and OSCE model; 
 - [SKIT yields higher teaching satisfaction among rotating residents](skit-higher-teaching-satisfaction.md) — related
 - [SKIT improves triage accuracy but not significantly the reasonableness of emergency management plans](skit-triage-accuracy-management-plan-decision-making.md) — related
 - [The course's pedagogical impact was lagged: full superiority across assessment modalities emerged only at 16 months, which the authors interpret via script encapsulation theory](lagged-pedagogical-impact-script-encapsulation.md) — related
+- [Individual-level knowledge change follows a consistent pattern across students in both groups: large gain then smaller decline](individual-level-change-consistent-across-students.md) — related

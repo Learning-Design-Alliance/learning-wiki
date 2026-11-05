@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2022
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: peiris-d-l-i-h-k-2022
     resource: "https://doi.org/10.3390/ijerph19159479"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
-> **Currency** · newest study 2022 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The pooled effect on test anxiety was not statistically significant (SMD = 0.16, p = 0.50). [→ Peiris D. L. I. H. K. 2022](#peiris-d-l-i-h-k-2022)

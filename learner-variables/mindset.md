@@ -13,7 +13,7 @@ generated:
 # Mindset
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 71 claims (39 show a difference, 25 mixed, 7 no difference) · 36 studies (15 associational, 9 causal, 7 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 10 of 36 report an effect size · 69 claims rest on one study
+> **Evidence** · 75 claims (42 show a difference, 26 mixed, 7 no difference) · 37 studies (16 associational, 9 causal, 7 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 10 of 37 report an effect size · 73 claims rest on one study
 
 ## Description
 Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset holds that ability is set, a growth mindset that it can be developed. It is measured with short self-report scales. Research tests it as a predictor of achievement, as a moderator, and above all as an outcome of brief growth-mindset interventions. Large preregistered trials and meta-analyses find that the average effect of those interventions on achievement is small and concentrated in lower-achieving students in supportive settings, and that the correlation between mindset and achievement is weak.
@@ -102,6 +102,10 @@ Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset h
 - [Growth mindset correlates positively with grit and grit correlates positively with mathematics achievement](../claims/growth-mindset-grit-correlations.md) [+M] — learners who differ on it differ in outcomes
 - [Growth mindset is positively associated with mastery-approach, mastery-avoidance, and performance-approach goals and negatively with performance-avoidance goals](../claims/growth-mindset-predicts-achievement-goal-orientations.md) [+M] — learners who differ on it differ in outcomes
 - [Growth mindset shows a significant negative direct association with mathematics achievement and a non-significant total effect in Chinese Grade 7 students](../claims/growth-mindset-negative-direct-association-math-china.md) [~M] — learners who differ on it differ in outcomes
+- [Grit mediates the relationship between growth mindset and academic performance of female art majors](../claims/grit-mediation-growth-mindset-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Growth mindset is positively associated with academic performance among Chinese female art majors (direct effect 0.25, p < .001)](../claims/growth-mindset-positive-direct-effect-female-art-majors.md) [+M] — learners who differ on it differ in outcomes
+- [Learning adaptability mediates the relationship between growth mindset and academic performance of female art majors](../claims/learning-adaptability-mediation-growth-mindset-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Personal growth initiative moderates the growth mindset–academic performance link, with a steeper slope at high PGI](../claims/pgi-moderation-growth-mindset-performance.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do growth-mindset interventions raise achievement, and for which learners and in which settings?* [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](../claims/growth-mindset-improves-achievement.md) [+S]

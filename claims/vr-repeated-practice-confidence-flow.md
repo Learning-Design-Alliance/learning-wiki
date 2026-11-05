@@ -73,3 +73,4 @@ Focus group interviews showed students valued open questions that stimulated ref
 - [Students report that the VR learning resource helps translate theoretical knowledge into practical skills and increases attention to family-focused care](vr-translation-theory-into-practical-skills.md) — related
 - [Simulation-based BLS training evokes strong emotional engagement and builds nursing students' confidence through repeated practice in a safe, mistake-tolerant environment](simulation-bls-emotional-engagement-confidence.md) — related
 - [The virtual learning resource was feasible and perceived as more engaging than traditional teaching in a 12-student pilot](vr-resource-feasibility-pilot-engagement.md) — related
+- [Perceived realism of virtual patient scenarios and comfort interacting in VR rose substantially from pre to post (realism 2.9 to 4.4; VR comfort 3.0 to 4.6)](vr-pilot-realism-comfort-gains.md) — related

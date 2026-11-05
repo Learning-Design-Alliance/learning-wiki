@@ -55,3 +55,4 @@ Bias-corrected Bootstrap mediation testing in the SEM study (229 valid responses
 - [Polychronicity moderates the relationships between effective AI use, AI over-reliance, and learning outcomes](polychronicity-moderates-ai-use-learning-relationships.md) — related
 - [Hedonic appeal, not trust, carries the indirect path from trace exposure to performance overestimation, consistent with a processing-fluency account](hedonic-appeal-mediates-overestimation.md) — related
 - [Trust in AI is positively associated with university students' dependence on GenAI](trust-in-ai-positively-associated-genai-dependence.md) — related
+- [Trust in DeepSeek moderates the relationship between social influence and intention to use, amplifying it at higher trust](trust-moderates-social-influence-intention.md) — related

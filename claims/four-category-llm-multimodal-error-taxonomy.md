@@ -93,3 +93,5 @@ Descriptive observation from the error analysis of the same question sets: compu
 - [Three publicly available LLMs achieve 96% average accuracy on text-only physics problems with no significant differences among models](llms-96-percent-text-only-physics-accuracy.md) — related
 - [Four process-level error categories account for roughly nine in ten attributed failures in VCoT geometry solving](four-process-error-categories-dominate-failures.md) — related
 - [LLMs underperformed on image-based dental examination questions compared with text-based questions](llms-underperform-image-based-questions.md) — related
+- [All four multimodal LLMs show a marked decrease in correct response rates on visually-based versus text-only JNEOT questions](llm-visual-question-decline-jneot.md) — related
+- [Ten JNEOT questions were answered incorrectly by all four LLMs, six of them visually-based](ten-questions-incorrect-by-all-llms.md) — related

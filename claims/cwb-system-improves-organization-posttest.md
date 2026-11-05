@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2012
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: liu-et-al-2012
     resource: "https://eric.ed.gov/?id=EJ989211"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2012 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After ten weeks, the experimental group scored significantly higher than the control group in organization (t = 4.302, p = .000). [→ Liu et al. 2012](#liu-et-al-2012)

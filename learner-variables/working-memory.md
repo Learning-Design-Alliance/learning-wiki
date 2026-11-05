@@ -13,7 +13,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 142 claims (82 show a difference, 40 mixed, 20 no difference) · 114 studies (43 causal, 26 associational, 22 review, 12 quant-synthesis, 8 theoretical, 3 qualitative), `q1`–`q4` · 22 of 114 report an effect size · 134 claims rest on one study
+> **Evidence** · 144 claims (83 show a difference, 40 mixed, 21 no difference) · 116 studies (44 causal, 26 associational, 23 review, 12 quant-synthesis, 8 theoretical, 3 qualitative), `q1`–`q4` · 23 of 116 report an effect size · 135 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -185,6 +185,8 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Learners reported high acceptability of MAPLE-CR, with questionnaire means of 4.19-4.62 on positively worded items but salient cognitive-load concerns](../claims/maple-cr-high-acceptability-cognitive-load.md) [~M] — measured as an outcome of the instruction studied
 - [AI-driven teaching paradigm reduces cognitive load measured by NASA-TLX](../claims/ai-paradigm-reduces-cognitive-load-nasa-tlx.md) [+M] — measured as an outcome of the instruction studied
 - [Cognitive load reduction is maximal when explainable guidance and adaptive scheduling are combined](../claims/cognitive-load-reduction-maximal-when-combined.md) [~M] — measured as an outcome of the instruction studied
+- [Working memory did not significantly moderate the effect of fading on posttest math performance](../claims/wm-does-not-moderate-fading.md) [-M] — an instructional effect differs with it
+- [Working memory resources can be exhausted during learning, decreasing performance, and restored through a break](../claims/working-memory-exhaustion-restored-by-break.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

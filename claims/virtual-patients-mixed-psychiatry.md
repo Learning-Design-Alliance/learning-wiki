@@ -112,3 +112,4 @@ Uncontrolled before-after study (RT-SIM) with 32 psychiatry residents completing
 - [Use of the AI virtual patient tool was associated with improved self-perceived structured diagnostic approach, initial-diagnosis confidence, and patient-explanation confidence](ai-virtual-patient-structured-approach-gains.md) — related
 - [A Kolb-based VR simulation program produces significantly greater improvement in problem-solving ability than e-book-based case simulation among nursing students](vr-experiential-simulation-improves-dka-problem-solving.md) — related
 - [Diagnostic accuracy did not differ between the VR and standardized patient units despite lower subjective ratings for VR](diagnostic-accuracy-similar-vr-and-sp-units.md) — related
+- [VR-trained students outperformed control students in all three assessed competency modules in both assessment modes](vr-cataract-three-module-subscore-advantage.md) — related

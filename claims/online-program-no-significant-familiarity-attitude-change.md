@@ -50,3 +50,4 @@ Quasi-experimental one-group pretest–posttest study (AlOtaibi et al. 2024, Sau
 - [An 8-hour online educational program significantly improved emergency nurses' knowledge, skills, and personal preparedness, though scores remained moderate](online-program-improved-knowledge-skills-preparedness.md) — related
 - [Immersive virtual reality disaster training improved emergency nurses' preparedness and self-efficacy with short-term retention](immersive-vr-training-improved-preparedness-self-efficacy.md) — related
 - [Adding a tabletop exercise to lecturing produced consistently greater improvements in nurses' disaster preparedness than lecturing alone](tabletop-plus-lecture-beats-lecture-alone.md) — related
+- [New nurses' self-rated self-efficacy rose slightly but not significantly from pre-program levels at three and six months following the SCCDP, in one single-group pre-post study](sccdp-self-efficacy-no-significant-change.md) — related

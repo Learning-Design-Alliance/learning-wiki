@@ -47,6 +47,7 @@ The review recommends designing targeted training programs using simulation and 
 - [Integrate ethical reasoning, data literacy, systems thinking, and risk evaluation into decision-making training](integrate-ethics-data-literacy-systems-thinking-risk-evaluation-training.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Implement structured AI training programmes and nurse-led AI decision-making to enhance AI competence](structured-ai-training-nurse-led-decision-making.md)
+- [Strengthen final-year nursing preparation through competency-based, simulation-supported education focused on clinical skills, critical thinking, and ethics](competency-simulation-education-reduce-error-tendency.md)
 
 ## Examples
 -

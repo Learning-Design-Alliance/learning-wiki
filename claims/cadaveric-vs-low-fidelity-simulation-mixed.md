@@ -48,4 +48,5 @@ Review synthesis of four RCTs comparing cadaveric with low-fidelity simulation. 
 - [Cadaveric simulation training is superior to no simulation training for surgical skill acquisition, per three RCTs](cadaveric-simulation-superior-to-no-training.md) — related
 - [Training on a simple low-fidelity 'choose-the-hole' bench model transferred to real clinical fibreoptic intubation performance in an RCT](choose-the-hole-bench-model-predictive-validity-rct.md) — related
 - [Validation quality does not consistently correlate with simulator fidelity, and high-fidelity VR simulators' superiority over simpler models for fibreoptic intubation has not been demonstrated](simulator-fidelity-does-not-track-validation-quality.md) — related
+- [Cadaveric specimens are rated the most beneficial PTED simulation modality and low-fidelity bench-top models the least](cadaveric-specimens-preferred-pted-simulation-modality.md) — related
 

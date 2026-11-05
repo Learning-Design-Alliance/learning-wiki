@@ -49,3 +49,4 @@ Likert-scale attitudinal survey (86% response rate) measuring student perception
 - [The vodcast-access cohort showed no significant improvement over the control cohort on the end-of-module exam.](no-vodcast-effect-on-eom-exam-performance.md) — related
 - [Female students previewed significantly fewer vodcasts than male students before lectures.](gender-difference-in-vodcast-previewing.md) — related
 - [Performance on questions from the non-vodcast lecturer's lectures did not differ significantly between the two cohorts.](no-vodcast-effect-on-non-vodcast-lecturer-questions.md) — related
+- [Majorities of surveyed students believed the modules helped their examination performance and preparedness](perceived-exam-benefit-survey.md) — related

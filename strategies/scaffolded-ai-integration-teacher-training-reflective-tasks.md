@@ -62,6 +62,7 @@ The review recommends that Arab universities integrate AI tools into EL2 instruc
 - [Provide explicit instruction in AI prompting and information verification alongside AI integration in laboratory courses](explicit-ai-prompting-verification-instruction.md)
 - [Adopt a clear pedagogical approach focused on critical thinking and fact-checking strategies when integrating LLMs into curricula](critical-thinking-fact-checking-llm-integration.md)
 - [Provide teacher guidance on GenAI use, prompt engineering, ethics, and targeted classroom activities for translation](teacher-guidance-genai-translation-classroom-activities.md)
+- [Integrate AI literacy and critical appraisal skills into dental curricula alongside discipline-specific AI validation](ai-literacy-critical-appraisal-dental-curricula-strategy.md)
 
 ## Examples
 -

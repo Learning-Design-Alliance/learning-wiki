@@ -48,6 +48,7 @@ The review recommends that interventions "extend beyond general awareness and in
 - [Organize integrated support systems as universal, supplemental, and intensive tiers](tiered-integrated-support-systems.md)
 - [Organize student well-being supports through a three-tier MTSS with universal screening](mtss-three-tier-universal-screening-wellbeing.md)
 - [Establish student-led peer-based suicide prevention clubs using Sources of Strength](student-led-sources-of-strength-clubs.md)
+- [Integrate coping psychoeducation into academic support workshops and counselling for university teachers](coping-psychoeducation-workshops-faculty.md)
 
 ## Examples
 -

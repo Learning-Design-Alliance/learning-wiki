@@ -46,6 +46,7 @@ Based on the finding that PP interventions positively affect language performanc
 ## Related Strategies
 
 - [Integrate resilience-building strategies and psychological skills into communication training](integrate-resilience-building-in-communication-training.md)
+- [Integrate resilience-building strategies into teacher training programs, prioritizing psychosocial facets of academic success and pairing them with study-skill instruction when grade improvement is the goal](resilience-building-teacher-training-strategy.md)
 
 ## Examples
 -

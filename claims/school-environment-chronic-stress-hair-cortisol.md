@@ -9,7 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2023
-source_checked: 2026-10-27
+source_checked: 2026-11-05
 sources:
   - id: madeline-b-harms-and-sherona-d-garrett-ruffin-2023
     resource: "https://doi.org/10.1038/s41539-023-00199-2"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2023 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Being bullied at school was linked to higher hair cortisol, which was in turn associated with poorer executive function, indicating the school environment can be a source of chronic stress affecting academic skills. [→ Madeline B. Harms and Sherona D. Garrett-Ruffin 2023](#madeline-b-harms-and-sherona-d-garrett-ruffin-2023)

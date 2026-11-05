@@ -13,7 +13,7 @@ generated:
 # Role-Playing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 19 claims (11 for, 6 mixed, 2 against) · 15 studies (6 causal, 3 review, 3 qualitative, 2 associational, 1 theoretical), `q1`–`q3` · 3 of 15 report an effect size · 19 claims rest on one study
+> **Evidence** · 21 claims (12 for, 7 mixed, 2 against) · 16 studies (6 causal, 4 qualitative, 3 review, 2 associational, 1 theoretical), `q1`–`q3` · 3 of 16 report an effect size · 21 claims rest on one study
 
 ## Description
 Role-playing is the element in which learners adopt roles and act through a scenario, interaction, or decision process from that perspective. It is useful when learning depends on situational judgment, empathy, communication, or applied decision-making.
@@ -55,6 +55,8 @@ Role-playing is the element in which learners adopt roles and act through a scen
 - [Students' perceived ability to perform actual information systems auditing tasks rose from pretest to posttest in one uncontrolled pre-post study of a role-playing game](../claims/rpg-increased-perceived-ability-perform-audit-tasks.md) [+W]
 - [Hybrid simulation with role-playing improves patient identification accuracy and allergy verification among nursing students](../claims/hybrid-simulation-improves-patient-id-and-allergy-verification.md) [+W]
 - [Many of 15 interviewed Irish dietitians had used role-play and scenario-based activities without recognising them as simulation, associating SBE with high-fidelity approaches](../claims/dietitians-unrecognised-simulation-activities.md) [~W]
+- [ChatGPT-3.5-turbo portrayed convincing characters in the aftermath of stressful events, though portrayals were sometimes overly stereotypical](../claims/chatgpt-portrays-realistic-pfa-characters-with-stereotyping.md) [+W] — attached 2026-11-05 from Figueroa Rodrigo A. et al. (2026), which proposed "Three ChatGPT-3.5-turbo PFA role-play simulations evaluated via digital autoethnography and reflexive thematic analysis".
+- [The LLM cooperated with the trainer by improvising scripts and adjusting its attitude on instruction, but sometimes violated timing and role-boundary directives](../claims/llm-cooperates-with-trainer-but-breaks-instructions.md) [~W] — attached 2026-11-05 from Figueroa Rodrigo A. et al. (2026), which proposed "Three ChatGPT-3.5-turbo PFA role-play simulations evaluated via digital autoethnography and reflexive thematic analysis".
 
 ## Related Elements
 - [Decision-Making](decision-making.md)

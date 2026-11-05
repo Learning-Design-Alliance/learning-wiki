@@ -9,7 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 sources:
   - id: day-2017
     resource: "https://doi.org/10.1177/1534508416670367"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
-> **Currency** · newest study 2017 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` On Part 1 of the fall RRRP, Memory for Digits Reversed and the SWAN Attention subscale were significantly related to performance, with SWAN hyperactivity showing only a trend (p = .071). [→ Day 2017](#day-2017)

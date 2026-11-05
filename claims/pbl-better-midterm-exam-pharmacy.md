@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: galvao-tais-f-2014
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3950357/"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i1` small
-> **Currency** · newest study 2014 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Meta-analysis of controlled pharmacy education studies found PBL students performed better on midterm examinations (OR = 1.46; 95% CI 1.16–1.89). [→ Galvao Tais F. 2014](#galvao-tais-f-2014)

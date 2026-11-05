@@ -61,3 +61,4 @@ Review synthesis of Ford et al.'s (2023) UK mixed-methods realist evaluation (n 
 - [Assessment design, perceived assessment value, self-confidence, and fear of wrongful plagiarism accusations were the most frequently cited reasons for students' GenAI adoption decisions](reasons-students-cite-genai-assessment-decisions.md) — related
 - [In-person proctored nursing cohorts achieved significantly higher HESI scores and NCLEX readiness than remotely proctored (ProctorU) cohorts](in-person-proctored-higher-hesi-than-remote.md) — related
 - [Remote exam proctoring software based on automated facial detection tends to disproportionately flag already-marginalized student groups as suspicious](remote-proctoring-facial-ai-disproportionate-flagging.md) — related
+- [Participants reported VR assessment environments may reduce anxiety compared with physical assessment settings](vr-assessment-reduces-performance-anxiety.md) — related

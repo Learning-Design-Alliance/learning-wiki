@@ -50,3 +50,4 @@ Social validity assessment via open-ended questions to the 11 student teachers a
 - [High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety](vad-stress-psychological-safety-threat.md) — related
 - [Peer observation and feedback increased student participation, interest and sense of responsibility in technical seminar presentations](peer-observation-increases-participation.md) — related
 - [PBL students experienced the dynamic interplay of lecture and group work as providing security and comfort, and highlighted realistic project tasks as motivating](pbl-lecture-groupwork-security.md) — related
+- [Participants reported VR assessment environments may reduce anxiety compared with physical assessment settings](vr-assessment-reduces-performance-anxiety.md) — related
