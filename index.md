@@ -43,7 +43,7 @@ How a course gets designed — whole-process models a designer works through, ra
 ### [Design Methods](methods/index.md) (37)
 The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom.
 
-### [Research Methods](research-methods/index.md) (1006)
+### [Research Methods](research-methods/index.md) (1007)
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
 ### [Theories](theories/index.md) (1360)
