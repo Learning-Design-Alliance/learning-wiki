@@ -5,8 +5,8 @@ description: The survey states that deep learning knowledge tracing models exhib
 id: deep-learning-knowledge-tracing-outperforms-but-lacks-interpretability
 status: review
 generated:
-  by: claude/unspecified
-  at: 2026-09-24
+  by: "process:article-ingest"
+  at: 2026-11-05
 evidence_strength: mixed
 newest_evidence: 2021
 source_checked: 2026-10-20
@@ -67,6 +67,7 @@ Narrative review summary of the fundamental models section, with no pooled compa
 
 
 ## Related Claims
+- [Under one standardised evaluation, most deep knowledge-tracing models published after the original DKT do not beat it, and a common KC-level evaluation shortcut inflates reported accuracy](newer-deep-kt-models-rarely-beat-dkt-standard-protocol.md) — qualifies it
 - [No Single Knowledge Tracing Model Is Always Best](no-single-knowledge-tracing-model-is-always-best.md)
 - [The survey reports, citing Lu et al., that xAI-based interpretations of deep knowledge tracing were demonstrated to aid in enhancing the trust of students and teachers.](xai-interpretation-of-dkt-enhances-trust.md) — related
 - [BKT is the most efficient knowledge tracing approach overall in simulated online mastery learning, though DKT is more efficient for AS and M problems](bkt-most-efficient-online-mastery-learning.md) — related

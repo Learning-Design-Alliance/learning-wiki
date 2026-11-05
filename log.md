@@ -496,6 +496,10 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 * **Claim**: [principles/deliberate-practice](principles/deliberate-practice.md) — Linked claim from An astonishing regularity in student learning rate (Koedinger et al., 2023), doi:10.1073/pnas.2221311120
 * **Ingest**: [claims/practice-opportunities-needed-after-verbal-instruction](claims/practice-opportunities-needed-after-verbal-instruction.md) — An astonishing regularity in student learning rate (Koedinger et al., 2023), doi:10.1073/pnas.2221311120
 * **Ingest**: [claims/students-differ-in-initial-knowledge-not-learning-rate](claims/students-differ-in-initial-knowledge-not-learning-rate.md) — An astonishing regularity in student learning rate (Koedinger et al., 2023), doi:10.1073/pnas.2221311120
+* **Claim**: [claims/deep-learning-knowledge-tracing-outperforms-but-lacks-interpretability](claims/deep-learning-knowledge-tracing-outperforms-but-lacks-interpretability.md) — Linked claim from pyKT: A Python library to benchmark deep learning based knowledge tracing models (Liu et al., 2022), doi:10.52202/068431-1347
+* **Claim**: [theories/deep-learning-knowledge-tracing-models](theories/deep-learning-knowledge-tracing-models.md) — Linked claim from pyKT: A Python library to benchmark deep learning based knowledge tracing models (Liu et al., 2022), doi:10.52202/068431-1347
+* **Claim**: [principles/adaptive-learning](principles/adaptive-learning.md) — Linked claim from pyKT: A Python library to benchmark deep learning based knowledge tracing models (Liu et al., 2022), doi:10.52202/068431-1347
+* **Ingest**: [claims/newer-deep-kt-models-rarely-beat-dkt-standard-protocol](claims/newer-deep-kt-models-rarely-beat-dkt-standard-protocol.md) — pyKT: A Python library to benchmark deep learning based knowledge tracing models (Liu et al., 2022), doi:10.52202/068431-1347
 
 ## 2026-11-04
 
