@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**49846 entries** · 0 stable · 49846 in review · 0 drafts
+**49847 entries** · 0 stable · 49847 in review · 0 drafts
 
 ---
 
@@ -35608,6 +35608,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Simulated embodied experience in a virtual environment accelerated Chinese vocabulary learning more than a traditional web-based context](ve-context-accelerates-chinese-vocabulary-learning.md) - Simulated embodied experience in a virtual environment accelerated Chinese vocabulary learning more than a traditional web-based context
 * [Simulated Human-in-the-Loop workflow reduces required full human scoring of written productions by at least 50%](hitl-workflow-reduces-human-scoring-workload-50-percent.md) - Simulated Human-in-the-Loop workflow reduces required full human scoring of written productions by at least 50%
 * [Simulated learner models in the reviewed literature tend to represent only narrow aspects of student learning.](simulated-learners-models-narrow-aspects.md) - Simulated learner models in the reviewed literature tend to represent only narrow aspects of student learning.
+* [Simulated learners can match human error rates overall while learning faster and making different kinds of errors than the students they model](simulated-learners-differ-from-humans-in-error-types.md) - Apprentice Learner agents trained on the same fraction-tutor problems as 117 students learned about twice as fast per opportunity, made input and selection errors in a different ratio, and asked for hints more often early on, so matching aggregate error curves alone hides how a simulated learner differs from humans.
 * [Simulated one-standard-deviation increases in autonomy yield only modest predicted changes in ICT career aspirations](counterfactual-autonomy-increase-modest-ict-aspiration-effect.md) - Simulated one-standard-deviation increases in autonomy yield only modest predicted changes in ICT career aspirations
 * [Simulated participants judged prepared students as performing better in simulations](sp-reflections-prepared-students-perform-better.md) - Simulated participants judged prepared students as performing better in simulations
 * [Simulated role play sessions cost $0.05-$0.10 each in the EducaSim deployment](educasim-low-cost-per-session.md) - Simulated role play sessions cost $0.05-$0.10 each in the EducaSim deployment

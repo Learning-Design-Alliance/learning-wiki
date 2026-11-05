@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":49846,
+"claim":49847,
 "design":2572,
 "element":1057,
 "learner-variable":75,
@@ -418594,6 +418594,16 @@
 "type":"claim"
 },
 {
+"description":"Apprentice Learner agents trained on the same fraction-tutor problems as 117 students learned about twice as fast per opportunity, made input and selection errors in a different ratio, and asked for hints more often early on, so matching aggregate error curves alone hides how a simulated learner differs from humans.",
+"evidence_strength":"weak",
+"id":"simulated-learners-differ-from-humans-in-error-types",
+"newest_evidence":"2020",
+"path":"claims/simulated-learners-differ-from-humans-in-error-types.md",
+"status":"review",
+"title":"Simulated learners can match human error rates overall while learning faster and making different kinds of errors than the students they model",
+"type":"claim"
+},
+{
 "description":"Simulated learner models in the reviewed literature tend to represent only narrow aspects of student learning.",
 "evidence_strength":"weak",
 "id":"simulated-learners-models-narrow-aspects",
@@ -718492,6 +718502,7 @@
 "simulated-disability-sports-most-important-activity":"simulated-disability-sports-most-important-activity",
 "simulated-education-improved-evacuation-competencies":"simulated-education-improved-evacuation-competencies",
 "simulated-errors-experiment-higher-lm-ppl":"simulated-errors-experiment-higher-lm-ppl",
+"simulated-learners-differ-from-humans-in-error-types":"simulated-learners-differ-from-humans-in-error-types",
 "simulated-learners-models-narrow-aspects":"simulated-learners-models-narrow-aspects",
 "simulated-mdt-cbl-improves-trainee-confidence":"simulated-mdt-cbl-improves-trainee-confidence",
 "simulated-patient-evaluations-predict-osce-performance":"simulated-patient-evaluations-predict-osce-performance",

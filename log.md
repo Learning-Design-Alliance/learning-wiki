@@ -10,6 +10,11 @@ This file holds the current month. Earlier months are in `log/YYYY-MM.md`, moved
 
 ---
 
+## 2026-11-05
+
+* **Content**: [products/apprentice-learner-architecture](products/apprentice-learner-architecture.md) — Weitekamp et al. (2020), Investigating differential error types between human and simulated learners, doi:10.1007/978-3-030-52237-7_47
+* **Ingest**: [claims/simulated-learners-differ-from-humans-in-error-types](claims/simulated-learners-differ-from-humans-in-error-types.md) — Weitekamp et al. (2020), Investigating differential error types between human and simulated learners, doi:10.1007/978-3-030-52237-7_47
+
 ## 2026-11-04
 
 * **Ingest**: [claims/voluntary-choice-suppression-effect-multivariable](claims/voluntary-choice-suppression-effect-multivariable.md) — Ingested from pmc-13240153 (Newly Graduated Nurses' Professional Competency and Caring Perception: A Cross-Sectional Correlational Study.) via eval_harness.py + ingest_extractions.py
