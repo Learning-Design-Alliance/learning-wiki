@@ -47,6 +47,7 @@ The article recommends that AIED evaluation move beyond binary LLM access by mea
 - [Move beyond static skill-targeted rewriting toward interaction-aware adaptive error explanations](interaction-aware-adaptive-error-explanations.md)
 - [Develop AI literacy frameworks that build metacognitive awareness distinguishing system-assisted performance from independent competence](metacognitive-ai-literacy-frameworks.md)
 - [Complement outcome measures with continuous process measures to assess social effects and enable adaptive pedagogical agents](process-measures-for-adaptive-pedagogical-agents.md)
+- [Four-step process for applying AI models to MCQ assessment in a new medical specialty](four-step-ai-mcq-assessment-process.md)
 
 ## Examples
 -

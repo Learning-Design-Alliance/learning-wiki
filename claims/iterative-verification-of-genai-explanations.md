@@ -8,7 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-11
 evidence_strength: weak
-source_checked: 2026-10-28
+source_checked: 2026-11-05
 sources:
   - id: verification
     resource: "https://doi.org/10.48550/arxiv.2609.06095"
@@ -23,7 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · no dated study recorded · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · no dated study recorded · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants cross-referenced AI output against course notes, conditioned trust on provenance, and probed with follow-up questions for inconsistency. [→ verification](#verification)

@@ -70,3 +70,4 @@ The review reports behavioural improvement "across study designs", with ratings 
 - [The framework embeds communication, consent, and debriefing objectives alongside technical procedural skills](procedural-objectives-embed-communication-and-debriefing.md) — related
 - [Team communication and decision-making gains show no significant differences across departments, experience levels, professions, or prior simulation exposure](communication-decision-gains-uniform-subgroups.md) — related
 - [Self-guided and facilitator-guided debriefing showed no significant difference in paediatric emergency performance outcomes](no-performance-difference-between-debriefing-methods.md) — related
+- [Non-technical competencies such as communication, teamwork, and decision-making are frequently neglected in RT competency assessment](non-technical-competencies-neglected-rt-assessment.md) — related

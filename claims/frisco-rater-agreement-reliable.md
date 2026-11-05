@@ -9,7 +9,6 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-04
 sources:
   - id: firdausi-2026
     resource: "https://doi.org/10.22266/ijies2026.0831.09"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Three independent teacher raters reached mean Cohen's linear weighted kappa of 0.78–0.84 and mean PoA above 75% across all six FRISCO dimensions. [→ Firdausi 2026](#firdausi-2026)
@@ -95,3 +94,4 @@ Reliability analysis of essay scoring by three high school physics teachers of 1
 - [The checklist assessment showed strong interrater reliability, contributing validation evidence](checklist-interrater-reliability-kappa-0875.md) — related
 - [Rubric scoring of concept image protocols showed inter-rater reliability exceeding acceptable thresholds (Fleiss Kappa 0.60–0.88; Krippendorff's Alpha 0.60–0.88; ICC 0.89–0.98)](concept-image-rubric-inter-rater-reliability.md) — related
 - [Blinded expert raters showed very high agreement when evaluating the LLM-based ACLS simulation scenarios (Kendall W > 0.754)](acls-llm-sim-high-interrater-reliability.md) — related
+- [EM and neurology residents showed substantial agreement on NIHSS scores during the dual-scoring pilot](em-neurology-resident-nihss-substantial-agreement.md) — related

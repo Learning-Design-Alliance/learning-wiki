@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 258 claims (184 show a difference, 44 mixed, 30 no difference) · 177 studies (79 causal, 46 associational, 21 review, 13 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 48 of 177 report an effect size · 252 claims rest on one study
+> **Evidence** · 260 claims (186 show a difference, 44 mixed, 30 no difference) · 179 studies (80 causal, 46 associational, 22 review, 13 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 48 of 179 report an effect size · 254 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -293,6 +293,8 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Humorous elements increase perceived instructor likability but show inconsistent effects on situational interest and learning atmosphere](../claims/humour-instructor-likability-effect.md) [~M] — measured as an outcome of the instruction studied
 - [Actual interest predicts test achievement indirectly through actual effort across all three learning tasks, while triggered interest does not carry forward into actual interest](../claims/actual-interest-acts-through-actual-effort.md) [~M] — learners who differ on it differ in outcomes
 - [The effects on math self-efficacy, math utility value and STEM vocational interest do not persist at the 6-month follow-up](../claims/srl-intervention-followup-nonpersistence-utility-interest.md) [-M] — measured as an outcome of the instruction studied
+- [Most surveyed medical students perceived the pharmacology games as enjoyable and effective for understanding concepts](../claims/students-perceive-games-enjoyable-effective.md) [+M] — measured as an outcome of the instruction studied
+- [Urology interest groups and mandatory skills sessions significantly increase medical student interest and procedural confidence](../claims/urology-interest-groups-skills-sessions-student-interest.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

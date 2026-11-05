@@ -54,6 +54,7 @@ The review recommends that future research prioritize longitudinal designs conne
 - [Prioritize operational-setting protocols, longitudinal expertise tracking, team dynamics, and real-time monitoring as next steps for educational neuroimaging](neuroimaging-future-research-directions-hpe.md)
 - [Evaluate mental practice with longitudinal mixed-method designs in real clinical teams, and embed MP in organisational routines such as pre-surgical briefings](longitudinal-mixed-method-mp-evaluation.md)
 - [Continuously optimize BOPPPS-simulation training by refining objectives, personalizing scenario difficulty, and tracking long-term outcomes](optimize-boppps-training-objectives-difficulty-tracking.md)
+- [Adopt performance analytics and tele-simulation to individualize simulation learning and extend access across campuses](performance-analytics-tele-simulation-strategy.md)
 
 ## Examples
 -

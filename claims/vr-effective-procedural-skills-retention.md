@@ -70,3 +70,4 @@ The review's cross-study synthesis, drawing on Blonsky et al. (multicenter RCT, 
 - [A virtual reality open inguinal hernia model improved medical students' knowledge of the procedure but did not assess technical skill](vr-open-hernia-model-improves-student-knowledge.md) — related
 - [VR learning units do not per se lead to better learning success; quality and design of the unit are decisive](vr-units-not-per-se-better-design-decisive.md) — related
 - [Dry-lab training promotes technical skill development more than VR training](dry-lab-training-exceeds-vr-robotic-skills.md) — related
+- [Technology-enhanced simulation improves knowledge, procedural skills, teamwork behaviors, and transfer to practice](simulation-improves-knowledge-skills-teamwork-transfer.md) — a broader claim this one bears on

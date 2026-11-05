@@ -42,6 +42,7 @@ Based on the finding that LLM diagnostic failures persist regardless of solution
 ## Related Strategies
 
 - [Validate wiki-grounded course tutors through classroom deployment, harder questions, larger corpora, and hybrid or graph RAG comparison arms](future-validation-wiki-tutor-classroom-deployment.md)
+- [Design human-LLM collaborative systems in which LLMs assist diagnostic reasoning while human experts oversee complex decisions](human-llm-collaborative-diagnostic-reasoning-strategy.md)
 
 ## Examples
 -

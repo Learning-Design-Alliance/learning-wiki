@@ -48,3 +48,4 @@ Descriptive survey item on past training resources among the 118-participant sam
 ## Related Claims
 - [Genetic counselors most want CEU activities and workshops as future teaching-development resources, differing from training they previously used](gc-desired-future-training-workshops-ceus.md) — related
 - [Lecturing in genetics didactic courses is the most common classroom teaching activity genetic counselors report across all student populations](gc-lecturing-most-common-classroom-activity.md) — related
+- [Nearly 90% of participants reported sharing their program knowledge with others through formal training, workshops, or informal mentoring and case discussions](therapy-intensive-knowledge-dissemination.md) — related

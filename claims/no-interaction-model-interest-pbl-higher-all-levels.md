@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2019
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: permatasari-and-gunarhadi-2019
     resource: "https://iaescore.com/journals/index.php/IJERE"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2019 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The learning model × learning interest interaction was not significant (F = 0.330 < 3.085), and the PBL group's mean was higher than DI's at high, medium, and low interest levels. [→ Permatasari and Gunarhadi 2019](#permatasari-and-gunarhadi-2019)

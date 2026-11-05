@@ -70,3 +70,4 @@ Same role requirements domain. Participants noted medical assistants operate wit
 - [Stakeholders expect DHNs to hold basic mental health knowledge and recognize early warning signs of deterioration, while crisis intervention remains with qualified clinicians](dhn-mental-health-knowledge-crisis-boundaries.md) — related
 - [Stakeholders expect DHNs to communicate professionally and sensitively, explain content in lay-friendly ways, and adapt communication to individual patients](dhn-communicative-competencies-expectations.md) — related
 - [Barriers to soft skills integration: time constraints, systemic obstacles, learner emotional strain, and adapting to new modalities](soft-skills-curricular-barriers-medical-education.md) — related
+- [Trained, clearly supervised task sharing yields outcomes comparable to physician-led care for selected tasks while improving access and efficiency](trained-supervised-task-sharing-comparable-outcomes.md) — related

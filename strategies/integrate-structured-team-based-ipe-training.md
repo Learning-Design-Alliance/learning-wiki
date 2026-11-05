@@ -52,6 +52,8 @@ Based on the finding that teamwork and collaboration are the most frequently dev
 - [Design CPD programs with hands-on skill development, ongoing reinforcement, and integration into workplace protocols](cpd-hands-on-skills-reinforcement-protocol-integration.md)
 - [Build conflict-resolution and communication skills into multidisciplinary team projects](conflict-resolution-modules-multidisciplinary-teams.md)
 - [Strengthen science communication competency through curricular innovation and multidisciplinary team-based practice platforms](curricular-innovation-and-multidisciplinary-tbl-platforms.md)
+- [Embed the shared competencies into undergraduate and postgraduate interprofessional education curricula](embed-shared-competencies-ipe-curricula.md)
+- [Structure sustained engineer-clinician collaboration to bridge the IT-medical gap in hospital learning technology projects](engineer-clinician-collaboration-strategy.md)
 
 ## Examples
 -

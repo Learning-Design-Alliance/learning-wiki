@@ -54,3 +54,4 @@ Pre-post self-comparison of 24 paediatric postgraduates at one hospital; skills 
 - [Computer, mannequin, and combined simulation all significantly improve ACLS technical skills (megacode scores, CPR initiation time, defibrillation time) with no significant between-group differences](three-simulation-modes-equal-technical-acls-gains.md) — related
 - [Structured trauma resuscitation team training augmented by simulation improved teamwork domain ratings and reduced time to CT scanner, intubation, and operating room](simulation-augmented-team-training-improves-trauma-care-efficiency.md) — related
 - [Total simulator time for awake fiberoptic intubation decreased from pre-test to three-month post-test](rcdp-simulation-decreases-afio-simulator-time.md) — related
+- [Within the peer-assisted scenario simulation group, all five trauma first aid procedure scores improved significantly from pre- to post-training](pal-scenario-within-group-procedure-gains.md) — related

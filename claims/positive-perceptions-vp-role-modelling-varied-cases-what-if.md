@@ -48,3 +48,4 @@ Descriptive survey analysis (n = 21) using a 19-item instrument rated on a 5-poi
 - [Students perceived reflective “what-if” discussions and peer dialogue around VP feedback as supporting abstraction of underlying principles](what-if-peer-dialogue-abstraction-perceptions.md) — related
 - [Learner perceptions of GenAI-supported virtual patients were positive across 14 of the 15 reviewed studies](genai-vp-positive-learner-perceptions.md) — a broader claim this one bears on
 - [Students reported that stepwise build-up in case complexity and recognition of similar reasoning steps across cases supported transfer](stepwise-complexity-similar-reasoning-steps-themes.md) — related
+- [Objective IPV knowledge scores are consistently higher in the VP group, driven by a significant main group effect rather than a differential improvement rate](vp-group-consistently-higher-objective-knowledge.md) — related

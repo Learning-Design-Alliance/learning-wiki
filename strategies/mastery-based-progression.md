@@ -72,6 +72,7 @@ Mastery learning rests on the assumption that most learners can reach high stand
 - [Early-semester mandatory tutoring intervention for lowest-scoring students](early-semester-mandatory-tutoring-lowest-scoring.md)
 - [Decompose evidence-chain explanation into trainable parts with targeted feedback to improve investigation interpretation, the domain the pathway program did not move.](decompose-evidence-chain-explanation-into-trainable-parts.md)
 - [Integrate mastery learning principles into fixed-sequence simulation courses so trainees master earlier modules before progressing](integrate-mastery-learning-into-sim-course.md)
+- [Integrate the VR camera navigation test into mastery learning programs so trainees practice until reaching the pass/fail standard](mastery-learning-camera-navigation-simulation-strategy.md)
 
 ## Patterns That Use This Strategy
 - [Competency-Based Learning](../patterns/competency-based-learning.md) — mastery progression is the advancement mechanism

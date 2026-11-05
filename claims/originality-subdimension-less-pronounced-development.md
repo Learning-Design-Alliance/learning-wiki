@@ -9,7 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2023
-source_checked: 2026-10-21
+source_checked: 2026-11-05
 sources:
   - id: ota-potters-2023
     resource: "https://doi.org/10.1016/j.edurev.2023.100532"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2023 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The originality subdimension, located in the open-ended fragmenting taxonomy quadrant, shows a less pronounced developmental pattern across primary education than creativity overall. [→ O.T.A. Potters 2023](#ota-potters-2023)

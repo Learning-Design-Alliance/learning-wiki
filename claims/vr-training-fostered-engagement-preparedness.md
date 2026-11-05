@@ -54,3 +54,4 @@ Thematic analysis under the ITEM motivation domain of interviews with 11 medical
 - [Perceived realism and transferability to clinical practice influenced residents' motivation to use VR simulation](realism-transferability-shape-vr-motivation.md) — possibly the same claim (merge candidate)
 - [Clinical students perceived VR-based training as a complementary method that enhances proficiency, confidence, and access](vtracs-perceived-complementary-proficiency-enhancement.md) — related
 - [Pass/fail grading reforms show mixed outcomes, including reduced anxiety but possible lowered residency preparedness and a shadow economy of effort](pass-fail-grading-mixed-outcomes-shadow-economy.md) — related
+- [Student paramedics reported that the realism of a group-based simulation assessment enhanced their engagement, decision-making and confidence](realism-enhanced-engagement-decision-confidence.md) — related

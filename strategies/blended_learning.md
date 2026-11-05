@@ -90,6 +90,7 @@ Blended designs outperform either mode alone when the two components are deliber
 - [Integrate web-based case analysis tools into blended learning combining digital case-based practice with face-to-face teaching](blended-digital-analogue-case-analysis-strategy.md)
 - [Use varied face-to-face teaching strategies matched to learning objectives to sustain engagement in a full-day course](varied-face-to-face-teaching-strategies-ams-course.md)
 - [Implement XR-based ultrasound training as partial replacement of standard training during a dedicated training day](xr-partial-replacement-training-day.md)
+- [Provide adaptive online support and targeted guidance for students with weaker self-study motivation in blended flipped courses](adaptive-online-support-varied-self-study-strategy.md)
 
 ## Related Elements
 - [Lectures](../elements/lectures.md) — typically relocated to the online strand as recorded video

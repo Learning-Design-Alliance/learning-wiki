@@ -99,3 +99,4 @@ The review reports Dwisaptarini et al.'s RCT of minimal invasive caries removal 
 - [Haptic VR training produces no significant difference in implant depth error compared to traditional mentor teaching in novice medical students](haptic-vr-hip-arthroplasty-iderror-null.md) — related
 - [Systematic review by Barteit et al. found AR and VR head-mounted devices achieved results at least non-inferior to conventional teaching](ar-vr-head-mounted-non-inferior-conventional-teaching.md) — related
 - [Umbrella review by Tene et al. found no significant association between immersive technologies and improvements in medical education and training versus traditional methods](immersive-technologies-no-significant-association-umbrella-review.md) — related
+- [Progression-focused simulation curricula (FRS, SIMULATE) yield superior outcomes compared to traditional training methods](frs-simulate-progression-curricula-superior-outcomes.md) — related

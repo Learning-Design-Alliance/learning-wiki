@@ -52,3 +52,4 @@ Benchmark evaluation of three LLMs on 84 publicly released EUS multiple-choice q
 - [All EUS-generated LLM texts show low Flesch Reading Ease scores, indicating substantial reading difficulty](low-fre-llm-pharmacy-texts.md) — related
 - [Newer Anthropic and DeepSeek models approach GPT‐4o–o1 accuracy on biomedical MCQs, while Google Gemini and Microsoft Copilot trail the leading companies](llm-company-comparison-biomedical-mcq-accuracy.md) — related
 - [LLM accuracy on pediatric residency-level MCQs varies widely (38%–90%) across models when all questions are delivered simultaneously](all-at-once-llm-accuracy-38-90.md) — related
+- [ChatGPT's Reason function and DeepSeek's DeepThink function did not differ significantly in MCQ accuracy (84.7% vs 80.4%, P=.12)](reason-vs-deepthink-mcq-accuracy-not-significant.md) — related

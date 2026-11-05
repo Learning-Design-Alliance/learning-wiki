@@ -9,7 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: weak
 newest_evidence: 2015
-source_checked: 2026-10-18
+source_checked: 2026-11-05
 recheck_by: 2020
 sources:
   - id: dajani-2015
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2015 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2020**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Around 8 to 9 years of age, children change control strategies from orienting attention to relevant stimulus features to using cue-stimulus-response associations. [→ Dajani 2015](#dajani-2015)

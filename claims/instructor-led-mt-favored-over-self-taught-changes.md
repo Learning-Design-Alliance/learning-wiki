@@ -51,3 +51,4 @@ Cluster-randomized trial of 206 teachers from 43 schools randomized by school to
 - [Both mindfulness training formats showed similar participant expectancy and engagement, but teachers perceived the instructor-led arm as more credible](similar-expectancy-engagement-instructor-led-more-credible.md) — related
 - [CARE for Teachers improved teachers' adaptive emotion regulation, mindfulness, psychological distress, and time urgency in a cluster randomized trial](care-teachers-improves-teacher-social-emotional-outcomes.md) — related
 - [Blended digital training improves lay health care workers' acceptability of digital training modalities more than standard training alone](blended-digital-training-acceptability-gains.md) — related
+- [Majorities in both arms preferred traditional teacher-led workshops over the self-directed video format, with the instructor-led arm preferring it more](learners-prefer-traditional-instructor-led-workshop.md) — related

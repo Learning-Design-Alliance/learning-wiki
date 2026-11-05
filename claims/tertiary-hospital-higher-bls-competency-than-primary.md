@@ -77,3 +77,5 @@ Multivariable linear regression for total BLS knowledge score. The article repor
 - [Nurses' working experience is associated with AI competence; other demographics show no significant association](working-experience-associated-with-aic-nurses.md) — related
 - [BLS trainees working in tertiary facilities were 80% less likely than those in primary facilities to have adequate BLS knowledge and skills](tertiary-facility-lower-adequate-bls-odds.md) — reports the opposite
 - [Health care professionals from the Volta and Oti regions were 4.94 times more likely than those from Bono East to have adequate BLS knowledge and skills](volta-oti-higher-bls-odds-than-bono-east.md) — reports the opposite
+- [Despite prior basic life support training and CPR participation, nursing professionals report insecurity providing arrest care in Primary Health Care because such events are not routine there.](phc-cpr-insecurity-nonroutine.md) — related
+- [Previous hospital or CPR experience is reported as a determining factor for successful cardiorespiratory arrest care in Primary Health Care.](prior-experience-determines-phc-cpa-care-success.md) — related

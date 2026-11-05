@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 62 claims (40 for, 19 mixed, 3 against) · 37 studies (18 causal, 8 review, 6 quant-synthesis, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 8 of 37 report an effect size · 61 claims rest on one study
+> **Evidence** · 64 claims (42 for, 19 mixed, 3 against) · 38 studies (19 causal, 8 review, 6 quant-synthesis, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 8 of 38 report an effect size · 63 claims rest on one study
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
@@ -86,6 +86,8 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [Gamified educational robots increase creativity in a STEM curriculum](../claims/gamified-robots-increase-stem-creativity.md) [+W] — attached 2026-11-03 from Chen et al. (2023), which proposed "Gamified educational robot with humanoid appearance, voice recognition, and game challenges".
 - [Graduate students in a gamified online statistics course scored significantly higher on exams than students in a non-gamified control group](../claims/lms-gamification-higher-exam-scores.md) [+M] — attached 2026-11-03 from Chen et al. (2018), which proposed "Concept Review Bingo: a wiki-based LMS review game with points, levels, and bonus rewards"; tests this page's relationship.
 - [Puzzle participants outperform intra-group controls on midterm exam accuracy in two of three intervention groups](../claims/puzzle-participants-outperform-intragroup-midterm.md) [+W]
+- [Medical students who played weekly open-access pharmacology games showed significant pretest-to-posttest score improvement, while control students did not](../claims/pharmacology-games-significant-posttest-gain.md) [+W] — attached 2026-11-05 from Aloum L et al. (2025), which proposed "Three open-access web-based pharmacology games: Cross DRUGs, Find the DRUG, and DRUGs Escape Room".
+- [Most surveyed medical students perceived the pharmacology games as enjoyable and effective for understanding concepts](../claims/students-perceive-games-enjoyable-effective.md) [+W] — attached 2026-11-05 from Aloum L et al. (2025), which proposed "Three open-access web-based pharmacology games: Cross DRUGs, Find the DRUG, and DRUGs Escape Room".
 
 ## Examples
 

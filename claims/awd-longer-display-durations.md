@@ -51,3 +51,4 @@ Calibration procedure footnote reporting a t-test on display durations titrated 
 - [AwD showed significant set size effects in uncued conditions alongside difficulty effects, unlike controls](awd-uncued-setsize-difficulty-effects.md) — related
 - [Pre-cues and post-cues eliminate set size effects for controls but not for adults with dyslexia](cues-eliminate-set-size-controls-not-awd.md) — related
 - [Crowding effects, pre-cue dependence and set size effects each correlate significantly with reading and spelling measures](attention-measures-correlate-literacy.md) — related
+- [Flash reading display duration influences item difficulty, and the subtest shows a ceiling effect except for students with moderate intellectual disabilities](flash-reading-duration-ceiling-moderate-id.md) — related

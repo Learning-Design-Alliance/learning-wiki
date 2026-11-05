@@ -38,7 +38,8 @@ The article recommends that future eye-tracking research on teacher priorities s
 - teacher decision-making research
 
 ## Related Strategies
-- 
+
+- [Future research should measure both explicit stereotypes and implicit bias toward students with learning problems](measure-explicit-and-implicit-teacher-bias.md)
 
 ## Examples
 -

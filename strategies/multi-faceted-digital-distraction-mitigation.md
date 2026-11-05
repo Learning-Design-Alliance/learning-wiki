@@ -50,6 +50,7 @@ The review recommends combining strategies from its three prevention categories:
 ## Related Strategies
 
 - [Reducing Distractions](reducing-distractions.md)
+- [Timely detection of technology addiction plus therapeutic and educational strategies to mitigate excessive device use](timely-detection-therapeutic-strategies-excessive-device-use.md)
 
 ## Examples
 -

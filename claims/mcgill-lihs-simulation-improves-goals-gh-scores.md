@@ -52,3 +52,4 @@ Randomised controlled trial in which 14 surgical residents were assigned to a si
 - [A virtual reality open inguinal hernia model improved medical students' knowledge of the procedure but did not assess technical skill](vr-open-hernia-model-improves-student-knowledge.md) — related
 - [Simulation-based training translates laparoscopic surgical skills to the operating room](simulation-training-translates-laparoscopic-skills-to-or.md) — a broader claim this one bears on
 - [All students in the experimental group succeeded in building the 3D inguinal canal model under teacher supervision in less than 15 minutes](inguinal-model-built-under-15-minutes.md) — related
+- [Augmented reality and 3D-printing simulation models improve surgical skill metrics and are cost-effective for resident training](ar-3d-printing-simulation-urology-resident-training.md) — a narrower finding that bears on this claim

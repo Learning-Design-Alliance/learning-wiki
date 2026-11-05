@@ -64,3 +64,4 @@ The review attributes this to a pilot randomized study by Gutierrez et al. (2023
 - [The article reports open questions on cognitive load, disorientation, and automated learning-object recommendation in SWBL](swbl-future-research-cognitive-load-disorientation.md) — related
 - [CBME-aligned e-modules added to lectures improved first-year medical students' performance at all four assessed Bloom cognitive levels compared with lectures alone](e-modules-improve-all-cognitive-levels-medical-students.md) — related
 - [VR training imposed cognitive load on medical students through divided attention, physical effects, and a need for clearer guidance and familiarization](vr-training-cognitive-load-divided-attention.md) — related
+- [Students who participated in at least three simulation modules improved OSCE scores 15–20% above baseline at Fujian Medical University](simulation-modules-osce-score-improvement.md) — related

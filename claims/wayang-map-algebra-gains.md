@@ -9,7 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-10-27
+source_checked: 2026-11-05
 sources:
   - id: arroyo-2014
     resource: "https://doi.org/10.1007/s40593-014-0023-y"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i1`–`i2`
-> **Currency** · newest study 2014 · checked against its sources 2026-10-27 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Seventh and eighth graders using Wayang showed significantly larger beginning-to-end-of-year gains than controls on the patterns and algebra section of the MAP test (p<0.01, Cohen's d = 0.38). [→ Arroyo 2014](#arroyo-2014)

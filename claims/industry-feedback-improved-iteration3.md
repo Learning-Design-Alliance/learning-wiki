@@ -9,7 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2024
-source_checked: 2026-10-28
+source_checked: 2026-11-05
 sources:
   - id: van-den-berg-2024
     resource: "https://doi.org/10.1007/s11423-023-10308-y"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2024 · checked against its sources 2026-10-28 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In iteration 3, when teams partnered with start-up-phase entrepreneurs, industry partners' percentage ratings of student conduct were the highest of the three iterations on 7 of 10 items (lower on consulting about the business model, knowledge of customers and explaining customer-analysis techniques), while innovation-usefulness ratings were highest on only 3 of 10 items; the authors say it is difficult to tell whether outcomes came from the interventions or external factors. [→ van den Berg 2024](#van-den-berg-2024)

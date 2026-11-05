@@ -49,6 +49,7 @@ Drawing on studies cited in its discussion, the review highlights that EBP educa
 - [Strengthen nurses' EBP competence and clinical decision-making through targeted education, access to organizational resources, and supportive policies](targeted-ebp-education-resources-policies-strategy.md)
 - [Support EBP education with mentorship, protected time, and continuity of initiatives rather than isolated courses](ebp-institutional-support-strategy.md)
 - [Structured mentorship system in which trained nurse mentors deliver EBP education, bedside teaching and ongoing monitoring](nurse-mentor-ebp-monitoring-strategy.md)
+- [Deliver targeted educational interventions combining e-learning, mentorship and simulation-based training, prioritising nurses with knowledge deficits](targeted-en-educational-interventions.md)
 
 ## Examples
 -

@@ -57,3 +57,4 @@ Benchmark evaluation of four LLMs on 189 CNMLE clinical cases (473 questions), e
 - [Scaling Qwen2.5 from 3B to 32B parameters improved both metrics and reduced the consistency gap by approximately 50%](model-scaling-reduces-consistency-gap.md) — related
 - [Observed case pass rates closely align with expected case pass rates computed under question independence](observed-cpr-matches-expected-independence-benchmark.md) — related
 - [The authors argue complex integrative medical questions are particularly useful for evaluating and comparing the reasoning abilities of different LLMs](complex-questions-evaluate-llm-reasoning.md) — related
+- [GPT-4-turbo and DeepSeek-R1 both exceed the 60% passing criterion on the 2024 Taiwan Audiologist Qualification Examination](genai-passes-2024-taqe.md) — related

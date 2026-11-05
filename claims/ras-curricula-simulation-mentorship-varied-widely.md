@@ -51,3 +51,4 @@ The review's synthesis of curricula elements reports that "The nature and volume
 - [A standardised RAS curriculum is feasible and beneficial, and surgical societies have outlined RAS curricula which could be implemented locally.](standardised-ras-curriculum-feasible-beneficial.md) — related
 - [Surgical societies outlined RAS curricula featuring proficiency-based progression, modular intraoperative training, and objective assessment.](surgical-societies-ras-curricula-proficiency-modular-objective.md) — related
 - [Simulation-based training should be incorporated into surgical curricula targeting novice learners](simulation-training-should-be-incorporated-into-curricula.md) — related
+- [Institutional RT training structures are inconsistent, with simulation facilities present in only 61.17% of departments and high-risk low-volume competencies incorporated in 54.37%](inconsistent-institutional-rt-training-structures.md) — related

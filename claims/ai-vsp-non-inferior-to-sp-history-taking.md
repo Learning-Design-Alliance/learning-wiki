@@ -59,3 +59,5 @@ Randomized controlled trial of 67 third-year medical students in Vietnam, random
 - [VSP-based training produced significantly higher post-intervention clinical interview scores than traditional practice in a small randomized controlled trial](vsp-training-improves-interview-skills-rct.md) — reports the opposite
 - [SP-based simulation produced significantly higher confidence in history-taking, physical examination, and interacting and communicating with patients than HFS and VR, which did not differ from each other](sp-higher-confidence-than-hfs-and-vr-three-skills-ajou.md) — related
 - [SP training produced no significant differences in history-taking, differential diagnosis, laboratory tests, or diagnosis scores](sp-training-no-gain-history-diagnosis-scores.md) — related
+- [VSP training produced significantly greater improvement in medical history-taking ability than traditional teaching](cl-vsp-greater-history-taking-gains.md) — related
+- [Most VSP-trained students reported the training benefited history collection, condition analysis, diagnosis, treatment, and clinical thinking abilities](cl-vsp-student-satisfaction-clinical-thinking.md) — related

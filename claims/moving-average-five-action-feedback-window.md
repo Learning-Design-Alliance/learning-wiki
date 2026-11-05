@@ -9,7 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2017
-source_checked: 2026-10-27
+source_checked: 2026-11-05
 sources:
   - id: gilbert-2017
     resource: "https://doi.org/10.1007/s40593-017-0151-2"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2017 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Pilot testing with eye-tracking and post-task interviews showed per-action feedback exceeded what participants could process, so feedback was given only after at least five actions using a moving-average performance state. [→ Gilbert 2017](#gilbert-2017)

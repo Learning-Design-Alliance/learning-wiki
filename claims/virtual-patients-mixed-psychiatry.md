@@ -114,3 +114,5 @@ Uncontrolled before-after study (RT-SIM) with 32 psychiatry residents completing
 - [Diagnostic accuracy did not differ between the VR and standardized patient units despite lower subjective ratings for VR](diagnostic-accuracy-similar-vr-and-sp-units.md) — related
 - [VR-trained students outperformed control students in all three assessed competency modules in both assessment modes](vr-cataract-three-module-subscore-advantage.md) — related
 - [In one uncontrolled pre-post study, dental students' use of complex medical jargon fell from before to after the virtual dental clinic module, while straightforward language with patients rose](vdc-communication-jargon-reduction.md) — related
+- [Adding a virtual patient simulation to standard nursing training produces significantly greater improvement in confidence in asking about IPV than standard training alone](vp-simulation-greater-confidence-asking-about-ipv.md) — related
+- [By 2024 more than one-third of simulation sessions used VR and AI tools, and students reported engagement and scenario recall gains of over 30% compared with non-electronic learning](vr-ai-simulation-engagement-recall.md) — related

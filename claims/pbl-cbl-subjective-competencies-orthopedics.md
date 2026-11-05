@@ -124,3 +124,5 @@ Meta-analysis of 2 studies (162 students) on the critical thinking disposition i
 - [PBL interns report higher self-efficacy, instructional satisfaction, and perceived critical-thinking improvement than lecture-taught interns](pbl-self-evaluated-learning-gains-esophageal.md) — related
 - [Attending offline CBL classes is associated with significantly higher self-confidence, particularly in collaboration, communication, and critical thinking](offline-cbl-attendance-higher-self-confidence.md) — related
 - [Students in the WeChat-based PBL group reported more favorable perceptions of motivation, knowledge acquisition, communication, self-learning, clinical thinking, and problem-solving than traditional-teaching students](wechat-pbl-student-perceptions-favorable.md) — related
+- [Sim + LBL students reported greater satisfaction, perceived learning outcomes, and core-competency gains than LBL students](sim-lbl-greater-satisfaction-engagement-competency.md) — related
+- [Urology interest groups and mandatory skills sessions significantly increase medical student interest and procedural confidence](urology-interest-groups-skills-sessions-student-interest.md) — related

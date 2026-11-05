@@ -51,3 +51,4 @@ Post hoc internal consistency computation on nine attitudinal preference items f
 - [Remote Anatomage Teaching via a smart digital podium is technically feasible for large-group anatomy lectures without interruption](rat-technically-feasible-large-group-lectures.md) — related
 - [The seven-item AR usability questionnaire showed high internal consistency (α = 0.97) that may reflect item redundancy](ar-usability-questionnaire-high-alpha-redundancy.md) — related
 - [The satisfaction survey showed good reliability and internal consistency](tbl-satisfaction-survey-reliability.md) — related
+- [IAFEE-ECS® demonstrated high internal consistency with Cronbach's alpha of 0.993](iafee-ecs-cronbach-alpha-reliability.md) — related

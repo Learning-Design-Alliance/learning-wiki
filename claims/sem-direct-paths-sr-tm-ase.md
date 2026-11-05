@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: çobanoğlu-necati-2026
     resource: "https://doi.org/10.1186/s40359-026-04368-x"
@@ -40,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r2` · `q3` · `i3` large
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Self-regulation is significantly and strongly associated with time management (β = 0.72, p < 0.001). [→ Çobanoğlu Necati 2026](#cobanoglu-necati-2026)

@@ -55,3 +55,4 @@ Survey of the 13 experimental-group students rating eleven mini-lessons (Tables 
 - [Hyper-reference dictionary users consulted vocabulary twice as often as paper-dictionary users, though comprehension did not differ significantly](hyper-reference-consultation-frequency-no-comprehension-gain.md) — related
 - [Repeated use of picture story books in a short time reduced student enthusiasm by the fifth meeting](picture-story-book-frequency-boredom-effect.md) — related
 - [Both SMS and dictionary groups gained higher mean scores on the delayed post-test than on the immediate post-test](both-groups-higher-delayed-posttest-means.md) — related
+- [Participants engaged with embedded resource links in 67% of the SMS microlearning messages](sms-microlearning-link-engagement-67-percent.md) — related

@@ -164,3 +164,4 @@ The review reports countervailing findings in the same category, including that 
 - [Culturally adapted virtual patients achieve acceptable content validity for assessing history-taking and communication skills](vp-acceptable-content-validity.md) — related
 - [Student performance with virtual patients correlates only weakly and non-significantly with performance with human standardized patients](vp-concurrent-validity-weak-correlation.md) — related
 - [In one uncontrolled pre-post study, dental students' use of complex medical jargon fell from before to after the virtual dental clinic module, while straightforward language with patients rose](vdc-communication-jargon-reduction.md) — a narrower finding that bears on this claim
+- [Objective IPV knowledge scores are consistently higher in the VP group, driven by a significant main group effect rather than a differential improvement rate](vp-group-consistently-higher-objective-knowledge.md) — related

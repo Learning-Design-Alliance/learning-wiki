@@ -75,3 +75,4 @@ The report states "Student outcomes were consistently positive, even with variat
 - [MAST is feasible for delivery by teachers, with four of five schools delivering all key components consistently](mast-feasible-teacher-delivery-fidelity.md) — related
 - [Minimally trained, non-education-major college tutors implemented the structured program with high fidelity (average 96.3%)](minimally-trained-tutors-high-fidelity.md) — related
 - [ATC was implemented with fidelity in four of five program components in both implementation years, with little cross-site variation](atc-fidelity-four-of-five-components.md) — related
+- [The course was delivered with high fidelity: 81% of participants reported minimal problems, and objective assessment outcomes were consistent across all six sessions with a median score of 40/40.](us-pivc-course-implementation-fidelity.md) — related

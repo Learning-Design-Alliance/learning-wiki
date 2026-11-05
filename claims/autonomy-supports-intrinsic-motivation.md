@@ -232,3 +232,5 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [Educator pressure from above and below predicts more controlling teaching behaviours](educator-pressure-predicts-controlling-teaching.md) — a narrower finding that bears on this claim
 - [Freedom to choose cases supported residents' sense of autonomy and motivation, while mandatory learning objectives decreased motivation for some](autonomy-case-choice-vr-motivation.md) — a narrower finding that bears on this claim
 - [Overemphasizing learner satisfaction can undermine educational quality, as educators become disincentivized from delivering critical feedback](overemphasizing-learner-satisfaction-undermines-quality.md) — related
+- [Structured preoperative frameworks (PREDICT, GAPS) and independent rotations increase graduated autonomy without harming patient outcomes](predict-gaps-graduated-autonomy-frameworks.md) — related
+- [The article attributes Sim + LBL's effectiveness to cognitive and motivational processes consistent with Self-Determination Theory](sdt-explanation-sim-lbl-effectiveness.md) — a narrower finding that bears on this claim

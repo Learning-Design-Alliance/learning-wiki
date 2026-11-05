@@ -54,3 +54,4 @@ Latent structural equation model among 1103 Chinese college EFL learners surveye
 - [TSRQ is positively associated with control and value appraisals in EFL learning](tsrq-positively-associated-with-control-value-appraisals.md) — related
 - [Control and value appraisals partially mediate the TSRQ–enjoyment and TSRQ–boredom associations](tsrq-enjoyment-boredom-partially-mediated-by-appraisals.md) — related
 - [Specific emotion patterns: relationship quality predicts later enjoyment, pride, anger, and shame but not anxiety or boredom; earlier enjoyment, anger, boredom, shame, and anxiety predict later relationship quality](discrete-emotion-specific-cross-lagged-patterns.md) — reports the opposite
+- [EFL PsyCap is negatively associated with academic boredom and positively with behavioural engagement, and boredom negatively predicts engagement and achievement](psycap-boredom-engagement-paths.md) — related

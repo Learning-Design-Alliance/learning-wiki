@@ -52,3 +52,4 @@ Systematic review of eight studies published April–October 2023, searched in M
 - [Ontology-based generation produced exam-appropriate case-based MCQs, with 30% of a stratified sample rated appropriate by both expert raters and 50% by at least one](emcqg-expert-rated-exam-appropriate-questions.md) — related
 - [ChatGPT generated usable MCQs roughly five times faster than educator panels but with a 44% rejection rate](chatgpt-mcq-generation-speed-rejection-tradeoff.md) — related
 - [All eight AI models scored above 75% overall and above 70% in each rating category for ethics MCQ generation](all-eight-models-above-75-percent-ethics-mcqs.md) — related
+- [AI-generated exam questions and AI-based surgical training tools show promise for urology education but require expert oversight and validation](ai-tools-urology-education-exam-questions-feedback.md) — a narrower finding that bears on this claim

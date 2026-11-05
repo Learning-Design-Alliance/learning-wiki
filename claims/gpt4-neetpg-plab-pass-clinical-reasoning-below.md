@@ -54,3 +54,6 @@ Narrative synthesis of five NEET-PG and three PLAB benchmark studies. The review
 - [ChatGPT-4 achieved an overall accuracy of 81% on the Polish PES orthopedics exam, exceeding the 75% passing threshold on average](chatgpt-4-81-percent-accuracy-pes-orthopedics.md) — related
 - [Current-generation LLMs achieve 86% to 94% mean success rates on European anesthesiology examination questions, exceeding the EDAIC part I passing threshold](llm-success-rates-86-94-percent-anesthesiology-exams.md) — related
 - [GPT-5.2's 95% CI straddled the 74% pass mark, making its pass status dependent on sitting-specific calibration](gpt-5-2-ci-straddles-pass-mark.md) — a narrower finding that bears on this claim
+- [Both ChatGPT models exceed the UKMLA pass threshold (57.5%) on UKMLA-style items](chatgpt-models-exceed-ukmla-pass-threshold.md) — related
+- [Five LLMs outperformed enrolled medical students on department-set Spanish final MCQ exams with negative marking across four clinical courses](llms-outperform-students-spanish-mcq-finals-negative-marking.md) — related
+- [All tested LLMs exceeded the NMLE passing threshold yet stayed below 80% accuracy across all units and years](llms-pass-nmle-but-ceiling-below-80-percent.md) — related

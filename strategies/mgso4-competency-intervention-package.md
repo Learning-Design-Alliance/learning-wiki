@@ -60,6 +60,7 @@ The study's conclusion recommends four interventions: "1. Structured refresher t
 - [Stepwise integration of EPAs into prehospital emergency medicine training incorporating pediatric-specific EPAs, simulation-based refresher courses, and EPA-based assessment tools](stepwise-epa-integration-prehospital-training.md)
 - [Integrate frequent in situ self-regulated simulation training with in-facility champions into routine health systems as continuous quality improvement](in-situ-self-regulated-simulation-cqi-strategy.md)
 - [Provide regular continuing education programmes for health cadres, especially younger cadres, to maintain competency](regular-continuing-education-for-cadres.md)
+- [Deliver targeted educational interventions combining e-learning, mentorship and simulation-based training, prioritising nurses with knowledge deficits](targeted-en-educational-interventions.md)
 
 ## Examples
 -

@@ -57,3 +57,4 @@ Multivariate linear regression on the matched sample (n=80) adjusting for baseli
 - [AI-VSP training yields higher post-intervention SEGUE total and Content scores than traditional SP training](ai-vsp-higher-total-content-segue-scores.md) — reports the opposite
 - [Clinical interview skills improved significantly from baseline to post-intervention only in the VSP group, not in the control group](vsp-group-within-group-interview-skill-gain.md) — related
 - [The BOPPPS advantage in knowledge and skills remained statistically significant after ANCOVA adjustment for baseline scores](ancova-adjusted-boppps-effects.md) — related
+- [VSP training produced significantly greater improvement in theoretical knowledge scores than traditional case-based teaching](cl-vsp-greater-theoretical-knowledge-gains.md) — related

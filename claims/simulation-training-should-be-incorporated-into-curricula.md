@@ -53,3 +53,6 @@ Review conclusion recommending that "simulation-based training should be incorpo
 - [A standardised RAS curriculum is feasible and beneficial, and surgical societies have outlined RAS curricula which could be implemented locally.](standardised-ras-curriculum-feasible-beneficial.md) — related
 - [The nature and volume of simulation training and mentorship varied widely across the 29 comprehensive RAS curricula.](ras-curricula-simulation-mentorship-varied-widely.md) — related
 - [No evidence currently supports transfer of simulator-based VRS training to the operating room](no-evidence-vrs-simulator-transfer-operating-room.md) — reports the opposite
+- [Augmented reality and 3D-printing simulation models improve surgical skill metrics and are cost-effective for resident training](ar-3d-printing-simulation-urology-resident-training.md) — a narrower finding that bears on this claim
+- [Progression-focused simulation curricula (FRS, SIMULATE) yield superior outcomes compared to traditional training methods](frs-simulate-progression-curricula-superior-outcomes.md) — a narrower finding that bears on this claim
+- [Institutional RT training structures are inconsistent, with simulation facilities present in only 61.17% of departments and high-risk low-volume competencies incorporated in 54.37%](inconsistent-institutional-rt-training-structures.md) — related

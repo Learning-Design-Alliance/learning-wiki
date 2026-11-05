@@ -61,3 +61,9 @@ Random‐effects proportional meta‐analysis comparing newer LLM models from co
 - [ChatGPT-5.1, DeepSeek-R1, and Gemini 2.5 Flash show high, statistically comparable accuracy on Turkish Pharmacy Specialty Examination questions](llms-high-comparable-accuracy-eus.md) — related
 - [ChatGPT-4o achieved 71% accuracy on the Chinese question bank, comparable to dental undergraduates and OMS graduate students but lower than OMS specialists](chatgpt-4o-71-percent-chinese-question-bank-accuracy.md) — related
 - [ChatGPT-4o significantly outperforms Gemini Advanced on clinical dental sciences questions overall](chatgpt4o-outperforms-gemini-clinical-dental-sciences-dus.md) — related
+- [ChatGPT achieved a significantly higher total accuracy than DeepSeek on orthopedic MCQs (80.4% vs 74.2%, P=.04)](chatgpt-outperforms-deepseek-orthopedic-mcq-accuracy.md) — related
+- [GPT-4-turbo and DeepSeek-R1 both exceed the 60% passing criterion on the 2024 Taiwan Audiologist Qualification Examination](genai-passes-2024-taqe.md) — related
+- [GPT-4.1 achieved the highest accuracy among GPT-4.1, GPT-4o and GPT-4 on Taiwan plastic surgery board questions, but no model reached accuracy sufficient for independent clinical education use](gpt41-highest-accuracy-but-below-clinical-education-threshold.md) — related
+- [Pairwise McNemar comparisons showed OpenAI o1 significantly better than GPT-4o, Gemini, and Copilot in Respiratory Medicine, with mixed significance across other courses](mcnemar-pairwise-openai-o1-vs-other-llms-mixed.md) — related
+- [OpenAI o1 achieved the highest aggregated mean score among the five LLMs, followed by Copilot, DeepSeek, Gemini, and GPT-4o](openai-o1-highest-aggregated-mean-five-llms.md) — related
+- [ChatGPT's Reason function and DeepSeek's DeepThink function did not differ significantly in MCQ accuracy (84.7% vs 80.4%, P=.12)](reason-vs-deepthink-mcq-accuracy-not-significant.md) — related

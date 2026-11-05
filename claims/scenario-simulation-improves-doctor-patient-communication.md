@@ -62,3 +62,4 @@ The review attributes this to Lin-na et al. (2023), a quasi-experimental study o
 - [Scenario-based simulation ward rounds combined with video feedback increase teaching satisfaction among gastroenterology residents](simulation-ward-rounds-video-feedback-increase-teaching-satisfaction.md) — related
 - [Facilitated interactive video and simulation-based training produce no statistically significant difference in 3-week BLS OSCE performance when both follow the same standardized lecture](bls-video-vs-simulation-osce-no-difference.md) — related
 - [A hybrid CBL-SST-simulator model produces significantly higher doctor-patient communication scores than lecture-based learning on the SEGUE Framework](hybrid-cbl-sst-higher-segue-communication-than-lbl.md) — related
+- [Progression-focused simulation curricula (FRS, SIMULATE) yield superior outcomes compared to traditional training methods](frs-simulate-progression-curricula-superior-outcomes.md) — related

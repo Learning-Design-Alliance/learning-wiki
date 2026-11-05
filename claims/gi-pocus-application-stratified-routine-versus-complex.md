@@ -72,3 +72,4 @@ Descriptive image-interpretation results reported for Figure 3 in the same surve
 - [Nurses perceiving higher diagnostic sensitivity of GI-POCUS are significantly more likely to report good than poor proficiency](perceived-diagnostic-sensitivity-predicts-gi-pocus-proficiency.md) — related
 - [Training participation predicts progression from poor to general GI-POCUS proficiency but not from general to good](training-predicts-early-but-not-advanced-gi-pocus-proficiency.md) — related
 - [Low-frequency GI-POCUS users have substantially lower odds of good proficiency than high-frequency users](usage-frequency-predicts-gi-pocus-proficiency.md) — related
+- [Knowledge and practice gaps concentrate in tube flushing, enteral nutrition with lower gastrointestinal bleeding, intra-abdominal pressure measurement and caloric/protein assessment](en-specific-knowledge-practice-gaps.md) — related

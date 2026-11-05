@@ -51,3 +51,4 @@ Qualitative analysis across the three events; Table 3 lists challenges by determ
 - [Participating in game jams develops 4C skills (critical thinking, creativity, communication, collaboration) in adolescent students, though skill gains are difficult to verify](game-jams-develop-4c-skills.md)
 - [Pre-event skill surveys enable balanced, skill-diverse team formation, but participants reported that more detailed skill screening would have benefited teams](pre-event-skill-survey-team-formation.md) — related
 - [Game jam activity unfolds in five phases (brainstorming, conceptualization, prototype creation, testing, pitch), each linked to different 4C skills](game-jam-five-phases-4c-links.md) — related
+- [The games' knowledge gains are attributed to the single game element of rules and goals, with competition intentionally omitted over anxiety concerns](rules-and-goals-element-attributed-gains-competition-omitted.md) — related

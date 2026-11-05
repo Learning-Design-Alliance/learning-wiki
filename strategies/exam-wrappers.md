@@ -81,6 +81,7 @@ Exam wrappers operationalize [Assessment for Learning](../principles/assessment-
 - [Retrieval Practice](retrieval-practice-activities.md) — the high-utility study strategy wrappers most often steer students toward
 - [Error Analysis](../principles/error-analysis.md) — the diagnostic activity at the core of the post-exam wrapper
 - [Align assessment with long-term learning by spreading low-stakes evaluation moments over time](programmatic-assessment-reduce-cramming.md)
+- [Coach students to flag rather than answer difficult items, return after completing the exam, and review all questions — not just missed ones — in one-on-one reviews](flag-and-return-answer-review-all-items.md)
 
 ## Examples
 - **Carnegie Mellon Eberly Center** — the canonical exam wrapper templates (post-exam question sets for problem-solving and essay courses): [https://www.cmu.edu/teaching/designteach/teach/examwrappers.html](https://www.cmu.edu/teaching/designteach/teach/examwrappers.html)

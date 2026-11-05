@@ -48,3 +48,4 @@ Two-sample summary-level Mendelian randomization in independent adult GWAS sampl
 - [Genetic instrumental-variable analysis supports a causal negative effect of higher BMI in childhood and adolescence on GCSE attainment and school absence (ALSPAC cohort)](bmi-causal-effect-educational-attainment-mr.md) — related
 - [School absence mediates health–attainment associations, least for ADHD (7.1%) and most for migraine (72.0%) and BMI (39.9%) (ALSPAC cohort)](school-absence-mediation-health-attainment.md) — related
 - [In multivariate-adjusted phenotypic models, all measured child/adolescent health conditions except migraine and asthma are associated with poorer GCSE attainment at 16 (ALSPAC cohort)](phenotypic-health-gcse-associations-alspac.md) — related
+- [BMI is negatively correlated with physical activity level among health sciences students](bmi-negatively-correlated-physical-activity-students.md) — related

@@ -52,3 +52,4 @@ Correlational analysis (Pearson or Spearman as appropriate) among the 101 partic
 - [3D virtual-reality lecture was statistically non-inferior to 2D lecture on knowledge and rated better on spatial understanding and enjoyment (Kockro et al.)](kockro-3d-lecture-noninferior-rated-better.md) — related
 - [In one group measured before and after, learning satisfaction and self-evaluation ratings were significantly higher after VR-based training than after conventional training](vr-training-higher-satisfaction-self-evaluation.md) — related
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — related
+- [Perceived quality of the VR experience correlates positively with motivation (Attention, Relevance, Confidence, Satisfaction) and sense of virtual presence (p < 0.05)](vr-experience-quality-positive-motivation-correlations.md) — related

@@ -54,6 +54,8 @@ The article's implications recommend that institutions "avoid positioning AI as 
 - [Use AI-based assessment periodically for formative feedback while avoiding AI in summative assessment](ai-formative-not-summative-assessment-strategy.md)
 - [Use the predictive model as a screening aid complementing existing academic monitoring, not as a deterministic evaluation tool](predictive-model-as-screening-aid-not-deterministic-tool.md)
 - [Phased adoption pathway: practice pilots, mock OSCEs with A/B comparisons, then limited high-stakes use](phased-ai-osce-adoption-pathway.md)
+- [Design human-LLM collaborative systems in which LLMs assist diagnostic reasoning while human experts oversee complex decisions](human-llm-collaborative-diagnostic-reasoning-strategy.md)
+- [Use LLMs as faculty-supervised adjuncts for automated MCQ pretesting and formative feedback](llm-faculty-supervised-mcq-pretesting-feedback.md)
 
 ## Examples
 -

@@ -69,6 +69,8 @@ The review's design recommendation is that educators should not seek to replace 
 - [Adopt BOPPPS integrated with Rain Classroom as a blended approach for clinical clerkship teaching](adopt-boppps-rain-classroom-clerkship-strategy.md)
 - [Develop a wider variety of CCS covering diverse oral diseases and transition to mobile platforms to broaden access](expand-ccs-disease-variety-mobile-platforms.md)
 - [Use digitized 3D anatomical models and VR/AR as supplements or alternatives to cadaver-based anatomy teaching](vr-ar-digitized-anatomical-models-supplement-alternative-cadavers.md)
+- [Adopt Sim + LBL as a cost-effective, scalable approach for visually intensive, practice-oriented disciplines](adopt-sim-lbl-cost-effective-scalable.md)
+- [Integrate open-source AI-supported, self-paced tracing tools with immediate feedback into undergraduate orthodontic curricula](ai-supported-self-paced-cephalometric-training-strategy.md)
 
 ## Examples
 -

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 sources:
   - id: bichler-2022
     resource: "https://doi.org/10.1007/s11251-022-09579-4"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
-> **Currency** · newest study 2022 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The effect of worked examples versus problem-solving on self-explanation quality was not statistically significant in any of the four moderated mediation models. [→ Bichler 2022](#bichler-2022)

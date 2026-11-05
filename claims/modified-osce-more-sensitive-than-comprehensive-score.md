@@ -55,3 +55,4 @@ Authors' interpretive discussion of assessment sensitivity in the same quasi-exp
 - [When station number varies widely, duration time per station is not a major factor affecting OSCE internal consistency](osce-duration-not-major-factor-when-station-number-varies.md) — related
 - [Modified Peyton’s four-step approach yields higher immediate post-training OSCE scores than traditional Peyton in resident clinical skills training](modified-peyton-higher-immediate-osce.md) — related
 - [Integrated clinical pathway and case-based teaching yields higher post-training theoretical examination scores than traditional teaching in endocrinology residency](clinical-pathway-cbt-higher-theoretical-scores.md) — related
+- [A virtual 4-week urology course for sub-interns significantly increased confidence and knowledge at seven-month follow-up](virtual-urology-course-sub-interns-outcomes.md) — related

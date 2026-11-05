@@ -50,6 +50,7 @@ The article prescribes four application steps: transforming abstract aspirations
 - [Achievable Micro-goals](achievable_micro-goals.md)
 - [Classroom Checklists](classroom_checklists.md)
 - [Model Assignment or Skill](model_assignment_or_skill.md)
+- [Deconstruct procedures into basic skills, build dedicated exercises for each subskill, evaluate learners against them, and select activities to match the evaluation.](deconstruct-procedures-into-basic-skills.md)
 
 ## Examples
 -

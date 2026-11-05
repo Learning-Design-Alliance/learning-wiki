@@ -49,6 +49,7 @@ The article recommends that OT educators integrate AI tools to reinforce foundat
 - [Supplement practice-based training with synchronous and blended e-learning while retaining in-person clinical experiences](blended-synchronous-elearning-supplement-clinical-training.md)
 - [Use AI language models as adjunctive tools in medical education, especially for test preparation or knowledge reinforcement](ai-adjunctive-tool-medical-education-test-prep.md)
 - [Treat AI as a guided support tool and explicitly build verification and skepticism into learning goals](ai-as-guided-support-tool-build-verification.md)
+- [Use ChatGPT as a supplemental AI tutor for UKMLA revision, including AI-supported mastery quizzing, while retaining traditional study methods](chatgpt-supplemental-tutor-ukmla-revision.md)
 
 ## Examples
 -

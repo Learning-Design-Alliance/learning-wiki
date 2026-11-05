@@ -54,6 +54,7 @@ The article recommends embedding simulation-based life support training in conti
 - [Integrate validated virtual simulation scenarios into nursing curricula and continuing education for Standard Precautions training](integrate-validated-virtual-scenarios-nursing-curricula-strategy.md)
 - [Incorporate clinical simulation with structured debriefing into nursing education planning for biosafety and emotional management](simulation-debriefing-biosafety-planning-strategy.md)
 - [Integrate frequent in situ self-regulated simulation training with in-facility champions into routine health systems as continuous quality improvement](in-situ-self-regulated-simulation-cqi-strategy.md)
+- [Incorporate structured non-technical skills training and structured debriefing sessions within simulation-based education](structured-nts-training-debriefing-recommendation.md)
 
 ## Examples
 -

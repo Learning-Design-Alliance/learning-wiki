@@ -9,7 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: weak
 newest_evidence: 2018
-source_checked: 2026-10-21
+source_checked: 2026-11-05
 sources:
   - id: kirschner-2018
     resource: "https://doi.org/10.1007/s11412-018-9277-y"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2018 · checked against its sources 2026-10-21 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` The beneficial effect of sharing cognitive load within a group can be cancelled by communication and coordination costs caused by transactive activities. [→ Kirschner 2018](#kirschner-2018)

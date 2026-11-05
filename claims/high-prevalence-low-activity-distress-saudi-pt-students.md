@@ -52,3 +52,4 @@ Descriptive analysis of the cross-sectional survey (N = 600) shows "Most student
 - [Internet addiction shows strong comorbidity with depression, anxiety, and stress among health sciences students](ia-mental-health-comorbidity-strong.md) — related
 - [Psychological distress, particularly depression, consistently predicted poorer academic outcomes among university students across the reviewed literature](distress-predicts-poorer-academic-outcomes-university-students.md) — related
 - [Physical activity category is not statistically significantly associated with GPA category among Saudi physical therapy students](pars3-category-not-associated-gpa-saudi-pt-students.md) — related
+- [Nearly half of health sciences students fall in the low physical activity category, and 19% do not meet WHO-recommended levels](low-physical-activity-prevalence-health-sciences-students.md) — related

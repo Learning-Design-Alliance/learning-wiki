@@ -52,3 +52,4 @@ Administrative data comparison of attendance and late arrivals between the contr
 - [Freshmen who miss more than two weeks of school per semester fail at least two classes on average, regardless of incoming test scores](two-weeks-absence-course-failure.md) — related
 - [The gamified class achieved a higher average final grade (61% vs 53%), with correlation to gamification unconfirmed](gamification-higher-final-grades-python-course.md) — related
 - [Kahoot! gamification sessions recorded full student attendance, the only sessions of the day to reach 100% participation](kahoot-sessions-full-attendance.md) — related
+- [The US-PIVC course showed high demand among final-year medical students, with all 126 places booked and a 78% attendance rate.](us-pivc-course-high-demand-reach.md) — related

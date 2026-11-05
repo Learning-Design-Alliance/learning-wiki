@@ -54,3 +54,4 @@ Thematic analysis of interviews with 23 prenatal clinicians found that "clinicia
 - [Prenatal clinicians report lacking confidence and competence in applying TIC principles](tic-lack-confidence-competence-prenatal.md) — related
 - [Trainee Advanced Nurse Practitioners report that formal ANP training offered little to no structured content on personality disorder or trauma-informed care, undermining professional confidence.](anp-training-lacks-personality-disorder-content.md) — related
 - [Prenatal clinicians report increased empathy and understanding of patient behavior through TIC learning](tic-increased-empathy-prenatal-clinicians.md) — related
+- [Stakeholders identified an educational-support gap: LEDs stabilise the workforce but receive less structured teaching than HEE trainees, with lack of protected time a key barrier](led-education-support-gap-protected-time.md) — related

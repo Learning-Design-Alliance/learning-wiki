@@ -51,3 +51,4 @@ Paired-samples t-test on the same 60-nurse single-group pilot, using a locally m
 - [Participants rated the BOPPPS-PBL teaching model highly, with a mean teaching-effectiveness score of 56.43 ± 5.17 out of 60](boppps-pbl-high-teaching-effectiveness-ratings.md) — related
 - [Self-efficacy for ultrasound procedural performance increased significantly after training among Korean Medicine students (p < .001, d = 1.44)](ultrasound-training-self-efficacy-increase-km.md) — related
 - [Programmed instruction improved nursing students' general self-efficacy more than traditional teaching, though the authors caution the contribution cannot be isolated](programmed-instruction-self-efficacy-gses.md) — related
+- [VP training adds no measurable benefit over standard training for general self-efficacy in nursing students](vp-no-added-effect-general-self-efficacy.md) — related

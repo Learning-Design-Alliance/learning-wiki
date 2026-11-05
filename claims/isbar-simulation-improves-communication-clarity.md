@@ -58,3 +58,4 @@ A single-group pretest-posttest study of 57 nursing students in an obstetric sim
 - [SBAR and handover capabilities did not change significantly from pre-test to post-test in one single-group study with no comparison group](sccdp-sbar-handover-no-significant-change.md) — related
 - [Team OSCE total scores rose from a pre-intervention median of 6.25 to a post-intervention median of 17 after IP-STAR training](ipstar-team-osce-gain.md) — related
 - [MCQ scores in the control group without structured reflection fell from pre-test to post-test in a within-group pre-test–post-test measurement](no-reflection-mcq-decline.md) — related
+- [Structured US-PIVC simulation training produces statistically significant pre-to-post confidence improvements across all measured learning outcomes, with large effect sizes (r = 0.63–0.87).](us-pivc-training-large-confidence-gains.md) — related

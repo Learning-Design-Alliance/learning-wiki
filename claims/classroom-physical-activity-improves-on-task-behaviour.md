@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: watson-amanda-2017
     resource: "https://doi.org/10.1186/s12966-017-0569-9"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i2` medium
-> **Currency** · newest study 2017 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Across four studies pooled in meta-analysis, classroom-based physical activity had a positive effect on improving on-task behaviour and reducing off-task behaviour (SMD = 0.60, 95% CI 0.20–1.00). [→ Watson Amanda 2017](#watson-amanda-2017)

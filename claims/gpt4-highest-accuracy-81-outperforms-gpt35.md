@@ -70,3 +70,5 @@ Subgroup analysis by LLM type across the 36 included studies (GPT-4 n=30, GPT-3.
 - [Language of presentation (Chinese vs. English) has no significant main effect on LLM accuracy on Chinese medical licensing exam questions](no-language-effect-llm-medical-licensing.md) — related
 - [Claude 3.5 Sonnet achieved the highest overall performance (86.28%), accuracy (85.57%), and clarity (91.73%) in generating USMLE-style medical ethics MCQs](claude-35-sonnet-highest-ethics-mcq-performance.md) — related
 - [CoPilot Pro achieved the highest accuracy rate on periodontology exam questions both on Day-0 (73.6%) and after one month (75.2%)](copilot-pro-highest-accuracy-periodontology-questions.md) — related
+- [ChatGPT achieved a significantly higher total accuracy than DeepSeek on orthopedic MCQs (80.4% vs 74.2%, P=.04)](chatgpt-outperforms-deepseek-orthopedic-mcq-accuracy.md) — related
+- [Five LLMs outperformed enrolled medical students on department-set Spanish final MCQ exams with negative marking across four clinical courses](llms-outperform-students-spanish-mcq-finals-negative-marking.md) — related

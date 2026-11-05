@@ -56,6 +56,7 @@ The article recommends integrating AI simulated patients into undergraduate curr
 - [Integrate AISP platforms into medical curricula as complements to traditional teaching with expanded case variety](aisp-curricular-integration-strategy.md)
 - [Use virtual simulation games as a preliminary or complementary method to face-to-face simulation and clinical practice](vsg-as-preliminary-or-complementary-simulation.md)
 - [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
+- [Deploy screen-based simulation as an accessible training alternative when face-to-face clinical education is disrupted](screen-simulation-disrupted-education-alternative.md)
 
 ## Examples
 -

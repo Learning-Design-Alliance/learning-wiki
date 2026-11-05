@@ -68,3 +68,4 @@ The review reports the single included disability study found significantly lowe
 - [Evidence on gender gaps in surgical examination pass rates is mixed, with lower female MRCS pass rates in some UK studies but no differences in several other examinations](gender-exam-pass-rate-gaps-mixed.md) — related
 - [Applicants from deprived geographic areas have lower odds of selection into medical programs (pooled OR = 0.69)](geographic-deprivation-reduced-medical-selection.md) — related
 - [Socioeconomic deprivation is associated with lower attainment in very preterm children, with free school meal eligibility comparable in magnitude to severe brain injury](deprivation-associated-underattainment-preterm.md) — related
+- [The authors report no direct correlation between older age or greater professional experience and correct diagnosis, with accurate diagnoses evenly distributed across medical students and nurses](no-background-correlation-with-correct-diagnosis.md) — related

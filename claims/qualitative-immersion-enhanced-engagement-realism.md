@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: hung-yin-ling-2026
     resource: "https://doi.org/10.1155/jonm/8355655"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Thematic analysis of interviews with all 54 SVVR participants identified three major themes and 12 subthemes describing learning experiences. [→ Hung Yin-Ling 2026](#hung-yin-ling-2026)
@@ -76,3 +77,4 @@ Semistructured interviews with all 54 experimental-group participants, analyzed 
 - [Thematic analysis of focus groups and open-ended responses identified immersion, clinical communication practice and safe decision-making environments as key perceived benefits](vr-pilot-qualitative-benefit-themes.md) — related
 - [Participants described standardized clinical scenarios in VR as promoting objectivity and uniformity in clinical training and assessment](vr-standardized-scenarios-objectivity-uniformity.md) — related
 - [Participants rated the immersive VR hypothermia training very positively, with realism 8.87/10 and usefulness scores above 4.7/5](vr-als-training-positive-perception-ratings.md) — a narrower finding that bears on this claim
+- [Student paramedics reported that the realism of a group-based simulation assessment enhanced their engagement, decision-making and confidence](realism-enhanced-engagement-decision-confidence.md) — related

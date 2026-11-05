@@ -64,3 +64,4 @@ The review's thematic synthesis of challenges across the included studies identi
 - [Medical students experienced strong immersion in VR simulation due to realistic environments, but reduced interactivity constrained authenticity](vr-immersion-strong-but-interactivity-limited.md) — related
 - [Medical students reported system usability barriers to VR training involving headset accessibility, technical issues, and limited scenario variability](vr-training-usability-barriers-medical-students.md) — related
 - [Participants expressed concern that VR training may limit empathy development and patient-variability feedback](vr-limited-empathy-and-patient-variability-concerns.md) — related
+- [By 2024 more than one-third of simulation sessions used VR and AI tools, and students reported engagement and scenario recall gains of over 30% compared with non-electronic learning](vr-ai-simulation-engagement-recall.md) — related

@@ -51,3 +51,4 @@ Process evaluation based on observations of nine sessions (400 minutes of tuitio
 - [Frequency of coaching field support varies across California induction programs and is positively related to administrators' ratings of program effectiveness](coaching-frequency-related-to-induction-effectiveness.md) — related
 - [The process evaluation found ThinkForward feasible to deliver, with teachers reporting benefits for intervention pupils' behaviour](thinkforward-process-evaluation-feasibility.md) — related
 - [Implementation of Paired Reading varied across schools but variations appeared unlikely to have affected dosage](paired-reading-implementation-variation-dosage-unaffected.md) — related
+- [Research training appears in 76.2% of curricula but with substantial variation, ranging from introductory methods courses (11.9%) to full‐time research projects (16.7%)](research-training-76-2-percent-variable-implementation.md) — related

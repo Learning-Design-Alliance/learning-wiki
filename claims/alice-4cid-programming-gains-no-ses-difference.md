@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2019
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: costa-and-miranda-2019
     resource: "https://doi.org/10.15388/infedu.2019.01"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2019 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The programming knowledge test was given only after the intervention; with the ECDL logical-reasoning pre-test as covariate, its total score did not differ significantly between the two school groups, which differed in socioeconomic status, grade-retention history and school (F(1,11) = 0.158; p > 0.05; n = 14). [→ Costa and Miranda 2019](#costa-and-miranda-2019)

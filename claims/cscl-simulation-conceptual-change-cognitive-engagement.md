@@ -75,3 +75,4 @@ Qualitative case-study analysis of conversational interactions of 7 dyads workin
 - [A computer-based simulation game helped students apply theoretical team-role knowledge to identify team roles in practice and evaluate their own performance in a role](simulation-game-team-role-self-reflection.md) — related
 - [The authors report that CBPS enhanced prospective teachers' collaboration and motivation](cbps-collaboration-motivation-observation.md) — related
 - [Subjective assessment of student behaviour in CBL leads students to prioritise participation over collaborative learning, decoupling engagement from knowledge gained](cbl-subjective-behaviour-assessment-decouples-engagement-knowledge.md) — related
+- [Learning alongside peers in a group-based simulation assessment reduced assessment-related anxiety for most students, though some still felt overwhelmed](peer-support-reduced-assessment-anxiety-mixed.md) — related

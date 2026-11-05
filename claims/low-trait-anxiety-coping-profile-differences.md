@@ -50,3 +50,4 @@ Subgroup comparison of students with very low trait anxiety (n=24) versus high/v
 - [Women report significantly higher stress impact, anxiety and psychological support use than men during high-stakes examination preparation.](gender-differences-stress-anxiety-medical-students.md) — related
 - [One-third of students consulted a psychologist or psychiatrist and 15% used benzodiazepines during the exam year.](psychological-support-benzodiazepine-use-prevalence.md) — a broader claim this one bears on
 - [Trait anxiety is only weakly associated with final national ranking in a high-stakes medical examination.](trait-anxiety-weakly-associated-with-ranking.md) — related
+- [Trait anxiety is higher among medical than psychology students, with the gap larger in fifth year, though the field-by-year interaction is not statistically significant](medical-students-higher-trait-anxiety-than-psychology.md) — related

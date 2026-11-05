@@ -62,3 +62,4 @@ Narrative synthesis of a limited number of cognitive–psychological studies; th
 - [Team training programs in hospitals produce sustained improvements in teamwork knowledge, skills, attitudes, and behaviors on the job, up to 12 months after training](team-training-sustained-ksa-transfer-hospitals.md)
 - [Perceived confidence in CPR skill retention improved markedly between 3 and 6 months in both groups](retention-confidence-self-report-trajectory.md) — related
 - [Individual and group reflection produce similar MCQ scores at the 60-day voluntary follow-up](ir-gr-similar-long-term-retention-60-days.md) — related
+- [Technology-enhanced simulation improves knowledge, procedural skills, teamwork behaviors, and transfer to practice](simulation-improves-knowledge-skills-teamwork-transfer.md) — related

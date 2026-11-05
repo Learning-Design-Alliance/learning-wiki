@@ -111,3 +111,4 @@ Undergraduates read educational texts (textbook chapters or a Scientific America
 - [Post-testing yields significantly better retention than pre-testing when total retrieval-practice time is held comparable (position effect)](quiz-position-post-beats-pre-latimier.md) — related
 - [Both groups shifted from information-collection strategies toward retrieval-based strategies as the exam approached](strategy-use-shifts-toward-retrieval-near-exam.md) — related
 - [Group studiers and solo studiers differ in time spent on listening, rereading, and watching non-course videos, but not on high-impact strategies](group-solo-studiers-strategy-time-differences.md) — related
+- [On a short-answer comprehension test, only multiple-choice practice, not true—false practice, significantly beat rereading (Experiment 2)](mc-only-beats-rereading-on-short-answer.md) — a narrower finding that bears on this claim

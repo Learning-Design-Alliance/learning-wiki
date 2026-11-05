@@ -50,3 +50,4 @@ Pretest–posttest evaluation of a 1-week camp using a 44-question financial lit
 - [Parents with high present bias were less likely to enroll their 8th graders in the financial literacy camp](present-bias-reduces-camp-enrollment.md) — related
 - [Heckman two-step estimates found statistically insignificant Mills ratio coefficients in all three specifications in pretest–posttest gain score regressions based on camp attendance, in one group with no comparison group](no-selection-bias-camp-attendance.md) — related
 - [IDA participation and contribution level showed no statistically significant effect on financial knowledge gains from camp instruction](ida-participation-no-knowledge-gain.md) — related
+- [Providers' HBB knowledge scores rose significantly from pre-training to immediately post-training after HBB training, in one uncontrolled pre-post study](hbb-training-increases-provider-knowledge-immediately.md) — related

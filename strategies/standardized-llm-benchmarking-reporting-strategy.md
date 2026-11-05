@@ -50,6 +50,7 @@ In its future directions, the article calls for standardized reporting in primar
 - [Extend educational LLM benchmarking toward multilingual contexts, real classroom interaction data, and targeted training for identified capability gaps](future-educational-llm-benchmark-extensions.md)
 - [Staged future-research agenda for transitioning LC assessment tools from developmental validation to safe clinical integration](lc-assessment-tools-future-research-agenda.md)
 - [Future research should use broader question formats, non-English training data, and LLMs beyond ChatGPT](future-research-broader-questions-non-english-llms.md)
+- [Four-step process for applying AI models to MCQ assessment in a new medical specialty](four-step-ai-mcq-assessment-process.md)
 
 ## Examples
 -

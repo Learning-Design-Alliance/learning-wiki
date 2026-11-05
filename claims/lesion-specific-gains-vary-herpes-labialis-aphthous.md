@@ -47,3 +47,4 @@ Per-lesion percentages from Table 2 of the three-timepoint study. The article al
 ## Related Claims
 - [Diagnostic accuracy and confidence vary widely across lesion types, with stafne bone cavity easiest and adenomatoid odontogenic tumor and odontogenic keratocyst hardest](case-difficulty-varies-across-radiographic-lesions.md) — a broader claim this one bears on
 - [Diagnostic accuracy is higher for oral conditions with recognizable clinical features and lower for conditions with non-specific presentations](recognizable-features-higher-oral-diagnostic-accuracy.md) — related
+- [Confidence is not a reliable indicator of diagnostic competency for certain lesion types, notably facial nerve palsy (case 7)](overconfidence-on-difficult-oral-cancer-cases.md) — related

@@ -51,3 +51,4 @@ Thematic analysis of interviews with 23 prenatal clinicians found that "a key ch
 - [Prenatal clinicians show a gap between TIC knowledge and practice despite favorable attitudes](tic-knowledge-practice-gap-prenatal-clinicians.md) — related
 - [Prenatal clinicians prefer live, dynamic sessions over online video-based training modules](tic-live-sessions-preference-prenatal.md) — related
 - [Prenatal clinicians recommend system-wide TIC training targeting the whole workforce including leadership](tic-system-wide-training-recommendation.md) — related
+- [Stakeholders identified an educational-support gap: LEDs stabilise the workforce but receive less structured teaching than HEE trainees, with lack of protected time a key barrier](led-education-support-gap-protected-time.md) — related

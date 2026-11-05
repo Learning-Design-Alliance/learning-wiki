@@ -63,3 +63,4 @@ Model evaluation using a modified k-fold cross-validation training on nine cours
 - [CatBoost is the best-performing algorithm for predicting programme non-completion, with F1-measure of 94.5±0.6, slightly better than Random Forest](catboost-best-f1-programme-completion.md) — related
 - [A Random Forest Classifier embedded in the MLADs achieved an F1-score of 0.82 and AUC of 0.89 for course-completion-risk alerts under five-fold cross-validation](random-forest-early-alert-f1-082-auc-089.md) — reports the opposite
 - [Random Forest is the best classifier for discriminating trained from untrained VR trainees](random-forest-best-classifier-vrts-student-model.md) — reports the opposite
+- [Random Forest is the best-performing classification model for predicting postgraduate public health students' CGPA category, with 71.43% accuracy and AUC 0.87](random-forest-best-classifier-ap.md) — related

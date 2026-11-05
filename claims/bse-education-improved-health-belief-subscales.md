@@ -53,3 +53,4 @@ Quasi-experimental study using Champion's revised Health Belief Model Scale (63 
 - [Adequate BSE performance increased from 5.3% pre-program to 67.3% post-program (p=0.001)](bse-education-improved-nursing-student-performance.md) — related
 - [After the program, 88.5% of students stated they would go to a doctor upon discovering a breast problem, a highly statistically significant change](bse-education-improved-referral-intention.md) — related
 - [A student-led breast cancer awareness workshop significantly improved total breast cancer knowledge scores among female secondary school students.](student-led-bc-campaign-significant-knowledge-gains-adolescents.md) — related
+- [The PBL-KAP-AI model improves health beliefs in breast cancer patients more than conventional health education](pbl-kap-ai-improves-health-beliefs.md) — related

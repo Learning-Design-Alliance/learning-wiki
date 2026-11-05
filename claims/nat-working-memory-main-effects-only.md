@@ -9,7 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-26
+source_checked: 2026-11-05
 sources:
   - id: han-jiang-2026
     resource: "https://doi.org/10.1038/s41539-026-00415-9"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Working memory measures showed consistent significant main effects of Time and Group but non-significant interactions, so there was no evidence that the NAT group improved more over time than the control group. [→ Han Jiang 2026](#han-jiang-2026)

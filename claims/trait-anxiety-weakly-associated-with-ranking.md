@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: mathé-amandine-2026
     resource: "https://doi.org/10.1136/bmjopen-2026-125171"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Comparing very low versus high/very high trait-anxiety subgroups, ranking did not differ significantly. [→ Mathé Amandine 2026](#mathe-amandine-2026)
@@ -54,3 +54,4 @@ Subgroup analysis of students with extreme STAI-Y trait scores comparing final n
 - [Self-reported coping strategies were not associated with better national ranking among French final-year medical students.](coping-strategies-not-associated-with-ranking.md) — related
 - [Students with very low trait anxiety report more sport, less benzodiazepine use and less psychological follow-up than those with high/very high trait anxiety.](low-trait-anxiety-coping-profile-differences.md) — related
 - [State and trait anxiety show only a moderate correlation, suggesting situational exam stress can acutely elevate anxiety even in students not habitually anxious.](state-trait-anxiety-moderate-correlation.md) — related
+- [Trait anxiety is higher among medical than psychology students, with the gap larger in fifth year, though the field-by-year interaction is not statistically significant](medical-students-higher-trait-anxiety-than-psychology.md) — related

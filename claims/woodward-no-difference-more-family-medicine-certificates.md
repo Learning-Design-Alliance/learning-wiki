@@ -50,3 +50,4 @@ One of the first studies on this association (1987), comparing 2028 graduates fr
 - [Three studies reported a significantly increased number of PBL graduates working in primary care compared to non-PBL graduates](pbl-increased-primary-care-three-studies.md) — related
 - [PBL-based medical curricula do not predispose students to a career in a specific specialty, with 7 of 11 studies showing no significant difference in career choice between PBL and non-PBL graduates](pbl-no-predisposition-career-choice.md) — related
 - [One study found significantly fewer PBL graduates working in primary care, with the authors suggesting medical school admission as a confounding factor](tolnai-fewer-pbl-primary-care.md) — reports the opposite
+- [The article states that general practice internships can positively influence students' interest in primary care careers, with teaching quality a significant factor](gp-internships-influence-primary-care-career-interest.md) — related

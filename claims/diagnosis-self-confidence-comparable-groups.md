@@ -1,0 +1,50 @@
+---
+type: claim
+title: "Self-confidence in diagnosis was comparably high in both groups, with the robot group reporting more 'very sure' responses (73%) than the video group (40%)"
+description: "Self-confidence in diagnosis was comparably high in both groups, with the robot group reporting more 'very sure' responses (73%) than the video group (40%)"
+id: diagnosis-self-confidence-comparable-groups
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-05
+evidence_strength: moderate
+newest_evidence: 2025
+sources:
+  - id: schwarz-p-2025
+    resource: "https://doi.org/10.2196/70363"
+    title: "Schwarz P, Hellmers S, Spanknebel S, Immel D, Hurlemann R, Hein A. (2025). Comparing Patient Simulation With a Humanoid Robot or a Human Actor in Terms of Training Success and Acceptance: Pilot Questionnaire Study. JMIR Formative Research. https://doi.org/10.2196/70363"
+    author: Schwarz P, Hellmers S, Spanknebel S, Immel D, Hurlemann R, Hein A.
+    q: 2
+    i: "?"
+    kind: causal
+    rigour: 1
+---
+
+# Self-confidence in diagnosis was comparably high in both groups, with the robot group reporting more 'very sure' responses (73%) than the video group (40%)
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r1` · `q2`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` Robot-group participants were very sure (8/11, 73%), sure (1/11), unsure (1/11), or very unsure (1/11); video-group participants were neutral (1/10), sure (4/10), or very sure (4/10). [→ Schwarz P 2025](#schwarz-p-2025)
+
+## Evidence
+
+### Schwarz P 2025
+
+Schwarz P, Hellmers S, Spanknebel S, Immel D, Hurlemann R, Hein A. (2025). Comparing Patient Simulation With a Humanoid Robot or a Human Actor in Terms of Training Success and Acceptance: Pilot Questionnaire Study. JMIR Formative Research. https://doi.org/10.2196/70363
+
+`q2 · i?` · `causal · r1`
+
+Questionnaire item 4 on diagnostic self-confidence (Table 2): robot mean 1.73 (SD 1.35) versus video mean 1.9 (SD 0.94). The article states "the difference between the 2 groups in terms of self-perception was very small" and speculates uncertainty about the video may relate to lacking emotional cues. No test statistic is printed.
+
+> "The participants who diagnosed the robot patient said that they were very sure (8/11, 73%), sure (1/11, 9%), unsure (1/11, 9%), or very unsure (1/11, 9%)."
+
+## Discussion
+
+
+## Related Claims
+- [Participants rated the human actor video as more realistic than the humanoid robot simulation of psychiatric symptoms](actor-video-rated-more-realistic-than-robot.md) — related
+- [In a pilot study, diagnostic accuracy was comparably high when medical students and nurses assessed a humanoid robot patient (91% correct) versus a human actor video (90% correct)](robot-patient-diagnostic-accuracy-comparable-actor.md) — related
+- [Under a pre-set 20% deviation criterion, the humanoid robot simulation was judged noninferior to the actor-video standard procedure in realism, symptom recognition, and diagnostic accuracy](robot-noninferior-20-percent-deviation-criterion.md) — related

@@ -51,3 +51,4 @@ Pearson correlation analysis of ARPS and RIMMS scores from the same 90-participa
 - [Experimental-group students reported high positive motivation toward the AR-developed Ottoman vocabulary material across the ARCS sub-dimensions](ar-ottoman-material-high-motivation-arcs.md) — related
 - [OER-based blended learning with Quipper School raised relevance and confidence motivation significantly higher than face-to-face classroom learning](oer-blended-quipper-relevance-confidence.md) — related
 - [Experimental group motivation was significantly higher in 3 of 5 sub-categories, but no correlation was found between test results and motivation](busuu-motivation-higher-no-correlation.md) — related
+- [Perceived quality of the VR experience correlates positively with motivation (Attention, Relevance, Confidence, Satisfaction) and sense of virtual presence (p < 0.05)](vr-experience-quality-positive-motivation-correlations.md) — related

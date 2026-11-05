@@ -49,3 +49,4 @@ Qualitative interview study with 26 nursing faculty at four federal public unive
 - [None of the participating nursing faculty received institutionally structured training in soft skills pedagogy, leaving teaching dependent on individual initiative](no-institutional-soft-skills-training-faculty.md) — related
 - [Students' preference for hard skills and limited receptivity to soft-skill activities hinder soft skills teaching in nursing education](student-preference-hard-skills-barrier.md) — related
 - [Faculty identify clinical simulation as enabling intentional definition and integrated observation of multiple soft skills in nursing education](clinical-simulation-soft-skills-nursing.md) — related
+- [Soft skills of leadership, agility, security, emotional control, focus, attention and sense of belonging emerged as relevant to arrest care in Primary Health Care.](soft-skills-phc-cpa-care.md) — a narrower finding that bears on this claim

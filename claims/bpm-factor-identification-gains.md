@@ -50,3 +50,4 @@ Chi-squared tests comparing pre/post survey response distributions in a mixed-me
 - [OSCE results validate improvements in technical accuracy and patient communication after training](osce-validates-bpm-skill-improvement.md) — related
 - [Most students (84%) endorse continuing the BPM Essentials module in future curricula, with PA students rating it more favorably](student-endorsement-bpm-module.md) — related
 - [Medical students show significant gains in patient-positioning knowledge while PA students show no significant gain (ceiling effect)](positioning-knowledge-gain-medical-only.md) — related
+- [Both PA and medical students improve diagnostic accuracy during eCREST cases, with PAs starting higher and medical students improving more steeply](both-groups-improve-diagnostic-accuracy-ecrest.md) — related

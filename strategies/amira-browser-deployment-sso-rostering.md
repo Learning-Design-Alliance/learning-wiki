@@ -42,6 +42,7 @@ Amira is a browser-based program requiring no special software, working on Chrom
 ## Related Strategies
 
 - [Implement Amira with no special staff qualifications, roughly two hours of initial teacher training plus a one-hour follow-up data deep-dive](amira-training-and-staffing-strategy.md)
+- [Deploy gamified onboarding simulations via WebGL in a standard web browser rather than VR or installed software](webgl-browser-deployment-strategy.md)
 
 ## Examples
 -

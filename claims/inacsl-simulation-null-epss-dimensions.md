@@ -49,3 +49,4 @@ Null results on the other EPSS dimensions and total score in the same quasi-expe
 - [INACSL-standard-based simulation training increases active learning scores versus standard simulation training](inacsl-simulation-raises-active-learning.md) — related
 - [INACSL-standard-based simulation training does not significantly improve midwifery students' self-confidence compared with standard training](inacsl-simulation-no-self-confidence-gain.md) — related
 - [INACSL-standard-based simulation training raises midwifery students' satisfaction compared with standard simulation training](inacsl-simulation-raises-midwifery-satisfaction.md) — related
+- [Students rate RCDP higher than SWSP on active learning, diverse ways of learning, and high expectations in the Educational Practices Questionnaire](rcdp-higher-educational-practices-factors.md) — related

@@ -50,3 +50,4 @@ Structured questionnaire with closed and open-ended questions completed by all 4
 - [In hidden-first participants ventilating a term manikin, visible RFM feedback significantly increased mean expired tidal volume](visible-rfm-feedback-increases-mean-vte-term-manikin.md) — related
 - [Most participants reported that cheat sheets boosted their confidence and efficiency during exams](cheatsheets-boost-confidence-efficiency.md) — related
 - [87.1% of students preferred group exams and 90.3% perceived improved future consultation skills](group-exam-and-consultation-perceptions-pilot.md) — related
+- [Almost 90% of follow-up survey participants reported increased confidence in performing or assisting with therapies, with over half describing the boost as significant](therapy-intensive-confidence-increase.md) — related

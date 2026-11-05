@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 229 claims (157 show a difference, 47 mixed, 25 no difference) · 169 studies (55 causal, 42 review, 32 associational, 16 quant-synthesis, 14 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 45 of 169 report an effect size · 222 claims rest on one study
+> **Evidence** · 230 claims (157 show a difference, 47 mixed, 26 no difference) · 170 studies (55 causal, 42 review, 33 associational, 16 quant-synthesis, 14 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 45 of 170 report an effect size · 223 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -271,6 +271,7 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Semistructured interviews with student navigators identified three themes: increased empathy and understanding of patients' lives, improved clinical skills, and interpersonal enrichment](../claims/flip-interview-three-themes-empathy-skills-enrichment.md) [+M] — measured as an outcome of the instruction studied
 - [The largest self-rated competency gains in the scGY program occurred in patient care/clinical skills and interpersonal/communication skills](../claims/scgy-largest-gains-patient-care-communication.md) [+M] — measured as an outcome of the instruction studied
 - [Clinical performance ability rose significantly at three and six months after the SCCDP compared with pre-program levels, in one single-group pre-post study, with the largest gains in interpersonal relationships and communication](../claims/sccdp-clinical-performance-improvement.md) [+M] — measured as an outcome of the instruction studied
+- [SDM and empathy scores do not significantly predict student-SP treatment agreement](../claims/sdm-empathy-scores-not-predictive-of-treatment-agreement.md) [-M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

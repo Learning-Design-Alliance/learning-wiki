@@ -50,3 +50,4 @@ Paired t-test comparing baseline and one-year OSCE scores among the same 226 pro
 - [Low-dose, high-frequency ALS training yields higher overall simulation-based resuscitation performance scores at 12 months than annual full-day training](ldhf-als-higher-overall-performance-12-months.md) — reports the opposite
 - [Neonatal resuscitation knowledge and skills deteriorate significantly in the months following NRP certification](nrp-knowledge-skills-decay-months-after-certification.md) — related
 - [Skills decay occurred across most participant categories but was not significant for providers with less than one year of work experience, and more-experienced providers decayed more](experience-pattern-skills-decay-one-year.md) — related
+- [Providers' hands-on resuscitation skills (OSCE B) scores declined significantly from immediately post-training to 4 and 9 months after training in one uncontrolled pre-post study](osce-b-skills-decline-after-training.md) — related

@@ -53,3 +53,4 @@ Quasi-experimental post-test comparing two parallel classes (experimental n=32, 
 - [Self-rated mastery of translation skills differed little between the flipped and traditional classes](flipped-translation-skills-mastery-small-difference.md) — related
 - [Learning with a ChatGPT-based flipped learning guiding approach significantly improves students’ performance, self-efficacy, learning attitudes, intrinsic motivation and creative thinking in a courseware project](chatgpt-flga-improves-performance-and-perceptions.md) — related
 - [Project-based CLIL significantly improved written English competence of mathematics students over one semester](project-based-clil-improves-written-english-competence.md) — related
+- [A Triple Helix-guided big data analytics platform improved teaching implementation, student engagement, and technology integration among normal university students over 16 weeks](big-data-platform-teaching-ability-gains.md) — related

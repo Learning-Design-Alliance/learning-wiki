@@ -55,6 +55,7 @@ The review's challenges section recommends that institutions implementing gamifi
 - [Integrate gamified formats into continuing medical education to support lifelong learning](gamification-in-cme-strategy.md)
 - [Optimize e-learning platform usability and provide technical support to maximize engagement across diverse nursing staff groups](elearning-usability-technical-support-strategy.md)
 - [Prepare teachers and infrastructure before implementing VR-based learning on sensitive topics](teacher-preparation-technical-support-vr-implementation.md)
+- [Use minimalist card games (no more than eight instructional steps) as an accessible starting point for gamified learning](minimalist-card-game-gamified-induction-strategy.md)
 
 ## Examples
 -

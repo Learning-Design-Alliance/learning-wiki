@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 225 claims (151 show a difference, 56 mixed, 18 no difference) · 136 studies (46 associational, 45 causal, 15 review, 11 qualitative, 10 theoretical, 7 design, 2 quant-synthesis), `q1`–`q4` · 31 of 136 report an effect size · 222 claims rest on one study
+> **Evidence** · 229 claims (153 show a difference, 56 mixed, 20 no difference) · 138 studies (47 associational, 46 causal, 15 review, 11 qualitative, 10 theoretical, 7 design, 2 quant-synthesis), `q1`–`q4` · 32 of 138 report an effect size · 226 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -260,6 +260,10 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [In an exam-oriented Chinese EFL context, POE predicts enjoyment and reduced boredom while COI predicts boredom and shows no enjoyment association](../claims/poe-coi-divergent-emotional-pathways.md) [~M] — measured as an outcome of the instruction studied
 - [Students report overwhelmingly positive perceptions of the oral retest intervention, including fairness, pride, and improved retention](../claims/positive-student-perceptions-oral-retest.md) [+M] — measured as an outcome of the instruction studied
 - [No post-simulation emotion significantly predicts perceived individual performance once covariates are included](../claims/no-emotion-predicts-individual-performance.md) [-W] — learners who differ on it differ in outcomes
+- [Academic boredom and behavioural engagement sequentially (chain) mediate the link between EFL PsyCap and EFL achievement](../claims/chain-mediation-boredom-engagement.md) [-W] — learners who differ on it differ in outcomes
+- [Academic boredom mediates the relationship between EFL PsyCap and EFL achievement](../claims/boredom-mediates-psycap-achievement.md) [-W] — learners who differ on it differ in outcomes
+- [EFL PsyCap is negatively associated with academic boredom and positively with behavioural engagement, and boredom negatively predicts engagement and achievement](../claims/psycap-boredom-engagement-paths.md) [+M] — learners who differ on it differ in outcomes
+- [Most surveyed medical students perceived the pharmacology games as enjoyable and effective for understanding concepts](../claims/students-perceive-games-enjoyable-effective.md) [+M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

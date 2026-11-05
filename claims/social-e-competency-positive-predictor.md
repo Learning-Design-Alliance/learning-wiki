@@ -9,7 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2022
-source_checked: 2026-10-29
+source_checked: 2026-11-05
 sources:
   - id: ana-cebollero-salinas-2022
     resource: "https://doi.org/10.1016/j.compedu.2022.104464"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i1` small
-> **Currency** · newest study 2022 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` In a cross-sectional multi-group SEM, social e-competency is an invariant positive statistical predictor of habitual digital behaviors across genders (β = 0.18) and age groups (β = 0.22): higher levels go with more frequent habitual digital behavior, an association rather than a demonstrated cause. [→ Ana Cebollero-Salinas 2022](#ana-cebollero-salinas-2022)

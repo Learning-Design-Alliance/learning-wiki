@@ -47,3 +47,4 @@ Content analysis of syllabi found Theme 1 was the second most frequent. The stud
 ## Related Claims
 - [Clinical Practice is the curricular area with the most communication competency quotes (n = 156), while foundational areas show fewer references](clinical-practice-most-quotes.md) — related
 - [Teamwork and interprofessional communication is the most frequently represented communication competency theme in the formal curriculum, comprising 46.9% of identified quotes](teamwork-most-frequent-communication-theme.md) — related
+- [FMSo residents frequently teach clinical examination and diagnosis skills but place less emphasis on professionalism, empathy, and family communication](residents-teach-clinical-skills-not-professionalism.md) — related

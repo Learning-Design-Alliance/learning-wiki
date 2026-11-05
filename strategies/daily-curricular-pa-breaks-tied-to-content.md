@@ -49,6 +49,7 @@ The article recommends that elementary teachers embed daily physical activity br
 - [Classroom Physical Activity Integration](classroom-physical-activity-integration.md)
 - [Implement acute physical activity breaks of at least 10 minutes at moderate intensity with behavior change techniques](strategy-acute-pa-breaks-10min-moderate-with-bcts.md)
 - [Classroom Movement Breaks](classroom-movement-breaks.md)
+- [Promote physical activity within academic settings through institutional policies, flexible scheduling, and active breaks](physical-activity-promotion-academic-settings-strategy.md)
 
 ## Examples
 -

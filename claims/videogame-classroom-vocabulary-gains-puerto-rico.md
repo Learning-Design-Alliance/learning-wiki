@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2018
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: vélez-agosto-2018
     resource: "http://educationaltechnology.net/ijet/"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2018 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The experimental group's words known rose significantly from pre-test (M = 1664) to post-test (M = 2513), but a same-school internal control class that did not play the game also rose significantly (M = 2211 to 3252); the authors suggest a Hawthorne effect. [→ Vélez-Agosto 2018](#velez-agosto-2018)

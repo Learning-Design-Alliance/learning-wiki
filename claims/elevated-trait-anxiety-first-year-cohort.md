@@ -52,3 +52,4 @@ Trait anxiety measured weeks before the first simulation with the STAI-T among 5
 - [A CBT-based skill-training program reduces university students' trait anxiety compared with a no-treatment control](cbt-skill-training-reduces-trait-anxiety.md) — related
 - [Higher trait depression, anxiety, and negative emotionality are associated with setting higher baseline goals (Study 1)](trait-negative-emotionality-higher-goal-levels.md) — related
 - [Participation in a peer-led mock OSCE significantly reduced state anxiety during the summative OSCE among fifth-semester medical students](peer-led-mock-osce-reduces-state-anxiety.md) — related
+- [Trait anxiety is higher among medical than psychology students, with the gap larger in fifth year, though the field-by-year interaction is not statistically significant](medical-students-higher-trait-anxiety-than-psychology.md) — related

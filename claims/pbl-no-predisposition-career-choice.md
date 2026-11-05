@@ -69,3 +69,4 @@ Retrospective cohort study using Canadian Resident Matching Service data over 19
 - [Woodward et al. found no significant difference in specialty choice but PBL graduates held a greater number of certificates in family medicine](woodward-no-difference-more-family-medicine-certificates.md) — related
 - [Three studies reported a significantly increased number of PBL graduates working in primary care compared to non-PBL graduates](pbl-increased-primary-care-three-studies.md) — reports the opposite
 - [One study found significantly fewer PBL graduates working in primary care, with the authors suggesting medical school admission as a confounding factor](tolnai-fewer-pbl-primary-care.md) — reports the opposite
+- [The article states that general practice internships can positively influence students' interest in primary care careers, with teaching quality a significant factor](gp-internships-influence-primary-care-career-interest.md) — related

@@ -79,3 +79,4 @@ Welch t-test on the Perceived Competence subscale; the control group (M = 4.71, 
 - [Enjoyment of the instructional type did not differ between the movement and seated video groups, with both groups reporting high enjoyment](movement-videos-enjoyment-null-group-difference.md) — related
 - [Contrary to similar research, an asocial robot produced higher learning gains than a more social robot in a tutoring study](asocial-robot-higher-learning-gains.md) — related
 - [No difference in motivation between the iVR-orchestrated lesson and the student video design control group](ivr-authentic-classroom-no-motivation-difference.md) — related
+- [The difference between groups in finding the training method enjoyable and effective was not statistically significant](pechakucha-enjoyable-effective-null.md) — a narrower finding that bears on this claim

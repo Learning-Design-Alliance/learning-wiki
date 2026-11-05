@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 420 claims (241 for, 154 mixed, 25 against) · 259 studies (95 causal, 77 review, 39 quant-synthesis, 20 design, 19 qualitative, 8 theoretical, 1 associational), `q1`–`q4` · 54 of 259 report an effect size · 415 claims rest on one study
+> **Evidence** · 422 claims (242 for, 155 mixed, 25 against) · 261 studies (97 causal, 77 review, 39 quant-synthesis, 20 design, 19 qualitative, 8 theoretical, 1 associational), `q1`–`q4` · 54 of 261 report an effect size · 417 claims rest on one study
 
 ## Conditional relationship
 
@@ -418,6 +418,8 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [VR-trained students outperformed control students in all three assessed competency modules in both assessment modes](../claims/vr-cataract-three-module-subscore-advantage.md) [+W] — attached 2026-11-05 from Zhang Meng-lu et al. (2025), which proposed "Deliberate practice structure with spaced training embedded in VR surgical simulation"; tests this page's relationship.
 - [Thematic analysis of focus groups and open-ended responses identified immersion, clinical communication practice and safe decision-making environments as key perceived benefits](../claims/vr-pilot-qualitative-benefit-themes.md) [+W] — attached 2026-11-05 from Dávidovics A et al. (2025), which proposed "Pair VR simulation with structured pre-briefing, feedback-rich debriefing and multidisciplinary teaching to maximize educational value".
 - [Students' self-reported supervision level for managing an acute situation rose from median 3 to 4 after the simulation course, in one uncontrolled pre-post study](../claims/pfa-simulation-improves-supervision-independence.md) [+W] — attached 2026-11-05 from Moore Amber Jennifer Sara et al. (2025), which proposed "Use simulation to supplement variable clinical experiential learning in the pre-foundation period, providing a psychologically safe environment to practise acute care".
+- [After a single 90-minute training session, novices trained on a high-fidelity VR arthroscopy simulator show no significant skill-acquisition advantage over novices trained on a low-fidelity benchtop simulator](../claims/single-session-no-fidelity-skill-acquisition-difference-arthroscopy.md) [~W] — attached 2026-11-05 from Kutsuna Tatsuhiko et al. (2025), which proposed "Use high-fidelity simulation to enhance novice trainee satisfaction and motivation even when it does not outperform low-fidelity simulation for short-term skill acquisition".
+- [Students rate RCDP higher than SWSP on the Simulation Design Scale overall, including the support and problem-solving factors](../claims/rcdp-higher-simulation-design-scale.md) [+W] — attached 2026-11-05 from da Silva Gisele Cabral et al. (2025), which proposed "Use active simulation methodologies, including RCDP, in nursing education, weighing RCDP's engagement and design advantages in curricular decisions".
 
 ## Objective and learner-valued goal
 

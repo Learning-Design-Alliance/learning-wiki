@@ -63,6 +63,7 @@ Evaluative settings trigger threat responses that consume working memory and dep
 - **Growth mindset framing** — often combined with affirmation in multi-component "wise interventions," though effects are independent
 - [Frame reading assessment as a game to reduce stereotype threat for boys](frame-reading-test-as-game-reduce-threat.md)
 - [Brief in-school self-affirmation writing exercises administered before major assessments](self-affirmation-writing-exercise-strategy.md)
+- [Use trauma-informed educational practices and have students write memorized information on blank paper before reading the first question to buffer stress responses](trauma-informed-test-taking-brain-dump.md)
 
 ## Examples
 - **Cohen et al. (2009)** — A 15-minute values-affirmation writing assignment administered in seventh-grade classrooms; Black students' grade point average improved and the racial achievement gap was reduced across the term (Science).

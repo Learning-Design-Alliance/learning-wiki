@@ -53,3 +53,4 @@ Cross-sectional survey of training base representatives; Table 3 listed training
 - [94.3% of Chinese GP training base respondents support enhancing PMSC for GPs in SRTP, indicating a favorable institutional climate for curriculum development.](strong-support-enhancing-pmsc-training.md) — related
 - [Faculty reluctance and limited expertise are common challenges in implementing IPE, which can harm interprofessional relationships if poorly planned](faculty-reluctance-ipe-challenge.md) — related
 - [Key barriers to SBE implementation are lack of knowledge or training, lack of awareness of resources, limited time and resources, and limited institutional support](sbe-barriers-knowledge-time-institutional-support.md) — related
+- [FMSo residents rate interactive methods (case discussions, role-playing, brainstorming, workshops, CRBL) as more efficient than didactic courses and e-learning](fmso-residents-preferred-teaching-methods.md) — related

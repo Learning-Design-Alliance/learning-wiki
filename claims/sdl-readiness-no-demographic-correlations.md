@@ -55,3 +55,4 @@ The review reports, citing Ghiyasvandian and Chakkaravarthy, that nurses showed 
 - [Emotional intelligence correlates positively with self-directed learning among nursing students (r = 0.63)](ei-sdl-positive-correlation-nursing-students.md) — related
 - [Age and gender did not significantly predict academic self-efficacy in the structural model](age-gender-null-predictors-ase.md) — related
 - [Work experience, but not gender, education, or job category, significantly predicts organizational maturity](work-experience-significant-demographic-predictor-maturity.md) — related
+- [Gender, marital status, living status, and chronic disease show no significant association with older volunteers' competency needs](null-demographic-factors-older-volunteer-needs.md) — related

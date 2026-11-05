@@ -9,7 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: weak
 newest_evidence: 2021
-source_checked: 2026-10-26
+source_checked: 2026-11-05
 sources:
   - id: tim-t-morris-2021
     resource: "https://doi.org/10.1038/s41539-021-00092-w"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2021 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Interaction p values between school enjoyment and social class, maternal education, cognitive ability and sex ranged from 0.084 to 0.867 in complete case analyses, with limited statistical power. [→ Tim T. Morris 2021](#tim-t-morris-2021)

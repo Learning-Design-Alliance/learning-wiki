@@ -57,3 +57,4 @@ Participant-observer finding from the case study; students enjoyed gauging their
 - [During the course, curiosity, enjoyment, confusion and anxiety decreased over time, boredom increased, and surprise and frustration remained stationary.](time-trends-epistemic-emotions-decline-course.md) — reports the opposite
 - [Attending a game session rather than a lecture increased all epistemic emotions except boredom among university students in a Diplomacy-based international relations course.](game-sessions-increase-epistemic-emotions-except-boredom.md) — related
 - [A competition environment increases learners' motivation toward the instructional game](competition-increases-motivation-imms.md) — related
+- [The games' knowledge gains are attributed to the single game element of rules and goals, with competition intentionally omitted over anxiety concerns](rules-and-goals-element-attributed-gains-competition-omitted.md) — reports the opposite

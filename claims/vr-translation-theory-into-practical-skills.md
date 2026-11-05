@@ -51,3 +51,4 @@ Focus group findings from the translation theme: students described therapeutic 
 - [Repeated VR practice of therapeutic conversations builds students' confidence and flow in communication](vr-repeated-practice-confidence-flow.md) — related
 - [Observing therapeutic conversations through 360-degree video provides students practical insight into adapting communication to different client groups](360-video-observation-therapeutic-conversations.md) — related
 - [Working with sensitive family topics in VR can feel intense and overwhelming, requiring teacher preparation for emotional reactions](vr-sensitive-topics-intensity-reactions.md) — related
+- [Students expressed intentions to implement communication strategies and recognised the importance of physician-patient communication](reflections-intentions-implement-communication-importance.md) — related

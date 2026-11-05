@@ -55,3 +55,4 @@ Single-group pre-post study of 25 third-year medical students completing a one-w
 - [GP residents showed statistically significant pre-post improvements in history-taking (Cohen's d = 1.11) and clinical reasoning (Cohen's d = 1.32) after a 12-week VP training program](vp-training-improves-history-taking-clinical-reasoning.md) — related
 - [Clinical reasoning scores were higher after training than before training in every clinical domain assessed, in one single-group pre-post study with no comparison group](ofc-gains-across-all-clinical-domains.md) — related
 - [AI-generated feedback following social robotic VP interactions improves medical students' total OSCE performance (Cohen d=0.74)](ai-feedback-sari-improves-total-osce.md) — related
+- [Students who participated in at least three simulation modules improved OSCE scores 15–20% above baseline at Fujian Medical University](simulation-modules-osce-score-improvement.md) — related

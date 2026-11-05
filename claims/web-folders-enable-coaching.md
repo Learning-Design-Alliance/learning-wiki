@@ -9,7 +9,7 @@ generated:
   at: 2026-10-07
 evidence_strength: weak
 newest_evidence: 2007
-source_checked: 2026-10-18
+source_checked: 2026-11-05
 sources:
   - id: michele-d-dickey-2007
     resource: "https://doi.org/10.1080/09687760701482218"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2007 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2007 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Each student had an individual online Web folder with instructor access, so the instructor could view work-in-progress and offer guidance when students encountered problems. [→ Michele D. Dickey 2007](#michele-d-dickey-2007)

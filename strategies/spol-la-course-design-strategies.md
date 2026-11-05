@@ -52,6 +52,7 @@ The article recommends a set of course design strategies for online educators wh
 
 - [Include learning analytics in the design loop of self-paced online course design, with diagnosis, learner profiling, continuous assessment, and adaptivity](learning-analytics-in-course-design-loop.md)
 - [Extend LA reports with suggested interventions and pre-course team agreements on how to act on report data](la-reports-suggest-interventions-team-agreements.md)
+- [Apply the instrument from the beginning of SCI as continuous diagnostic assessment rather than only for final grading](iafee-ecs-continuous-use-from-sci-start.md)
 
 ## Examples
 -

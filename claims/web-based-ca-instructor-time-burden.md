@@ -53,3 +53,4 @@ Author's interpretive summary of the case study experience: OMS videos and anima
 - [PROMISE service costs represented relatively large investments](promise-service-costs-relatively-large-investments.md) — related
 - [The cost analysis suggests the ERWC is a modest investment whose upfront development and training costs become insignificant over time](erwc-modest-investment-cost-analysis.md) — related
 - [A self-service course-level framework lowers the infrastructure barrier to piloting learning analytics interventions](self-service-lai-infrastructure-lowers-barrier.md) — related
+- [The self-directed format carried lower running costs than the teacher-led workshop, after an initial video-production investment](self-directed-format-lower-recurring-costs.md) — related

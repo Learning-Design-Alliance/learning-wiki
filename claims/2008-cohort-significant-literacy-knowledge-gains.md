@@ -9,7 +9,6 @@ generated:
   at: 2026-10-16
 evidence_strength: moderate
 newest_evidence: 2010
-source_checked: 2026-10-20
 sources:
   - id: pufpaff-2010
     resource: "https://doi.org/10.1002/pits.20485"
@@ -33,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2010 · checked against its sources 2026-10-20 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2010 · not yet checked against its sources · not reviewed by a person
 > **Design limits** · Pufpaff 2010 (2): the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: strong
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: haider-s-2026
     resource: "https://doi.org/10.1001/jamanetworkopen.2026.23068"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Children in the most deprived IMD quintile had higher odds of underachievement than those in the least deprived quintile (EYFSP AOR, 1.27), and free school meal eligibility nearly doubled risk (AOR, 1.89), comparable to grade III-IV intraventricular hemorrhage (AOR, 1.94). [→ Haider S 2026](#haider-s-2026)
@@ -55,3 +56,5 @@ Fully adjusted GEE regression models from the same national cohort. The quote re
 - [Neonatal brain injuries, particularly periventricular leukomalacia and hydrocephalus, show the highest odds of educational underattainment](neonatal-brain-injury-highest-odds-underattainment.md) — related
 - [More than half of very preterm children do not meet expected school readiness or attainment levels at ages 5 to 7 years](half-very-preterm-below-expected-attainment.md) — related
 - [Preterm comorbidities — necrotizing enterocolitis, retinopathy of prematurity, and bronchopulmonary dysplasia — are associated with higher odds of poor outcomes, while sepsis shows no association](preterm-comorbidities-attainment.md) — related
+- [Children with high-grade IVH were less likely to meet national minimum standards at age 8 to 9 years, although most still met them](high-grade-ivh-nms-age-8-9.md) — related
+- [Numeracy was the consistently weakest domain for children with high-grade IVH throughout school age](high-grade-ivh-numeracy-weakness.md) — related

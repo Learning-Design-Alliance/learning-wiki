@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: sunil-kumar-d-2026
     resource: "https://doi.org/10.1186/s12909-026-09810-7"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2` · `i0` negligible
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i0` In one single-group pre-post study with no comparison group, UTI SCT scores rose from pre-test to post-test (mean change = 0.58, p = 0.003, Cohen's d = 0.18), with the change remaining statistically significant after Holm-Bonferroni correction. [→ Sunil Kumar D 2026](#sunil-kumar-d-2026)

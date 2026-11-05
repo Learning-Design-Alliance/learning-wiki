@@ -9,7 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: moderate
 newest_evidence: 2021
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: zucker-2021
     resource: "https://doi.org/10.1080/10409289.2020.1839288"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
-> **Currency** · newest study 2021 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Prior studies of pre-k language and literacy curricula report substantial variability in adherence (e.g., 76–82% average; 79–93% range; one study averaging 38% of core targets) and dosage (73% of intended lessons). [→ Zucker 2021](#zucker-2021)
@@ -102,3 +102,4 @@ Summary of adherence, dosage, and satisfaction data across the three Developing 
 - [Treatment parents averaged eight weeks of intervention engagement, ranging from four to fifteen weeks](intervention-fidelity-eight-weeks-average.md) — related
 - [In the TESLA project, fidelity of implementation scores varied from a low of 29 to a high of 50 out of a possible 73 across nine videotaped teachers](tesla-fidelity-scores-varied-29-to-50.md) — a narrower finding that bears on this claim
 - [Intervention adherence in the experimental group is high, with a 96.7% mean micro-video completion rate, 100% online quiz participation, and 93.3% mean seminar attendance](spoc-blended-package-high-adherence.md) — a narrower finding that bears on this claim
+- [Research training appears in 76.2% of curricula but with substantial variation, ranging from introductory methods courses (11.9%) to full‐time research projects (16.7%)](research-training-76-2-percent-variable-implementation.md) — related

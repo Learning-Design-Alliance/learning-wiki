@@ -52,3 +52,4 @@ Focus group study (n = 17) using reflexive thematic analysis. Theme 2 captured t
 - [Simulation-based learning consistently improves nursing students' knowledge and skills acquisition across diverse designs and simulation topics](sbl-improves-nursing-knowledge-skills-acquisition.md) — a broader claim this one bears on
 - [Very high majorities of students rated high-fidelity simulation as enhancing learning, clinical reasoning, decision-making, and value](coffey-hfs-student-ratings.md) — a narrower finding that bears on this claim
 - [Active methodologies show no definitive superiority over traditional teaching in undergraduate dentistry](no-definitive-superiority-active-methods-dentistry.md) — reports the opposite
+- [Student paramedics reported that the realism of a group-based simulation assessment enhanced their engagement, decision-making and confidence](realism-enhanced-engagement-decision-confidence.md) — a narrower finding that bears on this claim

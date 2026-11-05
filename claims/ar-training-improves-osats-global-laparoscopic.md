@@ -53,3 +53,4 @@ Meta-analysis pooling three studies reporting OSATS Global. The article reports 
 - [Three comparative studies reported superior outcomes for distance simulation over traditional training, involving augmented reality telementoring, remote robotic teaching, and a virtual classroom](distance-simulation-superior-outcomes-three-studies.md) — related
 - [AI tutoring yields a small, statistically significant improvement in expert-rated OSATS scores versus expert instruction, with low certainty](ai-tutoring-small-osats-advantage-low-certainty.md) — related
 - [Simulation-based training improves global rating scores in laparoscopic surgery](simulation-training-improves-global-ratings.md) — related
+- [Augmented reality and 3D-printing simulation models improve surgical skill metrics and are cost-effective for resident training](ar-3d-printing-simulation-urology-resident-training.md) — a broader claim this one bears on

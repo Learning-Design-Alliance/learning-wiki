@@ -72,3 +72,4 @@ Authors' interpretation of two included studies' performance curves: surgeons' s
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [Non-randomized and pre/post-test studies broadly support simulation training benefits for attitudes, skills, knowledge and behaviors, though subject to natural learning effects](simulation-nonrct-ppt-narrative-support.md) — a broader claim this one bears on
 - [During LEARNBOT biotissue simulation training, surgeons' OSATS scores improved significantly and reconstruction duration decreased with consecutive attempts](learnbot-osats-improvement-biotissue-training.md) — a narrower finding that bears on this claim
+- [EyeSi simulator training improves vitreoretinal task performance scores in ophthalmology trainees](eyesi-vitreoretinal-training-improves-task-scores.md) — a narrower finding that bears on this claim

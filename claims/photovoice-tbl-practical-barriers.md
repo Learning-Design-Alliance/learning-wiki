@@ -50,3 +50,4 @@ Theme 5 from the interview content analysis: students reported being "nervous th
 - [Pre-service science teachers in the inquiry group reported both positive experiences (permanent learning, active research, cooperation) and difficulties (time demands, unreliable resources)](interview-views-on-inquiry-instruction.md) — a broader claim this one bears on
 - [School administration reported practical difficulties with tablet implementation, including teacher workload, battery life, and off-task device use](tablet-implementation-difficulties-administration.md) — related
 - [Interviewed students valued idea generation and peer evaluation but reported difficulties with editing checklists and unhelpful peer feedback](mixed-interview-perceptions-peer-evaluation.md) — related
+- [Most teachers experienced participants' cameras being off as negatively affecting teaching and group process](online-mbp-cameras-off-negative-impact.md) — related

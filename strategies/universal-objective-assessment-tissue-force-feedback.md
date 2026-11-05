@@ -50,6 +50,7 @@ The review concludes that focused training on tissue handling, manipulation, and
 ## Related Strategies
 
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
+- [Pursue AI-based and console-data evaluation platforms for assessing novice robotic surgical skill](ai-based-robotic-skill-evaluation-strategy.md)
 
 ## Examples
 -

@@ -56,3 +56,4 @@ Analysis of coded withdrawal reasons from online courses over two years, after c
 - [Online continuing education courses show lower persistence than comparable onground courses (79% vs 84%) over eight quarters](online-continuing-education-persistence-lower-than-onground.md) — related
 - [Nurses generally report satisfaction with e-learning in continuing education, though dissatisfaction arises from technical difficulties and preference for face-to-face formats](nurse-satisfaction-e-learning-ce-mixed-drivers.md) — related
 - [Disappearing students complicated maintaining constructivist groups in the online course](disappearing-students-online-group-work.md) — related
+- [Time constraints were the most frequent reason participants dropped out of online MBP courses](online-mbp-dropout-time-constraints.md) — related

@@ -49,3 +49,5 @@ ANOVA of post-test MCT scores for the four groups (between groups sum of squares
 - [Post-test MCT mean scores were higher for the two ELA groups (35.53 and 32.79) than for the two CTM groups (25.83 and 24.98)](ela-post-test-mct-means-higher.md) — a narrower finding that bears on this claim
 - [A one-way ANOVA on post-test scores confirmed a statistically significant difference between the practical-work and conventional groups (F = 4.21, p = 0.016)](anova-confirms-practical-work-post-test-difference.md) — related
 - [Reported average simulated-training duration for PTED is only about 22.8 hours, with no significant difference across experience levels](pted-simulated-training-averages-22-8-hours.md) — related
+- [Moral competence diverges by fifth year: psychology students score higher than medical students, with a significant field-by-year interaction](moral-competence-declines-medical-students-fifth-year.md) — related
+- [No statistically significant differences in moral competence between online and paper-based test administration](no-format-effect-online-paper-moral-competence.md) — related

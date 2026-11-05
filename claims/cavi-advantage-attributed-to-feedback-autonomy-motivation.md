@@ -50,3 +50,4 @@ Authors' interpretation in the Discussion section, not a tested result: they off
 - [CAVI and TVI groups were equivalent in target vocabulary knowledge before the experiment](cavi-tvi-pretest-equivalence.md) — related
 - [The study's findings are limited to female Iranian pre-university students at one public school, with psychological factors unexamined](vfc-study-scope-limitations.md) — related
 - [Small sample size and slight pretest imbalance may have masked potential positive effects of computer games](small-sample-limits-game-effect-detection.md) — related
+- [The games' knowledge gains are attributed to the single game element of rules and goals, with competition intentionally omitted over anxiety concerns](rules-and-goals-element-attributed-gains-competition-omitted.md) — related

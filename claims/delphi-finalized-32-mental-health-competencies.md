@@ -56,3 +56,4 @@ Modified Delphi study reporting final voting outcomes. The abstract states "Foll
 - [Participants proposed 103 additional competencies in round one, of which 90 (87.4%) achieved consensus in round two](delphi-90-of-103-participant-suggested-competencies-achieved-consensus.md) — related
 - [Expert panel consensus (seven experts, ≥80% agreement rule) endorsed the refined EA framework structure](expert-consensus-ea-framework.md) — related
 - [A three-round e-Delphi panel of 19 experts from 6 European countries achieved consensus on 58 core teamwork competencies for community-based interprofessional teams, grouped into five areas](edelphi-consensus-58-cbit-competencies.md) — related
+- [A three-round Delphi panel of 30 Korean experts derived six core shared competencies for physician–nurse collaboration in primary care, all meeting consensus criteria](delphi-six-shared-competencies-primary-care.md) — related

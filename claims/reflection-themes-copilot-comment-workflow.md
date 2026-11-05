@@ -65,3 +65,4 @@ LLM-assisted four-round thematic analysis of end-of-activity reflections (Table 
 - [The predominant student evaluation of LLMs (42%) is positive but conditional on the student's own verification work](students-positive-with-caveat-llm-evaluation.md) — related
 - [Students report that GenAI's immediate feedback enabled iterative learning and low-stakes practice, the dominant qualitative themes of the intervention](iterative-feedback-low-stakes-practice-themes.md) — related
 - [Students' overreliance on generative AI can limit development of critical thinking skills when AI replaces rather than scaffolds learner reasoning](generative-ai-overreliance-limits-critical-thinking-development.md) — related
+- [AI-driven (Julius AI) and human thematic analyses of learner narrative comments agreed on 74% of statements, with disagreement driven by the AI assigning multiple themes](ai-human-thematic-analysis-convergence-74-percent.md) — related

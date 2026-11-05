@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: reichert-et-al-2015
     resource: "https://doi.org/10.5408/14-055.1"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the experimental group, use of the pattern-matching misconception for maximum stock levels fell from 90% on the pretest to 59% on the posttest (a 31% drop), versus a 9% drop in controls; the majority still relied on it. [→ Reichert et al. 2015](#reichert-et-al-2015)

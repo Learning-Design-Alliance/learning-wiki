@@ -58,3 +58,4 @@ The paper cites a University of Pennsylvania Graduate School of Education study 
 - [The 2007 open course design allowed anyone to participate and prefigured the first MOOC](open-course-design-prefigured-moocs.md) — related
 - [Adult learners take MOOC courses for six stated reasons, including topical interest and viewing lurking as learning](six-reasons-adult-learners-take-moocs.md) — related
 - [AI voice cloning maintains student engagement comparable to traditional audio recording](ai-voice-cloning-maintains-engagement.md) — a narrower finding that bears on this claim
+- [Only 23.1% of registrants attended all four sessions, with a 26.6% dropout rate](low-completion-voluntary-course.md) — a narrower finding that bears on this claim

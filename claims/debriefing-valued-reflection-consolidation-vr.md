@@ -54,3 +54,4 @@ Thematic analysis under the ITEM debriefing domain of interviews with 11 medical
 - [The review reports that embedded analytics, timely feedback, and structured reflection strengthen conceptual consolidation and learning gains](analytics-feedback-reflection-strengthen-learning-gains.md) — related
 - [Formative participants preferred post-session debriefing over in-session interruption, with timing treated as contingent on error severity](feedback-timing-post-session-debrief-preference.md) — related
 - [Students identified hands-on learning, debriefing and facilitator continuity as the key beneficial features of the pre-foundation simulation course](simulation-course-features-hands-on-debriefing-continuity.md) — related
+- [Students viewed the debrief and structured reflection following the group simulation assessment as beneficial to their professional development](debrief-reflection-benefited-professional-development.md) — related

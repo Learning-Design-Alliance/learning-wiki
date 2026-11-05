@@ -9,7 +9,7 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 newest_evidence: 2025
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 recheck_by: 2028
 sources:
   - id: caskurlu-2025
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In studies comparing classifiers, random forest was chosen for best performance, including detecting guessing behaviours with motion features. [→ Caskurlu 2025](#caskurlu-2025)
@@ -80,3 +80,4 @@ The review reports that Shin et al. (2020) compared logistic regression, support
 - [A learning analytics student model discriminates between trained and untrained students in VR lineworker training maneuvers](la-student-model-discriminates-trained-untrained-vr-lineworkers.md) — related
 - [Random Forest is the best classifier for discriminating trained from untrained VR trainees](random-forest-best-classifier-vrts-student-model.md) — related
 - [Random Forest most accurately predicts novices' visual behavior levels from CV-DL-extracted metrics, with fixation rates on objects and tool speed as key predictors](random-forest-predicts-visual-behavior-levels.md) — a narrower finding that bears on this claim
+- [Random Forest is the best-performing classification model for predicting postgraduate public health students' CGPA category, with 71.43% accuracy and AUC 0.87](random-forest-best-classifier-ap.md) — related

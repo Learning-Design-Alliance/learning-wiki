@@ -9,7 +9,6 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2024
-source_checked: 2026-11-01
 sources:
   - id: jacqueline-żammit-2024
     resource: "https://doi.org/10.1007/s11423-024-10375-9"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2024 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 11 teachers reported VR needs further development, citing lack of consistent Wi-Fi and voice-recognition audio issues, and six educators said VR could create challenges during lessons requiring balance with traditional techniques. [→ Jacqueline Żammit 2024](#jacqueline-zammit-2024)
@@ -70,3 +69,4 @@ Focus-group findings (Further development theme, 11 codes). Teachers cited Wi-Fi
 - [Medical students reported system usability barriers to VR training involving headset accessibility, technical issues, and limited scenario variability](vr-training-usability-barriers-medical-students.md) — related
 - [External and internal barriers, including cybersickness, logistics, workload and lack of time, limited residents' use of VR simulation](barriers-limit-residents-vr-use.md) — related
 - [Participants raised financial cost of VR headsets as a barrier to sustainable adoption, though not deterring acceptance](vr-financial-burden-sustainability-concern.md) — related
+- [By 2024 more than one-third of simulation sessions used VR and AI tools, and students reported engagement and scenario recall gains of over 30% compared with non-electronic learning](vr-ai-simulation-engagement-recall.md) — related

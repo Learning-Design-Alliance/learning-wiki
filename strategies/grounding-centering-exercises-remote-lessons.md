@@ -52,6 +52,7 @@ The brief recommends that educators "Begin interactions and lessons with groundi
 - [Screen lessons, texts, activities, and videos in advance to ensure they are not activating for students and families](screen-materials-for-activating-content.md)
 - [Deliver scalable socio-emotional support in ITSs via LLM-based mindful chat, breathing exercises, and mindful hint language](llm-mindfulness-layer-in-its.md)
 - [Structure sensory-room lessons in stages: affirmation-based opening, relaxation, activation exercises, and reflection](sensory-room-lesson-stage-structure.md)
+- [Innovative continuing education formats including patients and families, videos, remote classes, interactive games and smart devices](innovative-formats-soft-skill-education.md)
 
 ## Examples
 -

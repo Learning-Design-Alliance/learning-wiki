@@ -97,3 +97,5 @@ Participant quotation (FG 10, P 4) illustrating the emotional risk common to bot
 - [Evidence that higher simulation fidelity yields better learning outcomes is mixed, while the affective component of SBE is under-attended](sbe-fidelity-outcomes-mixed-emotions-underattended.md) — related
 - [Negative activating emotions dominate debriefing emotion talk despite positive activating emotions being most reported in the SERQ](debriefing-emotion-discussion-gap.md) — related
 - [Participants reported VR assessment environments may reduce anxiety compared with physical assessment settings](vr-assessment-reduces-performance-anxiety.md) — related
+- [Most teachers experienced participants' cameras being off as negatively affecting teaching and group process](online-mbp-cameras-off-negative-impact.md) — related
+- [Learning alongside peers in a group-based simulation assessment reduced assessment-related anxiety for most students, though some still felt overwhelmed](peer-support-reduced-assessment-anxiety-mixed.md) — related

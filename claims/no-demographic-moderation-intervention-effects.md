@@ -56,3 +56,4 @@ Exploratory moderation analyses reported in Results: for each hypothesis, mixed 
 - [The overcoming-barriers intervention does not reduce perceived time-and-effort cost of retrieval practice at either time point](overcoming-barriers-intervention-no-perceived-cost-reduction.md) — related
 - [On the final exam, interleaving reduced gaps for URM students, first-generation students, students with lower mother's education, and students with weaker high school mathematics preparation](interleaving-reduces-prior-knowledge-gaps-final-exam.md) — related
 - [SDL modality and teacher role do not significantly moderate SDL effectiveness](sdl-modality-teacher-role-no-significant-moderation.md) — related
+- [The multiple identity intervention did not significantly buffer the stereotype threat effect: the three-way interaction was nonsignificant](multiple-identity-priming-no-three-way-buffering.md) — related

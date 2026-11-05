@@ -52,3 +52,5 @@ End-of-semester survey of students in the gamified course. "Seventy-two percent 
 - [Students most often attributed OrCheTaboo's contribution to retention in learning, followed by fun learning, association between concepts, and increased motivation](orchetaboo-perceived-contribution-categories.md) — related
 - [Students in two gamified undergraduate media studies courses reported high enjoyment and that gamification held their attention at mid-course and term end](gamified-media-courses-high-enjoyment-attention.md) — related
 - [Students' views on the animated 5E activities clustered around active learning, motivation and enjoyment, with time demands as the main disadvantage](student-views-animated-5e-advantages.md) — related
+- [Most surveyed medical students perceived the pharmacology games as enjoyable and effective for understanding concepts](students-perceive-games-enjoyable-effective.md) — related
+- [Seventy percent of surveyed students believed they learned better from the gaming format than from didactic lectures, and most favored reward points for game activities](students-prefer-games-over-lectures-points.md) — related

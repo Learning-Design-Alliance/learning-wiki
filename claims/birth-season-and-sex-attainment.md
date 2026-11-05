@@ -50,3 +50,4 @@ Adjusted GEE models from the national cohort. The quote reports the season-of-bi
 - [More than half of very preterm children do not meet expected school readiness or attainment levels at ages 5 to 7 years](half-very-preterm-below-expected-attainment.md) — related
 - [Neonatal brain injuries, particularly periventricular leukomalacia and hydrocephalus, show the highest odds of educational underattainment](neonatal-brain-injury-highest-odds-underattainment.md) — related
 - [Preterm comorbidities — necrotizing enterocolitis, retinopathy of prematurity, and bronchopulmonary dysplasia — are associated with higher odds of poor outcomes, while sepsis shows no association](preterm-comorbidities-attainment.md) — related
+- [Numeracy was the consistently weakest domain for children with high-grade IVH throughout school age](high-grade-ivh-numeracy-weakness.md) — related

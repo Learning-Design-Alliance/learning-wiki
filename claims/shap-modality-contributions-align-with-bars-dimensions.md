@@ -49,3 +49,4 @@ SHAP attributions aggregated to the modality level and normalized within each of
 - [Adult learners using the closed-loop ITS improved significantly across all seven BARS presentation dimensions over a 30-day practice window (Cohen's d = 0.39–0.90)](its-prepost-gains-all-seven-bars-dimensions.md) — related
 - [Multimodal XGBoost models achieved rubric-aligned scoring comparable to expert ratings, and no single modality approached multimodal performance](multimodal-xgboost-expert-comparable-scoring.md) — related
 - [Facial features of negative emotions predict low rapport, but additional modalities added no predictive power](facial-features-low-rapport-no-added-modalities.md) — related
+- [An XGBoost model predicted post-class test performance well, with knowledge mastery and learning interest the strongest SHAP contributors](xgboost-shap-knowledge-mastery-interest-predictors.md) — related

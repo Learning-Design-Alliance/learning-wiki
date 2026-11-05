@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2019
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: ghorbani-2019
     resource: "https://eric.ed.gov/?id=EJ1220802"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2019 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After 10 treatment sessions (45 minutes of each 90-minute class, September 22 to November 9, 2013), the experimental group taught with phonetic transcription scored significantly higher on word stress identification than the control group taught by listening and repetition. [→ Ghorbani 2019](#ghorbani-2019)

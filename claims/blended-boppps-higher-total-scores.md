@@ -73,3 +73,4 @@ Meta-analysis of 13 randomized controlled trials with 2030 students pooling tota
 - [BOPPPS-flipped classroom reform is linked to significantly higher final examination scores and a distribution shift toward higher grade intervals](boppps-flipped-higher-final-exam-scores.md) — a narrower finding that bears on this claim
 - [Nurse anesthesia students taught with the BOPPPS model outperform traditionally taught peers on post-test knowledge and clinical skills in pre-anesthesia care](boppps-posttest-knowledge-skills-superiority.md) — related
 - [Intervention students reported exceptionally high satisfaction with BOPPPS-based pre-anesthesia care training (48.53 of 50)](boppps-high-satisfaction.md) — related
+- [Undergraduate students taught with the Sim + LBL hybrid model achieved higher total post-class test scores than students taught with traditional LBL in dermatology and venereology](sim-lbl-higher-total-post-class-scores.md) — related

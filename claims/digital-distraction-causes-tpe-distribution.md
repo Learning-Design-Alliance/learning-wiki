@@ -69,3 +69,4 @@ The review's narrative synthesis of the 26 studies reports that within technolog
 - [Proposed prevention strategies for digital distraction divide into classroom environment regulations (41.03%), technology controls (30.77%), and personal behavioral interventions (28.21%)](digital-distraction-prevention-strategy-distribution.md) — related
 - Digital distraction research is predominantly quantitative (69.23%), focused on higher education (92.3% of studies), and relies mainly on surveys — related
 - Digital distraction research is concentrated in the United States and peaked in publication years 2020 and 2023 — related
+- [In the 2024 survey sample, 37.08% of students showed technology addiction and 63.15% reported poor academic performance](prevalence-tech-addiction-poor-performance-445-latin-american-students.md) — related

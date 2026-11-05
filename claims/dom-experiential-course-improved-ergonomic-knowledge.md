@@ -68,3 +68,4 @@ Same paired pretest-posttest study; the multiple-choice posture-identification i
 - [Better post-course postural performance correlated strongly and negatively with belief in ergonomics' effectiveness for pain relief (r = -0.624)](dea-score-negative-correlation-belief-ergonomics-efficacy.md) — related
 - [Post-course postural performance was favorable, with a mean overall Dental Ergonomics Assessment score of 1.45](post-course-dea-postural-performance-favorable.md) — related
 - [Participant satisfaction was exceptionally high, with 100% satisfied with course content and all satisfaction means significantly above the neutral midpoint](high-satisfaction-microscope-ergonomics-course.md) — related
+- [Providers' HBB knowledge scores rose significantly from pre-training to immediately post-training after HBB training, in one uncontrolled pre-post study](hbb-training-increases-provider-knowledge-immediately.md) — related

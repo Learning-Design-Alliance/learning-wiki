@@ -52,3 +52,4 @@ Structural equation modeling in AMOS on data from 505 participants, with demogra
 - [Creative thinking is positively associated with experiential learning among knowledge management professionals](creative-thinking-positively-associated-experiential-learning.md) — related
 - [Creative thinking is positively associated with organizational maturity among knowledge management professionals](creative-thinking-positively-associated-organizational-maturity.md) — related
 - [Experiential learning is strongly positively associated with organizational maturity](experiential-learning-strongly-associated-organizational-maturity.md) — a narrower finding that bears on this claim
+- [Attitude partially mediates the relationship between knowledge and practice in structural equation modelling](attitude-partially-mediates-knowledge-practice.md) — related

@@ -67,6 +67,7 @@ The strategy combines two well-supported mechanisms: retrieval practice from the
 - [Use IRAT as an indicator of subsequent assessment performance and exam-condition practice in pharmacy calculations](irat-as-subsequent-assessment-indicator-strategy.md)
 - [Challenge the challenger: students create group quiz questions and challenge the opposing group to answer them](challenge-the-challenger-technique.md)
 - [Run a team-based answer-until-correct scratch-off review before exams](team-ifat-consensus-review-strategy.md)
+- [Coach students to flag rather than answer difficult items, return after completing the exam, and review all questions — not just missed ones — in one-on-one reviews](flag-and-return-answer-review-all-items.md)
 
 ## Examples
 - **University of British Columbia / Carl Wieman Science Education Initiative** — two-stage midterm and final exams adopted across physics, chemistry, and biology courses; group stages typically worth 15–25% ([cwsei.ubc.ca](https://cwsei.ubc.ca)).

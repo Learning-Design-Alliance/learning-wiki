@@ -53,3 +53,4 @@ Multivariable linear regression with HC3 robust standard errors on 500 participa
 - [Clinical-year students at Syrian medical schools have higher CPR knowledge than pre-clinical students after adjustment](clinical-year-higher-cpr-knowledge-syria.md) — related
 - [Students at public Syrian universities show higher CPR and MI knowledge than private-university peers after adjustment](public-university-higher-cpr-mi-knowledge-syria.md) — related
 - [Males scored significantly lower than females on skills scores one year after implementation, independent of other factors](males-lower-one-year-skill-scores.md) — reports the opposite
+- [Female gender, administrative position and lecture attendance independently predict adequate enteral nutrition knowledge](independent-factors-adequate-en-knowledge.md) — related

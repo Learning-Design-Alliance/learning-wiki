@@ -51,3 +51,4 @@ A single-group pretest-posttest study of 57 nursing students. Paired-samples t-t
 - [Simulation-based CARE handover training produces a large increase in nurses' perceived handover competency from pretest to posttest](simulation-care-training-increases-perceived-handover-competency.md) — related
 - [Total self-reported ICCAS scores rose significantly from pre-test to post-test after the simulation intervention in one uncontrolled pre-post study](sbl-total-iccas-significant-increase.md) — related
 - [Within the simulation group, total self-confidence rose significantly from pretest to posttest (d = 0.693)](hfs-within-group-selfconfidence-increase-d0693.md) — related
+- [Structured US-PIVC simulation training produces statistically significant pre-to-post confidence improvements across all measured learning outcomes, with large effect sizes (r = 0.63–0.87).](us-pivc-training-large-confidence-gains.md) — related

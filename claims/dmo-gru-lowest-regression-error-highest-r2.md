@@ -51,3 +51,4 @@ Regression comparison across Linear Regression, Random Forest, SVR, XGBoost and 
 - [TRACE outperforms LSTM, GNN and XGBoost baselines on grade prediction](trace-outperforms-lstm-gnn-xgboost.md) — related
 - [GRU is the lowest-performing model across both single-task and multi-task competency modeling, likely due to its two gating units versus LSTMs' three](gru-lowest-performing-competency-model.md) — reports the opposite
 - [In static concurrent prediction, TabPFN outperformed Random Forest, XGBoost and Linear Regression across the four emotional and proficiency targets](tabpfn-outperforms-baselines-static-concurrent-prediction.md) — related
+- [Ensemble (Soft Voting) is the best regression model for predicting postgraduate public health students' CGPA, with the lowest MAE (0.3383), lowest RMSE (0.4316) and highest R² (0.3832)](ensemble-soft-voting-best-regression-ap.md) — related

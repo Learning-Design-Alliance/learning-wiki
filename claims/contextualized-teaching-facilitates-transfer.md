@@ -133,3 +133,4 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 - [Students report that the VR learning resource helps translate theoretical knowledge into practical skills and increases attention to family-focused care](vr-translation-theory-into-practical-skills.md) — a narrower finding that bears on this claim
 - [Facilitators reported professional and personal rewards from delivering the intervention, including transferable communication skills](facilitator-rewards-transferable-communication-skills.md) — related
 - [Participants described standardized clinical scenarios in VR as promoting objectivity and uniformity in clinical training and assessment](vr-standardized-scenarios-objectivity-uniformity.md) — related
+- [Technology-enhanced simulation improves knowledge, procedural skills, teamwork behaviors, and transfer to practice](simulation-improves-knowledge-skills-teamwork-transfer.md) — related

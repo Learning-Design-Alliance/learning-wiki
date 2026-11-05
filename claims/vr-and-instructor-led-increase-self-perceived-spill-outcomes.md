@@ -92,3 +92,4 @@ First-phase changes in Cohort 2 (n = 20) after VR simulation-based training, fro
 - [VR training increased confidence on all 4 perceived competence scale items, while small group training increased only 2 of 4](vr-confidence-gains-all-pcs-items.md) — reports the opposite
 - [Self-reported perceived competence scores among paramedic students were significantly higher after simulation-based education than before it across all assessed skill areas, in one uncontrolled pre-post study](simulation-training-increased-perceived-competence.md) — related
 - [Simulation training in VR or HFS significantly improves medical interns' self-reported confidence in managing oxygen desaturation](vr-hfs-desaturation-confidence-gain.md) — related
+- [A tailored SIMBA programme significantly increases LEDs' self-reported confidence in managing acute medical scenarios, with greater gains in simulated than non-simulated cases](simba-boosts-led-confidence-acute-care.md) — related

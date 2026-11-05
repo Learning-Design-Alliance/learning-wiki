@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2013
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: michael-r-vitale-nancy-r-romance-2013
     resource: "https://eric.ed.gov/?id=ED563063"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2013 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A 2-level HLM analysis found a significant cross-level Treatment x Grade interaction for ITBS Vocabulary, t(1348) = 1.99, p < .04, and a significant combined Treatment plus interaction effect, Chi-Square (2df) = 11.43, p < .0003. [→ Michael R. Vitale & Nancy R. Romance 2013](#michael-r-vitale-nancy-r-romance-2013)

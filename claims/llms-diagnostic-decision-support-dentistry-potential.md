@@ -50,3 +50,4 @@ Authors' interpretation of benchmark results showing top models achieved perfect
 - [Gemini 2.5 Pro achieved the highest accuracy (92.44%) on pediatric dentistry DUS questions, significantly outperforming most other LLMs](gemini-2-5-pro-highest-accuracy-pediatric-dus.md) — a narrower finding that bears on this claim
 - [GPT-4 examination accuracy is moderated by item type: multi-step vignettes (61–71%) and image-dependent items (48–63%) fall well below single-fact recall (83–88%)](gpt4-accuracy-item-type-moderators.md) — reports the opposite
 - [Several LLMs achieved 100% accuracy on knowledge-based topics including restorative procedures, periodontal diseases, and local anesthesia](llms-perfect-accuracy-knowledge-based-topics.md) — related
+- [State-of-the-art LLMs matched the top-performing third of expert psychiatrists on the same SSD vignettes](llms-match-top-third-expert-diagnosticians.md) — related

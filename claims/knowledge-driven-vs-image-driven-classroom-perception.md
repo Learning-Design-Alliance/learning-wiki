@@ -10,7 +10,7 @@ generated:
   at: 2026-10-18
 evidence_strength: weak
 newest_evidence: 2020
-source_checked: 2026-10-22
+source_checked: 2026-11-05
 recheck_by: 2025
 sources:
   - id: charlotte-e-wolff-2016
@@ -35,7 +35,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 associational `r1`, 1 theoretical `r3` · `q1`–`q2`
-> **Currency** · newest study 2020 · checked against its sources 2026-10-22 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
+> **Currency** · newest study 2020 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 

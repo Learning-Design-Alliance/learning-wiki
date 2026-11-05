@@ -159,3 +159,5 @@ This was a single-group, cross-sectional observational pilot (19 residents) with
 - [Playing Losing the Lake significantly increased seventh graders' objective-test content knowledge relative to a control group viewing an earth science website](losing-the-lake-objective-test-gains.md) — a broader claim this one bears on
 - [Computer game-based instruction produced significantly better nutrition knowledge than multimedia PowerPoint instruction in third graders](game-based-nutrition-knowledge-better-than-powerpoint.md) — a broader claim this one bears on
 - [Inhibition performance improved significantly from pretest to posttest within the situational training game condition](situational-games-within-group-inhibition-gain.md) — related
+- [Card game responses are equitable across most awarding-gap factors, with mixed POLAR4 findings](card-games-equitable-across-awarding-gap-factors.md) — related
+- [Medical students who played weekly open-access pharmacology games showed significant pretest-to-posttest score improvement, while control students did not](pharmacology-games-significant-posttest-gain.md) — related

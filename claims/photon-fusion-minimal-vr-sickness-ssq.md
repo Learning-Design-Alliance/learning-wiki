@@ -61,3 +61,5 @@ SSQ administered after the lab session; Table I reports nausea 3.18 (SD 4.77), o
 - [Simulator sickness was low (median SSQ 1.9) with no serious adverse events](ncpr-vr-low-simulator-sickness.md) — related
 - [Participants rated the VR learning experience positively with minimal cybersickness, yet most did not prefer VR over prosection as a drawing reference](vr-satisfaction-but-not-preferred-reference.md) — related
 - [Cybersickness during short VR bellringer testing was minimal and unrelated to VR or total exam performance](cybersickness-minimal-unrelated-br-performance.md) — related
+- [Ocular discomfort after EyeSi VR simulation is mild and infrequent](eyesi-vr-mild-ocular-discomfort.md) — related
+- [Cognitive load and cybersickness correlate negatively with sense of relevance and confidence in VR anatomy learning, though cybersickness was rare in this cohort](vr-cognitive-load-cybersickness-negative-correlations.md) — related

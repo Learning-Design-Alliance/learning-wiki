@@ -50,3 +50,4 @@ Pre-test/post-test analysis of 15 non-MDs (respiratory therapists and nurses) us
 - [Participants were highly satisfied with the workshop and all would recommend it to colleagues](bronchoscopy-workshop-high-satisfaction.md) — related
 - [Delegates who stayed for extra practice all successfully navigated the bronchoscope to specified bronchopulmonary segments](bronchoscopy-workshop-informal-skill-assessment.md) — related
 - [Bronchoscopy manipulation skills may decay over time, necessitating periodic practice to maintain proficiency](bronchoscopy-skill-decay-periodic-practice.md) — related
+- [Newly employed respiratory therapists show critical competency gaps (over 300%) in ECMO and lung ultrasound relative to mandatory-competency standards](critical-competency-gaps-ecmo-lung-ultrasound-rt.md) — related

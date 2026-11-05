@@ -54,3 +54,4 @@ Cluster-randomized controlled study of 328 fourth-year medical undergraduates in
 - [Integrated model improves all seven Mini-CEX domains, largest gain in physical examination](microskills-cptm-minicex-all-domains.md) — related
 - [PBL-DeepSeek students show higher Mini-CEX clinical competence across all seven domains than traditionally taught students](deepseek-pbl-minicex-clinical-gains.md) — related
 - [Non-dentistry undergraduates prioritize learning oral pathologies and diagnostic thinking over basic oral procedural skills in their stomatology clerkship](non-dental-students-prioritize-diagnostic-over-procedural-skills.md) — related
+- [Medical students taught under the reformed biochemistry model (stomatology cohorts) earned significantly higher final-exam grades than traditionally taught peers (clinical medicine cohorts) across 2020–2022, with mean differences of 2.76–3.92 points](biochem-reform-higher-exam-scores-three-cohorts.md) — related

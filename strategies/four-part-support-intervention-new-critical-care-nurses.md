@@ -54,6 +54,7 @@ The article recommends that nursing managers adopt targeted interventions to red
 - [Combine professional development with organizational and system-level interventions to strengthen medication safety competence](combined-professional-development-and-system-level-interventions.md)
 - [Formalize clinical peer-mentorship programs pairing senior staff with junior nurses](peer-mentorship-junior-nurses-wound-care.md)
 - [Incorporate obstetric emergency simulation modules with structured personalised feedback into critical care nursing programmes](obstetric-emergency-simulation-personalised-feedback-critical-care.md)
+- [Deliver targeted educational interventions combining e-learning, mentorship and simulation-based training, prioritising nurses with knowledge deficits](targeted-en-educational-interventions.md)
 
 ## Examples
 -

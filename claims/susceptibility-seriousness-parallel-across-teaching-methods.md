@@ -51,3 +51,4 @@ Repeated measures ANOVA on the susceptibility (five items) and seriousness (seve
 - [Knowledge and belief gains decayed from immediate post-test to 4-week follow-up regardless of teaching condition](post-test-to-follow-up-decay-regardless-of-condition.md) — related
 - [All Health Belief Model subscale scores increased significantly after the educational intervention (p=0.000)](bse-education-improved-health-belief-subscales.md) — related
 - [Knowledge gains were consistent across breast cancer signs, risk factors, and screening domains.](bc-knowledge-gains-consistent-across-domains.md) — related
+- [The PBL-KAP-AI model improves health beliefs in breast cancer patients more than conventional health education](pbl-kap-ai-improves-health-beliefs.md) — reports the opposite

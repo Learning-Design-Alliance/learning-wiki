@@ -52,3 +52,4 @@ Simple linear regression analysis of 66 medical interns' scores against demograp
 - [Teacher ratings of language and reading skills correlate significantly with PSP-1 total scores, whereas grade point average does not](teacher-ratings-correlate-psp1-gpa-does-not.md) — related
 - [Male interns scored higher than female interns on oral disease diagnostic performance (p = 0.003), a difference the authors urge interpreting cautiously](male-interns-higher-oral-diagnosis-scores-p003.md) — related
 - [Medical interns demonstrate suboptimal diagnostic performance in oral diseases, averaging 7.14 ± 2.9 on a 0–20 scale](medical-interns-suboptimal-oral-disease-diagnostic-performance.md) — related
+- [The authors report no direct correlation between older age or greater professional experience and correct diagnosis, with accurate diagnoses evenly distributed across medical students and nurses](no-background-correlation-with-correct-diagnosis.md) — related

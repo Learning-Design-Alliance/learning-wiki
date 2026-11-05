@@ -9,7 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2015
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: pavlik-jr-2015
     resource: "https://doi.org/10.1007/s40593-015-0039-y"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a model restricted to trials 3–16, all failure learning and transfer parameters were not statistically different from 0 at p<.05 (e.g., LCM→Product failure transfer .006, p=.88; Product→LCM -.11, p=.057). [→ Pavlik Jr 2015](#pavlik-jr-2015)

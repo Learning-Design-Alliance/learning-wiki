@@ -70,3 +70,4 @@ Covariate-adjusted linear regression with HC3 robust standard errors on OSCE tot
 - [Modified Mini-CEX combined with SBAR teaching improves clinical skills scores but not theoretical exam scores](mini-cex-sbar-improves-clinical-skills-not-theory.md) — related
 - [Modified Peyton’s four-step approach yields higher immediate post-training OSCE scores than traditional Peyton in resident clinical skills training](modified-peyton-higher-immediate-osce.md) — related
 - [WBLP students achieve higher total OSCE clinical competence scores than standard-clerkship controls](wblp-higher-total-osce-scores.md) — related
+- [A virtual 4-week urology course for sub-interns significantly increased confidence and knowledge at seven-month follow-up](virtual-urology-course-sub-interns-outcomes.md) — related

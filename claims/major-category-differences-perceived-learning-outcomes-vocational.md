@@ -47,3 +47,4 @@ One-way ANOVA across major categories in the 1110-response survey, drawn from 18
 ## Related Claims
 - [Perceived learning outcomes differ across grades only in the skill application dimension, with first-year students scoring significantly higher than second-year students](grade-differences-limited-to-skill-application-first-year-higher.md) — related
 - [No statistically significant gender differences in perceived learning outcomes across any dimension among higher vocational students](no-gender-differences-perceived-learning-outcomes-vocational.md) — related
+- [Responses are equitable across foundation year programme types, except lower enjoyment among biology and wildlife students versus chemical science students](card-games-equitable-across-programme-types.md) — related

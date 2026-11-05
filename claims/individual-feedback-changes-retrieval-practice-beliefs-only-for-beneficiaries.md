@@ -9,7 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2021
-source_checked: 2026-10-22
+source_checked: 2026-11-05
 sources:
   - id: luotong-hui-2021
     resource: "https://doi.org/10.1007/s10648-021-09604-x"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q3` · `i2` medium
-> **Currency** · newest study 2021 · checked against its sources 2026-10-22 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Students who obtained a higher score after retrieval practice rated retrieval practice as more effective after individual feedback (t(24) = 4.26, p < .001, d = .56). [→ Luotong Hui 2021](#luotong-hui-2021)

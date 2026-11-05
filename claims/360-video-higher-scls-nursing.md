@@ -50,3 +50,4 @@ ANCOVA on SCLS posttest scores in the same quasi-experiment showed "SCLS (F1,35=
 - [Screen-based 360° contextual simulation videos yield higher posttest Simulation Design Scale scores than dose-matched 2D instructional videos in undergraduate nursing students](360-video-higher-sds-nursing.md) — related
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — a broader claim this one bears on
 - [Students who experienced the virtual field trip via a 3D HMD scored higher on a delayed posttest roughly three weeks later than 2D-video students](hmd-virtual-field-trip-better-delayed-retention.md) — related
+- [Both SCLS sub-dimensions — student satisfaction and self-confidence in learning — show significant post-test advantages for the simulation group](screen-simulation-scls-subdimension-advantages.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2024
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 recheck_by: 2027
 sources:
   - id: spain-2024
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2024 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Adding training context and Command label clarification raised GPT-3.5 accuracy from 0.369 (coding sheet alone) to 0.600, and adding inter-class clarification further raised it to 0.631. [→ Spain 2024](#spain-2024)

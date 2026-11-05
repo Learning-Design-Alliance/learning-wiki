@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: stephanie-simmons-zuilkowski-benjamin-piper-2014
     resource: "https://eric.ed.gov/?id=ED562806"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2014 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A larger percentage of children met the MOE fluency benchmarks in treatment schools as a result of improved performance. [→ Stephanie Simmons Zuilkowski & Benjamin Piper 2014](#stephanie-simmons-zuilkowski-benjamin-piper-2014)

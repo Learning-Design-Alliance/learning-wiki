@@ -54,3 +54,4 @@ Gender-differentiated analysis of the AI-enhanced experimental group (Table 7; 3
 - [In the traditional-instruction control group, male students' scores rose significantly from pre-test to post-test, while female students' scores did not change significantly](control-group-gender-reversal-traditional-instruction.md) — reports the opposite
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
 - [AI-mediated active learning produces significantly larger EFL writing gains than traditional teacher-centered instruction in a 15-week quasi-experiment](ai-mediated-active-learning-writing-gains.md) — related
+- [Gender, age and SES correlate with EFL PsyCap, boredom, engagement and achievement](gender-age-ses-efl-outcomes.md) — related

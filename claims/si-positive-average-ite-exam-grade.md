@@ -9,7 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2018
-source_checked: 2026-10-27
+source_checked: 2026-11-05
 sources:
   - id: beemer-2018
     resource: "https://doi.org/10.1007/s40593-017-0148-x"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2018 · checked against its sources 2026-10-27 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Average ITE was 9.3 points (SE 1.48) on the 300-point final exam and 0.45 (SE 0.03) on the four-point course grade, both significantly greater than zero (p < 0.0001). [→ Beemer 2018](#beemer-2018)
