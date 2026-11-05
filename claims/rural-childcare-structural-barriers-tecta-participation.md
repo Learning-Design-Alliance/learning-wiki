@@ -58,3 +58,4 @@ Thematic analysis of focus groups with rural providers identified travel burden:
 - [Students value the UOC online model's flexibility for combining study with professional and personal life](flexibility-combine-study-work-life.md) — related
 - [Only one included study described technology-based teaching in a rural or remote clinical education setting, leaving rural implications unclear](rural-gap-one-study-tech-stroke-teaching.md) — related
 - [Educators perceived AR as an accessible learning tool for independent study offering an alternative for students who cannot attend class](ar-accessible-independent-study-perception.md) — related
+- [Internet access quality was a common material-access challenge, especially for rural mentees relying on cellular data](internet-quality-barrier-rural-mentees.md) — related

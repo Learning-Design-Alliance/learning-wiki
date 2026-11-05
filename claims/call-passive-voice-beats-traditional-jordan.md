@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2012
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: abdallah-m-abu-nabah-2012
     resource: "http://ijedict.dec.uwi.edu//viewarticle.php?id=1408"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2012 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Pupils taught the passive voice via computer scored significantly higher on the post-test than pupils taught the same item by the traditional method (F = 75.47, Sig. 0.000). [→ Abdallah M Abu Naba'h 2012](#abdallah-m-abu-nabah-2012)

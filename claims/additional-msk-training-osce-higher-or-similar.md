@@ -50,3 +50,4 @@ Synthesis of five included studies of supplemental MSK training formats (lecture
 - [Only a small fraction of published OSCE research in musculoskeletal and sport medicine was actually conducted in a Sport and Exercise Medicine setting](few-sem-setting-osce-studies-published.md) — related
 - [EyeSi virtual reality simulator training produces statistically higher OSCE scores than control in Boden et al.'s randomised trial](eyesi-simulator-higher-osce-scores-boden.md) — related
 - [Simulation training across medical and surgical scenarios yields significantly higher OSCE scores than didactic lectures across two year groups](simulation-higher-osce-scores-zhang.md) — related
+- [Facilitated interactive video and simulation-based training produce no statistically significant difference in 3-week BLS OSCE performance when both follow the same standardized lecture](bls-video-vs-simulation-osce-no-difference.md) — related

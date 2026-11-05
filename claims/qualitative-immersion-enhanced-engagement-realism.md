@@ -66,3 +66,4 @@ Semistructured interviews with all 54 experimental-group participants, analyzed 
 - [Participants perceived the AI-simulated patient interaction as authentic and potentially useful for shared decision-making training](perceived-authenticity-ai-sdm-chatbot.md) — related
 - [Structured debriefing is reported to enhance clinical skills and affect patient care outcomes](structured-debriefing-enhances-clinical-skills.md) — related
 - [An immersive anatomy education EMS placement fostered self-directed, active, experiential learning and enhanced motivation and clinical relevance of anatomy](anatomy-ems-quality-learning-theme.md) — related
+- [Student interviews attributed distinct perceived strengths to each modality: CI for diagnostic precision, VR for immersive realism, and CI + VR for combining both](interviews-distinct-modality-strengths.md) — related

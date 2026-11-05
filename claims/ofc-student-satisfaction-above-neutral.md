@@ -50,3 +50,4 @@ One-sample t-test on a 17-item satisfaction questionnaire (Cronbach's alpha = 0.
 - [Undergraduate students rate GenAI's usefulness for programming coursework significantly above neutral](genai-usefulness-perceptions-programming-positive.md) — related
 - [Flipped classroom residents report higher perceived teaching effectiveness in clinical skills, learning interest, self-learning, problem-solving, and team collaboration, but not theoretical knowledge](fc-higher-perceived-effectiveness-domains.md) — related
 - [Flipped classroom students achieved significantly higher mean pharmacology exam grades than traditional classroom students](fc-higher-mean-exam-grade-dental-pharmacology.md) — related
+- [Participant satisfaction was exceptionally high, with 100% satisfied with course content and all satisfaction means significantly above the neutral midpoint](high-satisfaction-microscope-ergonomics-course.md) — related

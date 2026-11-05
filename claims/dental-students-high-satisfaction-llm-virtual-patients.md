@@ -52,3 +52,4 @@ Cross-sectional feasibility study of 41 second-year dental students in 8 groups 
 - [Immersive VR-haptic and ITS modalities are more often associated with objective psychomotor and cognitive gains, while generative AI platforms are more often associated with affective outcomes](ads-modality-domain-patterns.md) — a broader claim this one bears on
 - [Simulation-based PBLS training increases caregiver confidence and satisfaction with training](simulation-pbls-increases-caregiver-confidence.md) — related
 - [Participants perceived the AI-simulated patient interaction as authentic and potentially useful for shared decision-making training](perceived-authenticity-ai-sdm-chatbot.md) — related
+- [INACSL-standard-based simulation training raises midwifery students' satisfaction compared with standard simulation training](inacsl-simulation-raises-midwifery-satisfaction.md) — related

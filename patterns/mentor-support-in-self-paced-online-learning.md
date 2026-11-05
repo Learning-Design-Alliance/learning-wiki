@@ -14,7 +14,7 @@ grain_size: course
 # Mentor Support in Self-Paced Online Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 109 claims (56 for, 47 mixed, 6 against) · 87 studies (20 causal, 17 associational, 14 review, 11 quant-synthesis, 10 qualitative, 8 theoretical, 7 design), `q1`–`q4` · 12 of 87 report an effect size · 99 claims rest on one study
+> **Evidence** · 110 claims (57 for, 47 mixed, 6 against) · 88 studies (20 causal, 17 associational, 14 review, 11 quant-synthesis, 10 qualitative, 8 design, 8 theoretical), `q1`–`q4` · 12 of 88 report an effect size · 100 claims rest on one study
 
 ## Description and scope
 
@@ -116,11 +116,13 @@ Ask for four facts when the brief omits them: **what is the mentor's caseload an
 - *How should a mentor's queue be served?* [new students first raised the share helped](../claims/nsf-strategy-increases-helped-students-busy-normal-queues.md) [+W]; [no change in resolved requests or wait](../claims/scheduling-strategy-no-effect-resolved-requests-wait-time.md) [~W]
 
 ## Further evidence, not yet read against this model
+
 Claims read against the model on 2026-10-19 that do not change it; each keeps the marker its recorded evidence allows. The other 31 claims once listed here are now used above. New links the linker adds below are still unread.
 
 - [Neurodivergent and neurotypical students both prefer some instructor involvement](../claims/nd-nt-prefer-some-instructor-involvement-in-person.md) [+W] — about collaborative active learning in in-person computing classes (comfort ratings, small survey); consistent with keeping a person involved, but it does not bear on contact or outreach in self-paced courses
 - [Checkpoints, definitions and staged pacing improved clarity for novice programmers using an AI tutor](../claims/checkpoints-and-definitions-improved-clarity.md) [+W] — about the design of an AI tutor's dialogue, which this page leaves to [AI Tutoring](ai-tutoring.md)
 - [Reflection interventions in higher education: medium average effect, varying with duration and peer interaction](../claims/reflective-practice-evidence-mixed-in-professional-education.md) [+M] — bears on reflection prompts a mentor might use in a check-in, but tests reflection activities, not mentor contact; it does not change the default
+- [Proactive engagement support (pre-session walkthrough calls and login monitoring) produced successful session logins](../claims/proactive-engagement-support-logins.md) [+W] — attached 2026-11-05 from Veinot Tiffany C (2026), which proposed "Plan engagement support (proactive pre-session calls and login monitoring) as part of technology support"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

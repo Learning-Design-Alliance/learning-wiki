@@ -9,7 +9,6 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 newest_evidence: 2021
-source_checked: 2026-10-18
 sources:
   - id: means-2021
     resource: "https://doi.org/10.51388/20.500.12265/116"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
-> **Currency** · newest study 2021 · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` In case study courses, online lab exercises appeared more effective in students' eyes when instructors were present online and used scaffolds and probes to direct attention to important aspects of the lab procedure. [→ Means 2021](#means-2021)

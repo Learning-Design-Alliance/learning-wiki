@@ -13,7 +13,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 140 claims (81 show a difference, 39 mixed, 20 no difference) · 113 studies (42 causal, 26 associational, 22 review, 12 quant-synthesis, 8 theoretical, 3 qualitative), `q1`–`q4` · 21 of 113 report an effect size · 132 claims rest on one study
+> **Evidence** · 142 claims (82 show a difference, 40 mixed, 20 no difference) · 114 studies (43 causal, 26 associational, 22 review, 12 quant-synthesis, 8 theoretical, 3 qualitative), `q1`–`q4` · 22 of 114 report an effect size · 134 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -183,6 +183,8 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Strategy instruction effects on word problem solving in children with math difficulties are moderated by working memory capacity, favoring high-WMC levels](../claims/wmc-moderates-strategy-instruction-md-word-problems.md) [+M] — an instructional effect differs with it
 - [BCP settings may increase cognitive load and psychotherapists report BCP is more tiring and strenuous than face-to-face psychotherapy](../claims/bcp-increases-cognitive-load-and-fatigue.md) [~M] — measured as an outcome of the instruction studied
 - [Learners reported high acceptability of MAPLE-CR, with questionnaire means of 4.19-4.62 on positively worded items but salient cognitive-load concerns](../claims/maple-cr-high-acceptability-cognitive-load.md) [~M] — measured as an outcome of the instruction studied
+- [AI-driven teaching paradigm reduces cognitive load measured by NASA-TLX](../claims/ai-paradigm-reduces-cognitive-load-nasa-tlx.md) [+M] — measured as an outcome of the instruction studied
+- [Cognitive load reduction is maximal when explainable guidance and adaptive scheduling are combined](../claims/cognitive-load-reduction-maximal-when-combined.md) [~M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

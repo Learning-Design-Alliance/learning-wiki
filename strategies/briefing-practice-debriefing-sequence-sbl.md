@@ -51,6 +51,8 @@ The article prescribes a session sequence: a pre-simulation briefing that explai
 - [Structured stepwise simulator training protocol: instructional video, console familiarization, then repeated dissection practice with and without force feedback](stepwise-simulator-training-protocol-vascular-dissection.md)
 - [Structure simulation training in four sequential phases: video instruction, expert demonstration, supervised practice, and formative feedback](four-phase-ldsrs-simulation-training-protocol.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
+- [DBSS session protocol: defect-identification exercise followed by GAS-framework debriefing](dbss-session-protocol-gas-debriefing.md)
+- [Structure AI virtual patient sessions with pre-briefing, a structured diagnostic guide, and case-specific debriefing](pre-briefing-debriefing-ai-virtual-patient-session.md)
 
 ## Examples
 -

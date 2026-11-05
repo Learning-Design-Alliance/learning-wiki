@@ -47,6 +47,7 @@ To address barriers including limited training resources, time constraints, and 
 ## Related Strategies
 
 - [Implement simulation-based refresher drills, visual job aids, mentorship champions, and stocked emergency kits for MgSO4 readiness](mgso4-competency-intervention-package.md)
+- [Pair VR haptic training with Entrustable Professional Activities (EPA) assessment to gauge trainee readiness for independent surgical practice](epa-assessment-for-vr-trainees.md)
 
 ## Examples
 -

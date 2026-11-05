@@ -57,3 +57,4 @@ Checklist-item analysis in the ten-caregiver pilot, where a successful attempt i
 - [Simulation-based PBLS training increases caregiver confidence and satisfaction with training](simulation-pbls-increases-caregiver-confidence.md) — related
 - [Simulation-based PBLS training significantly improves specific life-support skills including airway opening, rescue breathing, and chest compression quality](simulation-pbls-improves-specific-pbls-steps.md) — related
 - [Real-time feedback training improves the compression target and depth control in 30:2 CPR cycles](real-time-feedback-improves-compression-30-2-cycles.md) — a narrower finding that bears on this claim
+- [Step-level OSCE checklist performance is similar between video and simulation groups after Bonferroni correction](bls-osce-step-level-no-group-differences.md) — related

@@ -9,7 +9,6 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 newest_evidence: 2021
-source_checked: 2026-10-19
 sources:
   - id: dominguez-2021
     resource: "https://doi.org/10.51388/20.500.12265/119"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2021 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 > **Design limits** · Dominguez 2021: no comparison group; the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims

@@ -90,3 +90,4 @@ Independent samples t-test on pre-test scores in the quasi-experimental study (n
 - [The contextual and structural groups were statistically equivalent on the pretest before instruction](pretest-equivalence-contextual-structural-groups.md) — related
 - [Experimental and control groups showed no significant difference in numeracy and science achievement at pre-test](ict-preschool-pretest-equivalence.md) — related
 - [No significant difference in baseline pre-studying test scores between the 3D Model Group and the Textbook Image Group](no-baseline-score-difference-3d-vs-textbook-groups.md) — related
+- [The intervention and control groups did not differ significantly in GPA, supporting the intervention rather than baseline ability as the source of the competence difference](no-gpa-difference-between-groups.md) — related

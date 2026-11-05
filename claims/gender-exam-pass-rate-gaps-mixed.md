@@ -54,3 +54,4 @@ The review's synthesis of academic-achievement studies: two UK studies found low
 - [Female trainees report fewer operative cases and less operative experience than male trainees in several surgical specialties](gender-surgical-case-volume-gaps.md) — related
 - [Improvement in Orthopaedic In-Training Examination scores showed no significant correlation with OSCE scores](oite-improvement-no-osce-correlation.md) — related
 - [Lower socioeconomic background, older age, graduate-entry and non-professional parental background are associated with lower MRCS pass rates and more non-satisfactory ARCP outcomes](socioeconomic-age-background-attainment-gaps.md) — related
+- [Gender differences in grading outcomes within one pedagogy program are not uniform across assessment formats, appearing for bachelor theses but not for a written examination](assessment-format-moderates-gender-grade-gap.md) — related

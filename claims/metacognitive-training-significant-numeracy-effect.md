@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2019
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: gbenga-akanmu-jegede-2019
     resource: "https://doi.org/10.5430/wje.v9n1p221"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2019 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Meta-cognitive training produced a statistically significant difference in pupils' numeracy performance in a computer-mediated classroom. [→ Gbenga-Akanmu & Jegede 2019](#gbenga-akanmu-jegede-2019)

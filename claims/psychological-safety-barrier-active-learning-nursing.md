@@ -56,3 +56,4 @@ Student focus group data (Theme 3, Subtheme 3.1.3). Participants reported fear o
 - [Increased exposure to unsupervised difficult conversations is associated with greater emotional confidence, while rare exposure is associated with higher distress](exposure-frequency-emotional-reaction-association.md) — related
 - [A minority of nursing students report negative emotional responses to virtual simulation teaching, including fear, anxiety, and burnout](vs-negative-emotional-experiences.md) — related
 - [Nursing students report emotional responses of inadequacy, low motivation, low self-confidence and fear during clinical practice](emotional-responses-inadequacy-low-motivation-fear.md) — related
+- [Small, discussion-based course formats are described by students as fostering psychological safety, validation, and peer connection that function as a central learning mechanism](small-discussion-formats-psychological-safety.md) — related

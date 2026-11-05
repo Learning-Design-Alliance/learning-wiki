@@ -58,3 +58,4 @@ Mediation analysis used bootstrapping with 5000 resamples and 95% bias-corrected
 - [Mastery-avoidance goals show no significant association with academic dishonesty](mastery-avoidance-null-dishonesty.md) — related
 - [The mediating role of mastery-approach goals was not significant](mastery-approach-mediation-null.md) — related
 - [Learning engagement mediates the association between teacher support and mathematics achievement.](learning-engagement-mediation-teacher-support-achievement.md) — related
+- [The chain mediation involving mastery avoidance goal between perceived teacher support and learning engagement is not statistically significant](mastery-avoidance-chain-mediation-null.md) — related

@@ -65,6 +65,7 @@ Premature solutions undermine the autonomy that fuels intrinsic motivation; supp
 - [Select and train motivational mentors who regulate their own motivation and use autonomy-supportive behaviors](select-train-autonomy-supportive-motivational-mentors.md)
 - [Adult and peer scaffolding to sustain young children's interest and persistence with computer tasks](adult-peer-scaffolding-computer-tasks.md)
 - [Integrate the four core motivational interviewing skills into role-play conversations with virtual humans.](motivational-interviewing-role-play-strategy.md)
+- [Use the GROW model (Goal, Reality, Options, Will) to structure coaching conversations at the start and end of clinical teaching sessions](grow-model-clinical-session-coaching.md)
 
 ## Related Elements
 - [Coaching](../elements/coaching.md) — the facilitative stance that replaces directive problem-solving

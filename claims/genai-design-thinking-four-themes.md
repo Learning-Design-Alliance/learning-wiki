@@ -68,3 +68,4 @@ Qualitative thematic analysis of 112 student reflections from the 12-week course
 - [Primary studies report possible benefits of GenAI for children's divergent thinking, narrative creativity and creative self-efficacy, without confirmed efficacy](genai-possible-benefits-children-creative-thinking.md) — related
 - [Students evolved from passive users of GenAI to critical evaluators, developing strategies for bias detection and source validation](students-passive-users-to-critical-evaluators-genai.md) — possibly the same claim (merge candidate)
 - [Teachers transitioned from using AI for basic routine tasks to leveraging it as a tool for innovation](ai-use-transition-routine-to-innovation.md) — related
+- [Emergency nurses hold a cautious acceptance attitude toward human-machine collaboration and manually verify AI outputs](nurses-cautious-acceptance-verify-ai-outputs.md) — related

@@ -50,6 +50,7 @@ The article recommends that interventions to strengthen students' sense of coher
 - [Embed subject-specific web credibility modules into existing courses rather than creating standalone courses](embed-subject-specific-credibility-modules.md)
 - [Integrate AI literacy education as an integral component of first-year curriculum development rather than an add-on](ai-literacy-integral-first-year-curriculum.md)
 - [Embed computational thinking across existing K-12 subject areas using everyday and data-based activities](embed-ct-across-subject-areas.md)
+- [Embed brief experiential wellness activities longitudinally within existing health professions curricula](embed-longitudinal-experiential-wellness-activities.md)
 
 ## Examples
 -

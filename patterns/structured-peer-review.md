@@ -32,7 +32,7 @@ grain_size: lesson
 # Structured Peer Review
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 55 claims (32 for, 23 mixed) · 63 studies (21 causal, 11 quant-synthesis, 10 associational, 8 review, 5 design, 4 qualitative, 4 theoretical), `q1`–`q4` · 14 of 63 report an effect size · 41 claims rest on one study
+> **Evidence** · 56 claims (33 for, 23 mixed) · 64 studies (22 causal, 11 quant-synthesis, 10 associational, 8 review, 5 design, 4 qualitative, 4 theoretical), `q1`–`q4` · 14 of 64 report an effect size · 42 claims rest on one study
 
 ## Description and scope
 
@@ -151,6 +151,7 @@ Claims the earlier page cited, and others that bear on it, not used as core evid
 - [Collaborative writing methods such as peer criticism and group revision were in use before the collaborative learning movement](../claims/collaborative-writing-methods-predate-the-collaborative-learning-movement.md) [~W] — read 2026-10-19: a historical argument about where peer criticism in composition came from; no test.
 - [Reported reviser scores interact with episode for reading the assignment, with the effect reversing from episode 2 onwards](../claims/reviser-score-episode-reading-assignment.md) [~W] (not about this page) — read 2026-10-19: twenty students' self-reported writing habits against their think-aloud behaviour while writing alone; no peer review.
 - [During feedback provision, content-specific support improves feedback provision quality (g = 0.75) but not knowledge, while generic support improves both provision quality (g = 0.70) and subject-matter-related knowledge (g = 0.55)](../claims/generic-provision-support-also-boosts-knowledge.md) [+W] — attached 2026-10-19 from Hornstein et al. (2025), which proposed "Integrate instructional support into peer-feedback scenarios, prioritizing the feedback provision phase".
+- [After peer review plus a 20-day revision period, intervention-group lectures received significantly higher student quality ratings than control-group lectures (86 vs 73; p = 0.001)](../claims/peer-review-higher-post-intervention-lecture-quality.md) [+W] — attached 2026-11-05 from Abbas Uzair et al. (2026), which proposed "Integrate structured peer assessment alongside traditional student evaluations to strengthen faculty development and improve lecture quality and learning outcomes"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

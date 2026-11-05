@@ -78,3 +78,4 @@ Results section reporting all six Mini-CEX sub-dimensions as non-significant. Th
 - [AI-assisted CBL+FC residents show superior overall clinical competence on Mini-CEX compared with lecture controls](ai-assisted-cbl-fc-minicex-overall-competence.md) — related
 - [Final-year clinical medicine interns report high acceptance of the Mini-CEX-based four-stage virtual simulation teaching model, with all experience-item means exceeding 7.1 on a 10-point scale](high-student-acceptance-minicex-four-stage-virtual-simulation.md) — related
 - [Total cumulative study time is comparable between AI-assisted CBL+FC and lecture-based groups despite more intensive pre-class preparation](ai-assisted-cbl-fc-comparable-total-study-time.md) — related
+- [Integrated clinical pathway and case-based teaching yields higher Mini-CEX clinical skills scores than traditional teaching](clinical-pathway-cbt-higher-mini-cex-scores.md) — related

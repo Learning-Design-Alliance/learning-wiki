@@ -9,7 +9,6 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 newest_evidence: 2019
-source_checked: 2026-10-16
 sources:
   - id: james-soland-2019
     resource: "https://doi.org/10.1177/016146811812001202"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
-> **Currency** · newest study 2019 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Test effort differs substantially across student gender and racial subgroups. [→ James Soland 2019](#james-soland-2019)

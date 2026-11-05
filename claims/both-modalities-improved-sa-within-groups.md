@@ -50,3 +50,4 @@ Wilcoxon signed-rank within-group tests in the pilot RCT of 35 interns. VR SA ro
 - [Eye-tracking-based VR feedback with simulated ED interruptions was feasible to implement in a pilot trial](eye-tracking-vr-feedback-feasibility-pilot.md) — related
 - [VR group showed numerically greater ATLS performance gains than the mannequin group in exploratory comparison](vr-eye-tracking-greater-atls-gains-pilot.md) — related
 - [VR group showed numerically greater trauma-management error reduction than the mannequin group in exploratory comparison](vr-eye-tracking-greater-error-reduction-pilot.md) — related
+- [In a pilot randomized study, CI and CI + VR produced statistically significant immediate Knowledge gains while VR's Knowledge gain did not reach significance](ci-hybrid-significant-knowledge-gains-vr-not.md) — related

@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**1006 entries** · 0 stable · 1006 in review · 0 drafts
+**1007 entries** · 0 stable · 1007 in review · 0 drafts
 
 ---
 
@@ -184,6 +184,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Criteria for identifying spatial factors](criteria-for-identifying-spatial-factors.md) - The article establishes inclusion and exclusion criteria for calling a factor a spatial factor, because factor names do not always align across studies and knowledge-laden factors have been misclassified.
 * [Critical interpretive synthesis underpinned by Kirkpatrick's return on investment model](critical-interpretive-synthesis-underpinned-by-kirkpatricks-return-on-investment-model.md) - This is the review's methodological framework: a \"Critical interpretive synthesis underpinned by Kirkpatrick's return on investment model\" applied to identify features of effective dementia educational programs.
 * [Cross-theoretical integration of four motivational theories of teacher influence on engagement](cross-theoretical-integration-of-four-motivational-theories-of-teacher-influence-on-engage.md) - The article synthesises four theories of how teachers improve student engagement: self-determination theory, achievement goal theory, growth mindset theory, and transformational leadership theory.
+* [Cumulative probability plotting of administrative grade data for demographic-group monitoring](cumulative-probability-plotting-of-administrative-grade-data-for-demographic-group-monitor.md) - The article demonstrates a descriptive practice: representing grade outcomes as cumulative probability curves stratified by demographic group, so that differences at every grade threshold are visible rather than only mean grades.
 * [Curricular analytics: graph-based measures of degree-program complexity (blocking, delay, centrality, structural complexity)](curricular-analytics-graph-based-measures-of-degree-program-complexity-blocking-delay-cent.md) - Curricular analytics is the study of academic program design and layout, in which a degree plan is translated into a directed acyclic graph of courses and prerequisites.
 * [Curriculum analytics using cognitive diagnostic modeling and hierarchical learner-profile clustering](curriculum-analytics-using-cognitive-diagnostic-modeling-and-hierarchical-learner-profile.md) - A two-step curriculum analytics approach that maps existing assessments to professional standards and applies a generalized cognitive diagnostic model to assessment grades to produce attainment probabilities (0–1) per standard, then uses hierarchical agglomerative clustering to group learners into i
 * [Curriculum-grounded ontology framework for building educational QA benchmarks](curriculum-grounded-ontology-framework-for-building-educational-qa-benchmarks.md) - The article proposes an end-to-end framework in which a national curriculum textbook is ingested via OCR and semantic chunking, formalized against a predefined domain ontology, and used to construct a provenance-traced QA benchmark with category-level evaluation.

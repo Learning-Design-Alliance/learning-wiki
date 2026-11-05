@@ -53,3 +53,5 @@ Self-designed 40-item satisfaction questionnaire (Cronbach's α = 0.921, CVI = 0
 - [In the same RCT, the experimental group reported higher scores than the control group across all five dimensions of teaching satisfaction (all P < 0.05)](pbl-virtual-simulation-satisfaction-all-dimensions-trauma-orthopedics.md) — related
 - [CBE-MDT teaching yields higher trainee satisfaction than traditional teaching](cbe-mdt-higher-satisfaction-radiation-oncology.md) — related
 - [CBE-MDT teaching improves final exam scores compared with traditional teaching in radiation oncology rotations](cbe-mdt-improves-exam-scores-radiation-oncology.md) — related
+- [Blended learning interns reported significantly higher satisfaction than traditional-group interns across all five evaluated dimensions](blended-radiology-assistant-higher-satisfaction-all-dimensions.md) — related
+- [International medical students receiving peer role-play and peer assessment report significantly higher course satisfaction across all measured dimensions than students in traditional collaborative group learning](peer-roleplay-higher-course-satisfaction-gynecology.md) — related

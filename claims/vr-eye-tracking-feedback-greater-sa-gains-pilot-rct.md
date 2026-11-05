@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: emadi-navaz-2026
     resource: "https://doi.org/10.3352/jeehp.2026.23.8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The VR group showed greater SA improvement than the mannequin group (mean change 6.59 vs. 3.11; P=0.006, r=0.46) in exploratory between-group comparison. [→ Emadi Navaz 2026](#emadi-navaz-2026)

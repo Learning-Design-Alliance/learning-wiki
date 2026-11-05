@@ -52,6 +52,7 @@ The authors recommend implementing the XR application "as a partial replacement 
 - [Use VR simulation as a complementary, not competing, component of hazardous-drug spill-management training](vr-complementary-hazardous-drug-training.md)
 - [Blended Learning](blended_learning.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
+- [Scale simulator-based POCUS training to large cohorts through blended strategies](blended-scaling-pocus-training-large-cohorts.md)
 
 ## Examples
 -

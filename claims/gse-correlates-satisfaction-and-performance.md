@@ -47,3 +47,4 @@ Pearson's product-moment correlation among 163 nursing students. All three pairw
 ## Related Claims
 - [General self-efficacy and satisfaction with e-learning jointly predict perceived academic performance among nursing students in synchronous virtual learning](self-efficacy-elearning-satisfaction-predict-perceived-academic-performance-nursing.md) — possibly the same claim (merge candidate)
 - [No significant differences in e-learning satisfaction, self-efficacy, or academic performance by attendance at e-learning training courses](no-difference-by-elearning-training-attendance.md) — related
+- [Programmed instruction improved nursing students' general self-efficacy more than traditional teaching, though the authors caution the contribution cannot be isolated](programmed-instruction-self-efficacy-gses.md) — related

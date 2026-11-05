@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 248 claims (142 show a difference, 68 mixed, 38 no difference) · 197 studies (74 causal, 34 review, 31 associational, 23 theoretical, 15 design, 11 quant-synthesis, 9 qualitative), `q1`–`q4` · 34 of 197 report an effect size · 231 claims rest on one study
+> **Evidence** · 250 claims (142 show a difference, 70 mixed, 38 no difference) · 199 studies (75 causal, 34 review, 31 associational, 23 theoretical, 15 design, 11 quant-synthesis, 9 qualitative), `q1`–`q4` · 34 of 199 report an effect size · 233 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -296,6 +296,8 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Novices achieve significantly lower rubric scores than intermediate and expert providers in simulated WFWB collection and transfusion](../claims/novices-lower-rubric-scores-wfwb-simulation.md) [+M] — learners who differ on it differ in outcomes
 - [With a direct laryngoscope, experts maintain greater head-to-mouth distance than novices](../claims/direct-laryngoscope-experts-greater-head-distance.md) [+M] — learners who differ on it differ in outcomes
 - [Novices move their head farther from the mannequin when using a video laryngoscope than a direct laryngoscope](../claims/novices-head-distance-video-vs-direct-laryngoscope.md) [+M] — an instructional effect differs with it
+- [The authors explain the hybrid CI + VR paradox (highest Knowledge gains but more modest Understanding gains) via split-attention and expertise reversal effects](../claims/split-attention-explains-hybrid-paradox.md) [~W] — an instructional effect differs with it
+- [Triggered interest predicts test achievement only when learners have prior experience with the task domain (CPT), not in the MPT or computer-based environment](../claims/triggered-interest-predicts-achievement-only-with-prior-experience.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

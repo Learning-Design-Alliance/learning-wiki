@@ -55,3 +55,4 @@ Cross-lagged panel analysis using SEM on longitudinal pre- and post-training dat
 - [RI-CLPM on simulated PALMA-like data shows positive reciprocal cross-lagged effects between within-individual math achievement and self-concept](riclpm-simulated-palma-positive-reciprocal-effects.md) — related
 - [Prior longitudinal SEM studies of self-concept versus achievement causality show heterogeneous causal predominance, varying with design, self-concept operationalization, domain, and achievement measure](heterogeneous-causal-predominance-prior-studies.md) — related
 - [Growth mindset moderates the relationship between time since last NRP course and performance in an e-learning simulation game](growth-mindset-moderates-nrp-simulation-performance.md) — related
+- [Individual students' error counts varied from pretraining to posttraining, with 12 students making more errors after training than before](individual-variability-training-response.md) — related

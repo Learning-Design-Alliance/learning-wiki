@@ -55,3 +55,4 @@ Stepwise regression on N = 76 parent-adolescent dyads; the three basic-needs pre
 - [Positivity of parent-adolescent interaction and self-efficacy did not significantly predict autonomous motivation during home-based learning](relatedness-and-self-efficacy-null-during-home-based-learning.md) — related
 - [Parental factors: autonomous motivation relates to adolescent creativity more strongly with high maternal involvement](maternal-involvement-moderates-autonomous-motivation-creativity.md) — related
 - [School burnout negatively predicts autonomous motivation during home-based learning, but does not mediate the mindset-motivation relationship](school-burnout-predicts-lower-autonomous-motivation-no-mediation.md) — related
+- [Adolescents perceiving higher parental autonomy support are more likely to select higher-achieving friends](autonomy-support-selects-high-achieving-friends.md) — related

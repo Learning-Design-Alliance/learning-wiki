@@ -49,3 +49,4 @@ At a 1-hour MIE 2025 workshop in Glasgow, most participants favored understandin
 - [Ethics, privacy, bias, over-reliance, accuracy, usability and cost are key challenges AI use poses for learner satisfaction and engagement](ai-challenges-engagement-satisfaction.md) — related
 - [Teachers Feel Confident to Teach AI but Many Not in the Short-Term Without Specific Training](teachers-confident-but-need-training.md) — related
 - [Sixteen new competency areas were added in the 2026 update, including artificial intelligence, interoperability, and patient safety](tiger-2026-sixteen-new-competency-areas.md) — related
+- [The article recommends a stratified, classified nurse capacity training system targeting AI information recognition, device operation, emergency handling, data security and ethical norms](stratified-nurse-capacity-training-system-hmc.md) — a narrower finding that bears on this claim

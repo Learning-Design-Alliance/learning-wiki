@@ -49,3 +49,4 @@ Summary of the structured feedback survey (n = 29) showing "particularly strong 
 - [Over three-quarters of international medical students used AI tools at least weekly and reported strong intentions to continue, valuing teacher-AI collaboration](students-regular-ai-use-and-adoption-intent.md) — related
 - [Most students endorse the service learning model and would recommend it for future students](service-learning-student-endorsement-recommendation.md) — related
 - [Postgraduate immunology students report that small-group mind maps encouraged idea sharing (87% agree or strongly agree)](pbl-small-group-mind-maps-idea-sharing-immunology.md) — related
+- [Students strongly endorsed the AI e-learning tool, with 72.2% strongly agreeing it should be available for endodontic education and 76.4% strongly agreeing to recommend it to other students](ai-tool-strong-student-endorsement.md) — related

@@ -51,3 +51,4 @@ Semi-structured interviews with 14 intervention-group interns, analyzed via dire
 - [Interviews revealed six themes: enhanced efficiency, improved quality, facilitated reflection, increased interaction, improved collaboration, and concerns about over-reliance](gai-dst-interview-six-themes.md) — related
 - [Qualitative interviews revealed enhanced critical appraisal skills, evidence synthesis capabilities, and professional confidence](qualitative-ebp-competency-gains.md) — related
 - [Students evaluate structured debriefing positively across knowledge, emotional attitude, and nursing skills](debriefing-positive-student-evaluations.md) — related
+- [Interviews with intervention-group interns yield 9 core themes in four clusters about how situational simulation with CBL supported learning](qualitative-nine-themes-four-clusters-simulation-cbl.md) — related

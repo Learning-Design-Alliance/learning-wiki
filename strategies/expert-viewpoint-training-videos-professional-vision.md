@@ -57,6 +57,7 @@ The article recommends that, given the visual nature of classroom events, teache
 
 - [Design training scenarios featuring misbehaviours in varied contexts and provide data-driven feedback to strengthen professional vision](varied-context-misbehaviour-scenarios-feedback-strategy.md)
 - [Combine video-based reflection on one’s own teaching with reappraisal and mindfulness-based strategies to foster professional vision and well-being.](reflection-reappraisal-mindfulness-combination.md)
+- [Strengthen teachers' capacity to evaluate and foster SEL and increase communication among students, parents and teachers](teacher-sel-training-and-communication-strategy.md)
 
 ## Examples
 -

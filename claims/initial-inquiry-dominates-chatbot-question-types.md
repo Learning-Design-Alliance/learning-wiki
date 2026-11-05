@@ -89,3 +89,4 @@ Within the Follow-Up Inquiry macro-category (26.4%, n = 746), the most common be
 - [Case analysis assistance and Socratic dialogue simulation dominated GenAI usage, and dialogue-based interaction patterns were associated with better outcomes than passive use](genai-usage-patterns-dialogue-effective.md) — related
 - [GenAI chatbot support increased executive help-seeking but reduced metacognitive engagement compared to human expert support](genai-chatbot-increased-executive-help-seeking-reduced-metacognition.md) — related
 - [Sixth graders' pre-inquiries about 'Acid and Base' were mostly information-type questions, and 24 of 52 were selected as meaningful pre-inquiries](pre-inquiry-type-distribution-acid-base.md) — related
+- [Students interacted with ChatGPT mostly by entering worksheet questions as keywords; some requested shortened answers, role-plays, or follow-up detail](chatgpt-interaction-keyword-entry-role-play.md) — related

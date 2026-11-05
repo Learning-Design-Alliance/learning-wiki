@@ -48,3 +48,4 @@ Narrative synthesis of five studies (two RCTs, two pre‐post, one cohort) measu
 - [Simulation-based education consistently improved nurses' confidence in delirium recognition and assessment across included studies](sbe-delirium-confidence-gains.md) — related
 - [Students’ prompt self-efficacy increased significantly after the scaffolded GenAI course (t = 3.729, p < .001)](prompt-self-efficacy-significant-increase.md) — related
 - [GTA programmes are consistently associated with reduced student anxiety and improved confidence in pelvic examination, though evidence is frequently short-term and self-reported](gta-programmes-reduce-anxiety-improve-confidence.md) — related
+- [In the pilot study, nurses' subjective confidence in recognizing delirium increased from a median of 5 to 7 on a 10-point scale (r = 0.92)](elearning-delirium-recognition-confidence-gain.md) — a narrower finding that bears on this claim

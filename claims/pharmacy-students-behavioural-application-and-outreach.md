@@ -48,3 +48,4 @@ Qualitative finding from the Level 3 (Behaviour) theme. Students also reported o
 - [Pharmacy students perceived broader community impact and role-identity formation from participating in the campaign.](pharmacy-students-perceived-community-impact-role-identity.md) — related
 - [Pharmacy students reported knowledge acquisition and communication skill development through delivering the campaign.](pharmacy-students-knowledge-and-communication-skill-gains.md) — related
 - [Pharmacy students reported strong engagement and positive reactions to the campaign as an experiential learning activity.](pharmacy-students-strong-engagement-experiential-campaign.md) — related
+- [Undergraduate students in experiential wellness courses describe weekly experiential assignments as catalysts for self-endorsed healthy habit formation and perceived lifestyle improvement](wellness-weekly-experiential-assignments-habit-formation.md) — related

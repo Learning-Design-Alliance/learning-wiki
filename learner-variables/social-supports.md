@@ -13,7 +13,7 @@ generated:
 # Social Supports
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 116 claims (85 show a difference, 21 mixed, 10 no difference) · 96 studies (27 associational, 17 causal, 17 review, 16 qualitative, 8 theoretical, 7 quant-synthesis, 4 design), `q1`–`q3` · 10 of 96 report an effect size · 116 claims rest on one study
+> **Evidence** · 124 claims (93 show a difference, 21 mixed, 10 no difference) · 100 studies (31 associational, 17 causal, 17 review, 16 qualitative, 8 theoretical, 7 quant-synthesis, 4 design), `q1`–`q3` · 11 of 100 report an effect size · 124 claims rest on one study
 
 ## Description
 Social supports are the people available to help a learner if needed, and the learner's perception that they are there: parents and family, friends and classmates, teachers and other school staff, and the wider community. The support they give can be emotional (care and compassion), appraisal (useful feedback), instrumental (time, money, resources) and informational (advice). The LVN stresses perception: feeling that support would be there, even if it is never called on, contributes to well-being and academic success, and help that is actually received can strengthen that perception and a learner's sense of efficacy. Effective support looks different across families and cultures and can be provided across income levels; what matters is what the people around a learner do. Supports can be eroded by family separation, bereavement, parental imprisonment, substance misuse or illness, by bullying and discrimination, and by moving schools, and a relationship with another trusted adult can partly make up for that. It is measured with perceived-support scales for children, adolescents and adults. It overlaps with [belonging](belonging.md) and with the [home learning environment](home-learning-environment.md).
@@ -152,6 +152,14 @@ Social supports are the people available to help a learner if needed, and the le
 - [PHEEM total score increased modestly, driven by role autonomy and teaching, with no change in the social-support domain](../claims/pheem-total-increased-social-support-null.md) [-M] — measured as an outcome of the instruction studied
 - [Support resources positively predict psychological state but do not mediate the foundation–success relationship](../claims/support-resources-covariate-not-mediator.md) [~M] — learners who differ on it differ in outcomes
 - [Self-regulated learning partially mediates the effect of perceived teacher support on learning achievement.](../claims/srl-partially-mediate-teacher-support-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [A sequential mediation pathway runs from perceived peer support through emotion regulation and behavioral engagement to academic achievement](../claims/sequential-mediation-er-be-pathway.md) [+M] — learners who differ on it differ in outcomes
+- [Adolescents perceiving higher parental autonomy support are more likely to select higher-achieving friends](../claims/autonomy-support-selects-high-achieving-friends.md) [+M] — learners who differ on it differ in outcomes
+- [Behavioral engagement mediates the relationship between perceived peer support and academic achievement](../claims/behavioral-engagement-mediation-peer-support-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Emotion regulation mediates the relationship between perceived peer support and academic achievement](../claims/emotion-regulation-mediation-peer-support-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Peer support for study positively predicts academic performance among Haor students](../claims/peer-support-predicts-haor-academic-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Perceived peer support is positively associated with academic achievement among university students](../claims/peer-support-positive-association-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Perceived peer support is positively associated with emotion regulation and behavioral engagement, which are in turn associated with achievement](../claims/peer-support-paths-er-be-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Perceived teacher support is directly and positively associated with learning engagement among Chinese junior high school students](../claims/teacher-support-direct-positive-learning-engagement.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

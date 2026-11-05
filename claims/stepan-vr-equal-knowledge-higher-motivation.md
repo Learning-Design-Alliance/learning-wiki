@@ -65,3 +65,4 @@ Randomised controlled study with 66 medical students (33 per group) comparing a 
 - [Metaverse-based interactive VR instruction is associated with higher overall anatomy test performance than a conventional 2D online lecture](metaverse-vr-higher-overall-anatomy-test-performance.md) — reports the opposite
 - [Students studying musculoskeletal anatomy with an interactive 3D digital model show greater pre-to-post test score improvement than students studying textbook images](3d-model-greater-score-gains-than-textbook-images.md) — reports the opposite
 - [No significant difference in baseline pre-studying test scores between the 3D Model Group and the Textbook Image Group](no-baseline-score-difference-3d-vs-textbook-groups.md) — related
+- [Students engage more and retain greater knowledge through active participation than lecture-based teaching, per trials the article cites](active-participation-beats-didactic-bedside.md) — related

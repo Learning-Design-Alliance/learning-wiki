@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-15
+source_checked: 2026-11-05
 sources:
   - id: pascal-riachi-2026
     resource: "https://doi.org/10.48550/arxiv.2606.17786"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-15 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Two practicing psychologists rated the virtual patient as realistic and reported that turn-by-turn ACT feedback and the retry mechanism increased awareness of therapeutic language and intervention choices. [→ Pascal Riachi 2026](#pascal-riachi-2026)
@@ -63,3 +63,4 @@ Mixed-methods expert evaluation with two female psychologists (ages 25–30), on
 - [Expert raters rated the virtual patients' profile consistency, character cohesion, and dialogue realism favorably across 20 interviews](virtual-patient-qualitative-realism-ratings.md) — related
 - [Students valued VSP convenience but rated realism and feedback value below human standardized patients](vsp-student-feedback-convenience-high-realism-low.md) — related
 - [LLM integration into virtual patient scenarios enables realistic, context-sensitive medical interviews in a metaverse environment](llm-virtual-patient-realistic-interviews.md) — related
+- [Students perceived the GPT-based virtual patient encounters as realistic and easy to converse with](ai-virtual-patient-perceived-realistic.md) — related

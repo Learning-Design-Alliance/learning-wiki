@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2020
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: saputri-2020
     resource: "https://doi.org/10.12973/eu-jer.9.2.853"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2020 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Corrected mean critical thinking scores were 12.80% higher under QASEE than under RQA and 36.93% higher than under conventional learning. [→ Saputri 2020](#saputri-2020)

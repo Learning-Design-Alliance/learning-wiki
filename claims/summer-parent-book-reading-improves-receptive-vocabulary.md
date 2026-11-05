@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2014
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: pagan-2014
     resource: "https://eric.ed.gov/?id=EJ1057959"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2014 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Intervention children had significantly higher post-test receptive vocabulary than controls (partial η² = 0.09), but there was no intervention advantage on expressive vocabulary (p = .87). [→ Pagan 2014](#pagan-2014)

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: mixed
 newest_evidence: 2025
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: wang-lw-2025
     resource: "https://doi.org/10.1111/medu.15751"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q2`
-> **Currency** · newest study 2025 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Advanced methodologies such as simulators, three-dimensional models, or cadaver-based practice were associated with superior Acquisition retention compared to traditional hands-on approaches. [→ Wang L‐W 2025](#wang-lw-2025)
@@ -84,3 +84,4 @@ The review reports contradictory individual findings: Zhao et al (2021), Ochoa e
 - [Simulation-based training is the most commonly employed method for rhinoplasty education, followed by computer-based modeling, cadaveric training, and video-assisted methods.](simulation-most-common-rhinoplasty-education-method.md) — related
 - [All five studies that assessed changes in resident knowledge reported increased knowledge about the specific rhinoplasty technique following the intervention.](rhinoplasty-education-interventions-increase-resident-knowledge.md) — related
 - [Surgical simulators are highly effective and valuable for residents to practice technical maneuvers in rhinoplasty.](surgical-simulators-effective-rhinoplasty-technical-practice.md) — a narrower finding that bears on this claim
+- [Simulation-trained residents achieve significantly higher total live pediatric TEE performance scores than apprenticeship-trained residents one week after training](simulation-training-higher-live-tee-total-scores.md) — a narrower finding that bears on this claim

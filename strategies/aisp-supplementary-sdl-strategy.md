@@ -54,6 +54,7 @@ The article recommends integrating AI simulated patients into undergraduate curr
 - [Integrate simulation, case-based learning and self-directed methods as complements to bedside teaching rather than substitutes for direct patient contact](simulation-complementary-to-bedside-teaching.md)
 - [Use virtual patients to replace passive instruction and train clinical reasoning before bedside learning, without diminishing bedside teaching hours](vp-replace-passive-before-bedside-strategy.md)
 - [Integrate AISP platforms into medical curricula as complements to traditional teaching with expanded case variety](aisp-curricular-integration-strategy.md)
+- [Use virtual simulation games as a preliminary or complementary method to face-to-face simulation and clinical practice](vsg-as-preliminary-or-complementary-simulation.md)
 
 ## Examples
 -

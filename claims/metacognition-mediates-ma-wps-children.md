@@ -9,7 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-10-19
+source_checked: 2026-11-05
 sources:
   - id: lai-y-2015
     title: Lai Y 2015
@@ -23,7 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2015 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In a fully mediated SEM model, mathematics anxiety negatively predicted metacognition (ß = -0.51, p = .001) and metacognition positively predicted word problem solving (ß = 0.15, p = .02), with a significant bootstrapped indirect effect of -0.08 (95% CI -0.14 to -0.012). [→ Lai Y 2015](#lai-y-2015)
@@ -63,3 +63,4 @@ Structural equation modeling of data from 224 fourth-grade children, controlling
 - [Task difficulty sensitivity mediates the relationship between math anxiety and math avoidance tendency](difficulty-sensitivity-mediation-math-avoidance.md)
 - [The direct association between teacher support and mathematics achievement becomes non-significant after including mathematics anxiety and learning engagement, indicating full mediation.](full-mediation-no-direct-effect-teacher-support-achievement.md) — related
 - [Mathematics anxiety mediates the association between teacher support and mathematics achievement.](math-anxiety-mediation-teacher-support-achievement.md) — related
+- [The association between inhibition and first-grade achievement in math, reading, and writing is fully mediated by LRBs](lrb-full-mediation-inhibition-achievement.md) — related

@@ -50,3 +50,5 @@ Longitudinal social network analysis (RSiena) of 46 Grade 5 and 6 classrooms (N 
 - [Achievement goal descriptive norms did not play a role in friendship processes related to achievement, unlike popularity norms](descriptive-norms-not-predictive-friendship-processes.md) — related
 - [The presence and direction of achievement-related friendship processes did not differ significantly between Grade 5 and Grade 6 classrooms](friendship-processes-similar-grade-5-6.md) — related
 - [In classrooms with low performance goal popularity norms, adolescents remain friends with similarly achieving peers; in high performance goal popularity norm classrooms they do not](performance-goal-norms-moderate-friendship-maintenance.md) — related
+- [Friendship selection reinforces academic similarity: adolescents befriend similarly achieving peers, high achievers receive more nominations](achievement-homophily-friendship-selection.md) — related
+- [Adolescents perceiving higher parental autonomy support are more likely to select higher-achieving friends](autonomy-support-selects-high-achieving-friends.md) — related

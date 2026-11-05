@@ -51,3 +51,4 @@ Benchmark comparison on the study's n = 300 OER-derived query evaluation set (10
 - [Ablation study shows metadata-enriched embeddings produce the largest accuracy drop, while attention masking, KV caching and dynamic batching primarily support inference efficiency](ablation-metadata-embeddings-largest-accuracy-drop.md) — related
 - [In one on-premise introductory computer-science QA system built on open educational resources, a local LLM without retrieval scored below a TF-IDF baseline on 300 test queries](retrieval-augmentation-essential-local-llm-below-tfidf.md) — related
 - [On the external CS50-Forum set, EduGuard remains strongest with 86.7% correctness and 6.8% hallucination, though all systems lose grounding](eduguard-cs50-forum-generalization.md) — related
+- [Fine-tuned MacBERT outperformed fine-tuned LLMs on medical entity extraction while requiring far fewer computational resources](macbert-beats-llms-medical-entity-extraction.md) — related

@@ -49,3 +49,4 @@ Authors' interpretive synthesis in the discussion of the scoping review. This is
 - [Of 100 assessment tools for mental health nursing competences, 66 are validated and 34 are researcher-developed](mhn-100-tools-66-validated-34-researcher-developed.md) — related
 - [PHASe and ACMQ are the most frequently used scales in mental health nursing competence assessment](phase-and-acmq-most-used-mhn-scales.md) — related
 - [Most mental health nursing assessment tools target specific competences such as physical health and therapeutic restraint, with fewer addressing crosscutting competences](mhn-tools-target-specific-over-crosscutting-competences.md) — related
+- [Psychiatric nurses report that safety training overemphasizes theory, uses outdated monotonous formats, and lacks experience-sharing opportunities](nurse-demands-safety-training-reform.md) — related

@@ -56,3 +56,4 @@ Between-group comparison on an adapted six-dimension NASA-TLX (mental demand, ti
 - [Designer workload across an 11-module instructional design model for product development averaged normal-to-high (50–75%)](nasa-tlx-normal-high-workload-design-process.md) — related
 - [AR telestration lowers cognitive workload during surgical training as measured by validated instruments](ar-lowers-cognitive-workload.md) — related
 - [Material modality significantly affects subjective cognitive load, with text materials inducing higher NASA-TLX scores than video-based materials](text-materials-highest-subjective-cognitive-load.md) — related
+- [AI-driven teaching paradigm reduces cognitive load measured by NASA-TLX](ai-paradigm-reduces-cognitive-load-nasa-tlx.md) — related

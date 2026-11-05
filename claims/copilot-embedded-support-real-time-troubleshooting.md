@@ -9,7 +9,6 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 newest_evidence: 2025
-source_checked: 2026-10-19
 sources:
   - id: schiner-2025
     resource: "https://doi.org/10.51388/20.500.12265/261"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r1` · `q1`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` With Microsoft Copilot embedded in his workflow, a student with one day of prior 3D-tool experience was able to troubleshoot in real time, iterate quickly, and stay in a creative flow, whereas previously he would have had to wait for instructor guidance or search online forums. [→ Schiner 2025](#schiner-2025)

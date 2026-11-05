@@ -9,7 +9,6 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2022
-source_checked: 2026-10-29
 sources:
   - id: aslan-2022
     resource: "https://doi.org/10.1007/s11423-021-10072-x"
@@ -26,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1` · n=8
-> **Currency** · newest study 2022 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q1 i?` An exploratory case study of eight first-graders reported "more physical activity" during Kid Space learning experiences, with no comparison condition or pre/post measure, so it cannot show that Kid Space increased activity. [→ Aslan 2022](#aslan-2022)

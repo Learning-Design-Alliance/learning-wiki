@@ -49,3 +49,4 @@ Retrospective two-center cohort study; hospitalization length was a secondary en
 - [Supervised resident-performed stereotactic brain biopsies had complication rates comparable to staff-performed cases (1.7% vs 1.9%)](resident-biopsy-complication-rates-comparable.md) — related
 - [Resident-led femoral IMN takes longer but shows no difference in revision rates or hospital stay](resident-imn-longer-operative-time-similar-revision-stay.md) — related
 - [Residents' care resulted mostly in similar patient outcomes compared with faculty when dedicated supervision and additional operation time were arranged](resident-care-similar-to-faculty-with-supervision.md) — a broader claim this one bears on
+- [Median hospital length of stay was longer in the intervention group than the control group (19 vs. 13 days)](longer-los-intervention-group.md) — reports the opposite

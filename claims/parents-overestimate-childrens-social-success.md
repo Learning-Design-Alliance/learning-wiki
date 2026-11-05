@@ -52,3 +52,4 @@ A 2 (hearing status) by 2 (child vs parent) ANOVA on the Social-Emotional scale 
 - [Deaf parental hearing status, sign language use at home, and attendance at a school for the deaf are each associated with more positive perceptions of deaf children's social success](deaf-parents-sign-language-deaf-schools-social-perceptions.md) — related
 - [Hearing children are rated as more capable in reading and more socially successful than deaf children by both children and parents](hearing-children-rated-more-capable-reading-social.md) — related
 - [Child-parent concordance is no greater for hearing families than for families with deaf children](no-greater-concordance-hearing-families.md) — related
+- [Parents rate Arabic-speaking students' SEL skills higher than students themselves, and teachers rate them lowest (parents > students > teachers), regardless of grade level](sel-perception-discrepancy-parents-students-teachers.md) — related

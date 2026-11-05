@@ -48,3 +48,4 @@ Crowdsourced experiment (Experiment 2, Ns per condition 59, 53, 57, 50, 56, 16) 
 - [OET 94 scheduling yielded approximately 40% higher memory retention than conventional scheduling (S15), with a benefit of Cohen's d = 0.64](oet94-forty-percent-gain-over-conventional.md) — a narrower finding that bears on this claim
 - [In simulations, adaptive model-based scheduling at OETs of 0.8 or higher produced 39–55% better final-test memory than the next best conventional schedule](simulation-oet-above-08-beats-conventional.md) — related
 - [The relationship between OET and final-test recall followed a skewed inverted-U, with performance predicted to decrease as OET approaches 1](inverted-u-oet-recall.md) — related
+- [Explainable guidance and adaptive scheduling each independently increase diagnostic AUC](xai-and-adaptive-scheduling-independent-auc-effects.md) — related

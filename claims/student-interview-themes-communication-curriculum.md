@@ -47,3 +47,4 @@ Semi-structured interviews with eight students (five female, three male), each l
 ## Related Claims
 - [Focus groups identify structured practice, limited emotional realism, and recommendations for case variety and curriculum integration](aisp-focus-group-three-themes.md) — related
 - [Thematic analysis of interviews with academics and students about GenAI and assessment yielded three themes: emotions, academic role and identity; assessment must change; and the work and expertise required to change assessment.](genai-assessment-three-themes-emotions-role-work.md) — related
+- [Interviews with intervention-group interns yield 9 core themes in four clusters about how situational simulation with CBL supported learning](qualitative-nine-themes-four-clusters-simulation-cbl.md) — related

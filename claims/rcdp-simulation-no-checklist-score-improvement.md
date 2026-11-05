@@ -51,3 +51,4 @@ Checklist scores in the same 46-participant pilot showed no statistically signif
 - [Turret position moderates specific checklist items at post-test, favoring turret 12](snaid-turret-position-checklist-items.md) — related
 - [Only a minority of residents achieved dual proficiency (GRS ≥4 plus complete checklist) for either procedure](dual-proficiency-grs-checklist-minority.md) — related
 - [The one-step checklist item for checking chest expansion showed no statistically significant change from pre-test to post-test in one group after training, with no comparison group](chest-expansion-check-not-significant.md) — a narrower finding that bears on this claim
+- [Undergraduate students and residents showed no significant difference in final OSATS and checklist scores after a standardized simulator-based POCUS training program](pocus-final-scores-no-education-level-difference.md) — related

@@ -69,3 +69,4 @@ Across the same antimicrobial-prescribing studies, the review reports the propor
 - [Final-year medical students show a general lack of preparedness, self-confidence, knowledge and skills for prescribing, especially in general and antimicrobial prescribing and pharmacovigilance](final-year-students-insufficient-prescribing-competencies.md)
 - [Final-year students lack pharmacovigilance competencies, particularly knowledge of adverse drug reaction reporting](students-lack-pharmacovigilance-competencies.md)
 - [Final-year students report low confidence in prescription writing and feel underprepared for prescribing](students-underprepared-prescription-writing-confidence.md)
+- [After quiz implementation, students reported lower agreement with feeling prepared for prescribing and mixed changes in prescribing confidence](confidence-changes-after-quiz-implementation.md) — related

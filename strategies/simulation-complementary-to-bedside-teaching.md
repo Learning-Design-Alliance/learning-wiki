@@ -54,6 +54,7 @@ The article recommends that the demand for modern teaching methods observed amon
 - [Use case-based learning and interactive augmented reality simulations as substitutes for direct clinical contact in TDI education.](case-based-learning-augmented-reality-tadi-education.md)
 - [Integrate structured reflection sessions like GGR into undergraduate clinical clerkships, especially where bedside exposure is limited](integrate-ggr-into-undergraduate-clerkships.md)
 - [Conduct bedside evidence-based nursing rounds during Year 4 clinical internships](bedside-ebp-nursing-rounds-strategy.md)
+- [Use virtual simulation games as a preliminary or complementary method to face-to-face simulation and clinical practice](vsg-as-preliminary-or-complementary-simulation.md)
 
 ## Examples
 -

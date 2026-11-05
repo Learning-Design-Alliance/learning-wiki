@@ -61,3 +61,4 @@ The review reports, citing Allensworth et al. (2014), a Chicago study of middle 
 - [The Freshman OnTrack indicator is more predictive of graduation than eighth-grade test scores, SES, race/ethnicity, gender, and school mobility combined, and raising it raises graduation rates](freshman-ontrack-predictive-and-causal-indicator.md) — related
 - [No evidence of an association between student grit or parental network centrality and the magnitude of pandemic effects on tracking outcomes](null-grit-parental-network-centrality-pandemic-effects.md) — related
 - [The survey grit measure has limited predictive power over platform performance in this sample and does not predict pandemic-era performance declines](survey-grit-limited-predictive-power.md) — related
+- [Parental education positively predicts regular attendance while school distance and limited peer help negatively predict it](parental-education-distance-peer-help-predict-attendance.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-05
 sources:
   - id: liu-min-2025
     resource: "https://doi.org/10.1007/s13187-025-02686-z"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Trainees taught with CBE-MDT achieved significantly higher final exam scores than trainees taught with traditional methods (98.3 ± 1.9 vs. 97.7 ± 1.3, P < 0.05). [→ Liu Min 2025](#liu-min-2025)

@@ -47,3 +47,4 @@ A systematic literature search in PubMed (May 2024) covering publications from 2
 ## Related Claims
 - [A set of invariant competency areas forms the stable core of nursing informatics education across 2018 and 2026](tiger-2026-invariant-core-competency-areas.md) — related
 - [AI topics should be addressed in all domains and for all roles of nurses, supported by workshop consensus](tiger-2026-ai-across-all-roles.md) — related
+- [No post-pandemic scholarship establishes telehealth competencies for pre-licensure nursing education](no-post-pandemic-prelicensure-telehealth-competency-scholarship.md) — related

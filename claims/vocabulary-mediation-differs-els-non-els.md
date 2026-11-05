@@ -74,3 +74,4 @@ The same alternative-model comparison for the non-EL group favored the partial m
 - [In a double mediation path model, RCR is associated with listening comprehension, which is associated with vocabulary, with the direct vocabulary-to-RCR effect fully mediated](path-model-lc-vocabulary-rcr.md) — related
 - [Vocabulary and listening comprehension are distinct rather than unitary constructs for struggling ELs and non-ELs, with a four-factor model fitting better than a three-factor model](four-factor-oral-language-structure-struggling-readers.md) — related
 - [Word reading is a significant direct predictor of reading comprehension for both ELs and non-ELs with reading difficulties in grade 4](word-reading-predicts-comprehension-struggling-els-and-non-els.md) — related
+- [The hypothesized sequential mediation model fits better than parallel, single-mediator, and reverse-causality alternatives](sequential-model-better-fit-alternatives.md) — related

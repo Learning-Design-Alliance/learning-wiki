@@ -9,7 +9,6 @@ generated:
   at: 2026-10-29
 evidence_strength: weak
 newest_evidence: 2021
-source_checked: 2026-10-29
 sources:
   - id: regina-kaplan-rakowski-2021
     resource: "https://doi.org/10.1007/s11423-020-09897-9"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2021 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students and instructors perceived text and video feedback as equally valuable with regard to quality and delivery. [→ Regina Kaplan-Rakowski 2021](#regina-kaplan-rakowski-2021)

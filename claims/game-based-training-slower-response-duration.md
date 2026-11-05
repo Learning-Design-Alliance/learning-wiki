@@ -47,3 +47,4 @@ Linear mixed model predicting response duration (time from item onset to first a
 ## Related Claims
 - [Participants in the game-based training condition estimated fraction magnitudes more accurately during training than participants in the non-game-based condition](game-based-training-higher-accuracy-during-training.md) — related
 - [Response duration decreased significantly across the five training sessions in both conditions](response-duration-decreased-across-training-sessions.md) — related
+- [VSG students took longer on some procedures at post-test, which the authors interpret as more thorough execution rather than reduced performance](vsg-longer-procedure-times-thoroughness.md) — related

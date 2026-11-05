@@ -51,4 +51,5 @@ Review's account of the Gon et al. randomized crossover study (N = 80 pathology 
 - [An EBP-structured case conference produced significantly higher post-intervention EBP knowledge scores than a weekly didactic lecture among final-year medical students](case-conference-beat-didactic-lecture-ebp-knowledge.md) — related
 - [Students in a blended course with weekly WhatsApp-mediated learning activities achieved significantly higher post-test scores than students in a fully in-class control group](whatsapp-blended-achievement-gains.md) — related
 - [Both conditions improved Java knowledge from pre- to post-test, with no difference in learning outcomes between structured and free collaboration](dpp-pre-post-knowledge-gains.md) — related
+- [A tele-education program (online lecture plus one month of WhatsApp microlearning) improved internal medicine residents' knowledge of inpatient hyperglycemia compared with no intervention](teleeducation-improved-resident-hospital-hyperglycemia-knowledge.md) — related
 

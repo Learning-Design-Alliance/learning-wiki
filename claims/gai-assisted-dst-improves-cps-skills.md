@@ -10,7 +10,7 @@ generated:
   at: 2026-10-15
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-25
+source_checked: 2026-11-05
 sources:
   - id: wei-2025
     resource: "https://doi.org/10.1186/s41239-025-00526-0"
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2025 · checked against its sources 2026-10-25 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Wei 2025: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
@@ -66,7 +66,7 @@ Paired sample t-tests on pre/post CPS scores for both groups (n = 30 each). The 
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Wei 2025](https://doi.org/10.1186/s41239-025-00526-0) | q3 · causal · r2 | i3; i2 | this claim; [GAI-assisted DST creation significantly enhanced all five CPS sub-dimensions compared to t](gai-assisted-dst-improves-cps-subdimensions.md) (supports); [GAI-assisted DST creation produced significantly better team creativity performance than t](gai-assisted-dst-improves-team-creativity.md) (supports) |
+| [Wei 2025](https://doi.org/10.1186/s41239-025-00526-0) | q3 · causal · r2 | i3; i2 | this claim; [Students in a GAI-assisted DST class reported higher scores than a traditional-methods cla](gai-assisted-dst-improves-cps-subdimensions.md) (supports); [GAI-assisted DST creation produced significantly better team creativity performance than t](gai-assisted-dst-improves-team-creativity.md) (supports) |
 | [Jinhee Kim 2026](https://doi.org/10.1007/s11423-026-10655-6) | q2 · qualitative · r? | i? | [Adult learners perceive AI collaborative workspaces as fostering equitable participation a](ai-workspaces-equitable-collaborative-problem-solving.md) (supports); [Adult learners view AI as a collaborative learning agent for solving complex problems, sha](ai-as-collaborative-learning-agent.md) (supports) |
 | [Kostopoulos 2025](https://doi.org/10.1109/access.2025.3620473) | q2 · design · r? | i? | [Embodied GenAI agents in mixed reality raised engagement and lowered cognitive load for 26](embodied-mr-agents-engagement-cognitive-load-26-learners.md) (qualifies) |
 | [Zhanxin Hao 2026](https://doi.org/10.48550/arxiv.2603.21288) | q2 · associational · r1 | i? | [The Delegated Reasoning group significantly outperformed the Concerted Interpretation grou](dr-outperforms-ci-task-performance.md) (qualifies); [Cluster analysis of student-AI dialogue identifies three distinct collaboration profiles: ](three-human-ai-cps-profiles-dr-ci-de.md) (qualifies); [The Concerted Interpretation group reported significantly higher self-regulation than Dele](ci-higher-self-regulation-no-coreg-differences.md) (qualifies) |

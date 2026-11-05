@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2020
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: remein-christy-difrances-c-2020
     resource: "https://doi.org/10.1136/bmjopen-2019-031568"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2020 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Statistically significant programme impacts in well-described quantitative evaluations were limited to increased empathy (n=3 programmes) and increased perspective-taking/reflection (n=1 programme). [→ Remein Christy DiFrances C 2020](#remein-christy-difrances-c-2020)

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2024
-source_checked: 2026-10-17
+source_checked: 2026-11-05
 sources:
   - id: angxuan-chen-2024
     resource: "https://doi.org/10.48550/arxiv.2412.15226"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
-> **Currency** · newest study 2024 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` In a controlled experiment on the eight queens puzzle, the experimental group that taught a ChatGPT agent scored significantly higher on the knowledge post-test than the video-only control group (adjusted means 11.86 vs 10.53, η2 = 0.74). [→ Angxuan Chen 2024](#angxuan-chen-2024)

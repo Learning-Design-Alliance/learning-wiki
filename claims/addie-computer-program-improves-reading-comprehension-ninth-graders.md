@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2018
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: talal-alodwan-mosaab-almosa-2018
     resource: "https://doi.org/10.5539/elt.v11n4p43"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2018 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Ninth graders taught with the ADDIE-based computer program scored significantly higher on the reading comprehension post-test than the traditionally taught control group (ANCOVA F = 135.964, Sig. .000). [→ Talal Alodwan & Mosaab Almosa 2018](#talal-alodwan-mosaab-almosa-2018)

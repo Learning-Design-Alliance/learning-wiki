@@ -48,3 +48,4 @@ The review reports this from Choi et al.'s study (reference [77]): feedback plus
 - [Blended teaching (TBL plus feedback and reflection) outperformed traditional bedside teaching on clinical reasoning performance](blended-teaching-tbl-feedback-reflection-beats-bedside-teaching.md) — related
 - [In an RCT reviewed here, adding AI-generated feedback to a GenAI virtual patient improved medical students' clinical decision-making relative to simulation alone](ai-feedback-improves-clinical-decision-making-rct.md) — related
 - [AI-driven case simulations in ambulatory settings support diagnostic reasoning and anticipatory thinking in nursing education](ai-ambulatory-case-simulations-diagnostic-reasoning.md) — related
+- [AI-driven teaching paradigm improves diagnostic performance in medical imaging education](ai-paradigm-improves-diagnostic-performance.md) — related

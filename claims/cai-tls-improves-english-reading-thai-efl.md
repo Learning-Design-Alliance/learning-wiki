@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: jinajai-and-rattanavich-2015
     resource: "https://doi.org/10.5539/elt.v8n11p231"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a one-group time series (two pretests, then three posttests over 10 weeks of CAI based on TLS), 32 ninth grade Thai EFL students' reading scores rose significantly (p = .001); with no comparison group, the rise cannot be attributed to CAI-TLS itself. [→ Jinajai and Rattanavich 2015](#jinajai-and-rattanavich-2015)

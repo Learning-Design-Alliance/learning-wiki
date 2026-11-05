@@ -49,3 +49,4 @@ Gender-comparative descriptive statistics from the accelerometer and GPA data of
 - [Greater in-school sedentary time is linked to higher GPA among girls but not boys, and this gender difference was statistically significant](st-gpa-girls-positive.md) — related
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related
 - [No significant associations were found between classroom peer ecology variables and in-school sedentary time for either gender](no-association-peer-ecology-st.md) — related
+- [Boys spent significantly more time gaming while girls reported higher academic motivation across ages 7-10](sex-differences-gaming-time-and-motivation-levels.md) — related

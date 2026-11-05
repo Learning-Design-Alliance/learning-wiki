@@ -69,6 +69,7 @@ Climate routines function as environmental scaffolding: by making social expecta
 - [Use RJ strategies such as proactive circles to manage classrooms and establish norms beyond discipline](proactive-circles-classroom-management-norms.md)
 - [Create a safe mathematical community through leader posture, absence of negative feedback, and fun without negative competition](safe-mathematical-community-practices.md)
 - [Establish discussion expectations and practice classroom discussion routines at the start of the year](practice-discussion-expectations-start-of-year.md)
+- [Establish anonymous feedback channels and psychologically safe classrooms to support critical expression](anonymous-feedback-psychologically-safe-classroom-strategy.md)
 
 ## Examples
 - **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — the Morning Meeting routine: greeting, sharing, group activity, and news-and-announcements, practiced daily in elementary classrooms.

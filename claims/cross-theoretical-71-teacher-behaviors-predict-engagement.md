@@ -10,7 +10,7 @@ generated:
   at: 2026-10-22
 evidence_strength: weak
 newest_evidence: 2024
-source_checked: 2026-10-22
+source_checked: 2026-11-05
 recheck_by: 2027
 sources:
   - id: reinhard-pekrun-2024
@@ -43,7 +43,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 theoretical `r2`–`r3`, 1 associational `r2` · `q2`–`q3`
-> **Currency** · newest study 2024 · checked against its sources 2026-10-22 (automated, 3 of 3 entries) · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
+> **Currency** · newest study 2024 · checked against its sources 2026-11-05 (automated, 3 of 3 entries) · not reviewed by a person · recheck by 2027: tool and model accuracy changes quickly
 
 ## Subclaims
 

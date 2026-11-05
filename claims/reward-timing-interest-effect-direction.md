@@ -9,7 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-26
+source_checked: 2026-11-05
 sources:
   - id: zhongyu-hu-jiongjiong-yang-2025
     resource: "https://doi.org/10.1038/s41539-025-00374-7"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium
-> **Currency** · newest study 2025 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` The three-way interaction among experiment, reward, and delay on the interest effect was significant (F(1, 81) = 11.52, p = 0.001, ηp2 = 0.12). [→ Zhongyu Hu & Jiongjiong Yang 2025](#zhongyu-hu-jiongjiong-yang-2025)

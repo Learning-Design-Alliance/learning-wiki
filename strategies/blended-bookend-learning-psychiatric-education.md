@@ -49,6 +49,7 @@ The review describes a blended learning model in which "there was self-paced vir
 
 - [Blended Learning](blended_learning.md)
 - [Virtual Flipped Classroom](virtual_flipped_classroom.md)
+- [Embed tailored e-learning in blended, multimodal delirium training that combines face-to-face interaction with regular repetition](blended-multimodal-delirium-training-strategy.md)
 
 ## Examples
 -

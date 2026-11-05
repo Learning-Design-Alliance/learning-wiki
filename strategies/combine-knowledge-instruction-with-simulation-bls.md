@@ -51,6 +51,7 @@ The article states that 'These findings support combining knowledge-based instru
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Use regular refresher training to counter significant decline in BLS knowledge and skills at 3 months](regular-refresher-training-for-bls-decline.md)
 - [Combine standardized theoretical training with high-fidelity simulation-based practical skills training](combine-theoretical-training-with-simulation-phtls.md)
+- [Incorporate the consensus attributes into BLS, ILS, ALS and simulation-based resuscitation education](embed-consensus-attributes-in-resuscitation-training.md)
 
 ## Examples
 -

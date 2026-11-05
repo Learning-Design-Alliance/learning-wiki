@@ -51,3 +51,4 @@ Welch independent-samples t-test comparing male (n=237) and female (n=263) stude
 - [Males show a statistically significant but practically negligible advantage on WISC Full-Scale IQ (d = 0.09), which becomes non-significant with newer WISC versions](wisc-fsiq-negligible-male-advantage.md) — related
 - [Mean FCI scores differ significantly between male and female students at a moderate magnitude favoring male students (g = 0.61) across international PER studies](fci-gender-gap-moderate-favoring-males.md) — related
 - [Syrian medical students show low overall theoretical knowledge of clinical and surgical skills](syrian-medical-students-low-clinical-surgical-knowledge.md) — related
+- [Gender and expertise domain are the most robust grade predictors; females outperform males in 9 of 13 subjects with negligible effects](gender-and-expertise-robust-grade-predictors.md) — related

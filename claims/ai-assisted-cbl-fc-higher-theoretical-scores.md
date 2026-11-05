@@ -53,3 +53,4 @@ Randomized controlled trial of 50 residents (n=25 per group) at a single centre.
 - [PBL-CBL combined teaching improves post-class case analysis scores compared with traditional lecture-based teaching in gynecology residents](pbl-cbl-improves-case-analysis-scores-gynecology-residents.md) — related
 - [Emerging teaching methods (PBL, CBL, FC) significantly improve dental students' exam scores compared to lecture-based learning](emerging-methods-improve-dental-exam-scores.md) — a broader claim this one bears on
 - [AI-assisted CBL+FC residents show superior overall clinical competence on Mini-CEX compared with lecture controls](ai-assisted-cbl-fc-minicex-overall-competence.md) — related
+- [After the intervention, the peer-review group showed significantly greater post-lecture knowledge gains than the control group (83 vs 76, p = 0.003)](peer-review-greater-post-lecture-knowledge-gains.md) — related

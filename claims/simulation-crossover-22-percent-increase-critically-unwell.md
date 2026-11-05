@@ -61,3 +61,4 @@ Narrative review attributing this to McCoy et al.'s prospective randomised cross
 - [Scenario-based simulation yields higher post-test knowledge scores than video-based training in anaesthesia undergraduates learning perioperative anaphylaxis management](sbs-higher-post-test-than-vbt-perioperative-anaphylaxis.md) — related
 - [Voiceover-plus-review-game pedagogy produces quiz performance statistically equivalent to traditional didactic lecture and significantly better than no prior exposure](voiceover-review-game-quiz-equivalence.md) — related
 - [Integrated micro-skills training-CPTM improves OSCE practical skill scores versus traditional teaching](microskills-cptm-higher-osce.md) — related
+- [Facilitated interactive video and simulation-based training produce no statistically significant difference in 3-week BLS OSCE performance when both follow the same standardized lecture](bls-video-vs-simulation-osce-no-difference.md) — related

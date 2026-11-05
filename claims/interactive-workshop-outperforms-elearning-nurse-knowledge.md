@@ -52,3 +52,4 @@ Single quasi-experimental two-group pre-post study among 80 nurses (40 per forma
 - [Educational programmes are associated with significant improvements in nurses' diabetic foot care practice, measured in seven of the nine included studies](educational-programmes-improve-nurse-foot-care-practice.md) — related
 - [Online and interprofessional wound care courses increased students' subjective knowledge, and the online courses were well accepted](online-interprofessional-courses-subjective-knowledge-gains.md) — related
 - [In-person group formats were more effective than online or independent formats for empathy training](in-person-group-format-empathy-training.md) — related
+- [Undergraduate nursing students taught with Skinner's programmed instruction achieved higher post-intervention diabetes knowledge scores than students taught with traditional lectures](programmed-instruction-higher-diabetes-knowledge.md) — related

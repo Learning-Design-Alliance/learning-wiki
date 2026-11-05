@@ -54,3 +54,4 @@ Narrative synthesis of qualitative findings reported in four of the included stu
 - [Tsaroucha et al. (2013) identified 87 specific skills statements across eight core dementia competencies](tsaroucha-87-skills-statements-eight-core-competencies.md) — related
 - [Following the retraining program, nurses show significant improvements in professional engagement indicators including publications, consultations, lectures, and leadership activities.](retraining-improves-professional-engagement-indicators.md) — related
 - [Stakeholder buy-in from leaders, managers, physicians, and patients is reported by TCM specialist nurses as a key influence on their EBP competence development](stakeholder-buy-in-shapes-tcm-nurse-ebp-competence.md) — related
+- [Nurses identify staffing levels, leadership support, teamwork, and the adverse event management system as factors influencing patient safety competency](influencing-factors-psychiatric-safety-competency.md) — related

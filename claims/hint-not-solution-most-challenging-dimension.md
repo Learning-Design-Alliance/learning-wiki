@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-17
+source_checked: 2026-11-05
 recheck_by: 2029
 sources:
   - id: h-chad-lane-2026
@@ -26,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-17 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Models varied widely in guiding students without giving away answers: gpt-oss:20b and olmo-3:7b scored 6% by consistently providing direct solutions, while gemma-4:31b, gemma3:27b, and nemotron-3-super reached 81%. [→ H. Chad Lane 2026](#h-chad-lane-2026)

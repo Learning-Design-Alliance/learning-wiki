@@ -50,6 +50,7 @@ Because planning and implementation was both the weakest-rated domain and the st
 - [Integrate family and school contexts in interventions and promote adolescent academic self-regulation to support the high school transition](cross-context-family-school-asr-interventions.md)
 - [Embed VDT sessions throughout the anatomy curriculum rather than restricting them to isolated modules](embed-vdt-sessions-throughout-curriculum.md)
 - [Integrate mandatory, longitudinal mental health literacy, self-care and reflective practice curricula throughout medical education rather than as isolated end-of-programme options.](longitudinal-mental-health-curriculum-medical-education.md)
+- [Embed structured self-regulation and time management supports in higher education instruction, advising, and first-year curricula](embed-sr-tm-supports-higher-education.md)
 
 ## Examples
 -

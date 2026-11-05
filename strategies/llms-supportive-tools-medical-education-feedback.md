@@ -51,6 +51,7 @@ The article recommends deploying high-accuracy LLMs as supportive tools in medic
 - [Use ChatGPT-4o as a supplementary educational tool rather than an autonomous clinical decision-support system in non-English contexts](chatgpt-4o-as-supplementary-tool-non-english.md)
 - [Use LLMs cautiously as supplementary learning tools in dental education, with output verification and professional supervision](cautious-llm-supplementary-tools-dental-education.md)
 - [Use LLMs in medical education as support tools requiring human review, not as independent decision-makers or authoritative instructors](llms-as-support-tools-medical-education.md)
+- [Use LLMs cautiously in ophthalmology resident training, particularly for complex clinical decision-making cases](cautious-llm-use-in-resident-training-complex-cases.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 125 claims (72 show a difference, 35 mixed, 18 no difference) · 53 studies (19 causal, 19 associational, 8 review, 4 quant-synthesis, 3 theoretical), `q1`–`q4` · 19 of 53 report an effect size · 123 claims rest on one study
+> **Evidence** · 129 claims (74 show a difference, 36 mixed, 19 no difference) · 54 studies (20 associational, 19 causal, 8 review, 4 quant-synthesis, 3 theoretical), `q1`–`q4` · 19 of 54 report an effect size · 127 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -160,6 +160,10 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Achievement goals and grit sequentially chain-mediate the growth mindset–mathematics achievement relationship](../claims/chain-mediation-goals-grit-math.md) [+M] — learners who differ on it differ in outcomes
 - [Performance-avoidance goals are negatively associated with grit and mathematics achievement, yielding a positive indirect pathway via their reduction](../claims/performance-avoidance-goals-negative-grit-math.md) [+M] — learners who differ on it differ in outcomes
 - [The mediating role of mastery-approach goals was not significant](../claims/mastery-approach-mediation-null.md) [-M] — learners who differ on it differ in outcomes
+- [Class environment and mastery approach goal chain-mediate the link between perceived teacher support and learning engagement, with the largest indirect effect](../claims/mastery-approach-goal-chain-mediation-engagement.md) [+M] — learners who differ on it differ in outcomes
+- [Future orientation moderates the first-stage paths from perceived teacher support to mastery approach and performance approach goals, but not to avoidance goals](../claims/future-orientation-moderates-approach-goal-paths.md) [~M] — measured as an outcome of the instruction studied
+- [Performance approach goal positively and performance avoidance goal negatively chain-mediate perceived teacher support effects on learning engagement](../claims/performance-goal-chain-mediation-engagement.md) [+M] — learners who differ on it differ in outcomes
+- [The chain mediation involving mastery avoidance goal between perceived teacher support and learning engagement is not statistically significant](../claims/mastery-avoidance-chain-mediation-null.md) [-M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

@@ -49,3 +49,5 @@ Propensity-matched comparison of 13,432 AVR pairs from the national audit; the a
 - [Trainee first-operator AVR and MVR cases had longer cardiopulmonary bypass and cross-clamp times than consultant cases, without increased early mortality or morbidity](trainee-cases-longer-operative-times-no-harm.md) — related
 - [Residents' care resulted mostly in similar patient outcomes compared with faculty when dedicated supervision and additional operation time were arranged](resident-care-similar-to-faculty-with-supervision.md) — a broader claim this one bears on
 - [In the UK national cohort, trainees performed 18.7% of isolated AVR and 9.8% of isolated mitral operations, with mitral repair lowest at 8.1%](trainee-exposure-avr-mitral-national-proportions.md) — related
+- [In an emergency-surgery subgroup, autonomous resident-led cases achieved outcomes comparable to matched consultant-led emergency cases](resident-led-emergency-surgery-comparable-outcomes.md) — related
+- [In-hospital mortality, complications and postoperative hospitalization were similar between resident-led and consultant-led matched cases](resident-led-in-hospital-outcomes-similar.md) — related

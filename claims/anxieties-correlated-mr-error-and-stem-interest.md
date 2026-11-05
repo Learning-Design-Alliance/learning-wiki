@@ -72,3 +72,4 @@ Zero-order correlations in the full sample (Table 1) showed math anxiety r = -0.
 - [Math, science, and spatial anxieties are positively intercorrelated, and math anxiety shows the strongest negative relation with STEM interest](anxieties-intercorrelated-math-strongest-interest.md) — related
 - [DHH participants reported higher science anxiety than hearing peers, but the groups did not differ in math anxiety, spatial anxiety, spatial habits, mental rotation performance, or STEM interest](dhh-higher-science-anxiety-only.md) — related
 - [Spatial habits of mind correlate with better mental rotation performance and greater STEM interest, while self-reported visualizer tendency does not](spatial-habits-correlate-mr-stem-interest.md) — related
+- [Spatial anxiety negatively predicts performance in maths, science and language grades; state anxiety predicts some grades](spatial-and-state-anxiety-negative-grade-associations.md) — related

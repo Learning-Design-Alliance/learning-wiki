@@ -48,6 +48,7 @@ Based on the moderated mediation findings, the authors recommend that schools su
 ## Related Strategies
 
 - [Structure group work to facilitate collaborative discussions and help-seeking behaviors among peers, particularly for low self-efficacy students](structure-group-work-for-discussion-and-help-seeking.md)
+- [Embed structured self-regulation and time management supports in higher education instruction, advising, and first-year curricula](embed-sr-tm-supports-higher-education.md)
 
 ## Examples
 -

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2013
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: mahmoud-kaddoura-2013
     resource: "https://eric.ed.gov/?id=EJ1061947"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2013 · checked against its sources 2026-11-01 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The difference in CT score increase between the TPS group (42.9) and the Non-TPS group (12.43) was statistically significant (t = 4.327, df = 78, p < 0.001). [→ Mahmoud Kaddoura 2013](#mahmoud-kaddoura-2013)

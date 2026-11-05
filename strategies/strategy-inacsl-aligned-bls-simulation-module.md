@@ -50,6 +50,8 @@ The article describes a structured simulation-based BLS training module "aligned
 - [Use timely facilitator-led debriefing, realistic scenario fidelity, and immediate feedback to enhance simulation learning](debriefing-fidelity-feedback-strategies.md)
 - [Use a one-day multimodal simulation workshop combining lectures, manikins, virtual simulation and a 3D-printed model to train basic bronchoscopy to multidisciplinary teams](one-day-multimodal-bronchoscopy-workshop-strategy.md)
 - [Combine standardized theoretical training with high-fidelity simulation-based practical skills training](combine-theoretical-training-with-simulation-phtls.md)
+- [DBSS session protocol: defect-identification exercise followed by GAS-framework debriefing](dbss-session-protocol-gas-debriefing.md)
+- [Use facilitated interactive video as a scalable BLS training adjunct when simulation capacity is limited](facilitated-video-adjunct-when-simulation-capacity-limited.md)
 
 ## Examples
 -

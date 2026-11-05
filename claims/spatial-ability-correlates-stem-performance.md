@@ -58,3 +58,5 @@ The review reports that studies across many STEM disciplines and sub-disciplines
 - [Evidence for spatial training improving STEM achievement is promising but insufficient; rigorous research is still needed](spatial-training-stem-achievement-evidence-limited.md) — related
 - [Spatial ability scores are positively associated with mathematics performance across children and adults, as the review reports](spatial-ability-associated-mathematics-performance.md) — a narrower finding that bears on this claim
 - [In-class attention and complex spatial ability (MRT) predict seventh-grade mathematics achievement above and beyond prior mathematical knowledge](attention-and-mrt-predict-seventh-grade-math-above-prior-achievement.md) — a narrower finding that bears on this claim
+- [Negative maths-anxiety–performance links persist in STEM-selected high achievers](maths-anxiety-negative-link-in-stem-selected-sample.md) — related
+- [Spatial anxiety negatively predicts performance in maths, science and language grades; state anxiety predicts some grades](spatial-and-state-anxiety-negative-grade-associations.md) — related

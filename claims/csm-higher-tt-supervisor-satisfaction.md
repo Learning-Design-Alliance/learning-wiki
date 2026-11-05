@@ -49,3 +49,4 @@ Nonparametric comparison of supervisor satisfaction surveys (12 Likert-type item
 - [Cooperating teachers who experienced the Clinical Supervision Model rated their university supervisors significantly higher than cooperating teachers under the traditional system](csm-higher-ct-supervisor-satisfaction.md) — related
 - [Experimental-group trainees reported more frequent observations and more systematic, adequate feedback than control-group trainees](csm-more-observations-feedback.md) — related
 - [Trainee satisfaction with the retraining program is high in both formative and summative evaluations.](high-satisfaction-retraining-program-formative-summative.md) — related
+- [NAs reported higher teaching satisfaction after DBSS than after traditional teaching](dbss-higher-teaching-satisfaction-than-tt.md) — related

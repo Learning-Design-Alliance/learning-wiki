@@ -50,3 +50,7 @@ Propensity-matched comparison of operative times in the national AVR cohort; the
 - [Residents' care resulted mostly in similar patient outcomes compared with faculty when dedicated supervision and additional operation time were arranged](resident-care-similar-to-faculty-with-supervision.md) — a broader claim this one bears on
 - [In the UK national cohort, trainees performed 18.7% of isolated AVR and 9.8% of isolated mitral operations, with mitral repair lowest at 8.1%](trainee-exposure-avr-mitral-national-proportions.md) — related
 - [Resident-led femoral IMN takes longer but shows no difference in revision rates or hospital stay](resident-imn-longer-operative-time-similar-revision-stay.md) — related
+- [Case allocation differed by complexity: consultants performed more combined and multivalve procedures while residents performed more isolated CABG](case-complexity-allocation-resident-vs-consultant.md) — related
+- [In an emergency-surgery subgroup, autonomous resident-led cases achieved outcomes comparable to matched consultant-led emergency cases](resident-led-emergency-surgery-comparable-outcomes.md) — related
+- [In-hospital mortality, complications and postoperative hospitalization were similar between resident-led and consultant-led matched cases](resident-led-in-hospital-outcomes-similar.md) — related
+- [Trainee-performed laparoscopic pyloromyotomy takes modestly longer than specialist-performed cases (median +5 minutes)](trainee-lp-longer-operative-time.md) — a narrower finding that bears on this claim

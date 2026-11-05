@@ -59,3 +59,5 @@ Multiple-group invariance tests in the longitudinal SEM compared constrained and
 - [Prior longitudinal SEM studies of self-concept versus achievement causality show heterogeneous causal predominance, varying with design, self-concept operationalization, domain, and achievement measure](heterogeneous-causal-predominance-prior-studies.md) — related
 - [Boys and girls show no gender difference in overall early math achievement on the TEMA-3](no-gender-difference-tema3-overall-math-achievement.md) — related
 - [Formal tests did not indicate statistically significant gender differences in the MVPA-related associations](no-significant-gender-difference-mvpa-paths.md) — a narrower finding that bears on this claim
+- [The GI/E model relations among achievement, self-concept, and intrinsic value are invariant across gender groups](gender-invariance-gie-model-music-visual-arts.md) — related
+- [Variance-covariance structures of gaming and motivation differ by sex, supporting sex-stratified modeling](sex-noninvariance-gaming-motivation-covariance.md) — reports the opposite

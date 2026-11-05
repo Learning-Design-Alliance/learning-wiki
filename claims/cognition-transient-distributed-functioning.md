@@ -53,3 +53,4 @@ Theoretical argument in the paper's introductory section, citing neuroscientific
 - [Physical exercise up-regulates neurotrophic factors and enhances neural structure and function in animals and human adults](exercise-upregulates-neurotrophic-factors-neural-growth.md) — related
 - [Monkey neurophysiology shows adolescent-to-adult antisaccade improvement reflects enhanced representation of the goal and vector inversion, not stronger filtering of the stimulus](monkey-goal-representation-enhancement-not-filtering.md) — related
 - [Not all neurophysiological aspects of auditory distraction mechanisms are mature in late childhood](distraction-mechanisms-immature-late-childhood.md) — related
+- [Students describe acquiring evidence-based stress management skills whose adoption was grounded in psychoeducation about stress physiology and the autonomic nervous system](stress-skills-psychoeducation-grounding.md) — related

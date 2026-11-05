@@ -50,3 +50,4 @@ Transition Leaders subsection of the review's Collaboration theme, synthesising 
 - [Principals in improving schools actively reach out to teachers, parents, and community leaders and coordinate programs strategically](improving-school-principals-reach-out-coordinate-programs.md) — related
 - [Leveraging pre-existing networks or hubs may support greater potential for long-term sustainability of cross-sector reform](preexisting-networks-support-sustainability.md) — related
 - [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related
+- [Panelists identified distributed leadership, role clarity, and structured team functioning as a core collaboration domain](smh-collab-leadership-team-functioning-domain.md) — related

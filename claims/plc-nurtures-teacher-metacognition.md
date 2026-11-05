@@ -9,7 +9,7 @@ generated:
   at: 2026-09-26
 evidence_strength: weak
 newest_evidence: 2012
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 sources:
   - id: prytula-2012
     resource: "https://doi.org/10.5539/ies.v5n4p112"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2012 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All three teacher participants were able to recognize and describe their metacognition, and reported that the PLC environment developed or nurtured that thinking. [→ Prytula 2012](#prytula-2012)

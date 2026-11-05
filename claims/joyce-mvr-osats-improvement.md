@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2023
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: el-andari-r-2023
     resource: "https://doi.org/10.1503/cjs.017921"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2023 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Eleven cardiothoracic residents with no previous clinical mitral valve experience showed significant improvement on all 11 points of a modified Objective Structured Assessment of Technical Skills, and mean completion time fell from 31 (SD 9) to 25 (SD 6) minutes (p = 0.03). [→ EL-Andari R 2023](#el-andari-r-2023)

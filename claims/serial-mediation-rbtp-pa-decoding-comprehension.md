@@ -52,3 +52,4 @@ Sequential multiple-mediation SEM in the twin sample (n = 328); the over-identif
 - [Phonological awareness and rapid bimodal temporal processing partially mediate the Reading-PGS-to-reading association](pa-rbtp-mediate-reading-pgs-reading-skills.md) — related
 - [Direct and indirect Reading-PGS effects remain largely after controlling for educational-attainment and cognitive-ability polygenic scores](reading-pgs-effects-specific-to-reading-not-education-iq.md) — related
 - [Reading-PGS is modestly but significantly associated with phonological awareness, rapid bimodal temporal processing, decoding and comprehension in 8-year-old twins](reading-pgs-modest-associations-reading-endophenotypes.md) — related
+- [The hypothesized sequential mediation model fits better than parallel, single-mediator, and reverse-causality alternatives](sequential-model-better-fit-alternatives.md) — related

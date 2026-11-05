@@ -51,3 +51,4 @@ Structured questionnaire with open-ended questions administered immediately afte
 - [Student perceptions of pre-clinical TBL are generally favourable, but peer feedback is sometimes met with hesitation](tbl-student-perceptions-favourable-peer-feedback-hesitation.md) — related
 - [Focus group interviews identified four user-experience themes: individualized learning, clinical reasoning engagement, educational applicability, and areas for improvement](vega-focus-group-four-themes.md) — related
 - [The variety of learning activities offered each week, along with the engagement and clinical relevance of these, was the strongest theme raised by students in open-ended survey responses.](variety-of-learning-activities-strongest-student-theme.md) — related
+- [Medical students' views on learning pharmacotherapy cluster into four themes: Curriculum, Clinical placement, Theoretical teaching and Student responsibility](four-themes-students-pharmacotherapy-learning.md) — related

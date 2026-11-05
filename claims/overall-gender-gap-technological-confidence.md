@@ -93,3 +93,4 @@ Independent samples t-test with Welch's correction on the survey's gender-based 
 - [Female nursing students report greater e-learning satisfaction, higher self-efficacy, and higher perceived academic performance than male students](female-nursing-students-higher-satisfaction-self-efficacy-performance.md) — reports the opposite
 - [Gender and major differences in agentic engagement and autonomy-support perceptions among Chinese EFL students](gender-major-differences-ae-past.md) — related
 - [Student perceptions of the GPT companion do not differ significantly by gender, academic background, or GPA](no-perception-differences-gender-stream-gpa-gpt-companion.md) — related
+- [Age and gender did not significantly predict academic self-efficacy in the structural model](age-gender-null-predictors-ase.md) — reports the opposite

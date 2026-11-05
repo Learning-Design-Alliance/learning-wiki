@@ -54,6 +54,7 @@ The review recommends that immersive technologies like VR and AR be used as supp
 - [Embed game activities and resources across distributed existing media rather than building a stand-alone immersive game world](distributed-media-altrg-resource-strategy.md)
 - [Use VR simulation alongside other teaching models to raise motivation and satisfaction in anatomy education](vr-alongside-other-teaching-models-anatomy.md)
 - [Use AR to supplement limited anatomy lab access by simulating visuospatial aspects of cadaveric dissection with multi-user collaborative functions](ar-supplement-limited-anatomy-lab-access.md)
+- [Use virtual simulation games as a preliminary or complementary method to face-to-face simulation and clinical practice](vsg-as-preliminary-or-complementary-simulation.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ Qualitative thematic finding from focus group discussions with 40 nursing studen
 - [Peer observation and structured debriefing are perceived by students as key opportunities for reflection and learning during simulation](debriefing-peer-observation-reflection.md) — related
 - [Peer observation anxiety, limited practice time, and large group sizes are perceived barriers to optimal learning in simulation-based BLS training](simulation-bls-perceived-barriers.md) — related
 - [Structured debriefing is reported to enhance clinical skills and affect patient care outcomes](structured-debriefing-enhances-clinical-skills.md) — related
+- [Nursing students report ineffective and inconsistent feedback in clinical practice due to overcrowded groups and limited instructor availability](students-report-ineffective-clinical-feedback-nanda.md) — related

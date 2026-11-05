@@ -51,3 +51,4 @@ Construct-validity comparison using a low-fidelity mitral valve replacement trai
 - [A 2-day endoscopic mitral annuloplasty course significantly improved operative speed, suture accuracy and theoretical knowledge](sardari-nia-endoscopic-mv-course-gains.md) — related
 - [Experienced participants scored significantly higher than novices on both OSATS and TSMs in simulated crural repair](experienced-outperform-novices-osats-tsm.md) — a narrower finding that bears on this claim
 - [Attending surgeons significantly outperformed residents on hand motion metrics including total hand displacement, cumulative hand motion directions, and time to complete a suture task when using a spreader graft placement simulator.](expert-resident-hand-motion-metrics-spreader-graft-simulator.md) — related
+- [The OSATS grid and checklist discriminated ultrasound experts from students-in-training in preliminary validation](osats-checklist-expert-student-discriminant-validation.md) — related

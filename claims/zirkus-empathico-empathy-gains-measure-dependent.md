@@ -9,7 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: mixed
 newest_evidence: 2023
-source_checked: 2026-10-26
+source_checked: 2026-11-05
 sources:
   - id: naumann-2023
     resource: "https://doi.org/10.1038/s41539-023-00169-8"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q4` · `i1` small
-> **Currency** · newest study 2023 · checked against its sources 2026-10-26 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q4 i1` The Zirkus Empathico group showed larger increases in EMK 3-6 parent-rated empathy than controls (d = 0.28), while no group difference was detected for the GEM parent rating or the EMK child assessment. [→ Naumann 2023](#naumann-2023)

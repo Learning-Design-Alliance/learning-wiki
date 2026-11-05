@@ -51,3 +51,4 @@ Within-subject observer study of 40 fourth-year dental students reading 40 panor
 - [AI-assisted training did not significantly improve undergraduate dental students' diagnostic scores for proximal caries extension compared with conventional radiology training](ai-training-no-gain-dental-caries-diagnostic-scores.md) — related
 - [Exposure to AI-assisted training did not impair students' independent radiographic interpretation when AI support was removed](ai-training-did-not-impair-independent-interpretation.md) — related
 - [AI-assisted radiograph interpretation showed improved outcomes in dental student training](ai-assisted-radiograph-interpretation-improved-outcomes.md) — a broader claim this one bears on
+- [AI-driven teaching paradigm improves diagnostic performance in medical imaging education](ai-paradigm-improves-diagnostic-performance.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2019
-source_checked: 2026-10-20
+source_checked: 2026-11-05
 sources:
   - id: lotan-2019
     resource: "https://learningpolicyinstitute.org/product/instructional-leadership-corps-teachers-leading"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
-> **Currency** · newest study 2019 · checked against its sources 2026-10-20 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Lasting changes in pedagogy are more likely when teachers have opportunities to try out new strategies, receive feedback, address implementation challenges, and iteratively improve over multiple workshops with advisors and coaches at hand. [→ Lotan 2019](#lotan-2019)
@@ -63,3 +63,4 @@ Cross-case observational finding from the Lessons Learned chapter (Lesson 4); th
 - [The IDR methodology and workshop model were iteratively developed and refined through use by a project team and at international conferences](idr-iterative-development-and-refinement.md) — a narrower finding that bears on this claim
 - [The EGRS RCT found that the structured pedagogy model combining on-site coaching, quality materials, and scripted lesson plans was the most effective of the tested models for improving early grade reading outcomes](egrs-coaching-model-most-effective-rct.md) — a narrower finding that bears on this claim
 - [Interventions giving teachers opportunities to practice teaching are likely to be effective for developing self‐efficacy beliefs](practice-opportunities-develop-teacher-self-efficacy.md) — possibly the same claim (merge candidate)
+- [Introducing explicit learning objectives and preparatory materials between iterations was associated with improved resident ratings of teaching materials and educational value](preparatory-materials-improved-ratings.md) — a narrower finding that bears on this claim

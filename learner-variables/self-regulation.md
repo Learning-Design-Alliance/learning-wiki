@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 256 claims (181 show a difference, 43 mixed, 32 no difference) · 184 studies (68 causal, 40 associational, 38 review, 14 quant-synthesis, 11 theoretical, 10 qualitative, 3 design), `q1`–`q4` · 34 of 184 report an effect size · 247 claims rest on one study
+> **Evidence** · 257 claims (182 show a difference, 43 mixed, 32 no difference) · 185 studies (68 causal, 41 associational, 38 review, 14 quant-synthesis, 11 theoretical, 10 qualitative, 3 design), `q1`–`q4` · 35 of 185 report an effect size · 248 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -305,6 +305,7 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [No significant relationships were found between vocabulary learning strategy use and recognition vocabulary, or between strategy use and vocabulary in the control group](../claims/no-relationship-strategies-recognition-and-control-vocabulary.md) [-M] — learners who differ on it differ in outcomes
 - [Students integrate educational Instagram content into self-regulated learning strategies including rapid revision, self-assessment, and consolidation](../claims/histo-embryo-instagram-supports-self-regulated-learning.md) [+M] — measured as an outcome of the instruction studied
 - [Self-monitoring accuracy for a complex clinical skill improved over a six-month retention interval](../claims/self-monitoring-accuracy-improves-over-six-months.md) [+M] — measured as an outcome of the instruction studied
+- [In a structural model, self-regulation predicts time management (β = 0.72), time management predicts academic self-efficacy (β = 0.61), and self-regulation directly predicts academic self-efficacy (β = 0.44)](../claims/sem-direct-paths-sr-tm-ase.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

@@ -89,3 +89,5 @@ SEM model comparison for NO in the same sample; the direct math-anxiety path was
 - [Text-structure knowledge in passages and word problems mediates acquisition and cross-domain transfer effects](text-structure-knowledge-mediates-transfer.md) — related
 - [Numerical cognition assessed at end of first grade statistically mediates associations between early processing speed, working memory, calculation skill, word-problem solving, and attentive behavior and later calculations, word-problem solving, and reading](numerical-cognition-mediation-academic-outcomes.md) — related
 - [A partial mediation model fits the TEM–sentiment–motivation data better than a full mediation model](partial-mediation-model-fits-better.md) — related
+- [The association between inhibition and first-grade achievement in math, reading, and writing is fully mediated by LRBs](lrb-full-mediation-inhibition-achievement.md) — related
+- [The hypothesized sequential mediation model fits better than parallel, single-mediator, and reverse-causality alternatives](sequential-model-better-fit-alternatives.md) — related

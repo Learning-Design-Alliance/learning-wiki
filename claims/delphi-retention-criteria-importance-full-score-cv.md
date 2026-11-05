@@ -46,3 +46,4 @@ Delphi methodological criterion stated in the abstract methods and applied in ro
 
 ## Related Claims
 - [Expert engagement was strong: effective recovery rates were 90% and 100% across the two rounds and the expert authority coefficient was 0.930](delphi-recovery-rates-90-100-authority-0930.md) — related
+- [Expert consensus was reached on 35 of 39 candidate attributes for nurses' effective participation in in-hospital resuscitation teams](delphi-35-of-39-attributes-consensus.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: xing-lu-2026
     resource: "https://doi.org/10.1371/journal.pone.0351149"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Indirect effect via TSE (β = 0.189, 37.35% of total effect), via PTC (β = 0.040, 7.91%), and chain PO→TSE→PTC→TJS (β = 0.069, 13.64%) were all significant with CIs excluding zero. [→ Xing Lu 2026](#xing-lu-2026)

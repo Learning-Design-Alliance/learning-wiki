@@ -55,3 +55,4 @@ Topic modeling (optimized LDA) of a corpus of 214 documents from 50 U.S. univers
 - [Topic modelling yielded 16 topics dominated by four: AI in Education & Pedagogy (39.43%), Applied ML & Data Science (21.33%), AI Ethics Risk & Governance (20.83%), and ChatGPT for Teaching, Writing & Coding (7.13%)](four-dominant-bertopic-topics-aied-twitter.md) — related
 - [Most CAHIIM-accredited HI/HIM master's programs (40 of 48, 83%) have at least one publicly available AI-related document, and most documents are guidance rather than formal policy](most-cahiim-programs-have-ai-guidance-documents.md) — related
 - [Universities pair academic-integrity guidance with AI literacy and student readiness supports, treating literacy as strategic rather than punitive](genai-integrity-paired-with-ai-literacy.md) — related
+- [BERTopic clustering of medical documents produced highly distinct topics rated highly by medical experts](bertopic-clustering-high-quality-topics.md) — related

@@ -110,3 +110,4 @@ The review's synthesis of reported limitations across VR studies, naming cybersi
 - [Transfer of VR training gains to real clinical practice remains unconfirmed](vr-training-transfer-unconfirmed.md) — related
 - [Comprehensive data linking simulation training to patient outcomes, complication rates, and long-term skill retention are lacking](simulation-skill-transfer-outcomes-lacking.md) — related
 - [Physical examination modules in the metaverse face technical limitations in replicating procedures requiring tactile or haptic feedback](metaverse-physical-exam-haptic-limitations.md) — a narrower finding that bears on this claim
+- [Students who train on the VR haptic simulator first report higher self-confidence in performing access cavity preparation and managing procedural challenges](vr-first-higher-self-confidence.md) — a narrower finding that bears on this claim

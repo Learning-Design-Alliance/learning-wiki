@@ -55,3 +55,4 @@ Subgroup analysis (test for subgroup differences, Fig. 3) comparing time improve
 - [Mean anastomosis completion time decreased significantly after training, with significant reductions among second- and third-year residents](anastomosis-completion-time-reduction-pgy2-3.md) — related
 - [Students with more prior ultrasound experience show larger confidence gains from TEE simulator training](prior-ultrasound-experience-moderates-tee-confidence-gains.md) — related
 - [Significant gaps persist in perceived adequacy of rhinoplasty training exposure, with 72% of senior residents reporting adequate training versus only 13% of junior residents.](rhinoplasty-training-exposure-gap-senior-junior-residents.md) — related
+- [Simulation-trained residents complete the 11-view pediatric TEE protocol significantly faster than apprenticeship-trained residents](simulation-training-shorter-tee-examination-duration.md) — related

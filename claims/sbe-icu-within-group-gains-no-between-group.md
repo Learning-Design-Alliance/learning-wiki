@@ -80,3 +80,5 @@ A scoping review of simulation-based education (SBE) for delirium recognition. I
 - [Both video-based and simulation-based training produce similarly high practical skills post-training with no overall between-group difference](video-and-simulation-similar-practical-skills-post-training.md) — related
 - [Clinical self-efficacy improves within all training groups but shows no significant between-group differences](clinical-self-efficacy-improves-within-all-groups-no-between-group-difference.md) — related
 - [No statistically significant relationship was observed between video-based learning and overall procedural competency (r = 0.153, p = 0.086)](no-significant-relationship-video-overall-competency.md) — related
+- [Within both training groups, knowledge scores rose significantly from pre-test to post-test, with very large within-group effect sizes](bls-prepost-knowledge-gain-both-groups.md) — possibly the same claim (merge candidate)
+- [INACSL-standard-based simulation training does not significantly improve midwifery students' self-confidence compared with standard training](inacsl-simulation-no-self-confidence-gain.md) — related

@@ -49,6 +49,7 @@ The review recommends that OSS be combined with didactic prebriefing, experienti
 - [Reflection Exercises](reflection_exercises.md)
 - [Integrate simulation as a curriculum-embedded component with trained instructors and technological infrastructure](embed-simulation-in-curriculum-strategy.md)
 - [Embed simulation-based scenarios into the curriculum as structured learning modules with guided debriefings and reflective exercises](simulation-modules-debriefing-strategy.md)
+- [Structure AI virtual patient sessions with pre-briefing, a structured diagnostic guide, and case-specific debriefing](pre-briefing-debriefing-ai-virtual-patient-session.md)
 
 ## Examples
 -

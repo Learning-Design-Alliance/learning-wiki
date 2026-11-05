@@ -77,3 +77,4 @@ Diary excerpt from ChatGPT participant P11 illustrating that even a principle-or
 - [Students using Google produce higher-quality justifications in their final recommendations than students using ChatGPT 3.5](web-search-higher-quality-justifications-than-llm.md) — related
 - [Fragmented vocabularies bias AI-mediated literature retrieval toward the user's home discipline](fragmented-vocabularies-bias-ai-retrieval.md) — related
 - [End users may prefer a biased recommender system over a fairer, more accurate debiased version](users-prefer-biased-recommender.md) — related
+- [ChatGPT and Google groups produced the most additional correct information beyond the sample solution; paper and video groups produced less](chatgpt-google-most-additional-information.md) — related

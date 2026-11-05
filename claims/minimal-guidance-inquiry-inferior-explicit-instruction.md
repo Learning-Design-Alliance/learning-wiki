@@ -10,7 +10,6 @@ generated:
   at: 2026-10-13
 evidence_strength: weak
 newest_evidence: 2016
-source_checked: 2026-11-03
 sources:
   - id: lazonder-2016
     resource: "https://doi.org/10.3102/0034654315627366"
@@ -42,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies (3 entries) · 1 causal `r1`, 1 quant-synthesis `r3` · `q2` · `i1` small
-> **Currency** · newest study 2016 · checked against its sources 2026-11-03 (automated, 3 of 3 entries) · not reviewed by a person
+> **Currency** · newest study 2016 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 

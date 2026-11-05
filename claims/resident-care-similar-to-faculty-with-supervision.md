@@ -70,3 +70,5 @@ Same synthesis of faculty-versus-resident comparisons. The review reports that d
 - [Trainee first-operator AVR and MVR cases had longer cardiopulmonary bypass and cross-clamp times than consultant cases, without increased early mortality or morbidity](trainee-cases-longer-operative-times-no-harm.md) — a narrower finding that bears on this claim
 - [Resident-led femoral IMN takes longer but shows no difference in revision rates or hospital stay](resident-imn-longer-operative-time-similar-revision-stay.md) — a narrower finding that bears on this claim
 - [Hospitalization time was significantly longer in the staff (non-teaching) group than in the resident (teaching) group](staff-group-longer-hospitalization.md) — a narrower finding that bears on this claim
+- [Median hospital length of stay was longer in the intervention group than the control group (19 vs. 13 days)](longer-los-intervention-group.md) — related
+- [In-hospital mortality, complications and postoperative hospitalization were similar between resident-led and consultant-led matched cases](resident-led-in-hospital-outcomes-similar.md) — a narrower finding that bears on this claim

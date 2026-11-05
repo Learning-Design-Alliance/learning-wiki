@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 72 claims (38 for, 31 mixed, 3 against) · 65 studies (26 causal, 16 review, 15 quant-synthesis, 3 associational, 3 design, 2 theoretical), `q1`–`q4` · 16 of 65 report an effect size · 64 claims rest on one study
+> **Evidence** · 74 claims (40 for, 31 mixed, 3 against) · 66 studies (27 causal, 16 review, 15 quant-synthesis, 3 associational, 3 design, 2 theoretical), `q1`–`q4` · 17 of 66 report an effect size · 66 claims rest on one study
 
 ## Conditional relationship
 
@@ -133,6 +133,8 @@ Claims read against this model that do not change it. Each says what it is and w
 - [Gamified web and mobile learning show moderate knowledge effects with greater variability than serious games](../claims/gamified-web-mobile-moderate-knowledge-effects.md) [~W] — attached 2026-10-31 from Chen W.-L. et al. (2026), which proposed "Select gamification approaches by matching format to educational objectives, institutional technological capabilities, and implementation context".
 - [In a Thai university EFL course, students revising with Kahoot achieved higher adjusted post-test grammar and vocabulary scores than students revising with paper quizzes](../claims/kahoot-higher-posttest-performance-than-paper-quizzes.md) [+W] — attached 2026-11-01 from Saovapa Wichadee et al. (2017), which proposed "When using game-based quizzes, instructors should explain correct answers and tell students the real learning purpose beyond competition"; tests this page's relationship.
 - [Gamification studies in SLA show positive results on learning achievement and motivation but without confirmed correlation between the two](../claims/gamification-sla-learning-motivation-no-confirmed-correlation.md) [~W] — attached 2026-11-03 from Boudadi et al. (2020), which proposed "Exercise caution when adopting gamification in language learning until further research shows clearer results".
+- [Gamification-supported teaching has a substantive effect on pre-service teachers' concept images of curriculum elements, with large effect sizes for content (d = 1.59) and total score (d = 2.04)](../claims/gamification-effect-concept-images-curriculum-elements.md) [+W] — attached 2026-11-05 from Uysal (2026), which proposed "Use gamification-supported teaching as an effective approach for teaching abstract concepts such as curriculum elements in teacher education"; tests this page's relationship.
+- [Content analysis of experimental-group journals identifies increased motivation, enhanced conceptual understanding, and interest-curiosity as primary themes of gamified learning experiences](../claims/journal-themes-motivation-understanding-curiosity.md) [+W] — attached 2026-11-05 from Uysal (2026), which proposed "Use gamification-supported teaching as an effective approach for teaching abstract concepts such as curriculum elements in teacher education".
 
 ## Objective and learner-valued goal
 

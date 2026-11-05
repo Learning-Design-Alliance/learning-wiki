@@ -78,6 +78,8 @@ Debriefing operationalizes the reflection stage of experiential learning: experi
 - [Structured pre- and post-simulation assignments to consolidate clinical reasoning learning](pre-post-simulation-reflective-assignments.md)
 - [Use video-recorded simulation sessions followed by instructor-led structured self-reflection and peer review to enable reflection-on-action](video-feedback-structured-reflection-strategy.md)
 - [Use structured debriefing after simulation scenarios to consolidate transferable prevention actions](structured-daa-debriefing-after-simulation.md)
+- [Gather-Analyze-Summarize (GAS) guided feedback model after simulation cases](gas-guided-feedback-model-strategy.md)
+- [Structure AI virtual patient sessions with pre-briefing, a structured diagnostic guide, and case-specific debriefing](pre-briefing-debriefing-ai-virtual-patient-session.md)
 
 ## Examples
 - **Simulation-based healthcare education** — Post-scenario debriefing is considered the pedagogical heart of simulation; programs following Fanning & Gaba's framework treat the scenario as merely the stimulus for the debrief.

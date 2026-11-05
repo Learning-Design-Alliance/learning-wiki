@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: fuchs-2015
     resource: "https://eric.ed.gov/?id=ED557580"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
-> **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Each intervention condition outperformed CON on generalized fraction knowledge (NAEP), the measurement interpretation (number line), and fraction calculations, with ESs ranging from 0.57 to 2.08 across measures and conditions. [→ Fuchs 2015](#fuchs-2015)

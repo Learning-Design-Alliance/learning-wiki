@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2015
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: chattuchai-et-al-2015
     resource: "https://doi.org/10.5897/ERR2015.2360"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
-> **Currency** · newest study 2015 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` On pretest-adjusted posttests the experimental group scored higher than the control group in knowledge, awareness, decreasing behavior and critical thinking in three aspects except deduction (p ≤ .002); the findings text says awareness and behavior were higher "in one area", while Tables 3 and 4 show significant differences in every awareness and behavior area. [→ Chattuchai et al. 2015](#chattuchai-et-al-2015)

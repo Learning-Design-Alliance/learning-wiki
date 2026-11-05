@@ -58,6 +58,7 @@ The article recommends that institutions integrate mandatory, longitudinal teach
 - [Integrate EI into health sciences curricula through structured experiential methods such as reflective journaling, simulation, peer mentoring, and structured debriefing](ei-experiential-curriculum-integration-strategy.md)
 - [Embed longitudinal planning scaffolds and time support at semester transitions in preclinical curricula](longitudinal-planning-scaffolds-transitions.md)
 - [Integrate MLM education longitudinally with experiential learning and robust program evaluation](mlm-longitudinal-experiential-integration-strategy.md)
+- [Embed brief experiential wellness activities longitudinally within existing health professions curricula](embed-longitudinal-experiential-wellness-activities.md)
 
 ## Examples
 -

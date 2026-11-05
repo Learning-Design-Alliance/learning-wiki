@@ -56,3 +56,4 @@ Inter-rater analysis of rubric-component scores from 231 pre-service teachers gr
 - [The CALM tool showed only weak inter-rater agreement (weighted Kappa 0.45) in its single ED video-review study](calm-weak-kappa-045-single-study.md) — related
 - [Mistral 7B shows high ICCs but low Fleiss kappa when scoring summary statements](mistral-7b-high-icc-low-fleiss-kappa.md) — related
 - [Student–expert agreement on bias assessment improves significantly after EBD training](student-expert-agreement-improves-post-ebd-training.md) — related
+- [Rubric scoring of concept image protocols showed inter-rater reliability exceeding acceptable thresholds (Fleiss Kappa 0.60–0.88; Krippendorff's Alpha 0.60–0.88; ICC 0.89–0.98)](concept-image-rubric-inter-rater-reliability.md) — related

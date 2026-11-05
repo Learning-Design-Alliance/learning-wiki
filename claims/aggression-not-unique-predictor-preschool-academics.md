@@ -55,3 +55,4 @@ HLM regression of preliteracy, language, and mathematics on inattention, aggress
 - [Early language skills predict later adolescent externalizing behavior problems](early-language-predicts-externalizing.md) — related
 - [Prevalence of sustained shared thinking in preschool settings predicts children's outcomes on academic and social-behavioral measures](sustained-shared-thinking-predicts-child-outcomes.md) — related
 - [Baseline levels of aggressive and antisocial behavior did not interact with any other predictor variables](baseline-aggression-no-moderation.md) — related
+- [Trait anxiety, GAD symptoms, social anxiety and anxiety sensitivity do not predict any school grades after controlling for other predictors](four-anxiety-measures-predict-no-grades.md) — related

@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2018
-source_checked: 2026-11-01
+source_checked: 2026-11-05
 sources:
   - id: qoura-zahran-2018
     resource: "https://doi.org/10.5539/elt.v11n9p68"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2018 · checked against its sources 2026-11-01 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The experimental group's post-test critical thinking mean (30.10) exceeded the control group's (24.07); the authors describe the difference as significant, but the printed t values are for each group's pre/post change, not for the comparison between groups. [→ Qoura & Zahran 2018](#qoura-zahran-2018)

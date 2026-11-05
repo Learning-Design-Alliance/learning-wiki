@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: weak
 newest_evidence: 2015
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: rattanavich-2015
     resource: "https://doi.org/10.5539/ies.v8n7p21"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2015 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Promnont and Rattanavich (2015) studied eleventh-grade students taught through CLE model III, measuring reading development, creative writing abilities, and satisfaction, with significant gains reported at the .001 level. [→ Rattanavich 2015](#rattanavich-2015)

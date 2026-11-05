@@ -173,3 +173,4 @@ A systematic review and meta-analysis (search through May 2011 across MEDLINE, E
 - [VR simulation training produces higher DOPS procedural skill scores than real-patient or mannequin training for ECG lead placement](vr-training-higher-dops-ecg-lead-placement.md) — a narrower finding that bears on this claim
 - [A structured microskill stepwise progression model improves end-of-rotation tooth extraction competence compared with traditional apprenticeship-based teaching.](microskill-stepwise-progression-improves-tooth-extraction-competence.md) — related
 - [Transfer of VR training gains to real clinical practice remains unconfirmed](vr-training-transfer-unconfirmed.md) — related
+- [Error rates in audited clinical practice were lower after DBSS than after traditional teaching across the three core procedures](dbss-reduces-clinical-practice-error-rates.md) — a narrower finding that bears on this claim

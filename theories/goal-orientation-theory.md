@@ -12,7 +12,7 @@ generated:
 # Goal Orientation Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 54 claims (42 for, 12 mixed) · 28 studies (14 associational, 6 causal, 3 quant-synthesis, 3 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 28 report an effect size · 54 claims rest on one study
+> **Evidence** · 56 claims (43 for, 13 mixed) · 29 studies (15 associational, 6 causal, 3 quant-synthesis, 3 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 29 report an effect size · 56 claims rest on one study
 
 ## Description
 Goal setting is itself a key motivational process (Locke & Latham, 1984, 2006) — the goals learners choose, and how committed they are to attaining them, shape motivation to learn (Wentzel, 2000). But beyond goal *content* (what a learner wants to achieve), goal orientation theory argues that the *reason* a learner pursues a goal has its own independent effect on learning and performance, explaining differences in how individuals approach and respond to achievement situations (Ames & Archer, 1988; Meece, Anderman, & Anderman, 2006).
@@ -115,6 +115,8 @@ Because mastery-approach goals reliably support the more sustained, thoughtful l
 - [University instructors' performance goals split into four classes: appearance and normative components, each approach and avoidance.](../claims/four-performance-goal-classes-appearance-normative.md) [+W]
 - [National income inequality is associated with a stronger student orientation toward competitiveness (PISA 2003 and 2000)](../claims/income-inequality-competitiveness-orientation.md) [~W]
 - [GIS-based teaching produced significantly higher post-test mastery goal scores than traditional teaching among underachieving Geography students, with a medium-sized between-group effect at post-test](../claims/gis-teaching-higher-mastery-goal-underachievers.md) [+W] — attached 2026-11-01 from Soon Singh Bikar Singh et al. (2016), which proposed "Goal Orientation Theory: mastery goal-oriented students are more concerned with learning and understanding the topic taught".
+- [Class environment and mastery approach goal chain-mediate the link between perceived teacher support and learning engagement, with the largest indirect effect](../claims/mastery-approach-goal-chain-mediation-engagement.md) [+W] — attached 2026-11-05 from Liu Zihan et al. (2026), which proposed "Moderated chain mediation model of perceived teacher support, class environment, achievement goal orientation, and future orientation"; tests this page's relationship.
+- [Future orientation moderates the first-stage paths from perceived teacher support to mastery approach and performance approach goals, but not to avoidance goals](../claims/future-orientation-moderates-approach-goal-paths.md) [~W] — attached 2026-11-05 from Liu Zihan et al. (2026), which proposed "Moderated chain mediation model of perceived teacher support, class environment, achievement goal orientation, and future orientation".
 
 ## The evidence by question
 

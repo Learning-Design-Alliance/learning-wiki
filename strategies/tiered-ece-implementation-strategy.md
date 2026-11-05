@@ -87,6 +87,9 @@ The authors recommend a sequenced implementation model: "It is recommended to ac
 - [Structured pre-simulation briefing, hands-on practice, and model-based debriefing sequence](briefing-practice-debriefing-sequence-sbl.md)
 - [Expand simulation-based and laboratory training before and alongside clinical practice](expand-simulation-laboratory-training-nursing.md)
 - [Implement XR-based ultrasound training as partial replacement of standard training during a dedicated training day](xr-partial-replacement-training-day.md)
+- [Promote learner responsibility and supervised independence to optimise the concrete experience](learner-responsibility-bedside-concrete-experience.md)
+- [Staged hybrid model: programmed instruction for foundational skills, then case-based scenarios for clinical reasoning](staged-hybrid-programmed-instruction-case-based.md)
+- [Use virtual simulation games as a preliminary or complementary method to face-to-face simulation and clinical practice](vsg-as-preliminary-or-complementary-simulation.md)
 
 ## Examples
 -

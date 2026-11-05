@@ -49,3 +49,4 @@ Post-study 7-point Likert questionnaire from the same 15 developers (Table 3), t
 - [NAMI On Campus Club participants reported high confidence in their clubs' impact, with 72–100% agreement across survey items](nami-campus-club-survey-outcomes.md) — related
 - Participants reported a strong level of agreement and high satisfaction with ideation discussion activities in Design Thinking — related
 - [After playing the videogame, 100% of students fully agreed with the heuristic (trial-and-error) thinking item; before playing, 94% were indifferent and 6% disagreed, based on self-reported responses in one single-group pre-post study](videogame-heuristic-thinking-unanimous-agreement.md) — related
+- [Participant satisfaction was exceptionally high, with 100% satisfied with course content and all satisfaction means significantly above the neutral midpoint](high-satisfaction-microscope-ergonomics-course.md) — related

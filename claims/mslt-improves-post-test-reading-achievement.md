@@ -9,7 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2018
-source_checked: 2026-11-03
+source_checked: 2026-11-05
 sources:
   - id: çelik-korkmaz-2018
     resource: "https://eric.ed.gov/?id=EJ1195281"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2018 · checked against its sources 2026-11-03 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Fourth-grade pupils taught through MSLT outperformed the control group on the post-test reading achievement measure. [→ Çelik Korkmaz 2018](#celik-korkmaz-2018)

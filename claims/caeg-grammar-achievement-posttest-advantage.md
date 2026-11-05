@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2020
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: adil-kayan-ibrahim-seçkin-aydın-2020
     resource: "https://doi.org/10.5430/wje.v10n1p117"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2020 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` After 12 weeks, the experimental group's grammar achievement posttest scores were significantly higher than the control group's. [→ Adil Kayan & İbrahim Seçkin Aydın 2020](#adil-kayan-ibrahim-seckin-aydn-2020)

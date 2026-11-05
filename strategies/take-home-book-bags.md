@@ -67,6 +67,7 @@ Book bags operationalize home literacy involvement by lowering its coordination 
 - [Introduce take-home decodable packs through teacher-led small-group instruction before sending them home](small-group-then-home-decodable-practice.md)
 - [Provide accessible caregiver resources and QR-code video lessons to strengthen the school-home literacy connection](family-support-hub-caregiver-literacy-resources.md)
 - [Shared book reading as a potential intervention for increasing lexical diversity in young children's learning environments](shared-book-reading-lexical-diversity-intervention.md)
+- [Low-cost, schoolwide book distribution without teacher training or incentives as a scalable literacy strategy](no-training-schoolwide-book-distribution-strategy.md)
 
 ## Examples
 - **Raising a Reader** (https://www.raisingareader.org) — a national program rotating red bags of award-winning books through early-childhood classrooms, with caregiver training in shared-reading techniques.

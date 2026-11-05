@@ -63,3 +63,4 @@ Two equivalent-group quasi-experiment with 20 students per group matched on pre-
 - [Instruction through the situated learning model significantly reduces mathematics anxiety of seventh-grade students compared with traditional teaching](situated-learning-reduces-mathematics-anxiety.md) — related
 - [Cooperative learning produced higher General Science posttest achievement than traditional teaching among 9th-grade students](cooperative-learning-higher-general-science-achievement.md) — related
 - [Cooperative learning improves course exam achievement more than lecture teaching in college Comprehensive English classes](cooperative-learning-improves-course-exam-achievement-college.md) — related
+- [Students engage more and retain greater knowledge through active participation than lecture-based teaching, per trials the article cites](active-participation-beats-didactic-bedside.md) — related

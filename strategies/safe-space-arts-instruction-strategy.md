@@ -48,6 +48,7 @@ Among the most consistent elements of effective arts instruction surfaced in the
 - [Maintain Presence for Students](maintain_presence_for_students.md)
 - [Establish Guidelines for Discussions](establish_guidelines_for_discussions.md)
 - [Arouse desired emotions in pupils through art, literature, history, and imitation of admired models](art-literature-arouse-emotions-associated-ideas.md)
+- [Establish anonymous feedback channels and psychologically safe classrooms to support critical expression](anonymous-feedback-psychologically-safe-classroom-strategy.md)
 
 ## Examples
 -

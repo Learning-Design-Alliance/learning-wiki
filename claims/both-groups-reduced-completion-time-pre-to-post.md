@@ -49,3 +49,4 @@ Within-group paired comparisons in the randomized study of 79 students showed si
 - [AI-assisted training did not significantly improve undergraduate dental students' diagnostic scores for proximal caries extension compared with conventional radiology training](ai-training-no-gain-dental-caries-diagnostic-scores.md) — related
 - [Post-test completion time was significantly shorter in the AI-assisted training group than in the conventional group](ai-training-shorter-post-test-completion-time.md) — related
 - [Absolute average error increased significantly from pre- to post-test in the conventional group but not in the AI-assisted group (exploratory)](conventional-group-error-increase-ai-group-stable.md) — related
+- [Improvement in caries detection decreased with increasing clinical experience, though pairwise stage differences were not significant](improvement-decreases-with-clinical-experience.md) — related

@@ -65,3 +65,4 @@ Discussion of the SEM results in 330 children; in the models, attention showed s
 - [Mathematics anxiety for learning is indirectly related to seventh-grade mathematics achievement through reduced in-class attention](math-anxiety-indirect-effect-through-attention.md) — related
 - [Testing elementary psychic states is a poor direct measure of adult intelligence, but attention or memory measures are legitimate indirect indices in children](indirect-intelligence-measurement-children.md) — related
 - [Student engagement fully mediates the relationships between lecturer charismatic leadership/technology use and learning performance](engagement-fully-mediates-performance.md) — related
+- [The association between inhibition and first-grade achievement in math, reading, and writing is fully mediated by LRBs](lrb-full-mediation-inhibition-achievement.md) — related

@@ -53,3 +53,4 @@ ANOVA of task completion times in the same 41-participant simulation study showe
 - [Sensor-based force measurement discriminates skill levels, with experts suturing faster and with lower applied force than novices](force-sensing-discriminates-surgical-skill.md) — related
 - [Among participants who completed the task without critical errors, novices committed significantly more errors (12.3 vs 8.1) and took more than twice as long (25.3 vs 11.2 min) as experts](sp-anastomosis-non-ce-subgroup-differences.md) — related
 - [After ten training sessions, junior and intermediate groups still scored significantly lower than the senior group](persistent-performance-gap-after-repeated-training.md) — related
+- [VSG students took longer on some procedures at post-test, which the authors interpret as more thorough execution rather than reduced performance](vsg-longer-procedure-times-thoroughness.md) — related

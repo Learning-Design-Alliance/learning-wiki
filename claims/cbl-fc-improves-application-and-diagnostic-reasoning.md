@@ -73,3 +73,4 @@ Case analysis question means in the same post-intervention comparison: "13.14 ±
 - [BOPPPS/FC-CBL group achieves significantly higher practical skills scores than LBL group](boppps-fc-cbl-higher-practical-skills-than-lbl.md) — related
 - [Gain scores were significantly larger in the BOPPPS-CBL group than the LBL group (Cohen's d = 1.77)](boppps-cbl-larger-gain-scores.md) — related
 - [Questionnaire surveys favor PBL over LBL for theoretical knowledge mastery, clinical diagnostic thinking, teamwork, problem solving, document consultation, learning interest, and learning efficiency](pbl-questionnaire-advantages-chinese-srt.md) — related
+- [In thoracic surgery teaching, the modified BOPPPS model produced significantly higher clinical imaging analysis ability scores than traditional BOPPPS (P = 0.021, Cohen's d = 0.79)](modified-boppps-higher-imaging-analysis-ability.md) — related

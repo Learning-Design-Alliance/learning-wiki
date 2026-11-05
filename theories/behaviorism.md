@@ -13,7 +13,7 @@ moved_from: [principle/behaviorism, principle/reinforcement-theory]
 # Behaviorism
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 22 claims (9 for, 9 mixed, 4 against) · 26 studies (11 causal, 7 review, 4 quant-synthesis, 4 theoretical), `q1`–`q4` · 3 of 26 report an effect size · 18 claims rest on one study
+> **Evidence** · 25 claims (12 for, 9 mixed, 4 against) · 27 studies (12 causal, 7 review, 4 quant-synthesis, 4 theoretical), `q1`–`q4` · 4 of 27 report an effect size · 21 claims rest on one study
 
 ## Description
 Behaviorism is a learning theory that defines learning as a change in observable behavior produced by environmental stimuli and reinforcement contingencies. Associated with Watson, Thorndike, and Skinner, behaviorism holds that the internal workings of the mind are not directly accessible and therefore not the proper object of scientific study — what matters is the measurable relationship between stimulus and response ("conclusions about human development should be based on observation of overt behavior rather than speculation about subconscious motives or latent cognitive processes," Shaffer, 2000). Learning occurs when a desired behavior is reliably elicited and strengthened through reinforcement or extinguished through removal of reinforcement.
@@ -83,6 +83,9 @@ Behaviorism is criticized as overly deterministic and as denying free will; by t
 - [The decision to cheat is influenced by perceived monitoring and likelihood of getting caught rather than severity of punishment](../claims/cheating-decision-perceived-surveillance-and-catch-likelihood.md) [-W]
 - [Repeated response-to-stimulus writing practice improved SOAP note scores across multiple single-group studies](../claims/repeated-writing-practice-improves-soap-scores.md) [+W]
 - [Contingent reinforcement approaches show a large mean effect on FV consumption or preference (Md = 1.34) but rest on only two studies](../claims/contingent-reinforcement-fv-md-1-34-two-studies.md) [+W]
+- [Programmed instruction produced a large improvement in insulin injection skill standardisation (Cohen's d = 1.02) over traditional teaching](../claims/programmed-instruction-insulin-injection-skill.md) [+W] — attached 2026-11-05 from Zhang Ying et al. (2026), which proposed "Skinner's programmed instruction model: five principles for sequenced, feedback-driven learning".
+- [Programmed instruction produced a large improvement in blood glucose monitoring skill (Cohen's d = 1.15) over traditional teaching](../claims/programmed-instruction-glucose-monitoring-skill.md) [+W] — attached 2026-11-05 from Zhang Ying et al. (2026), which proposed "Skinner's programmed instruction model: five principles for sequenced, feedback-driven learning".
+- [Undergraduate nursing students taught with Skinner's programmed instruction achieved higher post-intervention diabetes knowledge scores than students taught with traditional lectures](../claims/programmed-instruction-higher-diabetes-knowledge.md) [+W] — attached 2026-11-05 from Zhang Ying et al. (2026), which proposed "Skinner's programmed instruction model: five principles for sequenced, feedback-driven learning".
 
 ## The evidence by question
 - *Does reinforcing a target behaviour with rewards, praise or planned consequences raise learners' performance?* Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children [+M]

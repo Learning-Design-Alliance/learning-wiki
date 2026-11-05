@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-05
 sources:
   - id: altiner-2018
     resource: "https://doi.org/10.11114/jets.v6i11a.3815"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` L2WTC and motivation were positively correlated at a statistically significant level, with a medium-size correlation (r(106) = .455, p < .01). [→ Altiner 2018](#altiner-2018)

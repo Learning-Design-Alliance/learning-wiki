@@ -9,7 +9,6 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 newest_evidence: 2023
-source_checked: 2026-10-19
 sources:
   - id: iwatani-2023
     resource: "https://doi.org/10.51388/20.500.12265/199"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2023 · checked against its sources 2026-10-19 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 <!-- title before 2026-10-15: World History Project students show comparable competency to comparison students in the other five historical thinking skills -->
 
 ## Subclaims

@@ -52,3 +52,5 @@ Quasi-experimental pretest–posttest study (Mtiraoui et al. 2025) of a 6-hour i
 - [An operational exercise empowerment program increased nurses' disaster response competence across all domains, with a significant group-by-time interaction](operational-exercise-program-increased-disaster-competence.md) — related
 - [PFA training improved nursing students' self-efficacy in disaster intervention and perception of disaster preparedness](pfa-training-improved-student-self-efficacy-preparedness.md) — related
 - [Simulated education and training improved nursing students' disaster evacuation knowledge, skills, and preparedness across all subcategories](simulated-education-improved-evacuation-competencies.md) — related
+- [PFA training improves community nurses' self-reported PFA skills immediately after training, but the skills advantage is not retained at 2 months](pfa-training-improves-skills-not-retained.md) — related
+- [A 4-hour WHO-based PFA training program significantly increases community nurses' PFA knowledge immediately after training, with a smaller but sustained advantage at 2 months](pfa-training-increases-community-nurse-knowledge.md) — related

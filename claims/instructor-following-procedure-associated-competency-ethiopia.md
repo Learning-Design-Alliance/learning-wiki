@@ -52,3 +52,4 @@ Random-effects pooling of five studies on instructor supervision during procedur
 - [The pooled proportion of clinical practice competency among midwifery and nursing students in Ethiopia is 39.02%](pooled-competency-39-percent-ethiopia-nursing-midwifery.md) — related
 - [Limited instructor feedback and inadequate clinical supervision were associated with clinical skill anxiety](feedback-and-supervision-associated-with-csa.md) — related
 - [Female sex, lack of prior clinical-skills exposure, and high academic stress were associated with clinical skill anxiety](sex-exposure-stress-associated-with-csa.md) — related
+- [Nursing students report ineffective and inconsistent feedback in clinical practice due to overcrowded groups and limited instructor availability](students-report-ineffective-clinical-feedback-nanda.md) — related

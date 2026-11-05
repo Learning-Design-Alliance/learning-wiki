@@ -51,3 +51,4 @@ Exploratory outcome analysis of participant perceptions in the feasibility study
 - [Immersive VR-haptic and ITS modalities are more often associated with objective psychomotor and cognitive gains, while generative AI platforms are more often associated with affective outcomes](ads-modality-domain-patterns.md) — a broader claim this one bears on
 - [LLM-based standardized virtual patient responses are largely authentic in dental history-taking simulations](llm-virtual-patients-largely-authentic-dialogue.md) — related
 - [Undergraduate dental students report high satisfaction and self-confidence in simulation-based clinical decision-making training using LLM-based standardized virtual patients](dental-students-high-satisfaction-llm-virtual-patients.md) — related
+- [Students perceived the GPT-based virtual patient encounters as realistic and easy to converse with](ai-virtual-patient-perceived-realistic.md) — related

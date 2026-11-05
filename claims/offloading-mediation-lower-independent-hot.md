@@ -9,7 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-16
+source_checked: 2026-11-05
 sources:
   - id: chen-x-2026
     title: Chen X 2026
@@ -23,7 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Chen X 2026: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims

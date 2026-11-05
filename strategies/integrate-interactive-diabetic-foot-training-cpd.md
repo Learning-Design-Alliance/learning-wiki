@@ -65,6 +65,7 @@ The review recommends that structured, interactive and hands-on diabetic foot ca
 - [Embed the Long COVID core competencies in training and professional development to standardize practices and improve patient outcomes](embed-competencies-in-long-covid-training.md)
 - [Prioritize experiential and reflective ethics education over didactic approaches in nursing curricula and continuing professional development](experiential-reflective-ethics-education-strategy.md)
 - [Continuing professional development programmes tailored to personality disorder management, including short informal awareness sessions and simulation learning, should be evaluated for effectiveness.](pd-tailored-cpd-programmes.md)
+- [Integrate TMJ, myofunctional, and periodontal-orthodontic multidisciplinary content into residency training and target continuing education at undertrained practitioners](integrate-mdt-content-orthodontic-training.md)
 
 ## Examples
 -

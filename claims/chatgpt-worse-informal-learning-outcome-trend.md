@@ -58,3 +58,4 @@ Welch's t-test comparing post-learning knowledge test scores in an 8-day between
 - [ChatGPT participants experienced meta-cognitive load and frictions, with slightly more unsatisfied endings than Google participants](chatgpt-meta-cognitive-load-unsatisfied-endings.md) — related
 - [Access to web-based information creates illusions of learning and reduces memorization](web-access-illusion-of-learning.md) — related
 - [Condition effects on complex learning-task performance appeared for suitability, justification and correctness but not for elaboration, continuity or final answer quality](task-performance-subdimension-effects.md) — related
+- [ChatGPT and Google groups produced the most additional correct information beyond the sample solution; paper and video groups produced less](chatgpt-google-most-additional-information.md) — related

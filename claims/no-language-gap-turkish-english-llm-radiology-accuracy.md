@@ -50,3 +50,4 @@ Language-based performance analysis in which the same 100 questions were adminis
 - [Gemini 2.5 Pro achieved the highest accuracy (90%) on 100 radiology multiple-choice questions, and all LLMs and 3rd-year residents significantly outperformed 1st- and 2nd-year residents](llms-gemini-highest-radiology-mcq-accuracy-outperform-junior-residents.md) — related
 - [Gemini 2.5 Pro significantly outperformed GPT-5 on EDAIC questions as the only significant pairwise difference after Holm correction](gemini-outperformed-gpt5-edaic-pairwise.md) — related
 - [Comparable accuracy between ChatGPT and Gemini masks markedly different confidence patterns](comparable-accuracy-does-not-imply-comparable-confidence.md) — related
+- [LLMs gave identical responses to Korean and English versions of the questions, suggesting consistent reasoning across languages](llm-identical-responses-korean-english-questions.md) — related

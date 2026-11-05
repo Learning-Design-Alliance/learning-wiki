@@ -46,6 +46,7 @@ From the study's findings the authors recommend that "training, tutoring and sup
 - [Assign small mixed-ability groups and manage group functioning and rotation for collaborative feedback tasks](small-mixed-ability-groups-for-cfts.md)
 - [Teachers should communicate the benefits of self-assessment and provide guided practice in a safe, supportive environment](communicate-benefits-and-guided-practice-for-self-assessment.md)
 - [Record the types of errors made so as not to keep making the same types of errors, and use writing feedback to support other English skills.](error-recording-and-cross-skill-feedback.md)
+- [Safeguard assessment objectivity in peer-assessment evaluations by separating teaching and evaluation roles, blinding assessors to group allocation, and standardizing assessor training](assessor-bias-safeguards-peer-assessment.md)
 
 ## Examples
 -

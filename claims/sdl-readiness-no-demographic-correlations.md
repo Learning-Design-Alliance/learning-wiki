@@ -53,3 +53,4 @@ The review reports, citing Ghiyasvandian and Chakkaravarthy, that nurses showed 
 - [Univariable differences across competency profiles concentrate in career-stage and psychological variables, while sex, education and specialist nurse status show no significant differences](profile-differences-career-stage-psychological-variables.md) — reports the opposite
 - [Knowledge, academic self-efficacy, and self-directed learning readiness are positively correlated](knowledge-self-efficacy-sdlr-positive-correlations.md) — related
 - [Emotional intelligence correlates positively with self-directed learning among nursing students (r = 0.63)](ei-sdl-positive-correlation-nursing-students.md) — related
+- [Age and gender did not significantly predict academic self-efficacy in the structural model](age-gender-null-predictors-ase.md) — related

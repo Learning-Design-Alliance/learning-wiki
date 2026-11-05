@@ -71,3 +71,4 @@ The same interaction analyses found suggestive SES heterogeneity (3 of 16 intera
 - [School nutrition policies most often show larger academic improvements among low-income and racial/ethnic minority subpopulations, supporting equity goals](nutrition-policy-equity-gains.md) — related
 - [SES is negatively associated with children's cognitive and academic performance, leading to long-term educational and economic disparities](ses-negative-association-cognitive-academic.md) — related
 - [No significant treatment by demographic interactions were detected in moderation analyses](no-significant-treatment-demographic-interactions.md) — related
+- [Book desert severity does not significantly moderate the book distribution treatment effect, though marginal effects differ descriptively](book-desert-moderator-null.md) — related

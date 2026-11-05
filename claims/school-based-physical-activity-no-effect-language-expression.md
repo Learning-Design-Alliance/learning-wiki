@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2025
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 sources:
   - id: he-hongxue-2025
     resource: "https://doi.org/10.3389/fpubh.2025.1651883"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
-> **Currency** · newest study 2025 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Meta-analysis of seven studies found no correlation between physical activity and language expression achievement (SMD = −0.06, 95% CI: −0.18 to 0.06, p = 0.370). [→ He Hongxue 2025](#he-hongxue-2025)

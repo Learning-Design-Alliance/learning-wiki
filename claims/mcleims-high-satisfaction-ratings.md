@@ -53,3 +53,4 @@ Descriptive analysis of a locally developed 23-item five-point Likert questionna
 - [mCLEIMS participants who completed the course before ACLS training and assessment had a significantly higher ACLS pass rate than comparison students](mcleims-higher-acls-pass-rate.md) — related
 - [mCLEIMS participants who completed the course before ACLS assessment achieved higher ACLS written knowledge scores than those who completed it afterward](mcleims-higher-acls-written-scores.md) — related
 - [The 2-day mCLEIMS format is a pragmatic adaptation whose equivalence to the original week-long CLEIMS is not established](mcleims-not-equivalent-to-weeklong-cleims.md) — related
+- [Experimental-group students rated the IAVSE course significantly higher than the control group rated traditional instruction across seven Likert-scale pedagogical dimensions](iavse-higher-likert-feedback.md) — related

@@ -50,6 +50,7 @@ The article recommends four advising practices informed by STAR Lite findings: v
 ## Related Strategies
 
 - [Teach an academic toolbox combining study strategies with self-regulation skills such as goal setting, time management, and anxiety coping techniques](academic-toolbox-strategy-instruction.md)
+- [Embed structured self-regulation and time management supports in higher education instruction, advising, and first-year curricula](embed-sr-tm-supports-higher-education.md)
 
 ## Examples
 -

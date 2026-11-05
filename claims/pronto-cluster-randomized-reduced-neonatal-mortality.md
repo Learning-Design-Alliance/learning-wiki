@@ -49,3 +49,4 @@ The review reports, citing Walker et al., a cluster-randomized trial in Kenya an
 - [Frequent brief on-site Helping Babies Breathe simulation training was associated with a significant decrease in 24-hour neonatal mortality in a Tanzanian before–after study](hbb-simulation-training-reduced-24h-neonatal-mortality.md) — related
 - [The review suggests current observational evidence may overestimate simulation's impact, since more rigorous cluster-RCTs showed only time-limited mortality reductions or nonsignificant results](observational-evidence-may-overestimate-simulation-impact.md) — related
 - [Prior evidence cited by the article shows simulation training improved shoulder dystocia delivery outcomes and reduced neonatal complications](prior-evidence-simulation-improves-outcomes.md) — related
+- [A retrospective chart review identified 1,096 perinatal-loss diagnoses at the hospital over roughly three years](1096-perinatal-loss-diagnoses-2021-2024.md) — related

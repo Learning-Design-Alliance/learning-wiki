@@ -124,3 +124,4 @@ Planned gain contrasts on the seven SRL questionnaire subscales. "Group TD showe
 - [Online EI workshops combined with mindfulness training significantly predicted peer-assessed EI growth, while neither intervention alone did](online-ei-plus-mindfulness-significant-peer-growth.md) — related
 - [Pintrich SRL-based activities improve elementary teacher candidates' overall self-regulated learning perceptions](pintrich-srl-activities-improve-srl-perceptions.md) — a narrower finding that bears on this claim
 - [Explicit metacognitive strategy instruction increases ESL learners' use of monitoring and assessment strategies but not planning strategies](metacognitive-instruction-increases-monitoring-assessment-not-planning.md) — related
+- [The SRL intervention shows no significant post-test effect on math self-efficacy or STEM vocational interest](srl-intervention-no-posttest-effect-self-efficacy-stem-interest.md) — related

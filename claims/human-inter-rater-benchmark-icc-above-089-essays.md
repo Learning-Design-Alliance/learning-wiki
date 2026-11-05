@@ -58,3 +58,4 @@ Baseline inter-rater reliability assessment using ICC(3,1) among three expert gr
 - [Expert graders show high agreement among themselves when scoring a written exam on first degree equations](expert-inter-rater-agreement-high-written-exam.md) — related
 - [Faculty calibration with instructional rubrics yields high inter-rater reliability, rising after repeated calibration](faculty-calibration-icc-rises-with-repeated-calibration.md) — related
 - [Inter-rater reliability of the drawing assessments was high, with an average-measures ICC of 0.988 for the total score](high-inter-rater-reliability-drawing-assessments.md) — related
+- [Rubric scoring of concept image protocols showed inter-rater reliability exceeding acceptable thresholds (Fleiss Kappa 0.60–0.88; Krippendorff's Alpha 0.60–0.88; ICC 0.89–0.98)](concept-image-rubric-inter-rater-reliability.md) — related

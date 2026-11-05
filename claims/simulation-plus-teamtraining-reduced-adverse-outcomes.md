@@ -50,3 +50,4 @@ The review reports the only identified study measuring transfer from a simulatio
 - [Use of a surgical safety checklist alongside team training was associated with the lowest adverse event rate compared with a historical control and team training without a checklist](surgical-checklist-lowest-adverse-events.md) — related
 - [Workshop, simulation, and team-review methods significantly improve teamwork behaviors, while the pooled effect of didactic education alone was not significant](didactic-education-fails-to-improve-teamwork.md) — related
 - [No statistically significant differences in adverse maternal or neonatal outcomes between pre- and post-intervention periods](no-significant-change-adverse-outcomes-twin-birth-training.md) — related
+- [No adverse events or patient-related procedural complications occurred in either training group during live TEE training and assessment](no-adverse-events-during-live-tee-training-assessment.md) — related

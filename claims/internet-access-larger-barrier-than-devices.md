@@ -66,3 +66,4 @@ The LEA survey found that "Access to reliable Internet connection was a larger b
 - [A rural district that closed device and connectivity divides and trained teachers saw graduation rates rise from 67 percent to over 94 percent and college enrollment double](lindsay-usd-digital-equity-outcomes.md) — related
 - [Mobile devices served as the primary tool for learners and teachers during the emergent remote teaching process of the pandemic](mobile-devices-primary-tool-emergent-remote-teaching.md) — related
 - [Flexibility and access are an initial characterization of Open Teaching](open-teaching-flexibility-and-access.md) — related
+- [Internet access quality was a common material-access challenge, especially for rural mentees relying on cellular data](internet-quality-barrier-rural-mentees.md) — related

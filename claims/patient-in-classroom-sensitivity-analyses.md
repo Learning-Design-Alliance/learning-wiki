@@ -78,3 +78,5 @@ Sensitivity analyses in the same study: intention-to-treat with 20 imputations (
 - [ANCOVA controlling for pre-test confirms a significant effect of metacognitive strategy treatment on post-test comprehension](ancova-metacognitive-strategy-effect.md) — related
 - [The posttest advantage of the experimental section remained significant when posttest scores were covaried against pretest scores](ancova-posttest-section-type-significant.md) — related
 - [TBL and lecture cohorts show no baseline differences in admissions data](tbl-lecture-cohorts-baseline-comparable.md) — related
+- [The modified model's advantage on the primary endpoint remained statistically significant across both high- and low-engagement strata, suggesting the effect is not solely dependent on engagement levels](modified-boppps-effect-robust-across-engagement-strata.md) — related
+- [The modified BOPPPS model produced significantly higher comprehensive clinical application ability scores than traditional BOPPPS, an effect that remained significant after covariate adjustment (β = 2.35, P = 0.020)](modified-boppps-higher-clinical-application-ability.md) — related

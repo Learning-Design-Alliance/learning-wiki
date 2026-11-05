@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2018
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: nagovitsyn-et-al-2018
     resource: "https://doi.org/10.13187/ejced.2018.4.754"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2018 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the experimental group, statistically significant differences were obtained in all measured characteristics (responsibility, intolerance to shortcomings, courage in upholding positions, independence); the greatest dynamics was in upholding one's position (almost 1 point, approximately 20%) and the least in independence (0.5 points, 10%). [→ Nagovitsyn et al. 2018](#nagovitsyn-et-al-2018)

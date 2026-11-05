@@ -48,3 +48,4 @@ Delphi round 3 results. The therapeutic alliance domain showed the strongest ove
 - [Delphi panel reaches broad consensus on CAMHS crisis team competencies and outcomes, with over 90% of proposed items meeting the consensus threshold](delphi-consensus-camhs-crisis-competencies-outcomes.md) — a broader claim this one bears on
 - [Key outcomes with high consensus include improved communication with support networks, better understanding of the young person, feeling validated and reduced involuntary inpatient admissions](high-consensus-crisis-outcomes.md) — related
 - [Holistic mental state examination achieves the highest consensus within the case formulation domain](holistic-mental-state-examination-consensus.md) — related
+- [Panelists identified cultural competence, equity, and a student-centered mindset as a core collaboration domain, including trauma-informed approaches](smh-collab-cultural-competence-equity-domain.md) — related

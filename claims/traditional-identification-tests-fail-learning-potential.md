@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: weak
 newest_evidence: 2005
+source_checked: 2026-11-05
 recheck_by: 2008
 sources:
   - id: mcglonn-nelson-2005
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2005 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2008**: tool and model accuracy changes quickly
+> **Currency** · newest study 2005 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2008**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Norm-referenced tests and quantified descriptions are the most widely used identification tools, yet none can fully determine a student's learning potential. [→ McGlonn-Nelson 2005](#mcglonn-nelson-2005)

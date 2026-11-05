@@ -53,6 +53,7 @@ The authors recommend a sequence for curricular integration: "First, it is neces
 - [Integrate BPSO guidelines into core courses through evidence-based situational simulations](bpso-guideline-integration-simulations.md)
 - [Integrate simulation-based learning into interprofessional curricula to cultivate collaboration early in training](integrate-sbl-into-interprofessional-curricula.md)
 - [Integrate structured debriefing into simulation curricula with systematic teacher training and multi-method evaluation](debriefing-integration-strategy-nursing-education.md)
+- [Use small-group standardized patient simulation series focused on therapeutic communication within psychiatric-mental health nursing courses](small-group-sp-simulation-therapeutic-communication-series.md)
 
 ## Examples
 -

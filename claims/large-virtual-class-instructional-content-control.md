@@ -9,7 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2023
-source_checked: 2026-10-31
+source_checked: 2026-11-05
 sources:
   - id: inusah-salifu-usman-kojo-abonyi-2023
     resource: "https://doi.org/10.1007/s11423-022-10151-7"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2023 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Teachers managed instructional delivery in large virtual classes by creating interactive virtual environments and utilising the learner-centred approach, including Zoom breakout rooms, flipped classroom and case study techniques. [→ Inusah Salifu · Usman Kojo Abonyi 2023](#inusah-salifu-usman-kojo-abonyi-2023)

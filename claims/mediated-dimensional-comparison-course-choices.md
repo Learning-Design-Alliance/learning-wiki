@@ -52,3 +52,4 @@ Bayesian estimation of indirect effects through the four self-concept and value 
 - [Dimensional comparisons predict cross-domain academic course and major choice, with negative effects of verbal-domain beliefs on math-related choices](dimensional-comparisons-predict-course-choice.md) — a broader claim this one bears on
 - [Dimensional comparison effects extend to subjective task values, with contrast effects strongest for intrinsic value and costs and lowest for utility value, often mediated by self-concept](dimensional-comparisons-affect-task-values.md) — related
 - [Domain-specific academic self-concept predicts advanced course choice, whereas value predicts STEM study intentions](self-concept-course-choice-value-stem-intentions.md) — related
+- [Academic self-concept mediates within-domain and most cross-domain achievement–intrinsic value relations, with most within-domain relations fully mediated](self-concept-mediation-achievement-intrinsic-value.md) — related

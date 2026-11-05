@@ -8,7 +8,7 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-10
 evidence_strength: moderate
-source_checked: 2026-10-18
+source_checked: 2026-11-05
 sources:
   - id: visual-theme
     resource: "https://doi.org/10.48550/arxiv.2607.01692"
@@ -23,7 +23,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · no dated study recorded · checked against its sources 2026-10-18 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · no dated study recorded · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students valued diagrams that change with the text so lines, angles, and points appear step by step, eliminating back-and-forth scrolling. [→ visual-theme](#visual-theme)

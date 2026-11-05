@@ -71,3 +71,5 @@ Resource utilization showed "no statistically significant difference", which the
 - [VR instruction raises nursing students' academic satisfaction more than control teaching modalities (SMD = 1.14)](vr-raises-nursing-student-satisfaction.md) — related
 - [More PBL than LBL students report satisfaction with improved learning interest (RR = 2.08)](pbl-satisfaction-learning-interest.md) — related
 - [Questionnaire surveys favor PBL over LBL for theoretical knowledge mastery, clinical diagnostic thinking, teamwork, problem solving, document consultation, learning interest, and learning efficiency](pbl-questionnaire-advantages-chinese-srt.md) — related
+- [Experimental-group students rated the IAVSE course significantly higher than the control group rated traditional instruction across seven Likert-scale pedagogical dimensions](iavse-higher-likert-feedback.md) — related
+- [Integrated teaching raises satisfaction with the teaching approach on learning interest, disease comprehension, and clinical reasoning, but not on research awareness or communication](integrated-teaching-approach-survey-mixed.md) — possibly the same claim (merge candidate)

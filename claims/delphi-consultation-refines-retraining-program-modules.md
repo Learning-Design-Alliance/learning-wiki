@@ -72,3 +72,4 @@ Delphi expert consultation with 22 experts refined the preliminary framework of 
 - [Kendall's W values across the two Delphi rounds were low (0.150–0.244 and 0.129–0.173, p < 0.001), indicating only moderate coordination and some heterogeneity in expert judgements](kendall-w-low-moderate-coordination-heterogeneity.md) — related
 - [The ICO-OCEX achieved strong content validity through a modified Delphi technique with expert consensus on all 33 items](ico-ocex-content-validity-delphi-consensus.md) — related
 - [A two-round modified Delphi process with a 36-physician voting panel finalized 32 high-priority mental health competencies for HPM physicians.](delphi-finalized-32-mental-health-competencies.md) — related
+- [A three-round Delphi panel of 47 SMHPs reached consensus on 151 competencies for interdisciplinary collaboration](delphi-consensus-151-competencies.md) — related

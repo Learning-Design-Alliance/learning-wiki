@@ -59,3 +59,4 @@ MANOVA on CCTDI pretest/posttest scores across the three instructional groups sh
 - [AI-enabled personalized teaching improved several CTDI-CV subdimensions but not critical thinking self-confidence or cognitive maturity](ctdi-cv-subdimension-effects-mixed.md) — related
 - [Digital RPP improves critical thinking disposition more than traditional group practice](rpp-digital-platform-critical-thinking-gains.md) — related
 - [Structured PEARLS debriefing is associated with higher critical thinking disposition across all seven CTDI-CV dimensions](debriefing-higher-critical-thinking-disposition.md) — related
+- [Self-rated critical thinking disposition scores of nurse anesthetists rose from the measurement after traditional teaching to the measurement after DBSS in one group with no comparison group, though both values remained below the positive-disposition threshold](dbss-improves-na-critical-thinking-disposition.md) — related

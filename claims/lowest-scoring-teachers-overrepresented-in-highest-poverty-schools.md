@@ -61,3 +61,4 @@ Descriptive analysis of 2013-14 REACH evaluation data from CPS elementary school
 - [Teacher turnover is 35%–37% higher in schools with the largest concentrations of students of color and students from low-income backgrounds than in schools with the smallest](school-composition-turnover-inequity.md) — related
 - [High- and low-income students have similar chances of being taught by the most effective and the least effective teachers](similar-access-most-least-effective-teachers.md) — reports the opposite
 - [Minority teachers have lower observation scores than white teachers but no significant differences on value added](minority-teachers-lower-observation-no-value-added-difference.md) — related
+- [The share of low-income students in a grade is negatively associated with proficiency across all school levels](low-income-share-negative-proficiency.md) — related

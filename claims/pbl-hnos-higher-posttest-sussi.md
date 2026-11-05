@@ -9,7 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2016
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: ayşe-sert-çıbık-2016
     resource: "https://eric.ed.gov/?id=EJ1094587"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2016 · checked against its sources 2026-11-02 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After a 14-week treatment, the experimental group's overall SUSSI post-test mean was significantly higher than the control group's, with significant differences on all SUSSI aspects in favor of the experimental group. [→ Ayşe Sert Çıbık 2016](#ayse-sert-cbk-2016)

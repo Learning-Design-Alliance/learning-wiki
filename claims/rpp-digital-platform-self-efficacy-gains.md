@@ -50,3 +50,4 @@ Self-efficacy (Chinese General Self-Efficacy Scale) measured pre and post in the
 - [Teachers using We Have Skills! show greater improvement in self-efficacy than control teachers](whs-teacher-self-efficacy-improvement.md) — related
 - [Dimension-specific skill effects: RPP favored material preparation, operational skills, humanistic care, and critical thinking, but not patient assessment or general evaluation](rpp-dimension-specific-skill-effects.md) — related
 - [Both TeachQuest and RJP increased teaching interest and perceived fit immediately after the intervention, with RJP also increasing self-efficacy](digital-interventions-increase-teaching-interest-fit.md) — related
+- [Programmed instruction improved nursing students' general self-efficacy more than traditional teaching, though the authors caution the contribution cannot be isolated](programmed-instruction-self-efficacy-gses.md) — related

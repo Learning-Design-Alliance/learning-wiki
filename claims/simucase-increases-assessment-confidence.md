@@ -51,3 +51,4 @@ Focus-group perceptions from the same 10-participant qualitative pilot. Students
 - [Students find computer-based simulation feedback insufficient because incorrect responses are marked without explanation](simucase-feedback-insufficient.md) — related
 - [Clinical simulation improved pathophysiology learning with a significant grade shift toward higher marks](clinical-simulation-improves-pathophysiology-grades.md) — related
 - [Participants reported perceived increases in confidence when approaching early clinical tasks after completing the integrated module.](integrated-module-increases-confidence-early-clinical-tasks.md) — related
+- [Students perceive SFH simulation as beneficial for understanding landmarks and building confidence in performing measurements](simulation-perceived-beneficial-sfh.md) — a narrower finding that bears on this claim

@@ -45,6 +45,7 @@ The synthesis recommends that "Teachers can cultivate positive student mindsetsâ
 - [Growth Mindset Development](growth_mindset_development.md)
 - [Effort-Based Praise](effort-based_praise.md)
 - [Develop perseverance indirectly by shaping classroom context, mindsets, and learning strategies rather than targeting grit directly](develop-perseverance-through-context-mindsets-strategies.md)
+- [Differentiate cultivating perseverance from supporting intrinsic interest in exam-oriented EFL classrooms: effort-to-mastery pathways plus structured autonomy](effort-mastery-pathways-plus-structured-autonomy.md)
 
 ## Examples
 -

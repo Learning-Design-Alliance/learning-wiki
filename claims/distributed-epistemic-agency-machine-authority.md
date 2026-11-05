@@ -9,7 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-16
+source_checked: 2026-11-05
 sources:
   - id: voicu-2026
     resource: "https://doi.org/10.61071/jdp.2665"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-16 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students tend to attribute authority to algorithmic outputs, treating them as reliable sources of knowledge, with expressions such as "the AI says" reflecting a shift toward machine authority and displacement of evaluative responsibility. [→ Voicu 2026](#voicu-2026)
@@ -71,3 +71,4 @@ Third macro-transformation reported in Section 4.3, drawing on distributed cogni
 - [GenAI can most effectively support knowledge building in the Collaboration Zone as a dialogic 'sparring partner'](genai-collaboration-zone-sparring-partner.md) — related
 - [Teacher-researchers shifted epistemic stances from a positivistic perspective to a more grounded framework](action-research-epistemic-shift.md) — related
 - [Epistemic overtrust is a key risk: learners may accept AI outputs because they appear authoritative even when reasoning is incomplete, biased, or unsupported](epistemic-overtrust-ai-feedback-risk.md) — related
+- [Nurses' role boundaries become blurred under human-machine collaboration due to absent norms and responsibility divisions](blurred-nurse-role-boundaries-under-hmc.md) — related

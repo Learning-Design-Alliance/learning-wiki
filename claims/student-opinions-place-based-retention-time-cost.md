@@ -47,3 +47,4 @@ Content analysis of a semi-structured interview form with the experimental group
 ## Related Claims
 - [Experimental group students valued expert roles and group knowledge exchange but reported boredom, lack of time and uneven member preparation](jigsaw-group-opinions-expert-roles-and-drawbacks.md) — related
 - [Students and teachers expressed predominantly positive opinions about the guides and activities, with time pressure the main teacher criticism](positive-student-teacher-opinions-design.md) — related
+- [VSG students reported predominantly positive views of the game, with technical glitches the most common criticism](vsg-student-opinions-positive-with-technical-glitches.md) — related

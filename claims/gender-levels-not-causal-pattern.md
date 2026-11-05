@@ -54,3 +54,4 @@ Gender was added to all structural models and the models reestimated (N = 697). 
 - [The spatial pathway to mathematical competence is relatively more important for boys and the in-class attention pathway for girls, confirming the differential contributions hypothesis](differential-contributions-pathways-confirmed.md) — related
 - [Prior longitudinal SEM studies of self-concept versus achievement causality show heterogeneous causal predominance, varying with design, self-concept operationalization, domain, and achievement measure](heterogeneous-causal-predominance-prior-studies.md) — related
 - [Marks show a stronger impact on later self-concept than test performance from third to fourth grade](marks-stronger-impact-on-self-concept-grade-3-4.md) — related
+- [The GI/E model relations among achievement, self-concept, and intrinsic value are invariant across gender groups](gender-invariance-gie-model-music-visual-arts.md) — related

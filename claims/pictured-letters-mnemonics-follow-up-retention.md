@@ -69,3 +69,4 @@ LSD post-hoc comparisons on follow-up adjusted means, significant at α=0.05: tr
 - [No statistically significant interaction between teaching method and gender was found on the post-test or follow-up test](pictured-letters-no-method-gender-interaction.md) — related
 - [Multimedia glosses improve EFL students' vocabulary retention two weeks after treatment relative to no glosses](multimedia-glosses-improve-efl-vocabulary-retention.md) — related
 - [The multimedia learning module advantage over the textbook persists on a retention test administered two weeks after the lessons](mlm-retention-advantage-two-weeks.md) — related
+- [The accuracy advantage of MExplore-supported learning persisted at a 2-week retention test](mexplore-retention-advantage-two-weeks.md) — related

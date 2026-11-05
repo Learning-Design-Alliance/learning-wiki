@@ -68,3 +68,4 @@ Schuirmann TOST procedure with margin Δ = 0.5 on PPOS scores from 109 post-inte
 - [Satisfaction does not correlate significantly with patient-centered attitudes (PPOS scores)](satisfaction-ppos-no-correlation.md) — related
 - [Students report higher satisfaction with role-play than with linear virtual patients](roleplay-higher-satisfaction-than-virtual-patients.md) — related
 - [Students value role-play for interpersonal engagement and virtual patients for reducing stress and supporting reflective learning](qualitative-mechanisms-roleplay-vs-virtual-patients.md) — related
+- [Adding peer role-play and peer assessment does not change technical procedural proficiency: no significant difference between cohorts in procedural steps and key points](peer-roleplay-technical-proficiency-comparable.md) — related

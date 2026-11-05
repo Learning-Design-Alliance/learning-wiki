@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: yang-2026
     resource: "https://doi.org/10.1186/s12909-026-09489-w"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` The observation group scored significantly higher on medical interviewing skills, physical examination skills, clinical judgment, communication skills, overall clinical competence, and total Mini-CEX score (all P < 0.0001). [→ Yang 2026](#yang-2026)
@@ -80,3 +80,5 @@ Same Mini-CEX assessment in the RCT. Two domains showed "no statistically signif
 - [AI-assisted CBL+FC residents show superior overall clinical competence on Mini-CEX compared with lecture controls](ai-assisted-cbl-fc-minicex-overall-competence.md) — related
 - [Case-based learning combined with multidisciplinary team teaching yields superior OSCE clinical skills scores, particularly in treatment planning and doctor-patient communication, but not in physical examination.](cbl-mdt-superior-osce-clinical-skills-treatment-planning-communication.md) — related
 - [Final-year clinical medicine interns report high acceptance of the Mini-CEX-based four-stage virtual simulation teaching model, with all experience-item means exceeding 7.1 on a 10-point scale](high-student-acceptance-minicex-four-stage-virtual-simulation.md) — related
+- [Integrated clinical pathway and case-based teaching yields higher Mini-CEX clinical skills scores than traditional teaching](clinical-pathway-cbt-higher-mini-cex-scores.md) — related
+- [Peer role-play and peer assessment improve non-technical clinical competencies (doctor-patient communication, humanistic care, preoperative preparation) with a large effect for communication skills](peer-roleplay-improves-nontechnical-clinical-competencies.md) — related

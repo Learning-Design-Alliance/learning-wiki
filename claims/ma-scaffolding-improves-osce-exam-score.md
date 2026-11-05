@@ -89,3 +89,4 @@ Linear-model analysis of the same randomized comparison confirmed the exam-score
 - [AI-assisted peer teaching improves OSCE performance, with the largest effect on clinical reasoning](ai-assisted-peer-teaching-osce-clinical-reasoning.md) — related
 - [AI-simulated patients improve gynecological history-taking checklist completion and reduce missed key items compared with instructor-led standardized patients](ai-simulated-patient-checklist-completion-gynecology.md) — related
 - [In the OSCE, the intervention group outperformed the control group most clearly in AI tool counselling and appropriate closing, contributing substantially to a two-point total difference](osce-largest-differences-ai-counselling-closing.md) — a narrower finding that bears on this claim
+- [A 7-day virtual simulation game on CAUTI prevention produced higher post-test knowledge scores than standard training presentations in nursing students](vsg-improves-cauti-prevention-knowledge.md) — related

@@ -49,3 +49,5 @@ Multivariable logistic regression of exemplary practice (mean > 4.0) among 178 r
 - [Only about one third of nurses and midwives at a Central Ethiopian referral hospital demonstrate good theoretical wound-care knowledge](one-third-good-wound-knowledge-ethiopian-referral-hospital.md) — related
 - [Educational qualification shows no significant association with wound-care knowledge or practice levels](qualification-no-association-wound-knowledge.md) — related
 - [Providers with 6-10 years of service had higher odds of good partograph knowledge than those with less than one year](six-ten-years-service-higher-odds-partograph-knowledge.md) — related
+- [Good knowledge (AOR = 2.1) and on-site guideline availability (AOR = 1.9) independently predicted adequate hypertension management practice, evidencing a know-do gap](knowledge-and-guideline-availability-predict-practice.md) — a narrower finding that bears on this claim
+- [Prior hypertension training (AOR = 2.6) and more than 10 years' experience (AOR = 1.8) independently predicted good knowledge among PHC workers](training-and-experience-predict-hypertension-knowledge.md) — related

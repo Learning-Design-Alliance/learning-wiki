@@ -49,3 +49,4 @@ Same pre-post survey (N = 13) with descriptive statistics. Scenario-specific com
 - [Prior to training, most residents lacked specific bad news training and knowledge of communication protocols](residents-lack-prior-bad-news-training.md) — related
 - [A 3-hour simulation-based breaking bad news curriculum improves OB/GYN residents' self-perceived preparedness to deliver bad news](simulation-breaking-bad-news-improves-obgyn-resident-self-perceived-preparedness.md) — a broader claim this one bears on
 - [Integrated micro-skills training-CPTM improves OSCE practical skill scores versus traditional teaching](microskills-cptm-higher-osce.md) — related
+- [A retrospective chart review identified 1,096 perinatal-loss diagnoses at the hospital over roughly three years](1096-perinatal-loss-diagnoses-2021-2024.md) — related

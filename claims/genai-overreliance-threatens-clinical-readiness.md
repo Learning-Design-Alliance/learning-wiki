@@ -87,3 +87,4 @@ Participant quote (P15) in the overreliance theme. Another participant warned of
 - [Graduating nurses often lack clinical skills and readiness for practice](graduating-nurses-lack-clinical-readiness.md) — related
 - [Proposed definition: clinical readiness for practice is acquiring professional knowledge, skills, communication, self-management, and confident application](proposed-definition-clinical-readiness-nursing-students.md) — related
 - [Trainees and trainers hold mixed views on AI-generated heat maps for postoperative coaching](mixed-trainee-trainer-views-ai-heat-maps.md) — related
+- [Human-machine collaboration raises the demand for emergency nurses' critical thinking in recognizing AI output information](critical-thinking-demand-for-ai-output-recognition.md) — related

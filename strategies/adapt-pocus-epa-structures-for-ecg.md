@@ -43,7 +43,8 @@ The article recommends updating ECG competencies and adapting PoCUS EPA structur
 - [Most residents (57.6%) report less than one hour of ECG self-study per month, and 92% agree they would benefit from structured analytic ECG training](../claims/residents-little-ecg-self-study-want-training.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Pair VR haptic training with Entrustable Professional Activities (EPA) assessment to gauge trainee readiness for independent surgical practice](epa-assessment-for-vr-trainees.md)
 
 ## Examples
 -

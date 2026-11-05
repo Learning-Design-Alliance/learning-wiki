@@ -57,3 +57,4 @@ AI-coded deductive SRL scheme applied to all 808 student turns using Gemini 2.5 
 - [The top of the student-discourse distribution contains essentially no categories of explicit conceptual reasoning, prediction, comparison to similar problems, or critical engagement with the tutor's suggestions](conceptual-reasoning-absent-from-discourse-head.md) — related
 - [LLM-based tools may interfere with reading comprehension and retention despite learners finding them helpful](llm-tools-interfere-comprehension-retention.md) — related
 - [Students showed increasing metacognitive regulation across the semester, moving from copying GPT suggestions to predicting and challenging its responses](gpt-metacognitive-regulation-growth.md) — reports the opposite
+- [Pre-licensure nursing curricula show limited telehealth education, near-absent sensor content, and inconsistent AI readiness](nursing-curricula-digital-health-gaps.md) — related

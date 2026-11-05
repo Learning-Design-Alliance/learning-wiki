@@ -55,3 +55,4 @@ Same experimental comparative study; the local Mistral 7B model was deployed via
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
 - [The checklist assessment showed strong interrater reliability, contributing validation evidence](checklist-interrater-reliability-kappa-0875.md) — related
 - [Student–expert agreement on bias assessment improves significantly after EBD training](student-expert-agreement-improves-post-ebd-training.md) — related
+- [Rubric scoring of concept image protocols showed inter-rater reliability exceeding acceptable thresholds (Fleiss Kappa 0.60–0.88; Krippendorff's Alpha 0.60–0.88; ICC 0.89–0.98)](concept-image-rubric-inter-rater-reliability.md) — related

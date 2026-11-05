@@ -69,3 +69,4 @@ SEM analysis (Full Mediation model, best fitting for NO) in 330 children; this s
 - [Higher mathematics test anxiety predicts earlier practice-session exit, mediating lower learning gains in an adaptive math program](math-anxiety-earlier-exit-lower-gains.md) — related
 - [Text-structure knowledge in passages and word problems mediates acquisition and cross-domain transfer effects](text-structure-knowledge-mediates-transfer.md) — related
 - [Numerical cognition assessed at end of first grade statistically mediates associations between early processing speed, working memory, calculation skill, word-problem solving, and attentive behavior and later calculations, word-problem solving, and reading](numerical-cognition-mediation-academic-outcomes.md) — related
+- [The association between inhibition and first-grade achievement in math, reading, and writing is fully mediated by LRBs](lrb-full-mediation-inhibition-achievement.md) — related

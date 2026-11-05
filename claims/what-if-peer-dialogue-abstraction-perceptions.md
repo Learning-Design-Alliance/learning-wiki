@@ -49,3 +49,4 @@ Group interview thematic analysis (n = 8). Students described comparing cases as
 - [Students rated the integrated VP session positively, with role modelling (M = 4.44) and varied case practice (M = 4.35) rated higher than “what-if” discussions (M = 3.76)](positive-perceptions-vp-role-modelling-varied-cases-what-if.md) — related
 - [Students reported that stepwise build-up in case complexity and recognition of similar reasoning steps across cases supported transfer](stepwise-complexity-similar-reasoning-steps-themes.md) — related
 - [Peer review helped students notice their own mistakes through reviewing others' work](peer-review-reveals-own-mistakes.md) — related
+- [Students describe structured reflection and journaling as supporting self-awareness, recognition of behavioral patterns, and reoriented future actions](structured-reflection-self-awareness-growth.md) — related

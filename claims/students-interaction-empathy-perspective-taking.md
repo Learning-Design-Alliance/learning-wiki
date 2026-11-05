@@ -91,3 +91,4 @@ Study 2 thematic analysis of twelve student interviews produced Global Theme 1 f
 - [Most students report that the service learning programme enhanced empathy and sense of professional responsibility](service-learning-enhances-empathy-responsibility.md) — related
 - [Aging simulation suit improves the Perspective Taking and Compassionate Care subscales of clinical empathy but not Standing in the Patient's Shoes](aging-suit-perspective-taking-compassionate-care.md) — related
 - [Limited placement exposure is perceived to contribute to underdeveloped therapeutic interpersonal skills and task-focused practice](limited-placement-underdeveloped-therapeutic-skills.md) — related
+- [Small, discussion-based course formats are described by students as fostering psychological safety, validation, and peer connection that function as a central learning mechanism](small-discussion-formats-psychological-safety.md) — related

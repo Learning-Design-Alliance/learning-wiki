@@ -56,3 +56,4 @@ ANCOVA comparison of post-rotation CCTDI critical thinking disposition scores be
 - [Residents in the iHEC-integrated teaching cohort achieved higher post-rotation OSCE scores than the conventional cohort (Cohen's d = 0.82)](ihec-higher-osce-scores.md) — related
 - [The iHEC cohort showed higher post-rotation self-directed learning readiness than the conventional cohort (Cohen's d = 0.78)](ihec-higher-sdl-readiness.md) — related
 - [Scenario-based simulation ward rounds combined with video feedback improve critical thinking disposition in gastroenterology residents](simulation-ward-rounds-video-feedback-improve-critical-thinking.md) — related
+- [Self-rated critical thinking disposition scores of nurse anesthetists rose from the measurement after traditional teaching to the measurement after DBSS in one group with no comparison group, though both values remained below the positive-disposition threshold](dbss-improves-na-critical-thinking-disposition.md) — related

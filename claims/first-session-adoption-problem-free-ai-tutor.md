@@ -51,3 +51,4 @@ Participation analysis in the five-week field period: weekly completion of the 2
 - [Reviews citing one randomised trial (Bastani et al. 2025) report that unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](gpt4-access-harms-learning-after-withdrawal.md) — related
 - [Ambient consumer AI use in the holdout did not close the structured-tutor gap](ambient-consumer-ai-did-not-close-tutor-gap.md) — related
 - [In a four-month field study, students used the digital tutor extensively, initiating over 37,000 sessions and solving more than 80,000 formative questions](digital-tutor-field-study-high-usage.md) — related
+- [Offering technology support enhanced motivational access: 9 patients joined after learning support was available](offering-support-enhanced-motivational-access.md) — related

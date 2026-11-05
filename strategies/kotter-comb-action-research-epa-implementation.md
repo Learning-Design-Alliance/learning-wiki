@@ -45,6 +45,7 @@ The article used Kotter's 8-Step Change Management Model and the COM-B model to 
 
 - [Establish continuous improvement cycles that monitor and evaluate POG implementation](pog-continuous-improvement-cycles.md)
 - [Integrate co-design and continuous feedback loops into AI evaluation processes](co-design-feedback-loops-ai-evaluation.md)
+- [Use iterative resident feedback to identify modifiable delivery barriers and make targeted, low-resource curriculum adaptations between iterations](iterative-feedback-curriculum-adaptation-strategy.md)
 
 ## Examples
 -

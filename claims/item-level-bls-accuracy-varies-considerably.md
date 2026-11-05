@@ -50,3 +50,4 @@ Item-level analysis of 20 BLS knowledge questions among 2,017 HCPs. The article 
 - [Only 40.26% of surveyed healthcare professionals met the criterion for high knowledge-based BLS competency (score ≥80 points).](40-percent-high-bls-knowledge-competency.md) — related
 - [Defibrillation-related knowledge had the lowest domain-specific accuracy among BLS knowledge domains.](defibrillation-knowledge-lowest-domain-accuracy.md) — related
 - [Item-level performance reveals specific weaknesses in radiology interpretation and specialized clinical topics](item-level-weaknesses-radiology-clinical-topics-syria.md) — related
+- [Only 26.0% of surveyed dentists in Saudi Arabia demonstrated good knowledge of BLS/CPR, with 41.0% moderate and 33.0% low knowledge](quarter-dentists-saudi-good-bls-knowledge.md) — related

@@ -70,3 +70,4 @@ The review's meta-aggregation (Table 4, Category 8) includes the finding 'Builds
 - [Patients experience healthcare professionals as competent in digital counselling when they support self-management through tailored guidance and disease-specific information](patients-experience-hcp-competence-self-management-support.md) — related
 - [Nurse-led telecare and telemedicine improve communication, self-management, and continuity of care in biologics therapy](nurse-led-telecare-improves-biologics-care.md) — related
 - [Reciprocity in SL requires meaningful relationships and hearing the voices of those served](sl-reciprocity-voices-of-served.md) — related
+- [Human technology support reached all mentees and 46.2% of mentors and helped close hemodialysis patients' digital divides in a patient-facing digital intervention](technology-support-closed-hemodialysis-digital-divides.md) — related

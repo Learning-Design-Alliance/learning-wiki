@@ -65,6 +65,7 @@ The review's design recommendation is that educators should not seek to replace 
 - [Supplement practice-based training with synchronous and blended e-learning while retaining in-person clinical experiences](blended-synchronous-elearning-supplement-clinical-training.md)
 - [Blend digital resources with traditional teaching to create a blended learning approach](blended-digital-traditional-pathology-teaching.md)
 - [Use AR to supplement limited anatomy lab access by simulating visuospatial aspects of cadaveric dissection with multi-user collaborative functions](ar-supplement-limited-anatomy-lab-access.md)
+- [Use virtual simulation games as a preliminary or complementary method to face-to-face simulation and clinical practice](vsg-as-preliminary-or-complementary-simulation.md)
 
 ## Examples
 -

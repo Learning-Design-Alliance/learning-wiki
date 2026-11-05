@@ -49,6 +49,7 @@ The article's implications section proposes three practical directions for clini
 
 - [Improve standardised nurse training through scheduled feedback mechanisms, planned rotation schedules, standardised examinations and supportive communication culture](scheduled-feedback-rotation-and-exam-improvements-strategy.md)
 - [Conduct bedside evidence-based nursing rounds during Year 4 clinical internships](bedside-ebp-nursing-rounds-strategy.md)
+- [Student-recommended improvements to nursing diagnosis teaching: bedside instruction, collaborative care planning, smaller groups, consistent feedback, and broader domain exposure](strategy-bedside-collaborative-nanda-diagnosis-teaching.md)
 
 ## Examples
 -

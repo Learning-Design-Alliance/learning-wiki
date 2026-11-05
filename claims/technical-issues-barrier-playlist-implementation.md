@@ -101,3 +101,4 @@ Observational and interview study of four after-school sites; educators reported
 - [No connectivity issues occurred during AR telementored simulation in a controlled environment with stable network infrastructure](ar-telementoring-no-connectivity-issues-controlled-environment.md) — related
 - [Logistical issues, particularly discussions cut short by the central coordinator and insufficient expert panel time, are the most frequently raised limitations of integrated TBL by students.](logistical-issues-most-frequent-tbl-limitation.md) — related
 - [Controller-operation difficulty was the most commonly reported challenge and may have impeded immersion](ncpr-vr-controller-difficulty-feedback.md) — related
+- [VSG students reported predominantly positive views of the game, with technical glitches the most common criticism](vsg-student-opinions-positive-with-technical-glitches.md) — related

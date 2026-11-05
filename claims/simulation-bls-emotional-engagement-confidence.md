@@ -55,3 +55,4 @@ Qualitative thematic finding from five focus group discussions with 40 nursing s
 - [A minority of nursing students report negative emotional responses to virtual simulation teaching, including fear, anxiety, and burnout](vs-negative-emotional-experiences.md) — related
 - [Students perceive virtual simulation as creating equitable, low-pressure, psychologically safe environments that enable autonomy and confidence](virtual-simulation-low-pressure-psychological-safety.md) — related
 - [Peer observation anxiety, limited practice time, and large group sizes are perceived barriers to optimal learning in simulation-based BLS training](simulation-bls-perceived-barriers.md) — related
+- [Small-group, communication-focused SP simulations increase pre-licensure nursing students' comfort and confidence in therapeutic communication](sp-simulation-increases-therapeutic-communication-comfort.md) — a narrower finding that bears on this claim

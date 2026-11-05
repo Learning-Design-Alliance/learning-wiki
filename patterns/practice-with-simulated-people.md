@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 232 claims (119 for, 94 mixed, 19 against) · 127 studies (36 review, 34 causal, 18 design, 16 quant-synthesis, 13 qualitative, 6 associational, 4 theoretical), `q1`–`q4` · 24 of 127 report an effect size · 227 claims rest on one study
+> **Evidence** · 235 claims (120 for, 96 mixed, 19 against) · 129 studies (36 review, 35 causal, 18 design, 16 quant-synthesis, 14 qualitative, 6 associational, 4 theoretical), `q1`–`q4` · 25 of 129 report an effect size · 230 claims rest on one study
 
 ## Description and scope
 
@@ -160,6 +160,9 @@ Read against the model on 2026-10-19; these bear on the page but do not change a
 - [Dental students' communication skills with standardized patients remained consistent in several domains and improved over time in others across 2016–2022](../claims/dental-sp-communication-seven-year-trends.md) [+W] — attached 2026-11-04 from Tiwari Tamanna et al. (2025), which proposed "Standardized patient encounter with immediate SP feedback and coach debrief as summative communication assessment"; tests this page's relationship.
 - [AI-generated OPTION-12 ratings agree strongly with human expert ratings of shared decision-making performance in AI-simulated consultations](../claims/ai-human-option12-agreement-feasibility.md) [+W] — attached 2026-11-04 from Herschbach L et al. (2026), which proposed "Use AI-simulated patients to provide scalable, low-threshold SDM practice opportunities with individualized automated feedback".
 - [Iterative prompt refinement and expert pilot-testing may partly explain favorable LLM virtual patient output quality](../claims/iterative-prompt-refinement-expert-testing-improves-output.md) [+W] — attached 2026-11-04 from BaHammam Fahad BDS et al. (2026), which proposed "Refine LLM virtual patient system prompts iteratively with expert pilot-testing before learner deployment".
+- [SP simulations evoked perceived ambiguity among nursing students about the psychiatric-mental health nurse's role, blurring therapeutic communication and psychotherapy](../claims/sp-simulation-role-ambiguity-psychiatric-nurses.md) [~W] — attached 2026-11-05 from Kameg Brayden et al. (2026), which proposed "Faculty should intentionally clarify nursing role boundaries and strengthen debriefing structures to optimize SP simulation learning".
+- [Peer role-play and peer assessment increase course engagement among international medical students, including a 22.5 percentage-point increase in active participation rate](../claims/peer-roleplay-increases-gynecology-course-engagement.md) [~W] — attached 2026-11-05 from Lv Pingping et al. (2026), which proposed "Use peer-led simulation with structured peer assessment as a resource-efficient alternative to professional standardized patients in resource-limited settings".
+- [Peer role-play and peer assessment improve non-technical clinical competencies (doctor-patient communication, humanistic care, preoperative preparation) with a large effect for communication skills](../claims/peer-roleplay-improves-nontechnical-clinical-competencies.md) [+W] — attached 2026-11-05 from Lv Pingping et al. (2026), which proposed "Use peer-led simulation with structured peer assessment as a resource-efficient alternative to professional standardized patients in resource-limited settings"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -280,6 +283,7 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Scaffolded curricular progression: peer-designed collaborative simulation early, transitioning to individual encounters with professional standardized patients and then real patients](../strategies/scaffolded-collaborative-to-individual-simulation-progression.md)
 - [Use LLM-based virtual patient simulations to provide on-demand, repeated standardized interview practice for rater training and calibration](../strategies/virtual-patient-rater-training-strategy.md)
 - [Use student standardized patients with role rotation and multi-source debriefing in scenario-based skills training](../strategies/ssp-role-rotation-debriefing-strategy.md)
+- [Structure AI virtual patient sessions with pre-briefing, a structured diagnostic guide, and case-specific debriefing](../strategies/pre-briefing-debriefing-ai-virtual-patient-session.md)
 
 ## Related Patterns
 - [Case-Based Learning](case-based-learning.md)

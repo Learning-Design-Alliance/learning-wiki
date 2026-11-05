@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: zhou-fen-2026
     resource: "https://doi.org/10.3389/fpubh.2026.1837667"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i2` medium
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i2` The non-randomised intervention group showed significantly greater improvement in knowledge score than the control group (the abstract reports d = 0.56; the results section reports d = 0.88 for the change score and a baseline-adjusted ANCOVA difference of 8.53 points, partial η² = 0.439); because groups were formed by boarding status, the authors state this is an association and not evidence that the programme itself caused the gain. [→ Zhou Fen 2026](#zhou-fen-2026)

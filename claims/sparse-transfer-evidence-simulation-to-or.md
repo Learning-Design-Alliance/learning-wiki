@@ -59,3 +59,4 @@ The review's Discussion states that "evidence supporting the transferability of 
 - [No evidence currently supports transfer of simulator-based VRS training to the operating room](no-evidence-vrs-simulator-transfer-operating-room.md) — related
 - [Simulation-based training translates laparoscopic surgical skills to the operating room](simulation-training-translates-laparoscopic-skills-to-or.md) — related
 - [Detail of high-risk step simulation is significantly correlated with understanding of complication management](cataract-vsim-highrisk-detail-complication-correlation.md) — related
+- [The authors report that VR surgical training may improve operator performance and reduce surgical complication rates relative to animal and cadaver model outcomes, while impact on clinical competency remains controversial](vr-training-performance-and-controversy.md) — related

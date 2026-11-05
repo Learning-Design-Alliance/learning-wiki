@@ -56,3 +56,4 @@ A linear mixed-effects model for confidence as the dependent variable found male
 - [Female students assign significantly higher ratings than male students to specific e-learning aspects, including planning, presential sessions, content, self-evaluation, tutor contribution and illustrations](female-higher-ratings-specific-aspects.md) — related
 - [Solving practical cases influences female students' global satisfaction but not male students', despite similar ratings of that aspect](practical-cases-influence-female-satisfaction.md) — related
 - [Female student teachers score significantly higher on performance goal orientation than male students, with no gender differences on the other dimensions](gender-performance-goal-orientation-females-higher.md) — related
+- [Female students report higher stress than male students during hands-on artificial-tooth training, despite comparable performance](female-higher-stress-hands-on-training.md) — related

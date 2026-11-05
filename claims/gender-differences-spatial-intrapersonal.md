@@ -55,3 +55,4 @@ Independent-samples t-test comparing male (n=58) and female (n=50) students acro
 - [Male and female students taught algebra with problem-based learning show no statistically significant difference in achievement scores](pbl-no-gender-achievement-difference.md) — reports the opposite
 - [Female students score significantly higher than male counterparts in the experiment group, but show no differential experiment-class gains in regression](female-students-significantly-higher-experiment-group.md) — reports the opposite
 - [CT self-efficacy gains varied by gender, grade, and prior Minecraft experience, with significant increases for female students, Grade 8 students, and students with limited Minecraft experience](gbl-ct-self-efficacy-moderators.md) — related
+- [Gender and expertise domain are the most robust grade predictors; females outperform males in 9 of 13 subjects with negligible effects](gender-and-expertise-robust-grade-predictors.md) — related

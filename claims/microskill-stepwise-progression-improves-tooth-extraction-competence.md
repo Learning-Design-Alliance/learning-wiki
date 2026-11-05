@@ -9,7 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-11-04
+source_checked: 2026-11-05
 sources:
   - id: wu-zongxi-2026
     resource: "https://doi.org/10.1016/j.identj.2026.111097"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2026 · checked against its sources 2026-11-04 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` The intervention group achieved significantly higher modified DOPS scores than the control group (94.60 ± 3.97 vs 88.25 ± 6.41; mean difference 6.35; Cohen's d = 1.19). [→ Wu Zongxi 2026](#wu-zongxi-2026)

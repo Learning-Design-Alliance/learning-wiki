@@ -75,3 +75,4 @@ The report cites the late-2020 Common Sense Media and Boston Consulting Group do
 - [Technological prerequisites such as internet access and device availability were identified only by the South African panel, with equity of education as a distal outcome](technological-prerequisites-south-african-panel-equity.md) — related
 - [Home internet access gaps and pupil independence were key challenges; schools used homework clubs, and an estimated 10–15% of pupils did not do home tasks](mathsflip-access-challenges-homework-clubs.md) — related
 - [One analyzed article found that lack of access to technological resources in higher education limits academic success among the Latino-ethnic population](technology-access-limits-latino-success.md) — related
+- [Internet access quality was a common material-access challenge, especially for rural mentees relying on cellular data](internet-quality-barrier-rural-mentees.md) — a narrower finding that bears on this claim

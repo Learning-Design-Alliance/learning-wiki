@@ -9,7 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2016
-source_checked: 2026-11-02
+source_checked: 2026-11-05
 sources:
   - id: gorard-et-al-2016
     resource: "https://eric.ed.gov/?id=ED581107"
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2016 · checked against its sources 2026-11-02 (automated, 2 of 2 entries) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-05 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Almost a quarter of schools did not deliver the intervention, mainly due to lack of teacher volunteers and other delivery issues. [→ Gorard et al. 2016](#gorard-et-al-2016)

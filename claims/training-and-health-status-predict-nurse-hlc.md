@@ -46,3 +46,4 @@ Multiple linear regression (enter method) on the cross-sectional survey sample o
 
 ## Related Claims
 - [Chongqing nurses show moderately high HLC (mean 154.41, SD 20.60) with weakest knowledge and collaboration dimension scores](nurses-moderately-high-hlc-weak-knowledge-collaboration.md) — related
+- [Educational attainment, age, and continuing education frequency independently predict multidisciplinary competency, together explaining 14% of variance](education-age-ce-predict-mdt-competency.md) — related

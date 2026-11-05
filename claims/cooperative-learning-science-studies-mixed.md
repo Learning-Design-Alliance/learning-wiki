@@ -9,6 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: mixed
 newest_evidence: 1993
+source_checked: 2026-11-05
 sources:
   - id: blosser-1993
     resource: "https://eric.ed.gov/?id=ED351207"
@@ -40,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r1` · `q2`
-> **Currency** · newest study 1993 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1993 · checked against its sources 2026-11-05 (automated, 3 of 3 entries) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims

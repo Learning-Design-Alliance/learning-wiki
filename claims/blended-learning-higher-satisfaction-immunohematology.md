@@ -52,3 +52,4 @@ Parallel-group randomized controlled study with 196 students. Satisfaction measu
 - [Within-group knowledge gains from pre-test to post-test are statistically significant in both the intervention and control groups](within-group-knowledge-gains-both-groups-immunohematology.md) — related
 - [Healthcare professionals report higher satisfaction with digital education than with traditional learning for guideline training](digital-education-guidelines-satisfaction.md) — related
 - [Flipped classroom significantly improves practical exam scores over lecture-based learning (pooled SMD 0.50)](fc-practical-exam-smd-050.md) — related
+- [Blended learning interns reported significantly higher satisfaction than traditional-group interns across all five evaluated dimensions](blended-radiology-assistant-higher-satisfaction-all-dimensions.md) — related
