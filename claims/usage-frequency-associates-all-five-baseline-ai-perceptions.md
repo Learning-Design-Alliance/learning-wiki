@@ -51,3 +51,4 @@ Pre-instruction survey analysis of 91 bioscience graduate and postdoctoral train
 - [Self-rated LLM familiarity is a weaker secondary intake signal, surviving Holm correction for three of five outcomes with a bottom-anchored pattern](llm-familiarity-weaker-secondary-intake-signal.md) — related
 - [Prior AI education shows no family-wise association with any baseline perception outcome, with at most small effect sizes, under both three-group and two-group codings](prior-ai-education-null-intake-feature.md) — reports the opposite
 - [High-frequency LLM users show higher minimum course outcomes and reduced score variability, though interaction level is not a dominant outcome predictor](high-usage-lower-variance-higher-minimum.md) — related
+- [Trust in ChatGPT's outputs was low overall and correlated positively with usage frequency](chatgpt-trust-correlates-with-usage-frequency.md) — related

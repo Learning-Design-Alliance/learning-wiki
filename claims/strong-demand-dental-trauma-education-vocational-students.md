@@ -49,3 +49,4 @@ Descriptive results from the 333-student survey (Table 3): 299 students (89.8%) 
 - [Health vocational students in Turkey show limited knowledge of dental trauma emergency management, with only 7.2% receiving first aid training that included dental trauma content](limited-dental-trauma-knowledge-turkish-vocational-students.md) — related
 - [Most participants believed oxygen therapy training is necessary, with no significant difference between nurses and physicians](ot-training-perceived-necessary-majority.md) — related
 - [Most fourth-year dental students at one Australian university report low confidence in managing TDI cases despite having average knowledge.](dental-students-low-confidence-tadi-management.md) — related
+- [Attendance at dental-injury classes shows no statistically significant difference in TDI-KNOW scores (66.51% vs 63.14%, p = 0.09)](no-significant-difference-attendance-dental-trauma-classes.md) — related

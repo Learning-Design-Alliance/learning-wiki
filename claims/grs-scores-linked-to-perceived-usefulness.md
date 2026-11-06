@@ -49,3 +49,5 @@ Generalized linear model analysis of instructor-assigned GRS rubric scores again
 - [Formalin-embalmed cadaver tissue yields ultrasound images clear enough that all structures needed for a femoral nerve block are easily visualized during needle guidance](formalin-cadaver-clear-ultrasound-images.md) — related
 - [Participants overwhelmingly rated formalin-embalmed cadaver simulation training as useful preparation for performing ultrasound-guided procedures on patients](trainees-rate-cadaver-simulation-useful.md) — related
 - [Participant outcomes did not differ significantly by which of the four instructors taught the cadaver simulation workshop](no-instructor-effect-on-training-outcomes.md) — related
+- [Higher global rating scale scores are associated with shorter procedure times and fewer needle attempts in PA students' ultrasound-guided cyst drainage](grs-scores-associated-with-faster-fewer-attempts.md) — related
+- [Instructor assignment does not significantly affect PA students' self-confidence or skills-test outcomes in cadaver ultrasound simulation training](instructor-assignment-no-effect-simulation-outcomes.md) — related

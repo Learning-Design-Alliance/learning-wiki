@@ -56,3 +56,5 @@ Quasi-experiment with 120 nursing interns (60 per group) comparing BOPPPS plus v
 - [BOPPPS with virtual simulation improves humanistic care ability overall (d = 0.46), with gains in cognition and patience but not courage](boppps-virtual-simulation-humanistic-care.md) — related
 - [Working time and satisfaction do not differ between interactive and passive e-learning groups](e-learning-working-time-satisfaction-no-difference.md) — related
 - [3DIPT-assisted teaching produces higher simulated NMLE anatomical imaging test scores than traditional internship teaching after 6 months](3dipt-higher-simulated-nmle-anatomical-imaging-scores.md) — related
+- [Formative assessment scores did not differ significantly between the BOPPPS-simulation and traditional groups](boppps-formative-assessment-null-difference.md) — related
+- [BOPPPS-plus-scenario-simulation teaching was associated with significantly higher summative assessment and total scores than traditional lecture-based instruction](boppps-simulation-higher-summative-total-scores.md) — related

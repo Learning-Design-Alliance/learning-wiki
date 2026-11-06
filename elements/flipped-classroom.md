@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 74 claims (42 for, 27 mixed, 5 against) · 41 studies (24 causal, 12 quant-synthesis, 3 review, 1 associational, 1 design), `q1`–`q4` · 13 of 41 report an effect size · 73 claims rest on one study
+> **Evidence** · 76 claims (43 for, 28 mixed, 5 against) · 42 studies (25 causal, 12 quant-synthesis, 3 review, 1 associational, 1 design), `q1`–`q4` · 14 of 42 report an effect size · 75 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -98,6 +98,8 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [A chained indirect effect through self-directed learning ability then autonomous motivation significantly transmits the flipped classroom effect on physical activity.](../claims/chained-sdl-then-am-indirect-effect.md) [+W]
 - [A higher proportion of flipped classroom students passed the pharmacology exam (75% vs 60% above 50%)](../claims/fc-higher-pass-rate-dental-pharmacology.md) [+W]
 - [The AI-enhanced flipped classroom group scored higher on pre-class preparation and PPT quality than the flipped classroom group, with no significant differences in presentation performance or professional knowledge mastery.](../claims/ai-flipped-classroom-pre-class-quality-gains-bounded.md) [~W]
+- [Students taught with a flipped classroom model in live online classes show significantly higher delayed post-test retention than traditionally taught peers](../claims/fcm-loc-higher-delayed-retention.md) [+M] — attached 2026-11-05 from Aslan Seda Aktı et al. (2025), which proposed "Flipped classroom implementation package for live online classes: short expert-reviewed videos, worksheets, and Zoom breakout-room cooperative learning"; tests this page's relationship.
+- [The flipped classroom model in live online classes produces no significant immediate learning achievement advantage over traditional teaching](../claims/fcm-loc-no-immediate-achievement-difference.md) [~M] — attached 2026-11-05 from Aslan Seda Aktı et al. (2025), which proposed "Flipped classroom implementation package for live online classes: short expert-reviewed videos, worksheets, and Zoom breakout-room cooperative learning"; tests this page's relationship.
 
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)

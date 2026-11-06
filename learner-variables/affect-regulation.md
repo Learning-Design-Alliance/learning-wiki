@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 284 claims (203 show a difference, 52 mixed, 29 no difference) · 183 studies (59 associational, 52 causal, 32 review, 14 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 40 of 183 report an effect size · 276 claims rest on one study
+> **Evidence** · 286 claims (204 show a difference, 52 mixed, 30 no difference) · 184 studies (60 associational, 52 causal, 32 review, 14 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 41 of 184 report an effect size · 278 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -324,6 +324,8 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Negative affect predicts increased reliance on social diversion, but not distraction, over time](../claims/negative-affect-predicts-social-diversion.md) [~M] — learners who differ on it differ in outcomes
 - [Post-simulation happiness/hopefulness positively and frustration negatively predict perceived team mood](../claims/emotions-predict-team-mood-perceptions.md) [+M] — learners who differ on it differ in outcomes
 - [Task-oriented coping and positive affect show positive reciprocal cross-lagged relations over one semester, implying positive feedback loops](../claims/task-coping-positive-affect-feedback-loop.md) [+M] — learners who differ on it differ in outcomes
+- [Distancing coping showed only a non-significant trend toward lower GPA](../claims/distancing-coping-nonsignificant-trend-lower-gpa.md) [-M] — learners who differ on it differ in outcomes
+- [Higher use of self-controlling coping is associated with higher GPA among Ethiopian undergraduates](../claims/self-controlling-coping-higher-gpa-ethiopian-undergraduates.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

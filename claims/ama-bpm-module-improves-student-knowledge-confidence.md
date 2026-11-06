@@ -50,3 +50,5 @@ Mixed-method pre–post study of 136 first-year medical and 70 first-year PA stu
 - [Both cohorts show significant gains in understanding proper BPM techniques (p < 0.001)](bpm-technique-knowledge-gains.md) — a narrower finding that bears on this claim
 - [OSCE results validate improvements in technical accuracy and patient communication after training](osce-validates-bpm-skill-improvement.md) — a narrower finding that bears on this claim
 - [Medical students show significant gains in patient-positioning knowledge while PA students show no significant gain (ceiling effect)](positioning-knowledge-gain-medical-only.md) — a narrower finding that bears on this claim
+- [Healthcare providers' confidence in virtual care delivery rose from pre-test to post-test after an asynchronous virtual care CPD module, in one uncontrolled pre-post study](virtual-care-cpd-module-improves-confidence.md) — related
+- [Healthcare providers' objective knowledge scores rose from pre-test to post-test after an asynchronous virtual care CPD module, in one uncontrolled pre-post study](virtual-care-cpd-module-improves-knowledge.md) — a narrower finding that bears on this claim

@@ -86,6 +86,7 @@ Graphic organizers externalize relationships among ideas, reducing the working-m
 - **Concept mapping** — the learner-generated, open-ended variant of this strategy, best when relationships are non-obvious
 - **Annotating** — complementary; annotations capture local detail while organizers capture global structure
 - [Scaffold note-taking in learning apps with drag-and-drop information items rather than free-form input](scaffolded-drag-and-drop-note-taking.md)
+- [Use cover, copy, and compare with graphic organizers as a study strategy for learning stimulus relations](ccc-graphic-organizer-study-strategy.md)
 
 ## Examples
 - Students complete a comparison matrix on two historical figures while reading paired biographies, then use it to draft a compare–contrast essay (see [Cult of Pedagogy's graphic organizer collection](https://www.cultofpedagogy.com/graphic-organizer/)).

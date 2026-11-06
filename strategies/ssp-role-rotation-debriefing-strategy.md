@@ -48,6 +48,7 @@ The article's intervention used Student Standardized Patients (SSP) in small gro
 - [Role-play activity training with doctor, standardized-patient and evaluator roles plus peer and teacher debriefing before real-patient interviews](role-play-history-taking-training-strategy.md)
 - [Rotate learners through junior and senior interprofessional roles across simulation scenarios](rotate-interprofessional-roles-across-simulation-scenarios.md)
 - [Use standardized patients with structured training and consistent role portrayal across simulation sessions](standardized-patients-structured-training-consistent-portrayal.md)
+- [Use instructor-led reflective debriefing and role-play with standardized patients to prepare students for the transition to clinical training](debriefing-roleplay-clinical-transition-strategy.md)
 
 ## Examples
 -

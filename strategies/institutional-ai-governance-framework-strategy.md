@@ -66,6 +66,7 @@ The brief recommends that postsecondary leaders develop comprehensive AI usage g
 - [Phased implementation roadmap for departments adopting GenAI personalization](phased-genai-adoption-roadmap.md)
 - [Deploy AI as an auxiliary tool supplemented by structured measures including transparent auditing of algorithmic bias and data-processing privacy protocols](ai-auxiliary-tool-structured-safeguards-strategy.md)
 - [Extend AI tutor implementation across modules, expand question banks, and establish ethical oversight guidelines](future-directions-ai-tutor-expansion-and-oversight.md)
+- [Deploy the predictive model as a mid-semester triage tool with capacity-aligned thresholds, recalibration, non-punitive governance, and bias auditing](mid-semester-triage-deployment-strategy.md)
 
 ## Examples
 -

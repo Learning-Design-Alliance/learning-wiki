@@ -47,3 +47,4 @@ MICMAC cross-impact matrix multiplication classified 20 sub-indicators into four
 ## Related Claims
 - [Formative assessment and continuous feedback are prioritized over traditional offline final examinations in the evaluation phase](formative-assessment-over-final-exams-bmooc.md) — related
 - [Technical learning support and learners' familiarity with MOOC platforms are linkage variables requiring careful consideration](technical-support-linkage-variables-bmooc.md) — related
+- [Personalised Learning and Adaptive Assessment is positioned as the most dependent, apex opportunity rather than an initiating one](personalised-learning-apex-dependent-opportunity.md) — related

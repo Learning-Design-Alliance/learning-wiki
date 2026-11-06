@@ -46,3 +46,4 @@ Survey a, administered to the 14 experimental-group students after each class im
 
 ## Related Claims
 - [84% of treatment-group students reported their TOEIC listening skills were enhanced through the CALL course with authentic materials](call-course-perceived-listening-improvement.md) — related
+- [Survey respondents held largely positive perceptions of the PPES course, valuing its clear presentation, authenticity and preparation for rotations and the OSCE](ppes-survey-positive-perceptions.md) — related

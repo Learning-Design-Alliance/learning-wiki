@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 252 claims (167 show a difference, 50 mixed, 35 no difference) · 159 studies (56 causal, 53 associational, 26 review, 10 quant-synthesis, 6 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 35 of 159 report an effect size · 244 claims rest on one study
+> **Evidence** · 258 claims (172 show a difference, 50 mixed, 36 no difference) · 161 studies (57 causal, 54 associational, 26 review, 10 quant-synthesis, 6 theoretical, 5 qualitative, 3 design), `q1`–`q4` · 36 of 161 report an effect size · 250 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -288,6 +288,12 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Anxiety severity (GAD-7) is not statistically significantly associated with GPA category among Saudi physical therapy students](../claims/gad7-not-associated-gpa-saudi-pt-students.md) [-M] — learners who differ on it differ in outcomes
 - [Physical activity, anxiety, and depression scores are not independent predictors of GPA category after demographic adjustment](../claims/pars3-gad7-phq9-not-independent-gpa-predictors.md) [-M] — learners who differ on it differ in outcomes
 - [Simulation-assisted application does not significantly change nursing students' state or trait anxiety compared with clinical practice alone](../claims/simulation-no-anxiety-change-nursing-students.md) [-M] — measured as an outcome of the instruction studied
+- [All measured variables (emotions, self-concept, social support, achievement) are significantly intercorrelated in the expected directions](../claims/fl-emotions-achievement-correlations.md) [+M] — learners who differ on it differ in outcomes
+- [At high English academic self-concept, social support's positive association with enjoyment and negative association with anxiety are significantly stronger than at low self-concept](../claims/self-concept-strengthens-simple-slopes.md) [+M] — measured as an outcome of the instruction studied
+- [English academic self-concept moderates the association of social support with foreign language enjoyment (positively) and foreign language anxiety (negatively)](../claims/self-concept-moderates-support-emotion-paths.md) [+M] — measured as an outcome of the instruction studied
+- [Foreign language emotions fully mediate the relationship between social support and English academic achievement](../claims/fl-emotions-fully-mediate-support-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Foreign language enjoyment, boredom, and anxiety each significantly mediate the relationship between social support and English academic achievement](../claims/fl-emotions-mediate-support-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Simulation training does not significantly reduce anxiety or stress relative to theoretical instruction alone, though both improved within the simulation group](../claims/simulation-no-between-group-anxiety-stress-reduction.md) [-M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

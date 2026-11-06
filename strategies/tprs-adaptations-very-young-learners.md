@@ -50,6 +50,7 @@ The article recommends concrete adaptations when applying TPRS with very young l
 
 - [Open-ended VBA-based learning sequence: pose questions from a given picture, propose solutions, then create new props or games](open-ended-vba-media-creation-sequence.md)
 - [Text Talk](text-talk.md)
+- [Simplify simulation models or divide training into smaller sections to maintain engagement](simplify-or-segment-simulation-training.md)
 
 ## Examples
 -

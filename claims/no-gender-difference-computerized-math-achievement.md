@@ -51,3 +51,4 @@ Two-way ANCOVA of post-exam scores in the same quasi-experiment. The article rep
 - [No significant performance difference between male and female students taught with the Polya Problem-Solving Model](polya-model-no-gender-difference.md) — related
 - [No statistically significant gender difference in chemistry achievement among students taught through computer-based simulations](cbs-no-gender-difference-chemistry-achievement.md) — related
 - [Gender differences in satisfaction were not statistically significant in either curriculum group](satisfaction-gender-differences-nonsignificant-both-groups.md) — related
+- [Male students score higher on average in mathematics achievement than females in both grades in descriptive comparisons](gender-descriptive-achievement-gap-grades-10-11.md) — related

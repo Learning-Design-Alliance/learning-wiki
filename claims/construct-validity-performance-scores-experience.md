@@ -53,3 +53,4 @@ Construct validity was assessed by comparing operative scores and times across t
 - [Novices take significantly longer than experts to complete a total laparoscopic hysterectomy on the MaiSurge model (an 85.3% increase in operating time)](maisurge-experts-novices-operating-time.md) — a narrower finding that bears on this claim
 - [Reported average simulated-training duration for PTED is only about 22.8 hours, with no significant difference across experience levels](pted-simulated-training-averages-22-8-hours.md) — reports the opposite
 - [The VR laparoscopic camera navigation test discriminates between novice medical students and experienced surgical residents](vr-camera-navigation-test-discriminates-novices-experienced.md) — related
+- [Repeated practice in a case-based VR suture simulation significantly improved stomatology undergraduates' item and total scores from formative to final test](vr-facial-wound-suture-score-improvement.md) — related

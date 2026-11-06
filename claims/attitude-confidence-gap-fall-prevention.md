@@ -51,3 +51,4 @@ Descriptive analysis of two-item attitude and confidence domains in the cross-se
 - [Frequency of standardized fall-risk tool use is strongly associated with higher fall-prevention knowledge scores among Saudi physical therapists](tool-use-frequency-linked-to-knowledge.md) — related
 - [Familiarity with international fall-prevention guidelines and the STEADI toolkit is low among Saudi physical therapists](low-steadi-guideline-familiarity.md) — related
 - [Therapists with more clinical experience with older adults use standardized fall-risk assessment tools more frequently](experience-linked-to-tool-utilization.md) — related
+- [Self-reported competence is high while applied case-report knowledge is low among PT interns](competence-case-report-discrepancy.md) — related

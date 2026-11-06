@@ -47,6 +47,7 @@ Based on the finding that patient rights education is associated with higher PCC
 
 - [Embed ethics in AI capacity building using hands-on approaches, case studies, and role reversal](hands-on-case-study-ai-ethics-training.md)
 - [Integrate interactive, competency-based diabetic foot care training into continuing professional development, supported by organizational resources](integrate-interactive-diabetic-foot-training-cpd.md)
+- [Support ethical genomics practice through ethics rounds and integrating ethics across genomics education, leadership and clinical practice](ethics-rounds-and-integrated-ethics-for-genomic-nursing.md)
 
 ## Examples
 -

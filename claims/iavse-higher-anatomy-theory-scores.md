@@ -51,3 +51,4 @@ Nonrandomized controlled trial comparing 50 IAVSE elective students with 52 trad
 - [Experimental-group students rated the IAVSE course significantly higher than the control group rated traditional instruction across seven Likert-scale pedagogical dimensions](iavse-higher-likert-feedback.md) — related
 - [VR-based anatomy teaching moderately improves learners' examination scores compared with traditional or 2D digital methods](vr-anatomy-teaching-improves-test-scores.md) — a broader claim this one bears on
 - [Undergraduates trained on a VR cataract simulation platform scored significantly higher total scores than traditionally trained peers in both traditional and VR assessments](vr-cataract-simulation-higher-total-scores.md) — related
+- [FCCL students significantly outperform traditional classroom students on the laboratory specimen examination in anatomy (p=0.004)](fccl-laboratory-exam-advantage-anatomy.md) — related

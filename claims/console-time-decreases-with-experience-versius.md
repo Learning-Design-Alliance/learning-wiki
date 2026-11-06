@@ -60,3 +60,4 @@ Predictive linear mixed-effects model built on Senior 1's data, plotting estimat
 - [Operative time in laparoscopic radical prostatectomy reaches a proficiency plateau after the 61st case in this series](lrp-operative-time-plateau-case-61.md) — related
 - [Technical performance metrics (pure RiSSA interval, purse-string times, console time) improved significantly after the case-17 inflection point](technical-metrics-improve-after-inflection.md) — related
 - [OPI-derived learning curves stabilize within the first 10 months of a surgeon's experience despite increasing case complexity](opi-learning-curve-stabilizes-ten-months.md) — related
+- [Overall procedural time shows a statistically significant linear correlation with procedure sequence for all 3 operators](linear-correlation-procedure-time-sequence.md) — related

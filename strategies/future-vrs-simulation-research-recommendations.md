@@ -51,6 +51,7 @@ The review's authors recommend how future simulator-training research in VRS sho
 - [Prioritize larger multi-center RCTs with standardized AR systems, uniform metrics, and long-term follow-up when evaluating AR surgical training](strategy-standardized-ar-training-protocols-research.md)
 - [Design future AR simulation studies with objective performance measures, controlled comparative designs and validated usability instruments](ar-simulation-future-study-design-recommendations.md)
 - [Prioritise flexible, ergonomically adaptable haptic input devices and standardised, longer training protocols in future VR surgical training research](flexible-haptic-input-devices-and-standardised-protocols-strategy.md)
+- [Evaluate microlearning effectiveness with an RCT adding objective outcomes to self-report measures](planned-rct-microlearning-evaluation-strategy.md)
 
 ## Examples
 -

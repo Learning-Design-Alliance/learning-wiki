@@ -61,3 +61,4 @@ Assessor-blinded RCT of 50 clinical medical students interning at the First Affi
 - [PBL combined with 3D-VRT produced higher practical operation scores than traditional teaching in trauma orthopaedics education](pbl-3d-vrt-higher-practical-operation-scores.md) — related
 - [PBL combined with 3D-VRT produced higher written examination scores than traditional teaching in trauma orthopaedics education](pbl-3d-vrt-higher-written-exam-scores-trauma-orthopaedics.md) — related
 - [WeChat-based PBL students scored lower on memorization but higher on understanding and knowledge application than traditional-teaching peers in ophthalmology](wechat-pbl-exam-cognitive-levels-ophthalmology.md) — related
+- [Simulation training with 3D-printed trauma models yields significantly higher knowledge scores than theoretical instruction alone at two weeks (p < 0.001)](3d-printed-simulation-raises-knowledge-dental-trauma.md) — related

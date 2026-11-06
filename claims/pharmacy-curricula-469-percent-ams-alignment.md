@@ -48,3 +48,4 @@ Curriculum-mapping analysis of five pharmacy pre-service curricula (UniPort, JKZ
 - [AMS preparedness varied within and across professions, indicating professional category alone does not explain stewardship readiness](ams-preparedness-not-determined-by-profession.md) — a broader claim this one bears on
 - [Medicine pre-service curricula in the study showed 42% overall AMS alignment with the WHO AMR competency framework, with ABU Zaria (51%) stronger than AAU (33%)](medicine-curricula-42-percent-ams-alignment.md) — related
 - [Veterinary pre-service curricula showed 63% overall AMS alignment with WOAH day-one competencies, with UniLorin (77%) higher than EISMV (48%)](veterinary-curricula-63-percent-ams-alignment.md) — related
+- [AMS knowledge scores differed by institution, with University of Nigeria students scoring lower than peers at the other two schools](institutional-differences-ams-knowledge-nigeria.md) — related

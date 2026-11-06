@@ -113,3 +113,4 @@ The review compiles zero-order correlations from published meta-analyses (each w
 - [Academic achievement correlates positively with all five antecedent conditions in the sample](positive-correlations-five-antecedents-achievement.md) — related
 - [Spatial anxiety negatively predicts performance in maths, science and language grades; state anxiety predicts some grades](spatial-and-state-anxiety-negative-grade-associations.md) — related
 - [Cognitive and academic performance correlate moderately in this adolescent sample](cognition-grades-moderate-correlation.md) — related
+- [All measured variables (emotions, self-concept, social support, achievement) are significantly intercorrelated in the expected directions](fl-emotions-achievement-correlations.md) — related

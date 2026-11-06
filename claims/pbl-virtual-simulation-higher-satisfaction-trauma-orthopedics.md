@@ -67,3 +67,5 @@ Same assessor-blinded RCT of 50 clinical medical students. Teaching effectivenes
 - [OSCEai received an overall learning-tool rating of 4.62 and a recommendation likelihood of 4.78 out of 5](osceai-overall-reception-ratings.md) — related
 - [Students taught with PBL combined with 3D-VRT rated teaching methods higher than students taught traditionally](pbl-3d-vrt-higher-student-teaching-evaluations.md) — related
 - [Intervention students report higher educational satisfaction than controls after structured reflective sessions](reflective-sessions-increase-satisfaction.md) — related
+- [Both groups report similarly high satisfaction with the simulation training, with session duration rated lowest](high-satisfaction-similar-groups-duration-lowest.md) — reports the opposite
+- [Teaching satisfaction is higher among interns taught with OBE-integrated PBL than with lectures](obe-pbl-teaching-satisfaction-psychiatry.md) — related

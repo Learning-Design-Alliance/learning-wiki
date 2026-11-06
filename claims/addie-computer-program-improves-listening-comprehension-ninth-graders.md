@@ -53,3 +53,4 @@ Non-equivalent groups pre-post study with 70 ninth-grade male students in two se
 - [Teaching ninth-grade English reading texts with electronic mind maps (IMindMap) produced significantly higher reading comprehension posttest scores than the traditional method](emindmap-improves-reading-comprehension-jordan-grade9.md) — related
 - [Computer-assisted teaching of the passive voice produced significantly higher post-test achievement than traditional instruction among Jordanian first-secondary EFL pupils](call-passive-voice-beats-traditional-jordan.md) — related
 - [The experimental class taught with OTIL lessons in Moodle scored significantly higher on the listening post-test than the control class](otil-moodle-significant-posttest-advantage.md) — related
+- [Instructional design using the MIND model produced significantly higher post-test learning outcomes than design using the ADDIE model](mind-model-outperforms-addie-learning-outcomes.md) — related

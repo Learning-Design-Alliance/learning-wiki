@@ -58,3 +58,5 @@ In this single-center RCT, 60 residents were randomized 1:1 after a pre-course t
 - [3D visualization technology supports doctor-patient communication in resident training](3d-visualization-supports-doctor-patient-communication.md) — related
 - [The experimental group scored substantially higher on subjective clinical case analysis questions (28.5 ± 3.2 vs 21.3 ± 4.1, P < 0.001) than on objective memory questions (15.2% gain)](ai-kg-clinical-case-analysis-gain.md) — related
 - [Students in the 3D-PBL-annotation group report higher satisfaction with learning motivation, academic atmosphere, teacher-student interaction, and knowledge absorption](3d-pbl-annotation-higher-satisfaction.md) — related
+- [Learner-reported self-evaluation outcomes favour 3D printing-integrated PBL over lecture-based teaching in 9 of 10 dimensions](3dp-pbl-favours-learner-reported-outcomes-nine-of-ten.md) — related
+- [Experimental-group trainees report higher satisfaction than controls in teaching atmosphere, learning interest, and learning efficiency](digital-cbl-higher-satisfaction-interest-efficiency.md) — related

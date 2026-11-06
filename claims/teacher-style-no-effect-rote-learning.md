@@ -48,3 +48,4 @@ The repeated measures ANOVA on the multiple-choice rote knowledge test showed no
 - [Both autonomy supportive and controlling teaching units produce significant pre-to-post learning gains](both-conditions-significant-learning-gains.md) — related
 - [Prior knowledge does not significantly influence treatment-dependent learning achievement](prior-knowledge-no-treatment-influence.md) — related
 - [Autonomy supportive teaching produces greater conceptual knowledge gains than controlling teaching in seventh grade biology](autonomy-support-boosts-conceptual-knowledge-biology.md) — related
+- [Teacher autonomy support did not produce significantly higher post-test scores than the controlling style in a single simulated 20-minute teaching session](autonomy-support-no-posttest-score-effect.md) — related

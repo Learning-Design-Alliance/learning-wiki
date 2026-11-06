@@ -88,6 +88,7 @@ Learning journals work because writing forces elaboration and externalization: t
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — journal prompts that open a unit by surfacing what learners already believe
 - [Diary recording with recall, reflection and delayed verification as a self-directed learning strategy](diary-recall-reflection-verification-strategy.md)
 - [Two-column reflective writings with guiding questions in the reflective learning group](two-column-reflective-writings-strategy.md)
+- [Implement guided reflective diary writing with weekly entries and individualized teacher feedback](guided-reflective-diary-writing-strategy-nursing.md)
 
 ## Examples
 - **Clinical/nursing education**: reflective practice journals are standard in nursing and medical placement programs, typically structured by Gibbs' (1988) reflective cycle, with preceptor responses each week.

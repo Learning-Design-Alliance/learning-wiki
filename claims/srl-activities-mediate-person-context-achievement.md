@@ -53,3 +53,4 @@ Integrative review statement of a shared assumption across SRL models: self-regu
 - [Operationalization of variables, setting, and work-relatedness of the CE activity moderate the relationships between SRL strategies and associated factors](srl-ce-moderators-operationalization-setting-work-relatedness.md) — related
 - [Metacognition mediates the relationship between EF and SRL](metacognition-mediation-ef-srl.md) — a narrower finding that bears on this claim
 - Motivation theories underspecify causal mechanisms, so empirical findings on mediation cannot refute or challenge them — related
+- [Peer support does not mediate the relationship between motivational regulation strategies and achievement in the tested alternative models](peer-support-not-mediator-alternative-models.md) — a narrower finding that bears on this claim

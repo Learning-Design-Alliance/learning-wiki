@@ -62,3 +62,4 @@ Simultaneous multiple regression on the 24-child sample using averaged visuo-spa
 - [Spatial processing is preserved but slower in developmental dyscalculia, with slow trail-making and mental rotation speed attributed to WM/inhibition impairment](dd-spatial-processing-preserved-but-slow.md) — related
 - [Working-memory task type moderates MLD deficits: processing speed and updating yield larger effects than inhibition, independent of numerical content](wm-task-type-moderates-mld-deficit.md) — related
 - [Predicted arithmetic scores correlate with visuospatial working memory but show poor correlation with verbal working memory](arithmetic-model-correlates-visuospatial-wm.md) — related
+- [Children's executive function scores are negatively associated with their Chinese and mathematics achievement, with inhibition control a stronger predictor than working memory](ef-negative-association-chinese-math-achievement-chinese-schoolchildren.md) — related

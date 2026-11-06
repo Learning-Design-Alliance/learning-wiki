@@ -55,3 +55,4 @@ Qualitative single case study of one mentor-mentee dyad over a four-week first p
 - [Literacy coaching responsibilities fall into two major areas: teacher mentoring and literacy program advocacy](coaching-responsibilities-mentoring-and-advocacy.md) — related
 - [In the Ethiopian TDT study, novice teachers performed as well as facilitators in designing communicative English lessons](ethiopia-novice-teachers-performed-as-facilitators.md) — related
 - [Findings suggest VR-mediated mentoring with 360VR supports newly qualified teachers' noticing, classroom management competencies and self-efficacy](abc-vr-mentoring-supports-teacher-noticing-self-efficacy.md) — related
+- [Few interns had a formal university VR curriculum, and informal sources dominated VR learning; learned tests and maneuvers differed by phase](vr-learning-sources-and-learned-tests.md) — related

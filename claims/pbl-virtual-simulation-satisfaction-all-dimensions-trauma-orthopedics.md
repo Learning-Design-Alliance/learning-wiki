@@ -66,3 +66,7 @@ Dimension-level teaching satisfaction results in the same assessor-blinded RCT o
 - [Live-video teaching significantly boosts students' self-evaluated learning outcomes across all five measured aspects](ltm-self-evaluated-learning-outcomes.md) — related
 - [Students taught with PBL combined with 3D-VRT rated teaching methods higher than students taught traditionally](pbl-3d-vrt-higher-student-teaching-evaluations.md) — related
 - [PBL combined with 3D-VRT produced higher overall teaching satisfaction than traditional teaching across all six questionnaire components](pbl-3d-vrt-higher-teaching-satisfaction.md) — related
+- [Learner-reported self-evaluation outcomes favour 3D printing-integrated PBL over lecture-based teaching in 9 of 10 dimensions](3dp-pbl-favours-learner-reported-outcomes-nine-of-ten.md) — a broader claim this one bears on
+- [Students in the BOPPPS-simulation group reported higher teaching satisfaction across all five surveyed domains](boppps-simulation-higher-teaching-satisfaction.md) — related
+- [Experimental-group trainees report higher satisfaction than controls in teaching atmosphere, learning interest, and learning efficiency](digital-cbl-higher-satisfaction-interest-efficiency.md) — related
+- [Students in the combined PBL-MDT-flipped classroom group reported more positive learning outcomes than the traditional group across seven survey dimensions](pbl-mdt-flipped-survey-seven-dimensions-favorable.md) — related

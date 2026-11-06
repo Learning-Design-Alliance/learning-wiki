@@ -71,3 +71,4 @@ CUSUM analysis of operative time showed a visual peak at Case 40 (maximum 576.7 
 - [Erectile function preservation improved with surgical experience while continence outcomes stayed similar](erectile-function-improves-continence-stable-lrp-learning-curve.md) — related
 - [Console time decreased substantially with increasing surgical experience, with an estimated reduction of 33.2 min over the first 14 procedures](console-time-decreases-with-experience-versius.md) — related
 - [OPI-derived learning curves stabilize within the first 10 months of a surgeon's experience despite increasing case complexity](opi-learning-curve-stabilizes-ten-months.md) — related
+- [Pooled mean CUSUM analysis identifies a turning point of 20 procedures for US-guided distal radial artery cannulation by novice anesthesiologists](cusum-turning-point-20-procedures-dra-cannulation.md) — related

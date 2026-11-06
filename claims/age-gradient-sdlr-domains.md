@@ -53,3 +53,4 @@ Cross-sectional one-way ANOVA of total SDL-R across age groups (means from 80.72
 - [Younger nursing students more frequently report motivational challenges in self-directed learning than mature students](younger-students-motivation-challenges-sdl.md) — related
 - [Study-related stress peaks at year 4 while satisfaction and intrinsic motivation decline across training](stress-peaks-year4-motivation-declines.md) — related
 - [Age significantly influences overall and service-awareness needs, but not skills or interpersonal-interaction needs after post hoc comparison](age-influences-older-volunteer-needs-mixed.md) — related
+- [In the MIND model group, younger learners (18–24) achieved significantly higher learning outcomes than older age groups](mind-younger-learners-higher-outcomes-age.md) — reports the opposite

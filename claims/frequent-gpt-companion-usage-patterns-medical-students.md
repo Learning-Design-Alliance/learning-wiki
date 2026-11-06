@@ -50,3 +50,4 @@ Cross-sectional usage data from the study questionnaire (n = 47). The article re
 - [In examination weeks, students revisited prior topics and used exercises, whose deadlines had passed, as formative practice for the exams](exam-weeks-exercises-as-formative-practice.md) — related
 - [Third-year medical students report high satisfaction with a customized GPT reproductive physiology companion](high-student-satisfaction-customized-gpt-reproductive-physiology-companion.md) — related
 - [Exam-period uncertainty is linked to faster first replies to questions, but mainly when academic stakes are high](exam-uncertainty-faster-first-replies.md) — related
+- [Most of the full third-year cohort reported reviewing the pre-module educational materials in advance each week (97%, 89.2%, and 91.7% in weeks one to three)](cohort-material-engagement-rates.md) — related

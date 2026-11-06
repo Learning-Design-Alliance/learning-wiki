@@ -12,7 +12,7 @@ generated:
 # Goal Orientation Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 56 claims (43 for, 13 mixed) · 29 studies (15 associational, 6 causal, 3 quant-synthesis, 3 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 29 report an effect size · 56 claims rest on one study
+> **Evidence** · 60 claims (44 for, 16 mixed) · 31 studies (17 associational, 6 causal, 3 quant-synthesis, 3 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 31 report an effect size · 60 claims rest on one study
 
 ## Description
 Goal setting is itself a key motivational process (Locke & Latham, 1984, 2006) — the goals learners choose, and how committed they are to attaining them, shape motivation to learn (Wentzel, 2000). But beyond goal *content* (what a learner wants to achieve), goal orientation theory argues that the *reason* a learner pursues a goal has its own independent effect on learning and performance, explaining differences in how individuals approach and respond to achievement situations (Ames & Archer, 1988; Meece, Anderman, & Anderman, 2006).
@@ -117,6 +117,10 @@ Because mastery-approach goals reliably support the more sustained, thoughtful l
 - [GIS-based teaching produced significantly higher post-test mastery goal scores than traditional teaching among underachieving Geography students, with a medium-sized between-group effect at post-test](../claims/gis-teaching-higher-mastery-goal-underachievers.md) [+W] — attached 2026-11-01 from Soon Singh Bikar Singh et al. (2016), which proposed "Goal Orientation Theory: mastery goal-oriented students are more concerned with learning and understanding the topic taught".
 - [Class environment and mastery approach goal chain-mediate the link between perceived teacher support and learning engagement, with the largest indirect effect](../claims/mastery-approach-goal-chain-mediation-engagement.md) [+W] — attached 2026-11-05 from Liu Zihan et al. (2026), which proposed "Moderated chain mediation model of perceived teacher support, class environment, achievement goal orientation, and future orientation"; tests this page's relationship.
 - [Future orientation moderates the first-stage paths from perceived teacher support to mastery approach and performance approach goals, but not to avoidance goals](../claims/future-orientation-moderates-approach-goal-paths.md) [~W] — attached 2026-11-05 from Liu Zihan et al. (2026), which proposed "Moderated chain mediation model of perceived teacher support, class environment, achievement goal orientation, and future orientation".
+- [Mastery approach goals are positively associated with out-degree, closeness and betweenness centrality in the classroom social network](../claims/mastery-approach-goals-central-classroom-network.md) [+W] — attached 2026-11-05 from Hemi et al. (2025), which proposed "2×2 achievement goal framework (mastery/performance × approach/avoidance) as applied to classroom social positioning".
+- [Performance avoidance goals are negatively associated with in-degree but positively associated with out-degree centrality, suggesting ineffective social outreach](../claims/performance-avoidance-goals-ineffective-social-outreach.md) [~W] — attached 2026-11-05 from Hemi et al. (2025), which proposed "2×2 achievement goal framework (mastery/performance × approach/avoidance) as applied to classroom social positioning".
+- [Peer achievement goals, as descriptive norms, remain the single significant classroom-level predictor of changes in individual achievement goals when class-level classroom goal structures are also included](../claims/peer-goals-sole-class-level-predictor-goal-change.md) [~W] — attached 2026-11-05 from Bossert et al. (2025), which proposed "Social norms framework for contextual influences on achievement goals: classroom goal structures as injunctive norms and peer achievement goals as descriptive norms".
+- [Class-level classroom goal structures (injunctive norms) predict changes in individual achievement goals when tested alone, but not when peer achievement goals are included](../claims/class-goal-structures-alone-not-with-peer-goals.md) [~W] — attached 2026-11-05 from Bossert et al. (2025), which proposed "Social norms framework for contextual influences on achievement goals: classroom goal structures as injunctive norms and peer achievement goals as descriptive norms".
 
 ## The evidence by question
 
@@ -129,8 +133,10 @@ Because mastery-approach goals reliably support the more sustained, thoughtful l
 - [Attribution Theory](attribution-theory.md) — a mastery orientation's tolerance for errors as learning opportunities parallels attribution theory's preference for controllable, unstable failure attributions over stable, uncontrollable ones
 
 ## Examples
+
 - [Goal Setting & Monitoring](../principles/goal-setting-monitoring.md)
 - [Standards/Mastery-Based Grading](../strategies/standards-based-grading.md)
+- [Intervene by reframing performance-avoidant students' motivations toward mastery and teaching them relationship-initiation strategies](../strategies/reframing-performance-avoidance-and-social-skills-intervention.md)
 
 ## Key Sources
 - Locke, E. A., & Latham, G. P. (1984). *Goal setting: A motivational technique that works!* Prentice Hall.

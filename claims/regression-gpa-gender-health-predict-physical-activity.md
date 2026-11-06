@@ -66,3 +66,4 @@ Same adjusted regression model of 401 students; unstandardised coefficients B = 
 ## Related Claims
 - [Health sciences students' GPA is positively correlated with their physical activity level (r = 0.279)](gpa-positively-correlated-physical-activity-health-sciences-students.md) — related
 - [Physical activity and sleep quality independently predict GPA after adjusting for age and BMI, whereas BMI does not](pa-sleep-independent-gpa-predictors-regression.md) — related
+- [Male students demonstrated higher GPA than female students in this sample, and sex was a significant regression predictor](sex-difference-gpa-male-higher-dilla-sample.md) — related

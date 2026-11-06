@@ -58,3 +58,4 @@ Pearson Product Moment correlations on the total sample (n=350) reported in Tabl
 - [Reading attitude, learning satisfaction, and reading effectiveness are significantly positively correlated, and reading attitude positively predicts reading effectiveness](reading-attitude-satisfaction-effectiveness-correlations.md) — related
 - [Learning engagement is positively correlated with mathematics achievement among high school students.](learning-engagement-positive-correlation-math-achievement.md) — related
 - [Mathematics anxiety is negatively correlated with learning engagement and mathematics achievement among high school students.](math-anxiety-negative-correlation-engagement-achievement.md) — related
+- [Academic motivation is not significantly correlated with academic achievement in this sample](academic-motivation-no-correlation-achievement.md) — related

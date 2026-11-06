@@ -65,6 +65,8 @@ The article's intervention model combines weekly scenario simulation courses wit
 - [Structured post-scenario debriefing after each simulation scenario](post-scenario-debriefing-triage-simulation.md)
 - [Combine VR task-training for operators with simulation team-training for the whole acute stroke team](combine-vr-task-training-with-stroke-team-simulation.md)
 - [Incorporate structured non-technical skills training and structured debriefing sessions within simulation-based education](structured-nts-training-debriefing-recommendation.md)
+- [Use instructor-led reflective debriefing and role-play with standardized patients to prepare students for the transition to clinical training](debriefing-roleplay-clinical-transition-strategy.md)
+- [Implement SST as pre-class self-study, a scenario simulation with role players and mannequin deterioration, debriefing, and post-class personalized feedback](sst-session-recipe-emergency-residents.md)
 
 ## Examples
 -

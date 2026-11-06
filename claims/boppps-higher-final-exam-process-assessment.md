@@ -66,3 +66,4 @@ Mann-Whitney U tests comparing process assessment and final examination scores b
 - [BOPPPS-flipped classroom reform is linked to significantly higher regular academic grades in pediatric dentistry than traditional instruction](boppps-flipped-higher-regular-grades-pediatric-dentistry.md) — related
 - [The BOPPPS-Rain Classroom group showed markedly higher classroom participation than the traditional lecture group](boppps-rain-classroom-higher-class-participation.md) — related
 - [Critique scores did not differ significantly between the blended AI-integrated curriculum group and the traditional lecture group](critique-score-no-significant-difference-blended-ai-curriculum.md) — related
+- [BOPPPS-plus-scenario-simulation teaching was associated with significantly higher summative assessment and total scores than traditional lecture-based instruction](boppps-simulation-higher-summative-total-scores.md) — related

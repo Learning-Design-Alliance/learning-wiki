@@ -47,6 +47,7 @@ This strategy holds that the inclusion of reflective practice sessions, supervis
 
 - [Interprofessional learning opportunities such as joint supervision, shared case discussions and collaborative learning forums support ANPs to develop expertise while benefiting from specialist knowledge.](joint-supervision-and-shared-case-discussions.md)
 - [Continuing professional development programmes tailored to personality disorder management, including short informal awareness sessions and simulation learning, should be evaluated for effectiveness.](pd-tailored-cpd-programmes.md)
+- [Use instructor-led reflective debriefing and role-play with standardized patients to prepare students for the transition to clinical training](debriefing-roleplay-clinical-transition-strategy.md)
 
 ## Examples
 -

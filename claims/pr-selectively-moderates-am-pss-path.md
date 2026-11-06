@@ -47,3 +47,4 @@ Design-corrected regression with product interaction terms on PISA 2022 data. Re
 ## Related Claims
 - [Gender moderates the motivation-to-engagement path only](gender-moderates-am-ces-path-only.md) — related
 - [OECD membership attenuates motivation-to-support and motivation-to-engagement paths](oecd-membership-attenuates-am-paths.md) — related
+- [Gender moderates the hope-to-adjustment path, which is stronger in men than women, but not the other model paths](gender-moderates-hope-adjustment-path.md) — related

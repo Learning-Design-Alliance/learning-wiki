@@ -48,3 +48,4 @@ Descriptive self-report from the custom 5-point Likert questionnaire in the same
 - [NCPR-VR showed moderate usability (median SUS 65.0) with midwives scoring lower than physicians and nurses](ncpr-vr-sus-moderate-usability.md) — related
 - [Simulator sickness was low (median SSQ 1.9) with no serious adverse events](ncpr-vr-low-simulator-sickness.md) — related
 - [Students reported high perceived usefulness of AI for teaching preparation and classroom performance.](students-rate-ai-usefulness-highly.md) — related
+- [VR-based neonatal resuscitation training is feasible and positively received by healthcare providers in Vietnam, with 100% recommending it and 86% rating it more realistic than traditional methods](vr-neonatal-resuscitation-training-feasible-vietnam.md) — related

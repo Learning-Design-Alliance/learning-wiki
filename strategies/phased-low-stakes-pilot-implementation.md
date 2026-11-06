@@ -49,6 +49,7 @@ The article recommends a pragmatic institutional model: "begin with low-stakes p
 - [Strategic steps to move beyond informal AI innovation: recognise redesign in workload models, embed innovation in promotion criteria, set institutional AI principles, redesign assessment, and fund scaling pilots](strategic-steps-beyond-informal-ai-innovation.md)
 - [Phased implementation roadmap for departments adopting GenAI personalization](phased-genai-adoption-roadmap.md)
 - [Phased adoption pathway: practice pilots, mock OSCEs with A/B comparisons, then limited high-stakes use](phased-ai-osce-adoption-pathway.md)
+- [Phased implementation of AI assessment starting with root opportunities in low-stakes settings](phased-ai-assessment-implementation-roadmap.md)
 
 ## Examples
 -

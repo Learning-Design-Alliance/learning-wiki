@@ -62,6 +62,7 @@ The review recommends that future research focus on large-scale, well-controlled
 - [Design future resilience-intervention research as large pragmatic RCTs with sufficient follow-up and explicit resilience definitions](future-resilience-trial-design-recommendations.md)
 - [Design future AR simulation studies with objective performance measures, controlled comparative designs and validated usability instruments](ar-simulation-future-study-design-recommendations.md)
 - [Evaluate short-term teaching innovations with longitudinal, skills-based assessments and delayed post-tests rather than a single written test](longitudinal-skills-based-assessment-recommendation.md)
+- [Evaluate microlearning effectiveness with an RCT adding objective outcomes to self-report measures](planned-rct-microlearning-evaluation-strategy.md)
 
 ## Examples
 -

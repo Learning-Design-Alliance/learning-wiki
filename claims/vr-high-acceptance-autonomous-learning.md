@@ -47,3 +47,4 @@ A post-training survey of the 10 VR-group participants used six statements on a 
 ## Related Claims
 - [In a piloted virtual reality WIL, most students reported improved crisis-problem-solving understanding and high enjoyment](vr-wil-crisis-pilot-outcomes.md) — related
 - [Students reported high satisfaction with Simroid robot training across multiple dimensions](simroid-robot-high-student-satisfaction.md) — related
+- [Students reported high acceptance of the VR suture training system, with 92.31% finding it interesting and useful and 100% valuing anytime access](vr-suture-training-acceptance.md) — related

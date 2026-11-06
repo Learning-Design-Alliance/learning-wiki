@@ -55,3 +55,4 @@ Inductive thematic analysis of open-ended responses. Theme 1 (low content qualit
 - [Post-interaction reflections reveal four preference themes: AI as formative learning aid, preference for human authority, conditional acceptance, and skepticism about educational impact](four-themes-post-evaluation-ai-reflections.md) — related
 - [Students most often value study groups for learning from others (38%) and collaboration (32%), but stated reasons do not predict exam performance](reasons-valuing-study-groups-no-exam-effect.md) — related
 - [Student thematic analysis yielded three themes: educational applications, opportunities of AI use, and challenges and suggestions](student-themes-ai-scenario-feedback.md) — related
+- [Reflective narratives reveal five themes: student learning, perceived utility of videos, information and digital skills, teamwork and problem-solving, and challenges](five-themes-video-creation-reflections.md) — related

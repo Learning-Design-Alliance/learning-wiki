@@ -55,3 +55,4 @@ Correlation analysis (Pearson and Spearman) of the total sample of 210 adolescen
 - [GHQ social dysfunction and severe depression show no group differences by exercise hours but are significantly related to physical fitness in correlation and regression](ghq-null-groups-fitness-related.md) — related
 - [Fitness–attention relationships are stronger in boys than girls, with higher explained variance in boys' regression models](gender-moderates-fitness-attention-links.md) — a narrower finding that bears on this claim
 - [Benefits of practical life exercises for attention emerge for girls but not boys](practical-life-attention-gender-effect.md) — related
+- [Fitness variables show significant correlations with academic achievement and executive function, with consistently higher coefficients in girls than boys](fitness-correlations-aa-ef-higher-girls.md) — related

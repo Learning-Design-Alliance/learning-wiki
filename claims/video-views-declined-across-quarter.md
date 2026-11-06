@@ -61,3 +61,5 @@ YouTube analytics across two course offerings (534 students). The article report
 - [Only 15% of students previewed all nine vodcasts before lectures, with 77% viewing at least one.](low-vodcast-preview-uptake-gem-students.md) — related
 - [AI voice cloning maintains student engagement comparable to traditional audio recording](ai-voice-cloning-maintains-engagement.md) — related
 - [Only 23.1% of registrants attended all four sessions, with a 26.6% dropout rate](low-completion-voluntary-course.md) — related
+- [Most of the full third-year cohort reported reviewing the pre-module educational materials in advance each week (97%, 89.2%, and 91.7% in weeks one to three)](cohort-material-engagement-rates.md) — related
+- [FCCL students showed high engagement with pre-class videos (average 2.8 of 3 videos viewed weekly; 78.5% average viewing proportion)](fccl-high-pre-class-video-engagement.md) — related

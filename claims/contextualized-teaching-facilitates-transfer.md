@@ -134,3 +134,4 @@ Facilitator subtheme from interviews; participants reported that case-based teac
 - [Facilitators reported professional and personal rewards from delivering the intervention, including transferable communication skills](facilitator-rewards-transferable-communication-skills.md) — related
 - [Participants described standardized clinical scenarios in VR as promoting objectivity and uniformity in clinical training and assessment](vr-standardized-scenarios-objectivity-uniformity.md) — related
 - [Technology-enhanced simulation improves knowledge, procedural skills, teamwork behaviors, and transfer to practice](simulation-improves-knowledge-skills-teamwork-transfer.md) — related
+- [Faculty regard bedside teaching as irreplaceable for learning empathy and communication, and students say simulation cannot fully replicate real patients](bedside-teaching-irreplaceable-empathy-communication.md) — related

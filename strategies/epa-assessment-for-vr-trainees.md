@@ -45,6 +45,8 @@ As a forward-looking recommendation for patient safety, the authors propose: "it
 
 - [Stepwise integration of EPAs into prehospital emergency medicine training incorporating pediatric-specific EPAs, simulation-based refresher courses, and EPA-based assessment tools](stepwise-epa-integration-prehospital-training.md)
 - [Adapt existing PoCUS Entrustable Professional Activities structures to ECG competency](adapt-pocus-epa-structures-for-ecg.md)
+- [Integrate simulation, entrustable professional activities and human factors education into short surgical rotations](integrate-simulation-epa-human-factors-short-rotations.md)
+- [Adopt a staged, LMIC-sensitive pathway linking simulation-based preparation to authentic supervised bedside practice, with competency-based progression and EPAs](staged-simulation-to-bedside-pathway-lmic.md)
 
 ## Examples
 -

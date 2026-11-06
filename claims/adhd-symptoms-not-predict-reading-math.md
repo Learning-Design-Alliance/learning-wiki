@@ -50,3 +50,4 @@ Null finding from Step 3 of the hierarchical regressions in the sample of 39 chi
 - [Motor coordination uniquely predicts written language achievement, and ADHD symptom severity negatively predicts written language, in children with and without ADHD](motor-coordination-adhd-symptoms-predict-written-language.md) — related
 - [The integration of visual perception and motor coordination is uniquely associated with math skills but not with reading or written language](vmi-integration-uniquely-math.md) — related
 - [Visual-motor integration, visual perception, and motor coordination each independently predict math achievement in school-aged children with and without ADHD](visual-motor-components-predict-math.md) — related
+- [ADHD symptoms were not significantly related to GPA in this sample](adhd-symptoms-not-related-gpa-ethiopian-sample.md) — related

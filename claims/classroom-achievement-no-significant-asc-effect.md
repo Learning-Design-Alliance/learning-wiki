@@ -58,3 +58,4 @@ Same three-level longitudinal model as the clique finding; this entry reports th
 - [No statistically significant assimilation effect (BIRGE) of belonging to a higher-achieving clique within the classroom on ASC change](no-birge-assimilation-clique-level.md) — possibly the same claim (merge candidate)
 - [Equally able students report lower academic self-concepts in high-achieving classrooms than in low-achieving classrooms (the Big-Fish-Little-Pond Effect)](bflpe-lower-asc-high-achieving-classrooms.md) — related
 - [Schoolmates' achievement (big-fish-little-pond effect) relates only to academic self-concepts, not to labor market beliefs or disengagement](big-fish-little-pond-only-self-concepts-end-of-schooling.md) — related
+- [Classroom mean Time 1 achievement alone did not significantly predict individual Time 2 achievement](class-mean-t1-achievement-null-l2.md) — related

@@ -48,6 +48,7 @@ The article recommends LLM-based simulation as a scalable complement to actor-ba
 - [Validate LLM-based PFA training through larger-scale studies, trainee feedback, multimodal interfaces, and validated assessment frameworks](validate-llm-pfa-training-research-agenda.md)
 - [Position immersive technologies and virtual patients as supplementary components within blended learning rather than stand-alone replacements for established clinical communication training](immersive-tech-adjunctive-blended-not-replacement.md)
 - [Deliver multilingual GenAI simulation training in the trainee's preferred language to standardize training across linguistic contexts](multilingual-genai-simulation-preferred-language-strategy.md)
+- [Use AI-driven virtual patient simulators as a cost-effective supplement to build communication skills training capacity](ai-vps-cost-effective-capacity-strategy.md)
 
 ## Examples
 -

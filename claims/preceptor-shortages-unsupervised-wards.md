@@ -52,3 +52,4 @@ Qualitative finding from the results section: "The shortage of preceptors emerge
 - [Clinical preceptor support shows the strongest association with clinical practice competency (AOR = 4.44)](preceptor-support-associated-competency-ethiopia.md) — a broader claim this one bears on
 - [The review identifies a lack of consensus on a clinical supervision definition, causing ambiguity and reduced use of this support.](lack-of-consensus-definition.md) — related
 - [Faculty perceived that increased student admissions combined with faculty shortages compressed pedagogical space and reduced bedside teaching and supervision after the HTP](htp-student-admissions-faculty-shortages-constrained-teaching.md) — related
+- [Students most frequently recommend regular infection control training sessions, easier access to PPE and supplies, and more faculty supervision to improve adherence](student-proposed-adherence-improvement-methods.md) — related

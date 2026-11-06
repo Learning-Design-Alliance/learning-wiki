@@ -52,3 +52,4 @@ Thematic analysis of 11 interview transcripts under the ITEM immersion domain. P
 - [House officers attribute the effectiveness of psychiatric emergency simulation to realistic immersive scenarios, equipment practice, and peer learning in a safe environment](qualitative-realism-immersion-peer-learning-feedback.md) — related
 - [Students perceived community care simulation scenarios as realistic and valuable for applying theory, clinical reasoning and communication](ccs-perceived-strengths-realism-reasoning-communication.md) — related
 - [Perceived realism of virtual patient scenarios and comfort interacting in VR rose substantially from pre to post (realism 2.9 to 4.4; VR comfort 3.0 to 4.6)](vr-pilot-realism-comfort-gains.md) — related
+- [IVR application shows face validity for realism of anatomy and equipment, but tissue-interaction realism is rated low due to suboptimal haptic feedback](ivr-face-validity-haptic-limitation.md) — related

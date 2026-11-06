@@ -62,3 +62,5 @@ Baseline evaluation of LR and XGBoost on OULAD using 10-fold nested cross-valida
 - [The scheduling model fit the experimental data well, correlating strongly with actual final-test performance (r = 0.775) with AUC = 0.871](model-fit-recall-prediction-accuracy.md) — related
 - [Machine learning models predict MOOC certificate purchasing with accuracies of 0.82–0.91 using only time spent on each course step](ml-predicts-mooc-purchase-time-spent.md) — reports the opposite
 - [XGBoost demonstrated comparable overall performance to the baseline logistic regression model on the testing set](xgboost-comparable-to-logistic-regression.md) — related
+- [Models exhibit a recall–precision trade-off: Logistic Regression and Naïve Bayes maximize recall (0.94) with more false positives, while XGBoost balances recall with stronger precision](recall-precision-tradeoff-early-warning-models.md) — related
+- [XGBoost and Logistic Regression achieve the highest F1-scores (0.84) among five ML models predicting at-risk status from first-term midterm grades, with all models exceeding AUC 0.91](xgboost-logreg-highest-f1-midterm-risk-prediction.md) — related

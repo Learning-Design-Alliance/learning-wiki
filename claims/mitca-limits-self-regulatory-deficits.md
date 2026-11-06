@@ -67,3 +67,4 @@ Pre-post paired comparisons within each group in the twelve-week intervention. T
 - [Twelve weeks of MITCA homework prescription produced higher time management than traditional homework in 5th–6th graders](mitca-improves-time-management-primary.md) — related
 - [MITCA homework prescription improved environmental management relative to traditional homework in primary students](mitca-improves-environmental-management.md) — related
 - [MITCA did not improve information-seeking and help management skills relative to traditional homework](mitca-no-gain-information-seeking.md) — related
+- [Twelve weeks of daily active breaks significantly improved psychological resilience in management students, with a significant Group × Time interaction favouring the experimental group](active-breaks-improve-resilience-management-students.md) — related

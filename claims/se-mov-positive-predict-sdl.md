@@ -64,3 +64,4 @@ Same PLS-SEM path analysis (Table 6). MOV was the strongest direct predictor of 
 - [Self-efficacy and motivation positively predict self-directed learning, with motivation the strongest predictor](se-mov-positive-predict-sdl-henan-sem.md) — possibly the same claim (merge candidate)
 - [Thoughtless use of generative AI exerts a significant direct negative effect on undergraduates’ self-directed learning](tuga-negative-direct-effect-sdl-henan-sem.md) — related
 - [Self-efficacy, resilience, optimism, and responsibility each positively predict student engagement among Chinese undergraduates](psycap-dimensions-positive-predictors-engagement-chinese-undergraduates.md) — related
+- [Self-efficacy strongly predicts learning achievement (β=0.647, p<0.001)](self-efficacy-predicts-achievement-sem.md) — related

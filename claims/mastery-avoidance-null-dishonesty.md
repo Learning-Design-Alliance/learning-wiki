@@ -53,3 +53,4 @@ Pooled estimate from the three-level meta-analysis: "r = –0.006, 95% CI [–0.
 - [Mastery-avoidance goals are not significantly related to anxiety or depression](mastery-avoidance-goals-null-internalizing.md) — related
 - [Performance goals show heterogeneous, near-zero average associations with academic dishonesty](performance-goals-heterogeneous-dishonesty.md) — related
 - [Work-avoidance goals show a small positive association with academic dishonesty](work-avoidance-goals-positive-dishonesty.md) — related
+- [No significant associations emerged between mastery avoidance or performance approach goals and any classroom centrality metric](mastery-avoidance-performance-approach-no-centrality-association.md) — related

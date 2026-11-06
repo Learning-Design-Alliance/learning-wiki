@@ -57,3 +57,4 @@ Survey comparison using six items from the University Student Satisfaction and T
 - [Active learning and team-based learning interventions have not consistently improved shelf exam scores](active-learning-no-consistent-shelf-improvement.md) — related
 - [Flipped classroom students report more positive perceptions of resources, effort, and overall learning environment on the AEEMI](flipped-classroom-positive-aeemi-perceptions.md) — related
 - [Students in the P-I-T-D-S flipped classroom reported significantly higher satisfaction than traditional-lecture students across nearly all questionnaire items](pitds-flipped-higher-satisfaction.md) — a narrower finding that bears on this claim
+- [SST residents report higher satisfaction with course content, resources, interaction, and teaching methods, with no difference in perceived learning burden](sst-higher-satisfaction-equal-burden.md) — related

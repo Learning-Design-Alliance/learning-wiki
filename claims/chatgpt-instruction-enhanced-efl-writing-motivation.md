@@ -54,3 +54,4 @@ Independent-samples t-test comparing the ChatGPT-integrated experimental group w
 - [Post-test mean learning outcomes were 81.81 in the ChatGPT class versus 70.45 in the conventional class](chatgpt-experimental-mean-81-81-vs-control-70-45.md) — related
 - [Using ChatGPT during technology learning produces significantly higher post-test learning outcomes than conventional learning in a quasi-experiment of two classes of 31 students](chatgpt-technology-learning-higher-outcomes.md) — related
 - [Conversational AI shows moderate effectiveness in elementary STEM (d=0.45-0.70 where reported), but only 34% of studies report standardized effect sizes](conversational-ai-moderate-effect-d-045-070.md) — related
+- [Automated NLP-based patient note feedback improved retrospective pre-post self-efficacy in note writing among third-year medical students](automated-note-feedback-improves-self-efficacy.md) — related

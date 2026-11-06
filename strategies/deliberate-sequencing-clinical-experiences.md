@@ -45,6 +45,7 @@ The review reports Nielson et al.'s recommendation that "clinical learning exper
 ## Related Strategies
 
 - [Integrate BPSO guidelines into core courses through evidence-based situational simulations](bpso-guideline-integration-simulations.md)
+- [Incorporate practical gerontological nursing teaching early in the curriculum, using situational simulation and case-based teaching](early-practical-gerontological-teaching-strategy.md)
 
 ## Examples
 -

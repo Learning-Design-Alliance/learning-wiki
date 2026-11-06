@@ -67,6 +67,7 @@ The review recommends that future research adopt more rigorous methodologies, in
 - [Design future resilience-intervention research as large pragmatic RCTs with sufficient follow-up and explicit resilience definitions](future-resilience-trial-design-recommendations.md)
 - [Prioritize larger sample sizes, multicentre designs, and rigorous reporting in future simulation-based CRM transfer and patient-outcome research](multicentre-rigorous-crm-outcome-research-strategy.md)
 - [Future evaluative research protocols should include avoidance of involuntary hospital admissions as a key outcome and use both PROMs and PREMs](proms-prems-involuntary-admission-evaluation.md)
+- [Evaluate microlearning effectiveness with an RCT adding objective outcomes to self-report measures](planned-rct-microlearning-evaluation-strategy.md)
 
 ## Examples
 -

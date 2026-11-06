@@ -74,3 +74,4 @@ The authors report that "62.62% of the students fall between+/− 1scale point o
 - [Growth mindsets associate with higher US mathematics scores but slightly lower Chinese mathematics scores (country × mindset interaction)](mindset-math-association-reversed-china-us.md) — related
 - [Growth mindset is associated with better PISA performance across SES levels, but appears less beneficial at low SES and advantaged students still achieve better outcomes](mindset-benefit-weaker-at-low-ses.md) — related
 - [Relationship between time spent and performance is non-linear, with a positive squared term](adaptive-time-nonlinear-relation.md) — related
+- [Growth mindsets were significantly negatively associated with math achievement in five countries, where fixed-mindset students outperformed growth-mindset students](growth-mindsets-negative-five-countries.md) — related

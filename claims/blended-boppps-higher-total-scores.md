@@ -74,3 +74,4 @@ Meta-analysis of 13 randomized controlled trials with 2030 students pooling tota
 - [Nurse anesthesia students taught with the BOPPPS model outperform traditionally taught peers on post-test knowledge and clinical skills in pre-anesthesia care](boppps-posttest-knowledge-skills-superiority.md) — related
 - [Intervention students reported exceptionally high satisfaction with BOPPPS-based pre-anesthesia care training (48.53 of 50)](boppps-high-satisfaction.md) — related
 - [Undergraduate students taught with the Sim + LBL hybrid model achieved higher total post-class test scores than students taught with traditional LBL in dermatology and venereology](sim-lbl-higher-total-post-class-scores.md) — related
+- [Students in the blended PBL-CBL-seminar group report higher teaching-mode evaluation, internship-effect self-evaluation, and satisfaction than LBL students](blended-group-higher-questionnaire-satisfaction.md) — related

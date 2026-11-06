@@ -49,3 +49,4 @@ Omnibus ANCOVA results for the three A-DMC facets in the RCT; all remained signi
 - [Multimodal HICRT plus cognitive training, and HICRT plus cognitive training plus meditation, improve value assessment; meditation conferred an additional benefit](multimodal-training-improves-value-assessment.md) — related
 - [Pre-intervention executive function correlates with information integration, but not value assessment or belief assessment](pre-intervention-set-shifting-correlates-information-integration.md) — related
 - [Uni- and multimodal interventions improve executive function (switch cost) relative to active control](multimodal-training-improves-executive-function-switch-cost.md) — related
+- [Decision-making competence improved over the intervention but the Group × Time interaction only approached significance](active-breaks-decision-making-trend.md) — related

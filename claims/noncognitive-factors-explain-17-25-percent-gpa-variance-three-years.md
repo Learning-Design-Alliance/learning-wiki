@@ -57,3 +57,4 @@ Hierarchical regression (Step 1) on first-year GPA in a sample of 386 Spanish un
 - [Both conscientiousness (β = .25) and openness (β = .17) are positively associated with GPA in adjusted models](gpa-associated-with-conscientiousness-and-openness.md) — related
 - [A three-predictor regression model (Source, APTTD, positive emotion) explains 32% of variance in group project grades](regression-model-32-percent-variance-grades.md) — related
 - [Convergent thinking, divergent thinking, and openness jointly explain incremental variance in GPA beyond age and sex (ΔR² = 0.13)](thinking-personality-model-incremental-gpa-variance.md) — related
+- [A regression model with sex, 2-back reaction time, distancing and self-controlling coping explained about 55% of GPA variance](regression-model-55-percent-gpa-variance.md) — related

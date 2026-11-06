@@ -63,3 +63,4 @@ Semi-structured interviews with five randomly chosen mobile learning group stude
 - [Open Teaching can function as a driving strategy in autonomous learning](open-teaching-autonomous-learning-strategy.md) — related
 - [The three pilots shared online technology for mastery pathways, credit for demonstrated mastery, anytime/anywhere learning, and improved data management](proficiency-pilots-shared-design-attributes.md) — related
 - [Technical problems with computers and networks are a downside of e-learning implementation](technical-problems-downside-elearning.md) — related
+- [Students reported high acceptance of the VR suture training system, with 92.31% finding it interesting and useful and 100% valuing anytime access](vr-suture-training-acceptance.md) — related

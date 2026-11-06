@@ -51,6 +51,7 @@ The article recommends that institutions sequence AI and online expansion so tha
 - [Assess organisational readiness at the start of an adaptive learning implementation project by selecting context-relevant determinants from the framework](assess-organisational-readiness-determinants-selection.md)
 - [Develop a centralised, strategically governed SBE framework with embedded leadership and faculty development](centralised-strategically-governed-sbe-framework.md)
 - [Institutions should pilot low-stakes, prespecify evaluation indicators, and scale only after governance, faculty capacity, and equity safeguards are in place](phased-low-stakes-pilot-implementation.md)
+- [Phased implementation of AI assessment starting with root opportunities in low-stakes settings](phased-ai-assessment-implementation-roadmap.md)
 
 ## Examples
 -

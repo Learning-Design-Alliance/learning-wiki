@@ -56,3 +56,4 @@ Anonymous dichotomous-response questionnaire developed for this study, pilot-tes
 - [Most students report that the MDT-CDIO model enhances interdisciplinary collaboration and clinical reasoning skills](mdt-cdio-students-report-enhanced-collaboration-reasoning.md) — related
 - [Integrated teaching raises satisfaction with the teaching approach on learning interest, disease comprehension, and clinical reasoning, but not on research awareness or communication](integrated-teaching-approach-survey-mixed.md) — related
 - [The authors propose that MDT-CBL's primary pilot-phase value lies in process benefits — engagement and exposure to interdisciplinary dialogue — rather than measured knowledge gains](mdt-cbl-process-benefits-interpretation.md) — related
+- [The article argues, on theoretical grounds, that PBL + CBL stimulates motivation, judgment, collaboration, and interdisciplinary integration in lymphoma training](pbl-cbl-theoretical-advantages-lymphoma.md) — related

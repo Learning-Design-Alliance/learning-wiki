@@ -63,3 +63,4 @@ SSQ administered after the lab session; Table I reports nausea 3.18 (SD 4.77), o
 - [Cybersickness during short VR bellringer testing was minimal and unrelated to VR or total exam performance](cybersickness-minimal-unrelated-br-performance.md) — related
 - [Ocular discomfort after EyeSi VR simulation is mild and infrequent](eyesi-vr-mild-ocular-discomfort.md) — related
 - [Cognitive load and cybersickness correlate negatively with sense of relevance and confidence in VR anatomy learning, though cybersickness was rare in this cohort](vr-cognitive-load-cybersickness-negative-correlations.md) — related
+- [Mild, transient cybersickness occurs in a minority of novices using 3D VR video acclimatisation](3d-vr-mild-transient-cybersickness.md) — related

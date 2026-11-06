@@ -53,3 +53,4 @@ Wilcoxon signed-rank pairwise comparisons following significant Friedman tests i
 - [Accuracy rates differ significantly among ChatGPT, Claude, and Gemini on text-based endodontic examination questions](llm-accuracy-differs-endodontic-exam-questions.md) — related
 - [ChatGPT-5, Gemini 3.0 Pro, and Claude Sonnet 4.5 achieved significantly higher overall scores than mean ophthalmology trainee performance, while ChatGPT-4o did not](three-llms-outperform-mean-trainee-overall.md) — related
 - [Chatbots differ significantly in response time and word count, with Gemini 1.5 fastest and DeepSeek slowest and least accurate](chatbot-response-time-length-differences.md) — related
+- [Most German medical students surveyed had used ChatGPT for medical education, with significantly higher use during exam preparation periods](chatgpt-widely-used-german-medical-students-exam-periods.md) — related

@@ -49,3 +49,4 @@ Pearson correlation analysis of 550 nurses found AIU and AIT correlated at r = �
 - [AI trust is positively associated with AI competence among nurses](ait-positively-associated-with-aic-nurses.md) — related
 - [Perceived AI threat is negatively associated with university students' trust in AI and their dependence on GenAI](perceived-ai-threat-negatively-associated-trust-genai-dependence.md) — related
 - [Nurses report low AI trust, low AI uncertainty and low AI competence relative to prior studies](nurses-low-ait-aiu-aic-scores.md) — related
+- [Trust in ChatGPT's outputs was low overall and correlated positively with usage frequency](chatgpt-trust-correlates-with-usage-frequency.md) — related

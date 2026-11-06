@@ -63,3 +63,4 @@ Randomized trial of 87 residents (43 control, 44 experimental) over a four-week 
 - [Residents self-report high knowledge acquisition from online pediatric endocrinology CBL modules](online-cbl-self-reported-knowledge-gain-endocrinology.md) — related
 - [Structured PBL is associated with higher overall clinical reasoning scores than conventional lectures in esophageal cancer teaching for medical interns](pbl-higher-clinical-reasoning-esophageal-cancer-interns.md) — related
 - [Medical students taught with CBL combined with a Metronomic Online Classroom achieve significantly higher exam scores than students taught with traditional CBL after extreme scores are removed](cbl-moc-higher-exam-scores-thoracic-trauma.md) — related
+- [OBE-integrated PBL teaching yields higher theoretical assessment scores than lecture-based teaching in psychiatric clinical practice](obe-pbl-higher-theoretical-assessment-psychiatry.md) — related

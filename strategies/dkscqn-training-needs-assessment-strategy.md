@@ -48,6 +48,7 @@ The article recommends the DKSCQ-N as a pre- and post-test measure in dysphagia 
 ## Related Strategies
 
 - [Use multiple assessment methods to comprehensively evaluate a healthcare provider's competence in all aspects of dysphagia management.](multiple-assessment-methods-dysphagia-competence.md)
+- [Use the validated KAP questionnaire to guide targeted educational interventions and programs for EVD care](evd-kap-questionnaire-guides-targeted-education.md)
 
 ## Examples
 -

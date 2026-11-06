@@ -50,3 +50,4 @@ Interview finding from the grounded theory study; Participant 16 contrasted pre-
 - [Stakeholders in Polish public medical universities perceive space shortages and overcrowding as the most important organizational challenges of clinical teaching](space-shortages-top-clinical-teaching-challenge-poland.md) — related
 - [Preceptor shortages leave pharmacy students on wards without supervision or feedback](preceptor-shortages-unsupervised-wards.md) — related
 - [Nursing students report ineffective and inconsistent feedback in clinical practice due to overcrowded groups and limited instructor availability](students-report-ineffective-clinical-feedback-nanda.md) — a broader claim this one bears on
+- [Faculty endorsed a multimodal, scaffolded teaching structure—skills lab, tutorials, case-based learning, wards and outpatient departments—while favouring a bedside-heavy time split](multimodal-clinical-teaching-structure-faculty-preferences.md) — related

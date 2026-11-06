@@ -48,3 +48,4 @@ Quasi-experimental study of 72 fifth- or sixth-year medical students (27 app, 35
 - [Technology-based interventions in psychiatry education mostly show positive short-term effects on knowledge, skills, confidence, and empathy, but evidence of sustained learning is inconsistent](psychiatry-ed-tech-short-term-gains.md) — a broader claim this one bears on
 - [Gamified clinical skill learning moderately improves student attitudes toward learning, based on a small evidence base](gamified-learning-moderate-attitude-gains.md) — related
 - [Gamified web and mobile learning show moderate knowledge effects with greater variability than serious games](gamified-web-mobile-moderate-knowledge-effects.md) — a broader claim this one bears on
+- [Pilot students reported the MiLeMed microlearning app as a valuable complement to obstetrics teaching and supportive of exam preparation](milemed-pilot-positive-feedback.md) — related

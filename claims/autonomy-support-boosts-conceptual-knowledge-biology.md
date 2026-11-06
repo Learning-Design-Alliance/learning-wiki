@@ -48,3 +48,4 @@ Repeated measures ANOVA in a quasi-experimental pre/post study with 85 seventh g
 - [Both autonomy supportive and controlling teaching units produce significant pre-to-post learning gains](both-conditions-significant-learning-gains.md) — related
 - [Interdisciplinary biology–PE teaching produces significantly greater knowledge growth than subject-related lessons in German sixth-form students](idt-biology-pe-greater-knowledge-growth-than-subject-related.md) — related
 - [Teacher style (autonomy supportive vs. controlling) has no effect on rote learning achievement](teacher-style-no-effect-rote-learning.md) — related
+- [Teacher autonomy support did not produce significantly higher post-test scores than the controlling style in a single simulated 20-minute teaching session](autonomy-support-no-posttest-score-effect.md) — reports the opposite

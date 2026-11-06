@@ -47,3 +47,4 @@ Quality assessment of only the five finalised videos (of nine draft teams) by th
 ## Related Claims
 - [Across rubric dimensions, content scored highest (A = 4.03) while production scored lowest (D = 3.41), driven by synthetic voice quality (D1 = 3.16)](bespoke-content-strongest-production-weakest-voice.md) — reports the opposite
 - [Domain-matched experts judged 87% of Bespoke-generated lecture videos at or above the rubric midpoint corresponding to a standard MOOC lecture's quality (mean G = 3.42 of 5)](bespoke-87-percent-mooc-comparable-quality.md) — related
+- [Students produced 33 varied health education videos using everyday tools, with quality ranging from good to very good](thirty-three-videos-everyday-tools.md) — related

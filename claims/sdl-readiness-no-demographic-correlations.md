@@ -56,3 +56,4 @@ The review reports, citing Ghiyasvandian and Chakkaravarthy, that nurses showed 
 - [Age and gender did not significantly predict academic self-efficacy in the structural model](age-gender-null-predictors-ase.md) — related
 - [Work experience, but not gender, education, or job category, significantly predicts organizational maturity](work-experience-significant-demographic-predictor-maturity.md) — related
 - [Gender, marital status, living status, and chronic disease show no significant association with older volunteers' competency needs](null-demographic-factors-older-volunteer-needs.md) — related
+- [No significant baseline differences in engagement, positive emotions, or academic emotions by most demographic variables](no-demographic-differences-baseline-nursing-engagement-emotions.md) — related

@@ -57,3 +57,4 @@ Figure 2 survey results on primary purposes of AI use among the 380 respondents.
 - [Instructional designers mainly use ChatGPT for content creation (57.5%), writing assistance (30%), professional support, communication, and information searching](id-chatgpt-usage-content-creation-dominant.md) — related
 - [Teachers most frequently use generic technologies (presentation tools, e-text readers) and rarely use subject-specific or formative assessment technologies](generic-tech-dominates-classroom-use.md) — related
 - [Students' purposes when using technology are primarily related to entertainment and information seeking rather than structured learning tasks.](escuela2-students-entertainment-orientation.md) — related
+- [Students used ChatGPT mainly for summarizing information, literature research, and clarifying concepts](chatgpt-used-for-summarizing-research-clarifying.md) — related

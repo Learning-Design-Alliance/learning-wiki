@@ -66,3 +66,4 @@ Synthesis of post-project student focus group feedback in the Student Feedback s
 - [Active-learning sequence improved student engagement](active-learning-improved-student-engagement.md) — related
 - [Group communication problems among students were a paramount challenge in the redesigned course, exacerbated by group size and lack of prior experience.](group-communication-challenge-pbl-redesign.md) — related
 - [Querying, framing, and real-world contextualization deepened clinical reasoning in topic discussions](moderator-topic-discussion-techniques.md) — related
+- [Survey respondents held largely positive perceptions of the PPES course, valuing its clear presentation, authenticity and preparation for rotations and the OSCE](ppes-survey-positive-perceptions.md) — related

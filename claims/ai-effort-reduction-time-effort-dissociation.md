@@ -99,3 +99,4 @@ Completion-sample participants answered the 5-question NASA-TLX after each task.
 - [The dominant barrier to EPAAs was high workload, and most interns could not easily fit EPAAs into their day](high-workload-dominant-barrier-to-epaas.md) — related
 - [Material modality significantly affects subjective cognitive load, with text materials inducing higher NASA-TLX scores than video-based materials](text-materials-highest-subjective-cognitive-load.md) — related
 - [AI-driven teaching paradigm reduces cognitive load measured by NASA-TLX](ai-paradigm-reduces-cognitive-load-nasa-tlx.md) — related
+- [Perceived mental workload does not differ between 3D VR and 2D video acclimatisation groups](nasa-tlx-no-difference-3d-vr.md) — related

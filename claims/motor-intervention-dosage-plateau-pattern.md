@@ -50,3 +50,4 @@ Pairwise t-tests of biweekly TGMD-2 observations in the experimental group only 
 - [The intervention produces significantly greater overall gross motor quotient gains than no intervention in young children with ASD](motor-intervention-improves-gross-quotient-asd.md) — related
 - [An 8-week intensive motor skill intervention produces significantly greater locomotor skill gains than no intervention in young children with ASD](motor-intervention-improves-locomotor-asd-preschoolers.md) — related
 - [The intervention produces significantly greater object control skill gains than no intervention in young children with ASD](motor-intervention-improves-object-control-asd.md) — related
+- [Object control skills positively predict achievement in both Chinese and mathematics, stability skills predict mathematics only, and locomotor skills predict neither after controls](object-control-stability-predict-achievement-locomotor-not.md) — related

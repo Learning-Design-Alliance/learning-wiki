@@ -54,3 +54,6 @@ Four-way decomposition of PISA 2022 math scores across 73 countries; Table 1 rep
 - [Growth mindset mediates only a small share (about 2.9–3.2%) of the effect of SES on academic achievement across 73 countries](growth-mindset-mediation-of-ses-effect-small-pisa-2022.md) — related
 - [The direct effect of SES on achievement dominates: the controlled direct effect accounts for about 98% of the total SES effect in math](ses-direct-effect-dominates-pisa-decomposition.md) — related
 - [Children from low-SES backgrounds hold more negative academic self-views, which partially mediate the SES-achievement association across 70 countries](low-ses-negative-self-views-mediate-achievement-inequality.md) — related
+- [Growth mindsets are significantly positively associated with math achievement in 50 of 74 PISA 2022 countries after controlling for socioeconomic status](growth-mindsets-positive-math-50-of-74-countries.md) — related
+- [Socioeconomic status significantly moderated the growth mindset–math achievement association in 33 of 74 countries, with no consistent direction](ses-moderates-mindset-33-of-74.md) — related
+- [In 26 countries growth mindsets benefited higher-SES students more, while in 7 countries they benefited lower-SES students more](ses-moderation-direction-split-26-7.md) — related

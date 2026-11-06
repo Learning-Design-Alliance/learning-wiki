@@ -55,3 +55,6 @@ Pearson correlation analysis (Table 8) in the cross-sectional survey of 134 inte
 - [Self-perceived competency correlates moderately with self-reported practice behavior, while objective knowledge correlates negatively with practice behavior](scs-cpbs-positive-okto-cpbs-negative-correlation.md) — related
 - [Self-efficacy and objectively assessed handover performance show no significant correlation in the Team FIRST cohorts](no-correlation-self-efficacy-handover-performance.md) — reports the opposite
 - [Self-confidence scores show a positive but non-significant correlation with exam performance in this cohort](confidence-exam-correlation-non-significant.md) — related
+- [Age correlates negatively with AMS opinion scores among clinical dental students in southern Nigeria](age-negative-correlation-ams-opinion-scores.md) — related
+- [Knowledge scores correlate positively with attitude and opinion scores among clinical dental students in southern Nigeria](knowledge-attitude-positive-correlation-ams-dental-students.md) — related
+- [Self-assessed knowledge does not correlate with objective TDI-KNOW scores overall, but correlates negatively among sixth-year students](self-assessment-not-reliable-measure-of-knowledge.md) — related

@@ -51,3 +51,4 @@ Dynamic structural equation model of four weeks of ambulatory assessment data fr
 - [Daily academic success predicts higher achievement goals the next morning, especially mastery goals](daily-success-boosts-next-day-goals.md) — related
 - [Performance-approach and performance-avoidance goals were not meaningfully related to same-day academic success](performance-goals-not-related-same-day-success.md) — related
 - [Average daily academic success and failure predict Grade 5 grades beyond prior achievement, whereas achievement goals do not](daily-success-failure-predict-year-end-grades.md) — related
+- [Mathematics learning strategy positively predicts mathematics achievement (β = .186)](learning-strategy-positive-predictor-math-achievement.md) — related

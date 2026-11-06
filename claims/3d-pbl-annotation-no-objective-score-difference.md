@@ -54,3 +54,4 @@ In the same RCT, the t-test comparison of objective multiple-choice scores betwe
 - [Residents taught with integrated 3D visualization and PBL report higher teaching satisfaction across most survey items](3d-visualization-pbl-higher-satisfaction-pcc.md) — related
 - [In the same RCT, the experimental group reported higher scores than the control group across all five dimensions of teaching satisfaction (all P < 0.05)](pbl-virtual-simulation-satisfaction-all-dimensions-trauma-orthopedics.md) — related
 - [CBL with 3D reconstruction improves basic liver ultrasound scanning scores versus traditional teaching](cbl-3d-reconstruction-improves-scanning-scores.md) — related
+- [Learner-reported self-evaluation outcomes favour 3D printing-integrated PBL over lecture-based teaching in 9 of 10 dimensions](3dp-pbl-favours-learner-reported-outcomes-nine-of-ten.md) — related

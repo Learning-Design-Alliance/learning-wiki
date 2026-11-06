@@ -61,6 +61,7 @@ The review recommends that future research strengthen study designs through adeq
 - [Prioritize larger sample sizes, multicentre designs, and rigorous reporting in future simulation-based CRM transfer and patient-outcome research](multicentre-rigorous-crm-outcome-research-strategy.md)
 - [Class-level randomization with blinded examiners for comparing instructional methods across intact student groups](class-level-randomization-strategy.md)
 - [Continuously optimize BOPPPS-simulation training by refining objectives, personalizing scenario difficulty, and tracking long-term outcomes](optimize-boppps-training-objectives-difficulty-tracking.md)
+- [Evaluate microlearning effectiveness with an RCT adding objective outcomes to self-report measures](planned-rct-microlearning-evaluation-strategy.md)
 
 ## Examples
 -

@@ -58,3 +58,4 @@ Independent-samples t test comparing overall course scores between the BOPPPS bl
 - [Fifth-year medical students taught with BOPPPS combined with Rain Classroom scored significantly higher on a nephrology final examination than students taught by traditional lecture](boppps-rain-classroom-higher-nephrology-exam-scores.md) — related
 - [The BOPPPS group improved 26.47 points more than controls on a standardized composite of knowledge and skill scores](boppps-total-score-improvement.md) — related
 - [The BOPPPS-Rain Classroom group showed markedly higher classroom participation than the traditional lecture group](boppps-rain-classroom-higher-class-participation.md) — related
+- [BOPPPS-plus-scenario-simulation teaching was associated with significantly higher summative assessment and total scores than traditional lecture-based instruction](boppps-simulation-higher-summative-total-scores.md) — related

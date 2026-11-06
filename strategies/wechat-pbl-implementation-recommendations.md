@@ -54,6 +54,7 @@ The authors' recommendations for implementing WeChat-based PBL, drawn from their
 - [Build structured feedback mechanisms, explicit team formation and clear workload expectations into active learning environments in public health education](structured-feedback-team-formation-workload-expectations.md)
 - [Scaffold learner agency in PBL through facilitator coaching, structured reflection opportunities, and assessment and workload adjustments](scaffold-agency-facilitator-reflection-assessment.md)
 - [Six literature-based recommendations for implementing project based learning](pbl-implementation-six-recommendations.md)
+- [Structure PBL sessions around case-specific 3D-printed models with teacher-facilitated group inquiry and self- and peer-assessment](3dp-integrated-pbl-session-structure-strategy.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Content analysis of general views on games (Table 1) found relaxing and fun were
 - [EFL students report that games reduce speaking stress and improve speaking skills](games-reduce-speaking-stress-improve-skills.md) — related
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — related
 - [Play rehearsal and performance were perceived as the most exciting and enjoyable RSA stages, building confidence in speaking English](rsa-acting-confidence-enjoyment.md) — related
+- [Teachers perceived that making students feel stressed during simulations is nonbeneficial for developing nursing students' critical thinking, favouring exciting and fun learning opportunities.](stress-free-motivating-climate-ct-nursing-sbl.md) — related

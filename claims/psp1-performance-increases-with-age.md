@@ -52,3 +52,4 @@ Kruskal-Wallis analysis of total PSP-1 scores across four grade subgroups (125, 
 - [Inference-making performance improves with age between 6 and 10 years, with children performing better on global than local coherence inference questions](developmental-improvements-local-global-coherence-inferences.md) — related
 - [Teacher ratings of language and reading skills correlate significantly with PSP-1 total scores, whereas grade point average does not](teacher-ratings-correlate-psp1-gpa-does-not.md) — related
 - [Total assessment score decreased significantly with participant age, by 0.6 points per decade in an exploratory analysis](total-score-declines-per-decade-age.md) — related
+- [In the MIND model group, younger learners (18–24) achieved significantly higher learning outcomes than older age groups](mind-younger-learners-higher-outcomes-age.md) — reports the opposite

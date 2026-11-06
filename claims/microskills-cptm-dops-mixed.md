@@ -68,3 +68,4 @@ The humanistic literacy DOPS domain showed "no statistically significant differe
 - [Integrated micro-skills training-CPTM improves OSCE practical skill scores versus traditional teaching](microskills-cptm-higher-osce.md) — related
 - [Integrated micro-skills training-CPTM improves theoretical exam scores versus traditional teaching](microskills-cptm-higher-theoretical-exam.md) — related
 - [Structured reflective sessions significantly improve procedural skills (DOPS) of operating room technology students](reflective-sessions-improve-dops-skills.md) — related
+- [Procedural skill (DOPS) scores of digitally-CBL-trained novices do not differ significantly from traditionally trained specialists](digital-cbl-dops-scores-comparable.md) — related

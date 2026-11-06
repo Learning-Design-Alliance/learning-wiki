@@ -51,3 +51,4 @@ Post-test comparison of the 38-item SRLSs scale between the 30-student groups. C
 - [Undergraduates in a blended learning environment achieved significantly higher self-regulated learning post-test scores than students in two traditionally taught control groups](blended-learning-higher-srl-posttest-than-traditional.md) — a broader claim this one bears on
 - [Undergraduates in a blended learning environment achieved significantly higher self-directed learning post-test scores than students in two traditionally taught control groups](blended-learning-higher-sdl-posttest-than-traditional.md) — related
 - [Experimental-group students' achievement scores rose significantly from pre-test to post-test under the flipped classroom strategy](fcrs-pre-post-achievement-gain.md) — related
+- [Participation in the flipped classroom model does not significantly improve university students' self-directed learning skills](fcm-loc-no-sls-improvement.md) — reports the opposite

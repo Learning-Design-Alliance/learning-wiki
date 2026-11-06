@@ -55,3 +55,4 @@ Three-level multilevel mixed-effects model (Model B) in Mplus with sampling weig
 - [Growth mindsets associate with higher US mathematics scores but slightly lower Chinese mathematics scores (country × mindset interaction)](mindset-math-association-reversed-china-us.md) — related
 - [Students in countries culturally more distant from the US (less WEIRD) endorse growth mindsets less, r(46) = -.47](non-weird-countries-endorse-growth-mindsets-less.md) — related
 - [Growth mindset is associated with better PISA performance across SES levels, but appears less beneficial at low SES and advantaged students still achieve better outcomes](mindset-benefit-weaker-at-low-ses.md) — a narrower finding that bears on this claim
+- [Growth mindset coefficients were non-significant in 19 of 74 countries, showing the mindset–achievement association is not uniform](growth-mindsets-null-19-countries.md) — related

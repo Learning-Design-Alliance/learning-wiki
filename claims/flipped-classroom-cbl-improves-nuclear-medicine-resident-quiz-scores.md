@@ -58,3 +58,4 @@ Retrospective single-group pre/post analysis of 40 nuclear medicine residents us
 - [Participant performance in the SIAPeC Quiz varied widely, with correct response rates ranging from 0% to 100% across questions](siapec-quiz-performance-variation.md) — related
 - [All three instructional groups showed significant pre- to post-class quiz improvements with no statistically significant between-group difference in knowledge gains](equal-quiz-gains-across-srp-teaching-groups.md) — related
 - [Participants in the 2024 and 2025 UAB/SNMMI Nuclear Medicine Therapy Intensive showed marked pre-to-post knowledge gains, reaching near-universal mastery across assessed domains](therapy-intensive-prepost-knowledge-gains.md) — related
+- [Experimental-group trainees' theoretical implantology knowledge scores rose significantly from pre-course to post-course in a single-group pre-post study with no comparison group](digital-cbl-significant-pre-post-theoretical-gain.md) — related

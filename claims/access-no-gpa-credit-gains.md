@@ -51,3 +51,4 @@ Latent growth curve analysis of registrar-recorded credits earned in the RCT fou
 - [ACCESS produces significantly greater improvement in self-reported time management than delayed treatment among college students with ADHD](access-improves-time-management-college-adhd.md) — related
 - [ACCESS does not improve self-reported interpersonal functioning relative to delayed treatment among college students with ADHD](access-no-interpersonal-gains.md) — related
 - [ACCESS produces a small improvement in self-reported well-being relative to delayed treatment among college students with ADHD](access-improves-well-being.md) — related
+- [ADHD symptoms were not significantly related to GPA in this sample](adhd-symptoms-not-related-gpa-ethiopian-sample.md) — related

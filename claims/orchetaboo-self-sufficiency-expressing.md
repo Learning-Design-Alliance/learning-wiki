@@ -52,3 +52,4 @@ Interview question on perceived sufficiency, analyzed in categories (Table 9). T
 - [Students' main difficulties during OrCheTaboo were associating concepts and giving scientific descriptions, with lack of knowledge and forbidden terms also cited](orchetaboo-student-difficulties-describing.md) — related
 - [91% of experimental group students said OrCheTaboo helped them learn functional-group concepts](orchetaboo-students-report-learning-help.md) — related
 - [Reflection in language learning contexts is hindered by learners' difficulty expressing thoughts in the target language](language-learners-expression-difficulty-reflection.md) — related
+- [Opponents of CSA raised eleven categories of concerns, including sufficiency of the written exam, scoring-rubric difficulty, and academic workload](csa-opposition-eleven-concern-categories.md) — related

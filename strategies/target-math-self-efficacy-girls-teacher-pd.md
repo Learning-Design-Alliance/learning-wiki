@@ -40,6 +40,7 @@ The article recommends that schools create professional development opportunitie
 ## Related Strategies
 
 - [Keep mathematics teaching and evaluation gender bias-free and give boys and girls the same opportunities and challenges](gender-bias-free-mathematics-teaching.md)
+- [Target hope- and engagement-building interventions, with particular attention to female students](hope-engagement-intervention-strategy.md)
 
 ## Examples
 -

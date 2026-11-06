@@ -13,7 +13,7 @@ generated:
 # Mindset
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 75 claims (42 show a difference, 26 mixed, 7 no difference) · 37 studies (16 associational, 9 causal, 7 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 10 of 37 report an effect size · 73 claims rest on one study
+> **Evidence** · 80 claims (45 show a difference, 28 mixed, 7 no difference) · 38 studies (17 associational, 9 causal, 7 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 10 of 38 report an effect size · 78 claims rest on one study
 
 ## Description
 Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset holds that ability is set, a growth mindset that it can be developed. It is measured with short self-report scales. Research tests it as a predictor of achievement, as a moderator, and above all as an outcome of brief growth-mindset interventions. Large preregistered trials and meta-analyses find that the average effect of those interventions on achievement is small and concentrated in lower-achieving students in supportive settings, and that the correlation between mindset and achievement is weak.
@@ -106,6 +106,11 @@ Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset h
 - [Growth mindset is positively associated with academic performance among Chinese female art majors (direct effect 0.25, p < .001)](../claims/growth-mindset-positive-direct-effect-female-art-majors.md) [+M] — learners who differ on it differ in outcomes
 - [Learning adaptability mediates the relationship between growth mindset and academic performance of female art majors](../claims/learning-adaptability-mediation-growth-mindset-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Personal growth initiative moderates the growth mindset–academic performance link, with a steeper slope at high PGI](../claims/pgi-moderation-growth-mindset-performance.md) [~M] — learners who differ on it differ in outcomes
+- [Bivariate correlations between math scores and growth mindsets were modest across countries and weaker than those with socioeconomic status](../claims/modest-mindset-math-correlations.md) [+M] — learners who differ on it differ in outcomes
+- [Growth mindset coefficients were non-significant in 19 of 74 countries, showing the mindset–achievement association is not uniform](../claims/growth-mindsets-null-19-countries.md) [~M] — learners who differ on it differ in outcomes
+- [Growth mindsets are significantly positively associated with math achievement in 50 of 74 PISA 2022 countries after controlling for socioeconomic status](../claims/growth-mindsets-positive-math-50-of-74-countries.md) [+M] — learners who differ on it differ in outcomes
+- [Growth mindsets were significantly negatively associated with math achievement in five countries, where fixed-mindset students outperformed growth-mindset students](../claims/growth-mindsets-negative-five-countries.md) [+M] — learners who differ on it differ in outcomes
+- [Socioeconomic status significantly moderated the growth mindset–math achievement association in 33 of 74 countries, with no consistent direction](../claims/ses-moderates-mindset-33-of-74.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do growth-mindset interventions raise achievement, and for which learners and in which settings?* [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](../claims/growth-mindset-improves-achievement.md) [+S]

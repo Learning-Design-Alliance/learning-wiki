@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 184 claims (126 show a difference, 36 mixed, 22 no difference) · 140 studies (50 causal, 32 associational, 24 review, 15 quant-synthesis, 8 qualitative, 7 design, 4 theoretical), `q1`–`q4` · 28 of 140 report an effect size · 178 claims rest on one study
+> **Evidence** · 186 claims (126 show a difference, 37 mixed, 23 no difference) · 142 studies (51 causal, 33 associational, 24 review, 15 quant-synthesis, 8 qualitative, 7 design, 4 theoretical), `q1`–`q4` · 29 of 142 report an effect size · 180 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -222,6 +222,8 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [Distraction during lecture was reported only by slideshow participants, suggesting VR is more engaging](../claims/vr-more-engaging-fewer-distractions.md) [+W] — measured as an outcome of the instruction studied
 - [A 16-week integrated structured breakfast and morning sport program was associated with greater improvement in Stroop Test performance (selective attention and inhibitory control) than ordinary school routine](../claims/breakfast-morning-sport-improves-stroop-selective-attention.md) [+M] — measured as an outcome of the instruction studied
 - [ADHD status predicts lower teacher-rated study skills and higher learning problems in early adolescents](../claims/adhd-predicts-poorer-study-skills-learning-problems.md) [+W] — learners who differ on it differ in outcomes
+- [Active-break and control groups differed on the Stroop Test regardless of time, but the Group × Time interaction was not significant, so no effect of the active breaks on inhibitory control was shown](../claims/active-breaks-improve-executive-function-stroop.md) [~W] — measured as an outcome of the instruction studied
+- [ADHD symptoms were not significantly related to GPA in this sample](../claims/adhd-symptoms-not-related-gpa-ethiopian-sample.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

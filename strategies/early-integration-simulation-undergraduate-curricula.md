@@ -65,6 +65,7 @@ The authors recommend formally embedding simulation-based learning into undergra
 - [Structured case-based or simulation-based exercises that vary clinical modifiers and require explicit justification of choices](case-based-exercises-varying-clinical-modifiers.md)
 - [Integrate occupational adaptive learning with simulation training, case studies, and interdisciplinary collaboration to strengthen clinical pharmacist preparation](integrate-adaptive-learning-with-simulation-case-studies.md)
 - [Integrate ATLS-based simulation programs into nursing curricula](integrate-atls-simulation-into-nursing-curricula.md)
+- [Incorporate structured dental traumatology content into the medical curriculum using active, practical formats such as simulations, interactive case studies, and workshops](structured-dental-trauma-education-active-formats.md)
 
 ## Examples
 -

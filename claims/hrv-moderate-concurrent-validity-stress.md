@@ -51,3 +51,4 @@ Systematic review of 48 educational studies; the authors coded each HRV-variable
 - [HRV data show limited predictive validity for academic and performance outcomes in educational contexts](hrv-limited-predictive-validity-performance.md) — related
 - [Educational HRV research is concentrated on stress and on undergraduate, largely health-science, participants](hrv-research-concentrated-stress-undergraduates.md) — related
 - [Heart rate and heart rate variability analysis is the most used physiological stress monitoring tool in surgical educational environments](hr-hrv-most-used-surgical-stress-monitoring.md) — related
+- [Post-intervention psychological, cognitive and physiological measures showed uniformly strong positive correlations](post-intervention-measures-correlated-positively.md) — related

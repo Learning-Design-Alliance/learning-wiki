@@ -73,3 +73,4 @@ Same descriptive survey (N = 386): item 10, "I take the first step in making fri
 - [Female students are significantly more likely than male students to use AI for schoolwork and to seek advice from AI tools](females-more-ai-schoolwork-and-advice-use.md) — related
 - [The effect of games-based instruction on algebraic expressions achievement interacted significantly with gender, favoring male students](method-gender-interaction-algebra-games.md) — related
 - [Significant gender difference favoring male students on the e-learning subscale](gender-difference-e-learning-subscale-males.md) — related
+- [Second-year students and male students report higher gerontological nursing competence than first-year and female students respectively](grade-and-gender-competence-differences.md) — related

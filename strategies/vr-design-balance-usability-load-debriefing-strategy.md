@@ -59,6 +59,8 @@ The authors recommend that future VR simulations "incorporate prebriefing, intui
 - [Integrate obesity simulation suits into broader multimodal designs with structured prebriefing, guided reflection, and debriefing rather than using them as standalone interventions](oss-embed-in-multimodal-design.md)
 - [Design VR learning tools with learner-centered UI/UX choices that limit cybersickness and extraneous cognitive load](learner-centered-vr-design-limit-cybersickness-load.md)
 - [Incorporate structured non-technical skills training and structured debriefing sessions within simulation-based education](structured-nts-training-debriefing-recommendation.md)
+- [Simplify simulation models or divide training into smaller sections to maintain engagement](simplify-or-segment-simulation-training.md)
+- [Iterate digital simulation platforms using trainee suggestions: add haptic feedback modules, case-discussion content, scoring and login tracking, and a streamlined interface](trainee-driven-platform-improvement-strategy.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ The article reports, citing Teng et al. (2009), a study of 113 students on YouTu
 - [Media effects on learning are not homogeneous across knowledge categories](media-effects-vary-by-knowledge-category.md) — related
 - [The modality of oral explaining (audio + video vs. audio only) does not substantially affect learning outcomes in learning by digital explaining](modality-of-oral-explaining-no-substantial-difference.md) — related
 - [Text story modules were rated the most helpful content type in WeChat literature articles, ahead of pictures and audio-video](wechat-text-story-most-helpful-module.md) — reports the opposite
+- [Learner reflections on MIND-designed modules reported improvements in knowledge, comprehension, research and problem-solving skills, shaped by media richness, interaction, engagement, self-concept, motivation and satisfaction](mind-thematic-reflections-learning-factors.md) — related

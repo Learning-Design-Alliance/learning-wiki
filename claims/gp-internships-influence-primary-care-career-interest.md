@@ -49,3 +49,4 @@ Statement from the Introduction, attributed by the article to prior references [
 - [PBL-based medical curricula do not predispose students to a career in a specific specialty, with 7 of 11 studies showing no significant difference in career choice between PBL and non-PBL graduates](pbl-no-predisposition-career-choice.md) — related
 - [Three studies reported a significantly increased number of PBL graduates working in primary care compared to non-PBL graduates](pbl-increased-primary-care-three-studies.md) — related
 - [Woodward et al. found no significant difference in specialty choice but PBL graduates held a greater number of certificates in family medicine](woodward-no-difference-more-family-medicine-certificates.md) — related
+- [A two-week otolaryngology simulation and human factors module did not significantly increase medical students' interest in surgical or otolaryngology careers](simulation-module-no-career-interest-change.md) — related

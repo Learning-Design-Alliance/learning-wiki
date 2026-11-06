@@ -47,3 +47,4 @@ Moderator analysis across participant characteristics in the 326-participant pre
 ## Related Claims
 - [Among GPs and internists, test-based clinical decision-making scores and pass rates rose from pre-test to post-test after informed AI use following a tailored AI training course, in one uncontrolled pre-post study](informed-ai-use-raises-clinical-competence-scores.md) — related
 - [A tailored AI training course plus informed AI use significantly improved physicians' perceptions of AI accuracy, time efficiency, training value, and willingness to adopt AI](ai-training-improves-physician-perceptions-of-ai.md) — related
+- [Age correlates negatively with AMS opinion scores among clinical dental students in southern Nigeria](age-negative-correlation-ams-opinion-scores.md) — related

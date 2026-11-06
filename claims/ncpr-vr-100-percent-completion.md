@@ -48,3 +48,4 @@ Single-arm exploratory feasibility study of 32 already-certified perinatal healt
 - [Intervention adherence in the experimental group is high, with a 96.7% mean micro-video completion rate, 100% online quiz participation, and 93.3% mean seminar attendance](spoc-blended-package-high-adherence.md) — related
 - [The free, self-paced micro-courses showed an 82% completion retention rate, and most participants found the online, asynchronous format appealing](micro-courses-high-retention-and-format-appeal.md) — related
 - [NCPR-VR showed moderate usability (median SUS 65.0) with midwives scoring lower than physicians and nurses](ncpr-vr-sus-moderate-usability.md) — related
+- [VR-based neonatal resuscitation training is feasible and positively received by healthcare providers in Vietnam, with 100% recommending it and 86% rating it more realistic than traditional methods](vr-neonatal-resuscitation-training-feasible-vietnam.md) — related

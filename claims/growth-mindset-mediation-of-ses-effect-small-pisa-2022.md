@@ -70,3 +70,6 @@ Cross-subject comparison from the same decomposition analysis, reported in the R
 - [Children from low-SES backgrounds hold more negative academic self-views, which partially mediate the SES-achievement association across 70 countries](low-ses-negative-self-views-mediate-achievement-inequality.md) — related
 - [Growth mindset is associated with better PISA performance across SES levels, but appears less beneficial at low SES and advantaged students still achieve better outcomes](mindset-benefit-weaker-at-low-ses.md) — related
 - [Students' individual growth mindset is positively associated with their odds of being academically resilient in PISA 2018 data across 79 countries](cl-individual-growth-mindset-resilience.md) — related
+- [Growth mindsets are significantly positively associated with math achievement in 50 of 74 PISA 2022 countries after controlling for socioeconomic status](growth-mindsets-positive-math-50-of-74-countries.md) — related
+- [Socioeconomic status significantly moderated the growth mindset–math achievement association in 33 of 74 countries, with no consistent direction](ses-moderates-mindset-33-of-74.md) — related
+- [In 26 countries growth mindsets benefited higher-SES students more, while in 7 countries they benefited lower-SES students more](ses-moderation-direction-split-26-7.md) — related

@@ -48,3 +48,4 @@ OLS regression with cluster-robust standard errors in the same GPA models. The n
 - [Grade 1 vocabulary shows a suppression effect on Grade 2 writing fluency in the multivariate model](vocabulary-suppression-writing-fluency.md) — related
 - [GenAI use is positively associated with self-reported critical-thinking disposition among business students only in the adjusted structural model, with a near-zero zero-order correlation](genai-use-adjusted-positive-ct-disposition.md) — related
 - [Technology anxiety is a positive predictor of AI literacy once other determinants are controlled, despite a negative zero-order correlation](technology-anxiety-positive-predictor-ai-literacy.md) — related
+- [Social well-being shows no significant bivariate correlation with academic achievement (GPA)](social-well-being-no-correlation-academic-achievement.md) — related

@@ -53,3 +53,4 @@ Synthesis of the doctor-targeted questionnaires and studies among the 20 include
 - [Stakeholder groups differ in their conceptions of a good doctor, with patients emphasizing communication and doctors medical skills](stakeholder-differences-good-doctor-concept.md) — possibly the same claim (merge candidate)
 - [Patient-satisfaction questionnaires focus strongly on communication skills](patients-emphasize-communication-skills.md) — related
 - [Baseline: few students rank communication with pupils first and communicative values are not prioritized](baseline-communication-not-top-value.md) — related
+- [The module shifted students' perceptions of the qualities required to be a surgeon, with technical skill and work ethic most commonly cited](module-shifted-perceptions-surgeon-qualities.md) — related

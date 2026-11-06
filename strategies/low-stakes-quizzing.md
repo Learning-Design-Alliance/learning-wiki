@@ -92,6 +92,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Apply retrieval practice (quizzes, peer teaching, flipped classroom) and monitor detail loss to balance gist and episodic memory](retrieval-practice-balance-gist-detail-strategy.md)
 - [Design clicker questions as multiple choice, starting with simple factual review questions and ending with application problems](clicker-multiple-choice-question-design-sequence.md)
 - [Use weekly formative quizzes during EFL listening instruction to support achievement and reduce anxiety](weekly-formative-quizzes-efl-listening-instruction.md)
+- [Use closed-book pre-class specimen quizzes as retrieval practice to activate prior anatomical knowledge](pre-class-specimen-quiz-retrieval-strategy.md)
 
 ## Examples
 - **[Retrieval Practice](https://www.retrievalpractice.org)** (Agarwal & Bain) — classroom guides and research summaries for implementing low stakes quizzing across K–12 subjects.

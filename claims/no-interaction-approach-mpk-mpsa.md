@@ -61,3 +61,4 @@ Two-way ANOVA on enhancement of MPSA by MPK category (Table 3): interaction F = 
 - [For students with intermediate and low initial mathematics ability, PMRI and conventional learning showed no significant difference in achievement of mathematics reasoning ability](pmri-no-difference-intermediate-low-ability.md) — related
 - [There is an interaction between learning (SMM vs PK) and school rank in enhancing mathematical reasoning ability, with high-rank schools benefiting most from SMM](learning-school-rank-interaction-kpm.md) — related
 - [Prior knowledge predicts problem-solving ability](prior-knowledge-predicts-problem-solving.md) — related
+- [Mathematics learning strategy positively predicts mathematics achievement (β = .186)](learning-strategy-positive-predictor-math-achievement.md) — related

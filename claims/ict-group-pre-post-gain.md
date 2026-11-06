@@ -49,3 +49,4 @@ Paired samples t-test comparing pre- and post-test EMSAT scores within the exper
 - [Preschool pupils taught science and mathematics with ICT scored significantly higher than traditionally taught pupils at post-test](ict-preschool-post-test-advantage.md) — related
 - [Experimental and control groups showed no significant difference in numeracy and science achievement at pre-test](ict-preschool-pretest-equivalence.md) — related
 - [The formative-assessment group improved significantly from pre-test to post-test while the control group did not](formative-group-pre-post-gain-significant-control-not.md) — related
+- [Undergraduates using the PROMPTa ICT-based alternative assessment platform outperformed a traditionally assessed control group on writing post-test scores](prompta-raises-undergraduate-writing-posttest.md) — related

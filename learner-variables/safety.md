@@ -13,7 +13,7 @@ generated:
 # Safety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 133 claims (92 show a difference, 30 mixed, 11 no difference) · 82 studies (22 review, 21 associational, 12 qualitative, 11 causal, 7 quant-synthesis, 5 design, 4 theoretical), `q1`–`q4` · 9 of 82 report an effect size · 133 claims rest on one study
+> **Evidence** · 137 claims (95 show a difference, 30 mixed, 12 no difference) · 84 studies (23 associational, 22 review, 12 qualitative, 11 causal, 7 quant-synthesis, 5 design, 4 theoretical), `q1`–`q4` · 10 of 84 report an effect size · 137 claims rest on one study
 
 ## Description
 Safety here means both being and feeling physically and psychologically secure in the places a learner spends time: home, school or work, the neighbourhood and the wider community. It covers violence and crime, bullying and cyberbullying, and, from adolescence on, a learner's own risk-taking behaviour such as substance use. It matters for learning because a learner who feels safe can focus on the task, while one who feels unsafe tends to miss school and take part less in class, losing learning opportunities. For adults, the LVN adds that learners who had bad experiences of school need to feel safe enough to learn again. It is measured with self-report bullying and victimisation scales, neighbourhood questionnaires and screening tools for risky behaviour. It overlaps with [adverse experiences](adverse-experiences.md), since feeling unsafe can be traumatic, and with [belonging](belonging.md).
@@ -169,6 +169,10 @@ Safety here means both being and feeling physically and psychologically secure i
 - [RCDP simulation sessions were perceived as psychologically safe by almost all participants, regardless of the number of facilitators present](../claims/rcdp-psychological-safety-high.md) [+M] — measured as an outcome of the instruction studied
 - [First-year residents describe VR simulation as a safe and flexible learning tool for training in emergency care](../claims/residents-perceive-vr-safe-flexible-emergency-care.md) [+M] — measured as an outcome of the instruction studied
 - [Peer learning's effectiveness depends on psychological safety and trust within the group; informal networks may disproportionately benefit those with stronger social capital](../claims/peer-learning-psychological-safety-and-equity-conditions.md) [~M] — an instructional effect differs with it
+- [Academic self-concept, school climate, and academic motivation correlate substantially with psychological truancy](../claims/correlations-four-study-variables.md) [+M] — learners who differ on it differ in outcomes
+- [School climate partially mediates the link between academic self-concept and psychological truancy](../claims/school-climate-mediation-asc-truancy.md) [-M] — learners who differ on it differ in outcomes
+- [School engagement mediates the relationship between campus climate and academic achievement among historically marginalized adolescents](../claims/school-engagement-mediation-campus-climate-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [School engagement partially mediates the relationship between stressful life events and academic achievement](../claims/school-engagement-partial-mediation-sles-achievement.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Electronic Bullying Questionnaire** (Kowalski & Limber, 2007): self-report of how often a person has been cyberbullied or has cyberbullied others.

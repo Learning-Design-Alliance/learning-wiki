@@ -52,6 +52,7 @@ The authors modified traditional CBL into three sequenced modules: (1) targeted 
 - [Structure integrated CBL-MDT interventions as five curated cases with pre-class self-directed learning, small-group analysis, simulated MDT discussion, and structured feedback.](cbl-mdt-five-case-structured-intervention-blueprint.md)
 - [Mitigate CBL-MDT implementation challenges through fixed protected scheduling, pre-course orientation, quarterly case review, and OSCE-based assessment.](cbl-mdt-implementation-challenges-mitigation-strategies.md)
 - [Evaluate short-term teaching innovations with longitudinal, skills-based assessments and delayed post-tests rather than a single written test](longitudinal-skills-based-assessment-recommendation.md)
+- [Implement an ACS case teaching session combining pre-class self-study, small-group PBL, and simulated MDT role discussion](acs-pbl-mdt-flipped-session-strategy.md)
 
 ## Examples
 -

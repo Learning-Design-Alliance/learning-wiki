@@ -50,6 +50,7 @@ Based on the moderate observed relationship between positive emotions and person
 - [Integrate psychosocial support strategies—mentoring, mindfulness-based stress reduction, peer-support groups, and academic skills training—into medical education programs](psychosocial-support-strategies-medical-education.md)
 - [Implement contemplative meditation practices across educational settings, including disadvantaged ones](implement-contemplative-practices-in-schools.md)
 - [Integrate resilience-building strategies into teacher training programs, prioritizing psychosocial facets of academic success and pairing them with study-skill instruction when grade improvement is the goal](resilience-building-teacher-training-strategy.md)
+- [Train university students in stress-coping techniques alongside early screening for attention or learning difficulties](coping-training-plus-attention-screening-strategy.md)
 
 ## Examples
 -

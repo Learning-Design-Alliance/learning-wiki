@@ -48,3 +48,4 @@ A Mann-Whitney U test (P < 0.05) found that some unstructured-condition trainees
 - [Both structured and unstructured condition trainees improved significantly in task performance from the transfer session to the retention session one week later.](cbt-performance-improves-transfer-to-retention.md) — related
 - [Trainees in the unstructured condition who adopted a top-down navigation style viewed fewer modules than those adopting a bottom-up style.](top-down-style-fewer-modules-viewed.md) — related
 - [Trainees in the unstructured condition varied more in the number of modules viewed, with some exploring more modules and others considerably fewer than in the structured condition.](unstructured-navigation-increases-module-viewing-variability.md) — related
+- [IVR trainees voluntarily spend more training time and repeat the module more often than control trainees](ivr-higher-engagement-time-repetitions.md) — related

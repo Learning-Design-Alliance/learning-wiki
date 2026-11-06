@@ -102,6 +102,10 @@ The authors recommend a sequenced implementation model: "It is recommended to ac
 - [Integrate occupational adaptive learning with simulation training, case studies, and interdisciplinary collaboration to strengthen clinical pharmacist preparation](integrate-adaptive-learning-with-simulation-case-studies.md)
 - [In resource-limited settings, begin simulation training with standardized patients and part-task simulators, progressing to high-fidelity simulation centers as funding becomes available](staged-sbme-implementation-low-resource.md)
 - [Three-stage instructional sequence: theoretical instruction, virtual simulation training, then phantom-head practice](three-stage-vs-irrigation-instructional-framework.md)
+- [Sequence self-directed e-learning before interactive PBL case seminars so seminars build on an established theoretical foundation](elearning-before-pbl-case-seminars-sequence.md)
+- [Integrate case-based learning, supervised clinical simulations and e-learning modules aligned with WHO and CDC standards into infection control curricula](integrate-case-based-simulation-elearning-ipc-training.md)
+- [Integrate formal VR education with hands-on clinical experiences in physical therapy curricula](integrate-formal-vr-education-hands-on.md)
+- [Adopt a staged, LMIC-sensitive pathway linking simulation-based preparation to authentic supervised bedside practice, with competency-based progression and EPAs](staged-simulation-to-bedside-pathway-lmic.md)
 
 ## Examples
 -

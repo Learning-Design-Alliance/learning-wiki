@@ -55,3 +55,5 @@ Questionnaire administered to all 102 students after the intervention with 100% 
 - [Experimental-group students rated satisfaction, learning enthusiasm, comprehension, interaction, and interest in nephrology more favorably than control students](boppps-rain-classroom-favorable-student-evaluations.md) — related
 - [AI-assisted trainees rated learning engagement and responsiveness to questions significantly higher, but learning interest and satisfaction did not differ significantly](deepseek-assistant-satisfaction-engagement-higher-interest-not.md) — reports the opposite
 - [DMIS students rated course content and self-efficacy higher than controls after laboratory lectures](dmis-higher-course-content-self-efficacy-ratings.md) — related
+- [Experimental-group trainees report higher satisfaction than controls in teaching atmosphere, learning interest, and learning efficiency](digital-cbl-higher-satisfaction-interest-efficiency.md) — related
+- [IVR trainees rate the educational module higher than control trainees on enjoyment, ease of use, repetitivity, perceived improvement, and overall satisfaction](ivr-higher-perceived-benefits-ratings.md) — related

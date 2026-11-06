@@ -54,3 +54,4 @@ Kruskal–Wallis and Spearman correlation tests on the crown fracture vignette i
 - [Raters of a videotaped fracture-scenario OSCE showed high internal consistency but only moderate inter-rater reliability across subspecialties and seniority levels](videotaped-osce-rater-reliability.md) — related
 - [Students who reported knowing what to do were significantly more likely to attempt providing first aid](knowledge-behavior-link-first-aid-attempts.md)
 - [Students who self-reported knowing what to do for an avulsed permanent tooth gave significantly more correct answers on contaminated-tooth and fractured-tooth management](self-reported-avulsion-knowledge-predicts-correct-responses.md) — reports the opposite
+- [Self-assessed knowledge does not correlate with objective TDI-KNOW scores overall, but correlates negatively among sixth-year students](self-assessment-not-reliable-measure-of-knowledge.md) — related

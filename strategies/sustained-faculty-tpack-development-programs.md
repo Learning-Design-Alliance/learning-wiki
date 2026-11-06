@@ -50,6 +50,7 @@ Based on the identified importance-performance gap in faculty competence, the ar
 - [Sustain doctoral methodological competence through continued practice, feedback, and authentic application rather than isolated short courses](sustained-practice-for-doctoral-methodological-skills.md)
 - [Sustain educational interventions throughout development and evaluate long-term rather than short-term efficacy](sustained-interventions-throughout-development.md)
 - [Direct faculty development funding for a multiplier effect rather than standalone student workshops](faculty-development-multiplier-effect-strategy.md)
+- [Integrate digital-competency development into nursing curricula through pedagogically guided real-world technology activities](integrate-digital-competencies-nursing-curricula.md)
 
 ## Examples
 -

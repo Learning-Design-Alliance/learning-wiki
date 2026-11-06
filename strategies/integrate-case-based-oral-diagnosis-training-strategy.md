@@ -54,6 +54,7 @@ The authors recommend that medical curricula strengthen oral health education by
 - [Anchor oral-health content longitudinally across the medical curriculum with a learning spiral and interdisciplinary formats](learning-spiral-oral-health-curriculum-integration.md)
 - [Integrate occupational adaptive learning with simulation training, case studies, and interdisciplinary collaboration to strengthen clinical pharmacist preparation](integrate-adaptive-learning-with-simulation-case-studies.md)
 - [Targeted continuing professional development and specialist shadowing to address cognitive errors in oral cancer recognition](targeted-cpd-oral-cancer-recognition.md)
+- [Integrate case-based learning, supervised clinical simulations and e-learning modules aligned with WHO and CDC standards into infection control curricula](integrate-case-based-simulation-elearning-ipc-training.md)
 
 ## Examples
 -

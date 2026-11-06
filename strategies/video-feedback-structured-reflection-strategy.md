@@ -55,6 +55,7 @@ After the simulation, the entire teaching session is reviewed on video with resi
 - [Analyzing Video Replays](analyzing_video_replays.md)
 - [Use MET video feedback with novice-led think-aloud discourse in teacher education, prompting trainees to also identify positive aspects of their teaching](met-feedback-novice-led-discourse-strategy.md)
 - [Include an immediate, structured debriefing session with descriptive, analysis and application phases in every high-fidelity simulation training](immediate-structured-debriefing-hf-simulation.md)
+- [Use instructor-led reflective debriefing and role-play with standardized patients to prepare students for the transition to clinical training](debriefing-roleplay-clinical-transition-strategy.md)
 
 ## Examples
 -

@@ -49,6 +49,7 @@ The article recommends that although AI provides scalable educational support, "
 - [Use this Toolkit: Mitigating Racial Bias in Edtech](use_this_toolkit-mitigating_racial_bias_in_edtech.md)
 - [Audit AI vocal-assessment systems for bias, transparency, privacy, and recording-context robustness before evaluative use](responsible-assessment-context-audit-ai-vocal.md)
 - [Use independent expert physician review as a governance safeguard before deploying LLM-generated questions to learners](expert-physician-review-governance.md)
+- [Deploy the predictive model as a mid-semester triage tool with capacity-aligned thresholds, recalibration, non-punitive governance, and bias auditing](mid-semester-triage-deployment-strategy.md)
 
 ## Examples
 -

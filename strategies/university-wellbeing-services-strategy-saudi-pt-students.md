@@ -49,6 +49,7 @@ The article recommends that universities address student well-being holistically
 
 - [Implement integrated stress-management strategies and structured physical activity programmes for medical students in military institutions](integrated-stress-management-structured-pa-military-medical-students.md)
 - [Embed brief experiential wellness activities longitudinally within existing health professions curricula](embed-longitudinal-experiential-wellness-activities.md)
+- [University programs that strengthen students' social well-being to support academic motivation](social-well-being-support-programs-medical-students.md)
 
 ## Examples
 -

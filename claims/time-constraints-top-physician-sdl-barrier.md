@@ -51,4 +51,5 @@ Review synthesis of the 17 articles (Table 3 frequencies); the discussion adds t
 - [Most SDL-in-CPD behavior-change factors fall in four TDF domains: environmental context and resources, social influences, beliefs about consequences, and behavioral regulation](sdl-cpd-four-key-tdf-domains.md) — a broader claim this one bears on
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Competing priorities for instructional time (environmental context) was the most salient barrier to teachers' implementation of a supplemental language curriculum](competing-time-priorities-dominant-barrier-language-curriculum.md) — related
+- [Implementation of the OMP was hindered mainly by lack of time and workload, and facilitated by alignment with existing practice, workplace atmosphere and laminated reminder cards](omp-implementation-barriers-facilitators.md) — a narrower finding that bears on this claim
 

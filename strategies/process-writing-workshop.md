@@ -69,6 +69,7 @@ The workshop's effectiveness rests on separating the cognitively demanding subpr
 - [Break the writing process into explicit components students move among flexibly](writing-process-components-planning-through-publishing.md)
 - [Collaborative Human-AI Revision Design embedding prompt engineering across drafting, feedback, and rewriting phases](collaborative-human-ai-revision-design.md)
 - [Alternate conferencing with grouping and incorporate peer review and editing in collaborative writing tasks](alternate-conferencing-grouping-writing-strategy.md)
+- [Plan multifaceted feedback combining corrective and cognitive feedback, expert worksheet models, and peer observation under rubrics](planned-corrective-cognitive-feedback-case-flipped.md)
 
 ## Examples
 - **Teachers College Reading & Writing Project (Calkins Units of Study)** — the most widely implemented workshop curriculum; K–8 sequences of mini-lessons, conferring, and published celebrations ([https://readingandwritingproject.org](https://readingandwritingproject.org))

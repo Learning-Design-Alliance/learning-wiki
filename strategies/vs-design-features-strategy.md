@@ -49,6 +49,7 @@ The article's discussion derives design recommendations from its subgroup and li
 
 - [Progressively integrate haptic simulators from basic skills to complex surgical tasks across the curriculum](progressive-haptic-simulator-curricular-integration.md)
 - [Prefer mixed reality with hand tracking over head-mounted-display controllers for gesture-simulation training](mr-hand-tracking-over-hmd-controllers.md)
+- [Iterate digital simulation platforms using trainee suggestions: add haptic feedback modules, case-discussion content, scoring and login tracking, and a streamlined interface](trainee-driven-platform-improvement-strategy.md)
 
 ## Examples
 -

@@ -44,6 +44,7 @@ Based on teacher and student user experience, the study recommends that systems 
 - [Accommodate Varying Technology Experience](accommodate_varying_technology_experience.md)
 - [Add an approval/confirmation function to RTC so learners choose whether to accept a collaborator's change](rtc-approval-confirmation-function.md)
 - [User-Friendly Library Website Practices](user-friendly_library_website_practices.md)
+- [Support less digitally savvy learners with targeted digital scaffolding and add collaborative activities to AI-enhanced microlearning](digital-scaffolding-and-peer-interaction-microlearning.md)
 
 ## Examples
 -

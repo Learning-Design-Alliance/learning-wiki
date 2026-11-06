@@ -54,3 +54,4 @@ Thematic synthesis (RQ 3) of included studies' reports of enablers and barriers,
 - [Students identified mannequin realism limitations, technical and operational issues, and restricted access to simulation labs as barriers to SBL in oral radiology](barriers-sbl-oral-radiology-realism-technical-access.md) — related
 - [Resident qualitative feedback requested additional preparatory materials and raised simulation realism concerns related to mannequin fidelity and cadaver quality](resident-realism-concerns-qualitative.md) — related
 - [Perceived realism and transferability to clinical practice influenced residents' motivation to use VR simulation](realism-transferability-shape-vr-motivation.md) — related
+- [Simulation technologies in nursing SBL are used in 3 ways: to create realistic settings, to modify scenarios, and to monitor simulations.](three-uses-simulation-technology-nursing-sbl.md) — related

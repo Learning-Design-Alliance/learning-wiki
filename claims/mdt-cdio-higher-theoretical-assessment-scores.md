@@ -55,3 +55,4 @@ Prospective randomized controlled study of 60 orthopedic interns randomized 1:1 
 - [AI-assisted peer teaching improves postintervention orthopedic knowledge scores](ai-assisted-peer-teaching-improves-knowledge.md) — related
 - [MDT-CBL interns scored numerically higher than traditionally taught interns on a urology knowledge test, but the difference was not statistically significant](mdt-cbl-knowledge-test-null-pilot.md) — related
 - [Breast surgery interns taught with combined sandwich-case teaching scored higher on theoretical, practical, and comprehensive assessments than interns taught with traditional teaching](sandwich-case-teaching-higher-assessment-scores-breast-surgery.md) — related
+- [OBE-integrated PBL teaching yields higher theoretical assessment scores than lecture-based teaching in psychiatric clinical practice](obe-pbl-higher-theoretical-assessment-psychiatry.md) — related

@@ -52,6 +52,7 @@ This strategy integrates peer-assisted learning with scenario-based simulation f
 
 - [Simulation Based Medical Training](simulation-based-medical-training.md)
 - [Simulation Based Learning](simulation-based-learning.md)
+- [Use instructor-led reflective debriefing and role-play with standardized patients to prepare students for the transition to clinical training](debriefing-roleplay-clinical-transition-strategy.md)
 
 ## Examples
 -

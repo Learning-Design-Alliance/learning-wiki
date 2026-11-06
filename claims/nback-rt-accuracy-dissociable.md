@@ -48,3 +48,4 @@ The article cites Jaeggi et al. (2010), who examined various n-back tasks and fo
 ## Related Claims
 - [With increasing n-back task difficulty, reaction times increase and accuracy decreases](nback-difficulty-increases-rt-decreases-accuracy.md) — related
 - [Omission and commission errors in n-back tasks have different correlates and may represent different processes](nback-omission-commission-different-correlates.md) — related
+- [Faster reaction time on the 2-back working memory task is associated with better GPA](faster-2back-reaction-time-better-gpa.md) — related

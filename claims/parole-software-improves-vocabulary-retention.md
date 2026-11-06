@@ -50,3 +50,4 @@ The same mixed between-within ANOVA across the three testing times showed a sign
 - [Students report that Parole makes vocabulary learning permanent but time-consuming](parole-user-perceptions-permanence-and-time-cost.md) — related
 - [PBL-taught learners showed significantly higher vocabulary retention on delayed post-tests in all modules except module 3](pbl-improves-efl-vocabulary-retention.md) — related
 - [EFL students using Web 2.0 learner-created content scored significantly higher on a vocabulary post-test than a lecture-based control group](web2-learner-content-vocabulary-posttest-gain.md) — related
+- [The 3DP group retained more knowledge at 4 weeks, scoring significantly higher on the delayed post-course test than the lecture-based control group](3dp-pbl-higher-delayed-4-week-test-scores.md) — related

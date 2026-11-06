@@ -48,3 +48,4 @@ Comparison of the 333-student survey grouped by self-assessed knowledge adequacy
 ## Related Claims
 - [Health vocational students in Turkey show limited knowledge of dental trauma emergency management, with only 7.2% receiving first aid training that included dental trauma content](limited-dental-trauma-knowledge-turkish-vocational-students.md) — related
 - [Students who self-reported knowing what to do for an avulsed permanent tooth gave significantly more correct answers on contaminated-tooth and fractured-tooth management](self-reported-avulsion-knowledge-predicts-correct-responses.md) — related
+- [Over a third of students experienced needle-stick injuries but only 20.2% followed correct post-injury protocols](needlestick-injuries-low-protocol-adherence.md) — related

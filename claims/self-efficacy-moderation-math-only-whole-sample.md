@@ -49,3 +49,4 @@ Interaction terms added to OLS models of the whole sample (n = 1962). The articl
 - [Domain-specific self-efficacy shows a robust positive relationship with math and reading achievement of Russian fourth graders, stronger for math](self-efficacy-robust-positive-relation-elementary-math-reading-russia.md) — related
 - [Self-efficacy moderation effects are absent for boys in both math and reading](self-efficacy-moderation-null-boys.md) — related
 - [Subjective well-being in school relates weakly to achievement and is not statistically significant in models with school fixed effects](well-being-weak-nonsignificant-fixed-effects-elementary.md) — related
+- [The socioeconomic status moderation of the mindset–achievement association remained robust across alternative model specifications](ses-moderation-robustness-checks.md) — related

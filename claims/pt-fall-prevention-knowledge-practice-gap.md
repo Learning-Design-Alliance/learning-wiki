@@ -51,3 +51,4 @@ Descriptive cross-sectional survey of 384 licensed physical therapists in Saudi 
 - [Familiarity with international fall-prevention guidelines and the STEADI toolkit is low among Saudi physical therapists](low-steadi-guideline-familiarity.md) — related
 - [Frequency of standardized fall-risk tool use is strongly associated with higher fall-prevention knowledge scores among Saudi physical therapists](tool-use-frequency-linked-to-knowledge.md) — related
 - [Saudi physical therapists underrate systemic fall risk factors such as urinary incontinence, polypharmacy, and sensory deficits relative to motor factors](systemic-fall-risk-factors-underrated.md) — related
+- [Self-reported competence is high while applied case-report knowledge is low among PT interns](competence-case-report-discrepancy.md) — a narrower finding that bears on this claim

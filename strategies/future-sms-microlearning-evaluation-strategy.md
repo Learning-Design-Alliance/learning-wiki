@@ -47,7 +47,8 @@ The authors recommend a design agenda for strengthening SMS microlearning resear
 - [Participants engaged with embedded resource links in 67% of the SMS microlearning messages](../claims/sms-microlearning-link-engagement-67-percent.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Evaluate microlearning effectiveness with an RCT adding objective outcomes to self-report measures](planned-rct-microlearning-evaluation-strategy.md)
 
 ## Examples
 -

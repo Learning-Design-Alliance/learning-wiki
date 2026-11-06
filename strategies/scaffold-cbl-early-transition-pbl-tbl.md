@@ -69,6 +69,7 @@ The authors recommend a "scaffolded integration of these methods": utilizing "Ca
 - [Structured case-based or simulation-based exercises that vary clinical modifiers and require explicit justification of choices](case-based-exercises-varying-clinical-modifiers.md)
 - [Integrate structured reflective sessions into clinical curricula, tailored to students' developmental stage](integrate-structured-reflection-clinical-curricula.md)
 - [Structure high-gap RT competencies into progressive beginner, intermediate, and advanced learning phases](progressive-learning-phases-high-gap-competencies.md)
+- [Incorporate practical gerontological nursing teaching early in the curriculum, using situational simulation and case-based teaching](early-practical-gerontological-teaching-strategy.md)
 
 ## Examples
 -

@@ -62,6 +62,7 @@ The article describes a specific instructional sequence for caregiver emergency-
 - [Combine standardized theoretical training with high-fidelity simulation-based practical skills training](combine-theoretical-training-with-simulation-phtls.md)
 - [Structure a simulation-based mastery learning program as sequential steps: video tutorial, MCQ with feedback, supervised practice, then repeated self-directed practice with video-based assessment](sbml-sequential-training-protocol-probing.md)
 - [DBSS session protocol: defect-identification exercise followed by GAS-framework debriefing](dbss-session-protocol-gas-debriefing.md)
+- [Implement SST as pre-class self-study, a scenario simulation with role players and mannequin deterioration, debriefing, and post-class personalized feedback](sst-session-recipe-emergency-residents.md)
 
 ## Examples
 -

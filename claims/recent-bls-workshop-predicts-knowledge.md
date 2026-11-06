@@ -53,3 +53,4 @@ Binary logistic regression predicting good knowledge among 400 dentists, adjuste
 - [Prior hypertension training (AOR = 2.6) and more than 10 years' experience (AOR = 1.8) independently predicted good knowledge among PHC workers](training-and-experience-predict-hypertension-knowledge.md) — related
 - [Prior ECG training is the only independent predictor of adequate ECG knowledge after adjustment](prior-ecg-training-predicts-adequate-knowledge.md) — a narrower finding that bears on this claim
 - [Health care professionals from the Volta and Oti regions were 4.94 times more likely than those from Bono East to have adequate BLS knowledge and skills](volta-oti-higher-bls-odds-than-bono-east.md) — related
+- [Workshop attendance positively predicts case-report knowledge while holding a professional physical-therapy degree predicts lower scores](regression-case-report-predictors.md) — related

@@ -57,3 +57,4 @@ Modified Delphi study reporting final voting outcomes. The abstract states "Foll
 - [Expert panel consensus (seven experts, ≥80% agreement rule) endorsed the refined EA framework structure](expert-consensus-ea-framework.md) — related
 - [A three-round e-Delphi panel of 19 experts from 6 European countries achieved consensus on 58 core teamwork competencies for community-based interprofessional teams, grouped into five areas](edelphi-consensus-58-cbit-competencies.md) — related
 - [A three-round Delphi panel of 30 Korean experts derived six core shared competencies for physician–nurse collaboration in primary care, all meeting consensus criteria](delphi-six-shared-competencies-primary-care.md) — related
+- [A four-round Delphi process with educators and students reached consensus on goals, content priorities, and implementation strategies for the OSCE preparatory tool](delphi-consensus-osce-tool-goals.md) — related

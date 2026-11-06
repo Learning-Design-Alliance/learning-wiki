@@ -79,3 +79,7 @@ Six pairwise comparisons of PISA mathematics scores by mindset response per coun
 - [The mindset–achievement association is significantly weaker in more culturally distant (non-WEIRD) countries for reading and science, and marginally for math](mindset-achievement-weaker-non-weird.md) — related
 - [Growth mindset is associated with better PISA performance across SES levels, but appears less beneficial at low SES and advantaged students still achieve better outcomes](mindset-benefit-weaker-at-low-ses.md) — related
 - [Growth mindset moderates the relationship between time since last NRP course and performance in an e-learning simulation game](growth-mindset-moderates-nrp-simulation-performance.md) — related
+- [Growth mindsets were significantly negatively associated with math achievement in five countries, where fixed-mindset students outperformed growth-mindset students](growth-mindsets-negative-five-countries.md) — related
+- [Growth mindset coefficients were non-significant in 19 of 74 countries, showing the mindset–achievement association is not uniform](growth-mindsets-null-19-countries.md) — related
+- [Bivariate correlations between math scores and growth mindsets were modest across countries and weaker than those with socioeconomic status](modest-mindset-math-correlations.md) — related
+- [In 26 countries growth mindsets benefited higher-SES students more, while in 7 countries they benefited lower-SES students more](ses-moderation-direction-split-26-7.md) — related

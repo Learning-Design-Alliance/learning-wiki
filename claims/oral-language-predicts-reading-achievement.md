@@ -79,3 +79,4 @@ The article reports, citing Sticht's paper "Listening and Reading," that written
 - [L2 oral language proficiency predicts reading comprehension more strongly than decoding skills](oral-proficiency-predicts-l2-reading-comprehension.md) — related
 - [Oral language measures of syntax, listening comprehension, and oral vocabulary do not predict which English learners will struggle with learning to read](oral-language-measures-do-not-predict-reading-struggle.md) — reports the opposite
 - [Vocabulary is uniquely and positively related to word reading and spelling in kindergartners after accounting for phonological awareness, alphabet knowledge fluency, and letter writing automaticity](vocabulary-uniquely-related-word-reading-spelling-kindergarten.md) — related
+- [Students' relative achievement within L2 classrooms significantly predicts their subsequent achievement (achievement composition effect)](ace-in-l2-classrooms.md) — a narrower finding that bears on this claim

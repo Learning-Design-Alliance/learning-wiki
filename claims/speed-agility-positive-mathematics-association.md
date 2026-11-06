@@ -48,3 +48,4 @@ Review synthesis of seven observational studies, six using the shuttle run. Two 
 
 - [Total gross motor scores show a very weak to moderate positive association with mathematical skills despite conflicting findings](total-gross-motor-scores-mathematics-association.md)
 - [Speed-agility fitness is associated with writing and written expression skills in children with overweight/obesity](speed-agility-associated-writing-skills.md) — related
+- [Fitness mediation of the gross motor competence-academic achievement relationship is more relevant in girls, especially through cardiorespiratory fitness and speed/agility](fitness-mediation-more-relevant-girls-gmc-academic-achievement.md) — related

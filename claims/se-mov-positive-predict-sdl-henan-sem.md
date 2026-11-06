@@ -51,3 +51,5 @@ Same PLS-SEM structural model. The SE→MOV path was the strongest in the model 
 - [The TUGA, motivation, and self-efficacy jointly explain 75.3% of the variance in undergraduates’ self-directed learning](model-explains-75-percent-sdl-variance.md) — related
 - [Thoughtless use of generative AI significantly and negatively predicts both self-efficacy and motivation](tuga-negative-effect-se-mov.md) — related
 - [Self-efficacy and motivation partially mediate the negative relationship between thoughtless GenAI use and self-directed learning, including a sequential SE→MOV pathway](se-mov-partial-mediation-tuga-sdl.md) — related
+- [Self-efficacy strongly predicts learning achievement (β=0.647, p<0.001)](self-efficacy-predicts-achievement-sem.md) — related
+- [Student-content interaction significantly and positively predicts self-efficacy in student-centered classrooms (β=0.462, p<0.001)](student-content-interaction-predicts-self-efficacy-sem.md) — related

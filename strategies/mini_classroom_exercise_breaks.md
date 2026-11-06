@@ -72,6 +72,7 @@ Brief aerobic activity acutely improves subsequent attention and executive funct
 - [Embed bodyweight resistance exercises such as squats into classroom active learning breaks](bodyweight-resistance-exercises-classroom-active-breaks.md)
 - [Schedule vigorous in-class exercise sessions after core academic lessons rather than before them](vigorous-activity-after-academic-lessons.md)
 - [Promote physical activity within academic settings through institutional policies, flexible scheduling, and active breaks](physical-activity-promotion-academic-settings-strategy.md)
+- [Integrate structured active breaks into academic curricula to support student well-being and performance](integrate-active-breaks-into-curricula.md)
 
 ## Examples
 - **[Take 10!®](https://www.take10.net)** — Classroom-based physical activity program with 10-minute curriculum-linked activity routines for K–5; evaluated in multiple school studies.

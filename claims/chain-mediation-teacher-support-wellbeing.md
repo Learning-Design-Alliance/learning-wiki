@@ -49,3 +49,4 @@ Bootstrap mediation test (5,000 resamples) in the SEM of 518 students. The artic
 - [The direct association between GAI use and learning engagement is not statistically significant, while the indirect association through need satisfaction is significant but small](gai-engagement-direct-null-indirect-small.md) — related
 - [Teacher support, basic psychological needs, learning motivation, and psychological well-being differ significantly across demographic subgroups](demographic-differences-embodied-tai-chi.md) — related
 - [In bilingual Tai Chi instruction, teacher support has significant positive direct effects on basic psychological needs, learning motivation, and psychological well-being](teacher-support-direct-effects-embodied-bilingual.md) — related
+- [School climate partially mediates the link between academic self-concept and psychological truancy](school-climate-mediation-asc-truancy.md) — related

@@ -50,3 +50,5 @@ Single-arm prospective pilot study of 16 medical students; paired Wilcoxon signe
 - [Participants report high likelihood of repeating and recommending the near-peer workshop](near-peer-bootcamp-high-satisfaction.md) — related
 - [Near-peer teaching is reported to foster a comfortable learning environment and reinforce concepts for student-teachers](near-peer-teaching-comfortable-environment.md) — related
 - [A renal biopsy simulation workshop significantly increased fifth-year medical students' self-perceived ability to perform renal biopsy](renal-biopsy-simulation-workshop-increased-student-confidence.md) — related
+- [The module significantly improved students' comfort with otolaryngology knowledge and the operating theatre setting](simulation-module-improved-comfort-knowledge-theatre.md) — related
+- [A two-week otolaryngology simulation and human factors module did not significantly increase medical students' interest in surgical or otolaryngology careers](simulation-module-no-career-interest-change.md) — related

@@ -49,3 +49,4 @@ Anonymous voluntary post-training survey completed by 169 of 172 participants, i
 - [Participants detected 55-63% of the four embedded opioid administration errors, with wrong-patient identification missed by 40% of pairs](opioid-roh-error-detection-rates.md) — related
 - [Double-check performance during opioid preparation was poor, with a median of 1 of 7 items performed and only the dosage check exceeding 30% of pairs](opioid-roh-double-check-suboptimal.md) — related
 - [Hazard avoidance was strong for most items but only 65% used the correct oral syringe, and 7% of pairs administered the opioid subcutaneously instead of orally](opioid-roh-hazard-avoidance-syringe-gap.md) — related
+- [Students' self-assessment accuracy improved after the escape room, with about one-third accurately evaluating their knowledge beforehand rising to nearly half afterwards](escape-room-improved-self-assessment.md) — related

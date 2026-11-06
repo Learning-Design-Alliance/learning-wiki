@@ -55,3 +55,4 @@ Thematic analysis of interviews with 23 prenatal clinicians found that "clinicia
 - [Trainee Advanced Nurse Practitioners report that formal ANP training offered little to no structured content on personality disorder or trauma-informed care, undermining professional confidence.](anp-training-lacks-personality-disorder-content.md) — related
 - [Prenatal clinicians report increased empathy and understanding of patient behavior through TIC learning](tic-increased-empathy-prenatal-clinicians.md) — related
 - [Stakeholders identified an educational-support gap: LEDs stabilise the workforce but receive less structured teaching than HEE trainees, with lack of protected time a key barrier](led-education-support-gap-protected-time.md) — related
+- [Clinical educators lacked specific training in teaching telehealth competencies and relied on assumed workplace knowledge](educator-lack-telehealth-training-simulation.md) — possibly the same claim (merge candidate)

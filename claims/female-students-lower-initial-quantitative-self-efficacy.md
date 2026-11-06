@@ -64,3 +64,4 @@ Mann-Whitney U-tests compared initial self-efficacy by gender/sex for each task;
 - [CT self-efficacy gains varied by gender, grade, and prior Minecraft experience, with significant increases for female students, Grade 8 students, and students with limited Minecraft experience](gbl-ct-self-efficacy-moderators.md) — related
 - [Gender is associated with healthcare leaders' digital competence, with females' computer and patient monitoring system knowledge lower than males'](gender-associated-leaders-digital-competence.md) — related
 - [Female nursing students report greater e-learning satisfaction, higher self-efficacy, and higher perceived academic performance than male students](female-nursing-students-higher-satisfaction-self-efficacy-performance.md) — reports the opposite
+- [Second-year students and male students report higher gerontological nursing competence than first-year and female students respectively](grade-and-gender-competence-differences.md) — related

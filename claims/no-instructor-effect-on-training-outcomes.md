@@ -47,3 +47,4 @@ GLM analysis of outcomes by instructor among 19 participants taught by four educ
 ## Related Claims
 - [Novice medical students' self-rated confidence across all measured aspects of ultrasound-guided femoral nerve block performance rose significantly from pre-training to post-training after brief simulation training with formalin-embalmed cadavers, in one uncontrolled pre-post study](cadaver-simulation-increases-fnb-confidence.md) — related
 - [Higher instructor-rated global rating scale scores on several procedure categories were associated with participants rating the cadaver simulation training as more useful](grs-scores-linked-to-perceived-usefulness.md) — related
+- [Instructor assignment does not significantly affect PA students' self-confidence or skills-test outcomes in cadaver ultrasound simulation training](instructor-assignment-no-effect-simulation-outcomes.md) — possibly the same claim (merge candidate)

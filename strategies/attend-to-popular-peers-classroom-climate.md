@@ -48,7 +48,8 @@ The article's Educational Impact and Implications Statement recommends that "Tea
 - [The presence and direction of achievement-related friendship processes did not differ significantly between Grade 5 and Grade 6 classrooms](../claims/friendship-processes-similar-grade-5-6.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Teachers can make desirable peer norms salient by explicitly acknowledging students who express mastery goals](acknowledge-mastery-goal-students-salient-norm.md)
 
 ## Examples
 -

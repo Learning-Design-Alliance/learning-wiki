@@ -44,6 +44,7 @@ The article recommends a structured ethical governance framework for institution
 - [Evaluate quantisation choices empirically on the target task and hardware rather than inheriting them from other studies](evaluate-quantisation-on-target-task.md)
 - [Deploy quantized adapted small models offline with a teacher in the loop rather than as autonomous graders](teacher-in-the-loop-offline-small-model-deployment.md)
 - [Deploy AI as an auxiliary tool supplemented by structured measures including transparent auditing of algorithmic bias and data-processing privacy protocols](ai-auxiliary-tool-structured-safeguards-strategy.md)
+- [Deploy the predictive model as a mid-semester triage tool with capacity-aligned thresholds, recalibration, non-punitive governance, and bias auditing](mid-semester-triage-deployment-strategy.md)
 
 ## Examples
 -

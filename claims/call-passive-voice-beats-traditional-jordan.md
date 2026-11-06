@@ -56,3 +56,4 @@ Quasi-experiment with 212 first-secondary pupils in two public schools in Zarqa;
 - [The article concludes that computer-assisted education produced more permanent and more associable learning of seasons concepts than traditional teaching methods](cae-permanent-associable-learning-seasons.md) — related
 - [The “SQP2RS via WTL” strategy produced significantly higher 10th-grade English reading comprehension scores than traditional teaching](sqp2rs-via-wtl-improves-reading-comprehension.md) — related
 - [CMMCALL program improved low-achievers' academic performance in grammar and reading comprehension](cmmcall-improved-low-achievers-performance.md) — related
+- [Instructional design using the MIND model produced significantly higher post-test learning outcomes than design using the ADDIE model](mind-model-outperforms-addie-learning-outcomes.md) — related

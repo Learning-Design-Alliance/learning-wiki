@@ -67,6 +67,7 @@ Dialogue journals convert writing from a performance to be judged into authentic
 - Pen-pal exchanges — peer-to-peer variant that trades expert modeling for authenticity and volume
 - [Use listening-based journal tasks in which students comprehend a listening input and then respond in their own words](listening-based-journal-summary-tasks.md)
 - [Implement out-of-class English journal writing with weekly encouraging teacher feedback and two rotating notebooks](efl-journal-writing-weekly-feedback-strategy.md)
+- [Implement guided reflective diary writing with weekly entries and individualized teacher feedback](guided-reflective-diary-writing-strategy-nursing.md)
 
 ## Examples
 - **National Writing Project classrooms** — teachers use dialogue journals across grade levels as core writing-fluency practice; see [https://www.nwp.org](https://www.nwp.org)

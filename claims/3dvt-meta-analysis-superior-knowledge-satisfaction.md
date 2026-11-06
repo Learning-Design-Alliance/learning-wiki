@@ -53,3 +53,4 @@ The article cites this meta-analysis as context. "a 2015 meta-analysis by Yammin
 - [Metaverse-based interactive VR instruction is associated with higher overall anatomy test performance than a conventional 2D online lecture](metaverse-vr-higher-overall-anatomy-test-performance.md) — a narrower finding that bears on this claim
 - [3D + PBL improves understanding of orthopedic anatomical structures](3d-pbl-improves-understanding-orthopedic-anatomy.md) — related
 - [Augmented reality increased student engagement but not test performance in anatomical learning](ar-increases-engagement-not-test-performance.md) — related
+- [3D VR video acclimatisation improves overall robotic simulator performance among novices compared with 2D video](3d-vr-acclimatisation-improves-simulator-performance.md) — a narrower finding that bears on this claim

@@ -69,3 +69,4 @@ Same knowledge section: 96.5% appreciated the urgency of replantation within a n
 - [Health vocational students in Turkey show limited knowledge of dental trauma emergency management, with only 7.2% receiving first aid training that included dental trauma content](limited-dental-trauma-knowledge-turkish-vocational-students.md) — related
 - [Medical students show low clinical decision accuracy in dental trauma scenarios, particularly for tooth avulsion](medical-students-low-decision-accuracy-dental-trauma.md) — related
 - [General avulsion knowledge is the only significant predictor of clinical decision accuracy in regression analysis](general-avulsion-knowledge-predicts-decision-accuracy.md) — related
+- [Students' weakest knowledge areas are replantation timing and appropriate transport media for avulsed teeth](weakest-areas-replantation-and-transport-medium.md) — related

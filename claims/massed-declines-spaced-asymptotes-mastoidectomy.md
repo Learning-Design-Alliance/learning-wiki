@@ -49,3 +49,4 @@ Prospective cohort study (n=43 undergraduate medical students) using a visible e
 - [Spaced trainees completed endoscopic exercises 18.7% faster than massed trainees in Verdaasdonk et al.](verdaasdonk-spaced-18-7-percent-faster-endoscopic.md) — related
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
 - [Spaced VR simulator training yields better performance and faster skill acquisition than massed training for surgical psychomotor skills](spaced-vr-training-superior-to-massed-surgical-psychomotor.md) — a broader claim this one bears on
+- [Performance in the VR suture training improved with practice repetitions but reached a plateau after 2 to 4 practices](vr-suture-practice-plateau.md) — related

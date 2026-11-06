@@ -54,3 +54,4 @@ Thematic analysis of open-ended responses from 97 students (response rate 89.8%)
 - [Nursing students perceive simulation-based BLS scenarios as realistic and clinically relevant, which enhances their understanding of BLS procedures and readiness for emergencies](simulation-bls-perceived-realism-clinical-relevance.md) — related
 - [Medical students most valued OSCEai's on-demand data, self-paced learning, and realistic patient interactions](osceai-valued-features-survey.md) — related
 - [Participants perceived the VR camera navigation test as realistic and reflective of their true clinical operational level](participants-perceive-vr-test-realistic-reflective.md) — a narrower finding that bears on this claim
+- [Thematic analysis of open-ended feedback identified desires for greater scenario realism (36% of responses), more practice opportunities (23%), and improved technological infrastructure](qualitative-themes-scenario-realism-practice-infrastructure.md) — related

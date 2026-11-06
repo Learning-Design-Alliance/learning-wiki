@@ -51,6 +51,7 @@ This evaluation system encompasses the entire instructional process (pre-class, 
 - [Design future pedagogical interventions aligned with the integrative model: case discussions requiring epistemological/ontological reflection, debriefings stimulating emotional and psychomotor awareness, and triangulated multi-dimensional assessment](model-aligned-mr-pedagogical-interventions-pt.md)
 - [Implement CBL successfully by ensuring pre-class preparation, authentic progressive cases, dual-competence facilitators, adequate time, and process-plus-outcome assessment](cbl-implementation-success-conditions.md)
 - [Integrate metacognitive instruction, assessment, and feedback mechanisms across diverse educational domains](integrate-metacognitive-instruction-assessment-feedback-across-domains.md)
+- [Evaluate course quality beyond student performance, assessing design alignment, outcomes, satisfaction, and the learning environment](multi-dimension-course-evaluation-flipped-learning.md)
 
 ## Examples
 -

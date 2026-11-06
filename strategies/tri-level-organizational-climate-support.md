@@ -52,6 +52,7 @@ The article recommends building a multi-level support system to mitigate burnout
 - [Establish a dynamic assessment and early intervention mechanism using learning motivation as a key monitoring indicator](dynamic-motivation-monitoring-early-intervention.md)
 - [Provide universal schoolwide supports for educator wellbeing through peer-to-peer structures, leader actions, and shared community norms](universal-schoolwide-educator-wellbeing-supports.md)
 - [Integrate psychosocial support strategies—mentoring, mindfulness-based stress reduction, peer-support groups, and academic skills training—into medical education programs](psychosocial-support-strategies-medical-education.md)
+- [Multi-level interventions to reduce psychological truancy: build self-concept, boost motivation, and improve school climate](three-level-truancy-intervention-strategy.md)
 
 ## Examples
 -

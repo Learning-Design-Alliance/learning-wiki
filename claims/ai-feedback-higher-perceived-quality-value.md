@@ -114,3 +114,4 @@ Post-survey comparisons in RQ3; trust (p = 0.1456) and acceptance (p = 0.2393) a
 - [ChatGPT-assisted revision significantly improved abstract clarity and conciseness ratings](chatgpt-revision-improves-clarity-conciseness.md) — related
 - [Students perceived personalized and generic feedback messages as equally helpful and motivating](equal-perceptions-personalized-generic-feedback.md) — related
 - [Participant ratings of perceived difficulty, clarity, and relevance did not differ by item origin, and subjective difficulty ratings tracked objective item difficulty](genai-mcq-participant-ratings-no-difference.md) — related
+- [Students perceived automated note feedback as clearer, more direct, and easier for comparison than model note feedback](automated-feedback-clearer-easier-comparison.md) — related

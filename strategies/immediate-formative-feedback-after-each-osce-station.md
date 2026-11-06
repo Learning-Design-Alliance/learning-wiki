@@ -49,6 +49,7 @@ Each station reserves 5 of its 20 minutes for feedback delivered by the embedded
 - [Use standardized patient encounters with immediate faculty feedback and peer observation for communication skills practice](sp-encounters-immediate-feedback-peer-observation-strategy.md)
 - [Use extended task-specific rating scales for formative OSCE feedback despite lower psychometric efficiency](extended-scales-formative-feedback-strategy.md)
 - [Use RCDP with immediate directive feedback at scene interruptions, reserving debriefing for consolidation](rcdp-immediate-feedback-with-consolidation-debriefing.md)
+- [Use SP and OSCE stations with weighted scoring for summative clinical practice assessment](sp-osce-weighted-station-assessment-strategy.md)
 
 ## Examples
 -

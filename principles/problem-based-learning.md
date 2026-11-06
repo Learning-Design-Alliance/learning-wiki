@@ -32,7 +32,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 149 claims (62 for, 77 mixed, 10 against) · 89 studies (32 quant-synthesis, 23 causal, 12 review, 8 qualitative, 6 associational, 6 theoretical, 2 design), `q1`–`q4` · 22 of 89 report an effect size · 144 claims rest on one study
+> **Evidence** · 150 claims (63 for, 77 mixed, 10 against) · 90 studies (32 quant-synthesis, 23 causal, 12 review, 8 qualitative, 7 associational, 6 theoretical, 2 design), `q1`–`q4` · 22 of 90 report an effect size · 145 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,7 @@ On 2026-10-19 (wave 2) the other claims linked here were read and moved into the
 - [Cartoon-supported problem-based learning improves fourth-grade students' perceptions of their problem-solving skills](../claims/cartoon-pbl-improves-problem-solving-perceptions.md) [+W] — attached 2026-11-03 from Derya Duygu Tanrıkulu (2022), which proposed "Use cartoons as a humour element to support problem-based learning in primary school Social Studies".
 - [Cartoon-supported problem-based learning improves fourth-grade students' achievement on two Science, Technology and Society outcomes in Social Studies](../claims/cartoon-pbl-improves-social-studies-achievement.md) [+W] — attached 2026-11-03 from Derya Duygu Tanrıkulu (2022), which proposed "Use cartoons as a humour element to support problem-based learning in primary school Social Studies".
 - [Students in problem-based learning curricula outperform students in traditional curricula on the European Prescribing Exam](../claims/pbl-curriculum-higher-prescribing-exam-scores.md) [+W] — attached 2026-11-05 from Donker et al. (2026), which proposed "Include a final CPT examination and problem-based learning in medical curricula to strengthen prescribing competence"; tests this page's relationship.
+- [Fourth-year medical students who completed the PBL-based Elective Osteoporosis Course I scored on average 6.7 points higher on a multiple-choice test than fifth-year students who completed only the mandatory curriculum](../claims/pbl-elective-osteoporosis-course-i-higher-test-scores.md) [+W] — attached 2026-11-05 from Hoffmanová I et al. (2025), which proposed "Offer elective, PBL-based courses to consolidate multidisciplinary content that is dispersed across mandatory courses".
 
 ## Objective and learner-valued goal
 

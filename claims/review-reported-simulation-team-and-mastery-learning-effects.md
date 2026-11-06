@@ -47,3 +47,4 @@ Narrative review section attributing these findings to cited prior studies (e.g.
 ## Related Claims
 - [Structured trauma resuscitation team training augmented by simulation improved teamwork domain ratings and reduced time to CT scanner, intubation, and operating room](simulation-augmented-team-training-improves-trauma-care-efficiency.md) — a narrower finding that bears on this claim
 - [Interprofessional training in a psychiatric ward improved all three subscales of the Assessment of Interprofessional Team Collaboration Scale](ipe-psychiatric-ward-improved-aitcs-subscale.md) — related
+- [Time constraints imposed on responding teams may not negatively impact activating-team patient care before team arrival, based on simulated scenario performance](response-time-constraints-may-not-harm-activating-team-care.md) — related

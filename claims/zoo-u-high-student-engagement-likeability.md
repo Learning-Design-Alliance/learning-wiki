@@ -73,3 +73,4 @@ Observer records and usage logs during the school computer-lab testing sessions.
 - [Field-tested IDSA prototype received moderate usability ratings: usage enjoyment highest, design and realization lowest](idsa-usability-ratings-enjoyment-high-design-low.md) — related
 - [Students rated the game positively, most often citing fun/interactive features, visuals, and new information learned](losing-the-lake-positive-student-feedback.md) — related
 - [Students expressed highly positive feedback toward the game-based learning approach across knowledge, attitude, habit, and viewpoint aspects](positive-student-feedback-game-based-nutrition.md) — related
+- [Students rated the interdisciplinary escape room positively, with the highest ratings for recommendation to peers, fun, relevance, and learning atmosphere](escape-room-student-satisfaction.md) — related

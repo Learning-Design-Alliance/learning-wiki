@@ -48,3 +48,4 @@ Descriptive survey results on student evaluation of the current IT curriculum (F
 - [Most surveyed power-and-energy respondents would use a power-specific hands-on AI tutorial, and few rate generic image-based AI examples as very relevant](demand-for-power-specific-hands-on-ai-examples.md) — related
 - [Computational thinking professional development was the most-cited support for integrating computational thinking into lessons, cited by 54 percent of teachers](ct-pd-top-integration-support-54-percent.md) — related
 - [School administrators underestimate parental demand for computer science education and face resource and prioritization barriers](administrators-underestimate-cs-demand-barriers.md) — related
+- [Over 70% of surveyed students wanted more AI-related education and practical exercises in the medical curriculum](students-demand-ai-education-medical-curriculum.md) — related

@@ -60,6 +60,7 @@ The review's future-directions recommendations call for comparative and better-p
 - [Conduct multi-centre, multi-country randomised controlled trials with adequate confounding adjustment to clarify PBL-career associations](multicentre-rct-pbl-career-recommendation.md)
 - [Compare discovery-based activities to a lecture on identical content to isolate the benefit of direct manipulation](compare-daa-to-lecture-same-content.md)
 - [RCT researchers should collect qualitative data on context alongside implementation and impact](rct-researchers-collect-context-data.md)
+- [Evaluate microlearning effectiveness with an RCT adding objective outcomes to self-report measures](planned-rct-microlearning-evaluation-strategy.md)
 
 ## Examples
 -

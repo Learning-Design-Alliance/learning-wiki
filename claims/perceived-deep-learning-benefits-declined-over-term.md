@@ -49,3 +49,4 @@ to 0.47 in the final survey, even as satisfaction remained high."
 
 - [Students rated ChatGPT highly for completing activities more quickly, among the highest-scoring survey items in both courses](chatgpt-rated-high-for-speed-of-completion.md) — related
 - [Student LLM usage patterns varied across data science courses: Course-BD showed the highest frequency and over-reliance with near-zero perceived learning effect](llm-usage-varied-across-data-science-courses.md)
+- [Students perceived ChatGPT as helping with time savings and understanding, but far fewer saw benefits for knowledge application or long-term retention](chatgpt-perceived-time-saving-not-retention.md) — related

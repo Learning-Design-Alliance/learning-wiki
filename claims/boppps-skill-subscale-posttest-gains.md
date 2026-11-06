@@ -53,3 +53,4 @@ ANCOVA with post-test scores as dependent variables and pre-test scores as covar
 - [The teaching quality advantage remained significant after covariate adjustment, intention-to-treat, and mixed-effects sensitivity analyses](patient-in-classroom-sensitivity-analyses.md) — related
 - [The BOPPPS group improved 26.47 points more than controls on a standardized composite of knowledge and skill scores](boppps-total-score-improvement.md) — related
 - [Traditionally taught control students showed no significant pre-to-post gains in patient preparation or drug preparation skills](control-group-limited-skill-gains.md) — related
+- [Instructional design using the MIND model produced significantly higher post-test learning outcomes than design using the ADDIE model](mind-model-outperforms-addie-learning-outcomes.md) — related

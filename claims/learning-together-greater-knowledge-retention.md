@@ -51,3 +51,4 @@ Delayed retention test administered in the fourteenth week to the same two intac
 - [Learning Together technique significantly raised learning achievement in a Modern French Literature course, with the lowest pre-test students gaining the most](lt-technique-significant-achievement-gains-french-literature.md) — related
 - [Students engage more and retain greater knowledge through active participation than lecture-based teaching, per trials the article cites](active-participation-beats-didactic-bedside.md) — related
 - [Knowledge retention measured 4 weeks after instruction is higher for topics learned through self-directed learning than for topics learned through didactic lecture](sdl-four-week-retention-exceeds-didactic-lecture.md) — related
+- [The 3DP group retained more knowledge at 4 weeks, scoring significantly higher on the delayed post-course test than the lecture-based control group](3dp-pbl-higher-delayed-4-week-test-scores.md) — related

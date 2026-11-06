@@ -50,3 +50,4 @@ Authors' interpretation of the SEM results across Models 2 and 3. The article no
 - [Preschool executive function positively predicts kindergarten math on both measures, while teacher–child relationship quality shows only a trend-level main effect on ECLS-K Math and none on Applied Problems](ef-main-effect-teacher-relationship-main-effect-kindergarten-math.md) — related
 - [Monthly horseback-riding hours positively predict mathematics achievement in children aged 7–9 in the direct-effects model](horseback-riding-hours-predict-math-achievement.md) — related
 - [Horseback-riding hours and age significantly predict executive functions](riding-hours-predict-ef.md) — related
+- [Age negatively moderates the path from executive function to mathematics achievement, while gender and age moderation is non-significant on all other paths in both models](age-negatively-moderates-ef-mathematics-path.md) — related

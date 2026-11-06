@@ -55,3 +55,4 @@ Content assessment by seven nurse reviewers via an online Likert-scale form, ana
 - [Content validity evaluation of the preliminary 30-item CRCDCS indicated CVR values from 0.40 to 1.00 with nine items below the 0.62 threshold removed, and I-CVI values from 0.80 to 1.00 for retained items.](crcdc-content-validity-cvr-icvi.md) — related
 - [Expert review established content validity of VEGA's generated content, with I-CVIs of 0.83–1.00 and S-CVI/Ave of 0.96](vega-content-validity-cvi.md) — related
 - [Expert content validation revised the scenario-in-action checklist domain from 16 to 14 items and produced a final 28-item checklist](cvi-validation-28-item-simulation-checklist.md) — related
+- [Content validity of the EVD KAP questionnaire is satisfactory, with I-CVI from 0.861 to 1.000 and S-CVI of 0.950](evd-kap-scale-content-validity.md) — related

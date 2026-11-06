@@ -72,3 +72,4 @@ Total Simulation Design Scale score comparison in the same study (intervention n
 - [INACSL-standard-based simulation training does not significantly improve midwifery students' self-confidence compared with standard training](inacsl-simulation-no-self-confidence-gain.md) — related
 - [Nursing students reported high satisfaction with community care simulation, with all SDS domain means around 4.5 and support rated lowest](ccs-high-satisfaction-sds-domain-scores.md) — related
 - [Intervention students report higher educational satisfaction than controls after structured reflective sessions](reflective-sessions-increase-satisfaction.md) — related
+- [Both groups report similarly high satisfaction with the simulation training, with session duration rated lowest](high-satisfaction-similar-groups-duration-lowest.md) — reports the opposite

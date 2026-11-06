@@ -120,6 +120,7 @@ Guided notes and organizers reduce the real-time processing burden of lectures b
 - Annotating texts — the same external-structuring logic applied to reading rather than listening
 - Structured lecture pauses — pauses give learners the time the organizer assumes
 - [Use the coaching framework as a structured discussion guide with a note-taking grid and study group questions](coaching-framework-discussion-guide-grid-questions.md)
+- [Use cover, copy, and compare with graphic organizers as a study strategy for learning stimulus relations](ccc-graphic-organizer-study-strategy.md)
 
 ## Examples
 - **Cornell-style guided notes in secondary science**: a teacher provides a two-column template (cues left, notes right) with blanks for definitions during a direct-instruction lesson, then students write summary questions at the bottom.

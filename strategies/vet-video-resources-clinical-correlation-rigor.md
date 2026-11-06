@@ -40,6 +40,7 @@ The article underscores "the importance of careful vetting of video resources fo
 
 - [Develop standardised validated content-assessment tools and theory-based guidelines for TST video creators](standardised-tst-video-assessment-tool-and-creator-guidelines.md)
 - [Integrate AI feedback as a supportive resource within process-oriented drafting cycles, with explicit guidance on critical evaluation](ai-feedback-process-writing-integration-strategy.md)
+- [Encourage trainees to prioritise journal-hosted proctology videos over freely available YouTube videos](prioritise-journal-videos-for-self-directed-proctology-learning.md)
 
 ## Examples
 -

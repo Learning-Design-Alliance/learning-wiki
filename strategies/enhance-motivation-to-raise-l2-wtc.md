@@ -39,6 +39,7 @@ The article recommends that language teachers work to raise learners' motivation
 ## Related Strategies
 
 - [Employ more communicative tasks and strategies in large classes to encourage participation](communicative-strategies-large-classes-participation.md)
+- [Nurture intrinsic motivation to experience stimulation and foster behavioural and emotional engagement to harness peer-achievement spillover](nurture-stimulation-motivation-engagement-l2.md)
 
 ## Examples
 -

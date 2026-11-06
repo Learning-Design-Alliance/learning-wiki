@@ -55,6 +55,7 @@ The article recommends simulation-based training, digital tools including the IA
 - [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
 - [Integrate structured, interdisciplinary dental trauma training into vocational health curricula using modular, problem-based and digital formats](structured-dental-trauma-curriculum-integration-strategy.md)
 - [Integrate occupational adaptive learning with simulation training, case studies, and interdisciplinary collaboration to strengthen clinical pharmacist preparation](integrate-adaptive-learning-with-simulation-case-studies.md)
+- [Incorporate structured dental traumatology content into the medical curriculum using active, practical formats such as simulations, interactive case studies, and workshops](structured-dental-trauma-education-active-formats.md)
 
 ## Examples
 -

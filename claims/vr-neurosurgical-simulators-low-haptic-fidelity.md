@@ -72,3 +72,4 @@ Sub-group analysis of Alaraj et al.'s ITACS immersive VR aneurysm-clipping simul
 - [Immersive technologies are rarely adopted in robotics GBL/gamification but studies using them report heightened engagement, improved spatial reasoning, and enhanced perceived realism](immersive-tech-underused-positive-outcomes-robotics.md) — related
 - [Content validity of the Endonix simulator is merely sufficient, with realism ratings lowest among experienced endoscopists](endonix-limited-content-validity-realism.md) — related
 - [Residents generally agreed with the simulator's anatomical appearance and functional fidelity, with only 5 of 22 fidelity items rated below 3 on a 4-point scale](simulator-fidelity-ratings-mostly-agree.md) — related
+- [IVR application shows face validity for realism of anatomy and equipment, but tissue-interaction realism is rated low due to suboptimal haptic feedback](ivr-face-validity-haptic-limitation.md) — possibly the same claim (merge candidate)

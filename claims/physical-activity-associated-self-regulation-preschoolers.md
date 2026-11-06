@@ -52,3 +52,4 @@ The report’s narrative review of activity research states that "preschoolers�
 - [A 10-minute bout of moderate-intensity exercise improves Stroop inhibitory control with increased left dorsolateral prefrontal activation in young adults](moderate-exercise-stroop-dlpfc-activation.md) — related
 - [In-classroom physical activity breaks show no significant effect on children's test anxiety](icpab-no-effect-test-anxiety.md) — related
 - [Most preschool SR/EF interventions report at least one significant outcome, but only about half of evaluated effects are significant](preschool-sr-ef-intervention-efficacy-overview.md) — related
+- [Active-break and control groups differed on the Stroop Test regardless of time, but the Group × Time interaction was not significant, so no effect of the active breaks on inhibitory control was shown](active-breaks-improve-executive-function-stroop.md) — a narrower finding that bears on this claim

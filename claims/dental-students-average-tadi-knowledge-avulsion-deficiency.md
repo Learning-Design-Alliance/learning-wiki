@@ -49,3 +49,4 @@ Cross-sectional questionnaire study of 118 fourth-year dental students across tw
 - [Most fourth-year dental students at one Australian university report low confidence in managing TDI cases despite having average knowledge.](dental-students-low-confidence-tadi-management.md) — related
 - [A significant relationship exists between knowledge and confidence levels in TDI management among dental students.](knowledge-confidence-relationship-tadi-management.md) — related
 - [Only 36.3% of residents feel confident treating traumatized immature teeth while 96.9% want more training](low-confidence-high-training-demand-tdi.md) — related
+- [Students' weakest knowledge areas are replantation timing and appropriate transport media for avulsed teeth](weakest-areas-replantation-and-transport-medium.md) — a narrower finding that bears on this claim

@@ -99,3 +99,4 @@ Qualitative interview findings from the discussion of concerns; faculty worried 
 - [LLM use in dental education raises application-related challenges including ethical concerns, absence of usage guidelines, potential harm to students' knowledge and skills, and cautious stakeholder attitudes](llm-application-challenges-ethics-guidelines.md) — possibly the same claim (merge candidate)
 - [Intensive use of digital technologies and difficulty concentrating undermine students' reflective capacity needed for soft skills development](technology-distraction-soft-skills-barrier.md) — related
 - [Institutional inequity and data governance gaps may widen existing disparities and compromise privacy without explicit safeguards](ai-formative-assessment-equity-data-governance-risk.md) — related
+- [Most students expressed misinformation concerns and lacked confidence in their AI-related skills](students-report-misinformation-concerns-low-ai-confidence.md) — related

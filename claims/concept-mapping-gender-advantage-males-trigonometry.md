@@ -56,3 +56,4 @@ Within the concept mapping group of the quasi-experiment (Table 4: 38 males, 32 
 - [Jigsaw's advantage over conventional instruction held for both male and female students, with no significant main effect of treatment on gender](jigsaw-gender-neutral-attitude-effect.md) — related
 - [Posttest achievement under jigsaw instruction did not differ significantly by gender](no-gender-difference-posttest-jigsaw.md) — related
 - [Male students held stronger attitudes toward mathematics than female students](gender-main-effect-mathematics-attitudes.md) — related
+- [Male students score higher on average in mathematics achievement than females in both grades in descriptive comparisons](gender-descriptive-achievement-gap-grades-10-11.md) — related

@@ -50,6 +50,7 @@ The article recommends expanding preclinical simulation exercises, diversifying 
 - [Use predefined progression criteria and staged supervised practice to standardize training in invasive dental procedures](predefined-progression-criteria-staged-supervised-practice.md)
 - [Use simulation-based training, digital tools, and interdisciplinary workshops to teach dental trauma management](simulation-digital-interdisciplinary-dental-trauma-training.md)
 - [Expand simulation-based and laboratory training before and alongside clinical practice](expand-simulation-laboratory-training-nursing.md)
+- [Integrate case-based learning, supervised clinical simulations and e-learning modules aligned with WHO and CDC standards into infection control curricula](integrate-case-based-simulation-elearning-ipc-training.md)
 
 ## Examples
 -

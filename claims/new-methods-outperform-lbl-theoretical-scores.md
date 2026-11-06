@@ -85,3 +85,4 @@ In the theoretical-score NMA (72 studies, 4874 trainees), eight interventions ea
 - [AI-assisted PBL-CBL combined teaching increases teaching satisfaction among medical interns compared with lecture-based teaching](ai-pbl-cbl-increases-teaching-satisfaction.md) — related
 - [BOPPPS-CBL instruction is associated with significantly higher adjusted post-test knowledge scores than lecture-based learning in undergraduate HAI education](boppps-cbl-higher-adjusted-posttest-hai-knowledge.md) — related
 - [The hybrid CBL-SST-simulator model shows no significant difference from lecture-based learning in theoretical knowledge scores](hybrid-cbl-sst-no-difference-theoretical-knowledge.md) — related
+- [OBE-integrated PBL teaching yields higher theoretical assessment scores than lecture-based teaching in psychiatric clinical practice](obe-pbl-higher-theoretical-assessment-psychiatry.md) — related

@@ -49,3 +49,4 @@ Inductive content analysis of Round 1 focus group interviews (n = 34) produced t
 - [Some medical students experienced the digital escape rooms as overwhelming, with cognitive overload and a few quitting within 20–25 minutes](escape-rooms-overwhelming-cognitive-overload.md) — related
 - [K-12 learners preferred incremental hints and multiple attempts over immediately revealed solutions](learners-prefer-incremental-hints-over-solutions.md) — related
 - [Medical students found curriculum-aligned digital escape rooms exciting, engaging, and motivating in a pilot implementation](escape-rooms-exciting-medical-students.md) — related
+- [Students most frequently named collaborative teamwork as the best aspect of escape room teaching, and suggested more briefing, smaller groups and more playing time](escape-room-teamwork-best-aspect.md) — related

@@ -61,6 +61,7 @@ The authors recommend integrating well-designed VSGs into nursing education as p
 - [Position AI simulation as a complement to—not a replacement for—traditional clinical placements, with faculty preparation and dedicated quiet spaces](ai-simulation-as-complement-not-replacement.md)
 - [Integrate hybrid simulation into clinical skills curricula to concurrently train communication and technical skills in a safe, repeatable environment](integrate-hybrid-simulation-clinical-skills-curricula.md)
 - [Integrate occupational adaptive learning with simulation training, case studies, and interdisciplinary collaboration to strengthen clinical pharmacist preparation](integrate-adaptive-learning-with-simulation-case-studies.md)
+- [Use AI-driven virtual patient simulators as a cost-effective supplement to build communication skills training capacity](ai-vps-cost-effective-capacity-strategy.md)
 
 ## Examples
 -

@@ -56,6 +56,7 @@ The authors recommend that nurse educators incorporate simulation activities com
 - [Strengthen final-year nursing preparation through competency-based, simulation-supported education focused on clinical skills, critical thinking, and ethics](competency-simulation-education-reduce-error-tendency.md)
 - [Deliver pre-foundation simulation with hands-on scenarios, structured debriefing and facilitator continuity to optimise the learning environment](pfa-simulation-design-features-strategy.md)
 - [Incorporate structured non-technical skills training and structured debriefing sessions within simulation-based education](structured-nts-training-debriefing-recommendation.md)
+- [Incorporate practical gerontological nursing teaching early in the curriculum, using situational simulation and case-based teaching](early-practical-gerontological-teaching-strategy.md)
 
 ## Examples
 -
