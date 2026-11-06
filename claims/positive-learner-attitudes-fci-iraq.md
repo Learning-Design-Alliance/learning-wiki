@@ -82,3 +82,4 @@ Semi-structured interviews with 10 experimental-group volunteers, analysed by in
 - [Iranian EFL learners in the flipped group held mostly positive attitudes toward flipped instruction](positive-efl-attitudes-toward-flipped-instruction.md) — related
 - [ESL learners trained in metacognitive strategies hold more positive views of the strategies' effectiveness than untrained peers](trained-esl-learners-positive-views-metacognitive-strategies.md) — related
 - [Students hold favorable attitudes toward e-learning as a supplement to in-class teaching](favorable-attitudes-toward-elearning-supplement.md) — related
+- [Saudi nursing students perceived pre-class assignments in flipped learning as deepening their understanding of course content](fl-preclass-assignments-deepened-understanding-nursing.md) — related

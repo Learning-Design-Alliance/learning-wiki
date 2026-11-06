@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 245 claims (129 show a difference, 59 mixed, 57 no difference) · 191 studies (83 associational, 75 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 32 of 191 report an effect size · 244 claims rest on one study
+> **Evidence** · 248 claims (130 show a difference, 61 mixed, 57 no difference) · 192 studies (84 associational, 75 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 33 of 192 report an effect size · 247 claims rest on one study
 
 ## How to read this page
 
@@ -330,6 +330,9 @@ A learner's economic and social position: family income or poverty (often measur
 - [Bivariate correlations between math scores and growth mindsets were modest across countries and weaker than those with socioeconomic status](../claims/modest-mindset-math-correlations.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Socioeconomic status significantly moderated the growth mindset–math achievement association in 33 of 74 countries, with no consistent direction](../claims/ses-moderates-mindset-33-of-74.md) [~M] — an instructional effect differs by group
 - [The socioeconomic status moderation of the mindset–achievement association remained robust across alternative model specifications](../claims/ses-moderation-robustness-checks.md) [+M] — an instructional effect differs by group
+- [Across countries, the effect sizes of student SES and school SES on achievement are negatively correlated (r = −0.21 mathematics; r = −0.13 science)](../claims/student-school-ses-effect-negative-correlation.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Gender moderates SES effects: student SES raises achievement more for female students, while school SES raises achievement more for male students](../claims/gender-moderates-ses-effects.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [School SES has a stronger effect on academic achievement than student SES (mathematics B = 0.37 vs 0.18; science B = 0.36 vs 0.20)](../claims/school-ses-stronger-than-student-ses.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

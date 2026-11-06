@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 291 claims (220 show a difference, 40 mixed, 31 no difference) · 232 studies (77 causal, 73 associational, 32 review, 22 qualitative, 10 quant-synthesis, 10 design, 7 theoretical), `q1`–`q4` · 48 of 232 report an effect size · 287 claims rest on one study
+> **Evidence** · 295 claims (224 show a difference, 40 mixed, 31 no difference) · 235 studies (78 causal, 75 associational, 32 review, 22 qualitative, 10 quant-synthesis, 10 design, 7 theoretical), `q1`–`q4` · 49 of 235 report an effect size · 291 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -322,6 +322,10 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Self-efficacy moderation effects are absent for boys in both math and reading](../claims/self-efficacy-moderation-null-boys.md) [-M] — an instructional effect differs with it
 - [Trainees who received negative feedback reported lower perceived competence than those receiving positive or no feedback](../claims/negative-feedback-lower-perceived-competence-imi.md) [+M] — measured as an outcome of the instruction studied
 - [In one uncontrolled pre-post study, residents’ self-rated medicolegal competence rose significantly from pre-test to post-test after a short structured forensic medicine course, across all measured propositions](../claims/forensic-course-increases-perceived-competence.md) [+M] — measured as an outcome of the instruction studied
+- [A statistically significant majority of postgraduate dental students reported improved clinical confidence (67%) and satisfaction with the VDT lecture (96%)](../claims/vdt-clinical-confidence-lecture-satisfaction.md) [+M] — measured as an outcome of the instruction studied
+- [Physicians' teaching-related self-efficacy correlates positively with their job motivation (r=0.278)](../claims/teaching-self-efficacy-job-motivation-physicians.md) [+M] — learners who differ on it differ in outcomes
+- [Physicians' teaching-related self-efficacy correlates positively with their job satisfaction (r=0.138)](../claims/teaching-self-efficacy-job-satisfaction-physicians.md) [+W] — learners who differ on it differ in outcomes
+- [Post-course General Self-Efficacy is significantly higher after RLC debriefing than after Norris and Bullock debriefing, while pre-course self-efficacy did not differ](../claims/rlc-debriefing-gse-self-efficacy-gains.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

@@ -52,6 +52,7 @@ The authors propose a three-stage instructional framework incorporating the virt
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
 - [Introduce virtual simulation systems in Periodontics to support integration of theoretical and practical skills](virtual-simulation-systems-perio-skills-integration.md)
+- [Integrate virtual patients into preclinical dental curricula and evaluate with objective outcome measures](integrate-vps-preclinical-dental-curriculum-strategy.md)
 
 ## Examples
 -

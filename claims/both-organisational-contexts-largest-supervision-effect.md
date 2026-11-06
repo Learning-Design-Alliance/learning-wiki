@@ -50,3 +50,4 @@ Subgroup multilevel regression comparing facilities implementing both organisati
 - [Supervision alone is not significantly associated with clinical quality in sick child healthcare](supervision-alone-not-associated-with-clinical-quality.md) — related
 - [Supervision combined with training shows the strongest association with clinical quality among the modalities tested](supervision-with-training-associated-with-quality.md) — related
 - [A perceived supportive work environment is positively associated with higher-quality care](supportive-environment-associated-with-quality.md) — related
+- [SDL alone is insufficient for CPR training; instructor presence is needed for quality assurance.](sdl-insufficient-cpr-training.md) — a narrower finding that bears on this claim

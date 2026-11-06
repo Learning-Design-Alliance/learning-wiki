@@ -56,3 +56,4 @@ Descriptive comparison of ELL versus non-ELL mean scores by year (Question 1, Fi
 - [Self-efficacy is related to the achievement gap for English Language Learners](self-efficacy-related-to-persistence-of-ell-achievement-gaps.md) — related
 - [Teacher emotional support buffers the negative association between low math self-efficacy and low engagement](teacher-emotional-support-buffers-low-efficacy-engagement.md) — related
 - [A companion working paper examines the relationship between academic and social-emotional growth for English Language Learners](ell-working-paper-academic-and-social-emotional-growth.md) — a broader claim this one bears on
+- [Daily exposure to a non-English language is associated with higher Calculation and Math Fluency scores, with early gaps narrowing by around Grade 4](non-english-exposure-math-fluency-calculation.md) — related

@@ -52,3 +52,5 @@ Meta-analytic comparison of pooled EF effect sizes for C-RD (0.35), C-MD (0.40),
 - [In reading-related outcomes, group differences involving RD or RDMD are largest for reading tasks and phonological processing and smallest for RAN](reading-group-differences-phonological-vs-ran.md) — related
 - [Group differences in math skills between LD and comorbid groups are more pronounced in symbolic than non-symbolic math tasks](math-group-differences-symbolic-tasks.md) — related
 - [Children with MD only receive extra math assistance far less often than children with comorbid RD+MD](md-only-less-extra-math-assistance.md) — related
+- [Co-occurring MD and RD follows an additive pattern: growth patterns combine the math patterns of MD and the reading patterns of RD with no compounding cross-domain impairment](additive-co-occurrence-growth-patterns.md) — related
+- [MD impairments are domain-specific while RD impairments affect both domains early: RD-only children score comparably to MD-only children on math outcomes](md-domain-specific-rd-cross-domain-math.md) — related

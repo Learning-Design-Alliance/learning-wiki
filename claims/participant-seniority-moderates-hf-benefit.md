@@ -69,3 +69,4 @@ Subgroup analysis of skill performance by participant seniority (Supplement 5). 
 - [VR benefits examination scores for medical students but not significantly for residents](vr-anatomy-benefit-medical-students-not-residents.md) — related
 - [A systematic review found advanced life support course participation was associated with improved return of spontaneous circulation and a favourable signal for survival.](als-courses-associated-improved-rosa-survival-signal.md) — related
 - [HFS/curriculum-integrated sessions produce significantly higher total knowledge scores than traditional curriculum in third-year nursing students](hfs-curriculum-integration-higher-total-knowledge.md) — related
+- [Residents with three or more years of training outperformed first-two-year residents in the Opioid Side Effects domain, but not overall](senior-residents-better-opioid-side-effects-domain.md) — related

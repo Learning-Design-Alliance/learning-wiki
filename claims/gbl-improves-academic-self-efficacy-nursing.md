@@ -52,3 +52,5 @@ Repeated measures ANOVA in the intervention group (n = 20) showed a significant 
 - [Digital interventions show sustained improvements in performance and retention, with confidence and diagnostic ability remaining elevated four months post-intervention in some studies](digital-learning-knowledge-retention-four-months.md) — a broader claim this one bears on
 - [Clinical Application scores increased from Post-test to one-month Follow-up in all three groups](application-scores-increased-at-follow-up.md) — related
 - [Academic self-efficacy positively predicts clinical performance in nursing internship students](ase-positive-prediction-clinical-performance.md) — related
+- [Nursing interns randomised to PBL combined with comparative nursing rounds scored higher on a health education ability questionnaire than traditionally taught interns (P = 0.003)](pbl-higher-health-education-ability-nursing-interns.md) — related
+- [SBLE significantly increases perceived efficacy among nursing students](sble-increases-perceived-efficacy-nursing-students.md) — related

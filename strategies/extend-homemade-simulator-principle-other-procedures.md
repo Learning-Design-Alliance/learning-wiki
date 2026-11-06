@@ -46,6 +46,8 @@ The authors recommend applying the same low-cost homemade simulator principle to
 - [Integrate cost-effective simulation with structured, proficiency-based curricula into pediatric MIS training](proficiency-based-curricula-neonatal-mis.md)
 - [Build simulation models from patient imaging with 3D printing to accommodate anatomical variations at low cost](imaging-based-3d-printing-custom-simulation-models.md)
 - [Use validated simulators to widen access to Aquablation training where clinical cases and robotic systems are scarce](simulator-training-access-scarce-robotic-procedures.md)
+- [Extend competency-driven procedural training to other under-taught clinical skills and resource-limited settings](extend-competency-driven-training-to-other-procedures.md)
+- [Extend high-fidelity clinical simulation to other Dentistry curriculum areas such as pediatric dentistry](extend-simulation-pediatric-dentistry.md)
 
 ## Examples
 -

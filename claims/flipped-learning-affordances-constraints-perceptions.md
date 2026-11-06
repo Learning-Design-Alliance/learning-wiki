@@ -72,3 +72,4 @@ Same thematic analysis of open-ended responses: constraints included needing mor
 - [Flexibility and access are an initial characterization of Open Teaching](open-teaching-flexibility-and-access.md) — related
 - [Students valued flexibility and self-directed learning but desired more in-person interaction and better lecture recordings in the hybrid flipped course](student-themes-flexibility-interaction-recordings.md) — related
 - [Medical students perceived asynchronous videos as facilitating prior preparation for hands-on practice by allowing flexible, self-paced review of procedural steps.](asynchronous-videos-support-preparation-for-hands-on-practice.md) — related
+- [Saudi nursing students perceived pre-class assignments in flipped learning as deepening their understanding of course content](fl-preclass-assignments-deepened-understanding-nursing.md) — related

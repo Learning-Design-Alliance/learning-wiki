@@ -84,3 +84,4 @@ Test-retest reliability with alternate forms across consecutive windows (Table 4
 - [Students' relative rank order in reading remained stable across fourth grade on most measures, with GMRT reading comprehension the exception (r = .16)](rank-order-stability-reading-measures-fourth-grade.md) — related
 - [Teacher efficacy is moderately to highly stable from fall to spring of the school year](teacher-efficacy-stable-fall-to-spring.md) — related
 - [The PRO-SDLS showed a high degree of reliability in this study's test-retest sample, with a Pearson coefficient of 0.91.](pro-sdls-reliability-confirmed-study-sample.md) — related
+- [Test–retest reliability of rater scores declined across the four clinical rotations, from 0.81–0.98 in Rotation 1 to 0.47–0.65 in Rotation 4](test-retest-reliability-declines-across-rotations.md) — related

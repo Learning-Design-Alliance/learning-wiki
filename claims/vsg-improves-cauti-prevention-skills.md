@@ -44,3 +44,4 @@ In the same randomized controlled trial (n = 75), skills were assessed by three 
 ## Related Claims
 - [The VSG group outperformed the control group on all four CAUTI-prevention skill procedures at post-test](vsg-higher-scores-all-four-procedures.md) — a narrower finding that bears on this claim
 - [A 7-day virtual simulation game on CAUTI prevention produced higher post-test knowledge scores than standard training presentations in nursing students](vsg-improves-cauti-prevention-knowledge.md) — related
+- [Nursing students who used the digital game-based study guide scored significantly higher on post-intervention practical skills than control students](game-based-study-guide-higher-practical-skills.md) — related

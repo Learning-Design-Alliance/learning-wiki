@@ -55,3 +55,4 @@ Post-intervention sub-score comparison in the same quasi-randomized study: singl
 - [Both PBL-CBL and traditional teaching groups improve theoretical and skills scores after the course](both-groups-improve-scores-after-course.md) — related
 - [Emerging teaching methods (PBL, CBL, FC) significantly improve dental students' exam scores compared to lecture-based learning](emerging-methods-improve-dental-exam-scores.md) — reports the opposite
 - [Students taught pulmonary imaging with CBL-FC scored higher than an LBL group on application of imaging principles and diagnostic reasoning, in a quasi-randomized comparison where CBL-FC also added peer interaction](cbl-fc-improves-application-and-diagnostic-reasoning.md) — related
+- [EBM-BOPPPS and BOPPPS groups showed no significant difference in foundational neurology MCQ scores](ebm-boppps-mcq-no-difference.md) — related

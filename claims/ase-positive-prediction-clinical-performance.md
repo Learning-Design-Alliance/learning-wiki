@@ -51,3 +51,4 @@ In the emerging CB-SEM model of 585 Saudi nursing interns, "ASE directly and pos
 - [Game-based learning in a mental health nursing internship significantly improves nursing students' academic self-efficacy, with large within-group effects sustained at one-month follow-up](gbl-improves-academic-self-efficacy-nursing.md) — related
 - [Conventional internship instruction alone produced no significant change in self-directed learning or academic self-efficacy over the five-week course](conventional-instruction-no-sdl-selfefficacy-change.md) — related
 - [SMA, nomophobia, and ASE jointly account for 42.64% of the variance in nursing interns' clinical performance](sem-variance-clinical-performance-42-64.md) — related
+- [Physicians' teaching experience correlates positively with their teaching-related self-efficacy (ρ=0.186)](teaching-experience-self-efficacy-physicians.md) — related

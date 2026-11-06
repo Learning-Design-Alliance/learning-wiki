@@ -47,3 +47,4 @@ Systematic review of 54 included studies reporting assessment of prescribing com
 ## Related Claims
 - [Individual readiness assurance tests (i-RATs) in pre-clinical TBL are almost universally MCQ-based, mostly closed-book, typically 5 to 30 items lasting 10 to 30 minutes](irat-mcq-closed-book-5-30-items.md) — related
 - [International differences in guidelines, regulations and prescribing attitudes may reduce applicability of shared resources, which the authors argue can be overcome by adaptable materials aimed at common prescribing elements](adaptable-materials-overcome-international-differences.md) — related
+- [DMT assessment across the four schools relies predominantly on written examinations, with comprehensive clinical competency assessments reported by only two countries](dmt-assessment-predominantly-written-exams.md) — a narrower finding that bears on this claim

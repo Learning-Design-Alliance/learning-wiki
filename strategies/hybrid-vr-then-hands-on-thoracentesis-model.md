@@ -48,6 +48,7 @@ The authors propose that if confirmed in larger studies, VR could serve as a use
 
 - [Integrate virtual reality training as an adjunct into surgical training curricula for junior trainees](integrate-vrt-adjunct-surgical-curricula.md)
 - [Use the K technique as a basis for building VR training models at scale](k-technique-basis-for-vr-training-models.md)
+- [Prioritize competency-based training models integrating VR-based surgical practice and AI-assisted procedural assessments in dental education](competency-based-vr-ai-training-stomatology.md)
 
 ## Examples
 -

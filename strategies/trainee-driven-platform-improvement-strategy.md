@@ -49,6 +49,7 @@ The article distills trainee feedback into concrete platform upgrades. Students 
 - [Integrate VR simulation design with prebriefing, intuitive interfaces, adaptive difficulty, scenario variability, ergonomic hardware, and structured debriefing](vr-design-balance-usability-load-debriefing-strategy.md)
 - [Design and implement VS teaching with simplified interfaces, multimodal feedback, multilingual diverse case libraries, pre-training, and controlled VR session lengths](vs-design-recommendations-strategy.md)
 - [Enhance digital training platforms with interactivity, supervision, and expanded content coverage](optimize-digital-platforms-engagement-supervision-content.md)
+- [Extend VDT learning with longer sessions, more oral/maxillofacial cases, remote access and SECTRA interface improvements, per student feedback](student-requested-vdt-improvements.md)
 
 ## Examples
 -

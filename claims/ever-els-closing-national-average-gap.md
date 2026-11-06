@@ -57,3 +57,4 @@ The discussion summarizes the study's trajectory findings: ever-ELs were "closin
 - [Despite faster early math growth, dual language students did not learn more than their peers in the long run and the gap to the national average was not closing](dual-language-math-no-long-run-advantage-gap-not-closing.md) — related
 - [Young white students progress more slowly in math and reading than Asian, black, and Hispanic students, with differences attenuating at older ages](ethnic-differences-younger-student-gains.md) — related
 - [Students of ethnicity other than White grew more slowly in reading and math than White students, with no ethnic differences in initial achievement](non-white-ethnicity-slower-growth-no-intercept-difference.md) — related
+- [Daily exposure to a non-English language is associated with higher Calculation and Math Fluency scores, with early gaps narrowing by around Grade 4](non-english-exposure-math-fluency-calculation.md) — related

@@ -48,3 +48,4 @@ Descriptive questionnaire study of 72 dental students completing both time point
 - [Students perceived the GPT-based virtual patient encounters as realistic and easy to converse with](ai-virtual-patient-perceived-realistic.md) — related
 - [Students strongly endorsed the AI e-learning tool, with 72.2% strongly agreeing it should be available for endodontic education and 76.4% strongly agreeing to recommend it to other students](ai-tool-strong-student-endorsement.md) — related
 - [Undergraduate dental students perceive that PBL builds self-efficacy, moving from initial uncertainty toward confidence in independent learning](pbl-builds-self-efficacy-from-uncertainty.md) — related
+- [Users of the virtual-patient e-learning tool showed statistically significant improvements in perceived competence in almost every item, with overall agreement rising from 8.3% to 75.0%](vp-elearning-users-perceived-competence-improved.md) — possibly the same claim (merge candidate)

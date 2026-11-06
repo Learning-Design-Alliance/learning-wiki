@@ -70,3 +70,4 @@ Piecewise multilevel growth models (Model 2) estimated monthly learning rates fo
 - [In reading, ELs grew less than never-ELs in K-1 but more in later grades, with greater summer loss](el-reading-graded-growth-pattern-summer-loss.md) — related
 - [Ever-ELs and current-ELs make larger fall-to-spring gains than the all-student average in early grades but smaller gains in middle grades](ever-current-el-gains-grade-pattern.md) — related
 - [ELs with identified disabilities made slower progress toward English skills and had lower attendance, and were more likely to opt out of bilingual services](els-with-disabilities-slower-progress-lower-attendance.md) — related
+- [Daily exposure to a non-English language is associated with higher Calculation and Math Fluency scores, with early gaps narrowing by around Grade 4](non-english-exposure-math-fluency-calculation.md) — related

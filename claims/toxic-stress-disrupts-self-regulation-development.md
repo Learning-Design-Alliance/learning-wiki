@@ -72,3 +72,4 @@ The brief states this as a finding from the research literature on stress and se
 - [High stress and healthcare environment complexity are the primary barriers to effective decision-making](stress-complexity-primary-barriers-decision-making.md) — related
 - [Students describe acquiring evidence-based stress management skills whose adoption was grounded in psychoeducation about stress physiology and the autonomic nervous system](stress-skills-psychoeducation-grounding.md) — related
 - [Working with sensitive family topics in VR can feel intense and overwhelming, requiring teacher preparation for emotional reactions](vr-sensitive-topics-intensity-reactions.md) — a narrower finding that bears on this claim
+- [Teacher empathy reduces student stress and contributes to safe learning environments and engagement](teacher-empathy-stress-engagement-safety.md) — related

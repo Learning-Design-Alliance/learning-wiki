@@ -50,3 +50,6 @@ Baseline task of the controlled trial: before the TLH simulation, all participan
 - [Expert-derived time- and score-based training benchmarks discriminate between novice learners and expert surgeons on all six FRS VR tasks](frs-vr-benchmarks-discriminate-novice-expert.md) — related
 - [On the MaiSurge model, expert gynecologists achieve significantly higher modified H-OSATS and general OSATS scores than novices performing a total laparoscopic hysterectomy](maisurge-differentiates-experts-novices-hosats.md) — related
 - [Novices take significantly longer than experts to complete a total laparoscopic hysterectomy on the MaiSurge model (an 85.3% increase in operating time)](maisurge-experts-novices-operating-time.md) — related
+- [Operation times on the DNH hydrogel ESD model discriminate between physicians of different experience levels](dnh-model-operation-times-discriminate-experience-levels.md) — a narrower finding that bears on this claim
+- [FVS task-level scores distinguished experience level for one-handed knot tying and plication suturing but not for all five tasks](fvs-task-level-novice-experienced-differences-ghana.md) — related
+- [Ob/Gyn residents in the Ghanaian program reported uniformly low confidence in performing vaginal hysterectomy and other vaginal surgeries](ghana-residents-low-confidence-vaginal-surgery.md) — related

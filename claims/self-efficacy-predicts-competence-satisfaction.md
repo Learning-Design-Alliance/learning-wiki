@@ -55,3 +55,4 @@ SEM direct-effect tests in the survey of 493 interns; both paths significant, "s
 - [P-O fit positively predicts teaching self-efficacy and perceived teacher competence](po-fit-predicts-efficacy-and-competence.md) — related
 - [Teacher self-efficacy shows positive links with personal accomplishment, job satisfaction, and commitment](tse-positive-links-well-being-factors.md) — a broader claim this one bears on
 - [Agriculture teachers' self-efficacy is positively related to career persistence indicators such as career commitment and job satisfaction](self-efficacy-positive-career-persistence-agriculture-teachers.md) — a broader claim this one bears on
+- [Physicians' teaching-related self-efficacy correlates positively with their job satisfaction (r=0.138)](teaching-self-efficacy-job-satisfaction-physicians.md) — related

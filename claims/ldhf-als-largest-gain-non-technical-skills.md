@@ -49,3 +49,4 @@ Domain-specific analysis of the same randomized trial's 12-month video-rated ass
 - [Low-dose, high-frequency ALS training yields higher overall simulation-based resuscitation performance scores at 12 months than annual full-day training](ldhf-als-higher-overall-performance-12-months.md) — a broader claim this one bears on
 - [Defibrillation-related and CPR-related domain scores are also significantly higher after low-dose high-frequency ALS training](ldhf-als-defibrillation-cpr-domain-gains.md) — related
 - [Technical and non-technical ACLS skills decline by 12 months post-training across all simulation groups](acls-skill-decline-at-twelve-months.md) — related
+- [No significant performance differences between students trained every 3 months and every 6 months](no-difference-3-versus-6-month-cpr-training.md) — related

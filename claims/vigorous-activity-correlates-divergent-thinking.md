@@ -75,3 +75,4 @@ Authors' summary of the correlational results in the Results section, describing
 - [Anthropometric variables, body composition and hand grip strength show no correlation with creativity components in this sample](anthropometrics-no-correlation-creativity.md) — related
 - [Physical activity interventions in childhood improve creativity with a moderate summary effect, based on low-certainty evidence](pa-interventions-improve-creativity-childhood.md) — related
 - [Higher-creativity physical activity interventions showed a small significant negative effect on cognitive flexibility](higher-creativity-pa-negative-cognitive-flexibility.md) — related
+- [Learning behavior engagement correlates positively with operational skill outcomes, with no significant correlation for flexibility](engagement-correlates-skill-outcomes.md) — related

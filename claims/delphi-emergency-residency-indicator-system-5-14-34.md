@@ -58,3 +58,5 @@ A two-round modified Delphi study with 19 emergency medicine experts from 11 ter
 - [A three-round e-Delphi panel of 19 experts from 6 European countries achieved consensus on 58 core teamwork competencies for community-based interprofessional teams, grouped into five areas](edelphi-consensus-58-cbit-competencies.md) — related
 - [A Delphi panel of 24 simulation center heads in China reached consensus on 24 evaluation items across six categories, forming the STRIVE model](delphi-consensus-24-items-strive-hsc.md) — related
 - [Expert panel was predominantly female, doctoral-level, with healthcare and SCI experience](iafee-ecs-expert-panel-characteristics.md) — related
+- [First-round Delphi eliminated conceptually redundant indicators (e.g., 'management ability') and refined others (e.g., 'teaching ability' expanded to 'teaching and research ability')](delphi-round-one-indicator-elimination-refinement.md) — related
+- [The article identifies EHR proficiency (weight 0.0757) and crisis intervention ability (weight 0.0199) among the model's critical operational competencies](mobile-nurse-ehr-and-crisis-intervention-weights.md) — related

@@ -51,3 +51,4 @@ Cross-sectional SEM analysis of 1,025 nursing students surveyed via Wenjuanxing 
 - [Emotional intelligence is the strongest predictor of self-directed learning in the regression model](ei-strongest-sdl-predictor.md) — related
 - [Self-directed learning ability is positively associated with perceived clinical competence among nursing students](sdl-associated-with-perceived-clinical-competence-nursing.md) — related
 - [Emotional intelligence correlates positively with self-directed learning among nursing students (r = 0.63)](ei-sdl-positive-correlation-nursing-students.md) — related
+- [Self-directed learning total score correlates weakly but significantly and directly with clinical competence total score among third- and fourth-year nursing students](sdl-weak-significant-direct-correlation-clinical-competence.md) — related

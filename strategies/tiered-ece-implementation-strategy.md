@@ -106,6 +106,10 @@ The authors recommend a sequenced implementation model: "It is recommended to ac
 - [Integrate case-based learning, supervised clinical simulations and e-learning modules aligned with WHO and CDC standards into infection control curricula](integrate-case-based-simulation-elearning-ipc-training.md)
 - [Integrate formal VR education with hands-on clinical experiences in physical therapy curricula](integrate-formal-vr-education-hands-on.md)
 - [Adopt a staged, LMIC-sensitive pathway linking simulation-based preparation to authentic supervised bedside practice, with competency-based progression and EPAs](staged-simulation-to-bedside-pathway-lmic.md)
+- [Integrate AI-based diagnostic analysis into preclinical coursework while keeping AI complementary to instructor-student interaction](ai-diagnostic-training-preclinical-integration.md)
+- [Prioritize competency-based training models integrating VR-based surgical practice and AI-assisted procedural assessments in dental education](competency-based-vr-ai-training-stomatology.md)
+- [Integrate virtual patients into preclinical dental curricula and evaluate with objective outcome measures](integrate-vps-preclinical-dental-curriculum-strategy.md)
+- [Tiered competency training for mobile nurses: simulation-based serious games for junior nurses and crisis-leadership modules for senior nurses](tiered-mobile-nurse-competency-training.md)
 
 ## Examples
 -

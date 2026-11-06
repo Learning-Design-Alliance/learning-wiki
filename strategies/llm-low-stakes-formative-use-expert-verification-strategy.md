@@ -53,6 +53,8 @@ The article recommends that LLM use in foundational biomedical education focus o
 - [Use advanced LLMs as assistive tools in dental education and practice, with comprehensive validation, strict regulation, and human supervision before deployment](llm-assistive-dental-education-strategy.md)
 - [Design human-LLM collaborative systems in which LLMs assist diagnostic reasoning while human experts oversee complex decisions](human-llm-collaborative-diagnostic-reasoning-strategy.md)
 - [Use LLMs as faculty-supervised adjuncts for automated MCQ pretesting and formative feedback](llm-faculty-supervised-mcq-pretesting-feedback.md)
+- [Stratified human oversight and verification safeguards for clinical LLM deployment, scaled to task risk](stratified-human-oversight-clinical-llm-deployment.md)
+- [Integrate generative-AI-vulnerable take-home tasks into supervised or in-class settings and use student-generated MCQs in peer-testing or formative assessment](supervised-settings-and-peer-testing-for-generation-tasks.md)
 
 ## Examples
 -

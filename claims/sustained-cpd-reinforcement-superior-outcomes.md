@@ -51,3 +51,4 @@ Cross-study comparison within the scoping review. The review reports that "susta
 - [Confidence gains after brief RaT workshops do not automatically translate into improved teaching performance](confidence-gains-not-translate-performance.md) — related
 - [SEL can be improved by both short-term targeted interventions and longer-term strategies to improve school contextual factors](sel-improvable-short-and-long-term.md) — related
 - [Regular ISS over longer periods was reported for complex practices and patient outcomes, while one to three sessions were reported effective for more easily defined or isolated tasks](iss-frequency-matches-task-complexity.md) — a narrower finding that bears on this claim
+- [Online learning with certificates and hands-on SDL skills training mutually reinforce each other in CPD.](online-learning-sdl-mutual-reinforcement.md) — related

@@ -48,3 +48,5 @@ Subgroup analysis within the SDTS arm compared self-, peer-, and instructor-feed
 - [SDTS produces post-training OSCE scores in incision and suturing that do not differ significantly from traditional teaching](sdts-equivalent-incision-suturing-osce.md) — related
 - [Traditional teaching outperforms SDTS on the more complex suture removal and dressing change OSCE](traditional-teaching-superior-suture-removal-osce.md) — related
 - [Self-efficacy and performance goal motivation did not change significantly in any of the three groups](no-change-self-efficacy-performance-goal.md) — related
+- [Video-based peer feedback produces higher post-training scores than video-based expert feedback for wound dressing change with suture removal](vpf-superior-wound-dressing-change.md) — related
+- [Both video-based peer feedback and video-based expert feedback significantly improve first-year surgical residents' OSCE performance across three fundamental clinical skills](vpf-vef-significant-pre-post-improvement.md) — related

@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 111 claims (71 show a difference, 24 mixed, 16 no difference) · 70 studies (30 causal, 20 associational, 12 review, 5 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 70 report an effect size · 110 claims rest on one study
+> **Evidence** · 112 claims (72 show a difference, 24 mixed, 16 no difference) · 71 studies (31 causal, 20 associational, 12 review, 5 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 71 report an effect size · 111 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -147,6 +147,7 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [Visuospatial ability showed negligible correlation with illustration scores across all three reference modalities](../claims/no-vz-illustration-score-correlation.md) [-W] — learners who differ on it differ in outcomes
 - [Spatial ability partially mediates the relation between SES and STEM achievement](../claims/spatial-ability-partially-mediates-ses-stem-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [Visuospatial ability was weakly and negligibly associated with bellringer and VR question success, and unrelated to cybersickness](../claims/mrt-negligible-association-br-success.md) [~M] — learners who differ on it differ in outcomes
+- [Cognitive activity training produced significant interaction effects in LOTCA subdomains of spatial perception, praxis, visual-motor organization, thinking processes, and attention](../claims/cat-mixed-anova-lotca-subdomains.md) [+W] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

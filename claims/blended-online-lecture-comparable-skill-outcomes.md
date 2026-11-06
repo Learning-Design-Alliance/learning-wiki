@@ -49,3 +49,4 @@ Authors' discussion of the skill assessment in the three-group quasi-experiment:
 - [Adding simulation to online patient-safety training improved nursing students' patient safety competency, but adding classroom teaching to clinical simulation did not further improve teamwork attitudes](blended-simulation-versus-simulation-alone-mixed.md) — related
 - [The periodontal endoscopy-assisted in-person group outperformed the other two groups on operative skill assessment, driven by calculus removal](pe-inperson-higher-skill-calculus-removal.md) — related
 - [Both periodontal endoscopy-assisted groups rated the teaching method significantly higher than the traditional group in stimulating interest and confidence in future learning and practice](endoscopy-assisted-teaching-raises-interest-confidence.md) — related
+- [Online learning with certificates and hands-on SDL skills training mutually reinforce each other in CPD.](online-learning-sdl-mutual-reinforcement.md) — related

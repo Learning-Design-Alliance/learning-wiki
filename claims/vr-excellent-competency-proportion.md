@@ -48,3 +48,4 @@ In the final-assessment categorical analysis of the RCT, 8 of 10 VR participants
 - [By week 3 the VR group caught up with the control group with no significant difference in thoracentesis scores](vr-catches-up-by-week-3.md) — related
 - [The RFPETM group had a far larger proportion of students rated excellent (69.77%) on final scores than the TPETM group (4.62%)](rfpetm-excellent-final-score-proportion-69-77-percent.md) — related
 - [VR-based training leads to significantly higher final thoracentesis procedural scores than traditional mannequin-based training in medical interns](vr-training-improves-thoracentesis-final-scores.md) — a broader claim this one bears on
+- [A higher proportion of students reached the excellent performance level with the feedback-equipped device than without it](feedback-device-more-excellent-level-cpr.md) — related

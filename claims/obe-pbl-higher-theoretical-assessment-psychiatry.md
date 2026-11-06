@@ -54,3 +54,5 @@ Controlled comparison of 43 fifth-year psychiatry interns, 22 in the OBE-PBL Stu
 - [Integrated clinical pathway and case-based teaching yields higher post-training theoretical examination scores than traditional teaching in endocrinology residency](clinical-pathway-cbt-higher-theoretical-scores.md) — related
 - [Residents trained with DwGJ-integrated CBL scored higher on the post-course theoretical examination than residents receiving conventional CBL](dwgj-cbl-higher-theoretical-exam-scores.md) — related
 - [Eight new teaching methods (PBL + CBL, PBL + CP, CBL + WeChat, PBL + WeChat, TBL, PBL, PBL + EBM, CBL) each significantly outperform LBL on residents' theoretical scores](new-methods-outperform-lbl-theoretical-scores.md) — related
+- [PBL teaching produced significantly higher post-test assessment scores than traditional teaching among nursing interns (P = 0.006)](pbl-higher-post-test-assessment-scores-nursing-interns.md) — related
+- [SOM-PBL yields significantly higher theoretical examination scores than traditional lecture-based teaching in ICU clerkships (Cohen's d = 0.455)](som-pbl-higher-theoretical-knowledge-scores.md) — related

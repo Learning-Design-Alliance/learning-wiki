@@ -58,3 +58,5 @@ Within-group before-to-after score gains in the same assessor-blinded RCT of 50 
 - [Mean clinical decision-making scores increased pre to post in both groups, with the intervention group scoring higher at posttest (52.24 vs 48.09).](atls-simulation-prepost-score-gains-intervention-vs-control.md) — related
 - [PBL combined with 3D-VRT produced higher written examination scores than traditional teaching in trauma orthopaedics education](pbl-3d-vrt-higher-written-exam-scores-trauma-orthopaedics.md) — related
 - [Structured reflective sessions significantly improve theoretical knowledge (MCQ) scores of operating room technology students compared with controls](reflective-sessions-improve-mcq-knowledge-or-students.md) — related
+- [Blended MOOC-virtual simulation teaching produces higher Structured Clinical Skills Assessment scores than traditional teaching](mooc-virtual-simulation-higher-clinical-skills-assessment-scores.md) — related
+- [Self-reflection prompts do not improve self-reported confidence or self-efficacy despite observed skill gains](self-reflection-no-gain-self-reported-confidence-efficacy.md) — related

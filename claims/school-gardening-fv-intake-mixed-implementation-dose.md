@@ -52,3 +52,4 @@ UK cluster-RCT (Christian et al., mean age 8.1 years, 18-month follow-up) with n
 - [The TX Sprouts gardening-cooking-nutrition cluster-randomized trial improved diet quality, including the HEI-2015 Total Vegetables component and protein share, versus controls](tx-sprouts-improved-diet-quality-components.md) — related
 - [Experiential learning activities improve children's knowledge, attitudes, and behaviors towards healthy eating](experiential-learning-improves-children-healthy-eating-outcomes.md) — related
 - [Experiential learning approaches (school/community gardens, cooking, food preparation) produce the largest effects on reducing food consumption and energy intake in primary school children](experiential-learning-largest-effect-food-consumption-energy-intake.md) — related
+- [Residents reported no perceived dietary change after the course, yet reported fruit and vegetable intake increased post-course](diet-change-contradiction-fruit-veg-increase.md) — related

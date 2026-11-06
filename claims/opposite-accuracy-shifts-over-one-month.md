@@ -49,3 +49,5 @@ Descriptive comparison of Table 1 totals across the one-month interval; the arti
 - [CoPilot Pro achieved the highest accuracy rate on periodontology exam questions both on Day-0 (73.6%) and after one month (75.2%)](copilot-pro-highest-accuracy-periodontology-questions.md) — related
 - [GPT-4o mini performed significantly worse than the other three AI chatbots at both time points](gpt-4o-mini-significantly-worse-than-other-chatbots.md) — related
 - [GPT-4o was the most inconsistent chatbot, with 19 questions answered correctly in the first round answered incorrectly in the second](gpt-4o-most-inconsistent-across-rounds.md) — related
+- [Claude, Copilot, and Gemini showed model-specific topic strengths and weaknesses and lower cross-attempt reliability than GPT-4o](claude-copilot-gemini-topic-strengths-reliability.md) — related
+- [GPT-4o showed the highest accuracy (92.9%) on anatomy MCQs, followed by Claude, Copilot, and Gemini](gpt-4o-highest-anatomy-mcq-accuracy.md) — related

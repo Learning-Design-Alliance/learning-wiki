@@ -60,3 +60,4 @@ Narrative synthesis of the main-findings section reporting that peer tutoring "w
 - [Pre-simulation expectations combined high motivation with anxiety, nervousness, self-doubt and insecurity](pre-simulation-expectations-motivation-and-anxiety.md) — related
 - [Clinical simulation is perceived as a safe environment that allows learning from mistakes without risk to patients](simulation-safe-environment-learning-from-errors.md) — related
 - [The near-peer structure of the track was perceived to create a psychologically safe learning environment that facilitated peer teaching.](pedagogical-internship-track-near-peer-safety.md) — related
+- [Teacher empathy reduces student stress and contributes to safe learning environments and engagement](teacher-empathy-stress-engagement-safety.md) — related

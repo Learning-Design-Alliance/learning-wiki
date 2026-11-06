@@ -48,3 +48,4 @@ Multivariable logistic regression using self-reported confidence ratings as pred
 - [Interns recognize high-alarm ECG conditions well (STEMI 85.9%, ventricular fibrillation 84%) but perform poorly on nuanced abnormalities (second-degree block 41.8%)](ecg-pattern-recognition-high-alarm-versus-nuanced.md) — related
 - [Interns with emergency department rotations during clinical years have significantly higher odds of ECG competency (AOR = 3.87)](ed-rotation-clinical-years-predicts-ecg-competency.md) — related
 - [Only 19.1% of Ethiopian medical interns across four institutions meet the ≥80% ECG interpretation competency threshold](ethiopian-interns-low-ecg-competency-19-percent.md) — related
+- [Randomising the presentation order of clinical case 1 attenuated its previously observed special role in predicting ECG interpretation skills](randomised-case-order-attenuates-case1-effect.md) — related

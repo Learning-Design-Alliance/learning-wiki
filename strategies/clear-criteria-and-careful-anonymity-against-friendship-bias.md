@@ -45,6 +45,7 @@ The authors state that friendship bias, such as reticence about giving peers neg
 
 - [Promote interaction between provider and receiver of peer feedback to stimulate elaboration on judgments](promote-provider-receiver-interaction-feedback.md)
 - [Reduce subjectivity in workplace-based assessment through clear rating criteria, reduced performance pressure, and programmatic assessment](reduce-wba-subjectivity-equity-strategies.md)
+- [Use standardized checklists to improve the quality of peer feedback in video-based skill training](standardized-checklists-peer-feedback-quality.md)
 
 ## Examples
 -

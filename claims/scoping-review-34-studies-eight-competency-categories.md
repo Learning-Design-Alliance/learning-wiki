@@ -48,3 +48,4 @@ Systematic search of PubMed, LILACS and Scopus plus snowballing, reported per PR
 ## Related Claims
 - Knowledge management was the most frequently addressed competency (82.35% of included studies) and information and communications technology the least (14.70%) — a narrower finding that bears on this claim
 - The review identifies a significant gap in focused studies on competencies required for AI use in health care — related
+- [Effective clinical professors' characteristics fall into three primary categories: physician knowledge/skills, enthusiasm for medicine and teaching, and positive human characteristics](three-categories-effective-clinical-professors.md) — related

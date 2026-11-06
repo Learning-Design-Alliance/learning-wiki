@@ -74,3 +74,4 @@ Univariate LGCM comparison in the population sample: the quadratic model fit sub
 - [Children with higher initial levels in NRS or CS show slower subsequent linear growth in the same component](negative-intercept-slope-correlations-numeracy.md) — related
 - [The interdependence between numerical relational and counting skills is weaker in at-risk learners](weaker-nrs-cs-interdependence-at-risk.md) — related
 - [Early numeracy shows a two-factor structure (NRS and CS) on the Dutch ENT-3, with the two-factor model outperforming a one-factor model at several time points](two-factor-structure-ent3-nrs-cs.md) — related
+- [Skill growth decelerates over time for all children regardless of disability status, with negative quadratic growth in all seven outcomes](skill-growth-decelerates-over-time.md) — related

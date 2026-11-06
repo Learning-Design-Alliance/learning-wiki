@@ -52,6 +52,7 @@ The review's actionable takeaways include: "Institutionalize enablement: Provide
 
 - [Phased implementation roadmap for departments adopting GenAI personalization](phased-genai-adoption-roadmap.md)
 - [Monitor equity: provision access for all students, audit outputs for bias, and study heterogeneous impacts](monitor-equity-genai.md)
+- [Use measured student expectations of TAs to tailor TA professional development and faculty supervision](student-expectation-surveys-inform-ta-professional-development.md)
 
 ## Examples
 -

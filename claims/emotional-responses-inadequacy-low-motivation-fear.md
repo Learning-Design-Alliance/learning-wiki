@@ -54,3 +54,5 @@ Thematic analysis of interviews with 18 students; table 2 shows 'sense of inadeq
 - [Nursing students experience inadequacy in clinical decision-making as the biggest challenge during clinical practice](inadequacy-clinical-decision-making-biggest-challenge.md) — related
 - [Nursing students report insufficient instructor support as the most fundamental cause of difficulty in clinical practice](insufficient-instructor-support-cause-clinical-difficulty.md) — related
 - [Perceived 'intern bias' from patients and nurses is a reported cause of difficulty in clinical practice](intern-bias-cause-of-difficulty.md) — related
+- [First clinical simulation encounters with standardized patients evoke intense initial emotions in first-year nursing students, chiefly nervousness and fear of error](first-sp-simulation-evokes-intense-initial-emotions.md) — related
+- [Male nursing students felt anxiety and stress during simulation due to cultural, religious and evaluative factors](simulation-anxiety-stress-cultural-evaluative-factors.md) — related

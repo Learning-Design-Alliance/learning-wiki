@@ -54,3 +54,4 @@ Nurse questionnaire response from the thematic analysis on teamwork and shared m
 - [Experienced physicians with extensive multi-port experience report limited perceived learning gains from single-port transition training](prior-expertise-limits-sp-training-gains.md) — related
 - [Healthcare providers' learning experiences during single-port robotic surgery transition training align with Kolb's four-stage experiential learning cycle](sp-transition-training-aligns-kolb-cycle.md) — related
 - [Trained, clearly supervised task sharing yields outcomes comparable to physician-led care for selected tasks while improving access and efficiency](trained-supervised-task-sharing-comparable-outcomes.md) — related
+- [Teamwork is valued as essential in simulated basic-care scenarios, but students experienced coordination and role-definition difficulties, especially at the start](teamwork-valued-but-coordination-difficulties.md) — related

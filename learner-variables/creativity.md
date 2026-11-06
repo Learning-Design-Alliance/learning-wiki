@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 182 claims (140 show a difference, 28 mixed, 14 no difference) · 92 studies (41 causal, 22 associational, 13 review, 8 quant-synthesis, 4 design, 2 qualitative, 2 theoretical), `q1`–`q3` · 19 of 92 report an effect size · 180 claims rest on one study
+> **Evidence** · 183 claims (140 show a difference, 29 mixed, 14 no difference) · 93 studies (42 causal, 22 associational, 13 review, 8 quant-synthesis, 4 design, 2 qualitative, 2 theoretical), `q1`–`q3` · 19 of 93 report an effect size · 181 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -217,6 +217,7 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Creative thinking is positively associated with organizational maturity among knowledge management professionals](../claims/creative-thinking-positively-associated-organizational-maturity.md) [+M] — learners who differ on it differ in outcomes
 - [Divergent thinking positively predicts GPA among medical students in a PBL curriculum (β = 0.25)](../claims/divergent-thinking-predicts-medical-student-gpa.md) [+M] — learners who differ on it differ in outcomes
 - [Experiential learning partially mediates the relationship between creative thinking and organizational maturity](../claims/experiential-learning-partially-mediates-creative-thinking-maturity.md) [+M] — learners who differ on it differ in outcomes
+- [Scores changed significantly across the three observations in both groups, with the experimental group improving and the control group declining over successive observations](../claims/divergent-trajectory-rlc-versus-control-repeated-measures.md) [~W] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

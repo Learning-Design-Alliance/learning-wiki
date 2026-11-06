@@ -68,3 +68,5 @@ Qualitative themes from the same coding process; participants described writing 
 - [Most participants reported that cheat sheets boosted their confidence and efficiency during exams](cheatsheets-boost-confidence-efficiency.md) — related
 - [Self-created cheat sheet users reported significantly longer midterm preparation time than instructor-provided users, but the difference was not significant for the final exam](self-created-cheatsheets-longer-midterm-prep-time-only.md) — related
 - [Cheat sheet type was not significantly associated with exam performance on either exam, though a moderate non-significant trend favoured self-created sheets on the final](cheatsheet-type-no-significant-performance-difference.md) — related
+- [Students' stated reasons for preferring each method clustered into distinct qualitative themes: NT as effective and student-friendly, MCQ creation as interesting, creative and exam-focused](qualitative-themes-nt-mcq-preferences.md) — related
+- [Students strongly preferred note-taking over MCQ creation as a learning-support method when forced to choose one](students-prefer-note-taking-over-mcq.md) — related

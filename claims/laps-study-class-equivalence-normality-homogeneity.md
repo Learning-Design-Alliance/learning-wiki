@@ -64,3 +64,4 @@ Equivalence testing on UAS end-of-semester Introduction to Economics and Busines
 - [Experimental and control groups showed no significant pre-test difference before the intervention](cct-pretest-equivalence.md) — related
 - [Experimental and control groups were equivalent in oral fluency before the intervention](efl-fluency-pretest-group-equivalence.md) — related
 - [Pretest scores showed the two groups were statistically equivalent before the intervention](pretest-equivalence-objectivist-constructivist-groups.md) — related
+- [Prior AI tool use and end-of-semester course scores did not differ between groups, supporting attribution of the score difference to chatbot use](baseline-ai-use-and-course-scores-comparable.md) — related

@@ -55,3 +55,5 @@ Randomized controlled parallel-group study of 30 fourth-year dental students (15
 - [Dental students who train on a VR haptic simulator before artificial-teeth practice score higher on preclinical access cavity preparation and self-assessment than students who practice on artificial teeth first](vr-first-higher-preclinical-dexterity-scores.md) — related
 - [A hybrid CBL-SST-simulator model produces significantly higher clinical thinking scores than lecture-based learning in preclinical endodontics](hybrid-cbl-sst-higher-clinical-thinking-than-lbl.md) — related
 - [The hybrid CBL-SST-simulator model shows no significant difference from lecture-based learning in clinical operational skills](hybrid-cbl-sst-no-difference-clinical-skills.md) — reports the opposite
+- [VR simulator practice produces significantly greater improvement in overall cavity preparation performance than conventional typodont practice alone](vr-simulator-greater-overall-performance-improvement-dental.md) — related
+- [VR simulator practice reduces critical errors in cavity preparation more than conventional practice alone](vr-simulator-reduces-critical-errors-dental.md) — related

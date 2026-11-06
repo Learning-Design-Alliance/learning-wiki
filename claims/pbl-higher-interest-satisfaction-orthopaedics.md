@@ -73,3 +73,4 @@ Meta-analysis of 16 RCTs (N=1380), fixed effects model (I2 =33%). Pooled odds ra
 - [PBL students experience less learning time and higher learning pressure than traditional-teaching students in orthopaedics education](pbl-less-time-higher-pressure-orthopaedics.md) — related
 - [PBL is not superior to traditional teaching for grasping knowledge points and memory ability, but is superior for literature retrieval, expression, learning motivation, thinking and imaging reading in orthopaedics education](pbl-other-outcomes-orthopaedics.md) — related
 - [Student satisfaction favours traditional teaching over PBL methods (pooled MD -0.14), conflicting with the skills and knowledge findings](satisfaction-favours-traditional-teaching.md) — reports the opposite
+- [Nursing interns in the PBL group reported significantly higher teaching satisfaction than the traditional teaching group (P = 0.003)](pbl-higher-teaching-satisfaction-nursing-interns.md) — related

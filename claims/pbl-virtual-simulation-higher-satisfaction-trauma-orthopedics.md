@@ -69,3 +69,5 @@ Same assessor-blinded RCT of 50 clinical medical students. Teaching effectivenes
 - [Intervention students report higher educational satisfaction than controls after structured reflective sessions](reflective-sessions-increase-satisfaction.md) — related
 - [Both groups report similarly high satisfaction with the simulation training, with session duration rated lowest](high-satisfaction-similar-groups-duration-lowest.md) — reports the opposite
 - [Teaching satisfaction is higher among interns taught with OBE-integrated PBL than with lectures](obe-pbl-teaching-satisfaction-psychiatry.md) — related
+- [Blended MOOC-virtual simulation teaching produces higher Structured Clinical Skills Assessment scores than traditional teaching](mooc-virtual-simulation-higher-clinical-skills-assessment-scores.md) — related
+- [Nursing interns in the PBL group reported significantly higher teaching satisfaction than the traditional teaching group (P = 0.003)](pbl-higher-teaching-satisfaction-nursing-interns.md) — related

@@ -47,6 +47,7 @@ The article recommends treating SDL as "a set of learnable competencies rather t
 ## Related Strategies
 
 - [Provide proactive support and curricular structure for students with self-reported learning difficulties and for all students facing SDL overload](scaffolded-structure-for-sdl-bioscience.md)
+- [Add SDL components to nursing curricula and teach SDL skills through training courses, workshops, and problem-based, student-centered methods](sdl-components-and-training-courses-strategy.md)
 
 ## Examples
 -

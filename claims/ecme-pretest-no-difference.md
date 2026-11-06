@@ -66,3 +66,4 @@ Baseline comparison on the 20-item multiple-choice pretest; Table 2 reports t = 
 - [Before the intervention, the two groups did not differ significantly in argumentation, organization, or language use](cwb-pretest-group-equivalence.md) — related
 - [The control and experimental groups did not differ significantly on the pre-test](ocra-groups-equivalent-pretest.md) — possibly the same claim (merge candidate)
 - [Pre-test multiplication facts achievement does not differ significantly between the MFTM and CTM groups](pretest-equivalent-mftm-ctm-groups.md) — possibly the same claim (merge candidate)
+- [The intervention and control groups did not differ significantly in knowledge before the intervention](no-baseline-knowledge-difference-groups.md) — possibly the same claim (merge candidate)

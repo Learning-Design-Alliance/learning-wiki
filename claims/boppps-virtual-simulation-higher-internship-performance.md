@@ -58,3 +58,4 @@ Quasi-experiment with 120 nursing interns (60 per group) comparing BOPPPS plus v
 - [3DIPT-assisted teaching produces higher simulated NMLE anatomical imaging test scores than traditional internship teaching after 6 months](3dipt-higher-simulated-nmle-anatomical-imaging-scores.md) — related
 - [Formative assessment scores did not differ significantly between the BOPPPS-simulation and traditional groups](boppps-formative-assessment-null-difference.md) — related
 - [BOPPPS-plus-scenario-simulation teaching was associated with significantly higher summative assessment and total scores than traditional lecture-based instruction](boppps-simulation-higher-summative-total-scores.md) — related
+- [Blended MOOC-virtual simulation teaching produces higher Structured Clinical Skills Assessment scores than traditional teaching](mooc-virtual-simulation-higher-clinical-skills-assessment-scores.md) — related

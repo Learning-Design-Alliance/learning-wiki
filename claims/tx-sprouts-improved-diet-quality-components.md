@@ -53,3 +53,4 @@ Cluster-randomized TX Sprouts trial (Landry et al., 3-year follow-up per Table 5
 - [School gardening showed large effects on knowledge, preferences, and consumption of fruits and vegetables in primary school children](gardening-large-effects-fruits-vegetables-primary-school.md) — a broader claim this one bears on
 - [Taste-testing showed large effects on behavioral outcomes but was usually combined with other experiential strategies](taste-testing-large-behavioral-effects-usually-combined.md) — related
 - [Experiential learning activities improve children's knowledge, attitudes, and behaviors towards healthy eating](experiential-learning-improves-children-healthy-eating-outcomes.md) — a broader claim this one bears on
+- [Residents reported no perceived dietary change after the course, yet reported fruit and vegetable intake increased post-course](diet-change-contradiction-fruit-veg-increase.md) — related

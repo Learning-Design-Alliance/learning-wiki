@@ -67,3 +67,4 @@ Primary outcome domains B and E in the within-participants comparison of 20 stud
 - [VR safety training for hazard identification significantly outperforms traditional methods for reinforced concrete and stone cladding tasks](vr-hazard-training-outperforms-traditional-methods.md) — reports the opposite
 - [Preceding worked-example demonstrations do not significantly impact perceptions of educational technology usability](worked-example-demonstrations-no-usability-impact.md) — related
 - [Simulation-based teaching produces higher post-intervention technical skill scores and success rates for blood-sampling procedures than traditional teaching](simulation-higher-technical-skills-success-rates.md) — reports the opposite
+- [Medical students using a virtual simulation experiment system achieved higher operational skill scores than students taught by traditional laboratory methods](vse-higher-operational-skill-scores.md) — reports the opposite

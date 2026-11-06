@@ -48,3 +48,4 @@ Randomized comparison of 98 two-distractor and 100 three-distractor MCQs from se
 - [No variable emerged as an independent predictor of composite high-quality (preferred) MCQ status, though absence of low-functioning distractors showed a trend](no-independent-predictors-preferred-questions.md) — related
 - [Two-distractor items were more frequently left unanswered by more than 10% of students, a difference that did not reach statistical significance](two-distractor-items-more-unanswered-nonsignificant.md) — related
 - [Two-distractor MCQs contain fewer item-writing flaws and more frequently have all distractors functional compared with three-distractor MCQs](two-distractor-items-fewer-flaws-more-functional.md) — related
+- [The study’s histology MCQ test was of optimal quality, with an average difficulty index of 56% and an average discriminative index of 0.68](histology-mcq-test-quality-indices.md) — related

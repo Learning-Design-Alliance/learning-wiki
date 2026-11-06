@@ -48,3 +48,4 @@ Descriptive statistics from the combined dataset of 44 students across both inst
 - [Dental students hold overall positive perceptions of simulation-based learning in oral radiology, with a combined mean of 4.27 on a 5-point Likert scale](dental-students-positive-perceptions-sbl-oral-radiology.md) — a broader claim this one bears on
 - [No statistically significant gender differences were found in students' perceptions of SBL in oral radiology](no-gender-differences-sbl-perceptions-oral-radiology.md) — related
 - [Nursing students express positive perception of preclinical maternity simulation sessions, with objectives and information rated highest and fidelity/realism rated lowest](positive-perception-preclinical-maternity-simulation.md) — related
+- [First-year nursing students reported moderate-to-high readiness for clinical practice, highest for recognition of the practice area](readiness-moderate-high-recognition-area-highest.md) — related

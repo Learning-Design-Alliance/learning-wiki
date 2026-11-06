@@ -72,3 +72,4 @@ Co-occurrence analysis of negative-discrimination items and distractor red flags
 - [GenAI-assisted items showed weaker corrected point-biserial discrimination and more negative discrimination than educator-crafted items](genai-mcq-weaker-discrimination.md) — related
 - [Participants scored significantly lower on human-edited GenAI-assisted MCQs than on educator-crafted MCQs, indicating GenAI-assisted items were not easier](genai-mcq-lower-total-scores.md) — related
 - [Factual MCQs are significantly more likely to be easy than clinical case-based MCQs, and absence of low-functioning distractors is inversely associated with item ease](factual-questions-easier-lfd-absence-inverse-ease.md) — related
+- [The study’s histology MCQ test was of optimal quality, with an average difficulty index of 56% and an average discriminative index of 0.68](histology-mcq-test-quality-indices.md) — related

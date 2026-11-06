@@ -53,3 +53,4 @@ Randomized pilot study of 74 fourth-year medical students (37 per group) at a si
 - [PBL-FC students achieve higher ophthalmology theoretical examination scores than traditionally taught students](pbl-fc-higher-exam-scores.md) — related
 - [Fourth-year medical students in a workplace-based learning program with mini-CEX and DOPS achieve higher MCQ knowledge scores than standard-clerkship peers](wblp-mini-cex-dops-higher-mcq-scores.md) — related
 - [Anesthesiology trainees taught with a DeepSeek-based AI teaching assistant on top of traditional teaching achieved significantly higher immediate theoretical test scores than those taught by traditional teaching alone](deepseek-assistant-higher-immediate-anesthesia-theory-scores.md) — related
+- [SOM-PBL yields significantly higher theoretical examination scores than traditional lecture-based teaching in ICU clerkships (Cohen's d = 0.455)](som-pbl-higher-theoretical-knowledge-scores.md) — related

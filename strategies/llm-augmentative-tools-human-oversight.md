@@ -49,6 +49,7 @@ Based on persistent clinical reasoning and prioritization limitations, the artic
 - [Use LLMs in medical education as support tools requiring human review, not as independent decision-makers or authoritative instructors](llms-as-support-tools-medical-education.md)
 - [Use LLMs as supportive educational tools and complements, not replacements, in medical education](llms-as-supportive-tools-not-replacements-medical-education.md)
 - [Use high-performance LLMs as supportive tools in medical education for feedback and learning-process optimization, pending image-based validation](llms-supportive-tools-medical-education-feedback.md)
+- [Use AI chatbots as supportive, non-autonomous supplements in dental education and practice, with expert oversight](ai-as-supplementary-non-autonomous-dental-tool.md)
 
 ## Examples
 -

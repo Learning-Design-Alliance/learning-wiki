@@ -61,3 +61,4 @@ Questionnaire analysis of problematic aspects, summarized in Table 3 with counts
 - [The main concern in all critical evaluations was the veracity of ChatGPT-provided references, which often do not exist](chatgpt-references-often-do-not-exist.md) — related
 - [Implementation constraints identified were factual accuracy and content drift, culturally narrow outputs, prompt fatigue, and data privacy concerns](gpt-implementation-constraints-ite.md) — a narrower finding that bears on this claim
 - [AI responses do not consistently identify missing clinical information in incomplete student prompts](ai-does-not-identify-missing-prompt-information.md) — related
+- [85% of students used LLMs for post-class case generation practice but raised concerns about content accuracy and difficulty calibration](post-class-llm-practice-student-concerns.md) — related

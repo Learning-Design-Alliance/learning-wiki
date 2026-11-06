@@ -47,3 +47,4 @@ Stakeholder consensus finding from the Delphi results: IWLC reported that overex
 ## Related Claims
 - [Stakeholders diverged on treatment emphasis: PCPs prioritized pharmacological strategies more than individuals with Long COVID, who emphasized non-pharmacological approaches and PEM precautions](pcp-iwlc-divergence-pharmacologic-treatment-priorities.md) — related
 - [Recognizing both common and atypical symptom presentations emerged as a core competency, with IWLC emphasizing being believed and not having symptoms dismissed](symptom-recognition-validation-core-competency.md) — related
+- [Physiotherapists in both e-learning groups wanted concrete examples of exercise therapy despite the interventions' message that no one-size-fits-all exercise exists](both-groups-want-concrete-exercise-examples.md) — related

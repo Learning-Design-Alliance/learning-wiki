@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 423 claims (243 for, 155 mixed, 25 against) · 262 studies (97 causal, 77 review, 39 quant-synthesis, 21 design, 19 qualitative, 8 theoretical, 1 associational), `q1`–`q4` · 54 of 262 report an effect size · 418 claims rest on one study
+> **Evidence** · 426 claims (246 for, 155 mixed, 25 against) · 264 studies (98 causal, 77 review, 39 quant-synthesis, 21 design, 20 qualitative, 8 theoretical, 1 associational), `q1`–`q4` · 54 of 264 report an effect size · 421 claims rest on one study
 
 ## Conditional relationship
 
@@ -421,6 +421,9 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [After a single 90-minute training session, novices trained on a high-fidelity VR arthroscopy simulator show no significant skill-acquisition advantage over novices trained on a low-fidelity benchtop simulator](../claims/single-session-no-fidelity-skill-acquisition-difference-arthroscopy.md) [~W] — attached 2026-11-05 from Kutsuna Tatsuhiko et al. (2025), which proposed "Use high-fidelity simulation to enhance novice trainee satisfaction and motivation even when it does not outperform low-fidelity simulation for short-term skill acquisition".
 - [Students rate RCDP higher than SWSP on the Simulation Design Scale overall, including the support and problem-solving factors](../claims/rcdp-higher-simulation-design-scale.md) [+W] — attached 2026-11-05 from da Silva Gisele Cabral et al. (2025), which proposed "Use active simulation methodologies, including RCDP, in nursing education, weighing RCDP's engagement and design advantages in curricular decisions".
 - [Repeated practice in a case-based VR suture simulation significantly improved stomatology undergraduates' item and total scores from formative to final test](../claims/vr-facial-wound-suture-score-improvement.md) [+W] — attached 2026-11-05 from Zhang Yan et al. (2025), which proposed "Use case-based VR simulation as preclinical training to build skills and confidence while conserving training resources"; tests this page's relationship.
+- [Medical students using a virtual simulation experiment system achieved higher operational skill scores than students taught by traditional laboratory methods](../claims/vse-higher-operational-skill-scores.md) [+W] — attached 2026-11-06 from Li Kaiyue et al. (2025), which proposed "Design virtual simulation systems for motivation and usability, not just content fidelity"; tests this page's relationship.
+- [VSE students reported higher experimental interest, confidence, and willingness to participate than traditionally taught students](../claims/vse-higher-motivation-engagement.md) [+W] — attached 2026-11-06 from Li Kaiyue et al. (2025), which proposed "Design virtual simulation systems for motivation and usability, not just content fidelity".
+- [Navigational and interactional challenges in VR, such as unintended teleportation and difficulty triggering the capillary refill animation, broke fidelity and shifted attention away from learning objectives](../claims/vr-fidelity-breakers-shift-attention.md) [+W] — attached 2026-11-06 from Loeb Daniel et al. (2025), which proposed "Align simulation modality with learning objectives: use VR for clinical assessment and cognitive objectives, and complementary modalities for hands-on skill development".
 
 ## Objective and learner-valued goal
 

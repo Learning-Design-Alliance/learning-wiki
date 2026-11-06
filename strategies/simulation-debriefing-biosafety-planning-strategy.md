@@ -17,7 +17,7 @@ sources:
 # Incorporate clinical simulation with structured debriefing into nursing education planning for biosafety and emotional management
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 2 studies (2 qualitative), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The authors recommend that nurse educators incorporate simulation activities combined with structured debriefing sessions into educational planning to promote critical reflection on biosafety practices and emotional management. Simulation should integrate technical and relational dimensions, with scenarios designed around realistic clinical cases such as pneumonia and pyelonephritis with biological exposure risks.

@@ -48,7 +48,7 @@ sources:
 # Sequencing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 50 claims (25 for, 24 mixed, 1 against) · 45 studies (17 causal, 10 review, 10 theoretical, 3 associational, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 5 of 45 report an effect size · 46 claims rest on one study
+> **Evidence** · 51 claims (26 for, 24 mixed, 1 against) · 46 studies (18 causal, 10 review, 10 theoretical, 3 associational, 2 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 5 of 46 report an effect size · 47 claims rest on one study
 
 ## Conditional relationship
 
@@ -178,6 +178,7 @@ Claims this page cites that bear on it only indirectly. Every other claim the ea
 - [In-between explaining triggered more monitoring of knowledge gaps than after-study explaining (Experiment 1)](../claims/in-between-explaining-increases-monitoring-activities.md) [+M] — attached 2026-10-23 from Lachner et al. (2020), which proposed "Prepone explaining to between study phases when designing learning environments".
 - [A structured microskill stepwise progression model improves end-of-rotation tooth extraction competence compared with traditional apprenticeship-based teaching.](../claims/microskill-stepwise-progression-improves-tooth-extraction-competence.md) [+M] — attached 2026-11-04 from Wu Zongxi et al. (2026), which proposed "Nine-stage deconstruction of tooth extraction into sequential microskills of increasing complexity"; tests this page's relationship.
 - [Reinforcement-learning sequencing policies beat baseline sequencing in about half of controlled studies, mostly in constrained tasks and against weak baselines](../claims/rl-sequencing-policies-beat-baselines-in-constrained-tasks.md) [~M] — attached 2026-11-05 from Doroudi, Aleven & Brunskill (2019), a review of data-driven adaptive ordering; it bears on whether an order learned from data beats a designed one, and for interdependent content no reviewed study found that it did.
+- [Randomising the presentation order of clinical case 1 attenuated its previously observed special role in predicting ECG interpretation skills](../claims/randomised-case-order-attenuates-case1-effect.md) [+W] — attached 2026-11-06 from Scherff Aline D. et al. (2025), which proposed "Sequence ECG training materials deliberately, placing critical content early because a strong start in the training session plays a key role in skill improvements"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

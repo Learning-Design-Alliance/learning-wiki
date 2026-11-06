@@ -70,3 +70,4 @@ Tutee interview data in the hesitancy and emotional issues subtheme; participant
 - [Pre-simulation expectations combined high motivation with anxiety, nervousness, self-doubt and insecurity](pre-simulation-expectations-motivation-and-anxiety.md) — related
 - [Tutees in the program reported improvements in study methods, time management, motivation, and confidence, with high satisfaction and willingness to recommend](tutee-descriptive-survey-improvements.md) — related
 - [Students experience anxiety and nervousness during simulation but recognize emotional regulation as central to safe patient interaction](simulation-emotional-regulation-anxiety.md) — related
+- [Students' emotions evolve positively across simulation-based experience, from initial nervousness toward calm, control, and self-confidence](positive-emotional-evolution-across-simulation.md) — related

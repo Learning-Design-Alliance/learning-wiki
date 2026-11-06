@@ -18,7 +18,7 @@ sources:
 # TPACK (Technological Pedagogical Content Knowledge)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 41 claims (19 for, 19 mixed, 3 against) · 24 studies (6 causal, 6 associational, 4 design, 3 theoretical, 2 review, 2 qualitative, 1 quant-synthesis), `q1`–`q3` · 6 of 24 report an effect size · 41 claims rest on one study
+> **Evidence** · 42 claims (19 for, 20 mixed, 3 against) · 25 studies (7 associational, 6 causal, 4 design, 3 theoretical, 2 review, 2 qualitative, 1 quant-synthesis), `q1`–`q3` · 6 of 25 report an effect size · 42 claims rest on one study
 
 ## Description
 TPACK ([Koehler & Mishra, 2009](https://edtechbooks.org/lidtfoundations/tpack)) extends Shulman's concept of Pedagogical Content Knowledge (PCK) — the specialized knowledge of how to teach a particular subject — by adding technology as a third interacting knowledge domain. Teaching with technology is treated as an ill-structured problem: there is no single best way to integrate a given technology into a curriculum, because content, pedagogy, and technology constrain and reshape one another differently in every classroom context.
@@ -93,6 +93,7 @@ TPACK is not additive — a teacher cannot be TPACK-competent by separately mast
 - [Blended learning professional development produces significantly higher gain means in ICT knowledge (TK, TPK, TCK, TPACK) than traditional training for in-service science teachers](../claims/blended-pd-higher-tpack-gains-than-traditional.md) [+W] — attached 2026-11-01 from Qasem & Viswanathappa (2016), which proposed "TPACK framework as an integrative model of teacher knowledge for technology integration".
 - [TPACK-based education applications raise prospective science teachers' self-efficacy belief levels toward science education more than the current curriculum after a 14-week course](../claims/tpack-applications-raise-prospective-teacher-science-self-efficacy.md) [+W] — attached 2026-11-01 from Onder Sensoy (2018), which proposed "Technological Pedagogical Content Knowledge (TPACK) as the intersection of pedagogy, content and technology".
 - [Teacher experience and STEM major predict content knowledge but not implementation of the intervention](../claims/teacher-characteristics-predict-knowledge-not-implementation.md) [~W]
+- [Growth mindset buffers the negative effects of technostress on both CIT and TPACK, more strongly for TPACK](../claims/growth-mindset-moderates-technostress-cit-tpack.md) [~W] — attached 2026-11-06 from Su Wenhao et al. (2025), which proposed "Integrated moderated mediation framework combining TPACK, the Iceberg Competency Model, and Implicit Theories to explain CIT under technostress".
 
 ## The evidence by question
 

@@ -59,3 +59,4 @@ Pre-experiment questionnaire of the main study's fifteen undergraduate computing
 - [Girls made significantly fewer hint requests, fewer attempts per problem, and fewer bottom-out hint requests than boys while doing online homework](girls-fewer-hint-requests-attempts-assistments.md) — related
 - [Willingness to attempt US-guided cannulation before calling for help increased from 7.5 to 10 after training](us-training-willingness-7-5-to-10.md) — related
 - [Pilot students were unaware of the scoring system and hint point-deductions, and requested transparent scoring and immediate feedback](escape-room-scoring-opacity-frustration.md) — related
+- [Students perceived flipped learning as increasing learning independence, including resource-seeking and time management](fl-increased-learning-independence-nursing.md) — related

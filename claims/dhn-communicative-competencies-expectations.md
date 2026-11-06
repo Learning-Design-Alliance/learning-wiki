@@ -50,3 +50,4 @@ Qualitative content analysis of interviews and focus groups (35 participants). I
 - [Stakeholders expect DHNs to understand data protection and communicate data handling clearly to patients to foster trust in mental health care](dhn-data-protection-communication-expectations.md) — related
 - [Stakeholders favor DHNs integrated into the existing clinical team, most often medical assistants or similar groups, but flag workload and training constraints](dhn-team-integration-occupational-background.md) — related
 - [Stakeholders expect DHNs to have fundamental digital skills, knowledge of available DTx, and the ability to convey digital knowledge to patients](dhn-technical-digital-skills-expectations.md) — related
+- [Communication is the competence that enables teachers to convey all other competences to their students, with nonverbal communication considered more effective than verbal](communication-conveys-other-competencies.md) — related

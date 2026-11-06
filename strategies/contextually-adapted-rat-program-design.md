@@ -52,6 +52,8 @@ This strategy addresses the review's geographic-gap finding: Western-designed Ra
 - [Adapt an existing European or global competency framework to national needs rather than developing one de novo](adapt-existing-competency-framework-to-national-needs.md)
 - [Local adaptation of the framework across diverse contexts](pat-framework-local-adaptation.md)
 - [Adapt and tailor the triage simulation across program stages, modalities, and cohort needs](adapt-tailor-triage-simulation-blueprint.md)
+- [Contextualise international digital-health competency frameworks for India and deliver them through modularised blended learning for working professionals](contextualised-blended-competency-frameworks-india.md)
+- [Set a region-specific proficiency score based on local expert performance when adapting a validated simulation for a new training context](region-specific-proficiency-score-local-experts.md)
 
 ## Examples
 -

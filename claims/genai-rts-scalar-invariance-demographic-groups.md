@@ -52,3 +52,4 @@ Multigroup confirmatory models tested configural, metric, and scalar invariance 
 - [GenAI-RTS subscale reliability is acceptable to good (ω = .75–.88)](genai-rts-subscale-reliability-acceptable.md) — related
 - [The GenAI-RTS is supported by a five-factor structure in which Strategic reliance comprises Deliberate Use and Critical Evaluation facets alongside Instrumental, Dependent, and Dialogic factors](genai-rts-five-factor-structure-supported.md) — related
 - [Multigroup CFA supports configural and loading invariance across gender groups, but scalar and strict invariance could not be evaluated conclusively](multigroup-cfa-gender-invariance-partial.md) — related
+- [Measurement invariance across test and questionnaire versions held at least at metric level, allowing versions to be combined in one analysis](measurement-invariance-test-versions.md) — related

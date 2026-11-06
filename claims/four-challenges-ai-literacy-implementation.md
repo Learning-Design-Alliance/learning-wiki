@@ -55,3 +55,4 @@ This is the briefs' own enumerated challenge list, presented as expert synthesis
 - [Qualitative findings identified plagiarism, student overreliance on AI, and a barrier of reconciling institutional policy gaps with personal ethical values](qualitative-genai-challenges-policy-gap-barrier.md) — related
 - [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related
 - [Implementing collaborative argumentation is challenged by time constraints, curriculum fit, teacher training, and system-level support](argumentation-implementation-challenges.md) — related
+- [Hospital administrators face both controllable challenges (cost, data security, EMR implementation) and uncontrollable challenges (technology and management acceptance) in using HIT](ha-hit-challenges-controllable-uncontrollable.md) — related

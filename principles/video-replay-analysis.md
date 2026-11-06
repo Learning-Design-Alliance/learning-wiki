@@ -30,7 +30,7 @@ sources:
 # Video Replay Analysis
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (23 for, 12 mixed) · 35 studies (10 qualitative, 6 quant-synthesis, 6 review, 5 causal, 3 design, 3 theoretical, 2 associational), `q1`–`q4` · 6 of 35 report an effect size · 31 claims rest on one study
+> **Evidence** · 36 claims (24 for, 12 mixed) · 36 studies (10 qualitative, 6 causal, 6 quant-synthesis, 6 review, 3 design, 3 theoretical, 2 associational), `q1`–`q4` · 6 of 36 report an effect size · 32 claims rest on one study
 
 ## Conditional relationship
 
@@ -140,6 +140,7 @@ Claims this page cited before it was rewritten, or found in the search, that bea
 - [Personalised video-assisted feedback improves selected simulation-based learning subdimensions: nursing process, patient safety and reflective behaviour](../claims/personalised-video-feedback-improves-nursing-process-safety-reflection.md) [+W] — attached 2026-11-04 from Gökduman Keleş Mine; Göçmez Sema (2026), which proposed "Integrate personalised video-assisted feedback into simulation-based education as a reinforcement strategy"; tests this page's relationship.
 - [Personalised video-assisted feedback does not significantly improve theoretical knowledge scores compared to structured self-debriefing](../claims/personalised-video-feedback-knowledge-not-significant.md) [~W] — attached 2026-11-04 from Gökduman Keleş Mine; Göçmez Sema (2026), which proposed "Integrate personalised video-assisted feedback into simulation-based education as a reinforcement strategy".
 - [Gaze-overlay review during debriefing revealed residents' failures to verify critical information, indicating projection and comprehension failures](../claims/gaze-overlay-debriefing-reveals-sa-failures.md) [+W] — attached 2026-11-05 from Carolina Daza-Beltrán et al. (2026), which proposed "Use eye-tracking data as a prompt for guided reflection rather than as a standalone evaluative metric in formative situation awareness assessment".
+- [Medical interns trained with video feedback workshops significantly outperformed those trained with group discussion on post-intervention patient education performance](../claims/vfb-outperforms-gd-patient-education-osler.md) [+W] — attached 2026-11-06 from Managheb Seyed Esmaeil et al. (2025), which proposed "Incorporate video feedback into standard medical curricula, especially for patient communication and education training"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

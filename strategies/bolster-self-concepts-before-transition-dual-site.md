@@ -51,6 +51,7 @@ The article recommends strengthening academic self-concepts before children star
 ## Related Strategies
 
 - [Integrate family and school contexts in interventions and promote adolescent academic self-regulation to support the high school transition](cross-context-family-school-asr-interventions.md)
+- [Coordinated teacher–parent support practices to strengthen self-efficacy, buoyancy, and mathematics performance](coordinated-teacher-parent-support-math.md)
 
 ## Examples
 -

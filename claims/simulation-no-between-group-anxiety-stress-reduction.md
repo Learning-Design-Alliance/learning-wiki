@@ -69,3 +69,5 @@ Within-group paired comparisons in the experimental group from T1 to T2 on STAI-
 ## Related Claims
 - [VR/haptics intravenous simulator training reduced state anxiety in all groups with no significant group differences](vr-haptics-iv-simulator-anxiety-no-group-difference.md) — related
 - [No statistically significant between-group difference in posttest total self-confidence or perceived stress after high-fidelity simulation versus theoretical instruction](hfs-no-posttest-between-group-difference-confidence-stress.md) — possibly the same claim (merge candidate)
+- [In one pre-post study, STAI-6 anxiety scores fell from pre-test to post-test in the medical sector but did not significantly change in the nursing sector; self-reported readiness to identify and manage neurological emergencies rose from pre-test to post-test in both sectors](sbme-anxiety-reduction-medical-not-nursing-sector.md) — related
+- [Simulation-based training reduces self-reported anxiety among novice neurology trainees measured by both a general VAS scale and the STAI-6](sbme-reduces-anxiety-neurology-trainees.md) — reports the opposite

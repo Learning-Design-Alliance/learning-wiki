@@ -1,0 +1,55 @@
+---
+type: claim
+title: Medical students taught histology with a flipped-classroom blended model scored significantly higher on the end-of-course exam than students taught conventionally in a randomized trial
+description: Medical students taught histology with a flipped-classroom blended model scored significantly higher on the end-of-course exam than students taught conventionally in a randomized trial
+id: flipped-classroom-higher-histology-exam-scores
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-06
+evidence_strength: moderate
+newest_evidence: 2025
+sources:
+  - id: pour-mitra-barzroodi-2025
+    resource: "https://doi.org/10.1186/s12909-025-08065-y"
+    title: "Pour Mitra Barzroodi, Azizi Seyyed Mohsen, Bayat Mohamad. (2025). Flipped classroom-based blended learning in histology education: investigating the effectiveness of applying a new approach to improve medical students’ learning. BMC Medical Education 25. https://doi.org/10.1186/s12909-025-08065-y"
+    author: Pour Mitra Barzroodi, Azizi Seyyed Mohsen, Bayat Mohamad
+    q: 3
+    i: "?"
+    kind: causal
+    rigour: 2
+---
+
+# Medical students taught histology with a flipped-classroom blended model scored significantly higher on the end-of-course exam than students taught conventionally in a randomized trial
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · causal `r2` · `q3`
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q3 i?` In a randomized educational trial, the flipped-classroom blended learning group scored higher than the conventional teaching group on the histology end-of-course exam, a statistically significant difference. [→ Pour Mitra Barzroodi 2025](#pour-mitra-barzroodi-2025)
+
+## Evidence
+
+### Pour Mitra Barzroodi 2025
+
+Pour Mitra Barzroodi, Azizi Seyyed Mohsen, Bayat Mohamad. (2025). Flipped classroom-based blended learning in histology education: investigating the effectiveness of applying a new approach to improve medical students’ learning. BMC Medical Education 25. https://doi.org/10.1186/s12909-025-08065-y
+
+`q3 · i?` · `causal · r2`
+
+Randomized educational trial (permuted block randomization, CONSORT) with 120 medical students in two groups of 60; an independent groups t-test on end-of-semester MCQ exam scores (score range 0–20) showed a mean difference of "−3.15 in the average scores between the two groups" favouring the flipped group.
+
+> "The test results indicated that the average score of the control group students was 13.28 ± 1.67, while the average score of the intervention group students was 16.43 ± 1.02, resulting in a difference of −3.15 in the average scores between the two groups."
+
+## Discussion
+
+
+## Related Claims
+- [A blended flipped classroom produced statistically significantly higher post-test scores than traditional teaching in one included histology study (p < 0.0001)](blended-flipped-classroom-higher-posttest-scores.md) — possibly the same claim (merge candidate)
+- [Cohorts taught with the flipped classroom earned significantly higher average grades than earlier cohorts taught traditionally, in a non-equivalent-groups comparison](flipped-classroom-higher-grades-than-traditional.md) — related
+- [Integrated online-PBL-CBL teaching yields higher total theoretical examination scores than traditional lecture-based teaching in breast surgery education](online-pbl-cbl-higher-theoretical-exam-scores-breast-surgery.md) — related
+- [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — related
+- [Medical students in an integrated histology course scored significantly higher on the end-of-semester exam than non-participants taught traditionally](integrated-histology-higher-test-scores.md) — related
+- [Medical students taught under the reformed biochemistry model (stomatology cohorts) earned significantly higher final-exam grades than traditionally taught peers (clinical medicine cohorts) across 2020–2022, with mean differences of 2.76–3.92 points](biochem-reform-higher-exam-scores-three-cohorts.md) — related
+- [Both e-lecturing and eHistoLab instruction significantly improved histology knowledge from pre-test to post-test](both-methods-improved-histology-knowledge.md) — related
+- [MOOC-HFS blended internship improves academic performance across all assessments compared to traditional teaching](mooc-hfs-blended-improves-academic-performance.md) — related

@@ -48,3 +48,4 @@ Comparison of Q1 (n=72) and Q2 (n=90) quiz scores among intervention-group stude
 - [Students with access to online cadaveric image repositories achieve significantly higher practical exam scores than controls in the image-covered regions](online-cadaveric-images-improve-practical-exam-performance.md) — related
 - [Students strongly endorse online anatomical image repositories and quizzes as learning aids](student-satisfaction-anatomical-image-repository.md) — related
 - [Engagement with online quizzes is associated with higher practical exam scores](quiz-engagement-linked-to-practical-exam.md) — related
+- [The open-access online RUSH course significantly improved formative quiz knowledge scores from a median of 60.0 to 86.7 (p < 0.001, effect size −0.949)](rush-mooc-knowledge-gain.md) — related

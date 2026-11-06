@@ -52,3 +52,4 @@ Inductive thematic analysis of semi-structured interviews with experimental-cond
 - [Teachers used student perception data to shift lesson design, modify norms, and target personalized intervention, but heavy workload inhibited data integration](perception-data-use-and-workload-barrier.md) — related
 - [Teacher interviews indicate the intervention may work partly through improved classroom management, efficient lesson planning, and PLC-supported collaborative discussion](interview-mechanisms-management-planning-plc.md) — related
 - [Teachers perceive multiple general benefits of multi-teacher collaboration for PVE delivery, including motivation, integration, guidance recording, time efficiency, and skills training](teacher-perceived-benefits-pve-collaboration.md) — related
+- [Students reported implementation challenges with flipped learning: technical difficulties, workload, and deadlines](fl-implementation-challenges-technical-workload-deadlines.md) — related

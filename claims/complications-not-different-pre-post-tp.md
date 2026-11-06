@@ -50,3 +50,4 @@ Null comparison of puncture-related complications (local hematoma, one vasospasm
 - [Overall complication rates do not differ significantly between late and early hip arthroscopy experience phases](hip-arthroscopy-complications-no-experience-difference.md) — related
 - [Pooled mean CUSUM analysis identifies a turning point of 20 procedures for US-guided distal radial artery cannulation by novice anesthesiologists](cusum-turning-point-20-procedures-dra-cannulation.md) — related
 - [First-attempt success rate improves from 51.7% in the learning phase to 80.0% in the proficiency phase](first-attempt-success-improves-post-tp.md) — related
+- [In one uncontrolled pre-post study, neurological complication rates fell from 3.2% before to 1.0% after CDHT, and allergic reaction rates fell from 4.3% to 3.2%; neither change was statistically significant](cdht-no-safety-compromise-neurologic-allergic.md) — related

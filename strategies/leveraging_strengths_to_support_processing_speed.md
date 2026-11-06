@@ -64,6 +64,7 @@ Processing speed shares substantial variance with working memory and fluid reaso
 - [Accessible Syntax](accessible_syntax.md) — reduces the decoding and parsing load that compounds slow intake
 - [Support youth with confirmed slow processing speed through acceptance, advocacy, accommodations, extended time, time-management teaching, and assistive technology](accommodations-extended-time-assistive-tech-slow-ps.md)
 - [Teach mathematical processes before task-analysis skills, using sensory stimuli and strengths/weaknesses analysis](teach-processes-before-task-analysis-sensory-stimuli.md)
+- [Monitor working memory and processing speed in girls with ADHD and provide accommodations such as breaking down instructions into manageable pieces](wm-ps-accommodations-adhd-girls-math.md)
 
 ## Examples
 - A student strong in visual processing uses a teacher-provided graphic organizer during lectures instead of taking free-form notes, then studies from the organizer rather than re-reading dense text.

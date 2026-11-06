@@ -53,3 +53,4 @@ Open-label randomized parallel-group controlled trial with 80 gastroenterology r
 - [A competency-based multiactor emergency preparedness training curriculum improved cognitive knowledge, self-assessed skill, and scenario performance after video debriefing](competency-based-multiactor-ept-improved-performance.md) — related
 - [Structured PEARLS debriefing is associated with higher critical thinking disposition across all seven CTDI-CV dimensions](debriefing-higher-critical-thinking-disposition.md) — related
 - [AI-supported scenario training improves rehabilitation students' digital competence more than traditional-only training](ai-scenario-training-improves-digital-competence-rehabilitation-students.md) — related
+- [Medical interns trained with video feedback workshops significantly outperformed those trained with group discussion on post-intervention patient education performance](vfb-outperforms-gd-patient-education-osler.md) — related

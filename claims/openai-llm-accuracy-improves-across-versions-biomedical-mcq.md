@@ -66,3 +66,5 @@ Random‐effects proportional meta‐analysis of 41 articles comprising 207 prop
 - [Both ChatGPT models exceed the UKMLA pass threshold (57.5%) on UKMLA-style items](chatgpt-models-exceed-ukmla-pass-threshold.md) — a narrower finding that bears on this claim
 - [o1-Pro significantly outperforms GPT-4o on UKMLA-style single-best-answer items (93.0% vs 88.8% accuracy)](mcnemar-significant-o1-pro-advantage-ukmla.md) — a narrower finding that bears on this claim
 - [OpenAI o1 achieved the highest aggregated mean score among the five LLMs, followed by Copilot, DeepSeek, Gemini, and GPT-4o](openai-o1-highest-aggregated-mean-five-llms.md) — a narrower finding that bears on this claim
+- [Current LLMs answer USMLE-style anatomy MCQs with an average accuracy of 76.8%, far above GPT-3.5's 44.4% a year earlier and above random guessing](current-llms-anatomy-mcq-76-8-percent-accuracy.md) — a narrower finding that bears on this claim
+- [GPT-4o answers were highly consistent across attempts, whereas GPT-3.5's answers a year earlier were mostly unreliable](gpt-4o-answer-consistency-versus-gpt-3-5.md) — related

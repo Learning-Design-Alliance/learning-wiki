@@ -41,7 +41,8 @@ Based on the keyword and burst analyses, the authors recommend that ongoing rese
 - [Review-reported evidence holds that simulation-based team training improves communication, coordination and response times in acute care, and simulation-based mastery learning reduces catheter-related bloodstream infections](../claims/review-reported-simulation-team-and-mastery-learning-effects.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Extend high-fidelity clinical simulation to other Dentistry curriculum areas such as pediatric dentistry](extend-simulation-pediatric-dentistry.md)
 
 ## Examples
 -

@@ -48,6 +48,7 @@ The article recommends that programmes using the framework review it alongside l
 - [Implement the CCSS with AI/AN students through expanded resources, localization of reform, and specialized extended professional development](ccss-implementation-ai-an-localization-pd.md)
 - [Implement ethnic studies curricula with locally grounded development, compensated education partners, and sustained professional learning](ethnic-studies-curricula-braided-implementation.md)
 - [Getting-started sequence: build authentic partnerships, assess intervention-context fit, then budget for continuous revision](stakeholder-partnership-first-implementation-strategy.md)
+- [Contextualise international digital-health competency frameworks for India and deliver them through modularised blended learning for working professionals](contextualised-blended-competency-frameworks-india.md)
 
 ## Examples
 -

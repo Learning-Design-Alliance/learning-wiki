@@ -48,6 +48,7 @@ The authors recommend that "RAT could be paired with small-group Anatomage labor
 ## Related Strategies
 
 - [Use virtual simulations to enhance cognitive learning while prioritizing in-person laboratory sessions for psychomotor and technical skills](virtual-simulations-cognitive-in-person-psychomotor.md)
+- [Structure VDT practical sessions as paired 2-hour table sessions with general training followed by student-led clinical application](vdt-hands-on-session-structure.md)
 
 ## Examples
 -

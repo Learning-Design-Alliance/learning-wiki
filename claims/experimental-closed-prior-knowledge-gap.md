@@ -47,3 +47,4 @@ Old ACT math exam (60 questions) administered pre and post as a prior-knowledge 
 ## Related Claims
 - [Control and experimental groups were equivalent at pre-test but differed significantly at post-test in mathematics achievement](cooperative-learning-pretest-equivalence-posttest-difference.md) — related
 - [CAI-taught LD students narrow but do not close the gap with normal-group students](cai-narrows-gap-with-normal-group.md) — related
+- [Prior AI tool use and end-of-semester course scores did not differ between groups, supporting attribution of the score difference to chatbot use](baseline-ai-use-and-course-scores-comparable.md) — related

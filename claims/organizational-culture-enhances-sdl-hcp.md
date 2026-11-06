@@ -53,3 +53,4 @@ The review's narrative synthesis of 34 studies involving over 5,700 healthcare p
 - [Guidance and Development Policy Instruments Are Individually Insufficient for Instructional Change](guidance-development-instruments-insufficient-alone.md) — related
 - [Teamwork, collaborative work, interactivity, and networking are the most frequently reported physician facilitators of SDL, while medicine's on-the-job learning culture is the most cited social-influences barrier](social-influences-teamwork-facilitates-sdl.md) — related
 - [Managers identified challenges limiting peer learning, including weak teamwork culture, absent management development strategies, and restricted structured interactions](peer-learning-challenges-iranian-hospital-managers.md) — related
+- [Peer-to-peer SDL in pairs fosters psychological safety, reflection, and constructive feedback among healthcare professionals.](peer-sdl-pairs-psychological-safety.md) — related

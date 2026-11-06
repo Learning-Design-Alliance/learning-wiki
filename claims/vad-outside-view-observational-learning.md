@@ -74,3 +74,4 @@ Facilitator interview evidence corroborating participant self-focus: FA 1 had th
 - [Structured debriefings enabled all scenario participants to reflect on and discuss their performance with constructive instructor feedback](three-phase-debriefing-reflection-feedback.md) — related
 - [Peer observation and structured debriefing are perceived by students as key opportunities for reflection and learning during simulation](debriefing-peer-observation-reflection.md) — related
 - [Participants reported markedly improved feedback skills as the most tangible improvement from the program.](pedagogical-internship-track-feedback-skills.md) — related
+- [Control-group focus-group participants perceived their structured debriefing as superficial, focused on general overview rather than critical reflection](control-debriefing-perceived-superficial.md) — related

@@ -63,3 +63,4 @@ Case study reported within the review: Malik et al. enlisted 245 undergraduate s
 - [Teachers express concern that student overreliance on AI may degrade independent thinking and hands-on scientific skills](teacher-concern-overreliance-ai-degrades-skills.md) — related
 - [Before instruction, physics students show skepticism about LLM learning impacts, agreeing that over-reliance risks dependence, false confidence, and reduced conceptual understanding](pre-instruction-skepticism-llm-learning-impacts.md) — related
 - [Most students expressed misinformation concerns and lacked confidence in their AI-related skills](students-report-misinformation-concerns-low-ai-confidence.md) — related
+- [Among 20 undergraduates, 95% agreed LLM-generated cases enriched learning resources and 80% reported improved interdisciplinary integration and learning efficiency](student-perceptions-llm-cases-benefits.md) — related

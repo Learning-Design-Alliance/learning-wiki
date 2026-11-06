@@ -55,6 +55,7 @@ The article's practical implications recommend that institutions integrate minds
 - [Combine mindset shaping with goal-setting guidance and grit cultivation rather than promoting growth mindset alone](target-goals-and-grit-interventions.md)
 - [Promote a Growth Mindset](promote_a_growth_mindset.md)
 - [Growth Mindset Development](growth_mindset_development.md)
+- [Faculty development combining technology-adaptation support, contextualized TPACK capacity building, and growth mindset interventions](faculty-development-technostress-tpack-gm-support.md)
 
 ## Examples
 -

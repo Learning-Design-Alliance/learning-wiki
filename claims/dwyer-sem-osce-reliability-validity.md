@@ -72,3 +72,4 @@ Follow-up study by the same author using the same OSCE with orthopedic residents
 - [Only a small fraction of published OSCE research in musculoskeletal and sport medicine was actually conducted in a Sport and Exercise Medicine setting](few-sem-setting-osce-studies-published.md) — related
 - [Practising physical therapists outperformed physical therapy students on a single-station simulated OSCE, supporting known-groups construct validity](pt-osce-known-groups-validity-practising-vs-students.md) — related
 - [Construct validity evidence shows statistically significant proficiency differences favouring junior over senior groups across modalities, though junior and senior residents did not differ on some metrics](simulation-construct-validity-junior-senior-differences.md) — reports the opposite
+- [The FVS system showed internal consistency of task scores (Cronbach's α = 0.781) in the Ghanaian setting](fvs-internal-consistency-cronbach-ghana.md) — related

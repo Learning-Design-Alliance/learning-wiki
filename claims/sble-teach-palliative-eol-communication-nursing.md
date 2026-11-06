@@ -50,3 +50,4 @@ Systematic review (PROSPERO-registered) of 30 articles meeting inclusion criteri
 - [Debriefing was a central element of nearly all reviewed palliative/EOL communication SBLEs, but methods varied widely](debriefing-central-sble-palliative-communication.md) — a narrower finding that bears on this claim
 - [Pre-post evaluations in reviewed SBLE studies report significant gains in EOL knowledge and attitudes, but not uniformly across studies](pre-post-sble-gains-mixed.md) — a narrower finding that bears on this claim
 - [A simulation-based group showed stronger emotional and clinical preparedness and knowledge-to-practice conversion than a seminar-based comparison group](sble-group-stronger-than-seminar-eol-preparedness.md) — a narrower finding that bears on this claim
+- [SBLE significantly reduces emotional exhaustion among nursing students compared with traditional instruction](sble-reduces-emotional-exhaustion-nursing-students.md) — related

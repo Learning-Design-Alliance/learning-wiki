@@ -50,6 +50,7 @@ The authors propose progressively including immersive VR simulation in continuin
 - [Position immersive technologies and virtual patients as supplementary components within blended learning rather than stand-alone replacements for established clinical communication training](immersive-tech-adjunctive-blended-not-replacement.md)
 - [Use VR simulation as a complementary, not competing, component of hazardous-drug spill-management training](vr-complementary-hazardous-drug-training.md)
 - [Virtual Reality Immersive Training](virtual-reality-immersive-training.md)
+- [Provide structured, VR-specific orientation and training sessions before learners engage in complex clinical tasks in VR](structured-vr-specific-orientation-before-complex-tasks.md)
 
 ## Examples
 -

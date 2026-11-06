@@ -57,3 +57,4 @@ Cross-sectional correlational study of 300 nursing students in Kashan, Iran usin
 - [Emotional, spiritual, and moral intelligence together account for 52.1% of variance in self-directed learning](three-intelligences-explain-52-percent-sdl-variance.md) — related
 - [Self-directed learning, AI acceptance, and perceived clinical competence are mutually positively correlated](sdl-ai-acceptance-competence-correlations-nursing.md) — related
 - [Self-directed learning is the strongest positive predictor of narrative competence among Chinese nursing students (β = 0.428)](self-directed-learning-strongest-predictor-narrative-competence-nursing-students.md) — related
+- [Self-directed learning total score correlates weakly but significantly and directly with clinical competence total score among third- and fourth-year nursing students](sdl-weak-significant-direct-correlation-clinical-competence.md) — related

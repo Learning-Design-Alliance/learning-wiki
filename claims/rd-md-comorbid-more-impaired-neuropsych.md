@@ -57,3 +57,4 @@ Group comparisons (ANOVA/chi-square) in the CLDRC twin sample of 241 RD-only, 18
 - [Children with comorbid RDMD are significantly more impaired than children with isolated RD or MD in math, reading, and executive function outcomes](rdmd-more-impaired-than-isolated-groups.md) — related
 - [Math difficulties are more strongly associated with social isolation than reading difficulties, and peer dislike of readers with RD is explained by ADHD symptoms](md-social-isolation-rd-peer-dislike-adhd.md) — related
 - [Group differences in math skills between LD and comorbid groups are more pronounced in symbolic than non-symbolic math tasks](math-group-differences-symbolic-tasks.md) — related
+- [Co-occurring MD and RD follows an additive pattern: growth patterns combine the math patterns of MD and the reading patterns of RD with no compounding cross-domain impairment](additive-co-occurrence-growth-patterns.md) — related

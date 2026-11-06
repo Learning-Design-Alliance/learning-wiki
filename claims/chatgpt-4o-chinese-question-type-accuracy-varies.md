@@ -50,3 +50,4 @@ Analysis of ChatGPT-4o's performance across the five official Chinese exam forma
 - [ChatGPT-4o's subtopic-level accuracy on Chinese questions ranged from 90% (Nerve Disorders) down to 38% (Dentofacial Deformities)](chatgpt-4o-chinese-subtopic-accuracy-range.md) — related
 - [ChatGPT-4o's accuracy on U.S. Dental Decks was consistent across question formats (plain-text, case-box, and image-based)](chatgpt-4o-us-question-format-consistency.md) — related
 - [ChatGPT-4o showed a language-related performance gap, performing better on English than Chinese questions while humans showed the reverse pattern](chatgpt-4o-language-performance-gap-english-chinese.md) — related
+- [GPT-4o's accuracy on the CONACEM anesthesiology exam varies significantly by cognitive domain, highest in Understanding (90.10%) and lowest in Application (76.83%) and Analysis (76.54%)](gpt4o-conacem-accuracy-varies-by-cognitive-domain.md) — related

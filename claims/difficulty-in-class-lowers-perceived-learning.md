@@ -51,3 +51,4 @@ The author's interpretive explanation (not a tested result) for the perception-a
 - [Predominantly lecture-based courses are associated with less engagement, while class discussion and group work time are associated with more](lecture-decreases-discussion-groupwork-increase-engagement.md) — related
 - [Flipped classroom significantly improves theoretical exam scores over lecture-based learning in Chinese undergraduate preventive medicine courses (pooled SMD 0.99)](fc-theoretical-exam-smd-099-preventive-medicine.md) — related
 - [Students reported lower difficulty in the DPBL approach than in the direct instruction approach](dpbl-lower-student-difficulty-than-direct-instruction.md) — related
+- [Students perceived flipped learning as aiding exam preparation and knowledge retention through in-class discussions](fl-inclass-discussions-exam-retention-nursing.md) — related

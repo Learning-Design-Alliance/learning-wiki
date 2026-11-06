@@ -72,3 +72,4 @@ Final exam (maximum 113) comparison in the same crossover study; the article als
 - [The instructor's own final exam showed the same direction of advantage on the intact randomized sample, with no difference on the pre-treatment midterm](instructor-final-confirms-tutor-advantage-direction.md) — reports the opposite
 - [Personalized feedback produced no measurable differences in exam scores, final course grades, or D/F rates compared to generic messages](no-performance-gains-personalized-feedback.md) — related
 - [The informal letter-writing assignment significantly improved scores on a midterm exam containing both multiple-choice and essay components](letter-writing-improves-mc-essay-midterm.md) — related
+- [Structured note-taking and MCQ creation as post-seminar homework produced no statistically significant difference in first-year physiotherapy students' summative exam performance](nt-vs-mcq-no-exam-performance-difference.md) — related

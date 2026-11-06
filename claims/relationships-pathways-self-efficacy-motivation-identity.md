@@ -77,3 +77,4 @@ Nationally representative study of nearly 20,000 9th-graders by Luis Miguel Fern
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [School belonging mediates the higher intrinsic motivation of Dominican children relative to European-American peers](school-belonging-mediation-dominican-intrinsic-motivation.md) — related
+- [Teachers who enjoy teaching, maintain close relationships, and adapt content tend to foster greater student engagement, a key to learning](teacher-enthusiasm-fosters-engagement.md) — related

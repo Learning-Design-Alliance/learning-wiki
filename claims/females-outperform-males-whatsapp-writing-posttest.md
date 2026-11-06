@@ -69,3 +69,4 @@ Table 2's total-score row prints means of 39.54 (male) and 45.82 (female), t=-2.
 - [In the task-based ESP class, male learners significantly outperformed female learners on the technical vocabulary post-test](male-outperform-female-tblt-vocabulary.md) — related
 - [Gender differences in learning success differ by method: favoring females in Laban Section III and males throughout the traditional group](gender-differences-by-method.md) — related
 - [Gender and expertise domain are the most robust grade predictors; females outperform males in 9 of 13 subjects with negligible effects](gender-and-expertise-robust-grade-predictors.md) — related
+- [Within the VSE group, female students outperformed male students on several skill dimensions, though the cause cannot be attributed to VSE](vse-gender-skill-differences.md) — related

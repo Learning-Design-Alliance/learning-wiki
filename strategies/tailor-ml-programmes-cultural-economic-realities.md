@@ -55,6 +55,7 @@ The article recommends that implementation of m-learning in developing countries
 - [Shift responsibility for coping with cultural stressors from youth and families to school-level intervention targets identified by participants](school-level-intervention-targets-cultural-stressors.md)
 - [Local adaptation of the framework across diverse contexts](pat-framework-local-adaptation.md)
 - [Tailor SEL assessment and intervention programmes to the cultural context of Arab communities in Israel](culturally-tailored-sel-arab-communities.md)
+- [Contextualise international digital-health competency frameworks for India and deliver them through modularised blended learning for working professionals](contextualised-blended-competency-frameworks-india.md)
 
 ## Examples
 -

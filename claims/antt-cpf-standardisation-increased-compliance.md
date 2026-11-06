@@ -50,3 +50,4 @@ Second-hand finding reported in the article's discussion, attributed to Clare an
 - [Iterative video-based task analysis of 14 wound-dressing recordings, with repeated independent scoring, produced step and error metrics with inter-rater reliability of at least 0.85](video-task-analysis-interrater-reliability-085.md)
 - [Hybrid simulation with role-playing improves hand hygiene compliance and PPE use in medication administration among nursing students](hybrid-simulation-improves-hand-hygiene-and-ppe-nursing.md) — related
 - [At one-month follow-up the experimental group outperformed controls on six specific checklist tasks](modified-peyton-six-checklist-tasks-retention.md) — related
+- [SOM-PBL improves monitoring technology application and adverse-event management subdomains but not clinical decision-making or aseptic technique](som-pbl-subdomain-mixed-results.md) — related

@@ -65,3 +65,4 @@ T-test of gender difference in post-test scores among the 40 trained participant
 - [Gender differences in learning success differ by method: favoring females in Laban Section III and males throughout the traditional group](gender-differences-by-method.md) — related
 - [Female students scored significantly higher than males on several post-test competency domains despite no pre-test gender differences](sbl-gender-differences-post-test-females-higher.md) — related
 - [No statistically significant post-test gender difference in English academic performance (d = −0.12)](no-posttest-gender-difference-english-performance.md) — reports the opposite
+- [Within the VSE group, female students outperformed male students on several skill dimensions, though the cause cannot be attributed to VSE](vse-gender-skill-differences.md) — related

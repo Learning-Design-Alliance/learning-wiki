@@ -47,6 +47,7 @@ Based on their findings, the authors recommend that e-learning materials for met
 ## Related Strategies
 
 - [Provide explicit teaching of SRL methods as structured guidance for regulating learning in online and blended settings](explicit-teaching-srl-methods-online-blended.md)
+- [Combine self-regulation scaffolds, interactive engagement methods and clinical mentorship to support healthcare students' academic success](self-regulation-engagement-interventions-healthcare-education.md)
 
 ## Examples
 -

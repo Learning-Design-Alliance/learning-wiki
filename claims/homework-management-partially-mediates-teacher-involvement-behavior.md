@@ -59,3 +59,4 @@ Full mediation SEM model (CFI = 0.946, RMSEA = 0.075, SRMR = 0.051) with 525 stu
 - [Preliminary evidence suggests perceived problem behavior effects on teaching stress are mediated by teachers' perceptions of relationship conflict](conflict-perceptions-mediate-misbehavior-stress.md) — related
 - [Digital informal learning partially mediates the relationship between digital competence and academic performance](dil-partial-mediator-competence-performance.md) — related
 - [Time management partially mediates the relationship between self-regulation and academic self-efficacy (standardized indirect effect β = 0.44, bias-corrected 95% CI (0.17, 0.41))](tm-partial-mediation-sr-ase.md) — related
+- [Academic self-efficacy and academic buoyancy partially mediate the effects of teacher support and parental involvement on mathematics performance](ase-ab-partial-mediation-support-math.md) — related

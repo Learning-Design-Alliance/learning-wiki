@@ -73,3 +73,4 @@ Results section reporting non-significant DOPS findings. The Discussion attribut
 - [At one-month follow-up the experimental group outperformed controls on six specific checklist tasks](modified-peyton-six-checklist-tasks-retention.md) — related
 - [Blended PBL-CBL-seminar chairside teaching improves DOPS procedural skill scores versus LBL, except technique and seeking assistance](blended-pbl-cbl-seminar-improves-dops-scores.md) — related
 - [Procedural skill (DOPS) scores of digitally-CBL-trained novices do not differ significantly from traditionally trained specialists](digital-cbl-dops-scores-comparable.md) — related
+- [SOM-PBL improves monitoring technology application and adverse-event management subdomains but not clinical decision-making or aseptic technique](som-pbl-subdomain-mixed-results.md) — related

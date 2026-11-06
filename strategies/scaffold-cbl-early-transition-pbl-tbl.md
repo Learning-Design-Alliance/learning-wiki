@@ -70,6 +70,7 @@ The authors recommend a "scaffolded integration of these methods": utilizing "Ca
 - [Integrate structured reflective sessions into clinical curricula, tailored to students' developmental stage](integrate-structured-reflection-clinical-curricula.md)
 - [Structure high-gap RT competencies into progressive beginner, intermediate, and advanced learning phases](progressive-learning-phases-high-gap-competencies.md)
 - [Incorporate practical gerontological nursing teaching early in the curriculum, using situational simulation and case-based teaching](early-practical-gerontological-teaching-strategy.md)
+- [Integrate PBL modules into existing clinical nursing curricula to cultivate reflective thinking and engagement](integrate-pbl-modules-clinical-curricula-strategy.md)
 
 ## Examples
 -

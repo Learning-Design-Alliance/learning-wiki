@@ -67,3 +67,4 @@ Same extension-trial questionnaire analysis; teacher ratings likewise showed no 
 - [Long-term RMT use accelerates reading fluency gains in inattentive children compared to controls over a 30-week extension](rmt-accelerates-reading-fluency-over-30-weeks.md) — related
 - [Students and teachers report improved classroom listening during RMT use, with reduced teacher-rated inattention and hyperactivity](rmt-improves-reported-classroom-listening-and-adhd-symptoms.md) — related
 - [Long-term RMT use does not improve auditory processing, memory or attention skills beyond the typical developmental trajectory](rmt-no-long-term-auditory-cognitive-gains.md) — related
+- [Cognitive activity training significantly improved quality of life (PedsQL total and subdomains) in refugee children](cat-improves-pedsql-quality-of-life.md) — related

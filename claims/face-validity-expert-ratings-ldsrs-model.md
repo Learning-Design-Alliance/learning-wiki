@@ -51,3 +51,4 @@ Expert evaluation by ten laparoscopic surgeons using a 15-item questionnaire wit
 - [The SAW model shows construct validity and good correlation (0.87) between simulated and operating-room laparoscopic ventral/incisional hernia repair performance](saw-model-construct-validity-and-or-correlation.md) — related
 - [Expert review confirmed strong content validity of the Salus-Ed questionnaire items](salus-ed-content-validity.md) — related
 - [Expert surgeons rate Fix4Life as a valuable training modality, with no significant between-procedure differences after Bonferroni adjustment](experts-rate-fix4life-valuable-training-modality.md) — related
+- [3D-printed silicone LRYGB models show face, content and technical realism broadly comparable to porcine organ models, with strengths and weaknesses on specific steps](3d-model-face-content-validity-lrygb.md) — related

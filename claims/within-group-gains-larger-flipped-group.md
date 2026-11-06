@@ -53,3 +53,4 @@ Paired-samples t-tests within each group showed significant pre- to post-test ga
 - [Both traditional teaching and the OCRA approach significantly improved pre-test to post-test achievement, with a larger gain in the OCRA group](ocra-and-control-pre-post-gains.md) — related
 - [Both groups improved stoma care knowledge after training, with larger gains in the experimental group](within-group-knowledge-gains-both-groups.md) — related
 - [Competency scores rose significantly from 86.14% to 98.16% after SMART VHV Plus Model training, in one uncontrolled pre-post study (Cohen's d = 1.96)](smart-vhv-plus-model-significant-competency-gain.md) — a narrower finding that bears on this claim
+- [Knowledge improved significantly from before to after the intervention in both groups](knowledge-improved-both-groups-lectures.md) — related

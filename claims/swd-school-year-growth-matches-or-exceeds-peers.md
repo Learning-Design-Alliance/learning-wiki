@@ -57,3 +57,4 @@ The brief's own description of its new research on academic achievement and grow
 - [New research examined academic growth trends of students with disabilities in special education during the school year compared to the summer before the pandemic](special-education-growth-school-year-versus-summer-before-pandemic.md) — related
 - [Students with disabilities cost 50.5 percent more to educate to comparable academic growth than peers without disabilities](special-education-supplemental-cost-50-percent.md) — related
 - [Steeper summer learning losses for students with disabilities contribute to widening disparities with peers](swd-summer-loss-widens-disparities.md) — related
+- [Math and reading growth trajectories of children with learning disabilities parallel those of children without disabilities in rate and shape across Grades 1–5](ld-trajectories-parallel-non-disabled.md) — related

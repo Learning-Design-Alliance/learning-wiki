@@ -50,3 +50,4 @@ Quasi-experimental study with 90 NICU nurses. Repeated measures ANOVA across thr
 - [Repeated measures ANOVA shows a significant score change in the experimental group from pre-test to post-test](repeated-measures-anova-games-group-change.md) — related
 - [Within-group score changes across pre-test, post-test and retention test were significant in both pretested groups, with larger variance explained in the experimental group](7e-within-group-gains-anova.md) — related
 - [Both autonomy supportive and controlling teaching units produce significant pre-to-post learning gains](both-conditions-significant-learning-gains.md) — related
+- [Scores changed significantly across the three observations in both groups, with the experimental group improving and the control group declining over successive observations](divergent-trajectory-rlc-versus-control-repeated-measures.md) — reports the opposite

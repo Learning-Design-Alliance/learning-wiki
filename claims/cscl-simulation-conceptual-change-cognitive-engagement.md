@@ -76,3 +76,4 @@ Qualitative case-study analysis of conversational interactions of 7 dyads workin
 - [The authors report that CBPS enhanced prospective teachers' collaboration and motivation](cbps-collaboration-motivation-observation.md) — related
 - [Subjective assessment of student behaviour in CBL leads students to prioritise participation over collaborative learning, decoupling engagement from knowledge gained](cbl-subjective-behaviour-assessment-decouples-engagement-knowledge.md) — related
 - [Learning alongside peers in a group-based simulation assessment reduced assessment-related anxiety for most students, though some still felt overwhelmed](peer-support-reduced-assessment-anxiety-mixed.md) — related
+- [Peer-to-peer SDL in pairs fosters psychological safety, reflection, and constructive feedback among healthcare professionals.](peer-sdl-pairs-psychological-safety.md) — related

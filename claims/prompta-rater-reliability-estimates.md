@@ -69,3 +69,4 @@ Inter-rater agreement analysis of ratings assigned by three different raters (Ra
 - [Faculty calibration with instructional rubrics yields high inter-rater reliability, rising after repeated calibration](faculty-calibration-icc-rises-with-repeated-calibration.md) — related
 - [Inter-rater scoring of the writing tests showed good correlation-coefficient reliability](inter-rater-reliability-writing-scores.md) — related
 - [Inter-assessor agreement on OSCE scores is substantial, with a pooled intraclass correlation coefficient of 0.77](pt-osce-icc-assessors-substantial.md) — related
+- [Test–retest reliability of rater scores declined across the four clinical rotations, from 0.81–0.98 in Rotation 1 to 0.47–0.65 in Rotation 4](test-retest-reliability-declines-across-rotations.md) — related

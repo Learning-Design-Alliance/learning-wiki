@@ -54,3 +54,4 @@ Multilevel covariance analysis of post-test scores; student-level variance (67%)
 - [Female participants exposed to goal-setting training scored significantly higher in English language post-test than male participants](gender-difference-english-posttest-goal-setting.md) — related
 - [Male gender predicted lower grades, moderated by cohort](gender-and-cohort-predict-grading-scores.md) — related
 - [Combining elaborated education standards with a teacher improvement program significantly improved student reading achievement compared with a control group, while standards alone did not reach significance at p < .01](standards-plus-teacher-program-improves-achievement.md) — related
+- [Gender moderates SES effects: student SES raises achievement more for female students, while school SES raises achievement more for male students](gender-moderates-ses-effects.md) — related

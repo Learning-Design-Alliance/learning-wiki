@@ -25,7 +25,7 @@ sources:
 # Debriefing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 34 claims (24 for, 8 mixed, 2 against) · 50 studies (15 review, 13 quant-synthesis, 11 causal, 4 qualitative, 3 design, 2 associational, 2 theoretical), `q1`–`q4` · 9 of 50 report an effect size · 23 claims rest on one study
+> **Evidence** · 35 claims (25 for, 8 mixed, 2 against) · 51 studies (15 review, 13 quant-synthesis, 12 causal, 4 qualitative, 3 design, 2 associational, 2 theoretical), `q1`–`q4` · 9 of 51 report an effect size · 24 claims rest on one study
 
 ## Conditional relationship
 
@@ -135,6 +135,7 @@ Claims about debriefs or group reflection that the earlier page did not cite, an
 - [Video evidence in VAD increased participants' acceptance of feedback and its credibility, reducing disputes over whether critical observations were correct](../claims/video-evidence-increases-feedback-acceptance.md) [+W] — attached 2026-10-18 from Stefan A. Schreder et al. (2025), which proposed "Implement video-assisted debriefing with careful facilitation that balances positive and negative feedback to protect psychological safety".
 - [Structured briefing and debriefing were largely absent from studies showing stress-impaired performance, and may contribute to impaired outcomes](../claims/briefing-debriefing-absent-impaired-studies.md) [+W] — attached 2026-10-31 from Vage A et al. (2024), which proposed "Design simulation courses with structured briefing and debriefing and avoid relying on extensively stressful content as a learning tool".
 - [Participants perceive manikin death as reflecting inadequate resuscitation, but facilitator reassurance and debriefing resolve this](../claims/death-perceived-as-failure-mitigated-by-debrief.md) [+W] — attached 2026-10-31 from Apara Teleireoluwa et al. (2024), which proposed "Debriefs after paediatric manikin death need skilled facilitation with designated time for emotional and communication discussion"; tests this page's relationship.
+- [Focus-group participants in the RLC group attributed their improvements to the model's learner-centred, incremental reflective structure, psychological safety, and support for equitable participation in multicultural groups](../claims/qualitative-rlc-incremental-psychological-safety.md) [+W] — attached 2026-11-06 from Almomani Emad et al. (2025), which proposed "Offer structured, scaffolded debriefing models like RLC especially to junior or less experienced staff".
 
 ## Objective and learner-valued goal
 

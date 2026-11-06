@@ -69,3 +69,4 @@ Dependent samples t-test on the same attitude scale for the Facebook experimenta
 - [The process-based intervention significantly improved students' perceptions toward the writing process, while control-group perceptions stayed unchanged](process-approach-improves-perceptions-writing-process.md) — related
 - [In Study 1 the control group showed a marginally significant increase in anxiety while the treatment group did not change](anxiety-control-increase-study1.md) — related
 - [Control-group success rates mostly declined from week one to week two](control-group-success-declined-second-week.md) — related
+- [Scores changed significantly across the three observations in both groups, with the experimental group improving and the control group declining over successive observations](divergent-trajectory-rlc-versus-control-repeated-measures.md) — related

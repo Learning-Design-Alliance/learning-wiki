@@ -49,3 +49,4 @@ Descriptive analysis of assessment and examination structures across the 42 nati
 
 ## Related Claims
 - [Workplace-based assessments such as 360-degree evaluations and mini-CEX are less frequently used than written examinations for assessing psychosomatic competency in Chinese GP residency programs.](workplace-based-assessment-less-frequent-than-written.md) — related
+- [Participants report that clinical competence assessment in Iranian medical education relies on written and multiple-choice exams rather than performance-based evaluation.](weak-performance-based-assessment-iran.md) — possibly the same claim (merge candidate)

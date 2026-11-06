@@ -70,3 +70,4 @@ Descriptive trends in CPR and defibrillation initiation times across the follow-
 - [Mannequin and combined simulation groups maintain consistently higher non-technical skill scores than the computer group across all five follow-up assessments](nontechnical-advantage-persists-across-timepoints.md) — related
 - [Mannequin-based and combined simulation produce higher non-technical skill scores than computer simulation alone after ACLS training](scenario-simulation-beats-computer-for-nontechnical-skills.md) — related
 - [The largest 12-month between-group difference in ALS performance is in non-technical skills, favouring low-dose high-frequency training](ldhf-als-largest-gain-non-technical-skills.md) — related
+- [Checklist-assessed clinical performance was significantly higher at the six-month POST assessment than at the initial PRE assessment across all six simulation scenarios](simulation-checklist-gains-six-months.md) — related

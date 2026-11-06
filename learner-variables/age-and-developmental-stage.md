@@ -13,7 +13,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 231 claims (147 show a difference, 54 mixed, 30 no difference) · 187 studies (70 associational, 44 causal, 27 review, 24 quant-synthesis, 10 theoretical, 6 qualitative, 6 design), `q1`–`q4` · 28 of 187 report an effect size · 229 claims rest on one study
+> **Evidence** · 232 claims (147 show a difference, 55 mixed, 30 no difference) · 188 studies (71 associational, 44 causal, 27 review, 24 quant-synthesis, 10 theoretical, 6 qualitative, 6 design), `q1`–`q4` · 28 of 188 report an effect size · 230 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -263,6 +263,7 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Older age is associated with lower odds of high GPA among Saudi physical therapy students](../claims/older-age-lower-odds-high-gpa-saudi-pt-students.md) [+M] — learners who differ on it differ in outcomes
 - [Participants over 35 demonstrated higher diagnostic accuracy than younger participants across all seven cases, with gaps most pronounced on the hardest case](../claims/older-participants-higher-diagnostic-accuracy.md) [+M] — learners who differ on it differ in outcomes
 - [In the MIND model group, younger learners (18–24) achieved significantly higher learning outcomes than older age groups](../claims/mind-younger-learners-higher-outcomes-age.md) [+M] — learners who differ on it differ in outcomes
+- [Older children with ADHD show poorer mathematics performance relative to grade-normed peers, while age does not predict reading or spelling](../claims/age-negative-mathematics-adhd.md) [~W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

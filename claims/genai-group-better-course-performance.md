@@ -69,3 +69,4 @@ Chi-square analysis of final course grade distributions (Fig. 5); the article pr
 - [GenAI-enhanced instruction is associated with substantially greater legal reasoning gains than traditional instruction in property law, though the effect size warrants cautious interpretation](genai-instruction-greater-legal-reasoning-gains.md) — related
 - [Experimental-class students earned significantly higher term paper grades than control students](discussion-week-term-paper-grades.md) — related
 - [GenAI-assisted progressive-disclosure CBL improves case-analysis performance with a large effect size](genai-progressive-disclosure-cbl-case-analysis.md) — related
+- [Students using a custom-trained ChatGPT-based chatbot scored significantly higher on a course-requirements test than students using the traditional e-learning syllabus, with a large standardized effect (Cohen's d = 1.29)](chatbot-higher-course-orientation-test-scores.md) — related

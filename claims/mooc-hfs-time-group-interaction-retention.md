@@ -49,3 +49,4 @@ Repeated-measures ANOVA examining effects of Time, Group, and their interaction 
 - [Video tutorials produced large learning gains from pre-test to training test, with significant decline at later post-tests and no condition effect](video-tutorials-learning-gains-decline-no-condition-effect.md) — related
 - [Across all three experiments jointly, the interaction between treatment (contrasts versus control) and measurement occasion was significant, with a reliable quadratic trend](treatment-occasion-interaction-significant.md) — related
 - [Mobile learning shows better one-month knowledge retention than face-to-face training for NICU nurses' positioning performance](mlearning-better-one-month-retention.md) — related
+- [Scores changed significantly across the three observations in both groups, with the experimental group improving and the control group declining over successive observations](divergent-trajectory-rlc-versus-control-repeated-measures.md) — related

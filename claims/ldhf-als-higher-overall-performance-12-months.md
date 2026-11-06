@@ -53,3 +53,4 @@ Randomized controlled simulation-based trial with 35 EMS professionals (interven
 - [Neonatal resuscitation knowledge and skills deteriorate significantly in the months following NRP certification](nrp-knowledge-skills-decay-months-after-certification.md) — related
 - [77% of healthcare providers retained simulated neonatal resuscitation skills one year after in situ low-dose high-frequency simulation training](ldhf-simulation-one-year-skills-retention-77-percent.md) — related
 - [Mean simulated resuscitation skills scores dropped 10.2 percentage points from baseline to one year despite frequent in situ simulation training](mean-skills-score-drop-10-points-one-year.md) — reports the opposite
+- [No significant performance differences between students trained every 3 months and every 6 months](no-difference-3-versus-6-month-cpr-training.md) — related

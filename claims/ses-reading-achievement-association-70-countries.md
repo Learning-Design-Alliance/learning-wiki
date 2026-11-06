@@ -56,3 +56,4 @@ Fixed-effects meta-analysis of country-specific bivariate correlations from PISA
 - [Composite SES indices predict phonological awareness more strongly than single SES indicators](composite-ses-index-stronger-predictor-phonological-awareness.md) — related
 - [Age moderates the vocabulary-to-reading paths (effects increase with age) but not the fluency model or any SES paths](age-moderates-vocabulary-reading-paths-not-ses-paths.md) — related
 - [Children's self-perceptions jointly and separately partially mediate the SES–reading achievement association, explaining additional ΔR² = 0.105](self-perceptions-partially-mediate-ses-reading-achievement.md) — related
+- [Across countries, the effect sizes of student SES and school SES on achievement are negatively correlated (r = −0.21 mathematics; r = −0.13 science)](student-school-ses-effect-negative-correlation.md) — related

@@ -57,3 +57,4 @@ Random-effects meta-analysis of teacher-level factors across the 87 included stu
 - [Burnout and work engagement are the strongest correlates of teacher wellbeing](burnout-engagement-strongest-correlates.md) — related
 - [Emotional exhaustion and depersonalization show no significant bivariate correlation with patient safety competency](burnout-dimensions-null-bivariate-psc.md) — related
 - [Burnout affects up to 70% of residents and negatively affects clinical performance and decision-making](resident-burnout-up-to-70-percent-impairs-performance.md) — related
+- [Physicians' teaching-related self-efficacy did not correlate significantly with emotional exhaustion](teaching-self-efficacy-emotional-exhaustion-null.md) — related

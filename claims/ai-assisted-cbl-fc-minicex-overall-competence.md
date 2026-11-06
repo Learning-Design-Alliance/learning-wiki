@@ -70,3 +70,4 @@ The article reports significant between-group differences on medical interviewin
 - [Integrated online-PBL-CBL teaching improves overall Mini-CEX clinical competence but not its individual sub-dimensions](online-pbl-cbl-minicex-overall-competence-gain.md) — related
 - [AI-assisted CBL+FC residents achieve higher OSCE total scores than lecture controls, driven by history collection and physical examination stations](ai-assisted-cbl-fc-osce-total-scores.md) — related
 - [Integrated model improves all seven Mini-CEX domains, largest gain in physical examination](microskills-cptm-minicex-all-domains.md) — related
+- [SOM-PBL improves clinical reasoning performance overall and specifically diagnostic cognitive rigor, but not integrative history analysis or time-critical decision-making](som-pbl-clinical-reasoning-gains.md) — related

@@ -53,3 +53,4 @@ End-of-term ranking survey in two offerings of a large online undergraduate cour
 - [Students oppose preferring AI videos over instructor-recorded videos and distrust AI video information as much as human-presented information](students-oppose-ai-videos-replacing-instructors.md) — reports the opposite
 - [Test-takers rate LLM-generated feedback as persuasive and useful as human instructor feedback (Wilcoxon signed-rank tests show no significant difference)](llm-feedback-rated-equal-to-human-feedback.md) — related
 - [Students post significantly more in online discussion forums when instructor posts use standard auto-generated subject titles rather than personalized subject headings](nonpersonalized-subject-headings-higher-post-quantity.md) — related
+- [No single digital format was preferred: video podcast ranked highest while the animation was polarising](no-single-preferred-digital-format.md) — related

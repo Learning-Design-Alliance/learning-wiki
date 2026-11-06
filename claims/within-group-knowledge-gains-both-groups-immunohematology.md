@@ -55,3 +55,4 @@ Within-group pre–post comparisons using Wilcoxon Signed Ranks Test found stati
 - [Both e-lecturing and eHistoLab instruction significantly improved histology knowledge from pre-test to post-test](both-methods-improved-histology-knowledge.md) — a narrower finding that bears on this claim
 - [Both game-based blended learning and interactive lecture produce significant pre-to-post EBM competency gains](both-groups-significant-ebm-gains.md) — possibly the same claim (merge candidate)
 - [Patient interaction scores increased significantly within both the hybrid simulation and control groups after training (p < 0.001 for both)](patient-interaction-improved-within-both-groups.md) — a narrower finding that bears on this claim
+- [Knowledge improved significantly from before to after the intervention in both groups](knowledge-improved-both-groups-lectures.md) — possibly the same claim (merge candidate)

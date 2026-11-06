@@ -116,6 +116,7 @@ The canonical enumeration of the ten steps is in van Merriënboer and Kirschner'
 - **Health professions education**, the setting much of the model's implementation guidance is drawn from
 - [Five-month workplace-based PD program blueprint for teacher differentiation skills](../designs/pd-program-differentiation-blueprint.md)
 - [Ten-step 4C/ID training blueprint for designing whole-task instruction](../strategies/4cid-ten-step-training-blueprint.md)
+- [Use structured VR simulator exercises progressing from simple shapes to complete tooth preparation](../strategies/vr-structured-exercise-progression-dental.md)
 
 ## Key Sources
 - Frerejean, J., van Merriënboer, J. J. G., Kirschner, P. A., Roex, A., Aertgeerts, B., & Marcellis, M. *Designing Instruction for Complex Learning.* Ch. 24 in *Design for Learning*. EdTech Books. [https://edtechbooks.org/id/complex_learning](https://edtechbooks.org/id/complex_learning)

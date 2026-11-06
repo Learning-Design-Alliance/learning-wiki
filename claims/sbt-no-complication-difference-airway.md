@@ -55,3 +55,4 @@ Narrative synthesis of complication outcomes across seven studies; pooling was d
 - [No adverse events or patient-related procedural complications occurred in either training group during live TEE training and assessment](no-adverse-events-during-live-tee-training-assessment.md) — a narrower finding that bears on this claim
 - [Mental imagery reduces procedural complications and the number of skin punctures in simulated PVC insertion](mental-imagery-complications-punctures-pvc.md) — a narrower finding that bears on this claim
 - [Puncture-related complication incidence does not differ significantly between the learning and proficiency phases](complications-not-different-pre-post-tp.md) — related
+- [In one uncontrolled pre-post study, neurological complication rates fell from 3.2% before to 1.0% after CDHT, and allergic reaction rates fell from 4.3% to 3.2%; neither change was statistically significant](cdht-no-safety-compromise-neurologic-allergic.md) — related

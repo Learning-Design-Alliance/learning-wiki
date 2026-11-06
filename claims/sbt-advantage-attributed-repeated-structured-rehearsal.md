@@ -52,3 +52,4 @@ Authors' interpretation in the Discussion section, not a tested result. They sug
 - [Simulation-trained students showed higher mean scores across all four OSCE stations compared with clinically trained peers](sbt-higher-mean-scores-all-osce-stations.md) — related
 - [Simulation-trained students significantly outperformed clinically trained peers on the dose preparation and generator handling OSCE station](sbt-outperforms-cbt-dose-preparation-station.md) — related
 - [Simulation-trained students significantly outperformed clinically trained peers on the dose calibrator use OSCE station](sbt-outperforms-cbt-dose-calibrator-station.md) — related
+- [The consequence-free, non-punitive simulated environment gives error a formative value, enabling rehearsal, correction, and learning from peers' mistakes](simulation-safe-environment-learning-from-errors.md) — related

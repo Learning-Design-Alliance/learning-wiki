@@ -52,3 +52,4 @@ Bootstrapped mediation analysis (5,000 bias-corrected resamples) within a struct
 - [The mediation model accounts for 51.0% of the variance in perceived clinical competence](model-explains-51-percent-variance-clinical-competence.md) — related
 - [Deep learning partially mediates the relationship between online real-time teaching interaction and teaching effect (indirect effect 0.165, 36.344% of total effect)](deep-learning-partially-mediation-interaction-teaching-effect.md) — related
 - [Attitude partially mediates the relationship between knowledge and practice in structural equation modelling](attitude-partially-mediates-knowledge-practice.md) — related
+- [The blended model's effect on clinical skills scores splits into a direct pedagogical effect and an indirect effect mediated by increased training time](mediation-direct-pedagogical-effect-plus-training-time.md) — related

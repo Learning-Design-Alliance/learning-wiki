@@ -54,3 +54,4 @@ Systematic review synthesis of seven included studies (published 2002–2017, pa
 - [VR simulation studies with control groups showed decreased surgical time when training with a VR simulator](vr-training-decreased-surgical-time.md) — related
 - [A single VR training session before a tibial nailing synthetic-bone exercise significantly reduces completion time (about 5 minutes faster, P=.007)](vr-pretraining-faster-tibia-nailing.md) — a narrower finding that bears on this claim
 - [Performance in the VR suture training improved with practice repetitions but reached a plateau after 2 to 4 practices](vr-suture-practice-plateau.md) — related
+- [Blended-model students performed about twice as many suturing practice attempts as controls, and simulation attempts correlated with skills scores](doubled-practice-attempts-correlate-with-skills-scores.md) — related

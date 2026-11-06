@@ -52,6 +52,7 @@ This strategy directs educators and policymakers to pair any GenAI assessment de
 - [Adopt a clear pedagogical approach focused on critical thinking and fact-checking strategies when integrating LLMs into curricula](critical-thinking-fact-checking-llm-integration.md)
 - [Operationalize abstract ethical frameworks as concrete LLM agent personas with demographic cues and value prioritizations](ethical-framework-persona-operationalization.md)
 - [Use independent expert physician review as a governance safeguard before deploying LLM-generated questions to learners](expert-physician-review-governance.md)
+- [Stratified human oversight and verification safeguards for clinical LLM deployment, scaled to task risk](stratified-human-oversight-clinical-llm-deployment.md)
 
 ## Examples
 -

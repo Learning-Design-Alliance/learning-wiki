@@ -63,3 +63,4 @@ Narrative mapping across included studies, notably the Wilkinson et al. systemat
 - [Missed CVC training opportunities were attributed to time constraints, variable patient volume, and inconsistent access to equipment and funding](cvc-training-opportunities-limited-time-volume-equipment.md) — related
 - [A shared-resource consortium with three partner institutions reduced per-student simulation costs by approximately 28% while expanding access to rural teaching sites](shared-resource-consortium-cost-reduction.md) — related
 - [Programs cite lack of funding, limited simulation lab or equipment access, and lack of faculty expertise or availability as barriers to simulation implementation](simulation-barriers-funding-faculty-expertise.md) — related
+- [Feedback-equipped simulator training becomes cheaper than traditional simulation-center training from the second year onward](feedback-cpr-training-cost-savings-second-year.md) — related

@@ -50,3 +50,4 @@ Each exam was re-administered once to each model 1–7 days after the first atte
 - [Gemini-2.5-Pro can effectively replicate human expert judgments when answering SLM-generated MCQs](gemini-surrogate-judge-replicates-human-answers.md) — related
 - [The framework shows high scoring consistency, with 79% agreement and 81% inter-rater reliability on physics questions](framework-scoring-high-consistency-physics.md) — related
 - [OpenAI o1 achieved the highest aggregated mean score among the five LLMs, followed by Copilot, DeepSeek, Gemini, and GPT-4o](openai-o1-highest-aggregated-mean-five-llms.md) — related
+- [Test–retest reliability of rater scores declined across the four clinical rotations, from 0.81–0.98 in Rotation 1 to 0.47–0.65 in Rotation 4](test-retest-reliability-declines-across-rotations.md) — related

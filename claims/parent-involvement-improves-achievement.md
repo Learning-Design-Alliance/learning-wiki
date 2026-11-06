@@ -195,3 +195,4 @@ Most figures were read from the authors' accepted manuscript, which this wiki ca
 - [School staff substantially underestimate the at-school involvement of parents they label uninvolved](staff-underestimate-parent-involvement.md) — related
 - [Parents in the intervention implemented reading strategies far more than control parents, who seldom used them spontaneously](parent-strategy-implementation-fidelity-summer-reading.md) — related
 - [Parents' school involvement and perceptions of teacher responsiveness are related to children's academic and social competence in pre-kindergarten](parent-involvement-teacher-responsiveness-prek-competence.md) — a narrower finding that bears on this claim
+- [Parental involvement has a significant positive direct effect on middle school students' mathematics performance](parental-involvement-direct-effect-math-performance.md) — a narrower finding that bears on this claim

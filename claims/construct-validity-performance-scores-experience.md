@@ -54,3 +54,5 @@ Construct validity was assessed by comparing operative scores and times across t
 - [Reported average simulated-training duration for PTED is only about 22.8 hours, with no significant difference across experience levels](pted-simulated-training-averages-22-8-hours.md) — reports the opposite
 - [The VR laparoscopic camera navigation test discriminates between novice medical students and experienced surgical residents](vr-camera-navigation-test-discriminates-novices-experienced.md) — related
 - [Repeated practice in a case-based VR suture simulation significantly improved stomatology undergraduates' item and total scores from formative to final test](vr-facial-wound-suture-score-improvement.md) — related
+- [Operation times on the DNH hydrogel ESD model discriminate between physicians of different experience levels](dnh-model-operation-times-discriminate-experience-levels.md) — a narrower finding that bears on this claim
+- [MBOSATS scores on the 3D-printed LRYGB model differentiate surgical expertise levels, with scores decreasing and operation times increasing from experts to intermediates to residents](mbosats-construct-validity-3d-lrygb-model.md) — related

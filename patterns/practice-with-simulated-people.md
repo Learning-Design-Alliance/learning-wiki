@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 248 claims (128 for, 101 mixed, 19 against) · 136 studies (41 causal, 36 review, 18 design, 16 quant-synthesis, 14 qualitative, 7 associational, 4 theoretical), `q1`–`q4` · 27 of 136 report an effect size · 243 claims rest on one study
+> **Evidence** · 249 claims (129 for, 101 mixed, 19 against) · 137 studies (41 causal, 36 review, 18 design, 16 quant-synthesis, 15 qualitative, 7 associational, 4 theoretical), `q1`–`q4` · 27 of 137 report an effect size · 244 claims rest on one study
 
 ## Description and scope
 
@@ -176,6 +176,7 @@ Read against the model on 2026-10-19; these bear on the page but do not change a
 - [Adding a virtual patient simulation to standard nursing training produces significantly greater improvement in confidence in asking about IPV than standard training alone](../claims/vp-simulation-greater-confidence-asking-about-ipv.md) [+W] — attached 2026-11-05 from Sörman K et al. (2025), which proposed "Integrate interactive virtual patient simulations into health-professions curricula as a complement to conventional teaching for complex and sensitive clinical topics"; tests this page's relationship.
 - [Objective IPV knowledge scores are consistently higher in the VP group, driven by a significant main group effect rather than a differential improvement rate](../claims/vp-group-consistently-higher-objective-knowledge.md) [+W] — attached 2026-11-05 from Sörman K et al. (2025), which proposed "Integrate interactive virtual patient simulations into health-professions curricula as a complement to conventional teaching for complex and sensitive clinical topics".
 - [VP training adds no measurable benefit over standard training for general self-efficacy in nursing students](../claims/vp-no-added-effect-general-self-efficacy.md) [~W] — attached 2026-11-05 from Sörman K et al. (2025), which proposed "Integrate interactive virtual patient simulations into health-professions curricula as a complement to conventional teaching for complex and sensitive clinical topics".
+- [Students' emotions evolve positively across simulation-based experience, from initial nervousness toward calm, control, and self-confidence](../claims/positive-emotional-evolution-across-simulation.md) [+W] — attached 2026-11-06 from García Carpintero-Blas E et al. (2025), which proposed "Progressive SimZones-based simulation design moving from low-complexity technical zones to realistic Zone 3 scenarios within a four-phase session structure".
 
 ## Illustrative design instance and observation record
 

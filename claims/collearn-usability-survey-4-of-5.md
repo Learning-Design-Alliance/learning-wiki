@@ -53,3 +53,4 @@ Post-session Likert questionnaire with 16 raters across teacher, researcher, stu
 - [Students rate the virtual campus positively overall, with communication tools scoring lowest](virtual-campus-positive-communication-lowest.md) — related
 - [Nursing students reported high satisfaction with community care simulation, with all SDS domain means around 4.5 and support rated lowest](ccs-high-satisfaction-sds-domain-scores.md) — related
 - [Students rate the AISP chatbot highly usable, with robotic conversational style the most common concern](aisp-cortex-usability-cuq-findings.md) — related
+- [Students evaluated the e-learning tool positively, with 75.0% overall agreement on functionality and satisfaction and 87.5% on scope](vp-elearning-high-satisfaction-evaluation.md) — related

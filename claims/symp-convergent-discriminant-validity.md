@@ -48,3 +48,4 @@ Discriminant validity analysis in the subsample with both standardized tests (n 
 ## Related Claims
 - [SYMP Test performance correlates moderately and significantly with mathematics achievement in every grade of primary school, for both one-digit and two-digit comparison](symp-correlates-math-achievement-all-grades.md) — related
 - [The association between one-digit comparison and mathematics achievement decreases across grades, while the two-digit association remains stable](one-digit-math-association-decreases-with-grade.md) — related
+- [Standardized tests, parent ratings and teacher ratings show good convergent validity for academic subjects in children with ADHD, but reading and spelling show poor discriminant validity](mtmm-convergent-validity-academic-adhd.md) — related
