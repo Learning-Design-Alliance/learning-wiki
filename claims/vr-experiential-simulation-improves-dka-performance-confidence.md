@@ -47,3 +47,4 @@ Repeated-measures ANOVA in the same RCT (N=44) showed significant group (F = 15.
 ## Related Claims
 - [A Kolb-based VR simulation program produces significantly greater improvement in problem-solving ability than e-book-based case simulation among nursing students](vr-experiential-simulation-improves-dka-problem-solving.md) — related
 - [Three-hour simulation-based tourniquet training significantly improves medical interns' knowledge, skills, attitudes, self-confidence and self-efficacy](simulation-tourniquet-training-improves-intern-outcomes.md) — a broader claim this one bears on
+- [VR-based disaster simulation education increases cognitive flexibility while it decreases in the written-case group](vr-simulation-cognitive-flexibility-gain.md) — related

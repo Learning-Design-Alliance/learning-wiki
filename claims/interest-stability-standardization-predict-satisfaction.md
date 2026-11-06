@@ -69,3 +69,4 @@ Null findings from the same multiple linear regression (n = 166): four of the se
 - [Study-related stress predicts higher fatigue; study satisfaction and emotional-intelligence components predict lower fatigue](fatigue-predictors-cross-sectional.md) — related
 - [After using the digital inlay platform, preclinical dental students averaged 43.32 ± 16.17 out of 60 on a restorative-concepts exam, with 48.03% scoring 50 or higher](vr-inlay-platform-exam-scores-43-32.md) — related
 - [Most students reported increased motivation for independent study and improved understanding of fundamental inlay/onlay concepts after platform use](vr-inlay-platform-motivation-and-concept-understanding.md) — related
+- [Satisfaction with the digital course correlates moderately with practical test scores and independently predicts them in regression (β = 0.28)](satisfaction-correlates-practical-performance.md) — related

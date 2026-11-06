@@ -59,6 +59,9 @@ The review recommends that immersive technologies like VR and AR be used as supp
 - [Design VR anatomy studies and implementations to reduce cognitive burden: longitudinal exposure, sufficient familiarization, and mixed-reality devices for drawing tasks](reduce-vr-cognitive-burden-recommendations.md)
 - [Use LLMs as supplements for theoretical learning while preserving hands-on training for practical skills](llm-supplement-theoretical-learning-ot.md)
 - [Integrate formal VR education with hands-on clinical experiences in physical therapy curricula](integrate-formal-vr-education-hands-on.md)
+- [Use 3D game-based simulation in blended learning environments alongside traditional teaching](blended-use-of-3d-game-simulation-nursing.md)
+- [Pair LLM-assisted learning with VR/AR or simulation-based training for procedural skills](llm-plus-vrar-for-procedural-skills.md)
+- [Use educational simulation software as a supplement to lectures and hospital-based clinical practice in nursing education](simulation-software-supplement-to-lecture-and-clinical-practice.md)
 
 ## Examples
 -

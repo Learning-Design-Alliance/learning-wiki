@@ -58,3 +58,4 @@ Multivariate linear regression on the matched sample (n=80) adjusting for baseli
 - [Clinical interview skills improved significantly from baseline to post-intervention only in the VSP group, not in the control group](vsp-group-within-group-interview-skill-gain.md) — related
 - [The BOPPPS advantage in knowledge and skills remained statistically significant after ANCOVA adjustment for baseline scores](ancova-adjusted-boppps-effects.md) — related
 - [VSP training produced significantly greater improvement in theoretical knowledge scores than traditional case-based teaching](cl-vsp-greater-theoretical-knowledge-gains.md) — related
+- [The BOPPPS-CBL effect on Section D and total Pt-test scores persists after adjusting for age, gender, and baseline academic scores](boppps-cbl-pt-test-regression-adjusted.md) — related

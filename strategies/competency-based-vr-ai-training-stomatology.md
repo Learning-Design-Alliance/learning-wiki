@@ -54,6 +54,7 @@ The article recommends that educators translate bibliometric insights on virtual
 - [Sequence VR haptic simulator training before students' first artificial-tooth access cavity preparation in preclinical endodontic curricula](sequence-vr-simulator-before-artificial-teeth.md)
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
 - [Hybrid model: initial VR training for procedural familiarity followed by supervised hands-on practice](hybrid-vr-then-hands-on-thoracentesis-model.md)
+- [Pair LLM-assisted learning with VR/AR or simulation-based training for procedural skills](llm-plus-vrar-for-procedural-skills.md)
 
 ## Examples
 -

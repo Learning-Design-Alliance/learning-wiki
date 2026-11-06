@@ -50,3 +50,4 @@ Post-course 8-dimension Likert questionnaire (n=64) compared between groups with
 - [Qualitative feedback from intervention cohorts highlighted enhanced knowledge application and improved self-directed learning](boppps-cbl-qualitative-themes-knowledge-application-self-directed-learning.md) — related
 - [Intervention group reports higher perceived difficulty, reasoning improvement, engagement, self-efficacy, and course material evaluation](genai-cbl-subjective-experience.md) — related
 - [Differences among the six novel teaching strategies are minor, and in pairwise meta-analysis only BOPPPS and SBL significantly beat LBL on all three outcomes](minor-differences-among-novel-strategies-pairwise.md) — a broader claim this one bears on
+- [BOPPPS-CBL students rate teaching qualities significantly higher than traditionally taught students](boppps-cbl-higher-teaching-quality-ratings.md) — related

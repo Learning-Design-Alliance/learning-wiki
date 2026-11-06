@@ -75,3 +75,4 @@ Two-item NASA-TLX workload assessment in the same study. The authors conclude th
 - [Overall SCT-measured antibiotic-stewardship reasoning scores rose from pre-test to post-test, without a statistically significant change, among MBBS learners after a single-session rule-based DCBL intervention in one uncontrolled pre-post study](single-session-dcbl-no-significant-overall-sct-change.md) — related
 - [Mobile AR for anatomy education received a mean System Usability Scale score of 58.25 (SD ±15.41), below the average threshold of 68 and translating to a 'D' grade](mobile-ar-anatomy-sus-58-25-d-grade.md) — related
 - [Students rated the HoloLens 2 above average on the System Usability Scale (mean 79.4)](hololens-sus-79-above-average-usability.md) — related
+- [Students rated Orthotrainer as usable (mean SUS 77.62) and reported high online learning readiness](orthotrainer-sus-and-olrs-favourable.md) — reports the opposite

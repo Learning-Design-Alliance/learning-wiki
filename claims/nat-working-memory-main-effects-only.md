@@ -50,3 +50,4 @@ Working memory task (hidden-figure search, distinct from training tasks) in the 
 
 ## Related Claims
 - [Working memory performance increases from baseline to the first post-induction trial across all age groups and conditions, consistent with practice effects](nback-practice-effect-all-groups.md) — related
+- [In linear mixed-effects models, the GROUP × TIME interaction was not significant for most outcomes, indicating similar temporal patterns of change](lmm-group-time-interaction-not-significant.md) — possibly the same claim (merge candidate)

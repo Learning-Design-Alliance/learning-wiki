@@ -70,3 +70,4 @@ Self-report survey (Table 1, n = 162) asking three preparation questions, groupe
 - [In regressions predicting self-reported achievement, elaboration positively (Beta = 0.24) and cramming negatively (Beta = -0.30) predicted achievement, but only effort regulation and engagement remained significant in the combined model](elaboration-cramming-achievement-regression.md) — related
 - [Effort regulation and student engagement were the most consistent predictors of learning strategy use and self-reported achievement](effort-regulation-engagement-consistent-predictors.md) — related
 - [An intervention study of Learning How to Learn reported improved study behaviors and higher second-semester proficiency scores](lhtl-intervention-improved-study-behaviors.md) — related
+- [Just-in-time teaching improves cognitive gains and decreases failure and attrition rates compared with traditional teaching](jitt-improves-gains-decreases-failure-attrition.md) — related

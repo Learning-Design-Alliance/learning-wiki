@@ -49,3 +49,4 @@ Authors' interpretation (discussion), citing prior work showing cognitive load e
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — related
 - [Students' science skills and experience being matched to the instruction level explains why ILL-3 was most effective](matching-inquiry-level-to-student-competence.md) — related
+- [The authors hypothesize that the cognitive load of complex procedures dilutes the additional visual repetitions of Peyton's 4-step approach](cognitive-load-hypothesis-peyton-complex-procedures.md) — related

@@ -53,6 +53,8 @@ In its conclusions, the review recommends that "healthcare organizations and edu
 - [Strengthen nurses' EBP competence and clinical decision-making through targeted education, access to organizational resources, and supportive policies](targeted-ebp-education-resources-policies-strategy.md)
 - [Support EBP education with mentorship, protected time, and continuity of initiatives rather than isolated courses](ebp-institutional-support-strategy.md)
 - [Structured mentorship system in which trained nurse mentors deliver EBP education, bedside teaching and ongoing monitoring](nurse-mentor-ebp-monitoring-strategy.md)
+- [Incorporate management, leadership opportunities, and career mentoring into training programmes so consultant skills are learnt during training](consultant-skills-during-training.md)
+- [Implement structured mentorship programs and formal leadership development initiatives for healthcare professionals in LMIC settings](structured-mentorship-leadership-development-lmic.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ In the limitations section, the authors state the comparison "compared two compr
 - [Structured debriefings enabled all scenario participants to reflect on and discuss their performance with constructive instructor feedback](three-phase-debriefing-reflection-feedback.md) — related
 - [VR-based acupuncture training was associated with higher practical skills assessment scores than conventional instruction](vr-acupuncture-higher-practical-skills.md) — related
 - [VR-based acupuncture training was associated with higher theoretical knowledge posttest scores than conventional instruction](vr-acupuncture-higher-theoretical-knowledge.md) — related
+- [Simulation leaders perceive IVR as a supplement rather than a replacement for other simulation modalities, best suited to familiarising junior learners with algorithms, clinical findings and verbal communication](ivr-perceived-as-supplement-not-replacement.md) — related

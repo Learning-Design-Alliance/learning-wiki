@@ -63,3 +63,4 @@ Prospective single-center pre-post educational intervention with 113 fifth-year 
 - [Pharmacy students' knowledge scores rose significantly from mean 6.86 to 8.44 after a peer-led workshop, in one uncontrolled pre-post study (r = 0.74)](peer-led-workshop-improved-medication-disposal-knowledge.md) — related
 - [Perceived importance of practical workshops increased after participation, with the proportion giving a maximum score rising from 34.28% to 61.42%](perceived-workshop-importance-increased.md) — related
 - [Simulation training in VR or HFS significantly improves medical interns' self-reported confidence in managing oxygen desaturation](vr-hfs-desaturation-confidence-gain.md) — related
+- [Overall end-of-clerkship performance of fifth-year medical students was significantly higher after simulation-based learning was integrated into the pediatric curriculum](sbl-improves-overall-pediatric-clerkship-performance.md) — related

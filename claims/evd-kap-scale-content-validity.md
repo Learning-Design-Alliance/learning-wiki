@@ -49,3 +49,4 @@ Content validity evaluation by the 15 experts who participated in both Delphi ro
 - [Two Delphi rounds with 15 experts produced high authority and consensus coefficients for the EVD KAP item pool](evd-kap-delphi-expert-consensus.md) — related
 - [A simulated scenario for pediatric EVD management built with RCDP achieved excellent content validity from seven expert reviewers across two assessment rounds](rcdp-evd-scenario-content-validity.md) — related
 - [The EVD KAP questionnaire lacks criterion-related validity testing and its findings may not generalize beyond the Chinese context](evd-kap-scale-validity-limitations.md) — related
+- [Expert consultation yields high content validity for the scale: item CVI 0.78–1.00 and overall scale CVI 0.91](palliative-communication-scale-cvi-091-content-validity.md) — related

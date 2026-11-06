@@ -48,3 +48,4 @@ Synthesis of the interview findings with research literature addressing RQ 2 (so
 - [Safety trainers guide social interaction in training situations by facilitating interaction and maintaining temporal structure](trainers-guide-social-interaction-in-safety-training.md) — a narrower finding that bears on this claim
 - [Safety trainers utilize organizational social and material resources for training development](trainers-utilize-organizational-resources-for-training-development.md) — related
 - [Safety trainers match pedagogy to training goals by ensuring relevance, selecting delivery methods, and evaluating outcomes](trainers-match-pedagogy-to-safety-training-goals.md) — related
+- [Self-operating IVR scenarios offer scalability and resource efficiency, but their rigidity reduces debriefer engagement](self-operating-ivr-scenarios-rigidity-reduces-debriefer-engagement.md) — related

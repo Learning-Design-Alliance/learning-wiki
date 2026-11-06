@@ -61,6 +61,7 @@ The authors recommend that future VR simulations "incorporate prebriefing, intui
 - [Incorporate structured non-technical skills training and structured debriefing sessions within simulation-based education](structured-nts-training-debriefing-recommendation.md)
 - [Simplify simulation models or divide training into smaller sections to maintain engagement](simplify-or-segment-simulation-training.md)
 - [Iterate digital simulation platforms using trainee suggestions: add haptic feedback modules, case-discussion content, scoring and login tracking, and a streamlined interface](trainee-driven-platform-improvement-strategy.md)
+- [Embed repeated exposure to diverse disaster triage scenarios in training to build adaptive decision-making](repeated-diverse-scenario-exposure-triage-strategy.md)
 
 ## Examples
 -

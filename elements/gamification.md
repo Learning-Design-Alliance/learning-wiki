@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 64 claims (42 for, 19 mixed, 3 against) · 38 studies (19 causal, 8 review, 6 quant-synthesis, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 8 of 38 report an effect size · 63 claims rest on one study
+> **Evidence** · 66 claims (44 for, 19 mixed, 3 against) · 39 studies (20 causal, 8 review, 6 quant-synthesis, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 8 of 39 report an effect size · 65 claims rest on one study
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
@@ -88,6 +88,8 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [Puzzle participants outperform intra-group controls on midterm exam accuracy in two of three intervention groups](../claims/puzzle-participants-outperform-intragroup-midterm.md) [+W]
 - [Medical students who played weekly open-access pharmacology games showed significant pretest-to-posttest score improvement, while control students did not](../claims/pharmacology-games-significant-posttest-gain.md) [+W] — attached 2026-11-05 from Aloum L et al. (2025), which proposed "Three open-access web-based pharmacology games: Cross DRUGs, Find the DRUG, and DRUGs Escape Room".
 - [Most surveyed medical students perceived the pharmacology games as enjoyable and effective for understanding concepts](../claims/students-perceive-games-enjoyable-effective.md) [+W] — attached 2026-11-05 from Aloum L et al. (2025), which proposed "Three open-access web-based pharmacology games: Cross DRUGs, Find the DRUG, and DRUGs Escape Room".
+- [In a pilot RCT on a neonatology rotation, students using a stamp collecting game scored higher on total self-evaluation than standard-education controls](../claims/stamp-game-higher-total-self-evaluation.md) [+W] — attached 2026-11-06 from Han Mingyu et al. (2025), which proposed "Stamp collecting game: a low-cost badge-style gamification element for clinical rotations"; tests this page's relationship.
+- [Students in the stamp collecting game group achieved significantly higher post-rotation neonatal test scores than controls](../claims/stamp-game-higher-post-rotation-test-scores.md) [+W] — attached 2026-11-06 from Han Mingyu et al. (2025), which proposed "Stamp collecting game: a low-cost badge-style gamification element for clinical rotations"; tests this page's relationship.
 
 ## Examples
 

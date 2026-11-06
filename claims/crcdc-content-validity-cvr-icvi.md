@@ -76,3 +76,4 @@ Item-level and scale-level content validity indices computed after expert review
 - [The DKSCQ-N demonstrates strong content validity with a scale-level Content Validity Index of 0.95 following expert review and item refinement.](dkscqn-content-validity-s-cvi-095.md) — related
 - [Content validity of the HSPNCS is acceptable (S-CVI/Ave 0.972)](hspncs-acceptable-content-validity.md) — related
 - [Content validity of OPTIS was established through five consecutive rounds of expert feedback involving 18 experts](optis-content-validity-expert-rounds.md) — related
+- [Expert consultation yields high content validity for the scale: item CVI 0.78–1.00 and overall scale CVI 0.91](palliative-communication-scale-cvi-091-content-validity.md) — related

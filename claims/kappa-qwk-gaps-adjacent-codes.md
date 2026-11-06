@@ -50,3 +50,4 @@ Results-section interpretation of QWK versus κ discrepancies on 3-point rubric 
 - [The multi-agent LLM GradeOpt achieved substantial agreement with human coders on overall PCK items (κ = .68, QWK = .79) and outperformed RoBERTa, SBERT, and naïve GPT-4o prompting](gradeopt-substantial-agreement-pck-outperforms-baselines.md) — related
 - [All automated models, including GradeOpt, were most challenged by knowledge of teaching mathematics items (GradeOpt κ = .59) and least challenged by knowledge of students' mathematical thinking (κ = .79)](pck-subdomain-variation-ktm-hardest.md) — related
 - [Most faculty–GPT-4 scoring discrepancies were only one-point differences, shrinking across iterations](oeq-scoring-discrepancies-mostly-one-point.md) — related
+- [Interobserver agreement on ASSET ratings was low for exact scores (37%, kappa 0.13) but 79% within one point](cl-asset-interobserver-agreement-low.md) — related

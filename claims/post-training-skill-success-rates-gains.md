@@ -50,3 +50,4 @@ Direct-observation skill assessment of 60 students using standardized checklists
 - [Total simulator time for awake fiberoptic intubation decreased from pre-test to three-month post-test](rcdp-simulation-decreases-afio-simulator-time.md) — related
 - [Completion rates varied widely across the 22 key clinical tasks, with oxygen titration, fluid administration, and requesting bloodwork achieved by all participants and calling for help achieved in under 60% of cases](rcdp-task-completion-variation-checklist.md) — related
 - [Hands-on CPR, endotracheal intubation, and defibrillation operational scores rose significantly from pre-test to post-test in paediatric postgraduates after integrated simulation with TBL, in a single-group pre-post study](simulation-tbl-improves-paediatric-cpr-skill-scores.md) — related
+- [Failure rates fell and excellent grades rose markedly in the post-simulation cohort](sbl-reduces-failure-rate-raises-excellent-grades.md) — related

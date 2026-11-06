@@ -57,3 +57,4 @@ A linear mixed-effects model for confidence as the dependent variable found male
 - [Solving practical cases influences female students' global satisfaction but not male students', despite similar ratings of that aspect](practical-cases-influence-female-satisfaction.md) — related
 - [Female student teachers score significantly higher on performance goal orientation than male students, with no gender differences on the other dimensions](gender-performance-goal-orientation-females-higher.md) — related
 - [Female students report higher stress than male students during hands-on artificial-tooth training, despite comparable performance](female-higher-stress-hands-on-training.md) — related
+- [Male students' self-assessment of communication is statistically higher than female students' self-assessment](male-students-higher-self-assessment.md) — related

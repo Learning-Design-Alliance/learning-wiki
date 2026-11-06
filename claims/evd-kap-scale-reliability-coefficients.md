@@ -65,3 +65,4 @@ Test-retest substudy with 20 nurses recruited two weeks after the formal survey.
 
 ## Related Claims
 - [The EVD KAP questionnaire lacks criterion-related validity testing and its findings may not generalize beyond the Chinese context](evd-kap-scale-validity-limitations.md) — related
+- [The palliative care communication scale shows high internal consistency (overall Cronbach's α = 0.928) and 2-week test-retest reliability of 0.89](palliative-communication-scale-reliability-alpha-0928-retest-089.md) — related

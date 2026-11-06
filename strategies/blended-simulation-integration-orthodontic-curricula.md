@@ -60,6 +60,7 @@ The review recommends that educators integrate simulation-based methods into ort
 - [Use virtual simulation games as a preliminary or complementary method to face-to-face simulation and clinical practice](vsg-as-preliminary-or-complementary-simulation.md)
 - [Position AI simulation as a complement to—not a replacement for—traditional clinical placements, with faculty preparation and dedicated quiet spaces](ai-simulation-as-complement-not-replacement.md)
 - [Integrate open-source AI-supported, self-paced tracing tools with immediate feedback into undergraduate orthodontic curricula](ai-supported-self-paced-cephalometric-training-strategy.md)
+- [Use educational simulation software as a supplement to lectures and hospital-based clinical practice in nursing education](simulation-software-supplement-to-lecture-and-clinical-practice.md)
 
 ## Examples
 -

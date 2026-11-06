@@ -53,3 +53,5 @@ Composite outcome analysis in the quasi-experiment: knowledge (0–15) and skill
 - [BOPPPS-based blended teaching produces significantly higher overall course scores than traditional lecture-based teaching](boppps-higher-overall-course-scores.md) — related
 - [BOPPPS-CBL instruction is associated with significantly higher adjusted post-test knowledge scores than lecture-based learning in undergraduate HAI education](boppps-cbl-higher-adjusted-posttest-hai-knowledge.md) — related
 - [AI-assisted CBL+FC residents significantly outperform lecture-based controls on post-course theoretical knowledge tests](ai-assisted-cbl-fc-higher-theoretical-scores.md) — related
+- [The BOPPPS-CBL effect on Section D and total Pt-test scores persists after adjusting for age, gender, and baseline academic scores](boppps-cbl-pt-test-regression-adjusted.md) — related
+- [BOPPPS-CBL students achieve significantly higher comprehensive case-analysis (Section D) scores than traditionally taught students](boppps-cbl-section-d-case-analysis-superior.md) — related

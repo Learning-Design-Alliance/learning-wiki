@@ -54,3 +54,4 @@ This is a definitional claim from the literature review, citing Sharples et al. 
 - [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) — a broader claim this one bears on
 - [Flipped classroom significantly improves pharmacy students' performance compared with traditional lecture-based approaches](flipped-classroom-improves-pharmacy-performance.md) — related
 - [Flipped classroom teaching with structured interaction improves learning outcomes more than lecture-based teaching and a video-lecture control](structured-interaction-flipped-classroom-improves-learning.md) — related
+- [Active processors score higher than reflective processors in both formats, and sequential learners score higher in the flipped classroom](learning-style-wirebending-score-differences.md) — related

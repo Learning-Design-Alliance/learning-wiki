@@ -51,3 +51,5 @@ Theme 2 'Preparation for realistic situations' from the qualitative interviews. 
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — a broader claim this one bears on
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [Male nursing students reported a theory-practice gap and insufficient simulation lab time before OSCE examinations](theory-practice-gap-insufficient-simulation-lab-time.md) — related
+- [Male nursing students report that mannequin-based simulation bridges the gap between theoretical knowledge and practical application in maternal-newborn nursing education](hfs-bridges-theory-practice-male-nursing-students.md) — possibly the same claim (merge candidate)
+- [Male nursing students report developing proficiency in essential obstetric procedures through high-fidelity simulation](hfs-develops-essential-obstetric-skills.md) — related

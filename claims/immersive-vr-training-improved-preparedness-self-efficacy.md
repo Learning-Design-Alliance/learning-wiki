@@ -55,3 +55,4 @@ Quasi-experimental pre–post one-group study (Alsaqer and Alhmoud 2025, Jordan)
 - [Simulated education and training improved nursing students' disaster evacuation knowledge, skills, and preparedness across all subcategories](simulated-education-improved-evacuation-competencies.md) — related
 - [SFHC intervention improved nursing learning self-efficacy scores post-intervention](sfhc-improved-nursing-self-efficacy.md) — related
 - [Screen-based simulation training raises nursing students' post-test self-efficacy in pediatric drug administration compared with verbal instruction](screen-simulation-raises-pediatric-drug-self-efficacy.md) — related
+- [VR-based disaster simulation education increases learning immersion more than written case simulation](vr-simulation-learning-immersion-gain.md) — related

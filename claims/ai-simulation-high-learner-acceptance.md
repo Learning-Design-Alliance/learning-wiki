@@ -65,3 +65,4 @@ Synthesis of acceptance evidence from 8 studies using standardized instruments (
 - [AR participants rated the remote AR system usable, with an average SUS score of 73.8](remote-ar-sus-usability-73-8.md) — related
 - [Most students express positive attitudes and willingness toward virtual simulation training, but a substantial minority doubt it can match real clinical practice](student-attitudes-virtual-simulation-survey.md) — related
 - [The AI chatbot received excellent usability ratings for scenario accuracy and feedback quality, but scoring speed and understanding of traditional Korean medicine terminology fell below the satisfaction benchmark](chatbot-usability-strengths-feedback-weaknesses-tkm-speed.md) — a narrower finding that bears on this claim
+- [Students rated Orthotrainer as usable (mean SUS 77.62) and reported high online learning readiness](orthotrainer-sus-and-olrs-favourable.md) — a narrower finding that bears on this claim

@@ -49,3 +49,4 @@ Delphi expert consultation with 15 experts (14 nursing, 1 medical) from 8 provin
 - [Two rounds of Delphi expert consultation with 22 experts demonstrate significant consensus and refine the retraining program from 9 to 11 learning modules.](delphi-consultation-refines-retraining-program-modules.md) — related
 - [Content validity of the EVD KAP questionnaire is satisfactory, with I-CVI from 0.861 to 1.000 and S-CVI of 0.950](evd-kap-scale-content-validity.md) — related
 - [The EVD KAP questionnaire lacks criterion-related validity testing and its findings may not generalize beyond the Chinese context](evd-kap-scale-validity-limitations.md) — related
+- [Expert consultation yields high content validity for the scale: item CVI 0.78–1.00 and overall scale CVI 0.91](palliative-communication-scale-cvi-091-content-validity.md) — related

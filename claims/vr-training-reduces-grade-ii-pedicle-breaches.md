@@ -51,3 +51,4 @@ Pooled random-effects analysis of six RCTs found significantly lower Grade II (m
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [VR simulation training improves orthopaedic trainees' technical proficiency and shortens operative times](vr-simulation-improves-ortho-technical-proficiency.md) — a broader claim this one bears on
 - [In thyroid surgery training, simulation and virtual-reality training improved technical performance and task completion time, and simulators were rated as realistic](simulation-vr-improves-thyroid-surgery-technical-performance.md) — related
+- [No control-group trainee experiences pedicle breach while breaches occur in a quarter of control trainees during exercise](imr-ss-no-pedicle-breaches.md) — related

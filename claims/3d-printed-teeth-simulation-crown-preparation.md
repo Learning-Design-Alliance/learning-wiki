@@ -52,3 +52,4 @@ The review reports, citing Tricio et al., "increased competence among students w
 - [In a randomised crossover trial, simulation training produced a 22% absolute increase in scores for assessing critically unwell patients versus didactic lectures](simulation-crossover-22-percent-increase-critically-unwell.md) — related
 - [The 2022 cohort rated 3D imaged models significantly more positively than the 2021 cohort for visualisation, understanding and self-assessment of tooth preparations](cohort-2022-rated-3d-ims-more-positively.md) — related
 - [Rubric group scored significantly higher on every individual crown preparation parameter post-training](rubric-group-higher-all-individual-crown-parameters.md) — related
+- [Digital feedback improves accuracy across multiple tooth preparation dimensions, particularly taper angle and finish line standardization](digital-feedback-multi-dimension-accuracy-taper-finish-line.md) — related

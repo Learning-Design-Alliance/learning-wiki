@@ -59,3 +59,5 @@ Behavioral results from the combined Flanker-Go/No-Go task in 37 children. The s
 - [Both text incongruency and knowledge inaccuracy produce increased reading times on target sentences](incongruency-accuracy-reading-time-effects.md) — related
 - [Congruent observation reduces error (overall d = -1.71) while incongruent observation increases error (overall d = 1.19)](congruent-versus-incongruent-observation-directional-effects.md) — related
 - [Children's flanker-task accuracy improved over the summer and showed the expected congruency effect, regardless of intervention group](flanker-accuracy-time-and-congruency-effects.md) — related
+- [School-based PA, MMNS, and combined PA+MMNS interventions showed no significant effects on Flanker task accuracy or reaction time compared to placebo in Tanzanian schoolchildren](kazifya-no-cognitive-intervention-effects-flanker.md) — related
+- [Sex, hemoglobin level, age, and baseline scores were significant predictors of cognitive and academic outcomes](kazifya-sex-hb-baseline-predictors.md) — related

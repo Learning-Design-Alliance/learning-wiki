@@ -134,3 +134,4 @@ Participants also reported "the lack of emotional connection and dependence on t
 - [Qualitative feedback raised concerns about perceived lack of experience for certain tasks, such as complex endodontic treatment and communication skills](qualitative-concerns-experience-epas.md) — related
 - [Students’ reflections focused predominantly on challenges and areas for growth rather than perceived competence](reflections-challenges-outweigh-perceived-competence.md) — related
 - [Most students expressed misinformation concerns and lacked confidence in their AI-related skills](students-report-misinformation-concerns-low-ai-confidence.md) — related
+- [DeepSeek-assisted PBL residents report higher trust in course information yet greater concern about inaccurate AI medical advice](deepseek-pbl-trust-paradox-inaccuracy-concern.md) — related

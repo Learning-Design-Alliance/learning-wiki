@@ -44,6 +44,7 @@ The article recommends that educators integrate AI-based analysis into preclinic
 - [Use online tutoring modules before clinic entry to reinforce diagnostic skills through repetitive application on complex cases](preclinic-online-tutoring-modules-strategy.md)
 - [Prioritize competency-based training models integrating VR-based surgical practice and AI-assisted procedural assessments in dental education](competency-based-vr-ai-training-stomatology.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
+- [Introduce VR simulation during the preclinical phase of dental education, before students perform procedures on patients](vr-simulation-preclinical-phase-integration.md)
 
 ## Examples
 -

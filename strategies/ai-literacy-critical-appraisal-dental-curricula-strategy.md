@@ -61,6 +61,7 @@ The article recommends building AI literacy and critical appraisal into dental e
 - [Integrate structured guidance on responsible, critical AI use alongside self-directed learning approaches](structured-guidance-responsible-critical-ai-use-nursing.md)
 - [Scaffolded AI integration with teacher training and reflective tasks to reduce over-reliance](scaffolded-ai-integration-teacher-training-reflective-tasks.md)
 - [Use advanced LLMs as assistive tools in dental education and practice, with comprehensive validation, strict regulation, and human supervision before deployment](llm-assistive-dental-education-strategy.md)
+- [Integrate generative AI into PBL under educator supervision, teaching students to formulate clinical questions and critically evaluate AI responses](supervised-critical-ai-integration-pbl-strategy.md)
 
 ## Examples
 -

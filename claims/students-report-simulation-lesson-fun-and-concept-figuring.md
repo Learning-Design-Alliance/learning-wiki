@@ -130,3 +130,4 @@ Student interview excerpt in the theme simulation can support inquiry learning a
 - [Water Module students found the active, integrative teaching style stimulating for independent and critical thinking despite initial discomfort](water-module-active-learning-reception.md) — related
 - [Students report culture-based activities create an enjoyable and comfortable atmosphere](culture-activities-enjoyable-atmosphere.md) — related
 - [Students rated the interdisciplinary escape room positively, with the highest ratings for recommendation to peers, fun, relevance, and learning atmosphere](escape-room-student-satisfaction.md) — related
+- [Students rate the digital simulation course positively but remain neutral about it replacing hands-on instruction](students-positive-but-neutral-on-replacing-hands-on.md) — related

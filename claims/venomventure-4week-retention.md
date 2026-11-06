@@ -57,3 +57,4 @@ Sign-test analysis of 66 Phase 1 follow-up respondents found pre-to-follow-up qu
 - [Post-game engagement in follow-up activities did not affect retention of quiz gains among follow-up respondents.](venomventure-postgame-engagement-null.md) — related
 - [Playing VENOMventure produced significant pre-to-post gains on a five-item tree-annotation knowledge quiz among 446 family participants at informal science sites.](venomventure-prepost-quiz-gains.md) — related
 - [Learning gains did not differ significantly across the four data collection sites or by rural/urban and library/museum setting.](venomventure-no-site-differences.md) — related
+- [Knowledge differences between IVR and textbook groups were no longer statistically significant four weeks after the intervention](ivr-knowledge-advantage-not-maintained-at-4-weeks.md) — related

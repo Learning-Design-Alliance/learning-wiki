@@ -48,3 +48,4 @@ Inter-group comparisons of habit changes from the randomized controlled trial (T
 - [Model-based education was more effective than video-based education on caries incidence (ICDAS II) and plaque index](model-education-more-effective-caries-plaque.md) — related
 - [Training produced significant positive change in toothbrushing, flossing, fluoride toothpaste use, tongue cleaning, snacking and dentist visits with parental support](oral-health-training-improves-specific-habits-preschool.md) — a broader claim this one bears on
 - [Game-based instruction significantly improved students' food and drink habits relative to PowerPoint instruction](game-based-instruction-improves-food-drink-habits.md) — related
+- [Repeated video viewing significantly improves correct application of the interdental brush compared with single viewing](repeated-video-viewing-improves-interdental-brush-application.md) — related

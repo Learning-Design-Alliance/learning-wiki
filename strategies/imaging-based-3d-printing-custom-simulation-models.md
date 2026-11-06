@@ -53,6 +53,7 @@ The article recommends using a 3D printing technique to create lifelike simulati
 - [Establish 3D printing teaching platforms in hospitals and universities to enhance interns' professional value recognition and internship teaching quality](establish-3d-printing-teaching-platforms-strategy.md)
 - [Use a one-day multimodal simulation workshop combining lectures, manikins, virtual simulation and a 3D-printed model to train basic bronchoscopy to multidisciplinary teams](one-day-multimodal-bronchoscopy-workshop-strategy.md)
 - [Extend the low-cost homemade simulator principle to other basic, highly structuralized, standardized surgical procedures](extend-homemade-simulator-principle-other-procedures.md)
+- [Extend simulator-assisted breastfeeding training to hospitals, NICUs, and antenatal classes](extend-simulator-breastfeeding-training-clinical-settings.md)
 
 ## Examples
 -

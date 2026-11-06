@@ -86,3 +86,5 @@ Randomised study of 169 second-year medical students comparing 3D VR and 2D lect
 - [Perceived usefulness of VR correlated with perceived knowledge impact, with the strongest association between immersion and understanding (R = 0.73)](vr-perception-correlations-immersion-understanding.md) — related
 - [The difference between groups in finding the training method enjoyable and effective was not statistically significant](pechakucha-enjoyable-effective-null.md) — a narrower finding that bears on this claim
 - [3D VR video acclimatisation improves overall robotic simulator performance among novices compared with 2D video](3d-vr-acclimatisation-improves-simulator-performance.md) — related
+- [Postgraduate aesthetic medicine trainees overwhelmingly rate a 3D simulation app as visually similar to 2D models and superior for understanding the 3D structure of facial aging](3d-simulation-app-facial-aging-visualization-perceptions.md) — related
+- [Both instructional methods yield high descriptive satisfaction and self-confidence scores](both-methods-high-satisfaction-confidence-descriptive.md) — related

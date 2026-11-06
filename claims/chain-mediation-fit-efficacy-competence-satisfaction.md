@@ -54,3 +54,4 @@ Bootstrapping mediation analysis (5,000 resamples, bias-corrected 95% CIs) on th
 - [Teacher self-efficacy shows positive links with personal accomplishment, job satisfaction, and commitment](tse-positive-links-well-being-factors.md) — related
 - [P-O fit is positively associated with pre-service preschool teachers' job satisfaction during internship](po-fit-positive-job-satisfaction-preservice-interns.md) — related
 - [P-O fit positively predicts teaching self-efficacy and perceived teacher competence](po-fit-predicts-efficacy-and-competence.md) — related
+- [Self-efficacy and pedagogical competence chain-mediate the resilience-to-well-being relationship](chain-mediation-self-efficacy-competence-wellbeing.md) — related

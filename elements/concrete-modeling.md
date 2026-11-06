@@ -13,7 +13,7 @@ generated:
 # Concrete Modeling
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 16 claims (7 for, 6 mixed, 3 against) · 11 studies (6 causal, 3 quant-synthesis, 2 review), `q1`–`q4` · 4 of 11 report an effect size · 16 claims rest on one study
+> **Evidence** · 17 claims (8 for, 6 mixed, 3 against) · 12 studies (7 causal, 3 quant-synthesis, 2 review), `q1`–`q4` · 4 of 12 report an effect size · 17 claims rest on one study
 
 ## Description
 Concrete modeling is the element in which physical or tangible representations are used to make abstract relationships visible.
@@ -39,6 +39,7 @@ Concrete modeling is the element in which physical or tangible representations a
 - [Students taught with algebra tiles demonstrated significantly more proficient skills in factoring algebraic expressions than control-group peers](../claims/algebra-tiles-factoring-significant-difference.md) [+W] — attached 2026-11-02 from Ernest Larbi (2016), which proposed "Algebra tile manipulatives for junior high algebra instruction"; tests this page's relationship.
 - [Novice trainees who trained on case-specific 3D-printed temporal bone models scored lower in subsequent cadaveric mastoidectomy than those who trained on generic-anatomy models](../claims/case-specific-3d-printed-training-lower-cadaver-transfer-novices.md) [~W]
 - [The case-specific model group outperformed the generic-anatomy group on the first 3D-printed training procedure, but scores were similar on the second procedure](../claims/first-training-procedure-advantage-case-specific-models.md) [~W]
+- [Most students rated the colored tooth and digital evaluation system positively, though only 60% endorsed the system's scoring fairness](../claims/positive-student-perceptions-colored-tooth-digital-evaluation.md) [+W] — attached 2026-11-06 from Zeng Yanglin et al. (2025), which proposed "Colored model tooth with red target region for Class II cavity preparation".
 
 ## Related Elements
 - [Conceptual Overviews](conceptual-overviews.md)

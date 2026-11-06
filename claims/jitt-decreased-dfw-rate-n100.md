@@ -51,3 +51,4 @@ Course-level retention comparison reported for Contemporary Biology N100 before 
 - [Test questions reinforced by Warm Up questions or Cooperative Learning activities showed higher average normalized gains (~52%, ~60%) than questions discussed in class only (~15%)](jitt-higher-normalized-gains-reinforced-questions.md)
 - [Students rated class discussions of Warm Up responses as very useful (87%, n = 485)](students-rate-warmup-discussions-useful.md) — related
 - [Cooperative learning exercises were rated highly useful by >94% of students and were associated with roughly doubled class attendance](cooperative-learning-usefulness-attendance.md) — related
+- [Just-in-time teaching improves cognitive gains and decreases failure and attrition rates compared with traditional teaching](jitt-improves-gains-decreases-failure-attrition.md) — a broader claim this one bears on

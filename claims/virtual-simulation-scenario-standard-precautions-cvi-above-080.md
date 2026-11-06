@@ -58,3 +58,5 @@ Expert validation study using a researcher-developed Likert-type questionnaire o
 - [Culturally adapted virtual patients achieve acceptable content validity for assessing history-taking and communication skills](vp-acceptable-content-validity.md) — related
 - [Expert content validation revised the scenario-in-action checklist domain from 16 to 14 items and produced a final 28-item checklist](cvi-validation-28-item-simulation-checklist.md) — related
 - [Four items failed to reach consensus in round one and were reformulated or excluded](iafee-ecs-round-one-nonconsensus-items-excluded.md) — related
+- [A high-fidelity PACU pain-control simulation scenario reached adequate content validity after two expert review stages (S-CVI/UA 85; S-CVI/Ave 0.98)](pacu-pain-scenario-content-validated.md) — related
+- [A qualitative group assessment judged the scenario feasible, adequately timed, and realistic](pacu-scenario-qualitative-feasibility-realism.md) — related

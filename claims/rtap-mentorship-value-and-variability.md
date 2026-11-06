@@ -55,3 +55,4 @@ Interview finding on mentorship: mentors offered real-world examples, consistent
 - [Learning was observed even when teachers engaged in the training alone without mentoring or feedback](antecedent-only-training-produces-learning.md) — related
 - [SL placement duration and mentor preparation moderate the effectiveness of SL experiences](sl-duration-and-mentor-moderators.md) — related
 - [Effective telementored psychomotor feedback requires a shared psychomotor vocabulary and a dual feedback role combining real-time instruction with supportive mentorship](telementoring-dual-feedback-mentorship.md) — related
+- [Healthcare leaders in the Balkans acquire leadership skills through experiential learning and mentorship rather than formal training programs](leadership-skills-experiential-mentorship.md) — related

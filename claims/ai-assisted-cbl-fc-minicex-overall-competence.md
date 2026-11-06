@@ -71,3 +71,4 @@ The article reports significant between-group differences on medical interviewin
 - [AI-assisted CBL+FC residents achieve higher OSCE total scores than lecture controls, driven by history collection and physical examination stations](ai-assisted-cbl-fc-osce-total-scores.md) — related
 - [Integrated model improves all seven Mini-CEX domains, largest gain in physical examination](microskills-cptm-minicex-all-domains.md) — related
 - [SOM-PBL improves clinical reasoning performance overall and specifically diagnostic cognitive rigor, but not integrative history analysis or time-critical decision-making](som-pbl-clinical-reasoning-gains.md) — related
+- [Clinical competence measured by Mini-CEX did not differ significantly between AI-PBL and traditional PBL groups despite numerically higher scores in the AI-PBL group](mini-cex-no-significant-group-difference.md) — reports the opposite

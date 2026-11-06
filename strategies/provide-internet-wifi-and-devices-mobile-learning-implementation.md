@@ -54,6 +54,7 @@ Based on the technical problems students encountered and the small device count,
 - [Enrich blended courses with varied authentic online resources and mobile-device access, per learner recommendations](enrich-blended-courses-resources-mobile-access.md)
 - [Provide frequent deadline reminders, easy instructor access, and technical support to ease undergraduate transition to hybrid/online learning](support-strategies-hybrid-online-transition.md)
 - [Use mobile devices and cloud-based technologies to support extensive task-based activities in real-world contexts](mobile-cloud-task-based-real-world-activities.md)
+- [Address technical infrastructure and user comfort (Wi-Fi reliability, cybersickness) when implementing holographic simulation education](holopatient-implementation-technical-infrastructure-comfort.md)
 
 ## Examples
 -

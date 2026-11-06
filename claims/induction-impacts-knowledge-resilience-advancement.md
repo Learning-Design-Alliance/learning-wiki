@@ -69,3 +69,4 @@ Case study focus groups and interviews report that induction experiences gave pa
 - [California administrator induction is rated effective by over 90% of completers, with at least 85% reporting strong preparation on every CPSEL leadership skill](induction-rated-effective-cpsel-preparation.md) — related
 - [Majorities of surveyed teachers and coaches reported the program enhanced career advancement and leadership opportunities](vils-career-advancement-survey-majorities.md) — related
 - [Frequency of coaching field support varies across California induction programs and is positively related to administrators' ratings of program effectiveness](coaching-frequency-related-to-induction-effectiveness.md) — related
+- [End-of-program self-report surveys systematically flatter leadership programs via honeymoon and horizon effects](end-of-program-self-report-inflates-growth.md) — related

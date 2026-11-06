@@ -59,3 +59,4 @@ Randomised trial of 38 general-practice residents (19 per group) in one hospital
 - [BOPPPS/FC-CBL group achieves significantly higher theory test scores than LBL group in general practice residency training](boppps-fc-cbl-higher-theory-test-scores-than-lbl.md) — related
 - [No significant baseline differences between BOPPPS/FC-CBL and LBL groups on demographics or entry-level scores](boppps-fc-cbl-lbl-no-baseline-differences.md) — related
 - [BOPPPS-CBL instruction is associated with significantly higher adjusted post-test knowledge scores than lecture-based learning in undergraduate HAI education](boppps-cbl-higher-adjusted-posttest-hai-knowledge.md) — related
+- [BOPPPS-CBL students self-report significantly greater learning effects across all five measured dimensions](boppps-cbl-higher-learning-effect-self-ratings.md) — related

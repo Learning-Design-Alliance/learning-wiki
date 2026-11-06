@@ -54,3 +54,4 @@ Content validation involved five speech language pathologists using a Table of S
 - [Content validity evaluation of the preliminary 30-item CRCDCS indicated CVR values from 0.40 to 1.00 with nine items below the 0.62 threshold removed, and I-CVI values from 0.80 to 1.00 for retained items.](crcdc-content-validity-cvr-icvi.md) — related
 - [Convergent validity is supported by strong correlations between DKSCQ-N subdomains and the Knowledge of Dysphagia Scale.](dkscqn-convergent-validity-kds-correlations.md) — related
 - [The knowledge questionnaire and skills checklist showed acceptable validity and reliability for assessing head trauma assessment learning](trauma-assessment-tool-validity-reliability.md) — related
+- [Expert-rated content validity of the scale is strong, with item-level CVI of 0.80 to 1.00 and scale-level CVI of 0.96](endoscopy-nurse-scale-content-validity.md) — related

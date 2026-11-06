@@ -57,3 +57,4 @@ Comparative analysis over one academic year: 36 fifth-year students per group, a
 - [Supplementary questionnaire responses from the experimental group indicate perceived gains in learning experience, problem-solving, cooperation, communication, and commitment](boppps-rain-classroom-supplementary-questionnaire-perceptions.md) — related
 - [Students taught with integrated Rain Classroom and CBL scored significantly lower on objective questions than students taught with traditional lectures](rain-classroom-cbl-lower-objective-scores.md) — reports the opposite
 - [Grading format at fourth- and fifth-year exams did not change final licensing exam performance](grading-format-no-effect-licensing-exam-grades.md) — related
+- [BOPPPS-CBL instruction produces significantly higher post-training total test scores than traditional lecture-based teaching in pediatric dentistry clerkship](boppps-cbl-higher-pt-test-total-scores.md) — related

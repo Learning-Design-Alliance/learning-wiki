@@ -71,6 +71,7 @@ The review's design recommendation is that educators should not seek to replace 
 - [Use digitized 3D anatomical models and VR/AR as supplements or alternatives to cadaver-based anatomy teaching](vr-ar-digitized-anatomical-models-supplement-alternative-cadavers.md)
 - [Adopt Sim + LBL as a cost-effective, scalable approach for visually intensive, practice-oriented disciplines](adopt-sim-lbl-cost-effective-scalable.md)
 - [Integrate open-source AI-supported, self-paced tracing tools with immediate feedback into undergraduate orthodontic curricula](ai-supported-self-paced-cephalometric-training-strategy.md)
+- [Use educational simulation software as a supplement to lectures and hospital-based clinical practice in nursing education](simulation-software-supplement-to-lecture-and-clinical-practice.md)
 
 ## Examples
 -

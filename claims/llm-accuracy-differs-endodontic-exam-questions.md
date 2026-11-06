@@ -54,3 +54,4 @@ Cross-sectional in silico analysis of 123 text-based endodontic questions from t
 - [Wilcoxon pairwise comparisons showed Claude rated significantly higher than ChatGPT, Gemini, and DeepSeek in overall student ratings](wilcoxon-claude-beats-other-models.md) — related
 - [ChatGPT 4.0 was more consistent on a question-by-question basis than other models, whose error rates were considerably higher on items ChatGPT 4.0 answered correctly](chatgpt-4-question-level-consistency-advantage.md) — related
 - [Gemini 2.5 significantly outperformed GPT-4.5 and Claude 3.7 on overall JNEOT accuracy, with Gemini 2.5 highest at 91.0%](gemini-outperformed-gpt45-claude37-jneot.md) — related
+- [Claude outperformed ChatGPT-4 and Gemini in accuracy on Polish/English medical-dental exam questions in both prompt languages](claude-highest-accuracy-ldek-exam-questions.md) — reports the opposite

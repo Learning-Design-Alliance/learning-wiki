@@ -98,3 +98,4 @@ Independent samples t-test with Welch's correction on the survey's gender-based 
 - [In AI-mediated active learning, female EFL students show higher engagement and greater improvement than male students](ai-active-learning-gender-engagement-females.md) — related
 - [Female final-year nursing students scored higher than male students on both competence and (reversed) error tendency (Partial η² = 0.143)](gender-differences-competence-error-tendency.md) — related
 - [Gender differences appear in academic self-efficacy and buoyancy but not in mathematics performance, and age shows no differences](gender-differences-ase-ab-not-math.md) — related
+- [Only course repetition, among demographic variables, is significantly associated with lower ATSHWS scores](course-repetition-lower-atshws-scores.md) — related

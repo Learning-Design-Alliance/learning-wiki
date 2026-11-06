@@ -55,3 +55,4 @@ Expert interview with Richard Lee in this qualitative narrative-analysis study. 
 - Jingle-jangle fallacies fragment SR research in education and impede cumulative progress — a broader claim this one bears on
 - Jingle-jangle fallacies plague motivation constructs, requiring explicit justification of construct distinctions — a broader claim this one bears on
 - [Loose use of movement-based learning language risks conflating evidence-based embodied learning with debunked neuromyths](embodiment-terminology-neuromyth-conflation-risk.md) — related
+- [Assessment, evaluation, and research are distinct activities that leadership programs should not conflate](assessment-evaluation-research-distinction.md) — related

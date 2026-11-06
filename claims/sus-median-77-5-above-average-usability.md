@@ -59,3 +59,4 @@ Adapted SUS administered to clinician testers after each testing round of the te
 - [Students rated the HoloLens 2 above average on the System Usability Scale (mean 79.4)](hololens-sus-79-above-average-usability.md) — related
 - [AR participants rated the remote AR system usable, with an average SUS score of 73.8](remote-ar-sus-usability-73-8.md) — related
 - [The Endonix simulator achieves a median SUS score of 75, indicating good usability across experience levels](endonix-sus-good-usability.md) — related
+- [Students rated Orthotrainer as usable (mean SUS 77.62) and reported high online learning readiness](orthotrainer-sus-and-olrs-favourable.md) — related

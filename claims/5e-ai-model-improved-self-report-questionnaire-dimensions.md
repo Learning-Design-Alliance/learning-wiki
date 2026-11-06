@@ -59,3 +59,4 @@ Self-report questionnaire (10 items, 5-point Likert; Cronbach's α = 0.924, S-CV
 - [PA-PBL and control students reported comparable course satisfaction and self-evaluated competencies](pa-pbl-control-comparable-subjective-evaluations.md) — reports the opposite
 - [DwGJ residents reported higher course satisfaction and perceived learning outcomes, while ratings of instructors' teaching attitudes did not differ between groups](dwgj-higher-satisfaction-instructor-ratings-null.md) — related
 - [VSE students reported higher experimental interest, confidence, and willingness to participate than traditionally taught students](vse-higher-motivation-engagement.md) — related
+- [No significant difference between groups in self-confidence in learning or total satisfaction-and-confidence scores](no-self-confidence-difference-game-simulation.md) — related

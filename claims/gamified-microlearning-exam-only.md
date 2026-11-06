@@ -49,3 +49,4 @@ Quasi-experimental study of 72 fifth- or sixth-year medical students (27 app, 35
 - [Gamified clinical skill learning moderately improves student attitudes toward learning, based on a small evidence base](gamified-learning-moderate-attitude-gains.md) — related
 - [Gamified web and mobile learning show moderate knowledge effects with greater variability than serious games](gamified-web-mobile-moderate-knowledge-effects.md) — a broader claim this one bears on
 - [Pilot students reported the MiLeMed microlearning app as a valuable complement to obstetrics teaching and supportive of exam preparation](milemed-pilot-positive-feedback.md) — related
+- [Nursing students trained with a mobile clinical-skills app scored higher than controls on all nine clinical skills after one month](nursing-app-higher-scores-all-nine-skills.md) — related

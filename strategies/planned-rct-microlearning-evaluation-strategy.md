@@ -48,6 +48,7 @@ The authors recommend that future work evaluate educational effectiveness throug
 - [Rigorously compare PBL with traditional methods before broad PGME implementation, using larger samples, controls, and follow-up](compare-pbl-traditional-methods-before-pgme-implementation.md)
 - [Conduct well-designed long-term randomized controlled trials of PBL in oral radiology](long-term-rcts-pbl-oral-radiology.md)
 - [Conduct well-blinded randomized controlled trials of high-fidelity computer-based simulations, including evaluations at behaviour and results levels and of affective-domain outcomes](robust-rct-high-fidelity-orthodontic-simulation-research.md)
+- [Use controlled designs with larger samples to confirm preclinical psychomotor training effects](controlled-designs-for-preclinical-psychomotor-training-research.md)
 
 ## Examples
 -

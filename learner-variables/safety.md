@@ -13,7 +13,7 @@ generated:
 # Safety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 140 claims (98 show a difference, 30 mixed, 12 no difference) · 87 studies (23 review, 23 associational, 12 causal, 12 qualitative, 7 quant-synthesis, 6 design, 4 theoretical), `q1`–`q4` · 10 of 87 report an effect size · 140 claims rest on one study
+> **Evidence** · 142 claims (99 show a difference, 31 mixed, 12 no difference) · 88 studies (23 review, 23 associational, 13 qualitative, 12 causal, 7 quant-synthesis, 6 design, 4 theoretical), `q1`–`q4` · 10 of 88 report an effect size · 142 claims rest on one study
 
 ## Description
 Safety here means both being and feeling physically and psychologically secure in the places a learner spends time: home, school or work, the neighbourhood and the wider community. It covers violence and crime, bullying and cyberbullying, and, from adolescence on, a learner's own risk-taking behaviour such as substance use. It matters for learning because a learner who feels safe can focus on the task, while one who feels unsafe tends to miss school and take part less in class, losing learning opportunities. For adults, the LVN adds that learners who had bad experiences of school need to feel safe enough to learn again. It is measured with self-report bullying and victimisation scales, neighbourhood questionnaires and screening tools for risky behaviour. It overlaps with [adverse experiences](adverse-experiences.md), since feeling unsafe can be traumatic, and with [belonging](belonging.md).
@@ -176,6 +176,8 @@ Safety here means both being and feeling physically and psychologically secure i
 - [Focus-group participants in the RLC group attributed their improvements to the model's learner-centred, incremental reflective structure, psychological safety, and support for equitable participation in multicultural groups](../claims/qualitative-rlc-incremental-psychological-safety.md) [+M] — measured as an outcome of the instruction studied
 - [Peer-to-peer SDL in pairs fosters psychological safety, reflection, and constructive feedback among healthcare professionals.](../claims/peer-sdl-pairs-psychological-safety.md) [+M] — measured as an outcome of the instruction studied
 - [Teacher empathy reduces student stress and contributes to safe learning environments and engagement](../claims/teacher-empathy-stress-engagement-safety.md) [+M] — measured as an outcome of the instruction studied
+- [IVR can engage learners who feel exposed or intimidated in mannequin-based simulation, while debriefers' own gaming preconceptions shape their engagement](../claims/ivr-engages-learners-intimidated-by-mannequin-simulation.md) [+M] — an instructional effect differs with it
+- [IVR's animated, novel environment can act as a safe zone easing speaking up about mistakes, but recording and occluded vision can threaten psychological safety](../claims/ivr-psychological-safety-safe-zone-and-threats.md) [~M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Electronic Bullying Questionnaire** (Kowalski & Limber, 2007): self-report of how often a person has been cyberbullied or has cyberbullied others.

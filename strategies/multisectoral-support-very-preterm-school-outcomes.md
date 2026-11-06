@@ -46,6 +46,7 @@ The article recommends that support for children born very preterm operate acros
 ## Related Strategies
 
 - [Prioritize inclusion of adolescents with parents with short education or born abroad in future physical activity interventions aiming at academic performance](prioritize-disadvantaged-groups-pa-interventions.md)
+- [Prioritize equity-focused public policy and long-term follow-up and support for families of children born preterm](long-term-support-for-children-born-preterm.md)
 
 ## Examples
 -

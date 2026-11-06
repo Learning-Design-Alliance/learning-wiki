@@ -69,3 +69,6 @@ Course-level comparison of FCI results across years of the Harvard calculus-base
 - [In the authors' conditions P&E outperformed both Interactive Lecture Demonstrations and Peer Instruction](pe-outperformed-ild-and-pi.md) — related
 - [Traditional teaching produced normalized gains of only 7–14% while the P&E method with new study materials reached 45%](traditional-low-gain-versus-pe-45-percent.md) — related
 - [Under traditional teaching the worst results occurred on tasks requiring specific and non-specific transfer, confirmed by the 2012 FCI](traditional-teaching-worst-on-transfer-tasks.md) — related
+- [Active student engagement during class significantly improves conceptual understanding and problem solving over traditional passive lectures](active-engagement-beats-passive-lecture-hake.md) — a broader claim this one bears on
+- [Just-in-time teaching improves cognitive gains and decreases failure and attrition rates compared with traditional teaching](jitt-improves-gains-decreases-failure-attrition.md) — related
+- [Peer instruction improves student scores and comprehension compared with traditional lecture and with self-explanation](peer-instruction-improves-scores-comprehension.md) — related

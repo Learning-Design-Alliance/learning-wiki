@@ -49,6 +49,7 @@ The article's policy section recommends that early training concentrate on perce
 - [Mentoring](mentoring.md)
 - [Withdraw mentor support earlier than currently thought, and calibrate how closely mentors work with mentees](withdraw-mentor-support-earlier.md)
 - [Pair flexible mentoring with clear milestone checklists and fallback activities in novice mentor preparation](milestone-checklists-for-novice-mentors.md)
+- [Difficulty-stratified role play: scripted RP for junior students, unscripted RP for advanced stages](difficulty-stratified-role-play-scripts.md)
 
 ## Examples
 -

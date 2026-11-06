@@ -51,6 +51,7 @@ The review recommends that OSS be combined with didactic prebriefing, experienti
 - [Embed simulation-based scenarios into the curriculum as structured learning modules with guided debriefings and reflective exercises](simulation-modules-debriefing-strategy.md)
 - [Structure AI virtual patient sessions with pre-briefing, a structured diagnostic guide, and case-specific debriefing](pre-briefing-debriefing-ai-virtual-patient-session.md)
 - [Integrate VR simulation design with prebriefing, intuitive interfaces, adaptive difficulty, scenario variability, ergonomic hardware, and structured debriefing](vr-design-balance-usability-load-debriefing-strategy.md)
+- [Combine medical movies, MOOCs, and simulation with co-debriefing as a scalable multimodal approach to stress and burnout education](multimodal-movies-moocs-simbie-codebriefing-strategy.md)
 
 ## Examples
 -

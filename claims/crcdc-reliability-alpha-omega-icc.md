@@ -70,3 +70,6 @@ Temporal stability assessed using a test–retest design with 30 participants wh
 - [CMS shows acceptable test-retest reliability and internal consistency](cms-reliability-icc-alpha.md) — related
 - [The CSL-LTS demonstrates adequate internal consistency with Cronbach's α of 0.832 and McDonald's ω of 0.841](csl-lts-internal-consistency.md) — related
 - [The Salus-Ed questionnaire demonstrates excellent overall internal consistency (α = 0.95)](salus-ed-internal-consistency.md) — related
+- [ATSHWS scores are temporally stable over a 15-day test-retest interval (ICC 0.900; r 0.951)](atshws-test-retest-stability-15-day.md) — related
+- [The LISA-AT shows high test-retest reliability (Spearman's rho = 0.87), high internal consistency (Cronbach's alpha = 0.88), and good inter-rater reliability (Cronbach's alpha = 0.82)](lisa-at-reliability-evidence.md) — related
+- [The palliative care communication scale shows high internal consistency (overall Cronbach's α = 0.928) and 2-week test-retest reliability of 0.89](palliative-communication-scale-reliability-alpha-0928-retest-089.md) — related

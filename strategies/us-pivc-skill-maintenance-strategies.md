@@ -54,6 +54,7 @@ To ensure skill retention beyond the initial course, the article's maintenance d
 - [Adopt a 'bolus and drip' longitudinal training paradigm combining structured didactic material with frequent practical scanning sessions](bolus-and-drip-pocus-training-strategy.md)
 - [Provide regular refresher sessions and periodic reassessment to sustain caregiver emergency-response skills over time](refresher-sessions-sustain-caregiver-skills.md)
 - [Design CPR education as an ongoing, reinforcement-based process combining spaced intervals, feedback, and cognitive components](cpr-education-reinforcement-based-design-strategy.md)
+- [Add post-training support measures and competency-refresh strategies to sustain effects and enable real-world implementation of change-agent actions](post-training-support-measures-ca-role.md)
 
 ## Examples
 -

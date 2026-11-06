@@ -25,7 +25,7 @@ sources:
 # Debriefing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 35 claims (25 for, 8 mixed, 2 against) · 51 studies (15 review, 13 quant-synthesis, 12 causal, 4 qualitative, 3 design, 2 associational, 2 theoretical), `q1`–`q4` · 9 of 51 report an effect size · 24 claims rest on one study
+> **Evidence** · 36 claims (26 for, 8 mixed, 2 against) · 52 studies (15 review, 13 causal, 13 quant-synthesis, 4 qualitative, 3 design, 2 associational, 2 theoretical), `q1`–`q4` · 9 of 52 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -136,6 +136,7 @@ Claims about debriefs or group reflection that the earlier page did not cite, an
 - [Structured briefing and debriefing were largely absent from studies showing stress-impaired performance, and may contribute to impaired outcomes](../claims/briefing-debriefing-absent-impaired-studies.md) [+W] — attached 2026-10-31 from Vage A et al. (2024), which proposed "Design simulation courses with structured briefing and debriefing and avoid relying on extensively stressful content as a learning tool".
 - [Participants perceive manikin death as reflecting inadequate resuscitation, but facilitator reassurance and debriefing resolve this](../claims/death-perceived-as-failure-mitigated-by-debrief.md) [+W] — attached 2026-10-31 from Apara Teleireoluwa et al. (2024), which proposed "Debriefs after paediatric manikin death need skilled facilitation with designated time for emotional and communication discussion"; tests this page's relationship.
 - [Focus-group participants in the RLC group attributed their improvements to the model's learner-centred, incremental reflective structure, psychological safety, and support for equitable participation in multicultural groups](../claims/qualitative-rlc-incremental-psychological-safety.md) [+W] — attached 2026-11-06 from Almomani Emad et al. (2025), which proposed "Offer structured, scaffolded debriefing models like RLC especially to junior or less experienced staff".
+- [ER-VIPE with co-debriefing significantly lowered burnout relative to computer-based SIMBIE without debriefing, while the VR-based ER-VIPE arm showed no significant burnout differences](../claims/ervipe-burnout-reduction-versus-control.md) [+W] — attached 2026-11-06 from Lesselroth Blake et al. (2025), which proposed "Conduct co-debriefing with explicit psychological safety practices and address power imbalances between professions and co-debriefers".
 
 ## Objective and learner-valued goal
 

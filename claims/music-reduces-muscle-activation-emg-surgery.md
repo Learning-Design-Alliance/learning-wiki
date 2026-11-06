@@ -49,3 +49,4 @@ Review synthesis of one study using EMG of the dominant hand during robot-assist
 - [Music shows mixed effects on general surgical task performance scores in simulation](music-general-surgical-performance-scores-mixed.md)
 - [Participant-preferred music shows more consistent beneficial effects on simulated surgical performance than researcher-selected music](preferred-music-benefits-surgical-performance.md) — related
 - [Preferred music improves quality of simulated surgical wound repair, but classical music shows no significant effect on laparoscopic knot quality](preferred-music-improves-surgical-task-quality.md) — related
+- [Physiological stress and subjective fatigue changes did not differ significantly between robotic and laparoscopic approaches, though trends favored the robotic approach](hinotori-stress-fatigue-no-significant-difference.md) — related

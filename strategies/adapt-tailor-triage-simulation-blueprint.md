@@ -48,6 +48,7 @@ The authors offer the simulation as a blueprint other programs can adopt and mod
 - [Provide both digital 3D and physical learning modalities to accommodate diverse student preferences](provide-both-digital-and-physical-modalities.md)
 - [Adapt RaT curricula to local cultural, institutional, and workforce characteristics rather than directly adopting Western-designed programs](contextually-adapted-rat-program-design.md)
 - [Culturally tailored chatbot design: position chatbots as reflective companions for Chinese users and as thinking partners for Western users, while deploying cognitive support broadly](culturally-tailored-chatbot-design-strategy.md)
+- [Embed repeated exposure to diverse disaster triage scenarios in training to build adaptive decision-making](repeated-diverse-scenario-exposure-triage-strategy.md)
 
 ## Examples
 -

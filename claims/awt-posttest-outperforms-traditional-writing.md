@@ -49,3 +49,4 @@ Post-test Mann Whitney U comparison of the 18-learner AWT group and 17-learner c
 - [The control group's writing skills also improved significantly over the 8 weeks under traditional instruction](control-group-also-improved-writing.md) — related
 - [One month of constructive-feedback remedial teaching cut experimental-group writing errors by 52% to 78% per student](cfb-remedial-teaching-error-reduction-52-78.md) — related
 - [Mean number of errors per student was lower in the model-building group (0.09) than the lecture group (1.5)](inguinal-model-mean-errors-lower.md) — related
+- [Post-test diagnostic scores are significantly higher in the ChatGPT-4o personalized-feedback group than the control group one month after the intervention](post-test-higher-experimental-group.md) — related

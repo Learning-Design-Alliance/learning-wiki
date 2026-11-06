@@ -46,3 +46,5 @@ Analysis of online feedback forms submitted by learners outside the target cohor
 
 ## Related Claims
 - [A minority of students stated they needed lecturer support alongside the RLOs](minority-students-needed-lecturer-support-alongside-rlos.md) — related
+- [RLO completion rates were low for most RLOs, ranging from 5.6% to 85%, but exceeded 70% for curriculum-integrated RLOs](rlo-completion-rates-low-except-curriculum-integrated.md) — related
+- [Open-access RLOs reached 7622 users from 48 countries, with 89.4% of users from Malaysia](rlos-reach-7622-users-48-countries.md) — related

@@ -55,3 +55,4 @@ Prospective quasi-experimental study with control group (Zhang et al. 2021, Chin
 - [An 8-hour online educational program significantly improved emergency nurses' knowledge, skills, and personal preparedness, though scores remained moderate](online-program-improved-knowledge-skills-preparedness.md) — related
 - [Adding a tabletop exercise to lecturing produced consistently greater improvements in nurses' disaster preparedness than lecturing alone](tabletop-plus-lecture-beats-lecture-alone.md) — related
 - [A 7-day virtual simulation game on CAUTI prevention produced higher post-test knowledge scores than standard training presentations in nursing students](vsg-improves-cauti-prevention-knowledge.md) — related
+- [VR-based disaster simulation education increases learning immersion more than written case simulation](vr-simulation-learning-immersion-gain.md) — related

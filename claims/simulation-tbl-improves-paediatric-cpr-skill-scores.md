@@ -55,3 +55,4 @@ Pre-post self-comparison of 24 paediatric postgraduates at one hospital; skills 
 - [Structured trauma resuscitation team training augmented by simulation improved teamwork domain ratings and reduced time to CT scanner, intubation, and operating room](simulation-augmented-team-training-improves-trauma-care-efficiency.md) — related
 - [Total simulator time for awake fiberoptic intubation decreased from pre-test to three-month post-test](rcdp-simulation-decreases-afio-simulator-time.md) — related
 - [Within the peer-assisted scenario simulation group, all five trauma first aid procedure scores improved significantly from pre- to post-training](pal-scenario-within-group-procedure-gains.md) — related
+- [Trainees were more confident in endotracheal intubation and postnatal surfactant administration than in nasal intubation, ECMO referral, and tracheostomy referral](trainee-confidence-varies-by-procedure.md) — related

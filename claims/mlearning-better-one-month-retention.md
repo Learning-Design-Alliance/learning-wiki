@@ -53,3 +53,4 @@ Quasi-experimental study with 90 NICU nurses. At one month, total mean IPAT scor
 - [Significant Time × Group interaction shows experimental group maintained scores while control group declined at final examination](mooc-hfs-time-group-interaction-retention.md) — related
 - [Game-based training with precision teaching improved disaster knowledge and behavioral fluency more than case-based training, with no significant fluency decline at one month](game-based-precision-teaching-improved-fluency.md) — related
 - [Retention of the target medical terms declined significantly over the month across all teaching methods](retention-declines-over-time-all-groups.md) — related
+- [Nursing students trained with a mobile clinical-skills app scored higher than controls on all nine clinical skills after one month](nursing-app-higher-scores-all-nine-skills.md) — related

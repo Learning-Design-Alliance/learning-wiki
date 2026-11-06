@@ -51,3 +51,4 @@ Post-hoc Bonferroni analysis of error distribution across main disciplines (Tabl
 - [Both chatbots achieve above-90% accuracy on fundamental medical sciences questions with no significant difference between models or sub-disciplines](llms-fundamental-medical-sciences-dus-high-accuracy.md) — related
 - [ChatGPT-4o and Gemini Advanced show no statistically significant overall accuracy difference on DUS questions, both exceeding 80%](chatgpt4o-gemini-advanced-no-overall-accuracy-difference-dus.md) — related
 - [Chatbot accuracy varies by content domain, with cavity preparation showing the greatest variability across models](chatbot-accuracy-varies-content-domain.md) — related
+- [All three chatbots answered integrated-medicine questions more accurately than dentistry questions in both languages](integrated-medicine-higher-accuracy-than-dentistry.md) — related

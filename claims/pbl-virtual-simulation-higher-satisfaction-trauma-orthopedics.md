@@ -71,3 +71,6 @@ Same assessor-blinded RCT of 50 clinical medical students. Teaching effectivenes
 - [Teaching satisfaction is higher among interns taught with OBE-integrated PBL than with lectures](obe-pbl-teaching-satisfaction-psychiatry.md) — related
 - [Blended MOOC-virtual simulation teaching produces higher Structured Clinical Skills Assessment scores than traditional teaching](mooc-virtual-simulation-higher-clinical-skills-assessment-scores.md) — related
 - [Nursing interns in the PBL group reported significantly higher teaching satisfaction than the traditional teaching group (P = 0.003)](pbl-higher-teaching-satisfaction-nursing-interns.md) — related
+- [The Combined Group reported significantly higher overall course satisfaction than the FCM-only and traditional groups](combined-fcm-mfcs-higher-satisfaction.md) — related
+- [Simulation-platform trainees reported higher teaching satisfaction, enjoyment of learning, and proactive learning behavior than controls](simulation-platform-higher-engagement-subjective-assessments.md) — related
+- [Simulation-platform trainees rated their theoretical knowledge acquisition and operational-skill improvement more favorably than controls](simulation-platform-higher-self-assessed-knowledge-and-skills.md) — related

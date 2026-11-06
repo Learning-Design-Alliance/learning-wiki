@@ -52,3 +52,4 @@ Numerical comparison of average normalized gain gN (Hake, 1998) across 2007–20
 - [CLASP students achieved an average normalized FCI gain of 0.39, above the traditional-course range and in the middle of the interactive-engagement range, despite only about a third of one quarter on mechanics](clasp-fci-normalized-gain.md) — related
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related
 - [The benefit of interactive methods appeared independently of students' incoming knowledge, including weak and strong pretest performers](interactive-gains-independent-of-pretest.md)
+- [Active student engagement during class significantly improves conceptual understanding and problem solving over traditional passive lectures](active-engagement-beats-passive-lecture-hake.md) — a broader claim this one bears on

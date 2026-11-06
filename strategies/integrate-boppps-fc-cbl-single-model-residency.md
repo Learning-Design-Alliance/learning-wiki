@@ -62,6 +62,7 @@ The authors recommend that "medical education policymakers consider the strategi
 - [Use faculty development workshops to standardize TBL facilitation with diverse team composition and case integration](faculty-development-tbl-facilitation.md)
 - [Implement faculty development programs, systematic curriculum integration, and student orientation to maximize case-based learning benefits](cbl-structured-implementation-strategy.md)
 - [Scale CBL-FC to larger classes using online pre-class materials, teaching-assistant facilitation, and cross-department faculty collaboration](cbl-fc-scaling-strategy-tas-online-preclass.md)
+- [Incorporate the BOPPPS-CBL method into clinical clerkships with faculty training to ensure effective execution](adopt-boppps-cbl-clerkship-faculty-training.md)
 
 ## Examples
 -

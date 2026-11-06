@@ -58,3 +58,4 @@ Inter-rater reliability assessment of the concept image rubric, with all protoco
 - [Agreement between expert raters' consensus and the gold-standard ACLS checklist ranged from substantial to near-perfect in most scenarios but was negative for one pVT scenario](acls-llm-sim-gold-standard-agreement-mixed.md) — related
 - [Raters agreed more consistently when evaluating SP performances (ICC 0.588–0.594) than when evaluating student performances (ICC 0.34–0.469)](icc-higher-for-sp-than-student-evaluations.md) — a narrower finding that bears on this claim
 - [Trained SPs achieved moderate-to-substantial inter-rater reliability across history-taking subscales, with lowest agreement for Professionalism & Communication](sp-inter-rater-reliability-kappa.md) — related
+- [Only diagnostic ranking shows excellent inter-rater reliability among the five scoring dimensions for evaluating ChatGPT-4 clinical responses](diagnostic-ranking-only-reliable-scoring-dimension.md) — related

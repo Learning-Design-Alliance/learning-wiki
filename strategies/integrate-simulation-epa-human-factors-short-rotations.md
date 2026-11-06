@@ -50,6 +50,7 @@ The authors recommend combining simulation-based learning, entrustable professio
 ## Related Strategies
 
 - [Pair VR haptic training with Entrustable Professional Activities (EPA) assessment to gauge trainee readiness for independent surgical practice](epa-assessment-for-vr-trainees.md)
+- [Use Entrustable Professional Activities (EPAs) to standardise assessment of trainee independence in clinical skills](epas-standardise-trainee-assessment.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Self-designed Likert questionnaire (1–5 scale) administered to 84 respondents 
 - [Students in the experimental group reported that Kahoot quizzes helped, were fun, and left them feeling positive about exam preparation](kahoot-fun-engaging-positive-experience.md) — related
 - [Students taught with Kahoot reported significantly higher learning motivation than students taught with paper quizzes](kahoot-higher-motivation-than-paper-quizzes.md) — related
 - [Mid-stake end-of-block assessment scores were significantly higher in the Kahoot!-gamified cardiovascular module than in the non-gamified respiratory module (median paired difference 4.89%, r = 0.31)](kahoot-gamified-module-higher-assessment-scores.md) — related
+- [Gamification-group students reported positive technology acceptance, with Perceived Usefulness, Concentration, and Attitude towards Using the highest-rated TAM domains](tam-acceptance-perceived-usefulness-highest.md) — related

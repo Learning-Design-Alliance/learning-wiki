@@ -47,6 +47,7 @@ Facing the observed decline in skills at the 2-month follow-up, the authors reco
 ## Related Strategies
 
 - [Use regular refresher training to counter significant decline in BLS knowledge and skills at 3 months](regular-refresher-training-for-bls-decline.md)
+- [Add post-training support measures and competency-refresh strategies to sustain effects and enable real-world implementation of change-agent actions](post-training-support-measures-ca-role.md)
 
 ## Examples
 -

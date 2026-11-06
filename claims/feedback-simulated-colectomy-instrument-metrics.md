@@ -46,3 +46,4 @@ RCT by Boyle et al in simulated laparoscopic colectomy with 28 surgeons, five ca
 
 ## Related Claims
 - [Intraoperative feedback reduces error scores in cholecystectomy and simulated procedures](feedback-reduces-error-scores.md) — related
+- [Kinematic-based metrics such as reduced path length and lower instrument vibration correlate with higher rubric scores and distinguish experts from novices](kinematic-metrics-correlate-rubric-performance.md) — related

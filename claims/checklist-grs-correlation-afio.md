@@ -50,3 +50,5 @@ Correlational analysis shown in Figure 2's scatterplot matrix of GRS, checklist 
 - [No significant correlation between total platform usage time and score improvement](cataract-vsim-usage-time-no-correlation.md) — related
 - [Total simulator time for awake fiberoptic intubation decreased from pre-test to three-month post-test](rcdp-simulation-decreases-afio-simulator-time.md) — related
 - [Simulation-based rapid-cycle deliberate practice curriculum improved GRS-rated awake fiberoptic intubation performance at three months](rcdp-simulation-improves-afio-grs.md) — related
+- [Classic procedural assessment indicators (global rating scale, checklist, execution time) show no intergroup difference despite process-level gains from process-oriented feedback](classic-indicators-miss-process-level-gains.md) — related
+- [Checklist scores, task completion speed, and confidence change show no significant bivariate correlations in a simulated lumbar puncture workshop cohort](no-correlation-among-slp-outcome-measures.md) — related

@@ -53,6 +53,7 @@ The article's practical implications recommend that universities avoid treating 
 - [Place GenAI entry after the learner's initial task attempt rather than before it](genai-entry-after-attempt-in-srl-cycle.md)
 - [Interventions targeting genAI misconceptions, epistemic orientation, and intellectual values to foster critical genAI use](interventions-targeting-genai-misconceptions-and-critical-thinking-dispositions.md)
 - [Run a preclass 30-minute AI literacy training covering query formulation and critical evaluation of AI output](preclass-ai-literacy-training-deepseek-pbl.md)
+- [Integrate generative AI into PBL under educator supervision, teaching students to formulate clinical questions and critically evaluate AI responses](supervised-critical-ai-integration-pbl-strategy.md)
 
 ## Examples
 -

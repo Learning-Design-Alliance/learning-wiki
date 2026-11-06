@@ -48,3 +48,4 @@ Independent samples t-test on final examination scores (444 experimental versus 
 - [Students in the blended learning group scored significantly higher on the mid-term pathophysiology examination than students in the traditional lecture group](blended-midterm-higher-than-lecture.md) — related
 - [BOPPPS-based blended teaching produces significantly higher overall course scores than traditional lecture-based teaching](boppps-higher-overall-course-scores.md) — related
 - [BOPPPS-based blended teaching produces significantly higher final examination and process assessment scores than traditional lecture-based teaching](boppps-higher-final-exam-process-assessment.md) — related
+- [Post-SCT scores were significantly higher after e-LbC instruction of painless vision loss than after interactive lecture instruction of painful vision loss](elbc-post-sct-higher-than-lecture.md) — related

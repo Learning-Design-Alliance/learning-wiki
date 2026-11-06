@@ -58,3 +58,5 @@ FCI administered as pre-test at the start of CLASP A and post-test at the end of
 - [The authors of one physics-course study attribute its technology-supported gains to the student-centred, active-engagement pedagogy the technology was used within](lab-technology-gains-depend-on-active-engagement-pedagogy.md) — related
 - [Large randomized evaluations of project-based learning programs show advantages over traditional science teaching of about 0.2 standard deviations](project-based-learning-rct-advantage-traditional-instruction.md) — related
 - [Traditional teaching produced normalized gains of only 7–14% while the P&E method with new study materials reached 45%](traditional-low-gain-versus-pe-45-percent.md) — related
+- [Active student engagement during class significantly improves conceptual understanding and problem solving over traditional passive lectures](active-engagement-beats-passive-lecture-hake.md) — a broader claim this one bears on
+- [Just-in-time teaching improves cognitive gains and decreases failure and attrition rates compared with traditional teaching](jitt-improves-gains-decreases-failure-attrition.md) — related

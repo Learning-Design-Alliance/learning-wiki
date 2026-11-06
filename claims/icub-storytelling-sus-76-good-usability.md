@@ -64,3 +64,4 @@ Post-interaction usability assessment in the validation experiment: 26 adults we
 - [The experimental group rated AVDS usability as excellent while the control group rated it as good](sus-usability-excellent-experimental-good-control.md) — related
 - [The DCBL platform achieved marginal-to-average usability (mean SUS 62.4) with moderate cognitive workload](dcbl-platform-usability-sus-workload.md) — related
 - [The Endonix simulator achieves a median SUS score of 75, indicating good usability across experience levels](endonix-sus-good-usability.md) — related
+- [Students rated Orthotrainer as usable (mean SUS 77.62) and reported high online learning readiness](orthotrainer-sus-and-olrs-favourable.md) — related

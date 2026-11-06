@@ -53,3 +53,4 @@ Stratified randomized controlled trial with 24 participants per group (12 underg
 - [PBL-DeepSeek students show higher Mini-CEX clinical competence across all seven domains than traditionally taught students](deepseek-pbl-minicex-clinical-gains.md) — related
 - [MDT-CBL interns scored numerically higher than traditionally taught interns on a urology knowledge test, but the difference was not statistically significant](mdt-cbl-knowledge-test-null-pilot.md) — related
 - [Modified Mini-CEX combined with SBAR teaching improves clinical skills scores but not theoretical exam scores](mini-cex-sbar-improves-clinical-skills-not-theory.md) — related
+- [DeepSeek-assisted PBL residents achieve higher total comprehensive examination scores than traditional PBL residents](deepseek-pbl-higher-total-exam-score.md) — related

@@ -59,3 +59,5 @@ Post-rotation questionnaire study of 64 maternity nursing students using Jeffrie
 - [Both groups report similarly high satisfaction with the simulation training, with session duration rated lowest](high-satisfaction-similar-groups-duration-lowest.md) — related
 - [Nursing students report high satisfaction with creating educational videos, with applicability rated highest (4.12 ± 0.59) and complexity lowest (3.47 ± 0.69)](nursing-students-high-satisfaction-video-creation.md) — related
 - [First-year nursing students reported moderate-to-high readiness for clinical practice, highest for recognition of the practice area](readiness-moderate-high-recognition-area-highest.md) — related
+- [Students reported positive perceptions of the e-LbC session, with 90% agreeing it improves future clinical reasoning and 62% satisfied overall](elbc-positive-student-perceptions.md) — related
+- [Nursing students report positive learning attitudes following HoloPatient-based simulation education (exploratory, one-group post-test)](holopatient-simulation-positive-learning-attitude.md) — a narrower finding that bears on this claim

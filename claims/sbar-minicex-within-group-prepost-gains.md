@@ -49,3 +49,4 @@ Within-group pre–post comparison in the observation group (n = 204) using pair
 - [SBAR plus mini-CEX improves most dimensions of clinical communication ability in nursing interns, but not the participate-jointly dimension](sbar-minicex-communication-dimensions-mixed.md) — related
 - [SBAR combined with mini-CEX improves mini-CEX-rated comprehensive clinical ability across all seven core competencies](sbar-minicex-comprehensive-ability-minicex.md) — a broader claim this one bears on
 - [SBAR combined with mini-CEX assessment yields significantly higher theoretical and operational assessment scores than traditional clinical nursing teaching in nursing interns](sbar-minicex-higher-theoretical-operational-scores.md) — related
+- [Most Mini-CEX students reported improved clinical skills and confidence and wanted the tool to continue](mini-cex-student-satisfaction-confidence.md) — related

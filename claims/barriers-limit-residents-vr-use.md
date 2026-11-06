@@ -51,3 +51,4 @@ Theme 2 of the reflexive thematic analysis of interviews with eleven first-year 
 - [Medical students reported system usability barriers to VR training involving headset accessibility, technical issues, and limited scenario variability](vr-training-usability-barriers-medical-students.md) — related
 - [Resource limitations, technical hurdles and time constraints were the primary reported barriers to implementing paediatric SBE](sbe-implementation-barriers-cost-faculty-maintenance.md) — a broader claim this one bears on
 - [Teachers identified cost, bulky headsets, Wi-Fi connectivity, and technical issues as key challenges to integrating VR into ML2 teaching](vr-challenges-cost-headsets-wifi.md) — related
+- [Students describe HoloPatient simulation positively (concentration, edutainment, practical learning) but report Wi-Fi instability and cybersickness as barriers](holopatient-qualitative-themes-experiences-barriers.md) — related

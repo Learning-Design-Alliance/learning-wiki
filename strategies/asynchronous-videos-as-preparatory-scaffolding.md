@@ -52,6 +52,7 @@ The article conceptualizes asynchronous videos not merely as supplementary resou
 - [Structure a simulation-based mastery learning program as sequential steps: video tutorial, MCQ with feedback, supervised practice, then repeated self-directed practice with video-based assessment](sbml-sequential-training-protocol-probing.md)
 - [Use a training video adapted from military source material before simulated WFWB procedures](training-video-before-simulated-wfwb-procedures.md)
 - [Structure simulation training in four sequential phases: video instruction, expert demonstration, supervised practice, and formative feedback](four-phase-ldsrs-simulation-training-protocol.md)
+- [Integrate repeated, scheduled video viewing into preclinical curricula and add supervised hands-on practice for interdental brush sizing](repeated-video-viewing-curriculum-integration-strategy.md)
 
 ## Examples
 -

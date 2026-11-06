@@ -51,6 +51,7 @@ This strategy holds that promoting interprofessional learning opportunities such
 - [Design recommendations for a contextually appropriate sim-IPE module in resource-constrained settings](sim-ipe-module-design-recommendations.md)
 - [Continuing professional development programmes tailored to personality disorder management, including short informal awareness sessions and simulation learning, should be evaluated for effectiveness.](pd-tailored-cpd-programmes.md)
 - [Cascading training model from tertiary specialists to primary care physicians and community health workers for MASLD screening](cascading-masld-training-model.md)
+- [Provide simulation-based training approaches and collaborative mentorship opportunities for complex neonatal respiratory disease management](simulation-and-mentorship-neonatal-respiratory-training.md)
 
 ## Examples
 -

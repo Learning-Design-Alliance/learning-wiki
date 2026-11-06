@@ -56,6 +56,7 @@ The authors recommend integrating simulation-based learning experiences into nur
 - [Integrate resilience-building strategies and psychological skills into communication training](integrate-resilience-building-in-communication-training.md)
 - [Integrate structured stress-management and resilience-building supports into undergraduate nursing education](stress-management-resilience-in-nursing-curriculum.md)
 - [Expand simulation-based and laboratory training before and alongside clinical practice](expand-simulation-laboratory-training-nursing.md)
+- [Combine medical movies, MOOCs, and simulation with co-debriefing as a scalable multimodal approach to stress and burnout education](multimodal-movies-moocs-simbie-codebriefing-strategy.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Spearman correlation analysis of baseline questionnaire data from 106 preclinica
 - [High perceived stress combined with elevated cortisol tertile is associated with poorer perceived memory performance](high-stress-high-cortisol-poorer-perceived-memory.md) — related
 - [Lower physical activity combined with higher perceived stress is associated with poorer perceived memory performance](low-activity-high-stress-poorer-perceived-memory.md) — related
 - [Serum cortisol shows no continuous correlation with perceived stress, perceived memory, or physical activity](cortisol-no-continuous-correlation-stress-memory-activity.md) — related
+- [Longer weekly research training is positively correlated with medical undergraduates' stress levels](training-hours-positively-correlated-stress.md) — related

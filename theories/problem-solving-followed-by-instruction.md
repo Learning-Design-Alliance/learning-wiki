@@ -17,7 +17,7 @@ sources:
 # Problem-Solving Followed by Instruction
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 67 claims (26 for, 30 mixed, 11 against) · 36 studies (26 causal, 4 theoretical, 3 review, 2 associational, 1 quant-synthesis), `q1`–`q4` · 14 of 36 report an effect size · 66 claims rest on one study
+> **Evidence** · 69 claims (26 for, 32 mixed, 11 against) · 37 studies (27 causal, 4 theoretical, 3 review, 2 associational, 1 quant-synthesis), `q1`–`q4` · 15 of 37 report an effect size · 68 claims rest on one study
 
 ## Description
 Problem-solving followed by instruction (PS-I, closely related to "productive failure") reverses the conventional tell-then-practice sequence: students first attempt a problem — typically without succeeding at a canonical solution — and only afterward receive direct instruction on the correct method. The prior attempt activates relevant prior knowledge, surfaces students' own (often suboptimal) representations, and raises motivation to learn the canonical method by making its advantages concrete rather than abstract. A meta-analysis across 166 comparisons found PS-I outperforms instruction-first sequencing with Hedge's g=0.36 [95% CI 0.20, 0.51] (Sinha & Kapur, 2021). The underlying attempt can be left unguided ("productive failure" proper, where students generate as many solution representations as they can) or shaped by scaffolds that deliberately steer students toward specific representations before instruction corrects them — see [Failure-Driven Scaffolding](../strategies/failure-driven-scaffolding.md).
@@ -103,6 +103,8 @@ Problem-solving followed by instruction (PS-I, closely related to "productive fa
 - [The experimental group spent significantly more time per problem and completed significantly fewer problems than the control group](../claims/se-prompts-increase-time-per-problem.md) [-W]
 - [Before instruction, no student in either group gave a full scientific response to the double-slit interference question, and most experimental-group students left it unanswered](../claims/pretest-no-full-responses-double-slit.md) [~W]
 - [A prior US randomised trial of the underlying approach found small significant positive effects for First Grade but not Second Grade pupils](../claims/us-trial-alphie-approach-first-grade-effects.md) [~W]
+- [Productive failure plus debriefing training raises general self-efficacy from average to high level versus traditional training](../claims/productive-failure-debriefing-raises-self-efficacy.md) [~W] — attached 2026-11-06 from Yue Zhiying et al. (2025), which proposed "Productive failure theory combined with structured debriefing as an integrated teaching model".
+- [Productive failure plus debriefing training improves critical thinking disposition total and dimension scores versus traditional training](../claims/productive-failure-debriefing-improves-critical-thinking.md) [~M] — attached 2026-11-06 from Yue Zhiying et al. (2025), which proposed "Productive failure theory combined with structured debriefing as an integrated teaching model".
 
 ## The evidence by question
 

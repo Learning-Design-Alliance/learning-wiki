@@ -57,3 +57,4 @@ Randomized controlled parallel-group study of 30 fourth-year dental students (15
 - [The hybrid CBL-SST-simulator model shows no significant difference from lecture-based learning in clinical operational skills](hybrid-cbl-sst-no-difference-clinical-skills.md) — reports the opposite
 - [VR simulator practice produces significantly greater improvement in overall cavity preparation performance than conventional typodont practice alone](vr-simulator-greater-overall-performance-improvement-dental.md) — related
 - [VR simulator practice reduces critical errors in cavity preparation more than conventional practice alone](vr-simulator-reduces-critical-errors-dental.md) — related
+- [Digital group students reported significantly greater clinical confidence in mastering cavity preparation than traditional group students](digital-group-greater-clinical-confidence.md) — related

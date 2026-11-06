@@ -53,3 +53,4 @@ Expert validation stage of the R&D study: three material experts rated 59 statem
 - [Outside experts judged that learners' knowledge structure integrity improved after participating in the SMM approach](knowledge-structure-integrity-improved.md) — related
 - [In expert validation with 11 experts, most items of a 20-item virtual simulation scenario for teaching Standard Precautions reached content validity indices above 0.80, while four item ratings were 0.73](virtual-simulation-scenario-standard-precautions-cvi-above-080.md) — related
 - [Content validity evaluation of the preliminary 30-item CRCDCS indicated CVR values from 0.40 to 1.00 with nine items below the 0.62 threshold removed, and I-CVI values from 0.80 to 1.00 for retained items.](crcdc-content-validity-cvr-icvi.md) — related
+- [A qualitative group assessment judged the scenario feasible, adequately timed, and realistic](pacu-scenario-qualitative-feasibility-realism.md) — related

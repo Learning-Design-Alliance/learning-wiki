@@ -48,3 +48,4 @@ The review's synthesis of included studies reports "negative impacts were also n
 - [IPE interventions show significant improvements in role clarity, communication skills, and teamwork dynamics](ipe-improves-role-clarity-communication-teamwork.md) — reports the opposite
 - [Interdisciplinary studio collaboration produced challenges including uneven workloads, vocabulary barriers, and difficulty giving cross-disciplinary feedback](interdisciplinary-collab-challenges-workload-vocabulary-feedback.md) — related
 - [High informational load of MECC training content, especially statistics and theory, overwhelms trainees and acts as a barrier to cascade](informational-load-mecc-content-barrier.md) — related
+- [The intern role is demanding and varied, with long hours and high workload causing some interns to become overwhelmed](intern-role-demanding-overwhelm-wellbeing.md) — related

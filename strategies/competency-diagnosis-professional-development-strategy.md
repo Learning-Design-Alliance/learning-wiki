@@ -50,6 +50,7 @@ The article recommends that educational institutions use validated competency as
 - [Use the GenAI-RP Scale as a diagnostic tool to identify institutional resource, training, and support needs for GenAI adoption](genai-rp-diagnostic-use-strategy.md)
 - [Use the HSPNCS to assess narrative competency and identify training needs in security staff](hspncs-training-needs-assessment-strategy.md)
 - [Use the Romanian PSRBVBQ in school practice to identify teachers' bullying perceptions and reveal training needs for bullying prevention](use-psrbvbq-to-identify-teacher-training-needs.md)
+- [Use the validated competency scale to identify strengths and weaknesses and build targeted training and development plans for endoscopy nurses](endoscopy-nurse-scale-targeted-training-strategy.md)
 
 ## Examples
 -

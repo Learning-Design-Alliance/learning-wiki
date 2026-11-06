@@ -53,3 +53,5 @@ Intra-observer reliability was evaluated with a sample of 45 nursing students wh
 - [MAP Growth reliability coefficients average about 0.95, with lower values in Science and early grades and stronger test-retest reliability over shorter intervals](map-growth-reliability-095-subject-and-interval-variation.md) — related
 - [The HLC-N shows high internal consistency (total α = 0.958) and temporal stability (test–retest = 0.927)](hlc-n-reliability-alpha-retest.md) — related
 - [The Salus-Ed questionnaire demonstrates excellent overall internal consistency (α = 0.95)](salus-ed-internal-consistency.md) — related
+- [ATSHWS scores are temporally stable over a 15-day test-retest interval (ICC 0.900; r 0.951)](atshws-test-retest-stability-15-day.md) — related
+- [The palliative care communication scale shows high internal consistency (overall Cronbach's α = 0.928) and 2-week test-retest reliability of 0.89](palliative-communication-scale-reliability-alpha-0928-retest-089.md) — related

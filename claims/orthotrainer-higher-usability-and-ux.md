@@ -52,3 +52,4 @@ UEQ analysis across all dimensions showed significant differences favouring the 
 - [The inCarne VR prototype received descriptively positive user experience ratings across all AttrakDiff dimensions, with attractivity scoring highest (M = 1.71, SD = 0.59)](incarne-vr-positive-user-experience-attractivity-highest.md) — related
 - [User Experience Questionnaire evaluations did not differ significantly between the EyelearnMR and control groups](no-ueq-difference-between-arms.md) — related
 - [On the UEQ-S, HFS was rated more supportive, easy, efficient, and clear than VR, while both modalities scored above 5 on all usability items](ueq-s-usability-group-differences.md) — related
+- [Digital case planning via Orthotrainer yielded a significantly higher lateral cephalometric (LCR) landmarking success rate than analogue case planning](orthotrainer-lcr-landmarking-superiority.md) — related

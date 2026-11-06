@@ -44,6 +44,7 @@ To overcome excessive time spent on documentation, the article recommends that "
 
 - [Offer templates and exemplars to streamline edtech review requests for vendors and staff](edtech-review-templates-and-exemplars.md)
 - [Protect coaches' time so the majority is spent directly with teachers](protect-coach-time-for-classroom-support.md)
+- [Institutionalise Mini-CEX with protected time, faculty development, and a feedback-rich culture](mini-cex-protected-time-faculty-development-strategy.md)
 
 ## Examples
 -

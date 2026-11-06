@@ -56,6 +56,7 @@ The article recommends that teacher education programs incorporate resilience-bu
 - [Foster supportive peer environments and emotion regulation skills to support academic development](foster-peer-environments-and-emotion-regulation.md)
 - [Embed resilience and coherence-strengthening interventions into existing curricular structures rather than standalone courses](embed-soc-interventions-existing-frameworks.md)
 - [Integrate social-emotional learning into school programs alongside academic content](integrate-sel-curricula-academic-content.md)
+- [Strengthen in-service training and resilience support to raise early childhood teachers' self-efficacy, pedagogical competence and professional well-being](inservice-training-resilience-wellbeing-strategy.md)
 
 ## Examples
 -

@@ -58,3 +58,4 @@ SUS questionnaire completed by the eight HL-group students after tutorials. The 
 - [Visuospatial ability (MRT-A) was not significantly associated with perceived usability (SUS) of the HoloLens 2](mrt-a-not-associated-sus-score.md) — related
 - [Students and the tutor evaluated the remote MR tutorials positively, with all interviewees rating them equally or more effective than in-person tutorials](positive-student-tutor-perceptions-hololens-tutorials.md) — related
 - [The VR system received a mean System Usability Scale score of 76.68, indicating good usability](vr-als-system-sus-76-good-usability.md) — related
+- [Students rated Orthotrainer as usable (mean SUS 77.62) and reported high online learning readiness](orthotrainer-sus-and-olrs-favourable.md) — related

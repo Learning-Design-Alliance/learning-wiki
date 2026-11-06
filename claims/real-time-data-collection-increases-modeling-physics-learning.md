@@ -60,3 +60,4 @@ Note (2026-10-15): both d values are printed by the source (arXiv 0709.2738, res
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — a broader claim this one bears on
 - [Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02](hake-ie-gains-two-sd-greater.md) — a broader claim this one bears on
 - [High-tech simulations improve technological problem-solving ability more than low-tech simulations](high-tech-simulation-improves-problem-solving.md) — related
+- [Active student engagement during class significantly improves conceptual understanding and problem solving over traditional passive lectures](active-engagement-beats-passive-lecture-hake.md) — related

@@ -110,6 +110,8 @@ The authors recommend a sequenced implementation model: "It is recommended to ac
 - [Prioritize competency-based training models integrating VR-based surgical practice and AI-assisted procedural assessments in dental education](competency-based-vr-ai-training-stomatology.md)
 - [Integrate virtual patients into preclinical dental curricula and evaluate with objective outcome measures](integrate-vps-preclinical-dental-curriculum-strategy.md)
 - [Tiered competency training for mobile nurses: simulation-based serious games for junior nurses and crisis-leadership modules for senior nurses](tiered-mobile-nurse-competency-training.md)
+- [Pair LLM-assisted learning with VR/AR or simulation-based training for procedural skills](llm-plus-vrar-for-procedural-skills.md)
+- [Introduce VR simulation during the preclinical phase of dental education, before students perform procedures on patients](vr-simulation-preclinical-phase-integration.md)
 
 ## Examples
 -

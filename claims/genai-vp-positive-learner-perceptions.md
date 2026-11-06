@@ -51,3 +51,4 @@ The review's narrative synthesis of perception outcomes across the included stud
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related
 - [Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency](customized-ai-writing-persistent-challenges.md) — related
 - [Students rated the integrated VP session positively, with role modelling (M = 4.44) and varied case practice (M = 4.35) rated higher than “what-if” discussions (M = 3.76)](positive-perceptions-vp-role-modelling-varied-cases-what-if.md) — a narrower finding that bears on this claim
+- [Students rated human-created VPs slightly better on helpfulness, preparedness, and learning experience](students-rate-human-vps-slightly-better.md) — reports the opposite

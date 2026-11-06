@@ -70,3 +70,4 @@ Odds ratios from the retention model for two students with math grades of 5.15 d
 - [Later chronotypes obtain lower academic performance (chronotype effect), moderated by age, school subject and school timing](chronotype-main-effect-grades.md) — reports the opposite
 - [The association between later chronotype and lower math grades is strongest in the morning timing, indicating a synchrony effect that partially counteracts the chronotype effect](synchrony-effect-math-slopes.md) — related
 - [First-year grades predict grade retention: 1-point-lower math or language grades are associated with higher odds of repeating a year](grades-predict-grade-retention.md) — related
+- [Evening chronotype residents were more likely to achieve higher standardized training grades, with morning types less likely](evening-chronotype-higher-residency-grades.md) — related

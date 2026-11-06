@@ -61,3 +61,4 @@ Descriptive synthesis across the 12 included studies in this systematic review. 
 - [SBS-trained students show higher non-technical skills (ANTS) overall, driven by teamwork and situation awareness but not task management or decision-making](sbs-higher-ants-teamwork-situation-awareness.md) — related
 - [Multidisciplinary simulation increased nontechnical self-efficacy by 0.3 points on a 4-point scale](simulation-increased-nontechnical-self-efficacy-otolaryngology.md) — related
 - [Multidisciplinary simulation increased technical self-efficacy by 0.5 points on a 5-point scale, except tracheostomy suctioning](simulation-increased-technical-self-efficacy-otolaryngology.md) — related
+- [Animal-based surgical sessions appeared to foster non-technical skills (communication, role clarity, decision-making under pressure), but the study included no direct measurement of teamwork outcomes](animal-sessions-non-technical-skills-unmeasured.md) — related

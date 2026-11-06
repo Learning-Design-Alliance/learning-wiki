@@ -48,3 +48,4 @@ Scheffe post-hoc comparison in Table 5 prints a mean difference of .05037 betwee
 - [Hybrid delivery of prewriting strategy instruction outperforms both conventional and web-based delivery for EFL writing quantity](hybrid-prewriting-instruction-outperforms-conventional-and-web-based.md) — related
 - [Teaching prewriting strategies significantly increases EFL learners' writing quantity compared with product-oriented writing instruction](prewriting-strategy-instruction-increases-efl-writing-quantity.md) — a broader claim this one bears on
 - [The four instruction groups were equivalent in writing quantity before the intervention](pretest-equivalence-four-writing-groups.md) — related
+- [Medical record writing scores do not differ between TSP, spRP, and non-spRP groups](no-difference-medical-record-writing.md) — related

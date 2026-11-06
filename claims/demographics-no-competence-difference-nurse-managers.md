@@ -57,3 +57,4 @@ Bivariate non-parametric comparisons (Mann–Whitney U, Kruskal–Wallis) across
 - [No consistent significant differences in competency or caring scores across socio-demographic characteristics in univariate analyses](no-consistent-univariate-demographic-differences.md) — related
 - [Sociodemographic and job-related characteristics differ across competence profiles](sociodemographic-differences-across-profiles.md) — reports the opposite
 - [Perceived autonomy, training, and dressing confidence showed no significant associations with years of experience or health area](no-competence-differences-experience-health-area.md) — related
+- [Professional well-being and pedagogical competence differ by age and teaching experience, but not by gender or training participation](demographic-differences-teacher-wellbeing-competence.md) — related

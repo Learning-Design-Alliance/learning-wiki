@@ -49,3 +49,4 @@ Controlled comparative evaluation of four LLMs on 240 FRCS (Urol) Part A questio
 - [Frontier LLM scores on the FRCS Urology examination represent a substantial improvement over ChatGPT-3.5's reported 35% failure](frontier-llms-improve-over-chatgpt-3-5-frcs-urol.md) — related
 - [GPT-5.2's 95% CI straddled the 74% pass mark, making its pass status dependent on sitting-specific calibration](gpt-5-2-ci-straddles-pass-mark.md) — related
 - [All four LLMs completed the 240-question assessment in under 3 minutes, far faster than the human time allocation](llms-complete-frcs-urol-under-three-minutes.md) — related
+- [Only Claude would have passed the LDEK/LDEW pass threshold on every attempt, while Gemini in Polish would certainly fail](only-claude-passes-ldek-threshold-every-attempt.md) — related

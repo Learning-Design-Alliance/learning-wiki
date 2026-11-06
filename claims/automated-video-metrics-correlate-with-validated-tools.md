@@ -49,3 +49,4 @@ Narrative synthesis across the included studies. The review reports five studies
 - [Automated assessment marks show very strong positive correlation with expert tutor marks on search algorithm exercises](automated-assessment-agrees-with-tutors-search-algorithms.md) — related
 - [Virtual reality simulator performance has limited correlation with intraoperative robotic hysterectomy performance.](weak-correlation-vr-simulator-intraoperative-performance.md) — related
 - [No included study applied automated video metrics longitudinally to training or assessed non-technical skills](no-longitudinal-or-nontechnical-skill-application.md) — related
+- [Structured grading rubrics such as OSATS and GEARS are validated to reliably distinguish levels of surgical expertise and remain the standard approach to surgical skill assessment](structured-rubrics-standard-surgical-skill-assessment.md) — related

@@ -60,3 +60,4 @@ Baseline inter-rater reliability assessment using ICC(3,1) among three expert gr
 - [Inter-rater reliability of the drawing assessments was high, with an average-measures ICC of 0.988 for the total score](high-inter-rater-reliability-drawing-assessments.md) — related
 - [Rubric scoring of concept image protocols showed inter-rater reliability exceeding acceptable thresholds (Fleiss Kappa 0.60–0.88; Krippendorff's Alpha 0.60–0.88; ICC 0.89–0.98)](concept-image-rubric-inter-rater-reliability.md) — related
 - [Inter-rater reliability of EFeCT scoring improved from moderate (ICC 0.67) to excellent (ICC 0.96) after consensus calibration, with an overall ICC of 0.66 across the full sample](efect-inter-rater-reliability-consensus-calibration.md) — related
+- [Only diagnostic ranking shows excellent inter-rater reliability among the five scoring dimensions for evaluating ChatGPT-4 clinical responses](diagnostic-ranking-only-reliable-scoring-dimension.md) — related

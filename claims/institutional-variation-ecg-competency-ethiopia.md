@@ -50,3 +50,4 @@ Chi-square comparison of competency rates across the four institutions in the cr
 - [Most interns are dissatisfied with ECG training feedback and 97.3% want more training, but supervisor feedback was not a significant independent predictor of competency](intern-dissatisfaction-ecg-training-feedback-null-predictor.md) — related
 - [Interns with emergency department rotations during clinical years have significantly higher odds of ECG competency (AOR = 3.87)](ed-rotation-clinical-years-predicts-ecg-competency.md) — related
 - [Emergency department rotations during internship are independently associated with ECG competency (AOR = 4.07)](ed-rotation-internship-predicts-ecg-competency.md) — related
+- [Performance differed significantly across the four pediatric rotation groups, with rotations 3 and 4 outperforming rotations 1 and 2](rotation-group-differences-pediatric-clerkship-performance.md) — a narrower finding that bears on this claim

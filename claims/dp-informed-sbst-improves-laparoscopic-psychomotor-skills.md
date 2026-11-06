@@ -59,3 +59,4 @@ Systematic review of ten studies (five RCTs, five observational) on DP-informed 
 - [Simulation-based training should be incorporated into surgical curricula targeting novice learners](simulation-training-should-be-incorporated-into-curricula.md) — a broader claim this one bears on
 - [Simulation-based training translates laparoscopic surgical skills to the operating room](simulation-training-translates-laparoscopic-skills-to-or.md) — related
 - [Immediate feedback on incorrect operations and surgical step prompts are the most valued learning resources](cataract-vsim-feedback-prompts-most-valued.md) — related
+- [Randomized controlled trials show automated real-time and AI-based feedback improves surgical skill acquisition, particularly for under-performers](automated-feedback-rct-improves-surgical-skills.md) — a narrower finding that bears on this claim

@@ -50,3 +50,4 @@ In the same pilot randomized trial, safety was graded by identification of five 
 - [Mentored simulation training with a 3D-printed coronary simulator produced higher procedural efficacy scores than conventional video training in final-year medical students](simulation-training-higher-ica-efficacy-score.md) — related
 - [Simulation training also improved theoretical knowledge of invasive coronary angiography relative to conventional video training](simulation-training-higher-theoretical-knowledge.md) — related
 - [Coronary anastomosis simulation training is associated with higher objective skill scores than no formal simulation training](simulation-improves-coronary-anastomosis-skill-score.md) — a broader claim this one bears on
+- [IMR-SS trainees made significantly fewer procedural errors than digital-textbook trainees; safety breaches were fewer but not significantly so](imr-ss-fewer-errors-assessment.md) — related

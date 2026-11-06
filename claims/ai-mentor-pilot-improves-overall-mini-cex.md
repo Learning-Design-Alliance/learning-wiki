@@ -56,3 +56,4 @@ Single-group pretest–posttest pilot in which 32 students conducted a 15-minute
 - [Within the intervention cohort, workplace-based assessment mini-CEX and FCB-CHOPS scores rose from pre-test to post-test after the curriculum, while 360-degree overall score did not change significantly](wba-mini-cex-fcb-chops-improved-360-null.md) — related
 - [Final-year clinical medicine interns report high acceptance of the Mini-CEX-based four-stage virtual simulation teaching model, with all experience-item means exceeding 7.1 on a 10-point scale](high-student-acceptance-minicex-four-stage-virtual-simulation.md) — related
 - [CCS training yields significantly greater post-clerkship Mini-CEX improvements than traditional training across all assessment domains](ccs-greater-post-clerkship-mini-cex-gains.md) — related
+- [Mini-CEX intervention groups achieved significantly higher ward test scores than control groups (Cohen's d = 0.65)](mini-cex-higher-ward-test-scores.md) — related

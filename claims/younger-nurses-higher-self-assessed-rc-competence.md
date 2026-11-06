@@ -53,3 +53,4 @@ One-way ANOVA on survey data from 438 nursing professionals. The article reports
 - [Higher work experience and administrative experience are associated with lower ICT use and informatics competencies](experience-negatively-associated-digital-competence.md) — related
 - [Age group and staff position are the only demographic factors associated with significant growth in perceived competency, with registered nurses and nurses aged 30–34 showing the greatest gains](age-and-staff-position-moderate-competency-growth.md) — related
 - [Mature Nursing students reported significantly lower empathic care intentions than younger counterparts, possibly explaining the discipline's lower scores](mature-nursing-students-lower-empathic-intentions.md) — related
+- [Professional well-being and pedagogical competence differ by age and teaching experience, but not by gender or training participation](demographic-differences-teacher-wellbeing-competence.md) — related

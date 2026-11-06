@@ -50,3 +50,4 @@ Subjective satisfaction rated on a 5-point scale by all students in both randomi
 - [Medical students taught with CBL combined with a Metronomic Online Classroom achieve significantly higher exam scores than students taught with traditional CBL after extreme scores are removed](cbl-moc-higher-exam-scores-thoracic-trauma.md) — related
 - [PA-PBL and control students reported comparable course satisfaction and self-evaluated competencies](pa-pbl-control-comparable-subjective-evaluations.md) — related
 - [Overall teaching satisfaction was significantly higher in the integrated PBL and medical humanities group than in the LBL group](integrated-pbl-humanities-higher-teaching-satisfaction.md) — related
+- [No significant difference between groups in self-confidence in learning or total satisfaction-and-confidence scores](no-self-confidence-difference-game-simulation.md) — related

@@ -47,3 +47,4 @@ Between-group comparison on the 60-item, five-dimension Self-Directed Learning A
 ## Related Claims
 - [PBL-FC teaching produces significantly higher total self-directed learning ability scores than traditional lecture-based teaching in ophthalmology undergraduates](pbl-fc-higher-total-self-directed-learning.md) — a broader claim this one bears on
 - [Within the PBL-FC group all self-directed learning dimensions improve from pre- to post-class, while the traditional group shows no significant within-group change](pbl-fc-within-group-sdl-gains.md) — a narrower finding that bears on this claim
+- [Productive failure plus debriefing training raises total learning motivation and all WPI dimension scores relative to traditional training](productive-failure-debriefing-raises-learning-motivation.md) — related

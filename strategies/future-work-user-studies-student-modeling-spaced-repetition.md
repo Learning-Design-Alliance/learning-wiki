@@ -53,6 +53,7 @@ The authors recommend a forward-looking agenda for the platform: conduct real-wo
 - [Incorporate real-time personalization in immersive learning environments for future deployments](real-time-personalization-immersive-learning.md)
 - [Differentiate e-module design by achievement level: add spaced repetition and adaptive quizzes for low achievers and advanced case-based challenges for high achievers](differentiated-e-module-design-by-achievement-level.md)
 - [Incorporate artificial intelligence and platform-based course recommendations into future blended teaching](future-ai-integration-blended-medical-teaching.md)
+- [Add interactive features — quizzes, gamified modules, and simulated clinical scenarios — to future versions of skills-training software](future-interactive-features-quizzes-gamification-scenarios.md)
 
 ## Examples
 -

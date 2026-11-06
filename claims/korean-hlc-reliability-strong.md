@@ -47,3 +47,4 @@ Test-retest analysis of 69 matched pairs retested approximately two weeks after 
 
 ## Related Claims
 - [The HLC-N shows high internal consistency (total α = 0.958) and temporal stability (test–retest = 0.927)](hlc-n-reliability-alpha-retest.md) — related
+- [ATSHWS scores are temporally stable over a 15-day test-retest interval (ICC 0.900; r 0.951)](atshws-test-retest-stability-15-day.md) — related

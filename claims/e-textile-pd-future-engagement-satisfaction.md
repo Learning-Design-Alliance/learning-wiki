@@ -71,3 +71,5 @@ Enjoyment/satisfaction survey (N = 31). Negatively framed items showed minimal n
 - [Students who used the module reported positive perceptions and supported its curricular implementation with modifications](student-perceptions-online-caries-module.md) — related
 - [Interns highly accepted the formative OSCE, with 97% agreeing it was valuable and 94% agreeing it should continue](osce-high-acceptance-interns-valuable-continue.md) — related
 - [Participants rated the CCC note-taking strategy highly acceptable on a social validity survey](ccc-social-validity-high-acceptability.md) — related
+- [Most ANZMSC participants rated the course materials as valuable for their learning, with 64.3% strongly agreeing and 30.8% agreeing.](anzmsc-course-materials-rated-valuable.md) — related
+- [Students reported positive perceptions of the e-LbC session, with 90% agreeing it improves future clinical reasoning and 62% satisfied overall](elbc-positive-student-perceptions.md) — related

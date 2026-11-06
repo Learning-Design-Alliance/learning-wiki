@@ -84,3 +84,5 @@ Students reflected on growing ability to cope, with one noting experience from t
 - [Self-efficacy is positively associated with most clinical communication subdomains among nursing interns](self-efficacy-positive-communication-subdomains.md) — related
 - [Tutees initially felt anxious about receiving peer tutoring due to fear of judgment and stigma, but anxieties typically eased after the first session](tutee-initial-hesitancy-eases-peer-tutoring.md) — related
 - [Students' emotions evolve positively across simulation-based experience, from initial nervousness toward calm, control, and self-confidence](positive-emotional-evolution-across-simulation.md) — related
+- [Participants experienced the anesthesiology internship model as improving student interaction with staff and patients, reducing anxiety, and enhancing self-confidence, independence, and responsibility](anesthesia-internship-strengths-interaction-confidence.md) — related
+- [Interns' perceived readiness for internship came from self-directed learning rather than the undergraduate curriculum](readiness-through-self-directed-learning.md) — related

@@ -75,3 +75,4 @@ The same Results section reports per-dimension contrasts, e.g., truth-seeking 51
 - [AI-enabled personalized teaching improved several CTDI-CV subdimensions but not critical thinking self-confidence or cognitive maturity](ctdi-cv-subdimension-effects-mixed.md) — related
 - [PBL combined with 3D-VRT produced higher practical operation scores than traditional teaching in trauma orthopaedics education](pbl-3d-vrt-higher-practical-operation-scores.md) — related
 - [Students taught with PBL combined with 3D-VRT rated teaching methods higher than students taught traditionally](pbl-3d-vrt-higher-student-teaching-evaluations.md) — related
+- [Productive failure plus debriefing training improves critical thinking disposition total and dimension scores versus traditional training](productive-failure-debriefing-improves-critical-thinking.md) — related

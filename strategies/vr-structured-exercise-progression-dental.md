@@ -47,6 +47,7 @@ The article describes a sequence of VR exercises beginning with "Preparation of 
 ## Related Strategies
 
 - [Sequence VR haptic simulator training before students' first artificial-tooth access cavity preparation in preclinical endodontic curricula](sequence-vr-simulator-before-artificial-teeth.md)
+- [Use simulator modules with predefined ideal models and color-coded visual feedback for standardized self-assessment](simulator-ideal-model-color-coded-feedback-strategy.md)
 
 ## Examples
 -

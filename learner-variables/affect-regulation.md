@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 286 claims (204 show a difference, 52 mixed, 30 no difference) · 184 studies (60 associational, 52 causal, 32 review, 14 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 41 of 184 report an effect size · 278 claims rest on one study
+> **Evidence** · 289 claims (207 show a difference, 52 mixed, 30 no difference) · 186 studies (62 associational, 52 causal, 32 review, 14 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 42 of 186 report an effect size · 281 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -326,6 +326,9 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Task-oriented coping and positive affect show positive reciprocal cross-lagged relations over one semester, implying positive feedback loops](../claims/task-coping-positive-affect-feedback-loop.md) [+M] — learners who differ on it differ in outcomes
 - [Distancing coping showed only a non-significant trend toward lower GPA](../claims/distancing-coping-nonsignificant-trend-lower-gpa.md) [-M] — learners who differ on it differ in outcomes
 - [Higher use of self-controlling coping is associated with higher GPA among Ethiopian undergraduates](../claims/self-controlling-coping-higher-gpa-ethiopian-undergraduates.md) [+M] — learners who differ on it differ in outcomes
+- [High-anxiety students show significant post-procedure declines in state anxiety, though scores remain above the clinical threshold](../claims/post-procedure-anxiety-decline-high-anxiety.md) [+M] — measured as an outcome of the instruction studied
+- [Longer weekly research training is positively correlated with medical undergraduates' stress levels](../claims/training-hours-positively-correlated-stress.md) [+M] — measured as an outcome of the instruction studied
+- [Low-anxiety students over-instrument more often than high-anxiety students during mandibular root canal procedures in simulation](../claims/low-anxiety-over-instrumentation-mandibular.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

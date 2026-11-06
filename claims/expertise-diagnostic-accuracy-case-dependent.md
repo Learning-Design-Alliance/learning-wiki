@@ -76,3 +76,4 @@ Null findings from the same regression models: no significant expertise–accura
 - [The third phase of expertise development uses episodic memories of actual patients in diagnosing new cases](third-phase-episodic-memories-diagnosis.md) — related
 - [In Experiment 1, diagnosis scores were better for the liver cirrhosis case than the pheochromocytoma case, but not among experts](exp1-case-difficulty-liver-cirrhosis.md) — a narrower finding that bears on this claim
 - [GGR outperforms SNAPPS on complex cases (chronic liver disease, chronic dyspnoea, chronic diarrhoea) but not on the simpler anaemia case](ggr-advantage-complex-cases-only.md) — related
+- [ChatGPT-4 diagnostic performance is low across all user-expertise groups on complex internal medicine cases](chatgpt4-low-performance-complex-im-cases.md) — related

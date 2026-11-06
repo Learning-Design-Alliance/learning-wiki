@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 92 claims (60 for, 30 mixed, 2 against) · 65 studies (30 causal, 14 quant-synthesis, 8 associational, 7 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 15 of 65 report an effect size · 90 claims rest on one study
+> **Evidence** · 94 claims (61 for, 31 mixed, 2 against) · 66 studies (31 causal, 14 quant-synthesis, 8 associational, 7 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 15 of 66 report an effect size · 92 claims rest on one study
 
 ## Description and scope
 
@@ -119,6 +119,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [More than 90% of VM-experienced students advocated combining traditional and virtual microscopy in histology laboratory sessions](../claims/students-prefer-hybrid-lm-vm.md) [+W] — attached 2026-11-04 from Koney Nii Koney‐Kwaku et al. (2026), which proposed "Adopt a strategic blended approach integrating traditional light microscopy and virtual microscopy, supported by institutional commitments".
 - [Blended learning interns reported significantly higher satisfaction than traditional-group interns across all five evaluated dimensions](../claims/blended-radiology-assistant-higher-satisfaction-all-dimensions.md) [+W] — attached 2026-11-05 from Zhang Tonghua et al. (2026), which proposed "Radiology Assistant–based blended learning model for clinical internships"; tests this page's relationship.
 - [Most undergraduate dental students preferred blended teaching, and a majority reported it reduced their study load](../claims/students-prefer-blended-teaching-orthodontics.md) [+W] — attached 2026-11-05 from Arponen Heidi (2026), which proposed "Use blended teaching for theoretical dental coursework to maintain outcomes while easing student study load and supporting well-being".
+- [Preclass 3D digital simulation before hands-on carving produces significantly higher practical carving test scores than traditional instruction alone in dental morphology courses](../claims/3d-simulation-preclass-improves-carving-test-scores.md) [+M] — attached 2026-11-06 from Hsu Ming-Sung et al. (2025), which proposed "Use a blended learning approach in which preclass digital 3D models precede, but do not replace, hands-on instruction"; tests this page's relationship.
+- [Students rate the digital simulation course positively but remain neutral about it replacing hands-on instruction](../claims/students-positive-but-neutral-on-replacing-hands-on.md) [~W] — attached 2026-11-06 from Hsu Ming-Sung et al. (2025), which proposed "Use a blended learning approach in which preclass digital 3D models precede, but do not replace, hands-on instruction".
 
 ## Illustrative design instance and observation record
 

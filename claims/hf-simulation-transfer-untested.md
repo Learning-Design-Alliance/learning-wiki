@@ -50,3 +50,4 @@ The review's synthesis of transfer evidence: one high-quality pre-post study rep
 - [Gamification carries a risk of negative skill transfer when game scenarios differ from real-life practice](gamification-negative-transfer-risk.md) — related
 - [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — reports the opposite
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — reports the opposite
+- [High-fidelity simulation serves as an alternative learning environment for male nursing students with limited hospital access and prepares them for real-world clinical practice](hfs-alternative-learning-environment-limited-clinical-access.md) — reports the opposite

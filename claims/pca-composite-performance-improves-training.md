@@ -49,3 +49,4 @@ Composite score built by PCA over six behavioral metrics; the LME showed "a sign
 - [Teleoperation trainees become more efficient over training, with reduced translational path length and faster trial durations retained at delayed testing](teleoperation-efficiency-improves-over-training.md) — related
 - [Task errors (drops, collisions, collision duration) decrease significantly over teleoperation training and are retained](teleoperation-error-metrics-decrease-over-training.md) — related
 - [Subjective cognitive workload decreases across teleoperation training and lower workload is associated with higher performance](workload-decreases-with-teleoperation-skill.md) — related
+- [Kinematic-based metrics such as reduced path length and lower instrument vibration correlate with higher rubric scores and distinguish experts from novices](kinematic-metrics-correlate-rubric-performance.md) — related

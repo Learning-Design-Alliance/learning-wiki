@@ -74,3 +74,4 @@ Theme from the same focus group thematic analysis with intervention participants
 - [Students most frequently named collaborative teamwork as the best aspect of escape room teaching, and suggested more briefing, smaller groups and more playing time](escape-room-teamwork-best-aspect.md) — related
 - [Students perceived flipped learning group work as building communication confidence and collaborative understanding](fl-group-work-communication-confidence-nursing.md) — related
 - [Male nursing students reported simulation improved their communication and teamwork in neonatal emergencies](simulation-improved-communication-teamwork-male-students.md) — related
+- [Leadership's role in developing healthcare non-technical skills in Balkan clinics is captured by four themes: role definition, communication and teamwork, readiness for change, and leadership competency development](four-themes-leadership-nts-balkan.md) — related

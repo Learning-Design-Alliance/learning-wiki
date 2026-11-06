@@ -52,3 +52,5 @@ Final-evaluation three-station OSCE with one history-taking station; each studen
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — a broader claim this one bears on
 - [A pilot subsample showed improved communication skills in the patient-in-classroom group, but this finding is preliminary](patient-in-classroom-communication-pilot.md) — related
 - [Students report higher satisfaction with role-play than with linear virtual patients](roleplay-higher-satisfaction-than-virtual-patients.md) — related
+- [Scripted peer role-play students achieve the highest group-based history-taking assessment scores, ahead of non-scripted peer role-play and teacher standardized patients](sprp-highest-group-consultation-scores.md) — related
+- [Scripted peer role-play yields the most complete history taking, with TSP lowest, driven by etiology, symptom-characteristics, and accompanying-symptoms items](sprp-most-complete-history-taking.md) — related

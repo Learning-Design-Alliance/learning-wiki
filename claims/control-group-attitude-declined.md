@@ -48,3 +48,4 @@ Dependent samples t-test for Control Group I on the attitude scale (pre-test X =
 - [Music workshop students developed more positive geography-related attitudes than controls (effect size=.569)](music-workshops-improve-geography-attitudes.md) — related
 - [Using infographics in geography lessons improves students' attitudes towards the geography lesson relative to usual instruction](infographics-improve-geography-attitudes.md) — related
 - [ToGRA subscale gains favored the treatment group on careers, enjoyment and leisure, with enjoyment showing the greatest change](togra-subscales-enjoyment-greatest-change.md) — related
+- [Experimental-group semester grades rose while control-group grades declined over the semester, with a significant between-group post-test difference](3d-simulation-semester-grade-gains.md) — related

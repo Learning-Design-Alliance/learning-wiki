@@ -72,3 +72,4 @@ Skill transfer strategies were coded 9 times (17% of n = 53); managers recommend
 - [Specialty nurses and their managers describe clear role positioning and multidisciplinary support as facilitating training transfer](organizational-empowerment-enables-transfer.md) — related
 - [Uncertainty about overseas training quality and bias or mistrust of international qualifications are key barriers to IQN specialty skill transfer](uncertainty-and-bias-barriers-iqn-skill-transfer.md) — related
 - [Managerial commitment and clinical educator support are crucial for establishing a workplace learning culture enabling SDL.](managers-educators-learning-culture-sdl.md) — related
+- [Healthcare leaders in the Balkans acquire leadership skills through experiential learning and mentorship rather than formal training programs](leadership-skills-experiential-mentorship.md) — related

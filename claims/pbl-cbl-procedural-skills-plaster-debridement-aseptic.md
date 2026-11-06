@@ -88,3 +88,4 @@ Meta-analysis of 2 studies (100 students) on aseptic awareness. The pooled estim
 - [PBL-CBL produces significantly higher practical skills scores than LBL in orthopedic education](pbl-cbl-higher-practical-skills-orthopedics.md) — a broader claim this one bears on
 - [PBL-CBL improves physical examination and case analysis performance relative to LBL](pbl-cbl-physical-exam-case-analysis.md) — related
 - [SOM-PBL improves monitoring technology application and adverse-event management subdomains but not clinical decision-making or aseptic technique](som-pbl-subdomain-mixed-results.md) — related
+- [Experimental group outperformed control in clinical case synthesis, emergency management, and aseptic compliance on instructor evaluations](flipped-boppps-instructor-evaluation-advantages.md) — related

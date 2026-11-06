@@ -51,3 +51,4 @@ Within-subject quasi-experimental comparison of mid-stake end-of-block exam scor
 - [Simulation training improves cardiac auscultation skills but shows no effect on respiratory auscultation skills](sbme-cardiac-not-respiratory-auscultation.md) — related
 - [Students reported favorable perceptions of Kahoot! gamification across reaction, acceptance, perceived learning, behavior change, and collaboration](student-favorable-perceptions-kahoot.md) — related
 - [In the experimental cohort, students who participated in Kahoot scored 0.54 points higher on the final exam than non-participants](kahoot-participation-higher-exam-score.md) — related
+- [Medical students taught embryology with a gamification platform added to routine instruction scored significantly higher on the final exam than students taught by routine instruction alone](gamification-final-exam-scores-higher-embryology.md) — related

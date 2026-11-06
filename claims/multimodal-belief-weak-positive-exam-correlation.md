@@ -55,3 +55,4 @@ Spearman correlation in the cross-sectional survey among 271 students with prior
 - [Preferred learning modality shows no significant association with exam scores among medical students](preferred-modality-no-exam-score-association.md) — related
 - [Use of additional online learning material correlated positively with examination scores but not significantly](moodle-material-use-exam-score-nonsignificant-correlation.md) — related
 - [Students strongly preferred physical specimens over VR and 2D, but modality preference did not affect exam performance](modality-preference-no-performance-effect.md) — related
+- [Both educators' evaluations and students' self-assessments correlate weakly but significantly with first-year OSCE communication scores](weak-osce-correlations-self-and-educator-ratings.md) — related

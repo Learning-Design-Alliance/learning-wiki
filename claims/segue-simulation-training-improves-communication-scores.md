@@ -54,3 +54,4 @@ Within-group paired comparisons in the RCT (AI-VSP n = 40, traditional SP n = 42
 - [AI-VSP teaching of history-taking skills achieves learning outcomes not significantly different from conventional SP in a randomized controlled trial](ai-vsp-non-inferior-to-sp-history-taking.md) — related
 - [OSCE performance did not differ significantly between AI-VSP and SP groups](ai-vsp-sp-osce-scores-similar.md) — related
 - [SP-based training produced no statistically significant difference in final OSCE scores compared with traditional instruction, with a small negative effect size](sp-training-no-significant-osce-difference.md) — related
+- [Students' pre-course self-assessment of history-taking skills exceeds post-course self-assessment in all three groups](pre-course-self-assessment-higher.md) — related

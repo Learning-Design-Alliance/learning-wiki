@@ -53,3 +53,4 @@ The review's descriptive synthesis of the 26 included studies, reported in the a
 - [Physical examination modules in the metaverse face technical limitations in replicating procedures requiring tactile or haptic feedback](metaverse-physical-exam-haptic-limitations.md) — a narrower finding that bears on this claim
 - [Participants could distinguish arterial from venous bleeding patterns and practice digital pressure techniques on the task trainer](trainer-supports-bleed-type-identification.md) — related
 - [The 3D-printed durotomy simulator is a cost-effective alternative to virtual reality or cadaveric models](durotomy-simulator-cost-effective-build.md) — a narrower finding that bears on this claim
+- [Blood flow simulation was the highest-rated simulator component (mean 4.25), and preoperative planning potential was rated 4.20](medusa-blood-flow-simulation-highest-rated.md) — related

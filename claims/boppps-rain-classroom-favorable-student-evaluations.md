@@ -54,3 +54,5 @@ Survey of all 72 students with a 100% response rate, rated on five-point Likert 
 - [Students in the CBL-FC group report high learning interest, positive experience, and overall satisfaction](cbl-fc-high-satisfaction-learning-experience.md) — related
 - [AI-assisted trainees rated learning engagement and responsiveness to questions significantly higher, but learning interest and satisfaction did not differ significantly](deepseek-assistant-satisfaction-engagement-higher-interest-not.md) — reports the opposite
 - [Students in the BOPPPS-simulation group reported higher teaching satisfaction across all five surveyed domains](boppps-simulation-higher-teaching-satisfaction.md) — related
+- [BOPPPS-CBL students self-report significantly greater learning effects across all five measured dimensions](boppps-cbl-higher-learning-effect-self-ratings.md) — related
+- [BOPPPS-CBL students rate teaching qualities significantly higher than traditionally taught students](boppps-cbl-higher-teaching-quality-ratings.md) — related

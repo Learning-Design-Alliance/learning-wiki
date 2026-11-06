@@ -50,3 +50,4 @@ Systematic review of 47 articles evaluating prescribing competencies of final-ye
 - [Students lack knowledge of and confidence in appropriate antimicrobial prescribing, and most want more training in rational antibiotic selection](students-lack-antimicrobial-prescribing-competence.md)
 - [Final-year students lack pharmacovigilance competencies, particularly knowledge of adverse drug reaction reporting](students-lack-pharmacovigilance-competencies.md)
 - [Final-year students report low confidence in prescription writing and feel underprepared for prescribing](students-underprepared-prescription-writing-confidence.md)
+- [In the biosafety incident response competence network, the items with the highest expected influence are specimen collection (P4), assessment of pathogenic microorganism harm (M3), medical record management (D5), and antimicrobial resistance knowledge (K5).](biosafety-competence-highest-expected-influence-items.md) — related

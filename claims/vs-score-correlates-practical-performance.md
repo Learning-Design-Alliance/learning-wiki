@@ -69,3 +69,4 @@ Same Pearson correlation analysis; the V1–S2 association was "r = 0.42, p = 0.
 - [Virtual simulation training improved dental students' theoretical knowledge of root canal irrigation (mean increase 9.3%, d = 0.65)](vs-irrigation-theory-score-gain.md) — related
 - [Simulator assessment scores correlate strongly and positively with real-patient assessment scores, supporting simulators as competency assessment alternatives](simulator-assessment-scores-correlate-with-real-patient-performance.md) — related
 - [TSM and OSATS scores strongly positively correlated (Spearman's ρ = 0.88)](tsm-osats-strong-correlation.md) — related
+- [Semester grades correlate strongly with practical carving test scores (r = 0.775)](semester-grades-practical-test-correlation.md) — related

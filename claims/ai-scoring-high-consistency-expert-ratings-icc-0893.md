@@ -51,3 +51,4 @@ Phase 1 of the three-phase validation assessed AI scoring reliability using the 
 - [LLM observer ratings converge excellently with human expert judgments in applying the CAARS observer instrument to generated narratives](llm-observer-ratings-converge-with-human-experts.md) — related
 - [AEEGS scores show high absolute agreement with 12 human expert raters' scores on mathematical Economics essay items (average-measures ICC = 0.863)](aeegs-high-agreement-human-raters-icc-0863.md) — related
 - [Expert reference standard for MUL measurements showed excellent agreement (ICC 0.90)](expert-reference-mul-icc-090.md) — related
+- [The simulator's automated outcome scoring system agrees excellently with expert raters (Cohen's κ = 0.87, ICC = 0.98)](automated-scoring-agrees-with-experts.md) — related

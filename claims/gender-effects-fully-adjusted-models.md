@@ -46,3 +46,4 @@ Fully adjusted models (model 2) in the 9018-student sample. The article reports 
 
 ## Related Claims
 - [Once undergraduate-level mathematics and physics preparation is controlled, gender no longer significantly predicts performance in advanced STEM courses](preparedness-eliminates-gender-effect.md) — related
+- [No intervention group showed significant effects on mathematics performance](kazifya-no-mathematics-intervention-effect.md) — related

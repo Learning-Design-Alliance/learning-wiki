@@ -48,6 +48,7 @@ The article recommends that elementary science teachers first diagnose students'
 ## Related Strategies
 
 - [Adapt L2 teaching approaches to learners' field dependence-independence after assessing their cognitive style](adapt-teaching-to-cognitive-style-fd-fid.md)
+- [Survey students' learning-style distribution to choose between flipped and face-to-face classroom formats](survey-learning-styles-to-select-classroom-format.md)
 
 ## Examples
 -

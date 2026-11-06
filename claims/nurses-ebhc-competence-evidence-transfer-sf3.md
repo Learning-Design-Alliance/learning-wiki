@@ -55,3 +55,4 @@ JBI meta‐aggregation synthesising 18 findings from the included qualitative st
 - [Communities of practice emerged as vital to sustaining GHD capacity, with peer learning, mentorship, and tacit knowledge-sharing complementing formal training](communities-of-practice-sustain-ghd-capacity.md) — related
 - [Associations of work experience and age with nurses' EBHC competence are mixed, with both shorter and longer durations and both younger and older age reported as positive](mixed-work-experience-age-associations-ebhc-competence.md) — related
 - [Structured support systems, positive workplace culture, informal mentorship and contextualised training are key facilitators of IQN specialty skill transfer](support-systems-facilitate-iqn-skill-transfer.md) — related
+- [Healthcare leaders in the Balkans acquire leadership skills through experiential learning and mentorship rather than formal training programs](leadership-skills-experiential-mentorship.md) — related

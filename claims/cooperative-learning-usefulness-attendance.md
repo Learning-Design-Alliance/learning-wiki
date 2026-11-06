@@ -73,3 +73,4 @@ Attendance counts reported for Contemporary Biology after implementing graded co
 - [JiTT implementation was associated with a decreased DFW rate in Contemporary Biology, from 27% to 20%](jitt-decreased-dfw-rate-n100.md) — related
 - [In a semester-long crossover experiment with a real teacher, learning scores under jigsaw were not higher than under teaching-as-usual in physics and chemistry](jigsaw-vs-tau-null-semester-e3a.md) — related
 - [Cooperative learning is more effective in classes of 1-30 students than in classes of more than 30 students](cooperative-learning-small-class-size-more-effective.md) — related
+- [Just-in-time teaching improves cognitive gains and decreases failure and attrition rates compared with traditional teaching](jitt-improves-gains-decreases-failure-attrition.md) — related

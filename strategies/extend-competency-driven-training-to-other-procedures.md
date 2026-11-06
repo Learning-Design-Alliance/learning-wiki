@@ -40,6 +40,7 @@ The authors recommend applying their competency-driven training model beyond rad
 
 - [Extend the low-cost homemade simulator principle to other basic, highly structuralized, standardized surgical procedures](extend-homemade-simulator-principle-other-procedures.md)
 - [Extend high-fidelity clinical simulation to other Dentistry curriculum areas such as pediatric dentistry](extend-simulation-pediatric-dentistry.md)
+- [Extend simulator-assisted breastfeeding training to hospitals, NICUs, and antenatal classes](extend-simulator-breastfeeding-training-clinical-settings.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ Reliability analysis of the two-observer scoring in the same quasi-experiment; t
 - [After simulation training, significantly more teams performed several specific VAP prevention skills, including checking physician's order, oral care with chlorhexidine, and checking ventilator circuit filters](item-level-vap-skill-improvements-after-simulation.md) — related
 - [The VAP Prevention Performance Checklist showed acceptable-to-good internal consistency after training but low internal consistency at pretest](vap-checklist-internal-consistency-pre-post.md) — related
 - [Blinded expert raters showed very high agreement when evaluating the LLM-based ACLS simulation scenarios (Kendall W > 0.754)](acls-llm-sim-high-interrater-reliability.md) — related
+- [Two independent observers show high agreement when scoring the ATSHWS (total-score ICC 0.951)](atshws-inter-observer-reliability-icc-0-951.md) — related

@@ -53,6 +53,7 @@ The article recommends that teacher education programs deliberately build in str
 - [Structure AI-supported professional development around collaborative reflection rather than technical training alone](collaborative-reflection-ai-tpd.md)
 - [Support teachers' digital competence development through operationalisations connecting technical and pedagogical knowledge while protecting educator well-being](connect-technical-pedagogical-support-wellbeing.md)
 - [Integrate structured guidance on responsible, critical AI use alongside self-directed learning approaches](structured-guidance-responsible-critical-ai-use-nursing.md)
+- [Integrate generative AI into PBL under educator supervision, teaching students to formulate clinical questions and critically evaluate AI responses](supervised-critical-ai-integration-pbl-strategy.md)
 
 ## Examples
 -

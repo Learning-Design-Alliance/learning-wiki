@@ -92,3 +92,4 @@ In the same ZINB count model of StatBot use, prior knowledge carried a negative 
 - [Male students were significantly more likely than female students to report English proficiency and course relevance as barriers to e-resource use](gender-barriers-english-proficiency.md) — related
 - [Female students and higher previous-year achievers were more likely to be high users of the PPES course](ppes-course-use-predictors-female-achievers.md) — related
 - [240 voluntary participants completed the full app session, predominantly female and mostly aged 21-30](240-participants-completed-app-session.md) — related
+- [Only course repetition, among demographic variables, is significantly associated with lower ATSHWS scores](course-repetition-lower-atshws-scores.md) — related

@@ -50,3 +50,4 @@ Structured feedback survey of the PBL–scaffolding intervention in the Immunity
 - [Students valued teacher guidance (90%) and recommended continuation of the activity (93%)](pbl-scaffolding-teacher-guidance-continuation.md) — related
 - [Interns highly accepted the formative OSCE, with 97% agreeing it was valuable and 94% agreeing it should continue](osce-high-acceptance-interns-valuable-continue.md) — related
 - [Supplementary questionnaire responses from the experimental group indicate perceived gains in learning experience, problem-solving, cooperation, communication, and commitment](boppps-rain-classroom-supplementary-questionnaire-perceptions.md) — related
+- [Most ANZMSC participants rated the course materials as valuable for their learning, with 64.3% strongly agreeing and 30.8% agreeing.](anzmsc-course-materials-rated-valuable.md) — related

@@ -54,3 +54,4 @@ Preliminary moderator analysis of the Millennium Cohort Study data tested sex as
 - [TV viewing at age 11 is negatively associated with mathematics ability at age 17 among male adolescents](tv-viewing-age-11-lower-math-age-17-males.md) — a narrower finding that bears on this claim
 - [Sex moderates bullying-related cognitive and brain differences, with effects in boys and girls appearing in different regions and tasks](bullying-sex-differences-cognition-brain-regions.md) — related
 - [No sex differences in the effect of dyslexia genetic liability on school performance](no-sex-difference-dyslexia-pgs-school-performance.md) — related
+- [Video game use is associated with lower grade 3 reading and math achievement among female students but not among male students](video-game-use-sex-specific-grade3-female.md) — related

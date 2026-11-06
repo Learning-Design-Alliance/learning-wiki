@@ -50,3 +50,4 @@ Authors' interpretive discussion (Discussion section 4.4), not a tested result: 
 - [HF simulation shows no significant benefit for satisfaction, confidence, or teamwork behaviors, and no long-term knowledge retention benefit](hf-simulation-null-secondary-outcomes.md) — related
 - [The review reports that high-fidelity simulation outperformed case-based discussion for clinical reasoning and leadership in paediatric emergencies](hfs-superior-case-based-discussion-reasoning.md) — related
 - [Non-technical competencies such as communication, teamwork, and decision-making are frequently neglected in RT competency assessment](non-technical-competencies-neglected-rt-assessment.md) — related
+- [Animal-based surgical sessions appeared to foster non-technical skills (communication, role clarity, decision-making under pressure), but the study included no direct measurement of teamwork outcomes](animal-sessions-non-technical-skills-unmeasured.md) — related

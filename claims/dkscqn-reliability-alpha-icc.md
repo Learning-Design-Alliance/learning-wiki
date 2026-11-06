@@ -61,3 +61,6 @@ Test-retest reliability was assessed with 46 nurses across two administrations s
 - [The finalized 72-item scale shows excellent internal consistency and factorability (Cronbach's α = 0.928, KMO = 0.884)](scale-excellent-internal-consistency-0928.md) — related
 - [The adapted MIQ shows excellent internal consistency in this sample (Cronbach's alpha 0.90 at baseline and 0.88 post-workshop)](adapted-miq-internal-consistency-pvc.md) — related
 - [The VR camera navigation test shows high internal consistency (Cronbach's α = 0.88) and test–retest reliability (r = 0.84)](camera-navigation-test-high-reliability.md) — related
+- [ATSHWS scores are temporally stable over a 15-day test-retest interval (ICC 0.900; r 0.951)](atshws-test-retest-stability-15-day.md) — related
+- [The LISA-AT shows high test-retest reliability (Spearman's rho = 0.87), high internal consistency (Cronbach's alpha = 0.88), and good inter-rater reliability (Cronbach's alpha = 0.82)](lisa-at-reliability-evidence.md) — related
+- [The palliative care communication scale shows high internal consistency (overall Cronbach's α = 0.928) and 2-week test-retest reliability of 0.89](palliative-communication-scale-reliability-alpha-0928-retest-089.md) — related

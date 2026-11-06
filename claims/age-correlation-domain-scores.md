@@ -49,3 +49,4 @@ Pearson correlation and gender comparison on the 206-student survey data; the pr
 - [Self-perceived communication competence and adaptability show small positive correlations with age, while resourcefulness and communicative adaptability do not](age-correlations-communication-adaptability-small.md) — related
 - [Clerkship students rated the R-ISAM model significantly higher than Basic Sciences and Physiopathology students across all seven evaluation domains (p < 0.001)](clerkship-students-rate-r-isam-highest.md) — related
 - [Age correlates moderately and GPA weakly with self-directed learning](age-gpa-sdl-correlations.md) — related
+- [Both educators' evaluations and students' self-assessments correlate weakly but significantly with first-year OSCE communication scores](weak-osce-correlations-self-and-educator-ratings.md) — related

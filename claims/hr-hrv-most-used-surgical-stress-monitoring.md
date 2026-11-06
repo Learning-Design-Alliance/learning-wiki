@@ -51,3 +51,5 @@ Systematic review synthesis of 61 included articles retrieved from Web of Scienc
 - [The STAI-6 is the most frequently used validated psychological scale for stress measurement in surgical educational environments](stai-6-most-used-psychological-stress-scale.md) — related
 - [HRV time-domain metrics (SDNN, RMSSD, AVNN) decrease significantly during surgical procedures under stress](hrv-time-metrics-decrease-under-surgical-stress.md) — related
 - [HRV data show moderate concurrent validity as a measure of stress in educational contexts](hrv-moderate-concurrent-validity-stress.md) — related
+- [FLS performance was positively correlated with heart-rate change across all trials, interpreted as task engagement rather than detrimental stress](fls-score-positive-correlation-heart-rate-change.md) — related
+- [Physiological stress and subjective fatigue changes did not differ significantly between robotic and laparoscopic approaches, though trends favored the robotic approach](hinotori-stress-fatigue-no-significant-difference.md) — a narrower finding that bears on this claim

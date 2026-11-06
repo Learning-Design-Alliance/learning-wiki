@@ -62,3 +62,4 @@ Narrative review attributing this to Zhang et al.'s study in which students were
 - [The DwGJ group outperformed the control group on OSCE-based practical skill assessment after the course](dwgj-cbl-higher-osce-skill-scores.md) — related
 - [VR-trained students outperformed control students in all three assessed competency modules in both assessment modes](vr-cataract-three-module-subscore-advantage.md) — related
 - [Students who participated in at least three simulation modules improved OSCE scores 15–20% above baseline at Fujian Medical University](simulation-modules-osce-score-improvement.md) — a narrower finding that bears on this claim
+- [Flipped classroom students outperform classic classroom students on nearly all OSCE item-group clusters, with non-significant differences in two clusters (BLS AED ABCDE and Stroke management)](flipped-classroom-osce-item-group-clusters.md) — a narrower finding that bears on this claim

@@ -75,3 +75,4 @@ Narrative review attributing this to Bogomolova et al. (2021) on learning comple
 - [Immersive media environments enable higher visual and behavioral realism of pedagogical agents than non-immersive formats](xr-higher-agent-realism-than-non-immersive.md) — related
 - [Drawing and haptic-visual observation activities helped students visualize and notice anatomical details, though some found household objects insufficiently contextualized](exploring-3d-anatomy-compartmental-conceptual-cognition.md) — related
 - [Students reported that HoloLens made anatomy spatially intelligible but not fully realistic, describing holograms as simplified or cartoon-like](hololens-spatial-intelligibility-not-realism.md) — related
+- [The authors propose that reversed screen orientation aligns needle movement perception with hand movements, potentially easing spatial perception in early learning](reversed-screen-spatial-alignment-hypothesis.md) — related

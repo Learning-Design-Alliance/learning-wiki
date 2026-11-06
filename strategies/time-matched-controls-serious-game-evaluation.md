@@ -42,7 +42,8 @@ The article recommends that future evaluations of serious-game add-ons use time-
 - [Item-level gains favoring PLAN A scenarios are hypothesis-generating, with no significant between-group difference on any individual case](../claims/plan-a-item-level-exploratory-gains.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use controlled designs with larger samples to confirm preclinical psychomotor training effects](controlled-designs-for-preclinical-psychomotor-training-research.md)
 
 ## Examples
 -

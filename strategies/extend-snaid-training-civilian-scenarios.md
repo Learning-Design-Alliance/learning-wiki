@@ -48,7 +48,8 @@ The article suggests the training intervention using the Snaid® extrication dev
 - [All participating students completed 100% of simulation checklist items, supporting feasibility of the program.](../claims/simulation-checklist-completion-feasibility.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Extend simulator-assisted breastfeeding training to hospitals, NICUs, and antenatal classes](extend-simulator-breastfeeding-training-clinical-settings.md)
 
 ## Examples
 -

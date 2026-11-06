@@ -52,3 +52,4 @@ Qualitative content analysis of semi-structured interviews with 10 randomly sele
 - [Teachers reported student gains in motivation and confidence to engage in literacy and mathematics learning activities](tec-summer-teacher-reported-motivation-gains.md) — related
 - [Teachers observed that cooperative learning boosted participation, confidence, and motivation, including among weak and shy students](cooperative-learning-teacher-observations-participation-confidence.md) — related
 - [A social responsibility education program significantly improves the respect component among football sports school students](sr-program-improves-respect-sports-school.md) — related
+- [End-of-program self-report surveys systematically flatter leadership programs via honeymoon and horizon effects](end-of-program-self-report-inflates-growth.md) — related

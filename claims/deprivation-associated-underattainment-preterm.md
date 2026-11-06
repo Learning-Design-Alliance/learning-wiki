@@ -58,3 +58,4 @@ Fully adjusted GEE regression models from the same national cohort. The quote re
 - [Preterm comorbidities — necrotizing enterocolitis, retinopathy of prematurity, and bronchopulmonary dysplasia — are associated with higher odds of poor outcomes, while sepsis shows no association](preterm-comorbidities-attainment.md) — related
 - [Children with high-grade IVH were less likely to meet national minimum standards at age 8 to 9 years, although most still met them](high-grade-ivh-nms-age-8-9.md) — related
 - [Numeracy was the consistently weakest domain for children with high-grade IVH throughout school age](high-grade-ivh-numeracy-weakness.md) — related
+- [Sociodemographic factors are more strongly associated with educational attainment than preterm birth status](sociodemographic-factors-outweigh-preterm-status.md) — related

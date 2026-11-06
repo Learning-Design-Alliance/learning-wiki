@@ -47,3 +47,4 @@ Item discrimination analysis in Sample 1 (N = 1217): participants ranked by tota
 ## Related Claims
 - [Statistical item selection that maximizes norm-referenced discrimination undermines criterion-referenced test definitions](statistical-item-selection-conflicts-criterion-referenced-definition.md) — related
 - [Polychotomously scored IF-AT physics exam items show excellent discrimination, with a mean item-total correlation of r′ = 0.41 ± 0.13 across 45 items](if-at-integrated-testlet-items-excellent-discrimination.md) — related
+- [Item analysis on an initial survey of 413 endoscopy nurses retained 41 items with significant item–total correlations and high-low group discrimination](endoscopy-nurse-scale-item-analysis-413-nurses.md) — related

@@ -53,3 +53,4 @@ Regression analyses in the cross-sectional survey (Table 2). All five Big Five t
 - [Teaching type interacts with personality factors on academic achievement for all Big Five traits except neuroticism](teaching-type-personality-interaction-big-five.md) — related
 - [Openness shows larger correlations with achievement in language than in STEM subject domains, a pattern that holds for both grades and test scores](openness-language-stem-domain-moderation.md) — related
 - [Big Five personality traits show no significant association with dental students' radiographic diagnostic accuracy](personality-traits-no-effect-radiographic-accuracy.md) — related
+- [Agreeableness is the dominant Big Five personality type among Grade 12 Thai EFL students, at 59.7% of respondents](agreeableness-dominant-thai-g12-personality-type.md) — related

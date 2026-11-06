@@ -49,3 +49,4 @@ The article's design commentary (type e) states PISA-VET includes "digitalized s
 - [Digital-competency disparities may confound computerized PISA-VET assessments of vocational competence](pisa-vet-digital-competency-confound.md) — reports the opposite
 - [PISA-VET has stated limitations: limited occupational coverage, context sensitivity, simulation limits, and CBET generalizability concerns](pisa-vet-limitations.md) — related
 - [E-learning in VET affects theoretical learning and only computer-media practical learning, not conventional machine-tool practical learning](e-learning-limited-to-theory-and-digital-practical.md) — related
+- [Students rate the digital simulation course positively but remain neutral about it replacing hands-on instruction](students-positive-but-neutral-on-replacing-hands-on.md) — related

@@ -74,3 +74,4 @@ Domain-level ANTS analysis in the same scenario test showed only teamwork and si
 - [Team communication and decision-making gains show no significant differences across departments, experience levels, professions, or prior simulation exposure](communication-decision-gains-uniform-subgroups.md) — related
 - [Observed ANTS scores in remote AR simulation were similar to previously reported in-person simulation ANTS scores, but the study was not designed to test superiority](remote-ar-ants-similar-to-in-person.md) — related
 - [TPOT scores improved significantly across all five TeamSTEPPS domains, with greatest gains in team structure and leadership](ipstar-tpot-domain-gains.md) — related
+- [Animal-based surgical sessions appeared to foster non-technical skills (communication, role clarity, decision-making under pressure), but the study included no direct measurement of teamwork outcomes](animal-sessions-non-technical-skills-unmeasured.md) — related

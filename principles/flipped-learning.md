@@ -28,7 +28,7 @@ sources:
 # Flipped Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 146 claims (86 for, 56 mixed, 4 against) · 93 studies (47 causal, 19 quant-synthesis, 13 review, 5 associational, 5 design, 2 qualitative, 2 theoretical), `q1`–`q4` · 33 of 93 report an effect size · 138 claims rest on one study
+> **Evidence** · 150 claims (90 for, 56 mixed, 4 against) · 96 studies (50 causal, 19 quant-synthesis, 13 review, 5 associational, 5 design, 2 qualitative, 2 theoretical), `q1`–`q4` · 33 of 96 report an effect size · 142 claims rest on one study
 
 ## Conditional relationship
 
@@ -187,6 +187,10 @@ Claims from the calculus study behind a core claim, read on 2026-10-15 and left 
 - [Total cumulative study time is comparable between AI-assisted CBL+FC and lecture-based groups despite more intensive pre-class preparation](../claims/ai-assisted-cbl-fc-comparable-total-study-time.md) [~W] — attached 2026-11-04 from Wang et al. (2026), which proposed "Redistribute cognitive workload to pre-class AI-supported acquisition so in-class time serves higher-order clinical learning".
 - [Pre-class instructional videos (POV and F-t-F) yield higher pre-training global rating scores than no video in ultrasound-guided CVC training, with POV highest](../claims/pre-class-video-higher-pre-training-global-rating-cvc.md) [+W] — attached 2026-11-05 from Liao Po-Hsiang et al. (2026), which proposed "Integrate pre-class instructional videos into procedural training as a practical, scalable strategy, with first-person POV recordings adding value"; tests this page's relationship.
 - [Pre-class videos raise pre-training checklist scores in ultrasound-guided CVC, with the POV group highest](../claims/pre-class-video-higher-pre-training-checklist-cvc.md) [+W] — attached 2026-11-05 from Liao Po-Hsiang et al. (2026), which proposed "Integrate pre-class instructional videos into procedural training as a practical, scalable strategy, with first-person POV recordings adding value"; tests this page's relationship.
+- [Objective (O) section SOAP skill scores were significantly higher in the Combined and MFCS groups than in the FCM and traditional groups](../claims/mfcs-groups-higher-o-soap-scores.md) [+W] — attached 2026-11-06 from Zhang Ruike et al. (2025), which proposed "Hybrid flipped-classroom-with-multi-angle-camera model for highly practical courses".
+- [Medical students in an e-learning-based flipped classroom plus simulation training score significantly higher on a six-station emergency OSCE total score than students in classic classroom teaching with identical simulation training](../claims/flipped-classroom-higher-emergency-osce-total-score.md) [+W] — attached 2026-11-06 from Ruesseler M. et al. (2025), which proposed "Pair flipped-classroom e-learning with identical simulation training to improve practical emergency competencies"; tests this page's relationship.
+- [Flipped classroom students outperform classic classroom students on nearly all OSCE item-group clusters, with non-significant differences in two clusters (BLS AED ABCDE and Stroke management)](../claims/flipped-classroom-osce-item-group-clusters.md) [+W] — attached 2026-11-06 from Ruesseler M. et al. (2025), which proposed "Pair flipped-classroom e-learning with identical simulation training to improve practical emergency competencies"; tests this page's relationship.
+- [Experimental group achieved superior theoretical and practical assessment scores compared to control group](../claims/flipped-boppps-superior-final-assessment-scores.md) [+W] — attached 2026-11-06 from Luo Bin et al. (2025), which proposed "Flipped classroom combined with BOPPPS: pre-class self-study plus structured in-class participatory learning with closed-loop feedback".
 
 ## Objective and learner-valued goal
 

@@ -57,3 +57,4 @@ Frequency counts from grounded theory coding. Representative statements include 
 - [Motivational Disengagement, reported by 270 participants, captures reduced initiative and eroding confidence linked to AI reliance](motivational-disengagement-ai-reliance.md) — related
 - [Attentional Drift, reported by 125 participants, reflects pace impatience and restless switching after AI-supported work](attentional-drift-pace-impatience-restless-switching.md) — related
 - [Low comment rewriting does not imply a smooth process: students describe the main effort as verifying generated code rather than revising prompts](verification-burden-shifts-work-from-rewriting-to-reviewing.md) — related
+- [Participants reported that the internship model's main weaknesses were using students as instruments, increased fatigue, and drift from principled scientific performance](anesthesia-internship-weaknesses-instrument-fatigue.md) — related

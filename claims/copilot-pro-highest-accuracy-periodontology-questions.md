@@ -51,3 +51,4 @@ Evaluation of 125 closed-ended periodontology exam questions posed to ChatGPT-4o
 - [No statistically significant difference was found in any chatbot's performance between Day-0 and Month-1](no-significant-chatbot-performance-change-one-month.md) — related
 - [Subgroup analyses show significant between-model differences, with Copilot (75.25%) and ChatGPT-4 (72.97%) achieving the highest pooled accuracies](llm-subgroup-copilot-chatgpt4-highest-accuracy.md) — related
 - [GPT-4 achieves the highest pooled accuracy among LLMs (81%), significantly outperforming GPT-3.5 (60%)](gpt4-highest-accuracy-81-outperforms-gpt35.md) — related
+- [Chatbot accuracy differences across dental specialties emerged mainly in Polish prompts, notably in periodontology and conservative dentistry](specialty-accuracy-differences-strongest-in-polish.md) — related

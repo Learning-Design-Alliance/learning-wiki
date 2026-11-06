@@ -53,3 +53,4 @@ Model-fit comparison of five competing SEMs (Table 5), with the hypothesized mod
 - [Serial mediation supports a sequence from Reading-PGS through rapid bimodal temporal processing and phonological awareness to decoding and comprehension](serial-mediation-rbtp-pa-decoding-comprehension.md) — related
 - [Math anxiety has both a direct negative effect and a WM-mediated indirect effect on children's verbal Math Reasoning, but only an indirect effect on Numerical Operations](math-anxiety-direct-effect-verbal-math-reasoning.md) — related
 - [Reanalyses of simulated and PALMA data provide converging support for the extended reciprocal effects model, including an effect of academic self-concept on achievement](reanalyses-converging-support-extended-rem-asc-effect.md) — related
+- [Self-concept and physical-mental health chain-mediate the PA–AA link: PA enhances SC, which improves PMH and thereby AA (β = 0.031, 8.86%)](chain-mediation-sc-pmh-pa-aa.md) — related

@@ -60,3 +60,5 @@ Multi-cohort quasi-experiment with historical control (2023 LBL n=21; 2024/2025 
 - [The BOPPPS advantage in knowledge and skills remained statistically significant after ANCOVA adjustment for baseline scores](ancova-adjusted-boppps-effects.md) — related
 - [Nurse anesthesia students taught with the BOPPPS model outperform traditionally taught peers on post-test knowledge and clinical skills in pre-anesthesia care](boppps-posttest-knowledge-skills-superiority.md) — related
 - [The BOPPPS group improved 26.47 points more than controls on a standardized composite of knowledge and skill scores](boppps-total-score-improvement.md) — related
+- [The BOPPPS-CBL effect on Section D and total Pt-test scores persists after adjusting for age, gender, and baseline academic scores](boppps-cbl-pt-test-regression-adjusted.md) — related
+- [BOPPPS-CBL students achieve significantly higher comprehensive case-analysis (Section D) scores than traditionally taught students](boppps-cbl-section-d-case-analysis-superior.md) — a narrower finding that bears on this claim

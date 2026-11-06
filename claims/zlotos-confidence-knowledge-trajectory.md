@@ -63,3 +63,4 @@ One-group pre-test/post-test study of 106 preregistration pharmacist trainees us
 - [Knowledge gains from both Jigsaw and traditional teaching persist to three months, with a small decline from post-intervention](knowledge-retention-three-months-both-methods.md) — related
 - [Management competency improved by 13.5% immediately after the lecture but declined by 6% at the two-month follow-up](management-competency-gain-declines-at-follow-up.md) — a narrower finding that bears on this claim
 - [Quarterly follow-up training does not sustain providers' HBB knowledge at 9 months](quarterly-followup-insufficient-knowledge-retention.md) — related
+- [Knowledge differences between IVR and textbook groups were no longer statistically significant four weeks after the intervention](ivr-knowledge-advantage-not-maintained-at-4-weeks.md) — related

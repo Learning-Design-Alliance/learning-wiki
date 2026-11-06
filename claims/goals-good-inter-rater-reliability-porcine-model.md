@@ -49,3 +49,4 @@ Reliability analysis using ICC(2,k) with a two-way random-effects model across f
 - [Inter-assessor agreement on OSCE scores is substantial, with a pooled intraclass correlation coefficient of 0.77](pt-osce-icc-assessors-substantial.md) — related
 - [Novice trainees completing a structured VR simulation curriculum achieved significantly higher total GOALS scores than controls in a porcine cholecystectomy post-test](structured-vrst-curriculum-higher-goals-total.md) — related
 - [Inter-rater reliability of the drawing assessments was high, with an average-measures ICC of 0.988 for the total score](high-inter-rater-reliability-drawing-assessments.md) — related
+- [Two independent observers show high agreement when scoring the ATSHWS (total-score ICC 0.951)](atshws-inter-observer-reliability-icc-0-951.md) — related

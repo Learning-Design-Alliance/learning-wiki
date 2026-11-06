@@ -54,3 +54,4 @@ Survey of the 16 students who used the module; Table 4 shows 62.5% agreed or str
 - [Graduate students rated AI-generated weekly readings as effective preparation, with 75% agreeing they learned more than in a comparable course without AI assistance](ai-generated-readings-positive-perceived-value-graduate-course.md) — related
 - [Most students (84%) endorse continuing the BPM Essentials module in future curricula, with PA students rating it more favorably](student-endorsement-bpm-module.md) — related
 - [Students reported positive perceptions of the e-learning modules, supporting their integration into the dental curriculum](positive-student-perceptions-elearning-modules.md) — related
+- [Students reported positive perceptions of the e-LbC session, with 90% agreeing it improves future clinical reasoning and 62% satisfied overall](elbc-positive-student-perceptions.md) — related

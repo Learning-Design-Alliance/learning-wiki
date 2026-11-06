@@ -52,3 +52,5 @@ Exploratory correlation analysis within the intervention cohort relating end-of-
 - [Integrated model improves all seven Mini-CEX domains, largest gain in physical examination](microskills-cptm-minicex-all-domains.md) — related
 - [A specialty-specific OSCE plus WBA curriculum raised end-of-rotation OSCE total scores versus historical controls in radiation oncology postgraduates](specialty-osce-wba-curriculum-higher-osce-total.md) — related
 - [Student satisfaction was moderately and positively correlated with academic performance in both curriculum groups](satisfaction-performance-moderate-correlation-both-groups.md) — related
+- [Mini-CEX intervention groups outperformed controls on OSCE results (Cohen's d = 0.71)](mini-cex-higher-osce-scores.md) — related
+- [Both educators' evaluations and students' self-assessments correlate weakly but significantly with first-year OSCE communication scores](weak-osce-correlations-self-and-educator-ratings.md) — related

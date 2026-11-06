@@ -53,6 +53,7 @@ The review concludes that HFS training can be used in ongoing training for pract
 - [Integrate interactive, competency-based diabetic foot care training into continuing professional development, supported by organizational resources](integrate-interactive-diabetic-foot-training-cpd.md)
 - [Integrate high-fidelity body donor models with low-fidelity simulators across the training progression](integrate-high-and-low-fidelity-simulation.md)
 - [Integrate ATLS-based simulation programs into nursing curricula](integrate-atls-simulation-into-nursing-curricula.md)
+- [Systematically integrate high-fidelity simulation into maternal-newborn courses with faculty development and gender-inclusive support](systematic-hfs-integration-maternal-newborn-courses.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ Likert-type questionnaire (16 items, five TAM dimensions: utility, ease of use, 
 - [Students reported positive perceptions of OCRA's suitability for teaching and learning, with an overall mean of 4.44](ocra-positive-student-perception.md) — related
 - [Learners rate the AI-Mentor cognitive core highly on technology acceptance](ai-mentor-high-tam-acceptance.md) — related
 - [Flexibility in using fragmented time and platform ease of use received the highest student ratings (both 8.3), while perceived video quality received the lowest (7.1)](usability-items-highest-rated-video-quality-lowest.md) — related
+- [Gamification-group students reported positive technology acceptance, with Perceived Usefulness, Concentration, and Attitude towards Using the highest-rated TAM domains](tam-acceptance-perceived-usefulness-highest.md) — related

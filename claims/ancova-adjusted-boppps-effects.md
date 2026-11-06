@@ -55,3 +55,4 @@ ANCOVA validation analysis conducted "with post-test scores as dependent variabl
 - [Nurse anesthesia students taught with the BOPPPS model outperform traditionally taught peers on post-test knowledge and clinical skills in pre-anesthesia care](boppps-posttest-knowledge-skills-superiority.md) — a broader claim this one bears on
 - [Intervention students reported exceptionally high satisfaction with BOPPPS-based pre-anesthesia care training (48.53 of 50)](boppps-high-satisfaction.md) — related
 - [Instructional design using the MIND model produced significantly higher post-test learning outcomes than design using the ADDIE model](mind-model-outperforms-addie-learning-outcomes.md) — related
+- [The BOPPPS-CBL effect on Section D and total Pt-test scores persists after adjusting for age, gender, and baseline academic scores](boppps-cbl-pt-test-regression-adjusted.md) — related

@@ -51,3 +51,4 @@ In the same interview study with 10 trainee ANPs, thematic analysis found partic
 - [Trainee ANPs frequently rely on specialist mental health colleagues due to gaps in their own training, which risks fragmenting care and reducing ANP scope of practice.](reliance-on-specialist-mental-health-colleagues.md) — related
 - [Trainee ANPs perceive that individuals with personality disorder attend services mainly in crisis, though this may reflect limited awareness of subtle presentations rather than actual absence.](anps-perceive-pd-crisis-only-attendance.md) — related
 - [Fast-paced, high-stimulus clinical settings with short appointments, lack of privacy and limited access to mental health specialists are major barriers to personality disorder care.](clinical-environment-barriers-to-pd-care.md) — related
+- [Trainees reported low readiness to become a consultant at the end of training](low-consultant-readiness-at-end-of-training.md) — related

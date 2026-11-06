@@ -179,3 +179,5 @@ The article reports this as a summary of a recent National Academies consensus s
 - [Traditional teaching produced normalized gains of only 7–14% while the P&E method with new study materials reached 45%](traditional-low-gain-versus-pe-45-percent.md) — related
 - [Class time in the flipped model was devoted to active learning activities rather than lecturing](flipped-class-time-active-learning-activities.md) — a narrower finding that bears on this claim
 - [Faculty report spending significantly more time on lecture than any other classroom practice in their largest courses, though average lecture time is below 50%.](lecture-dominates-classroom-time.md) — related
+- [Just-in-time teaching improves cognitive gains and decreases failure and attrition rates compared with traditional teaching](jitt-improves-gains-decreases-failure-attrition.md) — a narrower finding that bears on this claim
+- [Peer instruction improves student scores and comprehension compared with traditional lecture and with self-explanation](peer-instruction-improves-scores-comprehension.md) — a narrower finding that bears on this claim
