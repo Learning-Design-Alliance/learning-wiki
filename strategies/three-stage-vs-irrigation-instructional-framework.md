@@ -53,6 +53,7 @@ The authors propose a three-stage instructional framework incorporating the virt
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
 - [Introduce virtual simulation systems in Periodontics to support integration of theoretical and practical skills](virtual-simulation-systems-perio-skills-integration.md)
 - [Integrate virtual patients into preclinical dental curricula and evaluate with objective outcome measures](integrate-vps-preclinical-dental-curriculum-strategy.md)
+- [Introduce VR simulation during the preclinical phase of dental education, before students perform procedures on patients](vr-simulation-preclinical-phase-integration.md)
 
 ## Examples
 -

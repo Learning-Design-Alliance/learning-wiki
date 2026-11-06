@@ -70,3 +70,4 @@ The same Mann-Whitney U analysis of Likert-survey dimensions found no significan
 - [AI-assisted PBL-CBL combined teaching increases teaching satisfaction among medical interns compared with lecture-based teaching](ai-pbl-cbl-increases-teaching-satisfaction.md) — reports the opposite
 - [Experimental-group students rated satisfaction, learning enthusiasm, comprehension, interaction, and interest in nephrology more favorably than control students](boppps-rain-classroom-favorable-student-evaluations.md) — reports the opposite
 - [Experimental-group trainees report higher satisfaction than controls in teaching atmosphere, learning interest, and learning efficiency](digital-cbl-higher-satisfaction-interest-efficiency.md) — reports the opposite
+- [DeepSeek assistance does not significantly increase perceived engagement via interactive elements or confidence in learning](deepseek-pbl-null-interactive-engagement-confidence.md) — reports the opposite

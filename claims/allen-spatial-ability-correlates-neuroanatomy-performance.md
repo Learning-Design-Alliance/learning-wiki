@@ -60,3 +60,4 @@ Crossover trial comparing a 3D online learning module with gross anatomy lab res
 - [Students in both cohorts responded positively to the XR-CBL modules, with CO 2025 reporting higher satisfaction and perceived learning gains than CO 2024 despite identical module delivery](xr-cbl-positive-perceptions-cohort-difference.md) — related
 - [Students using the 3D model reported higher confidence, greater ability to visualize spatial relationships, and greater enjoyment than textbook-image students](3d-model-higher-confidence-visualization-enjoyment.md) — related
 - [No significant associations between baseline anatomical knowledge or visuospatial ability and ultrasound performance](no-baseline-predictors-ultrasound-performance.md) — related
+- [Prior experience in tasks requiring spatial skills did not significantly differentiate post‐intervention neuroanatomy knowledge within the IVR group](spatial-experience-no-difference-ivr-group.md) — related

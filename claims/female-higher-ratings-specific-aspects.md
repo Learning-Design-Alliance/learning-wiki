@@ -55,3 +55,4 @@ T-tests comparing male and female mean ratings (Tables 4-7) find "female student
 - [Tutor contribution is important for female students' global satisfaction but irrelevant for male students](tutor-contribution-female-satisfaction.md) — related
 - [Female students scored significantly higher than males on higher-order thinking skills (p = 0.015).](females-higher-hot-scores.md) — related
 - [Male students reported higher confidence than female students despite no performance difference](male-students-report-higher-confidence-no-performance-difference.md) — related
+- [Male students' self-assessment of communication is statistically higher than female students' self-assessment](male-students-higher-self-assessment.md) — reports the opposite

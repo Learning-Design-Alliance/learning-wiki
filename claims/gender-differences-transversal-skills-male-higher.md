@@ -59,3 +59,4 @@ Survey analysis by gender; the article reports 80% of male students scored above
 - EFA of the CONNECT instrument identifies seven transversal-skill components — related
 - [Male students score significantly higher than females on Openness to Experience and Extraversion, while age shows no significant correlation with personality](gender-age-personality-differences.md) — related
 - [Female students showed greater improvement than male students across all categories in both studies](gender-gap-writing-fluency-gains.md) — related
+- [Male students' self-assessment of communication is statistically higher than female students' self-assessment](male-students-higher-self-assessment.md) — possibly the same claim (merge candidate)

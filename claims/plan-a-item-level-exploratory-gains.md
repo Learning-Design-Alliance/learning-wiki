@@ -49,3 +49,4 @@ Exploratory item-level analysis across the six clinical vignettes in the pilot t
 - [Adding the PLAN A tabletop serious game to standard airway training does not produce a statistically significant between-group difference in total case-based assessment scores in novice trainees](plan-a-no-between-group-difference-total-score.md) — related
 - [Substituting open-ended performance tasks alone produced no significant quantitative-reasoning gains in Study 1](study1-performance-tasks-alone-no-qr-gains.md) — related
 - [Both PLAN A and control trainees improve significantly on case-based airway assessment from pre- to post-training](plan-a-within-group-pre-post-gains-both-groups.md) — related
+- [In item-level vignette analysis, e-LbC students outperformed lecture students in 10 of 15 vignettes, significantly in 8](elbc-vignette-level-outperformance.md) — reports the opposite

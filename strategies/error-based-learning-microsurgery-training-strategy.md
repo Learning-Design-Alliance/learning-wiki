@@ -48,6 +48,7 @@ The review recommends structuring microsurgical training around systematic ident
 ## Related Strategies
 
 - [Deploy senior postgraduates as one-on-one real-time skills mentors during operation practice](postgraduate-one-on-one-skills-mentoring.md)
+- [Time microsurgical skills courses early in postgraduate education, before trainees begin operating on patients, to hasten learning and reduce patient complications.](early-timing-microsurgical-courses-pre-vocational.md)
 
 ## Examples
 -

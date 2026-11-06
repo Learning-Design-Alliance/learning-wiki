@@ -63,3 +63,6 @@ Randomised trial of 38 general-practice residents (19 per group) in one hospital
 - [Students across all groups reported high satisfaction with the module, with no statistically significant group differences in satisfaction or self-reported mastery](high-satisfaction-no-group-differences-perceptions.md) — related
 - [Pre-reform survey found high flipped-classroom awareness but minimal BOPPPS familiarity and limited willingness to participate](pre-survey-awareness-boppps-flipped-dentistry.md) — related
 - [Students in the BOPPPS-simulation group reported higher teaching satisfaction across all five surveyed domains](boppps-simulation-higher-teaching-satisfaction.md) — related
+- [BOPPPS-CBL students self-report significantly greater learning effects across all five measured dimensions](boppps-cbl-higher-learning-effect-self-ratings.md) — related
+- [BOPPPS-CBL students rate teaching qualities significantly higher than traditionally taught students](boppps-cbl-higher-teaching-quality-ratings.md) — related
+- [Trainees perceived the flipped classroom combined with BOPPPS model as scientific and worthy of promotion](flipped-boppps-trainee-perceptions-positive.md) — related

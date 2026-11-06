@@ -95,3 +95,6 @@ Reliability analysis of essay scoring by three high school physics teachers of 1
 - [Rubric scoring of concept image protocols showed inter-rater reliability exceeding acceptable thresholds (Fleiss Kappa 0.60–0.88; Krippendorff's Alpha 0.60–0.88; ICC 0.89–0.98)](concept-image-rubric-inter-rater-reliability.md) — related
 - [Blinded expert raters showed very high agreement when evaluating the LLM-based ACLS simulation scenarios (Kendall W > 0.754)](acls-llm-sim-high-interrater-reliability.md) — related
 - [EM and neurology residents showed substantial agreement on NIHSS scores during the dual-scoring pilot](em-neurology-resident-nihss-substantial-agreement.md) — related
+- [Crowd-sourced rubric scoring by trained laypeople produces scores comparable to expert raters at substantially lower cost](crowd-sourced-assessment-comparable-expert-lower-cost.md) — related
+- [Only diagnostic ranking shows excellent inter-rater reliability among the five scoring dimensions for evaluating ChatGPT-4 clinical responses](diagnostic-ranking-only-reliable-scoring-dimension.md) — related
+- [The LISA-AT shows high test-retest reliability (Spearman's rho = 0.87), high internal consistency (Cronbach's alpha = 0.88), and good inter-rater reliability (Cronbach's alpha = 0.82)](lisa-at-reliability-evidence.md) — related

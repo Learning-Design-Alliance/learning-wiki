@@ -51,3 +51,4 @@ Same feasibility RCT, automated performance metrics aggregated across the four t
 - [Mild, transient cybersickness occurs in a minority of novices using 3D VR video acclimatisation](3d-vr-mild-transient-cybersickness.md) — related
 - [Immersion principle: people do not necessarily learn better in 3D immersive virtual reality than with a corresponding 2D desktop presentation (d = -0.10 across 9 tests)](immersion-principle-no-vr-benefit.md) — reports the opposite
 - [Pre-training educational video review improved simulator scores and shortened the learning curve but temporarily increased completion time](video-review-improves-scores-plateau-earlier.md) — related
+- [Kinematic-based metrics such as reduced path length and lower instrument vibration correlate with higher rubric scores and distinguish experts from novices](kinematic-metrics-correlate-rubric-performance.md) — related

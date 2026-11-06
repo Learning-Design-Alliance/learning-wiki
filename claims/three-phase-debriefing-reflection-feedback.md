@@ -67,3 +67,4 @@ Self-reported satisfaction data from the six residents who took part in high-fid
 - [Medical students valued debriefing sessions after VR training as key opportunities for reflection and consolidating learning](debriefing-valued-reflection-consolidation-vr.md) — related
 - [Students viewed the debrief and structured reflection following the group simulation assessment as beneficial to their professional development](debrief-reflection-benefited-professional-development.md) — related
 - [Control-group focus-group participants perceived their structured debriefing as superficial, focused on general overview rather than critical reflection](control-debriefing-perceived-superficial.md) — reports the opposite
+- [Self-operating IVR scenarios offer scalability and resource efficiency, but their rigidity reduces debriefer engagement](self-operating-ivr-scenarios-rigidity-reduces-debriefer-engagement.md) — related

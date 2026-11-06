@@ -69,3 +69,4 @@ The article describes Figure 1, UChicago Consortium trend data on two indicators
 - [Within schools, principal leadership relates to individual teachers' instruction through multiple pathways, with the strongest via program quality (professional development and coherence)](leadership-instruction-within-schools-program-quality.md) — related
 - [A district case study identifies practices and conditions of a coherent instructional system for reading and science improvement and where it had the most impact](coherent-instructional-system-case-study-impact.md) — related
 - [TTI had no statistically significant impacts on school climate, collaboration, or how students were assigned to teachers](tti-no-significant-impacts-collaboration-student-assignment.md) — related
+- [End-of-program self-report surveys systematically flatter leadership programs via honeymoon and horizon effects](end-of-program-self-report-inflates-growth.md) — related

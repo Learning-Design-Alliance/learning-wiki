@@ -49,3 +49,4 @@ Descriptive percentage from the student evaluation of the RLOs; the abstract sta
 - [A minority of students stated they needed lecturer support alongside the RLOs](minority-students-needed-lecturer-support-alongside-rlos.md) — related
 - [Healthcare students' self-reported understanding of five meta-analysis concepts improved significantly after RLO use in both MPH and PGD groups](rlo-use-improves-perceived-meta-analysis-understanding.md) — related
 - [Experiment-group students reported in interviews that caricature animations helped them understand the subjects better](interviews-students-understand-better-with-caricatures.md) — related
+- [RLO completion rates were low for most RLOs, ranging from 5.6% to 85%, but exceeded 70% for curriculum-integrated RLOs](rlo-completion-rates-low-except-curriculum-integrated.md) — related

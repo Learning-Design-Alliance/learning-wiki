@@ -49,3 +49,4 @@ Obstacles theme from interviews at one tertiary hospital; an ICU educator report
 - [Teaching-related, novice personal, patient-related and feedback-related factors affected mini-CEX and DOPS implementation efficacy](mini-cex-dops-multifactor-efficacy.md) — related
 - [Barriers to soft skills integration: time constraints, systemic obstacles, learner emotional strain, and adapting to new modalities](soft-skills-curricular-barriers-medical-education.md) — related
 - [Faculty preparedness gaps and psychometric subjectivity are key barriers to implementing OHL-Mini-CEX](ohl-mini-cex-implementation-barriers.md) — related
+- [Nearly one-third of Mini-CEX students cited limited faculty availability and insufficient training as implementation barriers](mini-cex-faculty-availability-barriers.md) — related

@@ -57,3 +57,4 @@ The review reports Strout et al.'s interprofessional mass casualty incident simu
 - [Postactivity student evaluations of the triage simulation were favorable](favorable-student-evaluations-triage-simulation.md) — related
 - [Students reported in open-ended responses that the simulation was positive and improved their interprofessional communication and confidence](student-open-ended-feedback-positive-simulation-experience.md) — related
 - [Self-perceived confidence improved significantly across all ten surveyed pediatric CPR and interprofessional collaboration items (p < 0.001 each)](ipstar-confidence-gains.md) — related
+- [VR-based disaster simulation education increases disaster triage confidence more than written case simulation](vr-disaster-triage-confidence-gain.md) — related

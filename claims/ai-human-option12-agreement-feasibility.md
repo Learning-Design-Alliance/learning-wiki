@@ -54,3 +54,4 @@ Validation analysis of 61 chats from the preregistered feasibility study, compar
 - [LLM-generated total scores showed moderate agreement with faculty ratings of VSP history-taking performance (ICC(2,1)=0.51)](llm-vsp-scoring-moderate-agreement-faculty.md) — related
 - [The OPTION-12 scale shows good internal consistency when applied by AI in simulated consultations](option12-internal-consistency-ai-setting.md) — related
 - [Medical students achieved higher OPTION-12 shared decision-making performance scores than physicians while reporting similarly positive attitudes](students-outperform-physicians-option12.md) — related
+- [The simulator's automated outcome scoring system agrees excellently with expert raters (Cohen's κ = 0.87, ICC = 0.98)](automated-scoring-agrees-with-experts.md) — related

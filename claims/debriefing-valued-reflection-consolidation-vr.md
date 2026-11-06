@@ -56,3 +56,4 @@ Thematic analysis under the ITEM debriefing domain of interviews with 11 medical
 - [Students identified hands-on learning, debriefing and facilitator continuity as the key beneficial features of the pre-foundation simulation course](simulation-course-features-hands-on-debriefing-continuity.md) — related
 - [Students viewed the debrief and structured reflection following the group simulation assessment as beneficial to their professional development](debrief-reflection-benefited-professional-development.md) — related
 - [Teachers highlighted debriefing after each simulation as central to the development of nursing students' critical thinking.](post-simulation-debriefing-central-to-ct-nursing-sbl.md) — related
+- [Learner reactions to IVR technical aspects consume more debriefing time than in mannequin-based simulation; debriefers suggest allocating dedicated feedback channels](ivr-technical-discussions-consume-debriefing-time.md) — related

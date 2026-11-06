@@ -18,7 +18,7 @@ sources:
 # Procedural Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 55 claims (35 for, 18 mixed, 2 against) · 70 studies (36 causal, 14 review, 9 quant-synthesis, 7 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 11 of 70 report an effect size · 45 claims rest on one study
+> **Evidence** · 57 claims (35 for, 20 mixed, 2 against) · 71 studies (37 causal, 14 review, 9 quant-synthesis, 7 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 12 of 71 report an effect size · 47 claims rest on one study
 
 ## Conditional relationship
 
@@ -141,6 +141,8 @@ Claims that bear on procedural learning but are not part of the model above, eac
 - [Modified Peyton’s four-step approach yields better one-month skill retention than traditional Peyton](../claims/modified-peyton-one-month-retention.md) [+W] — attached 2026-11-04 from Liu Bingyan et al. (2026), which proposed "Modified Peyton’s four-step pattern: video playback, deconstruction with post-hoc questions, peer group learning with mutual supervision, and video-recorded practice".
 - [RCDP training with an ex vivo porcine intussusception model produces higher post-training theoretical and practical assessment scores than traditional teaching methods in radiology residents](../claims/rcdp-exvivo-model-higher-air-enema-scores.md) [+W] — attached 2026-11-05 from Xie Lichun et al. (2025), which proposed "RCDP five-step chunked procedural training with iterative feedback until mastery"; tests this page's relationship.
 - [RCDP training yields larger pre-to-post improvement effect sizes than TTM for theoretical and practical air enema scores](../claims/rcdp-larger-prepost-effect-sizes.md) [+W] — attached 2026-11-05 from Xie Lichun et al. (2025), which proposed "RCDP five-step chunked procedural training with iterative feedback until mastery"; tests this page's relationship.
+- [Peyton's 4-step method and \"see one, do one\" produce no statistically significant difference in simulated lumbar puncture checklist scores among first-year medical students](../claims/peyton-vs-see-one-do-one-no-checklist-score-difference-slp.md) [~W] — attached 2026-11-06 from Dugan L et al. (2025), which proposed "For teaching complex procedural skills, institutions may prefer the less time-intensive "see one, do one" approach when time is limited"; tests this page's relationship.
+- [Students taught with Peyton's 4-step method complete a simulated lumbar puncture significantly faster than students taught with \"see one, do one\"](../claims/peyton-method-faster-slp-completion-time.md) [~W] — attached 2026-11-06 from Dugan L et al. (2025), which proposed "For teaching complex procedural skills, institutions may prefer the less time-intensive "see one, do one" approach when time is limited".
 
 ## Objective and learner-valued goal
 

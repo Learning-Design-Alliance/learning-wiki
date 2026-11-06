@@ -84,3 +84,4 @@ An LLM prompt tournament with 12 learning engineers comparing 5 prompt templates
 - [Rubric-guided grading pipelines can approach human-level agreement when explicit rubrics, exemplars, and calibration are used](rubric-guided-grading-human-agreement.md) — related
 - [The SP chicken anastomosis metrics achieved high inter-rater reliability (IRR 0.96) between two blinded trained reviewers](sp-anastomosis-metrics-inter-rater-reliability.md) — a narrower finding that bears on this claim
 - [Z-number representation captures both evaluation content and evaluator reliability in peer assessment](z-number-captures-reliability-peer-evaluations.md) — related
+- [Crowd-sourced rubric scoring by trained laypeople produces scores comparable to expert raters at substantially lower cost](crowd-sourced-assessment-comparable-expert-lower-cost.md) — related

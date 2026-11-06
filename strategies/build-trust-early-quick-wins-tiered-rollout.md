@@ -44,6 +44,7 @@ For solution providers, the report recommends delivering "on quick wins that vis
 - [Strengthen implementation scaffolding for new edtech rollouts with routines, guided practice, and change management grounded in observed workflows](implementation-scaffolding-change-management.md)
 - [Volunteer-first faculty recruitment with modeling of good practice rather than top-down mandates](volunteer-faculty-recruitment-modeling-practice.md)
 - [Build authentic stakeholder buy-in through relational strategies: show don't tell, slow down to speed up, engage resistors, and asset framing](relational-buy-in-strategies-restorative-implementation.md)
+- [Use pragmatic implementation and dissemination strategies to boost e-learning usage and sustainability](pragmatic-rlo-implementation-strategies.md)
 
 ## Examples
 -

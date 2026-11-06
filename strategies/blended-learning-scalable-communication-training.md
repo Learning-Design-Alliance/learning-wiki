@@ -50,6 +50,7 @@ The article proposes blended learning as a response to the logistical challenges
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Use multiagent virtual patient frameworks as scalable, customizable alternatives to standardized patients in clinical communication training](multiagent-vp-alternative-to-standardized-patients.md)
 - [Use facilitated interactive video as a scalable BLS training adjunct when simulation capacity is limited](facilitated-video-adjunct-when-simulation-capacity-limited.md)
+- [Combine medical movies, MOOCs, and simulation with co-debriefing as a scalable multimodal approach to stress and burnout education](multimodal-movies-moocs-simbie-codebriefing-strategy.md)
 
 ## Examples
 -

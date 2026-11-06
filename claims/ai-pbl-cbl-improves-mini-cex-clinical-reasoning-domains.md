@@ -89,3 +89,5 @@ Same Mini-CEX assessment in the RCT. Two domains showed "no statistically signif
 - [PBL interns formulate more differential diagnosis items and higher-quality case presentations than lecture-taught interns](pbl-differential-diagnosis-case-presentation-esophageal.md) — related
 - [Clinical teachers function as mentors and professional exemplars whose modelled conduct transmits empathy, professionalism and clinical reasoning to students](clinical-teachers-as-mentors-and-exemplars.md) — related
 - [Interns taught with OBE-integrated PBL achieve their career plans one year after graduation at a higher rate than lecture-taught peers](obe-pbl-career-plan-achievement-one-year.md) — related
+- [Mini-CEX intervention groups achieved significantly higher ward test scores than control groups (Cohen's d = 0.65)](mini-cex-higher-ward-test-scores.md) — related
+- [Paired t-tests showed statistically significant differences in overall assessment scores between the two teaching methods](pbl-sth-paired-ttest-assessment-outcomes.md) — related

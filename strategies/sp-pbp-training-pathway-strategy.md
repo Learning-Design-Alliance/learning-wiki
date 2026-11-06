@@ -51,6 +51,7 @@ The article recommends building structured, proficiency-based robotic training c
 - [Integrate cost-effective simulation with structured, proficiency-based curricula into pediatric MIS training](proficiency-based-curricula-neonatal-mis.md)
 - [Stepwise progression pathway integrating theoretical instruction, simulation, and supervised clinical practice](stepwise-progression-theory-simulation-supervised-practice.md)
 - [Adopt PBP training in high-volume national surgical training programmes](pbp-for-high-volume-national-programmes.md)
+- [Use the hinotori™ system for structured skill acquisition in pediatric surgical training for novice robotic users](hinotori-structured-skill-acquisition-training-strategy.md)
 
 ## Examples
 -

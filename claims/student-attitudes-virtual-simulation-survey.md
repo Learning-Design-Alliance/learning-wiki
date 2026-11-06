@@ -50,3 +50,4 @@ Descriptive results from the attitude items (A1–A5) of the cross-sectional que
 - [Learner acceptance of AI simulations is generally high, with System Usability Scale scores of 61.6 to 78.56 and 72%-93% willingness to recommend](ai-simulation-high-learner-acceptance.md) — related
 - [Participants reported high satisfaction with simulation sessions but criticized time allocation and group size](simulation-session-satisfaction-time-group-size.md) — related
 - [Most residents believe additional simulated laparoscopic training would positively impact their operative autonomy, yet few practice regularly](residents-believe-simulation-improves-autonomy.md) — related
+- [Participants reported high satisfaction with the progressive laparoscopic program, with 80% strongly agreeing it stimulated learning interest and 64% stating it exceeded expectations](laparoscopic-program-high-satisfaction-interest.md) — related

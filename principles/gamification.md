@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 74 claims (40 for, 31 mixed, 3 against) · 66 studies (27 causal, 16 review, 15 quant-synthesis, 3 associational, 3 design, 2 theoretical), `q1`–`q4` · 17 of 66 report an effect size · 66 claims rest on one study
+> **Evidence** · 77 claims (42 for, 32 mixed, 3 against) · 68 studies (29 causal, 16 review, 15 quant-synthesis, 3 associational, 3 design, 2 theoretical), `q1`–`q4` · 17 of 68 report an effect size · 69 claims rest on one study
 
 ## Conditional relationship
 
@@ -135,6 +135,9 @@ Claims read against this model that do not change it. Each says what it is and w
 - [Gamification studies in SLA show positive results on learning achievement and motivation but without confirmed correlation between the two](../claims/gamification-sla-learning-motivation-no-confirmed-correlation.md) [~W] — attached 2026-11-03 from Boudadi et al. (2020), which proposed "Exercise caution when adopting gamification in language learning until further research shows clearer results".
 - [Gamification-supported teaching has a substantive effect on pre-service teachers' concept images of curriculum elements, with large effect sizes for content (d = 1.59) and total score (d = 2.04)](../claims/gamification-effect-concept-images-curriculum-elements.md) [+W] — attached 2026-11-05 from Uysal (2026), which proposed "Use gamification-supported teaching as an effective approach for teaching abstract concepts such as curriculum elements in teacher education"; tests this page's relationship.
 - [Content analysis of experimental-group journals identifies increased motivation, enhanced conceptual understanding, and interest-curiosity as primary themes of gamified learning experiences](../claims/journal-themes-motivation-understanding-curiosity.md) [+W] — attached 2026-11-05 from Uysal (2026), which proposed "Use gamification-supported teaching as an effective approach for teaching abstract concepts such as curriculum elements in teacher education".
+- [Students in the stamp collecting game group rated their sense of participation and harvest degree higher, but self-rated proactivity did not differ significantly](../claims/stamp-game-participation-harvest-up-proactivity-null.md) [~W] — attached 2026-11-06 from Han Mingyu et al. (2025), which proposed "Use simple, low-cost gamification elements such as stamp collection to enhance engagement in brief clinical rotations".
+- [Students in the stamp collecting game group achieved significantly higher post-rotation neonatal test scores than controls](../claims/stamp-game-higher-post-rotation-test-scores.md) [+W] — attached 2026-11-06 from Han Mingyu et al. (2025), which proposed "Use simple, low-cost gamification elements such as stamp collection to enhance engagement in brief clinical rotations"; tests this page's relationship.
+- [Medical students taught embryology with a gamification platform added to routine instruction scored significantly higher on the final exam than students taught by routine instruction alone](../claims/gamification-final-exam-scores-higher-embryology.md) [+W] — attached 2026-11-06 from Rahimipour Marzieh et al. (2025), which proposed "Use gamification as a complement to routine teaching rather than a replacement in medical embryology education"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

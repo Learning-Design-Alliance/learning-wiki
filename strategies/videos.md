@@ -69,6 +69,7 @@ Video's learning value comes from how well its design manages [Cognitive Load Ma
 - [Combine video clips with Small Group Activity techniques, using video-support techniques such as slowing playback, pre- and post-viewing comprehension sessions, and repeating or pausing scenes](video-clips-small-group-activity-strategy.md)
 - [Combine video viewing with post-viewing activities to test comprehension and encourage productive use of technical vocabulary](video-plus-post-viewing-activities-esp.md)
 - [Video-clip techniques: silent viewing, pause-based prediction, and rewind](video-clip-techniques-silent-pause-rewind.md)
+- [Combine varied teaching formats with regular knowledge-testing questions and direct feedback in flipped-classroom e-learning](e-learning-formats-questions-direct-feedback-strategy.md)
 
 ## Related Elements
 - [Demonstration](../elements/demonstration.md) — video is a scalable delivery vehicle for expert modeling

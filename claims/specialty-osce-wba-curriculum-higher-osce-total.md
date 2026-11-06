@@ -51,3 +51,5 @@ Single-center prospective educational intervention with a historical-control com
 - [Residents in the iHEC-integrated teaching cohort achieved higher post-rotation OSCE scores than the conventional cohort (Cohen's d = 0.82)](ihec-higher-osce-scores.md) — related
 - [CBE-MDT teaching improves final exam scores compared with traditional teaching in radiation oncology rotations](cbe-mdt-improves-exam-scores-radiation-oncology.md) — related
 - [SKIT raises theoretical exam and OSCE scores versus traditional teaching for cross-department emergency rotators](skit-higher-theory-osce-scores-emergency-rotation.md) — related
+- [Medical students in an e-learning-based flipped classroom plus simulation training score significantly higher on a six-station emergency OSCE total score than students in classic classroom teaching with identical simulation training](flipped-classroom-higher-emergency-osce-total-score.md) — related
+- [Mini-CEX intervention groups outperformed controls on OSCE results (Cohen's d = 0.71)](mini-cex-higher-osce-scores.md) — related

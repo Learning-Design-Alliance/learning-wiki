@@ -41,7 +41,8 @@ To address inconsistent standards, the authors recommend uniform instructions: s
 - [Subjective differences in scoring and inconsistent evaluation standards across educators compromised mini-CEX and DOPS usefulness](../claims/mini-cex-dops-scoring-subjectivity.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Institutionalise Mini-CEX with protected time, faculty development, and a feedback-rich culture](mini-cex-protected-time-faculty-development-strategy.md)
 
 ## Examples
 -

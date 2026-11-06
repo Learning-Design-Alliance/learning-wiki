@@ -42,7 +42,8 @@ The article recommends that future iterations of the G-Jump model incorporate ex
 - [Only 26.6% of students used credible scientific sources in the open-book stage, revealing limited information-seeking skills even within a gamified high-engagement environment](../claims/limited-information-seeking-skills-open-book-stage.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Add interactive features — quizzes, gamified modules, and simulated clinical scenarios — to future versions of skills-training software](future-interactive-features-quizzes-gamification-scenarios.md)
 
 ## Examples
 -

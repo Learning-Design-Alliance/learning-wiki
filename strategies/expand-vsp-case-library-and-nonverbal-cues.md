@@ -55,6 +55,7 @@ The authors' forward-looking recommendations for strengthening VSP-based psychia
 - [Planned extensions: expanded user studies, expert-in-the-loop RLHF, hybrid retrieval, and hand-tracking-based assessment](hdr-platform-future-work-strategies.md)
 - [Align didactic communication coursework temporally closer to the simulation activity and add session-summarization and nonverbal-cues training](align-didactics-with-sp-simulation-strategy.md)
 - [Iterate digital simulation platforms using trainee suggestions: add haptic feedback modules, case-discussion content, scoring and login tracking, and a streamlined interface](trainee-driven-platform-improvement-strategy.md)
+- [Add interactive features — quizzes, gamified modules, and simulated clinical scenarios — to future versions of skills-training software](future-interactive-features-quizzes-gamification-scenarios.md)
 
 ## Examples
 -

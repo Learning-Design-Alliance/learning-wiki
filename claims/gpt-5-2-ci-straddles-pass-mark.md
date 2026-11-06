@@ -48,3 +48,4 @@ Discussion interpretation of the five-run simulation results for GPT-5.2, contra
 ## Related Claims
 - [Three of four frontier LLMs exceeded the indicative 74% pass threshold on a simulated FRCS (Urol) Part A examination, while Grok 4.1 failed](three-of-four-llms-pass-simulated-frcs-urol-part-a.md) — related
 - [GPT-4 exceeds pass marks on India NEET-PG and UK PLAB 1 but falls below pass on clinical reasoning and procedural items](gpt4-neetpg-plab-pass-clinical-reasoning-below.md) — a broader claim this one bears on
+- [Only Claude would have passed the LDEK/LDEW pass threshold on every attempt, while Gemini in Polish would certainly fail](only-claude-passes-ldek-threshold-every-attempt.md) — related

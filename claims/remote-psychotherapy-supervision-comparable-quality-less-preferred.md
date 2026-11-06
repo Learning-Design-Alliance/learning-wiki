@@ -50,3 +50,4 @@ The review reports on studies of virtual psychotherapy supervision during the pa
 - [Videoconference-based learning was the most widely implemented online method in psychiatric trainee education](videoconference-most-implemented-psychiatric-education.md) — related
 - [Meta-analytic findings indicate technology-assisted interventions and traditional face-to-face psychotherapy result in comparable outcomes](bcp-comparable-outcomes-meta-analytic.md) — related
 - [BCP settings may increase cognitive load and psychotherapists report BCP is more tiring and strenuous than face-to-face psychotherapy](bcp-increases-cognitive-load-and-fatigue.md) — related
+- [Adequate face-to-face supervision affected trainee confidence in decision-making](face-to-face-supervision-affects-decision-confidence.md) — related

@@ -55,3 +55,4 @@ Same assessor-blinded RCT of 50 clinical medical students. Clinical skills were 
 - [After the intervention, the peer-review group showed significantly greater post-lecture knowledge gains than the control group (83 vs 76, p = 0.003)](peer-review-greater-post-lecture-knowledge-gains.md) — related
 - [PBL combined with 3D-VRT produced higher practical operation scores than traditional teaching in trauma orthopaedics education](pbl-3d-vrt-higher-practical-operation-scores.md) — possibly the same claim (merge candidate)
 - [Blended MOOC-virtual simulation teaching produces higher Structured Clinical Skills Assessment scores than traditional teaching](mooc-virtual-simulation-higher-clinical-skills-assessment-scores.md) — related
+- [Trainees trained on an animal-experiment-based simulation platform achieved significantly higher anatomy scores than control trainees (d = 0.68)](simulation-platform-higher-anatomy-scores-endoscopic-thyroidectomy.md) — related

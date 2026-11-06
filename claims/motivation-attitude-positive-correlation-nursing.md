@@ -49,3 +49,4 @@ Secondary correlational analysis of the same randomized experiment's post-test s
 - [Knowledge and practice scores correlate positively, and attitude correlates weakly with practice](knowledge-practice-spearman-correlation-wound-care.md) — related
 - [Post-intervention knowledge and practice scores are positively correlated, suggesting education should be designed to bridge the knowledge-practice gap](knowledge-practice-correlation-diabetic-foot-care.md) — related
 - [Sepsis knowledge correlates only weakly with self-rated confidence (r = .213)](weak-knowledge-confidence-correlation-sepsis.md) — related
+- [Learning motivation and learning attitude are significantly positively correlated after HoloPatient-based simulation (r = .59–.78)](motivation-attitude-positive-correlation-holopatient.md) — related

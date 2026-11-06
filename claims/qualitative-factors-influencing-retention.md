@@ -49,3 +49,4 @@ Deductive–inductive thematic analysis of three focus groups (12 participants e
 - [Thematic analysis of teacher interviews identifies barriers to implementation and factors for success](mast-implementation-barriers-success-factors.md) — related
 - [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related
 - [Targeted mentorship programs improve match outcomes for underrepresented medical students in urology](mentorship-programs-underrepresented-urology-students.md) — related
+- [Healthcare leaders in the Balkans acquire leadership skills through experiential learning and mentorship rather than formal training programs](leadership-skills-experiential-mentorship.md) — related

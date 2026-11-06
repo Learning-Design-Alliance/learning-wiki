@@ -50,3 +50,5 @@ Paired t-tests on participant-level means of angular velocity, jerk and accelera
 - [Decreasing elbow height is associated with significantly greater angular velocity during simulated laparoscopic but not robotic tasks in surgical novices](elbow-height-greater-angular-velocity-lap-not-ra.md) — related
 - [Starting modality and task order were not associated with angular velocity or jerk](starting-modality-task-order-not-associated-kinematics.md) — related
 - [Trunk movement was less in robotic tasks than in laparoscopic tasks](trunk-movement-less-in-ra-than-lap.md) — related
+- [Peg-transfer FLS scores did not differ significantly between robotic and laparoscopic approaches, but robotic scores showed progressive improvement across trials](hinotori-peg-transfer-fls-comparable-progressive-improvement.md) — related
+- [Most surgeons reported greater comfort with the robotic system and greater fatigue with laparoscopy despite being more accustomed to laparoscopy](hinotori-post-task-comfort-and-fatigue-questionnaire.md) — related

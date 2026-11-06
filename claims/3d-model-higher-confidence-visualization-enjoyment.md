@@ -57,3 +57,5 @@ Post-studying Likert reflection in the pilot trial. Visualization agreement was 
 - [Spatial ability correlated positively with neuroanatomy performance across pretest and both quizzes in a crossover 3D-module study (Allen et al.)](allen-spatial-ability-correlates-neuroanatomy-performance.md) — related
 - [Interactive 3D stereoscopic video produced higher post-test scores on anatomical relationships and clinical reasoning than 2D video (Bernard et al.)](bernard-3d-stereoscopy-relationships-reasoning.md) — related
 - [Both groups reported difficulty translating their study resource to donor-image-based test questions, but textbook-image students reported this more often](translatability-difficulty-both-groups-textbook-more.md) — related
+- [Postgraduate aesthetic medicine trainees overwhelmingly rate a 3D simulation app as visually similar to 2D models and superior for understanding the 3D structure of facial aging](3d-simulation-app-facial-aging-visualization-perceptions.md) — related
+- [IMR-SS trainees report greater confidence, training satisfaction, and usability than digital-textbook trainees](imr-ss-greater-satisfaction-confidence.md) — related

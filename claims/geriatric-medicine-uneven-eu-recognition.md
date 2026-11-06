@@ -50,3 +50,4 @@ Descriptive policy analysis in the Introduction, supported by Fig. 1 mapping cou
 - [The 2025 ETR streamlines geriatric medicine competencies to five levels, with Level 4 (independence) as the minimum completion standard](five-competency-levels-level4-minimum.md) — related
 - [Geriatric dentistry has been increasingly recognized as a distinct educational domain separate from special care dentistry since the mid-2010s, but curricular implementation remains heterogeneous](geriatric-dentistry-distinct-domain-heterogeneous-implementation.md) — related
 - [Postgraduate geriatric dentistry training availability varies substantially across regions: about 30% of European schools, 6.9% of Latin American schools, and 69% of US dental schools](postgraduate-training-availability-regional-variation.md) — related
+- [There is no unified pathway for training, curricula, and formal assessments across UEMS member countries](no-unified-neonatal-training-pathway-uems.md) — related

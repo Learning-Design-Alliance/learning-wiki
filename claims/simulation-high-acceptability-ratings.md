@@ -50,3 +50,4 @@ Post-simulation Likert-scale (1-5) course evaluation (Table 6) in the same cohor
 - [Students rated the flipped-learning component highest and the GenAI module lower, with GenAI rated stronger for ideation than for time saving or direct output use](genai-rated-for-ideation-not-time-saving.md) — related
 - [After design adjustments, the LAD achieved good–excellent usability (SUS M = 4.13, equal to 78.25%)](thermos-lad-sus-good-excellent-usability.md) — related
 - [Participants rated the BOPPPS-PBL teaching model highly, with a mean teaching-effectiveness score of 56.43 ± 5.17 out of 60](boppps-pbl-high-teaching-effectiveness-ratings.md) — related
+- [Blood flow simulation was the highest-rated simulator component (mean 4.25), and preoperative planning potential was rated 4.20](medusa-blood-flow-simulation-highest-rated.md) — related

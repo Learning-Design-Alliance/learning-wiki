@@ -67,3 +67,4 @@ Checklist finalization after expert review: the overall assessment domain was re
 - [A simulated scenario for pediatric EVD management built with RCDP achieved excellent content validity from seven expert reviewers across two assessment rounds](rcdp-evd-scenario-content-validity.md) — related
 - [In expert validation with 11 experts, most items of a 20-item virtual simulation scenario for teaching Standard Precautions reached content validity indices above 0.80, while four item ratings were 0.73](virtual-simulation-scenario-standard-precautions-cvi-above-080.md) — related
 - [Filmed simulation validation showed briefing actions matched the checklist and the debriefing domain received 100% favorable expert responses](filmed-simulation-validation-briefing-debriefing.md) — related
+- [Debriefing items failed the first validity stage (I-CVI 0.38; p=0.01) and required reformulation](debriefing-items-failed-first-cvi-stage.md) — reports the opposite

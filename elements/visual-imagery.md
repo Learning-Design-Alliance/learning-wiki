@@ -13,7 +13,7 @@ generated:
 # Visual Imagery
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 34 claims (20 for, 10 mixed, 4 against) · 43 studies (22 causal, 15 review, 3 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 43 report an effect size · 30 claims rest on one study
+> **Evidence** · 36 claims (21 for, 10 mixed, 5 against) · 44 studies (23 causal, 15 review, 3 quant-synthesis, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 44 report an effect size · 32 claims rest on one study
 
 ## Description
 Visual imagery is the deliberate formation of mental pictures to represent verbal or abstract content — scenes, spatial layouts, processes, or relationships. As an instructional element, it either prompts learners to generate their own images or supplies carefully chosen visuals that learners connect to the material, engaging both verbal and pictorial processing channels.
@@ -81,6 +81,8 @@ Imagery-based encoding improves recall and comprehension because information sto
 - [Cognitive load did not differ significantly between lecture plus 3D courseware and lecture plus image instruction](../claims/no-cognitive-load-difference-3d-versus-image-instruction.md) [~W]
 - [CL-based instruction with image schemas improves Vietnamese EFL learners' knowledge of ten English prepositions more than traditional instruction](../claims/cl-image-schemas-outperform-traditional-preposition-instruction.md) [+W] — attached 2026-11-03 from Hung et al. (2018), which proposed "3-D image schemas representing trajector-landmark relations for ten English prepositions"; tests this page's relationship.
 - [Students perceived that producing visual material outputs helped them understand and explain abstract anatomical course content](../claims/sglm-perceived-visual-learning.md) [+W]
+- [In a randomized controlled trial, novice surgeons who received a 15-minute guided mental imagery session before VRST scored significantly better on the OSATS subscales Respect for Tissue and Use of the Assistant in a porcine cholecystectomy box-trainer exercise](../claims/mental-imagery-improves-osats-tissue-respect-and-assistant-use.md) [+W] — attached 2026-11-06 from Sparn Moritz B. et al. (2025), which proposed "Structured 15-minute guided PETTLEP mental imagery session on laparoscopic cholecystectomy delivered before VR simulation training"; tests this page's relationship.
+- [Mental imagery before VRST did not significantly improve VR simulator performance, except on one LaparoS task where the MI group completed the Hepatocystic Triangle: Variation IV task significantly faster](../claims/mental-imagery-no-vrst-improvement-except-one-task.md) [-W] — attached 2026-11-06 from Sparn Moritz B. et al. (2025), which proposed "Structured 15-minute guided PETTLEP mental imagery session on laparoscopic cholecystectomy delivered before VR simulation training"; tests this page's relationship.
 
 ## The evidence by question
 

@@ -53,3 +53,4 @@ Reliability analysis of the six blinded evaluators' scores in the randomized cro
 - [Expert graders show high agreement among themselves when scoring a written exam on first degree equations](expert-inter-rater-agreement-high-written-exam.md) — related
 - [TBDM was associated with a higher total drawing score than TMBM, with an adjusted mean difference of 11.96 points](tbdm-higher-total-drawing-score.md) — related
 - [CAR 1.0 achieved good to excellent inter-rater reliability across all five key components (α = 0.836 to 0.973)](car-1-0-cronbach-alpha-reliability.md) — related
+- [Only diagnostic ranking shows excellent inter-rater reliability among the five scoring dimensions for evaluating ChatGPT-4 clinical responses](diagnostic-ranking-only-reliable-scoring-dimension.md) — related

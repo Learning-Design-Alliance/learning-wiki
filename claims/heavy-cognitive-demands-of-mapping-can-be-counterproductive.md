@@ -53,3 +53,4 @@ The article offers this as an author interpretation rather than a tested result:
 - [Learning with multiple representations imposes high demands and often fails to produce expected results because learners do not integrate the representations](multi-representational-learning-integration-failure.md) — related
 - [Counter to hypothesis, learners with low-salience concept maps were more time-efficient than high-salience learners](low-salience-map-higher-learning-efficiency.md) — related
 - [The authors interpret that ceaseless interactive actions caused cognitive overload that disrupted student learning](ceaseless-interactive-actions-cognitive-overload.md) — related
+- [The authors hypothesize that the cognitive load of complex procedures dilutes the additional visual repetitions of Peyton's 4-step approach](cognitive-load-hypothesis-peyton-complex-procedures.md) — related

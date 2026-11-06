@@ -49,3 +49,4 @@ Narrative synthesis of two RCTs (Jackevicius & Chapman 1999; Sarayani 2012). The
 - [Implementation-strategies interventions consistently improved pharmacists' knowledge, skills, or attitudes in chronic disease management across six RCTs](implementation-strategies-improve-pharmacist-cdm-competency.md) — reports the opposite
 - [IVR knowledge benefits appear immediately post-intervention but attenuate at later follow-up](ivr-knowledge-gains-attenuate-at-follow-up.md) — a broader claim this one bears on
 - [Onsite training skill effects are larger at immediate post‐intervention than at follow‐up, while hybrid skill effects do not differ by assessment point](onsite-skill-effects-larger-immediate-post-intervention.md) — related
+- [Knowledge differences between IVR and textbook groups were no longer statistically significant four weeks after the intervention](ivr-knowledge-advantage-not-maintained-at-4-weeks.md) — related

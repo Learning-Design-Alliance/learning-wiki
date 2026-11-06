@@ -49,3 +49,4 @@ Null paired comparison on rotational path length in the teleoperation training s
 - [Teleoperation trainees become more efficient over training, with reduced translational path length and faster trial durations retained at delayed testing](teleoperation-efficiency-improves-over-training.md) — related
 - [In LQG transfer simulations, complexity affects all metrics while scaling-ratio effects appear only in efficiency metrics, with a rotational-path-length Complexity × Ratio interaction](lqg-transfer-complexity-dominates-ratio-efficiency-only.md) — related
 - [Subjective cognitive workload decreases across teleoperation training and lower workload is associated with higher performance](workload-decreases-with-teleoperation-skill.md) — related
+- [Kinematic-based metrics such as reduced path length and lower instrument vibration correlate with higher rubric scores and distinguish experts from novices](kinematic-metrics-correlate-rubric-performance.md) — related

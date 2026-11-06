@@ -49,3 +49,4 @@ Descriptive results of terminatory questionnaire (T2) among 72 students (Table 5
 - [Working with a GPT-4-based virtual patient e-learning tool improved dental students' self-perceived confidence to perform endodontic diagnostics independently](ai-virtual-patient-improved-endodontic-diagnostic-confidence.md) — related
 - [No published investigations specifically address the use of coaching in endodontics, and no recommended models exist](no-published-coaching-research-endodontics.md) — related
 - [Interns highly accepted the formative OSCE, with 97% agreeing it was valuable and 94% agreeing it should continue](osce-high-acceptance-interns-valuable-continue.md) — related
+- [Most ANZMSC participants rated the course materials as valuable for their learning, with 64.3% strongly agreeing and 30.8% agreeing.](anzmsc-course-materials-rated-valuable.md) — related

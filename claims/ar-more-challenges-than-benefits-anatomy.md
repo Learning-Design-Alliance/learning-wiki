@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: williams-a-2026
     resource: "https://doi.org/10.1002/ase.70214"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Educators' short-answer feedback centered challenges on limited hardware and software usability, including fear of dropping the iPad and difficulty achieving stable interactions with models. [→ Williams A 2026](#williams-a-2026)
@@ -66,3 +67,4 @@ Thematic analysis of educators' qualitative feedback identifying cadaveric study
 ## Related Claims
 - [The main disadvantages of AR in physics teaching are software and hardware shortcomings (e.g., camera freeze, visualization delay) and extraneous cognitive load from attending to secondary details](ar-physics-disadvantages-technical-and-extraneous-load.md) — a broader claim this one bears on
 - [Motivation, internet connectivity, and hardware/software problems were widespread challenges in remote STEM courses](widespread-remote-stem-challenges-motivation-connectivity.md) — related
+- [Thematic analysis identified six major themes in student feedback, including specimen experiences, course timing, demonstrator supervision, educational value, cost, and suggestions.](anzmsc-six-thematic-feedback-themes.md) — related

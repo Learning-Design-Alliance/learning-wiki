@@ -69,3 +69,4 @@ Internal consistency was examined using Cronbach's alpha. Values were acceptable
 - [The study's self-developed achievement test was judged reliable with a printed correlation coefficient of 0.69](self-developed-test-reliability-069.md) — related
 - [The CRCDCS demonstrated satisfactory internal consistency (α = 0.876; ω = 0.861) and test–retest reliability (ICC = 0.85, 95% CI: 0.82–0.91).](crcdc-reliability-alpha-omega-icc.md) — related
 - [The DKSCQ-N demonstrates high internal consistency (Cronbach's α = 0.906) and excellent test-retest stability (ICC = 0.829) over two weeks.](dkscqn-reliability-alpha-icc.md) — related
+- [The LISA-AT shows high test-retest reliability (Spearman's rho = 0.87), high internal consistency (Cronbach's alpha = 0.88), and good inter-rater reliability (Cronbach's alpha = 0.82)](lisa-at-reliability-evidence.md) — related

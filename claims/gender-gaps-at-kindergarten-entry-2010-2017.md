@@ -64,3 +64,4 @@ Gender gap models estimated within each year and subject on the weighted MAP Gro
 - [Achievement differences favor females over males under both teaching conditions, with a small effect](tps-gender-difference-favor-females.md) — a narrower finding that bears on this claim
 - [Self-affirmation eliminated the female reading advantage over boys observed in the comparison group](self-affirmation-erased-female-reading-advantage.md) — related
 - [Gender and expertise domain are the most robust grade predictors; females outperform males in 9 of 13 subjects with negligible effects](gender-and-expertise-robust-grade-predictors.md) — related
+- [Female students outperformed male students in reading and writing in both grades 3 and 6, while math achievement was similar](female-students-outperformed-males-reading-writing.md) — related

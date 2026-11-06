@@ -58,3 +58,4 @@ Systematic review of educational interventions in thyroid surgery (2011–2025),
 - [Simulation-based training significantly improves technical performance and accelerates skill acquisition in robotic surgery](simulation-training-improves-technical-performance.md) — related
 - [Repeated VR exposure shortens time to correct working diagnosis and time to first IM epinephrine administration in the assessment scenario](repeated-vr-exposure-faster-diagnosis-and-epinephrine.md) — a narrower finding that bears on this claim
 - [Immersive VR training yields higher overall OSATS scores than textbook-and-video training in thyroidectomy steps, driven by knowledge of instruments and flow of operation](ivr-training-higher-osats-thyroidectomy.md) — possibly the same claim (merge candidate)
+- [IMR-SS shows no advantage over a digital textbook for theoretical knowledge of pedicle screw placement](imr-ss-no-theoretical-knowledge-advantage.md) — related

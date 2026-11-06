@@ -68,3 +68,4 @@ The review's summary of session format; separately it reports debriefing describ
 - [Most ISBTT studies report improvement in collaborative behaviors immediately after training, but longer-term and clinical-setting outcomes are rarely measured](isbtt-behavior-improvements-mostly-immediate.md) — related
 - Only a small minority of ISBTT studies used the IPEC competencies to design programs or assess participants — related
 - [Most published ISBTT programs are grounded in crisis resource management and related frameworks rather than interprofessional education frameworks](isbtt-programs-grounded-in-crm-not-ipe.md) — related
+- [Introducing clearer communication routines, including regular team briefings and increased nurse involvement in meetings, addressed communication gaps between professional groups](communication-routines-team-briefings-improve-coordination.md) — related

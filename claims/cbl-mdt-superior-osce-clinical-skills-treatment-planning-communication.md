@@ -64,3 +64,4 @@ OSCE with five blinded stations, three independent assessors per student, in the
 - [VR-trained students outperformed control students in all three assessed competency modules in both assessment modes](vr-cataract-three-module-subscore-advantage.md) — related
 - [OBE-PBL teaching improves total practical assessment scores, with no difference at the neurological examination station](obe-pbl-practical-assessment-station-pattern.md) — related
 - [A five-week simulation-based clinical readiness module was associated with statistically significant pre-to-post OSCE improvements in five pediatric dentistry outcomes (Medical History Taking, Child–Parent Communication, Team Dynamics, Fissure Sealant Application, Fluoride Application)](readiness-module-osce-gains-five-outcomes.md) — related
+- [Paired t-tests showed statistically significant differences in overall assessment scores between the two teaching methods](pbl-sth-paired-ttest-assessment-outcomes.md) — related

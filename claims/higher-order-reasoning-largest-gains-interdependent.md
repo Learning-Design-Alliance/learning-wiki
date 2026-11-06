@@ -66,3 +66,4 @@ Secondary hierarchical regression on the same cohort's reasoning data. The artic
 ## Related Claims
 - [After 12 months of AI-enhanced platform training, obstetrics and gynecology residents improved significantly across all four competency dimensions, with the largest gains in clinical reasoning and clinical skills](ai-progressive-training-four-dimension-competency-gains.md) — a broader claim this one bears on
 - [Largest professional development gains occur in practical application (+27%) and critical evaluation (+26%), with ethical awareness showing the smallest gain (+18%)](pd-gains-largest-application-evaluation-smallest-ethics.md) — related
+- [Continuous assessment scores improved significantly but with the smallest effect size among the three assessment components](sbl-improves-continuous-assessment-scores-pediatrics.md) — related

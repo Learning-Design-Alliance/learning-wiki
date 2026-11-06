@@ -52,3 +52,4 @@ Quasi-experimental single-group pre-test–post-test study of 45 medical student
 - [Total self-reported ICCAS scores rose significantly from pre-test to post-test after the simulation intervention in one uncontrolled pre-post study](sbl-total-iccas-significant-increase.md) — related
 - [Correct identification of practice owners as responsible for paying for reasonable accommodations more than doubled after the clerkship](accommodation-payer-knowledge-doubled.md) — related
 - [A non-study-related internal medicine assessment showed no between-group differences, arguing against a Hawthorne effect explanation](internal-medicine-control-hawthorne-effect.md) — related
+- [Medical students in an e-learning-based flipped classroom plus simulation training score significantly higher on a six-station emergency OSCE total score than students in classic classroom teaching with identical simulation training](flipped-classroom-higher-emergency-osce-total-score.md) — related

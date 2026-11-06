@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 153 claims (121 show a difference, 21 mixed, 11 no difference) · 130 studies (49 causal, 26 review, 21 qualitative, 11 quant-synthesis, 9 associational, 8 design, 6 theoretical), `q1`–`q3` · 11 of 130 report an effect size · 153 claims rest on one study
+> **Evidence** · 155 claims (123 show a difference, 21 mixed, 11 no difference) · 132 studies (50 causal, 26 review, 21 qualitative, 11 quant-synthesis, 9 associational, 9 design, 6 theoretical), `q1`–`q3` · 11 of 132 report an effect size · 155 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -195,6 +195,8 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Technology-enhanced simulation improves knowledge, procedural skills, teamwork behaviors, and transfer to practice](../claims/simulation-improves-knowledge-skills-teamwork-transfer.md) [+W] — measured as an outcome of the instruction studied
 - [Male nursing students reported simulation improved their communication and teamwork in neonatal emergencies](../claims/simulation-improved-communication-teamwork-male-students.md) [+M] — measured as an outcome of the instruction studied
 - [Teamwork is valued as essential in simulated basic-care scenarios, but students experienced coordination and role-definition difficulties, especially at the start](../claims/teamwork-valued-but-coordination-difficulties.md) [~M] — measured as an outcome of the instruction studied
+- [Animal-based surgical sessions appeared to foster non-technical skills (communication, role clarity, decision-making under pressure), but the study included no direct measurement of teamwork outcomes](../claims/animal-sessions-non-technical-skills-unmeasured.md) [+W] — measured as an outcome of the instruction studied
+- [Peer engagement and collaboration were near-universal in PBL-STH sessions, versus 35% active contributors in traditional sessions](../claims/pbl-sth-peer-engagement-collaboration.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

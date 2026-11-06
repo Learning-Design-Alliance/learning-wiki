@@ -52,3 +52,4 @@ Self-evaluation questionnaire (0–10 Likert) in the same cohort. PBL interns re
 - [In an RCT, pharmacy students taught with PBL rated their own problem-solving and self-directed learning significantly higher on a questionnaire than LBL students did](pbl-rct-higher-problem-solving-self-directed-learning.md) — related
 - [PBL-CBL outperforms LBL on subjective comprehensive competencies including self-learning, interest, efficiency, clinical thinking, teamwork, and communication](pbl-cbl-subjective-competencies-orthopedics.md) — related
 - [PA-PBL and control students reported comparable course satisfaction and self-evaluated competencies](pa-pbl-control-comparable-subjective-evaluations.md) — reports the opposite
+- [AI-supported PBL produced significantly greater gains in AI self-efficacy than traditional PBL, with a very large between-group effect (Cohen's d = 1.78)](ai-pbl-greater-ai-self-efficacy-gains.md) — related

@@ -67,3 +67,4 @@ Three trained content specialists scored anonymized physics exam questions from 
 - [Faculty calibration with instructional rubrics yields high inter-rater reliability, rising after repeated calibration](faculty-calibration-icc-rises-with-repeated-calibration.md) — related
 - [Rubrics enhance grading consistency and inter-rater reliability in dental education assessment](rubrics-enhance-grading-consistency-dental-education.md) — related
 - [All five LLMs answered every MCQ and showed high short-term test–retest agreement (AC1 0.79–1.00), indicating reproducible performance without selective abstention](llms-answered-every-mcq-high-test-retest-agreement.md) — related
+- [Interobserver agreement on ASSET ratings was low for exact scores (37%, kappa 0.13) but 79% within one point](cl-asset-interobserver-agreement-low.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-06
 sources:
   - id: robinson-sja-2024
     resource: "https://doi.org/10.9745/GHSP-D-24-00187"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Trainee ophthalmologists receiving simulation plus standard training had significantly lower posterior capsule rupture rates (7.8% vs. 26.6%, P<.001). [→ Robinson SJA 2024](#robinson-sja-2024)
@@ -70,3 +71,4 @@ Same review-narrated trial: competency scores significantly higher at 3 and 12 m
 - [Supervised surgery studies on actual patients were all observational, reported high surgical volumes, and showed higher complication rates than VRS studies](supervised-surgery-studies-observational-high-complications.md) — related
 - [Only one study linked physicians' prior training site to later patient outcomes, ranking programs by graduates' complication rates](single-study-training-background-patient-outcomes.md) — related
 - [The authors report that VR surgical training may improve operator performance and reduce surgical complication rates relative to animal and cadaver model outcomes, while impact on clinical competency remains controversial](vr-training-performance-and-controversy.md) — related
+- [The article reports that microsurgical wet laboratories have been shown to improve surgical competency and reduce the rate of post-course posterior capsular rupture.](wet-labs-improve-competency-reduce-pcr.md) — related

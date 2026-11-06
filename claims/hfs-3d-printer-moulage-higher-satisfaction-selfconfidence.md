@@ -71,3 +71,5 @@ Mann–Whitney U comparison on the Self-Confidence in Learning subscale (Cronbac
 - [High-fidelity simulation yields higher stoma care skill scores than low-fidelity static models](hfs-3d-printer-moulage-higher-stoma-skills.md) — related
 - [Simulation alone significantly improves satisfaction and self-confidence within both groups regardless of feedback condition](simulation-alone-improves-satisfaction-both-groups.md) — related
 - [HFS participants reported higher overall satisfaction, tutor guidance, and authenticity than VR participants, though both groups were highly satisfied](hfs-higher-satisfaction-authenticity.md) — related
+- [Both instructional methods yield high descriptive satisfaction and self-confidence scores](both-methods-high-satisfaction-confidence-descriptive.md) — reports the opposite
+- [Control group reports higher satisfaction with current learning than the 3D game-simulation group (p = 0.047, r = 0.23)](traditional-methods-higher-satisfaction-current-learning.md) — reports the opposite

@@ -74,3 +74,4 @@ Subgroup analysis by LLM type across the 36 included studies (GPT-4 n=30, GPT-3.
 - [Five LLMs outperformed enrolled medical students on department-set Spanish final MCQ exams with negative marking across four clinical courses](llms-outperform-students-spanish-mcq-finals-negative-marking.md) — related
 - [Current LLMs answer USMLE-style anatomy MCQs with an average accuracy of 76.8%, far above GPT-3.5's 44.4% a year earlier and above random guessing](current-llms-anatomy-mcq-76-8-percent-accuracy.md) — a narrower finding that bears on this claim
 - [GPT-4o showed the highest accuracy (92.9%) on anatomy MCQs, followed by Claude, Copilot, and Gemini](gpt-4o-highest-anatomy-mcq-accuracy.md) — related
+- [Claude outperformed ChatGPT-4 and Gemini in accuracy on Polish/English medical-dental exam questions in both prompt languages](claude-highest-accuracy-ldek-exam-questions.md) — related

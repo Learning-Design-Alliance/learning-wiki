@@ -55,6 +55,7 @@ The authors recommend four implementation strategies for educators adopting BOPP
 - [Implement CBL with institutional faculty support, clinician facilitators, authentic multimodal cases, preparation incentives and a safe group environment while avoiding behaviour-only assessment](cbl-implementation-strategy-realist-review.md)
 - [Implement faculty development programs, systematic curriculum integration, and student orientation to maximize case-based learning benefits](cbl-structured-implementation-strategy.md)
 - [Scale CBL-FC to larger classes using online pre-class materials, teaching-assistant facilitation, and cross-department faculty collaboration](cbl-fc-scaling-strategy-tas-online-preclass.md)
+- [Incorporate the BOPPPS-CBL method into clinical clerkships with faculty training to ensure effective execution](adopt-boppps-cbl-clerkship-faculty-training.md)
 
 ## Examples
 -

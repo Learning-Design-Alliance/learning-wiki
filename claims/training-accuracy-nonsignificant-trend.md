@@ -50,3 +50,4 @@ Wilcoxon signed-rank pre-post comparison of 28 students' diagnostic accuracy. Th
 - [Virtual standardized patient training improved alcohol screening and brief intervention skills and diagnostic accuracy for depression and PTSD in two RCTs, while a suicide risk assessment RCT found no significant effect](vsp-training-skills-rct-mixed-results.md) — related
 - [Longer exposure to an SPT target showed a non-significant trend toward greater accuracy](target-exposure-duration-accuracy-trend.md) — related
 - [Chronic subdural evacuation confidence showed only a non-significant trend after the workshop, and suboccipital craniectomy and subdural drain implantation showed borderline results](neurosave-non-significant-steps.md) — related
+- [Specialists do not significantly outperform students in ChatGPT-4 diagnostic ranking](specialists-not-significantly-better-than-students.md) — related

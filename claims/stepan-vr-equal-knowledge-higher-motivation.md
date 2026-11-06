@@ -67,3 +67,4 @@ Randomised controlled study with 66 medical students (33 per group) comparing a 
 - [No significant difference in baseline pre-studying test scores between the 3D Model Group and the Textbook Image Group](no-baseline-score-difference-3d-vs-textbook-groups.md) — related
 - [Students engage more and retain greater knowledge through active participation than lecture-based teaching, per trials the article cites](active-participation-beats-didactic-bedside.md) — related
 - [Review by Kyaw et al. found VR improved post-intervention knowledge and skill outcomes among health professionals compared to traditional or other digital education](vr-improves-post-intervention-knowledge-skill-health-professionals.md) — reports the opposite
+- [IVR students rated the method as more useful for learning neuroanatomy than control students rated their textbooks](ivr-rated-more-useful-for-learning.md) — related

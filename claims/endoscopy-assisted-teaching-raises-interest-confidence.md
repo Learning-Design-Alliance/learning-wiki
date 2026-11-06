@@ -51,3 +51,4 @@ Anonymous 17-item post-class questionnaire with 13 five-point Likert items; the 
 - [The periodontal endoscopy-assisted in-person group outperformed the other two groups on operative skill assessment, driven by calculus removal](pe-inperson-higher-skill-calculus-removal.md) — related
 - [Online delivery of the theoretical lecture and demonstration combined with in-person hands-on practice yielded skill outcomes comparable to fully in-person teaching on four of five criteria](blended-online-lecture-comparable-skill-outcomes.md) — related
 - [All three instructional groups showed significant pre- to post-class quiz improvements with no statistically significant between-group difference in knowledge gains](equal-quiz-gains-across-srp-teaching-groups.md) — related
+- [The Combined Group reported significantly higher overall course satisfaction than the FCM-only and traditional groups](combined-fcm-mfcs-higher-satisfaction.md) — related

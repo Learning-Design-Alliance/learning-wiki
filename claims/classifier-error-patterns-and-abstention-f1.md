@@ -70,3 +70,4 @@ Per-topic performance analysis on the 70-question gold set: the abstention class
 - [Classifiers systematically confuse adjacent engagement levels: social with active, constructive with interactive, and interactive with active](adjacent-engagement-level-misclassification-patterns.md) — related
 - [Student teachers generated 2,181 Cipherbot conversations, dominated by topic inquiries targeting deepening understanding and clarifications](cipherbot-conversation-analytics-2181.md) — related
 - [A Simulated Student architecture detects and avoids three situations that decrease the benefits of learning in collaboration](simulated-student-detects-negative-collaboration-situations.md) — related
+- [Residents' stated primary training goals clustered around graduation and standard training keywords](residency-goal-keyword-clustering-graduation.md) — related

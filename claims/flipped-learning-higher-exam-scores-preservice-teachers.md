@@ -75,3 +75,4 @@ Same quasi-experiment: the overall final grade comparison was not significant (t
 - [Active learning instruction produced significantly higher overall final exam scores than traditional lecture instruction in a preparatory-year writing and research course](active-learning-higher-final-exam-scores-writing-research.md) — related
 - [Peer instruction produced significantly higher post-test conceptual comprehension scores than traditional lecture in a pre-service teacher methodology course](peer-instruction-higher-posttest-conceptual-comprehension.md) — related
 - [No significant difference between groups on final reading comprehension test](sct-tblt-final-test-no-difference.md) — related
+- [Flipped and face-to-face classrooms produce no significant difference in overall orthodontic wire-bending scores](flipped-vs-face-to-face-no-score-difference-wirebending.md) — reports the opposite

@@ -49,3 +49,4 @@ Survey and qualitative user-experience data from the pilot. The article reports 
 - [NASA-TLX mental demand was the highest workload subscale, rising from a median of 37.50 in round 1 to 60.00 in round 2](nasa-tlx-mental-demand-highest.md) — related
 - [Smartphone-based reflection app lowered practical barriers to structural reflection and decreased the mental burden of self-regulated learning for nursing students on clinical placement](reflection-app-lowers-barriers-structural-reflection-nursing-placement.md) — related
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
+- [The intern role is demanding and varied, with long hours and high workload causing some interns to become overwhelmed](intern-role-demanding-overwhelm-wellbeing.md) — related

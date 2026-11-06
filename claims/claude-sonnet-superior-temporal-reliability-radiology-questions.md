@@ -52,3 +52,4 @@ Temporal reliability analysis in which the full 100-question set was resubmitted
 - [LLM accuracy on multilingual medical multiple-choice questions varies substantially by model, with Claude-Sonnet-3.7 highest (87%) and open models lowest (64%-73%)](llm-accuracy-varies-by-model-medical-mcq.md) — related
 - [All four LLMs show higher accuracy on general than clinical questions, significant only for Grok-4](general-vs-clinical-accuracy-gap.md) — related
 - [ChatGPT-4, Grok XI and Gemini showed strong test-retest consistency (kappa 0.869–0.916), whereas Qwen 2.5 (0.650) and DeepSeek-V3 (0.735) fluctuated more between sessions](llm-test-retest-consistency-dental-mcqs.md) — related
+- [Chatbot answers showed only moderate cross-language agreement and imperfect consistency across repeated measurements](chatbot-response-consistency-varies-by-language-and-measurement.md) — related

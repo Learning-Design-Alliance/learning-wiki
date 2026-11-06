@@ -13,7 +13,7 @@ generated:
 # Digital Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 76 claims (41 for, 29 mixed, 6 against) · 61 studies (27 causal, 9 review, 7 quant-synthesis, 6 associational, 5 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 7 of 61 report an effect size · 75 claims rest on one study
+> **Evidence** · 77 claims (42 for, 29 mixed, 6 against) · 62 studies (28 causal, 9 review, 7 quant-synthesis, 6 associational, 5 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 7 of 62 report an effect size · 76 claims rest on one study
 
 ## Description
 Digital learning is the element in which instruction, resources, or interaction are mediated through digital tools, platforms, or networks. It is useful when learners need flexible access, interactive media, or non-linear exploration.
@@ -112,6 +112,7 @@ Digital learning is the element in which instruction, resources, or interaction 
 - [Lay health care workers report high engagement with and satisfaction toward blended digital training in low-resource settings](../claims/digital-training-high-engagement-satisfaction.md) [+W] — attached 2026-11-04 from Tembo Tapiwa A et al. (2026), which proposed "Tingathe tablet-guided blended digital training package for HIV index case testing".
 - [An 8-hour online educational program significantly improved emergency nurses' knowledge, skills, and personal preparedness, though scores remained moderate](../claims/online-program-improved-knowledge-skills-preparedness.md) [+W]
 - [ICM students became more open to innovative and digital teaching methods and valued combining digital and face-to-face teaching](../claims/icm-openness-digital-teaching-methods.md) [+W]
+- [Medical students in an e-learning-based flipped classroom plus simulation training score significantly higher on a six-station emergency OSCE total score than students in classic classroom teaching with identical simulation training](../claims/flipped-classroom-higher-emergency-osce-total-score.md) [+W] — attached 2026-11-06 from Ruesseler M. et al. (2025), which proposed "Interactive e-learning modules with videos, quizzes, and case-based exercises on the Lernbar platform".
 
 ## Related Elements
 

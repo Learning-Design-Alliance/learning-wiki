@@ -75,3 +75,4 @@ Single-centre RCT randomizing 16 general surgery trainees and residents to conve
 - [Novice trainees completing a structured VR simulation curriculum achieved significantly higher total GOALS scores than controls in a porcine cholecystectomy post-test](structured-vrst-curriculum-higher-goals-total.md) — related
 - [Subjective performance ratings (NRS) were significantly higher after structured VRST than after deliberate practice](structured-vrst-higher-nrs-ratings.md) — related
 - [Simulation-based rapid-cycle deliberate practice curriculum improved GRS-rated awake fiberoptic intubation performance at three months](rcdp-simulation-improves-afio-grs.md) — a narrower finding that bears on this claim
+- [IMR-SS trainees made significantly fewer procedural errors than digital-textbook trainees; safety breaches were fewer but not significantly so](imr-ss-fewer-errors-assessment.md) — related

@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/student-suggestions-simulation-resources-and-lab-time.md
+---
+
+# Revision history: [claims/student-suggestions-simulation-resources-and-lab-time](../claims/student-suggestions-simulation-resources-and-lab-time.md)
+
+### 2026-11-06 · ingest · process:wiki-ingest
+Ingested from pmc-12482378 (Exploring male nursing students' experiences and perspectives in a maternal-newborn clinical course using high-fidelity simulation: a qualitative study.) via eval_harness.py + ingest_extractions.py

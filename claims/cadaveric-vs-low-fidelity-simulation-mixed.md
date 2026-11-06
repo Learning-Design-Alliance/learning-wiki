@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: mixed
 newest_evidence: 2019
+source_checked: 2026-11-06
 sources:
   - id: james-2019
     resource: "https://doi.org/10.1002/bjs.11325"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q3`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Of four RCTs comparing cadaveric with low-fidelity simulation, two showed cadaveric superiority, one showed equivalence with bench-model training, and one showed cadaveric training was inferior to the bench-model alternative. [→ James 2019](#james-2019)
@@ -49,4 +50,5 @@ Review synthesis of four RCTs comparing cadaveric with low-fidelity simulation. 
 - [Training on a simple low-fidelity 'choose-the-hole' bench model transferred to real clinical fibreoptic intubation performance in an RCT](choose-the-hole-bench-model-predictive-validity-rct.md) — related
 - [Validation quality does not consistently correlate with simulator fidelity, and high-fidelity VR simulators' superiority over simpler models for fibreoptic intubation has not been demonstrated](simulator-fidelity-does-not-track-validation-quality.md) — related
 - [Cadaveric specimens are rated the most beneficial PTED simulation modality and low-fidelity bench-top models the least](cadaveric-specimens-preferred-pted-simulation-modality.md) — related
+- [Evidence on surgical console simulators for skill development is mixed, with some studies showing no benefit or inferior performance versus dry lab or cadaveric training](simulator-training-effectiveness-mixed-evidence.md) — possibly the same claim (merge candidate)
 

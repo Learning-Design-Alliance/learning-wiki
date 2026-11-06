@@ -131,3 +131,4 @@ Correlational evidence cited in the overview (Simpkins and Davis-Kean 2005; Upde
 - [Student characteristics such as race and gender identity were not strong predictors of resource-use profile membership; only two pairwise comparisons were significant.](few-demographic-predictors-resource-profiles.md) — related
 - [Cooperative program enrollment and specific professional interest remain significant independent predictors of academic motivation in multiple linear regression](mlr-cooperative-interest-predict-sdi.md) — related
 - [The addiction–performance association held only among women and students without their own income in stratified analysis](addiction-performance-association-significant-only-women-no-income.md) — related
+- [Only course repetition, among demographic variables, is significantly associated with lower ATSHWS scores](course-repetition-lower-atshws-scores.md) — related

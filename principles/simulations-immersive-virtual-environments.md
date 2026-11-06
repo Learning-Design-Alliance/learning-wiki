@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 426 claims (246 for, 155 mixed, 25 against) · 264 studies (98 causal, 77 review, 39 quant-synthesis, 21 design, 20 qualitative, 8 theoretical, 1 associational), `q1`–`q4` · 54 of 264 report an effect size · 421 claims rest on one study
+> **Evidence** · 431 claims (251 for, 155 mixed, 25 against) · 267 studies (101 causal, 77 review, 39 quant-synthesis, 21 design, 20 qualitative, 8 theoretical, 1 associational), `q1`–`q4` · 55 of 267 report an effect size · 426 claims rest on one study
 
 ## Conditional relationship
 
@@ -424,6 +424,11 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Medical students using a virtual simulation experiment system achieved higher operational skill scores than students taught by traditional laboratory methods](../claims/vse-higher-operational-skill-scores.md) [+W] — attached 2026-11-06 from Li Kaiyue et al. (2025), which proposed "Design virtual simulation systems for motivation and usability, not just content fidelity"; tests this page's relationship.
 - [VSE students reported higher experimental interest, confidence, and willingness to participate than traditionally taught students](../claims/vse-higher-motivation-engagement.md) [+W] — attached 2026-11-06 from Li Kaiyue et al. (2025), which proposed "Design virtual simulation systems for motivation and usability, not just content fidelity".
 - [Navigational and interactional challenges in VR, such as unintended teleportation and difficulty triggering the capillary refill animation, broke fidelity and shifted attention away from learning objectives](../claims/vr-fidelity-breakers-shift-attention.md) [+W] — attached 2026-11-06 from Loeb Daniel et al. (2025), which proposed "Align simulation modality with learning objectives: use VR for clinical assessment and cognitive objectives, and complementary modalities for hands-on skill development".
+- [IMR-SS trainees show significantly smaller transverse screw placement angles in the unassisted assessment session](../claims/imr-ss-smaller-transverse-angle-assessment.md) [+W] — attached 2026-11-06 from Qian He et al. (2025), which proposed "Pair immersive virtual guidance with authentic tactile practice on physical phantoms to preserve haptic fidelity in surgical simulation training"; tests this page's relationship.
+- [IMR-SS trainees made significantly fewer procedural errors than digital-textbook trainees; safety breaches were fewer but not significantly so](../claims/imr-ss-fewer-errors-assessment.md) [+W] — attached 2026-11-06 from Qian He et al. (2025), which proposed "Pair immersive virtual guidance with authentic tactile practice on physical phantoms to preserve haptic fidelity in surgical simulation training"; tests this page's relationship.
+- [The simulation group's post-test tooth preparation performance significantly exceeds the conventional group's post-test performance](../claims/simulation-posttest-outperforms-conventional-posttest.md) [+W] — attached 2026-11-06 from Kızılırmak Burcu et al. (2025), which proposed "Integrate VR-based haptic simulation into preclinical dental curricula alongside conventional phantom training"; tests this page's relationship.
+- [Simulation training produces a large pre-to-post gain in tooth preparation scores, larger than the conventional group's gain](../claims/simulation-prepost-gain-large.md) [+W] — attached 2026-11-06 from Kızılırmak Burcu et al. (2025), which proposed "Integrate VR-based haptic simulation into preclinical dental curricula alongside conventional phantom training"; tests this page's relationship.
+- [Medical students improved shoulder anatomy test scores after simulator tasks, with question-level improvement on the 3D-printed simulator only](../claims/cl-anatomy-test-gains-simulator-tasks.md) [+W] — attached 2026-11-06 from Massey Patrick A. et al. (2025), which proposed "Use low-cost 3D-printed anatomic simulators to remove financial barriers to arthroscopic simulation training"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

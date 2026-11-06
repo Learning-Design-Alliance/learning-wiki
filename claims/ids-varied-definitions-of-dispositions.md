@@ -56,3 +56,4 @@ Interview findings (RQ1 definition category): participants defined dispositions 
 - [Dispositions such as positivity, lifelong learning orientation, and persistence are reported as essential for ID/ET practice](dispositions-essential-for-id-et-practice.md) — related
 - [Blended learning remains ambiguously defined after more than two decades of use](blended-learning-term-ambiguity.md) — related
 - Learning-community research suffers from unclear and inconsistent definitions of community — related
+- [Assessment, evaluation, and research are distinct activities that leadership programs should not conflate](assessment-evaluation-research-distinction.md) — related

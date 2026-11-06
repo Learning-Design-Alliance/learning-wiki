@@ -48,3 +48,4 @@ Independent t-tests on post-training scores in the RCT. Table 3 prints Cohen's d
 - [Rubric-based assessment yields significantly higher total crown preparation scores than conventional evaluation in preclinical dental training](rubric-assessment-higher-crown-preparation-total-scores.md) — a broader claim this one bears on
 - [Both groups improved from baseline, with substantially greater gains in the rubric group](rubric-group-greater-pre-post-gains-crown-preparation.md) — possibly the same claim (merge candidate)
 - [Simulation with patient-specific 3D-printed teeth improved crown preparation quality versus traditional patient care](3d-printed-teeth-simulation-crown-preparation.md) — related
+- [Digital feedback improves accuracy across multiple tooth preparation dimensions, particularly taper angle and finish line standardization](digital-feedback-multi-dimension-accuracy-taper-finish-line.md) — a broader claim this one bears on

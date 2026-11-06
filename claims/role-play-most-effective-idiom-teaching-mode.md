@@ -65,3 +65,4 @@ Post-hoc Tukey comparisons found the Sentence-use Group mean (M = 11.46, SD = 3.
 
 ## Related Claims
 - [Mode of teaching idioms has a statistically significant effect on EFL learners’ idiomatic competence](teaching-mode-significant-effect-idiomatic-competence.md) — a broader claim this one bears on
+- [Post hoc pairwise comparisons show role-playing outperformed both group discussion and traditional teaching, and group discussion outperformed traditional teaching on post-intervention self-efficacy](posthoc-role-playing-outperforms-discussion-and-lecture.md) — related

@@ -65,3 +65,4 @@ Descriptive post-intervention analysis within the experimental group (n = 102) o
 - [Students rated the application positively on a semantic differential scale, but finding time to use it and doing exercises were scored easy with a bias toward hard](semantic-differential-attitudes-english-app.md) — related
 - [Learners reported high acceptability of MAPLE-CR, with questionnaire means of 4.19-4.62 on positively worded items but salient cognitive-load concerns](maple-cr-high-acceptability-cognitive-load.md) — related
 - [Learners rate the AI-Mentor cognitive core highly on technology acceptance](ai-mentor-high-tam-acceptance.md) — related
+- [Gamification-group students reported positive technology acceptance, with Perceived Usefulness, Concentration, and Attitude towards Using the highest-rated TAM domains](tam-acceptance-perceived-usefulness-highest.md) — a narrower finding that bears on this claim

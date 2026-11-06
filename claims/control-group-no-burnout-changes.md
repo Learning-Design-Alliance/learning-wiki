@@ -49,3 +49,4 @@ Paired t-tests in the control group (n = 107) receiving traditional classroom in
 - [Adaptive ER strategies are negatively associated with overall student burnout, but not significantly with any single dimension](adaptive-er-negative-overall-burnout.md) — related
 - [SBLE significantly reduces cynicism among nursing students](sble-reduces-cynicism-nursing-students.md) — related
 - [SBLE significantly reduces emotional exhaustion among nursing students compared with traditional instruction](sble-reduces-emotional-exhaustion-nursing-students.md) — related
+- [ER-VIPE with co-debriefing significantly lowered burnout relative to computer-based SIMBIE without debriefing, while the VR-based ER-VIPE arm showed no significant burnout differences](ervipe-burnout-reduction-versus-control.md) — related

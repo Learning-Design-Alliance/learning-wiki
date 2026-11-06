@@ -70,3 +70,4 @@ Same post-course survey: the groups did not differ on "satisfaction with the ins
 - [Several individual clinical-reasoning questionnaire items showed no significant difference between the DwGJ and control groups](dwgj-reasoning-item-level-null-differences.md) — related
 - [Residents trained with DwGJ-integrated CBL scored higher on the post-course theoretical examination than residents receiving conventional CBL](dwgj-cbl-higher-theoretical-exam-scores.md) — related
 - [Students taught with the 5E+AI model reported significantly higher learning interest, self-perceived communication competence, and course satisfaction](5e-ai-model-improved-self-report-questionnaire-dimensions.md) — related
+- [Productive failure plus debriefing training raises satisfaction with teaching level, method, and effect, but not teaching attitude](productive-failure-debriefing-teaching-satisfaction.md) — possibly the same claim (merge candidate)

@@ -56,3 +56,5 @@ Meta-analytic synthesis within the umbrella review (Section 3.3.2), citing de Gr
 - [Meta-analyses of physical activity effects on youth cognition and academic performance show small effect sizes (0.1–0.3) with substantial heterogeneity](pa-metaanalyses-small-effects-high-heterogeneity.md) — a broader claim this one bears on
 - [Acute exercise produces an overall small positive effect on cognition, with executive functions benefiting most and effects lasting up to two hours post-exercise](acute-exercise-small-positive-executive-cognition-effect.md) — related
 - [Reported benefits of physical activity programs on executive functions depend on program duration and the executive domain analyzed](pa-program-duration-dependent-ef-benefits.md) — related
+- [Physical activity directly and positively predicts adolescents' academic achievement (β = 0.241, 68.86% of total effect)](pa-direct-positive-predicts-aa-chinese-adolescents.md) — related
+- [Physical activity, self-concept, physical-mental health, and academic achievement are all significantly positively intercorrelated (N = 458)](pa-sc-pmh-aa-positive-correlations.md) — related

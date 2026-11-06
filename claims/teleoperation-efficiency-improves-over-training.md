@@ -69,3 +69,4 @@ Paired comparison on trial duration in the same teleoperation training study, sh
 - [Rotational path length does not reliably decrease over teleoperation training, suggesting continued exploration of joint-level strategies](rotational-path-length-no-training-reduction.md) — related
 - [Task errors (drops, collisions, collision duration) decrease significantly over teleoperation training and are retained](teleoperation-error-metrics-decrease-over-training.md) — related
 - [Subjective cognitive workload decreases across teleoperation training and lower workload is associated with higher performance](workload-decreases-with-teleoperation-skill.md) — related
+- [Kinematic-based metrics such as reduced path length and lower instrument vibration correlate with higher rubric scores and distinguish experts from novices](kinematic-metrics-correlate-rubric-performance.md) — related

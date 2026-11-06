@@ -48,3 +48,5 @@ Within-group comparison of pre-RLO and post-RLO self-ratings on a 1-10 ordinal s
 - [A minority of students stated they needed lecturer support alongside the RLOs](minority-students-needed-lecturer-support-alongside-rlos.md) — related
 - [There were no significant differences in understanding ratings between MPH and PGD student groups](no-group-difference-meta-analysis-understanding-ratings.md) — related
 - [Most students rated RLO media components such as animations as helping them understand concepts including Forest plots](rlo-animations-helped-most-students-understand-concepts.md) — related
+- [RLO completion rates were low for most RLOs, ranging from 5.6% to 85%, but exceeded 70% for curriculum-integrated RLOs](rlo-completion-rates-low-except-curriculum-integrated.md) — related
+- [RLO use significantly improved knowledge scores for 21 RLOs and confidence scores for 17 RLOs (P < .05)](rlos-improve-knowledge-confidence.md) — related

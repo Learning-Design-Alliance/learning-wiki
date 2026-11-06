@@ -68,3 +68,5 @@ Secondary finding in the same model: "a main effect of gender", partial η2 = 0.
 - [The association between later chronotype and lower math grades is strongest in the morning timing, indicating a synchrony effect that partially counteracts the chronotype effect](synchrony-effect-math-slopes.md) — related
 - [Academic performance in adolescents is significantly affected by the interaction of school timing, age and school subject, with better performance in later timings as students age](school-timing-age-subject-interaction-grades.md) — related
 - [First-year grades predict grade retention: 1-point-lower math or language grades are associated with higher odds of repeating a year](grades-predict-grade-retention.md) — related
+- [Evening chronotype residents were more likely to achieve higher standardized training grades, with morning types less likely](evening-chronotype-higher-residency-grades.md) — reports the opposite
+- [In the higher-performing group, 44.1% were evening-type versus 1.9% in the lower-performing group](evening-type-distribution-high-versus-low-performers.md) — related

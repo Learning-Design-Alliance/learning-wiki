@@ -47,7 +47,8 @@ The article recommends that practitioners use early LASSI data to inform "target
 - [Attitude, Motivation, and Test Strategies subscales did not predict academic outcomes in this sample](../claims/attitude-motivation-test-strategies-no-prediction.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Coach prioritisation, time management and self-care explicitly through workshops and mentorship programmes](coach-prioritisation-time-management-workshops-mentorship.md)
 
 ## Examples
 -

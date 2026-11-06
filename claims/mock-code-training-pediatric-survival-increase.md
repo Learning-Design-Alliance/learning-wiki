@@ -47,3 +47,4 @@ Longitudinal cohort study over four years in pediatric resuscitation (228 partic
 ## Related Claims
 - [Feedback devices improved pediatric resuscitation quality but increased subjective workload and shifted visual attention away from the patient](feedback-devices-increase-workload-shift-attention.md) — related
 - [Neonatal resuscitation knowledge and skills deteriorate significantly in the months following NRP certification](nrp-knowledge-skills-decay-months-after-certification.md) — related
+- [Overall end-of-clerkship performance of fifth-year medical students was significantly higher after simulation-based learning was integrated into the pediatric curriculum](sbl-improves-overall-pediatric-clerkship-performance.md) — related

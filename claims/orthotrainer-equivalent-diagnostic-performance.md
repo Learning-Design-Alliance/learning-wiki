@@ -71,3 +71,5 @@ Final analogue module exam taken by all 28 students after training; the article 
 - [Multi-agent AI standardized patient training improved final OSCE-aligned examination scores compared with a structured non-LLM control condition](ma-scaffolding-improves-osce-exam-score.md) — related
 - [In the RCT, PBL students obtained significantly better final exam grades than LBL students, but the meta-analysis found no significant final-exam difference](pbl-final-exam-rct-vs-meta-analysis-discrepancy.md) — related
 - [CBL produces significantly higher exam scores than LBL in pharmacy education (SMD = 0.58)](cbl-higher-exam-scores-than-lbl-pharmacy.md) — related
+- [Digital and analogue case planning required comparable completion times](orthotrainer-completion-time-comparable.md) — related
+- [Digital case planning via Orthotrainer yielded a significantly higher lateral cephalometric (LCR) landmarking success rate than analogue case planning](orthotrainer-lcr-landmarking-superiority.md) — related

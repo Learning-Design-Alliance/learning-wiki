@@ -67,3 +67,4 @@ Paired-samples t-test within the intervention group (n = 99) at the 20-day post-
 - [Screen-based simulation training raises nursing students' post-test self-efficacy in pediatric drug administration compared with verbal instruction](screen-simulation-raises-pediatric-drug-self-efficacy.md) — related
 - [Both SCLS sub-dimensions — student satisfaction and self-confidence in learning — show significant post-test advantages for the simulation group](screen-simulation-scls-subdimension-advantages.md) — a narrower finding that bears on this claim
 - [High-fidelity simulation produced a significantly larger total self-confidence change score than theoretical instruction alone in senior nursing students](hfs-larger-selfconfidence-change-score-rct.md) — related
+- [No significant difference between groups in self-confidence in learning or total satisfaction-and-confidence scores](no-self-confidence-difference-game-simulation.md) — reports the opposite

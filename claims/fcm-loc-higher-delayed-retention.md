@@ -46,3 +46,4 @@ Quasi-experiment with intact undergraduate classes in a Turkish Language course 
 
 ## Related Claims
 - [The flipped classroom model in live online classes produces no significant immediate learning achievement advantage over traditional teaching](fcm-loc-no-immediate-achievement-difference.md) — related
+- [The flipped classroom alone showed no significant advantage over traditional teaching on class performance, practical assessment, or theoretical examination in this course](fcm-alone-no-advantage-over-traditional.md) — related

@@ -49,3 +49,4 @@ In the randomized controlled trial of 38 senior nursing students (19 per group),
 - [Simulation alone significantly improves satisfaction and self-confidence within both groups regardless of feedback condition](simulation-alone-improves-satisfaction-both-groups.md) — related
 - [In an RCT of ICU nurses summarised by a scoping review, the simulation-based education group improved within-group in knowledge, confidence and competence but did not differ from the video-only control at 6 weeks](sbe-icu-within-group-gains-no-between-group.md) — related
 - [Screen-based simulation produces higher post-test student satisfaction and self-confidence in learning (SCLS overall) than verbal instruction](screen-simulation-raises-satisfaction-self-confidence-scls.md) — related
+- [No significant difference between groups in self-confidence in learning or total satisfaction-and-confidence scores](no-self-confidence-difference-game-simulation.md) — reports the opposite

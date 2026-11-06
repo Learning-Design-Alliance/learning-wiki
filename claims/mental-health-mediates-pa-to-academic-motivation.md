@@ -53,3 +53,5 @@ Structural equation modeling with bootstrapping (5,000 resamples) on the three-w
 - [Higher extracurricular physical activity correlates with lower psychological distress, better cognitive ability, and better academic performance at follow-up](correlations-activity-distress-cognition-academics.md) — related
 - [Baseline extracurricular physical activity significantly and positively predicts academic performance one year later among adolescents with high BMI](extracurricular-physical-activity-predicts-academic-performance-high-bmi.md) — related
 - [A four-month daily running intervention significantly improved students' mental health, intrinsic motivation and extrinsic motivation over time](running-intervention-improved-mental-health-and-motivation.md) — related
+- [Physical activity, self-concept, physical-mental health, and academic achievement are all significantly positively intercorrelated (N = 458)](pa-sc-pmh-aa-positive-correlations.md) — related
+- [Physical and mental health significantly mediates the relationship between physical activity and academic achievement (indirect β = 0.052, 14.86%)](pmh-mediation-pa-aa.md) — related

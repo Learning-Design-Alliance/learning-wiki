@@ -54,3 +54,4 @@ Cross-sectional survey of training base representatives; Table 6 listed major ch
 - [Key barriers to SBE implementation are lack of knowledge or training, lack of awareness of resources, limited time and resources, and limited institutional support](sbe-barriers-knowledge-time-institutional-support.md) — a broader claim this one bears on
 - [Faculty reluctance and limited expertise are common challenges in implementing IPE, which can harm interprofessional relationships if poorly planned](faculty-reluctance-ipe-challenge.md) — related
 - [Cost, equipment availability, maintenance and faculty training are reported implementation barriers for laparoscopic simulation, especially in resource-constrained settings](laparoscopic-simulation-implementation-barriers.md) — related
+- [Nearly one-third of Mini-CEX students cited limited faculty availability and insufficient training as implementation barriers](mini-cex-faculty-availability-barriers.md) — related

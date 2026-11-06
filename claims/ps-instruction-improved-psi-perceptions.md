@@ -76,3 +76,4 @@ Same posttest-only quasi-experiment; the PC factor (z=-1,183, p=.237) showed no 
 - [The control group showed no significant change in problem-solving perceptions or achievement over the seven-week period](control-group-no-change-social-studies.md) — related
 - [High-tech simulations improve technological problem-solving ability more than low-tech simulations](high-tech-simulation-improves-problem-solving.md) — related
 - [Improvement spans all problem-solving subcategories: personal control, avoidance/approach, and confidence](psi-subcategories-all-improved-high-tech.md) — reports the opposite
+- [Productive failure plus debriefing training shifts problem-solving style toward rational-positive and away from negative-avoidant approaches](productive-failure-debriefing-problem-solving-styles.md) — related

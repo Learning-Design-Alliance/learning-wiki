@@ -51,3 +51,4 @@ Descriptive percentage from the student evaluation; the abstract states "93% of 
 - [Learner acceptance of AI simulations is generally high, with System Usability Scale scores of 61.6 to 78.56 and 72%-93% willingness to recommend](ai-simulation-high-learner-acceptance.md) — a broader claim this one bears on
 - [EVS usability scores above 'good' benchmark but students become more critical of usability when encountering staff competency or testing problems](evs-usability-context-dependent.md) — related
 - [Participants rated SOPHIE 2.0 as engaging, easy to use, and clinically relevant in a self-service format](sophie2-high-perceived-usability-and-value.md) — related
+- [RLO completion rates were low for most RLOs, ranging from 5.6% to 85%, but exceeded 70% for curriculum-integrated RLOs](rlo-completion-rates-low-except-curriculum-integrated.md) — related

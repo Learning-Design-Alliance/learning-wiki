@@ -49,3 +49,5 @@ Model 2 mixed-effects analysis with assessment type as predictor revealed a sign
 ## Related Claims
 - [Web-based Orthotrainer training produced diagnostic performance equivalent to analogue case analysis training across training sessions and the final module exam](orthotrainer-equivalent-diagnostic-performance.md) — related
 - [The digital application received substantially higher usability (SUS) and user experience (UEQ) ratings than the analogue training condition](orthotrainer-higher-usability-and-ux.md) — related
+- [Digital case planning via Orthotrainer yielded a significantly higher lateral cephalometric (LCR) landmarking success rate than analogue case planning](orthotrainer-lcr-landmarking-superiority.md) — related
+- [Analogue measurement produced smaller deviations than the digital method for mandibular arch width determination](orthotrainer-mandibular-arch-width-analogue-advantage.md) — related

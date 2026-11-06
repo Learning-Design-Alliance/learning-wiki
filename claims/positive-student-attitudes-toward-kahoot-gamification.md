@@ -53,3 +53,4 @@ Post-intervention seven-item questionnaire completed only by the experimental gr
 - [Students in the experimental group reported that Kahoot quizzes helped, were fun, and left them feeling positive about exam preparation](kahoot-fun-engaging-positive-experience.md) — related
 - [Both control and experimental students responded positively to e-learning, with the experimental group's attitude slightly higher](student-attitudes-elearning-experimental-higher.md) — related
 - [Students reported favorable perceptions of Kahoot! gamification across reaction, acceptance, perceived learning, behavior change, and collaboration](student-favorable-perceptions-kahoot.md) — related
+- [Gamification-group students reported positive technology acceptance, with Perceived Usefulness, Concentration, and Attitude towards Using the highest-rated TAM domains](tam-acceptance-perceived-usefulness-highest.md) — related

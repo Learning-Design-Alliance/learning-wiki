@@ -90,6 +90,7 @@ Multimodal resources can support learning when verbal and visual channels are co
 - [Increase access to digital learning so materials are organized and accessible online](digital-learning-access-organized-materials.md)
 - [Generate multiple concise LLM perspectives for learners to select from, and explore relevance-driven diversity aligned with learner interests](multiple-concise-llm-perspectives-learner-selection.md)
 - [Support all students' open-minded exploration of educational and vocational options from early on](support-open-minded-exploration-educational-options.md)
+- [Combine varied teaching formats with regular knowledge-testing questions and direct feedback in flipped-classroom e-learning](e-learning-formats-questions-direct-feedback-strategy.md)
 
 ## Examples
 - **[Newsela](https://newsela.com)** — the same news article at multiple reading levels, pairing text with quizzes; a tiered-library implementation for mixed-readability classrooms.

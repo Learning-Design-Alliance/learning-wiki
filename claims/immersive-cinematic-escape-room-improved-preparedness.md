@@ -53,3 +53,4 @@ Quasi-experimental pretest–posttest study (Hsiao et al. 2024, Northern Taiwan)
 - [Virtual reality simulation training improved reserve nurses' theoretical knowledge, emergency care capability, and total disaster preparedness, but not post-disaster management](vr-simulation-training-improved-response-capability.md) — related
 - [Simulated education and training improved nursing students' disaster evacuation knowledge, skills, and preparedness across all subcategories](simulated-education-improved-evacuation-competencies.md) — related
 - [An operational exercise empowerment program increased nurses' disaster response competence across all domains, with a significant group-by-time interaction](operational-exercise-program-increased-disaster-competence.md) — related
+- [VR-based disaster simulation education increases learning immersion more than written case simulation](vr-simulation-learning-immersion-gain.md) — related

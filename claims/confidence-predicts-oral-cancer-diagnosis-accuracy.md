@@ -48,3 +48,4 @@ Cross-sectional analytical survey of 252 dentists and dental students diagnosing
 - [Confidence is not a reliable indicator of diagnostic competency for certain lesion types, notably facial nerve palsy (case 7)](overconfidence-on-difficult-oral-cancer-cases.md) — related
 - [Diagnostic accuracy is higher for oral conditions with recognizable clinical features and lower for conditions with non-specific presentations](recognizable-features-higher-oral-diagnostic-accuracy.md) — related
 - [Confidence ratings across the seven oral disease cases are positively inter-correlated among dentists and dental students](inter-case-confidence-correlations-positive.md) — related
+- [Concise, focused case summaries are associated with ChatGPT-4 reaching the correct diagnosis](concise-summaries-associated-correct-diagnosis.md) — related

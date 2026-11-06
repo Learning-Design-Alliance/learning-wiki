@@ -89,3 +89,4 @@ The review attributes longitudinal findings to named recent investigations: Baug
 - [In a 5-year longitudinal MSF study, all ratings increased between assessments, though the increase for patient ratings was not significant and changes were small-to-moderate](msf-five-year-ratings-increased-small-moderate.md) — related
 - [Comprehensive data linking simulation training to patient outcomes, complication rates, and long-term skill retention are lacking](simulation-skill-transfer-outcomes-lacking.md) — related
 - [Systematic review evidence indicates SBE supports skills and knowledge acquisition, with short-term retention holding up but long-term retention unresolved](sbe-supports-knowledge-skills-acquisition.md) — related
+- [Students rate themselves significantly more positively than trainers on several communication sub-skills, with effect sizes from small to very high](students-overrate-communication-subskills.md) — related

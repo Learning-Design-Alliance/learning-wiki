@@ -50,3 +50,4 @@ Mann Whitney U test on three-stage permanency scores administered three months p
 - [Web-assisted conceptual change texts produced significantly higher three-stage post-test scores than classic conceptual change texts (U = 103, p = 0.038)](web-assisted-cct-significant-posttest-advantage.md) — related
 - [8th and 9th graders held multiple persistent conceptual errors about water chemistry despite prior instruction](water-chemistry-conceptual-errors-pilot.md) — related
 - [Both groups improved significantly from pretest to posttest, and the experimental group's posttest scores significantly exceeded the control group's](razalas-within-between-posttest-differences.md) — related
+- [Post-test diagnostic scores are significantly higher in the ChatGPT-4o personalized-feedback group than the control group one month after the intervention](post-test-higher-experimental-group.md) — related

@@ -53,3 +53,4 @@ Interview data from teachers in six randomly selected CPS schools. One teacher r
 - [REACH observations consumed substantial administrator time—about six hours per observation cycle and roughly two to three full weeks per year](observation-workload-administrator-time.md) — related
 - [When district administration encourages a culture of coaching, teachers feel more comfortable participating in coaching and taking ownership of change](coaching-culture-increases-teacher-participation.md) — related
 - [The complexity of coaching responsibilities may fragment the coaching process and reduce its impact](coaching-complexity-may-fragment-impact.md) — related
+- [Two embedded attributes of educational leadership programs—diverse open participation and a dual growth-and-spotlight role—undermine rigorous outcome assessment](le-program-attributes-undermine-assessment-rigor.md) — related

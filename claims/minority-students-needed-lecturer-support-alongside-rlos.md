@@ -48,3 +48,4 @@ Descriptive percentages from the abstract on the Learning Support item 'I needed
 - [Most students rated RLO media components such as animations as helping them understand concepts including Forest plots](rlo-animations-helped-most-students-understand-concepts.md) — related
 - [Healthcare students' self-reported understanding of five meta-analysis concepts improved significantly after RLO use in both MPH and PGD groups](rlo-use-improves-perceived-meta-analysis-understanding.md) — related
 - [External users outside the target cohorts rated the RLOs as excellent or good, with no difference between Nottingham and non-Nottingham respondents](external-users-rated-rlos-excellent-or-good.md) — related
+- [RLO completion rates were low for most RLOs, ranging from 5.6% to 85%, but exceeded 70% for curriculum-integrated RLOs](rlo-completion-rates-low-except-curriculum-integrated.md) — related

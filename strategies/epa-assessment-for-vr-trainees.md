@@ -48,6 +48,7 @@ As a forward-looking recommendation for patient safety, the authors propose: "it
 - [Integrate simulation, entrustable professional activities and human factors education into short surgical rotations](integrate-simulation-epa-human-factors-short-rotations.md)
 - [Adopt a staged, LMIC-sensitive pathway linking simulation-based preparation to authentic supervised bedside practice, with competency-based progression and EPAs](staged-simulation-to-bedside-pathway-lmic.md)
 - [Prioritize competency-based training models integrating VR-based surgical practice and AI-assisted procedural assessments in dental education](competency-based-vr-ai-training-stomatology.md)
+- [Use Entrustable Professional Activities (EPAs) to standardise assessment of trainee independence in clinical skills](epas-standardise-trainee-assessment.md)
 
 ## Examples
 -

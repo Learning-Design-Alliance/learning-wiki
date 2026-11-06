@@ -48,6 +48,7 @@ Drawing on its perceptual findings, the review recommends implementation design 
 - [Community Building](community-building.md)
 - [In resource-limited contexts, rely on strong pedagogy rather than technology: clear relevant cases, structured peer mentoring, and community settings as authentic learning environments](resource-limited-pbl-pedagogy-over-technology.md)
 - [Implementation recommendations for WeChat-based PBL: small teams, 1-week advance materials, active facilitation, and workload refinements](wechat-pbl-implementation-recommendations.md)
+- [Structure mentorship with clear expectations, regular feedback, and a supportive environment](mentorship-practices-undergraduate-research-training.md)
 
 ## Examples
 -

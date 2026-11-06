@@ -51,3 +51,4 @@ In the interview study, thematic analysis found trainee ANPs frequently turned t
 - [Trainee ANPs perceive that individuals with personality disorder attend services mainly in crisis, though this may reflect limited awareness of subtle presentations rather than actual absence.](anps-perceive-pd-crisis-only-attendance.md) — related
 - [Fast-paced, high-stimulus clinical settings with short appointments, lack of privacy and limited access to mental health specialists are major barriers to personality disorder care.](clinical-environment-barriers-to-pd-care.md) — related
 - [Placement experiences with limited mental health exposure represent a missed opportunity to build confidence in personality disorder care.](limited-clinical-placement-exposure-to-pd.md) — related
+- [Trainees reported low readiness to become a consultant at the end of training](low-consultant-readiness-at-end-of-training.md) — related

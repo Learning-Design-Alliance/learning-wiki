@@ -51,6 +51,8 @@ Based on the review's findings, the authors recommend that "institutions should 
 - [Implement teaching-focused workplace-based peer teaching placements with mentorship, repetition, and role modeling](anatomy-ems-implementation-recommendations.md)
 - [Support EBP education with mentorship, protected time, and continuity of initiatives rather than isolated courses](ebp-institutional-support-strategy.md)
 - [Policy recommendations for protecting clinical education during health system reforms: protected teaching time, aligned evaluation, teaching-linked compensation, and embedded educational objectives](protecting-education-in-health-system-reforms-strategy.md)
+- [Institutionalise Mini-CEX with protected time, faculty development, and a feedback-rich culture](mini-cex-protected-time-faculty-development-strategy.md)
+- [Implement structured mentorship programs and formal leadership development initiatives for healthcare professionals in LMIC settings](structured-mentorship-leadership-development-lmic.md)
 
 ## Examples
 -

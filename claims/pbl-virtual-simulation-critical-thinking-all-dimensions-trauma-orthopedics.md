@@ -61,3 +61,4 @@ Dimension-level critical thinking results in the same assessor-blinded RCT of 50
 - [Attending offline CBL classes is associated with significantly higher self-confidence, particularly in collaboration, communication, and critical thinking](offline-cbl-attendance-higher-self-confidence.md) — related
 - [PBL combined with 3D-VRT produced higher critical thinking disposition scores across all seven dimensions than traditional teaching](pbl-3d-vrt-critical-thinking-all-seven-dimensions.md) — possibly the same claim (merge candidate)
 - [SBAR combined with mini-CEX significantly improves clinical thinking ability, including critical, systematic and evidence-based thinking dimensions](sbar-minicex-clinical-thinking-improved.md) — related
+- [Productive failure plus debriefing training improves critical thinking disposition total and dimension scores versus traditional training](productive-failure-debriefing-improves-critical-thinking.md) — related

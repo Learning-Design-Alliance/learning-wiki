@@ -71,3 +71,4 @@ Dimension-level teaching satisfaction results in the same assessor-blinded RCT o
 - [Experimental-group trainees report higher satisfaction than controls in teaching atmosphere, learning interest, and learning efficiency](digital-cbl-higher-satisfaction-interest-efficiency.md) — related
 - [Students in the combined PBL-MDT-flipped classroom group reported more positive learning outcomes than the traditional group across seven survey dimensions](pbl-mdt-flipped-survey-seven-dimensions-favorable.md) — related
 - [Nursing interns in the PBL group reported significantly higher teaching satisfaction than the traditional teaching group (P = 0.003)](pbl-higher-teaching-satisfaction-nursing-interns.md) — related
+- [BOPPPS-CBL students self-report significantly greater learning effects across all five measured dimensions](boppps-cbl-higher-learning-effect-self-ratings.md) — related

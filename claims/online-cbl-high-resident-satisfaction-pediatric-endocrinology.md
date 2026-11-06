@@ -51,3 +51,4 @@ Post-rotation voluntary anonymous SurveyMonkey questionnaire of 29 of 32 eligibl
 - [Residents perceive online CBL modules will improve their effectiveness as pediatricians](online-cbl-perceived-impact-pediatric-effectiveness.md) — related
 - [Residents report they will apply online CBL learning when evaluating children with endocrine conditions](online-cbl-self-reported-application-clinical-practice.md) — related
 - [Students in the CBL-FC group report high learning interest, positive experience, and overall satisfaction](cbl-fc-high-satisfaction-learning-experience.md) — related
+- [Performance differed significantly across the four pediatric rotation groups, with rotations 3 and 4 outperforming rotations 1 and 2](rotation-group-differences-pediatric-clerkship-performance.md) — related

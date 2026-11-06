@@ -72,3 +72,4 @@ Same qualitative study, Theme 1. Participants reported that the standardized pat
 - [Role play in CST is reported to increase empathy and provide safe practice, but students note artificiality and poor acting authenticity](role-play-benefits-and-artificiality-cst.md) — related
 - [CHW trainees value realistic standardized patient scenarios as a key benefit of simulation-based MI training](chws-value-realistic-sp-scenarios-in-mi-simulation-training.md) — related
 - [House officers attribute the effectiveness of psychiatric emergency simulation to realistic immersive scenarios, equipment practice, and peer learning in a safe environment](qualitative-realism-immersion-peer-learning-feedback.md) — related
+- [Male nursing students report that mannequin-based simulation bridges the gap between theoretical knowledge and practical application in maternal-newborn nursing education](hfs-bridges-theory-practice-male-nursing-students.md) — related

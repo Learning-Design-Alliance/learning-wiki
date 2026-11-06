@@ -54,3 +54,4 @@ Single-group pre–post study of 30 third-year dental students (28 post-test) co
 - [CRI-HT scores rose from pre-test to post-test after AI-powered simulated patient practice, in one uncontrolled pre-post study](aisp-cortex-improves-cri-ht-reasoning.md) — related
 - [Clinical reasoning scores were higher after training than before training in every clinical domain assessed, in one single-group pre-post study with no comparison group](ofc-gains-across-all-clinical-domains.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
+- [Students' pre-course self-assessment of history-taking skills exceeds post-course self-assessment in all three groups](pre-course-self-assessment-higher.md) — related

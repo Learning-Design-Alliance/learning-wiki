@@ -59,6 +59,7 @@ The authors provide practical recommendations for anatomy educators implementing
 - [Implement peer-teaching-based exam training with structured curriculum integration, realistic scenarios, defined roles, and trained tutors](pt-bet-implementation-strategy.md)
 - [Prepare teachers for inquiry-based instruction through intensive professional development plus ongoing mentorship before classroom implementation](intensive-pd-plus-mentorship-for-ibi-implementation.md)
 - [Healthcare institutions should prioritize SDL-friendly environments including protected learning time, access to digital tools, and mentorship programs](sdl-friendly-environments-strategy.md)
+- [Structure mentorship with clear expectations, regular feedback, and a supportive environment](mentorship-practices-undergraduate-research-training.md)
 
 ## Examples
 -

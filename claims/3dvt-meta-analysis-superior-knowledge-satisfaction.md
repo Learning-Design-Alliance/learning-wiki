@@ -54,3 +54,4 @@ The article cites this meta-analysis as context. "a 2015 meta-analysis by Yammin
 - [3D + PBL improves understanding of orthopedic anatomical structures](3d-pbl-improves-understanding-orthopedic-anatomy.md) — related
 - [Augmented reality increased student engagement but not test performance in anatomical learning](ar-increases-engagement-not-test-performance.md) — related
 - [3D VR video acclimatisation improves overall robotic simulator performance among novices compared with 2D video](3d-vr-acclimatisation-improves-simulator-performance.md) — a narrower finding that bears on this claim
+- [Postgraduate aesthetic medicine trainees overwhelmingly rate a 3D simulation app as visually similar to 2D models and superior for understanding the 3D structure of facial aging](3d-simulation-app-facial-aging-visualization-perceptions.md) — a narrower finding that bears on this claim

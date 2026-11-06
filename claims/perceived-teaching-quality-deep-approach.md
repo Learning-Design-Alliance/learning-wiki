@@ -74,3 +74,4 @@ Review synthesis across multiple cited studies covering perceived clarity of goa
 - [Excessive perceived workload is positively associated with a surface approach and negatively with a deep approach to learning](perceived-workload-surface-approach.md) — related
 - [Deep approaches to learning correlate positively and surface approaches negatively with academic achievement](deep-approach-positive-surface-negative-correlation.md) — related
 - [Students reported the learner-centred authenticity project as one of the most challenging yet relevant courses in their degree](students-found-authenticity-course-challenging-relevant.md) — related
+- [Students with more favourable perceptions of the learning environment reported a deeper approach, studied longer online, and earned higher marks, but the perception groups did not differ on self-reported surface approach](perceptions-group-differences-approach-time-marks.md) — a narrower finding that bears on this claim

@@ -51,6 +51,7 @@ A recommendation, grounded in participant feedback and author argument, to provi
 - [Design simulation scenarios that explicitly address psychological support and system knowledge, and use repeated sessions to affect stress](scenario-psychological-support-repeated-sessions-strategy.md)
 - [Provide regular refresher sessions and periodic reassessment to sustain caregiver emergency-response skills over time](refresher-sessions-sustain-caregiver-skills.md)
 - [Simulation-based safety training plus institutionalized safety case conferences for psychiatric nurses](simulation-training-safety-case-conferences.md)
+- [Extend simulator-assisted breastfeeding training to hospitals, NICUs, and antenatal classes](extend-simulator-breastfeeding-training-clinical-settings.md)
 
 ## Examples
 -

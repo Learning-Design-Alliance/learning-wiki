@@ -50,6 +50,7 @@ The article's forward-looking recommendations for implementing the combined appr
 ## Related Strategies
 
 - [Implement CBL successfully by ensuring pre-class preparation, authentic progressive cases, dual-competence facilitators, adequate time, and process-plus-outcome assessment](cbl-implementation-success-conditions.md)
+- [Incorporate the BOPPPS-CBL method into clinical clerkships with faculty training to ensure effective execution](adopt-boppps-cbl-clerkship-faculty-training.md)
 
 ## Examples
 -

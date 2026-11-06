@@ -49,3 +49,4 @@ Descriptive document analysis of 124 randomly sampled SCFHS postgraduate curricu
 - [EA prevalence varies widely across SCFHS programs: journal club most frequent, simulation least used, and authentic learning methods rare (14%)](ea-prevalence-patterns-scfhs.md) — a narrower finding that bears on this claim
 - [Inductive content analysis of the curricula yielded four EA themes and 10 subthemes, including inconsistent labelling of the same activities](four-themes-ten-subthemes-ea-analysis.md) — related
 - [Interviews revealed a discrepancy between researchers and policy-makers that impedes a unified language for planning and implementing health programmes](researcher-policy-maker-language-gap.md) — related
+- [There is no unified pathway for training, curricula, and formal assessments across UEMS member countries](no-unified-neonatal-training-pathway-uems.md) — related

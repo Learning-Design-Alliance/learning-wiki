@@ -41,7 +41,8 @@ The 2025 ETR recommends a broader, structured set of assessment tools to evaluat
 - Cbme Epa Competency Practice Bridge
 
 ## Related Strategies
-- 
+
+- [Use Entrustable Professional Activities (EPAs) to standardise assessment of trainee independence in clinical skills](epas-standardise-trainee-assessment.md)
 
 ## Examples
 -

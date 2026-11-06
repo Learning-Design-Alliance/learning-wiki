@@ -45,6 +45,7 @@ The report recommends supporting implementation with structured cadences such as
 - [Support district implementations of adaptive reading programs with a milestone-based implementation plan and ongoing data-informed coaching](mra-implementation-plan-and-pd-strategy.md)
 - [Support first-year adopters of a comprehensive curriculum with quick-start overviews, editable materials, and curated course plans](support-first-year-curriculum-adopters-quick-start.md)
 - [Design AIED deployments to meet school operational criteria such as support, stability, and availability](aied-deployments-meet-school-criteria.md)
+- [Use pragmatic implementation and dissemination strategies to boost e-learning usage and sustainability](pragmatic-rlo-implementation-strategies.md)
 
 ## Examples
 -

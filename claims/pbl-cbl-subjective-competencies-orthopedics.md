@@ -127,3 +127,4 @@ Meta-analysis of 2 studies (162 students) on the critical thinking disposition i
 - [Sim + LBL students reported greater satisfaction, perceived learning outcomes, and core-competency gains than LBL students](sim-lbl-greater-satisfaction-engagement-competency.md) — related
 - [Urology interest groups and mandatory skills sessions significantly increase medical student interest and procedural confidence](urology-interest-groups-skills-sessions-student-interest.md) — related
 - [Students in the blended PBL-CBL-seminar group report higher teaching-mode evaluation, internship-effect self-evaluation, and satisfaction than LBL students](blended-group-higher-questionnaire-satisfaction.md) — related
+- [In one South African hospital's obstetrics and paediatrics internship, knower-code attributes (teamwork, organisation, efficiency, communication) outweighed specialised knowledge as the basis of legitimacy](internship-legitimises-knower-code-attributes.md) — related

@@ -52,3 +52,4 @@ Self-report satisfaction survey of the experimental group using a validated ques
 - [Students in the flipped group rated the method as beneficial with a median benefit scale value of 4 out of 5](flipped-learning-benefit-median-four.md) — related
 - [Pre-reform survey found high flipped-classroom awareness but minimal BOPPPS familiarity and limited willingness to participate](pre-survey-awareness-boppps-flipped-dentistry.md) — related
 - [Participants rated the BOPPPS-PBL teaching model highly, with a mean teaching-effectiveness score of 56.43 ± 5.17 out of 60](boppps-pbl-high-teaching-effectiveness-ratings.md) — related
+- [BOPPPS-CBL instruction produces significantly higher post-training total test scores than traditional lecture-based teaching in pediatric dentistry clerkship](boppps-cbl-higher-pt-test-total-scores.md) — related

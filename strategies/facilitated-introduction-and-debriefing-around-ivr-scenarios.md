@@ -53,6 +53,7 @@ A concrete design recipe drawn from the simulation training framework and the tr
 - [Simulations + Structured Activity](simulations-structured-activity.md)
 - [Enhance poverty simulations with structured debriefings, trained volunteers, and psychological safety guidelines](enhance-simulations-debriefing-volunteer-training.md)
 - [Team-based, bilingual VR training session format combining orientation, remote-facilitated simulation, and debriefing](team-based-bilingual-vr-session-format.md)
+- [Integrate IVR as warmup or refresher training with self-guided or peer-to-peer debriefs followed by facilitated large-group debriefing](ivr-warmup-refresher-self-guided-debrief-strategy.md)
 
 ## Examples
 -

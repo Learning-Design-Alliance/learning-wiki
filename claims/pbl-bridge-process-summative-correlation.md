@@ -50,3 +50,4 @@ Pearson correlation analysis of process-oriented and summative assessment scores
 - [Correlations between different OSCE station scores are weak, with a pooled Pearson correlation of 0.27](pt-osce-station-station-correlation-weak.md) — related
 - [OSCEs used with physical therapy students show weak internal consistency, with a pooled Cronbach's alpha of 0.55 below the acceptable range](pt-osce-pooled-cronbach-alpha-weak.md) — related
 - [Self-reported internal assessment scores show high concordance with verified academic records](self-reported-scores-concordance-transcripts-ghana.md) — related
+- [Semester grades correlate strongly with practical carving test scores (r = 0.775)](semester-grades-practical-test-correlation.md) — related

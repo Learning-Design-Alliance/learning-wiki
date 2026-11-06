@@ -52,3 +52,4 @@ Self-report satisfaction data from the same 39 residents, collected with a valid
 - [Immersive VR-haptic and ITS modalities are more often associated with objective psychomotor and cognitive gains, while generative AI platforms are more often associated with affective outcomes](ads-modality-domain-patterns.md) — related
 - [Learners report high satisfaction with SDTS video-based feedback and perceived skill improvement](sdts-high-learner-satisfaction.md) — related
 - [Rwandan medical students perceive residents as competent and effective simulation instructors and favor a small team of residents with faculty](students-perceive-residents-effective-simulation-instructors.md) — related
+- [Participants reported high satisfaction with the progressive laparoscopic program, with 80% strongly agreeing it stimulated learning interest and 64% stating it exceeded expectations](laparoscopic-program-high-satisfaction-interest.md) — related

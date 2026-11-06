@@ -51,3 +51,4 @@ Univariate pre-post comparison in the same 32-resident prospective study; paired
 - [The mean number of attempts for successful intubation decreased from 3.81 before simulation training to 1.84 after the session (p<0.001), in one group with no comparison group](simulation-reduces-intubation-attempts.md) — related
 - [Structured trauma resuscitation team training augmented by simulation improved teamwork domain ratings and reduced time to CT scanner, intubation, and operating room](simulation-augmented-team-training-improves-trauma-care-efficiency.md) — related
 - [AccuTouch VR simulator training improved live fibreoptic intubation performance in inexperienced paediatric residents, reducing time to intubation from 5.15 to 0.88 minutes](accutouch-training-improves-live-intubation-time.md) — related
+- [Failure rates fell and excellent grades rose markedly in the post-simulation cohort](sbl-reduces-failure-rate-raises-excellent-grades.md) — related

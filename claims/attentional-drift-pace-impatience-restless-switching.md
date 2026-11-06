@@ -52,3 +52,4 @@ Frequency counts from grounded theory coding. Representative statements include 
 - [Motivational Disengagement, reported by 270 participants, captures reduced initiative and eroding confidence linked to AI reliance](motivational-disengagement-ai-reliance.md) — related
 - [LLM participant agents clarify stage goals, keep discussions on topic, and prompt deeper ethical reflection](llm-participants-stage-goal-clarification.md) — related
 - [Physical Strain, reported by 120 participants, comprises visual fatigue and session exhaustion from reading and verifying AI outputs](physical-strain-visual-fatigue-session-exhaustion.md) — related
+- [Participants reported that the internship model's main weaknesses were using students as instruments, increased fatigue, and drift from principled scientific performance](anesthesia-internship-weaknesses-instrument-fatigue.md) — related

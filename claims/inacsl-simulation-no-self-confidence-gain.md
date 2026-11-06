@@ -51,3 +51,5 @@ Null comparison on the eight-item self-confidence subscale of the NLN scale in t
 - [INACSL-standard-based training shows no significant differences on EPSS collaboration, diverse ways of learning, high expectations, or total score](inacsl-simulation-null-epss-dimensions.md) — related
 - [INACSL-standard-based simulation training increases active learning scores versus standard simulation training](inacsl-simulation-raises-active-learning.md) — related
 - [INACSL-standard-based simulation training raises midwifery students' satisfaction compared with standard simulation training](inacsl-simulation-raises-midwifery-satisfaction.md) — related
+- [DeepSeek assistance does not significantly increase perceived engagement via interactive elements or confidence in learning](deepseek-pbl-null-interactive-engagement-confidence.md) — related
+- [No significant difference between groups in self-confidence in learning or total satisfaction-and-confidence scores](no-self-confidence-difference-game-simulation.md) — related

@@ -52,3 +52,5 @@ Negative binomial regression of Millennium Cohort Study data, stratified by sex,
 - [Internalizing problems at age 14 mediate the association between leisure reading at age 11 and mathematics ability at age 17 among males](internalizing-problems-mediate-reading-math-males.md) — related
 - [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — related
 - A 1950-1954 survey found declining TV viewing time among high-school pupils and widespread perceptions that pupils read less — related
+- [Higher TV and digital media time in young children is associated with lower achievement levels in grade 3 reading and math and grade 6 math](total-screen-time-lower-reading-math-achievement.md) — related
+- [Video game use is associated with lower grade 3 reading and math achievement among female students but not among male students](video-game-use-sex-specific-grade3-female.md) — related

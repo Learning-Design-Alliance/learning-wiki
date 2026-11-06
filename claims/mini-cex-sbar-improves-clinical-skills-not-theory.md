@@ -65,3 +65,5 @@ Course achievement comparison in the quasi-experimental study: clinical skills f
 - [SBAR combined with mini-CEX improves mini-CEX-rated comprehensive clinical ability across all seven core competencies](sbar-minicex-comprehensive-ability-minicex.md) — related
 - [SBAR combined with mini-CEX assessment yields significantly higher theoretical and operational assessment scores than traditional clinical nursing teaching in nursing interns](sbar-minicex-higher-theoretical-operational-scores.md) — reports the opposite
 - [Overall teaching satisfaction is higher under SBAR plus mini-CEX, but two satisfaction dimensions show no between-group difference](sbar-minicex-teaching-satisfaction-mixed.md) — related
+- [Most Mini-CEX students reported improved clinical skills and confidence and wanted the tool to continue](mini-cex-student-satisfaction-confidence.md) — related
+- [Paired t-tests showed statistically significant differences in overall assessment scores between the two teaching methods](pbl-sth-paired-ttest-assessment-outcomes.md) — related

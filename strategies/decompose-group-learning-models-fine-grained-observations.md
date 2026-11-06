@@ -45,6 +45,7 @@ As a future direction, the editors recommend moving beyond treating group learni
 - [Use fine-grained observation of real-time teacher and student behavior in video-guided coaching to analyze interactional fit](video-guided-coaching-real-time-behavior-observation.md)
 - [Intelligent tools should dynamically process student activity to summarize group and individual contributions for educators](intelligent-educator-tools-summarize-group-work.md)
 - [Use group training for the computing-experiment stage and individual multi-level tasks for remaining stages](group-training-computing-experiment-stage.md)
+- [Integrate task- and movement-level assessments into procedure-level multilevel evaluation frameworks](multilevel-integrated-skill-assessment-frameworks.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ Qualitative thematic analysis of open-ended survey responses from both cohorts t
 - [Students' open-ended feedback clustered around improvements including incorporating clinical context, clearer AI explanation logic, and interactive or comparative features](student-suggested-feedback-improvements.md) — related
 - [Students specifically praised the app's original visual materials as pedagogically helpful and ethnically inclusive](inclusive-visual-materials-praised.md) — related
 - [Qualitative feedback grouped enhancement suggestions into valued aspects, platform changes, and changes to the red flags training](qualitative-feedback-three-categories-red-flag-training.md) — related
+- [Attendees reported that interactive quizzes during the workshops reinforced their understanding of anatomy concepts](quizzes-reinforce-anatomy-understanding-perceived.md) — related

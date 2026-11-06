@@ -67,3 +67,4 @@ Within-group pre-post comparison in the same quasi-experiment: the game-based gr
 - [Higher-secondary chemistry students taught with web-based instruction scored significantly higher on the post-test than students taught by traditional method](wbi-post-test-significant-advantage-chemistry.md) — related
 - [Computer-based science and technology instruction produces significantly higher corrected post-test problem solving skill scores than traditional teaching](cbi-improves-problem-solving-skills.md) — related
 - [First graders taught science with educational games achieved higher scientific concepts acquisition than those taught by traditional method](educational-games-improve-first-grade-concept-acquisition.md) — related
+- [3D game-based simulation produces no significant difference in vital signs academic achievement compared with traditional instruction (d = 0.02)](3d-game-simulation-no-achievement-difference-vital-signs.md) — reports the opposite

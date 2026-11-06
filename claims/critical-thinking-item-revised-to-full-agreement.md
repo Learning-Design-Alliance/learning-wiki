@@ -48,3 +48,4 @@ Second-round content assessment of the revised scenario with the same seven revi
 - [A simulated scenario for pediatric EVD management built with RCDP achieved excellent content validity from seven expert reviewers across two assessment rounds](rcdp-evd-scenario-content-validity.md) — possibly the same claim (merge candidate)
 - [Expert review establishes excellent content validity for TAILS (S-CVI/Ave = 0.98; I-CVI 0.86–1.00)](tails-content-validity-cvi.md) — related
 - [Expert review established content validity of VEGA's generated content, with I-CVIs of 0.83–1.00 and S-CVI/Ave of 0.96](vega-content-validity-cvi.md) — related
+- [A high-fidelity PACU pain-control simulation scenario reached adequate content validity after two expert review stages (S-CVI/UA 85; S-CVI/Ave 0.98)](pacu-pain-scenario-content-validated.md) — related

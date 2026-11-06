@@ -51,3 +51,4 @@ Subgroup meta-analysis by outcome measure (Table 3). Printed effect sizes: exam 
 - [Exploratory subgroup analysis suggests larger effects in practice courses than theory courses, driven by only 2 practice-oriented studies](llm-teaching-practice-course-subgroup-signal.md) — related
 - [Flipped classrooms are associated with improved procedural/technical skills in medical education (pooled SMD = 1.80), with larger effects among residents and in theoretical-course settings](flipped-classroom-procedural-skills-medical-education.md) — related
 - [Flipped courses show no reduction in academic performance compared with lecture-based courses.](flipped-courses-no-performance-reduction.md) — reports the opposite
+- [The flipped classroom alone showed no significant advantage over traditional teaching on class performance, practical assessment, or theoretical examination in this course](fcm-alone-no-advantage-over-traditional.md) — reports the opposite

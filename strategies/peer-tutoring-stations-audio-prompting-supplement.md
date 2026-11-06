@@ -49,6 +49,7 @@ The authors recommend that "peer tutoring can supplement teacher-led instruction
 - [Audio + Structured Activity](audio-structured-activity.md)
 - [Station Rotation](station-rotation.md)
 - [Use peer-led small group teaching across multiple clinical sites to expand students' condition exposure without increasing educator workload](peer-led-group-teaching-expand-clinical-exposure.md)
+- [Replicate the near-peer anatomy supplement at low cost using free cadaveric images and student volunteer tutors](low-cost-replication-free-cadaveric-images.md)
 
 ## Examples
 -

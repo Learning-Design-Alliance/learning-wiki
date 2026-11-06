@@ -55,3 +55,5 @@ Anonymous 10-item questionnaire administered only to the PBL-DeepSeek group, wit
 - [Students preferred the book-free, activity-based teaching and recommended the method for other courses](students-prefer-book-free-scenario-teaching.md) — related
 - [Third-year medical students report high satisfaction with a customized GPT reproductive physiology companion](high-student-satisfaction-customized-gpt-reproductive-physiology-companion.md) — related
 - [Most SOM-PBL students report high satisfaction, but about one-third report the method imposed additional cognitive load](som-pbl-satisfaction-and-cognitive-load.md) — related
+- [Residents find DeepSeek-assisted PBL more engaging and want to continue the approach in future PBL courses](deepseek-pbl-engagement-future-use-preference.md) — related
+- [DeepSeek-assisted PBL residents report higher trust in course information yet greater concern about inaccurate AI medical advice](deepseek-pbl-trust-paradox-inaccuracy-concern.md) — related

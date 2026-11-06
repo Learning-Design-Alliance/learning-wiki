@@ -57,3 +57,4 @@ Blinded construct validity comparison of recorded SP chicken anastomosis perform
 - [The test significantly discriminates between novices and experienced anesthesiologists (p < 0.001)](foi-test-discriminates-novices-experienced.md) — related
 - [Novices take significantly longer to complete simulated WFWB procedures than intermediate and expert providers](novices-longer-completion-times-wfwb-simulation.md) — related
 - [Expert surgeons outperformed novices on all four quantitative measures of the resection task: smaller margin errors, lower carbonization, faster resection, fewer grasps](experts-outperform-novices-four-measures.md) — related
+- [After reaching the minimum passing score, novices' laryngoscopy skill and laryngoscopy time remain significantly different from experts (36 s vs 20 s, p < 0.001)](lisa-at-laryngoscopy-gap-persists.md) — related
