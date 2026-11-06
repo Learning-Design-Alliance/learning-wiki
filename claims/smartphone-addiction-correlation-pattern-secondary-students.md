@@ -51,3 +51,4 @@ Pearson correlation analysis (Table 1, N = 828) among the main variables. The ar
 - [General self-efficacy neither mediated nor moderated the smartphone addiction–academic achievement relationship](general-self-efficacy-no-mediation-moderation.md) — related
 - [Smartphone addiction has a negative, statistically significant direct and total effect on academic achievement in secondary school students](smartphone-addiction-negative-direct-effect-achievement.md) — related
 - [Internet addiction shows strong comorbidity with depression, anxiety, and stress among health sciences students](ia-mental-health-comorbidity-strong.md) — related
+- [Learning engagement dimensions correlate negatively with learning anxiety and positively with academic self-efficacy](engagement-anxiety-negative-correlations.md) — related

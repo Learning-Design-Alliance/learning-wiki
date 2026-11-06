@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 226 claims (181 show a difference, 33 mixed, 12 no difference) · 169 studies (92 associational, 29 causal, 28 review, 8 theoretical, 7 qualitative, 3 design, 2 quant-synthesis), `q1`–`q4` · 6 of 169 report an effect size · 224 claims rest on one study
+> **Evidence** · 228 claims (183 show a difference, 33 mixed, 12 no difference) · 170 studies (93 associational, 29 causal, 28 review, 8 theoretical, 7 qualitative, 3 design, 2 quant-synthesis), `q1`–`q4` · 6 of 170 report an effect size · 226 claims rest on one study
 
 ## How to read this page
 
@@ -263,6 +263,8 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [In a sensitivity analysis comparing Black to non-Black students, lower scores appeared in history/physical and prioritized differential domains with large positive race-concordance interactions](../claims/black-students-lower-scores-concordance-interactions.md) [+W] — an instructional effect differs by group
 - [Expectations for TA preparation were higher before COVID (47.4%) than during (31.4%) or after (36.2%), and were most popular among Latino (43.5%), Black (41.2%), and female (40.7%) students](../claims/ta-preparation-expectations-time-and-demographics.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Underrepresented minority students emphasized TA care and hospitality most (Latino 11.3%, other URM 11.5%), and calls for hospitality were least common during ERT (4.43%)](../claims/urm-students-emphasize-ta-hospitality.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Adolescents from highly stigmatized ethnic groups in Germany perceive a stronger discriminatory school climate than ethnic majority students and other minoritized students do](../claims/stigmatized-groups-stronger-discriminatory-climate.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Students from the most stigmatized ethnic groups show poorer reading comprehension than ethnic majority students](../claims/stigmatized-group-lower-reading-comprehension.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *For whom: does it narrow gaps for underrepresented and low-income students?* [Active learning narrows achievement gaps for disadvantaged and underrepresented students](../claims/active-learning-narrows-achievement-gaps.md) [+S]

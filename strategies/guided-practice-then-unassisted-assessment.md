@@ -47,7 +47,8 @@ The IMR-SS provided "concurrent real-time multimodal feedback (visual warnings, 
 - [IMR-SS trainees show significantly smaller transverse screw placement angles in the unassisted assessment session](../claims/imr-ss-smaller-transverse-angle-assessment.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Embed immediate corrective feedback in virtual simulation practice sessions](real-time-corrective-feedback-virtual-simulation.md)
 
 ## Examples
 -

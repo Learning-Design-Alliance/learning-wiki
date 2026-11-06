@@ -48,6 +48,7 @@ The authors recommend integrating CV-DL-extracted AOI-dependent and motion metri
 
 - [Integrate the validated iVR simulator into early orthopedic training as a platform for deliberate practice with individualized feedback, pending longitudinal confirmation](ivr-deliberate-practice-platform-early-orthopedic-training.md)
 - [Use GPT-4 few-shot rephrasing of incorrect trainee responses to deliver corrective explanatory feedback at scale](gpt4-rephrase-incorrect-responses-feedback-strategy.md)
+- [Use gaze tracking as a feedback tool to alert students and instructors to key moments in simulation learning](gaze-tracking-feedback-simulation-debriefing.md)
 
 ## Examples
 -

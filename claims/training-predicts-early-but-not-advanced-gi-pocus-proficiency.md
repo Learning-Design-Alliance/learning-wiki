@@ -52,3 +52,4 @@ Multinomial logistic regression in the 2009-nurse survey. Training predicted the
 - [A staged GI-POCUS training pathway — foundational probe skills, intermediate quantitative interpretation, advanced complex-image judgment — is supported by the proficiency predictors](staged-gi-pocus-training-pathway.md) — related
 - [Low-frequency GI-POCUS users have substantially lower odds of good proficiency than high-frequency users](usage-frequency-predicts-gi-pocus-proficiency.md) — related
 - [Nurses in departments where GI-POCUS examinations are billable report higher proficiency than those in nonbillable settings](billability-associated-with-gi-pocus-proficiency.md) — related
+- [All trained nurses achieved good clinical performance ratings, compared with a minority of untrained nurses](good-performance-trained-versus-untrained.md) — related

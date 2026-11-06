@@ -13,7 +13,7 @@ generated:
 # Academic and Critical Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 86 claims (51 show a difference, 23 mixed, 12 no difference) · 67 studies (29 causal, 12 associational, 8 quant-synthesis, 7 review, 5 qualitative, 3 design, 3 theoretical), `q1`–`q4` · 13 of 67 report an effect size · 83 claims rest on one study
+> **Evidence** · 88 claims (52 show a difference, 24 mixed, 12 no difference) · 69 studies (30 causal, 13 associational, 8 quant-synthesis, 7 review, 5 qualitative, 3 design, 3 theoretical), `q1`–`q4` · 14 of 69 report an effect size · 85 claims rest on one study
 
 ## Description
 This page brings together two related factors from the Learner Variability Navigator; its third, Core Academic Literacies (general fluency across the core subjects), is on [prior knowledge](prior-knowledge.md). Disciplinary literacy is the ability to read, write, speak and present in the ways each discipline uses (proofs, lab reports, historical arguments) and, for adults, in real-world domains such as health and finance. Critical literacy is the ability to identify a text's purpose, motives and possible biases, which supports comprehension and critical thinking and prepares learners for civic participation.
@@ -124,6 +124,8 @@ They are assessed through performance tasks rather than a single test: argumenta
 - [Technology integration is positively associated with information literacy among Chinese physical education undergraduates](../claims/technology-integration-information-literacy-chinese-pe.md) [+M] — measured as an outcome of the instruction studied
 - [English academic self-concept moderates the association of social support with foreign language enjoyment (positively) and foreign language anxiety (negatively)](../claims/self-concept-moderates-support-emotion-paths.md) [+M] — an instructional effect differs with it
 - [English academic self-concept did not significantly moderate the association of social support with foreign language boredom](../claims/boredom-path-not-moderated-by-self-concept.md) [-M] — an instructional effect differs with it
+- [A single BIM session produced higher information literacy, expressive communication, and teamwork scores than lecture-based learning in public health students](../claims/single-bim-session-improves-three-competences.md) [+W] — measured as an outcome of the instruction studied
+- [Literacy difficulties moderate the trait anxiety–academic performance link, intensifying its negative association](../claims/literacy-difficulties-moderate-trait-anxiety-gpa.md) [~M] — an instructional effect differs with it
 
 ## Measures
 - **Test of Functional Health Literacy in Adults (TOFHLA)** (Parker et al., 1995): This test measures the reading comprehension and numeracy skill components of health literacy in adults using real-life health situations.

@@ -61,3 +61,4 @@ Reliability and validity analysis based on the second-round importance ratings o
 - [IAFEE-ECS® achieved content validity with S-CVI of 0.89 in round one and 0.92 in round two](iafee-ecs-content-validity-s-cvi-rounds.md) — related
 - [Expert-rated content validity of the scale is strong, with item-level CVI of 0.80 to 1.00 and scale-level CVI of 0.96](endoscopy-nurse-scale-content-validity.md) — related
 - [Expert consultation yields high content validity for the scale: item CVI 0.78–1.00 and overall scale CVI 0.91](palliative-communication-scale-cvi-091-content-validity.md) — related
+- [Blinded independent radiographic assessment of implant alignment showed good or excellent interrater agreement, with ICC ranging from 0.77 to 0.96](blinded-radiographic-assessment-icc-good-excellent.md) — related

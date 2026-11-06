@@ -55,3 +55,6 @@ PROCESS macro (Model 4) mediation analysis with 5,000 bootstrap resamples on the
 - [Concurrent sleep problems at age 11–13 do not increase the risk of poor academic performance after controlling for mental health problems](concurrent-dims-no-adjusted-risk.md) — related
 - [Persistent sleep problems (DIMS at both ages 7–9 and 11–13) increase the risk of poor academic performance even after adjusting for mental health, gender, pubertal status and SES](persistent-dims-poor-academic-performance.md) — related
 - [Behavioral health conditions and school processes partially mediate the association between cumulative ACEs and school outcomes](aces-school-outcomes-mediated-behavioral-health-school-processes.md) — related
+- [Mediation of the screen time–performance relationship through BMI and subjective health perception was not verified](bmi-subjective-health-mediation-not-verified.md) — related
+- [Screen time is significantly negatively correlated with Chinese, mathematics, English and overall academic performance among Chinese junior middle school students](screen-time-negative-academic-performance-ceps.md) — related
+- [Social relationship construction mediates the screen time–performance relationship more strongly than physical and mental health](social-constructs-stronger-mediator-than-health.md) — related

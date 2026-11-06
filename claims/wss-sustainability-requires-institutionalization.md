@@ -72,3 +72,4 @@ Authors' interpretation in the Interpretive Summary section, not a tested result
 - [Multi-stakeholder school interventions yielded broader and more durable outcomes than school-only models, though the pattern was not universal](multi-stakeholder-school-interventions-durable-outcomes.md) — related
 - [The Children's University intervention was feasible to run with school-leader support, but seven schools withdrew citing performance-target pressures and limited time](cu-implementation-feasibility-and-withdrawals.md) — related
 - [Community partnerships steadily withdrew from the school after the intervention project lost support](partnership-withdrawal-after-project.md) — related
+- [Voluntary facilitator recruitment raised concerns about sustainability, fairness, and encroachment on research and promotion time](voluntary-cbl-recruitment-sustainability-concerns.md) — related

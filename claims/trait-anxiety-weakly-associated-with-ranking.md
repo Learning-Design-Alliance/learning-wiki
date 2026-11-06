@@ -55,3 +55,4 @@ Subgroup analysis of students with extreme STAI-Y trait scores comparing final n
 - [Students with very low trait anxiety report more sport, less benzodiazepine use and less psychological follow-up than those with high/very high trait anxiety.](low-trait-anxiety-coping-profile-differences.md) — related
 - [State and trait anxiety show only a moderate correlation, suggesting situational exam stress can acutely elevate anxiety even in students not habitually anxious.](state-trait-anxiety-moderate-correlation.md) — related
 - [Trait anxiety is higher among medical than psychology students, with the gap larger in fifth year, though the field-by-year interaction is not statistically significant](medical-students-higher-trait-anxiety-than-psychology.md) — related
+- [Trait anxiety total score correlated negatively and weakly with nasotracheal aspiration skill (r = −0,182)](trait-anxiety-negative-correlation-nasotracheal-aspiration.md) — related

@@ -57,6 +57,7 @@ The article's central design recommendation is a principled division of labor: a
 - [Evaluate LLM data extraction through a staged meaningful-human-control sequence before integrating it into evidence synthesis](staged-meaningful-human-control-evaluation.md)
 - [Use ChatGPT-4.0 as an adjunct practice tool for medical applicants preparing for the AAMC SJT, with human judgment retained](chatgpt-4-adjunct-sjt-preparation-tool.md)
 - [Human-in-the-loop quality control for AI-generated educational content](human-in-the-loop-ai-content-quality-control.md)
+- [Design blended learning environments that allocate AI tools to foundational knowledge and human expertise to conceptually challenging areas](blended-ai-human-allocation-strategy-medical-education.md)
 
 ## Examples
 -

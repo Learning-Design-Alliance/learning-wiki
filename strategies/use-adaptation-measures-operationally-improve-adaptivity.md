@@ -44,6 +44,7 @@ The article recommends using its three adaptation measures as operational diagno
 
 - [Diagnostic Pre Assessment](diagnostic-assessment.md)
 - [Use interventional queries to inform support decisions in adaptive assessment](interventional-queries-adaptive-assessment-support.md)
+- [Administer the cognitive load self-report tool after simulation debriefing to identify excessive strain and adapt simulation teaching](cognitive-load-tool-informs-simulation-teaching-adaptation.md)
 
 ## Examples
 -

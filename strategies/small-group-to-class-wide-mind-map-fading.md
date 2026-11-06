@@ -47,7 +47,8 @@ An implementable two-step recipe: each group reads assigned articles and builds 
 - [Postgraduate immunology students report that small-group mind maps encouraged idea sharing (87% agree or strongly agree)](../claims/pbl-small-group-mind-maps-idea-sharing-immunology.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Case-based ultrasound teaching sequence with pre-class case materials, in-class image progression analysis, and mind-map construction](cbl-mindmap-ultrasound-teaching-sequence.md)
 
 ## Examples
 -

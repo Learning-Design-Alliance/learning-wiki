@@ -53,3 +53,4 @@ Measurement invariance testing via configural, metric, and scalar multi-group CF
 - [Only 10 of 211 SRL scale items were feasible to operationalize as learning analytics indicators in an LMS](ten-of-211-srl-items-feasible-lms-indicators.md) — related
 - [Multigroup CFA supports configural and loading invariance across gender groups, but scalar and strict invariance could not be evaluated conclusively](multigroup-cfa-gender-invariance-partial.md) — related
 - [Measurement invariance of the cognitive load, adaptability, and innovation model holds across teacher subgroups](cl-measurement-invariance-teacher-subgroups.md) — related
+- [SSE scale shows partial measurement invariance across Slovak- and English-program students, with Items 9 and 12 non-invariant](sse-partial-measurement-invariance-items-9-12.md) — related

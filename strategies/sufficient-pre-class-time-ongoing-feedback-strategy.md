@@ -44,6 +44,7 @@ The article recommends that 'To optimize teaching outcomes, the study recommends
 
 - [Provide preparatory materials, scenario introductions, adequate practice time, and constructive feedback in simulation teaching](simulation-teaching-preparation-practice-feedback.md)
 - [Implement CBL successfully by ensuring pre-class preparation, authentic progressive cases, dual-competence facilitators, adequate time, and process-plus-outcome assessment](cbl-implementation-success-conditions.md)
+- [Case-based ultrasound teaching sequence with pre-class case materials, in-class image progression analysis, and mind-map construction](cbl-mindmap-ultrasound-teaching-sequence.md)
 
 ## Examples
 -

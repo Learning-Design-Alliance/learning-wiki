@@ -51,6 +51,7 @@ The article proposes using LLMs such as ChatGPT to rapidly produce first-draft c
 
 - [Generative-AI-assisted content creation with domain-expert validation for adaptive tutoring systems](genai-assisted-content-creation-expert-validation.md)
 - [Teachers iteratively refine LLM-simulated student ideas with classroom context before instructional use](iterative-teacher-llm-refinement-strategy.md)
+- [Use AI-generated disease images as a standardized supplement to limited real clinical teaching materials](ai-generated-images-as-standardized-teaching-supplement.md)
 
 ## Examples
 -

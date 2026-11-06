@@ -47,3 +47,4 @@ Descriptive characteristics of the 233-nurse online convenience sample (Table 1)
 
 ## Related Claims
 - [AI literacy and formal AI training remain low among nursing and health-professions students, though attitudes are largely positive](low-ai-literacy-positive-attitudes-health-students.md) — a broader claim this one bears on
+- [Surgical nurses in this sample acquired most NPWT knowledge informally, with only 19% reporting formal training](npwt-knowledge-informal-sources-nurses.md) — related

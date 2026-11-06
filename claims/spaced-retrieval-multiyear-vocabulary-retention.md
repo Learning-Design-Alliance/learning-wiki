@@ -60,3 +60,4 @@ The review attributes this to Bahrick, Bahrick, Bahrick and Phelps (1993), descr
 - [Distributed practice outperforms massed practice for long-term learning, with a possible foreign-language exception](distributed-practice-beats-massed-with-exception.md) — related
 - [Individual differences were not associated with the retention benefit of relearning over restudying](individual-differences-null-relearning-retention-benefit.md) — related
 - [Attempted recall during vocabulary study showed no demonstrable superiority over mere reading and re-reading in adult learners](recall-no-superiority-vocabulary-learning-thorndike.md) — reports the opposite
+- [Prior research indicates expanding-interval spaced schedules yield better retention than contracting or fixed intervals, and any spaced repetition outperforms massed learning](expanding-schedules-better-retention-than-fixed.md) — a narrower finding that bears on this claim

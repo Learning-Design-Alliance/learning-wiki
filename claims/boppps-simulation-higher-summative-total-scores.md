@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-06
 sources:
   - id: wu-bingshu-2025
     resource: "https://doi.org/10.1186/s12909-025-08244-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Wu Bingshu 2025: the intervention came bundled with another change (case-based learning, scenario simulation, MOOCs, and blended online-offline learning) (read from the study by two models, 2026-11-05)
 
 ## Subclaims
@@ -51,3 +52,4 @@ Controlled comparison of 38 experimental versus 38 control students in a randomi
 - [BOPPPS-based blended teaching produces significantly higher overall course scores than traditional lecture-based teaching](boppps-higher-overall-course-scores.md) — related
 - [BOPPPS-based blended teaching produces significantly higher final examination and process assessment scores than traditional lecture-based teaching](boppps-higher-final-exam-process-assessment.md) — related
 - [Blended MOOC-virtual simulation teaching produces higher Structured Clinical Skills Assessment scores than traditional teaching](mooc-virtual-simulation-higher-clinical-skills-assessment-scores.md) — related
+- [The HIS-based BOPPPS teaching model group scored significantly higher than the traditional teaching group on case reading and total end-of-term exam scores in both semesters](boppps-his-higher-case-reading-total-scores.md) — related

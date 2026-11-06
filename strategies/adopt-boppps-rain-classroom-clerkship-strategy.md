@@ -53,6 +53,7 @@ Based on their findings, the authors conclude that the BOPPPS model integrated w
 
 - [Implement blended BOPPPS teaching by combining online platform phases with the six BOPPPS steps](blended-boppps-implementation-strategy.md)
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
+- [Blend VSO with offline practical teaching using the BOPPPS model for high-risk laboratory skills](vso-boppps-blended-teaching-strategy.md)
 
 ## Examples
 -

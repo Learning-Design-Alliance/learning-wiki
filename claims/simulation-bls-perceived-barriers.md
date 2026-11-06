@@ -54,3 +54,4 @@ Qualitative thematic finding from focus group discussions with 40 nursing studen
 - [Students perceive virtual simulation as creating equitable, low-pressure, psychologically safe environments that enable autonomy and confidence](virtual-simulation-low-pressure-psychological-safety.md) — related
 - [Students' narratives frame simulations ambivalently: anxiety and performance insecurity coexist with perceived safe space for learning from mistakes](ambivalent-narratives-simulation-anxiety-safe-space.md) — a broader claim this one bears on
 - [The near-peer structure of the track was perceived to create a psychologically safe learning environment that facilitated peer teaching.](pedagogical-internship-track-near-peer-safety.md) — related
+- [Educators' stance helped navigate students towards a benign, pedagogically useful framing of observation and anxiety during simulation](educator-stance-benign-observation-simulation.md) — related

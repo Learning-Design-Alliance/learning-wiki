@@ -53,3 +53,4 @@ Post-test AVEM work-engagement results in the waitlist-controlled study; Table 3
 - [MBSR training produces large between-group increases in teachers' trait mindfulness at post-test and 3-month follow-up](mbsr-large-mindfulness-gains-teachers.md) — related
 - [In one small non-randomised waitlist-controlled study, MBSR improved teachers' self-reported self-efficacy and emotion regulation, with mixed effects across self-regulation competences](mbsr-improves-self-regulation-competences.md) — related
 - [Changes in mindfulness at post-test mediate training effects on self-regulation at 3-month follow-up](mindfulness-mediation-teacher-self-regulation.md) — related
+- [Primary school teachers’ emotional exhaustion scores fell from pretest to post-test after happiness training and remained lower at follow-up, in one uncontrolled pre-post study](happiness-training-reduces-emotional-exhaustion.md) — related

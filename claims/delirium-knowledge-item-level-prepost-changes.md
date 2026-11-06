@@ -48,3 +48,4 @@ Descriptive item-level analysis of the 46-item questionnaire in the same pilot s
 - [Some achievement-test items on ecosystem elements, biodiversity, and pollution causes were answered correctly by low percentages of experimental students](low-percentage-at-items-remaining-gaps.md) — related
 - [In a pilot pre–post study, completing a delirium e-learning program increased nurses' delirium-specific knowledge from a median of 32 to 40 correct answers (r = 0.86)](elearning-delirium-knowledge-gain-nurses.md) — related
 - [Nurses' largest knowledge gaps concern the non-punitive reporting principle and event classification rather than procedural reporting requirements](ane-knowledge-gaps-reporting-principle.md) — related
+- [Knowledge test performance rose significantly from pre- to post-VR training (46.7% to 86.7%) in one uncontrolled pre-post study](vr-chest-tube-knowledge-gains-significant.md) — related

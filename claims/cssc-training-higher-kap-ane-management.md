@@ -50,3 +50,4 @@ Cross-sectional survey of 931 nurses across five Chinese hospitals; Mann-Whitney
 - [CSSC-trained nurses outperform untrained nurses on every KAP item subgroup, from ANE definitions to post-event psychological care](cssc-subgroup-item-advantages.md) — a narrower finding that bears on this claim
 - [KAP scores vary across demographic and professional characteristics (age, experience, education, employment type, hospital grade, event experience) in unadjusted analyses](kap-demographic-subgroup-variation.md) — related
 - [Less experienced nurses (< 10 years) and untrained nurses are more likely to report insufficient preparedness](less-experienced-nurses-insufficient-preparedness.md) — related
+- [Trained nurses outperformed untrained nurses on every one of the 21 approved educational topics](trained-nurses-higher-all-21-topics.md) — related

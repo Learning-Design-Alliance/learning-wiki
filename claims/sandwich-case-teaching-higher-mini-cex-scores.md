@@ -54,3 +54,4 @@ Mini-CEX was applied after teaching on a 9-point scale per dimension, with score
 - [AI-Mentor pilot yields the largest gains in reasoning-aligned Mini-CEX domains, notably clinical judgment](ai-mentor-largest-gains-reasoning-domains.md) — related
 - [Integrated clinical pathway and case-based teaching yields higher Mini-CEX clinical skills scores than traditional teaching](clinical-pathway-cbt-higher-mini-cex-scores.md) — related
 - [Combined sandwich-case teaching was associated with lower learning stress among breast surgery interns, with no significant differences in economic or practical pressure](sandwich-case-teaching-lower-learning-stress.md) — related
+- [Residents in the combined Mini-CEX, CBL and mind-mapping group reported higher satisfaction with teaching than traditionally trained residents across all seven questionnaire items](higher-teaching-satisfaction-cbl-mindmap-minicex-group.md) — related

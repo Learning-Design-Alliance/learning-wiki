@@ -45,6 +45,7 @@ The authors recommend that "Ethics rounds in work settings could effectively sup
 ## Related Strategies
 
 - [Prioritize experiential and reflective ethics education over didactic approaches in nursing curricula and continuing professional development](experiential-reflective-ethics-education-strategy.md)
+- [Provide continuous ethics education from undergraduate studies through professional development to support nurses' moral competence](continuous-ethics-education-nursing.md)
 
 ## Examples
 -

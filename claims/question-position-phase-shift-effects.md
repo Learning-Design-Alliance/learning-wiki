@@ -51,3 +51,4 @@ Linear mixed-model results from the eye-tracking experiment (n = 47); question-f
 - [Linguistic problem difficulty and lower linguistic abilities increase attention on situational text during the first solution phase of word-problem solving](linguistic-difficulty-first-phase-text-attention.md) — related
 - [Numerical problem difficulty and lower mathematical abilities increase attention on numbers during the second solution phase](numerical-difficulty-second-phase-number-attention.md) — related
 - [Numerical difficulty and mathematical abilities also affect attention on situational text in the second phase (attention-crossover supporting integrated models)](attention-crossover-math-to-text-integrated-models.md) — related
+- [No ambient-to-focal shift was found within events: gaze parameters did not differ across event phases or between the first and second five seconds](no-ambient-focal-shift-within-events.md) — related

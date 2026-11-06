@@ -67,3 +67,4 @@ Three-level random-effects meta-analysis (REML, metafor in R) of 53 studies yiel
 - [Three-way interaction of group, gender and pre-achievement favored high-achievement males in the experimental group](three-way-interaction-group-gender-level.md) — related
 - [Male students significantly outperformed female students in listening success in most film categories](male-students-outperform-females-listening.md) — related
 - [Female participants achieved higher diagnostic accuracy than male participants across all seven cases, with the largest gaps on the most challenging cases](female-higher-diagnostic-accuracy-oral-cases.md) — reports the opposite
+- [Gender disparity in emergency self-efficacy favors males, but the behavioral capability difference is not statistically significant](gender-gap-emergency-self-efficacy-not-capability.md) — related

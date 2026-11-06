@@ -60,6 +60,7 @@ The article recommends adopting RCDP in nursing education because it provides im
 - [Enhance VR-based simulation debriefing with automated checklists, multiplayer platforms, and hybrid feedback approaches](vr-simulation-feedback-enhancement-strategy.md)
 - [Provide immediate formative feedback from faculty and embedded participants after each OSCE station](immediate-formative-feedback-after-each-osce-station.md)
 - [Provide post-exam feedback with correct answers and guideline references to increase educational value](post-exam-feedback-references-strategy.md)
+- [Embed immediate corrective feedback in virtual simulation practice sessions](real-time-corrective-feedback-virtual-simulation.md)
 
 ## Examples
 -

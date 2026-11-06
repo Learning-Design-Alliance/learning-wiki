@@ -121,3 +121,4 @@ Contrast finding from the same reflection analysis: when staff assumed too much 
 - [Iterative expert review consolidated overlapping subcriteria and broadened the Process criterion to include reflection and metacognition](iterative-review-consolidated-subcriteria-broadened-process-criterion.md) — related
 - [Active involvement in tailoring MECC training content builds ownership that facilitates cascade responsibility, particularly for trainers whose delivery is not part of their role](ownership-tailoring-facilitates-cascade.md) — a narrower finding that bears on this claim
 - [Collaborative social dynamics in learning groups enable agentic learning by making challenges a shared responsibility](collective-social-dynamics-enable-agentic-learning.md) — related
+- [The clinical EVT team leader facilitates collaboration inconsistently, in contrast with leadership behaviour observed in simulation](evt-leader-inconsistent-clinical-presence.md) — related

@@ -70,6 +70,7 @@ The review enumerates crucial considerations for maximizing CBL's potential: "en
 - [Structure integrated CBL-MDT interventions as five curated cases with pre-class self-directed learning, small-group analysis, simulated MDT discussion, and structured feedback.](cbl-mdt-five-case-structured-intervention-blueprint.md)
 - [Menu of active-learning strategies deployed in case sessions, matched to curricular timing and objective level](active-learning-strategies-menu-pharmacology-cases.md)
 - [When implementing DwGJ-based simulation with CBL, structure teaching hours and expand trained instructor capacity](dwgj-cbl-implementation-recommendations.md)
+- [Prepare CBL facilitators with clear learning outcomes, structured case handbooks, role-play training, and continuity of facilitator across a case](cbl-facilitator-preparation-strategy.md)
 
 ## Examples
 -

@@ -41,7 +41,8 @@ The review recommends that future studies focus on gathering additional validity
 - [Laparoscopic assessment tools dominate while open and robotic assessment tools are scarce](../claims/assessment-tool-abundance-laparoscopic-vs-open-robotic.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Gather multicenter expert datasets and strengthen annotation criteria to enable AI-based skill assessment in robotic cardiac surgery](multicenter-data-strategy-skill-assessment-ai.md)
 
 ## Examples
 -

@@ -51,6 +51,7 @@ The authors recommend systematically incorporating dental trauma education into 
 - [Incorporate more clinical exposure and preclinical simulations to improve dental students' TDI management knowledge and confidence.](more-clinical-exposure-preclinical-simulations-tadi.md)
 - [Integrate structured, interdisciplinary dental trauma training into vocational health curricula using modular, problem-based and digital formats](structured-dental-trauma-curriculum-integration-strategy.md)
 - [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
+- [Prioritize dental trauma education in the nursing curriculum, delivered by dentists](dental-trauma-education-nursing-curriculum-strategy.md)
 
 ## Examples
 -

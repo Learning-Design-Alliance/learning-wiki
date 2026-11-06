@@ -44,6 +44,7 @@ The article demonstrates using a Delphi methodology to generate consensus among 
 - [Use a two-round modified Delphi process with specialty Scientific Committees and a predefined consensus threshold to build national competency catalogs](modified-delphi-national-competency-catalog-strategy.md)
 - [Use a two-phase modified Delphi approach with a purposive voting panel to prioritize competencies](two-phase-modified-delphi-competency-prioritization.md)
 - [Multistage consensus process combining nominal-group scope definition, two-stage blinded screening, a modified Delphi process with anonymous voting plus structured online discussion, and blinded categorisation](multistage-delphi-core-set-process.md)
+- [Iterate simulation scenarios through expert Delphi rounds plus a student pilot, adding clarity, printed results, and structured assessment](iterative-scenario-refinement-experts-pilot.md)
 
 ## Examples
 -

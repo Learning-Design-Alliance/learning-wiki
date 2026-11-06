@@ -91,3 +91,4 @@ Meta-regression moderator test on the gS factor; the female advantage persisted 
 - [Gender differences in fluid intelligence (gF) on the WISC are negligible, and newer fluid-reasoning subtests show no difference or favour females](wisc-fluid-intelligence-no-gender-difference.md) — related
 - [Children with ADHD perform worse than controls on WISC-IV Coding but not on Coding Copy, indicating deficits beyond graphomotor speed](adhd-coding-deficit-beyond-graphomotor-speed.md) — related
 - [Female participants tended to outperform male participants in online SRL, while no substantial age differences were found](gender-difference-online-srl-females.md) — related
+- [Females outperformed males on the HAM-SJT with an effect size of d = .37, and gender was controlled in the regression models](gender-difference-ham-sjt-d37.md) — related

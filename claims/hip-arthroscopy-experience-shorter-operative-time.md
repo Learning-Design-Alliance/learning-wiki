@@ -57,3 +57,4 @@ Random-effects meta-analysis of seven studies reporting operative time, comparin
 - [Lymphadenectomy was associated with a statistically significant increase in console time (estimated difference 18.0 min, 95% CI 6.3–29.6)](lymphadenectomy-increases-console-time.md) — related
 - [Operative time decreased significantly across the learning curve, from 27.1 to 20.4 minutes between phases](operative-time-reduction-thd-anolift.md) — related
 - [Odds of early complications decreased with institutional case number, independent of individual surgeon differences](complication-odds-decrease-institutional-experience.md) — related
+- [Focused PFA training is associated with a lower 6-year revision rate after patellofemoral arthroplasty (8% for trained trial surgeons vs 26% for nontrial surgeons)](focused-pfa-training-lower-six-year-revision-rate.md) — a narrower finding that bears on this claim

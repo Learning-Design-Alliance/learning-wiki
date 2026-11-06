@@ -48,3 +48,4 @@ Facilitator postsession evaluation (10 of 13 responding, 76.9% response rate) wi
 - [In a one-year PBL deployment, the AI-assisted pipeline was associated with instructor preparation time falling from an average of eight hours to two hours per instruction (an estimated 75% reduction).](ai-pipeline-75-percent-prep-time-reduction.md) — related
 - [A case-based learning module on pediatric bacterial meningitis produced statistically significant pre/post knowledge gains in postgraduate learners](cbl-pediatric-meningitis-knowledge-gains.md) — related
 - [Learners rated the CBL module highly, with 100% reporting learning objectives were met and 93.5% endorsing anticipated practice change](cbl-pediatric-meningitis-learner-ratings.md) — related
+- [High-quality case handbooks with clear learning outcomes and role-play facilitator training were highly valued supports for CBL facilitation](cbl-handbooks-and-role-play-training-valued.md) — related

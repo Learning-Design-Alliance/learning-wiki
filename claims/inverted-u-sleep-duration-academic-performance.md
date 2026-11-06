@@ -54,3 +54,4 @@ OLS regression on the observational dataset of Shanghai eighth-graders who provi
 - [Threshold regression corroborates the inverted U: performance gains below 7–9 h and significantly negative coefficients beyond the second threshold](threshold-models-sleep-performance.md) — related
 - [Sleep duration contributes more to variance in Chinese, mathematics, and science performance than to English and arts, but less than socioeconomic status in every subject](shapley-sleep-contribution-by-subject.md) — related
 - [Optimal sleep duration varies by subject: about 8–9 hours for mathematics and 7–8 hours for Chinese, English, science, and arts](subject-specific-optimal-sleep-duration.md) — a narrower finding that bears on this claim
+- [Each additional hour of nightly sleep was associated with 49% higher odds of entrance exam success](sleep-duration-associated-entrance-success.md) — related

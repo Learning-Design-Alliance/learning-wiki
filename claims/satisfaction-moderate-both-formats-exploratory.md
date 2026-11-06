@@ -47,3 +47,4 @@ Exploratory descriptive finding from two researcher-designed 10-item format-spec
 ## Related Claims
 - [Teacher satisfaction with SBI did not differ significantly between experienced and novice implementer cohorts](sbi-teacher-satisfaction-no-difference.md) — related
 - [Students in experienced-teacher (Cohort 1) classrooms reported significantly higher satisfaction with SBI than students in novice-teacher (Cohort 2) classrooms](sbi-student-satisfaction-cohort-difference.md) — related
+- [Mean ratings for game length, difficulty, and gameplay cluster near the ideal midpoint, which the authors interpret as a balanced design](nicu-serious-game-balanced-design-ratings.md) — related

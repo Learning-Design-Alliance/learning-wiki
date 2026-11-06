@@ -96,3 +96,5 @@ Longitudinal multilevel analysis (HLM) of weekly self-reports from 194 universit
 - [After the Student Success Course, test anxiety significantly decreased while intrinsic goal orientation and self-efficacy significantly increased, but task value and control beliefs did not improve](ssc-motivation-changes-test-anxiety-self-efficacy.md) — related
 - [Students describe EI as a mechanism for managing academic stress through time management and mastery-oriented cognitive reframing](ei-stress-management-time-mastery-reframing.md) — related
 - [Self-efficacy was most strongly associated with monitoring strategy use, while learning anxiety was most strongly inversely associated with planning.](dimension-specific-psychological-correlates-metacognition.md) — related
+- [Learning engagement dimensions correlate negatively with learning anxiety and positively with academic self-efficacy](engagement-anxiety-negative-correlations.md) — related
+- [Literacy difficulties moderate the trait anxiety–academic performance link, intensifying its negative association](literacy-difficulties-moderate-trait-anxiety-gpa.md) — related

@@ -96,3 +96,4 @@ Discussion-level interpretation (attributed by the review to Hamilton et al., 20
 - [Augmented reality tabletop exercises enhanced immersion and engagement but showed limited usability](ar-tabletop-exercises-enhanced-engagement-limited-usability.md) — related
 - [Perceived usefulness of VR correlated with perceived knowledge impact, with the strongest association between immersion and understanding (R = 0.73)](vr-perception-correlations-immersion-understanding.md) — related
 - [Preclass 3D digital simulation before hands-on carving produces significantly higher practical carving test scores than traditional instruction alone in dental morphology courses](3d-simulation-preclass-improves-carving-test-scores.md) — related
+- [Students perceived desktop VE-based simulation as a post-class complement that reinforces, rather than replaces, conventional PowerPoint learning](dvsim-complements-powerpoint-learning.md) — a narrower finding that bears on this claim

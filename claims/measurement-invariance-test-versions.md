@@ -53,3 +53,4 @@ Multigroup SEM invariance testing across WISC-IV/V, WRAT-4/WIAT-3/4 and SNAP/CBR
 - [MAP tests show metric invariance across grades for all studied tests except Michigan Mathematics tests](map-cat-metric-invariance-across-grades.md) — related
 - [The three-dimensional teacher-reported model does not hold in all countries, so configural invariance was not achieved and cross-country comparison of teacher-perceived instructional quality was hardly possible](teacher-model-configural-invariance-fails.md) — related
 - [Trust and intrinsic motivation means rose across the semester while extrinsic motivation stayed relatively stable, and longitudinal measurement invariance held across waves](trust-intrinsic-motivation-rose-across-waves-invariance-held.md) — related
+- [SSE scale shows partial measurement invariance across Slovak- and English-program students, with Items 9 and 12 non-invariant](sse-partial-measurement-invariance-items-9-12.md) — related

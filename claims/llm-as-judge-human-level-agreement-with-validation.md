@@ -63,3 +63,4 @@ The field note's synthesis of evaluation methods describes the custom automated 
 - [The cross-family LLM judge panel agrees with human domain experts on every judged axis, reaching the expert ceiling on answer-holding](educlaw-bench-judge-panel-human-validation.md) — a narrower finding that bears on this claim
 - Five judges classifying 63 test units reached average inter-judge correlation of 0.542 ± 0.019 on the two scales — related
 - [The test's exercises were validated by six expert judges who reached practical agreement after modification](six-judge-validity-agreement-test-exercises.md) — a narrower finding that bears on this claim
+- [A handmade low-tech thoracentesis simulator costing US$18 per unit was judged suitable by all three expert judges in the first evaluation round](thoracentesis-simulator-validated-low-cost-us18.md) — a narrower finding that bears on this claim

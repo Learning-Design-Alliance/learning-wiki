@@ -42,6 +42,7 @@ LOCIT (Lesson Observation followed by the critical incident technique) pairs con
 
 - [Reflection with Others](reflection_with_others.md)
 - [Peer Observation](peer-observation.md)
+- [Guided reflection sessions built on video-recorded teaching with smart-ring arousal episodes (critical incident technique and stimulated recall)](arousal-episode-guided-reflection-strategy.md)
 
 ## Examples
 -

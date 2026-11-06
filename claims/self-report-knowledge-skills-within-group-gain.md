@@ -57,3 +57,4 @@ RCT of 227 primary health care professionals comparing a VP game intervention to
 - [Simulation-based CARE handover training produces a large increase in nurses' perceived handover competency from pretest to posttest](simulation-care-training-increases-perceived-handover-competency.md) — related
 - [VP training does not enhance knowledge about mental disorders](vp-training-no-knowledge-gains.md) — related
 - [Nursing students' and professionals' NIV knowledge rose from 82.2% correct preintervention to 90.2% postsimulation after a combined theoretical-practical and simulation-based intervention, in one uncontrolled pre-post study](niv-training-knowledge-gain-82-to-90-percent.md) — related
+- [Game ratings do not differ significantly between health care professionals and students and the general public, though playtime is shorter among health care respondents](no-rating-differences-hcp-versus-general-public.md) — related

@@ -50,3 +50,4 @@ Spearman correlation across the full sample (Fig 3 reports n = 62) between STAI 
 - [Summative OSCE scores were numerically higher in the peer-led mock OSCE group but did not reach statistical significance](mock-osce-osce-performance-non-significant-trend.md) — related
 - [OSCE results were not related to anxiety levels in either cohort](osce-results-unrelated-to-anxiety.md) — possibly the same claim (merge candidate)
 - [State anxiety scores show no significant relationship with ROM practice skill scores in either video or control group](no-correlation-state-anxiety-rom-skill.md) — related
+- [State anxiety before simulation did not correlate significantly with self-reported simulation effectiveness in fifth-year medical students](no-significant-correlation-stai-simulation-effectiveness.md) — related

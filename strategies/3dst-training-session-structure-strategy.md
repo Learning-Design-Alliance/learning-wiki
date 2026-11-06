@@ -50,7 +50,8 @@ The article's training recipe pairs a short didactic introduction with self-pace
 - [Participants rated the 3D Stapes Trainer most useful for developing the visuomotor coordination needed for endoscopic stapes surgery, with stapedotomy hole creation and prosthesis placement judged most reproducible versus cadaver](../claims/3dst-visuomotor-coordination-usefulness.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Show a video of the simulated procedure before hands-on simulation](presimulation-procedure-video-strategy.md)
 
 ## Examples
 -

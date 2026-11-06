@@ -55,3 +55,5 @@ Confirmatory factor analysis of the 32-item SAICS scale with 448 students aged 1
 - [An ACO-derived 12-item short form (GenAI-SRL-12) retains the full scale's factor structure, reliability, and construct equivalence](genai-srl-12-short-form-retains-psychometrics.md) — related
 - [The SAICS measurement model is consistent across male and female students, with changes in CFI below 0.01 in multiple-group invariance tests](saics-measurement-invariance-gender.md) — related
 - The hypothesised three-variable structural model fits the survey data well across printed fit indices — related
+- [Adapted PCE and MSLQ scales show good model fit and internal consistency for measuring collective and self-efficacy in simulation contexts](adapted-pce-mslq-scales-valid-in-simulation-context.md) — related
+- [Confirmatory factor analysis supports a three-factor structure for the Turkish-adapted Simulation Self-Report Cognitive Load Measurement Tool 2.0 with acceptable-to-good fit](turkish-clt-tool-cfa-three-factor-fit.md) — related

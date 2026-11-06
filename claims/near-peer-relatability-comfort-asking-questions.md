@@ -3,6 +3,7 @@ type: claim
 title: Near-peer teaching is experienced as relatable and lowers the barrier to asking questions compared with faculty-led sessions
 description: Near-peer teaching is experienced as relatable and lowers the barrier to asking questions compared with faculty-led sessions
 id: near-peer-relatability-comfort-asking-questions
+aliases: [near-peer-safer-learning-climate-than-faculty]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -18,16 +19,27 @@ sources:
     i: "?"
     kind: qualitative
     rigour: 3
+  - id: hari-roman-md-2025
+    resource: "https://doi.org/10.1097/ACM.0000000000006003"
+    title: "Hari Roman MD, MME; Oppliger Sarah; Dolmans Diana H.J.M. PhD; Huwendiek Sören MD, MME, PhD; Stalmeijer Renée E. MSc, PhD. (2025). Comparison of Practical Skills Teaching by Near-Peers and Faculty. Academic Medicine. https://doi.org/10.1097/ACM.0000000000006003"
+    author: Hari Roman MD, MME; Oppliger Sarah; Dolmans Diana H.J.M. PhD; Huwendiek Sören MD, MME, PhD; Stalmeijer Renée E. MSc, PhD
+    q: 2
+    i: "?"
+    kind: qualitative
+    rigour: 3
 ---
 
 # Near-peer teaching is experienced as relatable and lowers the barrier to asking questions compared with faculty-led sessions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · qualitative `r3` · `q2`
+> **Evidence** · 2 studies · 2 qualitative `r3` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
+
 `q2 i?` Students described near-peers as relatable teachers who know what it is like to struggle with the content, and reported a more open environment for asking questions than with senior faculty. [→ Cardoso Pinto Alexandra M. 2026](#cardoso-pinto-alexandra-m-2026)
+
+`q2 i?` Students and near-peers perceived near-peer skills teaching as less formal and safer, encouraging students to request clarification and ask questions, whereas faculty formality sometimes made students hesitate to ask questions. [→ Hari Roman MD 2025](#hari-roman-md-2025)
 
 ## Evidence
 
@@ -41,10 +53,22 @@ Qualitative interview finding from the sense-of-community theme. Participants de
 
 > "I feel like the environment was a bit more open in order to ask questions, not feel like pressured by having someone really like (…) senior, you know, kind of like maybe judging you about the questions"
 
+### Hari Roman MD 2025
+
+Hari Roman MD, MME; Oppliger Sarah; Dolmans Diana H.J.M. PhD; Huwendiek Sören MD, MME, PhD; Stalmeijer Renée E. MSc, PhD. (2025). Comparison of Practical Skills Teaching by Near-Peers and Faculty. Academic Medicine. https://doi.org/10.1097/ACM.0000000000006003
+
+`q2 · i?` · `qualitative · r3`
+
+Qualitative focus-group study (4 student FGs, n = 26, years 3–6; 4 near-peer FGs, n = 22) at the University of Bern, Sept–Dec 2022, using vignette-guided reflexive thematic analysis. Participants reported that "the learning climate in NPT as less formal and safer, which encouraged students to request clarification and ask questions."
+
+> "Near-peers and students described the learning climate in NPT as less formal and safer, which encouraged students to request clarification and ask questions."
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [The near-peer structure of the track was perceived to create a psychologically safe learning environment that facilitated peer teaching.](pedagogical-internship-track-near-peer-safety.md) — possibly the same claim (merge candidate)
 - [Peer-assisted ultrasound instruction is comparably effective to faculty-led instruction in most comparative studies](peer-teaching-ultrasound-comparable-to-faculty.md) — related
 - [The near-peer bootcamp was feasible to coordinate as an alternative to faculty-led teaching](near-peer-bootcamp-feasibility.md) — related
@@ -53,3 +77,7 @@ Qualitative interview finding from the sense-of-community theme. Participants de
 - [Peer-assisted ECE produced higher post-test knowledge and OSPE scores than faculty-assisted ECE in one randomized trial](peer-assisted-ece-higher-post-test-ospe.md) — related
 - [Perceived collaboration among peers positively predicts academic engagement, but competitive climates can undercut collaboration](peer-collaboration-predicts-engagement.md) — related
 - [Learners reported the peer-led session created a question-friendly, low-intimidation environment compared to faculty-led training](peer-led-low-intimidation-environment.md) — possibly the same claim (merge candidate)
+- [Near-peers tend to answer student questions directly, while faculty better stimulate students to think critically about unanswered questions and how to fill competence gaps](faculty-stimulate-thinking-on-competence-gaps.md) — related
+- [Participants attributed the teaching differences to near-peers' social proximity and recent learning experience versus faculty's clinical experience and standing](social-proximity-attribution-of-teaching-differences.md) — related
+- [Near-peer teaching is oriented toward the formal curriculum and students' learning needs, producing examination-focused, tailored explanations, while faculty orient teaching toward clinical practice](near-peer-curriculum-versus-faculty-clinical-orientation.md) — related
+- [Near-peers' high social congruence has ambiguous effects: it enables a safe climate but makes leading discussions and sustaining productive tension harder](ambiguous-effects-of-social-congruence-in-npt.md) — related

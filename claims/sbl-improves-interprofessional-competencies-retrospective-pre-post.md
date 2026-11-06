@@ -53,3 +53,4 @@ Retrospective pre-post study of N = 540 first-year health students using the ICC
 - [After at least 6 months of navigator participation, students showed statistically significant knowledge improvements across multiple food insecurity domains (p < .001 for each)](flip-significant-knowledge-gains-six-months.md) — related
 - [Self-perceived confidence improved significantly across all ten surveyed pediatric CPR and interprofessional collaboration items (p < 0.001 each)](ipstar-confidence-gains.md) — related
 - [Weight-related communication skills scores rose from pre-test to post-test among health care professionals in one uncontrolled pre-post study of VITAL-COMS training](vital-coms-improved-self-assessed-communication-skills.md) — related
+- [Competence scores in six dimensions showed an upward trend as the number of BIM interventions increased](bim-dose-response-trend-six-dimensions.md) — related

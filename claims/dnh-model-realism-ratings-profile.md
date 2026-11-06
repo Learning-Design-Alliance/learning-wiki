@@ -48,3 +48,4 @@ Expert realism evaluation on a 7-point Likert scale (Table 2), with five additio
 ## Related Claims
 - [Experts rated the DNH model strongly on training efficacy (skills, confidence, risk reduction) but only moderately on operability](dnh-model-content-validity-ratings.md) — related
 - [Technical-step realism was uneven: marking and circumferential incision scored higher than submucosal injection and dissection](dnh-model-step-realism-uneven.md) — related
+- [Expert panel rates the FROST simulator realistic and recommends it for training, except for the skin undermining step](expert-panel-face-content-validity-frost-simulator.md) — related

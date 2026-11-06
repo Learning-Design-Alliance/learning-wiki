@@ -124,3 +124,5 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [The most frequently mentioned barrier to implementing RaT curricula is balancing workload on faculty and residents](rat-implementation-barriers-workload.md) — related
 - [Faculty report that treatment workload and revenue priorities in Iranian teaching hospitals overshadow teaching, and that faculty teaching performance is not monitored or rewarded.](education-service-integration-poor-iran.md) — related
 - [Faculty and students report that inadequate physical facilities and restricted human resources limit clinical learning in Iranian teaching hospitals.](limited-resources-clinical-education-iran.md) — related
+- [Facilitators report CBL carries a heavy time commitment relative to didactic teaching, with concerns about excessive workload](cbl-facilitator-time-commitment-concerns.md) — related
+- [Organisational factors, including insufficient allocated time and incomplete teams, hindered effective EVT simulation training](organisational-barriers-evt-simulation.md) — a narrower finding that bears on this claim

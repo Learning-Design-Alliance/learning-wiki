@@ -61,3 +61,4 @@ Anonymous questionnaire based on the California Critical Thinking Disposition In
 - [Several individual clinical-reasoning questionnaire items showed no significant difference between the DwGJ and control groups](dwgj-reasoning-item-level-null-differences.md) — related
 - [PBL combined with 3D-VRT produced higher critical thinking disposition scores across all seven dimensions than traditional teaching](pbl-3d-vrt-critical-thinking-all-seven-dimensions.md) — related
 - [PBL teaching produced significantly higher post-intervention critical thinking ability scores than traditional teaching among nursing interns (P = 0.002)](pbl-higher-critical-thinking-nursing-interns.md) — related
+- [\"Learning, Thinking & Conveying\" training with experiential learning improves critical thinking disposition in 5 of 7 CTDI-CV dimensions but not systematicity or cognitive maturity](ltc-training-improves-ctdi-cv-critical-thinking-partially.md) — related

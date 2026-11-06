@@ -49,6 +49,7 @@ The article recommends that educators create 3D digital learning resources witho
 - [Recommendation that educators include implicit spatial training combining multimodal visual and physical resources](recommend-multimodal-visual-haptic-spatial-training.md)
 - [Promote the flipped classroom in low-resource settings using free digital tools, peer instruction, and group discussions.](flipped-classroom-low-resource-settings-strategy.md)
 - [Build simulation models from patient imaging with 3D printing to accommodate anatomical variations at low cost](imaging-based-3d-printing-custom-simulation-models.md)
+- [Combine glasses-free 3D displays with 3D-printed physical models to compensate for the lack of tactile feedback in digital anatomy learning](combine-glasses-free-3d-displays-with-3d-printed-models.md)
 
 ## Examples
 -

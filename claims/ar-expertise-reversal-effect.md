@@ -76,3 +76,4 @@ The review's own interpretive synthesis, attributed to cognitive load theory and
 - [Completion time detects training gains only in less experienced trainees, per the review's account of Kim et al.](completion-time-significant-only-less-experienced-trainees.md) — related
 - [Perceived surgical independence rose in 31.6% to 78.9% of respondents depending on procedure, with lowest gains for pedicle screw/C1–C2 fixation](cadaver-course-independence-varies-by-procedure.md) — related
 - [Before VR training, pedicle screw placement accuracy increases with surgeon seniority, from 48.06% in PGY1-5 to 77.19% in PGY > 10](pre-training-accuracy-increases-with-seniority.md) — related
+- [Mixed reality surgical mentoring shows no benefit over audio guidance for combat casualty care procedures](mixed-reality-combat-casualty-null.md) — related

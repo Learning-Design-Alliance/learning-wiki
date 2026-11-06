@@ -47,3 +47,4 @@ Randomized controlled trial of 1282 medical students from 9 specialties randomly
 ## Related Claims
 - [Medical students using a virtual simulation experiment system achieved higher operational skill scores than students taught by traditional laboratory methods](vse-higher-operational-skill-scores.md) — related
 - [Preclass 3D digital simulation before hands-on carving produces significantly higher practical carving test scores than traditional instruction alone in dental morphology courses](3d-simulation-preclass-improves-carving-test-scores.md) — related
+- [VSO blended teaching significantly improves comprehensive practical performance in a clinical microbiology laboratory course compared with traditional video-based teaching](vso-improves-comprehensive-practical-performance.md) — related

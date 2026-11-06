@@ -50,6 +50,7 @@ The article proposes that its EEG and eye-tracking regression models, once valid
 ## Related Strategies
 
 - [Use EEG-based real-time monitoring to inform personalized educational interventions](eeg-based-real-time-personalized-interventions.md)
+- [Incorporate a tremor-measuring smartwatch app to support self-supervised training of surgical residents](smartwatch-tremor-app-self-supervised-training.md)
 
 ## Examples
 -

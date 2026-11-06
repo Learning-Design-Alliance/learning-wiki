@@ -21,6 +21,7 @@ A ten-item, five-point Likert self-report instrument adapted from Brooke's Syste
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Adapted System Usability Scale (SUS) administered after learning to assess the learning environment**: The variable table lists an "Adapted System Usability Scale, SUS" based on Brooke (1996), consisting of "10 items, rated on a 5-point Likert scale" collected post learning. It was used to capture participants' usability ratings of the interactive learning environment, complementing the 9-point Likert ratings of mental effort, concentration, interest, comprehension and difficulties related to the learning material. (SIGNALING IN MULTIMEDIA LEARNING: THE INFLUENCE OF PRIOR KNOWLEDGE (2007))
+- **Modified SUS questionnaire adapted for interdisciplinary simulation systems**: The authors revised specific items of Brooke's 10-item, 5-point System Usability Scale to 'more effectively capture user feedback on system complexity and align with real-world application scenarios.' For example, item 3 was extended to ask whether the system 'could potentially contribute to the development of interdisciplinary practice frameworks.' The complete English version was uploaded as a supplementary file, and scores above 70 are considered acceptable. (Qiu Kangli et al. (2025))
 
 ### Claims
 
@@ -35,3 +36,4 @@ A ten-item, five-point Likert self-report instrument adapted from Brooke's Syste
 
 ## Key Sources
 - SIGNALING IN MULTIMEDIA LEARNING: THE INFLUENCE OF PRIOR KNOWLEDGE. (2007). https://eric.ed.gov/
+- Qiu Kangli, Zeng Tianshu, Xia Wenfang, Peng Miaomiao, Kong Wen. (2025). Interdisciplinary medical education practices: building a case-driven interdisciplinary simulation system based on public datasets. BMC Medical Education. https://doi.org/10.1186/s12909-025-07631-8

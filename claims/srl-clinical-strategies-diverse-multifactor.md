@@ -52,3 +52,4 @@ Systematic review of 18 included studies (10 observational, six qualitative, two
 - [Internal and external factors influence clinical reasoning facilitation in clinical settings](internal-external-factors-clinical-reasoning-facilitation.md) — related
 - [Learning patterns relate to contextual factors including teaching strategies, perceptions of the learning environment, and discipline](learning-patterns-contextual-factors.md) — related
 - [Relations between SRL phase frequency/diversity and illness script activation were mixed across cases: more frequent and diverse transitions were sometimes beneficial (Cases 2, 4) and sometimes detrimental (Cases 1, 3, 5)](srl-transitions-mixed-effects-illness-script-activation.md) — related
+- [Levels of resident supervision are shaped by social norms for self-entrustment, situational complexity, and entrustment-based discussions](factors-influencing-supervision-levels-residents.md) — related

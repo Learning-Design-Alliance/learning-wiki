@@ -49,3 +49,4 @@ Interaction-test analysis (Multimedia Appendix 4) of the matched GM-ITE 2022 coh
 - [Among the non-verbal cues embedded in the simulation video, tachypnea showed the largest identification-rate difference between correct and incorrect responders](tachypnea-largest-cue-detection-gap.md) — related
 - [The authors interpret clinical experience, motivational factors, and patient exposure as contributors to non-verbal cue detection ability](experience-and-motivation-cue-detection-interpretation.md) — related
 - [Resident physicians who detect tachypnea in a clinical simulation video achieve significantly higher GM-ITE scores than non-detecting peers after propensity score matching](tachypnea-detection-higher-gm-ite-scores.md) — related
+- [No significant interaction between experience level and training effect was observed, suggesting video and AR training benefits across residency years](no-experience-training-interaction.md) — related

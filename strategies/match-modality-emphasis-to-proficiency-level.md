@@ -53,6 +53,7 @@ The authors recommend that training for beginners be dominated by theoretical le
 - [Structure high-gap RT competencies into progressive beginner, intermediate, and advanced learning phases](progressive-learning-phases-high-gap-competencies.md)
 - [Tiered competency training for mobile nurses: simulation-based serious games for junior nurses and crisis-leadership modules for senior nurses](tiered-mobile-nurse-competency-training.md)
 - [Adapt the progressive laparoscopic program to resource-limited settings by grouping trainees per animal, expanding lower-cost ex vivo practice, and retaining core box trainer and VR modules](resource-adaptive-laparoscopic-training-strategy.md)
+- [Prioritize layered models for budget-limited institutions and reserve VR simulators for advanced individualized training](budget-tiered-simulation-tool-selection.md)
 
 ## Examples
 -

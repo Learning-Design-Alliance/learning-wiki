@@ -52,6 +52,7 @@ The review groups proposed solutions into examiner training and calibration, que
 - [Improve LLM grading alignment through LLM-optimized guidelines, calibration examples, and median-of-parallels grading](llm-grading-alignment-optimization-strategies.md)
 - [Pilot calibration interventions targeting social/communication self-assessment: facilitated video review with checklists, vignette calibration with expert anchors, and pre- to post-feedback self-ratings](osce-calibration-intervention-strategies.md)
 - [Use the SOE formatively to give students individual feedback on weak skill profiles, and combine it with SKT or KFE modules for broader level-2 evidence](soe-formative-feedback-and-skt-kfe-triangulation-strategy.md)
+- [Calibration and implementation pathways for analytic rubrics in clinical dental courses](rubric-calibration-implementation-pathways-dental-clinics.md)
 
 ## Examples
 -

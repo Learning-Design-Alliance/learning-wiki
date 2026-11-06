@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: wilkes-s-2026
     resource: "https://doi.org/10.5334/pme.2128"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Across 125 included studies, 78% measured Kirkpatrick Level 2 outcomes, 22% Level 3, and no studies (0%) measured Level 4 patient or system outcomes. [→ Wilkes S. 2026](#wilkes-s-2026)

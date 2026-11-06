@@ -40,6 +40,7 @@ The paper's forward-looking recommendations for extending the prototype: buildin
 ## Related Strategies
 
 - [Hypergamification: bidirectional LMS-game integration where the whole game environment is generated from LMS content](../designs/hypergamification-bidirectional-lms-game-integration.md): the integration design these pathways would extend
+- [Future development: integrate generative AI and a graphical interactive interface to lower the learning curve](generative-ai-graphical-interface-future-direction.md)
 
 ## Examples
 

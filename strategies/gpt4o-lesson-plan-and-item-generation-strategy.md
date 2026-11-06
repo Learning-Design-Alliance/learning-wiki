@@ -46,6 +46,7 @@ The article reports that prompt engineering enables ChatGPT to support instructi
 - [Use ChatGPT-4o as a supplementary educational tool rather than an autonomous clinical decision-support system in non-English contexts](chatgpt-4o-as-supplementary-tool-non-english.md)
 - [Teachers iteratively refine LLM-simulated student ideas with classroom context before instructional use](iterative-teacher-llm-refinement-strategy.md)
 - [Use GPT-4o to analyze and reason through students' incorrect answers in case-based teaching with medical images, with human validation of its output](gpt4o-case-based-error-analysis-strategy.md)
+- [Validate ChatGPT-generated learning content through instructor review before giving it to residents](instructor-validation-of-chatgpt-content.md)
 
 ## Examples
 -

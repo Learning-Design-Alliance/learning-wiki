@@ -83,6 +83,8 @@ The review recommends that training modalities be combined in a progressive curr
 - [Use the hinotori™ system for structured skill acquisition in pediatric surgical training for novice robotic users](hinotori-structured-skill-acquisition-training-strategy.md)
 - [Pair LLM-assisted learning with VR/AR or simulation-based training for procedural skills](llm-plus-vrar-for-procedural-skills.md)
 - [Supervised, low-intensity graduated surgical training before a trainee's first complete vitrectomy](supervised-graduated-ppv-training-before-first-complete-vitrectomy.md)
+- [Incorporate a tremor-measuring smartwatch app to support self-supervised training of surgical residents](smartwatch-tremor-app-self-supervised-training.md)
+- [Use VR simulation as a primer or distance-learning complement to mannequin simulation in a blended approach](vr-as-primer-or-distance-complement-to-mannequin.md)
 
 ## Examples
 -

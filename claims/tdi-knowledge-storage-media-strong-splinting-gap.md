@@ -70,3 +70,4 @@ Same knowledge section: 96.5% appreciated the urgency of replantation within a n
 - [Medical students show low clinical decision accuracy in dental trauma scenarios, particularly for tooth avulsion](medical-students-low-decision-accuracy-dental-trauma.md) — related
 - [General avulsion knowledge is the only significant predictor of clinical decision accuracy in regression analysis](general-avulsion-knowledge-predicts-decision-accuracy.md) — related
 - [Students' weakest knowledge areas are replantation timing and appropriate transport media for avulsed teeth](weakest-areas-replantation-and-transport-medium.md) — related
+- [Chinese dental undergraduates and residents have limited knowledge of correct emergency treatment for TDIs in immature permanent teeth](dental-students-limited-tdi-emergency-knowledge.md) — related

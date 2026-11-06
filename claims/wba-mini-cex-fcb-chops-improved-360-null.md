@@ -87,3 +87,4 @@ Within-cohort multisource 360-degree evaluation in the intervention cohort; the 
 - [AI-Mentor pilot improves overall clinical competence on Mini-CEX from pretest to posttest](ai-mentor-pilot-improves-overall-mini-cex.md) — related
 - [AI-Mentor pilot yields the largest gains in reasoning-aligned Mini-CEX domains, notably clinical judgment](ai-mentor-largest-gains-reasoning-domains.md) — related
 - [Workplace-based assessments such as 360-degree evaluations and mini-CEX are less frequently used than written examinations for assessing psychosomatic competency in Chinese GP residency programs.](workplace-based-assessment-less-frequent-than-written.md) — related
+- [Experimental-group residents' Mini-CEX scores on all six assessed competencies rose significantly from admission to two and four weeks of training](minicex-scores-improve-two-four-weeks-ultrasound.md) — related

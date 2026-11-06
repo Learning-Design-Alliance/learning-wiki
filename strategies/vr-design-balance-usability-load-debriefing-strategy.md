@@ -62,6 +62,7 @@ The authors recommend that future VR simulations "incorporate prebriefing, intui
 - [Simplify simulation models or divide training into smaller sections to maintain engagement](simplify-or-segment-simulation-training.md)
 - [Iterate digital simulation platforms using trainee suggestions: add haptic feedback modules, case-discussion content, scoring and login tracking, and a streamlined interface](trainee-driven-platform-improvement-strategy.md)
 - [Embed repeated exposure to diverse disaster triage scenarios in training to build adaptive decision-making](repeated-diverse-scenario-exposure-triage-strategy.md)
+- [Administer the cognitive load self-report tool after simulation debriefing to identify excessive strain and adapt simulation teaching](cognitive-load-tool-informs-simulation-teaching-adaptation.md)
 
 ## Examples
 -

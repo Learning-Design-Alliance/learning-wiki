@@ -50,3 +50,4 @@ Pilot randomized pretest–posttest study; errors scored as absolute cumulative 
 - [VR training with eye-tracking heatmap feedback yields numerically greater situational awareness gains than mannequin-based training in a pilot RCT under simulated ED interruptions](vr-eye-tracking-feedback-greater-sa-gains-pilot-rct.md) — related
 - [VR group showed numerically greater ATLS performance gains than the mannequin group in exploratory comparison](vr-eye-tracking-greater-atls-gains-pilot.md) — related
 - [Both VR and mannequin simulation situational-awareness scores rose significantly from pre-test to post-test within each group](both-modalities-improved-sa-within-groups.md) — related
+- [The mannequin simulator received significantly higher total feedback scores than the VR simulator, and higher scores in all six domains except knowledge](mannequin-higher-feedback-scores-than-vr.md) — related

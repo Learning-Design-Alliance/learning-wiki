@@ -60,3 +60,4 @@ The review's cross-study synthesis of the included literature found modality–o
 - [P-MASE students showed better standardized simulation/task-based skills performance: higher simulated departmental satisfaction, more empathy markers, and lower DRG grouping error rate](pmase-better-simulation-task-skills-performance.md) — related
 - [VR simulation training fostered active engagement and a greater sense of preparedness for clinical practice among medical students](vr-training-fostered-engagement-preparedness.md) — related
 - [LLM use in nursing education is associated with enhanced cognitive skills and increased quality and accessibility of education](llm-nursing-education-positive-consequences.md) — related
+- [A VR ECMO simulation raised nursing students' learning immersion and satisfaction without improving knowledge, confidence, or clinical reasoning](vr-ecmo-immersion-without-knowledge-gain.md) — related

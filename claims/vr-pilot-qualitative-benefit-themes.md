@@ -57,3 +57,4 @@ Braun and Clarke thematic analysis of two post-course focus groups (five and six
 - [LTT is valued for practising rare technical skills, especially haemorrhage control, that learners are not otherwise exposed to in clinical practice](ltt-valued-rare-haemorrhage-skills.md) — related
 - [Qualitative theme: students attributed high engagement and better retention of pharmacology concepts to the immersive, distraction-free MHW environment and its interactive tools](mhw-tbl-engagement-retention-theme.md) — related
 - [Learners perceive the multimodal SimBIE curriculum as positively affecting satisfaction, engagement, knowledge, skills, attitudes, and confidence across Kirkpatrick levels 1-3](simbie-focus-group-kirkpatrick-positive-perceptions.md) — related
+- [Students' simulation anxiety coalesced around three themes: anticipation of the unknown, simulation as real, and being observed](three-themes-anxiety-realism-meaning-simulation.md) — related

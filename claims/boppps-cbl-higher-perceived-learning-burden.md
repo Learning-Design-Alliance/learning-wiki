@@ -49,3 +49,4 @@ Single-item burden measure (not reverse-coded) from the post-course questionnair
 - [Residents taught with BOPPPS/FC-CBL self-rated teaching satisfaction and self-directed learning higher than lecture-taught residents, with large reported effect sizes but an inconsistently described rating scale](boppps-fc-cbl-large-effect-satisfaction-self-directed-learning.md) — related
 - [SST residents report higher satisfaction with course content, resources, interaction, and teaching methods, with no difference in perceived learning burden](sst-higher-satisfaction-equal-burden.md) — related
 - [EBM-BOPPPS clerks reported higher perceived learning burden and stress, with qualitative comments about difficulty keeping up](ebm-boppps-learning-burden-stress.md) — related
+- [A majority of students reported that the BOPPPS teaching model increased their learning burden](boppps-his-increased-learning-burden.md) — related

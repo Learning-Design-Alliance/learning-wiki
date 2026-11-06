@@ -50,3 +50,4 @@ Inductive content analysis of Round 1 focus group interviews (n = 34) produced t
 - [K-12 learners preferred incremental hints and multiple attempts over immediately revealed solutions](learners-prefer-incremental-hints-over-solutions.md) — related
 - [Medical students found curriculum-aligned digital escape rooms exciting, engaging, and motivating in a pilot implementation](escape-rooms-exciting-medical-students.md) — related
 - [Students most frequently named collaborative teamwork as the best aspect of escape room teaching, and suggested more briefing, smaller groups and more playing time](escape-room-teamwork-best-aspect.md) — related
+- [In the pilot study, most of the ten participating medical students judged the simulator realistic but asked for clearer, less information-dense scenario instructions](pilot-students-realism-feedback.md) — related

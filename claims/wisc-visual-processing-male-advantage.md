@@ -67,3 +67,4 @@ Meta-regression moderator test on the gV factor; the article notes Block design 
 ## Related Claims
 - [Gender differences on WISC subtests and factors are generally smaller or unchanged with newer WISC versions, never larger](wisc-newer-versions-smaller-gender-differences.md) — related
 - [Females outperform males on WISC processing speed (gS) with a medium advantage (d = -0.37), larger for Coding than Symbol search](wisc-processing-speed-female-advantage.md) — related
+- [Females outperformed males on the HAM-SJT with an effect size of d = .37, and gender was controlled in the regression models](gender-difference-ham-sjt-d37.md) — related

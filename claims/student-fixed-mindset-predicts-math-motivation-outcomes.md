@@ -56,3 +56,4 @@ Student-level paths from the multilevel path analysis of 507 students in 28 clas
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](growth-mindset-achievement-correlation-weak.md) — related
 - [Students' fixed mindsets mediate the links between socializers' beliefs and students' math motivation and behavioural outcomes at the student level](student-mindsets-mediate-socializer-belief-effects.md) — related
+- [Learning engagement dimensions correlate negatively with learning anxiety and positively with academic self-efficacy](engagement-anxiety-negative-correlations.md) — related

@@ -53,3 +53,4 @@ Retrospective cohort comparison of 115 trainees (56 control, 59 PBL) at a single
 - [PBL-trained kidney transplantation trainees report higher satisfaction with training than traditionally trained trainees](pbl-higher-trainee-satisfaction-kidney-transplant.md) — related
 - [Integrated clinical pathway and case-based teaching yields higher post-training theoretical examination scores than traditional teaching in endocrinology residency](clinical-pathway-cbt-higher-theoretical-scores.md) — related
 - [PBL-DeepSeek students show higher Mini-CEX clinical competence across all seven domains than traditionally taught students](deepseek-pbl-minicex-clinical-gains.md) — related
+- [ChatGPT-guided PBL residents scored significantly higher on a nephrology theoretical exam than traditionally taught residents](chatgpt-pbl-higher-theoretical-exam-nephrology.md) — related

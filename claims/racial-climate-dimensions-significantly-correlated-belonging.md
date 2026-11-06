@@ -53,3 +53,4 @@ Meta-analysis of 77 studies and 276 effect sizes using three-level random-effect
 - [Country, marginalized group membership, school level, and publication type were tested as moderators of racial climate–belonging associations](moderators-of-racial-climate-belonging-associations.md) — related
 - [School racial climate subscales showed positive relationships with motivational constructs including interest, belonging, and utility value](school-racial-climate-positive-motivational-relationships.md) — related
 - [Black students experience a more hostile campus racial climate than other students of color in schools](black-students-more-hostile-climate-than-other-students-of-color.md) — related
+- [Individual student support is positively associated with all three school adjustment outcomes, while cognitive activation is unexpectedly negatively related to reading comprehension](teaching-quality-dimension-specific-outcome-links.md) — related

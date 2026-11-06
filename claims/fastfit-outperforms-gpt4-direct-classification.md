@@ -51,3 +51,4 @@ Comparison in the Method section (Table 1) of GPT-4 applied directly at inferenc
 - [A few-shot FastFit classifier maps conversational AI teaching assistant questions to 43 curriculum topic labels with 80.0% accuracy on a 70-question gold set](fastfit-few-shot-topic-classification-80-accuracy.md) — possibly the same claim (merge candidate)
 - [Adding regex-based rules to few-shot LLM labeling improves agreement with human annotation (0.818 to 0.852 overall)](regex-rules-improve-fewshot-llm-labeling-accuracy.md) — related
 - [Student teachers generated 2,181 Cipherbot conversations, dominated by topic inquiries targeting deepening understanding and clarifications](cipherbot-conversation-analytics-2181.md) — related
+- [Medical students taught with AI-generated images slightly outperformed the authors' previously reported AI classification model on the same test dataset](students-trained-on-ai-images-outperformed-ai-classifier.md) — related

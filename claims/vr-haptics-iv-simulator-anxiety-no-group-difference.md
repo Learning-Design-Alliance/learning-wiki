@@ -55,3 +55,4 @@ The review reports this randomized control trial of 60 first-year nursing studen
 - Included haptics studies most often used crossover designs, followed by RCTs, with a mean sample size of 24 — related
 - [Simulation training does not significantly reduce anxiety or stress relative to theoretical instruction alone, though both improved within the simulation group](simulation-no-between-group-anxiety-stress-reduction.md) — related
 - [Simulation-based training reduces self-reported anxiety among novice neurology trainees measured by both a general VAS scale and the STAI-6](sbme-reduces-anxiety-neurology-trainees.md) — related
+- [An intravenous injection VR simulator program improved nursing students' knowledge, acceptance, and motivation](ivr-injection-vr-simulator-nursing-knowledge.md) — related

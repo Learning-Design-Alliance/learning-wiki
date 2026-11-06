@@ -48,3 +48,5 @@ Chi-square/Fisher-Freeman-Halton comparison of first- (n = 182) and second-year 
 ## Related Claims
 - [First aid training participation alone was not associated with better dental trauma awareness among these students](first-aid-training-no-dental-trauma-awareness-difference.md) — related
 - [Health vocational students in Turkey show limited knowledge of dental trauma emergency management, with only 7.2% receiving first aid training that included dental trauma content](limited-dental-trauma-knowledge-turkish-vocational-students.md) — related
+- [Third-year nursing students most strongly support tetanus vaccination after dental trauma (65.2%, p = 0.01)](third-year-students-most-support-tetanus-vaccination.md) — related
+- [Third-year nursing students rate their dental trauma knowledge higher than first-year students (p = 0.011)](third-year-students-rate-dental-trauma-knowledge-higher.md) — related

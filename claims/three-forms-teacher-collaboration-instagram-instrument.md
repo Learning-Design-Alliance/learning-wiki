@@ -51,3 +51,4 @@ Confirmatory factor analysis of a 10-item Instagram collaboration instrument wit
 - [Teachers on Instagram predominantly engage in low-cost collaboration (information seeking) and rarely in high-cost collaboration (co-creating)](instagram-low-cost-collaboration-predominates.md) — a narrower finding that bears on this claim
 - A confirmatory factor analysis on a new sample confirms the three-factor structure with acceptable model fit and moderate convergent validity — related
 - [Teachers with higher self-efficacy are more likely to share information on Instagram, while enthusiasm for teaching is unrelated to sharing](self-efficacy-predicts-instagram-information-sharing.md) — related
+- [Adapted PCE and MSLQ scales show good model fit and internal consistency for measuring collective and self-efficacy in simulation contexts](adapted-pce-mslq-scales-valid-in-simulation-context.md) — related

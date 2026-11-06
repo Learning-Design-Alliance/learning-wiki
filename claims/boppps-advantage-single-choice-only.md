@@ -47,3 +47,4 @@ Mann-Whitney U tests comparing final examination submodules between experimental
 ## Related Claims
 - [BOPPPS-based blended teaching produces significantly higher final examination and process assessment scores than traditional lecture-based teaching](boppps-higher-final-exam-process-assessment.md) — related
 - [Talking story books significantly improved Saudi young EFL learners' understanding of talking-story-book content relative to the control group](talking-story-books-understanding-true-false.md) — related
+- [No statistically significant difference between the BOPPPS and traditional teaching groups on multiple-choice (theoretical) question scores](boppps-his-no-difference-multiple-choice.md) — related

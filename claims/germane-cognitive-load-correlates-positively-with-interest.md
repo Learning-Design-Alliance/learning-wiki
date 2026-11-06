@@ -62,3 +62,4 @@ Correlational analysis within the same algebra study, relating Leppink et al.'s 
 - [Germane load measurement is problematic: GCL-outcome correlations and item understanding show weaknesses across instruments](germane-load-measurement-problems.md) — related
 - [Solving context-personalized AI-generated tasks raises interest more than solving standard tasks](gai-personalized-tasks-interest.md) — related
 - [Intrinsic cognitive load was reported as low (M = 1.54, SD = 1.42) while germane load was higher (M = 4.26, SD = 2.95), indicating engagement in task-related cognitive processing](incarne-low-intrinsic-high-germane-load.md) — related
+- [Subdimension correlations partly support distinct load constructs but show an unexpected negative intrinsic–germane correlation (r = − 0.192)](turkish-clt-tool-intrinsic-germane-negative-correlation.md) — related

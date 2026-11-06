@@ -54,6 +54,7 @@ The review offers healthcare educators an implementation strategy: 'Fostering st
 
 - [Implement CBL successfully by ensuring pre-class preparation, authentic progressive cases, dual-competence facilitators, adequate time, and process-plus-outcome assessment](cbl-implementation-success-conditions.md)
 - [Phased implementation, rigorous case development, faculty development, and balanced assessment when adopting BOPPPS-CBL](boppps-cbl-implementation-strategies.md)
+- [Prepare CBL facilitators with clear learning outcomes, structured case handbooks, role-play training, and continuity of facilitator across a case](cbl-facilitator-preparation-strategy.md)
 
 ## Examples
 -

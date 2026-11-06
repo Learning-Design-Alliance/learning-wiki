@@ -51,6 +51,7 @@ The article recommends that educators position AI as an augmentation rather than
 - [Blend foundational CS concepts with prompt-specific strategies as a complementary entry pathway into computing](prompting-as-complementary-cs-entry-pathway.md)
 - [Frame LLM use in biomedical education around low‐stakes formative tasks with expert‐guided verification and rationale requests](llm-low-stakes-formative-use-expert-verification-strategy.md)
 - [Use LLMs as supplements for theoretical learning while preserving hands-on training for practical skills](llm-supplement-theoretical-learning-ot.md)
+- [Design blended learning environments that allocate AI tools to foundational knowledge and human expertise to conceptually challenging areas](blended-ai-human-allocation-strategy-medical-education.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Pearson correlation analysis in the Findings section of a cross-sectional descri
 - [Self-directed learning is the strongest positive predictor of narrative competence among Chinese nursing students (β = 0.428)](self-directed-learning-strongest-predictor-narrative-competence-nursing-students.md) — related
 - [Emotional intelligence correlates positively with self-directed learning among nursing students (r = 0.63)](ei-sdl-positive-correlation-nursing-students.md) — related
 - [Narrative competence correlates positively with self-directed learning (r = 0.603), nursing professional values (r = 0.504), and digital literacy (r = 0.460)](narrative-competence-bivariate-correlations-sdl-npv-dl.md) — related
+- [Students' CGPA correlates weakly and nonsignificantly with clinical rubric performance](cgpa-weak-nonsignificant-correlation-clinical-performance.md) — related

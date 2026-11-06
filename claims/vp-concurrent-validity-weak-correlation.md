@@ -53,3 +53,4 @@ Concurrent validity study: the same 42 students completed two three-station OSCE
 - [Virtual patients did not significantly differentiate first-year from third-year students' performance, limiting construct validity evidence](vp-construct-validity-limited.md) — related
 - [OSCE scores across three virtual-patient stations show low reliability (Cronbach's alpha 0.415)](vp-low-reliability-osce.md) — related
 - [Simulation scores correlate moderately with OSCE scores (r = 0.45, p < 0.01), supporting the generalization inference](simulation-osce-moderate-correlation.md) — related
+- [Virtual simulation-based assessment performance correlates positively but weakly with final multiple-choice examination score (r = 0.31)](weak-correlation-virtual-sba-mce.md) — related

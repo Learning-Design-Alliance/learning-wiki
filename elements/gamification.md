@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 66 claims (44 for, 19 mixed, 3 against) · 39 studies (20 causal, 8 review, 6 quant-synthesis, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 8 of 39 report an effect size · 65 claims rest on one study
+> **Evidence** · 69 claims (47 for, 19 mixed, 3 against) · 40 studies (21 causal, 8 review, 6 quant-synthesis, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 8 of 40 report an effect size · 68 claims rest on one study
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
@@ -90,6 +90,9 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [Most surveyed medical students perceived the pharmacology games as enjoyable and effective for understanding concepts](../claims/students-perceive-games-enjoyable-effective.md) [+W] — attached 2026-11-05 from Aloum L et al. (2025), which proposed "Three open-access web-based pharmacology games: Cross DRUGs, Find the DRUG, and DRUGs Escape Room".
 - [In a pilot RCT on a neonatology rotation, students using a stamp collecting game scored higher on total self-evaluation than standard-education controls](../claims/stamp-game-higher-total-self-evaluation.md) [+W] — attached 2026-11-06 from Han Mingyu et al. (2025), which proposed "Stamp collecting game: a low-cost badge-style gamification element for clinical rotations"; tests this page's relationship.
 - [Students in the stamp collecting game group achieved significantly higher post-rotation neonatal test scores than controls](../claims/stamp-game-higher-post-rotation-test-scores.md) [+W] — attached 2026-11-06 from Han Mingyu et al. (2025), which proposed "Stamp collecting game: a low-cost badge-style gamification element for clinical rotations"; tests this page's relationship.
+- [Adding gamification to an in-person radiology rotation produces significantly higher radiographic-interpretation knowledge scores than the in-person rotation alone in fifth-year medical students](../claims/gamification-raises-radiographic-interpretation-knowledge.md) [+W] — attached 2026-11-06 from Karimian Z et al. (2025), which proposed "Quiz-maker gamified platform with 200 clinical cases, points, badges, leaderboards, and certificates for radiographic interpretation training"; tests this page's relationship.
+- [Medical students trained with gamification achieve significantly higher OSCE skill scores than students in the routine in-person rotation](../claims/gamification-raises-osce-skill-scores.md) [+W] — attached 2026-11-06 from Karimian Z et al. (2025), which proposed "Quiz-maker gamified platform with 200 clinical cases, points, badges, leaderboards, and certificates for radiographic interpretation training"; tests this page's relationship.
+- [Student satisfaction with the gamified radiology training exceeds the acceptance cutoff across all seven TAM components, with enjoyment among the highest-rated dimensions](../claims/tam-satisfaction-above-cutoff-all-components.md) [+W] — attached 2026-11-06 from Karimian Z et al. (2025), which proposed "Quiz-maker gamified platform with 200 clinical cases, points, badges, leaderboards, and certificates for radiographic interpretation training".
 
 ## Examples
 

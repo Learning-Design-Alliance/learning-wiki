@@ -51,3 +51,4 @@ Authors' observational report from the Discussion section on learner responses d
 - [The experimental group's visual perception average rose from pre-test to post-test after the multi-sensory program](multi-sensory-program-pretest-posttest-gain.md) — related
 - [Primary-school learners with learning disabilities taught with a multi-sensory strategy scored higher on visual perception at post-test than learners taught with the traditional method](multi-sensory-strategy-higher-visual-perception-posttest.md) — related
 - [No significant difference in the experimental group's visual perception between measurements taken after the program and one month later](multi-sensory-gains-not-retained-one-month.md) — related
+- [Students reported that D-VSim provided multi-sensory (visual and auditory) immersive opportunities for repeated activity, while the authors caution gamification can undermine motivation](dvsim-multisensory-immersion-gamification-caveat.md) — related

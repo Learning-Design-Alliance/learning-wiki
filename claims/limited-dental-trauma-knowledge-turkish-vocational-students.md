@@ -54,3 +54,7 @@ Cross-sectional online survey of 333 students from 16 programs across 7 Turkish 
 - [Medical students show low clinical decision accuracy in dental trauma scenarios, particularly for tooth avulsion](medical-students-low-decision-accuracy-dental-trauma.md) — related
 - [Residents know avulsed-tooth storage media well but only 29.3% identify the correct 2-week splinting duration](tdi-knowledge-storage-media-strong-splinting-gap.md) — related
 - [Students' self-assessed knowledge of dental injury first aid is low and does not increase across years of study despite rising objective knowledge](self-assessment-low-and-flat-across-years.md) — related
+- [Nursing students rarely identify recommended transport media for an avulsed tooth, favoring cotton or tissue (25.3%) over milk (5.4%) or saliva (2%)](nursing-students-avulsed-tooth-storage-media-poor.md) — related
+- [Nursing students' knowledge of avulsion management is inadequate: only four students would reinsert an avulsed tooth](nursing-students-avulsion-management-inadequate.md) — related
+- [Most undergraduate nursing students believe they have insufficient knowledge about dental trauma (79.8% self-report inadequate knowledge)](nursing-students-self-report-insufficient-dental-trauma-knowledge.md) — related
+- [70% of nursing students would attend an educational program on dental trauma](nursing-students-willing-attend-dental-trauma-education.md) — related

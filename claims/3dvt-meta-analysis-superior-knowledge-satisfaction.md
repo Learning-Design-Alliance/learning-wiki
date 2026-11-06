@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: safir-ah-2026
     resource: "https://doi.org/10.1002/ase.70220"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A 2015 meta-analysis found students using 3DVT exhibited superior factual and spatial knowledge and satisfaction versus 2D materials. [→ Safir AH 2026](#safir-ah-2026)
@@ -55,3 +56,5 @@ The article cites this meta-analysis as context. "a 2015 meta-analysis by Yammin
 - [Augmented reality increased student engagement but not test performance in anatomical learning](ar-increases-engagement-not-test-performance.md) — related
 - [3D VR video acclimatisation improves overall robotic simulator performance among novices compared with 2D video](3d-vr-acclimatisation-improves-simulator-performance.md) — a narrower finding that bears on this claim
 - [Postgraduate aesthetic medicine trainees overwhelmingly rate a 3D simulation app as visually similar to 2D models and superior for understanding the 3D structure of facial aging](3d-simulation-app-facial-aging-visualization-perceptions.md) — a narrower finding that bears on this claim
+- [Medical students show significantly improved understanding of the spatial arrangement of abdominal anatomical structures after a three-minute learning session with 3D anatomy materials, in both 2D and 3D display conditions](3d-anatomy-learning-improves-spatial-arrangement-understanding.md) — a narrower finding that bears on this claim
+- [Learning with 3D anatomy materials on a glasses-free 3D display does not significantly improve mean understanding of spatial arrangement compared with a 2D display](glasses-free-3d-display-no-mean-gain-advantage.md) — reports the opposite

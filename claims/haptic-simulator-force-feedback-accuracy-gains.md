@@ -69,3 +69,4 @@ Descriptive direction-of-effect synthesis across haptic simulator RCTs; the revi
 - [Randomized controlled trials show automated real-time and AI-based feedback improves surgical skill acquisition, particularly for under-performers](automated-feedback-rct-improves-surgical-skills.md) — related
 - [Haptic-feedback VR training accelerated learning-curve plateau achievement in surgical trainees](haptic-vr-learning-plateau.md) — related
 - [VR simulation training reduced learning time and improved procedure accuracy in African and UK studies](vr-training-learning-curve-reductions.md) — related
+- [Mixed reality surgical mentoring shows no benefit over audio guidance for combat casualty care procedures](mixed-reality-combat-casualty-null.md) — related

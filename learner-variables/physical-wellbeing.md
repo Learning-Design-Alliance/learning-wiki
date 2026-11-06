@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 158 claims (106 show a difference, 34 mixed, 18 no difference) · 85 studies (30 causal, 20 associational, 16 review, 14 quant-synthesis, 3 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 21 of 85 report an effect size · 154 claims rest on one study
+> **Evidence** · 161 claims (106 show a difference, 35 mixed, 20 no difference) · 86 studies (30 causal, 21 associational, 16 review, 14 quant-synthesis, 3 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 21 of 86 report an effect size · 157 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -195,6 +195,9 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [Physical activity, self-concept, physical-mental health, and academic achievement are all significantly positively intercorrelated (N = 458)](../claims/pa-sc-pmh-aa-positive-correlations.md) [+M] — learners who differ on it differ in outcomes
 - [Physical and mental health significantly mediates the relationship between physical activity and academic achievement (indirect β = 0.052, 14.86%)](../claims/pmh-mediation-pa-aa.md) [+W] — learners who differ on it differ in outcomes
 - [Higher cardiorespiratory fitness is associated with higher academic performance across subjects in children](../claims/higher-crf-higher-academic-performance-children.md) [+M] — learners who differ on it differ in outcomes
+- [Homework time is positively correlated, tutoring class time negatively correlated, and extracurricular physical activity non-significantly related to academic performance](../claims/homework-tutoring-physical-activity-control-findings.md) [-M] — learners who differ on it differ in outcomes
+- [Mediation of the screen time–performance relationship through BMI and subjective health perception was not verified](../claims/bmi-subjective-health-mediation-not-verified.md) [-M] — learners who differ on it differ in outcomes
+- [Social relationship construction mediates the screen time–performance relationship more strongly than physical and mental health](../claims/social-constructs-stronger-mediator-than-health.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

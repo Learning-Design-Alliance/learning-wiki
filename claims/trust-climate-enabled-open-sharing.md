@@ -64,3 +64,4 @@ Participant testimony gathered by R15CC from members of the NDE More Rigorous In
 - [Undergraduate dental students perceive peer collaboration and facilitator guidance as key enablers of agency, while uneven participation and inconsistent facilitation are barriers](pbl-peer-facilitator-enablers-barriers.md) — related
 - [In a postgraduate PBL course the teacher functions as a positive enabler through facilitation, emotional support, and professional role modeling](pbl-teacher-as-positive-enabler.md) — related
 - [Collaborative social dynamics in learning groups enable agentic learning by making challenges a shared responsibility](collective-social-dynamics-enable-agentic-learning.md) — related
+- [Near-peers' high social congruence has ambiguous effects: it enables a safe climate but makes leading discussions and sustaining productive tension harder](ambiguous-effects-of-social-congruence-in-npt.md) — related

@@ -55,3 +55,4 @@ Parallel-group randomized controlled study over five fall semesters (2020–2024
 - [Students reported greater comprehension and confidence in OSPE techniques after using QR-code-linked demonstration videos](students-report-videos-improve-ospe-comprehension.md) — related
 - [Medical students using EyelearnMR plus traditional teaching scored significantly higher on a video-based ocular motility assessment than students receiving traditional teaching alone, despite less clinical exposure time](eyelearnmr-higher-video-assessment-scores.md) — related
 - [Flipped classroom and lecture-based teaching showed no significant difference in learning scores](fc-vs-lbt-no-learning-difference.md) — reports the opposite
+- [VSO blended teaching significantly improves comprehensive practical performance in a clinical microbiology laboratory course compared with traditional video-based teaching](vso-improves-comprehensive-practical-performance.md) — related

@@ -48,3 +48,4 @@ Mixed-methods modified Delphi needs assessment: a 30-minute survey on barriers, 
 ## Related Claims
 - [A two-round modified Delphi process with 19 emergency experts produced a three-tier core competency indicator system of 5 first-level, 14 second-level and 34 third-level indicators for emergency residency training in China](delphi-emergency-residency-indicator-system-5-14-34.md) — related
 - [A two-round modified Delphi process achieved consensus on 273 of 343 preliminary psychomotor competency statements (79.6%) for Brazilian medical graduates](delphi-consensus-273-of-343-preliminary-competencies.md) — related
+- [A needs-assessment process combining literature review, interviews with 360 nurses, and a two-round Delphi survey finalized 21 educational topics for C-ICU nurses](needs-assessment-finalized-21-topics.md) — related

@@ -50,3 +50,4 @@ t-tests and one-way ANOVA on the 312-student survey. The printed effect sizes ar
 - [Univariable differences across competency profiles concentrate in career-stage and psychological variables, while sex, education and specialist nurse status show no significant differences](profile-differences-career-stage-psychological-variables.md) — related
 - [Hospital grade, job position, work experience, and teaching experience distinguish core competence levels](demographic-factors-core-competence-nurses.md) — related
 - [Spiritual health is positively correlated with core competencies of nursing intern students (r = 0.687)](spiritual-health-positively-correlated-nursing-intern-core-competencies.md) — related
+- [Demographic covariates (gender, age, birthplace, student cadre status, voluntary career choice) show no significant association with theoretical, practical, SRSSDL or CTDI-CV outcomes](demographics-not-associated-with-ltc-training-outcomes.md) — reports the opposite

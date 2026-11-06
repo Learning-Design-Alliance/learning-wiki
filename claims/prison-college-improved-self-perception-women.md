@@ -52,3 +52,4 @@ Student interview in the pilot qualitative study. Sarah reflected on how her sel
 - [Prison higher education alone was reported as insufficient for post-release employment, with criminal-record and reentry barriers persisting](prison-college-limited-employment-benefits.md) — related
 - [Formerly incarcerated women students reported improved disciplinary behavior while participating in a prison college program](prison-college-reduced-disciplinary-behavior-women.md) — related
 - [Gameplay changed students' perceptions of themselves as learners and their learning practice](gameplay-changed-learner-self-perceptions.md) — related
+- [Facilitators report no personal identity shift but gains in confidence, teaching skills, and perceptions of themselves as teachers](cbl-facilitator-confidence-gains-no-identity-shift.md) — related

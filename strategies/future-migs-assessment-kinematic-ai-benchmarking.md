@@ -52,6 +52,7 @@ The review's forward-looking recommendation is that future work should fill the 
 
 - [Combine objective metrics with validated subjective tools and audio-visual recording to contextualize interpretation of surgical performance data](combine-objective-metrics-with-subjective-and-av-context.md)
 - [Integrate validated data-driven assessment tools early in surgical training and maintain use throughout residency with pre-course benchmarks and immediate feedback](integrate-validated-tools-early-benchmarks-feedback.md)
+- [Gather multicenter expert datasets and strengthen annotation criteria to enable AI-based skill assessment in robotic cardiac surgery](multicenter-data-strategy-skill-assessment-ai.md)
 
 ## Examples
 -

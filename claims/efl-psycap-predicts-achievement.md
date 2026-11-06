@@ -51,3 +51,4 @@ SEM analysis of survey data from 1460 Chinese secondary EFL learners (grades 7-8
 - [Behavioural engagement mediates the relationship between EFL PsyCap and EFL achievement](engagement-mediatepsycap-achievement.md) — a narrower finding that bears on this claim
 - [Social support directly and positively predicts English academic achievement among Chinese secondary school students](social-support-predicts-english-achievement.md) — related
 - [Psychological capital is positively associated with subjective academic achievement among middle school students after controlling for demographics and prior achievement](psycap-predicts-subjective-academic-achievement.md) — a narrower finding that bears on this claim
+- [Digital technology use has a significant positive direct effect on EFL students' English academic performance](digital-technology-use-direct-positive-effect-efl-performance.md) — related

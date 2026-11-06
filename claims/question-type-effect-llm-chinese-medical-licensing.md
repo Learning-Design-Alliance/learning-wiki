@@ -69,3 +69,4 @@ Bonferroni-corrected post hoc paired t-tests between question-type pairs, report
 - [Language of presentation (Chinese vs. English) has no significant main effect on LLM accuracy on Chinese medical licensing exam questions](no-language-effect-llm-medical-licensing.md) — related
 - [Question type affects accuracy: feature-to-concept questions are answered best and applied questions worst](question-type-accuracy-ordering.md) — a broader claim this one bears on
 - [No significant differences in LLM accuracy across medical specialties or between acute and chronic questions](no-accuracy-differences-specialty-urgency.md) — related
+- [Histology topic, not LLM platform, was the primary factor in performance variance (η2 = 0.452 vs 0.006), with a significant system-by-topic interaction](topic-effect-dominates-system-effect-llm-histology.md) — related

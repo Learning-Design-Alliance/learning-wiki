@@ -50,3 +50,4 @@ Reliability analysis of 10 final-test variants (13 tasks each, split into even a
 - [Concept Test reliability was 0.72, rising to r = 0.84 after Spearman-Brown correction](concept-test-reliability-spearman-brown-084.md) — related
 - [Both computer-based and paper-based versions of the achievement test show high split-half reliability coefficients](high-reliability-both-test-modes.md) — related
 - [The 60-item achievement test showed very good pilot reliability (r = .90) before mode administration](pilot-reliability-achievement-test.md) — related
+- [Split-half analysis supports the internal consistency of the Turkish-adapted tool (Spearman–Brown = 0.800, Guttman = 0.796)](turkish-clt-tool-split-half-spearman-brown-0800.md) — related

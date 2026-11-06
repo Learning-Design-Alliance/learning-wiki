@@ -71,3 +71,5 @@ Same attitudes section; the authors note this overwhelming agreement evidences t
 - [Most fourth-year dental students at one Australian university report low confidence in managing TDI cases despite having average knowledge.](dental-students-low-confidence-tadi-management.md) — related
 - [Before using the tool, undergraduate dental students mainly did not feel confident performing endodontic diagnostics independently and wanted more diagnostic training opportunities](baseline-low-endodontic-diagnostic-confidence.md) — related
 - [Dental students demonstrate average knowledge of TDI management with significant deficiencies in avulsion of permanent teeth.](dental-students-average-tadi-knowledge-avulsion-deficiency.md) — related
+- [Chinese dental undergraduates and residents have limited knowledge of correct emergency treatment for TDIs in immature permanent teeth](dental-students-limited-tdi-emergency-knowledge.md) — related
+- [Dental students show strongly positive attitudes toward TDI management and want more training](positive-attitudes-toward-tdi-management.md) — related

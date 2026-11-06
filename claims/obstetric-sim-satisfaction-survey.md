@@ -49,3 +49,4 @@ Post-training anonymous questionnaire (60 of 65 recovered, Cronbach's α = 0.891
 - [Virtual simulation trainees scored higher medians on motivation and satisfaction questionnaires, with only the Confidence dimension borderline significant](virtual-simulation-higher-motivation-satisfaction-medians.md) — related
 - [Participants rated the EBP course highly on materials, methods, relevance, clarity and applicability, with course duration rated lowest](ebp-course-high-satisfaction-ratings.md) — related
 - [Trainee feedback on the programme was highly positive, with a median score of 5 (IQR 0.75) across questionnaire sections](positive-rcs-feedback-median-5-pilot-robotic-training.md) — related
+- [Residents rated the mirror simulation program highly for perceived benefit and interest, averaging 3.87 and 4.08 out of 5](mirror-sim-benefit-interest-ratings.md) — related

@@ -49,3 +49,4 @@ A 12-item 5-point Likert satisfaction questionnaire (Cronbach's alpha 0.93) was 
 - [Students expressed no clear preference between the flipped classroom and traditional methodology, with ease of concentration scoring lowest](no-clear-preference-fc-vs-traditional.md) — reports the opposite
 - [Residents taught with BOPPPS/FC-CBL self-rated teaching satisfaction and self-directed learning higher than lecture-taught residents, with large reported effect sizes but an inconsistently described rating scale](boppps-fc-cbl-large-effect-satisfaction-self-directed-learning.md) — related
 - [The jigsaw method produced significantly higher learning scores than both flipped classroom and lecture-based teaching in nursing students](jigsaw-higher-learning-scores-than-fc-and-lbt.md) — related
+- [Students reported high satisfaction with the script strategy teaching method (mean 74.37 ± 16.31 on a 100-point scale)](script-strategy-high-satisfaction.md) — related

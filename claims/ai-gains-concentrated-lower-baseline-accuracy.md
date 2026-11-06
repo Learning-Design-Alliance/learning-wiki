@@ -46,3 +46,4 @@ In the same pilot study of 185 students, "Baseline composite score was negativel
 
 ## Related Claims
 - [Among pre-clerkship medical students, diagnostic accuracy scores rose for some, fell for others, and did not change for others from before to after AI chatbot access in a single-group pre-post study](ai-access-improves-diagnostic-accuracy-preclerkship.md) — related
+- [Pre- and post-teaching diagnostic accuracies showed significant positive correlations only for some keratitis types in some groups](pre-post-accuracy-correlations-keratitis-by-group.md) — related

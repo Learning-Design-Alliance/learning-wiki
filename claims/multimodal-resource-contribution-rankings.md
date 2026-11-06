@@ -49,3 +49,4 @@ Survey of 149 novice veterinary students rating five preparatory resource catego
 - [Visual perception dominates multimodal sensory design (98.7%), with auditory (39.7%), kinesthetic (29.5%), tactile (19.2%), and olfactory (1.3%) far less common](visual-perception-dominates-sensory-design.md) — related
 - [The animation advantage is largest when instruction includes no accompanying text](animation-advantage-largest-without-accompanying-text.md) — related
 - [Novice veterinary students rated training videos as more frequently used and more necessary for skill acquisition than either mouse simulator](videos-rated-more-necessary-than-simulators-mouse-skills.md) — related
+- [Using HIS resources in imaging teaching lets students dynamically display and post-process images and access complete clinical data, improving perceived teaching quality](his-resources-benefits-imaging-teaching.md) — related

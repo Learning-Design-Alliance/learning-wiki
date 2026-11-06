@@ -55,6 +55,7 @@ An implementable clinical teaching recipe: establish a teaching group led by the
 ## Related Strategies
 
 - [Combine modified Mini-CEX assessment with SBAR structured communication in experimental health assessment teaching](mini-cex-sbar-integrated-teaching-strategy.md)
+- [Implement the Mini-CEX as a three-step direct-observation assessment with feedback at one-week intervals during surgery clerkships](mini-cex-three-step-observation-feedback-strategy.md)
 
 ## Examples
 -

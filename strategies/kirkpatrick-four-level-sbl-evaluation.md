@@ -51,6 +51,7 @@ The evaluation phase employs the Kirkpatrick model "across its four levels—rea
 
 - [Structured pre-simulation briefing, hands-on practice, and model-based debriefing sequence](briefing-practice-debriefing-sequence-sbl.md)
 - [Kirkpatrick-based four-level evaluation roadmap for empirically validating AI-SP effectiveness](ai-sp-kirkpatrick-evaluation-roadmap.md)
+- [Evaluate simulation training beyond immediate quiz and feedback measures using the Kirkpatrick four-level model and interval assessments](kirkpatrick-four-level-evaluation-for-simulation-studies.md)
 
 ## Examples
 -

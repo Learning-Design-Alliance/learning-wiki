@@ -68,3 +68,4 @@ Results-section finding on group supervision. Interviewees described peer intera
 - [Faculty and facilitators in IPE have difficulty identifying interprofessional learning opportunities in practice settings, requiring experienced agents to support them](ipe-faculty-difficulty-identifying-learning-opportunities.md) — related
 - [Teacher leaders can play a valuable role in supporting the professional learning of their colleagues](teacher-leaders-support-colleague-professional-learning.md) — related
 - [Training provides a foundation for facilitator competence, but subsequent substantially self-directed learning also plays an important part in development](training-foundation-plus-self-directed-learning-facilitators.md) — related
+- [High-quality case handbooks with clear learning outcomes and role-play facilitator training were highly valued supports for CBL facilitation](cbl-handbooks-and-role-play-training-valued.md) — related

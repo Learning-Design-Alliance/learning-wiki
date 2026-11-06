@@ -53,3 +53,4 @@ Parallel noninferiority randomized trial at UNICAMP, Brazil, with 42 residents (
 - [Earlier chest compression initiation in the control group during ventricular fibrillation is the only notable ALS performance difference](control-earlier-chest-compressions-vf.md) — related
 - [Serious video game training is statistically non-inferior to mannequin-based simulator training for basic cardiac POCUS hand-eye coordination skills in medical novices](serious-game-noninferior-simulator-cardiac-pocus.md) — a broader claim this one bears on
 - [Remote teaching achieves competency outcomes equivalent to traditional learning for basic surgical skills in most studies](rt-equivalent-to-tl-basic-surgical-skills.md) — a broader claim this one bears on
+- [PGY-3 team leaders averaged 65% on a graded ACLS checklist, with most leaders assigning compressions and airway roles but fewer assigning IV access or medication administration](mirror-sim-checklist-performance.md) — related

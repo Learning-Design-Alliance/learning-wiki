@@ -50,6 +50,7 @@ The article recommends that universities integrate sleep education and PA promot
 - [Assess sleep problems early in primary school and provide preventive intervention, including sleep hygiene education, to protect later academic performance](early-assessment-preventive-sleep-intervention.md)
 - [Prescribe intensive, multi-component physical activity integrated into regular classes to maximize learning outcomes](evidence-based-exercise-programs-school-strategy.md)
 - [Tailored institutional support for fasting students: flexible schedules, sleep hygiene programs, and fatigue monitoring](ramadan-student-support-flexible-schedules-fatigue-monitoring.md)
+- [Integrate validated study techniques such as spaced repetition and wellness strategies (sleep, physical activity) into university support programs for entrance examinations](integrate-spaced-repetition-wellness-into-entrance-support-programs.md)
 
 ## Examples
 -

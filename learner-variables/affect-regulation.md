@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 295 claims (212 show a difference, 53 mixed, 30 no difference) · 191 studies (66 associational, 53 causal, 32 review, 14 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 43 of 191 report an effect size · 287 claims rest on one study
+> **Evidence** · 298 claims (212 show a difference, 55 mixed, 31 no difference) · 192 studies (67 associational, 53 causal, 32 review, 14 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 43 of 192 report an effect size · 290 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -335,6 +335,9 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [State anxiety measured before the OSCE decreased after completing the test in both cohorts, suggesting exam-related rather than persistent anxiety](../claims/state-anxiety-decreases-after-osce.md) [+M] — measured as an outcome of the instruction studied
 - [Class-level math test anxiety unexpectedly related positively to class-level math achievement](../claims/class-level-test-anxiety-positive-achievement-unexpected.md) [+M] — learners who differ on it differ in outcomes
 - [Personal simulations are perceived to substantially develop interns' communication skills, including empathy, listening, and coping with patient resistance](../claims/personal-simulations-develop-communication-skills.md) [+M] — measured as an outcome of the instruction studied
+- [In typical-functioning SLD undergraduates, trait anxiety shows only a direct effect on academic performance, with no mediation by test anxiety](../claims/direct-effect-trait-anxiety-typical-functioning-sld.md) [~M] — learners who differ on it differ in outcomes
+- [No significant direct or indirect trait anxiety effects on academic performance in typically developing undergraduates](../claims/null-anxiety-effects-typically-developing.md) [-M] — learners who differ on it differ in outcomes
+- [Test anxiety mediates the trait anxiety–academic performance relationship only in the high-functioning SLD group](../claims/test-anxiety-mediation-high-functioning-sld.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

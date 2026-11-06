@@ -49,3 +49,4 @@ Bonferroni-adjusted pairwise comparisons of estimated marginal means in Table 2 
 - [Shape, width, length and smoothness improved significantly across sessions while depth and angle did not](criteria-selective-improvement-rest-seat.md) — a broader claim this one bears on
 - [Improvement in overall scores did not differ significantly between digital and conventional training groups](no-group-session-interaction-overall-scores.md) — related
 - [Overall occlusal rest seat preparation scores improved significantly across three repeated practice sessions in both training groups](overall-scores-improve-across-repeated-rest-seat-sessions.md) — a broader claim this one bears on
+- [No significant group differences emerge in cavity outline, floor, internal line angles, marginal ridge, retention form, or cavity width after short-term simulation training](no-differences-other-cavity-parameters.md) — reports the opposite

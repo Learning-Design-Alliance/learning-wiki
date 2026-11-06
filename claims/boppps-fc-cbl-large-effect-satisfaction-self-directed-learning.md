@@ -68,3 +68,4 @@ Randomised trial of 38 general-practice residents (19 per group) in one hospital
 - [Trainees perceived the flipped classroom combined with BOPPPS model as scientific and worthy of promotion](flipped-boppps-trainee-perceptions-positive.md) — related
 - [Flipped classroom residents reported significantly higher overall satisfaction with teaching than lecture-based residents](fc-higher-overall-teaching-satisfaction.md) — related
 - [Students in both the flipped classroom and jigsaw groups reported high satisfaction and preferred these active methods over lecture-based teaching](high-satisfaction-fc-and-jigsaw.md) — related
+- [Students reported high satisfaction with the script strategy teaching method (mean 74.37 ± 16.31 on a 100-point scale)](script-strategy-high-satisfaction.md) — related

@@ -65,6 +65,7 @@ Body scans train attentional control by giving learners repeated practice in not
 - [Coaching](../elements/coaching.md) — individual guidance supports learners who struggle to sustain the practice independently
 - [Practice](../elements/practice.md) — body scans are themselves a skill acquired through spaced, repeated practice
 - [Set up learning environments encouraging mind and body balance by implementing wellness techniques such as meditation, yoga, and exercise in daily instruction, and use Zoom Cafés for social presence](wellness-techniques-zoom-cafes-daily-instruction.md)
+- [Adapted 8-week mindfulness-based stress reduction practice with 15 minutes of daily practice, adjustable to teachers' life situations](adapted-mbsr-15-minute-daily-practice-strategy.md)
 
 ## Examples
 - **[Mindfulness in Schools Project — .b curriculum](https://mindfulnessinschools.org)** — UK secondary-school curriculum including structured body scan practices delivered over multiple weekly lessons.

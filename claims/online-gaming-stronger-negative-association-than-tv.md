@@ -47,3 +47,5 @@ Heterogeneity analysis using regression coefficient Z-tests comparing screen exp
 ## Related Claims
 - [Recreational screen time is negatively associated with academic performance among Chinese middle school students](recreational-screen-time-negative-academic-performance-chinese-adolescents.md) — a broader claim this one bears on
 - [Screen time effects vary across academic subjects, with mathematics most affected](screen-time-subject-heterogeneity-mathematics-most-affected.md) — related
+- [Screen time is significantly negatively correlated with Chinese, mathematics, English and overall academic performance among Chinese junior middle school students](screen-time-negative-academic-performance-ceps.md) — a broader claim this one bears on
+- [Internet/game time is more detrimental to mathematics, English and overall performance than television time, showing heterogeneity by screen exposure type](screen-type-heterogeneity-internet-games-worse.md) — possibly the same claim (merge candidate)

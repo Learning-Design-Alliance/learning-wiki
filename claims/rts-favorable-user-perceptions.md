@@ -52,3 +52,4 @@ Questionnaire study of the 13 training-group students plus faculty using 10 Like
 - [Participants rated the VOC training highly on means efficacy, usefulness, and satisfaction, suggesting strong perceived value of the tool.](voc-training-high-means-efficacy-satisfaction.md) — related
 - [Student perceptions of the autograder were mixed, with the LaTeX workflow rated more positively than the grader itself](mixed-student-perception-lata.md) — related
 - [Dental students hold overall positive perceptions of simulation-based learning in oral radiology, with a combined mean of 4.27 on a 5-point Likert scale](dental-students-positive-perceptions-sbl-oral-radiology.md) — related
+- [Students reported high satisfaction with the script strategy teaching method (mean 74.37 ± 16.31 on a 100-point scale)](script-strategy-high-satisfaction.md) — related

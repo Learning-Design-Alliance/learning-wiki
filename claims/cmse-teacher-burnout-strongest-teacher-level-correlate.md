@@ -58,3 +58,4 @@ Random-effects meta-analysis of teacher-level factors across the 87 included stu
 - [Emotional exhaustion and depersonalization show no significant bivariate correlation with patient safety competency](burnout-dimensions-null-bivariate-psc.md) — related
 - [Burnout affects up to 70% of residents and negatively affects clinical performance and decision-making](resident-burnout-up-to-70-percent-impairs-performance.md) — related
 - [Physicians' teaching-related self-efficacy did not correlate significantly with emotional exhaustion](teaching-self-efficacy-emotional-exhaustion-null.md) — related
+- [After happiness training, depersonalization declined significantly and personal accomplishment rose significantly from pre-test to post-test among primary school teachers in one uncontrolled pre-post study; personal accomplishment remained high at follow-up](happiness-training-depersonalization-personal-accomplishment.md) — related

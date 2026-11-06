@@ -51,3 +51,4 @@ Chi-square comparison of the two chatbots on fundamental medical sciences questi
 - [ChatGPT-4o and Gemini Advanced show no statistically significant overall accuracy difference on DUS questions, both exceeding 80%](chatgpt4o-gemini-advanced-no-overall-accuracy-difference-dus.md) — related
 - [Discipline-specific accuracy differences favor ChatGPT-4o in Prosthetic Dentistry and Dentomaxillofacial Radiology and Gemini Advanced in Pediatric Dentistry](discipline-specific-llm-accuracy-differences-dus.md) — related
 - [Incorrect chatbot responses concentrate in clinical dental sciences rather than fundamental medical sciences](llm-errors-concentrate-clinical-dental-sciences-dus.md) — related
+- [The authors report LLM histology accuracy (91.1% average) exceeded averages reported for other basic medical sciences (neuroscience 67.2%, anatomy 41.5%, embryology 78.7%, biochemistry 81.1%)](llm-histology-accuracy-exceeds-other-basic-sciences.md) — related

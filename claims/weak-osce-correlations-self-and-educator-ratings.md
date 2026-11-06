@@ -49,3 +49,4 @@ Spearman rank correlation analysis relating the 2023–2024 final OSCE (six stat
 - [End-of-rotation OSCE total score correlated moderately with FCB-CHOPS (r = 0.61) and mini-CEX (r = 0.48), indicating overlapping but non-identical constructs](osce-correlates-fcb-chops-mini-cex.md) — related
 - [Age showed a weak but significant positive correlation with all evaluation domains, while gender showed no significant effect](age-correlation-domain-scores.md) — related
 - [Belief in combining learning modalities shows a weak positive correlation with exam scores](multimodal-belief-weak-positive-exam-correlation.md) — related
+- [Students' CGPA correlates weakly and nonsignificantly with clinical rubric performance](cgpa-weak-nonsignificant-correlation-clinical-performance.md) — related

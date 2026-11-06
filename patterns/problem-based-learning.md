@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 189 claims (78 for, 96 mixed, 15 against) · 104 studies (35 causal, 32 quant-synthesis, 12 review, 8 design, 7 qualitative, 7 theoretical, 3 associational), `q1`–`q4` · 26 of 104 report an effect size · 184 claims rest on one study
+> **Evidence** · 191 claims (80 for, 96 mixed, 15 against) · 105 studies (36 causal, 32 quant-synthesis, 12 review, 8 design, 7 qualitative, 7 theoretical, 3 associational), `q1`–`q4` · 26 of 105 report an effect size · 186 claims rest on one study
 
 ## Description and scope
 
@@ -161,6 +161,8 @@ The twelve claims listed here before that wave were read against the model on 20
 - [PBL combined with 3D-VRT produced higher overall teaching satisfaction than traditional teaching across all six questionnaire components](../claims/pbl-3d-vrt-higher-teaching-satisfaction.md) [~W] — attached 2026-11-05 from Xue Gang et al. (2025), which proposed "Integrate 3D visualization reconstruction technology into PBL clinical teaching to improve performance, critical thinking, and satisfaction".
 - [Nursing interns randomised to PBL combined with comparative nursing rounds scored higher on a health education ability questionnaire than traditionally taught interns (P = 0.003)](../claims/pbl-higher-health-education-ability-nursing-interns.md) [+W] — attached 2026-11-06 from Xue Huarong et al. (2025), which proposed "PBL combined with comparative nursing rounds: a four-stage clinical teaching pattern"; tests this page's relationship.
 - [PBL teaching produced significantly higher post-test assessment scores than traditional teaching among nursing interns (P = 0.006)](../claims/pbl-higher-post-test-assessment-scores-nursing-interns.md) [+W] — attached 2026-11-06 from Xue Huarong et al. (2025), which proposed "PBL combined with comparative nursing rounds: a four-stage clinical teaching pattern"; tests this page's relationship.
+- [ChatGPT-guided PBL residents scored significantly higher on a nephrology theoretical exam than traditionally taught residents](../claims/chatgpt-pbl-higher-theoretical-exam-nephrology.md) [+W] — attached 2026-11-06 from Tong Xiaoya et al. (2025), which proposed "ChatGPT-guided PBL session structure: AI-assisted pre-class self-directed learning followed by instructor-facilitated in-class discussion"; tests this page's relationship.
+- [ChatGPT-guided PBL residents scored significantly higher on the clinical practice assessment than traditionally taught residents](../claims/chatgpt-pbl-higher-clinical-practice-score.md) [+W] — attached 2026-11-06 from Tong Xiaoya et al. (2025), which proposed "ChatGPT-guided PBL session structure: AI-assisted pre-class self-directed learning followed by instructor-facilitated in-class discussion"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

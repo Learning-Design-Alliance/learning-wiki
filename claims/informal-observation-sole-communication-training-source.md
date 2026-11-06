@@ -49,3 +49,4 @@ Self-report survey item in the COSTRUIRE study. The article reports that "inform
 - [Surgical trainees who received formal communication training during medical school report the highest self-perceived communication competence](formal-training-associated-highest-self-competence.md) — related
 - [Only 7.9% of Italian surgical residents report receiving formal communication training during residency, despite 91% rating it as crucial](surgical-residents-formal-communication-training-gap.md) — related
 - [85.2% of surgical trainees report having communicated a difficult diagnosis without supervision during training](unsupervised-difficult-diagnosis-communication-prevalence.md) — related
+- [Surgical nurses in this sample acquired most NPWT knowledge informally, with only 19% reporting formal training](npwt-knowledge-informal-sources-nurses.md) — related

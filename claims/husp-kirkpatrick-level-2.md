@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: sánchez-poveda-d-2026
     resource: "https://doi.org/10.2196/77702"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The authors report that the HUSP simulator enabled students to reach level 2 of the Kirkpatrick evaluation model, focused on knowledge and skill acquisition — specifically identifying anatomical landmarks for nerve block procedures using ultrasound. [→ Sánchez-Poveda D 2026](#sanchez-poveda-d-2026)

@@ -62,3 +62,4 @@ The review's third dominant theme, from thematic analysis of the 50 included stu
 - [Interpretability and feasibility of AI literacy scales remain largely unknown, and open raw data is scarce](ai-scale-interpretability-feasibility-unreported.md) — related
 - The evidence base for AI-SSP assessment remained concentrated in pilot, feasibility, proof-of-concept, and validation work, with only 10% of studies providing evidence beyond initial development or short-term evaluation — a narrower finding that bears on this claim
 - [Limited evidence suggests PBL participants implement practice changes, but behavior-change data are sparse and mostly non-significant](pbl-behavior-change-limited-evidence-pgme.md) — related
+- [Current data indicate AI-based automated assessment tools in robotic surgery are not well validated and remain at a conceptual stage](ai-robotic-surgery-assessment-not-well-validated.md) — a narrower finding that bears on this claim

@@ -51,3 +51,4 @@ A quasi-experimental between-group comparison of 404 first-semester medical stud
 - [Each of the four ARCS motivational components (attention, relevance, confidence, satisfaction) was rated significantly higher in the e-learning group](arcs-components-all-higher-ecme.md) — related
 - [PBL significantly increases student satisfaction compared with traditional teaching in Chinese gynecology and obstetrics education (RR 1.29)](pbl-increases-student-satisfaction-china-obgyn.md) — a broader claim this one bears on
 - [A significantly larger proportion of integrated-teaching trainees positively evaluate the teaching method (100% vs. 86.0%)](teaching-satisfaction-proportion-chi-square.md) — related
+- [Experimental-group students report high satisfaction with VSO but note limited emotional interaction and virtual-to-real transfer issues](vso-student-survey-feedback.md) — related

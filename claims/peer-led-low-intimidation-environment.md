@@ -49,3 +49,4 @@ The most prevalent qualitative theme from the focus groups; one learner stated, 
 - [The near-peer structure of the track was perceived to create a psychologically safe learning environment that facilitated peer teaching.](pedagogical-internship-track-near-peer-safety.md) — related
 - [Focus groups identified three themes about the SLPTS: high level of organization, creation of a comfortable learning environment, and effective peer teaching](slpts-focus-group-three-themes.md) — related
 - [Participation in a student-led procedure training session significantly increased preclinical medical students' self-reported confidence in performing all four trained procedures](slpts-increases-procedure-confidence.md) — related
+- [Near-peers tend to answer student questions directly, while faculty better stimulate students to think critically about unanswered questions and how to fill competence gaps](faculty-stimulate-thinking-on-competence-gaps.md) — related

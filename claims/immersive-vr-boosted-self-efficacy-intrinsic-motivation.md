@@ -74,3 +74,5 @@ The review reports, citing Makransky et al. (2019), a comparison of three learni
 - [Students perceived that HoloLens increased engagement, but immersion was fragile and contingent on technical reliability and physical comfort](hololens-engagement-fragile-immersion.md) — related
 - [Simulation-related variables (usability, satisfaction, presence, technology acceptance) do not predict training outcomes](simulation-variables-do-not-predict-outcomes.md) — related
 - [VR simulators for inferior alveolar nerve block training improve operation success rate, trainee satisfaction, accuracy and confidence](vr-ianb-training-success-confidence.md) — a narrower finding that bears on this claim
+- [An intravenous injection VR simulator program improved nursing students' knowledge, acceptance, and motivation](ivr-injection-vr-simulator-nursing-knowledge.md) — related
+- [A VR ECMO simulation raised nursing students' learning immersion and satisfaction without improving knowledge, confidence, or clinical reasoning](vr-ecmo-immersion-without-knowledge-gain.md) — related

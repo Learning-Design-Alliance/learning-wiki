@@ -48,6 +48,7 @@ The article explicitly states that "AI-SP should be used under supervised condit
 - [Integrate GAI-based teaching into medical curricula with robust curricular integration, technological support, and systematic training for educators and students](gai-curricular-integration-training-strategy.md)
 - [Integrate simulation, case-based learning and self-directed methods as complements to bedside teaching rather than substitutes for direct patient contact](simulation-complementary-to-bedside-teaching.md)
 - [Use AISPs as a supplementary self-directed learning resource where direct patient contact is limited](aisp-supplementary-sdl-strategy.md)
+- [Use AI-generated disease images as a standardized supplement to limited real clinical teaching materials](ai-generated-images-as-standardized-teaching-supplement.md)
 
 ## Examples
 -

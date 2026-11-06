@@ -82,6 +82,7 @@ Feedback is among the most powerful influences on achievement, but its effects a
 - [5-Minute Writing Conferences](5-minute_writing_conferences.md) — a same-session delivery mechanism for timely, individualized feedback
 - [Check-Ins](../principles/check-ins.md) — structured moments that surface performance early enough for feedback to matter
 - [Two-Tier Interactive Exercise Design: Practice Exercises with Hints vs Assessment Exercises without Feedback](two-tier-practice-assessment-exercises.md)
+- [Embed immediate corrective feedback in virtual simulation practice sessions](real-time-corrective-feedback-virtual-simulation.md)
 
 ## Examples
 - **Khan Academy** (https://www.khanacademy.org) — exercises verify each answer instantly and offer hint ladders, so correction happens within seconds of the attempt.

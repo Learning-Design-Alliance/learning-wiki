@@ -52,3 +52,4 @@ Analytic hierarchy process weighting of first-level indicators from the second D
 - [Public health practice ability receives the highest entropy weight among the five competency dimensions](entropy-weights-practice-ability-highest-dimension.md) — related
 - [The article identifies EHR proficiency (weight 0.0757) and crisis intervention ability (weight 0.0199) among the model's critical operational competencies](mobile-nurse-ehr-and-crisis-intervention-weights.md) — related
 - [In the final mobile-nurse competency model, personality traits carry the highest weight (0.4447), exceeding knowledge and skills (0.3702) and professionalism (0.1851)](mobile-nurse-model-personality-traits-highest-weight.md) — related
+- [The Delphi consensus process converged on a competency model of 8 primary indicators and 60 secondary indicators with assigned weights for each indicator.](cv-competency-model-8-primary-60-secondary-indicators.md) — related

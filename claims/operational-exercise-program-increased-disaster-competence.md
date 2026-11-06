@@ -49,3 +49,4 @@ Quasi-experimental pretest–posttest study (Aliakbari et al. 2022, Iran) of an 
 - [RAPID-PFA training improved nursing students' perceived competencies, disaster preparedness, helping capacity, and self-efficacy with effects maintained at follow-up](rapid-pfa-improved-student-competencies-maintained.md) — related
 - [Adding a tabletop exercise to lecturing produced consistently greater improvements in nurses' disaster preparedness than lecturing alone](tabletop-plus-lecture-beats-lecture-alone.md) — related
 - [An immersive cinematic escape room approach improved nurses' disaster preparedness over time compared with traditional teaching](immersive-cinematic-escape-room-improved-preparedness.md) — related
+- [Scores improve over the three assessment stages in both groups, with a significant time-by-group interaction](mini-cex-logbook-time-group-interaction-significant.md) — related

@@ -66,3 +66,4 @@ Behavior-level analysis comparing platform performance records with course grade
 ## Related Claims
 - [Medical students taught embryology with a gamification platform added to routine instruction scored significantly higher on the final exam than students taught by routine instruction alone](gamification-final-exam-scores-higher-embryology.md) — related
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — a broader claim this one bears on
+- [The effectiveness of gamification in medical education is context-dependent, with design choices such as competition versus collaboration and personalization moderating outcomes](gamification-effectiveness-context-dependent.md) — related

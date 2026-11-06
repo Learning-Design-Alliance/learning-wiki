@@ -56,3 +56,4 @@ Pre–post analysis of written interpretations of a 41-s video in which a teache
 - [The Philipsen et al. framework of TPD components for online and blended learning is biased toward higher education settings](philipsen-framework-higher-education-bias.md) — related
 - [Full-scale online teaching and learning practice during the pandemic generated new needs for student-centered learning, according to this response essay.](pandemic-online-teaching-needs-student-centered-learning.md) — related
 - [Civic education teaching in Nigerian secondary schools has been dominated by teacher-centered strategies emphasizing transmission of civic information](teacher-centered-civic-education-nigeria.md) — related
+- [Facilitators report no personal identity shift but gains in confidence, teaching skills, and perceptions of themselves as teachers](cbl-facilitator-confidence-gains-no-identity-shift.md) — related

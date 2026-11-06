@@ -49,3 +49,4 @@ Authors' summary of the item-level cross-sectional results: median scores for st
 - [Peer-reviewed proctology videos score significantly higher on a modified video-assessment checklist than non-peer-reviewed YouTube videos](peer-reviewed-videos-outscore-youtube-proctology-videos.md) — related
 - [Non-peer-reviewed proctology videos fall short mainly on case presentation, outcome reporting, patient positioning and visual aids, not on technical depiction](youtube-proctology-videos-lack-case-context-and-outcomes.md) — related
 - [Most non-peer-reviewed YouTube proctology videos omit preoperative work-up, intraoperative set-up, equipment details and postoperative outcomes](youtube-proctology-videos-omit-workup-setup-and-outcomes.md) — related
+- [Only 40% of the most-viewed robotic ventral rectopexy videos on YouTube underwent standardized peer review before publication](only-40-percent-peer-reviewed-videos.md) — related

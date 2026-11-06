@@ -48,3 +48,4 @@ Structured consensus workshop applying three selection criteria: common presenti
 - [Conventional OSCEs face systemic limitations including restricted clinical scenario range, reliability concerns, and high preparation burden](conventional-osce-systemic-limitations.md) — related
 - [The metaverse environment enables delivery of consistent and reproducible scenarios supporting objective assessment of communication and diagnostic reasoning skills](metaverse-consistent-reproducible-scenarios.md) — related
 - [LLM integration into virtual patient scenarios enables realistic, context-sensitive medical interviews in a metaverse environment](llm-virtual-patient-realistic-interviews.md) — related
+- [Virtual simulation practice improves efficiency of differential diagnosis in medical students for abdominal pain and loss of consciousness cases](virtual-simulation-improves-diagnostic-efficiency.md) — related

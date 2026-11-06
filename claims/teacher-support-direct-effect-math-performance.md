@@ -53,3 +53,4 @@ PLS-SEM structural model of 363 sixth-grade students in Türkiye, with gender an
 - [Perceived teacher support is directly and positively associated with learning engagement among Chinese junior high school students](teacher-support-direct-positive-learning-engagement.md) — related
 - [Psychological capital is positively associated with subjective academic achievement among middle school students after controlling for demographics and prior achievement](psycap-predicts-subjective-academic-achievement.md) — related
 - [Directly assessed effortful control at 48 months predicts prekindergarten math but not reading, and not growth in either](direct-effortful-control-predicts-math-not-reading.md) — related
+- [Digital technology use has a significant positive direct effect on EFL students' English academic performance](digital-technology-use-direct-positive-effect-efl-performance.md) — related

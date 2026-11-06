@@ -13,7 +13,7 @@ generated:
 # Mini-CEX (Mini Clinical Evaluation Exercise)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (3 for, 1 mixed) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 7 claims (6 for, 1 mixed) · 3 studies (3 causal), `q2`–`q3` · 1 of 3 report an effect size · 7 claims rest on one study
 
 ## Description
 A structured workplace-based clinical assessment tool developed for direct observation of real patient encounters and immediate formative feedback on learners’ clinical performance.
@@ -21,15 +21,22 @@ A structured workplace-based clinical assessment tool developed for direct obser
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Mini-CEX as a formative workplace-based assessment and feedback tool for undergraduate clinical skills**: The Mini clinical evaluation exercise (Mini-CEX) is a workplace-based assessment tool in which faculty directly observe a real patient encounter and provide structured formative feedback. The article describes it as "a validated, assessment, as well as a teaching tool aimed at providing, formative feedback, on clinical skills through observation of real-life workplace encounters." In this study intervention students carried a hard copy of the Mini-CEX form, requested faculty assessment after patient interactions, received immediate verbal feedback documented on the form, and reflected on strengths and areas needing improvement, with a follow-up encounter about one week later. (Durrani Shazia Fakhir et al. (2025))
+- **Researcher-made Mini-CEX checklist for scrub-nurse competence in orthopedic surgery**: A researcher-made workplace-based evaluation tool for directly observing operating room trainees acting as scrub nurses. "The Mini-CEX method was conducted using a checklist consisting of 31 items which evaluated six different domains", covering sterilization, patient and field preparation, instrument organization, team communication, in-procedure performance management, and completion of the procedure. Scoring uses a 5-point scale from 0 (not appropriate) to 5 (far above standard), with minimum and maximum scores of 0 and 155, followed by immediate written and oral feedback. Reliability was approved via Cronbach's alpha of 0.869. (Bagheri Sara et al. (2025))
+- **Ultrasound-adapted Mini-CEX assessing six competency areas with immediate feedback**: An improved Mini Clinical Evaluation Exercise tailored to ultrasound practice, used both as an evaluation instrument and as a feedback mechanism during training. It assesses residents during routine ultrasound procedures across six areas: "medical history taking, ultrasound examination, doctor-patient communication, clinical reasoning, organizational efficiency, and overall performance", aligned with ACGME core competencies. Scores of 1–3 are deemed insufficient, 4–6 qualified, and 7–9 excellent. The authors state it provides "immediate feedback and guidance" by monitoring interactions with patients and colleagues and adherence to standard protocols. (Liu Rong et al. (2025))
 
 ### Claims
 - [Mini-CEX intervention groups achieved significantly higher ward test scores than control groups (Cohen's d = 0.65)](../claims/mini-cex-higher-ward-test-scores.md) [+M]
 - [Mini-CEX intervention groups outperformed controls on OSCE results (Cohen's d = 0.71)](../claims/mini-cex-higher-osce-scores.md) [+M]
 - [Most Mini-CEX students reported improved clinical skills and confidence and wanted the tool to continue](../claims/mini-cex-student-satisfaction-confidence.md) [+M]
 - [Nearly one-third of Mini-CEX students cited limited faculty availability and insufficient training as implementation barriers](../claims/mini-cex-faculty-availability-barriers.md) [~M]
+- [Operating room trainees assessed with the Mini-CEX score significantly higher than trainees assessed with the routine Logbook](../claims/mini-cex-higher-scores-than-logbook-operating-room-trainees.md) [+M]
+- [The researcher-made Mini-CEX and Logbook checklists showed high inter-rater consistency (average measure ICC = 0.990)](../claims/mini-cex-logbook-checklist-icc-0-990.md) [+M]
+- [Experimental-group residents' Mini-CEX scores on all six assessed competencies rose significantly from admission to two and four weeks of training](../claims/minicex-scores-improve-two-four-weeks-ultrasound.md) [+M]
 
 ## Related Products and Programmes
 -
 
 ## Key Sources
 - Durrani Shazia Fakhir, Hameed Ammara, Rani Pallavi, Ahmed Shakeel, Baqai Shehla, Ali Rida. (2025). Effect of Mini-CEX as formative learning tool for clinical skills in undergraduate medical students in a private medical university in Karachi, Pakistan. BMC Medical Education. https://doi.org/10.1186/s12909-025-07962-6
+- Bagheri Sara, Sedigh Amin, Zarei Zahra, Kazemzadeh Mozhgan, Sharifi Nader. (2025). Comparison of A Mini-Clinical evaluation exercise with the routine logbook in assessing clinical competence of operating room trainees: A parallel randomized controlled trial. BMC Medical Education. https://doi.org/10.1186/s12909-025-07560-6
+- Liu Rong, Li Lei, Zhou Ying, Xiong Lu. (2025). The application of CBL and mind mapping combined with Mini-CEX teaching mode in the cultivation of clinical competence of ultrasound residents. PLoS One. https://doi.org/10.1371/journal.pone.0327739

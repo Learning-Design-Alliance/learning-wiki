@@ -64,3 +64,4 @@ The editor's framing statement introducing the special-issue responses to Joo et
 - [Open Teaching can function as a driving strategy in autonomous learning](open-teaching-autonomous-learning-strategy.md) — related
 - [The three pilots shared online technology for mastery pathways, credit for demonstrated mastery, anytime/anywhere learning, and improved data management](proficiency-pilots-shared-design-attributes.md) — related
 - [Students reported high acceptance of the VR suture training system, with 92.31% finding it interesting and useful and 100% valuing anytime access](vr-suture-training-acceptance.md) — related
+- [Students valued desktop VE-based simulation for its accessibility, allowing them to log in anytime and anywhere and to stop and resume sessions](dvsim-accessible-repeatable-practice.md) — a narrower finding that bears on this claim

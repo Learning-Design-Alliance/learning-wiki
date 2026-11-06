@@ -53,3 +53,4 @@ Self-reported time-allocation shares from the post-learning survey in the random
 - [Guided LiquidText users redistribute task time toward document processing and away from writing](guidance-time-reallocation-multiple-document-task.md) — related
 - [Total learning time did not differ, but the worked-example group tended to spend more time on the most relevant quality-criteria content](learning-time-focus-quality-criteria-unit.md) — related
 - [Increasing narration speed by up to 1.8 times has no negative impact on learning and reduces instruction time](narration-speed-up-to-1-8x-no-learning-cost.md) — related
+- [ChatGPT-guided PBL shifted study time toward pre-class preparation without increasing total learning time](chatgpt-pbl-shifts-study-time-total-unchanged.md) — related

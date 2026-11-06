@@ -51,3 +51,4 @@ Post-session on-site questionnaires (51 items, four domains) from the experiment
 - [Peer tutors and non-tutor participants in PA-PBL showed no statistically significant difference in examination performance](pa-pbl-tutor-nontutor-no-difference.md) — related
 - [Students rated the virtual simulation system highly across learning effectiveness, usability, instructional value, and satisfaction (means above 4.2/5; Cronbach's α > 0.80)](vs-irrigation-questionnaire-high-acceptability.md) — related
 - [Participants rated the POCUS course near the maximum on all evaluation measures, exceeding the pre-set satisfaction threshold](pocus-course-high-satisfaction-ratings.md) — related
+- [Students reported high satisfaction with the script strategy teaching method (mean 74.37 ± 16.31 on a 100-point scale)](script-strategy-high-satisfaction.md) — related

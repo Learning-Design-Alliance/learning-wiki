@@ -48,3 +48,6 @@ Item-level analysis of responses to the 21 survey questions in the cross-section
 ## Related Claims
 - [Residents know avulsed-tooth storage media well but only 29.3% identify the correct 2-week splinting duration](tdi-knowledge-storage-media-strong-splinting-gap.md) — related
 - [Dental students demonstrate average knowledge of TDI management with significant deficiencies in avulsion of permanent teeth.](dental-students-average-tadi-knowledge-avulsion-deficiency.md) — a broader claim this one bears on
+- [Chinese dental undergraduates and residents have limited knowledge of correct emergency treatment for TDIs in immature permanent teeth](dental-students-limited-tdi-emergency-knowledge.md) — related
+- [Nursing students rarely identify recommended transport media for an avulsed tooth, favoring cotton or tissue (25.3%) over milk (5.4%) or saliva (2%)](nursing-students-avulsed-tooth-storage-media-poor.md) — related
+- [Nursing students' knowledge of avulsion management is inadequate: only four students would reinsert an avulsed tooth](nursing-students-avulsion-management-inadequate.md) — related

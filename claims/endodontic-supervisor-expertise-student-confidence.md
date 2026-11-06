@@ -49,3 +49,4 @@ The review reports, citing Friedlander et al. (2023), a survey study from New Ze
 - [Mastery learning has overall positive effects on student affect, with the exception of slightly lower grade expectations](mastery-positive-affective-effects.md) — a broader claim this one bears on
 - [All students in the experimental group succeeded in building the 3D inguinal canal model under teacher supervision in less than 15 minutes](inguinal-model-built-under-15-minutes.md) — related
 - [Students perceived HVRS training as useful and wanted it integrated into the endodontics curriculum](hvrs-positive-student-perceptions.md) — related
+- [Non-clinician facilitators' lack of case expertise initially undermined confidence, but confidence improved with facilitating experience](non-clinician-cbl-confidence-expertise-concerns.md) — related
