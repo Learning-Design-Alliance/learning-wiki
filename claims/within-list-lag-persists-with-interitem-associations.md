@@ -1,7 +1,7 @@
 ---
 type: claim
-title: A within-list lag effect persisted at all retention intervals (up to 7 days) when the orienting task allowed interitem associations, contrary to what a context-only retrieval account predicts for that condition
-description: A within-list lag effect persisted at all retention intervals (up to 7 days) when the orienting task allowed interitem associations, contrary to what a context-only retrieval account predicts for that condition
+title: A within-list lag effect appeared in almost every list, at retention intervals up to 7 days, when the orienting task allowed interitem associations, contrary to what a context-only retrieval account predicts for that condition
+description: A within-list lag effect appeared in almost every list, at retention intervals up to 7 days, when the orienting task allowed interitem associations, contrary to what a context-only retrieval account predicts for that condition
 id: within-list-lag-persists-with-interitem-associations
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-16
 evidence_strength: moderate
 newest_evidence: 1980
+source_checked: 2026-11-06
 sources:
   - id: glenberg-1980
     resource: "https://doi.org/10.3758/bf03213772"
@@ -28,11 +29,11 @@ sources:
     rigour: 2
 ---
 
-# A within-list lag effect persisted at all retention intervals (up to 7 days) when the orienting task allowed interitem associations, contrary to what a context-only retrieval account predicts for that condition
+# A within-list lag effect appeared in almost every list, at retention intervals up to 7 days, when the orienting task allowed interitem associations, contrary to what a context-only retrieval account predicts for that condition
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 1980 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 1980 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In Experiment 2 (superordinate generation task), a significant within-list lag effect appeared in almost every list regardless of retention interval, and the predicted four-way interaction was far from significant (F < 1). [→ Glenberg 1980](#glenberg-1980)

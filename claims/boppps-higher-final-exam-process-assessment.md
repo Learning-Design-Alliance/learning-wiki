@@ -1,7 +1,7 @@
 ---
 type: claim
-title: BOPPPS-based blended teaching produces significantly higher final examination and process assessment scores than traditional lecture-based teaching
-description: BOPPPS-based blended teaching produces significantly higher final examination and process assessment scores than traditional lecture-based teaching
+title: In one nonrandomised quasi-experiment, a BOPPPS-based blended teaching class scored significantly higher on final examination and process assessment than a traditional lecture-based class
+description: In one nonrandomised quasi-experiment, a BOPPPS-based blended teaching class scored significantly higher on final examination and process assessment than a traditional lecture-based class
 id: boppps-higher-final-exam-process-assessment
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: li-p-2026
     resource: "https://doi.org/10.2196/77728"
@@ -20,11 +21,11 @@ sources:
     rigour: 1
 ---
 
-# BOPPPS-based blended teaching produces significantly higher final examination and process assessment scores than traditional lecture-based teaching
+# In one nonrandomised quasi-experiment, a BOPPPS-based blended teaching class scored significantly higher on final examination and process assessment than a traditional lecture-based class
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The experimental group scored significantly higher on the final examination (88.00 vs 80.00, z=3.107, P=.002) and on process assessment (91.60 vs 88.20, z=1.969, P=.049). [→ Li P 2026](#li-p-2026)
@@ -37,7 +38,7 @@ Li P, Taoyu J, Yaxin L, Xiao-li P, Muzi L, Haoying D. (2026). Evaluation of the 
 
 `q2 · i?` · `causal · r1`
 
-Mann-Whitney U tests comparing process assessment and final examination scores between experimental (n=27) and control (n=25) groups. Both components showed significantly higher scores in the BOPPPS group, though the process assessment difference was only marginally significant.
+Mann-Whitney U tests comparing process assessment and final examination scores between experimental (n=27) and control (n=25) groups. Both components showed significantly higher scores in the BOPPPS group, though the process assessment difference was only just significant (P=.049). Students enrolled voluntarily in the experimental or control class, without random assignment, so the higher scores are associated with the BOPPPS class and cannot be attributed to the model alone.
 
 > "For the process assessment section, the score was higher in the experimental group (91.60, IQR 86.60‐94.00 vs 88.20, IQR 82.85‐90.65; z=1.969, P=.049). On the final examination, the experimental group also scored significantly higher than the control group (88.00, IQR 82.00‐92.00 vs 80.00, IQR 72.00‐87.00; z=3.107, P=.002)."
 

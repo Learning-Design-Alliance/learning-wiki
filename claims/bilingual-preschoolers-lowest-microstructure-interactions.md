@@ -52,7 +52,7 @@ ANOVA results for 56 children with Tukey HSD post-hoc tests. For SI, "the intera
 
 ## Related Claims
 - [All narrative microstructure measures increase with age group, but only lexical diversity (NDW) differs between Japanese–English bilingual and English monolingual children](ndw-only-language-group-difference-narrative-microstructure.md) — related
-- [No macrostructure measure differs significantly between bilingual and monolingual children, while age improves story structure, internal state terms, comprehension, and aggregate scores but not structural complexity](macrostructure-stable-across-language-groups.md) — related
+- [No macrostructure measure differs significantly between bilingual and monolingual children, while school-age children score higher than preschoolers on story structure, internal state terms, comprehension, and aggregate scores but not structural complexity](macrostructure-stable-across-language-groups.md) — related
 - [All children retold MAIN episode one with the most complexity and episode two with the least, regardless of age or language group](episode-one-most-complex-retell-pattern.md) — related
 - [Bilingual school-age children's microstructure converged with monolinguals', consistent with bilinguals exceeding the ~60% input benchmark for typical development](sufficient-input-convergence-school-age-microstructure.md) — related
 - Bilingual children acquire vocabulary and syntax in each language more slowly than monolingual children, yet show cognitive advantages and can match or surpass monolingual peers with support — a broader claim this one bears on

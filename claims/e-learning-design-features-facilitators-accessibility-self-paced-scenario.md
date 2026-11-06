@@ -47,7 +47,7 @@ Scoping review synthesis of facilitators across the included studies, mapped to 
 
 ## Related Claims
 - [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — related
-- [Teachers found Hero Elementary playlist hands-on activities easy to implement because materials were supplied and prepped.](hero-elementary-hands-on-activities-easy-implementation-prepped-materials.md) — related
+- [Teachers reported finding Hero Elementary playlist hands-on activities relatively easy to implement, with lesson planning and hands-on materials supplied and prepped.](hero-elementary-hands-on-activities-easy-implementation-prepped-materials.md) — related
 - [Technological prerequisites such as internet access and device availability were identified only by the South African panel, with equity of education as a distal outcome](technological-prerequisites-south-african-panel-equity.md) — related
 - [Infrastructure and access constraints were reported in 18 of 54 studies (33%) as the second higher-order technical limitation category](infrastructure-access-constraints-ai-efl.md) — related
 - [Barriers to implementing e-learning for infection management in primary care include misalignment with participants' expertise, platform complexity, and IT infrastructure challenges](e-learning-implementation-barriers-expertise-complexity-infrastructure.md) — related

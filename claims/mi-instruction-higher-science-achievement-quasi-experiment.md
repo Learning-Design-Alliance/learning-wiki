@@ -46,7 +46,7 @@ One-way ANCOVA on post-test scores of a 30-item teacher-made achievement test, c
 
 
 ## Related Claims
-- [Fifth-grade students taught science through inquiry-based instruction supported by the 5E learning cycle achieved significantly higher post-test scores than students taught by traditional methods](5e-inquiry-higher-achievement-than-traditional.md) — related
+- [In a quasi-experiment with 40 fifth-grade girls in Kermanshah, Iran, those taught science through inquiry-based instruction supported by the 5E learning cycle achieved significantly higher post-test scores than those taught by traditional methods](5e-inquiry-higher-achievement-than-traditional.md) — related
 - [Class IX physical science students taught with the constructivist 7E model achieved significantly higher post-test and gain scores than students taught with traditional methods](7e-model-higher-science-achievement-secondary.md) — related
 - [MI-based instruction produced significantly greater overall improvement in General English achievement than traditional instruction among Iranian university students](mi-instruction-improves-general-english-achievement.md) — related
 - [Fifth-grade female students taught an English unit with e-Mind Maps scored significantly higher on the post achievement test than students taught with the traditional teacher-guide method](e-mind-maps-achievement-posttest-advantage.md) — related

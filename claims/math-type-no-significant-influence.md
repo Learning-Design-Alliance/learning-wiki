@@ -45,7 +45,7 @@ Subsection analysis of effect sizes by type of mathematics across the 35 studies
 
 
 ## Related Claims
-- [Math anxiety has both a direct negative effect and a WM-mediated indirect effect on children's verbal Math Reasoning, but only an indirect effect on Numerical Operations](math-anxiety-direct-effect-verbal-math-reasoning.md) — related
+- [In a cross-sectional model, math anxiety has both a direct negative path and a WM-mediated indirect path to children's verbal Math Reasoning, but only an indirect path to Numerical Operations](math-anxiety-direct-effect-verbal-math-reasoning.md) — related
 - [Math Reasoning is more strongly correlated with reading comprehension than Numerical Operations is, and the two math measures are highly correlated](mr-reading-correlation-stronger-than-no.md) — related
 - [Type of VSWM assessed (simultaneous, sequential, or both) shows only a marginally non-significant influence on effect sizes](vswm-type-marginally-non-significant.md) — related
 - [Reading comprehension significantly predicts verbal Math Reasoning but not non-verbal Numerical Operations](reading-comprehension-predicts-mr-not-no.md) — related

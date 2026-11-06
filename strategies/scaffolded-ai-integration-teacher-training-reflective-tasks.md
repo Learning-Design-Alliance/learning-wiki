@@ -41,7 +41,7 @@ The review recommends that Arab universities integrate AI tools into EL2 instruc
 ## Claims
 
 - [Limited output accuracy and over-reliance are the most pressing challenges Chinese HSS students report in GenAI use, alongside strong ethical concern](../claims/genai-accuracy-overreliance-challenges-hss.md) [~W]
-- [Faculty concerns centered on academic integrity (80%) and student over-reliance on AI (70%), and their most requested development topic was AI ethics and academic integrity (70%)](../claims/faculty-ai-concerns-integrity-ethics-training-demand.md) [+W]
+- [Faculty concerns centered on academic integrity (80%) and over-reliance on AI by students or faculty (70%), and their most requested development topic was AI ethics and academic integrity (70%)](../claims/faculty-ai-concerns-integrity-ethics-training-demand.md) [+W]
 - [Fewer than 10% of teaching staff and students in surveyed Arab higher education institutions had received formal AI training](../claims/under-10-percent-arab-he-formal-ai-training.md) [+W]
 
 ## Related Strategies

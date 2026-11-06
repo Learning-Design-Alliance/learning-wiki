@@ -9,11 +9,12 @@ generated:
   at: 2026-10-27
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: mavilidi-2026
     resource: "https://doi.org/10.1038/s41539-026-00408-8"
-    title: "Mavilidi, M.F., Paas, F., Zou, L., Lubans, D.R., Mokhtari, L., Schmidt, M., Castro Alonso, J.C., Ng, R., & Bennet, S. (2026). Effects of Videos with Whole-Body Movements on Young Children's Geography Learning. npj Science of Learning. https://doi.org/10.1038/s41539-026-00408-8"
-    author: "Mavilidi, M.F., Paas, F., Zou, L., Lubans, D.R., Mokhtari, L., Schmidt, M., Castro Alonso, J.C., Ng, R., & Bennet, S."
+    title: "Mavilidi, M.F., Paas, F., Zou, L., Lubans, D.R., Mokhtari, L., Schmidt, M., Castro Alonso, J.C., Ng, R., & Bennett, S. (2026). Effects of Videos with Whole-Body Movements on Young Children's Geography Learning. npj Science of Learning. https://doi.org/10.1038/s41539-026-00408-8"
+    author: "Mavilidi, M.F., Paas, F., Zou, L., Lubans, D.R., Mokhtari, L., Schmidt, M., Castro Alonso, J.C., Ng, R., & Bennett, S."
     q: 3
     i: "?"
     kind: causal
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` After pre-test adjustment, the embodied movement group and the seated control group did not differ significantly on free-recall or cued-recall geography knowledge. [→ Mavilidi 2026](#mavilidi-2026)
@@ -33,11 +34,11 @@ sources:
 
 ### Mavilidi 2026
 
-Mavilidi, M.F., Paas, F., Zou, L., Lubans, D.R., Mokhtari, L., Schmidt, M., Castro Alonso, J.C., Ng, R., & Bennet, S. (2026). Effects of Videos with Whole-Body Movements on Young Children's Geography Learning. npj Science of Learning. https://doi.org/10.1038/s41539-026-00408-8
+Mavilidi, M.F., Paas, F., Zou, L., Lubans, D.R., Mokhtari, L., Schmidt, M., Castro Alonso, J.C., Ng, R., & Bennett, S. (2026). Effects of Videos with Whole-Body Movements on Young Children's Geography Learning. npj Science of Learning. https://doi.org/10.1038/s41539-026-00408-8
 
 `q3 · i?` · `causal · r2`
 
-Randomised MANCOVA with pre-test as covariate, group as independent variable, and free-recall and cued-recall geography knowledge as outcomes in 75 children (intervention = 37). The main effect of group was "not significant, V = 0.002, F(2, 71) = 0.071, p = 0.932"; no effect size for the group effect was reported.
+Randomised MANCOVA with pre-test as covariate, group as independent variable, and free-recall and cued-recall geography knowledge as outcomes in 75 children (the participant table gives 38 intervention and 37 control children; the article's prose says intervention = 37). The main effect of group was "not significant, V = 0.002, F(2, 71) = 0.071, p = 0.932"; no effect size for the group effect was reported.
 
 > "Using Pillai's Trace, the main effect of group, was not significant, V = 0.002, F(2, 71) = 0.071, p = 0.932."
 

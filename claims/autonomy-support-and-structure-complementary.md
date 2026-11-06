@@ -9,12 +9,13 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: neufeld-a-2026
-    resource: "https://doi.org/10.5334/pme.2417"
+    resource: "https://doi.org/10.1007/s10459-024-10344-0"
     title: "Neufeld A. (2026). Why Controlling Teaching Persists in Medical Education: A Self-Determination Theory Perspective. Perspectives on Medical Education. https://doi.org/10.5334/pme.2417"
     author: Neufeld A.
-    q: 2
+    q: 1
     i: "?"
     kind: causal
     rigour: "?"
@@ -23,11 +24,11 @@ sources:
 # Autonomy-supportive supervision benefits are strengthened, not diminished, by clear direction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r?` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Evidence** · 1 study · causal `r?` · `q1`
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` In an experimental vignette study among junior doctors, autonomy-supportive supervision predicted greater need satisfaction and intrinsic motivation, with benefits strengthened when supervisors also provided clear direction. [→ Neufeld A 2026](#neufeld-a-2026)
+`q1 i?` As this perspective article summarises van der Goot et al.'s (2024) experimental vignette study among junior doctors, autonomy-supportive supervision predicted greater need satisfaction and intrinsic motivation, with benefits strengthened when supervisors also provided clear direction. [→ Neufeld A 2026](#neufeld-a-2026)
 
 ## Evidence
 
@@ -35,9 +36,9 @@ sources:
 
 Neufeld A. (2026). Why Controlling Teaching Persists in Medical Education: A Self-Determination Theory Perspective. Perspectives on Medical Education. https://doi.org/10.5334/pme.2417
 
-`q2 · i?` · `causal · r?`
+`q1 · i?` · `causal · r?`
 
-The article reports this experimental vignette study, citing van der Goot and colleagues, as evidence that autonomy support and structure are complementary rather than competing features of effective teaching.
+A conceptual self-determination-theory perspective ("Eye Opener") article, not an experiment: it tested nothing itself. It summarises a primary study by others, van der Goot, W. E., Van Yperen, N. W., Albers, C. J., Jaarsma, A. D. C., & Duvivier, R. J. (2024). Effects of (de)motivating supervision styles on junior doctors' intrinsic motivation through basic psychological need frustration and satisfaction: an experimental vignette study. *Advances in Health Sciences Education, 30*(2), 401–426. [doi:10.1007/s10459-024-10344-0](https://doi.org/10.1007/s10459-024-10344-0), which has not been read for this page. The article cites that experimental vignette study as evidence that autonomy support and structure are complementary rather than competing features of effective teaching.
 
 > "a recent experimental vignette study among junior doctors found that autonomy-supportive supervision predicted greater psychological need satisfaction and intrinsic motivation, with these benefits strengthened rather than diminished when supervisors also provided clear direction"
 

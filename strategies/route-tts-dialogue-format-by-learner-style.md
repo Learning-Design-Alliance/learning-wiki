@@ -41,7 +41,7 @@ The article recommends that, rather than delivering a single dialogue format uni
 
 ## Claims
 
-- [Interactions between learner characteristics and dialogue format for learning outcomes showed only trends toward significance, not significant effects](../claims/learning-outcome-interactions-trend-only.md) [-W]
+- [No interaction between learner characteristics and dialogue format was significant for self-reported learning outcomes after correction for multiple tests](../claims/learning-outcome-interactions-trend-only.md) [-W]
 - [Student–student and teacher–teacher dialogue formats elicited significantly higher ARCS motivation than the teacher–student format](../claims/ss-tt-higher-motivation-than-ts.md) [+W]
 - [In TTS dialogue-based lessons, the teacher–teacher format significantly moderates the motivation effects of both the CE factor (positive) and the RCE factor (negative)](../claims/tt-format-moderates-ce-rce-motivation.md) [+W]
 

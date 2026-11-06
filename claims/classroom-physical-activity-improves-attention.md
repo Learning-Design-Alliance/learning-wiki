@@ -8,6 +8,7 @@ generated:
 id: classroom-physical-activity-improves-attention
 evidence_strength:
 newest_evidence: 2018
+source_checked: 2026-11-06
 sources:
   - id: watson-et-al-2017
     resource: "https://doi.org/10.1186/s12966-017-0569-9"
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r2`, 1 review `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2018 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 <!-- title before 2026-10-14: Classroom Physical Activity Improves Attention -->
 
 Brief bouts of physical activity integrated into classroom instruction — movement breaks, active lessons, standing or walking tasks — produce short-term improvements in students' on-task behavior; the reviews below do not show consistent gains on [attention](../elements/attention.md) measured by cognitive tests.
@@ -42,7 +43,7 @@ Brief bouts of physical activity integrated into classroom instruction — movem
 
 `q3 i2` In primary-school children, classroom-based physical activity increased on-task and reduced off-task behaviour (SMD = 0.60, from 4 studies), but showed no significant effect on cognitive functions such as executive function (SMD = 0.33, CI crossing zero). [→ Watson et al. 2017](#watson-et-al-2017)
 
-`q3 i?` Across 18 acute studies of movement breaks and physically active lessons, time on task improved after longer moderate-to-vigorous bouts (more than 10 minutes) or shorter, more intense 5-minute bouts in 9 of 11 interventions, while cognitive results were inconsistent: attention improved after a 5-minute vigorous break but not after longer 10–12-minute moderate-to-vigorous bouts, and the authors found "no support for enhanced cognition or academic performance due to limited repeated studies". [→ Daly-Smith et al. 2018](#daly-smith-et-al-2018)
+`q3 i?` Across 18 acute studies of movement breaks and physically active lessons, time on task improved after longer moderate-to-vigorous bouts (more than 10 minutes) or shorter, more intense 5-minute bouts in 9 of 11 interventions, while cognitive results were inconsistent: the one positive attention result (d2 test, d=0.16–0.29) came from a single study of 4 minutes of vigorous interval activity within a 10-minute session, while longer 10–12-minute moderate-to-vigorous bouts did not improve attention, and the authors found "no support for enhanced cognition or academic performance due to limited repeated studies". [→ Daly-Smith et al. 2018](#daly-smith-et-al-2018)
 
 ## Evidence
 
@@ -60,7 +61,7 @@ Daly-Smith, A. J., Zwolinsky, S., McKenna, J., Tomporowski, P. D., Defeyter, M. 
 
 `q3 · systematic review (PROSPERO-registered), no meta-analysis` · `i? · no pooled effect size reported` · `n=18 studies (10 physically active learning, 8 classroom movement breaks)` · `review · r2`
 
-A registered systematic review of single (acute) bouts of classroom movement breaks and physically active learning in school-age pupils (eligibility was ages 4 to 17; the included studies' participants were about 7 to 14). Risk-of-bias (Downs and Black) quality scores were low to medium: 30% to 63% for the physically active learning studies and 41% to 67% for the movement-break studies (the abstract gives 33% to 64.3%, where 64.3% is the average of the three most recent movement-break studies). Classroom behaviour, measured mostly as time on task, improved after a bout in 9 of 11 interventions, depending on its duration and intensity. There was no consistent evidence of better cognition or academic performance. Attention was tested in three or more studies and improved after a 5-minute vigorous break but not after longer 10–12-minute moderate-to-vigorous bouts. This qualifies the claim: the evidence is for on-task behaviour more than for attention as measured by cognitive tests.
+A registered systematic review of single (acute) bouts of classroom movement breaks and physically active learning in school-age pupils (eligibility was ages 4 to 17; the included studies' participants were about 7 to 14). Risk-of-bias (Downs and Black) quality scores were low to medium: 30% to 63% for the physically active learning studies and 41% to 67% for the movement-break studies (the abstract gives 33% to 64.3%, where 64.3% is the average of the three most recent movement-break studies). Classroom behaviour, measured mostly as time on task, improved after a bout in 9 of 11 interventions, depending on its duration and intensity. There was no consistent evidence of better cognition or academic performance. Attention was tested in three or more studies. The only positive attention result was Ma et al.'s FUNterval break, 4 minutes of vigorous interval activity within a 10-minute session (d2 test, d=0.16–0.29); longer 10–12-minute moderate-to-vigorous bouts showed no attention gain, and the 5-minute breaks in Howie et al. and Kubesch et al. showed no cognitive difference. (The review's discussion summarises this as attention improving "with 5 min vigorous-intensity CMB".) This qualifies the claim: the evidence is for on-task behaviour more than for attention as measured by cognitive tests.
 
 ## Studies bearing on this claim
 

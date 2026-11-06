@@ -45,7 +45,7 @@ Same interview data set: despite reported interest gains from videos, most stude
 
 
 ## Related Claims
-- [Inserting fiction excerpts into chemistry instruction shifted classroom discourse toward more student questions, peer challenge, and evidence-based argumentation](fiction-insertion-shifts-chemistry-discourse.md) — related
+- [A chemistry class taught with inserted fiction excerpts showed more student questions, peer challenge and evidence-based argumentation, a shift the authors do not attribute to the fiction itself](fiction-insertion-shifts-chemistry-discourse.md) — related
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](students-report-hands-on-learning-most-effective.md) — a broader claim this one bears on
 - [Motivation, participation, encouragement, fun and interest rated high during the intervention; critical thinking more modest](mbot-motivation-engagement-high.md) — related

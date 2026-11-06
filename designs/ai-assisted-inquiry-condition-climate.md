@@ -17,7 +17,7 @@ sources:
 # AI-assisted inquiry condition in which a conversational AI partner is embedded in climate-change inquiry
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 The experimental condition embedded a conversational generative AI partner within inquiry-based learning on climate change, a socio-scientific issue. The article's design principle is that "AI helps most when it is designed to question rather than to answer," positioning the AI as a questioning partner rather than an answer provider. Students' verification behaviour — checking AI claims against sources — was tracked and predicted learning gains.

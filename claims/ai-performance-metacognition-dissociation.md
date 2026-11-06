@@ -9,6 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: sander-de-jong-2026
     resource: "https://doi.org/10.48550/arxiv.2609.27726"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r?` · `q1`
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` LLMs improved task performance but made users overconfident about their own accuracy, and most participants relied on single prompts without further follow-up. [→ Sander de Jong 2026](#sander-de-jong-2026)
@@ -56,7 +57,7 @@ Sander de Jong. (2026). Open Questions Towards Skill-Sustaining Reliance in Refl
 
 `q1 · i?` · `causal · r?`
 
-Narrative review attribution in Section 5: the paper reports, citing Goh et al., that physician access to an LLM did not improve their diagnostic reasoning despite the LLM outperforming them, suggesting the interaction did not translate AI capability into better human reasoning.
+The same workshop position paper, which runs no study and has no review method, reports second-hand in Section 5, citing Goh et al., that physician access to an LLM did not improve their diagnostic reasoning despite the LLM outperforming them, suggesting the interaction did not translate AI capability into better human reasoning. The finding is Goh et al.'s, not this paper's.
 
 > "Goh et al. found that giving physicians access to an LLM did not improve their diagnostic reasoning, even though the LLM outperformed them"
 

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Manual dexterity scores rose from pre-test to post-test after an eight-week home training programme in first-year dental students (small effect, both hands)
-description: Manual dexterity scores rose from pre-test to post-test after an eight-week home training programme in first-year dental students (small effect, both hands)
+title: Manual dexterity improved from pre-test to post-test after an eight-week home training programme in first-year dental students (small effect, both hands)
+description: Manual dexterity improved from pre-test to post-test after an eight-week home training programme in first-year dental students (small effect, both hands)
 id: home-training-improves-dental-student-dexterity
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-06
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-06
 sources:
   - id: pérez-chicharro-maría-2025
     resource: "https://doi.org/10.1186/s12909-025-08015-8"
@@ -20,11 +21,11 @@ sources:
     rigour: 1
 ---
 
-# Manual dexterity scores rose from pre-test to post-test after an eight-week home training programme in first-year dental students (small effect, both hands)
+# Manual dexterity improved from pre-test to post-test after an eight-week home training programme in first-year dental students (small effect, both hands)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i1` small
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` After the eight-week home programme, Nine Hole Peg Test and Box and Block Test performance improved significantly in both the dominant and non-dominant hands, with small effect sizes (r >.26). [→ Pérez-Chicharro María 2025](#perez-chicharro-maria-2025)

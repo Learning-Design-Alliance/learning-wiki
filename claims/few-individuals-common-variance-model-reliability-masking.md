@@ -9,12 +9,13 @@ generated:
   at: 2026-10-08
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-11-06
 recheck_by: 2024
 sources:
   - id: donald-williams-2021
     resource: "https://doi.org/10.3758/s13428-021-01646-x"
-    title: "Donald Williams, Stephen Martin, Phillipe Rast. (2021). Putting the individual into reliability: Bayesian testing of homogeneous within-person variance in hierarchical models. Behavior Research Methods. https://doi.org/10.3758/s13428-021-01646-x"
-    author: Donald Williams, Stephen Martin, Phillipe Rast
+    title: "Donald Williams, Stephen Martin, Philippe Rast. (2021). Putting the individual into reliability: Bayesian testing of homogeneous within-person variance in hierarchical models. Behavior Research Methods. https://doi.org/10.3758/s13428-021-01646-x"
+    author: Donald Williams, Stephen Martin, Philippe Rast
     q: 2
     i: "?"
     kind: associational
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
+> **Currency** · newest study 2021 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2024**: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` When individuals are classified via the membership model, few belong to the common variance model, implying traditional reliability indices potentially mask important individual variation. [→ Donald Williams 2021](#donald-williams-2021)
@@ -34,7 +35,7 @@ sources:
 
 ### Donald Williams 2021
 
-Donald Williams, Stephen Martin, Phillipe Rast. (2021). Putting the individual into reliability: Bayesian testing of homogeneous within-person variance in hierarchical models. Behavior Research Methods. https://doi.org/10.3758/s13428-021-01646-x
+Donald Williams, Stephen Martin, Philippe Rast. (2021). Putting the individual into reliability: Bayesian testing of homogeneous within-person variance in hierarchical models. Behavior Research Methods. https://doi.org/10.3758/s13428-021-01646-x
 
 `q2 · i?` · `associational · r?`
 

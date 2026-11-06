@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: de-jesus-m-m-2026
     resource: "https://doi.org/10.1187/cbe.25-07-0154"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` As group size increases, each member's average contribution tends to decline, and large groups of five or more often divide work into subtasks, reducing student motivation, effort, and collaboration. [→ De Jesus M. M. 2026](#de-jesus-m-m-2026)
@@ -37,7 +38,7 @@ De Jesus M. M., Hobbs K. S., Adams P. E., Ammamoo E., Costello R. A., Cotner S.,
 
 `q2 · i?` · `theoretical · r3`
 
-The essay's group-size section reports observational studies attributing this to Kravitz and Martin and Ringelmann. The essay states "as group size increases, each member's average contribution tends to decline" and that large groups of five or more often divide work into subtasks, reducing student motivation, effort, and collaboration. No effect size is printed.
+An essay, not a study: its group-size section cites prior research (Kravitz and Martin, 1986; Ringelmann, 1913) for the Ringelmann effect without characterising the design of that research. The essay states "as group size increases, each member's average contribution tends to decline" and that large groups of five or more often divide work into subtasks, reducing student motivation, effort, and collaboration. No effect size is printed.
 
 > "as group size increases, each member's average contribution tends to decline (Kravitz and Martin, 1986; Ringelmann, 1913)"
 

@@ -50,5 +50,5 @@ Descriptive analysis of written answers to the open question about teaching via 
 - [Jigsaw group students reported mostly positive opinions, most commonly easier experiments, exchange of ideas, and shorter experiment duration](jigsaw-positive-student-opinions.md) — related
 - [When choosing Layered Curriculum activities, students prioritized enjoyable activities and activities they believed they could do](students-choose-enjoyable-feasible-activities.md) — related
 - [Experimental group students reported higher attention and concept understanding during activity-based lessons](abl-attention-understanding-ratings.md) — related
-- [Students most liked the competing theories, news, and concept cartoon activities because these made creating and defending arguments easier](absl-favorite-activities-ranking.md) — related
+- [Interviewed students named competing theories, news and concept cartoons as their favourite argumentation activities, giving reasons that differed by activity, chiefly easier argument creation and better expression of ideas](absl-favorite-activities-ranking.md) — related
 - [Experimental-group students' opinions on concept cartoons clustered into five themes: learning, applicability to other lessons, correcting missing and false information, persistence, and being funny or different](student-opinions-concept-cartoons-five-themes.md) — related

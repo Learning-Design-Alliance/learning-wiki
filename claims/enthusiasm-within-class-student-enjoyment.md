@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Perceived teacher enthusiasm positively predicts student enjoyment at the within-class (individual student) level
-description: Perceived teacher enthusiasm positively predicts student enjoyment at the within-class (individual student) level
+title: Perceived teacher enthusiasm is positively associated with student enjoyment at the within-class (individual student) level, beyond prior enjoyment
+description: Perceived teacher enthusiasm is positively associated with student enjoyment at the within-class (individual student) level, beyond prior enjoyment
 id: enthusiasm-within-class-student-enjoyment
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-24
 evidence_strength: moderate
 newest_evidence: 2009
+source_checked: 2026-11-06
 sources:
   - id: frenzel-2009
     resource: "https://doi.org/10.1037/a0014695"
@@ -20,14 +21,14 @@ sources:
     rigour: 3
 ---
 
-# Perceived teacher enthusiasm positively predicts student enjoyment at the within-class (individual student) level
+# Perceived teacher enthusiasm is positively associated with student enjoyment at the within-class (individual student) level, beyond prior enjoyment
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
-> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2009 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` At the within-class level, perceived teacher enthusiasm had a positive effect on individual student enjoyment in Grade 8 (β = .31, p < .01) beyond the autoregression from Grade 7 enjoyment (β = .53, p < .01). [→ Frenzel 2009](#frenzel-2009)
+`q3 i?` At the within-class level, Grade 8 perceived teacher enthusiasm was positively associated with individual student enjoyment in Grade 8 (β = .31, p < .01) beyond the autoregression from Grade 7 enjoyment (β = .53, p < .01); both Grade 8 measures were taken at the same time, so the direction of influence is not established. [→ Frenzel 2009](#frenzel-2009)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Frenzel, A. C., Goetz, T., Lüdtke, O., Pekrun, R., & Sutton, R. E. (2009). Emot
 
 `q3 · i?` · `associational · r3`
 
-Within-class level of the Step 3 ML-SEM model; the article reports 45.9% of within-class variance of Grade 8 student enjoyment was explained, and Grade 7 enjoyment correlated with Grade 8 perceived enthusiasm (r = .27, p < .01).
+Within-class level of the Step 3 ML-SEM model; the article reports 45.9% of within-class variance of Grade 8 student enjoyment was explained, and Grade 7 enjoyment correlated with Grade 8 perceived enthusiasm (r = .27, p < .01). The path from perceived enthusiasm to Grade 8 enjoyment (β = .31) is an observational association between measures taken together in Grade 8; the authors note that "bidirectional effects within Grade 8 could not be modeled by this approach", so it does not show that enthusiasm caused enjoyment.
 
 > "There was again a relatively strong autoregressive path from student enjoyment in Grade 7 on student enjoyment in Grade 8 ( /H9252/H11005.53, p /H11021.01), but perceived teacher enthusiasm had an additional positive effect of /H9252/H11005.31 ( p /H11021.01)."
 

@@ -41,7 +41,7 @@ The article encourages audiovisual playback during meta-debriefing because it "e
 
 - [High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety](../claims/vad-stress-psychological-safety-threat.md) [~W]
 - [The outside perspective of video-assisted debriefing helped participants observe teammates and see how individual actions related to team performance, though most participants focused mainly on themselves](../claims/vad-outside-view-observational-learning.md) [~W]
-- [All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback whose credibility was not restricted by facilitator hierarchy](../claims/facilitators-prefer-vad-objective-feedback.md) [+W]
+- [All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback that they felt participants accepted more readily across differences in hierarchy](../claims/facilitators-prefer-vad-objective-feedback.md) [+W]
 - [Video-assisted debriefing enhances precision but risks psychological safety and narrows reflection to individual performance](../claims/video-debriefing-precision-safety-tradeoffs.md) [~W]
 
 ## Related Strategies

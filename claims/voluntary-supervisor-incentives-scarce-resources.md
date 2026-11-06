@@ -50,4 +50,4 @@ Authors' guideline derived from the sustainability analysis of the IMPDET progra
 - [Departure of a key person together with the end of external funding posed a genuine threat to the continuation of the online doctoral program](key-person-departure-funding-end-threat.md) — related
 - [Positive pivotal factors in one sustainability pillar can compensate for negative pivotal factors in other pillars of an online study program](pillar-compensation-online-program-sustainability.md) — a broader claim this one bears on
 - [Extrinsic incentives have mixed results on effort and achievement, working better when immediate and larger](extrinsic-incentives-mixed-results-effort-achievement.md) — related
-- [Financial and economic constraints shape first-generation chemists' career decisions, sometimes deterring advanced training altogether](financial-constraints-shape-first-generation-career-decisions.md) — related
+- [In the reflections of 13 first-generation chemists, financial constraints can shape career decisions and can deter advanced training](financial-constraints-shape-first-generation-career-decisions.md) — related

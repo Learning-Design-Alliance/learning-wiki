@@ -64,5 +64,5 @@ In the same regression model, bullying (verbal or physical harassment going to o
 
 
 ## Related Claims
-- [Bullying and punitive teacher behavior increase chronic absenteeism while household work and family income reduce it](bullying-punitive-behavior-increase-chronic-absenteeism.md) — related
+- [In one Haor-region survey, bullying was associated with higher odds of chronic absenteeism and household work and family income with lower odds; the direction of the teacher-behaviour association is ambiguous](bullying-punitive-behavior-increase-chronic-absenteeism.md) — related
 - [SW-PBIS is theorized to improve academic achievement indirectly by reducing problem behavior and lost instructional time](swpbis-theorized-mechanism-reduced-problem-behavior-instructional-time.md) — related

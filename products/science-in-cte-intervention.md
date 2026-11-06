@@ -25,7 +25,7 @@ A North Dakota agricultural-education intervention developed by CTE and science 
 
 ### Claims
 - [12 of the 13 experimental agricultural education teachers still teaching explicit science (92%) used Science-in-CTE materials one year after the pilot study](../claims/science-in-cte-treatment-teachers-sustained-use-one-year.md) [+M]
-- [80% of partnered science teachers voluntarily incorporated Science-in-CTE methods or examples into their science classes](../claims/science-teachers-voluntary-adoption-science-in-cte.md) [+M]
+- [Eight of the 10 responding partnered science teachers (80%) voluntarily incorporated Science-in-CTE methods or examples into their science classes](../claims/science-teachers-voluntary-adoption-science-in-cte.md) [+M]
 - [Of the control agricultural education teachers still teaching explicit science a year later, only 2 of 7 (29%) used the Science-in-CTE method and lessons](../claims/science-in-cte-control-teachers-low-sustained-use.md) [+W]
 - [Sustained usage rates in Science-in-CTE were consistent with those reported in the Math-in-CTE follow-up study](../claims/science-in-cte-usage-consistent-with-math-in-cte.md) [+W]
 - [Science teachers who adopted the seven-element model most often adopted elements one, six, and seven](../claims/science-teacher-adoption-pattern-seven-element-model.md) [+W]

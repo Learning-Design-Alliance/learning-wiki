@@ -42,7 +42,7 @@ The article's educational recommendations follow directly from its moderated med
 - [The observed gene-by-environment pattern supports the diathesis-stress model over the bioecological model of G × E interaction on reading, in this sample of unrelated children](../claims/diathesis-stress-model-supported-reading-gxe.md) [+W]
 - [Parental education and SES moderate the relationship between RU2-Short and reading outcomes](../claims/home-environment-moderates-read1-reading-link.md) [+W]
 - [The indirect effect of RU2-Short on reading outcomes through phonological awareness is conditional on home environment: significant at low and medium parental education and low SES, but not at high parental education or high SES](../claims/moderated-mediation-pa-indirect-effect-conditional.md) [+W]
-- [Phonological awareness mediates the effect of the DCDC2-READ1 RU2-Short allele on word reading accuracy, word reading fluency, and reading comprehension](../claims/phonological-awareness-mediate-read1-reading-outcomes.md) [+W]
+- [Phonological awareness statistically mediates the association between the DCDC2-READ1 RU2-Short allele and word reading accuracy, word reading fluency, and reading comprehension](../claims/phonological-awareness-mediate-read1-reading-outcomes.md) [+W]
 - [RU2-Short correlates negatively with phonological awareness and reading comprehension, and positively with SES, in the overall sample](../claims/ru2-short-small-correlations-pa-comprehension-ses.md) [+W]
 
 ## Related Strategies

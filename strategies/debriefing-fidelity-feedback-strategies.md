@@ -44,7 +44,7 @@ The review identifies implementation strategies that "significantly enhanced exp
 - [Self-confidence gains from single-session simulation are often temporary, suggesting a dose–response effect](../claims/simulation-confidence-dose-response.md) [~W]
 - [Simulation-based education improves nursing students' clinical decision-making, judgment, and self-confidence](../claims/simulation-improves-nursing-decision-making-confidence.md) [+W]
 - [Simulation type–outcome alignment: high-fidelity formats favour judgment and decision-making, VR and games favour empathy and reflection](../claims/simulation-type-outcome-alignment.md) [+W]
-- [All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback whose credibility was not restricted by facilitator hierarchy](../claims/facilitators-prefer-vad-objective-feedback.md) [+W]
+- [All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback that they felt participants accepted more readily across differences in hierarchy](../claims/facilitators-prefer-vad-objective-feedback.md) [+W]
 
 ## Related Strategies
 

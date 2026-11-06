@@ -33,7 +33,7 @@ newest_evidence: 2017
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 review `r?` · `q2`–`q3`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 The "hypercorrection effect" describes the phenomenon where errors committed with high confidence are more likely to be corrected and remembered accurately later than low-confidence errors, likely due to increased attention triggered by the surprise of being wrong.
 
@@ -57,7 +57,7 @@ This comprehensive review synthesizes decades of research on learning from error
 
 Fazio, L. K., & Marsh, E. J. (2009). Surprising feedback improves later memory. *Psychonomic Bulletin & Review, 16*(1), 88–92. [https://doi.org/10.3758/PBR.16.1.88](https://doi.org/10.3758/PBR.16.1.88)
 
-`q3 · peer-reviewed experiment` · `i? · no effect size printed: within-subject gamma correlations and t tests only` · `n=118 analysed (46 + 72; 24 more tested and excluded)` · `causal · r?`
+`q3 · peer-reviewed experiment` · `i? · no standardized effect size (such as d) printed: effects reported as within-subject gamma correlations (Exp. 1 γ = −.19 and .12; Exp. 2 hypercorrection γ = .23, source memory γ = −.28 and .12) with t tests, not on the d scale` · `n=118 analysed (46 + 72; 24 more tested and excluded)` · `causal · r?`
 
 Two experiments with undergraduates (46 analysed in Experiment 1, after 17 performing at chance on the source test were excluded; 72 in Experiment 2, 50 in a source-test condition and 22 in a retest condition, after 7 were excluded) found better memory for the appearance of feedback (its font colour or voice) when it did not match their expectation (feedback on a high-confidence error or on a low-confidence correct answer), and Experiment 2 also showed the hypercorrection effect itself. The authors read this as consistent with the surprise hypothesis, using memory for the feedback's appearance as a measure of attention; attention was not manipulated directly.
 

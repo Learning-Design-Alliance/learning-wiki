@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` A significant Choice × Decision interaction on retention absolute difference between estimated and actual outcome (F(2,42) = 7.19, p= 0.002, ηp2 = 0.26) showed Self-After (M = 10.44) and Self-Both (M = 13.80) more accurate than Self-Before (M = 27.01). [→ Carter 2014](#carter-2014)
@@ -46,7 +46,7 @@ Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedba
 
 `q3 · i? · partial η² only, no standardised mean difference` · `causal · r1`
 
-Laboratory experiment in which university volunteers learned a slider-positioning task under six knowledge-of-results (KR) conditions; participants estimated each outcome in retention, scored as absolute difference (AD). Self-After and Self-Both "were significantly more accurate in their subjective performance evaluations than the Self-Before group".
+Laboratory experiment in which 48 volunteers (mean age 21.35 years) learned a slider-positioning task under six knowledge-of-results (KR) conditions; participants estimated each outcome in retention, scored as absolute difference (AD). Self-After and Self-Both "were significantly more accurate in their subjective performance evaluations than the Self-Before group".
 
 > "The main effects for Choice and Decision in retention were superseded by a significant interaction, F(2,42) = 7.19, p= 0.002, ηp2 = 0.26, which revealed that both the Self-After (M = 10.44, SE = 1.40) and the Self-Both (M = 13.80, SE = 2.59) groups were significantly more accurate in their subjective performance evaluations than the Self-Before group (M = 27.01, SE = 3.52)."
 

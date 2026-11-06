@@ -27,7 +27,7 @@ sources:
 > **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` In a controlled experiment with 28 students, the greatest improvement between draft and final paper occurred when the author received multiple peer reviews, and the least improvement occurred with a single expert reviewer. [→ Luxton-Reilly 2009](#luxton-reilly-2009)
+`q3 i?` A systematic review of peer-assessment tools reports, in its description of the SWoRD tool, an earlier evaluation (a controlled experiment the review summarises, not one it ran) with 28 students in which the greatest improvement between draft and final paper occurred when the author received multiple peer reviews, and the least improvement occurred with a single expert reviewer. [→ Luxton-Reilly 2009](#luxton-reilly-2009)
 
 ## Evidence
 
@@ -37,7 +37,7 @@ Luxton-Reilly, A. (2009). A systematic review of tools that support peer assessm
 
 `q3 · i?` · `review · r3`
 
-A controlled experiment within the SWoRD evaluation compared "a single expert reviewer, single peer reviewer and multiple peer reviewers" with 28 students in a research methods course. The greatest improvement between draft and final paper occurred with multiple peer reviews. No effect size is printed.
+A systematic review of tools that support peer assessment; it ran no experiment itself. In its section on the SWoRD tool it summarises an earlier evaluation, which it describes as a controlled experiment comparing "a single expert reviewer, single peer reviewer and multiple peer reviewers" with 28 students in a research methods course. The greatest improvement between draft and final paper occurred with multiple peer reviews. This is the review's second-hand account of that study, which the review cites but which is not separately recorded here. No effect size is printed.
 
 > "An evaluation of SWoRD was conducted with 28 students in a research methods course. A controlled experiment comparing a single expert reviewer, single peer reviewer and multiple peer reviewers showed the greatest improvement between draft and final paper occurred when the author received multiple peer reviews, and the least improvement occurred with a single expert reviewer."
 

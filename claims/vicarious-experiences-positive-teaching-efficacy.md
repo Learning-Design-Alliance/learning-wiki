@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Vicarious experiences are positively related to agriculture teachers' general teaching efficacy, with observing a first year teacher explaining 11% of variance"
-description: "Vicarious experiences are positively related to agriculture teachers' general teaching efficacy, with observing a first year teacher explaining 11% of variance"
+title: "Vicarious experiences are positively related to agriculture student teachers' general teaching efficacy, with observing a first year teacher explaining 11% of variance"
+description: "Vicarious experiences are positively related to agriculture student teachers' general teaching efficacy, with observing a first year teacher explaining 11% of variance"
 id: vicarious-experiences-positive-teaching-efficacy
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-06
 sources:
   - id: mckim-2016
     resource: "https://doi.org/10.5032/jae.2016.01073"
@@ -20,11 +21,11 @@ sources:
     rigour: 2
 ---
 
-# Vicarious experiences are positively related to agriculture teachers' general teaching efficacy, with observing a first year teacher explaining 11% of variance
+# Vicarious experiences are positively related to agriculture student teachers' general teaching efficacy, with observing a first year teacher explaining 11% of variance
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Multiple vicarious experiences were positively correlated with student teachers' general teaching efficacy, and observing a first year agriculture teacher explained 11% of the variance in general teacher efficacy. [→ McKim 2016](#mckim-2016)

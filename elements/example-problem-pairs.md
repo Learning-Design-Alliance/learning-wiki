@@ -57,7 +57,7 @@ Example problem pairs reduce unguided search during early skill acquisition whil
 - [Alternating example-practice pairs produce faster and more accurate near-transfer solutions than blocked presentation of examples followed by practice](../claims/alternating-example-problem-pairs.md) [+W]
 - [The worked example effect holds for the schema-acquisition goal, but other instructional goals may be better served by other means](../claims/worked-example-effect-goal-dependent.md) [~W]
 - [Solving an isomorphic practice problem after studying a worked example improves prospective monitoring accuracy, with mixed effects on regulation accuracy](../claims/practice-problem-after-example-improves-monitoring.md) [~W]
-- [Alternating examples and problems yielded more learning and more conceptual knowledge than examples alone or problem-solving alone](../claims/examples-plus-problems-beat-examples-alone.md) [+W]
+- [Alternating examples and problems yielded more learning than examples alone and more conceptual knowledge than problem-solving alone](../claims/examples-plus-problems-beat-examples-alone.md) [+W]
 
 ## Related Elements
 - [Worked Examples](worked-examples.md) — the example component of the pair

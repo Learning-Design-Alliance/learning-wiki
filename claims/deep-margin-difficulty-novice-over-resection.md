@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Novices achieved adequate mean margins mainly by over-resecting deep margins, while experts secured more uniform 10 mm margins across directions
-description: Novices achieved adequate mean margins mainly by over-resecting deep margins, while experts secured more uniform 10 mm margins across directions
+title: Experts and novices did not differ in mean margin distance, but novices took longer deep margins and experts kept more consistent margins around the 10 mm target
+description: Experts and novices did not differ in mean margin distance, but novices took longer deep margins and experts kept more consistent margins around the 10 mm target
 id: deep-margin-difficulty-novice-over-resection
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: sakamoto-kayo-2026
     resource: "https://doi.org/10.1186/s12909-026-08743-5"
@@ -20,11 +21,11 @@ sources:
     rigour: 2
 ---
 
-# Novices achieved adequate mean margins mainly by over-resecting deep margins, while experts secured more uniform 10 mm margins across directions
+# Experts and novices did not differ in mean margin distance, but novices took longer deep margins and experts kept more consistent margins around the 10 mm target
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Overall mean margin distances did not differ between experts and novices (P = 0.57), but experts' coefficient of variation was significantly lower (0.08 vs 0.16; P = 0.0023) and novices took longer deep margins (13.83 ± 4.22 mm; P = 0.0014). [→ Sakamoto Kayo 2026](#sakamoto-kayo-2026)

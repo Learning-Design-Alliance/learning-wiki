@@ -46,7 +46,7 @@ Univariate group comparison of correctly versus incorrectly diagnosed cases amon
 
 ## Related Claims
 - [Correctly diagnosed cases involved more time on history and physical exam, fewer tests and test rounds, and fewer test-ordering penalties](correct-cases-more-time-fewer-tests-fewer-penalties.md) — related
-- [Repeated deliberate practice over 20 virtual patient cases improves diagnostic justification, test ordering, cognitive errors, and misdiagnosis rates without plateau](deliberate-practice-improves-cr-no-plateau.md) — related
+- [Across 20 virtual patient cases with automated feedback, students' diagnostic justification, test ordering, cognitive errors and misdiagnosis rates improved with case sequence without plateau, in a non-randomised observational study](deliberate-practice-improves-cr-no-plateau.md) — related
 - [Diagnostic justification scores and cognitive errors are the strongest multivariate predictors of diagnostic accuracy](dxj-and-cognitive-errors-strongest-predictors.md) — related
 - [First-year students completing 20 cases outperformed second-year students completing 10 cases in all clinical reasoning metrics by end of pre-clerkship](m1-20-cases-outperform-m2-10-cases.md) — related
 - [Expert gastroenterologists diagnose more clinical cases accurately than second-year medical students](experts-outperform-novices-diagnostic-accuracy.md) — related

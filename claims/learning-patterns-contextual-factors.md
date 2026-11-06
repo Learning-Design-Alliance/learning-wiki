@@ -84,7 +84,7 @@ Vermunt (2005) compared learning patterns of students of seven disciplines at a 
 
 
 ## Related Claims
-- [Student subject matter orientation differs significantly from faculty perceptions of departmental characteristics](student-faculty-subject-matter-mismatch.md) — related
+- [Students were generally softer, more applied, more life- and more creatively oriented than faculty described their departments, with many but not all differences significant](student-faculty-subject-matter-mismatch.md) — related
 - [AI adoption levels and policy implementation vary unevenly across academic units, shaped by discipline and external industry alignment](uneven-unit-ai-adoption-shaped-by-industry-alignment.md) — related
 - [Student voices on GenAI and academic integrity are diverse, shaped by gender, academic level, discipline, psychological factors, and cultural context, though gender findings are inconsistent](diversity-student-voices-genai-integrity.md) — related
 - [Cross-country meta-analysis: meaning-directed, reproduction-directed and undirected patterns are universal, while application-directed, passive-idealistic and passive-motivational patterns are context-specific](learning-patterns-cross-country-universality.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Declarative memory shows no association with regular past tense learning under any CF type
-description: Declarative memory shows no association with regular past tense learning under any CF type
+title: Declarative memory was not a significant predictor of regular past tense learning under any CF type
+description: Declarative memory was not a significant predictor of regular past tense learning under any CF type
 id: declarative-memory-null-regular-past-tense
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-09-28
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-06
 sources:
   - id: yusuke-sato-2023
     resource: "https://doi.org/10.52598/jpll/5/1/4"
@@ -20,11 +21,11 @@ sources:
     rigour: 1
 ---
 
-# Declarative memory shows no association with regular past tense learning under any CF type
+# Declarative memory was not a significant predictor of regular past tense learning under any CF type
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Declarative memory (LLAMA_B) was not a significant predictor of posttest scores for regular past tense in any of the three CF groups, on either outcome measure. [→ Yusuke Sato 2023](#yusuke-sato-2023)
@@ -37,7 +38,7 @@ Yusuke Sato. (2023). Interactions Among Declarative and Procedural Memory System
 
 `q2 · i?` · `causal · r1`
 
-Null regression finding reported in the discussion of the multiple regression analyses for regular past tense: LLAMA_B coefficients were non-significant across recast, explicit correction, and metalinguistic prompt groups on both UGJT and EIT. The article reports declarative memory "was not related to the efficacy of any CF for the regular past tense."
+Non-significant regression result for regular past tense: in the multiple regression analyses, LLAMA_B (declarative memory) was not a statistically significant predictor in the recast, explicit correction, or metalinguistic prompt group, on either UGJT or EIT. The article words this as declarative memory "was not related to the efficacy of any CF for the regular past tense"; a non-significant coefficient does not show that no association exists, only that none was detected.
 
 > "Declarative memory was not related to the efficacy of any CF for the regular past tense, regardless of the L2 outcome measure."
 

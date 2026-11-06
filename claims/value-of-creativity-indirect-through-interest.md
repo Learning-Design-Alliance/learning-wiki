@@ -37,7 +37,7 @@ Kamila Urban, Marek Urban. (2025). Metacognition and motivation in creativity: e
 
 `q2 · i?` · `associational · r2`
 
-In the two-wave SEM of the 360-student sample, "the indirect effects were stronger than those of creative self-efficacy" for value of creativity, with mediation classified as partial (74% and 77%) for judgment and expectancy pathways.
+In the two-wave SEM of the 360-student sample, "the indirect effects were stronger than those of creative self-efficacy" for value of creativity, with mediation classified as partial for value of creativity → Judgment (Task 1, 74%) and → Expectancy (Task 2, 77%), and as inconsistent (> 100%) for value of creativity → Judgment (Task 2), where the direct effect was negative (−0.07, n.s.) while the indirect effect was positive (0.27).
 
 > "For the perceived value of creativity, the indirect effects were stronger than those of creative self-efficacy, with β = 0.30, p <.001 for expectancy before Task 2, and β = 0.23, p <.001 and β = 0.27, p <.001 for metacognitive judgments."
 

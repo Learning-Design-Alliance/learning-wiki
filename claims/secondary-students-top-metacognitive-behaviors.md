@@ -47,4 +47,4 @@ Results section, Table 9: coded interview responses from 488 middle and high sch
 
 
 ## Related Claims
-- [Predicting, using contextual analysis, and rereading were the most frequently used metacognitive behaviors; deciding when to stop, independent reading time, and testing were least frequent](predicting-contextual-analysis-rereading-most-frequent.md) — related
+- [Predicting, using contextual analysis, and rereading were the most frequently used metacognitive behaviors; deciding when to stop and independent reading time were least frequent](predicting-contextual-analysis-rereading-most-frequent.md) — related

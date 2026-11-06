@@ -9,6 +9,7 @@ generated:
   at: 2026-10-25
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-11-06
 sources:
   - id: spencer-mercedes-2022
     resource: "https://doi.org/10.1037/edu0000670"
@@ -32,10 +33,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
-> **Currency** · newest study 2022 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Early working memory, processing speed, and attentive behavior directly or indirectly influenced later calculations, WPS, and reading, with stronger associations for calculations (summed total effects 0.447) than WPS (0.201) and reading (0.243). [→ Spencer Mercedes 2022](#spencer-mercedes-2022)
+`q3 i?` Early working memory, processing speed, and attentive behavior had direct or indirect paths to (statistically predicted) later calculations, WPS, and reading in a longitudinal, nonexperimental path model, with stronger associations for calculations (summed total effects 0.447) than WPS (0.201) and reading (0.243). [→ Spencer Mercedes 2022](#spencer-mercedes-2022)
 `q3 i?` Nonverbal reasoning was not significantly associated with any of the three outcomes, contrary to the authors' hypothesis. [→ Spencer Mercedes 2022 (2)](#spencer-mercedes-2022-2)
 
 ## Evidence
@@ -46,7 +47,7 @@ Spencer Mercedes, Fuchs Lynn S., Geary David C., Fuchs Douglas. (2022). Connecti
 
 `q3 · i?` · `associational · r2`
 
-Total effects from the final pruned path model for the three domain-general predictors; the article reports summed total effects of "0.447" for calculations, "0.201" for WPS, and "0.243" for reading, with working memory most predictive of mathematics.
+Total effects from the final pruned path model for the three domain-general predictors; the article reports summed total effects of "0.447" for calculations, "0.201" for WPS, and "0.243" for reading. By predictor, total effects on later calculations were 0.222 for attentive behavior, 0.179 for working memory and 0.046 for processing speed; on WPS, working memory was largest (0.151, against 0.028 for attentive behavior). The study is longitudinal and nonexperimental, so these are statistical associations, not demonstrated causal influence.
 
 > "associations between these three predictors and later outcomes were stronger for calculations (summed total effects were 0.447) compared to WPS (summed total effects were 0.201) and reading (summed total effects were 0.243)."
 

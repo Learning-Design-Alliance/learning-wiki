@@ -24,7 +24,7 @@ A five-step instructional-design framework developed by Isman for planning, deve
 ### Claims
 - [Facebook-based learning significantly enhances creativity in writing among Islamic Studies students compared to control group](../claims/facebook-based-learning-enhances-creativity-writing-islamic-studies.md) [+M]
 - [Facebook-based learning significantly enhances creativity in problem solving among Islamic Studies students compared to control group](../claims/facebook-based-learning-enhances-creativity-problem-solving-islamic-studies.md) [+M]
-- [Facebook-based learning significantly enhances creativity in producing missionary motto among Islamic Studies students compared to control group](../claims/facebook-based-learning-enhances-creativity-missionary-motto-islamic-studies.md) [+M]
+- [Islamic Studies students taught through Facebook-based learning scored significantly higher than a non-randomised control class on creativity in producing a missionary motto](../claims/facebook-based-learning-enhances-creativity-missionary-motto-islamic-studies.md) [+W]
 
 ## Related Products and Programmes
 -

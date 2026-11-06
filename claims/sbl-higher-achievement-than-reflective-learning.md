@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-06
 sources:
   - id: hursen-2017
     resource: "https://doi.org/10.13187/ejced.2017.2.264"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2017 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Post-test achievement scores differed significantly in favour of the scenario based learning group (M=76.28) over the reflective learning group (M=66.63). [→ Hursen 2017](#hursen-2017)
@@ -56,7 +57,7 @@ Hursen, C., & Gezer Fasli, F. (2017). Investigating the Efficiency of Scenario B
 
 `q2 · i?` · `causal · r2`
 
-Repeated measures ANOVA on achievement change across the 12-week application, reported in the Results section, found the significant group effect "in favour of scenario based  learning group" with F(1-60)=5.792, p<0.05. No effect size is printed.
+Repeated measures ANOVA on achievement change across the 12-week application, reported in the Results section, found a significant pretest-posttest × group interaction "in favour of scenario based  learning group", F(1-60)=5.792, p<0.05 (Table 2: p = .019): achievement changed more in the scenario-based group. The group main effect is reported separately (F = 4.900, p = .031). No effect size is printed.
 
 > "the results of the repeated measures ANOVA analysis were also found in favour of scenario based  learning group (M=76.28) with a significant difference (F(1-60)=5.792, p<0.05)"
 

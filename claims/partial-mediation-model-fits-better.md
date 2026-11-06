@@ -46,5 +46,5 @@ ML-SEM model comparison in Mplus 8.6 contrasting a full mediation model (Fig. 1)
 
 ## Related Claims
 - [Students' sentiment partially mediates the effect of teachers' engaging messages on motivation to learn](sentiment-partially-mediate-tem-mtl.md) — possibly the same claim (merge candidate)
-- [Math anxiety has both a direct negative effect and a WM-mediated indirect effect on children's verbal Math Reasoning, but only an indirect effect on Numerical Operations](math-anxiety-direct-effect-verbal-math-reasoning.md) — related
+- [In a cross-sectional model, math anxiety has both a direct negative path and a WM-mediated indirect path to children's verbal Math Reasoning, but only an indirect path to Numerical Operations](math-anxiety-direct-effect-verbal-math-reasoning.md) — related
 - [Sentiment, TEM and motivation to learn correlate positively at both student and teacher levels](sentiment-tem-mtl-positive-correlations.md) — related

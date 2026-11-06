@@ -48,7 +48,7 @@ The article recommends that residency programs develop or adopt structured simul
 - [Nearly half of surveyed residents practice only the five core FLS skills on the box trainer](../claims/residents-practice-only-fls-skills.md) [-W]
 - [Simulated laparoscopic practice decreases after completion of the FLS examination among general surgery residents](../claims/simulated-practice-decreases-after-fls-completion.md) [-W]
 - [Cost, equipment availability, maintenance and faculty training are reported implementation barriers for laparoscopic simulation, especially in resource-constrained settings](../claims/laparoscopic-simulation-implementation-barriers.md) [~W]
-- [Among PGY-1 and PGY-2 obstetrics and gynecology residents, task completion times were shorter after a structured four-week laparoscopic simulator curriculum than before, in one single-group pre-post study.](../claims/laparoscopic-simulator-training-improves-task-efficiency-pgy1-pgy2.md) [+W]
+- [Among PGY-1 and PGY-2 obstetrics and gynecology residents, task completion times were shorter in later weeks than in Week 1 of a structured four-week laparoscopic simulator curriculum, in one uncontrolled study with no pre-training baseline.](../claims/laparoscopic-simulator-training-improves-task-efficiency-pgy1-pgy2.md) [+W]
 
 ## Related Strategies
 

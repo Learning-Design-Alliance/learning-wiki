@@ -46,7 +46,7 @@ Cross-sectional observational study of postgraduate students at a single institu
 
 ## Related Claims
 - [Knowledge mastery factors (summarizing methods, depth mastery, difficult points) further differentiate cognitive performance within decision tree branches](knowledge-mastery-factors-decision-tree-branches.md) — related
-- [BOPPPS-based blended teaching produces significantly higher final examination and process assessment scores than traditional lecture-based teaching](boppps-higher-final-exam-process-assessment.md) — related
+- [In one nonrandomised quasi-experiment, a BOPPPS-based blended teaching class scored significantly higher on final examination and process assessment than a traditional lecture-based class](boppps-higher-final-exam-process-assessment.md) — related
 - [Improvement in innovation ability is the strongest differentiating factor for strong cognitive performance in the decision tree model](innovation-ability-top-decision-node-cognitive-performance.md) — related
 - [BOPPPS-based blended teaching produces significantly higher overall course scores than traditional lecture-based teaching](boppps-higher-overall-course-scores.md) — related
 - [Comprehensive problem-solving ability improvement differentiates cognitive performance in lower decision tree branches](problem-solving-ability-decision-tree-lower-branches.md) — related

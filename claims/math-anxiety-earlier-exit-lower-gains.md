@@ -52,5 +52,5 @@ The editorial reports, citing Hilz et al. (2025), an observational analysis of l
 ## Related Claims
 - [Math anxiety has a direct effect on arithmetic calculation above and beyond the indirect pathways](ma-direct-effect-arithmetic.md) — related
 - [Working memory fully mediates the effects of math anxiety and attention on children's non-verbal Numerical Operations](wm-fully-mediates-anxiety-attention-numerical-operations.md) — related
-- [Math anxiety has both a direct negative effect and a WM-mediated indirect effect on children's verbal Math Reasoning, but only an indirect effect on Numerical Operations](math-anxiety-direct-effect-verbal-math-reasoning.md) — related
+- [In a cross-sectional model, math anxiety has both a direct negative path and a WM-mediated indirect path to children's verbal Math Reasoning, but only an indirect path to Numerical Operations](math-anxiety-direct-effect-verbal-math-reasoning.md) — related
 - [Misalignment profiles predict growth-oriented disengagement: students can endorse self-change while withdrawing when routes are perceived as infeasible](misalignment-profiles-predict-growth-oriented-disengagement.md) — related

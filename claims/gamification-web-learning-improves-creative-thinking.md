@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-11-06
 sources:
   - id: aljraiwi-2019
     resource: "https://doi.org/10.18488/journal.61.2019.73.242.257"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Primary students taught with a gamified web-based learning environment scored significantly higher on the Torrance test of creative thinking than students taught traditionally. [→ Aljraiwi 2019](#aljraiwi-2019)
@@ -37,7 +38,7 @@ Aljraiwi, S. (2019). Effectiveness of Gamification of Web-Based Learning in Impr
 
 `q2 · i?` · `causal · r1`
 
-Same quasi-experiment (60 primary students) using the Torrance test of creative thinking as post-test. Experimental group mean was 18.77 vs 13.55 for controls, with a difference "at the significance level of 0.01 in favor of the experimental group". Table 2 reports an Eta Square of 0.95, described as a high effect size.
+Same quasi-experiment using the Torrance test of creative thinking as post-test. Experimental group mean was 18.77 vs 13.55 for controls, with a difference "at the significance level of 0.01 in favor of the experimental group". Table 2 reports an Eta Square of 0.95, described as a high effect size. The article is inconsistent about its sample: the sampling section reports 60 primary students (30 per group), while Table 2 lists 33 students in each group (66 in all), so the sample size behind this analysis is not clear.
 
 > "Table 2 shows that there was a high level of difference between the scores of the students in the control and experimental groups in the post -test of the Torrance test of creative thinking at the significance level of 0.01 in favor of the experimental group."
 

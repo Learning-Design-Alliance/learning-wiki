@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Peer role-play and peer assessment improve non-technical clinical competencies (doctor-patient communication, humanistic care, preoperative preparation) with a large effect for communication skills
-description: Peer role-play and peer assessment improve non-technical clinical competencies (doctor-patient communication, humanistic care, preoperative preparation) with a large effect for communication skills
+title: In a comparison of two consecutive cohorts, adding peer role-play and peer assessment was associated with higher scores on non-technical clinical competencies (doctor-patient communication, humanistic care, preoperative preparation)
+description: In a historical two-cohort comparison of international medical students, the cohort taught with peer role-play and peer assessment scored higher on doctor-patient communication, humanistic care and preoperative preparation, with comparable technical proficiency; the design cannot establish a causal effect
 id: peer-roleplay-improves-nontechnical-clinical-competencies
 status: review
 generated:
@@ -15,20 +15,20 @@ sources:
     title: "Lv Pingping, Chen Jianpeng, Chen Xijing, Wang Xiao, Xu Xiangrong, Li Jingyi. (2026). Enhancing gynecological examination training for international medical students: a comparative study of peer role-play and peer assessment. BMC Medical Education. https://doi.org/10.1186/s12909-026-09102-0"
     author: Lv Pingping, Chen Jianpeng, Chen Xijing, Wang Xiao, Xu Xiangrong, Li Jingyi
     q: 2
-    i: 3
+    i: "?"
     kind: causal
     rigour: 1
 ---
 
-# Peer role-play and peer assessment improve non-technical clinical competencies (doctor-patient communication, humanistic care, preoperative preparation) with a large effect for communication skills
+# In a comparison of two consecutive cohorts, adding peer role-play and peer assessment was associated with higher scores on non-technical clinical competencies (doctor-patient communication, humanistic care, preoperative preparation)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r1` · `q2` · `i3` large
+> **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 > **Design limits** · Lv Pingping 2026: the intervention came bundled with another change; groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-05)
 
 ## Subclaims
-`q2 i3` The experimental group scored significantly higher than the control group on doctor-patient communication, humanistic care and operative preparation, with a large effect size (Cohen's d = 0.89) for doctor-patient communication skills. [→ Lv Pingping 2026](#lv-pingping-2026)
+`q2 i?` The 2020 cohort taught with peer role-play and peer assessment scored significantly higher than the 2019 cohort on the final assessment's doctor-patient communication, humanistic care and operative preparation domains, with comparable technical proficiency; no effect size is printed for these assessment domains (the d = 0.89 belongs to a course-satisfaction item). [→ Lv Pingping 2026](#lv-pingping-2026)
 
 ## Evidence
 
@@ -36,11 +36,11 @@ sources:
 
 Lv Pingping, Chen Jianpeng, Chen Xijing, Wang Xiao, Xu Xiangrong, Li Jingyi. (2026). Enhancing gynecological examination training for international medical students: a comparative study of peer role-play and peer assessment. BMC Medical Education. https://doi.org/10.1186/s12909-026-09102-0
 
-`q2 · i3` · `causal · r1`
+`q2 · i?` · `causal · r1`
 
-Final assessment scores compared between the 2019 and 2020 cohorts using a standardized 100-point rubric. The article reports "a large magnitude of effect (Cohen's d = 0.89) specifically for doctor-patient communication skills", with experimental-group scores significantly higher on communication, humanistic care and operative preparation.
+Final assessment scores compared between the 2019 (control) and 2020 (experimental) cohorts using a standardized 100-point rubric; students were not randomly assigned. The experimental group scored significantly higher on doctor-patient communication, humanistic care and operative preparation, with no significant difference on procedural steps; the article shows these scores in a figure and prints no effect size for them. The abstract attaches Cohen's d = 0.89 to "communication skills", but in Table 3 that d belongs to the course-satisfaction item "The course significantly enhances physician-patient communication skills" (4.24 ± 0.57 vs 4.70 ± 0.46), a self-report, not the assessment, so impact is coded `i?`. The authors caution that "the historical cohort design used means that observed differences may be influenced by temporal trends, external events and unmeasured confounders", so the results are "preliminary findings associated with the new educational model, not as conclusive evidence of its causal effect."
 
-> "our effect size analysis revealed a large magnitude of effect (Cohen's d = 0.89) specifically for doctor-patient communication skills, far exceeding the moderate effects seen in other domains"
+> "the experimental group exhibited significantly higher scores than the control group across multiple non-technical dimensions, including doctor-patient communication, humanistic care, and operative preparation."
 
 ## Discussion
 

@@ -45,7 +45,7 @@ The study employed seven scientific argumentation-based activity types — devel
 - [Scientific argumentation based learning significantly improves eighth-grade students' academic achievement in the unit of cell division and inheritance compared to traditional teaching.](../claims/argumentation-improves-cell-division-achievement.md) [+W]
 - [Scientific argumentation based learning improves students' understanding of the nature of scientific knowledge on five of six dimensions.](../claims/argumentation-improves-nature-of-scientific-knowledge.md) [+W]
 - [Scientific argumentation based learning increases students' willingness to participate in discussions.](../claims/argumentation-increases-willingness-to-discuss.md) [+W]
-- [Students most liked the competing theories, news, and concept cartoon activities because these made creating and defending arguments easier](../claims/absl-favorite-activities-ranking.md) [+W]
+- [Interviewed students named competing theories, news and concept cartoons as their favourite argumentation activities, giving reasons that differed by activity, chiefly easier argument creation and better expression of ideas](../claims/absl-favorite-activities-ranking.md) [+W]
 
 ## Related Strategies
 

@@ -9,6 +9,7 @@ generated:
   at: 2026-09-26
 evidence_strength: weak
 newest_evidence: 1989
+source_checked: 2026-11-06
 sources:
   - id: walker-1989
     resource: "https://eric.ed.gov/?id=ED315726"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 1989 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1989 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
@@ -38,7 +39,7 @@ Walker, B. J. (1989). The Interactive Model of Reading: Deciding How Disability 
 
 `q2 · i?` · `theoretical · r2`
 
-The review reports, citing Butkowsky and Willows (1980), an experimental study manipulating success and failure in reading with fifth graders. The paper argues repeated failure plus criticism fosters the belief that reading ability is fixed, decreasing motivation.
+A conceptual conference paper, not a review, that presents and argues for an interactive model of reading and reading difficulty; in doing so it cites and summarises Butkowsky and Willows (1980), an experimental study manipulating success and failure in reading with fifth graders. The paper argues repeated failure plus criticism fosters the belief that reading ability is fixed, decreasing motivation.
 
 > "Manipulating both success and failure in reading experiences, Butkowsky and Willows (1980) found that poor readers in the fifth grade were less likely to attribute success to ability, and more likely to attribute it to luck or task ease than were the better readers."
 

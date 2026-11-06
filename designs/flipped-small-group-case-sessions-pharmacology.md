@@ -17,7 +17,7 @@ sources:
 # Flipped small-group case-based sessions as the primary in-person learning structure for integrated basic-science content
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The redesigned curriculum eliminated in-person lectures and replaced them with pre-recorded videos available at least 2 weeks before case sessions, plus twice-weekly clinical case presentations integrating all basic and clinical sciences. "Students were assigned to small groups of 15–20 students to discuss the case to answer the provided questions." Cases include a chief complaint, differential diagnosis, interpretation of diagnostic data, and a treatment plan, and students must determine diagnosis and medication regimen by combining prior knowledge, video content, data interpretation, and peer collaboration.

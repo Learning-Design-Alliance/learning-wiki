@@ -1,7 +1,7 @@
 ---
 type: claim
-title: A review of music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes
-description: "A review of music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes"
+title: A discussion article on music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes
+description: "A discussion article on music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes"
 id: moocs-low-completion-embodied-music-learning
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: jean-pierre-briot-2026
     resource: "https://doi.org/10.48550/arxiv.2608.05176"
@@ -20,11 +21,11 @@ sources:
     rigour: 2
 ---
 
-# A review of music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes
+# A discussion article on music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 <!-- title before 2026-10-15: Online music learning shows democratized access but low MOOC completion and resistance of embodied musical learning to video formats -->
 
 ## Subclaims
@@ -38,7 +39,7 @@ Jean-Pierre Briot. (2026). Challenges for Musical Education in the Age of AI and
 
 `q2 · i?` · `review · r2`
 
-The article's review of online platforms reports MOOC "completion rates are notoriously low (typically under 10%)" and that embodied musical dimensions resist video-lecture formats. It presents this as a well-documented structural challenge rather than a new empirical result.
+A narrative discussion article with no systematic review method. In its discussion of online platforms it states that MOOC "completion rates are notoriously low (typically under 10%)" and that embodied musical dimensions resist video-lecture formats. It presents this as a well-documented structural challenge, the author's assertion rather than a finding of a review or a new empirical result.
 
 > "However, MOOCs face well-documented structural challenges: completion rates are notoriously low (typically under 10%), sustained engagement is difficult to maintain, and the specifically musical dimensions of learning – embodied practice, real-time performance feedback, the social dynamics of ensemble playing – are particularly resistant to the format of short video lectures and self-graded quizzes."
 

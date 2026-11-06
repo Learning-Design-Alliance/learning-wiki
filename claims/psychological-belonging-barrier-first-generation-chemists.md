@@ -50,7 +50,7 @@ Reflective editorial section identifying psychological factors as an "often unde
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
-- [Financial and economic constraints shape first-generation chemists' career decisions, sometimes deterring advanced training altogether](financial-constraints-shape-first-generation-career-decisions.md) — related
+- [In the reflections of 13 first-generation chemists, financial constraints can shape career decisions and can deter advanced training](financial-constraints-shape-first-generation-career-decisions.md) — related
 - [Lack of mentorship and guidance is a key barrier for first-generation chemists, stemming from limited awareness rather than ability](mentorship-gap-barrier-first-generation-chemists.md) — related
 - [The editorial's insights derive from reflections of 13 first-generation chemists and cannot represent all first-generation scientists](thirteen-first-generation-chemists-scope-limit.md) — related
 - [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — related

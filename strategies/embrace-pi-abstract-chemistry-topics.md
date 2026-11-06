@@ -39,7 +39,7 @@ On the basis of the study's findings, the authors recommend that teachers of Che
 ## Claims
 
 - [Descriptive gains show the experimental group's attitude change exceeded the control group's, and pretesting had no effect on the intervention](../claims/pi-attitude-gain-pretesting-null.md) [+W]
-- [Students taught Structure of the Atom and the Periodic Table with Programmed Instruction obtained significantly higher attitude mean scores than control groups taught conventionally](../claims/pi-higher-posttest-attitude-sapt.md) [+W]
+- [Students taught Structure of the Atom and the Periodic Table with Programmed Instruction obtained higher attitude mean scores than control groups taught conventionally, in a significant four-group ANOVA with no pairwise tests](../claims/pi-higher-posttest-attitude-sapt.md) [+W]
 - [The null hypothesis of no attitude difference between PI-taught and conventionally taught students was rejected](../claims/pi-null-hypothesis-rejected-attitude.md) [+W]
 - [Before intervention, attitude scores of the pretested experimental and control groups were statistically the same](../claims/pi-pretest-attitude-equivalence.md) [~W]
 

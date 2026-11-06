@@ -40,7 +40,7 @@ The article applies content and language integrated learning combined with proje
 - academic communication in science fields
 
 ### Claims
-- [Project Based Clil Improves Written English Competence](../claims/project-based-clil-improves-written-english-competence.md) [+M]
+- [Project Based Clil Improves Written English Competence](../claims/project-based-clil-improves-written-english-competence.md) [+W]
 - [Clil Gains Vocabulary Pronunciation Only](../claims/clil-gains-vocabulary-pronunciation-only.md) [+M]
 
 ## Related Designs

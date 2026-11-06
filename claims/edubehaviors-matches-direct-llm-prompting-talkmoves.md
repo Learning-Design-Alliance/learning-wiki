@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "EduBehaviors achieves 0.673 macro-F1 and 0.688 Cohen's kappa on Teacher TalkMoves, generally improving over direct LLM prompting"
-description: "EduBehaviors achieves 0.673 macro-F1 and 0.688 Cohen's kappa on Teacher TalkMoves, generally improving over direct LLM prompting"
+title: "EduBehaviors achieves 0.764 macro-F1 and 0.756 Cohen's kappa on Teacher TalkMoves, improving over direct LLM prompting"
+description: "EduBehaviors achieves 0.764 macro-F1 and 0.756 Cohen's kappa on Teacher TalkMoves, improving over direct LLM prompting"
 id: edubehaviors-matches-direct-llm-prompting-talkmoves
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 recheck_by: 2029
 sources:
   - id: julian-bernado-2026
@@ -21,14 +22,14 @@ sources:
     rigour: 2
 ---
 
-# EduBehaviors achieves 0.673 macro-F1 and 0.688 Cohen's kappa on Teacher TalkMoves, generally improving over direct LLM prompting
+# EduBehaviors achieves 0.764 macro-F1 and 0.756 Cohen's kappa on Teacher TalkMoves, improving over direct LLM prompting
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
-`q2 i?` On the TalkMoves Teacher TalkMoves task, the best EduBehaviors configuration attains 0.673 macro-F1 and 0.688 Cohen's kappa, generally outperforming direct LLM prompting (maximum reported macro-F1 0.61, kappa 0.58). [→ Julian Bernado 2026](#julian-bernado-2026)
+`q2 i?` On the TalkMoves Teacher TalkMoves task, the best EduBehaviors configuration (Claude Opus 5 as annotator) attains 0.764 macro-F1 and 0.756 Cohen's kappa, and every LLM annotator tested outperforms the direct-prompting baseline (macro-F1 0.61, kappa 0.58); the MPNet encoders without per-call charges are competitive on macro-F1 (0.590) and higher on kappa (0.636). [→ Julian Bernado 2026](#julian-bernado-2026)
 
 ## Evidence
 
@@ -38,9 +39,9 @@ Julian Bernado, Ana Trindade Ribeiro, Xander Beberman, and Susanna Loeb. (2026).
 
 `q2 · i?` · `design · r2`
 
-Classification experiment on a sample of 10 TalkMoves sessions (3,217 teacher utterances) with leave-one-session-out cross validation, fitting L1-penalized logistic regression over assertion values. "GPT 5.6 Luna attains the highest Macro-F1 of 0.673, and Gemini 3.6 Flash attains the highest Cohen's κ of 0.702."
+Classification experiment on a random sample of 50 TalkMoves sessions (14,341 teacher utterances) with 5-fold session-grouped cross validation, fitting L1-penalized logistic regression over assertion values; encoders trained on those 50 sessions were also tested on 495 unseen sessions (153,985 teacher utterances). Claude Opus 5 gave the best result (macro-F1 0.764, κ 0.756), followed by Gemini 3.8 Flash (0.750, 0.731) and GPT-5.6 Luna (0.728, 0.722), against a direct-prompting baseline of 0.61 macro-F1 and κ 0.58.
 
-> "GPT 5.6 Luna attains the highest Macro-F1 of 0.673, and Gemini 3.6 Flash attains the highest Cohen's κ of 0.702."
+> "Claude Opus 5 attains the highest Macro-F1 of 0.764 as well as the highest Cohen's κ of 0.756. ... All of our annotators outperform the direct prompting baseline (Macro-F1 of 0.61 and Cohen's κ of 0.58)."
 
 ## Discussion
 

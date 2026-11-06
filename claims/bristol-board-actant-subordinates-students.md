@@ -12,7 +12,7 @@ newest_evidence: 2025
 sources:
   - id: baruch-b-schwarz-2025
     resource: "https://doi.org/10.1007/s11251-024-09669-5"
-    title: "Baruch B. Schwarz, Udi Tsemach, Mirit Israeli, Erez Nir. (2025). Actor-network theory as a new direction in research on educational dialogues. Instructional Science. https://doi.org/10.1007/s11251-024-09669-5"
+    title: "Baruch B. Schwarz, Udi Tsemach, Mirit Israeli, Erez Nir. (2025). Actor-network theory as a new direction in research on educational dialogues. Instructional Science, 53(2), 173–201 (published online 5 June 2024). https://doi.org/10.1007/s11251-024-09669-5"
     author: Baruch B. Schwarz, Udi Tsemach, Mirit Israeli, Erez Nir
     q: 2
     i: "?"
@@ -33,7 +33,7 @@ sources:
 
 ### Baruch B. Schwarz 2025
 
-Baruch B. Schwarz, Udi Tsemach, Mirit Israeli, Erez Nir. (2025). Actor-network theory as a new direction in research on educational dialogues. Instructional Science. https://doi.org/10.1007/s11251-024-09669-5
+Baruch B. Schwarz, Udi Tsemach, Mirit Israeli, Erez Nir. (2025). Actor-network theory as a new direction in research on educational dialogues. Instructional Science, 53(2), 173–201 (published online 5 June 2024). https://doi.org/10.1007/s11251-024-09669-5
 
 `q2 · i?` · `qualitative · r2`
 

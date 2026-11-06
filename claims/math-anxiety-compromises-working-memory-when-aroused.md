@@ -65,7 +65,7 @@ Participants did two-column addition alone or with a letter-recall secondary tas
 
 ## Related Claims
 - [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](math-anxiety-degrades-performance.md) — related
-- [Math anxiety has both a direct negative effect and a WM-mediated indirect effect on children's verbal Math Reasoning, but only an indirect effect on Numerical Operations](math-anxiety-direct-effect-verbal-math-reasoning.md) — related
+- [In a cross-sectional model, math anxiety has both a direct negative path and a WM-mediated indirect path to children's verbal Math Reasoning, but only an indirect path to Numerical Operations](math-anxiety-direct-effect-verbal-math-reasoning.md) — related
 - [Teacher-rated general anxiety is associated with lower verbal working memory performance](general-anxiety-undermines-wm.md) — related
 - [Verbal working memory directly and positively predicts math performance in grades 3 and 4](verbal-wm-predicts-math-grades-3-4.md) — related
 - [Lower-than-average math ability, low working memory capacity, susceptibility to public embarrassment, and a nonsupportive teacher are proposed risk factors for developing math anxiety](risk-factors-for-developing-math-anxiety.md) — related

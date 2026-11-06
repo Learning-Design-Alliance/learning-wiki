@@ -51,7 +51,7 @@ Post-hoc comparisons (emmeans) on the linear mixed model of training-induced SNR
 
 ## Related Claims
 - [More pronounced hearing loss moderates the training benefit: participants with PTA 1 SD above the mean improve significantly more after immersive than auditory training](hearing-loss-moderates-immersive-training-benefit.md) — related
-- [Age, general cognition (MoCA), visual working memory, and hearing loss showed no significant association with the extent of training-induced change, and the three-way modality-by-AWM-by-hearing-loss interaction was not significant](null-moderators-training-induced-change.md) — related
+- [Age, general cognition (MoCA), visual working memory, and hearing loss showed no significant main association with the extent of training-induced change, though hearing loss and auditory working memory each moderated it by training modality; the three-way interaction was not significant](null-moderators-training-induced-change.md) — related
 - [Speech-in-noise perception improves significantly after a short-term immersive auditory-cognitive training, but not after an audio-only training session](immersive-act-improves-speech-in-noise.md) — related
 - [Immersive presentation keeps comprehension performance stable across a training session while auditory-only performance decreases toward the end](immersive-training-comprehension-stability.md) — related
 - [On-training cognitive performance improves across all four trained domains after ACT, with large effect sizes](act-on-training-gains-four-domains.md) — related

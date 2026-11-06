@@ -45,7 +45,7 @@ Cohort comparison of seven M1 cohorts against three M2 cohorts who had not used 
 
 
 ## Related Claims
-- [Repeated deliberate practice over 20 virtual patient cases improves diagnostic justification, test ordering, cognitive errors, and misdiagnosis rates without plateau](deliberate-practice-improves-cr-no-plateau.md) — related
+- [Across 20 virtual patient cases with automated feedback, students' diagnostic justification, test ordering, cognitive errors and misdiagnosis rates improved with case sequence without plateau, in a non-randomised observational study](deliberate-practice-improves-cr-no-plateau.md) — related
 - [The share of medical students requiring additional practice to reach the EPA 8 entrustability threshold is far lower post-clerkship (M5, 29%) than pre-clerkship (M2, 89%)](entrustability-threshold-pass-rates-m2-m5.md) — related
 - [Diagnostic justification scores and cognitive errors are the strongest multivariate predictors of diagnostic accuracy](dxj-and-cognitive-errors-strongest-predictors.md) — related
 - [Correct diagnoses are associated with higher diagnostic justification and test-ordering scores and fewer cognitive errors in pre-clerkship virtual patient cases](correct-diagnoses-higher-dxj-fewer-cognitive-errors.md) — related

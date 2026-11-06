@@ -49,5 +49,5 @@ Single-group pre-post assessment of 66 midwives trained in 33 pairs, analyzed wi
 - [Statistical Reasoning](../learner-variables/statistical-reasoning.md) — outcome: measured as an outcome of the instruction studied
 
 ## Related Claims
-- [In one uncontrolled pre-post study, midwives’ interpretation scores rose significantly for uterine contractions, baseline fetal heart rate, variability, decelerations, and comprehensive evaluation after constructivist teaching, but did not change for accelerations](constructivist-teaching-efm-aspect-gains.md) — a narrower finding that bears on this claim
+- [In one uncontrolled pre-post study, midwives’ interpretation scores rose significantly for uterine contractions, baseline fetal heart rate, variability, decelerations, and comprehensive evaluation after constructivist teaching, with no statistically significant change for accelerations](constructivist-teaching-efm-aspect-gains.md) — a narrower finding that bears on this claim
 - [All 66 midwives reported prior fetal monitoring training at work, mostly via lectures, and all judged further training necessary](midwives-report-urgent-efm-training-need.md) — related

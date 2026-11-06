@@ -8,12 +8,13 @@ generated:
   by: "process:wiki-ingest"
   at: 2026-10-09
 evidence_strength: moderate
-newest_evidence: 2020
+newest_evidence: 2021
+source_checked: 2026-11-06
 sources:
   - id: angela-johnson-2020
     resource: "https://doi.org/10.1080/19345747.2021.1894519"
-    title: "Angela Johnson, Megan Kuhfeld. (2020). Impacts of school entry age on academic growth through 2nd Grade: A multi-state regression discontinuity analysis. NWEA Research working paper. https://www.nwea.org/research/publication/impacts-of-school-entry-age-on-academic-growth-through-2nd-grade-a-multi-state-regression-discontinuity-analysis/ [doi:10.1080/19345747.2021.1894519](https://doi.org/10.1080/19345747.2021.1894519)"
-    author: Angela Johnson, Megan Kuhfeld
+    title: "Johnson, A., & Kuhfeld, M. (2021). Impacts of School Entry Age on Academic Growth through 2nd Grade: A Multi-State Regression Discontinuity Analysis. *Journal of Research on Educational Effectiveness, 14*(3), 543–569. [doi:10.1080/19345747.2021.1894519](https://doi.org/10.1080/19345747.2021.1894519) (circulated in 2020 as an NWEA Research working paper: https://www.nwea.org/research/publication/impacts-of-school-entry-age-on-academic-growth-through-2nd-grade-a-multi-state-regression-discontinuity-analysis/)"
+    author: "Johnson, A., & Kuhfeld, M."
     q: 3
     i: "?"
     kind: causal
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Older kindergarten entrants show higher initial achievement than younger entrants, per regression discontinuity estimates. [→ Angela Johnson 2020](#angela-johnson-2020)
@@ -33,7 +34,7 @@ sources:
 
 ### Angela Johnson 2020
 
-Angela Johnson, Megan Kuhfeld. (2020). Impacts of school entry age on academic growth through 2nd Grade: A multi-state regression discontinuity analysis. NWEA Research working paper. https://www.nwea.org/research/publication/impacts-of-school-entry-age-on-academic-growth-through-2nd-grade-a-multi-state-regression-discontinuity-analysis/ [doi:10.1080/19345747.2021.1894519](https://doi.org/10.1080/19345747.2021.1894519)
+Johnson, A., & Kuhfeld, M. (2021). Impacts of School Entry Age on Academic Growth through 2nd Grade: A Multi-State Regression Discontinuity Analysis. *Journal of Research on Educational Effectiveness, 14*(3), 543–569. [doi:10.1080/19345747.2021.1894519](https://doi.org/10.1080/19345747.2021.1894519) (circulated in 2020 as an NWEA Research working paper: https://www.nwea.org/research/publication/impacts-of-school-entry-age-on-academic-growth-through-2nd-grade-a-multi-state-regression-discontinuity-analysis/)
 
 `q3 · i?` · `causal · r?`
 

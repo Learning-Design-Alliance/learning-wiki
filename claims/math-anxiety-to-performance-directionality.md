@@ -52,7 +52,7 @@ The study inspected the prevalent directionality of the anxiety-performance link
 
 ## Related Claims
 - [Math anxiety in Grade 2 shows an indirect effect on subsequent math performance in Grade 3](grade-2-math-anxiety-indirect-effect-grade-3-performance.md) — related
-- [Math anxiety arises and relates to math performance already in early primary school (Grades 2-3)](math-anxiety-arises-early-primary-school.md) — related
+- [Math anxiety is present and relates to math performance already in early primary school (Grades 2-3)](math-anxiety-arises-early-primary-school.md) — related
 - [The association between math anxiety and math performance is significant in Grade 3 after accounting for general anxiety](math-anxiety-performance-link-significant-grade-3.md) — related
 - [Enjoyment correlates positively (r = .31), and boredom, mathematics anxiety and test anxiety negatively (r = −.23 to −.28), with mathematics achievement](achievement-emotions-and-anxiety-correlate-with-math-achievement.md) — related
 - [Math anxiety's direct effect on math performance emerges in grade 4 but not grade 3, suggesting a developmental trajectory](math-anxiety-direct-effect-emerges-grade-4.md) — reports the opposite

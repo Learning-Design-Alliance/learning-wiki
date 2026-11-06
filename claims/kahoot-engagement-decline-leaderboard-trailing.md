@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2016
+source_checked: 2026-11-06
 sources:
   - id: fotaris-p-2016
     resource: "https://eric.ed.gov/?id=EJ1101229"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` As the semester progressed, engagement decreased slowly in Kahoot! sessions but remained unchanged for WWTBAM; the authors attribute this to individual competitors losing interest once they trailed on the leaderboard. [→ Fotaris P 2016](#fotaris-p-2016)
+`q2 i?` As the semester progressed, engagement decreased slowly in Kahoot! sessions but remained unchanged for WWTBAM; the authors suggest this "could be attributed to" individual competitors losing interest once they trailed on the leaderboard, a possible explanation they did not test. [→ Fotaris P 2016](#fotaris-p-2016)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Fotaris P, Mastoras T, Leinfellner R and Rosunally Y. (2016). Climbing Up the Le
 
 `q2 · i?` · `causal · r1`
 
-Instructor observation during the gamified year, reported in the discussion section. The authors attribute the Kahoot! decline to students competing at individual level losing interest once behind in the leaderboard.
+Instructor observation during the gamified year, reported in the discussion section. The authors offer a possible explanation, not a tested one: the Kahoot! decline "could be attributed to" students competing at individual level losing interest once behind in the leaderboard.
 
 > "As the semester progressed though, it was noticed that the students’ engagement decreased slowly in the Kahoot ! sessions; on the other hand, the engagement for WWTBAM remained unchanged."
 

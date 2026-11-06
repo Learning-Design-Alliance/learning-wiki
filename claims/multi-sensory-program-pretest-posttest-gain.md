@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2019
+source_checked: 2026-11-06
 sources:
   - id: alenizi-2019
     resource: "https://doi.org/10.17583/ijep.2019.3346"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` The experimental group's visual perception average was higher at post-test (1.815) than at pre-test (1.418), a descriptive difference the article reports as being in favor of the post-test. [→ Alenizi 2019](#alenizi-2019)
+`q2 i?` The experimental group's visual perception average was higher at post-test (1.815) than at pre-test (1.418), a descriptive difference the article reports as being in favor of the post-test; its only paired t test labelled pre/post (t = 0.067, p = .947) found no significant difference, though that table's means (1.81, 1.82) do not match these. [→ Alenizi 2019](#alenizi-2019)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Alenizi, M.A. (2019). Effectiveness of a Program Based on A Multi-Sensory Strate
 
 `q2 · i?` · `causal · r1`
 
-Within-group pre/post comparison of the 30-learner experimental group reported in the Results section. The article prints descriptive means of 1.418 (pre) and 1.815 (post) and states the result "is in favor of  post-test"; no test statistic or effect size is printed for this contrast.
+Within-group pre/post comparison of the 30-learner experimental group reported in the Results section. The article prints descriptive means of 1.418 (pre) and 1.815 (post) and states the result "is in favor of  post-test"; Table 3 prints no test statistic for it, and no effect size is printed anywhere. Table 4 then reports a paired-samples t test labelled pre/post, t = 0.067, p = .947, "no significant differences", but its means are 1.81 and 1.82 and the text introduces it as the comparison "after the duration of one month from the application of the program", so the article is internally inconsistent about which measurements that test compares and whether the pre/post difference was significant.
 
 > "Table 3 shows  the differences between the mean scores of the experimental group of primary school learners with learning difficulties in the two measurements (pre and post) in their visual perception. The result is in favor of  post-test with 1.815, while the  average of the pre-measurement was appeared to be 1.418."
 

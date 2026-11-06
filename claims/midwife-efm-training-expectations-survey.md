@@ -64,5 +64,5 @@ Questionnaire part 3 on expected training method; Table 5 prints 75.75% for anal
 
 
 ## Related Claims
-- [In one uncontrolled pre-post study, midwives’ interpretation scores rose significantly for uterine contractions, baseline fetal heart rate, variability, decelerations, and comprehensive evaluation after constructivist teaching, but did not change for accelerations](constructivist-teaching-efm-aspect-gains.md) — related
+- [In one uncontrolled pre-post study, midwives’ interpretation scores rose significantly for uterine contractions, baseline fetal heart rate, variability, decelerations, and comprehensive evaluation after constructivist teaching, with no statistically significant change for accelerations](constructivist-teaching-efm-aspect-gains.md) — related
 - [All 66 midwives reported prior fetal monitoring training at work, mostly via lectures, and all judged further training necessary](midwives-report-urgent-efm-training-need.md) — related

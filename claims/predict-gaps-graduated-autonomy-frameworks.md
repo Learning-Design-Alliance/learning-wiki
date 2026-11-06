@@ -65,5 +65,5 @@ The review reports, citing an institutional study of structured operative autono
 
 ## Related Claims
 - [Open-ended feedback suggested structured observation shifted student descriptions from visible equipment and procedures toward perioperative workflow, patient safety, and team collaboration](open-ended-feedback-shift-toward-workflow-safety.md) — related
-- [Peer role-play and peer assessment improve non-technical clinical competencies (doctor-patient communication, humanistic care, preoperative preparation) with a large effect for communication skills](peer-roleplay-improves-nontechnical-clinical-competencies.md) — related
+- [In a comparison of two consecutive cohorts, adding peer role-play and peer assessment was associated with higher scores on non-technical clinical competencies (doctor-patient communication, humanistic care, preoperative preparation)](peer-roleplay-improves-nontechnical-clinical-competencies.md) — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related

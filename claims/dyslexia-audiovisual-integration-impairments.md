@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Individuals with reading impairments show reduced McGurk perception, poorer audiovisual temporal acuity, less multisensory reaction-time gain, and reduced visual-cue benefit on speech-in-noise tasks. [→ Wallace 2020](#wallace-2020)

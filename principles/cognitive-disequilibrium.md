@@ -209,7 +209,7 @@ Cognitive disequilibrium is most useful when learners hold a stable but inaccura
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — contradiction is more productive when support adapts to learner confusion and response
 -->
 - [The number of conflicting labels before discussion shows no relationship with accuracy gains from AI agent discussions, while post-discussion conflict frequency negatively predicts gains](../claims/claim-conflicting-labels-before-discussion-no-gain.md) [-W]
-- [External disequilibrium level systematically influences subsequent changes in internal disequilibrium: discrepant conditions increase mixture among low mix subjects and decrease it among high mix subjects](../claims/external-disequilibrium-shapes-internal-mixture-changes.md) [~W]
+- [In one spatial-reasoning experiment, discrepant external conditions were followed by trends toward more Level Mixture among low mix subjects and less among high and mid mix subjects](../claims/external-disequilibrium-shapes-internal-mixture-changes.md) [~W]
 - [One-level and two-level external disequilibrium conditions did not differ significantly, and all Modal Level advances occurred to exactly one level above the subject's mode](../claims/one-step-advance-regardless-of-discrepancy-size.md) [~W]
 - [Programs should facilitate cognitive disequilibrium so students question ethnocentric views and consider other cultural perspectives](../claims/programs-facilitate-cognitive-disequilibrium-ethnocentric-views.md) [+W]
 

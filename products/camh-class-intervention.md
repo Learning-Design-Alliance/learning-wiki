@@ -26,7 +26,7 @@ A co-produced, transdiagnostic school-based mental-health intervention developed
 - [Flexible thinking and problem-solving activities were perceived as feasible and beneficial through co-regulation, playfulness, characterisation and low-stakes whole-class design](../claims/flexible-thinking-low-stakes-design.md) [+W]
 - [Teachers perceived the embedded activities to have positive impacts on pupils' mental health, engagement, learning and enjoyment in class](../claims/teacher-perceived-positive-impact.md) [+W]
 - [Teachers experienced a responsibility-capacity paradox: they view emotional support as core to their role yet feel structurally limited by workload, low mental health literacy and lack of training](../claims/responsibility-capacity-paradox-teachers.md) [+W]
-- [Self-talk activities were perceived as feasible and beneficial only when grounded in authentic, realistic modelling rather than exaggerated positivity](../claims/self-talk-authentic-modelling.md) [+W]
+- [Teachers and young people saw self-talk activities as most effective when grounded in authentic, realistic modelling, and young people rejected exaggerated positivity](../claims/self-talk-authentic-modelling.md) [+W]
 - [Gratitude and strengths-reflection activities were rejected as public classroom disclosures but accepted as discrete short summary activities](../claims/gratitude-strengths-context-dependent.md) [+W]
 - [A new independent teacher group endorsed the refined intervention's feasibility, practice-change potential and scalability](../claims/refinement-group-endorsement.md) [+W]
 

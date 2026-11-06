@@ -9,6 +9,7 @@ generated:
   at: 2026-10-19
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-11-06
 sources:
   - id: sophie-oudman-2021
     resource: "https://doi.org/10.1007/s11409-021-09281-9"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` The magnitude of monitoring judgments significantly predicted regulation judgments (choosing practice or instruction versus nothing) for the whole sample and both skill subsets, on both tasks, before and after self-scoring. [→ Sophie Oudman 2021](#sophie-oudman-2021)
+`q3 i?` The magnitude of monitoring judgments significantly predicted regulation judgments (choosing practice or instruction versus nothing) on both tasks, before and after self-scoring, in every contrast that could be estimated; for the division task the instruction-versus-nothing model could not be analysed for the high-performing group, before or after self-scoring, because no student in it chose instruction. [→ Sophie Oudman 2021](#sophie-oudman-2021)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Sophie Oudman, Janneke van de Pol, Tamara van Gog. (2021). Effects of self-scori
 
 `q3 · i?` · `causal · r1`
 
-Multilevel logistic regression (RQ4A, before self-scoring) of monitoring judgments on regulation judgments; all printed odds ratios were significant (e.g., multiplication practice vs. nothing OR = 0.37). After self-scoring the relation held as well, with odds roughly two to nine times smaller per item.
+Multilevel logistic regression (RQ4A, before self-scoring) of monitoring judgments on regulation judgments; all printed odds ratios were significant (e.g., multiplication practice vs. nothing OR = 0.37); no odds ratio is printed for division instruction vs. nothing in the high-performing group, before or after self-scoring, where no student made that choice. After self-scoring the relation held as well, with odds roughly two to nine times smaller per item.
 
 > "When students' monitoring judgments increased with one item, the odds of choosing for additional practice or instruction compared to no intervention became roughly two to seven times smaller."
 

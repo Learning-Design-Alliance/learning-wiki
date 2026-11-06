@@ -13,16 +13,16 @@ recheck_by: 2030
 sources:
   - id: zachariah-2025
     resource: "https://doi.org/10.51388/20.500.12265/270"
-    title: "Zachariah, I., Peters Hinton, V., Ruiz, P., Dallas, D., Liberman, B., & Karim, S. (2025). AI Literacy in Postsecondary Education. Digital Promise. https://doi.org/10.51388/20.500.12265/270"
-    author: "Zachariah, I., Peters Hinton, V., Ruiz, P., Dallas, D., Liberman, B., & Karim, S."
+    title: "Zacharia, I., Peters Hinton, V., Ruiz, P., Dallas, D., Liberman, B., Karim, S., Chillmon, C., & Gonzalez, L. (2025). AI Literacy in Postsecondary Education. Digital Promise. https://doi.org/10.51388/20.500.12265/270"
+    author: "Zacharia, I., Peters Hinton, V., Ruiz, P., Dallas, D., Liberman, B., Karim, S., Chillmon, C., & Gonzalez, L."
     q: 2
     i: "?"
     kind: associational
     rigour: "?"
   - id: zachariah-2025-2
     resource: "https://doi.org/10.51388/20.500.12265/270"
-    title: "Zachariah, I., Peters Hinton, V., Ruiz, P., Dallas, D., Liberman, B., & Karim, S. (2025). AI Literacy in Postsecondary Education. Digital Promise. https://doi.org/10.51388/20.500.12265/270"
-    author: "Zachariah, I., Peters Hinton, V., Ruiz, P., Dallas, D., Liberman, B., & Karim, S."
+    title: "Zacharia, I., Peters Hinton, V., Ruiz, P., Dallas, D., Liberman, B., Karim, S., Chillmon, C., & Gonzalez, L. (2025). AI Literacy in Postsecondary Education. Digital Promise. https://doi.org/10.51388/20.500.12265/270"
+    author: "Zacharia, I., Peters Hinton, V., Ruiz, P., Dallas, D., Liberman, B., Karim, S., Chillmon, C., & Gonzalez, L."
     q: 2
     i: "?"
     kind: review
@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r?` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2030: baselines and conditions change
+> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person · recheck by 2030: baselines and conditions change
 
 ## Subclaims
 `q2 i?` In the AAC&U survey, the biggest challenges college leaders identified were educator unfamiliarity with and resistance to GenAI tools, lack of training and support infrastructure, concerns about reduced learner learning, and security and safety concerns. [→ Zachariah 2025](#zachariah-2025)
@@ -43,7 +43,7 @@ sources:
 
 ### Zachariah 2025
 
-Zachariah, I., Peters Hinton, V., Ruiz, P., Dallas, D., Liberman, B., & Karim, S. (2025). AI Literacy in Postsecondary Education. Digital Promise. https://doi.org/10.51388/20.500.12265/270
+Zacharia, I., Peters Hinton, V., Ruiz, P., Dallas, D., Liberman, B., Karim, S., Chillmon, C., & Gonzalez, L. (2025). AI Literacy in Postsecondary Education. Digital Promise. https://doi.org/10.51388/20.500.12265/270
 
 `q2 · i?` · `associational · r?`
 
@@ -53,7 +53,7 @@ Self-reported survey of college leaders cited in the brief's educator-gaps secti
 
 ### Zachariah 2025 (2)
 
-Zachariah, I., Peters Hinton, V., Ruiz, P., Dallas, D., Liberman, B., & Karim, S. (2025). AI Literacy in Postsecondary Education. Digital Promise. https://doi.org/10.51388/20.500.12265/270
+Zacharia, I., Peters Hinton, V., Ruiz, P., Dallas, D., Liberman, B., Karim, S., Chillmon, C., & Gonzalez, L. (2025). AI Literacy in Postsecondary Education. Digital Promise. https://doi.org/10.51388/20.500.12265/270
 
 `q2 · i?` · `review · r1`
 

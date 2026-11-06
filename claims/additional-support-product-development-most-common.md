@@ -46,4 +46,4 @@ Self-report interview data from 20 instructors; "the provision of additional sup
 
 ## Related Claims
 - [Instructors most frequently report differentiated instruction strategies at the product and process level, and least often at the affect level](instructors-report-product-process-differentiation-most-frequently.md) — related
-- [Introductory face-to-face meetings are the dominant strategy for stimulating social interaction in blended learning](introductory-f2f-meeting-stimulates-interaction.md) — related
+- [Introductory face-to-face meetings were the most reported way of stimulating social interaction in reviewed blended-learning studies (6 of the 9 that reported on it)](introductory-f2f-meeting-stimulates-interaction.md) — related

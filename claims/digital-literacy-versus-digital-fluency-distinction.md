@@ -46,4 +46,4 @@ The article offers this distinction as an expert definition attributed to Jennif
 
 
 ## Related Claims
-- [Creating computational literature develops computational literacy even when code modification is minor](creating-computational-literature-develops-computational-literacy.md) — related
+- [In a qualitative case study of two student pairs, creating computational literature was associated with computational literacy development even when code modification was minor](creating-computational-literature-develops-computational-literacy.md) — related

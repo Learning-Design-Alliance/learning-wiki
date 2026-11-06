@@ -13,7 +13,7 @@ generated:
 # Oral Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 228 claims (149 show a difference, 41 mixed, 38 no difference) · 149 studies (67 causal, 32 associational, 24 review, 21 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 44 of 149 report an effect size · 225 claims rest on one study
+> **Evidence** · 228 claims (148 show a difference, 42 mixed, 38 no difference) · 149 studies (67 causal, 32 associational, 24 review, 21 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 44 of 149 report an effect size · 225 claims rest on one study
 
 ## Description
 Oral language covers the spoken side of language: understanding what is said, using vocabulary and grammar to express ideas, and organising sentences into a coherent account or story. The Learner Variability Navigator includes two factors here: narrative skills, the ability to tell and understand stories, and the broader language skills that support early mathematics as well as reading. Narrative skill is often assessed by asking a child to tell a story from a wordless picture book or sequencing cards and scoring its overall structure and its sentence-level detail; early literacy batteries assess related skills such as vocabulary and phonological awareness.
@@ -210,7 +210,7 @@ It matters most in preschool and the early grades. Telling stories helps childre
 - [Posttest expressive language scores were significantly higher in the experiment group than the control group, while receptive language scores did not differ significantly](../claims/posttest-between-group-expressive-significant-receptive-null.md) [~M] — instruction changes it
 - [The control group, continuing the regular preschool program, also showed significant pretest-to-posttest vocabulary gains](../claims/control-group-regular-program-vocabulary-gains.md) [+M] — instruction changes it
 - [The Interactive Story Reading Method produced significant pretest-to-posttest gains in expressive language vocabulary in the experiment group](../claims/interactive-story-reading-expressive-prepost-gains.md) [+M] — instruction changes it
-- [The Interactive Story Reading Method produced significant pretest-to-posttest gains in receptive language vocabulary in the experiment group](../claims/interactive-story-reading-receptive-prepost-gains.md) [+M] — instruction changes it
+- [Children taught with the Interactive Story Reading Method gained significantly in receptive vocabulary from pretest to posttest, as did the control group, with no significant posttest difference between the groups](../claims/interactive-story-reading-receptive-prepost-gains.md) [~W] — instruction changes it
 - [The podcast group significantly outperformed the control group on the listening comprehension post-test](../claims/podcast-group-outperformed-control-listening-posttest.md) [+M] — instruction changes it
 - [Tier-2 intervention closed the target word learning gap between at-risk treatment students and not-at-risk reference students, but not the listening comprehension gap](../claims/tier2-closes-target-word-gap-not-comprehension-gap.md) [~M] — an instructional effect differs with it
 - [Tier-2 intervention improved listening comprehension of passages containing taught vocabulary, but the effect was not significant for students with initial PPVT scores more than 7 points below the mean](../claims/tier2-intervention-listening-comprehension-moderated-by-initial-vocabulary.md) [~M] — an instructional effect differs with it

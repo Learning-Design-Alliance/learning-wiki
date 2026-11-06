@@ -53,7 +53,7 @@ Quasi-experimental group pre-test and post-test comparison of 276 third-year Com
 - [Students showed a more positive response toward the DPBL teaching approach than toward direct instruction](dpbl-more-positive-student-response-than-direct-instruction.md) — related
 - [Lecturers rated DPBL activities as appropriate and effective for improving creative thinking and teamwork skills](lecturers-rated-dpbl-appropriate-and-effective.md) — related
 - [In an RCT, pharmacy students taught with PBL rated their own problem-solving and self-directed learning significantly higher on a questionnaire than LBL students did](pbl-rct-higher-problem-solving-self-directed-learning.md) — related
-- [Students' self-directed learning and creative thinking skills increased significantly after QIMS inquiry-based lessons](qims-lessons-increase-self-directed-learning-creative-thinking.md) — related
+- [On a post-intervention self-report survey, students in QIMS inquiry-based classes rated their self-directed learning and creative thinking higher than students in a non-QIMS class](qims-lessons-increase-self-directed-learning-creative-thinking.md) — related
 - [In the RCT, PBL students rated their own communication skills and critical thinking significantly higher on a questionnaire than LBL students did](pbl-rct-higher-communication-critical-thinking.md) — related
 - [Purposely teaching for higher order thinking skills enhances high school students' critical thinking compared with traditional teaching](hots-teaching-enhances-critical-thinking.md) — related
 - [Problem solving strategy is more effective than the scientific approach for students' mathematical creativity](problem-solving-strategy-more-effective-creativity.md) — related

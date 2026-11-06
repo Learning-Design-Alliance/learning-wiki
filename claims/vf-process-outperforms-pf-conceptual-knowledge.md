@@ -47,7 +47,7 @@ Randomized experiment with N = 173 secondary students assigned to PF, VF-process
 
 ## Related Claims
 - [PF students reported more awareness of knowledge gaps than example observers, but awareness of knowledge gaps did not correlate with conceptual knowledge acquisition](knowledge-gap-awareness-not-linked-to-learning.md) — related
-- [Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while prior knowledge did not affect post-test performance in the PF condition](prior-knowledge-moderates-vf-process-vs-pf.md) — related
+- [Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while in the PF condition prior knowledge showed only a small, non-significant correlation with post-test performance](prior-knowledge-moderates-vf-process-vs-pf.md) — related
 - [Students who generated their own solutions or observed the full process did not significantly outperform students who only viewed the outcomes of failed solution attempts on conceptual knowledge](pf-vf-process-not-superior-to-vf-outcome.md) — reports the opposite
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — a broader claim this one bears on
 - [PF students did not outperform DI students when learning social science research methods in two quasi-experimental studies with 10th graders, failing to replicate the STEM-domain PF effect](pf-effect-not-replicated-non-stem-research-methods.md) — related

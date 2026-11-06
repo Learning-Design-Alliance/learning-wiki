@@ -54,7 +54,7 @@ Roles improve the quality of collaboration when they distribute *cognitive* work
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Role rotation created opportunities for perspective-taking and collaborative accountability, but also produced difficulty adapting to unfamiliar roles and uneven participation](../claims/role-rotation-perspective-taking-and-challenges.md) [~M]
-- [Transitions among higher-order collaborative behaviors were observed from pre-test to post-test after role design in human-GAI collaboration, in one group with no comparison group](../claims/role-design-facilitates-higher-order-behavior-transitions.md) [+W]
+- [Transitions among higher-order collaborative behaviors were observed from pre-test to post-test after role design in human-GAI collaboration, among 58 students in 16 teams with no comparison group](../claims/role-design-facilitates-higher-order-behavior-transitions.md) [+W]
 - [Technology affordance conditions, manipulated via device-to-student ratio and scripts, shape role emergence, role coordination, and group structure in collaboration](../claims/device-ratio-affordances-role-interaction.md) [~W]
 - [Scripted roles scaffold students' cognitive responsibility for building common knowledge in knowledge-building environments](../claims/scripted-roles-scaffold-cognitive-responsibility-knowledge-building.md) [+W]
 - [Scripting collaboration via role-assigned interfaces produced little difference in learning outcomes compared with an unscripted self-organized condition in a semester-long course](../claims/scripting-little-difference-learning-outcomes.md) [~W]

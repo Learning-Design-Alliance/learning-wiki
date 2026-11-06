@@ -47,6 +47,6 @@ The article's discussion-level summary of the differential patterns across quest
 ## Related Claims
 - [Clinical case discussion cohorts outperformed the national average on integrated clinical-anatomy questions in the Proficiency Test, peaking at +3.37](cbl-integrated-proficiency-test-outperformed-national-average.md) — related
 - [The 2021 cohort's integrated Proficiency Test differential sharply declined to −5.34, coinciding with stagnation of the case repository](cbl-2021-cohort-decline-case-repository-stagnation.md) — related
-- [Pre-course test reveals high factual recall but insufficient clinical application ability under traditional teaching](pre-course-test-reveals-application-deficit-traditional-teaching.md) — related
+- [On a pre-course test, residency trainees in a nuclear medicine course scored above 90% on some conceptual items but below 65% on several treatment-application items, with wide variation across items](pre-course-test-reveals-application-deficit-traditional-teaching.md) — related
 - [Sensitivity and publication-bias analyses indicate the pooled CBL effect is stable despite slight publication bias](cbl-meta-analysis-stability-publication-bias.md) — related
 - [The CBL exam-score advantage is robust to subgroup and leave-one-out sensitivity analyses but shows potential publication bias](cbl-exam-effect-robustness-publication-bias.md) — related

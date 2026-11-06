@@ -39,7 +39,7 @@ The article tests and extends Strauss's (1972) elaboration of Piaget's equilibra
 
 ### Claims
 
-- [External disequilibrium level systematically influences subsequent changes in internal disequilibrium: discrepant conditions increase mixture among low mix subjects and decrease it among high mix subjects](../claims/external-disequilibrium-shapes-internal-mixture-changes.md) [+W]
+- [In one spatial-reasoning experiment, discrepant external conditions were followed by trends toward more Level Mixture among low mix subjects and less among high and mid mix subjects](../claims/external-disequilibrium-shapes-internal-mixture-changes.md) [+W]
 - [Higher internal disequilibrium is associated with more regressive (minus) changes as well as more progressive changes](../claims/high-mixture-increases-regressive-changes.md) [+W]
 - [One-level and two-level external disequilibrium conditions did not differ significantly, and all Modal Level advances occurred to exactly one level above the subject's mode](../claims/one-step-advance-regardless-of-discrepancy-size.md) [+W]
 

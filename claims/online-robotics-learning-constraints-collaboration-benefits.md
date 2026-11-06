@@ -45,5 +45,5 @@ Qualitative finding from the mixed-methods action research of the online course.
 
 
 ## Related Claims
-- [An LBD-grounded online robotics course increased inservice teachers' self-efficacy in robotics, use of problem-solving and collaboration strategies, and confidence in robotics knowledge and teaching](lbd-online-robotics-course-teacher-self-efficacy-gains.md) — related
+- [After an LBD-grounded online robotics course, inservice teachers reported higher self-efficacy in robotics, problem-solving strategy use, and confidence in robotics knowledge and teaching; their reported collaboration gain was not significant](lbd-online-robotics-course-teacher-self-efficacy-gains.md) — related
 - [While completing the robotics open-ended project, teachers developed learning strategies including case-based reasoning, sketches, trial and error, and evaluating capacity](robotics-open-ended-project-learning-strategies.md) — related

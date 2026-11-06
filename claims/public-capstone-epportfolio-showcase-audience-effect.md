@@ -63,7 +63,7 @@ Description of the COVID-pivot virtual showcase in spring 2020: instructors crea
 ## Related Claims
 
 - [Compared with non-ePortfolio peers, students in courses requiring ePortfolios were generally more engaged, earned higher grades, and were more likely to complete and persist, per the 26-institution project evidence](epportfolio-courses-engagement-grades-persistence.md) — the general claim this finding bears on, with the studies behind it
-- [Philanthropic Studies case: ePortfolio moved from a capstone-only final project to full curricular integration across four required courses over a decade](philanthropic-studies-epportfolio-curricular-integration.md) — related
+- [Philanthropic Studies case: ePortfolio moved from a capstone-only final project (2013) to four required courses (by 2017), described as the foundation for fully integrating it into the curriculum](philanthropic-studies-epportfolio-curricular-integration.md) — related
 - [Authentic Audiences Improve Student Work](authentic-audiences-improve-student-work.md) — a broader claim this one bears on
 - The ePortfolio social pedagogy ecosystem appears to be an effective way for students to integrate deeper learning and document developing information literacy competencies as self-assessment — related
 - [Instructional designers employ teaching activities such as self-reflection, authentic learning, and collaborative work to foster dispositions, but application is inconsistent](teaching-activities-foster-dispositions.md) — a broader claim this one bears on

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-02
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-06
 sources:
   - id: lallé-2017
     resource: "https://educationaldatamining.org/EDM2017/"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 4 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
@@ -38,7 +39,7 @@ Lallé, S., Mudrick, N., Conati, C., Taub, M., Azevedo, R. (2017). On the Influe
 
 `q3 · i? · printed effect is a partial η² (.15) from a regression with eight factors (seven prompt compliance rates plus total prompts received) on 28 students, not a d-family effect size; not converted` · `associational · r1`
 
-Multiple linear regression on data from a user study with 28 college students learning with MetaTutor, with proportional learning gain as the dependent variable and the compliance rates for the seven explicit prompts and the total number of prompts received as factors. The revise summary effect was "F1,20 = 6.17, p=.02, ηp2 =.15", reported as a significant main effect. An earlier version of this entry called it both large and medium by the paper's criteria; which benchmark the paper applies is not established here.
+Multiple linear regression on data from a user study with 28 college students learning with MetaTutor, with proportional learning gain as the dependent variable and the compliance rates for the seven explicit prompts and the total number of prompts received as factors. The revise summary effect was "F1,20 = 6.17, p=.02, ηp2 =.15", reported as a significant main effect. The paper defines effect sizes "as small for ηp2 ≥ 0.02, medium for ηp2 ≥ 0.13, and large for ηp2 ≥ 0.26", so ηp² = .15 is a medium effect by its own criteria.
 
 > "Revise summary (F1,20 = 6.17, p=.02, ηp2 =.15), shown Fig. 2a."
 

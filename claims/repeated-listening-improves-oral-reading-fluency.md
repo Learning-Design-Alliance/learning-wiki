@@ -9,6 +9,7 @@ generated:
   at: 2026-09-28
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-11-06
 sources:
   - id: salarvand-2022
     resource: "https://eric.ed.gov/?id=EJ1340892"
@@ -32,11 +33,11 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r1`–`r2` · `q2`
-> **Currency** · newest study 2022 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
-`q2 i?` In a seven-week study of 75 second-grade students randomly assigned to Reading While Listening, Listening Only, and Reading Only conditions, the Listening Only group achieved the largest oral reading fluency gain (24 words per minute), ahead of Reading Only (19) and Reading While Listening (18). [→ Salarvand 2022](#salarvand-2022)
+`q2 i?` As summarised by this review, in Jablonski's (2019) seven-week study of 75 second-grade students randomly assigned to Reading While Listening, Listening Only, and Reading Only conditions, the Listening Only group achieved the largest oral reading fluency gain (24 words per minute), ahead of Reading Only (19) and Reading While Listening (18). [→ Salarvand 2022](#salarvand-2022)
 `q2 i?` In the same study, Reading Only produced the largest reading comprehension gain (6.5%), Listening Only gained 4%, and Reading While Listening showed an average loss of 1%. [→ Salarvand 2022 (2)](#salarvand-2022-2)
 
 ## Evidence
@@ -47,7 +48,7 @@ Salarvand, L., Guimaraes, N., & Balagholi, Z. (2022). Instructional Strategies' 
 
 `q2 · i?` · `review · r1`
 
-Experimental study by Jablonski (2019) with 75 second-grade students randomly assigned to RWL, LO and RO conditions over seven weeks, one story per week, tested with BIBELS pretest and posttest. The review reports the LO group's "average improvement of 24 words per minute" versus 19 for RO and 18 for RWL.
+Salarvand et al. (2022) is a thematic literature review, not an experiment; this finding is its summary of a separate experimental study by Jablonski (2019), which the wiki has not read directly, with 75 second-grade students randomly assigned to RWL, LO and RO conditions over seven weeks, one story per week, tested before and after on reading fluency (BIBELS) and reading comprehension (EasyCBM). The review reports the LO group's "average improvement of 24 words per minute" versus 19 for RO and 18 for RWL.
 
 > "The LO group got higher scores in oral reading fluency with an average improvement of 24 words per minute. The second higher scores were gained by RO with an average improvement of 19 words per minute."
 

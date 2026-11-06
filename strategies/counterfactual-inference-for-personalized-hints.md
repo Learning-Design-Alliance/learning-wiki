@@ -17,7 +17,7 @@ sources:
 # Use counterfactual inference models on online educational experiments to support personalized hint selection
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 2 studies (2 design), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 3 studies (3 design), `q2` · 0 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 The article recommends applying ITE estimation models to online educational experiments so that an intelligent tutoring system can choose the intervention leading to the best outcome for a specific student, such as deciding between a video hint and a text hint. Randomized assignment within the platform supplies the training data, and models like RCN estimate what each student's outcome would be under each intervention.

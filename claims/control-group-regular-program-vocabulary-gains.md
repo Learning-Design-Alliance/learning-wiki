@@ -51,5 +51,5 @@ Wilcoxon analysis for the 26-child control group receiving the Ministry of Educa
 
 ## Related Claims
 - [Traditional vocabulary teaching produced no statistically significant pretest-to-posttest gain in the control group](traditional-teaching-no-significant-vocabulary-gain.md) — reports the opposite
-- [The Interactive Story Reading Method produced significant pretest-to-posttest gains in receptive language vocabulary in the experiment group](interactive-story-reading-receptive-prepost-gains.md) — related
+- [Children taught with the Interactive Story Reading Method gained significantly in receptive vocabulary from pretest to posttest, as did the control group, with no significant posttest difference between the groups](interactive-story-reading-receptive-prepost-gains.md) — related
 - [The Interactive Story Reading Method produced significant pretest-to-posttest gains in expressive language vocabulary in the experiment group](interactive-story-reading-expressive-prepost-gains.md) — related

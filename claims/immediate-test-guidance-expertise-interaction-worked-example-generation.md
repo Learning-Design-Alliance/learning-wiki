@@ -84,7 +84,7 @@ Omnibus repeated-measures ANOVA on immediate test scores found no significant th
 
 
 ## Related Claims
-- [On the delayed test, a significant three-way interaction showed a worked example effect for high element interactivity material and a generation effect for low element interactivity material for novices](delayed-test-three-way-interaction-element-interactivity-guidance-expertise.md) — related
+- [On the delayed test, guidance, element interactivity and expertise interacted significantly: for novices, generation beat worked examples on low element interactivity material, while the worked example advantage on high element interactivity material fell just short of significance](delayed-test-three-way-interaction-element-interactivity-guidance-expertise.md) — related
 - [For more knowledgeable learners on the delayed test, a generation effect was obtained for both low and high element interactivity materials](delayed-test-year11-generation-effect-both-materials.md) — related
 - [Expertise produced large main effects on test scores and interacted with element interactivity, with the expertise advantage much larger for high element interactivity material](expertise-main-effect-and-element-interactivity-interaction.md) — related
 - [The experiment demonstrated an expertise reversal effect: high guidance via worked examples was redundant for more knowledgeable Year 11 learners](expertise-reversal-effect-worked-examples-redundant.md) — related

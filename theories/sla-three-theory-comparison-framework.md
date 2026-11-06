@@ -38,7 +38,7 @@ The article analyzes and synthesizes Krashen's SLA Theory, Larsen-Freeman's Comp
 ### Claims
 
 - [Meaningful L2 learning is achieved through a conducive environment and authentic tasks and materials](../claims/authentic-tasks-meaningful-l2-learning.md) [+W]
-- [Fluency can have a high effect on accuracy, whereas accuracy will not lead to fluency](../claims/fluency-precedes-accuracy-oral-l2.md) [+W]
+- [One author argues, without testing it, that in oral L2 teaching fluency can have a high effect on accuracy whereas accuracy will not lead to fluency](../claims/fluency-precedes-accuracy-oral-l2.md) [+W]
 - [Learner-centeredness is a universal theme across SLA theories and language teaching methods](../claims/learner-centeredness-universal-theme-sla.md) [+W]
 - [A learner's mother language affects second language acquisition, particularly in production of absent sounds](../claims/mother-tongue-affects-sla-production.md) [+W]
 - [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](../claims/drill-and-grammar-focus-ineffective-for-l2-acquisition.md) [+M]

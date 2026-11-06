@@ -48,6 +48,6 @@ Quantitative outcome from the three-condition quasi-experiment (117 students). T
 - [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Students' self-directed learning and creative thinking skills increased significantly after QIMS inquiry-based lessons](qims-lessons-increase-self-directed-learning-creative-thinking.md) — related
+- [On a post-intervention self-report survey, students in QIMS inquiry-based classes rated their self-directed learning and creative thinking higher than students in a non-QIMS class](qims-lessons-increase-self-directed-learning-creative-thinking.md) — related
 - [Using AR did not produce a statistically significant difference in primary students' academic performance](ar-no-significant-academic-performance-difference.md) — related
 - [Integrating QIMS and AR proved more beneficial to low-progress students in terms of academic outcomes](qims-ar-more-beneficial-low-progress-students.md) — related

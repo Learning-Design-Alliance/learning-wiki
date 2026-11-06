@@ -11,7 +11,9 @@ evidence_strength: moderate
 newest_evidence: 2026
 sources:
   - id: taboada-barber-2026
-    title: Taboada Barber 2026
+    resource: "https://doi.org/10.1016/j.caeo.2025.100283"
+    title: "A review synthesising eleven studies of reading fluency practices for emergent bilinguals; this entry rests on its summary of one of them, not on a finding of the review itself. The primary study is Al-Bogami, R. M., & Alahmadi, N. A. (2025). Effects of an AI-based reading progress tool on third-grade EFL learners' oral reading fluency. *Computers and Education Open, 9*, 100283. [doi:10.1016/j.caeo.2025.100283](https://doi.org/10.1016/j.caeo.2025.100283) (not read for this page). As the review reports it, Al-Bogami and Alahmadi (2025) measured English oral reading fluency by speed, accuracy, and prosody in grade 3 ELLs using the Reading Progress program; the intervention group \"obtaining large effect sizes for speed and accuracy\". The authors suspect more intervention time is needed for significant prosody gains."
+    author: "A review synthesising eleven studies of reading fluency practices for emergent bilinguals; this entry rests on its summary of one of them, not on a finding of the review itself. The primary study is Al-Bogami, R. M., & Alahmadi, N. A."
     q: 3
     i: "?"
     kind: review
@@ -25,7 +27,7 @@ sources:
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` The intervention group significantly outperformed the control group with large effect sizes for speed and accuracy, while prosody gains were not statistically significant. [→ ev-3](#taboada-barber-2026)
+`q3 i?` In Al-Bogami and Alahmadi's (2025) grade-3 EFL study, as summarised in this eleven-study review, the intervention group significantly outperformed the control group with large effect sizes for speed and accuracy, while prosody gains were not statistically significant. [→ ev-3](#taboada-barber-2026)
 
 ## Evidence
 
@@ -35,7 +37,7 @@ Taboada Barber, A., Urbano Aguilar, S., Lopez Rodriguez, A., and Pan, Y. (2026, 
 
 `q3 · i?` · `review · r2`
 
-Al-Bogami and Alahmadi (2025) measured English oral reading fluency by speed, accuracy, and prosody in grade 3 ELLs using the Reading Progress program; the intervention group "obtaining large effect sizes for speed and accuracy". The authors suspect more intervention time is needed for significant prosody gains.
+A review synthesising eleven studies of reading fluency practices for emergent bilinguals; this entry rests on its summary of one of them, not on a finding of the review itself. The primary study is Al-Bogami, R. M., & Alahmadi, N. A. (2025). Effects of an AI-based reading progress tool on third-grade EFL learners' oral reading fluency. *Computers and Education Open, 9*, 100283. [doi:10.1016/j.caeo.2025.100283](https://doi.org/10.1016/j.caeo.2025.100283) (not read for this page). As the review reports it, Al-Bogami and Alahmadi (2025) measured English oral reading fluency by speed, accuracy, and prosody in grade 3 ELLs using the Reading Progress program; the intervention group "obtaining large effect sizes for speed and accuracy". The authors suspect more intervention time is needed for significant prosody gains.
 
 > "the intervention group significantly outperformed the control group, obtaining large effect sizes for speed and accuracy"
 

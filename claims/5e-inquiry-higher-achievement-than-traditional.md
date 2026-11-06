@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Fifth-grade students taught science through inquiry-based instruction supported by the 5E learning cycle achieved significantly higher post-test scores than students taught by traditional methods
-description: Fifth-grade students taught science through inquiry-based instruction supported by the 5E learning cycle achieved significantly higher post-test scores than students taught by traditional methods
+title: In a quasi-experiment with 40 fifth-grade girls in Kermanshah, Iran, those taught science through inquiry-based instruction supported by the 5E learning cycle achieved significantly higher post-test scores than those taught by traditional methods
+description: In a quasi-experiment with 40 fifth-grade girls in Kermanshah, Iran, those taught science through inquiry-based instruction supported by the 5E learning cycle achieved significantly higher post-test scores than those taught by traditional methods
 id: 5e-inquiry-higher-achievement-than-traditional
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-06
 sources:
   - id: ali-abdi-2014
     resource: "https://doi.org/10.13189/ujer.2014.020104"
@@ -20,14 +21,14 @@ sources:
     rigour: 1
 ---
 
-# Fifth-grade students taught science through inquiry-based instruction supported by the 5E learning cycle achieved significantly higher post-test scores than students taught by traditional methods
+# In a quasi-experiment with 40 fifth-grade girls in Kermanshah, Iran, those taught science through inquiry-based instruction supported by the 5E learning cycle achieved significantly higher post-test scores than those taught by traditional methods
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Students taught with inquiry-based instruction supported by the 5E learning cycle scored significantly higher on the post-test achievement measure than students taught with traditional instruction (F = 5.121, p = .030). [→ Ali Abdi 2014](#ali-abdi-2014)
+`q2 i?` In a sample of 40 fifth-grade girls (20 per group) in primary schools in Kermanshah, Iran, students taught with inquiry-based instruction supported by the 5E learning cycle scored significantly higher on the post-test achievement measure than students taught with traditional instruction (F = 5.121, p = .030). [→ Ali Abdi 2014](#ali-abdi-2014)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Ali Abdi. (2014). The Effect of Inquiry-based Learning Method on Students’ Aca
 
 `q2 · i?` · `causal · r1`
 
-Quasi-experimental study with non-equivalent groups (20 experimental, 20 control fifth-grade girls); ANCOVA on post-test scores of a 30-item achievement test. The article reports "a significant difference in the means score" between the 5E inquiry group and the traditional group, F = 5.121, Sig. .030.
+Quasi-experimental study with non-equivalent groups (20 experimental, 20 control fifth-grade girls in primary schools in Kermanshah, Iran); ANCOVA on post-test scores of a 30-item achievement test. The article reports "a significant difference in the means score" between the 5E inquiry group and the traditional group, F = 5.121, Sig. .030.
 
 > "Table 2 indicates that the (F) value was (5.121) and it was significant value at the level (.030). This means that there is a significant difference in the means score of students taught sciences education using inquiry- based instruction supported 5E learning cycle  and those taught using traditional approach."
 

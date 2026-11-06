@@ -45,6 +45,6 @@ Teacher observation and reflective journal data from the intervention classroom:
 
 
 ## Related Claims
-- [Inserting fiction excerpts into chemistry instruction shifted classroom discourse toward more student questions, peer challenge, and evidence-based argumentation](fiction-insertion-shifts-chemistry-discourse.md) — related
+- [A chemistry class taught with inserted fiction excerpts showed more student questions, peer challenge and evidence-based argumentation, a shift the authors do not attribute to the fiction itself](fiction-insertion-shifts-chemistry-discourse.md) — related
 - [Supplementing chemistry instruction with fiction excerpts produced no statistically significant difference in post-assessment achievement compared with traditional instruction](fiction-supplement-no-achievement-gain-chemistry.md) — related
 - [Utility-value interventions enhance perceived utility value, engagement, performance, and persistence in introductory college science courses](uvi-improve-engagement-performance-persistence.md) — related

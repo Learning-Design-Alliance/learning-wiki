@@ -9,6 +9,7 @@ generated:
   at: 2026-10-15
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-06
 sources:
   - id: elke-peters-and-stuart-webb-2018
     resource: "https://doi.org/10.1017/S0272263117000407"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Learning from viewing TV was affected by frequency of occurrence, prior vocabulary knowledge, and cognateness. [→ Elke Peters and Stuart Webb 2018](#elke-peters-and-stuart-webb-2018)
@@ -37,7 +38,7 @@ Elke Peters and Stuart Webb. (2018). INCIDENTAL VOCABULARY ACQUISITION THROUGH V
 
 `q2 · i?` · `causal · r?`
 
-Across the two experiments with Dutch-speaking EFL learners, the article states that "learning was affected by frequency of occurrence, prior vocabulary knowledge, and cognateness." No effect sizes or statistics for these moderator effects are printed in the available text.
+Across the two experiments with Dutch-speaking EFL learners, the article states that "learning was affected by frequency of occurrence, prior vocabulary knowledge, and cognateness." The repeated-measures logistic regressions (GEE) on items unknown at pretest print odds ratios for each. Experiment 1 (meaning recall, 1,740 observations): each additional prior-vocabulary-test item raised the odds of a correct response by 3% (32% for 10 items, exp(10B) = 1.32); each additional occurrence by 25% (exp(B) = 1.25; exp(5B) = 3.05 for five more); and cognates had eight times higher odds. Experiment 2 (1,221 observations): 3% per prior-vocabulary item (1.32 for 10), 20% per additional occurrence (exp(5B) = 2.46 for five more), and 2.5 times higher odds for cognates; relevance was not significant in either. These are odds ratios, not standardised mean differences, so the magnitude stays coded `i?`.
 
 > "The research also revealed that learning was affected by frequency of occurrence, prior vocabulary knowledge, and cognateness."
 

@@ -46,7 +46,7 @@ The review proposes cognitive training strategies that work within the visual wo
 
 - [Preoperative mental practice and mental imagery enhance MIS surgical performance](../claims/mental-practice-enhances-mis-performance.md) [+W]
 - [Mental rotation ability shows a specific, significant influence on MIS learning and operative performance](../claims/mental-rotation-influences-mis-performance.md) [+W]
-- [Teaching orientation strategies to novice laparoscopic surgeons significantly increases performance and reduces cognitive burden](../claims/orientation-strategies-improve-novice-laparoscopic-performance.md) [+W]
+- [Teaching orientation strategies to final-year medical students new to laparoscopy significantly increased performance and reduced cognitive burden](../claims/orientation-strategies-improve-novice-laparoscopic-performance.md) [+W]
 - [Visuo-spatial ability impacts operative simulator performance in minimally invasive surgery, mainly in inexperienced novices](../claims/vsa-predicts-mis-simulator-performance-novices.md) [+W]
 
 ## Related Strategies

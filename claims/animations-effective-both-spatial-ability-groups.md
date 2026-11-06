@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-11-06
 sources:
   - id: kaushal-2019
     resource: "https://eric.ed.gov/?id=EJ1219792"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q3` · `i1` small
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i1` The weighted mean effect size of animation-based teaching is 0.34 for HSA groups and 0.58 for LSA groups, both positive, so the null hypothesis that animations are only effective for HSA students is rejected. [→ Kaushal 2019](#kaushal-2019)
@@ -37,7 +38,7 @@ Kaushal, R. K., & Panda, S. N. (2019). A Meta Analysis on Effective Conditions t
 
 `q3 · i1` · `quant-synthesis · r1`
 
-Meta-analysis of 20 spatial-ability experiments from published studies (1994-2016), with Hedges g computed from Cohen's d after a Shapiro-Wilk normality check. Both weighted mean effect sizes were positive: Hedges g = 0.34 for HSA groups and g = 0.58 for LSA groups, as "the weighted mean effect size of HSA groups and LSA groups were 0.34 and 0.58 respectively".
+Meta-analysis of 20 spatial-ability experiments from published studies (1994-2016), with Hedges g computed from Cohen's d after a Shapiro-Wilk normality check, except where an experiment's sample size was missing (6 of the meta-analysis's 37 experiments), for which Cohen's d was used as it was. Both weighted mean effect sizes were positive: 0.34 for HSA groups and 0.58 for LSA groups, as "the weighted mean effect size of HSA groups and LSA groups were 0.34 and 0.58 respectively".
 
 > "After computation, the weighted mean effect size of HSA groups and LSA groups were 0.34 and 0.58 respectively. The outcomes are shown in Figure 2 on the scale of 0 to 1."
 

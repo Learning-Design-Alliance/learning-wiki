@@ -69,7 +69,7 @@ Webb et al. (2023) qualify this claim at the level of studies: across second-lan
 ## Related Claims
 - [Participants incidentally acquired an average of 3.19 of 20 target words after reading two passages](incidental-acquisition-rate-3-of-20-words.md) — related
 - [Incidental vocabulary learning anxiety positively predicts L2 incidental vocabulary acquisition through reading](incidental-vocabulary-anxiety-positive-predictor.md) — related
-- [L2 proficiency, anxiety, and mastery of strategies jointly explain 18% of variance in incidental vocabulary acquisition](learner-factors-model-18-percent-variance.md) — related
+- [A four-predictor model of L2 proficiency, anxiety, strategy mastery and motivation explains 18% of variance in incidental vocabulary acquisition](learner-factors-model-18-percent-variance.md) — related
 - [Higher L2 reading proficiency, motivation, and involvement load are associated with larger incidental vocabulary gains](proficiency-motivation-involvement-gains.md) — possibly the same claim (merge candidate)
 - Listening proficiency transfers to other language skills, including reading and writing, in second language learners — related
 - [Reading and listening yield similar proportions of incidental vocabulary learning, with reading ahead only on some immediate posttests](reading-versus-listening-incidental-vocabulary-gains.md) — related

@@ -37,7 +37,7 @@ Biglan's empirically derived model classifies academic departments on dimensions
 
 ### Claims
 
-- [Student subject matter orientation differs significantly from faculty perceptions of departmental characteristics](../claims/student-faculty-subject-matter-mismatch.md) [+W]
+- [Students were generally softer, more applied, more life- and more creatively oriented than faculty described their departments, with many but not all differences significant](../claims/student-faculty-subject-matter-mismatch.md) [+W]
 
 ## Related Theories
 

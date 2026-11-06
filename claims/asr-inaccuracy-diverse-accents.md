@@ -13,16 +13,16 @@ recheck_by: 2028
 sources:
   - id: stephenson-2025
     resource: "https://doi.org/10.51388/20.500.12265/258"
-    title: "Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60 [doi:10.51388/20.500.12265/258](https://doi.org/10.51388/20.500.12265/258)"
-    author: "Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J."
+    title: "Stephenson, S. P., Leones, T., Kamdar, D., & Prado, Y. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60 [doi:10.51388/20.500.12265/258](https://doi.org/10.51388/20.500.12265/258)"
+    author: "Stephenson, S. P., Leones, T., Kamdar, D., & Prado, Y."
     q: 2
     i: "?"
     kind: qualitative
     rigour: 2
   - id: stephenson-2025-2
     resource: "https://doi.org/10.51388/20.500.12265/258"
-    title: "Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60. [doi:10.51388/20.500.12265/258](https://doi.org/10.51388/20.500.12265/258)"
-    author: "Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J."
+    title: "Stephenson, S. P., Leones, T., Kamdar, D., & Prado, Y. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60. [doi:10.51388/20.500.12265/258](https://doi.org/10.51388/20.500.12265/258)"
+    author: "Stephenson, S. P., Leones, T., Kamdar, D., & Prado, Y."
     q: 2
     i: "?"
     kind: qualitative
@@ -36,24 +36,24 @@ sources:
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
-`q2 i?` Educators noted that automatic speech recognition may misrecognize learners' accents, dialects, or speech patterns, reducing tool effectiveness. [→ Stephenson 2025](#stephenson-2025)
+`q2 i?` A few educators noted that automatic speech recognition may be inaccurate for, or have trouble recognizing, learners' accents, dialects, or speech patterns. [→ Stephenson 2025](#stephenson-2025)
 `q2 i?` Educators also saw benefits in ASR providing a safe space to practice speaking and reducing accent-related pressure. [→ Stephenson 2025 (2)](#stephenson-2025-2)
 
 ## Evidence
 
 ### Stephenson 2025
 
-Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60 [doi:10.51388/20.500.12265/258](https://doi.org/10.51388/20.500.12265/258)
+Stephenson, S. P., Leones, T., Kamdar, D., & Prado, Y. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60 [doi:10.51388/20.500.12265/258](https://doi.org/10.51388/20.500.12265/258)
 
 `q2 · i?` · `qualitative · r2`
 
-In the qualitative interviews, "a few educators also noted drawbacks" to ASR, reporting inaccuracy in recognizing learners' accents, dialects, or speech patterns, which could make the tools less effective for teachers.
+In the qualitative interviews, "a few educators also noted drawbacks" to ASR, reporting that it may be inaccurate or have trouble recognizing learners' accents, dialects, or speech patterns. The report's abstract lists "inaccuracies in Automated Speech Recognition (ASR) for diverse speech accents, dialects, and patterns" among the concerns that emerged from interviews and listening sessions with 16 educators across 11 states.
 
 > "Relatedly, a few educators also noted drawbacks to this feature given that it may be inaccurate or have trouble recognizing learners’ different accents, dialects, or speech patterns."
 
 ### Stephenson 2025 (2)
 
-Stephenson, S. P., Leones, T., Kamdar, D., Prado, Y., & Ddamulira, J. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60. [doi:10.51388/20.500.12265/258](https://doi.org/10.51388/20.500.12265/258)
+Stephenson, S. P., Leones, T., Kamdar, D., & Prado, Y. (2025). A National Context of Generative AI for Reading to Support English Learners. Digital Promise. https://digitalpromise.dspacedirect.org/items/73c883c0-4652-499d-aeb2-74f773749c60. [doi:10.51388/20.500.12265/258](https://doi.org/10.51388/20.500.12265/258)
 
 `q2 · i?` · `qualitative · r2`
 

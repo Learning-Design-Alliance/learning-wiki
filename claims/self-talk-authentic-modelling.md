@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Self-talk activities were perceived as feasible and beneficial only when grounded in authentic, realistic modelling rather than exaggerated positivity
-description: Self-talk activities were perceived as feasible and beneficial only when grounded in authentic, realistic modelling rather than exaggerated positivity
+title: Teachers and young people saw self-talk activities as most effective when grounded in authentic, realistic modelling, and young people rejected exaggerated positivity
+description: Teachers and young people saw self-talk activities as most effective when grounded in authentic, realistic modelling, and young people rejected exaggerated positivity
 id: self-talk-authentic-modelling
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: stewart-2026
     resource: "https://doi.org/10.1371/journal.pone.0359563"
@@ -20,11 +21,11 @@ sources:
     rigour: 3
 ---
 
-# Self-talk activities were perceived as feasible and beneficial only when grounded in authentic, realistic modelling rather than exaggerated positivity
+# Teachers and young people saw self-talk activities as most effective when grounded in authentic, realistic modelling, and young people rejected exaggerated positivity
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Young people rejected inauthentic, overly optimistic teacher phrasing and positive wall statements, preferring authentic, balanced language with realistic positivity. [→ Stewart 2026](#stewart-2026)

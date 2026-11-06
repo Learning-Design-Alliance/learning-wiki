@@ -45,7 +45,7 @@ The article endorses "transformative SEL" that would foster critical citizenship
 
 ## Claims
 
-- [Executive function partially mediates the link between family SES and middle-school academic achievement](../claims/ef-mediation-ses-achievement.md) [+W]
+- [A review reports that executive function mediates the link between family SES and middle-school academic achievement](../claims/ef-mediation-ses-achievement.md) [+W]
 - [SEL (PATHS) behavior improvements in low-income kindergartners persisted a year post-program, especially for children with lower baseline heart rate variability](../claims/paths-sustained-benefits-low-hrv.md) [~W]
 - [Isolated school mindfulness programs show mixed results, with one multi-site trial showing no improvement and increased anxiety in some subgroups](../claims/school-mindfulness-mixed-results.md) [~W]
 - [SEL programs implemented well show positive impacts on targeted skills and academic outcomes, including meta-analytic support](../claims/sel-programs-academic-outcomes.md) [~W]

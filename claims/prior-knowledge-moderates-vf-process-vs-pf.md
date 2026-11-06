@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while prior knowledge did not affect post-test performance in the PF condition"
-description: "Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while prior knowledge did not affect post-test performance in the PF condition"
+title: "Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while in the PF condition prior knowledge showed only a small, non-significant correlation with post-test performance"
+description: "Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while in the PF condition prior knowledge showed only a small, non-significant correlation with post-test performance"
 id: prior-knowledge-moderates-vf-process-vs-pf
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-15
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-11-06
 sources:
   - id: christian-hartmann-2021
     resource: "https://doi.org/10.1007/s11251-020-09528-z"
@@ -28,11 +29,11 @@ sources:
     rigour: 2
 ---
 
-# Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while prior knowledge did not affect post-test performance in the PF condition
+# Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while in the PF condition prior knowledge showed only a small, non-significant correlation with post-test performance
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2021 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Condition interacted with prior knowledge on conceptual knowledge (F(2, 166) = 3.13, p = 0.047); the moderation coefficient was b 3 = 0.34, p = 0.011. [→ Christian Hartmann 2021](#christian-hartmann-2021)
@@ -56,7 +57,7 @@ Christian Hartmann, Tamara van Gog, Nikol Rummel. (2021). Preparatory effects of
 
 `q3 · i3` · `causal · r2`
 
-Follow-up simple-correlation analyses within conditions: in VF-process prior knowledge correlated with the conceptual post-test at r = 0.53, p < 0.001 (a large printed effect size), whereas in PF the correlation was r = 0.13, p = 0.345 and not significant.
+Follow-up simple-correlation analyses within conditions: in VF-process prior knowledge correlated with the conceptual post-test at r = 0.53, p < 0.001 (a large printed effect size), whereas in PF the correlation was r = 0.13, p = 0.345 and not significant. The authors word this as prior knowledge not affecting PF post-test performance; a non-significant correlation shows only that no association was detected, not that there was none.
 
 > "While prior knowledge did not affect the post-test performance in the PF condition, r(55) = 0.13, p = 0.345, students in the VF-process condition gained more from observing the process when they had higher prior knowledge, r(56) = 0.53, p < 0.001"
 

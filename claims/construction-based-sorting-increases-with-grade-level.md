@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-11-06
 recheck_by: 2025
 sources:
   - id: kim-2020
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i3` large
-> **Currency** · newest study 2020 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
+> **Currency** · newest study 2020 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The proportion of entirely construction-based sorting rose steadily across grade levels, from 0% in G1 to 81% in G5, while entirely verb-based sorting fell from 54% to 0%. [→ Kim 2020](#kim-2020)
@@ -57,7 +58,7 @@ Kim, Hyunwoo, Rah, Yangon, & Hwang, Haerim. (2020). Testing usage-based approach
 
 `q2 · i3` · `associational · r2`
 
-One-way ANOVA on deviation scores from verb-based (Vdev) and construction-based (Cdev) sorting across the five groups, yielding effect sizes of ŋ2 = 0.30 and ŋ2 = 0.37, with Tukey HSD post-hoc comparisons showing significant differences between most pairs of adjacent groups.
+One-way ANOVA on deviation scores from verb-based (Vdev) and construction-based (Cdev) sorting across the five groups, yielding effect sizes of ŋ2 = 0.30 and ŋ2 = 0.37, with Tukey HSD post-hoc comparisons showing significant differences between most pairs of groups but not between adjacent ones: no adjacent pair differed in Vdev (G1–G2, G2–G3, G3–G4, G4–G5), and G2–G3 and G3–G4 did not differ in Cdev.
 
 > "One-way ANOVA revealed significant group differences both for Vdev (F(4, 165) = 17.597, p < .001, ŋ2 = 0.30) and Cdev scores (F(4, 165) = 17.730, p < .001, ŋ2 = 0.37)."
 
@@ -68,7 +69,7 @@ One-way ANOVA on deviation scores from verb-based (Vdev) and construction-based 
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Kim 2020](https://doi.org/10.15858/engtea.75.s1.202006.55) | q2 · associational · r2 | i?; i3 | this claim; [Learners’ proficiency correlates with constructional sorting and translation performance, ](proficiency-correlates-with-sorting-and-translation.md) (supports); [Light verbs drive construction-based sorting in intermediate-level but not beginner or adv](light-verbs-modulate-intermediate-sorting.md) (qualifies); [The transitive construction is acquired earliest while the resultative construction poses ](transitive-earliest-resultative-hardest.md) (qualifies); [Translation accuracy rises with proficiency but varies substantially across individual con](translation-accuracy-varies-by-construction.md) (qualifies) |
+| [Kim 2020](https://doi.org/10.15858/engtea.75.s1.202006.55) | q2 · associational · r2 | i?; i3 | this claim; [Learners’ proficiency correlates with constructional sorting and translation performance, ](proficiency-correlates-with-sorting-and-translation.md) (supports); [Intermediate-level EFL learners, but not beginner or advanced ones, sorted sentences by co](light-verbs-modulate-intermediate-sorting.md) (qualifies); [The transitive construction is acquired earliest while the resultative construction poses ](transitive-earliest-resultative-hardest.md) (qualifies); [Translation accuracy rises with proficiency but varies substantially across individual con](translation-accuracy-varies-by-construction.md) (qualifies) |
 | [Nick C. Ellis 2002](https://doi.org/10.1017/s0272263102002024) | q2 · review · r? | i? | [Constructions typically emerge developmentally from formula, through low-scope pattern, to](emergence-route-formula-low-scope-pattern-construction.md) (supports); [Language processing is intimately tuned to input frequency across phonology, phonotactics,](frequency-tuning-across-language-processing-domains.md) (supports) |
 <!-- synthesis:end -->
 
@@ -79,7 +80,7 @@ One-way ANOVA on deviation scores from verb-based (Vdev) and construction-based 
 - [Syntax](../learner-variables/syntax.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Light verbs drive construction-based sorting in intermediate-level but not beginner or advanced EFL learners](light-verbs-modulate-intermediate-sorting.md) — related
+- [Intermediate-level EFL learners, but not beginner or advanced ones, sorted sentences by construction mainly when they contained light verbs](light-verbs-modulate-intermediate-sorting.md) — related
 - [Translation accuracy rises with proficiency but varies substantially across individual constructions](translation-accuracy-varies-by-construction.md) — related
 - [The transitive construction is acquired earliest while the resultative construction poses difficulty even for advanced learners](transitive-earliest-resultative-hardest.md) — related
 - [Learners’ proficiency correlates with constructional sorting and translation performance, countering a purely age-based explanation](proficiency-correlates-with-sorting-and-translation.md) — related

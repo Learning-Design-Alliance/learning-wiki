@@ -50,7 +50,7 @@ Reflective editorial section reporting the authors' collective structured writin
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
-- [Financial and economic constraints shape first-generation chemists' career decisions, sometimes deterring advanced training altogether](financial-constraints-shape-first-generation-career-decisions.md) — related
+- [In the reflections of 13 first-generation chemists, financial constraints can shape career decisions and can deter advanced training](financial-constraints-shape-first-generation-career-decisions.md) — related
 - [Psychological barriers, including imposter syndrome and feelings of not belonging, hinder first-generation chemists' visibility and opportunity-seeking](psychological-belonging-barrier-first-generation-chemists.md) — related
 - [The editorial's insights derive from reflections of 13 first-generation chemists and cannot represent all first-generation scientists](thirteen-first-generation-chemists-scope-limit.md) — related
 - [Lack of diversity in computing stems from social and structural barriers, not ability or interest](structural-barriers-not-ability-limit-computing-diversity.md) — related

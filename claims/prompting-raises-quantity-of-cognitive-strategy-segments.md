@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Short-term prompting increases the quantity of cognitive strategy use in open-ended learning journals, but not the quantity of metacognitive strategy use
-description: Short-term prompting increases the quantity of cognitive strategy use in open-ended learning journals, but not the quantity of metacognitive strategy use
+title: From an unprompted baseline journal through three journals in which all students were prompted, the quantity of cognitive strategy use in open-ended learning journals rose, but the quantity of metacognitive strategy use did not
+description: From an unprompted baseline journal through three journals in which all students were prompted, the quantity of cognitive strategy use in open-ended learning journals rose, but the quantity of metacognitive strategy use did not
 id: prompting-raises-quantity-of-cognitive-strategy-segments
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-06
 sources:
   - id: nadja-m-gentner-2024
     resource: "https://doi.org/10.1007/s11251-024-09671-x"
@@ -28,14 +29,14 @@ sources:
     rigour: 2
 ---
 
-# Short-term prompting increases the quantity of cognitive strategy use in open-ended learning journals, but not the quantity of metacognitive strategy use
+# From an unprompted baseline journal through three journals in which all students were prompted, the quantity of cognitive strategy use in open-ended learning journals rose, but the quantity of metacognitive strategy use did not
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1`–`i3`
-> **Currency** · newest study 2024 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
-`q3 i3` The number of segments coded as cognitive strategy use significantly increased over the prompted unit, F(2.35,133.97)=14.78, p<.001, ηp²=0.21. [→ Nadja M. Gentner 2024](#nadja-m-gentner-2024)
+`q3 i3` The number of segments coded as cognitive strategy use significantly increased over the prompted unit, F(2.35,133.97)=14.78, p<.001, ηp²=0.21; the analysis runs from an unprompted baseline journal (t1) to three journals in which every student was prompted (t2–t4), with no unprompted comparison group, so the change is not isolated from time, course content or practice. [→ Nadja M. Gentner 2024](#nadja-m-gentner-2024)
 `q3 i1` The quantity of metacognitive strategy use did not change over time, F(3,171)=0.75, p=.52, ηp²=0.01. [→ Nadja M. Gentner 2024 (2)](#nadja-m-gentner-2024-2)
 
 ## Evidence
@@ -56,7 +57,7 @@ Nadja M. Gentner, Lisa Respondek, Tina Seufert. (2024). Effects of short- and lo
 
 `q3 · i1` · `causal · r2`
 
-Same qualitative trace-data analysis for metacognitive segments in the open-ended journals during unit 1. "The results suggest that the quantity of metacognitive strategy use did not change over time", ηp² = 0.01.
+Same qualitative trace-data analysis for metacognitive segments in the open-ended journals during unit 1 (t1, an unprompted baseline, to t4; all students received prompts at t2–t4); the analysis is a repeated-measures change over time with no unprompted comparison group, so neither this null nor the cognitive increase isolates an effect of prompting. "The results suggest that the quantity of metacognitive strategy use did not change over time", ηp² = 0.01.
 
 > "The analysis indicated no main effect of time, F(3,171) = 0.75, p = .52, ηp² = 0.01. The results suggest that the quantity of metacognitive strategy use did not change over time"
 

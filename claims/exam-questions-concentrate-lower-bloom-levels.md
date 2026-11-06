@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "University examination questions concentrate at the lower cognitive levels of Bloom's Taxonomy, dominated by comprehension and knowledge"
-description: "University examination questions concentrate at the lower cognitive levels of Bloom's Taxonomy, dominated by comprehension and knowledge"
+title: "Examination questions at one Pakistani agricultural university concentrated at the lower cognitive levels of Bloom's Taxonomy, dominated by comprehension and knowledge"
+description: "Examination questions at one Pakistani agricultural university concentrated at the lower cognitive levels of Bloom's Taxonomy, dominated by comprehension and knowledge"
 id: exam-questions-concentrate-lower-bloom-levels
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-09-26
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-06
 recheck_by: 2022
 sources:
   - id: anees-2017
@@ -21,14 +22,14 @@ sources:
     rigour: 1
 ---
 
-# University examination questions concentrate at the lower cognitive levels of Bloom's Taxonomy, dominated by comprehension and knowledge
+# Examination questions at one Pakistani agricultural university concentrated at the lower cognitive levels of Bloom's Taxonomy, dominated by comprehension and knowledge
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
+> **Currency** · newest study 2017 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2022**: baselines and conditions change
 
 ## Subclaims
-`q2 i?` In an analysis of 357 examination questions, comprehension-level questions were most frequent (40.9%) followed by knowledge-level questions (33.1%), indicating assessment focused on lower levels of learning. [→ Anees 2017](#anees-2017)
+`q2 i?` In an analysis of 357 examination questions from 115 papers at the University of Agriculture Faisalabad, comprehension-level questions were most frequent (40.9%) followed by knowledge-level questions (33.1%), indicating assessment focused on lower levels of learning. [→ Anees 2017](#anees-2017)
 
 ## Evidence
 

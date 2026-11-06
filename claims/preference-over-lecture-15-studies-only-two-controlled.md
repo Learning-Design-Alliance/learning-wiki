@@ -47,7 +47,7 @@ Review synthesis of preference data across the 22 included studies; the preferen
 ## Related Claims
 - [Of 22 included studies on active learning in public health education, 11 used PBL only, 6 used TBL, 3 integrated PBL and CBL, and 2 used CBL only](22-studies-pbl-11-tbl-6-cbl-2-both-3.md) — related
 - [Student satisfaction with CBL, PBL and TBL in public health education was high, reported in 21 of 22 studies (95.4%)](high-satisfaction-21-of-22-public-health-active-learning.md) — related
-- [In a randomised trial of 80 first-year postgraduate oncology trainees, CBL produced significantly higher examination scores and satisfaction than traditional lecture-based learning, though confidence intervals crossed the null for examination results](bi-rct-cbl-higher-posttest-scores-satisfaction.md) — related
+- [In a randomised trial of 80 first-year postgraduate oncology trainees, a CBL group that also had PowerPoint teaching reported significantly higher examination scores and satisfaction than lecture-based teaching, though confidence intervals crossed the null for examination results](bi-rct-cbl-higher-posttest-scores-satisfaction.md) — related
 - [Findings from other postgraduate specialties suggest PBL and CBL improve performance, knowledge and confidence, but overall RCT quality in this field is deemed unsatisfactory](other-postgraduate-specialty-reviews-pbl-cbl-quality-unsatisfactory.md) — related
 - [Two controlled studies found significantly higher examination scores and satisfaction in TBL groups compared with traditional lecture-based instruction](tbl-exam-scores-higher-than-lecture-two-studies.md) — related
 - [Systematic review finds positive student satisfaction with PBL in OB/GYN education](pbl-positive-student-satisfaction-obgyn.md) — related

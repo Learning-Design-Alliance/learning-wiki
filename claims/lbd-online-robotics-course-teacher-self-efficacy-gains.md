@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "An LBD-grounded online robotics course increased inservice teachers' self-efficacy in robotics, use of problem-solving and collaboration strategies, and confidence in robotics knowledge and teaching"
-description: "An LBD-grounded online robotics course increased inservice teachers' self-efficacy in robotics, use of problem-solving and collaboration strategies, and confidence in robotics knowledge and teaching"
+title: "After an LBD-grounded online robotics course, inservice teachers reported higher self-efficacy in robotics, problem-solving strategy use, and confidence in robotics knowledge and teaching; their reported collaboration gain was not significant"
+description: "In a single-group retrospective pre-post survey of 14 inservice teachers after an LBD-grounded online robotics course, self-reported self-efficacy, problem-solving strategy use and confidence in robotics knowledge and teaching rose significantly (Hedges' g 0.69-1.80); collaborative working did not (p = .085, g = 0.48)"
 id: lbd-online-robotics-course-teacher-self-efficacy-gains
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 2
 ---
 
-# An LBD-grounded online robotics course increased inservice teachers' self-efficacy in robotics, use of problem-solving and collaboration strategies, and confidence in robotics knowledge and teaching
+# After an LBD-grounded online robotics course, inservice teachers reported higher self-efficacy in robotics, problem-solving strategy use, and confidence in robotics knowledge and teaching; their reported collaboration gain was not significant
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Participating inservice teachers increased their self-efficacy in robotics, use of problem-solving and collaboration strategies, and confidence in robotics knowledge and teaching after the LBD-grounded online course. [→ An 2022](#an-2022)
+`q2 i?` On a retrospective pre-post survey, participating inservice teachers reported significantly higher self-efficacy in robotics (g = 0.69), problem-solving strategy use (g = 0.77), and confidence in robotics knowledge (g = 1.80) and teaching (g = 1.64) after the LBD-grounded online course; the rise in collaborative working was not significant (p = .085, g = 0.48). [→ An 2022](#an-2022)
 
 ## Evidence
 
@@ -37,7 +37,7 @@ An, H., Sung, W. & Yoon, S.Y. (2022). Implementation of learning by design in a 
 
 `q2 · i?` · `design · r2`
 
-Action research employing mixed methods examined the online course; an online survey measured change. The article reports that "the participating teachers increased their self-efficacy in robotics, use of problem-solving and collaboration strategies, and confidence in robotics knowledge and teaching." No effect sizes are printed.
+Action research employing mixed methods examined the online course with 14 inservice teachers; an end-of-course online survey asked about perceptions before the course (retrospectively) and at its end, and the pre-post differences were tested with Wilcoxon signed-ranks tests. Table 4 prints Hedges' g for each outcome: self-efficacy in robotics 3.62 to 4.19 (p = .014, g = 0.69), problem-solving strategies 4.21 to 4.46 (p = .014, g = 0.77), confidence in knowledge of robotics 2.10 to 4.21 (p = .001, g = 1.80), confidence in teaching robotics 3.17 to 7.67 (p = .001, g = 1.64), and collaborative working 4.09 to 4.27, which was not significant (Z = −1.72, p = .085, g = 0.48). The abstract's statement that teachers increased their use of collaboration strategies is therefore not supported by the paper's own Table 4. These are self-reports from one group with no comparison condition. Impact is coded `i?` because the claim combines several outcomes with different printed effect sizes.
 
 > "An online survey indicated that the participating teachers increased their self-efficacy in robotics, use of problem-solving and collaboration strategies, and confidence in robotics knowledge and teaching."
 

@@ -14,6 +14,7 @@ sources:
     author: Alty, J. L.
     q: 3
     i: "?"
+    n: 37 postgraduate students analysed (59 initially; those who did not complete all sessions were excluded)
     kind: causal
     rigour: "?"
 id: intuitive-learners-outperform-sensing-learners
@@ -22,7 +23,7 @@ id: intuitive-learners-outperform-sensing-learners
 # In one author's classroom media experiments, intuitive learners tended to score above sensing learners, though not in every format comparison
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r?` · `q3`
+> **Evidence** · 1 study · causal `r?` · `q3` · n=37 postgraduate students analysed (59 initially; those who did not complete all sessions were excluded)
 > **Currency** · newest study 2002 · not yet checked against its sources · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
@@ -44,9 +45,9 @@ Primary evidence link: https://files.eric.ed.gov/fulltext/ED476964.pdf
 
 Alty, J. L. (2002). Dual Coding Theory and Computer Education: Some Media Experiments To Examine the Effects of Different Media on Learning. *ED-MEDIA 2002 World Conference on Educational Multimedia, Hypermedia & Telecommunications* (14th, Denver, CO). [https://files.eric.ed.gov/fulltext/ED476964.pdf](https://files.eric.ed.gov/fulltext/ED476964.pdf)
 
-`q3 · peer-reviewed conference experiment, not pre-registered` · `i? · no source text available to check; the entry prints no effect size` · `n not reported in stub` · `causal · r?`
+`q3 · peer-reviewed conference experiment, not pre-registered` · `i? · no effect size printed for the learner-style comparison` · `n=37 postgraduate students analysed (59 initially; those who did not complete all sessions were excluded)` · `causal · r?`
 
-In an extended student-class experiment comparing text-only, voice, diagram, and combined media presentations grounded in [dual coding theory](../theories/dual-coding-theory.md), the author reports: "Intuitive Learners tended to out-perform Sensing Learners in all presentations, although in certain experiments, Sensing Learners using Voice/Diagrams outperformed Intuitive Learners using Text-only." The exception indicates that a well-matched multimedia format can compensate for — and reverse — the learner-preference disadvantage, consistent with the general finding that presentation quality matters more than preference matching.
+In an extended experiment with a postgraduate Multimedia Interface Design class, comparing three presentation formats (text only, text plus diagrams, and voice-over plus diagrams) grounded in [dual coding theory](../theories/dual-coding-theory.md), the author reports: "Intuitive Learners tended to out-perform Sensing Learners in all presentations, although in certain experiments, Sensing Learners using Voice/Diagrams outperformed Intuitive Learners using Text-only." The study reports only these tendencies; it does not test whether a format compensates for a learner-preference disadvantage or whether presentation quality matters more than preference matching.
 
 ## Discussion
 

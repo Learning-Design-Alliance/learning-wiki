@@ -38,7 +38,7 @@ This strategy pairs assessment of individual cognitive profiles (e.g., OSIVQ cla
 
 ## Claims
 
-- [Spatial visualizers (SPAT) outperformed object visualizers and verbalizers across all laparoscopic training modalities and performance domains](../claims/spatial-learners-outperform-other-cognitive-styles.md) [+W]
+- [Spatial visualizers (SPAT) outperformed object visualizers and verbalizers across all performance domains on a laparoscopic clip-applying task, pooled across training modalities](../claims/spatial-learners-outperform-other-cognitive-styles.md) [+W]
 - [Verbal learners improved significantly only in the VR training group, suggesting VR's structured feedback benefits learners with non-spatial cognitive profiles](../claims/verbal-learners-improve-only-in-vr-group.md) [+W]
 - [VR simulator training produced the largest gains on the VR-simulator post-test, outperforming box trainer, serious game, and control groups on the complex Clip Applying task](../claims/vr-training-largest-gains-complex-laparoscopic-tasks.md) [+W]
 - [Serious game training improved basic laparoscopic skills but showed limited transfer to complex tasks, failing to reach significance on Clip Applying overall performance](../claims/serious-game-limited-transfer-complex-tasks.md) [+W]

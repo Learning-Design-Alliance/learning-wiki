@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Spatial visualizers (SPAT) outperformed object visualizers and verbalizers across all laparoscopic training modalities and performance domains
-description: Spatial visualizers (SPAT) outperformed object visualizers and verbalizers across all laparoscopic training modalities and performance domains
+title: Spatial visualizers (SPAT) outperformed object visualizers and verbalizers across all performance domains on a laparoscopic clip-applying task, pooled across training modalities
+description: Spatial visualizers (SPAT) outperformed object visualizers and verbalizers across all performance domains on a laparoscopic clip-applying task, pooled across training modalities
 id: spatial-learners-outperform-other-cognitive-styles
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: vradelis-l-2026
     resource: "https://doi.org/10.1007/s00464-025-12511-9"
@@ -20,11 +21,11 @@ sources:
     rigour: 2
 ---
 
-# Spatial visualizers (SPAT) outperformed object visualizers and verbalizers across all laparoscopic training modalities and performance domains
+# Spatial visualizers (SPAT) outperformed object visualizers and verbalizers across all performance domains on a laparoscopic clip-applying task, pooled across training modalities
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the OSIVQ-classified subgroup analysis, SPAT participants showed the highest performance gains across all domains on the Clip Applying task, exceeding VISU and VERB participants. [→ Vradelis L. 2026](#vradelis-l-2026)
@@ -37,7 +38,7 @@ Vradelis L., Müller N., Huettl F., Hanke L. I., Nedwed A., Lang H., Boedecker C
 
 `q3 · i?` · `causal · r2`
 
-Subgroup analysis by thinking style (OSIVQ; n=73 analyzed for Clip Applying) in the randomized study. The Table 7 note reports "The SPAT group outperformed the VISU and VERB groups across all performance domains"; the text adds SPAT participants showed the highest performance gains and VERB participants' error-score improvements did not reach significance (p = 0.055).
+Subgroup analysis by thinking style (OSIVQ; n=73 analyzed for Clip Applying) in the randomized study. The Table 7 note reports "The SPAT group outperformed the VISU and VERB groups across all performance domains"; the text adds SPAT participants showed the highest performance gains and VERB participants' error-score improvements did not reach significance (p = 0.055). Table 7 pools the three training groups (VR, box trainer, serious game); it does not compare cognitive styles within each modality or test a modality × cognitive-style interaction.
 
 > "The SPAT group outperformed the VISU and VERB groups across all performance domains"
 

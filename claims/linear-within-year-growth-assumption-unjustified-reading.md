@@ -19,9 +19,9 @@ sources:
     i: "?"
     kind: associational
     rigour: "?"
-  - id: megan-kuhfeld-2020
+  - id: megan-kuhfeld-2021-2
     resource: "https://www.tandfonline.com/doi/full/10.1080/19345747.2020.1839990"
-    title: "Megan Kuhfeld, James Soland. (2020). The learning curve: Revisiting the assumption of linear growth across the school year. NWEA Research working paper. https://www.tandfonline.com/doi/full/10.1080/19345747.2020.1839990"
+    title: "Megan Kuhfeld, James Soland. (2021). The Learning Curve: Revisiting the Assumption of Linear Growth during the School Year. Journal of Research on Educational Effectiveness, 14(1). https://www.tandfonline.com/doi/full/10.1080/19345747.2020.1839990"
     author: Megan Kuhfeld, James Soland
     q: 3
     i: "?"
@@ -33,13 +33,13 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q2`–`q3`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 
 ## Subclaims
 
 `q2 i?` Within-year growth in achievement is frequently non-linear, and this is particularly the case in reading. [→ Megan Kuhfeld 2021](#megan-kuhfeld-2021)
 
-`q3 i?` Assuming linear within-year growth in achievement is often not justified, with the problem particularly pronounced in reading. [→ Megan Kuhfeld 2020](#megan-kuhfeld-2020)
+`q3 i?` Assuming linear within-year growth in achievement is often not justified, with the problem particularly pronounced in reading. [→ Megan Kuhfeld 2021 (2)](#megan-kuhfeld-2021-2)
 
 ## Evidence
 
@@ -53,13 +53,13 @@ The study's analysis of seasonal math and reading test scores reports that the l
 
 > "Our results indicate that assuming linear within-year growth is often not justified, particularly in reading."
 
-### Megan Kuhfeld 2020
+### Megan Kuhfeld 2021 (2)
 
-Megan Kuhfeld, James Soland. (2020). The learning curve: Revisiting the assumption of linear growth across the school year. NWEA Research working paper. https://www.tandfonline.com/doi/full/10.1080/19345747.2020.1839990
+Megan Kuhfeld, James Soland. (2021). The Learning Curve: Revisiting the Assumption of Linear Growth during the School Year. Journal of Research on Educational Effectiveness, 14(1). https://www.tandfonline.com/doi/full/10.1080/19345747.2020.1839990
 
 `q3 · i?` · `associational · r2`
 
-Large-scale analysis of math and reading test scores for over seven million K-8 students tested in fall, winter, and spring of the 2016-17 school year. The authors report that "assuming linear within-year growth is often not justified, particularly in reading." No effect size is printed in the available text.
+Large-scale analysis of math and reading test scores for over seven million K-8 students tested in fall, winter, and spring of the 2017–18 school year. The authors report that "assuming linear within-year growth is often not justified, particularly in reading." No effect size is printed in the available text.
 
 > "Our results indicate that assuming linear within-year growth is often not justified, particularly in reading."
 

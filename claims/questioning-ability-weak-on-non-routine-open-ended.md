@@ -48,4 +48,4 @@ Descriptive achievement percentages by KAM level and class in Table 4 of the sam
 ## Related Claims
 - [Junior high mathematics teachers taught with metaphorical thinking learning show better mathematical questioning ability than teachers taught conventionally](metaphorical-thinking-improves-teacher-questioning-ability.md) — related
 - [Teachers face stated constraints in arranging non-routine questions and expecting open-ended answers, including classroom culture and monotonous methods](constraints-posing-non-routine-open-questions.md) — related
-- [Multiple-choice single-select items are less difficult than open-ended response questions, and delayed perceived task difficulty ratings relate more strongly to relative item difficulty for open-ended items](answer-format-availability-affects-difficulty-and-ratings.md) — related
+- [In one German secondary-school chemistry test, multiple-choice single-select items were less difficult than open-ended items, and delayed perceived task difficulty ratings related more strongly to relative item difficulty for open-ended items](answer-format-availability-affects-difficulty-and-ratings.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Students' self-directed learning and creative thinking skills increased significantly after QIMS inquiry-based lessons"
-description: "Students' self-directed learning and creative thinking skills increased significantly after QIMS inquiry-based lessons"
+title: "On a post-intervention self-report survey, students in QIMS inquiry-based classes rated their self-directed learning and creative thinking higher than students in a non-QIMS class"
+description: "On a post-intervention self-report survey, students in QIMS inquiry-based classes rated their self-directed learning and creative thinking higher than students in a non-QIMS class"
 id: qims-lessons-increase-self-directed-learning-creative-thinking
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-06
 sources:
   - id: wen-2023
     resource: "https://doi.org/10.1007/s11423-023-10235-y"
@@ -20,14 +21,14 @@ sources:
     rigour: "?"
 ---
 
-# Students' self-directed learning and creative thinking skills increased significantly after QIMS inquiry-based lessons
+# On a post-intervention self-report survey, students in QIMS inquiry-based classes rated their self-directed learning and creative thinking higher than students in a non-QIMS class
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Students' self-directed learning and creative thinking skills increased significantly after partaking in the QIMS inquiry-based lessons. [→ Wen 2023](#wen-2023)
+`q3 i?` On a survey given only after the intervention, both QIMS classes (with and without AR) rated their self-directed learning and creative thinking significantly higher than the non-QIMS control class, and did not differ from each other; no pre-intervention measure of these skills was taken. [→ Wen 2023](#wen-2023)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Wen, Y., Wu, L., He, S., Ng, N. H.-E., Teo, B. C., Looi, C. K., & Cai, Y. (2023)
 
 `q3 · i?` · `causal · r?`
 
-Quantitative results from the quasi-experiment with 117 primary 5 students comparing AR+QIMS, QIMS-only, and non-AR/non-QIMS conditions. The article reports the skills "increased significantly after partaking in the QIMS inquiry-based lessons"; no effect size is printed.
+Quantitative results from the quasi-experiment with 117 primary 5 students comparing AR+QIMS, QIMS-only, and non-AR/non-QIMS conditions. The article's abstract says the skills "increased significantly after partaking in the QIMS inquiry-based lessons", but the skills were measured only once, by a post-intervention self-report survey (adapted from Chai et al., 2015), so no change over time was measured. Separate one-way ANOVAs found class differences in self-directed learning (means 4.03 AR+QIMS, 4.00 QIMS without AR, 3.60 control; F = 4.04, p = .020) and creative thinking (4.09, 3.77, 3.60; F = 4.08, p = .020). LSD post-hoc tests: each QIMS class differed from the control on both scales (AR+QIMS p = .012 and .007; QIMS without AR p = .021 and .048), and the two QIMS classes did not differ. The measure is self-perception, not tested skill. No effect size is printed.
 
 > "students’ self-directed learning and creative thinking skills increased significantly after partaking in the QIMS inquiry-based lessons"
 

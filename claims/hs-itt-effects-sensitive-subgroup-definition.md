@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Estimated intent-to-treat effects of Head Start on cognitive and socioemotional outcomes for children with special needs are sensitive to how the subgroup is defined, with consistently larger effects under the IEP definition
-description: Estimated intent-to-treat effects of Head Start on cognitive and socioemotional outcomes for children with special needs are sensitive to how the subgroup is defined, with consistently larger effects under the IEP def...
+title: Estimated intent-to-treat effects of Head Start for children with special needs are sensitive to how the subgroup is defined, with consistently larger cognitive effects under the IEP definition
+description: Estimated intent-to-treat effects of Head Start for children with special needs are sensitive to how the subgroup is defined; the IEP definition gives consistently larger cognitive effects, while its externalizing-behavior effects diminish and turn negative by third grade
 id: hs-itt-effects-sensitive-subgroup-definition
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 2
 ---
 
-# Estimated intent-to-treat effects of Head Start on cognitive and socioemotional outcomes for children with special needs are sensitive to how the subgroup is defined, with consistently larger effects under the IEP definition
+# Estimated intent-to-treat effects of Head Start for children with special needs are sensitive to how the subgroup is defined, with consistently larger cognitive effects under the IEP definition
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
@@ -37,7 +37,7 @@ Anna Shapiro and Christina Weiland. (2019). What Is in a Definition? The How and
 
 `q3 · i?` · `causal · r2`
 
-ITT regression analysis of Head Start assignment on PPVT, Woodcock–Johnson III letter–word and applied problems, and externalizing behavior at three time points, for three special education subgroups. The article prints ITT effect sizes (in control-group SD units) for each subgroup, outcome and time point, and only a few are statistically significant, e.g. end-of-Head-Start-year language effects of SD = 0.33 (p < .01, doctor report) and SD = 0.28 (p < .01, all of the above), and first-grade numeracy of SD = 0.92 (p < .05, IEP). The finding here is the pattern across definitions, which has no single magnitude, so impact is coded `i?` (no single printed effect size for the pattern, not a null effect). The authors note that the IEP estimates are the least precisely estimated and, in most cases, are not statistically significantly different from the estimates under the other two definitions.
+ITT regression analysis of Head Start assignment on PPVT, Woodcock–Johnson III letter–word and applied problems, and externalizing behavior at three time points, for three special education subgroups. The article prints ITT effect sizes (in control-group SD units) for each subgroup, outcome and time point, and only a few are statistically significant, e.g. end-of-Head-Start-year language effects of SD = 0.33 (p < .01, doctor report) and SD = 0.28 (p < .01, all of the above), and first-grade numeracy of SD = 0.92 (p < .05, IEP). The finding here is the pattern across definitions, which has no single magnitude, so impact is coded `i?` (no single printed effect size for the pattern, not a null effect). The authors note that the IEP estimates are the least precisely estimated and, in most cases, are not statistically significantly different from the estimates under the other two definitions. The pattern differs for the socioemotional outcome: under the IEP definition effects on externalizing behaviors diminish and "become negative by third grade", whereas the doctor report and all-of-the-above definitions give "smaller but consistently positive effects on externalizing behaviors (SD = −0.25 to −0.04) that diminish in magnitude over time."
 
 > "there are consistently larger and positive (SD = 0.31–0.92) ITT effects for the IEP definition across the cognitive outcomes with the exception of third-grade receptive vocabulary (SD = −0.09)"
 

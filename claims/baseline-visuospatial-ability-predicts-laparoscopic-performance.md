@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: lepka-piotr-2026
     resource: "https://doi.org/10.1007/s00464-026-12992-2"
@@ -32,10 +33,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i3` large
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Baseline 3D spatial test scores were an independent predictor of final performance in camera navigation (p = 0.003) and hand–eye coordination (p = 0.009). [→ Lepka Piotr 2026](#lepka-piotr-2026)
+`q3 i?` Baseline 3D spatial test scores were an independent predictor of final performance in camera navigation (b = 1.35, p = 0.003) and hand–eye coordination (b = 1.23, p = 0.009). [→ Lepka Piotr 2026](#lepka-piotr-2026)
 `q3 i3` Baseline 3D scores correlated positively with CN (r = 0.397) and HE (r = 0.390). [→ Lepka Piotr 2026 (2)](#lepka-piotr-2026-2)
 
 ## Evidence
@@ -46,7 +47,7 @@ Lepka Piotr, Szcześniak Dorota, Sikora Zofia, Matkowski Rafał. (2026). Effect 
 
 `q3 · i?` · `causal · r2`
 
-Linear-model analysis in the randomized trial found the Vienna Test System 3D spatial test independently predicted day-7 CN and HE T-scores; the article prints p-values but no effect size for these predictors.
+Linear-model analysis in the randomized trial found the Vienna Test System 3D spatial test independently predicted day-7 CN and HE T-scores. Table 4 prints unstandardized regression coefficients for the 3D score (CN b = 1.35, p = 0.003; HE b = 1.23, p = 0.009; Bi b = 0.31, p = 0.599) but no standardized effect size for these predictors. Table 4 is headed "Univariable predictors of final performance", although the text calls the 3D score an independent predictor.
 
 > "Visual–spatial ability measured by the 3D test at baseline was an independent predictor of final performance in both CN and HE (CN T4: p = 0.003; HE T4: p = 0.009) (Table 4)."
 
@@ -75,4 +76,4 @@ Pearson correlations at baseline (T1) between the 3D visuospatial T-score and la
 - [tDCS showed no independent effect on camera navigation or hand–eye coordination outcomes in laparoscopic training](tdcs-no-effect-camera-navigation-hand-eye.md) — related
 - [Male participants performed significantly better than females in final camera navigation and bimanual coordination, but not hand–eye coordination](sex-difference-laparoscopic-final-performance.md) — related
 - [No significant associations between baseline anatomical knowledge or visuospatial ability and ultrasound performance](no-baseline-predictors-ultrasound-performance.md) — reports the opposite
-- [Spatial visualizers (SPAT) outperformed object visualizers and verbalizers across all laparoscopic training modalities and performance domains](spatial-learners-outperform-other-cognitive-styles.md) — related
+- [Spatial visualizers (SPAT) outperformed object visualizers and verbalizers across all performance domains on a laparoscopic clip-applying task, pooled across training modalities](spatial-learners-outperform-other-cognitive-styles.md) — related

@@ -44,7 +44,7 @@ Post-session survey in the Wide-Exposure Layer, administered in 7 of 18 courses 
 
 ## Related Claims
 - [Students' GenAI use is ethically negotiated, with decisions emerging from intersecting personal integrity, institutional rules, fear of punishment and practical constraints](genai-use-ethically-negotiated-entangled.md) — related
-- [Faculty concerns centered on academic integrity (80%) and student over-reliance on AI (70%), and their most requested development topic was AI ethics and academic integrity (70%)](faculty-ai-concerns-integrity-ethics-training-demand.md) — related
+- [Faculty concerns centered on academic integrity (80%) and over-reliance on AI by students or faculty (70%), and their most requested development topic was AI ethics and academic integrity (70%)](faculty-ai-concerns-integrity-ethics-training-demand.md) — related
 - Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs — related
 - [The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism](ethical-issues-most-reported-ai-risk.md) — related
 - [Over two semesters the LearnAI deployment reached 18 courses (293 enrolled students) and 35 co-creation clients who produced 36 portfolio websites and over 20 deployed applications](learnai-reach-artifacts-two-semesters.md) — related

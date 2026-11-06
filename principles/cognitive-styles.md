@@ -141,7 +141,7 @@ Matching, building an approach, compensating with a job aid, and a change in the
 
 ## Claims
 
-- [Interactions between learner characteristics and dialogue format for learning outcomes showed only trends toward significance, not significant effects](../claims/learning-outcome-interactions-trend-only.md) [~W]
+- [No interaction between learner characteristics and dialogue format was significant for self-reported learning outcomes after correction for multiple tests](../claims/learning-outcome-interactions-trend-only.md) [~W]
 - [Study preferences exist and show some stability, but this alone does not justify learning-styles assessment in education](../claims/study-preferences-exist-but-insufficient.md) [~W]
 - [Students' cognitive style (adaptive vs. innovative) did not significantly affect content knowledge scores](../claims/cognitive-style-no-effect-content-knowledge.md) [+W]
 

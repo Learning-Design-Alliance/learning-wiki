@@ -67,7 +67,7 @@ Participant quotation (FG 10, P 4) illustrating the emotional risk common to bot
 - [Safety](../learner-variables/safety.md) — outcome: instruction changes it
 
 ## Related Claims
-- [All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback whose credibility was not restricted by facilitator hierarchy](facilitators-prefer-vad-objective-feedback.md) — related
+- [All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback that they felt participants accepted more readily across differences in hierarchy](facilitators-prefer-vad-objective-feedback.md) — related
 - [Most simulation participants preferred high-tech video-assisted debriefing over lower-tech VAD and verbal debriefing, mainly for its better audio/video quality and focused review](participants-prefer-high-tech-vad-debriefing.md) — related
 - [Implementing VAD raised facilitator cognitive demand, debriefing time, and attention competition with the video, with segment-search time greater in lower-tech VAD](vad-implementation-costs-facilitator-cognitive-load.md) — related
 - [The outside perspective of video-assisted debriefing helped participants observe teammates and see how individual actions related to team performance, though most participants focused mainly on themselves](vad-outside-view-observational-learning.md) — related

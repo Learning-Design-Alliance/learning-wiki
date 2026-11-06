@@ -49,7 +49,7 @@ An experimental t-test comparison of post-test achievement in creativity in prob
 - [Problem Solving](../learner-variables/problem-solving.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Facebook-based learning significantly enhances creativity in producing missionary motto among Islamic Studies students compared to control group](facebook-based-learning-enhances-creativity-missionary-motto-islamic-studies.md) — related
+- [Islamic Studies students taught through Facebook-based learning scored significantly higher than a non-randomised control class on creativity in producing a missionary motto](facebook-based-learning-enhances-creativity-missionary-motto-islamic-studies.md) — related
 - [Facebook-based learning significantly enhances creativity in writing among Islamic Studies students compared to control group](facebook-based-learning-enhances-creativity-writing-islamic-studies.md) — related
 - [Significant differences exist in student achievement based on creativity indicators within the Facebook-based learning treatment group](significant-differences-student-achievement-creativity-indicators-facebook-treatment.md) — related
 - [Uploading design sketches to Facebook for broad feedback was associated with higher exam scores than no social media use](facebook-sketch-feedback-higher-exam-scores.md) — related

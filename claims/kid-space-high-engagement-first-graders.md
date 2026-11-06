@@ -46,4 +46,4 @@ Exploratory case study using formative research method with eight first-grade st
 
 ## Related Claims
 - [First-graders using Kid Space showed physical activity during play-based learning, in an exploratory case study without a comparison](kid-space-more-physical-activity.md) — related
-- [Kid Space use shifted children's attention away from the screen toward the physical environment](kid-space-less-screen-attention.md) — related
+- [During Kid Space sessions, on-task children looked at the projected screen about three-quarters of the time and at physical elements of the room the rest](kid-space-less-screen-attention.md) — related

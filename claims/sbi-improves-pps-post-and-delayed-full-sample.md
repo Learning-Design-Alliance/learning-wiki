@@ -9,19 +9,20 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-06
 sources:
   - id: jitendra-2017
     resource: "https://doi.org/10.1177/0014402917691017"
-    title: "Jitendra, A. K., Harwell, M. R., Karl, S. R., Im, S-H., & Slater, S. C. (2017). Investigating a Tier 1 intervention focused on proportional reasoning: A follow-up study. Journal of Learning Disabilities, 83(4), 340-358. https://doi.org/10.1177/0014402917691017"
-    author: "Jitendra, A. K., Harwell, M. R., Karl, S. R., Im, S-H., & Slater, S. C."
+    title: "Jitendra, A. K., Harwell, M. R., Karl, S. R., Simonson, G. R., & Slater, S. C. (2017). Investigating a Tier 1 intervention focused on proportional reasoning: A follow-up study. Exceptional Children, 83(4), 340-358. https://doi.org/10.1177/0014402917691017"
+    author: "Jitendra, A. K., Harwell, M. R., Karl, S. R., Simonson, G. R., & Slater, S. C."
     q: 3
     i: 2
     kind: causal
     rigour: 2
   - id: jitendra-2017-2
     resource: "https://doi.org/10.1177/0014402917691017"
-    title: "Jitendra, A. K., Harwell, M. R., Karl, S. R., Im, S-H., & Slater, S. C. (2017). Investigating a Tier 1 intervention focused on proportional reasoning: A follow-up study. Journal of Learning Disabilities, 83(4), 340-358. https://doi.org/10.1177/0014402917691017"
-    author: "Jitendra, A. K., Harwell, M. R., Karl, S. R., Im, S-H., & Slater, S. C."
+    title: "Jitendra, A. K., Harwell, M. R., Karl, S. R., Simonson, G. R., & Slater, S. C. (2017). Investigating a Tier 1 intervention focused on proportional reasoning: A follow-up study. Exceptional Children, 83(4), 340-358. https://doi.org/10.1177/0014402917691017"
+    author: "Jitendra, A. K., Harwell, M. R., Karl, S. R., Simonson, G. R., & Slater, S. C."
     q: 3
     i: 1
     kind: causal
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1`–`i2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` At immediate posttest, SBI students scored significantly higher than control students on proportional problem solving (g = 0.63 SD). [→ Jitendra 2017](#jitendra-2017)
@@ -42,7 +43,7 @@ sources:
 
 ### Jitendra 2017
 
-Jitendra, A. K., Harwell, M. R., Karl, S. R., Im, S-H., & Slater, S. C. (2017). Investigating a Tier 1 intervention focused on proportional reasoning: A follow-up study. Journal of Learning Disabilities, 83(4), 340-358. https://doi.org/10.1177/0014402917691017
+Jitendra, A. K., Harwell, M. R., Karl, S. R., Simonson, G. R., & Slater, S. C. (2017). Investigating a Tier 1 intervention focused on proportional reasoning: A follow-up study. Exceptional Children, 83(4), 340-358. https://doi.org/10.1177/0014402917691017
 
 `q3 · i2` · `causal · r2`
 
@@ -52,7 +53,7 @@ Multilevel (students within classrooms) analysis of the randomized cluster trial
 
 ### Jitendra 2017 (2)
 
-Jitendra, A. K., Harwell, M. R., Karl, S. R., Im, S-H., & Slater, S. C. (2017). Investigating a Tier 1 intervention focused on proportional reasoning: A follow-up study. Journal of Learning Disabilities, 83(4), 340-358. https://doi.org/10.1177/0014402917691017
+Jitendra, A. K., Harwell, M. R., Karl, S. R., Simonson, G. R., & Slater, S. C. (2017). Investigating a Tier 1 intervention focused on proportional reasoning: A follow-up study. Exceptional Children, 83(4), 340-358. https://doi.org/10.1177/0014402917691017
 
 `q3 · i1` · `causal · r2`
 

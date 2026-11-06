@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Serious games can provide an authentic physical context and task for professional competencies, though a small number of successful games used neither
-description: Serious games can provide an authentic physical context and task for professional competencies, though a small number of successful games used neither
+title: Serious games can provide an authentic physical context and task for professional competencies, though a few successful games lacked an authentic physical context or an authentic task
+description: Serious games can provide an authentic physical context and task for professional competencies, though a few successful games lacked an authentic physical context or an authentic task
 id: serious-games-authentic-context-task
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-06
 sources:
   - id: bijl-2024
     resource: "https://doi.org/10.1007/s11423-024-10362-0"
@@ -20,11 +21,11 @@ sources:
     rigour: 3
 ---
 
-# Serious games can provide an authentic physical context and task for professional competencies, though a small number of successful games used neither
+# Serious games can provide an authentic physical context and task for professional competencies, though a few successful games lacked an authentic physical context or an authentic task
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Of the reviewed studies where task authenticity could be determined, all but four included an authentic task, and examples of non-authentic physical contexts were rare across all three competency types. [→ Bijl 2024](#bijl-2024)

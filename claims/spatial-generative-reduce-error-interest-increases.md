@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Spatial thinking and generative activity reduced monitoring error while higher interest increased it
-description: Spatial thinking and generative activity reduced monitoring error while higher interest increased it
+title: Spatial-thinking and generative-activity conditions predicted less monitoring error, while higher interest ratings predicted more
+description: Spatial-thinking and generative-activity conditions predicted less monitoring error, while higher interest ratings predicted more
 id: spatial-generative-reduce-error-interest-increases
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-15
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-11-06
 sources:
   - id: wiley-2019
     resource: "https://doi.org/10.1002/acp.3495"
@@ -20,11 +21,11 @@ sources:
     rigour: 2
 ---
 
-# Spatial thinking and generative activity reduced monitoring error while higher interest increased it
+# Spatial-thinking and generative-activity conditions predicted less monitoring error, while higher interest ratings predicted more
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` All three predictors (spatial thinking contrast, generative activity contrast, interest ratings) significantly predicted absolute error in monitoring. [→ Wiley 2019](#wiley-2019)
@@ -37,7 +38,7 @@ Wiley, J. (2019). Picture this! Effects of photographs, diagrams, animations, an
 
 `q3 · i?` · `causal · r2`
 
-Second regression in the same study testing the subsidiary hypotheses: "all three factors were significant predictors of absolute error". Spatial thinking and generative activity each reduced error; higher interest increased error. No standardized coefficients printed.
+Second regression in the same study testing the subsidiary hypotheses: "all three factors were significant predictors of absolute error". The spatial-thinking contrast (diagram, animation and sketching conditions versus the rest) and the generative-activity contrast (sketching and note-taking versus the rest) each had a significant negative coefficient on error; the continuous interest ratings, which were measured rather than assigned, had a positive one, so the interest result is an association, not an effect of interest. No standardized coefficients printed.
 
 > "these three predictors were entered into a simultaneous regression, R2 = .18, F (3, 116) = 8.29, p < .001.  As shown in Table 3, all three factors were significant predictors of absolute error."
 

@@ -47,7 +47,7 @@ The article describes an incentive mechanism in which "the 3-person guidance tea
 - [Nursing interns in the SFHC programme had higher self-reported inter-professional learning (AITCS) scores after the internship than a non-randomised traditional-teaching group](../claims/sfhc-improved-interprofessional-learning.md) [+W]
 - [SFHC intervention improved simulated nurse licensure examination (professional practice module) scores post-intervention](../claims/sfhc-improved-licensure-exam-scores.md) [+W]
 - [SFHC intervention improved medical curiosity (SMC) scores of general surgical nursing interns post-intervention](../claims/sfhc-improved-medical-curiosity-smc.md) [+W]
-- [SFHC intervention improved nursing learning self-efficacy scores post-intervention](../claims/sfhc-improved-nursing-self-efficacy.md) [+W]
+- [In a nonrandomized cohort, nursing interns taught with SFHC scored higher on learning self-efficacy after the intervention than interns taught traditionally](../claims/sfhc-improved-nursing-self-efficacy.md) [+W]
 - [SFHC intervention improved doctor-patient communication (SEGUE) scores post-intervention](../claims/sfhc-improved-segue-communication.md) [+W]
 
 ## Related Strategies

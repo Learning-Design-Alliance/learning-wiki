@@ -50,7 +50,7 @@ Pre-post Wilcoxon analysis in the same 37-student single-group study. Two-point 
 
 ## Related Claims
 - [In one uncontrolled pre-post study, non-dominant-hand dexterity rose as sensitivity fell in certain fingers](dexterity-gain-inverse-nondominant-sensitivity-correlation.md) — related
-- [Manual dexterity scores rose from pre-test to post-test after an eight-week home training programme in first-year dental students (small effect, both hands)](home-training-improves-dental-student-dexterity.md) — related
+- [Manual dexterity improved from pre-test to post-test after an eight-week home training programme in first-year dental students (small effect, both hands)](home-training-improves-dental-student-dexterity.md) — related
 - [Sensitivity changes differ exploratorily by sex, with women improving and men worsening on non-dominant fingertip discrimination](sex-difference-sensitivity-change-exploratory.md) — related
 - [From pre-test to post-test, fingertip sensitivity rose and grip strength fell in both hands in one group with no comparison group](sensitivity-gain-inverse-strength-loss-correlation.md) — related
 - [Grip strength significantly decreases after the dexterity-focused home training programme (medium effect)](grip-strength-decreases-after-dexterity-training.md) — related

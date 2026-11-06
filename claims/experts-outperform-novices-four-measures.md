@@ -46,7 +46,7 @@ Exploratory performance study comparing five experts (n=5) and 12 novices (n=12)
 
 ## Related Claims
 - [The four quantitative measures of the resection task showed good internal consistency (Cronbach's alpha 0.803)](cronbach-alpha-0803-four-measures.md) — related
-- [Novices achieved adequate mean margins mainly by over-resecting deep margins, while experts secured more uniform 10 mm margins across directions](deep-margin-difficulty-novice-over-resection.md) — related
+- [Experts and novices did not differ in mean margin distance, but novices took longer deep margins and experts kept more consistent margins around the 10 mm target](deep-margin-difficulty-novice-over-resection.md) — related
 - [Experts rated the electrosurgical oral cancer resection task highly for realism and quantitative assessment, with all 10 rating its training usefulness 5 of 5](expert-questionnaire-ratings-resection-task.md) — related
 - [Sensor-based force measurement discriminates skill levels, with experts suturing faster and with lower applied force than novices](force-sensing-discriminates-surgical-skill.md) — related
 - [Beginner scopists have significantly longer operative times than expert scopists in laparoscopic liver resection](beginner-scopists-longer-operative-time-llr.md) — related

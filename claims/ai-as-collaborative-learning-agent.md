@@ -60,4 +60,4 @@ Cross-cutting finding reported in the abstract and RQ2 findings: learners direct
 - [Example-tracing tutors support a variety of pedagogical approaches beyond step-based problem solving, including collaborative learning, educational games, and guided invention activities.](example-tracing-tutors-support-varied-pedagogies.md) — related
 - [Each successive AI scenario demands higher AI literacy levels, from Informed to Active participant](ai-scenarios-require-rising-literacy-levels.md) — related
 - [Most students expected AI to serve as personal tutor, creative partner, and critical thinking partner rather than merely a content generator.](students-expect-collaborative-ai-roles-beyond-content-generation.md) — related
-- [Tutoring developed tutors' problem-solving, critical thinking, communication and patience skills and shaped career aspirations toward education roles](tutor-skill-development-peer-tutoring-nursing.md) — related
+- [Peer tutors reported that tutoring developed their problem-solving, critical thinking, communication and patience skills, and some expressed interest in education roles](tutor-skill-development-peer-tutoring-nursing.md) — related

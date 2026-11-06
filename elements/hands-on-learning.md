@@ -44,7 +44,7 @@ Hands-on learning is the element in which learners manipulate materials, tools, 
 - [Teachers reported that simulations, adaptive feedback, and hands-on STEM activities supported students' conceptual understanding and engagement with scientific problem solving](../claims/simulations-adaptive-feedback-support-engagement.md) [+W]
 - [76.5% of students demand a shift toward hands-on practical computer activities over theoretical instruction](../claims/student-demand-hands-on-it-instruction.md) [~W]
 - [Embodied hands-on practices remain important learning activities in AI-era design education](../claims/embodied-hands-on-remains-present.md) [+W]
-- [Teachers found Hero Elementary playlist hands-on activities easy to implement because materials were supplied and prepped.](../claims/hero-elementary-hands-on-activities-easy-implementation-prepped-materials.md) [+W]
+- [Teachers reported finding Hero Elementary playlist hands-on activities relatively easy to implement, with lesson planning and hands-on materials supplied and prepped.](../claims/hero-elementary-hands-on-activities-easy-implementation-prepped-materials.md) [+W]
 - [Three mathematics teacher educators all foregrounded engagement-focused teaching-and-learning activities, variously hands-on problem-solving and group work, collaboration, and student demonstrations with class discussion](../claims/teacher-educators-foreground-engagement-tlas.md) [+W]
 - [Hands-on engagement with an AIDA beta significantly improved students' attitudes toward it, with a large effect size](../claims/aida-hands-on-use-improves-attitudes.md) [+W]
 - [Embodied and cognitive hands-on rely on different feedback sources and are not educationally equivalent](../claims/hands-on-forms-different-feedback-sources.md) [~W]

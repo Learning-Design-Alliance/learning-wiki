@@ -48,7 +48,7 @@ Results section comparison of the three classifiers against the zero-rule baseli
 ## Related Claims
 
 - [Classifiers systematically confuse adjacent engagement levels: social with active, constructive with interactive, and interactive with active](adjacent-engagement-level-misclassification-patterns.md) — related
-- [Academic word list count, word count, and Flesch-Kincaid grade level are the most important features for predicting cognitive engagement in discussion posts](awl-count-word-count-feature-importance-engagement.md) — related
+- [In decision-tree and random-forest models, academic word list count, word count, and Flesch-Kincaid grade level were among the most important features for predicting cognitive engagement in discussion posts; an SVM ranked different features first](awl-count-word-count-feature-importance-engagement.md) — related
 - [A support vector machine classifier outperformed decision tree and random forest models in predicting cognitive engagement levels of online discussion posts](svm-outperforms-dt-rf-cognitive-engagement-prediction.md) — related
 - [Discipline-general academic vocabulary (AWL use) supports cognitive engagement identification and may aid generalization across courses](awl-academic-vocabulary-supports-engagement-identification.md)
 - [A random forest classified flagged versus non-flagged word problems with the best accuracy of five tested models (AUC = 0.75)](random-forest-best-auc-flagged-problems.md) — related

@@ -67,7 +67,7 @@ Narrative review attributing these findings to Guo, Kim, and Rubin (2014), descr
 - [MOOC video styles cluster by discipline: humanities/arts favor speaker-centric, science/engineering favor board-centric](mooc-video-styles-discipline-clusters.md) — related
 - [Most remote courses used both synchronous and asynchronous delivery mechanisms](remote-courses-mixed-synchronous-asynchronous-delivery.md) — related
 - [MOOC video engagement declines with video length, with median engagement under half the duration for videos longer than nine minutes](mooc-engagement-declines-with-video-length.md) — related
-- [A review of music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes](moocs-low-completion-embodied-music-learning.md) — related
+- [A discussion article on music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes](moocs-low-completion-embodied-music-learning.md) — related
 - [Median student engagement with MOOC videos falls sharply as video length increases beyond 6 minutes](video-length-mooc-engagement-declines.md) — related
 - [mLearning students prefer video-based materials with each video under 5 minutes](mlearning-students-prefer-short-videos-under-5-minutes.md) — a narrower finding that bears on this claim
 - [A University of Pennsylvania study found only about half of MOOC registrants viewed a lecture and only about four percent finished a course entirely](mooc-completion-four-percent.md) — related

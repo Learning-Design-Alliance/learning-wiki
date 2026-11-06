@@ -42,7 +42,7 @@ The article recommends that institutions deliberately formalize and support peer
 ## Claims
 
 - [Peer tutoring enhanced tutees' understanding of complex subjects, exam performance and study strategies in a UAE undergraduate nursing program](../claims/peer-tutoring-tutee-academic-gains-nursing-uae.md) [+W]
-- [Tutoring developed tutors' problem-solving, critical thinking, communication and patience skills and shaped career aspirations toward education roles](../claims/tutor-skill-development-peer-tutoring-nursing.md) [+W]
+- [Peer tutors reported that tutoring developed their problem-solving, critical thinking, communication and patience skills, and some expressed interest in education roles](../claims/tutor-skill-development-peer-tutoring-nursing.md) [+W]
 - [Tutees initially felt anxious about receiving peer tutoring due to fear of judgment and stigma, but anxieties typically eased after the first session](../claims/tutee-initial-hesitancy-eases-peer-tutoring.md) [~W]
 - [Peer tutoring challenges included passive tutee study habits, lack of punctuality and commitment, and limited time for relationship building in online sessions](../claims/peer-tutoring-barriers-commitment-passive-learning.md) [~W]
 

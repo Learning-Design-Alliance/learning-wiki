@@ -49,7 +49,7 @@ Review synthesis on ergonomic setup. The review reports monitor displays increas
 
 - [Mental rotation ability shows a specific, significant influence on MIS learning and operative performance](mental-rotation-influences-mis-performance.md)
 - [Visuo-spatial ability impacts operative simulator performance in minimally invasive surgery, mainly in inexperienced novices](vsa-predicts-mis-simulator-performance-novices.md)
-- [Teaching orientation strategies to novice laparoscopic surgeons significantly increases performance and reduces cognitive burden](orientation-strategies-improve-novice-laparoscopic-performance.md)
+- [Teaching orientation strategies to final-year medical students new to laparoscopy significantly increased performance and reduced cognitive burden](orientation-strategies-improve-novice-laparoscopic-performance.md)
 - [Mental rotation ability moderates the alignment benefit: higher-ability participants benefit more from recording–expected angle alignment](mental-rotation-moderates-alignment-benefit.md) — related
 - [Participants informed in advance about a misaligned task angle performed worse and reported higher video cognitive load than those surprised by the misalignment](informed-misalignment-worse-performance.md) — related
 - [Mismatch between recording angle and expected angle increases cognitive load both during video observation and during task execution](expectation-mismatch-increases-cognitive-load.md) — related

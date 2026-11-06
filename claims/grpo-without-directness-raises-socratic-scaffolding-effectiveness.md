@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "GRPO alignment without the directness reward raises Socratic scaffolding effectiveness from 0.300 to 0.633 and cuts keyword leakage from 26.7% to 13.3% on held-out questions"
-description: "GRPO alignment without the directness reward raises Socratic scaffolding effectiveness from 0.300 to 0.633 and cuts keyword leakage from 26.7% to 13.3% on held-out questions"
+title: "GRPO alignment without the directness reward raises Socratic scaffolding effectiveness from 0.300 to 0.633 and cuts keyword leakage from 30.0% to 13.3% against the prompt-only base on held-out questions"
+description: "In simulated tutoring on 30 held-out questions, GRPO alignment without the directness reward raises Socratic scaffolding effectiveness from 0.300 (prompt-only PT-Base) to 0.633 and cuts keyword leakage from 30.0% (PT-Base) or 26.7% (SFT only) to 13.3%"
 id: grpo-without-directness-raises-socratic-scaffolding-effectiveness
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# GRPO alignment without the directness reward raises Socratic scaffolding effectiveness from 0.300 to 0.633 and cuts keyword leakage from 26.7% to 13.3% on held-out questions
+# GRPO alignment without the directness reward raises Socratic scaffolding effectiveness from 0.300 to 0.633 and cuts keyword leakage from 30.0% to 13.3% against the prompt-only base on held-out questions
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -37,7 +37,7 @@ Xiaokun Wang, Siyu Song, Wentao Liu, Xiaodong Zou. (2026). Beyond Direct Answeri
 
 `q2 · i?` · `causal · r1`
 
-Simulation-based evaluation on 30 held-out seed questions in a four-turn LLM-simulated tutoring loop, comparing PT-track systems. The article reports "GRPO without Rdir further raises SE to 0.633" with leakage cut to 13.3%; per-run SE variance is stated as roughly ±0.10.
+Simulation-based evaluation on 30 held-out seed questions in a four-turn LLM-simulated tutoring loop, comparing PT-track systems. The article reports "GRPO without Rdir further raises SE to 0.633" with leakage cut to 13.3%. The two leakage baselines differ: PT-Base leaks in 30.0% of dialogues and SFT alone in 26.7%, so the drop to 13.3% is from 30.0% against PT-Base and from 26.7% against PT-SFT. Per-run SE variance is stated as roughly ±0.10.
 
 > "Within the PT track, alignment yields a generally improving pattern: prompt-only PT-Base reaches SE=0.300; SFT alone improves to 0.500; GRPO without Rdir further raises SE to 0.633 while cutting leakage from 26.7% to 13.3%."
 

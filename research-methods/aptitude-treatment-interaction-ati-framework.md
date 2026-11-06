@@ -29,7 +29,7 @@ The article organizes its moderation analysis around the aptitude-treatment inte
 - [Language proficiency moderates the effect of non-interactive teaching on immediate monitoring accuracy](../claims/language-proficiency-moderates-monitoring-accuracy.md) [+M]
 - [Physics interest moderates long-term retention: low- and medium-interest students benefit from non-interactive teaching at eight weeks, high-interest students do not](../claims/interest-moderates-long-term-retention-teaching.md) [+M]
 - [In TTS dialogue-based lessons, the teacher–teacher format significantly moderates the motivation effects of both the CE factor (positive) and the RCE factor (negative)](../claims/tt-format-moderates-ce-rce-motivation.md) [+M]
-- [Interactions between learner characteristics and dialogue format for learning outcomes showed only trends toward significance, not significant effects](../claims/learning-outcome-interactions-trend-only.md) [~M]
+- [No interaction between learner characteristics and dialogue format was significant for self-reported learning outcomes after correction for multiple tests](../claims/learning-outcome-interactions-trend-only.md) [~M]
 - [Technological affinity shows no association with learning outcomes in either instructional mode](../claims/tech-affinity-no-association-outcomes.md) [~M]
 
 ## Related Research Methods

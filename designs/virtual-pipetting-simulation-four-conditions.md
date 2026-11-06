@@ -17,7 +17,7 @@ sources:
 # Virtual pipetting simulation with tutorial and test phases in four condition variants
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 design), `q2`–`q3` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 design), `q2`–`q3` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The learning material was an adapted version of a simulation used by Petersen et al. (2022a), set in a virtual laboratory with a workstation, micropipette, pipette tips, test tubes, and beakers. It "taught students how to use a micropipette" and "how to correctly perform a serial dilution—a scientific procedure in which the concentration of a given substance is reduced through a series of steps." The simulation "consisted of two parts: a tutorial and a test": a virtual agent guided students through pipetting steps, then students performed a serial dilution alone and received feedback on mistakes. Four versions varied immersion (VR vs. PC) and interactivity (congruent gestures vs. laser-pointer pointing).

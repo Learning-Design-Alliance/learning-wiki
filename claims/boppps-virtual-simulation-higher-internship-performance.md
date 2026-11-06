@@ -45,7 +45,7 @@ Quasi-experiment with 120 nursing interns (60 per group) comparing BOPPPS plus v
 
 
 ## Related Claims
-- [BOPPPS-based blended teaching produces significantly higher final examination and process assessment scores than traditional lecture-based teaching](boppps-higher-final-exam-process-assessment.md) — related
+- [In one nonrandomised quasi-experiment, a BOPPPS-based blended teaching class scored significantly higher on final examination and process assessment than a traditional lecture-based class](boppps-higher-final-exam-process-assessment.md) — related
 - [Teaching satisfaction is significantly higher with BOPPPS plus virtual simulation (98.3% vs. 86.7%)](boppps-virtual-simulation-teaching-satisfaction.md) — related
 - [In the same RCT, PBL combined with virtual simulation produced significantly higher practical operation scores than lecture-based teaching (86.28 ± 3.18 vs. 76.52 ± 3.39, p < 0.01)](pbl-virtual-simulation-higher-practical-operation-trauma-orthopedics.md) — related
 - [In the same RCT, PBL combined with virtual simulation produced significantly higher total critical thinking scores than lecture-based teaching (314.12 ± 10.68 vs. 270.28 ± 19.76, p < 0.05)](pbl-virtual-simulation-higher-critical-thinking-trauma-orthopedics.md) — related

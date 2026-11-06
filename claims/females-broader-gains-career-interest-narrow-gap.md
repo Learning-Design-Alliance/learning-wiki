@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Female students show broader post-workshop gains than males, including significant increases in AI and computer science career interest, while male career interest remains unchanged
-description: Female students show broader post-workshop gains than males, including significant increases in AI and computer science career interest, while male career interest remains unchanged
+title: Female students show broader post-workshop gains than males, including significant increases in AI and computer science career interest, while males show no statistically significant change in career interest
+description: Female students show broader post-workshop gains than males, including significant increases in AI and computer science career interest, while males show no statistically significant change in career interest
 id: females-broader-gains-career-interest-narrow-gap
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: jake-renzella-2026
     resource: "https://doi.org/10.48550/arxiv.2606.14718"
@@ -20,11 +21,11 @@ sources:
     rigour: 1
 ---
 
-# Female students show broader post-workshop gains than males, including significant increases in AI and computer science career interest, while male career interest remains unchanged
+# Female students show broader post-workshop gains than males, including significant increases in AI and computer science career interest, while males show no statistically significant change in career interest
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i2` medium
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` Female students showed significant medium-sized gains in career interest for AI (ΔM=+0.45, d=.52) and computer science (ΔM=+0.44, d=.47), while male students showed no significant change in career aspirations for either field. [→ Jake Renzella 2026](#jake-renzella-2026)
@@ -38,7 +39,7 @@ Jake Renzella, Christian Bergh, Natasha Banks, and Alexandra Vassar. (2026). Gen
 
 `q3 · i2` · `causal · r1`
 
-Pre–post OLS by gender (Table 3) on npost = 136 students. Female career-interest gains are printed as "d=.52" (AI) and "d=.47" (CS); male career items were non-significant (p=.645 and p=.613). Females also gained on AI training (d=.75) and bias understanding (d=.49).
+Pre–post OLS by gender (Table 3) on npost = 136 students. Female career-interest gains are printed as "d=.52" (AI) and "d=.47" (CS); male career items changed by −0.08 (AI) and +0.10 (CS), not statistically significant (p=.645 and p=.613), which is not evidence that their interest was unchanged. Females also gained on AI training (d=.75) and bias understanding (d=.49).
 
 > "Mostnotably,femalestudentsshowedsignificantmedium-sizedgainsincareerin- terest for both AI (∆M= +0.45,d=.52) and computer science (∆M= +0.44, d=.47). Male students showed no significant change in career aspirations for either field."
 

@@ -48,6 +48,6 @@ Correlational analysis across all 169 participants, reported in the General Disc
 - [Korean EFL learners sort sentences increasingly by construction rather than by verb as grade level increases](construction-based-sorting-increases-with-grade-level.md) — related
 - Receptive vocabulary knowledge correlates moderately with advanced L2 listening comprehension in advanced Turkish EFL learners — related
 - [English learners' mathematical performance was positively correlated with English proficiency, more strongly for explanations than calculations](math-performance-correlated-with-proficiency.md) — related
-- [Light verbs drive construction-based sorting in intermediate-level but not beginner or advanced EFL learners](light-verbs-modulate-intermediate-sorting.md) — related
+- [Intermediate-level EFL learners, but not beginner or advanced ones, sorted sentences by construction mainly when they contained light verbs](light-verbs-modulate-intermediate-sorting.md) — related
 - [Translation accuracy rises with proficiency but varies substantially across individual constructions](translation-accuracy-varies-by-construction.md) — related
 - [Competence knowledge and competence application are strongly but distinguishably correlated](competence-knowledge-application-correlated.md) — related

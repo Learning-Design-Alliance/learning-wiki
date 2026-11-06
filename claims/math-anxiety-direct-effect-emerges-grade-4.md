@@ -53,9 +53,9 @@ Longitudinal path analysis (Model 1a) in 146 children tested at start of grades 
 ## Related Claims
 - [Teacher-rated general anxiety negatively predicts concurrent and future math performance in third and fourth graders](teacher-rated-general-anxiety-predicts-math-performance.md) — related
 - [Children's arithmetic skills are the strongest predictor of their explicitly measured math anxiety, with higher skills associated with lower anxiety](arithmetic-skills-predict-explicit-math-anxiety.md) — related
-- [Math anxiety has both a direct negative effect and a WM-mediated indirect effect on children's verbal Math Reasoning, but only an indirect effect on Numerical Operations](math-anxiety-direct-effect-verbal-math-reasoning.md) — related
+- [In a cross-sectional model, math anxiety has both a direct negative path and a WM-mediated indirect path to children's verbal Math Reasoning, but only an indirect path to Numerical Operations](math-anxiety-direct-effect-verbal-math-reasoning.md) — related
 - [Children's self-rated general anxiety was not directly related to math achievement at either assessment time](self-rated-general-anxiety-not-related-to-math.md) — related
 - [Math anxiety in Grade 2 shows an indirect effect on subsequent math performance in Grade 3](grade-2-math-anxiety-indirect-effect-grade-3-performance.md) — related
 - [The association between math anxiety and math performance is significant in Grade 3 after accounting for general anxiety](math-anxiety-performance-link-significant-grade-3.md) — reports the opposite
 - [The prevalent direction of the Grade 3 anxiety-performance link runs from math anxiety to performance, not the reverse](math-anxiety-to-performance-directionality.md) — reports the opposite
-- [Math anxiety arises and relates to math performance already in early primary school (Grades 2-3)](math-anxiety-arises-early-primary-school.md) — reports the opposite
+- [Math anxiety is present and relates to math performance already in early primary school (Grades 2-3)](math-anxiety-arises-early-primary-school.md) — reports the opposite

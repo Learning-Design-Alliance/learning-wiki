@@ -67,7 +67,7 @@ Simple-effects tests following the significant expertise x element interactivity
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
-- [On the delayed test, a significant three-way interaction showed a worked example effect for high element interactivity material and a generation effect for low element interactivity material for novices](delayed-test-three-way-interaction-element-interactivity-guidance-expertise.md) — related
+- [On the delayed test, guidance, element interactivity and expertise interacted significantly: for novices, generation beat worked examples on low element interactivity material, while the worked example advantage on high element interactivity material fell just short of significance](delayed-test-three-way-interaction-element-interactivity-guidance-expertise.md) — related
 - [For more knowledgeable learners on the delayed test, a generation effect was obtained for both low and high element interactivity materials](delayed-test-year11-generation-effect-both-materials.md) — related
 - [On the immediate test, novices showed a worked example effect (high guidance superior) while more knowledgeable learners showed a generation effect (low guidance superior)](immediate-test-guidance-expertise-interaction-worked-example-generation.md) — related
 - [The learning benefit of increasing integration is substantially larger for high element interactivity (complex) materials than for low element interactivity materials](element-interactivity-moderates-contiguity-effect.md) — related

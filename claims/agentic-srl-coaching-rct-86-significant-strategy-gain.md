@@ -1,7 +1,7 @@
 ---
 type: claim
-title: A randomized controlled trial with 86 K-12 students found a significant gain in self-regulated-learning strategy use from agentic coaching systems
-description: A randomized controlled trial with 86 K-12 students found a significant gain in self-regulated-learning strategy use from agentic coaching systems
+title: A survey of agentic AI in education reports an unidentified randomized trial (86 K-12 students) finding a significant SRL-strategy gain from agentic coaching
+description: A survey of agentic AI in education reports an unidentified randomized trial (86 K-12 students) finding a significant SRL-strategy gain from agentic coaching
 id: agentic-srl-coaching-rct-86-significant-strategy-gain
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 2
 ---
 
-# A randomized controlled trial with 86 K-12 students found a significant gain in self-regulated-learning strategy use from agentic coaching systems
+# A survey of agentic AI in education reports an unidentified randomized trial (86 K-12 students) finding a significant SRL-strategy gain from agentic coaching
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` A randomized controlled trial with 86 K-12 students reported a significant SRL-strategy gain (p < 0.05) from agentic coaching systems that prompt planning, monitoring and reflection. [→ Kostopoulos 2025](#kostopoulos-2025)
+`q2 i?` This state-of-the-art survey, not an experiment of its own, attributes to a randomized controlled trial with 86 K-12 students a significant SRL-strategy gain (p < 0.05) from agentic coaching systems that prompt planning, monitoring and reflection. [→ Kostopoulos 2025](#kostopoulos-2025)
 
 ## Evidence
 
@@ -37,7 +37,7 @@ Kostopoulos, G., Gkamas, V., Rigou, M., & Kotsiantis, S. (2025). Agentic AI in E
 
 `q2 · i?` · `review · r2`
 
-The review reports a randomized controlled trial with 86 K-12 students evaluating agentic coaching systems fostering self-regulated learning, finding a "significant SRL-strategy gain, p < 0.05". Only a p-value is printed and no effect size, so the magnitude is unknown and impact is coded `i?`; the gain itself is reported as significant.
+A survey of the state of the art and future directions of agentic AI in education; it runs no study of its own. In one parenthetical it reports a randomized controlled trial with 86 K-12 students evaluating agentic coaching systems fostering self-regulated learning, finding a "significant SRL-strategy gain, p < 0.05". The parenthetical cites Zimmerman [11] and Panadero [15], names of self-regulated-learning theorists, and does not identify the trial itself, so the primary study behind the figure is unknown and has not been checked. The abstract reports no such result. Only a p-value is printed and no effect size, so the magnitude is unknown and impact is coded `i?`; the gain itself is reported as significant.
 
 > "Controlled evaluations show positive effects on metacognitive strategy use and persistence (Zimmerman [11]; Panadero [15] — randomized controlled trial, N = 86 K-12 students, significant SRL-strategy gain, p < 0.05)."
 

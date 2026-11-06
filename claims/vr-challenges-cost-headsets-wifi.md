@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-11-06
 sources:
   - id: jacqueline-żammit-2024
     resource: "https://doi.org/10.1007/s11423-024-10375-9"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` 11 teachers reported VR needs further development, citing lack of consistent Wi-Fi and voice-recognition audio issues, and six educators said VR could create challenges during lessons requiring balance with traditional techniques. [→ Jacqueline Żammit 2024](#jacqueline-zammit-2024)
+`q2 i?` The theme "VR needs further development" drew 11 codes in the focus-group analysis; Teacher 6 cited the lack of a consistent Wi-Fi connection and voice-recognition audio issues, and six educators said VR could create challenges during lessons requiring balance with traditional techniques. [→ Jacqueline Żammit 2024](#jacqueline-zammit-2024)
 
 ## Evidence
 
@@ -39,7 +40,7 @@ Jacqueline Żammit. (2024). Could virtual reality be the next approach for inter
 
 Focus-group findings (Further development theme, 11 codes). Teachers cited Wi-Fi constraints, bulky headsets, cost, and voice-recognition audio issues; Teacher 6 said technology is not yet advanced enough for smooth speaking simulations.
 
-> "For instance, 11 teachers reported that VR needs further development, with issues such as the lack of a consistent Wi-Fi connection to download substantial resources onto students' devices at the same time being a potential technical challenge in many schools."
+> "However, VR needs further development. Teacher 6 said that a possible technical challenge in many schools is the lack of a consistent Wi-Fi connection to download all the large resources on to students' devices at the same time."
 
 ## Discussion
 

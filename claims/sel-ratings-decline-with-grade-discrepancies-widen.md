@@ -69,4 +69,4 @@ Bonferroni pairwise comparisons across grades 3, 5, 7 and 9 showed a decreasing 
 
 ## Related Claims
 - [Students', parents' and teachers' SEL ratings show significant moderate inter-informant correlations regardless of grade level](moderate-interinformant-sel-correlations.md) — related
-- [Parents rate Arabic-speaking students' SEL skills higher than students themselves, and teachers rate them lowest (parents > students > teachers), regardless of grade level](sel-perception-discrepancy-parents-students-teachers.md) — reports the opposite
+- [Parents rate Arabic-speaking students' SEL skills higher than students themselves, and teachers rate them lowest (parents > students > teachers) overall, though all three differ significantly only in grades seven and nine](sel-perception-discrepancy-parents-students-teachers.md) — reports the opposite

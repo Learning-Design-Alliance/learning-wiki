@@ -40,7 +40,7 @@ During a pilot year the teacher employed science fiction excerpts in six distinc
 - reaction classification (single replacement, double replacement, synthesis, decomposition)
 
 ### Claims
-- [Fiction Insertion Shifts Chemistry Discourse](../claims/fiction-insertion-shifts-chemistry-discourse.md) [+M]
+- [Fiction Insertion Shifts Chemistry Discourse](../claims/fiction-insertion-shifts-chemistry-discourse.md) [+W]
 
 ## Related Designs
 - 

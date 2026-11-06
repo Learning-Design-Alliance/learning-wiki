@@ -47,5 +47,5 @@ Phase two interview findings on library contributions (RQ3), from 13 library dir
 
 
 ## Related Claims
-- [About half of funding for high-cost board exam prep resources originates outside the library budget](high-cost-board-prep-funding-often-non-library.md) — related
+- [High-cost board exam prep subscriptions are often funded outside the library budget, and about half of board prep funding overall originates outside it](high-cost-board-prep-funding-often-non-library.md) — related
 - [All responding COM libraries provide at least one dedicated board exam prep resource, with TrueLearn COMLEX Level 1 the most commonly funded resource overall](com-libraries-provide-board-prep-resources-truelearn-most-common.md) — related

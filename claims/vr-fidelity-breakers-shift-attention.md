@@ -65,7 +65,7 @@ Ethnographic observation of navigational challenges: "participants would inadver
 
 
 ## Related Claims
-- [Kid Space use shifted children's attention away from the screen toward the physical environment](kid-space-less-screen-attention.md) — related
+- [During Kid Space sessions, on-task children looked at the projected screen about three-quarters of the time and at physical elements of the room the rest](kid-space-less-screen-attention.md) — related
 - [Reported barriers to immersive and VP-based communication training include limited authenticity of non-verbal interaction, unrealistic student perceptions, high institutional resource requirements, technical challenges, and scalability constraints](vp-communication-implementation-barriers-authenticity-resources.md) — a broader claim this one bears on
 - [Participants shifted to heavier reliance on the cardiorespiratory monitor when the virtual patient's response to interventions deviated from expectations](vr-monitor-reliance-when-exam-deviates.md) — related
 - [With current technology, IVR is a barrier to training sensorimotor skills and non-verbal teamwork skills, while verbal communication goals remain feasible](ivr-limits-sensorimotor-and-nonverbal-teamwork-skills.md) — a broader claim this one bears on

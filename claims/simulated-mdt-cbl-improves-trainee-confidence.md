@@ -45,7 +45,7 @@ Educational pilot study (Mackay et al., 2024) with 11 oncology and 8 respiratory
 
 
 ## Related Claims
-- [In a randomised trial of 80 first-year postgraduate oncology trainees, CBL produced significantly higher examination scores and satisfaction than traditional lecture-based learning, though confidence intervals crossed the null for examination results](bi-rct-cbl-higher-posttest-scores-satisfaction.md) — related
+- [In a randomised trial of 80 first-year postgraduate oncology trainees, a CBL group that also had PowerPoint teaching reported significantly higher examination scores and satisfaction than lecture-based teaching, though confidence intervals crossed the null for examination results](bi-rct-cbl-higher-posttest-scores-satisfaction.md) — related
 - [Case-based discussions show evidence of reasoning and learning occurring and are perceived as useful for teaching and learning by oncology registrars and consultants](cbd-evidence-of-reasoning-and-learning-perceived-useful.md) — related
 - [Findings from other postgraduate specialties suggest PBL and CBL improve performance, knowledge and confidence, but overall RCT quality in this field is deemed unsatisfactory](other-postgraduate-specialty-reviews-pbl-cbl-quality-unsatisfactory.md) — a broader claim this one bears on
 - Only three studies met eligibility criteria for case-based learning in postgraduate medical oncology, totalling 111 participants, indicating a paucity of data in this field — a broader claim this one bears on

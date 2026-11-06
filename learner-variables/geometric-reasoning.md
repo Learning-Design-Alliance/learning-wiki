@@ -37,7 +37,7 @@ LVN follows it from grade 3 to grade 10. It is distinct from, but draws on, [spa
 
 ## Claims
 <!-- Claims reporting findings about this variable, with evidence tags -->
-- [A dynamic geometry model of the quilt problem helped an informal educator understand its spatial relations](../claims/geometry-software-model-helped-informal-educator-understand-spatial-relations.md) [+W] — instruction changes it
+- [A geometry-software model of the quilt problem helped an informal educator understand its spatial relations, by her own report](../claims/geometry-software-model-helped-informal-educator-understand-spatial-relations.md) [+W] — instruction changes it
 - [Both instructional groups improved significantly from pre-test to post-test, with larger gains in the generative AI-supported group](../claims/genai-geometry-within-group-gains.md) [+M] — instruction changes it
 - [Embodied collaborative construction can build shared geometric reasoning](../claims/embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) [+W] — instruction changes it
 - [In the owl game, being shown the solids and working with pictures and labels did not help two boys distinguish solids; body-based experience with contrastive guidance was needed](../claims/owl-game-body-based-experience-needed-for-solids.md) [~W] — instruction changes it

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2013
+source_checked: 2026-11-06
 sources:
   - id: fatade-et-al-2013
     resource: "https://portal.issn.org/resource/ISSN/2065-1430"
@@ -32,12 +33,12 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1`–`r2` · `q2`
-> **Currency** · newest study 2013 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 > **Design limits** · Fatade et al. 2013: the intervention came bundled with another change · Fatade et al. 2013 (2): the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
 `q2 i?` Post-test TMT achievement differed significantly between the PBL and TM groups in favour of PBL (t=-3.58, p=.001). [→ Fatade et al. 2013](#fatade-et-al-2013)
-`q2 i?` A one-way ANOVA on post-test TMT scores confirmed the difference between the two classes (F(1,95) = 12.82; p = .001). [→ Fatade et al. 2013 (2)](#fatade-et-al-2013-2)
+`q2 i?` A one-way ANOVA on post-test TMT scores confirmed the difference between the two classes (F(1,94) = 12.82; p = .001, with 94 within-groups degrees of freedom in Table 5; the article's prose prints F(1,95)). [→ Fatade et al. 2013 (2)](#fatade-et-al-2013-2)
 
 ## Evidence
 
@@ -57,9 +58,9 @@ Alfred Olufemi Fatade, David Mogari, Abayomi Adelaja Arigbabu. (2013). EFFECT OF
 
 `q2 · i?` · `causal · r2`
 
-One-way ANOVA on post-test TMT scores for the experimental and control classes reported in Table 5; between-groups sum of squares 1838.992, confirming the t-test result with a matching p value of .001.
+One-way ANOVA on post-test TMT scores for the experimental and control classes reported in Table 5; between-groups sum of squares 1838.992 (df 1), within-groups 13482.997 (df 94), so F(1,94) = 12.82, p = .001, confirming the t-test result.
 
-> "Further analysis of post-test achievement scores on TMT of students in both the experimental and control classes using one-way ANOVA as contained in Table 5 below showed that difference in means between the two classes was significant (F(1,95) = 12.82; p = .001)."
+> "Further analysis of post-test achievement scores on TMT of students in both the experimental and control classes using one-way ANOVA as contained in Table 5 below showed that difference in means between the two classes was significant (F(1,95) = 12.82; p = .001)." [sic: Table 5 gives 94 within-groups degrees of freedom]
 
 ## Discussion
 

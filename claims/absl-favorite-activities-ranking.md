@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Students most liked the competing theories, news, and concept cartoon activities because these made creating and defending arguments easier
-description: Students most liked the competing theories, news, and concept cartoon activities because these made creating and defending arguments easier
+title: Interviewed students named competing theories, news and concept cartoons as their favourite argumentation activities, giving reasons that differed by activity, chiefly easier argument creation and better expression of ideas
+description: Interviewed students named competing theories, news and concept cartoons as their favourite argumentation activities, giving reasons that differed by activity, chiefly easier argument creation and better expression of ideas
 id: absl-favorite-activities-ranking
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: weak
 newest_evidence: 2019
+source_checked: 2026-11-06
 sources:
   - id: akbaş-2019
     resource: "https://doi.org/10.33403/rigeo.529139"
@@ -20,11 +21,11 @@ sources:
     rigour: 1
 ---
 
-# Students most liked the competing theories, news, and concept cartoon activities because these made creating and defending arguments easier
+# Interviewed students named competing theories, news and concept cartoons as their favourite argumentation activities, giving reasons that differed by activity, chiefly easier argument creation and better expression of ideas
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students ranked competing theories, news, and concept cartoons as their favorite ABSL activities, citing easier argument creation and better expression of ideas. [→ Akbaş 2019](#akbas-2019)
@@ -37,7 +38,7 @@ Akbaş, Y.; Şahin, İ. F.; Meral, E. (2019). Implementing Argumentation-Based S
 
 `q2 · i?` · `causal · r1`
 
-Interview question on favorite activities (Table 14): competing theories (creating arguments easier f=4, reflecting ideas better f=3, commenting better f=2), news (f=3 and f=3), concept cartoons (f=1), from the 10 interviewed students.
+Interview question on favorite activities (Table 14), from the 10 interviewed students: competing theories (creating arguments easier f=4, reflecting ideas better f=3, commenting better f=2, one student saying it let them "defend my claims in a better way"), news (reflecting ideas better f=3, creating more arguments / using argument components more easily f=3), and concept cartoons (creating arguments easier f=1). Only the competing-theories and news statements mention defending claims or ideas; the single concept-cartoon statement mentions creating "a better and easier argument".
 
 > "As indicated in Table 14, the students specified that they liked the activities of competing theories, news, and concept cartoons respectively since they could create arguments easier, reflect ideas better, and comment on claims better."
 

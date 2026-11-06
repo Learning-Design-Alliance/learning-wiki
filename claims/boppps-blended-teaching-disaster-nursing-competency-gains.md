@@ -46,7 +46,7 @@ Quasi-experimental study with 77 third-year undergraduate nursing students at on
 
 
 ## Related Claims
-- [BOPPPS-based blended teaching produces significantly higher final examination and process assessment scores than traditional lecture-based teaching](boppps-higher-final-exam-process-assessment.md) — related
+- [In one nonrandomised quasi-experiment, a BOPPPS-based blended teaching class scored significantly higher on final examination and process assessment than a traditional lecture-based class](boppps-higher-final-exam-process-assessment.md) — related
 - [Blended BOPPPS teaching is associated with favorable subjective outcomes including autonomous learning, teamwork, and problem-solving ability](blended-boppps-favorable-subjective-outcomes.md) — related
 - [Among newly recruited nurses, creativity scores rose from before to after a BOPPPS-PBL nursing innovation course in one uncontrolled pre-post study](boppps-pbl-course-creativity-increase.md) — related
 - [A BOPPPS-based structured perioperative observation model was associated with higher learning objective clarity and self-reported purposeful observation than a conventional clerkship in early anesthesiology exposure](structured-perioperative-observation-improves-objective-clarity.md) — a narrower finding that bears on this claim

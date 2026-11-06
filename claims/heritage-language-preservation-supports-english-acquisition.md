@@ -41,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 1 causal `r?`, 1 review `r?`, 1 theoretical `r?` · `q1`–`q2`
-> **Currency** · newest study 2005 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2005 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
 
 A common assumption treats time and attention spent on a bilingual student's home (heritage) language as competing with, and therefore slowing, English acquisition. The three entries below do not test that assumption directly: a narrative review recommends that speech-language services for linguistically diverse preschoolers with language impairment support the home language, a practitioner account argues that a preserved shared language keeps parents able to support schooling, and a vocabulary study shows that second-language words once known and then forgotten are relearned with savings. The direct tests of the assumption are in the narrower claims gathered in the table below, and they are associational.
 
@@ -61,7 +61,7 @@ Hansen, L., Umeda, Y., & McKinney, M. (2002). Savings in the relearning of secon
 
 `q2 · study of second-language vocabulary relearning (savings paradigm) · i? · the abstract prints no effect size · n=304 returnees` · `causal · r?`
 
-The study applies the savings paradigm from cognitive psychology to relearning second-language vocabulary. Second-language (Japanese or Korean) data from 304 returnees from Japan and Korea showed what the authors call the strongest savings effect yet reported in studies of lexical reactivation. The savings advantage appeared to decline over time (with age a confounding factor) and was significantly related to current vocabulary size; there were no significant gender effects, and the Japanese and Korean subgroups differed in vocabulary maintenance and savings. It does not study first-language vocabulary transfer, heritage-language preservation or English acquisition; its bearing here is only the analogy of a once-used language that is relearned.
+The study applies the savings paradigm from cognitive psychology to relearning second-language vocabulary. Second-language (Japanese or Korean) data from 304 returnees from Japan and Korea showed what the authors call the strongest savings effect yet reported in studies of lexical reactivation. The savings advantage appeared to decline over time (with age a confounding factor) and was significantly related to current vocabulary size; no significant gender effects in savings were evident, and the Japanese and Korean subgroups differed in vocabulary maintenance and savings. It does not study first-language vocabulary transfer, heritage-language preservation or English acquisition; its bearing here is only the analogy of a once-used language that is relearned.
 
 <!-- citation check 2026-10-15: Crossref confirms this paper by title, first author and year (doi:10.1111/1467-9922.00200; Language Learning 52(4), 653-678), so the DOI replaces the journal-homepage link. Its title and topic are savings when RELEARNING forgotten second-language vocabulary, not first-language vocabulary easing second-language learning, so the description above may not match the paper; not re-read here. (Load-bearing triage 2026-11-03: re-read against the abstract; the description now says what the paper studies.) The principle page's Key Sources cites a different Hansen 2002 title ('Ragged interlanguage morphology...', JMMD 23(1-2)) that Crossref does not find. -->
 

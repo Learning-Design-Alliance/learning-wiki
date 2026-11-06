@@ -47,4 +47,4 @@ Reported subgroup pattern in academic outcomes from the quasi-experiment with 11
 ## Related Claims
 - [Using AR together with QIMS significantly increased students' critical thinking and knowledge creation efficacy skills](ar-qims-increase-critical-thinking-knowledge-creation-efficacy.md) — related
 - [Using AR did not produce a statistically significant difference in primary students' academic performance](ar-no-significant-academic-performance-difference.md) — related
-- [Students' self-directed learning and creative thinking skills increased significantly after QIMS inquiry-based lessons](qims-lessons-increase-self-directed-learning-creative-thinking.md) — related
+- [On a post-intervention self-report survey, students in QIMS inquiry-based classes rated their self-directed learning and creative thinking higher than students in a non-QIMS class](qims-lessons-increase-self-directed-learning-creative-thinking.md) — related

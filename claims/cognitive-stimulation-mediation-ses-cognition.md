@@ -48,4 +48,4 @@ The systematic review reports that cognitive stimulation was a mediator of the a
 - [Stress, support, and stimulation mediate the association of SES with EF, language ability, and academic achievement](stress-support-stimulation-mediation-ses.md) — a broader claim this one bears on
 - [SES is a powerful predictor of executive function, language ability, and academic achievement](ses-predictor-ef-language-achievement.md) — related
 - [Mothers' early autonomy support uniquely predicts children's executive functions at 54 months over and above warmth, cognitive stimulation, and covariates](autonomy-support-predicts-executive-functions-54-months.md) — related
-- [Executive function partially mediates the link between family SES and middle-school academic achievement](ef-mediation-ses-achievement.md) — related
+- [A review reports that executive function mediates the link between family SES and middle-school academic achievement](ef-mediation-ses-achievement.md) — related

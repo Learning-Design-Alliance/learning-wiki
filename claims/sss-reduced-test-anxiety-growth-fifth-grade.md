@@ -9,11 +9,12 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-06
 sources:
   - id: webb-2014
     resource: "https://eric.ed.gov/?id=ED562995"
-    title: "Webb, L., Villares, E., Carey, J., Wells, C., & Sayer, A. (2014). Results of a Randomized Controlled Trial of Student Success Skills. SREE Fall 2014 Conference. https://eric.ed.gov/?id=ED562995"
-    author: "Webb, L., Villares, E., Carey, J., Wells, C., & Sayer, A."
+    title: "Webb, L., Carey, J., Villares, E., Wells, C., & Sayer, A. (2014). Results of a Randomized Controlled Trial of Student Success Skills. SREE Fall 2014 Conference. https://eric.ed.gov/?id=ED562995"
+    author: "Webb, L., Carey, J., Villares, E., Wells, C., & Sayer, A."
     q: 3
     i: "?"
     kind: causal
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Students in SSS treatment schools showed a significantly lower slope of change in test anxiety than control schools (difference in slope -.003, t = -2.02, p < .05). [→ Webb 2014](#webb-2014)
@@ -33,7 +34,7 @@ sources:
 
 ### Webb 2014
 
-Webb, L., Villares, E., Carey, J., Wells, C., & Sayer, A. (2014). Results of a Randomized Controlled Trial of Student Success Skills. SREE Fall 2014 Conference. https://eric.ed.gov/?id=ED562995
+Webb, L., Carey, J., Villares, E., Wells, C., & Sayer, A. (2014). Results of a Randomized Controlled Trial of Student Success Skills. SREE Fall 2014 Conference. https://eric.ed.gov/?id=ED562995
 
 `q3 · i?` · `causal · r2`
 

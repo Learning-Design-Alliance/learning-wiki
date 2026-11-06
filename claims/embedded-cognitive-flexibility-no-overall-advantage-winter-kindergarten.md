@@ -27,7 +27,7 @@ sources:
 > **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` No mean treatment differences between Flex and Plain were observed on early literacy or cognitive flexibility growth, and no significant treatment interactions were apparent. [→ Vadasy 2023](#vadasy-2023)
+`q3 i?` No mean treatment differences between Flex and Plain were observed on early literacy or cognitive flexibility growth, and the Results report no significant treatment interactions with EB status, pretest or total attendance; the Discussion, however, reports an interaction with week-6 attendance, with Flex producing significantly greater gains than Plain on taught-letter alphabetics, decoding and word reading among students with 100% week-6 attendance. [→ Vadasy 2023](#vadasy-2023)
 
 ## Evidence
 
@@ -37,7 +37,7 @@ Vadasy, P. F., & Sanders, E. A. (2023). Cognitive flexibility + phonics interven
 
 `q3 · i?` · `causal · r2`
 
-In the randomized winter-kindergarten cohort (Flex n = 29, Plain n = 28), multilevel gain models controlling for EB status, pretest, and attendance found "No mean treatment differences were observed" on any outcome. No effect sizes were printed for these contrasts, so impact is not coded.
+In the randomized winter-kindergarten cohort (Flex n = 29, Plain n = 28), multilevel gain models controlling for EB status, pretest, and attendance found "No mean treatment differences were observed" on any outcome. No effect sizes were printed for these contrasts, so impact is not coded. The Results add that treatment differences "did not depend on student EB status, pretest levels, or total tutoring session attendance", but the Discussion reports "a consistent interaction between treatment type and week 6 attendance": "for students with 100% attendance in week 6, the Flex treatment demonstrated significantly greater gains than Plain on taught-letter alphabetics, decoding, and word reading." So the null holds for the overall mean difference, not for every subgroup.
 
 > "No mean treatment differences were observed, nor were any significant treatment interactions apparent (coefficient test ps > .10). In other words, there was no evidence that added practice in cognitive flexibility skills benefitted students’ growth in early literacy or cognitive flexibility beyond the basic phonics intervention."
 

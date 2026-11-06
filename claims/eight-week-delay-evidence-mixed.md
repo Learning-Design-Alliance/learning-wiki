@@ -9,6 +9,7 @@ generated:
   at: 2026-10-23
 evidence_strength: mixed
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: katharina-scheiter-2026
     resource: "https://doi.org/10.1016/j.learninstruc.2026.102417"
@@ -23,7 +24,7 @@ sources:
     title: "Katharina Scheiter, Alexander Renkl. (2026). On the challenges of investigating lasting learning: A commentary. Learning and Instruction 105 (2026) 102417. https://doi.org/10.1016/j.learninstruc.2026.102417"
     author: Katharina Scheiter, Alexander Renkl
     q: 2
-    i: 0
+    i: "?"
     kind: theoretical
     rigour: 3
 ---
@@ -31,12 +32,12 @@ sources:
 # Evidence for lasting learning is mixed at 8-week delays: only interleaving, not spacing or retrieval practice in drawing contexts, was supported
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2` · `i0` negligible
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Spacing showed no evidence of lasting learning at an 8-week interval in a long-multiplication study with fourth graders. [→ Katharina Scheiter 2026](#katharina-scheiter-2026)
-`q2 i0` Retrieval practice showed no benefits when generating drawings in science classes at either 2- or 8-week delays. [→ Katharina Scheiter 2026 (2)](#katharina-scheiter-2026-2)
+`q2 i?` Retrieval practice showed no significant benefit when generating drawings in science classes at either 2- or 8-week delays (reported as non-significant; no effect size printed). [→ Katharina Scheiter 2026 (2)](#katharina-scheiter-2026-2)
 
 ## Evidence
 
@@ -54,9 +55,9 @@ The commentary reports a null result from a classroom study of long multiplicati
 
 Katharina Scheiter, Alexander Renkl. (2026). On the challenges of investigating lasting learning: A commentary. Learning and Instruction 105 (2026) 102417. https://doi.org/10.1016/j.learninstruc.2026.102417
 
-`q2 · i0` · `theoretical · r3`
+`q2 · i?` · `theoretical · r3`
 
-The commentary reports a null result from classroom science studies of retrieval during generative drawing, with posttests at 2 and 8 weeks; Table 1 lists the effect as "non-significant". Equivalence was not tested.
+The commentary reports a null result from classroom science studies of retrieval during generative drawing, with posttests at 2 and 8 weeks; Table 1 lists the effect as "non-significant" and prints no effect size. The commentary does not say whether an equivalence test was run, so the result is a non-significant difference, not an established absence of effect.
 
 > "Kim et al. (2025) showed no benefits of retrieving knowledge when generating drawings in science classes independent of whether posttest performance was assessed either 2 or 8 weeks after the learning phase."
 

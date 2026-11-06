@@ -17,7 +17,7 @@ sources:
 # Menu of active-learning strategies deployed in case sessions, matched to curricular timing and objective level
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The authors implemented numerous in-session activities to make pharmacology engaging: "To make pharmacology more engaging, we implemented numerous active‐learning strategies in the collaborative, case‐based, in‐person sessions". Table 4 lists integrated concept maps (20 uses), mix-and-match activities (20), USMLE-style vignettes (60), workshops (2), mobile-device apps (2), and games/trivia (1). The authors advise strategic placement: matching activities early, vignettes and games later once students can integrate pharmacology with clinical disciplines.

@@ -43,7 +43,7 @@ The article explains its findings within skill acquisition theory (citing DeKeys
 - [On the immediate posttest of explicit L2 knowledge, direct CF and metalinguistic CF with rule explanations outperformed the control group while metalinguistic code CF did not.](../claims/cf-type-explicit-short-term-differences.md) [+W]
 - [Metalinguistic written CF was equivalent, not superior, to non-metalinguistic direct CF, contrasting with previous studies whose metalinguistic CF also contained correct forms.](../claims/metalinguistic-cf-equivalent-not-superior-to-direct.md) [+W]
 - [Applying skill theory to grammar conflates constructs: pedagogical rules are not what exists in learners' mental representation](../claims/grammar-as-skill-is-a-conflation.md) [-W]
-- [Declarative memory shows no association with regular past tense learning under any CF type](../claims/declarative-memory-null-regular-past-tense.md) [~W]
+- [Declarative memory was not a significant predictor of regular past tense learning under any CF type](../claims/declarative-memory-null-regular-past-tense.md) [~W]
 - [Procedural memory shows no association with irregular past tense learning under any CF type](../claims/procedural-memory-null-irregular-past-tense.md) [~W]
 
 ## Related Theories

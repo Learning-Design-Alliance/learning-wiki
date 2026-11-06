@@ -79,6 +79,6 @@ The third exploratory mixed-effects model in the randomized crossover study asse
 - [Affect Regulation](../learner-variables/affect-regulation.md) — outcome: measured as an outcome of the instruction studied
 
 ## Related Claims
-- [Bell-pacing significantly exacerbates reactive test anxiety compared to self-pacing during gross anatomy laboratory examinations.](bell-pacing-exacerbates-reactive-test-anxiety.md) — related
+- [Test anxiety rose significantly from pre- to post-exam under bell-pacing but not under self-pacing in gross anatomy laboratory examinations, though the pacing-by-timepoint interaction was marginally non-significant.](bell-pacing-exacerbates-reactive-test-anxiety.md) — related
 - [Examination performance is statistically equivalent between bell-paced and self-paced gross anatomy laboratory examinations among upper-year undergraduate students.](exam-performance-equivalent-bell-paced-self-paced-anatomy-lab.md) — related
 - [Students identifying as women reported higher levels of reactive test anxiety than students identifying as men, even after controlling for assigned pacing condition.](women-higher-reactive-test-anxiety-anatomy-lab.md) — related

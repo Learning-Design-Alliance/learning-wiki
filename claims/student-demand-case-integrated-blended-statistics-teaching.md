@@ -45,7 +45,7 @@ Descriptive survey results on demand for statistics education (N = 274) from sec
 
 
 ## Related Claims
-- [BOPPPS-based blended teaching produces significantly higher final examination and process assessment scores than traditional lecture-based teaching](boppps-higher-final-exam-process-assessment.md) — related
+- [In one nonrandomised quasi-experiment, a BOPPPS-based blended teaching class scored significantly higher on final examination and process assessment than a traditional lecture-based class](boppps-higher-final-exam-process-assessment.md) — related
 - [Students favored a blended instructional approach combining lectures with games or case studies rather than replacing lectures with games](students-favor-blended-lecture-game-approach.md) — a narrower finding that bears on this claim
 - [Integrated online-PBL-CBL teaching yields higher total theoretical examination scores than traditional lecture-based teaching in breast surgery education](online-pbl-cbl-higher-theoretical-exam-scores-breast-surgery.md) — related
 - [Stakeholders preferred integrated case-study teaching of medical conditions over compartmentalised module-by-module content](integrated-case-study-module-design-cep.md) — related

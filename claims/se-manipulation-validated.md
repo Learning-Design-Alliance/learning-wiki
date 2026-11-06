@@ -49,4 +49,4 @@ Manipulation check on the full dataset of 142 students using the questionnaire i
 - [The digital tutee's expressed self-efficacy did not affect students' attitude towards the tutee](agent-se-no-attitude-effect.md) — related
 - [Students teaching a digital tutee with low self-efficacy show better in-game math performance than students teaching a high self-efficacy tutee](low-se-tutee-better-in-game-performance.md) — related
 - [Similarity attraction was not supported for self-efficacy matching: matched students did not show a more positive attitude towards their tutee](similarity-attraction-not-supported-se-attitude.md) — related
-- [Low self-efficacy students significantly increased their self-efficacy when matched with a low self-efficacy tutee, but mismatched students did not](se-match-increases-low-se-students.md) — related
+- [Low self-efficacy students significantly increased their self-efficacy when matched with a low self-efficacy tutee and increased it less, not significantly, with a high self-efficacy tutee; the match-mismatch difference was not significant](se-match-increases-low-se-students.md) — related

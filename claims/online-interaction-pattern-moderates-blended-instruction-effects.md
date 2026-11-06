@@ -49,5 +49,5 @@ Moderator analysis grouping teacher-student online interactions into four patter
 - [Online teaching proportion significantly moderates effects, with 50% online composition yielding the largest effect (SMD = 0.792) and both extremes the smallest](fifty-percent-online-proportion-largest-blended-effect.md) — related
 - [LIWC analysis shows synchronous messages carry more social and emotional language while asynchronous notes carry more cognitive-processing language](liwc-social-emotional-cognitive-mode-differences.md) — related
 - [Synchronous private messages are shorter, easier to read, and use fewer academic words than asynchronous notes in dual-mode online courses](sync-messages-shorter-easier-less-academic-than-notes.md) — related
-- [Introductory face-to-face meetings are the dominant strategy for stimulating social interaction in blended learning](introductory-f2f-meeting-stimulates-interaction.md) — related
+- [Introductory face-to-face meetings were the most reported way of stimulating social interaction in reviewed blended-learning studies (6 of the 9 that reported on it)](introductory-f2f-meeting-stimulates-interaction.md) — related
 - [Teaching period significantly moderates blended instruction effects, with one to three months producing the largest effect (SMD = 0.845)](teaching-period-moderates-blended-instruction-effects.md) — related

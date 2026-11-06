@@ -50,6 +50,6 @@ Supplementary ML-SEM reported in footnote 3, adding Grade 7 perceived teacher en
 - [Interest](../learner-variables/interest.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Perceived teacher enthusiasm positively predicts student enjoyment at the within-class (individual student) level](enthusiasm-within-class-student-enjoyment.md) — related
+- [Perceived teacher enthusiasm is positively associated with student enjoyment at the within-class (individual student) level, beyond prior enjoyment](enthusiasm-within-class-student-enjoyment.md) — related
 - [Student-perceived teacher enthusiasm mediates the relationship between teacher enjoyment and student enjoyment](teacher-enthusiasm-mediation-enjoyment.md) — related
 - [Teacher enjoyment and student enjoyment in mathematics classrooms are positively related even after controlling for students' prior-year enjoyment](teacher-enjoyment-student-enjoyment-positive-link.md) — related

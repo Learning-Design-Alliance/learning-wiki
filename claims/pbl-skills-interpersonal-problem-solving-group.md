@@ -9,6 +9,7 @@ generated:
   at: 2026-10-02
 evidence_strength: moderate
 newest_evidence: 2013
+source_checked: 2026-11-06
 recheck_by: 2018
 sources:
   - id: murray-harvey-2013
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
+> **Currency** · newest study 2013 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2018**: baselines and conditions change
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
@@ -39,7 +40,7 @@ Murray-Harvey, R., Pourshafie, T., & Santos Reyes, W. (2013). What teacher educa
 
 `q2 · i?` · `qualitative · r2`
 
-Qualitative coding of the same 122 students' written PBL reflections. The results section reports that "The three discrete sub -categories that emerged from examination of students’ statements about Skills were: ‘Interpersonal (social) skills’, ‘Problem solving skills’ and ‘Group skills’.", with indicative statements summarised in Table 2.
+Qualitative coding of written PBL reflections from the 122 participating students: journal entries of 67 students (55%), Assignment 1 reports of 58 (about 48%) and Learning Evaluations of 46 (about 38%) that referred to PBL. The results section reports that "The three discrete sub -categories that emerged from examination of students’ statements about Skills were: ‘Interpersonal (social) skills’, ‘Problem solving skills’ and ‘Group skills’.", with indicative statements summarised in Table 2.
 
 > "The three discrete sub -categories that emerged from examination of students’ statements about Skills were: ‘Interpersonal (social) skills’, ‘Problem solving skills’ and ‘Group skills’."
 

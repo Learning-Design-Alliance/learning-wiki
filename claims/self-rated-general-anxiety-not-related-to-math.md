@@ -51,6 +51,6 @@ Null finding from the same path analysis (Model 1a) in 146 children; Table 3 sho
 - [Math anxiety in DD is specific to the math context and occurs in the absence of generalized anxiety](math-anxiety-specific-to-math-context-dd.md) — related
 - [Math anxiety's direct effect on math performance emerges in grade 4 but not grade 3, suggesting a developmental trajectory](math-anxiety-direct-effect-emerges-grade-4.md) — related
 - [Teacher-rated general anxiety negatively predicts concurrent and future math performance in third and fourth graders](teacher-rated-general-anxiety-predicts-math-performance.md) — related
-- [Math anxiety arises and relates to math performance already in early primary school (Grades 2-3)](math-anxiety-arises-early-primary-school.md) — related
+- [Math anxiety is present and relates to math performance already in early primary school (Grades 2-3)](math-anxiety-arises-early-primary-school.md) — related
 - [Observed anxiety expressions during challenging tasks predict lower teacher-rated work-related and self-regulation skills](observed-anxiety-predicts-lower-work-self-regulation.md) — related
 - [Verbal working memory directly and positively predicts math performance in grades 3 and 4](verbal-wm-predicts-math-grades-3-4.md) — related

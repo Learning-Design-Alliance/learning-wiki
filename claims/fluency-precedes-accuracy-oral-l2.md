@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Fluency can have a high effect on accuracy, whereas accuracy will not lead to fluency
-description: Fluency can have a high effect on accuracy, whereas accuracy will not lead to fluency
+title: One author argues, without testing it, that in oral L2 teaching fluency can have a high effect on accuracy whereas accuracy will not lead to fluency
+description: A qualitative synthesis and proposed lesson guide argues that in oral L2 teaching fluency can have a high effect on accuracy whereas accuracy will not lead to fluency; no study tested it
 id: fluency-precedes-accuracy-oral-l2
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 2
 ---
 
-# Fluency can have a high effect on accuracy, whereas accuracy will not lead to fluency
+# One author argues, without testing it, that in oral L2 teaching fluency can have a high effect on accuracy whereas accuracy will not lead to fluency
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
 > **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q1 i?` In oral SLA teaching, fluency supports accuracy, but accuracy-focused teaching does not lead to fluency. [→ Faramarz Samifanni 2020](#faramarz-samifanni-2020)
+`q1 i?` The author argues that in oral SLA teaching fluency can have a high effect on accuracy whereas accuracy will not lead to fluency; the article is a qualitative synthesis and proposed lesson guide, not a test of this. [→ Faramarz Samifanni 2020](#faramarz-samifanni-2020)
 
 ## Evidence
 
@@ -37,7 +37,7 @@ Faramarz Samifanni. (2020). The Fluency Way: A Functional Method for Oral Commun
 
 `q1 · i?` · `theoretical · r2`
 
-The author's interpretation in the section on the functional method for oral English proficiency, arguing that most SLA teachers bypass fluency and jump into teaching accuracy without due preparation.
+The author's interpretation in the section on the functional method for oral English proficiency, arguing that most SLA teachers bypass fluency and jump into teaching accuracy without due preparation. The article is a qualitative synthesis and a proposed lesson guide; it reports no experiment or measurement testing whether fluency work improves accuracy or whether accuracy-focused teaching fails to build fluency.
 
 > "here is where fluency can have a high effect on accuracy; whereas a ccuracy will not lead to fluency"
 

@@ -43,7 +43,7 @@ From the study's findings the authors recommend that "Classroom teachers should 
 
 ## Claims
 
-- [Fifth-grade students taught science through inquiry-based instruction supported by the 5E learning cycle achieved significantly higher post-test scores than students taught by traditional methods](../claims/5e-inquiry-higher-achievement-than-traditional.md) [+W]
+- [In a quasi-experiment with 40 fifth-grade girls in Kermanshah, Iran, those taught science through inquiry-based instruction supported by the 5E learning cycle achieved significantly higher post-test scores than those taught by traditional methods](../claims/5e-inquiry-higher-achievement-than-traditional.md) [+W]
 - [Descriptive post-test means favoured the 5E inquiry group (7.30 vs 6.35) over the traditional group](../claims/5e-study-descriptive-posttest-means.md) [+W]
 
 ## Related Strategies

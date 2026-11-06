@@ -66,7 +66,7 @@ Subdomain analysis of the Mini-CEX ratings found "significantly higher performan
 ## Related Claims
 - [AI-assisted CBL+FC residents show superior overall clinical competence on Mini-CEX compared with lecture controls](ai-assisted-cbl-fc-minicex-overall-competence.md) — related
 - [AI-Mentor pilot yields the largest gains in reasoning-aligned Mini-CEX domains, notably clinical judgment](ai-mentor-largest-gains-reasoning-domains.md) — related
-- [AI simulation improves Mini-CEX medical interviewing skills and organization/efficiency but not professionalism, clinical judgment, counseling, or overall competence](ai-simulated-patient-minicex-domains-gynecology.md) — related
+- [AI simulated-patient practice improved Mini-CEX medical interviewing and organization/efficiency scores, with no significant difference detected in professionalism, clinical judgment, counseling, or overall competence](ai-simulated-patient-minicex-domains-gynecology.md) — related
 - [PBL-DeepSeek students show higher Mini-CEX clinical competence across all seven domains than traditionally taught students](deepseek-pbl-minicex-clinical-gains.md) — related
 - [CCS training yields significantly greater post-clerkship Mini-CEX improvements than traditional training across all assessment domains](ccs-greater-post-clerkship-mini-cex-gains.md) — related
 - [SOM-PBL produces no significant improvement in procedural skills compared with traditional teaching](som-pbl-no-procedural-skills-gain.md) — related

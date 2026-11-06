@@ -1,7 +1,7 @@
 ---
 type: claim
-title: A multitask matrix factorization approach that jointly learns grades across multiple assessment labels outperforms a single-task (binary relevance) baseline that learns each label separately.
-description: A multitask matrix factorization approach that jointly learns grades across multiple assessment labels outperforms a single-task (binary relevance) baseline that learns each label separately.
+title: In peer-assessment data from three courses, a multitask matrix factorization approach that jointly learns grades across assessment labels had lower error than a single-task (binary relevance) baseline in 8 of 10 comparisons.
+description: In peer-assessment data from three courses, a multitask matrix factorization approach that jointly learns grades across assessment labels had lower error than a single-task (binary relevance) baseline in 8 of 10 comparisons.
 id: multitask-matrix-factorization-outperforms-single-task-baseline
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-30
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-06
 recheck_by: 2021
 sources:
   - id: luaces-2018
@@ -21,14 +22,14 @@ sources:
     rigour: 2
 ---
 
-# A multitask matrix factorization approach that jointly learns grades across multiple assessment labels outperforms a single-task (binary relevance) baseline that learns each label separately.
+# In peer-assessment data from three courses, a multitask matrix factorization approach that jointly learns grades across assessment labels had lower error than a single-task (binary relevance) baseline in 8 of 10 comparisons.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2021**: tool and model accuracy changes quickly
+> **Currency** · newest study 2018 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2021**: tool and model accuracy changes quickly
 
 ## Subclaims
-`q2 i?` A multitask matrix factorization approach that jointly learns grades across multiple assessment labels outperforms a single-task baseline that learns each label separately. [→ Luaces 2018](#luaces-2018)
+`q2 i?` A multitask matrix factorization approach that jointly learns grades across multiple assessment labels had a lower weighted error than a single-task baseline that learns each label separately in 8 of 10 train/test comparisons across three courses, but not in all of them. [→ Luaces 2018](#luaces-2018)
 
 ## Evidence
 
@@ -38,7 +39,7 @@ Luaces, O., Díez, J., & Bahamonde, A. (2018). A peer assessment method to provi
 
 `q2 · i?` · `design · r2`
 
-In experiments across three courses, the multitask approach, which learns grading patterns for all labels simultaneously, achieved better accuracy than a binary relevance baseline that learns a separate model per label.
+In train/test experiments on three courses' peer-assessment data (Accounting Information, Constitutional Law, Spanish Economy), the multitask approach, which learns grading patterns for all labels simultaneously, "outperforms the BR approach in most cases: multitask is better 8 out of 10 times" on weighted percentage error (Table 4; lower is better). It was worse at the 75-grader training size in Accounting Information (32.99% vs 31.03%) and the 25-grader size in Spanish Economy (49.78% vs 47.34%), and better in the other eight (e.g. Spanish Economy at 100: 33.79% vs 37.82%).
 
 > "We have presented a method that uses a multitask approach to search for grading patterns in all labels at the same time. Multitask leverages the accuracy of a baseline that successively focuses on each label separately."
 
