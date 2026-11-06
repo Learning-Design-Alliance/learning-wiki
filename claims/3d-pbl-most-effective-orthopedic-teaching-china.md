@@ -54,3 +54,4 @@ Bayesian network meta-analysis (R/JAGS, MCMC, random-effects) of 50 randomized c
 - [3D + PBL improves orthopedic skills in orthopedic education](3d-pbl-improves-orthopedic-skills.md) — related
 - [3D + PBL improves communication ability in orthopedic education](3d-pbl-improves-communication-ability-orthopedics.md) — related
 - [Postgraduates scored higher than undergraduates across outcomes but no between-group difference reached significance; undergraduates showed larger practical gains](vs-irrigation-subgroup-null-differences.md) — related
+- [Postgraduate medical students show higher interest, effort, and competency in statistics than undergraduates, yet both groups struggle to evaluate statistical methods in literature](postgraduate-undergraduate-statistics-competency-gap.md) — related

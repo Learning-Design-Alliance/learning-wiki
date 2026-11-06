@@ -48,7 +48,8 @@ In the conclusion the author recommends that curriculum designers and teachers "
 - [Talking story books significantly improved Saudi young EFL learners' understanding of talking-story-book content relative to the control group](../claims/talking-story-books-understanding-true-false.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Incorporate key factors of integral listening-speaking instruction into EFL program development and curriculum reviews](curriculum-reviews-incorporate-integral-listening-speaking-factors.md)
 
 ## Examples
 -

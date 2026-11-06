@@ -55,3 +55,4 @@ Thematic analysis of interviews with 15 CALD occupational therapy students. Part
 - [Language barriers impose internal translation, delayed responses and hesitation to speak for CALD students in simulation-based learning](language-barriers-delayed-translation-sbl.md) — related
 - [SBL enhances clinical skills and confidence in health professions students from CALD backgrounds](sbl-enhances-cald-student-clinical-skills-confidence.md) — related
 - [Group composition and educator cultural responsiveness shape CALD students' participation and sense of belonging in SBL](peer-educator-relationships-cald-sbl.md) — related
+- [Comparing CALD students to a non-CALD reference group on a scale developed in that reference population raises fundamental validity issues under a critical lens](cald-reference-population-validity-issue.md) — related

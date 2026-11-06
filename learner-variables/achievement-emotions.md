@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 235 claims (158 show a difference, 56 mixed, 21 no difference) · 141 studies (49 associational, 47 causal, 15 review, 11 qualitative, 10 theoretical, 7 design, 2 quant-synthesis), `q1`–`q4` · 34 of 141 report an effect size · 232 claims rest on one study
+> **Evidence** · 238 claims (161 show a difference, 56 mixed, 21 no difference) · 142 studies (50 associational, 47 causal, 15 review, 11 qualitative, 10 theoretical, 7 design, 2 quant-synthesis), `q1`–`q4` · 35 of 142 report an effect size · 235 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -270,6 +270,9 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Self-rated positive academic emotions (activity and outcome orientation) rose from pre-test to post-test after reflective diary writing, in one uncontrolled pre-post study among nursing students](../claims/reflective-diaries-increase-positive-academic-emotions.md) [+M] — measured as an outcome of the instruction studied
 - [In nursing students, self-rated scores for negative academic emotions (activity and outcome orientation) fell from pre-test to post-test after reflective diary writing in one single-group pre-post study](../claims/reflective-diaries-reduce-negative-academic-emotions.md) [+M] — measured as an outcome of the instruction studied
 - [English academic self-concept did not significantly moderate the association of social support with foreign language boredom](../claims/boredom-path-not-moderated-by-self-concept.md) [-W] — measured as an outcome of the instruction studied
+- [Online presence significantly positively predicts positive online academic emotions and significantly negatively predicts negative online academic emotions in blended learning](../claims/online-predicts-academic-emotions-blended.md) [+M] — measured as an outcome of the instruction studied
+- [Positive online academic emotions positively predict learning performance, and negative online academic emotions negatively predict it, in blended learning](../claims/online-academic-emotions-predict-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Positive-low arousal academic emotions (calmness and relaxation) partially mediate the relationship between online presence and learning performance](../claims/positive-low-arousal-emotions-partially-mediate-presence-performance.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

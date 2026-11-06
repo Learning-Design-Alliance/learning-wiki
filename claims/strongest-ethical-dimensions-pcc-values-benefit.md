@@ -48,3 +48,4 @@ Same cross-sectional survey of 397 nurses; results from the five separate logist
 - [All five NEBPPR ethical behaviour dimensions are independently associated with lower odds of less-than-high PCC competency in separate logistic regression models](nebppr-dimensions-lower-odds-less-than-high-pcc.md) — related
 - [Nurses who received patient rights education demonstrated significantly higher PCC competency scores](patient-rights-education-higher-pcc-competency.md) — related
 - [All NEBPPR subscales correlate positively with PCC competency subscales and total scores, strongest for NEBPPR Total and PCC Total](spearman-positive-correlations-nebppr-pcc.md) — related
+- [The framework prioritises a compassionate, respectful therapeutic relationship and addresses power imbalances with detained, marginalised patients](relationship-first-attitudes-in-inpatient-framework.md) — related

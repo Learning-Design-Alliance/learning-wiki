@@ -50,3 +50,4 @@ Exploratory post-training survey during a demonstration session with five final-
 - [The prototyping exercise promoted exchange of ideas for HLC development and enhanced a shared image of the HLC among team members](prototyping-exercise-promotes-idea-exchange-shared-image.md) — related
 - [Medical students and interns poorly identified pressure ulcer risk in a patient-safety simulation](poor-pressure-ulcer-risk-identification-room-of-horrors.md) — related
 - [A boundary crossing intervention led most interprofessional design team members to perceive a set of HLC design principles as useful for structuring knowledge and gaining an overview of HLC design](boundary-crossing-intervention-enhances-perceived-usefulness-design-principles.md) — related
+- [Knowledge gaps within interprofessional teams produced mostly positive psychological pressure during team learning](ofst-positive-pressure-team-learning.md) — related

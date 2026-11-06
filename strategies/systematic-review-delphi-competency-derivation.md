@@ -53,6 +53,7 @@ The article describes a novel methodological approach combining a mixed-methods 
 - [Use a two-round modified Delphi process with specialty Scientific Committees and a predefined consensus threshold to build national competency catalogs](modified-delphi-national-competency-catalog-strategy.md)
 - [Use a combined literature review, semi-structured expert interview, and two-round modified Delphi pipeline with AHP weighting to build context-specific competency indicator systems](delphi-ahp-competency-indicator-development-strategy.md)
 - [Use a two-phase modified Delphi approach with a purposive voting panel to prioritize competencies](two-phase-modified-delphi-competency-prioritization.md)
+- [Multistage consensus process combining nominal-group scope definition, two-stage blinded screening, a modified Delphi process with anonymous voting plus structured online discussion, and blinded categorisation](multistage-delphi-core-set-process.md)
 
 ## Examples
 -

@@ -91,3 +91,4 @@ Random-effects meta-analysis of 273 effect sizes from 162 independent samples (N
 - [Challenge state correlates positively with academic self-efficacy, resilience, grit, and growth mindset](challenge-state-correlates-noncognitive.md) — related
 - [Personal growth initiative moderates the growth mindset–academic performance link, with a steeper slope at high PGI](pgi-moderation-growth-mindset-performance.md) — a narrower finding that bears on this claim
 - [Bivariate correlations between math scores and growth mindsets were modest across countries and weaker than those with socioeconomic status](modest-mindset-math-correlations.md) — a narrower finding that bears on this claim
+- [Students' fixed mindsets in math positively predict test anxiety and negatively predict self-efficacy, persistence and achievement](student-fixed-mindset-predicts-math-motivation-outcomes.md) — related

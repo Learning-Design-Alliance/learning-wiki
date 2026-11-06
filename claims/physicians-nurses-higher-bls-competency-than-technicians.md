@@ -70,3 +70,4 @@ Multivariable linear regression for total BLS knowledge score. The article repor
 - [Healthcare professionals in tertiary hospitals had significantly higher odds of high knowledge-based BLS competency than those in primary hospitals.](tertiary-hospital-higher-bls-competency-than-primary.md) — related
 - [Interns have higher baseline paediatric BLS knowledge than nurses](interns-higher-baseline-bls-knowledge-than-nurses.md) — related
 - [Doctors outscore nurses on BLS knowledge/practice in Gaza hospitals](doctors-outscore-nurses-bls-gaza.md) — related
+- [ACLS knowledge and skill retention is poor, dropping below 40 percent in physicians and 14 percent in nurses at one year](acls-skill-retention-poor-one-year.md) — related

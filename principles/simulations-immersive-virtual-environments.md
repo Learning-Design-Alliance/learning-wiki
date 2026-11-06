@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 435 claims (255 for, 155 mixed, 25 against) · 271 studies (103 causal, 77 review, 39 quant-synthesis, 22 qualitative, 21 design, 8 theoretical, 1 associational), `q1`–`q4` · 56 of 271 report an effect size · 430 claims rest on one study
+> **Evidence** · 436 claims (256 for, 155 mixed, 25 against) · 272 studies (104 causal, 77 review, 39 quant-synthesis, 22 qualitative, 21 design, 8 theoretical, 1 associational), `q1`–`q4` · 56 of 272 report an effect size · 431 claims rest on one study
 
 ## Conditional relationship
 
@@ -433,6 +433,7 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Senior residents report engagement with simulation declines unless activities are highly realistic and tailored to advanced learning needs](../claims/senior-resident-engagement-declines-without-realism-yield.md) [+W] — attached 2026-11-06 from Roche Adam F. et al. (2025), which proposed "Calibrate simulation fidelity to learner stage using a blended curriculum of cadaveric and synthetic models".
 - [Nursing students' patient and injury assessment skills, including emotional, nutritional and history-taking items, rose from pre-test to post-test after clinical simulation in one uncontrolled pre-post study](../claims/simulation-improves-wound-patient-assessment-skills.md) [+M] — attached 2026-11-06 from Borges Francisca Edinária de Sousa; Pereira Francisco Gilberto Fernandes; de Aguiar Maria Isis Freire; Fernandes Bruna Karen Cavalcante; Machado Ana Larissa Gomes; Beserra Eveline Pinheiro; Caetano Joselany Áfio (2025), which proposed "Three-stage before-and-after simulation pattern with pre-briefing, briefing, round and debriefing phases"; tests this page's relationship.
 - [Clinical educators identify specific clinical skills—documentation, basic safety, manual handling, subjective assessment, and understanding the multidisciplinary team's role—as appropriate for instruction through simulation before placement.](../claims/sbe-suited-prerequisite-clinical-skills.md) [+W] — attached 2026-11-06 from Mulhall Claire M et al. (2025), which proposed "Schedule simulation-based education directly before clinical placement so prerequisite skills are at the forefront of students' minds".
+- [Basic skills acquired on the box trainer transferred to the VR system, but VR skills did not transfer to the box system](../claims/box-skills-transferred-to-vr-not-vice-versa.md) [+W] — attached 2026-11-06 from Hottmann NM (2025), which proposed "Prefer box training for novice laparoscopic curricula and combine box and VR systems multimodally"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

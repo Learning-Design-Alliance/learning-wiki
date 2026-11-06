@@ -58,6 +58,9 @@ Based on the review's findings that distress and burnout hinder performance whil
 - [Integrate structured stress-management and resilience-building supports into undergraduate nursing education](stress-management-resilience-in-nursing-curriculum.md)
 - [Institutional interventions on emotional regulation and learning strategies to mitigate digital hoarding's effects](emotional-regulation-learning-strategies-interventions-dh.md)
 - [Integrate emotional support and emotion-regulation components into coaching, mentoring and guided reflection during the teaching practicum](emotional-support-coaching-practicum-strategy.md)
+- [Integrate mindfulness training programs into nursing curricula to support focus, self-awareness, and emotional regulation](mindfulness-training-in-nursing-curricula-strategy.md)
+- [Combine active and experiential learning with coping-skill training, reflective practices, and peer support to address the emotional burden of palliative care education](palliative-coping-support-strategy.md)
+- [Foster deep learning approaches in teacher education through problem-based learning, peer mentoring, and self-efficacy training](pbl-mentoring-selfefficacy-teacher-candidates-strategy.md)
 
 ## Examples
 -

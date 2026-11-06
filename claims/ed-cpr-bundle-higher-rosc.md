@@ -52,3 +52,5 @@ The review reports this from a pre- and post-evaluation by Rolston et al. of an 
 - [In one included study, simulation-based team training in a trauma bay was followed by a 16 percent reduction in total resuscitation time and faster completion of primary surveys.](steinemann-resuscitation-time-reduction.md) — related
 - [Interventions combining core simulation with in-situ refreshers, visual prompts, and structured micro-debriefs more often reported larger or more durable behavioural improvements.](workflow-reinforcement-durable-behavioural-change.md) — related
 - [A systematic review found advanced life support course participation was associated with improved return of spontaneous circulation and a favourable signal for survival.](als-courses-associated-improved-rosa-survival-signal.md) — related
+- [Each minute of defibrillation delay decreases the likelihood of ROSC by 19 percent, per studies the article cites](defibrillation-delay-19-percent-rosc-decline.md) — related
+- [Epinephrine improves ROSC rates but its effect on survival to discharge remains inconclusive, per the cited reviews](epinephrine-rosc-benefit-survival-inconclusive.md) — related

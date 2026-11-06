@@ -52,3 +52,5 @@ Hierarchical regression (Model 6) in a three-wave study of 363 Chinese college s
 - [Critical thinking correlates positively with engagement and competence among Chinese college students](ct-engagement-competence-correlations.md) — related
 - [Critical thinking positively predicts academic engagement, an effect the authors grade as large](critical-thinking-predicts-academic-engagement.md) — related
 - [Academic engagement partially mediates the pathway from critical thinking to academic competence](academic-engagement-partially-mediates-ct-competence.md) — related
+- [Self-efficacy directly predicts critical thinking among university students](self-efficacy-predicts-critical-thinking.md) — related
+- [Academic achievement is directly predicted by self-regulation and critical thinking, with self-regulation the more influential predictor](self-regulation-critical-thinking-predict-achievement.md) — related

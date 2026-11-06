@@ -59,3 +59,4 @@ Descriptive statistics and bivariate correlations pooled across 10 plausible val
 - [Growth mindsets associate with higher US mathematics scores but slightly lower Chinese mathematics scores (country × mindset interaction)](mindset-math-association-reversed-china-us.md) — related
 - [Students' individual growth mindset is positively associated with their odds of being academically resilient in PISA 2018 data across 79 countries](cl-individual-growth-mindset-resilience.md) — related
 - [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](growth-mindset-achievement-correlation-weak.md) — a broader claim this one bears on
+- [Growth mindsets are positively associated with academic achievement, intrinsic motivation and academic engagement after controlling for covariates](growth-mindset-positive-association-learning-outcomes-pisa-2018.md) — related

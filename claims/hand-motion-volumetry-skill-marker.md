@@ -51,3 +51,4 @@ Descriptive/exploratory analysis of automatically recorded hand motion volumetry
 - [Console time decreased substantially with increasing surgical experience, with an estimated reduction of 33.2 min over the first 14 procedures](console-time-decreases-with-experience-versius.md) — related
 - [Surgeons achieved proficiency in Versius-assisted radical prostatectomy within 40 cases, with experienced surgeons reaching proficiency after 23 cases and novice surgeons after 37](versius-rp-proficiency-under-40-cases.md) — related
 - [Competition training produced significantly better arm-movement work habits, though the workspace-range clutch-pedal parameter itself showed no group difference](competition-better-arm-movement-habits.md) — related
+- [No significant correlation between RULA ergonomic score and surgical performance parameters in either expert or novice group](no-rula-performance-correlation-robust.md) — related

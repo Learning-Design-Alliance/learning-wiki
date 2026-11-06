@@ -56,3 +56,4 @@ RCT of 227 primary health care professionals comparing a VP game intervention to
 - [Game-based learning in a mental health nursing internship significantly improves nursing students' self-directed learning, with large within-group effects sustained at one-month follow-up](gbl-improves-self-directed-learning-nursing.md) — related
 - [Simulation-based CARE handover training produces a large increase in nurses' perceived handover competency from pretest to posttest](simulation-care-training-increases-perceived-handover-competency.md) — related
 - [VP training does not enhance knowledge about mental disorders](vp-training-no-knowledge-gains.md) — related
+- [Nursing students' and professionals' NIV knowledge rose from 82.2% correct preintervention to 90.2% postsimulation after a combined theoretical-practical and simulation-based intervention, in one uncontrolled pre-post study](niv-training-knowledge-gain-82-to-90-percent.md) — related

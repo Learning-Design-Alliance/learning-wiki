@@ -53,3 +53,4 @@ Single-group pre-post assessment of 18 fifth-year pharmacy students in the 565 3
 - [Students reported highest satisfaction with the feedback process in the CASP-based teaching format](satisfaction-feedback-process-casp-teaching.md) — related
 - [Students' self-assessed knowledge of RCT evaluation improved from 36.67% to 80.00% after CASP-based instruction](self-assessed-rct-knowledge-gains-casp.md) — related
 - [Students in a scaffolded LLM-collaboration course improved significantly on initial argument quality, prompt engineering, and response to AI feedback from the first to the fifth assignment](argumentative-writing-gains-scaffolded-llm-assignments.md) — a broader claim this one bears on
+- [Fifth-year hospital pharmacy students reported higher critical thinking and presentation skill gains than 3rd-year cardiovascular pharmacology students](journal-club-gains-vary-by-academic-year.md) — related

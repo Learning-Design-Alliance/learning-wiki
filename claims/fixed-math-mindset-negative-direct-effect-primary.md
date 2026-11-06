@@ -53,3 +53,4 @@ SEM results (Table 3) from 225 primary students: fixed mindset direct path "sign
 - [Growth math mindset positively predicts academic grit in primary students](growth-math-mindset-predicts-academic-grit.md) — related
 - [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](growth-mindset-achievement-correlation-weak.md) — related
 - [Grit mediates the relationship between growth mindset and mathematics achievement](grit-mediation-growth-mindset-math.md) — related
+- [Students' fixed mindsets in math positively predict test anxiety and negatively predict self-efficacy, persistence and achievement](student-fixed-mindset-predicts-math-motivation-outcomes.md) — related

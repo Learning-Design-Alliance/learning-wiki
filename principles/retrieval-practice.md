@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 155 claims (70 for, 75 mixed, 10 against) · 80 studies (40 causal, 16 review, 10 quant-synthesis, 6 theoretical, 5 associational, 3 qualitative), `q1`–`q4` · 24 of 80 report an effect size · 148 claims rest on one study
+> **Evidence** · 157 claims (71 for, 76 mixed, 10 against) · 81 studies (41 causal, 16 review, 10 quant-synthesis, 6 theoretical, 5 associational, 3 qualitative), `q1`–`q4` · 25 of 81 report an effect size · 150 claims rest on one study
 
 ## Conditional relationship
 
@@ -113,6 +113,8 @@ None at present. The sixteen restored claims were read on 2026-10-15; the eleven
 - [Regular low-stakes post-lecture testing produces higher final exam scores on tested than on non-tested material in undergraduate endodontics](../claims/testing-effect-endodontics-final-exam.md) [+W] — attached 2026-11-05 from Kalyva et al. (2026), which proposed "Integrate regular, low-stakes testing into endodontic and dental curricula to enhance learning outcomes"; tests this page's relationship.
 - [On a short-answer comprehension test, only multiple-choice practice, not true—false practice, significantly beat rereading (Experiment 2)](../claims/mc-only-beats-rereading-on-short-answer.md) [+M] — attached 2026-11-05 from Hildenbrand Lena; Wiley Jennifer (2025), which proposed "When using closed-ended practice tests to build comprehension, prefer multiple-choice inference questions over matched true—false items"; tests this page's relationship.
 - [Adding feedback to closed-ended practice tests yields no added comprehension benefit, while the multiple-choice advantage over true—false persists (Experiment 3)](../claims/feedback-no-added-benefit-mc-advantage-persists.md) [~M] — attached 2026-11-05 from Hildenbrand Lena; Wiley Jennifer (2025), which proposed "When using closed-ended practice tests to build comprehension, prefer multiple-choice inference questions over matched true—false items".
+- [The number of quiz questions (five vs. ten) does not moderate the improvement in exam performance](../claims/quiz-question-number-does-not-moderate-testing-effect.md) [~W] — attached 2026-11-06 from Glodowski et al. (2025), which proposed "Use relatively short quizzes to support college student success at a favorable cost-to-benefit ratio".
+- [Administering quizzes significantly improves college students' exam performance in a behavior-analytic course, replicating the testing effect](../claims/quizzes-improve-exam-performance-behavior-analytic-replication.md) [+W] — attached 2026-11-06 from Glodowski et al. (2025), which proposed "Use relatively short quizzes to support college student success at a favorable cost-to-benefit ratio"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

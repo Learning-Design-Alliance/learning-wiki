@@ -67,3 +67,4 @@ Meta-analysis of 28 studies comparing TBL and LBL final examination scores in me
 - [Integrated PBL and medical humanities teaching produced no significant between-group difference in post-intervention theoretical examination scores compared with LBL](integrated-pbl-humanities-no-difference-theoretical-scores.md) — reports the opposite
 - [PBL-DeepSeek students achieve higher theoretical examination scores than traditionally taught students in a glaucoma clerkship](deepseek-pbl-higher-theory-scores-glaucoma.md) — a narrower finding that bears on this claim
 - [The TBL cohort performed significantly better than both previous PBL cohorts on both progress tests.](tbl-cohort-better-progress-tests-than-pbl.md) — a narrower finding that bears on this claim
+- [Medical statistics teaching in Chinese medical schools is dominated by large-class lecture-based instruction with limited practical training](lecture-dominated-statistics-teaching-limited-practicals.md) — related

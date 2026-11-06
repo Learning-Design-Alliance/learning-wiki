@@ -69,3 +69,4 @@ Null finding from the same MANCOVA (Table 6): the self-innovativeness difference
 - [Teachers' self-innovativeness significantly affects DL self-efficacy and DL teaching practices both directly and indirectly via accountability and self-efficacy](self-innovativeness-drives-dl-efficacy-and-practices.md) — related
 - [Teachers' DL self-efficacy shows the strongest direct effect on their DL teaching practices](dl-self-efficacy-predicts-dl-teaching-practices.md) — related
 - [Teachers rated fostering student engagement as the most difficult DL teaching practice, below class management and teaching strategies](student-engagement-hardest-dl-practice.md) — related
+- [Professional development is perceived as key to bolstering faculty self-efficacy for innovative teaching](professional-development-bolsters-self-efficacy.md) — related

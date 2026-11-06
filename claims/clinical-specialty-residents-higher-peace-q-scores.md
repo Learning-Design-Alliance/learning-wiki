@@ -49,3 +49,4 @@ Cross-sectional comparison among the 63 test-retest residents, classified as cli
 - [Medical residents scored below 70% on 10 of 33 PEACE-Q Br items, concentrated in the Oncologic Pain and Opioid Side Effects domains](residents-below-70-percent-pain-opioid-items.md) — related
 - [Residents with three or more years of training outperformed first-two-year residents in the Opioid Side Effects domain, but not overall](senior-residents-better-opioid-side-effects-domain.md) — related
 - [The Brazilian Portuguese PEACE-Q (PEACE-Q Br) shows acceptable internal consistency (KR-20 = 0.60) and moderate test-retest reliability (ICC = 0.71) among medical residents](peace-q-br-acceptable-consistency-moderate-reliability.md) — related
+- [Subspecialty research assistants scored significantly higher on the SCAS than main-specialty assistants, and basic medical sciences scored higher than surgical branches](scas-scores-subspecialty-and-branch-differences.md) — related

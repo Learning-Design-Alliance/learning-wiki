@@ -59,3 +59,4 @@ Pre- and post-workshop survey study of 79 regulated allied health professionals 
 - [Faculty preparedness gaps and psychometric subjectivity are key barriers to implementing OHL-Mini-CEX](ohl-mini-cex-implementation-barriers.md) — related
 - [A competency-based multiactor emergency preparedness training curriculum improved cognitive knowledge, self-assessed skill, and scenario performance after video debriefing](competency-based-multiactor-ept-improved-performance.md) — related
 - [After a peer-led workshop, the proportion of students classified as high knowledge rose from 41.9% at pre-test to 86.0% at post-test in one uncontrolled pre-post study](knowledge-category-shift-after-peer-led-workshop.md) — related
+- [Self-rated self-efficacy did not change from pre-test to post-test among medical and nursing clinicians but changed among allied health and psychology clinicians, in one uncontrolled pre-post study](self-efficacy-gains-vary-by-profession.md) — related

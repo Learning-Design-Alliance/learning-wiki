@@ -47,6 +47,7 @@ The authors recommend that, following refinement, the e-learning program be embe
 - [Adopt a blended learning design combining interactive multimedia CD-ROM modules, printed booklets, and web-based discussion forums and activities with occasional face-to-face support](blended-cd-print-web-design-strategy.md)
 - [Integrate expert-narrated videos as pre-session material within a blended neuroangiography curriculum combining case-based learning, discussion, and simulation practice](blended-video-neuroangiography-curriculum.md)
 - [Optimize e-learning platform usability and provide technical support to maximize engagement across diverse nursing staff groups](elearning-usability-technical-support-strategy.md)
+- [Blend repeated in-person education with digital reinforcement tools such as quizzes, video reviews and mobile reminders](digital-reinforcement-blended-repeated-education.md)
 
 ## Examples
 -

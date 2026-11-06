@@ -48,3 +48,4 @@ Narrative review statement in which the review attributes to prior work the find
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — reports the opposite
 - [RIDE instruction increases some transformative discovery activities and overall regulative discovery activity, with effects limited to specific activities](ride-instruction-increases-some-discovery-activities.md) — related
 - [RIDE instruction shows no direct effect on discovery learning results (SWLE or domain knowledge posttest)](ride-instruction-no-direct-effect-learning-results.md) — related
+- [Challenges that impede learners' progress can spur them to think and act agentially in their learning](challenges-spur-agentic-learning.md) — a narrower finding that bears on this claim

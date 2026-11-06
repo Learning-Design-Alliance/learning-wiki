@@ -59,3 +59,4 @@ Post-studying Likert reflection in the pilot trial. Visualization agreement was 
 - [Both groups reported difficulty translating their study resource to donor-image-based test questions, but textbook-image students reported this more often](translatability-difficulty-both-groups-textbook-more.md) — related
 - [Postgraduate aesthetic medicine trainees overwhelmingly rate a 3D simulation app as visually similar to 2D models and superior for understanding the 3D structure of facial aging](3d-simulation-app-facial-aging-visualization-perceptions.md) — related
 - [IMR-SS trainees report greater confidence, training satisfaction, and usability than digital-textbook trainees](imr-ss-greater-satisfaction-confidence.md) — related
+- [Most students (98.60%) reported AR-assisted learning improved understanding of 3D anatomy and fostered clinical thinking](ar-obgy-3d-understanding-clinical-thinking-perceptions.md) — related

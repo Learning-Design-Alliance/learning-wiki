@@ -57,3 +57,4 @@ The review's introduction states, citing prior studies, that "their skills deter
 - [Bronchoscopy manipulation skills may decay over time, necessitating periodic practice to maintain proficiency](bronchoscopy-skill-decay-periodic-practice.md) — a broader claim this one bears on
 - [Learning advantages of AI-assisted peer teaching persist at 3-month follow-up](ai-assisted-peer-teaching-retention-3-month.md) — related
 - [Nurses trained with simulation showed higher skill retention at 3 months than nurses trained with video-based instruction (exploratory)](simulation-higher-skill-retention-nurses-exploratory.md) — related
+- [In one single-group pre-post study with no comparison group, emergency physicians' rTEE assessment scores fell from full proficiency (32/32) to 19/32, a 41% decay, after six months without practice or clinical use following proficiency-based simulation training](rtee-41-percent-decay-six-months.md) — a narrower finding that bears on this claim

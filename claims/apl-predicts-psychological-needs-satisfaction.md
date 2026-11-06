@@ -56,3 +56,4 @@ Structural model assessment in a cross-sectional survey of 327 Chinese universit
 - [Perceived Competence, Intrinsic Motivation, and Psychological Safety each significantly positively predict Deep Revision Engagement](psychological-mediators-predict-deep-revision.md) — related
 - [AI literacy directly and positively predicts learning engagement among university students](ai-literacy-predicts-learning-engagement.md) — related
 - [Dual Empowerment positively predicts affective, motivational, and cognitive mediating processes](dual-empowerment-predicts-psychological-mediators.md) — related
+- [Intrinsic and extrinsic motivation directly predict university students' self-efficacy, with intrinsic motivation the far stronger predictor](motivation-predicts-self-efficacy-university-path-model.md) — related

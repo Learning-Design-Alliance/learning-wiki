@@ -48,3 +48,4 @@ Preference item from the 144-student pilot survey; one response missing. The art
 - [RAT was preferred over PowerPoint-based lectures across all nine comparative pedagogical domains, ranging from 55.3% (self-paced learning) to 84.0% (curriculum integration)](rat-preferred-over-powerpoint-all-nine-domains.md) — related
 - [After hands-on use, 96% of students wanted AIDA in their studies, with the quiz function the most liked feature](aida-post-use-96-percent-quiz-most-liked.md) — related
 - [Pre-class tests motivated 80.5% of neuroanatomy students to prepare more thoroughly for class](pre-class-tests-motivate-neuroanatomy-preparation.md) — related
+- [Students preferred post-class AR-assisted learning over pre-class use (73.68% vs. 26.32%)](ar-obgy-post-class-preference.md) — related

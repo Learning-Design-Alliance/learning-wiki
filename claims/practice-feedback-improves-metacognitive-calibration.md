@@ -53,3 +53,4 @@ Study 2 measured calibration by the difference between actual and predicted post
 - [Practice with feedback—either correct-answer or explanatory—produces better memory than lecture, in both multiple-choice and open-ended formats](practice-feedback-memory-beats-lecture.md) — related
 - [Without feedback, more practice-test participation predicts lower specificity (worse detection of incorrect answers); with corrective feedback this negative relation disappears](practice-test-specificity-negative-without-feedback.md) — related
 - [Students were often overconfident about their understanding of how to give peer feedback after chatbot instruction](chatbot-peer-feedback-overconfidence.md) — related
+- [Peer calibration during TBL acts as both an enabler and a deterrent to medical students' self-confidence](peer-calibration-tbl-confidence-enabler-deterrent.md) — related

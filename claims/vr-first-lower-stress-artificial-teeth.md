@@ -51,3 +51,4 @@ Visual analog scale stress ratings at four phases in the randomized two-group st
 - [Female students report higher stress than male students during hands-on artificial-tooth training, despite comparable performance](female-higher-stress-hands-on-training.md) — related
 - [VR simulator practice reduces critical errors in cavity preparation more than conventional practice alone](vr-simulator-reduces-critical-errors-dental.md) — related
 - [Self-reported stress before the final simulation was lower in the mental imagery group but not significantly](mental-imagery-lower-stress-vas-not-significant.md) — related
+- [Only 3.7% of respondents reported exposure to VR or AR in school learning, while cavity preparation training and video demonstration predominated](minimal-vr-ar-exposure-dental-education.md) — related

@@ -77,3 +77,4 @@ The review's challenges analysis states that CST research shows positive short-t
 - [CST interventions underpinned by conversation analysis show improved interactional outcomes in neurology, psychiatry and aphasia settings](ca-informed-cst-interventions-improve-interaction.md) — related
 - [Role play in CST is reported to increase empathy and provide safe practice, but students note artificiality and poor acting authenticity](role-play-benefits-and-artificiality-cst.md) — related
 - [Communication skills training improves clinician communication behaviors and confidence in goals-of-care conversations, with effects varying by skill and measure](gopc-training-improves-clinician-communication.md) — related
+- [Clinicians reported their largest perceived practice changes in providing hope, setting aside time for questions and acknowledging feelings](perceived-practice-change-hope-and-feelings.md) — related

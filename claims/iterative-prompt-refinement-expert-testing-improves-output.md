@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: bahammam-fahad-bds-2026
     resource: "https://doi.org/10.2196/91021"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The favorable performance of the SVPs may be partly attributable to system prompts developed through iterative prompt-refinement and validated by 3 independent experts. [→ BaHammam Fahad BDS 2026](#bahammam-fahad-bds-2026)

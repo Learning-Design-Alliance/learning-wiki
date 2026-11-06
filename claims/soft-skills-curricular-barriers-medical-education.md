@@ -83,3 +83,4 @@ The review's second barrier category states institutions "may lack the necessary
 - [Systemic, cultural and resource barriers—patient availability, gender and consent constraints, faculty shortages and exam-focused study—impede clinical learning in the studied LMIC setting](lmic-systemic-barriers-clinical-teaching.md) — related
 - [The most frequently mentioned barrier to implementing RaT curricula is balancing workload on faculty and residents](rat-implementation-barriers-workload.md) — related
 - [Faculty report that treatment workload and revenue priorities in Iranian teaching hospitals overshadow teaching, and that faculty teaching performance is not monitored or rewarded.](education-service-integration-poor-iran.md) — related
+- [Faculty identify administrative workload as a primary barrier to intrinsic motivation and teaching innovation](administrative-workload-barrier-faculty-innovation.md) — related

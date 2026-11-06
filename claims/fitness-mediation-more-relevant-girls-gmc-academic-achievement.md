@@ -49,3 +49,4 @@ Sex-specific serial multiple mediation analysis in a cross-sectional study of 29
 - [Fitness and executive function partially mediate the relationship between gross motor competence and academic achievement in schoolchildren aged 9-11](fitness-and-executive-function-partially-mediate-gmc-academic-achievement.md) — related
 - [Speed and agility show very weak-to-weak positive associations with mathematics performance, with strong review-level evidence](speed-agility-positive-mathematics-association.md) — related
 - [Gross motor competence is positively associated with academic achievement in schoolchildren](gmc-positively-associated-academic-achievement-schoolchildren.md) — a broader claim this one bears on
+- [Mental health difficulties partially mediate (8–25%) the association between cardiorespiratory fitness and academic performance in children](mental-health-partially-mediates-crf-academic-performance.md) — related

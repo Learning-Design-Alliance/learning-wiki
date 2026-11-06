@@ -47,3 +47,4 @@ Analysis of school-level averages from the Illinois ACT policy-change estimates 
 
 ## Related Claims
 - [Using observed mean test scores in place of latent means understates between-school variation but is otherwise unlikely to mislead](observed-means-understate-between-school-variation.md) — related
+- [Among admitted students selected via multiple compensating criteria, high-school GPA and admission test scores show no significant correlation, unlike among all test-takers](compensating-selection-decoupling-gpa-test-correlation.md) — related

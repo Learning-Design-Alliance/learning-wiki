@@ -51,3 +51,4 @@ Prospective quasi-randomized cluster study of 54 fourth-year medical students (3
 - [3D visualisation training outperformed traditional teaching on exam outcomes and clinical practice assessment (Shao et al.)](shao-3d-imaging-outperformed-traditional.md) — related
 - [E-modules improved first-year medical students' psychomotor (OSCE manipulation) performance compared with lectures alone](e-modules-improve-psychomotor-osce-performance.md) — related
 - [Blended learning (virtual flipped classroom plus demonstration) achieves higher laboratory OSPE scores than traditional lectures in practical immunohematology training](blended-learning-higher-laboratory-ospe-immunohematology.md) — related
+- [Blended learning produces higher posttest medication dosage calculation scores than video-based e-learning alone among paramedic students](bl-beats-vbl-mdc-posttest-paramedic.md) — a narrower finding that bears on this claim

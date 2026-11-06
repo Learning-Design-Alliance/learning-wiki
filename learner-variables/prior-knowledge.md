@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 261 claims (150 show a difference, 72 mixed, 39 no difference) · 209 studies (78 causal, 35 associational, 34 review, 24 theoretical, 18 design, 11 quant-synthesis, 9 qualitative), `q1`–`q4` · 34 of 209 report an effect size · 244 claims rest on one study
+> **Evidence** · 264 claims (153 show a difference, 72 mixed, 39 no difference) · 211 studies (79 causal, 36 associational, 34 review, 24 theoretical, 18 design, 11 quant-synthesis, 9 qualitative), `q1`–`q4` · 34 of 211 report an effect size · 247 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -309,6 +309,9 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Novices take significantly longer than experts to complete a total laparoscopic hysterectomy on the MaiSurge model (an 85.3% increase in operating time)](../claims/maisurge-experts-novices-operating-time.md) [+M] — learners who differ on it differ in outcomes
 - [Experts respond faster than novices on clinical decision-making cases](../claims/experts-faster-response-times-clinical-cases.md) [+M] — learners who differ on it differ in outcomes
 - [None of five background predictors (gender, age, years since education, self-assessed knowledge, continuing education) significantly predicted dentists' overall proportion of correct answers](../claims/no-predictor-significant-overall-correct-answers.md) [-M] — learners who differ on it differ in outcomes
+- [Expert robotic surgeons show significantly lower (better) RULA ergonomic scores than novices during real-life robotic pulmonary vessel dissection](../claims/experts-lower-rula-scores-than-novices-robust.md) [+M] — learners who differ on it differ in outcomes
+- [Novices reported higher temporal demand, performance, and frustration on NASA-TLX subscales than experts during peg transfer training](../claims/novices-higher-tlx-temporal-demand-performance-frustration.md) [+M] — learners who differ on it differ in outcomes
+- [Novices spent on average 8.04% of training time attending to the mixed-reality feedback screen](../claims/novices-attend-feedback-screen-8-percent.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

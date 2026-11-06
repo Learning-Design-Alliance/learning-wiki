@@ -74,3 +74,4 @@ Meta-analysis of 24 studies comparing theoretical exam scores between FC and LBL
 - [Flipped and blended learning shows mixed effectiveness in diabetes education, dependent on learner preparation and integration with experiential practice](flipped-blended-mixed-preparation-dependent.md) — related
 - [Students rated OSCEai favourably compared to lecture-based teaching methods (4.14/5, P < 0.0001)](osceai-favoured-over-lecture-teaching.md) — related
 - [Students perceived flipped learning as aiding exam preparation and knowledge retention through in-class discussions](fl-inclass-discussions-exam-retention-nursing.md) — related
+- [Medical statistics teaching in Chinese medical schools is dominated by large-class lecture-based instruction with limited practical training](lecture-dominated-statistics-teaching-limited-practicals.md) — related

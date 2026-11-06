@@ -48,3 +48,4 @@ Null findings from the 1,000-participant ANOVA survey (Table 3 reports gender F 
 - [No statistically significant associations between overall VHV competency classification and any demographic or occupational variable examined](vhv-competency-not-differentiated-by-demographics.md) — related
 - [SDL readiness among nurses shows no significant correlation with age, gender, academic status, or marital status](sdl-readiness-no-demographic-correlations.md) — related
 - [Volunteering experience significantly influences competency needs, with the least-experienced volunteers reporting the greatest needs](volunteering-experience-influences-older-volunteer-needs.md) — related
+- [Marital status and time for family commitment show significant associations with competency, while gender, educational level and working hours do not](marital-family-time-significant-gender-education-not.md) — related

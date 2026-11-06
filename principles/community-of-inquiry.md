@@ -18,7 +18,7 @@ sources:
 # Community of Inquiry
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (9 for, 12 mixed, 1 against) · 26 studies (6 causal, 5 review, 4 qualitative, 3 quant-synthesis, 3 associational, 3 design, 2 theoretical), `q1`–`q4` · 3 of 26 report an effect size · 19 claims rest on one study
+> **Evidence** · 23 claims (10 for, 12 mixed, 1 against) · 27 studies (6 causal, 5 review, 4 associational, 4 qualitative, 3 quant-synthesis, 3 design, 2 theoretical), `q1`–`q4` · 3 of 27 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 
@@ -96,6 +96,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract)
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](../claims/self-monitoring-improves-self-regulation.md) [~M] — not settled: the text available could not confirm the entries (abstract)
+- [Teaching, social, and cognitive presence each significantly positively predict learning performance in blended learning](../claims/three-presences-predict-performance-blended.md) [+W] — attached 2026-11-06 from Li Xingqiao; Ye Yinghua (2025), which proposed "In blended course design, instructors should foster online presence to raise positive-low arousal emotions and thereby improve learning performance".
 
 ## Objective and learner-valued goal
 

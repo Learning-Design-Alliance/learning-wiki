@@ -48,3 +48,5 @@ Results section, Grasping analysis of the randomized study (box trainer group n=
 - [VR simulator training produced the largest gains on the VR-simulator post-test, outperforming box trainer, serious game, and control groups on the complex Clip Applying task](vr-training-largest-gains-complex-laparoscopic-tasks.md) — related
 - [A moulded rubber TEP box trainer programme produced higher composite operative scores (P = 0.01) and suggested transfer of skills to real operations](box-trainer-tep-transfer-operative-practice.md) — related
 - [Serious game training improved basic laparoscopic skills but showed limited transfer to complex tasks, failing to reach significance on Clip Applying overall performance](serious-game-limited-transfer-complex-tasks.md) — related
+- [Basic skills acquired on the box trainer transferred to the VR system, but VR skills did not transfer to the box system](box-skills-transferred-to-vr-not-vice-versa.md) — related
+- [Neither box nor VR training led to significant improvement in simulated surgical (gastropexy) task performance](neither-program-improved-simulated-surgical-task.md) — related

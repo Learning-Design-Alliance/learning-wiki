@@ -54,6 +54,7 @@ The article recommends that system developers and LA researchers incorporating L
 - [Human-in-the-loop instructor control as a design direction for adaptive learning systems](human-in-loop-instructor-realtime-adaptive-control.md)
 - [Incorporate pre-delivery LLM-based evaluation approaches into GenAI-powered personalised SRL scaffolding systems to mitigate hallucinations](pre-delivery-llm-evaluation-mitigate-hallucinations.md)
 - [Implement targeted error-mitigation strategies—expert-reviewed benchmark validation, clinician oversight, and continuous updating—when using LLMs in neurosurgical education](llm-error-mitigation-strategies-neurosurgical-education.md)
+- [Incorporate student feedback loops so AI assessment systems improve accuracy and guide learning](student-feedback-loops-ai-assessment.md)
 
 ## Examples
 -

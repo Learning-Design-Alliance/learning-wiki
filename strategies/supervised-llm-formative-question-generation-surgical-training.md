@@ -56,6 +56,7 @@ The article supports a cautious educational role for LLMs in postgraduate surgic
 - [Future work should evaluate LLM performance on Part B, viva-style and clinical scenario assessments and study effects on trainee learning outcomes](future-llm-evaluation-part-b-viva-learning-outcomes.md)
 - [Integrate AI chatbots into dental education as supervised supplementary tools for exam preparation and formative self-assessment](supervised-chatbot-supplementary-dental-education.md)
 - [Use LLMs as faculty-supervised adjuncts for automated MCQ pretesting and formative feedback](llm-faculty-supervised-mcq-pretesting-feedback.md)
+- [Implement hybrid AI-generation with expert calibration for examination production](hybrid-ai-generation-expert-calibration-strategy.md)
 
 ## Examples
 -

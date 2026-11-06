@@ -49,6 +49,7 @@ Because engagement declined steeply after initially high levels, the article rec
 - [Sustain educational interventions throughout development and evaluate long-term rather than short-term efficacy](sustained-interventions-throughout-development.md)
 - [Integrate mandatory, longitudinal mental health literacy, self-care and reflective practice curricula throughout medical education rather than as isolated end-of-programme options.](longitudinal-mental-health-curriculum-medical-education.md)
 - [Embed brief experiential wellness activities longitudinally within existing health professions curricula](embed-longitudinal-experiential-wellness-activities.md)
+- [Implement student-support mechanisms and embed well-being in the medical curriculum to sustain strength of motivation](student-support-mechanisms-sustain-motivation.md)
 
 ## Examples
 -

@@ -49,3 +49,5 @@ Narrative review attributing this to Lockey, Lin and Cheng's systematic review a
 - [For life support skills education, two of three studies showed no significant EL–TL difference while one study favoured e-learning for basic life support (P < 0.0001)](el-tl-life-support-mixed-results.md) — related
 - [Since 2021, advanced life support is no longer a mandatory requirement of the UK Foundation Programme, and preparedness now depends on local opportunity rather than a national threshold.](als-removed-mandatory-foundation-programme-2021.md) — related
 - [Participant seniority moderates the benefit of HF simulation: residents and third/fourth-year students benefit, first-year students do not](participant-seniority-moderates-hf-benefit.md) — related
+- [Each minute of defibrillation delay decreases the likelihood of ROSC by 19 percent, per studies the article cites](defibrillation-delay-19-percent-rosc-decline.md) — related
+- [Epinephrine improves ROSC rates but its effect on survival to discharge remains inconclusive, per the cited reviews](epinephrine-rosc-benefit-survival-inconclusive.md) — related

@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 293 claims (210 show a difference, 53 mixed, 30 no difference) · 189 studies (65 associational, 52 causal, 32 review, 14 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 42 of 189 report an effect size · 285 claims rest on one study
+> **Evidence** · 295 claims (212 show a difference, 53 mixed, 30 no difference) · 191 studies (66 associational, 53 causal, 32 review, 14 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 43 of 191 report an effect size · 287 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -333,6 +333,8 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Cognitive test anxiety mediates the negative association between smartphone addiction and academic achievement, and was the strongest mediator](../claims/cognitive-test-anxiety-mediation-smartphone-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [Prior teaching experience relates to lower anxiety and higher control appraisals, while coaching by a trained cooperating teacher relates to higher anxiety](../claims/prior-experience-lower-anxiety-coaching-higher-anxiety.md) [~M] — measured as an outcome of the instruction studied
 - [State anxiety measured before the OSCE decreased after completing the test in both cohorts, suggesting exam-related rather than persistent anxiety](../claims/state-anxiety-decreases-after-osce.md) [+M] — measured as an outcome of the instruction studied
+- [Class-level math test anxiety unexpectedly related positively to class-level math achievement](../claims/class-level-test-anxiety-positive-achievement-unexpected.md) [+M] — learners who differ on it differ in outcomes
+- [Personal simulations are perceived to substantially develop interns' communication skills, including empathy, listening, and coping with patient resistance](../claims/personal-simulations-develop-communication-skills.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

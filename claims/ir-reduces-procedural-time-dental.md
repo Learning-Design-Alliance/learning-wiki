@@ -55,3 +55,5 @@ In the review's synthesis of procedural-time outcomes, Philip et al.'s pilot stu
 - [Haptic simulator trials more frequently show superior accuracy outcomes when force-feedback and structured guidance are included](haptic-simulator-force-feedback-accuracy-gains.md) — related
 - [No significant differences found between virtual reality training and simulation training in GOALS scores or time to completion](vrt-versus-st-no-significant-difference.md) — related
 - [VR simulation training reduced learning time and improved procedure accuracy in African and UK studies](vr-training-learning-curve-reductions.md) — related
+- [Students who began training with HVRS completed the subsequent laboratory pulpotomy task faster than those who began with the conventional model, suggesting transfer of procedural fluency](hvrs-first-faster-lab-drilling-time.md) — related
+- [Evidence on the pedagogical effectiveness of haptic training in dentistry is sparse, with a recent review finding most of 36 included studies were cross-sectional with short-term evaluation data](paucity-haptic-dental-training-evidence.md) — related

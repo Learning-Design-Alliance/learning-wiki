@@ -66,3 +66,4 @@ Qualitative open-ended responses from 28 honours students (56% return rate) were
 - [The authors conclude that in a telecollaborative environment students feel freer to explore, discuss and add more ideas and write longer texts](telecollaborative-environment-freer-exploration-longer-texts.md) — related
 - [Without teamwork supports, lack of trust creates individualistic learning and withdrawal; a low-key norming intervention improved teamwork through psychological safety](cbl-teamwork-supports-psychological-safety.md) — related
 - [The near-peer structure of the track was perceived to create a psychologically safe learning environment that facilitated peer teaching.](pedagogical-internship-track-near-peer-safety.md) — related
+- [Collaborative social dynamics in learning groups enable agentic learning by making challenges a shared responsibility](collective-social-dynamics-enable-agentic-learning.md) — related

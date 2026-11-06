@@ -86,3 +86,4 @@ Bootstrap mediation (5000 resamples) for negative academic emotions. The article
 - [Teacher autonomy support, compared with a controlling style, increases students' autonomy need satisfaction, autonomous motivation and positive academic emotions and lowers negative emotions in a simulated one-to-one teaching session](autonomy-support-raises-motivation-and-positive-emotions.md) — related
 - [Student perceptions of autonomy support, structure, and involvement positively predict student self-determination, mediated by autonomy and competence need satisfaction](student-perceived-strategies-predict-sdi.md) — related
 - [Positive academic emotions mediate most of the association between autonomy-supportive teaching and agentic engagement](pae-mediate-ast-agentic-engagement.md) — related
+- [Self-efficacy partially mediates the relationship between autonomous motivation and innovative teaching](self-efficacy-partially-mediates-motivation-innovation.md) — related

@@ -45,6 +45,7 @@ The article recommends that educational institutions strengthen teacher confiden
 - [Treat refusal diagnostically and provide non-AI pathways where AI use is not essential to the learning outcome](non-ai-pathways-and-diagnostic-refusal.md)
 - [Integrate structured opportunities for critical engagement with AI into teacher education programs](structured-critical-ai-engagement-teacher-education.md)
 - [Sustain technology integration through ongoing professional development, technical support, and sharing of best practices](sustained-institutional-support-digital-pedagogy.md)
+- [Multi-component institutional support to encourage specialty trainees' research engagement](multicomponent-support-encourage-trainee-research.md)
 
 ## Examples
 -

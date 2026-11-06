@@ -58,3 +58,4 @@ Same assessor-blinded RCT of 50 clinical medical students. Critical thinking was
 - [PBL combined with 3D-VRT produced higher practical operation scores than traditional teaching in trauma orthopaedics education](pbl-3d-vrt-higher-practical-operation-scores.md) — related
 - [Students taught with PBL combined with 3D-VRT rated teaching methods higher than students taught traditionally](pbl-3d-vrt-higher-student-teaching-evaluations.md) — related
 - [PBL teaching produced significantly higher post-intervention critical thinking ability scores than traditional teaching among nursing interns (P = 0.002)](pbl-higher-critical-thinking-nursing-interns.md) — related
+- [Clinical medicine students showed the largest score gap, 89.88 versus 68.34, between virtual-simulation and control groups](clinical-medicine-largest-virtual-simulation-score-gap.md) — related

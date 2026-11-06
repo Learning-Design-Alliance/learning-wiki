@@ -54,3 +54,4 @@ Classification accuracy results in Tables 2.9 and 2.10 for the primary and secon
 - Classification threshold trades sensitivity against specificity: 0.30 yields 91.3% sensitivity, 0.60 yields 89.7% specificity — related
 - [Only four screeners demonstrated acceptable diagnostic accuracy for distinguishing children with or at-risk of mathematical learning difficulties](four-screeners-acceptable-diagnostic-accuracy.md) — related
 - [The Rasch assessment model demonstrates high discriminative performance with area under the curve of 0.93](rasch-model-high-discriminative-performance.md) — related
+- [A SCAS cut-off score of 92 distinguishes research assistants participating in at least one publication or project, with AUC 0.669](scas-cut-off-92-roc-auc-0669.md) — related

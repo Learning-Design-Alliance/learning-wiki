@@ -51,3 +51,4 @@ Descriptive survey finding from Questionnaire Part 3 (Table 3) on barriers to ar
 - [The hybrid combination of extracted teeth, artificial teeth and phantom models contributes more to technical clinical perception than other training model combinations (p < 0.001)](hybrid-endodontic-model-contributes-most-to-technical-perception.md) — related
 - [Participants trained with simulated models and phantom bodies in addition to extracted teeth reported better understanding and practice of endodontics (P < 0.001)](simulative-models-better-understanding-practice.md) — related
 - [Artificial teeth group students were more concerned with ethical and biohazard aspects than natural teeth group students](atg-students-ethical-biohazard-concerns.md) — related
+- [Respondents most commonly called for reducing didactic teaching and increasing training on pulp and periodontal conditions](didactic-overload-periodontal-curriculum-gaps.md) — related

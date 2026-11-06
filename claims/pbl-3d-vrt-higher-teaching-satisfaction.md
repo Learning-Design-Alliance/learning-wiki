@@ -50,3 +50,4 @@ Results section of the RCT, using a self-developed satisfaction questionnaire (C
 - [Students taught with PBL combined with 3D-VRT rated teaching methods higher than students taught traditionally](pbl-3d-vrt-higher-student-teaching-evaluations.md) — related
 - [In the same RCT, the experimental group reported higher scores than the control group across all five dimensions of teaching satisfaction (all P < 0.05)](pbl-virtual-simulation-satisfaction-all-dimensions-trauma-orthopedics.md) — related
 - [Residents taught with integrated 3D visualization and PBL report higher teaching satisfaction across most survey items](3d-visualization-pbl-higher-satisfaction-pcc.md) — related
+- [The 3D-printed PBL group outperformed the traditional PBL group on operative skill assessments including incision design, columella deformity improvement, and upper lip symmetry](3d-printed-pbl-outperformed-operative-skills.md) — related

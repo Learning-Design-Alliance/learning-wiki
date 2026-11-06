@@ -51,6 +51,7 @@ The article states that "porcine models should represent the final step of a gra
 - [Integrate virtual reality training as an adjunct into surgical training curricula for junior trainees](integrate-vrt-adjunct-surgical-curricula.md)
 - [Sequence laparoscopic training from box trainers and simulators with preset proficiency benchmarks before cadaver training](simulator-benchmarks-before-cadaver-training.md)
 - [Adapt the progressive laparoscopic program to resource-limited settings by grouping trainees per animal, expanding lower-cost ex vivo practice, and retaining core box trainer and VR modules](resource-adaptive-laparoscopic-training-strategy.md)
+- [Supervised, low-intensity graduated surgical training before a trainee's first complete vitrectomy](supervised-graduated-ppv-training-before-first-complete-vitrectomy.md)
 
 ## Examples
 -

@@ -44,6 +44,7 @@ The authors recommend deploying generative AI feedback in writing instruction in
 
 - [Integrate ChatGPT as a feedback resource alongside peer feedback for essay writing in higher education](integrate-chatgpt-with-peer-feedback-essays.md)
 - [Provide iterative sequential feedback on note writing starting in pre-clinical years](iterative-note-feedback-pre-clinical-years.md)
+- [Incorporate student feedback loops so AI assessment systems improve accuracy and guide learning](student-feedback-loops-ai-assessment.md)
 
 ## Examples
 -

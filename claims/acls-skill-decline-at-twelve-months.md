@@ -72,3 +72,4 @@ Descriptive trends in CPR and defibrillation initiation times across the follow-
 - [The largest 12-month between-group difference in ALS performance is in non-technical skills, favouring low-dose high-frequency training](ldhf-als-largest-gain-non-technical-skills.md) — related
 - [Checklist-assessed clinical performance was significantly higher at the six-month POST assessment than at the initial PRE assessment across all six simulation scenarios](simulation-checklist-gains-six-months.md) — related
 - [Mental imagery training showed no significant difference in technical skills (ACAT1) between the groups](mental-imagery-no-technical-skills-difference-acat1.md) — related
+- [One-time educational interventions show transient effects, with knowledge and performance declining within months of initial training](one-time-education-transient-effects-infection-control.md) — related

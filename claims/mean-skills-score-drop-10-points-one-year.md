@@ -51,3 +51,4 @@ Paired t-test comparing baseline and one-year OSCE scores among the same 226 pro
 - [Neonatal resuscitation knowledge and skills deteriorate significantly in the months following NRP certification](nrp-knowledge-skills-decay-months-after-certification.md) — related
 - [Skills decay occurred across most participant categories but was not significant for providers with less than one year of work experience, and more-experienced providers decayed more](experience-pattern-skills-decay-one-year.md) — related
 - [Providers' hands-on resuscitation skills (OSCE B) scores declined significantly from immediately post-training to 4 and 9 months after training in one uncontrolled pre-post study](osce-b-skills-decline-after-training.md) — related
+- [ACLS knowledge and skill retention is poor, dropping below 40 percent in physicians and 14 percent in nurses at one year](acls-skill-retention-poor-one-year.md) — related

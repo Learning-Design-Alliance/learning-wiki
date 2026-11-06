@@ -49,3 +49,4 @@ Baseline comparison in the randomized trial (Table 2, n = 10 per group) using in
 - [Mental status scores did not differ statistically between the CPOAL and control groups after standardized training, though the CPOAL group's mean was higher](cpoal-mental-status-no-statistical-variance.md) — related
 - [A three-month CPOAL pre-training program before standardized training yields significantly higher post-training scores in cooperative ability, resilience, and good character than standardized training alone](cpoal-pretraining-raises-cooperation-resilience-character.md) — related
 - [After standardized training, the CPOAL group showed a significant decrease in insight and independent thinking while the control group showed a significant decrease in resilience](post-training-within-group-score-decreases.md) — related
+- [The two training groups did not differ significantly in any flight task at baseline](baseline-equivalence-flight-tasks.md) — related

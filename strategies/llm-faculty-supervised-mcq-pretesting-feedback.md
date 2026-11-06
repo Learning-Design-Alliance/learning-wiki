@@ -58,6 +58,7 @@ The article recommends guarded, faculty-supervised use of LLMs as adjuncts to MC
 - [Use LLMs in supervised settings to generate formative question variants and structured self-assessments for surgical trainees, while guarding against knowledge miscalibration.](supervised-llm-formative-question-generation-surgical-training.md)
 - [Integrate generative-AI-vulnerable take-home tasks into supervised or in-class settings and use student-generated MCQs in peer-testing or formative assessment](supervised-settings-and-peer-testing-for-generation-tasks.md)
 - [Use controlled feedback mechanisms in chatbot-based exam practice to promote critical thinking and iterative learning](controlled-feedback-chatbot-exam-practice.md)
+- [Implement hybrid AI-generation with expert calibration for examination production](hybrid-ai-generation-expert-calibration-strategy.md)
 
 ## Examples
 -

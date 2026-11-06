@@ -48,3 +48,4 @@ This is the authors' interpretation in the Discussion of their RCT design, not a
 - [By week 3 the VR group caught up with the control group with no significant difference in thoracentesis scores](vr-catches-up-by-week-3.md) — related
 - [VR-based training leads to significantly higher final thoracentesis procedural scores than traditional mannequin-based training in medical interns](vr-training-improves-thoracentesis-final-scores.md) — related
 - [VR-enhanced basic robotic skills training sometimes required more training repetitions than conventional training to reach equivalent proficiency](vr-training-more-repetitions-to-proficiency.md) — related
+- [Students most often credit the virtual system with enhanced safety (90.8%), unlimited repetition (79.6%), and cost reduction (74.6%)](student-perceived-advantages-safety-repetition-cost.md) — related

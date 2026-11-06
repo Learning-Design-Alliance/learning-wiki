@@ -55,3 +55,4 @@ Pre-post evaluation of a 2-hour weekly elective EBM course (case studies, proble
 - [Game-based learning improved pharmacy students' literature searching course scores in one reported study](game-based-learning-improves-literature-searching-scores-pharmacy.md) — related
 - [Self-reported preparedness and familiarity rose by an average of 75% from before to after peer-led SMA clinical outcome assessment workshops among 79 Canadian clinical evaluators, in an uncontrolled pre-post survey](sma-coa-workshops-75-percent-preparedness-increase.md) — related
 - [Intervention group achieved significantly higher post-intervention total EBM scores than control group (13.11 vs 10.12)](intervention-group-higher-post-test-total-ebm.md) — related
+- [Fifth-year hospital pharmacy students reported higher critical thinking and presentation skill gains than 3rd-year cardiovascular pharmacology students](journal-club-gains-vary-by-academic-year.md) — related

@@ -51,6 +51,8 @@ The article proposes blended learning as a response to the logistical challenges
 - [Use multiagent virtual patient frameworks as scalable, customizable alternatives to standardized patients in clinical communication training](multiagent-vp-alternative-to-standardized-patients.md)
 - [Use facilitated interactive video as a scalable BLS training adjunct when simulation capacity is limited](facilitated-video-adjunct-when-simulation-capacity-limited.md)
 - [Combine medical movies, MOOCs, and simulation with co-debriefing as a scalable multimodal approach to stress and burnout education](multimodal-movies-moocs-simbie-codebriefing-strategy.md)
+- [Reform medical statistics teaching through blended, case-based, tiered instruction with diversified competency-based assessment](blended-case-based-tiered-statistics-teaching-reform.md)
+- [Use a practical role-play unit with standardized drama patients plus an online theory module for one-time communication training](drama-patient-roleplay-communication-training-strategy.md)
 
 ## Examples
 -

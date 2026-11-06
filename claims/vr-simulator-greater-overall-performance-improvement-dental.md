@@ -51,3 +51,4 @@ A randomized case-control study of 55 third-year dental students found that "The
 - [VR simulator practice reduces critical errors in cavity preparation more than conventional practice alone](vr-simulator-reduces-critical-errors-dental.md) — a narrower finding that bears on this claim
 - [Dental students who train on a VR haptic simulator before artificial-teeth practice score higher on preclinical access cavity preparation and self-assessment than students who practice on artificial teeth first](vr-first-higher-preclinical-dexterity-scores.md) — related
 - [Preclinical HVRS training significantly improves endodontic access cavity preparation scores on real patients](hvrs-training-improves-access-cavity-scores.md) — related
+- [Only 3.7% of respondents reported exposure to VR or AR in school learning, while cavity preparation training and video demonstration predominated](minimal-vr-ar-exposure-dental-education.md) — related

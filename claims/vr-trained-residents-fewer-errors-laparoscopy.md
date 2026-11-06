@@ -49,3 +49,4 @@ The review reports a randomized controlled trial comparing VR-trained and non-VR
 - [Virtual reality training improves OSATS scores compared with no additional training for junior trainees in laparoscopic cholecystectomy](vrt-improves-osats-versus-nat-laparoscopic-cholecystectomy.md) — related
 - [VR simulator training produced the largest gains on the VR-simulator post-test, outperforming box trainer, serious game, and control groups on the complex Clip Applying task](vr-training-largest-gains-complex-laparoscopic-tasks.md) — related
 - [Simulation-based training translates laparoscopic surgical skills to the operating room](simulation-training-translates-laparoscopic-skills-to-or.md) — a broader claim this one bears on
+- [The VR group required longer total training time and fewer calendar days than the box group](vr-group-longer-training-time-fewer-days.md) — related

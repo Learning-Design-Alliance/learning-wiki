@@ -51,6 +51,7 @@ To increase the effectiveness of mentorship, the article recommends that mentors
 - [Build structured feedback mechanisms, explicit team formation and clear workload expectations into active learning environments in public health education](structured-feedback-team-formation-workload-expectations.md)
 - [Program-leader recommendations for strengthening teacher apprenticeship experiences](rtap-program-leader-recommendations.md)
 - [Pair EBP lectures and practice with facilitator mentorship and consultation](facilitator-mentorship-in-ebp-training.md)
+- [Multi-component institutional support to encourage specialty trainees' research engagement](multicomponent-support-encourage-trainee-research.md)
 
 ## Examples
 -

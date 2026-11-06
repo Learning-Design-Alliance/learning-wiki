@@ -58,3 +58,4 @@ Social validity data collected at posttest from intervention teachers using a si
 - [All participants were satisfied with VR training, and most preferred combined instructor-led plus VR instruction and did not believe VR could replace instructor-led explanation](post-training-perceptions-combined-instruction-preferred.md) — related
 - [Participants were highly satisfied with the workshop and all would recommend it to colleagues](bronchoscopy-workshop-high-satisfaction.md) — related
 - [Nursing students reported high satisfaction and usability for the clinical-skills app, with all respondents satisfied and recommending it](nursing-app-high-satisfaction-usability.md) — related
+- [Students perceived the journal club skills as useful for future careers and reported high satisfaction and willingness to recommend the activity](journal-club-perceptions-satisfaction-future-use.md) — related

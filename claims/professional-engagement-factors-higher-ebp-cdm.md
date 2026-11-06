@@ -51,3 +51,4 @@ Univariate comparisons in the 387-nurse survey (Table 3); e.g., research-experie
 - [Higher education, research involvement, and following scientific publications positively predict nurses' EBP competence](education-research-publications-predict-ebp-competence.md) — related
 - [Nurses' EBP competence is strongly positively correlated with their clinical decision-making skills](ebp-competence-correlates-cdm-nurses.md) — related
 - [Shift work and working 48 hours or more per week are associated with lower EBP competence and clinical decision-making](shift-work-long-hours-lower-ebp-cdm.md) — related
+- [Most surveyed research assistants lacked original research publications, and about half reported sufficient foreign language proficiency for scientific literature](research-assistants-low-publication-foreign-language-profile.md) — related

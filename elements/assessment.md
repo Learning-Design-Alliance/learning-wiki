@@ -18,7 +18,7 @@ sources:
 # Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 31 claims (15 for, 13 mixed, 3 against) · 31 studies (8 causal, 8 review, 6 quant-synthesis, 5 design, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 6 of 31 report an effect size · 29 claims rest on one study
+> **Evidence** · 32 claims (16 for, 13 mixed, 3 against) · 32 studies (9 causal, 8 review, 6 quant-synthesis, 5 design, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 6 of 32 report an effect size · 30 claims rest on one study
 
 ## Description
 Assessment is the structured collection of evidence about learner understanding, performance, or progress for the purposes of feedback, decision making, grading, or revision.
@@ -82,6 +82,7 @@ Assessment is the structured collection of evidence about learner understanding,
 - [Teaching-related, novice personal, patient-related and feedback-related factors affected mini-CEX and DOPS implementation efficacy](../claims/mini-cex-dops-multifactor-efficacy.md) [~W]
 - [Educators perceived mini-CEX and DOPS as giving a more accurate representation of novice nurses' clinical abilities than written examinations](../claims/mini-cex-dops-true-reflection-abilities.md) [+W]
 - [Humanistic care-integrated Mini-CEX teaching improves humanistic care ability across cognition, courage, and patience dimensions](../claims/mini-cex-humanistic-care-ability-gains.md) [+W]
+- [Course tutors rated the intervention group significantly better on four parameters, but could not assess more complex skills](../claims/course-tutors-rate-intervention-group-better.md) [+W] — attached 2026-11-06 from Zöll Lisa et al. (2025), which proposed "360° evaluation of communication competence combining student self-assessment with ratings by treatment partners, course tutors and patients".
 
 ## The evidence by question
 - *Does using assessment evidence during instruction raise achievement compared with the usual teaching?* [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+S]

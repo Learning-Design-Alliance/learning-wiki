@@ -46,6 +46,7 @@ The article recommends that institutions supporting teaching-focused faculty wit
 ## Related Strategies
 
 - [Increase SoTL recognition through individual, organizational, and field-level efforts: institutional entrepreneurs, hiring and socialization, and clearer SoTL definitions](strategies-increase-sotl-institutional-recognition.md)
+- [Multi-component institutional support to encourage specialty trainees' research engagement](multicomponent-support-encourage-trainee-research.md)
 
 ## Examples
 -

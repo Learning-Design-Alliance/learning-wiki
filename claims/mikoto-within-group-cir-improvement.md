@@ -48,3 +48,4 @@ Prespecified secondary analysis of pre- to post-training change in the cluster-r
 - [ACE tool assessments showed significant group-by-period interactions favoring the mikoto group on selected insertion-related items, interpreted as exploratory](mikoto-ace-exploratory-interactions.md) — related
 - [Self-directed mikoto simulator training did not produce a statistically significant between-group difference in post-training cecal intubation rate versus standard training](mikoto-simulator-no-between-group-cir-difference.md) — related
 - [Cecal intubation time decreased significantly within the mikoto group but not between groups](mikoto-within-group-cit-reduction.md) — related
+- [Cecal intubation rate did not differ significantly between AI-trained and conventionally trained endoscopists](cade-training-cir-no-significant-difference.md) — related

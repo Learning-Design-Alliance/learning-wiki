@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 408 claims (269 show a difference, 96 mixed, 43 no difference) · 292 studies (101 associational, 100 causal, 42 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 7 design), `q1`–`q4` · 80 of 292 report an effect size · 396 claims rest on one study
+> **Evidence** · 412 claims (273 show a difference, 96 mixed, 43 no difference) · 294 studies (103 associational, 100 causal, 42 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 7 design), `q1`–`q4` · 80 of 294 report an effect size · 400 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -458,6 +458,10 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Student-reported enthusiastic teaching behaviours relate positively to students' interest directly after the lesson when controlling for prior interest](../claims/enthusiastic-teaching-post-lesson-interest.md) [+M] — measured as an outcome of the instruction studied
 - [Students' interest directly after the lesson is positively related to their interest six weeks later](../claims/post-lesson-interest-predicts-six-week-interest.md) [+M] — learners who differ on it differ in outcomes
 - [TSESE, NVI and enthusiastic teaching show no significant direct or longitudinal effects on student interest once baseline interest is controlled](../claims/no-direct-effects-on-interest-controlling-baseline.md) [-M] — measured as an outcome of the instruction studied
+- [Extrinsic motivation correlates weakly with self-regulation, critical thinking, and achievement compared with intrinsic motivation](../claims/extrinsic-motivation-weak-correlations-higher-order-outcomes.md) [+M] — learners who differ on it differ in outcomes
+- [Faculty autonomous motivation positively predicts teacher self-efficacy in Chinese higher education](../claims/autonomous-motivation-predicts-self-efficacy-chinese-faculty.md) [+M] — learners who differ on it differ in outcomes
+- [Intrinsic and extrinsic motivation directly predict university students' self-efficacy, with intrinsic motivation the far stronger predictor](../claims/motivation-predicts-self-efficacy-university-path-model.md) [+M] — learners who differ on it differ in outcomes
+- [Self-regulation is directly predicted by self-efficacy, critical thinking, and intrinsic motivation](../claims/self-regulation-predicted-by-efficacy-thinking-motivation.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

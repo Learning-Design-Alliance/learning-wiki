@@ -59,3 +59,4 @@ Simple-effects analyses within each group across pre-training, post-training, an
 - [Knowledge gains declined significantly from post-training to 3-month follow-up while remaining above baseline](pr-knowledge-decline-at-3-months-above-baseline.md) — reports the opposite
 - [The G-Jump group maintained and slightly improved its mean score from post-test to two-week follow-up, showing better short-term retention than the other groups](gjump-sustained-retention-follow-up.md) — related
 - [Both reflection methods showed good memory retention over two months in large lecture cohorts](both-reflection-methods-good-retention-two-months.md) — related
+- [ICU nurses' MDRO infection control knowledge scores rose from baseline to 2 weeks and remained elevated at 3 months in a one-group pre-post study of repeated education](repeated-education-increased-mdro-knowledge-icu-nurses.md) — related

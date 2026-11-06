@@ -107,3 +107,4 @@ Participant quotation (FG 10, P 4) illustrating the emotional risk common to bot
 - [IVR can engage learners who feel exposed or intimidated in mannequin-based simulation, while debriefers' own gaming preconceptions shape their engagement](ivr-engages-learners-intimidated-by-mannequin-simulation.md) — related
 - [IVR's animated, novel environment can act as a safe zone easing speaking up about mistakes, but recording and occluded vision can threaten psychological safety](ivr-psychological-safety-safe-zone-and-threats.md) — related
 - [Learner reactions to IVR technical aspects consume more debriefing time than in mannequin-based simulation; debriefers suggest allocating dedicated feedback channels](ivr-technical-discussions-consume-debriefing-time.md) — related
+- [Upholding professional credibility under peers' scrutiny is an enabler of agentic learning](professional-credibility-enables-agentic-learning.md) — related

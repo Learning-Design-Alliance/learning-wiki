@@ -51,3 +51,4 @@ In a prospective, multicenter, registry-based pragmatic clinical trial of 5013 c
 - [No upskilling or deskilling was observed after CADe exposure regardless of experience level](no-upskilling-or-deskilling-after-cade-exposure.md) — related
 - [Endoscopist-level analysis showed mixed individual changes with no group-level upskilling or deskilling trend](endoscopist-level-mixed-changes-no-group-trend.md) — related
 - [Patient sex, age, and colonoscopy indication significantly affected PDR-5 across all endoscopist groups](sex-age-indication-affect-pdr5.md) — related
+- [AI-trained endoscopists had longer withdrawal times (0.8 min longer) and higher odds of high-quality withdrawal time, though WT data quality was low](cade-training-longer-withdrawal-time.md) — related

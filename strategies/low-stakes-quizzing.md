@@ -93,6 +93,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [Design clicker questions as multiple choice, starting with simple factual review questions and ending with application problems](clicker-multiple-choice-question-design-sequence.md)
 - [Use weekly formative quizzes during EFL listening instruction to support achievement and reduce anxiety](weekly-formative-quizzes-efl-listening-instruction.md)
 - [Use closed-book pre-class specimen quizzes as retrieval practice to activate prior anatomical knowledge](pre-class-specimen-quiz-retrieval-strategy.md)
+- [Program announced, graded fill-in-the-blank quizzes with immediate in-class answer-key review](announced-graded-quiz-answer-key-review-strategy.md)
 
 ## Examples
 - **[Retrieval Practice](https://www.retrievalpractice.org)** (Agarwal & Bain) — classroom guides and research summaries for implementing low stakes quizzing across K–12 subjects.

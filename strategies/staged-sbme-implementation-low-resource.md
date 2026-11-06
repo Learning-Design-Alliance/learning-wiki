@@ -48,6 +48,7 @@ A staged implementation strategy for simulation-based medical education in finan
 - [Tiered certification tracks with regional simulation hubs, mobile units, and shared access to avoid excluding resource-limited centres](tiered-certification-regional-hubs-strategy.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Scaffolded curricular progression: peer-designed collaborative simulation early, transitioning to individual encounters with professional standardized patients and then real patients](scaffolded-collaborative-to-individual-simulation-progression.md)
+- [Multi-source funding model to remove trainee financial barriers to robotic training](deanery-industry-funded-robotic-training-access-strategy.md)
 
 ## Examples
 -

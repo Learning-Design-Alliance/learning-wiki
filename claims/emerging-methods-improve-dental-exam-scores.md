@@ -76,3 +76,4 @@ Meta-analysis of 29 randomized controlled trials including 3502 dental students,
 - [AI-assisted CBL+FC residents significantly outperform lecture-based controls on post-course theoretical knowledge tests](ai-assisted-cbl-fc-higher-theoretical-scores.md) — a narrower finding that bears on this claim
 - [AI-assisted CBL+FC residents achieve higher OSCE total scores than lecture controls, driven by history collection and physical examination stations](ai-assisted-cbl-fc-osce-total-scores.md) — a narrower finding that bears on this claim
 - [No significant difference between CBL-FC and LBL groups in theoretical knowledge after intervention](cbl-fc-no-gain-theoretical-knowledge.md) — reports the opposite
+- [PBL combined with SP yields higher practical exam and overall scores than LBL combined with SP in orthopedic resident training](pbl-sp-higher-practical-overall-exam-scores-orthopedic-residents.md) — related

@@ -68,3 +68,4 @@ In the same split-plot ANOVA on time difference scores, the training method × a
 - [Preclinical dental students improve significantly in tooth volume loss, procedural error scores, and task completion time after either VR or phantom head training](pre-post-improvement-vr-ph-endodontics.md) — related
 - [Conservative access cavity preparation removes significantly less tooth structure than traditional access cavity preparation regardless of training method](consac-reduces-tooth-volume-loss.md) — related
 - [VR training produces statistically comparable performance outcomes to phantom head training in minimally invasive endodontics (no significant main effect of training method)](vr-comparable-phantom-head-training-endodontics.md) — related
+- [Only 3.7% of respondents reported exposure to VR or AR in school learning, while cavity preparation training and video demonstration predominated](minimal-vr-ar-exposure-dental-education.md) — related

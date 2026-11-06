@@ -55,3 +55,4 @@ Multilevel logit regression (model 1) on PISA 2018 data, resilience coded binary
 - [Growth mindset is associated with better PISA performance across SES levels, but appears less beneficial at low SES and advantaged students still achieve better outcomes](mindset-benefit-weaker-at-low-ses.md) — related
 - [Growth mindset mediates only a small share (about 2.9–3.2%) of the effect of SES on academic achievement across 73 countries](growth-mindset-mediation-of-ses-effect-small-pisa-2022.md) — related
 - [Bivariate correlations between math scores and growth mindsets were modest across countries and weaker than those with socioeconomic status](modest-mindset-math-correlations.md) — related
+- [Growth mindsets are positively associated with academic achievement, intrinsic motivation and academic engagement after controlling for covariates](growth-mindset-positive-association-learning-outcomes-pisa-2018.md) — a narrower finding that bears on this claim

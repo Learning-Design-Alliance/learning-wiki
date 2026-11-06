@@ -53,3 +53,4 @@ Latent profile analysis (two-to-ten class models, five-class solution retained o
 - [Including control and value variables substantially reduced the effects of student- and class-level achievement on enjoyment, consistent with control-value theory](control-value-variables-reduce-achievement-enjoyment-effects.md) — related
 - [Latent profile analysis of 12-year-old twins identifies five distinct profiles of math achievement, numerosity, and math anxiety](five-latent-profiles-math-achievement-numerosity-anxiety.md) — related
 - [Unsupervised clustering of individual learning curves identifies seven distinct learner profiles whose proportions shift with target geometry](seven-learner-profiles-soft-dtw-clustering.md) — related
+- [Intrinsic value showed the closest alignment with enjoyment and boredom across profiles and appeared protective against anxiety when control was lower than value](intrinsic-value-aligned-enjoyment-boredom.md) — related

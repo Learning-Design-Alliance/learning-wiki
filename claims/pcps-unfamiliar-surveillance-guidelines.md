@@ -49,3 +49,4 @@ Review synthesis of three studies assessing guideline awareness; in two, "only 9
 - [Most PCPs report inadequate formal survivorship training (up to 72%) and a desire for education, especially on physical effects (76–86%)](pcp-inadequate-training-education-needs.md) — related
 - [PCPs report stronger skills in detecting cancer recurrences (62–78%) than confidence to screen for recurrence (6–42%)](pcp-recurrence-detection-knowledge-confidence-gap.md) — related
 - [Qualitative studies consistently describe PCPs' lack of knowledge for survivorship care, with confidence depending on experience, sex, and survivor population](qualitative-pcp-lack-of-knowledge-moderators.md) — a broader claim this one bears on
+- [Lack of guidelines and lack of training are the most frequently identified barriers to DCM assessment and diagnosis](dcm-barriers-guidelines-and-training.md) — related

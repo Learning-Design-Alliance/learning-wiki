@@ -55,3 +55,4 @@ Qualitative thematic analysis of open-ended survey responses from both cohorts t
 - [Students specifically praised the app's original visual materials as pedagogically helpful and ethnically inclusive](inclusive-visual-materials-praised.md) — related
 - [Qualitative feedback grouped enhancement suggestions into valued aspects, platform changes, and changes to the red flags training](qualitative-feedback-three-categories-red-flag-training.md) — related
 - [Attendees reported that interactive quizzes during the workshops reinforced their understanding of anatomy concepts](quizzes-reinforce-anatomy-understanding-perceived.md) — related
+- [Students' top perceived advantage of AR was clearer, more intuitive and vivid presentation (56.14%)](ar-obgy-top-advantage-vividness.md) — related

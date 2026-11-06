@@ -72,3 +72,4 @@ Subset analysis of classroom-management talk in the five video sessions (Table 1
 - [School membership and time of recording showed negligible association with dialogue measures](school-and-timing-effects-on-dialogue-negligible.md) — related
 - [Despite longer AI-led sessions, the proportion of student-generated dialogue was markedly and significantly lower with the AI than with the teacher in both grades](ai-conversational-dominance-lower-student-contribution.md) — related
 - [Discussion forum questions posted by online learners rose steadily across the five days and were all answered by mentors](discussion-forum-questions-rose-all-answered.md) — related
+- [During the debrief, most students reported noticing wrong turns but very few spoke up, illustrating authoritative bias, bandwagon effect and halo effect first-hand](deliberate-getting-lost-evoked-biases-first-hand.md) — related

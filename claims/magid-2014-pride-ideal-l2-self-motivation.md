@@ -54,3 +54,4 @@ Focus group interview with all experimental-group participants in the final work
 - [Participants in the experimental group held positive attitudes toward contemplative and transformative L2 instruction](positive-attitudes-contemplative-instruction.md) — related
 - [University learners of Italian in two surveys report ideal-self motivation rather than instrumental motivation; a contrast with their teachers' view is reported but not confirmed in the text read.](italian-l2-motivation-is-ideal-self-not-instrumental.md) — related
 - [Writing action plans increased interest and effort in learning English among all experimental-group participants](magid-2014-action-plans-effort.md) — related
+- [Physically implementing newly created knowledge in simulation evokes an embodied experience that consolidates learning and motivates change](embodied-implementation-of-new-knowledge-motivates.md) — related

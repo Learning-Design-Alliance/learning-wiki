@@ -43,6 +43,7 @@ Given physiotherapists' divergent views on the relevance of red-flag, spinal-pat
 ## Related Strategies
 
 - [Future red flag trainings should keep asynchronous flexible learning, vary formats, and add complex vignettes with detailed background information](red-flag-training-enhancement-strategy.md)
+- [Add a dedicated postgraduate course on differential diagnostic thinking and skills, with emphasis on red-flag recognition, to physiotherapy curricula](dedicated-differential-diagnosis-course-physiotherapy.md)
 
 ## Examples
 -

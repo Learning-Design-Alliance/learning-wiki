@@ -112,6 +112,9 @@ The authors recommend a sequenced implementation model: "It is recommended to ac
 - [Tiered competency training for mobile nurses: simulation-based serious games for junior nurses and crisis-leadership modules for senior nurses](tiered-mobile-nurse-competency-training.md)
 - [Pair LLM-assisted learning with VR/AR or simulation-based training for procedural skills](llm-plus-vrar-for-procedural-skills.md)
 - [Introduce VR simulation during the preclinical phase of dental education, before students perform procedures on patients](vr-simulation-preclinical-phase-integration.md)
+- [Reform medical statistics teaching through blended, case-based, tiered instruction with diversified competency-based assessment](blended-case-based-tiered-statistics-teaching-reform.md)
+- [Clinical scenario comprehensive training with high-fidelity models and case libraries to build integrated root canal treatment competence](clinical-scenario-comprehensive-training.md)
+- [Integrate contextualized online materials with real or simulated clinical practice elements into traditional paramedic education](contextualized-online-plus-clinical-practice-mdc.md)
 
 ## Examples
 -

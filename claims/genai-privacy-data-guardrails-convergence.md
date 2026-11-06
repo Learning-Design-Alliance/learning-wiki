@@ -62,3 +62,4 @@ Document analysis of IT and security unit guidance across the 50-institution cor
 - [The business model of AI in education is usually based on platformization and datafication, with subscription services and data-driven upselling](aied-platformization-datafication-business-model.md) — related
 - [Teaching staff distrusted third parties in LA on privacy and ethics, centring on data sharing and ownership](third-party-privacy-ethics-distrust.md) — related
 - [Multi-platform comparison without exchanging data addresses privacy and data security concerns](multi-platform-comparison-avoids-data-exchange-privacy.md) — a narrower finding that bears on this claim
+- [Patients are more concerned about AI tool accuracy and data privacy than about tool explainability](patients-prioritize-accuracy-privacy-over-explainability.md) — related

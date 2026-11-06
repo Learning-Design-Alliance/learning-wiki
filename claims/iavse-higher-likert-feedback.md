@@ -58,3 +58,4 @@ Questionnaire administered to all 102 students after the intervention with 100% 
 - [Experimental-group trainees report higher satisfaction than controls in teaching atmosphere, learning interest, and learning efficiency](digital-cbl-higher-satisfaction-interest-efficiency.md) — related
 - [IVR trainees rate the educational module higher than control trainees on enjoyment, ease of use, repetitivity, perceived improvement, and overall satisfaction](ivr-higher-perceived-benefits-ratings.md) — related
 - [Students in the blended model reported uniformly high satisfaction across course content, teaching effectiveness, and course application dimensions](high-satisfaction-blended-surgical-model.md) — related
+- [No significant difference in satisfaction between AR-assisted and traditional teaching for anatomy and delivery sections](ar-obgy-satisfaction-no-difference.md) — related

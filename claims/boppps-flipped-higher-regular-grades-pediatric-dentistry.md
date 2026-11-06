@@ -54,3 +54,4 @@ Cohort comparison of 150 experimental vs 145 control fourth-year stomatology stu
 - [Medical students taught under the reformed biochemistry model (stomatology cohorts) earned significantly higher final-exam grades than traditionally taught peers (clinical medicine cohorts) across 2020–2022, with mean differences of 2.76–3.92 points](biochem-reform-higher-exam-scores-three-cohorts.md) — related
 - [BOPPPS-CBL instruction produces significantly higher post-training total test scores than traditional lecture-based teaching in pediatric dentistry clerkship](boppps-cbl-higher-pt-test-total-scores.md) — related
 - [Experimental group achieved superior theoretical and practical assessment scores compared to control group](flipped-boppps-superior-final-assessment-scores.md) — related
+- [Flipped classroom and lecture-based teaching showed no significant difference in learning scores](fc-vs-lbt-no-learning-difference.md) — reports the opposite

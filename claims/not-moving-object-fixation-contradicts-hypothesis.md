@@ -48,3 +48,4 @@ Tukey post-hoc comparison of the feedforward metric (fixation rate on not-moving
 - [More-skilled novices fixate more on objects and less on tools, with slower tool speed, than less-skilled novices](skilled-novices-object-fixation-pattern.md) — related
 - [AOI-dependent eye-tracking and motion metrics classify novices into High and Mid-Low skill levels during early-stage peg transfer training](aoi-metrics-classify-novice-skill-levels-early-training.md) — related
 - [Random Forest most accurately predicts novices' visual behavior levels from CV-DL-extracted metrics, with fixation rates on objects and tool speed as key predictors](random-forest-predicts-visual-behavior-levels.md) — related
+- [Eye-tracking and mental workload metrics differentiate novice proficiency groups and distinguish them from expert performance in laparoscopic peg transfer training](eye-tracking-metrics-differentiate-laparoscopic-proficiency-groups.md) — a broader claim this one bears on

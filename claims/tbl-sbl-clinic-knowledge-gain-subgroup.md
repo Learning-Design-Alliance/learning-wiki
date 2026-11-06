@@ -52,3 +52,4 @@ Wilcoxon signed rank analysis of the self-selected subgroup of 25 students (62.5
 - [In both TBL formats, tRAT and iSAT scores significantly improve over preceding iRAT scores](tbl-trat-isat-improve-over-irat.md) — a broader claim this one bears on
 - [TBL improves team readiness assurance test scores compared to individual tests](tbl-grat-outperforms-irat.md) — a broader claim this one bears on
 - [Final-year SLP students' knowledge of infant feeding observation skills rose significantly from pre-test to post-test after the integrated TBL-SBL clinic, in one group with no comparison group (n = 40)](tbl-sbl-clinic-knowledge-gain-whole-class.md) — a broader claim this one bears on
+- [Peer calibration during TBL acts as both an enabler and a deterrent to medical students' self-confidence](peer-calibration-tbl-confidence-enabler-deterrent.md) — related

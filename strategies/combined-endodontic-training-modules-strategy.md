@@ -53,6 +53,7 @@ The article recommends that students "spend substantial time with training throu
 
 - [Structured stepwise endodontic curriculum: preclinical training, clinical observation, then supervised clinical practice](stepwise-endodontic-curriculum-preclinical-observation-practice.md)
 - [Sequence VR haptic simulator training before students' first artificial-tooth access cavity preparation in preclinical endodontic curricula](sequence-vr-simulator-before-artificial-teeth.md)
+- [Clinical scenario comprehensive training with high-fidelity models and case libraries to build integrated root canal treatment competence](clinical-scenario-comprehensive-training.md)
 
 ## Examples
 -

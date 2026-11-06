@@ -59,3 +59,4 @@ Chi-square test of profile membership by gender in the clustered sample, with ad
 - [Studies reporting age and gender differences in student engagement unanimously show higher engagement for girls and younger students](girls-younger-students-higher-engagement.md) — related
 - [Girls reported higher follow-up impact than boys on all items, and 14 of the 20 top-ranking participants were girls](girls-report-higher-privacy-impact-than-boys.md) — related
 - [Demographic characteristics of young new farmers show significant distribution differences across gender, age, and education level.](young-new-farmers-demographic-distribution.md) — related
+- [Girls were more likely than boys to belong to the Mixed or Negative profile relative to the Positive profile](girls-more-likely-mixed-negative-profiles.md) — related

@@ -76,3 +76,4 @@ Same quasi-experiment: the overall final grade comparison was not significant (t
 - [Peer instruction produced significantly higher post-test conceptual comprehension scores than traditional lecture in a pre-service teacher methodology course](peer-instruction-higher-posttest-conceptual-comprehension.md) — related
 - [No significant difference between groups on final reading comprehension test](sct-tblt-final-test-no-difference.md) — related
 - [Flipped and face-to-face classrooms produce no significant difference in overall orthodontic wire-bending scores](flipped-vs-face-to-face-no-score-difference-wirebending.md) — reports the opposite
+- [First-year nursing students taught with a flipped classroom scored significantly higher on knowledge post-test and persistence tests than students taught by traditional lecture](fcm-higher-knowledge-posttest-persistence-nursing.md) — related

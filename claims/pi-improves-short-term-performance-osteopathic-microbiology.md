@@ -51,3 +51,4 @@ A paired-samples t-test in a single-group pre–post quasi-experimental study of
 - [Item-level analysis found statistically significant score rises on 9 of 10 peer instruction questions from pre-test to post-test in one group with no comparison group, after Holm–Bonferroni correction.](pi-item-level-improvement-nine-of-ten.md) — related
 - [No significant association was observed between student perceptions and measured learning gains.](perceptions-not-aligned-with-gains.md) — related
 - [Experimental-group quiz scores rose significantly from before to after each PA-PBL session](pa-pbl-quiz-gains-pre-post.md) — related
+- [First-year medical students' quiz scores on decision-making biases and decision science concepts rose from pre-test to post-test after an outdoor experiential learning workshop, in one uncontrolled pre-post study](outdoor-experiential-workshop-improved-decision-making-quiz-scores.md) — related

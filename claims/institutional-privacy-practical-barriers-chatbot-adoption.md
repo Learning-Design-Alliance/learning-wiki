@@ -55,3 +55,4 @@ Focus-group thematic analysis identified institutional requirements (e.g., a "ve
 - [The complexity of successful instrumental genesis translates into severe barriers to adopting CSCL technologies, pedagogies, chronotypes, and educational philosophies in established school institutions](instrumental-genesis-complexity-adoption-barriers.md) — related
 - [Barriers to seamless GenAI integration include limited accessibility, insufficient bias mitigation, and tool availability prioritized over curriculum alignment](genai-integration-barriers-accessibility-bias-alignment.md) — related
 - [Mobile devices make education more accessible anytime and anywhere, but this attractiveness comes with limitations for adoption and usage](mobile-access-anytime-anywhere-with-adoption-limits.md) — related
+- [Patients are more concerned about AI tool accuracy and data privacy than about tool explainability](patients-prioritize-accuracy-privacy-over-explainability.md) — related

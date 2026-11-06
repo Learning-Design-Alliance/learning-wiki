@@ -50,3 +50,4 @@ Post-course questionnaire on a 5-point Likert scale assessing motivation for lea
 - [Flipped classroom residents report higher perceived teaching effectiveness in clinical skills, learning interest, self-learning, problem-solving, and team collaboration, but not theoretical knowledge](fc-higher-perceived-effectiveness-domains.md) — related
 - [Students in the CBL-FC group report high learning interest, positive experience, and overall satisfaction](cbl-fc-high-satisfaction-learning-experience.md) — related
 - [Residents perceive online CBL modules will improve their effectiveness as pediatricians](online-cbl-perceived-impact-pediatric-effectiveness.md) — related
+- [More flipped classroom residents self-reported improved communication, problem-solving, information-retrieval and teamwork abilities than lecture-based residents](fc-residents-self-reported-learning-ability-gains.md) — related

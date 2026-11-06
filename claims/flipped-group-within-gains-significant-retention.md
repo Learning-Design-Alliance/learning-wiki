@@ -47,3 +47,4 @@ Wilcoxon tests of dependent repeated measures in the flipped experimental group 
 ## Related Claims
 - [Experiment group vocabulary gains persisted at the five-month follow-up, with no significant posttest-to-follow-up decline](vocabulary-gains-persist-five-month-follow-up.md) — related
 - [Both flipped learning and traditional teaching significantly improved facial nerve anatomy knowledge within groups, with no statistically significant difference between the groups](flipped-learning-facial-nerve-no-between-group-difference.md) — a broader claim this one bears on
+- [Within the flipped classroom group, persistence follow-up scores for BGM, NTI and DP skills were significantly higher than first follow-up scores](fcm-experimental-skill-improvement-over-time.md) — related

@@ -99,3 +99,5 @@ Independent samples t-test with Welch's correction on the survey's gender-based 
 - [Female final-year nursing students scored higher than male students on both competence and (reversed) error tendency (Partial η² = 0.143)](gender-differences-competence-error-tendency.md) — related
 - [Gender differences appear in academic self-efficacy and buoyancy but not in mathematics performance, and age shows no differences](gender-differences-ase-ab-not-math.md) — related
 - [Only course repetition, among demographic variables, is significantly associated with lower ATSHWS scores](course-repetition-lower-atshws-scores.md) — related
+- [Gender differences in statistics engagement favor female students in clinical application and method familiarity, with all comparisons significant at p < 0.05](gender-differences-statistics-engagement-medical-students.md) — reports the opposite
+- [Male students reported higher perceived skill improvements and more favorable domain scores than female students across all journal club domains](journal-club-gender-differences-self-reported.md) — related

@@ -57,6 +57,8 @@ The article recommends that teacher education programs incorporate resilience-bu
 - [Embed resilience and coherence-strengthening interventions into existing curricular structures rather than standalone courses](embed-soc-interventions-existing-frameworks.md)
 - [Integrate social-emotional learning into school programs alongside academic content](integrate-sel-curricula-academic-content.md)
 - [Strengthen in-service training and resilience support to raise early childhood teachers' self-efficacy, pedagogical competence and professional well-being](inservice-training-resilience-wellbeing-strategy.md)
+- [Integrate mindfulness training programs into nursing curricula to support focus, self-awareness, and emotional regulation](mindfulness-training-in-nursing-curricula-strategy.md)
+- [Schools should run time-management and study-skills workshops, provide academic counseling, and teach coping strategies to manage academic stress](workshops-counseling-coping-kazo-recommendation.md)
 
 ## Examples
 -

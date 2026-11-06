@@ -50,3 +50,4 @@ Exploratory factor analysis of the 18-item questionnaire with 322 Romanian middl
 - Exploratory factor analysis indicates a four-factor solution best fits the survey response data — related
 - [Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed (a weak loading, a cross-loading, and a low item–total correlation with duplicated content)](pilot-efa-four-factor-solution.md) — related
 - [Exploratory factor analysis supports the unidimensionality of the simulation-based assessment rubric, with all 14 items loading 0.60–0.81 on a single procedural competence factor](efa-unidimensional-simulation-rubric-procedural-competence.md) — related
+- [Exploratory factor analysis of the gamified test yields a 2-factor solution matching the cognitive-abilities versus personality-characteristics distinction, with conformity loading on neither factor](gba-two-factor-structure-cognitive-personality.md) — related

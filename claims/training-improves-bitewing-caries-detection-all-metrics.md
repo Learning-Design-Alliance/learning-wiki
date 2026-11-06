@@ -50,3 +50,4 @@ Permutation tests comparing pre- and posttraining annotations of 52 dental stude
 - [Dataset-based training produced significantly greater improvement in sensitivity and F1 score than lecture-based training](dataset-training-beats-lecture-sensitivity-f1.md) — related
 - [Improvement in caries detection decreased with increasing clinical experience, though pairwise stage differences were not significant](improvement-decreases-with-clinical-experience.md) — related
 - [AI-based web application training yielded overall improvements comparable to lecture and annotated-dataset e-learning](ai-training-comparable-to-e-learning-methods.md) — related
+- [The AI achieved perfect precision and specificity (1.0), higher true correct and true incorrect rates than surgeons, and no hallucinations were detected](ai-perfect-precision-specificity-no-hallucinations-vns.md) — related

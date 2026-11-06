@@ -67,3 +67,4 @@ Univariable comparisons across the three latent profiles in the 605-nurse survey
 - [Working experience, age and education variables show no statistically significant association with Knowledge Score or with ethics/equity understanding](no-association-demographics-knowledge-score-ethics.md) — related
 - [Nurses' knowledge scores rose from pre-test to post-test after the SDL package, with the largest rise among those with 1–5 years of experience, in one uncontrolled pre-post study](experience-moderates-sdl-ecg-knowledge-gains.md) — related
 - [No significant association of regulation type, sex, age, or mentoring style with form completion or competence](no-association-regulation-mentoring-completion-competence.md) — reports the opposite
+- [Marital status and time for family commitment show significant associations with competency, while gender, educational level and working hours do not](marital-family-time-significant-gender-education-not.md) — related

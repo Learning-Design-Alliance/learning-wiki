@@ -89,3 +89,4 @@ Randomised study of 169 second-year medical students comparing 3D VR and 2D lect
 - [Postgraduate aesthetic medicine trainees overwhelmingly rate a 3D simulation app as visually similar to 2D models and superior for understanding the 3D structure of facial aging](3d-simulation-app-facial-aging-visualization-perceptions.md) — related
 - [Both instructional methods yield high descriptive satisfaction and self-confidence scores](both-methods-high-satisfaction-confidence-descriptive.md) — related
 - [VR simulators for inferior alveolar nerve block training improve operation success rate, trainee satisfaction, accuracy and confidence](vr-ianb-training-success-confidence.md) — related
+- [Most students (98.60%) reported AR-assisted learning improved understanding of 3D anatomy and fostered clinical thinking](ar-obgy-3d-understanding-clinical-thinking-perceptions.md) — related

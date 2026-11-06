@@ -54,3 +54,4 @@ The review reports, citing Eva et al. (2012), a focus group study in which stude
 - [Agents with expertise (Expert and Mentor) improved learning outcomes and were perceived as more credible](expertise-agents-improved-learning.md) — a narrower finding that bears on this claim
 - [Teachers perceived research evidence as most effectively communicated when interactive, accessible, relevant, balanced, credible and practice-focused](teachers-views-effective-research-communication.md) — related
 - [Model note feedback was perceived as trustworthy but harder for comparison than automated feedback](model-note-feedback-trustworthy-harder-comparison.md) — related
+- [Students' perspectives on clinical reasoning were greatly impacted by their clinical experience, including lack thereof](clinical-experience-shapes-student-reasoning-perspectives.md) — related

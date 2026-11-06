@@ -50,6 +50,7 @@ The article describes a standardized simulation-based training protocol structur
 - [Provide intentional instruction through direct observation, verbalization of maneuvers, preoperative nasal analysis, and structured feedback during rhinoplasty training.](intentional-instruction-rhinoplasty-strategy.md)
 - [Schedule repeated daily VR simulation sessions with formative feedback before a delayed practical test](daily-repeated-vr-practice-then-final-test.md)
 - [Use real-time feedback and repeated practice in preclinical surgical simulation training](real-time-feedback-repeated-practice-surgical-simulation.md)
+- [Sequence efficient training so cadets observe expert action videos before instruction and simulator practice, then self-record practice videos for comparison](expert-video-replay-then-practice-sequence.md)
 
 ## Examples
 -

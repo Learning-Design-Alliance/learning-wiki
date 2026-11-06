@@ -49,3 +49,4 @@ Cross-sectional survey of 165 randomly sampled nurses using a validated 20-item 
 - [Knowledge level of MDT is significantly associated with having heard of MDT and having performed MDT](mdt-knowledge-associated-with-exposure-and-practice.md) — related
 - [Nurses' correct response rates vary by MDT topic, highest for benefits and lowest for enzyme secretion and pressure-ulcer suitability](mdt-knowledge-item-level-gaps.md) — related
 - [Actual hands-on MDT experience is rare among nurses, with only 9.7% having performed the therapy](nurses-rare-hands-on-mdt-experience.md) — related
+- [Specific knowledge items showed very low correct-response rates, including effects of high-dose therapy on child development (17.2%) and pre-radiotherapy oral care benefits (15.8%)](lowest-scoring-knowledge-items-cancer-therapy.md) — related

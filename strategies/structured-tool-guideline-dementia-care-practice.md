@@ -43,6 +43,7 @@ This strategy pairs dementia education with a structured tool or guideline that 
 ## Related Strategies
 
 - [Design dementia e-learning with tailored professional materials, realistic experience-based tasks, and varied teaching methods](dementia-elearning-design-key-features.md)
+- [Provide clinicians with best-practice guidelines for delivering a dementia diagnosis and opportunities to reflect on their practice](guidelines-plus-reflection-for-diagnosis-delivery.md)
 
 ## Examples
 -

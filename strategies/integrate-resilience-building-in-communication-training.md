@@ -50,6 +50,7 @@ Based on the finding that internal psychological factors—especially resilience
 - [Integrate resilience-building strategies into teacher training programs, prioritizing psychosocial facets of academic success and pairing them with study-skill instruction when grade improvement is the goal](resilience-building-teacher-training-strategy.md)
 - [Integrate SBLE into nursing curricula to strengthen emotional resilience and prepare students for clinical psychological demands](integrate-sble-nursing-curricula-burnout-strategy.md)
 - [Integrate structured stress-management and resilience-building supports into undergraduate nursing education](stress-management-resilience-in-nursing-curriculum.md)
+- [Integrate mindfulness training programs into nursing curricula to support focus, self-awareness, and emotional regulation](mindfulness-training-in-nursing-curricula-strategy.md)
 
 ## Examples
 -

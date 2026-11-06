@@ -50,3 +50,4 @@ Randomized two-group study of 50 urology residents; practical operation assessme
 - [3D visualization technology supports doctor-patient communication in resident training](3d-visualization-supports-doctor-patient-communication.md) — related
 - [Residents taught with CBL plus 3D reconstruction report higher satisfaction than residents taught with traditional lectures across all five survey domains](cbl-3d-reconstruction-higher-satisfaction-liver-ultrasound.md) — related
 - [In the same RCT, the experimental group reported higher scores than the control group across all five dimensions of teaching satisfaction (all P < 0.05)](pbl-virtual-simulation-satisfaction-all-dimensions-trauma-orthopedics.md) — related
+- [The 3D-printed PBL group outperformed the traditional PBL group on operative skill assessments including incision design, columella deformity improvement, and upper lip symmetry](3d-printed-pbl-outperformed-operative-skills.md) — related

@@ -56,3 +56,4 @@ Review synthesis of UX survey findings across 13 studies assessing UX: usefulnes
 - [In a user study with 12 participants, teachers rated AdaPT positively across all dimensions, with mean ratings above the neutral baseline of 4](adapt-user-study-positive-ratings.md) — related
 - [User experience favored attractiveness, stimulation, and novelty, but IPQ involvement was unsatisfactory and realism only satisfactory](ncpr-vr-ueq-ipq-profile.md) — related
 - [Skills decay occurred across most participant categories but was not significant for providers with less than one year of work experience, and more-experienced providers decayed more](experience-pattern-skills-decay-one-year.md) — related
+- [Students' top perceived advantage of AR was clearer, more intuitive and vivid presentation (56.14%)](ar-obgy-top-advantage-vividness.md) — related

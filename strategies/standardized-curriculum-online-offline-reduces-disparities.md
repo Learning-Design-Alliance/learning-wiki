@@ -44,6 +44,7 @@ The standardized retraining curriculum, delivered through a combination of onlin
 ## Related Strategies
 
 - [Combine online and offline teaching (blended learning) to maximize benefits in undergraduate medical education](blended-learning-ume-recommendation.md)
+- [Use online platforms to connect eastern and western universities for cross-regional interprofessional teaching](online-cross-regional-ipe-strategy.md)
 
 ## Examples
 -

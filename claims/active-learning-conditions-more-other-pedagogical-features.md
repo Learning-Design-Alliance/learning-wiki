@@ -56,3 +56,4 @@ Comparative feature coding across the 88 active learning and 52 lecture conditio
 - [Preparation-purpose homework benefits students more than same-day extra-time homework](preparation-homework-beats-same-day-homework.md) — related
 - [Scoping review of 25 studies finds multiple educational strategies for NCLEX-RN preparation with no consensus on a best practice, active learning being the most frequent](nclex-prep-no-consensus-best-practice.md) — related
 - [Students most frequently reported attending lectures for examination preparation and easier understanding, whereas staff emphasized structured presentation and classroom discussions](students-attend-lectures-exam-preparation-staff-structured-presentation.md) — related
+- [Quizzes increase students' practice of quiz questions as a study strategy and class participation, but not attendance or reported reading](quizzes-improve-participation-and-practice-not-attendance-reading.md) — related

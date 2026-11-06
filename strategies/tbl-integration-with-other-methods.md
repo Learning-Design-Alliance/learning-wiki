@@ -59,6 +59,7 @@ The authors recommend integrating TBL with other teaching methods such as Proble
 - [Integrate BOPPPS, flipped classroom, and case-based learning into a single pedagogical model for residency training](integrate-boppps-fc-cbl-single-model-residency.md)
 - [Design interactive online tasks oriented towards questions or cases aligned with deep-learning goals](design-question-case-oriented-interactive-tasks.md)
 - [Reform TDI residency training with blended learning, simulation-based training, and competency-based assessment](blended-simulation-competency-tdi-training-reform.md)
+- [Reform medical statistics teaching through blended, case-based, tiered instruction with diversified competency-based assessment](blended-case-based-tiered-statistics-teaching-reform.md)
 
 ## Examples
 -

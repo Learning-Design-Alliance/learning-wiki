@@ -53,3 +53,4 @@ Internal consistency was evaluated across 402 forms from 134 raters. 'Subscale-l
 - [The MAKQ dimensions show acceptable internal consistency across both studies (alphas 0.77-0.93)](makq-reliability-alphas.md) — related
 - [The post-interaction reflection instrument showed satisfactory internal consistency (Cronbach's α = .863)](ai-reflection-instrument-alpha-863.md) — related
 - [Questionnaire constructs showed acceptable to strong internal consistency (α = 0.740 to 0.945)](questionnaire-constructs-internal-consistency.md) — related
+- [The 29-item SCAS shows high internal consistency (Cronbach's alpha 0.960) with all item-total correlations above 0.3](scas-high-internal-consistency-alpha-960.md) — related

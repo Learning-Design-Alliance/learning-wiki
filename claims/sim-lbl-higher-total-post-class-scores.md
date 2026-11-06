@@ -53,3 +53,4 @@ Prospective cohort study of 346 undergraduates: the 2019 cohort (n=182) received
 - [The effect of teaching modality on academic performance was fully mediated by perceived knowledge mastery and learning interest](mediation-knowledge-mastery-interest-full-mediation.md) — related
 - [The PBL-CBL group achieved significantly higher total post-course test scores than the traditional LBL group in fundamental nursing](pbl-cbl-higher-total-test-scores-anaphylactic-shock.md) — related
 - [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — related
+- [Medical statistics teaching in Chinese medical schools is dominated by large-class lecture-based instruction with limited practical training](lecture-dominated-statistics-teaching-limited-practicals.md) — related

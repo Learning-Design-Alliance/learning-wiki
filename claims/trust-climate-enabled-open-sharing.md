@@ -63,3 +63,4 @@ Participant testimony gathered by R15CC from members of the NDE More Rigorous In
 - [The near-peer structure of the track was perceived to create a psychologically safe learning environment that facilitated peer teaching.](pedagogical-internship-track-near-peer-safety.md) — related
 - [Undergraduate dental students perceive peer collaboration and facilitator guidance as key enablers of agency, while uneven participation and inconsistent facilitation are barriers](pbl-peer-facilitator-enablers-barriers.md) — related
 - [In a postgraduate PBL course the teacher functions as a positive enabler through facilitation, emotional support, and professional role modeling](pbl-teacher-as-positive-enabler.md) — related
+- [Collaborative social dynamics in learning groups enable agentic learning by making challenges a shared responsibility](collective-social-dynamics-enable-agentic-learning.md) — related

@@ -49,3 +49,4 @@ Final combined SEM (Figure 3) with covariates; fit was acceptable (CFI = .98, RM
 - [Students' perceptions of their teacher's fixed mindset partially mediate the relationship between teacher math anxiety and student math achievement](perceived-teacher-fixed-mindset-partially-mediates-anxiety-achievement.md) — related
 - [Higher teacher math anxiety is associated with lower ninth-grade math GPA, controlling for prior achievement and student mindset](teacher-math-anxiety-lower-ninth-grade-math-gpa.md) — related
 - [Teachers' usable mathematical teaching knowledge does not explain the relationship between teacher math anxiety and students' perceptions of teacher fixed mindset](usable-teaching-knowledge-does-not-explain-anxiety-mindset-link.md) — related
+- [Students' perceptions of their teacher's fixed mindset positively predict students' own fixed mindset in math at the student level](perceived-teacher-fixed-mindset-predicts-student-mindset.md) — related

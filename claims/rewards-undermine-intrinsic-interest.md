@@ -56,3 +56,4 @@ The digest describes one representative study (Birch et al., 1984) in which youn
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
 - [The article argues extrinsic rewards such as grades can reduce intrinsic motivation and should be phased out](extrinsic-rewards-undermine-intrinsic-motivation-argument.md) — related
 - [External rewards can undermine intrinsic motivation for learners who are already motivated](external-rewards-undermine-intrinsic-motivation-for-motivated-learners.md) — related
+- [Parental or teacher supervision (mean 4.22) and peer support (mean 4.30) are among the stronger self-reported motivators of Kazo District students, while external rewards (mean 3.85) are weaker](kazo-supervision-and-peer-support-motivate.md) — related

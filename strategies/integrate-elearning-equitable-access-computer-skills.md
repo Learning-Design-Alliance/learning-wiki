@@ -50,6 +50,7 @@ The review's implication-for-practice section recommends that decision-makers in
 - [Pair technology access with targeted investments in infrastructure, staffing, and support, and pilot initiatives with dedicated budgets](pair-access-with-infrastructure-investment.md)
 - [Pursue inclusive digital strategies, educator professional development, and ethical AI governance for AI in adult education](inclusive-digital-strategies-ai-adult-education-policy.md)
 - [Ensure equitable access to patient safety education across employment groups](equitable-training-access-employment-groups.md)
+- [Integrate digital health topics and practical experience with digital technologies into medical curricula](integrate-digital-health-curricula-practical-experience.md)
 
 ## Examples
 -

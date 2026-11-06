@@ -56,6 +56,7 @@ Based on the demonstrated consistency gap, the authors recommend that AI systems
 - [Use GPT-4o to analyze and reason through students' incorrect answers in case-based teaching with medical images, with human validation of its output](gpt4o-case-based-error-analysis-strategy.md)
 - [Use GPT-4o to assist instructors in drafting lesson plans and generating test questions around specific clinical knowledge points, with expert oversight](gpt4o-lesson-plan-and-item-generation-strategy.md)
 - [Implement targeted error-mitigation strategies—expert-reviewed benchmark validation, clinician oversight, and continuous updating—when using LLMs in neurosurgical education](llm-error-mitigation-strategies-neurosurgical-education.md)
+- [Subject AI-generated items to trained human expert review, including a technical review and difficulty refinement](human-expert-review-of-ai-mcqs.md)
 
 ## Examples
 -

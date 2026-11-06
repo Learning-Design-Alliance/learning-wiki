@@ -48,3 +48,4 @@ Independent samples t-test on the 25-item online course interaction scale admini
 - [The flipped classroom model in live online classes produces no significant immediate learning achievement advantage over traditional teaching](fcm-loc-no-immediate-achievement-difference.md) — related
 - [Flipped classroom teaching with structured interaction improves learning outcomes more than lecture-based teaching and a video-lecture control](structured-interaction-flipped-classroom-improves-learning.md) — related
 - [The flipped classroom alone showed no significant advantage over traditional teaching on class performance, practical assessment, or theoretical examination in this course](fcm-alone-no-advantage-over-traditional.md) — related
+- [Flipped classroom and lecture-based teaching showed no significant difference in learning scores](fc-vs-lbt-no-learning-difference.md) — related

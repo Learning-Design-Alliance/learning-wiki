@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 268 claims (179 show a difference, 52 mixed, 37 no difference) · 168 studies (60 associational, 57 causal, 26 review, 10 quant-synthesis, 6 qualitative, 6 theoretical, 3 design), `q1`–`q4` · 36 of 168 report an effect size · 260 claims rest on one study
+> **Evidence** · 270 claims (180 show a difference, 52 mixed, 38 no difference) · 170 studies (61 associational, 58 causal, 26 review, 10 quant-synthesis, 6 qualitative, 6 theoretical, 3 design), `q1`–`q4` · 37 of 170 report an effect size · 262 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -304,6 +304,8 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Severe anxiety symptoms and moderate or severe sleep problems were associated with 12.2% and 11% reductions in academic performance respectively](../claims/severe-anxiety-sleep-problems-academic-reduction.md) [+M] — learners who differ on it differ in outcomes
 - [State anxiety measured before the OSCE decreased after completing the test in both cohorts, suggesting exam-related rather than persistent anxiety](../claims/state-anxiety-decreases-after-osce.md) [+M] — measured as an outcome of the instruction studied
 - [Stress/anxiety and sleep disturbances are counterintuitively associated with better academic performance in fasting students](../claims/stress-sleep-disturbance-better-performance-ramadan.md) [~M] — learners who differ on it differ in outcomes
+- [Class-level math test anxiety unexpectedly related positively to class-level math achievement](../claims/class-level-test-anxiety-positive-achievement-unexpected.md) [+M] — learners who differ on it differ in outcomes
+- [Video-assisted teaching does not significantly reduce nursing students' state anxiety before ROM practice compared with traditional teaching alone](../claims/video-assisted-teaching-no-anxiety-difference-rom.md) [-M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

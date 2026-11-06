@@ -59,3 +59,4 @@ Covariate results from Model 2 of the hierarchical regression (n = 1,552 belongi
 - [Demographics predict school belonging: girls, urban youth, immigrants, and high-SES youth report higher belonging, while achievement is trivially related](demographic-predictors-of-school-belonging.md) — related
 - [Girls obtain higher grades and experience less negative affect in response to their grades than boys](girls-higher-grades-less-negative-affect.md) — related
 - [Only course repetition, among demographic variables, is significantly associated with lower ATSHWS scores](course-repetition-lower-atshws-scores.md) — related
+- [Girls were more likely than boys to belong to the Mixed or Negative profile relative to the Positive profile](girls-more-likely-mixed-negative-profiles.md) — related

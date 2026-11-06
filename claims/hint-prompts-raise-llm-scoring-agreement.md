@@ -80,3 +80,4 @@ Experiment 1 agreement analysis (Table 4): 9-ChatGPT agreement on the ChatGPT-ge
 - [LLMs can grade short-answer reading comprehension questions with accuracy comparable to human experts, supporting formative assessment grading](llm-grading-reading-comprehension-expert-comparable.md) — related
 - [LLM data extraction accuracy varies by data type, with high precision but lower recall across tasks](llm-extraction-high-precision-lower-recall.md) — related
 - [All four LLMs completed the 240-question assessment in under 3 minutes, far faster than the human time allocation](llms-complete-frcs-urol-under-three-minutes.md) — related
+- [Generative AI, when used under precise conditions, reduces the cost and time of producing high-quality MCQs without compromising quality](genai-reduces-mcq-cost-and-time.md) — related

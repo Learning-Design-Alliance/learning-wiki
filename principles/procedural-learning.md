@@ -18,7 +18,7 @@ sources:
 # Procedural Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 57 claims (35 for, 20 mixed, 2 against) · 71 studies (37 causal, 14 review, 9 quant-synthesis, 7 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 12 of 71 report an effect size · 47 claims rest on one study
+> **Evidence** · 58 claims (35 for, 21 mixed, 2 against) · 72 studies (38 causal, 14 review, 9 quant-synthesis, 7 theoretical, 2 associational, 1 qualitative, 1 design), `q1`–`q4` · 12 of 72 report an effect size · 48 claims rest on one study
 
 ## Conditional relationship
 
@@ -143,6 +143,7 @@ Claims that bear on procedural learning but are not part of the model above, eac
 - [RCDP training yields larger pre-to-post improvement effect sizes than TTM for theoretical and practical air enema scores](../claims/rcdp-larger-prepost-effect-sizes.md) [+W] — attached 2026-11-05 from Xie Lichun et al. (2025), which proposed "RCDP five-step chunked procedural training with iterative feedback until mastery"; tests this page's relationship.
 - [Peyton's 4-step method and \"see one, do one\" produce no statistically significant difference in simulated lumbar puncture checklist scores among first-year medical students](../claims/peyton-vs-see-one-do-one-no-checklist-score-difference-slp.md) [~W] — attached 2026-11-06 from Dugan L et al. (2025), which proposed "For teaching complex procedural skills, institutions may prefer the less time-intensive "see one, do one" approach when time is limited"; tests this page's relationship.
 - [Students taught with Peyton's 4-step method complete a simulated lumbar puncture significantly faster than students taught with \"see one, do one\"](../claims/peyton-method-faster-slp-completion-time.md) [~W] — attached 2026-11-06 from Dugan L et al. (2025), which proposed "For teaching complex procedural skills, institutions may prefer the less time-intensive "see one, do one" approach when time is limited".
+- [Following structured educational and organisational interventions, CCP success at endotracheal intubation within two attempts in out-of-hospital cardiac arrest improved by 7.9% points from 2019 to 2024 (χ2 = 4.205, p = 0.040), reaching 97.7% in 2024](../claims/ccp-eti-two-attempt-success-improved-after-education-programme.md) [~W] — attached 2026-11-06 from Appelboam Thomas et al. (2025), which proposed "Require a high-volume supervised intubation threshold with a maintained logbook before independent pre-hospital intubation practice".
 
 ## Objective and learner-valued goal
 

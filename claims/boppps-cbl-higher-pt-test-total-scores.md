@@ -54,3 +54,4 @@ Randomized comparison of 74 fourth-year students (37 per group) during a one-wee
 - [BOPPPS-flipped classroom reform is linked to significantly higher final examination scores and a distribution shift toward higher grade intervals](boppps-flipped-higher-final-exam-scores.md) — related
 - [The BOPPPS-CBL effect on Section D and total Pt-test scores persists after adjusting for age, gender, and baseline academic scores](boppps-cbl-pt-test-regression-adjusted.md) — related
 - [BOPPPS-CBL students achieve significantly higher comprehensive case-analysis (Section D) scores than traditionally taught students](boppps-cbl-section-d-case-analysis-superior.md) — related
+- [First-year nursing students taught with a flipped classroom scored significantly higher on knowledge post-test and persistence tests than students taught by traditional lecture](fcm-higher-knowledge-posttest-persistence-nursing.md) — related

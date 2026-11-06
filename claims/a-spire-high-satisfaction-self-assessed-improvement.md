@@ -77,3 +77,4 @@ Same post-course self-assessment (Table 3, n = 54) covering perceived ability im
 - [After the A-SPIRE session, medical students' familiarity with and perceived importance of precision science communication significantly improved (P < 0.05)](a-spire-improves-understanding-precision-science-communication.md) — related
 - [More PBL than LBL students report satisfaction with improved comprehension of knowledge (RR = 1.84)](pbl-satisfaction-comprehension-knowledge.md) — related
 - [In a survey of the reformed course, 94.92% of students agreed with a statement about real-world biochemistry cases (e.g., COVID-19 research ethics) and reflection on public health and ethics](biochem-ethics-cases-stimulate-ethical-reflection.md) — related
+- [Most surveyed students were satisfied with interprofessional OFST and supported extending it to other colleges or disciplines](ofst-satisfaction-and-extension-support.md) — related

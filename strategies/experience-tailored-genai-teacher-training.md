@@ -53,6 +53,7 @@ The article recommends differentiating professional training by teachers' existi
 - [Tailor active methodologies to the specific educational context and subject matter](tailor-active-methods-to-context-dentistry.md)
 - [Differentiate transition curricula by prior experience level, offering abbreviated foundational modules and extended advanced sessions for experienced practitioners](experience-differentiated-transition-pathways.md)
 - [Offer adaptive learning pathways tailored to learners' prior ultrasound experience level](adaptive-pathways-by-prior-experience.md)
+- [Adapt journal club activities to student academic level and provide structured support for junior students](adapt-journal-club-to-student-level.md)
 
 ## Examples
 -

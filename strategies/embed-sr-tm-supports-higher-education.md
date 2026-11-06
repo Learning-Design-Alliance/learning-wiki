@@ -51,6 +51,7 @@ Based on the finding that self-regulation and time management relate strongly to
 - [Embed longitudinal planning scaffolds and time support at semester transitions in preclinical curricula](longitudinal-planning-scaffolds-transitions.md)
 - [Build relational school resources (teacher–student relationships, peer support, encouragement, extracurriculars) to scaffold self-regulation for low-efficacy marginalized students](relational-resources-low-efficacy-students.md)
 - [Advising strategies for students on academic probation: validation, just-in-time resources, goal setting, and mindset dialogues](star-lite-advising-strategies-probation.md)
+- [Design educational strategies that foster self-regulation and self-efficacy to support academic success](foster-self-regulation-and-self-efficacy-strategies.md)
 
 ## Examples
 -

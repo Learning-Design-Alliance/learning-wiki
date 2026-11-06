@@ -47,3 +47,4 @@ Analysis of self-report items in the post-intervention questionnaire of 94 denti
 ## Related Claims
 - [The combined intervention group showed trends toward better performance on complicated crown fracture of the mature tooth versus control and emergency treatment of root fracture versus the webinar group](trend-level-differences-mature-crown-root-fracture.md) — related
 - [Self-reported SRL questionnaire scores rose over a five-week goal-setting intervention in all conditions, with no differences between conditions](srl-skills-increase-all-conditions.md) — related
+- [Three of the 20 theoretical-learning questionnaire items showed no significant difference between groups, and observation and feedback times did not differ](null-items-and-equal-observation-time-cdio-pbl-study.md) — related

@@ -49,3 +49,4 @@ Cross-module synthesis of Mann-Whitney U results for the differential diagnosis 
 - [Integrated instructional videos increased upper limb examination confidence and perceived explanation quality among first-year medical students](integrated-video-confidence-upper-limb-examination.md) — a broader claim this one bears on
 - [Integrated videos improved perceived explanation quality but not overall confidence for hip/ankle/foot examinations](integrated-video-explanation-quality-hip-ankle-foot.md) — related
 - [No significant differences between intervention and control groups for any knee examination survey item](no-significant-difference-knee-examination-video.md) — related
+- [Clinical tests used most often broadly match the most sensitive and specific tests, except the Tromner test is little known or used](dcm-clinical-test-use-tromner-exception.md) — related

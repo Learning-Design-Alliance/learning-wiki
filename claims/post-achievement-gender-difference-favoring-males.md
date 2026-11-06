@@ -58,3 +58,4 @@ Same two-way ANCOVA on post-achievement for the gender factor (27 males and 27 f
 - [Gender × pre-achievement interaction favored males in the high achievement group](gender-level-interaction-favor-male-high-achievement.md) — related
 - [Gender has a statistically significant but small main effect on algebra achievement favouring male students](gender-small-main-effect-algebra.md) — possibly the same claim (merge candidate)
 - [Female students showed greater improvement than male students across all categories in both studies](gender-gap-writing-fluency-gains.md) — related
+- [Gender differences in statistics engagement favor female students in clinical application and method familiarity, with all comparisons significant at p < 0.05](gender-differences-statistics-engagement-medical-students.md) — reports the opposite

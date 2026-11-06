@@ -51,3 +51,4 @@ Meta-analysis pooling GRAT–IRAT differences from 11 studies of healthcare-prof
 - [Students' IRAT scores were consistently poorer than their TRAT scores, suggesting team collaboration benefits team test performance](trat-scores-exceed-irat-scores.md) — possibly the same claim (merge candidate)
 - [Students consistently scored higher on the tRAT than on the iRAT across all themes, reflecting the benefits of peer explanation and collaborative reasoning.](tbl-trat-exceeds-irat-across-themes.md) — a narrower finding that bears on this claim
 - [The voluntary survey subgroup (n = 25) also showed a significant knowledge gain from IRAT to TRAT (r = .85)](tbl-sbl-clinic-knowledge-gain-subgroup.md) — a narrower finding that bears on this claim
+- [Peer calibration during TBL acts as both an enabler and a deterrent to medical students' self-confidence](peer-calibration-tbl-confidence-enabler-deterrent.md) — related

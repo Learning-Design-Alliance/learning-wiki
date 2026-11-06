@@ -54,6 +54,7 @@ This strategy addresses the review's geographic-gap finding: Western-designed Ra
 - [Adapt and tailor the triage simulation across program stages, modalities, and cohort needs](adapt-tailor-triage-simulation-blueprint.md)
 - [Contextualise international digital-health competency frameworks for India and deliver them through modularised blended learning for working professionals](contextualised-blended-competency-frameworks-india.md)
 - [Set a region-specific proficiency score based on local expert performance when adapting a validated simulation for a new training context](region-specific-proficiency-score-local-experts.md)
+- [Use online platforms to connect eastern and western universities for cross-regional interprofessional teaching](online-cross-regional-ipe-strategy.md)
 
 ## Examples
 -

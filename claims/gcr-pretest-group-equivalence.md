@@ -59,3 +59,4 @@ Independent samples t test on the 60-item researcher-made grammar pretest (Leven
 - [The experimental and control groups did not differ in motivation or grammar at pretest](groups-equivalent-at-pretest.md) — possibly the same claim (merge candidate)
 - [IEGI and DEGI produced no significant difference in using English tenses in a pre-defined (receptive) grammar-test context](iegi-degi-no-difference-predefined-context.md) — related
 - [The control and experimental groups did not differ significantly on the pre-test](ocra-groups-equivalent-pretest.md) — related
+- [No significant difference between CST and control groups at baseline on either consent-scoring rubric, supporting attribution of post-test differences to the training](cst-trial-baseline-equivalence.md) — related

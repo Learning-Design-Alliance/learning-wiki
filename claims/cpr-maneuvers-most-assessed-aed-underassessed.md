@@ -68,3 +68,4 @@ Same cross-study synthesis. The review reports "AED use was assessed less freque
 - [Instrument type relates to assessed domains: ad hoc questionnaires were virtually limited to practical CPR techniques, while psychometrically validated tools covered scene safety, arrest recognition, emergency activation, and functional AED use](validated-instruments-broader-domain-coverage.md) — related
 - Only 16 of 36 studies assessed BLS knowledge retention over time, with follow-ups generally between 1 and 6 months and only two exceeding 1 year — related
 - [A 90-minute ERC-guideline BLS training in a block schedule yields acceptable short- and long-term retention of chain-of-survival activation and high-quality chest compressions](bls-block-training-effective-core-skills.md) — related
+- [Five early cardiac arrest interventions with strong outcome evidence form the core of the CPADS-30 mnemonic](cpads-30-five-evidence-based-early-interventions.md) — related

@@ -51,3 +51,5 @@ Multiple regression analyses in the survey of 1,045 undergraduates tested social
 - [GenAI use is positively associated with attitude, subjective norm, perceived behavioral control, and behavioral intention toward GenAI-assisted learning](genai-use-positively-associated-tpb-constructs.md) — related
 - [GenAI undermines academic integrity systemically rather than as individual dishonesty, because it optimises plausibility over truth and erodes the conditions for integrity](genai-undermines-integrity-systemically.md) — related
 - [Instructors' moral awareness and intention grow parallel with institutional and social support](instructor-moral-awareness-intention-institutional-social-support.md) — related
+- [Interpersonal factors — family, peers, and society — are perceived reasons for nursing students' exam cheating](interpersonal-factors-nursing-exam-cheating.md) — related
+- [Nursing students' intrapersonal factors — knowledge, attitude, skill, personality, experience, and motivation — are perceived reasons for exam cheating](intrapersonal-factors-nursing-exam-cheating.md) — related

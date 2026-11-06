@@ -70,3 +70,4 @@ Mann-Whitney U tests comparing process assessment and final examination scores b
 - [Blended MOOC-virtual simulation teaching produces higher Structured Clinical Skills Assessment scores than traditional teaching](mooc-virtual-simulation-higher-clinical-skills-assessment-scores.md) — related
 - [BOPPPS-CBL instruction produces significantly higher post-training total test scores than traditional lecture-based teaching in pediatric dentistry clerkship](boppps-cbl-higher-pt-test-total-scores.md) — related
 - [The flipped classroom alone showed no significant advantage over traditional teaching on class performance, practical assessment, or theoretical examination in this course](fcm-alone-no-advantage-over-traditional.md) — related
+- [Most medical students demand clinically integrated case teaching and prefer blended learning over traditional classroom instruction](student-demand-case-integrated-blended-statistics-teaching.md) — related

@@ -55,3 +55,4 @@ Retrospective cohort analysis at a level I trauma center with 1:1 propensity sco
 - [Resident postgraduate year (PGY 1–7) showed no significant correlation with complications, operation time, anesthesia time, or hospitalization length](pgy-level-no-correlation-outcomes.md) — related
 - [Older, more experienced residents complete the synthetic-bone femoral exercise faster, while younger, less-experienced residents complete the VR module faster (exploratory)](age-experience-reverse-vr-speed-advantage.md) — related
 - [In an emergency-surgery subgroup, autonomous resident-led cases achieved outcomes comparable to matched consultant-led emergency cases](resident-led-emergency-surgery-comparable-outcomes.md) — related
+- [Total complication rates were comparable between experienced and inexperienced surgeons performing 25-gauge vitrectomy for uncomplicated retinal detachment](complication-rates-comparable-experienced-inexperienced-surgeons.md) — related

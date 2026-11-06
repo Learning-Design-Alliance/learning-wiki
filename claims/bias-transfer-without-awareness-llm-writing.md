@@ -54,3 +54,4 @@ Post-task survey (5-point Likert items on perceived AI influence, counterfactual
 - [A neutrally configured LLM assistant produced the lowest rate of gender-stereotypic occupation suggestions, below even the no-AI control condition](neutral-llm-assistant-attenuates-baseline-stereotyping.md) — related
 - [The video-task awareness measure did not correlate with misconceptions or conceptual change and is considered exploratory](awareness-video-task-null-correlations.md) — related
 - [The American Mock WHO simulation reported 90%–98% participant approval and perceived career influence](amwho-simulation-90-98-percent-approval.md) — related
+- [Workshop participants reported increased awareness of their decision-making processes and of decision-making biases](workshop-increased-decision-making-awareness-self-report.md) — related

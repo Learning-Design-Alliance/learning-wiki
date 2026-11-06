@@ -52,3 +52,4 @@ Cross-sectional survey comparing Likert-scale ratings between participant gender
 - [Female gender, higher autonomous motivation, lower prior knowledge, and higher final course grades each predict more frequent voluntary StatBot use among graduate statistics students](zinb-predictors-statbot-engagement-frequency.md) — related
 - [Nearly three-quarters of Year 1 medical students report a positive or very positive overall experience of integrated team-based learning.](three-quarters-positive-overall-tbl-experience.md) — related
 - [No significant gender-based differences in iRAT, end-of-session test scores, or TBL ratings.](tbl-no-gender-differences.md) — related
+- [General experience of the journal club differed by gender and course, with engagement and clarity ratings varying between groups](journal-club-engagement-clarity-group-differences.md) — related

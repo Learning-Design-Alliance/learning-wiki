@@ -56,3 +56,4 @@ The editorial reports a quasi-experimental study by Jarrell et al. (2017) in whi
 - Academic emotions cluster into four groups by antecedents, with anxiety and hopelessness highly correlated (r > .70) yet kept as separate scales — related
 - [Medical students who fail and experience negative emotions risk loss of confidence and dropping out of medical school (as suggested by Jarrell et al., 2017)](failure-negative-emotions-confidence-dropout-risk.md) — related
 - [Performance outcome is strongly related to learners' emotions, with the highest performing medical students reporting the most positive emotions (as reported by Jarrell et al., 2017)](outcome-emotions-performance-feedback-medical-students.md) — possibly the same claim (merge candidate)
+- [Positive online academic emotions positively predict learning performance, and negative online academic emotions negatively predict it, in blended learning](online-academic-emotions-predict-performance.md) — related

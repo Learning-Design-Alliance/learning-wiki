@@ -53,6 +53,7 @@ In the discussion the authors recommend sequencing behaviourist and cognitive ap
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Scaffolded curricular progression: peer-designed collaborative simulation early, transitioning to individual encounters with professional standardized patients and then real patients](scaffolded-collaborative-to-individual-simulation-progression.md)
 - [Scaffold method choice by student progression: CBL early, transitioning to PBL and TBL](scaffold-cbl-early-transition-pbl-tbl.md)
+- [Collaborative workshop as a methodology for scaffolding simulation learning design](collaborative-workshop-scaffolding-learning-design.md)
 
 ## Examples
 -

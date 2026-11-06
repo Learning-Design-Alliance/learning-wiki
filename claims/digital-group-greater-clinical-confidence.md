@@ -49,3 +49,4 @@ Questionnaire 1 self-report data from 186 traditional-group students (recovery r
 - [Preclinical HVRS training significantly improves endodontic access cavity preparation scores on real patients](hvrs-training-improves-access-cavity-scores.md) — related
 - [Dental students who train on a VR haptic simulator before artificial-teeth practice score higher on preclinical access cavity preparation and self-assessment than students who practice on artificial teeth first](vr-first-higher-preclinical-dexterity-scores.md) — related
 - [Most students rated the colored tooth and digital evaluation system positively, though only 60% endorsed the system's scoring fairness](positive-student-perceptions-colored-tooth-digital-evaluation.md) — related
+- [Only 3.7% of respondents reported exposure to VR or AR in school learning, while cavity preparation training and video demonstration predominated](minimal-vr-ar-exposure-dental-education.md) — related

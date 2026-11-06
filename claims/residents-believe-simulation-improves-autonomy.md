@@ -50,3 +50,4 @@ Descriptive survey results (Fig. 5): "90.3% (n = 28) of respondents reported tha
 - [Only 56.40% of students had participated in virtual simulation training, though most participants reported skill improvement and 62.90% wanted it as a compulsory course](practice-engagement-virtual-simulation-limited.md) — related
 - [Most students express positive attitudes and willingness toward virtual simulation training, but a substantial minority doubt it can match real clinical practice](student-attitudes-virtual-simulation-survey.md) — related
 - [Simulated laparoscopic practice decreases after completion of the FLS examination among general surgery residents](simulated-practice-decreases-after-fls-completion.md) — related
+- [Most early-career bariatric surgeons want formal endoscopy training but most have never attended a formal upper endoscopy course](endoscopy-course-interest-participation-gap.md) — related

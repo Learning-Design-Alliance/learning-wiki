@@ -55,3 +55,4 @@ Thematic synthesis finding under building connectedness: the review reports that
 - [Confidence is required for serious illness conversations, with discomfort arising especially around discussing prognosis](sic-confidence-discomfort-prognosis.md) — related
 - [Effective use of the Serious Illness Conversation Guide is itself a competence requiring balance between structure and flexibility](sicg-use-structure-flexibility-competence.md) — related
 - [GenAI can foster psychologically safe team interaction while risking reduced human interaction over time](genai-team-interaction-safety-and-reduction.md) — related
+- [The framework prioritises a compassionate, respectful therapeutic relationship and addresses power imbalances with detained, marginalised patients](relationship-first-attitudes-in-inpatient-framework.md) — related

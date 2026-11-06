@@ -50,3 +50,4 @@ Partial correlation analyses controlling for pre-matriculation variables showed 
 - [Including MCAT scores in admissions composites does not improve prediction of overall academic performance compared with composites excluding MCAT](mcat-no-incremental-validity-academic-performance.md) — related
 - [MCAT scores moderately correlate with NBME Pharmacology Subject Exam scores (r = 0.45)](mcat-moderate-correlation-nbme-pharmacology.md) — related
 - [Baseline academic comparability of the two MD cohorts was established on MCAT scores, uGPA, and sGPA](md-cohorts-baseline-comparability.md) — related
+- [MCAT scores correlate positively with examination performance but not with strength of motivation](mcat-predicts-exams-not-motivation.md) — a narrower finding that bears on this claim

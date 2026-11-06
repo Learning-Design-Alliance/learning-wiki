@@ -50,3 +50,5 @@ Blinded within-participant psychometric evaluation in Singapore: 73 postgraduate
 - [GenAI-assisted items showed weaker corrected point-biserial discrimination and more negative discrimination than educator-crafted items](genai-mcq-weaker-discrimination.md) — related
 - [GenAI-assisted item sets showed lower KR-20 internal consistency reliability, and Spearman-Brown projections implied far more items would be needed to reach KR-20=0.70](genai-mcq-lower-reliability.md) — related
 - [GenAI-assisted items had more distractor-functioning red flags — nonfunctioning and negatively discriminating distractors — although these differences were not statistically significant](genai-mcq-distractor-red-flags.md) — related
+- [Students scored significantly higher on the AI-generated examination than on the human-designed examination, with a narrower score range](ai-exam-higher-total-scores.md) — reports the opposite
+- [AI-generated X-type questions were easier than human-designed X-type questions (difficulty 0.77 vs. 0.62)](ai-x-type-questions-easier.md) — related

@@ -13,7 +13,7 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 259 claims (183 show a difference, 44 mixed, 32 no difference) · 187 studies (68 causal, 42 associational, 38 review, 14 quant-synthesis, 11 qualitative, 11 theoretical, 3 design), `q1`–`q4` · 35 of 187 report an effect size · 250 claims rest on one study
+> **Evidence** · 260 claims (184 show a difference, 44 mixed, 32 no difference) · 188 studies (68 causal, 43 associational, 38 review, 14 quant-synthesis, 11 qualitative, 11 theoretical, 3 design), `q1`–`q4` · 35 of 188 report an effect size · 251 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
@@ -308,6 +308,7 @@ Whether a learner can plan, monitor and adjust without the structure being suppl
 - [In a structural model, self-regulation predicts time management (β = 0.72), time management predicts academic self-efficacy (β = 0.61), and self-regulation directly predicts academic self-efficacy (β = 0.44)](../claims/sem-direct-paths-sr-tm-ase.md) [+M] — learners who differ on it differ in outcomes
 - [Undergraduate dental students perceive that the time-bound weekly PBL cycle compels short-term goal setting and planning, though workload makes self-regulation challenging for some](../claims/pbl-weekly-cycle-goal-setting-self-regulation-variability.md) [~W] — measured as an outcome of the instruction studied
 - [Fitness and executive function partially mediate the relationship between gross motor competence and academic achievement in schoolchildren aged 9-11](../claims/fitness-and-executive-function-partially-mediate-gmc-academic-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Academic achievement is directly predicted by self-regulation and critical thinking, with self-regulation the more influential predictor](../claims/self-regulation-critical-thinking-predict-achievement.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's self-regulation predict achievement, and how strongly?* [Self Regulated Learning Predicts Achievement](../claims/self-regulated-learning-predicts-achievement.md) [+S]

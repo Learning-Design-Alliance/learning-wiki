@@ -50,3 +50,4 @@ The article reports, citing Zimmermann et al., an evaluation of the physical Roo
 - [ISS used to assess performance and identify risks: eighteen studies, mostly observational, reported positive benefits for identifying hazards, latent safety threats and guideline non-adherence](iss-assessment-identifies-risks.md) — related
 - [Students perceive virtual simulation as creating equitable, low-pressure, psychologically safe environments that enable autonomy and confidence](virtual-simulation-low-pressure-psychological-safety.md) — related
 - [Participants detected 55-63% of the four embedded opioid administration errors, with wrong-patient identification missed by 40% of pairs](opioid-roh-error-detection-rates.md) — a narrower finding that bears on this claim
+- [Knowledge gaps within interprofessional teams produced mostly positive psychological pressure during team learning](ofst-positive-pressure-team-learning.md) — related

@@ -45,7 +45,8 @@ The article translates assessment theory into an implementable evaluation recipe
 - [Distillation from a behaviourally shaped teacher model can transmit an underlying trait even when the training data is filtered to remove visible traces of it](../claims/consequential-validity-failure-distillation.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Start AI-based MCQ generation from a test blueprint specifying topic and cognitive domain](blueprint-first-ai-mcq-generation.md)
 
 ## Examples
 -

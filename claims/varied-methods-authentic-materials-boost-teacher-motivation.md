@@ -47,3 +47,4 @@ Interview-based finding from seven Karak teachers: variety of methods and authen
 ## Related Claims
 - [Most interviewed teachers held negative attitudes towards teaching listening comprehension](karak-teachers-negative-attitudes-listening.md) — related
 - [Iranian EFL teachers hold positive attitudes toward using authentic listening materials and report enhanced listening comprehension relative to simplified materials](iranian-efl-teachers-positive-attitudes-authentic-listening.md) — related
+- [Qualitative findings show EFL teachers frequently relied on non-authentic listening materials in integral lessons](efl-teachers-rely-on-non-authentic-listening-materials.md) — related

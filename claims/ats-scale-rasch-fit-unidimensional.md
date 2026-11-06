@@ -51,3 +51,4 @@ Rasch rating-scale analysis (Winsteps 3.72) of 70 students' responses to the 20-
 - [The 16-item CT–PCK Survey shows internal consistency reliability around .71–.72 and person separation reliability of .69](ct-pck-reliability-internal-consistency.md) — related
 - [Project-based learning significantly increased 8th grade students' attitudes towards statistics from pre-test to post-test](pbl-increased-attitude-towards-statistics-8th-grade.md) — related
 - [Exploratory factor analysis supports the unidimensionality of the simulation-based assessment rubric, with all 14 items loading 0.60–0.81 on a single procedural competence factor](efa-unidimensional-simulation-rubric-procedural-competence.md) — related
+- [A Rasch-validated physiotherapy assessment scale (APP) showed all 20 items invariant across populations and contexts](app-scale-20-items-invariant.md) — related

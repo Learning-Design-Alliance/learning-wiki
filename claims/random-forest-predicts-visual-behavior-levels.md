@@ -71,3 +71,4 @@ Gini (impurity) importance was computed in the Random Forest model to rank predi
 - [Random forest achieves the highest mean test accuracy (0.9590) of all models compared for predicting exam grade categories from physiological signals](random-forest-highest-accuracy-physiological-exam-prediction.md) — related
 - [Fixation on not-moving objects was lower for more-skilled novices, contradicting the expected looking-ahead pattern](not-moving-object-fixation-contradicts-hypothesis.md) — related
 - [Decision trees achieve competitive accuracy with black-box models (LR, RF, SVM), which performed slightly better but lack interpretability](dt-competitive-with-black-box-classifiers.md) — a broader claim this one bears on
+- [Eye-tracking and mental workload metrics differentiate novice proficiency groups and distinguish them from expert performance in laparoscopic peg transfer training](eye-tracking-metrics-differentiate-laparoscopic-proficiency-groups.md) — related

@@ -55,3 +55,4 @@ Independent-samples t-tests and one-way ANOVA on demographic differences in the 
 - [Male faculty report modestly higher self-perceived GenAI knowledge than female faculty in TK and TPK, with small effect sizes](gender-differences-technological-genai-knowledge-small-effects.md) — related
 - [Open, autonomous, familiar, and controlled school climate types significantly affect adolescent psychological hardiness dimensions, with gender differences favoring male students](school-climate-type-psychological-hardiness-gender.md) — related
 - [In AI-mediated active learning, female EFL students show higher engagement and greater improvement than male students](ai-active-learning-gender-engagement-females.md) — a narrower finding that bears on this claim
+- [General experience of the journal club differed by gender and course, with engagement and clarity ratings varying between groups](journal-club-engagement-clarity-group-differences.md) — related

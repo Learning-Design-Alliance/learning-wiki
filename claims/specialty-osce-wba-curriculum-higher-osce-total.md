@@ -53,3 +53,4 @@ Single-center prospective educational intervention with a historical-control com
 - [SKIT raises theoretical exam and OSCE scores versus traditional teaching for cross-department emergency rotators](skit-higher-theory-osce-scores-emergency-rotation.md) — related
 - [Medical students in an e-learning-based flipped classroom plus simulation training score significantly higher on a six-station emergency OSCE total score than students in classic classroom teaching with identical simulation training](flipped-classroom-higher-emergency-osce-total-score.md) — related
 - [Mini-CEX intervention groups outperformed controls on OSCE results (Cohen's d = 0.71)](mini-cex-higher-osce-scores.md) — related
+- [Communication simulation training raises senior medical students' informed consent OSCE scores under the UCD rubric versus standard clinical learning (mean grade C to B+, effect size 0.79)](cst-improves-consent-osce-ucd-rubric.md) — related

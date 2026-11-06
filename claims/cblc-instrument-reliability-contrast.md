@@ -48,3 +48,4 @@ Psychometric analysis of both instruments in the same cohort. The article report
 - [Questionnaire constructs showed acceptable to strong internal consistency (α = 0.740 to 0.945)](questionnaire-constructs-internal-consistency.md) — related
 - [The post-study survey instrument showed high internal consistency (alpha = 0.90)](cyberagents-survey-alpha-090.md) — related
 - [Total competence questionnaire scores increased significantly after the CBLC with a small effect size](cblc-total-competence-increase.md) — related
+- [Satisfaction with the virtual simulator perfectly correlated with desire to use it for additional paediatric procedures, and the 12-item questionnaire showed high internal consistency (Cronbach's α = 0.91)](hvrs-survey-consistency-satisfaction-correlation.md) — related

@@ -47,3 +47,4 @@ The review reports, citing Seid et al. (2022), a decrease of 0.026 units per uni
 ## Related Claims
 - [Twelve factors are significantly associated with nurses' spiritual care competency (p < 0.01)](twelve-factors-influence-nurse-spiritual-care-competency.md) — a broader claim this one bears on
 - [Nurses who received spiritual education courses scored higher in spiritual care ability, reported as the biggest influencing factor](spiritual-education-courses-biggest-factor.md) — related
+- [Age and working experience each significantly predict higher spiritual care competency scores](age-experience-predict-spiritual-care-competency.md) — reports the opposite

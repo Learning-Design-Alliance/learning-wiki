@@ -59,3 +59,5 @@ Bootstrapped path coefficient from the PLS-SEM structural model (Table 6). The S
 - [Self-efficacy, resilience, optimism, and responsibility each positively predict student engagement among Chinese undergraduates](psycap-dimensions-positive-predictors-engagement-chinese-undergraduates.md) — related
 - [Self-efficacy strongly predicts learning achievement (β=0.647, p<0.001)](self-efficacy-predicts-achievement-sem.md) — related
 - [Student-content interaction significantly and positively predicts self-efficacy in student-centered classrooms (β=0.462, p<0.001)](student-content-interaction-predicts-self-efficacy-sem.md) — related
+- [Faculty autonomous motivation positively predicts teacher self-efficacy in Chinese higher education](autonomous-motivation-predicts-self-efficacy-chinese-faculty.md) — related
+- [The motivation–self-efficacy–innovation model holds invariantly across gender, career stage, and academic discipline](sem-model-invariant-across-demographics.md) — related

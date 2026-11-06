@@ -52,6 +52,7 @@ Based on the finding that novices gained more knowledge while experienced learne
 - [Provide differentiated scaffolding matched to teachers' behavioral-cognitive profiles when supporting multi-agent AI workflow design](differentiated-scaffolding-teacher-ai-design-profiles.md)
 - [Design learner-tailored instructional systems by applying expertise reversal findings](apply-expertise-reversal-to-adaptive-design.md)
 - [Tailor ECG education by experience level and schedule regular refresher courses](tailor-ecg-education-by-experience-and-refreshers.md)
+- [Adapt journal club activities to student academic level and provide structured support for junior students](adapt-journal-club-to-student-level.md)
 
 ## Examples
 -

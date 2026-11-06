@@ -54,6 +54,7 @@ The article recommends a goal-directed, skill-focused curriculum using handheld 
 - [Augmented Reality (AR) for Medical Education and Training](augmented-reality-ar-for-medical-education-and-training.md)
 - [Use a low-cost 3D-printed simulator to reduce financial barriers in ultrasound-guided procedural training](low-cost-3d-printed-models-for-us-training.md)
 - [Integrate voluntary handheld ultrasound practice into undergraduate eFAST curricula alongside digital self-study](integrate-handheld-ultrasound-practice-undergraduate-curriculum.md)
+- [Train prehospital providers on the portable ultrasound devices their agencies already use or plan to adopt](train-on-agency-own-pocus-devices.md)
 
 ## Examples
 -

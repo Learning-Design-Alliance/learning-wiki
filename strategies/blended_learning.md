@@ -92,6 +92,7 @@ Blended designs outperform either mode alone when the two components are deliber
 - [Implement XR-based ultrasound training as partial replacement of standard training during a dedicated training day](xr-partial-replacement-training-day.md)
 - [Provide adaptive online support and targeted guidance for students with weaker self-study motivation in blended flipped courses](adaptive-online-support-varied-self-study-strategy.md)
 - [Combine varied teaching formats with regular knowledge-testing questions and direct feedback in flipped-classroom e-learning](e-learning-formats-questions-direct-feedback-strategy.md)
+- [Blend repeated in-person education with digital reinforcement tools such as quizzes, video reviews and mobile reminders](digital-reinforcement-blended-repeated-education.md)
 
 ## Related Elements
 - [Lectures](../elements/lectures.md) — typically relocated to the online strand as recorded video

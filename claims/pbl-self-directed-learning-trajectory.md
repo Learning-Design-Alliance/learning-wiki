@@ -51,3 +51,4 @@ Theme from thematic analysis of focus groups and reflective journals with 21 pos
 - [The study identifies well-structured project design, adequate teacher support, and cultivated self-directed learning awareness as core elements for effective PBL implementation](pbl-core-elements-postgraduate-implementation.md) — a broader claim this one bears on
 - [Collaborative learning in the postgraduate PBL course did not achieve deep peer collaboration, unlike the positive self-directed learning outcomes](pbl-collaborative-learning-shortfall.md) — related
 - [Postgraduate nursing students in the PBL course reported a multi-layered sense of accomplishment spanning knowledge gains, emotional satisfaction, and professional identity development](pbl-sense-of-accomplishment-nursing.md) — related
+- [Upholding professional credibility under peers' scrutiny is an enabler of agentic learning](professional-credibility-enables-agentic-learning.md) — related

@@ -74,3 +74,4 @@ Curriculum-integrated interactive learning exercise (n=158) for second-year stud
 - [Hybrid simulation with role-playing improves hand hygiene compliance and PPE use in medication administration among nursing students](hybrid-simulation-improves-hand-hygiene-and-ppe-nursing.md) — related
 - [Nurses reported initiating discussions with prescribers on switching from intravenous to oral antimicrobials after taking the course](nurses-initiate-iv-to-oral-switch-discussions-post-course.md) — related
 - [All but one of five studies reporting resident confidence before and after an educational intervention reported increased resident confidence.](rhinoplasty-education-interventions-increase-resident-confidence.md) — a broader claim this one bears on
+- [Discharge-medication knowledge for EV and PUD increased significantly only when all residents were combined (p = .01), not at individual PGY levels](discharge-medication-knowledge-combined-gain.md) — related

@@ -53,3 +53,4 @@ Pairwise meta-analysis found "no significant difference in the average item disc
 - [Including ethnicity does not significantly change item discrimination](ethnicity-inclusion-no-discrimination-effect.md) — related
 - [Pharmacology assessment items written under the integrated flipped case-based curriculum showed significantly higher item difficulty than legacy items while maintaining item discrimination](integrated-curriculum-higher-item-difficulty.md) — related
 - [After removing poorly performing questions, physical specimens showed higher point biserial discriminatory capacity than VR, though both exceeded the accepted threshold](point-biserial-physical-higher-than-vr.md) — reports the opposite
+- [The AI-generated examination showed significantly lower item discrimination than the human-designed examination (0.35 vs. 0.49)](ai-exam-lower-discrimination.md) — reports the opposite

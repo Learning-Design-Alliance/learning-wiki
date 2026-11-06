@@ -96,3 +96,4 @@ Leave-one-out sensitivity analysis for theoretical knowledge: pooled effects sta
 - [Flipped classroom residents report higher perceived teaching effectiveness in clinical skills, learning interest, self-learning, problem-solving, and team collaboration, but not theoretical knowledge](fc-higher-perceived-effectiveness-domains.md) — reports the opposite
 - [Video-production experiential teaching raises theoretical knowledge scores more than lecture-based instruction in dental preventive medicine students](video-production-experiential-teaching-improves-theoretical-knowledge.md) — related
 - [Students rated OSCEai favourably compared to lecture-based teaching methods (4.14/5, P < 0.0001)](osceai-favoured-over-lecture-teaching.md) — related
+- [FC residents rated good teaching and generic skills higher, and appropriate assessment lower, than LB residents, with no differences on clear goals or workload](fc-ceq-dimension-differences.md) — related

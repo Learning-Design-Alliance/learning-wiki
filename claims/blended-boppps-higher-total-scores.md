@@ -77,3 +77,4 @@ Meta-analysis of 13 randomized controlled trials with 2030 students pooling tota
 - [Students in the blended PBL-CBL-seminar group report higher teaching-mode evaluation, internship-effect self-evaluation, and satisfaction than LBL students](blended-group-higher-questionnaire-satisfaction.md) — related
 - [Medical students taught histology with a flipped-classroom blended model scored significantly higher on the end-of-course exam than students taught conventionally in a randomized trial](flipped-classroom-higher-histology-exam-scores.md) — related
 - [Experimental group achieved superior theoretical and practical assessment scores compared to control group](flipped-boppps-superior-final-assessment-scores.md) — a narrower finding that bears on this claim
+- [Medical statistics teaching in Chinese medical schools is dominated by large-class lecture-based instruction with limited practical training](lecture-dominated-statistics-teaching-limited-practicals.md) — related

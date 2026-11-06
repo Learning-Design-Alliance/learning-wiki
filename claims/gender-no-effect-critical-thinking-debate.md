@@ -52,3 +52,4 @@ The two-way ANOVA on CCTST gain scores showed no significant main effect of gend
 - [Group × gender interaction favored females in the experimental group](group-gender-interaction-favor-female-experimental.md) — reports the opposite
 - [Jigsaw's advantage over conventional instruction held for both male and female students, with no significant main effect of treatment on gender](jigsaw-gender-neutral-attitude-effect.md) — related
 - [Significant gender difference favoring male students on the e-learning subscale](gender-difference-e-learning-subscale-males.md) — related
+- [Male students reported higher perceived skill improvements and more favorable domain scores than female students across all journal club domains](journal-club-gender-differences-self-reported.md) — reports the opposite

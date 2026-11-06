@@ -49,3 +49,4 @@ Authors' interpretation of the randomized trial's primary outcome, consistent wi
 - [No between-group differences in changes on any modified OSAUS subcategory, including image optimization](osaus-subcategory-changes-null-between-groups.md) — related
 - [Knowledge and skills decline significantly at 3 months after both training modalities](knowledge-and-skills-decline-significantly-at-3-months.md) — possibly the same claim (merge candidate)
 - [The performance advantage of handheld practice appears across all five modified OSAUS subdomains](osaus-subdomain-advantage-handheld-practice.md) — related
+- [One-time educational interventions show transient effects, with knowledge and performance declining within months of initial training](one-time-education-transient-effects-infection-control.md) — related

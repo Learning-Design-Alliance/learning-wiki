@@ -107,3 +107,4 @@ The review reports these positive signals alongside settings where incorrect key
 - [Students scored significantly higher on instructor-written MCQs than on ChatGPT-generated MCQs in a within-subjects dental assessment](instructor-mcqs-scored-higher-than-chatgpt-mcqs.md) — related
 - [7.7% of orthopedic MCQs produced completely false responses from both LLMs, suggesting item construction flaws](mcqs-failed-by-both-llms-suggest-item-flaws.md) — related
 - [SDL alone is insufficient for CPR training; instructor presence is needed for quality assurance.](sdl-insufficient-cpr-training.md) — related
+- [Generative AI, when used under precise conditions, reduces the cost and time of producing high-quality MCQs without compromising quality](genai-reduces-mcq-cost-and-time.md) — reports the opposite

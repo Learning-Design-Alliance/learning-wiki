@@ -52,3 +52,4 @@ Satisfaction survey responses from 437 workshop attendances; the 2023–2024 sur
 - [In an exploratory pilot (n=8), students rated LEA's usability, Chat Mode, Quiz Mode, learning outcomes, and trust mostly positively, with Chat Mode the strongest performer](lea-pilot-positive-usability-chat-quiz-trust.md) — related
 - [Workshop participation was sustained across 2 academic years, with an overall occupancy rate of 61.1%](sustained-participation-occupancy-rate.md) — related
 - [Mean Likert ratings across engagement, collaboration, conceptual understanding, and satisfaction criteria were approximately 4.00 on the 5-point scale](mhw-tbl-mean-likert-4.md) — related
+- [Participants rated the POCUS course near the maximum on all evaluation measures, exceeding the pre-set satisfaction threshold](pocus-course-high-satisfaction-ratings.md) — related

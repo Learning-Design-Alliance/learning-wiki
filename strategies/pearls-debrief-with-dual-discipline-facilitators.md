@@ -43,6 +43,7 @@ Postsession debriefing uses a reflective model structured according to the PEARL
 - [Include an immediate, structured debriefing session with descriptive, analysis and application phases in every high-fidelity simulation training](immediate-structured-debriefing-hf-simulation.md)
 - [Use a structured debriefing script (modified PEARLS) to scaffold self-guided debriefing in VR simulation](structured-script-scaffolds-self-guided-debriefing.md)
 - [Facilitate debriefing as guided reflection linking theory to practice](guided-reflection-debriefing-facilitation.md)
+- [Pair the simulation with a structured 30–40 minute debrief including a PowerPoint lecture, reflection, and checklist review](simulation-debrief-lecture-checklist-review.md)
 
 ## Examples
 -

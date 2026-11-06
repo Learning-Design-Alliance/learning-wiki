@@ -53,3 +53,4 @@ Process data reported for the Participatory Learning phase: nurses rotated throu
 - [In one participatory budgeting case, Latino immigrant participation lapsed under outreach with interpretation and was sustained only after the activity structure was redesigned](resolving-participation-double-bind-requires-redesigned-activity-structures.md) — related
 - [All 20 enrolled residents completed the full simulation-based mastery learning program for nasolacrimal duct probing](sbml-nasolacrimal-probing-feasibility-completion.md) — related
 - [Completion rates varied widely across the 22 key clinical tasks, with oxygen titration, fluid administration, and requesting bloodwork achieved by all participants and calling for help achieved in under 60% of cases](rcdp-task-completion-variation-checklist.md) — related
+- [The inaugural student-led CBL workshop achieved 100% attendance among its 30 participants](cbl-workshop-full-attendance-feasibility.md) — related

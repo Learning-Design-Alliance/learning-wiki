@@ -52,3 +52,4 @@ Descriptive survey results on perceived benefit and contribution (n = 191 respon
 - [The collaborative case-based ‘whisper exam’ is feasible to implement as summative assessment in undergraduate medical education, with a 93.1% pass rate among 350 third-year students](whisper-exam-feasible-summative-collaborative-assessment.md) — related
 - [Most students reported lower pre-exam anxiety before the collaborative whisper exam compared to traditional individual written examinations](whisper-exam-lower-perceived-stress.md) — related
 - [Students perceived teamwork in the whisper exam as constructive and enjoyable, with nearly all respondents rating interaction as constructive](whisper-exam-teamwork-constructive-enjoyable.md) — related
+- [Co-learning with peers in TBL helps students identify knowledge gaps and practise establishing consensus](co-learning-peers-knowledge-gaps-consensus.md) — related

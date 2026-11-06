@@ -47,7 +47,8 @@ Test blueprints are the mechanism by which achievement testing meets the practic
 - 
 
 ## Examples
--
+
+- [Start AI-based MCQ generation from a test blueprint specifying topic and cognitive domain](../strategies/blueprint-first-ai-mcq-generation.md)
 
 ## Key Sources
 - Steven Wise. (2020). The impact of test-taking disengagement on item content representation. Applied Measurement in Education, 33(2), 83-94. https://doi.org/10.1080/08957347.2020.1732386

@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
 > **Design limits** · R.‐L. Chang 2025: groups were assigned but students were analysed as independent · R.‐L. Chang 2025 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-06)
 
 ## Subclaims

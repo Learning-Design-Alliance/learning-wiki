@@ -45,6 +45,7 @@ The article recommends that when multiple emotions are considered simultaneously
 ## Related Strategies
 
 - [Develop academic buoyancy to benefit achievement of students with mild anxiety](develop-buoyancy-mild-anxiety-strategy.md)
+- [Assess and target multiple achievement emotions, and raise intrinsic value, when supporting primary mathematics students](assess-multiple-emotions-raise-intrinsic-value.md)
 
 ## Examples
 -

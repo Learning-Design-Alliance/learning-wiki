@@ -87,3 +87,4 @@ Directional signed-discrepancy analysis in the two AI-assisted conditions: "beha
 - [Reflection produced selective rather than blanket rejection of AI: alignment with correct advice stayed high while alignment with incorrect advice dropped](reflection-selective-not-blanket-ai-rejection.md) — related
 - [Trust and reliance can diverge, and self-reported reliance measures cannot classify calibration without output-quality ground truth](trust-reliance-divergence-measures-not-calibrated.md) — related
 - [Students frequently accepted misleading AI recommendations (overreliance) while rarely rejecting correct ones (underreliance)](overreliance-frequent-underreliance-rare.md) — related
+- [Physicians need awareness that AI tools can negatively influence their cognitive processes, including over-reliance on AI-generated advice](ai-tools-negative-cognitive-influence-physicians.md) — related

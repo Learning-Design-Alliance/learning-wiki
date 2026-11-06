@@ -51,3 +51,4 @@ Questionnaire results from the four-group quasi-experiment, measured on a 20-ite
 - [Both periodontal endoscopy-assisted groups rated the teaching method significantly higher than the traditional group in stimulating interest and confidence in future learning and practice](endoscopy-assisted-teaching-raises-interest-confidence.md) — related
 - [The flipped classroom alone showed no significant advantage over traditional teaching on class performance, practical assessment, or theoretical examination in this course](fcm-alone-no-advantage-over-traditional.md) — related
 - [Objective (O) section SOAP skill scores were significantly higher in the Combined and MFCS groups than in the FCM and traditional groups](mfcs-groups-higher-o-soap-scores.md) — related
+- [No significant difference in satisfaction between AR-assisted and traditional teaching for anatomy and delivery sections](ar-obgy-satisfaction-no-difference.md) — related

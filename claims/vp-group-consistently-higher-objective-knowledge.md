@@ -49,3 +49,4 @@ Adjusted linear mixed-effects model on the 15-item weighted MCQ knowledge test i
 - [Adding a virtual patient simulation to standard nursing training produces significantly greater improvement in confidence in asking about IPV than standard training alone](vp-simulation-greater-confidence-asking-about-ipv.md) — related
 - [Students rated the integrated VP session positively, with role modelling (M = 4.44) and varied case practice (M = 4.35) rated higher than “what-if” discussions (M = 3.76)](positive-perceptions-vp-role-modelling-varied-cases-what-if.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
+- [On the landing task the efficient training group outperformed the traditional group overall, but the two groups improved at statistically similar rates](landing-main-effect-no-interaction.md) — related

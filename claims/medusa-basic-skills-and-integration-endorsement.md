@@ -51,3 +51,4 @@ Descriptive questionnaire results from the external validation with 40 neurosurg
 - [VR neurosurgical simulators show favourable visual realism but low haptic fidelity, with only 12% of participants in one study agreeing haptics were realistic](vr-neurosurgical-simulators-low-haptic-fidelity.md) — related
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — a broader claim this one bears on
 - [The mixed-reality aneurysm clipping simulator achieved robust face and content validity, with mean questionnaire scores between 3.13 and 4.25 among 40 neurosurgeons](medusa-simulator-face-content-validity.md) — a broader claim this one bears on
+- [Most fellows rate VRFF-SSTS helpful and support its integration into residency programs, but rate its haptic feedback inferior to the sawbone model](fellows-rate-vrff-ssts-helpful-haptics-inferior.md) — related
