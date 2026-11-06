@@ -72,3 +72,5 @@ Same synthesis of faculty-versus-resident comparisons. The review reports that d
 - [Hospitalization time was significantly longer in the staff (non-teaching) group than in the resident (teaching) group](staff-group-longer-hospitalization.md) — a narrower finding that bears on this claim
 - [Median hospital length of stay was longer in the intervention group than the control group (19 vs. 13 days)](longer-los-intervention-group.md) — related
 - [In-hospital mortality, complications and postoperative hospitalization were similar between resident-led and consultant-led matched cases](resident-led-in-hospital-outcomes-similar.md) — a narrower finding that bears on this claim
+- [Mortality after CABG was higher for the local team (13.7%) than for international missions (8.8%), but the difference was not statistically significant](cabg-mortality-local-vs-missions-not-significant.md) — a narrower finding that bears on this claim
+- [The local surgical team had significantly longer total operation, aortic cross-clamping, and cardiopulmonary bypass times than international missions](local-team-longer-operative-times-than-missions.md) — related

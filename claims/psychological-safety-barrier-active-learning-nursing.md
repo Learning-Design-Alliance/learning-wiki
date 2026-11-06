@@ -60,3 +60,4 @@ Student focus group data (Theme 3, Subtheme 3.1.3). Participants reported fear o
 - [Teachers perceived that making students feel stressed during simulations is nonbeneficial for developing nursing students' critical thinking, favouring exciting and fun learning opportunities.](stress-free-motivating-climate-ct-nursing-sbl.md) — related
 - [Male nursing students felt anxiety and stress during simulation due to cultural, religious and evaluative factors](simulation-anxiety-stress-cultural-evaluative-factors.md) — related
 - [Students' lack of confidence in problem-solving skills reduces active participation in PBL](student-confidence-problem-solving-pbl-participation.md) — possibly the same claim (merge candidate)
+- [Barriers to engaging in active learning include time constraints, exhaustion, group dynamics with unfamiliar peers, fear of negative evaluation, and poor session management](barriers-time-safety-group-dynamics.md) — a broader claim this one bears on

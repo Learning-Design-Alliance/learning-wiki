@@ -49,3 +49,5 @@ Linear mixed model with experience level as factor across 54 bronchoscopies (int
 - [Even experienced bronchoscopists miss bronchial segments when instructed to inspect all segments](experienced-bronchoscopists-miss-segments.md) — related
 - [AI outcome measures DC80, SP80 and procedure efficiency80 provide validity evidence for assessing clinical bronchoscopy performance](dc-sp-efficiency-validity-evidence-clinical-bronchoscopy.md) — a broader claim this one bears on
 - [Structured progress correlates strongly with diagnostic completeness and procedure efficiency in clinical bronchoscopy](sp80-correlates-dc80-procedure-efficiency.md) — related
+- [Both AI-trained and expert-tutor-trained physicians improved significantly on most performance metrics from pre- to post-training](both-training-methods-improve-bronchoscopy-performance.md) — related
+- [No significant difference between AI-trained and expert-tutor-trained physicians in diagnostic completeness or structured progress at final test](no-group-difference-diagnostic-completeness-structured-progress.md) — related

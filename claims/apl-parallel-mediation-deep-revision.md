@@ -66,3 +66,4 @@ Specific indirect effects assessed with a 10,000-resample bootstrapping procedur
 - [Students' implementation of self-assessment is influenced by perceived usefulness, affective attitude, self-efficacy, important others, and psychological safety](individual-factors-self-assessment-implementation.md) — related
 - [Dual Empowerment positively predicts affective, motivational, and cognitive mediating processes](dual-empowerment-predicts-psychological-mediators.md) — related
 - [Academic empowerment shows no statistically significant association with academic performance after adjustment](empowerment-no-significant-association-academic-performance.md) — related
+- [Autonomous learning motivation and intrinsic motivation significantly predict English scores](autonomous-intrinsic-motivation-predict-english-scores.md) — related

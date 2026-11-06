@@ -54,3 +54,4 @@ Longitudinal observational analysis of an eight-year single-surgeon case series;
 - [Console time decreased substantially with increasing surgical experience, with an estimated reduction of 33.2 min over the first 14 procedures](console-time-decreases-with-experience-versius.md) — related
 - [Conversion rates decline across the RPD learning curve while emergency conversions remain absent, and higher BMI is associated with conversion](conversion-declines-across-rpd-curve-bmi-risk.md) — related
 - [Console time and active time decrease significantly between the initial and proficiency phases of the RPD learning curve](console-active-time-decrease-across-rpd-curve.md) — related
+- [In all three groups, time decreased and smoothness values rose significantly from pre-test to later tests, with no significant group differences in handedness or distance between instrument tips](within-group-improvement-all-groups.md) — related

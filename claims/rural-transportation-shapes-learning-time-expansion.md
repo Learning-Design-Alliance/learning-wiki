@@ -55,3 +55,4 @@ Site visit findings from nine purposively selected rural SIG schools on how rura
 - Teachers report logistical barriers — transportation, weekly supply shopping, limited computer access, and missing basic supplies — that complicate school participation for students in foster care — related
 - [Rural schools were far more likely than nonrural schools to offer Project On-Track tutoring during school only](ontrack-rural-schools-during-school-tutoring.md) — related
 - [Educators perceived AR as an accessible learning tool for independent study offering an alternative for students who cannot attend class](ar-accessible-independent-study-perception.md) — related
+- [Programs that extended the school day or offered unspecified extra support showed significantly lower reading scores than non-participants](extended-schoolday-negative-reading.md) — related

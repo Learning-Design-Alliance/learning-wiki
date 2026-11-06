@@ -67,3 +67,4 @@ The same regression model predicting acceptance of the online teaching format sh
 - [Live webinars foster greater intrinsic motivation than recorded lectures, an effect fully mediated by perceived choice](webinar-intrinsic-motivation-mediated-by-perceived-choice.md) — related
 - [Paramedics' preferred online learning format depends on the format they most recently experienced](format-preference-follows-experienced-format.md) — related
 - [Recorded lectures on a learning platform are more accepted than live webinars among paramedics after a two-hour online course](learning-platform-more-accepted-than-webinar-paramedics.md) — related
+- [Autonomous learning motivation and intrinsic motivation significantly predict English scores](autonomous-intrinsic-motivation-predict-english-scores.md) — related

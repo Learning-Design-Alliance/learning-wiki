@@ -61,3 +61,4 @@ Multiple linear regression with GPA as dependent variable and IPAQ ordinal score
 - [Male students demonstrated higher GPA than female students in this sample, and sex was a significant regression predictor](sex-difference-gpa-male-higher-dilla-sample.md) — related
 - [The PA-only intervention was associated with significantly lower end-of-year academic scores compared to placebo](kazifya-pa-only-lower-end-of-year-scores.md) — reports the opposite
 - [Lower BMI, higher healthy diet score, and better sleep quality are associated with high language performance in girls but not boys](bmi-diet-sleep-quality-girls-language-performance.md) — related
+- [Higher BMI and extensive physical activity (2 h or more per day) are independently negatively associated with academic achievement](bmi-and-extensive-physical-activity-negative-factors-gpa.md) — reports the opposite

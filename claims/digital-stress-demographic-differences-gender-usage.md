@@ -67,3 +67,4 @@ One-way ANOVA across daily social-media-usage groups in the same survey; printed
 ## Related Claims
 - [Background variables: gender, school socio-economic status, and prior acquaintance with students showed no significant differences in experiences, while number of children and seniority correlated positively with positive and negatively with negative experiences.](teacher-background-null-and-correlational-predictors-online-experiences.md) — related
 - [Socio-economic status has no significant effect on junior secondary mathematics achievement when controlling for pretest](ses-no-significant-effect-math-achievement-jss.md) — related
+- [Extensive self-study (2 h or more per day) is more common in the academic achievement group, while social media use is comparable between groups](self-study-higher-social-media-comparable-between-gpa-groups.md) — related

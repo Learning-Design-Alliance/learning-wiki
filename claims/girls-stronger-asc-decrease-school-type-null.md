@@ -56,3 +56,4 @@ Control-variable results from the final three-level model, with male as the refe
 - [Boys report moderately higher academic self-concept than girls in fourth and fifth grades, but not in sixth grade](boys-higher-asc-grades-4-5-not-6.md) — related
 - [Self-affirmation eliminated the female reading advantage over boys observed in the comparison group](self-affirmation-erased-female-reading-advantage.md) — related
 - [Male students report slightly higher classroom engagement than female students in the sample](gender-gap-engagement-boys-higher.md) — related
+- [Adolescents' academic self-concept decreases over 1.5 years in mid-adolescence](asc-declines-over-1-5-years-mid-adolescence.md) — related

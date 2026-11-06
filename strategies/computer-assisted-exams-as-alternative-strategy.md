@@ -47,7 +47,8 @@ Based on their null mode effect, the authors recommend that "computers can be ad
 - [Timely feedback on homework increases learning, and computer platforms providing immediate feedback help teachers adapt](../claims/timely-feedback-improves-homework-learning.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Adopt electronic surveys for undergraduate MSF to reduce rater burden and ease data management](electronic-surveys-for-ugme-msf.md)
 
 ## Examples
 -

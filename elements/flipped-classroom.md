@@ -13,7 +13,7 @@ generated:
 # Flipped Classroom
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 76 claims (43 for, 28 mixed, 5 against) · 42 studies (25 causal, 12 quant-synthesis, 3 review, 1 associational, 1 design), `q1`–`q4` · 14 of 42 report an effect size · 75 claims rest on one study
+> **Evidence** · 77 claims (44 for, 28 mixed, 5 against) · 43 studies (26 causal, 12 quant-synthesis, 3 review, 1 associational, 1 design), `q1`–`q4` · 15 of 43 report an effect size · 76 claims rest on one study
 
 ## Description
 Flipped classroom is the element in which initial content exposure happens before class so in-class time can focus on application and feedback.
@@ -100,6 +100,7 @@ Flipped classroom is the element in which initial content exposure happens befor
 - [The AI-enhanced flipped classroom group scored higher on pre-class preparation and PPT quality than the flipped classroom group, with no significant differences in presentation performance or professional knowledge mastery.](../claims/ai-flipped-classroom-pre-class-quality-gains-bounded.md) [~W]
 - [Students taught with a flipped classroom model in live online classes show significantly higher delayed post-test retention than traditionally taught peers](../claims/fcm-loc-higher-delayed-retention.md) [+M] — attached 2026-11-05 from Aslan Seda Aktı et al. (2025), which proposed "Flipped classroom implementation package for live online classes: short expert-reviewed videos, worksheets, and Zoom breakout-room cooperative learning"; tests this page's relationship.
 - [The flipped classroom model in live online classes produces no significant immediate learning achievement advantage over traditional teaching](../claims/fcm-loc-no-immediate-achievement-difference.md) [~M] — attached 2026-11-05 from Aslan Seda Aktı et al. (2025), which proposed "Flipped classroom implementation package for live online classes: short expert-reviewed videos, worksheets, and Zoom breakout-room cooperative learning"; tests this page's relationship.
+- [The flipped classroom significantly increased English test scores versus traditional teaching](../claims/flipped-classroom-raises-english-test-scores.md) [+M] — attached 2026-11-06 from Wang Zhonger et al. (2025), which proposed "Pre-class/in-class/post-class flipped classroom instructional design for college English"; tests this page's relationship.
 
 ## Related Elements
 - [Pre-Class Preparation](pre-class-preparation.md)

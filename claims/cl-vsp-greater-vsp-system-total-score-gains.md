@@ -53,3 +53,4 @@ Clinical skill test results from the randomized controlled trial's formative eva
 - [VSP training produced significantly greater improvement in treatment-plan abilities, including medication management and nonpharmacological treatment, than traditional teaching](cl-vsp-treatment-planning-gains.md) — related
 - [In an RCT reviewed by this study, an LLM-based digital patient improved ophthalmology medical history-taking skills relative to control](llm-digital-patient-improves-history-taking-rct.md) — related
 - [GP residents showed statistically significant pre-post improvements in history-taking (Cohen's d = 1.11) and clinical reasoning (Cohen's d = 1.32) after a 12-week VP training program](vp-training-improves-history-taking-clinical-reasoning.md) — related
+- [At Week 4, only implementation ability differed significantly among clinical reasoning dimensions; knowledge acquisition showed no significant difference](scaffolded-cbd-week4-null-dimensions.md) — related

@@ -112,3 +112,4 @@ Review synthesis of correlational studies on self-confidence, self-efficacy and 
 - [Personal resources have a reciprocal relationship with study resources and relate to engagement and achievement](personal-resources-reciprocal-study-resources.md) — related
 - [Student teachers' beliefs about sources of knowledge predict their learning approaches and motivation in teacher education](source-of-knowledge-beliefs-predict-learning-approaches.md) — related
 - [Positive motivational beliefs are associated with high-level learning strategies, consistent with Pintrich and García's self-regulated learning proposal](motivation-cognition-patterns-srl.md) — related
+- [Between-person baseline levels: autonomous motivation and achievement correlate positively, controlled motivation and achievement weakly negatively](trait-level-correlations-motivation-achievement.md) — related

@@ -97,3 +97,5 @@ Same RCT, Results section, reporting the two examination subsections. Basic theo
 - [Students taught with a progressive blended case-based model scored significantly higher on the post-test than lecture-taught students in an integrated urology module](blended-cbl-higher-posttest-urology.md) — related
 - [Most medical students demand clinically integrated case teaching and prefer blended learning over traditional classroom instruction](student-demand-case-integrated-blended-statistics-teaching.md) — related
 - [ChatGPT-guided PBL residents scored significantly higher on a nephrology theoretical exam than traditionally taught residents](chatgpt-pbl-higher-theoretical-exam-nephrology.md) — related
+- [SPOC+EIL improves ability-analysis and total written scores but not basic knowledge scores relative to LBL](spoc-eil-ability-scores-not-basic-knowledge.md) — related
+- [The randomized trial assigned 70 residents equally to BOPPPS-plus-flipped-classroom or traditional teaching with no significant baseline differences](boppps-flipped-og-trial-baseline-comparable.md) — related

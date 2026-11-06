@@ -54,6 +54,7 @@ The brief recommends schoolwide integration of mindfulness into existing routine
 - [Include emotional assessments into new digital learning platforms to address emotional stress and teacher burnout before attrition](emotional-assessments-in-digital-learning-platforms.md)
 - [Deep slow breathing (including the 4-7-8 method) as a pre-procedure stress-management technique for trainees performing time-critical procedures](deep-slow-breathing-attenuates-procedural-stress.md)
 - [Integrate mindfulness training programs into nursing curricula to support focus, self-awareness, and emotional regulation](mindfulness-training-in-nursing-curricula-strategy.md)
+- [Develop nursing students' compassion competence through role modelling, simulation-based methods, role-playing, and mindfulness techniques within a systematic, continuous curriculum](compassion-focused-education-strategies-nursing-tabriz.md)
 
 ## Examples
 -

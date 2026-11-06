@@ -74,3 +74,4 @@ Randomized trial in which 50 schools were assigned to four interventions and stu
 - [Phonemic awareness improvements from AVG training are maintained at a 6-month follow-up](avg-phonemic-awareness-gain-6month-maintenance.md) — related
 - [Poor cognitive skills of the lowest-performing first-grade school entrants can be remediated through a two-year training intervention](poor-cognitive-skills-remediated-primary-intervention.md) — related
 - [Anticipatory reading guides significantly improve reading comprehension scores for third-grade struggling readers compared to traditional instruction.](anticipatory-reading-guides-improve-third-grade-comprehension.md) — related
+- [Remediation programs with cognitive skill goals showed significant positive effects, while programs with non-cognitive goals showed no significant effects on test scores](cognitive-goals-effective-non-cognitive-null.md) — related

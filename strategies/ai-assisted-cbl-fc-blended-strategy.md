@@ -63,6 +63,7 @@ The article implements a blended instructional model in which foundational conte
 - [Reform TDI residency training with blended learning, simulation-based training, and competency-based assessment](blended-simulation-competency-tdi-training-reform.md)
 - [Provide adaptive online support and targeted guidance for students with weaker self-study motivation in blended flipped courses](adaptive-online-support-varied-self-study-strategy.md)
 - [Use multiple teaching methodologies — case- or team-based learning, flipped classrooms, simulation, augmented reality, and interactive virtual patients — to build TDI competence](multiple-teaching-methods-tdi-confidence.md)
+- [Apply Dong et al.'s five flipped-classroom recommendations step-by-step when integrating flipped simulation into PAL simulation courses](flipped-simulation-five-recommendations-strategy.md)
 
 ## Examples
 -

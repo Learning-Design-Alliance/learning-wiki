@@ -52,6 +52,7 @@ The program used a simulation-based gatekeeping strategy: "STRs must pass three 
 
 - [Mandatory pre-intubation airway assessment with retraining for non-compliance](mandatory-airway-assessment-retraining-strategy.md)
 - [Use the validated VR simulator test for both formative feedback and summative certification within a mastery learning training program](foi-test-formative-summative-mastery-learning-use.md)
+- [Run a simulated clinical practice ability assessment before residents leave the department and evaluate teaching from results plus student feedback](simulated-pre-departure-assessment-feedback-strategy.md)
 
 ## Examples
 -

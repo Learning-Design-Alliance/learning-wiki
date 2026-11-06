@@ -85,3 +85,4 @@ An LLM prompt tournament with 12 learning engineers comparing 5 prompt templates
 - [The SP chicken anastomosis metrics achieved high inter-rater reliability (IRR 0.96) between two blinded trained reviewers](sp-anastomosis-metrics-inter-rater-reliability.md) — a narrower finding that bears on this claim
 - [Z-number representation captures both evaluation content and evaluator reliability in peer assessment](z-number-captures-reliability-peer-evaluations.md) — related
 - [Crowd-sourced rubric scoring by trained laypeople produces scores comparable to expert raters at substantially lower cost](crowd-sourced-assessment-comparable-expert-lower-cost.md) — related
+- [The AI feedback agent reliably detected empathy, reassurance, clarity, and tone balance but inconsistently assessed SPIKES adherence, improving when SPIKES was spelled out as a 6-step bulleted list](ai-feedback-agent-spikes-accuracy-mixed.md) — related

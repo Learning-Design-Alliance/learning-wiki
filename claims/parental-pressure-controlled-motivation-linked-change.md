@@ -48,3 +48,4 @@ Bivariate latent growth curve models in this preregistered four-wave study of 29
 ## Related Claims
 - [Across the secondary school transition, parental academic pressure and perceived negative relationships with teachers increased while peer victimization and autonomous academic motivation decreased, with no average linear change in controlled motivation](stressor-motivation-trajectories-secondary-transition.md) — related
 - [Parental academic pressure had the strongest association with controlled academic motivation, while perceived negative relationships with teachers had the strongest association with autonomous academic motivation](pressure-strongest-controlled-teacher-strongest-autonomous.md) — a broader claim this one bears on
+- [Between-person baseline levels: autonomous motivation and achievement correlate positively, controlled motivation and achievement weakly negatively](trait-level-correlations-motivation-achievement.md) — related

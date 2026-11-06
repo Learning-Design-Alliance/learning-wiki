@@ -62,3 +62,5 @@ The review attributes this to Marsh et al. (2018a, 2018b) and Lüdtke & Robitzsc
 - Next-generation cross-lagged models relax the convergence assumption in school motivation panel data — related
 - [Adding cross-lagged effects significantly improves model fit over autoregressive models for every model tested](cross-lagged-improve-fit-over-autoregressive.md) — related
 - [When marks and tests are modeled as separate latent variables with cross-lagged effects between them, effects of self-concept on achievement completely disappear](separate-indicators-self-concept-effects-disappear.md) — related
+- [Changes in students' autonomous motivation predict later mathematics achievement over school trimesters, in a RI-CLPM of secondary students](autonomous-motivation-predicts-later-math-achievement-ri-clpm.md) — related
+- [Controlled motivation and mathematics achievement show no reciprocal cross-lagged relations in RI-CLPM models](no-reciprocal-relation-controlled-motivation-achievement.md) — related

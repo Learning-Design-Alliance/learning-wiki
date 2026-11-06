@@ -58,6 +58,7 @@ The authors' forward-looking recommendations for strengthening VSP-based psychia
 - [Add interactive features — quizzes, gamified modules, and simulated clinical scenarios — to future versions of skills-training software](future-interactive-features-quizzes-gamification-scenarios.md)
 - [Integrate video-based simulations into traditional MCQ examinations to assess non-verbal cue recognition and diagnostic competence](video-simulation-complement-mcq-assessment.md)
 - [Future development: integrate generative AI and a graphical interactive interface to lower the learning curve](generative-ai-graphical-interface-future-direction.md)
+- [Develop next-generation virtual communication-training tools that integrate natural language processing, nonverbal cue detection, and conceptual and psychological fidelity](integrate-nlp-and-multifidelity-in-virtual-tools.md)
 
 ## Examples
 -

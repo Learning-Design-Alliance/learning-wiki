@@ -47,3 +47,4 @@ Authors' interpretive synthesis in the Discussion, attributed to Arts (2019) whe
 ## Related Claims
 - [GenAI's immediate answers reduce engineering students' teacher-student interactions for generalizable tasks, while teachers remain preferred for complex problem-solving](genai-immediacy-reduces-teacher-interactions.md) — related
 - [Students bound their reliance on AI feedback and advocate a hybrid model assigning AI broad language concerns and instructors individualized relational guidance](bounded-reliance-hybrid-feedback-preference.md) — related
+- [Most identified virtual communication-training tools (79%) allowed students to train completely autonomously, while 21% required an online instructor to mediate the training](most-virtual-communication-tools-autonomous.md) — related

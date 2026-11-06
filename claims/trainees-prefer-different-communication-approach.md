@@ -50,3 +50,4 @@ Self-report survey item in the COSTRUIRE study. The article reports that "only 2
 - [85.2% of surgical trainees report having communicated a difficult diagnosis without supervision during training](unsupervised-difficult-diagnosis-communication-prevalence.md) — related
 - [Surgical trainees who received formal communication training during medical school report the highest self-perceived communication competence](formal-training-associated-highest-self-competence.md) — related
 - [Students' free-text expectations at baseline centered on wanting better preparation, especially for treatment planning and first patient contact](baseline-comments-wish-better-preparation.md) — related
+- [In a randomized controlled study, pharmacy students with access to a digital medication-analysis tool performed better and only they felt secure in the physician conversation](digital-medication-analysis-tool-improves-student-performance.md) — related

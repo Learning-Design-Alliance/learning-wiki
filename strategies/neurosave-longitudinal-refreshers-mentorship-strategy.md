@@ -49,6 +49,7 @@ Because retention at follow-up was variable, the article recommends that a singl
 - [Design CPR education as an ongoing, reinforcement-based process combining spaced intervals, feedback, and cognitive components](cpr-education-reinforcement-based-design-strategy.md)
 - [Conduct short, simple skill-training sessions on a low-cost self-made model where full-scale simulators are unavailable, embedded in recurring refresher training](low-cost-model-short-fona-training-sessions.md)
 - [Offer recurring evidence-based suturing workshops, including through ACNM state affiliates, to support confidence and skill retention](recurring-suturing-workshops-recommendation.md)
+- [Use cadaveric workshops to compensate for missed prior ultrasound course attendance when allocating educational resources](cadaveric-course-compensation-resource-allocation-strategy.md)
 
 ## Examples
 -

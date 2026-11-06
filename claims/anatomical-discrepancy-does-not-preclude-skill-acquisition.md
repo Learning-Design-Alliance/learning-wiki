@@ -52,3 +52,4 @@ Review discussion of concurrent-validity studies comparing manikin airway anatom
 - [Physicians reported manikin-based training was regarded as inadequate for replicating technical nuances and anatomical variability of real patients](manikin-training-inadequate-real-patient-variability-cvc.md) — related
 - [Simulation is limited in replicating crisis adaptation, anatomical variability, and the psychological pressures of real patient care](simulation-limits-crisis-stress-risk-replication.md) — related
 - [VR simulation improves anesthesia technical skills training across airway management, spinal/epidural anesthesia, nerve block skills, and pain management](vr-improves-anesthesia-technical-training.md) — related
+- [Dental students strongly prefer manikins for realistic clinical scenarios and report more confidence after manikin training](manikins-preferred-realism-confidence.md) — related

@@ -50,3 +50,4 @@ Single-item burden measure (not reverse-coded) from the post-course questionnair
 - [SST residents report higher satisfaction with course content, resources, interaction, and teaching methods, with no difference in perceived learning burden](sst-higher-satisfaction-equal-burden.md) — related
 - [EBM-BOPPPS clerks reported higher perceived learning burden and stress, with qualitative comments about difficulty keeping up](ebm-boppps-learning-burden-stress.md) — related
 - [A majority of students reported that the BOPPPS teaching model increased their learning burden](boppps-his-increased-learning-burden.md) — related
+- [EIL raises students' active-learning ratings without increasing their perceived academic burden](eil-active-learning-no-added-burden.md) — reports the opposite

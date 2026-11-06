@@ -63,3 +63,4 @@ Sentiment analysis of open-ended survey responses conducted by ChatGPT4, which t
 - [VSG students reported predominantly positive views of the game, with technical glitches the most common criticism](vsg-student-opinions-positive-with-technical-glitches.md) — a narrower finding that bears on this claim
 - [Student feedback on the EYE-ECG2 video was largely positive or neutral, with 74% of intervention students responding](student-feedback-mostly-positive-neutral.md) — related
 - [Among RFETM-group students, 95.85% gave positive open-ended feedback, 3.63% neutral or uncertain, and 0.52% negative](rfetm-open-ended-comments-mostly-positive.md) — related
+- [Preclerkship narrative comments on clinical skills were overwhelmingly positive, with 90.6% of analysis units positive](preclerkship-narrative-comments-overwhelmingly-positive.md) — related

@@ -62,3 +62,4 @@ Predictive linear mixed-effects model built on Senior 1's data, plotting estimat
 - [OPI-derived learning curves stabilize within the first 10 months of a surgeon's experience despite increasing case complexity](opi-learning-curve-stabilizes-ten-months.md) — related
 - [Overall procedural time shows a statistically significant linear correlation with procedure sequence for all 3 operators](linear-correlation-procedure-time-sequence.md) — related
 - [Console exercise times differ between experienced and novice residents, but blinded console skill scores are statistically similar](console-times-differ-scores-similar-davinci-xi.md) — related
+- [Assignment of experienced surgical assistants was associated with low malfunction rates during program expansion, highlighting assistant-level proficiency](assistant-proficiency-associated-with-low-malfunction-rate.md) — related

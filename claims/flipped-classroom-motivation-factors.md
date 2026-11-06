@@ -56,3 +56,4 @@ Content analysis of questionnaire responses on motivation factors; Table 12 prin
 - [The three pilots shared online technology for mastery pathways, credit for demonstrated mastery, anytime/anywhere learning, and improved data management](proficiency-pilots-shared-design-attributes.md) — related
 - [Flexibility and access are an initial characterization of Open Teaching](open-teaching-flexibility-and-access.md) — related
 - [Students valued flexibility and self-directed learning but desired more in-person interaction and better lecture recordings in the hybrid flipped course](student-themes-flexibility-interaction-recordings.md) — related
+- [Remote flipped classrooms give pharmacy students time flexibility to engage with recorded lectures and revisit content at their convenience](remote-flipped-flexibility-recorded-lectures.md) — related

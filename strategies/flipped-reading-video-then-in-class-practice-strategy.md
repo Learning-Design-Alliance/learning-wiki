@@ -58,6 +58,7 @@ The article recommends that EFL teachers adopt and adapt the flipped model: teac
 - [Adopt the flipped classroom gradually: start small, front-load video preparation, gather student feedback, and scale up as comfort grows](gradual-flipped-classroom-adoption-strategy.md)
 - [Micro Flipped Classroom](micro_flipped_classroom.md)
 - [Flip the classroom by assigning pre-recorded multimedia lectures rather than textbook readings as the pre-class material](assign-multimedia-prelectures-when-flipping.md)
+- [Tailor in-class flipped classroom design to students' prior knowledge and the learning context](context-aligned-in-class-flipped-design.md)
 
 ## Examples
 -

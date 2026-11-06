@@ -142,3 +142,4 @@ A meta-analysis of 51 quantitative studies comparing students' self-assessed mar
 - [Law students overestimated their writing performance when self-assessing against the formal rubric](law-students-overestimate-rubric-self-assessment.md) — related
 - [When ID students lack prior experience with a design activity, they tend to follow guidelines and make judgments without reflection, especially in formative evaluation](no-prior-experience-follow-guidelines-no-reflection.md) — related
 - [Organized training with rubrics reduces the gap between student self-assessment and educator judgment](rubric-training-reduces-self-assessment-bias.md) — a narrower finding that bears on this claim
+- [Agreement between self- and peer-assessment on the CHOLE-VOP is moderate overall but poor for novices, who tend to overestimate their performance, and good for intermediate users](self-peer-assessment-agreement-varies-by-experience.md) — related

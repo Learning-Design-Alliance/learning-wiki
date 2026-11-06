@@ -47,7 +47,8 @@ A lesson-level instructional pattern combining scenario-based simulation with le
 - [Sim Lbl Greater Satisfaction Engagement Competency](../claims/sim-lbl-greater-satisfaction-engagement-competency.md) [+M]
 
 ## Related Designs
-- 
+
+- [Four-week progressive scaffolded case-based curriculum: foundations, planning, simulation, then evaluation](four-week-scaffolded-cbd-curriculum.md)
 
 ## Examples
 -

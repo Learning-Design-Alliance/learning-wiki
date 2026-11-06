@@ -68,3 +68,4 @@ The same Appendix A.1 analysis of role-player preferences reports that "These pa
 - [LearnLM receives the highest expert pedagogy-rubric marks across rubric categories, with the largest leads in active learning, metacognition, and curiosity](learnlm-highest-pedagogy-rubric-marks.md) — related
 - [Preference explanations favoring LearnLM more often cite staying on topic, challenging the learner, and not giving away answers](learnlm-preference-explanation-themes.md) — related
 - [Role-playing learners report weaker experiences with GPT-4o than with LearnLM, Gemini 1.5 Pro, and Claude 3.5 Sonnet](learnlm-roleplayer-weaker-gpt4o-experience.md) — possibly the same claim (merge candidate)
+- [In the developers' comparison tests, GPT-4 outperformed GPT-3.5 and Gemini in response generation time, role-playing ability, and validity of generated feedback](gpt4-outperformed-gpt35-gemini-vsp-testing.md) — related

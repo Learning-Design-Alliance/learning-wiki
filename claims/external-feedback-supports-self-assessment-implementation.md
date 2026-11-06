@@ -70,3 +70,4 @@ The review reports, citing Orsmond and Merry (2013), that "high-achieving studen
 - [The student-tutor relationship alone is judged insufficient: peer mixing and virtual communities are needed to counter isolation in online research supervision](virtual-communities-counter-supervision-isolation.md) — related
 - [Practice and training, external feedback, use of instruments, and environmental support facilitate students' implementation of self-assessment](instructional-factors-self-assessment-implementation.md) — related
 - [Remote psychotherapy supervision showed comparable skill quality to face-to-face supervision but was less preferred](remote-psychotherapy-supervision-comparable-quality-less-preferred.md) — related
+- [Completing the self-assessment was not burdensome, but recruiting raters — especially asking supervisors — was onerous and the most stressful part of MSF](msf-rater-recruitment-burdensome.md) — related

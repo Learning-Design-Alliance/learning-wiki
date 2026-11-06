@@ -49,3 +49,4 @@ Barriers survey item (Table 6), multi‐select: “lack of guidelines” drew 58
 - [Most MSK physiotherapists report DCM was not covered, or coverage not recalled, in undergraduate training, and most want further DCM training](dcm-undergraduate-education-gap-and-training-demand.md) — related
 - [Only 9–12% of PCPs felt at least somewhat familiar with surveillance guidelines, and lack of guideline knowledge was a reported barrier](pcps-unfamiliar-surveillance-guidelines.md) — related
 - [Over half of MSK physiotherapists express anxiety about missing a DCM diagnosis](dcm-missed-diagnosis-anxiety-majority.md) — related
+- [Physiotherapists with less than 5 years of experience reported a need for better training in identifying and assessing POP at nearly triple the rate of those with over 10 years of experience](less-experienced-physios-report-greater-pop-training-need.md) — related

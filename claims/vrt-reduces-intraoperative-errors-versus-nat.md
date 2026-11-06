@@ -79,3 +79,4 @@ Single-centre two-arm RCT randomizing 13 participants to VR training or no addit
 - [VR-trained surgical residents outperform non-VR-trained peers in laparoscopic procedures](vr-trained-residents-fewer-errors-laparoscopy.md) — a broader claim this one bears on
 - [Six weeks of ex vivo laparoscopic basic-skills simulation training significantly improves residents' GOALS-scored operating-room performance between their first and second laparoscopic cholecystectomy](laparoscopic-simulation-training-improves-goals-performance.md) — related
 - [Naïve surgical residents show a wide baseline range of laparoscopic skill, and a single repeated cholecystectomy alone yields minimal improvement](wide-baseline-skill-range-minimal-control-gain.md) — related
+- [Novices trained with AEDS feedback make fewer recorded laparoscopic errors than novices trained the same total time without AEDS feedback](aeds-group-lower-errors-than-traditional-training-group.md) — related

@@ -48,3 +48,4 @@ The review reports, citing Yilmaz & Yilmaz's pre/post intervention study, that "
 - [Learning with a ChatGPT-based flipped learning guiding approach significantly improves students’ performance, self-efficacy, learning attitudes, intrinsic motivation and creative thinking in a courseware project](chatgpt-flga-improves-performance-and-perceptions.md) — related
 - [Teaching a ChatGPT agent improves students' self-regulated learning, specifically self-efficacy and use of cognitive strategies](chatgpt-teaching-self-efficacy-cognitive-strategies.md) — related
 - [GCLA does not bolster motivational aspects of SRL: traditional ChatGPT users showed higher intrinsic motivation and higher amotivation than GCLA users](gcla-no-motivation-advantage.md) — related
+- [The flipped classroom significantly increased instrumental, integrative and intrinsic motivation factors](flipped-classroom-raises-other-motivation-factors.md) — related

@@ -59,3 +59,4 @@ The article attributes to Lowenthal et al. (2020) the report that "asynchronous 
 - [Despite video feedback's benefits, instructors and students might prefer text-based feedback](instructors-students-might-prefer-text-feedback.md) — reports the opposite
 - [Research has shown that video feedback can help increase conversational and affective communication](video-feedback-increases-conversational-affective-communication.md) — related
 - [Recognizable non-verbal communication patterns in online medical lectures were linked to positive shifts in student receptivity and motivation](nvc-patterns-online-lecture-receptivity.md) — related
+- [Share of pure presence teaching at German universities is expected to fall from 85% to 59% after the pandemic while mixed formats grow](pandemic-shift-toward-mixed-and-online-formats.md) — related

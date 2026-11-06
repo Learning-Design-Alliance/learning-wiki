@@ -71,3 +71,4 @@ The review's cross-study synthesis, drawing on Blonsky et al. (multicenter RCT, 
 - [VR learning units do not per se lead to better learning success; quality and design of the unit are decisive](vr-units-not-per-se-better-design-decisive.md) — related
 - [Dry-lab training promotes technical skill development more than VR training](dry-lab-training-exceeds-vr-robotic-skills.md) — related
 - [Technology-enhanced simulation improves knowledge, procedural skills, teamwork behaviors, and transfer to practice](simulation-improves-knowledge-skills-teamwork-transfer.md) — a broader claim this one bears on
+- [Most dental students judge VR and manikin training equally helpful for consolidating theoretical knowledge](both-methods-equal-knowledge-consolidation.md) — related

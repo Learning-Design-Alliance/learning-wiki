@@ -49,3 +49,4 @@ Exploratory two-sample t-tests on OSAUS subcategory changes in the randomized tr
 - [Neither training modality produced measurable improvement beyond the initial workshop; both groups showed a small comparable decline in modified OSAUS performance](no-improvement-beyond-workshop-both-modalities.md) — related
 - [Serious video game training is statistically non-inferior to mannequin-based simulator training for basic cardiac POCUS hand-eye coordination skills in medical novices](serious-game-noninferior-simulator-cardiac-pocus.md) — related
 - [The performance advantage of handheld practice appears across all five modified OSAUS subdomains](osaus-subdomain-advantage-handheld-practice.md) — related
+- [Lowest OSAUS item scores concerned technical performance (applied knowledge, image optimization, systematic examination), yet all seven items improved significantly at follow-up](osaus-item-scores-technical-items-lowest.md) — related

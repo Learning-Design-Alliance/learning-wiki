@@ -60,6 +60,7 @@ The review recommends hybrid simulation approaches that combine different low-co
 - [Simulation-based training curriculum for high-risk, low-frequency prehospital emergencies](simulation-training-high-risk-low-frequency-events.md)
 - [Share standardized patient costs across specialties to run interprofessional simulation cost-effectively](shared-standardized-patient-costs-interprofessional-simulation.md)
 - [Use computer-aided simulations in nursing skills laboratories and support practical training with simulation](support-nursing-practical-training-with-simulation.md)
+- [Combine low-fidelity theoretical training with high-fidelity real-world application to prepare teams for complex tasks.](combine-low-and-high-fidelity-sbt.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Mann–Whitney U comparison of PCC competency scores by patient rights education
 - [All NEBPPR subscales correlate positively with PCC competency subscales and total scores, strongest for NEBPPR Total and PCC Total](spearman-positive-correlations-nebppr-pcc.md) — related
 - [Patient values and choices and benefit-not-harming show the strongest associations with PCC competency; providing fair care the weakest](strongest-ethical-dimensions-pcc-values-benefit.md) — related
 - [All five NEBPPR ethical behaviour dimensions are independently associated with lower odds of less-than-high PCC competency in separate logistic regression models](nebppr-dimensions-lower-odds-less-than-high-pcc.md) — related
+- [Nursing students rate their overall competence slightly below the scale midpoint while patients rate the care received well below its midpoint, suggesting a perceptual gap](student-competence-patient-care-perceptual-gap.md) — related

@@ -53,3 +53,4 @@ Paired t-test analysis of 105 KM students' pre- and post-practice self-efficacy 
 - [Training-related factors positively influenced confidence and performance](training-factors-boost-confidence-and-performance.md) — a broader claim this one bears on
 - [Trainees' self-rated confidence in performing obstetric ultrasound examinations rose significantly from pre-test to post-test after the simulation course, in one uncontrolled pre-post study](obstetric-sim-confidence-gain.md) — related
 - [SBLE significantly increases perceived efficacy among nursing students](sble-increases-perceived-efficacy-nursing-students.md) — related
+- [Novice trainees' confidence in laparoscopic skill rose from pre-test to post-test within Group A after training with AEDS real-time feedback](aeds-feedback-increases-novice-confidence.md) — a narrower finding that bears on this claim

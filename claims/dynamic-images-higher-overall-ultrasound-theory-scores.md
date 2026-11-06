@@ -49,3 +49,4 @@ Randomised controlled trial within certified DEGUM basic ultrasound courses; gro
 - [Dynamic images improve comprehension of pathological findings over static images in ultrasound education](dynamic-images-improve-pathology-comprehension-ultrasound.md) — a narrower finding that bears on this claim
 - [Dynamic group allocation, prior experience above 30 ultrasound examinations, and internal medicine employment predict theory test performance](predictors-ultrasound-theory-test-performance.md) — related
 - [No significant difference between static and dynamic image groups in learning normal sonographic findings](no-group-difference-normal-findings-ultrasound.md) — related
+- [Ultrasound simulator pathology training is highly valued, but respondents in no group agree that simulator training alone suffices to learn examination techniques](ultrasound-pathology-valued-alone-insufficient.md) — related

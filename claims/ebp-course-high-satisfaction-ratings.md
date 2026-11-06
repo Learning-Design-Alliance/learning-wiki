@@ -55,3 +55,4 @@ Course evaluation survey using a researcher-designed five-point Likert scale adm
 - [Nursing students report high satisfaction with creating educational videos, with applicability rated highest (4.12 ± 0.59) and complexity lowest (3.47 ± 0.69)](nursing-students-high-satisfaction-video-creation.md) — related
 - [Healthcare providers report high satisfaction with an asynchronous virtual care CPD module](virtual-care-cpd-module-high-satisfaction.md) — related
 - [Participants rated the POCUS course near the maximum on all evaluation measures, exceeding the pre-set satisfaction threshold](pocus-course-high-satisfaction-ratings.md) — related
+- [Participants report very high satisfaction with the cadaveric workshop's content, quality, and materials](cadaveric-workshop-high-satisfaction.md) — related

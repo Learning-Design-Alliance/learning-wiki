@@ -56,3 +56,4 @@ Interpretability analysis of the 4-class Random Forest (feature importances) and
 - [Teacher-initiated activities also increased theta power and decreased beta and gamma power, converging with the alpha-based inference of lower wakefulness and attention](theta-beta-gamma-convergent-evidence.md) — related
 - [ERP and alpha-band EEG signals decode old vs new faces above chance, with the high-alpha band more discriminative than the low-alpha band](erp-alpha-band-decoding-old-new-faces.md) — related
 - [SVM weight topography shows central and parietal electrodes contribute most to decoding, with eyes-focused participants showing more right-central contribution](svm-topography-central-parietal-eyes-right-bias.md) — related
+- [VR-trained group shows higher beta and low-gamma EEG power than controls during simulator tasks](dvss-vr-training-higher-beta-low-gamma-psd.md) — related

@@ -76,3 +76,4 @@ Elizabeth Forward Amplify usage data shown in Figure 8; the report states these 
 - [Students in treatment schools used the Core5 digital component for an average of 78.4 minutes per week, with usage varying by grade](core5-digital-component-usage-patterns.md) — related
 - [Mean new vocabulary learned per hour declined as students increased difficulty level, so time spent was not the primary determinant of learning](productivity-declines-with-difficulty-level.md) — related
 - [Implementation of the LRS was variable, with many teachers not meeting weekly usage targets](lrs-variable-implementation.md) — related
+- [Children in this sample averaged more than 3 hours of screen time per day, about three times recommended limits](children-exceed-3-hours-daily-screen-time.md) — related

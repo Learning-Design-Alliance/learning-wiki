@@ -70,3 +70,6 @@ Randomised trial of 38 general-practice residents (19 per group) in one hospital
 - [Students in both the flipped classroom and jigsaw groups reported high satisfaction and preferred these active methods over lecture-based teaching](high-satisfaction-fc-and-jigsaw.md) — related
 - [Students reported high satisfaction with the script strategy teaching method (mean 74.37 ± 16.31 on a 100-point scale)](script-strategy-high-satisfaction.md) — related
 - [Clinical pharmacy trainees gave generally positive evaluations of an AI-assisted multi-advisor BOPPPS teaching model](positive-evaluations-ai-boppps-clinical-pharmacy.md) — related
+- [Residents taught with BOPPPS combined with flipped classroom show significantly higher self-directed learning readiness (SDLRS) than traditionally taught residents](boppps-flipped-higher-sdlrs-self-directed-learning.md) — related
+- [The randomized trial assigned 70 residents equally to BOPPPS-plus-flipped-classroom or traditional teaching with no significant baseline differences](boppps-flipped-og-trial-baseline-comparable.md) — related
+- [BOPPPS group reported significantly higher overall course satisfaction and perceived teaching effectiveness than the LBL group](boppps-higher-satisfaction-effectiveness.md) — related

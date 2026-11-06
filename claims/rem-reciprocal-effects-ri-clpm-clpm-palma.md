@@ -99,3 +99,6 @@ Reanalysis of the PALMA longitudinal study (five annual waves of mathematics dat
 - [Academic buoyancy and adaptability show reciprocal cross-lagged effects over time, each a medium effect (β = .07, p < .01) in latent modeling](buoyancy-adaptability-reciprocal-cross-lagged-effects.md)
 - [Learning outcomes and skill transfer/retention show a bidirectional but developmentally asymmetrical longitudinal relationship, with prior learning exerting the stronger forward influence](lo-str-bidirectional-asymmetrical-coupling.md) — related
 - [Associations between academic self-concept and parent expectations during the transition are bidirectional but asymmetric](bidirectional-self-concept-expectations-transition.md) — related
+- [Changes in students' autonomous motivation predict later mathematics achievement over school trimesters, in a RI-CLPM of secondary students](autonomous-motivation-predicts-later-math-achievement-ri-clpm.md) — related
+- [Higher academic achievement predicts higher academic self-concept over time](higher-grades-predict-higher-asc-longitudinally.md) — related
+- [Controlled motivation and mathematics achievement show no reciprocal cross-lagged relations in RI-CLPM models](no-reciprocal-relation-controlled-motivation-achievement.md) — related

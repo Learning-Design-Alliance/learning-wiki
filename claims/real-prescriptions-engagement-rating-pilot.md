@@ -48,3 +48,4 @@ Post-course satisfaction survey of all 62 students in the single-group pilot; de
 - [Most students (90.3%) reported real prescriptions enhanced understanding of cardiovascular pharmacotherapy](real-prescriptions-learning-rating-pilot.md) — related
 - [Pre-class preparation (93.5%) and instructor debriefings (93.6%) were rated highly effective](preclass-and-debrief-ratings-pilot.md) — related
 - [Peer discussion received the lowest positive rating (74.2%) of the intervention components](peer-discussion-lowest-rating-pilot.md) — related
+- [Pharmacy and science students show high acceptance of digital learning offerings, with 89% preferring future learning settings that include them](high-student-acceptance-digital-learning-offerings.md) — related

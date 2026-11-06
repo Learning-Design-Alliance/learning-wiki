@@ -56,3 +56,5 @@ Domain- and step-level comparisons reported in Tables 2 and 3 of the same cohort
 - [C-SATS-derived GEARS scores did not differentiate resident/fellow from practicing surgeons, or surgeons below versus above 50 historic cases, for either procedure](gears-no-novice-expert-differentiation.md) — related
 - [The GEARS-case volume correlation is driven by practicing surgeons with more than 50 cases and is absent among resident/fellow surgeons and those with fewer than 50 cases](gears-volume-correlation-expert-driven-novice-null.md) — related
 - [Agreement on GEARS surgical-performance domains is poor for force control, tissue handling, autonomy, and robot control, and marginal for depth perception, bimanual skill, and efficiency](gears-domain-agreement-poor.md) — related
+- [Prior surgical experience shows no significant advantage for basic robotic surgical skill acquisition](surgical-experience-no-gears-advantage.md) — possibly the same claim (merge candidate)
+- [VR-training group achieves higher GEARS-assessed basic robotic surgical skill than untrained controls (24.91 ± 3.36 vs. 19.68 ± 3.07)](dvss-vr-training-higher-gears-scores.md) — related

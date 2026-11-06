@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 298 claims (212 show a difference, 55 mixed, 31 no difference) · 192 studies (67 associational, 53 causal, 32 review, 14 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 43 of 192 report an effect size · 290 claims rest on one study
+> **Evidence** · 302 claims (215 show a difference, 56 mixed, 31 no difference) · 194 studies (69 associational, 53 causal, 32 review, 14 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 43 of 194 report an effect size · 294 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -338,6 +338,10 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [In typical-functioning SLD undergraduates, trait anxiety shows only a direct effect on academic performance, with no mediation by test anxiety](../claims/direct-effect-trait-anxiety-typical-functioning-sld.md) [~M] — learners who differ on it differ in outcomes
 - [No significant direct or indirect trait anxiety effects on academic performance in typically developing undergraduates](../claims/null-anxiety-effects-typically-developing.md) [-M] — learners who differ on it differ in outcomes
 - [Test anxiety mediates the trait anxiety–academic performance relationship only in the high-functioning SLD group](../claims/test-anxiety-mediation-high-functioning-sld.md) [~M] — learners who differ on it differ in outcomes
+- [Average performers report higher perceived stress than Excellent performers](../claims/average-performers-higher-perceived-stress.md) [+M] — learners who differ on it differ in outcomes
+- [Perceived stress is negatively related to academic performance among Chinese LGBTQ+ college students](../claims/perceived-stress-negative-academic-performance-lgbtq.md) [+M] — learners who differ on it differ in outcomes
+- [Perceived stress is negatively related to psychological well-being among Chinese LGBTQ+ college students](../claims/perceived-stress-negative-wellbeing-lgbtq-china.md) [+M] — learners who differ on it differ in outcomes
+- [Proactive coping moderates (buffers) the negative relationship between perceived stress and psychological well-being](../claims/proactive-coping-buffers-stress-wellbeing.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 

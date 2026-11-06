@@ -50,3 +50,4 @@ The review reports, citing Cummings and Bailenson (2016), a meta-analysis aggreg
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — related
 - VR was defined in 95 studies, with stereoscopic visualisation and user interaction the most recurrent features — related
 - [Recurring features across XR-simulation in dentistry are stereoscopic vision, immersion, interaction, modification and haptic feedback](xr-recurring-features-dental-simulation.md) — related
+- [Positional tracking and force sensing were considered important simulator features](position-and-pressure-sensing-important-features.md) — related

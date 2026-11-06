@@ -9,7 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: mixed
 newest_evidence: 2026
-source_checked: 2026-10-31
+source_checked: 2026-11-06
 sources:
   - id: bajpai-tewari-2026
     resource: "https://doi.org/10.3390/ijerph23081073"
@@ -25,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the review's narrative synthesis, models involving stakeholders beyond students and school staff (e.g., Across Ages with parents, community members and senior mentors; SSDP and RHC with teacher, child and parent components) were reported to show significant improvements in academic performance, prosocial bonding and reduced substance use, while two school-only examples, HeadOn and SUPEP, were described as improving knowledge and attitudes without corresponding behavioural change. The review's own tables and outcome summaries do not fully bear this out: they list positive behavioural and intention outcomes for HeadOn and a reduction in substance use for SUPEP, and a multi-stakeholder design (Project Northland Chicago) had no significant effect on use. [→ Bajpai Tewari 2026](#bajpai-tewari-2026)

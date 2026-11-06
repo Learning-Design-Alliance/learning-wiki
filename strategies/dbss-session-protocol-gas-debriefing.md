@@ -56,6 +56,7 @@ A repeatable weekly session structure for implementing DBSS: after a unified lec
 - [Align simulation-based BLS training with INACSL guidelines including interactive lectures, skill demonstrations, high-fidelity manikin practice, scenarios, and GAS-model structured debriefing](strategy-inacsl-aligned-bls-simulation-module.md)
 - [Use timely facilitator-led debriefing, realistic scenario fidelity, and immediate feedback to enhance simulation learning](debriefing-fidelity-feedback-strategies.md)
 - [Pair the simulation with a structured 30–40 minute debrief including a PowerPoint lecture, reflection, and checklist review](simulation-debrief-lecture-checklist-review.md)
+- [Combined lecture plus simulated video-scenario sessions for teaching non-technical skills](lecture-plus-video-scenario-nts-training-strategy.md)
 
 ## Examples
 -

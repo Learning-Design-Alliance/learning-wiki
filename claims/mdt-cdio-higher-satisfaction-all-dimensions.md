@@ -58,3 +58,4 @@ Self-designed 40-item satisfaction questionnaire (Cronbach's α = 0.921, CVI = 0
 - [PA-PBL and control students reported comparable course satisfaction and self-evaluated competencies](pa-pbl-control-comparable-subjective-evaluations.md) — reports the opposite
 - [Live-video teaching significantly boosts students' self-evaluated learning outcomes across all five measured aspects](ltm-self-evaluated-learning-outcomes.md) — related
 - [The review reports SBME yields positive outcomes across oncology subspecialties, including communication skills, chemotherapy safety, and radiation oncology competencies](sbme-positive-outcomes-oncology-subspecialties.md) — related
+- [Teacher satisfaction with teaching is significantly higher for the simulation group than the control group on all five measured aspects, though teachers reported implementation difficulties](teacher-satisfaction-higher-with-implementation-difficulties.md) — related

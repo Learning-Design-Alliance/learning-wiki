@@ -47,3 +47,4 @@ A 5-item Likert questionnaire completed by 25 experimental-class students showed
 ## Related Claims
 - [Students perceive cooperative learning as less effective for English competency and learning efficiency than for practice and interest](cooperative-learning-perceived-competency-efficiency-lower.md) — related
 - [Most students in the CL class held positive attitudes toward cooperative learning, including perceived listening gains](cl-questionnaire-positive-attitudes.md) — related
+- [Confidence in understanding and interest in the topic are the highest-endorsed factors influencing active learning participation, followed by teacher factors](contextual-and-teacher-factors-drive-participation.md) — related

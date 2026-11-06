@@ -67,3 +67,4 @@ Univariate ANOVAs across TEDS continuous variables; the article reports sex expl
 - [Age and gender are associated with baseline motivation and Session 1 performance among preservice teachers](age-gender-associated-with-preservice-motivation.md) — related
 - [Gender disparity in emergency self-efficacy favors males, but the behavioral capability difference is not statistically significant](gender-gap-emergency-self-efficacy-not-capability.md) — related
 - [A pretest gender gap in self-efficacy (males higher) was no longer significant after hybrid simulation-based training](hybrid-sbt-closes-pretest-gender-gap-in-self-efficacy.md) — related
+- [No statistically significant gender differences in academic performance, perceived stress, or chronotype in this sample](no-gender-differences-chronotype-stress-performance.md) — reports the opposite

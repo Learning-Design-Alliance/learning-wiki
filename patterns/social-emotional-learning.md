@@ -22,7 +22,7 @@ sources:
 # Social Emotional Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 73 claims (48 for, 21 mixed, 4 against) · 75 studies (31 causal, 18 review, 16 quant-synthesis, 4 associational, 4 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 23 of 75 report an effect size · 59 claims rest on one study
+> **Evidence** · 75 claims (49 for, 22 mixed, 4 against) · 76 studies (31 causal, 18 review, 16 quant-synthesis, 5 associational, 4 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 24 of 76 report an effect size · 61 claims rest on one study
 
 ## Description and scope
 
@@ -141,6 +141,8 @@ Claims this page cited before the 2026-10-05 rewrite, or that bear on it, which 
 - [Classroom climate significantly improved for treatment classrooms and decreased in control classrooms according to both teachers and students.](../claims/rd-program-improved-classroom-climate.md) [+M] — attached 2026-11-03 from Katz et al. (2011), which proposed "Use a multiple intelligences framework to facilitate social and emotional learning and build self and social respect."; tests this page's relationship.
 - [Treatment students significantly increased in prosocial behaviors and social responsibility, and were less excluded by peers, while control students decreased in these behaviors.](../claims/rd-program-improved-prosocial-behavior-and-social-responsibility.md) [+M] — attached 2026-11-03 from Katz et al. (2011), which proposed "Use a multiple intelligences framework to facilitate social and emotional learning and build self and social respect."; tests this page's relationship.
 - [SEE+ training improves 7- to 10-year-olds' performance on socio-emotional emotion recognition and theory of mind tasks relative to active and teaching-as-usual controls](../claims/see-plus-improves-socio-emotional-task-performance.md) [+W] — attached 2026-11-06 from Mayer Sveta et al. (2025), which proposed "Observation-and-inference whole-class SEL activity pattern with four-phase structure"; tests this page's relationship.
+- [Self-Awareness and Self-Management remain significantly and positively associated with Year 7 reading and numeracy after controlling for Year 5 achievement and sociodemographic covariates](../claims/sel-competencies-predict-attainment-covariate-adjusted.md) [+W] — attached 2026-11-06 from Carpendale et al. (2025), which proposed "Universally teach Self-Awareness and Self-Management during primary school to safeguard academic achievement across the transition to secondary school".
+- [Social Awareness, Relationship Skills and Responsible Decision-Making show no practically meaningful association with Year 7 reading or numeracy](../claims/interpersonal-sel-competencies-no-meaningful-association.md) [~W] — attached 2026-11-06 from Carpendale et al. (2025), which proposed "Universally teach Self-Awareness and Self-Management during primary school to safeguard academic achievement across the transition to secondary school".
 
 ## Illustrative design instance and observation record
 

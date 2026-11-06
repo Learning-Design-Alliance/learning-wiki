@@ -49,3 +49,4 @@ Objective global rating scale (modified, previously validated) scored before and
 - [Continued training yields significant gains in most OSATS subdomains except knowledge of instruments](continued-training-osats-subdomain-gains.md) — related
 - [Higher instructor-rated global rating scale scores on several procedure categories were associated with participants rating the cadaver simulation training as more useful](grs-scores-linked-to-perceived-usefulness.md) — related
 - [Pedicle screw placement accuracy rose from before to after VRFF-SSTS training across all seniority groups in one single-group pre-post study (p < 0.001), with no significant differences between seniority levels post-training](vrff-ssts-improves-screw-accuracy-all-seniority-groups.md) — related
+- [Global GOALS, global OSATS, and task-specific OSATS scores rose from pre-test to post-test in three PT/CL training groups of MIS novices](three-pt-cl-mixes-improve-lche-performance-scores.md) — related

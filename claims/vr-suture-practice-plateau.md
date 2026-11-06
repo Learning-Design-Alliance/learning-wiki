@@ -52,3 +52,5 @@ Analysis of the five training results and final test across 26 students (Table 1
 - [Cumulative exposure (total simulation time and repetitions) shows no significant association with final suturing performance](exposure-not-associated-with-suturing-proficiency.md) — related
 - [Spaced VR simulator training yields better performance and faster skill acquisition than massed training for surgical psychomotor skills](spaced-vr-training-superior-to-massed-surgical-psychomotor.md) — related
 - [Blended-model students performed about twice as many suturing practice attempts as controls, and simulation attempts correlated with skills scores](doubled-practice-attempts-correlate-with-skills-scores.md) — related
+- [Trainees' performance plateaus by the fifth training attempt on the dVSS simulator](dvss-learning-curve-plateau-fifth-attempt.md) — related
+- [Medical students training MIS RYGB on a VR trainer in pairs reached proficiency with significantly fewer exercise repetitions than students training solo](pair-training-fewer-repetitions-rygb-proficiency.md) — related

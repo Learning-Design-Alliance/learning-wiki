@@ -48,3 +48,4 @@ Non-randomized controlled trial (Table 3) with six certified robotic urologists,
 - [In a non-randomized trial, surgeons trained to proficiency on the da Vinci Skills Simulator outperformed controls in operative time and estimated blood loss, with no significant difference in GOALS scores](culligan-simulator-training-outperformed-controls-time-ebl.md) — related
 - [Two randomized trials of dVSS or dV-Trainer training to proficiency found no significant differences between trained and control groups on operative performance](rcts-no-significant-difference-vr-trained-versus-controls.md) — related
 - [Coronary anastomosis simulation training is associated with faster task completion than no formal simulation training](simulation-improves-coronary-anastomosis-time.md) — a broader claim this one bears on
+- [VR-training group outperforms controls on dVSS simulator objective scores for most tasks](dvss-objective-scores-training-group-outperforms.md) — related

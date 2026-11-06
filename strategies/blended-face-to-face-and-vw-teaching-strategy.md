@@ -47,6 +47,7 @@ The article suggests that shaping a sense of in-betweenness becomes an essential
 - [Blended Learning](blended_learning.md)
 - [Combine virtual and traditional teaching methods to facilitate knowledge transfer in competency-based nursing skills courses](combine-virtual-traditional-nursing-skills-teaching.md)
 - [Reshape the anatomy curriculum toward a blended form by retaining digital modalities introduced during the pandemic](blended-retention-of-pandemic-digital-modalities.md)
+- [Choose between online and face-to-face delivery based on the specific requirements of the course, and continuously review educational practices](choose-format-by-course-requirements.md)
 
 ## Examples
 -

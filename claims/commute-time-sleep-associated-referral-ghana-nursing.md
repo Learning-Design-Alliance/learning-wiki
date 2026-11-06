@@ -51,3 +51,4 @@ Independent-samples t-tests comparing referred and non-referred students on cont
 - [Frequent daytime sleepiness is associated with impaired academic achievement, attention, and learning motivation in school-aged children](frequent-daytime-sleepiness-impaired-school-performance.md) — related
 - [Longer duration of active commuting relates to better cognitive performance in a dose–response pattern among girls](acs-duration-dose-response-cognition.md) — related
 - [Short sleep duration (<9 hours) at follow-up is associated with impaired academic achievement, while baseline sleep duration did not significantly predict later school performance](short-sleep-duration-academic-achievement-longitudinal.md) — related
+- [Commuting time reduces rural students' sleep duration, decreasing it by 0.588 h for every additional hour of commuting.](commuting-time-reduces-sleep-duration.md) — related

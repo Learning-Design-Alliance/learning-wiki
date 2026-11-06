@@ -60,3 +60,4 @@ Questionnaire administered to all 102 students after the intervention with 100% 
 - [Students in the blended model reported uniformly high satisfaction across course content, teaching effectiveness, and course application dimensions](high-satisfaction-blended-surgical-model.md) — related
 - [No significant difference in satisfaction between AR-assisted and traditional teaching for anatomy and delivery sections](ar-obgy-satisfaction-no-difference.md) — related
 - [Experimental-group students report high satisfaction with VSO but note limited emotional interaction and virtual-to-real transfer issues](vso-student-survey-feedback.md) — related
+- [All learner groups rate simulator-based training highly for improving practical skills and transferring theory into practice, with practical-year students rating practical-skill gains highest](sbt-rated-improving-practical-skills.md) — related

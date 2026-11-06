@@ -56,3 +56,4 @@ Human evaluation (RQ3): two annotators independently rated 100 solution-feedback
 - [Qualitative analysis confirms the agent can identify confusing lesson content and provide actionable feedback for designers](agent-identifies-confusing-content-actionable-feedback.md) — reports the opposite
 - [AI was found lacking in diagnosing student misconceptions because models do not understand lack of logic or sense making](ai-lacking-diagnosing-misconceptions.md) — related
 - [LLMs show discoverability bias: they accurately identify only high-quality open-ended biology responses and miss nuanced misconceptions](llm-discoverability-bias-open-ended-biology-assessment.md) — related
+- [The AI feedback agent reliably detected empathy, reassurance, clarity, and tone balance but inconsistently assessed SPIKES adherence, improving when SPIKES was spelled out as a 6-step bulleted list](ai-feedback-agent-spikes-accuracy-mixed.md) — related

@@ -47,3 +47,4 @@ RCT (Strandbygaard et al., 2013) summarized in the review's VR table: the interv
 
 ## Related Claims
 - [VR-enhanced basic robotic skills training sometimes required more training repetitions than conventional training to reach equivalent proficiency](vr-training-more-repetitions-to-proficiency.md) — related
+- [Medical students training MIS RYGB on a VR trainer in pairs reached proficiency with significantly fewer exercise repetitions than students training solo](pair-training-fewer-repetitions-rygb-proficiency.md) — related

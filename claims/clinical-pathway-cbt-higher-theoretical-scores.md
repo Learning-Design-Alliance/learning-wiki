@@ -66,3 +66,4 @@ Randomized trial of 87 residents (43 control, 44 experimental) over a four-week 
 - [OBE-integrated PBL teaching yields higher theoretical assessment scores than lecture-based teaching in psychiatric clinical practice](obe-pbl-higher-theoretical-assessment-psychiatry.md) — related
 - [Ultrasound residents trained with CBL and mind mapping combined with Mini-CEX scored higher on graduation theory and practical tests than residents in traditional training](cbl-mindmap-minicex-higher-test-scores-ultrasound-residents.md) — related
 - [ChatGPT-guided PBL residents scored significantly higher on a nephrology theoretical exam than traditionally taught residents](chatgpt-pbl-higher-theoretical-exam-nephrology.md) — related
+- [Scaffolded case-based learning yields higher clinical reasoning proficiency than lecture-based teaching with the same case at Week 4 in anesthesiology residents](scaffolded-cbd-clinical-reasoning-week4.md) — related

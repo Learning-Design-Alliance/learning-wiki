@@ -47,6 +47,7 @@ The model combines the six-stage BOPPPS sequence (Bridge-in, Objectives, Preasse
 
 - [BOPPPS-based pre-anesthesia care workshop with pre-class preparation, scenario-based participatory learning, and real-time feedback](boppps-pre-anesthesia-workshop-design.md)
 - [PBL-integrated research training course built on four sequential projects with distinct assessments](pbl-four-sequential-projects-course-pattern.md)
+- [BOPPPS combined with flipped classroom: a six-phase closed-loop teaching pattern for clinical practice training](boppps-flipped-classroom-six-phase-pattern.md)
 
 ## Examples
 -

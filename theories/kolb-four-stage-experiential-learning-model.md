@@ -53,6 +53,7 @@ The review describes Kolb's experiential learning model, in which "learning theo
 
 - [Guide experiential curriculum design with Kolb-derived principles: connect to existing knowledge, honour each learner's experiential base, cycle through experience and reflection, and shift power to the learner](../principles/experiential-learning.md)
 - [Active Learning–GenAI Synergy Framework](../designs/active-learning-genai-synergy-framework.md)
+- [Use experiential learning cycles to structure continuing health education for chronic disease management](../strategies/experiential-learning-cycle-continuing-health-education.md)
 
 ## Key Sources
 - Tamaoka, Katsuo. (1985). Historical Development of Learning Style Inventories from Dichotomous Cognitive Concepts of Field Dependence and Field Independence to Multi-Dimensional Assessment. https://eric.ed.gov/?id=ED339729

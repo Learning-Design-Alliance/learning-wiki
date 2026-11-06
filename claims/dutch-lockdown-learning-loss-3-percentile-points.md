@@ -74,3 +74,5 @@ Difference-in-differences analysis of biannual national test scores (n ≈ 350,0
 - [The COVID-19 switch to remote schooling was accompanied by significant declines in math and science scores on a UAE digital learning platform](covid-remote-learning-score-declines-uae-platform.md) — related
 - [School quality is positively but weakly associated with Cito performance (b = 0.61, β = 0.06), much more weakly than parental SES (b = 2.89, β = 0.30)](school-quality-small-association-cito.md) — related
 - [Schooling during the COVID-19 pandemic produced no significant negative effects on first-grade students' reading or math achievement compared with regular schooling](covid-grade1-no-achievement-decline.md) — reports the opposite
+- [Selection into Dutch COVID-19 remediation programs was strongly linked to disadvantage, with students with extremely low test scores most likely to participate](remediation-selection-linked-to-disadvantage.md) — related
+- [Participation in Dutch COVID-19 remediation programs was associated with a statistically significant but small increase of about 0.05 SD in vulnerable students' achievement](remediation-programs-005sd-gain.md) — related

@@ -55,3 +55,4 @@ Within-group paired comparisons in the RCT (AI-VSP n = 40, traditional SP n = 42
 - [OSCE performance did not differ significantly between AI-VSP and SP groups](ai-vsp-sp-osce-scores-similar.md) — related
 - [SP-based training produced no statistically significant difference in final OSCE scores compared with traditional instruction, with a small negative effect size](sp-training-no-significant-osce-difference.md) — related
 - [Students' pre-course self-assessment of history-taking skills exceeds post-course self-assessment in all three groups](pre-course-self-assessment-higher.md) — related
+- [Both AI-trained and expert-tutor-trained physicians improved significantly on most performance metrics from pre- to post-training](both-training-methods-improve-bronchoscopy-performance.md) — related

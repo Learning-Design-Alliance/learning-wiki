@@ -47,3 +47,4 @@ Consensus position statement skills objective in the CPR section; parallel skill
 ## Related Claims
 - [NTS training improves observable team behavioural performance in EDs, including more frequent closed-loop communication, clearer role allocation and prioritisation, improved situational awareness, and higher teamwork ratings (moderate certainty).](nts-training-improves-ed-team-behaviours.md) — related
 - [Trainees valued grief training activities involving reflection, debriefing with peers and the direct involvement of bereaved caregivers](trainees-value-reflective-and-bereaved-caregiver-involvement.md) — related
+- [Patient comments frequently cite communication failures, with inadequate communication appearing in 30% of coded comments](communicator-role-inadequate-communication-frequency.md) — related

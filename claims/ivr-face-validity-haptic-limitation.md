@@ -56,3 +56,4 @@ Face-validity Likert ratings collected only from the IVR group after the operati
 - [Tactile feedback is the simulator's primary area for improvement, with gingival detachment realism rated lowest (mean 3.17)](tactile-feedback-primary-limitation-lowest-rated.md) — a narrower finding that bears on this claim
 - [Dental students trained with HVRS reported higher agreement than mannequin-trained peers on items of visual realism, tissue differentiation, tactile feedback and fine motor skill improvement](hvrs-higher-perceived-realism-motor-skills.md) — related
 - [Students strongly agree that VR anatomy training enhances memorization and learning efficiency](vr-anatomy-training-enhances-memorization-agreement.md) — related
+- [Dental students strongly prefer manikins for realistic clinical scenarios and report more confidence after manikin training](manikins-preferred-realism-confidence.md) — related

@@ -54,3 +54,4 @@ In the trial's post-training standardized feedback scores, the simulation group 
 - [Image quality scores are slightly higher in the XR training group compared to the standard group](xr-training-higher-image-quality.md) — related
 - [Simulation-based and traditional training produce no statistically significant differences in ultrasound-guided nerve identification success rates across most anatomical approaches](husp-simulation-no-success-rate-difference.md) — reports the opposite
 - [Simulation-based training yields higher resident satisfaction and self-confidence ratings](simulation-training-higher-satisfaction-neonatal-residents.md) — related
+- [AEDS training produces larger confidence gains than traditional training of equal duration](aeds-confidence-gains-exceed-traditional-training.md) — related

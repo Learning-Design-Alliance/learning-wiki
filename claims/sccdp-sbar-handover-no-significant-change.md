@@ -52,3 +52,4 @@ Repeated-measures analysis of the SBAR & handover sub-category (4 items) of the 
 - [Improvement in communication clarity after ISBAR simulation teaching was broad, with the greatest gains in the situation domain](isbar-clarity-gains-broad-situation-domain-largest.md) — related
 - [Role-playing simulation with SBAR-based observation improves nurse-patient communication behaviors among nursing students](role-play-sbar-improves-nurse-patient-communication.md) — related
 - [Simulation-based CARE handover training produces a large increase in nurses' perceived handover competency from pretest to posttest](simulation-care-training-increases-perceived-handover-competency.md) — related
+- [Communication feedback in adult nursing assessment is perfunctory unless tied to functional safety tasks such as SBAR handover and escalation of concerns](communication-feedback-perfunctory-except-functional-contexts.md) — related

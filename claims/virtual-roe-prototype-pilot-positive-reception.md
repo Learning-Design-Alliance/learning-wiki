@@ -53,3 +53,4 @@ Exploratory post-training survey during a demonstration session with five final-
 - [Knowledge gaps within interprofessional teams produced mostly positive psychological pressure during team learning](ofst-positive-pressure-team-learning.md) — related
 - [Students highlighted raised risk awareness and professional relevance as the main positive outcomes of the room of horror](roh-raised-risk-awareness-highlighted.md) — related
 - [All participating nursing students evaluated the room of horror as relevant and educational for professional practice and would recommend it to peers](roh-students-rated-format-relevant-educational.md) — related
+- [31% of graduates' interventions were interprofessional, involving teams of different health professionals](31-percent-interprofessional-interventions.md) — related

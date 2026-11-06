@@ -56,3 +56,5 @@ SPSS moderation regression with standardized ASE, AS, and PU from the survey sam
 - [Learners' perceived self-efficacy during learning moderated the effect of prompts on learning outcomes](self-efficacy-moderates-prompt-effect-outcomes.md) — related
 - [Enjoyment inhibits stress during the oral presentation](enjoyment-inhibits-stress.md) — related
 - [Student self-efficacy moderates the relationship between lecturer technology use and behavioral engagement, with stronger effects for lower self-efficacy students](self-efficacy-moderates-technology-behavioral-engagement.md) — related
+- [Perceived academic support significantly moderated the negative link between perceived stress and academic performance in Chinese LGBTQ+ college students, but the paper's own slopes show the link was stronger, not weaker, at high support](academic-support-buffers-stress-performance.md) — related
+- [Proactive coping moderates (buffers) the negative relationship between perceived stress and psychological well-being](proactive-coping-buffers-stress-wellbeing.md) — related

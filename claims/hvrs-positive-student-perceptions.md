@@ -58,3 +58,5 @@ A 10-item 5-point Likert questionnaire developed by the authors and administered
 - [Rwandan medical students recommend integrating simulation into the curriculum with early procedural skills training to improve patient outcomes](students-recommend-curriculum-integration-early-simulation.md) — related
 - [Students and faculty reported favorable perceptions of RTS, including ease of use, real-time feedback, and reduced instructor preparation time](rts-favorable-user-perceptions.md) — related
 - [Early student evaluation after initial pre-clinical haptics training suggested enhanced satisfaction and improved confidence, based on immediate findings only](early-haptics-training-satisfaction-confidence.md) — related
+- [Pair-trained students reported higher confidence in their performance but perceived the procedure as less challenging than solo-trained students](qcm-confidence-challenge-pair-training.md) — related
+- [Perceptions of VR training do not differ significantly between preclinical and clinical dental students](vr-perception-similar-across-cohorts.md) — related

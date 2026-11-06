@@ -55,3 +55,4 @@ Quasi-experimental analysis of NFHS-5 data using propensity score matching (near
 - [Post-COVID girls completed 0.08–0.1 fewer years of schooling than matched pre-COVID girls, with no difference in out-of-school rates](post-covid-girls-schooling-attainment-loss.md) — related
 - [Markers of vulnerability (rural residence, disadvantaged caste, poverty) amplified pandemic learning loss for girls but not boys](vulnerability-markers-amplify-girls-learning-loss.md) — a broader claim this one bears on
 - [One year or more after the first lockdown, students had not recovered the learning deficits caused by Covid-19 school closures](covid-no-catch-up-one-year-after-lockdown.md) — related
+- [Main findings were robust to inverse-probability weighting and propensity-score matching, but the mathematics effect lost significance in the lower-performing-half sample](robustness-ipw-psm-math-null.md) — related

@@ -89,3 +89,4 @@ Confident-accurate > confident-inaccurate contrast yielded one left lingual gyru
 - [During the overt spelling phase, all three assessment methods activated a common brain pattern](spelling-phase-common-brain-pattern.md) — related
 - [Interpersonal feedback induced higher interpersonal neural synchronization in superior frontal gyrus and inferior parietal cortex channels than control conditions](if-increases-ins-sfg-ipc.md) — related
 - [Low-fidelity models are non-inferior to high-fidelity ones, which may induce overconfidence, per literature cited in the review](low-fidelity-non-inferiority-overconfidence.md) — related
+- [Self-evaluations engage cortical midline structures (ACC/vmPFC) while friends- and teachers-evaluations engage the precuneus and occipital regions](self-evaluation-cms-other-evaluation-precuneus.md) — related

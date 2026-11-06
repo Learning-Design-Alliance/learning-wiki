@@ -43,6 +43,7 @@ The cascade model is a tiered training structure in which "the participants are 
 ## Related Designs
 
 - [In-service professional support system for rural EFL teachers](rural-efl-professional-support-system.md)
+- [Train-the-trainer model cascading simulation-based obstetric training from master trainers to local facilitators to senior house officers](train-the-trainer-obstetric-simulation-cascade.md)
 
 ## Examples
 -

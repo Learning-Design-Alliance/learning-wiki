@@ -60,3 +60,4 @@ Meta-analysis of 21 RCTs measuring skill performance at course conclusion. The p
 - [High-fidelity simulation outperforms traditional training in skill performance (SMD 1.63) and knowledge (SMD 0.69) immediately after training](hf-vs-traditional-skill-knowledge-benefit.md) — related
 - [Nurses trained with simulation showed higher skill retention at 3 months than nurses trained with video-based instruction (exploratory)](simulation-higher-skill-retention-nurses-exploratory.md) — related
 - [Nurses trained with simulation showed higher skill scores than nurses trained with video-based instruction (exploratory)](simulation-higher-skill-scores-nurses-exploratory.md) — related
+- [Three months after a PAL high-fidelity simulation course, PGY trainees reported significantly higher clinical confidence, reasoning ability, resuscitation familiarity, and teamwork in TRM (all p < 0.001).](pal-simulation-pgy-cpe-significant-gains.md) — related

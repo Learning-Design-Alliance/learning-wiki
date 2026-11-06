@@ -55,3 +55,4 @@ Cross-sectional paper-pencil survey of 192 completed questionnaires (97.46% resp
 - [Students across all groups reported high satisfaction with the module, with no statistically significant group differences in satisfaction or self-reported mastery](high-satisfaction-no-group-differences-perceptions.md) — related
 - [First-year surgery residents were highly satisfied with the homemade CVCD TIVAP simulator, with a mean overall rating of 8.7 of 10 (n = 28)](residents-high-satisfaction-homemade-tivap-simulator.md) — related
 - [Students' ratings of the importance of simulation training and human factors training rose significantly from pre-test to post-test after the module, in one uncontrolled pre-post study](simulation-module-improved-simulation-human-factors-ratings.md) — related
+- [Participants express high satisfaction with VR MCI training and motivation to repeat it](vr-mci-training-satisfaction-motivation-repeat.md) — related

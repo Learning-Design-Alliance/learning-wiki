@@ -61,3 +61,4 @@ Adverse-effect reporting within the meta-analysis's review of the five satisfact
 - [Most participants found first VR engagement exciting and easy to use, though a minority reported discomfort and initial difficulty](vtracs-excitement-with-minority-adverse-experiences.md) — related
 - [AR-based anatomy learning is associated with fewer adverse health symptoms overall than traditional learning, except for blurred vision](ar-fewer-adverse-symptoms-except-blurred-vision.md) — related
 - [Most students find navigation within the VR anatomy environment easy or very easy](vr-anatomy-navigation-rated-easy.md) — reports the opposite
+- [Physical symptoms such as dizziness and nausea are common during VR MCI training and can degrade training quality for some users](vr-mci-training-physical-symptoms.md) — related

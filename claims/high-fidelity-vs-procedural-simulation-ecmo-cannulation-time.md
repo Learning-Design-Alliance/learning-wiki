@@ -55,3 +55,4 @@ Randomized controlled trial of 30 anesthesiology and critical care residents, ra
 - [High-fidelity simulation improves ECT procedural skills substantially but does not reliably improve theoretical knowledge or confidence](hfs-ect-procedural-skills.md) — related
 - [Median procedural performance rubric scores improved from 16 to 26.5 after simulation-based mastery learning training (p < 0.001)](sbml-probing-rubric-score-improvement.md) — related
 - [No significant between-group differences in learning-process measures across the simulator's clinical cases](pocus-process-measures-no-between-group-difference.md) — related
+- [The eCPR simulation significantly increased comfort with cannulation procedures, eCPR candidacy criteria, and postcannulation resuscitation](ecpr-simulation-domain-comfort-gains.md) — related

@@ -57,6 +57,7 @@ The review's concluding recommendation for a balanced instructional approach: "t
 - [Expand simulation-based and laboratory training before and alongside clinical practice](expand-simulation-laboratory-training-nursing.md)
 - [Use an echocardiography training simulator for initial skill acquisition before scanning real patients](strategy-simulator-first-echo-training.md)
 - [Use computer-aided simulations in nursing skills laboratories and support practical training with simulation](support-nursing-practical-training-with-simulation.md)
+- [Multifaceted integration of simulator-based training into medical curricula with adaptive, learner-group-specific teaching methods and qualified supervision](adaptive-sbt-curriculum-integration-strategy.md)
 
 ## Examples
 -

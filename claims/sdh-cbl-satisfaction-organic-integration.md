@@ -50,3 +50,4 @@ Satisfaction questionnaire (59 experimental, 62 control valid) with Mann–Whitn
 - [SDH-integrated CBL improves history taking and medical record writing versus CBL alone (d = 0.54–0.60)](sdh-integrated-cbl-improves-history-taking-documentation.md) — related
 - [SDH integration does not compromise theoretical knowledge, physical examination, or diagnostic analysis versus CBL alone](sdh-integration-preserves-core-clinical-knowledge.md) — related
 - [Integrated model raises satisfaction, clinical thinking, practical skill self-ratings and engagement, with no difference in resource utilization](microskills-cptm-questionnaire-engagement.md) — related
+- [EIL raises students' active-learning ratings without increasing their perceived academic burden](eil-active-learning-no-added-burden.md) — related

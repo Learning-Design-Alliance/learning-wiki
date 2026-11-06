@@ -49,3 +49,4 @@ Wilcoxon matched-pairs signed-rank tests on 10-point confidence ratings taken di
 - [Physiotherapists' self-rated perceived importance of supporting behaviour change did not change from pre-training to post-training in one group with no comparison group, and was already very high pre-training](mecc-hcs-importance-null-ceiling.md) — related
 - [Perceived usefulness of conversations for supporting behaviour change increased significantly post-training but the pre-to-6-month increase was not significant](mecc-hcs-usefulness-mixed.md) — related
 - [Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months](pr-training-self-rated-gains-sustained-3-months.md) — related
+- [AEDS training produces larger confidence gains than traditional training of equal duration](aeds-confidence-gains-exceed-traditional-training.md) — related

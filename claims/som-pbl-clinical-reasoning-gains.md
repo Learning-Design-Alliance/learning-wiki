@@ -72,3 +72,4 @@ Subdomain analysis of the Mini-CEX ratings found "significantly higher performan
 - [SOM-PBL produces no significant improvement in procedural skills compared with traditional teaching](som-pbl-no-procedural-skills-gain.md) — related
 - [Most SOM-PBL students report high satisfaction, but about one-third report the method imposed additional cognitive load](som-pbl-satisfaction-and-cognitive-load.md) — related
 - [SOM-PBL improves monitoring technology application and adverse-event management subdomains but not clinical decision-making or aseptic technique](som-pbl-subdomain-mixed-results.md) — related
+- [Control-group higher-order clinical reasoning regressed from Week 4 to Week 8 while the experimental group progressed](control-group-reasoning-regression-week8.md) — related

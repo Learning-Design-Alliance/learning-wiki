@@ -73,3 +73,4 @@ Measurement invariance testing of the teacher measurement model across the seven
 - [Measurement invariance of secondary students' perceptions of instructional quality is examined and supported](student-perceptions-instructional-quality-measurement-invariance.md) — related
 - [The CVT-based model is invariant across gender and area of study but only configurally invariant across countries](cvt-model-invariance-gender-area-country.md) — related
 - [Measurement invariance across test and questionnaire versions held at least at metric level, allowing versions to be combined in one analysis](measurement-invariance-test-versions.md) — related
+- [Teamwork satisfaction and perceptions of collaborative learning measures failed measurement invariance across group formation treatments, preventing comparison of student attitudes](attitude-measures-noninvariant-group-formation.md) — related

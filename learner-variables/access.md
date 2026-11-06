@@ -13,7 +13,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 109 claims (78 show a difference, 23 mixed, 8 no difference) · 85 studies (34 associational, 14 causal, 13 review, 7 qualitative, 7 design, 7 theoretical, 3 quant-synthesis), `q1`–`q4` · 7 of 85 report an effect size · 104 claims rest on one study
+> **Evidence** · 112 claims (80 show a difference, 24 mixed, 8 no difference) · 87 studies (34 associational, 15 causal, 13 review, 8 qualitative, 7 design, 7 theoretical, 3 quant-synthesis), `q1`–`q4` · 7 of 87 report an effect size · 107 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -153,6 +153,9 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [Students have access to radiography during internships in all faculties (100%), while interventional radiology and nuclear medicine are accessible in none (0%).](../claims/internship-imaging-modality-access-radiography-universal-interventional-nuclear-absent.md) [+M] — measured as an outcome of the instruction studied
 - [Students achieving an A grade accessed e-modules on more days than B–C and D–F bands, and accessed them earlier than the B–C band](../claims/grade-band-regularity-timeliness-association.md) [+W] — learners who differ on it differ in outcomes
 - [Screen-based simulator access rose from 14% of programs in 2008 to 58.9% in 2022](../claims/screen-based-simulator-access-increase.md) [+M] — measured as an outcome of the instruction studied
+- [Current institutional access to ultrasound equipment is associated with higher confidence, with access rates varying by institution type, while residency institution type shows no association with confidence](../claims/ultrasound-equipment-access-confidence.md) [~W] — learners who differ on it differ in outcomes
+- [Skill-based pharmacy learning (compounding, device counselling, OSCEs) faced validation, access, and transferability challenges when delivered remotely](../claims/remote-skill-based-learning-challenges-pharmacy.md) [+M] — measured as an outcome of the instruction studied
+- [Internet connectivity problems hindered remote learning and compounded student anxiety during high-stakes assessments](../claims/connectivity-problems-assessment-anxiety-remote.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

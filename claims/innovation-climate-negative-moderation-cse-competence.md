@@ -50,3 +50,5 @@ PROCESS Model 1 moderation analysis in the same cross-sectional sample of 233 nu
 ## Related Claims
 - [Innovation climate correlates moderately with AI attitudes, creative self-efficacy, and perceived clinical competence](innovation-climate-correlates-moderately-all-variables.md) — related
 - [The creative self-efficacy–clinical competence slope weakens with higher innovation climate and is non-significant at the highest examined SCI value](simple-slopes-cse-competence-weaken-high-sci.md) — a narrower finding that bears on this claim
+- [Poor mental health significantly moderated (weakened) the association between distance learning and self-assessed competency](mental-health-moderates-distance-learning-competency-association.md) — related
+- [Mental health symptoms moderate the association between perceived teaching quality and academic grades, weakening it as symptoms increase](mental-health-symptoms-moderate-teaching-quality-grades.md) — related

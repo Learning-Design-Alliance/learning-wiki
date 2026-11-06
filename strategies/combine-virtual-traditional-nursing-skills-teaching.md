@@ -53,6 +53,7 @@ The article recommends using both delivery modes together rather than choosing o
 - [Integrate e-learning and game-based approaches into nursing education to leverage the strengths of both methods](integrate-elearning-and-game-based-nursing-education.md)
 - [Integrate simulation-based education into traditional lecture-based teaching during the clinical apprenticeship phase of medical imaging courses](integrate-sbe-into-tbe-clinical-apprenticeship-phase.md)
 - [Combine push-based mobile learning with simulation practice and tiered content in a push-practice-feedback loop](push-plus-simulation-hybrid-nursing-education-strategy.md)
+- [Choose between online and face-to-face delivery based on the specific requirements of the course, and continuously review educational practices](choose-format-by-course-requirements.md)
 
 ## Examples
 -

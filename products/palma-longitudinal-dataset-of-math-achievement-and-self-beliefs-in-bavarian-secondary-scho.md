@@ -32,6 +32,7 @@ The PALMA project dataset tracks mathematics achievement and self-beliefs across
 ## Related Products and Programmes
 
 - [Austrian national educational standard assessment 2012 (mathematics, eighth grade)](austrian-national-educational-standard-assessment-2012-mathematics-eighth-grade.md)
+- [National Educational Panel Study Starting Cohort 2 (Kindergarten, SC2)](national-educational-panel-study-starting-cohort-2-kindergarten-sc2.md)
 
 ## Key Sources
 - Marsh, H. W., Pekrun, R., Parker, P. D., Murayama, K., Guo, J., Dicke, T. and Arens, A. K. (2019). The murky distinction between self-concept and self-efficacy: beware of lurking jingle-jangle fallacies. Journal of Educational Psychology, 111 (2). pp. 331-353. https://doi.org/10.1037/edu0000281

@@ -62,3 +62,4 @@ Systematic review of 14 studies (11 before-and-after, one RCT, one quasi-experim
 - [Workshop, simulation, and team-review methods significantly improve teamwork behaviors, while the pooled effect of didactic education alone was not significant](didactic-education-fails-to-improve-teamwork.md) — related
 - [Students perceived PBL as providing significant benefits to presentation skills, teamwork, leadership and ability to use IT](pbl-significant-perceived-skill-benefits.md) — related
 - [Multidisciplinary simulation increased nontechnical self-efficacy by 0.3 points on a 4-point scale](simulation-increased-nontechnical-self-efficacy-otolaryngology.md) — related
+- [Training significantly improved self-efficacy in situation awareness and in communication and teamwork, but not task management](splints-training-component-specific-self-efficacy.md) — a narrower finding that bears on this claim

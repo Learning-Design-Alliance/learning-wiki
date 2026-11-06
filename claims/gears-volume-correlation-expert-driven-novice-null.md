@@ -68,3 +68,4 @@ The same Results section reports non-significant correlations for resident/fello
 - [Total GEARS scores correlate positively with historic case volume across all performers for robotic-assisted cholecystectomy and inguinal hernia repair](gears-case-volume-correlation-all-performers.md) — a broader claim this one bears on
 - [C-SATS-derived GEARS scores did not differentiate resident/fellow from practicing surgeons, or surgeons below versus above 50 historic cases, for either procedure](gears-no-novice-expert-differentiation.md) — reports the opposite
 - [GEARS domain and surgical-step scores were similar across experience groups for both procedures, with all p > 0.05](gears-domain-step-scores-similar-groups.md) — related
+- [Prior surgical experience shows no significant advantage for basic robotic surgical skill acquisition](surgical-experience-no-gears-advantage.md) — related

@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 274 claims (182 show a difference, 53 mixed, 39 no difference) · 173 studies (63 associational, 59 causal, 26 review, 10 quant-synthesis, 6 qualitative, 6 theoretical, 3 design), `q1`–`q4` · 37 of 173 report an effect size · 266 claims rest on one study
+> **Evidence** · 277 claims (184 show a difference, 53 mixed, 40 no difference) · 174 studies (63 associational, 60 causal, 26 review, 10 quant-synthesis, 6 qualitative, 6 theoretical, 3 design), `q1`–`q4` · 37 of 174 report an effect size · 269 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -310,6 +310,9 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Test anxiety mediates the trait anxiety–academic performance relationship only in the high-functioning SLD group](../claims/test-anxiety-mediation-high-functioning-sld.md) [~M] — learners who differ on it differ in outcomes
 - [Anxiety negatively mediates the relationship between teacher caring behavior and English academic performance](../claims/anxiety-negative-mediation-tcb-eap.md) [+W] — learners who differ on it differ in outcomes
 - [Among medical students, anxiety-reduction scores rose from pre-training to post-training after VR anatomy training, in one single-group pre-post study](../claims/vr-anatomy-training-anxiety-reduction-post-scores.md) [+M] — measured as an outcome of the instruction studied
+- [A 30-minute pre-OSCE HPOT session of relaxation, breathing and positive reinforcement significantly reduces medical students' pre-exam anxiety](../claims/hpot-reduces-pre-osce-anxiety.md) [+W] — measured as an outcome of the instruction studied
+- [Post-exam anxiety is inversely correlated with OSCE score: students with the lowest post-OSCE anxiety achieved better scores](../claims/post-exam-anxiety-inversely-correlated-osce-score.md) [+W] — learners who differ on it differ in outcomes
+- [Pre-exam anxiety did not correlate with OSCE score, and women reported higher pre-exam anxiety than men](../claims/pre-exam-anxiety-no-score-link-gender-difference.md) [-W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

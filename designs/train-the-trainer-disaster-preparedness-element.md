@@ -45,7 +45,8 @@ A train-the-trainer team strategy prepares large numbers of health professionals
 - [Ebola Training Workshop Increased Knowledge Confidence](../claims/ebola-training-workshop-increased-knowledge-confidence.md) [+M]
 
 ## Related Designs
-- 
+
+- [Train-the-trainer model cascading simulation-based obstetric training from master trainers to local facilitators to senior house officers](train-the-trainer-obstetric-simulation-cascade.md)
 
 ## Examples
 -

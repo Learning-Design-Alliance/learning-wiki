@@ -55,3 +55,4 @@ Study in which 53 surgeons each performed an endoscopic intracorporeal suturing 
 - [Glove-derived force features could not distinguish clinicians by seniority but showed modest ability to classify perceived task difficulty](glove-features-seniority-null-difficulty-classification.md) — reports the opposite
 - [Residents trained on a high-fidelity 3D-printed lung model scored higher on a posttraining thoracic anatomy test than residents trained on an FLS box trainer](lung-model-higher-posttraining-anatomy-scores.md) — related
 - [Novices' visual attention did not differ between pediatric and adult box trainers](no-visual-attention-difference-pediatric-adult-trainers.md) — related
+- [Positional tracking and force sensing were considered important simulator features](position-and-pressure-sensing-important-features.md) — related

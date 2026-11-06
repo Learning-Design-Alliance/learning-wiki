@@ -21,7 +21,7 @@ sources:
 # Fostering Communities of Learning (FCL)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 47 claims (30 for, 16 mixed, 1 against) · 55 studies (19 causal, 13 quant-synthesis, 12 review, 6 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 13 of 55 report an effect size · 35 claims rest on one study
+> **Evidence** · 49 claims (32 for, 16 mixed, 1 against) · 56 studies (20 causal, 13 quant-synthesis, 12 review, 6 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 13 of 56 report an effect size · 37 claims rest on one study
 
 ## Description and scope
 
@@ -127,6 +127,8 @@ Read against the model on 2026-10-19. Of the eleven claims listed here then, ten
 - [The jigsaw method produced significantly higher learning scores than both flipped classroom and lecture-based teaching in nursing students](../claims/jigsaw-higher-learning-scores-than-fc-and-lbt.md) [+M] — attached 2026-11-06 from Khodadadeh Alireza et al. (2025), which proposed "Jigsaw implementation structure with home groups, expert groups, and QR-coded booklet sections"; tests this page's relationship.
 - [Integrating jigsaw teaching into SRL cycle instruction improves nursing students' total self-regulated learning ability more than traditional lecture teaching](../claims/jigsaw-srl-instruction-raises-srl-ability-nursing.md) [+M] — attached 2026-11-06 from Chen Yiwen et al. (2025), which proposed "Three-phase jigsaw-SRL instructional cycle: forethought, performance, self-reflection".
 - [Jigsaw-plus-SRL instruction improves nursing students' learning engagement, especially vitality and dedication, but not concentration](../claims/jigsaw-srl-raises-learning-engagement.md) [+M] — attached 2026-11-06 from Chen Yiwen et al. (2025), which proposed "Three-phase jigsaw-SRL instructional cycle: forethought, performance, self-reflection".
+- [Post-intervention academic motivation was significantly higher for dental students taught with the jigsaw method than for those taught with tutorials, with no baseline difference between groups](../claims/jigsaw-tutorial-academic-motivation-postintervention.md) [+M] — attached 2026-11-06 from Haider Ambreen Khurshid et al. (2025), which proposed "Use the jigsaw method in settings with restricted faculty and resources because it requires fewer facilitators than tutorials".
+- [Most undergraduate dental students in the jigsaw group reported that the method enhanced their understanding, provided adequate discussion time, and allowed effective contribution](../claims/jigsaw-student-feedback-dental.md) [+M] — attached 2026-11-06 from Haider Ambreen Khurshid et al. (2025), which proposed "Use the jigsaw method in settings with restricted faculty and resources because it requires fewer facilitators than tutorials".
 
 ## Illustrative design instance and observation record
 

@@ -72,7 +72,7 @@ MAX_ARTICLE = 60_000
 # first author, text in ft-*.txt) or a miss (a reason), so a miss is not retried.
 FT_LOOKUPS = CACHE / "ft-lookups.ndjson"
 MIN_FULL_TEXT = 15_000   # shorter is a landing page or an abstract, not an article
-UNPAYWALL_EMAIL = "david@learningdesignalliance.org"
+UNPAYWALL_EMAIL = "contact@learningdesignalliance.org"
 # A repository copy filed under an article's DOI can be the author's thesis of the same title
 # (Marcus 1996, "Understanding instructions": UNSWorks holds her 1998 PhD thesis).
 THESIS_RE = re.compile(r"thesis submitted|dissertation submitted|in (?:partial )?fulfil+ment of|"

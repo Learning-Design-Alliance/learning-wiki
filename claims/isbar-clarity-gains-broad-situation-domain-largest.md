@@ -51,3 +51,4 @@ Item-level exploratory analysis of the Communication Clarity Scale in a single-g
 - [Students report that ISBAR provides a cognitive scaffold for organized handover expression](isbar-cognitive-scaffold-organized-expression.md) — related
 - [Knowledge gains from the workshop were largest in sampling and critical care domains for both professional groups](bronchoscopy-workshop-domain-specific-gains.md) — related
 - [SBAR and handover capabilities did not change significantly from pre-test to post-test in one single-group study with no comparison group](sccdp-sbar-handover-no-significant-change.md) — related
+- [Communication feedback in adult nursing assessment is perfunctory unless tied to functional safety tasks such as SBAR handover and escalation of concerns](communication-feedback-perfunctory-except-functional-contexts.md) — related

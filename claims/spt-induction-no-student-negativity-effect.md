@@ -50,3 +50,4 @@ Preregistered student-level regression from the results robustness table on stud
 - [Students of treatment teachers perceived more positive relationships with their teachers (Cohen's d = 0.82)](spt-induction-raises-student-tsr-positivity.md) — related
 - [Higher levels of and stronger increases in perceived negative relationships with teachers are associated with lower levels of and stronger decreases in autonomous academic motivation across the secondary school transition](teacher-negativity-autonomous-motivation-linked-change.md) — related
 - [Focal students of treatment teachers attained higher course competency scores (Cohen's d = 0.45)](spt-induction-raises-student-competencies.md) — related
+- [Teacher–student relationships are positively associated with students' perceived teaching quality in Chinese high school students](tsr-positive-association-perceived-teaching-quality-chinese-high-school.md) — related

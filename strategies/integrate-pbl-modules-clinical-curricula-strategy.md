@@ -56,6 +56,7 @@ In the discussion the authors recommend that clinical nursing education programs
 - [Integrate flipped learning into theoretical and clinical nursing courses to build lifelong-learning competencies](integrate-fl-nursing-courses-strategy.md)
 - [Integrate structured reflective sessions into clinical curricula, tailored to students' developmental stage](integrate-structured-reflection-clinical-curricula.md)
 - [Scaffold method choice by student progression: CBL early, transitioning to PBL and TBL](scaffold-cbl-early-transition-pbl-tbl.md)
+- [Cultivate positive perceptions of pharmacology through case-based, patient-centered teaching and active learning](case-based-pharmacology-perception-strategy.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ A meta-analysis of 77 independent evaluations of coping program effects on socia
 ## Related Claims
 - [Psychosocial interventions for low-income urban youth are more effective when delivered in community-based settings than within schools.](community-based-interventions-more-effective-than-school-based-in-urban-poverty.md) — related
 - [Mentoring interventions modestly predict positive youth outcomes, effects do not deteriorate over time, and programs are more effective when mentors take advocacy and teaching roles and youth are matched on similarity of interests.](mentoring-interventions-modest-effects-sustained-with-advocacy.md) — related
+- [The intervention showed a selective protective effect against deterioration of math grades at 1-year follow-up (d = .36), driven by math rather than GPA overall.](explore-your-brain-protective-math-grade-effect.md) — a narrower finding that bears on this claim

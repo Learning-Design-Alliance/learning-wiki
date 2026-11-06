@@ -55,3 +55,4 @@ Gwynne, J.A., Allensworth, E.M., Young, C., & Hart, H. (2024). Student experienc
 - Local leaders supported student learning in similar and different ways across in-person, hybrid, and remote instructional modalities — related
 - [No association found between 2021/22 school climate scores and the amount of virtual and hybrid instruction in 2020/21](no-association-virtual-instruction-climate.md) — related
 - [Student-reported instructional quality declined during remote learning, most sharply in middle-grade science and academic press, and had not recovered to pre-pandemic levels by 2022-23](instructional-quality-declined-remote-learning.md) — related
+- [Prolonged remote flipped learning produced initial disorientation, then fatigue, isolation, and a desire to return to campus](prolonged-remote-learning-fatigue-isolation.md) — related

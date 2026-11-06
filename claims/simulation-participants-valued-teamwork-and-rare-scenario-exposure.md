@@ -60,3 +60,4 @@ Inductive coding of free-text postsimulation responses from the 62-participant c
 - [Realistic simulation gave students insight into future professional responsibilities, communication and teamworking, and asking for help](simulation-realism-professional-responsibility-insight.md) — related
 - [Students highlighted raised risk awareness and professional relevance as the main positive outcomes of the room of horror](roh-raised-risk-awareness-highlighted.md) — related
 - [Learners rated the multidisciplinary simulation favorably on faculty competence, case relevance, and realism](simulation-learner-feedback-favorable.md) — related
+- [The eCPR simulation was well received, with positive postsimulation feedback from all respondents](ecpr-simulation-positive-reception.md) — related

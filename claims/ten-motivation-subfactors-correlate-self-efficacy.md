@@ -53,3 +53,4 @@ Correlational analysis of the survey data from 210 EFL learners (Table 4) found 
 - [Motivation correlates positively and significantly with L2 willingness to communicate among Turkish EFL preparatory students](motivation-correlates-with-l2-wtc-turkish-efl.md) — related
 - [Self-efficacy correlates positively with subsequent motivation and performance across cognitive and sport domains](self-efficacy-predicts-motivation-and-performance.md) — related
 - [English reading comprehension achievement correlates moderately and positively with English self-efficacy before and after instruction](reading-comprehension-self-efficacy-moderate-correlation.md) — related
+- [The four motivation factors correlated significantly and positively with English scores](motivation-factors-correlate-english-scores.md) — related

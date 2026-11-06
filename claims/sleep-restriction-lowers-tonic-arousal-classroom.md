@@ -51,3 +51,4 @@ EEG-monitored subset (n=8) of the counterbalanced sleep manipulation; tonic arou
 - [Sleepy behaviors (eyes closed, head down) showed medium-sized but non-significant effects of sleep restriction](sleepy-behaviors-nonsignificant-medium-effects.md) — related
 - [Children with ADHD exhibit a higher theta/beta power ratio than typically developing children at C3, Cz and C4 in the midline](adhd-higher-tbr-midline-c3-cz-c4.md) — related
 - [Acute exercise increases cortical delta, theta, alpha, and beta EEG power, with a moderately large effect size of 0.38 to 0.75 standard deviations](acute-exercise-increases-eeg-band-power.md) — related
+- [In the neurofeedback lesson, students gained objective control over theta/beta index in three of four exercises (large effects except the reading exercise), and objective control correlated with subjective control (r = −.420).](explore-your-brain-neurofeedback-implementation-success.md) — related

@@ -79,3 +79,4 @@ Further item-level comparisons in the same exam-phase analysis showed the medica
 - [AI-simulated patients improve gynecological history-taking checklist completion and reduce missed key items compared with instructor-led standardized patients](ai-simulated-patient-checklist-completion-gynecology.md) — related
 - [AI-VSP teaching of history-taking skills achieves learning outcomes not significantly different from conventional SP in a randomized controlled trial](ai-vsp-non-inferior-to-sp-history-taking.md) — related
 - [AI feedback improved the generic medical history OSCE domain (r=0.27) while other domains showed no significant differences](ai-feedback-generic-medical-history-domain-only.md) — related
+- [Tool learning objectives were heterogeneous: 42% targeted anamnesis/history-taking interviews, 42% taught general communication skills, and 8% covered giving bad news](heterogeneous-learning-objectives-virtual-tools.md) — related

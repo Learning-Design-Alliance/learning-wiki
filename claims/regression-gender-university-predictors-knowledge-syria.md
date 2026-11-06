@@ -55,3 +55,4 @@ Multivariable linear regression with HC3 robust standard errors on 500 participa
 - [Males scored significantly lower than females on skills scores one year after implementation, independent of other factors](males-lower-one-year-skill-scores.md) — reports the opposite
 - [Female gender, administrative position and lecture attendance independently predict adequate enteral nutrition knowledge](independent-factors-adequate-en-knowledge.md) — related
 - [Male students demonstrated higher GPA than female students in this sample, and sex was a significant regression predictor](sex-difference-gpa-male-higher-dilla-sample.md) — related
+- [Female gender is independently and positively associated with academic achievement (adjusted OR 2.66)](female-gender-independent-positive-factor-gpa.md) — related

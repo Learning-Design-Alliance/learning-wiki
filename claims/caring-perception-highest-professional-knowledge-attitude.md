@@ -49,3 +49,4 @@ Descriptive analysis of CBI-30 sub-dimension scores among 249 newly graduated nu
 - [Higher professional competency is independently associated with higher caring perception among newly graduated nurses](competency-independently-associated-caring-perception-new-graduates.md) — related
 - [Newly graduated nurses report highest competency in Caring and lowest in Clinical Biomedical Science and General Clinical Skills](competency-profile-caring-highest-clinical-lowest.md) — related
 - [No consistent significant differences in competency or caring scores across socio-demographic characteristics in univariate analyses](no-consistent-univariate-demographic-differences.md) — related
+- [Technical and cognitive competencies (Clinical Biomedical Knowledge, Critical Thinking and Reasoning, Lifelong Learning) show weaker links with patients' care perceptions](technical-competencies-weaker-links-patient-perceptions.md) — related

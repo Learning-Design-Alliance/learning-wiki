@@ -51,6 +51,7 @@ Based on the pooled findings — comparable ICEMS performance, a small low-certa
 ## Related Strategies
 
 - [Implement AI in assessment as a hybrid support tool for low-stakes, formative stages while humans retain final grading authority](hybrid-ai-human-assessment-implementation.md)
+- [Use an AI feedback system as a standalone self-directed training and assessment resource, freeing expert tutors for higher-value skills](ai-standalone-training-frees-expert-tutors.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Partner self-report from the report's discussion of the Challenge's accountabili
 - [High-stakes testing pushed some Chicago schools toward test preparation and away from partners' long-term instructional improvement efforts](high-stakes-testing-crowded-out-partner-efforts.md) — related
 - [External partners' influence is necessarily limited by their minor role in schools' attention and activity](partner-influence-limited-by-minor-role-in-schools.md) — related
 - [A minority of students found individual written work not effective, preferring that individual productions be shared with others](individual-work-rated-ineffective-by-minority.md) — related
+- [Completing the self-assessment was not burdensome, but recruiting raters — especially asking supervisors — was onerous and the most stressful part of MSF](msf-rater-recruitment-burdensome.md) — related

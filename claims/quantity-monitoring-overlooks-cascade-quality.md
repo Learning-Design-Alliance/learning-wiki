@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: nichol-beth-2026
     resource: "https://doi.org/10.1111/bjhp.70076"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Estimating TtT success by number of individuals trained could motivate but also encouraged undue focus on numbers rather than quality of TtT training and subsequent cascaded MECC training. [→ Nichol Beth 2026](#nichol-beth-2026)

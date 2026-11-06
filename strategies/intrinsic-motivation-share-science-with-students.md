@@ -39,6 +39,7 @@ The report highlights research on the importance of building students' intrinsic
 ## Related Strategies
 
 - [Passion-based seminar program culminating in senior internships](passion-based-seminar-program-senior-internships.md)
+- [Teachers emphasize the value and joy of learning rather than relying on rewards or punishments](value-and-joy-messages-over-rewards-punishments.md)
 
 ## Examples
 -

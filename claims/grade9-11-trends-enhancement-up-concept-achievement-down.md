@@ -48,3 +48,4 @@ Univariate first-order latent growth models (assumed linear development) fitted 
 ## Related Claims
 - [Higher initial self-enhancement predicts a stronger decrease in academic self-concept over Grades 9 to 11](self-enhancement-predicts-self-concept-decline.md) — related
 - [Variance in ASC change is statistically significant at individual, clique, and classroom levels, with a slight average decline in ASC across the school year](asc-change-variance-all-three-levels.md) — related
+- [Higher academic achievement predicts higher academic self-concept over time](higher-grades-predict-higher-asc-longitudinally.md) — related

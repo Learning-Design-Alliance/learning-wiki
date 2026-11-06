@@ -56,3 +56,4 @@ One correlational study is recorded. The correlations are moderate to large by r
 - [Service-learning within integrated projects is associated with improvements in students' self-efﬁcacy, self-esteem, social responsibility, and community participation](service-learning-improves-civic-and-personal-outcomes.md) — related
 - [Service-learning students with a SLAM peer mentor scored higher on posttest civic action than non-mentored students, in a non-randomised comparison](peer-mentoring-increases-civic-action-service-learning.md) — related
 - [Peer mentoring shows a trend toward higher posttest social justice attitudes](peer-mentoring-trend-social-justice-attitudes.md) — related
+- [Group conflict was reported so infrequently (4–9% of students) that models predicting conflict could not be estimated, and no strong evidence showed conflict was more common under either formation strategy](conflict-infrequent-unanalyzable.md) — related

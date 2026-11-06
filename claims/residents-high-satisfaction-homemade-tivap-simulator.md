@@ -49,3 +49,4 @@ Post-course feedback survey of 28 first-year surgery residents after completing 
 - [Subjects reported high satisfaction with the computer-based mapping training](high-satisfaction-concept-map-training.md) — related
 - [Over 96% of flipped classroom residents express satisfaction, but 32.1% report increased time demands and 28.6% report greater self-presentation pressure](fc-satisfaction-and-implementation-challenges.md) — related
 - [Medical students report high overall satisfaction with an interprofessional simulation-based learning module](ipe-module-high-student-satisfaction.md) — related
+- [All learner groups rate simulator-based training highly for improving practical skills and transferring theory into practice, with practical-year students rating practical-skill gains highest](sbt-rated-improving-practical-skills.md) — related

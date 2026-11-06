@@ -48,6 +48,7 @@ A trainee feedback section highlights that "the ability to control intradural pr
 ## Related Strategies
 
 - [Build simulation models from patient imaging with 3D printing to accommodate anatomical variations at low cost](imaging-based-3d-printing-custom-simulation-models.md)
+- [Continuously tailor rehearsal difficulty by adjusting skill criteria and task demands](dp-ongoing-difficulty-tailoring.md)
 
 ## Examples
 -

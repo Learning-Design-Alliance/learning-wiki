@@ -58,3 +58,5 @@ Survey comparison using six items from the University Student Satisfaction and T
 - [Flipped classroom students report more positive perceptions of resources, effort, and overall learning environment on the AEEMI](flipped-classroom-positive-aeemi-perceptions.md) — related
 - [Students in the P-I-T-D-S flipped classroom reported significantly higher satisfaction than traditional-lecture students across nearly all questionnaire items](pitds-flipped-higher-satisfaction.md) — a narrower finding that bears on this claim
 - [SST residents report higher satisfaction with course content, resources, interaction, and teaching methods, with no difference in perceived learning burden](sst-higher-satisfaction-equal-burden.md) — related
+- [EIL raises students' active-learning ratings without increasing their perceived academic burden](eil-active-learning-no-added-burden.md) — related
+- [Nursing students rated knowledge mastery, classroom atmosphere, and communication and collaboration as the top three aspects of learning satisfaction in the in-class flipped classroom](satisfaction-top-three-in-class-flipped.md) — related

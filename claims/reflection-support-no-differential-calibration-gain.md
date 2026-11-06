@@ -58,3 +58,4 @@ Multilevel analysis of the year-long quasi-experiment comparing Practice-only, G
 - [Exam score predictions decreased from the start to the end of the course for all performance quartiles, leaving poor performers overconfident and high performers underconfident](predictions-decrease-over-course-quartiles.md) — related
 - [Incentives significantly improved calibration accuracy only among lower-achieving students in a college-course quasi-experiment](incentives-improve-calibration-lower-achievers.md) — related
 - [Monitoring accuracy interventions are less effective for secondary school students than for elementary students and adults](monitoring-accuracy-interventions-least-effective-secondary-students.md) — related
+- [The intervention did not affect school burnout symptoms; both conditions reported increased burnout from pre to 1-year follow-up.](explore-your-brain-no-burnout-effect.md) — related

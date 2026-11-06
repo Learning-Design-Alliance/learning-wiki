@@ -55,3 +55,4 @@ Authors' interpretation reconciling the univariate t-test nulls (Section IV-A) w
 - [MRMR feature ranking identifies occipital alpha PSD as the most discriminative feature, followed by frontal gamma, high-beta, and theta](mrmr-occipital-alpha-top-feature.md) — related
 - [SVM classification of fNIRS activation patterns distinguishes RD with 60–90% accuracy, with left MTG channels the most consistent discriminative features](fnirs-mvpa-classifies-reading-difficulty.md) — a narrower finding that bears on this claim
 - [ERP and alpha-band EEG signals decode old vs new faces above chance, with the high-alpha band more discriminative than the low-alpha band](erp-alpha-band-decoding-old-new-faces.md) — a narrower finding that bears on this claim
+- [VR-trained group shows higher beta and low-gamma EEG power than controls during simulator tasks](dvss-vr-training-higher-beta-low-gamma-psd.md) — reports the opposite

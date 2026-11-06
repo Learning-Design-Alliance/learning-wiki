@@ -53,3 +53,4 @@ Authors' interpretation in the conclusion section, reporting students' stated re
 - [Most surveyed EFL students want more control over their listening learning, including pace, material, repetition times and physical/emotional state](efl-students-want-more-listening-control.md) — related
 - [Chatbot-based instruction enhanced secondary students' learning experience by enabling self-paced study with less stress, time savings, and maintained motivation](chatbot-enhances-learning-experience-self-paced.md) — related
 - [The literature review reports multiple ways YouTube can support language learning, including listening skills, reading comprehension and learner autonomy](youtube-language-learning-reviewed-benefits.md) — related
+- [Students reacted favourably to HPOT: most wanted to continue using the techniques despite mixed perceived anxiety benefit](student-acceptance-of-hpot.md) — related

@@ -49,3 +49,4 @@ Mediation model with chronotype dummy-coded (evening as reference), latent ident
 - [Adolescents with an evening chronotype report lower initial levels of educational commitment than those with morning or intermediate chronotypes](evening-chronotype-lower-initial-educational-commitment.md) — related
 - [Adolescents with a morning chronotype report higher initial in-depth exploration than those with intermediate or evening chronotypes](morning-chronotype-higher-initial-in-depth-exploration.md) — related
 - [Loneliness level mediated approximately 55.66% of the association between chronotype and training achievements](loneliness-mediation-chronotype-grades.md) — related
+- [Morning chronotype is associated with higher academic performance category among first-year medical students](morning-chronotype-associated-excellent-performance.md) — related

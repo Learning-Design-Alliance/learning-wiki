@@ -28,6 +28,7 @@ A Spanish-language, 46-item, ten-subscale Likert questionnaire adapted from Shia
 ## Related Products and Programmes
 
 - [Attitudes Towards Teaching Profession Scale (ATTPS)](attitudes-towards-teaching-profession-scale-attps.md)
+- [Spanish version of the Academic Motivation Scale (AMS)](spanish-version-of-the-academic-motivation-scale-ams.md)
 
 ## Key Sources
 - Leiva Hernández Carolina, Aguilera Felipe Rodrigo, Aravena-Castillo Verónica, Hidalgo V. Viviana, Farías Orellana Javier, Stuardo-Parada Adriana. (2026). Dental students’ attitudes toward community service: a pre–post survey study of a service-learning experience in Chile. BMC Medical Education. https://doi.org/10.1186/s12909-026-10109-w

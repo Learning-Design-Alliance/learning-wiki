@@ -70,3 +70,4 @@ Within the improving-tutorial-performance theme, students reported gains in comm
 - [Students describe structured reflection and journaling as supporting self-awareness, recognition of behavioral patterns, and reoriented future actions](structured-reflection-self-awareness-growth.md) — related
 - [Adult learners expect AI to enhance autonomy through choices, flexible learning spaces, metacognitive awareness, and structured self-assessment](ai-enhances-adult-learner-autonomy.md) — related
 - [Interviewed students reported that the SRL intervention elicited self-regulated learning behaviors across goal setting, strategic planning, self-observation, and self-reflection](srl-intervention-elicited-srl-behaviors.md) — related
+- [Qualitative analysis of 492 participant quotes suggests the observed behavioral changes resulted from sense-making emerging from five themes about the training experience](vr-training-sense-making-five-themes.md) — related

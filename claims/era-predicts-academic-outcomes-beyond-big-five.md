@@ -77,3 +77,4 @@ The same regression analyses showed both measures were independent predictors: "
 - [Achievement emotion regulation strategies relate to well-being, health, and academic achievement across three studies](strategies-relate-wellbeing-health-achievement.md) — related
 - [Trait and ability EI in 11th grade predict 12th-grade emotions towards school and academic achievement](ei-predicts-emotions-and-achievement.md) — related
 - [Self-assessment was associated with 10% additional explained variance in post-test SRL beyond pre-test SRL in one single-group pre-test/post-test study with no comparison group](self-assessment-predicts-srl-beyond-pretest.md) — related
+- [Grade-12 students with higher GPA score significantly higher on conscientiousness than lower-GPA peers, with no difference in the other four Big Five domains](conscientiousness-higher-in-academic-achievement-group.md) — related

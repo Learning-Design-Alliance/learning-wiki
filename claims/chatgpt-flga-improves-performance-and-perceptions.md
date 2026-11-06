@@ -70,3 +70,5 @@ A quasi-experiment in a courseware project compared two intact classes: one (42 
 - [Flipped learning improves higher-order thinking skills (analyzing, evaluating, creating) of college business ESP students more than traditional teaching](flipped-learning-improves-hots-business-esp-students.md) — related
 - [A project-based flipped learning model raised translation competence test scores in a Business English Translation course over one 16-week semester](flipped-translation-competence-posttest-gain.md) — related
 - [ChatGPT-assisted learners report higher posttest learning motivation and self-efficacy than video-only learners](chatgpt-assisted-learning-raises-motivation-self-efficacy.md) — related
+- [The flipped classroom significantly increased autonomous learning motivation, the largest motivation-factor gain](flipped-classroom-raises-autonomous-learning-motivation.md) — related
+- [The flipped classroom significantly increased instrumental, integrative and intrinsic motivation factors](flipped-classroom-raises-other-motivation-factors.md) — related

@@ -51,3 +51,5 @@ Same pre-post survey (N = 13) with descriptive statistics. Scenario-specific com
 - [Integrated micro-skills training-CPTM improves OSCE practical skill scores versus traditional teaching](microskills-cptm-higher-osce.md) — related
 - [A retrospective chart review identified 1,096 perinatal-loss diagnoses at the hospital over roughly three years](1096-perinatal-loss-diagnoses-2021-2024.md) — related
 - [In an uncontrolled pre–post study, both lecture and simulation cohorts had statistically significantly higher self-reported knowledge, competence, and comfort with breaking bad news after training than before (p < 0.001)](bbn-both-modalities-significant-prepost-gains.md) — related
+- [In-depth interviews with 5 medical students, 5 PCPs, and 5 breast cancer survivors identified gaps in communication skills training and shaped the scenario's timing, mode, and SPIKES-based protocol](formative-interviews-informed-vsp-design.md) — related
+- [Tool learning objectives were heterogeneous: 42% targeted anamnesis/history-taking interviews, 42% taught general communication skills, and 8% covered giving bad news](heterogeneous-learning-objectives-virtual-tools.md) — related

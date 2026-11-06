@@ -54,3 +54,4 @@ Cross-sectional ANOVA comparing male and female students across all preclinical 
 - [Males show a statistically significant but practically negligible advantage on WISC Full-Scale IQ (d = 0.09), which becomes non-significant with newer WISC versions](wisc-fsiq-negligible-male-advantage.md) — related
 - [Female sex is associated with lower probability of adequate academic performance among medical students in Lima](female-sex-lower-adequate-performance-medical-students.md) — related
 - [Males scored significantly lower than females on skills scores one year after implementation, independent of other factors](males-lower-one-year-skill-scores.md) — related
+- [In this study, male dental students scored slightly higher on the academic motivation scale than female students](male-higher-motivation-dental-jigsaw.md) — related

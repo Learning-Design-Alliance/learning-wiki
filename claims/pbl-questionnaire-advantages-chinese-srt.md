@@ -84,3 +84,4 @@ Meta-analysis of questionnaire surveys (yes/no items, pooled as odds ratios) fro
 - [PBL-SP teaching produces greater improvement in residents' ability to handle clinical problems than LBL-SP](pbl-sp-greater-clinical-problem-handling-improvement.md) — related
 - [Symptom-focused CBL residents reported significantly higher satisfaction than controls across five competencies including clinical reasoning and documentation quality](limited-mouth-opening-cbl-higher-satisfaction-competencies.md) — related
 - [Students receiving simulation-based education rate the teaching higher than traditionally taught students for learning interest, imaging thinking, teamwork, and communication skills](sbe-higher-ratings-nontechnical-domains.md) — related
+- [Experimental-group residents report significantly higher satisfaction than control-group residents across the seven measured teaching dimensions](boppps-flipped-higher-teaching-satisfaction.md) — related

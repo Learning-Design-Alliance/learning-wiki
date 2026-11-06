@@ -75,3 +75,4 @@ Table 1 paired comparisons (N = 28) show professional knowledge improved 12.4 po
 - [AI simulation improves Mini-CEX medical interviewing skills and organization/efficiency but not professionalism, clinical judgment, counseling, or overall competence](ai-simulated-patient-minicex-domains-gynecology.md) — related
 - [Large majorities of post-reform students self-reported gains in research competencies, academic communication skills and career development](student-self-reported-competency-gains-post-reform.md) — related
 - [Performance improvements after simulation-based learning were statistically significant for both male and female students across all assessment domains](sbl-improvements-consistent-across-genders.md) — related
+- [At Week 4, only implementation ability differed significantly among clinical reasoning dimensions; knowledge acquisition showed no significant difference](scaffolded-cbd-week4-null-dimensions.md) — related

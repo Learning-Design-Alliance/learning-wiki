@@ -66,3 +66,4 @@ OSCE Station 3 (Clinical Judgment) comparison in the same RCT; the difference "d
 ## Related Claims
 - [EBM-BOPPPS clerks achieved significantly higher total OSCE scores than standalone BOPPPS clerks in a neurology clerkship RCT](ebm-boppps-higher-total-osce-neurology-clerkship.md) — a broader claim this one bears on
 - [EBM Confidence Scale scores correlated moderately positively with OSCE Physical Interview performance in the EBM-BOPPPS group](ebm-confidence-osce-physical-interview-correlation.md) — related
+- [Self-learning ability improvement did not survive Bonferroni correction; study pressure did not differ between groups](boppps-self-learning-null-study-pressure-equal.md) — related

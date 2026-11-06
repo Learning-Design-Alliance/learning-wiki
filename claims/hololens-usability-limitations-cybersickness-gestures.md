@@ -71,3 +71,4 @@ Qualitative findings: gesture misinterpretation during glove donning or cannula 
 - [Students identified mannequin realism limitations, technical and operational issues, and restricted access to simulation labs as barriers to SBL in oral radiology](barriers-sbl-oral-radiology-realism-technical-access.md) — related
 - [Focus groups identify structured practice, limited emotional realism, and recommendations for case variety and curriculum integration](aisp-focus-group-three-themes.md) — related
 - [Students and the tutor evaluated the remote MR tutorials positively, with all interviewees rating them equally or more effective than in-person tutorials](positive-student-tutor-perceptions-hololens-tutorials.md) — related
+- [Prolonged remote flipped learning produced initial disorientation, then fatigue, isolation, and a desire to return to campus](prolonged-remote-learning-fatigue-isolation.md) — related

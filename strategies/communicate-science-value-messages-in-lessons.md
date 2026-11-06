@@ -52,6 +52,7 @@ The article recommends that teachers, individually and in subject teams, "consid
 - [Emphasize the Value of Learning](emphasize_the_value_of_learning.md)
 - [Consider students' phase of interest when implementing UVIs, and consider combining them with interventions fostering beliefs that interest can develop](implement-uvis-considering-interest-phase.md)
 - [Use generative AI to connect school subjects to students' immediate concerns and cross-domain applications rather than to core identity components](ai-relevance-via-proximal-concerns-and-cross-domain.md)
+- [Teachers emphasize the value and joy of learning rather than relying on rewards or punishments](value-and-joy-messages-over-rewards-punishments.md)
 
 ## Examples
 -

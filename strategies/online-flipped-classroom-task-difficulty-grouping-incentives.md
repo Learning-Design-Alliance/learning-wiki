@@ -47,6 +47,7 @@ For online flipped teaching during COVID-19, the article recommends four practic
 - [Group-Based Flipped Classroom](group-based_flipped_classroom.md)
 - [Teachers should structure group work so student communication stays on-task and productive](structure-group-communication-on-task.md)
 - [Use multi-dimensional assessment with computerized tracking to capture learning process in flipped classrooms](multi-dimensional-assessment-computerized-tracking.md)
+- [Apply Dong et al.'s five flipped-classroom recommendations step-by-step when integrating flipped simulation into PAL simulation courses](flipped-simulation-five-recommendations-strategy.md)
 
 ## Examples
 -

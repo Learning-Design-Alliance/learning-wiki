@@ -51,3 +51,4 @@ Three-group randomized trial of 120 undergraduates stratified by baseline scores
 - [Flipped classroom shows a significant pooled advantage over lecture-based learning in dental education (SMD = 0.50)](flipped-classroom-significant-vs-lbl-dental.md) — a broader claim this one bears on
 - [PUC-FC students rated the course more highly than FC and LBL students on all satisfaction dimensions except rationality of class hour arrangement](puc-fc-satisfaction-advantage.md) — related
 - [No significant difference between CBL-FC and LBL groups in theoretical knowledge after intervention](cbl-fc-no-gain-theoretical-knowledge.md) — related
+- [SPOC+EIL improves ability-analysis and total written scores but not basic knowledge scores relative to LBL](spoc-eil-ability-scores-not-basic-knowledge.md) — related

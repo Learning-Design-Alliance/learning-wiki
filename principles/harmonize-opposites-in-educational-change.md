@@ -35,7 +35,7 @@ sources:
 # Harmonize opposites: strike a balance between competing educational ideas rather than embracing one method wholesale
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 54 claims (40 for, 12 mixed, 2 against) · 44 studies (15 causal, 11 review, 9 theoretical, 7 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 7 of 44 report an effect size · 52 claims rest on one study
+> **Evidence** · 55 claims (41 for, 12 mixed, 2 against) · 45 studies (16 causal, 11 review, 9 theoretical, 7 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 7 of 45 report an effect size · 53 claims rest on one study
 
 ## Conditional relationship
 
@@ -150,6 +150,7 @@ Claims the earlier page cited that the model above does not use; each is context
 - [Students taught with an eclectic learning approach achieved significantly higher post-test scores in English than students taught with a traditional learning approach.](../claims/eclectic-approach-higher-english-achievement.md) [+W] — attached 2026-11-03 from Suleman et al. (2016), which proposed "Adopt an eclectic learning approach in elementary English teaching to improve achievement and retention."; tests this page's relationship.
 - [Students taught with an eclectic learning approach retained significantly more English content than students taught with a traditional learning approach.](../claims/eclectic-approach-higher-english-retention.md) [+W] — attached 2026-11-03 from Suleman et al. (2016), which proposed "Adopt an eclectic learning approach in elementary English teaching to improve achievement and retention."; tests this page's relationship.
 - [Blended reading and writing strategy training produces higher quality source-based essays than reading-only, writing-only, or control conditions](../claims/blended-strategy-training-improves-source-based-essay-quality.md) [+W] — attached 2026-11-04 from Weston-Sementelli et al. (2016), which proposed "Combine reading comprehension and writing strategy instruction to improve source-based writing performance"; tests this page's relationship.
+- [The balanced 50/50 PT/CL group reported increased training interest and lower subjective task challenge than the predominantly PT or CL groups](../claims/balanced-group-higher-interest-lower-challenge.md) [+W] — attached 2026-11-06 from Cizmic Amila et al. (2025), which proposed "Balance practical training and cognitive learning in roughly equal proportions when designing MIS training for novices"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

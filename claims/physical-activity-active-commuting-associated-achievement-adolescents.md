@@ -54,3 +54,4 @@ Cross-sectional analysis of physical activity measures against grades, adjusted 
 - [High intake of lemonade, sugar-sweetened soft drinks and salty snacks is associated with decreased odds of high academic achievement, mainly in girls](unhealthy-beverage-snack-intake-associated-lower-achievement.md) — related
 - [Regular physical activity (at least once per week) was associated with 81% higher odds of entrance exam success](regular-sport-associated-entrance-success.md) — a narrower finding that bears on this claim
 - [More sports club participation is associated with higher odds of high mathematics and language performance in both sexes](sports-club-hours-associated-higher-performance-both-subjects.md) — related
+- [Each additional hour of school commuting time is associated with lower academic performance and higher mental-health test scores among rural Chinese primary students.](commuting-time-lower-math-rural-china.md) — reports the opposite

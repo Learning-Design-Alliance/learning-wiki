@@ -49,3 +49,4 @@ Across seven courses, random 1-minute sign-in rates were 87.19% (SD 7.63%) in th
 - [Students in the PBL-SP group perceive the standardized patient as more helpful for learning than LBL-SP students](pbl-sp-students-perceive-sp-more-helpful.md) — related
 - [PBL-SP teaching improves postclass knowledge retention and learning interest relative to LBL-SP](pbl-sp-higher-knowledge-retention-and-interest.md) — related
 - [PBL-SP does not significantly change written exam performance relative to LBL-SP](pbl-sp-written-exam-no-significant-difference.md) — related
+- [Students in a SPOC+EIL course show higher in-class and postclass engagement and interaction than students in lecture-based learning](spoc-eil-higher-engagement-than-lbl.md) — related

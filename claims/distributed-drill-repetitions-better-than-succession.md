@@ -54,3 +54,4 @@ The article cites investigations on learning as the basis for this teaching prin
 - [Second-study results corroborate the first study despite a shorter drill period of 20 versus 30 recitations](drill-results-corroborate-first-study.md) — related
 - [Drill classes improved from two to three times as much as non-drill classes in arithmetic fundamentals](drill-improvement-two-to-three-times-nondrill.md) — related
 - [Reading a selection through as a whole gives better study results than studying it part by part](whole-method-study-beats-part-method.md) — related
+- [Microteaching gives ACP facilitator trainees a feeling of self-efficacy through successful repetition, according to the authors' course experience](microteaching-self-efficacy-successful-repetition.md) — related

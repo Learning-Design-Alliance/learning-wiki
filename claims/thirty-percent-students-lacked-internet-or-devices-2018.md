@@ -75,3 +75,4 @@ A spring 2020 national ParentsTogether survey of parents, reported in the Priori
 - [Students without home broadband or who rely only on a cell phone show a digital skill gap of roughly three grade levels and are less likely to plan for college](home-broadband-digital-skill-gap.md) — related
 - [OLSit model lacks replications and evidence for students with underdeveloped self-regulation](olsit-replication-and-population-gaps.md) — related
 - [Home internet access gaps and pupil independence were key challenges; schools used homework clubs, and an estimated 10–15% of pupils did not do home tasks](mathsflip-access-challenges-homework-clubs.md) — related
+- [Skill-based pharmacy learning (compounding, device counselling, OSCEs) faced validation, access, and transferability challenges when delivered remotely](remote-skill-based-learning-challenges-pharmacy.md) — related

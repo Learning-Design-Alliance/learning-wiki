@@ -53,3 +53,4 @@ Kirkpatrick Level 1 (Reaction) evaluation: 122 course evaluations on a five-poin
 - [Students rated the peer-assisted simulation workshops highly, with mean satisfaction scores above 4 of 5](high-satisfaction-peer-simulation-workshops.md) — related
 - [Students reported high satisfaction with the script strategy teaching method (mean 74.37 ± 16.31 on a 100-point scale)](script-strategy-high-satisfaction.md) — related
 - [Participants rate the RCDP resuscitation simulation as very or extremely helpful, with a mean helpfulness score of 4.8 on a 5-point Likert scale](rcdp-resuscitation-simulation-rated-highly-helpful.md) — related
+- [Participants report very high satisfaction with the cadaveric workshop's content, quality, and materials](cadaveric-workshop-high-satisfaction.md) — related

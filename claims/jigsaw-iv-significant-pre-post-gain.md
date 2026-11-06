@@ -49,3 +49,4 @@ Dependent-group t-test on the 24-student experiment group taught 'Atoms - the Ba
 - [Jigsaw II instruction produced a statistically significant pre-to-post achievement gain in the control group](jigsaw-ii-significant-pre-post-gain.md) — related
 - [No statistically significant post-test difference was found between the Jigsaw IV and Jigsaw II groups](jigsaw-iv-vs-ii-no-posttest-difference.md) — related
 - [Self-regulated jigsaw IV produced significantly higher achievement gain scores than traditional teaching in a university EFL grammar unit](self-regulated-jigsaw-iv-achievement-gains.md) — related
+- [The jigsaw group showed a statistically significant pre-to-post achievement gain, while the tutorial group's within-group gain was not statistically significant](jigsaw-within-group-achievement-gain-dental.md) — related

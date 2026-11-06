@@ -49,3 +49,4 @@ Within the same pilot RCT, delta score was computed as (post-test−pretest)/pre
 - [Scenario-based simulation yields higher post-test knowledge scores than video-based training in anaesthesia undergraduates learning perioperative anaphylaxis management](sbs-higher-post-test-than-vbt-perioperative-anaphylaxis.md) — possibly the same claim (merge candidate)
 - [Student satisfaction with teaching is higher after scenario-based simulation than after video-based training](sbs-higher-student-satisfaction-than-vbt.md) — related
 - [Both training groups improve abdominal image identification but simulation group scores higher post-training](both-groups-improve-abdominal-image-identification-sim-higher.md) — a narrower finding that bears on this claim
+- [No significant between-group differences in pre-test, post-test, or improvement (delta) performance scores across the three training mixes](no-between-group-delta-differences-pt-cl-mixes.md) — reports the opposite

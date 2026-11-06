@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 117 claims (75 show a difference, 27 mixed, 15 no difference) · 56 studies (25 associational, 15 review, 9 causal, 5 quant-synthesis, 2 theoretical), `q2`–`q4` · 18 of 56 report an effect size · 117 claims rest on one study
+> **Evidence** · 119 claims (77 show a difference, 27 mixed, 15 no difference) · 57 studies (26 associational, 15 review, 9 causal, 5 quant-synthesis, 2 theoretical), `q2`–`q4` · 18 of 57 report an effect size · 119 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -152,6 +152,8 @@ Personality traits are relatively stable individual differences, most often meas
 - [Engagement is the only well-being element not significantly correlated with L2 achievement, while both grit dimensions correlate significantly positively with it](../claims/engagement-not-correlated-l2-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [Perseverance of effort significantly predicts all four well-being elements while consistency of interest predicts none](../claims/pe-predicts-wellbeing-elements-ci-does-not.md) [~M] — learners who differ on it differ in outcomes
 - [The four well-being elements do not significantly mediate the relationships between grit dimensions and L2 achievement](../claims/wellbeing-mediation-non-significant.md) [-M] — learners who differ on it differ in outcomes
+- [Conscientiousness is independently and positively associated with academic achievement (adjusted OR 1.89) in multivariate analysis](../claims/conscientiousness-independent-positive-factor-gpa.md) [+W] — learners who differ on it differ in outcomes
+- [Grade-12 students with higher GPA score significantly higher on conscientiousness than lower-GPA peers, with no difference in the other four Big Five domains](../claims/conscientiousness-higher-in-academic-achievement-group.md) [+W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

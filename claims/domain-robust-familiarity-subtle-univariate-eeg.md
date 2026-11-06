@@ -54,3 +54,4 @@ Trial-level aggregation (N=37 independent trials) with two-sample Welch's t-test
 - [Self-rated LLM familiarity is a weaker secondary intake signal, surviving Holm correction for three of five outcomes with a bottom-anchored pattern](llm-familiarity-weaker-secondary-intake-signal.md) — related
 - [Offloading is decodable from metacognitive monitoring and control brain processes](neural-metacognitive-decoding-offloading.md) — related
 - [ERP and alpha-band EEG signals decode old vs new faces above chance, with the high-alpha band more discriminative than the low-alpha band](erp-alpha-band-decoding-old-new-faces.md) — related
+- [VR-trained group shows higher beta and low-gamma EEG power than controls during simulator tasks](dvss-vr-training-higher-beta-low-gamma-psd.md) — reports the opposite

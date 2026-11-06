@@ -41,6 +41,7 @@ The researcher recommends that "instructors' training modules should be develope
 - [Staff development should make teaching principles explicit through articulation, reflection and evaluation, supported by institutional incentives and training](staff-development-articulate-teaching-principles.md)
 - [Deliberately select instructional design features when developing simulation training modules](deliberately-select-design-features-simulation.md)
 - [Scenario-based learner-centered facilitator training using APA's learner-centered psychological principles](scenario-based-lcp-facilitator-training.md)
+- [Co-construct definitions of active learning with students and train staff in practices that reduce anxiety and disengagement](co-construct-active-learning-with-students.md)
 
 ## Examples
 -

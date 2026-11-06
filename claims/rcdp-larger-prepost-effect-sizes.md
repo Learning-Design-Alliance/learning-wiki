@@ -50,3 +50,4 @@ Pre-post paired analysis in the RCT: the RCDP group's theoretical gain was 11.50
 - [RCDP implementation involves more feedback cycles and longer instructor contact than TTM, with no difference in number of repeated operations](rcdp-more-feedback-cycles-same-repetitions.md) — related
 - [Knowledge test scores rose from pre-test median 6 to post-test median 8 after RCDP-within-TeamSTEPPS interprofessional simulation, in one uncontrolled pre-post study](ipstar-mcq-knowledge-gain.md) — related
 - [Both SWSP and RCDP significantly improve nursing students' knowledge of initial stroke care, with no difference between the two strategies](swsp-rcdp-equal-knowledge-gains-stroke.md) — related
+- [AEDS training produces larger confidence gains than traditional training of equal duration](aeds-confidence-gains-exceed-traditional-training.md) — related

@@ -55,3 +55,4 @@ Descriptive safety outcome of the feasibility RCT. The article reports "3 partic
 - [3D VR acclimatisation reduces simulator penalty scores versus 2D video, with task-level effects mixed](3d-vr-reduces-penalty-scores.md) — related
 - [VR-based simulation significantly increases simulator sickness whereas computer-based simulation does not](vr-simbie-increases-simulator-sickness.md) — related
 - [The VR training dose was under 60 cumulative minutes across two sessions, with no reported cybersickness](vr-training-dose-under-60-minutes.md) — related
+- [Physical symptoms such as dizziness and nausea are common during VR MCI training and can degrade training quality for some users](vr-mci-training-physical-symptoms.md) — related

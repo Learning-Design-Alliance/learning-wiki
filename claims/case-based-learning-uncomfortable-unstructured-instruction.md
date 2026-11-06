@@ -50,3 +50,4 @@ Interview finding from the discussion section of the case study. The authors lin
 - [Graduate students in a simulated clinical course reported positive experiences with its weekly debriefing and guided exploration of psychometric properties](debriefing-psychometric-instruction-valued.md) — related
 - [An internal program review found absence of a consistent pedagogical framework and need for active case-based materials](program-review-five-design-findings.md) — related
 - [Learners in the dual-layer DALMOOC experienced uncertainty and discomfort transitioning from instructor-driven to self-regulated learning, and found the distributed structure confusing](dalmooc-learners-uncertain-in-self-regulated-transition.md) — related
+- [Nursing students experienced initial confusion followed by progressive exploration and problem-solving in the in-class flipped classroom](progressive-learning-experience-confusion-to-problem-solving.md) — related

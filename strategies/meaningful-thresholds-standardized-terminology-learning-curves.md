@@ -47,6 +47,7 @@ The article recommends that learning curve analyses adopt thresholds providing m
 
 - [Use risk-adjusted cumulative sum (RA-CUSUM) analysis to account for case-mix heterogeneity in learning curve assessment](ra-cusum-learning-curve-assessment.md)
 - [Combine objective metrics with validated subjective tools and audio-visual recording to contextualize interpretation of surgical performance data](combine-objective-metrics-with-subjective-and-av-context.md)
+- [Combine subjective scores, simulator metrics and EEG-based cognitive-load measures for multi-perspective skill assessment](multi-perspective-surgical-skill-assessment-strategy.md)
 
 ## Examples
 -

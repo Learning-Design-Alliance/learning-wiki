@@ -50,6 +50,7 @@ The article recommends that instructors treat the design thinking stages, partic
 - [Staged institutional implementation: audit interactions, map to teaming levels, build AI literacy, co-design, and evaluate iteratively](staged-teacher-ai-teaming-implementation.md)
 - [Use findings on instructor power relations to inform professional development for responding to Generative AI](genai-power-relations-inform-instructor-pd.md)
 - [Co-create micro-intervention repertoires with generative AI through a seed-request-refine prompt sequence, with the instructor curating output](ai-co-creation-of-emotional-micro-interventions.md)
+- [Collect qualitative formative data and map likely conversation paths before developing AI-powered VSP prompts](formative-qualitative-mapping-before-ai-vsp-prompts.md)
 
 ## Examples
 -

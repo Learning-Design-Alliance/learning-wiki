@@ -52,3 +52,4 @@ Descriptive UEQ and IPQ results from the feasibility study (n = 32), scored per 
 - [Intervention-group students reported moderate presence in the VSP, highest for spatial presence and lowest for perceived realism](moderate-presence-ipq-vsp.md) — related
 - [User Experience Questionnaire evaluations did not differ significantly between the EyelearnMR and control groups](no-ueq-difference-between-arms.md) — related
 - [Students rated the VSP system positively for usability and learning assistance, with comparatively low ratings for patient realism and authenticity](positive-ueq-ratings-vsp-system.md) — related
+- [Users rate the CAE Vimedix simulator's physical characteristics and image sharpness positively but rate realism and direct transferability of its display to real conditions lower](vimedix-realism-transferability-lower-ratings.md) — related

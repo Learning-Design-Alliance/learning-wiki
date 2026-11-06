@@ -50,3 +50,4 @@ Online questionnaire (Sojump) of all 24 integrated-course participants; descript
 - [Students and teachers expressed predominantly positive opinions about the guides and activities, with time pressure the main teacher criticism](positive-student-teacher-opinions-design.md) — related
 - [Post-program surveys show most students felt more likely to pursue STEM, more comfortable in university labs, and found the program appropriately challenging](discovery-survey-attitudes-comfort-pursuit.md) — related
 - [Most learners report that visual input helps them understand speakers](visual-input-helps-comprehension-perceptions.md) — related
+- [Most undergraduate dental students in the jigsaw group reported that the method enhanced their understanding, provided adequate discussion time, and allowed effective contribution](jigsaw-student-feedback-dental.md) — related

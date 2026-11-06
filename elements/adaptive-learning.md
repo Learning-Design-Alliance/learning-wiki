@@ -116,6 +116,7 @@ Adaptive learning tailors content, pacing, support, or task sequence in response
 - [Adaptive responses to carelessness should take probable student affect into account and tailor messages to highly engaged students](../strategies/affect-aware-carelessness-interventions.md)
 - [Offer adaptive learning pathways tailored to learners' prior ultrasound experience level](../strategies/adaptive-pathways-by-prior-experience.md)
 - [Use AI chatbots to provide dynamic, personalized explanations that adapt to a student's specific misunderstandings](../strategies/llm-dynamic-personalized-explanations-strategy.md)
+- [Continuously tailor rehearsal difficulty by adjusting skill criteria and task demands](../strategies/dp-ongoing-difficulty-tailoring.md)
 
 ## Key Sources
 - Shute, V. J., & Towle, B. (2003). Adaptive e-learning. *Educational Psychologist, 38*(2), 105-114. [https://doi.org/10.1207/s15326985ep3802_5](https://doi.org/10.1207/s15326985ep3802_5)

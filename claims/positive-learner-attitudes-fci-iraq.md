@@ -83,3 +83,4 @@ Semi-structured interviews with 10 experimental-group volunteers, analysed by in
 - [ESL learners trained in metacognitive strategies hold more positive views of the strategies' effectiveness than untrained peers](trained-esl-learners-positive-views-metacognitive-strategies.md) — related
 - [Students hold favorable attitudes toward e-learning as a supplement to in-class teaching](favorable-attitudes-toward-elearning-supplement.md) — related
 - [Saudi nursing students perceived pre-class assignments in flipped learning as deepening their understanding of course content](fl-preclass-assignments-deepened-understanding-nursing.md) — related
+- [Nursing students perceived the in-class flipped classroom as addressing limited self-operational practice time and enhancing learning efficiency and effectiveness](perceived-efficiency-limited-practice-time.md) — related

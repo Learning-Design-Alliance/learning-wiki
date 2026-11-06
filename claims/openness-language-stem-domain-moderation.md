@@ -74,3 +74,4 @@ Within the domain × measure subgroup analyses, openness correlations with langu
 - [Teaching type interacts with personality factors on academic achievement for all Big Five traits except neuroticism](teaching-type-personality-interaction-big-five.md) — related
 - [All five Big Five personality traits significantly predict academic achievement among medical master's students](big-five-traits-predict-achievement-medical-postgraduates.md) — related
 - [Agreeableness is the dominant Big Five personality type among Grade 12 Thai EFL students, at 59.7% of respondents](agreeableness-dominant-thai-g12-personality-type.md) — related
+- [Grade-12 students with higher GPA score significantly higher on conscientiousness than lower-GPA peers, with no difference in the other four Big Five domains](conscientiousness-higher-in-academic-achievement-group.md) — related

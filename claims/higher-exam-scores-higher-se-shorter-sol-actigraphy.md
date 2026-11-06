@@ -52,3 +52,5 @@ Post hoc group comparison of 33 university students split at the median final ex
 - [High-scoring students show lower night-to-night variability (MAD) of sleep efficiency, sleep onset latency, and total sleep time](lower-mad-se-sol-tst-high-scorers.md) — related
 - [Exam-score associations with sleep parameters are pronounced on weekdays but absent on weekends](weekday-sleep-exam-association-weekend-null.md) — related
 - [Subjective sleep measures (PSQI) show no significant differences or correlations with academic performance, contrasting with objective actigraphy](psqi-null-vs-actigraphy-significant.md) — related
+- [Average performers take much longer to fall asleep than Excellent performers](average-performers-longer-sleep-latency.md) — related
+- [Excellent performers keep earlier weekday and weekend sleep schedules than Average performers](excellent-performers-earlier-sleep-schedules.md) — related

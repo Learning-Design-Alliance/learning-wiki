@@ -44,7 +44,8 @@ A course-specific immersive VR training module delivered through the VIVEPAPER p
 - [Post Training Perceptions Combined Instruction Preferred](../claims/post-training-perceptions-combined-instruction-preferred.md) [+M]
 
 ## Related Designs
-- 
+
+- [45-minute immersive VR training based on TeamSTEPPS principles with pre- and postdebriefing](immersive-vr-teamstepps-surgical-training.md)
 
 ## Examples
 -

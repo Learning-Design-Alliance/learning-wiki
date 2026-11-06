@@ -73,3 +73,4 @@ Tutee interview data in the hesitancy and emotional issues subtheme; participant
 - [Students' emotions evolve positively across simulation-based experience, from initial nervousness toward calm, control, and self-confidence](positive-emotional-evolution-across-simulation.md) — related
 - [Students initially experienced hesitance and performance anxiety in role-play, which diminished over time as they gained skills](role-play-initial-hesitance-anxiety.md) — related
 - [Students' lack of confidence in problem-solving skills reduces active participation in PBL](student-confidence-problem-solving-pbl-participation.md) — related
+- [Barriers to engaging in active learning include time constraints, exhaustion, group dynamics with unfamiliar peers, fear of negative evaluation, and poor session management](barriers-time-safety-group-dynamics.md) — related

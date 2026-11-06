@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 307 claims (231 show a difference, 42 mixed, 34 no difference) · 244 studies (82 causal, 78 associational, 33 review, 22 qualitative, 11 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 51 of 244 report an effect size · 303 claims rest on one study
+> **Evidence** · 308 claims (232 show a difference, 42 mixed, 34 no difference) · 245 studies (82 causal, 78 associational, 33 review, 22 qualitative, 12 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 51 of 245 report an effect size · 304 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -338,6 +338,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Female trainees report more perceived anxiety, longer operating times and reduced confidence after a surgical hiatus](../claims/female-trainees-greater-perceived-decay-and-confidence-loss.md) [+M] — measured as an outcome of the instruction studied
 - [Higher perceived pressure/tension and, unexpectedly, higher perceived competence predict poorer post-training test results](../claims/pressure-and-competence-predict-test-results.md) [+M] — learners who differ on it differ in outcomes
 - [Webinar training induces more perceived pressure/tension than learning-platform training, while perceived competence is equal](../claims/webinar-more-pressure-equal-competence.md) [-W] — measured as an outcome of the instruction studied
+- [Three months after a PAL high-fidelity simulation course, PGY trainees reported significantly higher clinical confidence, reasoning ability, resuscitation familiarity, and teamwork in TRM (all p < 0.001).](../claims/pal-simulation-pgy-cpe-significant-gains.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

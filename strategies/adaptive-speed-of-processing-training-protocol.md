@@ -45,7 +45,8 @@ An implementable training recipe in which an observer practices UFOV computer-ad
 - [Speed-of-processing training transfers to health and functional outcomes including reduced crash risk, improved driving, faster daily-task completion, slower health-related quality-of-life decline, and reduced depression risk](../claims/training-transfers-to-health-functioning.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Continuously tailor rehearsal difficulty by adjusting skill criteria and task demands](dp-ongoing-difficulty-tailoring.md)
 
 ## Examples
 -

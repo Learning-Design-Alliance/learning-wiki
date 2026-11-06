@@ -49,3 +49,4 @@ A quasi-experimental before-after study in which 30 clinicians from two CDAMS me
 - [Clinicians reported their largest perceived practice changes in providing hope, setting aside time for questions and acknowledging feelings](perceived-practice-change-hope-and-feelings.md) — related
 - [Self-rated self-efficacy did not change from pre-test to post-test among medical and nursing clinicians but changed among allied health and psychology clinicians, in one uncontrolled pre-post study](self-efficacy-gains-vary-by-profession.md) — a narrower finding that bears on this claim
 - [Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months](pr-training-self-rated-gains-sustained-3-months.md) — related
+- [Attention test scores (FAIR2, TMT, ZVT) rose from pre-test to post-test within each of the three groups after training while general self-efficacy (ASKU) did not change](attention-tests-improved-asku-unchanged.md) — related

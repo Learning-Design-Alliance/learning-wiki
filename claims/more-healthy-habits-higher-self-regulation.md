@@ -52,3 +52,4 @@ Comparison of mean self-regulation by number of healthy lifestyle habits met (PA
 - [Physical activity is positively correlated with self-regulation in Chilean children aged 8–12](physical-activity-positively-correlated-self-regulation-children.md) — related
 - [Screen time is negatively correlated with self-regulation in Chilean children](screen-time-negatively-correlated-self-regulation-children.md) — related
 - [Lower BMI, higher healthy diet score, and better sleep quality are associated with high language performance in girls but not boys](bmi-diet-sleep-quality-girls-language-performance.md) — related
+- [School children's weekly screen time is positively correlated with their BMI (r = 0.522)](screen-time-positively-correlated-bmi-indian-children.md) — related

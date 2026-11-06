@@ -49,3 +49,4 @@ Cross-sectional multi-institutional study of 48 surgeons submitting 70 videos fo
 - [Case duration did not correlate with total GEARS scores overall, but significant negative correlations appeared among practicing surgeons and those with ≥ 50 historic cases](case-duration-gears-correlation-subgroups.md) — related
 - [The GEARS-case volume correlation is driven by practicing surgeons with more than 50 cases and is absent among resident/fellow surgeons and those with fewer than 50 cases](gears-volume-correlation-expert-driven-novice-null.md) — a narrower finding that bears on this claim
 - [C-SATS-derived GEARS scores did not differentiate resident/fellow from practicing surgeons, or surgeons below versus above 50 historic cases, for either procedure](gears-no-novice-expert-differentiation.md) — related
+- [Prior surgical experience shows no significant advantage for basic robotic surgical skill acquisition](surgical-experience-no-gears-advantage.md) — related

@@ -54,3 +54,5 @@ Exploratory comparison of NASA TLX global change scores in the randomized trial 
 - [Perceived task load on the NASA-TLX is higher for novices than beginners and experienced endoscopists](endonix-nasa-tlx-higher-novices.md) — related
 - [Cognitive load did not differ significantly between the C, SML, and SML+AI groups, though the SML+AI group's load decreased descriptively](chatgpt-virtual-manipulatives-cognitive-load-no-group-difference.md) — related
 - [Debriefer cognitive load was significantly lower when debriefing was augmented by resident eye-tracking video](etad-debriefer-cognitive-load-lower.md) — related
+- [Self-directed AI training produced no additional perceived cognitive workload compared with expert tutor instruction on the NASA-TLX](ai-training-no-extra-cognitive-workload-nasa-tlx.md) — related
+- [Low-fidelity simulation settings do not differ from high-fidelity settings in overall NASA-TLX workload experienced by a Swedish naval C2 team.](low-fidelity-sbt-comparable-workload-naval-c2.md) — related

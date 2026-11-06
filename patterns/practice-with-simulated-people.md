@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 251 claims (131 for, 101 mixed, 19 against) · 138 studies (42 causal, 36 review, 18 design, 16 quant-synthesis, 15 qualitative, 7 associational, 4 theoretical), `q1`–`q4` · 27 of 138 report an effect size · 246 claims rest on one study
+> **Evidence** · 253 claims (133 for, 101 mixed, 19 against) · 139 studies (42 causal, 36 review, 19 design, 16 quant-synthesis, 15 qualitative, 7 associational, 4 theoretical), `q1`–`q4` · 27 of 139 report an effect size · 248 claims rest on one study
 
 ## Description and scope
 
@@ -179,6 +179,8 @@ Read against the model on 2026-10-19; these bear on the page but do not change a
 - [Students' emotions evolve positively across simulation-based experience, from initial nervousness toward calm, control, and self-confidence](../claims/positive-emotional-evolution-across-simulation.md) [+W] — attached 2026-11-06 from García Carpintero-Blas E et al. (2025), which proposed "Progressive SimZones-based simulation design moving from low-complexity technical zones to realistic Zone 3 scenarios within a four-phase session structure".
 - [In one uncontrolled pre-post study, interns' self-rated self-efficacy changed from pre-test to post-test after personal simulations across professional-knowledge confidence, responding to patients, and coping with patient resistance (all p < 0.01)](../claims/personal-simulations-increase-self-efficacy-significant.md) [+W] — attached 2026-11-06 from Linder Ifat et al. (2025), which proposed "Consecutive-scenario simulation pattern: progressive multi-session cases with the same simulated patient, each round running briefing-simulation-debriefing with structured multi-source feedback".
 - [Dietetic interns overwhelmingly rate group simulation workshops as beneficial and relevant, with 98% describing the experience as beneficial](../claims/group-simulations-rated-beneficial-relevant-dietetic-interns.md) [+W] — attached 2026-11-06 from Linder Ifat et al. (2025), which proposed "Consecutive-scenario simulation pattern: progressive multi-session cases with the same simulated patient, each round running briefing-simulation-debriefing with structured multi-source feedback".
+- [Detailed role representation and joint rehearsal permitted a high degree of standardisation of SP roles, even over long periods](../claims/detailed-role-scripts-role-standardisation.md) [+W] — attached 2026-11-06 from Götze K et al. (2025), which proposed "Use SP-supported role-play to build complex communication skills that cannot be reliably built through listening or interactive learning alone".
+- [Well-trained laypersons cope comparably with SP requirements in ACP facilitator training, and openness to death and dying is central to SP eligibility](../claims/sp-eligibility-laypersons-comparable-actors.md) [+W] — attached 2026-11-06 from Götze K et al. (2025), which proposed "Run SP-supported ACP training in small groups of at most four participants with one SP and one qualified ACP coach per group".
 
 ## Illustrative design instance and observation record
 
@@ -302,6 +304,7 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Structure AI virtual patient sessions with pre-briefing, a structured diagnostic guide, and case-specific debriefing](../strategies/pre-briefing-debriefing-ai-virtual-patient-session.md)
 - [Avatar-based ad hoc entrustment simulation with 36 clinical scenarios and FACSGen-animated expressions](../designs/avatar-entrustment-simulation-paradigm.md)
 - [Enhanced OSCE-specific preparation with realistic simulation sessions to reduce anxiety and improve performance](../strategies/enhanced-osce-simulation-preparation.md)
+- [Rehearse SP roles with an identity card, an ACP coach as conversational partner, and joint reflection to improve standardisation](../strategies/sp-rehearsal-identity-card-standardisation.md)
 
 ## Related Patterns
 - [Case-Based Learning](case-based-learning.md)

@@ -52,6 +52,7 @@ The article recommends that "academic support systems could integrate psychoeduc
 - [Schools should run time-management and study-skills workshops, provide academic counseling, and teach coping strategies to manage academic stress](workshops-counseling-coping-kazo-recommendation.md)
 - [Organize courses and workshops that strengthen academic identity and positive emotions and control negative emotions](courses-workshops-identity-emotions-strategy.md)
 - [Integrate counseling, stress-management, resilience, and emotional-intelligence development supports into teacher preparation programmes](integrate-wellness-ei-supports-teacher-preparation.md)
+- [Provide counselling services and an academically supportive environment for LGBTQ+ college students](counselling-and-academic-support-lgbtq-students.md)
 
 ## Examples
 -

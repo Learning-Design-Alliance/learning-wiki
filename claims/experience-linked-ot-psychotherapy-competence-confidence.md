@@ -50,3 +50,5 @@ Narrative synthesis of reviewed literature reporting that "Experienced occupatio
 - [The Great Debate: occupational therapists hold conflicting views on whether psychotherapy falls within occupational therapy's scope of practice](great-debate-scope-of-practice-conflict.md) — related
 - Most included literature on psychotherapy competence in occupational therapy was published after 2000, and half was non-empirical — related
 - [Psychotherapy regulation and supervision requirements vary across Canadian provinces, potentially limiting skill acquisition](inconsistent-provincial-psychotherapy-regulation-supervision.md) — related
+- [In this case, DP supervision of a therapist delivering Behavioral Activation coincided with improved client outcomes, with BDI falling from 31 at intake to 15 at final assessment](dp-supervision-case-bdi-improvement.md) — a narrower finding that bears on this claim
+- [Repeated, feedback-guided rehearsal of one validation response improved its clarity and fluency and reduced its experienced difficulty across four attempts in one session](repeated-rehearsal-improves-validation-fluency.md) — related

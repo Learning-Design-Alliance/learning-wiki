@@ -51,3 +51,4 @@ Overall conclusion drawn from the exploratory multi-method study comparing MR tr
 - [Qualitative data indicate a need to improve interaction opportunities with virtual patients in MR training](mr-needs-improved-virtual-patient-interaction.md) — related
 - [Participants view virtual training as a resource-efficient supplement to, not a replacement for, real-life exercises](virtual-training-supplement-not-replacement.md) — a narrower finding that bears on this claim
 - [Interprofessional mass casualty incident simulation increased disaster-response confidence in 96% of participating pre-licensed nursing students](mass-casualty-simulation-confidence.md) — related
+- [VR training for mass casualty incidents shows high overall acceptability and applicability for most users, with exceptions for users experiencing obstacles](vr-mci-training-high-acceptability.md) — related

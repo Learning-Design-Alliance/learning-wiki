@@ -49,3 +49,4 @@ Saccade-length analysis in the five-group eye-tracking study: attendings "signif
 - [Attending ophthalmologists show significantly shorter fixation durations than PGY2 residents when reading fundus images](attendings-shorter-fixation-durations-fundus-reading.md) — related
 - [Blink rate decreases with ophthalmology experience, though PGY4 residents show a higher blink rate than PGY3s](blink-rate-decreases-with-experience-pgy4-anomaly.md) — related
 - [Diagnostic accuracy on fundus images increases significantly with ophthalmology training level, from 53.33% in PGY2s to 96.00% in attendings](fundus-diagnostic-accuracy-increases-with-experience.md) — related
+- [Higher- and lower-level referees show no significant differences in fixation and saccade measures](no-expertise-differences-referee-gaze-behavior.md) — reports the opposite

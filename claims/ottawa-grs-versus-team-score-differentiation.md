@@ -47,3 +47,4 @@ Benchmark ratings per session (Table 2): Ottawa GRS Situational Awareness and Co
 
 ## Related Claims
 - [NTS training improves observable team behavioural performance in EDs, including more frequent closed-loop communication, clearer role allocation and prioritisation, improved situational awareness, and higher teamwork ratings (moderate certainty).](nts-training-improves-ed-team-behaviours.md) — related
+- [On the Ottawa GRS, PGY trainees rated communication skills highest (mean 5.17) and situational awareness lowest (mean 4.62).](ottawa-grs-communication-highest-situational-awareness-lowest.md) — related

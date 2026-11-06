@@ -52,3 +52,4 @@ Cross-sectional multiple linear regression on 175 CEPS middle school students, a
 - [Cognitive performance is the primary mediating pathway between screen time and academic performance](cognitive-performance-primary-mediation-path.md) — related
 - [Screen time is significantly negatively correlated with Chinese, mathematics, English and overall academic performance among Chinese junior middle school students](screen-time-negative-academic-performance-ceps.md) — possibly the same claim (merge candidate)
 - [Internet/game time is more detrimental to mathematics, English and overall performance than television time, showing heterogeneity by screen exposure type](screen-type-heterogeneity-internet-games-worse.md) — a narrower finding that bears on this claim
+- [School children's screen time is negatively associated with academic performance](screen-time-negatively-associated-academic-performance.md) — a broader claim this one bears on

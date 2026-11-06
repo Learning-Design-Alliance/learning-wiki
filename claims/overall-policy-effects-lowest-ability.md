@@ -57,3 +57,4 @@ Difference-in-difference interrupted time-series (Table 3) comparing affected sc
 - [Reinstating high-stakes testing to measure learning loss narrows the curriculum and does not benefit long-term achievement](high-stakes-testing-narrows-curriculum.md) — related
 - [Enrolling in English I instead of remedial English increased credit earning with no adverse consequences, but few other benefits](english-enrollment-credit-gains-few-benefits.md) — related
 - [Course dropout was linked to lower SES, lower high school GPA, lower participation in preparatory math courses, and less adaptive initial motivations](course-dropout-correlates-gateway-math.md) — related
+- [The intervention showed a selective protective effect against deterioration of math grades at 1-year follow-up (d = .36), driven by math rather than GPA overall.](explore-your-brain-protective-math-grade-effect.md) — related

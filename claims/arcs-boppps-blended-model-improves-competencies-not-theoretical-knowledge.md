@@ -53,3 +53,4 @@ In the same RCT, independent-samples t-tests compared theoretical knowledge, pra
 - [Blended BOPPPS teaching is associated with higher practical skills scores than LBL](blended-boppps-higher-practice-scores.md) — a broader claim this one bears on
 - [The ARCS + BOPPPS blended learning model significantly enhances student learning motivation across all four ARCS dimensions in Endodontics education](arcs-boppps-blended-model-enhances-learning-motivation.md) — related
 - [BOPPPS-based blended teaching produces significantly higher overall course scores than traditional lecture-based teaching](boppps-higher-overall-course-scores.md) — a broader claim this one bears on
+- [Hybrid BOPPPS group achieved modestly higher formative, final exam and comprehensive scores than the LBL group](boppps-higher-comprehensive-grades-radiology.md) — related

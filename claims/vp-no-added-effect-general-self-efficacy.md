@@ -49,3 +49,4 @@ Adjusted linear mixed-effects model on the General Self-Efficacy Scale in the RC
 - [IVR simulation significantly improves nursing students' self-efficacy but not satisfaction or confidence](ivr-improves-self-efficacy-not-satisfaction-confidence.md) — related
 - [Virtual patient-based learning produces greater learning performance, self-efficacy and communication skills than conventional learning in a quasi-experimental study](vp-social-learning-quasi-experiment-communication.md) — reports the opposite
 - [Self-rated general self-efficacy scores rose modestly from before to after the BOPPPS-PBL course among newly recruited nurses in one uncontrolled pre-post study](boppps-pbl-course-self-efficacy-increase.md) — related
+- [RCDP ACLS simulation with standardized prebriefing and video-based formative feedback produces greater ACLS self-efficacy gains than traditional simulation in nursing students](rcdp-acls-simulation-greater-self-efficacy-gains.md) — related

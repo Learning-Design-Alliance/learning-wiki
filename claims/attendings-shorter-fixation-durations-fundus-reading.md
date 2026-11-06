@@ -50,3 +50,4 @@ Observational eye-tracking study with five participants per experience group (PG
 - [Qualitative heat-map analysis shows junior residents scan sporadically before reaching the pathology while attendings show an initial focus on inflammatory regions followed by systematic peripheral examination](expert-global-focal-gaze-pattern-fundus.md) — related
 - [Average saccade length decreases progressively with ophthalmology experience, with attendings' saccades significantly shorter than PGY2s'](saccade-length-decreases-with-experience.md) — related
 - [Blink rate decreases with ophthalmology experience, though PGY4 residents show a higher blink rate than PGY3s](blink-rate-decreases-with-experience-pgy4-anomaly.md) — related
+- [Higher- and lower-level referees show no significant differences in fixation and saccade measures](no-expertise-differences-referee-gaze-behavior.md) — reports the opposite

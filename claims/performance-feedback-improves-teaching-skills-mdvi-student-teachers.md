@@ -46,3 +46,4 @@ Single-group quasi-experiment with 11 final-year student teachers; Wilcoxon sign
 
 ## Related Claims
 - [AI-peer integrated feedback produces significantly higher posttest affective engagement than conventional peer feedback in EFL writing](ai-peer-feedback-higher-affective-engagement.md) — related
+- [The percentage of students identifying effective resident teaching behaviors rose from 63% (49 of 77) pre-intervention to 96% (53 of 55) post-intervention, with themes of teacher characteristics and teaching strategies across cognitive, affective, and psychomotor domains](effective-teaching-behaviors-identification-rose-63-to-96.md) — a narrower finding that bears on this claim

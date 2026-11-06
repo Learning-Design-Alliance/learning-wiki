@@ -188,6 +188,7 @@ Noticing in a recording, explaining it, the next performance and lasting change 
 - [Combine mentoring, video/audio self-evaluation, and iterative target-setting cycles to change classroom talk](../strategies/mentoring-video-iterative-cycles-classroom-talk.md)
 - [Use video recordings during debriefing to help students identify their own errors and support reflective learning](../strategies/video-assisted-debriefing-error-identification-strategy.md)
 - [Use video-recorded simulation sessions followed by instructor-led structured self-reflection and peer review to enable reflection-on-action](../strategies/video-feedback-structured-reflection-strategy.md)
+- [Use best-practice video review with instructor explanation as formative feedback between simulation runs](../strategies/best-practice-video-formative-feedback-strategy.md)
 
 ## Key Sources
 - Baecher, L., & McCormack, B. (2015). The impact of video review on supervisory conferencing. *Language and Education, 29*(2), 153-167. [https://doi.org/10.1080/09500782.2014.992905](https://doi.org/10.1080/09500782.2014.992905)

@@ -61,3 +61,4 @@ In this single-center RCT, 60 residents were randomized 1:1 after a pre-course t
 - [Learner-reported self-evaluation outcomes favour 3D printing-integrated PBL over lecture-based teaching in 9 of 10 dimensions](3dp-pbl-favours-learner-reported-outcomes-nine-of-ten.md) — related
 - [Experimental-group trainees report higher satisfaction than controls in teaching atmosphere, learning interest, and learning efficiency](digital-cbl-higher-satisfaction-interest-efficiency.md) — related
 - [Students in the 3D-printed PBL group rated all ten self-assessment items higher than the traditional PBL group, including learning interest, efficiency, and confidence in future cleft lip surgery](3d-printed-pbl-questionnaire-all-items-higher.md) — related
+- [Residents in the scaffolded case-based learning group report maximal teaching satisfaction compared with the lecture-based group](scaffolded-cbd-teaching-satisfaction.md) — related

@@ -52,3 +52,4 @@ Quantitative comparison of ELA and math test scores between students on 4dsw and
 - [Four-day school weeks have no detectable effect on high school students' ACT scores](four-day-week-no-effect-act-scores.md) — reports the opposite
 - [Four-day school weeks have no detectable effect on high school attendance](four-day-week-no-effect-attendance.md) — related
 - [Four-day school weeks have no detectable effect on disciplinary incident types other than bullying and fighting](four-day-week-no-effect-other-incident-types.md) — related
+- [Programs that extended the school day or offered unspecified extra support showed significantly lower reading scores than non-participants](extended-schoolday-negative-reading.md) — related

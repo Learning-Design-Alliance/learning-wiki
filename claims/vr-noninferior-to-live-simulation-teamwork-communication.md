@@ -9,7 +9,6 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
-source_checked: 2026-10-31
 sources:
   - id: gonzález-sanz-a-2026
     resource: "https://doi.org/10.2196/87898"
@@ -25,7 +24,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-31 (automated, 1 of 1 entry) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` No statistically significant differences were found between live and VR simulation in teamwork and communication skill development, with VR showing higher follow-up ISVS scores. [→ González-Sanz A 2026](#gonzalez-sanz-a-2026)

@@ -65,6 +65,7 @@ Simulation works because it lets learners practice whole tasks with realistic de
 - [Scenario-based e-learning](../strategies/scenario-based_e-learning.md) — lighter-weight branching simulations
 - [Structured activity design and moderate realism benefit shared VR learning environments](structured-activity-moderate-realism-vr.md)
 - [Use hybrid simulations combining real-world materials with low-cost simulators to enable realistic, interactive scenarios at reduced cost](hybrid-simulation-real-world-materials-low-cost-simulators.md)
+- [Combine low-fidelity theoretical training with high-fidelity real-world application to prepare teams for complex tasks.](combine-low-and-high-fidelity-sbt.md)
 
 ## Related Elements
 - [Practice](../elements/practice.md) — the core activity the simulation hosts

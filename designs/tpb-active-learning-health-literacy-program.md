@@ -41,7 +41,8 @@ A 12-week community health education program for older adults structured by the 
 - [Within Group Gains All Dimensions Intentions Largest](../claims/within-group-gains-all-dimensions-intentions-largest.md) [+M]
 
 ## Related Designs
-- 
+
+- [Seven-session HAPA-based group teaching program for older adults with hypertension](hapa-seven-session-hypertension-teaching-program.md)
 
 ## Examples
 -

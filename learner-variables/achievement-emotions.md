@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 241 claims (164 show a difference, 56 mixed, 21 no difference) · 145 studies (53 associational, 47 causal, 15 review, 11 qualitative, 10 theoretical, 7 design, 2 quant-synthesis), `q1`–`q4` · 36 of 145 report an effect size · 238 claims rest on one study
+> **Evidence** · 242 claims (165 show a difference, 56 mixed, 21 no difference) · 146 studies (53 associational, 47 causal, 15 review, 12 qualitative, 10 theoretical, 7 design, 2 quant-synthesis), `q1`–`q4` · 36 of 146 report an effect size · 239 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -276,6 +276,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Boredom negatively mediates the relationship between teacher caring behavior and English academic performance](../claims/boredom-negative-mediation-tcb-eap.md) [+M] — learners who differ on it differ in outcomes
 - [Positive academic emotions predict performance positively while negative emotions predict it negatively, with hope (β = 0.669) and hopelessness (β = −0.657) leading](../claims/academic-emotions-predict-performance-jiroft.md) [+M] — learners who differ on it differ in outcomes
 - [Self-efficacy, computer anxiety, and enjoyment collectively explained 91% of variance in perceived ease of use, with enjoyment the strongest predictor (β = 0.78)](../claims/enjoyment-strongest-predictor-perceived-ease-of-use.md) [+W] — learners who differ on it differ in outcomes
+- [Nursing students experienced initial confusion followed by progressive exploration and problem-solving in the in-class flipped classroom](../claims/progressive-learning-experience-confusion-to-problem-solving.md) [+W] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

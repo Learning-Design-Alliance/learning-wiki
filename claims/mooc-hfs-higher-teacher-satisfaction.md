@@ -50,3 +50,4 @@ Five-item teacher experience questionnaire (Cronbach's α = 0.91) covering satis
 - [HF simulation shows no significant benefit for satisfaction, confidence, or teamwork behaviors, and no long-term knowledge retention benefit](hf-simulation-null-secondary-outcomes.md) — reports the opposite
 - [The e-learning group reported significantly higher motivation to learn than the lecture-based group](ecme-motivation-higher-than-lecture.md) — related
 - [Students in the blended model reported uniformly high satisfaction across course content, teaching effectiveness, and course application dimensions](high-satisfaction-blended-surgical-model.md) — related
+- [Teacher satisfaction with teaching is significantly higher for the simulation group than the control group on all five measured aspects, though teachers reported implementation difficulties](teacher-satisfaction-higher-with-implementation-difficulties.md) — related

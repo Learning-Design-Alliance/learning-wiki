@@ -52,3 +52,4 @@ Analysis of identical pre- and after-class quizzes for all 178 participants in a
 - [Post-course knowledge quiz scores rose from pre-course to post-course in nuclear medicine residents after a flipped classroom combined with case-based learning, in one uncontrolled pre-post study](flipped-classroom-cbl-improves-nuclear-medicine-resident-quiz-scores.md) — related
 - [Experimental-group quiz scores rose significantly from before to after each PA-PBL session](pa-pbl-quiz-gains-pre-post.md) — related
 - [The periodontal endoscopy-assisted in-person group outperformed the other two groups on operative skill assessment, driven by calculus removal](pe-inperson-higher-skill-calculus-removal.md) — related
+- [IBVR and TBVR show no significant differences in quiz knowledge gain, cognitive load, or most HRV metrics](ibvr-tbvr-no-difference-knowledge-load-hrv.md) — related

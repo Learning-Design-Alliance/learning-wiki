@@ -116,3 +116,4 @@ Post-survey comparisons in RQ3; trust (p = 0.1456) and acceptance (p = 0.2393) a
 - [Participant ratings of perceived difficulty, clarity, and relevance did not differ by item origin, and subjective difficulty ratings tracked objective item difficulty](genai-mcq-participant-ratings-no-difference.md) — related
 - [Students perceived automated note feedback as clearer, more direct, and easier for comparison than model note feedback](automated-feedback-clearer-easier-comparison.md) — related
 - [Students receiving ChatGPT-4o personalized feedback rate it higher than control students rate correct/incorrect feedback on clarity, usefulness, motivation and satisfaction](satisfaction-higher-personalized-feedback.md) — related
+- [Repeated, feedback-guided rehearsal of one validation response improved its clarity and fluency and reduced its experienced difficulty across four attempts in one session](repeated-rehearsal-improves-validation-fluency.md) — related

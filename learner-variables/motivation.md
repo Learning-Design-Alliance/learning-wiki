@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 412 claims (273 show a difference, 96 mixed, 43 no difference) · 294 studies (103 associational, 100 causal, 42 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 7 design), `q1`–`q4` · 80 of 294 report an effect size · 400 claims rest on one study
+> **Evidence** · 417 claims (277 show a difference, 97 mixed, 43 no difference) · 297 studies (104 associational, 102 causal, 42 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 7 design), `q1`–`q4` · 82 of 297 report an effect size · 405 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -462,6 +462,11 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Faculty autonomous motivation positively predicts teacher self-efficacy in Chinese higher education](../claims/autonomous-motivation-predicts-self-efficacy-chinese-faculty.md) [+M] — learners who differ on it differ in outcomes
 - [Intrinsic and extrinsic motivation directly predict university students' self-efficacy, with intrinsic motivation the far stronger predictor](../claims/motivation-predicts-self-efficacy-university-path-model.md) [+M] — learners who differ on it differ in outcomes
 - [Self-regulation is directly predicted by self-efficacy, critical thinking, and intrinsic motivation](../claims/self-regulation-predicted-by-efficacy-thinking-motivation.md) [+M] — learners who differ on it differ in outcomes
+- [Autonomous learning motivation and intrinsic motivation significantly predict English scores](../claims/autonomous-intrinsic-motivation-predict-english-scores.md) [+M] — learners who differ on it differ in outcomes
+- [Between-person baseline levels: autonomous motivation and achievement correlate positively, controlled motivation and achievement weakly negatively](../claims/trait-level-correlations-motivation-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Changes in growth mindset predicted changes in math grades only within the intervention group (r = .171), providing indirect evidence for the mindset mechanism.](../claims/explore-your-brain-mindset-math-change-correlation.md) [~W] — learners who differ on it differ in outcomes
+- [The flipped classroom significantly increased autonomous learning motivation, the largest motivation-factor gain](../claims/flipped-classroom-raises-autonomous-learning-motivation.md) [+M] — measured as an outcome of the instruction studied
+- [The growth mindset intervention increased students' growth mindset endorsement directly after the intervention (d = .38) and at 1-year follow-up (d = .25) versus an active control.](../claims/explore-your-brain-mindset-gains-post-and-followup.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

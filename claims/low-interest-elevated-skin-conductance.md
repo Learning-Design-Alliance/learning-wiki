@@ -51,3 +51,4 @@ Paired comparisons of GSR metrics across high vs low-interest segments in the la
 - [Phasic EDA correlated with achievement (r = .66) in a small classroom physics study](phasic-eda-achievement-correlation.md) — related
 - [Increased physiological arousal and higher physiological synchrony relate to more monitoring with negative valence](arousal-synchrony-negative-valence-monitoring.md) — related
 - [Background construction noise elevates tonic skin conductance, with intermittent noise producing larger responses than continuous noise](noise-tonic-gsr-intermittent-highest.md) — related
+- [Advanced medical students show significantly elevated skin conductance levels during simulated consultations compared to 1st semester students](skin-conductance-elevated-advanced-medical-students.md) — related

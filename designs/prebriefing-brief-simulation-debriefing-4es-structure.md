@@ -47,6 +47,7 @@ Each clinical scenario followed the same three-session structure: pre-briefing (
 - [Scenario-based simulation session structure: briefing, short simulation, and extended video-based debriefing using the GAS technique](briefing-simulation-gas-debriefing-structure.md)
 - [Simulation session structure pairing 20-minute hands-on CBL practice with a 20-minute DwGJ roundtable debriefing](dwgj-cbl-simulation-session-structure.md)
 - [Three-week preclinical simulation lab structured as briefing, recorded practice, and 20-minute debriefing every 40 minutes of practice](preclinical-simulation-lab-structure-maternity.md)
+- [RCDP ACLS simulation program structure: standardized three-stage prebriefing, first simulation, video-based formative feedback with rerun, and structured debriefing](rcdp-acls-simulation-program-structure.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Content analysis of technology support call logs and delivery data from the tria
 - [Reliable Internet access was a larger barrier to remote and hybrid learning than device access, especially in urban areas](internet-access-larger-barrier-than-devices.md) — related
 - [Password-related challenges dominated technology training, driven by required password length and complexity](password-challenges-dominated-training.md) — related
 - [Human technology support reached all mentees and 46.2% of mentors and helped close hemodialysis patients' digital divides in a patient-facing digital intervention](technology-support-closed-hemodialysis-digital-divides.md) — a broader claim this one bears on
+- [Skill-based pharmacy learning (compounding, device counselling, OSCEs) faced validation, access, and transferability challenges when delivered remotely](remote-skill-based-learning-challenges-pharmacy.md) — related

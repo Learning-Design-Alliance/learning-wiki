@@ -55,3 +55,4 @@ Mechanism analysis in the RCT measured satisfaction via a 10-item university eva
 - [Students in the CBL group report higher satisfaction across all evaluated domains than the LBL group](cbl-higher-student-satisfaction.md) — related
 - [Sim + LBL students reported greater satisfaction, perceived learning outcomes, and core-competency gains than LBL students](sim-lbl-greater-satisfaction-engagement-competency.md) — related
 - [PBL-SP teaching improves postclass knowledge retention and learning interest relative to LBL-SP](pbl-sp-higher-knowledge-retention-and-interest.md) — related
+- [Students' self-perceived knowledge acquisition, technical skills development, career interest in anesthesia, and overall rotation satisfaction all rose from pre-test to post-test in one uncontrolled pre-post study (p < 0.001 for all categories)](student-learning-outcomes-career-interest-satisfaction-improved.md) — related

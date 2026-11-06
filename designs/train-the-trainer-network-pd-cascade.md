@@ -41,7 +41,8 @@ A district-scale professional development delivery pattern in which each school 
 - [Cps Ccss M Professional Learning Program](../elements/cps-ccss-m-professional-learning-program.md) [+M]
 
 ## Related Designs
-- 
+
+- [Train-the-trainer model cascading simulation-based obstetric training from master trainers to local facilitators to senior house officers](train-the-trainer-obstetric-simulation-cascade.md)
 
 ## Examples
 -

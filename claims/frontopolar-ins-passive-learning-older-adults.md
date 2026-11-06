@@ -49,3 +49,4 @@ fNIRS hyperscanning of 58 real dyads in Study 1; wavelet transform coherence com
 - [Older learners perform better and show greater prefrontal INS with younger than older instructors (intergenerational advantage)](intergenerational-instruction-advantage-older-learners.md) — related
 - [Older learners with similar performance show similar frontopolar neural response patterns under optimal learning conditions (IS-RSA)](is-rsa-frontopolar-neural-behavioral-alignment.md) — related
 - [Older learners outperform under passive instruction while younger learners outperform under active instruction (learner age × learning approach interaction)](older-adults-passive-beats-active-concept-learning.md) — related
+- [During lecturing in blended teaching, teacher TPJ activity preceded student MFC activity by 8–10 s in time-lagged teacher–student neural synchronization](teacher-student-time-lagged-synchronization-tpj-mfc.md) — related

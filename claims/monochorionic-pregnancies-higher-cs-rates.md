@@ -47,3 +47,4 @@ Retrospective analysis of clinical characteristics and CS rates across 278 twin 
 
 ## Related Claims
 - [Vaginal twin birth rates increased significantly after training interventions, from 9.2% to 40.8% overall](vaginal-twin-birth-rate-increased-after-training-interventions.md) — related
+- [The training program did not change vacuum extraction rates, cesarean section rates, or Weighted Adverse Outcome Scores](no-change-secondary-obstetric-outcomes.md) — related

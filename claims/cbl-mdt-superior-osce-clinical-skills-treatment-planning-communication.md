@@ -69,3 +69,4 @@ OSCE with five blinded stations, three independent assessors per student, in the
 - [Most respondents perceived judging RCT indications in the clinic as more intricate and doctor–patient communication as diverging from academic instruction](clinic-indications-communication-more-intricate.md) — related
 - [Stakeholders preferred integrated case-study teaching of medical conditions over compartmentalised module-by-module content](integrated-case-study-module-design-cep.md) — related
 - [Communication between participants improved markedly in the simulation group](simulation-improved-team-communication.md) — related
+- [Scaffolded case-based learning yields higher clinical reasoning proficiency than lecture-based teaching with the same case at Week 4 in anesthesiology residents](scaffolded-cbd-clinical-reasoning-week4.md) — related

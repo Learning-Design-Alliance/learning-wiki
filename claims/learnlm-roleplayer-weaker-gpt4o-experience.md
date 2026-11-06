@@ -49,3 +49,4 @@ Stage 2 survey data from participants who role-played learners (Figure 6), cover
 - [Role-playing participants prefer LearnLM over GPT-4o but express no substantial preference versus Gemini 1.5 Pro or Claude 3.5 Sonnet](learnlm-roleplayer-preferences-gpt4o-only.md) — possibly the same claim (merge candidate)
 - [Pedagogy experts prefer LearnLM over contemporaneous flagship models across comparative assessment categories](learnlm-expert-preference-over-flagships.md) — related
 - [Perceived warmth and competence of an AI tutor positively predict learners' willingness to use it in the future](warmth-competence-predict-tutor-willingness.md) — related
+- [In the developers' comparison tests, GPT-4 outperformed GPT-3.5 and Gemini in response generation time, role-playing ability, and validity of generated feedback](gpt4-outperformed-gpt35-gemini-vsp-testing.md) — related

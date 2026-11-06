@@ -48,3 +48,5 @@ The review reports, citing Aloia and McTigue (2019), a US college student study 
 - [Challenging study demands combined with resources boost emotional engagement, though interaction effects on cognitive and behavioral engagement were mainly nonsignificant](boost-hypothesis-study-demands-resources.md) — related
 - [Self-regulated learning moderates the cognitive load–critical thinking relationship, buffering the negative effect of load](srl-moderates-cognitive-load-critical-thinking.md) — related
 - [Positive school climate, which principals shape, improves attendance, behavior, graduation, and achievement and buffers poverty effects](positive-school-climate-improves-attendance-achievement.md) — related
+- [Proactive coping moderates (buffers) the negative relationship between perceived stress and psychological well-being](proactive-coping-buffers-stress-wellbeing.md) — related
+- [Perceived stress is negatively related to psychological well-being among Chinese LGBTQ+ college students](perceived-stress-negative-wellbeing-lgbtq-china.md) — related

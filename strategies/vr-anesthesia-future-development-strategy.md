@@ -49,6 +49,7 @@ The review's forward-looking recommendation is that anesthesia simulation progra
 - [Add interactive features — quizzes, gamified modules, and simulated clinical scenarios — to future versions of skills-training software](future-interactive-features-quizzes-gamification-scenarios.md)
 - [Integrate virtual and augmented reality as supplementary tools rather than full replacements for traditional learning methods](integrate-vr-ar-as-supplementary-tools.md)
 - [Develop and validate a reusable, cost-effective, high-fidelity training platform and build homogeneous assessment tools for aneurysm clipping simulation](develop-validated-reusable-cost-effective-aneurysm-training-platform.md)
+- [Develop next-generation virtual communication-training tools that integrate natural language processing, nonverbal cue detection, and conceptual and psychological fidelity](integrate-nlp-and-multifidelity-in-virtual-tools.md)
 
 ## Examples
 -

@@ -47,7 +47,7 @@ sources:
 # Collaborative Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 103 claims (44 for, 53 mixed, 6 against) · 102 studies (29 causal, 16 review, 16 theoretical, 13 quant-synthesis, 12 associational, 11 qualitative, 5 design), `q1`–`q4` · 16 of 102 report an effect size · 97 claims rest on one study
+> **Evidence** · 104 claims (45 for, 53 mixed, 6 against) · 103 studies (30 causal, 16 review, 16 theoretical, 13 quant-synthesis, 12 associational, 11 qualitative, 5 design), `q1`–`q4` · 16 of 103 report an effect size · 98 claims rest on one study
 
 ## Conditional relationship
 
@@ -170,6 +170,7 @@ Claims this page cites that do not change the model above. Each was read against
 - [Collaborative joint reading through a teacher's blog produces significantly larger reading comprehension gains than individual reading of the same stories on paper](../claims/blog-joint-reading-improves-reading-comprehension-gains.md) [+W] — attached 2026-11-02 from Behjat (2013), which proposed "Orient out-of-class reading toward peer interaction and collaboration rather than individualistic self-study"; tests this page's relationship.
 - [TAPPS produced no significant difference in troubleshooting success rate compared with working silently among secondary-level CTE students](../claims/tapps-no-success-rate-difference-secondary-cte.md) [~W] — attached 2026-11-02 from Michael L. Pate (2011), which proposed "Adopt TAPPS at the secondary level for purposes other than raising success rate or reducing completion time"; tests this page's relationship.
 - [Individual and collaborative study modes of learning objects produced no significant pre-post gain differences in three of four learning units](../claims/lo-modes-no-significant-difference-three-of-four-units.md) [~W] — attached 2026-11-02 from Akpinar (2014), which proposed "Design learning objects for use in multiple study modes, individual and collaborative"; tests this page's relationship.
+- [Pair-trained students achieved higher BOSATS scores than solo-trained students after the second, fourth, and fifth MIS RYGB repetitions](../claims/pair-training-higher-bosats-scores.md) [+W] — attached 2026-11-06 from Cizmic Amila et al. (2025), which proposed "Include pair training in simulation-based MIS training curricula because it reaches proficiency with fewer repetitions at equal or lower resource use"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

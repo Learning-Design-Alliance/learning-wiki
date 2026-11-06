@@ -52,3 +52,4 @@ Step 3 of the hierarchical regression in 197 children predicted change in total 
 - [Dosage significantly predicts intervention effects in a linear model (β = 0.03 per hour), but the dosage main effect is no longer significant after controlling for moderators](dosage-slope-nonsignificant-with-moderators.md) — related
 - [Weight gain is associated with better academic performance in children with lower baseline BMI (mean − 1 SD)](weight-gain-underweight-improves-grades.md) — related
 - [Weight loss is associated with better academic performance in children with higher baseline BMI (mean + 1 SD)](weight-loss-overweight-improves-grades.md) — related
+- [School children's screen time is negatively associated with academic performance](screen-time-negatively-associated-academic-performance.md) — reports the opposite

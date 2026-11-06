@@ -47,3 +47,4 @@ Descriptive discussion of practical limitations drawn from cited literature (Gar
 ## Related Claims
 - [Alternating simulation scenarios with bedside teaching lets students practice less harmful examinations on real patients and invasive or rejected items on simulators, ensuring patient safety](alternating-simulation-bedside-patient-safety.md) — related
 - [Bedside teaching is rooted in experiential learning theory and facilitates diverse skill acquisition in clinical contexts](bedside-teaching-rooted-experiential-theory.md) — related
+- [Changes in procedural competency requirements stem from patient safety concerns and work hour limitations, and residents have become less comfortable performing common bedside procedures](procedural-requirement-change-drivers-and-comfort-decline.md) — related

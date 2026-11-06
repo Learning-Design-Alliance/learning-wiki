@@ -51,3 +51,5 @@ Spearman correlation across the full sample (Fig 3 reports n = 62) between STAI 
 - [OSCE results were not related to anxiety levels in either cohort](osce-results-unrelated-to-anxiety.md) — possibly the same claim (merge candidate)
 - [State anxiety scores show no significant relationship with ROM practice skill scores in either video or control group](no-correlation-state-anxiety-rom-skill.md) — related
 - [State anxiety before simulation did not correlate significantly with self-reported simulation effectiveness in fifth-year medical students](no-significant-correlation-stai-simulation-effectiveness.md) — related
+- [Pre-exam anxiety did not correlate with OSCE score, and women reported higher pre-exam anxiety than men](pre-exam-anxiety-no-score-link-gender-difference.md) — possibly the same claim (merge candidate)
+- [Post-exam anxiety is inversely correlated with OSCE score: students with the lowest post-OSCE anxiety achieved better scores](post-exam-anxiety-inversely-correlated-osce-score.md) — related

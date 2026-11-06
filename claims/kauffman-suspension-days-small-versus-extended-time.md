@@ -53,3 +53,4 @@ The evaluation weighed average days suspended against the extra instructional ti
 - [Kauffman students had higher attendance rates than other similar students in Kansas City](kauffman-students-higher-attendance-rates.md) — related
 - [The Kauffman School raised student attendance by approximately 1 percentage point relative to comparison students](kauffman-school-attendance-impact-one-percentage-point.md) — related
 - [Policy decisions such as shortening or extending the school year depend on accurate within-year learning estimates](school-year-policy-depends-on-growth-estimates.md) — related
+- [Programs that extended the school day or offered unspecified extra support showed significantly lower reading scores than non-participants](extended-schoolday-negative-reading.md) — related

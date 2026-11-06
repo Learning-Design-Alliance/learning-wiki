@@ -53,6 +53,7 @@ A 12-week rotation design in which weekly multidisciplinary teaching sessions ar
 - [Fixed disease-module curriculum architecture combining contouring, structured plan review, MDT debriefing and narrative feedback](fixed-disease-module-curriculum-architecture.md)
 - [Multidisciplinary team teaching as a mechanism for communication, clinical reasoning, and collaborative decision-making](mdt-teaching-collaborative-competencies.md)
 - [Small-group simulation with peer-assisted learning for delineation training](small-group-pal-simulation-delineation.md)
+- [Four-week progressive scaffolded case-based curriculum: foundations, planning, simulation, then evaluation](four-week-scaffolded-cbd-curriculum.md)
 
 ## Examples
 -

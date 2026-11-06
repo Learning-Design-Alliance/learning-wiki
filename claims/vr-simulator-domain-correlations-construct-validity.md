@@ -48,3 +48,4 @@ Correlational analysis within the same 31-participant questionnaire validation s
 - [Expert surgeons rated the model highly on face validity, with all items scoring 5.0 except texture (3.70 ± 0.82)](face-validity-expert-ratings-ldsrs-model.md) — related
 - [Post-intervention psychological, cognitive and physiological measures showed uniformly strong positive correlations](post-intervention-measures-correlated-positively.md) — related
 - [The VR TTTS simulator received strong positive validation across five domains, with training effectiveness the highest-endorsed at 87%](vr-ttts-simulator-strong-positive-validation.md) — related
+- [VR simulation is rated highly effective for distinguishing tooth textures and more engaging than manikin training](vr-engagement-tactile-tooth-texture.md) — related

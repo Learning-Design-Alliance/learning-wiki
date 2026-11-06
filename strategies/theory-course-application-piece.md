@@ -44,6 +44,7 @@ Citing Winn (1997), the article states a need for theory courses "to require an 
 
 - [Connect Writing to Real-World Applications](connect_writing_to_real-world_applications.md)
 - [Design educator learning experiences using adult learning theory: connect to prior experience, ensure real-world application, and enable perspective transformation](adult-learning-design-for-educators.md)
+- [Combine low-fidelity theoretical training with high-fidelity real-world application to prepare teams for complex tasks.](combine-low-and-high-fidelity-sbt.md)
 
 ## Examples
 -

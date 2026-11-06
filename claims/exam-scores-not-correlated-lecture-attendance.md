@@ -46,3 +46,4 @@ Spearman correlation among the 51 course completers in the Results section. The 
 
 ## Related Claims
 - [Remote delivery of theoretical orthodontics lectures yields overall examination outcomes equal to in-class delivery among undergraduate dental students](remote-theory-lectures-equal-exam-outcomes-orthodontics.md) — related
+- [The number of face-to-face practical attendances correlates positively with exam points (Spearman r=0.236, p<.001), a small positive correlation](ftf-attendance-correlates-with-exam-points.md) — reports the opposite

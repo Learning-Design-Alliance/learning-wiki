@@ -48,3 +48,4 @@ SEM with bias-corrected bootstrap (5,000 resamples) in the two-arm quasi-experim
 ## Related Claims
 - [Self-directed learning ability and autonomous motivation each significantly and partially mediate the effect of flipped classroom on physical activity.](sdl-and-am-partially-mediate-fc-pa.md) — related
 - [Correlations among T2 variables support the hypothesized ability-motivation-behavior sequence, with SDL ability positively correlated with autonomous motivation and motivation with physical activity.](t2-correlations-support-ability-motivation-behavior-sequence.md) — related
+- [The flipped classroom significantly increased autonomous learning motivation, the largest motivation-factor gain](flipped-classroom-raises-autonomous-learning-motivation.md) — related

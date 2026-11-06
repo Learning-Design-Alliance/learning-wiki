@@ -58,3 +58,4 @@ Survey of all 72 students with a 100% response rate, rated on five-point Likert 
 - [BOPPPS-CBL students rate teaching qualities significantly higher than traditionally taught students](boppps-cbl-higher-teaching-quality-ratings.md) — related
 - [Symptom-focused CBL residents reported significantly higher satisfaction than controls across five competencies including clinical reasoning and documentation quality](limited-mouth-opening-cbl-higher-satisfaction-competencies.md) — related
 - [Clinical pharmacy trainees gave generally positive evaluations of an AI-assisted multi-advisor BOPPPS teaching model](positive-evaluations-ai-boppps-clinical-pharmacy.md) — related
+- [Intern satisfaction with teaching is significantly higher in the simulation group than the control group on all five measured aspects](intern-satisfaction-higher-simulation-group.md) — related

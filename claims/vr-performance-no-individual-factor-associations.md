@@ -49,3 +49,5 @@ Exploratory secondary analysis in the RCT examining whether individual participa
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
 - [Age, gender, previous interest in surgery, and video game exposure were not significantly associated with laparoscopic performance](demographics-not-associated-laparoscopic-performance.md) — related
 - [No significant differences in evaluation were observed by participants' previous VR experience](no-differences-by-prior-vr-experience.md) — related
+- [No significant differences in VR triage timeliness or correctness by age, gender, educational background, or previous VR experience](no-group-differences-vr-triage-outcome.md) — related
+- [Healthcare professionals with prior triage experience triage VR MCI victims faster than those without, with no difference in triage correctness](prior-triage-experience-faster-vr-triage.md) — related

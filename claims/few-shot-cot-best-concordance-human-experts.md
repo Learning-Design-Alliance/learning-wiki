@@ -54,3 +54,4 @@ Concordance with human expert ratings measured with accuracy and Gwet AC1/AC2 ac
 - [Concordance between LLM and human ratings is generally, not uniformly, higher for binary rubric components than for ternary components](higher-concordance-binary-than-ternary-components.md) — related
 - [In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting score at or above zero-shot on every dataset tested, and above it in most comparisons](in-context-examples-improve-bloom-classification.md) — related
 - [In-context learning did not consistently improve LLM annotation reliability over zero-shot prompting for engagement coding](icl-no-better-than-zero-shot-engagement-coding.md) — related
+- [CoT + few-shot prompting delivers high accuracy with minimal computational overhead, offering an efficient alternative to multi-agent frameworks](cot-few-shot-efficient-alternative.md) — related

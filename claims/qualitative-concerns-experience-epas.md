@@ -54,3 +54,4 @@ Qualitative feedback from optional survey comments was analyzed using a coding f
 - [The most frequently reported challenge of virtual simulation teaching is its lack of realism, alongside operational complexity, English-language demands, cultural mismatch, and adverse physical reactions](vs-challenges-realism-and-usability.md) — related
 - [Peer feedback effectiveness may be compromised when task complexity exceeds a threshold, as observed for simple interrupted suturing](peer-feedback-task-complexity-threshold.md) — related
 - [Free-text student feedback on the 2021 OSCE clustered into four themes, including that the longer examination was too tiring and feedback was lacking](2021-osce-free-text-four-themes.md) — related
+- [Patient comments frequently cite communication failures, with inadequate communication appearing in 30% of coded comments](communicator-role-inadequate-communication-frequency.md) — related

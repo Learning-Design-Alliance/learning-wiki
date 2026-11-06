@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 254 claims (135 show a difference, 62 mixed, 57 no difference) · 194 studies (86 associational, 75 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 33 of 194 report an effect size · 253 claims rest on one study
+> **Evidence** · 255 claims (135 show a difference, 62 mixed, 58 no difference) · 195 studies (86 associational, 76 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 33 of 195 report an effect size · 254 claims rest on one study
 
 ## How to read this page
 
@@ -339,6 +339,7 @@ A learner's economic and social position: family income or poverty (often measur
 - [Subdistrict educational poverty has a stronger and statistically significant negative association with secondary achievement than economic poverty in Bangladesh](../claims/educational-poverty-stronger-than-economic-poverty-achievement-bangladesh.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The association between educational poverty and achievement is non-linear, steepening at high poverty levels, while the economic-poverty relationship is linear](../claims/nonlinear-educational-poverty-achievement-association.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [The negative association between local poverty and achievement is steeper for the science stream than for arts/general and business streams](../claims/science-stream-poverty-association-steeper-bangladesh.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The difference between the track effects for high‐SES and low‐SES students is not significant, indicating similarly large detrimental influence of non‐academic tracks for both groups](../claims/no-att-difference-between-ses-groups.md) [-M] — an instructional effect differs by group
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

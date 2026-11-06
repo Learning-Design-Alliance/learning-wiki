@@ -52,3 +52,4 @@ Self-rated 15-item 5-point Likert Satisfaction Evaluation Form completed by the 
 - [The ARCS + BOPPPS blended learning model achieves higher attainment rates for knowledge, skills, and professionalism objectives and greater overall teaching satisfaction](arcs-boppps-blended-model-higher-objective-attainment-and-satisfaction.md) — related
 - [Nursing students reported high satisfaction with community care simulation, with all SDS domain means around 4.5 and support rated lowest](ccs-high-satisfaction-sds-domain-scores.md) — related
 - [Participant satisfaction with the ECAMM-based training was uniformly high, reaching 100% 'very satisfied' for training content and trainer competence with no negative evaluations recorded](high-satisfaction-ecamm-training-program.md) — related
+- [Participants report very high satisfaction with the cadaveric workshop's content, quality, and materials](cadaveric-workshop-high-satisfaction.md) — related

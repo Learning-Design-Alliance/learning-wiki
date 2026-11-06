@@ -50,3 +50,4 @@ Discussion-section observation on provincial regulatory inconsistency, stating t
 - Most included literature on psychotherapy competence in occupational therapy was published after 2000, and half was non-empirical — related
 - [Experienced occupational therapists are more likely to feel competent delivering psychotherapy](experience-linked-ot-psychotherapy-competence-confidence.md) — related
 - [No consistent pathway exists for occupational therapists to attain psychotherapy competence](no-consistent-pathway-ot-psychotherapy-competence.md) — related
+- [In this case, DP supervision of a therapist delivering Behavioral Activation coincided with improved client outcomes, with BDI falling from 31 at intake to 15 at final assessment](dp-supervision-case-bdi-improvement.md) — related

@@ -37,6 +37,7 @@ ECLS-K is a nationally representative longitudinal dataset tracking children fro
 
 - [Dutch COOL triennial cohort study dataset](dutch-cool-triennial-cohort-study-dataset.md)
 - [National Early Intervention Longitudinal Study (NEILS) data set](national-early-intervention-longitudinal-study-neils-data-set.md)
+- [National Educational Panel Study Starting Cohort 2 (Kindergarten, SC2)](national-educational-panel-study-starting-cohort-2-kindergarten-sc2.md)
 
 ## Key Sources
 - Malone, L. M.; West, J.; Denton Flanagan, K.; Park, J. (2006). The Early Reading and Mathematics Achievement of Children Who Repeated Kindergarten or Who Began School a Year Late. Washington, DC: U.S. Department of Education, Institute of Education Sciences, National Center for Education Statistics. https://www.mathematica.org/publications/the-early-reading-and-mathematics-achievement-of-children-who-repeated-kindergarten-or-who-began-school-a-year-late

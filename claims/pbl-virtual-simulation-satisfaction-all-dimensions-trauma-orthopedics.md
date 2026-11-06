@@ -74,3 +74,4 @@ Dimension-level teaching satisfaction results in the same assessor-blinded RCT o
 - [BOPPPS-CBL students self-report significantly greater learning effects across all five measured dimensions](boppps-cbl-higher-learning-effect-self-ratings.md) — related
 - [ChatGPT-guided PBL residents reported higher teaching satisfaction and self-assessed teaching effectiveness than controls](chatgpt-pbl-higher-satisfaction-effectiveness.md) — related
 - [Symptom-focused CBL residents reported significantly higher satisfaction than controls across five competencies including clinical reasoning and documentation quality](limited-mouth-opening-cbl-higher-satisfaction-competencies.md) — related
+- [Experimental-group residents report significantly higher satisfaction than control-group residents across the seven measured teaching dimensions](boppps-flipped-higher-teaching-satisfaction.md) — related

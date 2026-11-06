@@ -63,3 +63,4 @@ The review reports a prospective cross-skill comparison of 60 participants (20 n
 - [Glove-derived force features could not distinguish clinicians by seniority but showed modest ability to classify perceived task difficulty](glove-features-seniority-null-difficulty-classification.md) — reports the opposite
 - [Expert surgeons outperformed novices on all four quantitative measures of the resection task: smaller margin errors, lower carbonization, faster resection, fewer grasps](experts-outperform-novices-four-measures.md) — related
 - [Experts respond faster than novices on clinical decision-making cases](experts-faster-response-times-clinical-cases.md) — related
+- [Positional tracking and force sensing were considered important simulator features](position-and-pressure-sensing-important-features.md) — related
