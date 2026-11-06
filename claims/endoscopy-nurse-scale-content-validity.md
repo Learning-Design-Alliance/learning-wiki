@@ -52,3 +52,4 @@ Content validity assessment via expert ratings of item importance, reported in t
 - [The DKSCQ-N demonstrates strong content validity with a scale-level Content Validity Index of 0.95 following expert review and item refinement.](dkscqn-content-validity-s-cvi-095.md) — related
 - [The final indicator system shows good reliability (ICC = 0.86) and content validity (S-CVI = 0.92; I-CVI 0.85–1.00)](icc-and-cvi-reliability-validity-tb-educator-indicator-system.md) — related
 - [Expert consultation yields high content validity for the scale: item CVI 0.78–1.00 and overall scale CVI 0.91](palliative-communication-scale-cvi-091-content-validity.md) — related
+- [Expert consultation rated the CCDNS-DRN with excellent content validity (I-CVI 0.78–1.0, S-CVI/UA 0.85, S-CVI/Ave 0.98)](ccdns-drn-content-validity-expert-consultation.md) — related

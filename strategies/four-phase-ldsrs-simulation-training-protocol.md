@@ -49,6 +49,7 @@ The article describes a standardized simulation-based training protocol structur
 - [Use asynchronous instructional videos as preparatory scaffolding before simulation-based workshops to enable more efficient use of supervised training time.](asynchronous-videos-as-preparatory-scaffolding.md)
 - [Provide intentional instruction through direct observation, verbalization of maneuvers, preoperative nasal analysis, and structured feedback during rhinoplasty training.](intentional-instruction-rhinoplasty-strategy.md)
 - [Schedule repeated daily VR simulation sessions with formative feedback before a delayed practical test](daily-repeated-vr-practice-then-final-test.md)
+- [Use real-time feedback and repeated practice in preclinical surgical simulation training](real-time-feedback-repeated-practice-surgical-simulation.md)
 
 ## Examples
 -

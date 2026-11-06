@@ -55,3 +55,4 @@ Paired-samples t-tests within each group showed significant pre- to post-test ga
 - [Competency scores rose significantly from 86.14% to 98.16% after SMART VHV Plus Model training, in one uncontrolled pre-post study (Cohen's d = 1.96)](smart-vhv-plus-model-significant-competency-gain.md) — a narrower finding that bears on this claim
 - [Knowledge improved significantly from before to after the intervention in both groups](knowledge-improved-both-groups-lectures.md) — related
 - [Both instructional methods produced statistically significant pre-to-post SCT gains, with a larger effect size for the e-LbC theme](elbc-lecture-both-improved-sct-gains.md) — related
+- [Knowledge scores rose significantly within the live demonstration group from pre- to postdemonstration, with a large effect size](ld-within-group-knowledge-improvement-dental.md) — related

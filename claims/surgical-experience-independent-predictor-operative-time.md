@@ -68,3 +68,4 @@ The authors' discussion notes the logarithmic model left "approximately 75.5% of
 - [Operative time in laparoscopic radical prostatectomy reaches a proficiency plateau after the 61st case in this series](lrp-operative-time-plateau-case-61.md) — related
 - [Lymphadenectomy was associated with a statistically significant increase in console time (estimated difference 18.0 min, 95% CI 6.3–29.6)](lymphadenectomy-increases-console-time.md) — related
 - [Console time decreased substantially with increasing surgical experience, with an estimated reduction of 33.2 min over the first 14 procedures](console-time-decreases-with-experience-versius.md) — related
+- [Operative time is independently associated with obstructive median lobe, number of implants, implant deployment failure, and early case number](pul-operative-time-predictors-multivariate.md) — related

@@ -42,7 +42,8 @@ The article recommends that a working group of GHA and DEGAM reach a nationwide 
 - [Qualification programs for primary care teaching physicians exist at many German sites but are mandatory at fewer sites, and formats and duration vary](../claims/teaching-practice-qualification-programs-coverage-mandatory.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Harmonize VRS training practices and use remote mentoring and multimodal simulation to broaden access](harmonize-vrs-practices-remote-mentoring-strategy.md)
 
 ## Examples
 -

@@ -49,3 +49,5 @@ Self-report satisfaction questionnaire completed by the 60 intervention-group st
 - [Teachers report high satisfaction and willingness to recommend We Have Skills!](whs-high-social-validity-satisfaction.md) — related
 - [Participants were highly satisfied with the workshop and all would recommend it to colleagues](bronchoscopy-workshop-high-satisfaction.md) — related
 - [Over 96% of novice trainees agree simulator training should precede actual surgery for arthroscopy beginners, and over 94% would recommend arthroscopy simulator training to colleagues, with no disagreements in either group](novices-endorse-arthroscopy-simulator-training-before-surgery.md) — related
+- [Most trainees found the automated SHAP-based feedback easy to understand and were satisfied with the assessment, with GOALS scores rated most informative](automated-feedback-acceptability-questionnaire.md) — related
+- [DVRS students rated the simulator as user-friendly, with clear automatic scoring and timely, effective feedback](dvrs-students-rate-usability-and-feedback-positively.md) — related

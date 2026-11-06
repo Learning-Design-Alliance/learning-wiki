@@ -69,3 +69,4 @@ Survey-reported median confidence ratings for specific vaginal surgeries among t
 - [Most residents at a Ghanaian teaching hospital did not reach the region-specific FVS proficiency score of 266, including most experienced residents](fvs-proficiency-score-266-most-residents-below.md) — related
 - [Residents' vaginal surgery experience in the past 12 months was largely limited to obstetric procedures rather than gynecologic ones](ghana-residents-vaginal-experience-largely-obstetric.md) — related
 - [On a baseline vaginal cuff suturing task, experts perform significantly faster and score significantly better than novices](maisurge-baseline-suturing-experts-faster.md) — related
+- [Tele-mentoring programs in Rwanda and Ghana improved cardiac surgery outcomes](tele-mentoring-rwanda-ghana-cardiac-outcomes.md) — related

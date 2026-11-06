@@ -72,3 +72,4 @@ The authors state the study was designed for preliminary insights into feasibili
 - [360° VR videos can serve as an effective self-directed learning tool, with children learning comparably without an instructor](360-vr-self-directed-learning.md) — related
 - [Students report that the VR learning resource helps translate theoretical knowledge into practical skills and increases attention to family-focused care](vr-translation-theory-into-practical-skills.md) — related
 - [Repeated VR practice of therapeutic conversations builds students' confidence and flow in communication](vr-repeated-practice-confidence-flow.md) — related
+- [Five of seven pilot participants found MHW-based TBL more engaging than traditional TBL for learning complex pharmacology concepts](mhw-tbl-more-engaging-than-traditional.md) — related

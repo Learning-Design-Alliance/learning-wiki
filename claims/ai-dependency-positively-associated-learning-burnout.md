@@ -53,3 +53,4 @@ Regression Model 3 in the cross-sectional survey, controlling for academic self-
 - [Both academic self-efficacy and AI self-efficacy are negatively associated with reported AI dependency, supporting a unified compensatory mechanism](self-efficacy-negatively-predicts-ai-dependency.md) — related
 - [At Time 3, profile membership was significantly associated with Japanese learning self-efficacy and learning burnout, with all three profiles differing pairwise](profiles-predict-self-efficacy-and-burnout.md) — related
 - [Learning motivation has a significant negative effect on learning burnout among medical students on the SRT](learning-motivation-negative-burnout-srt.md) — related
+- [Digital hoarding is positively associated with academic burnout in university students](digital-hoarding-positively-related-academic-burnout.md) — related

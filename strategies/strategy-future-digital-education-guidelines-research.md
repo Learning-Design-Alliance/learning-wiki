@@ -48,6 +48,7 @@ The review recommends that future research move beyond passive, low-interactivit
 - [Future psychiatry education technology studies should use active comparators, standardized assessment tools, and long-term follow-up](psychiatry-ed-tech-future-research-strategy.md)
 - [Prioritise longitudinal research and cost analysis when evaluating digital clinical skills modalities](longitudinal-cost-research-digital-clinical-skills.md)
 - [Future research should use standardized validated outcome measures, longitudinal follow-up designs, and methods linking learner gains to patient-relevant outcomes](vp-communication-future-research-validated-longitudinal.md)
+- [Use digital decision-support tools and simulations in future research to improve assessment accuracy and inter-rater agreement](digital-decision-support-and-simulation-future-research.md)
 
 ## Examples
 -

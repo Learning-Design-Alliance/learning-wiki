@@ -46,6 +46,7 @@ The article's future-directions section recommends three advancement pathways, w
 - [Use hybrid architectures in which KG-grounded classifiers handle diagnosis while LLMs provide open-ended scaffolding and dialogue](hybrid-kg-diagnosis-llm-scaffolding-architecture.md)
 - [Frame LLM use in biomedical education around low‐stakes formative tasks with expert‐guided verification and rationale requests](llm-low-stakes-formative-use-expert-verification-strategy.md)
 - [Use AI chatbots as supportive, non-autonomous supplements in dental education and practice, with expert oversight](ai-as-supplementary-non-autonomous-dental-tool.md)
+- [Implement targeted error-mitigation strategies—expert-reviewed benchmark validation, clinician oversight, and continuous updating—when using LLMs in neurosurgical education](llm-error-mitigation-strategies-neurosurgical-education.md)
 
 ## Examples
 -

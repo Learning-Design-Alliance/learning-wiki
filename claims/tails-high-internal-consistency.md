@@ -91,3 +91,4 @@ The article's abstract reports the psychometric outcome across the validation sa
 - [The finalized 72-item scale shows excellent internal consistency and factorability (Cronbach's α = 0.928, KMO = 0.884)](scale-excellent-internal-consistency-0928.md) — related
 - [The adapted MIQ shows excellent internal consistency in this sample (Cronbach's alpha 0.90 at baseline and 0.88 post-workshop)](adapted-miq-internal-consistency-pvc.md) — related
 - [IAFEE-ECS® demonstrated high internal consistency with Cronbach's alpha of 0.993](iafee-ecs-cronbach-alpha-reliability.md) — related
+- [The questionnaire's internal consistency is confirmed with a Cronbach's alpha of 0.84 and PCA reveals two distinct dimensions](questionnaire-reliability-cronbach-alpha-084-two-dimensions.md) — related

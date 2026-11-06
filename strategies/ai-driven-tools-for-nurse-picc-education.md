@@ -50,6 +50,7 @@ In its implications for research, the article states that "Future research shoul
 - [Research should explore simulation's effects across diverse populations including developing countries](strategy-explore-simulation-diverse-populations.md)
 - [Evaluate digital decision-support in novice providers and optimize interface design to minimize cognitive overhead](future-research-novice-providers-interface-optimization.md)
 - [Implement structured AI training programmes and nurse-led AI decision-making to enhance AI competence](structured-ai-training-nurse-led-decision-making.md)
+- [Use digital decision-support tools and simulations in future research to improve assessment accuracy and inter-rater agreement](digital-decision-support-and-simulation-future-research.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ One-way ANOVA and t-tests on MSCS subdimension scores. Table 2 reports η² = 0.
 - [Higher educational qualification and longer nursing experience predict self‐reported skills, but demographic factors do not predict perceived knowledge](qualification-experience-predict-skills-not-knowledge.md) — related
 - [Univariable differences across competency profiles concentrate in career-stage and psychological variables, while sex, education and specialist nurse status show no significant differences](profile-differences-career-stage-psychological-variables.md) — related
 - [Medication safety competence dimension scores differ significantly across the four profiles](dimension-scores-differ-across-four-profiles.md) — related
+- [Nurses' knowledge scores rose from pre-test to post-test after the SDL package, with the largest rise among those with 1–5 years of experience, in one uncontrolled pre-post study](experience-moderates-sdl-ecg-knowledge-gains.md) — related

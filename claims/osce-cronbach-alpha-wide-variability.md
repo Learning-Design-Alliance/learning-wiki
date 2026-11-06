@@ -55,3 +55,4 @@ Descriptive synthesis of all 26 alpha values from 23 studies. The wide range (0.
 - [After excluding one construct-irrelevant metric, the remaining 31 simulator metrics showed acceptable internal consistency (standardized Cronbach's alpha = 0.79)](internal-consistency-alpha-079-31-metrics.md) — related
 - [Overall OSCE internal consistency is acceptable but varies widely across stations](osce-internal-consistency-varies-across-stations.md) — related
 - [OSCE scores across three virtual-patient stations show low reliability (Cronbach's alpha 0.415)](vp-low-reliability-osce.md) — a narrower finding that bears on this claim
+- [Internal reliability (Cronbach's alpha) remained similar across the unmodified 2019 and the modified 2020 and 2021 OSCEs](osce-reliability-stable-across-modified-formats.md) — related

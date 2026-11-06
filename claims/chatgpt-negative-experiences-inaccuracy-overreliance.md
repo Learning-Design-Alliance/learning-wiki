@@ -135,3 +135,5 @@ Participants also reported "the lack of emotional connection and dependence on t
 - [Students’ reflections focused predominantly on challenges and areas for growth rather than perceived competence](reflections-challenges-outweigh-perceived-competence.md) — related
 - [Most students expressed misinformation concerns and lacked confidence in their AI-related skills](students-report-misinformation-concerns-low-ai-confidence.md) — related
 - [DeepSeek-assisted PBL residents report higher trust in course information yet greater concern about inaccurate AI medical advice](deepseek-pbl-trust-paradox-inaccuracy-concern.md) — related
+- [Chatbot explanations achieved acceptable content validity (average CVI ≥0.92) despite occasional hallucinated or fabricated references](chatbot-explanations-acceptable-cvi-despite-hallucinated-references.md) — related
+- [Potential negative consequences of LLM use in nursing education include academic integrity concerns, inaccurate output, bias, and over-reliance](llm-nursing-education-negative-consequences.md) — a broader claim this one bears on

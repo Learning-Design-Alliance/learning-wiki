@@ -49,3 +49,4 @@ The review reports that three studies [16, 25, 28] acknowledged this limitation;
 - [Evidence on obesity simulation suits in healthcare education is limited and heterogeneous, with mixed effects on attitudes and empathy](oss-scoping-review-mixed-evidence.md) — a broader claim this one bears on
 - [Qualitative findings describe increased awareness of physical effort and mobility limitations and emotional responses such as discomfort](oss-qualitative-awareness-physical-emotional.md) — related
 - [No included study reported long-term follow-up, leaving durability of OSS effects unclear](oss-no-long-term-follow-up.md) — related
+- [Simulation is limited in replicating crisis adaptation, anatomical variability, and the psychological pressures of real patient care](simulation-limits-crisis-stress-risk-replication.md) — related

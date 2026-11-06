@@ -70,3 +70,4 @@ Random‐effects proportional meta‐analysis comparing newer LLM models from co
 - [Claude, Copilot, and Gemini showed model-specific topic strengths and weaknesses and lower cross-attempt reliability than GPT-4o](claude-copilot-gemini-topic-strengths-reliability.md) — related
 - [Current LLMs answer USMLE-style anatomy MCQs with an average accuracy of 76.8%, far above GPT-3.5's 44.4% a year earlier and above random guessing](current-llms-anatomy-mcq-76-8-percent-accuracy.md) — a narrower finding that bears on this claim
 - [GPT-4o showed the highest accuracy (92.9%) on anatomy MCQs, followed by Claude, Copilot, and Gemini](gpt-4o-highest-anatomy-mcq-accuracy.md) — related
+- [GPT-4o answered image-based USMLE sample items with 89.5% accuracy versus GPT-4's 73.4%, a numerically higher but not statistically significant difference](gpt4o-89-5-percent-image-usmle-accuracy.md) — related

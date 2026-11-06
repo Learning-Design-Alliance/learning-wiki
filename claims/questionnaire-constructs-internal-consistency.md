@@ -79,3 +79,5 @@ collaboration."
 - [The satisfaction survey showed excellent internal consistency while the competence questionnaire showed borderline reliability](cblc-instrument-reliability-contrast.md) — related
 - [IAFEE-ECS® demonstrated high internal consistency with Cronbach's alpha of 0.993](iafee-ecs-cronbach-alpha-reliability.md) — related
 - [The FVS system showed internal consistency of task scores (Cronbach's α = 0.781) in the Ghanaian setting](fvs-internal-consistency-cronbach-ghana.md) — related
+- [Translated and adapted questionnaires showed good reliability for SRIS, PCS and CS but weak separation of SRQ-L-PJ regulation subscales](questionnaire-psychometrics-german-fyms.md) — related
+- [Questionnaire subscales show high internal consistency with Cronbach's alpha ranging from 0.86 to 0.89](see-questionnaire-subscales-alpha-086-089.md) — related

@@ -102,3 +102,4 @@ Within the same advantages synthesis, the review cites one reviewed study report
 - [Prior research on educational computer games shows mixed effects on cognitive and academic achievement outcomes](mixed-prior-evidence-games-cognitive-gains.md) — related
 - [Augmented reality tabletop exercises enhanced immersion and engagement but showed limited usability](ar-tabletop-exercises-enhanced-engagement-limited-usability.md) — a narrower finding that bears on this claim
 - [Umbrella review by Tene et al. found no significant association between immersive technologies and improvements in medical education and training versus traditional methods](immersive-technologies-no-significant-association-umbrella-review.md) — related
+- [VR/augmented-reality epidural anesthesia localization systems achieve higher positioning success rates than conventional palpation-based localization](vr-epidural-localization-85-percent-success.md) — a narrower finding that bears on this claim

@@ -46,6 +46,7 @@ The review recommends that "simulation facilitators should consider how students
 ## Related Strategies
 
 - [Research should explore simulation's effects across diverse populations including developing countries](strategy-explore-simulation-diverse-populations.md)
+- [Provide targeted language support and debriefing clarification opportunities for CALD students in SBL](language-support-and-debriefing-clarification.md)
 
 ## Examples
 -

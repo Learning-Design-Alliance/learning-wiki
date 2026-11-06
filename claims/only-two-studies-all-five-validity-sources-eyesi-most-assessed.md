@@ -73,3 +73,5 @@ Results-section statement from the review's virtual reality subsection: "the Eye
 - [Of 939 screened studies, only 17 articles validating 29 airway simulators met inclusion criteria, and most studies assessed only one or two validity domains](airway-simulator-validation-sparse-17-studies-29-simulators.md) — related
 - [Simulator penalties decrease with ophthalmic experience, significantly for Run 2 only](helpmesee-msics-penalties-decrease-with-experience.md) — related
 - [A simulation-based FOI test on a portable VR simulator demonstrates strong validity evidence across all five sources in Messick's framework](vr-simulator-foi-test-strong-validity-evidence.md) — related
+- [EyeSi is the most frequently used ophthalmic virtual reality simulator worldwide, followed by HelpMeSee](eyesi-most-used-ophthalmic-vrs-survey.md) — related
+- [HelpMeSee users report longer, more supervised training and higher perceived impact than EyeSi users](hms-users-longer-supervised-training-higher-impact.md) — related

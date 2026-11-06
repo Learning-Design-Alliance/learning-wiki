@@ -52,3 +52,4 @@ Discussion of the final SEM (Model 5, Figure 4) in the 342-adolescent longitudin
 - [Spatial abilities and in-class attention each uniquely predict mathematical competence from 6th to 9th grade, controlling general ability](spatial-and-attention-unique-predictors-math.md) — related
 - [In-class attention and complex spatial ability (MRT) predict seventh-grade mathematics achievement above and beyond prior mathematical knowledge](attention-and-mrt-predict-seventh-grade-math-above-prior-achievement.md) — related
 - [Intelligence and working memory predicted seventh-grade mathematics before prior achievement was controlled, but their direct effects were masked by sixth-grade competence](intelligence-working-memory-masked-by-prior-knowledge.md) — related
+- [Mathematical competence is the main predictor of general medication calculation ability, explaining R² = 0.609 of the final score](mathematical-competence-predicts-medication-calculation.md) — related

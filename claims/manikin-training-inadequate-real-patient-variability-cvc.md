@@ -50,3 +50,4 @@ Interview finding from the qualitative thematic analysis (Subtheme 1a); no effec
 - [Physicians in a six-participant qualitative study reported perceived lack of preparedness before their first patient CVC placement despite prior observation and manikin training](physicians-perceive-cvc-training-insufficient-preparation.md) — related
 - [Physicians called for standardized CVC training protocols across programs and reliable access to high-quality training resources](physicians-call-for-standardized-cvc-protocols-and-resources.md) — related
 - [Participants expressed concern that VR training may limit empathy development and patient-variability feedback](vr-limited-empathy-and-patient-variability-concerns.md) — related
+- [Simulation is limited in replicating crisis adaptation, anatomical variability, and the psychological pressures of real patient care](simulation-limits-crisis-stress-risk-replication.md) — possibly the same claim (merge candidate)

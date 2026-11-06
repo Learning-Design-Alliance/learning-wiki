@@ -50,3 +50,4 @@ Descriptive analysis of the 207-teacher sample found "mastery, relational, and a
 - [The correlation between mastery and relational goals is unusually strong (r = .64) in the Lao sample compared with Western teacher samples](lao-strong-mastery-relational-goal-correlation.md)
 - [Mastery goals are associated with task and recognition practices, with recognition shared by both goal types](lao-mastery-goals-task-recognition-shared.md) — related
 - [Relational goals are associated with recognition, grouping, and classroom mutual respect practices](lao-relational-goals-targets-recognition-grouping-respect.md) — related
+- [Work-avoidance goals are not statistically significantly linked to differences among teachers in the assessed teaching practices](work-avoidance-goals-null-link-practices.md) — related

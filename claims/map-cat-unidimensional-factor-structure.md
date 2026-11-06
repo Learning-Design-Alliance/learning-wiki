@@ -63,3 +63,4 @@ CFA (Proc TCALIS, maximum likelihood) on goal scores from MAP Reading and Mathem
 - [Global-fit evidence does not clearly favor unidimensional over multidimensional academic resilience measurement models, as fit-index pass rates diverge by index](dimensionality-evidence-mixed-resilience-scales.md) — related
 - [Early numeracy shows a two-factor structure (NRS and CS) on the Dutch ENT-3, with the two-factor model outperforming a one-factor model at several time points](two-factor-structure-ent3-nrs-cs.md) — related
 - The five well-being measures form a robust unidimensional structure replicating across both studies — related
+- [Exploratory factor analysis supports the unidimensionality of the simulation-based assessment rubric, with all 14 items loading 0.60–0.81 on a single procedural competence factor](efa-unidimensional-simulation-rubric-procedural-competence.md) — related

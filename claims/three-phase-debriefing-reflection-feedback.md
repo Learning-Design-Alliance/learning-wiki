@@ -68,3 +68,4 @@ Self-reported satisfaction data from the six residents who took part in high-fid
 - [Students viewed the debrief and structured reflection following the group simulation assessment as beneficial to their professional development](debrief-reflection-benefited-professional-development.md) — related
 - [Control-group focus-group participants perceived their structured debriefing as superficial, focused on general overview rather than critical reflection](control-debriefing-perceived-superficial.md) — reports the opposite
 - [Self-operating IVR scenarios offer scalability and resource efficiency, but their rigidity reduces debriefer engagement](self-operating-ivr-scenarios-rigidity-reduces-debriefer-engagement.md) — related
+- [Debriefing and reflection are absent from LTT courses, and participants did not report on these known benefits of simulation training](ltt-debriefing-absent.md) — related

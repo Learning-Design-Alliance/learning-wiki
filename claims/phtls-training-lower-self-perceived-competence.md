@@ -54,3 +54,4 @@ Cross-sectional single-center study using a single dichotomous yes/no self-perce
 - [Trained professionals were more than ten times as likely to meet the PHTLS certification threshold](phtls-certification-pass-rate-difference.md) — reports the opposite
 - [NTS training for emergency department professionals is associated with consistent pre- to post-training improvements in knowledge, teamwork attitudes, and self-confidence (low to moderate certainty).](nts-training-improves-ed-learning-outcomes.md) — reports the opposite
 - [PHTLS training is the strongest independent predictor of passing the knowledge test after adjustment](phtls-training-strongest-predictor-passing.md) — related
+- [Trained prehospital personnel were 3.4 times more likely than controls to reach the competency threshold on a self-report crisis-management questionnaire (OR = 3.40, 95% CI 1.8–6.2)](earthquake-simulation-training-competency-threshold-odds.md) — reports the opposite

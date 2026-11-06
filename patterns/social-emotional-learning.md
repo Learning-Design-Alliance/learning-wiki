@@ -22,7 +22,7 @@ sources:
 # Social Emotional Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 72 claims (47 for, 21 mixed, 4 against) · 74 studies (30 causal, 18 review, 16 quant-synthesis, 4 associational, 4 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 23 of 74 report an effect size · 58 claims rest on one study
+> **Evidence** · 73 claims (48 for, 21 mixed, 4 against) · 75 studies (31 causal, 18 review, 16 quant-synthesis, 4 associational, 4 design, 1 qualitative, 1 theoretical), `q1`–`q4` · 23 of 75 report an effect size · 59 claims rest on one study
 
 ## Description and scope
 
@@ -140,6 +140,7 @@ Claims this page cited before the 2026-10-05 rewrite, or that bear on it, which 
 - [Adding social–emotional and self-regulation training to an intensive summer readiness class yields greater growth in academic achievement than parent training or standard summer programming](../claims/stp-prek-enhanced-academic-growth.md) [+W] — attached 2026-11-03 from Graziano et al. (2016), which proposed "Intensive summer transition programs for children with behavior problems should go beyond behavior modification by targeting socio-emotional and self-regulation skills"; tests this page's relationship.
 - [Classroom climate significantly improved for treatment classrooms and decreased in control classrooms according to both teachers and students.](../claims/rd-program-improved-classroom-climate.md) [+M] — attached 2026-11-03 from Katz et al. (2011), which proposed "Use a multiple intelligences framework to facilitate social and emotional learning and build self and social respect."; tests this page's relationship.
 - [Treatment students significantly increased in prosocial behaviors and social responsibility, and were less excluded by peers, while control students decreased in these behaviors.](../claims/rd-program-improved-prosocial-behavior-and-social-responsibility.md) [+M] — attached 2026-11-03 from Katz et al. (2011), which proposed "Use a multiple intelligences framework to facilitate social and emotional learning and build self and social respect."; tests this page's relationship.
+- [SEE+ training improves 7- to 10-year-olds' performance on socio-emotional emotion recognition and theory of mind tasks relative to active and teaching-as-usual controls](../claims/see-plus-improves-socio-emotional-task-performance.md) [+W] — attached 2026-11-06 from Mayer Sveta et al. (2025), which proposed "Observation-and-inference whole-class SEL activity pattern with four-phase structure"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 
@@ -224,6 +225,7 @@ This pattern is scoped to sustained, explicit teaching and reinforcement of name
 - **Fairfield, Connecticut elementary schools (i3-scale RCT):** A large randomized controlled trial across 24 elementary schools found significant gains in math and reading achievement and improved teacher efficacy in schools implementing RC with fidelity (Ottmar et al., 2017).
 - **Morning Meeting in a 3rd-grade classroom:** 25-minute daily meeting — greeting around the circle, two student shares with peer questions, a quick cooperative game, and preview of the day's learning goals — followed by interactive modeling of the new math-station routine.
 - [Tailor SEL programming to developmental level, from preschool skill practice through adolescent status-and-respect opportunities](../strategies/developmentally-tailored-sel-programs.md)
+- [Embed whole-class computerized SEL activities as a universal, cost-effective supplement to PSHE provision](../strategies/whole-class-computerized-sel-universal-provision.md)
 
 ## Key Sources
 - Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B. (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development, 82*(1), 405–432. [doi:10.1111/j.1467-8624.2010.01564.x](https://doi.org/10.1111/j.1467-8624.2010.01564.x)

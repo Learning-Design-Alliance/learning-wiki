@@ -51,6 +51,7 @@ The article recommends embedding structured non-technical skills training in sim
 - [Integrate EI into health sciences curricula through structured experiential methods such as reflective journaling, simulation, peer mentoring, and structured debriefing](ei-experiential-curriculum-integration-strategy.md)
 - [Integrate VR simulation design with prebriefing, intuitive interfaces, adaptive difficulty, scenario variability, ergonomic hardware, and structured debriefing](vr-design-balance-usability-load-debriefing-strategy.md)
 - [Use weekly scenario simulation with structured debriefing and operational skills training to develop new graduate nurses' competence](weekly-scenario-simulation-debriefing-skills-training-strategy.md)
+- [Integrate immersive non-technical skills and crisis resource management training into neurosurgical simulation programmes](nts-crm-integration-neurosurgical-simulation.md)
 
 ## Examples
 -

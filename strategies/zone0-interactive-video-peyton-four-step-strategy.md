@@ -53,6 +53,8 @@ The article's zone 0 session is an implementable recipe: an approximately 30-min
 
 - [Structure simulation training in four sequential phases: video instruction, expert demonstration, supervised practice, and formative feedback](four-phase-ldsrs-simulation-training-protocol.md)
 - [Structure a simulation-based mastery learning program as sequential steps: video tutorial, MCQ with feedback, supervised practice, then repeated self-directed practice with video-based assessment](sbml-sequential-training-protocol-probing.md)
+- [Non-linear Point-and-Click interaction with optional hand hygiene, Quests, instructional videos, and an end-of-simulation feedback report](nonlinear-point-click-quests-feedback-report-strategy.md)
+- [Two-video-tutorial training session followed by hands-on practice and blinded scored assessment for basic daVinci Xi skills](video-tutorial-plus-practice-davinci-xi-training.md)
 
 ## Examples
 -

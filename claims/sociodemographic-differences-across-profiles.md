@@ -58,3 +58,4 @@ Chi-square and ANOVA comparisons of sociodemographic variables across the four p
 - [Sociodemographic differences in competency were no longer statistically significant after EBP training in one uncontrolled pre-post study](ebp-training-erased-sociodemographic-competency-gaps.md) — related
 - [Competence and error-tendency scores differ by academic achievement, clinical department, self-perceived competence, and confidence in nursing skills](manova-academic-department-self-perceived-differences.md) — related
 - [Age, department satisfaction, and prior encounter with or making of medical errors showed no significant differences in competence or error tendency](no-significant-differences-age-satisfaction-error-experience.md) — reports the opposite
+- [No significant association of regulation type, sex, age, or mentoring style with form completion or competence](no-association-regulation-mentoring-completion-competence.md) — reports the opposite

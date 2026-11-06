@@ -54,3 +54,4 @@ Unconditional two-level HLM models on the full PISA 2018 Chinese sample. The art
 - [Group membership accounts for a substantial portion of variance in collaboration performance satisfaction](group-membership-variance-collaboration-satisfaction.md) — related
 - [Persistence varies both within and between students, warranting multilevel modeling, and level-1 predictors explained 18% of variance](multilevel-structure-of-gameplay-persistence.md) — related
 - [Among Chinese adolescents, higher relative sense of belonging is significantly associated with higher math, reading, and science achievement](relative-belonging-predicts-achievement-chinese-adolescents.md) — related
+- [Hierarchical linear modeling shows 18% of variance in clinical practicum performance is attributable to differences between institutions (ICC = 0.18, p < 0.05)](hlm-institutional-variance-practicum.md) — related

@@ -50,3 +50,7 @@ First LP assessment in the randomized trial (88 students, blinded dual scoring).
 - [No statistically significant difference in procedural performance between VR and slideshow lecture groups](vr-slideshow-similar-procedural-performance-usg-lp.md) — related
 - [The two training modalities show complementary step-level strengths: CT outperforms VRT in preparation, anesthesia administration and procedure completion, while VRT outperforms CT in measuring CSF pressure](step-level-complementary-strengths-vr-vs-ct.md) — related
 - [Students who received VR-supplemented LP training report higher interest in LP and higher training satisfaction than conventionally trained students](vr-training-higher-interest-and-satisfaction.md) — related
+- [AR and haptic feedback simulation training did not significantly improve lumbar puncture success rates compared to traditional bedside teaching](ar-simulation-no-lp-success-rate-improvement.md) — related
+- [Simulation-trained students performed lumbar punctures faster than bedside-trained students, though the difference was not statistically significant](ar-simulation-shorter-procedure-duration.md) — related
+- [Complication rates were low and comparable between simulation-trained and conventionally trained students](lp-complications-comparable-simulation.md) — related
+- [Simulator-trained students felt significantly more comfortable and confident about their subsequent lumbar punctures](simulator-training-confidence-next-lp.md) — related

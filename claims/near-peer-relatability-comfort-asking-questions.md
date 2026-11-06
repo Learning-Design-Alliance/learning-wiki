@@ -52,3 +52,4 @@ Qualitative interview finding from the sense-of-community theme. Participants de
 - [Near-peer-led and instructor-led documentation workshops produced equivalent H&P and OSCE HPI scores](near-peer-vs-instructor-workshop-equivalent-outcomes.md) — related
 - [Peer-assisted ECE produced higher post-test knowledge and OSPE scores than faculty-assisted ECE in one randomized trial](peer-assisted-ece-higher-post-test-ospe.md) — related
 - [Perceived collaboration among peers positively predicts academic engagement, but competitive climates can undercut collaboration](peer-collaboration-predicts-engagement.md) — related
+- [Learners reported the peer-led session created a question-friendly, low-intimidation environment compared to faculty-led training](peer-led-low-intimidation-environment.md) — possibly the same claim (merge candidate)

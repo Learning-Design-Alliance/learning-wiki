@@ -53,3 +53,4 @@ The review reports, from Sytek et al.'s mixed-methods study assessing orthodonti
 - [VR and conventional teaching produce equivalent short-term learning success in a quasi-randomized field experiment](vr-unit-equivalent-short-term-learning-success.md) — related
 - [Performance differences among formats hold in most courses but not orthodontics](format-performance-differs-by-course.md) — related
 - [3D VR video acclimatisation improves overall robotic simulator performance among novices compared with 2D video](3d-vr-acclimatisation-improves-simulator-performance.md) — related
+- [VR-based and 3D computer-based SimBIE formats produce statistically equivalent TeamSTEPPS performance gains](vr-versus-computer-simbie-equivalent-team-performance.md) — related

@@ -49,6 +49,7 @@ The review recommends methodological improvements for future NTS training evalua
 - [Methodological recommendations for future clinical reasoning education studies: report effect sizes with confidence intervals, control confounders, use ITT analysis, and determine MCID](clinical-reasoning-study-methodology-recommendations.md)
 - [Prioritize rigorous VR training studies with larger samples, validated outcome measures, immersive designs, and LLM integration in mental health education research](future-vr-mental-health-research-recommendations.md)
 - [Adopt better methodologies and validated tools for identifying long-term EBP competency retention and for measuring attitude change](better-methods-for-retention-and-attitude-measurement.md)
+- [Integrate immersive non-technical skills and crisis resource management training into neurosurgical simulation programmes](nts-crm-integration-neurosurgical-simulation.md)
 
 ## Examples
 -

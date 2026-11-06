@@ -70,6 +70,7 @@ Assessment itself is a learning event: retrieving knowledge on an assessment str
 - [Three-point standardized testing schedule for teachers: determine needs at the opening of the term, note progress mid-year, and measure year's gains and vacation losses](three-point-standardized-testing-schedule.md)
 - [Use complementary evaluation with two tools: a teacher-developed educational progress test and a recently standardized measure of educational effects.](complementary-evaluation-two-tools-strategy.md)
 - [Use AI-based assessment periodically for formative feedback while avoiding AI in summative assessment](ai-formative-not-summative-assessment-strategy.md)
+- [Align assessment strategies with each competency area using simulations, projects, and reflective portfolios](quintuple-aim-aligned-assessment-strategies.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the core element this strategy operationalizes at program scale

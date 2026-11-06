@@ -67,3 +67,5 @@ Descriptive direction-of-effect synthesis across haptic simulator RCTs; the revi
 - [Haptic VR training produces no significant difference in implant depth error compared to traditional mentor teaching in novice medical students](haptic-vr-hip-arthroplasty-iderror-null.md) — reports the opposite
 - [Progression-focused simulation curricula (FRS, SIMULATE) yield superior outcomes compared to traditional training methods](frs-simulate-progression-curricula-superior-outcomes.md) — related
 - [Randomized controlled trials show automated real-time and AI-based feedback improves surgical skill acquisition, particularly for under-performers](automated-feedback-rct-improves-surgical-skills.md) — related
+- [Haptic-feedback VR training accelerated learning-curve plateau achievement in surgical trainees](haptic-vr-learning-plateau.md) — related
+- [VR simulation training reduced learning time and improved procedure accuracy in African and UK studies](vr-training-learning-curve-reductions.md) — related

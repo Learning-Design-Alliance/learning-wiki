@@ -71,3 +71,4 @@ Quasi-experimental comparison within two sections of a junior/senior-level Behav
 - [Seven of nine readiness assurance questions achieved the maximum score during the t-RAT](seven-of-nine-max-t-rat.md) — related
 - [Team-based readiness assurance test scores significantly exceeded individual readiness assurance test scores in an interdisciplinary TBL session](t-rat-exceeds-i-rat-interdisciplinary-tbl.md) — possibly the same claim (merge candidate)
 - [TBL sessions improved knowledge acquisition: tRAT and end-of-session test scores were significantly higher than iRAT scores (p < 0.0001).](tbl-improved-knowledge-acquisition-irat-comparison.md) — possibly the same claim (merge candidate)
+- [The voluntary survey subgroup (n = 25) also showed a significant knowledge gain from IRAT to TRAT (r = .85)](tbl-sbl-clinic-knowledge-gain-subgroup.md) — a narrower finding that bears on this claim

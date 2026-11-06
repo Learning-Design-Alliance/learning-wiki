@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 94 claims (61 for, 31 mixed, 2 against) · 66 studies (31 causal, 14 quant-synthesis, 8 associational, 7 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 15 of 66 report an effect size · 92 claims rest on one study
+> **Evidence** · 96 claims (62 for, 32 mixed, 2 against) · 67 studies (32 causal, 14 quant-synthesis, 8 associational, 7 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 15 of 67 report an effect size · 94 claims rest on one study
 
 ## Description and scope
 
@@ -121,6 +121,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Most undergraduate dental students preferred blended teaching, and a majority reported it reduced their study load](../claims/students-prefer-blended-teaching-orthodontics.md) [+W] — attached 2026-11-05 from Arponen Heidi (2026), which proposed "Use blended teaching for theoretical dental coursework to maintain outcomes while easing student study load and supporting well-being".
 - [Preclass 3D digital simulation before hands-on carving produces significantly higher practical carving test scores than traditional instruction alone in dental morphology courses](../claims/3d-simulation-preclass-improves-carving-test-scores.md) [+M] — attached 2026-11-06 from Hsu Ming-Sung et al. (2025), which proposed "Use a blended learning approach in which preclass digital 3D models precede, but do not replace, hands-on instruction"; tests this page's relationship.
 - [Students rate the digital simulation course positively but remain neutral about it replacing hands-on instruction](../claims/students-positive-but-neutral-on-replacing-hands-on.md) [~W] — attached 2026-11-06 from Hsu Ming-Sung et al. (2025), which proposed "Use a blended learning approach in which preclass digital 3D models precede, but do not replace, hands-on instruction".
+- [No statistically significant difference in overall proportion of correct answers on dental trauma cases between control, webinar-only, and combined webinar-plus-in-person intervention groups of general dentists](../claims/no-significant-overall-difference-dental-trauma-cpd-groups.md) [~W] — attached 2026-11-06 from Cvijic Andjelka et al. (2025), which proposed "Combine educational formats and promote interaction in CPD, because passive webinar-only learning showed limited knowledge effects"; tests this page's relationship.
+- [The combined webinar-plus-in-person group answered significantly better than the control group on complicated crown fracture of the immature tooth and first-aid advice for avulsed teeth](../claims/combined-intervention-better-crown-fracture-avulsion-cases.md) [+W] — attached 2026-11-06 from Cvijic Andjelka et al. (2025), which proposed "Combine educational formats and promote interaction in CPD, because passive webinar-only learning showed limited knowledge effects"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

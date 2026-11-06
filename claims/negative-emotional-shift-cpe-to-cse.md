@@ -51,3 +51,4 @@ Authors' interpretation of the thematic comparison across the two educational st
 - [Joy was the predominant emotion in compulsory primary education PE, linked to diverse content, cooperative games, absence of competitiveness and cathartic release](joy-predominant-cpe-pe.md) — related
 - [Group formation via the captain technique, soccer dominance in free play, content repetition and public anthropometric exposure generated fear, anger, sadness and disgust, especially among girls](gendered-exclusion-practices-pe.md) — related
 - [Surprise is the most frequently shared emotion among learners in synchronous online collaborative English discussion tasks](surprise-most-frequent-shared-emotion-esl-cscl.md) — related
+- [Student teachers experience enjoyment as the predominant emotion during practicum lessons, with intense anxiety in about 14% of lessons](student-teachers-enjoyment-predominant-anxiety-14-percent.md) — related

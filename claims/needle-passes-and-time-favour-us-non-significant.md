@@ -50,3 +50,4 @@ Paired t-tests and Wilcoxon signed-rank sensitivity analyses on needle-pass coun
 - [Ultrasound-guided phase OSCE performance scores and overall ratings were nominally higher than landmark-phase performance among EM residents with paired data](us-guided-osce-nominally-higher-than-landmark.md) — related
 - [Ultrasound guidance improves PVC placement outcomes versus conventional methods primarily in DIVA patients](ultrasound-guidance-improves-pvc-outcomes-diva.md) — related
 - [Patient-reported procedural pain is numerically lower when local anesthesia is used, but the difference is not statistically significant](anesthesia-patient-pain-nonsignificant-trend.md) — related
+- [Simulation-trained students performed lumbar punctures faster than bedside-trained students, though the difference was not statistically significant](ar-simulation-shorter-procedure-duration.md) — related

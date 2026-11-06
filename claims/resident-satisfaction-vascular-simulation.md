@@ -53,3 +53,4 @@ Self-report satisfaction data from the same 39 residents, collected with a valid
 - [Learners report high satisfaction with SDTS video-based feedback and perceived skill improvement](sdts-high-learner-satisfaction.md) — related
 - [Rwandan medical students perceive residents as competent and effective simulation instructors and favor a small team of residents with faculty](students-perceive-residents-effective-simulation-instructors.md) — related
 - [Participants reported high satisfaction with the progressive laparoscopic program, with 80% strongly agreeing it stimulated learning interest and 64% stating it exceeded expectations](laparoscopic-program-high-satisfaction-interest.md) — related
+- [Students and faculty reported favorable perceptions of RTS, including ease of use, real-time feedback, and reduced instructor preparation time](rts-favorable-user-perceptions.md) — related

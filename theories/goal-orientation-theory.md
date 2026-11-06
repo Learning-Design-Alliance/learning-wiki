@@ -12,7 +12,7 @@ generated:
 # Goal Orientation Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 60 claims (44 for, 16 mixed) · 31 studies (17 associational, 6 causal, 3 quant-synthesis, 3 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 31 report an effect size · 60 claims rest on one study
+> **Evidence** · 62 claims (45 for, 17 mixed) · 32 studies (18 associational, 6 causal, 3 quant-synthesis, 3 review, 1 qualitative, 1 theoretical), `q1`–`q4` · 6 of 32 report an effect size · 62 claims rest on one study
 
 ## Description
 Goal setting is itself a key motivational process (Locke & Latham, 1984, 2006) — the goals learners choose, and how committed they are to attaining them, shape motivation to learn (Wentzel, 2000). But beyond goal *content* (what a learner wants to achieve), goal orientation theory argues that the *reason* a learner pursues a goal has its own independent effect on learning and performance, explaining differences in how individuals approach and respond to achievement situations (Ames & Archer, 1988; Meece, Anderman, & Anderman, 2006).
@@ -121,6 +121,8 @@ Because mastery-approach goals reliably support the more sustained, thoughtful l
 - [Performance avoidance goals are negatively associated with in-degree but positively associated with out-degree centrality, suggesting ineffective social outreach](../claims/performance-avoidance-goals-ineffective-social-outreach.md) [~W] — attached 2026-11-05 from Hemi et al. (2025), which proposed "2×2 achievement goal framework (mastery/performance × approach/avoidance) as applied to classroom social positioning".
 - [Peer achievement goals, as descriptive norms, remain the single significant classroom-level predictor of changes in individual achievement goals when class-level classroom goal structures are also included](../claims/peer-goals-sole-class-level-predictor-goal-change.md) [~W] — attached 2026-11-05 from Bossert et al. (2025), which proposed "Social norms framework for contextual influences on achievement goals: classroom goal structures as injunctive norms and peer achievement goals as descriptive norms".
 - [Class-level classroom goal structures (injunctive norms) predict changes in individual achievement goals when tested alone, but not when peer achievement goals are included](../claims/class-goal-structures-alone-not-with-peer-goals.md) [~W] — attached 2026-11-05 from Bossert et al. (2025), which proposed "Social norms framework for contextual influences on achievement goals: classroom goal structures as injunctive norms and peer achievement goals as descriptive norms".
+- [Student-oriented mastery goals positively predict teachers' mastery-based teaching practices (interestingness, cognitive stimulation, individualization, collaboration)](../claims/student-oriented-mastery-goals-predict-mastery-practices.md) [+W] — attached 2026-11-06 from Daumiller et al. (2025), which proposed "Student-oriented goals as a cognitive process element linking teacher motivation to instructional behaviour".
+- [Teacher self-efficacy positively predicts student-oriented mastery goals, while personal learning goals do not retain a significant linkage in the multivariate model](../claims/self-efficacy-predicts-student-oriented-mastery-goals.md) [~W] — attached 2026-11-06 from Daumiller et al. (2025), which proposed "Student-oriented goals as a cognitive process element linking teacher motivation to instructional behaviour".
 
 ## The evidence by question
 

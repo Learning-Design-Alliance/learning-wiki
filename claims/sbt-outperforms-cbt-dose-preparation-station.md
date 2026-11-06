@@ -48,3 +48,4 @@ Results of station 2 (dose preparation and Mo-99/Tc-99m generator handling) in a
 - [Authors attribute SBT performance advantages to repeated structured rehearsal in a controlled learning environment](sbt-advantage-attributed-repeated-structured-rehearsal.md) — related
 - [Simulation-trained students showed higher mean scores across all four OSCE stations compared with clinically trained peers](sbt-higher-mean-scores-all-osce-stations.md) — a broader claim this one bears on
 - [Simulation-trained students significantly outperformed clinically trained peers on the dose calibrator use OSCE station](sbt-outperforms-cbt-dose-calibrator-station.md) — related
+- [Prepandemic students significantly outperformed postpandemic students at OSCE station 1, associated by the authors with reduced in-person practical training](station1-osce-decline-postpandemic.md) — related

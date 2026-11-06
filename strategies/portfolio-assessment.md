@@ -72,6 +72,7 @@ Portfolios shift assessment from a summative snapshot toward [Assessment for Lea
 - [Calibration training and moderation to ensure reliable rubric-based portfolio review](calibration-training-moderation-portfolio-review.md)
 - [Use priming tools, examples of practice, and artifacts of practice to support video-based reflection](priming-tools-examples-artifacts-video-reflection.md)
 - [Use formative quizzes, writing portfolios, and peer-feedback rubrics rather than relying only on a final examination](formative-assessment-toolkit-strategy.md)
+- [Align assessment strategies with each competency area using simulations, projects, and reflective portfolios](quintuple-aim-aligned-assessment-strategies.md)
 
 ## Examples
 - **National Board Certification (USA)** — teachers submit portfolio entries with student work samples, video, and written analysis scored against professional standards ([https://www.nbpts.org](https://www.nbpts.org)).

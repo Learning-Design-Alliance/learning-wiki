@@ -62,3 +62,4 @@ Five-point Likert self-ratings (assigned −2 to +2) were collected before and a
 - [Focus group interviews at 1 and 5 months suggest perceived transfer of desaturation management learning to clinical practice, with rising self-rated ability](fgi-perceived-learning-transfer.md) — related
 - [After at least 6 months of navigator participation, students showed statistically significant knowledge improvements across multiple food insecurity domains (p < .001 for each)](flip-significant-knowledge-gains-six-months.md) — related
 - [Participants in a structured clinical gap year program report significant pre-to-post improvement in self-rated confidence across all eight ACGME-aligned competency domains](scgy-significant-competency-confidence-gains.md) — related
+- [Guess rates fell after training and rose again at 3 months, while self-reported confidence improved across groups](guess-rates-confidence-shift-after-elearning.md) — possibly the same claim (merge candidate)

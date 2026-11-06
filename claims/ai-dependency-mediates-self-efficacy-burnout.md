@@ -58,3 +58,5 @@ PROCESS Model 4 mediation with 5,000 bootstrap resamples on the 276-respondent s
 - [Burnout is the strongest predictor of principals' motivation to quit and mediates other predictors](burnout-predicts-motivation-to-quit.md) — related
 - [School burnout negatively predicts autonomous motivation during home-based learning, but does not mediate the mindset-motivation relationship](school-burnout-predicts-lower-autonomous-motivation-no-mediation.md) — related
 - [Learning motivation has a significant negative effect on learning burnout among medical students on the SRT](learning-motivation-negative-burnout-srt.md) — related
+- [Academic burnout is negatively related to both measures of academic performance in university students](academic-burnout-negatively-related-performance.md) — related
+- [Academic burnout fully mediates the relationship between digital hoarding and academic performance, with no direct digital hoarding effect](burnout-fully-mediates-digital-hoarding-performance.md) — related

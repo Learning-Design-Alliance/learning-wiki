@@ -54,3 +54,4 @@ Authors' interpretive finding from the interview data (Theme 3, Recognizing one'
 - [VR simulation training fostered active engagement and a greater sense of preparedness for clinical practice among medical students](vr-training-fostered-engagement-preparedness.md) — possibly the same claim (merge candidate)
 - [Participants described standardized clinical scenarios in VR as promoting objectivity and uniformity in clinical training and assessment](vr-standardized-scenarios-objectivity-uniformity.md) — related
 - [Participants rated the immersive VR hypothermia training very positively, with realism 8.87/10 and usefulness scores above 4.7/5](vr-als-training-positive-perception-ratings.md) — a narrower finding that bears on this claim
+- [Senior residents report engagement with simulation declines unless activities are highly realistic and tailored to advanced learning needs](senior-resident-engagement-declines-without-realism-yield.md) — related

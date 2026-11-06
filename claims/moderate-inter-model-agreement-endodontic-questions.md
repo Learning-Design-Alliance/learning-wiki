@@ -59,3 +59,4 @@ Exploratory agreement analysis based on correctness patterns (not answer-option 
 - [Inter-model agreement on KMLE questions is highest between GPT-4o and Claude 3.5 Sonnet, and incorrect consensus declines from 2022 to 2024](inter-model-agreement-gpt4o-claude-highest.md) — related
 - [ChatGPT-4, Grok XI and Gemini showed strong test-retest consistency (kappa 0.869–0.916), whereas Qwen 2.5 (0.650) and DeepSeek-V3 (0.735) fluctuated more between sessions](llm-test-retest-consistency-dental-mcqs.md) — related
 - [Student-trainer agreement on yes-no communication behaviours is moderate for five items and good for two items](kappa-agreement-dichotomous-communication-items.md) — related
+- [Inter-model consistency declines progressively with question complexity, from substantial agreement on SBA-R (κ > 0.72) to only fair agreement on image questions (ChatGPT-o1pro κ = 0.40)](kappa-consistency-declines-question-complexity.md) — related

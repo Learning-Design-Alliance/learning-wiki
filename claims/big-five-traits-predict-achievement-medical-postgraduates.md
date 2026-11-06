@@ -54,3 +54,4 @@ Regression analyses in the cross-sectional survey (Table 2). All five Big Five t
 - [Openness shows larger correlations with achievement in language than in STEM subject domains, a pattern that holds for both grades and test scores](openness-language-stem-domain-moderation.md) — related
 - [Big Five personality traits show no significant association with dental students' radiographic diagnostic accuracy](personality-traits-no-effect-radiographic-accuracy.md) — related
 - [Agreeableness is the dominant Big Five personality type among Grade 12 Thai EFL students, at 59.7% of respondents](agreeableness-dominant-thai-g12-personality-type.md) — related
+- [VA-MeCo scores show near-zero to low correlations with Big Five personality traits, smaller than typically found for SJTs](va-meco-personality-discriminant-validity.md) — related

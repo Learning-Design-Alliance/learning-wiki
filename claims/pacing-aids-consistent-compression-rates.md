@@ -51,3 +51,4 @@ Narrative synthesis within the cognitive–psychological theme; the review repor
 - [Real-time audio feedback from the CPR Tutor is followed by a short-term decrease in Error Rates across all five target CPR classes within 10 seconds](cpr-tutor-short-term-error-rate-decrease.md) — related
 - [Real-time feedback systems generally improve CPR quality in simulation-based training, particularly compression rate and depth](real-time-feedback-improves-cpr-quality-simulation.md) — related
 - [Non-procedural skills scores during simulated CPR were significantly lower when external stressors were present](external-stressors-lower-nonprocedural-skills-simulated-cpr.md) — related
+- [Repeated mental imagery based on a cognitive aid improves the non-technical skills of novice anesthesia residents in simulated cardiopulmonary resuscitation at 6 months](mental-imagery-cognitive-aid-improves-nontechnical-skills-cpr-simulation.md) — related

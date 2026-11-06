@@ -49,6 +49,7 @@ The article recommends embedding mindfulness into structured ITSs through LLM-dr
 - [Breathing Exercises](breathing_exercises.md)
 - [Incorporate Mindfulness Techniques](incorporate_mindfulness_techniques.md)
 - [Mindfulness Techniques](mindfulness_techniques.md)
+- [Embed whole-class computerized SEL activities as a universal, cost-effective supplement to PSHE provision](whole-class-computerized-sel-universal-provision.md)
 
 ## Examples
 -

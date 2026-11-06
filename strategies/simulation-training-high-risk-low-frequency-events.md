@@ -56,6 +56,7 @@ The article recommends simulation for rare catastrophic events: "For high-risk, 
 - [Train robotic surgery teams regularly by simulating intraoperative emergencies and maintain a dedicated team](ras-team-emergency-simulation-training-strategy.md)
 - [Embed simulation-based scenarios into the curriculum as structured learning modules with guided debriefings and reflective exercises](simulation-modules-debriefing-strategy.md)
 - [Use hybrid simulations combining real-world materials with low-cost simulators to enable realistic, interactive scenarios at reduced cost](hybrid-simulation-real-world-materials-low-cost-simulators.md)
+- [Use crisis management training with simulated earthquake maneuvers to increase prehospital emergency personnel performance](simulated-maneuver-training-strategy-prehospital.md)
 
 ## Examples
 -

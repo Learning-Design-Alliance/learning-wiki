@@ -55,3 +55,4 @@ Province-wide survey screening depression with the Chinese version of the BDI-II
 - [Secondary students in PUSD reported declining rates of chronic sadness/hopelessness and suicidal ideation from 2020/21 to 2022/23](pusd-chks-declining-sadness-suicidal-ideation.md) — related
 - [Distress and depression screening improved detection but did not reliably enhance psychological or medical outcomes when follow-up pathways were absent](screening-without-followup-insufficient.md) — related
 - [Psychological distress, particularly depression, consistently predicted poorer academic outcomes among university students across the reviewed literature](distress-predicts-poorer-academic-outcomes-university-students.md) — related
+- [During the war in Ukraine, the large majority of surveyed university students screened positive for depression, anxiety, sleep problems and PTSD symptoms](ukrainian-wartime-student-mental-health-prevalence.md) — related

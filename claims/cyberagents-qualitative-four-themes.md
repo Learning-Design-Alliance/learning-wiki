@@ -60,3 +60,5 @@ Qualitative thematic analysis of open-ended post-study survey responses from the
 - [Treatment students perceived OAV as useful and effective, with algorithmic thinking the most frequent contribution theme (28%)](oav-perceived-contributions-seven-themes.md) — related
 - [Open-ended student feedback yielded four themes: PBL is acceptable, challenging but beneficial, improves soft skills, and suits only students with basic accounting knowledge](pbl-qualitative-feedback-four-themes.md) — related
 - [Thematic analysis identified exam-aligned structured practice as the core perceived value of AIVP](aivp-thematic-exam-aligned-practice.md) — related
+- [Senior residents report engagement with simulation declines unless activities are highly realistic and tailored to advanced learning needs](senior-resident-engagement-declines-without-realism-yield.md) — related
+- [Participant feedback themes were adaptation to simulation-based learning and recognition of its reflective, skills-based potential](vital-coms-feedback-content-analysis-themes.md) — related

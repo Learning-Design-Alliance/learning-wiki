@@ -50,3 +50,4 @@ Results section, Clip Applying analysis of the prospective randomized study (80 
 - [Spatial visualizers (SPAT) outperformed object visualizers and verbalizers across all laparoscopic training modalities and performance domains](spatial-learners-outperform-other-cognitive-styles.md) — related
 - [Verbal learners improved significantly only in the VR training group, suggesting VR's structured feedback benefits learners with non-spatial cognitive profiles](verbal-learners-improve-only-in-vr-group.md) — related
 - [Simulation-based training translates laparoscopic surgical skills to the operating room](simulation-training-translates-laparoscopic-skills-to-or.md) — a broader claim this one bears on
+- [VR-trained surgical residents outperform non-VR-trained peers in laparoscopic procedures](vr-trained-residents-fewer-errors-laparoscopy.md) — related

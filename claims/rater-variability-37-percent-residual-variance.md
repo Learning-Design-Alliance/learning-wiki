@@ -49,3 +49,4 @@ Rater-clustering analysis in the 92-student VSP study fit a linear mixed-effects
 - [AI-faculty agreement was stronger for information gathering than for communication skills](llm-agreement-stronger-information-gathering-than-communication.md) — related
 - [Grading variability: 40.7% of grade variance lies between teachers and essay quality is the largest random effect](variance-decomposition-teacher-grading.md) — related
 - [Inter-assessor agreement on OSCE scores is substantial, with a pooled intraclass correlation coefficient of 0.77](pt-osce-icc-assessors-substantial.md) — related
+- [Raters using the tool discriminate between facilitation videos depicting positive, mixed and negative influence on learning, with all pairwise mean differences significant at p < 0.001](fbat-discriminates-video-levels.md) — related

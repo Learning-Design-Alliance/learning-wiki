@@ -48,3 +48,4 @@ MI Group	1.21 (0.45–2.88)	0.153"
 ## Related Claims
 - [In a randomized controlled trial, novice surgeons who received a 15-minute guided mental imagery session before VRST scored significantly better on the OSATS subscales Respect for Tissue and Use of the Assistant in a porcine cholecystectomy box-trainer exercise](mental-imagery-improves-osats-tissue-respect-and-assistant-use.md) — related
 - [Mental imagery before VRST did not significantly improve VR simulator performance, except on one LaparoS task where the MI group completed the Hepatocystic Triangle: Variation IV task significantly faster](mental-imagery-no-vrst-improvement-except-one-task.md) — related
+- [Repeated mental imagery based on a cognitive aid improves the non-technical skills of novice anesthesia residents in simulated cardiopulmonary resuscitation at 6 months](mental-imagery-cognitive-aid-improves-nontechnical-skills-cpr-simulation.md) — related

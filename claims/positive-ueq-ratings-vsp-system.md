@@ -50,3 +50,4 @@ A researcher-developed UEQ administered to the intervention group post-intervent
 - [Participants rate SOPHIE's actionable feedback highest among system features, above avatar realism](sophie-actionable-feedback-highest-rated-feature.md) — related
 - [User experience favored attractiveness, stimulation, and novelty, but IPQ involvement was unsatisfactory and realism only satisfactory](ncpr-vr-ueq-ipq-profile.md) — related
 - [Users rated the GenAI simulator positively for future utility, feedback quality and recommendation, while ratings for resemblance to human interaction were moderate](genai-simulator-user-experience-ratings.md) — related
+- [The simulator receives particularly high ratings for visual realism (mean 4.14) and educational interest (mean 4.48)](high-visual-realism-and-educational-interest-ratings.md) — related

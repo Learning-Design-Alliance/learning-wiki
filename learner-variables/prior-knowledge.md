@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 260 claims (150 show a difference, 72 mixed, 38 no difference) · 208 studies (77 causal, 35 associational, 34 review, 24 theoretical, 18 design, 11 quant-synthesis, 9 qualitative), `q1`–`q4` · 34 of 208 report an effect size · 243 claims rest on one study
+> **Evidence** · 261 claims (150 show a difference, 72 mixed, 39 no difference) · 209 studies (78 causal, 35 associational, 34 review, 24 theoretical, 18 design, 11 quant-synthesis, 9 qualitative), `q1`–`q4` · 34 of 209 report an effect size · 244 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -308,6 +308,7 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Expertise reversal effect: benefits of two modalities and worked examples diminish or reverse as learner expertise increases](../claims/expertise-reversal-modality-worked-examples.md) [~M] — an instructional effect differs with it
 - [Novices take significantly longer than experts to complete a total laparoscopic hysterectomy on the MaiSurge model (an 85.3% increase in operating time)](../claims/maisurge-experts-novices-operating-time.md) [+M] — learners who differ on it differ in outcomes
 - [Experts respond faster than novices on clinical decision-making cases](../claims/experts-faster-response-times-clinical-cases.md) [+M] — learners who differ on it differ in outcomes
+- [None of five background predictors (gender, age, years since education, self-assessed knowledge, continuing education) significantly predicted dentists' overall proportion of correct answers](../claims/no-predictor-significant-overall-correct-answers.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

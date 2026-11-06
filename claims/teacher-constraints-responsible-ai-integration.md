@@ -82,3 +82,6 @@ Negative-perceptions sub-theme from thematic analysis of interviews with 10 trai
 - [Teachers' most frequently cited barrier to classroom technology use was lack of access to technology, on both pre- and post-surveys](technology-access-top-barrier-for-teachers.md) — related
 - [Leaders report negative perceptions of technology centring on poor interoperability, data availability problems, and resource limitations](negative-perceptions-interoperability-data-availability.md) — related
 - [Free-text comments raised fairness concerns about pairing with a weaker partner and technical and organizational issues with the digital format](whisper-exam-fairness-and-digital-format-criticisms.md) — related
+- [Six antecedents must precede LLM use in nursing education, including technological infrastructure and AI acceptance](llm-nursing-education-antecedents.md) — related
+- [Potential negative consequences of LLM use in nursing education include academic integrity concerns, inaccurate output, bias, and over-reliance](llm-nursing-education-negative-consequences.md) — related
+- [Provider experience competencies prioritize usability, workflow integration, and strategies to mitigate technology-related burnout](provider-experience-digital-health-competencies.md) — related

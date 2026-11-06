@@ -71,3 +71,4 @@ Focus-group findings (Further development theme, 11 codes). Teachers cited Wi-Fi
 - [Participants raised financial cost of VR headsets as a barrier to sustainable adoption, though not deterring acceptance](vr-financial-burden-sustainability-concern.md) — related
 - [By 2024 more than one-third of simulation sessions used VR and AI tools, and students reported engagement and scenario recall gains of over 30% compared with non-electronic learning](vr-ai-simulation-engagement-recall.md) — related
 - [Students describe HoloPatient simulation positively (concentration, edutainment, practical learning) but report Wi-Fi instability and cybersickness as barriers](holopatient-qualitative-themes-experiences-barriers.md) — related
+- [Virtual escape rooms face challenges of technical malfunction, low survey response rates, missing in-person moderators, and narrow topical focus](virtual-escape-room-challenges.md) — related

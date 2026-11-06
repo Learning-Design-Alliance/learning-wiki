@@ -53,3 +53,4 @@ Two-level random-effects meta-analysis of k = 29 effect sizes (N = 6,779) on the
 - [Teachers' growth mindset is associated with mastery goal structures but not performance goal structures](teacher-growth-mindset-mastery-goal-structures.md) — related
 - [A CCSR research review concludes that four academic mindsets (belonging, growth beliefs, self-efficacy and value) increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — related
 - [Middle school SEL shows normative decline in self-efficacy and self-management but an increase in growth mindset](sel-trajectory-trends-middle-school.md) — related
+- [Teacher self-efficacy is associated with increased mastery-based practices but not significantly linked to performance-based practices](self-efficacy-mastery-not-performance-practices.md) — related

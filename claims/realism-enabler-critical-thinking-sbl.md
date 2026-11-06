@@ -55,3 +55,4 @@ Thematic synthesis (RQ 3) of included studies' reports of enablers and barriers,
 - [Resident qualitative feedback requested additional preparatory materials and raised simulation realism concerns related to mannequin fidelity and cadaver quality](resident-realism-concerns-qualitative.md) — related
 - [Perceived realism and transferability to clinical practice influenced residents' motivation to use VR simulation](realism-transferability-shape-vr-motivation.md) — related
 - [Simulation technologies in nursing SBL are used in 3 ways: to create realistic settings, to modify scenarios, and to monitor simulations.](three-uses-simulation-technology-nursing-sbl.md) — related
+- [Learners experience LTT as highly realistic because of reactive physiology, real bleeding, and actions having consequences with instantaneous feedback](ltt-clinical-realism-reactive-physiology.md) — a narrower finding that bears on this claim

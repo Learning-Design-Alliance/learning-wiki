@@ -15,7 +15,7 @@ grain_size: unit, course
 # Team Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 102 claims (65 for, 33 mixed, 4 against) · 49 studies (17 quant-synthesis, 13 causal, 8 review, 5 design, 4 associational, 2 theoretical), `q1`–`q4` · 14 of 49 report an effect size · 94 claims rest on one study
+> **Evidence** · 104 claims (67 for, 33 mixed, 4 against) · 51 studies (17 quant-synthesis, 14 causal, 8 review, 5 associational, 5 design, 2 theoretical), `q1`–`q4` · 15 of 51 report an effect size · 96 claims rest on one study
 
 ## Description and scope
 
@@ -117,6 +117,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Students reported high satisfaction with the interdisciplinary TBL session](../claims/high-satisfaction-interdisciplinary-tbl.md) [+W] — attached 2026-11-04 from Hassan Ahmed Nour Eldin (2026), which proposed "Integrate interdisciplinary TBL sessions into undergraduate health-related curricula".
 - [Focus groups identified lengthy pre-reading material as the predominant driver of learner dissatisfaction and disengagement with TBL.](../claims/tbl-pre-reading-burden-dissatisfaction.md) [+W] — attached 2026-11-04 from Jabeen Kauser et al. (2026), which proposed "Redesign TBL sessions by shortening pre-reading material, right-sizing teams to 5–7, and strengthening peer assessment to improve acceptability without sacrificing learning gains.".
 - [Students found peer evaluation the most challenging aspect of TBL, citing difficulty of honest review and relationship-dependent fairness.](../claims/tbl-peer-evaluation-challenge.md) [~W] — attached 2026-11-04 from Jabeen Kauser et al. (2026), which proposed "Redesign TBL sessions by shortening pre-reading material, right-sizing teams to 5–7, and strengthening peer assessment to improve acceptability without sacrificing learning gains.".
+- [Final-year SLP students' knowledge of infant feeding observation skills rose significantly from pre-test to post-test after the integrated TBL-SBL clinic, in one group with no comparison group (n = 40)](../claims/tbl-sbl-clinic-knowledge-gain-whole-class.md) [+W] — attached 2026-11-06 from Kwan Connie Ching-Yin et al. (2025), which proposed "Six-step clinic sequence moving from knowledge acquisition to application to reflective consolidation".
+- [Medical students' perception of systematic TBL class management is positively correlated with active class participation](../claims/tbl-systematic-management-correlates-active-participation.md) [+W] — attached 2026-11-06 from Jeong Somi et al. (2025), which proposed "Standardized two-hour TBL session sequence with pre-class preparation, IRAT, GRAT, feedback, mini-lecture, and application activities".
 
 ## Illustrative design instance and observation record
 

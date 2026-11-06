@@ -68,3 +68,4 @@ Barrier sub-theme from the same focus groups; some HoloLens wearers reported cyb
 - [First-year AI simulation deployment faced operational challenges: unstable Wi-Fi disrupted sessions, background noise interfered with speech recognition, and missing dynamic nonverbal cues reduced realism](ai-sim-operational-challenges-uae.md) — related
 - [Nursing students report high learning motivation following HoloPatient-based simulation education (exploratory, one-group post-test)](holopatient-simulation-high-learning-motivation.md) — related
 - [Nursing students report positive learning attitudes following HoloPatient-based simulation education (exploratory, one-group post-test)](holopatient-simulation-positive-learning-attitude.md) — related
+- [Qualitative theme: minor technical issues (echo, login difficulties) reported by two participants formed a distinct barrier theme in the MHW TBL session](mhw-tbl-technical-challenges-theme.md) — related

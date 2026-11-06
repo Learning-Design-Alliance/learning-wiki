@@ -83,6 +83,7 @@ The intervention's delivery strategy is multi-year, job-embedded teacher trainin
 - [Engage in FA development opportunities: peer observation, PLCs, and coaching](fa-development-opportunities.md)
 - [Integrate CT activities into weekly mathematics lessons with teacher workshops and reflective cycles](ct-math-integration-workshop-reflection-strategy.md)
 - [Implement a systematic faculty development program combining interdisciplinary team formation, structured training, peer observation, and weekly collaborative lesson preparation.](pbl-bridge-faculty-development-program.md)
+- [Use the tool predominantly for reflective learning conversations within an intentional programme of peer coaching for simulation faculty development](fbat-reflective-learning-conversations-strategy.md)
 
 ## Examples
 -

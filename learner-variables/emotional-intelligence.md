@@ -13,7 +13,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 100 claims (69 show a difference, 19 mixed, 12 no difference) · 67 studies (24 causal, 15 review, 15 associational, 10 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 17 of 67 report an effect size · 99 claims rest on one study
+> **Evidence** · 101 claims (70 show a difference, 19 mixed, 12 no difference) · 68 studies (25 causal, 15 review, 15 associational, 10 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 17 of 68 report an effect size · 100 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
@@ -136,6 +136,7 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [Emotional, spiritual, and moral intelligence together account for 52.1% of variance in self-directed learning](../claims/three-intelligences-explain-52-percent-sdl-variance.md) [+M] — learners who differ on it differ in outcomes
 - [Self-reported emotion regulation and social adaptability scores rose significantly within all three swimming teaching groups over 16 weeks, with significant time × group interaction effects](../claims/swimming-intervention-omnibus-time-group-interaction.md) [+M] — measured as an outcome of the instruction studied
 - [Study-related stress predicts higher fatigue; study satisfaction and emotional-intelligence components predict lower fatigue](../claims/fatigue-predictors-cross-sectional.md) [+M] — learners who differ on it differ in outcomes
+- [SEE+ training improves 7- to 10-year-olds' performance on socio-emotional emotion recognition and theory of mind tasks relative to active and teaching-as-usual controls](../claims/see-plus-improves-socio-emotional-task-performance.md) [+W] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

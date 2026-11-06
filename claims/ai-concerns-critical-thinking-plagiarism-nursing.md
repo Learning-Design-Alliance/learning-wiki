@@ -100,3 +100,5 @@ Qualitative interview findings from the discussion of concerns; faculty worried 
 - [Intensive use of digital technologies and difficulty concentrating undermine students' reflective capacity needed for soft skills development](technology-distraction-soft-skills-barrier.md) — related
 - [Institutional inequity and data governance gaps may widen existing disparities and compromise privacy without explicit safeguards](ai-formative-assessment-equity-data-governance-risk.md) — related
 - [Most students expressed misinformation concerns and lacked confidence in their AI-related skills](students-report-misinformation-concerns-low-ai-confidence.md) — related
+- [Potential negative consequences of LLM use in nursing education include academic integrity concerns, inaccurate output, bias, and over-reliance](llm-nursing-education-negative-consequences.md) — possibly the same claim (merge candidate)
+- [LLM use in nursing education is associated with enhanced cognitive skills and increased quality and accessibility of education](llm-nursing-education-positive-consequences.md) — reports the opposite

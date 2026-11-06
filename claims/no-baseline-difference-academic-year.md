@@ -47,3 +47,4 @@ Secondary stratified analysis comparing pre-intervention knowledge by month of p
 ## Related Claims
 - [The start of the academic year is not without risk for patient outcomes, with five of 19 studies reporting negative findings around July](july-effect-not-without-risk-five-of-nineteen.md) — related
 - [A single simulation-based intervention with structured debriefing improved immediate adrenal crisis knowledge among pediatric residents](simulation-debriefing-improved-adrenal-crisis-knowledge.md) — related
+- [Experts and residents support early objective simulation-based assessment in years 2-3 as a safeguard and learning accelerator](early-simulation-assessment-years-2-3-support.md) — related

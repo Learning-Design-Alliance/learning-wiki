@@ -21,6 +21,7 @@ A consensus framework defining 32 psychological-foundations, psychiatric-disorde
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Final consensus competency framework in three categories (Tables 2–4)**: The final competency framework comprises 32 consensus competencies across three categories: psychological foundations of serious illness care (Table 2), psychiatric disorders in serious illness (Table 3), and systems-based practice (Table 4). Tables list specific competencies such as recognizing "normative emotional reactions to serious illness", diagnosing and providing first-line management for conditions including major depressive disorder, generalized anxiety disorder, adjustment disorders, delirium, and opioid use disorder, and navigating mental health resources within and outside the interdisciplinary team. Psychological concepts are listed as key terms to direct further learning. (Podgurski L et al. (2025))
+- **Three-category organisation of facilitation competencies applying the Practice Development Triangle framework: techniques, artistry and values**: The competency set underpinning the tool is arranged thematically into three performance categories applying the Practice Development Triangle framework for expert debriefing practice. As the article defines them: "techniques (the practical approach and micro‐skills of facilitation); artistry (the dynamic, creative and individualised nature of facilitation); and values (the fundamental principles that form the foundation of facilitation practice)". These three categories serve as the items for internal consistency scoring. (Mossenson Adam I. et al. (2025))
 
 ### Claims
 
@@ -35,3 +36,4 @@ A consensus framework defining 32 psychological-foundations, psychiatric-disorde
 
 ## Key Sources
 - Podgurski L, Chammas D, Brenner KO, Rosenberg LB, Goyal NG, Lapid MI, Morris SE, Pirl WF, Sumser B, Thompson BW, Wright L, Shalev D. (2025). Primary Mental Health Competencies for Hospice and Palliative Medicine Physicians: A Delphi Study. Journal of Pain and Symptom Management. https://doi.org/10.1016/j.jpainsymman.2025.05.009
+- Mossenson Adam I., Brown Janie A., Tuyishime Eugene, Rubio Martinez Rodrigo, Khalid Karima, Livingston Patricia. (2025). Assessing healthcare simulation facilitation using a competency‐based tool derived from practice in low‐resource settings. Anaesthesia. https://doi.org/10.1111/anae.16621

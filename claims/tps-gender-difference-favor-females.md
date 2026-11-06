@@ -77,3 +77,4 @@ ANCOVA on post-measurement achievement for the same 120-student sample; the arti
 - [No statistically significant post-test gender differences emerged on any psychological variable, with only small tendencies favoring females on some measures](no-posttest-gender-differences-psychological-variables.md) — related
 - [Female students display higher engagement under CCSF instruction than their male counterparts](gender-ccsf-interaction-engagement.md) — related
 - [Male students score higher on average in mathematics achievement than females in both grades in descriptive comparisons](gender-descriptive-achievement-gap-grades-10-11.md) — reports the opposite
+- [Male students show large advantages with live demonstration in knowledge, knowledge gain, and procedural grading, while female students perform equally in both groups; gender-by-group interactions are nonsignificant](male-students-benefit-more-from-live-demonstration.md) — reports the opposite

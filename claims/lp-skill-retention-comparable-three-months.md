@@ -52,3 +52,5 @@ Cross-sectional follow-up comparison among the 42 of 88 participants who returne
 - [Skill retention after FONA training was generally preserved after three months regardless of training model used](fona-skill-retention-preserved-three-months.md) — related
 - [Three-month FONA skill retention after training on a self-made model is non-inferior to training on a high-fidelity simulator in checklist scores](self-made-model-non-inferior-fona-retention.md) — related
 - [No significant performance differences between students trained every 3 months and every 6 months](no-difference-3-versus-6-month-cpr-training.md) — related
+- [AR and haptic feedback simulation training did not significantly improve lumbar puncture success rates compared to traditional bedside teaching](ar-simulation-no-lp-success-rate-improvement.md) — related
+- [Complication rates were low and comparable between simulation-trained and conventionally trained students](lp-complications-comparable-simulation.md) — related

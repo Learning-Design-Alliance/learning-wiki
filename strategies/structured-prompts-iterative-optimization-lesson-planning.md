@@ -39,6 +39,7 @@ The article proposes key methods for AI-assisted lesson planning, highlighting s
 ## Related Strategies
 
 - [Educators gamify learning materials or create learning games using generative AI with iterative, phased prompting](gamifying-learning-materials-with-generative-ai.md)
+- [Use GPT-4o to assist instructors in drafting lesson plans and generating test questions around specific clinical knowledge points, with expert oversight](gpt4o-lesson-plan-and-item-generation-strategy.md)
 
 ## Examples
 -

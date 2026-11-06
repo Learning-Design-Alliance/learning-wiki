@@ -74,3 +74,4 @@ Same study's reliability analysis of aggregated state emotions via ICC(2) (Spear
 - [SEEQ-S class-average ratings show strong aggregation reliability and high internal consistency, with somewhat lower internal consistency for TEEQ-S](seeq-s-class-mean-reliability-iccs-omega.md) — related
 - [30%-40% of true variance in each parent-child outcome was trait-like, while 60%-70% fluctuated situationally across time points](parent-outcomes-icc-trait-state-split.md) — related
 - [Quality of technology integration varies substantially across lessons, with most variance unexplained by teacher traits or time course](tech-integration-quality-varies-across-lessons.md) — a narrower finding that bears on this claim
+- [Student teachers' emotions fluctuate substantially between lessons, with most variance located at the lesson level](between-lesson-fluctuation-emotions-icc.md) — related

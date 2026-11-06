@@ -49,3 +49,4 @@ Randomized experimental study measuring completion time in minutes for 79 studen
 - [Both AI-assisted and conventional training groups showed significant reductions in completion time from pre- to post-test](both-groups-reduced-completion-time-pre-to-post.md) — related
 - [Participants trained with the intelligent AR tutor completed the unassisted physical assembly task significantly faster, with no significant difference in errors](intelligent-ar-faster-unassisted-assembly-no-error-difference.md) — related
 - [Training with the voice-based synthetic assistant caused no statistically significant loss in task execution time and no significant time difference between groups across testing scenarios](vbsa-no-execution-time-loss.md) — related
+- [RTS-trained students completed the RPD drawing test significantly faster than controls, with no significant difference in theoretical test completion time](rts-reduces-drawing-test-time.md) — related

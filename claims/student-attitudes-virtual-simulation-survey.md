@@ -51,3 +51,4 @@ Descriptive results from the attitude items (A1–A5) of the cross-sectional que
 - [Participants reported high satisfaction with simulation sessions but criticized time allocation and group size](simulation-session-satisfaction-time-group-size.md) — related
 - [Most residents believe additional simulated laparoscopic training would positively impact their operative autonomy, yet few practice regularly](residents-believe-simulation-improves-autonomy.md) — related
 - [Participants reported high satisfaction with the progressive laparoscopic program, with 80% strongly agreeing it stimulated learning interest and 64% stating it exceeded expectations](laparoscopic-program-high-satisfaction-interest.md) — related
+- [Most participating clinical educators agree simulation activities should count toward practice education hours, while indicating the bulk of hours should remain in the clinical environment.](sbe-count-toward-clinical-hours.md) — related

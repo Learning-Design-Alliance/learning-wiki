@@ -67,3 +67,5 @@ Quasi-experimental study (N=50) reported in the review found "greater improvemen
 - [SBL enhances clinical skills and confidence in health professions students from CALD backgrounds](sbl-enhances-cald-student-clinical-skills-confidence.md) — related
 - [Linguistic and cultural barriers are the most frequently mentioned challenges CALD students face in SBL](linguistic-cultural-barriers-sbl-cald-students.md) — related
 - [Exclusive use of white manikins heightened CALD students' sense of underrepresentation in SBL](white-manikins-underrepresentation-cald-students.md) — related
+- [CALD occupational therapy students experience both heightened anxiety and personal-professional growth in high-fidelity simulation-based learning](cald-ot-students-fear-and-growth-in-sbl.md) — related
+- [Group composition and educator cultural responsiveness shape CALD students' participation and sense of belonging in SBL](peer-educator-relationships-cald-sbl.md) — related

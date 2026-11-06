@@ -55,3 +55,4 @@ Random-effects meta-analysis of 20 studies of children, adolescents, and youth; 
 - Publication-bias adjustments render the ER difficulties–lack of efficacy and adaptive ER–emotional exhaustion effects non-significant — related
 - [Effect sizes across included studies show high heterogeneity (all I² above 75%)](high-heterogeneity-er-burnout-effects.md) — related
 - [Student burnout is positively associated with dropout intentions, with a pooled meta-analytic correlation of r+ = .46](burnout-dropout-intentions-pooled-r46.md) — related
+- [Digital hoarding is positively associated with academic burnout in university students](digital-hoarding-positively-related-academic-burnout.md) — a narrower finding that bears on this claim

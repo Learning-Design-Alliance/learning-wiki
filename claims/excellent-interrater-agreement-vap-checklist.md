@@ -56,3 +56,4 @@ Reliability analysis of the two-observer scoring in the same quasi-experiment; t
 - [The VAP Prevention Performance Checklist showed acceptable-to-good internal consistency after training but low internal consistency at pretest](vap-checklist-internal-consistency-pre-post.md) — related
 - [Blinded expert raters showed very high agreement when evaluating the LLM-based ACLS simulation scenarios (Kendall W > 0.754)](acls-llm-sim-high-interrater-reliability.md) — related
 - [Two independent observers show high agreement when scoring the ATSHWS (total-score ICC 0.951)](atshws-inter-observer-reliability-icc-0-951.md) — related
+- [Simulation-based assessment scoring shows strong inter-rater reliability (ICC 0.77–0.84) and internal consistency (Cronbach's alpha 0.83) across raters and scenarios](hfscoring-reliability-icc-alpha.md) — related

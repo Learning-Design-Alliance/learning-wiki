@@ -52,3 +52,4 @@ The review reports, citing Bahrami (2022), a cross-sectional study of 400 Irania
 - [Internet addiction shows strong comorbidity with depression, anxiety, and stress among health sciences students](ia-mental-health-comorbidity-strong.md) — related
 - [Reported prevalence of internet addiction among health sciences students varies widely across studies, from 6% to 84%](ia-prevalence-heterogeneity-health-sciences-students.md) — related
 - [Musculoskeletal effects of active desks are mixed, with reduced neck discomfort in some studies and increased neck and shoulder discomfort in others](active-desks-mixed-musculoskeletal-effects.md) — related
+- [About 23% of the sampled students showed a tendency towards study addiction, exceeding international prevalence rates](study-addiction-tendency-prevalence-german-sample.md) — related

@@ -47,3 +47,4 @@ Linear Mixed Model analysis of the intervention group (n = 18), adjusted for edu
 ## Related Claims
 - [Multifaceted EBP interventions combining lectures, computer sessions, small-group discussions, journal clubs, and assignments were more likely to improve knowledge, skills, and attitudes than single interventions or no intervention](multifaceted-ebp-interventions-improve-competence.md) — a broader claim this one bears on
 - [The EBP course significantly improved ACE test scores in the intervention group, with a 10.8% gain](ebp-course-improves-ace-scores.md) — related
+- [A 40-hour EBP training program produces statistically significant posttest improvements in all five HS-EBP competency domains relative to no intervention in hospital nurses](40-hour-ebp-training-improves-all-five-hs-ebp-domains.md) — related

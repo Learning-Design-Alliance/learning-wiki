@@ -49,6 +49,7 @@ The review recommends developing mixed reality environments using hand tracking 
 - [Adopt emerging gesture-capture and telestration technologies to extend embodied anatomical teaching in dental education](telestration-gesture-tech-dental-future-directions.md)
 - [Virtual Reality Immersive Training](virtual-reality-immersive-training.md)
 - [Design virtual simulations with ease-of-use features, haptic technology, moderate immersion, and postscenario feedback](vs-design-features-strategy.md)
+- [Integrate 3D-printed biomimetic phantoms into VR/MR environments to create a 'see–feel–do' training continuum](integrate-3d-printed-phantoms-vr-mr-continuum.md)
 
 ## Examples
 -

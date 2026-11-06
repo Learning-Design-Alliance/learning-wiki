@@ -57,3 +57,4 @@ Moderator analyses tested gender, age, grade level, publication status, publicat
 - [Region, study quality, and interaction domain moderate associations between factors and interactive skills](moderators-region-quality-domain.md) — related
 - [The effect of traditional methods does not differ significantly by learning domain, department, grade, or geographical region](no-moderator-differences-categorical.md) — reports the opposite
 - [Neither geographical location nor assessment timing moderated the comparative effectiveness of GAI-based teaching on knowledge scores](gai-knowledge-no-location-timing-moderation.md) — related
+- [Eastern-region practitioners significantly outperformed western-region practitioners in total score, specimen preparation, and microscopic examination](east-west-regional-competency-gap.md) — related

@@ -55,3 +55,4 @@ Anonymous 16-item satisfaction questionnaire (three-point Likert scale, previous
 - [Student satisfaction with teaching is higher after scenario-based simulation than after video-based training](sbs-higher-student-satisfaction-than-vbt.md) — related
 - [VR-based training yields higher overall training satisfaction than model simulation](vr-training-higher-satisfaction.md) — related
 - [VR training with eye-tracking heatmap feedback yields numerically greater situational awareness gains than mannequin-based training in a pilot RCT under simulated ED interruptions](vr-eye-tracking-feedback-greater-sa-gains-pilot-rct.md) — related
+- [Patients rated the procedure duration perception significantly better with simulator-trained students and tended to feel more at ease](patient-perception-better-simulator-trained-students.md) — related

@@ -50,6 +50,7 @@ To increase the effectiveness of mentorship, the article recommends that mentors
 - [Combined organizational-support, mentorship, simulation-based confidence-building, and workload-management interventions for new emergency and critical care nurses](four-part-support-intervention-new-critical-care-nurses.md)
 - [Build structured feedback mechanisms, explicit team formation and clear workload expectations into active learning environments in public health education](structured-feedback-team-formation-workload-expectations.md)
 - [Program-leader recommendations for strengthening teacher apprenticeship experiences](rtap-program-leader-recommendations.md)
+- [Pair EBP lectures and practice with facilitator mentorship and consultation](facilitator-mentorship-in-ebp-training.md)
 
 ## Examples
 -

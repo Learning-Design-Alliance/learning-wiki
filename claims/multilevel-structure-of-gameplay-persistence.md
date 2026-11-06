@@ -55,3 +55,4 @@ The fully unconditional HLM model on 3,803 observations from 137 students showed
 - [Most variance in teachers' self-efficacy toward individual students occurs within teachers rather than between teachers](tse-variance-within-teachers-dyadic.md) — related
 - [Teacher-level intraclass correlations indicated 11.7% of pre-test and 40.6% of post-test ability variance lay at the teacher level](teacher-level-icc-pre-post-fractions.md) — related
 - [Roughly 45% of variance in Chinese adolescents' achievement lies between schools, supporting multilevel modeling](between-school-variance-achievement-icc-pisa-china.md) — related
+- [Hierarchical linear modeling shows 18% of variance in clinical practicum performance is attributable to differences between institutions (ICC = 0.18, p < 0.05)](hlm-institutional-variance-practicum.md) — related

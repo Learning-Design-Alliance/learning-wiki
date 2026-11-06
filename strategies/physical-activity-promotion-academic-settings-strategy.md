@@ -50,6 +50,7 @@ The article recommends that institutions embed physical movement in academic lif
 - [Incorporate 20+ minutes of daily curricular physical activity breaks tied to academic content in elementary classrooms](daily-curricular-pa-breaks-tied-to-content.md)
 - [Mini Classroom Exercise Breaks](mini_classroom_exercise_breaks.md)
 - [Classroom Physical Activity Integration](classroom-physical-activity-integration.md)
+- [Tailored institutional support for fasting students: flexible schedules, sleep hygiene programs, and fatigue monitoring](ramadan-student-support-flexible-schedules-fatigue-monitoring.md)
 
 ## Examples
 -

@@ -74,3 +74,4 @@ Authors' interpretation in the discussion: the greater involvement of frontal an
 - [Physicists with a Ph.D. are slightly more accurate judging physics statements than biology statements (d = 0.5)](physicists-more-accurate-physics-than-biology-statements.md) — related
 - [Alternative conceptions persist alongside scientific conceptions and resist change even after instruction](alternative-conceptions-persist-coexist.md) — related
 - [Reading supernatural scenarios with unexpected realistic characters activates the left preCG, poCG and IFG more than reading supernatural scenarios with fictional characters](sr-greater-activation-than-sf-sensorimotor-ifg.md) — related
+- [Left MFG functional connectivity to the salience network (ACC and insula) mediates the longitudinal reading–cognitive flexibility associations](left-mfg-salience-connectivity-mediation.md) — related

@@ -45,6 +45,7 @@ The article organizes assessment around a framework in which "multiple forms of 
 ## Examples
 
 - [Combine formative assessment information with MAP Growth scores for instructional decisions](../strategies/combine-formative-assessment-with-map-growth-scores.md)
+- [Align assessment strategies with each competency area using simulations, projects, and reflective portfolios](../strategies/quintuple-aim-aligned-assessment-strategies.md)
 
 ## Key Sources
 - Meyer, J. P., & Dahlin, M. (2022). MAP Growth theory of action. NWEA. https://www.nwea.org/research/publication/map-growth-theory-of-action/

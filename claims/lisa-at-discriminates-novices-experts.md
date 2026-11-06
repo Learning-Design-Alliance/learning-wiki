@@ -48,3 +48,4 @@ Simulation-based comparative study at two Danish hospitals: 23 novices and 10 ex
 ## Related Claims
 - [After reaching the minimum passing score, novices' laryngoscopy skill and laryngoscopy time remain significantly different from experts (36 s vs 20 s, p < 0.001)](lisa-at-laryngoscopy-gap-persists.md) — related
 - [Novices reach the minimum passing LISA-AT score of 39/40 in a median of 6 attempts (range 4–9) within one 90-minute simulation session with per-attempt feedback](lisa-at-mastery-six-attempts.md) — related
+- [Students who passed to the contest's second phase scored markedly higher on general capacity than those who did not (median 8.8 vs 2.3, p < 0.001)](contest-phase-two-score-gap-groups.md) — related

@@ -53,3 +53,4 @@ Randomized controlled study of 20 undergraduate medical students; the SawBone he
 - [Among participants with unsuccessful implant insertions, the VR group stopped the procedure significantly earlier than the control group](haptic-vr-unsuccessful-operative-time-earlier.md) — related
 - [Simulation-based training can significantly shorten learning curves for technical skills compared to traditional clinical training alone](simulation-shortens-learning-curves.md) — related
 - [VR simulation training improves orthopaedic trainees' technical proficiency and shortens operative times](vr-simulation-improves-ortho-technical-proficiency.md) — related
+- [Haptic-feedback VR training accelerated learning-curve plateau achievement in surgical trainees](haptic-vr-learning-plateau.md) — related

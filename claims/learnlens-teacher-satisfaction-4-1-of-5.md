@@ -64,3 +64,5 @@ Questionnaire study with 30 participants, all with prior STEM teaching experienc
 - [Participants rated the VOC training highly on means efficacy, usefulness, and satisfaction, suggesting strong perceived value of the tool.](voc-training-high-means-efficacy-satisfaction.md) — related
 - [Trainees reported high satisfaction with the AI-enabled personalized teaching model](high-satisfaction-ai-personalized-teaching.md) — related
 - [Students rated the virtual simulation system highly across learning effectiveness, usability, instructional value, and satisfaction (means above 4.2/5; Cronbach's α > 0.80)](vs-irrigation-questionnaire-high-acceptability.md) — related
+- [Mean Likert ratings across engagement, collaboration, conceptual understanding, and satisfaction criteria were approximately 4.00 on the 5-point scale](mhw-tbl-mean-likert-4.md) — related
+- [Students and faculty reported favorable perceptions of RTS, including ease of use, real-time feedback, and reduced instructor preparation time](rts-favorable-user-perceptions.md) — related

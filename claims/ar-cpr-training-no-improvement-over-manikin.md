@@ -54,3 +54,4 @@ The review reports, citing Leary et al. (2020), a comparison of an AR CPR traini
 - [Feedback from trained humans was in some settings as effective as mechanical feedback devices for CPR quality](human-feedback-equivalent-to-mechanical-devices.md) — related
 - [Compression depth and ventilated volume declined over twelve months in nursing students without monthly VAM practice, and differed from those who practised monthly](monthly-practice-depth-volume-decline.md) — related
 - [Real-time feedback training does not improve ventilation quality; both groups fail the 500–600 mL tidal volume target](real-time-feedback-no-ventilation-improvement.md) — related
+- [Simulated communication skills training using augmented reality with real-time feedback increases nursing students' eye contact and empathy versus traditional training](ar-communication-training-eye-contact-empathy.md) — related

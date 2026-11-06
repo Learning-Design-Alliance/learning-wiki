@@ -50,3 +50,4 @@ Theme 5 (uniformity) from participant quotes in the results: a dentistry FGD par
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
 - [Qualitative findings indicate SVVR immersion enhanced engagement, concentration, perceived realism, patient assessment, clinical decision-making, and interdisciplinary collaboration](qualitative-immersion-enhanced-engagement-realism.md) — related
 - [Perceived realism and transferability to clinical practice influenced residents' motivation to use VR simulation](realism-transferability-shape-vr-motivation.md) — related
+- [VR training standardises learning experiences by ensuring all learners complete the same scenarios, unlike variable participation in traditional simulation](vr-standardisation-of-scenarios.md) — a broader claim this one bears on

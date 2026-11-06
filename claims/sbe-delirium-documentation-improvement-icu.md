@@ -52,3 +52,4 @@ This was a quality-improvement project using Lean Six Sigma with PDSA cycles in 
 - [No included comparative study assessed patient-based clinical outcomes, patient acceptability of care, or staff resource time](no-patient-outcomes-assessed.md) — related
 - [Positive patient outcomes were reported in 14 of 17 included CPD studies](cpd-positive-outcomes-14-of-17-studies.md) — related
 - [System-level supports such as electronic alerts, EHR templates, and documentation access increase goals-of-care conversation occurrence and documentation](gopc-system-supports-increase-conversations.md) — a narrower finding that bears on this claim
+- [Nursing students' documentation and recording of surgical wound assessment and care rose from pre-test to post-test after clinical simulation, in one uncontrolled pre-post study](simulation-improves-wound-care-documentation.md) — related

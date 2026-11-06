@@ -82,3 +82,4 @@ RQ3 thematic analysis of focus groups reports these output-quality concerns; par
 - [Faculty hold more tempered views of LLMs than students (51% vs 74% positive), centred on clinical reasoning development and content reliability](faculty-student-perception-gap-llms.md) — related
 - [Hallucination, fabrication and reduced explanation accuracy limit ChatGPT's potential as a medical learning tool](hallucination-and-explanation-accuracy-limit-chatgpt-learning-tool.md) — related
 - [Generative AI in board exam prep emerged as a challenge in interviews but was not captured in the survey](generative-ai-emerging-challenge-board-prep.md) — related
+- [Chatbot explanations achieved acceptable content validity (average CVI ≥0.92) despite occasional hallucinated or fabricated references](chatbot-explanations-acceptable-cvi-despite-hallucinated-references.md) — related

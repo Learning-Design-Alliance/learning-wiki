@@ -61,3 +61,4 @@ The review's narrative synthesis of role play studies with medical and nursing s
 - [All 37 respondents affirmed that OSCEai filled a gap in their medical training](osceai-fills-training-gap.md) — related
 - [Stakeholders identified challenges of limited realism, SP recruitment and retention difficulties, scheduling disruptions, and confidentiality breaches in the SP programme](sp-programme-challenges-realism-recruitment.md) — related
 - [Scenario realism and interaction with standardized patients, rather than mannequins, generate immersion and emotional involvement in novice nursing students](sp-realism-drives-immersion-and-involvement.md) — related
+- [Clinical educators propose simulated patients in scenarios informed by real patient experiences as a way to prepare students for complex, unpredictable patient encounters.](sp-scenarios-complex-unpredictable-encounters.md) — related

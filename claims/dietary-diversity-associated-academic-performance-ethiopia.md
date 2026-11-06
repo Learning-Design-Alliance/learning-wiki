@@ -50,3 +50,4 @@ Cross-sectional study using a 24-hour FAO-based dietary diversity recall; multiv
 - [Maternal literacy and education are associated with better academic performance of first-cycle primary school children in North Shoa Zone, Ethiopia](maternal-education-associated-academic-performance-ethiopia.md) — related
 - [In the adjusted model, height-for-age (HAZ) nutritional status did not statistically predict academic performance among urban primary school children in northern Ethiopia](haz-nutritional-status-not-predicting-academic-performance-ethiopia.md) — reports the opposite
 - [Children aged 7–10 years had significantly higher odds of good academic performance than children aged 11–14 years in northern Ethiopian urban primary schools](younger-age-better-academic-performance-ethiopia.md) — related
+- [Later Ramadan breakfast timing is associated with higher odds of high academic performance](later-breakfast-timing-performance-ramadan.md) — related

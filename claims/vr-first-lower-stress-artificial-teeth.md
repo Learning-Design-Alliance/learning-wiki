@@ -50,3 +50,4 @@ Visual analog scale stress ratings at four phases in the randomized two-group st
 - [Students who train on the VR haptic simulator first report higher self-confidence in performing access cavity preparation and managing procedural challenges](vr-first-higher-self-confidence.md) — related
 - [Female students report higher stress than male students during hands-on artificial-tooth training, despite comparable performance](female-higher-stress-hands-on-training.md) — related
 - [VR simulator practice reduces critical errors in cavity preparation more than conventional practice alone](vr-simulator-reduces-critical-errors-dental.md) — related
+- [Self-reported stress before the final simulation was lower in the mental imagery group but not significantly](mental-imagery-lower-stress-vas-not-significant.md) — related

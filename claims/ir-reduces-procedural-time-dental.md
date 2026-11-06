@@ -54,3 +54,4 @@ In the review's synthesis of procedural-time outcomes, Philip et al.'s pilot stu
 - [AR/VR training shows equal or superior outcomes versus conventional training in dental and OMFS education](arvr-noninferior-or-superior-dental-omfs-training.md) — a broader claim this one bears on
 - [Haptic simulator trials more frequently show superior accuracy outcomes when force-feedback and structured guidance are included](haptic-simulator-force-feedback-accuracy-gains.md) — related
 - [No significant differences found between virtual reality training and simulation training in GOALS scores or time to completion](vrt-versus-st-no-significant-difference.md) — related
+- [VR simulation training reduced learning time and improved procedure accuracy in African and UK studies](vr-training-learning-curve-reductions.md) — related

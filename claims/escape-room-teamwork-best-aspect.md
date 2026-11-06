@@ -68,3 +68,4 @@ Thematic analysis of the improvement question in the same 45-response dataset; c
 - [Pilot students requested clearer instructions, more accessible hints, and more mystery in escape room design](escape-room-improvement-suggestions.md) — related
 - [Gamification improves engagement and learning in diabetes education, with strongest results in board and escape games and smaller gains for digital games](gamification-board-escape-games-strongest.md) — a broader claim this one bears on
 - [Students attributed competencies in teamwork, time management, quick thinking, critical thinking, communication, and confidence to team-based gamified quizzing](student-reported-competencies-gamified-quizzing.md) — related
+- [Educational escape rooms are reported to improve critical thinking, clinical reasoning, teamwork, communication, and soft skills in healthcare students](escape-rooms-improve-healthcare-student-outcomes.md) — related

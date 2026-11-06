@@ -53,6 +53,7 @@ This strategy directs educators and policymakers to pair any GenAI assessment de
 - [Operationalize abstract ethical frameworks as concrete LLM agent personas with demographic cues and value prioritizations](ethical-framework-persona-operationalization.md)
 - [Use independent expert physician review as a governance safeguard before deploying LLM-generated questions to learners](expert-physician-review-governance.md)
 - [Stratified human oversight and verification safeguards for clinical LLM deployment, scaled to task risk](stratified-human-oversight-clinical-llm-deployment.md)
+- [Structured frameworks can guide effective and ethical LLM integration in nursing education](frameworks-guiding-llm-integration-nursing-education.md)
 
 ## Examples
 -

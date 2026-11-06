@@ -51,6 +51,9 @@ The article states that the observed decline in knowledge and skills at 3 months
 - [Provide regular refresher sessions and periodic reassessment to sustain caregiver emergency-response skills over time](refresher-sessions-sustain-caregiver-skills.md)
 - [Deliver smartphone-based, scenario-based PFA review modules and peer case-sharing via WeChat to sustain skills after initial training](wechat-microlearning-pfa-booster-strategy.md)
 - [Supplement game-based learning with reinforcement strategies such as periodic refresher sessions and adaptive difficulty to sustain patient safety competency](gbl-reinforcement-refresher-strategy.md)
+- [Schedule periodic refresher modules to maintain point-of-care EEG skills after initial e-learning](periodic-refresher-modules-poceeg-skills.md)
+- [Tailor ECG education by experience level and schedule regular refresher courses](tailor-ecg-education-by-experience-and-refreshers.md)
+- [Use flexible, context-specific BLS training strategies — mobile learning, small-group simulation, train-the-trainer, routine refreshers and remote supervision — in conflict settings](wartime-bls-training-strategies-gaza.md)
 
 ## Examples
 -

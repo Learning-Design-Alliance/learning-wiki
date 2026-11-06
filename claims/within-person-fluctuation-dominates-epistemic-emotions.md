@@ -64,3 +64,6 @@ Descriptive analysis of the 212 session-level emotion ratings; the ICC for curio
 - [ID students' reflective design judgment fluctuates across the design process and often increases as the design progresses, moving from unreflective to reflective judgments](reflective-judgment-fluctuates-increases-over-design.md) — related
 - [Teacher technology-related motivation varies substantially across lessons, with 60-70% of variance attributed to instructional context](teacher-tech-motivation-varies-across-lessons.md) — related
 - [Quality of technology integration varies substantially across lessons, with most variance unexplained by teacher traits or time course](tech-integration-quality-varies-across-lessons.md) — a narrower finding that bears on this claim
+- [Student teachers' emotions fluctuate substantially between lessons, with most variance located at the lesson level](between-lesson-fluctuation-emotions-icc.md) — related
+- [Hierarchical linear modeling shows 18% of variance in clinical practicum performance is attributable to differences between institutions (ICC = 0.18, p < 0.05)](hlm-institutional-variance-practicum.md) — related
+- [Most variance in students' situational motivation lies at the individual ESM-survey level, with only 3.2%–4.3% at the shared learning-situation level](motivation-variance-decomposition-esm-level.md) — related

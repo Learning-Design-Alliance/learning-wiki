@@ -56,3 +56,4 @@ Synthesis of the Time dimension in the scoping review; cited examples include Lo
 - [Stepwise CBME training was associated with significantly shortened learning curves compared to conventional training](stepwise-cbme-shortened-learning-curves.md) — a narrower finding that bears on this claim
 - [The article claims adopting deliberate practice can significantly enhance skill development and accelerate the proficiency timeline in advanced periodontal and implant protocols](deliberate-practice-enhances-skill-development-claim.md) — a narrower finding that bears on this claim
 - [Haptic VR training produces no significant difference in implant depth error compared to traditional mentor teaching in novice medical students](haptic-vr-hip-arthroplasty-iderror-null.md) — related
+- [Haptic-feedback VR training accelerated learning-curve plateau achievement in surgical trainees](haptic-vr-learning-plateau.md) — a narrower finding that bears on this claim

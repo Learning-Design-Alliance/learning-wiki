@@ -50,3 +50,4 @@ Qualitative finding from the Level 2 (Learning) theme of the focus group themati
 - [Pharmacy students perceived broader community impact and role-identity formation from participating in the campaign.](pharmacy-students-perceived-community-impact-role-identity.md) — related
 - [Reviewed peer-tutoring simulation studies mostly reached only Kirkpatrick Level 2, with no assessment of behavior change or clinical-practice results](kirkpatrick-level2-ceiling-peer-tutoring-sbe.md) — related
 - [Bilingual mathematics classes may support acquisition of mathematical knowledge by building technical terms in two language structures](bilingual-math-classes-two-language-term-building.md) — related
+- [Learners perceive the multimodal SimBIE curriculum as positively affecting satisfaction, engagement, knowledge, skills, attitudes, and confidence across Kirkpatrick levels 1-3](simbie-focus-group-kirkpatrick-positive-perceptions.md) — related

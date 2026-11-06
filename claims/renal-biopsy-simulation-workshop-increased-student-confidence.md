@@ -64,3 +64,4 @@ Prospective single-center pre-post educational intervention with 113 fifth-year 
 - [Perceived importance of practical workshops increased after participation, with the proportion giving a maximum score rising from 34.28% to 61.42%](perceived-workshop-importance-increased.md) — related
 - [Simulation training in VR or HFS significantly improves medical interns' self-reported confidence in managing oxygen desaturation](vr-hfs-desaturation-confidence-gain.md) — related
 - [Overall end-of-clerkship performance of fifth-year medical students was significantly higher after simulation-based learning was integrated into the pediatric curriculum](sbl-improves-overall-pediatric-clerkship-performance.md) — related
+- [Participation in a student-led procedure training session significantly increased preclinical medical students' self-reported confidence in performing all four trained procedures](slpts-increases-procedure-confidence.md) — related

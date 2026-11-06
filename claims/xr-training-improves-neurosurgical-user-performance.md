@@ -50,3 +50,4 @@ Narrative synthesis of the review's 31 included studies: eight adopted an 'XR vs
 - [XR technologies improve surgical skills and procedural accuracy while reducing risks and operating room time (performance expectancy)](xr-improves-surgical-skills-accuracy-reduces-or-time.md) — a broader claim this one bears on
 - [Less experienced users benefit more from XR training, though evidence is mixed across longitudinal studies](novices-benefit-more-from-xr-training.md) — related
 - [AR-based remote neurosurgical training system combining cloud computing and AR/VR showed significant skill improvements, with AR outperforming VR in tactile realism and scene authenticity](remote-ar-training-cloud-5g-skill-gains.md) — related
+- [Neurosurgical residents and experts report that simulation-based education improves technical competence and confidence](see-improves-technical-competence-confidence-neurosurgery.md) — related

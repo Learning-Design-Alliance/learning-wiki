@@ -72,3 +72,4 @@ Self-reported learning behavior analysis in the same RCT; the between-group diff
 - [Self-reported disaster nursing competency rose more in a BOPPPS-based blended disaster-nursing elective than with no disaster-nursing instruction, but not significantly more than in the same elective taught by lecture](boppps-blended-teaching-disaster-nursing-competency-gains.md) — related
 - [Blended BOPPPS teaching is associated with higher classroom satisfaction than LBL](blended-boppps-higher-satisfaction.md) — related
 - [AI-supported scenario training improves rehabilitation students' digital competence more than traditional-only training](ai-scenario-training-improves-digital-competence-rehabilitation-students.md) — related
+- [Intervention students rated the blended learning experience less favorably but rated learning-goal clarity, structure, and curricular alignment higher than controls](mixed-course-evaluation-favors-structure-not-format.md) — related

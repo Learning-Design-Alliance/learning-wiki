@@ -49,6 +49,7 @@ The article describes a facilitative rather than directive teacher role in the P
 - [Debriefing](debriefing.md)
 - [After Action Review](after-action-review.md)
 - [Managing a PBL class: heterogeneous small groups, facilitator monitoring, and a closing debriefing to correct misconceptions](pbl-class-management-groups-debriefing.md)
+- [Facilitator roles in educational escape rooms: prebriefing, gamemastering, and debriefing](er-facilitator-three-functions-strategy.md)
 
 ## Examples
 -

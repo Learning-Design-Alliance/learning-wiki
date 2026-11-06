@@ -50,3 +50,5 @@ Chi-square comparison of pass rates on the 50-item PHTLS knowledge test in the c
 - [Knowledge–confidence inverse pattern is strongest among paramedics and non-trained resident physicians](phtls-knowledge-confidence-subgroup-pattern.md) — related
 - [Group-level knowledge scores correlate perfectly and negatively with self-perceived competence across six profession × training strata](knowledge-confidence-spearman-negative-strata.md) — related
 - [PHTLS-trained professionals report lower self-perceived competence than non-trained peers](phtls-training-lower-self-perceived-competence.md) — reports the opposite
+- [Only 14.8% of participants achieved Level 1 certification and 51.9% Level 2, with roughly 30% below proficiency thresholds](certification-level-distribution-hainan.md) — related
+- [Trained prehospital personnel were 3.4 times more likely than controls to reach the competency threshold on a self-report crisis-management questionnaire (OR = 3.40, 95% CI 1.8–6.2)](earthquake-simulation-training-competency-threshold-odds.md) — related

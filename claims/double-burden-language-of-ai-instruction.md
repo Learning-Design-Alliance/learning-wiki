@@ -67,3 +67,4 @@ This article reports, citing Soosai Raj et al. (2018), that bilingual English–
 ## Related Claims
 - [In one participatory budgeting case, Latino immigrant participation lapsed under outreach with interpretation and was sustained only after the activity structure was redesigned](resolving-participation-double-bind-requires-redesigned-activity-structures.md) — related
 - [English learners lag behind their peers in achievement and attainment; limited exposure to academic content is offered as a partial explanation, not tested](el-lag-limited-academic-content-exposure.md) — related
+- [Language barriers impose internal translation, delayed responses and hesitation to speak for CALD students in simulation-based learning](language-barriers-delayed-translation-sbl.md) — related

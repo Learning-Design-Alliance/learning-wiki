@@ -70,3 +70,4 @@ Version comparison between Gemini 2.5 Pro and Gemini 2.5 Flash on the same Engli
 - [Temporal reliability over a 1-week interval varied across LLMs: Claude 4.5 Sonnet showed very good consistency (kappa = 0.872) while Grok-4 and ChatGPT-5 showed moderate agreement](claude-sonnet-superior-temporal-reliability-radiology-questions.md) — related
 - [ChatGPT-5, Gemini 3.0 Pro, and Claude Sonnet 4.5 achieved significantly higher overall scores than mean ophthalmology trainee performance, while ChatGPT-4o did not](three-llms-outperform-mean-trainee-overall.md) — related
 - [All four LLMs show higher accuracy on general than clinical questions, significant only for Grok-4](general-vs-clinical-accuracy-gap.md) — related
+- [ChatGPT-o1pro shows higher response consistency on Turkish questions (κ = 0.836) than English questions (κ = 0.689), while AtlasGPT and ChatGPT-4 remain balanced across languages](language-specific-consistency-turkish-english.md) — related

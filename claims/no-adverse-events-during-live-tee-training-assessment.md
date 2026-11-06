@@ -51,3 +51,4 @@ Safety observation in the same randomized trial during live hands-on training an
 - [Simulation training outperforms apprenticeship on imaging angle, image clarity, and anatomical structure dimensions of live TEE performance](simulation-better-tee-score-dimensions-angle-clarity-structures.md) — related
 - [Simulation-trained residents achieve significantly higher total live pediatric TEE performance scores than apprenticeship-trained residents one week after training](simulation-training-higher-live-tee-total-scores.md) — related
 - [Simulation-trained residents complete the 11-view pediatric TEE protocol significantly faster than apprenticeship-trained residents](simulation-training-shorter-tee-examination-duration.md) — related
+- [Patients rated the procedure duration perception significantly better with simulator-trained students and tended to feel more at ease](patient-perception-better-simulator-trained-students.md) — related

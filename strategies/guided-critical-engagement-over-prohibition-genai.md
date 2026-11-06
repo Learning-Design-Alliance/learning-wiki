@@ -56,6 +56,7 @@ The authors argue that because public sentiment remains positive while structura
 - [Develop student AI literacy and institutional GenAI policies, guidelines and safeguards for responsible integration](genai-literacy-and-institutional-policy-strategy.md)
 - [Incorporate guided AI-based learning activities, structured training on responsible AI use, and institutional guidelines for AI integration](guided-ai-learning-activities-training-guidelines.md)
 - [Integrate structured guidance on responsible, critical AI use alongside self-directed learning approaches](structured-guidance-responsible-critical-ai-use-nursing.md)
+- [Structured frameworks can guide effective and ethical LLM integration in nursing education](frameworks-guiding-llm-integration-nursing-education.md)
 
 ## Examples
 -

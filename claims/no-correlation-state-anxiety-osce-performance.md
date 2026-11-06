@@ -48,3 +48,4 @@ Spearman correlation across the full sample (Fig 3 reports n = 62) between STAI 
 - [Within the intervention group, students who acted as examiners scored significantly higher on the summative OSCE than controls, while examiners and examinees did not differ on anxiety](examiner-role-subgroup-performance-advantage.md) — related
 - [Participation in a peer-led mock OSCE significantly reduced state anxiety during the summative OSCE among fifth-semester medical students](peer-led-mock-osce-reduces-state-anxiety.md) — related
 - [Summative OSCE scores were numerically higher in the peer-led mock OSCE group but did not reach statistical significance](mock-osce-osce-performance-non-significant-trend.md) — related
+- [OSCE results were not related to anxiety levels in either cohort](osce-results-unrelated-to-anxiety.md) — possibly the same claim (merge candidate)

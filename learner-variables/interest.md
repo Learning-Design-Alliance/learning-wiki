@@ -13,7 +13,7 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 264 claims (190 show a difference, 44 mixed, 30 no difference) · 180 studies (80 causal, 47 associational, 22 review, 13 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 48 of 180 report an effect size · 258 claims rest on one study
+> **Evidence** · 268 claims (192 show a difference, 44 mixed, 32 no difference) · 182 studies (80 causal, 49 associational, 22 review, 13 design, 7 quant-synthesis, 6 theoretical, 5 qualitative), `q1`–`q4` · 49 of 182 report an effect size · 262 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
@@ -299,6 +299,10 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Perceived emotional support from peers positively predicts personally referred performance self-talk, self-efficacy enhancement and enhancement of situational interest in secondary students](../claims/emotional-peer-support-predicts-motivational-regulation-strategies.md) [+M] — measured as an outcome of the instruction studied
 - [Perceived guidance from peers negatively predicts work-avoidance self-talk and positively predicts personally referred self-talk, self-efficacy enhancement and enhancement of situational interest](../claims/guidance-peer-support-predicts-mrs.md) [+M] — measured as an outcome of the instruction studied
 - [Perceived reassurance of worth from peers positively predicts personally referred performance self-talk, self-efficacy enhancement, enhancement of situational interest and cost appraisal](../claims/reassurance-worth-predicts-mrs.md) [+M] — measured as an outcome of the instruction studied
+- [Previous academic interest does not positively predict subsequent need for cognition, with one negative exception for English interest at T1](../claims/interest-does-not-predict-subsequent-nfc.md) [-M] — learners who differ on it differ in outcomes
+- [Student-reported enthusiastic teaching behaviours relate positively to students' interest directly after the lesson when controlling for prior interest](../claims/enthusiastic-teaching-post-lesson-interest.md) [+M] — measured as an outcome of the instruction studied
+- [Students' interest directly after the lesson is positively related to their interest six weeks later](../claims/post-lesson-interest-predicts-six-week-interest.md) [+M] — learners who differ on it differ in outcomes
+- [TSESE, NVI and enthusiastic teaching show no significant direct or longitudinal effects on student interest once baseline interest is controlled](../claims/no-direct-effects-on-interest-controlling-baseline.md) [-M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

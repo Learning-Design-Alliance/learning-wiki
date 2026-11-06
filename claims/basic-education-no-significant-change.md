@@ -52,3 +52,4 @@ Wilcoxon test comparisons at 0 and 12 months in the nine basic-education pediatr
 - [Within the intensive education group, consultants and residents improved significantly on all three measures while nurses did not](intensive-group-consultants-residents-improved-nurses-not.md) — related
 - [Systematic review evidence indicates only a minority of health care professionals demonstrate correct inhaler technique, with declining rates over time](minority-hcp-correct-inhaler-technique-review.md) — related
 - [A single experiment-based session within a lecture-dominated course produces no significant overall learning gains on a post-experiment questionnaire](no-significant-gains-single-experiment-session.md)
+- [Crisis management scores increased significantly over time in the intervention group but not in the control group](earthquake-simulation-training-within-group-over-time-gain.md) — reports the opposite

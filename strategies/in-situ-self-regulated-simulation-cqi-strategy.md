@@ -50,6 +50,7 @@ The article recommends sustaining clinical skills through frequent self-regulate
 - [Integrate validated virtual simulation scenarios into nursing curricula and continuing education for Standard Precautions training](integrate-validated-virtual-scenarios-nursing-curricula-strategy.md)
 - [Embed new solutions into existing operations and procedures to sustain and scale them](embed-solutions-existing-operations.md)
 - [Incorporate simulation training into continuing professional development, differentiating communication approaches for doctors and nurses](simulation-als-continuing-professional-development-strategy.md)
+- [Use flexible, context-specific BLS training strategies — mobile learning, small-group simulation, train-the-trainer, routine refreshers and remote supervision — in conflict settings](wartime-bls-training-strategies-gaza.md)
 
 ## Examples
 -

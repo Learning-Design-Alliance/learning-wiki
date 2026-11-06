@@ -55,6 +55,7 @@ The article recommends integrating AI models into dental education and clinical 
 - [Use advanced LLMs as assistive tools in dental education and practice, with comprehensive validation, strict regulation, and human supervision before deployment](llm-assistive-dental-education-strategy.md)
 - [Design human-LLM collaborative systems in which LLMs assist diagnostic reasoning while human experts oversee complex decisions](human-llm-collaborative-diagnostic-reasoning-strategy.md)
 - [Implement AI in assessment as a hybrid support tool for low-stakes, formative stages while humans retain final grading authority](hybrid-ai-human-assessment-implementation.md)
+- [Use GPT-4o to assist instructors in drafting lesson plans and generating test questions around specific clinical knowledge points, with expert oversight](gpt4o-lesson-plan-and-item-generation-strategy.md)
 
 ## Examples
 -

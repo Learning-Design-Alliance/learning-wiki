@@ -43,6 +43,7 @@ The review's forward-looking research recommendations: moving forward, "larger s
 - [Future HFS trials for practising nurses need larger samples, rigorous randomised design and standardised, fully reported measures](hfs-nurse-research-quality-recommendations.md)
 - [Future active-learning research should use randomised controlled designs with larger samples and standardised outcome measures](rigorous-rct-design-future-active-learning-research.md)
 - [Prioritise adequately powered multicentre comparative studies linked to objective metrics and clinical correlation, and develop standardised competency assessment frameworks](multicentre-objective-metrics-studies-robotic-training.md)
+- [Integrate immersive non-technical skills and crisis resource management training into neurosurgical simulation programmes](nts-crm-integration-neurosurgical-simulation.md)
 
 ## Examples
 -

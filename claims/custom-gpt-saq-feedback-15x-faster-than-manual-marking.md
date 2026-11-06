@@ -49,3 +49,4 @@ Prospective timing data from a pilot study of 20 students in a Physician Associa
 - [Human scoring and feedback for HDR takes about 11 minutes 30 seconds per learner, while GPT-based scoring and feedback is nearly instant](hdr-human-scoring-time-burden.md) — related
 - [In an exploratory blinded comparison of five double-marked submissions, no statistically significant differences were detected between AI-generated and faculty-generated feedback across rated domains](blinded-comparison-no-significant-difference-ai-vs-faculty-feedback.md) — related
 - [Sixty percent of AI-generated feedback files required no modification before release, but eight of twenty required amendments including four major corrections](ai-feedback-sixty-percent-no-modification-four-major-errors.md) — related
+- [Human grading modestly increases the probability that students rate feedback as helpful](human-grading-raises-perceived-feedback-helpfulness.md) — related

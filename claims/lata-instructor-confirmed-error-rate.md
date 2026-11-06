@@ -51,3 +51,4 @@ Regrade-request audit across the eight Winter 2026 assignments: the instructor c
 - [Students rated regular announcements/e-mail reminders and grading rubrics for all assignments as the most beneficial learner-to-instructor strategies](announcements-rubrics-top-learner-instructor-strategies.md) — related
 - [Human Graders of Open-Ended Work Agree With Each Other Less Than Treating One Grade as Ground Truth Implies](human-graders-agree-less-than-single-grade-ground-truth-implies.md) — related
 - [Instructor grading practices vary extremely, with some instructors awarding no honor grades and others awarding honor grades to over half their students](extreme-instructor-grading-variation-carnegie-1917.md) — related
+- [Human-graded short-answer questions draw more student regrade requests than AI-graded ones](ai-graded-saqs-fewer-regrade-requests.md) — related

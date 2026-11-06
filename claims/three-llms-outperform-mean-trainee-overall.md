@@ -55,3 +55,4 @@ One-sample Wilcoxon signed-rank test comparison of LLM scores with six human tra
 - [Successive versions of ChatGPT and Gemini showed no statistically significant difference in overall accuracy on the radiology questions, with only moderate response consistency across versions](no-accuracy-difference-across-llm-versions-radiology.md) — related
 - [Wilcoxon pairwise comparisons showed Claude rated significantly higher than ChatGPT, Gemini, and DeepSeek in overall student ratings](wilcoxon-claude-beats-other-models.md) — related
 - [GPT-4o achieves the highest overall accuracy on KMLE questions (83.2%), significantly outperforming Claude 3.5 Sonnet and Gemini 1.5 Pro across 2022–2024](gpt4o-highest-kmle-accuracy-83-2.md) — related
+- [ChatGPT-4o achieves higher final-attempt accuracy than Gemini 1.5 Pro on ophthalmology MCQs, significantly in English but not in Turkish](chatgpt4o-outperforms-gemini-ophthalmology-mcq-final-attempt.md) — related

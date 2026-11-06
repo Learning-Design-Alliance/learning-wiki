@@ -53,3 +53,4 @@ The review's thematic synthesis (RQ3) reports this gender pattern as observed ac
 - [Male secondary students report higher self-efficacy than female students after learning from video modeling examples, without higher performance](male-students-higher-self-efficacy-video-modeling.md) — related
 - [Genetic or chemogenetic enhancement of adult hippocampal neurogenesis does not improve baseline mood but can promote behavioural resilience to chronic stressors](neurogenesis-enhancement-promotes-resilience.md) — related
 - [Stress-resilience dissociations were identified, with high distress coexisting alongside moderate-to-high resilience](stress-resilience-dissociation-high-distress.md) — related
+- [Older age and male gender were associated with greater resilience to the negative effects of mental health problems on academic performance](age-gender-moderate-mental-health-academic-impact.md) — related

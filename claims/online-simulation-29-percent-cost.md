@@ -48,3 +48,4 @@ The review reports a cost-utility analysis finding that online simulation traini
 - [Traditional learning outperformed e-learning in studies where mannequin-based simulation was the traditional modality](mannequin-simulation-outperformed-e-learning.md) — related
 - [Among 39 included studies of low-cost simulation in nursing education, hybrid forms were the most common strategy (48.8%), followed by computer-based tools (17.9%)](scoping-review-low-cost-simulation-nursing-strategy-distribution.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
+- [VR simulation is more cost-effective than cadaver-based and mannequin-based training](vr-training-cost-effectiveness.md) — a broader claim this one bears on

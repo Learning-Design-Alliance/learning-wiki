@@ -74,3 +74,4 @@ Same assessor-blinded RCT of 50 clinical medical students. Teaching effectivenes
 - [The Combined Group reported significantly higher overall course satisfaction than the FCM-only and traditional groups](combined-fcm-mfcs-higher-satisfaction.md) — related
 - [Simulation-platform trainees reported higher teaching satisfaction, enjoyment of learning, and proactive learning behavior than controls](simulation-platform-higher-engagement-subjective-assessments.md) — related
 - [Simulation-platform trainees rated their theoretical knowledge acquisition and operational-skill improvement more favorably than controls](simulation-platform-higher-self-assessed-knowledge-and-skills.md) — related
+- [Intervention students rated the blended learning experience less favorably but rated learning-goal clarity, structure, and curricular alignment higher than controls](mixed-course-evaluation-favors-structure-not-format.md) — related

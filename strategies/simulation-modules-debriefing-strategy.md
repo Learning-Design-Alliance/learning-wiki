@@ -62,6 +62,7 @@ The authors recommend that advanced simulation-based scenarios be embedded into 
 - [Incorporate practical gerontological nursing teaching early in the curriculum, using situational simulation and case-based teaching](early-practical-gerontological-teaching-strategy.md)
 - [Integrate the DNH model into structured ESD curricula via simulation workshops with progressive difficulty and bleeding scenarios](dnh-model-structured-curriculum-workshops.md)
 - [Embed repeated exposure to diverse disaster triage scenarios in training to build adaptive decision-making](repeated-diverse-scenario-exposure-triage-strategy.md)
+- [Embed simulation tools into official curricula as standardized preclinical modules and pursue multi-institutional validation](curricular-integration-of-rpd-simulation.md)
 
 ## Examples
 -

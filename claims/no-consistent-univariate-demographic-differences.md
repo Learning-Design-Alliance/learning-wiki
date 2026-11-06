@@ -55,3 +55,4 @@ Mann–Whitney U and Kruskal–Wallis tests comparing CINS and CBI-30 scores acr
 - [Caring perception is highest in Professional Knowledge and Attitude subdimension](caring-perception-highest-professional-knowledge-attitude.md) — related
 - [Sociodemographic and job-related characteristics differ across competence profiles](sociodemographic-differences-across-profiles.md) — related
 - [Core competencies differ by place of birth, reason for choosing nursing, and employment intention, with effect sizes near moderate](competency-differences-birthplace-major-reason-employment-intention.md) — reports the opposite
+- [No significant association of regulation type, sex, age, or mentoring style with form completion or competence](no-association-regulation-mentoring-completion-competence.md) — related

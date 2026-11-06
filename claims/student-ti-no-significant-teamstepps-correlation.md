@@ -49,3 +49,4 @@ Individual-level Pearson correlation analysis across 30 sessions of the virtual 
 - [Group anterior alpha-band EEG synchronization correlates strongly and negatively with group TeamSTEPPS scores across all domains in online hexad virtual SIMBIE](anterior-alpha-group-ti-negative-teamstepps.md) — related
 - [Posterior all-frequency-band group TI correlates positively with most TeamSTEPPS domains but negatively with mutual support](posterior-all-band-ti-positive-teamstepps.md) — related
 - [Teams score best in situation monitoring and worst in mutual support, with profession-specific strengths across TeamSTEPPS domains](teamstepps-domain-strengths-by-profession.md) — related
+- [Simulation-based interprofessional education combining medical movies, MOOCs, 3D simulation, and co-debriefing significantly improves TeamSTEPPS team performance versus 3D simulation without preparation or debriefing](multimodal-simbie-codebriefing-improves-teamstepps-performance.md) — related

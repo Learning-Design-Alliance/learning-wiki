@@ -48,3 +48,4 @@ Analysis of written student opinion forms identified disliked features: a boring
 - [Abrupt location or character changes mid-scenario co-occur with the lowest story-content coherence ratings](abrupt-setting-changes-lowest-coherence.md) — related
 - [Story-content coherence is the weakest perceived-quality dimension of AI-generated educational interactive fiction in this pilot](ai-generated-if-coherence-weakest-dimension.md) — related
 - [The mathematics teacher viewed digital storytelling positively as attention-grabbing but found story preparation difficult and time-consuming](teacher-positive-but-preparation-time-consuming.md) — related
+- [A minority of participants disliked the simulation modality and preferred alternative learning approaches](vital-coms-minority-dislike-simulation.md) — related

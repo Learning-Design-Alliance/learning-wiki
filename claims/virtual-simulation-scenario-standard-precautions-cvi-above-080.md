@@ -60,3 +60,5 @@ Expert validation study using a researcher-developed Likert-type questionnaire o
 - [Four items failed to reach consensus in round one and were reformulated or excluded](iafee-ecs-round-one-nonconsensus-items-excluded.md) — related
 - [A high-fidelity PACU pain-control simulation scenario reached adequate content validity after two expert review stages (S-CVI/UA 85; S-CVI/Ave 0.98)](pacu-pain-scenario-content-validated.md) — related
 - [A qualitative group assessment judged the scenario feasible, adequately timed, and realistic](pacu-scenario-qualitative-feasibility-realism.md) — related
+- [Expert consultation rated the CCDNS-DRN with excellent content validity (I-CVI 0.78–1.0, S-CVI/UA 0.85, S-CVI/Ave 0.98)](ccdns-drn-content-validity-expert-consultation.md) — related
+- [An expert nurse panel positively evaluated the computer-based BSI-prevention simulation prototype, judging it of quality, theoretically valid, and able to address its intended problem](expert-panel-positive-evaluation-bsi-virtual-simulation.md) — related

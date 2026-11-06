@@ -54,3 +54,4 @@ Subgroup analysis found significant differences in difficulty index (chi-squared
 - [AI-generated assessment items frequently need faculty correction, supporting AI as a draft generator within quality assurance](genai-assessment-items-draft-generator-quality-assurance.md) — related
 - [AI-generated questions showed slightly higher average discrimination than standardized test questions (αAI = 1.3 vs αSTD = 1.2), with moderate evidence](ai-items-slightly-more-discriminating.md) — related
 - [The study’s histology MCQ test was of optimal quality, with an average difficulty index of 56% and an average discriminative index of 0.68](histology-mcq-test-quality-indices.md) — related
+- [Thirteen questions discriminate passing from non-passing students, and moderate-complexity items discriminate better than difficult ones](moderate-complexity-questions-discriminate-best.md) — related

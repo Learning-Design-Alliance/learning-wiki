@@ -52,3 +52,5 @@ Multivariable logistic regression on the 320-worker cross-sectional survey data,
 - [Formal in-service wound-care training is the sole independent predictor of good theoretical knowledge](in-service-training-predicts-wound-knowledge.md) — related
 - [Attendance at a BLS/CPR workshop within the last 5 years predicts good knowledge among dentists (aOR = 4.91)](recent-bls-workshop-predicts-knowledge.md) — related
 - [Prior real-life emergency encounters strongly predict good BLS/CPR knowledge among dentists (aOR = 12.97)](emergency-encounter-predicts-bls-knowledge.md) — related
+- [None of five background predictors (gender, age, years since education, self-assessed knowledge, continuing education) significantly predicted dentists' overall proportion of correct answers](no-predictor-significant-overall-correct-answers.md) — related
+- [Prior BLS training is independently associated with higher BLS knowledge/practice scores among Gaza healthcare workers](prior-bls-training-higher-scores-gaza.md) — related

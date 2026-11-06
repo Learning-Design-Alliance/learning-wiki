@@ -53,6 +53,9 @@ Based on the demonstrated consistency gap, the authors recommend that AI systems
 - [Use high-performance LLMs as supportive tools in medical education for feedback and learning-process optimization, pending image-based validation](llms-supportive-tools-medical-education-feedback.md)
 - [Use LLMs cautiously in ophthalmology resident training, particularly for complex clinical decision-making cases](cautious-llm-use-in-resident-training-complex-cases.md)
 - [Use AI chatbots as supportive, non-autonomous supplements in dental education and practice, with expert oversight](ai-as-supplementary-non-autonomous-dental-tool.md)
+- [Use GPT-4o to analyze and reason through students' incorrect answers in case-based teaching with medical images, with human validation of its output](gpt4o-case-based-error-analysis-strategy.md)
+- [Use GPT-4o to assist instructors in drafting lesson plans and generating test questions around specific clinical knowledge points, with expert oversight](gpt4o-lesson-plan-and-item-generation-strategy.md)
+- [Implement targeted error-mitigation strategies—expert-reviewed benchmark validation, clinician oversight, and continuous updating—when using LLMs in neurosurgical education](llm-error-mitigation-strategies-neurosurgical-education.md)
 
 ## Examples
 -

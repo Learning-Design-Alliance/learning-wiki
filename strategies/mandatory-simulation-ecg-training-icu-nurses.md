@@ -51,6 +51,8 @@ The article recommends structured, mandatory in-service ECG education tailored t
 - [Integrate interactive, competency-based diabetic foot care training into continuing professional development, supported by organizational resources](integrate-interactive-diabetic-foot-training-cpd.md)
 - [Combine standardized theoretical training with high-fidelity simulation-based practical skills training](combine-theoretical-training-with-simulation-phtls.md)
 - [Implement mandatory structured ED rotations plus simulation-based, ward-based ECG training to build competence and confidence](structured-ed-rotations-simulation-ecg-training-strategy.md)
+- [Implement mandatory, flexible, and financially supported CPD programs in public dental services with peer learning and monitoring](mandatory-flexible-supported-pds-cpd-strategy.md)
+- [Tailor ECG education by experience level and schedule regular refresher courses](tailor-ecg-education-by-experience-and-refreshers.md)
 
 ## Examples
 -

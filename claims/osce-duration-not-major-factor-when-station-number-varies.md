@@ -51,3 +51,4 @@ Meta-analysis of studies grouped by duration (<10 min vs >=10 min) across all st
 - [A six-station sport medicine OSCE showed high reliability and construct validity, with senior residents outscoring junior residents](dwyer-sem-osce-reliability-validity.md) — related
 - [OSCE appears to be an appropriate examination format little influenced by external factors such as examiner background or time of day](osce-appropriate-format-little-influenced-by-external-factors.md) — related
 - [The 10-minute two-station four-domain modified OSCE is more sensitive than the end-of-rotation comprehensive score in detecting key competency differences from pathway-driven training.](modified-osce-more-sensitive-than-comprehensive-score.md) — related
+- [Internal reliability (Cronbach's alpha) remained similar across the unmodified 2019 and the modified 2020 and 2021 OSCEs](osce-reliability-stable-across-modified-formats.md) — related

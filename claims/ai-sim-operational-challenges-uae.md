@@ -93,3 +93,4 @@ Authors' noted limitation of the voice-only system: prompt-described nonverbal c
 - [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](technical-issues-barrier-playlist-implementation.md) — related
 - [Chronic psychiatric placement shortage in the UAE left most mental health nursing practicum students without traditional placements, motivating AI simulation](clinical-placement-shortage-uae-mental-health.md) — related
 - [Students describe HoloPatient simulation positively (concentration, edutainment, practical learning) but report Wi-Fi instability and cybersickness as barriers](holopatient-qualitative-themes-experiences-barriers.md) — related
+- [Virtual escape rooms face challenges of technical malfunction, low survey response rates, missing in-person moderators, and narrow topical focus](virtual-escape-room-challenges.md) — related

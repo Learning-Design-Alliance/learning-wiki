@@ -59,3 +59,4 @@ Random effects meta-analysis of intraclass correlation coefficients between OSCE
 - [Inter-rater reliability was high for both Team OSCE (Kappa 0.80 pre, 0.76 post) and TPOT (ICC 0.94 pre, 0.93 post)](ipstar-interrater-reliability.md) — related
 - [Rubric-based scoring in the PROMPTa study showed strong intra-rater and moderate-to-strong inter-rater reliability](prompta-rater-reliability-estimates.md) — related
 - [Trained SPs achieved moderate-to-substantial inter-rater reliability across history-taking subscales, with lowest agreement for Professionalism & Communication](sp-inter-rater-reliability-kappa.md) — related
+- [Simulation-based assessment scoring shows strong inter-rater reliability (ICC 0.77–0.84) and internal consistency (Cronbach's alpha 0.83) across raters and scenarios](hfscoring-reliability-icc-alpha.md) — related

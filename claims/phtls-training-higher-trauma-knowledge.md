@@ -49,3 +49,4 @@ Cross-sectional comparison of 48 PHTLS-trained vs 50 non-trained emergency profe
 - [PHTLS training is the strongest independent predictor of passing the knowledge test after adjustment](phtls-training-strongest-predictor-passing.md) — a broader claim this one bears on
 - [Knowledge–confidence inverse pattern is strongest among paramedics and non-trained resident physicians](phtls-knowledge-confidence-subgroup-pattern.md) — related
 - [PHTLS-trained professionals report lower self-perceived competence than non-trained peers](phtls-training-lower-self-perceived-competence.md) — related
+- [Trained prehospital personnel were 3.4 times more likely than controls to reach the competency threshold on a self-report crisis-management questionnaire (OR = 3.40, 95% CI 1.8–6.2)](earthquake-simulation-training-competency-threshold-odds.md) — related

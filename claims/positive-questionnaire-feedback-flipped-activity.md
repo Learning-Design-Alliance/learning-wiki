@@ -52,3 +52,4 @@ Descriptive analysis of a revalidated five-point Likert questionnaire (Cronbach'
 - [Students in flipped courses report modestly but consistently higher satisfaction than traditional-course students, with significantly higher perceived instructor availability.](flipped-courses-higher-satisfaction-instructor-availability.md) — related
 - [Over 90% of residents responded positively to most feedback items, but about 57% were neutral or negative on time required](snapps-feedback-positive-except-time-burden.md) — related
 - [Students in the P-I-T-D-S flipped classroom reported significantly higher satisfaction than traditional-lecture students across nearly all questionnaire items](pitds-flipped-higher-satisfaction.md) — related
+- [Students and faculty reported favorable perceptions of RTS, including ease of use, real-time feedback, and reduced instructor preparation time](rts-favorable-user-perceptions.md) — related

@@ -57,3 +57,4 @@ Interview quote from Respondent 4 in the 'Developing a culture of peer teaching 
 - [Peer observation anxiety, limited practice time, and large group sizes are perceived barriers to optimal learning in simulation-based BLS training](simulation-bls-perceived-barriers.md) — related
 - [RCDP simulation sessions were perceived as psychologically safe by almost all participants, regardless of the number of facilitators present](rcdp-psychological-safety-high.md) — related
 - [Near-peer teaching is experienced as relatable and lowers the barrier to asking questions compared with faculty-led sessions](near-peer-relatability-comfort-asking-questions.md) — possibly the same claim (merge candidate)
+- [Learners reported the peer-led session created a question-friendly, low-intimidation environment compared to faculty-led training](peer-led-low-intimidation-environment.md) — related

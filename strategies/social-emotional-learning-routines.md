@@ -65,6 +65,7 @@ SEL routines work through repetition and predictability: consistent rituals lowe
 - [Cooperative Learning](cooperative-learning.md) — structures that give SEL routines authentic interpersonal practice
 - [Mindfulness Breaks](mindfulness-breaks.md) — a specific attention-regulation routine variant
 - [Embed brief daily wellbeing check-ins across academic courses to build student-teacher connection](brief-daily-wellbeing-check-ins.md)
+- [Embed whole-class computerized SEL activities as a universal, cost-effective supplement to PSHE provision](whole-class-computerized-sel-universal-provision.md)
 
 ## Examples
 - **[RULER](https://medicine.yale.edu/childstudy/services/community-and-schools-programs/ruler/)** (Yale Center for Emotional Intelligence) — the Mood Meter check-in and class Charter are routines for emotion labeling and norm-setting; evaluated in randomized school trials.

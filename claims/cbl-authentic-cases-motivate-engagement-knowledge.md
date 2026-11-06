@@ -51,3 +51,4 @@ The review reports, citing the qualitative study of Al-bedaery (2024), that part
 - [CHW trainees value realistic standardized patient scenarios as a key benefit of simulation-based MI training](chws-value-realistic-sp-scenarios-in-mi-simulation-training.md) — related
 - [Participants most cited improved teamwork and exposure to rare clinical scenarios as key benefits](simulation-participants-valued-teamwork-and-rare-scenario-exposure.md) — a narrower finding that bears on this claim
 - [Medical students found curriculum-aligned digital escape rooms exciting, engaging, and motivating in a pilot implementation](escape-rooms-exciting-medical-students.md) — related
+- [Clinical educators propose simulated patients in scenarios informed by real patient experiences as a way to prepare students for complex, unpredictable patient encounters.](sp-scenarios-complex-unpredictable-encounters.md) — related

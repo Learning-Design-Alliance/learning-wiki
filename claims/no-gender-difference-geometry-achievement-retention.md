@@ -68,3 +68,4 @@ Mann-Whitney U comparisons in the control group (13 female, 8 male); post-test m
 - [GSP-taught students retained significantly more geometry learning one month after instruction than traditionally taught students](gsp-dynamic-geometry-higher-retention-one-month.md) — related
 - [The experimental group's geometry achievement did not change significantly between posttest and one-month retention test](gsp-group-no-posttest-retention-change.md) — related
 - [The control group's geometry achievement did not change significantly between posttest and one-month retention test](control-group-no-posttest-retention-change.md) — related
+- [Knowledge improvement after the SDL package does not differ significantly by gender](no-gender-difference-sdl-ecg-knowledge-gain.md) — related

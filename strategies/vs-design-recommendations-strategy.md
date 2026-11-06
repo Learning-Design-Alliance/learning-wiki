@@ -66,6 +66,8 @@ The review's forward-looking recommendations for VS teaching design: future devi
 - [Simplify simulation models or divide training into smaller sections to maintain engagement](simplify-or-segment-simulation-training.md)
 - [Iterate digital simulation platforms using trainee suggestions: add haptic feedback modules, case-discussion content, scoring and login tracking, and a streamlined interface](trainee-driven-platform-improvement-strategy.md)
 - [Add interactive features — quizzes, gamified modules, and simulated clinical scenarios — to future versions of skills-training software](future-interactive-features-quizzes-gamification-scenarios.md)
+- [Harmonize VRS training practices and use remote mentoring and multimodal simulation to broaden access](harmonize-vrs-practices-remote-mentoring-strategy.md)
+- [Provide VR user support, adjustable display settings, and built-in breaks when running virtual TBL sessions](vr-tbl-training-support-breaks.md)
 
 ## Examples
 -

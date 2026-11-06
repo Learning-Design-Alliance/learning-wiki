@@ -54,3 +54,4 @@ The review reports, citing the FRS skills curriculum study (Satava et al.), sign
 - [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](ir-dental-equivalence-mixed-findings.md) — related
 - [Scenario simulation combined with case teaching improved doctor-patient communication skills more than traditional lecture-based training](scenario-simulation-improves-doctor-patient-communication.md) — related
 - [Manikin-based simulation produced equal or superior competency outcomes versus traditional clinical practice, except in the Patient Safety domain](manikin-simulation-competency-versus-clinical.md) — related
+- [Students trained with the DVRS scored significantly higher in the dental surgery course than students trained with traditional manikins](dvrs-higher-dental-surgery-scores-than-manikin.md) — a narrower finding that bears on this claim

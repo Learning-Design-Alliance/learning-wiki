@@ -69,3 +69,4 @@ In 1st year, chronotype slopes differ from zero only for morning math (β = −0
 - [First-year grades predict grade retention: 1-point-lower math or language grades are associated with higher odds of repeating a year](grades-predict-grade-retention.md) — related
 - [Academic performance in adolescents is significantly affected by the interaction of school timing, age and school subject, with better performance in later timings as students age](school-timing-age-subject-interaction-grades.md) — related
 - [Evening chronotype residents were more likely to achieve higher standardized training grades, with morning types less likely](evening-chronotype-higher-residency-grades.md) — related
+- [Adolescents with an evening chronotype report significantly lower GPA than those with a morning chronotype](evening-chronotype-lower-gpa-than-morning.md) — related

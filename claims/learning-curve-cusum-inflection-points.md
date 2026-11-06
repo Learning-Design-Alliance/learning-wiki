@@ -56,3 +56,4 @@ Learning curves were generated using the cumulative sum (CUSUM) method based on 
 - [After ten training sessions, junior and intermediate groups still scored significantly lower than the senior group](persistent-performance-gap-after-repeated-training.md) — related
 - [Operative time in laparoscopic radical prostatectomy reaches a proficiency plateau after the 61st case in this series](lrp-operative-time-plateau-case-61.md) — related
 - [In one repeated-training study, operation scores rose and operation times fell across 8 sessions on 3D-printed LRYGB models, with residents approaching intermediate-level performance and learning curves plateauing after 4–5 sessions](learning-curve-plateau-4-5-sessions-3d-lrygb.md) — related
+- [CUSUM analysis identifies a three-phase PUL learning curve for a naïve urologist, with proficiency reached after 5 to 8 cases](pul-cusum-three-phase-learning-curve-5-8-cases.md) — related

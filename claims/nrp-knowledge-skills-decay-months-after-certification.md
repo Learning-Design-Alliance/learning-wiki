@@ -87,3 +87,4 @@ In the randomized controlled trial of booster modalities (N = 44 family medicine
 - [No significant performance differences between students trained every 3 months and every 6 months](no-difference-3-versus-6-month-cpr-training.md) — related
 - [Performance deteriorated over time in both teaching approaches, with two-month scores significantly lower than two-week post-intervention results](performance-deterioration-both-approaches.md) — a narrower finding that bears on this claim
 - [Checklist-assessed clinical performance was significantly higher at the six-month POST assessment than at the initial PRE assessment across all six simulation scenarios](simulation-checklist-gains-six-months.md) — related
+- [Guess rates fell after training and rose again at 3 months, while self-reported confidence improved across groups](guess-rates-confidence-shift-after-elearning.md) — related

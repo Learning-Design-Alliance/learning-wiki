@@ -53,3 +53,4 @@ Meta-analysis of four comparative trials reporting time to complete task. The po
 - [Simulation-based training increases learner interest and satisfaction compared with non-simulation based training for airway management](sbt-learner-interest-satisfaction-airway.md) — related
 - [The behavior performance benefit of simulation-based training is only significant for flexible laryngoscopy or bronchoscopy training, not direct laryngoscopy](sbt-behavior-benefit-only-fl-subgroup.md) — related
 - [AccuTouch VR simulator training improved live fibreoptic intubation performance in inexperienced paediatric residents, reducing time to intubation from 5.15 to 0.88 minutes](accutouch-training-improves-live-intubation-time.md) — reports the opposite
+- [VR bronchoscopy simulator training improves medical staff intubation skills and reduces complications](vr-bronoscopy-intubation-skills.md) — related

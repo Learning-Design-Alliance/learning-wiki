@@ -52,3 +52,4 @@ Three 5-point Likert perception items from the anonymous post-term survey (N=159
 - [About 400 labeled proofs are sufficient for adequate autograding performance](400-proofs-sufficient-training.md) — related
 - [Students perceive human graders as more accurate and helpful than the AI autograder](students-trust-humans-more-than-autograder.md) — related
 - [Automated tool reduces correction time by 43% (raw) and 33% (normalised)](automated-tool-reduces-correction-time-43-percent.md) — related
+- [Students and faculty reported favorable perceptions of RTS, including ease of use, real-time feedback, and reduced instructor preparation time](rts-favorable-user-perceptions.md) — related

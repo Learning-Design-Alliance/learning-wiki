@@ -48,7 +48,8 @@ The authors recommend pairing experiential training components with mentoring: "
 - [Teachers rated the experiential training package positively, describing it as effective, accountable, and revealing of actual versus perceived performance](../claims/teacher-reflection-journals-social-validity.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Refinements for future mentoring interventions: extend duration, embed in curricula, train mentors, activate mentees, assess quality, and use richer reflective assessment](future-mentoring-intervention-refinements.md)
 
 ## Examples
 -

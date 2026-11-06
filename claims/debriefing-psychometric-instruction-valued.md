@@ -60,3 +60,4 @@ Focus-group theme from the qualitative pilot (two focus groups, 10 graduate stud
 - [Group reflection and debriefing after VR simulation is perceived by students as the aspect providing the most learning benefits](group-reflection-debriefing-most-learning-benefit-students.md) — related
 - [Pre-class preparation (93.5%) and instructor debriefings (93.6%) were rated highly effective](preclass-and-debrief-ratings-pilot.md) — related
 - [Medical students valued debriefing sessions after VR training as key opportunities for reflection and consolidating learning](debriefing-valued-reflection-consolidation-vr.md) — related
+- [Debriefing and reflection are absent from LTT courses, and participants did not report on these known benefits of simulation training](ltt-debriefing-absent.md) — related

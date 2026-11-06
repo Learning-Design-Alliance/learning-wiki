@@ -52,3 +52,4 @@ Narrative synthesis of 11 faculty perception studies within the review's Results
 - [Over-reliance on GAI risks weakening teaching and social presence and depriving students of foundational skill development](gai-overreliance-risks-presence-and-skills.md) — related
 - [The most frequently cited ethical concerns about GenAI in research were hallucinated facts, fabricated references, and misleading content](hallucinated-facts-fabricated-references-top-concerns.md) — related
 - [Students perceive LLM chatbots as useful for learning but requiring critical use, reporting hallucinations, overconfidence, and dependency risks](students-view-llms-useful-but-requiring-critical-use.md) — related
+- [Potential negative consequences of LLM use in nursing education include academic integrity concerns, inaccurate output, bias, and over-reliance](llm-nursing-education-negative-consequences.md) — related

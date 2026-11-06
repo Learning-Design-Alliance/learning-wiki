@@ -47,3 +47,4 @@ Baseline comparison from the same semi-experimental pretest-posttest study (JG N
 ## Related Claims
 - [Jigsaw cooperative learning produces higher posttest achievement than traditional teaching for preschool sense-organs instruction](jigsaw-outperforms-traditional-preschool-sense-organs.md) — related
 - [Before instruction, the jigsaw and traditional groups were equivalent on prior knowledge, unit pre-test, and prior grades](jigsaw-groups-equivalent-at-baseline.md) — related
+- [Before the intervention, intervention and control groups did not differ significantly in crisis management score (P = 0.761)](earthquake-simulation-training-baseline-equivalence.md) — related

@@ -50,3 +50,4 @@ In the same 586-participant multi-centre assessment, the theory-versus-practice 
 - [Emergency healthcare providers show a significant theory–practice gap in chest compression depth, with 97.95% theoretical knowledge but only 42.66% practical success](cpr-compression-depth-theory-practice-gap.md) — related
 - [Compression-to-ventilation ratio is the only core CPR indicator with no significant theory–practice difference](cpr-ventilation-ratio-no-theory-practice-gap.md) — related
 - [Complete chest recoil shows a significant theory–practice gap (98.80% theoretical vs 62.97% practical)](cpr-recoil-theory-practice-gap.md) — related
+- [Gaza doctors and nurses show significant BLS knowledge gaps in resuscitation sequence, compression depth, advanced-airway ventilation and choking response](gaza-hcw-bls-knowledge-gaps.md) — related

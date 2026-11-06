@@ -62,6 +62,10 @@ The review recommends that immersive technologies like VR and AR be used as supp
 - [Use 3D game-based simulation in blended learning environments alongside traditional teaching](blended-use-of-3d-game-simulation-nursing.md)
 - [Pair LLM-assisted learning with VR/AR or simulation-based training for procedural skills](llm-plus-vrar-for-procedural-skills.md)
 - [Use educational simulation software as a supplement to lectures and hospital-based clinical practice in nursing education](simulation-software-supplement-to-lecture-and-clinical-practice.md)
+- [Enhance escape room simulation fidelity with AR, VR, AI, and real-time adaptive data](er-emerging-technology-fidelity-strategy.md)
+- [Incorporate immersive VR simulation into radiography education to build clinical preparedness](immersive-vr-simulation-radiography-education-strategy.md)
+- [Integrate 3D-printed biomimetic phantoms into VR/MR environments to create a 'see–feel–do' training continuum](integrate-3d-printed-phantoms-vr-mr-continuum.md)
+- [Develop more realistic, clinically relevant VR software and naked eye 3D technology to improve simulated teaching efficiency](vr-anesthesia-future-development-strategy.md)
 
 ## Examples
 -

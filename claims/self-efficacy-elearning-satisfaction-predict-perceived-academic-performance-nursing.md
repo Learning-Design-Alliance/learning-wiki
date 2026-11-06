@@ -50,3 +50,4 @@ Cross-sectional correlational study of 163 nursing students using multiple linea
 - [Self-efficacy is positively associated with core competence among infectious disease nurses](self-efficacy-core-competence-infectious-disease-nurses.md) — related
 - [Overall e-learning satisfaction among nursing students in synchronous virtual learning is relatively low](low-elearning-satisfaction-synchronous-nursing.md) — related
 - [Simulation-related variables (usability, satisfaction, presence, technology acceptance) do not predict training outcomes](simulation-variables-do-not-predict-outcomes.md) — reports the opposite
+- [Engagement and burnout jointly explain 14.2% of auto-perceived academic performance variance and 4.6% of auto-perceived score variance, with burnout the most influential](model-variance-performance-pap-oap.md) — related

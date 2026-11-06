@@ -61,3 +61,4 @@ Meta-analysis reported in the self-determination theory section "confirmed that 
 - Self-determination theory grew incrementally by adding mini-theories as evidence accumulated — related
 - [Autonomous motivation is the strongest positive predictor of hedonic teacher wellbeing (ρ = .83)](autonomous-motivation-strongest-hedonic-predictor.md) — related
 - [In the AI motivation network with correlates, autonomy need satisfaction was strongly related to competence need satisfaction](autonomy-competence-satisfaction-strong-edge-ai.md) — related
+- [No significant association of regulation type, sex, age, or mentoring style with form completion or competence](no-association-regulation-mentoring-completion-competence.md) — related

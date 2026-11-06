@@ -48,7 +48,8 @@ The article recommends that the effective strategies identified for student lear
 - [Feedback and validation, including feedback on actions taken and provision of examples and explanations, are perceived as enabling critical thinking development in SBL using technology](../claims/feedback-validation-enabler-sbl.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Gradually introduce unpredictable elements into SBL to build adaptability for CALD students preferring structured preparation](gradual-unpredictability-in-sbl.md)
 
 ## Examples
 -

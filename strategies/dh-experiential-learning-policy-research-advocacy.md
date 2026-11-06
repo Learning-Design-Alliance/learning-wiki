@@ -53,6 +53,7 @@ The review recommends that dental hygiene programs embed hands-on opportunities 
 - [Explore alternative experiential learning activities for students who do not respond positively to poverty simulations](alternative-experiential-activities-poverty-education.md)
 - [Combine hands-on experiential engagement with peer-led teaching to build disposal knowledge and advocacy in cascade](experiential-plus-peer-led-cascade-model.md)
 - [Future directions: formalized AI-literacy curricula, collaboration, research, and advocacy for CMFT](future-directions-ai-cmft-training-and-collaboration.md)
+- [Tailored osteoporosis education by degree track plus interdisciplinary exchange and paired public-health outreach](tailored-osteoporosis-education-by-track.md)
 
 ## Examples
 -

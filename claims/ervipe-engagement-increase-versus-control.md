@@ -47,3 +47,4 @@ Quasi-experimental 3-group study of 87 undergraduate health professions students
 ## Related Claims
 - [DSSQ-worry and DSSQ-distress decreased nonsignificantly across all three study groups](dssq-worry-distress-nonsignificant-decreases.md) — related
 - [ER-VIPE with co-debriefing significantly lowered burnout relative to computer-based SIMBIE without debriefing, while the VR-based ER-VIPE arm showed no significant burnout differences](ervipe-burnout-reduction-versus-control.md) — related
+- [Simulation-based interprofessional education combining medical movies, MOOCs, 3D simulation, and co-debriefing significantly improves TeamSTEPPS team performance versus 3D simulation without preparation or debriefing](multimodal-simbie-codebriefing-improves-teamstepps-performance.md) — related

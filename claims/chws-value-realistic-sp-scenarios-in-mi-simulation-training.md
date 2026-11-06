@@ -60,3 +60,4 @@ Inductive grounded-theory coding of open-ended survey responses from CHW trainee
 - [Small-group, communication-focused SP simulations increase pre-licensure nursing students' comfort and confidence in therapeutic communication](sp-simulation-increases-therapeutic-communication-comfort.md) — related
 - [Medical students most valued OSCEai's on-demand data, self-paced learning, and realistic patient interactions](osceai-valued-features-survey.md) — related
 - [Scenario realism and interaction with standardized patients, rather than mannequins, generate immersion and emotional involvement in novice nursing students](sp-realism-drives-immersion-and-involvement.md) — related
+- [Clinical educators propose simulated patients in scenarios informed by real patient experiences as a way to prepare students for complex, unpredictable patient encounters.](sp-scenarios-complex-unpredictable-encounters.md) — related

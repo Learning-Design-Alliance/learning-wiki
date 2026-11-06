@@ -48,6 +48,7 @@ The review's concluding recommendation set for training programs that use SBLEs 
 
 - [Future simulation research should use rigorous designs, standardized tools, and transparent reporting](strategy-rigorous-simulation-research-design.md)
 - [Use the validated scale to identify communication training needs, design targeted workshops, and evaluate communication interventions](use-palliative-communication-scale-for-training-needs-and-workshops.md)
+- [Adopt validated clinical simulation scenarios as a perioperative nursing training resource](adopt-validated-simulation-scenarios-perioperative-training.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ Authors' interpretive conclusion stated in the abstract, framed by Cognitive Loa
 - [A six-session faculty learning community on AI was implemented in a physics department, engaging nineteen faculty across biweekly meetings](physics-faculty-learning-community-ai-workshop-series.md) — related
 - [High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety](vad-stress-psychological-safety-threat.md) — related
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — related
+- [Provider experience competencies prioritize usability, workflow integration, and strategies to mitigate technology-related burnout](provider-experience-digital-health-competencies.md) — related

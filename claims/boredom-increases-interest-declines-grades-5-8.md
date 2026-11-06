@@ -57,3 +57,4 @@ Latent means from the combined longitudinal measurement invariance model (N = 14
 - [Negative boredom–interest factor correlations grew stronger over the four waves, indicating increasing divergence during secondary school](boredom-interest-correlations-increase-over-waves.md) — related
 - Boredom and academic interest fit two separate correlated factors better than one common factor in mathematics and German at every wave — related
 - [Mathematics enjoyment decreases and boredom increases from first to third grade, while mean enjoyment stays fairly high and boredom low](enjoyment-decreases-boredom-increases-grades-1-3.md) — related
+- [Students' NFC and academic interest declined in mean level over Grades 5–7 while achievement test scores increased](nfc-and-interest-decline-grades-5-7.md) — related

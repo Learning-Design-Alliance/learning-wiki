@@ -72,3 +72,6 @@ Test-retest reliability was assessed with a 2-week interval by randomly selectin
 - [The 40-item EVD KAP questionnaire shows acceptable internal consistency and temporal stability among neurosurgical nurses](evd-kap-scale-reliability-coefficients.md) — related
 - [The Salus-Ed questionnaire demonstrates excellent overall internal consistency (α = 0.95)](salus-ed-internal-consistency.md) — related
 - [The finalized 72-item scale shows excellent internal consistency and factorability (Cronbach's α = 0.928, KMO = 0.884)](scale-excellent-internal-consistency-0928.md) — related
+- [The CCDNS-DRN shows high internal consistency and two-week test–retest stability](ccdns-drn-reliability-coefficients.md) — related
+- [Internal consistency of the tool's three category scores is satisfactory, with Cronbach's α of 0.84 for positive and mixed videos and 0.91 for the negative video](fbat-internal-consistency-cronbach.md) — related
+- [The questionnaire's internal consistency is confirmed with a Cronbach's alpha of 0.84 and PCA reveals two distinct dimensions](questionnaire-reliability-cronbach-alpha-084-two-dimensions.md) — related

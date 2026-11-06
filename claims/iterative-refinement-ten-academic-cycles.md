@@ -51,3 +51,4 @@ Descriptive report of iterative refinement using SQUIRE-EDU guidelines. The arti
 - [First DBR iteration evaluation showed disjointed transitions between gaming and academic work, prompting a revised three-step teaching model with domain knowledge acquisition first](dbr-iteration-disjointed-gaming-academic-transitions.md) — related
 - [A total of 1,441 students completed the four-year SBEP and 80% of physiotherapy faculty were trained in simulation methodology](sbep-reached-1441-students-80-faculty-trained.md) — related
 - [Simulation-based learning consistently improves knowledge, skills, and self-efficacy in diabetes education, especially with structured debriefing and progressive case complexity](simulation-consistent-gains-diabetes-education.md) — related
+- [The CRI:SIS intervention was iteratively adapted 22 times over 12 months in response to evolving COVID-19 guidelines](crisis-iterative-guideline-adaptations.md) — related

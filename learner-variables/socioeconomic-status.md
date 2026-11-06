@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 248 claims (130 show a difference, 61 mixed, 57 no difference) · 192 studies (84 associational, 75 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 33 of 192 report an effect size · 247 claims rest on one study
+> **Evidence** · 254 claims (135 show a difference, 62 mixed, 57 no difference) · 194 studies (86 associational, 75 causal, 14 review, 12 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 33 of 194 report an effect size · 253 claims rest on one study
 
 ## How to read this page
 
@@ -333,6 +333,12 @@ A learner's economic and social position: family income or poverty (often measur
 - [Across countries, the effect sizes of student SES and school SES on achievement are negatively correlated (r = −0.21 mathematics; r = −0.13 science)](../claims/student-school-ses-effect-negative-correlation.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Gender moderates SES effects: student SES raises achievement more for female students, while school SES raises achievement more for male students](../claims/gender-moderates-ses-effects.md) [~W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [School SES has a stronger effect on academic achievement than student SES (mathematics B = 0.37 vs 0.18; science B = 0.36 vs 0.20)](../claims/school-ses-stronger-than-student-ses.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [In states where a saturating function fits, the score improvement per $10,000 of income is higher for low-income districts than high-income districts](../claims/saturating-states-larger-gains-low-income-districts.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Local educational poverty explains more between-subdistrict variance in achievement than economic poverty](../claims/educational-poverty-explains-more-subdistrict-variance.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Rural achievement is less sensitive to local educational poverty than urban achievement, which the author attributes to a scarcity effect of role models](../claims/rural-achievement-less-sensitive-educational-poverty.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Subdistrict educational poverty has a stronger and statistically significant negative association with secondary achievement than economic poverty in Bangladesh](../claims/educational-poverty-stronger-than-economic-poverty-achievement-bangladesh.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The association between educational poverty and achievement is non-linear, steepening at high poverty levels, while the economic-poverty relationship is linear](../claims/nonlinear-educational-poverty-achievement-association.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [The negative association between local poverty and achievement is steeper for the science stream than for arts/general and business streams](../claims/science-stream-poverty-association-steeper-bangladesh.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

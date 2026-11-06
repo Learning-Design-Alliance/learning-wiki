@@ -54,3 +54,4 @@ OLS fixed-effects panel models show low-income coefficients of -0.33*** (element
 - [Across ten districts combined, high-poverty middle schools have significantly fewer highest-performing teachers than low-poverty middle schools](high-poverty-middle-schools-underrepresented-highest-performing-teachers.md) — related
 - [Schools with lower percentages of Proficient and Distinguished observation ratings tend to be higher-poverty schools](lower-rated-schools-tend-higher-poverty.md) — related
 - [Park effect within middle schools is strongest in grade 8 across Language Arts, Math, and Science](park-effect-grade8-strongest.md) — related
+- [Subdistrict educational poverty has a stronger and statistically significant negative association with secondary achievement than economic poverty in Bangladesh](educational-poverty-stronger-than-economic-poverty-achievement-bangladesh.md) — related

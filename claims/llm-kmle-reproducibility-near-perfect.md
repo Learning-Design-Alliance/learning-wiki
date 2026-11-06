@@ -50,3 +50,4 @@ Reproducibility analysis in which each model answered 910 A-type KMLE questions 
 - [GPT-4o achieves the highest overall accuracy on KMLE questions (83.2%), significantly outperforming Claude 3.5 Sonnet and Gemini 1.5 Pro across 2022–2024](gpt4o-highest-kmle-accuracy-83-2.md) — related
 - [Gemini 1.5 Pro shows the highest response consistency across 30 repeated exam attempts, significantly exceeding GPT-4o but statistically comparable to Claude](gemini-highest-response-consistency-repeated-attempts.md) — related
 - [Temperature parameter has a statistically significant but negligible effect on GPT-4o exam accuracy (ηG² = 0.0017), with global accuracy peaking at temperature 0.23](temperature-effect-negligible-gpt4o-accuracy.md) — related
+- [Chatbot responses show near-perfect repeatability across no-feedback attempts (κ 0.967-1.000)](chatbot-response-consistency-kappa-near-perfect.md) — related

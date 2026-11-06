@@ -58,3 +58,4 @@ A linear mixed-effects model for confidence as the dependent variable found male
 - [Female student teachers score significantly higher on performance goal orientation than male students, with no gender differences on the other dimensions](gender-performance-goal-orientation-females-higher.md) — related
 - [Female students report higher stress than male students during hands-on artificial-tooth training, despite comparable performance](female-higher-stress-hands-on-training.md) — related
 - [Male students' self-assessment of communication is statistically higher than female students' self-assessment](male-students-higher-self-assessment.md) — related
+- [Female students rated their perceived competence higher than male students while external ratings did not differ](female-fyms-higher-perceived-competence.md) — reports the opposite

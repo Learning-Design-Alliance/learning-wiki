@@ -53,3 +53,4 @@ Multiple linear regression from the cross-sectional survey; the abstract reports
 - [Younger dentists report fewer barriers to practicing MID](younger-dentists-fewer-mid-practice-barriers.md) — related
 - [Adequate remuneration is the only barrier item dentists most commonly identified as an obstacle to practicing MID](remuneration-barrier-mid-practice.md) — related
 - [Systematic reviews show a gap between dentists' MID knowledge and clinical practice](mid-knowledge-practice-gap.md) — related
+- [Trained prehospital personnel were 3.4 times more likely than controls to reach the competency threshold on a self-report crisis-management questionnaire (OR = 3.40, 95% CI 1.8–6.2)](earthquake-simulation-training-competency-threshold-odds.md) — related

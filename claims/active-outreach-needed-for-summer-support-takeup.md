@@ -49,3 +49,4 @@ The 2011 qualitative study found advisors exchanged a phone call or email with 8
 - [The summer outreach study uses a pretest-posttest randomized design with 40 percent of each graduating class assigned to treatment, analyzed via intent-to-treat models of fall enrollment](randomized-summer-outreach-itt-design.md) — related
 - [Most surveyed text-message recipients reported the nudges helped them complete college tasks](text-nudges-helped-complete-college-tasks.md) — related
 - [In Study 2, advisor ratings of student time management skills were higher for the treatment group than for the control group](advisor-ratings-higher-treatment-study2.md) — related
+- [Passive-mentored students rarely initiated mentor contact despite assigned availability](passive-mentoring-students-rarely-seek-contact.md) — related

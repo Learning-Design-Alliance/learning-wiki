@@ -52,3 +52,4 @@ Reliability analysis in the Methods: three evaluators independently scored an in
 - [In the 2022–2023 academic year, 164 third-year students completed 15,240 EPA observations, from which a random sample of 748 (approximately 5%) was analysed](epa-observations-volume-15240-sample-748.md) — related
 - [The most commonly omitted element of high-quality feedback in EPA narratives was actionable 'where to next' feedback, with 273 (36.5%) of observations losing this point](where-to-next-feedback-most-commonly-omitted-epa.md) — related
 - [Only diagnostic ranking shows excellent inter-rater reliability among the five scoring dimensions for evaluating ChatGPT-4 clinical responses](diagnostic-ranking-only-reliable-scoring-dimension.md) — related
+- [The Facilitation Behavioural Assessment Tool achieves suitable inter-rater reliability after short online rater training, with ICC2 of 0.73 and ICC2k of 0.89](fbat-inter-rater-reliability-icc.md) — related

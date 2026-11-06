@@ -54,3 +54,4 @@ Bootstrap mediation test in the same LSEM of 1103 Chinese college EFL learners. 
 - [TSRQ is positively associated with control and value appraisals in EFL learning](tsrq-positively-associated-with-control-value-appraisals.md) — related
 - [All measured variables (emotions, self-concept, social support, achievement) are significantly intercorrelated in the expected directions](fl-emotions-achievement-correlations.md) — related
 - [Foreign language enjoyment, boredom, and anxiety each significantly mediate the relationship between social support and English academic achievement](fl-emotions-mediate-support-achievement.md) — related
+- [Cognitive appraisals partially mediate the relationship between classroom conditions and student teachers' emotions](appraisals-partially-mediate-conditions-emotions.md) — related

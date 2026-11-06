@@ -67,3 +67,5 @@ Focus group participants described accessing high-fidelity simulation from home 
 - [Prior physical Room of Error evaluations found participants detected fewer than half of embedded hazards, with interprofessional group interaction enhancing error detection](physical-roe-hazard-detection-under-half.md) — related
 - [Rwandan medical students perceive simulation as critical for acquiring procedural skills in a relaxed, no-stakes environment and for practicing rare procedures](simulation-procedural-skills-relaxed-no-stakes.md) — related
 - [Virtual dissection tables allow students to practice procedures in a low-risk environment where errors can be recognized and virtually reverted without consequences](vdt-low-risk-error-recovery-practice.md) — related
+- [LTT is valued for practising rare technical skills, especially haemorrhage control, that learners are not otherwise exposed to in clinical practice](ltt-valued-rare-haemorrhage-skills.md) — related
+- [Simulation is limited in replicating crisis adaptation, anatomical variability, and the psychological pressures of real patient care](simulation-limits-crisis-stress-risk-replication.md) — related

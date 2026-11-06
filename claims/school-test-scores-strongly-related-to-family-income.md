@@ -97,3 +97,5 @@ Observational analysis of 2019 data for Illinois schools plotted in Figure 1, re
 - [Children reporting top grades come from systematically more advantaged socioeconomic circumstances than children reporting weaker grades, a pattern the authors relate to the Matthew effect](higher-grades-socioeconomically-better-off-matthew-effect.md) — related
 - [A negative correlation exists between PARCC growth and teacher discrepancy scores in high-poverty schools](parcc-growth-negative-correlation-discrepancy-scores.md) — related
 - [The share of low-income students in a grade is negatively associated with proficiency across all school levels](low-income-share-negative-proficiency.md) — possibly the same claim (merge candidate)
+- [The absolute drop in math performance from 3rd to 8th grade correlates positively with district income, but the relative drop correlates negatively](math-drop-absolute-relative-income-opposite-signs.md) — related
+- [District proficiency rates increase with median household income in every state examined, averaging about a 3.6% score increase per $10,000 of income](positive-income-performance-correlation-all-states.md) — related

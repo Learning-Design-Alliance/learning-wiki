@@ -87,3 +87,4 @@ Independent-samples t-test comparing male (n = 388) and female (n = 722) student
 - [Score gains from before to after the lecture did not differ significantly by sex or GPA category in a single-group pre-post study](no-sex-gpa-differences-in-score-gains.md) — related
 - [OSPE benefit scores differ by gender (females higher, P = .004) while OSCE benefit scores do not](gender-difference-ospe-benefit-score.md) — related
 - [Within the MIND model group, learning outcomes did not differ significantly by gender, locality, or employment status](mind-outcomes-consistent-gender-locality-employment.md) — a narrower finding that bears on this claim
+- [Female students rated their perceived competence higher than male students while external ratings did not differ](female-fyms-higher-perceived-competence.md) — reports the opposite

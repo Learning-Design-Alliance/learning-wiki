@@ -101,3 +101,4 @@ Content analysis of risks/limitations across the 18 included studies, coded into
 - [LLM use in dental education raises application-related challenges including ethical concerns, absence of usage guidelines, potential harm to students' knowledge and skills, and cautious stakeholder attitudes](llm-application-challenges-ethics-guidelines.md) — related
 - [Significant barriers to AI implementation include algorithmic bias, lack of transparency, data privacy concerns, unregulated use, and system limitations](ai-implementation-barriers-medical-education.md) — related
 - [The LLM gave the learner warnings, ethical advice, and feedback on their PFA performance, including psychoeducation](llm-gives-learner-feedback-and-warnings.md) — related
+- [Gender bias in LLM outputs is an emerging ethical concern for nursing education](llm-gender-bias-nursing-education-concern.md) — related

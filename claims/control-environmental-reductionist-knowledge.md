@@ -46,3 +46,4 @@ Results section of the comparative qualitative interview study (control group n=
 
 ## Related Claims
 - [Interacting with an eco-feedback LLM interface surfaces gaps in students' understanding of digital sustainability and supports learning about the environmental impact of everyday LLM use](eco-feedback-interface-supports-sustainability-learning.md) — related
+- [Cost reduction competencies focus on operational efficiency, resource optimization, and economic evaluation of digital health solutions](cost-reduction-digital-health-competencies.md) — related

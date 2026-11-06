@@ -49,3 +49,4 @@ Interview finding (Subtheme 3a); one participant requested "should be immediate 
 - [Formative participants preferred post-session debriefing over in-session interruption, with timing treated as contingent on error severity](feedback-timing-post-session-debrief-preference.md) — reports the opposite
 - [CHW trainees value real-time SP feedback and debriefing for refining MI techniques and deepening learning](chws-value-sp-feedback-and-debriefing-in-mi-simulation-training.md) — related
 - [Facilitator role and quality of structured debriefing are critical determinants of nursing students' satisfaction with simulation-based BLS training](simulation-bls-facilitator-debriefing-quality.md) — related
+- [The chorda tympani replica was interrupted in every training session, with residents damaging it earlier than specialists, and it was the least appreciated structure in participant feedback](3dst-chorda-tympani-fragility-limitation.md) — related

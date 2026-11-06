@@ -50,3 +50,4 @@ Random-effects pooling of self-directed learning skill outcomes from questionnai
 - [TBL students achieve significantly higher post-test final scores than LBL students in medical education](tbl-higher-post-test-scores-than-lbl.md) — related
 - [TBL is associated with higher theoretical knowledge scores than LBL in Chinese neurology education (SMD = 1.16)](tbl-higher-theoretical-knowledge-scores-neurology-china.md) — related
 - [In nonrandomized studies of undergraduate (5-year program) students, TBL showed a large positive effect on examination scores with reduced heterogeneity (SMD = 4.39)](tbl-undergraduate-subgroup-effect.md) — related
+- [Adoption of TBL in Korean medical schools grew from 26 of 40 schools in 2013 to 39 schools (97.5%) by 2021](tbl-adoption-growth-korean-medical-schools.md) — related

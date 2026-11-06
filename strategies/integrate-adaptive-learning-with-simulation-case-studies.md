@@ -56,6 +56,7 @@ In the discussion, the authors recommend combining pre-training occupational ada
 - [Strengthen final-year nursing preparation through competency-based, simulation-supported education focused on clinical skills, critical thinking, and ethics](competency-simulation-education-reduce-error-tendency.md)
 - [Integrate case-based learning, supervised clinical simulations and e-learning modules aligned with WHO and CDC standards into infection control curricula](integrate-case-based-simulation-elearning-ipc-training.md)
 - [Integrate SBLE into nursing curricula to strengthen emotional resilience and prepare students for clinical psychological demands](integrate-sble-nursing-curricula-burnout-strategy.md)
+- [Add dedicated research methodology, ethics, and mentoring components to case-based curricula to address competency gaps](add-research-ethics-components-to-cbl.md)
 
 ## Examples
 -

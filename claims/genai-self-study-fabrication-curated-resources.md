@@ -85,3 +85,4 @@ The review reports this comparison among negative and null results showing the r
 - [Insufficient volume and diversity of curated content limited the curation module's ability to spark exploration of new learning strategies](curation-module-insufficient-content-limited-exploration.md) — related
 - [Hallucination, fabrication and reduced explanation accuracy limit ChatGPT's potential as a medical learning tool](hallucination-and-explanation-accuracy-limit-chatgpt-learning-tool.md) — a broader claim this one bears on
 - [Students prioritise speed and specificity of answers over depth when under workbook-completion pressure, favouring ChatGPT over multi-resource searching](efficiency-prioritised-over-depth-cbl.md) — related
+- [Chatbot explanations achieved acceptable content validity (average CVI ≥0.92) despite occasional hallucinated or fabricated references](chatbot-explanations-acceptable-cvi-despite-hallucinated-references.md) — related

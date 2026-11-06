@@ -53,3 +53,4 @@ Cross-sectional quality-control assessment of 586 emergency physicians and nurse
 - [Compression-to-ventilation ratio is the only core CPR indicator with no significant theory–practice difference](cpr-ventilation-ratio-no-theory-practice-gap.md) — related
 - [Real-time feedback systems generally improve CPR quality in simulation-based training, particularly compression rate and depth](real-time-feedback-improves-cpr-quality-simulation.md) — related
 - [A 90-minute ERC-guideline BLS training in a block schedule yields acceptable short- and long-term retention of chain-of-survival activation and high-quality chest compressions](bls-block-training-effective-core-skills.md) — related
+- [Gaza doctors and nurses show significant BLS knowledge gaps in resuscitation sequence, compression depth, advanced-airway ventilation and choking response](gaza-hcw-bls-knowledge-gaps.md) — related

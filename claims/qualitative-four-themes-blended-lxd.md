@@ -52,3 +52,4 @@ Deductive thematic analysis of students' open-ended survey responses collected v
 - [Students valued flexibility and self-directed learning but desired more in-person interaction and better lecture recordings in the hybrid flipped course](student-themes-flexibility-interaction-recordings.md) — related
 - [Qualitative analysis identifies realism, usability, technical performance, social presence, and engagement as key experience themes with the VP system](qualitative-vp-experience-themes.md) — related
 - [Thematic analysis of 120 free-form comments identified four themes: improved learning experience, engagement, collaborative learning and skill development](cartooning-feedback-four-themes.md) — related
+- [Free-text student feedback on the 2021 OSCE clustered into four themes, including that the longer examination was too tiring and feedback was lacking](2021-osce-free-text-four-themes.md) — related

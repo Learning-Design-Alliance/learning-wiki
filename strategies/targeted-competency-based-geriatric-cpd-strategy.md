@@ -47,6 +47,7 @@ The article recommends designing continuing professional development (CPD) aroun
 - [Design CPD programs with hands-on skill development, ongoing reinforcement, and integration into workplace protocols](cpd-hands-on-skills-reinforcement-protocol-integration.md)
 - [Use consensus-derived teamwork competencies to develop a European curriculum for community-based interprofessional team specialists](eu-curriculum-development-from-consensus-competencies.md)
 - [Target QS graduate training programs at management and personality development, combining management content with personal image and innovative insight](qs-management-personality-training-programs.md)
+- [Expand sarcopenia coverage in medical curricula, add primary-care guidelines, and provide equipment support for screening and diagnosis](sarcopenia-curriculum-guideline-equipment-strategy.md)
 
 ## Examples
 -

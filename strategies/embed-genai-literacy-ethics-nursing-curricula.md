@@ -60,6 +60,7 @@ Under Theme Three, participants argued GenAI should be addressed deliberately in
 - [Provide explicit instruction in AI prompting and information verification alongside AI integration in laboratory courses](explicit-ai-prompting-verification-instruction.md)
 - [Mitigation strategy: AI-literacy curricula with fact-checking modules, comprehensive educator training, and transparent documentation of AI use](ai-literacy-fact-checking-mitigation-strategy.md)
 - [Embed ethics in AI capacity building using hands-on approaches, case studies, and role reversal](hands-on-case-study-ai-ethics-training.md)
+- [Structured frameworks can guide effective and ethical LLM integration in nursing education](frameworks-guiding-llm-integration-nursing-education.md)
 
 ## Examples
 -

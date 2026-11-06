@@ -50,3 +50,4 @@ Pretest-posttest pilot with 26 fourth-year stomatology undergraduates using the 
 - [Hybrid simulation-based training yields higher post-intervention suturing skill scores than routine mannequin training (P = 0.013, Cohen's d > 0.80)](hybrid-simulation-higher-suturing-scores-than-routine-training.md) — related
 - [Cumulative exposure (total simulation time and repetitions) shows no significant association with final suturing performance](exposure-not-associated-with-suturing-proficiency.md) — reports the opposite
 - [Performance scores increased significantly with surgical experience, demonstrating strong construct validity](construct-validity-performance-scores-experience.md) — related
+- [RTS-trained students scored significantly higher than controls on both theoretical and drawing tests of RPD framework design (Cohen d = 1.1)](rts-improves-rpd-design-test-scores.md) — related

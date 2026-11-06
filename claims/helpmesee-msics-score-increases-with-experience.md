@@ -49,3 +49,4 @@ Prospective monocentric study of 47 surgeons in five experience groups completin
 - [Simulator penalties decrease with ophthalmic experience, significantly for Run 2 only](helpmesee-msics-penalties-decrease-with-experience.md) — related
 - [The EyeSi Surgical Simulator can differentiate VRS novices from experts, providing construct validity evidence](eyesi-differentiates-novices-from-experts-vrs.md) — related
 - [Surgical technique subcomponents of the rating scale discriminate PGY levels better than non-technical subcomponents](technical-subcomponents-greater-discernibility.md) — a narrower finding that bears on this claim
+- [HelpMeSee users report longer, more supervised training and higher perceived impact than EyeSi users](hms-users-longer-supervised-training-higher-impact.md) — related
