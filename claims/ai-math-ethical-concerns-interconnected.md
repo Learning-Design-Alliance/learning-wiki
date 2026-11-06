@@ -99,3 +99,4 @@ Review synthesis on the digital access gap [S21, G26]: without measures to broad
 - [Four recurrent risks accompany GenAI personalization in higher-education CS: academic integrity, privacy, bias and equity, and over-reliance, each with operational mitigation](genai-personalization-risks-mitigation.md) — related
 - [Significant barriers to AI implementation include algorithmic bias, lack of transparency, data privacy concerns, unregulated use, and system limitations](ai-implementation-barriers-medical-education.md) — related
 - [Institutional inequity and data governance gaps may widen existing disparities and compromise privacy without explicit safeguards](ai-formative-assessment-equity-data-governance-risk.md) — related
+- [Gender bias in LLM outputs is an emerging ethical concern for nursing education](llm-gender-bias-nursing-education-concern.md) — related

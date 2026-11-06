@@ -64,3 +64,4 @@ Univariate ANOVAs across TEDS continuous variables; the article reports sex expl
 - [Age and gender did not significantly predict academic self-efficacy in the structural model](age-gender-null-predictors-ase.md) — reports the opposite
 - [Males scored significantly lower than females on skills scores one year after implementation, independent of other factors](males-lower-one-year-skill-scores.md) — related
 - [Gender differences in anxiety and satisfaction: female students scored higher on satisfaction (significant only in the intervention group) and male students higher on state anxiety](gender-differences-anxiety-satisfaction-simulation.md) — related
+- [Age and gender are associated with baseline motivation and Session 1 performance among preservice teachers](age-gender-associated-with-preservice-motivation.md) — related

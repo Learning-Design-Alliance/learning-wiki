@@ -84,3 +84,4 @@ Same blinded simulated interview assessment; Table 3 reports empathy 4.02 ± 0.6
 - [Among GPs and internists, test-based clinical decision-making scores and pass rates rose from pre-test to post-test after informed AI use following a tailored AI training course, in one uncontrolled pre-post study](informed-ai-use-raises-clinical-competence-scores.md) — related
 - [Student performance with virtual patients correlates only weakly and non-significantly with performance with human standardized patients](vp-concurrent-validity-weak-correlation.md) — related
 - [Students rate their own empathy higher than standardized patients rate them](students-rate-empathy-higher-than-sps.md) — related
+- [Nursing students' patient and injury assessment skills, including emotional, nutritional and history-taking items, rose from pre-test to post-test after clinical simulation in one uncontrolled pre-post study](simulation-improves-wound-patient-assessment-skills.md) — related

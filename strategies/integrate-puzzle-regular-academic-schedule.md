@@ -46,6 +46,7 @@ The article recommends scheduling Puzzle activities within standard teaching ses
 - [Integrate tutoring into the regular school day rather than scheduling it outside instructional time](integrate-tutoring-into-regular-school-day.md)
 - [Embed new solutions into existing operations and procedures to sustain and scale them](embed-solutions-existing-operations.md)
 - [Classroom Physical Activity Integration](classroom-physical-activity-integration.md)
+- [Embed whole-class computerized SEL activities as a universal, cost-effective supplement to PSHE provision](whole-class-computerized-sel-universal-provision.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Analytical result from the article's qualitative value-critical analysis of cont
 - [A goal gap misaligns the measurable-performance aims promoted by current technologies with education's broader developmental aims](goal-gap-performance-vs-development.md) — a broader claim this one bears on
 - [Most ITS applications augment existing mathematics teaching practices rather than transform instruction, indicating technological sophistication does not independently determine pedagogical value](its-applications-augment-not-transform.md) — related
 - [The article argues current AI tools focus on the products of learning rather than the human process of learning](ai-focus-products-not-processes.md) — related
+- [Cost reduction competencies focus on operational efficiency, resource optimization, and economic evaluation of digital health solutions](cost-reduction-digital-health-competencies.md) — related

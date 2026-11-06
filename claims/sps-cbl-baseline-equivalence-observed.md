@@ -51,3 +51,4 @@ Baseline comparison in the retrospective controlled study found "no significant 
 - [GAD-7 scores were lower in the intervention group at 1 and 3 months after on-call initiation](sps-cbl-lower-gad7-early-followup.md) — related
 - [Before the intervention, the experimental and control groups did not differ significantly in self-efficacy toward science education](pretest-equivalence-self-efficacy-groups.md) — related
 - [Junior pediatric surgeons who received SPS plus online CBL had significantly lower SAS scores than the control group at 1 month after on-call initiation](sps-cbl-lower-sas-one-month.md) — related
+- [Before the intervention, intervention and control groups did not differ significantly in crisis management score (P = 0.761)](earthquake-simulation-training-baseline-equivalence.md) — related

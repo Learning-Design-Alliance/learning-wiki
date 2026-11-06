@@ -57,3 +57,4 @@ Exploratory correlation analyses in the same correlational study (N = 67) using 
 - [Critical-ethical awareness plays a dual role: it negatively predicts general GenAI reliance but positively predicts shortcut reliance](critical-ethical-awareness-dual-role-reliance.md) — related
 - [GenAI dependence is negatively associated with both self-reported critical-thinking disposition and self-perceived employability](genai-dependence-negative-both-outcomes.md) — related
 - [AI-based educational technology use is positively associated with critical thinking among undergraduate medical students](ai-use-positively-associated-critical-thinking-medical-students.md) — related
+- [Previous academic interest does not positively predict subsequent need for cognition, with one negative exception for English interest at T1](interest-does-not-predict-subsequent-nfc.md) — related

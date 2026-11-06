@@ -48,3 +48,4 @@ Spearman correlation analysis (Table 4) of STAI scores with the satisfaction and
 - [Gender differences in anxiety and satisfaction: female students scored higher on satisfaction (significant only in the intervention group) and male students higher on state anxiety](gender-differences-anxiety-satisfaction-simulation.md) — related
 - [Student satisfaction correlates positively with self-confidence and negatively with somatic and cognitive anxiety](satisfaction-correlates-self-confidence-anxiety.md) — related
 - [Non-learners show higher state anxiety than learners, but trait anxiety does not differ between groups](non-learners-higher-state-anxiety-trait-unchanged.md) — related
+- [Post-intervention self-reported state anxiety (STAI) did not significantly differ between the simulation-intervention and control groups](stai-no-difference-post-simulation.md) — related

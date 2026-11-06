@@ -52,3 +52,4 @@ Weighted ranking survey of all 112 trainees, with 10 points for first rank down 
 - [Applying learning roadmaps across universities showed junior students lack readiness for self-educational activity in blended learning, while senior students embrace blended learning principles yet prefer traditional forms](junior-senior-readiness-blended-learning-roadmaps.md) — related
 - [3D-printed pediatric chest model with embedded force sensors distinguished skill levels where a conventional box trainer did not](takazawa-chest-model-skill-differentiation.md) — related
 - [Learning curves showed proficiency gains with inflection points at session 6 (juniors) and session 4 (intermediates)](learning-curve-cusum-inflection-points.md) — related
+- [A minority of participants disliked the simulation modality and preferred alternative learning approaches](vital-coms-minority-dislike-simulation.md) — related

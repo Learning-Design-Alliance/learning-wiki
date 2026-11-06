@@ -51,3 +51,5 @@ Language-based performance analysis in which the same 100 questions were adminis
 - [Gemini 2.5 Pro significantly outperformed GPT-5 on EDAIC questions as the only significant pairwise difference after Holm correction](gemini-outperformed-gpt5-edaic-pairwise.md) — related
 - [Comparable accuracy between ChatGPT and Gemini masks markedly different confidence patterns](comparable-accuracy-does-not-imply-comparable-confidence.md) — related
 - [LLMs gave identical responses to Korean and English versions of the questions, suggesting consistent reasoning across languages](llm-identical-responses-korean-english-questions.md) — related
+- [ChatGPT-o1pro shows higher response consistency on Turkish questions (κ = 0.836) than English questions (κ = 0.689), while AtlasGPT and ChatGPT-4 remain balanced across languages](language-specific-consistency-turkish-english.md) — related
+- [No statistically significant interlingual variation for either chatbot answering the same questions in Turkish versus English](no-interlingual-variation-chatbot-ophthalmology-mcq.md) — related

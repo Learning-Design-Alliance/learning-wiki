@@ -77,3 +77,4 @@ The review reports a randomized-control trial with 18 of 35 Head Start classroom
 - [SEL programs with explicit skill teaching and regular practice can promote preschool EF, possibly including inhibitory control](sel-programs-preschool-ef-efficacy.md) — related
 - [SEL (PATHS) behavior improvements in low-income kindergartners persisted a year post-program, especially for children with lower baseline heart rate variability](paths-sustained-benefits-low-hrv.md) — related
 - [Curricular interventions including Tools of the Mind and Promoting Alternative Thinking Strategies can improve preschoolers' EF skills](curricular-interventions-improve-preschool-ef.md) — a broader claim this one bears on
+- [SEE+ training improves 7- to 10-year-olds' performance on socio-emotional emotion recognition and theory of mind tasks relative to active and teaching-as-usual controls](see-plus-improves-socio-emotional-task-performance.md) — related

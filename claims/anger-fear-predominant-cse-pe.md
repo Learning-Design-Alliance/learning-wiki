@@ -52,3 +52,4 @@ Theme Analysis of the narratives found anger and fear the most prevalent CSE emo
 - [Fear sources before physics lessons shifted: fear of written tests decreased while examination-related fears dominated](physics-lesson-fear-sources-shift.md) — related
 - [Group risk-sharing removes personal humiliation and eases writing anxiety](group-credit-reduces-humiliation-anxiety.md) — related
 - [Pressure to achieve high grades was the most common anxiety trigger among clinical-year students](grade-pressure-top-anxiety-trigger.md) — related
+- [Student teachers experience enjoyment as the predominant emotion during practicum lessons, with intense anxiety in about 14% of lessons](student-teachers-enjoyment-predominant-anxiety-14-percent.md) — related

@@ -61,3 +61,4 @@ Intervention adherence assessed using platform-generated learning records and in
 - [Lay health care workers report high engagement with and satisfaction toward blended digital training in low-resource settings](digital-training-high-engagement-satisfaction.md) — related
 - [All 32 certified perinatal professionals completed the self-directed NCPR-VR workflow (100% completion rate)](ncpr-vr-100-percent-completion.md) — related
 - [Mandated multi-role rotation and full attendance in the participatory simulation phase achieved complete learner engagement](multi-role-rotation-full-engagement.md) — related
+- [First-year medical students who completed an integrated blended-learning course scored higher on a video-based shoulder examination than students in a lecture-and-self-study control group](integrated-blended-learning-improves-shoulder-exam-performance.md) — related

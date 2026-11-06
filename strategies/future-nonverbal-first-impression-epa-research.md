@@ -45,7 +45,8 @@ The authors recommend that future research move beyond the Duchenne smile to oth
 - [Perceived trustworthiness of a simulated trustee is positively correlated with ad hoc entrustment decisions in medical scenarios](../claims/trustworthiness-positively-correlated-ad-hoc-entrustment.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Make teaching entrustment explicit through direct observation, didactic training, and inclusion of teaching EPAs in training programs](explicit-teaching-entrustment-with-didactic-training.md)
 
 ## Examples
 -

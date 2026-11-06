@@ -68,3 +68,4 @@ The discussion reports the log-data learning-time contrast between perception gr
 - [Students who perceive teaching as good, and perceive clear goals, supportiveness and relevant courses, are more inclined towards a deep approach](perceived-teaching-quality-deep-approach.md) — a broader claim this one bears on
 - [Students adopting a preparation-oriented log-data approach earned significantly higher course marks and spent more online time than assessment-oriented students](preparation-oriented-approach-higher-marks.md) — related
 - [Self-reported data identify two clusters of students in a flipped classroom, one using a deep approach more frequently and one using a surface approach more frequently](self-report-deep-surface-clusters-flipped-classroom.md) — related
+- [Intervention students spent about 2 more hours in the course than controls, without higher perceived stress](intervention-cost-two-extra-hours-no-stress-increase.md) — related

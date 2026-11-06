@@ -65,3 +65,4 @@ Study 2 reliability and validity analysis. "AVE values ranged from .60 to .66, s
 - [The HSPNCS demonstrates excellent internal consistency (Cronbach's alpha 0.967)](hspncs-high-internal-consistency.md) — related
 - [The ICCAS showed satisfactory internal consistency in this study despite slight post-test declines in some domains](iccas-reliability-satisfactory-post-test-declines.md) — related
 - [The VR camera navigation test shows high internal consistency (Cronbach's α = 0.88) and test–retest reliability (r = 0.84)](camera-navigation-test-high-reliability.md) — related
+- [Questionnaire subscales show high internal consistency with Cronbach's alpha ranging from 0.86 to 0.89](see-questionnaire-subscales-alpha-086-089.md) — related

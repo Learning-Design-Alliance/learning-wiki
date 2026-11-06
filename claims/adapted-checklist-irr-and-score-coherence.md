@@ -51,3 +51,5 @@ Reliability analysis within the same RCT: two trained raters scored each session
 - [Most variables of the START-Play fidelity measure show good to excellent interrater reliability, with ICCs ranging from 0.77 to 0.95](start-play-fidelity-icc-077-095.md) — related
 - [Global rating scores correlate strongly positively with checklist scores (r = 0.78)](global-rating-checklist-correlation-cvc.md) — related
 - [Remote AR simulation is noninferior to traditional in-person simulation for team leader checklist performance in a VF cardiac arrest scenario](remote-ar-noninferior-checklist-team-leader-performance.md) — related
+- [Calibrated dentist ratings of appliance quality showed good interrater reliability (ICC = 0.826)](good-interrater-reliability-calibrated-dentist-appliance-ratings.md) — related
+- [Simulation-based assessment scoring shows strong inter-rater reliability (ICC 0.77–0.84) and internal consistency (Cronbach's alpha 0.83) across raters and scenarios](hfscoring-reliability-icc-alpha.md) — related

@@ -52,3 +52,4 @@ Pre-post evaluation of a three-session EBM and critical appraisal course for 4th
 - [An online EBM course integrated with clinical clerkships significantly improved question development, sources of evidence, and search strategies scores among medical students](online-ebm-course-domain-gains.md) — related
 - [A longitudinal small-group EBM intervention improved medical students' overall attitudes and skills scores across three assessment points over 15 months](longitudinal-small-group-attitudes-skills-gains.md) — related
 - [Both game-based blended learning and interactive lecture produce significant pre-to-post EBM competency gains](both-groups-significant-ebm-gains.md) — related
+- [Baseline self-confidence moderates knowledge gains, with somewhat confident and neutral nurses improving most and very confident nurses least](baseline-confidence-moderates-sdl-ecg-gains.md) — related

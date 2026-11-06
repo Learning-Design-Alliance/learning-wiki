@@ -85,3 +85,4 @@ Thematic synthesis of 155 studies (2019–2024) retrieved via PRISMA procedures;
 - [The review finds that pedagogical innovations in digital environments improved motivation, self-regulation, academic performance, and digital skills in higher education](pedagogical-innovation-digital-environments-gains-higher-education.md) — related
 - [Integration of educational technology and digital tools enhances teaching and enables rapid feedback in virtual university environments](educational-technology-integration-enhances-teaching-feedback.md) — a broader claim this one bears on
 - [Student-centered approaches yield enhanced teaching readiness, academic performance, engagement, and self-assessment abilities](student-centered-approach-multiple-advantages.md) — related
+- [Six antecedents must precede LLM use in nursing education, including technological infrastructure and AI acceptance](llm-nursing-education-antecedents.md) — related

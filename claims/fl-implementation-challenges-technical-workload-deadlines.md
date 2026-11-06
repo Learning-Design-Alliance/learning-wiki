@@ -51,3 +51,4 @@ Content analysis of the eight interviews; Table 1 reports all three implementati
 - [Teachers perceived the AIED-U system as a mixed experience: valued exercise lists and reports, but recognition imprecision and workflow demands added work](teachers-mixed-perception-aied-u-system.md) — related
 - [Teachers identified time demands, class size, and curriculum coverage requirements as the main obstacles to differentiating instruction](di-obstacles-time-class-size-curriculum.md) — related
 - [Saudi nursing students perceived pre-class assignments in flipped learning as deepening their understanding of course content](fl-preclass-assignments-deepened-understanding-nursing.md) — related
+- [Qualitative theme: minor technical issues (echo, login difficulties) reported by two participants formed a distinct barrier theme in the MHW TBL session](mhw-tbl-technical-challenges-theme.md) — related

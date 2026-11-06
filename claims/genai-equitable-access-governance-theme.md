@@ -68,3 +68,4 @@ Grounded-coding finding from the Delphi panel: "Panelists voiced concern that wi
 - [Privacy and data protection was a critical governance theme, raised by over half the expert panel](privacy-data-protection-genai-governance-theme.md) — related
 - [Institutional inequity and data governance gaps may widen existing disparities and compromise privacy without explicit safeguards](ai-formative-assessment-equity-data-governance-risk.md) — related
 - [Panelists identified cultural competence, equity, and a student-centered mindset as a core collaboration domain, including trauma-informed approaches](smh-collab-cultural-competence-equity-domain.md) — related
+- [Health equity competencies emphasize inclusivity, cultural safety, and elimination of digital divides](health-equity-digital-health-competencies.md) — related

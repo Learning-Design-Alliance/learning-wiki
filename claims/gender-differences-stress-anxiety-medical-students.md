@@ -52,3 +52,4 @@ Cross-sectional survey of 192 students (132 women, 60 men) disaggregated by gend
 - [Students with very low trait anxiety report more sport, less benzodiazepine use and less psychological follow-up than those with high/very high trait anxiety.](low-trait-anxiety-coping-profile-differences.md) — related
 - [The TSST-G stress induction increased negative affect and cortisol relative to control](tsst-g-manipulation-check-affect-cortisol.md) — related
 - [Female students report significantly higher trait anxiety than male students](female-students-higher-trait-anxiety.md) — related
+- [Female participants significantly outperformed male participants in total scores, specimen preparation, and microscopic examination](sex-differences-competency-hainan.md) — related

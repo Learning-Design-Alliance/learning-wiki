@@ -62,3 +62,4 @@ Psychometric analysis in Validation Study 1 (N = 99 teacher education and psycho
 - [The FOI test shows high internal consistency reliability (Cronbach's α = 0.89)](foi-test-internal-consistency-cronbach-alpha-089.md) — related
 - [The ICO-OCEX demonstrated high internal consistency with an overall Cronbach's alpha of 0.995](ico-ocex-internal-consistency-high-alpha.md) — related
 - [The adapted MIQ shows excellent internal consistency in this sample (Cronbach's alpha 0.90 at baseline and 0.88 post-workshop)](adapted-miq-internal-consistency-pvc.md) — related
+- [Translated and adapted questionnaires showed good reliability for SRIS, PCS and CS but weak separation of SRQ-L-PJ regulation subscales](questionnaire-psychometrics-german-fyms.md) — related

@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 163 claims (112 show a difference, 37 mixed, 14 no difference) · 86 studies (44 associational, 24 causal, 11 review, 2 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 24 of 86 report an effect size · 160 claims rest on one study
+> **Evidence** · 164 claims (113 show a difference, 37 mixed, 14 no difference) · 87 studies (44 associational, 24 causal, 11 review, 3 qualitative, 2 quant-synthesis, 2 design, 1 theoretical), `q1`–`q4` · 24 of 87 report an effect size · 161 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -198,6 +198,7 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [School climate partially mediates the link between academic self-concept and psychological truancy](../claims/school-climate-mediation-asc-truancy.md) [+W] — learners who differ on it differ in outcomes
 - [English academic self-concept did not significantly moderate the association of social support with foreign language boredom](../claims/boredom-path-not-moderated-by-self-concept.md) [-M] — an instructional effect differs with it
 - [Physical activity, self-concept, physical-mental health, and academic achievement are all significantly positively intercorrelated (N = 458)](../claims/pa-sc-pmh-aa-positive-correlations.md) [+M] — learners who differ on it differ in outcomes
+- [Students perceived the problematization methodology as enabling student-centered problem-solving and transforming their perceptions of their problem-solving abilities.](../claims/problematization-methodology-student-centered-problem-solving-perceptions.md) [+M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

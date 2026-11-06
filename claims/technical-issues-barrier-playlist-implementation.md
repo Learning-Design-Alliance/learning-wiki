@@ -104,3 +104,5 @@ Observational and interview study of four after-school sites; educators reported
 - [VSG students reported predominantly positive views of the game, with technical glitches the most common criticism](vsg-student-opinions-positive-with-technical-glitches.md) — related
 - [First-year AI simulation deployment faced operational challenges: unstable Wi-Fi disrupted sessions, background noise interfered with speech recognition, and missing dynamic nonverbal cues reduced realism](ai-sim-operational-challenges-uae.md) — related
 - [Students reported implementation challenges with flipped learning: technical difficulties, workload, and deadlines](fl-implementation-challenges-technical-workload-deadlines.md) — related
+- [Qualitative theme: minor technical issues (echo, login difficulties) reported by two participants formed a distinct barrier theme in the MHW TBL session](mhw-tbl-technical-challenges-theme.md) — related
+- [Virtual escape rooms face challenges of technical malfunction, low survey response rates, missing in-person moderators, and narrow topical focus](virtual-escape-room-challenges.md) — related

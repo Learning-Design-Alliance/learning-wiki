@@ -50,3 +50,4 @@ Linear mixed model testing whether Theory of Mind scores were predicted by the a
 - [Theory of Mind skills differed substantially across the three populations, with German children scoring highest and Ovambo children lowest](theory-of-mind-scores-vary-across-populations.md) — related
 - [The link between children's affect index and their subsequent collaboration preferences varied with age, with the two proxies for social motivation becoming dissociated in older children](affect-preference-link-dissociates-with-age.md) — related
 - [Children expressed more positive emotions in trials with high rewards compared to low rewards, validating the affect coding scheme](reward-value-validated-affect-coding.md) — related
+- [SEE+ training improves 7- to 10-year-olds' performance on socio-emotional emotion recognition and theory of mind tasks relative to active and teaching-as-usual controls](see-plus-improves-socio-emotional-task-performance.md) — related

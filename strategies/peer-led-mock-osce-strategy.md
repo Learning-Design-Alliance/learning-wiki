@@ -52,6 +52,7 @@ The strategy engages students in designing and administering a mock OSCE one wee
 
 - [Offer a peer-led practice day before the OSCE to support skills training and simulated station practice.](peer-led-practice-day-osce-preparation.md)
 - [Implement anxiety-coping programs and orientation sessions before OSCE examinations](pre-osce-anxiety-coping-orientation-strategy.md)
+- [Enhanced OSCE-specific preparation with realistic simulation sessions to reduce anxiety and improve performance](enhanced-osce-simulation-preparation.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ The review reports, citing Gong et al. and a systematic review, that female trai
 - [Technical skill assessments show mixed gender effects, with initial task differences disappearing after training and no evidence that stereotype threat impairs female performance](technical-skills-gender-mixed-training-erases-gaps.md) — related
 - [Male surgical novices had significantly greater anthropometric measurements than female novices](male-novices-greater-anthropometric-measurements.md) — related
 - [Most trainees never performed several procedures: 90% skipped intraosseous access, 88.5% skipped paracentesis](most-trainees-skip-rare-procedures.md) — related
+- [Female surgeons trained longer on simulators while male surgeons had performed more cataract surgeries](gender-differences-simulator-time-versus-surgical-volume.md) — a narrower finding that bears on this claim

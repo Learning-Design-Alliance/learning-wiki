@@ -47,3 +47,4 @@ Mann Whitney test on pretest-posttest N-gain scores of 31 male and 34 female stu
 ## Related Claims
 - [Courseware on the discontinuous nature of matter increases junior high students' understanding of the particle concept for both male and female students](courseware-particle-concept-understanding-gains.md) — related
 - [Gains in drawing the sub-microscopic level of changing states of matter after a courseware unit did not differ significantly between male and female students](courseware-reduces-visual-spatial-gender-gap.md) — related
+- [Knowledge improvement after the SDL package does not differ significantly by gender](no-gender-difference-sdl-ecg-knowledge-gain.md) — related

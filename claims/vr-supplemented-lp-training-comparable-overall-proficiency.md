@@ -50,3 +50,5 @@ Randomized controlled trial of 88 medical students randomly assigned to CT (N=45
 - [VR-supplemented and purely conventional training produce no significant difference on the Standard Lumbar Puncture Rating Score or total procedure time](vr-lp-training-rating-score-and-time-null.md) — related
 - [No statistically significant difference in procedural performance between VR and slideshow lecture groups](vr-slideshow-similar-procedural-performance-usg-lp.md) — related
 - [Students who received VR-supplemented LP training report higher interest in LP and higher training satisfaction than conventionally trained students](vr-training-higher-interest-and-satisfaction.md) — related
+- [AR and haptic feedback simulation training did not significantly improve lumbar puncture success rates compared to traditional bedside teaching](ar-simulation-no-lp-success-rate-improvement.md) — related
+- [Complication rates were low and comparable between simulation-trained and conventionally trained students](lp-complications-comparable-simulation.md) — related

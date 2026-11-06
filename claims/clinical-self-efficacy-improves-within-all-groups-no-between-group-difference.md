@@ -70,3 +70,4 @@ Between-group ANOVA of change scores reported in the Results section. The study 
 - [Self-efficacy and performance goal motivation did not change significantly in any of the three groups](no-change-self-efficacy-performance-goal.md) — reports the opposite
 - [AI-supported scenario training improves rehabilitation students' digital competence more than traditional-only training](ai-scenario-training-improves-digital-competence-rehabilitation-students.md) — related
 - [Within the experimental group, self-efficacy rose significantly from pretest to posttest and follow-up, with no significant drop from posttest to follow-up](experimental-group-within-group-self-efficacy-gain.md) — related
+- [Both course formats reduced self-reported learning needs and improved multiple-choice knowledge scores, with no significant between-group differences](both-groups-reduced-learning-needs-mcq-gains.md) — related

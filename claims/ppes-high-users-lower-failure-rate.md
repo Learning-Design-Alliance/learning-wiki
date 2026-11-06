@@ -47,3 +47,4 @@ Unmatched comparison of the 2022 cohort's OSCE outcomes; median scores were 77.8
 ## Related Claims
 - [Female students and higher previous-year achievers were more likely to be high users of the PPES course](ppes-course-use-predictors-female-achievers.md) — related
 - [High users of the PPES online course scored an average of 7.0 percentage points higher on the paediatrics OSCE station than low users after propensity score matching](ppes-high-users-osce-7-point-ate.md) — related
+- [The 8-station 96-minute 2021 OSCE achieved a total mean mark similar to the pre-pandemic 16-station 128-minute 2019 OSCE, with only Paediatrics lower](covid-2021-96-minute-osce-similar-to-2019.md) — related

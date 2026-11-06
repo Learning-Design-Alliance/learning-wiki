@@ -54,3 +54,4 @@ Content validity evaluation from the expert consultation stage, in which 20 expe
 - [Content validity of the EVD KAP questionnaire is satisfactory, with I-CVI from 0.861 to 1.000 and S-CVI of 0.950](evd-kap-scale-content-validity.md) — related
 - [Expert-rated content validity of the scale is strong, with item-level CVI of 0.80 to 1.00 and scale-level CVI of 0.96](endoscopy-nurse-scale-content-validity.md) — related
 - [The ICO-OCEX achieved strong content validity through a modified Delphi technique with expert consensus on all 33 items](ico-ocex-content-validity-delphi-consensus.md) — related
+- [Expert consultation rated the CCDNS-DRN with excellent content validity (I-CVI 0.78–1.0, S-CVI/UA 0.85, S-CVI/Ave 0.98)](ccdns-drn-content-validity-expert-consultation.md) — related

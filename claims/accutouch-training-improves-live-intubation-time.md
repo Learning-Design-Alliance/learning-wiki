@@ -58,3 +58,4 @@ Review synthesis of Rowe (2002), a predictive-validity evaluation of the AccuTou
 - [Mean intubation time fell from 149.81±108 sec before to 51±96 sec after the simulation session in one uncontrolled pre-post study (p<0.001)](simulation-reduces-vl-intubation-time.md) — related
 - [Simulation-based training transferred to real clinical settings: the simulator group improved on assessments with pregnant volunteers from 53.5 ± 8.8 to 74.1 ± 12.0](sbme-transfers-to-real-clinical-obstetric-ultrasound-performance.md) — related
 - [A 40-minute AI-guided simulation-based training intervention did not significantly improve clinical bronchoscopy performance in intermediate and experienced bronchoscopists](ai-simulation-training-no-clinical-bronchoscopy-gain.md) — related
+- [VR bronchoscopy simulator training improves medical staff intubation skills and reduces complications](vr-bronoscopy-intubation-skills.md) — a broader claim this one bears on

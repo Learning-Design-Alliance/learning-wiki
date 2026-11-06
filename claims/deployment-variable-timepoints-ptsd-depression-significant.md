@@ -52,3 +52,4 @@ The review's meta-analysis at other (variable) time points since exposure, compa
 - [For assessments taken less than 24 months since exposure, the evidence on deployment effects on mental health is inconclusive](deployment-short-term-evidence-inconclusive.md) — related
 - [At other (variable) time points since exposure, deployed personnel do not have higher odds of screening positive for substance use than non-deployed personnel](deployment-substance-use-null-variable-timepoints.md) — related
 - [Long-term prevalence of post-deployment mental health problems is expected to exceed pre-deployed/non-deployed baseline ranges across all four outcome domains](deployment-long-term-prevalence-ranges-exceed-baseline.md) — related
+- [During the war in Ukraine, the large majority of surveyed university students screened positive for depression, anxiety, sleep problems and PTSD symptoms](ukrainian-wartime-student-mental-health-prevalence.md) — related

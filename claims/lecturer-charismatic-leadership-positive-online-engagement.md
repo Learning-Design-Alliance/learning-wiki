@@ -49,3 +49,4 @@ Survey of 659 US higher education students analyzed with covariance-based SEM; p
 - [Lecturer technology use is positively related to student online cognitive, emotional, and behavioral engagement](lecturer-technology-use-positive-online-engagement.md) — related
 - [Student online engagement (cognitive, emotional, behavioral) positively predicts learning performance and satisfaction](online-engagement-predicts-performance-satisfaction.md) — related
 - [Student self-efficacy moderates the relationship between lecturer charismatic leadership and behavioral engagement, with stronger effects for lower self-efficacy students](self-efficacy-moderates-charismatic-behavioral-engagement.md) — related
+- [Academic engagement relates to auto-perceived academic performance but not to auto-perceived score](engagement-related-to-pap-not-oap.md) — related

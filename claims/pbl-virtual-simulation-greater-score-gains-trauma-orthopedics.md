@@ -63,3 +63,4 @@ Within-group before-to-after score gains in the same assessor-blinded RCT of 50 
 - [AI-supported PBL produced significantly greater gains in AI self-efficacy than traditional PBL, with a very large between-group effect (Cohen's d = 1.78)](ai-pbl-greater-ai-self-efficacy-gains.md) — related
 - [Written examination scores improved substantially after simulation-based learning, with the largest effect size of the three assessment components](sbl-improves-written-exam-scores-pediatrics.md) — related
 - [Simulation-platform trainees rated their theoretical knowledge acquisition and operational-skill improvement more favorably than controls](simulation-platform-higher-self-assessed-knowledge-and-skills.md) — related
+- [DVRS students reported the simulator relieved procedural anxiety, honed operational skills, and boosted confidence for clinical practice](dvrs-anxiety-skills-confidence-ratings.md) — related

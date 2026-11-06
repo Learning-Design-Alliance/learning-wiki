@@ -50,3 +50,4 @@ Reflective learning theme from the thematic analysis of questionnaire responses 
 - [Medical students valued debriefing sessions after VR training as key opportunities for reflection and consolidating learning](debriefing-valued-reflection-consolidation-vr.md) — related
 - [Peer observation and structured debriefing are perceived by students as key opportunities for reflection and learning during simulation](debriefing-peer-observation-reflection.md) — related
 - [Structured debriefings enabled all scenario participants to reflect on and discuss their performance with constructive instructor feedback](three-phase-debriefing-reflection-feedback.md) — related
+- [Debriefing and reflection are absent from LTT courses, and participants did not report on these known benefits of simulation training](ltt-debriefing-absent.md) — related

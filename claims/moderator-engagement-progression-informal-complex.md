@@ -48,3 +48,4 @@ Qualitative theme observed consistently across the cycles of the CFC Learning Hu
 - [Iterative prompt refinement shifted a generative-AI tutor from tutorial-style explanation delivery toward dialogic Socratic support for K-12 beginners](prompt-refinement-shifts-genai-toward-socratic-support.md) — related
 - [Teacher support with real-time labs requires adaptive expert input that closes cognitive, social, and design gaps](adaptive-expert-teacher-closes-gaps-real-time-labs.md) — related
 - [Moderators fostered participation through personalized prompts, affirming language, welcoming tone, and balanced encouragement frequency](moderator-participation-encouragement-techniques.md) — related
+- [The CRI:SIS intervention was iteratively adapted 22 times over 12 months in response to evolving COVID-19 guidelines](crisis-iterative-guideline-adaptations.md) — related

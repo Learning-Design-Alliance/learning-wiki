@@ -53,3 +53,5 @@ Task-trainer performance evaluation after the lecture in the randomized trial: C
 - [VR-supplemented and purely conventional training produce no significant difference on the Standard Lumbar Puncture Rating Score or total procedure time](vr-lp-training-rating-score-and-time-null.md) — related
 - [Adding 10 minutes of VR training to conventional training yields overall LP proficiency comparable to 30 minutes of purely conventional training in preclinical medical students](vr-supplemented-lp-training-comparable-overall-proficiency.md) — related
 - [Operative time does not differ between training groups for successful implant insertions, despite a medium-sized non-significant difference](haptic-vr-operative-time-successful-null.md) — related
+- [AR and haptic feedback simulation training did not significantly improve lumbar puncture success rates compared to traditional bedside teaching](ar-simulation-no-lp-success-rate-improvement.md) — related
+- [Simulation-trained students performed lumbar punctures faster than bedside-trained students, though the difference was not statistically significant](ar-simulation-shorter-procedure-duration.md) — related

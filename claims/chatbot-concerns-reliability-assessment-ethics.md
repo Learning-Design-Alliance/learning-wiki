@@ -66,3 +66,5 @@ Narrative synthesis in the concerns section of the review. The review reports ch
 - [Students broadly endorse LLMs as educational aids (74% positive) while 61% raise integrity concerns, 59% cite hallucination risk, and 82% report no institutional guidance](student-llm-perceptions-no-guidance-majority.md) — related
 - [Free-text comments raised fairness concerns about pairing with a weaker partner and technical and organizational issues with the digital format](whisper-exam-fairness-and-digital-format-criticisms.md) — related
 - [Perceptions of the group simulation assessment's fairness varied, with concerns about grading subjectivity, uneven group participation and emotional intensity](fairness-perceptions-varied-grading-subjectivity.md) — related
+- [Gender bias in LLM outputs is an emerging ethical concern for nursing education](llm-gender-bias-nursing-education-concern.md) — related
+- [Potential negative consequences of LLM use in nursing education include academic integrity concerns, inaccurate output, bias, and over-reliance](llm-nursing-education-negative-consequences.md) — related

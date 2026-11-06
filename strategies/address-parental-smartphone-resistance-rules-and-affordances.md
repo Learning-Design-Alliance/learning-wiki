@@ -46,6 +46,7 @@ The article recommends that schools prepare to "deal with parental resistance an
 ## Related Strategies
 
 - [Schools should consider parents' socioeconomic status, provide necessary information, and support training for effective technology-integrated partnerships](schools-support-training-information-partnerships.md)
+- [Reduce classroom smartphone use and strengthen resilience while lowering test anxiety to support secondary students' achievement](reduce-smartphone-use-build-resilience-lower-test-anxiety-strategy.md)
 
 ## Examples
 -

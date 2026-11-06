@@ -55,3 +55,4 @@ Quasi-experimental study (Omlor et al., 2022) summarized in the review's VR tabl
 - [VR and conventional teaching produce equivalent short-term learning success in a quasi-randomized field experiment](vr-unit-equivalent-short-term-learning-success.md) — related
 - [No statistically significant difference in procedural performance between VR and slideshow lecture groups](vr-slideshow-similar-procedural-performance-usg-lp.md) — related
 - [Systematic review by Barteit et al. found AR and VR head-mounted devices achieved results at least non-inferior to conventional teaching](ar-vr-head-mounted-non-inferior-conventional-teaching.md) — related
+- [VR-based and 3D computer-based SimBIE formats produce statistically equivalent TeamSTEPPS performance gains](vr-versus-computer-simbie-equivalent-team-performance.md) — related

@@ -53,3 +53,4 @@ Thematic analysis of open-ended questionnaire responses, coded independently by 
 - [Participating in game jams develops 4C skills (critical thinking, creativity, communication, collaboration) in adolescent students, though skill gains are difficult to verify](game-jams-develop-4c-skills.md) — related
 - [Teams and teamwork is the most frequently developed IPEC core competency in interprofessional education, identified in 65 instances across 62 studies](ipe-teams-teamwork-most-frequent-competency.md) — a broader claim this one bears on
 - [Students most frequently named collaborative teamwork as the best aspect of escape room teaching, and suggested more briefing, smaller groups and more playing time](escape-room-teamwork-best-aspect.md) — related
+- [Educational escape rooms are reported to improve critical thinking, clinical reasoning, teamwork, communication, and soft skills in healthcare students](escape-rooms-improve-healthcare-student-outcomes.md) — related

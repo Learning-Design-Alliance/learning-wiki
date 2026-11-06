@@ -51,3 +51,4 @@ SEM Model 2 on 207 Lao teachers' self-reports found "Mastery goals were positive
 - [Lao teachers endorse relational, mastery, and ability-approach goals at similarly high levels, unlike typical Western patterns](lao-similar-goal-endorsement-levels.md) — related
 - [Relational goals are associated with recognition, grouping, and classroom mutual respect practices](lao-relational-goals-targets-recognition-grouping-respect.md) — related
 - [No significant associations between relational goals and autonomy, nor between mastery goals and evaluation or autonomy](lao-goals-no-association-autonomy-evaluation.md) — related
+- [Teacher self-efficacy is associated with increased mastery-based practices but not significantly linked to performance-based practices](self-efficacy-mastery-not-performance-practices.md) — related

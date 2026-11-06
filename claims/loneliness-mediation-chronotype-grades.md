@@ -47,3 +47,4 @@ Mediation analysis using the R "mediation" package with 1,000 bootstrap iteratio
 ## Related Claims
 - [Evening chronotype residents were more likely to achieve higher standardized training grades, with morning types less likely](evening-chronotype-higher-residency-grades.md) — related
 - [Higher loneliness scores were associated with higher odds of better standardized training grades](loneliness-associated-better-residency-grades.md) — related
+- [In-depth exploration mediates the link between chronotype and school performance](in-depth-exploration-mediation-chronotype-school-performance.md) — related

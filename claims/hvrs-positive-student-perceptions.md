@@ -56,3 +56,4 @@ A 10-item 5-point Likert questionnaire developed by the authors and administered
 - [Students reported positive perceptions of the e-learning modules, supporting their integration into the dental curriculum](positive-student-perceptions-elearning-modules.md) — related
 - [Virtual simulation training improved dental students' theoretical knowledge of root canal irrigation (mean increase 9.3%, d = 0.65)](vs-irrigation-theory-score-gain.md) — related
 - [Rwandan medical students recommend integrating simulation into the curriculum with early procedural skills training to improve patient outcomes](students-recommend-curriculum-integration-early-simulation.md) — related
+- [Students and faculty reported favorable perceptions of RTS, including ease of use, real-time feedback, and reduced instructor preparation time](rts-favorable-user-perceptions.md) — related

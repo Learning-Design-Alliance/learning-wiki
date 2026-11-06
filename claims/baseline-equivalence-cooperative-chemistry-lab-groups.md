@@ -50,3 +50,4 @@ Pre-application analysis of report scores during the first three experiments, wh
 - [The cooperative group scored significantly higher than the individualistic group on the final semester examination in the general chemistry laboratory course](cooperative-group-higher-final-exam-chemistry-lab.md) — related
 - [Both groups were equal on the pre-test before the teaching intervention](equal-pretest-combined-vs-control.md) — related
 - [No significant pre-test differences existed between the simulation and control groups before the intervention.](simulation-biology-no-pretest-difference.md) — related
+- [Before the intervention, intervention and control groups did not differ significantly in crisis management score (P = 0.761)](earthquake-simulation-training-baseline-equivalence.md) — related

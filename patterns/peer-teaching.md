@@ -14,7 +14,7 @@ grain_size: lesson
 # Peer Teaching
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 50 claims (26 for, 20 mixed, 4 against) · 31 studies (11 causal, 10 quant-synthesis, 3 review, 3 design, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 11 of 31 report an effect size · 47 claims rest on one study
+> **Evidence** · 51 claims (27 for, 20 mixed, 4 against) · 32 studies (11 causal, 10 quant-synthesis, 3 review, 3 qualitative, 3 design, 1 associational, 1 theoretical), `q1`–`q4` · 11 of 32 report an effect size · 48 claims rest on one study
 
 ## Description and scope
 
@@ -114,6 +114,7 @@ Do not rank peer teaching above adult small-group or one-to-one teaching from th
 - [Peer teacher training in undergraduate ultrasound is predominantly course-based, often combined with internships, with a median duration of about ten days](../claims/peer-teacher-training-course-based-median-ten-days.md) [~W] — attached 2026-11-01 from Winter Lone et al. (2024), which proposed "Develop comprehensive guidelines for peer tutor education to standardize training and ensure minimum standards".
 - [Peer tutoring produced statistically significant post-test gains in non-verbal communication for children with ASD relative to a control group](../claims/peer-tutoring-improves-nonverbal-communication-asd-posttest.md) [+W] — attached 2026-11-01 from Wael Alshurman (2015), which proposed "Peer-pair role structure: peers as teachers, students with autism as lesson recipients"; tests this page's relationship.
 - [Peer teachers reported mixed apprehension about the teaching requirement and discomfort assessing junior students, while feeling comfortable teaching them](../claims/mixed-apprehension-assessment-discomfort-peer-teachers.md) [~W] — attached 2026-11-02 from Williams et al. (2014), which proposed "Prepare peer teachers with training before PAL sessions, since inadequate preparation produced apprehension and unclear session content".
+- [Focus groups identified three themes about the SLPTS: high level of organization, creation of a comfortable learning environment, and effective peer teaching](../claims/slpts-focus-group-three-themes.md) [+W] — attached 2026-11-06 from Bohrer Maxwell B. MD (2025), which proposed "Involve medical students in designing and facilitating clinical procedure training to provide early clinical exposure with minimal faculty resources".
 
 ## Illustrative design instance and observation record
 

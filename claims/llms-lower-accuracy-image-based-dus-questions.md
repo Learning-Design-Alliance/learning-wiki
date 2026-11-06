@@ -71,3 +71,4 @@ Statistical comparison of image-based versus text-based accuracy per model (Tabl
 - [LLM accuracy varied by subject area, with oral pathology (94%) and salivary gland diseases (91.8%) highest and radiological anatomy (67.3%) lowest; only Copilot showed a statistically significant across-subject difference](subject-area-accuracy-variation-dus-llms.md) — related
 - [LLM accuracy is uniformly high in OT basic sciences but lower on OT-specific content, widening further on visuals](basic-sciences-high-ot-specific-lower.md) — related
 - [Chatbot performance on image-based questions is inconsistent, with most models at 50–75% accuracy](chatbot-image-based-question-weakness.md) — a narrower finding that bears on this claim
+- [Accuracy on questions with images drops sharply for all models: ChatGPT-o1pro 52.6% and ChatGPT-4 45.4% versus Gemini 12.4% and Copilot 11.3%, with frequent response-generation failures](image-question-accuracy-collapse-llms.md) — related

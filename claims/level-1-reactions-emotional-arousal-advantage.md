@@ -75,3 +75,4 @@ Review reports, citing Rogers et al. (prospective cohort, pediatric residents, N
 - [Trainees and observers reported generally positive experiences with seven tools in 10 studies (Kirkpatrick level 1)](positive-trainee-experience-seven-tools.md) — related
 - [Pharmacy students reported strong engagement and positive reactions to the campaign as an experiential learning activity.](pharmacy-students-strong-engagement-experiential-campaign.md) — related
 - [Learners and instructors reported high satisfaction with the Team FIRST curriculum, with composite reaction scores lowest in Module 1](team-first-high-reaction-satisfaction.md) — related
+- [Learners perceive the multimodal SimBIE curriculum as positively affecting satisfaction, engagement, knowledge, skills, attitudes, and confidence across Kirkpatrick levels 1-3](simbie-focus-group-kirkpatrick-positive-perceptions.md) — related

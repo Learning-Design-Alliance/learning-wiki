@@ -49,3 +49,4 @@ Observational quasi-experimental analysis of 343 matched fourth-year medical stu
 - [In the unmatched analysis, the OSCE failure rate was significantly lower for high users than low users of the PPES course](ppes-high-users-lower-failure-rate.md) — related
 - [The PPES course benefit was greatest for the middle 60% of the class by previous academic performance, with non-significant effects for the lowest and top 20%](ppes-middle-performers-greatest-benefit.md) — related
 - [Survey respondents held largely positive perceptions of the PPES course, valuing its clear presentation, authenticity and preparation for rotations and the OSCE](ppes-survey-positive-perceptions.md) — related
+- [The 8-station 96-minute 2021 OSCE achieved a total mean mark similar to the pre-pandemic 16-station 128-minute 2019 OSCE, with only Paediatrics lower](covid-2021-96-minute-osce-similar-to-2019.md) — related

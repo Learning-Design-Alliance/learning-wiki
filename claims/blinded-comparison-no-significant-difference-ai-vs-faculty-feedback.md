@@ -49,3 +49,4 @@ An exploratory blinded review in which 25% of student responses were double mark
 - [Test-takers rate LLM-generated feedback as persuasive and useful as human instructor feedback (Wilcoxon signed-rank tests show no significant difference)](llm-feedback-rated-equal-to-human-feedback.md) — related
 - [Blinded panel ratings of design presentations did not differ significantly between GenARch and Control teams](genarch-panel-presentation-no-significant-difference.md) — related
 - [A custom GPT-based model generated pharmacology SAQ feedback approximately 15 times faster than fully manual faculty marking in a pilot study](custom-gpt-saq-feedback-15x-faster-than-manual-marking.md) — related
+- [Human grading modestly increases the probability that students rate feedback as helpful](human-grading-raises-perceived-feedback-helpfulness.md) — related

@@ -54,3 +54,4 @@ Usability survey (previously validated for serious gaming contexts) completed by
 - [Participants rated SOPHIE 2.0 as engaging, easy to use, and clinically relevant in a self-service format](sophie2-high-perceived-usability-and-value.md) — related
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — a broader claim this one bears on
 - [Eight of 37 respondents reported OSCEai scenarios or elements that were confusing or not representative of real-life practice](osceai-limitations-realism-confusion.md) — related
+- [Clinical educators propose simulated patients in scenarios informed by real patient experiences as a way to prepare students for complex, unpredictable patient encounters.](sp-scenarios-complex-unpredictable-encounters.md) — related

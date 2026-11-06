@@ -55,3 +55,4 @@ Inductive coding of free-text postsimulation responses from the 62-participant c
 - [Nursing students perceive simulation-based BLS scenarios as realistic and clinically relevant, which enhances their understanding of BLS procedures and readiness for emergencies](simulation-bls-perceived-realism-clinical-relevance.md) — related
 - [All interviewed interns reported that role rotation and teamwork were central benefits of the simulation-with-CBL training](role-rotation-teamwork-central-benefit-simulation-cbl.md) — related
 - [Teamwork is valued as essential in simulated basic-care scenarios, but students experienced coordination and role-definition difficulties, especially at the start](teamwork-valued-but-coordination-difficulties.md) — related
+- [Senior residents report engagement with simulation declines unless activities are highly realistic and tailored to advanced learning needs](senior-resident-engagement-declines-without-realism-yield.md) — related

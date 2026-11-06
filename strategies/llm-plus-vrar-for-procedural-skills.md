@@ -53,6 +53,7 @@ The article recommends that because text-based LLM support has limited influence
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Prioritize competency-based training models integrating VR-based surgical practice and AI-assisted procedural assessments in dental education](competency-based-vr-ai-training-stomatology.md)
 - [Sequence VR haptic simulator training before students' first artificial-tooth access cavity preparation in preclinical endodontic curricula](sequence-vr-simulator-before-artificial-teeth.md)
+- [Harmonize VRS training practices and use remote mentoring and multimodal simulation to broaden access](harmonize-vrs-practices-remote-mentoring-strategy.md)
 
 ## Examples
 -

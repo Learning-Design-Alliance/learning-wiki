@@ -50,3 +50,4 @@ Correlation analysis of 70 trainee doctors' scores found "a strong and significa
 - [Trainee surgeons' self-assessment scores are lower than expert evaluation scores on a suture exercise](sa-lower-than-ee-suture-scores.md) — related
 - [Trainees who overestimated themselves were rated less competent by the expert](overestimators-rated-less-competent.md) — related
 - [Global rating scores correlate strongly positively with checklist scores (r = 0.78)](global-rating-checklist-correlation-cvc.md) — related
+- [The ML regression model's predicted GOALS scores correlate strongly with expert evaluations (r = 0.86 dissection, r = 0.91 suturing) with small mean absolute errors](mocap-goals-prediction-correlation-mae.md) — related

@@ -72,3 +72,4 @@ Course-specific results for the history and philosophy MOOC (Table 1/Table 2); i
 - [Peer graders in these MOOCs score more leniently and with greater dispersion than the instructor](peer-grading-lenient-high-dispersion-moocs.md) — related
 - [LLM grading performance relative to human graders is mixed: comparable in 12 reviewed cases, worse in 11, with the strongest alignment on short, straightforward tasks](llm-grading-mixed-against-human-raters.md) — related
 - [Published evidence suggests LLM scoring can outperform standardized patient scoring on rubric-scored written notes, but generalizability remains open](llm-scoring-lower-incorrect-rate-than-sp.md) — related
+- [AI assistance enabled grading of 88% of 3,080 short-answer answers across 271 students in four courses](ai-assisted-grading-scale-3080-saq-answers.md) — related

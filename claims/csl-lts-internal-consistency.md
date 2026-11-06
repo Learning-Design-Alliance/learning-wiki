@@ -50,3 +50,4 @@ Internal consistency was assessed in the construct validation sample of 207 nurs
 - [The CRCDCS demonstrated satisfactory internal consistency (α = 0.876; ω = 0.861) and test–retest reliability (ICC = 0.85, 95% CI: 0.82–0.91).](crcdc-reliability-alpha-omega-icc.md) — related
 - [The CSL-LTS demonstrates adequate content validity with Aiken's V values exceeding 0.8 for all three assessed attributes](csl-lts-content-validity-aiken-v.md) — related
 - [The CSL-LTS demonstrates strong temporal stability with an intraclass correlation coefficient of 0.991 over a 15-day test–retest interval](csl-lts-temporal-stability-icc.md) — related
+- [Internal consistency of the tool's three category scores is satisfactory, with Cronbach's α of 0.84 for positive and mixed videos and 0.91 for the negative video](fbat-internal-consistency-cronbach.md) — related

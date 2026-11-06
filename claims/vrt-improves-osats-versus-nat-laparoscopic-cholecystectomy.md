@@ -76,3 +76,4 @@ Single-centre RCT randomizing 16 general surgery trainees and residents to conve
 - [Subjective performance ratings (NRS) were significantly higher after structured VRST than after deliberate practice](structured-vrst-higher-nrs-ratings.md) — related
 - [Simulation-based rapid-cycle deliberate practice curriculum improved GRS-rated awake fiberoptic intubation performance at three months](rcdp-simulation-improves-afio-grs.md) — a narrower finding that bears on this claim
 - [IMR-SS trainees made significantly fewer procedural errors than digital-textbook trainees; safety breaches were fewer but not significantly so](imr-ss-fewer-errors-assessment.md) — related
+- [VR-trained surgical residents outperform non-VR-trained peers in laparoscopic procedures](vr-trained-residents-fewer-errors-laparoscopy.md) — related

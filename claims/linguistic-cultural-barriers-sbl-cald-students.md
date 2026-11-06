@@ -50,3 +50,7 @@ Thematic synthesis across included studies identified "linguistic and cultural b
 - [Exclusive use of white manikins heightened CALD students' sense of underrepresentation in SBL](white-manikins-underrepresentation-cald-students.md) — related
 - [The most frequently reported challenge of virtual simulation teaching is its lack of realism, alongside operational complexity, English-language demands, cultural mismatch, and adverse physical reactions](vs-challenges-realism-and-usability.md) — related
 - [CALD students showed significantly greater confidence and skill gains from SBL than domestic students in comparative studies](sbl-greater-gains-cald-than-domestic-students.md) — related
+- [CALD students negotiate cultural differences in Australian simulation norms while drawing on cultural background as a strength](cald-cultural-identity-negotiation-sbl.md) — a narrower finding that bears on this claim
+- [CALD occupational therapy students experience both heightened anxiety and personal-professional growth in high-fidelity simulation-based learning](cald-ot-students-fear-and-growth-in-sbl.md) — related
+- [Language barriers impose internal translation, delayed responses and hesitation to speak for CALD students in simulation-based learning](language-barriers-delayed-translation-sbl.md) — a narrower finding that bears on this claim
+- [Group composition and educator cultural responsiveness shape CALD students' participation and sense of belonging in SBL](peer-educator-relationships-cald-sbl.md) — related

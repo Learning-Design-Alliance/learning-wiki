@@ -47,3 +47,4 @@ Quasi-experimental comparison across three consecutive semesters (S1 control, N 
 ## Related Claims
 - [Mean cephalometric deviations differed significantly between MCAT-trained and conventionally trained students only for isolated landmarks, with most variables showing no significant difference](mcat-mean-deviations-mostly-nonsignificant.md) — related
 - [Students strongly preferred MCAT-supported digital tracing over manual tracing, with 86.5% perceiving greater learning success with MCAT](mcat-preferred-over-manual-tracing.md) — related
+- [Figure 2 boxplots show VR-trained students with higher median preparedness, though the article reports both lower and similar variability](figure2-preparedness-distribution.md) — related

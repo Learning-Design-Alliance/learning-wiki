@@ -59,8 +59,10 @@ The strategy works primarily through motivational mechanisms: giving students au
 5. **Reflect and iterate.** Use [Check-Ins](../principles/check-ins.md) after several weeks to evaluate whether the space is working and revise; treat the environment as perpetually improvable.
 
 ## Related Strategies
+
 - [Choice Boards](../strategies/choice_boards.md) — extends the same ownership logic from the environment to academic tasks
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — a parallel structure for sharing decision authority over learning activities
+- [Redesign TBL sessions for repeat participants to restore novelty and sustain engagement](redesign-tbl-for-repeat-participants.md)
 
 ## Related Elements
 - [Individual Reflection](../elements/individual-reflection.md) — elicits each student's experience of the space before group decisions

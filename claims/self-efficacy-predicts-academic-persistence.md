@@ -219,3 +219,4 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [Interventions giving teachers opportunities to practice teaching are likely to be effective for developing self‐efficacy beliefs](practice-opportunities-develop-teacher-self-efficacy.md) — related
 - [Self-efficacy and objectively assessed handover performance show no significant correlation in the Team FIRST cohorts](no-correlation-self-efficacy-handover-performance.md) — reports the opposite
 - [Undergraduate dental students perceive that PBL builds self-efficacy, moving from initial uncertainty toward confidence in independent learning](pbl-builds-self-efficacy-from-uncertainty.md) — related
+- [Teacher self-efficacy is associated with increased mastery-based practices but not significantly linked to performance-based practices](self-efficacy-mastery-not-performance-practices.md) — related

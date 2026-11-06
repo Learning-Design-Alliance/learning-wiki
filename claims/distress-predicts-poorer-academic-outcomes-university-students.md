@@ -63,3 +63,4 @@ The scoping review's thematic synthesis of empirical studies (RQ3) reports this 
 - [Resilience shows no direct association with study performance (grades) among pre-service teachers, regardless of personality or mental health profile](resilience-no-direct-association-study-performance.md) — related
 - [Low physical activity and psychological distress are highly prevalent among Saudi physical therapy students](high-prevalence-low-activity-distress-saudi-pt-students.md) — related
 - [School-related challenges are the most detrimental type of stressful life event, predicting lower achievement, higher distress, and lower engagement](school-related-challenges-strongest-sle-predictor.md) — related
+- [Older age and male gender were associated with greater resilience to the negative effects of mental health problems on academic performance](age-gender-moderate-mental-health-academic-impact.md) — a narrower finding that bears on this claim

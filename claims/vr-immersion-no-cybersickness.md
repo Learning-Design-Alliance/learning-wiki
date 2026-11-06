@@ -61,3 +61,4 @@ In the experimental group, the Simulator Sickness Questionnaire was completed be
 - [Remote AR headset use imposes minimal reported ergonomic burden and no adverse events in neonatal resuscitation simulation](remote-ar-simulation-ergonomics-adverse-events.md) — related
 - [Cybersickness during short VR bellringer testing was minimal and unrelated to VR or total exam performance](cybersickness-minimal-unrelated-br-performance.md) — related
 - [Ocular discomfort after EyeSi VR simulation is mild and infrequent](eyesi-vr-mild-ocular-discomfort.md) — related
+- [Cybersickness screening showed no concern for any student before or after MHW exposure](mhw-cybersickness-no-concern.md) — related

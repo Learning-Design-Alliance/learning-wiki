@@ -49,3 +49,4 @@ Fourth theme in the Results section. Panelists highlighted understanding diverse
 - [The six key principles of a trauma-informed approach span safety, trustworthiness, peer support, collaboration, empowerment, and cultural issues](six-key-principles-trauma-informed-approach.md) — related
 - [Equitable access emerged as a prominent governance theme, with one-third of panelists explicitly mentioning equity or inclusion](genai-equitable-access-governance-theme.md) — related
 - [Therapeutic alliance competencies, particularly cultural competency and validation, achieve the strongest consensus among CAMHS crisis team competencies](therapeutic-alliance-strongest-consensus-crisis-competencies.md) — related
+- [Health equity competencies emphasize inclusivity, cultural safety, and elimination of digital divides](health-equity-digital-health-competencies.md) — related

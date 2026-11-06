@@ -62,3 +62,4 @@ Illustrative hypothetical example of 100 examinees with 95% observed agreement a
 - A prior-study corpus of 84 peer tutoring sessions was coded for help type and conceptual content with kappa of 0.83 and 0.72 — related
 - The review's corpus comprises 39 peer-reviewed articles selected via a PRISMA protocol with substantial screening agreement — related
 - Coding of included studies reached 100% inter-coder reliability using the agreement formula — related
+- [Pass/fail decisions from simulation and OSCE show substantial consistency (Cohen's kappa = 0.67), and a simulation cut-score of 75 aligns with OSCE and practicum outcomes](simulation-osce-decision-consistency-kappa.md) — related

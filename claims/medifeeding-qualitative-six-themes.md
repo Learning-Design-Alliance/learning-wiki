@@ -69,3 +69,4 @@ Participant quotation from the moderation-and-trust theme illustrating the perce
 - [Focus group interviews identified four user-experience themes: individualized learning, clinical reasoning engagement, educational applicability, and areas for improvement](vega-focus-group-four-themes.md) — related
 - [Focus groups identify structured practice, limited emotional realism, and recommendations for case variety and curriculum integration](aisp-focus-group-three-themes.md) — related
 - [Thematic analysis of open-ended responses identified four themes: enhanced skill development and safe learning environment, bridging theory with practice, barriers, and looking ahead](four-themes-sbl-oral-radiology-qualitative.md) — related
+- [Qualitative theme: real-time sharing of digital resources in MHW enhanced peer collaboration and communication compared with classroom TBL](mhw-tbl-collaboration-theme.md) — related

@@ -51,3 +51,4 @@ Second-hand finding reported in the article's discussion, attributed to Clare an
 - [Hybrid simulation with role-playing improves hand hygiene compliance and PPE use in medication administration among nursing students](hybrid-simulation-improves-hand-hygiene-and-ppe-nursing.md) — related
 - [At one-month follow-up the experimental group outperformed controls on six specific checklist tasks](modified-peyton-six-checklist-tasks-retention.md) — related
 - [SOM-PBL improves monitoring technology application and adverse-event management subdomains but not clinical decision-making or aseptic technique](som-pbl-subdomain-mixed-results.md) — related
+- [Wound and periwound skin care skills, including aseptic dressing technique and hand hygiene before dressing, rose from pre-test to post-test after clinical simulation in one group with no comparison group](simulation-improves-dressing-technique-skills.md) — related

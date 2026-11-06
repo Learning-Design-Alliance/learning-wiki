@@ -65,3 +65,4 @@ Mixed-methods expert evaluation with two female psychologists (ages 25–30), on
 - [LLM integration into virtual patient scenarios enables realistic, context-sensitive medical interviews in a metaverse environment](llm-virtual-patient-realistic-interviews.md) — related
 - [Students perceived the GPT-based virtual patient encounters as realistic and easy to converse with](ai-virtual-patient-perceived-realistic.md) — related
 - [A qualitative group assessment judged the scenario feasible, adequately timed, and realistic](pacu-scenario-qualitative-feasibility-realism.md) — related
+- [Conversation length with virtual patients increased significantly after VITAL-COMS training in both scenarios](vital-coms-conversation-length-increase.md) — related

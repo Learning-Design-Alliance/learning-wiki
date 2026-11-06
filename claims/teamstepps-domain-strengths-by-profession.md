@@ -50,3 +50,4 @@ Descriptive analysis of scaled TeamSTEPPS scores from 2 trained raters per profe
 - [Individual-level EEG synchronization (student TI) shows no significant correlation with individual TeamSTEPPS scores in virtual SIMBIE](student-ti-no-significant-teamstepps-correlation.md) — related
 - [TPOT scores improved significantly across all five TeamSTEPPS domains, with greatest gains in team structure and leadership](ipstar-tpot-domain-gains.md) — related
 - [Group anterior alpha-band EEG synchronization correlates strongly and negatively with group TeamSTEPPS scores across all domains in online hexad virtual SIMBIE](anterior-alpha-group-ti-negative-teamstepps.md) — related
+- [Simulation-based interprofessional education combining medical movies, MOOCs, 3D simulation, and co-debriefing significantly improves TeamSTEPPS team performance versus 3D simulation without preparation or debriefing](multimodal-simbie-codebriefing-improves-teamstepps-performance.md) — related

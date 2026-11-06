@@ -56,3 +56,4 @@ The review's narrative synthesis reports, citing Sayed (2022), that Egyptian pha
 - [Internet addiction and frequent smartphone use are associated with higher surface learning and lower deep learning among medical students](ia-surface-learning-deep-learning-association.md) — related
 - [Stress, anxiety, and depressive symptoms show predominantly negative associations with academic performance in medical students](stress-anxiety-depression-negative-association-medical-students.md) — related
 - [Low physical activity and psychological distress are highly prevalent among Saudi physical therapy students](high-prevalence-low-activity-distress-saudi-pt-students.md) — related
+- [Smartphone addiction correlates negatively with academic resilience, self-efficacy and achievement, and positively with cognitive test anxiety](smartphone-addiction-correlation-pattern-secondary-students.md) — related

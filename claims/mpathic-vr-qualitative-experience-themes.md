@@ -53,3 +53,4 @@ Qualitative thematic analysis of reflective essays from both trial arms, coded i
 - [Directive feedback is associated with higher cognitive load than Socratic feedback, with no agent-type effects on learning experiences](directive-feedback-higher-cognitive-load.md) — related
 - [Second-year medical students improve their intercultural and interprofessional communication performance between first and second run-throughs of MPathic-VR scenarios](mpathic-vr-repeat-runthrough-improvement.md) — related
 - [Students attended to bodily expressions of people in the VR film as resources for interpreting emotional states and engaging with their stories](attending-to-bodily-expressions-in-vr.md) — related
+- [VR-trained radiographers report higher confidence, faster adaptation, valued immediate feedback and advanced scenarios, and needed less initial supervision](qualitative-themes-vr-preparedness-benefits.md) — related

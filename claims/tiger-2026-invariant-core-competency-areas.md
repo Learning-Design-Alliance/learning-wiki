@@ -51,3 +51,4 @@ By comparing the top-10 lists from 2018 and 2026 for each role, the authors iden
 - [Each nursing role exhibits a distinct competency pattern, with basic computer literacy and data protection common to all five](tiger-2026-role-specific-competency-patterns.md) — related
 - [Sixteen new competency areas were added in the 2026 update, including artificial intelligence, interoperability, and patient safety](tiger-2026-sixteen-new-competency-areas.md) — related
 - [IT Management in Nursing requires the broadest competency coverage, supporting a full study programme rather than a single course](tiger-2026-it-management-broadest-coverage.md) — related
+- [Population health competencies emphasize data-driven decision-making, analytics, and health informatics for public health interventions](population-health-digital-health-competencies.md) — related

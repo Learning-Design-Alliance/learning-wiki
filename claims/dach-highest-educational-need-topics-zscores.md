@@ -49,3 +49,4 @@ Descriptive Z-score analysis of global topic scores (relevance + interest − kn
 - [DACH HCPs rated perceived knowledge and relevance more than 20% higher than other European countries for many topics, while transversal communication skills were rated comparably](dach-vs-europe-topic-deviations.md) — related
 - [DACH HCPs show the lowest relative educational need in emergency department assessment, cognitive and functional status assessment, skin care, ageism, gerodontology and oncogeriatrics (negative Z-scores)](dach-negative-zscore-topics.md) — related
 - [Across nearly all geriatric domains, DACH HCPs rated relevance higher than interest, and interest higher than their self-reported knowledge](relevance-exceeds-interest-exceeds-knowledge-dach.md) — related
+- [Family physicians with prior palliative care training reported significantly higher sarcopenia management competence than those without](palliative-care-training-higher-sarcopenia-competence.md) — related

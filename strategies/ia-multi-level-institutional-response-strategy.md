@@ -50,6 +50,8 @@ The review recommends that interventions "extend beyond general awareness and in
 - [Establish student-led peer-based suicide prevention clubs using Sources of Strength](student-led-sources-of-strength-clubs.md)
 - [Integrate coping psychoeducation into academic support workshops and counselling for university teachers](coping-psychoeducation-workshops-faculty.md)
 - [Timely detection of technology addiction plus therapeutic and educational strategies to mitigate excessive device use](timely-detection-therapeutic-strategies-excessive-device-use.md)
+- [Institutional interventions on emotional regulation and learning strategies to mitigate digital hoarding's effects](emotional-regulation-learning-strategies-interventions-dh.md)
+- [Institutional screening, prevention and gender-oriented mental health support for students in wartime universities](wartime-student-mental-health-screening-strategy.md)
 
 ## Examples
 -

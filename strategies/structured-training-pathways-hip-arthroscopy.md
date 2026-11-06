@@ -54,6 +54,7 @@ The article's clinical implications translate its learning-curve findings into a
 
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Sequence interview training stepwise from AI-VPs to standardized patients to real patients](stepwise-ai-vp-to-standardized-to-real-patients.md)
+- [Use a benchmark of roughly 5 to 8 supervised PUL cases, preceded by simulation training, to structure supervision and credentialing for naïve urologists](pul-simulation-plus-5-8-proctored-cases-benchmark.md)
 
 ## Examples
 -

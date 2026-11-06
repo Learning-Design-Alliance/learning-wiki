@@ -56,3 +56,4 @@ Frequency analysis across 42 educator-focused frameworks (Fig. 3). The review co
 - [Validation sessions reframed fostering students' digital literacy as empowering students for a digital society, adding ethical competences](hedicom-empowering-students-reframing.md) — related
 - [Role modelling is the most promising approach for developing teachers' digital literacy, identified in seven reviews](role-modelling-develops-teacher-digital-literacy.md) — related
 - [Nearly half of sources discussing assessment (29 of 63, 46%) maintain that assessment strategies for RI teaching are absent or inadequate](ri-assessment-measures-absent-or-inadequate.md) — related
+- [Patient experience competencies prioritize patient-centered technology use, digital literacy, privacy awareness, and empowering patients through technology](patient-experience-digital-health-competencies.md) — related

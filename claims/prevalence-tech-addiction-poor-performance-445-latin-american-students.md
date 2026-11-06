@@ -50,3 +50,4 @@ Descriptive results of the same cross-sectional telematic survey (n 445; 320 wom
 - [Multivariate linear regression identified 7 Labrador questionnaire items statistically related to technology addiction](multivariate-seven-items-related-tech-addiction.md) — related
 - [Causes of digital distraction in education are distributed across technology distractors (51.95%), personal needs (37.66%), and instructional environment factors (10.39%)](digital-distraction-causes-tpe-distribution.md) — related
 - [Academic self-efficacy partially mediates the indirect effects of social media addiction risk and nomophobia on clinical performance](ase-partial-mediator-sma-nomophobia-clinical-performance.md) — related
+- [About 23% of the sampled students showed a tendency towards study addiction, exceeding international prevalence rates](study-addiction-tendency-prevalence-german-sample.md) — related

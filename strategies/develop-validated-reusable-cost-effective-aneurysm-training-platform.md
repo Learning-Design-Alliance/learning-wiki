@@ -53,6 +53,7 @@ The review's forward-looking recommendation is that future research should focus
 - [Use validated homogeneous outcome measures, preferably in a patient setting, in future FB SBT studies](validated-homogeneous-outcome-measures-strategy.md)
 - [Develop portable low-cost COTS-based simulators to enable ubiquitous training and presurgical warm-up in minimally invasive surgery](low-cost-portable-cots-simulators-ubiquitous-mis-training.md)
 - [Develop open, reusable, generalizable CBL platforms for specific learning contexts instead of building closed systems from scratch](reusable-open-cbl-platforms-strategy.md)
+- [Develop more realistic, clinically relevant VR software and naked eye 3D technology to improve simulated teaching efficiency](vr-anesthesia-future-development-strategy.md)
 
 ## Examples
 -

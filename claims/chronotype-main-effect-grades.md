@@ -70,3 +70,4 @@ Secondary finding in the same model: "a main effect of gender", partial η2 = 0.
 - [First-year grades predict grade retention: 1-point-lower math or language grades are associated with higher odds of repeating a year](grades-predict-grade-retention.md) — related
 - [Evening chronotype residents were more likely to achieve higher standardized training grades, with morning types less likely](evening-chronotype-higher-residency-grades.md) — reports the opposite
 - [In the higher-performing group, 44.1% were evening-type versus 1.9% in the lower-performing group](evening-type-distribution-high-versus-low-performers.md) — related
+- [Adolescents with an evening chronotype report significantly lower GPA than those with a morning chronotype](evening-chronotype-lower-gpa-than-morning.md) — a narrower finding that bears on this claim

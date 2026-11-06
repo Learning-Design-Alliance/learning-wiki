@@ -50,3 +50,4 @@ Author's stated limitation and interpretation, not a tested result: the favorabl
 - [80% of students did not agree to integrate multimedia-based vocabulary instruction into their curriculum despite its reported effectiveness](multimedia-curriculum-integration-rejected.md) — related
 - [Chinese college EFL learners held strongly favorable attitudes toward a multimedia vocabulary application, with more than 80% reacting positively](multimedia-vocabulary-app-favorable-attitudes.md) — related
 - [The article reports that the REACT strategy affects learners' learning motivation and attitudes and contributes to a more positive learning environment](react-affects-motivation-attitudes.md) — related
+- [Learners perceive the multimodal SimBIE curriculum as positively affecting satisfaction, engagement, knowledge, skills, attitudes, and confidence across Kirkpatrick levels 1-3](simbie-focus-group-kirkpatrick-positive-perceptions.md) — related

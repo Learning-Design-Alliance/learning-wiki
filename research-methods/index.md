@@ -2,7 +2,7 @@
 
 Methods for studying learning and evaluating education that are specific to it or especially useful in it. General social-science methods are not listed.
 
-**1031 entries** · 0 stable · 1031 in review · 0 drafts
+**1032 entries** · 0 stable · 1032 in review · 0 drafts
 
 ---
 
@@ -723,6 +723,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 #### Q {: #letter-q }
 
 * [Quadratic aptitude-treatment interaction regression model](quadratic-aptitude-treatment-interaction-regression-model.md) - The article introduces a multiple regression model in which the aptitude variable enters as a continuous predictor and visual design is coded with two dummy variables, dumOpt and dumSub, each carrying a quadratic interaction term with ability.
+* [Qualitative coding manual for instructional clarity with three indicators](qualitative-coding-manual-for-instructional-clarity-with-three-indicators.md) - A high-inference rating system was developed, blending deductive and inductive approaches, to code lecturers' instructional clarity from video recordings at three-minute intervals synchronized with ESM signals.
 * [Qualitative meta-synthesis](qualitative-meta-synthesis.md) - The article's organizing approach is a qualitative meta-synthesis: rather than computing a new pooled estimate, it compares and contrasts the assumptions and findings of existing meta-analyses of PBL.
 * [Quantitative motion-capture and eye-tracking analysis of medical skill proficiency](quantitative-motion-capture-and-eye-tracking-analysis-of-medical-skill-proficiency.md) - The article frames an explanatory approach in which \"motion measurement using motion capture and gaze measurement using an eye-tracking device were combined\" to quantify differences in body movement and gaze by skill level.
 

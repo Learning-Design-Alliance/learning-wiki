@@ -68,6 +68,7 @@ Portfolios shift assessment authority toward learners, requiring them to evaluat
 - [Use children's portfolios as alternative assessment of young learners' multiliteracies](portfolio-alternative-assessment-young-learners-multiliteracies.md)
 - [Departments should stress student portfolio development and reflect on required learning-theory coursework given variable graduate skill sets](idt-portfolios-and-theory-reflection-strategy.md)
 - [Pair structured workplace-based assessment with supervisor training in timely, specific, actionable feedback and add goal-setting or reflective portfolios to support self-directed learning](wba-feedback-training-plus-goal-setting-strategy.md)
+- [Align assessment strategies with each competency area using simulations, projects, and reflective portfolios](quintuple-aim-aligned-assessment-strategies.md)
 
 ## Examples
 - **New Tech Network schools** — students defend digital portfolios of project work before panels of teachers and community members at graduation (https://newtechnetwork.org).

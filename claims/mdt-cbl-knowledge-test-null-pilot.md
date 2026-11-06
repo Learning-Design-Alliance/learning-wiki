@@ -59,3 +59,4 @@ Pilot cluster-randomized controlled study (3 clusters; 32 experimental, 52 contr
 - [Urology trainees prefer virtual didactics, which are associated with better exam performance than non-use](virtual-didactics-preference-and-exam-performance.md) — related
 - [Post-course theoretical scores of digitally-CBL-trained novices are not significantly different from those of traditionally trained specialists](digital-cbl-post-course-scores-comparable-to-specialists.md) — related
 - [Clinical competence measured by Mini-CEX did not differ significantly between AI-PBL and traditional PBL groups despite numerically higher scores in the AI-PBL group](mini-cex-no-significant-group-difference.md) — possibly the same claim (merge candidate)
+- [Students taught with a progressive blended case-based model scored significantly higher on the post-test than lecture-taught students in an integrated urology module](blended-cbl-higher-posttest-urology.md) — related

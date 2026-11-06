@@ -43,7 +43,8 @@ From their experiences running ten HMDs simultaneously in two time slots, the au
 - [VR sickness in the system is minimal overall (SSQ total 12.88), with nausea lowest and oculomotor symptoms most significant](../claims/photon-fusion-minimal-vr-sickness-ssq.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Provide VR user support, adjustable display settings, and built-in breaks when running virtual TBL sessions](vr-tbl-training-support-breaks.md)
 
 ## Examples
 -

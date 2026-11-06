@@ -44,7 +44,8 @@ AWA deliberately positions its feedback not as a summative grade but as formativ
 - [Students showed clear appetite for automated writing support and comfort with machine-generated feedback](../claims/student-appetite-automated-writing-feedback.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Align assessment strategies with each competency area using simulations, projects, and reflective portfolios](quintuple-aim-aligned-assessment-strategies.md)
 
 ## Examples
 -

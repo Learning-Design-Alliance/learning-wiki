@@ -61,6 +61,8 @@ The review recommends that educators integrate simulation-based methods into ort
 - [Position AI simulation as a complement to—not a replacement for—traditional clinical placements, with faculty preparation and dedicated quiet spaces](ai-simulation-as-complement-not-replacement.md)
 - [Integrate open-source AI-supported, self-paced tracing tools with immediate feedback into undergraduate orthodontic curricula](ai-supported-self-paced-cephalometric-training-strategy.md)
 - [Use educational simulation software as a supplement to lectures and hospital-based clinical practice in nursing education](simulation-software-supplement-to-lecture-and-clinical-practice.md)
+- [Enhance escape room simulation fidelity with AR, VR, AI, and real-time adaptive data](er-emerging-technology-fidelity-strategy.md)
+- [Invest in structured coach development alongside curricular planning for simulation-based surgical education](structured-coach-development-surgical-simulation.md)
 
 ## Examples
 -

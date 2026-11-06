@@ -70,3 +70,4 @@ Narrative synthesis of 9 USMLE benchmark evaluation studies within the review's 
 - [GPT-4-turbo and DeepSeek-R1 both exceed the 60% passing criterion on the 2024 Taiwan Audiologist Qualification Examination](genai-passes-2024-taqe.md) — related
 - [GPT-4 performed comparably to average human NMLE examinees, DeepSeek slightly exceeded them, and no tested LLM reached the top-10% human threshold](llm-nmle-performance-versus-human-examinees.md) — related
 - [Five LLMs outperformed enrolled medical students on department-set Spanish final MCQ exams with negative marking across four clinical courses](llms-outperform-students-spanish-mcq-finals-negative-marking.md) — related
+- [GPT-4o answered image-based USMLE sample items with 89.5% accuracy versus GPT-4's 73.4%, a numerically higher but not statistically significant difference](gpt4o-89-5-percent-image-usmle-accuracy.md) — related

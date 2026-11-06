@@ -44,7 +44,8 @@ The authors recommend that interventions for children with co-occurring mathemat
 - [Crossover effects: early reading fluency predicts later mathematics outcomes more strongly than early mathematics skills predict later reading](../claims/crossover-effects-reading-mathematics.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Diagnose students' mathematical competence with dedicated instruments before developing more complex medication calculation competencies](diagnose-mathematical-competence-first-strategy.md)
 
 ## Examples
 -

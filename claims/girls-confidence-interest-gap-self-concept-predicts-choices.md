@@ -132,3 +132,4 @@ Correlational evidence cited in the overview (Simpkins and Davis-Kean 2005; Upde
 - [Cooperative program enrollment and specific professional interest remain significant independent predictors of academic motivation in multiple linear regression](mlr-cooperative-interest-predict-sdi.md) — related
 - [The addiction–performance association held only among women and students without their own income in stratified analysis](addiction-performance-association-significant-only-women-no-income.md) — related
 - [Only course repetition, among demographic variables, is significantly associated with lower ATSHWS scores](course-repetition-lower-atshws-scores.md) — related
+- [Age and gender are associated with baseline motivation and Session 1 performance among preservice teachers](age-gender-associated-with-preservice-motivation.md) — related

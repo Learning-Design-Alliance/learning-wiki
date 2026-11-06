@@ -49,3 +49,4 @@ The paper's literature synthesis states "the evidence for the association of hig
 - [A mixed-methods evaluation found SBE is a distinct learning environment with little or no support for students navigating between environments](sims-week-little-navigation-support.md) — related
 - [Many of 15 interviewed Irish dietitians had used role-play and scenario-based activities without recognising them as simulation, associating SBE with high-fidelity approaches](dietitians-unrecognised-simulation-activities.md) — related
 - [Introducing SBE as a third learning site may increase the theory-practice split for student nurses](sbe-may-increase-theory-practice-split.md) — related
+- [Processing feedback during simulation establishes a foundation for workplace feedback practices, though high-achieving anxious students may struggle to receive constructive feedback.](sbe-builds-feedback-literacy-foundation.md) — related

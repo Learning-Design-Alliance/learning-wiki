@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 404 claims (267 show a difference, 96 mixed, 41 no difference) · 290 studies (100 causal, 99 associational, 42 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 7 design), `q1`–`q4` · 79 of 290 report an effect size · 392 claims rest on one study
+> **Evidence** · 408 claims (269 show a difference, 96 mixed, 43 no difference) · 292 studies (101 associational, 100 causal, 42 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 7 design), `q1`–`q4` · 80 of 292 report an effect size · 396 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -454,6 +454,10 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Growth mindset coefficients were non-significant in 19 of 74 countries, showing the mindset–achievement association is not uniform](../claims/growth-mindsets-null-19-countries.md) [~M] — learners who differ on it differ in outcomes
 - [Growth mindsets are significantly positively associated with math achievement in 50 of 74 PISA 2022 countries after controlling for socioeconomic status](../claims/growth-mindsets-positive-math-50-of-74-countries.md) [+M] — learners who differ on it differ in outcomes
 - [Growth mindsets were significantly negatively associated with math achievement in five countries, where fixed-mindset students outperformed growth-mindset students](../claims/growth-mindsets-negative-five-countries.md) [+M] — learners who differ on it differ in outcomes
+- [Previous academic interest does not positively predict subsequent need for cognition, with one negative exception for English interest at T1](../claims/interest-does-not-predict-subsequent-nfc.md) [-M] — learners who differ on it differ in outcomes
+- [Student-reported enthusiastic teaching behaviours relate positively to students' interest directly after the lesson when controlling for prior interest](../claims/enthusiastic-teaching-post-lesson-interest.md) [+M] — measured as an outcome of the instruction studied
+- [Students' interest directly after the lesson is positively related to their interest six weeks later](../claims/post-lesson-interest-predicts-six-week-interest.md) [+M] — learners who differ on it differ in outcomes
+- [TSESE, NVI and enthusiastic teaching show no significant direct or longitudinal effects on student interest once baseline interest is controlled](../claims/no-direct-effects-on-interest-controlling-baseline.md) [-M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

@@ -56,3 +56,4 @@ ARM single-antecedent rule from the 530-student survey: the OLRQ technical compe
 - [Peer-related help-seeking and learner-learner engagement strategies appear less often in profiles of students with lower digital distraction](peer-help-seeking-inversely-associated-lower-distraction.md) — related
 - [Clustering of association rules yields four distinct strategy-combination profiles characterizing lower digital distraction](four-clusters-lower-distraction-strategy-profiles.md) — related
 - [Blended implementation models matched to learner skill level: high-touch blended for lowest-skilled learners, online courses for more advanced students](blended-high-touch-lowest-skilled-adults.md) — related
+- [Dropouts reported higher learning needs, lower knowledge scores, and more skeptical attitudes toward blended learning than completers](dropout-profile-higher-needs-lower-blended-expectations.md) — related

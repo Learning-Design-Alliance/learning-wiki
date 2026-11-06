@@ -52,3 +52,4 @@ Self-developed satisfaction questionnaire administered only in the experimental 
 - [Students rate clinical reasoning skills and overall satisfaction highest among self-reported outcomes](cataract-vsim-highest-rated-outcomes.md) — related
 - [Course participants reported high satisfaction (95.5%) and perceived clinical impact (97.7%), but nearly half reported a high or moderately high learning burden](tripartite-course-satisfaction-burden-survey.md) — related
 - [AI-assisted trainees rated learning engagement and responsiveness to questions significantly higher, but learning interest and satisfaction did not differ significantly](deepseek-assistant-satisfaction-engagement-higher-interest-not.md) — related
+- [Mean Likert ratings across engagement, collaboration, conceptual understanding, and satisfaction criteria were approximately 4.00 on the 5-point scale](mhw-tbl-mean-likert-4.md) — related

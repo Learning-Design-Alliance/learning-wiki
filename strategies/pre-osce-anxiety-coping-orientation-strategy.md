@@ -45,6 +45,7 @@ The article recommends preparing students for the anxiety of high-stakes OSCE as
 ## Related Strategies
 
 - [Peer-led mock OSCE as a cost-effective strategy to reduce anxiety and support well-being before high-stakes clinical assessments](peer-led-mock-osce-strategy.md)
+- [Enhanced OSCE-specific preparation with realistic simulation sessions to reduce anxiety and improve performance](enhanced-osce-simulation-preparation.md)
 
 ## Examples
 -

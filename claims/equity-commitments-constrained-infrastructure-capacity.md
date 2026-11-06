@@ -9,7 +9,6 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 newest_evidence: 2026
-source_checked: 2026-10-29
 recheck_by: 2031
 sources:
   - id: jacob-2026
@@ -26,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
-> **Currency** · newest study 2026 · checked against its sources 2026-10-29 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
 `q2 i?` Equity is a genuine institutional value, but without sustained investment in infrastructure, staffing, and support it remains aspiration rather than practice. [→ Jacob 2026](#jacob-2026)
@@ -67,3 +66,4 @@ Focus group finding: virtually every participant stressed equity, but campuses l
 - [An institutional vision of digital technology use, supported by group commitment and professional learning, is needed to train teachers for the future of educational technology](institutional-vision-group-commitment-digital-technology.md) — related
 - [Integration of educational technology and digital tools enhances teaching and enables rapid feedback in virtual university environments](educational-technology-integration-enhances-teaching-feedback.md) — related
 - [The negative load–adaptability relationship is weaker in institutions with established technology support infrastructure](cl-institutional-infrastructure-moderates-load-adaptability.md) — related
+- [Implementation of student-formulated strategies was limited for actions outside students' governance scope, and infrastructure challenges require sustained financial and institutional support.](governance-and-resource-limits-on-student-strategies.md) — a narrower finding that bears on this claim

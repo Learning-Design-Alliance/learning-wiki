@@ -55,3 +55,4 @@ The commentary reports Bennett et al.'s qualitative study of 30 instructors at 1
 - [The reported teacher design process is not specifically for online learning design, but may inform best practices for supporting faculty's online learning design](design-process-not-specific-to-online-learning.md) — related
 - [University instructors' design process did not appear to draw on instructional design models](instructors-design-not-draw-on-id-models.md) — related
 - [Bennett and colleagues' findings suggest designing for efficiency, broad consideration of specific details, and iterative design-and-refining processes in university teachers' design work](bennett-design-efficiency-detail-refining.md) — related
+- [The CRI:SIS intervention was iteratively adapted 22 times over 12 months in response to evolving COVID-19 guidelines](crisis-iterative-guideline-adaptations.md) — related

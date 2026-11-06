@@ -51,3 +51,4 @@ Subgroup analysis by intervention duration across the 15 trials, reported in Tab
 - [Interventions lasting ≥24 weeks show larger effects on mathematics and overall academic achievement than shorter interventions](longer-interventions-improve-mathematics-and-overall-achievement.md) — related
 - [Intervention duration significantly moderates Gen-AI's effect on HOT, with the strongest effects at 8–16 weeks (ES = 0.759) and weaker effects for shorter (0.494) and longer (0.372) interventions](genai-intervention-duration-moderator.md) — related
 - [Meta-regression finds no significant moderators of VR's effect on anatomy examination scores](vr-anatomy-meta-regression-no-moderators.md) — related
+- [A large-scale VR distance-education anatomy program achieved statistically significant examination scores compared to previous in-person laboratories](vr-distance-anatomy-significant-exam-scores.md) — related

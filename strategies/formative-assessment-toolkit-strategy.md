@@ -50,6 +50,7 @@ The article recommends that in the evaluation phase, student learning should be 
 - [Formative Assessment to Gauge Student Progress and Guide Instruction](formative_assessment_to_gauge_student_progress_and_guide_instruction.md)
 - [Revision And Resubmission](revision-and-resubmission.md)
 - [Revision Cycles](revision-cycles.md)
+- [Align assessment strategies with each competency area using simulations, projects, and reflective portfolios](quintuple-aim-aligned-assessment-strategies.md)
 
 ## Examples
 -

@@ -46,6 +46,7 @@ Because "the high cost of LTM equipment limits scalability in low-income areas",
 - [Prioritise cost-effective and low-fidelity or remote modalities in resource-limited settings and pursue longitudinal, context-specific SBE research](scalable-low-fidelity-telesimulation-resource-limited-settings.md)
 - [Address resource constraints and design quality when implementing virtual laboratories in low- and middle-income contexts](virtual-lab-implementation-resource-constrained-contexts.md)
 - [Prioritize scalable, low-cost simulation solutions and phased implementation so resource-limited settings can adopt the RT competency framework](scalable-low-cost-simulation-phased-implementation-rt.md)
+- [Checklist for virtual training adoption in low-resource settings](virtual-training-adoption-checklist.md)
 
 ## Examples
 -

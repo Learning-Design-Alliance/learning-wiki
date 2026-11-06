@@ -46,3 +46,4 @@ The review reports "a cost reduction of 13.2% per student" from one included stu
 
 ## Related Claims
 - [Of 22 included studies on active learning in public health education, 11 used PBL only, 6 used TBL, 3 integrated PBL and CBL, and 2 used CBL only](22-studies-pbl-11-tbl-6-cbl-2-both-3.md) — related
+- [Cost reduction competencies focus on operational efficiency, resource optimization, and economic evaluation of digital health solutions](cost-reduction-digital-health-competencies.md) — a broader claim this one bears on

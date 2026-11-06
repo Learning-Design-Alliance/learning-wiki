@@ -47,3 +47,4 @@ Thematic analysis of semi-structured interviews and focus groups with 25 stakeho
 ## Related Claims
 - [Stakeholders identified challenges of limited realism, SP recruitment and retention difficulties, scheduling disruptions, and confidentiality breaches in the SP programme](sp-programme-challenges-realism-recruitment.md) — related
 - [Thematic analysis of focus groups and open-ended responses identified immersion, clinical communication practice and safe decision-making environments as key perceived benefits](vr-pilot-qualitative-benefit-themes.md) — related
+- [LTT is valued for practising rare technical skills, especially haemorrhage control, that learners are not otherwise exposed to in clinical practice](ltt-valued-rare-haemorrhage-skills.md) — related

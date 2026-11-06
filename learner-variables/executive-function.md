@@ -13,7 +13,7 @@ generated:
 # Executive Function
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 146 claims (87 show a difference, 27 mixed, 32 no difference) · 93 studies (33 associational, 27 causal, 15 review, 12 quant-synthesis, 4 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 25 of 93 report an effect size · 144 claims rest on one study
+> **Evidence** · 149 claims (89 show a difference, 28 mixed, 32 no difference) · 94 studies (34 associational, 27 causal, 15 review, 12 quant-synthesis, 4 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 25 of 94 report an effect size · 147 claims rest on one study
 
 ## Description
 Executive function covers inhibitory control, updating working memory, and shifting between tasks or rules. It is measured by performance tasks (such as the Stroop, Flanker and dimensional card-sort tasks) and by teacher or parent ratings. It develops through childhood and adolescence, predicts school readiness and achievement, moderates designs that load self-direction on learners, and is the target of training programmes, whose effects rarely transfer beyond the trained tasks. It underlies [self-regulation](self-regulation.md) and [attention](attention.md) and overlaps with [working memory](working-memory.md).
@@ -183,6 +183,9 @@ Executive function covers inhibitory control, updating working memory, and shift
 - [Active-break and control groups differed on the Stroop Test regardless of time, but the Group × Time interaction was not significant, so no effect of the active breaks on inhibitory control was shown](../claims/active-breaks-improve-executive-function-stroop.md) [~W] — measured as an outcome of the instruction studied
 - [Fitness and executive function partially mediate the relationship between gross motor competence and academic achievement in schoolchildren aged 9-11](../claims/fitness-and-executive-function-partially-mediate-gmc-academic-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [VR-based disaster simulation education increases cognitive flexibility while it decreases in the written-case group](../claims/vr-simulation-cognitive-flexibility-gain.md) [+M] — measured as an outcome of the instruction studied
+- [Higher baseline cognitive flexibility predicts better reading achievement one year later in school-aged children](../claims/cognitive-flexibility-predicts-reading-longitudinally.md) [+W] — learners who differ on it differ in outcomes
+- [Higher baseline reading achievement predicts greater cognitive flexibility one year later in school-aged children](../claims/reading-predicts-cognitive-flexibility-longitudinally.md) [+W] — measured as an outcome of the instruction studied
+- [Reading achievement promotes cognitive flexibility development regardless of baseline reading level, while cognitive flexibility promotes reading only at higher baseline levels](../claims/asymmetric-moderation-reading-flexibility.md) [~W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a child's executive function predict achievement, and through what?* [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](../claims/ef-predicts-preschool-math-growth.md) [+M]

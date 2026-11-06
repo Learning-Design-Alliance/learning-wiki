@@ -77,3 +77,4 @@ Synthesized finding from the meta-synthesis of 17 qualitative studies, drawing o
 - [Externally enrolled (online) midwifery students felt more confident with virtual platforms through their mode of study rather than telehealth training](external-online-students-virtual-platform-confidence.md) — a narrower finding that bears on this claim
 - [Simulation increased male nursing students' self-confidence for clinical practice](simulation-increased-male-students-self-confidence.md) — related
 - [Rwandan medical students perceive simulation as critical for acquiring procedural skills in a relaxed, no-stakes environment and for practicing rare procedures](simulation-procedural-skills-relaxed-no-stakes.md) — related
+- [DVRS students reported the simulator relieved procedural anxiety, honed operational skills, and boosted confidence for clinical practice](dvrs-anxiety-skills-confidence-ratings.md) — a narrower finding that bears on this claim

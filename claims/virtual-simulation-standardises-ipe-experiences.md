@@ -47,3 +47,4 @@ Focus group participants contrasted pre-programme variability with uniform core 
 ## Related Claims
 - [Students perceive virtual simulation as creating equitable, low-pressure, psychologically safe environments that enable autonomy and confidence](virtual-simulation-low-pressure-psychological-safety.md) — related
 - [Students perceive consequence-based virtual scenarios as developing real-time collaborative communication and shared decision-making](consequence-based-virtual-scenarios-collaborative-communication.md) — related
+- [VR training standardises learning experiences by ensuring all learners complete the same scenarios, unlike variable participation in traditional simulation](vr-standardisation-of-scenarios.md) — related

@@ -64,3 +64,7 @@ Test-retest reliability was assessed with 46 nurses across two administrations s
 - [ATSHWS scores are temporally stable over a 15-day test-retest interval (ICC 0.900; r 0.951)](atshws-test-retest-stability-15-day.md) — related
 - [The LISA-AT shows high test-retest reliability (Spearman's rho = 0.87), high internal consistency (Cronbach's alpha = 0.88), and good inter-rater reliability (Cronbach's alpha = 0.82)](lisa-at-reliability-evidence.md) — related
 - [The palliative care communication scale shows high internal consistency (overall Cronbach's α = 0.928) and 2-week test-retest reliability of 0.89](palliative-communication-scale-reliability-alpha-0928-retest-089.md) — related
+- [The CCDNS-DRN shows high internal consistency and two-week test–retest stability](ccdns-drn-reliability-coefficients.md) — related
+- [Internal consistency of the tool's three category scores is satisfactory, with Cronbach's α of 0.84 for positive and mixed videos and 0.91 for the negative video](fbat-internal-consistency-cronbach.md) — related
+- [Translated and adapted questionnaires showed good reliability for SRIS, PCS and CS but weak separation of SRQ-L-PJ regulation subscales](questionnaire-psychometrics-german-fyms.md) — related
+- [The questionnaire's internal consistency is confirmed with a Cronbach's alpha of 0.84 and PCA reveals two distinct dimensions](questionnaire-reliability-cronbach-alpha-084-two-dimensions.md) — related

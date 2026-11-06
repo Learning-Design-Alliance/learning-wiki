@@ -54,3 +54,4 @@ Binary logistic regression predicting good knowledge among 400 dentists, adjuste
 - [Prior ECG training is the only independent predictor of adequate ECG knowledge after adjustment](prior-ecg-training-predicts-adequate-knowledge.md) — a narrower finding that bears on this claim
 - [Health care professionals from the Volta and Oti regions were 4.94 times more likely than those from Bono East to have adequate BLS knowledge and skills](volta-oti-higher-bls-odds-than-bono-east.md) — related
 - [Workshop attendance positively predicts case-report knowledge while holding a professional physical-therapy degree predicts lower scores](regression-case-report-predictors.md) — related
+- [None of five background predictors (gender, age, years since education, self-assessed knowledge, continuing education) significantly predicted dentists' overall proportion of correct answers](no-predictor-significant-overall-correct-answers.md) — related

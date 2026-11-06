@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/digital-hoarding-not-related-engagement.md
+---
+
+# Revision history: [claims/digital-hoarding-not-related-engagement](../claims/digital-hoarding-not-related-engagement.md)
+
+### 2026-11-06 · ingest · process:wiki-ingest
+Ingested from pmc-12386574 (Lots of Digital Files? How Digital Hoarding Is Related to the Academic Performance of University Students.) via eval_harness.py + ingest_extractions.py

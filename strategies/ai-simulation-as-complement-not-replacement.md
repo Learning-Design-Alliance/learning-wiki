@@ -61,6 +61,7 @@ The authors recommend treating AI-enhanced simulation as an augmenting strategy 
 - [Implement VR in clinical education as a complement with robust infrastructure, faculty training, and short adaptive sessions](vr-complementary-implementation-strategy-clinical-education.md)
 - [Use immersive VR virtual patient scenarios to give pre-clinical and multicultural students safe, repeatable clinical communication practice](vr-safe-practice-preclinical-multilingual-strategy.md)
 - [Integrate occupational adaptive learning with simulation training, case studies, and interdisciplinary collaboration to strengthen clinical pharmacist preparation](integrate-adaptive-learning-with-simulation-case-studies.md)
+- [Enhance escape room simulation fidelity with AR, VR, AI, and real-time adaptive data](er-emerging-technology-fidelity-strategy.md)
 
 ## Examples
 -

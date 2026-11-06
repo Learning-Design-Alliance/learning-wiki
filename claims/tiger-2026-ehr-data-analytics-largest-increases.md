@@ -48,3 +48,4 @@ Table 3 reports changes in relevance ratings from 2018 to 2026. For example, dat
 - [A set of invariant competency areas forms the stable core of nursing informatics education across 2018 and 2026](tiger-2026-invariant-core-competency-areas.md) — related
 - [IT Management in Nursing requires the broadest competency coverage, supporting a full study programme rather than a single course](tiger-2026-it-management-broadest-coverage.md) — related
 - [Expert survey of 117 participants from 28 countries rated all top-10 competency areas above 79% relevance across the five roles](tiger-2026-survey-top10-high-relevance.md) — related
+- [Population health competencies emphasize data-driven decision-making, analytics, and health informatics for public health interventions](population-health-digital-health-competencies.md) — related

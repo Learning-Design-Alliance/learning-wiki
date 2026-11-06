@@ -299,6 +299,7 @@ This pattern is scoped to rehearsal of an interaction with a person who responds
 - [Use student standardized patients with role rotation and multi-source debriefing in scenario-based skills training](../strategies/ssp-role-rotation-debriefing-strategy.md)
 - [Structure AI virtual patient sessions with pre-briefing, a structured diagnostic guide, and case-specific debriefing](../strategies/pre-briefing-debriefing-ai-virtual-patient-session.md)
 - [Avatar-based ad hoc entrustment simulation with 36 clinical scenarios and FACSGen-animated expressions](../designs/avatar-entrustment-simulation-paradigm.md)
+- [Enhanced OSCE-specific preparation with realistic simulation sessions to reduce anxiety and improve performance](../strategies/enhanced-osce-simulation-preparation.md)
 
 ## Related Patterns
 - [Case-Based Learning](case-based-learning.md)

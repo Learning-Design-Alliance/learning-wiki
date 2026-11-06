@@ -50,3 +50,4 @@ Explanatory sequential mixed-methods study (Tunnard et al. 2024, UK) surveying 8
 - [Care home managers show moderate palliative care knowledge, strong on psychosocial aspects but weak on biological and physical components](pcqn-manager-knowledge-gaps-physical-care.md) — related
 - [A narrative synthesis of eight studies identifies three themes describing nurse managers' palliative care awareness and competence in municipal care](three-themes-nm-palliative-competence-review.md) — related
 - [IVR simulation significantly improves nursing students' self-efficacy but not satisfaction or confidence](ivr-improves-self-efficacy-not-satisfaction-confidence.md) — related
+- [Family physicians with prior palliative care training reported significantly higher sarcopenia management competence than those without](palliative-care-training-higher-sarcopenia-competence.md) — related

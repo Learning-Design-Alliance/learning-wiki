@@ -52,3 +52,4 @@ Narrative synthesis of 17 satisfaction studies, mostly item-by-item survey compa
 - [Evidence comparing virtual patient design variants is too sparse to give clear recommendations, with only isolated significant design effects](vp-design-variants-insufficient-evidence.md) — related
 - [Students valued VSP convenience but rated realism and feedback value below human standardized patients](vsp-student-feedback-convenience-high-realism-low.md) — a narrower finding that bears on this claim
 - [Over 90% of residents responded positively to most feedback items, but about 57% were neutral or negative on time required](snapps-feedback-positive-except-time-burden.md) — related
+- [Preference for the simulator over animal models differs significantly by expertise, with undergraduates rating it higher (4.22) than experts (3.53)](expertise-moderates-preference-over-animal-models.md) — related

@@ -74,3 +74,4 @@ Cross-case discussion identifies the inclusion dilemma: greater inclusion via di
 - [Infrastructure inequities — chronic bandwidth limitations, power outages, and device incompatibility — severely disrupt proctored assessments and exacerbate educational disadvantages in low-resource settings](infrastructure-inequities-disrupt-proctored-assessments.md) — related
 - [Computing education has historically excluded marginalized student populations, and large inequities in access persist](computing-education-historic-exclusion-inequity.md) — related
 - [During spring 2020 remote instruction, internet connectivity and hardware/software problems interfered with course participation for large shares of undergraduates](remote-covid-technology-access-problems-widespread.md) — related
+- [Health equity competencies emphasize inclusivity, cultural safety, and elimination of digital divides](health-equity-digital-health-competencies.md) — related

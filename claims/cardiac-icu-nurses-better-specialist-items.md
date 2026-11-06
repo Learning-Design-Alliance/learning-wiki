@@ -49,3 +49,4 @@ Chi-squared comparison between cardiac and general ICU nurses in the survey of 1
 - [Greek ICU nurses demonstrate moderate theoretical ECG knowledge, with a median composite score of 6.0 of 10](icu-nurses-moderate-ecg-knowledge-greece.md) — related
 - [Accuracy on basic ECG electrophysiology items is high but drops sharply on complex patterns](ecg-basic-high-complex-low-accuracy.md) — related
 - [Acute-care nurses (ED/UCC, ICU/HDU) demonstrate significantly higher sepsis knowledge than general ward nurses](acute-care-nurses-higher-sepsis-knowledge.md) — related
+- [Nurses' ECG arrhythmia interpretation knowledge rose significantly from pre-test to post-test after a self-directed e-learning package in cardiology units, in one uncontrolled pre-test/post-test study](sdl-package-improves-nurse-ecg-arrhythmia-interpretation.md) — related

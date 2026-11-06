@@ -54,3 +54,4 @@ One-group pretest–posttest quasi-experiment in seventh-grade classes at two sc
 - [No significant gender difference in particle-concept gains from the courseware (male N-gain 0.45 vs female 0.65, p = 0.265)](no-gender-difference-particle-concept-gain.md) — related
 - [Descriptively, male students outperformed female students at all three levels of Light waves overall](males-outperform-females-descriptive-gains.md) — reports the opposite
 - [Only female students made significant gains on the Geometric Spatial Assessment, and no male group gained on any GSA domain](gsa-gains-females-only.md) — related
+- [Knowledge improvement after the SDL package does not differ significantly by gender](no-gender-difference-sdl-ecg-knowledge-gain.md) — related

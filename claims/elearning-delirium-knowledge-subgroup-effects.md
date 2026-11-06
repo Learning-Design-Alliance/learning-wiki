@@ -51,3 +51,4 @@ Exploratory subgroup analyses in the same 80-nurse pilot, reported in Table 2 by
 - [Behavioral effects of web-based learning with peer-facilitated discussion are mostly consistent across education levels but show some subgroup differences](web-peer-discussion-behavior-subgroup-differences.md) — related
 - [Web-based learning with peer-facilitated discussion improves nursing students' knowledge of work-related biological exposure compared to traditional lectures](web-peer-discussion-improves-biological-exposure-knowledge.md) — related
 - [In the pilot study, nurses' subjective confidence in recognizing delirium increased from a median of 5 to 7 on a 10-point scale (r = 0.92)](elearning-delirium-recognition-confidence-gain.md) — related
+- [Among lower-baseline nurses (exposure A), the training program yielded the largest gains in the science (MD=29.93) and assess (MD=25.04) domains](exposure-a-largest-gains-science-assess.md) — related

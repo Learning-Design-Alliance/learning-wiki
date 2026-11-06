@@ -47,3 +47,4 @@ In the same 3-group quasi-experimental study, adjusted analyses of the Dundee St
 ## Related Claims
 - [ER-VIPE with co-debriefing significantly increased DSSQ-engagement relative to computer-based SIMBIE without debriefing at 1-month follow-up](ervipe-engagement-increase-versus-control.md) — related
 - [ER-VIPE with co-debriefing significantly lowered burnout relative to computer-based SIMBIE without debriefing, while the VR-based ER-VIPE arm showed no significant burnout differences](ervipe-burnout-reduction-versus-control.md) — related
+- [Simulation-based interprofessional education combining medical movies, MOOCs, 3D simulation, and co-debriefing significantly improves TeamSTEPPS team performance versus 3D simulation without preparation or debriefing](multimodal-simbie-codebriefing-improves-teamstepps-performance.md) — related

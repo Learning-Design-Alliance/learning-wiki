@@ -51,3 +51,4 @@ Path analyses (Table 5, N = 585) showed "ASE exhibited a mediating effect via th
 - [Nomophobia is negatively associated with academic self-efficacy and clinical performance among nursing interns](nomophobia-negative-ase-clinical-performance.md) — related
 - [Academic self-efficacy positively predicts clinical performance in nursing internship students](ase-positive-prediction-clinical-performance.md) — related
 - [In the 2024 survey sample, 37.08% of students showed technology addiction and 63.15% reported poor academic performance](prevalence-tech-addiction-poor-performance-445-latin-american-students.md) — related
+- [About 23% of the sampled students showed a tendency towards study addiction, exceeding international prevalence rates](study-addiction-tendency-prevalence-german-sample.md) — related

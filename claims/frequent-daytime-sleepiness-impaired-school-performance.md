@@ -83,3 +83,4 @@ Same prospective cohort, baseline sleepiness predicting follow-up school perform
 - [Short sleep duration at age 3 was not associated with quality of life at about age 13](sleep-quality-of-life-null-longitudinal.md) — related
 - [Thirty to forty-eight hours of sleep loss produced no greater efficiency loss than the gain due to practice, despite reported feelings of fatigue](sleep-loss-efficiency-no-worse-than-practice-gain.md) — reports the opposite
 - [Referred students reported significantly longer commute times and slightly longer sleep duration than non-referred students](commute-time-sleep-associated-referral-ghana-nursing.md) — related
+- [Headache, stress/anxiety, and fasting-affected sleep are associated with markedly higher sleepiness and fatigue during fasting](fasting-symptoms-associated-sleepiness-fatigue.md) — related

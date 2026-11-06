@@ -19,7 +19,7 @@ sources:
 # Culturally Responsive Classroom Norms
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (15 for, 6 mixed, 1 against) · 28 studies (7 causal, 7 quant-synthesis, 6 review, 4 qualitative, 2 associational, 2 theoretical), `q1`–`q4` · 6 of 28 report an effect size · 14 claims rest on one study
+> **Evidence** · 23 claims (16 for, 6 mixed, 1 against) · 29 studies (7 causal, 7 quant-synthesis, 6 review, 5 qualitative, 2 associational, 2 theoretical), `q1`–`q4` · 6 of 29 report an effect size · 15 claims rest on one study
 
 ## Conditional relationship
 
@@ -126,6 +126,7 @@ The earlier page cited one claim, [Reviews of classroom studies, read from their
 - [Pragmatic values of keeping order counteracted the democratic values teachers were mandated to realise](../claims/pragmatic-values-counteract-democratic-values.md) [+W]
 - [Within the CoP model, learners who do not progress toward the centre through nonparticipation are relegated to the fringes with invalidated identities](../claims/cop-nonparticipation-invalidates-learner-identities.md) [+W]
 - [The Good Language Learner metanarrative persists in sociocultural accounts by equating success with access to community conversations](../claims/gll-metanarrative-persists-sociocultural-theory.md) [+W]
+- [CALD students negotiate cultural differences in Australian simulation norms while drawing on cultural background as a strength](../claims/cald-cultural-identity-negotiation-sbl.md) [+W] — attached 2026-11-06 from Zhang et al. (2025), which proposed "Design SBL environments that foster inclusive peer interactions and culturally responsive educator-student relationships".
 
 ## Objective and learner-valued goal
 

@@ -52,3 +52,4 @@ Retrospective observational study of 198 residents at one Chinese hospital; gene
 - [The association between later chronotype and lower math grades is strongest in the morning timing, indicating a synchrony effect that partially counteracts the chronotype effect](synchrony-effect-math-slopes.md) — related
 - [Higher loneliness scores were associated with higher odds of better standardized training grades](loneliness-associated-better-residency-grades.md) — related
 - [Each point lower on the MEQ-SA morningness scale was associated with higher odds of better training grades](meq-sa-score-lower-grades-association.md) — possibly the same claim (merge candidate)
+- [Adolescents with an evening chronotype report significantly lower GPA than those with a morning chronotype](evening-chronotype-lower-gpa-than-morning.md) — related

@@ -68,3 +68,4 @@ The article argues from its literature synthesis, citing established digital-ine
 - [In Higher Education, disciplinary culture and context, together with technology, shape pedagogical practice and the digital capabilities teachers need](disciplinary-culture-shapes-he-digital-capabilities.md) — related
 - [The review finds digital environments produce disparate, even counterproductive effects during abrupt transitions and in low-resource communities](abrupt-transition-disparate-counterproductive-effects.md) — related
 - [Institutional inequity and data governance gaps may widen existing disparities and compromise privacy without explicit safeguards](ai-formative-assessment-equity-data-governance-risk.md) — related
+- [Health equity competencies emphasize inclusivity, cultural safety, and elimination of digital divides](health-equity-digital-health-competencies.md) — related

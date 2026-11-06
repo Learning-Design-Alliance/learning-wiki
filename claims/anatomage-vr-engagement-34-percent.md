@@ -51,3 +51,4 @@ The review reports, citing Koney et al. (2024), a 34% engagement increase for vi
 - [Voice modality roughly doubled dialogue turns and question-asking on equal engaged time within the same students](voice-doubles-turns-and-questions-equal-engaged-time.md) — related
 - Studies comparing digital tools to other instruction without hypothesizing instructional features cannot explain why effects occur — related
 - [Anatomy education faces declining curriculum hours and constrained cadaver access driven by cost, ethics, and culture, motivating alternative methods](anatomy-hours-cadaver-access-declining-motivating-alternatives.md) — related
+- [VR simulation is more cost-effective than cadaver-based and mannequin-based training](vr-training-cost-effectiveness.md) — related

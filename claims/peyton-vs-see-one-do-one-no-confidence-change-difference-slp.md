@@ -49,3 +49,4 @@ Same randomized controlled trial; confidence was measured by pre- and post-works
 - [Peyton's 4-step method and \"see one, do one\" produce no statistically significant difference in simulated lumbar puncture checklist scores among first-year medical students](peyton-vs-see-one-do-one-no-checklist-score-difference-slp.md) — related
 - [Students taught with Peyton's 4-step method complete a simulated lumbar puncture significantly faster than students taught with \"see one, do one\"](peyton-method-faster-slp-completion-time.md) — related
 - [The authors hypothesize that the cognitive load of complex procedures dilutes the additional visual repetitions of Peyton's 4-step approach](cognitive-load-hypothesis-peyton-complex-procedures.md) — related
+- [Simulator-trained students felt significantly more comfortable and confident about their subsequent lumbar punctures](simulator-training-confidence-next-lp.md) — related

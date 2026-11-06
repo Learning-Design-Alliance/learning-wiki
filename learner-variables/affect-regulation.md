@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 289 claims (207 show a difference, 52 mixed, 30 no difference) · 186 studies (62 associational, 52 causal, 32 review, 14 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 42 of 186 report an effect size · 281 claims rest on one study
+> **Evidence** · 293 claims (210 show a difference, 53 mixed, 30 no difference) · 189 studies (65 associational, 52 causal, 32 review, 14 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 42 of 189 report an effect size · 285 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -329,6 +329,10 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [High-anxiety students show significant post-procedure declines in state anxiety, though scores remain above the clinical threshold](../claims/post-procedure-anxiety-decline-high-anxiety.md) [+M] — measured as an outcome of the instruction studied
 - [Longer weekly research training is positively correlated with medical undergraduates' stress levels](../claims/training-hours-positively-correlated-stress.md) [+M] — measured as an outcome of the instruction studied
 - [Low-anxiety students over-instrument more often than high-anxiety students during mandibular root canal procedures in simulation](../claims/low-anxiety-over-instrumentation-mandibular.md) [+M] — learners who differ on it differ in outcomes
+- [Academic resilience and cognitive test anxiety form a significant chain mediation path between smartphone addiction and academic achievement](../claims/chain-resilience-anxiety-mediation-path.md) [+M] — learners who differ on it differ in outcomes
+- [Cognitive test anxiety mediates the negative association between smartphone addiction and academic achievement, and was the strongest mediator](../claims/cognitive-test-anxiety-mediation-smartphone-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Prior teaching experience relates to lower anxiety and higher control appraisals, while coaching by a trained cooperating teacher relates to higher anxiety](../claims/prior-experience-lower-anxiety-coaching-higher-anxiety.md) [~M] — measured as an outcome of the instruction studied
+- [State anxiety measured before the OSCE decreased after completing the test in both cohorts, suggesting exam-related rather than persistent anxiety](../claims/state-anxiety-decreases-after-osce.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

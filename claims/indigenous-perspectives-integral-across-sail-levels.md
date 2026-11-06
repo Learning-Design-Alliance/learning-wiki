@@ -49,3 +49,4 @@ Authors' description of the framework's cultural-equity design (Section 6.2), gr
 - [Delphi and wider-review feedback led Level 4 to be repositioned as beyond AI literacy, clarifying the boundary of AI literacy](sail-level-four-beyond-ai-literacy-boundary.md) — related
 - [SAIL is designed to address second- and third-level digital divides through scaffolded skills and explicitly embedded equity competencies](sail-addresses-second-third-level-digital-divides.md) — related
 - [Classic African board games function as learning spaces where multidomain learning occurs](classic-african-board-games-learning-spaces.md) — related
+- [Health equity competencies emphasize inclusivity, cultural safety, and elimination of digital divides](health-equity-digital-health-competencies.md) — related

@@ -55,3 +55,4 @@ Feasibility outcomes from the pilot trial: 40 interns enrolled, 5 excluded befor
 - [After usability testing and refinement, the simulation was piloted with 23 residents without unanticipated technical problems](pilot-23-residents-no-implementation-issues.md) — related
 - [Simulation interventions showed positive usability and feasibility, with technical preparation needs sometimes causing non-completion](usability-feasibility-technical-issues.md) — a broader claim this one bears on
 - [All 20 enrolled residents completed the full simulation-based mastery learning program for nasolacrimal duct probing](sbml-nasolacrimal-probing-feasibility-completion.md) — related
+- [The chorda tympani replica was interrupted in every training session, with residents damaging it earlier than specialists, and it was the least appreciated structure in participant feedback](3dst-chorda-tympani-fragility-limitation.md) — related

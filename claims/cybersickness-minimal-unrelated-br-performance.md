@@ -52,3 +52,4 @@ Post-exam Simulation Sickness Questionnaire administered after the mock bellring
 - [VR participants report more technical issues and cybersickness symptoms than slideshow participants](vr-technical-issues-cybersickness.md) — related
 - [Motion sickness after the iVR experience was negligible for most participants, but a minority felt significant discomfort](ivr-motion-sickness-negligible-minority-discomfort.md) — related
 - [Cognitive load and cybersickness correlate negatively with sense of relevance and confidence in VR anatomy learning, though cybersickness was rare in this cohort](vr-cognitive-load-cybersickness-negative-correlations.md) — related
+- [Cybersickness screening showed no concern for any student before or after MHW exposure](mhw-cybersickness-no-concern.md) — related

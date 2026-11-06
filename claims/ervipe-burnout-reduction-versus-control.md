@@ -50,3 +50,5 @@ Copenhagen Burnout Inventory measured at baseline, pre-intervention, postinterve
 - [DSSQ-worry and DSSQ-distress decreased nonsignificantly across all three study groups](dssq-worry-distress-nonsignificant-decreases.md) — related
 - [Within the traditional classroom instruction group, burnout dimensions did not change significantly from pre-test to post-test](control-group-no-burnout-changes.md) — related
 - [Participants perceived facilitator-guided debriefing as more effective than self-guided debriefing despite comparable performance outcomes](facilitator-debriefing-perceived-more-effective.md) — related
+- [Simulation-based interprofessional education combining medical movies, MOOCs, 3D simulation, and co-debriefing significantly improves TeamSTEPPS team performance versus 3D simulation without preparation or debriefing](multimodal-simbie-codebriefing-improves-teamstepps-performance.md) — related
+- [VR-based and 3D computer-based SimBIE formats produce statistically equivalent TeamSTEPPS performance gains](vr-versus-computer-simbie-equivalent-team-performance.md) — related

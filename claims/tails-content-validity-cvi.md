@@ -62,3 +62,4 @@ Mixed quantitative–qualitative expert review with seven experts in teacher edu
 - [Most Aquablation procedural steps receive I-CVI values exceeding 0.80, with average relevance scores of 3.5 or higher and medians reaching 4](aquablation-content-items-icvi-above-080.md) — related
 - [The ATSHWS shows excellent content validity, with a mean CVI of 0.976 and every item above 0.80](atshws-content-validity-cvi-0-976.md) — related
 - [Expert-rated content validity of the scale is strong, with item-level CVI of 0.80 to 1.00 and scale-level CVI of 0.96](endoscopy-nurse-scale-content-validity.md) — related
+- [Expert consultation rated the CCDNS-DRN with excellent content validity (I-CVI 0.78–1.0, S-CVI/UA 0.85, S-CVI/Ave 0.98)](ccdns-drn-content-validity-expert-consultation.md) — related

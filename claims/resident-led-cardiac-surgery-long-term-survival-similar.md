@@ -49,3 +49,4 @@ Kaplan-Meier survival analysis of the propensity-matched cohort of 803 resident-
 - [In an emergency-surgery subgroup, autonomous resident-led cases achieved outcomes comparable to matched consultant-led emergency cases](resident-led-emergency-surgery-comparable-outcomes.md) — related
 - [In-hospital mortality, complications and postoperative hospitalization were similar between resident-led and consultant-led matched cases](resident-led-in-hospital-outcomes-similar.md) — related
 - [Case allocation differed by complexity: consultants performed more combined and multivalve procedures while residents performed more isolated CABG](case-complexity-allocation-resident-vs-consultant.md) — related
+- [Trainee-performed total knee replacements achieve unadjusted all-cause revision outcomes comparable to consultant-performed TKRs, with implant survivorship within the ODEP A* benchmark](trainee-tkr-comparable-unadjusted-revision-outcomes.md) — related

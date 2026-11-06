@@ -70,6 +70,7 @@ The review recommends that structured, interactive and hands-on diabetic foot ca
 - [Integrate targeted one-hour interactive online lectures on common orofacial conditions into continuing dental education, with periodic reinforcement](targeted-online-lecture-continuing-dental-education.md)
 - [Implement targeted training strategies plus standardized protocols and institutional support to improve diabetic foot management](targeted-training-and-protocols-diabetic-foot.md)
 - [Incorporate case-based learning and interactive components into asynchronous virtual care CPD modules](strategy-case-based-learning-virtual-care-cpd.md)
+- [Implement mandatory, flexible, and financially supported CPD programs in public dental services with peer learning and monitoring](mandatory-flexible-supported-pds-cpd-strategy.md)
 
 ## Examples
 -

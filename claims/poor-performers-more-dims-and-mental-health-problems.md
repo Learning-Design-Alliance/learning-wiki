@@ -50,3 +50,4 @@ Bivariate comparisons (chi-square and Kruskal-Wallis tests) between the poor aca
 - [Pubertal timing shows no association with accelerated biological age in children, but more advanced pubertal development relates to a faster pace of aging and higher inflammation](pubertal-timing-mps-pace-of-aging-null-and-mixed.md) — related
 - [Improving parental mental health in general may not in itself improve children's educational outcomes](improving-parental-mental-health-may-not-improve-achievement.md) — related
 - [Early marriage is associated with poorer academic performance and higher chronic absenteeism among female Haor students](early-marriage-poorer-performance-absenteeism-female-students.md) — related
+- [A higher share of study hours missed because of mental health problems was associated with lower academic performance](absenteeism-mental-health-academic-decrease.md) — related

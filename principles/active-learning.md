@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 87 claims (51 for, 32 mixed, 4 against) · 71 studies (33 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 11 of 71 report an effect size · 79 claims rest on one study
+> **Evidence** · 88 claims (52 for, 32 mixed, 4 against) · 72 studies (34 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 11 of 72 report an effect size · 80 claims rest on one study
 
 ## Conditional relationship
 
@@ -168,6 +168,7 @@ Claims read against the model on 2026-10-19 that do not change it. Each says why
 - [Students found argumentation-based activities fun and instructive, with experimenting the most-liked part](../claims/student-views-argumentation-activities-fun-instructive.md) [+W] — attached 2026-11-03 from Mehmet Erkol et al. (2023), which proposed "Minimize written worksheet load in argumentation activities and favor hands-on experimentation".
 - [Anesthesiologist-led active learning yields higher 12-month theoretical knowledge retention in medical history-taking, vital signs monitoring, and safe local anesthetic dosing than theory-based instruction](../claims/anesthesiologist-led-active-learning-12-month-knowledge-retention.md) [+W] — attached 2026-11-04 from Erkan Gözde Nur (2026), which proposed "Incorporate interdisciplinary, specialist-led active learning into health education curricula to support long-term knowledge retention and autonomous clinical practice"; tests this page's relationship.
 - [Active learning students report higher confidence in independently managing high-risk patients at 12 months (46.7% vs. 6%, r = 0.467)](../claims/active-learning-higher-confidence-managing-high-risk-patients.md) [+W] — attached 2026-11-04 from Erkan Gözde Nur (2026), which proposed "Incorporate interdisciplinary, specialist-led active learning into health education curricula to support long-term knowledge retention and autonomous clinical practice"; tests this page's relationship.
+- [Across five units and 15 objectives, students scored higher on the examination question for the objective they had prepared and taught than students who taught other objectives, in non-randomised groups analysed per student](../claims/peer-teachers-outperform-peer-learners-assigned-objective.md) [+W] — attached 2026-11-06 from Bradley LJ et al. (2025), which proposed "Design active learning so students prepare and teach specific content, since performance benefits attach to the taught material rather than receiving peer instruction".
 
 ## Objective and learner-valued goal
 

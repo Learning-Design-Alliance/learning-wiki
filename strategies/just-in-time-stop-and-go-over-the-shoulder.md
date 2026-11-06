@@ -48,6 +48,7 @@ For time-constrained settings, the article recommends just-in-time methods. In t
 - [One-minute preceptor: five micro steps for short, focused bedside teaching encounters](one-minute-preceptor-five-micro-steps.md)
 - [Use screen-based 360° contextual simulation videos as a scalable supplement when supervised practice opportunities are constrained](360-video-scalable-supplement-nursing.md)
 - [Introduce just-in-time simulation training immediately prior to clinical procedures](just-in-time-simulation-bronchoscopy.md)
+- [Pause & Discuss: student-controlled pausing of simulation for team clinical reasoning](pause-and-discuss-simulation-strategy.md)
 
 ## Examples
 -

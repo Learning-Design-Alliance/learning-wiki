@@ -52,3 +52,4 @@ Pre-post quasi-experimental study of 52 ICU nurses at Dhaka Medical College Hosp
 - [Among ICU nurses, the proportion classified as high knowledge-based competence rose from pre-test to post-test after training, in one single-group pre-post study of VAP prevention](vap-competence-category-shift-after-training.md) — related
 - [Experience variables did not predict post-training VAP knowledge-based competence](experience-did-not-predict-post-training-vap-knowledge.md) — related
 - [Skill and motivation/work engagement scores plateaued during the implementation phase after EBP training](skill-motivation-plateau-during-implementation.md) — related
+- [A 40-hour EBP training program produces statistically significant posttest improvements in all five HS-EBP competency domains relative to no intervention in hospital nurses](40-hour-ebp-training-improves-all-five-hs-ebp-domains.md) — related

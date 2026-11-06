@@ -59,3 +59,4 @@ Bivariate correlations in the descriptive analysis of the full sample showed gen
 - [Gender affects levels of self-concept and mathematics achievement but not the pattern of causal predominance](gender-levels-not-causal-pattern.md) — related
 - [Boys report moderately higher academic self-concept than girls in fourth and fifth grades, but not in sixth grade](boys-higher-asc-grades-4-5-not-6.md) — related
 - [Girls significantly outperformed boys on the sixth-grade Westest reading/language arts scaled scores, with a moderate effect size of .47](gender-gap-westest-reading-sixth-grade.md) — reports the opposite
+- [Lecture attendance was related to better academic performance and lower average opportunity cost, but unrelated to gender](attendance-selectivity-grades-opportunity-cost.md) — related

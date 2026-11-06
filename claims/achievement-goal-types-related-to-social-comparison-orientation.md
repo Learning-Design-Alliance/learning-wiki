@@ -49,3 +49,4 @@ This is second-hand evidence: the review attributes the demonstration to Régner
 
 ## Related Claims
 - [The link between mastery goals and social comparison orientation is stronger the higher learners' performance-approach goal endorsement](mastery-goals-sco-moderated-by-performance-approach-goals.md) — a narrower finding that bears on this claim
+- [Personal performance approach goals are positively linked to student-oriented performance goals](performance-goals-predict-student-oriented-performance-goals.md) — related

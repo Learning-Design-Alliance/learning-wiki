@@ -48,3 +48,4 @@ The review reports, citing Graham & Atz (2015), that exclusive use of white mani
 - [Linguistic and cultural barriers are the most frequently mentioned challenges CALD students face in SBL](linguistic-cultural-barriers-sbl-cald-students.md) — related
 - [SBL enhances clinical skills and confidence in health professions students from CALD backgrounds](sbl-enhances-cald-student-clinical-skills-confidence.md) — related
 - [CALD students showed significantly greater confidence and skill gains from SBL than domestic students in comparative studies](sbl-greater-gains-cald-than-domestic-students.md) — related
+- [Group composition and educator cultural responsiveness shape CALD students' participation and sense of belonging in SBL](peer-educator-relationships-cald-sbl.md) — related

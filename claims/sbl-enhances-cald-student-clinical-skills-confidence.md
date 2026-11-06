@@ -49,3 +49,6 @@ Thematic synthesis of nine of ten included studies in this scoping review, integ
 - [CALD students showed significantly greater confidence and skill gains from SBL than domestic students in comparative studies](sbl-greater-gains-cald-than-domestic-students.md) — related
 - [Exclusive use of white manikins heightened CALD students' sense of underrepresentation in SBL](white-manikins-underrepresentation-cald-students.md) — related
 - [SBL is associated with wider clinical performance benefits including self-confidence, self-efficacy, clinical reasoning and teamwork](sbl-wider-clinical-performance-benefits.md) — a broader claim this one bears on
+- [CALD students negotiate cultural differences in Australian simulation norms while drawing on cultural background as a strength](cald-cultural-identity-negotiation-sbl.md) — related
+- [CALD occupational therapy students experience both heightened anxiety and personal-professional growth in high-fidelity simulation-based learning](cald-ot-students-fear-and-growth-in-sbl.md) — a narrower finding that bears on this claim
+- [Group composition and educator cultural responsiveness shape CALD students' participation and sense of belonging in SBL](peer-educator-relationships-cald-sbl.md) — related

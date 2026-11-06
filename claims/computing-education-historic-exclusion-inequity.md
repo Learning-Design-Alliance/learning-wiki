@@ -60,3 +60,4 @@ Theoretical argument in the guide's introduction, citing prior scholarship (Marg
 - [Digital technology broadens inclusion in Critical Indigenous Studies by connecting remote communities and knowledge holders, but can exclude those lacking technology access](cis-digital-inclusion-dilemma.md) — related
 - [Barriers to obstetric emergency knowledge-building are both structural and cultural, and inequalities permeate all domains driving inequities in outcomes](structural-cultural-barriers-inequities-oe-learning.md) — a narrower finding that bears on this claim
 - [One analyzed article found that lack of access to technological resources in higher education limits academic success among the Latino-ethnic population](technology-access-limits-latino-success.md) — a narrower finding that bears on this claim
+- [Health equity competencies emphasize inclusivity, cultural safety, and elimination of digital divides](health-equity-digital-health-competencies.md) — related

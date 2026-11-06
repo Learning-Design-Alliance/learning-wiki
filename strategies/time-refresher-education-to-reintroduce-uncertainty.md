@@ -50,6 +50,7 @@ The article suggests that the optimal timing for bolus refresher education may b
 - [Design CPR education as an ongoing, reinforcement-based process combining spaced intervals, feedback, and cognitive components](cpr-education-reinforcement-based-design-strategy.md)
 - [Spaced Repetition Scheduling](spaced-repetition-scheduling.md)
 - [Spaced Practice Scheduling](spaced-practice-scheduling.md)
+- [Schedule periodic refresher modules to maintain point-of-care EEG skills after initial e-learning](periodic-refresher-modules-poceeg-skills.md)
 
 ## Examples
 -

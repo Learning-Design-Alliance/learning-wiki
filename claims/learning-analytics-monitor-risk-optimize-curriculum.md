@@ -53,3 +53,4 @@ Narrative review synthesis describing learning analytics workflows from multiple
 - [Early warning and proactive support agents are associated with reported retention and grade improvements in institutional deployments](early-warning-agents-retention-gains.md) — a narrower finding that bears on this claim
 - [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — related
 - [Strong early-warning monitoring systems paired with strong norms and routines help students recover emotionally and engage academically](early-warning-systems-norms-routines-support-recovery.md) — related
+- [Population health competencies emphasize data-driven decision-making, analytics, and health informatics for public health interventions](population-health-digital-health-competencies.md) — related

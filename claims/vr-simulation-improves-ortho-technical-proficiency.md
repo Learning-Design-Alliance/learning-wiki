@@ -65,3 +65,4 @@ Thematic synthesis of the review's VR simulation theme, drawing on a systematic 
 - [Haptic VR training produces no significant difference in implant depth error compared to traditional mentor teaching in novice medical students](haptic-vr-hip-arthroplasty-iderror-null.md) — related
 - [Blinded consultant-rated technical skill does not differ between haptic VR-trained and traditionally trained students on a SawBone hemiarthroplasty](haptic-vr-technical-skill-rating-null.md) — reports the opposite
 - [VR-trained students outperformed control students in all three assessed competency modules in both assessment modes](vr-cataract-three-module-subscore-advantage.md) — related
+- [VR simulation training reduced learning time and improved procedure accuracy in African and UK studies](vr-training-learning-curve-reductions.md) — related

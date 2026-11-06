@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 191 claims (137 show a difference, 34 mixed, 20 no difference) · 127 studies (65 causal, 22 review, 14 associational, 8 quant-synthesis, 7 theoretical, 6 design, 5 qualitative), `q1`–`q3` · 28 of 127 report an effect size · 189 claims rest on one study
+> **Evidence** · 192 claims (138 show a difference, 34 mixed, 20 no difference) · 128 studies (65 causal, 23 review, 14 associational, 8 quant-synthesis, 7 theoretical, 6 design, 5 qualitative), `q1`–`q3` · 28 of 128 report an effect size · 190 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -232,6 +232,7 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [PBL-CBL teaching was associated with higher critical thinking disposition scores than LBL across CCTDI-adapted questionnaire traits](../claims/pbl-cbl-higher-critical-thinking-dispositions.md) [+M] — measured as an outcome of the instruction studied
 - [PBL combined with 3D-VRT produced higher critical thinking disposition scores across all seven dimensions than traditional teaching](../claims/pbl-3d-vrt-critical-thinking-all-seven-dimensions.md) [+M] — measured as an outcome of the instruction studied
 - [Productive failure plus debriefing training improves critical thinking disposition total and dimension scores versus traditional training](../claims/productive-failure-debriefing-improves-critical-thinking.md) [+M] — measured as an outcome of the instruction studied
+- [Educational escape rooms are reported to improve critical thinking, clinical reasoning, teamwork, communication, and soft skills in healthcare students](../claims/escape-rooms-improve-healthcare-student-outcomes.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

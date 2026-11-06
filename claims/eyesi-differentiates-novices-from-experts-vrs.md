@@ -59,3 +59,4 @@ Qualitative synthesis of seven included studies in a systematic review. The revi
 - [The VR assessment items showed high internal consistency (Cronbach's α = 0.79) validated by expert maximum-score consistency](vr-assessment-reliability-cronbach-alpha.md) — related
 - [EyeSi simulator training improves vitreoretinal task performance scores in ophthalmology trainees](eyesi-vitreoretinal-training-improves-task-scores.md) — related
 - [TNO stereopsis scores show a transient reduction after EyeSi VR simulation](eyesi-vr-transient-stereopsis-reduction.md) — related
+- [HelpMeSee users report longer, more supervised training and higher perceived impact than EyeSi users](hms-users-longer-supervised-training-higher-impact.md) — related

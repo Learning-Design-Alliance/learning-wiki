@@ -52,6 +52,7 @@ The review recommends that simulation be treated "not as a standalone interventi
 - [Integrate MLM education longitudinally with experiential learning and robust program evaluation](mlm-longitudinal-experiential-integration-strategy.md)
 - [Supplement e-learning modules with in-person practice and formative OSCEs with feedback](elearning-plus-hands-on-bpm-strategy.md)
 - [Implement VR in clinical education as a complement with robust infrastructure, faculty training, and short adaptive sessions](vr-complementary-implementation-strategy-clinical-education.md)
+- [Embed simulation tools into official curricula as standardized preclinical modules and pursue multi-institutional validation](curricular-integration-of-rpd-simulation.md)
 
 ## Examples
 -

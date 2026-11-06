@@ -69,3 +69,4 @@ LMM interaction test for the IVDA scenario (Table 6, Sec. 5): the group × attem
 - [Model and student error patterns on IVDA MCQs show limited question-level consistency but comparable difficulty distributions for easiest and hardest questions](limited-model-student-question-level-alignment.md) — related
 - [MCQ accuracy was high (above 87%) across all conditions with no significant difference between diverse and generic explanations](mcq-accuracy-no-significant-condition-difference.md) — related
 - [Students perceive LLM chatbots as useful for learning but requiring critical use, reporting hallucinations, overconfidence, and dependency risks](students-view-llms-useful-but-requiring-critical-use.md) — related
+- [Accuracy increased progressively across successive chatbot attempts, but the increase was not statistically significant for either model](chatbot-accuracy-increase-across-attempts-nonsignificant.md) — related

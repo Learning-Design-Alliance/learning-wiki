@@ -64,6 +64,7 @@ The article's training protocol provides a replicable sequence for simulation-ba
 - [Brief video orientation plus one-on-one hands-on cadaver workshop followed by an independent skills test](video-plus-one-on-one-cadaver-workshop-strategy.md)
 - [Simulation-based mastery learning course with at-home simulator practice supported by written and video instructions](sbml-course-home-practice-video-instructions.md)
 - [Schedule repeated daily VR simulation sessions with formative feedback before a delayed practical test](daily-repeated-vr-practice-then-final-test.md)
+- [Two-video-tutorial training session followed by hands-on practice and blinded scored assessment for basic daVinci Xi skills](video-tutorial-plus-practice-davinci-xi-training.md)
 
 ## Examples
 -

@@ -20,6 +20,7 @@ The editors propose importing Design Science Research from Information Systems i
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Adopt a design science stance so that artefacts and design theories both count as knowledge in CSCL research**: The editors propose importing Design Science Research from Information Systems into CSCL. DSR holds, quoting the editorial, that "knowledge is possible and valuable not only in abstract form but also in the form of artefacts," with design theories as mid-range theories accounting for why an artefact works, under which circumstances and for whom. Artefacts worth building must be motivated by deep problem understanding and rigorous analysis of existing solutions, and designed iteratively with prototyping and formative evaluation. The editorial invites designs, including via a new Short Paper format. (Michael J. Baker (2024))
+- **Design Science Research as the guiding paradigm for developing and evaluating educational simulation artifacts**: Design Science Research (DSR) is described as "a technology-driven problem-solving paradigm that focuses on creating artifacts to address relevant, complex, and contextually grounded challenges". It entails rigorous scientific investigation of the artifact development process together with evaluation of the artifact's suitability and relevance in problem-solving. The study applied six DSR stages: awareness, suggestion, development, iterative evaluation, conclusion, and communication. (Souza Raissa Silva; Carvalho Dárlinton Barbosa Feres; Félix Adriana Maria da Silva; Dias Ana Angélica Lima (2025))
 
 ### Claims
 - [The editors report that knowledge brokering via collaborative entanglement is more successful than linear knowledge transfer for mobilising education research](../claims/collaborative-entanglement-outperforms-linear-transfer.md) [+W]
@@ -29,3 +30,4 @@ The editors propose importing Design Science Research from Information Systems i
 
 ## Key Sources
 - Michael J. Baker, Peter Reimann. (2024). CSCL has come of age. Intern. J. Comput.-Support. Collab. Learn (2024) 19:1–10. https://doi.org/10.1007/s11412-024-09419-2
+- Souza Raissa Silva; Carvalho Dárlinton Barbosa Feres; Félix Adriana Maria da Silva; Dias Ana Angélica Lima. (2025). Simulation-based training for teaching infection prevention: from realistic to virtual environments. Revista Brasileira de Enfermagem. https://doi.org/10.1590/0034-7167-2024-0288

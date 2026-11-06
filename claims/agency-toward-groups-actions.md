@@ -55,3 +55,4 @@ Scoping review synthesis of actions toward groups, mostly from student perspecti
 - [Interpersonal agency in instructional design centers on collegial engagement, learner advocacy and trust building with faculty clients](interpersonal-agency-instructional-design.md) — related
 - [Students conceptualize EI as the foundation of leadership development and leadership readiness, including patient-centered leadership](ei-leadership-readiness-foundation.md) — related
 - [Students report that EI supports interpersonal relationships and teamwork through empathy, active listening, and conflict management](ei-teamwork-empathy-conflict-management.md) — possibly the same claim (merge candidate)
+- [Qualified listening within the action research process made dental students feel heard and valued and surfaced problems that would otherwise remain unnoticed.](qualified-listening-fostered-trust-and-surfaced-overlooked-issues.md) — related

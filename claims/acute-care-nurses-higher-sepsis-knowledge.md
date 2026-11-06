@@ -51,3 +51,4 @@ One-way ANOVA across clinical areas in the 355-nurse survey found significant di
 - [Presence of a sepsis screening tool showed no significant association with nurses' knowledge or confidence](screening-tool-no-knowledge-confidence-link.md) — related
 - [Overall knowledge scores did not differ significantly by sepsis training level or highest qualification, with differences only at item level](no-overall-knowledge-score-group-differences.md) — related
 - [Cardiac ICU nurses outperform general ICU nurses on specialist arrhythmia items](cardiac-icu-nurses-better-specialist-items.md) — related
+- [Knowledge scores rose from pre-test to post-test after the SDL package, in one uncontrolled pre-post study, with no significant difference in change by area of practice](no-practice-area-difference-sdl-ecg-knowledge-gain.md) — related

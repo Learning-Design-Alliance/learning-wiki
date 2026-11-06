@@ -83,3 +83,4 @@ Theoretical assertion in the discussion, attributed by the article to Coeckelber
 - [Cultural variations exist in emotion and other psychological topics of interest to AIED, so psychology research influencing AIED is likely WEIRD-imbalanced](cultural-variation-emotion-aied-topics.md) — related
 - Technical reframings of AIED criticism fail to address the fundamental political questions — a narrower finding that bears on this claim
 - DAGs differ from SEMs in that they are non-parametric and make causal assumptions explicit — related
+- [Gender bias in LLM outputs is an emerging ethical concern for nursing education](llm-gender-bias-nursing-education-concern.md) — a narrower finding that bears on this claim

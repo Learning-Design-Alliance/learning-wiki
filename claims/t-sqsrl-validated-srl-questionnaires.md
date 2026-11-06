@@ -76,3 +76,4 @@ EFA on 89 seventh-graders (SG1) grouped 15 of 18 items into five factors; a CFA 
 - [The DIGISOC questionnaire shows acceptable validity and reliability, including CFA data and favorable Cronbach's alpha coefficients](digisoc-acceptable-validity-reliability.md) — related
 - [The 23-item SETSES shows acceptable reliability and convergent validity, with partial discriminant validity (mastery experiences not distinct from vicarious information)](setses-validity-reliability-23-item.md) — related
 - [Only 10 of 211 SRL scale items were feasible to operationalize as learning analytics indicators in an LMS](ten-of-211-srl-items-feasible-lms-indicators.md) — related
+- [The questionnaire's internal consistency is confirmed with a Cronbach's alpha of 0.84 and PCA reveals two distinct dimensions](questionnaire-reliability-cronbach-alpha-084-two-dimensions.md) — related

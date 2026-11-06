@@ -68,3 +68,4 @@ Same single-arm pre-post cohort study; readiness to manage rose from "2.61 (SD0.
 - [Self-readiness to manage each of five emergency neurology scenarios increases significantly after simulation training](sbme-scenario-specific-readiness-gains.md) — a narrower finding that bears on this claim
 - [Participants rate the multidisciplinary neurology simulation course very positively and report high confidence in identifying and managing acute neurological scenarios](sbme-neurology-high-satisfaction-confidence.md) — related
 - [Simulation-based training reduces self-reported anxiety among novice neurology trainees measured by both a general VAS scale and the STAI-6](sbme-reduces-anxiety-neurology-trainees.md) — related
+- [Confidence rose significantly in all five CBOS competency areas, each with a large effect size (r ≈ .84–.88)](tbl-sbl-clinic-confidence-cbos-subdomains.md) — related

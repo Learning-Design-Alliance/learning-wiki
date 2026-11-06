@@ -50,3 +50,4 @@ Phase 2 semi-structured interviews with eight academics from the four participat
 - [A shortage of trauma patients in dental school clinics restricts students' opportunities for real-life DMT management](dmt-patient-shortage-clinic-barrier.md) — related
 - [Thematic analysis of open-ended responses identified four themes: enhanced skill development and safe learning environment, bridging theory with practice, barriers, and looking ahead](four-themes-sbl-oral-radiology-qualitative.md) — related
 - [Across four Southeast Asian dental schools, 31 subjects contained DMT content, but only one course was dedicated to dental traumatology](sea-dmt-content-31-subjects-one-dedicated-course.md) — related
+- [Dental students reported that clinical routine automatization and lack of reflection opportunities produced a mechanistic approach and reduced their sense of agency.](dental-care-automatization-depersonalization-students.md) — related

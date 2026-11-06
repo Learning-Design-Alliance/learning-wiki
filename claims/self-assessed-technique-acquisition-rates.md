@@ -45,4 +45,4 @@ Self-assessed proficiency ratings collected after completion of the three-sessio
 
 
 ## Related Claims
--
+- [Malaria blood smear preparation proficiency was notably lower than modified Kato–Katz smear preparation, with blood film staining the weakest step (41.96%)](blood-smear-staining-weak-competency.md) — related

@@ -68,3 +68,4 @@ Moderator analysis in the three-level meta-analysis testing five regions. Europe
 - [ECE effects are significant in Europe and Asia but did not reach statistical significance in the Americas](ece-geographic-subgroup-effects.md) — related
 - [Similar behavioural domains improved across diverse organisational cultures in North America, Europe, and Asia, suggesting core NTS constructs are portable and adaptable locally.](nts-constructs-portable-across-cultures.md) — related
 - [Neither geographical location nor assessment timing moderated the comparative effectiveness of GAI-based teaching on knowledge scores](gai-knowledge-no-location-timing-moderation.md) — related
+- [Eastern-region practitioners significantly outperformed western-region practitioners in total score, specimen preparation, and microscopic examination](east-west-regional-competency-gap.md) — related

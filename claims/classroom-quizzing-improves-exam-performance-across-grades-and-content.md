@@ -153,3 +153,4 @@ The chapter reports Lindsey et al. (2014), whose personalized review system impl
 - [Before-class online quizzes were used to ensure preparation and to launch class discussion](pre-class-quizzes-launch-discussion.md) — related
 - [Engagement with online quizzes is associated with higher practical exam scores](quiz-engagement-linked-to-practical-exam.md) — a narrower finding that bears on this claim
 - [Undergraduate biology students performed significantly better on quiz questions covering cartooned subtopics than on questions covering non-cartooned subtopics](cartooned-subtopics-better-quiz-performance.md) — related
+- [Across five units and 15 objectives, students scored higher on the examination question for the objective they had prepared and taught than students who taught other objectives, in non-randomised groups analysed per student](peer-teachers-outperform-peer-learners-assigned-objective.md) — a narrower finding that bears on this claim

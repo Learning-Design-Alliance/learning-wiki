@@ -47,3 +47,5 @@ Item-level analysis in the same quasi-experiment; Table 3 prints non-significant
 ## Related Claims
 - [After simulation training, significantly more teams performed several specific VAP prevention skills, including checking physician's order, oral care with chlorhexidine, and checking ventilator circuit filters](item-level-vap-skill-improvements-after-simulation.md) — related
 - [Nursing students' VAP prevention skill performance scores rose from pretest to posttest after scenario-based simulation training in a single-group pretest–posttest study](simulation-training-increases-vap-prevention-skill-performance.md) — related
+- [Some post-simulation referral-and-guidance skills showed no significant improvement, mixed with significant gains on other guidance items](guidance-skills-mixed-improvement-after-simulation.md) — a narrower finding that bears on this claim
+- [Nursing students' hand hygiene before patient care in surgical wound scenarios rose from pre-test to post-test after clinical simulation, in a single-group pre-post study](simulation-improves-hand-hygiene-before-wound-care.md) — related

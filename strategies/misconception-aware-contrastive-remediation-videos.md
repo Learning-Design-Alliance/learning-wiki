@@ -44,6 +44,7 @@ When a learner answers a quiz question incorrectly, the system generates "a targ
 - [Question Answering](question-answering.md)
 - [Errors as Learning Opportunities](embrace_errors_as_learning_opportunities.md)
 - [Remedial strategies using remedial SEMs to correct misconceptions](remedial-sem-misconception-correction.md)
+- [Non-linear Point-and-Click interaction with optional hand hygiene, Quests, instructional videos, and an end-of-simulation feedback report](nonlinear-point-click-quests-feedback-report-strategy.md)
 
 ## Examples
 -

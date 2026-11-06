@@ -73,3 +73,4 @@ Qualitative analysis of written reflections from Australian teacher education st
 - [PBL students gave positive feedback on the implementation of PBL in a nine-question Likert survey](pbl-positive-student-feedback-survey.md) — related
 - [PBL in small groups supports creativity through openness to new ideas, handling problems from different angles, and imagining various solutions](pbl-small-group-creativity.md) — related
 - [Students describe structured reflection and journaling as supporting self-awareness, recognition of behavioral patterns, and reoriented future actions](structured-reflection-self-awareness-growth.md) — related
+- [Qualified listening within the action research process made dental students feel heard and valued and surfaced problems that would otherwise remain unnoticed.](qualified-listening-fostered-trust-and-surfaced-overlooked-issues.md) — related

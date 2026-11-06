@@ -57,3 +57,4 @@ Systematic review of 20 studies (narrative synthesis) of simulation-based patien
 - [Personalised video-assisted feedback improves selected simulation-based learning subdimensions: nursing process, patient safety and reflective behaviour](personalised-video-feedback-improves-nursing-process-safety-reflection.md) — related
 - [Nursing students report higher perceived patient safety competencies in clinical settings than in academic settings, with small effect sizes](nursing-students-higher-safety-competencies-clinical-than-academic.md) — related
 - [Progression-focused simulation curricula (FRS, SIMULATE) yield superior outcomes compared to traditional training methods](frs-simulate-progression-curricula-superior-outcomes.md) — related
+- [Students trained with the DVRS scored significantly higher in the dental surgery course than students trained with traditional manikins](dvrs-higher-dental-surgery-scores-than-manikin.md) — related

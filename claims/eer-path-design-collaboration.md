@@ -47,3 +47,4 @@ The review reports, citing Hamilton et al. (2021) and Veldkamp et al., that path
 ## Related Claims
 - [In EERs, autonomy, competence, and relatedness are each supported by specific design features per self-determination theory](eer-sdt-needs-design-features.md) — related
 - [Kindergarten triads sharing one computer with three mice and interdependent roles enhanced social skills](kindergarten-triads-shared-computer-social-skills.md) — related
+- [Across the 52 reviewed studies, most educational escape rooms used sequential puzzle pathways, team sizes of four to six, and 60-minute time limits](eer-format-survey-52-studies.md) — related

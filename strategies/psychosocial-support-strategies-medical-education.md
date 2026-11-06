@@ -56,6 +56,8 @@ Based on the review's findings that distress and burnout hinder performance whil
 - [University programs that strengthen students' social well-being to support academic motivation](social-well-being-support-programs-medical-students.md)
 - [Integrate SBLE into nursing curricula to strengthen emotional resilience and prepare students for clinical psychological demands](integrate-sble-nursing-curricula-burnout-strategy.md)
 - [Integrate structured stress-management and resilience-building supports into undergraduate nursing education](stress-management-resilience-in-nursing-curriculum.md)
+- [Institutional interventions on emotional regulation and learning strategies to mitigate digital hoarding's effects](emotional-regulation-learning-strategies-interventions-dh.md)
+- [Integrate emotional support and emotion-regulation components into coaching, mentoring and guided reflection during the teaching practicum](emotional-support-coaching-practicum-strategy.md)
 
 ## Examples
 -

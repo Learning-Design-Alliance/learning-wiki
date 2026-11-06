@@ -73,3 +73,4 @@ The review reports, citing Makransky et al. (2019), a comparison of three learni
 - [VR learning units do not per se lead to better learning success; quality and design of the unit are decisive](vr-units-not-per-se-better-design-decisive.md) — related
 - [Students perceived that HoloLens increased engagement, but immersion was fragile and contingent on technical reliability and physical comfort](hololens-engagement-fragile-immersion.md) — related
 - [Simulation-related variables (usability, satisfaction, presence, technology acceptance) do not predict training outcomes](simulation-variables-do-not-predict-outcomes.md) — related
+- [VR simulators for inferior alveolar nerve block training improve operation success rate, trainee satisfaction, accuracy and confidence](vr-ianb-training-success-confidence.md) — a narrower finding that bears on this claim

@@ -52,3 +52,4 @@ Wilcoxon signed-rank within-group tests in the pilot RCT of 35 interns. VR SA ro
 - [VR group showed numerically greater trauma-management error reduction than the mannequin group in exploratory comparison](vr-eye-tracking-greater-error-reduction-pilot.md) — related
 - [In a pilot randomized study, CI and CI + VR produced statistically significant immediate Knowledge gains while VR's Knowledge gain did not reach significance](ci-hybrid-significant-knowledge-gains-vr-not.md) — related
 - [Patient interaction scores increased significantly within both the hybrid simulation and control groups after training (p < 0.001 for both)](patient-interaction-improved-within-both-groups.md) — a narrower finding that bears on this claim
+- [Both VR simulator and mannequin-based simulation improve trainees' non-technical skills for critical incidents, with significant improvement in the VR group](vrs-vs-mbs-crisis-nontechnical-skills.md) — related
