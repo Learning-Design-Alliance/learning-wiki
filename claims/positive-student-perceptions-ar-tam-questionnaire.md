@@ -56,3 +56,4 @@ Likert-type questionnaire (16 items, five TAM dimensions: utility, ease of use, 
 - [Learners rate the AI-Mentor cognitive core highly on technology acceptance](ai-mentor-high-tam-acceptance.md) — related
 - [Flexibility in using fragmented time and platform ease of use received the highest student ratings (both 8.3), while perceived video quality received the lowest (7.1)](usability-items-highest-rated-video-quality-lowest.md) — related
 - [Gamification-group students reported positive technology acceptance, with Perceived Usefulness, Concentration, and Attitude towards Using the highest-rated TAM domains](tam-acceptance-perceived-usefulness-highest.md) — related
+- [Students highly accepted the VR anatomy software 3D Organon for learning anatomy, with enjoyment the highest-rated GETAMEL variable (μ = 1.9)](high-acceptance-3d-organon-enjoyment-highest.md) — related

@@ -51,3 +51,4 @@ Kruskal-Wallis test on post-collaboration CPSE of 13 participants in three group
 - [In the collaborative MIT App Inventor study, significant interaction patterns signified coordination of behavior between team participants, and no lower self-efficacy emerged for non-CS-background participants](coordination-patterns-app-inventor-collaboration.md) — reports the opposite
 - [Heterogeneous groups show greater learning achievements than homogeneous groups, most pronounced for students with little prior knowledge](heterogeneous-groups-greater-achievement.md) — related
 - [The treated and untreated student groups were statistically homogeneous on most demographic dimensions, differing only in academic major distribution](treatment-groups-homogeneous-except-major.md) — related
+- [Attitudes toward TDM courses differed significantly across majors, with clinical pharmacy students valuing them more](tdm-course-attitudes-differ-by-major.md) — related

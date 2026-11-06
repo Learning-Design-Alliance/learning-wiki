@@ -68,6 +68,8 @@ The authors recommend formally embedding simulation-based learning into undergra
 - [Incorporate structured dental traumatology content into the medical curriculum using active, practical formats such as simulations, interactive case studies, and workshops](structured-dental-trauma-education-active-formats.md)
 - [Integrate the DNH model into structured ESD curricula via simulation workshops with progressive difficulty and bleeding scenarios](dnh-model-structured-curriculum-workshops.md)
 - [Include simulation-based experiences with standardized patients focused on basic care from the early stages of nursing education](early-basic-care-sbe-with-standardized-patients.md)
+- [Incorporate 3D-printed temporal bone models into surgical training programs to accelerate the learning curve](3d-printed-temporal-bone-training-programs.md)
+- [Integrate prompt engineering into medical curricula through hands-on workshops, simulation-based learning, and AI courses](prompt-engineering-in-medical-curricula.md)
 
 ## Examples
 -

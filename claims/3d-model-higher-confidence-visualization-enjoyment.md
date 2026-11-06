@@ -61,3 +61,4 @@ Post-studying Likert reflection in the pilot trial. Visualization agreement was 
 - [IMR-SS trainees report greater confidence, training satisfaction, and usability than digital-textbook trainees](imr-ss-greater-satisfaction-confidence.md) — related
 - [Most students (98.60%) reported AR-assisted learning improved understanding of 3D anatomy and fostered clinical thinking](ar-obgy-3d-understanding-clinical-thinking-perceptions.md) — related
 - [Using HIS resources in imaging teaching lets students dynamically display and post-process images and access complete clinical data, improving perceived teaching quality](his-resources-benefits-imaging-teaching.md) — related
+- [Students highly accepted the VR anatomy software 3D Organon for learning anatomy, with enjoyment the highest-rated GETAMEL variable (μ = 1.9)](high-acceptance-3d-organon-enjoyment-highest.md) — related

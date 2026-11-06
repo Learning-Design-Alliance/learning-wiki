@@ -70,3 +70,4 @@ Meta-analysis of partial correlations for math (20 effect sizes controlling for 
 - [Earlier academic achievement longitudinally predicts later theory of mind (pooled r = .32), based on few studies](early-achievement-predicts-later-tom.md) — related
 - [A combination of sociocognitive variables predicts concurrent academic outcomes at school entry](sociocognitive-combination-predicts-school-entry-outcomes.md) — a broader claim this one bears on
 - [SES is a powerful predictor of executive function, language ability, and academic achievement](ses-predictor-ef-language-achievement.md) — related
+- [Exploratory partial correlations between 5th-grade ToM and academic outcomes controlling for executive functions were no longer significant](tom-academic-associations-nonsignificant-controlling-executive-functions.md) — reports the opposite

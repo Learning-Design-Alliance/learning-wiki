@@ -57,3 +57,4 @@ Cross-sectional study of 120 medical students at Bahir Dar University reviewed i
 - [Lack of study space and financial issues are associated with higher test anxiety in online exams, and reliable technology with lower](contextual-factors-increase-test-anxiety.md) — related
 - [Schools serving large numbers of students of color and students from low-income families have significantly fewer resources than schools serving more affluent White students](resource-gaps-high-poverty-schools.md) — related
 - [Being a health science student and being aged 20–24 are associated with good academic performance](health-science-students-age-20-24-better-performance.md) — related
+- [Missing facilities, infrastructure, and large class sizes impede PBL delivery](infrastructure-and-class-size-barriers-pbl-ethiopia.md) — related

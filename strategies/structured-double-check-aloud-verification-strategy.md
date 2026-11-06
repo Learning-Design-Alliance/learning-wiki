@@ -49,7 +49,8 @@ Based on the RoH findings and participant feedback, the authors recommend verify
 - [Error and hazard performance differed by professional role, with nurses and healthcare assistants better at expiry-date and syringe checks and physicians better at allergy detection, while double-check performance did not differ significantly](../claims/opioid-roh-role-differences-detection.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Design room of horror exercises with realistic room design, group sizes below four, and repetition with increasing complexity across the programme](roh-design-realistic-rooms-small-groups-repetition.md)
 
 ## Examples
 -

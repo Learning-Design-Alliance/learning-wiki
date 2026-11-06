@@ -53,3 +53,4 @@ Within-group pre/post comparison in the VR-trained subgroup (n = 22) using a 15-
 - [Medical students trained with the VR NVD simulator achieved significantly higher post-simulation knowledge scores than those trained with the mannequin simulator](vr-simulator-higher-post-simulation-knowledge-scores.md) — related
 - [Correct-response rates rose on most, but not all, concept and application items after a flipped classroom combined with CBL, in an uncontrolled pre-post comparison](flipped-classroom-cbl-improves-concept-and-application-questions.md) — related
 - [Time to complete the VR chest tube simulation decreases progressively across four trials (14.7 to 5.3 minutes)](vr-simulation-learning-curve-time-decrease.md) — related
+- [Both groups improved theoretical knowledge significantly from baseline, with no statistically significant difference between the online-only and VR groups](online-module-knowledge-gains-no-vr-difference.md) — related

@@ -53,3 +53,4 @@ LMM analysis of mean absolute rating changes in the 81-physician video experimen
 - [Assessors' confidence in their first impression ratings does not differ by student ethnicity](no-ethnic-difference-confidence-first-impressions.md) — related
 - [Rating changes are larger for descending than ascending performances, regardless of student ethnicity](rating-changes-larger-descending-performances.md) — related
 - [Ethnic minority students received higher final ratings than majority students for ascending performances, but only when rated by residents](minority-higher-final-ratings-ascending-residents-only.md) — related
+- [Assessor-related challenges include lack of expert assessors, differing assessment methods and ability levels, and a tendency toward balanced scoring](assessor-variation-and-balanced-scoring-challenges.md) — a broader claim this one bears on

@@ -48,3 +48,4 @@ In the same four-year randomized experiment, an ANOVA compared exam scores acros
 - [Exposing college students to a topic-relevant 90-second external stimulus before a lecture significantly improves immediate information retention compared with a neutral control](pre-lecture-external-stimulus-improves-retention.md) — related
 - [A serious virtual world class does not produce statistically significant differences in learning effectiveness compared with a traditional class of identical learning objectives and contents](svw-no-learning-effectiveness-difference-e-junior.md) — related
 - [Poem-enhanced instruction produced higher posttest interest than game-enhanced and modified lecture instruction](peis-beats-geis-and-mlis-interest.md) — related
+- [Evidence on puzzle-based teaching is mixed in the wider literature: some studies find no knowledge-score benefit and one found lectures outperformed online puzzles](puzzle-teaching-literature-mixed.md) — related

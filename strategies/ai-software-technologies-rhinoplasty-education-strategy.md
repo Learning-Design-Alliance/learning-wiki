@@ -51,6 +51,7 @@ The review proposes integrating artificial intelligence and software technologie
 - [Provide intentional instruction through direct observation, verbalization of maneuvers, preoperative nasal analysis, and structured feedback during rhinoplasty training.](intentional-instruction-rhinoplasty-strategy.md)
 - [Incorporate artificial intelligence and platform-based course recommendations into future blended teaching](future-ai-integration-blended-medical-teaching.md)
 - [Future development: integrate generative AI and a graphical interactive interface to lower the learning curve](generative-ai-graphical-interface-future-direction.md)
+- [Incorporate artificial intelligence and high-technology simulation methods into future oncology simulation research and practice](ai-enhanced-future-oncology-simulation.md)
 
 ## Examples
 -

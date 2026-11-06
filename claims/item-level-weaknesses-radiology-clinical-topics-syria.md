@@ -49,3 +49,4 @@ Item-level analysis of 20 MCQs among 500 participants. Only "9.0% answered the n
 - [Syrian medical students show low overall theoretical knowledge of clinical and surgical skills](syrian-medical-students-low-clinical-surgical-knowledge.md) — a broader claim this one bears on
 - [Item-level BLS knowledge accuracy varied considerably, with the lowest accuracy on airway-management, defibrillation, and quality-control items.](item-level-bls-accuracy-varies-considerably.md) — related
 - [Medical students report weak statistical mastery, with most struggling to select correct methods and a third having misused statistical methods in research](weak-statistical-mastery-and-misuse-medical-students.md) — related
+- [Residents' correct answers vary widely across nutrition topics, lowest for macronutrient distribution and highest for fish portions](topic-level-nutrition-knowledge-gaps-residents.md) — related

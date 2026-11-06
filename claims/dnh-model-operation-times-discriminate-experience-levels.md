@@ -53,3 +53,4 @@ Single-center simulation study in which 5 experts, 5 attending physicians, and 5
 - [Performance scores increased significantly with surgical experience, demonstrating strong construct validity](construct-validity-performance-scores-experience.md) — a broader claim this one bears on
 - [MBOSATS scores on the 3D-printed LRYGB model differentiate surgical expertise levels, with scores decreasing and operation times increasing from experts to intermediates to residents](mbosats-construct-validity-3d-lrygb-model.md) — a broader claim this one bears on
 - [Technical-step realism was uneven: marking and circumferential incision scored higher than submucosal injection and dissection](dnh-model-step-realism-uneven.md) — related
+- [Dissection time decreases across the three models, with significantly shorter time on fresh-frozen bone than the transparent 3D model (p = 0.002)](dissection-time-decreases-across-models.md) — related

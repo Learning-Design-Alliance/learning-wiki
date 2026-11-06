@@ -109,3 +109,4 @@ Participant quotation (FG 10, P 4) illustrating the emotional risk common to bot
 - [Learner reactions to IVR technical aspects consume more debriefing time than in mannequin-based simulation; debriefers suggest allocating dedicated feedback channels](ivr-technical-discussions-consume-debriefing-time.md) — related
 - [Upholding professional credibility under peers' scrutiny is an enabler of agentic learning](professional-credibility-enables-agentic-learning.md) — related
 - [Uncertainty in simulation was seen to increase cognitive load but was not always viewed as aversive, offering an opportunity to learn](uncertainty-cognitive-load-and-learning-opportunity.md) — related
+- [Students' lack of confidence in problem-solving skills reduces active participation in PBL](student-confidence-problem-solving-pbl-participation.md) — related

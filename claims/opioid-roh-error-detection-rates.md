@@ -50,3 +50,4 @@ Observational evaluation of 86 paired simulation sessions with 172 geriatric hea
 - [Hazard avoidance was strong for most items but only 65% used the correct oral syringe, and 7% of pairs administered the opioid subcutaneously instead of orally](opioid-roh-hazard-avoidance-syringe-gap.md) — related
 - [Double-check performance during opioid preparation was poor, with a median of 1 of 7 items performed and only the dosage check exceeding 30% of pairs](opioid-roh-double-check-suboptimal.md) — related
 - [Participants rated the opioid RoH highly (9.2/10) and 73% reported a self-assessed knowledge gain, with high self-rated knowledge rising from 22% to 79%](opioid-roh-satisfaction-knowledge-gain.md) — related
+- [Missing isolation precautions for a documented influenza infection were overlooked by nearly all groups in the room of horror exercise](roh-isolation-precautions-overlooked.md) — related

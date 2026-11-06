@@ -53,3 +53,4 @@ The review's phase-level analysis of positive and negative aspects. On the negat
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related
 - [Learner-level challenges of ChatGPT in STEAM IBL include over-reliance, inaccurate or irrelevant feedback, conceptual confusion, and diminished creativity](chatgpt-steam-ibl-learner-challenges.md) — related
 - [EFL students interviewed after metacognitive strategy training said they had become more self-reliant in monitoring their writing processes and progress](metacognitive-training-increases-writing-self-monitoring.md) — related
+- [Most students viewed ChatGPT positively as a teaching tool, while lack of interactivity was the most common drawback](chatgpt-positive-role-lack-of-interactivity.md) — related

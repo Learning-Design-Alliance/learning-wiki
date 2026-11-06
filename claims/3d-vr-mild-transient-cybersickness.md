@@ -54,3 +54,4 @@ Descriptive safety outcome of the feasibility RCT. The article reports "3 partic
 - [3D VR acclimatisation shortens simulator completion time and reduces instrument path length versus 2D video](3d-vr-reduces-path-length-and-time.md) — related
 - [3D VR acclimatisation reduces simulator penalty scores versus 2D video, with task-level effects mixed](3d-vr-reduces-penalty-scores.md) — related
 - [VR-based simulation significantly increases simulator sickness whereas computer-based simulation does not](vr-simbie-increases-simulator-sickness.md) — related
+- [The VR training dose was under 60 cumulative minutes across two sessions, with no reported cybersickness](vr-training-dose-under-60-minutes.md) — related

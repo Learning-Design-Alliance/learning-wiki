@@ -39,6 +39,7 @@ The article's discussion recommends that professional development for online tea
 ## Related Strategies
 
 - [Support teachers to customize curriculum for local relevance and cultural responsiveness](teacher-supports-curriculum-customization.md)
+- [Tailor professional development to demographic subgroups of teachers (gender, education level, school level)](demographic-tailored-pd-programs.md)
 
 ## Examples
 -

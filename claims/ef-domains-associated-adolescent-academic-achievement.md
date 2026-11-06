@@ -57,3 +57,5 @@ Partial correlation analysis in the same 713-adolescent cross-sectional sample, 
 - [Executive functions, especially working memory, inhibition, and cognitive flexibility, are consistently associated with core SRL activities](executive-functions-associated-with-core-srl-activities.md) — related
 - [Working memory span, updating, and cognitive flexibility positively predict English writing, response inhibition positively predicts reading, and working memory span negatively predicts listening](ef-components-predict-english-subskills-network.md) — a narrower finding that bears on this claim
 - [The authors argue that improvements in working memory and processing speed from MPH do not translate into better exam performance](cognitive-gains-do-not-translate-to-exam-performance.md) — related
+- [The escape room-based physical activity intervention significantly improves cognitive flexibility on the Stroop Task in adolescents](escape-room-pa-improves-stroop-cognitive-flexibility.md) — related
+- [HRV improvement predicts academic grades, working memory, and self-pressure, but not Stroop cognitive flexibility](hrv-predicts-grades-memory-not-stroop.md) — related

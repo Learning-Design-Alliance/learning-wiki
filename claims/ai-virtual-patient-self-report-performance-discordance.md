@@ -61,3 +61,4 @@ Qualitative synthesis of Kirkpatrick level 2 findings reported in three included
 - [AI virtual patient use produced no statistically significant OSCE improvement in the volunteer cohort](aivp-volunteer-cohort-no-significant-osce-change.md) — related
 - [OSCE results validate improvements in technical accuracy and patient communication after training](osce-validates-bpm-skill-improvement.md) — related
 - [Within generating, students proposed hypotheses, managed discordant information, and determined final diagnoses, with wide variation in data use](generating-hypotheses-discordant-data-final-diagnoses.md) — related
+- [Faculty observed more structured reasoning and improved question formulation in students after repetitive practice with ChatGPT as a standardized patient](faculty-observed-improved-question-formulation.md) — related

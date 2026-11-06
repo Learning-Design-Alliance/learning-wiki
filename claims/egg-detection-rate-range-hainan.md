@@ -48,3 +48,4 @@ Egg-identification component (50 points) of the practical skills assessment, wit
 ## Related Claims
 - [Theoretical knowledge scores differ significantly across parasite species, with Plasmodium spp. highest (82.22%) and other species lowest (53.31%)](species-knowledge-score-differences-hainan.md) — related
 - [Microscopic identification scores differ significantly among Plasmodium species, with P. vivax highest (51.85%) and P. ovale at 0.00%](plasmodium-species-microscopy-differences.md) — related
+- [Baseline malaria microscopy competency was low among Hunan CDC microscopists, with species identification accuracy averaging only 14.58% and 75% of participants having received no malaria microscopy training in the preceding 5 years](baseline-microscopy-gaps-post-elimination-cdcs.md) — related

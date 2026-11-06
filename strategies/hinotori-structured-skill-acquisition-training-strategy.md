@@ -50,6 +50,7 @@ The article recommends integrating the hinotori™ platform into pediatric surgi
 - [Integrate the validated SP chicken anastomosis task into SP-specific Proficiency Based Progression training pathways](sp-pbp-training-pathway-strategy.md)
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
 - [Structured cross-platform training curriculum combining generalised exposure and platform-specific proficiency](cross-platform-training-curriculum-robotic-surgery.md)
+- [Integrate robotic surgery training into the education of young professionals](integrate-robotics-into-surgical-curriculum.md)
 
 ## Examples
 -

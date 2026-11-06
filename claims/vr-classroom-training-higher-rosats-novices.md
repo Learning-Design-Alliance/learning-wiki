@@ -59,3 +59,4 @@ The review reports a randomised crossover study of 11 novice surgical trainees a
 - [Simulation-based training significantly improves technical performance and accelerates skill acquisition in robotic surgery](simulation-training-improves-technical-performance.md) — related
 - [Robotic simulation training independently associated with higher OSATS and TSM scores after adjustment](robotic-simulation-training-higher-performance.md) — related
 - [Robotic simulation training improves surgical skill acquisition, with progressive competency-based training raising competence rates in junior residents](robotic-simulation-competency-training.md) — related
+- [Adding immersive VR training to an online module yields higher mannequin-based technical skill scores (OSATS) than the online module alone in novice medical students](vr-plus-online-higher-osats-chest-tube.md) — related

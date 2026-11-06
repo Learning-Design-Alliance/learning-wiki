@@ -48,3 +48,4 @@ An online feedback survey of 17 students eight weeks after the September 2019 se
 - [Embodied Nerf-gun activities increased students' self-reported understanding of, and ability to explain, key neural communication concepts in a pre-post seminar design](embodied-nerf-activities-increase-self-reported-understanding-neural-communication.md) — a broader claim this one bears on
 - [Students in the active-learning flipped course reported strongly positive attitudes, and course retention was higher than in the control group](active-learning-positive-attitudes-and-retention-ap.md) — related
 - [Undergraduate psychiatry students report that traditional methods are insufficient for mastering non-verbal cues](psychiatry-students-report-traditional-methods-insufficient-for-nonverbal-cues.md) — related
+- [Students strongly agree that VR anatomy training enhances memorization and learning efficiency](vr-anatomy-training-enhances-memorization-agreement.md) — related

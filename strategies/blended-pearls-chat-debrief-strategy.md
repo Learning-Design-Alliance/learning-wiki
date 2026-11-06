@@ -66,6 +66,7 @@ The article recommends a blended debrief approach: the four PEARLS phases (react
 - [Use a structured debriefing script (modified PEARLS) to scaffold self-guided debriefing in VR simulation](structured-script-scaffolds-self-guided-debriefing.md)
 - [Include a post-game debriefing period in which groups reflect on an evolutionary tree from the game through guided questions.](venomventure-post-game-debriefing-strategy.md)
 - [Combine VR task-training for operators with simulation team-training for the whole acute stroke team](combine-vr-task-training-with-stroke-team-simulation.md)
+- [Use familiar debriefing frameworks (PEARLS, the Diamond, Scottish centre debrief model, Gather-Analyze-Summarize) to structure meta-debriefing conversations and role-model ideal debriefing behaviors](framework-structured-meta-debriefing-strategy.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Student self-assessed comfort (0–10 Likert) during the procedure in the random
 - [Simulator-trained students felt significantly more comfortable and confident about their subsequent lumbar punctures](simulator-training-confidence-next-lp.md) — related
 - [AR and haptic feedback simulation training did not significantly improve lumbar puncture success rates compared to traditional bedside teaching](ar-simulation-no-lp-success-rate-improvement.md) — related
 - [Simulation-trained students performed lumbar punctures faster than bedside-trained students, though the difference was not statistically significant](ar-simulation-shorter-procedure-duration.md) — related
+- [AR group participants report higher confidence in the subject area after learning compared to traditional learning participants](ar-increases-subject-confidence.md) — related

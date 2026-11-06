@@ -51,3 +51,4 @@ Psychometric analysis of scores from 104 trained raters (102 scoring the negativ
 - [Inter-rater reliability of EFeCT scoring improved from moderate (ICC 0.67) to excellent (ICC 0.96) after consensus calibration, with an overall ICC of 0.66 across the full sample](efect-inter-rater-reliability-consensus-calibration.md) — related
 - [Simulation-based assessment scoring shows strong inter-rater reliability (ICC 0.77–0.84) and internal consistency (Cronbach's alpha 0.83) across raters and scenarios](hfscoring-reliability-icc-alpha.md) — related
 - [Expert human raters established an inter-rater reliability benchmark above ICC 0.89 on all four IELTS dimensions for the essay corpus](human-inter-rater-benchmark-icc-above-089-essays.md) — related
+- [Assessment reliability was high: intra-rater ICCs of 0.98 and 0.79 and inter-rater ICCs of 0.92 and 0.73](osats-assessor-reliability-iccs.md) — related

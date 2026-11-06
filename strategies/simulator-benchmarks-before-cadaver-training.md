@@ -52,6 +52,7 @@ The article recommends a staged progression in laparoscopic education: trainees 
 - [Blend VR and IP simulation within a curriculum, matching each modality to learning objectives and training stage](blended-vr-ip-simulation-curriculum.md)
 - [Use plug-and-play virtual simulation for tip-control training targeted at novice and beginner endoscopists before patient-based endoscopy](plug-and-play-virtual-simulation-tip-control-novices.md)
 - [Provide animal-based simulation training before performing actual endoscopic surgeries](animal-simulation-before-actual-surgery-strategy.md)
+- [Use anatomy-faithful dry-lab simulators as an off-the-job alternative to animal and cadaver surgical training](dry-lab-off-jt-alternative-animal-cadaver-training.md)
 
 ## Examples
 -

@@ -50,3 +50,5 @@ Meta-analysis of longitudinal partial correlations for reading comprehension (18
 - [Longitudinally, the ToM–achievement association does not differ significantly across academic achievement domains, and time lag does not moderate it](longitudinal-domain-moderator-nonsignificant.md) — related
 - [Children's theory of mind shows a significant positive cross-sectional association with academic achievement (r = 0.32)](tom-academic-achievement-positive-association.md) — related
 - [SES longitudinally predicts later reading (r = 0.24), and phonological awareness and vocabulary jointly explain about 45% of that association](longitudinal-ses-predicts-reading-linguistic-skills-explain-variance.md) — related
+- [Fifth-grade theory of mind partially mediates within- and cross-domain relations between early and later academic skills](theory-of-mind-partially-mediates-academic-relations.md) — related
+- [Exploratory partial correlations between 5th-grade ToM and academic outcomes controlling for executive functions were no longer significant](tom-academic-associations-nonsignificant-controlling-executive-functions.md) — related

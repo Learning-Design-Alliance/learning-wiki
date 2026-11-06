@@ -49,3 +49,4 @@ Covariate analysis within the SEM of the 450-student sample, with age and gender
 - [SDL readiness among nurses shows no significant correlation with age, gender, academic status, or marital status](sdl-readiness-no-demographic-correlations.md) — related
 - [Men report higher computer self-efficacy, domain identification, knowledge, and motivation than women](gender-gaps-computer-self-efficacy-knowledge-motivation.md) — reports the opposite
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — reports the opposite
+- [Age and sex do not significantly predict academic self-efficacy or CGPA in the conditional process models](age-sex-nonsignificant-ase-cgpa.md) — a broader claim this one bears on

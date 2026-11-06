@@ -48,6 +48,7 @@ The authors recommend integrating the validated simulator as a training station 
 
 - [Extend the low-cost homemade simulator principle to other basic, highly structuralized, standardized surgical procedures](extend-homemade-simulator-principle-other-procedures.md)
 - [Extend simulator-assisted breastfeeding training to hospitals, NICUs, and antenatal classes](extend-simulator-breastfeeding-training-clinical-settings.md)
+- [Integrate robotic surgery training into the education of young professionals](integrate-robotics-into-surgical-curriculum.md)
 
 ## Examples
 -

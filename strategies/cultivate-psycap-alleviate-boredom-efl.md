@@ -49,6 +49,8 @@ The article recommends that EFL educators strengthen students' PsyCap and reduce
 ## Related Strategies
 
 - [School-, teacher-, family-, and policy-level practices to cultivate psychological capital and positive life attitude in Chinese middle schools](psycap-life-attitude-intervention-recommendations.md)
+- [Design engaging L2 instruction and positive classroom climate to cultivate learners' sustained interest in the target language](cultivate-sustained-interest-l2-strategy.md)
+- [Foster supportive classroom environments and monitor academic emotions to improve English learning outcomes](supportive-classroom-emotion-monitoring-strategy.md)
 
 ## Examples
 -

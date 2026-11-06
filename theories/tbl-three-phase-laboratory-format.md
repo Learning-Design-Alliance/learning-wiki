@@ -16,7 +16,7 @@ sources:
 # Team-based learning format: pre-class preparation, readiness assurance, and concept application
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (1 associational, 1 design), `q1`–`q2` · 0 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 3 studies (1 causal, 1 associational, 1 design), `q1`–`q2` · 0 of 3 report an effect size · 2 claims rest on one study
 
 ## Description
 Team-based learning (TBL) is a student-centered instructional format that, as the article describes citing Michaelsen & Sweet (2008), "transforms teacher-centered classrooms with pre-class preparation, group work, and peer teaching to strengthen knowledge acquisition and application." The article implements TBL in a fixed sequence: students prepare before class with readings and videos, complete an individual then team Readiness Assessment Test with immediate feedback cards and appeals, then apply concepts through team activities and independent experimentation. In this module TBL was used as a platform to meet five learning objectives and teach scientific skills in a behavioral genetics laboratory.

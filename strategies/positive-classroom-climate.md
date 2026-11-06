@@ -66,6 +66,7 @@ Climate functions as a gateway condition: learners who feel threatened or discon
 - [Cultivate mathematics belonging by publicly recognizing every student as a mathematical thinker](mathematics-belonging-recognition-practices.md)
 - [Create a safe mathematical community through leader posture, absence of negative feedback, and fun without negative competition](safe-mathematical-community-practices.md)
 - [Design feedback conditions in which students feel understood, respected, and invited to actively process feedback, supporting emotion regulation](feedback-conditions-supporting-emotion-regulation.md)
+- [Design engaging L2 instruction and positive classroom climate to cultivate learners' sustained interest in the target language](cultivate-sustained-interest-l2-strategy.md)
 
 ## Examples
 - **[Responsive Classroom](../products/responsive-classroom.md)** (https://www.responsiveclassroom.org) — a published K–8 program built around morning meetings and teacher language practices that establish climate routines.

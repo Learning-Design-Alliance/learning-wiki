@@ -114,3 +114,4 @@ Same PISA secondary analysis, Results section. The article reports the average r
 - [Male students report slightly higher classroom engagement than female students in the sample](gender-gap-engagement-boys-higher.md) — related
 - [Female students outperformed male students in reading and writing in both grades 3 and 6, while math achievement was similar](female-students-outperformed-males-reading-writing.md) — reports the opposite
 - [Same-sex pairs of relatives are slightly but systematically more correlated on school performance than opposite-sex pairs](same-sex-pairs-slightly-more-correlated.md) — related
+- [Emotional, self-esteem, and family HRQoL dimensions are all associated with high mathematics performance in both sexes; for language, only family-related HRQoL is significant in boys](hrqol-dimensions-math-emotional-self-esteem-family.md) — related

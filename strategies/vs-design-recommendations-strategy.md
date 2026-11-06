@@ -68,6 +68,7 @@ The review's forward-looking recommendations for VS teaching design: future devi
 - [Add interactive features — quizzes, gamified modules, and simulated clinical scenarios — to future versions of skills-training software](future-interactive-features-quizzes-gamification-scenarios.md)
 - [Harmonize VRS training practices and use remote mentoring and multimodal simulation to broaden access](harmonize-vrs-practices-remote-mentoring-strategy.md)
 - [Provide VR user support, adjustable display settings, and built-in breaks when running virtual TBL sessions](vr-tbl-training-support-breaks.md)
+- [Prioritize enjoyment and usability when selecting and implementing VR anatomy software, including pre-session practice and technical support](prioritize-enjoyment-usability-vr-anatomy-implementation.md)
 
 ## Examples
 -

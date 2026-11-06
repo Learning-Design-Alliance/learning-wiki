@@ -51,3 +51,4 @@ LC-CUSUM learning curve analysis of four surgeons (an MFM expert, a neurosurgica
 - [Pooled mean CUSUM analysis identifies a turning point of 20 procedures for US-guided distal radial artery cannulation by novice anesthesiologists](cusum-turning-point-20-procedures-dra-cannulation.md) — related
 - [After passing the learning curve, operative times and GEARS scores did not differ between experts and novices](post-competence-performance-equal-experts-novices.md) — related
 - [Skin closure failures clustered with 5-0 monocryl suture and ceased after switching to 4-0 V-Loc barbed suture](suture-switch-eliminated-skin-closure-failures.md) — related
+- [Novices needed an average of 28.92 ± 4.68 simulated RFA procedures to reach technical competency, after which success improved from 88.2% to 96.7%](rfa-traps-simulator-29-procedures-competency.md) — related

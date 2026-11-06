@@ -76,3 +76,4 @@ Within-subject Pearson correlations between NASA-TLX and performance score acros
 - [AR-assisted training reduces subjective workload (NASA-TLX) in novice learners](ar-training-reduces-subjective-workload.md) — related
 - [Completion of a dVSS proficiency-based curriculum was associated with significant improvement in RO-SCORE across all domains and significant reduction in NASA-TLX workload](gerull-curriculum-improved-roscore-reduced-workload.md) — related
 - [Novices reported higher temporal demand, performance, and frustration on NASA-TLX subscales than experts during peg transfer training](novices-higher-tlx-temporal-demand-performance-frustration.md) — related
+- [AR-based anatomy learning is associated with lower overall cognitive workload compared to traditional learning methods](ar-lower-cognitive-workload-than-traditional-learning.md) — related

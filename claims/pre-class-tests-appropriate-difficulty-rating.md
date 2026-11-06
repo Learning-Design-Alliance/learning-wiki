@@ -46,3 +46,4 @@ Perception item from the 144-student pilot survey. The article reports "93.1% re
 
 ## Related Claims
 - [Pre-class preparation (93.5%) and instructor debriefings (93.6%) were rated highly effective](preclass-and-debrief-ratings-pilot.md) — related
+- [Students judged the module's time scope appropriate and prior knowledge sufficient, but rated content difficulty as slightly too high](time-difficulty-ratings-radiotherapy-module.md) — related

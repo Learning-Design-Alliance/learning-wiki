@@ -53,3 +53,5 @@ Post-teaching DOPS comparison in the same RCT (n=58, 29 per group) showed the ex
 - [Procedural skill (DOPS) scores of digitally-CBL-trained novices do not differ significantly from traditionally trained specialists](digital-cbl-dops-scores-comparable.md) — related
 - [SOM-PBL improves monitoring technology application and adverse-event management subdomains but not clinical decision-making or aseptic technique](som-pbl-subdomain-mixed-results.md) — related
 - [CDIO-based clinical skills teaching significantly improved obstetric procedural skills across all 12 DOPS evaluation items (P < 0.001)](cdio-improves-dops-procedural-skills-obstetrics.md) — related
+- [Apnea duration awareness improves specific DOPS domains: pre-anesthesia preparation, pre-oxygenation technique and difficult airway management](apnea-duration-dops-domain-gains.md) — related
+- [Trainees given apnea duration information show markedly higher help-seeking scores, but crisis management and team cooperation DOPS domains do not differ between groups](apnea-duration-help-seeking-gain-other-domains-null.md) — related

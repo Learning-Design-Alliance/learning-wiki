@@ -65,3 +65,4 @@ Wilcoxon signed-rank tests within each group (Tables 5-7); self-efficacy and per
 - [Self-, peer-, and instructor-feedback within SDTS show no statistically significant differences in post-training OSCE performance](feedback-modality-no-significant-difference.md) — related
 - [All three instructional groups showed significant pre- to post-class quiz improvements with no statistically significant between-group difference in knowledge gains](equal-quiz-gains-across-srp-teaching-groups.md) — related
 - [Students' motivation and restedness declined significantly over the course of the online training session](motivation-restedness-decline-over-session.md) — related
+- [Puzzle-based teaching raises total motivation toward instructional material more than lecture alone](puzzle-teaching-raises-instructional-material-motivation.md) — related

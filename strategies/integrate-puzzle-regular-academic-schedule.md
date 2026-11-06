@@ -47,6 +47,7 @@ The article recommends scheduling Puzzle activities within standard teaching ses
 - [Embed new solutions into existing operations and procedures to sustain and scale them](embed-solutions-existing-operations.md)
 - [Classroom Physical Activity Integration](classroom-physical-activity-integration.md)
 - [Embed whole-class computerized SEL activities as a universal, cost-effective supplement to PSHE provision](whole-class-computerized-sel-universal-provision.md)
+- [Integrate puzzle-based techniques regularly into applied nursing curricula and train instructors in their use](regular-puzzle-integration-nursing-curricula-strategy.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Cross-sectional analysis of physical activity measures against grades, adjusted 
 - [Smoking and snuffing are inversely associated with high academic achievement in both adolescent girls and boys](smoking-snuffing-inversely-associated-academic-achievement.md) — related
 - [High intake of lemonade, sugar-sweetened soft drinks and salty snacks is associated with decreased odds of high academic achievement, mainly in girls](unhealthy-beverage-snack-intake-associated-lower-achievement.md) — related
 - [Regular physical activity (at least once per week) was associated with 81% higher odds of entrance exam success](regular-sport-associated-entrance-success.md) — a narrower finding that bears on this claim
+- [More sports club participation is associated with higher odds of high mathematics and language performance in both sexes](sports-club-hours-associated-higher-performance-both-subjects.md) — related

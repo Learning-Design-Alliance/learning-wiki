@@ -50,3 +50,4 @@ Leave-one-out interrater agreement analysis comparing SP scores with a reference
 - [Standardised patient performance shows almost perfect inter-rater (kappa 0.84) and substantial intra-rater (kappa 0.75) agreement](pt-osce-sp-kappa-agreement-high.md) — related
 - [Patient and clinician rater scores sometimes correlate poorly, an undertone used to question patients as assessors](low-patient-physician-score-correlation.md) — related
 - [Student performance with virtual patients correlates only weakly and non-significantly with performance with human standardized patients](vp-concurrent-validity-weak-correlation.md) — related
+- [Simulated patients failed more students than physician examiners in three stations, and inter-rater kappa was mostly non-significant](virtual-osce-sp-failures-kappa.md) — related

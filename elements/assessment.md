@@ -18,7 +18,7 @@ sources:
 # Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 32 claims (16 for, 13 mixed, 3 against) · 32 studies (9 causal, 8 review, 6 quant-synthesis, 5 design, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 6 of 32 report an effect size · 30 claims rest on one study
+> **Evidence** · 35 claims (17 for, 15 mixed, 3 against) · 33 studies (10 causal, 8 review, 6 quant-synthesis, 5 design, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 6 of 33 report an effect size · 33 claims rest on one study
 
 ## Description
 Assessment is the structured collection of evidence about learner understanding, performance, or progress for the purposes of feedback, decision making, grading, or revision.
@@ -83,6 +83,9 @@ Assessment is the structured collection of evidence about learner understanding,
 - [Educators perceived mini-CEX and DOPS as giving a more accurate representation of novice nurses' clinical abilities than written examinations](../claims/mini-cex-dops-true-reflection-abilities.md) [+W]
 - [Humanistic care-integrated Mini-CEX teaching improves humanistic care ability across cognition, courage, and patience dimensions](../claims/mini-cex-humanistic-care-ability-gains.md) [+W]
 - [Course tutors rated the intervention group significantly better on four parameters, but could not assess more complex skills](../claims/course-tutors-rate-intervention-group-better.md) [+W] — attached 2026-11-06 from Zöll Lisa et al. (2025), which proposed "360° evaluation of communication competence combining student self-assessment with ratings by treatment partners, course tutors and patients".
+- [Students rated the structured viva-voce more positively than the traditional viva-voce, particularly in content coverage and clarity of objectives](../claims/structured-viva-rated-higher-than-traditional.md) [+W] — attached 2026-11-06 from Rasalkar Kavita et al. (2025), which proposed "Validated structured viva-voce cards with eight Bloom's-taxonomy-graded questions".
+- [The hybrid viva-voce format demonstrated higher inter-examiner consistency, correlation, and reliability (Cronbach's α = 0.663) than the structured and traditional formats](../claims/hybrid-viva-highest-inter-examiner-consistency.md) [~W] — attached 2026-11-06 from Rasalkar Kavita et al. (2025), which proposed "Hybrid viva-voce assessment method combining structured and traditional formats".
+- [Students preferred the hybrid viva-voce format (56%) over structured (28%) and traditional (16%) formats](../claims/students-prefer-hybrid-viva-format.md) [~W] — attached 2026-11-06 from Rasalkar Kavita et al. (2025), which proposed "Hybrid viva-voce assessment method combining structured and traditional formats".
 
 ## The evidence by question
 - *Does using assessment evidence during instruction raise achievement compared with the usual teaching?* [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [+S]

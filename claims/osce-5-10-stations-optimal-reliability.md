@@ -57,3 +57,4 @@ Random-effects meta-analysis of 23 studies (26 alpha values) categorized by stat
 - [The 10-minute two-station four-domain modified OSCE is more sensitive than the end-of-rotation comprehensive score in detecting key competency differences from pathway-driven training.](modified-osce-more-sensitive-than-comprehensive-score.md) — related
 - [More OSCE stations are needed to reach a target reliability with the extended scale than with the generic scale](decision-study-stations-to-target-reliability.md) — related
 - [OSCE scores across three virtual-patient stations show low reliability (Cronbach's alpha 0.415)](vp-low-reliability-osce.md) — related
+- [A seven-station virtual OSCE showed Cronbach's alpha of 0.67 across stations, with no station deletion improving alpha](virtual-osce-cronbach-alpha-067.md) — related

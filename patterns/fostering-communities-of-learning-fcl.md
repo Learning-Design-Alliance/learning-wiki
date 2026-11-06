@@ -21,7 +21,7 @@ sources:
 # Fostering Communities of Learning (FCL)
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 45 claims (28 for, 16 mixed, 1 against) · 54 studies (18 causal, 13 quant-synthesis, 12 review, 6 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 12 of 54 report an effect size · 33 claims rest on one study
+> **Evidence** · 47 claims (30 for, 16 mixed, 1 against) · 55 studies (19 causal, 13 quant-synthesis, 12 review, 6 qualitative, 3 theoretical, 2 associational), `q1`–`q4` · 13 of 55 report an effect size · 35 claims rest on one study
 
 ## Description and scope
 
@@ -125,6 +125,8 @@ Read against the model on 2026-10-19. Of the eleven claims listed here then, ten
 - [Puzzle intervention groups achieve significantly higher quiz accuracy than control groups in antibiotic pharmacology](../claims/puzzle-higher-quiz-accuracy-than-controls.md) [+W] — attached 2026-11-04 from Morén Constanza et al. (2026), which proposed "Adapted Puzzle technique: peer-to-peer teaching with autonomous preparation and faculty validation"; tests this page's relationship.
 - [Puzzle intervention groups achieve significantly higher final exam accuracy than control groups](../claims/puzzle-higher-final-exam-accuracy-than-controls.md) [+W] — attached 2026-11-04 from Morén Constanza et al. (2026), which proposed "Adapted Puzzle technique: peer-to-peer teaching with autonomous preparation and faculty validation"; tests this page's relationship.
 - [The jigsaw method produced significantly higher learning scores than both flipped classroom and lecture-based teaching in nursing students](../claims/jigsaw-higher-learning-scores-than-fc-and-lbt.md) [+M] — attached 2026-11-06 from Khodadadeh Alireza et al. (2025), which proposed "Jigsaw implementation structure with home groups, expert groups, and QR-coded booklet sections"; tests this page's relationship.
+- [Integrating jigsaw teaching into SRL cycle instruction improves nursing students' total self-regulated learning ability more than traditional lecture teaching](../claims/jigsaw-srl-instruction-raises-srl-ability-nursing.md) [+M] — attached 2026-11-06 from Chen Yiwen et al. (2025), which proposed "Three-phase jigsaw-SRL instructional cycle: forethought, performance, self-reflection".
+- [Jigsaw-plus-SRL instruction improves nursing students' learning engagement, especially vitality and dedication, but not concentration](../claims/jigsaw-srl-raises-learning-engagement.md) [+M] — attached 2026-11-06 from Chen Yiwen et al. (2025), which proposed "Three-phase jigsaw-SRL instructional cycle: forethought, performance, self-reflection".
 
 ## Illustrative design instance and observation record
 

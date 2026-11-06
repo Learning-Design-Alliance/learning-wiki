@@ -22,7 +22,7 @@ sources:
 # Video-Based Reflection
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (4 for, 4 mixed) · 6 studies (2 review, 1 causal, 1 quant-synthesis, 1 associational, 1 qualitative), `q1`–`q3` · 0 of 6 report an effect size · 8 claims rest on one study
+> **Evidence** · 9 claims (5 for, 4 mixed) · 7 studies (2 causal, 2 review, 1 quant-synthesis, 1 associational, 1 qualitative), `q1`–`q3` · 0 of 7 report an effect size · 9 claims rest on one study
 
 ## Description
 Video-based reflection is the element in which learners or practitioners review a recording of their own past activity to analyze choices, patterns, and next steps. The reviewer, not only an outside observer, does the interpreting — this is what distinguishes it from an instructor simply watching and evaluating footage. It has been used at very different grain sizes: young children interpreting video of their own unscripted play, and teacher teams interpreting video of their own classroom teaching within an ongoing professional-development partnership.
@@ -56,6 +56,7 @@ Video-based reflection is the element in which learners or practitioners review 
 - [A five-step structured video-based reflection cycle led teachers to produce substantially more new and more specific solutions than a vicarious-reflection control condition](../claims/ceble-structured-reflection-more-specific-solutions.md) [+W]
 - [Residents report positive perceptions of being recorded and of video review, with discomfort typically fading](../claims/resident-perceptions-video-recording-positive.md) [~W]
 - [Incorporating video review feedback into leadership training had a positive effect on emergency medicine residents' team-leader performance in a pilot study](../claims/video-review-feedback-resident-leadership-pilot.md) [+W]
+- [Residents reported that eye-tracking video review improved feedback specificity and sensitized metacognitive insight about themselves as learners](../claims/etad-residents-metacognitive-sensitizer-qualitative.md) [+W] — attached 2026-11-06 from Braund H et al. (2024), which proposed "Eye-tracking augmented PEARLS debriefing (ETAD): first-person gaze video as a cueing mechanism within the PEARLS framework".
 
 ## Related Elements
 

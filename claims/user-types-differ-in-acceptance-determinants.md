@@ -47,3 +47,4 @@ Pairwise moderated linear regressions tested whether path coefficients differed 
 ## Related Claims
 - [Attitude is the strongest predictor of behavioral intention for new users, while perceived usefulness is strongest for light, medium and heavy users](attitude-predicts-intention-new-users-usefulness-existing-users.md) — reports the opposite
 - [Portal users can be classified into four types (new, light, medium, heavy) based on observed usage parameters](four-portal-user-types-new-light-medium-heavy.md) — a broader claim this one bears on
+- [Subjective norm showed no linear relationship with perceived ease of use or perceived usefulness, and its hypotheses were rejected](subjective-norm-no-relationship-3d-organon.md) — related

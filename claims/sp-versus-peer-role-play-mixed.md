@@ -73,3 +73,4 @@ The review reports other SP-versus-role-play comparison studies found "higher le
 - [Technicians and collaborators disagree on whether technicians should perform roles in simulation scenarios](technician-role-scenario-disagreement.md) — related
 - [International medical students receiving peer role-play and peer assessment report significantly higher course satisfaction across all measured dimensions than students in traditional collaborative group learning](peer-roleplay-higher-course-satisfaction-gynecology.md) — related
 - [Facilitators reported that real delivery experience, not role-play training alone, was needed to become confident and competent](experiential-learning-facilitator-competence.md) — related
+- [Peer-to-peer simulated tasks are identified as lacking effectiveness for developing CEP practical competencies](peer-simulation-lacking-effectiveness-cep.md) — reports the opposite

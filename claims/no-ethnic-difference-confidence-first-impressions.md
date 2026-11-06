@@ -48,3 +48,4 @@ LMM analysis of confidence ratings (1–7 scale) given with first impression rat
 - [Rating changes between first impressions and final ratings are larger for ethnic minority than ethnic majority students, for both ascending and descending performances](larger-rating-changes-minority-students.md) — related
 - [Need for cognitive closure correlates with final ratings and rating changes differently for minority and majority students](nfc-correlations-assessor-characteristics.md) — related
 - [Assessors' first impression ratings of medical students do not differ significantly by student ethnicity for either ascending or descending performances](no-ethnic-difference-first-impression-ratings-wba.md) — related
+- [Assessor-related challenges include lack of expert assessors, differing assessment methods and ability levels, and a tendency toward balanced scoring](assessor-variation-and-balanced-scoring-challenges.md) — related

@@ -71,3 +71,4 @@ Same qualitative theme, instructor sub-theme. Students valued structured pre-sim
 - [Nursing students report emotional responses of inadequacy, low motivation, low self-confidence and fear during clinical practice](emotional-responses-inadequacy-low-motivation-fear.md) — a broader claim this one bears on
 - [VR clinical simulation produced higher anxiety than face-to-face manikin simulation in maternal-newborn nursing](vr-simulation-higher-anxiety-than-face-to-face.md) — related
 - [Male nursing students recommend more functional mannequins, extended lab hours, real-time feedback technology, and additional supervision](student-suggestions-simulation-resources-and-lab-time.md) — related
+- [Students initially experienced hesitance and performance anxiety in role-play, which diminished over time as they gained skills](role-play-initial-hesitance-anxiety.md) — related

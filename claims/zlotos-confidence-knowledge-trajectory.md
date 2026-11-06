@@ -66,3 +66,4 @@ One-group pre-test/post-test study of 106 preregistration pharmacist trainees us
 - [Knowledge differences between IVR and textbook groups were no longer statistically significant four weeks after the intervention](ivr-knowledge-advantage-not-maintained-at-4-weeks.md) — related
 - [Guess rates fell after training and rose again at 3 months, while self-reported confidence improved across groups](guess-rates-confidence-shift-after-elearning.md) — related
 - [EEG total score gains declined by the 3-month retention test but remained above pretest levels](poceeg-skill-retention-declines-but-persists-3-months.md) — a narrower finding that bears on this claim
+- [Knowledge gains persisted one month post-intervention despite a slight decline, remaining above pre-intervention levels](knowledge-gains-persisted-one-month-post-intervention.md) — related

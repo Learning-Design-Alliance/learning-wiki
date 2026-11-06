@@ -70,3 +70,4 @@ The review reports from Moreno-Lopez and Hope's retrospective UK study of dental
 - [Contextual factors (learner level, discipline, format) moderate Angoff outcomes](angoff-contextual-moderators.md) — related
 - [Angoff methods produce significantly higher pass rates than conventional fixed standard-setting methods](angoff-higher-pass-rates-than-fixed.md) — related
 - [The high overall pass rate of 97.1% may limit the discriminatory power of the PJ-OSCE in its current form.](pj-osce-high-pass-rate-limits-discriminatory-power.md) — related
+- [No students failed the virtual OSCE or their clerkship, with cut-scores set by the Borderline Regression Method and an Angoff process](virtual-osce-no-failures-brm-angoff.md) — related

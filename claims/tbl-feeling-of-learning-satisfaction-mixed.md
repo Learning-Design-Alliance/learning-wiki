@@ -72,3 +72,5 @@ Umbrella review synthesis: three reviews (13%) reported on student preferences f
 - [Students in TBL groups report higher satisfaction than students in LBL groups](tbl-higher-student-satisfaction-neurology.md) — possibly the same claim (merge candidate)
 - [Most reviewed studies found active learning improved satisfaction and knowledge acquisition and was superior to traditional lectures](active-learning-superior-lectures-dental-classroom.md) — related
 - [Attitude and satisfaction outcomes were mostly measured by item-by-item survey comparisons and showed generally positive but mixed results](vp-attitudes-satisfaction-mixed.md)
+- [Students' self-rated attitudes toward team-based learning rose significantly from pre-test to post-test after a TBL course, except satisfaction with group member evaluation, in one uncontrolled pre-post study](tbl-improves-teamwork-attitudes-except-peer-assessment.md) — related
+- [Students report positive accountability, preference for TBL over lectures, and satisfaction on the TBL-SAI after the course](tbl-sai-positive-student-assessment.md) — possibly the same claim (merge candidate)

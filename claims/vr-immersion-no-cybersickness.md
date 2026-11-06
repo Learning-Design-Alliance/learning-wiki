@@ -62,3 +62,4 @@ In the experimental group, the Simulator Sickness Questionnaire was completed be
 - [Cybersickness during short VR bellringer testing was minimal and unrelated to VR or total exam performance](cybersickness-minimal-unrelated-br-performance.md) — related
 - [Ocular discomfort after EyeSi VR simulation is mild and infrequent](eyesi-vr-mild-ocular-discomfort.md) — related
 - [Cybersickness screening showed no concern for any student before or after MHW exposure](mhw-cybersickness-no-concern.md) — related
+- [The VR training dose was under 60 cumulative minutes across two sessions, with no reported cybersickness](vr-training-dose-under-60-minutes.md) — related

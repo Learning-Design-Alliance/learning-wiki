@@ -51,3 +51,4 @@ Thematic analysis of semi-structured interviews with eight purposively selected 
 - [Managers identified challenges limiting peer learning, including weak teamwork culture, absent management development strategies, and restricted structured interactions](peer-learning-challenges-iranian-hospital-managers.md) — related
 - [Limited supplies and insufficient training are the most reported barriers to infection control adherence, and only 28.8% of students had received formal training](supplies-and-training-barriers-infection-control.md) — related
 - [Faculty and students report that inadequate physical facilities and restricted human resources limit clinical learning in Iranian teaching hospitals.](limited-resources-clinical-education-iran.md) — related
+- [Nurse educators report high workload and insufficient time as barriers to PBL implementation](nurse-educator-workload-time-barrier-pbl.md) — related

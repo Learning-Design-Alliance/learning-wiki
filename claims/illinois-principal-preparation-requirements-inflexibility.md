@@ -56,3 +56,4 @@ Challenge identified in the I-PREP statewide scan. The combination of multiple r
 - [The new policy strengthened university-district partnerships so principal preparation reflects local school needs](policy-strengthened-university-district-partnerships.md) — related
 - [The value of the proposed interventions depends on the stakeholder's vantage point, desired outcomes, youth subpopulation, and available resources](intervention-value-depends-stakeholder-vantage-point.md) — related
 - [Stakeholders worry administrative and managerial skills have been de-emphasized despite instructional leadership being a clear focus](managerial-skills-deemphasized-worry.md) — related
+- [External challenges to Assessment Centers include inflexible copied foreign models, unstable organizational placement, and political influences on appointments](external-organizational-political-ac-challenges.md) — related

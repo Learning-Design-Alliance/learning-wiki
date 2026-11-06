@@ -50,3 +50,5 @@ Obstacles theme from interviews at one tertiary hospital; an ICU educator report
 - [Barriers to soft skills integration: time constraints, systemic obstacles, learner emotional strain, and adapting to new modalities](soft-skills-curricular-barriers-medical-education.md) — related
 - [Faculty preparedness gaps and psychometric subjectivity are key barriers to implementing OHL-Mini-CEX](ohl-mini-cex-implementation-barriers.md) — related
 - [Nearly one-third of Mini-CEX students cited limited faculty availability and insufficient training as implementation barriers](mini-cex-faculty-availability-barriers.md) — related
+- [Evaluation-system factors—doubted anonymity, insufficient feedback, tight timing, heavy workload, and unclear indicators—drive self-protective and arbitrary SET scoring](evaluation-system-factors-anonymity-feedback-timing.md) — related
+- [Nurse educators report high workload and insufficient time as barriers to PBL implementation](nurse-educator-workload-time-barrier-pbl.md) — related

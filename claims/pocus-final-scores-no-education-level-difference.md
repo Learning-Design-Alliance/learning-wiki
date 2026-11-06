@@ -47,3 +47,4 @@ Primary between-group comparison of final practical evaluation scores in a singl
 ## Related Claims
 - [The OSATS grid and checklist discriminated ultrasound experts from students-in-training in preliminary validation](osats-checklist-expert-student-discriminant-validation.md) — related
 - [No significant improvement in procedural checklist scores was observed](rcdp-simulation-no-checklist-score-improvement.md) — related
+- [Procedural checklist competence after simulation training does not differ significantly between residents and practicing clinicians](pudendal-block-checklist-no-difference-residents-clinicians.md) — related

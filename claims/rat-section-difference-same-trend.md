@@ -55,3 +55,4 @@ Repeated Measures ANOVA (SPSS v. 22.0) comparing RAT scores between the two cour
 - [Seven of nine readiness assurance questions achieved the maximum score during the t-RAT](seven-of-nine-max-t-rat.md) — related
 - [Team-based readiness assurance test scores significantly exceeded individual readiness assurance test scores in an interdisciplinary TBL session](t-rat-exceeds-i-rat-interdisciplinary-tbl.md) — related
 - [TBL sessions improved knowledge acquisition: tRAT and end-of-session test scores were significantly higher than iRAT scores (p < 0.0001).](tbl-improved-knowledge-acquisition-irat-comparison.md) — related
+- [Team readiness assurance test scores significantly exceed individual readiness assurance test scores in TBL sessions](trat-scores-exceed-irat-scores.md) — possibly the same claim (merge candidate)

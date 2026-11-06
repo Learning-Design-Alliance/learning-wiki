@@ -9,6 +9,7 @@ generated:
   at: 2026-11-06
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-06
 recheck_by: 2028
 sources:
   - id: molinari-giulia-2025
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
+> **Currency** · newest study 2025 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` In all sessions the chorda tympani was interrupted; ENT specialists preserved it until the atticotomy while residents damaged it from the preliminary dissection steps, and participants rated it the least appreciated structure as too thin or fragile. [→ Molinari Giulia 2025](#molinari-giulia-2025)
@@ -70,3 +71,5 @@ Qualitative questionnaire administered after the training sessions: the burr-on-
 - [Formative participants preferred post-session debriefing over in-session interruption, with timing treated as contingent on error severity](feedback-timing-post-session-debrief-preference.md) — related
 - [Task-level performance on the 3D Stapes Trainer varied by surgical step, with down-fracturing, fenestration and prosthesis placement scoring highest and chain mobility assessment and crimping rated worst](3dst-task-level-osats-variability.md) — related
 - [Participants rated the 3D Stapes Trainer most useful for developing the visuomotor coordination needed for endoscopic stapes surgery, with stapedotomy hole creation and prosthesis placement judged most reproducible versus cadaver](3dst-visuomotor-coordination-usefulness.md) — related
+- [ENT residents rate the SAPIENS 3D-printed temporal bone models as closely resembling human temporal bone anatomy and dissection (Mowry scores 53.2 and 55.4 of 61)](sapiens-mowry-scores-closely-resemble-human-temporal-bone.md) — related
+- [Residents rate SAPIENS 3D-printed models as very similar to fresh-frozen human temporal bone across all surgical steps (4/5 and 4.2/5)](sapiens-similar-to-fresh-frozen-temporal-bone.md) — related

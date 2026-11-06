@@ -15,7 +15,7 @@ grain_size: unit, course
 # Team Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 105 claims (68 for, 33 mixed, 4 against) · 52 studies (17 quant-synthesis, 14 causal, 8 review, 6 design, 5 associational, 2 theoretical), `q1`–`q4` · 15 of 52 report an effect size · 97 claims rest on one study
+> **Evidence** · 107 claims (70 for, 33 mixed, 4 against) · 53 studies (17 quant-synthesis, 15 causal, 8 review, 6 design, 5 associational, 2 theoretical), `q1`–`q4` · 15 of 53 report an effect size · 99 claims rest on one study
 
 ## Description and scope
 
@@ -120,6 +120,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Final-year SLP students' knowledge of infant feeding observation skills rose significantly from pre-test to post-test after the integrated TBL-SBL clinic, in one group with no comparison group (n = 40)](../claims/tbl-sbl-clinic-knowledge-gain-whole-class.md) [+W] — attached 2026-11-06 from Kwan Connie Ching-Yin et al. (2025), which proposed "Six-step clinic sequence moving from knowledge acquisition to application to reflective consolidation".
 - [Medical students' perception of systematic TBL class management is positively correlated with active class participation](../claims/tbl-systematic-management-correlates-active-participation.md) [+W] — attached 2026-11-06 from Jeong Somi et al. (2025), which proposed "Standardized two-hour TBL session sequence with pre-class preparation, IRAT, GRAT, feedback, mini-lecture, and application activities".
 - [Correct rates on practical application questions increased significantly from Quiz 1 to Quiz 2 during interprofessional OFST](../claims/ofst-quiz-practical-application-correct-rate-increase.md) [+W] — attached 2026-11-06 from Wang Ting-Huai et al. (2025), which proposed "Interprofessional OFST course structure combining quizzes, case-based team learning, and experience sharing".
+- [Classroom engagement scores rose significantly from before to after a TBL course, in one uncontrolled pre-post study](../claims/tbl-increases-classroom-engagement-nursing.md) [+W] — attached 2026-11-06 from Ngoc Lan Duong Thi et al. (2025), which proposed "Use team-based learning as an active-learning strategy suited to large student-to-faculty ratios".
+- [Students report positive accountability, preference for TBL over lectures, and satisfaction on the TBL-SAI after the course](../claims/tbl-sai-positive-student-assessment.md) [+W] — attached 2026-11-06 from Ngoc Lan Duong Thi et al. (2025), which proposed "Use team-based learning as an active-learning strategy suited to large student-to-faculty ratios".
 
 ## Illustrative design instance and observation record
 
@@ -218,6 +220,7 @@ The retrieval evidence supports the readiness tests as retrieval with feedback; 
 **Large undergraduate STEM courses:** Introductory biology and chemistry courses at research universities have adopted TBL to convert lecture halls into team-application sessions, using digital tRAT tools such as [ InteDashboard](https://intedashboard.com) or [Top Hat](https://tophat.com) for immediate team feedback.
 - [Two-week fruitless gene TBL laboratory module on aggression and courtship in Drosophila melanogaster](../elements/fruitless-gene-tbl-laboratory-module.md)
 - [Use IRAT as an indicator of subsequent assessment performance and exam-condition practice in pharmacy calculations](../strategies/irat-as-subsequent-assessment-indicator-strategy.md)
+- [Introduce and teach peer assessment before implementing team-based learning](../strategies/teach-peer-assessment-before-tbl.md)
 
 ## Key Sources
 - Michaelsen, L. K., & Sweet, M. (2008). The essential elements of team-based learning. *New Directions for Teaching and Learning, 2008*(116), 7–27. [doi:10.1002/tl.330](https://doi.org/10.1002/tl.330)

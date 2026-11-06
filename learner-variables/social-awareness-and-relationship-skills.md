@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 234 claims (159 show a difference, 47 mixed, 28 no difference) · 174 studies (57 causal, 43 review, 34 associational, 16 quant-synthesis, 14 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 46 of 174 report an effect size · 227 claims rest on one study
+> **Evidence** · 235 claims (159 show a difference, 47 mixed, 29 no difference) · 175 studies (57 causal, 43 review, 35 associational, 16 quant-synthesis, 14 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 46 of 175 report an effect size · 228 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -276,6 +276,7 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Self-reflection prompts increase observed interpersonal consultation skills, especially confidence in delivering consultations (medium effect)](../claims/self-reflection-raises-interpersonal-skills-and-delivery-confidence.md) [+M] — measured as an outcome of the instruction studied
 - [Simulated communication skills training using augmented reality with real-time feedback increases nursing students' eye contact and empathy versus traditional training](../claims/ar-communication-training-eye-contact-empathy.md) [+M] — measured as an outcome of the instruction studied
 - [Empathy scores on the Jefferson Scale for Empathy did not significantly change from pre-test to post-test after MAGIC, in one uncontrolled pre-post study](../claims/magic-no-empathy-change-jse.md) [-M] — measured as an outcome of the instruction studied
+- [Social behavior measures were not associated with math or reading skills at both time points and did not qualify as mediators](../claims/social-behavior-not-associated-academic-skills-both-timepoints.md) [-W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

@@ -54,3 +54,4 @@ Comparison, in the SafeCracker worked example experiment, of the treatment group
 - [Adult players who studied worked examples scored significantly higher on a game-based problem-solving transfer question than a control group](worked-examples-improve-problem-solving-strategy-transfer-in-a-puzzle-game.md) — related
 - [Adult players who studied worked examples scored significantly higher on a game-based problem-solving retention question than a control group](worked-examples-improve-problem-solving-strategy-retention-in-a-puzzle-game.md) — related
 - [Switching from strategy building to puzzle solving overcame the implementation impasse](puzzle-solving-overcame-implementation-impasse.md) — related
+- [Evidence on puzzle-based teaching is mixed in the wider literature: some studies find no knowledge-score benefit and one found lectures outperformed online puzzles](puzzle-teaching-literature-mixed.md) — related

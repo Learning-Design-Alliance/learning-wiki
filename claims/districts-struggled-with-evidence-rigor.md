@@ -57,3 +57,4 @@ Interview data show teams initially relied on state test scores, then interim an
 - [No readily accessible sources of rigorous evidence exist for most ed-tech products](no-rigorous-evidence-ed-tech-products.md) — related
 - [Applying the adapted CTA framework in the discharge pilot uncovered previously unknown stakeholders and barriers](cta-application-revealed-hidden-process-knowledge.md) — related
 - [Districts defined pilot success differently, making it difficult to set a standard for evaluating product effects on student improvement](varied-success-definitions-hinder-evaluation.md) — related
+- [Deficiencies in assessment tool design and scoring consistency undermine the reliability and validity of some Assessment Center tools](ac-tool-design-gaps-undermine-reliability-validity.md) — related

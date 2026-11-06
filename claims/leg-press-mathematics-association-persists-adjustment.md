@@ -50,3 +50,4 @@ Cross-sectional regression in 106 children with overweight/obesity (1-RM subsamp
 - [Fitness associations with academic achievement are attenuated or disappear after adjustment for BMI and cardiorespiratory fitness, indicating inter-dependence](fitness-academic-associations-interdependent-bmi-crf.md) — reports the opposite
 - [Higher muscular fitness is associated with better cognition and academic achievement in school-aged youth](muscular-fitness-associated-cognition-academic-achievement.md) — a broader claim this one bears on
 - [Higher cardiorespiratory fitness is associated with higher academic performance across subjects in children](higher-crf-higher-academic-performance-children.md) — related
+- [Children with language-type and mathematics-type LD showed no significant differences in age, BMI, IQ, physical activity, fitness, or sustained attention](no-subtype-differences-demographics-fitness-attention.md) — related

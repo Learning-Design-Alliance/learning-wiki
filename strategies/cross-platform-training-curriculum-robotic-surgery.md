@@ -52,6 +52,7 @@ The review recommends a structured, cross-platform training curriculum for robot
 - [Integrate the validated SP chicken anastomosis task into SP-specific Proficiency Based Progression training pathways](sp-pbp-training-pathway-strategy.md)
 - [Integrate dedicated surgical care practitioners into robotic programmes to free trainees from the bedside assistant role and facilitate their transition to the console](scp-bedside-assistant-integration-robotic-training.md)
 - [Use the hinotori™ system for structured skill acquisition in pediatric surgical training for novice robotic users](hinotori-structured-skill-acquisition-training-strategy.md)
+- [Integrate robotic surgery training into the education of young professionals](integrate-robotics-into-surgical-curriculum.md)
 
 ## Examples
 -

@@ -85,3 +85,4 @@ Negative-perceptions sub-theme from thematic analysis of interviews with 10 trai
 - [Six antecedents must precede LLM use in nursing education, including technological infrastructure and AI acceptance](llm-nursing-education-antecedents.md) — related
 - [Potential negative consequences of LLM use in nursing education include academic integrity concerns, inaccurate output, bias, and over-reliance](llm-nursing-education-negative-consequences.md) — related
 - [Provider experience competencies prioritize usability, workflow integration, and strategies to mitigate technology-related burnout](provider-experience-digital-health-competencies.md) — related
+- [Manager development training courses face challenges including theory-orientation, unknown effectiveness, and inadequate content](development-course-effectiveness-unknown-challenges.md) — related

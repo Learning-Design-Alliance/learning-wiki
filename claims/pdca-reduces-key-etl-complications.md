@@ -49,3 +49,4 @@ Retrospective before-and-after complication comparison; the article reports oeso
 - [Multiple attempts rate decreased significantly after PDCA implementation while overall ETI success rate did not differ significantly](pdca-multiple-attempts-down-overall-success-unchanged.md) — related
 - [IONM-based education lowered recurrent laryngeal nerve injury rates and enhanced procedural standardization](ionm-education-lowers-rln-injury-rates.md) — related
 - [No significant difference in successful intubation rate or esophageal intubation rate before and after simulation training](simulation-no-significant-success-rate-change.md) — related
+- [Model A had the highest incidence of tooth injury in both attempts, uniquely incorporating an auditory alarm for tooth contact](model-a-tooth-injury-highest.md) — related

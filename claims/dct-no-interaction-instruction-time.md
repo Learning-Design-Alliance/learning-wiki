@@ -50,3 +50,4 @@ Omnibus interaction test from the same two-way repeated-measures ANOVA on DCT sc
 ## Related Claims
 - [Combined pragmalinguistics- and sociopragmatics-focused input-based instruction (CI) produced significantly better written production of English request hedges than sociopragmatics-focused instruction alone (SI) and a control group](ci-beats-si-control-dct-request-hedges.md) — related
 - [Posttest scores differed significantly across the four gender-by-instruction subgroups in a one-way ANOVA](anova-four-subgroups-thanking-significant.md) — related
+- [Group×time interactions were significant for all four outcomes in two-way repeated measures ANOVA](snpcohs-group-time-interaction-significant.md) — related

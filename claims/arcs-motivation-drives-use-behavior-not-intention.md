@@ -55,3 +55,4 @@ Explanatory-power analysis in the structural model evaluation section reports R2
 - Only about a third of K‑5 writing‑motivation studies explicitly referred to motivation theory to justify the design or choice of their motivation measure — related
 - [Facilitating conditions showed an asymmetric pattern: no significant effect on behavioral intention but a significant positive effect on use behavior](facilitating-conditions-asymmetric-intention-use.md) — related
 - [The modified UTAUT model accounts for 62% of variance in behavioral intention and 19% of variance in use behavior.](modified-utaut-variance-explained-mall.md) — related
+- [Perceived ease of use was the strongest predictor of both perceived usefulness (β = 1.02) and behavioral intention to use 3D Organon (β = 1.01)](ease-of-use-strongest-predictor-usefulness-intention.md) — related

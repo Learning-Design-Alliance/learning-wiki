@@ -70,3 +70,4 @@ The review reports, citing Chen et al., that 3DPAM students were "better at reco
 - [In seven reviewed studies 3DPAMs were not superior to other models on student knowledge tests](3dpam-not-superior-in-seven-studies.md) — reports the opposite
 - [One hour of learning with a lower-limb 3DPAM showed no significant difference from one hour of dissection on the same area](3dpam-versus-dissection-no-significant-difference.md) — related
 - [Novice trainees who trained on case-specific 3D-printed temporal bone models scored lower in subsequent cadaveric mastoidectomy than those who trained on generic-anatomy models](case-specific-3d-printed-training-lower-cadaver-transfer-novices.md) — related
+- [ENT residents rate the SAPIENS 3D-printed temporal bone models as closely resembling human temporal bone anatomy and dissection (Mowry scores 53.2 and 55.4 of 61)](sapiens-mowry-scores-closely-resemble-human-temporal-bone.md) — a narrower finding that bears on this claim

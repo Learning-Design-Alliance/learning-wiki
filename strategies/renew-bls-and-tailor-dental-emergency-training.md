@@ -48,6 +48,7 @@ The article recommends shortening the BLS renewal interval below the usual 24 mo
 
 - [Sustain certification through dynamic renewal, multi-channel feedback, and a training–certification–motivation–development cycle](dynamic-certification-renewal-cycle-strategy.md)
 - [Use regular refresher training to counter significant decline in BLS knowledge and skills at 3 months](regular-refresher-training-for-bls-decline.md)
+- [Decentralise BLS training at scale with periodic retraining and certification tracking in performance management](decentralised-bls-training-retraining-strategy.md)
 
 ## Examples
 -

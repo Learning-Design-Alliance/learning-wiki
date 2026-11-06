@@ -52,6 +52,7 @@ The article recommends integrating simulation training as a component of pediatr
 - [Combine brief hands-on suture training with objective skill evaluation during clerkship to boost surgical career motivation](hands-on-suture-training-with-objective-evaluation-strategy.md)
 - [Brief video orientation plus one-on-one hands-on cadaver workshop followed by an independent skills test](video-plus-one-on-one-cadaver-workshop-strategy.md)
 - [Integrate ongoing hands-on POCUS training into pediatric residency curricula to build resident competence and confidence](hands-on-pocus-training-integration-pediatric-residency.md)
+- [Integrate simulation-based education into traditional lecture-based teaching during the clinical apprenticeship phase of medical imaging courses](integrate-sbe-into-tbe-clinical-apprenticeship-phase.md)
 
 ## Examples
 -

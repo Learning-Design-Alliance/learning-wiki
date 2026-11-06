@@ -115,6 +115,8 @@ The authors recommend a sequenced implementation model: "It is recommended to ac
 - [Reform medical statistics teaching through blended, case-based, tiered instruction with diversified competency-based assessment](blended-case-based-tiered-statistics-teaching-reform.md)
 - [Clinical scenario comprehensive training with high-fidelity models and case libraries to build integrated root canal treatment competence](clinical-scenario-comprehensive-training.md)
 - [Integrate contextualized online materials with real or simulated clinical practice elements into traditional paramedic education](contextualized-online-plus-clinical-practice-mdc.md)
+- [Integrate simulation-based education into traditional lecture-based teaching during the clinical apprenticeship phase of medical imaging courses](integrate-sbe-into-tbe-clinical-apprenticeship-phase.md)
+- [Combine push-based mobile learning with simulation practice and tiered content in a push-practice-feedback loop](push-plus-simulation-hybrid-nursing-education-strategy.md)
 
 ## Examples
 -

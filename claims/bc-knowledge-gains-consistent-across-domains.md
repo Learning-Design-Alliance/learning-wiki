@@ -50,3 +50,5 @@ Domain-level analysis of the same pre–post study (n=87). Percentage-point gain
 ## Related Claims
 - [A student-led breast cancer awareness workshop significantly improved total breast cancer knowledge scores among female secondary school students.](student-led-bc-campaign-significant-knowledge-gains-adolescents.md) — related
 - [Perceived susceptibility and seriousness of breast cancer did not differ by teaching method, remaining parallel across groups after the intervention and at follow-up](susceptibility-seriousness-parallel-across-teaching-methods.md) — related
+- [Simulation-based breast health education significantly increased awareness of breast cancer risk factors among Afghan refugee women compared to the control group](simulation-education-risk-factor-awareness-increase.md) — related
+- [Simulation-based breast health education significantly increased awareness of the 11 warning signs of breast cancer among Afghan refugee women compared to the control group](simulation-education-warning-sign-awareness-increase.md) — related

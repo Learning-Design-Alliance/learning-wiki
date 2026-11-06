@@ -70,3 +70,4 @@ Table 3 reports per-item STAI-6 medians pre and post simulation; the total score
 - [VR/haptics intravenous simulator training reduced state anxiety in all groups with no significant group differences](vr-haptics-iv-simulator-anxiety-no-group-difference.md) — related
 - [Post-intervention self-reported state anxiety (STAI) did not significantly differ between the simulation-intervention and control groups](stai-no-difference-post-simulation.md) — reports the opposite
 - [State anxiety measured before the OSCE decreased after completing the test in both cohorts, suggesting exam-related rather than persistent anxiety](state-anxiety-decreases-after-osce.md) — related
+- [Among medical students, anxiety-reduction scores rose from pre-training to post-training after VR anatomy training, in one single-group pre-post study](vr-anatomy-training-anxiety-reduction-post-scores.md) — a narrower finding that bears on this claim

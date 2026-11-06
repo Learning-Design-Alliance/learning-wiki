@@ -94,3 +94,5 @@ Authors' noted limitation of the voice-only system: prompt-described nonverbal c
 - [Chronic psychiatric placement shortage in the UAE left most mental health nursing practicum students without traditional placements, motivating AI simulation](clinical-placement-shortage-uae-mental-health.md) — related
 - [Students describe HoloPatient simulation positively (concentration, edutainment, practical learning) but report Wi-Fi instability and cybersickness as barriers](holopatient-qualitative-themes-experiences-barriers.md) — related
 - [Virtual escape rooms face challenges of technical malfunction, low survey response rates, missing in-person moderators, and narrow topical focus](virtual-escape-room-challenges.md) — related
+- [Verisimilitude limitations—absent visual, tonal, and nonverbal cues and lack of rapport—persisted as a limiting factor for all students using ChatGPT as a standardized patient](verisimilitude-limits-chatgpt-sp.md) — related
+- [The VR simulator ran reliably and was quickly deployable, with under-5-minute setup, minimum 90 fps frame rates, and no malfunctions or breakages](vr-simulator-technical-performance-reliability.md) — related

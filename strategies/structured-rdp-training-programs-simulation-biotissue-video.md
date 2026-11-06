@@ -58,7 +58,8 @@ The authors advocate structured training programs such as the University of Pitt
 - [Previous laparoscopic experience accelerates the RDP learning curve](../claims/prior-laparoscopic-experience-accelerates-rdp-learning.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Structured return-to-work simulation bootcamp for surgeons returning after time out of training](return-to-work-surgical-bootcamp-strategy.md)
 
 ## Examples
 -

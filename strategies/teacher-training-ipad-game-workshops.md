@@ -49,6 +49,7 @@ The article's recommendations section calls for training teachers on using iPad 
 - [Train social studies teachers and design purpose-built iPad applications to support iPad-based teaching](ipad-teacher-training-and-app-design-strategy.md)
 - [Recommendations: train teachers on the modules strategy and supply supporting textbooks and references](modules-strategy-teacher-training-and-materials-strategy.md)
 - [Provide teachers with time, resources and professional development to explore iPads before implementation](teacher-pd-time-for-ipad-implementation.md)
+- [Integrate puzzle-based techniques regularly into applied nursing curricula and train instructors in their use](regular-puzzle-integration-nursing-curricula-strategy.md)
 
 ## Examples
 -

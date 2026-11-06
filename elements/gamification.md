@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 69 claims (47 for, 19 mixed, 3 against) · 40 studies (21 causal, 8 review, 6 quant-synthesis, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 8 of 40 report an effect size · 68 claims rest on one study
+> **Evidence** · 70 claims (48 for, 19 mixed, 3 against) · 41 studies (22 causal, 8 review, 6 quant-synthesis, 2 design, 1 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 9 of 41 report an effect size · 69 claims rest on one study
 
 ## Description
 Gamification is the element in which points, progress indicators, challenges, or other game-like structures are used to shape participation and persistence.
@@ -93,6 +93,7 @@ Gamification is the element in which points, progress indicators, challenges, or
 - [Adding gamification to an in-person radiology rotation produces significantly higher radiographic-interpretation knowledge scores than the in-person rotation alone in fifth-year medical students](../claims/gamification-raises-radiographic-interpretation-knowledge.md) [+W] — attached 2026-11-06 from Karimian Z et al. (2025), which proposed "Quiz-maker gamified platform with 200 clinical cases, points, badges, leaderboards, and certificates for radiographic interpretation training"; tests this page's relationship.
 - [Medical students trained with gamification achieve significantly higher OSCE skill scores than students in the routine in-person rotation](../claims/gamification-raises-osce-skill-scores.md) [+W] — attached 2026-11-06 from Karimian Z et al. (2025), which proposed "Quiz-maker gamified platform with 200 clinical cases, points, badges, leaderboards, and certificates for radiographic interpretation training"; tests this page's relationship.
 - [Student satisfaction with the gamified radiology training exceeds the acceptance cutoff across all seven TAM components, with enjoyment among the highest-rated dimensions](../claims/tam-satisfaction-above-cutoff-all-components.md) [+W] — attached 2026-11-06 from Karimian Z et al. (2025), which proposed "Quiz-maker gamified platform with 200 clinical cases, points, badges, leaderboards, and certificates for radiographic interpretation training".
+- [Gamification-based training produced greater knowledge gains than e-learning and control in ICU nurses caring for organ donation candidates](../claims/gamification-greater-knowledge-gains-than-e-learning-icu-organ-donation.md) [+W] — attached 2026-11-06 from Hossein Meysam Pour et al. (2025), which proposed "Six-scenario gamification training with points and progression gating delivered via messaging platform".
 
 ## Examples
 

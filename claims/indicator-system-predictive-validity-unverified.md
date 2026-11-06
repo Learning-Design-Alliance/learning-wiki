@@ -55,3 +55,4 @@ Authors' stated limitation in the Discussion: the Delphi process ensured content
 - [Clinical thrombectomy outcomes at the three limited-volume centers met multi-society consensus guideline benchmarks during the study period](limited-volume-centers-met-thrombectomy-quality-benchmarks.md) — related
 - [The authors report a follow-up validity study of STRIVE across 40 Chinese hospitals with promising preliminary results](strive-followup-validity-40-hospitals.md) — related
 - [The Delphi consensus process converged on a competency model of 8 primary indicators and 60 secondary indicators with assigned weights for each indicator.](cv-competency-model-8-primary-60-secondary-indicators.md) — related
+- [Deficiencies in assessment tool design and scoring consistency undermine the reliability and validity of some Assessment Center tools](ac-tool-design-gaps-undermine-reliability-validity.md) — related

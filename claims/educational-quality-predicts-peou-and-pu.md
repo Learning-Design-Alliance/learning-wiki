@@ -50,3 +50,4 @@ Structural model results from the PLS-SEM analysis of 299 instructor responses; 
 - [Technological complexity shows no significant effect on perceived ease of use or perceived usefulness of e-learning platforms](technological-complexity-paths-non-significant.md) — related
 - [Perceived ease of use positively influenced perceived usefulness of the AVDS tool only after use](peou-positive-impact-pu-after-avds-use.md) — related
 - [Self-efficacy shows no significant effect on perceived usefulness of e-learning platforms](self-efficacy-pu-path-non-significant.md) — related
+- [Subjective norm showed no linear relationship with perceived ease of use or perceived usefulness, and its hypotheses were rejected](subjective-norm-no-relationship-3d-organon.md) — related

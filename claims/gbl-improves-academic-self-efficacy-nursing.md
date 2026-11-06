@@ -55,3 +55,4 @@ Repeated measures ANOVA in the intervention group (n = 20) showed a significant 
 - [Nursing interns randomised to PBL combined with comparative nursing rounds scored higher on a health education ability questionnaire than traditionally taught interns (P = 0.003)](pbl-higher-health-education-ability-nursing-interns.md) — related
 - [SBLE significantly increases perceived efficacy among nursing students](sble-increases-perceived-efficacy-nursing-students.md) — related
 - [ICU nurses' MDRO infection control knowledge scores rose from baseline to 2 weeks and remained elevated at 3 months in a one-group pre-post study of repeated education](repeated-education-increased-mdro-knowledge-icu-nurses.md) — related
+- [Puzzle-based teaching increases academic self-efficacy in nursing students](puzzle-teaching-increases-academic-self-efficacy.md) — related

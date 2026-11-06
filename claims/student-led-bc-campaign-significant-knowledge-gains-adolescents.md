@@ -50,3 +50,4 @@ Single-group pre–post study of 87 female secondary school students in Dubai us
 - [All Health Belief Model subscale scores increased significantly after the educational intervention (p=0.000)](bse-education-improved-health-belief-subscales.md) — related
 - [Adolescent females taught breast health with interactive learning using simulated breast models gained more knowledge and sustained the gain longer than the comparison group](interactive-learning-breast-health-knowledge-retention.md) — related
 - [Knowledge gains varied by workshop topic, largest for pulmonary auscultation and smallest for rectal and breast examination](knowledge-gain-varies-by-workshop-topic.md) — related
+- [Simulation-based breast health education significantly increased confidence, skills, and behavioral awareness related to breast cancer among Afghan refugee women compared to the control group](simulation-education-confidence-behavior-increase.md) — related

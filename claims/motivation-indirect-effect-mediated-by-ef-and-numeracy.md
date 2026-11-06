@@ -58,3 +58,4 @@ Mediation analysis following Baron and Kenny on the same longitudinal SEM sample
 - [Improvements in executive function mediate the intervention's effects on learning-related behaviors and problem behaviors](ef-improvement-mediates-classroom-behavior.md) — related
 - [Mediation hypothesis not confirmed: indirect effects of City Connects through grade 5 academic and non-cognitive skills are not significantly different from zero](city-connects-mediation-not-confirmed-grade-5-skills.md) — related
 - [Executive function partially mediates the relationship between fundamental motor skills and academic achievement in both Chinese and mathematics](ef-partially-mediates-fms-academic-achievement.md) — related
+- [Behavioral self-regulation and working memory, but not short-term memory, partially mediate the relation between early and later math skills](self-regulation-working-memory-partially-mediate-early-later-math.md) — related

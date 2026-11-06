@@ -51,3 +51,4 @@ A quasi-experimental between-group comparison of 404 first-semester medical stud
 - [Students learning venipuncture with a segmented-interactive video scored significantly higher on the technical component than students using a continuous video](segmented-interactive-video-technical-component-significant.md) — related
 - [More students in the segmented-interactive video group reached the competence level after the intervention (70.3% vs 55.6% in the continuous-video control group)](segmented-interactive-video-competence-level-descriptive-advantage.md) — related
 - [Procedure times were similar between simulation and traditional groups across most nerve block approaches](procedure-times-similar-most-approaches.md) — related
+- [Training-sequence order did not significantly affect time to blood pressure measurement or time to arterial biological sample](training-sequence-no-time-difference.md) — related

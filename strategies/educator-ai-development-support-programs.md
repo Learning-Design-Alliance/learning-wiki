@@ -57,6 +57,7 @@ The brief recommends educator support programs addressing immediate and long-ter
 - [Address teacher perception biases through teacher training and professional development focused on scaffolding and identifying children needing extra support](teacher-pd-address-perception-biases.md)
 - [When implementing experiential school nutrition programs, secure sufficient duration, curriculum integration, teacher involvement, and supporting resources](secure-duration-integration-teacher-resources-for-nutrition-programs.md)
 - [Professional development on WCF should be practical, context-sensitive training rather than theoretical lectures](context-sensitive-wcf-teacher-development.md)
+- [Integrate mindfulness training into professional development programs for PE teachers](mindfulness-training-in-teacher-pd.md)
 
 ## Examples
 -

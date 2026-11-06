@@ -54,3 +54,4 @@ The review reports this mixed-methods study of 40 undergraduates in Section 3.4;
 - [ChatGPT answered unsupervised web-based MCQ assessments with a mean accuracy of 70% (range 35–100%)](chatgpt-wba-mcq-mean-70-percent.md) — related
 - [General-purpose LLMs show accuracy and reliability limits, including hallucinations and task-specific accuracy below perfect, making them risky as expert advice sources](llm-accuracy-hallucination-coaching-risk.md) — a broader claim this one bears on
 - [Before instruction, physics students show skepticism about LLM learning impacts, agreeing that over-reliance risks dependence, false confidence, and reduced conceptual understanding](pre-instruction-skepticism-llm-learning-impacts.md) — related
+- [Student trust concerns about ChatGPT's accuracy present before the standardized-patient interaction disappeared after it, with no hallucinations observed by faculty](trust-theme-disappeared-postinteraction.md) — related

@@ -53,3 +53,4 @@ Mann–Whitney comparisons of blinded GOALS domain ratings in the same 71-partic
 - [Trained participants show safer tissue handling, more consistent vessel exposure, and improved stapler positioning in qualitative blinded assessment](qualitative-safer-tissue-handling-trained-group.md) — related
 - [The K technique exercise stimulates five of six GEARS skill domains](k-technique-stimulates-five-gears-domains.md) — related
 - [GEARS domain and surgical-step scores were similar across experience groups for both procedures, with all p > 0.05](gears-domain-step-scores-similar-groups.md) — related
+- [The GOALS domain depth perception improved significantly more after simulation training, while the other four domains did not differ significantly](depth-perception-domain-significant-gain.md) — reports the opposite

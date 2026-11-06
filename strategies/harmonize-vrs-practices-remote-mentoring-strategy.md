@@ -48,6 +48,7 @@ The article recommends harmonizing VRS practices and assessment methods internat
 - [Harmonize teaching practice qualification nationwide to enable cross-site programs and mutually recognized qualifications](nationwide-harmonization-teaching-practice-qualification.md)
 - [Design and implement VS teaching with simplified interfaces, multimodal feedback, multilingual diverse case libraries, pre-training, and controlled VR session lengths](vs-design-recommendations-strategy.md)
 - [Pair LLM-assisted learning with VR/AR or simulation-based training for procedural skills](llm-plus-vrar-for-procedural-skills.md)
+- [Deploy the VR simulator as a tiered training and remote/team-based education platform across experience levels](tiered-remote-team-vr-training-strategy.md)
 
 ## Examples
 -

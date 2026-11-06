@@ -54,3 +54,4 @@ Cross-sectional logistic regression of unhealthy food and beverage intake (more 
 - [High leisure time physical activity and active commuting to school are each associated with increased odds of high academic achievement in both girls and boys](physical-activity-active-commuting-associated-achievement-adolescents.md) — related
 - [Breakfast consumption shows a mainly positive effect on on-task behavior in the classroom in children](breakfast-mainly-positive-on-task-behavior.md) — related
 - [Game-based instruction significantly improved students' food and drink habits relative to PowerPoint instruction](game-based-instruction-improves-food-drink-habits.md) — related
+- [Lower BMI, higher healthy diet score, and better sleep quality are associated with high language performance in girls but not boys](bmi-diet-sleep-quality-girls-language-performance.md) — related

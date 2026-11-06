@@ -9,6 +9,7 @@ generated:
   at: 2026-11-06
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-06
 sources:
   - id: bahramnezhad-fatemeh-2025
     resource: "https://doi.org/10.1186/s13104-025-07338-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After the script strategy intervention, nursing students' mean hypothesis formation test score was 18.54 ± 11.33 (out of 20), significantly above the cutoff of 10.8 (p = 0.001). [→ Bahramnezhad Fatemeh 2025](#bahramnezhad-fatemeh-2025)

@@ -49,3 +49,4 @@ Post-training IMI scores in the randomized trial showed the negative feedback gr
 - [Trainees who received negative feedback reported lower perceived competence than those receiving positive or no feedback](negative-feedback-lower-perceived-competence-imi.md) — related
 - [In laparoscopic suturing training, both positive and negative formative feedback improved one-week skill retention while no feedback produced no significant progression](positive-negative-feedback-improve-isat-retention.md) — related
 - [Negative feedback was associated with major tissue injuries during suturing, which did not occur in the positive or no-feedback groups](negative-feedback-major-tissue-injuries.md) — related
+- [Higher perceived pressure/tension and, unexpectedly, higher perceived competence predict poorer post-training test results](pressure-and-competence-predict-test-results.md) — related

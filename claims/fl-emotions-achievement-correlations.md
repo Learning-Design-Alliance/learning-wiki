@@ -57,3 +57,4 @@ Descriptive and correlation analysis (Table 1, N = 1543). Enjoyment–achievemen
 - [Within-domain emotion structure only partially matches the valence–activation model: anger relates more strongly to boredom than to anxiety, and enjoyment–boredom and anger–boredom correlations are conspicuously strong](within-domain-structure-anger-boredom-enjoyment-patterns.md) — related
 - [Control and value appraisals partially mediate the TSRQ–enjoyment and TSRQ–boredom associations](tsrq-enjoyment-boredom-partially-mediated-by-appraisals.md) — related
 - [Foreign language enjoyment, boredom, and anxiety each significantly mediate the relationship between social support and English academic achievement](fl-emotions-mediate-support-achievement.md) — related
+- [Teacher caring behavior correlates positively with enjoyment and English performance, and negatively with anxiety and boredom](tcb-emotion-performance-correlations.md) — related

@@ -53,3 +53,4 @@ Two-sample t-tests (allowing for unequal variances) compared girls' and boys' ab
 - [Girls report higher initial mathematics enjoyment and boys higher initial boredom, with no gender differences in arithmetic skill development or mathematics performance](gender-differences-enjoyment-boredom-early-grades.md) — related
 - [The boys-versus-girls achievement gap narrows and disappears in the highest SES group](sex-gap-in-ea-narrows-at-highest-ses.md) — related
 - [Boys hold significantly higher self-efficacy than girls in science inquiry at every measurement point, though the gap narrows during training](boys-higher-self-efficacy-science-inquiry.md) — related
+- [Girls report higher academic performance than boys, by about 5 percentage points in mathematics and 13 in language](girls-outperform-boys-math-language-grades.md) — related

@@ -50,3 +50,4 @@ Multi-select attitude item in the 402-participant survey (Table 3); the Results 
 - [Prior BLS training is independently associated with higher BLS knowledge/practice scores among Gaza healthcare workers](prior-bls-training-higher-scores-gaza.md) — related
 - [Doctors outscore nurses on BLS knowledge/practice in Gaza hospitals](doctors-outscore-nurses-bls-gaza.md) — related
 - [Gaza healthcare workers' BLS knowledge is strongest on CPR ratio, compression location and myocardial infarction recognition, moderate on trauma and airway items](gaza-bls-knowledge-strengths.md) — related
+- [Nurses hold positive attitudes towards BLS but report needing more training, particularly for infants and AED use](nurses-positive-attitudes-need-more-bls-training.md) — related

@@ -55,6 +55,7 @@ The article recommends grounding simulated patient scenarios in conversation ana
 - [Simulation Based Medical Training](simulation-based-medical-training.md)
 - [Use linear virtual patients as a substitute or supplement to role-play, not as the sole method](virtual-patients-substitute-supplement-roleplay.md)
 - [Include a patient panel discussion to ground communication training in patient experiences](patient-panel-discussion-communication-training.md)
+- [Enhance simulation-based methods with detailed visual materials and real-life examples to teach complex observational skills](enhance-simulation-visual-materials-observational-skills.md)
 
 ## Examples
 -

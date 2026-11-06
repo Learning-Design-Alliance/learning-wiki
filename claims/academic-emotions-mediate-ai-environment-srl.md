@@ -80,3 +80,5 @@ The structural model retained a significant direct path after including the thre
 - [Student-centred non-cognitive measures (academic interest, self-perceived ability, curiosity) show stronger mediation effects than measures of the external learning environment](student-centred-noncognitive-measures-stronger-mediation.md) — related
 - [Perceived teacher support is positively correlated with all three types of self-regulated learning (preparation, performance, self-evaluation).](teacher-support-correlates-srl-types.md) — related
 - [Foreign language enjoyment, boredom, and anxiety each significantly mediate the relationship between social support and English academic achievement](fl-emotions-mediate-support-achievement.md) — related
+- [Boredom negatively mediates the relationship between teacher caring behavior and English academic performance](boredom-negative-mediation-tcb-eap.md) — related
+- [Enjoyment positively mediates the relationship between teacher caring behavior and English academic performance](enjoyment-positive-mediation-tcb-eap.md) — related

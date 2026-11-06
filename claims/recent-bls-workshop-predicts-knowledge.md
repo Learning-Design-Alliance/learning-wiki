@@ -56,3 +56,4 @@ Binary logistic regression predicting good knowledge among 400 dentists, adjuste
 - [Workshop attendance positively predicts case-report knowledge while holding a professional physical-therapy degree predicts lower scores](regression-case-report-predictors.md) — related
 - [None of five background predictors (gender, age, years since education, self-assessed knowledge, continuing education) significantly predicted dentists' overall proportion of correct answers](no-predictor-significant-overall-correct-answers.md) — related
 - [Behavioral capability increases with training level and with longer time since last BLS certification](factors-raising-behavioral-capability.md) — related
+- [Any form of BLS training and current certification are associated with higher competency, while experience and CPR frequency are not](bls-training-certification-competency-association.md) — related

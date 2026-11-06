@@ -63,6 +63,7 @@ The authors recommend that advanced simulation-based scenarios be embedded into 
 - [Integrate the DNH model into structured ESD curricula via simulation workshops with progressive difficulty and bleeding scenarios](dnh-model-structured-curriculum-workshops.md)
 - [Embed repeated exposure to diverse disaster triage scenarios in training to build adaptive decision-making](repeated-diverse-scenario-exposure-triage-strategy.md)
 - [Embed simulation tools into official curricula as standardized preclinical modules and pursue multi-institutional validation](curricular-integration-of-rpd-simulation.md)
+- [Build disaster nursing preparedness through a national competency framework, mandatory disaster modules, scenario-based simulation and leadership development](national-disaster-nursing-competency-framework-strategy.md)
 
 ## Examples
 -

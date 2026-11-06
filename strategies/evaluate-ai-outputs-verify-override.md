@@ -51,6 +51,7 @@ Under Encourage Evaluation of Emerging Technologies, the framework recommends pr
 - [Design curricula giving students opportunities to critically engage with AI and AI-generated content through validation, interpretation, and revision tasks](critical-engagement-tasks-with-ai-generated-content.md)
 - [Cautious, verified use of ChatGPT with critical cross-referencing of AI-provided sources](cautious-verified-chatgpt-use-strategy.md)
 - [Add opportunities for critical comparison of AI outputs to Socratic GenAI activities to enable trust calibration](critical-comparison-for-trust-calibration-strategy.md)
+- [Have students generate, verify, and integrate ChatGPT answers judged by a teacher to build critical thinking](chatgpt-generate-verify-integrate-strategy.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Likert survey of six Cohort 3 experimental-group students covering twenty questi
 - [Student attitudes toward VOLTA were positive when it supplemented TA help but mixed when it replaced TA assistance](volta-attitudes-positive-with-ta-mixed-without.md) — related
 - [Students taught with VOLTA v2 plus TA assistance significantly outperformed TA-only controls on gain scores (Cohort 2)](volta-v2-gain-score-advantage-cohort2.md) — related
 - [With decreased TA involvement, VOLTA v3 students learned as much as TA-taught controls (Cohort 3)](volta-v3-replaces-ta-equivalent-learning.md) — related
+- [Most students find navigation within the VR anatomy environment easy or very easy](vr-anatomy-navigation-rated-easy.md) — possibly the same claim (merge candidate)

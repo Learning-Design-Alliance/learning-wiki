@@ -50,3 +50,4 @@ Cross-sectional online survey of Year 1 medical students (n = 253; 58% response)
 - ['Non-White' students have more positive perceptions of integrated TBL than White students across several perception domains.](non-white-students-more-positive-tbl-perceptions.md) — related
 - [Logistical issues, particularly discussions cut short by the central coordinator and insufficient expert panel time, are the most frequently raised limitations of integrated TBL by students.](logistical-issues-most-frequent-tbl-limitation.md) — related
 - [Students reported high satisfaction with the interdisciplinary TBL session](high-satisfaction-interdisciplinary-tbl.md) — related
+- [Male students showed significantly higher overall satisfaction and attitude toward TBL than female students](male-students-higher-tbl-satisfaction-attitude.md) — related

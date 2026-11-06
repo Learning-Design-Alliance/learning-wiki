@@ -48,3 +48,4 @@ Cross-sectional assessment of 54 county-level representatives in Hainan using a 
 ## Related Claims
 - [Parasite egg detection rates varied widely, from roundworm highest at 82.61% to Schistosoma japonicum lowest at 5.89%](egg-detection-rate-range-hainan.md) — related
 - [Microscopic identification scores differ significantly among Plasmodium species, with P. vivax highest (51.85%) and P. ovale at 0.00%](plasmodium-species-microscopy-differences.md) — related
+- [The predominant diagnostic error in the training assessments was interspecies confusion, notably misidentifying Plasmodium ovale as Plasmodium malariae (20.8% of errors)](interspecies-confusion-predominant-microscopy-error.md) — related

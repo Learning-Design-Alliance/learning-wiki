@@ -49,3 +49,4 @@ Multivariable logistic regression on the primary outcome adjusting for randomize
 - [Mental imagery reduces procedural complications and the number of skin punctures in simulated PVC insertion](mental-imagery-complications-punctures-pvc.md) — related
 - [First-attempt puncture success is comparable between groups, but trained students require significantly more attempts for success](first-attempt-success-comparable-more-attempts-trained.md) — related
 - [Within the usual-teaching group, students with no prior training achieved a higher first-attempt success rate than those with some prior informal training](no-prior-training-higher-first-attempt-success.md) — related
+- [Nursing students trained with NIR light visualization achieved the highest first-attempt PVC success rate (67.3%) compared to isometric exercise (40%) and control (29.2%) groups](nir-visualization-highest-first-attempt-pvc-success.md) — related

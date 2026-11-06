@@ -55,6 +55,7 @@ The report's second use case shows Indian Prairie School District establishing a
 - [Multi-source intensive case study followed by a stakeholder conference](intensive-case-study-conference-procedure.md)
 - [Establish an ICT Resource Centre under each district's School Management Board with production, research-assessment and technical sections](ict-resource-centre-three-sections.md)
 - [Convene a stakeholder task force to use contradictory findings in future program design and implementation](stakeholder-task-force-contradictory-findings.md)
+- [Structured cross-disciplinary faculty training, leadership resource allocation, and dedicated administrative support to overcome interdisciplinary implementation barriers](faculty-training-resources-admin-support-interdisciplinary.md)
 
 ## Examples
 -

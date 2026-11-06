@@ -52,3 +52,4 @@ Correlational analysis of 20 cases (15 unique toddlers, ages 2–3) from an EEG 
 - [Behavioral performance on the toddler Oddball task is uncorrelated with target P3 amplitudes and latencies](oddball-behavioral-performance-uncorrelated-p3-toddlers.md) — related
 - [P3 amplitudes and sleep duration show no significant associations with sleep deficits or sustained attention in toddlers](null-p3-amplitude-sleep-duration-associations-toddlers.md) — related
 - [A P3-like ERP component can be elicited from toddlers as young as 30 months using an active auditory Oddball task](p3-like-component-elicited-toddlers-active-oddball.md) — related
+- [Higher DAUF sustained attention scores (poorer sustained attention) are significantly negatively correlated with academic performance in children with LD](dauf-attention-negative-correlation-academic-ld.md) — related

@@ -50,3 +50,4 @@ Pre-post Wilcoxon signed-rank tests on Likert PCS items (1-6). VR pre-post means
 - [VR-trained and small-group-trained fellows show no significant difference in post-training checklist scores for tracheostomy emergencies](vr-noninferior-tracheostomy-emergency-checklist.md) — related
 - [No significant performance difference between VR and small group fellows on any of the 4 individual tracheostomy emergency cases](vr-small-group-no-case-level-difference.md) — related
 - [Simulation training in VR or HFS significantly improves medical interns' self-reported confidence in managing oxygen desaturation](vr-hfs-desaturation-confidence-gain.md) — related
+- [VR-trained students reported significantly higher post-training confidence, while the control group showed no significant confidence change from baseline](vr-training-higher-confidence-chest-tube.md) — related

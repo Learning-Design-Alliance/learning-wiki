@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 337 claims (210 show a difference, 56 mixed, 71 no difference) · 234 studies (96 causal, 52 associational, 36 quant-synthesis, 33 review, 8 theoretical, 5 qualitative, 4 design), `q1`–`q4` · 52 of 234 report an effect size · 328 claims rest on one study
+> **Evidence** · 339 claims (211 show a difference, 56 mixed, 72 no difference) · 235 studies (96 causal, 53 associational, 36 quant-synthesis, 33 review, 8 theoretical, 5 qualitative, 4 design), `q1`–`q4` · 53 of 235 report an effect size · 330 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -388,6 +388,8 @@ What a learner can read without effort, and whether the language of instruction 
 - [Asymmetrical scaffolding produced higher EFL reading comprehension post-test scores than symmetrical scaffolding](../claims/asymmetrical-scaffolding-outperforms-symmetrical-reading-comprehension.md) [+M] — measured as an outcome of the instruction studied
 - [EFL learners' reading comprehension scores rose significantly from pre-test to post-test after symmetrical scaffolding, in one uncontrolled pre-post study](../claims/symmetrical-scaffolding-improves-reading-comprehension.md) [+M] — measured as an outcome of the instruction studied
 - [International students studying CBL in a second language and unaccustomed to active learning show poorer knowledge gains than domestic peers](../claims/cbl-international-students-second-language-poorer-gains.md) [+M] — learners who differ on it differ in outcomes
+- [Letter Naming Fluency and Letter Sound Fluency significantly predict end-of-year Word Reading Fluency in kindergarten and grade 1 at both fall and mid-year](../claims/lnf-lsf-significant-predictors-end-of-year-wrf.md) [+M] — learners who differ on it differ in outcomes
+- [Phoneme Segmentation Fluency added little to predicting end-of-year Word Reading Fluency: non-significant in the multiple regressions, with one grade 1 mid-year hierarchical model at p = .032](../claims/psf-limited-predictive-value-wrf.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

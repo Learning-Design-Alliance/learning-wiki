@@ -13,7 +13,7 @@ generated:
 # Executive Function
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 149 claims (89 show a difference, 28 mixed, 32 no difference) · 94 studies (34 associational, 27 causal, 15 review, 12 quant-synthesis, 4 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 25 of 94 report an effect size · 147 claims rest on one study
+> **Evidence** · 150 claims (90 show a difference, 28 mixed, 32 no difference) · 95 studies (34 associational, 28 causal, 15 review, 12 quant-synthesis, 4 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 25 of 95 report an effect size · 148 claims rest on one study
 
 ## Description
 Executive function covers inhibitory control, updating working memory, and shifting between tasks or rules. It is measured by performance tasks (such as the Stroop, Flanker and dimensional card-sort tasks) and by teacher or parent ratings. It develops through childhood and adolescence, predicts school readiness and achievement, moderates designs that load self-direction on learners, and is the target of training programmes, whose effects rarely transfer beyond the trained tasks. It underlies [self-regulation](self-regulation.md) and [attention](attention.md) and overlaps with [working memory](working-memory.md).
@@ -186,6 +186,7 @@ Executive function covers inhibitory control, updating working memory, and shift
 - [Higher baseline cognitive flexibility predicts better reading achievement one year later in school-aged children](../claims/cognitive-flexibility-predicts-reading-longitudinally.md) [+W] — learners who differ on it differ in outcomes
 - [Higher baseline reading achievement predicts greater cognitive flexibility one year later in school-aged children](../claims/reading-predicts-cognitive-flexibility-longitudinally.md) [+W] — measured as an outcome of the instruction studied
 - [Reading achievement promotes cognitive flexibility development regardless of baseline reading level, while cognitive flexibility promotes reading only at higher baseline levels](../claims/asymmetric-moderation-reading-flexibility.md) [~W] — learners who differ on it differ in outcomes
+- [The escape room-based physical activity intervention significantly improves cognitive flexibility on the Stroop Task in adolescents](../claims/escape-room-pa-improves-stroop-cognitive-flexibility.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does a child's executive function predict achievement, and through what?* [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](../claims/ef-predicts-preschool-math-growth.md) [+M]

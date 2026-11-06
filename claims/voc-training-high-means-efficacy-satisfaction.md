@@ -81,3 +81,4 @@ Reaction data from the posttraining survey showed very high satisfaction and wil
 - [A one-on-one TCT refresher training delivered 6–9 months after the original course was highly valued by participants, with 83% believing it should become standard practice](tct-refresher-training-highly-valued-by-trainers.md) — related
 - [Students and faculty reported favorable perceptions of RTS, including ease of use, real-time feedback, and reduced instructor preparation time](rts-favorable-user-perceptions.md) — related
 - [Players rate the NICU serious game highly on story empathy, knowledge acquisition, and perceived effectiveness of serious games for learning](nicu-serious-game-high-educational-usefulness-ratings.md) — related
+- [Physiotherapists rated MECC HCS training highly valuable and found the intervention acceptable across all Theoretical Framework of Acceptability constructs](mecc-hcs-acceptability-tfa.md) — related

@@ -49,3 +49,4 @@ A pre-test/post-test non-equivalent comparison-group study with 80 final-year Vi
 - [Students' positive attitudes toward jigsaw learning depend on the teacher being good, with no difference in teacher skills rated between conditions.](positive-attitudes-contingent-on-good-teaching.md) — related
 - [Jigsaw instruction produced more favourable student attitudes toward ethnic integration than conventional lecture in Nigerian Social Studies classrooms](jigsaw-improves-attitude-ethnic-integration-nigeria.md) — related
 - [Cooperative learning produced significantly higher overall learning motivation than lecture-based teaching in a nine-week Vietnamese higher education course](cooperative-learning-higher-motivation-vietnamese-higher-ed.md) — related
+- [Jigsaw-plus-SRL instruction raises nursing students' learning cooperation and information literacy relative to lecture teaching](jigsaw-srl-raises-cooperation-information-literacy.md) — related

@@ -53,3 +53,4 @@ Qualitative interview study by Hartung et al. (2021) with new graduate nurses in
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
 - [Short, poorly aligned mental health placements are perceived to leave graduates unprepared for acute inpatient care](short-misaligned-placements-unprepared-acute-inpatient.md) — related
 - [Experience with people with dementia is associated with higher baseline self-efficacy but not with self-efficacy change](dementia-experience-baseline-efficacy-not-change.md) — related
+- [Nurses with more than 15 years of emergency-care experience perceive fewer barriers than less-experienced colleagues](experience-reduces-perceived-barriers.md) — related

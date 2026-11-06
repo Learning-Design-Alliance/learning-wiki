@@ -9,6 +9,7 @@ generated:
   at: 2026-11-06
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-06
 sources:
   - id: lesselroth-blake-2025
     resource: "https://doi.org/10.2196/70726"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` At 1-month follow-up, the ER-VIPE group showed a significant increase in DSSQ-engagement compared with the control group (mean difference=3.93; P=.001). [→ Lesselroth Blake 2025](#lesselroth-blake-2025)

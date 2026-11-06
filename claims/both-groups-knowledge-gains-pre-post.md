@@ -49,3 +49,4 @@ Paired t-tests within each of the two groups of 41 students showed significant p
 - [Both feedback conditions improve radiographic diagnostic scores from pre-test to post-test, with the larger within-group gain in the personalized-feedback group](both-groups-pre-post-improvement-radiographic.md) — related
 - [Both groups improved significantly from pre- to post-test, with a larger within-group gain in the flipped classroom group (d = 1.87 vs. d = 0.86)](within-group-gains-larger-flipped-group.md) — related
 - [Medical students trained with gamification achieve significantly higher OSCE skill scores than students in the routine in-person rotation](gamification-raises-osce-skill-scores.md) — related
+- [Both e-learning and gamification significantly improved nurses' knowledge scores from pre- to post-intervention](both-interventions-improved-knowledge-significantly.md) — related

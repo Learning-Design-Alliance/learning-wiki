@@ -57,3 +57,6 @@ Reliability analysis of simulation scoring reported in Results (Table 3), based 
 - [Internal consistency of ANTStr scores is high for both raters (Cronbach's alpha 0.83–0.94)](antstr-internal-consistency-cronbach-alpha.md) — related
 - [Blinded independent radiographic assessment of implant alignment showed good or excellent interrater agreement, with ICC ranging from 0.77 to 0.96](blinded-radiographic-assessment-icc-good-excellent.md) — related
 - [The researcher-made Mini-CEX and Logbook checklists showed high inter-rater consistency (average measure ICC = 0.990)](mini-cex-logbook-checklist-icc-0-990.md) — related
+- [Blinded GOALS assessment of videotaped cholecystectomies has moderate reliability (ICC(A,3) = 0.84 for consensus ratings)](goals-video-assessment-moderate-reliability.md) — related
+- [Assessment reliability was high: intra-rater ICCs of 0.98 and 0.79 and inter-rater ICCs of 0.92 and 0.73](osats-assessor-reliability-iccs.md) — related
+- [Novice participants' simulator evaluation scores did not significantly differ from those of experienced surgeons, with high internal consistency (Cronbach's alpha 0.872) and interrater agreement (ICC 0.851)](traps-simulator-novice-expert-rating-agreement.md) — related

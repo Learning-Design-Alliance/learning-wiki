@@ -46,7 +46,8 @@ The article recommends incorporating its 20-case learning-curve threshold into t
 - [Puncture-related complication incidence does not differ significantly between the learning and proficiency phases](../claims/complications-not-different-pre-post-tp.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Dose simulation training at about 29 procedures with focused early practice](simulation-dosing-29-procedures-competency-benchmark.md)
 
 ## Examples
 -

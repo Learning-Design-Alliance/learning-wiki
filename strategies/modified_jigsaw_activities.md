@@ -67,6 +67,7 @@ Jigsaw enforces positive interdependence — each member holds information the o
 - [Use jigsaw-style sharing so every student is responsible for all the material](jigsaw-sharing-inquiry-posters.md)
 - [Use structured Cooperative Learning activities — Think-Pair-Share, Numbered Heads Together, Jigsaw, and Circle the Sage — to maximize learner interaction](cl-activity-structures-strategy.md)
 - [Use inter-group Jigsaw participation so each group member teaches his topic to other groups and returns to teach his initial group.](jigsaw-inter-group-participation-strategy.md)
+- [Heterogeneous jigsaw grouping based on GPA level, gender and place of origin](heterogeneous-gpa-gender-origin-jigsaw-grouping.md)
 
 ## Related Elements
 - [Peer Teaching](../elements/peer-teaching.md) — the core mechanism: explaining to others consolidates the explainer's understanding

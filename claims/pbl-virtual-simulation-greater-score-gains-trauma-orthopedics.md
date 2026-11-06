@@ -67,3 +67,4 @@ Within-group before-to-after score gains in the same assessor-blinded RCT of 50 
 - [Clinical medicine students showed the largest score gap, 89.88 versus 68.34, between virtual-simulation and control groups](clinical-medicine-largest-virtual-simulation-score-gap.md) — related
 - [PBL-SP does not significantly change written exam performance relative to LBL-SP](pbl-sp-written-exam-no-significant-difference.md) — reports the opposite
 - [\"Learning, Thinking & Conveying\" training with experiential learning shows no difference in clinical operation skills compared with routine mentoring](ltc-training-no-clinical-skills-difference.md) — reports the opposite
+- [Simulation training added roughly a 12-percentage-point knowledge gain in the intervention group, from 66.7% to 79.2% mean MCQ correct](simulation-added-twelve-point-mcq-gain.md) — related

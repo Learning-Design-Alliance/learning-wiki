@@ -61,3 +61,4 @@ Narrative synthesis of adverse-effect reporting across 7 included RCTs. The most
 - [Most participants found first VR engagement exciting and easy to use, though a minority reported discomfort and initial difficulty](vtracs-excitement-with-minority-adverse-experiences.md) — a narrower finding that bears on this claim
 - [Ocular discomfort after EyeSi VR simulation is mild and infrequent](eyesi-vr-mild-ocular-discomfort.md) — a narrower finding that bears on this claim
 - [VR-based simulation significantly increases simulator sickness whereas computer-based simulation does not](vr-simbie-increases-simulator-sickness.md) — related
+- [AR-based anatomy learning is associated with fewer adverse health symptoms overall than traditional learning, except for blurred vision](ar-fewer-adverse-symptoms-except-blurred-vision.md) — related

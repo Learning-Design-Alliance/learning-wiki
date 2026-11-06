@@ -88,3 +88,4 @@ Longitudinal study of a racially/ethnically and linguistically diverse sample of
 - [In Study 1 (N=215), motivation measured at the start of a 10-week gymnastics cycle predicted performance assessed at its end](study1-motivation-predicts-gymnastics-performance.md) — a narrower finding that bears on this claim
 - [EF abilities strongly predict pre-academic abilities in preschoolers](efs-predict-preacademic-abilities-preschool.md) — a broader claim this one bears on
 - [Young children’s EF skills show a robust positive relationship with academic outcomes in preschool through third grade](ef-correlates-academic-outcomes-preschool-third-grade.md) — a broader claim this one bears on
+- [Behavioral self-regulation and working memory, but not short-term memory, partially mediate the relation between early and later math skills](self-regulation-working-memory-partially-mediate-early-later-math.md) — related

@@ -71,3 +71,4 @@ Theme 4 preparation sub-theme. A student recounted, "It was very helpful during 
 - [Male nursing students report developing proficiency in essential obstetric procedures through high-fidelity simulation](hfs-develops-essential-obstetric-skills.md) — a narrower finding that bears on this claim
 - [Improved performance in the simulation environment may not transfer to real-life clinical settings, with almost no studies assessing translated clinical performance](hf-simulation-transfer-untested.md) — reports the opposite
 - [Male nursing students experience initial anxiety with maternal-newborn mannequins that decreases through instructor support and repeated practice](hfs-initial-anxiety-eased-by-instructors-and-repetition.md) — related
+- [Clinical placements are identified as the most important source of knowledge and skill attainment for student clinical exercise physiologists](clinical-placements-optimal-cep-competency.md) — related

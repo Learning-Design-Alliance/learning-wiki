@@ -86,3 +86,4 @@ Semistructured interviews with all 54 experimental-group participants, analyzed 
 - [Learners perceive the multimodal SimBIE curriculum as positively affecting satisfaction, engagement, knowledge, skills, attitudes, and confidence across Kirkpatrick levels 1-3](simbie-focus-group-kirkpatrick-positive-perceptions.md) — related
 - [A VR ECMO simulation raised nursing students' learning immersion and satisfaction without improving knowledge, confidence, or clinical reasoning](vr-ecmo-immersion-without-knowledge-gain.md) — related
 - [A narrative review identifies four main outcome areas of VR, gamification, and escape rooms in medical and nursing education from 25 reviewed studies](vr-gamification-escape-rooms-four-outcome-areas-review.md) — a broader claim this one bears on
+- [Satisfaction gains concentrate in theoretical understanding, difficult airway management confidence and clinical decision-making](apnea-duration-satisfaction-domain-gains.md) — related

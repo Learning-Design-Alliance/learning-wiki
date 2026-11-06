@@ -48,6 +48,7 @@ The review recommends a multidisciplinary approach in which dietitians lead nutr
 - [Provide dedicated nutrition counselling slots, extended consultations and postgraduate nutrition pathways including lifestyle medicine curricula and nutrition subspecialties](clinical-integration-postgraduate-nutrition-pathways.md)
 - [Integrate nutrition throughout medical training using a vertical spiral curriculum with practical teaching methods such as cooking lessons](vertical-spiral-nutrition-curriculum.md)
 - [Train elementary school teachers in APD symptomatology so they can identify suspected cases and serve on multidisciplinary teams](teacher-training-apd-symptomatology-identification.md)
+- [Pair ObGyn nutrition training with multidisciplinary dietitian support while building residents' own counseling capacity](multidisciplinary-nutrition-support-obgyn-counseling.md)
 
 ## Examples
 -

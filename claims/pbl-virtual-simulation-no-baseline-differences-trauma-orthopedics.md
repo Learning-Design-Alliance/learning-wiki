@@ -70,3 +70,4 @@ Baseline comparison in the same assessor-blinded RCT of 50 clinical medical stud
 - [PBL-SP does not significantly change written exam performance relative to LBL-SP](pbl-sp-written-exam-no-significant-difference.md) — related
 - [\"Learning, Thinking & Conveying\" training with experiential learning shows no difference in clinical operation skills compared with routine mentoring](ltc-training-no-clinical-skills-difference.md) — related
 - [Baseline knowledge did not differ significantly between the mannequin-first and VR-first groups before simulation](no-baseline-knowledge-difference-between-groups.md) — related
+- [ChatGPT-assisted and video-only groups show no significant difference in theoretical knowledge test scores before operational learning](no-group-difference-theoretical-knowledge-pretest.md) — a narrower finding that bears on this claim

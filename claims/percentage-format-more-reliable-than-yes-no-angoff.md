@@ -54,3 +54,4 @@ The review reports from Kim and Yang's comparison of Yes/No versus Percentage ra
 - [Angoff methods produce significantly higher pass rates than conventional fixed standard-setting methods](angoff-higher-pass-rates-than-fixed.md) — related
 - [Angoff (Yes/No) variant shows the highest variability in cut scores](angoff-yes-no-highest-variability.md) — related
 - [Modified Angoff with reality check achieves excellent inter-rater reliability](modified-angoff-reality-check-reliability.md) — related
+- [No students failed the virtual OSCE or their clerkship, with cut-scores set by the Borderline Regression Method and an Angoff process](virtual-osce-no-failures-brm-angoff.md) — related

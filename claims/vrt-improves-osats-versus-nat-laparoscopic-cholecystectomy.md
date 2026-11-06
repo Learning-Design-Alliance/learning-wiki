@@ -77,3 +77,4 @@ Single-centre RCT randomizing 16 general surgery trainees and residents to conve
 - [Simulation-based rapid-cycle deliberate practice curriculum improved GRS-rated awake fiberoptic intubation performance at three months](rcdp-simulation-improves-afio-grs.md) — a narrower finding that bears on this claim
 - [IMR-SS trainees made significantly fewer procedural errors than digital-textbook trainees; safety breaches were fewer but not significantly so](imr-ss-fewer-errors-assessment.md) — related
 - [VR-trained surgical residents outperform non-VR-trained peers in laparoscopic procedures](vr-trained-residents-fewer-errors-laparoscopy.md) — related
+- [Naïve surgical residents show a wide baseline range of laparoscopic skill, and a single repeated cholecystectomy alone yields minimal improvement](wide-baseline-skill-range-minimal-control-gain.md) — related

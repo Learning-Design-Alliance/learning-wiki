@@ -72,3 +72,4 @@ Focus-group findings (Further development theme, 11 codes). Teachers cited Wi-Fi
 - [By 2024 more than one-third of simulation sessions used VR and AI tools, and students reported engagement and scenario recall gains of over 30% compared with non-electronic learning](vr-ai-simulation-engagement-recall.md) — related
 - [Students describe HoloPatient simulation positively (concentration, edutainment, practical learning) but report Wi-Fi instability and cybersickness as barriers](holopatient-qualitative-themes-experiences-barriers.md) — related
 - [Virtual escape rooms face challenges of technical malfunction, low survey response rates, missing in-person moderators, and narrow topical focus](virtual-escape-room-challenges.md) — related
+- [The VR simulator ran reliably and was quickly deployable, with under-5-minute setup, minimum 90 fps frame rates, and no malfunctions or breakages](vr-simulator-technical-performance-reliability.md) — related

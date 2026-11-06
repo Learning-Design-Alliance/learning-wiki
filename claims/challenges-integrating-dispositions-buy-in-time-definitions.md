@@ -76,3 +76,5 @@ Discussion of RQ3 challenges: participants such as Mia and Noah described dispos
 - [Implementing grief training faces multi-level challenges including small class sizes, faculty turnover and low motivation because some physicians do not consider grief support part of their job](grief-training-implementation-challenges.md) — related
 - [Lack of time was the most frequently reported barrier to integrating LUS into ED workflows](lack-of-time-top-lus-barrier.md) — related
 - [Stakeholder buy-in from leaders, managers, physicians, and patients is reported by TCM specialist nurses as a key influence on their EBP competence development](stakeholder-buy-in-shapes-tcm-nurse-ebp-competence.md) — related
+- [Deficiencies in assessment tool design and scoring consistency undermine the reliability and validity of some Assessment Center tools](ac-tool-design-gaps-undermine-reliability-validity.md) — related
+- [Senior managers' lack of belief in assessment is the most important cultural challenge to Assessment Center implementation](senior-manager-disbelief-top-cultural-ac-challenge.md) — related

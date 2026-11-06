@@ -56,3 +56,4 @@ Perception study reported within the review: in Koney et al.'s survey after a fu
 - [Anatomy education faces declining curriculum hours and constrained cadaver access driven by cost, ethics, and culture, motivating alternative methods](anatomy-hours-cadaver-access-declining-motivating-alternatives.md) — related
 - [Students favored a blended instructional approach combining lectures with games or case studies rather than replacing lectures with games](students-favor-blended-lecture-game-approach.md) — related
 - [Virtual dissection tables allow students to practice procedures in a low-risk environment where errors can be recognized and virtually reverted without consequences](vdt-low-risk-error-recovery-practice.md) — related
+- [Students overwhelmingly support VR as a supplementary anatomy learning tool but a majority do not see it fully replacing physical labs](students-support-vr-supplement-not-replacement.md) — possibly the same claim (merge candidate)

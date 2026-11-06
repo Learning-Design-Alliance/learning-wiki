@@ -46,3 +46,4 @@ Anonymous online feedback questionnaire at course end (n = 49 of 51). Descriptiv
 
 ## Related Claims
 - [Most nurses are willing to attend frailty training and prefer blended online-offline formats, short sessions, and practice-oriented content](nurses-frailty-training-preferences.md) — related
+- [Paramedics' preferred online learning format depends on the format they most recently experienced](format-preference-follows-experienced-format.md) — related

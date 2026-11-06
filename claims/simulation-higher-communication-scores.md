@@ -47,3 +47,4 @@ A quasi-experimental between-group comparison of 404 first-semester medical stud
 ## Related Claims
 - [Simulation-based teaching yields significantly greater gains in clinical interpretation skills than traditional practical instruction](simulation-greater-clinical-interpretation-gains.md) — related
 - [Simulation-based biochemistry teaching yields significantly greater theoretical knowledge gains than traditional practical instruction](simulation-greater-theoretical-knowledge-gains-biochemistry.md) — related
+- [Non-radiology medical students taught with simulation-based education achieve higher practical skills scores in medical imaging than students taught with traditional-based education](sbe-higher-practical-skills-medical-imaging.md) — related

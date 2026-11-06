@@ -72,3 +72,4 @@ Variance-explained and fit indices from the same SEM; R2 values are variance exp
 - [Attitude is the strongest predictor of behavioral intention for new users, while perceived usefulness is strongest for light, medium and heavy users](attitude-predicts-intention-new-users-usefulness-existing-users.md) — related
 - [The extended TAM model explains 42.3% of the variance in intention to use mobile library applications](extended-tam-explains-42-percent-variance-mla-intention.md) — related
 - [Attitude shows the strongest positive correlation with college students' intention to use GenAI (r = 0.576)](attitude-strongest-correlate-genai-intention.md) — a narrower finding that bears on this claim
+- [Perceived ease of use was the strongest predictor of both perceived usefulness (β = 1.02) and behavioral intention to use 3D Organon (β = 1.01)](ease-of-use-strongest-predictor-usefulness-intention.md) — related

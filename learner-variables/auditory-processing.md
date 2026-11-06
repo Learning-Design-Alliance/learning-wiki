@@ -13,7 +13,7 @@ generated:
 # Auditory Processing
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 69 claims (44 show a difference, 16 mixed, 9 no difference) · 38 studies (23 causal, 8 associational, 3 review, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 14 of 38 report an effect size · 67 claims rest on one study
+> **Evidence** · 73 claims (45 show a difference, 18 mixed, 10 no difference) · 39 studies (23 causal, 9 associational, 3 review, 2 quant-synthesis, 2 theoretical), `q1`–`q3` · 15 of 39 report an effect size · 71 claims rest on one study
 
 ## Description
 Auditory processing is what the brain does with sound once it has been heard: locating sounds, telling them apart and interpreting them as meaningful, so that a listener can attend to, understand and remember speech and control their own speaking. It underpins spoken language and listening comprehension and lays the foundation for reading and writing, including [phonological awareness](phonological-awareness.md), at every age the LVN covers from pre-kindergarten to adulthood. It is still developing through adolescence, when academic demands on listening rise. Difficulties show up most where speech must be followed against background noise, as in a busy classroom, and learners with dyslexia may process speech sounds differently. It is measured with standardised batteries of auditory attention, auditory memory and phonological skills, and with tests of auditory processing speed. It is distinct from hearing itself, which [access](access.md) covers, though hearing loss affects it; in older adults, age-related decline in hearing speech in noise is part of the picture.
@@ -105,6 +105,10 @@ Auditory processing is what the brain does with sound once it has been heard: lo
 - [The no-captions control group also improved significantly in listening comprehension over the treatment period](../claims/control-group-listening-gains-without-captions.md) [+M] — instruction changes it
 - [Auditory training uses electronically modified music and language to stimulate auditory pathways and enhance auditory processing ability.](../claims/auditory-training-definition-asha.md) [+W] — instruction changes it
 - [Egyptian EFL students' listening comprehension scores rose from pre-test to post-test in a one-group pre-posttest study of the flipped classroom model](../claims/flipped-classroom-improves-efl-listening-comprehension.md) [+M] — instruction changes it
+- [Reading scores correlate significantly with speech-in-noise scores and overall Sound Scouts scores across the whole cohort](../claims/reading-speech-in-noise-correlation-whole-cohort.md) [+W] — learners who differ on it differ in outcomes
+- [Speech-in-noise ability and its interaction with year level are not significant predictors of NAPLAN numeracy scores](../claims/speech-in-noise-not-predicting-numeracy.md) [-W] — learners who differ on it differ in outcomes
+- [Speech-in-noise ability interacts with year level to predict NAPLAN literacy outcomes, with significant interactions for reading, grammar/punctuation and writing and a marginal effect for spelling](../claims/speech-in-noise-year-level-interaction-literacy.md) [~M] — an instructional effect differs with it
+- [Speech-in-noise scores correlate significantly with NAPLAN literacy measures in Grade 3 children but not in Grade 5](../claims/grade3-only-speech-in-noise-literacy-correlation.md) [~W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Test of Auditory Processing Skills** (Martin, Brownell & Hamaguchi, 2018): auditory attention, auditory memory and phonological skills for ages 4 to 18.

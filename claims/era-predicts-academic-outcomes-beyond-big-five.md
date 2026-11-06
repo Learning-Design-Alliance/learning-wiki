@@ -75,3 +75,5 @@ The same regression analyses showed both measures were independent predictors: "
 - [An emotion-control strategy is expected to lower state anxiety early in training, with a stronger negative relationship for trainees high in trait anxiety](emotion-control-lowers-state-anxiety-trait-moderation.md) — related
 - [Stable Dispositions such as conscientiousness predict academic success partly through effort, with some independence from cognitive ability](stable-dispositions-predict-academic-success-through-effort.md) — related
 - [Achievement emotion regulation strategies relate to well-being, health, and academic achievement across three studies](strategies-relate-wellbeing-health-achievement.md) — related
+- [Trait and ability EI in 11th grade predict 12th-grade emotions towards school and academic achievement](ei-predicts-emotions-and-achievement.md) — related
+- [Self-assessment was associated with 10% additional explained variance in post-test SRL beyond pre-test SRL in one single-group pre-test/post-test study with no comparison group](self-assessment-predicts-srl-beyond-pretest.md) — related

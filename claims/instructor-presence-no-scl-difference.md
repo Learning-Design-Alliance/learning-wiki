@@ -73,3 +73,4 @@ Descriptive pattern from Fig. 6 across the two stimulus videos; the authors stat
 - [Only self-reported, not physiological, indices of math-related state anxiety correlate with both math anxiety and math performance](self-report-not-physiological-state-anxiety-predicts.md) — related
 - [Learners show significantly lower skin conductance level across the task than non-learners](learners-lower-scl-across-task.md) — related
 - [No effects of visible instructor on learning outcomes across three field studies](no-visible-instructor-learning-effects.md) — related
+- [Proportions of nurses reporting at least one notable difficulty did not differ significantly between training sequences, though most nurses in both groups reported difficulties](perceived-difficulty-no-group-difference.md) — related

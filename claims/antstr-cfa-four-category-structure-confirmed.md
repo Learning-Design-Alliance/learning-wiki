@@ -69,3 +69,4 @@ First-level CFA fit indices reported after establishing covariance between the 1
 - [The authors present ANTStr as the first psychometrically validated Turkish tool for assessing non-technical skills in real and simulated settings](antstr-first-turkish-nts-tool.md) — related
 - [Generalisability theory yields a G coefficient of 0.96 for ANTStr scores](antstr-generalisability-coefficient-096.md) — related
 - [Confirmatory factor analysis supports a three-factor structure for the Turkish-adapted Simulation Self-Report Cognitive Load Measurement Tool 2.0 with acceptable-to-good fit](turkish-clt-tool-cfa-three-factor-fit.md) — related
+- [The Turkish-adapted Mindfulness in Teaching scale confirms its two-dimensional structure with adequate fit in the study sample](mindfulness-in-teaching-scale-turkish-cfa.md) — related

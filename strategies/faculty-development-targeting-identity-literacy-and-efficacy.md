@@ -52,6 +52,7 @@ The article's practical implication is that faculty development and AI integrati
 - [Integrate emotion-regulation and metacognitive support into AI literacy education, with differentiated learning assistance](ai-literacy-emotion-regulation-metacognitive-support.md)
 - [Build educator AI literacy and pedagogical competence alongside student critical engagement with AI-generated content](educator-ai-literacy-and-critical-engagement.md)
 - [Restructure the university curriculum with graded AI-technology courses and cultivate MTES self-efficacy to advance AI-TPACK](restructure-curriculum-cultivate-self-efficacy.md)
+- [Universities should build structured SDL programs and PsyCap support schemes into faculty development for interdisciplinary teaching](sdl-psycap-faculty-development-strategy.md)
 
 ## Examples
 -

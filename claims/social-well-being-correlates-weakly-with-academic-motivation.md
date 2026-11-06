@@ -47,3 +47,4 @@ Cross-sectional correlational study of 261 students at Dezful University of Medi
 ## Related Claims
 - [Social well-being correlates positively with five academic motivation components and negatively with lack of motivation](swb-components-correlate-motivation-components.md) — related
 - [Demotivation correlates negatively with social well-being, and motivation differs by gender and age while achievement differs by gender, school, level, and field](demotivation-and-demographic-differences.md) — related
+- [Academic performance correlates significantly with academic identity, positive and negative academic excitement, and academic enthusiasm among Iranian medical-sciences students](performance-correlates-identity-emotions-enthusiasm-jiroft.md) — related

@@ -53,3 +53,4 @@ Pre–postintervention study of nine bronchoscopists (27 pre and 27 post broncho
 - [The ORSIM bronchoscopy simulator shows the most comprehensive validation among fibreoptic simulators, with construct validity (experts outperforming novices) and predictive validity](orsim-strongest-construct-predictive-validity.md) — related
 - [Evidence that FB SBT improves bronchoscopy performance in a patient setting (Kirkpatrick level 3) is sparse and conflicting](fb-sbt-patient-setting-evidence-sparse.md) — related
 - [Training on a simple low-fidelity 'choose-the-hole' bench model transferred to real clinical fibreoptic intubation performance in an RCT](choose-the-hole-bench-model-predictive-validity-rct.md) — related
+- [Procedural simulation significantly increased learner confidence in performing central lines, intubations, and bronchoscopies](simulation-raises-procedure-confidence.md) — related

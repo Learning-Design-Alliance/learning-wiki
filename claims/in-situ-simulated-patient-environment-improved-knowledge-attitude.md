@@ -49,3 +49,4 @@ Comparative educational evaluation study with pre–post self-assessment (Babu e
 - [NTS training for emergency department professionals is associated with consistent pre- to post-training improvements in knowledge, teamwork attitudes, and self-confidence (low to moderate certainty).](nts-training-improves-ed-learning-outcomes.md) — related
 - [Poverty simulations improve average poverty attitudes among dental students immediately after participation](poverty-simulations-improve-average-poverty-attitudes.md) — related
 - [Total attitude scores (APuP) significantly improved after training (dz = 1.728)](apup-attitude-scores-improved-after-training.md) — related
+- [Both e-learning and gamification significantly improved nurses' attitude scores from pre- to post-intervention](both-interventions-improved-attitudes-significantly.md) — related

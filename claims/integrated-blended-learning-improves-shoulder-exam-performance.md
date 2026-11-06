@@ -54,3 +54,4 @@ Randomized, observer-blinded controlled trial of 31 analyzable first-year medica
 - [Intervention students rated the blended learning experience less favorably but rated learning-goal clarity, structure, and curricular alignment higher than controls](mixed-course-evaluation-favors-structure-not-format.md) — related
 - [Dropouts reported higher learning needs, lower knowledge scores, and more skeptical attitudes toward blended learning than completers](dropout-profile-higher-needs-lower-blended-expectations.md) — related
 - [Blended learning produces higher posttest medication dosage calculation scores than video-based e-learning alone among paramedic students](bl-beats-vbl-mdc-posttest-paramedic.md) — a narrower finding that bears on this claim
+- [Puzzle-based teaching substantially increases nursing students' knowledge test scores compared with lecture-only instruction](puzzle-teaching-increases-nursing-knowledge.md) — related

@@ -48,3 +48,4 @@ Pre-course survey of 13 residents. Table 2 shows five (38.5%) discussed nutritio
 ## Related Claims
 - [Most surveyed family medicine residents reported receiving inadequate nutrition training and believed additional training would help their clinical care](residents-inadequate-nutrition-training-perception.md) — related
 - [Residents reported no perceived dietary change after the course, yet reported fruit and vegetable intake increased post-course](diet-change-contradiction-fruit-veg-increase.md) — related
+- [About half of surveyed Italian ObGyn residents demonstrate insufficient knowledge of women's nutrition across life stages](italian-obgyn-residents-insufficient-nutrition-knowledge.md) — related

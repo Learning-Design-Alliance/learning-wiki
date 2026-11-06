@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: delbene-lara-2026
     resource: "https://doi.org/10.1111/inr.70193"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In a quasi-experimental pre–post one-group study of 90 registered emergency department nurses, an immersive VR disaster training program significantly improved disaster preparedness and disaster response self-efficacy from pretest to posttest, with follow-up scores declining slightly but remaining significantly higher than baseline. [→ Delbene Lara 2026](#delbene-lara-2026)

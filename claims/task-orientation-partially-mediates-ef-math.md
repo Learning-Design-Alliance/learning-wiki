@@ -59,3 +59,4 @@ Longitudinal mediation analysis in the study of 467 preschoolers found that grow
 - [Motivation's effect on later mathematical performance is indirect, mediated by executive functioning and early numeracy skills](motivation-indirect-effect-mediated-by-ef-and-numeracy.md)
 - [Preschool executive functions robustly predict mathematical skills during preschool and later in development](preschool-ef-predicts-mathematics.md) — related
 - [Improvements in executive function mediate the intervention's effects on learning-related behaviors and problem behaviors](ef-improvement-mediates-classroom-behavior.md) — related
+- [Behavioral self-regulation and working memory, but not short-term memory, partially mediate the relation between early and later math skills](self-regulation-working-memory-partially-mediate-early-later-math.md) — related

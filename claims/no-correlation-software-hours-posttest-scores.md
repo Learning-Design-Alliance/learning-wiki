@@ -47,3 +47,4 @@ Pearson product-moment correlation tests on hours of software use and posttest s
 ## Related Claims
 - [Longer time spent in the Parole software correlates with more words learned and retained](parole-study-duration-correlates-with-vocabulary-outcomes.md) — reports the opposite
 - [Adjusted posttest VST means were ordered by time spent using the word card program, with the two-hour group highest](adjusted-posttest-means-order-word-engine-time.md) — reports the opposite
+- [Longer e-learning preparation time correlates positively with test results up to 4 hours, but the group advantage disappears at 4.5–6 hours](preparation-time-up-to-4h-correlates.md) — related

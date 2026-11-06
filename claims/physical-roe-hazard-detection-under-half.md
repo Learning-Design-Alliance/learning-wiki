@@ -51,3 +51,4 @@ The article reports, citing Zimmermann et al., an evaluation of the physical Roo
 - [Students perceive virtual simulation as creating equitable, low-pressure, psychologically safe environments that enable autonomy and confidence](virtual-simulation-low-pressure-psychological-safety.md) — related
 - [Participants detected 55-63% of the four embedded opioid administration errors, with wrong-patient identification missed by 40% of pairs](opioid-roh-error-detection-rates.md) — a narrower finding that bears on this claim
 - [Knowledge gaps within interprofessional teams produced mostly positive psychological pressure during team learning](ofst-positive-pressure-team-learning.md) — related
+- [Missing isolation precautions for a documented influenza infection were overlooked by nearly all groups in the room of horror exercise](roh-isolation-precautions-overlooked.md) — a narrower finding that bears on this claim

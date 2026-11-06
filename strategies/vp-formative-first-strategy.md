@@ -49,7 +49,8 @@ Based on the mixed validation results, the authors recommend deploying VPs in fo
 - [OSCE scores across three virtual-patient stations show low reliability (Cronbach's alpha 0.415)](../claims/vp-low-reliability-osce.md) [-W]
 
 ## Related Strategies
-- 
+
+- [Adopt a hybrid model combining virtual and in-person OSCE components, assigning telehealth-suitable skills to virtual stations](hybrid-virtual-in-person-osce-strategy.md)
 
 ## Examples
 -

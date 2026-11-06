@@ -68,3 +68,4 @@ Same mixed-effects model: age carried a negative coefficient (β −0.20, 95% CI
 - [A 3-week scenario-based education programme significantly increased health cadres' competency scores compared with no education](education-programme-increased-health-cadre-competency.md) — related
 - [The education programme significantly improved health assessment, communication and attitude skill scores, which the intervention group maintained at endline](scenario-training-improved-cadre-skills-domains.md) — related
 - [The control group showed unexpected improvement from midline to endline, attributed to the John Henry effect, which reduced the apparent sustainability of the programme effect](control-group-john-henry-improvement.md) — related
+- [Endline skill scores for managing a non-breathing baby were 2.89 points higher in the intervention arm, the largest between-arm difference among the skill subtests](eenc-non-breathing-baby-skill-2-89-points-higher.md) — related

@@ -71,3 +71,4 @@ Checklist-item analysis in the same pilot. The article notes that none of the ca
 - [The proportion of successful attempts on key PBLS actions rose significantly from pre-test to post-test after training, in one uncontrolled pre-post study](simulation-pbls-increases-successful-attempts.md) — related
 - [The one-step checklist item for checking chest expansion showed no statistically significant change from pre-test to post-test in one group after training, with no comparison group](chest-expansion-check-not-significant.md) — related
 - [Simulation-based PBLS training increases caregiver confidence and satisfaction with training](simulation-pbls-increases-caregiver-confidence.md) — related
+- [Caregivers reported high satisfaction with the simulation-based training, and all responding users felt confident using the new device afterwards](high-satisfaction-simulation-device-training.md) — related

@@ -56,3 +56,4 @@ Moderation analysis adding sex interactions to the regression model in the 2-yea
 - [The baseline BMI × BMI-change interaction replicates in a split-group validation analysis](split-group-validation-replicates-interaction.md) — related
 - [Sex does not moderate sleep–outcome associations](sex-no-moderation-sleep.md) — related
 - [Gender, BMI, and sleep habits are not significantly associated with academic motivation in rehabilitation students](gender-bmi-sleep-not-associated-sdi.md) — related
+- [Lower BMI, higher healthy diet score, and better sleep quality are associated with high language performance in girls but not boys](bmi-diet-sleep-quality-girls-language-performance.md) — related

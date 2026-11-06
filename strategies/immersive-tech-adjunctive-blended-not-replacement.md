@@ -78,6 +78,7 @@ The review recommends a measured adoption strategy: immersive technologies and v
 - [Integrate immersive VR simulation as a complementary tool in continuing emergency training programs for low-frequency, high-complexity scenarios](vr-complementary-continuing-emergency-training-strategy.md)
 - [Use AI-driven virtual patient simulators as a cost-effective supplement to build communication skills training capacity](ai-vps-cost-effective-capacity-strategy.md)
 - [Use multiple teaching methodologies — case- or team-based learning, flipped classrooms, simulation, augmented reality, and interactive virtual patients — to build TDI competence](multiple-teaching-methods-tdi-confidence.md)
+- [Integrate simulation as a complementary learning tool across oncology curricula, continuing education, and recertification programs](integrate-simulation-complementary-tool-oncology-curricula.md)
 
 ## Examples
 -

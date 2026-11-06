@@ -13,7 +13,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 147 claims (84 show a difference, 41 mixed, 22 no difference) · 118 studies (45 causal, 27 associational, 23 review, 12 quant-synthesis, 8 theoretical, 3 qualitative), `q1`–`q4` · 23 of 118 report an effect size · 138 claims rest on one study
+> **Evidence** · 150 claims (86 show a difference, 42 mixed, 22 no difference) · 120 studies (46 causal, 28 associational, 23 review, 12 quant-synthesis, 8 theoretical, 3 qualitative), `q1`–`q4` · 23 of 120 report an effect size · 141 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -190,6 +190,9 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Extraneous cognitive load does not correlate significantly with usability, and germane load does not correlate significantly with post-training knowledge](../claims/cognitive-load-usability-null-correlations.md) [-M] — learners who differ on it differ in outcomes
 - [Immersive VR chest tube training shows a theoretically favourable cognitive load profile: low extraneous load, high germane load](../claims/immersive-vr-cognitive-load-profile-favourable.md) [+M] — measured as an outcome of the instruction studied
 - [The authors attribute the absent additive effect to possible cognitive overload of novice learners exposed to multiple complex modalities simultaneously](../claims/cognitive-overload-explanation-dual-modality.md) [~W] — measured as an outcome of the instruction studied
+- [Behavioral self-regulation and working memory, but not short-term memory, partially mediate the relation between early and later math skills](../claims/self-regulation-working-memory-partially-mediate-early-later-math.md) [+M] — learners who differ on it differ in outcomes
+- [Kindergarten working memory, but not 5th-grade working memory, significantly mediates the early-later math relation in sensitivity analyses](../claims/working-memory-mediation-kindergarten-timepoint-sensitivity.md) [~M] — learners who differ on it differ in outcomes
+- [The escape room-based physical activity intervention significantly improves working memory in adolescents](../claims/escape-room-pa-improves-working-memory.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

@@ -50,6 +50,7 @@ The article recommends that "Educators should consider incorporating puzzle-base
 
 - [Integrate e-learning as a supplement to rather than replacement of traditional teaching (blended learning)](blend-elearning-as-supplement-to-traditional-teaching.md)
 - [Staged, vertically integrated EBM curriculum mapped to the five EBM steps, with low-cost case-triggered activities for resource-constrained settings](staged-vertically-integrated-ebm-curriculum-strategy.md)
+- [Integrate puzzle-based techniques regularly into applied nursing curricula and train instructors in their use](regular-puzzle-integration-nursing-curricula-strategy.md)
 
 ## Examples
 -

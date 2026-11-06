@@ -49,3 +49,4 @@ Metaregression moderator analysis of simulation duration, with printed effects "
 - [Real-time data collection made the momentum lab substantially more efficient, cutting lab duration from two hours to one](real-time-data-collection-increases-lab-efficiency.md) — related
 - [The duration of EBP interventions, varying from some hours to even months, was not related to students' EBP competence](intervention-duration-not-related-to-ebp-competence.md) — reports the opposite
 - [ITS effect sizes decrease as intervention duration increases](its-effects-decrease-longer-duration.md) — related
+- [Longer e-learning preparation time correlates positively with test results up to 4 hours, but the group advantage disappears at 4.5–6 hours](preparation-time-up-to-4h-correlates.md) — related

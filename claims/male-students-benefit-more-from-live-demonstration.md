@@ -89,3 +89,4 @@ The gender analyses were exploratory with limited subgroup sizes; Table 3 footno
 - [Achievement differences favor females over males under both teaching conditions, with a small effect](tps-gender-difference-favor-females.md) — reports the opposite
 - [Female and male students' histology post-test scores did not differ significantly](no-gender-difference-histology-posttest.md) — related
 - [Student perceptions of the two demonstration methods do not differ significantly, though the video group tended to prefer its assigned method](no-perception-differences-ld-vd-survey.md) — related
+- [Female students achieved higher MSE accuracy than male students across intervention groups](sex-difference-mse-accuracy-females-higher.md) — related

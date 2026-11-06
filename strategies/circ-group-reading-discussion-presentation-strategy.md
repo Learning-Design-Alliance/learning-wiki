@@ -55,6 +55,7 @@ The article prescribes a concrete CIRC lesson sequence: the teacher forms hetero
 
 - [Jigsaw Classroom](jigsaw-classroom.md)
 - [Organise probability instruction in small supportive groups of two to four students working toward shared goals](small-groups-two-to-four-shared-goals.md)
+- [Heterogeneous jigsaw grouping based on GPA level, gender and place of origin](heterogeneous-gpa-gender-origin-jigsaw-grouping.md)
 
 ## Examples
 -

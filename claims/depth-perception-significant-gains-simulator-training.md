@@ -71,3 +71,4 @@ The same exploratory subdomain analysis reports non-significant positive trends 
 - [Novice surgeons trained on a sensorized vascular simulator achieve significantly higher overall GEARS scores in an in vivo porcine robotic vascular dissection task than untrained controls](simulator-training-higher-gears-porcine-vascular-dissection.md) — a broader claim this one bears on
 - [The K technique exercise stimulates five of six GEARS skill domains](k-technique-stimulates-five-gears-domains.md) — related
 - [GEARS domain and surgical-step scores were similar across experience groups for both procedures, with all p > 0.05](gears-domain-step-scores-similar-groups.md) — reports the opposite
+- [The GOALS domain depth perception improved significantly more after simulation training, while the other four domains did not differ significantly](depth-perception-domain-significant-gain.md) — related

@@ -40,6 +40,7 @@ The report describes how program participants are placed into cooperative learni
 
 - [Cooperative Learning](cooperative-learning.md)
 - [Complex Instruction](complex_instruction.md)
+- [Heterogeneous jigsaw grouping based on GPA level, gender and place of origin](heterogeneous-gpa-gender-origin-jigsaw-grouping.md)
 
 ## Examples
 -

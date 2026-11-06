@@ -52,3 +52,4 @@ Reliability analysis using ICC(2,k) with a two-way random-effects model across f
 - [Two independent observers show high agreement when scoring the ATSHWS (total-score ICC 0.951)](atshws-inter-observer-reliability-icc-0-951.md) — related
 - [Blinded independent radiographic assessment of implant alignment showed good or excellent interrater agreement, with ICC ranging from 0.77 to 0.96](blinded-radiographic-assessment-icc-good-excellent.md) — related
 - [The researcher-made Mini-CEX and Logbook checklists showed high inter-rater consistency (average measure ICC = 0.990)](mini-cex-logbook-checklist-icc-0-990.md) — related
+- [Blinded GOALS assessment of videotaped cholecystectomies has moderate reliability (ICC(A,3) = 0.84 for consensus ratings)](goals-video-assessment-moderate-reliability.md) — related

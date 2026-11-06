@@ -58,3 +58,5 @@ Inductive coding of free-text postsimulation responses from the 62-participant c
 - [Senior residents report engagement with simulation declines unless activities are highly realistic and tailored to advanced learning needs](senior-resident-engagement-declines-without-realism-yield.md) — related
 - [Most PGY-3 residents (83% of 2023–2024 participants) endorsed practice changes, and free-text feedback highlighted debriefing, patient mirroring, and the in situ location as most valuable](mirror-sim-practice-change-qualitative.md) — related
 - [Realistic simulation gave students insight into future professional responsibilities, communication and teamworking, and asking for help](simulation-realism-professional-responsibility-insight.md) — related
+- [Students highlighted raised risk awareness and professional relevance as the main positive outcomes of the room of horror](roh-raised-risk-awareness-highlighted.md) — related
+- [Learners rated the multidisciplinary simulation favorably on faculty competence, case relevance, and realism](simulation-learner-feedback-favorable.md) — related

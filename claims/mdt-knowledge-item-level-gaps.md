@@ -54,3 +54,4 @@ Item-level analysis of the 20-statement questionnaire (Table 2) among 165 nurses
 - [Knowledge gains were largest in domains with low baseline knowledge: humidifier change frequency, suction systems, patient positioning and subglottic secretion drainage](item-level-vap-knowledge-gains-largest-low-baseline-domains.md) — related
 - [Student performance varies by topic, with weakest knowledge on anticoagulants and weakest prescribing skills for pulmonary drugs](prescribing-scores-vary-by-drug-topic.md) — related
 - [Specific knowledge items showed very low correct-response rates, including effects of high-dose therapy on child development (17.2%) and pre-radiotherapy oral care benefits (15.8%)](lowest-scoring-knowledge-items-cancer-therapy.md) — related
+- [Residents' correct answers vary widely across nutrition topics, lowest for macronutrient distribution and highest for fish portions](topic-level-nutrition-knowledge-gaps-residents.md) — related

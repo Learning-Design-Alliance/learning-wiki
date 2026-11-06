@@ -50,3 +50,4 @@ Online experiment with 81 physicians in an incomplete block design; LMM analysis
 - [Need for cognitive closure correlates with final ratings and rating changes differently for minority and majority students](nfc-correlations-assessor-characteristics.md) — related
 - [Assessors' confidence in their first impression ratings does not differ by student ethnicity](no-ethnic-difference-confidence-first-impressions.md) — related
 - [Rating changes are larger for descending than ascending performances, regardless of student ethnicity](rating-changes-larger-descending-performances.md) — related
+- [Assessor-related challenges include lack of expert assessors, differing assessment methods and ability levels, and a tendency toward balanced scoring](assessor-variation-and-balanced-scoring-challenges.md) — related

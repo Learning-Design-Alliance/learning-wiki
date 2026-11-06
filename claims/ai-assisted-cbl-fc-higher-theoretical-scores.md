@@ -57,3 +57,4 @@ Randomized controlled trial of 50 residents (n=25 per group) at a single centre.
 - [Residents trained with DwGJ-integrated CBL scored higher on the post-course theoretical examination than residents receiving conventional CBL](dwgj-cbl-higher-theoretical-exam-scores.md) — related
 - [The BOPPPS group improved 26.47 points more than controls on a standardized composite of knowledge and skill scores](boppps-total-score-improvement.md) — related
 - [The DwGJ group outperformed the control group on OSCE-based practical skill assessment after the course](dwgj-cbl-higher-osce-skill-scores.md) — related
+- [Symptom-focused CBL and conventional CBL produce no significant difference in dental residents’ theoretical knowledge of TMD](limited-mouth-opening-cbl-no-theoretical-knowledge-difference.md) — related

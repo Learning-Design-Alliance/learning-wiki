@@ -53,3 +53,4 @@ Quasi-experimental longitudinal study of 66 participants (30 students, 36 profes
 - [Simulated education and training improved nursing students' disaster evacuation knowledge, skills, and preparedness across all subcategories](simulated-education-improved-evacuation-competencies.md) — related
 - [Post-course knowledge quiz scores rose from pre-course to post-course in nuclear medicine residents after a flipped classroom combined with case-based learning, in one uncontrolled pre-post study](flipped-classroom-cbl-improves-nuclear-medicine-resident-quiz-scores.md) — related
 - [Knowledge test performance rose significantly from pre- to post-VR training (46.7% to 86.7%) in one uncontrolled pre-post study](vr-chest-tube-knowledge-gains-significant.md) — related
+- [Simulation training added roughly a 12-percentage-point knowledge gain in the intervention group, from 66.7% to 79.2% mean MCQ correct](simulation-added-twelve-point-mcq-gain.md) — related

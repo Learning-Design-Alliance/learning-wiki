@@ -50,3 +50,4 @@ The review reports a randomized controlled trial comparing VR-trained and non-VR
 - [VR simulator training produced the largest gains on the VR-simulator post-test, outperforming box trainer, serious game, and control groups on the complex Clip Applying task](vr-training-largest-gains-complex-laparoscopic-tasks.md) — related
 - [Simulation-based training translates laparoscopic surgical skills to the operating room](simulation-training-translates-laparoscopic-skills-to-or.md) — a broader claim this one bears on
 - [The VR group required longer total training time and fewer calendar days than the box group](vr-group-longer-training-time-fewer-days.md) — related
+- [Naïve surgical residents show a wide baseline range of laparoscopic skill, and a single repeated cholecystectomy alone yields minimal improvement](wide-baseline-skill-range-minimal-control-gain.md) — related

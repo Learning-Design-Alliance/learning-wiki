@@ -52,3 +52,4 @@ Table 2 reports post-test means by gender and method: males 70.30 (demonstration
 - [Students taught agricultural science with the demonstration method achieved significantly higher post-test scores than students taught with the conventional lecture method](demonstration-method-higher-achievement-than-lecture.md) — related
 - [No significant difference in achievement between male and female students taught basic science with concept mapping](no-gender-difference-concept-mapping-achievement.md) — reports the opposite
 - [The demonstration method produced a larger mean gain in achievement scores than the conventional lecture method](demonstration-method-larger-mean-gain.md) — related
+- [Female students achieved higher MSE accuracy than male students across intervention groups](sex-difference-mse-accuracy-females-higher.md) — related

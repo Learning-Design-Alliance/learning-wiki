@@ -63,3 +63,4 @@ Correlations only, and the authors expect the relationship to run both ways: ach
 - [Positive academic emotions correlate positively with interest, effort, flexible learning strategies, and perceived self-regulation, while boredom and hopelessness correlate negatively with all of these motivational variables](emotions-correlate-motivation-strategies-resources.md) — related
 - [Test boredom correlates negatively with math grades but not with the math test score in Study 1](test-boredom-negative-grades-not-test-score.md) — related
 - [All measured variables (emotions, self-concept, social support, achievement) are significantly intercorrelated in the expected directions](fl-emotions-achievement-correlations.md) — related
+- [Teacher caring behavior correlates positively with enjoyment and English performance, and negatively with anxiety and boredom](tcb-emotion-performance-correlations.md) — related

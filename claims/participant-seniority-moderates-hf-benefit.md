@@ -70,3 +70,4 @@ Subgroup analysis of skill performance by participant seniority (Supplement 5). 
 - [A systematic review found advanced life support course participation was associated with improved return of spontaneous circulation and a favourable signal for survival.](als-courses-associated-improved-rosa-survival-signal.md) — related
 - [HFS/curriculum-integrated sessions produce significantly higher total knowledge scores than traditional curriculum in third-year nursing students](hfs-curriculum-integration-higher-total-knowledge.md) — related
 - [Residents with three or more years of training outperformed first-two-year residents in the Opioid Side Effects domain, but not overall](senior-residents-better-opioid-side-effects-domain.md) — related
+- [Simulation-based training benefits are greater for residents under 26 years old](simulation-benefit-younger-residents-under-26.md) — related

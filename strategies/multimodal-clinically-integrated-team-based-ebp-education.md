@@ -51,6 +51,7 @@ Drawing on studies cited in its discussion, the review highlights that EBP educa
 - [Structured mentorship system in which trained nurse mentors deliver EBP education, bedside teaching and ongoing monitoring](nurse-mentor-ebp-monitoring-strategy.md)
 - [Deliver targeted educational interventions combining e-learning, mentorship and simulation-based training, prioritising nurses with knowledge deficits](targeted-en-educational-interventions.md)
 - [Pair EBP lectures and practice with facilitator mentorship and consultation](facilitator-mentorship-in-ebp-training.md)
+- [On-site personalized mentoring based on healthcare workers' own consultation data, eLearning programs, and continuous monitoring of CDSA data trends to track skill development](data-driven-mentoring-elearning-strategy.md)
 
 ## Examples
 -

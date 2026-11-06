@@ -50,3 +50,5 @@ Preference question in the end-of-course gamer survey (n=30), with first, second
 - [Seventy percent of surveyed students believed they learned better from the gaming format than from didactic lectures, and most favored reward points for game activities](students-prefer-games-over-lectures-points.md) — reports the opposite
 - [A blended/hybrid flipped calculus course with an FC Orientation module improved student learning performance and perceptions significantly over the traditional lecture format](spencer-2022-hybrid-fc-improved-performance.md) — related
 - [Most medical students demand clinically integrated case teaching and prefer blended learning over traditional classroom instruction](student-demand-case-integrated-blended-statistics-teaching.md) — a broader claim this one bears on
+- [Stakeholders preferred integrated case-study teaching of medical conditions over compartmentalised module-by-module content](integrated-case-study-module-design-cep.md) — related
+- [Most teaching staff easily adapted to TBL and preferred blended learning after the pandemic, but few favored TBL for all activities](staff-adapted-tbl-prefer-blended.md) — related

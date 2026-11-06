@@ -60,3 +60,4 @@ Multiple linear regression with GPA as dependent variable and IPAQ ordinal score
 - [In an adjusted regression model, GPA predicts higher physical activity while female gender and comorbidity predict lower activity](regression-gpa-gender-health-predict-physical-activity.md) — related
 - [Male students demonstrated higher GPA than female students in this sample, and sex was a significant regression predictor](sex-difference-gpa-male-higher-dilla-sample.md) — related
 - [The PA-only intervention was associated with significantly lower end-of-year academic scores compared to placebo](kazifya-pa-only-lower-end-of-year-scores.md) — reports the opposite
+- [Lower BMI, higher healthy diet score, and better sleep quality are associated with high language performance in girls but not boys](bmi-diet-sleep-quality-girls-language-performance.md) — related

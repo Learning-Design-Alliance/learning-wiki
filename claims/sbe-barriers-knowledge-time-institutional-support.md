@@ -57,3 +57,4 @@ Survey of 114 dietitians; Table 3 lists barriers including "Lack of knowledge/tr
 - [Lack of training and instructor motivation were the most commonly reported barriers to using e-learning resources](training-motivation-barriers-e-resources.md) — related
 - [Programs cite lack of funding, limited simulation lab or equipment access, and lack of faculty expertise or availability as barriers to simulation implementation](simulation-barriers-funding-faculty-expertise.md) — related
 - [The most frequently mentioned barrier to implementing RaT curricula is balancing workload on faculty and residents](rat-implementation-barriers-workload.md) — related
+- [Nurse educators report high workload and insufficient time as barriers to PBL implementation](nurse-educator-workload-time-barrier-pbl.md) — related

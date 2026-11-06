@@ -51,6 +51,7 @@ The authors recommend resource-efficient interventions tailored to conflict sett
 - [Deliver smartphone-based, scenario-based PFA review modules and peer case-sharing via WeChat to sustain skills after initial training](wechat-microlearning-pfa-booster-strategy.md)
 - [Use regular refresher training to counter significant decline in BLS knowledge and skills at 3 months](regular-refresher-training-for-bls-decline.md)
 - [Integrate frequent in situ self-regulated simulation training with in-facility champions into routine health systems as continuous quality improvement](in-situ-self-regulated-simulation-cqi-strategy.md)
+- [Decentralise BLS training at scale with periodic retraining and certification tracking in performance management](decentralised-bls-training-retraining-strategy.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Metacognition
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 182 claims (116 show a difference, 40 mixed, 26 no difference) · 132 studies (61 causal, 21 associational, 16 review, 11 qualitative, 11 theoretical, 7 quant-synthesis, 5 design), `q1`–`q4` · 30 of 132 report an effect size · 181 claims rest on one study
+> **Evidence** · 184 claims (117 show a difference, 40 mixed, 27 no difference) · 134 studies (63 causal, 21 associational, 16 review, 11 qualitative, 11 theoretical, 7 quant-synthesis, 5 design), `q1`–`q4` · 30 of 134 report an effect size · 183 claims rest on one study
 
 ## Description
 Metacognition is knowing about and managing one's own cognition. It has two sides: knowledge (what a learner knows about how they learn, what they do and do not understand, and which strategies suit a task) and regulation (planning an approach, monitoring progress and comprehension, and adjusting when it is not working). It is usually measured by self-report inventories of strategy awareness, by parent and teacher rating scales, and by comparing a learner's confidence judgements with their actual performance (calibration).
@@ -224,6 +224,8 @@ It overlaps heavily with [self-regulation](self-regulation.md), of which monitor
 - [A 16-week personalized teaching intervention was associated with significantly higher posttest metacognitive strategy use across planning, monitoring, and evaluation among vocational college students.](../claims/personalized-teaching-higher-metacognitive-strategy-use.md) [+M] — measured as an outcome of the instruction studied
 - [Self-monitoring accuracy for a complex clinical skill improved over a six-month retention interval](../claims/self-monitoring-accuracy-improves-over-six-months.md) [+W] — measured as an outcome of the instruction studied
 - [Embedded reflective writing in e-learning fostered metacognitive engagement and transformative learning beyond formal objectives](../claims/reflective-writing-elearning-metacognitive-transformative.md) [+M] — measured as an outcome of the instruction studied
+- [Eye-tracking augmented debriefing produced no statistically significant difference in resident metacognitive awareness change compared with traditional PEARLS debriefing](../claims/etad-no-significant-mai-change.md) [-M] — measured as an outcome of the instruction studied
+- [Students report structured self-assessment stimulates self-judgement, learning monitoring, motivation, tutorial performance, and awareness of external feedback in PBL](../claims/self-assessment-qualitative-five-themes-pbl.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Behavior Rating Inventory of Executive Function (BRIEF)** (Gioia et al., 2000): parent and teacher questionnaires whose metacognition index covers ages 5 to 18.

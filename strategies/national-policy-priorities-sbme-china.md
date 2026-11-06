@@ -45,7 +45,8 @@ A policy-level strategy the article recommends for standardizing and expanding p
 - [Most administrators (81.8%) believe simulation-based medical education is essential for perioperative training and should be integrated into routine clinical teaching](../claims/administrators-endorse-perioperative-sbme-integration.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Integrate simulation-based health education into prevention and health promotion strategies for disadvantaged populations such as refugees and migrants](integrate-simulation-health-education-disadvantaged-populations.md)
 
 ## Examples
 -

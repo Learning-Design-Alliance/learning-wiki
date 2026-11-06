@@ -49,3 +49,5 @@ Orthogonal contrast within the choice condition (N=73) between students who rece
 - [The voting process itself, rather than topic-congruence with individual interests, appears responsible for the motivation benefit](voting-process-itself-fosters-motivation.md) — a narrower finding that bears on this claim
 - [IMI motivation ratings after four weeks of Mangomon play were moderate (all sub-scale means below 4.00), highest for effort/importance and lowest for perceived choice](moderate-motivation-imi-mangomon.md) — related
 - [Perceived choice and enjoying catching Mangomon were the lowest-rated motivation items, which the authors read as its RPG mechanics not yet fully serving learner autonomy](rpg-mechanics-not-yet-serve-autonomy.md) — related
+- [Webinar participants perceive greater freedom of choice than learning-platform participants](webinar-greater-perceived-choice.md) — related
+- [Live webinars foster greater intrinsic motivation than recorded lectures, an effect fully mediated by perceived choice](webinar-intrinsic-motivation-mediated-by-perceived-choice.md) — related

@@ -50,3 +50,4 @@ Independent t-test comparison of the two groups' 10-item vaginal delivery knowle
 - [HFS/curriculum integration significantly improves OSCE performance in immediate newborn care (95% vs. 56%)](hfs-integration-newborn-care-osce.md) — related
 - [HFS/curriculum integration significantly improves OSCE performance in vaginal delivery management (81% vs. 50%)](hfs-integration-vaginal-delivery-osce.md) — related
 - [Students report high satisfaction (91% ± 7.6) with the HFS/curriculum-integrated session across instructor, effectiveness, and active-learning domains](hfs-integration-high-satisfaction.md) — related
+- [Simulation-trained providers scored significantly higher than theory-only providers on all three OSCEs at immediate, 3-month and 6-month assessments (p < 0.05)](osce-skills-significantly-better-in-simulation-group.md) — related

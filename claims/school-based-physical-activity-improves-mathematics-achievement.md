@@ -64,3 +64,4 @@ Systematic review and meta-analysis pooling 13 RCTs on mathematics outcomes usin
 - [School-based physical activity interventions show a small positive pooled effect on children's mathematics performance (d = 0.23) across 11 randomised trials](school-pa-small-positive-effect-math-meta-analysis.md) — related
 - [Mathematics shows the strongest association with muscular fitness among school subjects](mathematics-strongest-muscular-fitness-association.md) — related
 - [Cardiovascular fitness is positively associated with math and language grades in Swedish adolescents, though the association is weak](fitness-associated-math-language-grades.md) — related
+- [The escape room-based physical activity intervention significantly improves Italian language grades in adolescents](escape-room-pa-improves-italian-grades.md) — a narrower finding that bears on this claim

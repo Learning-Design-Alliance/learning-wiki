@@ -70,3 +70,4 @@ The review reports Levine et al.'s use of the Classroom Engagement Survey and th
 ## Related Claims
 - [Non-technical skill outcomes of TBL are mixed, with positive findings for communication, decision-making, self-study and emotional intelligence](tbl-non-technical-skills-mixed.md) — related
 - [In Chinese neurology education, TBL alone or combined with other methods is associated with improved self-study ability, communication skills, and teamwork ability versus LBL](tbl-improves-self-study-communication-teamwork.md) — related
+- [Students' self-rated attitudes toward team-based learning rose significantly from pre-test to post-test after a TBL course, except satisfaction with group member evaluation, in one uncontrolled pre-post study](tbl-improves-teamwork-attitudes-except-peer-assessment.md) — related

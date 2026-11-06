@@ -87,3 +87,4 @@ The article's summary sentence for the clinical practice quality audit states th
 - [In practicing nurse anesthetists, core anesthesia nursing skill scores rose from after traditional teaching to after DBSS training in a one-group before–after study](dbss-improves-na-core-skill-scores.md) — related
 - [Across the reviewed studies, simulation-based interventions consistently improved paediatric undergraduate learning outcomes, including clinical reasoning, procedural skills and confidence](sbe-consistently-improved-paediatric-ume-outcomes.md) — a broader claim this one bears on
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
+- [ICU nurses who practised a new invasive arterial blood pressure sensor on a simulation scenario before receiving explanations made significantly more errors than nurses briefed first](simulation-before-briefing-more-device-errors.md) — related

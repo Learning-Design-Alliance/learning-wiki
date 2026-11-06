@@ -54,3 +54,4 @@ Expert evaluation by ten laparoscopic surgeons using a 15-item questionnaire wit
 - [3D-printed silicone LRYGB models show face, content and technical realism broadly comparable to porcine organ models, with strengths and weaknesses on specific steps](3d-model-face-content-validity-lrygb.md) — related
 - [Expert panel rates the FROST simulator realistic and recommends it for training, except for the skin undermining step](expert-panel-face-content-validity-frost-simulator.md) — related
 - [First-year residents strongly agreed the silicone appendectomy model is adequate, replicates anatomy, and shows face and content validity](silicone-appendectomy-model-face-content-validity.md) — related
+- [Domain correlations suggest coherent construct validity, with realism–skill-replication r = 0.85 and effectiveness–engagement r = 0.79](vr-simulator-domain-correlations-construct-validity.md) — related

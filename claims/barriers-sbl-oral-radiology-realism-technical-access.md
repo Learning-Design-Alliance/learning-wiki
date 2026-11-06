@@ -56,3 +56,4 @@ Theme 3 (Barriers) from thematic analysis of open-ended responses across both in
 - [Outdated or malfunctioning mannequins and limited hospital exposure restrict the skills male nursing students can practice in simulation](hfs-limited-by-outdated-mannequins-and-hospital-exposure.md) — a narrower finding that bears on this claim
 - [Male nursing students recommend more functional mannequins, extended lab hours, real-time feedback technology, and additional supervision](student-suggestions-simulation-resources-and-lab-time.md) — related
 - [Dental students trained with HVRS reported higher agreement than mannequin-trained peers on items of visual realism, tissue differentiation, tactile feedback and fine motor skill improvement](hvrs-higher-perceived-realism-motor-skills.md) — related
+- [Peer-to-peer simulated tasks are identified as lacking effectiveness for developing CEP practical competencies](peer-simulation-lacking-effectiveness-cep.md) — related

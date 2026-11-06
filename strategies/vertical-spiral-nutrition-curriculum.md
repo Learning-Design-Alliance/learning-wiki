@@ -56,6 +56,7 @@ The review recommends curricular innovations that embed nutrition across all yea
 - [Teach the missing nutrition-counselling topics in communication courses or culinary medicine programs, and deepen breastfeeding counselling in mandatory paediatric specialist training](targeted-courses-for-nklm-nutrition-gaps.md)
 - [Anchor oral-health content longitudinally across the medical curriculum with a learning spiral and interdisciplinary formats](learning-spiral-oral-health-curriculum-integration.md)
 - [Implement comprehensive nutrition education from the undergraduate level, coupled with continuing professional development and interprofessional collaboration](undergraduate-nutrition-education-oncology-nurses.md)
+- [Increase dedicated women's nutrition training hours and interventions in ObGyn specialty programs](dedicated-nutrition-training-obgyn-residency.md)
 
 ## Examples
 -

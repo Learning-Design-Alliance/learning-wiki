@@ -57,6 +57,7 @@ The article concludes that virtual reality training could provide a useful train
 - [Sequence laparoscopic training from box trainers and simulators with preset proficiency benchmarks before cadaver training](simulator-benchmarks-before-cadaver-training.md)
 - [Integrate the MaiSurge model into gynecology residency curricula for continuous TLH training and skill assessment outside the operating room](maisurge-curriculum-integration-strategy.md)
 - [Prioritize competency-based training models integrating VR-based surgical practice and AI-assisted procedural assessments in dental education](competency-based-vr-ai-training-stomatology.md)
+- [Integrate ex vivo laparoscopic basic-skills simulation training at the beginning of surgical residency](ex-vivo-simulation-before-first-laparoscopic-procedure.md)
 
 ## Examples
 -
