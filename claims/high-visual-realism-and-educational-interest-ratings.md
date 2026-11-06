@@ -50,3 +50,4 @@ Descriptive analysis of the 11-item satisfaction questionnaire completed by all 
 - [Tactile feedback is the simulator's primary area for improvement, with gingival detachment realism rated lowest (mean 3.17)](tactile-feedback-primary-limitation-lowest-rated.md) — related
 - [Conventional training received significantly higher ratings for perceived realism and immersion than VR-based training (r=0.774)](conventional-training-higher-realism-immersion.md) — reports the opposite
 - [Students rated the VSP system positively for usability and learning assistance, with comparatively low ratings for patient realism and authenticity](positive-ueq-ratings-vsp-system.md) — related
+- [Participants rate the pudendal block simulation intervention as useful and report satisfaction with the model, citing faculty feedback, hands-on practice, and realism](pudendal-block-simulation-high-satisfaction-ratings.md) — related

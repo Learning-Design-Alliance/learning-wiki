@@ -48,3 +48,4 @@ Timing analysis of four VR trials per participant (n = 22), compared with the Wi
 - [Medical students rate immersive VR simulation for chest tube insertion training as highly usable (median SUS 82.5 of 100)](immersive-vr-chest-tube-high-usability-sus.md) — related
 - [Immersive VR chest tube training shows a theoretically favourable cognitive load profile: low extraneous load, high germane load](immersive-vr-cognitive-load-profile-favourable.md) — related
 - [Knowledge test performance rose significantly from pre- to post-VR training (46.7% to 86.7%) in one uncontrolled pre-post study](vr-chest-tube-knowledge-gains-significant.md) — related
+- [The VR training dose was under 60 cumulative minutes across two sessions, with no reported cybersickness](vr-training-dose-under-60-minutes.md) — related

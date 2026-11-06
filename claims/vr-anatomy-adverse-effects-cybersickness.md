@@ -59,3 +59,5 @@ Adverse-effect reporting within the meta-analysis's review of the five satisfact
 - [External and internal barriers, including cybersickness, logistics, workload and lack of time, limited residents' use of VR simulation](barriers-limit-residents-vr-use.md) — related
 - [Remote AR headset use imposes minimal reported ergonomic burden and no adverse events in neonatal resuscitation simulation](remote-ar-simulation-ergonomics-adverse-events.md) — related
 - [Most participants found first VR engagement exciting and easy to use, though a minority reported discomfort and initial difficulty](vtracs-excitement-with-minority-adverse-experiences.md) — related
+- [AR-based anatomy learning is associated with fewer adverse health symptoms overall than traditional learning, except for blurred vision](ar-fewer-adverse-symptoms-except-blurred-vision.md) — related
+- [Most students find navigation within the VR anatomy environment easy or very easy](vr-anatomy-navigation-rated-easy.md) — reports the opposite

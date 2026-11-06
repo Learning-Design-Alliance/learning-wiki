@@ -61,3 +61,5 @@ Post-rotation questionnaire study of 64 maternity nursing students using Jeffrie
 - [First-year nursing students reported moderate-to-high readiness for clinical practice, highest for recognition of the practice area](readiness-moderate-high-recognition-area-highest.md) — related
 - [Students reported positive perceptions of the e-LbC session, with 90% agreeing it improves future clinical reasoning and 62% satisfied overall](elbc-positive-student-perceptions.md) — related
 - [Nursing students report positive learning attitudes following HoloPatient-based simulation education (exploratory, one-group post-test)](holopatient-simulation-positive-learning-attitude.md) — a narrower finding that bears on this claim
+- [Participants rate the pudendal block simulation intervention as useful and report satisfaction with the model, citing faculty feedback, hands-on practice, and realism](pudendal-block-simulation-high-satisfaction-ratings.md) — related
+- [Learners rated the multidisciplinary simulation favorably on faculty competence, case relevance, and realism](simulation-learner-feedback-favorable.md) — related

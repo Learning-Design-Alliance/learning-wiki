@@ -69,3 +69,4 @@ The authors' discussion notes the logarithmic model left "approximately 75.5% of
 - [Lymphadenectomy was associated with a statistically significant increase in console time (estimated difference 18.0 min, 95% CI 6.3–29.6)](lymphadenectomy-increases-console-time.md) — related
 - [Console time decreased substantially with increasing surgical experience, with an estimated reduction of 33.2 min over the first 14 procedures](console-time-decreases-with-experience-versius.md) — related
 - [Operative time is independently associated with obstructive median lobe, number of implants, implant deployment failure, and early case number](pul-operative-time-predictors-multivariate.md) — related
+- [Dissection time decreases across the three models, with significantly shorter time on fresh-frozen bone than the transparent 3D model (p = 0.002)](dissection-time-decreases-across-models.md) — related

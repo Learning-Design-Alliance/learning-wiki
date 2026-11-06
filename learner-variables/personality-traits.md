@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 114 claims (74 show a difference, 26 mixed, 14 no difference) · 55 studies (24 associational, 15 review, 9 causal, 5 quant-synthesis, 2 theoretical), `q2`–`q4` · 18 of 55 report an effect size · 114 claims rest on one study
+> **Evidence** · 117 claims (75 show a difference, 27 mixed, 15 no difference) · 56 studies (25 associational, 15 review, 9 causal, 5 quant-synthesis, 2 theoretical), `q2`–`q4` · 18 of 56 report an effect size · 117 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -149,6 +149,9 @@ Personality traits are relatively stable individual differences, most often meas
 - [Better HAM-SJT performance at admission predicts more warm-agreeable behavior during practical training, independent of cognitive performance and demographics](../claims/ham-sjt-predicts-warm-agreeable-behavior.md) [+M] — measured as an outcome of the instruction studied
 - [Literacy difficulties moderate the trait anxiety–academic performance link, intensifying its negative association](../claims/literacy-difficulties-moderate-trait-anxiety-gpa.md) [~M] — learners who differ on it differ in outcomes
 - [Professional prequalification shows no significant relation to warm-agreeable behavior, and its correlation with emotional stability diminishes once covariates are controlled](../claims/prequalification-null-communal-emotional-stability.md) [~M] — measured as an outcome of the instruction studied
+- [Engagement is the only well-being element not significantly correlated with L2 achievement, while both grit dimensions correlate significantly positively with it](../claims/engagement-not-correlated-l2-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Perseverance of effort significantly predicts all four well-being elements while consistency of interest predicts none](../claims/pe-predicts-wellbeing-elements-ci-does-not.md) [~M] — learners who differ on it differ in outcomes
+- [The four well-being elements do not significantly mediate the relationships between grit dimensions and L2 achievement](../claims/wellbeing-mediation-non-significant.md) [-M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

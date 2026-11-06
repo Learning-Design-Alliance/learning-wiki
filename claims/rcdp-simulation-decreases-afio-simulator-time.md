@@ -50,3 +50,4 @@ Objective simulator metric collected automatically from the bronchoscopy simulat
 - [Simulation-based rapid-cycle deliberate practice curriculum improved GRS-rated awake fiberoptic intubation performance at three months](rcdp-simulation-improves-afio-grs.md) — related
 - [Post-training success rates in observed procedural skills rose markedly, reaching 100% in oxygen administration and fracture stabilization and 90% in endotracheal intubation](post-training-skill-success-rates-gains.md) — related
 - [Hands-on CPR, endotracheal intubation, and defibrillation operational scores rose significantly from pre-test to post-test in paediatric postgraduates after integrated simulation with TBL, in a single-group pre-post study](simulation-tbl-improves-paediatric-cpr-skill-scores.md) — related
+- [Procedural simulation significantly increased learner confidence in performing central lines, intubations, and bronchoscopies](simulation-raises-procedure-confidence.md) — related

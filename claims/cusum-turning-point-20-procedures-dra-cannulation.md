@@ -54,3 +54,5 @@ Prospective observational analysis of 180 procedures by 3 novice residents; pool
 - [Operative time decreased significantly across the learning curve, from 27.1 to 20.4 minutes between phases](operative-time-reduction-thd-anolift.md) — related
 - [Operative time in laparoscopic radical prostatectomy reaches a proficiency plateau after the 61st case in this series](lrp-operative-time-plateau-case-61.md) — related
 - [Surgeons, including novices, achieve robotic OSB repair competency on the simulator within 15–21 procedures](competency-within-15-21-frost-procedures.md) — related
+- [Needle insertion time plateaued at 27.54 s, with 90% of the plateau reached after 21 procedures and early procedure groups significantly slower than the reference group](needle-insertion-time-plateau-27-5s-21-procedures.md) — related
+- [Novices needed an average of 28.92 ± 4.68 simulated RFA procedures to reach technical competency, after which success improved from 88.2% to 96.7%](rfa-traps-simulator-29-procedures-competency.md) — related

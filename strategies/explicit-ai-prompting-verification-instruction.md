@@ -56,6 +56,7 @@ The article recommends that curricula incorporate explicit instruction in effect
 - [Train teachers in prompt engineering, evaluating AI-generated responses, ethical and privacy considerations, and integrating AI outputs into pedagogical decision-making](teacher-training-ai-tools-prompt-evaluation-ethics.md)
 - [Frame GenAI labs explicitly as verification and repair practice alongside prompting](frame-genai-labs-as-verification-and-repair-practice.md)
 - [Raise student and colleague awareness of AI-related privacy risks through research-ethics curricula](ai-privacy-education-research-curricula.md)
+- [Integrate prompt engineering into medical curricula through hands-on workshops, simulation-based learning, and AI courses](prompt-engineering-in-medical-curricula.md)
 
 ## Examples
 -

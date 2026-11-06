@@ -44,6 +44,7 @@ The article's design recommendation is that integrating GenAI in higher educatio
 - [Provide differentiated scaffolding matched to teachers' behavioral-cognitive profiles when supporting multi-agent AI workflow design](differentiated-scaffolding-teacher-ai-design-profiles.md)
 - [Adopt a differentiated integration strategy for GenAI in undergraduate medical education rather than uniform adoption](differentiated-genai-integration-strategy.md)
 - [Differentiate AI-integration support by learner profile rather than applying a uniform approach](profile-differentiated-ai-integration-strategies.md)
+- [Tailor professional development to demographic subgroups of teachers (gender, education level, school level)](demographic-tailored-pd-programs.md)
 
 ## Examples
 -

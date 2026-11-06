@@ -99,6 +99,7 @@ RTI replaces a wait-to-fail referral model with proactive, data-based prevention
 - [Use short-term comprehension-specific interventions as Tier 2 or Tier 3 supports within RTI](short-term-comprehension-tier2-tier3-rti.md)
 - [Supplement whole-class SRSD instruction with intensive Tier II or Tier III support for struggling writers](tier2-tier3-supplemental-support-struggling-writers.md)
 - [Schools should conduct systematic progress monitoring and small-group Tier 2 early mathematics instruction for struggling first-graders](systematic-progress-monitoring-small-group-tier2-math-strategy.md)
+- [Prioritize mid-year CBM literacy screenings, particularly LNF and LSF, within a multi-point progress-monitoring framework](mid-year-cbm-screening-strategy.md)
 
 ## Examples
 - **Early reading RTI in Minnesota and Ohio statewide initiatives** — universal DIBELS screening three times per year, with Tier 2 small-group phonics intervention and weekly oral-reading-fluency monitoring; both states documented reduced special education identification rates in participating districts.

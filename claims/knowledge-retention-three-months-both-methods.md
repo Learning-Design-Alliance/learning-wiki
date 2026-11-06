@@ -51,3 +51,4 @@ Longitudinal model estimates in the RCT (41 students scored at both post-interve
 - [Zlotos study found confidence gains at post-test and 6-month follow-up, with knowledge peaking immediately then declining but staying above pretest](zlotos-confidence-knowledge-trajectory.md) — related
 - [Knowledge gains from a one-day simulation curriculum persist at three months among pre-health students who completed follow-up.](simulation-knowledge-retention-three-months.md) — related
 - [Students prefer traditional teaching over Jigsaw and believe it will improve their grades more](students-prefer-traditional-teaching-over-jigsaw.md) — related
+- [Knowledge gains persisted one month post-intervention despite a slight decline, remaining above pre-intervention levels](knowledge-gains-persisted-one-month-post-intervention.md) — related

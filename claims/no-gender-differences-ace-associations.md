@@ -65,3 +65,4 @@ Interactions between gender and each ACE operationalisation were tested in the m
 - [Within included studies, ACS was positively associated with cognitive performance and academic achievement in adolescent girls but not adolescent boys](acs-sex-specific-association-adolescent-girls.md) — reports the opposite
 - [Subgroup analyses by mode of ACS, age, and sex show no significant differences in pooled effect sizes for academic outcomes](acs-subgroup-analyses-no-significant-differences.md) — related
 - [Sex does not moderate sleep–outcome associations](sex-no-moderation-sleep.md) — related
+- [The ITEI–outcomes model does not differ between gender groups](no-gender-moderation-itei-outcomes.md) — related

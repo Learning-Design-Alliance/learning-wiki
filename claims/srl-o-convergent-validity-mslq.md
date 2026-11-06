@@ -55,3 +55,4 @@ Convergent validity analysis correlating SRL-O subscales with MSLQ subscales in 
 - [No existing online SRL questionnaire covers the breadth of motivational beliefs and learning strategies the SRL-O covers](no-online-srl-measure-covers-breadth.md) — related
 - [Conscientiousness facets and SRL scales show substantial multivariate overlap in college students](conscientiousness-srl-multivariate-overlap-study.md) — related
 - [Emotions relate to achievement most strongly within the same domain, supporting convergent and divergent validity of domain-specific emotion measures](emotions-achievement-same-domain-convergent-validity.md) — related
+- [Self-assessment correlates medium-to-strongly with self-regulated learning (MSLQ) in the PBL tutorial context](self-assessment-correlates-srl-pbl.md) — related

@@ -56,6 +56,7 @@ The authors recommend establishing a dedicated TBL teaching team including exper
 - [Shift TBL research from endless justification to cumulative, theory-based clarification research using diversified methods](shift-tbl-research-to-clarification.md)
 - [Adopt TBL preferentially for theoretical knowledge outcomes in medical education, applied flexibly by context](adopt-tbl-for-theoretical-outcomes-medical-education.md)
 - [Use activity based learning in language lessons and train teachers to implement it](abl-speaking-teacher-training-strategy.md)
+- [Introduce and teach peer assessment before implementing team-based learning](teach-peer-assessment-before-tbl.md)
 
 ## Examples
 -

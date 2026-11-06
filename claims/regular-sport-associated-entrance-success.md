@@ -48,3 +48,4 @@ Multivariate logistic regression in the retrospective Rouen cohort survey (523 r
 - [High leisure time physical activity and active commuting to school are each associated with increased odds of high academic achievement in both girls and boys](physical-activity-active-commuting-associated-achievement-adolescents.md) — a broader claim this one bears on
 - [Girls who engage in sport at least one hour per week show better math and reading results; this relationship did not hold for boys](girls-sport-one-hour-better-math-reading.md) — related
 - [Each additional hour of nightly sleep was associated with 49% higher odds of entrance exam success](sleep-duration-associated-entrance-success.md) — related
+- [More sports club participation is associated with higher odds of high mathematics and language performance in both sexes](sports-club-hours-associated-higher-performance-both-subjects.md) — related

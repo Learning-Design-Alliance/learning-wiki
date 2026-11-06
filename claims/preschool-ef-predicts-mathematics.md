@@ -64,3 +64,4 @@ Narrative synthesis of longitudinal studies (e.g. Clark et al. 2013; Fuhs et al.
 - [An after-school EF/VS intervention improves directly assessed executive function in kindergarten and first-grade children (intent-to-treat)](after-school-intervention-improves-executive-function.md) — related
 - [Horseback-riding hours and age significantly predict executive functions](riding-hours-predict-ef.md) — related
 - [EF Touch performance at kindergarten entry longitudinally predicts later math achievement at kindergarten exit in autistic kindergartners](ef-touch-entry-predicts-exit-math.md) — a narrower finding that bears on this claim
+- [Behavioral self-regulation and working memory, but not short-term memory, partially mediate the relation between early and later math skills](self-regulation-working-memory-partially-mediate-early-later-math.md) — related

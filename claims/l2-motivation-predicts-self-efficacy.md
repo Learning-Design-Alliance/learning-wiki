@@ -57,3 +57,4 @@ Stepwise regression on survey data from 210 Iranian EFL learners (convenience sa
 - [Learning motivation is positively associated with acceptance outcomes for AI-assisted English learning tools in adjusted regression models](learning-motivation-positive-ai-english-acceptance.md) — related
 - [Self-efficacy is positively associated with acceptance outcomes for AI-assisted English learning tools in adjusted regression models](self-efficacy-positive-ai-english-acceptance.md) — related
 - [Learners' motivation and goals to learn English is the most critical sub-indicator for blended MOOC implementation](learner-motivation-top-priority-bmooc.md) — related
+- [Regression analysis attributes the largest puzzle effect to knowledge (β = 0.896), with smaller positive effects on motivation and self-efficacy](regression-puzzle-application-knowledge-beta-0896.md) — related

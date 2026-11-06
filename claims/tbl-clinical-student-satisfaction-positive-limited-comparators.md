@@ -50,3 +50,4 @@ The review's synthesis of the satisfaction outcome (34 studies, 21 with comparat
 - [TBL is associated with higher satisfaction, positive attitudes and motivation versus lecture, but preferences are mixed](tbl-feeling-of-learning-satisfaction-mixed.md) — related
 - [TBL in clinical disciplines is associated with increased knowledge acquisition in many studies, but findings on long-term knowledge retention are contradictory](tbl-clinical-knowledge-acquisition-mixed-retention.md) — related
 - [Faculty experience an initial workload increase with TBL but generally hold positive attitudes, while faculty development is limited](tbl-faculty-workload-development-limited.md) — related
+- [Junior (third to fifth grade) students showed significantly lower satisfaction with TBL than sixth-grade and postgraduate students](junior-students-lower-tbl-satisfaction.md) — a narrower finding that bears on this claim

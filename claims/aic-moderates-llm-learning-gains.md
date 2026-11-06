@@ -83,3 +83,4 @@ Three-way interaction analysis including Treatment, pre-intervention exam score,
 - [The spacing incentive benefits lower-GPA students more, nearly equalizing exam performance across prior GPA levels](counting-days-benefits-lower-gpa-students.md) — related
 - [The intervention and control groups did not differ significantly in GPA, supporting the intervention rather than baseline ability as the source of the competence difference](no-gpa-difference-between-groups.md) — reports the opposite
 - [Higher pre-test scores were associated with lower knowledge gain from pre-test to post-test after an escape room, in one single-group pre-post study](escape-room-lower-prior-knowledge-greater-gain.md) — related
+- [ChatGPT assistance disproportionately benefits dental students with low spatial ability; high spatial ability learners show no significant difference between modes](chatgpt-benefits-low-spatial-ability-learners-most.md) — related

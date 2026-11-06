@@ -52,3 +52,4 @@ Overall pattern across the four-station OSCE in the quasi-experimental cohort co
 - [Simulation-trained students significantly outperformed clinically trained peers on the dose calibrator use OSCE station](sbt-outperforms-cbt-dose-calibrator-station.md) — a narrower finding that bears on this claim
 - [Simulation training across medical and surgical scenarios yields significantly higher OSCE scores than didactic lectures across two year groups](simulation-higher-osce-scores-zhang.md) — a broader claim this one bears on
 - [OSCE gains were uneven across stations and disease modules: contouring station and cervical module differed significantly, plan-evaluation station and NPC/esophageal modules did not](osce-gains-uneven-stations-modules.md) — related
+- [Mean scores differed significantly among the three student groups in stations 2 and 7 of the virtual OSCE](virtual-osce-between-group-differences-stations-2-7.md) — related

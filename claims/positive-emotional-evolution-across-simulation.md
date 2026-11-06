@@ -51,3 +51,4 @@ Focus-group and reflective-narrative data from the same qualitative study of 59 
 - [Increased exposure to unsupervised difficult conversations is associated with greater emotional confidence, while rare exposure is associated with higher distress](exposure-frequency-emotional-reaction-association.md) — related
 - [Students' narratives frame simulations ambivalently: anxiety and performance insecurity coexist with perceived safe space for learning from mistakes](ambivalent-narratives-simulation-anxiety-safe-space.md) — related
 - [Tutees initially felt anxious about receiving peer tutoring due to fear of judgment and stigma, but anxieties typically eased after the first session](tutee-initial-hesitancy-eases-peer-tutoring.md) — related
+- [Students initially experienced hesitance and performance anxiety in role-play, which diminished over time as they gained skills](role-play-initial-hesitance-anxiety.md) — a narrower finding that bears on this claim

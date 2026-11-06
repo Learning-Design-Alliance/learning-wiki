@@ -47,3 +47,4 @@ Exploratory Pearson correlations among post-intervention measures in the 60-stud
 ## Related Claims
 - [Pre-to-post improvements over time were significant for all measures except the Stroop Test, and perceived stress decreased over time](active-breaks-time-effects-all-variables.md) — related
 - [HRV data show moderate concurrent validity as a measure of stress in educational contexts](hrv-moderate-concurrent-validity-stress.md) — related
+- [Domain correlations suggest coherent construct validity, with realism–skill-replication r = 0.85 and effectiveness–engagement r = 0.79](vr-simulator-domain-correlations-construct-validity.md) — related

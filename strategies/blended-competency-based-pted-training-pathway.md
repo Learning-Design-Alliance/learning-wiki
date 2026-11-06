@@ -47,6 +47,7 @@ The article proposes a dual-pathway approach to close the PTED simulation implem
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Four pillars for educational transformation: industry-independent accreditation, integrated curricula, objective competency assessment, and competency-based certification](four-pillars-educational-transformation-ep.md)
 - [Deliver the national ALS standard through ALS, blended electronic ALS (e-ALS) or a formally recognised equivalent pathway, with local simulation reinforcing rather than replacing formal training.](blended-eals-pathway-national-standard.md)
+- [Develop a standardised and accredited training pathway from undergraduate through to postgraduate level for CEP competency](standardised-undergraduate-postgraduate-cep-pathway.md)
 
 ## Examples
 -

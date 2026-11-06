@@ -54,6 +54,7 @@ The article recommends that educators using VR resources on sensitive topics pre
 - [Secure institutional support for patient recruitment, faculty development, and logistics before adopting patient-in-classroom teaching](institutional-support-patient-in-classroom-adoption.md)
 - [Pair technology access with targeted investments in infrastructure, staffing, and support, and pilot initiatives with dedicated budgets](pair-access-with-infrastructure-investment.md)
 - [Implement VR in clinical education as a complement with robust infrastructure, faculty training, and short adaptive sessions](vr-complementary-implementation-strategy-clinical-education.md)
+- [Prioritize enjoyment and usability when selecting and implementing VR anatomy software, including pre-session practice and technical support](prioritize-enjoyment-usability-vr-anatomy-implementation.md)
 
 ## Examples
 -

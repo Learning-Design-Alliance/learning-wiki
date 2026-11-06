@@ -90,3 +90,4 @@ Cross-district finding on rubric comparability. The report frames this as a tens
 - [By the final assessment, 82% of artefacts demonstrated mapping between content descriptors, assessment tasks, and success criteria aligned with AITSL Graduate Standards 2.1, 2.2, and 3.2](artefact-pedagogical-alignment-improvement.md) — related
 - Marked heterogeneity of assessment methods, many lacking formal validation, limits comparability between studies and standardisation of the field — related
 - [ACE measurement varies substantially across studies, complicating cross-study comparability](ace-measurement-variability-limits-comparability.md) — related
+- [Deficiencies in assessment tool design and scoring consistency undermine the reliability and validity of some Assessment Center tools](ac-tool-design-gaps-undermine-reliability-validity.md) — related

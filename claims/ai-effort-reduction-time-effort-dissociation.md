@@ -100,3 +100,4 @@ Completion-sample participants answered the 5-question NASA-TLX after each task.
 - [Material modality significantly affects subjective cognitive load, with text materials inducing higher NASA-TLX scores than video-based materials](text-materials-highest-subjective-cognitive-load.md) — related
 - [AI-driven teaching paradigm reduces cognitive load measured by NASA-TLX](ai-paradigm-reduces-cognitive-load-nasa-tlx.md) — related
 - [Perceived mental workload does not differ between 3D VR and 2D video acclimatisation groups](nasa-tlx-no-difference-3d-vr.md) — related
+- [ChatGPT-assisted skill learning produces lower cognitive load than video-only learning, measured by change in pupil diameter](chatgpt-assisted-learning-lowers-cognitive-load-pupil-diameter.md) — related

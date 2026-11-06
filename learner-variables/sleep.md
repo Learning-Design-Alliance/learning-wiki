@@ -13,7 +13,7 @@ generated:
 # Sleep
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 64 claims (37 show a difference, 21 mixed, 6 no difference) · 26 studies (11 associational, 9 causal, 5 review, 1 quant-synthesis), `q2`–`q3` · 11 of 26 report an effect size · 64 claims rest on one study
+> **Evidence** · 65 claims (37 show a difference, 22 mixed, 6 no difference) · 27 studies (12 associational, 9 causal, 5 review, 1 quant-synthesis), `q2`–`q3` · 11 of 27 report an effect size · 65 claims rest on one study
 
 ## Description
 Sleep is the period in which consciousness is suspended and the body and brain rest and recuperate. During sleep the brain consolidates memories, the body heals and recovers energy, and waste products of brain activity may be cleared. Its quantity, regularity and quality matter for nearly every aspect of cognition, as well as for physical and emotional well-being. When learners do not get enough good sleep, mood and cognitive skills suffer and focus is lost more easily. Sleep is measured with self-report and parent-report questionnaires on sleep habits, timing, quality and daytime sleepiness. The LVN treats it as relevant from pre-kindergarten to adulthood, and suggests extra cognitive supports, such as redirecting attention when a learner's mind wanders, for students who are short of sleep. It overlaps with [physical well-being](physical-wellbeing.md), of which adequate sleep is a part, and with [long-term memory](long-term-memory.md) through consolidation.
@@ -100,6 +100,7 @@ Sleep is the period in which consciousness is suspended and the body and brain r
 - [Students with higher final exam scores show significantly higher actigraphy sleep efficiency and shorter sleep onset latency than lower-scoring peers](../claims/higher-exam-scores-higher-se-shorter-sol-actigraphy.md) [+M] — learners who differ on it differ in outcomes
 - [Stress/anxiety and sleep disturbances are counterintuitively associated with better academic performance in fasting students](../claims/stress-sleep-disturbance-better-performance-ramadan.md) [+M] — learners who differ on it differ in outcomes
 - [Each additional hour of nightly sleep was associated with 49% higher odds of entrance exam success](../claims/sleep-duration-associated-entrance-success.md) [+W] — learners who differ on it differ in outcomes
+- [Lower BMI, higher healthy diet score, and better sleep quality are associated with high language performance in girls but not boys](../claims/bmi-diet-sleep-quality-girls-language-performance.md) [~W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Sleep Timing Questionnaire** (Monk et al., 2003): self-report of sleep-wake patterns on weekdays and weekends.

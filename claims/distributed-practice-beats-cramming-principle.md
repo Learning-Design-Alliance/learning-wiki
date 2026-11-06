@@ -58,3 +58,4 @@ The comment states this as an established laboratory principle, citing Carpenter
 - [Relearning-to-criterion designs confound distribution of practice with amount of second-session practice](relearning-confound-distributed-practice-designs.md) — related
 - [An intervention study of Learning How to Learn reported improved study behaviors and higher second-semester proficiency scores](lhtl-intervention-improved-study-behaviors.md) — a narrower finding that bears on this claim
 - [Animal neuroscience studies show spaced stimulation produces greater long-term potentiation than massed stimulation](spaced-stimulation-greater-ltp-animal-studies.md) — a narrower finding that bears on this claim
+- [Distributed (spaced) practice retains surgical skills better than massed practice, though no optimal gap has been identified](distributed-practice-retains-surgical-skills-better-than-massed.md) — a narrower finding that bears on this claim

@@ -52,4 +52,5 @@ Review synthesis of the 17 articles (Table 3 frequencies); the discussion adds t
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Competing priorities for instructional time (environmental context) was the most salient barrier to teachers' implementation of a supplemental language curriculum](competing-time-priorities-dominant-barrier-language-curriculum.md) — related
 - [Implementation of the OMP was hindered mainly by lack of time and workload, and facilitated by alignment with existing practice, workplace atmosphere and laminated reminder cards](omp-implementation-barriers-facilitators.md) — a narrower finding that bears on this claim
+- [TDF analysis identified Intentions and Social/Professional Role and Identity as enablers, and Environmental Context and Resources plus Memory, Attention and Decision Processes as the biggest barriers to MECC HCS implementation](mecc-hcs-tdf-barriers-enablers.md) — related
 

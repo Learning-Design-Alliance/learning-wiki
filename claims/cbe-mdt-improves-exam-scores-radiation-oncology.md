@@ -56,3 +56,4 @@ Cohort comparison of 128 trainees (64 per group) assessed via rotation completio
 - [A simulated oncology MDT case-based learning session significantly improved trainee confidence, with a mean increase of 2 points on a 10-point scale (p < 0.01)](simulated-mdt-cbl-improves-trainee-confidence.md) — related
 - [SKIT raises theoretical exam and OSCE scores versus traditional teaching for cross-department emergency rotators](skit-higher-theory-osce-scores-emergency-rotation.md) — related
 - [Adding Kahoot and TikTok to traditional teaching raised final exam scores by 12.9% in a radiation oncology course for third-year medical students](kahoot-tiktok-raised-radiotherapy-exam-scores.md) — related
+- [The review reports SBME yields positive outcomes across oncology subspecialties, including communication skills, chemotherapy safety, and radiation oncology competencies](sbme-positive-outcomes-oncology-subspecialties.md) — a broader claim this one bears on

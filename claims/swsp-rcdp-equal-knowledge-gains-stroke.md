@@ -49,3 +49,4 @@ Randomized controlled trial of 134 fourth-year nursing students randomly assigne
 - [Students rate RCDP higher than SWSP on the Simulation Design Scale overall, including the support and problem-solving factors](rcdp-higher-simulation-design-scale.md) — related
 - [Knowledge test scores rose from pre-test median 6 to post-test median 8 after RCDP-within-TeamSTEPPS interprofessional simulation, in one uncontrolled pre-post study](ipstar-mcq-knowledge-gain.md) — related
 - [RCDP training yields larger pre-to-post improvement effect sizes than TTM for theoretical and practical air enema scores](rcdp-larger-prepost-effect-sizes.md) — related
+- [Knowledge of high-quality CPR principles improves from a mean 68% to 85% after the RCDP simulation, with improvement significant by role for advanced practice providers and resident/fellows but not reaching significance for nurses](rcdp-simulation-improves-cpr-knowledge-scores.md) — a narrower finding that bears on this claim

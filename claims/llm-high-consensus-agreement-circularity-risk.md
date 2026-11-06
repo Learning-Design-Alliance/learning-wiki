@@ -61,3 +61,4 @@ ing good agreement with the consensus."
 - [Evaluator-agent scores agreed closely with a 16-rater human consensus benchmark for both MI (ICC(2,1)=0.959) and CBT (ICC(2,1)=0.934)](evaluator-agrees-with-human-rater-consensus.md) — related
 - [ChatGPT LLM scores showed only moderate agreement with human transcript scores.](llm-moderate-agreement-human-scores.md) — related
 - [Raters agreed more consistently when evaluating SP performances (ICC 0.588–0.594) than when evaluating student performances (ICC 0.34–0.469)](icc-higher-for-sp-than-student-evaluations.md) — a narrower finding that bears on this claim
+- [The custom-made anatomical recognition score agrees strongly with the reference TTE quality score](reference-custom-tte-score-agreement.md) — related

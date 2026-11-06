@@ -65,6 +65,7 @@ The authors recommend integrating well-designed VSGs into nursing education as p
 - [Use educational simulation software as a supplement to lectures and hospital-based clinical practice in nursing education](simulation-software-supplement-to-lecture-and-clinical-practice.md)
 - [Integrate contextualized online materials with real or simulated clinical practice elements into traditional paramedic education](contextualized-online-plus-clinical-practice-mdc.md)
 - [Seven implementation recommendations for educators deploying virtual environments in teaching](dvsim-seven-implementation-recommendations.md)
+- [Integrate e-learning and game-based approaches into nursing education to leverage the strengths of both methods](integrate-elearning-and-game-based-nursing-education.md)
 
 ## Examples
 -

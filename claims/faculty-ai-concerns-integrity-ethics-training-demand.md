@@ -69,3 +69,4 @@ Pre-institute survey of ten participants (Tables 9 and 10) with multiple-respons
 - [AI literacy and formal AI training remain low among nursing and health-professions students, though attitudes are largely positive](low-ai-literacy-positive-attitudes-health-students.md) — related
 - [Assessment design, perceived assessment value, self-confidence, and fear of wrongful plagiarism accusations were the most frequently cited reasons for students' GenAI adoption decisions](reasons-students-cite-genai-assessment-decisions.md) — related
 - [Faculty advisors and mentors are considered pivotal in promoting doctoral students' development as responsible and ethical researchers](faculty-mentors-pivotal-responsible-research-development.md) — related
+- [Educators raised concerns about virtual communication being unengaging and high cheating possibility in online assessments](educator-concerns-virtual-communication-cheating.md) — related

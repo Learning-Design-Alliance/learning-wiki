@@ -68,3 +68,4 @@ Quantitative questionnaire study (De Bellis and Parker 1998, Australia) of 147 D
 - [A narrative synthesis of eight studies identifies three themes describing nurse managers' palliative care awareness and competence in municipal care](three-themes-nm-palliative-competence-review.md) — related
 - [Care home managers show moderate palliative care knowledge, strong on psychosocial aspects but weak on biological and physical components](pcqn-manager-knowledge-gaps-physical-care.md) — related
 - [Nursing home managers report significantly higher palliative care self-efficacy than residential care home managers](nursing-vs-residential-manager-confidence.md) — related
+- [Manager development training courses face challenges including theory-orientation, unknown effectiveness, and inadequate content](development-course-effectiveness-unknown-challenges.md) — related

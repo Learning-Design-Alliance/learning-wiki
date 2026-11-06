@@ -58,3 +58,6 @@ Bootstrap moderated mediation analysis (PROCESS Model 7, 5,000 resamples) on the
 - [All measured variables (emotions, self-concept, social support, achievement) are significantly intercorrelated in the expected directions](fl-emotions-achievement-correlations.md) — related
 - [Control and value appraisals fully mediate the TSRQ–anxiety association among Chinese college EFL learners](tsrq-anxiety-fully-mediated-by-appraisals.md) — related
 - [Academic emotions—enjoyment, anxiety, and boredom—mediate the association between perceived AI-adaptive environments and SRL, accounting for 54.8% of the total effect](academic-emotions-mediate-ai-environment-srl.md) — related
+- [Anxiety negatively mediates the relationship between teacher caring behavior and English academic performance](anxiety-negative-mediation-tcb-eap.md) — related
+- [Boredom negatively mediates the relationship between teacher caring behavior and English academic performance](boredom-negative-mediation-tcb-eap.md) — related
+- [Enjoyment positively mediates the relationship between teacher caring behavior and English academic performance](enjoyment-positive-mediation-tcb-eap.md) — related

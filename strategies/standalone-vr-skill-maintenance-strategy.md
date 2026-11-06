@@ -54,6 +54,9 @@ The article recommends scalable, self-directed VR practice to support skill main
 - [Replace massed Halstedian-style training with spaced VR simulator-based psychomotor training for novice doctors](implement-spaced-vr-simulator-training-novice-doctors.md)
 - [Design training rotas with consistent, protected time for access to robotic simulators for skill progression](protected-simulation-time-robotic-training-rotas.md)
 - [Sustain simulation skills through ongoing practice opportunities, logbook signoffs, designated skills leads, collaborative partnerships and equipment maintenance](us-pivc-skill-maintenance-strategies.md)
+- [Offer brief resuscitation simulations multiple times per year and in varied hospital locations to combat skill loss and expose learners to room variation](frequent-varied-location-resuscitation-simulations-strategy.md)
+- [Integrate simulation as a complementary learning tool across oncology curricula, continuing education, and recertification programs](integrate-simulation-complementary-tool-oncology-curricula.md)
+- [Run digital skills-maintenance programmes as a monthly self-practise model with practise corners, formal hospital leadership involvement and facilitator training in online supervision](monthly-practise-model-practise-corners-leadership-strategy.md)
 
 ## Examples
 -

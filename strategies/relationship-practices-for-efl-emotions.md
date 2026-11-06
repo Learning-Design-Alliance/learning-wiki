@@ -48,6 +48,7 @@ Based on the finding that TSRQ can amplify positive emotions and diminish negati
 
 - [Civic education teachers foster an open classroom climate to prevent negative emotions and increase enjoyment](foster-open-climate-civic-emotions-strategy.md)
 - [Design programs that foster students' positive emotions and reduce negative emotions to support subsequent relationship quality and achievement](foster-positive-emotions-programs-strategy.md)
+- [Design engaging L2 instruction and positive classroom climate to cultivate learners' sustained interest in the target language](cultivate-sustained-interest-l2-strategy.md)
 
 ## Examples
 -

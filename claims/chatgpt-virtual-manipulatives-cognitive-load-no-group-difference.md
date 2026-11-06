@@ -64,3 +64,4 @@ LCD post hoc tests (Table 4) found no significant pairwise cognitive load differ
 - [Personalized paths reduced self-reported cognitive load on all six adapted NASA-TLX dimensions with large effect sizes](personalized-paths-lower-cognitive-load.md) — reports the opposite
 - [Global cognitive load (NASA TLX) change did not differ between training groups](nasa-tlx-global-change-no-group-difference.md) — related
 - [A ChatGPT-supported virtual manipulative learning environment produces higher anatomy academic achievement than simulation-only and traditional teaching](chatgpt-virtual-manipulatives-higher-anatomy-achievement.md) — related
+- [AR-based anatomy learning is associated with lower overall cognitive workload compared to traditional learning methods](ar-lower-cognitive-workload-than-traditional-learning.md) — related

@@ -51,3 +51,4 @@ The trial's abstract reports that perceived competence "was positively correlate
 - [Negative feedback trainees reported higher pressure/tension than positive and no-feedback trainees](negative-feedback-higher-pressure-tension-imi.md) — related
 - [Disgust and anxiety during dissection are negatively associated with motivation, interest and achievement (as reported in prior work cited by the article)](disgust-anxiety-hinder-dissection-learning.md) — related
 - [Feedback perceived as strongly negative can evoke emotional responses including anger and discouragement, and may have detrimental consequences such as decreased motivation and reduced performance](negative-feedback-emotional-responses-detrimental-consequences.md) — related
+- [Higher perceived pressure/tension and, unexpectedly, higher perceived competence predict poorer post-training test results](pressure-and-competence-predict-test-results.md) — related

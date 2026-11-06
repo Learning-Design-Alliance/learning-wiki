@@ -70,3 +70,4 @@ Randomized two-group experiment (72 undergraduate or graduate students) with the
 - [Worked examples did not improve application of CDR strategy knowledge relative to problem-solving](worked-examples-no-improvement-knowledge-application.md) — related
 - [A 2017 cyberlearning community report states that students learn more from games when bridging activities connect game learning to classroom instruction, and that learning analytics can strengthen the connection](bridging-activities-connect-game-learning-to-instruction.md) — related
 - [Switching from strategy building to puzzle solving overcame the implementation impasse](puzzle-solving-overcame-implementation-impasse.md) — related
+- [Evidence on puzzle-based teaching is mixed in the wider literature: some studies find no knowledge-score benefit and one found lectures outperformed online puzzles](puzzle-teaching-literature-mixed.md) — related

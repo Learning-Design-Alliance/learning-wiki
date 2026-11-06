@@ -58,3 +58,4 @@ Anonymous postencounter online questionnaire completed by 63 of 92 students (68.
 - [Medical students rate the virtual patients as realistic and comprehensible, with face validity exceeding the acceptability threshold](vp-acceptable-face-validity.md) — reports the opposite
 - [Sentiment analysis of GAI-generated VSP responses showed predominantly negative sentiment, consistent with clinical realism](vsp-responses-negative-sentiment.md) — related
 - [Expert panel rates the FROST simulator realistic and recommends it for training, except for the skin undermining step](expert-panel-face-content-validity-frost-simulator.md) — related
+- [Participants rate the pudendal block simulation intervention as useful and report satisfaction with the model, citing faculty feedback, hands-on practice, and realism](pudendal-block-simulation-high-satisfaction-ratings.md) — related

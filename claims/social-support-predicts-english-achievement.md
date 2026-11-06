@@ -52,3 +52,4 @@ Cross-sectional survey of 1,543 Chinese secondary school students; regression in
 - [Perceived social support positively predicts both AI literacy and technological self-efficacy among university faculty](social-support-predicts-ai-literacy-and-self-efficacy-faculty.md) — related
 - [EFL PsyCap positively predicts EFL achievement among Chinese secondary EFL learners](efl-psycap-predicts-achievement.md) — related
 - [Digital technology use has a significant positive direct effect on EFL students' English academic performance](digital-technology-use-direct-positive-effect-efl-performance.md) — related
+- [Teacher caring behavior directly and positively predicts high school students' English academic performance](tcb-direct-positive-prediction-eap.md) — related

@@ -65,3 +65,5 @@ Expert validation study using a researcher-developed Likert-type questionnaire o
 - [Expert content review using the Davis method removed five draft items with content validity indices below 0.80](scas-content-validity-davis-cvi-item-removal.md) — related
 - [Content validity of ANTStr is high, with all item CVR values above 0.78 and a CVI of 0.97](antstr-content-validity-cvi-097.md) — related
 - [Expert review supports the content validity of the Turkish-adapted tool, with a content validity index of 0.80 and content validity ratio of 1.00](turkish-clt-tool-content-validity-cvi-080.md) — related
+- [Expert judges rated the branching virtual simulation's content as valid, with CVI, CVC and CVR above 0.80 and an average score of 4.3](content-validation-branching-simulation-cvi-cvc-cvr.md) — related
+- [Judges endorsed the simulation as a continuing education strategy with potential to strengthen patient safety culture](judges-endorse-continuing-education-safety-culture-potential.md) — related

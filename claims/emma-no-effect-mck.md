@@ -48,3 +48,4 @@ Repeated measure ANOVA on Rasch-scaled MCK test scores (24 items, secondary scho
 - [The EmMa continuous professional development course significantly improved early childhood teachers' mathematical pedagogical content knowledge](emma-improves-mpck-early-childhood-teachers.md) — related
 - [The EmMa course showed no significant effect on early childhood teachers' process orientation towards mathematics](emma-no-effect-process-orientation.md) — related
 - [The EmMa course significantly reduced early childhood teachers' static orientation towards mathematics](emma-reduces-static-orientation-beliefs.md) — related
+- [Group×time interactions were significant for all four outcomes in two-way repeated measures ANOVA](snpcohs-group-time-interaction-significant.md) — related

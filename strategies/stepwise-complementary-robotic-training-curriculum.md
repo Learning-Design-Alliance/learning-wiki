@@ -85,6 +85,8 @@ The review recommends that training modalities be combined in a progressive curr
 - [Supervised, low-intensity graduated surgical training before a trainee's first complete vitrectomy](supervised-graduated-ppv-training-before-first-complete-vitrectomy.md)
 - [Incorporate a tremor-measuring smartwatch app to support self-supervised training of surgical residents](smartwatch-tremor-app-self-supervised-training.md)
 - [Use VR simulation as a primer or distance-learning complement to mannequin simulation in a blended approach](vr-as-primer-or-distance-complement-to-mannequin.md)
+- [Use anatomy-faithful dry-lab simulators as an off-the-job alternative to animal and cadaver surgical training](dry-lab-off-jt-alternative-animal-cadaver-training.md)
+- [Integrate robotic surgery training into the education of young professionals](integrate-robotics-into-surgical-curriculum.md)
 
 ## Examples
 -

@@ -69,3 +69,7 @@ Null direct association between global trait EI (TEIQue) and GPA in this sample,
 - [Emotional intelligence correlates positively with self-directed learning among nursing students (r = 0.63)](ei-sdl-positive-correlation-nursing-students.md) — related
 - [Cognitive engagement, emotional engagement, and testing perceptions did not correlate with exam scores, and cognitive engagement and testing perceptions did not moderate the testing effect](engagement-scales-no-correlation-exam-scores.md) — related
 - [Digital technology use, emotional intelligence, and learning engagement are each significantly positively correlated with English academic performance](correlations-digital-technology-ei-engagement-english-performance.md) — related
+- [Emotional intelligence negatively predicts academic self-efficacy among Ghanaian pre-service teachers, contrary to prior literature](ei-negatively-predicts-ase-preservice.md) — related
+- [Emotional intelligence does not significantly moderate the relationship between psychological well-being and academic self-efficacy](ei-no-moderation-pwb-ase.md) — related
+- [Trait and ability EI in 11th grade predict 12th-grade emotions towards school and academic achievement](ei-predicts-emotions-and-achievement.md) — related
+- [Psychological well-being, academic self-efficacy, and emotional intelligence each significantly and positively predict CGPA among pre-service teachers](pwb-ase-ei-predict-cgpa-preservice-teachers.md) — reports the opposite

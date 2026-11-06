@@ -85,3 +85,4 @@ The interaction is described as disordinal and strongest for females who receive
 - [The F-Ratio from Repeated Measures ANOVA was significant (p < .001) for the overall observation score and for each composite score (N = 40) for the five observations.](pd-improved-instructional-practices-equip.md) — related
 - [Repeated Measures ANOVA on MAP scores in the fall and the spring indicated a significant difference (p < .001) for the overall composite score and for general science content and process standards separately.](pd-improved-student-achievement-map.md) — related
 - [The group-by-exposure interaction was statistically significant for both mathematics and reading comprehension](hpsf-group-exposure-interaction-significant.md) — related
+- [Group×time interactions were significant for all four outcomes in two-way repeated measures ANOVA](snpcohs-group-time-interaction-significant.md) — a narrower finding that bears on this claim

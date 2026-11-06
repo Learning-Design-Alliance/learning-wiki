@@ -51,3 +51,4 @@ Multiple linear regression in the same 402-participant cross-sectional survey; t
 - [Physicians and nurses had significantly higher odds of high knowledge-based BLS competency than technicians and other clinical staff.](physicians-nurses-higher-bls-competency-than-technicians.md) — related
 - [Educational level was significantly associated with total BLS knowledge score, with bachelor's and master's degree holders scoring higher.](education-level-associated-bls-knowledge-score.md) — related
 - [Gaza healthcare workers' BLS knowledge is strongest on CPR ratio, compression location and myocardial infarction recognition, moderate on trauma and airway items](gaza-bls-knowledge-strengths.md) — related
+- [BLS competency is significantly associated with education level and professional rank, with bachelor's-degree nurses and professional nurses scoring higher](bls-competency-education-rank-association.md) — related

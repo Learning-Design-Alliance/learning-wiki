@@ -48,6 +48,7 @@ The article recommends that successful implementation of HoloPatient-based simul
 ## Related Strategies
 
 - [Provide reliable Internet/Wi-Fi and sufficient devices when implementing mobile learning](provide-internet-wifi-and-devices-mobile-learning-implementation.md)
+- [Prioritize enjoyment and usability when selecting and implementing VR anatomy software, including pre-session practice and technical support](prioritize-enjoyment-usability-vr-anatomy-implementation.md)
 
 ## Examples
 -

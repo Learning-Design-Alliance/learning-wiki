@@ -53,3 +53,4 @@ Face-to-face semi-structured interviews with 15 randomly selected trainee nurses
 - [Nursing students report ineffective and inconsistent feedback in clinical practice due to overcrowded groups and limited instructor availability](students-report-ineffective-clinical-feedback-nanda.md) — related
 - [Contextual constraints — time pressure, facilitator variability, limited clinical exposure and lack of visual aids — moderate CBL effectiveness in resource-limited settings](cbl-constrained-by-resource-limited-context.md) — related
 - [Facilitators report CBL carries a heavy time commitment relative to didactic teaching, with concerns about excessive workload](cbl-facilitator-time-commitment-concerns.md) — related
+- [Evaluation-system factors—doubted anonymity, insufficient feedback, tight timing, heavy workload, and unclear indicators—drive self-protective and arbitrary SET scoring](evaluation-system-factors-anonymity-feedback-timing.md) — related

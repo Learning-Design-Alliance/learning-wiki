@@ -52,3 +52,4 @@ Quasi-experiment with 60 general physicians and assistants randomly assigned to 
 - [Internet-based learning and traditional lecture produce no significant difference in CPR knowledge gains for physicians](ibl-tcl-no-knowledge-difference-cpr.md) — related
 - [Physicians learning CPR via IBL required substantially less time than the six-hour traditional lecture](ibl-time-savings-cpr-cme.md) — related
 - [Activity-based teaching produced significantly higher post-test achievement than traditional lecture instruction in a higher-secondary education course](abl-higher-posttest-achievement-than-lecture.md) — related
+- [Physicians using the same e-learning achieve significantly higher post-test theory scores than students](physicians-higher-posttest-than-students.md) — related

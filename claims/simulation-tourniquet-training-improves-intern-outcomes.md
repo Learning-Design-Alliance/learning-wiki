@@ -56,3 +56,4 @@ Prospective single-group pre-test/post-test study of 32 medical interns; Friedma
 - [Simulation training in VR or HFS significantly improves medical interns' self-reported confidence in managing oxygen desaturation](vr-hfs-desaturation-confidence-gain.md) — related
 - [Simulation-based learning at the start of a psychiatric rotation increases house officers' self-reported confidence in managing a medical emergency in a psychiatric hospital](simulation-training-increases-house-officer-confidence-psychiatric-emergencies.md) — a narrower finding that bears on this claim
 - [House officers report greater familiarity with psychiatric hospital emergency equipment after simulation training](equipment-familiarity-gain-psychiatric-simulation.md) — related
+- [VR-trained students reported significantly higher post-training confidence, while the control group showed no significant confidence change from baseline](vr-training-higher-confidence-chest-tube.md) — related

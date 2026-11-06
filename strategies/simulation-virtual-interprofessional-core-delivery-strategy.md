@@ -55,7 +55,8 @@ The review's synthesis found that "Educational programs incorporating realistic 
 - [A fully online interprofessional disaster simulation produced higher interprofessional collaborative skills than in-person cohorts](../claims/online-interprofessional-disaster-simulation-higher-collaborative-skills.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Build disaster nursing preparedness through a national competency framework, mandatory disaster modules, scenario-based simulation and leadership development](national-disaster-nursing-competency-framework-strategy.md)
 
 ## Examples
 -

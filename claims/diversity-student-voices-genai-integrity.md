@@ -79,3 +79,4 @@ The review reports Harrington et al. (2025) found that, despite identical instit
 - [Male students reported higher confidence in using VR simulation technology independently than female students](gender-gap-vr-confidence-orthodontics.md) — related
 - [Female students were more ethically sensitive than male students regardless of educational context group](females-more-ethically-sensitive.md) — related
 - [Student perceptions of AI technology may negatively influence satisfaction with synthetic voices](ai-perception-affects-satisfaction.md) — related
+- [In this Chinese medical-student sample, gender did not produce negative bias against female teachers, in contrast to findings reported from Western higher education](no-gender-bias-chinese-medical-set.md) — related

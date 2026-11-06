@@ -72,3 +72,4 @@ Univariate meta-regression investigating sources of the moderate heterogeneity i
 - [Each OSCE station score correlates strongly with the total OSCE score, with a pooled Pearson correlation of 0.71](pt-osce-station-total-correlation-strong.md) — related
 - [A strong, statistically significant positive correlation was observed between process-oriented and summative assessment scores (r = 0.892).](pbl-bridge-process-summative-correlation.md) — related
 - [The FVS system showed internal consistency of task scores (Cronbach's α = 0.781) in the Ghanaian setting](fvs-internal-consistency-cronbach-ghana.md) — related
+- [A seven-station virtual OSCE showed Cronbach's alpha of 0.67 across stations, with no station deletion improving alpha](virtual-osce-cronbach-alpha-067.md) — related

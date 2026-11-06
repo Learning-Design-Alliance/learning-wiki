@@ -71,3 +71,4 @@ Multivariable linear regression for total BLS knowledge score. The article repor
 - [Interns have higher baseline paediatric BLS knowledge than nurses](interns-higher-baseline-bls-knowledge-than-nurses.md) — related
 - [Doctors outscore nurses on BLS knowledge/practice in Gaza hospitals](doctors-outscore-nurses-bls-gaza.md) — related
 - [ACLS knowledge and skill retention is poor, dropping below 40 percent in physicians and 14 percent in nurses at one year](acls-skill-retention-poor-one-year.md) — related
+- [BLS competency is significantly associated with education level and professional rank, with bachelor's-degree nurses and professional nurses scoring higher](bls-competency-education-rank-association.md) — related

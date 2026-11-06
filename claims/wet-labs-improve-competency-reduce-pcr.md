@@ -46,3 +46,4 @@ The review attributes this to cited literature [13–15], reporting that wet lab
 
 ## Related Claims
 - [An intensive 5-day cataract surgery simulation program lowered posterior capsule rupture rates versus standard training, with competency gains normalizing by 15 months](cataract-simulation-lower-rupture-competency-normalizes.md) — related
+- [Simulation-based training helps reduce and mitigate surgical skill decay, but its role is not yet fully investigated](simulation-mitigates-surgical-skill-decay.md) — related

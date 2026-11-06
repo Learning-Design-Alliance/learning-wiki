@@ -74,3 +74,4 @@ The article reports, citing Shekari, relatively low ICT facility usage of "46%" 
 - [Most higher education educators report lacking institutional support and feeling unequipped for GenAI integration](educators-lack-institutional-genai-support.md) — related
 - [Choice of anatomy teaching strategies depends on institutional resource availability, with well-equipped institutions combining traditional and modern approaches](anatomy-teaching-strategies-resource-dependent.md) — related
 - [Large class size, inadequate classroom facilities, and low internet access are associated with low academic performance in Ethiopian higher education](facility-deficits-associated-low-performance.md) — related
+- [Missing facilities, infrastructure, and large class sizes impede PBL delivery](infrastructure-and-class-size-barriers-pbl-ethiopia.md) — a narrower finding that bears on this claim

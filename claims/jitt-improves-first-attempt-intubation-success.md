@@ -70,3 +70,4 @@ Multicentre RCT in which 65 residents performed 139 ETIs, comparing simulation-b
 - [Video-laryngoscopy assisted coaching improves first-attempt neonatal intubation success among trainees, though one curriculum study found worse outcomes for early learners taught with VL](vl-assisted-coaching-improves-neonatal-intubation-success.md) — related
 - [No significant difference in successful intubation rate or esophageal intubation rate before and after simulation training](simulation-no-significant-success-rate-change.md) — reports the opposite
 - [The mean number of attempts for successful intubation decreased from 3.81 before simulation training to 1.84 after the session (p<0.001), in one group with no comparison group](simulation-reduces-intubation-attempts.md) — related
+- [Second intubation attempts showed significantly reduced intubation time and perceived difficulty compared with first attempts](repeated-attempts-reduce-time-and-difficulty.md) — related

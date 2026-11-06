@@ -70,3 +70,4 @@ Tutor interview quote in the language barrier subtheme; the discussion describes
 - [Tutors reframed tutees' difficulties as stemming from unstable routines and ineffective study habits rather than specific content gaps](tutor-reframing-routines-not-content-gaps.md) — related
 - [Peer tutoring challenges included passive tutee study habits, lack of punctuality and commitment, and limited time for relationship building in online sessions](peer-tutoring-barriers-commitment-passive-learning.md) — related
 - [Peer tutoring enhanced tutees' understanding of complex subjects, exam performance and study strategies in a UAE undergraduate nursing program](peer-tutoring-tutee-academic-gains-nursing-uae.md) — related
+- [English-language video simulations posed a language barrier that impeded comprehension for Arabic-speaking nursing students](language-barrier-video-simulations-comprehension.md) — related

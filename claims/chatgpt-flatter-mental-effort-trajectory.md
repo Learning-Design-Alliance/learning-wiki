@@ -80,3 +80,4 @@ Same mixed-model confirmatory test applied to Paas difficulty ratings. The inter
 - [Cognitive load during the IVR-based PVAS task was generally low despite unsatisfactory perception and interpretation performance](ivr-pvas-low-cognitive-load-poor-performance.md) — related
 - [Intervention group reports higher perceived difficulty, reasoning improvement, engagement, self-efficacy, and course material evaluation](genai-cbl-subjective-experience.md) — related
 - [Perceived cognitive load did not differ significantly across instructional conditions and did not moderate the fading effect](cognitive-load-no-condition-differences.md) — related
+- [ChatGPT-assisted skill learning produces lower cognitive load than video-only learning, measured by change in pupil diameter](chatgpt-assisted-learning-lowers-cognitive-load-pupil-diameter.md) — related

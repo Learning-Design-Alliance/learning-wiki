@@ -80,3 +80,4 @@ The consensus statement enumerates social, emotional, and academic capacities to
 - [Belonging is a prerequisite for effective collaborative learning, not merely a positive outcome](belonging-prerequisite-for-collaborative-learning.md) — a narrower finding that bears on this claim
 - [The review proposes that embodied language learning engages learners holistically while promoting language skills and adding emotional and motivational benefits](embodied-language-learning-holistic-engagement-emotional-benefits.md) — a narrower finding that bears on this claim
 - [Goal-setting interventions with action plans and public commitment improved academic performance (review-reported)](goal-setting-intervention-academic-performance-gains.md) — a narrower finding that bears on this claim
+- [All five academic identity dimensions significantly predict academic performance, led by academic commitment (β = 0.648)](identity-dimensions-predict-performance-jiroft.md) — related

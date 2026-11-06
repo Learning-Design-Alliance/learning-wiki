@@ -54,3 +54,4 @@ Cross-sectional survey of 2,017 healthcare professionals in tertiary, secondary,
 - [Defibrillation-related knowledge had the lowest domain-specific accuracy among BLS knowledge domains.](defibrillation-knowledge-lowest-domain-accuracy.md) — related
 - [The proportion of participants meeting the 80% knowledge competency threshold rose from 18% pre-training to 82% post-training, and 94% met practical competencies after training, in one uncontrolled pre-post study](pr-training-competency-threshold-attainment.md) — related
 - [Only 26.0% of surveyed dentists in Saudi Arabia demonstrated good knowledge of BLS/CPR, with 41.0% moderate and 33.0% low knowledge](quarter-dentists-saudi-good-bls-knowledge.md) — related
+- [Nurses at Cape Town district hospitals show very low BLS knowledge and skill scores, with only 3.0% reaching the 80% knowledge threshold](nurses-district-hospital-low-bls-competency.md) — related

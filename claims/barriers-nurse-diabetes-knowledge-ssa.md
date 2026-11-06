@@ -56,3 +56,4 @@ The review reports barriers identified in included studies, quoting that "Barrie
 - [Included e-learning programs were short (45 minutes to 4 hours), supporting feasibility of integration into hospital orientation or refresher training](short-elearning-durations-feasible-for-hospital-training.md) — related
 - [Time constraints, patient expectations, and lack of relevant evidence are widely reported barriers to EBM in general practice](barriers-to-ebm-in-general-practice.md) — related
 - [Lack of time and institutional resource constraints are reported as major barriers to EBP competence among TCM specialist nurses, in both grassroots and tertiary hospitals](time-and-resource-barriers-tcm-nurse-ebp.md) — related
+- [Manager development training courses face challenges including theory-orientation, unknown effectiveness, and inadequate content](development-course-effectiveness-unknown-challenges.md) — related

@@ -54,3 +54,4 @@ Quasi-experimental study using Champion's revised Health Belief Model Scale (63 
 - [After the program, 88.5% of students stated they would go to a doctor upon discovering a breast problem, a highly statistically significant change](bse-education-improved-referral-intention.md) — related
 - [A student-led breast cancer awareness workshop significantly improved total breast cancer knowledge scores among female secondary school students.](student-led-bc-campaign-significant-knowledge-gains-adolescents.md) — related
 - [The PBL-KAP-AI model improves health beliefs in breast cancer patients more than conventional health education](pbl-kap-ai-improves-health-beliefs.md) — related
+- [Simulation-based breast health education significantly increased confidence, skills, and behavioral awareness related to breast cancer among Afghan refugee women compared to the control group](simulation-education-confidence-behavior-increase.md) — related

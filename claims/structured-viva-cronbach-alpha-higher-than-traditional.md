@@ -48,3 +48,5 @@ Narrative synthesis of reliability data from the 24 included studies. The review
 ## Related Claims
 - [Structured oral examinations show higher reliability than traditional formats, with median Cronbach's alpha of 0.75 across studies](soe-outperform-traditional-reliability.md) — a broader claim this one bears on
 - [Structured viva shows positive significant correlations with standard assessment tools (MCQs, OSCE, structured theory exam) while traditional viva does not correlate significantly with the structured theory exam](structured-viva-validity-correlations-standard-tools.md) — related
+- [The hybrid viva-voce format demonstrated higher inter-examiner consistency, correlation, and reliability (Cronbach's α = 0.663) than the structured and traditional formats](hybrid-viva-highest-inter-examiner-consistency.md) — related
+- [Students rated the structured viva-voce more positively than the traditional viva-voce, particularly in content coverage and clarity of objectives](structured-viva-rated-higher-than-traditional.md) — related

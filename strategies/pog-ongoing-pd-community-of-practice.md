@@ -44,6 +44,7 @@ The brief states the success of a POG will likely hinge on the ongoing professio
 - [Support faculty AI literacy through needs assessment, targeted training, teaching resources, and communities of practice](faculty-development-ai-literacy-support.md)
 - [Use a community of practice to collaboratively develop university-wide online orientation resources](community-of-practice-collaborative-orientation-development.md)
 - [Invest in facilitator development and interdisciplinary collaboration to scale VR-based simulation learning](facilitator-development-interdisciplinary-collaboration-scaling-strategy.md)
+- [Structured cross-disciplinary faculty training, leadership resource allocation, and dedicated administrative support to overcome interdisciplinary implementation barriers](faculty-training-resources-admin-support-interdisciplinary.md)
 
 ## Examples
 -

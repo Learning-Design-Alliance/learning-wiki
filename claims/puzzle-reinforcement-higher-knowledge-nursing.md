@@ -48,3 +48,4 @@ Cluster-randomized pretest–posttest trial with 70 first-year nursing students 
 - [Puzzle-based reinforcement is associated with higher post-test motivation toward instructional materials than no reinforcement](puzzle-reinforcement-motivation-imts.md) — related
 - [Knowledge scores increased in the intervention group but decreased in the control group over the study week](knowledge-gains-intervention-decline-control.md) — a narrower finding that bears on this claim
 - [Regression analysis shows puzzle application significantly predicts knowledge and motivation scores](regression-puzzle-application-predictors.md) — related
+- [Puzzle-based teaching substantially increases nursing students' knowledge test scores compared with lecture-only instruction](puzzle-teaching-increases-nursing-knowledge.md) — possibly the same claim (merge candidate)

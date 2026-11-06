@@ -66,3 +66,4 @@ Interview finding from the concerns subcategory; participants noted that "connec
 - [89% of teachers believe digital materials should be visible, open and free on the Internet, and 77.6% believe public administration should create and publish more online materials.](escuela2-digital-materials-open-free.md) — related
 - [Technical problems with computers and networks are a downside of e-learning implementation](technical-problems-downside-elearning.md) — related
 - [Implementation of student-formulated strategies was limited for actions outside students' governance scope, and infrastructure challenges require sustained financial and institutional support.](governance-and-resource-limits-on-student-strategies.md) — related
+- [Missing facilities, infrastructure, and large class sizes impede PBL delivery](infrastructure-and-class-size-barriers-pbl-ethiopia.md) — related

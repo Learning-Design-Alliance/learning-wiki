@@ -54,6 +54,7 @@ The article recommends adopting clinical simulation with published, validated sc
 
 - [Enhance SBLE quality by applying standards, specifying objectives, using externally validated scenarios, and employing rigorous evaluation](four-recommendations-quality-sble-communication.md)
 - [Integrate validated virtual simulation scenarios into nursing curricula and continuing education for Standard Precautions training](integrate-validated-virtual-scenarios-nursing-curricula-strategy.md)
+- [Develop virtual clinical simulations through the five Contextualized Instructional Design stages with expert nurse participation](cid-stages-virtual-simulation-development-strategy.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Analysis of the JCC sample teachers' questionnaires (14 teachers) on technology,
 - [General English teachers hold positive perceptions of e-learning, though some institutions lack the infrastructure to use sophisticated electronic tools](teachers-positive-perceptions-elearning-saudi.md) — related
 - [Colleges adopted new technology platforms to increase efficiencies, but face challenges sustaining their use after the grant ends](technology-platforms-efficiency-adoption-sustainability-challenge.md) — related
 - [Partially online courses were rated as more satisfactory than exclusively online courses](partially-online-more-satisfactory.md) — related
+- [Evidence on puzzle-based teaching is mixed in the wider literature: some studies find no knowledge-score benefit and one found lectures outperformed online puzzles](puzzle-teaching-literature-mixed.md) — related

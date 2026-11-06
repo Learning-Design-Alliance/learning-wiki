@@ -61,3 +61,4 @@ In the same interview study's autonomy theme, participants described AI providin
 - [Participants most valued flexibility of when and where to study, alongside vocabulary access and constant progress monitoring, as benefits of online applications](flexibility-top-perceived-benefit-apps.md) — related
 - [Students perceive DPBL tasks as providing ownership, autonomy, and flexibility](dpbl-tasks-ownership-autonomy-flexibility.md) — related
 - [Students reported that coaching enhanced their self-determination in five ways, including autonomy, self-awareness, self-esteem, goal effectiveness, and realistic goal setting](coaching-enhances-self-determination-five-ways.md) — related
+- [Students report structured self-assessment stimulates self-judgement, learning monitoring, motivation, tutorial performance, and awareness of external feedback in PBL](self-assessment-qualitative-five-themes-pbl.md) — related

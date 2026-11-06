@@ -49,6 +49,8 @@ The review recommends allocating more time and resources for nutrition within cl
 
 - [Adopt a dietitian–clinician co-teacher model and multidisciplinary teaching teams to clarify roles and increase appropriate referrals](dietitian-clinician-co-teacher-model.md)
 - [Integrate nutrition throughout medical training using a vertical spiral curriculum with practical teaching methods such as cooking lessons](vertical-spiral-nutrition-curriculum.md)
+- [Increase dedicated women's nutrition training hours and interventions in ObGyn specialty programs](dedicated-nutrition-training-obgyn-residency.md)
+- [Pair ObGyn nutrition training with multidisciplinary dietitian support while building residents' own counseling capacity](multidisciplinary-nutrition-support-obgyn-counseling.md)
 
 ## Examples
 -

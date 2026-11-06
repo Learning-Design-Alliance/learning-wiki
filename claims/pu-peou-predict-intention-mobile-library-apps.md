@@ -54,3 +54,4 @@ SEM path analysis of survey data from 340 MLA users reports that "PEOU had an ef
 - [Perceived ease of use is a robust predictor, positively and significantly influencing students' attitudes towards CSCL and their perceptions of usefulness](ease-of-use-predicts-attitude-and-usefulness-cscl.md) — related
 - [Perceived usefulness and perceived ease of use of GenAI tools significantly predict teachers' attitudes and behavioural intention](usefulness-ease-predict-attitude-intention-genai.md) — related
 - [Service quality positively influences perceived usefulness but not perceived ease of use of m-learning apps outside the classroom](service-quality-predicts-pu-not-peou.md) — related
+- [Perceived ease of use was the strongest predictor of both perceived usefulness (β = 1.02) and behavioral intention to use 3D Organon (β = 1.01)](ease-of-use-strongest-predictor-usefulness-intention.md) — related

@@ -54,3 +54,4 @@ Discussion of follow-up evidence across included studies. The shortest follow-up
 - [Knowledge and self-efficacy scores remained stable, while attitude scores slightly decreased from post-test to two-month follow-up among medical interns in one uncontrolled pre-post study](knowledge-self-efficacy-attitude-retention.md) — related
 - [A one-on-one TCT refresher training delivered 6–9 months after the original course was highly valued by participants, with 83% believing it should become standard practice](tct-refresher-training-highly-valued-by-trainers.md) — related
 - [ACLS knowledge and skill retention is poor, dropping below 40 percent in physicians and 14 percent in nurses at one year](acls-skill-retention-poor-one-year.md) — reports the opposite
+- [Knowledge declined at 3 and 6 months in both groups but significantly more in the theory-only group, which reverted to near pre-training levels (45.4%)](knowledge-declines-faster-in-theory-only-group.md) — related

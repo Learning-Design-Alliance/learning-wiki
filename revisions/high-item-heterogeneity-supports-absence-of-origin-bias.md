@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/high-item-heterogeneity-supports-absence-of-origin-bias.md
+---
+
+# Revision history: [claims/high-item-heterogeneity-supports-absence-of-origin-bias](../claims/high-item-heterogeneity-supports-absence-of-origin-bias.md)
+
+### 2026-11-06 · ingest · process:wiki-ingest
+Ingested from pmc-12148128 (Absence of item origin bias on a Brazilian interinstitutional Progress Test examination: A pooled analysis of items approach.) via eval_harness.py + ingest_extractions.py

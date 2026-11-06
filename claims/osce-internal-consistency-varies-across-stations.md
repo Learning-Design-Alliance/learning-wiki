@@ -49,3 +49,4 @@ Internal-consistency analysis of station scores from 36 students in the 15-stati
 - [Cronbach's alpha values for OSCE scores vary widely across studies, ranging from 0.43 to 0.93, with most studies not reaching good internal consistency](osce-cronbach-alpha-wide-variability.md) — related
 - [Correlations between different OSCE station scores are weak, with a pooled Pearson correlation of 0.27](pt-osce-station-station-correlation-weak.md) — related
 - [OSCE scores across three virtual-patient stations show low reliability (Cronbach's alpha 0.415)](vp-low-reliability-osce.md) — related
+- [A seven-station virtual OSCE showed Cronbach's alpha of 0.67 across stations, with no station deletion improving alpha](virtual-osce-cronbach-alpha-067.md) — related

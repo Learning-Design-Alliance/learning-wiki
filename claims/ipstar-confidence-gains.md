@@ -51,3 +51,5 @@ Paired Likert survey (n = 72, Wilcoxon signed rank test) administered before and
 - [Interprofessional mass casualty incident simulation increased disaster-response confidence in 96% of participating pre-licensed nursing students](mass-casualty-simulation-confidence.md) — related
 - [Knowledge test scores rose from pre-test median 6 to post-test median 8 after RCDP-within-TeamSTEPPS interprofessional simulation, in one uncontrolled pre-post study](ipstar-mcq-knowledge-gain.md) — related
 - [Participants gave strong endorsement to IP-STAR, with median feedback scores above 4 across content, collaboration, skill development and educational value](ipstar-positive-feedback.md) — related
+- [Satisfaction gains concentrate in theoretical understanding, difficult airway management confidence and clinical decision-making](apnea-duration-satisfaction-domain-gains.md) — related
+- [RCDP pediatric resuscitation simulation significantly increases multidisciplinary staff self-reported confidence in providing high-quality CPR and managing airway, breathing, and circulation in the first 3 minutes of a code](rcdp-simulation-increases-first-responder-confidence.md) — related

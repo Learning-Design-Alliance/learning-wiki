@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 557 claims (298 show a difference, 117 mixed, 142 no difference) · 393 studies (182 associational, 152 causal, 20 review, 16 quant-synthesis, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 59 of 393 report an effect size · 549 claims rest on one study
+> **Evidence** · 560 claims (301 show a difference, 117 mixed, 142 no difference) · 396 studies (184 associational, 153 causal, 20 review, 16 quant-synthesis, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 59 of 396 report an effect size · 552 claims rest on one study
 
 ## How to read this page
 
@@ -596,6 +596,9 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Female nursing students report lower psychological safety, particularly interpersonal risk, than male students after simulation-based assessments](../claims/female-students-lower-psychological-safety-interpersonal-risk.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Male nursing students report lower perceived simulation fidelity than female students, despite no overall gender difference in perceived design features](../claims/male-students-lower-perceived-fidelity.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Same-sex pairs of relatives are slightly but systematically more correlated on school performance than opposite-sex pairs](../claims/same-sex-pairs-slightly-more-correlated.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female students achieved higher MSE accuracy than male students across intervention groups](../claims/sex-difference-mse-accuracy-females-higher.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Girls report higher academic performance than boys, by about 5 percentage points in mathematics and 13 in language](../claims/girls-outperform-boys-math-language-grades.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Male students showed significantly higher overall satisfaction and attitude toward TBL than female students](../claims/male-students-higher-tbl-satisfaction-attitude.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

@@ -57,3 +57,4 @@ Theme 3 faculty interview data on cultural shifts in learning priorities; facult
 - [Organizational issues, limited simulation capacity, and restricted access are major barriers to simulation-based learning reported by Rwandan medical students](organizational-capacity-access-barriers-simulation.md) — related
 - [Barriers to clinical medical education in Iran cluster into three themes: ineffective management, limited focus on socially responsive physicians, and shifts in professional perspectives.](three-themes-clinical-education-barriers-iran.md) — related
 - [KFQ-based TBL cases push students toward choosing wisely and committing to decisions as a parallel to real-life patient care](kfq-tbl-choosing-wisely-commitment-decisions.md) — a narrower finding that bears on this claim
+- [English-language video simulations posed a language barrier that impeded comprehension for Arabic-speaking nursing students](language-barrier-video-simulations-comprehension.md) — related

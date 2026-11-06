@@ -42,7 +42,8 @@ The eMINTS professional development model delivers intensive, extended face-to-f
 - integrating technology into classroom teaching
 
 ## Related Strategies
-- 
+
+- [Run multi-cycle faculty development workshops on student assessment using active teaching–learning strategies](fd-workshop-cycles-active-strategies-strategy.md)
 
 ## Examples
 -

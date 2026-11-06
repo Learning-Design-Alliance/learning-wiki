@@ -59,3 +59,6 @@ Single-factor repeated-measures ANOVA for the 32 experimental-group students; me
 - [Science concept gains from keyword strategy instruction are retained six weeks after instruction ends](keyword-strategy-gains-retained-six-weeks.md) — related
 - [Teachers using We Have Skills! show greater improvement in self-efficacy than control teachers](whs-teacher-self-efficacy-improvement.md) — related
 - [Clinical self-efficacy improves within all training groups but shows no significant between-group differences](clinical-self-efficacy-improves-within-all-groups-no-between-group-difference.md) — related
+- [Puzzle-based teaching increases academic self-efficacy in nursing students](puzzle-teaching-increases-academic-self-efficacy.md) — related
+- [NPs in the SNPCOHS program scored significantly higher than the comparison group on professional attributes, knowledge, skills, and perceived self-efficacy at both week 4 and week 8](snpcohs-higher-than-comparison-week4-week8.md) — related
+- [Within the experimental group, scores rose significantly from baseline to week 4 and week 8, with no significant change between week 4 and week 8; the comparison group showed no significant changes over time](snpcohs-within-group-gains-sustained-to-week8.md) — related

@@ -48,3 +48,4 @@ Qualitative interview study of 12 first-year medical students; thematic analysis
 - [Students perceived that HoloLens increased engagement, but immersion was fragile and contingent on technical reliability and physical comfort](hololens-engagement-fragile-immersion.md) — related
 - [Students perceived the educational value of HoloLens as dependent on usability, learner control, and curricular integration](hololens-value-depends-on-implementation.md) — related
 - [Students reported that HoloLens made anatomy spatially intelligible but not fully realistic, describing holograms as simplified or cartoon-like](hololens-spatial-intelligibility-not-realism.md) — related
+- [Students overwhelmingly support VR as a supplementary anatomy learning tool but a majority do not see it fully replacing physical labs](students-support-vr-supplement-not-replacement.md) — related

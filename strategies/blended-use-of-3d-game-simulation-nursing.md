@@ -48,6 +48,7 @@ Because the 3D animation-supported game simulation yielded comparable academic a
 ## Related Strategies
 
 - [Integrate virtual and augmented reality as supplementary tools rather than full replacements for traditional learning methods](integrate-vr-ar-as-supplementary-tools.md)
+- [Integrate e-learning and game-based approaches into nursing education to leverage the strengths of both methods](integrate-elearning-and-game-based-nursing-education.md)
 
 ## Examples
 -

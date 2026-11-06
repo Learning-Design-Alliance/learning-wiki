@@ -71,3 +71,5 @@ Tutee interview data in the hesitancy and emotional issues subtheme; participant
 - [Tutees in the program reported improvements in study methods, time management, motivation, and confidence, with high satisfaction and willingness to recommend](tutee-descriptive-survey-improvements.md) — related
 - [Students experience anxiety and nervousness during simulation but recognize emotional regulation as central to safe patient interaction](simulation-emotional-regulation-anxiety.md) — related
 - [Students' emotions evolve positively across simulation-based experience, from initial nervousness toward calm, control, and self-confidence](positive-emotional-evolution-across-simulation.md) — related
+- [Students initially experienced hesitance and performance anxiety in role-play, which diminished over time as they gained skills](role-play-initial-hesitance-anxiety.md) — related
+- [Students' lack of confidence in problem-solving skills reduces active participation in PBL](student-confidence-problem-solving-pbl-participation.md) — related

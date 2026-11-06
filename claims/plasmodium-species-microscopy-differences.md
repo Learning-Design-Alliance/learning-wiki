@@ -47,3 +47,5 @@ Microscopic examination component (30 points) of the practical skills assessment
 ## Related Claims
 - [Theoretical knowledge scores differ significantly across parasite species, with Plasmodium spp. highest (82.22%) and other species lowest (53.31%)](species-knowledge-score-differences-hainan.md) — related
 - [Parasite egg detection rates varied widely, from roundworm highest at 82.61% to Schistosoma japonicum lowest at 5.89%](egg-detection-rate-range-hainan.md) — related
+- [Baseline malaria microscopy competency was low among Hunan CDC microscopists, with species identification accuracy averaging only 14.58% and 75% of participants having received no malaria microscopy training in the preceding 5 years](baseline-microscopy-gaps-post-elimination-cdcs.md) — related
+- [The predominant diagnostic error in the training assessments was interspecies confusion, notably misidentifying Plasmodium ovale as Plasmodium malariae (20.8% of errors)](interspecies-confusion-predominant-microscopy-error.md) — related

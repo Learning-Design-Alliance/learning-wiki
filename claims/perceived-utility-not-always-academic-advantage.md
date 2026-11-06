@@ -55,3 +55,4 @@ In Anand et al.'s 3-hour neuroanatomy session study, the Anatomage group reporte
 - [Most reviewed studies found active learning improved satisfaction and knowledge acquisition and was superior to traditional lectures](active-learning-superior-lectures-dental-classroom.md) — related
 - [A statistically significant majority of postgraduate dental students reported improved clinical confidence (67%) and satisfaction with the VDT lecture (96%)](vdt-clinical-confidence-lecture-satisfaction.md) — related
 - [In open-ended feedback, 83% of postgraduate dental students stated they had no further suggestions and were satisfied with the VDT sessions](vdt-open-ended-feedback-no-suggestions.md) — related
+- [Postgraduates showed lower acceptance of the new periodic assessment method than advanced students, though the group difference was not statistically significant](postgraduates-lower-acceptance-periodic-assessment.md) — related

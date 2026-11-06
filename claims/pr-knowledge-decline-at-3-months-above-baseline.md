@@ -64,3 +64,4 @@ Of 17 completers, 13 (76%) completed the 3-month follow-up. Wilcoxon signed-rank
 - [Quarterly follow-up training does not sustain providers' HBB knowledge at 9 months](quarterly-followup-insufficient-knowledge-retention.md) — related
 - [Guess rates fell after training and rose again at 3 months, while self-reported confidence improved across groups](guess-rates-confidence-shift-after-elearning.md) — related
 - [EEG total score gains declined by the 3-month retention test but remained above pretest levels](poceeg-skill-retention-declines-but-persists-3-months.md) — possibly the same claim (merge candidate)
+- [Knowledge gains persisted one month post-intervention despite a slight decline, remaining above pre-intervention levels](knowledge-gains-persisted-one-month-post-intervention.md) — related

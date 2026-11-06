@@ -49,3 +49,4 @@ Descriptive post-course survey responses from six residents. Table 4 shows five 
 - [The review reports that most UK medical students receive less than 2 hours of nutrition education and that 75% of US medical schools have no required clinical nutrition classes](msad-insufficient-nutrition-curriculum-time.md) — related
 - [An online nutrition course increased family medicine residents' nutrition knowledge test scores (p = 0.027) in a small pre-post study](online-nutrition-course-knowledge-increase-residents.md) — related
 - [Most surveyed family medicine residents reported receiving inadequate nutrition training and believed additional training would help their clinical care](residents-inadequate-nutrition-training-perception.md) — related
+- [Most surveyed ObGyn residents report insufficient curriculum time for women's nutrition and would value training on the topic](residents-report-insufficient-nutrition-curriculum-time.md) — related

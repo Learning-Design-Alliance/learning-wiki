@@ -52,3 +52,4 @@ In this RCT, XR-group participants completed a cybersickness questionnaire; "Mod
 - [VR use in anatomy learning can cause adverse effects and disorientation for some learners](vr-anatomy-adverse-effects-cybersickness.md) — related
 - [Reported barriers to the VR session include headset ergonomics and occasional motion sickness](vr-barriers-headset-ergonomics-motion-sickness.md) — related
 - [Remote AR headset use imposes minimal reported ergonomic burden and no adverse events in neonatal resuscitation simulation](remote-ar-simulation-ergonomics-adverse-events.md) — related
+- [AR-based anatomy learning is associated with fewer adverse health symptoms overall than traditional learning, except for blurred vision](ar-fewer-adverse-symptoms-except-blurred-vision.md) — related

@@ -53,3 +53,4 @@ Thematic analysis finding from Table 3, with more explicit expressions of emotio
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related
 - [LLM-based standardized virtual patient responses are largely authentic in dental history-taking simulations](llm-virtual-patients-largely-authentic-dialogue.md) — related
 - [LLM-based virtual patients never ask for clarification of ambiguous questions, tending to provide overly detailed responses](never-ask-clarification-overly-detailed-responses.md) — related
+- [Verisimilitude limitations—absent visual, tonal, and nonverbal cues and lack of rapport—persisted as a limiting factor for all students using ChatGPT as a standardized patient](verisimilitude-limits-chatgpt-sp.md) — related

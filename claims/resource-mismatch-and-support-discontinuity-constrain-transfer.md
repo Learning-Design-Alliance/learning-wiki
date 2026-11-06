@@ -126,3 +126,7 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Faculty and students report that inadequate physical facilities and restricted human resources limit clinical learning in Iranian teaching hospitals.](limited-resources-clinical-education-iran.md) — related
 - [Facilitators report CBL carries a heavy time commitment relative to didactic teaching, with concerns about excessive workload](cbl-facilitator-time-commitment-concerns.md) — related
 - [Organisational factors, including insufficient allocated time and incomplete teams, hindered effective EVT simulation training](organisational-barriers-evt-simulation.md) — a narrower finding that bears on this claim
+- [Manager development training courses face challenges including theory-orientation, unknown effectiveness, and inadequate content](development-course-effectiveness-unknown-challenges.md) — related
+- [Poor educator knowledge, unfavorable attitudes, and lack of careful planning impede PBL](educator-knowledge-attitude-planning-barriers-pbl.md) — related
+- [Time constraints were the main barrier to the intervention, while facilitator feedback and hospital leadership commitment sustained provider motivation](eenc-time-barrier-feedback-leadership-enablers.md) — related
+- [Nurse educators report high workload and insufficient time as barriers to PBL implementation](nurse-educator-workload-time-barrier-pbl.md) — related

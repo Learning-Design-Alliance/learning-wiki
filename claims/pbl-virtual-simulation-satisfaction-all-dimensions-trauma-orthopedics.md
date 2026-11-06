@@ -73,3 +73,4 @@ Dimension-level teaching satisfaction results in the same assessor-blinded RCT o
 - [Nursing interns in the PBL group reported significantly higher teaching satisfaction than the traditional teaching group (P = 0.003)](pbl-higher-teaching-satisfaction-nursing-interns.md) — related
 - [BOPPPS-CBL students self-report significantly greater learning effects across all five measured dimensions](boppps-cbl-higher-learning-effect-self-ratings.md) — related
 - [ChatGPT-guided PBL residents reported higher teaching satisfaction and self-assessed teaching effectiveness than controls](chatgpt-pbl-higher-satisfaction-effectiveness.md) — related
+- [Symptom-focused CBL residents reported significantly higher satisfaction than controls across five competencies including clinical reasoning and documentation quality](limited-mouth-opening-cbl-higher-satisfaction-competencies.md) — related

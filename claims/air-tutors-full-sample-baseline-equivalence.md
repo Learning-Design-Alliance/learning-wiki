@@ -56,3 +56,4 @@ Baseline balance analysis for the full analytic sample (1,049 treatment students
 - [vPLC-augmented ASSISTments did not significantly improve overall middle school math achievement relative to a virtual comparison group](vplc-assistments-no-significant-overall-effect.md) — related
 - [The Irûmi robot-based program improved second-graders' computational thinking scores by 0.089 standard deviations in Paraguay](irumi-ct-score-effect-0-089-sd.md) — related
 - [Before implementation, treatment students performed significantly below control students on the standardized reading test](core5-treatment-pretest-disadvantage.md) — reports the opposite
+- [Baseline characteristics and baseline outcome scores did not differ significantly between the experimental and comparison groups](snpcohs-baseline-equivalence-no-significant-differences.md) — related

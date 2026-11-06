@@ -55,3 +55,4 @@ The review reports, in its well-being section, that "Grit is considered to be on
 - [Academic grit mediates a positive indirect effect of growth math mindset on math achievement](grit-mediation-growth-math-mindset-achievement.md) — related
 - [Positive psychology enhances SL/FL learning engagement and well-being](pp-enhances-engagement-and-wellbeing.md) — related
 - [Positive psychology interventions improve SL/FL learning performance, engagement and well-being](pp-interventions-improve-language-performance.md) — related
+- [Engagement is the only well-being element not significantly correlated with L2 achievement, while both grit dimensions correlate significantly positively with it](engagement-not-correlated-l2-achievement.md) — a narrower finding that bears on this claim

@@ -39,7 +39,8 @@ The study identifies essential institutional conditions for successful CA integr
 - evidence-based continuous improvement of teaching and learning outcomes
 
 ## Related Strategies
-- 
+
+- [Structured cross-disciplinary faculty training, leadership resource allocation, and dedicated administrative support to overcome interdisciplinary implementation barriers](faculty-training-resources-admin-support-interdisciplinary.md)
 
 ## Examples
 -

@@ -57,3 +57,5 @@ Post-intervention sub-score comparison in the same quasi-randomized study: singl
 - [Students taught pulmonary imaging with CBL-FC scored higher than an LBL group on application of imaging principles and diagnostic reasoning, in a quasi-randomized comparison where CBL-FC also added peer interaction](cbl-fc-improves-application-and-diagnostic-reasoning.md) — related
 - [EBM-BOPPPS and BOPPPS groups showed no significant difference in foundational neurology MCQ scores](ebm-boppps-mcq-no-difference.md) — related
 - [No statistically significant difference between the BOPPPS and traditional teaching groups on multiple-choice (theoretical) question scores](boppps-his-no-difference-multiple-choice.md) — related
+- [Symptom-focused CBL and conventional CBL produce no significant difference in dental residents’ theoretical knowledge of TMD](limited-mouth-opening-cbl-no-theoretical-knowledge-difference.md) — related
+- [Theoretical training alone raised PPH knowledge similarly in both randomized groups immediately post-training, with no significant difference (p = 0.285)](theory-only-training-raises-mcq-immediately-equally.md) — related

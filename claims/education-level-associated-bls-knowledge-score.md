@@ -56,3 +56,5 @@ Multivariable linear regression on 2,017 responses with college-or-below as refe
 - [Higher formal education was not associated with better nutritional knowledge; Bachelor's degree holders scored significantly worse than university‐diploma holders](education-not-linked-to-nutrition-knowledge.md) — related
 - [Doctors outscore nurses on BLS knowledge/practice in Gaza hospitals](doctors-outscore-nurses-bls-gaza.md) — related
 - [Junior college–trained practitioners perceived lower school–clinical alignment in root canal treatment education than bachelor's and master's degree holders](junior-college-lower-perceived-rct-alignment.md) — related
+- [BLS competency is significantly associated with education level and professional rank, with bachelor's-degree nurses and professional nurses scoring higher](bls-competency-education-rank-association.md) — related
+- [Any form of BLS training and current certification are associated with higher competency, while experience and CPR frequency are not](bls-training-certification-competency-association.md) — related

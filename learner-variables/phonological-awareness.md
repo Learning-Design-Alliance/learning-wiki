@@ -13,7 +13,7 @@ generated:
 # Phonological Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 112 claims (71 show a difference, 18 mixed, 23 no difference) · 67 studies (27 associational, 25 causal, 7 quant-synthesis, 5 review, 2 design, 1 theoretical), `q1`–`q3` · 18 of 67 report an effect size · 110 claims rest on one study
+> **Evidence** · 113 claims (71 show a difference, 18 mixed, 24 no difference) · 68 studies (28 associational, 25 causal, 7 quant-synthesis, 5 review, 2 design, 1 theoretical), `q1`–`q3` · 18 of 68 report an effect size · 111 claims rest on one study
 
 ## Description
 Phonological awareness is the ability to hear and manipulate the sound structure of spoken words: recognising rhymes, splitting words into syllables and individual sounds (phonemes), and blending sounds into words. The broader term phonological processing, which this page also covers, includes detecting and handling speech sounds rapidly in both spoken and written words and holding sound information briefly in memory. These skills are measured with tasks such as rhyming, blending (combining separate sounds into a word), elision (saying what remains when a sound is removed) and phoneme manipulation.
@@ -153,6 +153,7 @@ It sits within the wiki's broader [reading and language](reading-and-language.md
 - [Common serious mispronunciations of Indonesian learners were reported alongside absent L1 phonemes and different sound categorisation in the L1](../claims/l1-absence-and-categorization-cause-mispronunciations.md) [+W] — learners who differ on it differ in outcomes
 - [Indonesian EFL learners' knowledge of the target English phonemes rose significantly from pretest to posttest after QDPR, in one uncontrolled pretest-posttest study](../claims/qdpr-improved-phoneme-knowledge.md) [+M] — scores rose during instruction, with no comparison group
 - [17 of 28 correlational studies reported significant correlations between phonological/phonemic awareness skills and reading comprehension in deaf readers](../claims/pa-ps-correlations-reading-comprehension-deaf.md) [~M] — learners who differ on it differ in outcomes
+- [Phoneme Segmentation Fluency added little to predicting end-of-year Word Reading Fluency: non-significant in the multiple regressions, with one grade 1 mid-year hierarchical model at p = .032](../claims/psf-limited-predictive-value-wrf.md) [-W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **The Phonological Awareness Test 2 (PAT 2)** (Robertson & Salter, 2007): covers rhyming and detecting and manipulating phonemes, ages 5 to 9.

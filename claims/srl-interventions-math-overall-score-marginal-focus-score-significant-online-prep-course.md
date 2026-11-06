@@ -86,3 +86,4 @@ A second MANOVA replaced the overall score with a focus score on ten chapters ea
 - [Learning plans helped students as a framework and focus for learning, but effects were limited to setting a wide range of learning objectives and increased focus](learning-plans-effects-limited-goal-setting.md) — related
 - [THEA score gains did not differ significantly across the five semester/year administrations of the FOCUS Intervention](focus-thea-gains-no-semester-interaction.md) — related
 - [The group-by-exposure interaction was statistically significant for both mathematics and reading comprehension](hpsf-group-exposure-interaction-significant.md) — related
+- [Group×time interactions were significant for all four outcomes in two-way repeated measures ANOVA](snpcohs-group-time-interaction-significant.md) — related

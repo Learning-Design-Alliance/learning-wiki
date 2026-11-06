@@ -64,3 +64,4 @@ Systematic review (PRISMA) of PubMed and Embase to May 2022; 1322 articles scree
 - [Surgical simulators are highly effective and valuable for residents to practice technical maneuvers in rhinoplasty.](surgical-simulators-effective-rhinoplasty-technical-practice.md) — a narrower finding that bears on this claim
 - [Simulation training's advantage is concentrated in the technically demanding views 5–11, with no significant difference on the first four basic mid-esophageal views](simulation-advantage-limited-to-demanding-views-5-11.md) — a narrower finding that bears on this claim
 - [Robotic simulation training improves surgical skill acquisition, with progressive competency-based training raising competence rates in junior residents](robotic-simulation-competency-training.md) — related
+- [Technical operative skills are the surgical skills most adversely affected by time out of training](technical-operative-skills-most-affected-by-time-out.md) — related

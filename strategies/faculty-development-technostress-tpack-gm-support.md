@@ -52,6 +52,7 @@ Based on the model's findings, the article recommends that universities establis
 - [Institutional support package: professional development, technical support, engagement strategies, and assessment reform](institutional-support-technology-integration-strategy.md)
 - [Universities combine responsible AI use guidelines, accessible technical support, AI literacy training, and assessment-embedded critical evaluation activities to address AI learning anxiety](institutional-support-package-for-ai-learning-anxiety.md)
 - [Four-part support strategy: mindset interventions, grit-building tasks, adaptability support, and PGI-promoting growth opportunities](four-part-mindset-grit-adaptability-pgi-support-strategy.md)
+- [Universities should build structured SDL programs and PsyCap support schemes into faculty development for interdisciplinary teaching](sdl-psycap-faculty-development-strategy.md)
 
 ## Examples
 -

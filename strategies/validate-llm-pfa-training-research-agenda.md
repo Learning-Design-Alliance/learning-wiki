@@ -47,6 +47,7 @@ The article's forward-looking research agenda calls for empirical validation bef
 
 - [Use LLM-based simulation to let trainees practise PFA conversations repeatedly, flexibly, and remotely](llm-simulation-scalable-pfa-practice.md)
 - [Prioritize rigorous VR training studies with larger samples, validated outcome measures, immersive designs, and LLM integration in mental health education research](future-vr-mental-health-research-recommendations.md)
+- [Future direction: integrate large language models into branching virtual simulations for realistic dialogue generation and adaptive feedback](llm-integration-branching-simulation-future-strategy.md)
 
 ## Examples
 -

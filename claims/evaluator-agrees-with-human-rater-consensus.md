@@ -51,3 +51,4 @@ Agreement analysis comparing Evaluator-agent scores with ratings from a pragmati
 - [LLMs agree strongly with their own consensus grades (most ICC > 0.8), far more than with human teachers' grades](llm-high-consensus-agreement-circularity-risk.md) — related
 - [Evaluator-agent MI scores aligned with AnnoMI metadata-derived session-level quality labels, achieving 91.7% classification accuracy at a threshold of 2](evaluator-scores-align-annomi-session-labels.md) — related
 - [Appending criterion-referenced feedback text to novice Student-agent prompts shifted subsequent Evaluator-assigned scores upward in both MI and CBT](feedback-prompt-augmentation-shifts-evaluator-scores.md) — related
+- [The custom-made anatomical recognition score agrees strongly with the reference TTE quality score](reference-custom-tte-score-agreement.md) — related

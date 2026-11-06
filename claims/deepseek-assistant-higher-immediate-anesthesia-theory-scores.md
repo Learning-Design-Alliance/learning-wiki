@@ -56,3 +56,4 @@ Stratified randomized controlled trial with 24 participants per group (12 underg
 - [DeepSeek-assisted PBL residents achieve higher total comprehensive examination scores than traditional PBL residents](deepseek-pbl-higher-total-exam-score.md) — related
 - [ChatGPT-guided PBL residents scored significantly higher on the clinical practice assessment than traditionally taught residents](chatgpt-pbl-higher-clinical-practice-score.md) — related
 - [ChatGPT-guided PBL residents scored significantly higher on a nephrology theoretical exam than traditionally taught residents](chatgpt-pbl-higher-theoretical-exam-nephrology.md) — related
+- [ChatGPT-assisted and video-only groups show no significant difference in theoretical knowledge test scores before operational learning](no-group-difference-theoretical-knowledge-pretest.md) — related

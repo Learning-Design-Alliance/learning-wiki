@@ -67,3 +67,4 @@ Hierarchical regression analysis (Model 3, N = 733) predicting mathematics perfo
 - [Inhibitory control is moderately positively correlated with mathematical ability in elementary school children (r = 0.19)](inhibitory-control-math-ability-correlation-elementary.md) — related
 - [Visuo-spatial working memory and inhibition jointly predict mathematics performance in 9–10-year-old children](visuospatial-wm-inhibition-predict-maths.md) — related
 - [The set of executive-function and intelligence predictors of academic achievement differs across Grades 2, 4, and 6, with EF contributions appearing cumulative as students get older](ef-predictors-of-achievement-differ-across-grades.md) — related
+- [Higher DAUF sustained attention scores (poorer sustained attention) are significantly negatively correlated with academic performance in children with LD](dauf-attention-negative-correlation-academic-ld.md) — related

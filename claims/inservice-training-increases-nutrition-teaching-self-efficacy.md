@@ -78,3 +78,4 @@ Fine-grained item-level repeated-measures ANOVAs on the same 59-teacher sample. 
 - [Brain-based teaching significantly improves self-efficacy in young EFL learners](brain-based-teaching-improves-young-efl-self-efficacy.md) — related
 - [Teachers rated the importance of promoting a healthy lifestyle significantly higher after the workshop (d = 0.74 within the intervention group)](lq-workshop-increased-importance-of-healthy-lifestyle.md) — related
 - [A six-lesson constructivist-oriented nutrition curriculum significantly increased urban middle school students' nutrition knowledge relative to controls](constructivist-nutrition-education-knowledge-gains.md) — related
+- [Group×time interactions were significant for all four outcomes in two-way repeated measures ANOVA](snpcohs-group-time-interaction-significant.md) — a narrower finding that bears on this claim

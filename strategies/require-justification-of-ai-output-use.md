@@ -42,6 +42,7 @@ This implementable teacher move comes from the guide's critical-thinking section
 - [Engage students in active learning assignments using generative AI with structured reflection and critique of AI outputs](active-genai-assignments-structured-reflection.md)
 - [Support learners to evaluate AI outputs by verifying sources, reporting errors, and overriding recommendations](evaluate-ai-outputs-verify-override.md)
 - [Use shared metacognition as the routine practice for educators and learners to critically evaluate AI-generated outputs](shared-metacognition-practice-for-ai-outputs.md)
+- [Have students generate, verify, and integrate ChatGPT answers judged by a teacher to build critical thinking](chatgpt-generate-verify-integrate-strategy.md)
 
 ## Examples
 -

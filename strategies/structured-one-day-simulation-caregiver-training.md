@@ -65,6 +65,7 @@ The article describes a specific instructional sequence for caregiver emergency-
 - [Implement SST as pre-class self-study, a scenario simulation with role players and mannequin deterioration, debriefing, and post-class personalized feedback](sst-session-recipe-emergency-residents.md)
 - [Pair the simulation with a structured 30–40 minute debrief including a PowerPoint lecture, reflection, and checklist review](simulation-debrief-lecture-checklist-review.md)
 - [Gender-sensitive pre-briefing and debriefing practices to support psychological safety in simulation-based assessment](gender-sensitive-prebriefing-debriefing-strategy.md)
+- [Combine a briefing with a simulation scenario and individual expert feedback when training staff on a new medical device](briefing-plus-simulation-with-feedback-for-device-training.md)
 
 ## Examples
 -

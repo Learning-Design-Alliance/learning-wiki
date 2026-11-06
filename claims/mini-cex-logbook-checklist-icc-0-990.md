@@ -55,3 +55,4 @@ Reliability analysis in SPSS-25 of the Delphi- and face-to-face-validated checkl
 - [Mean assessment scores rise across the three tests in both groups (Mini-CEX 81.57 to 97.42; Logbook 44.36 to 65.64)](mini-cex-logbook-scores-rise-across-three-tests.md) — related
 - [Inter-rater reliability of the drawing assessments was high, with an average-measures ICC of 0.988 for the total score](high-inter-rater-reliability-drawing-assessments.md) — related
 - [Inter-rater reliability of the GOALS total score was good (ICC = 0.795) in blinded porcine cholecystectomy assessment](goals-good-inter-rater-reliability-porcine-model.md) — related
+- [The custom-made anatomical recognition score agrees strongly with the reference TTE quality score](reference-custom-tte-score-agreement.md) — a narrower finding that bears on this claim

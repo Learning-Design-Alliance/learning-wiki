@@ -62,6 +62,7 @@ The review recommends that clinical practice should design CPD programs with "ha
 - [Integrate frequent in situ self-regulated simulation training with in-facility champions into routine health systems as continuous quality improvement](in-situ-self-regulated-simulation-cqi-strategy.md)
 - [Implement targeted training strategies plus standardized protocols and institutional support to improve diabetic foot management](targeted-training-and-protocols-diabetic-foot.md)
 - [Embed standardized fall-risk tools and structured professional development into physiotherapy training and clinical workflows](embed-standardized-fall-risk-tools-professional-development.md)
+- [On-site personalized mentoring based on healthcare workers' own consultation data, eLearning programs, and continuous monitoring of CDSA data trends to track skill development](data-driven-mentoring-elearning-strategy.md)
 
 ## Examples
 -

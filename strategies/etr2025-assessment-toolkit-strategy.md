@@ -43,6 +43,7 @@ The 2025 ETR recommends a broader, structured set of assessment tools to evaluat
 ## Related Strategies
 
 - [Use Entrustable Professional Activities (EPAs) to standardise assessment of trainee independence in clinical skills](epas-standardise-trainee-assessment.md)
+- [Develop a standardised and accredited training pathway from undergraduate through to postgraduate level for CEP competency](standardised-undergraduate-postgraduate-cep-pathway.md)
 
 ## Examples
 -

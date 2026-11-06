@@ -51,6 +51,7 @@ The article describes a standardized simulation-based training protocol structur
 - [Schedule repeated daily VR simulation sessions with formative feedback before a delayed practical test](daily-repeated-vr-practice-then-final-test.md)
 - [Use real-time feedback and repeated practice in preclinical surgical simulation training](real-time-feedback-repeated-practice-surgical-simulation.md)
 - [Sequence efficient training so cadets observe expert action videos before instruction and simulator practice, then self-record practice videos for comparison](expert-video-replay-then-practice-sequence.md)
+- [Combine a briefing with a simulation scenario and individual expert feedback when training staff on a new medical device](briefing-plus-simulation-with-feedback-for-device-training.md)
 
 ## Examples
 -

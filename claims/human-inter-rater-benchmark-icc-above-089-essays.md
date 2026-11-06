@@ -62,3 +62,4 @@ Baseline inter-rater reliability assessment using ICC(3,1) among three expert gr
 - [Inter-rater reliability of EFeCT scoring improved from moderate (ICC 0.67) to excellent (ICC 0.96) after consensus calibration, with an overall ICC of 0.66 across the full sample](efect-inter-rater-reliability-consensus-calibration.md) — related
 - [Only diagnostic ranking shows excellent inter-rater reliability among the five scoring dimensions for evaluating ChatGPT-4 clinical responses](diagnostic-ranking-only-reliable-scoring-dimension.md) — related
 - [The Facilitation Behavioural Assessment Tool achieves suitable inter-rater reliability after short online rater training, with ICC2 of 0.73 and ICC2k of 0.89](fbat-inter-rater-reliability-icc.md) — related
+- [The custom-made anatomical recognition score agrees strongly with the reference TTE quality score](reference-custom-tte-score-agreement.md) — a narrower finding that bears on this claim

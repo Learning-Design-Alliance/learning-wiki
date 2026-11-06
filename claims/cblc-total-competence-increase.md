@@ -48,3 +48,4 @@ Inferential analysis of paired pre–post responses on the full ten-item Compete
 - [No significant change was detected in case-specific knowledge after the CBLC](cblc-case-specific-null-result.md) — related
 - [General Section scores rose significantly from 3.59 to 4.02 after the CBLC, in one uncontrolled pre-post study, with a small effect size (Cohen's d = 0.33)](cblc-general-knowledge-improvement.md) — related
 - [The satisfaction survey showed excellent internal consistency while the competence questionnaire showed borderline reliability](cblc-instrument-reliability-contrast.md) — related
+- [Medical students' theoretical FOCUS competencies rose significantly from pre-test to post-test, with a large pre-post difference, in the student group of a controlled study after e-learning preparation](elearning-large-gain-student-focus-theory.md) — related

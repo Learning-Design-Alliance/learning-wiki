@@ -49,6 +49,7 @@ The article's recommendation section proposes concrete school-level actions base
 - [Integrate coping psychoeducation into academic support workshops and counselling for university teachers](coping-psychoeducation-workshops-faculty.md)
 - [Integrate resilience-building strategies into teacher training programs, prioritizing psychosocial facets of academic success and pairing them with study-skill instruction when grade improvement is the goal](resilience-building-teacher-training-strategy.md)
 - [Train university students in stress-coping techniques alongside early screening for attention or learning difficulties](coping-training-plus-attention-screening-strategy.md)
+- [Integrate counseling, stress-management, resilience, and emotional-intelligence development supports into teacher preparation programmes](integrate-wellness-ei-supports-teacher-preparation.md)
 
 ## Examples
 -

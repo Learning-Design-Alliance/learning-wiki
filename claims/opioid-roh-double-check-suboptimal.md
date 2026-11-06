@@ -48,3 +48,4 @@ Evaluation of double-check behaviour across seven standardised items after each 
 - [Error and hazard performance differed by professional role, with nurses and healthcare assistants better at expiry-date and syringe checks and physicians better at allergy detection, while double-check performance did not differ significantly](opioid-roh-role-differences-detection.md) — related
 - [Participants detected 55-63% of the four embedded opioid administration errors, with wrong-patient identification missed by 40% of pairs](opioid-roh-error-detection-rates.md) — related
 - [Participants rated the opioid RoH highly (9.2/10) and 73% reported a self-assessed knowledge gain, with high self-rated knowledge rising from 22% to 79%](opioid-roh-satisfaction-knowledge-gain.md) — related
+- [Missing isolation precautions for a documented influenza infection were overlooked by nearly all groups in the room of horror exercise](roh-isolation-precautions-overlooked.md) — related

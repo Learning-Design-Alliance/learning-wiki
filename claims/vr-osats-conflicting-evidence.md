@@ -51,3 +51,4 @@ The review's discussion section reports heterogeneous findings across included s
 - [Adjunctive VR classroom training produces higher validated robotic skills scores than self-directed simulator learning alone in novice trainees](vr-classroom-training-higher-rosats-novices.md) — related
 - [Most digital teaching methods demonstrated positive effects on practical skills acquisition, particularly simulation-based, VR-supported or interactive formats, but effect magnitude and consistency varied substantially](digital-methods-mostly-positive-practical-skills-effects.md) — a broader claim this one bears on
 - [AR-assisted training improves OSATS Global scores in novice laparoscopic learners](ar-training-improves-osats-global-laparoscopic.md) — related
+- [Of the 11 OSATS items, only dissection differed significantly between groups; the other 10 items showed no significant difference](osats-dissection-item-only-significant.md) — related

@@ -50,6 +50,7 @@ The article recommends incorporating validated virtual simulation scenarios into
 - [Integrate frequent in situ self-regulated simulation training with in-facility champions into routine health systems as continuous quality improvement](in-situ-self-regulated-simulation-cqi-strategy.md)
 - [Incorporate simulation training into continuing professional development, differentiating communication approaches for doctors and nurses](simulation-als-continuing-professional-development-strategy.md)
 - [Adopt validated clinical simulation scenarios as a perioperative nursing training resource](adopt-validated-simulation-scenarios-perioperative-training.md)
+- [Develop virtual clinical simulations through the five Contextualized Instructional Design stages with expert nurse participation](cid-stages-virtual-simulation-development-strategy.md)
 
 ## Examples
 -

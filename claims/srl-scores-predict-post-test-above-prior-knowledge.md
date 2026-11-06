@@ -48,3 +48,4 @@ Hierarchical linear regression on data from 260 middle school students interacti
 - [Within-session help-seeking development predicts unaided post-test performance beyond pre-test performance and static AI-use features](hs-trajectory-predicts-unaided-posttest.md) — related
 - [Trait self-control is significantly associated with major GPA beyond fluid reasoning and conscientiousness in vocational trainees](trait-self-control-incremental-mgpa-vocational-trainees.md) — related
 - [Within-session SRL change shows no detectable association with unaided post-test performance](srl-change-no-posttest-association.md) — related
+- [Self-assessment was associated with 10% additional explained variance in post-test SRL beyond pre-test SRL in one single-group pre-test/post-test study with no comparison group](self-assessment-predicts-srl-beyond-pretest.md) — related

@@ -53,3 +53,4 @@ A mixed treatment comparison meta-analysis of 21 studies (22,622 examinees) pool
 - [Contextual factors (learner level, discipline, format) moderate Angoff outcomes](angoff-contextual-moderators.md) — related
 - [Mastery Angoff produces the highest cut scores and lowest pass rates among Angoff variants](mastery-angoff-highest-cut-scores.md) — related
 - [Number of judges positively influences cut scores, while test length influences pass rates](angoff-moderators-judges-items.md)
+- [No students failed the virtual OSCE or their clerkship, with cut-scores set by the Borderline Regression Method and an Angoff process](virtual-osce-no-failures-brm-angoff.md) — related

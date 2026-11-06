@@ -48,6 +48,7 @@ The article recommends a staged pathway in which adoption is phased (practice, m
 - [Implement AI in assessment as a hybrid support tool for low-stakes, formative stages while humans retain final grading authority](hybrid-ai-human-assessment-implementation.md)
 - [Staged institutional implementation: audit interactions, map to teaming levels, build AI literacy, co-design, and evaluate iteratively](staged-teacher-ai-teaming-implementation.md)
 - [Shared deidentified registry and cross-border data governance for benchmarking AI-augmented OSCEs](shared-deidentified-osce-registry.md)
+- [Adopt a hybrid model combining virtual and in-person OSCE components, assigning telehealth-suitable skills to virtual stations](hybrid-virtual-in-person-osce-strategy.md)
 
 ## Examples
 -

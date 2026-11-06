@@ -66,3 +66,4 @@ Same hierarchical regression analyses (Tables 13–14). The article reports that
 - [Gender differences appear in academic achievement and several cognitive parameters but not in inhibition/interference or social skills](gender-differences-aa-cognitive-parameters.md) — related
 - [EF measures jointly account for 43% of math variance, with inhibition (Tap Test) a significant unique predictor but cognitive flexibility (FIST) not significant in any model](tap-test-significant-fist-not-in-math-prediction.md) — related
 - [Interference suppression, but not response inhibition, relates to academic achievement and schooling skills](interference-suppression-not-response-inhibition-predicts-school-competence.md) — related
+- [HRV improvement predicts academic grades, working memory, and self-pressure, but not Stroop cognitive flexibility](hrv-predicts-grades-memory-not-stroop.md) — related

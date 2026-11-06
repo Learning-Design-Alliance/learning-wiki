@@ -55,3 +55,4 @@ Quasi-experiment with two randomly assigned 7th-grade classes (N=74, 37 per grou
 - [Journal writing as a writing-to-learn activity raises fourth-grade science achievement more than regular instruction alone](journal-writing-wtl-improves-fourth-grade-science-achievement.md) — related
 - [A gain- and activity-based web-assisted virtual material produced significantly higher 6th-grade achievement on the 'Systems in our body' unit than usual teaching](web-assisted-virtual-material-achievement-gain.md) — related
 - [Inquiry-based learning yields greater achievement gains than traditional teaching in a 7th-grade science and technology course](inquiry-greater-achievement-gains-than-traditional.md) — related
+- [Dental students using ChatGPT-3.5 alongside videos achieve higher operational skill test scores than students using videos alone](chatgpt-supplement-raises-dental-operational-skill-scores.md) — related

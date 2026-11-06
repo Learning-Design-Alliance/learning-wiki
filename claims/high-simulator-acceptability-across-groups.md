@@ -50,3 +50,4 @@ Kruskal-Wallis comparison of TAM latent variables across the 3 simulator configu
 - [At the final assessment, no significant differences were observed among simulator configuration groups in tutor evaluation scores for either cohort](no-final-assessment-differences-between-configurations.md) — related
 - [No significant relationships were found between demographic co-variates and interprofessional socialisation scores](no-significant-covariate-relationships-with-is-scores.md) — related
 - [Course evaluation scores did not differ significantly across occupational groups](course-evaluation-no-occupational-difference.md) — related
+- [Simulator ratings differed significantly by experience level, with experts highest on environmental realism and fellows highest on training effectiveness](vr-simulator-ratings-differ-by-experience-level.md) — related

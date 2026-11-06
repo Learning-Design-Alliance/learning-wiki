@@ -55,3 +55,4 @@ Usability survey (previously validated for serious gaming contexts) completed by
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — a broader claim this one bears on
 - [Eight of 37 respondents reported OSCEai scenarios or elements that were confusing or not representative of real-life practice](osceai-limitations-realism-confusion.md) — related
 - [Clinical educators propose simulated patients in scenarios informed by real patient experiences as a way to prepare students for complex, unpredictable patient encounters.](sp-scenarios-complex-unpredictable-encounters.md) — related
+- [Learners rated the multidisciplinary simulation favorably on faculty competence, case relevance, and realism](simulation-learner-feedback-favorable.md) — related

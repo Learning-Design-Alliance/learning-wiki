@@ -51,3 +51,4 @@ A quasi-experimental comparison of 404 first-semester medical students found tha
 - [VR tools enhance acquisition and retention of clinical and procedural skills but face barriers including cybersickness, limited tactile feedback and variable long-term skill transfer](vr-enhances-practical-skill-acquisition-with-barriers.md) — a broader claim this one bears on
 - [The review reports, citing Maza et al, that surgical simulation of an arterial injury significantly reduced time to hemostasis and blood loss](simulation-reduces-hemostasis-time-and-blood-loss-cited.md) — related
 - [Procedure times were similar between simulation and traditional groups across most nerve block approaches](procedure-times-similar-most-approaches.md) — related
+- [Training-sequence order did not significantly affect time to blood pressure measurement or time to arterial biological sample](training-sequence-no-time-difference.md) — related

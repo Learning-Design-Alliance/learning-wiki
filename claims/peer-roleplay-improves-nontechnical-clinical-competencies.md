@@ -57,3 +57,4 @@ Final assessment scores compared between the 2019 and 2020 cohorts using a stand
 - [WBLP students report significantly better teacher–student interaction, patient–doctor communication, and humanistic care perceptions](wblp-better-interaction-communication-humanistic-care-ratings.md) — related
 - [The BOPPPS-based micro-lecture group outperformed controls on eight of eleven DOPS clinical skills indicators (p < 0.005), with preoperative preparation at the significance threshold and no differences on informed consent or patient communication](boppps-microlecture-dops-clinical-skills.md) — related
 - [Structured preoperative frameworks (PREDICT, GAPS) and independent rotations increase graduated autonomy without harming patient outcomes](predict-gaps-graduated-autonomy-frameworks.md) — related
+- [Communication between participants improved markedly in the simulation group](simulation-improved-team-communication.md) — related

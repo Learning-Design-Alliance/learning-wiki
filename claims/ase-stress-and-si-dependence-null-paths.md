@@ -56,3 +56,4 @@ SEM path tests in the same 229-respondent survey found the two hypothesized dire
 - [Self-efficacy does not significantly moderate the relationship between AI anxiety and career decisions](self-efficacy-moderation-insignificant-ai-anxiety.md) — related
 - [Perceived school support, AI learning self-efficacy, and AI perceived usefulness each show negative paths to AI learning anxiety](support-and-appraisals-negatively-predict-ai-learning-anxiety.md) — related
 - [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — related
+- [Subjective norm showed no linear relationship with perceived ease of use or perceived usefulness, and its hypotheses were rejected](subjective-norm-no-relationship-3d-organon.md) — related

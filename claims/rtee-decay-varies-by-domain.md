@@ -49,3 +49,4 @@ Domain-level analysis of the same seven-participant simulator assessments, repor
 - [One year after training, participants reported greater comfort with the three guideline-recommended rTEE views than with all eight views, and comfort correlated with simulator performance](rtee-comfort-correlates-performance.md) — related
 - [A single spaced-repetition simulation session one month after the washout reduces rTEE skill decay from 41% to 19%, though scores do not return to baseline](spaced-repetition-reduces-rtee-decay.md) — related
 - [Time to acquire all eight rTEE views decreased from 7.3 minutes at month 6 to 5.7 minutes at month 7, a non-significant difference](rtee-acquisition-time-month6-month7.md) — related
+- [No precise timeframe for surgical skill decay exists; reported onset ranges from 11 weeks to 2 years depending on task and study](retention-interval-timeframe-varies.md) — related

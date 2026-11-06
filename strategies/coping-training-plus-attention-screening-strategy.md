@@ -53,6 +53,7 @@ The article recommends that low-resource universities support achievement throug
 - [Targeted training programs focusing on psychological self-adjustment for lower-competency nurse profiles](targeted-psychological-self-adjustment-training-strategy.md)
 - [Integrate mindfulness training programs into nursing curricula to support focus, self-awareness, and emotional regulation](mindfulness-training-in-nursing-curricula-strategy.md)
 - [Schools should run time-management and study-skills workshops, provide academic counseling, and teach coping strategies to manage academic stress](workshops-counseling-coping-kazo-recommendation.md)
+- [Integrate counseling, stress-management, resilience, and emotional-intelligence development supports into teacher preparation programmes](integrate-wellness-ei-supports-teacher-preparation.md)
 
 ## Examples
 -

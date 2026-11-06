@@ -51,3 +51,4 @@ Randomized controlled trial of 22 novice ORL residents randomized 1:1 to case-sp
 - [A significant group–cadaver interaction indicates the effect of case-specific training varied across cadaver specimens](group-cadaver-interaction-anatomy-moderation.md) — related
 - [Groups using 3DPAMs achieved significantly better test results than groups using dry bones, with one mixed result on MCQs](3dpam-better-test-results-than-dry-bones.md) — related
 - [Meta-analyses report better post-test results for 3DPAM instruction, especially for complex anatomical structures and medical students](meta-analyses-favour-3dpam-post-test-results.md) — related
+- [ENT residents rate the SAPIENS 3D-printed temporal bone models as closely resembling human temporal bone anatomy and dissection (Mowry scores 53.2 and 55.4 of 61)](sapiens-mowry-scores-closely-resemble-human-temporal-bone.md) — related

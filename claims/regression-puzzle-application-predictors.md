@@ -48,3 +48,5 @@ Regression analysis in the same trial (Table 3); six models were statistically s
 - [Puzzle-based reinforcement is associated with higher post-test knowledge scores than no reinforcement in first-year nursing students](puzzle-reinforcement-higher-knowledge-nursing.md) — related
 - [Puzzle-based reinforcement is associated with higher post-test motivation toward instructional materials than no reinforcement](puzzle-reinforcement-motivation-imts.md) — related
 - [Action-adventure videogames negatively predict social problem-solving scores while simulation, puzzle, serious and educational videogames predict positively](videogame-genre-spsic-regression-predictors.md) — related
+- [Puzzle-based teaching raises total motivation toward instructional material more than lecture alone](puzzle-teaching-raises-instructional-material-motivation.md) — related
+- [Regression analysis attributes the largest puzzle effect to knowledge (β = 0.896), with smaller positive effects on motivation and self-efficacy](regression-puzzle-application-knowledge-beta-0896.md) — possibly the same claim (merge candidate)

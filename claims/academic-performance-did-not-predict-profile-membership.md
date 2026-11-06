@@ -48,3 +48,4 @@ Multinomial regression testing whether later academic achievement (standardized 
 - [Age and sex predicted membership in the latent psychosocial profiles among Chilean university students](age-sex-predict-latent-profile-membership.md) — related
 - [Latent profile analysis of Chilean university students' grit, self-control, belonging, and college motives supports a four-profile solution differentiated mainly by self-control and motives rather than grit or belonging](four-latent-psychosocial-profiles-chilean-university-students.md) — related
 - [Gender predicted SRL profile membership, with male students more likely in lower SRL profiles; major, prior experience, and time commitment did not predict membership](gender-predicts-srl-profile-membership.md) — related
+- [All five academic identity dimensions significantly predict academic performance, led by academic commitment (β = 0.648)](identity-dimensions-predict-performance-jiroft.md) — related

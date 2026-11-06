@@ -80,3 +80,4 @@ ANOVAs on the IMI perceived-choice and pressure sub-scales among active particip
 - [No significant difference between the models in perceived option or pressure/tension dimensions](sem-no-difference-perceived-option-pressure-tension.md) — related
 - [Preceding worked-example demonstrations do not significantly impact situational motivation or self-determination in technology-enhanced learning of sectional anatomy](worked-example-demonstrations-no-motivation-impact.md) — related
 - [PHEEM total score increased modestly, driven by role autonomy and teaching, with no change in the social-support domain](pheem-total-increased-social-support-null.md) — related
+- [Webinar participants perceive greater freedom of choice than learning-platform participants](webinar-greater-perceived-choice.md) — related

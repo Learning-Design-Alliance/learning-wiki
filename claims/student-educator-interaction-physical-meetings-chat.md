@@ -49,3 +49,4 @@ The review's interaction theme reports that "Physical meetings and chatting duri
 - [Lack of physical interaction between students, peers, and educators was reported as a disadvantage of digital learning, and blended approaches were identified as a possible solution](physical-interaction-loss-blended-solution.md) — related
 - Research output on digital histology and pathology teaching increased steadily from 2013 to 2024, with first-year medical students the most frequently studied group — related
 - [Face-to-face components are used mainly for orientation while monitoring of learning progress is carried out online](f2f-orientation-online-monitoring-division.md) — related
+- [Parents of dental students reported maintained interaction and focus during online classes and mostly favored blended learning](parents-perceptions-tbl-blended-preference.md) — related

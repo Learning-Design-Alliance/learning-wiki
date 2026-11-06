@@ -49,6 +49,7 @@ Based on the trial results, the authors recommend that "interactive, student-cen
 ## Related Strategies
 
 - [Use active methodologies, case studies, simulation, portfolios, flipped classroom, and problem-based learning to develop soft skills in nursing curricula](active-methodologies-soft-skills-nursing-strategy.md)
+- [Integrate puzzle-based techniques regularly into applied nursing curricula and train instructors in their use](regular-puzzle-integration-nursing-curricula-strategy.md)
 
 ## Examples
 -

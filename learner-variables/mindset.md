@@ -13,7 +13,7 @@ generated:
 # Mindset
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 84 claims (48 show a difference, 29 mixed, 7 no difference) · 40 studies (19 associational, 9 causal, 7 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 12 of 40 report an effect size · 82 claims rest on one study
+> **Evidence** · 88 claims (51 show a difference, 30 mixed, 7 no difference) · 41 studies (20 associational, 9 causal, 7 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 12 of 41 report an effect size · 86 claims rest on one study
 
 ## Description
 Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset holds that ability is set, a growth mindset that it can be developed. It is measured with short self-report scales. Research tests it as a predictor of achievement, as a moderator, and above all as an outcome of brief growth-mindset interventions. Large preregistered trials and meta-analyses find that the average effect of those interventions on achievement is small and concentrated in lower-achieving students in supportive settings, and that the correlation between mindset and achievement is weak.
@@ -115,6 +115,10 @@ Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset h
 - [Growth mindsets are positively associated with academic achievement, intrinsic motivation and academic engagement after controlling for covariates](../claims/growth-mindset-positive-association-learning-outcomes-pisa-2018.md) [+W] — learners who differ on it differ in outcomes
 - [Students' fixed mindsets in math positively predict test anxiety and negatively predict self-efficacy, persistence and achievement](../claims/student-fixed-mindset-predicts-math-motivation-outcomes.md) [+M] — learners who differ on it differ in outcomes
 - [Students' fixed mindsets mediate the links between socializers' beliefs and students' math motivation and behavioural outcomes at the student level](../claims/student-mindsets-mediate-socializer-belief-effects.md) [+M] — learners who differ on it differ in outcomes
+- [Entity ITEI in 10th grade negatively predicts emotional expression (trait EI) and ability EI performance (VET) in 11th grade](../claims/entity-itei-negatively-predicts-expression-and-ability-ei.md) [+M] — learners who differ on it differ in outcomes
+- [Entity ITEI negatively predicts end-of-secondary-school positive emotions and Portuguese grades, while incremental ITEI unexpectedly shows a positive link to negative emotions](../claims/entity-itei-negative-end-of-cycle-outcomes.md) [~M] — learners who differ on it differ in outcomes
+- [Incremental ITEI in 10th grade positively predicts trait EI (perceiving/understanding and managing/regulating emotion) in 11th grade](../claims/incremental-itei-predicts-trait-ei-next-year.md) [+M] — learners who differ on it differ in outcomes
+- [Trait and ability EI mediate, at a low level, the link between entity ITEI and negative emotions and Portuguese grades](../claims/ei-mediation-of-entity-itei-effects.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do growth-mindset interventions raise achievement, and for which learners and in which settings?* [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](../claims/growth-mindset-improves-achievement.md) [+S]

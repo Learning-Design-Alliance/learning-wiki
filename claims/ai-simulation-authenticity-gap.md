@@ -54,3 +54,4 @@ Thematic analysis of qualitative data across studies found "Technical limitation
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
 - [One RCT found AI-assisted simulation inferior to standardized patient simulation for breast self-examination skills](ai-simulation-inferior-bse-skills.md) — related
 - [Pepper's classroom operation required frequent teacher supervision in over half of the studies, mainly due to voice recognition and technical failures](pepper-requires-constant-teacher-supervision.md) — related
+- [Verisimilitude limitations—absent visual, tonal, and nonverbal cues and lack of rapport—persisted as a limiting factor for all students using ChatGPT as a standardized patient](verisimilitude-limits-chatgpt-sp.md) — a narrower finding that bears on this claim

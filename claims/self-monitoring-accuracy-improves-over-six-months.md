@@ -52,3 +52,4 @@ A six-month retention study of 141 medical students without prior ultrasound ski
 - [Performance declined and confidence decreased over the six-month follow-up period](performance-decline-confidence-decrease-six-months.md) — possibly the same claim (merge candidate)
 - [Confidence-performance alignment was stronger at six-month follow-up than immediately after instruction](confidence-performance-alignment-stronger-at-delayed-retest.md) — possibly the same claim (merge candidate)
 - [Peer-teaching group maintained stable confidence while faculty-led group declined](peer-teaching-stable-confidence-faculty-declined.md) — related
+- [OSCE skill levels declined over time in both groups, while the intervention group maintained comparatively higher skill levels at 6 months](osce-skills-declined-over-time-both-groups.md) — related

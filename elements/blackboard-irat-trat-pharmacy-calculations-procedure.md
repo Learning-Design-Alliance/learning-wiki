@@ -17,7 +17,7 @@ sources:
 # Blackboard-delivered readiness assurance test procedure (20-minute IRAT then 20-minute TRAT in groups of three)
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (8 for) · 3 studies (1 causal, 1 associational, 1 design), `q2` · 0 of 3 report an effect size · 8 claims rest on one study
+> **Evidence** · 8 claims (8 for) · 4 studies (2 causal, 1 associational, 1 design), `q2` · 0 of 4 report an effect size · 7 claims rest on one study
 
 ## Description
 This element is the readiness assurance test implementation used in a pharmacy calculations laboratory course. Students in groups of 3 first took a 20-minute individual readiness assurance test, then a 20-minute team readiness assurance test whose "question stems that matched those of the IRAT questions", followed by a brief review period for clarification. Assessments ran on the Blackboard learning management system with Respondus Lockdown Browser, faculty/TA proctoring, and paper alternatives for students with technical difficulties. Eight IRAT/TRAT sessions matched the lecture topic sequence and online modules 2 through 9.

@@ -52,3 +52,4 @@ Theme 1 (expression of excitement) in the results: participants without prior VR
 - [Motion sickness after the iVR experience was negligible for most participants, but a minority felt significant discomfort](ivr-motion-sickness-negligible-minority-discomfort.md) — a broader claim this one bears on
 - [Motion sickness remains a disagreeable side effect of IVR serious games for a minority of participants](ivr-sgs-motion-sickness-side-effect.md) — a broader claim this one bears on
 - [Clinical students perceived VR-based training as a complementary method that enhances proficiency, confidence, and access](vtracs-perceived-complementary-proficiency-enhancement.md) — related
+- [Most students find navigation within the VR anatomy environment easy or very easy](vr-anatomy-navigation-rated-easy.md) — related

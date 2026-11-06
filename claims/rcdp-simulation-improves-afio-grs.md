@@ -51,3 +51,4 @@ Single-center pilot study of 46 emergency physicians completing a simulation cur
 - [Checklist scores correlated positively with GRS but not with total procedure time](checklist-grs-correlation-afio.md) — related
 - [Proportion of learners completing intubation in under 120 seconds rose from pre-test to post-test in one uncontrolled pre-post study](rcdp-simulation-increases-under-120-seconds-proportion.md) — related
 - [Virtual reality training improves OSATS scores compared with no additional training for junior trainees in laparoscopic cholecystectomy](vrt-improves-osats-versus-nat-laparoscopic-cholecystectomy.md) — a broader claim this one bears on
+- [Procedural simulation significantly increased learner confidence in performing central lines, intubations, and bronchoscopies](simulation-raises-procedure-confidence.md) — related

@@ -50,6 +50,7 @@ The article recommends designing VR educational experiences around human- and le
 - [Integrate VR simulation design with prebriefing, intuitive interfaces, adaptive difficulty, scenario variability, ergonomic hardware, and structured debriefing](vr-design-balance-usability-load-debriefing-strategy.md)
 - [Keep the video player user interface consistent when pausing for self-explanation prompts to avoid extraneous reorientation](consistent-ui-when-video-prompts-pause.md)
 - [Design and implement VS teaching with simplified interfaces, multimodal feedback, multilingual diverse case libraries, pre-training, and controlled VR session lengths](vs-design-recommendations-strategy.md)
+- [Prioritize enjoyment and usability when selecting and implementing VR anatomy software, including pre-session practice and technical support](prioritize-enjoyment-usability-vr-anatomy-implementation.md)
 
 ## Examples
 -

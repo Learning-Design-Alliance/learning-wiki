@@ -50,3 +50,4 @@ Random-effects meta-analysis of the 11 independent interventions reporting auton
 - [Gamification has minimal impact on students' perceived competence](gamification-minimal-impact-perceived-competence.md) — related
 - [Two major challenges undermine gamification's effect on intrinsic motivation: students' lack of perceived competence and lack of perceived autonomy](gamification-challenges-competence-autonomy.md) — related
 - [IMI motivation ratings after four weeks of Mangomon play were moderate (all sub-scale means below 4.00), highest for effort/importance and lowest for perceived choice](moderate-motivation-imi-mangomon.md) — related
+- [Webinar participants perceive greater freedom of choice than learning-platform participants](webinar-greater-perceived-choice.md) — related

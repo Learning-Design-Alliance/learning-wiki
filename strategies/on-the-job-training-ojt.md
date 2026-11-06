@@ -84,10 +84,12 @@ Well-run OJT is essentially [Cognitive Apprenticeship](cognitive-apprenticeship.
 7. **Check and sign off.** Assess against the written standard on a task the learner has not just been walked through, and record which tasks remain uncovered.
 
 ## Related Strategies
+
 - [Cognitive Apprenticeship](cognitive-apprenticeship.md) — the instructional model structured OJT implements: modeling, coaching, scaffolding, fading
 - [Modeling](modeling.md) — the demonstration phase in isolation; OJT depends on it being narrated rather than silent
 - [Instructional Coaching](instructional-coaching.md) — the same trainer-alongside relationship applied to teaching practice
 - [Performance Support and Job Aids](performance-support-job-aids.md) — reduces how much has to be trained at all, and lets fading happen sooner
+- [Use anatomy-faithful dry-lab simulators as an off-the-job alternative to animal and cadaver surgical training](dry-lab-off-jt-alternative-animal-cadaver-training.md)
 
 ## Examples
 

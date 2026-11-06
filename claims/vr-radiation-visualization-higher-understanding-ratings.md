@@ -57,3 +57,4 @@ Within-participants quasi-experimental comparison of 20 radiological technology 
 - [A first evaluation of 3B confirms its conformance to critical usability requirements including safety and comfort, believability, simplicity, acceptability, extensibility, affordability, and mobility](3b-first-evaluation-confirms-usability-requirements.md) — related
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — related
 - [Students trained with MPathic-VR report significantly more positive attitudes toward their learning experience than computer-based learning students](mpathic-vr-more-positive-attitudes.md) — related
+- [The review reports SBME yields positive outcomes across oncology subspecialties, including communication skills, chemotherapy safety, and radiation oncology competencies](sbme-positive-outcomes-oncology-subspecialties.md) — a broader claim this one bears on

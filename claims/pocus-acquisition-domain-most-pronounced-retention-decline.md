@@ -52,3 +52,4 @@ Systematic review synthesis of 31 studies (1638 participants) using median perce
 - [CPR knowledge and technical skills remained at a sufficient level at 6-month and 1-year follow-ups, with refresher courses recommended](cpr-knowledge-skills-retention-follow-up.md) — related
 - [Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months](pr-training-self-rated-gains-sustained-3-months.md) — reports the opposite
 - [Knowledge and skills decline significantly at 3 months after both training modalities](knowledge-and-skills-decline-significantly-at-3-months.md) — related
+- [Knowledge declined at 3 and 6 months in both groups but significantly more in the theory-only group, which reverted to near pre-training levels (45.4%)](knowledge-declines-faster-in-theory-only-group.md) — related

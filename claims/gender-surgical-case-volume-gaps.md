@@ -53,3 +53,4 @@ The review reports, citing Gong et al. and a systematic review, that female trai
 - [Male surgical novices had significantly greater anthropometric measurements than female novices](male-novices-greater-anthropometric-measurements.md) — related
 - [Most trainees never performed several procedures: 90% skipped intraosseous access, 88.5% skipped paracentesis](most-trainees-skip-rare-procedures.md) — related
 - [Female surgeons trained longer on simulators while male surgeons had performed more cataract surgeries](gender-differences-simulator-time-versus-surgical-volume.md) — a narrower finding that bears on this claim
+- [Female trainees report more perceived anxiety, longer operating times and reduced confidence after a surgical hiatus](female-trainees-greater-perceived-decay-and-confidence-loss.md) — related

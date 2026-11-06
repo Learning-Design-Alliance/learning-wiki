@@ -52,3 +52,5 @@ Parallel RCT with 58 second-year midwifery students randomised to personalised v
 - [Structured PEARLS debriefing is associated with higher general self-efficacy](debriefing-higher-general-self-efficacy.md) — related
 - [INACSL-standard-based simulation training does not significantly improve midwifery students' self-confidence compared with standard training](inacsl-simulation-no-self-confidence-gain.md) — related
 - [Simulation-assisted application increases nursing students' satisfaction and self-confidence in learning compared with clinical practice alone](simulation-raises-nursing-satisfaction-self-confidence.md) — related
+- [A chatbot-based self-directed learning program raises nursing students' satisfaction with mechanical ventilation nursing education more than video lectures alone](chatbot-sdl-raises-education-satisfaction.md) — related
+- [A chatbot-based self-directed learning program raises nursing students' self-confidence in mechanical ventilation nursing more than video lectures alone](chatbot-sdl-raises-ventilation-self-confidence.md) — a narrower finding that bears on this claim

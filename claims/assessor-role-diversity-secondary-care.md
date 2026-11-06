@@ -66,3 +66,4 @@ Descriptive comparison of the most common assessor types across the three cohort
 ## Related Claims
 - [Year 1 medical students complete more WBA assessments in secondary care placements, especially when secondary care is the first placement block](wba-more-assessments-secondary-care.md) — related
 - [Student reflections share common frequent words across placements but differ between primary and secondary care and across year groups](text-analytics-reflections-primary-secondary.md) — related
+- [Using practising CEPs as in-situ placement assessors faces barriers of assessor training, standardisation, workload, workforce size and lack of tariff](in-situ-assessor-barriers-cep.md) — related

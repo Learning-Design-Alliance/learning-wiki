@@ -47,3 +47,4 @@ Pre/post comparison of a 5-question confidence survey using a 5-point Likert sca
 ## Related Claims
 - [Residents' menopause knowledge improves after a didactic plus standardized patient simulation session](simulation-menopause-knowledge-gains.md) — related
 - [Knowledge and confidence improvements show no significant differences among specialties](menopause-simulation-no-specialty-differences.md) — related
+- [Self-rated learner confidence in managing acute ischemic stroke, intracerebral hemorrhage, intracranial hypertension, and respiratory failure rose from pre-test to post-test after simulation sessions, in one uncontrolled pre-post study](simulation-raises-stroke-hemorrhage-confidence.md) — related

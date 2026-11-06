@@ -41,6 +41,7 @@ The authors conclude that mentorship is a key design ingredient of EBP training:
 - [Structure mentorship with clear expectations, regular feedback, and a supportive environment](mentorship-practices-undergraduate-research-training.md)
 - [Design EBP education that is multi‐modal, clinically integrated, and team‐based with mentorship and case‐based discussions](multimodal-clinically-integrated-team-based-ebp-education.md)
 - [Support EBP education with mentorship, protected time, and continuity of initiatives rather than isolated courses](ebp-institutional-support-strategy.md)
+- [On-site personalized mentoring based on healthcare workers' own consultation data, eLearning programs, and continuous monitoring of CDSA data trends to track skill development](data-driven-mentoring-elearning-strategy.md)
 
 ## Examples
 -

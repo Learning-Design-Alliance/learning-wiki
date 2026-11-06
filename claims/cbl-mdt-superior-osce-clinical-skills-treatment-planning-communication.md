@@ -67,3 +67,5 @@ OSCE with five blinded stations, three independent assessors per student, in the
 - [Paired t-tests showed statistically significant differences in overall assessment scores between the two teaching methods](pbl-sth-paired-ttest-assessment-outcomes.md) — related
 - [The intervention advantage held for anatomical knowledge and clinical examination subscores but not for the professionalism subscore](subscore-advantage-anatomy-exam-not-professionalism.md) — related
 - [Most respondents perceived judging RCT indications in the clinic as more intricate and doctor–patient communication as diverging from academic instruction](clinic-indications-communication-more-intricate.md) — related
+- [Stakeholders preferred integrated case-study teaching of medical conditions over compartmentalised module-by-module content](integrated-case-study-module-design-cep.md) — related
+- [Communication between participants improved markedly in the simulation group](simulation-improved-team-communication.md) — related

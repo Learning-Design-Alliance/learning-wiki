@@ -53,6 +53,7 @@ The article recommends, on the strength of its predictive findings, that evaluat
 - [Use beat synchronization assessment and early music and rhythm training as early indicators and supports of reading readiness](beat-synchronization-early-reading-indicator-strategy.md)
 - [Identify specific comprehension deficits early and target intervention at comprehension rather than decoding](early-identification-comprehension-targeted-intervention.md)
 - [Use learning-based neurophysiological indicators of speech-print mapping difficulty for early diagnosis and intervention of developmental dyslexia](rhythmic-stimulation-dyslexia-indicator-strategy.md)
+- [Screen for speech-in-noise ability at school entry to identify children at risk of literacy delay](school-entry-speech-in-noise-screening-strategy.md)
 
 ## Examples
 -

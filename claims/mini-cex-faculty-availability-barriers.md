@@ -50,3 +50,4 @@ From the same student feedback survey (61 respondents), "18 students (29.5%) ide
 - [Faculty preparedness gaps and psychometric subjectivity are key barriers to implementing OHL-Mini-CEX](ohl-mini-cex-implementation-barriers.md) — related
 - [Time-consuming assessment and manual documentation plus heavy clinical workload were primary obstacles to implementing mini-CEX and DOPS](mini-cex-dops-time-burden-primary-obstacle.md) — related
 - [Most Mini-CEX students reported improved clinical skills and confidence and wanted the tool to continue](mini-cex-student-satisfaction-confidence.md) — related
+- [Assessment process challenges include limited assessment time within a long implementation process and lack of assessment of specialized skills](ac-process-time-and-specialized-skill-challenges.md) — related

@@ -47,3 +47,4 @@ The review attributes this finding to Carlson et al.: sport-participating girls 
 ## Related Claims
 - [High leisure time physical activity and active commuting to school are each associated with increased odds of high academic achievement in both girls and boys](physical-activity-active-commuting-associated-achievement-adolescents.md) — related
 - [Regular physical activity (at least once per week) was associated with 81% higher odds of entrance exam success](regular-sport-associated-entrance-success.md) — related
+- [More sports club participation is associated with higher odds of high mathematics and language performance in both sexes](sports-club-hours-associated-higher-performance-both-subjects.md) — related

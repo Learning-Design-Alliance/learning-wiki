@@ -77,3 +77,4 @@ ANOVA comparing accuracy distributions across subjects for each model, with post
 - [Diagnostic accuracy and confidence vary widely across lesion types, with stafne bone cavity easiest and adenomatoid odontogenic tumor and odontogenic keratocyst hardest](case-difficulty-varies-across-radiographic-lesions.md) — related
 - [LLM performance on anatomy MCQs varies significantly across anatomical topics, with Head & Neck and Abdomen highest and Upper Limb lowest](llm-anatomy-topic-performance-variation.md) — a narrower finding that bears on this claim
 - [LLM accuracy varied sharply by histology topic: perfect in foundational areas and lowest in Muscle (76.0%)](histology-topic-difficulty-llm-performance.md) — related
+- [Residents' correct answers vary widely across nutrition topics, lowest for macronutrient distribution and highest for fish portions](topic-level-nutrition-knowledge-gaps-residents.md) — related

@@ -72,3 +72,4 @@ Tukey post hoc comparisons following the general linear model of baseline readin
 - [Non-verbal IQ mildly predicts the reading fluency advantage obtained during SFA-On periods, with lower-IQ students benefiting more](iq-predicts-soundfield-effect-score.md) — related
 - [Attention and speech perception in noise predict which children are most disadvantaged by open-plan classrooms](attention-and-speech-in-noise-predict-environment-sensitivity.md) — related
 - [In a mixed-effects model, classroom condition significantly predicted reading fluency development, with SFA-On and SFA-Off both exceeding baseline but not each other](sfa-mixed-model-condition-effect-reading-fluency.md) — related
+- [Reading scores correlate significantly with speech-in-noise scores and overall Sound Scouts scores across the whole cohort](reading-speech-in-noise-correlation-whole-cohort.md) — related

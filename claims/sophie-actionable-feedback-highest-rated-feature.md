@@ -50,3 +50,4 @@ Postinteraction survey ratings from SOPHIE arm participants on system features. 
 - [A 2024 vendor white paper cites research that avatars provide social presence and that realistic avatars in intelligent tutoring systems can increase student-tutor engagement](avatar-social-presence-increases-tutor-engagement.md) — related
 - [Students valued VSP convenience but rated realism and feedback value below human standardized patients](vsp-student-feedback-convenience-high-realism-low.md) — related
 - [Students rated the VSP system positively for usability and learning assistance, with comparatively low ratings for patient realism and authenticity](positive-ueq-ratings-vsp-system.md) — related
+- [Participants rate the pudendal block simulation intervention as useful and report satisfaction with the model, citing faculty feedback, hands-on practice, and realism](pudendal-block-simulation-high-satisfaction-ratings.md) — related

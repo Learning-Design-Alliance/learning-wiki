@@ -86,3 +86,4 @@ Block-RCT with 35 psychiatry residents assigned to SIM-ECT (n = 18) or tradition
 - [No statistically significant between-group difference in posttest total self-confidence or perceived stress after high-fidelity simulation versus theoretical instruction](hfs-no-posttest-between-group-difference-confidence-stress.md) — related
 - [Simulation training with 3D-printed trauma models yields significantly higher self-confidence than theoretical instruction alone at two weeks (p < 0.001)](3d-printed-simulation-raises-self-confidence-dental-trauma.md) — reports the opposite
 - [A VR ECMO simulation raised nursing students' learning immersion and satisfaction without improving knowledge, confidence, or clinical reasoning](vr-ecmo-immersion-without-knowledge-gain.md) — related
+- [Simulation-based training yields higher resident satisfaction and self-confidence ratings](simulation-training-higher-satisfaction-neonatal-residents.md) — reports the opposite

@@ -68,3 +68,4 @@ Confirmatory test on heart rate variability (ln RMSSD from a Polar Verity Sense)
 - [Wearable outcomes declined significantly across the academic year, including a 5.2% reduction in RMSSD and roughly 680 fewer steps per day by Week 33](semester-decline-wearable-outcomes-academic-year.md) — related
 - [Dictionary-based SEANCE features yielded 21 nominally significant within-person associations with wearable outcomes, but none survived Bonferroni or FDR correction](seance-nominal-associations-no-survivors.md) — related
 - [Physiological measures have limited validity for effort, especially for distinguishing data-driven from goal-driven effort](physiological-effort-measures-limited-validity.md) — related
+- [ChatGPT-assisted skill learning produces lower cognitive load than video-only learning, measured by change in pupil diameter](chatgpt-assisted-learning-lowers-cognitive-load-pupil-diameter.md) — reports the opposite

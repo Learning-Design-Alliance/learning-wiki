@@ -60,3 +60,5 @@ Safety outcome from the feasibility study (n = 32), with SSQ administered before
 - [Ocular discomfort after EyeSi VR simulation is mild and infrequent](eyesi-vr-mild-ocular-discomfort.md) — related
 - [Mild, transient cybersickness occurs in a minority of novices using 3D VR video acclimatisation](3d-vr-mild-transient-cybersickness.md) — related
 - [Students rated the VRAM software highly usable and safe, with minimal VR-induced symptoms](vram-usability-vrnq-ratings.md) — related
+- [AR-based anatomy learning is associated with fewer adverse health symptoms overall than traditional learning, except for blurred vision](ar-fewer-adverse-symptoms-except-blurred-vision.md) — related
+- [The VR training dose was under 60 cumulative minutes across two sessions, with no reported cybersickness](vr-training-dose-under-60-minutes.md) — related

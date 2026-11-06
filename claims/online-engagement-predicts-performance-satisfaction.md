@@ -49,3 +49,4 @@ SEM path analysis from the same 659-student survey; all six engagement→outcome
 - [Emotional engagement is the strongest predictor of motivation, especially need-based motivations](emotional-engagement-strongest-predictor-motivation.md) — related
 - [In agentic AI-supported online learning, perceived autonomy, competence, and relatedness are each positively associated with learning motivation](sdt-needs-positive-learning-motivation-agentic-ai.md) — related
 - [The comprehensive psychological need satisfaction configuration (competence core) has the highest coverage for high learning engagement, with GAI use unconstrained](comprehensive-need-satisfaction-configuration-principal.md) — related
+- [All three academic enthusiasm dimensions significantly predict academic performance, led by cognitive enthusiasm (β = 0.662)](enthusiasm-dimensions-predict-performance-jiroft.md) — related

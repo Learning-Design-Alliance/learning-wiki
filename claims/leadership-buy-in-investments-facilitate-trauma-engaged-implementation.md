@@ -94,3 +94,5 @@ Qualitative analysis of fall 2023 interviews with 36 district leaders, school le
 - [Nurses identify staffing levels, leadership support, teamwork, and the adverse event management system as factors influencing patient safety competency](influencing-factors-psychiatric-safety-competency.md) — related
 - [Panelists identified distributed leadership, role clarity, and structured team functioning as a core collaboration domain](smh-collab-leadership-team-functioning-domain.md) — related
 - [Managers identified facilitating factors for peer learning, including strong organizational support, sharing successful practices, and benchmarking against high-performing hospitals](peer-learning-facilitators-organizational-support-benchmarking.md) — related
+- [Time constraints were the main barrier to the intervention, while facilitator feedback and hospital leadership commitment sustained provider motivation](eenc-time-barrier-feedback-leadership-enablers.md) — related
+- [Senior managers' lack of belief in assessment is the most important cultural challenge to Assessment Center implementation](senior-manager-disbelief-top-cultural-ac-challenge.md) — related

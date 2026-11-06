@@ -53,3 +53,5 @@ Descriptive comparison of the study sample (n=106; 61 boys) using independent t-
 - [Girls outperform boys on effortful control, teacher-rated social competence, and achievement in this sample](sex-differences-ec-social-achievement.md) — reports the opposite
 - [Boys received more process praise and scored higher in 4th grade math than girls in this sample](gender-differences-process-praise-and-fourth-grade-math.md) — reports the opposite
 - [Sex does not moderate the baseline BMI × BMI-change effect on academic performance](sex-does-not-moderate-bmi-change-effect.md) — related
+- [Girls report higher academic performance than boys, by about 5 percentage points in mathematics and 13 in language](girls-outperform-boys-math-language-grades.md) — reports the opposite
+- [Children with language-type and mathematics-type LD showed no significant differences in age, BMI, IQ, physical activity, fitness, or sustained attention](no-subtype-differences-demographics-fitness-attention.md) — related

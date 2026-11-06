@@ -54,6 +54,7 @@ The article recommends that chemistry teachers and educators adopt the teaching 
 - [Use active, collaborative problem-solving methods with concrete teaching aids rather than lecture-only instruction](active-collaborative-problem-solving-with-teaching-aids.md)
 - [Adopt constructivist/inquiry strategies (7E and CBL) in chemistry teaching with adequate teacher preparation](adopt-7e-cbl-chemistry-strategy.md)
 - [Chemistry educators should analyse student difficulties and implement problem-solving instruction in stoichiometry](analyse-difficulties-then-problem-solving-instruction.md)
+- [Enhance simulation-based methods with detailed visual materials and real-life examples to teach complex observational skills](enhance-simulation-visual-materials-observational-skills.md)
 
 ## Examples
 -

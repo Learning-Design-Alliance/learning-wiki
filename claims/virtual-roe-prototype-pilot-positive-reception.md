@@ -51,3 +51,5 @@ Exploratory post-training survey during a demonstration session with five final-
 - [Medical students and interns poorly identified pressure ulcer risk in a patient-safety simulation](poor-pressure-ulcer-risk-identification-room-of-horrors.md) — related
 - [A boundary crossing intervention led most interprofessional design team members to perceive a set of HLC design principles as useful for structuring knowledge and gaining an overview of HLC design](boundary-crossing-intervention-enhances-perceived-usefulness-design-principles.md) — related
 - [Knowledge gaps within interprofessional teams produced mostly positive psychological pressure during team learning](ofst-positive-pressure-team-learning.md) — related
+- [Students highlighted raised risk awareness and professional relevance as the main positive outcomes of the room of horror](roh-raised-risk-awareness-highlighted.md) — related
+- [All participating nursing students evaluated the room of horror as relevant and educational for professional practice and would recommend it to peers](roh-students-rated-format-relevant-educational.md) — related

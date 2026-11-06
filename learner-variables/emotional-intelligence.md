@@ -13,7 +13,7 @@ generated:
 # Emotional Intelligence
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 104 claims (72 show a difference, 20 mixed, 12 no difference) · 69 studies (25 causal, 16 associational, 15 review, 10 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 69 report an effect size · 103 claims rest on one study
+> **Evidence** · 111 claims (75 show a difference, 22 mixed, 14 no difference) · 71 studies (25 causal, 18 associational, 15 review, 10 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 71 report an effect size · 110 claims rest on one study
 
 ## Description
 Emotional intelligence is the ability to perceive emotions accurately, use them to support thinking, understand them and manage them. It is measured either as an ability (performance tests) or as a self-reported trait. It correlates with academic achievement, more strongly in the humanities than in STEM subjects, and overlaps with [affect regulation](affect-regulation.md) and with social-emotional skills that programmes aim to build.
@@ -140,6 +140,13 @@ Emotional intelligence is the ability to perceive emotions accurately, use them 
 - [Digital technology use, emotional intelligence, and learning engagement are each significantly positively correlated with English academic performance](../claims/correlations-digital-technology-ei-engagement-english-performance.md) [+W] — learners who differ on it differ in outcomes
 - [Emotional intelligence and learning engagement jointly serially mediate digital technology use and English performance, with a modest and marginally stable distal effect](../claims/serial-mediation-ei-engagement-digital-technology-english.md) [~W] — learners who differ on it differ in outcomes
 - [Emotional intelligence partially mediates the relationship between digital technology use and English academic performance](../claims/ei-partial-mediation-digital-technology-english-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Academic self-efficacy significantly mediates the PWB–CGPA link at all EI levels, but the index of moderated mediation is not significant](../claims/ase-mediation-pwb-cgpa-stable-across-ei.md) [-W] — an instructional effect differs with it
+- [Emotional intelligence does not significantly moderate the relationship between psychological well-being and academic self-efficacy](../claims/ei-no-moderation-pwb-ase.md) [-W] — an instructional effect differs with it
+- [Emotional intelligence negatively predicts academic self-efficacy among Ghanaian pre-service teachers, contrary to prior literature](../claims/ei-negatively-predicts-ase-preservice.md) [+W] — learners who differ on it differ in outcomes
+- [Emotional intelligence significantly moderates the relationship between psychological well-being and CGPA, with the association strongest at high EI](../claims/ei-moderates-pwb-cgpa-link.md) [~W] — an instructional effect differs with it
+- [Psychological well-being, academic self-efficacy, and emotional intelligence each significantly and positively predict CGPA among pre-service teachers](../claims/pwb-ase-ei-predict-cgpa-preservice-teachers.md) [+W] — learners who differ on it differ in outcomes
+- [Trait and ability EI in 11th grade predict 12th-grade emotions towards school and academic achievement](../claims/ei-predicts-emotions-and-achievement.md) [+W] — learners who differ on it differ in outcomes
+- [Trait and ability EI mediate, at a low level, the link between entity ITEI and negative emotions and Portuguese grades](../claims/ei-mediation-of-entity-itei-effects.md) [~W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

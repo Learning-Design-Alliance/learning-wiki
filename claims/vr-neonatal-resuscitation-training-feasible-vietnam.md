@@ -49,3 +49,4 @@ Cross-sectional single-arm pilot study of 28 healthcare providers at the NICU of
 - [All 32 certified perinatal professionals completed the self-directed NCPR-VR workflow (100% completion rate)](ncpr-vr-100-percent-completion.md) — related
 - [Participants rated NCPR-VR highly useful and were willing to recommend it (median 5 of 5 on both)](ncpr-vr-usefulness-recommend-medians.md) — related
 - [Usefulness ratings of VR neonatal resuscitation training did not differ significantly by professional role or by years of NICU experience](vr-usefulness-no-subgroup-differences-role-experience.md) — related
+- [Undergraduate medical students rate VR anatomy scenarios as accurate and realistic compared to the traditional anatomy lab](vr-anatomy-scenarios-rated-accurate-realistic.md) — related

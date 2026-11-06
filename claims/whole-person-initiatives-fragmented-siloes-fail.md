@@ -63,3 +63,4 @@ The guide's introduction asserts, without presenting new data, that whole-person
 - [Structural Fragmentation of HRM Functions Impedes Strategic Coordination in School Districts](hrm-structural-fragmentation-impedes-coordination.md) — a narrower finding that bears on this claim
 - [Integrated student supports are associated with improvements in attendance, behavior, social functioning, and academic achievement](integrated-student-supports-positive-outcomes.md) — related
 - [Diet and nutrition education within dental and dental hygiene schools is often fragmented and incomplete](diet-nutrition-education-fragmented-incomplete.md) — a narrower finding that bears on this claim
+- [Poor educator knowledge, unfavorable attitudes, and lack of careful planning impede PBL](educator-knowledge-attitude-planning-barriers-pbl.md) — related

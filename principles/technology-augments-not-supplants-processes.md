@@ -31,7 +31,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 175 claims (109 for, 54 mixed, 12 against) · 143 studies (30 review, 30 qualitative, 30 theoretical, 27 causal, 15 design, 10 associational, 1 quant-synthesis), `q1`–`q4` · 8 of 143 report an effect size · 171 claims rest on one study
+> **Evidence** · 176 claims (110 for, 54 mixed, 12 against) · 144 studies (30 review, 30 qualitative, 30 theoretical, 27 causal, 15 design, 11 associational, 1 quant-synthesis), `q1`–`q4` · 8 of 144 report an effect size · 172 claims rest on one study
 
 ## Conditional relationship
 
@@ -269,6 +269,7 @@ Claims this page cited that the model above does not use. Each keeps its old mar
 - [Students rarely cross-check ChatGPT outputs, and use it most on topics where they have least knowledge, increasing risk of absorbing errors](../claims/students-rarely-cross-check-chatgpt-errors.md) [~W] — attached 2026-11-05 from Taylor A. W. R. et al. (2026), which proposed "Teach students about effective chatbot use and the value of cognitive effort, and promote autonomy and collaboration, to reduce passive AI use".
 - [Students experienced ethically scaffolded AI tools as cognitive partners, metacognitive mirrors, and equity tools in EFL writing](../claims/ai-cognitive-partner-metacognitive-mirror-equity-roles.md) [+W] — attached 2026-11-05 from Rashid S et al. (2025), which proposed "Embed generative AI in writing instruction through an Ethical Integration Protocol so collaboration promotes rather than undermines active learning".
 - [Pre-laboratory virtual simulation training raises medical students' pathogenic cocci test scores overall in a randomized controlled trial](../claims/virtual-simulation-raises-microbiology-lab-test-scores-rct.md) [+W] — attached 2026-11-06 from Lei Xu et al. (2025), which proposed "Integrate virtual simulation with traditional hands-on laboratory practice rather than substituting one for the other".
+- [Students overwhelmingly support VR as a supplementary anatomy learning tool but a majority do not see it fully replacing physical labs](../claims/students-support-vr-supplement-not-replacement.md) [+W] — attached 2026-11-06 from Hammouda Sana Ben et al. (2025), which proposed "Use VR anatomy simulation as a supplementary tool alongside, not instead of, traditional hands-on lab instruction".
 
 ## Objective and learner-valued goal
 

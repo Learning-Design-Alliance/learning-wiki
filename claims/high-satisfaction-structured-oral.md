@@ -47,3 +47,5 @@ Review synthesis of satisfaction outcomes across included studies. The review re
 ## Related Claims
 - [Structured oral examinations show higher reliability than traditional formats, with median Cronbach's alpha of 0.75 across studies](soe-outperform-traditional-reliability.md) — related
 - [Virtual oral examination formats perform comparably to in-person formats, with no significant differences in scores or pass rates](virtual-oral-comparable-in-person.md) — related
+- [Students rated the structured viva-voce more positively than the traditional viva-voce, particularly in content coverage and clarity of objectives](structured-viva-rated-higher-than-traditional.md) — related
+- [Students preferred the hybrid viva-voce format (56%) over structured (28%) and traditional (16%) formats](students-prefer-hybrid-viva-format.md) — related

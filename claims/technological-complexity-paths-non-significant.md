@@ -50,3 +50,4 @@ Structural model results (Table 5) from the PLS-SEM analysis: H5 (TC→PEOU, t =
 - [Self-efficacy shows no significant effect on perceived usefulness of e-learning platforms](self-efficacy-pu-path-non-significant.md) — related
 - [Computer anxiety negatively affects students' perceived ease of use of a learning management system](computer-anxiety-negative-effect-lms-peu.md) — related
 - [Five of the eight hypothesized relationships in the e-learning utilization model were statistically supported](ckapq-five-hypotheses-supported.md) — related
+- [Subjective norm showed no linear relationship with perceived ease of use or perceived usefulness, and its hypotheses were rejected](subjective-norm-no-relationship-3d-organon.md) — related

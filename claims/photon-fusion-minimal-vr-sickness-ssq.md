@@ -65,3 +65,4 @@ SSQ administered after the lab session; Table I reports nausea 3.18 (SD 4.77), o
 - [Cognitive load and cybersickness correlate negatively with sense of relevance and confidence in VR anatomy learning, though cybersickness was rare in this cohort](vr-cognitive-load-cybersickness-negative-correlations.md) — related
 - [Mild, transient cybersickness occurs in a minority of novices using 3D VR video acclimatisation](3d-vr-mild-transient-cybersickness.md) — related
 - [Students rated the VRAM software highly usable and safe, with minimal VR-induced symptoms](vram-usability-vrnq-ratings.md) — related
+- [AR-based anatomy learning is associated with fewer adverse health symptoms overall than traditional learning, except for blurred vision](ar-fewer-adverse-symptoms-except-blurred-vision.md) — related

@@ -55,3 +55,4 @@ Systematic review synthesis of three high-quality longitudinal cohort studies (n
 - [Psychosocial factors (bullying, interpersonal skills) and executive cognitive functions may mediate the obesity–achievement association](psychosocial-executive-mediation-obesity-achievement.md)
 - [Adolescent girls with obesity report weight-related teasing and exclusion particularly in Physical Education](weight-teasing-pe-adolescent-girls-obesity.md)
 - [Adolescents and parents perceive obesity affects achievement indirectly through attitude to school rather than directly](obesity-achievement-indirect-attitude-perception.md)
+- [Lower BMI, higher healthy diet score, and better sleep quality are associated with high language performance in girls but not boys](bmi-diet-sleep-quality-girls-language-performance.md) — related

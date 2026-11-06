@@ -48,3 +48,4 @@ Multivariate linear regression analysis of the trial's test results with group a
 - [Dynamic ultrasound images produce higher overall theory test scores than static images in abdominal sonography training](dynamic-images-higher-overall-ultrasound-theory-scores.md) — related
 - [Dynamic images improve comprehension of pathological findings over static images in ultrasound education](dynamic-images-improve-pathology-comprehension-ultrasound.md) — related
 - [Within the internist subgroup, dynamic-image training outperformed static-image training on overall and pathology scores](internist-subgroup-dynamic-image-advantage.md) — related
+- [Having previously performed an echocardiography significantly influences post-test theory scores](prior-echocardiography-influences-posttest.md) — related

@@ -13,7 +13,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 88 claims (64 show a difference, 19 mixed, 5 no difference) · 79 studies (20 review, 16 causal, 15 qualitative, 13 design, 5 quant-synthesis, 5 associational, 5 theoretical), `q1`–`q4` · 10 of 79 report an effect size · 84 claims rest on one study
+> **Evidence** · 93 claims (68 show a difference, 20 mixed, 5 no difference) · 83 studies (20 review, 17 causal, 15 qualitative, 15 design, 6 associational, 5 quant-synthesis, 5 theoretical), `q1`–`q4` · 10 of 83 report an effect size · 89 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -129,6 +129,11 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [Final-year dental students perceived the AI role-play as authentic and relevant to clinical practice, with 85.7% strongly agreeing it relates to real-life scenarios](../claims/ai-roleplay-perceived-authenticity-survey.md) [+M] — measured as an outcome of the instruction studied
 - [Contextual constraints — time pressure, facilitator variability, limited clinical exposure and lack of visual aids — moderate CBL effectiveness in resource-limited settings](../claims/cbl-constrained-by-resource-limited-context.md) [~M] — an instructional effect differs with it
 - [Students in the high-tech group reported higher engagement and perceived value than low-tech students, who wanted more high-tech exposure](../claims/high-tech-simulation-qualitative-engagement.md) [+W] — learners who differ on it differ in outcomes
+- [All participating nursing students evaluated the room of horror as relevant and educational for professional practice and would recommend it to peers](../claims/roh-students-rated-format-relevant-educational.md) [+M] — measured as an outcome of the instruction studied
+- [Learners rated the multidisciplinary simulation favorably on faculty competence, case relevance, and realism](../claims/simulation-learner-feedback-favorable.md) [+M] — measured as an outcome of the instruction studied
+- [Students highlighted raised risk awareness and professional relevance as the main positive outcomes of the room of horror](../claims/roh-raised-risk-awareness-highlighted.md) [+M] — measured as an outcome of the instruction studied
+- [TDF analysis identified Intentions and Social/Professional Role and Identity as enablers, and Environmental Context and Resources plus Memory, Attention and Decision Processes as the biggest barriers to MECC HCS implementation](../claims/mecc-hcs-tdf-barriers-enablers.md) [~M] — learners who differ on it differ in outcomes
+- [Workplace-organised training and frequent emergency-drill participation are associated with higher engagement in disaster management roles](../claims/training-and-drills-boost-disaster-engagement.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

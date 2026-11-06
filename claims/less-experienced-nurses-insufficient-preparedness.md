@@ -52,3 +52,4 @@ Multivariable logistic regression on insufficient preparedness among 100 ICU nur
 - [Palliative care training is significantly associated with Ethiopian nurses' knowledge of palliative care (AOR = 4.64)](palliative-care-training-associated-with-nurse-knowledge-aor-4-64.md) — related
 - [Recent workshop attendance predicts confidence in performing CPR (aOR = 6.93), while male dentists report lower confidence (aOR = 0.59)](workshop-and-gender-predict-cpr-confidence.md) — related
 - [Prior real-life emergency encounters strongly predict good BLS/CPR knowledge among dentists (aOR = 12.97)](emergency-encounter-predicts-bls-knowledge.md) — related
+- [Any form of BLS training and current certification are associated with higher competency, while experience and CPR frequency are not](bls-training-certification-competency-association.md) — reports the opposite

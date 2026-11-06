@@ -59,3 +59,4 @@ Wilcoxon W test comparing 16 males and 20 females on the post measurement; Table
 - [Gender has no significant main effect on gifted students' post-test achievement in the study](gender-no-significant-main-effect-gifted-achievement.md) — related
 - [No statistically significant post-test difference between male and female students within the Prezi experimental group](no-gender-difference-prezi-group-posttest.md) — related
 - [Skill acquisition in the experimental group did not differ significantly by sex, academic year, or university major](no-demographic-differences-skill-acquisition.md) — related
+- [Female students achieved higher MSE accuracy than male students across intervention groups](sex-difference-mse-accuracy-females-higher.md) — related

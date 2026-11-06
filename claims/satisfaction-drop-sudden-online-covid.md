@@ -57,3 +57,4 @@ National random-sample survey of 1,008 undergraduates whose in-person courses mo
 - [Over 90% of students reported satisfaction with online learning resources and completion of online assignments in the blended PET course](high-online-self-learning-satisfaction-blended-pet.md) — related
 - [About half (51.79%) of medical science students were satisfied with e-learning during the COVID-19 pandemic across 24 cross-sectional studies](medical-students-elearning-satisfaction-51-79-percent-covid.md) — related
 - [Composite satisfaction scores were higher (less satisfied) in the in-person group, converging with item-level findings](composite-score-in-person-lower-satisfaction.md) — reports the opposite
+- [Most dental students were satisfied with and showed a positive attitude toward technology-based learning during the COVID-19 lockdown](dental-students-satisfied-positive-attitude-tbl.md) — reports the opposite

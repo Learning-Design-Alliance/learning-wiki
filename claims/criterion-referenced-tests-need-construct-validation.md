@@ -76,3 +76,4 @@ The paper's 'Need for a Data Base' section argues, as a theoretical position, th
 - Critical thinking is rarely defined in HCI research about AI, with fundamental construct and criterion validity challenges — a narrower finding that bears on this claim
 - [The created test tasks showed high validity (β = 0,97) via a Delphi procedure with 10 experts](test-validity-delphi-beta-097.md) — a narrower finding that bears on this claim
 - [The pretest and posttest demonstrated significant criterion-referenced validity against the Oxford Placement Test](pretest-posttest-criterion-referenced-validity-opt.md) — related
+- [Deficiencies in assessment tool design and scoring consistency undermine the reliability and validity of some Assessment Center tools](ac-tool-design-gaps-undermine-reliability-validity.md) — a narrower finding that bears on this claim

@@ -220,6 +220,7 @@ An engaging experience, an immediate skill gain, an explanation, near transfer, 
 - [Fixed disease-module curriculum architecture combining contouring, structured plan review, MDT debriefing and narrative feedback](../designs/fixed-disease-module-curriculum-architecture.md)
 - [Combine hands-on experiential engagement with peer-led teaching to build disposal knowledge and advocacy in cascade](../strategies/experiential-plus-peer-led-cascade-model.md)
 - [Facilitate debriefing as guided reflection linking theory to practice](../strategies/guided-reflection-debriefing-facilitation.md)
+- [Establish university-led exercise services as an alternative source of authentic clinical learning when placements are scarce](../strategies/university-led-exercise-services-cep.md)
 
 ## Key Sources
 - Dernova, M. (2015). Experiential learning theory as one of the foundations of adult learning practice worldwide. *Comparative Professional Pedagogy, 5*(2). [doi:10.1515/rpp-2015-0040](https://doi.org/10.1515/rpp-2015-0040)

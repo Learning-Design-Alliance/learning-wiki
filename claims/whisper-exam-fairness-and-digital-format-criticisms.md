@@ -54,3 +54,4 @@ Thematic categorization of optional free-text comments from 80 of 190 students (
 - [The collaborative case-based ‘whisper exam’ is feasible to implement as summative assessment in undergraduate medical education, with a 93.1% pass rate among 350 third-year students](whisper-exam-feasible-summative-collaborative-assessment.md) — related
 - [Qualitative feedback raised concerns about perceived lack of experience for certain tasks, such as complex endodontic treatment and communication skills](qualitative-concerns-experience-epas.md) — related
 - [Opponents of CSA raised eleven categories of concerns, including sufficiency of the written exam, scoring-rubric difficulty, and academic workload](csa-opposition-eleven-concern-categories.md) — related
+- [Subjective assessment and lack of continuous evaluation undermine PBL](subjective-assessment-and-no-continuous-evaluation-pbl.md) — related

@@ -48,3 +48,4 @@ Cross-sectional survey across the three cohorts; the Results report "no signific
 ## Related Claims
 - [Medical students' attitudes toward digitalization became more reserved in 2022, with greater uncertainty about digitalization changing practical work and a decline in health-promotion perceptions after a 2016–2021 rise](2022-reserved-attitudes-digitalization.md) — related
 - [There was no statistically significant difference between cohorts in preference for physical models, with a small-to-medium effect suggesting slightly greater 2022 preference](no-cohort-difference-physical-model-preference.md) — related
+- [Postgraduates showed lower acceptance of the new periodic assessment method than advanced students, though the group difference was not statistically significant](postgraduates-lower-acceptance-periodic-assessment.md) — related

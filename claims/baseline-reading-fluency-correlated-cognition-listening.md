@@ -53,3 +53,4 @@ Correlational analysis of baseline measures in the cohort (Table 1 reports N of 
 - [Baseline reading fluency correlates with IQ, attention and working memory but not with age or speech perception in noise](baseline-reading-correlates-iq-attention-working-memory.md) — reports the opposite
 - [Attention and speech perception in noise predict which children are most disadvantaged by open-plan classrooms](attention-and-speech-in-noise-predict-environment-sensitivity.md) — related
 - [Non-verbal IQ mildly predicts the reading fluency advantage obtained during SFA-On periods, with lower-IQ students benefiting more](iq-predicts-soundfield-effect-score.md) — related
+- [Reading scores correlate significantly with speech-in-noise scores and overall Sound Scouts scores across the whole cohort](reading-speech-in-noise-correlation-whole-cohort.md) — related

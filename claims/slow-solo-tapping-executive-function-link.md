@@ -90,3 +90,4 @@ Step-2 model-change test in the inhibition model; parallel non-significant chang
 - [A co-tapping partner reduces synchronization variability significantly more at 150 bpm metronome (near children's SMT) than in music or slow bimanual tasks](social-scaffolding-sms-smt-aligned-contexts.md) — related
 - [Rhythmic context dominates synchronization variability: music tapping is far less synchronized than metronome tapping, while the 50 bpm bimanual task does not differ from 150 bpm](task-context-dominates-sms-variability.md) — related
 - [Across all three task types, joint tapping yields modestly but reliably lower synchronization variability than solo tapping in 4–5-year-olds](joint-tapping-main-effect-variability.md) — related
+- [HRV improvement predicts academic grades, working memory, and self-pressure, but not Stroop cognitive flexibility](hrv-predicts-grades-memory-not-stroop.md) — related

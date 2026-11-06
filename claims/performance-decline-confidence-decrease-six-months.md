@@ -51,3 +51,4 @@ A Wilcoxon signed-rank test on 127 participants' averaged OSCE ratings found per
 - [Self-monitoring accuracy for a complex clinical skill improved over a six-month retention interval](self-monitoring-accuracy-improves-over-six-months.md) — possibly the same claim (merge candidate)
 - [Doctoral students' conceptual understanding of data visualization declined significantly over twelve months following structured instruction](conceptual-visualization-knowledge-declines-twelve-months.md) — related
 - [Training-related factors positively influenced confidence and performance](training-factors-boost-confidence-and-performance.md) — reports the opposite
+- [OSCE skill levels declined over time in both groups, while the intervention group maintained comparatively higher skill levels at 6 months](osce-skills-declined-over-time-both-groups.md) — related

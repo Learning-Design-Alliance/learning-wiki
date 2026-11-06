@@ -59,3 +59,4 @@ Student focus group data (Theme 3, Subtheme 3.1.3). Participants reported fear o
 - [Small, discussion-based course formats are described by students as fostering psychological safety, validation, and peer connection that function as a central learning mechanism](small-discussion-formats-psychological-safety.md) — related
 - [Teachers perceived that making students feel stressed during simulations is nonbeneficial for developing nursing students' critical thinking, favouring exciting and fun learning opportunities.](stress-free-motivating-climate-ct-nursing-sbl.md) — related
 - [Male nursing students felt anxiety and stress during simulation due to cultural, religious and evaluative factors](simulation-anxiety-stress-cultural-evaluative-factors.md) — related
+- [Students' lack of confidence in problem-solving skills reduces active participation in PBL](student-confidence-problem-solving-pbl-participation.md) — possibly the same claim (merge candidate)

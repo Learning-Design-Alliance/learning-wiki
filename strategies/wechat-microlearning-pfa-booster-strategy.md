@@ -49,6 +49,7 @@ Facing the observed decline in skills at the 2-month follow-up, the authors reco
 - [Use regular refresher training to counter significant decline in BLS knowledge and skills at 3 months](regular-refresher-training-for-bls-decline.md)
 - [Add post-training support measures and competency-refresh strategies to sustain effects and enable real-world implementation of change-agent actions](post-training-support-measures-ca-role.md)
 - [Use flexible, context-specific BLS training strategies — mobile learning, small-group simulation, train-the-trainer, routine refreshers and remote supervision — in conflict settings](wartime-bls-training-strategies-gaza.md)
+- [Repeat simulation training 6 months after initial training to sustain PPH knowledge and skills](repeat-simulation-training-six-months-pph.md)
 
 ## Examples
 -

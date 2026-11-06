@@ -46,3 +46,4 @@ Gender comparison within the survey sample using t tests. "Males performed signi
 
 ## Related Claims
 - [Female trainees report fewer operative cases and less operative experience than male trainees in several surgical specialties](gender-surgical-case-volume-gaps.md) — a broader claim this one bears on
+- [Female trainees report more perceived anxiety, longer operating times and reduced confidence after a surgical hiatus](female-trainees-greater-perceived-decay-and-confidence-loss.md) — related

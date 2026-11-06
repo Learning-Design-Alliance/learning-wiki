@@ -137,3 +137,5 @@ Participants also reported "the lack of emotional connection and dependence on t
 - [DeepSeek-assisted PBL residents report higher trust in course information yet greater concern about inaccurate AI medical advice](deepseek-pbl-trust-paradox-inaccuracy-concern.md) — related
 - [Chatbot explanations achieved acceptable content validity (average CVI ≥0.92) despite occasional hallucinated or fabricated references](chatbot-explanations-acceptable-cvi-despite-hallucinated-references.md) — related
 - [Potential negative consequences of LLM use in nursing education include academic integrity concerns, inaccurate output, bias, and over-reliance](llm-nursing-education-negative-consequences.md) — a broader claim this one bears on
+- [Most students viewed ChatGPT positively as a teaching tool, while lack of interactivity was the most common drawback](chatgpt-positive-role-lack-of-interactivity.md) — related
+- [Verisimilitude limitations—absent visual, tonal, and nonverbal cues and lack of rapport—persisted as a limiting factor for all students using ChatGPT as a standardized patient](verisimilitude-limits-chatgpt-sp.md) — related

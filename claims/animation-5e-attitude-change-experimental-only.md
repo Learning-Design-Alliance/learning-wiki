@@ -58,3 +58,4 @@ Pre/post attitude scale comparison within each group in the quasi-experiment, us
 - [Virtual museum application significantly improved open education students' attitudes toward history lessons.](virtual-museum-application-improves-history-attitudes.md) — related
 - [Professional attitudes toward physiotherapy did not change under any instructional model](no-attitude-change-any-instructional-model.md) — related
 - [Scenario-based animation training produced higher post-test e-learning attitudes than routine skill video training, which alone did not change attitudes](rom-animation-higher-attitude.md) — related
+- [Puzzle-based teaching raises total motivation toward instructional material more than lecture alone](puzzle-teaching-raises-instructional-material-motivation.md) — related

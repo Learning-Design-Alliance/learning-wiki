@@ -51,3 +51,4 @@ Reliability study: a three-station OSCE (chest pain, urinary tract infection, ga
 - [OSCE designs with 5-10 stations achieve good internal consistency (Cronbach's alpha = 0.83), outperforming designs with fewer than 5 or more than 10 stations](osce-5-10-stations-optimal-reliability.md) — related
 - [Student performance with virtual patients correlates only weakly and non-significantly with performance with human standardized patients](vp-concurrent-validity-weak-correlation.md) — related
 - [Overall OSCE internal consistency is acceptable but varies widely across stations](osce-internal-consistency-varies-across-stations.md) — related
+- [A seven-station virtual OSCE showed Cronbach's alpha of 0.67 across stations, with no station deletion improving alpha](virtual-osce-cronbach-alpha-067.md) — related

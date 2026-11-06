@@ -50,3 +50,4 @@ Exploratory bi-variate Pearson correlation analysis of assessor factors (functio
 - [Assessors' first impression ratings of medical students do not differ significantly by student ethnicity for either ascending or descending performances](no-ethnic-difference-first-impression-ratings-wba.md) — related
 - [Assessors' confidence in their first impression ratings does not differ by student ethnicity](no-ethnic-difference-confidence-first-impressions.md) — related
 - [Rating changes are larger for descending than ascending performances, regardless of student ethnicity](rating-changes-larger-descending-performances.md) — related
+- [Assessor-related challenges include lack of expert assessors, differing assessment methods and ability levels, and a tendency toward balanced scoring](assessor-variation-and-balanced-scoring-challenges.md) — related

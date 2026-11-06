@@ -51,6 +51,7 @@ Experts recommended clarifying and standardizing EA terminology so stakeholders 
 ## Related Strategies
 
 - [Establish standard definitions and mission-aligned competencies for admissions](standardize-admissions-definitions-mission-aligned-competencies.md)
+- [Develop a standardised and accredited training pathway from undergraduate through to postgraduate level for CEP competency](standardised-undergraduate-postgraduate-cep-pathway.md)
 
 ## Examples
 -

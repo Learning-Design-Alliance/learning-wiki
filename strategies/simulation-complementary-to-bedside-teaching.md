@@ -60,6 +60,7 @@ The article recommends that the demand for modern teaching methods observed amon
 - [Integrate occupational adaptive learning with simulation training, case studies, and interdisciplinary collaboration to strengthen clinical pharmacist preparation](integrate-adaptive-learning-with-simulation-case-studies.md)
 - [Use educational simulation software as a supplement to lectures and hospital-based clinical practice in nursing education](simulation-software-supplement-to-lecture-and-clinical-practice.md)
 - [Use multiple teaching methodologies — case- or team-based learning, flipped classrooms, simulation, augmented reality, and interactive virtual patients — to build TDI competence](multiple-teaching-methods-tdi-confidence.md)
+- [Integrate simulation-based education into traditional lecture-based teaching during the clinical apprenticeship phase of medical imaging courses](integrate-sbe-into-tbe-clinical-apprenticeship-phase.md)
 
 ## Examples
 -

@@ -69,3 +69,4 @@ A quasi-experiment in a courseware project compared two intact classes: one (42 
 - [Flipped classroom instruction produced higher instructional material motivation scores than traditional instruction](flipped-classroom-higher-motivation-imms.md) — related
 - [Flipped learning improves higher-order thinking skills (analyzing, evaluating, creating) of college business ESP students more than traditional teaching](flipped-learning-improves-hots-business-esp-students.md) — related
 - [A project-based flipped learning model raised translation competence test scores in a Business English Translation course over one 16-week semester](flipped-translation-competence-posttest-gain.md) — related
+- [ChatGPT-assisted learners report higher posttest learning motivation and self-efficacy than video-only learners](chatgpt-assisted-learning-raises-motivation-self-efficacy.md) — related

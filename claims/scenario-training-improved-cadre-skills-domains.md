@@ -70,3 +70,4 @@ Endline comparison in Results: the intervention group held its midline skill sco
 - [The education programme increased health cadres' confidence at midline and endline](education-increased-cadre-confidence.md) — related
 - [A 3-week scenario-based education programme significantly increased health cadres' competency scores compared with no education](education-programme-increased-health-cadre-competency.md) — a broader claim this one bears on
 - [In a mixed-effects model, intervention group, baseline knowledge and midline health assessment skill positively predicted endline competency, while age was negatively associated](mixed-model-predictors-of-cadre-competency.md) — related
+- [The no-intervention control group also showed significant knowledge and attitude increases, attributed to confounding](control-group-also-improved-confounding.md) — related

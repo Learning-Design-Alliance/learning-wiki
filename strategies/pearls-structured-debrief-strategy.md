@@ -51,6 +51,7 @@ After each simulation case, a faculty facilitator leads a structured debrief bas
 - [Use a structured debriefing script (modified PEARLS) to scaffold self-guided debriefing in VR simulation](structured-script-scaffolds-self-guided-debriefing.md)
 - [Include a post-game debriefing period in which groups reflect on an evolutionary tree from the game through guided questions.](venomventure-post-game-debriefing-strategy.md)
 - [Pause & Discuss: student-controlled pausing of simulation for team clinical reasoning](pause-and-discuss-simulation-strategy.md)
+- [Use familiar debriefing frameworks (PEARLS, the Diamond, Scottish centre debrief model, Gather-Analyze-Summarize) to structure meta-debriefing conversations and role-model ideal debriefing behaviors](framework-structured-meta-debriefing-strategy.md)
 
 ## Examples
 -

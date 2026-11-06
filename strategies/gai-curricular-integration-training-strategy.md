@@ -69,6 +69,7 @@ The article recommends that GAI-based teaching be adopted as a complement to, no
 - [Integrate AI-assisted virtual patient pre-class work with flipped classroom in-class discussion for clinical decision-making training](ai-assisted-cbl-fc-blended-strategy.md)
 - [Incorporate artificial intelligence and platform-based course recommendations into future blended teaching](future-ai-integration-blended-medical-teaching.md)
 - [Position AI simulation as a complement to—not a replacement for—traditional clinical placements, with faculty preparation and dedicated quiet spaces](ai-simulation-as-complement-not-replacement.md)
+- [Incorporate artificial intelligence and high-technology simulation methods into future oncology simulation research and practice](ai-enhanced-future-oncology-simulation.md)
 
 ## Examples
 -

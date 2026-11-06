@@ -69,3 +69,4 @@ Paired-sample t-tests on the same 39-student pre-post survey; 14 outliers identi
 - [Post-interviews with props and embodiment revealed understanding of macro–micro particle changes that the multiple-choice post-test did not capture.](step-interview-surfaces-micro-micro-understanding.md) — related
 - [Video-group students self-reported better understanding of the material than textbook-group students (44% vs 36% felt they understood well or very well)](video-group-higher-self-reported-understanding.md) — related
 - [Experiment-group students reported in interviews that caricature animations helped them understand the subjects better](interviews-students-understand-better-with-caricatures.md) — related
+- [The online seminar with preparatory case processing was rated positively for deepening understanding and enabling active participation](online-seminar-case-preparation-positive-ratings.md) — related

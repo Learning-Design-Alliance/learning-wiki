@@ -48,7 +48,8 @@ Based on both studies' findings, the authors recommend that "digital platforms a
 - [Older learners outperform under passive instruction while younger learners outperform under active instruction (learner age × learning approach interaction)](../claims/older-adults-passive-beats-active-concept-learning.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Deliver community-based active learning health education combining lectures, discussion, self-planning and family homework for older adults](community-active-learning-health-education-strategy.md)
 
 ## Examples
 -

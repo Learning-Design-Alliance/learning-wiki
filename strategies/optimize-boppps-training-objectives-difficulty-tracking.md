@@ -50,6 +50,7 @@ The article recommends that future implementations focus on "dynamically refinin
 - [Prioritize longitudinal studies tracking trainees from simulation to real-world surgical performance](longitudinal-simulation-to-or-tracking-studies.md)
 - [Prioritize multicenter, randomized designs with standardized reporting and longitudinal follow-up in future surgical education research](prioritize-multicenter-randomized-standardized-reporting-research.md)
 - [Maintain a difficulty-classified dynamic case bank and rotate group roles to counter implementation challenges](case-bank-role-rotation-strategies.md)
+- [Design room of horror exercises with realistic room design, group sizes below four, and repetition with increasing complexity across the programme](roh-design-realistic-rooms-small-groups-repetition.md)
 
 ## Examples
 -

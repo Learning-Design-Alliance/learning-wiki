@@ -50,3 +50,4 @@ Sentiment analysis across target audiences of the 214 documents: administrators 
 - [Sentiment scores in GenAI guidelines do not differ significantly by institution size, though small institutions show the highest mean](no-sentiment-difference-institution-size.md) — related
 - [Sentiment toward GenAI in university guidelines is highly positive and does not differ significantly between private and public institutions](no-sentiment-difference-private-public-genai-guidelines.md) — related
 - [The number of constraints teachers raise about the ML tool differs significantly by teaching grade level, while reported strengths do not.](tpk-constraints-grade-difference.md) — related
+- [Simulator ratings differed significantly by experience level, with experts highest on environmental realism and fellows highest on training effectiveness](vr-simulator-ratings-differ-by-experience-level.md) — related

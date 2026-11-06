@@ -51,3 +51,4 @@ Confirmatory factor analysis of responses from 101 second-year nursing students 
 - [Confirmatory factor analysis with 448 secondary students showed the 32-item SAICS measurement model has good fit and high validity and reliability](saics-cfa-good-model-fit-448-students.md) — related
 - [A confirmatory factor analysis supports a four-factor structure of collaborative group engagement (behavioural, social, cognitive, conceptual-to-consequential) for the QCGE self-assessment scale](qcge-sas-four-factor-structure-cfa-supported.md) — related
 - [The ACE-HE measurement model of affective, behavioral, and cognitive engagement fits online/blended survey data well](ace-he-engagement-three-dimension-model-good-fit.md) — related
+- [The Turkish-adapted Mindfulness in Teaching scale confirms its two-dimensional structure with adequate fit in the study sample](mindfulness-in-teaching-scale-turkish-cfa.md) — related

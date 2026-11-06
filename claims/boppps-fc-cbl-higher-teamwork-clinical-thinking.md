@@ -62,3 +62,4 @@ Randomised trial of 38 general-practice residents (19 per group) in one hospital
 - [BOPPPS-CBL students self-report significantly greater learning effects across all five measured dimensions](boppps-cbl-higher-learning-effect-self-ratings.md) — related
 - [More flipped classroom residents self-reported improved communication, problem-solving, information-retrieval and teamwork abilities than lecture-based residents](fc-residents-self-reported-learning-ability-gains.md) — related
 - [Over 80% of students rated the HIS-based BOPPPS model positively on learning efficiency, interest, clinical thinking ability, and course satisfaction](boppps-his-positive-student-evaluations.md) — related
+- [Students receiving simulation-based education rate the teaching higher than traditionally taught students for learning interest, imaging thinking, teamwork, and communication skills](sbe-higher-ratings-nontechnical-domains.md) — related

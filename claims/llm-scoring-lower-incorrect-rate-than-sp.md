@@ -51,3 +51,4 @@ Evidence snapshot section: the review reports, citing the cited JMIR Medical Edu
 - [Performance-based assessments score low on generalizability, reliability, and standardization, with rater effects influencing scores](pba-psychometric-weaknesses.md) — related
 - [Multiagent framework demonstrated stable cross-specialty scalability with lower variability than single-LLM baseline](multiagent-stable-cross-specialty-scalability.md) — related
 - [Independent LLM evaluators agreed on agent rankings but differed markedly in leniency, with ceiling effects compressing between-agent discrimination](llm-evaluator-leniency-ceiling-effects.md) — related
+- [ChatGPT functioned effectively as an augmentation to traditional standardized patients but could not fully substitute for them](chatgpt-augments-not-replaces-sps.md) — related
