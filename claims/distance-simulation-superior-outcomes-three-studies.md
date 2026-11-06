@@ -110,3 +110,4 @@ Study of 11 novice surgical trainees evaluating a virtual classroom training pla
 - [Undergraduates trained on a VR cataract simulation platform scored significantly higher total scores than traditionally trained peers in both traditional and VR assessments](vr-cataract-simulation-higher-total-scores.md) — related
 - [Augmented reality and 3D-printing simulation models improve surgical skill metrics and are cost-effective for resident training](ar-3d-printing-simulation-urology-resident-training.md) — related
 - [Progression-focused simulation curricula (FRS, SIMULATE) yield superior outcomes compared to traditional training methods](frs-simulate-progression-curricula-superior-outcomes.md) — related
+- [Robotic simulation training improves surgical skill acquisition, with progressive competency-based training raising competence rates in junior residents](robotic-simulation-competency-training.md) — related

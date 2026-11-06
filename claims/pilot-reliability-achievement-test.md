@@ -49,3 +49,4 @@ Pilot study with 9 prospective English teachers who had previously taken the sam
 - [Both computer-based and paper-based versions of the achievement test show high split-half reliability coefficients](high-reliability-both-test-modes.md) — related
 - [The final test variants met reliability criteria: split-half correlations exceeded the critical value and the Brown-Spearman reliability coefficient was 0,8](test-reliability-splithalf-brown-spearman.md) — related
 - [Computer-based and paper-based test versions show a strong positive correlation supporting concurrent validity](strong-correlation-concurrent-validity-cbt-pbt.md) — related
+- [Split-half analysis supports the internal consistency of the Turkish-adapted tool (Spearman–Brown = 0.800, Guttman = 0.796)](turkish-clt-tool-split-half-spearman-brown-0800.md) — related

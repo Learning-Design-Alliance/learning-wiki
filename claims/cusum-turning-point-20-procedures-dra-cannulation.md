@@ -53,3 +53,4 @@ Prospective observational analysis of 180 procedures by 3 novice residents; pool
 - [Surgeons achieved proficiency in Versius-assisted radical prostatectomy within 40 cases, with experienced surgeons reaching proficiency after 23 cases and novice surgeons after 37](versius-rp-proficiency-under-40-cases.md) — related
 - [Operative time decreased significantly across the learning curve, from 27.1 to 20.4 minutes between phases](operative-time-reduction-thd-anolift.md) — related
 - [Operative time in laparoscopic radical prostatectomy reaches a proficiency plateau after the 61st case in this series](lrp-operative-time-plateau-case-61.md) — related
+- [Surgeons, including novices, achieve robotic OSB repair competency on the simulator within 15–21 procedures](competency-within-15-21-frost-procedures.md) — related

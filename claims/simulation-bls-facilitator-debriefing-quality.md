@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: bhuvaneswari-s-2026
     resource: "https://doi.org/10.1186/s12909-026-09260-1"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Supportive facilitators who provided clear instructions, constructive feedback, and reflective debriefing were highly valued by participants. [→ Bhuvaneswari S 2026](#bhuvaneswari-s-2026)
@@ -59,3 +60,4 @@ Qualitative thematic finding from focus group discussions with 40 nursing studen
 - [Physicians expressed a strong desire for immediate real-time procedural feedback with structured debriefing](physicians-desire-real-time-structured-cvc-feedback.md) — related
 - [Medical students valued debriefing sessions after VR training as key opportunities for reflection and consolidating learning](debriefing-valued-reflection-consolidation-vr.md) — related
 - [Feedback via simulation debriefing acts as a mirroring tool that builds self-knowledge and ownership of actions](debrief-feedback-mirror-self-knowledge-ownership.md) — related
+- [High-quality case handbooks with clear learning outcomes and role-play facilitator training were highly valued supports for CBL facilitation](cbl-handbooks-and-role-play-training-valued.md) — related

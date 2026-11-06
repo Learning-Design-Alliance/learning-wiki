@@ -68,3 +68,4 @@ Retrospective comparison on eCREST Case 1: overall proportion of relevant diagno
 - [PA and medical students ask similar proportions of essential questions and select similar essential physical exams and bedside tests in eCREST cases](pa-medical-students-similar-data-gathering-ecrest.md) — related
 - [Medical and PA students' reflective takeaways differ: medical students more often cite open-mindedness, PAs more often cite knowledge improvement](reflection-themes-differ-pa-medical-students.md) — related
 - [Both cohorts significantly improve ability to identify factors influencing BPM accuracy (medical p = 0.002; PA p = 0.035)](bpm-factor-identification-gains.md) — related
+- [Virtual simulation practice improves efficiency of differential diagnosis in medical students for abdominal pain and loss of consciousness cases](virtual-simulation-improves-diagnostic-efficiency.md) — related

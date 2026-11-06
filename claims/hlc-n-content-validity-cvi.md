@@ -58,3 +58,5 @@ Content validity evaluation based on relevance ratings by the 16 Delphi experts.
 - [Expert-rated content validity of the scale is strong, with item-level CVI of 0.80 to 1.00 and scale-level CVI of 0.96](endoscopy-nurse-scale-content-validity.md) — related
 - [Expert consultation yields high content validity for the scale: item CVI 0.78–1.00 and overall scale CVI 0.91](palliative-communication-scale-cvi-091-content-validity.md) — related
 - [Expert content review using the Davis method removed five draft items with content validity indices below 0.80](scas-content-validity-davis-cvi-item-removal.md) — related
+- [Content validity of ANTStr is high, with all item CVR values above 0.78 and a CVI of 0.97](antstr-content-validity-cvi-097.md) — related
+- [Expert review supports the content validity of the Turkish-adapted tool, with a content validity index of 0.80 and content validity ratio of 1.00](turkish-clt-tool-content-validity-cvi-080.md) — related

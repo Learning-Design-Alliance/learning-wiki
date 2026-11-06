@@ -53,3 +53,4 @@ Conventional text analysis of open-ended feedback (20 valid AI-VSP comments, 24 
 - [SEGUE-based simulation training with either AI-VSPs or traditional SPs: medical students' communication scores rose significantly from pre-test to post-test in within-group comparisons](segue-simulation-training-improves-communication-scores.md) — related
 - [More connectivity failures during VSP interviews were associated with lower student ratings](connectivity-failures-lower-vsp-ratings.md) — related
 - [Sentiment analysis of GAI-generated VSP responses showed predominantly negative sentiment, consistent with clinical realism](vsp-responses-negative-sentiment.md) — related
+- [Among RFETM-group students, 95.85% gave positive open-ended feedback, 3.63% neutral or uncertain, and 0.52% negative](rfetm-open-ended-comments-mostly-positive.md) — related

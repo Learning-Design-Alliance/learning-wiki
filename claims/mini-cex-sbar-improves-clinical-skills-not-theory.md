@@ -67,3 +67,5 @@ Course achievement comparison in the quasi-experimental study: clinical skills f
 - [Overall teaching satisfaction is higher under SBAR plus mini-CEX, but two satisfaction dimensions show no between-group difference](sbar-minicex-teaching-satisfaction-mixed.md) — related
 - [Most Mini-CEX students reported improved clinical skills and confidence and wanted the tool to continue](mini-cex-student-satisfaction-confidence.md) — related
 - [Paired t-tests showed statistically significant differences in overall assessment scores between the two teaching methods](pbl-sth-paired-ttest-assessment-outcomes.md) — related
+- [Ultrasound residents trained with CBL and mind mapping combined with Mini-CEX scored higher on graduation theory and practical tests than residents in traditional training](cbl-mindmap-minicex-higher-test-scores-ultrasound-residents.md) — related
+- [Operating room trainees assessed with the Mini-CEX score significantly higher than trainees assessed with the routine Logbook](mini-cex-higher-scores-than-logbook-operating-room-trainees.md) — related

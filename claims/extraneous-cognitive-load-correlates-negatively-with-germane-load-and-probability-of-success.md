@@ -75,3 +75,4 @@ Same correlational analysis, CLM extraneous subscale against QCM: "extraneous co
 - [ARPG+ shifts cognitive load composition toward productive effort and reduces overload frequency in simulation](arpg-plus-load-composition-shift-and-overload-reduction.md) — related
 - [Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load](germane-load-redistributive-function-reformulation.md) — related
 - [During an exam, students' expectancy for success decreased and the change in expectancy was negatively associated with change in salivary cortisol](expectancy-decline-linked-cortisol-exam.md) — related
+- [Subdimension correlations partly support distinct load constructs but show an unexpected negative intrinsic–germane correlation (r = − 0.192)](turkish-clt-tool-intrinsic-germane-negative-correlation.md) — related

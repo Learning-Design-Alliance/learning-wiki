@@ -50,3 +50,4 @@ Qualitative arm of the mixed-methods sequential explanatory design: semi-structu
 - [Student interviews yielded three themes: emotions, feelings of being a doctor, and interactions with simulated participants](student-interview-themes-communication-curriculum.md) — related
 - [All interviewed interns reported that role rotation and teamwork were central benefits of the simulation-with-CBL training](role-rotation-teamwork-central-benefit-simulation-cbl.md) — related
 - [Participant experiences of integrated simulation with TBL cluster into four themes: reflection and feedback, highly simulated scenarios, improved clinical thinking, and teamwork and communication](four-theme-clusters-simulation-tbl-experience.md) — related
+- [Students' learning experiences clustered into the theme 'a learner as a director in the learning process', with self-regulation and dynamic formation of applied knowledge categories](learner-as-director-theme.md) — related

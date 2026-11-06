@@ -53,3 +53,4 @@ Single post-test (T2) Mini-CEX assessment by a blinded independent evaluator in 
 - [CCS training yields significantly greater post-clerkship Mini-CEX improvements than traditional training across all assessment domains](ccs-greater-post-clerkship-mini-cex-gains.md) — reports the opposite
 - [AI-assisted CBL+FC residents show superior overall clinical competence on Mini-CEX compared with lecture controls](ai-assisted-cbl-fc-minicex-overall-competence.md) — reports the opposite
 - [Maternal attachment retest scores do not differ significantly between the simulator and video groups](retest-maternal-attachment-no-significant-difference.md) — related
+- [Operating room trainees assessed with the Mini-CEX score significantly higher than trainees assessed with the routine Logbook](mini-cex-higher-scores-than-logbook-operating-room-trainees.md) — related

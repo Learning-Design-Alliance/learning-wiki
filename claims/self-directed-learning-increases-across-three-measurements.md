@@ -49,3 +49,4 @@ Repeated-measures ANOVA on SDLRS scores collected three times (pre-test, post-te
 - [The increase in self-directed learning depends on treatment group, with a greater rate of increase for the PoBL group (group × measurement interaction)](pobl-by-measurement-interaction-self-directed-learning.md) — related
 - [Science anxiety increased significantly over the semester for both female and male physics students, with no sex-by-time interaction on any anxiety measure](science-anxiety-increases-both-sexes-semester.md) — related
 - [Most motivational and self-regulation measures did not differ by competitive preference, though overall interest in educational psychology declined over the semester](no-competitiveness-differences-motivation-measures.md) — related
+- [Scores improve over the three assessment stages in both groups, with a significant time-by-group interaction](mini-cex-logbook-time-group-interaction-significant.md) — related

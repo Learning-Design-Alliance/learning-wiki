@@ -52,6 +52,7 @@ A forward-looking recommendation for making the proposed competency framework fe
 - [Phased implementation with shared video library and peer-assisted feedback to scale micro-skills training](microskills-cptm-scaling-strategy.md)
 - [Multi-pronged cost-mitigation strategies for deploying live-video teaching equipment in low-resource settings](ltm-cost-mitigation-strategies.md)
 - [Checklist for virtual training adoption in low-resource settings](virtual-training-adoption-checklist.md)
+- [Prioritize layered models for budget-limited institutions and reserve VR simulators for advanced individualized training](budget-tiered-simulation-tool-selection.md)
 
 ## Examples
 -

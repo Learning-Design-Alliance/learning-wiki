@@ -53,3 +53,5 @@ Reliability analysis within the same RCT: two trained raters scored each session
 - [Remote AR simulation is noninferior to traditional in-person simulation for team leader checklist performance in a VF cardiac arrest scenario](remote-ar-noninferior-checklist-team-leader-performance.md) — related
 - [Calibrated dentist ratings of appliance quality showed good interrater reliability (ICC = 0.826)](good-interrater-reliability-calibrated-dentist-appliance-ratings.md) — related
 - [Simulation-based assessment scoring shows strong inter-rater reliability (ICC 0.77–0.84) and internal consistency (Cronbach's alpha 0.83) across raters and scenarios](hfscoring-reliability-icc-alpha.md) — related
+- [Blinded independent radiographic assessment of implant alignment showed good or excellent interrater agreement, with ICC ranging from 0.77 to 0.96](blinded-radiographic-assessment-icc-good-excellent.md) — related
+- [The researcher-made Mini-CEX and Logbook checklists showed high inter-rater consistency (average measure ICC = 0.990)](mini-cex-logbook-checklist-icc-0-990.md) — related

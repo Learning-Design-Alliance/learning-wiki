@@ -57,3 +57,4 @@ The review's synthesis of twin and adoption research states "50 –80% of IQ var
 - [High heritability does not imply that environmental interventions to modify a trait are doomed to failure](high-heritability-does-not-preclude-environmental-intervention.md) — related
 - [Twin ratings show chaos in the home is partially genetically confounded with school achievement (22% genetic variance; 37% of association via shared genes)](chaos-home-genetic-confound-school-achievement.md) — related
 - [Heritability of educational achievement varies as a function of SES in the United States but not in countries with more uniform access to high-quality education](heritability-ses-interaction-country-policy.md) — related
+- [Monozygotic twins correlate far more strongly (~0.85) than dizygotic twins and siblings (~0.50), suggesting nonadditive genetic effects or gene–environment interplay](mz-dz-gap-suggests-nonadditive-effects-or-gxe.md) — related

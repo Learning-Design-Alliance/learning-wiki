@@ -52,6 +52,7 @@ The article's concluding recommendation is that one-time training is insufficien
 - [Brief initial training with extensive follow-up coaching and on-site facilitation for whole-school program implementation](brief-initial-training-extensive-coaching-facilitation.md)
 - [Sustain doctoral methodological competence through continued practice, feedback, and authentic application rather than isolated short courses](sustained-practice-for-doctoral-methodological-skills.md)
 - [Pair technology access with targeted investments in infrastructure, staffing, and support, and pilot initiatives with dedicated budgets](pair-access-with-infrastructure-investment.md)
+- [Implementation supports for BIM: faculty training, hierarchical small groups with contribution tracking, and shared case resources](bim-implementation-support-strategies.md)
 
 ## Examples
 -

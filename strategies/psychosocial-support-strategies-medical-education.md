@@ -61,6 +61,7 @@ Based on the review's findings that distress and burnout hinder performance whil
 - [Integrate mindfulness training programs into nursing curricula to support focus, self-awareness, and emotional regulation](mindfulness-training-in-nursing-curricula-strategy.md)
 - [Combine active and experiential learning with coping-skill training, reflective practices, and peer support to address the emotional burden of palliative care education](palliative-coping-support-strategy.md)
 - [Foster deep learning approaches in teacher education through problem-based learning, peer mentoring, and self-efficacy training](pbl-mentoring-selfefficacy-teacher-candidates-strategy.md)
+- [Integrate happiness training into teacher professional development programs to reduce burnout and support teaching effectiveness](integrate-happiness-training-teacher-professional-development.md)
 
 ## Examples
 -

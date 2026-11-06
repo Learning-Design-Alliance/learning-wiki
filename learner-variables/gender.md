@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 553 claims (296 show a difference, 115 mixed, 142 no difference) · 390 studies (180 associational, 152 causal, 20 review, 16 quant-synthesis, 10 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 58 of 390 report an effect size · 545 claims rest on one study
+> **Evidence** · 557 claims (298 show a difference, 117 mixed, 142 no difference) · 393 studies (182 associational, 152 causal, 20 review, 16 quant-synthesis, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 59 of 393 report an effect size · 549 claims rest on one study
 
 ## How to read this page
 
@@ -592,6 +592,10 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Sensitivity changes differ exploratorily by sex, with women improving and men worsening on non-dominant fingertip discrimination](../claims/sex-difference-sensitivity-change-exploratory.md) [~M] — an instructional effect differs by group
 - [Female students rated their perceived competence higher than male students while external ratings did not differ](../claims/female-fyms-higher-perceived-competence.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Male nursing students scored slightly higher GPA than female students in this sample](../claims/male-students-higher-gpa-sample.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [A pretest gender gap in self-efficacy (males higher) was no longer significant after hybrid simulation-based training](../claims/hybrid-sbt-closes-pretest-gender-gap-in-self-efficacy.md) [~M] — an instructional effect differs by group
+- [Female nursing students report lower psychological safety, particularly interpersonal risk, than male students after simulation-based assessments](../claims/female-students-lower-psychological-safety-interpersonal-risk.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Male nursing students report lower perceived simulation fidelity than female students, despite no overall gender difference in perceived design features](../claims/male-students-lower-perceived-fidelity.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Same-sex pairs of relatives are slightly but systematically more correlated on school performance than opposite-sex pairs](../claims/same-sex-pairs-slightly-more-correlated.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

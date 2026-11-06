@@ -47,6 +47,7 @@ The article recommends improving tactile feedback by "improving the simulation o
 ## Related Strategies
 
 - [Integrate 3D-printed biomimetic phantoms into VR/MR environments to create a 'see–feel–do' training continuum](integrate-3d-printed-phantoms-vr-mr-continuum.md)
+- [Combine glasses-free 3D displays with 3D-printed physical models to compensate for the lack of tactile feedback in digital anatomy learning](combine-glasses-free-3d-displays-with-3d-printed-models.md)
 
 ## Examples
 -

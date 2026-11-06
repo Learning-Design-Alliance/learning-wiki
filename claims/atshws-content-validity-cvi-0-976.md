@@ -48,3 +48,4 @@ Content validity evaluation by 10 experts in surgical nursing, educational measu
 ## Related Claims
 - [Expert-rated content validity of the scale is strong, with item-level CVI of 0.80 to 1.00 and scale-level CVI of 0.96](endoscopy-nurse-scale-content-validity.md) — related
 - [Expert review establishes excellent content validity for TAILS (S-CVI/Ave = 0.98; I-CVI 0.86–1.00)](tails-content-validity-cvi.md) — related
+- [Expert review supports the content validity of the Turkish-adapted tool, with a content validity index of 0.80 and content validity ratio of 1.00](turkish-clt-tool-content-validity-cvi-080.md) — related

@@ -55,3 +55,4 @@ Qualitative thematic finding from focus group discussions with 40 undergraduate 
 - [Male undergraduate nursing students in the UAE perceive maternity simulation as practice that mirrors realistic clinical situations and improves their knowledge and skills](male-nursing-students-perceive-simulation-realistic-knowledge-skills.md) — related
 - [Male nursing students reported simulation improved their communication and teamwork in neonatal emergencies](simulation-improved-communication-teamwork-male-students.md) — related
 - [Simulation with standardized patients supports theoretical-practical integration and spontaneous activation of clinical reasoning in first-year nursing students](simulation-supports-theory-practice-integration.md) — related
+- [Realistic simulation gave students insight into future professional responsibilities, communication and teamworking, and asking for help](simulation-realism-professional-responsibility-insight.md) — related

@@ -47,6 +47,7 @@ Because oral hygiene routines, early detection of oral problems and access organ
 - [Redesign the geriatric curriculum to comprehensively cover interdisciplinary teamwork and patient/caregiver-centered competencies](redesign-geriatric-curriculum-teamwork-caregiver-competencies.md)
 - [Use simulations, dedicated clinical time, and interprofessional education to teach family caregiver collaboration](family-caregiver-simulation-clinical-iep-strategies.md)
 - [Implement comprehensive nutrition education from the undergraduate level, coupled with continuing professional development and interprofessional collaboration](undergraduate-nutrition-education-oncology-nurses.md)
+- [Prioritize dental trauma education in the nursing curriculum, delivered by dentists](dental-trauma-education-nursing-curriculum-strategy.md)
 
 ## Examples
 -

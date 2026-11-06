@@ -77,3 +77,4 @@ Resource utilization showed "no statistically significant difference", which the
 - [Experimental-group students rated satisfaction, learning enthusiasm, comprehension, interaction, and interest in nephrology more favorably than control students](boppps-rain-classroom-favorable-student-evaluations.md) — related
 - [PBL interns report higher self-efficacy, instructional satisfaction, and perceived critical-thinking improvement than lecture-taught interns](pbl-self-evaluated-learning-gains-esophageal.md) — related
 - [Experimental-group trainees report higher satisfaction than controls in teaching atmosphere, learning interest, and learning efficiency](digital-cbl-higher-satisfaction-interest-efficiency.md) — related
+- [Over 80% of students rated the HIS-based BOPPPS model positively on learning efficiency, interest, clinical thinking ability, and course satisfaction](boppps-his-positive-student-evaluations.md) — related

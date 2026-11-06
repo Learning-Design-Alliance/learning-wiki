@@ -48,3 +48,5 @@ Observational cross-sectional study of 98 proctology videos (65 peer-reviewed, 3
 - [Most non-peer-reviewed YouTube proctology videos omit preoperative work-up, intraoperative set-up, equipment details and postoperative outcomes](youtube-proctology-videos-omit-workup-setup-and-outcomes.md) — related
 - [Non-peer-reviewed proctology videos fall short mainly on case presentation, outcome reporting, patient positioning and visual aids, not on technical depiction](youtube-proctology-videos-lack-case-context-and-outcomes.md) — related
 - [Procedural steps and anatomical demonstration are present in most proctology videos regardless of platform](procedural-steps-and-anatomy-present-across-video-platforms.md) — related
+- [Adherence of the most-viewed robotic ventral rectopexy videos to LAP-VEGaS and consensus reporting guidelines is low](low-guideline-adherence-surgical-videos.md) — related
+- [Only 40% of the most-viewed robotic ventral rectopexy videos on YouTube underwent standardized peer review before publication](only-40-percent-peer-reviewed-videos.md) — related

@@ -49,3 +49,4 @@ Cross-sectional face-validation survey of twelve expert urologists at EUREP 2025
 - [Content validity of the Aquablation simulator is rated excellent by experts, with an S-CVI/Ave of 0.91 but unanimous agreement on only half of the items (S-CVI/UA = 0.50)](aquablation-simulator-content-validity-scvi.md) — related
 - [Most Aquablation procedural steps receive I-CVI values exceeding 0.80, with average relevance scores of 3.5 or higher and medians reaching 4](aquablation-content-items-icvi-above-080.md) — related
 - [Experts unanimously recommend integrating the Aquablation simulator into structured Aquablation training programs](aquablation-simulator-unanimous-training-endorsement.md) — related
+- [Expert panel rates the FROST simulator realistic and recommends it for training, except for the skin undermining step](expert-panel-face-content-validity-frost-simulator.md) — related

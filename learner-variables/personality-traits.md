@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 110 claims (72 show a difference, 24 mixed, 14 no difference) · 53 studies (22 associational, 15 review, 9 causal, 5 quant-synthesis, 2 theoretical), `q2`–`q4` · 17 of 53 report an effect size · 110 claims rest on one study
+> **Evidence** · 114 claims (74 show a difference, 26 mixed, 14 no difference) · 55 studies (24 associational, 15 review, 9 causal, 5 quant-synthesis, 2 theoretical), `q2`–`q4` · 18 of 55 report an effect size · 114 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -145,6 +145,10 @@ Personality traits are relatively stable individual differences, most often meas
 - [Achievement status does not moderate the openness–GPA relationship among medical students](../claims/no-moderation-openness-gpa-achievement-status.md) [-M] — learners who differ on it differ in outcomes
 - [Openness to experience is negatively associated with GPA among medical students (β = −0.13)](../claims/openness-negative-association-medical-gpa.md) [+M] — learners who differ on it differ in outcomes
 - [Big Five personality traits show no significant association with dental students' radiographic diagnostic accuracy](../claims/personality-traits-no-effect-radiographic-accuracy.md) [-M] — learners who differ on it differ in outcomes
+- [Better HAM-Nat performance is negatively related to warm-agreeable behavior, suggesting SJTs may compensate for negative selection effects of cognitive admission tests on communal characteristics](../claims/ham-nat-negative-warm-agreeable-compensation.md) [+M] — measured as an outcome of the instruction studied
+- [Better HAM-SJT performance at admission predicts more warm-agreeable behavior during practical training, independent of cognitive performance and demographics](../claims/ham-sjt-predicts-warm-agreeable-behavior.md) [+M] — measured as an outcome of the instruction studied
+- [Literacy difficulties moderate the trait anxiety–academic performance link, intensifying its negative association](../claims/literacy-difficulties-moderate-trait-anxiety-gpa.md) [~M] — learners who differ on it differ in outcomes
+- [Professional prequalification shows no significant relation to warm-agreeable behavior, and its correlation with emotional stability diminishes once covariates are controlled](../claims/prequalification-null-communal-emotional-stability.md) [~M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

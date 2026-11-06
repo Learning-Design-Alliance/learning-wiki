@@ -51,3 +51,4 @@ Cross-sectional survey of 256 dental residents at Wuhan University (55.1% respon
 - [Only 36.3% of residents feel confident treating traumatized immature teeth while 96.9% want more training](low-confidence-high-training-demand-tdi.md) — related
 - [Residents know avulsed-tooth storage media well but only 29.3% identify the correct 2-week splinting duration](tdi-knowledge-storage-media-strong-splinting-gap.md) — related
 - [94.5% of residents affirm the importance of vital pulp preservation, with significant specialty differences](residents-affirm-pulp-preservation-importance.md) — related
+- [Residents show higher TDI knowledge and awareness than undergraduates](residents-higher-tdi-knowledge-than-undergraduates.md) — related

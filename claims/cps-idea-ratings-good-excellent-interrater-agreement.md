@@ -57,3 +57,4 @@ Psychometric analysis in Study 2, in which two postgraduate raters who received 
 - [CAR 1.0 achieved good to excellent inter-rater reliability across all five key components (α = 0.836 to 0.973)](car-1-0-cronbach-alpha-reliability.md) — related
 - [Expert reference standard for MUL measurements showed excellent agreement (ICC 0.90)](expert-reference-mul-icc-090.md) — related
 - [Task-specific metrics show excellent inter-rater reliability for simulated laparoscopic crural repair assessment](tsm-excellent-inter-rater-reliability-crural-repair.md) — a narrower finding that bears on this claim
+- [Blinded independent radiographic assessment of implant alignment showed good or excellent interrater agreement, with ICC ranging from 0.77 to 0.96](blinded-radiographic-assessment-icc-good-excellent.md) — related

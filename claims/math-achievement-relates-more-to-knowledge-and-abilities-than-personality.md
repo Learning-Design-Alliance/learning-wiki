@@ -114,3 +114,4 @@ The review compiles zero-order correlations from published meta-analyses (each w
 - [Spatial anxiety negatively predicts performance in maths, science and language grades; state anxiety predicts some grades](spatial-and-state-anxiety-negative-grade-associations.md) — related
 - [Cognitive and academic performance correlate moderately in this adolescent sample](cognition-grades-moderate-correlation.md) — related
 - [All measured variables (emotions, self-concept, social support, achievement) are significantly intercorrelated in the expected directions](fl-emotions-achievement-correlations.md) — related
+- [Literacy difficulties moderate the trait anxiety–academic performance link, intensifying its negative association](literacy-difficulties-moderate-trait-anxiety-gpa.md) — related

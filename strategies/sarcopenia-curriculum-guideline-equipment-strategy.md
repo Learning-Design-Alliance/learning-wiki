@@ -52,6 +52,7 @@ The article recommends building sarcopenia awareness and competence in primary c
 
 - [Develop targeted, competency-based interprofessional continuing education programs and European frameworks for geriatric care](targeted-competency-based-geriatric-cpd-strategy.md)
 - [Bundle recurrent hands-on hypertension training, simplified point-of-care guidelines, and facility chronic care systems (registers, recall, referral protocols) for PHC workers](bundled-hypertension-capacity-strategy-phc.md)
+- [Use the competency model to guide recruitment, evaluation, and residency training of cardiovascular physicians in China](cv-competency-model-recruitment-assessment-training-strategy.md)
 
 ## Examples
 -

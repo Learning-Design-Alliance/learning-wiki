@@ -52,3 +52,4 @@ A 12-item five-point Likert survey of 33 experimental-group students, reviewed b
 - [Omani grade 4 students hold very high positive attitudes toward using cartoons in social studies lessons](grade4-positive-attitudes-cartoons.md) — related
 - [Students held positive attitudes toward mobile-assisted vocabulary exercises, with an overall mean of 3.98 on a five-point scale](positive-attitudes-mobile-vocabulary-exercises.md) — related
 - [Students rated the cartooning activity highly for engagement, learning and understanding, with average scores of 4.8, 4.5 and 4.2 on a 5-point scale](cartooning-high-engagement-learning-ratings.md) — related
+- [Players rate the NICU serious game highly on story empathy, knowledge acquisition, and perceived effectiveness of serious games for learning](nicu-serious-game-high-educational-usefulness-ratings.md) — related

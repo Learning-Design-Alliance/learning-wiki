@@ -50,3 +50,5 @@ Cross-sectional questionnaire study of 118 fourth-year dental students across tw
 - [A significant relationship exists between knowledge and confidence levels in TDI management among dental students.](knowledge-confidence-relationship-tadi-management.md) — related
 - [Only 36.3% of residents feel confident treating traumatized immature teeth while 96.9% want more training](low-confidence-high-training-demand-tdi.md) — related
 - [Students' weakest knowledge areas are replantation timing and appropriate transport media for avulsed teeth](weakest-areas-replantation-and-transport-medium.md) — a narrower finding that bears on this claim
+- [Chinese dental undergraduates and residents have limited knowledge of correct emergency treatment for TDIs in immature permanent teeth](dental-students-limited-tdi-emergency-knowledge.md) — related
+- [Dental students show strongly positive attitudes toward TDI management and want more training](positive-attitudes-toward-tdi-management.md) — related

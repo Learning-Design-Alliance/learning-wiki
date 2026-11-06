@@ -45,6 +45,7 @@ The article recommends a bundle of institutional supports to improve the accepta
 - [Universities combine responsible AI use guidelines, accessible technical support, AI literacy training, and assessment-embedded critical evaluation activities to address AI learning anxiety](institutional-support-package-for-ai-learning-anxiety.md)
 - [Sustain technology integration through ongoing professional development, technical support, and sharing of best practices](sustained-institutional-support-digital-pedagogy.md)
 - [Multi-component institutional support to encourage specialty trainees' research engagement](multicomponent-support-encourage-trainee-research.md)
+- [Implementation supports for BIM: faculty training, hierarchical small groups with contribution tracking, and shared case resources](bim-implementation-support-strategies.md)
 
 ## Examples
 -

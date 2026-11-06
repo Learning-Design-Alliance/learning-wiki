@@ -50,3 +50,4 @@ Subgroup findings in Appendix A4.2 report Literature Logs only versus comparison
 - [Shared story reading was always implemented as one component of a multi-component intervention package, so component contributions are unknown](shared-story-reading-multicomponent-package-unknown-components.md) — a narrower finding that bears on this claim
 - [The WWC rates Instructional Conversations and Literature Logs as having potentially positive effects on reading achievement and English language development](ic-ll-potentially-positive-wwc-rating.md) — related
 - [Discussion-based instruction does not improve factual comprehension relative to basal instruction](discussion-based-instruction-no-factual-comprehension-advantage.md) — related
+- [Combining VR and layered model training produced no statistically significant additive benefit over either modality alone in this short-term trial](no-additive-effect-dual-modality-simulation.md) — related

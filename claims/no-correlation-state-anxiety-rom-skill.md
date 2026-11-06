@@ -48,3 +48,4 @@ Secondary Spearman Rho correlation analysis within each trial group (n = 36 each
 - [Video-assisted teaching does not significantly reduce nursing students' state anxiety before ROM practice compared with traditional teaching alone](video-assisted-teaching-no-anxiety-difference-rom.md) — related
 - [Video-assisted teaching added to traditional instruction produces higher ROM exercise practice skill scores in first-year nursing students one week after training](video-assisted-teaching-higher-rom-practice-skill-scores.md) — related
 - [State anxiety showed no significant correlation with summative OSCE performance](no-correlation-state-anxiety-osce-performance.md) — related
+- [No significant correlation was found between hand function and anxiety levels in first-year nursing students](no-correlation-anxiety-hand-function-nursing-skills.md) — related

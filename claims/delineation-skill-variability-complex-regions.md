@@ -49,3 +49,4 @@ The article's performance analysis reports an initial OSPE assessment of radiati
 - [Practical exam scores are higher for anatomical regions with online image support than for unsupported regions within the same intervention groups](intra-group-image-supported-blocks-score-higher.md) — related
 - [Students with access to online cadaveric image repositories achieve significantly higher practical exam scores than controls in the image-covered regions](online-cadaveric-images-improve-practical-exam-performance.md) — related
 - [Greatest VDT performance gains were observed in musculoskeletal and neuroanatomy modules](vdt-greatest-gains-msk-neuroanatomy.md) — related
+- [Common delineation errors centered on lymph node regions, anatomical barriers, tumor motion, and over-inclusion of non-target anatomy, with site-specific frequencies](common-delineation-errors-lymph-nodes-motion-overinclusion.md) — related

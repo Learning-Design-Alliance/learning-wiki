@@ -60,3 +60,4 @@ Adapted SUS administered to clinician testers after each testing round of the te
 - [AR participants rated the remote AR system usable, with an average SUS score of 73.8](remote-ar-sus-usability-73-8.md) — related
 - [The Endonix simulator achieves a median SUS score of 75, indicating good usability across experience levels](endonix-sus-good-usability.md) — related
 - [Students rated Orthotrainer as usable (mean SUS 77.62) and reported high online learning readiness](orthotrainer-sus-and-olrs-favourable.md) — related
+- [Fourth-year medical students rated the interdisciplinary simulation system 'excellent' on a modified SUS (mean 80.77)](sus-80-77-interdisciplinary-simulation-system.md) — related

@@ -49,3 +49,4 @@ Independent t-tests compared pre- and post-survey ratings (1 = not at all confid
 - [Teachers in online team-based training reported significantly greater confidence in their technological pedagogical content knowledge after training](team-pd-tpck-confidence-gain.md) — related
 - [Computational thinking professional development was the most-cited support for integrating computational thinking into lessons, cited by 54 percent of teachers](ct-pd-top-integration-support-54-percent.md) — related
 - [Teachers participating in the micro-credential collaborative reported positive receptivity, with 84 percent agreeing micro-credentials were significant to their computational thinking learning](micro-credential-teacher-receptivity-positive.md) — related
+- [Most postgraduate trainees (84.6%) reported confidence in applying CT skills in professional life after the foundation course](ct-course-confidence-feedback-84-percent.md) — related

@@ -50,3 +50,4 @@ Authors' synthesis of interview findings across three analytical categories from
 - [Student-centered innovative strategies (PBL, EBL, simulation, TBL, blended and online learning) showed positive effects in pharmaceutical care learning](innovative-strategies-positive-effects-pharmaceutical-care.md) — related
 - [None of the participating nursing faculty received institutionally structured training in soft skills pedagogy, leaving teaching dependent on individual initiative](no-institutional-soft-skills-training-faculty.md) — related
 - [Students' preference for hard skills and limited receptivity to soft-skill activities hinder soft skills teaching in nursing education](student-preference-hard-skills-barrier.md) — related
+- [Simulation-based teaching significantly reduces test times and improves skill development in medical trainees across 26 randomized trials](simulation-improves-skill-scores-rct-review.md) — related

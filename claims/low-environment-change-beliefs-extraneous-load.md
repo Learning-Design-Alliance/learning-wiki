@@ -51,3 +51,4 @@ Theoretical prediction in the possibility mindset and learning processes section
 - [High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety](vad-stress-psychological-safety-threat.md) — related
 - [Cognitive Load Theory lacks a motivational focus, which becomes problematic when interpreting interventions that foster effortful learning strategies](clt-motivation-gap.md) — related
 - [Reducing extraneous load can also remove affordances for germane processes](extraneous-load-reduction-may-remove-germane-affordances.md) — related
+- [Uncertainty in simulation was seen to increase cognitive load but was not always viewed as aversive, offering an opportunity to learn](uncertainty-cognitive-load-and-learning-opportunity.md) — related

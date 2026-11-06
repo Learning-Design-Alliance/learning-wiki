@@ -70,3 +70,4 @@ In the discussion, the review states crowd-sourced grading costs "approximately 
 - [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](trustworthiness-metrics-visualizations-increase-expert-agreement.md) — related
 - [LLM-based rubric scores agreed with expert ratings at the total-score level and on cognitive-process dimensions, but agreement was low for more subjective dimensions](ai-expert-agreement-cognitive-versus-subjective-dimensions.md) — related
 - [Simulation-based LISA training to the minimum passing score costs a median of USD 68 per novice using trained investigators as onsite raters](lisa-simulation-training-cost.md) — related
+- [A handmade low-tech thoracentesis simulator costing US$18 per unit was judged suitable by all three expert judges in the first evaluation round](thoracentesis-simulator-validated-low-cost-us18.md) — related

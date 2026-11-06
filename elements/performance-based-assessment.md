@@ -13,7 +13,7 @@ generated:
 # Performance-Based Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 18 claims (12 for, 6 mixed) · 13 studies (5 causal, 4 design, 2 review, 2 associational), `q1`–`q4` · 0 of 13 report an effect size · 18 claims rest on one study
+> **Evidence** · 20 claims (13 for, 7 mixed) · 15 studies (5 causal, 5 design, 3 associational, 2 review), `q1`–`q4` · 1 of 15 report an effect size · 20 claims rest on one study
 
 ## Description
 Performance-based assessment is the element in which learners demonstrate knowledge or skill by performing, producing, or solving something observable rather than only selecting answers. It is useful when the learning target involves application, integration, or authentic performance. Typically the teacher observes both the process (e.g., data collection during an experiment) and the product (e.g., the completed report), though for some tasks (a paper drafted partly outside class) only the product may actually be visible, and for others (group interaction skills) there may be no discrete product at all.
@@ -60,6 +60,8 @@ Performance assessments carry real, specific tradeoffs (Linn & Miller, 2005). Th
 - [Interns highly accepted the formative OSCE, with 97% agreeing it was valuable and 94% agreeing it should continue](../claims/osce-high-acceptance-interns-valuable-continue.md) [+W] — attached 2026-11-05 from Wick Alexandra MD et al. (2026), which proposed "Four-station formative OSCE for internal medicine interns administered after initial inpatient rotation".
 - [Medical students rate OSPE as beneficial for medical education and career development (mean 3.55, SD 0.56)](../claims/ospe-perceived-beneficial-medical-students.md) [+W] — attached 2026-11-05 from Alrashed FA et al. (2026), which proposed "Blueprint-based OSCE/OSPE assessment system at King Saud University College of Medicine".
 - [Medical students rate OSCE as beneficial for medical education and career development (mean 3.80, SD 0.39), higher than OSPE](../claims/osce-perceived-beneficial-career-development.md) [+W] — attached 2026-11-05 from Alrashed FA et al. (2026), which proposed "Blueprint-based OSCE/OSPE assessment system at King Saud University College of Medicine".
+- [A national delineation competition involving 506 young clinicians revealed significant variability and common errors in target volume delineation](../claims/delineation-competition-reveals-significant-variability.md) [+M] — attached 2026-11-06 from Huang Qingyu et al. (2025), which proposed "National target delineation competition with structured scoring form and anonymous expert review".
+- [Virtual simulation-based assessment performance correlates positively but weakly with final multiple-choice examination score (r = 0.31)](../claims/weak-correlation-virtual-sba-mce.md) [~W] — attached 2026-11-06 from Rocha de Macedo Bruno et al. (2025), which proposed "Virtual simulation-based assessment (virtual SBA) for mechanical ventilation competencies".
 
 ## Related Elements
 

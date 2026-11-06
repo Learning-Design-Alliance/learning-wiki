@@ -50,3 +50,4 @@ Thematic analysis of open-ended questionnaires from 33 healthcare providers (11 
 - [Joint team-based training during single-port transition clarifies role-specific constraints and improves collaborative problem-solving](joint-sp-team-training-shared-mental-models.md) — related
 - [The e-learning platform mapped onto the four stages of the Kolb experiential learning cycle within a blended learning design](kolb-cycle-blended-elearning-mapping.md) — related
 - [Both physicians and nurses report increased confidence and interprofessional coordination after single-port transition training](sp-training-confidence-coordination-gains.md) — related
+- [Thematic analysis of occupational therapy students' interviews yielded four overarching themes mapped onto the four stages of Kolb's experiential learning cycle](dvsim-four-kolb-themes-qualitative.md) — related

@@ -48,3 +48,4 @@ Generalizability theory analysis using a fully crossed item × rater design comp
 ## Related Claims
 - [Reliability of the modified Angoff procedure increases as the number of raters increases for both faculty and LLM panels](angoff-reliability-increases-with-rater-number.md) — related
 - [Within-judge variance of the repeated LLM-judge rubric is negligible, but cross-model-family agreement remains untested](within-judge-stability-llm-rubric.md) — related
+- [Generalisability theory yields a G coefficient of 0.96 for ANTStr scores](antstr-generalisability-coefficient-096.md) — related

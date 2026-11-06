@@ -54,3 +54,4 @@ The review reports, citing Al-Khiami et al., that VR "significantly improved the
 - [Augmented reality increased student engagement but not test performance in anatomical learning](ar-increases-engagement-not-test-performance.md) — related
 - [Desktop VR showed no significant declarative-knowledge advantage over traditional instruction after unguided exploration (d = 0.24), and a marginal, non-significant one after scaffolded guidance (d = 0.63, p = .06)](desktop-vr-scaffolded-guidance-declarative-knowledge-statics.md) — reports the opposite
 - [Problem-based developmental teaching methods used in engineering research work increased students' motivation levels](problem-based-teaching-increased-motivation-engineering.md) — related
+- [An intravenous injection VR simulator program improved nursing students' knowledge, acceptance, and motivation](ivr-injection-vr-simulator-nursing-knowledge.md) — related

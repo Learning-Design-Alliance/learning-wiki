@@ -53,3 +53,4 @@ Cross-sectional survey of 291 medical students using scenario-based vignettes sc
 - [Health vocational students in Turkey show limited knowledge of dental trauma emergency management, with only 7.2% receiving first aid training that included dental trauma content](limited-dental-trauma-knowledge-turkish-vocational-students.md) — related
 - [Students who self-reported knowing what to do for an avulsed permanent tooth gave significantly more correct answers on contaminated-tooth and fractured-tooth management](self-reported-avulsion-knowledge-predicts-correct-responses.md) — related
 - [Residents know avulsed-tooth storage media well but only 29.3% identify the correct 2-week splinting duration](tdi-knowledge-storage-media-strong-splinting-gap.md) — related
+- [Nursing students' knowledge of avulsion management is inadequate: only four students would reinsert an avulsed tooth](nursing-students-avulsion-management-inadequate.md) — related

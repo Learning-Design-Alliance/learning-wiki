@@ -86,6 +86,7 @@ Equity of access is a precondition for the benefits of any instructional design:
 - [Address technology access disparities with offline or low-tech alternatives when implementing gamified learning](offline-low-tech-alternatives-for-technology-access-disparities.md)
 - [Provide reliable Internet/Wi-Fi and sufficient devices when implementing mobile learning](provide-internet-wifi-and-devices-mobile-learning-implementation.md)
 - [Provide teachers with training periods on how, when, and where to use language-learning technologies](teacher-training-periods-for-language-technology.md)
+- [Strategic recommendations for policy makers: digital access plus pedagogical content, metacognition in the curriculum, constructive competition in maths, cooperative learning in reading and science, and family-involving support for disadvantaged students](pisa-policy-strategic-recommendations.md)
 
 ## Examples
 - **[Kolibri](../products/kolibri.md) (Learning Equality)** — an offline-first platform designed for low-connectivity schools and refugee education settings; content syncs without continuous internet (https://learningequality.org/kolibri/)

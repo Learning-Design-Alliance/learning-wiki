@@ -51,3 +51,4 @@ Mixed-effects models of the six component scores in the same 80-student study sh
 - [Digital group scored higher than conventional group on width and length criteria across sessions](digital-group-higher-width-length-scores.md) — a narrower finding that bears on this claim
 - [Overall occlusal rest seat preparation scores improved significantly across three repeated practice sessions in both training groups](overall-scores-improve-across-repeated-rest-seat-sessions.md) — a broader claim this one bears on
 - [Digital feedback improves accuracy across multiple tooth preparation dimensions, particularly taper angle and finish line standardization](digital-feedback-multi-dimension-accuracy-taper-finish-line.md) — related
+- [No significant group differences emerge in cavity outline, floor, internal line angles, marginal ridge, retention form, or cavity width after short-term simulation training](no-differences-other-cavity-parameters.md) — related

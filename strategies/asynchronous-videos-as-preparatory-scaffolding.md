@@ -54,6 +54,7 @@ The article conceptualizes asynchronous videos not merely as supplementary resou
 - [Structure simulation training in four sequential phases: video instruction, expert demonstration, supervised practice, and formative feedback](four-phase-ldsrs-simulation-training-protocol.md)
 - [Integrate repeated, scheduled video viewing into preclinical curricula and add supervised hands-on practice for interdental brush sizing](repeated-video-viewing-curriculum-integration-strategy.md)
 - [Sequence efficient training so cadets observe expert action videos before instruction and simulator practice, then self-record practice videos for comparison](expert-video-replay-then-practice-sequence.md)
+- [Show a video of the simulated procedure before hands-on simulation](presimulation-procedure-video-strategy.md)
 
 ## Examples
 -

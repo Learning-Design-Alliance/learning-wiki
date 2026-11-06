@@ -52,3 +52,4 @@ Reliability analysis (ICC(3,1)) of three repeated scoring runs per model on 60 e
 - [Causal discovery analysis finds four of five LLMs prioritize lexical features in scoring, while DeepSeek R1 uniquely prioritizes syntactic complexity](llm-causal-feature-dependencies-lexical-versus-syntactic.md) — related
 - [Grammatical Accuracy is the most stable and objective scoring dimension for LLMs, while Task Response is the most challenging](grammatical-accuracy-most-stable-llm-scoring-dimension.md) — related
 - [Large closed-weights LLMs show high test-retest reliability when scoring clinical summary statements across repeated runs](llm-high-test-retest-reliability-summary-statement-scoring.md) — related
+- [Test-retest reliability of LLM answers to histology MCQs ranged from moderate (Gemini, DeepSeek) to excellent (Claude)](llm-test-retest-reliability-varies-histology.md) — related

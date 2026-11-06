@@ -52,3 +52,4 @@ Reaction-level technology-acceptance survey using a 21-item questionnaire adapte
 - [Experimental-group students reported positive perceptions of AR, with highest scores for enjoyment (M = 4.44) and ease of use (M = 4.29)](positive-student-perceptions-ar-tam-questionnaire.md) — related
 - [Learners rate the AI-Mentor cognitive core highly on technology acceptance](ai-mentor-high-tam-acceptance.md) — a broader claim this one bears on
 - [Adult ESL learners report above-neutral perceptions of ASR as a writing tool on usefulness, ease of use, and intention to use](esl-learners-positive-perceptions-asr-writing.md) — a broader claim this one bears on
+- [Student satisfaction with the gamified radiology training exceeds the acceptance cutoff across all seven TAM components, with enjoyment among the highest-rated dimensions](tam-satisfaction-above-cutoff-all-components.md) — related

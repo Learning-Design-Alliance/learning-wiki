@@ -59,3 +59,5 @@ LC-CUSUM analysis of the prospective cohort using console time thresholds (<165/
 - [Operative time in laparoscopic radical prostatectomy reaches a proficiency plateau after the 61st case in this series](lrp-operative-time-plateau-case-61.md) — related
 - [OPI-derived learning curves stabilize within the first 10 months of a surgeon's experience despite increasing case complexity](opi-learning-curve-stabilizes-ten-months.md) — related
 - [Pooled mean CUSUM analysis identifies a turning point of 20 procedures for US-guided distal radial artery cannulation by novice anesthesiologists](cusum-turning-point-20-procedures-dra-cannulation.md) — related
+- [Surgeons, including novices, achieve robotic OSB repair competency on the simulator within 15–21 procedures](competency-within-15-21-frost-procedures.md) — related
+- [After passing the learning curve, operative times and GEARS scores did not differ between experts and novices](post-competence-performance-equal-experts-novices.md) — related

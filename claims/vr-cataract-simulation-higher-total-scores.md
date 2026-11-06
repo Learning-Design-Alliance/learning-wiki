@@ -53,3 +53,4 @@ Prospective quasi-experimental study of 71 undergraduates: experimental group (n
 - [Virtual and traditionally taught nursing groups showed no significant difference in practical skills measured by OSCE](osce-no-difference-virtual-traditional-nursing.md) — reports the opposite
 - [Trainees trained on an animal-experiment-based simulation platform achieved significantly higher anatomy scores than control trainees (d = 0.68)](simulation-platform-higher-anatomy-scores-endoscopic-thyroidectomy.md) — related
 - [Simulation-platform trainees outperformed controls on specialized thyroid theory scores (d = 0.85) and surgeon-rated surgical proficiency (d = 0.82)](simulation-platform-higher-theory-and-surgical-proficiency.md) — related
+- [Adding a virtual simulation teaching platform to traditional teaching improves medical undergraduates' anatomical knowledge of gastrointestinal diseases](virtual-simulation-platform-improves-anatomical-knowledge.md) — related

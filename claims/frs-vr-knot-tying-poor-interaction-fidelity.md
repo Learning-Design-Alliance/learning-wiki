@@ -54,3 +54,4 @@ Expert repetitions on the SimNow platform showed four Knot Tying repetitions sco
 - [Approximately 86.61% of trainees prioritize suturing and knot-tying practice as the most critical simulator training component](suturing-knot-tying-most-critical-component.md) — related
 - [High‐skill recognition is better for knot tying, whereas low‐skill recognition is better for the more demanding tasks (CS and IS)](task-dependent-skill-recognition-asymmetry.md) — related
 - [Difficulty varied significantly across Versius Trainer tasks, with endoscope control, suturing and knot-tying the hardest to pass](task-difficulty-varies-endoscope-suturing-knot-tying-hardest.md) — related
+- [Virtual simulation platform practice does not significantly improve simulator-based laparoscopic suturing and knot-tying performance](virtual-simulation-no-gain-suturing-knot-tying.md) — related

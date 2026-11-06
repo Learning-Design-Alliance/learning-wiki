@@ -51,3 +51,4 @@ Analysis of correct classification percentages across equal‐width skill score 
 - [Supervised ML/DL Bloom question classifiers trained on one dataset drop substantially in weighted F1 when tested on unseen datasets](supervised-bloom-classifiers-degrade-cross-dataset.md) — related
 - [The inter‐hand xAtt‐Trans model achieves the best binary skill classification accuracy across all three open surgery tasks](inter-hand-xatt-trans-best-skill-classification.md) — related
 - [The inter‐hand xAtt‐Trans model outperforms the human reviewer (ES2) in most classification metrics](model-outperforms-human-reviewer-skill-classification.md) — related
+- [Threshold-based prediction models can classify countries as likely high performers, with proposed cutoff scores of 3.219 for reading, 2.396 for mathematics and 2.732 for science](pisa-early-warning-prediction-models.md) — related

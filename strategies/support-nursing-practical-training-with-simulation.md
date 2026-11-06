@@ -48,6 +48,7 @@ The article's concluding recommendation is that "it is recommended to use comput
 - [Integrate hybrid simulation into clinical skills curricula to concurrently train communication and technical skills in a safe, repeatable environment](integrate-hybrid-simulation-clinical-skills-curricula.md)
 - [Incorporate scenario-based simulation training focused on VAP prevention into undergraduate nursing curricula](scenario-based-simulation-vap-prevention-curricula.md)
 - [Use hybrid simulations combining real-world materials with low-cost simulators to enable realistic, interactive scenarios at reduced cost](hybrid-simulation-real-world-materials-low-cost-simulators.md)
+- [Integrate fine motor skill assessments into nursing curricula and provide targeted skills laboratory support for students with low dexterity](fine-motor-assessment-integration-nursing-curricula.md)
 
 ## Examples
 -

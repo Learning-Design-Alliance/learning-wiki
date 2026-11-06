@@ -49,3 +49,4 @@ Synthesis of 15 SDVT studies (11 basic, 4 advanced); the review reports "Three R
 - [Hybrid models combining SDVT with real-time feedback may enhance learner autonomy while maintaining instructional oversight](hybrid-sdvt-rt-feedback-benefits.md) — related
 - [Evidence for RT in advanced laparoscopic training is mixed, with cohort studies showing improvement but RCT findings inconsistent](rt-advanced-laparoscopic-mixed.md) — related
 - [Remote teaching achieves competency outcomes equivalent to traditional learning for basic surgical skills in most studies](rt-equivalent-to-tl-basic-surgical-skills.md) — related
+- [Mixed reality surgical mentoring shows no benefit over audio guidance for combat casualty care procedures](mixed-reality-combat-casualty-null.md) — related

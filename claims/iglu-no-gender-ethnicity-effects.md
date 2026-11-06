@@ -50,3 +50,4 @@ Initial repeated-measure MANCOVA controlling for gender and ethnicity found all 
 - [Mastery orientation, value, belonging, self-efficacy, and SRL show small demographic differences by gender, ethnicity, and grade](demographic-correlates-identity-motivation.md) — reports the opposite
 - [Combined motivation and knowledge scores differed significantly from pre-test to post-test in both samples, in one group with no comparison group after the IGLU intervention](iglu-omnibus-mancova-effect.md) — related
 - [Age and gender showed no significant effects on performance in the sample, though the authors call for exploration of their combined effect with a larger sample](age-gender-no-significant-effects-infant-sample.md) — related
+- [Knowledge and skill outcomes of the gamified and routine groups do not differ significantly by gender](no-gender-difference-knowledge-skill-gamification.md) — related

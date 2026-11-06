@@ -50,3 +50,5 @@ Reliability analysis using ICC(2,k) with a two-way random-effects model across f
 - [Novice trainees completing a structured VR simulation curriculum achieved significantly higher total GOALS scores than controls in a porcine cholecystectomy post-test](structured-vrst-curriculum-higher-goals-total.md) — related
 - [Inter-rater reliability of the drawing assessments was high, with an average-measures ICC of 0.988 for the total score](high-inter-rater-reliability-drawing-assessments.md) — related
 - [Two independent observers show high agreement when scoring the ATSHWS (total-score ICC 0.951)](atshws-inter-observer-reliability-icc-0-951.md) — related
+- [Blinded independent radiographic assessment of implant alignment showed good or excellent interrater agreement, with ICC ranging from 0.77 to 0.96](blinded-radiographic-assessment-icc-good-excellent.md) — related
+- [The researcher-made Mini-CEX and Logbook checklists showed high inter-rater consistency (average measure ICC = 0.990)](mini-cex-logbook-checklist-icc-0-990.md) — related

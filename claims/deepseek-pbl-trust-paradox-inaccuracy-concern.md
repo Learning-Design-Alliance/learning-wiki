@@ -70,3 +70,4 @@ A further survey item in the same questionnaire showed the DeepSeek-assisted gro
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related
 - [The most frequent limitation of AI in instructional design is content reliability and transparency (16 of 28 studies, 57.14%)](ai-id-limitation-content-reliability-transparency.md) — a broader claim this one bears on
 - [General-purpose LLMs show accuracy and reliability limits, including hallucinations and task-specific accuracy below perfect, making them risky as expert advice sources](llm-accuracy-hallucination-coaching-risk.md) — a broader claim this one bears on
+- [ChatGPT-guided PBL residents reported higher teaching satisfaction and self-assessed teaching effectiveness than controls](chatgpt-pbl-higher-satisfaction-effectiveness.md) — related

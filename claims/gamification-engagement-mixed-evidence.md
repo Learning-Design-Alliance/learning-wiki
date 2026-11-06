@@ -51,3 +51,4 @@ The review reports, citing included studies, evidence "for gamification having t
 - [Findings on gender differences in engagement with adaptive learning platforms are mixed, with some studies showing higher engagement among girls and others among boys](gender-engagement-adaptive-platforms-mixed.md) — related
 - [The SplashLearn Math review found alignment with student agency and gamification principles, including ZPD-based adaptivity](splashlearn-agency-gamification-alignment.md) — related
 - [Prior research on educational computer games shows mixed effects on cognitive and academic achievement outcomes](mixed-prior-evidence-games-cognitive-gains.md) — related
+- [The effectiveness of gamification in medical education is context-dependent, with design choices such as competition versus collaboration and personalization moderating outcomes](gamification-effectiveness-context-dependent.md) — a broader claim this one bears on

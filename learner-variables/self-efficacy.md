@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 303 claims (228 show a difference, 42 mixed, 33 no difference) · 241 studies (81 causal, 77 associational, 32 review, 22 qualitative, 11 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 50 of 241 report an effect size · 299 claims rest on one study
+> **Evidence** · 304 claims (229 show a difference, 42 mixed, 33 no difference) · 242 studies (81 causal, 78 associational, 32 review, 22 qualitative, 11 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 50 of 242 report an effect size · 300 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -334,6 +334,7 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Professional development is perceived as key to bolstering faculty self-efficacy for innovative teaching](../claims/professional-development-bolsters-self-efficacy.md) [+M] — measured as an outcome of the instruction studied
 - [Self-regulation is directly predicted by self-efficacy, critical thinking, and intrinsic motivation](../claims/self-regulation-predicted-by-efficacy-thinking-motivation.md) [+M] — learners who differ on it differ in outcomes
 - [Teacher self-efficacy positively predicts innovative teaching practices among Chinese faculty](../claims/self-efficacy-predicts-innovative-teaching-chinese-faculty.md) [+M] — learners who differ on it differ in outcomes
+- [Self-efficacy strongly and positively predicts Chinese EFL learners’ classroom engagement](../claims/self-efficacy-predicts-efl-classroom-engagement.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

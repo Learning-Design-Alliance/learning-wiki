@@ -48,6 +48,7 @@ The article recommends deploying the OSCRS simulation and clinical observation m
 - [Use IBL material prior to traditional lecture to reduce lecture time and increase learner satisfaction](ibl-prior-to-lecture-reduced-time-strategy.md)
 - [Use virtual patients to replace passive instruction and train clinical reasoning before bedside learning, without diminishing bedside teaching hours](vp-replace-passive-before-bedside-strategy.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
+- [Seven implementation recommendations for educators deploying virtual environments in teaching](dvsim-seven-implementation-recommendations.md)
 
 ## Examples
 -

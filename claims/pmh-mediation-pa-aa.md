@@ -53,3 +53,4 @@ Bootstrap mediation analysis (5000 resamples) in the 458-adolescent survey; Tabl
 - [Physical activity, self-concept, physical-mental health, and academic achievement are all significantly positively intercorrelated (N = 458)](pa-sc-pmh-aa-positive-correlations.md) — related
 - [Self-concept did not significantly mediate the PA–AA link in this Chinese adolescent sample (indirect β = 0.026, 7.43%)](sc-independent-mediation-not-supported.md) — related
 - [In one group measured before and after, an indirect statistical association involving self-reported mental health was reported between physical activity at T1 and academic motivation at T3, larger for extrinsic than intrinsic motivation](mental-health-mediates-pa-to-academic-motivation.md) — related
+- [Social relationship construction mediates the screen time–performance relationship more strongly than physical and mental health](social-constructs-stronger-mediator-than-health.md) — related

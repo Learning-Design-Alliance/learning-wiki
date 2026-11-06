@@ -13,7 +13,7 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 144 claims (83 show a difference, 40 mixed, 21 no difference) · 116 studies (44 causal, 26 associational, 23 review, 12 quant-synthesis, 8 theoretical, 3 qualitative), `q1`–`q4` · 23 of 116 report an effect size · 135 claims rest on one study
+> **Evidence** · 147 claims (84 show a difference, 41 mixed, 22 no difference) · 118 studies (45 causal, 27 associational, 23 review, 12 quant-synthesis, 8 theoretical, 3 qualitative), `q1`–`q4` · 23 of 118 report an effect size · 138 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
@@ -187,6 +187,9 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Cognitive load reduction is maximal when explainable guidance and adaptive scheduling are combined](../claims/cognitive-load-reduction-maximal-when-combined.md) [~M] — measured as an outcome of the instruction studied
 - [Working memory did not significantly moderate the effect of fading on posttest math performance](../claims/wm-does-not-moderate-fading.md) [-M] — an instructional effect differs with it
 - [Working memory resources can be exhausted during learning, decreasing performance, and restored through a break](../claims/working-memory-exhaustion-restored-by-break.md) [+M] — measured as an outcome of the instruction studied
+- [Extraneous cognitive load does not correlate significantly with usability, and germane load does not correlate significantly with post-training knowledge](../claims/cognitive-load-usability-null-correlations.md) [-M] — learners who differ on it differ in outcomes
+- [Immersive VR chest tube training shows a theoretically favourable cognitive load profile: low extraneous load, high germane load](../claims/immersive-vr-cognitive-load-profile-favourable.md) [+M] — measured as an outcome of the instruction studied
+- [The authors attribute the absent additive effect to possible cognitive overload of novice learners exposed to multiple complex modalities simultaneously](../claims/cognitive-overload-explanation-dual-modality.md) [~W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

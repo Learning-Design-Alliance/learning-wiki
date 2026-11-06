@@ -69,3 +69,4 @@ Qualitative synthesis of collaborative small focus groups with approximately 70 
 - [Students perceive wellness course content as immediately applicable to daily life, which they describe as heightening motivation and sustained engagement](perceived-relevance-heightens-engagement.md) — related
 - [Students who identify working with peers as helpful experience more group work, while those citing size or learning activities experience more lecture](practices-shape-perceived-helpfulness.md) — related
 - [Students in the high-tech group reported higher engagement and perceived value than low-tech students, who wanted more high-tech exposure](high-tech-simulation-qualitative-engagement.md) — related
+- [Facilitators perceive CBL as a powerful educational tool, believing active learning promotes retention of knowledge](facilitators-perceive-cbl-powerful-educational-tool.md) — related

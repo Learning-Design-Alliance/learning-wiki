@@ -55,3 +55,4 @@ Binary logistic regression predicting good knowledge among 400 dentists, adjuste
 - [Health care professionals from the Volta and Oti regions were 4.94 times more likely than those from Bono East to have adequate BLS knowledge and skills](volta-oti-higher-bls-odds-than-bono-east.md) — related
 - [Workshop attendance positively predicts case-report knowledge while holding a professional physical-therapy degree predicts lower scores](regression-case-report-predictors.md) — related
 - [None of five background predictors (gender, age, years since education, self-assessed knowledge, continuing education) significantly predicted dentists' overall proportion of correct answers](no-predictor-significant-overall-correct-answers.md) — related
+- [Behavioral capability increases with training level and with longer time since last BLS certification](factors-raising-behavioral-capability.md) — related

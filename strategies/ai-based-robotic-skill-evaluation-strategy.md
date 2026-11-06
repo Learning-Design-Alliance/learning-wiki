@@ -47,6 +47,7 @@ The authors recommend that future evaluation of robotic surgical skill move beyo
 ## Related Strategies
 
 - [Develop universal objective assessment and feedback methods that go beyond time and motion to capture tissue handling and interaction forces](universal-objective-assessment-tissue-force-feedback.md)
+- [Gather multicenter expert datasets and strengthen annotation criteria to enable AI-based skill assessment in robotic cardiac surgery](multicenter-data-strategy-skill-assessment-ai.md)
 
 ## Examples
 -

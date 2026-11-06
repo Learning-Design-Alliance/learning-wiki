@@ -48,3 +48,4 @@ In the correlational analysis of the 45-student pre-post study, the printed resu
 - [Escape room-based teaching produces significant knowledge gain (Cohen's d = 1.29) among undergraduate medical students on a pre-post assessment](escape-room-knowledge-gain-medical.md) — related
 - [Higher semester of study correlated with higher pre- and post-test knowledge but not with greater knowledge gain from the escape room](escape-room-semester-knowledge-correlation.md) — related
 - [AI Interaction Competence, not GPA or prior knowledge, is the decisive moderator of LLM-assisted learning gains](aic-moderates-llm-learning-gains.md) — related
+- [An escape room group achieved higher declarative mental health knowledge than case-based learning, but elevated anxiety and motivation negatively correlated with knowledge acquisition](escape-room-mental-health-knowledge-anxiety-motivation-tradeoff.md) — related

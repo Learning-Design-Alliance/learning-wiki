@@ -54,3 +54,4 @@ Motivation questionnaire (48 Likert-scale items adapted from Keller's ARCS model
 - [Gamified educational robots increase all four learning-motivation dimensions (attention, relevance, self-confidence, satisfaction) in a STEM curriculum](gamified-robots-increase-stem-motivation.md) — related
 - [Teachers report significantly higher satisfaction with the MOOC-HFS blended model across all questionnaire items](mooc-hfs-higher-teacher-satisfaction.md) — related
 - [The ARCS + BOPPPS blended learning model significantly enhances student learning motivation across all four ARCS dimensions in Endodontics education](arcs-boppps-blended-model-enhances-learning-motivation.md) — related
+- [Midwifery students reported significantly greater satisfaction with the gamified training method than with the traditional lecture method](gamification-greater-satisfaction-midwifery-students.md) — related

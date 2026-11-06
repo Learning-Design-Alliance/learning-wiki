@@ -53,3 +53,4 @@ Internal consistency analysis in the Results section, computed separately for ea
 - [The palliative care communication scale shows high internal consistency (overall Cronbach's α = 0.928) and 2-week test-retest reliability of 0.89](palliative-communication-scale-reliability-alpha-0928-retest-089.md) — related
 - [Simulation-based assessment scoring shows strong inter-rater reliability (ICC 0.77–0.84) and internal consistency (Cronbach's alpha 0.83) across raters and scenarios](hfscoring-reliability-icc-alpha.md) — related
 - [The questionnaire's internal consistency is confirmed with a Cronbach's alpha of 0.84 and PCA reveals two distinct dimensions](questionnaire-reliability-cronbach-alpha-084-two-dimensions.md) — related
+- [Internal consistency of ANTStr scores is high for both raters (Cronbach's alpha 0.83–0.94)](antstr-internal-consistency-cronbach-alpha.md) — related

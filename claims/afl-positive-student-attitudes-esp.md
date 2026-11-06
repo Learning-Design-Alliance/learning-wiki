@@ -72,3 +72,4 @@ Same questionnaire data: 81% credited self-assessment with increased self-confid
 - [Students in the generative AI-supported condition reported favorable perceptions of the instruction, with feedback for correcting mistakes rated highest](genai-geometry-favorable-perceptions.md) — related
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — related
 - [Students perceive peer review as improving composition quality, with ideas and structure benefiting most](peer-review-composition-quality-perception.md) — related
+- [In the experimental group, 88.9% of residents strongly agreed the case database mode improved image interpretation skills and learning interest, and 81.5% were very willing to adopt it in other departments](resident-questionnaire-favorable-toward-case-database-mode.md) — related

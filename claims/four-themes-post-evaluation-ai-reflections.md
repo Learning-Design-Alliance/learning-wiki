@@ -82,3 +82,4 @@ Context-specific sentiment analysis with a custom lexicon and LDA topic modellin
 - [Assessing AI feedback within PAIRR helped students develop AI literacy and writerly agency, with very few showing overconfidence in AI](assessing-ai-feedback-builds-ai-literacy-and-agency.md) — related
 - [Students' primary concerns about AI videos are inaccurate information, reduced interaction with educators, and diminished educational value](student-concerns-ai-videos-quality-interaction-value.md) — related
 - [Thematic analysis identified exam-aligned structured practice as the core perceived value of AIVP](aivp-thematic-exam-aligned-practice.md) — related
+- [No themes in the thematic analysis related to the Evaluation and Feedback step of Kern's curriculum design process.](no-themes-evaluation-feedback-step.md) — related

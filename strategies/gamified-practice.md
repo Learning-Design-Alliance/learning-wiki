@@ -69,6 +69,7 @@ Gamification works when game mechanics amplify the learning mechanics of practic
 - [Use weekly instructor-set challenges with no physical rewards to sustain intrinsic motivation on practice platforms](weekly-challenges-no-physical-rewards-strategy.md)
 - [Design gamified activities with progressive sequenced levels through which learners advance at their own pace](progressive-sequenced-levels-own-pace-gamification.md)
 - [Use family recognition and weekly ranked scoring to incentivize intern motivation](family-recognition-incentive-mechanism.md)
+- [Hybrid gamification design combining traditional instruction with gamified elements that emphasize individual progress and feedback over intense competition](hybrid-gamification-individual-progress-strategy.md)
 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — energy points, badges, and mastery levels layered onto practice exercises; progress mechanics reward accuracy over speed.

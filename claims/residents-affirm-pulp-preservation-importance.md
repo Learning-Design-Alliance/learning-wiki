@@ -50,3 +50,4 @@ Attitudes section (six Likert-scale items) of the survey of 256 residents. The a
 - [Only 36.3% of residents feel confident treating traumatized immature teeth while 96.9% want more training](low-confidence-high-training-demand-tdi.md) — related
 - [Students recognize direct pulp capping, partial pulpotomy and indirect pulp capping as VPT procedures more often than total pulpotomy](students-recognize-vpt-procedures-total-pulpotomy-less.md) — related
 - [Independent TDI management varies sharply by specialty: General Dentistry residents treat cases independently far more often than Oral Surgery residents](specialty-disparity-independent-tdi-management.md) — related
+- [Dental students show strongly positive attitudes toward TDI management and want more training](positive-attitudes-toward-tdi-management.md) — related

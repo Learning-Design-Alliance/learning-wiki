@@ -54,3 +54,5 @@ In this single-center parallel-group RCT, 20 medical interns were randomized 1:1
 - [Virtual simulations and mannequins or real persons show no significant difference in improving knowledge in medical and nursing education](vs-mannequin-rp-no-difference-knowledge.md) — related
 - [Virtual patients more effectively improve skills than traditional education (pooled SMD=0.90)](vp-traditional-skills-advantage.md) — a broader claim this one bears on
 - [VR group showed numerically greater ATLS performance gains than the mannequin group in exploratory comparison](vr-eye-tracking-greater-atls-gains-pilot.md) — related
+- [The mannequin simulator received significantly higher total feedback scores than the VR simulator, and higher scores in all six domains except knowledge](mannequin-higher-feedback-scores-than-vr.md) — related
+- [Medical students trained with the VR NVD simulator achieved significantly higher post-simulation knowledge scores than those trained with the mannequin simulator](vr-simulator-higher-post-simulation-knowledge-scores.md) — related

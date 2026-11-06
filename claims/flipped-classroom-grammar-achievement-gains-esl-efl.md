@@ -77,3 +77,4 @@ Post hoc comparison across the four pretest/posttest by group conditions in the 
 - [Both groups improved significantly from pretest to posttest, but improvement was significantly greater in the flipped classroom condition](flipped-rct-greater-within-group-gain.md) — related
 - [The flipped classroom model in live online classes produces no significant immediate learning achievement advantage over traditional teaching](fcm-loc-no-immediate-achievement-difference.md) — reports the opposite
 - [Flipped classroom and lecture-based teaching showed no significant difference in learning scores](fc-vs-lbt-no-learning-difference.md) — reports the opposite
+- [Within the experimental group all pairwise score gains across assessments were significant, whereas the control group showed no significant admission-to-mid-term gain](within-group-score-trajectories-experimental-versus-control.md) — related

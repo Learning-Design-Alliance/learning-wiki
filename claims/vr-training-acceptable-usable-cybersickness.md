@@ -49,3 +49,4 @@ Feasibility outcomes (RQ1a) of the pilot trial: IMI motivation 5.6 vs 5.2 (p = 0
 - [Students rated the VR-IWS highly usable, with a mean SUS score of 85.36](vr-iws-sus-usability-85.md) — related
 - [Augmented reality tabletop exercises enhanced immersion and engagement but showed limited usability](ar-tabletop-exercises-enhanced-engagement-limited-usability.md) — related
 - [Students rated Meta Quest 3 headset usability and comfort very highly (mean 4.7 ± 0.5) and openness to curricular VR integration rose from 3.6 to 4.4](vr-pilot-headset-usability-openness.md) — related
+- [Medical students rate immersive VR simulation for chest tube insertion training as highly usable (median SUS 82.5 of 100)](immersive-vr-chest-tube-high-usability-sus.md) — related

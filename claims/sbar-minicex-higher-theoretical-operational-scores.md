@@ -49,3 +49,4 @@ Randomised controlled trial of 405 nursing interns (control n = 201, observation
 - [Modified Mini-CEX combined with SBAR teaching improves clinical skills scores but not theoretical exam scores](mini-cex-sbar-improves-clinical-skills-not-theory.md) — reports the opposite
 - [Within the observation group, clinical communication, clinical thinking and mini-CEX ratings rose from pre-test to post-test in a pre-post comparison](sbar-minicex-within-group-prepost-gains.md) — related
 - [Overall teaching satisfaction is higher under SBAR plus mini-CEX, but two satisfaction dimensions show no between-group difference](sbar-minicex-teaching-satisfaction-mixed.md) — related
+- [Operating room trainees assessed with the Mini-CEX score significantly higher than trainees assessed with the routine Logbook](mini-cex-higher-scores-than-logbook-operating-room-trainees.md) — related

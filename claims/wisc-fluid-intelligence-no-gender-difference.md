@@ -70,3 +70,4 @@ Subtest-level meta-analysis (Table 2) of the Matrix reasoning subtest across 5 s
 - [The focus of attention factor was the only significant predictor of both fluid reasoning and visual processing intelligence when all three working memory factors were entered](focus-of-attention-predicts-gf-gv-children.md) — related
 - [Females outperform males on WISC processing speed (gS) with a medium advantage (d = -0.37), larger for Coding than Symbol search](wisc-processing-speed-female-advantage.md) — related
 - [Gender and expertise domain are the most robust grade predictors; females outperform males in 9 of 13 subjects with negligible effects](gender-and-expertise-robust-grade-predictors.md) — related
+- [Females outperformed males on the HAM-SJT with an effect size of d = .37, and gender was controlled in the regression models](gender-difference-ham-sjt-d37.md) — related

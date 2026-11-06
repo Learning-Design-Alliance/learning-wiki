@@ -50,3 +50,4 @@ Randomized controlled trial of 33 first-year surgical residents (VPF n = 17, VEF
 - [Video-based peer feedback produces higher post-training scores than video-based expert feedback for wound dressing change with suture removal](vpf-superior-wound-dressing-change.md) — a narrower finding that bears on this claim
 - [No significant difference between video-based peer feedback and expert feedback for indwelling urinary catheterization or simple interrupted suture](vpf-vef-no-difference-catheterization-suturing.md) — related
 - [Self-, peer-, and instructor-feedback within SDTS show no statistically significant differences in post-training OSCE performance](feedback-modality-no-significant-difference.md) — related
+- [No significant interaction between experience level and training effect was observed, suggesting video and AR training benefits across residency years](no-experience-training-interaction.md) — related

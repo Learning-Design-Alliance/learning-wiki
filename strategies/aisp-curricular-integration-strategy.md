@@ -58,6 +58,7 @@ Based on student recommendations and the study's feasibility findings, the artic
 - [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
 - [Position AI simulation as a complement to—not a replacement for—traditional clinical placements, with faculty preparation and dedicated quiet spaces](ai-simulation-as-complement-not-replacement.md)
 - [Develop a wider variety of CCS covering diverse oral diseases and transition to mobile platforms to broaden access](expand-ccs-disease-variety-mobile-platforms.md)
+- [Use AI-generated disease images as a standardized supplement to limited real clinical teaching materials](ai-generated-images-as-standardized-teaching-supplement.md)
 
 ## Examples
 -

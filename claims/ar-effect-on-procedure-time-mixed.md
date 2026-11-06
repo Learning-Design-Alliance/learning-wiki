@@ -66,3 +66,4 @@ The review reports no significant operative-time difference for complex procedur
 ## Related Claims
 - [AR training is consistently associated with reduced procedural errors across all studies measuring that outcome](ar-reduces-procedural-errors.md) — related
 - [AR telestration lowers cognitive workload during surgical training as measured by validated instruments](ar-lowers-cognitive-workload.md) — related
+- [Mixed reality surgical mentoring shows no benefit over audio guidance for combat casualty care procedures](mixed-reality-combat-casualty-null.md) — related

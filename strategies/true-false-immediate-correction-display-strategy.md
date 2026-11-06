@@ -47,6 +47,7 @@ The article recommends a true-false examination routine in which students check 
 ## Related Strategies
 
 - [Use frequent, low-stakes, cumulative tests in varied formats, including pretests, and encourage student self-testing](frequent-low-stakes-cumulative-testing-strategy.md)
+- [Post-examination feedback on high-error questions: explain questions with error rates above 30% via the department's communication platform](wechat-feedback-on-questions-over-30-percent-error-rate.md)
 
 ## Examples
 -

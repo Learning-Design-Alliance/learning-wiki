@@ -49,3 +49,4 @@ Explorative cognitive load evaluation using the Andersen and Makransky (2021) VR
 - [No difference in extraneous cognitive load between modality conditions in VR, contrary to the modality principle](vr-modality-no-extraneous-load-difference.md) — related
 - [Neither the pedagogical agent cue nor the light cue improved learning outcomes in the immersive VR dual-task environment](vr-cueing-no-learning-outcome-effect.md) — related
 - [Cueing in the immersive VR environment showed no detrimental effect on learners' mental spatial representation of the environment](vr-cueing-no-spatial-representation-detriment.md) — related
+- [Immersive VR chest tube training shows a theoretically favourable cognitive load profile: low extraneous load, high germane load](immersive-vr-cognitive-load-profile-favourable.md) — related

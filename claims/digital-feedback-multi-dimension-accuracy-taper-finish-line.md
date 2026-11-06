@@ -52,3 +52,4 @@ Authors' interpretation in the Discussion of the randomized trial's post hoc res
 - [Simulation training produces a large pre-to-post gain in tooth preparation scores, larger than the conventional group's gain](simulation-prepost-gain-large.md) — a narrower finding that bears on this claim
 - [Shape, width, length and smoothness improved significantly across sessions while depth and angle did not](criteria-selective-improvement-rest-seat.md) — related
 - [Preclinical dental students improve significantly in tooth volume loss, procedural error scores, and task completion time after either VR or phantom head training](pre-post-improvement-vr-ph-endodontics.md) — related
+- [No significant group differences emerge in cavity outline, floor, internal line angles, marginal ridge, retention form, or cavity width after short-term simulation training](no-differences-other-cavity-parameters.md) — reports the opposite

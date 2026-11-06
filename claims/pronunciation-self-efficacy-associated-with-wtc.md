@@ -71,3 +71,4 @@ Direct path estimated in the same CB-SEM path analysis with bias-corrected boots
 - [Lower communication anxiety combined with higher perceived communicative competence is positively correlated with L2 willingness to communicate](anxiety-competence-wtc-correlation.md) — related
 - [ESL learners' self-reported Willingness to Communicate scores rose from pre-test to post-test within the Debate and Philosophy Inquiry groups over a semester](debate-and-pi-increase-esl-wtc.md) — related
 - [Culture-based activities increase student willingness to participate](culture-activities-increase-participation.md) — related
+- [Self-efficacy strongly and positively predicts Chinese EFL learners’ classroom engagement](self-efficacy-predicts-efl-classroom-engagement.md) — related

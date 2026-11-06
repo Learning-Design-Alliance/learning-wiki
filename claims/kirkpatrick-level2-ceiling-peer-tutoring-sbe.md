@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: bertiola-flores-claudio-2026
     resource: "https://doi.org/10.1186/s12909-026-09582-0"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The highest Kirkpatrick level achieved among the reviewed studies was Level 2, reported in nine out of ten studies assessing knowledge, skills, and attitudes; one study reached only Level 1, evaluating participant reaction exclusively. [→ Bertiola-Flores Claudio 2026](#bertiola-flores-claudio-2026)

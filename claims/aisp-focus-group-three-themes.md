@@ -60,3 +60,4 @@ Descriptive thematic analysis of focus group discussions conducted after the pos
 - [Thematic analysis of open-ended feedback identified desires for greater scenario realism (36% of responses), more practice opportunities (23%), and improved technological infrastructure](qualitative-themes-scenario-realism-practice-infrastructure.md) — related
 - [Rwandan medical students recommend integrating simulation into the curriculum with early procedural skills training to improve patient outcomes](students-recommend-curriculum-integration-early-simulation.md) — related
 - [Participant feedback themes were adaptation to simulation-based learning and recognition of its reflective, skills-based potential](vital-coms-feedback-content-analysis-themes.md) — related
+- [Students' simulation anxiety coalesced around three themes: anticipation of the unknown, simulation as real, and being observed](three-themes-anxiety-realism-meaning-simulation.md) — related

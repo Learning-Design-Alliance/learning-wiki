@@ -51,3 +51,4 @@ Systematic review synthesis across all 72 included studies and all 37 tools. The
 - [Only two of 37 objective assessment tools in minimally invasive gynecological surgery showed substantial evidence of validity](only-two-migs-tools-substantial-validity.md) — related
 - [Only two of the included studies demonstrated predictive validity of their metrics for live robotic hysterectomy performance.](limited-predictive-validity-two-studies.md) — related
 - [The indicator system's predictive validity — whether scores correlate with clinical performance and patient outcomes — remains unverified and requires future multi-center testing](indicator-system-predictive-validity-unverified.md) — related
+- [Current data indicate AI-based automated assessment tools in robotic surgery are not well validated and remain at a conceptual stage](ai-robotic-surgery-assessment-not-well-validated.md) — related

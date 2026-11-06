@@ -69,3 +69,4 @@ Primary outcome domains B and E in the within-participants comparison of 20 stud
 - [Simulation-based teaching produces higher post-intervention technical skill scores and success rates for blood-sampling procedures than traditional teaching](simulation-higher-technical-skills-success-rates.md) — reports the opposite
 - [Medical students using a virtual simulation experiment system achieved higher operational skill scores than students taught by traditional laboratory methods](vse-higher-operational-skill-scores.md) — reports the opposite
 - [VR simulators for inferior alveolar nerve block training improve operation success rate, trainee satisfaction, accuracy and confidence](vr-ianb-training-success-confidence.md) — reports the opposite
+- [Higher perceived usability of immersive VR is associated with better technical skill performance (OSATS-SUS r = 0.51)](usability-correlates-technical-skill-osats-sus.md) — related

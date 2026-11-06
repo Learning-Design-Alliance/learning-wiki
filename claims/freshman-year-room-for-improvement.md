@@ -62,3 +62,4 @@ Descriptive statistics in the brief state that "More than half of Chicago freshm
 - [By spring of ninth grade, 64 percent of CPS ninth graders missed two or more weeks of instruction in at least one major subject](cps-ninth-graders-64-percent-miss-two-weeks-major-subject.md) — related
 - [Failing students are predominantly inactive in the first two weeks of the exam period](failing-students-inactive-first-two-weeks.md) — related
 - [Prior failure of at least one subject is associated with higher probability of adequate academic performance](prior-failure-higher-adequate-performance-medical-students.md) — related
+- [Iraqi educators report low or unknown course failure rates and predominantly view failing a student as a last resort rather than a necessary part of education](iraq-low-unknown-failure-rates-failing-last-resort.md) — related

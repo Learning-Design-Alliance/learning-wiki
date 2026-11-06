@@ -50,3 +50,5 @@ Descriptive results from the 333-student survey (Table 3): 299 students (89.8%) 
 - [Most participants believed oxygen therapy training is necessary, with no significant difference between nurses and physicians](ot-training-perceived-necessary-majority.md) — related
 - [Most fourth-year dental students at one Australian university report low confidence in managing TDI cases despite having average knowledge.](dental-students-low-confidence-tadi-management.md) — related
 - [Attendance at dental-injury classes shows no statistically significant difference in TDI-KNOW scores (66.51% vs 63.14%, p = 0.09)](no-significant-difference-attendance-dental-trauma-classes.md) — related
+- [Most undergraduate nursing students believe they have insufficient knowledge about dental trauma (79.8% self-report inadequate knowledge)](nursing-students-self-report-insufficient-dental-trauma-knowledge.md) — related
+- [70% of nursing students would attend an educational program on dental trauma](nursing-students-willing-attend-dental-trauma-education.md) — related

@@ -46,3 +46,4 @@ Multi-level model analysis of 173 datapoints from 85 residents in team-based sim
 
 ## Related Claims
 - [In case examples, leaders and team members showed markedly different average peaks-per-segment EDA values during the same simulation segments](leader-team-member-eda-divergence-case-examples.md) — related
+- [PGY-3 team leaders averaged 65% on a graded ACLS checklist, with most leaders assigning compressions and airway roles but fewer assigning IV access or medication administration](mirror-sim-checklist-performance.md) — related

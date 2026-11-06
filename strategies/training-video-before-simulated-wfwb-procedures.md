@@ -42,6 +42,7 @@ An educational video was created based on the checklist, adapted from a previous
 ## Related Strategies
 
 - [Use asynchronous instructional videos as preparatory scaffolding before simulation-based workshops to enable more efficient use of supervised training time.](asynchronous-videos-as-preparatory-scaffolding.md)
+- [Show a video of the simulated procedure before hands-on simulation](presimulation-procedure-video-strategy.md)
 
 ## Examples
 -

@@ -58,3 +58,4 @@ The review reports Elliot and McGregor's (1999) undergraduate study measuring tr
 - [An emotion-control strategy is expected to lower state anxiety early in training, with a stronger negative relationship for trainees high in trait anxiety](emotion-control-lowers-state-anxiety-trait-moderation.md) — related
 - [Higher trait depression, anxiety, and negative emotionality are associated with setting higher baseline goals (Study 1)](trait-negative-emotionality-higher-goal-levels.md) — related
 - [Worry is the only anxiety measure positively linked with school grades after controlling for other anxieties](worry-positively-predicts-grades.md) — related
+- [Literacy difficulties moderate the trait anxiety–academic performance link, intensifying its negative association](literacy-difficulties-moderate-trait-anxiety-gpa.md) — related

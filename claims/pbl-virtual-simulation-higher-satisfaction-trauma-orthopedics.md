@@ -77,3 +77,6 @@ Same assessor-blinded RCT of 50 clinical medical students. Teaching effectivenes
 - [Intervention students rated the blended learning experience less favorably but rated learning-goal clarity, structure, and curricular alignment higher than controls](mixed-course-evaluation-favors-structure-not-format.md) — related
 - [Clinical medicine students showed the largest score gap, 89.88 versus 68.34, between virtual-simulation and control groups](clinical-medicine-largest-virtual-simulation-score-gap.md) — related
 - [PBL-based theoretical teaching significantly increased the proportion of obstetrics students rating their learning experience agree or totally agree, from 68.5% to 92.2%](pbl-raises-positive-theoretical-learning-ratings-obstetrics.md) — related
+- [ChatGPT-guided PBL residents reported higher teaching satisfaction and self-assessed teaching effectiveness than controls](chatgpt-pbl-higher-satisfaction-effectiveness.md) — related
+- [Students trained with the virtual simulation platform report higher learning satisfaction than traditionally taught students](virtual-simulation-higher-learning-satisfaction.md) — related
+- [Experimental-group students report high satisfaction with VSO but note limited emotional interaction and virtual-to-real transfer issues](vso-student-survey-feedback.md) — related

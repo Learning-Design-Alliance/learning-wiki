@@ -50,3 +50,4 @@ Narrative review of the survey articles reports that structured rubrics includin
 - [Automated video metrics correlate with validated expert-based assessment tools](automated-video-metrics-correlate-with-validated-tools.md) — related
 - [Deep learning models trained on JIGSAWS kinematic and video data achieve high accuracy in predicting surgeon skill level and mOSATS scores](deep-learning-high-accuracy-skill-prediction-jigsaws.md) — related
 - [Hybrid tools combining checklists with global rating scales (ASSET, OSATS) show promise but require further validation in the live operative theater](hybrid-tools-asset-osats-promise-live-theater-unvalidated.md) — related
+- [Current data indicate AI-based automated assessment tools in robotic surgery are not well validated and remain at a conceptual stage](ai-robotic-surgery-assessment-not-well-validated.md) — related

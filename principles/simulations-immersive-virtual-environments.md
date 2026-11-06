@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 436 claims (256 for, 155 mixed, 25 against) · 272 studies (104 causal, 77 review, 39 quant-synthesis, 22 qualitative, 21 design, 8 theoretical, 1 associational), `q1`–`q4` · 56 of 272 report an effect size · 431 claims rest on one study
+> **Evidence** · 437 claims (257 for, 155 mixed, 25 against) · 273 studies (104 causal, 78 review, 39 quant-synthesis, 22 qualitative, 21 design, 8 theoretical, 1 associational), `q1`–`q4` · 56 of 273 report an effect size · 432 claims rest on one study
 
 ## Conditional relationship
 
@@ -434,6 +434,7 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Nursing students' patient and injury assessment skills, including emotional, nutritional and history-taking items, rose from pre-test to post-test after clinical simulation in one uncontrolled pre-post study](../claims/simulation-improves-wound-patient-assessment-skills.md) [+M] — attached 2026-11-06 from Borges Francisca Edinária de Sousa; Pereira Francisco Gilberto Fernandes; de Aguiar Maria Isis Freire; Fernandes Bruna Karen Cavalcante; Machado Ana Larissa Gomes; Beserra Eveline Pinheiro; Caetano Joselany Áfio (2025), which proposed "Three-stage before-and-after simulation pattern with pre-briefing, briefing, round and debriefing phases"; tests this page's relationship.
 - [Clinical educators identify specific clinical skills—documentation, basic safety, manual handling, subjective assessment, and understanding the multidisciplinary team's role—as appropriate for instruction through simulation before placement.](../claims/sbe-suited-prerequisite-clinical-skills.md) [+W] — attached 2026-11-06 from Mulhall Claire M et al. (2025), which proposed "Schedule simulation-based education directly before clinical placement so prerequisite skills are at the forefront of students' minds".
 - [Basic skills acquired on the box trainer transferred to the VR system, but VR skills did not transfer to the box system](../claims/box-skills-transferred-to-vr-not-vice-versa.md) [+W] — attached 2026-11-06 from Hottmann NM (2025), which proposed "Prefer box training for novice laparoscopic curricula and combine box and VR systems multimodally"; tests this page's relationship.
+- [Simulation-based teaching significantly reduces test times and improves skill development in medical trainees across 26 randomized trials](../claims/simulation-improves-skill-scores-rct-review.md) [+W] — attached 2026-11-06 from Mawyin-Muñoz CE et al. (2025), which proposed "Integrate simulation into medical curricula as a safe complement to conventional patient practice"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -715,6 +716,7 @@ Success inside the simulation, immediate performance outside it, delayed retenti
 - [Introduce virtual simulation systems in Periodontics to support integration of theoretical and practical skills](../strategies/virtual-simulation-systems-perio-skills-integration.md)
 - [Integrate immersive VR simulation as a complementary tool in continuing emergency training programs for low-frequency, high-complexity scenarios](../strategies/vr-complementary-continuing-emergency-training-strategy.md)
 - [Schedule repeated daily VR simulation sessions with formative feedback before a delayed practical test](../strategies/daily-repeated-vr-practice-then-final-test.md)
+- [Add a self-assessment mode without real-time instructions to immersive VR procedural training modules](../strategies/vr-self-assessment-mode-no-instructions.md)
 
 ## Key Sources
 - Akcayir, M., & Akcayir, G. (2017). Advantages and challenges associated with augmented reality for education: A systematic review of the literature. *Educational Research Review, 20*, 1-11. [https://doi.org/10.1016/j.edurev.2016.11.002](https://doi.org/10.1016/j.edurev.2016.11.002)

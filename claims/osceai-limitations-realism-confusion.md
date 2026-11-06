@@ -49,3 +49,4 @@ Open-ended limitation items from the anonymized survey (n = 37), thematically gr
 - [LLM-based virtual patients never ask for clarification of ambiguous questions, tending to provide overly detailed responses](never-ask-clarification-overly-detailed-responses.md) — related
 - [In a qualitative pilot with 10 speech-language pathology graduate students, most felt the Simucase assessment cases lacked authenticity because they included too few behavioral modifications](simucase-lacks-behavioral-authenticity.md) — related
 - [Final-year dental students perceived the AI role-play as authentic and relevant to clinical practice, with 85.7% strongly agreeing it relates to real-life scenarios](ai-roleplay-perceived-authenticity-survey.md) — related
+- [In the pilot study, most of the ten participating medical students judged the simulator realistic but asked for clearer, less information-dense scenario instructions](pilot-students-realism-feedback.md) — related

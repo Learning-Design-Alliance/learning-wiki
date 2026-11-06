@@ -51,3 +51,4 @@ Unadjusted subgroup item analysis in the cross-sectional survey (Table 6). Attit
 - [Nurses report generally adequate knowledge, positive attitudes, and maximal self-reported practice for ANE management, with a ceiling effect in the practice scale](ane-kap-overall-levels-ceiling.md) — related
 - [Knowledge, attitude, and practice scores for ANE management are positively intercorrelated, with attitude most strongly linked to practice](kap-domain-correlations-ane.md) — related
 - [KAP scores vary across demographic and professional characteristics (age, experience, education, employment type, hospital grade, event experience) in unadjusted analyses](kap-demographic-subgroup-variation.md) — related
+- [Trained nurses outperformed untrained nurses on every one of the 21 approved educational topics](trained-nurses-higher-all-21-topics.md) — related

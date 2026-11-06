@@ -76,3 +76,5 @@ The authors' summary of the same confirmatory factor analysis, stating the "four
 - [Global-fit evidence does not clearly favor unidimensional over multidimensional academic resilience measurement models, as fit-index pass rates diverge by index](dimensionality-evidence-mixed-resilience-scales.md) — related
 - [Confirmatory factor analysis with 448 secondary students showed the 32-item SAICS measurement model has good fit and high validity and reliability](saics-cfa-good-model-fit-448-students.md) — related
 - [The revised 43-item Korean HLCs four-factor model shows good confirmatory factor analysis fit](korean-hlc-four-factor-model-fit.md) — related
+- [Adapted PCE and MSLQ scales show good model fit and internal consistency for measuring collective and self-efficacy in simulation contexts](adapted-pce-mslq-scales-valid-in-simulation-context.md) — related
+- [Confirmatory factor analysis supports a three-factor structure for the Turkish-adapted Simulation Self-Report Cognitive Load Measurement Tool 2.0 with acceptable-to-good fit](turkish-clt-tool-cfa-three-factor-fit.md) — related

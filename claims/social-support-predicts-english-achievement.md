@@ -51,3 +51,4 @@ Cross-sectional survey of 1,543 Chinese secondary school students; regression in
 - [English academic self-concept moderates the association of social support with foreign language enjoyment (positively) and foreign language anxiety (negatively)](self-concept-moderates-support-emotion-paths.md) — related
 - [Perceived social support positively predicts both AI literacy and technological self-efficacy among university faculty](social-support-predicts-ai-literacy-and-self-efficacy-faculty.md) — related
 - [EFL PsyCap positively predicts EFL achievement among Chinese secondary EFL learners](efl-psycap-predicts-achievement.md) — related
+- [Digital technology use has a significant positive direct effect on EFL students' English academic performance](digital-technology-use-direct-positive-effect-efl-performance.md) — related

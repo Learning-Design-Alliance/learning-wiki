@@ -9,6 +9,7 @@ generated:
   at: 2026-11-06
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-06
 sources:
   - id: jang-kyeongmin-2025
     resource: "https://doi.org/10.1111/nicc.70123"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i3` large
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Knowledge scores rose significantly from baseline after three monthly sessions and remained elevated at 3-month follow-up, with no significant difference between the two post-intervention time points. [→ Jang Kyeongmin 2025](#jang-kyeongmin-2025)

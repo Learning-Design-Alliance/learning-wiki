@@ -58,3 +58,4 @@ Mixed ANOVA on self-efficacy in the 2x2 experiment: significant observer-gender 
 - [Female students consistently reported higher distress while male students reported higher resilience, a pattern observed across multiple countries](gender-patterns-distress-resilience-university-students.md) — related
 - [Gender is associated with healthcare leaders' digital competence, with females' computer and patient monitoring system knowledge lower than males'](gender-associated-leaders-digital-competence.md) — related
 - [Male interns report significantly higher self-perceived clinical confidence than females, while theoretical knowledge does not differ significantly by gender](gender-confidence-knowledge-difference-veneers.md) — related
+- [A pretest gender gap in self-efficacy (males higher) was no longer significant after hybrid simulation-based training](hybrid-sbt-closes-pretest-gender-gap-in-self-efficacy.md) — related

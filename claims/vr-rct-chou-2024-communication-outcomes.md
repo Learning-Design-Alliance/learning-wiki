@@ -62,3 +62,4 @@ A pragmatic randomized controlled trial with 84 second-year nursing students (42
 - [A video-based climate change program improved nursing students' climate change perceptions, environmental self-efficacy, and reduced climate anxiety, with large effects](video-based-climate-program-large-effects-students.md) — related
 - [A Kolb-based VR simulation program produces significantly greater improvement in problem-solving ability than e-book-based case simulation among nursing students](vr-experiential-simulation-improves-dka-problem-solving.md) — related
 - [The clinical practice self-confidence change score significantly favored the simulation group despite its lower pretest score](hfs-clinical-practice-change-favors-simulation.md) — related
+- [VR simulation as a teaching strategy improved nursing students' satisfaction, self-confidence, and performance](vr-simulation-nursing-satisfaction-self-confidence-performance.md) — related

@@ -63,6 +63,8 @@ The article recommends embedding the standards into structured professional lear
 - [Match the implementation pathway to institutional ambition: proctor-guided broad training for hub centers versus small-team complexity escalation for technical stewardship](two-implementation-pathways-hub-versus-stewardship.md)
 - [Sustain technology integration through ongoing professional development, technical support, and sharing of best practices](sustained-institutional-support-digital-pedagogy.md)
 - [Use the tool predominantly for reflective learning conversations within an intentional programme of peer coaching for simulation faculty development](fbat-reflective-learning-conversations-strategy.md)
+- [Implementation supports for BIM: faculty training, hierarchical small groups with contribution tracking, and shared case resources](bim-implementation-support-strategies.md)
+- [Reform Iraqi student assessment through a national framework with standardized rubrics, mandatory faculty training, peer-reviewed grading, structured remediation pathways, and external accreditation](iraq-assessment-reform-recommendations-strategy.md)
 
 ## Examples
 -

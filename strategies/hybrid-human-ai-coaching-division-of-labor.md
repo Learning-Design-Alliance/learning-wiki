@@ -45,6 +45,7 @@ The review recommends hybrid coaching in which AI chatbots are introduced into h
 - [Implement AI in assessment as a hybrid support tool for low-stakes, formative stages while humans retain final grading authority](hybrid-ai-human-assessment-implementation.md)
 - [Allocate human and AI effort by dimension type: automate explicit-criteria dimensions, retain human review for pedagogical judgment](human-ai-division-of-labor-mcq-generation.md)
 - [Implement educational chatbots with human-centred design, explicit AI policies, training, curated knowledge bases and continuous monitoring](chatbot-implementation-recommendations.md)
+- [Design blended learning environments that allocate AI tools to foundational knowledge and human expertise to conceptually challenging areas](blended-ai-human-allocation-strategy-medical-education.md)
 
 ## Examples
 -

@@ -84,3 +84,4 @@ Results section reporting all six Mini-CEX sub-dimensions as non-significant. Th
 - [Combined sandwich-case teaching was associated with lower learning stress among breast surgery interns, with no significant differences in economic or practical pressure](sandwich-case-teaching-lower-learning-stress.md) — related
 - [Blended PBL-CBL-seminar chairside teaching improves Mini-CEX clinical competence scores versus LBL in fourth-year dental students](blended-pbl-cbl-seminar-improves-mini-cex-scores.md) — related
 - [Clinical competence measured by Mini-CEX did not differ significantly between AI-PBL and traditional PBL groups despite numerically higher scores in the AI-PBL group](mini-cex-no-significant-group-difference.md) — related
+- [Experimental-group residents' Mini-CEX scores on all six assessed competencies rose significantly from admission to two and four weeks of training](minicex-scores-improve-two-four-weeks-ultrasound.md) — related

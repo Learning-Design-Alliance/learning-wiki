@@ -98,3 +98,4 @@ Inter-rater reliability analysis of the three instructors' independent blind gra
 - [Rubric scoring of concept image protocols showed inter-rater reliability exceeding acceptable thresholds (Fleiss Kappa 0.60–0.88; Krippendorff's Alpha 0.60–0.88; ICC 0.89–0.98)](concept-image-rubric-inter-rater-reliability.md) — related
 - [Crowd-sourced rubric scoring by trained laypeople produces scores comparable to expert raters at substantially lower cost](crowd-sourced-assessment-comparable-expert-lower-cost.md) — related
 - [Only diagnostic ranking shows excellent inter-rater reliability among the five scoring dimensions for evaluating ChatGPT-4 clinical responses](diagnostic-ranking-only-reliable-scoring-dimension.md) — related
+- [The researcher-made Mini-CEX and Logbook checklists showed high inter-rater consistency (average measure ICC = 0.990)](mini-cex-logbook-checklist-icc-0-990.md) — related

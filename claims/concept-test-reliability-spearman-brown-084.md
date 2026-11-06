@@ -47,3 +47,4 @@ Instrument reliability reported in the Instruments and Data-Collection section f
 
 ## Related Claims
 - [The final test variants met reliability criteria: split-half correlations exceeded the critical value and the Brown-Spearman reliability coefficient was 0,8](test-reliability-splithalf-brown-spearman.md) — related
+- [Split-half analysis supports the internal consistency of the Turkish-adapted tool (Spearman–Brown = 0.800, Guttman = 0.796)](turkish-clt-tool-split-half-spearman-brown-0800.md) — related

@@ -49,3 +49,4 @@ Fifty residents were randomized via random number table into two groups of 25. T
 - [At baseline, the intervention and control groups showed no statistically significant differences in demographics, evaluation location, or referral type, and comparable low pre-intervention Mini-CEX scores](serious-game-burn-trial-baseline-equivalence.md) — related
 - [Baseline comparability across study groups](baseline-comparability-three-groups.md) — related
 - [Chatbot and search engine classes showed no significant baseline differences in science learning ability and knowledge before the intervention](class-level-baseline-equivalence-chatbot-vs-search-engine.md) — related
+- [No significant baseline differences in gender, age, or experimental technical background between the TETM and RFETM groups](no-baseline-differences-tetm-rfetm-groups.md) — possibly the same claim (merge candidate)

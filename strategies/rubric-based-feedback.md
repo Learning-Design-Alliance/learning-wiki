@@ -85,6 +85,7 @@ Rubrics make evaluation criteria transparent, which supports learners' self-regu
 - [Use a formative assessment script to structure students' generation of peer and internal feedback on performance products](fas-supported-feedback-generation-strategy.md)
 - [Embed a light-touch guide with tips and worked examples in the peer feedback interface](embedded-light-touch-feedback-guide-strategy.md)
 - [Plan multifaceted feedback combining corrective and cognitive feedback, expert worksheet models, and peer observation under rubrics](planned-corrective-cognitive-feedback-case-flipped.md)
+- [Calibration and implementation pathways for analytic rubrics in clinical dental courses](rubric-calibration-implementation-pathways-dental-clinics.md)
 
 ## Examples
 - **[Exemplars / NZ Ministry of Education](https://nzcurriculum.tki.org.nz/Assessment/Exemplars)** — published annotated exemplars paired with rubric-style criteria that teachers use to frame feedback on student writing.

@@ -53,3 +53,4 @@ Content validity assessment via expert ratings of item importance, reported in t
 - [The final indicator system shows good reliability (ICC = 0.86) and content validity (S-CVI = 0.92; I-CVI 0.85–1.00)](icc-and-cvi-reliability-validity-tb-educator-indicator-system.md) — related
 - [Expert consultation yields high content validity for the scale: item CVI 0.78–1.00 and overall scale CVI 0.91](palliative-communication-scale-cvi-091-content-validity.md) — related
 - [Expert consultation rated the CCDNS-DRN with excellent content validity (I-CVI 0.78–1.0, S-CVI/UA 0.85, S-CVI/Ave 0.98)](ccdns-drn-content-validity-expert-consultation.md) — related
+- [Content validity of ANTStr is high, with all item CVR values above 0.78 and a CVI of 0.97](antstr-content-validity-cvi-097.md) — related

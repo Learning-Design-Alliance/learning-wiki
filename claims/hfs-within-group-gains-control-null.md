@@ -51,3 +51,4 @@ Table 2 paired-sample t-test results: intervention knowledge rose from 9.4 ± 1.
 - [Simulation training improves cardiac auscultation skills but shows no effect on respiratory auscultation skills](sbme-cardiac-not-respiratory-auscultation.md) — related
 - [Clinical simulation improved overall cardiovascular examination performance compared with traditional lecture in the Brazilian quasi-experimental study (Fernandes et al.)](simulation-vs-lecture-cardiovascular-performance-brazil.md) — related
 - [Clinical simulation improves nursing students' knowledge, confidence and performance in cardiovascular physical examination compared with traditional teaching, per a systematic review of six studies](clinical-simulation-improves-cardiovascular-assessment-nursing.md) — a broader claim this one bears on
+- [Low-fidelity otoscopy simulation raises anatomical knowledge scores by 32% over control instruction](otoscopy-simulation-knowledge-gain.md) — related

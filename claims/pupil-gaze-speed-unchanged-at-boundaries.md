@@ -47,3 +47,4 @@ Study 1 gaze moving-speed analysis across the same five boundary-locked time poi
 ## Related Claims
 - [Eye-tracking findings survive correction for low-level stimulus confounds (luminance, motion energy, audio volume)](eye-tracking-findings-robust-low-level-confounds.md) — related
 - [Random short video watching attenuates eye-movement synchronization (ISC) at event boundaries during subsequent movie encoding](random-short-video-reduces-boundary-isc.md) — related
+- [No ambient-to-focal shift was found within events: gaze parameters did not differ across event phases or between the first and second five seconds](no-ambient-focal-shift-within-events.md) — related

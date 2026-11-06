@@ -88,3 +88,4 @@ Prospective cohort study (n=8 neurosurgery residents) using Magic Leap One with 
 - [An expertise reversal pattern: AR provides substantial benefits to novices with diminishing returns for experienced surgeons](ar-expertise-reversal-effect.md) — related
 - [For lower-stakes basic skills, AR shows noninferiority rather than superiority over traditional instruction](ar-noninferiority-basic-skills.md) — related
 - [An augmented reality bracket navigation system enhanced bracket placement accuracy for novice orthodontists compared with a conventional method](ar-bracket-navigation-enhances-novice-placement-accuracy.md) — a narrower finding that bears on this claim
+- [Mixed reality surgical mentoring shows no benefit over audio guidance for combat casualty care procedures](mixed-reality-combat-casualty-null.md) — related

@@ -69,3 +69,4 @@ Null domain-level contrasts in the same study; equivalence was not tested. The a
 - [Baseline EMQ scores did not differ between GGR and SNAPPS groups, ensuring equivalent starting clinical reasoning skills](ggr-snapps-equivalent-baseline.md) — related
 - [Both GGR and SNAPPS significantly improve overall clinical reasoning scores in final-year MBBS students (p<0.001)](ggr-snapps-both-improve-clinical-reasoning.md) — related
 - [Students' reasoning reflected elements of both nonanalytic and analytic thinking: semantic qualifiers, partially activated illness scripts, and hypothetical-deductive reasoning](dual-process-elements-in-student-reasoning.md) — related
+- [Nursing students' hypothesis formation test scores after script strategy and structured reflection were above the reasoning-skill cutoff (p = 0.001), in a study with no comparison group](script-strategy-reasoning-scores-above-cutoff.md) — related

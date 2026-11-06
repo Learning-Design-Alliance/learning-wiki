@@ -54,3 +54,4 @@ Expert consultation step with 10 experts from the Disaster Nursing Specialized C
 - [In expert validation with 11 experts, most items of a 20-item virtual simulation scenario for teaching Standard Precautions reached content validity indices above 0.80, while four item ratings were 0.73](virtual-simulation-scenario-standard-precautions-cvi-above-080.md) — related
 - [Expert review established content validity of VEGA's generated content, with I-CVIs of 0.83–1.00 and S-CVI/Ave of 0.96](vega-content-validity-cvi.md) — related
 - [Content validity of the Aquablation simulator is rated excellent by experts, with an S-CVI/Ave of 0.91 but unanimous agreement on only half of the items (S-CVI/UA = 0.50)](aquablation-simulator-content-validity-scvi.md) — related
+- [Content validity of ANTStr is high, with all item CVR values above 0.78 and a CVI of 0.97](antstr-content-validity-cvi-097.md) — related

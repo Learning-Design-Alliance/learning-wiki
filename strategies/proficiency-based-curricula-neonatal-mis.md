@@ -55,6 +55,7 @@ The review recommends integrating cost-effective simulation into pediatric MIS t
 - [Integrate the validated SP chicken anastomosis task into SP-specific Proficiency Based Progression training pathways](sp-pbp-training-pathway-strategy.md)
 - [Adopt PBP training in high-volume national surgical training programmes](pbp-for-high-volume-national-programmes.md)
 - [Extend the low-cost homemade simulator principle to other basic, highly structuralized, standardized surgical procedures](extend-homemade-simulator-principle-other-procedures.md)
+- [Provide focused all-day procedure-specific training covering the entire surgical pathway before surgeons adopt a low-volume procedure](focused-all-day-procedure-specific-training-strategy.md)
 
 ## Examples
 -

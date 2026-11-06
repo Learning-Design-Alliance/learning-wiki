@@ -44,6 +44,7 @@ The article recommends that future iterations of the G-Jump model incorporate ex
 ## Related Strategies
 
 - [Add interactive features — quizzes, gamified modules, and simulated clinical scenarios — to future versions of skills-training software](future-interactive-features-quizzes-gamification-scenarios.md)
+- [Crossover gamified childbirth-protocol training design: half the topics gamified, half lectured, then reversed](crossover-gamified-protocol-training-strategy.md)
 
 ## Examples
 -

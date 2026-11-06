@@ -53,6 +53,7 @@ The authors recommend that dental curricula include more undergraduate and postg
 - [Structured stepwise endodontic curriculum: preclinical training, clinical observation, then supervised clinical practice](stepwise-endodontic-curriculum-preclinical-observation-practice.md)
 - [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
 - [Incorporate structured dental traumatology content into the medical curriculum using active, practical formats such as simulations, interactive case studies, and workshops](structured-dental-trauma-education-active-formats.md)
+- [Use multiple teaching methodologies — case- or team-based learning, flipped classrooms, simulation, augmented reality, and interactive virtual patients — to build TDI competence](multiple-teaching-methods-tdi-confidence.md)
 
 ## Examples
 -

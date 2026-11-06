@@ -62,3 +62,4 @@ Randomized controlled trial of 67 third-year medical students in Vietnam, random
 - [VSP training produced significantly greater improvement in medical history-taking ability than traditional teaching](cl-vsp-greater-history-taking-gains.md) — related
 - [Most VSP-trained students reported the training benefited history collection, condition analysis, diagnosis, treatment, and clinical thinking abilities](cl-vsp-student-satisfaction-clinical-thinking.md) — related
 - [SP-based training produced no statistically significant difference in final OSCE scores compared with traditional instruction, with a small negative effect size](sp-training-no-significant-osce-difference.md) — related
+- [VRNET virtual reality-based neurological examination training yields higher neurological physical examination scores than standardized patients](vrnet-higher-npe-scores-than-standardized-patients.md) — related

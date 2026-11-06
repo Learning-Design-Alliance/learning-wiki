@@ -69,6 +69,7 @@ Gamification reliably increases short-term engagement and activity completion, b
 - [Incorporate game elements such as rewards, adaptive difficulty, immersive environments, and clear feedback into digital interventions for ADHD](game-elements-strategy-adhd-digital-interventions.md)
 - [Reward students with badges on the platform for participation and completion to encourage more participation in all project stages.](badges-encourage-platform-participation.md)
 - [Gamified team point system with public tracking and a final excellence award](gamified-team-points-excellence-award.md)
+- [Hybrid gamification design combining traditional instruction with gamified elements that emphasize individual progress and feedback over intense competition](hybrid-gamification-individual-progress-strategy.md)
 
 ## Related Elements
 - [Provide feedback](../elements/provide-feedback.md) — points and badges are feedback delivery mechanisms; their instructional value depends on informational content

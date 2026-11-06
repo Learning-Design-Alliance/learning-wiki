@@ -54,6 +54,7 @@ The article states that the observed decline in knowledge and skills at 3 months
 - [Schedule periodic refresher modules to maintain point-of-care EEG skills after initial e-learning](periodic-refresher-modules-poceeg-skills.md)
 - [Tailor ECG education by experience level and schedule regular refresher courses](tailor-ecg-education-by-experience-and-refreshers.md)
 - [Use flexible, context-specific BLS training strategies — mobile learning, small-group simulation, train-the-trainer, routine refreshers and remote supervision — in conflict settings](wartime-bls-training-strategies-gaza.md)
+- [Renew BLS certification more frequently and tailor emergency training to dental settings](renew-bls-and-tailor-dental-emergency-training.md)
 
 ## Examples
 -

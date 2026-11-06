@@ -113,3 +113,4 @@ Same PISA secondary analysis, Results section. The article reports the average r
 - [A female reading advantage was found, but males outperformed females in math and science in lower- and upper-income groups](gender-advantage-reading-not-math-science.md) — a narrower finding that bears on this claim
 - [Male students report slightly higher classroom engagement than female students in the sample](gender-gap-engagement-boys-higher.md) — related
 - [Female students outperformed male students in reading and writing in both grades 3 and 6, while math achievement was similar](female-students-outperformed-males-reading-writing.md) — reports the opposite
+- [Same-sex pairs of relatives are slightly but systematically more correlated on school performance than opposite-sex pairs](same-sex-pairs-slightly-more-correlated.md) — related

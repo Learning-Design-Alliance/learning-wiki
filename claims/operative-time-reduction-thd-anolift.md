@@ -55,3 +55,4 @@ Retrospective cohort analysis of operative time as a continuous measure of techn
 - [Mean procedure time decreased from 3.45 to 1.53 minutes after training (p < 0.001)](sbml-probing-procedure-time-reduction.md) — related
 - [Resection-phase telemetry shows time to complete mesopancreas dissection shortens materially across the RPD learning curve](mesopancreas-dissection-time-shortens-landmark-r.md) — related
 - [Pooled mean CUSUM analysis identifies a turning point of 20 procedures for US-guided distal radial artery cannulation by novice anesthesiologists](cusum-turning-point-20-procedures-dra-cannulation.md) — related
+- [After passing the learning curve, operative times and GEARS scores did not differ between experts and novices](post-competence-performance-equal-experts-novices.md) — related

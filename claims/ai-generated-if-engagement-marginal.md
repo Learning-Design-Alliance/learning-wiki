@@ -55,3 +55,4 @@ Descriptive subscale results from the same pilot (N = 22). Engagement (Cronbach'
 - [Self-reported perceived quality is largely decoupled from quiz performance in AI-generated educational interactive fiction](if-quality-ratings-decoupled-from-quiz-performance.md) — related
 - [No significant effects of condition or gender on task relevance at any measurement point](no-condition-gender-effect-task-relevance.md) — related
 - [Students in a hybrid flipped medical terminology course rated all positive intrinsic motivation dimensions significantly above the neutral midpoint, with perceived tension significantly below it](positive-imi-hybrid-flipped-medical-terminology.md) — related
+- [Mean ratings for game length, difficulty, and gameplay cluster near the ideal midpoint, which the authors interpret as a balanced design](nicu-serious-game-balanced-design-ratings.md) — related

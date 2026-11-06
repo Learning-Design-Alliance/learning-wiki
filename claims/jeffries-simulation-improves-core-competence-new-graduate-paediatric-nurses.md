@@ -50,3 +50,4 @@ Single-group pretest/posttest quasi-experiment with 60 new graduate paediatric s
 - [Clinical nurses' core competency falls into three latent profiles — low-level (43.97%), moderate-level (41.98%) and high-level (14.05%) — with a relatively small high-level subgroup](three-latent-core-competency-profiles-nurses.md) — related
 - [Total self-reported ICCAS scores rose significantly from pre-test to post-test after the simulation intervention in one uncontrolled pre-post study](sbl-total-iccas-significant-increase.md) — related
 - [Within the intervention group, self-efficacy scores improved significantly from pre-test to post-test after screen-based simulation](screen-simulation-within-group-self-efficacy-gain.md) — related
+- [Nurses who completed a tailored 72-hour training program scored significantly higher on overall clinical performance than untrained nurses in cardiac surgery wards](tailored-training-higher-nurse-clinical-performance.md) — related

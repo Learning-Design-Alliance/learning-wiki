@@ -48,3 +48,4 @@ Linear random intercept regression on 61 Tubes attempts from 26 subjects (Tobii 
 - [First-attempt EEG features and initial performance score predict learning rate, with higher initial scores associated with lower learning rates](first-attempt-features-predict-learning-rate.md) — related
 - [In the Dots and Needles task, higher entropy of the nondominant eye's pupil diameter is associated with lower performance](pupil-entropy-lower-dots-needles-performance.md) — related
 - [Subject-wise standardization of eye-tracking features marginally improved the fit of performance and learning rate models](subject-wise-standardization-improves-model-fit.md) — related
+- [Event-level mean fixation duration and pupil diameter positively predict student-rated teamwork quality in nursing simulations](fixation-pupil-predict-teamwork-quality.md) — related

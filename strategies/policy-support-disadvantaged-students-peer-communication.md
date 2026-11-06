@@ -47,6 +47,7 @@ Based on the finding that peer support predicted both self-efficacy types while 
 
 - [Consider Socio-Cultural Factors](consider_socio-cultural_factors.md)
 - [Engage Positive Role Models](engage_positive_role_models.md)
+- [Strategic recommendations for policy makers: digital access plus pedagogical content, metacognition in the curriculum, constructive competition in maths, cooperative learning in reading and science, and family-involving support for disadvantaged students](pisa-policy-strategic-recommendations.md)
 
 ## Examples
 -

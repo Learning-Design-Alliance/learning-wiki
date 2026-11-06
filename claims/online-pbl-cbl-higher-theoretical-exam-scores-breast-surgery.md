@@ -96,3 +96,4 @@ Same RCT, Results section, reporting the two examination subsections. Basic theo
 - [BOPPPS-CBL students achieve significantly higher comprehensive case-analysis (Section D) scores than traditionally taught students](boppps-cbl-section-d-case-analysis-superior.md) — related
 - [Students taught with a progressive blended case-based model scored significantly higher on the post-test than lecture-taught students in an integrated urology module](blended-cbl-higher-posttest-urology.md) — related
 - [Most medical students demand clinically integrated case teaching and prefer blended learning over traditional classroom instruction](student-demand-case-integrated-blended-statistics-teaching.md) — related
+- [ChatGPT-guided PBL residents scored significantly higher on a nephrology theoretical exam than traditionally taught residents](chatgpt-pbl-higher-theoretical-exam-nephrology.md) — related

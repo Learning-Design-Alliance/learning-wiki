@@ -55,3 +55,4 @@ Comparison of subtest-level pooled effect sizes from newer WISC versions (III/IV
 - [Females outperform males on WISC processing speed (gS) with a medium advantage (d = -0.37), larger for Coding than Symbol search](wisc-processing-speed-female-advantage.md) — related
 - [Males outperform females on WISC visual processing (gV) with a small advantage (d = 0.21), stable across battery versions](wisc-visual-processing-male-advantage.md) — related
 - [Gender differences on WISC working memory (gSM) are negligible and not statistically significant](wisc-working-memory-no-gender-difference.md) — related
+- [Females outperformed males on the HAM-SJT with an effect size of d = .37, and gender was controlled in the regression models](gender-difference-ham-sjt-d37.md) — related

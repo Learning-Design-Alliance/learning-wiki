@@ -53,3 +53,4 @@ Nonrandomized controlled trial comparing 50 IAVSE elective students with 52 trad
 - [Undergraduates trained on a VR cataract simulation platform scored significantly higher total scores than traditionally trained peers in both traditional and VR assessments](vr-cataract-simulation-higher-total-scores.md) — related
 - [FCCL students significantly outperform traditional classroom students on the laboratory specimen examination in anatomy (p=0.004)](fccl-laboratory-exam-advantage-anatomy.md) — related
 - [Trainees trained on an animal-experiment-based simulation platform achieved significantly higher anatomy scores than control trainees (d = 0.68)](simulation-platform-higher-anatomy-scores-endoscopic-thyroidectomy.md) — related
+- [Adding a virtual simulation teaching platform to traditional teaching improves medical undergraduates' anatomical knowledge of gastrointestinal diseases](virtual-simulation-platform-improves-anatomical-knowledge.md) — related

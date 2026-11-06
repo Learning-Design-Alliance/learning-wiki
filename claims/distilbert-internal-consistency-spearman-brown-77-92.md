@@ -48,3 +48,4 @@ Empirical illustration using the Hewlett Foundation Kaggle automated essay scori
 ## Related Claims
 - [The DistilBERT model shows indications of fairness violations when comparing human and AI scores across different topics](distilbert-fairness-violations-across-topics.md) — related
 - [The DistilBERT classification model achieves validation accuracy of .85 and F1 score of .84 on the essay scoring task](distilbert-classification-accuracy-85-f1-84.md) — related
+- [Split-half analysis supports the internal consistency of the Turkish-adapted tool (Spearman–Brown = 0.800, Guttman = 0.796)](turkish-clt-tool-split-half-spearman-brown-0800.md) — related

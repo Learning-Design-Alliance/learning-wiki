@@ -47,3 +47,4 @@ Discriminative power analysis comparing mean ATSHWS scores of the bottom 27% and
 
 ## Related Claims
 - [Only course repetition, among demographic variables, is significantly associated with lower ATSHWS scores](course-repetition-lower-atshws-scores.md) — related
+- [Every item in the Turkish-adapted tool discriminated between participants, with upper-27% scores statistically significantly higher than lower-27% scores](turkish-clt-tool-upper-lower-27-item-discrimination.md) — possibly the same claim (merge candidate)

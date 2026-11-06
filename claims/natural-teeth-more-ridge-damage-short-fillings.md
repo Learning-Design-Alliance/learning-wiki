@@ -50,3 +50,4 @@ Comparison of errors across 408 teeth assessed visually and radiographically. Da
 - [Artificial teeth group students were more concerned with ethical and biohazard aspects than natural teeth group students](atg-students-ethical-biohazard-concerns.md) — related
 - [Overall technical quality of treatments was similar between natural and artificial teeth groups](similar-technical-quality-both-groups.md) — related
 - [Students perceived natural teeth as better for endodontic preclinical training than artificial teeth](students-prefer-natural-teeth-training.md) — related
+- [No significant group differences emerge in cavity outline, floor, internal line angles, marginal ridge, retention form, or cavity width after short-term simulation training](no-differences-other-cavity-parameters.md) — related

@@ -88,3 +88,5 @@ Independent-samples t-test comparing male (n = 388) and female (n = 722) student
 - [OSPE benefit scores differ by gender (females higher, P = .004) while OSCE benefit scores do not](gender-difference-ospe-benefit-score.md) — related
 - [Within the MIND model group, learning outcomes did not differ significantly by gender, locality, or employment status](mind-outcomes-consistent-gender-locality-employment.md) — a narrower finding that bears on this claim
 - [Female students rated their perceived competence higher than male students while external ratings did not differ](female-fyms-higher-perceived-competence.md) — reports the opposite
+- [Gender disparity in emergency self-efficacy favors males, but the behavioral capability difference is not statistically significant](gender-gap-emergency-self-efficacy-not-capability.md) — related
+- [Knowledge and skill outcomes of the gamified and routine groups do not differ significantly by gender](no-gender-difference-knowledge-skill-gamification.md) — related

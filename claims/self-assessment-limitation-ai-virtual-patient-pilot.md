@@ -45,3 +45,4 @@ Authors' stated limitations in the Discussion: outcomes were self-perceived only
 ## Related Claims
 - [The curriculum's generalizability is limited by a single-institution convenience sample and reliance on self-efficacy measures](otolaryngology-simulation-self-efficacy-study-limitations.md) — possibly the same claim (merge candidate)
 - [The evidence that PBL improves specialist transplant training outcomes is limited by single-institution quasi-experimental design, unblinded assessment, and possible Hawthorne effects](pbl-transplant-study-design-limitations.md) — related
+- [The study cannot attribute the observed gains to any single component of the combined intervention, and its evidence is limited by small sample, short duration and possible assessor bias](combined-intervention-confounding-limitations-ultrasound-study.md) — related

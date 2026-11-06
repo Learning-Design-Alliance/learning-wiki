@@ -51,6 +51,7 @@ Because latent profile analysis revealed pronounced heterogeneity, with over 40%
 
 - [Differentiated, profile-matched university AI-readiness and career-education support instead of uniform AI-literacy programs](profile-differentiated-ai-career-education-support.md)
 - [Profile-based stratified competency development: an assessment-intervention-reassessment pathway tailored to low-, moderate- and high-level nurses](stratified-competency-development-pathway.md)
+- [Stratified intervention: tailor support by engagement profile, attending to the highest-engagement group's anxiety](profile-stratified-engagement-anxiety-intervention.md)
 
 ## Examples
 -

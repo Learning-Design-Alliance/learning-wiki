@@ -49,3 +49,4 @@ Structural model results (Table 5) from the PLS-SEM analysis: H5 (TC→PEOU, t =
 - [Instructors' self-efficacy positively affects perceived ease of use of e-learning platforms in Nigerian universities](self-efficacy-predicts-ease-of-use-nigerian-instructors.md) — related
 - [Self-efficacy shows no significant effect on perceived usefulness of e-learning platforms](self-efficacy-pu-path-non-significant.md) — related
 - [Computer anxiety negatively affects students' perceived ease of use of a learning management system](computer-anxiety-negative-effect-lms-peu.md) — related
+- [Five of the eight hypothesized relationships in the e-learning utilization model were statistically supported](ckapq-five-hypotheses-supported.md) — related

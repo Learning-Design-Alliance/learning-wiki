@@ -51,3 +51,4 @@ Content validity assessment by experts (Table 4, alpha 0.875) covering operation
 - [Operation times on the DNH hydrogel ESD model discriminate between physicians of different experience levels](dnh-model-operation-times-discriminate-experience-levels.md) — related
 - [Expert raters scored the DNH model highest on anatomical accuracy and overall appearance, with weakest ratings for mucosal layer thickness replication](dnh-model-realism-ratings-profile.md) — related
 - [En-bloc resection and perforation outcomes on the DNH model stratify by experience: experts 100% resection and 0% perforation versus residents 60% and 20%](dnh-model-resection-perforation-stratify-experience.md) — related
+- [Expert panel rates the FROST simulator realistic and recommends it for training, except for the skin undermining step](expert-panel-face-content-validity-frost-simulator.md) — related

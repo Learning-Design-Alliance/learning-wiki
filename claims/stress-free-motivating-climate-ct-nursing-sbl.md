@@ -50,3 +50,4 @@ Finding from the Motivating Environment category of the qualitative pilot interv
 - [High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety](vad-stress-psychological-safety-threat.md) — related
 - [Play rehearsal and performance were perceived as the most exciting and enjoyable RSA stages, building confidence in speaking English](rsa-acting-confidence-enjoyment.md) — related
 - [Students view games as relaxing and fun, building confidence for speaking](games-relaxing-fun-confidence.md) — related
+- [Uncertainty in simulation was seen to increase cognitive load but was not always viewed as aversive, offering an opportunity to learn](uncertainty-cognitive-load-and-learning-opportunity.md) — related

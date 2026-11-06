@@ -84,3 +84,4 @@ Same study reporting that Truth-seeking, Maturity, and Open-mindedness dimension
 - [PBL combined with 3D-VRT produced higher critical thinking disposition scores across all seven dimensions than traditional teaching](pbl-3d-vrt-critical-thinking-all-seven-dimensions.md) — related
 - [Teachers highlighted debriefing after each simulation as central to the development of nursing students' critical thinking.](post-simulation-debriefing-central-to-ct-nursing-sbl.md) — a broader claim this one bears on
 - [Productive failure plus debriefing training improves critical thinking disposition total and dimension scores versus traditional training](productive-failure-debriefing-improves-critical-thinking.md) — related
+- [\"Learning, Thinking & Conveying\" training with experiential learning improves critical thinking disposition in 5 of 7 CTDI-CV dimensions but not systematicity or cognitive maturity](ltc-training-improves-ctdi-cv-critical-thinking-partially.md) — related

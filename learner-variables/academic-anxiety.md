@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 270 claims (180 show a difference, 52 mixed, 38 no difference) · 170 studies (61 associational, 58 causal, 26 review, 10 quant-synthesis, 6 qualitative, 6 theoretical, 3 design), `q1`–`q4` · 37 of 170 report an effect size · 262 claims rest on one study
+> **Evidence** · 272 claims (180 show a difference, 53 mixed, 39 no difference) · 171 studies (62 associational, 58 causal, 26 review, 10 quant-synthesis, 6 qualitative, 6 theoretical, 3 design), `q1`–`q4` · 37 of 171 report an effect size · 264 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -306,6 +306,8 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Stress/anxiety and sleep disturbances are counterintuitively associated with better academic performance in fasting students](../claims/stress-sleep-disturbance-better-performance-ramadan.md) [~M] — learners who differ on it differ in outcomes
 - [Class-level math test anxiety unexpectedly related positively to class-level math achievement](../claims/class-level-test-anxiety-positive-achievement-unexpected.md) [+M] — learners who differ on it differ in outcomes
 - [Video-assisted teaching does not significantly reduce nursing students' state anxiety before ROM practice compared with traditional teaching alone](../claims/video-assisted-teaching-no-anxiety-difference-rom.md) [-M] — measured as an outcome of the instruction studied
+- [In typical-functioning SLD undergraduates, trait anxiety shows only a direct effect on academic performance, with no mediation by test anxiety](../claims/direct-effect-trait-anxiety-typical-functioning-sld.md) [-M] — learners who differ on it differ in outcomes
+- [Test anxiety mediates the trait anxiety–academic performance relationship only in the high-functioning SLD group](../claims/test-anxiety-mediation-high-functioning-sld.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

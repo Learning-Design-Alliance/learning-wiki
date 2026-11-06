@@ -49,3 +49,4 @@ Qualitative assessment via compositions assigned to Group B after 14 sessions; t
 - [AI and peer feedback differed in complementary ways: AI gave general, rubric-driven, actionable feedback while peers gave more specific, contextual feedback](ai-and-peer-feedback-complementary.md) — related
 - [In interviews, 100% of experimental students said AR gave better understanding and 72% valued working with tablets, while 8% cited technical problems](interview-categories-ar-benefits-and-technical-problems.md) — related
 - [100% of ChatGPT's coding comments are positive while experts mix positive and negative comments](chatgpt-overly-positive-comments.md) — related
+- [Among RFETM-group students, 95.85% gave positive open-ended feedback, 3.63% neutral or uncertain, and 0.52% negative](rfetm-open-ended-comments-mostly-positive.md) — related

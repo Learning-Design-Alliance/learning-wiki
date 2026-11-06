@@ -76,3 +76,4 @@ ANOVA comparing accuracy distributions across subjects for each model, with post
 - [LLM accuracy is uniformly high in OT basic sciences but lower on OT-specific content, widening further on visuals](basic-sciences-high-ot-specific-lower.md) — related
 - [Diagnostic accuracy and confidence vary widely across lesion types, with stafne bone cavity easiest and adenomatoid odontogenic tumor and odontogenic keratocyst hardest](case-difficulty-varies-across-radiographic-lesions.md) — related
 - [LLM performance on anatomy MCQs varies significantly across anatomical topics, with Head & Neck and Abdomen highest and Upper Limb lowest](llm-anatomy-topic-performance-variation.md) — a narrower finding that bears on this claim
+- [LLM accuracy varied sharply by histology topic: perfect in foundational areas and lowest in Muscle (76.0%)](histology-topic-difficulty-llm-performance.md) — related

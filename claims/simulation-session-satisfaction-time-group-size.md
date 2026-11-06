@@ -53,3 +53,4 @@ Satisfaction survey using a 4-point Likert scale (neutral midpoint intentionally
 - [Students expressed interest in broader use of simulation across physiology practicals](student-demand-for-broader-simulation-use.md) — related
 - [VSG students reported predominantly positive views of the game, with technical glitches the most common criticism](vsg-student-opinions-positive-with-technical-glitches.md) — related
 - [Most students express positive attitudes and willingness toward virtual simulation training, but a substantial minority doubt it can match real clinical practice](student-attitudes-virtual-simulation-survey.md) — related
+- [Organisational factors, including insufficient allocated time and incomplete teams, hindered effective EVT simulation training](organisational-barriers-evt-simulation.md) — related

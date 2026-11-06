@@ -53,6 +53,7 @@ The article describes integrating six BPSO guidelines into eight core courses th
 - [Embed simulation-based scenarios into the curriculum as structured learning modules with guided debriefings and reflective exercises](simulation-modules-debriefing-strategy.md)
 - [Six-step implementation guideline for integrating collaborative simulation-based learning into health sciences curricula](collaborative-sbl-implementation-guidelines.md)
 - [Sequence clinical learning experiences deliberately from skill-based through integrative experiences in the nursing curriculum](deliberate-sequencing-clinical-experiences.md)
+- [Four-step situated simulation teaching course for NPWT continuing education](four-step-situated-simulation-npwt-course.md)
 
 ## Examples
 -

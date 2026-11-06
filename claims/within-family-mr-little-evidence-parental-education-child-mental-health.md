@@ -54,3 +54,4 @@ Within-family MR analysis of 40,879 Norwegian mother-father-child trios (MoBa), 
 - [Families of children with ADHD or autism report lower closeness, higher conflict, and lower parental educational attainment than other families](ndd-families-lower-closeness-higher-conflict.md) — related
 - [Parental education and family financial support show no direct association with medical school performance; maternal German nativity is an exception](parental-background-no-direct-performance-effect.md) — related
 - [Mothers' and fathers' education polygenic scores are unexpectedly negatively associated with maternal positive and literacy-focused parenting](parent-pgsedu-negative-parenting-association.md) — related
+- [Relatives connected through mothers are more strongly correlated on school performance than relatives connected through fathers](maternal-relatives-more-correlated-than-paternal.md) — related

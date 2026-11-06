@@ -52,3 +52,4 @@ Face-to-face semi-structured interviews with 15 randomly selected trainee nurses
 - [Trainee nurses' self-rated competency is significantly higher than clinical instructors' ratings of the same trainees, with a moderate effect size](trainee-self-rating-exceeds-instructor-rating-tcm-hospital.md) — related
 - [Nursing students report ineffective and inconsistent feedback in clinical practice due to overcrowded groups and limited instructor availability](students-report-ineffective-clinical-feedback-nanda.md) — related
 - [Contextual constraints — time pressure, facilitator variability, limited clinical exposure and lack of visual aids — moderate CBL effectiveness in resource-limited settings](cbl-constrained-by-resource-limited-context.md) — related
+- [Facilitators report CBL carries a heavy time commitment relative to didactic teaching, with concerns about excessive workload](cbl-facilitator-time-commitment-concerns.md) — related

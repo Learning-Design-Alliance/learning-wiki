@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: weak
 newest_evidence: 2016
+source_checked: 2026-11-06
 sources:
   - id: bajko-et-al-2016
     resource: "https://eric.ed.gov/?id=EJ1135365"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q1`–`q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` 88% of students at term end disagreed or strongly disagreed that they did not enjoy working in groups. [→ Bajko et al. 2016](#bajko-et-al-2016)
@@ -71,3 +72,5 @@ Authors' interpretation (type e) offered in the results and discussion, contrast
 - [Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, with no detectable wear-out effect](kahoot-enjoyment-stable-across-groups-and-time.md) — reports the opposite
 - [Students strongly oppose preassigned teams and value autonomy in review game participation](review-game-team-autonomy.md) — reports the opposite
 - [Students reported preparation effort for the collaborative exam comparable to individual examinations, indicating the team format did not reduce preparation](whisper-exam-preparation-effort-comparable.md) — related
+- [The effectiveness of gamification in medical education is context-dependent, with design choices such as competition versus collaboration and personalization moderating outcomes](gamification-effectiveness-context-dependent.md) — a broader claim this one bears on
+- [Prior gamification studies show mixed long-term effects, with some reporting declining motivation over time and competition potentially harming satisfaction](mixed-long-term-gamification-motivation-evidence.md) — related

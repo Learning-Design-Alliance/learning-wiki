@@ -57,3 +57,4 @@ Narrative synthesis of satisfaction findings across the 27 included studies. The
 - [Students report greater satisfaction with VR-based anatomy learning than with conventional or 2D methods](vr-anatomy-satisfaction-advantage.md) — a narrower finding that bears on this claim
 - [Students reported significantly higher satisfaction with clinical educator teaching than with peer teaching despite equivalent outcome scores](higher-satisfaction-with-educator-than-peer-teaching.md) — related
 - [Satisfaction and engagement with the simulations predicted post-test knowledge and attitude outcomes](vct-satisfaction-engagement-predictors.md) — related
+- [VR simulation as a teaching strategy improved nursing students' satisfaction, self-confidence, and performance](vr-simulation-nursing-satisfaction-self-confidence-performance.md) — related

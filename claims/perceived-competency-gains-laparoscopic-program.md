@@ -47,3 +47,4 @@ Self-report questionnaire (Module 2, six items, 5-point Likert scale) on perceiv
 ## Related Claims
 - [Most learner-facing studies of technology-enhanced simulation in laparoscopic training report favorable learner responses, mainly confidence, satisfaction, perceived safety and self-efficacy](simulation-laparoscopic-favorable-perceptions.md) — a broader claim this one bears on
 - [Experimental and quasi-experimental included studies describe improvements in time, precision, movement economy, task quality or perceived competence after laparoscopic simulation exposure](laparoscopic-simulation-performance-improvements.md) — a broader claim this one bears on
+- [Participation in the course with the low-cost model increased residents' confidence and perceived learning about laparoscopic appendectomy](appendectomy-course-confidence-and-learned-foundations.md) — related

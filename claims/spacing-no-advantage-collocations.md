@@ -51,3 +51,4 @@ Between-subjects comparison with 45 participants (25 spaced, 20 intensive); mean
 - [Number of retrieval exposures moderates the expanding-versus-uniform schedule benefit: more tests favour the expanding schedule](exposures-moderate-expanding-schedule-benefit.md) — related
 - [Expanding interstudy intervals led to better recall than fixed intervals, but conclusions are tentative](expanding-isis-better-than-fixed-tentative.md) — related
 - [Total retrieval spacing improved one-week vocabulary recall while relative schedules were not distinguished](total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished.md) — related
+- [Prior research indicates expanding-interval spaced schedules yield better retention than contracting or fixed intervals, and any spaced repetition outperforms massed learning](expanding-schedules-better-retention-than-fixed.md) — related

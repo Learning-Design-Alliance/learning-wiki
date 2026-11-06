@@ -53,3 +53,4 @@ Space dimension synthesis; the 13 space papers fell into four categories: virtua
 - [Open Teaching can function as a driving strategy in autonomous learning](open-teaching-autonomous-learning-strategy.md) — related
 - [The three pilots shared online technology for mastery pathways, credit for demonstrated mastery, anytime/anywhere learning, and improved data management](proficiency-pilots-shared-design-attributes.md) — related
 - [Flexibility and access are an initial characterization of Open Teaching](open-teaching-flexibility-and-access.md) — related
+- [Students valued desktop VE-based simulation for its accessibility, allowing them to log in anytime and anywhere and to stop and resume sessions](dvsim-accessible-repeatable-practice.md) — reports the opposite

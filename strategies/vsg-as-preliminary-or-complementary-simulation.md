@@ -64,6 +64,7 @@ The authors recommend integrating well-designed VSGs into nursing education as p
 - [Use AI-driven virtual patient simulators as a cost-effective supplement to build communication skills training capacity](ai-vps-cost-effective-capacity-strategy.md)
 - [Use educational simulation software as a supplement to lectures and hospital-based clinical practice in nursing education](simulation-software-supplement-to-lecture-and-clinical-practice.md)
 - [Integrate contextualized online materials with real or simulated clinical practice elements into traditional paramedic education](contextualized-online-plus-clinical-practice-mdc.md)
+- [Seven implementation recommendations for educators deploying virtual environments in teaching](dvsim-seven-implementation-recommendations.md)
 
 ## Examples
 -

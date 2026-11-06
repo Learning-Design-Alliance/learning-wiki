@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 193 claims (139 show a difference, 34 mixed, 20 no difference) · 129 studies (65 causal, 23 review, 15 associational, 8 quant-synthesis, 7 theoretical, 6 design, 5 qualitative), `q1`–`q3` · 28 of 129 report an effect size · 191 claims rest on one study
+> **Evidence** · 194 claims (139 show a difference, 35 mixed, 20 no difference) · 130 studies (66 causal, 23 review, 15 associational, 8 quant-synthesis, 7 theoretical, 6 design, 5 qualitative), `q1`–`q3` · 28 of 130 report an effect size · 192 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -234,6 +234,7 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Productive failure plus debriefing training improves critical thinking disposition total and dimension scores versus traditional training](../claims/productive-failure-debriefing-improves-critical-thinking.md) [+M] — measured as an outcome of the instruction studied
 - [Educational escape rooms are reported to improve critical thinking, clinical reasoning, teamwork, communication, and soft skills in healthcare students](../claims/escape-rooms-improve-healthcare-student-outcomes.md) [+M] — measured as an outcome of the instruction studied
 - [Academic achievement is directly predicted by self-regulation and critical thinking, with self-regulation the more influential predictor](../claims/self-regulation-critical-thinking-predict-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [\"Learning, Thinking & Conveying\" training with experiential learning improves critical thinking disposition in 5 of 7 CTDI-CV dimensions but not systematicity or cognitive maturity](../claims/ltc-training-improves-ctdi-cv-critical-thinking-partially.md) [~M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

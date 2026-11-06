@@ -49,3 +49,4 @@ Comparative cross-sectional evaluation of five AI models on the same 150 textboo
 - [ChatGPT-4 and Grok XI answered the highest proportion of dental MCQs correctly overall, with top scores ranging from 89.3% to 92.7% across sessions](top-llm-scores-89-93-to-92-7-dental-mcqs.md) — related
 - [Grok XI improved from 90.7% to 92.7% and Gemini from 87.3% to 88.7% between the two testing sessions, while DeepSeek-V3 declined from 87.3% to 86.7%](grok-gemini-accuracy-shift-between-sessions.md) — related
 - [ChatGPT-4, Grok XI and Gemini showed strong test-retest consistency (kappa 0.869–0.916), whereas Qwen 2.5 (0.650) and DeepSeek-V3 (0.735) fluctuated more between sessions](llm-test-retest-consistency-dental-mcqs.md) — related
+- [Five LLMs showed comparable, exceptionally high accuracy (collective mean 91.1%) on text-based medical histology MCQs](llm-mean-accuracy-91-1-histology-mcqs.md) — related

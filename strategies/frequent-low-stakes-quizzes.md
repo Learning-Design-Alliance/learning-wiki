@@ -122,6 +122,7 @@ Retrieval practice produces substantially more durable retention than restudying
 - [Incorporate spaced review, elaboration opportunities, dual coding, and frequent low-stakes assessments into medical curricula](curriculum-embedded-evidence-based-strategies-medical-education.md)
 - [Use closed-book pre-class specimen quizzes as retrieval practice to activate prior anatomical knowledge](pre-class-specimen-quiz-retrieval-strategy.md)
 - [Program announced, graded fill-in-the-blank quizzes with immediate in-class answer-key review](announced-graded-quiz-answer-key-review-strategy.md)
+- [Post-examination feedback on high-error questions: explain questions with error rates above 30% via the department's communication platform](wechat-feedback-on-questions-over-30-percent-error-rate.md)
 
 ## Examples
 - **Team-Based Learning** ([tbl.teamslearn.org](http://www.tbl.teamslearn.org)) — individual Readiness Assurance Tests taken before team discussion, with immediate appeal and feedback

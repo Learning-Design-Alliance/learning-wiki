@@ -50,3 +50,4 @@ Convergent validity and internal consistency assessment via CFA in the validatio
 - [Convergent and discriminant validity are supported by AVE values exceeding 0.50 and discriminant validity criteria met for both factors.](dkscqn-ave-discriminant-validity.md) — related
 - [The three measurement instruments show acceptable reliability and validity in this sample](measurement-model-cfa-reliability-validity.md) — related
 - [Composite reliability was adequate for both factors of the MID competency scale](mid-competency-instrument-composite-reliability.md) — related
+- [The CKAPQ measurement model shows adequate construct validity, with composite reliability 0.729–0.848 and AVE 0.516–0.669 exceeding discriminant MSV values](ckapq-construct-validity-cr-ave.md) — related

@@ -59,6 +59,7 @@ The article's implications recommend that institutions "avoid positioning AI as 
 - [Phased implementation of AI assessment starting with root opportunities in low-stakes settings](phased-ai-assessment-implementation-roadmap.md)
 - [Use AI chatbots as supportive, non-autonomous supplements in dental education and practice, with expert oversight](ai-as-supplementary-non-autonomous-dental-tool.md)
 - [Implement hybrid AI-generation with expert calibration for examination production](hybrid-ai-generation-expert-calibration-strategy.md)
+- [Use LLM-based feedback on resident reports so trainees can identify weaknesses, track growth, and reduce mentor workload](llm-feedback-resident-report-training-strategy.md)
 
 ## Examples
 -

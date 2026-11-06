@@ -47,3 +47,4 @@ Survey item on learning sources (multiple choice) among 256 residents. The autho
 ## Related Claims
 - [Only 67.2% of dental residents report familiarity with TDI management protocols, varying significantly by specialty](dental-residents-tdi-familiarity-specialty-gap.md) — related
 - [Independent TDI management varies sharply by specialty: General Dentistry residents treat cases independently far more often than Oral Surgery residents](specialty-disparity-independent-tdi-management.md) — related
+- [Traditional classroom is the dominant source of TDI learning, and half of students are dissatisfied with it for clinical preparation](traditional-classroom-dominant-tdi-learning-source.md) — related

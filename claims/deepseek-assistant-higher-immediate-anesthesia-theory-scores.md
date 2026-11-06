@@ -54,3 +54,5 @@ Stratified randomized controlled trial with 24 participants per group (12 underg
 - [MDT-CBL interns scored numerically higher than traditionally taught interns on a urology knowledge test, but the difference was not statistically significant](mdt-cbl-knowledge-test-null-pilot.md) — related
 - [Modified Mini-CEX combined with SBAR teaching improves clinical skills scores but not theoretical exam scores](mini-cex-sbar-improves-clinical-skills-not-theory.md) — related
 - [DeepSeek-assisted PBL residents achieve higher total comprehensive examination scores than traditional PBL residents](deepseek-pbl-higher-total-exam-score.md) — related
+- [ChatGPT-guided PBL residents scored significantly higher on the clinical practice assessment than traditionally taught residents](chatgpt-pbl-higher-clinical-practice-score.md) — related
+- [ChatGPT-guided PBL residents scored significantly higher on a nephrology theoretical exam than traditionally taught residents](chatgpt-pbl-higher-theoretical-exam-nephrology.md) — related

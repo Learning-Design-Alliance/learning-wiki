@@ -9,6 +9,7 @@ generated:
   at: 2026-11-06
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-06
 sources:
   - id: weber-ariana-2025
     resource: "https://doi.org/10.1186/s12909-025-07675-w"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3` · `i3` large
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i3` Pre- to post-course knowledge scores increased by 21.4 percentage points (67.6% to 89.0%), a statistically significant large effect. [→ Weber Ariana 2025](#weber-ariana-2025)

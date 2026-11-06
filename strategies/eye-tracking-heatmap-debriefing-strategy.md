@@ -48,7 +48,8 @@ The article's intervention used eye-tracking heatmaps during debriefing: "Eye-tr
 - [VR group showed numerically greater trauma-management error reduction than the mannequin group in exploratory comparison](../claims/vr-eye-tracking-greater-error-reduction-pilot.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use gaze tracking as a feedback tool to alert students and instructors to key moments in simulation learning](gaze-tracking-feedback-simulation-debriefing.md)
 
 ## Examples
 -

@@ -69,3 +69,4 @@ Same practice section: overall oral health education rates were low, especially 
 - [Only 36.3% of residents feel confident treating traumatized immature teeth while 96.9% want more training](low-confidence-high-training-demand-tdi.md) — related
 - [Traditional classroom teaching dominates TDI learning while internet resource use varies sharply by specialty](traditional-classroom-dominates-tdi-learning.md) — related
 - [94.5% of residents affirm the importance of vital pulp preservation, with significant specialty differences](residents-affirm-pulp-preservation-importance.md) — related
+- [Only 29.9% of surveyed dental students had ever treated a clinical TDI case independently](few-dental-students-treated-tdi-independently.md) — related

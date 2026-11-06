@@ -55,3 +55,4 @@ Grade two	116.04, 22.29"
 - [Positive relationships with grandparents are associated with higher gerontological nursing competence](grandparent-relationship-competence-association.md) — related
 - [Interest in gerontological nursing shows the strongest association with competence scores among the studied factors](interest-in-gerontological-nursing-predicts-competence.md) — related
 - [Prior gerontological nursing education is associated with higher self-assessed competence among vocational nursing students](prior-gerontological-education-higher-competence.md) — related
+- [Male nursing students report lower perceived simulation fidelity than female students, despite no overall gender difference in perceived design features](male-students-lower-perceived-fidelity.md) — related

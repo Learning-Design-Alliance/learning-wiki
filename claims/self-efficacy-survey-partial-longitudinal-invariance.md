@@ -54,3 +54,4 @@ Longitudinal measurement invariance testing (Appendix C, Table A5) following Wid
 - [A companion working paper examines the relationship between academic and social-emotional growth for English Language Learners](ell-working-paper-academic-and-social-emotional-growth.md) — a broader claim this one bears on
 - [An NWEA research brief examines how self-efficacy relates to the persistence of achievement gaps for English Language Learners; its landing page states no finding](self-efficacy-related-to-persistence-of-ell-achievement-gaps.md) — related
 - [Configural and metric measurement invariance across time hold for nearly all constructs, but scalar invariance is problematic for several](measurement-invariance-self-concept-belief-scales.md) — related
+- [SSE scale shows partial measurement invariance across Slovak- and English-program students, with Items 9 and 12 non-invariant](sse-partial-measurement-invariance-items-9-12.md) — related

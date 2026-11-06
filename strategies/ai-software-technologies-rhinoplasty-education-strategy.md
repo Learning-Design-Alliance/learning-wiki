@@ -50,6 +50,7 @@ The review proposes integrating artificial intelligence and software technologie
 - [Use shallow-learning detectors to route students to conceptual-grounding remediation and real-time metacognitive feedback](shallow-detector-remediation-strategy.md)
 - [Provide intentional instruction through direct observation, verbalization of maneuvers, preoperative nasal analysis, and structured feedback during rhinoplasty training.](intentional-instruction-rhinoplasty-strategy.md)
 - [Incorporate artificial intelligence and platform-based course recommendations into future blended teaching](future-ai-integration-blended-medical-teaching.md)
+- [Future development: integrate generative AI and a graphical interactive interface to lower the learning curve](generative-ai-graphical-interface-future-direction.md)
 
 ## Examples
 -

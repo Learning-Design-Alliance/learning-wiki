@@ -54,3 +54,4 @@ Propensity-matched comparison of operative times in the national AVR cohort; the
 - [In an emergency-surgery subgroup, autonomous resident-led cases achieved outcomes comparable to matched consultant-led emergency cases](resident-led-emergency-surgery-comparable-outcomes.md) — related
 - [In-hospital mortality, complications and postoperative hospitalization were similar between resident-led and consultant-led matched cases](resident-led-in-hospital-outcomes-similar.md) — related
 - [Trainee-performed laparoscopic pyloromyotomy takes modestly longer than specialist-performed cases (median +5 minutes)](trainee-lp-longer-operative-time.md) — a narrower finding that bears on this claim
+- [Posterior tibial slope medians differed significantly between trainees and consultants, yet both groups' values fell within the optimum range](posterior-slope-medians-differ-within-optimum-range.md) — related

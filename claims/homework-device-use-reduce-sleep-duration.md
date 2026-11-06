@@ -54,3 +54,4 @@ Regression predicting sleep duration (Table 6): homework time −0.335, device u
 - [Optimal sleep duration varies by subject: about 8–9 hours for mathematics and 7–8 hours for Chinese, English, science, and arts](subject-specific-optimal-sleep-duration.md) — related
 - [Each additional hour of pre-exam study increased odds of poor sleep quality by 10%, and needing more than 30 minutes to feel rested or waking ≥2 times per night roughly doubled the odds](study-hours-and-sleep-disruption-predict-poor-sleep.md) — related
 - [Students used electronic devices a median of 4 hours daily for non-academic purposes](median-four-hours-daily-device-use-university-students.md) — related
+- [Each additional hour of nightly sleep was associated with 49% higher odds of entrance exam success](sleep-duration-associated-entrance-success.md) — related

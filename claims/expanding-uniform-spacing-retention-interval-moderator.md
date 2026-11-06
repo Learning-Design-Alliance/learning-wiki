@@ -53,3 +53,4 @@ Systematic review of 119 spacing and interleaving studies, attributing this find
 - [The effectiveness of dropout schedules depends critically on the length of the interval between presentations of an item](dropout-effectiveness-depends-on-interval.md) — related
 - [Shorter retention intervals predict higher quiz grades, and the spacing benefit holds even at short retention intervals](retention-interval-no-spacing-interaction.md) — related
 - [Expanding spaced schedule not significantly more effective than intensive schedule for collocation learning](spacing-no-advantage-collocations.md) — related
+- [Prior research indicates expanding-interval spaced schedules yield better retention than contracting or fixed intervals, and any spaced repetition outperforms massed learning](expanding-schedules-better-retention-than-fixed.md) — related

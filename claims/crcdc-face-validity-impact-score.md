@@ -67,3 +67,4 @@ Qualitative and quantitative face validity assessment with 10 ICU nurses. Two it
 ## Related Claims
 - [Content validity evaluation of the preliminary 30-item CRCDCS indicated CVR values from 0.40 to 1.00 with nine items below the 0.62 threshold removed, and I-CVI values from 0.80 to 1.00 for retained items.](crcdc-content-validity-cvr-icvi.md) — related
 - [Item generation for the CRCDCS combined a deductive systematic literature review (21 studies yielding 10 items) with inductive conventional content analysis of semi-structured interviews with 15 ICU nurses (yielding 20 items, 7 subcategories, and 3 principal categories).](crcdc-item-generation-deductive-inductive.md) — related
+- [A 200-item clinical performance checklist was developed and content-validated through Delphi, CVI, Kappa, and CVR filtering](validated-200-item-performance-checklist.md) — related
