@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: ekpenyong-2026
     resource: "https://doi.org/10.1186/s12909-026-09346-w"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` 63.9% of students reported increased stress or anxiety due to pre-class tests, with qualitative themes identifying time constraints, inadequate feedback, and content misalignment as sources. [→ Ekpenyong 2026](#ekpenyong-2026)
+`q2 i?` 63.9% of students reported increased stress or anxiety due to pre-class tests, and students' qualitative feedback named time pressure in the five-to-seven-minute window, network connectivity problems, uncertainty about performance expectations and competing academic demands as sources of that stress; inadequate feedback and content misalignment were separate challenges students raised, not reported as sources of stress. [→ Ekpenyong 2026](#ekpenyong-2026)
 
 ## Evidence
 

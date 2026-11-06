@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "E-EMR showed targeted benefits by race/ethnicity: significant interactions for Asian, Latinx, Black, and Multiracial students relative to White students on nine outcomes"
-description: "E-EMR showed targeted benefits by race/ethnicity: significant interactions for Asian, Latinx, Black, and Multiracial students relative to White students on nine outcomes"
+title: "E-EMR effects differed by race/ethnicity: seven significant race × condition interactions relative to White students, for Asian, Latinx, Black and Multiracial students, mostly favouring them"
+description: "E-EMR effects differed by race/ethnicity: seven significant race × condition interactions relative to White students, for Asian, Latinx, Black and Multiracial students, mostly favouring them"
 id: e-emr-race-ethnicity-moderated-benefits
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-11-06
 sources:
   - id: duong-et-al-2022
     resource: "https://doi.org/10.1007/s12310-022-09516-3"
@@ -28,14 +29,14 @@ sources:
     rigour: 2
 ---
 
-# E-EMR showed targeted benefits by race/ethnicity: significant interactions for Asian, Latinx, Black, and Multiracial students relative to White students on nine outcomes
+# E-EMR effects differed by race/ethnicity: seven significant race × condition interactions relative to White students, for Asian, Latinx, Black and Multiracial students, mostly favouring them
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2022 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Significant race × condition interactions emerged for nine outcomes, with simple slopes showing significant positive E-EMR effects for Asian students on school belonging (B = 0.28, p < 0.01) but not White students. [→ Duong et al. 2022](#duong-et-al-2022)
+`q3 i?` The article's summary says interactions were significant for "nine of the E-EMR outcomes", but its outcome-by-outcome results and Table 3 report seven significant race × condition interactions (Asian: school belonging, hyperactivity/inattention; Latinx: identified regulation, future aspirations; Black: control and relevance of schoolwork; Multiracial: school belonging, future aspirations), one of them (Asian, hyperactivity/inattention) in the unexpected direction, with simple slopes showing significant positive E-EMR effects for Asian students on school belonging (B = 0.28, p < 0.01) but not White students. [→ Duong et al. 2022](#duong-et-al-2022)
 `q3 i?` Black students showed a significant positive E-EMR effect only on control and relevance of schoolwork (B = 0.51, p = 0.002), which was not significant for White students. [→ Duong et al. 2022 (2)](#duong-et-al-2022-2)
 
 ## Evidence

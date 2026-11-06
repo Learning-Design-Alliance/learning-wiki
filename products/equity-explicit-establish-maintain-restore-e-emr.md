@@ -13,7 +13,7 @@ generated:
 # Equity-Explicit Establish-Maintain-Restore (E-EMR)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Duong et al.'s E-EMR is a professional-development framework that guides teachers through Establish, Maintain, and Restore relationship practices while embedding equity levers to support racially minoritized students.
@@ -24,7 +24,7 @@ Duong et al.'s E-EMR is a professional-development framework that guides teacher
 ### Claims
 - [E-EMR showed no significant main effects on ninth graders' student–teacher relationships, belonging, motivation, engagement, or behavior over four months](../claims/e-emr-no-significant-main-effects-high-school.md) [+M]
 - [E-EMR effects were moderated by baseline scores, with significant benefits for students who started with worse scores on STR, conduct problems, and total problems](../claims/e-emr-baseline-moderation-low-scorers-benefit.md) [+M]
-- [E-EMR effects differed by race/ethnicity: seven significant race × condition interactions relative to White students, for Asian, Latinx, Black and Multiracial students, mostly favouring them](../claims/e-emr-race-ethnicity-moderated-benefits.md) [+M]
+- [E-EMR effects differed by race/ethnicity: seven significant race × condition interactions relative to White students, for Asian, Latinx, Black and Multiracial students, mostly favouring them](../claims/e-emr-race-ethnicity-moderated-benefits.md) [~M]
 
 ## Related Products and Programmes
 -

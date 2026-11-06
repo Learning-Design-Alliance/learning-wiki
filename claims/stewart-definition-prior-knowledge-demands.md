@@ -9,12 +9,13 @@ generated:
   at: 2026-09-26
 evidence_strength: moderate
 newest_evidence: 2021
+source_checked: 2026-11-06
 recheck_by: 2026
 sources:
   - id: burgos-2021
     resource: "https://doi.org/10.17583/redimat.2021.6778"
-    title: "Burgos, M., Bueno, S., Pérez, O., & Godino, J. D. (2021). Onto-semiotic complexity of the Definite Integral. Implications for teaching and learning Calculus. REDIMAT – Journal of Research in Mathematics Education, 10(1), 4-40. https://doi.org/10.17583/redimat.2021.6778"
-    author: "Burgos, M., Bueno, S., Pérez, O., & Godino, J. D."
+    title: "Burgos, M., Bueno, S., Godino, J. D., & Pérez, O. (2021). Onto-semiotic complexity of the Definite Integral. Implications for teaching and learning Calculus. REDIMAT – Journal of Research in Mathematics Education, 10(1), 4-40. https://doi.org/10.17583/redimat.2021.6778"
+    author: "Burgos, M., Bueno, S., Godino, J. D., & Pérez, O."
     q: 2
     i: "?"
     kind: theoretical
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person · recheck by 2026: baselines and conditions change
+> **Currency** · newest study 2021 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2026: baselines and conditions change
 
 ## Subclaims
 `q2 i?` The OSA analysis of Stewart's (2016) definition of the integral as the limit of Riemann sums shows the reader must relate many object types (functions, intervals, partitions, sample points) and recognize each one's role in the definition process. [→ Burgos 2021](#burgos-2021)
@@ -34,7 +35,7 @@ sources:
 
 ### Burgos 2021
 
-Burgos, M., Bueno, S., Pérez, O., & Godino, J. D. (2021). Onto-semiotic complexity of the Definite Integral. Implications for teaching and learning Calculus. REDIMAT – Journal of Research in Mathematics Education, 10(1), 4-40. https://doi.org/10.17583/redimat.2021.6778
+Burgos, M., Bueno, S., Godino, J. D., & Pérez, O. (2021). Onto-semiotic complexity of the Definite Integral. Implications for teaching and learning Calculus. REDIMAT – Journal of Research in Mathematics Education, 10(1), 4-40. https://doi.org/10.17583/redimat.2021.6778
 
 `q2 · i?` · `theoretical · r2`
 

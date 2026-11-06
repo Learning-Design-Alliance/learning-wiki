@@ -10,8 +10,8 @@ generated:
 sources:
   - id: fricke-1976
     resource: "https://eric.ed.gov/?id=ED127854"
-    title: "Fricke, B. G. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854"
-    author: Fricke, B. G
+    title: "Ericksen, S. C. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854"
+    author: Ericksen, S. C.
 ---
 
 # Criterion-referenced versus norm-referenced grading as two competing conceptions of grading
@@ -51,4 +51,4 @@ The article frames grading as a choice between two conceptions: grading students
 - [Grading by contract: students propose specific work and criteria within teacher-presented options](../principles/competency-based-assessment.md)
 
 ## Key Sources
-- Fricke, B. G. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854
+- Ericksen, S. C. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854

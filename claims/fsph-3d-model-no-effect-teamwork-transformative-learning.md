@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The collaborative model shows no significant effect on inter-professional teamwork competence or transformative learning readiness
-description: The collaborative model shows no significant effect on inter-professional teamwork competence or transformative learning readiness
+title: "The collaborative model's results on teamwork competence and transformative learning readiness are mixed: change scores did not differ, while baseline-adjusted ANCOVA favoured it on teamwork competence but not on transformative learning readiness"
+description: "The collaborative model's results on teamwork competence and transformative learning readiness are mixed: change scores did not differ, while baseline-adjusted ANCOVA favoured it on teamwork competence but not on transformative learning readiness"
 id: fsph-3d-model-no-effect-teamwork-transformative-learning
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: zhou-fen-2026
     resource: "https://doi.org/10.3389/fpubh.2026.1837667"
@@ -20,15 +21,15 @@ sources:
     rigour: 2
 ---
 
-# The collaborative model shows no significant effect on inter-professional teamwork competence or transformative learning readiness
+# The collaborative model's results on teamwork competence and transformative learning readiness are mixed: change scores did not differ, while baseline-adjusted ANCOVA favoured it on teamwork competence but not on transformative learning readiness
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Zhou Fen 2026: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims
-`q2 i?` Inter-professional teamwork competence and transformative learning readiness showed no significant differences after baseline adjustment (both p > 0.05). [→ Zhou Fen 2026](#zhou-fen-2026)
+`q2 i?` Change scores did not differ between groups for inter-professional teamwork competence (AITCS; t = 0.207, p = 0.836) or transformative learning readiness (MSTLR; p = 0.678); the baseline-adjusted ANCOVA, the study's primary analysis, showed a significant difference for AITCS (adjusted mean difference 1.72, 95% CI 0.41–3.03; F = 6.854, p = 0.010, partial η² = 0.055) but not for MSTLR (p = 0.295), although the abstract reports both as non-significant. [→ Zhou Fen 2026](#zhou-fen-2026)
 
 ## Evidence
 
@@ -38,7 +39,7 @@ Zhou Fen, Yu Ping, Yu Xiaofen, Han Xuyan, Wang Zheng. (2026). Family-school-hosp
 
 `q2 · i?` · `causal · r2`
 
-Non-randomized controlled pre-post study of 120 clinical medical interns (60 per group). "no significant differences after baseline adjustment" for inter-professional teamwork competence and transformative learning readiness.
+Non-randomized controlled pre-post study of 120 clinical medical interns (60 per group). The abstract reports "no significant differences after baseline adjustment" for inter-professional teamwork competence and transformative learning readiness, but the full results contradict it for teamwork: the ANCOVA adjusted for baseline AITCS "demonstrated significant intergroup differences" (adjusted means 66.54 vs 64.82; mean difference 1.72, 95% CI 0.41–3.03; F = 6.854, df = 1,117, p = 0.010, partial η² = 0.055), while the change-score t-test did not (t = 0.207, p = 0.836, d = 0.04). For transformative learning readiness neither the change-score test (p = 0.678) nor the ANCOVA (mean difference 1.71, 95% CI −1.52 to 4.94; p = 0.295) was significant. The groups were not randomised, so even the teamwork difference is not a demonstrated effect.
 
 > "Inter-professional teamwork competence and transformative learning readiness showed no significant differences after baseline adjustment (both p > 0.05)."
 

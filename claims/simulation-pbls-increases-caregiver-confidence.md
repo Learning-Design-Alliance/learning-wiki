@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: kocyigit-s-2026
     resource: "https://doi.org/10.1186/s12909-026-09158-y"
@@ -32,11 +33,11 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 > **Design limits** · Kocyigit S 2026: no comparison group (read from the study by two models, 2026-11-05)
 
 ## Subclaims
-`q2 i?` Participants reported high satisfaction, with questionnaire domain mean scores exceeding 4.7 out of 5. [→ Kocyigit S 2026](#kocyigit-s-2026)
+`q2 i?` Participants reported high satisfaction, with questionnaire domain mean scores of 4.7 or higher out of 5 (the "Effectiveness of methods and strategies" domain was exactly 4.7; the article summarises the results as exceeding 4.7). [→ Kocyigit S 2026](#kocyigit-s-2026)
 `q2 i?` Participants gained confidence and developed skills, with the skills-and-confidence domain scoring a mean of 5. [→ Kocyigit S 2026 (2)](#kocyigit-s-2026-2)
 
 ## Evidence
@@ -47,7 +48,7 @@ Kocyigit S, Akgun-Dogan O, Hatirnaz Ng O, Alanay Y, Guven F. (2026). Pilot study
 
 `q2 · i?` · `causal · r1`
 
-13-item paper-based questionnaire adapted from validated international tools, using 5-point Likert-scale items across six domains, completed by the ten caregivers. All domain means exceeded 4.7.
+13-item paper-based questionnaire adapted from validated international tools, using 5-point Likert-scale items across six domains, completed by the ten caregivers. Every domain mean was 4.7 or higher (4.77 to 5); the "Effectiveness of methods and strategies" item was exactly 4.7, so the article's summary that the means "exceeded 4.7" is slightly loose.
 
 > "Table 4 shows training assessment questionnaire results, where the mean scores exceeded 4.7 out of 5."
 

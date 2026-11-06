@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 92 claims (39 for, 48 mixed, 5 against) · 68 studies (36 causal, 14 review, 7 quant-synthesis, 4 associational, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 15 of 68 report an effect size · 87 claims rest on one study
+> **Evidence** · 92 claims (39 for, 48 mixed, 5 against) · 68 studies (36 causal, 14 review, 7 quant-synthesis, 4 associational, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 14 of 68 report an effect size · 87 claims rest on one study
 
 ## Description
 

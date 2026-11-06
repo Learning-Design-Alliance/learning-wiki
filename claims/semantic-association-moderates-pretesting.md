@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Pretesting benefits for paired associates depend on semantic association between pair members, with cued-recall benefits absent for unrelated pairs
-description: Pretesting benefits for paired associates depend on semantic association between pair members, with cued-recall benefits absent for unrelated pairs
+title: Pretesting benefits for paired associates depend on semantic association between pair members, with cued-recall benefits typically not observed for unrelated pairs
+description: Pretesting benefits for paired associates depend on semantic association between pair members, with cued-recall benefits typically not observed for unrelated pairs
 id: semantic-association-moderates-pretesting
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-13
 evidence_strength: mixed
 newest_evidence: 2023
+source_checked: 2026-11-06
 sources:
   - id: steven-c-pan-2023
     resource: "https://doi.org/10.1007/s10648-023-09814-5"
@@ -20,14 +21,14 @@ sources:
     rigour: 3
 ---
 
-# Pretesting benefits for paired associates depend on semantic association between pair members, with cued-recall benefits absent for unrelated pairs
+# Pretesting benefits for paired associates depend on semantic association between pair members, with cued-recall benefits typically not observed for unrelated pairs
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` When paired associates lack a semantic association, no pretesting advantage occurs on cued recall posttests, though recognition tests show benefits. [→ Steven C. Pan 2023](#steven-c-pan-2023)
+`q2 i?` When paired associates lack a semantic association, a pretesting advantage "may" not occur on cued-recall posttests and has typically not been observed there, with noted exceptions; in studies of semantically unrelated pairs or unfamiliar foreign-language translations that gave both test types, benefits have been observed only on recognition tests. [→ Steven C. Pan 2023](#steven-c-pan-2023)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Steven C. Pan, Shana K. Carpenter. (2023). Prequestioning and Pretesting Effects
 
 `q2 · i?` · `review · r3`
 
-The review's synthesis of multiple studies (Grimaldi & Karpicke; Huelser & Metcalfe; Knight et al.) reports that without semantic association, "no advantage of prior testing may occur if the posttest involves cued recall".
+The review's synthesis of multiple studies (Grimaldi & Karpicke; Huelser & Metcalfe; Knight et al.) reports that without semantic association, "no advantage of prior testing may occur if the posttest involves cued recall". It frames this as a tendency rather than a rule: for unfamiliar translations a cued-recall benefit "has typically not been observed" (citing Carpenter et al., 2012 as an exception), and in studies of semantically unrelated pairs or unfamiliar translations that gave both test formats, "a benefit of prior testing has only been observed in the case of recognition tests".
 
 > "If that semantic association is absent (e.g., door-shoe), then no advantage of prior testing may occur if the posttest involves cued recall"
 

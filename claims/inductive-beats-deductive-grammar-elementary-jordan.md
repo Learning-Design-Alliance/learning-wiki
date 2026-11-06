@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-06
 sources:
   - id: alzubi-2015
     resource: "https://doi.org/10.7575/aiac.alls.v.6n.2p.187"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Elementary students taught grammar inductively scored significantly higher on the grammar post-test than students taught deductively (T = 2.769, significant at α≤0.09). [→ Alzu'bi 2015](#alzubi-2015)
@@ -37,7 +38,7 @@ Mohammad Akram Alzu'bi. (2015). Effectiveness of Inductive and Deductive Methods
 
 `q2 · i?` · `causal · r2`
 
-Quasi-experimental comparison of two elementary school sections (n = 20 inductive, n = 20 deductive) taught for about one month with daily 45-minute periods. The inductive group's post-test mean was 36.45 versus 28.95 for the deductive group; no effect size is printed.
+Experiment comparing two elementary school sections (n = 20 inductive, n = 20 deductive); the article reports that sections were randomly selected and each randomly assigned to one method, with pre-tests used to check the groups were equivalent. With one section per method, method and section cannot be separated. The sections were taught for about one month with daily 45-minute periods. The inductive group's post-test mean was 36.45 versus 28.95 for the deductive group; no effect size is printed.
 
 > "Table 4 indicates that the T value of grammar was 2.769. It is statistically significant at ( α≤0, 09). Thus, the null hypothesis which stated that there is no statistically significant difference at ( α≤0, 09) in the mean scores of grammar between the two groups was rejected."
 

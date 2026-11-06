@@ -9,6 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2011
+source_checked: 2026-11-06
 sources:
   - id: berhenke-2011
     resource: "https://doi.org/10.1016/j.ecresq.2011.04.001"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Expressions of anxiety predicted lower work-related and self-regulation skills. [→ Berhenke 2011](#berhenke-2011)
@@ -37,7 +38,7 @@ Berhenke, Amanda; Miller, Alison L.; Brown, Eleanor; Seifer, Ronald; Dickstein, 
 
 `q3 · i?` · `associational · r2`
 
-Hierarchical regression of observed emotion expressions on teacher-rated learning-related behaviors in 131 kindergarteners; the article reports "Expressions of anxiety predicted lower work-related and self-regulation skills."
+Hierarchical regression of observed emotion expressions on teacher-rated learning-related behaviors. The study sample was 131 kindergarteners, but the regressions use teacher ratings and so fewer children: F(7, 107) for work-related skills and F(7, 108) for self-regulation, about 115 to 116 children each. Anxiety's final β was −.18 for work-related skills and −.20 for self-regulation (both p < .05). The article reports "Expressions of anxiety predicted lower work-related and self-regulation skills."
 
 > "Expressions of anxiety predicted lower work-related and self-regulation skills."
 

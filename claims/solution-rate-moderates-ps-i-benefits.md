@@ -9,6 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-05
 sources:
   - id: katharina-loibl-timo-leuders-inga-glogger-frey-nikol-rummel-2025
     resource: "https://doi.org/10.1007/s11251-024-09665-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Across studies cited by the article, low solution rates in the initial problem-solving phase co-occur with studies that do not find beneficial PS-I effects and high solution rates with studies that do. [→ Katharina Loibl · Timo Leuders · Inga Glogger-Frey · Nikol Rummel 2025](#katharina-loibl-timo-leuders-inga-glogger-frey-nikol-rummel-2025)

@@ -37,7 +37,7 @@ Hautz Wolf E., Marcin Thimo, Schauber Stefan K., Walter Robin, Hautz Stefanie C.
 
 `q3 · i?` · `associational · r2`
 
-A six-month retention study of 141 medical students without prior ultrasound skills, assessed by OSCE at two time points. The discussion reports that "self-reported confidence decreased in some proportion to their skill decline over the follow-up period," indicating improved self-monitoring accuracy at delayed retest.
+A six-month retention study of 141 medical students with little prior ultrasound training (students with more than 5 hours were excluded; 68, or 48%, had none and 73, or 51%, had 1–5 hours), assessed by OSCE at two time points. The discussion reports that "self-reported confidence decreased in some proportion to their skill decline over the follow-up period," indicating improved self-monitoring accuracy at delayed retest.
 
 > "in the majority of students, self-reported confidence decreased in some proportion to their skill decline over the follow-up period, suggesting an improved self-monitoring accuracy at the delayed retest six months after the first assessment."
 

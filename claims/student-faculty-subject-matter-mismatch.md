@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Student subject matter orientation differs significantly from faculty perceptions of departmental characteristics
-description: Student subject matter orientation differs significantly from faculty perceptions of departmental characteristics
+title: Students were generally softer, more applied, more life- and more creatively oriented than faculty described their departments, with many but not all differences significant
+description: Students were generally softer, more applied, more life- and more creatively oriented than faculty described their departments, with many but not all differences significant
 id: student-faculty-subject-matter-mismatch
 status: review
 generated:
@@ -12,15 +12,15 @@ newest_evidence: 1979
 sources:
   - id: bue-1979
     resource: "https://eric.ed.gov/?id=ED172635"
-    title: "Bue, T. W. (1979). Teaching and Learning Styles in Higher Education: Match or Mismatch? https://eric.ed.gov/?id=ED172635"
-    author: Bue, T. W.
+    title: "Blue, T. W. (1979). Teaching and Learning Styles in Higher Education: Match or Mismatch? https://eric.ed.gov/?id=ED172635"
+    author: Blue, T. W.
     q: 2
     i: "?"
     kind: associational
     rigour: 1
 ---
 
-# Student subject matter orientation differs significantly from faculty perceptions of departmental characteristics
+# Students were generally softer, more applied, more life- and more creatively oriented than faculty described their departments, with many but not all differences significant
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
@@ -28,17 +28,17 @@ sources:
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
-`q2 i?` Students are consistently softer, more applied, more life, and more creatively oriented than faculty describe programs in their departments to be, with significant t-test differences especially in natural science departments. [→ Bue 1979](#bue-1979)
+`q2 i?` Students were "fairly consistently" softer, more applied, more life, and more creatively oriented than faculty describe programs in their departments to be; the t-test differences were significant for many but not all department-by-dimension comparisons, most of them in natural science departments. [→ Bue 1979](#bue-1979)
 
 ## Evidence
 
 ### Bue 1979
 
-Bue, T. W. (1979). Teaching and Learning Styles in Higher Education: Match or Mismatch? https://eric.ed.gov/?id=ED172635
+Blue, T. W. (1979). Teaching and Learning Styles in Higher Education: Match or Mismatch? https://eric.ed.gov/?id=ED172635
 
 `q2 · i? · the article prints no effect size for this finding` · `associational · r1`
 
-Comparison of faculty department ratings with student subject matter orientation scores (Tables 15-16) shows significant t-test differences, with most significant differences for departments in Division III (natural sciences). Student scores follow faculty patterns but with smaller range and less discrimination.
+Comparison of faculty department ratings with student subject matter orientation scores (Tables 15-16) shows significant t-test differences for many, but not all, department-by-dimension comparisons, with most significant differences for departments in Division III (natural sciences). Student scores follow faculty patterns but with smaller range and less discrimination.
 
 > "students fairly consistently are "softer" and, more "applied," "life," and "creatively" oriented than faculty describe programs in these departments to be."
 

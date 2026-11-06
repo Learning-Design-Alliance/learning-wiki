@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: ates-2026
     resource: "https://doi.org/10.1186/s41239-026-00614-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q4` · `i1` small
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Ates 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
@@ -38,7 +39,7 @@ Ates, H. (2026). Human-centered GenAI feedback design in higher education: a mul
 
 `q4 · i1` · `causal · r3`
 
-Multisite cluster-randomized longitudinal field experiment with 1,176 first-year students in 48 course sections across four universities; mixed-effects model, F(3, 43.8) = 18.76, p < .001. Table 3 prints small Cohen's d effect sizes: d = 0.25 for Direct GenAI vs Peer, d = 0.29 for Reflective vs Direct GenAI, and d = 0.40 for Hybrid vs Direct GenAI.
+Multisite cluster-randomized longitudinal field experiment with 1,176 first-year students in 48 course sections across four universities; mixed-effects model, F(3, 43.8) = 18.76, p < .001. Table 4 (Panel B, pairwise contrasts, Holm-adjusted) prints Cohen's d effect sizes: d = 0.25 for Direct GenAI vs Peer (p = .002), d = 0.29 for Reflective vs Direct GenAI (p < .001), and d = 0.40 for Hybrid vs Direct GenAI (p < .001); Hybrid vs Reflective was d = 0.11, p = .138.
 
 > "direct GenAI-supported feedback outperformed peer feedback, and both reflective and hybrid feedback outperformed direct GenAI-supported feedback. The hybrid condition yielded the highest adjusted mean, but the hybrid–reflective contrast was not statistically significant."
 

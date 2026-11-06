@@ -9,6 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: dammert-2026
     resource: "https://doi.org/10.1007/s11251-026-09809-z"
@@ -32,12 +33,12 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 > **Design limits** · Dammert 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 `q2 i?` The frequency of elaborated explanations was 93% higher among intervention-group students, with very strong Bayesian support (ER = 230; hurdle ER = 5999). [→ Dammert 2026](#dammert-2026)
-`q2 i?` Cumulative talk occurred 58% more often and exploratory talk 63% more often in the intervention group at posttest, with very strong support (ER = 137) and strong evidence (ER = 166) respectively. [→ Dammert 2026 (2)](#dammert-2026-2)
+`q2 i?` Among groups that engaged in each kind of talk (the gamma part of hurdle-gamma models), cumulative talk occurred 58% more often and exploratory talk 63% more often in the intervention group at posttest, with very strong support (ER = 137) and strong evidence (ER = 166) respectively. [→ Dammert 2026 (2)](#dammert-2026-2)
 
 ## Evidence
 
@@ -57,7 +58,7 @@ Dammert, Y., Gasser, L., & Murphy, P. K. (2026). Effects of a literary intervent
 
 `q2 · i?` · `causal · r2`
 
-Bayesian hurdle-gamma models of group-level talk. Exploratory talk showed the parallel pattern: students in the IG produced 63% more exploratory talk (ER = 166), and the likelihood of none occurring was 80% lower (ER = 67).
+Bayesian hurdle-gamma models of group-level talk. Exploratory talk showed the parallel pattern: students in the IG produced 63% more exploratory talk (ER = 166) in the gamma component, that is, among groups that produced some exploratory talk, and in the separate hurdle component the likelihood of none occurring at all was 80% lower (ER = 67).
 
 > "at posttest, cumulative talk occurred 58% more often in the IG than in the CG among those who engaged in it (gamma part); notably, there was very strong Bayesian support for this difference (ER = 137)."
 

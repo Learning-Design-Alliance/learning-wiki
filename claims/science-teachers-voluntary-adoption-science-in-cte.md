@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "80% of partnered science teachers voluntarily incorporated Science-in-CTE methods or examples into their science classes"
-description: "80% of partnered science teachers voluntarily incorporated Science-in-CTE methods or examples into their science classes"
+title: "Eight of the 10 responding partnered science teachers (80%) voluntarily incorporated Science-in-CTE methods or examples into their science classes"
+description: "Eight of the 10 responding partnered science teachers (80%) voluntarily incorporated Science-in-CTE methods or examples into their science classes"
 id: science-teachers-voluntary-adoption-science-in-cte
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2013
+source_checked: 2026-11-06
 sources:
   - id: wendi-mizer-stachler-2013
     resource: "https://eric.ed.gov/?id=EJ1122391"
@@ -20,11 +21,11 @@ sources:
     rigour: 1
 ---
 
-# 80% of partnered science teachers voluntarily incorporated Science-in-CTE methods or examples into their science classes
+# Eight of the 10 responding partnered science teachers (80%) voluntarily incorporated Science-in-CTE methods or examples into their science classes
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Eight (80%) of the 10 responding science teachers used methods or examples from the Science-in-CTE lessons in their science classes, and all eight used specific agricultural examples from the lessons. [→ Wendi Mizer Stachler 2013](#wendi-mizer-stachler-2013)

@@ -9,6 +9,7 @@ generated:
   at: 2026-09-26
 evidence_strength: weak
 newest_evidence: 2022
+source_checked: 2026-11-06
 sources:
   - id: rosenbach-2022
     resource: "https://doi.org/10.1002/pits.22513"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` At the group level, collective frequency of immigration discussion was not associated with collectively greater perceived peer validation, hope, critical reflection, or sociopolitical efficacy after accounting for other factors. [→ Rosenbach 2022](#rosenbach-2022)
@@ -37,7 +38,7 @@ Rosenbach, S. B., Sherwood, S. H., Poteat, V. P., Yoshikawa, H., & Calzo, J. P. 
 
 `q3 · i?` · `associational · r?`
 
-Level 2 estimates from Model 1 of the multilevel SEM across 38 GSAs, testing collective discussion frequency as a predictor of residualized change in the four group-mean outcomes. All four group-level coefficients were nonsignificant as printed; no effect sizes are reported.
+Level 2 estimates from Model 1 of the multilevel SEM across 38 GSAs, testing collective discussion frequency as a predictor of residualized change in the four group-mean outcomes. All four group-level coefficients were nonsignificant as printed: 0.096 (SE 0.185, 95% CI −0.267 to 0.459) for peer validation, 0.338 (SE 0.212, −0.078 to 0.754) for hope, −0.209 (SE 0.188, −0.577 to 0.159) for critical reflection and 0.075 (SE 0.223, −0.362 to 0.512) for sociopolitical efficacy. These coefficient estimates are the study's effect estimates; the article does not label any of them a standardized effect size, so impact stays i?. Non-significance here is a failure to detect an association across 38 groups, not evidence of none.
 
 > "frequency of collective participation in discussions of immigration issues was not associated with collectively greater perceived peer validation (! = 0.096, p = 0.604), hope (! = 0.338, p = 0.111), critical reflection (! = -0.209, p = 0.266), or sociopolitical efficacy (! = 0.075, p = 0.737), after accounting for other factors"
 

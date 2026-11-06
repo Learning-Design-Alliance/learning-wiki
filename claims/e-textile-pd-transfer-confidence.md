@@ -9,6 +9,7 @@ generated:
   at: 2026-10-29
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: mustafa-sat-2026
     resource: "https://doi.org/10.1007/s11423-026-10597-z"
@@ -32,10 +33,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Participants expressed high transfer confidence: 71.0% strongly agreed they could design similar activities with wearable e-textiles and 80.6% agreed or strongly agreed they could apply what they learned at school. [→ Mustafa Sat 2026](#mustafa-sat-2026)
+`q2 i?` Participants expressed high transfer confidence: 71.0% strongly agreed they could design similar activities with wearable e-textiles and 80.6% agreed (25.8%) or strongly agreed (54.8%) on a 7-point scale that they could apply what they learned at school, with a further 12.9% slightly agreeing. [→ Mustafa Sat 2026](#mustafa-sat-2026)
 `q2 i?` The art-integration item had the lowest support and most variation, with only 32.3% strongly agreeing they could adequately transfer the art dimension to their designs. [→ Mustafa Sat 2026 (2)](#mustafa-sat-2026-2)
 
 ## Evidence
@@ -46,7 +47,7 @@ Mustafa Sat, Kursat Cagiltay. (2026). Weaving STEAM with threads: teacher profes
 
 `q2 · i?` · `design · r2`
 
-Post-program transfer survey (N = 31), means 5.68–6.71. The article reports "71.0% strongly agreed that they could design similar activities using wearable e-textile technologies" and 80.6% agreement on applying learning at school; a follow-up report described a school science fair implementation.
+Post-program transfer survey (N = 31), means 5.68–6.71. The article reports "71.0% strongly agreed that they could design similar activities using wearable e-textile technologies" and 80.6% agreeing or strongly agreeing that they could apply what they learned at school (Table 4, 7-point scale: 25.8% "Agree", 54.8% "Strongly agree", plus 12.9% "Slightly agree", so 93.5% at least slightly agreed); a follow-up report described a school science fair implementation.
 
 > "Specifically, 71.0% strongly agreed that they could design similar activities using wearable e-textile technologies."
 

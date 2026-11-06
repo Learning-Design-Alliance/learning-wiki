@@ -1,7 +1,7 @@
 ---
 type: claim
-title: No macrostructure measure differs significantly between bilingual and monolingual children, while age improves story structure, internal state terms, comprehension, and aggregate scores but not structural complexity
-description: No macrostructure measure differs significantly between bilingual and monolingual children, while age improves story structure, internal state terms, comprehension, and aggregate scores but not structural complexity
+title: No macrostructure measure differs significantly between bilingual and monolingual children, while school-age children score higher than preschoolers on story structure, internal state terms, comprehension, and aggregate scores but not structural complexity
+description: No macrostructure measure differs significantly between bilingual and monolingual children, while school-age children score higher than preschoolers on story structure, internal state terms, comprehension, and aggregate scores but not structural complexity
 id: macrostructure-stable-across-language-groups
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-09-26
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: hayes-2026
     resource: "https://doi.org/10.3389/fpsyg.2026.1747702"
@@ -20,15 +21,15 @@ sources:
     rigour: 1
 ---
 
-# No macrostructure measure differs significantly between bilingual and monolingual children, while age improves story structure, internal state terms, comprehension, and aggregate scores but not structural complexity
+# No macrostructure measure differs significantly between bilingual and monolingual children, while school-age children score higher than preschoolers on story structure, internal state terms, comprehension, and aggregate scores but not structural complexity
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Language group showed no significant effect on SS, SC, IST, comprehension, or the aggregate score. [→ Hayes 2026](#hayes-2026)
-`q3 i?` Age group significantly affected SS, IST, comprehension, and aggregate, but SC showed no significant effects. [→ Hayes 2026](#hayes-2026)
+`q3 i?` SS, IST, comprehension, and aggregate scores differed significantly between the preschool and school-age groups (a cross-sectional age-group difference, not measured change with age), but SC showed no significant differences. [→ Hayes 2026](#hayes-2026)
 
 ## Evidence
 

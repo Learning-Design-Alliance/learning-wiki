@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 review `r2` · `q3` · n=75 (37 segmented, 38 continuous)
-> **Currency** · newest study 2011 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 The benefit of segmenting continuous instructional material (e.g., pausing animation or breaking narration into segments) is largest for novices and diminishes as learner expertise increases. In the one experiment recorded here the benefit was in learning efficiency (performance relative to mental effort), and it disappeared at higher prior knowledge rather than reversing.
 <!-- deprecated (2026-10-14, "or reverses" is not shown by the recorded study): The learning benefit of segmenting continuous instructional material (e.g., pausing animation or breaking narration into learner-paced segments) is largest for novices and diminishes — or reverses — as learner expertise increases. -->

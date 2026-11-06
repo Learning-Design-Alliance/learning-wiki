@@ -9,6 +9,7 @@ generated:
   at: 2026-10-08
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 recheck_by: 2029
 sources:
   - id: zhen-xu-2026
@@ -33,11 +34,11 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Curricular CoT improves prediction accuracy over the zero-shot baseline across all granularity levels, more apparently in GPT-4o and Llama3-70B. [→ Zhen Xu 2026](#zhen-xu-2026)
-`q2 i?` The definition-based (DEF) strategy does not improve performance and can even reduce accuracy. [→ Zhen Xu 2026 (2)](#zhen-xu-2026-2)
+`q2 i?` The authors conclude the definition-based (DEF) strategy "does not improve performance and can even reduce accuracy"; their tables show it mixed, slightly higher than the zero-shot baseline in a few model-granularity cells, unchanged in some and lower in others. [→ Zhen Xu 2026 (2)](#zhen-xu-2026-2)
 
 ## Evidence
 
@@ -57,7 +58,7 @@ Zhen Xu, Xin Guan, Chenxi Shi, Qinhao Chen, Renzhe Yu. (2026). Evaluating 21st-C
 
 `q2 · i?` · `causal · r2`
 
-Same prompting-strategy comparison: providing competency definitions from human annotator notes failed to help and in some cells lowered accuracy relative to the zero-shot baseline.
+Same prompting-strategy comparison: providing competency definitions from human annotator notes gave mixed results against the zero-shot baseline. It was slightly higher in a few cells (e.g. GPT-4o 5-class 0.337 vs 0.334; Llama3-8B 4- and 3-class 0.455 vs 0.442; Llama3-70B 5-class 0.337 vs 0.334), unchanged in others and lower in others, which the authors summarise as no improvement.
 
 > "In contrast, the definition-based (DEF) strategy, which provides the model with human-annotated notes for each competency, does not improve performance and can even reduce accuracy."
 

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: beres-adam-2026
     resource: "https://doi.org/10.1186/s12909-026-09600-1"
@@ -40,11 +41,11 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r1` · `q3`
-> **Currency** · newest study 2026 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Second-year students significantly increased confidence in cardiac anatomy, general ultrasound, cardiac ultrasound, and TEE. [→ Beres Adam 2026](#beres-adam-2026)
-`q3 i?` Fourth-year students reported even greater significant rises in confidence for each category than second-year students. [→ Beres Adam 2026 (2)](#beres-adam-2026-2)
+`q3 i?` Fourth-year students' confidence rose significantly from pre to post in every category, by larger percentages than second-year students'; the comparison between year groups is descriptive and was not tested. [→ Beres Adam 2026 (2)](#beres-adam-2026-2)
 `q3 i?` First-year students showed significant confidence increases across all categories, with the greatest growth in TEE. [→ Beres Adam 2026 (3)](#beres-adam-2026-3)
 
 ## Evidence
@@ -65,7 +66,7 @@ Beres Adam, Ramagiri Lahari, Zhou Jonathan, Prats Michael I, Bahner David. (2026
 
 `q3 · i?` · `causal · r1`
 
-Phase 1 paired t-test analysis of 7 fourth-year students' confidence surveys. All four categories showed significant increases, with the largest relative gain in TEE confidence (446%, p < 0.0001).
+Phase 1 paired t-test analysis of 7 fourth-year students' confidence surveys. All four categories showed significant within-group increases, with the largest relative gain in TEE confidence (446%, p < 0.0001). The percentage increases were larger than the second-year students' in all four categories, but the year groups were not compared statistically.
 
 > "Fourth-year students reported even greater significant rises in confidence for each category, including a 37.7% increase in cardiac anatomy from 6.1/10 (SD = 1.46) to 8.4/10 (SD = 0.53), a 40.8% increase in general ultrasound from 4.9/10 (SD = 1.57) to 6.9/10 (SD = 0.69), a 65.0% increase in cardiac ultrasound from 4.0/10 (SD = 0.82) to 6.6/10 (SD = 1.51), and a 446% increase in TEE from 1.3/10 (SD = 0.49) to 7.1/10 (SD = 1.21)."
 

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: AI simulation improves Mini-CEX medical interviewing skills and organization/efficiency but not professionalism, clinical judgment, counseling, or overall competence
-description: AI simulation improves Mini-CEX medical interviewing skills and organization/efficiency but not professionalism, clinical judgment, counseling, or overall competence
+title: AI simulated-patient practice improved Mini-CEX medical interviewing and organization/efficiency scores, with no significant difference detected in professionalism, clinical judgment, counseling, or overall competence
+description: AI simulated-patient practice improved Mini-CEX medical interviewing and organization/efficiency scores, with no significant difference detected in professionalism, clinical judgment, counseling, or overall competence
 id: ai-simulated-patient-minicex-domains-gynecology
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: gao-lingling-2026
     resource: "https://doi.org/10.1186/s12909-026-09219-2"
@@ -28,15 +29,15 @@ sources:
     rigour: 2
 ---
 
-# AI simulation improves Mini-CEX medical interviewing skills and organization/efficiency but not professionalism, clinical judgment, counseling, or overall competence
+# AI simulated-patient practice improved Mini-CEX medical interviewing and organization/efficiency scores, with no significant difference detected in professionalism, clinical judgment, counseling, or overall competence
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i2` AI-group students scored higher on medical interviewing skills (7.70 vs 7.25, d = 0.69) and organization/efficiency (7.60 vs 7.10, d = 0.88). [→ Gao Lingling 2026](#gao-lingling-2026)
-`q3 i?` No statistically significant differences were observed in professionalism, clinical judgment, counseling skills, or overall clinical competence. [→ Gao Lingling 2026 (2)](#gao-lingling-2026-2)
+`q3 i?` No statistically significant differences were observed in professionalism, clinical judgment, counseling skills, or overall clinical competence; this does not show the AI practice had no effect on them, and the study notes it may have been underpowered to detect differences. [→ Gao Lingling 2026 (2)](#gao-lingling-2026-2)
 
 ## Evidence
 

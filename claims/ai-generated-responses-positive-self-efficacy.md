@@ -1,7 +1,7 @@
 ---
 type: claim
-title: AI-generated responses positively influenced the self-efficacy of secondary students in solving mathematics problems
-description: AI-generated responses positively influenced the self-efficacy of secondary students in solving mathematics problems
+title: Secondary students mildly agreed (mean 2.61 of 4) that AI-generated responses supported their self-efficacy in solving quadratic equations, with no group comparison tested
+description: Secondary students mildly agreed (mean 2.61 of 4) that AI-generated responses supported their self-efficacy in solving quadratic equations, with no group comparison tested
 id: ai-generated-responses-positive-self-efficacy
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: oladayo-2026
     resource: "https://doi.org/10.70232/jrmste.v3i4.72"
@@ -20,15 +21,15 @@ sources:
     rigour: 1
 ---
 
-# AI-generated responses positively influenced the self-efficacy of secondary students in solving mathematics problems
+# Secondary students mildly agreed (mean 2.61 of 4) that AI-generated responses supported their self-efficacy in solving quadratic equations, with no group comparison tested
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Oladayo 2026: groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
-`q2 i?` AI-generated responses positively influenced students' self-efficacy in solving mathematics problems. [→ Oladayo 2026](#oladayo-2026)
+`q2 i?` On a five-item questionnaire given to all 115 students in a quadratic-equations quasi-experiment, students agreed on average (grand mean 2.61 on a 4-point scale, criterion 2.50) that AI-generated responses supported their self-efficacy; no self-efficacy comparison between the AI and conventional groups, and no pre-post test, is reported. [→ Oladayo 2026](#oladayo-2026)
 
 ## Evidence
 
@@ -38,7 +39,7 @@ Oladayo, C. E., & Diri, E. A. (2026). Assessing the Influence of AI-Generated Re
 
 `q2 · i?` · `causal · r1`
 
-In the same quasi-experiment, self-efficacy was measured with the SQEIAIGRASQ questionnaire alongside the achievement test. The article reports that "AI-generated responses positively influenced the self-efficacy of students"; no effect size or test statistic is printed.
+In the same quasi-experiment, self-efficacy was measured with the SQEIAIGRASQ questionnaire alongside the achievement test. The article reports that "AI-generated responses positively influenced the self-efficacy of students", but its evidence is descriptive: Table 5 gives item means for all 115 students (four items agreed with, 2.55 to 2.74; "AI-generated response discourages and misleads me" disagreed with, 2.36; grand mean 2.61 against a 2.50 criterion). No comparison of self-efficacy between the AI and conventional-instruction groups, no pre-post change and no inferential test of the treatment is reported (the only self-efficacy test is a male-female comparison, t(60) = 0.08, p = .94), so the study does not show that AI-generated responses changed self-efficacy. The topic was quadratic equations only.
 
 > "Furthermore, AI-generated responses positively influenced the self-efficacy of students in solving mathematics problems."
 

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Early failure in phonetic recoding and decoding widens the acquisition gap between false beginners and successful learners over time
-description: Early failure in phonetic recoding and decoding widens the acquisition gap between false beginners and successful learners over time
+title: Japanese young-adult EFL false beginners struggle mainly with phonetic recoding and decoding; from a one-time comparison, the author infers that this early failure widens their gap with successful learners
+description: Japanese young-adult EFL false beginners struggle mainly with phonetic recoding and decoding; from a one-time comparison, the author infers that this early failure widens their gap with successful learners
 id: early-decoding-failure-widens-acquisition-gap
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: weak
 newest_evidence: 1997
+source_checked: 2026-11-06
 sources:
   - id: nakamura-1997
     resource: "https://eric.ed.gov/?id=ED420194"
@@ -20,15 +21,15 @@ sources:
     rigour: 1
 ---
 
-# Early failure in phonetic recoding and decoding widens the acquisition gap between false beginners and successful learners over time
+# Japanese young-adult EFL false beginners struggle mainly with phonetic recoding and decoding; from a one-time comparison, the author infers that this early failure widens their gap with successful learners
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q1`
-> **Currency** · newest study 1997 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1997 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
-`q1 i?` Unsuccessful learners make a false step at the beginning of learning in recoding and decoding phonetically, which hinders smooth passage through the interlanguage continuum and widens the gap with more successful learners as study continues. [→ Nakamura 1997](#nakamura-1997)
+`q1 i?` Comparing Japanese true beginners (ninth graders), young-adult false beginners and successful learners at one point in time, the author found false beginners' main difficulty was phonetic recoding and decoding, and concludes, as an interpretation rather than a tracked finding, that this early false step hinders their progress and widens the gap with successful learners as study continues. [→ Nakamura 1997](#nakamura-1997)
 
 ## Evidence
 
@@ -38,7 +39,7 @@ Nakamura, Tomoko. (1997). What Makes Language Learners False Beginners? Paper pr
 
 `q1 · i?` · `associational · r1`
 
-Authors' concluding interpretation (type e): even though the two young adult groups' circumstances, including learning age and learning environment, were the same, the recoding and decoding problem makes the acquisition gap wider as learners continue studying.
+Cross-sectional comparison of three groups of Japanese EFL learners (ninth-grade true beginners, and false beginners and successful learners from a technical college) tested once on read-aloud tasks, with a STEP 3 written test for the two beginner groups; nobody was followed over time. The widening gap is the author's concluding interpretation (type e), not a measured result: even though the two young adult groups' circumstances, including learning age and learning environment, were the same, the recoding and decoding problem makes the acquisition gap wider as learners continue studying.
 
 > "Unsuccessful learners make a false step from the very beginning of lanugage learning,recoding and decoding phonetically.This hinders them from passing smoothly through the interlanguage continuum;"
 

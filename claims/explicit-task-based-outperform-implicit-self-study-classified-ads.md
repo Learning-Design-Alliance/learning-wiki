@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-06
 sources:
   - id: khodabandeh-2016
     resource: "https://doi.org/10.5539/elt.v9n3p139"
@@ -32,10 +33,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2016 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Post-test Kruskal-Wallis tests showed significant between-group differences favoring explicit and task-based groups over implicit and self-study groups. [→ Khodabandeh 2016](#khodabandeh-2016)
+`q2 i?` Post-test Kruskal-Wallis tests showed significant omnibus differences among the four groups; the post-test means show fewer errors in the explicit and task-based groups, but no pairwise tests are reported. [→ Khodabandeh 2016](#khodabandeh-2016)
 `q2 i?` Wilcoxon tests showed significant within-participant differences between pre- and post-classified ads on all five error categories. [→ Khodabandeh 2016 (2)](#khodabandeh-2016-2)
 
 ## Evidence
@@ -46,7 +47,7 @@ Khodabandeh, F. (2016). Comparing the Effects of Four Instructional Treatments o
 
 `q2 · i?` · `causal · r2`
 
-Quasi-experimental pre-test/treatment/post-test study of 72 EFL juniors randomly assigned to four groups (N=18 each). Kruskal-Wallis post-test Chi-Square values were 41.1 (vocabulary), 39.5 (abbreviation), 35.3 (discourse), 16.0 (conjunctions), 19.9 (pronouns), all with p = .0, showing explicit and task-based groups outperformed implicit and self-study groups.
+Quasi-experimental pre-test/treatment/post-test study of 72 EFL juniors randomly assigned to four groups (N=18 each). Kruskal-Wallis post-test Chi-Square values were 41.1 (vocabulary), 39.5 (abbreviation), 35.3 (discourse), 16.0 (conjunctions), 19.9 (pronouns), all with p = .0. These are omnibus tests across the four groups; the explicit and task-based groups' lower post-test error means, and the author's interpretation, give the direction, but no pairwise comparisons are reported, so the article does not show that each of those groups significantly outperformed each of the other two.
 
 > "The p-value for the use of lexical and discourse features in the post-classified ad was .0 which was less than the significance level set for the study (0.05), consequently, the groups were different."
 

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2011
+source_checked: 2026-11-06
 sources:
   - id: mettler-et-al-2011
     resource: "https://eric.ed.gov/?id=ED549436"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
-> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2011 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Students beginning with at most 80% pretest accuracy gained 69% in accuracy and 34% in fluency, with Cohen's d of 2.0 (accuracy) and 1.53 (RT). [→ Mettler et al. 2011](#mettler-et-al-2011)
@@ -37,7 +38,7 @@ Everett Mettler, Christine M. Massey, Philip J. Kellman. (2011). Improving Adapt
 
 `q2 · i3` · `causal · r2`
 
-Deployment study: 72 third graders in an online Pennsylvania school used the web-delivered ARTS module across sessions; the primary analysis covered the n=28 students with pretest accuracy of 80% or less (mean pretest accuracy 49%). The article reports Cohen's d of 2.0 for accuracy and 1.53 for RT.
+Deployment study: 72 third graders in an online Pennsylvania school took part in one of two conditions; 41 in the treatment group used the web-delivered ARTS module across sessions until every item was retired (on average 123.5 minutes), while 31 in a control group received standard math lessons. The primary analysis covered the n=28 ARTS students with pretest accuracy of 80% or less (mean pretest accuracy 49%), and its Cohen's d of 2.0 for accuracy and 1.53 for RT are pretest-to-posttest gains within that group. The online school's researchers also compared the 41 treatment students with the 31 controls (matched on prior standardized test performance, not excluding students near ceiling) and report treatment-vs-control effect sizes of .49 for accuracy and 1.29 for fluency, p < .01.
 
 > "Posttest scores averaged 83% accuracy and 8.3 sec per problem, gains of 69% for accuracy and 34% in fluency. Pretest to post-test gains were highly reliable for accuracy, t(27) = 10.43, p < .001, and RT, t(27) = 5.29, p < .001. Effect sizes (Cohen's d) were 2.0 (accuracy) and 1.53 (RT)."
 

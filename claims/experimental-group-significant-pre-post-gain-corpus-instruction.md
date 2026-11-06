@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-06
 sources:
   - id: uçar-2015
     resource: "https://eric.ed.gov/?id=EJ1057374"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A paired-samples t-test found a statistically significant pretest-to-posttest improvement in the experimental group taught with corpus-based concordancing activities (t(14)=-4.481, p<.005), with means rising from 31.87 to 65.93. [→ Uçar 2015](#ucar-2015)
@@ -39,7 +40,7 @@ Uçar, S., & Yükselir, C. (2015). The Effect of Corpus-based Activities on Verb
 
 Paired-samples t-test within the 15-student experimental group receiving corpus-based instruction using COCA concordance lines. Scores rose from pretest M=31.87 (SD=13.352) to posttest M=65.93 (SD=20.126), a statistically significant gain (t(14)=-4.481, p<.005).
 
-> "the findings ind icated that there is a statistically significant difference between pre-test (M= 31.87, SD= 65.93) and post-test ( M=65.93, SD=20.126) scores of experimental group with regard to collocation test scores. ( t (14)= -4.481, p<.005)"
+> "the findings ind icated that there is a statistically significant difference between pre-test (M= 31.87, SD= 65.93 [sic: the article's Table 2 gives the pretest SD as 13.352]) and post-test ( M=65.93, SD=20.126) scores of experimental group with regard to collocation test scores. ( t (14)= -4.481, p<.005)"
 
 ## Discussion
 

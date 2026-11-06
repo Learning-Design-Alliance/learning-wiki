@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 277 claims (184 show a difference, 53 mixed, 40 no difference) · 174 studies (63 associational, 60 causal, 26 review, 10 quant-synthesis, 6 qualitative, 6 theoretical, 3 design), `q1`–`q4` · 37 of 174 report an effect size · 269 claims rest on one study
+> **Evidence** · 277 claims (183 show a difference, 54 mixed, 40 no difference) · 174 studies (63 associational, 60 causal, 26 review, 10 quant-synthesis, 6 qualitative, 6 theoretical, 3 design), `q1`–`q4` · 37 of 174 report an effect size · 269 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -278,7 +278,7 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Most nursing students report mild to moderate anxiety before an OSCE, with severe anxiety reported by a minority](../claims/mild-moderate-anxiety-majority-before-osce.md) [+M] — measured as an outcome of the instruction studied
 - [Self-efficacy was most strongly associated with monitoring strategy use, while learning anxiety was most strongly inversely associated with planning.](../claims/dimension-specific-psychological-correlates-metacognition.md) [+M] — learners who differ on it differ in outcomes
 - [Trait anxiety shows a similar sociodemographic pattern to state anxiety before the OSCE](../claims/trait-anxiety-similar-pattern-state-anxiety.md) [+M] — measured as an outcome of the instruction studied
-- [Test anxiety rose significantly from pre- to post-exam under bell-pacing but not under self-pacing in gross anatomy laboratory examinations, though the pacing-by-timepoint interaction was marginally non-significant.](../claims/bell-pacing-exacerbates-reactive-test-anxiety.md) [+S] — measured as an outcome of the instruction studied
+- [Test anxiety rose significantly from pre- to post-exam under bell-pacing but not under self-pacing in gross anatomy laboratory examinations, though the pacing-by-timepoint interaction was marginally non-significant.](../claims/bell-pacing-exacerbates-reactive-test-anxiety.md) [~W] — measured as an outcome of the instruction studied
 - [Maths anxiety negatively predicts only maths-related grades (Algebra and Geometry) among high-achieving adolescents](../claims/maths-anxiety-negatively-predicts-algebra-geometry-only.md) [~W] — learners who differ on it differ in outcomes
 - [Negative maths-anxiety–performance links persist in STEM-selected high achievers](../claims/maths-anxiety-negative-link-in-stem-selected-sample.md) [~W] — learners who differ on it differ in outcomes
 - [Spatial anxiety negatively predicts performance in maths, science and language grades; state anxiety predicts some grades](../claims/spatial-and-state-anxiety-negative-grade-associations.md) [~M] — learners who differ on it differ in outcomes

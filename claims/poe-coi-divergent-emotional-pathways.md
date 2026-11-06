@@ -1,7 +1,7 @@
 ---
 type: claim
-title: In an exam-oriented Chinese EFL context, POE predicts enjoyment and reduced boredom while COI predicts boredom and shows no enjoyment association
-description: In an exam-oriented Chinese EFL context, POE predicts enjoyment and reduced boredom while COI predicts boredom and shows no enjoyment association
+title: In an exam-oriented Chinese EFL sample, POE was associated with more enjoyment and less boredom, while COI was associated with more boredom and had no significant adjusted path to enjoyment
+description: In an exam-oriented Chinese EFL sample, POE was associated with more enjoyment and less boredom, while COI was associated with more boredom and had no significant adjusted path to enjoyment
 id: poe-coi-divergent-emotional-pathways
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: weng-tsung-han-and-peng-jinchang-2026
     resource: "https://doi.org/10.1186/s40359-026-04312-z"
@@ -28,15 +29,15 @@ sources:
     rigour: 2
 ---
 
-# In an exam-oriented Chinese EFL context, POE predicts enjoyment and reduced boredom while COI predicts boredom and shows no enjoyment association
+# In an exam-oriented Chinese EFL sample, POE was associated with more enjoyment and less boredom, while COI was associated with more boredom and had no significant adjusted path to enjoyment
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3` · `i3` large
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the SEM path model, POE was strongly positively associated with FLE and negatively with FLB, whereas COI was non-significantly related to FLE and positively related to FLB. [→ Weng Tsung-han and Peng Jinchang 2026](#weng-tsung-han-and-peng-jinchang-2026)
-`q3 i3` Bivariate correlations showed POE strongly positively correlated with FLE (r = .716) and negatively with FLB (r = −.450), while COI correlated positively with FLB (r = .347) and negatively with FLA (r = −.155). [→ Weng Tsung-han and Peng Jinchang 2026 (2)](#weng-tsung-han-and-peng-jinchang-2026-2)
+`q3 i3` Bivariate correlations showed POE strongly positively correlated with FLE (r = .716) and negatively with FLB (r = −.450), while COI correlated positively with FLB (r = .347) and negatively with FLA (r = −.155) and with FLE (r = −.144, p < .05); COI's FLE association lost significance only in the adjusted SEM path (β = −0.028, p = .574). These are cross-sectional associations, not effects. [→ Weng Tsung-han and Peng Jinchang 2026 (2)](#weng-tsung-han-and-peng-jinchang-2026-2)
 
 ## Evidence
 
@@ -56,7 +57,7 @@ Weng Tsung-han and Peng Jinchang. (2026). Unpacking grit in exam-oriented educat
 
 `q3 · i3` · `associational · r2`
 
-Pearson correlation analysis of the same 310 participants. POE was "strongly positively correlated with FLE (r = .716, p < .01)"; COI correlated positively with FLB (r = .347) and negatively with FLA (r = −.155), per the article's Table 4 narrative.
+Pearson correlation analysis of the same 310 participants. POE was "strongly positively correlated with FLE (r = .716, p < .01)"; COI correlated positively with FLB (r = .347) and negatively with FLA (r = −.155), per the article's Table 4 narrative; Table 4 also gives a significant negative COI–FLE correlation (r = −.144, p < .05), which the adjusted SEM path does not reproduce (β = −0.028, p = .574). The design is cross-sectional, so these are associations.
 
 > "POE was significantly and positively correlated with FLA (r = .214, p < .01), strongly positively correlated with FLE (r = .716, p < .01), and significantly negatively correlated with FLB (r = −.450, p < .01)."
 

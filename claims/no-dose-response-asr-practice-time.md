@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r2`, 1 quant-synthesis `r2` · `q2`–`q3` · `i2` medium · n=15 studies (38 effect sizes)
-> **Currency** · newest study 2024 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Self-reported practice frequency and session length were not associated with observable improvement in pronunciation. [→ Dillon 2023](#dillon-2023)

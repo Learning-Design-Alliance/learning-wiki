@@ -9,6 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: weak
 newest_evidence: 1993
+source_checked: 2026-11-06
 sources:
   - id: hulsebosch-1993
     resource: "https://eric.ed.gov/?id=ED403553"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q1`
-> **Currency** · newest study 1993 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1993 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Developing instructional programs that incorporate students' life experiences, language, and skills improves students' academic performance -->
 
 ## Subclaims
@@ -39,7 +40,7 @@ Hulsebosch, Pat; Koerner, Mari. (1993). What Does Cultural Identity Have To Do w
 
 `q1 · case studies; the claim is an assertion in the conclusion resting on cited literature` · `i?` · `qualitative · r1`
 
-The paper's conclusion asserts, citing Delpit and Cazden & Mehan, that "incorporate the life experiences, language, and skills" of students improves academic performance. No empirical data are reported in this paper; the assertion rests on cited literature.
+The paper's conclusion asserts, citing Delpit and Cazden & Mehan, that "incorporate the life experiences, language, and skills" of students improves academic performance. The paper presents qualitative case-study material (life histories and accounts from six teachers) but reports no data measuring students' academic performance or showing that such instruction improved it; the assertion rests on cited literature.
 
 > "Developing instructional programs that incorporate the life experiences, language, and skills that students bring with them into the classroom improves students' academic performance"
 

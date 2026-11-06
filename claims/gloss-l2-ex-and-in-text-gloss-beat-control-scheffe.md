@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: moderate
 newest_evidence: 2009
+source_checked: 2026-11-06
 sources:
   - id: cheng-2009
     resource: "https://doi.org/10.64152/10125/66828"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2009 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Scheffé post-hoc tests showed significant differences favoring L1-gloss-L2-ex and L1-in-text-gloss over no-gloss on VocTests 1, 2, and 3, but no significant differences for L1-MG-gloss or the control. [→ Cheng 2009](#cheng-2009)
@@ -37,7 +38,7 @@ Cheng, Y.-H., & Good, R. L. (2009). L1 glosses: Effects on EFL learners’ readi
 
 `q3 · i?` · `causal · r2`
 
-Scheffé post-hoc multiple comparisons on the three delayed-design vocabulary tests: e.g., VocTest 1 L1-gloss-L2-ex (M = 9.94) vs no-gloss (M = 5.48), p = .001; L1-in-text-gloss (M = 9.58) vs no-gloss, p = .002; L1-MG-gloss comparisons were not significant.
+Scheffé post-hoc multiple comparisons on the three vocabulary tests (VocTest 1 the immediate recall test, VocTests 2 and 3 the delayed tests): e.g., VocTest 1 L1-gloss-L2-ex (M = 9.94) vs no-gloss (M = 5.48), p = .001; L1-in-text-gloss (M = 9.58) vs no-gloss, p = .002; L1-MG-gloss comparisons were not significant.
 
 > "significant differences were found in both the L1-gloss-L2-example and the L1-in-text-gloss conditions, but not in the L1-MG-gloss and the no-gloss conditions on VocTests 1, 2, and 3"
 

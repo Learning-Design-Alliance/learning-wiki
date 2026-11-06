@@ -9,6 +9,7 @@ generated:
   at: 2026-11-06
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-06
 sources:
   - id: fitzgerald-j-2025
     resource: "https://doi.org/10.1111/ajag.70078"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Clinicians' self-efficacy scores improved significantly from preintervention to one-week postintervention and increased again from postintervention to follow-up. [→ FitzGerald J 2025](#fitzgerald-j-2025)
@@ -37,7 +38,7 @@ FitzGerald J, Regan B, Wells Y, Bhar S, Browne W. (2025). Improving clinicians' 
 
 `q2 · i?` · `causal · r1`
 
-A quasi-experimental before-after study in which 30 clinicians from two CDAMS memory clinics completed a 20-item self-efficacy measure at T1, T2 and T3, analysed with the Friedman test and Wilcoxon post hoc tests. The article reports that scores "improved significantly" with T1 to T2 Wilcoxon z = 3.1, p = 0.002 and T2 to T3 Wilcoxon z = 2.7, p = 0.007; no effect size is printed.
+A quasi-experimental before-after study in which 30 clinicians from two CDAMS memory clinics took part and a 20-item self-efficacy measure was administered at T1, T2 and T3; not all participants completed it at all three time points, and missing T2 and T3 scores were replaced with the person's score at the previous time point. Scores were analysed with the Friedman test and Wilcoxon post hoc tests. The article reports that scores "improved significantly" with T1 to T2 Wilcoxon z = 3.1, p = 0.002 and T2 to T3 Wilcoxon z = 2.7, p = 0.007; no effect size is printed.
 
 > "Scores improved significantly from preintervention (T1 Mean 7.1, SD = 1.0) to postintervention (T2 Mean 8.0, SD = 0. 7, T1 to T2 Wilcoxon z = 3.1, p = 0.002) and increased again from T2 to follow up 3 months later (T3 Mean 8.2, SD = 0.7, T2 to T3 Wilcoxon z = 2.7, p = 0.007)."
 

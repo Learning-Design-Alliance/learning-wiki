@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Boundary conditions: explicit relation-focused instructions and no access to products during judgment are needed for mapping and drawing to improve monitoring accuracy"
-description: "Boundary conditions: explicit relation-focused instructions and no access to products during judgment are needed for mapping and drawing to improve monitoring accuracy"
+title: "A review of relative monitoring accuracy concludes that concept mapping and drawing seem to need relation-focused instructions, and that accuracy benefited only when students lacked access to their products during judgment, so retrieval might be necessary"
+description: "A review of relative monitoring accuracy concludes that concept mapping and drawing seem to need relation-focused instructions, and that accuracy benefited only when students lacked access to their products during judgment, so retrieval might be necessary"
 id: mapping-drawing-boundary-conditions-instructions-and-retrieval
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-11-06
 sources:
   - id: janneke-van-de-pol-2020
     resource: "https://doi.org/10.1007/s10648-020-09560-y"
@@ -28,15 +29,15 @@ sources:
     rigour: 2
 ---
 
-# Boundary conditions: explicit relation-focused instructions and no access to products during judgment are needed for mapping and drawing to improve monitoring accuracy
+# A review of relative monitoring accuracy concludes that concept mapping and drawing seem to need relation-focused instructions, and that accuracy benefited only when students lacked access to their products during judgment, so retrieval might be necessary
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r2`–`r3` · `q3`
-> **Currency** · newest study 2020 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Only when students are instructed to focus on relations in the text do their concept maps or drawings contain the diagnostic cues needed for accurate judgments; pre-structured diagrams do not require such extensive instructions. [→ Janneke van de Pol 2020](#janneke-van-de-pol-2020)
-`q3 i?` Monitoring accuracy benefited only when students did not have access to the products of their generative activities when making judgments, implying some form of retrieval is necessary. [→ Janneke van de Pol 2020 (2)](#janneke-van-de-pol-2020-2)
+`q3 i?` Monitoring accuracy benefited only when students did not have access to the products of their generative activities when making judgments, which the review takes to suggest that some form of retrieval "might be necessary". [→ Janneke van de Pol 2020 (2)](#janneke-van-de-pol-2020-2)
 
 ## Evidence
 
@@ -56,7 +57,7 @@ Janneke van de Pol, et al. (2020). Mapping and Drawing to Improve Students’ an
 
 `q3 · i?` · `review · r2`
 
-The review's conclusion across delayed-approach (e.g., Van Loon et al., 2014) and concurrent-approach (e.g., Thiede et al., 2019) studies, stating that some form of retrieval, at least when making the judgments, might be necessary for promoting monitoring accuracy.
+The review's conclusion across delayed-approach (e.g., Van Loon et al., 2014) and concurrent-approach (e.g., Thiede et al., 2019) studies, stating that some form of retrieval, at least when making the judgments, might be necessary for promoting monitoring accuracy. The review presents these as boundary conditions that "seem" to hold across the studies it synthesises on relative accuracy, not as an unconditional rule, and notes that pre-structured diagramming does not need extensive relation-focused instructions.
 
 > "Yet, only when students did not have access to the products of their generative activities when making judgments, did their monitoring accuracy benefit."
 

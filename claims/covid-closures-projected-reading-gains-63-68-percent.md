@@ -10,6 +10,7 @@ generated:
   at: 2026-10-08
 evidence_strength: weak
 newest_evidence: 2020
+source_checked: 2026-11-06
 recheck_by: 2025
 sources:
   - id: kuhfeld-2020
@@ -26,7 +27,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
+> **Currency** · newest study 2020 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2025**: baselines and conditions change
 
 ## Subclaims
 
@@ -40,9 +41,9 @@ Kuhfeld, M., Soland, J., Tarasawa, B., Johnson, A., Ruzek, E., & Liu, J. (2020).
 
 `q2 · i?` · `associational · r2`
 
-The projection analysis, based on estimates from prior literature on missing school and analyses of typical summer learning patterns, projects students return with "approximately 63-68% of the learning gains in reading relative to a typical school year." No effect size is printed.
+The projection analysis, based on estimates from prior literature on missing school and analyses of typical summer learning patterns, projects that returning students start fall 2020 with approximately 63 to 68% of the learning gains in reading relative to a typical school year. The projection is stated as a percentage of typical gains; the abstract prints no effect size.
 
-> "Under these projections, students are likely to return in fall 2020 with approximately 63-68% of the learning gains in reading relative to a typical school year"
+> "Under our projections, returning students are expected to start fall 2020 with approximately 63 to 68% of the learning gains in reading and 37 to 50% of the learning gains in mathematics relative to a typical school year."
 
 <!-- merged: a second write-up of the same study (Kuhfeld et al. 2020), folded into the entry above
 ### Megan Kuhfeld 2020

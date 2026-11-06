@@ -9,13 +9,14 @@ generated:
   at: 2026-10-18
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-11-06
 sources:
   - id: liu-2022
     resource: "https://doi.org/10.1007/s11251-021-09571-4"
     title: "Liu, C.-C., Wen, C.-T., Chang, H.-Y., Chang, M.-H., Lai, P.-H., Fan Chiang, S.-H., Yang, C.-W., & Hwang, F.-K. (2022). Augmenting the effect of virtual labs with \"teacher demonstration\" and \"student critique\" instructional designs to scaffold the development of scientific literacy. Instructional Science, 50, 303-333. https://doi.org/10.1007/s11251-021-09571-4"
     author: "Liu, C.-C., Wen, C.-T., Chang, H.-Y., Chang, M.-H., Lai, P.-H., Fan Chiang, S.-H., Yang, C.-W., & Hwang, F.-K."
     q: 2
-    i: "?"
+    i: 2
     kind: causal
     rigour: "?"
 ---
@@ -23,11 +24,11 @@ sources:
 # Critiquing problematic inquiry cases before virtual-lab inquiry augments the effect of virtual labs on middle school students' scientific literacy more than teacher demonstration
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r?` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Evidence** · 1 study · causal `r?` · `q2` · `i2` medium
+> **Currency** · newest study 2022 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Among 50 middle school students, an instructional design engaging students in critiquing experiments prior to virtual-lab inquiry augmented the effect of the virtual labs on scientific literacy compared with watching teacher demonstrations. [→ Liu 2022](#liu-2022)
+`q2 i2` Among 50 middle school students, an instructional design engaging students in critiquing experiments prior to virtual-lab inquiry augmented the effect of the virtual labs on scientific literacy compared with watching teacher demonstrations. [→ Liu 2022](#liu-2022)
 
 ## Evidence
 
@@ -35,9 +36,9 @@ sources:
 
 Liu, C.-C., Wen, C.-T., Chang, H.-Y., Chang, M.-H., Lai, P.-H., Fan Chiang, S.-H., Yang, C.-W., & Hwang, F.-K. (2022). Augmenting the effect of virtual labs with "teacher demonstration" and "student critique" instructional designs to scaffold the development of scientific literacy. Instructional Science, 50, 303-333. https://doi.org/10.1007/s11251-021-09571-4
 
-`q2 · i?` · `causal · r?`
+`q2 · i2` · `causal · r?`
 
-Comparison of two instructional approaches with 50 middle school students: a critique group that critiqued problematic inquiry cases and a teacher demonstration group before virtual-lab inquiry. The study found the effect of virtual labs "can be augmented" by the critique design; no effect size is printed in the available text.
+Comparison of two instructional approaches with 50 middle school students: a critique group that critiqued problematic inquiry cases and a teacher demonstration group before virtual-lab inquiry. The study found the effect of virtual labs "can be augmented" by the critique design. In the ANCOVA on post-test scores with pre-test as covariate (Table 4), the treatment effect on overall scientific literacy was F(1,46) = 4.20, p < .05, partial η² = .08, and on evaluating ways of exploring a question scientifically (SC-E) F(1,46) = 7.55, p < .01, partial η² = .14; the other three dimensions did not differ significantly.
 
 > "By analyzing data from 50 middle school students, this study found that the effect of applying virtual labs can be augmented by an instructional design that engages students in critiquing experiments prior to their inquiry with the virtual lab."
 

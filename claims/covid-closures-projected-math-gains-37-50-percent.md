@@ -40,9 +40,9 @@ Kuhfeld, M., Soland, J., Tarasawa, B., Johnson, A., Ruzek, E., & Liu, J. (2020).
 
 `q2 · i?` · `associational · r2`
 
-The projection analysis reports students returning "with 37-50% of the learning gains in math," a lower retained share than the 63-68% projected for reading. No effect size is printed for this projection.
+The projection analysis reports returning students starting fall 2020 with "37 to 50% of the learning gains in mathematics", a lower retained share than the 63 to 68% projected for reading. No effect size is printed for this projection.
 
-> "students are likely to return in fall 2020 with approximately 63-68% of the learning gains in reading relative to a typical school year and with 37-50% of the learning gains in math"
+> "Under our projections, returning students are expected to start fall 2020 with approximately 63 to 68% of the learning gains in reading and 37 to 50% of the learning gains in mathematics relative to a typical school year."
 
 <!-- merged: a second write-up of the same study (Kuhfeld et al. 2020), folded into the entry above
 ### Megan Kuhfeld 2020

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-06
 sources:
   - id: grant-2014
     resource: "https://doi.org/10.1080/10852352.2014.916586"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Active coping benefits severely stressed youth only when at least one supportive adult relationship and one connection to a protective setting are in place. [→ Grant 2014](#grant-2014)
+`q2 i?` As the authors summarise their earlier longitudinal research, active coping benefited severely stressed youth only when at least one supportive adult relationship and one connection to a protective setting are in place. [→ Grant 2014](#grant-2014)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Grant, K. E., Farahmand, F., Meyerson, D. A., Dubois, D. L., Tolan, P. H., Gaylo
 
 `q2 · i?` · `design · r2`
 
-A four-year longitudinal study of 225 low-income urban youth, with reports from youth, parents, and teachers on stressors, protective factors, and outcomes, found that "individually based protective strategies, such as active coping efforts, were ineffective" for the most severely stressed youth without broader supports. This finding motivated the intervention's combination of coping training with mentoring and protective setting connections.
+This is an intervention-development paper for the Cities Mentor Project, not the longitudinal study itself. It summarises the authors' earlier basic research with 225 low-income urban youth (with their parents and teachers reporting on stressors, protective factors and outcomes over four years), attributing the finding to a separate Grant et al. (2014) manuscript and not reporting that study's methods or results in detail: "individually based protective strategies, such as active coping efforts, were ineffective" for the most severely stressed youth unless broader supports were in place, while such youth "could benefit" from active coping if they also had at least one supportive adult relationship and at least one connection to a protective setting. This summarised finding motivated the intervention's combination of coping training with mentoring and protective-setting connections; the paper's own empirical work is small pilots (17 intervention and 18 control youth, then 34 and 33 students).
 
 > "One of the most striking findings to emerge from this research was that individually based protective strategies, such as active coping efforts, were ineffective for youth facing the most severe and chronic stressors unless broader supports were in place"
 

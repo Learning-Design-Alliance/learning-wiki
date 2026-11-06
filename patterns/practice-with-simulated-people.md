@@ -14,7 +14,7 @@ grain_size: unit
 # Practice with Simulated People
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 253 claims (133 for, 101 mixed, 19 against) · 139 studies (42 causal, 36 review, 19 design, 16 quant-synthesis, 15 qualitative, 7 associational, 4 theoretical), `q1`–`q4` · 27 of 139 report an effect size · 248 claims rest on one study
+> **Evidence** · 253 claims (133 for, 101 mixed, 19 against) · 139 studies (42 causal, 36 review, 19 design, 16 quant-synthesis, 15 qualitative, 7 associational, 4 theoretical), `q1`–`q4` · 26 of 139 report an effect size · 248 claims rest on one study
 
 ## Description and scope
 

@@ -29,8 +29,8 @@ sources:
     author: Alexander Scarlatos, Ryan S. Baker, and Andrew Lan
   - id: fricke-1976
     resource: "https://eric.ed.gov/?id=ED127854"
-    title: "Fricke, B. G. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854"
-    author: Fricke, B. G
+    title: "Ericksen, S. C. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854"
+    author: Ericksen, S. C.
   - id: lepore-2014
     resource: "http://www.voicethread.com"
     title: "Lepore, C. E. (2014). Influencing Students' Pronunciation and Willingness to Communicate through Interpersonal Audio Discussions. Dimension 2014. http://www.voicethread.com"
@@ -231,7 +231,7 @@ The article recommends conferences and feedback through which the student is inf
 - [Grading by contract: students propose specific work and criteria within teacher-presented options](competency-based-assessment.md)
 
 ## Key Sources
-- Fricke, B. G. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854
+- Ericksen, S. C. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854
 -->
 
 <!-- merged 2026-10-07 from principles/pair-audio-discussions-with-feedback-and-self-assessment ("Pair interpersonal audio discussion activities with instructor feedback and structured self-assessment to support pronunciation development in introductory L2 courses"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.

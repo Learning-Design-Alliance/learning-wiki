@@ -27,7 +27,7 @@ sources:
 > **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Informal SNS discussions about tool selection and professional portfolio domains are more akin to workplace design discourse than teacher-student talk, evidencing a bridge between learning and practice. [→ Gray 2014](#gray-2014)
+`q2 i?` The informal SNS discussion about selecting professional tools was more akin to workplace design discourse than teacher-student talk, and the thread on selecting a professional domain name evidenced a bridge between learning and practice. [→ Gray 2014](#gray-2014)
 
 ## Evidence
 
@@ -37,7 +37,7 @@ Gray, C. M., & Howard, C. D. (2014). Designerly talk in non-pedagogical social s
 
 `q2 · i? · the article prints no effect size for this finding` · `qualitative · r2`
 
-Qualitative analysis of the Selecting Professional Tools and Selecting a Professional Domain Name threads showed learners discussing design in ways more akin to workplace discourse. The authors suggest this may offer new avenues to access learning traditionally relegated to internship or apprentice-style instruction.
+Qualitative analysis of the Selecting Professional Tools and Selecting a Professional Domain Name threads. The authors describe the tool-selection discussion as more akin to workplace design discourse than teacher-student talk; for the domain-name thread they say only that it evidenced a bridge between learning and practice. The authors suggest this may offer new avenues to access learning traditionally relegated to internship or apprentice-style instruction.
 
 > "The learners' discussion about tool selection is more akin to workplace design discourse than it is to teacher -student talk."
 

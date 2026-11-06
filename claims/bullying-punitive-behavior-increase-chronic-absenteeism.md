@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Bullying and punitive teacher behavior increase chronic absenteeism while household work and family income reduce it
-description: Bullying and punitive teacher behavior increase chronic absenteeism while household work and family income reduce it
+title: In one Haor-region survey, bullying was associated with higher odds of chronic absenteeism and household work and family income with lower odds; the direction of the teacher-behaviour association is ambiguous
+description: In one Haor-region survey, bullying was associated with higher odds of chronic absenteeism and household work and family income with lower odds; the direction of the teacher-behaviour association is ambiguous
 id: bullying-punitive-behavior-increase-chronic-absenteeism
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: hossain-md-ismail-2026
     resource: "https://doi.org/10.1371/journal.pone.0348890"
@@ -28,14 +29,14 @@ sources:
     rigour: 2
 ---
 
-# Bullying and punitive teacher behavior increase chronic absenteeism while household work and family income reduce it
+# In one Haor-region survey, bullying was associated with higher odds of chronic absenteeism and household work and family income with lower odds; the direction of the teacher-behaviour association is ambiguous
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2` · `i2`–`i3`
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
-`q2 i3` Bullying (OR = 3.90) and punitive teacher behavior (OR = 3.15) increased odds of chronic absenteeism. [→ Hossain Md. Ismail 2026](#hossain-md-ismail-2026)
+`q2 i3` Bullying (OR = 3.90) was associated with higher odds of chronic absenteeism; the authors read the teacher-behaviour coefficient (OR = 3.15) as punitive behaviour raising the odds, but their coding (punitive = 0, supportive = 1) makes it supportive relative to punitive, so its direction is ambiguous. [→ Hossain Md. Ismail 2026](#hossain-md-ismail-2026)
 `q2 i2` Household work (OR = 0.34) and higher family income (OR = 0.26) reduced odds of chronic absenteeism. [→ Hossain Md. Ismail 2026 (2)](#hossain-md-ismail-2026-2)
 
 ## Evidence
@@ -46,7 +47,7 @@ Hossain Md. Ismail, Ahmad Iftakhar. (2026). Education in Haor areas of Banglades
 
 `q2 · i3` · `associational · r1`
 
-Logistic regression predicting chronic absenteeism (5+ consecutive missed days) in the 189-student survey: bullying "OR = 3.90, 95% CI [1.90, 7.99]"; punitive teacher behavior "OR = 3.15, 95% CI [1.33, 7.43]". Bullying was the strongest factor in the discussion.
+Logistic regression predicting chronic absenteeism (5+ consecutive missed days) in the 189-student survey: bullying "OR = 3.90, 95% CI [1.90, 7.99]"; teachers' behavior "OR = 3.15, 95% CI [1.33, 7.43]". The abstract and discussion describe the second as punitive teacher behavior increasing absenteeism, but Table 1 codes teachers' behavior "Punitive = 0, Supportive = 1", so the positive coefficient (B = 1.146) as coded represents supportive relative to punitive behavior. The article's interpretation and its coding are inconsistent, so the OR cannot be attributed to punitive behavior with confidence. Bullying was the strongest factor in the discussion. These are associations in a cross-sectional survey, not causal effects.
 
 > "In contrast, bullying (B = 1.361, p < .001, OR = 3.90, 95% CI [1.90, 7.99]) and teachers’ behavior (B = 1.146, p = .009, OR = 3.15, 95% CI [1.33, 7.43]) increased absenteeism"
 

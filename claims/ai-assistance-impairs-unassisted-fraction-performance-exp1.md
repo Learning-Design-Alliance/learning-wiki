@@ -9,6 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: grace-liu-2026
     resource: "https://doi.org/10.48550/arxiv.2604.04721"
@@ -32,12 +33,12 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1`–`i2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 > **Design limits** · Grace Liu 2026: the intervention came bundled with another change (read from the study by two models, 2026-10-25)
 
 ## Subclaims
-`q3 i2` After AI removal, the AI condition had a lower unassisted solve rate than controls (Cohen's d = -0.42). [→ Grace Liu 2026](#grace-liu-2026)
-`q3 i1` The AI condition also skipped more test problems than controls (Cohen's d = 0.25), indicating reduced persistence. [→ Grace Liu 2026 (2)](#grace-liu-2026-2)
+`q3 i2` After AI removal, the AI condition had a lower unassisted solve rate than controls (Cohen's d = -0.45). [→ Grace Liu 2026](#grace-liu-2026)
+`q3 i1` The AI condition also skipped more test problems than controls (Cohen's d = 0.27), indicating reduced persistence. [→ Grace Liu 2026 (2)](#grace-liu-2026-2)
 
 ## Evidence
 
@@ -47,9 +48,9 @@ Grace Liu, Brian Christian, Tsvetomira Dumbalska, Michiel A. Bakker, Rachit Dube
 
 `q3 · i2` · `causal · r2`
 
-Randomized controlled experiment (N=354 recruited, 307 analyzed) on Prolific; AI condition solved 12 fraction problems with a GPT-5 sidebar assistant, then 3 unassisted test problems. The AI condition's test solve rate was lower, "Cohen's d=− 0.42".
+Randomized controlled experiment (N=354 recruited; 49 excluded, 305 analyzed: 185 AI, 120 control) on Prolific; the AI condition was presented with 12 fraction learning problems with a GPT-5 sidebar assistant available (problems could be skipped), then 3 unassisted test problems. The AI condition's test solve rate was lower, "Cohen's d=− 0.45".
 
-> "Participants in the AI condition had a lower solve rate (mean 0.57, s.d. 0.41) than participants in the control condition (mean 0.73, s.d. 0.34; t(305) =− 3.64, P< 0.001; Cohen's d=− 0.42, 95% CI [−0.66,−0.19])."
+> "Participants in the AI condition had a lower solve rate (mean 0.57, s.d. 0.41) than participants in the control condition (mean 0.74, s.d. 0.34; t(303) =− 3.87, P< 0.001; Cohen's d=− 0.45, 95% CI [−0.69, −0.22])."
 
 ### Grace Liu 2026 (2)
 
@@ -57,9 +58,9 @@ Grace Liu, Brian Christian, Tsvetomira Dumbalska, Michiel A. Bakker, Rachit Dube
 
 `q3 · i1` · `causal · r2`
 
-Same RCT; skipping was a deliberate decision not to engage since there was no penalty for wrong answers. The AI condition's test skip rate was higher, "Cohen's d= 0.25".
+Same RCT; skipping was a deliberate decision not to engage since there was no penalty for wrong answers. The AI condition's test skip rate was higher, "Cohen's d= 0.27".
 
-> "Additionally, participants in the AI condition had a higher skip rate (mean 0.20, s.d. 0.36) than participants in the control condition (mean 0.11, s.d. 0.29; t(305) = 2.16, P= 0.031; Cohen's d= 0.25, 95% CI [0.02, 0.48])."
+> "Additionally, participants in the AI condition had a higher skip rate (mean 0.20, s.d. 0.36) than participants in the control condition (mean 0.11, s.d. 0.28; t(303) =2.34, P= 0.020; Cohen's d= 0.27, 95% CI [0.04, 0.51])."
 
 ## Discussion
 

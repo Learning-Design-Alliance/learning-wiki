@@ -40,7 +40,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r3` · `q3`
-> **Currency** · newest study 2024 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In an RCT of 102 health care professionals, the VSP intervention group demonstrated significantly improved posttest skills in alcohol screening and brief intervention compared to a no-training control, with moderate and small effect sizes. [→ Sten CW 2024](#sten-cw-2024)

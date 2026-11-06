@@ -21,8 +21,8 @@ sources:
     author: "National Board for Professional Teaching Standards' National Teacher Certification and a Performance-Based Assessment System"
   - id: fricke-1976
     resource: "https://eric.ed.gov/?id=ED127854"
-    title: "Fricke, B. G. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854"
-    author: Fricke, B. G
+    title: "Ericksen, S. C. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854"
+    author: Ericksen, S. C.
 ---
 
 # Competency-Based Assessment
@@ -198,7 +198,7 @@ A score on a rubric, agreement between assessors, a threshold's defensibility, l
 - Collins, J. B., Harsy, A., Hart, J., Haymaker, K. A., Hoofnagle, A. M., Kuyper Janssen, M., & O'Shaughnessy, J. (2019). Mastery-based testing in undergraduate mathematics courses. *PRIMUS, 29*(5), 441-460. [doi:10.1080/10511970.2018.1488317](https://doi.org/10.1080/10511970.2018.1488317)
 - Shearer, R. L. (2017). Adaptive learning, competency-based education, and personalization: Implications for distance education and adult learners. *Journal of Lifelong Learning Society, 13*(1), 49-71.
 - National Board for Professional Teaching Standards' National Teacher Certification and a Performance-Based Assessment System. (2000). ERIC Digest. https://eric.ed.gov/
-- Fricke, B. G. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854
+- Ericksen, S. C. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854
 
 <!-- deprecated 2026-10-02: superseded by the conditional model above. The previous body, kept verbatim.
 
@@ -414,5 +414,5 @@ Contract grading is a course-level arrangement in which the teacher presents a n
 - [Negotiate learning contracts at the start of term and allow test retakes until mastery](../strategies/negotiate-contracts-allow-retakes.md)
 
 ## Key Sources
-- Fricke, B. G. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854
+- Ericksen, S. C. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854
 -->

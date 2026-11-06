@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Redundant text in the diagram did not affect posttest accuracy or difficulty ratings
-description: Redundant text in the diagram did not affect posttest accuracy or difficulty ratings
+title: Redundant text in the diagram made no statistically significant difference to posttest accuracy or difficulty ratings
+description: Redundant text in the diagram made no statistically significant difference to posttest accuracy or difficulty ratings
 id: redundant-text-no-effect-posterior-probability-lesson
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-06
 sources:
   - id: clinton-2016
     resource: "https://doi.org/10.1080/00220973.2015.1048847"
@@ -20,14 +21,14 @@ sources:
     rigour: 2
 ---
 
-# Redundant text in the diagram did not affect posttest accuracy or difficulty ratings
+# Redundant text in the diagram made no statistically significant difference to posttest accuracy or difficulty ratings
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Performance was not affected by whether the frequency information in the diagram was also presented redundantly in the text. [→ Clinton 2016](#clinton-2016)
+`q3 i?` Performance did not differ significantly (no main effect, p = .44; no interaction with questioning, p = .52) by whether the frequency information in the diagram was also presented redundantly in the text. [→ Clinton 2016](#clinton-2016)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Clinton, V., Alibali, M. W., & Nathan, M. J. (2016). Learning About Posterior Pr
 
 `q3 · i?` · `causal · r2`
 
-Mixed-effects model comparing diagram-with-redundant-text and diagram-without-redundant-text conditions (N = 198) found no main effect and no interaction with questioning condition. Equivalence was not tested; the null is reported as detected-no-effect.
+Mixed-effects model comparing diagram-with-redundant-text and diagram-without-redundant-text conditions (N = 198) found no main effect and no interaction with questioning condition. Equivalence was not tested, so this is a non-significant difference, not evidence that redundant text has no effect.
 
 > "There was no main effect of diagram condition, Wald χ2(2, N = 198)  = .78, p = .44 and no interaction with questioning condition, Wald χ2(4, N = 198)  = 1.30, p = .52"
 

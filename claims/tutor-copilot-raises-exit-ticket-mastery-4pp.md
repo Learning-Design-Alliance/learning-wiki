@@ -57,13 +57,13 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies (5 entries) · 2 causal `r2`–`r3`, 1 review `r2` · `q2`–`q4`
-> **Currency** · newest study 2026 · 1 of 5 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 > **Design limits** · Rose E. Wang 2025 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-10-25)
 
 ## Subclaims
 
 `q4 i?` In a preregistered intent-to-treat analysis of the RCT, students working with treatment tutors were 4 p.p. more likely to pass exit tickets (62%→66%, p<0.01). [→ Rose E. Wang 2025](#rose-e-wang-2025)
-`q4 i?` Students were 2 p.p. more likely to attempt the exit ticket (p<0.1) and, conditional on attempting, 3 p.p. more likely to pass it (p<0.01). [→ Rose E. Wang 2025 (2)](#rose-e-wang-2025-2)
+`q4 i?` Conditional on attempting, students were 3 p.p. more likely to pass the exit ticket (p<0.05); they were also 2 p.p. more likely to attempt it, a result not significant after the multiple-hypothesis correction. [→ Rose E. Wang 2025 (2)](#rose-e-wang-2025-2)
 `q4 i?` In a 2SLS analysis of tutors who actually used the tool, students were 14 p.p. more likely to pass exit tickets (p<0.01). [→ Rose E. Wang 2025 (3)](#rose-e-wang-2025-3)
 
 `q3 i?` Providing human tutors with real-time LLM-generated pedagogical suggestions increased the probability of students mastering knowledge components by 4 percentage points on average, particularly for lower-performing or less-experienced tutors. [→ Kirk Vanacore 2026](#kirk-vanacore-2026)
@@ -88,9 +88,9 @@ Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky.
 
 `q4 · i?` · `causal · r3`
 
-Same ITT analysis, secondary session-level measures from Table 2. Attempting the exit ticket was marginal (p<0.1); conditional passing was significant (p<0.01). Both effects are positive (2 and 3 percentage points), but the article prints no standardized effect size for either, so the magnitude is coded `i?`.
+Same ITT analysis, secondary session-level measures from Table 1. Conditional passing was significant (p<0.05); the 2 p.p. rise in attempting the exit ticket "is not significant once we account for the multiple hypothesis correction". Both estimates are positive (3 and 2 percentage points), but the article prints no standardized effect size for either, so the magnitude is coded `i?`.
 
-> "We also found that students were 2 p.p. more likely to attempt the exit ticket (p< 0.1), and conditional on their attempt, they were 3 p.p. more likely to pass the exit ticket (p< 0.01)."
+> "We also found that conditional on attempting an exit ticket, students were 3 p.p. more likely to pass it (p <0.05) when they worked with a tutor with access to Tutor CoPilot."
 
 ### Rose E. Wang 2025 (3)
 
@@ -98,9 +98,9 @@ Rose E. Wang, Ana T. Ribeiro, Carly D. Robinson, Susanna Loeb, and Dora Demszky.
 
 `q4 · i?` · `causal · r3`
 
-Two-stage least squares analysis disentangling actual use from mere access, reported in a Results-section footnote. Students of tutors who used the tool were "14 p.p. more likely to pass their exit tickets (p< 0.01". No standardized effect size is printed.
+Two-stage least squares analysis disentangling actual use from mere access, summarised in the Results section after the main intent-to-treat estimate and detailed in Supplementary Information section H. Students of tutors who used the tool were "14 p.p. more likely to pass their exit tickets (p <0.01) on average". No standardized effect size is printed.
 
-> "Appendix H reports results on the tutors using Tutor CoPilot, rather than just having access to it, where students were 14 p.p. more likely to pass their exit tickets (p< 0.01)."
+> "Supplementary Information section H reports treatment-on-the-treated results using a two-stage least square instrumental variable model to estimate the impact of using Tutor CoPilot during the session, rather than just having access to it, showing students were 14 p.p. more likely to pass their exit tickets (p <0.01) on average."
 
 ### Kirk Vanacore 2026
 
@@ -118,7 +118,7 @@ Mutlu Cukurova. (2026). What do you mean by 'human–AI collaboration'? Prerequi
 
 `q2 · i?` · `causal · r?`
 
-The chapter reports, citing Wang et al., a randomised controlled trial of a human–AI system in live tutoring in which "situational-level real-time guidance for tutors raised students' topic mastery by four percentage points overall", and by nine points for students of lower-rated tutors.
+The chapter reports, citing Wang et al., a randomised controlled trial of a human–AI system in live tutoring in which "situational-level real-time guidance for tutors raised students' topic mastery by four percentage points overall", and by nine points for students of lower-rated tutors. The chapter does not name Tutor CoPilot, K-12 mathematics or the exit-ticket measure; those details come from the trial itself (Wang et al. entries above).
 
 > "in a randomised controlled trial of a human–AI system in live tutoring, situational-level real-time guidance for tutors raised students' topic mastery by four percentage points overall, and by nine for the students of lower-rated tutors"
 

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: zhang-simin-2026
     resource: "https://doi.org/10.1186/s12909-026-09212-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Experimental group students outperformed controls on total OSCE scores and in history taking, diagnostic test interpretation, treatment planning, and doctor-patient communication subdomains, with no significant difference in physical examination. [→ Zhang Simin 2026](#zhang-simin-2026)
@@ -37,7 +38,7 @@ Zhang Simin, Li Jiao, Deng Cui, Zheng Sheng. (2026). CBL combined with MDT mode 
 
 `q3 · i?` · `causal · r3`
 
-OSCE with five blinded stations, three independent assessors per student, in the randomized trial of 112 students. Experimental group outperformed controls in four subdomains; physical examination did not differ significantly between groups.
+OSCE with five standardized stations, rated independently by three assessors per student who were blinded to group allocation, in the randomized trial of 112 students. Experimental group outperformed controls in four subdomains; physical examination did not differ significantly between groups.
 
 > "Subdomain analysis revealed that experimental group students outperformed controls in history taking (17.82 ± 1.56 vs. 16.94 ± 1.78, t = 2.43, P = 0.017), diagnostic test interpretation (17.65 ± 1.72 vs. 16.51 ± 1.93, t = 2.57, P = 0.012), treatment planning (17.93 ± 1.48 vs. 16.32 ± 1.85, t = 3.25, P = 0.002), and doctor-patient communication (17.58 ± 1.63 vs. 16.21 ± 1.89, t = 2.71, P = 0.008). Physical examination scores did not differ significantly between groups (P > 0.05)."
 

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-07
 evidence_strength: moderate
 newest_evidence: 2013
+source_checked: 2026-11-06
 sources:
   - id: kim-2013
     resource: "https://doi.org/10.1007/s11145-013-9440-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Vocabulary knowledge was uniquely and positively related to word reading (b = .16, p = .04) and spelling (b = .17, p = .05) once code-related skills were taken into consideration. [→ Kim 2013](#kim-2013)
@@ -37,7 +38,7 @@ Kim, Y.-S., Al Otaiba, S., Puranik, C., Sidler Folsom, J., & Gruelich, L. (2013)
 
 `q3 · i?` · `associational · r2`
 
-Structural equation modeling with 242 kindergartners tested unique relations of vocabulary to word reading and spelling; the model explained approximately .61 and .58 of total variance in word reading and spelling respectively. Standardized regression coefficients were small but significant; no effect size was printed.
+Structural equation modeling with 242 kindergartners tested unique relations of vocabulary to word reading and spelling; the model explained approximately .61 and .58 of total variance in word reading and spelling respectively. The effect sizes printed are standardized regression coefficients, small but significant (β = .16 for word reading, β = .17 for spelling), alongside standardized latent-variable correlations; no d-type effect size is printed, so the impact code stays `i?` rather than converting a coefficient onto the d scale.
 
 > "Vocabulary knowledge was also uniquely and positively related to word reading ( b = .16, p = .04) and spelling ( b = .17, p = .05) once phonological awareness, alphabet knowledge ﬂuency, and letter writing automatic- ity were taken into consideration."
 

@@ -143,7 +143,7 @@ Added 2026-10-17 after a search for competency-based, mastery-based and self-pac
 
 - [A three-college consortium implemented online competency-based programmes as planned, meeting most milestones and outcome targets](../claims/cbe-consortium-implemented-programs-as-planned.md) [+W] — the evaluators' own summary of implementation, not an outcome comparison
 - [The Sinclair-led consortium's competency-based IT programmes, documented at or near baseline](../claims/sinclair-consortium-competency-based-it-programs-baseline.md) [~W] — implementation description, no outcome data
-- [Mastery learning sections showed higher earned-credit rates than comparable sections at the City Colleges of Chicago](../claims/mastery-learning-higher-earned-credit-rates.md) [+W] — retrospective institutional records, eight of nine comparisons
+- [Mastery learning sections showed higher earned-credit rates than comparable sections in eight of nine course comparisons at the City Colleges of Chicago](../claims/mastery-learning-higher-earned-credit-rates.md) [+W] — retrospective institutional records, eight of nine comparisons
 - [Mastery learning did not reduce the material covered or the pace](../claims/mastery-learning-did-not-slow-pace-or-scope.md) [~W] — teacher self-report, group-paced classes
 - [Self-assessing against a rubric improved the quality of student work in two non-randomised studies](../claims/rubrics-improve-student-work.md) [+M] — school writing; bears on sharing the criteria with learners
 - [Performance-based assessments are used to give students more opportunities to demonstrate mastery](../claims/performance-assessments-expand-mastery-demonstration-opportunities.md) [+W] — state officials' accounts

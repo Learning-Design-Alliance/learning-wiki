@@ -38,7 +38,7 @@ Walker, B. J. (1989). The Interactive Model of Reading: Deciding How Disability 
 
 `q2 · i?` · `theoretical · r2`
 
-The review reports, citing Allington (1984b), that poor beginning readers rely on one available source of information rather than integrating cues. The paper illustrates with case examples Andy (reader-based overreliance) and Kris (text-based overreliance).
+A conceptual conference paper presenting an interactive model of reading and reading difficulty; it is not an empirical study or a systematic review. It quotes Allington (1984b) for the statement that poor beginning readers rely on one available source of information rather than integrating cues, so the observation is Allington's, not Walker's own. The paper illustrates the idea with two examples, Andy (reader-based overreliance) and Kris (text-based overreliance), introduced with "For example"; they are illustrations, not documented cases or study participants.
 
 > ""Poor beginning readers...seem to rely on one available source of information rather than integrating all available cues" (Allington, 1984b, p. 847)."
 

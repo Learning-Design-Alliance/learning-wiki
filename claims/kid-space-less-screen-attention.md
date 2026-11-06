@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Kid Space use shifted children's attention away from the screen toward the physical environment"
-description: "Kid Space use shifted children's attention away from the screen toward the physical environment"
+title: "During Kid Space sessions, on-task children looked at the projected screen about three-quarters of the time and at physical elements of the room the rest"
+description: "During Kid Space sessions, on-task children looked at the projected screen about three-quarters of the time and at physical elements of the room the rest"
 id: kid-space-less-screen-attention
 status: review
 generated:
@@ -9,10 +9,11 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-11-06
 sources:
   - id: aslan-2022
     resource: "https://doi.org/10.1007/s11423-021-10072-x"
-    title: "Aslan, S., Agrawal, A., Alyuz, N., Chierichetti, R., Durham, L. M., Manuvinakurike, R., Okur, E., Sahay, S., Sharma, S., Sherry, J., Raffa, G., & Nachman, L. (2022). Exploring Kid Space in the wild: a preliminary study of multimodal and immersive collaborative play-based learning experiences. Education Tech Research Dev, 70, 205–230. https://doi.org/10.1007/s11423-021-10072-x"
+    title: "Aslan, S., Agrawal, A., Alyuz, N., Chierichetti, R., Durham, L. M., Manuvinakurike, R., Okur, E., Sahay, S., Sharma, S., Sherry, J., Raffa, G., & Nachman, L. (2022). Exploring Kid Space in the wild: a preliminary study of multimodal and immersive collaborative play-based learning experiences. Educational Technology Research and Development, 70, 205–230. https://doi.org/10.1007/s11423-021-10072-x"
     author: "Aslan, S., Agrawal, A., Alyuz, N., Chierichetti, R., Durham, L. M., Manuvinakurike, R., Okur, E., Sahay, S., Sharma, S., Sherry, J., Raffa, G., & Nachman, L."
     q: 2
     i: "?"
@@ -20,24 +21,24 @@ sources:
     rigour: 2
 ---
 
-# Kid Space use shifted children's attention away from the screen toward the physical environment
+# During Kid Space sessions, on-task children looked at the projected screen about three-quarters of the time and at physical elements of the room the rest
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2022 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Students focused less attention on the projected wall screen during Kid Space activities. [→ Aslan 2022](#aslan-2022)
+`q2 i?` In this single exploratory case study with no baseline or comparison condition, students who were on task attended to the projected wall 74.2% of the time and to other physical elements (flowerpots, the instructional assistant, peers) 25.8% of the time, varying by game. [→ Aslan 2022](#aslan-2022)
 
 ## Evidence
 
 ### Aslan 2022
 
-Aslan, S., Agrawal, A., Alyuz, N., Chierichetti, R., Durham, L. M., Manuvinakurike, R., Okur, E., Sahay, S., Sharma, S., Sherry, J., Raffa, G., & Nachman, L. (2022). Exploring Kid Space in the wild: a preliminary study of multimodal and immersive collaborative play-based learning experiences. Education Tech Research Dev, 70, 205–230. https://doi.org/10.1007/s11423-021-10072-x
+Aslan, S., Agrawal, A., Alyuz, N., Chierichetti, R., Durham, L. M., Manuvinakurike, R., Okur, E., Sahay, S., Sharma, S., Sherry, J., Raffa, G., & Nachman, L. (2022). Exploring Kid Space in the wild: a preliminary study of multimodal and immersive collaborative play-based learning experiences. Educational Technology Research and Development, 70, 205–230. https://doi.org/10.1007/s11423-021-10072-x
 
 `q2 · i?` · `design · r2`
 
-Observational and multimodal analysis in the exploratory case study found "less attention focused on the screen (projected wall)", consistent with the design goal of blending digital and physical learning experiences.
+Observational and multimodal analysis in a single exploratory case study, with no pre-use baseline or control condition, so it shows how attention was split during the sessions, not a change caused by Kid Space. When on task, students attended to the projected wall 74.2% of the time and to other physical elements 25.8% of the time (from 91.3% screen time in the mostly digital Warm-up game to less in the physical games). The authors summarise this as "less attention focused on the screen (projected wall)", consistent with the design goal of blending digital and physical learning experiences.
 
 > "The results show that the students demonstrated high levels of engagement, less attention focused on the screen (projected wall), and more physical activity."
 

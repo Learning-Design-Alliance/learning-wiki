@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Academic word list count, word count, and Flesch-Kincaid grade level are the most important features for predicting cognitive engagement in discussion posts
-description: Academic word list count, word count, and Flesch-Kincaid grade level are the most important features for predicting cognitive engagement in discussion posts
+title: In decision-tree and random-forest models, academic word list count, word count, and Flesch-Kincaid grade level were among the most important features for predicting cognitive engagement in discussion posts; an SVM ranked different features first
+description: In decision-tree and random-forest models, academic word list count, word count, and Flesch-Kincaid grade level were among the most important features for predicting cognitive engagement in discussion posts; an SVM ranked different features first
 id: awl-count-word-count-feature-importance-engagement
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: moderate
 newest_evidence: 2022
+source_checked: 2026-11-06
 recheck_by: 2025
 sources:
   - id: gorgun-2022
@@ -21,14 +22,14 @@ sources:
     rigour: 2
 ---
 
-# Academic word list count, word count, and Flesch-Kincaid grade level are the most important features for predicting cognitive engagement in discussion posts
+# In decision-tree and random-forest models, academic word list count, word count, and Flesch-Kincaid grade level were among the most important features for predicting cognitive engagement in discussion posts; an SVM ranked different features first
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
+> **Currency** · newest study 2022 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 2025**: tool and model accuracy changes quickly
 
 ## Subclaims
-`q2 i?` Decision tree and random forest models identified the same top features (word count, AWL count, type-token ratio, Flesch-Kincaid grade level), while the SVM identified a different set led by second language readability. [→ Gorgun 2022](#gorgun-2022)
+`q2 i?` Decision tree and random forest models identified similar top features: the decision tree's were AWL count, whether the post was a reply, Flesch-Kincaid grade level, and word count; the random forest's were word count, AWL count, type-token ratio, and Flesch-Kincaid grade level. The SVM identified a different set led by second language readability. [→ Gorgun 2022](#gorgun-2022)
 
 ## Evidence
 

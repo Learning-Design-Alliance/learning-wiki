@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 126 claims (92 for, 31 mixed, 3 against) · 87 studies (34 associational, 19 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 design, 2 qualitative), `q1`–`q4` · 20 of 87 report an effect size · 120 claims rest on one study
+> **Evidence** · 126 claims (92 for, 31 mixed, 3 against) · 87 studies (34 associational, 19 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 design, 2 qualitative), `q1`–`q4` · 19 of 87 report an effect size · 120 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.

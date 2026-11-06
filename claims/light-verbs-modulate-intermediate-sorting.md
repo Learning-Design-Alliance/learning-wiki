@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Light verbs drive construction-based sorting in intermediate-level but not beginner or advanced EFL learners
-description: Light verbs drive construction-based sorting in intermediate-level but not beginner or advanced EFL learners
+title: Intermediate-level EFL learners, but not beginner or advanced ones, sorted sentences by construction mainly when they contained light verbs
+description: Intermediate-level EFL learners, but not beginner or advanced ones, sorted sentences by construction mainly when they contained light verbs
 id: light-verbs-modulate-intermediate-sorting
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-11-06
 sources:
   - id: kim-2020
     resource: "https://doi.org/10.15858/engtea.75.s1.202006.55"
@@ -20,11 +21,11 @@ sources:
     rigour: 2
 ---
 
-# Light verbs drive construction-based sorting in intermediate-level but not beginner or advanced EFL learners
+# Intermediate-level EFL learners, but not beginner or advanced ones, sorted sentences by construction mainly when they contained light verbs
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the cluster analysis, intermediate learners (G3 and G4) clustered sentences by construction only when the sentences contained the light verbs take and get; beginner and advanced groups were unaffected by verb type. [→ Kim 2020](#kim-2020)

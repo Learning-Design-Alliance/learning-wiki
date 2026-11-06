@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Among PGY-1 and PGY-2 obstetrics and gynecology residents, task completion times were shorter after a structured four-week laparoscopic simulator curriculum than before, in one single-group pre-post study.
-description: Among PGY-1 and PGY-2 obstetrics and gynecology residents, task completion times were shorter after a structured four-week laparoscopic simulator curriculum than before, in one single-group pre-post study.
+title: Among PGY-1 and PGY-2 obstetrics and gynecology residents, task completion times were shorter in later weeks than in Week 1 of a structured four-week laparoscopic simulator curriculum, in one uncontrolled study with no pre-training baseline.
+description: Among PGY-1 and PGY-2 obstetrics and gynecology residents, task completion times were shorter in later weeks than in Week 1 of a structured four-week laparoscopic simulator curriculum, in one uncontrolled study with no pre-training baseline.
 id: laparoscopic-simulator-training-improves-task-efficiency-pgy1-pgy2
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: li-congqing-2026
     resource: "https://doi.org/10.1038/s41598-026-46957-1"
@@ -20,14 +21,14 @@ sources:
     rigour: 1
 ---
 
-# Among PGY-1 and PGY-2 obstetrics and gynecology residents, task completion times were shorter after a structured four-week laparoscopic simulator curriculum than before, in one single-group pre-post study.
+# Among PGY-1 and PGY-2 obstetrics and gynecology residents, task completion times were shorter in later weeks than in Week 1 of a structured four-week laparoscopic simulator curriculum, in one uncontrolled study with no pre-training baseline.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` PGY-1 and PGY-2 residents had shorter task completion times from pre-test to post-test over the four-week training period, while PGY-3 residents maintained stable, proficient performance. [→ Li Congqing 2026](#li-congqing-2026)
+`q3 i?` PGY-1 and PGY-2 residents had shorter task completion times in later weekly assessments than in Week 1 (each assessment followed that week's training session; no pre-training baseline was taken), while PGY-3 residents maintained stable, proficient performance. [→ Li Congqing 2026](#li-congqing-2026)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Li Congqing, Song Fei, Xu Youjiang, Zhang Liwei, Wang Wenyan. (2026). Efficacy o
 
 `q3 · i?` · `causal · r1`
 
-Prospective educational intervention at a national residency training base: 30 residents (10 per PGY level) completed a standardized four-week box-trainer curriculum covering four core skill modules, with performance assessed weekly by task completion time and analyzed using repeated-measures ANOVA. The article reports "Significant improvements in task efficiency were observed among PGY-1 and PGY-2 residents over the training period (p < 0.05)".
+Prospective educational intervention at a national residency training base: 30 residents (10 per PGY level) completed a standardized four-week box-trainer curriculum covering four core skill modules, with performance assessed on the Friday after each weekly session by task completion time (no assessment before the first session, so the comparison is Week 1 against later weeks, not pre- against post-training) and analyzed using repeated-measures ANOVA. The article reports "Significant improvements in task efficiency were observed among PGY-1 and PGY-2 residents over the training period (p < 0.05)".
 
 > "Significant improvements in task efficiency were observed among PGY-1 and PGY-2 residents over the training period (p < 0.05), whereas PGY-3 residents maintained stable, proficient performance."
 

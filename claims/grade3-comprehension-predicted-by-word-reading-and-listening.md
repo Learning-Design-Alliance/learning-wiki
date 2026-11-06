@@ -9,6 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-06
 sources:
   - id: miller-amanda-c-2014
     resource: "https://doi.org/10.1080/19345747.2014.906691"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Grade 3 reading comprehension was significantly predicted by grade 3 sight word reading and grade 3 listening comprehension, with no significant direct effect of pre-treatment attention. [→ Miller Amanda C. 2014](#miller-amanda-c-2014)
@@ -37,7 +38,7 @@ Miller Amanda C., Fuchs Douglas, Fuchs Lynn S., Compton Donald L., Kearns Devin,
 
 `q3 · i?` · `associational · r2`
 
-Path analysis results for grade 3 outcomes among 110 at-risk readers followed to spring of grade 3. Both Simple View components predicted comprehension; attention's effect on comprehension was fully indirect. No standardized effect size printed.
+Path analysis results for grade 3 outcomes among at-risk first graders (the model was fitted with N = 124; the abstract describes 110 participants, those followed to grade 3). Both Simple View components predicted comprehension (bootstrapped 95% CIs above). Attention had no significant direct path to grade 3 comprehension, and one specific indirect path was significant (through grade 1 sight-word growth and grade 3 sight-word reading, .06, CI .01 to .12), but the total indirect effect of attention was not (.11, CI −.03 to .26). Standardized betas are shown only in Figure 2, which the text available does not reproduce, and are path coefficients rather than an effect size on the d scale.
 
 > "Grade 3 reading comprehension was predicted by grade 3 sight word reading (CI = .06 to .32) and grade 3 listening comprehension (CI = .05 to .82). There was not a significant direct effect of pre-treatment attention on grade 3 reading comprehension."
 

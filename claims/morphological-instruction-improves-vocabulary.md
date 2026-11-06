@@ -8,6 +8,7 @@ generated:
 id: morphological-instruction-improves-vocabulary
 evidence_strength:
 newest_evidence: 2013
+source_checked: 2026-11-06
 sources:
   - id: goodwin-ahn-2013
     resource: "https://doi.org/10.1080/10888438.2012.689791"
@@ -33,7 +34,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r?` · `q3` · `i1` small
-> **Currency** · newest study 2013 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 Teaching learners to analyze and manipulate morphemes (prefixes, suffixes, roots, and inflections) improves vocabulary knowledge and supports word reading and comprehension.
 
@@ -41,7 +42,7 @@ Teaching learners to analyze and manipulate morphemes (prefixes, suffixes, roots
 
 `q3 i1` A meta-analysis of 30 studies (92 effect sizes) finds a moderate overall benefit of morphological instruction on literacy outcomes, with the largest gains for decoding (d̄ = 0.59) and phonological awareness (d̄ = 0.48), a vocabulary effect of d̄ = 0.34, and no reliable effect on reading comprehension or fluency. [→ Goodwin Ahn 2013](#goodwin-ahn-2013)
 
-`q3 i?` A systematic review of 22 studies (preschool–grade 8) concludes morphological instruction benefits learners overall, with particular benefit for less-able readers and for younger students, and larger effects when combined with other literacy instruction. [→ Bowers Kirby Deacon 2010](#bowers-kirby-deacon-2010)
+`q3 i?` A systematic review of 22 studies (preschool–grade 8) concludes morphological instruction benefits learners overall, with particular benefit for less-able readers, no less effectiveness for younger than for older students, and larger effects when combined with other literacy instruction. [→ Bowers Kirby Deacon 2010](#bowers-kirby-deacon-2010)
 
 ## Evidence
 

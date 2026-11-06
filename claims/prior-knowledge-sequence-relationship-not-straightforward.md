@@ -27,7 +27,7 @@ sources:
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` The two experiments' opposite near-transfer results contradict both theories' predictions, suggesting prior knowledge alone does not determine the optimal sequence. [→ Cheng-Wen He 2025](#cheng-wen-he-2025)
+`q3 i?` The two experiments gave opposite near-transfer results: lower-prior-knowledge introductory biology students did better with problem-solving first (supporting productive failure), higher-prior-knowledge biochemistry students did better with instruction first (supporting cognitive load theory), and neither showed a far-transfer effect; the authors conclude the effect of sequence across levels of prior knowledge "may not be as straightforward as existing theories suggest". [→ Cheng-Wen He 2025](#cheng-wen-he-2025)
 
 ## Evidence
 

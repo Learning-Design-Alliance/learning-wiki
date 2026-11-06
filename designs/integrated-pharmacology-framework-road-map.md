@@ -17,7 +17,7 @@ sources:
 # Offer the integrated flipped case-based pharmacology design as a transferable framework for programs considering curricular change
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article presents its curricular redesign as a transferable framework: pharmacology content is distributed across organ-system courses over 15 months, delivered through flipped asynchronous videos, and practiced in collaborative case-based sessions with dedicated pharmacology faculty. The authors state, "We hope the framework presented here will serve as a road map to other medical or pharmacy schools, as well as nursing and physician assistant programs considering curricular changes." The design description is paired with item-statistic and satisfaction evidence from their own implementation.

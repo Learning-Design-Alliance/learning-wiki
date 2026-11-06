@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 302 claims (215 show a difference, 56 mixed, 31 no difference) · 194 studies (69 associational, 53 causal, 32 review, 14 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 43 of 194 report an effect size · 294 claims rest on one study
+> **Evidence** · 302 claims (214 show a difference, 57 mixed, 31 no difference) · 194 studies (69 associational, 53 causal, 32 review, 14 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 43 of 194 report an effect size · 294 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -307,7 +307,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Cooperative learning swimming teaching produced the largest improvements in adolescent emotion regulation, significantly exceeding understanding and traditional teaching models](../claims/cooperative-learning-swimming-emotion-regulation.md) [+M] — measured as an outcome of the instruction studied
 - [PT-BET is associated with reduced perceived exam stress among participating medical students.](../claims/pt-bet-reduced-exam-stress.md) [+M] — measured as an outcome of the instruction studied
 - [Most students paradoxically prefer bell-pacing, a pacing structure that led to greater reactive test anxiety, independent of the pacing structure itself.](../claims/students-prefer-pacing-structure-that-increases-anxiety.md) [+M] — measured as an outcome of the instruction studied
-- [Test anxiety rose significantly from pre- to post-exam under bell-pacing but not under self-pacing in gross anatomy laboratory examinations, though the pacing-by-timepoint interaction was marginally non-significant.](../claims/bell-pacing-exacerbates-reactive-test-anxiety.md) [+M] — measured as an outcome of the instruction studied
+- [Test anxiety rose significantly from pre- to post-exam under bell-pacing but not under self-pacing in gross anatomy laboratory examinations, though the pacing-by-timepoint interaction was marginally non-significant.](../claims/bell-pacing-exacerbates-reactive-test-anxiety.md) [~W] — measured as an outcome of the instruction studied
 - [A sequential mediation pathway runs from perceived peer support through emotion regulation and behavioral engagement to academic achievement](../claims/sequential-mediation-er-be-pathway.md) [+M] — learners who differ on it differ in outcomes
 - [Emotion regulation mediates the relationship between perceived peer support and academic achievement](../claims/emotion-regulation-mediation-peer-support-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [Maths anxiety negatively predicts only maths-related grades (Algebra and Geometry) among high-achieving adolescents](../claims/maths-anxiety-negatively-predicts-algebra-geometry-only.md) [~M] — learners who differ on it differ in outcomes

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2012
+source_checked: 2026-11-06
 sources:
   - id: farooq-et-al-2012
     resource: "https://doi.org/10.5539/elt.v5n11p91"
@@ -32,11 +33,11 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2012 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` The experimental group's pre-test to post-test gain was statistically significant for Course 553 (t = 33.46, df = 25, p < 0.001). [→ Farooq et al. 2012](#farooq-et-al-2012)
-`q2 i?` The experimental group's pre-test to post-test gain was statistically significant for Course 554 (t = 26.80, df = 25, p < 0.001). [→ Farooq et al. 2012 (2)](#farooq-et-al-2012-2)
+`q2 i?` The experimental group's pre-test to post-test gain was statistically significant for Course 553 (t = 33.46, df = 25, above the table value of 3.725 at α = .001; no exact p is reported). [→ Farooq et al. 2012](#farooq-et-al-2012)
+`q2 i?` The experimental group's pre-test to post-test gain was statistically significant for Course 554 (t = 26.80, df = 25, above the table value of 3.725 at α = .001; no exact p is reported). [→ Farooq et al. 2012 (2)](#farooq-et-al-2012-2)
 
 ## Evidence
 

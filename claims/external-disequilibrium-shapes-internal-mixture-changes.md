@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "External disequilibrium level systematically influences subsequent changes in internal disequilibrium: discrepant conditions increase mixture among low mix subjects and decrease it among high mix subjects"
-description: "External disequilibrium level systematically influences subsequent changes in internal disequilibrium: discrepant conditions increase mixture among low mix subjects and decrease it among high mix subjects"
+title: "In one spatial-reasoning experiment, discrepant external conditions were followed by trends toward more Level Mixture among low mix subjects and less among high and mid mix subjects"
+description: "In one 1975 experiment, the +1 and +2 discrepant conditions were followed by descriptive trends toward increased Level Mixture (internal disequilibrium) among low mix subjects and decreased mixture among high and mid mix subjects; no significance test of the interaction is reported"
 id: external-disequilibrium-shapes-internal-mixture-changes
 status: review
 generated:
@@ -28,16 +28,16 @@ sources:
     rigour: 2
 ---
 
-# External disequilibrium level systematically influences subsequent changes in internal disequilibrium: discrepant conditions increase mixture among low mix subjects and decrease it among high mix subjects
+# In one spatial-reasoning experiment, discrepant external conditions were followed by trends toward more Level Mixture among low mix subjects and less among high and mid mix subjects
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 1975 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 1975 · not yet checked against its sources · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` Among low internal disequilibrium subjects in +1 and +2 conditions, Level Mixture increased from pretest to posttest and delayed posttest. [→ Snyder 1975](#snyder-1975)
-`q2 i?` Among high and mid internal disequilibrium subjects in +1 and +2 conditions, Level Mixture decreased. [→ Snyder 1975 (2)](#snyder-1975-2)
+`q2 i?` Among high and mid internal disequilibrium subjects in +1 and +2 conditions taken together, the trend was a decrease in Level Mixture, less pronounced in the mid mix group. [→ Snyder 1975 (2)](#snyder-1975-2)
 
 ## Evidence
 
@@ -57,7 +57,7 @@ Snyder, S. S. & Feldman, D. H. (1975). An Experimental Test of the Effects of In
 
 `q2 · i?` · `causal · r2`
 
-"Among middle and high internal disequilibrium subjects in the +1 and +2 Conditions taken together, the trend was a decrease in Level Mixture, both from pre to posttest and from pretest to delayed posttest," consistent with consolidation at a higher level.
+"Among middle and high internal disequilibrium subjects in the +1 and +2 Conditions taken together, the trend was a decrease in Level Mixture, both from pre to posttest and from pretest to delayed posttest," a trend that was "less pronounced in the mid-mix group." These are descriptive trends from Table 11; no significance test of the condition-by-mixture interaction is reported, and the study does not show that this pooled decrease reflected consolidation at a higher level (it links advance in Modal Level separately to particular high mix, positive Bias subjects). The authors summarise the effects of external on internal disequilibrium as "relatively systematic".
 
 > "Among middle and high internal disequilibrium subjects in the +1 and +2 Conditions taken together, the trend was a decrease in Level Mixture"
 

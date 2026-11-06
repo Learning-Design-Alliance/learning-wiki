@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2013
+source_checked: 2026-11-06
 sources:
   - id: dille-2013
     resource: "https://eric.ed.gov/?id=EJ1135486"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2013 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The within-subjects effect for severity on post-test application was not statistically significant (F (1, 43) = .255, p>.05). [→ Dille 2013](#dille-2013)
@@ -38,7 +39,7 @@ Dille, L. (2013). A Comparison of Two Curricular Models of Professional Developm
 
 `q2 · i?` · `causal · r2`
 
-General Linear Model 3(group) x 2(severity) factorial ANOVA with repeated measures on severity, post-test application data (Table 5). The article also reports the Severity*Group interaction (F (2, 43) = .575, p>.05) was not statistically significant, so trained teachers applied methods similarly to mild/moderate and severe hypothetical cases.
+General Linear Model 3(group) x 2(severity) factorial ANOVA with repeated measures on severity, post-test application data (Table 5). The article also reports the Severity*Group interaction (F (2, 43) = .575, p>.05) was not statistically significant. Application was measured on hypothetical case studies, not with actual students, and no equivalence test was reported, so the result means no significant severity difference was detected in teachers' written application to mild/moderate and severe cases, not that they applied methods identically.
 
 > "The within-subjects effect for severity (F (1, 43) = .255, p>.05) was not statistically significant."
 

@@ -21,7 +21,7 @@ sources:
 # Traditional Lecture-Based Instruction
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 112 claims (35 for, 35 mixed, 42 against) · 100 studies (42 causal, 25 quant-synthesis, 16 review, 7 theoretical, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 20 of 100 report an effect size · 104 claims rest on one study
+> **Evidence** · 112 claims (34 for, 36 mixed, 42 against) · 100 studies (42 causal, 25 quant-synthesis, 16 review, 7 theoretical, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 20 of 100 report an effect size · 104 claims rest on one study
 
 ## Description and scope
 
@@ -220,7 +220,7 @@ This pattern is scoped to courses where a lecturer's explanation to a whole grou
 - [Blended learning achieves higher hospital OSPE scores than traditional lectures in practical immunohematology training](../claims/blended-learning-higher-hospital-ospe-immunohematology.md) [+M]
 - [Flipped classroom and traditional classroom groups show comparable multiple-choice question performance (p = 0.651)](../claims/fc-comparable-multiple-choice-performance.md) [~W]
 - [Blended learning achieves higher student satisfaction than traditional lectures in practical immunohematology training](../claims/blended-learning-higher-satisfaction-immunohematology.md) [+W]
-- [On a pre-course test, residency trainees in a nuclear medicine course scored above 90% on some conceptual items but below 65% on several treatment-application items, with wide variation across items](../claims/pre-course-test-reveals-application-deficit-traditional-teaching.md) [+W]
+- [On a pre-course test, residency trainees in a nuclear medicine course scored above 90% on some conceptual items but below 65% on several treatment-application items, with wide variation across items](../claims/pre-course-test-reveals-application-deficit-traditional-teaching.md) [~W]
 - [Feedback-based pedagogy significantly improves knowledge mastery in nanomedicine education compared to traditional didactic instruction](../claims/feedback-pedagogy-improves-nanomedicine-knowledge-mastery.md) [-W]
 - [The adjusted academic performance advantage of embodied learning over traditional lectures was exploratory and did not reach the prespecified multiplicity-corrected significance threshold.](../claims/el-academic-performance-exploratory-ancova-nursing.md) [~W]
 - [Embodied learning instruction produced large, baseline-adjusted improvements in nursing students' attitudes toward educational measurement compared to traditional lectures.](../claims/el-attitudes-large-ancova-effect-nursing.md) [+W]

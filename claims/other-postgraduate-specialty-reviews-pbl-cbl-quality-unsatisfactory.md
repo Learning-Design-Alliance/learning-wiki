@@ -27,7 +27,7 @@ sources:
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Two systematic reviews published since 2022 concluded that problem-based learning appeared more effective than traditional teaching for improving performance, that PBL was associated with higher scores across multiple skill domains, and that CBL increased knowledge and confidence, though the latter was a non-significant trend. [→ Vundum Jonathon 2025](#vundum-jonathon-2025)
+`q2 i?` Three individual studies in other postgraduate specialties (the review's references 26–28) concluded that problem-based learning appeared more effective than traditional teaching for improving performance, that PBL was associated with higher scores across multiple skill domains, and that CBL increased knowledge and confidence, though the latter was a non-significant trend; two systematic reviews published since 2022 assessed the quality of the RCTs in this field. [→ Vundum Jonathon 2025](#vundum-jonathon-2025)
 `q2 i?` The overall quality of data from available RCTs in postgraduate CBL/PBL was deemed unsatisfactory. [→ Vundum Jonathon 2025](#vundum-jonathon-2025)
 
 ## Evidence

@@ -27,7 +27,7 @@ sources:
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Fixed High reaches only 59% independence and Linear Decay 71%, while ARPG+ adaptive fading achieves higher independence (91% per abstract) with periodic reinforcement implementing the spacing effect. [→ Ye 2026](#ye-2026)
+`q2 i?` Fixed High reaches only 59% independence and Linear Decay 71%, while ARPG+ adaptive fading achieves higher independence (92% in this analysis, 91% per abstract) with periodic reinforcement implementing the spacing effect. [→ Ye 2026](#ye-2026)
 
 ## Evidence
 
@@ -37,9 +37,9 @@ Ye, P.-G., Mo, K., Long, Y., Liu, M., Sang, H., & Zheng, J. (2026). ARPG+: a sim
 
 `q2 · i?` · `causal · r?`
 
-Scaffolding strategy effectiveness analysis comparing Fixed High (constant σt = 5), Linear Decay (uniform reduction to 0.25), and ARPG+ Adaptive (dynamic adjustment with reinforcement at Turns 5, 10, 15). The text is truncated at "ARPG+ achieve"; the abstract reports 91% independence versus 59% under fixed support.
+Scaffolding strategy effectiveness analysis comparing Fixed High (constant σt = 5), Linear Decay (uniform reduction to 0.25), and ARPG+ Adaptive (dynamic adjustment with reinforcement at Turns 5, 10, 15). In this analysis ARPG+ reaches 92% independence; the abstract reports 91% versus 59% under fixed support. The text read was the Research Square preprint, titled "ARPG+: Teaching Students to Ask Effective Questions for Educational LLM Use"; the citation gives the published article's title as Crossref records it for this DOI.
 
-> "Fixed High reaches only 59% independence, Linear Decay 71%, while ARPG+ achieve"
+> "Fixed High reaches only 59% independence, Linear Decay 71%, while ARPG+ achieves 92%."
 
 ## Discussion
 

@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q2`
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Associative spreading-activation processes supporting elaborative retrieval are likely compromised in at least some learning contexts for learners with dyslexia. [→ Wilschut 2026](#wilschut-2026)
@@ -46,9 +46,9 @@ Wilschut, T., Sense, F. & van Rijn, H. (2026). Trends in testing effect research
 
 `q2 · i?` · `theoretical · r3`
 
-Theoretical argument grounded in reviewed EEG/MEG findings of reduced or delayed N400 responses in dyslexic readers. The authors argue that "the associative spreading activation processes that support elaborative246 retrieval are compromised in at least some learning contexts."
+Theoretical argument grounded in reviewed EEG/MEG findings of reduced or delayed N400 responses in dyslexic readers. The authors argue that "the associative spreading activation processes that support elaborative retrieval are compromised in at least some learning contexts."
 
-> "Regardless of244 whether the bottleneck occurs at the level of low-level sensory processing or higher-level semantic245 integration, it is likely that the associative spreading activation processes that support elaborative246 retrieval are compromised in at least some learning contexts."
+> "Regardless of whether the bottleneck occurs at the level of low-level sensory processing or higher-level semantic integration, it is likely that the associative spreading activation processes that support elaborative retrieval are compromised in at least some learning contexts."
 
 ### Wilschut 2026 (2)
 

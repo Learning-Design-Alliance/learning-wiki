@@ -17,7 +17,7 @@ sources:
 # Five-step gynecology examination session combining case-based introduction, group formation, instructor role-play demonstration, peer practice with assessment, and facilitated observation
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A lesson-level instructional pattern for clinical skills teaching that embeds peer role-play and peer assessment in collaborative group learning. After theoretical instruction, students in groups of 3–4 follow: case-based introduction, group formation with rubrics, an instructor-led demonstration in which the instructor "role-played the patient's perspective behind the anatomical model", peer practice, and facilitated observation. It was used with international medical students learning gynecological examination.

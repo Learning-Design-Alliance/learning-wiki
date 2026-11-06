@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-11-06
 sources:
   - id: alalawi-2024
     resource: "https://doi.org/10.1007/s40593-024-00429-7"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` SPPA uses the CA Mapping Model plus Hattie and Timperley's three feedback questions (Where am I going? How am I going? Where to next?) to generate personalised feedback and revision plans during interventions. [→ Alalawi 2024](#alalawi-2024)
+`q2 i?` SPPA uses the CA Mapping Model plus Hattie and Timperley's three feedback questions (Where am I going? How am I going? Where to next?) to structure personalised feedback during interventions: the revision plan is generated automatically from the CA Mapping Model, while instructor/tutor comments and detailed feedback are added manually by the academic. [→ Alalawi 2024](#alalawi-2024)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Alalawi, K., Athauda, R., & Chiong, R. (2024). An Extended Learning Analytics Fr
 
 `q2 · i?` · `design · r2`
 
-Descriptive account of the Course Delivery phase, where the CA Mapping Tool maps ATs to CLOs so feedback answers the three effective-feedback questions, and "the revision plan ... is automatically generated based on the CA Mapping Model." The article offers this as a design rationale rather than a tested comparison.
+Descriptive account of the Course Delivery phase, where the CA Mapping Tool maps ATs to CLOs so feedback answers the three effective-feedback questions, and "the revision plan ... is automatically generated based on the CA Mapping Model", while "the instructor/tutor comments, are added manually by the academic". The article offers this as a design rationale rather than a tested comparison.
 
 > "SPPA encourages and facilitates effective feedback based on the Hattie and Timperley (2007) model for effective feedback."
 

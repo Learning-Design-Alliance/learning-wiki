@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Pre-course test reveals high factual recall but insufficient clinical application ability under traditional teaching
-description: Pre-course test reveals high factual recall but insufficient clinical application ability under traditional teaching
+title: On a pre-course test, residency trainees in a nuclear medicine course scored above 90% on some conceptual items but below 65% on several treatment-application items, with wide variation across items
+description: On a pre-course test, residency trainees in a nuclear medicine course scored above 90% on some conceptual items but below 65% on several treatment-application items, with wide variation across items
 id: pre-course-test-reveals-application-deficit-traditional-teaching
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: ji-y-2026
     resource: "https://doi.org/10.1186/s12909-026-09808-1"
@@ -20,14 +21,14 @@ sources:
     rigour: 2
 ---
 
-# Pre-course test reveals high factual recall but insufficient clinical application ability under traditional teaching
+# On a pre-course test, residency trainees in a nuclear medicine course scored above 90% on some conceptual items but below 65% on several treatment-application items, with wide variation across items
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Pre-course correct response rates exceeded 90% on conceptual questions but fell below 65% on application questions such as treatment modality choice and iodine-131 dose determination. [→ Ji Y 2026](#ji-y-2026)
+`q2 i?` Pre-course correct response rates ranged widely across the 20 items (5% to 100% in Table 2); the authors' text singles out conceptual items on the classification of hyperthyroidism and its nuclear medicine diagnosis as exceeding 90% (Table 2: 95% on the most common clinical type and 100% on typical laboratory findings, but 65% on characteristic nuclear medicine findings), and application items on treatment modality choice, iodine-131 dose, the iodine-131 treatment process and precautions as below 65%, though item-level rates are mixed within each category (e.g. 35% on clinical manifestations; 70% and 50% on the two dose-adjustment items). [→ Ji Y 2026](#ji-y-2026)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Ji Y, Zhang X, Han X, Xiong G, Chen X, Lu Y, Zhang Q, Sui S, Yang Z, Yu S, Xu W,
 
 `q2 · i?` · `design · r2`
 
-Baseline item-level analysis of the pre-course knowledge test in the same retrospective study. Conceptual questions exceeded 90% correct while application questions fell below 65%, suggesting traditional passive learning fails to develop clinical reasoning skills.
+Baseline item-level analysis of the pre-course knowledge test in the same retrospective study. The 40 trainees came from the nuclear medicine (9), radiology (25) and ultrasound (6) training bases. The median pre-course correct rate across the 20 items was 45%, ranging from 5% to 100% in Table 2 (the text says 15% to 100%). The authors report that conceptual questions "such as" hyperthyroidism classification and diagnostic methods exceeded 90%, while practical-application questions such as treatment choice and iodine-131 dosing fell below 65%; the item table is mixed within both categories (e.g. characteristic nuclear medicine findings 65%, clinical manifestations 35%, radioactive iodine uptake procedure 65%, factors warranting increased dosage 70%, decreased dosage 50%). The authors read the pattern as consistent with passive learning failing to develop clinical reasoning, but with one group, no control and retrospective pre/post data the study cannot attribute the baseline pattern to prior traditional teaching.
 
 > "Conceptual questions, such as those pertaining to the classification of hyperthyroidism and the nuclear medicine examination methods for its diagnosis, demonstrated a commendable correct response rate exceeding 90%. However, questions related to practical application, such as the correct response rate of the questions on the choice of treatment modality for hyperthyroidism, the determination of the dose of iodine-131 treatment for hyperthyroidism, the process of iodine-131 treatment for hyperthyroidism, and precautions was lower than 65%"
 

@@ -52,7 +52,7 @@ newest_evidence: 2018
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 4 studies · 2 quant-synthesis `r?`, 1 causal `r1`, 1 associational `r1` · `q2`–`q4` · `i2` medium
-> **Currency** · newest study 2018 · 1 of 4 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Self-explanation improves conceptual understanding and problem-solving performance. -->
 
 Generating explanations for oneself while studying worked examples or solving problems helps learners bridge gaps in their knowledge, integrate new information with prior schemas, and monitor their own comprehension.

@@ -27,7 +27,7 @@ sources:
 > **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i2` For the most confident (certain) memories, the split sleep group outperformed the continuous sleep group for species learned in the afternoon, d = 0.71, with no significant difference for morning learning. For overall memory the group-by-time interaction was not significant, but a planned comparison favoured the split group for afternoon-learned species, d = 0.57. Both groups had the same 6.5 h sleep opportunity; the split group actually slept about 15 min less. [→ Cousins 2019](#cousins-2019)
+`q3 i2` For the most confident (certain) memories, the split sleep group outperformed the continuous sleep group for species learned in the afternoon, d = 0.71, with no significant difference for morning learning. For overall memory the group-by-time interaction was not significant, but a planned comparison favoured the split group for afternoon-learned species, d = 0.57. Both groups had the same 6.5 h sleep opportunity; the split group actually slept about 12 min less. [→ Cousins 2019](#cousins-2019)
 
 ## Evidence
 
@@ -37,7 +37,7 @@ Cousins, J. N., van Rijn, E., Ong, J. L., Wong, K. F., & Chee, M. W. L. (2019). 
 
 `q3 · i2` · `causal · r2`
 
-Three-day amphibian factual-knowledge experiment: 1 h morning and 1 h afternoon learning of 12 species, tested the evening after a recovery night. Both groups had a 6.5 h daily sleep opportunity (6.5 h continuous, or 5 h nocturnal plus a 1.5 h nap at 14:00), but polysomnography showed the split group obtained significantly less total sleep, by about 15 min. "signiﬁcantly better memory of species learned in the afternoon" was found for certain memories (d = 0.71; group-by-time interaction p = 0.021), with no group difference for morning learning (d = 0.31, n.s.). For overall memory there was no significant group-by-time interaction (p = 0.32); a planned comparison favoured the split group for afternoon-learned species only, t(56) = 2.177, p = 0.034, d = 0.57, with no difference for morning learning.
+Three-day amphibian factual-knowledge experiment: 1 h morning and 1 h afternoon learning of 12 species, tested the evening after a recovery night. Both groups had a 6.5 h daily sleep opportunity (6.5 h continuous, or 5 h nocturnal plus a 1.5 h nap at 14:00), but polysomnography showed the split group obtained significantly less total sleep, by about 12 min (354.71 vs 366.69 min averaged over the two recorded days; t(53) = 4.682, p < 0.001). "signiﬁcantly better memory of species learned in the afternoon" was found for certain memories (d = 0.71; group-by-time interaction p = 0.021), with no group difference for morning learning (d = 0.31, n.s.). For overall memory there was no significant group-by-time interaction (p = 0.32); a planned comparison favoured the split group for afternoon-learned species only, t(56) = 2.177, p = 0.034, d = 0.57, with no difference for morning learning.
 
 > "Independent samples t-tests revealed signiﬁcantly better memory of species learned in the afternoon for the split sleep group relative to the continuous sleep group, t(56) = 2.7, p = 0.009, Cohen's d = 0.71"
 

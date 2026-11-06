@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Teachers found Hero Elementary playlist hands-on activities easy to implement because materials were supplied and prepped.
-description: Teachers found Hero Elementary playlist hands-on activities easy to implement because materials were supplied and prepped.
+title: Teachers reported finding Hero Elementary playlist hands-on activities relatively easy to implement, with lesson planning and hands-on materials supplied and prepped.
+description: Teachers reported finding Hero Elementary playlist hands-on activities relatively easy to implement, with lesson planning and hands-on materials supplied and prepped.
 id: hero-elementary-hands-on-activities-easy-implementation-prepped-materials
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 newest_evidence: 2020
+source_checked: 2026-11-06
 sources:
   - id: li-2020
     resource: "https://www.cde.ca.gov/ds/dd/index.asp"
@@ -20,15 +21,15 @@ sources:
     rigour: 2
 ---
 
-# Teachers found Hero Elementary playlist hands-on activities easy to implement because materials were supplied and prepped.
+# Teachers reported finding Hero Elementary playlist hands-on activities relatively easy to implement, with lesson planning and hands-on materials supplied and prepped.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 > **Design limits** · Li 2020: no comparison group (read from the study by two models, 2026-10-25)
 
 ## Subclaims
-`q2 i?` Teachers reported that hands-on activity implementation was relatively easy when lesson planning materials and hands-on materials were supplied and prepped. [→ Li 2020](#li-2020)
+`q2 i?` Teachers appreciated having the hands-on materials supplied and reported finding implementation relatively easy with the lesson planning materials provided; one attributed the ease to everything being "already prepped". This is teachers' perception, not a test of whether the prepped materials made implementation easier. [→ Li 2020](#li-2020)
 
 ## Evidence
 

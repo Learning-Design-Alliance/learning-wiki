@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 theoretical `r2` · `q3`–`q4` · `i2` medium · n=2426 (58 independent comparisons)
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 When learners must mentally integrate information that is physically or temporally separated — such as a diagram and its explanatory text presented apart — working memory resources are consumed by search-and-match processes, degrading learning relative to integrated presentations.
 

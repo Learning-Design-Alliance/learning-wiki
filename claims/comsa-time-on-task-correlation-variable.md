@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-06
 sources:
   - id: brendan-a-schuetze-2024
     resource: "https://doi.org/10.1007/s10648-024-09853-6"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Approximately 8.5% of simulation runs produced negative correlations between time-on-task and achievement, explained by the norm of study constraint causing high-performing students to study less. [→ Brendan A. Schuetze 2024](#brendan-a-schuetze-2024)
+`q2 i?` Approximately 8.5% of simulation runs produced negative correlations between time-on-task and achievement, which the author suggests could be explained by the norm of study constraint leading high-performing students to study less. [→ Brendan A. Schuetze 2024](#brendan-a-schuetze-2024)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Brendan A. Schuetze. (2024). A Computational Model of School Achievement. Educat
 
 `q2 · i?` · `theoretical · r3`
 
-Simulation analysis identifying that "approximately 8.5% of the simulation data" showed negative correlations, attributed to the norm of study constraint creating an illusory negative relationship confounded with prior knowledge.
+Simulation analysis identifying that "approximately 8.5% of the simulation data" showed negative correlations between time on task and achievement. The author offers a possible explanation rather than a demonstrated mechanism: these "could be explained by" the norm of study constraint leading already high-performing students not to study much.
 
 > "As for the instances where there is a negative correlation (approximately 8.5% of the simulation data), this could be explained by situations where the norm of study constraint causes already high-performing students not to study much at all."
 

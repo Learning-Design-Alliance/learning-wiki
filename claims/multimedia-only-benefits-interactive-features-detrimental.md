@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Multimedia-only stories benefit story comprehension, whereas stories that also include interactive features do not
-description: Multimedia-only stories benefit story comprehension, whereas stories that also include interactive features do not
+title: Multimedia-only stories benefit story comprehension, whereas stories that also include interactive features show no significant benefit
+description: Multimedia-only stories benefit story comprehension, whereas stories that also include interactive features show no significant benefit
 id: multimedia-only-benefits-interactive-features-detrimental
 status: review
 generated:
@@ -36,16 +36,16 @@ sources:
     rigour: 2
 ---
 
-# Multimedia-only stories benefit story comprehension, whereas stories that also include interactive features do not
+# Multimedia-only stories benefit story comprehension, whereas stories that also include interactive features show no significant benefit
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · quant-synthesis `r2`–`r3` · `q3` · `i1`–`i2`
-> **Currency** · newest study 2015 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q3 i1` Stories including only multimedia features had a positive additional effect on story comprehension (g+ = 0.39), while stories including both multimedia and interactive features showed no significant effect (g+ = -0.14). [→ Takacs 2015](#takacs-2015)
 `q3 i1` Multimedia stories significantly outperformed both oral-only presentations (g+ = 0.43) and presentations with static illustrations (g+ = 0.36). [→ Takacs 2015 (2)](#takacs-2015-2)
-`q3 i2` For disadvantaged children, multimedia stories showed a strong additional effect on story comprehension (g+ = 0.66) while stories with interactive features did not. [→ Takacs 2015 (3)](#takacs-2015-3)
+`q3 i2` For disadvantaged children, multimedia stories showed a strong additional effect on story comprehension (g+ = 0.66) while the effect of stories with interactive features was nonsignificant; the difference between the two was significant (Qbetween(1) = 7.22, p < .01). A nonsignificant effect does not show that interactive features have no benefit or that they are detrimental. [→ Takacs 2015 (3)](#takacs-2015-3)
 
 ## Evidence
 

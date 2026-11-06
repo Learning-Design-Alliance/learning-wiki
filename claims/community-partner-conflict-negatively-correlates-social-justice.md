@@ -9,6 +9,7 @@ generated:
   at: 2026-09-26
 evidence_strength: moderate
 newest_evidence: 2020
+source_checked: 2026-11-06
 sources:
   - id: harkins-2020
     resource: "https://doi.org/10.3998/mjcsloa.3239521.0026.202"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
-> **Currency** · newest study 2020 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2020 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i3` Conflict between student and community partner negatively correlated with social justice (r = -.38, p < .01) and diversity (r = -.36, p < .01) attitudes; antagonism negatively correlated with social justice (r = -.41, p < .001) and diversity (r = -.36, p < .01) attitudes. [→ Harkins 2020](#harkins-2020)
@@ -37,7 +38,7 @@ Harkins, D. A., Grenier, L. I., Irizarry, C., Robinson, E., Ray, S., & Shea, L.-
 
 `q2 · correlational analysis` · `i3 · r = −.38 and −.41 with social justice attitudes (i3 under r bins), r = −.36 with diversity attitudes (i2)` · `associational · r1`
 
-Correlational analyses of community partner-student NRI-SPV variables against CASQ outcomes across all participants. The article reports that negative relationship qualities specifically undermined social justice and diversity attitudes, while positive qualities correlated with civic action.
+Correlational analyses of community partner-student NRI-SPV variables against posttest CASQ outcomes in the mentored group only (MG, n = 60 of 125 participants; only the MG completed the NRI-SPV). Negative relationship qualities (conflict, antagonism) were negatively correlated with social justice and diversity attitudes, while positive qualities correlated with civic action; these are associations and do not show that the relationship qualities caused the attitudes.
 
 > "conflict between student and community partner negatively correlated with CASQ social justice (r = -.38, p < .01) and diversity (r = -.36, p < .01) attitudes; antagonism between student and community partner also negatively correlated with CASQ social justice (r = -.41, p < .001) and diversity (r = -.36, p < .01) attitudes"
 

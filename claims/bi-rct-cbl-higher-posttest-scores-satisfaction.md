@@ -1,7 +1,7 @@
 ---
 type: claim
-title: In a randomised trial of 80 first-year postgraduate oncology trainees, CBL produced significantly higher examination scores and satisfaction than traditional lecture-based learning, though confidence intervals crossed the null for examination results
-description: In a randomised trial of 80 first-year postgraduate oncology trainees, CBL produced significantly higher examination scores and satisfaction than traditional lecture-based learning, though confidence intervals crossed...
+title: In a randomised trial of 80 first-year postgraduate oncology trainees, a CBL group that also had PowerPoint teaching reported significantly higher examination scores and satisfaction than lecture-based teaching, though confidence intervals crossed the null for examination results
+description: In a randomised trial of 80 first-year postgraduate oncology trainees, CBL plus PowerPoint summaries was reported to give significantly higher examination scores and satisfaction than lecture-based teaching; the design does not isolate CBL, and examination confidence intervals crossed the null
 id: bi-rct-cbl-higher-posttest-scores-satisfaction
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 2
 ---
 
-# In a randomised trial of 80 first-year postgraduate oncology trainees, CBL produced significantly higher examination scores and satisfaction than traditional lecture-based learning, though confidence intervals crossed the null for examination results
+# In a randomised trial of 80 first-year postgraduate oncology trainees, a CBL group that also had PowerPoint teaching reported significantly higher examination scores and satisfaction than lecture-based teaching, though confidence intervals crossed the null for examination results
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
@@ -38,7 +38,7 @@ Vundum Jonathon, Day Fiona. (2025). Evaluating the Efficacy of Case-Based Learni
 
 `q2 · i?` · `review · r2`
 
-Randomised controlled trial (Bi et al., 2019) in which 80 first-year postgraduate oncology trainees in China were randomly assigned 1:1 to CBL or traditional lecture-based teaching for a lung cancer curriculum. The review attributes the reported "statistically significant improvements in the experimental group" while noting examination confidence intervals crossed the null.
+Randomised controlled trial (Bi et al., 2019) in which 80 first-year postgraduate oncology trainees in China were randomly assigned 1:1 to CBL (small-group case discussion, with PowerPoint used to summarise course materials) or traditional lecture-based teaching delivered with PowerPoint for a lung cancer curriculum. Because the CBL group also received PowerPoint teaching, the review says "it could be argued that the study is actually examining whether CBL and traditional learning methodologies are better than traditional learning methodologies alone", so the comparison does not isolate CBL. The review attributes the reported "statistically significant improvements in the experimental group" while noting examination confidence intervals crossed the null.
 
 > "All 80 eligible participants successfully completed a dichotomous questionnaire and examination two weeks after the course finale without dropout. The authors reported statistically significant improvements in the experimental group with respect to participant satisfaction and examination results. Confidence intervals were not provided for analysis of questionnaire results and crossed the null value with respect to examination results."
 

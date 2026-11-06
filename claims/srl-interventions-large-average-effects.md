@@ -27,7 +27,7 @@ sources:
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Across 74 experimental or quasi-experimental studies of SRL interventions in primary and lower secondary school, the average effect size was about three-quarters of a standard deviation. [→ Mathias Allemand 2026](#mathias-allemand-2026)
+`q3 i?` As this conceptual article summarises Dignath & Büttner's (2008) meta-analysis, across 74 experimental or quasi-experimental studies of SRL interventions in primary and lower secondary school, the average effect size was about three-quarters of a standard deviation. [→ Mathias Allemand 2026](#mathias-allemand-2026)
 
 ## Evidence
 
@@ -37,7 +37,7 @@ Mathias Allemand, Brent W. Roberts, Ulrich Trautwein. (2026). Integrating Insigh
 
 `q3 · i?` · `theoretical · r3`
 
-The review reports, citing Dignath & Büttner (2008), a meta-analysis of SRL interventions with 8,619 students from Grade 1 to 10. The article states the average effect "was about three-quarters of a standard deviation—large by most effect size standards", consistent across achievement, strategy use, and motivation; no standardized effect size value is printed.
+A conceptual article comparing volitional personality-change and SRL interventions, not itself a meta-analysis; in its section on empirical evidence it summarises, citing Dignath & Büttner (2008), a meta-analysis of SRL interventions with 8,619 students from Grade 1 to 10. The article states the average effect "was about three-quarters of a standard deviation—large by most effect size standards", consistent across achievement, strategy use, and motivation; no standardized effect size value is printed.
 
 > "Across 74 experimental or quasi-experimental studies with control groups and hundreds of effect sizes, the average effect size was about three-quarters of a standard deviation—large by most effect size standards."
 

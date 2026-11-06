@@ -9,6 +9,7 @@ generated:
   at: 2026-10-20
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-06
 sources:
   - id: kittle-2024
     resource: "https://doi.org/10.1007/s10648-024-09942-6"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q3` · `i3` large
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i3` A meta-analysis found a strong linear relationship between L2 decoding and L2 reading comprehension (r = 0.54, p < 0.001), and age had a significant impact in that the magnitude decreased as children got older. [→ Kittle 2024](#kittle-2024)
+`q3 i3` A meta-analysis (Melby-Lervåg & Lervåg, 2011, as reported in this review of reviews) found a strong linear relationship between L2 decoding and L2 reading comprehension (r = 0.54, p < 0.001), and age had a significant impact in that the magnitude decreased as children got older. [→ Kittle 2024](#kittle-2024)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Kittle, J. M., Amendum, S. J., & Budde, C. M. (2024). What Does Research Say Abo
 
 `q3 · i3` · `review · r2`
 
-Meta-analysis using correlations from six studies, one of which included Norwegian as the L2. The review reports r = 0.54, p < 0.001, and notes only one of the six studies used an L2 other than English, so results strongly suggest English decoding is an essential SOR component for MLs.
+A systematic review of systematic reviews, reporting a meta-analysis by Melby-Lervåg and Lervåg (2011) that used correlations from six studies, one of which included Norwegian as the L2. The review reports that meta-analysis's r = 0.54, p < 0.001, and notes only one of the six studies used an L2 other than English, so results strongly suggest English decoding is an essential SOR component for MLs.
 
 > "Again, they found a strong linear relationship between L2 decoding and L2 reading comprehension (r = 0.54, p < 0.001) and that age had a significant impact on the magnitude of the correlation in that it decreased as children got older."
 

@@ -9,13 +9,14 @@ generated:
   at: 2026-09-26
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: zhang-beibei-et-al-2026
     resource: "https://doi.org/10.1371/journal.pone.0358951"
     title: "Zhang Beibei et al. (2026). A sequential integrating virtual simulation and authentic video for preschool teacher candidates' observational skills training: A design-based intervention study. PLoS One. https://doi.org/10.1371/journal.pone.0358951"
     author: Zhang Beibei et al
     q: 2
-    i: "?"
+    i: 2
     kind: design
     rigour: 2
 ---
@@ -23,11 +24,11 @@ sources:
 # No significant difference between virtual simulation and authentic video on the basic observation dimension of assignments
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Evidence** · 1 study · design `r2` · `q2` · `i2` medium
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Basic observation dimension scores did not differ significantly between VS and AV conditions. [→ Zhang Beibei et al 2026](#zhang-beibei-et-al-2026)
+`q2 i2` Basic observation dimension scores did not differ significantly between VS and AV conditions (d = −0.658, 95% CI −1.411 to 0.131). [→ Zhang Beibei et al 2026](#zhang-beibei-et-al-2026)
 
 ## Evidence
 
@@ -35,9 +36,9 @@ sources:
 
 Zhang Beibei et al. (2026). A sequential integrating virtual simulation and authentic video for preschool teacher candidates' observational skills training: A design-based intervention study. PLoS One. https://doi.org/10.1371/journal.pone.0358951
 
-`q2 · i? · only t, z and p printed; no effect size` · `design · r2`
+`q2 · i2 · d = −0.658 (lower under VS), 95% CI −1.411 to 0.131, not significant` · `design · r2`
 
-Paired comparison of the observation dimension (objective description of children's behaviors) after the VS and AV workshops; Wilcoxon check also non-significant (z = −1.620, p = 0.105). Equivalence was not tested; only non-significance is reported.
+Paired comparison of the observation dimension (objective description of children's behaviors) after the VS and AV workshops (VS 34.50 ± 0.89, AV 35.38 ± 0.74); Table 2 prints Cohen's d = −0.658 with a 95% CI of −1.411 to 0.131, which spans zero, and the Wilcoxon check was also non-significant (z = −1.620, p = 0.105). Equivalence was not tested; only non-significance is reported, and the interval is wide enough to include a large difference.
 
 > "Although there was a mean difference between the two, it did not reach statistical significance (t = −1.861, p = 0.105 > 0.05)."
 

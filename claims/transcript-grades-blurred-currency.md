@@ -9,12 +9,13 @@ generated:
   at: 2026-09-25
 evidence_strength: weak
 newest_evidence: 1976
+source_checked: 2026-11-06
 recheck_by: 1979
 sources:
-  - id: fricke-1976
+  - id: ericksen-1976
     resource: "https://eric.ed.gov/?id=ED127854"
-    title: "Fricke, B. G. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854"
-    author: Fricke, B. G.
+    title: "Ericksen, S. C. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854"
+    author: Ericksen, S. C.
     q: 1
     i: "?"
     kind: theoretical
@@ -25,21 +26,21 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 1976 · not yet checked against its sources · not reviewed by a person · **overdue for a recheck since 1979**: tool and model accuracy changes quickly
+> **Currency** · newest study 1976 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person · **overdue for a recheck since 1979**: tool and model accuracy changes quickly
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
-`q1 i?` The transcript of course credits and grades is the accepted currency for exchanging information about student performance levels, but its meaning is blurred by inflation, Pass/Fail grading and changing conceptions of grading. [→ Fricke 1976](#fricke-1976)
+`q1 i?` The transcript of course credits and grades is the accepted currency for exchanging information about student performance levels, but its meaning is blurred by inflation, Pass/Fail grading and changing conceptions of grading. [→ Ericksen 1976](#ericksen-1976)
 
 ## Evidence
 
-### Fricke 1976
+### Ericksen 1976
 
-Fricke, B. G. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854
+Ericksen, S. C. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854
 
 `q1 · i? · the article prints no effect size for this finding` · `theoretical · r2`
 
-The author's framing statement that the transcript is "the accepted currency" for performance information and that its meaning "is blurred" by inflation, Pass/Fail grading and changing conceptions. No data are reported.
+The memo was written by Stanford C. Ericksen (it cites B. G. Fricke's separate 1975 report and his grading recommendations). The author's framing statement that the transcript is "the accepted currency" for performance information and that its meaning "is blurred" by inflation, Pass/Fail grading and changing conceptions. No data are reported.
 
 > "The transcript of course credits and grades is the accepted currency for the exchange of information about levels of performance achieved by students. Due to inflation, Pass/Fail grading and changing conceptions of grading, the meaning of this transcript information is blurred"
 

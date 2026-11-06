@@ -27,7 +27,7 @@ sources:
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` A systematic review of AI-driven adaptive learning systems in higher education reports academic performance gains of 15–25% and improved learner engagement of up to 40%. [→ Simon Baradziej 2026](#simon-baradziej-2026)
+`q2 i?` A systematic review of the roles of agentic AI in higher education (48 studies, six roles, one of them personalised learning and adaptive tutoring) reports academic gains of 15–25% and engagement increases of up to 40%, figures it attributes in its text to Yuensook et al.'s (2025) review of AI-driven adaptive learning systems. [→ Simon Baradziej 2026](#simon-baradziej-2026)
 
 ## Evidence
 
@@ -37,7 +37,7 @@ Simon Baradziej. (2026). A systematic review of the roles of agentic AI in highe
 
 `q2 · i?` · `review · r3`
 
-The review reports, citing Yuensook et al. (2025), a synthesis of AI-driven adaptive learning systems in higher education finding "academic per - formance gains of 15–25%" and engagement improvements of up to 40%. These are second-hand percentages, not effect sizes, and the review notes methodological limitations temper causal claims.
+A PRISMA systematic review of 48 studies (2023–March 2026) of the roles agentic AI takes in higher education, which identified six roles, personalised learning and adaptive tutoring among them; its abstract says "Reported outcomes include academic gains of 15–25%, engagement increases of up to 40%, and substantial reductions in grading time". In its body the review reports, citing Yuensook et al. (2025), a synthesis of AI-driven adaptive learning systems in higher education finding "academic per - formance gains of 15–25%" and engagement improvements of up to 40%. These are second-hand percentages, not effect sizes, and the review notes methodological limitations temper causal claims.
 
 > "Yuensook et al. (2025), in their systematic review of AI-driven adaptive learning systems in higher education, report academic per - formance gains of 15–25% and improved learner engagement of up to 40% across the studies included in their synthesis."
 

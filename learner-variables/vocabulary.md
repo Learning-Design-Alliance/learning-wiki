@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 226 claims (169 show a difference, 28 mixed, 29 no difference) · 149 studies (88 causal, 30 associational, 15 quant-synthesis, 11 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 33 of 149 report an effect size · 223 claims rest on one study
+> **Evidence** · 226 claims (168 show a difference, 29 mixed, 29 no difference) · 149 studies (88 causal, 30 associational, 15 quant-synthesis, 11 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 33 of 149 report an effect size · 223 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -194,7 +194,7 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Posttest expressive language scores were significantly higher in the experiment group than the control group, while receptive language scores did not differ significantly](../claims/posttest-between-group-expressive-significant-receptive-null.md) [~M] — instruction changes it
 - [The control group, continuing the regular preschool program, also showed significant pretest-to-posttest vocabulary gains](../claims/control-group-regular-program-vocabulary-gains.md) [+M] — instruction changes it
 - [The Interactive Story Reading Method produced significant pretest-to-posttest gains in expressive language vocabulary in the experiment group](../claims/interactive-story-reading-expressive-prepost-gains.md) [+M] — instruction changes it
-- [Children taught with the Interactive Story Reading Method gained significantly in receptive vocabulary from pretest to posttest, as did the control group, with no significant posttest difference between the groups](../claims/interactive-story-reading-receptive-prepost-gains.md) [+M] — instruction changes it
+- [Children taught with the Interactive Story Reading Method gained significantly in receptive vocabulary from pretest to posttest, as did the control group, with no significant posttest difference between the groups](../claims/interactive-story-reading-receptive-prepost-gains.md) [~W] — instruction changes it
 - [Initial receptive vocabulary knowledge predicted response to universal Tier-1 vocabulary instruction for students receiving only classroom instruction](../claims/initial-vocabulary-predicts-tier1-response.md) [+M] — learners who differ on it differ in outcomes
 - [Initial vocabulary knowledge moderated the Tier-2 intervention effect on target word learning, favoring students with higher initial PPVT scores](../claims/initial-vocabulary-moderates-target-word-intervention-effect.md) [~M] — an instructional effect differs with it
 - [Tier-2 small-group vocabulary intervention improved at-risk kindergartners' expressive target word learning compared to at-risk controls receiving Tier-1 instruction only](../claims/tier2-vocabulary-intervention-improves-target-word-learning.md) [+M] — instruction changes it

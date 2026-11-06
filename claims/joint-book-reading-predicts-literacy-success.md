@@ -42,7 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 3 quant-synthesis `r3` · `q3` · `i2` medium
-> **Currency** · newest study 2011 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 The frequency and quality of adult–child shared book reading during early childhood is associated with later reading achievement, vocabulary growth, and emergent literacy skills. The claim is predictive rather than causal: the association is well established, but the unique causal contribution of shared reading itself remains contested.
 
@@ -50,7 +50,7 @@ The frequency and quality of adult–child shared book reading during early chil
 
 `q3 i2` Across the studies in a meta-analysis of how often parents read to preschoolers, reading frequency was related to language growth, emergent literacy and reading achievement (d = .59, about 8% of variance). The association held regardless of family socioeconomic status and grew smaller once children could read on their own. [→ Bus et al. 1995](#bus-et-al-1995)
 
-`q3 i2` Interactive (dialogic) shared reading adds to ordinary shared reading on vocabulary: a meta-analysis of 16 intervention studies measured vocabulary only (not literacy more broadly), and for the 9 studies measuring expressive vocabulary (k = 9, n = 322) the effect was moderate (d = .59), but it shrank substantially for 4- to 5-year-olds and for children at risk of language and literacy impairment. [→ Mol et al. 2008](#mol-et-al-2008)
+`q3 i2` Interactive (dialogic) shared reading adds to ordinary shared reading on vocabulary: a meta-analysis of 16 intervention studies pooled vocabulary outcomes only (not later reading achievement), and for the 9 studies measuring expressive vocabulary (k = 9, n = 322) the effect was moderate (d = .59), but it shrank substantially for 4- to 5-year-olds and for children at risk of language and literacy impairment. [→ Mol et al. 2008](#mol-et-al-2008)
 
 `q3 i2` Print exposure correlates moderately to strongly with reading comprehension and with technical reading and spelling from preschool to university (99 studies, N = 7,669). The authors read this as an upward spiral of causality and suggest that shared reading to pre-readers "may be part of" that continuum; the study measured leisure-time print exposure, not joint book reading, so it bears on this claim only indirectly. [→ Mol & Bus 2011](#mol-bus-2011)
 
@@ -70,7 +70,7 @@ Mol, S. E., Bus, A. G., de Jong, M. T., & Smeets, D. J. H. (2008). Added Value o
 
 `q3 · meta-analysis of intervention studies` · `i2 · medium effect, d=.59 (expressive vocabulary)` · `n=16 studies (expressive vocabulary: k=9, n=322 children)` · `quant-synthesis · r3`
 
-This meta-analysis included 16 studies that compared a dialogic reading intervention group, in which the child takes an active part in the reading, with a reading-as-usual control group and measured vocabulary ([dialogic reading](../elements/dialogic-reading.md)). For expressive vocabulary, measured in 9 of the 16 studies (k = 9, n = 322), the added value of dialogic reading was moderate: d = .59 (SE = .08, 95% CI 0.44–0.75). The study measured vocabulary only, so it bears on the language side of this claim rather than on later reading achievement. The effect shrank substantially when the children were older (4 to 5 years) or at risk for language and literacy impairments. Dialogic reading changed the home literacy activities of families with 2- to 3-year-olds, but not those of families whose children were at greatest risk of school failure. This comparison between two reading formats is the page's best evidence that interaction quality matters. It also qualifies the claim, because the benefit is smallest for the children most in need.
+This meta-analysis included 16 studies that compared a dialogic reading intervention group, in which the child takes an active part in the reading, with a reading-as-usual control group and measured vocabulary ([dialogic reading](../elements/dialogic-reading.md)). For expressive vocabulary, measured in 9 of the 16 studies (k = 9, n = 322), the added value of dialogic reading was moderate: d = .59 (SE = .08, 95% CI 0.44–0.75). The child outcome it pooled was vocabulary only (it did not meta-analyse later reading achievement), so it bears on the language side of this claim. The effect shrank substantially when the children were older (4 to 5 years) or at risk for language and literacy impairments. Beyond the vocabulary outcomes, the abstract also reports on families' home literacy activities: "Dialogic reading can change the home literacy activities of families with 2- to 3-year-old children but not those of families with children at greatest risk for school failure." This comparison between two reading formats is the page's best evidence that interaction quality matters. It also qualifies the claim, because the benefit is smallest for the children most in need.
 
 ### Mol & Bus 2011
 

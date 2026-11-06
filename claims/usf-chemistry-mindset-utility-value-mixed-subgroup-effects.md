@@ -14,7 +14,7 @@ sources:
     resource: "https://doi.org/10.51388/20.500.12265/162"
     title: "Peters, V., Pakhira, D., White, L., Fennelly-Atkinson, R., & Means, B. (2022). Designing gateway statistics and chemistry courses for today's students: Case studies of postsecondary course innovations. Digital Promise. https://doi.org/10.51388/20.500.12265/162"
     author: "Peters, V., Pakhira, D., White, L., Fennelly-Atkinson, R., & Means, B."
-    q: 3
+    q: 2
     i: "?"
     kind: design
     rigour: 2
@@ -23,11 +23,11 @@ sources:
 # A general chemistry utility-value and growth mindset intervention showed statistically significant positive outcomes overall but statistically nonsignificant outcomes for underrepresented students
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · design `r2` · `q3`
+> **Evidence** · 1 study · design `r2` · `q2`
 > **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` The University of South Florida chemistry innovation found statistically significant positive outcomes overall (Tier 3) but statistically nonsignificant positive outcomes for Black, Hispanic, or American Indian students. [→ Peters 2022](#peters-2022)
+`q2 i?` As summarised in a case-study report citing Wang et al. (2021), a study of the University of South Florida chemistry innovation found statistically significant positive outcomes overall (Tier 3) but statistically nonsignificant positive outcomes for Black, Hispanic, or American Indian students. [→ Peters 2022](#peters-2022)
 
 ## Evidence
 
@@ -35,9 +35,9 @@ sources:
 
 Peters, V., Pakhira, D., White, L., Fennelly-Atkinson, R., & Means, B. (2022). Designing gateway statistics and chemistry courses for today's students: Case studies of postsecondary course innovations. Digital Promise. https://doi.org/10.51388/20.500.12265/162
 
-`q3 · i?` · `design · r2`
+`q2 · i?` · `design · r2`
 
-Randomized study of a general chemistry course innovation combining peer-based instruction with utility-value and growth mindset homework prompts; the article reports significant overall outcomes but nonsignificant outcomes for underrepresented students, with no effect sizes printed.
+A Digital Promise report of case studies of eight postsecondary statistics and chemistry course innovations. In its account of the University of South Florida general chemistry innovation (peer-based instruction with utility-value and growth mindset homework prompts) it summarises a separate study, Wang et al. (2021), as finding significant overall outcomes but nonsignificant outcomes for underrepresented students, and rates that evidence ESSA Tier 3 (promising evidence: a correlational design with statistical controls), not a randomized trial; hence `q2`. No effect sizes are printed. The report's abstract does not mention this study; the detail comes from its body text.
 
 > "a study of the University of South Florida's general chemistry course innovation found statistically significant positive outcomes overall (Tier 3) but statistically nonsignificant positive outcomes for underrepresented students identified as Black, Hispanic, or American Indian (Wang et al., 2021)."
 

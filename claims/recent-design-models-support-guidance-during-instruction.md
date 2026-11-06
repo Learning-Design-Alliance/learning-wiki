@@ -9,11 +9,12 @@ generated:
   at: 2026-10-13
 evidence_strength: weak
 newest_evidence: 2006
+source_checked: 2026-11-06
 sources:
   - id: kirschner-2006
     resource: "https://doi.org/10.1207/s15326985ep4102_1"
-    title: "Kirschner, P; Sweller, John; Clark, Robert. (2006). Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. Journal Article. http://hdl.handle.net/1959.4/50516. [doi:10.1207/s15326985ep4102_1](https://doi.org/10.1207/s15326985ep4102_1)"
-    author: Kirschner, P; Sweller, John; Clark, Robert
+    title: "Kirschner, P; Sweller, John; Clark, Richard E. (2006). Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. Journal Article. http://hdl.handle.net/1959.4/50516. [doi:10.1207/s15326985ep4102_1](https://doi.org/10.1207/s15326985ep4102_1)"
+    author: Kirschner, P; Sweller, John; Clark, Richard E.
     q: 1
     i: "?"
     kind: theoretical
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
-> **Currency** · newest study 2006 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2006 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Recent developments in instructional research and instructional design models provide support for guidance during instruction. [→ Kirschner 2006](#kirschner-2006)
@@ -33,7 +34,7 @@ sources:
 
 ### Kirschner 2006
 
-Kirschner, P; Sweller, John; Clark, Robert. (2006). Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. Journal Article. http://hdl.handle.net/1959.4/50516. [doi:10.1207/s15326985ep4102_1](https://doi.org/10.1207/s15326985ep4102_1)
+Kirschner, P; Sweller, John; Clark, Richard E. (2006). Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. Journal Article. http://hdl.handle.net/1959.4/50516. [doi:10.1207/s15326985ep4102_1](https://doi.org/10.1207/s15326985ep4102_1)
 
 `q1 · i?` · `theoretical · r?`
 

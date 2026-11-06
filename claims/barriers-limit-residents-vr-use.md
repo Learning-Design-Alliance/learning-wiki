@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: mosling-marte-2026
     resource: "https://doi.org/10.1186/s12909-026-08729-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Physical discomfort (cybersickness), headset-glasses incompatibility, technical and logistical issues, unsuitable rooms, unpredictable workload and lack of dedicated time prevented residents from using VR simulation regularly. [→ Mosling Marte 2026](#mosling-marte-2026)
@@ -37,7 +38,7 @@ Mosling Marte, Horn Julie, Xanthoulis Athanasios. (2026). Stepping into the virt
 
 `q2 · i?` · `qualitative · r3`
 
-Theme 2 of the reflexive thematic analysis of interviews with eleven first-year residents identified external and internal factors shaping use. Cybersickness was "a major barrier for some participants", and for those using prescription glasses, glasses incompatibility was "a major factor in their decision not to use the headset".
+Theme 2 of the reflexive thematic analysis of seven interviews with ten first-year residents (eleven agreed to take part and one dropped out; the participant table gives n = 10, though the abstract says eleven were interviewed) identified external and internal factors shaping use. Cybersickness was "a major barrier for some participants", and for those using prescription glasses, glasses incompatibility was "a major factor in their decision not to use the headset".
 
 > "External factors such as equipment, space and availability came in addition to other tasks that competed for their time. This increased the barrier to using VR simulation."
 

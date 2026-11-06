@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r2` · `q3`–`q4` · `i0`–`i1`
-> **Currency** · newest study 2021 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Structured Literacy Interventions Help Struggling Readers -->
 
 Structured literacy is explicit, systematic, cumulative instruction in phonemic awareness, phonics, and decoding. Two meta-analyses are recorded for students who struggle: among treatments for children and adolescents with reading disabilities, phonics instruction was the only one with a statistically confirmed effect, and that effect was small after adjustment for publication bias (g′ = 0.198); Orton-Gillingham interventions (branded programs and unbranded interventions based on OG principles) showed positive but non-significant effects (ES = 0.22 and 0.14).

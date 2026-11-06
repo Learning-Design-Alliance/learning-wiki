@@ -9,6 +9,7 @@ generated:
   at: 2026-11-02
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-06
 sources:
   - id: naumenko-and-naumenko-2016
     resource: "https://doi.org/10.13187/ejced.2016.17.335"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Students in the experimental groups showed an average increase of 18.5% in tolerant consciousness across academic years on the self-report questionnaire (average 78.0% before to 96.5% after, Table 3); expert ratings were reported separately as showing positive dynamics, with no percentage change given. [→ Naumenko and Naumenko 2016](#naumenko-and-naumenko-2016)
+`q2 i?` Students in the experimental groups showed an average increase of 18.5 percentage points in tolerant consciousness on the self-report questionnaire (before and after values averaged over the four academic-year cohorts: 78.0% to 96.5%, Table 3); expert ratings were reported separately as showing positive dynamics, with no percentage change given. [→ Naumenko and Naumenko 2016](#naumenko-and-naumenko-2016)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Evgeny A. Naumenko, Olga N. Naumenko. (2016). Pedagogical Experience on Formatio
 
 `q2 · i?` · `causal · r1`
 
-Four-year teaching experiment with 73 students aged 17–20 in experimental groups, assessed by a 50-item questionnaire and two independent expert groups on a 10-point scale. The article reports "an average change in the development of tolerant component in consciousness" of 18.5% per academic year; no effect size or significance test statistic is printed.
+Four-year teaching experiment with 73 students aged 17–20 in experimental groups, assessed by a 50-item questionnaire and two independent expert groups on a 10-point scale. The article reports "an average change in the development of tolerant component in consciousness" of 18.5%, which is the difference between the averaged before and after values across the four academic-year cohorts (78.0% to 96.5%, Table 3), not a separately reported per-year rate. No treatment effect size or significance test for this change is printed; the concordance coefficients W in Tables 5 and 6 (e.g. 0.54/0.61) measure agreement among the expert raters, not the size of the change.
 
 > "An average change in the development of tolerant component in consciousness in the academic year was defined by quantitative measures – 18, 5 %."
 

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Philanthropic Studies case: ePortfolio moved from a capstone-only final project to full curricular integration across four required courses over a decade"
-description: "Philanthropic Studies case: ePortfolio moved from a capstone-only final project to full curricular integration across four required courses over a decade"
+title: "Philanthropic Studies case: ePortfolio moved from a capstone-only final project (2013) to four required courses (by 2017), described as the foundation for fully integrating it into the curriculum"
+description: "Philanthropic Studies case: ePortfolio moved from a capstone-only final project (2013) to four required courses (by 2017), described as the foundation for fully integrating it into the curriculum"
 id: philanthropic-studies-epportfolio-curricular-integration
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-11-06
 sources:
   - id: case-integration
     title: case-integration
@@ -18,11 +19,11 @@ sources:
     rigour: 2
 ---
 
-# Philanthropic Studies case: ePortfolio moved from a capstone-only final project to full curricular integration across four required courses over a decade
+# Philanthropic Studies case: ePortfolio moved from a capstone-only final project (2013) to four required courses (by 2017), described as the foundation for fully integrating it into the curriculum
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q1`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
@@ -36,7 +37,7 @@ Kahn, S., Freeman, T., & Powell, A. A. (2021, November). IUPUI's HIP taxonomy fo
 
 `q1 · i?` · `design · r2`
 
-Single-program case study of the IUPUI Philanthropic Studies B.A. The authors describe the 2013 capstone launch as an elementary level that "did not emphasize structural and design elements," typical of early-stage ePortfolio projects, followed by curricular changes in 2016-2017 and 2017 that spread ePortfolio across four courses; no outcome statistics are printed.
+Single-program case study of the IUPUI Philanthropic Studies B.A. The authors describe the 2013 capstone launch as an elementary level that "did not emphasize structural and design elements," typical of early-stage ePortfolio projects, followed by curricular changes in 2016-2017 and 2017 that spread ePortfolio across four courses. The authors call these four courses "the foundation for fully integrating" ePortfolio and say the program still "strives for greater integration and cohesiveness among courses and across the curriculum", so integration is presented as ongoing, not complete. The "more than a decade" in the case refers to the program's whole ePortfolio journey since its 2010 inception, not the 2013-2017 transition. No outcome statistics are printed.
 
 > "The first-year seminar, the pre-internship course, and the internship course, along with the capstone, created the foundation for fully integrating ePortfolio as a central pedagogy in the Philanthropic Studies curriculum."
 

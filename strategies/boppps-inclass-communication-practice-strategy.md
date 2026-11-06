@@ -17,7 +17,7 @@ sources:
 # Pair BOPPPS with in-class communication practice (e.g. SBAR role-play) rather than micro-lectures for doctor-patient communication skills
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 causal), `q2`–`q3` · 1 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 causal), `q2`–`q3` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 Because the study found no micro-lecture advantage for communication-related skills, the article recommends that the acquisition of communication skills be handled through in-class teaching sessions. It cites work combining BOPPPS with the SBAR communication mode, in which "replacing micro-lectures with in-class SBAR practice, students in the experiment group showed significant improvement compared to the control group", demonstrating the BOPPPS model's potential for macroscopic subjects and its blended nature.

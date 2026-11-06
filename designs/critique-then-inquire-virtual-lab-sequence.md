@@ -17,7 +17,7 @@ sources:
 # Critique-then-inquire sequence for virtual lab activities
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A lesson-level sequence in which students first critique problematic inquiry cases and then conduct science inquiries with a virtual lab. The article states that before inquiry, students "were required to critique problematic inquiry cases (the critique group) or watch teachers' demonstrations (the teacher demonstration group) before taking part in the inquiry." The critique-first variant aligned with developing inquiry skills and scientific literacy, supporting a design where evaluation of flawed experiments precedes hands-on virtual experimentation.

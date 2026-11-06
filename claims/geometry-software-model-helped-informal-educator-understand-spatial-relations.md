@@ -1,7 +1,7 @@
 ---
 type: claim
-title: A dynamic geometry model of the quilt problem helped an informal educator understand its spatial relations
-description: A dynamic geometry model of the quilt problem helped an informal educator understand its spatial relations
+title: A geometry-software model of the quilt problem helped an informal educator understand its spatial relations, by her own report
+description: A geometry-software model of the quilt problem helped an informal educator understand its spatial relations, by her own report
 id: geometry-software-model-helped-informal-educator-understand-spatial-relations
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-09-24
 evidence_strength: weak
 newest_evidence: 2023
+source_checked: 2026-11-06
 sources:
   - id: lili-zhou-2023
     resource: "https://eric.ed.gov/?id=ED658339"
@@ -20,11 +21,11 @@ sources:
     rigour: 2
 ---
 
-# A dynamic geometry model of the quilt problem helped an informal educator understand its spatial relations
+# A geometry-software model of the quilt problem helped an informal educator understand its spatial relations, by her own report
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because a design page cites it; treat it as a lead to check, not an established finding.
 
 ## Subclaims

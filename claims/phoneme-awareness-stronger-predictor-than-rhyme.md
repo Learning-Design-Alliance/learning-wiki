@@ -42,7 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 3 associational `r?` · `q2`
-> **Currency** · newest study 2004 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 
 Awareness of individual phonemes — the ability to segment and manipulate the smallest sound units in words — predicts later reading and spelling achievement more strongly than awareness of larger sound units such as rhymes and syllables.
 

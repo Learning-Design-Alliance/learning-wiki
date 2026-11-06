@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: weak
 newest_evidence: 2023
+source_checked: 2026-11-06
 sources:
   - id: fiorella-2023
     resource: "https://doi.org/10.1007/s10648-023-09769-7"
@@ -40,7 +41,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · review `r2`–`r3` · `q2`
-> **Currency** · newest study 2023 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-06 (automated, 3 of 3 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students who self-explained provided diagrams generated more inferences and performed better on a comprehension test than students who explained text only (Ainsworth & Loizou, 2003, as reported by the review). [→ Fiorella 2023](#fiorella-2023)
@@ -65,7 +66,7 @@ Fiorella, L. (2023). Making Sense of Generative Learning. Educational Psychology
 
 `q2 · i?` · `review · r2`
 
-Narrative review attributing this to Bobek and Tversky (2016): college students learning tire-pump and bonding texts wrote self-explanations or drew. The review reports the drawing advantage across both physical-system and abstract-comparison materials; no effect size printed.
+Narrative review attributing this to Bobek and Tversky (2016): college students learning tire-pump and bonding texts wrote self-explanations or drew. The review reports the drawing advantage on comprehension across both physical-system and abstract-comparison materials; no effect size printed. The comparison is drawing versus writing verbal summaries, both from text-only materials, and the review notes that because the study "tested explaining and drawing separately" it "could not directly assess how drawing affected the quality of students' explanations": this entry bears on comprehension, not on explanation quality.
 
 > "Learners who created drawings exhibited higher comprehension test performance than learners who wrote verbal summaries"
 
