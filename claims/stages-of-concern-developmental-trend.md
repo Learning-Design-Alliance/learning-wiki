@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: moderate
 newest_evidence: 1977
+source_checked: 2026-11-06
 sources:
   - id: loucks-1977
     resource: "https://eric.ed.gov/?id=ED250163"
@@ -24,11 +25,11 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 1977 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1977 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
-`q2 i?` Over a year of SCIS implementation, teachers' concerns at Stages 0, 1, and 2 decreased over time while concerns at Stages 4, 5, and 6 increased, supporting the developmental hypothesis. [→ Loucks 1977](#loucks-1977)
+`q2 i?` In a one-year longitudinal study of teachers who attended an SCIS workshop, some of whom were not yet using the curriculum when the study began, teachers' concerns at Stages 0, 1, and 2 decreased over time while concerns at Stages 4, 5, and 6 increased, supporting the developmental hypothesis. [→ Loucks 1977](#loucks-1977)
 
 ## Evidence
 
@@ -38,7 +39,7 @@ Loucks, Susan F. (1977). Concerns Expressed by Elementary School Teachers about 
 
 `q2 · i?` · `associational · r1`
 
-Longitudinal SoCQ study of Kansas elementary teachers implementing SCIS, assessed five times from May 1975 to April 1976; thirty individuals provided data at every period. The article reports "a general developmental trend" in concerns across the analyses.
+One-year longitudinal SoCQ study of the concerns of Kansas elementary teachers who had attended a two-week SCIS workshop in 1974 or 1975, including initial nonusers of the curriculum, assessed up to five times from May 1975 to April 1976. Thirty individuals consistently returned their questionnaires: twenty from the 1975 workshop group completed all five, and ten from the 1974 group completed four, because they were not given the July questionnaire. The article reports "a general developmental trend" in concerns across the analyses.
 
 > "Stages of Concern for individuals in the sample followed a general developmental trend from being more intense at the lower Stages of Concern to becoming more intense at the higher Stages of Concern."
 

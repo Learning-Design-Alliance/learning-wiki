@@ -45,6 +45,6 @@ Post-hoc tests with a Bonferroni-corrected significance level revealed that "par
 
 
 ## Related Claims
-- [Multiple-choice single-select items are less difficult than open-ended response questions, and delayed perceived task difficulty ratings relate more strongly to relative item difficulty for open-ended items](answer-format-availability-affects-difficulty-and-ratings.md) — related
+- [In one German secondary-school chemistry test, multiple-choice single-select items were less difficult than open-ended items, and delayed perceived task difficulty ratings related more strongly to relative item difficulty for open-ended items](answer-format-availability-affects-difficulty-and-ratings.md) — related
 - [The four exam subjects differed in perceived task difficulty, cognitive load, and strategy use, with Mathematics and the profile subject rated more difficult than English](exam-subjects-differ-difficulty-load-strategies.md) — related
 - [Participants rated the complex three-population scenario as more difficult than the simple one-population scenario](visigarp-scenario2-difficulty.md) — related

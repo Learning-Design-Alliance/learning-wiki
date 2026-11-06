@@ -67,3 +67,4 @@ Trainee survey responses (n = 454) on perceptions and preferences regarding vasc
 - [Most faculty perceived a decline in landmark-based skills among recent graduates over the preceding 5 years](faculty-perceive-declining-landmark-competence.md) — related
 - [Trainees report greater confidence with ultrasound-guided than with landmark-based cannulation for both IJV and RA access](trainees-greater-confidence-ultrasound-guided-cannulation.md) — related
 - [Both EM residents and PGY trainees reported significantly lower procedural stress with ultrasound guidance](lower-stress-with-us-guidance-both-groups.md) — related
+- [Current institutional access to ultrasound equipment is associated with higher confidence, with access rates varying by institution type, while residency institution type shows no association with confidence](ultrasound-equipment-access-confidence.md) — related

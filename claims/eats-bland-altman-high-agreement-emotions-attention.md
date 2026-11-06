@@ -68,3 +68,4 @@ Same Bland–Altman comparison for the attention measure: the article reports "a
 - [EATS detected disgust with lower agreement (90%) than other basic emotions, highlighting a limitation of facial-expression-only measurement](eats-disgust-lower-agreement-limitation.md) — related
 - [In four weeks of live online lectures, neutral emotion dominated and rose from 84.60% to 88.40% while happiness declined from 10.36% to 2.92%](eats-neutral-dominant-happiness-declined-four-weeks.md) — related
 - [A Duchenne smile versus a neutral expression does not increase medical students' trustworthiness ratings of avatar trustees](duchenne-smile-no-trustworthiness-effect.md) — related
+- [Advanced medical students display a higher proportion of happy facial expressions and a lower proportion of neutral expressions during simulated consultations than 1st semester students](happy-facial-expressions-higher-advanced-medical-students.md) — related

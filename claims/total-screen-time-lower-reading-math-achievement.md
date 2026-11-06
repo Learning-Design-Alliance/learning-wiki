@@ -103,3 +103,4 @@ Primary adjusted proportional odds analysis (Table 3) of 3322 grade 3 and 2084 g
 - [Video game use (any vs none) in young children is associated with lower grade 3 reading achievement in the combined sample](video-game-use-lower-grade3-reading.md) — related
 - [Video game use is associated with lower grade 3 reading and math achievement among female students but not among male students](video-game-use-sex-specific-grade3-female.md) — related
 - [TV viewing at age 11 is negatively associated with mathematics ability at age 17 among male adolescents](tv-viewing-age-11-lower-math-age-17-males.md) — related
+- [Children in this sample averaged more than 3 hours of screen time per day, about three times recommended limits](children-exceed-3-hours-daily-screen-time.md) — related

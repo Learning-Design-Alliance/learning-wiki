@@ -50,6 +50,7 @@ The article recommends a staggered learning approach in which complex semi-quant
 - [Scaffold method choice by student progression: CBL early, transitioning to PBL and TBL](scaffold-cbl-early-transition-pbl-tbl.md)
 - [Phased internship mentorship: build self-efficacy before introducing complex teaching responsibilities](phased-internship-efficacy-before-competence-tasks.md)
 - [Prioritize high-difficulty competencies such as image optimization and metric precision in curriculum design](prioritize-high-difficulty-competencies-curriculum.md)
+- [Sequence DP training from emotion regulation and foundational skills to higher-order skills](dp-emotion-regulation-first-sequencing.md)
 
 ## Examples
 -

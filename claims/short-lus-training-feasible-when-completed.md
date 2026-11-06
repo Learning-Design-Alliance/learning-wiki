@@ -49,3 +49,5 @@ Proficiency analysis among the 83 physicians completing both assessments; "71 (8
 - [Clinical conclusion — diagnosing from LUS findings — was the most difficult assessment area](lus-clinical-conclusion-lowest-score.md) — related
 - [Physicians under 40 years had a higher LUS certification rate than those 40 or older](younger-physicians-higher-lus-certification.md) — related
 - [Most physicians felt comfortable acquiring LUS images after 6–15 supervised examinations and viewed the five-examination requirement as appropriate](supervised-scan-comfort-threshold.md) — related
+- [FLUS was feasible in general practice (all but two scans completed, no unexpected events) but time-consuming (median 15 minutes)](flus-feasibility-general-practice-median-15-min.md) — related
+- [General practitioners who completed the tailored FLUS training program achieved high practical assessment scores (96-100% of maximum LUS-OSAUS)](gp-flus-training-high-practical-assessment-scores.md) — related

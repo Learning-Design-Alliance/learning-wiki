@@ -48,7 +48,7 @@ Post-scenario difficulty ratings (1 = easy to 5 = difficult) in the 30-participa
 ## Related Claims
 - [University students without qualitative-reasoning experience improved their Cerrado ecology domain knowledge after interacting with VISIGARP](visigarp-domain-knowledge-gains.md) — related
 - [Participants answered the VISIGARP inspection exercises with high accuracy (M = 94.3%)](visigarp-treatment-accuracy.md) — related
-- [Multiple-choice single-select items are less difficult than open-ended response questions, and delayed perceived task difficulty ratings relate more strongly to relative item difficulty for open-ended items](answer-format-availability-affects-difficulty-and-ratings.md) — related
+- [In one German secondary-school chemistry test, multiple-choice single-select items were less difficult than open-ended items, and delayed perceived task difficulty ratings related more strongly to relative item difficulty for open-ended items](answer-format-availability-affects-difficulty-and-ratings.md) — related
 - [Elaborative interrogation increased perceived difficulty and time spent with the lesson](elaborative-interrogation-increases-difficulty-and-time-on-lesson.md) — related
 - [Delayed perceived task difficulty ratings relate more strongly to the relative difficulty of the more demanding items within a task set, consistent with delayed ratings being affected by the most demanding item](delayed-ratings-track-most-demanding-items.md) — related
 - [Task complexity and task difficulty are distinct concepts](task-complexity-distinct-from-difficulty.md) — related

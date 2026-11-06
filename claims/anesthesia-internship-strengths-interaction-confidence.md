@@ -51,3 +51,4 @@ Qualitative content analysis (SWOT-directed, Graneheim & Lundman coding) of inte
 - [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
 - [Repeated clinical exposure reduces fear and develops professional self-efficacy in nursing students managing delirium](repeated-exposure-builds-delirium-self-efficacy.md) — related
 - [Participants reported that the internship model's main weaknesses were using students as instruments, increased fatigue, and drift from principled scientific performance](anesthesia-internship-weaknesses-instrument-fatigue.md) — related
+- [Nursing students reported enhanced academic self-efficacy and professional identity after the in-class flipped classroom](enhanced-self-efficacy-and-professional-identity.md) — related

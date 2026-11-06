@@ -28,7 +28,8 @@ A longitudinal dataset from the Transition and Innovation (TRAIN) study containi
 - [Negative boredom–interest factor correlations grew stronger over the four waves, indicating increasing divergence during secondary school](../claims/boredom-interest-correlations-increase-over-waves.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [National Educational Panel Study Starting Cohort 2 (Kindergarten, SC2)](national-educational-panel-study-starting-cohort-2-kindergarten-sc2.md)
 
 ## Key Sources
 - Kopatz, M., Wagner, W., Neuendorf, C., Trautwein, U., Nagengast, B., and Bardach, L. (2025). Class Composition Effects in Achievement and Interest and the Role of the Learning Environment Revisited: A Conceptual Replication and Extension of Lavrijsen et al. (2022). Preprint. https://osf.io/n5xur/?view_only=48daea427ab44c9abd13b21b1e2b42f6

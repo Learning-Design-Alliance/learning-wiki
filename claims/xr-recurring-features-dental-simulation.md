@@ -50,3 +50,4 @@ Systematic narrative synthesis of the included studies, presented in text and Ta
 - [Immersive media environments enable higher visual and behavioral realism of pedagogical agents than non-immersive formats](xr-higher-agent-realism-than-non-immersive.md) — related
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — related
 - [Evidence on the pedagogical effectiveness of haptic training in dentistry is sparse, with a recent review finding most of 36 included studies were cross-sectional with short-term evaluation data](paucity-haptic-dental-training-evidence.md) — related
+- [Positional tracking and force sensing were considered important simulator features](position-and-pressure-sensing-important-features.md) — a narrower finding that bears on this claim

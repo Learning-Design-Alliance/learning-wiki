@@ -31,6 +31,7 @@ A corpus of 9,800 expert-validated Chinese multiple-choice questions from 2022â€
 ## Related Products and Programmes
 
 - [Curated dataset of 189 multistep clinical cases (473 questions) from the Chinese National Medical Licensing Examination](curated-dataset-of-189-multistep-clinical-cases-473-questions-from-the-chinese-national-me.md)
+- [Curated EUNACOM question dataset of 1,062 Spanish-language medical licensure items](curated-eunacom-question-dataset-of-1062-spanish-language-medical-licensure-items.md)
 
 ## Key Sources
 - Zhan Xinju, Yu Weihua, Cai Jianshu, Chen Jionghuang. (2026). From knowledge to judgment: A three-year longitudinal analysis of artificial intelligence large language model performance on the Chinese national nurse licensing examination. PLoS One. https://doi.org/10.1371/journal.pone.0353059

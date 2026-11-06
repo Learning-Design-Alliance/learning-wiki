@@ -68,6 +68,7 @@ Adaptive systems work by keeping each learner operating at the edge of their cur
 - [Select adaptive prompts through rule-linked feedback thresholds and priorities](threshold-priority-prompt-selection.md)
 - [Use coordination-based indicators rather than inactivity alone to trigger alerts and adaptive interventions for struggling groups](coordination-based-alert-strategy.md)
 - [Intelligent tutoring systems can adapt practice schedules based on prior knowledge and target knowledge type.](adaptive-practice-schedules-its.md)
+- [Continuously tailor rehearsal difficulty by adjusting skill criteria and task demands](dp-ongoing-difficulty-tailoring.md)
 
 ## Examples
 - **[ASSISTments](https://www.assistments.org)** — free math platform that adapts problem selection and scaffolding based on student responses; evaluated in randomized controlled trials in Maine middle schools.

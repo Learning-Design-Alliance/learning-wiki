@@ -51,3 +51,4 @@ Regression analysis of questionnaire data from 1,193 junior high students in Gua
 - [Class cadre status and grade level relate to learning engagement, and gender relates to achievement goal orientations, among Chinese junior high students](cadre-grade-gender-differences-engagement.md) — related
 - [Future orientation moderates the first-stage paths from perceived teacher support to mastery approach and performance approach goals, but not to avoidance goals](future-orientation-moderates-approach-goal-paths.md) — related
 - [Perceived teacher support has a significant positive direct effect on middle school students' mathematics performance after controlling for gender and age](teacher-support-direct-effect-math-performance.md) — related
+- [Teacher–student relationships are positively associated with students' perceived teaching quality in Chinese high school students](tsr-positive-association-perceived-teaching-quality-chinese-high-school.md) — related

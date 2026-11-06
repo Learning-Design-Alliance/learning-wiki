@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2021
+source_checked: 2026-11-06
 sources:
   - id: schmidt-mw-2021
     resource: "https://doi.org/10.1093/bjsopen/zraa066"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r1` · `q2`
-> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2021 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the Vargas RCT (38 medical students) and the Whitehurst RCT (20 trainees), no significant differences were found between the VR-trained intervention and control groups on GEARS operative performance or operating time. [→ Schmidt MW 2021](#schmidt-mw-2021)
@@ -49,3 +50,4 @@ Whitehurst RCT (Table 3) comparing 20 gynaecology and urology trainees trained t
 - [Surgeons trained on the dVSS tubes task were significantly faster at creating vesicourethral anastomosis than untrained controls, with no other differences](wang-dvss-training-faster-anastomosis.md) — related
 - [Completion of a dVSS proficiency-based curriculum was associated with significant improvement in RO-SCORE across all domains and significant reduction in NASA-TLX workload](gerull-curriculum-improved-roscore-reduced-workload.md) — related
 - [Dry lab training on the da Vinci Surgical System was the most common training modality in robotic surgery training studies](da-vinci-dry-lab-most-common-training-modality.md) — related
+- [VR-training group outperforms controls on dVSS simulator objective scores for most tasks](dvss-objective-scores-training-group-outperforms.md) — related

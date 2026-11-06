@@ -65,7 +65,7 @@ Correlational analysis found "no significant correlation between students’ awa
 
 
 ## Related Claims
-- [Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while prior knowledge did not affect post-test performance in the PF condition](prior-knowledge-moderates-vf-process-vs-pf.md) — related
+- [Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while in the PF condition prior knowledge showed only a small, non-significant correlation with post-test performance](prior-knowledge-moderates-vf-process-vs-pf.md) — related
 - [Neither the quantity nor the quality of PF students' own solution attempts correlated with their conceptual knowledge acquisition](solution-attempts-not-correlated-with-conceptual-knowledge.md) — related
 - [Observing the complete problem-solving-and-failing process (VF-process) was more effective for conceptual knowledge acquisition than generating one's own failed solutions (PF) prior to instruction](vf-process-outperforms-pf-conceptual-knowledge.md) — related
 - [Students who generated their own solutions or observed the full process did not significantly outperform students who only viewed the outcomes of failed solution attempts on conceptual knowledge](pf-vf-process-not-superior-to-vf-outcome.md) — related

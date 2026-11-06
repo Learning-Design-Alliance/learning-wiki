@@ -51,5 +51,5 @@ Prospective parallel-group RCT; 120 undergraduates stratified by major and rando
 - [After the intervention, the peer-review group showed significantly greater post-lecture knowledge gains than the control group (83 vs 76, p = 0.003)](peer-review-greater-post-lecture-knowledge-gains.md) — related
 - [3DIPT-assisted teaching produces higher simulated NMLE anatomical imaging test scores than traditional internship teaching after 6 months](3dipt-higher-simulated-nmle-anatomical-imaging-scores.md) — related
 - [PBL produces higher examination scores than LBL in undergraduate pharmacology education (SMD = 2.03)](pbl-higher-examination-scores-pharmacology.md) — related
-- [BOPPPS-based blended teaching produces significantly higher final examination and process assessment scores than traditional lecture-based teaching](boppps-higher-final-exam-process-assessment.md) — related
+- [In one nonrandomised quasi-experiment, a BOPPPS-based blended teaching class scored significantly higher on final examination and process assessment than a traditional lecture-based class](boppps-higher-final-exam-process-assessment.md) — related
 - [WeChat-based PBL students scored lower on memorization but higher on understanding and knowledge application than traditional-teaching peers in ophthalmology](wechat-pbl-exam-cognitive-levels-ophthalmology.md) — related

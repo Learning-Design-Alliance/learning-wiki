@@ -39,7 +39,7 @@ The article presents a framework organizing blended learning design around four 
 
 ### Claims
 
-- [Introductory face-to-face meetings are the dominant strategy for stimulating social interaction in blended learning](../claims/introductory-f2f-meeting-stimulates-interaction.md) [+W]
+- [Introductory face-to-face meetings were the most reported way of stimulating social interaction in reviewed blended-learning studies (6 of the 9 that reported on it)](../claims/introductory-f2f-meeting-stimulates-interaction.md) [+W]
 
 ## Related Designs
 - 

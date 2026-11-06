@@ -69,3 +69,4 @@ General-competency satisfaction item in the same questionnaire; the difference r
 ## Related Claims
 - [EBM-BOPPPS clerks achieved significantly higher total OSCE scores than standalone BOPPPS clerks in a neurology clerkship RCT](ebm-boppps-higher-total-osce-neurology-clerkship.md) — related
 - [EBM-BOPPPS clerks showed a significant pre-to-post increase in EBM confidence, concentrated in EBM concepts rather than statistical terms](ebm-boppps-confidence-increase-ebm-concepts.md) — related
+- [Self-learning ability improvement did not survive Bonferroni correction; study pressure did not differ between groups](boppps-self-learning-null-study-pressure-equal.md) — related

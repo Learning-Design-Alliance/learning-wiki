@@ -60,6 +60,7 @@ The review recommends a research agenda for strengthening the evidence base on A
 - [Future active-classroom research should use adequately powered, well-randomized trials measuring a wide range of student outcomes](active-classroom-research-design-recommendations.md)
 - [Use size-matched randomized designs with baseline testing to isolate immersion effects in VR anatomy studies](size-matched-randomized-designs-vr-anatomy-studies.md)
 - [Prioritise flexible, ergonomically adaptable haptic input devices and standardised, longer training protocols in future VR surgical training research](flexible-haptic-input-devices-and-standardised-protocols-strategy.md)
+- [Future RCDP research should assess long-term effects, dose-response across sessions, and standardized protocols with larger randomized samples](rcdp-future-research-recommendations.md)
 
 ## Examples
 -

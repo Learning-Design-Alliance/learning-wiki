@@ -55,3 +55,4 @@ Randomized controlled trial reported in the review: 40 surgical trainees with fe
 - [Virtual-reality simulator training alone failed to show significant transfer to in vivo porcine suturing in a cited prior randomized trial, contrasting with the present physical-simulator findings](vr-simulator-training-no-transfer-porcine-suturing.md) — related
 - [Dry-lab training promotes technical skill development more than VR training](dry-lab-training-exceeds-vr-robotic-skills.md) — a broader claim this one bears on
 - [Speed and accuracy are the technical skills most adversely affected by time out of training, shown quantitatively in robotic VR studies](speed-and-accuracy-most-affected-surgical-skills.md) — reports the opposite
+- [VR-training group achieves higher GEARS-assessed basic robotic surgical skill than untrained controls (24.91 ± 3.36 vs. 19.68 ± 3.07)](dvss-vr-training-higher-gears-scores.md) — related

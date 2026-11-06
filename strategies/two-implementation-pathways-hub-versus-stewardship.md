@@ -48,6 +48,7 @@ The article recommends two implementable pathways: "Centers aiming to function a
 
 - [Tiered certification tracks with regional simulation hubs, mobile units, and shared access to avoid excluding resource-limited centres](tiered-certification-regional-hubs-strategy.md)
 - [Operationalize the faculty standards through structured professional learning pathways with modules, microcredentials, and peer review](professional-learning-pathways-standards-operationalization.md)
+- [Establish standardized team-based training programs and troubleshooting protocols covering console surgeons and surgical assistants](standardized-team-training-troubleshooting-protocols-rats.md)
 
 ## Examples
 -

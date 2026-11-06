@@ -46,3 +46,4 @@ Survey of 516 valid questionnaires from second-year dental students after a hybr
 
 ## Related Claims
 - [Students reported high satisfaction with Simroid robot training across multiple dimensions](simroid-robot-high-student-satisfaction.md) — related
+- [All learner groups rate simulator-based training highly for improving practical skills and transferring theory into practice, with practical-year students rating practical-skill gains highest](sbt-rated-improving-practical-skills.md) — related

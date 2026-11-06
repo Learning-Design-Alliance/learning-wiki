@@ -55,3 +55,4 @@ This is a definitional claim from the literature review, citing Sharples et al. 
 - [Flipped classroom significantly improves pharmacy students' performance compared with traditional lecture-based approaches](flipped-classroom-improves-pharmacy-performance.md) — related
 - [Flipped classroom teaching with structured interaction improves learning outcomes more than lecture-based teaching and a video-lecture control](structured-interaction-flipped-classroom-improves-learning.md) — related
 - [Active processors score higher than reflective processors in both formats, and sequential learners score higher in the flipped classroom](learning-style-wirebending-score-differences.md) — related
+- [Remote flipped classrooms give pharmacy students time flexibility to engage with recorded lectures and revisit content at their convenience](remote-flipped-flexibility-recorded-lectures.md) — a narrower finding that bears on this claim

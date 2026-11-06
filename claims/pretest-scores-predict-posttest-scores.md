@@ -52,7 +52,7 @@ Secondary finding from the multiple regression analyses for both regular and irr
 - [Procedural memory predicts immediate regular-past-tense UGJT posttest scores, controlling for pretest, only under metalinguistic prompts](procedural-memory-predicts-regular-past-ugjt-metalinguistic-prompts.md) — related
 - [Procedural memory shows no association with irregular past tense learning under any CF type](procedural-memory-null-irregular-past-tense.md) — related
 - [Declarative memory predicts immediate UGJT posttest gains for irregular past tense only under recasts](declarative-memory-predicts-irregular-past-ugjt-recasts.md) — related
-- [Declarative memory shows no association with regular past tense learning under any CF type](declarative-memory-null-regular-past-tense.md) — related
+- [Declarative memory was not a significant predictor of regular past tense learning under any CF type](declarative-memory-null-regular-past-tense.md) — related
 - [CF treatment improved regular past tense performance on both GJT and EIT with large effects](cf-treatment-improves-regular-past-tense-gjt-eit.md) — related
 - [Learners in all three corrective-feedback groups improve irregular past tense performance on both GJT and EIT from pretest to posttests, a within-group gain that does not separate the feedback types](cf-treatment-improves-irregular-past-tense-gjt-eit.md) — related
 - [Feedback effects on ungrammatical GJT items were weak because learners already possessed the relevant explicit knowledge](weak-effect-ungrammatical-gjt-items-ceiling.md) — related

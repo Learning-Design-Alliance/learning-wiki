@@ -167,3 +167,4 @@ Two meta-analyses: the first (k=273 studies, N=365,915) examined the correlation
 - [Prior academic achievement is the most important predictor of growth mindset intervention effectiveness on GPA.](prior-achievement-predicts-mindset-intervention-effectiveness.md) — related
 - [The growth mindset intervention had a small but statistically significant positive effect on GPA.](small-significant-gpa-effect-of-mindset-intervention.md) — a narrower finding that bears on this claim
 - [Brief behavioral science interventions offer an opportunity to develop generalizable theories of treatment effect heterogeneity that whole-school reform does not](brief-interventions-enable-heterogeneity-theory.md) — a broader claim this one bears on
+- [Changes in growth mindset predicted changes in math grades only within the intervention group (r = .171), providing indirect evidence for the mindset mechanism.](explore-your-brain-mindset-math-change-correlation.md) — related

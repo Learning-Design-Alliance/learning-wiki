@@ -287,7 +287,7 @@ Adaptive designs operationalize the zone of proximal development: tasks are matc
 - Less effective when the domain lacks decomposable, assessable sub-skills — adaptation algorithms struggle with open-ended, ill-structured tasks
 - Can narrow learning to what is easily measured, over-drilling measurable skills while neglecting transfer and conceptual understanding
 - Algorithmic mastery decisions can misclassify learners when assessments are noisy or sparse, producing premature advancement or unnecessary remediation
-- Adaptation to learner "preferences" or self-reported styles is not supported by evidence and can reduce effectiveness [Learning-styles matching does not improve outcomes.](../claims/intuitive-learners-outperform-sensing-learners.md) [X]
+- Adaptation to learner "preferences" or self-reported styles is not supported by evidence and can reduce effectiveness [Learning-styles matching does not improve outcomes.](../claims/learning-styles-matching-does-not-improve-learning.md) [-S]
 
 ### Target Learners
 - Heterogeneous groups where a single fixed pace leaves some learners lost and others unchallenged

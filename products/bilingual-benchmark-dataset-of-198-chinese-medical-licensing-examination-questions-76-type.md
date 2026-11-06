@@ -26,7 +26,8 @@ A bilingual dataset of 198 text-based Chinese medical licensing examination mult
 - [Language of presentation (Chinese vs. English) has no significant main effect on LLM accuracy on Chinese medical licensing exam questions](../claims/no-language-effect-llm-medical-licensing.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Curated EUNACOM question dataset of 1,062 Spanish-language medical licensure items](curated-eunacom-question-dataset-of-1062-spanish-language-medical-licensure-items.md)
 
 ## Key Sources
 - Tang Yuxia, Chen Jian, Wang Shouju. (2026). Performance benchmarking of LLMs on Chinese national medical licensing education: Cross-lingual and question-type effects. PLoS One. https://doi.org/10.1371/journal.pone.0346518

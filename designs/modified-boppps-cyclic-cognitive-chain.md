@@ -43,6 +43,7 @@ The article contrasts the traditional BOPPPS framework's linear sequence of "kno
 ## Related Designs
 
 - [Tripartite Framework of perioperative clinical reasoning (patient-, surgery-, and anaesthetic-related factors)](tripartite-framework-perioperative-clinical-reasoning.md)
+- [BOPPPS combined with flipped classroom: a six-phase closed-loop teaching pattern for clinical practice training](boppps-flipped-classroom-six-phase-pattern.md)
 
 ## Examples
 -

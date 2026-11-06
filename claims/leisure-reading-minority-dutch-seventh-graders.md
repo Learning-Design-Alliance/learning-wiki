@@ -50,3 +50,4 @@ Survey of 1,071 Dutch seventh graders (548 boys, 523 girls) who selected activit
 - [In the lower track, reading enjoyment relates to school achievement for girls but not for boys among non-leisure readers](lower-track-enjoyment-grades-girls-only.md) — related
 - [In the higher track, reading enjoyment and sex show main effects on non-leisure readers' school achievement, with enjoyers of both sexes scoring higher](higher-track-enjoyment-grades-both-sexes.md) — related
 - [Mental imagery shows no direct relation to school achievement among non-leisure readers, though a ceiling effect limits this null finding](mental-imagery-no-achievement-relation-ceiling.md) — related
+- [Comparable students attending non‐academic track schools show significantly lower seventh‐grade math competence than peers at academic track schools (ATT = 0.272)](att-0272-academic-track-math-advantage.md) — related

@@ -44,7 +44,7 @@ This pattern operationalizes the six BOPPPS stages on the Rain Classroom platfor
 - [Boppps Rain Classroom Higher Class Participation](../claims/boppps-rain-classroom-higher-class-participation.md) [+M]
 - [BOPPPS-based blended teaching produces significantly higher overall course scores than traditional lecture-based teaching](../claims/boppps-higher-overall-course-scores.md) [+W]
 - [Subgroup analyses show some blended BOPPPS effects are not significant for specific specialties and platforms](../claims/blended-boppps-subgroup-null-results.md) [~W]
-- [BOPPPS-based blended teaching produces significantly higher final examination and process assessment scores than traditional lecture-based teaching](../claims/boppps-higher-final-exam-process-assessment.md) [+W]
+- [In one nonrandomised quasi-experiment, a BOPPPS-based blended teaching class scored significantly higher on final examination and process assessment than a traditional lecture-based class](../claims/boppps-higher-final-exam-process-assessment.md) [+W]
 - [A BOPPPS-based structured perioperative observation model was associated with higher learning objective clarity and self-reported purposeful observation than a conventional clerkship in early anesthesiology exposure](../claims/structured-perioperative-observation-improves-objective-clarity.md) [+W]
 
 ## Related Designs

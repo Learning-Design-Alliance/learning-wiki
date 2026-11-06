@@ -51,7 +51,7 @@ The exploratory case study with eight first-graders, using a formative research 
 
 ## Related Claims
 - [First-graders using Kid Space demonstrated high levels of engagement during play-based learning](kid-space-high-engagement-first-graders.md) — related
-- [Kid Space use shifted children's attention away from the screen toward the physical environment](kid-space-less-screen-attention.md) — related
+- [During Kid Space sessions, on-task children looked at the projected screen about three-quarters of the time and at physical elements of the room the rest](kid-space-less-screen-attention.md) — related
 - [Girls in Playworks schools were less likely to be sedentary and more likely to engage in jumping, tag, and playground games during recess](playworks-girls-recess-activity-types.md) — related
 - [Much bodily-material coordination in touchscreen collaboration occurs in the space off the screen](bodily-material-interaction-off-screen.md) — related
 - [School-aged children show reduced physical activity and increased sedentary behavior during the summer break across multiple countries](summer-break-reduced-activity-increased-sedentary.md) — related

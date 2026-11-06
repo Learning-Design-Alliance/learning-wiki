@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2012
+source_checked: 2026-11-06
 sources:
   - id: saedon-h-2012
     resource: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3432628/"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2012 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Feedback usefulness is enhanced by increasing its specificity; the feedback most consistently used was specific, received from patients, and addressed communication skills. [→ Saedon H 2012](#saedon-h-2012)
@@ -52,3 +53,4 @@ Narrative review reporting a qualitative interview study of 28 general practitio
 - [Feedback from well-implemented workplace based assessments, particularly multisource feedback, leads to a perceived positive effect on doctors' practice](wba-feedback-perceived-positive-effect-practice.md) — related
 - [Classic Mini-CEX systematically overlooks OHL communication practices in pediatric pneumonia education](mini-cex-blind-spot-ohl-communication.md) — related
 - [Case-based learning is perceived to improve communication skills, with most students reporting moderate to significant improvement](cbl-communication-skill-improvement-perceived.md) — related
+- [Completing the self-assessment was not burdensome, but recruiting raters — especially asking supervisors — was onerous and the most stressful part of MSF](msf-rater-recruitment-burdensome.md) — related

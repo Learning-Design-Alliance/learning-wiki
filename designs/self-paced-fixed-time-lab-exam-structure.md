@@ -16,7 +16,7 @@ sources:
 # Self-paced, fixed-total-time laboratory examination structure as an alternative to the traditional bell-ringer format.
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 4 claims (2 for, 2 mixed) · 9 studies (9 causal), `q3` · 0 of 9 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (1 for, 3 mixed) · 9 studies (9 causal), `q3` · 0 of 9 report an effect size · 1 claim rests on one study
 
 ## Description
 This pattern is a laboratory examination design in which total test time is standardized but students progress through sequential specimen stations at their own discretion, with no bell chimes or other auditory aids. In the article's randomized crossover study, each examination consisted of 28 to 31 specimen stations with three evenly dispersed rest stations, each specimen station comprising two questions (A/B) primarily focused on identification of anatomical structures. Students progressed linearly without the option to revisit previously completed stations, and the exam set-up, questions, and overall time limit remained identical between pacing conditions.
@@ -38,7 +38,7 @@ This pattern is a laboratory examination design in which total test time is stan
 ### Claims
 
 - [Exam Performance Equivalent Bell Paced Self Paced Anatomy Lab](../claims/exam-performance-equivalent-bell-paced-self-paced-anatomy-lab.md) [+M]
-- [Bell Pacing Exacerbates Reactive Test Anxiety](../claims/bell-pacing-exacerbates-reactive-test-anxiety.md) [+M]
+- [Test anxiety rose significantly from pre- to post-exam under bell-pacing but not under self-pacing in gross anatomy laboratory examinations, though the pacing-by-timepoint interaction was marginally non-significant.](../claims/bell-pacing-exacerbates-reactive-test-anxiety.md) [~W]
 - [Most students paradoxically prefer bell-pacing, a pacing structure that led to greater reactive test anxiety, independent of the pacing structure itself.](../claims/students-prefer-pacing-structure-that-increases-anxiety.md) [~M]
 - [Students identifying as women reported higher levels of reactive test anxiety than students identifying as men, even after controlling for assigned pacing condition.](../claims/women-higher-reactive-test-anxiety-anatomy-lab.md) [~W]
 

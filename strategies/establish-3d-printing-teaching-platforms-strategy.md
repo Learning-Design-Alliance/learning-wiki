@@ -47,7 +47,7 @@ The article recommends that "hospitals and universities can establish 3D printin
 - [3DIPT-assisted teaching produces higher social medical curiosity scores than traditional teaching after 6 months](../claims/3dipt-higher-social-medical-curiosity.md) [+W]
 - [3DIPT-assisted teaching produces higher transformational learning readiness scores than traditional teaching after 6 months](../claims/3dipt-higher-transformational-learning-readiness.md) [+W]
 - [A 3D printing-assisted family-school-hospital collaborative education model was associated with larger gains in medical interns' knowledge of urinary system tumor early screening than traditional teaching, in a non-randomised comparison](../claims/fsph-3d-model-improves-tumor-screening-knowledge.md) [+W]
-- [The collaborative model shows no significant effect on inter-professional teamwork competence or transformative learning readiness](../claims/fsph-3d-model-no-effect-teamwork-transformative-learning.md) [~W]
+- [The collaborative model's results on teamwork competence and transformative learning readiness are mixed: change scores did not differ, while baseline-adjusted ANCOVA favoured it on teamwork competence but not on transformative learning readiness](../claims/fsph-3d-model-no-effect-teamwork-transformative-learning.md) [~W]
 
 ## Related Strategies
 

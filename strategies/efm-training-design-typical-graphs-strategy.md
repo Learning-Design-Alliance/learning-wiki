@@ -42,7 +42,7 @@ Based on the questionnaire results, the authors recommend that fetal monitoring 
 
 ## Claims
 
-- [In one uncontrolled pre-post study, midwives’ interpretation scores rose significantly for uterine contractions, baseline fetal heart rate, variability, decelerations, and comprehensive evaluation after constructivist teaching, but did not change for accelerations](../claims/constructivist-teaching-efm-aspect-gains.md) [+W]
+- [In one uncontrolled pre-post study, midwives’ interpretation scores rose significantly for uterine contractions, baseline fetal heart rate, variability, decelerations, and comprehensive evaluation after constructivist teaching, with no statistically significant change for accelerations](../claims/constructivist-teaching-efm-aspect-gains.md) [+W]
 - [Midwives' overall fetal monitoring interpretation scores rose from 62.35 to 71.36 after constructivist teaching in a single-group pre-post study with no comparison group](../claims/constructivist-teaching-raises-midwife-efm-scores.md) [+W]
 - [Midwives most frequently expected six-monthly training centered on typical graph analysis](../claims/midwife-efm-training-expectations-survey.md) [+W]
 - [All 66 midwives reported prior fetal monitoring training at work, mostly via lectures, and all judged further training necessary](../claims/midwives-report-urgent-efm-training-need.md) [+W]

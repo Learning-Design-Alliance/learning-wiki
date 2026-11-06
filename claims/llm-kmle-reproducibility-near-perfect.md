@@ -51,3 +51,4 @@ Reproducibility analysis in which each model answered 910 A-type KMLE questions 
 - [Gemini 1.5 Pro shows the highest response consistency across 30 repeated exam attempts, significantly exceeding GPT-4o but statistically comparable to Claude](gemini-highest-response-consistency-repeated-attempts.md) — related
 - [Temperature parameter has a statistically significant but negligible effect on GPT-4o exam accuracy (ηG² = 0.0017), with global accuracy peaking at temperature 0.23](temperature-effect-negligible-gpt4o-accuracy.md) — related
 - [Chatbot responses show near-perfect repeatability across no-feedback attempts (κ 0.967-1.000)](chatbot-response-consistency-kappa-near-perfect.md) — related
+- [Temperature settings (0.3, 0.6, 1.3) did not significantly affect GPT-4o accuracy on EUNACOM questions](temperature-no-effect-eunacom-accuracy.md) — related

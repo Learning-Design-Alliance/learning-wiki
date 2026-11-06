@@ -17,7 +17,7 @@ sources:
 # Reordering math and verbal test administration as a classroom-level strategy to reduce stereotype threat in girls’ math testing.
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article presents the order in which math and verbal tests are administered as a practical, ecological lever against stereotype threat. Rather than targeting learners’ beliefs directly, the strategy changes the testing situation itself, so that girls’ math performance is protected from stereotype threat during real test administration. The title names it "An ecological intervention to reduce stereotype threat on girls’ math performance.", indicating the approach is intended for authentic testing contexts rather than laboratory settings.

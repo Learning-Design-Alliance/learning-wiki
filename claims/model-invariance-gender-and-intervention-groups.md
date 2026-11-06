@@ -61,3 +61,4 @@ Multiple-group invariance tests in the longitudinal SEM compared constrained and
 - [Formal tests did not indicate statistically significant gender differences in the MVPA-related associations](no-significant-gender-difference-mvpa-paths.md) — a narrower finding that bears on this claim
 - [The GI/E model relations among achievement, self-concept, and intrinsic value are invariant across gender groups](gender-invariance-gie-model-music-visual-arts.md) — related
 - [Variance-covariance structures of gaming and motivation differ by sex, supporting sex-stratified modeling](sex-noninvariance-gaming-motivation-covariance.md) — reports the opposite
+- [SEL competency associations with reading are invariant by sex, but associations of Self-Awareness and Self-Management with numeracy are significantly stronger for boys than girls](sel-numeracy-associations-stronger-boys.md) — related

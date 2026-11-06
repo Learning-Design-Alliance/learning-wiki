@@ -75,3 +75,4 @@ Crossover RCT (n=60 laparoscopic novices) using iSurgeon AR telestration versus 
 - [Robotic surgical systems reduced mental workload and perceived stress relative to laparoscopic systems in reviewed studies](robotic-systems-reduce-mental-workload-vs-laparoscopic.md) — related
 - [Mixed-reality feedback condition did not significantly affect novices' visual attention or mental workload during laparoscopic training](mr-feedback-no-significant-effect-attention-workload.md) — related
 - [Mixed reality surgical mentoring shows no benefit over audio guidance for combat casualty care procedures](mixed-reality-combat-casualty-null.md) — related
+- [VR-trained participants perform with lower NASA-TLX workload than controls (40.04 ± 10.55 vs. 48.2 ± 9.88)](dvss-vr-training-lower-nasa-tlx-workload.md) — related

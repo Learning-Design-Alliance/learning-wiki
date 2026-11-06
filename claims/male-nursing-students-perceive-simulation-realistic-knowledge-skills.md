@@ -51,3 +51,4 @@ Descriptive qualitative study using semi-structured individual interviews and tw
 - [First simulation experiences with standardized patients strengthen practical self-confidence and contribute to professional identity development in novice nursing students](simulation-builds-self-confidence-and-professional-identity.md) — related
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — a broader claim this one bears on
 - [Male nursing students report developing proficiency in essential obstetric procedures through high-fidelity simulation](hfs-develops-essential-obstetric-skills.md) — related
+- [Dental students strongly prefer manikins for realistic clinical scenarios and report more confidence after manikin training](manikins-preferred-realism-confidence.md) — related

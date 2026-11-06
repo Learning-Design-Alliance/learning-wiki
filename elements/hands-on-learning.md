@@ -13,7 +13,7 @@ generated:
 # Hands-on Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 25 claims (20 for, 5 mixed) · 22 studies (11 causal, 3 quant-synthesis, 3 review, 3 design, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 22 report an effect size · 24 claims rest on one study
+> **Evidence** · 26 claims (21 for, 5 mixed) · 23 studies (11 causal, 4 design, 3 quant-synthesis, 3 review, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 23 report an effect size · 25 claims rest on one study
 
 ## Description
 Hands-on learning is the element in which learners manipulate materials, tools, or environments directly while applying ideas in practice. It is useful when understanding depends on doing, making, testing, or experiencing rather than only discussing.
@@ -44,7 +44,7 @@ Hands-on learning is the element in which learners manipulate materials, tools, 
 - [Teachers reported that simulations, adaptive feedback, and hands-on STEM activities supported students' conceptual understanding and engagement with scientific problem solving](../claims/simulations-adaptive-feedback-support-engagement.md) [+W]
 - [76.5% of students demand a shift toward hands-on practical computer activities over theoretical instruction](../claims/student-demand-hands-on-it-instruction.md) [~W]
 - [Embodied hands-on practices remain important learning activities in AI-era design education](../claims/embodied-hands-on-remains-present.md) [+W]
-- [Teachers found Hero Elementary playlist hands-on activities easy to implement because materials were supplied and prepped.](../claims/hero-elementary-hands-on-activities-easy-implementation-prepped-materials.md) [+W]
+- [Teachers reported finding Hero Elementary playlist hands-on activities relatively easy to implement, with lesson planning and hands-on materials supplied and prepped.](../claims/hero-elementary-hands-on-activities-easy-implementation-prepped-materials.md) [+W]
 - [Three mathematics teacher educators all foregrounded engagement-focused teaching-and-learning activities, variously hands-on problem-solving and group work, collaboration, and student demonstrations with class discussion](../claims/teacher-educators-foreground-engagement-tlas.md) [+W]
 - [Hands-on engagement with an AIDA beta significantly improved students' attitudes toward it, with a large effect size](../claims/aida-hands-on-use-improves-attitudes.md) [+W]
 - [Embodied and cognitive hands-on rely on different feedback sources and are not educationally equivalent](../claims/hands-on-forms-different-feedback-sources.md) [~W]
@@ -64,6 +64,7 @@ Hands-on learning is the element in which learners manipulate materials, tools, 
 - [Active learning based science camp activities improved students' psychomotor skills towards scientific views on environmental issues](../claims/science-camp-improved-psychomotor-skills.md) [+W]
 - [A one-day cadaveric neurosurgical workshop significantly increases general and pediatric surgeons' immediate self-rated confidence across most life-saving cranial trauma procedural steps](../claims/neurosave-immediate-confidence-gains.md) [+W] — attached 2026-11-05 from Górecki W et al. (2026), which proposed "NEUROSAVE one-day cadaveric neurosurgical workshop with six neurosurgeon-supervised stations".
 - [A ChatGPT-supported virtual manipulative learning environment produces higher anatomy academic achievement than simulation-only and traditional teaching](../claims/chatgpt-virtual-manipulatives-higher-anatomy-achievement.md) [+W] — attached 2026-11-05 from An Alternative Approach in Anatomy Education: Design of a Learning Environment Based on Ar, which proposed "Web-based anatomy learning module integrating 3D virtual manipulatives with a ChatGPT sidebar".
+- [Cadaveric ultrasound-guided injection workshops significantly increase physicians' self-reported confidence for hip, knee, and ankle injections, with the largest gain for hip injections](../claims/cadaveric-workshop-confidence-gains-three-joints.md) [+W] — attached 2026-11-06 from Zure Mert et al. (2025), which proposed "One-day cadaveric musculoskeletal ultrasound-guided injection workshop with theoretical sessions and four hands-on stations".
 
 ## The evidence by question
 - *Does a concrete stage help at all over abstract symbols alone?* [Manipulatives Improve Math Learning](../claims/manipulatives-improve-math-learning.md) [+M]

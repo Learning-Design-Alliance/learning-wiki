@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Direct causal effects of self-control and grit account for only 4.4% of school performance variance, with self-control the stronger causal predictor"
-description: "Direct causal effects of self-control and grit account for only 4.4% of school performance variance, with self-control the stronger causal predictor"
+title: "In a causal twin model, the putatively causal effects of self-control and grit account for only 4.4% of school performance variance, most of the association being genetic confounding"
+description: "In a causal twin model, the putatively causal effects of self-control and grit account for only 4.4% of school performance variance, most of the association being genetic confounding"
 id: causal-effects-only-4-percent-school-performance
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-06
 sources:
   - id: kevenaar-2023
     resource: "https://doi.org/10.1038/s41539-023-00198-3"
@@ -20,15 +21,15 @@ sources:
     rigour: 2
 ---
 
-# Direct causal effects of self-control and grit account for only 4.4% of school performance variance, with self-control the stronger causal predictor
+# In a causal twin model, the putatively causal effects of self-control and grit account for only 4.4% of school performance variance, most of the association being genetic confounding
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` In the causal model with A confounding, total explained variance is 16.8%, of which 12.4% is genetic confounding and 4.4% is due to the causal effects; within the 4.4%, self-control (2.84%) outweighs grit (0.27%). [→ Kevenaar 2023](#kevenaar-2023)
-`q3 i?` The causal regression coefficients are b_SP,SC = 0.151 (s.e. 0.027) and b_SP,Grit = 0.047 (s.e. 0.033); the test of b_SP,Grit = 0 yields LRT = 29.18, df = 1, p < 0.001. [→ Kevenaar 2023](#kevenaar-2023)
+`q3 i?` In the causal model with A confounding, total explained variance is 16.8%, of which 12.4% is genetic confounding and 4.4% is attributed to the model's putatively causal regression paths; within the 4.4%, self-control's variance component (2.84%) is larger than grit's (0.27%), although the test of the self-control coefficient was not statistically significant. [→ Kevenaar 2023](#kevenaar-2023)
+`q3 i?` The causal regression coefficients are b_SP,SC = 0.151 (s.e. 0.027) and b_SP,Grit = 0.047 (s.e. 0.033); the test of b_SP,SC = 0 yields LRT = 2.44, df = 1, p = 0.118 (not significant; the parameter was retained), and the test of b_SP,Grit = 0 yields LRT = 29.18, df = 1, p < 0.001, as the article reports them. [→ Kevenaar 2023](#kevenaar-2023)
 
 ## Evidence
 
@@ -38,7 +39,7 @@ Kevenaar, S. T., van Bergen, E., Oldehinkel, A. J., Boomsma, D. I. & Dolan, C. V
 
 `q3 · i?` · `associational · r2`
 
-Causal regression model with A confounding (Model 4), the article's model of choice, fitted to teacher ratings of Dutch 12-year-old twins. In it "self-control (2.84% of the 4.4%) is a stronger predictor than grit (0.27% of the 4.4%)" (Table 5).
+Causal regression model with A confounding (Model 4), the article's model of choice, fitted to teacher ratings of Dutch 12-year-old twins. The 4.4% is the variance attributed to the model's "direct, putatively causal relations"; the authors say such results are consistent with a causal model "but do not prove causality", and that they "have not ruled out the possibility of reverse causation or bidirectional causation". In it "self-control (2.84% of the 4.4%) is a stronger predictor than grit (0.27% of the 4.4%)" (Table 5), but the self-control coefficient's test was not significant (LRT = 2.44, p = 0.118), while grit's was (LRT = 29.18, p < 0.001).
 
 > "The total explained variance of school performance is 16.8%, with by far the largest part (12.4%) due to genetic confounding. The causal effects account for 4.4%"
 

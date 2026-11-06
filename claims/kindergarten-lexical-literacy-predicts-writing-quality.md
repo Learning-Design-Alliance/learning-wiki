@@ -59,3 +59,4 @@ SEM of the 157-child longitudinal sample; narrative model quote shown. A second 
 - [Kindergarten treatment status was negatively related to third-grade expository writing quality](treatment-status-negatively-related-expository-quality.md) — related
 - [Set size, crowding and pre-cue use jointly predict literacy, with set size uniquely predicting spelling and pre-cue use uniquely predicting reading](regression-unique-literacy-predictors.md) — related
 - [Reading comprehension differentially mediates the relations of discourse oral language and lexical literacy to writing quality in Grade 2](reading-comprehension-mediation-writing-quality.md) — related
+- [Spelling accuracy in narrative writing does not significantly differ by writing medium or grade](narrative-spelling-accuracy-no-medium-effect.md) — related

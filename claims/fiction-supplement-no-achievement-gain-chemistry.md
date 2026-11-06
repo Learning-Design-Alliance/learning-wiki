@@ -46,4 +46,4 @@ Quasi-control action research design: one 84-minute block received traditional l
 
 ## Related Claims
 - [Fiction excerpts increased engagement and interest particularly among students who typically underachieved in science](fiction-engages-lower-achieving-chemistry-students.md) — related
-- [Inserting fiction excerpts into chemistry instruction shifted classroom discourse toward more student questions, peer challenge, and evidence-based argumentation](fiction-insertion-shifts-chemistry-discourse.md) — related
+- [A chemistry class taught with inserted fiction excerpts showed more student questions, peer challenge and evidence-based argumentation, a shift the authors do not attribute to the fiction itself](fiction-insertion-shifts-chemistry-discourse.md) — related

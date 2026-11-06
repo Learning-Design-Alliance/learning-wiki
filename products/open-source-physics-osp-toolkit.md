@@ -33,7 +33,7 @@ A free, open-source physics software toolkit, including Easy Java Simulations an
 - [The OSP approach helps users overcome barriers in creating, using and scaling up meaningful ICT use in education](../claims/osp-overcomes-ict-barriers.md) [+W]
 - [After a guided-inquiry lesson with the collision-carts simulation, students' self-reported knowledge of the physics increased and most rated the lesson enjoyable and valuable](../claims/collision-carts-simulation-lesson-positive-student-feedback.md) [+W]
 - [Initial findings suggest video modeling pedagogy is suitable for active and deep learning through predicting, observing and explaining](../claims/video-modeling-suits-active-deep-learning.md) [+W]
-- [Creating computational literature develops computational literacy even when code modification is minor](../claims/creating-computational-literature-develops-computational-literacy.md) [+W]
+- [In a qualitative case study of two student pairs, creating computational literature was associated with computational literacy development even when code modification was minor](../claims/creating-computational-literature-develops-computational-literacy.md) [+W]
 - [Student video analysis of vertical jumps yields a free-fall acceleration estimate close to the local value of g](../claims/video-jump-analysis-estimates-g-near-local-value.md) [+W]
 
 ## Related Products and Programmes
@@ -73,7 +73,7 @@ Open Source Physics (OSP) focuses on the design of computer models, such as Easy
 - [The OSP approach helps users overcome barriers in creating, using and scaling up meaningful ICT use in education](../claims/osp-overcomes-ict-barriers.md) [+W]
 - [After a guided-inquiry lesson with the collision-carts simulation, students' self-reported knowledge of the physics increased and most rated the lesson enjoyable and valuable](../claims/collision-carts-simulation-lesson-positive-student-feedback.md) [+W]
 - [Initial findings suggest video modeling pedagogy is suitable for active and deep learning through predicting, observing and explaining](../claims/video-modeling-suits-active-deep-learning.md) [+W]
-- [Creating computational literature develops computational literacy even when code modification is minor](../claims/creating-computational-literature-develops-computational-literacy.md) [+W]
+- [In a qualitative case study of two student pairs, creating computational literature was associated with computational literacy development even when code modification was minor](../claims/creating-computational-literature-develops-computational-literacy.md) [+W]
 - [Student video analysis of vertical jumps yields a free-fall acceleration estimate close to the local value of g](../claims/video-jump-analysis-estimates-g-near-local-value.md) [+W]
 
 ## Related Elements

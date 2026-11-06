@@ -13,7 +13,7 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 241 claims (164 show a difference, 56 mixed, 21 no difference) · 145 studies (53 associational, 47 causal, 15 review, 11 qualitative, 10 theoretical, 7 design, 2 quant-synthesis), `q1`–`q4` · 36 of 145 report an effect size · 238 claims rest on one study
+> **Evidence** · 242 claims (165 show a difference, 56 mixed, 21 no difference) · 146 studies (53 associational, 47 causal, 15 review, 12 qualitative, 10 theoretical, 7 design, 2 quant-synthesis), `q1`–`q4` · 36 of 146 report an effect size · 239 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
@@ -168,7 +168,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Test boredom correlates negatively with math grades but not with the math test score in Study 1](../claims/test-boredom-negative-grades-not-test-score.md) [~M] — learners who differ on it differ in outcomes
 - [Images during retrieval practice enhanced feelings of competence but not enjoyment](../claims/images-enhance-competence-not-enjoyment.md) [-M] — instruction changes it
 - [Only the current teacher's enthusiasm relates to students' enjoyment; prior-year teacher enthusiasm is unrelated to next-year enjoyment](../claims/current-teacher-only-enjoyment-effect.md) [~M] — instruction changes it
-- [Perceived teacher enthusiasm positively predicts student enjoyment at the within-class (individual student) level](../claims/enthusiasm-within-class-student-enjoyment.md) [+M] — instruction changes it
+- [Perceived teacher enthusiasm is positively associated with student enjoyment at the within-class (individual student) level, beyond prior enjoyment](../claims/enthusiasm-within-class-student-enjoyment.md) [+M] — instruction changes it
 - [Student-perceived teacher enthusiasm mediates the relationship between teacher enjoyment and student enjoyment](../claims/teacher-enthusiasm-mediation-enjoyment.md) [+M] — instruction changes it
 - [Students' enjoyment of mathematics classes decreased significantly but very slightly from Grade 7 to Grade 8](../claims/enjoyment-decline-grade7-8-small.md) [+M] — instruction changes it
 - [Teacher enjoyment and student enjoyment in mathematics classrooms are positively related even after controlling for students' prior-year enjoyment](../claims/teacher-enjoyment-student-enjoyment-positive-link.md) [+M] — instruction changes it
@@ -218,7 +218,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [User testing showed free-form note-taking frustrated users, prompting a redesign to drag-and-drop scaffolding that reduced frustration and improved engagement](../claims/drag-and-drop-notebook-scaffolding-redesign.md) [+W] — instruction changes it
 - [Frustration during the design process was related to unexpected events, with more unexpected events yielding greater frustration and worse perceived performance](../claims/frustration-related-to-unexpected-design-events.md) [+M] — instruction changes it
 - [NASA-TLX dimensions varied by design phase: frustration and mental demand rose considerably in the initial modules, and mental demand was lower during the final manufacturing steps](../claims/nasa-tlx-dimensions-vary-by-design-phase.md) [+M] — instruction changes it
-- [Perceived enjoyment significantly positively influences both satisfaction and perceived impact on learning in CSCL](../claims/enjoyment-influences-satisfaction-and-impact-cscl.md) [+M] — learners who differ on it differ in outcomes
+- [In a cross-sectional survey, students' perceived enjoyment is significantly and positively associated with their satisfaction and perceived impact on learning in CSCL](../claims/enjoyment-influences-satisfaction-and-impact-cscl.md) [+M] — learners who differ on it differ in outcomes
 - [Enjoyment fully mediates the relationship between extroversion and attitude toward the activity](../claims/enjoyment-full-mediation-extroversion-attitude.md) [+M] — learners who differ on it differ in outcomes
 - [Enjoyment inhibits stress during the oral presentation](../claims/enjoyment-inhibits-stress.md) [+M] — learners who differ on it differ in outcomes
 - [More extroverted students perceive greater enjoyment in the combined use of video recording and a wiki](../claims/extroversion-increases-enjoyment-wiki-video-activity.md) [+M] — instruction changes it
@@ -257,7 +257,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Positive academic emotions strongly predict agentic engagement](../claims/pae-predict-agentic-engagement.md) [+M] — learners who differ on it differ in outcomes
 - [Teacher-student relationship quality is positively associated with enjoyment and negatively associated with anxiety and boredom among Chinese college EFL learners](../claims/tsrq-associated-with-efl-achievement-emotions.md) [+M] — measured as an outcome of the instruction studied
 - [Female EFL students report more positive and fewer negative achievement emotions than males, and age and home resources show distinct associations](../claims/gender-age-home-resources-emotion-associations.md) [+M] — measured as an outcome of the instruction studied
-- [In an exam-oriented Chinese EFL context, POE predicts enjoyment and reduced boredom while COI predicts boredom and shows no enjoyment association](../claims/poe-coi-divergent-emotional-pathways.md) [~M] — measured as an outcome of the instruction studied
+- [In an exam-oriented Chinese EFL sample, POE was associated with more enjoyment and less boredom, while COI was associated with more boredom and had no significant adjusted path to enjoyment](../claims/poe-coi-divergent-emotional-pathways.md) [~M] — measured as an outcome of the instruction studied
 - [Students report overwhelmingly positive perceptions of the oral retest intervention, including fairness, pride, and improved retention](../claims/positive-student-perceptions-oral-retest.md) [+M] — measured as an outcome of the instruction studied
 - [No post-simulation emotion significantly predicts perceived individual performance once covariates are included](../claims/no-emotion-predicts-individual-performance.md) [-W] — learners who differ on it differ in outcomes
 - [Academic boredom and behavioural engagement sequentially (chain) mediate the link between EFL PsyCap and EFL achievement](../claims/chain-mediation-boredom-engagement.md) [-W] — learners who differ on it differ in outcomes
@@ -276,6 +276,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Boredom negatively mediates the relationship between teacher caring behavior and English academic performance](../claims/boredom-negative-mediation-tcb-eap.md) [+M] — learners who differ on it differ in outcomes
 - [Positive academic emotions predict performance positively while negative emotions predict it negatively, with hope (β = 0.669) and hopelessness (β = −0.657) leading](../claims/academic-emotions-predict-performance-jiroft.md) [+M] — learners who differ on it differ in outcomes
 - [Self-efficacy, computer anxiety, and enjoyment collectively explained 91% of variance in perceived ease of use, with enjoyment the strongest predictor (β = 0.78)](../claims/enjoyment-strongest-predictor-perceived-ease-of-use.md) [+W] — learners who differ on it differ in outcomes
+- [Nursing students experienced initial confusion followed by progressive exploration and problem-solving in the in-class flipped classroom](../claims/progressive-learning-experience-confusion-to-problem-solving.md) [+W] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

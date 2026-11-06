@@ -42,7 +42,8 @@ The flipped classroom is a blended learning approach that "reverse[s] traditiona
 - [Flipped Classroom Higher Skill Scores Clinical Practice](../claims/flipped-classroom-higher-skill-scores-clinical-practice.md) [+W]
 
 ## Related Designs
-- 
+
+- [In-class flipped classroom model for nursing practice teaching](in-class-flipped-classroom-model.md)
 
 ## Examples
 -

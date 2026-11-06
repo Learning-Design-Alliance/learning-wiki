@@ -86,5 +86,5 @@ Direct-effect estimates (Table 5) from the SEM with N = 310; FLE's direct associ
 - [Personality Traits](../learner-variables/personality-traits.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [In an exam-oriented Chinese EFL context, POE predicts enjoyment and reduced boredom while COI predicts boredom and shows no enjoyment association](poe-coi-divergent-emotional-pathways.md) — related
+- [In an exam-oriented Chinese EFL sample, POE was associated with more enjoyment and less boredom, while COI was associated with more boredom and had no significant adjusted path to enjoyment](poe-coi-divergent-emotional-pathways.md) — related
 - [A two-factor grit structure (COI and POE as distinct factors) fits Chinese senior high school students better than a one-factor model](two-factor-grit-structure-chinese-senior-high.md) — a broader claim this one bears on

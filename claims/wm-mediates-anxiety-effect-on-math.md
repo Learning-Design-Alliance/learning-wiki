@@ -51,7 +51,7 @@ Comparison of two path-model series (WM vs. anxiety as mediator) with bootstrapp
 
 ## Related Claims
 - [Teacher-rated general anxiety is associated with lower verbal working memory performance](general-anxiety-undermines-wm.md) — related
-- [Math anxiety has both a direct negative effect and a WM-mediated indirect effect on children's verbal Math Reasoning, but only an indirect effect on Numerical Operations](math-anxiety-direct-effect-verbal-math-reasoning.md) — a narrower finding that bears on this claim
+- [In a cross-sectional model, math anxiety has both a direct negative path and a WM-mediated indirect path to children's verbal Math Reasoning, but only an indirect path to Numerical Operations](math-anxiety-direct-effect-verbal-math-reasoning.md) — a narrower finding that bears on this claim
 - [Math anxiety partially mediates the relation between attention problems and both math outcomes](math-anxiety-partially-mediates-attention-relation.md) — related
 - [Teacher-rated general anxiety negatively predicts concurrent and future math performance in third and fourth graders](teacher-rated-general-anxiety-predicts-math-performance.md) — related
 - [Working memory fully mediates the effects of math anxiety and attention on children's non-verbal Numerical Operations](wm-fully-mediates-anxiety-attention-numerical-operations.md) — a narrower finding that bears on this claim

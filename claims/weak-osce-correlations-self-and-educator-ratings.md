@@ -50,3 +50,4 @@ Spearman rank correlation analysis relating the 2023–2024 final OSCE (six stat
 - [Age showed a weak but significant positive correlation with all evaluation domains, while gender showed no significant effect](age-correlation-domain-scores.md) — related
 - [Belief in combining learning modalities shows a weak positive correlation with exam scores](multimodal-belief-weak-positive-exam-correlation.md) — related
 - [Students' CGPA correlates weakly and nonsignificantly with clinical rubric performance](cgpa-weak-nonsignificant-correlation-clinical-performance.md) — related
+- [OSCE score correlates positively with yearly average score, though the association is weak](osce-score-correlates-yearly-average.md) — related

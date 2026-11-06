@@ -45,3 +45,4 @@ Characteristics synthesis of the 14 included studies. The review reports the maj
 ## Related Claims
 - [Peer-led and school-based CPR training achieves outcomes comparable to instructor-led models](peer-led-cpr-training-non-inferior.md) — related
 - [School-based CPR training effectively promotes change in CPR knowledge and skills among adolescents](school-cpr-training-improves-adolescent-knowledge-skills.md) — related
+- [Peer instructors dominate simulator-based training for students while physicians most often name physicians as instructors, with few external instructors reported](peer-instructors-dominate-student-sbt.md) — related

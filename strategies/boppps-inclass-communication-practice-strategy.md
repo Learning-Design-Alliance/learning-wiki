@@ -17,7 +17,7 @@ sources:
 # Pair BOPPPS with in-class communication practice (e.g. SBAR role-play) rather than micro-lectures for doctor-patient communication skills
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 2 studies (2 causal), `q2`–`q3` · 1 of 2 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 2 studies (2 causal), `q2`–`q3` · 0 of 2 report an effect size · 3 claims rest on one study
 
 ## Description
 Because the study found no micro-lecture advantage for communication-related skills, the article recommends that the acquisition of communication skills be handled through in-class teaching sessions. It cites work combining BOPPPS with the SBAR communication mode, in which "replacing micro-lectures with in-class SBAR practice, students in the experiment group showed significant improvement compared to the control group", demonstrating the BOPPPS model's potential for macroscopic subjects and its blended nature.
@@ -43,7 +43,7 @@ Because the study found no micro-lecture advantage for communication-related ski
 
 - [The BOPPPS-based micro-lecture system showed no significant advantage over ordinary teaching for doctor-patient communication skills, informed consent, or humanistic care, which the authors deem unsuitable for micro-lecture delivery](../claims/boppps-microlecture-no-communication-advantage.md) [+W]
 - [The BOPPPS-based micro-lecture group outperformed controls on eight of eleven DOPS clinical skills indicators (p < 0.005), with preoperative preparation at the significance threshold and no differences on informed consent or patient communication](../claims/boppps-microlecture-dops-clinical-skills.md) [+W]
-- [Peer role-play and peer assessment improve non-technical clinical competencies (doctor-patient communication, humanistic care, preoperative preparation) with a large effect for communication skills](../claims/peer-roleplay-improves-nontechnical-clinical-competencies.md) [+W]
+- [In a comparison of two consecutive cohorts, adding peer role-play and peer assessment was associated with higher scores on non-technical clinical competencies (doctor-patient communication, humanistic care, preoperative preparation)](../claims/peer-roleplay-improves-nontechnical-clinical-competencies.md) [+W]
 
 ## Related Strategies
 

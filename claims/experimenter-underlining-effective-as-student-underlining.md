@@ -8,6 +8,7 @@ generated:
 id: experimenter-underlining-effective-as-student-underlining
 evidence_strength: moderate
 newest_evidence: 1985
+source_checked: 2026-11-06
 sources:
   - id: nist-1985
     resource: "https://eric.ed.gov/?id=ED265520"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3` · n=67
-> **Currency** · newest study 1985 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 1985 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 13 design pages cite it; treat it as a lead to check, not an established finding.
 <!-- deprecated title (2026-10-05, overstated its evidence): Experimenter-generated underlining is as effective as student-generated underlining for test performance -->
 
@@ -46,7 +47,7 @@ Nist, S. L., & Hogrebe, M. C. (1985). The Effects of High and Low Relevant Text 
 
 `q3 · randomised experiment, conference paper (National Reading Conference 1985), not pre-registered` · `i? · not significant; no effect size printed for this comparison` · `n=67` · `causal · r?`
 
-Sixty-seven college freshmen in a developmental reading/study-strategies course were randomly assigned to five conditions: high- or low-relevant experimenter underlining, each with or without annotation (n = 13, 14, 14, 12), or a control group (n = 13) given an unmarked passage and told to generate their own marking. A Dunnett test compared the control mean with each experimental condition on the high-relevant, low-relevant and total scores of a 24-item test taken the next day, and "the mean of the control group did not differ significantly from the most disparate mean of the four conditions": "subjects who generated their own underlining did not perform significantly better" than those given experimenter-generated underlining. Separately, the relevance of the experimenter's underlining shifted scores toward the emphasized questions (high-relevant score F(1, 49) = 13.56, eta-squared .21; low-relevant score eta-squared .12). The study did not analyse what the control students chose to mark, so it does not show whether selection, rather than the act of marking, explains the result.
+Sixty-seven college freshmen in a developmental reading/study-strategies course were randomly assigned to five conditions: high- or low-relevant experimenter underlining, each with or without annotation (n = 13, 14, 14, 12), or a control group (n = 13) given an unmarked passage and told to generate their own marking. (The article states 67 subjects, but the group sizes in its table sum to 66; it does not explain the difference.) A Dunnett test compared the control mean with each experimental condition on the high-relevant, low-relevant and total scores of a 24-item test taken the next day, and "the mean of the control group did not differ significantly from the most disparate mean of the four conditions": "subjects who generated their own underlining did not perform significantly better" than those given experimenter-generated underlining. Separately, the relevance of the experimenter's underlining shifted scores toward the emphasized questions (high-relevant score F(1, 49) = 13.56, eta-squared .21; low-relevant score eta-squared .12). The study did not analyse what the control students chose to mark, so it does not show whether selection, rather than the act of marking, explains the result.
 
 ## Discussion
 

@@ -65,3 +65,4 @@ One-way ANOVAs in the same self-report cluster analysis confirmed significant di
 ## Related Claims
 - [Log data identify two flipped-classroom clusters, an assessment-oriented approach (higher post-lecture quiz proportion) and a preparation-oriented approach (higher pre-lecture activity proportions)](log-data-preparation-assessment-clusters.md) — related
 - [Students with more favourable perceptions of the learning environment reported a deeper approach, studied longer online, and earned higher marks, but the perception groups did not differ on self-reported surface approach](perceptions-group-differences-approach-time-marks.md) — related
+- [Learning strategy use differs significantly across academic years, with deep strategies lower and surface strategies higher in fifth-year students](learning-strategies-vary-across-academic-years.md) — related

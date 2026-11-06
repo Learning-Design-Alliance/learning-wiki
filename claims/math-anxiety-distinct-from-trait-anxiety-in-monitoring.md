@@ -51,5 +51,5 @@ Hierarchical linear regressions on posttest monitoring judgments controlling for
 - [GenAI literacy dimensions predict critical monitoring beyond traits, use frequency, and perceptions, with critical-ethical awareness the strongest predictor](genai-literacy-predicts-critical-monitoring.md) — related
 - [Math self-efficacy (first four SNS items) was the only variable significantly predicting monitoring judgments on all four health math problems](math-self-efficacy-predicts-monitoring-judgments.md) — related
 - [Math anxiety is not significantly correlated with trait anxiety in young children](math-anxiety-uncorrelated-trait-anxiety-children.md) — related
-- [Math anxiety has both a direct negative effect and a WM-mediated indirect effect on children's verbal Math Reasoning, but only an indirect effect on Numerical Operations](math-anxiety-direct-effect-verbal-math-reasoning.md) — related
+- [In a cross-sectional model, math anxiety has both a direct negative path and a WM-mediated indirect path to children's verbal Math Reasoning, but only an indirect path to Numerical Operations](math-anxiety-direct-effect-verbal-math-reasoning.md) — related
 - [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](math-anxiety-degrades-performance.md) — related

@@ -42,7 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 1 causal `r?`, 1 quant-synthesis `r?`, 1 review `r2` · `q2`–`q4` · `i2` medium
-> **Currency** · newest study 2022 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 Reflection improves learning and performance when it is prompted by structure — specific questions, frameworks, or prompts — rather than left as an unguided invitation to "think about your learning."
 

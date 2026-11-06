@@ -30,7 +30,7 @@ MAIN is a multilingual narrative assessment developed by an international resear
 
 ### Claims
 - [All children retold MAIN episode one with the most complexity and episode two with the least, regardless of age or language group](../claims/episode-one-most-complex-retell-pattern.md) [+W]
-- [No macrostructure measure differs significantly between bilingual and monolingual children, while age improves story structure, internal state terms, comprehension, and aggregate scores but not structural complexity](../claims/macrostructure-stable-across-language-groups.md) [+W]
+- [No macrostructure measure differs significantly between bilingual and monolingual children, while school-age children score higher than preschoolers on story structure, internal state terms, comprehension, and aggregate scores but not structural complexity](../claims/macrostructure-stable-across-language-groups.md) [+W]
 - [Bilingual children showed a nonsignificant advantage on the hardest theory-of-mind comprehension question, and MAIN comprehension questions may be too easy for the age range](../claims/tom2-bilingual-advantage-nonsignificant-comprehension-ceiling.md) [~W]
 - [All narrative microstructure measures increase with age group, but only lexical diversity (NDW) differs between Japanese–English bilingual and English monolingual children](../claims/ndw-only-language-group-difference-narrative-microstructure.md) [+W]
 - [Language × Age interactions show bilingual preschoolers had the lowest MLUm, NDW, and SI scores, while bilingual school-age children produced the most fragments](../claims/bilingual-preschoolers-lowest-microstructure-interactions.md) [~W]
@@ -71,7 +71,7 @@ MAIN is a tool "developed to assess narrative production and comprehension skill
 ### Claims
 <!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
 - [All children retold MAIN episode one with the most complexity and episode two with the least, regardless of age or language group](../claims/episode-one-most-complex-retell-pattern.md) [+W]
-- [No macrostructure measure differs significantly between bilingual and monolingual children, while age improves story structure, internal state terms, comprehension, and aggregate scores but not structural complexity](../claims/macrostructure-stable-across-language-groups.md) [+W]
+- [No macrostructure measure differs significantly between bilingual and monolingual children, while school-age children score higher than preschoolers on story structure, internal state terms, comprehension, and aggregate scores but not structural complexity](../claims/macrostructure-stable-across-language-groups.md) [+W]
 - [Bilingual children showed a nonsignificant advantage on the hardest theory-of-mind comprehension question, and MAIN comprehension questions may be too easy for the age range](../claims/tom2-bilingual-advantage-nonsignificant-comprehension-ceiling.md) [~W]
 - [All narrative microstructure measures increase with age group, but only lexical diversity (NDW) differs between Japanese–English bilingual and English monolingual children](../claims/ndw-only-language-group-difference-narrative-microstructure.md) [+W]
 - [Language × Age interactions show bilingual preschoolers had the lowest MLUm, NDW, and SI scores, while bilingual school-age children produced the most fragments](../claims/bilingual-preschoolers-lowest-microstructure-interactions.md) [~W]

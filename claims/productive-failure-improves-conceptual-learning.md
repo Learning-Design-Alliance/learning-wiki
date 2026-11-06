@@ -50,7 +50,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 4 studies · 2 theoretical `r2`–`r3`, 1 causal `r?`, 1 quant-synthesis `r?` · `q2`–`q4` · `i1` small
-> **Currency** · newest study 2026 · 2 of 4 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 When learners attempt to solve novel problems *before* receiving canonical instruction, they often perform worse on those attempts but learn more from the subsequent instruction than learners who receive instruction first.
 
@@ -170,7 +170,7 @@ The article reports a randomized-controlled experiment comparing problem solving
 - [Productive failure students significantly outperformed lecture-practice and facilitated complex problem solving students on well-structured and higher-order application post-test problems](pf-outperformed-lp-fcps-post-test-problems.md) — a narrower finding that bears on this claim
 - [Providing worked examples of journal entries early (rather than delayed) yields better early journal quality and more conceptual knowledge](early-worked-examples-better-journal-quality.md) — related
 - [Failure-driven and success-driven scaffolding before instruction produce similar posttest conceptual understanding](failure-and-success-scaffolding-similar-posttest-conceptual-understanding.md) — a narrower finding that bears on this claim
-- [Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while prior knowledge did not affect post-test performance in the PF condition](prior-knowledge-moderates-vf-process-vs-pf.md) — related
+- [Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while in the PF condition prior knowledge showed only a small, non-significant correlation with post-test performance](prior-knowledge-moderates-vf-process-vs-pf.md) — related
 - [Observing the complete problem-solving-and-failing process (VF-process) was more effective for conceptual knowledge acquisition than generating one's own failed solutions (PF) prior to instruction](vf-process-outperforms-pf-conceptual-knowledge.md) — a narrower finding that bears on this claim
 - [Structuring the discovery process can outperform unstructured environments, but effects depend on learner characteristics and the knowledge test used](structuring-discovery-process-effects.md) — related
 - [Studying worked examples is more effective and more efficient than problem solving for novice learners (the worked example effect)](worked-example-effect-novices-review.md) — reports the opposite

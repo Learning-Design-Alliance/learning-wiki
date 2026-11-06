@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-06
 sources:
   - id: torgerson-2014
     resource: "https://eric.ed.gov/?id=ED581140"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i3` large
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i3` In a randomised controlled trial of 261 eligible pupils, the intervention group scored 2.53 marks higher on extended writing than controls, an effect size of 0.74 (95% CI 0.26 to 1.22). [→ Torgerson 2014](#torgerson-2014)
+`q3 i3` In a randomised controlled trial in which 23 primary schools were randomised (432 eligible pupils at baseline, 284 of whom attended participating secondary schools), the primary analysis of 261 pupils (142 intervention, 119 control) found the intervention group scored 2.53 marks higher on extended writing than controls, an effect size of 0.74 (95% CI 0.26 to 1.22). [→ Torgerson 2014](#torgerson-2014)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Torgerson, D., Torgerson, C., Ainsworth, H., Buckley, H., Heaps, C., Hewitt, C.,
 
 `q3 · i3` · `causal · r3`
 
-Primary analysis of a pragmatic randomised controlled trial using a cross-classified multilevel model, adjusted for predicted KS2 score, gender, EAL, FSM and month of birth, on 142 intervention and 119 control pupils. The report describes "a significant increase of 2.53 marks" and "an effect size of 0.74".
+Primary analysis of a pragmatic randomised controlled trial in which 23 primary schools (not individual pupils) were randomly allocated 1:1; of 432 eligible pupils at baseline, 284 attended participating secondary schools and 261 were analysed, using a cross-classified multilevel model, adjusted for predicted KS2 score, gender, EAL, FSM and month of birth, on 142 intervention and 119 control pupils. The report describes "a significant increase of 2.53 marks" and "an effect size of 0.74".
 
 > "There was evidence of a difference in extended writing score between the allocated groups, with a significant increase of 2.53 marks for those in the intervention group when compared with those in the control group (p=0.0 02, 95% CI: 0. 90 to 4.16). This relates to an effect size of 0.74 (95% CI: 0.26 to 1.22)."
 

@@ -50,3 +50,4 @@ Documentary content analysis of 16 course syllabi identified 467 quotes related 
 - [Teams and teamwork is the most frequently developed IPEC core competency in interprofessional education, identified in 65 instances across 62 studies](ipe-teams-teamwork-most-frequent-competency.md) — related
 - [Faculty development for interprofessional education emphasizes interprofessional collaborative and facilitation competencies, with communication and teamwork as the most highlighted domains](ipe-faculty-development-competencies-communication-teamwork.md) — related
 - [Emotionally sensitive communication and interpersonal relationship skills are the least represented themes with limited systematic longitudinal development](emotional-competencies-least-represented.md) — related
+- [31% of graduates' interventions were interprofessional, involving teams of different health professionals](31-percent-interprofessional-interventions.md) — related

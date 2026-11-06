@@ -56,3 +56,4 @@ Parallel-group randomized controlled study over five fall semesters (2020–2024
 - [Medical students using EyelearnMR plus traditional teaching scored significantly higher on a video-based ocular motility assessment than students receiving traditional teaching alone, despite less clinical exposure time](eyelearnmr-higher-video-assessment-scores.md) — related
 - [Flipped classroom and lecture-based teaching showed no significant difference in learning scores](fc-vs-lbt-no-learning-difference.md) — reports the opposite
 - [VSO blended teaching significantly improves comprehensive practical performance in a clinical microbiology laboratory course compared with traditional video-based teaching](vso-improves-comprehensive-practical-performance.md) — related
+- [Blended teaching (recalling plus lecturing) leads to better learning outcomes than lecturing alone in real classroom teaching](blended-teaching-better-outcomes-than-lecturing-alone.md) — related

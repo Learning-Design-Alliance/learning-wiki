@@ -39,7 +39,7 @@ A learning package developed on the topic of plant reproduction for primary 5 st
 
 ### Claims
 
-- [Students' self-directed learning and creative thinking skills increased significantly after QIMS inquiry-based lessons](../claims/qims-lessons-increase-self-directed-learning-creative-thinking.md) [+W]
+- [On a post-intervention self-report survey, students in QIMS inquiry-based classes rated their self-directed learning and creative thinking higher than students in a non-QIMS class](../claims/qims-lessons-increase-self-directed-learning-creative-thinking.md) [+W]
 
 ## Related Designs
 

@@ -47,5 +47,5 @@ Blinded rubric-based marking of AI-generated quiz submissions versus deidentifie
 
 ## Related Claims
 - [GPT-4 examination accuracy is moderated by item type: multi-step vignettes (61–71%) and image-dependent items (48–63%) fall well below single-fact recall (83–88%)](gpt4-accuracy-item-type-moderators.md) — a broader claim this one bears on
-- [Pre-course test reveals high factual recall but insufficient clinical application ability under traditional teaching](pre-course-test-reveals-application-deficit-traditional-teaching.md) — related
+- [On a pre-course test, residency trainees in a nuclear medicine course scored above 90% on some conceptual items but below 65% on several treatment-application items, with wide variation across items](pre-course-test-reveals-application-deficit-traditional-teaching.md) — related
 - [ChatGPT performs poorly on health database SQL programming tasks, with the best AI version scoring 56% against a top student score of 100%](chatgpt-sql-programming-weak.md) — related

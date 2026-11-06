@@ -59,3 +59,4 @@ Thematic analysis of 11 interview transcripts under the ITEM immersion domain. P
 - [Dental students trained with HVRS reported higher agreement than mannequin-trained peers on items of visual realism, tissue differentiation, tactile feedback and fine motor skill improvement](hvrs-higher-perceived-realism-motor-skills.md) — related
 - [Teachers perceived the phantom-head simulator as closer to patient scenarios than haptics, while haptics felt game-like](phantom-head-closer-to-patients-than-haptics.md) — related
 - [Undergraduate medical students rate VR anatomy scenarios as accurate and realistic compared to the traditional anatomy lab](vr-anatomy-scenarios-rated-accurate-realistic.md) — related
+- [Three themes emerged from qualitative analysis: prioritizing patient care; representing variability in anatomy and PFDs for realism; and consideration of implementation, cost, and accessibility](three-themes-patient-care-realism-cost-accessibility.md) — related

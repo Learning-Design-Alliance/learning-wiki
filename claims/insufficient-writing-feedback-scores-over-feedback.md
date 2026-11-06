@@ -53,3 +53,4 @@ Qualitative interview finding from the study. Student A reported that although f
 - [First-year EAP students prefer a hybrid feedback model combining AI-generated comments with instructor feedback over either source alone](students-prefer-hybrid-ai-instructor-feedback.md) — related
 - [Students find computer-based simulation feedback insufficient because incorrect responses are marked without explanation](simucase-feedback-insufficient.md) — related
 - [Two writing teachers report that decoupling evaluation from grades under a grading contract lets them give blunter feedback that students can weigh, an account with no data reported](decoupling-evaluation-from-grades-improves-feedback.md) — related
+- [Patient comments frequently cite communication failures, with inadequate communication appearing in 30% of coded comments](communicator-role-inadequate-communication-frequency.md) — related

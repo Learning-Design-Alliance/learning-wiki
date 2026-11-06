@@ -65,4 +65,4 @@ The guide reports, citing Lacoe (2015) and Nakamoto et al. (2019), that "Black a
 - [Student-reported safety and classroom behavior are more positive in top-quartile schools, and students feel less safe outside school than inside](student-safety-behavior-quartile-differences.md) — related
 - [National racial violence significantly reduced belonging and confidence among Black and Latinx STEM students relative to white peers](national-racial-violence-racialized-belonging-declines.md) — related
 - [Minoritized students reported lower belonging where peers endorsed more fixed mindset beliefs, with an asymmetric pattern](minoritized-students-belonging-peer-fixed-mindset.md) — related
-- [E-EMR showed targeted benefits by race/ethnicity: significant interactions for Asian, Latinx, Black, and Multiracial students relative to White students on nine outcomes](e-emr-race-ethnicity-moderated-benefits.md) — related
+- [E-EMR effects differed by race/ethnicity: seven significant race × condition interactions relative to White students, for Asian, Latinx, Black and Multiracial students, mostly favouring them](e-emr-race-ethnicity-moderated-benefits.md) — related

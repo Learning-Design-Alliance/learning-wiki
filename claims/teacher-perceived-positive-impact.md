@@ -48,4 +48,4 @@ Perceived impact reported by the initial teacher development group (n = 10) afte
 - [Flexible thinking and problem-solving activities were perceived as feasible and beneficial through co-regulation, playfulness, characterisation and low-stakes whole-class design](flexible-thinking-low-stakes-design.md) — a narrower finding that bears on this claim
 - [Embedding movement into routine lessons was perceived as feasible, acceptable and beneficial when designed as whole-class, creative, curriculum-based activity](movement-feasible-whole-class-design.md) — related
 - [A new independent teacher group endorsed the refined intervention's feasibility, practice-change potential and scalability](refinement-group-endorsement.md) — related
-- [Self-talk activities were perceived as feasible and beneficial only when grounded in authentic, realistic modelling rather than exaggerated positivity](self-talk-authentic-modelling.md) — related
+- [Teachers and young people saw self-talk activities as most effective when grounded in authentic, realistic modelling, and young people rejected exaggerated positivity](self-talk-authentic-modelling.md) — related

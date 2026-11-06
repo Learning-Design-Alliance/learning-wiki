@@ -42,7 +42,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 73 claims (36 for, 34 mixed, 3 against) · 67 studies (17 causal, 13 review, 12 associational, 9 theoretical, 6 qualitative, 6 design, 4 quant-synthesis), `q1`–`q4` · 9 of 67 report an effect size · 65 claims rest on one study
+> **Evidence** · 73 claims (36 for, 34 mixed, 3 against) · 67 studies (17 causal, 13 review, 12 associational, 9 theoretical, 6 qualitative, 6 design, 4 quant-synthesis), `q1`–`q4` · 8 of 67 report an effect size · 65 claims rest on one study
 
 ## Conditional relationship
 

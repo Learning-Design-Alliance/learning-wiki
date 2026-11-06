@@ -19,7 +19,7 @@ sources:
 # CASEL 5
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 2 claims (2 for) · 3 studies (3 quant-synthesis), `q4` · 2 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (3 for) · 4 studies (3 quant-synthesis, 1 associational), `q3`–`q4` · 2 of 4 report an effect size · 2 claims rest on one study
 
 ## Description
 A framework developed by the Collaborative for Academic, Social, and Emotional Learning (CASEL) that organizes social and emotional competence into five interrelated areas: self-awareness, self-management, social awareness, relationship skills, and responsible decision-making.
@@ -30,10 +30,12 @@ A framework developed by the Collaborative for Academic, Social, and Emotional L
 - **CASEL's five-competency framework for social and emotional learning**: The report adopts CASEL's widely used definition of SEL as "the process through which children and adults acquire and effectively apply the knowledge, attitudes, and skills necessary to understand and manage emotions, set and achieve positive goals, feel and show empathy for others, establish and maintain positive relationships, and make responsible decisions." Figure 1 presents five competencies—self-awareness, self-management, social awareness, relationship skills, and responsible decision-making—nested within classrooms, schools, homes, and communities. The report uses "competencies" as an umbrella covering skills, mindsets, and habits. (Melnick et al. (2017))
 - **CASEL 5 framework of social and emotional competencies**: The review organises social and emotional competencies using the CASEL (Collaborative for Academic, Social, and Emotional Learning) 5 framework, "which includes five broad and interrelated areas of competence: i) self-awareness; ii) self-management; iii) social awareness; iv) relationship skills; and v) responsible decision-making". The model holds that changing these five areas positively impacts proximal outcomes and contexts, and thereby more distal outcomes: SECs directly affect school achievement and indirectly increase student engagement and decrease mental health difficulties. The review uses these five domains as its coding categories for SEC variables across the 91 studies. (Anabela Caetano Santos et al. (2023))
 - **CASEL five-domain framework of social-emotional competence as the review's organizing taxonomy**: The review adopts the CASEL framework as its multidimensional conceptual model for classifying teachers' and students' SEC. The article states that "The CASEL framework conceptualises SEC as five distinct yet interrelated domains (self-awareness, self-management, social awareness, relationship skills, and responsible decision-making; CASEL, 2020)." Constructs were coded as domain-specific or broad/mixed SEC based on definitions and measurement content rather than authors' labels, with interrater reliability of κ = 0.87 for teacher codes and κ = 0.85 for student codes. The framework enabled domain-specific meta-analytic models of teacher-student SEC associations. (Nguyen et al. (2026))
+- **CASEL framework of five student social–emotional competencies**: The Collaborative for Academic, Social and Emotional Learning (CASEL) framework defines five student social–emotional competencies that inform most formal school SEL curricula internationally. The five competencies are Self-Awareness ("Ability to understand one's own emotions, thoughts and values and how they influence behaviour across contexts"), Self-Management, Social Awareness, Relationship Skills and Responsible Decision-Making. This study operationalised all five via the 20-item self-report MCS-SEL and tested each against later academic achievement. (Carpendale et al. (2025))
 
 ### Claims
 - [SEL programs improve social emotional skills](../claims/sel-programs-improve-social-emotional-skills.md) [+M]
 - [At domain level, teachers' responsible decision-making shows the largest observed relationship with students' SEC, and students' relationship skills the strongest with teachers' SEC](../claims/sec-domain-specific-associations-casel.md) [+M]
+- [Year 6 Self-Management is significantly and meaningfully associated with Year 7 reading and numeracy achievement in bivariate multi-level models](../claims/self-management-predicts-year7-reading-numeracy-bivariate.md) [+M]
 
 ## Related Products and Programmes
 -
@@ -45,6 +47,7 @@ A framework developed by the Collaborative for Academic, Social, and Emotional L
 - Melnick, H., Cook-Harvey, C. M., & Darling-Hammond, L. (2017). Encouraging social and emotional learning in the context of new accountability. Palo Alto, CA: Learning Policy Institute. http://learningpolicyinstitute.org/product/sel-new-accountability
 - Anabela Caetano Santos, Celeste Simões, Márcia H.S. Melo, Margarida F. Santos, Iara Freitas, Cátia Branquinho, Carmel Cefai, Patrícia Arriaga. (2023). A systematic review of the association between social and emotional competencies and student engagement in youth. Educational Research Review. https://doi.org/10.1016/j.edurev.2023.100535
 - Nguyen, T.-A., Hidajat, T., Zhou, T., Ma, T., Hoang, A., Poed, S., & Edwards, E. J. (2026). Relations between Teachers' and Students' Social-emotional Competence: A Systematic Review and Multilevel Meta-analysis. Educational Psychology Review. https://doi.org/10.1007/s10648-026-10218-4
+- Carpendale, E. J., Green, M. J., White, S. L. J., Williams, K. E., Tzoumakis, S., Watkeys, O. J., Harris, F., O'Hare, K., Carr, V. J., & Laurens, K. R. (2025). Promoting effective transitions: Primary school social–emotional competencies predict secondary school reading and numeracy achievement. British Journal of Educational Psychology, 95, 496–512. https://doi.org/10.1111/bjep.12735
 
 # The CASEL 5: five interrelated areas of social and emotional competence
 

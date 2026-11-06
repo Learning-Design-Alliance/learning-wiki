@@ -42,7 +42,7 @@ A covariate analysis from the mixed-effects models in the randomized crossover s
 
 
 ## Related Claims
-- [Bell-pacing significantly exacerbates reactive test anxiety compared to self-pacing during gross anatomy laboratory examinations.](bell-pacing-exacerbates-reactive-test-anxiety.md) — related
+- [Test anxiety rose significantly from pre- to post-exam under bell-pacing but not under self-pacing in gross anatomy laboratory examinations, though the pacing-by-timepoint interaction was marginally non-significant.](bell-pacing-exacerbates-reactive-test-anxiety.md) — related
 - [Examination performance is statistically equivalent between bell-paced and self-paced gross anatomy laboratory examinations among upper-year undergraduate students.](exam-performance-equivalent-bell-paced-self-paced-anatomy-lab.md) — related
 - [Most students paradoxically prefer bell-pacing, a pacing structure that led to greater reactive test anxiety, independent of the pacing structure itself.](students-prefer-pacing-structure-that-increases-anxiety.md) — related
 - [Men reported higher monitoring judgments on health math problems than women, even accounting for performance accuracy](gender-difference-monitoring-judgments-health-math.md) — related

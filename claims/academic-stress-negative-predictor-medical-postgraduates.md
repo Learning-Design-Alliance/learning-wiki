@@ -48,3 +48,4 @@ Cross-sectional survey of 616 medical master's students at a Chinese medical uni
 - [Academic stress dimensions show a dual pattern: professional study stress positively predicts achievement while scientific research, ecological, and employment stress negatively predict it](stress-dimensions-dual-pattern-achievement.md) — related
 - [Psychological distress, particularly depression, consistently predicted poorer academic outcomes among university students across the reviewed literature](distress-predicts-poorer-academic-outcomes-university-students.md) — related
 - [Perceived academic stress correlates positively with perceived memory problems among preclinical medical students (rS = 0.445)](perceived-stress-correlates-poorer-perceived-memory-medical-students.md) — related
+- [Perceived stress is negatively related to academic performance among Chinese LGBTQ+ college students](perceived-stress-negative-academic-performance-lgbtq.md) — related

@@ -53,6 +53,7 @@ This strategy captures the review's core design recommendation: residents-as-tea
 - [Integrate grief training throughout the medical curriculum using interdisciplinary collaborations and experiential learning opportunities](integrate-grief-training-throughout-curriculum.md)
 - [Teach conflict resolution experientially over an extended period with opportunities to practice skills](extended-experiential-conflict-training-strategy.md)
 - [Offer residents-as-teachers training as early as PGY-1, using interactive formats and supervised teaching opportunities](rat-training-early-pgy1-strategy.md)
+- [Design resident training modules explicitly targeting the teaching strategies students identified, and integrate resident teaching behaviors into core competencies](target-training-modules-at-identified-teaching-strategies.md)
 
 ## Examples
 -

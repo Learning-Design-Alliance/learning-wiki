@@ -13,7 +13,7 @@ generated:
 # Physical Well-Being
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 169 claims (111 show a difference, 38 mixed, 20 no difference) · 89 studies (32 causal, 22 associational, 16 review, 14 quant-synthesis, 3 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 22 of 89 report an effect size · 165 claims rest on one study
+> **Evidence** · 170 claims (112 show a difference, 38 mixed, 20 no difference) · 90 studies (32 causal, 23 associational, 16 review, 14 quant-synthesis, 3 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 22 of 90 report an effect size · 166 claims rest on one study
 
 ## Description
 Physical well-being covers a learner's overall physical health: nutrition, regular physical activity and fitness, and good sleep. The LVN's case for it is that the benefits reach beyond the body: learners in good health benefit in cognitive skills, focus and mood, which can support academic performance, and in the early years it frames the same idea as physical fitness, with regular exercise strengthening cognitive skills. Exercise is described as particularly helpful for learners with ADHD. Physical activity tends to fall during adolescence, and for adults, education can itself improve health as health literacy grows and learners become better able to advocate for their needs. Body mass index is the one measure the LVN lists. It overlaps with [sleep](sleep.md), which is one of its components, and with [attention](attention.md) and [executive function](executive-function.md), which are among the outcomes exercise is linked to.
@@ -206,6 +206,7 @@ Physical well-being covers a learner's overall physical health: nutrition, regul
 - [Sustained attention significantly moderates the physical fitness–Chinese language relationship, with stronger fitness–achievement association at low (better) sustained attention](../claims/dauf-moderates-fitness-chinese-language.md) [~M] — learners who differ on it differ in outcomes
 - [Sustained attention significantly moderates the physical fitness–mathematics relationship, with stronger fitness–achievement association at low (better) sustained attention](../claims/dauf-moderates-fitness-mathematics.md) [~M] — learners who differ on it differ in outcomes
 - [The escape room-based physical activity intervention significantly increases adolescent well-being](../claims/escape-room-pa-increases-well-being.md) [+M] — measured as an outcome of the instruction studied
+- [Higher BMI and extensive physical activity (2 h or more per day) are independently negatively associated with academic achievement](../claims/bmi-and-extensive-physical-activity-negative-factors-gpa.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Body Mass Index (BMI)**: a measure of body fat calculated from height and weight.

@@ -51,3 +51,4 @@ In the interview study, thematic analysis found the emergency department and pri
 - [Trainee ANPs report feeling underprepared for personality disorder consultations, particularly around assessment, diagnosis and intervention.](anps-feel-underprepared-for-pd-consultations.md) — related
 - [Structural barriers — fragmented health systems, insufficient reimbursement and workforce shortages — constrain integration of psychological care in diabetes services](structural-barriers-psychological-care-integration.md) — a broader claim this one bears on
 - [Qualitative interviews attribute the trainee–instructor competency rating gap to modifiable systemic factors: lack of timely feedback and heavy instructor workloads](qualitative-explanation-competency-gap-feedback-workload.md) — related
+- [Patient comments frequently cite time-management and practice-management problems reflecting the Leader role (45.3%)](leader-role-time-management-comments.md) — related

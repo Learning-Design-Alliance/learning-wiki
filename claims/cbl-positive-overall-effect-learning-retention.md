@@ -46,6 +46,6 @@ Random-effects meta-analysis of 10 primary studies (662 students; 330 experiment
 
 ## Related Claims
 - [Context-based learning has a statistically significant positive overall effect on academic achievement (g=0.970) compared to traditional lecture-based instruction](cbl-positive-overall-effect-academic-achievement.md) — related
-- [In a randomised trial of 80 first-year postgraduate oncology trainees, CBL produced significantly higher examination scores and satisfaction than traditional lecture-based learning, though confidence intervals crossed the null for examination results](bi-rct-cbl-higher-posttest-scores-satisfaction.md) — related
+- [In a randomised trial of 80 first-year postgraduate oncology trainees, a CBL group that also had PowerPoint teaching reported significantly higher examination scores and satisfaction than lecture-based teaching, though confidence intervals crossed the null for examination results](bi-rct-cbl-higher-posttest-scores-satisfaction.md) — related
 - [Flipped classrooms in higher education show a medium overall positive effect on student outcomes compared with traditional lecture-based classrooms](flipped-classroom-medium-overall-effect-higher-education.md) — related
 - Publication bias tests indicate the observed effects for both outcomes were not influenced by publication bias — related

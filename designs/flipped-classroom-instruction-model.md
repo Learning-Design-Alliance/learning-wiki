@@ -46,6 +46,7 @@ FCI is described as a learning approach in which "teachers shift direct learning
 ## Related Designs
 
 - [Flipped classroom as constructivist blended learning that moves lower-order Bloom's levels outside class](flipped-classroom-constructivist-blended-model.md)
+- [In-class flipped classroom model for nursing practice teaching](in-class-flipped-classroom-model.md)
 
 ## Examples
 -

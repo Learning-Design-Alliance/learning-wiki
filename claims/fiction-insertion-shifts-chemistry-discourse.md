@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Inserting fiction excerpts into chemistry instruction shifted classroom discourse toward more student questions, peer challenge, and evidence-based argumentation
-description: Inserting fiction excerpts into chemistry instruction shifted classroom discourse toward more student questions, peer challenge, and evidence-based argumentation
+title: A chemistry class taught with inserted fiction excerpts showed more student questions, peer challenge and evidence-based argumentation, a shift the authors do not attribute to the fiction itself
+description: A chemistry class taught with inserted fiction excerpts showed more student questions, peer challenge and evidence-based argumentation, a shift the authors do not attribute to the fiction itself
 id: fiction-insertion-shifts-chemistry-discourse
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-06
 sources:
   - id: randy-k-yerrick-2017
     resource: "https://www.stemedu.org/science-education-international/"
@@ -28,11 +29,11 @@ sources:
     rigour: 1
 ---
 
-# Inserting fiction excerpts into chemistry instruction shifted classroom discourse toward more student questions, peer challenge, and evidence-based argumentation
+# A chemistry class taught with inserted fiction excerpts showed more student questions, peer challenge and evidence-based argumentation, a shift the authors do not attribute to the fiction itself
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the intervention classroom, students' questions were more frequent, interest was piqued more quickly, and students challenged peers' inaccurate beliefs during instruction. [→ Randy K Yerrick 2017](#randy-k-yerrick-2017)
@@ -46,7 +47,7 @@ Randy K Yerrick, Tiffany Simons. (2017). The Affordances of Fiction for Teaching
 
 `q2 · i?` · `causal · r1`
 
-Observational results from the intervention classroom over the 4-week chemical change unit, based on field notes and classroom recordings. The authors report discourse shifts such as students challenging the plausibility of a hydrogen explosion scene in Chain Reaction and debating conservation of mass in Honey, I Shrunk the Kids.
+Observational results from the intervention classroom over the 4-week chemical change unit, based on field notes and classroom recordings. The authors report discourse shifts such as students challenging the plausibility of a hydrogen explosion scene in Chain Reaction and debating conservation of mass in Honey, I Shrunk the Kids. These are observations in one class, not a tested effect: the authors write that they "cannot claim that the inclusion of fiction was itself the reason for increase in richness of student contributions to classroom dialogue", only that the intervention "was associated with increased possibilities to challenge, disagree, and debate".
 
 > "Most notably, students’ questions were more frequent, interest was more quickly piqued in the topic, students were quicker to offer responses to the teacher’s questions, and students showed a willingness to challenge other students’ inaccurate beliefs during instruction."
 
@@ -56,7 +57,7 @@ Randy K Yerrick, Tiffany Simons. (2017). The Affordances of Fiction for Teaching
 
 `q2 · i?` · `causal · r1`
 
-Interpretation of the same intervention classroom discussions: students practiced scientific argumentation aligned with NGSS reform, deciding what counted as evidence (lab experience over movie) and who decided the veracity of claims.
+Interpretation of the same intervention classroom discussions: students practiced scientific argumentation aligned with NGSS reform, deciding what counted as evidence (lab experience over movie) and who decided the veracity of claims. The authors say it is "not possible to claim this was the direct result of incorporating fiction"; the shift was observed alongside the intervention.
 
 > "shifts in content authority were observed which were characterized best by deviation from a singular form of content authority (e.g., teacher, textbook) to a focus upon available evidence as authority."
 

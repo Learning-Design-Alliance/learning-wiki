@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Project-based CLIL significantly improved written English competence of mathematics students over one semester
-description: Project-based CLIL significantly improved written English competence of mathematics students over one semester
+title: Mathematics students' written English competence scores rose slightly over one semester of project-based CLIL, but the study reports no valid test of the change
+description: Mathematics students' written English competence scores rose slightly over one semester of project-based CLIL, but the study reports no valid test of the change
 id: project-based-clil-improves-written-english-competence
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-06
 sources:
   - id: yufrizal-2017
     resource: "https://doi.org/10.5539/elt.v10n9p131"
@@ -20,14 +21,14 @@ sources:
     rigour: 1
 ---
 
-# Project-based CLIL significantly improved written English competence of mathematics students over one semester
+# Mathematics students' written English competence scores rose slightly over one semester of project-based CLIL, but the study reports no valid test of the change
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Students' written English competence scores increased significantly from pretest to posttest after project-based CLIL implementation. [→ Yufrizal 2017](#yufrizal-2017)
+`q2 i?` Students' mean written English competence score rose from 70.37 at pretest to 73.55 at posttest after project-based CLIL implementation; the significance the authors report comes from one-sample tests of each mean against zero, not a paired pretest-posttest test. [→ Yufrizal 2017](#yufrizal-2017)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Yufrizal, H., Huzairin, & Hasan, B. (2017). Project Based - Content Language Int
 
 `q2 · i?` · `causal · r1`
 
-Quasi-experimental pretest-posttest study of 88 mathematics students at Universitas Lampung; Table 1 reports mean pretest of 70.37 and posttest of 73.54, and the article reports the difference as "significant at the 0.001 level".
+Quasi-experimental pretest-posttest study of 88 mathematics students at Universitas Lampung; Table 1 reports mean pretest of 70.37 and posttest of 73.5455 (73.55), and the article reports the difference as "significant at the 0.001 level". That significance does not test the change: Table 2's t-tests use "Test Value = 0", testing the pretest mean and the posttest mean each against zero. The study's paired pretest-posttest tests (Table 5) are of oral-performance aspects, not of written competence, and there is no comparison group.
 
 > "This means that there is a significant difference between the competence or co mpetence of Mathematics students before and after CLIL-based project implementation."
 

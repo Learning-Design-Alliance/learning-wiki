@@ -53,4 +53,4 @@ Longitudinal analyses following the same children from Grade 2 to Grade 3 tested
 - [Math anxiety's direct effect on math performance emerges in grade 4 but not grade 3, suggesting a developmental trajectory](math-anxiety-direct-effect-emerges-grade-4.md) — related
 - [Working memory mediates the indirect effects of anxiety on math performance](wm-mediates-anxiety-effect-on-math.md) — related
 - [The prevalent direction of the Grade 3 anxiety-performance link runs from math anxiety to performance, not the reverse](math-anxiety-to-performance-directionality.md) — related
-- [Math anxiety arises and relates to math performance already in early primary school (Grades 2-3)](math-anxiety-arises-early-primary-school.md) — a broader claim this one bears on
+- [Math anxiety is present and relates to math performance already in early primary school (Grades 2-3)](math-anxiety-arises-early-primary-school.md) — a broader claim this one bears on

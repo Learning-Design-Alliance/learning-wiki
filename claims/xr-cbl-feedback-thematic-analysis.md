@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: aytaç-güneş-2026
     resource: "https://doi.org/10.1186/s12909-026-09470-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Thematic analysis of open-ended responses to how case presentation could be improved identified positive themes (3D model integration, instructional clarity, multimedia, clinical relevance) and improvement themes (guidance, technical usability, learning integration). [→ Aytaç Güneş 2026](#aytac-gunes-2026)

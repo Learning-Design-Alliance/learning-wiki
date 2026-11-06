@@ -39,7 +39,7 @@ The article recommends that teachers and schools attend to math anxiety from the
 ## Claims
 
 - [Math anxiety in Grade 2 shows an indirect effect on subsequent math performance in Grade 3](../claims/grade-2-math-anxiety-indirect-effect-grade-3-performance.md) [+W]
-- [Math anxiety arises and relates to math performance already in early primary school (Grades 2-3)](../claims/math-anxiety-arises-early-primary-school.md) [+W]
+- [Math anxiety is present and relates to math performance already in early primary school (Grades 2-3)](../claims/math-anxiety-arises-early-primary-school.md) [+W]
 - [The association between math anxiety and math performance is significant in Grade 3 after accounting for general anxiety](../claims/math-anxiety-performance-link-significant-grade-3.md) [+W]
 - [The prevalent direction of the Grade 3 anxiety-performance link runs from math anxiety to performance, not the reverse](../claims/math-anxiety-to-performance-directionality.md) [+W]
 

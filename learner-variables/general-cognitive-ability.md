@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 206 claims (130 show a difference, 43 mixed, 33 no difference) · 143 studies (57 causal, 49 associational, 15 quant-synthesis, 13 review, 7 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 34 of 143 report an effect size · 203 claims rest on one study
+> **Evidence** · 207 claims (131 show a difference, 43 mixed, 33 no difference) · 144 studies (57 causal, 49 associational, 15 quant-synthesis, 13 review, 7 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 34 of 144 report an effect size · 204 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -201,7 +201,7 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Within aptitude test subtests, verbal reasoning (d=0.704) and quantitative reasoning (d=0.643) best predict early program academic results, while abstract and verbal reasoning predict end-of-program outcomes](../claims/aptitude-subtests-verbal-quantitative-reasoning-predict-early-academic.md) [+M] — learners who differ on it differ in outcomes
 - [PBL teaching improves problem-solving, independent learning, teamwork, communication and clinical reasoning abilities more than traditional teaching in orthopaedics education](../claims/pbl-improves-process-abilities-orthopaedics.md) [+M] — instruction changes it
 - [Active classrooms show no clear effect on executive function or fluid intelligence](../claims/active-classrooms-no-executive-function-effect.md) [-W] — instruction changes it
-- [TBL develops students' thinking ability more than LBL, though with high heterogeneity driven by one study](../claims/tbl-increases-thinking-ability-questionnaires.md) [~W] — instruction changes it
+- [More TBL than LBL students report that their pedagogy greatly developed their thinking ability, though with high heterogeneity driven by one study](../claims/tbl-increases-thinking-ability-questionnaires.md) [~W] — instruction changes it
 - [A-levels also show the highest construct-level predictive validity for postgraduate performance (.556), significantly exceeding GCSEs/O-levels and aptitude tests, which do not differ from each other](../claims/alevels-highest-clpv-postgraduate.md) [+M] — learners who differ on it differ in outcomes
 - [A-levels show the highest construct-level predictive validity for undergraduate medical performance (.723), exceeding GCSEs/O-levels (.359) and aptitude tests (.181)](../claims/alevels-highest-clpv-undergraduate.md) [+M] — learners who differ on it differ in outcomes
 - [Aptitude tests (AH5, UKCAT) have lower construct-level predictive validity than educational attainment measures, with overall CLPV .208 (CI .113–.299)](../claims/aptitude-tests-lower-clpv.md) [+M] — learners who differ on it differ in outcomes
@@ -242,6 +242,7 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [The IQ→LS and PU→CI paths were strongest in the conventional online course model](../claims/iq-ls-and-pu-ci-strongest-in-coc.md) [~M] — learners who differ on it differ in outcomes
 - [Content-rich subtests combining crystallized and fluid intelligence (e.g., HAM-Nat knowledge test, TMS reasoning and text-comprehension subtests) correlate most strongly with preclinical performance](../claims/content-rich-subtests-strongest-validity.md) [+M] — learners who differ on it differ in outcomes
 - [ChatGPT assistance disproportionately benefits dental students with low spatial ability; high spatial ability learners show no significant difference between modes](../claims/chatgpt-benefits-low-spatial-ability-learners-most.md) [~M] — an instructional effect differs with it
+- [Three months after a PAL high-fidelity simulation course, PGY trainees reported significantly higher clinical confidence, reasoning ability, resuscitation familiarity, and teamwork in TRM (all p < 0.001).](../claims/pal-simulation-pgy-cpe-significant-gains.md) [+W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

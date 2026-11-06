@@ -129,3 +129,5 @@ Meta-analysis of 2 studies (162 students) on the critical thinking disposition i
 - [Students in the blended PBL-CBL-seminar group report higher teaching-mode evaluation, internship-effect self-evaluation, and satisfaction than LBL students](blended-group-higher-questionnaire-satisfaction.md) — related
 - [In one South African hospital's obstetrics and paediatrics internship, knower-code attributes (teamwork, organisation, efficiency, communication) outweighed specialised knowledge as the basis of legitimacy](internship-legitimises-knower-code-attributes.md) — related
 - [RFETM students reported significantly higher questionnaire scores than TETM students for innovation ability, scientific research ideas, and learning interest](rfetm-questionnaire-scores-significantly-higher.md) — related
+- [Experimental-group residents report significantly higher satisfaction than control-group residents across the seven measured teaching dimensions](boppps-flipped-higher-teaching-satisfaction.md) — related
+- [EIL raises students' active-learning ratings without increasing their perceived academic burden](eil-active-learning-no-added-burden.md) — related

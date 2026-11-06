@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Age, general cognition (MoCA), visual working memory, and hearing loss showed no significant association with the extent of training-induced change, and the three-way modality-by-AWM-by-hearing-loss interaction was not significant
-description: Age, general cognition (MoCA), visual working memory, and hearing loss showed no significant association with the extent of training-induced change, and the three-way modality-by-AWM-by-hearing-loss interaction was no...
+title: Age, general cognition (MoCA), visual working memory, and hearing loss showed no significant main association with the extent of training-induced change, though hearing loss and auditory working memory each moderated it by training modality; the three-way interaction was not significant
+description: In older adults, age, MoCA, auditory and visual working memory and hearing loss had no significant main association with training-induced speech-in-noise change, but training modality interacted significantly with auditory working memory (p = .002) and with hearing loss (p = .004); the three-way modality-by-AWM-by-hearing-loss interaction was not significant
 id: null-moderators-training-induced-change
 status: review
 generated:
@@ -28,14 +28,14 @@ sources:
     rigour: 2
 ---
 
-# Age, general cognition (MoCA), visual working memory, and hearing loss showed no significant association with the extent of training-induced change, and the three-way modality-by-AWM-by-hearing-loss interaction was not significant
+# Age, general cognition (MoCA), visual working memory, and hearing loss showed no significant main association with the extent of training-induced change, though hearing loss and auditory working memory each moderated it by training modality; the three-way interaction was not significant
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Age, MoCA, AWM, VWM and hearing loss were not significantly associated with training-induced SNR change (all p ≥ 0.214; hearing loss p = 0.214 in Table 3). [→ Vanessa Frei & Nathalie Giroud 2025](#vanessa-frei-nathalie-giroud-2025)
+`q3 i?` As main effects, age, MoCA, AWM, VWM and hearing loss were not significantly associated with training-induced SNR change (all p ≥ 0.214; hearing loss p = 0.214 in Table 3), but AWM and hearing loss did moderate the change depending on training modality (modality × AWM p = 0.002; modality × hearing loss p = 0.004). [→ Vanessa Frei & Nathalie Giroud 2025](#vanessa-frei-nathalie-giroud-2025)
 `q3 i?` The three-way interaction between training modality, hearing loss and auditory working memory was not significant. [→ Vanessa Frei & Nathalie Giroud 2025 (2)](#vanessa-frei-nathalie-giroud-2025-2)
 
 ## Evidence
@@ -46,7 +46,7 @@ Vanessa Frei & Nathalie Giroud. (2025). Immersive auditory-cognitive training im
 
 `q3 · i?` · `causal · r2`
 
-Null findings from the linear mixed model on training-induced SNR change that included modality, age, MoCA, AWM, VWM and PTA as fixed effects. Table 3 prints coefficient estimates on z-scored predictors with SEs, t and p (e.g. Age −0.01, MoCA 0.14, AWM −0.03, VWM 0.03, PTA 0.15, p = 0.214 to 0.958), but no standardized effect size, so no impact is coded.
+Null findings from the linear mixed model on training-induced SNR change that included modality, age, MoCA, AWM, VWM and PTA as fixed effects. Table 3 prints coefficient estimates on z-scored predictors with SEs, t and p (e.g. Age −0.01, MoCA 0.14, AWM −0.03, VWM 0.03, PTA 0.15, p = 0.214 to 0.958), but no standardized effect size, so no impact is coded. These are nonsignificant main effects only: the same model found significant two-way interactions between training modality and AWM (Δχ²(1) = 9.143, p = 0.002) and between training modality and hearing loss (Δχ²(1) = 8.168, p = 0.004), so AWM and hearing loss moderated the training-induced change depending on modality.
 
 > "Neither age, MoCA scores, AWM, VWM nor hearing loss were signi ﬁcantly associated (p > 0.214) with the extent of trainin g-induced change"
 

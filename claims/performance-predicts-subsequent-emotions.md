@@ -61,3 +61,4 @@ In the reciprocal relations model with 1,242 primary students, test performance 
 - [Academic buoyancy and adaptability show reciprocal cross-lagged effects over time, each a medium effect (β = .07, p < .01) in latent modeling](buoyancy-adaptability-reciprocal-cross-lagged-effects.md)
 - [Teacher support is negatively associated with mathematics anxiety and positively associated with learning engagement.](teacher-support-anxiety-engagement-paths.md) — related
 - [Task-oriented coping and positive affect show positive reciprocal cross-lagged relations over one semester, implying positive feedback loops](task-coping-positive-affect-feedback-loop.md) — related
+- [Later mathematics achievement did not predict subsequent autonomous motivation over a school year](achievement-does-not-predict-autonomous-motivation.md) — related

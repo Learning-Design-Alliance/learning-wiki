@@ -40,6 +40,7 @@ The article's first design consideration holds that when multiple feedback sourc
 
 - [Frame learner and automated feedback as complementary rather than conflicting](frame-feedback-sources-as-complementary.md)
 - [Make platform quality standards interpretable by pairing automated scores with rationales and contextual cues](make-quality-standards-interpretable-with-rationales.md)
+- [Replace broad Likert-scale patient ratings with goal-directed questions and multisource (360°) feedback structures](goal-directed-patient-questions-360-feedback.md)
 
 ## Examples
 -

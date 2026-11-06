@@ -53,6 +53,7 @@ The article recommends that nursing curricula address specific educational needs
 - [Embed GenAI literacy and ethical use directly in nursing curricula rather than prohibiting it](embed-genai-literacy-ethics-nursing-curricula.md)
 - [Support AI literacy, safe AI use, team-based learning, and innovation-supportive work environments, with mentoring for low-support settings](ai-literacy-innovation-support-nursing-management-strategy.md)
 - [Integrate structured, tailored AI training into medical education and continuing professional development](structured-ai-training-in-medical-education-strategy.md)
+- [Integrate artificial intelligence into digital teaching with careful planning, quality-assured data, and explicit teaching of critical handling](ai-integration-digital-teaching-pharmacy.md)
 
 ## Examples
 -

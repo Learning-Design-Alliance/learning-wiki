@@ -49,3 +49,4 @@ Development-phase preliminary testing observation (April 2025) comparing several
 - [Code-augmented interaction consistently increases median and tail latency, and costs per correct answer typically increase, with Gemini 2.5 Pro a notable outlier](code-augmented-latency-cost-increases.md) — related
 - [Gemini Flash 2.0 was selected for production over GPT-4o-mini and Llama 3.1 for its superior faithfulness and speed-to-cost ratio](gemini-flash-2-selected-for-faithfulness-and-cost.md) — related
 - [Asynchronous concurrent execution bounds overall latency to approximately the slowest individual model's inference time](async-concurrency-latency-bounded-by-slowest-model.md) — related
+- [In the developers' comparison tests, GPT-4 outperformed GPT-3.5 and Gemini in response generation time, role-playing ability, and validity of generated feedback](gpt4-outperformed-gpt35-gemini-vsp-testing.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Phonological awareness mediates the effect of the DCDC2-READ1 RU2-Short allele on word reading accuracy, word reading fluency, and reading comprehension
-description: Phonological awareness mediates the effect of the DCDC2-READ1 RU2-Short allele on word reading accuracy, word reading fluency, and reading comprehension
+title: Phonological awareness statistically mediates the association between the DCDC2-READ1 RU2-Short allele and word reading accuracy, word reading fluency, and reading comprehension
+description: Phonological awareness statistically mediates the association between the DCDC2-READ1 RU2-Short allele and word reading accuracy, word reading fluency, and reading comprehension
 id: phonological-awareness-mediate-read1-reading-outcomes
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-06
 sources:
   - id: li-2024
     resource: "https://doi.org/10.1038/s41539-024-00247-5"
@@ -20,11 +21,11 @@ sources:
     rigour: 2
 ---
 
-# Phonological awareness mediates the effect of the DCDC2-READ1 RU2-Short allele on word reading accuracy, word reading fluency, and reading comprehension
+# Phonological awareness statistically mediates the association between the DCDC2-READ1 RU2-Short allele and word reading accuracy, word reading fluency, and reading comprehension
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` RU2-Short had a significant indirect effect on word reading accuracy, word reading fluency, and reading comprehension through phonological awareness, with bootstrapped 95% CIs not crossing zero. [→ Li 2024](#li-2024)
@@ -37,7 +38,7 @@ Li, M., DeMille, M. M. C., Lovett, M. W., Bosson-Heenan, J., Frijters, J. C., Gr
 
 `q3 · i?` · `associational · r2`
 
-Regression mediation analysis in the GRaD sample of 1419 children using PROCESS OLS regression with 5000 bootstrap samples; PA and RU2-Short accounted for 69% of variance in word reading accuracy, and the article reports "a signiﬁcant mediation effect" for all three outcomes (fluency b = −1.87; comprehension b = −0.40).
+Cross-sectional observational regression mediation analysis in the GRaD sample of 1419 children using the PROCESS software with bootstrapped confidence intervals (the number of bootstrap samples is not reported); the indirect effects are statistical associations, not experimentally established causal effects. PA and RU2-Short accounted for 69% of variance in word reading accuracy, and the article reports "a signiﬁcant mediation effect" for all three outcomes (fluency b = −1.87; comprehension b = −0.40).
 
 > "RU2-Short had a signiﬁcant indirect effect (b = −1.74) on word reading accuracy through phonological awareness, with a bootstrapped 95% CI that did not cross zero around the indirect effect (−2.78, −0.68), indicating that phonological awareness had a signiﬁcant mediation effect."
 

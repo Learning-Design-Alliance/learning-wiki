@@ -58,3 +58,4 @@ Pearson correlation analysis among GPA, PSQI global score, ordinal IPAQ score, a
 - [Physical activity category is not statistically significantly associated with GPA category among Saudi physical therapy students](pars3-category-not-associated-gpa-saudi-pt-students.md) — reports the opposite
 - [Health sciences students' GPA is positively correlated with their physical activity level (r = 0.279)](gpa-positively-correlated-physical-activity-health-sciences-students.md) — related
 - [Physical activity level is negatively correlated with absenteeism and with academic warnings](physical-activity-negative-correlation-absenteeism-warnings.md) — related
+- [Higher BMI and extensive physical activity (2 h or more per day) are independently negatively associated with academic achievement](bmi-and-extensive-physical-activity-negative-factors-gpa.md) — reports the opposite

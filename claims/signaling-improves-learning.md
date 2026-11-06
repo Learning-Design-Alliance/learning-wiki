@@ -16,7 +16,7 @@ sources:
     author: "Noetel, M., Griffith, S., Delaney, O., Harris, N. R., Sanders, T., Parker, P., del Pozo Cruz, B., & Lonsdale, C."
     q: 4
     i: 2
-    n: 29 reviews (1,189 studies, 78,177 participants)
+    n: 29 reviews (1,189 studies; 78,177 participants per the abstract, 79,415 per the Results)
     kind: quant-synthesis
     rigour: "?"
   - id: alpizar-et-al-2020
@@ -67,9 +67,9 @@ Signaling (cueing) — highlighting the essential elements of a lesson through v
 
 Noetel, M., Griffith, S., Delaney, O., Harris, N. R., Sanders, T., Parker, P., del Pozo Cruz, B., & Lonsdale, C. (2022). Multimedia design for learning: An overview of reviews with meta-meta-analysis. *Review of Educational Research, 92*(3), 413–454. [doi:10.3102/00346543211052329](https://doi.org/10.3102/00346543211052329)
 
-`q4 · overview of systematic reviews with meta-meta-analysis` · `i2 · medium effect, g=0.43 for signaling` · `n=29 reviews (1,189 studies, 78,177 participants)` · `quant-synthesis · r?`
+`q4 · overview of systematic reviews with meta-meta-analysis` · `i2 · medium effect, g=0.43 for signaling` · `n=29 reviews (1,189 studies; 78,177 participants per the abstract, 79,415 per the Results)` · `quant-synthesis · r?`
 
-This umbrella review pooled systematic reviews that compared multimedia lessons with and without a particular design feature. It found 5 reviews of signaling (cues such as arrows, highlighted text or a laser pointer). The largest of them (Schneider et al., 2018) reports that signaling increased learning (g = 0.43, 95% CI [0.35, 0.50], k = 209) and reduced cognitive load (g = 0.25, k = 27). The authors list signaling with captioning and contiguity as the principles with the largest benefits. Across all principles, they found no consistent expertise-reversal moderation by prior knowledge. Good design mattered more for complex materials and for system-paced lessons. The version read was the authors' CC-BY preprint on OSF (10.31234/osf.io/pynzr), not the published version of record.
+This umbrella review pooled systematic reviews that compared multimedia lessons with and without a particular design feature. It found 5 reviews of signaling (cues such as arrows, highlighted text or a laser pointer). The largest of them (Schneider et al., 2018) reports that signaling increased learning (g = 0.43, 95% CI [0.35, 0.50], k = 209) and reduced cognitive load (g = 0.25, k = 27). The authors list signaling with captioning and contiguity as the principles with the largest benefits. Across all principles, they found no consistent expertise-reversal moderation by prior knowledge. Good design mattered more for complex materials and for system-paced lessons. The preprint gives two participant totals for the same 29 reviews and 1,189 studies: 78,177 in the abstract and "a combined total of 1,189 studies and 79,415 participants" in the Results. The version read was the authors' CC-BY preprint on OSF (10.31234/osf.io/pynzr), not the published version of record.
 
 <!-- merged 2026-10-14 from signaling-cueing-increases-learning: that page's entry for this study, which differed from the one above, kept verbatim.
 ### Noetel 2022 (2)

@@ -49,3 +49,4 @@ Feasibility study with 13 obstetricians of varying seniority performing simulate
 - [The only participant who failed simulated disimpaction was an outlier applying high time-averaged force, suggesting excessive force may accompany unsuccessful disimpaction](failed-disimpaction-high-force-outlier.md) — related
 - [Collaborative disimpaction with vaginal push-up assistance changes the force profile: the abdominal operator applies higher forces while the assisting vaginal operator applies lower forces](assisted-pushup-alters-disimpaction-forces.md) — related
 - [Glove-derived force features could not distinguish clinicians by seniority but showed modest ability to classify perceived task difficulty](glove-features-seniority-null-difficulty-classification.md) — related
+- [Positional tracking and force sensing were considered important simulator features](position-and-pressure-sensing-important-features.md) — related

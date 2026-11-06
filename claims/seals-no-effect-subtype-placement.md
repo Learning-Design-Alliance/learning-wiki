@@ -9,19 +9,20 @@ generated:
   at: 2026-11-02
 evidence_strength: mixed
 newest_evidence: 2015
+source_checked: 2026-11-06
 sources:
   - id: chen-et-al-2015
     resource: "https://eric.ed.gov/?id=ED588091"
-    title: "Chin-Chih Chen, Jill V. Hamm, & Thomas W. Farmer. (2015). Exceptionality and Peer Victimization Involvement in Late Childhood: Subtypes, Stability, and Social Marginalization. Remedial and Special Education, 36(5). https://eric.ed.gov/?id=ED588091"
-    author: "Chin-Chih Chen, Jill V. Hamm, & Thomas W. Farmer"
+    title: "Chin-Chih Chen, Jill V. Hamm, Thomas W. Farmer, Kerrylin Lambert, & Meera Mehtaji. (2015). Exceptionality and Peer Victimization Involvement in Late Childhood: Subtypes, Stability, and Social Marginalization. Remedial and Special Education, 36(5). https://eric.ed.gov/?id=ED588091"
+    author: "Chin-Chih Chen, Jill V. Hamm, Thomas W. Farmer, Kerrylin Lambert, & Meera Mehtaji"
     q: 3
     i: "?"
     kind: causal
     rigour: 2
   - id: chen-et-al-2015-2
     resource: "https://eric.ed.gov/?id=ED588091"
-    title: "Chin-Chih Chen, Jill V. Hamm, & Thomas W. Farmer. (2015). Exceptionality and Peer Victimization Involvement in Late Childhood: Subtypes, Stability, and Social Marginalization. Remedial and Special Education, 36(5). https://eric.ed.gov/?id=ED588091"
-    author: "Chin-Chih Chen, Jill V. Hamm, & Thomas W. Farmer"
+    title: "Chin-Chih Chen, Jill V. Hamm, Thomas W. Farmer, Kerrylin Lambert, & Meera Mehtaji. (2015). Exceptionality and Peer Victimization Involvement in Late Childhood: Subtypes, Stability, and Social Marginalization. Remedial and Special Education, 36(5). https://eric.ed.gov/?id=ED588091"
+    author: "Chin-Chih Chen, Jill V. Hamm, Thomas W. Farmer, Kerrylin Lambert, & Meera Mehtaji"
     q: 3
     i: 1
     kind: causal
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1` small
-> **Currency** · newest study 2015 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` There was no significant intervention effect of the SEALS program on students' peer victimization subtype placement. [→ Chen et al. 2015](#chen-et-al-2015)
@@ -42,17 +43,17 @@ sources:
 
 ### Chen et al. 2015
 
-Chin-Chih Chen, Jill V. Hamm, & Thomas W. Farmer. (2015). Exceptionality and Peer Victimization Involvement in Late Childhood: Subtypes, Stability, and Social Marginalization. Remedial and Special Education, 36(5). https://eric.ed.gov/?id=ED588091
+Chin-Chih Chen, Jill V. Hamm, Thomas W. Farmer, Kerrylin Lambert, & Meera Mehtaji. (2015). Exceptionality and Peer Victimization Involvement in Late Childhood: Subtypes, Stability, and Social Marginalization. Remedial and Special Education, 36(5). https://eric.ed.gov/?id=ED588091
 
 `q3 · i?` · `causal · r2`
 
-Multilevel logistic Model 2 in the cluster randomized trial tested intervention moderation of subtype placement. "There was no significant intervention effect of the SEALS program on students' peer victimization subtype placement"; equivalence was not tested.
+Multilevel logistic analyses in the cluster randomized trial: Model 1 estimated the associations with subtype placement, including the intervention's main effect, and Model 2 tested whether the associations between exceptionality status and subtype placement differed by intervention condition. "There was no significant intervention effect of the SEALS program on students' peer victimization subtype placement"; equivalence was not tested.
 
 > "There was no significant intervention effect of the SEALS program on students' peer victimization subtype placement, and the associations between exceptionality status and peer victimization subtypes did not differ between intervention and control schools."
 
 ### Chen et al. 2015 (2)
 
-Chin-Chih Chen, Jill V. Hamm, & Thomas W. Farmer. (2015). Exceptionality and Peer Victimization Involvement in Late Childhood: Subtypes, Stability, and Social Marginalization. Remedial and Special Education, 36(5). https://eric.ed.gov/?id=ED588091
+Chin-Chih Chen, Jill V. Hamm, Thomas W. Farmer, Kerrylin Lambert, & Meera Mehtaji. (2015). Exceptionality and Peer Victimization Involvement in Late Childhood: Subtypes, Stability, and Social Marginalization. Remedial and Special Education, 36(5). https://eric.ed.gov/?id=ED588091
 
 `q3 · i1` · `causal · r2`
 

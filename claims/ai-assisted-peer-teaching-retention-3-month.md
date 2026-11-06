@@ -56,3 +56,4 @@ Follow-up assessment completed by 174 of 190 participants (91.6%); the quote rep
 - [The accuracy advantage of MExplore-supported learning persisted at a 2-week retention test](mexplore-retention-advantage-two-weeks.md) — related
 - [The G-Jump group maintained and slightly improved its mean score from post-test to two-week follow-up, showing better short-term retention than the other groups](gjump-sustained-retention-follow-up.md) — related
 - [One month after the course, knowledge retention did not differ significantly between the AI-assisted and traditional-teaching groups](deepseek-assistant-no-retention-advantage-one-month.md) — related
+- [Advantages of scaffolded case-based learning persist and widen at Week 8, including significant knowledge retention differences](scaffolded-cbd-week8-retention.md) — related

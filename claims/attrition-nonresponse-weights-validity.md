@@ -49,3 +49,4 @@ Authors' account of longitudinal missing data: active collection only reached st
 - [Approximately one in four students who tested the prior year were missing from fall 2020 data, disproportionately Black or Latinx students in higher-poverty schools, so prior estimates likely understated pandemic impacts](missing-fall-2020-testers-understate-impacts.md) — related
 - [A Soft-Voting Ensemble achieves the best behavioral-dataset attrition prediction (CV F1 = 0.737, test recall = 0.769)](soft-voting-ensemble-behavioral-attrition-f1.md) — related
 - [Attrition was significantly higher in the app group than in the wait-list control group](hmp-trial-higher-attrition-treatment-group.md) — related
+- [Main findings were robust to inverse-probability weighting and propensity-score matching, but the mathematics effect lost significance in the lower-performing-half sample](robustness-ipw-psm-math-null.md) — related

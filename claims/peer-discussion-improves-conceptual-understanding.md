@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r?` · `q2`
-> **Currency** · newest study 2011 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2011 · not yet checked against its sources · not reviewed by a person
 
 Structured discussion with peers — articulating reasoning, confronting alternative ideas, and negotiating shared understanding — deepens conceptual learning beyond what passive reception achieves. The claim is scoped to *conceptual* outcomes (explanations, transfer, misconception resolution), not procedural fluency or recall.
 
@@ -120,7 +120,7 @@ An open question is how much of the benefit comes from the discussion itself ver
 - [Students in an open science citizen science platform gained understanding of experimental design and research ethics but struggled with peer review and aligning methods to questions](open-science-platform-students-gain-design-ethics-struggle-peer-review.md) — related
 - [Students who discussed the prompts answered them more often and gave more domain-related answers, and domain-relatedness predicted learning gain](domain-related-prompt-answers-predict-learning-gain.md) — a narrower finding that bears on this claim
 - [Active participation in interaction matters for second language developmental outcomes](active-participation-in-interaction-drives-development.md) — a narrower finding that bears on this claim
-- [Peer-to-peer prompts show promising effects on collaborative argumentation, consensus, and perceived efficacy, suggesting new roles for peer learning in classrooms](peer-prompts-argumentation-consensus-efficacy.md) — related
+- [An editorial describes a study of peer-to-peer prompts on collaborative argumentation, consensus and perceived efficacy as having promising results, without reporting its effects](peer-prompts-argumentation-consensus-efficacy.md) — related
 - [The learning cycle is reported as an effective means for learning science concepts and processes](learning-cycle-effective-science-learning.md) — related
 - [Students answering both clicker votes correctly score significantly higher on isomorphic exam questions than all other vote patterns](correct-correct-clicker-pattern-higher-exam-performance.md) — related
 - [Any clicker participation outperforms absence on exam questions, but the lowest quartile sees no significant benefit](any-clicker-pattern-beats-absence-except-lowest-quartile.md) — related

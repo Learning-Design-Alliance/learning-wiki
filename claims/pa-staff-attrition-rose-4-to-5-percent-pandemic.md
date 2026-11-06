@@ -54,3 +54,4 @@ Statewide observational analysis of Pennsylvania public school staff attrition c
 - [One-year principal retention rates were stable from fall 2016 to fall 2020 and did not decline during the COVID-19 pandemic year](one-year-principal-retention-stable-through-covid.md) — related
 - [LEA Design Teams came to believe that focusing first on teacher-of-color retention builds conditions that later support recruitment](retention-first-pays-recruitment-dividends.md) — related
 - [In-person learning in Pennsylvania LEAs expanded as the 2020–2021 school year progressed](pa-leas-in-person-learning-expanded-2020-21.md) — related
+- [Local-team CABG output rose sharply from 2020 during the COVID-19 pandemic, and by 2021 the local team had gained adequate skills to perform CABG on their own](local-team-independent-cabg-by-2021.md) — related

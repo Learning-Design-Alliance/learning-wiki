@@ -40,7 +40,7 @@ A Facebook-based learning environment designed using the Isman Instructional Des
 ### Claims
 - [Facebook Based Learning Enhances Creativity Writing Islamic Studies](../claims/facebook-based-learning-enhances-creativity-writing-islamic-studies.md) [+M]
 - [Facebook Based Learning Enhances Creativity Problem Solving Islamic Studies](../claims/facebook-based-learning-enhances-creativity-problem-solving-islamic-studies.md) [+M]
-- [Facebook Based Learning Enhances Creativity Missionary Motto Islamic Studies](../claims/facebook-based-learning-enhances-creativity-missionary-motto-islamic-studies.md) [+M]
+- [Islamic Studies students taught through Facebook-based learning scored significantly higher than a non-randomised control class on creativity in producing a missionary motto](../claims/facebook-based-learning-enhances-creativity-missionary-motto-islamic-studies.md) [+W]
 
 ## Related Designs
 - 

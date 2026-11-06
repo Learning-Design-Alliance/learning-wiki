@@ -55,3 +55,4 @@ Sex-stratified fully adjusted logistic regression for high language grades in th
 - [Physical activity and sleep quality independently predict GPA after adjusting for age and BMI, whereas BMI does not](pa-sleep-independent-gpa-predictors-regression.md) — related
 - [High intake of lemonade, sugar-sweetened soft drinks and salty snacks is associated with decreased odds of high academic achievement, mainly in girls](unhealthy-beverage-snack-intake-associated-lower-achievement.md) — related
 - [Sex does not moderate sleep–outcome associations](sex-no-moderation-sleep.md) — reports the opposite
+- [Higher BMI and extensive physical activity (2 h or more per day) are independently negatively associated with academic achievement](bmi-and-extensive-physical-activity-negative-factors-gpa.md) — related

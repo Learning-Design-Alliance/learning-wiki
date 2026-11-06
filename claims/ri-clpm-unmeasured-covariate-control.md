@@ -56,3 +56,6 @@ Methodological exposition (type d/e) in the section on the role of covariates, e
 - [RI-CLPM random-intercept correlations between grades and emotions (median |r| = 0.46) were stronger than the undecomposed CLPM correlations (median |0.34|)](riclpm-vs-clpm-correlation-strength.md) — related
 - [Adding cross-lagged effects significantly improves model fit over autoregressive models for every model tested](cross-lagged-improve-fit-over-autoregressive.md) — related
 - Reciprocal relations models fit better than unidirectional or baseline alternatives for both CLPM and RI-CLPM — related
+- [Changes in students' autonomous motivation predict later mathematics achievement over school trimesters, in a RI-CLPM of secondary students](autonomous-motivation-predicts-later-math-achievement-ri-clpm.md) — related
+- [Controlled motivation and mathematics achievement show no reciprocal cross-lagged relations in RI-CLPM models](no-reciprocal-relation-controlled-motivation-achievement.md) — related
+- [Between-person baseline levels: autonomous motivation and achievement correlate positively, controlled motivation and achievement weakly negatively](trait-level-correlations-motivation-achievement.md) — related

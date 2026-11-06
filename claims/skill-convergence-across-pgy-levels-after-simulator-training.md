@@ -45,6 +45,6 @@ Two-way repeated-measures ANOVA with Time (Weeks 1-4) and Task Module (Modules 1
 
 
 ## Related Claims
-- [Among PGY-1 and PGY-2 obstetrics and gynecology residents, task completion times were shorter after a structured four-week laparoscopic simulator curriculum than before, in one single-group pre-post study.](laparoscopic-simulator-training-improves-task-efficiency-pgy1-pgy2.md) — related
+- [Among PGY-1 and PGY-2 obstetrics and gynecology residents, task completion times were shorter in later weeks than in Week 1 of a structured four-week laparoscopic simulator curriculum, in one uncontrolled study with no pre-training baseline.](laparoscopic-simulator-training-improves-task-efficiency-pgy1-pgy2.md) — related
 - [PGY-3 residents entered laparoscopic simulator training with high baseline proficiency, and their completion times did not change significantly across the four-week curriculum in a single-group pre-test/post-test study.](pgy3-residents-maintain-stable-proficient-performance-throughout-training.md) — related
 - [The rate of improvement in laparoscopic task completion time differs significantly by training level, with a significant Training Level × Time interaction driven primarily by gains in PGY-1 and PGY-2 residents.](training-level-by-time-interaction-modulates-simulation-impact.md) — related

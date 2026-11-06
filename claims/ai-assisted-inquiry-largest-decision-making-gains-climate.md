@@ -9,12 +9,13 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: dimitrios-gousopoulos-2026
     resource: "https://doi.org/10.62225/2583049X.2026.6.3.6516"
     title: "Dimitrios Gousopoulos. (2026). Can AI-Assisted Inquiry Enhance Students' Decision-Making Skills in Socio-Scientific Issues? A Three-Group Experimental Study on Climate Change. International Journal of Advanced Multidisciplinary Research and Studies. https://doi.org/10.62225/2583049X.2026.6.3.6516"
     author: Dimitrios Gousopoulos
-    q: 3
+    q: 2
     i: "?"
     kind: causal
     rigour: "?"
@@ -23,11 +24,11 @@ sources:
 # AI-assisted inquiry produced larger decision-making gains than inquiry-only and traditional instruction in secondary climate-change education
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r?` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Evidence** · 1 study · causal `r?` · `q2`
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Secondary students in the AI-assisted inquiry group improved more in decision-making reasoning than students in inquiry-only and traditional instruction groups. [→ Dimitrios Gousopoulos 2026](#dimitrios-gousopoulos-2026)
+`q2 i?` Secondary students in the AI-assisted inquiry group improved more in decision-making reasoning than students in inquiry-only and traditional instruction groups. [→ Dimitrios Gousopoulos 2026](#dimitrios-gousopoulos-2026)
 
 ## Evidence
 
@@ -35,9 +36,9 @@ sources:
 
 Dimitrios Gousopoulos. (2026). Can AI-Assisted Inquiry Enhance Students' Decision-Making Skills in Socio-Scientific Issues? A Three-Group Experimental Study on Climate Change. International Journal of Advanced Multidisciplinary Research and Studies. https://doi.org/10.62225/2583049X.2026.6.3.6516
 
-`q3 · i?` · `causal · r?`
+`q2 · quasi-experiment` · `i?` · `causal · r?`
 
-Three-group pretest-posttest experiment with 270 secondary students (90 per group) comparing AI-assisted inquiry, inquiry without AI, and traditional instruction on climate-change decision-making. The study reports that "The AI-assisted group improved most, ahead of inquiry-only and of traditional instruction."
+Quasi-experimental three-group pretest-posttest study with 270 secondary students (90 per group), with intact classes, not individual students, assigned to the conditions, comparing AI-assisted inquiry, inquiry without AI, and traditional instruction on climate-change decision-making. The study reports that "The AI-assisted group improved most, ahead of inquiry-only and of traditional instruction."
 
 > "All three groups began at comparable, mostly low levels and all improved, but the gains differed sharply. The AI-assisted group improved most, ahead of inquiry-only and of traditional instruction."
 

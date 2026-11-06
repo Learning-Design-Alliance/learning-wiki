@@ -9,13 +9,14 @@ generated:
   at: 2026-10-23
 evidence_strength: moderate
 newest_evidence: 2013
+source_checked: 2026-11-06
 sources:
   - id: annique-smeding-2013
     resource: "https://doi.org/10.1037/a0032094"
     title: "Annique Smeding, Florence Dumas, Florence Loose, Isabelle Regner. (2013). Order of administration of math and verbal tests: An ecological intervention to reduce stereotype threat on girls’ math performance. Journal of Educational Psychology, 105 (3), pp.850-860. https://doi.org/10.1037/a0032094"
     author: Annique Smeding, Florence Dumas, Florence Loose, Isabelle Regner
     q: 3
-    i: "?"
+    i: 1
     kind: causal
     rigour: "?"
 ---
@@ -23,11 +24,11 @@ sources:
 # Altering the order of administration of math and verbal tests serves as an ecological intervention that reduces stereotype threat on girls’ math performance.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r?` · `q3`
-> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
+> **Evidence** · 1 study · causal `r?` · `q3` · `i1` small
+> **Currency** · newest study 2013 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Administering math and verbal tests in a manipulated order functions as an ecological intervention that reduces stereotype threat effects on girls’ math performance. [→ Annique Smeding 2013](#annique-smeding-2013)
+`q3 i1` In two studies, girls who took the verbal test before the math test performed as well as boys and better than girls who took the math test first (d = .19 and .28), while girls taking the math test first underperformed boys (d = .20 and .26). [→ Annique Smeding 2013](#annique-smeding-2013)
 
 ## Evidence
 
@@ -35,9 +36,9 @@ sources:
 
 Annique Smeding, Florence Dumas, Florence Loose, Isabelle Regner. (2013). Order of administration of math and verbal tests: An ecological intervention to reduce stereotype threat on girls’ math performance. Journal of Educational Psychology, 105 (3), pp.850-860. https://doi.org/10.1037/a0032094
 
-`q3 · i?` · `causal · r?`
+`q3 · i1` · `causal · r?`
 
-The article’s title, as printed in the Journal of Educational Psychology record, states the study’s intervention and outcome: test-order administration is framed as "An ecological intervention to reduce stereotype threat on girls’ math performance." No effect size is printed in the supplied material.
+Two studies varied whether students took the math or the verbal test first, analysed with ANCOVAs controlling for prior school math and French grades in Study 1 (df error = 1121) and for national-evaluation math and verbal test scores in Study 2 (df error = 492). In both, only the gender × test order interaction was significant for math performance. When the math test came first, girls underperformed boys (Study 1 d = .20; Study 2 d = .26); when the verbal test came first they performed as well as boys, and better than girls who took the math test first (Study 1 d = .19; Study 2 d = .28). The authors frame test order as "An ecological intervention to reduce stereotype threat on girls’ math performance."
 
 > "Order of administration of math and verbal tests: An ecological intervention to reduce stereotype threat on girls’ math performance."
 

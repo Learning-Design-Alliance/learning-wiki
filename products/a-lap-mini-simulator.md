@@ -24,7 +24,7 @@ A box-trainer simulator with a removable suturing sheet, made by Kyoto Kagaku Co
 
 ### Claims
 
-- [Among PGY-1 and PGY-2 obstetrics and gynecology residents, task completion times were shorter after a structured four-week laparoscopic simulator curriculum than before, in one single-group pre-post study.](../claims/laparoscopic-simulator-training-improves-task-efficiency-pgy1-pgy2.md) [+W]
+- [Among PGY-1 and PGY-2 obstetrics and gynecology residents, task completion times were shorter in later weeks than in Week 1 of a structured four-week laparoscopic simulator curriculum, in one uncontrolled study with no pre-training baseline.](../claims/laparoscopic-simulator-training-improves-task-efficiency-pgy1-pgy2.md) [+W]
 - [No significant differences in suturing skill scores or procedure time between aspiring-surgeon and aspiring-physician groups](../claims/no-skill-score-difference-between-aspiration-groups.md) [+W]
 
 ## Related Products and Programmes

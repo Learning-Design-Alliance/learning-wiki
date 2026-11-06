@@ -52,3 +52,4 @@ Structural equation modeling of survey data from 639 valid MTurk responses teste
 - [Perceived usefulness partially mediates the effect of perceived ease of use on behavioral intention to use m-learning apps](pu-partially-mediates-peou-bi.md) — related
 - [Habit has a positive significant effect on perceived usefulness and perceived ease of use of mobile library applications](habit-positive-effect-pu-peou-mla.md) — related
 - [Students found the inquiry-based mobile learning environment interest-generating, citing integration, ease of use, learning outside the classroom, and collaboration, with no sign of a novelty effect wearing off](students-found-mobile-environment-interest-generating.md) — related
+- [External influence factors positively affect perceived ease of use and perceived usefulness, with slightly larger coefficients than personal influence factors](external-factors-drive-peu-pu-blended-imaging.md) — related

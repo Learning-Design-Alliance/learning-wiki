@@ -51,6 +51,7 @@ The article recommends that surgeons in low case volume environments "establish 
 
 - [Use periodic high-intensity training sessions to compensate for uneven clinical case exposure in paediatric surgery](periodic-high-intensity-training-uneven-case-volumes.md)
 - [Train robotic surgery teams regularly by simulating intraoperative emergencies and maintain a dedicated team](ras-team-emergency-simulation-training-strategy.md)
+- [Establish standardized team-based training programs and troubleshooting protocols covering console surgeons and surgical assistants](standardized-team-training-troubleshooting-protocols-rats.md)
 
 ## Examples
 -

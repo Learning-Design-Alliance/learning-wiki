@@ -40,7 +40,7 @@ Given teachers' unique predictive power, the article recommends "more comprehens
 
 - [In SEM, only teachers' SEL reports significantly predicted students' academic scores, with students' and parents' contributions non-significant](../claims/sem-only-teachers-sel-predicts-academic-scores.md) [+W]
 - [Teachers' SEL ratings correlate more strongly with students' academic scores than students' or parents' ratings, and only teachers maintain significant correlations in ninth grade](../claims/teacher-sel-ratings-strongest-academic-correlations.md) [+W]
-- [Parents rate Arabic-speaking students' SEL skills higher than students themselves, and teachers rate them lowest (parents > students > teachers), regardless of grade level](../claims/sel-perception-discrepancy-parents-students-teachers.md) [+W]
+- [Parents rate Arabic-speaking students' SEL skills higher than students themselves, and teachers rate them lowest (parents > students > teachers) overall, though all three differ significantly only in grades seven and nine](../claims/sel-perception-discrepancy-parents-students-teachers.md) [+W]
 - [SEL ratings decline with grade level, and informant discrepancies widen with age (significant group × grade interaction)](../claims/sel-ratings-decline-with-grade-discrepancies-widen.md) [~W]
 
 ## Related Strategies

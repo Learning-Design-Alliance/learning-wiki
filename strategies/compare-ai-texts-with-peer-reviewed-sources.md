@@ -47,6 +47,7 @@ This strategy positions AI use inside a critical-comparison activity: learners e
 - [Embed GenAI-focused reflection within self-assessment as a pedagogical strategy for ethical inquiry](embed-genai-reflection-within-self-assessment.md)
 - [Embed explicit AI ethics instruction early and use scenario-based, guidance-oriented teaching](early-embedded-ai-ethics-instruction-strategy.md)
 - [Embed explicit AI-integrity practices such as ethics lessons, usage pledges, and AI-output marking into science instruction](ai-integrity-practices-science-classroom.md)
+- [Integrate artificial intelligence into digital teaching with careful planning, quality-assured data, and explicit teaching of critical handling](ai-integration-digital-teaching-pharmacy.md)
 
 ## Examples
 -

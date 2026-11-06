@@ -11,8 +11,8 @@ generated:
 sources:
   - id: fricke-1976
     resource: "https://eric.ed.gov/?id=ED127854"
-    title: "Fricke, B. G. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854"
-    author: Fricke, B. G
+    title: "Ericksen, S. C. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854"
+    author: Ericksen, S. C.
 ---
 
 # Mastery criterion with remediation and retesting
@@ -60,4 +60,4 @@ A mastery criterion is a single criterion — such as a specified number of corr
 - [Exit students from tutoring once they consistently read at the average level for their grade](../strategies/exit-tutoring-at-grade-level-consistency.md)
 
 ## Key Sources
-- Fricke, B. G. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854
+- Ericksen, S. C. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854

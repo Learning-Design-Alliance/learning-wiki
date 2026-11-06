@@ -46,4 +46,4 @@ Teacher's continuous assessment records for the CLIL group between 13.12.2012 an
 
 ## Related Claims
 - [CLIL students scored higher than non-CLIL students on a mathematics test of quadratic equations](clil-students-score-higher-math-test.md) — related
-- [Project-based CLIL significantly improved written English competence of mathematics students over one semester](project-based-clil-improves-written-english-competence.md) — related
+- [Mathematics students' written English competence scores rose slightly over one semester of project-based CLIL, but the study reports no valid test of the change](project-based-clil-improves-written-english-competence.md) — related

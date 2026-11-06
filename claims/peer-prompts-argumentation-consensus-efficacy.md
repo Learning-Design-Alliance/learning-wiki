@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Peer-to-peer prompts show promising effects on collaborative argumentation, consensus, and perceived efficacy, suggesting new roles for peer learning in classrooms
-description: Peer-to-peer prompts show promising effects on collaborative argumentation, consensus, and perceived efficacy, suggesting new roles for peer learning in classrooms
+title: An editorial describes a study of peer-to-peer prompts on collaborative argumentation, consensus and perceived efficacy as having promising results, without reporting its effects
+description: An editorial describes a study of peer-to-peer prompts on collaborative argumentation, consensus and perceived efficacy as having promising results, without reporting its effects
 id: peer-prompts-argumentation-consensus-efficacy
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: weak
 newest_evidence: 2017
+source_checked: 2026-11-06
 sources:
   - id: carolyn-p-rosé-2017
     resource: "https://doi.org/10.1007/s11412-017-9265-7"
@@ -20,14 +21,14 @@ sources:
     rigour: 2
 ---
 
-# Peer-to-peer prompts show promising effects on collaborative argumentation, consensus, and perceived efficacy, suggesting new roles for peer learning in classrooms
+# An editorial describes a study of peer-to-peer prompts on collaborative argumentation, consensus and perceived efficacy as having promising results, without reporting its effects
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` In an experimental study embedded in an undergraduate Psychology course, prompts delivered peer-to-peer (with instructor modeling first) yielded promising results on argumentation, consensus, and perceived efficacy outcomes. [→ Carolyn P. Rosé 2017](#carolyn-p-rose-2017)
+`q2 i?` In an experimental study embedded in an undergraduate Psychology course, prompts delivered peer-to-peer (with instructor modeling first) were compared with instructor-delivered prompts on consensus, perceived efficacy and argumentation process measures; the editorial says only that "the results of the study suggest exciting new roles for peer learning" and calls them "promising", without stating the direction, size or significance of any effect. [→ Carolyn P. Rosé 2017](#carolyn-p-rose-2017)
 
 ## Evidence
 

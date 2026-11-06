@@ -70,6 +70,7 @@ The authors recommend formally embedding simulation-based learning into undergra
 - [Include simulation-based experiences with standardized patients focused on basic care from the early stages of nursing education](early-basic-care-sbe-with-standardized-patients.md)
 - [Incorporate 3D-printed temporal bone models into surgical training programs to accelerate the learning curve](3d-printed-temporal-bone-training-programs.md)
 - [Integrate prompt engineering into medical curricula through hands-on workshops, simulation-based learning, and AI courses](prompt-engineering-in-medical-curricula.md)
+- [Provide increased exposure to patients with dysphagia during SLT training to raise self-perceived competency](increase-dysphagia-patient-exposure-strategy.md)
 
 ## Examples
 -

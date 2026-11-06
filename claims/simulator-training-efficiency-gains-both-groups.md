@@ -85,3 +85,5 @@ Within-group comparison across later clinical cases; "From Case 4 onward, studen
 ## Related Claims
 - [No significant between-group differences in learning-process measures across the simulator's clinical cases](pocus-process-measures-no-between-group-difference.md) — related
 - [Post-training objective assessments show significantly reduced operation time in pattern cutting and suturing tasks and improved suturing quality](objective-task-time-reduction-suturing-quality-gain.md) — related
+- [Pair training favored the intervention group on instrument movements and instrument pathway only during the fourth MIS RYGB, with no difference in performance time](pair-training-no-time-difference-instrument-metrics.md) — related
+- [In all three groups, time decreased and smoothness values rose significantly from pre-test to later tests, with no significant group differences in handedness or distance between instrument tips](within-group-improvement-all-groups.md) — related

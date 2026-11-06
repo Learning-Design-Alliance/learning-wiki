@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r1`, 1 review `r?` · `q2` · `i2` medium
-> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 Presenting the same content in more than one representational format (e.g., verbal and visual, or concrete and abstract) can support learning by giving learners complementary routes into the material. The benefit depends on the representations being relevant, well-coordinated, and manageable within working memory.
 
@@ -96,7 +96,7 @@ This review addresses the "representation dilemma": students often must learn un
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — too many simultaneous representations can backfire
 - [Expertise reversal effect](../theories/expertise-reversal-effect.md) — redundant representations can lose value as expertise grows
 - [Dual coding theory](../theories/dual-coding-theory.md) — the primary theoretical rationale for pairing verbal and visual formats
-- [Creating computational literature develops computational literacy even when code modification is minor](creating-computational-literature-develops-computational-literacy.md) — related
+- [In a qualitative case study of two student pairs, creating computational literature was associated with computational literacy development even when code modification was minor](creating-computational-literature-develops-computational-literacy.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — a broader claim this one bears on
 - [Engineering physics undergraduates are more curious than they appear in lecture when given the chance to submit questions about interactive simulations](students-more-curious-than-lecture-appears.md) — related
 - [Instruction on scalar electric potential produces a pronounced dip in correct vector-based Newton's Third Law responses in E&M](scalar-instruction-interferes-with-vector-responses.md) — related

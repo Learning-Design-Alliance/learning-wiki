@@ -1,7 +1,7 @@
 ---
 type: claim
-title: SFHC intervention improved nursing learning self-efficacy scores post-intervention
-description: SFHC intervention improved nursing learning self-efficacy scores post-intervention
+title: In a nonrandomized cohort, nursing interns taught with SFHC scored higher on learning self-efficacy after the intervention than interns taught traditionally
+description: In a prospective cohort of 132 nursing interns allocated by school type and residence, the SFHC group's post-intervention Nursing Learning Self-Efficacy Scale scores were significantly higher than the traditional-teaching group's, with no baseline difference; the design cannot establish that SFHC caused the difference
 id: sfhc-improved-nursing-self-efficacy
 status: review
 generated:
@@ -20,7 +20,7 @@ sources:
     rigour: 1
 ---
 
-# SFHC intervention improved nursing learning self-efficacy scores post-intervention
+# In a nonrandomized cohort, nursing interns taught with SFHC scored higher on learning self-efficacy after the intervention than interns taught traditionally
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -37,7 +37,7 @@ Hou Wenwen, Luo Qiongting, Yu Xiaofen, Wang Xinyu, Wang Zheng. (2026). A prospec
 
 `q2 · i?` · `causal · r1`
 
-Prospective cohort study comparing SFHC and traditional teaching groups on the Nursing Learning Self-Efficacy Scale. The article reports post-intervention scores of "67.90 ± 5.86 vs. 70.25 ± 6.08" with "t = 2.140, P = 0.0344". No effect size was printed.
+Prospective cohort study comparing SFHC and traditional teaching groups on the Nursing Learning Self-Efficacy Scale. The article reports post-intervention scores of "67.90 ± 5.86 vs. 70.25 ± 6.08" with "t = 2.140, P = 0.0344". No effect size was printed. Interns were not randomized: they were allocated "according to their school type and residential status" (local interns commuting from campus accommodation to the control group, most non-local interns renting near the hospital to the SFHC group), so the post-intervention difference cannot be attributed to the intervention alone.
 
 > "However, the post-intervention scores showed a statistically significant difference (67.90 ± 5.86 vs. 70.25 ± 6.08, t = 2.140, P = 0.0344)"
 

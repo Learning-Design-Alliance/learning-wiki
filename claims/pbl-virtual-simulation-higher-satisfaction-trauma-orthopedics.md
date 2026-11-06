@@ -81,3 +81,4 @@ Same assessor-blinded RCT of 50 clinical medical students. Teaching effectivenes
 - [Students trained with the virtual simulation platform report higher learning satisfaction than traditionally taught students](virtual-simulation-higher-learning-satisfaction.md) — related
 - [Experimental-group students report high satisfaction with VSO but note limited emotional interaction and virtual-to-real transfer issues](vso-student-survey-feedback.md) — related
 - [Both groups evaluate the FOCUS e-learning positively, with physicians rating it significantly higher overall](elearning-positively-evaluated-both-groups.md) — related
+- [Residents in the scaffolded case-based learning group report maximal teaching satisfaction compared with the lecture-based group](scaffolded-cbd-teaching-satisfaction.md) — related

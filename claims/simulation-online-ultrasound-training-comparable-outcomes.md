@@ -50,3 +50,4 @@ Prospective randomized blinded trial with 68 physiotherapy students (n=34 per gr
 - [Conventional and hybrid instruction produced higher practical exam scores than digital-only Ren'Py instruction in physiotherapy students](face-to-face-hybrid-beat-digital-only-practical-exam-physiotherapy.md) — related
 - [Simulation-based and traditional training produce no statistically significant differences in ultrasound-guided nerve identification success rates across most anatomical approaches](husp-simulation-no-success-rate-difference.md) — related
 - [Procedure times were similar between simulation and traditional groups across most nerve block approaches](procedure-times-similar-most-approaches.md) — related
+- [On the non-randomized circulation topic, the 182 students taught on site answered the exam questions significantly better than the 16 students taught online](circulation-topic-onsite-outperformed-online.md) — related

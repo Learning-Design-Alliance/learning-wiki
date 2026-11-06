@@ -50,3 +50,4 @@ Real-setting Mini-CEX evaluation two weeks post-course in the same RCT (Table 8)
 - [The serious game intervention produced statistically significant post-intervention improvements in all seven Mini-CEX skill domains with large effect sizes (partial η² 0.71–0.90)](serious-game-all-seven-mini-cex-domains.md) — related
 - [Integrated model improves all seven Mini-CEX domains, largest gain in physical examination](microskills-cptm-minicex-all-domains.md) — related
 - [Mini-CEX intervention groups achieved significantly higher ward test scores than control groups (Cohen's d = 0.65)](mini-cex-higher-ward-test-scores.md) — related
+- [Eight of nine supervision domains rose significantly from pre-test to post-test, while 'residents were present during critical moments' did not change (p = 0.161), in one single-group pre-post study](supervision-domains-improved-except-presence-critical-moments.md) — related

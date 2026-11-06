@@ -68,7 +68,7 @@ Glaser's design orientation sets a task sequence: specify the terminal performan
 - [Pre-test analysis showed participants across all four groups had inadequate knowledge of English classified ads rules, writing simple sentences instead of omitting articles, conjunctions, prepositions, verbs, and pronouns.](../claims/pretest-inadequate-classified-ads-rules.md) [+W]
 - [Prior knowledge measures were strong predictors of both algebra outcomes](../claims/prior-knowledge-strong-predictor-algebra-outcomes.md) [+W]
 - [Most second-year dental students had no or limited prior exposure to space management concepts before the module.](../claims/limited-prior-exposure-space-management.md) [~W]
-- [Pre-course test reveals high factual recall but insufficient clinical application ability under traditional teaching](../claims/pre-course-test-reveals-application-deficit-traditional-teaching.md) [~W]
+- [On a pre-course test, residency trainees in a nuclear medicine course scored above 90% on some conceptual items but below 65% on several treatment-application items, with wide variation across items](../claims/pre-course-test-reveals-application-deficit-traditional-teaching.md) [~W]
 - [Baseline knowledge did not differ between early and mid academic year residents, suggesting routine exposure is inadequate](../claims/no-baseline-difference-academic-year.md) [+W]
 - [Prior angiography experience, not instructional format, showed the most consistent association with objective performance](../claims/experience-most-consistent-performance-predictor.md) [+W]
 - [Baseline positioning performance was equivalent across all three groups and indicated a need for change](../claims/baseline-equivalent-need-for-change.md) [+W]

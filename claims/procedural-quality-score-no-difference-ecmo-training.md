@@ -51,3 +51,4 @@ In the same randomized trial, blinded video-based assessment using a Delphi-deri
 - [Procedural simulation workshop training is associated with better advanced communication performance than high-fidelity simulation training](procedural-workshop-better-advanced-communication-ecmo.md) — related
 - [Median procedural performance rubric scores improved from 16 to 26.5 after simulation-based mastery learning training (p < 0.001)](sbml-probing-rubric-score-improvement.md) — related
 - [No significant between-group differences in learning-process measures across the simulator's clinical cases](pocus-process-measures-no-between-group-difference.md) — related
+- [The eCPR simulation significantly increased comfort with cannulation procedures, eCPR candidacy criteria, and postcannulation resuscitation](ecpr-simulation-domain-comfort-gains.md) — related

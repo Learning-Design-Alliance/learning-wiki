@@ -57,3 +57,4 @@ Bootstrapping analysis submitting each exam to GPT-4 50 times (API 'n' parameter
 - [GPT-4o was the most inconsistent chatbot, with 19 questions answered correctly in the first round answered incorrectly in the second](gpt-4o-most-inconsistent-across-rounds.md) — related
 - [Temperature parameter has a statistically significant but negligible effect on GPT-4o exam accuracy (ηG² = 0.0017), with global accuracy peaking at temperature 0.23](temperature-effect-negligible-gpt4o-accuracy.md) — related
 - [Concise, focused case summaries are associated with ChatGPT-4 reaching the correct diagnosis](concise-summaries-associated-correct-diagnosis.md) — related
+- [Temperature settings (0.3, 0.6, 1.3) did not significantly affect GPT-4o accuracy on EUNACOM questions](temperature-no-effect-eunacom-accuracy.md) — related

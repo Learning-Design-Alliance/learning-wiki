@@ -9,6 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 recheck_by: 2029
 sources:
   - id: abigail-victoria-gurin-schleifer-2026
@@ -33,10 +34,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
-`q2 i?` The authors summarise AI-model performance on the extremes of the quality spectrum (best and worst responses) as excellent regardless of model type and amount of task-specific data, with exceptions in their own table: two-shot GPT-4o on Item 2 at the low end, and Claude Opus 4.5 on Item 2, which was far off at every score level. [→ Abigail Victoria Gurin Schleifer 2026](#abigail-victoria-gurin-schleifer-2026)
+`q2 i?` The authors summarise AI-model performance on the extremes of the quality spectrum (best and worst responses) as excellent regardless of model type and amount of task-specific data, with exceptions in their own table: two-shot GPT-4o on Item 2 at the low end, and Claude Opus 4.5 on Item 2, which the authors call erratic and "by far the worst model for Item 2" (Table 1: 5.57, 4.90 and 5.14 categories off at score levels 0–2, falling to 1.76 and 2.18 at levels 9–10). [→ Abigail Victoria Gurin Schleifer 2026](#abigail-victoria-gurin-schleifer-2026)
 `q2 i?` All few-shot models suffered substantial mid-range degradation, with average distance of more than two categories from the gold label at score levels 4-7 in all but one of 48 GPT-model results. [→ Abigail Victoria Gurin Schleifer 2026 (2)](#abigail-victoria-gurin-schleifer-2026-2)
 
 ## Evidence

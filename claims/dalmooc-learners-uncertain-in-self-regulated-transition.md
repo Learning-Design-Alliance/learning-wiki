@@ -50,3 +50,4 @@ Early observational results from the Fall 2014 dual-layer MOOC (DALMOOC) on edX 
 ## Related Claims
 - [Participation in Bazaar synchronous chat sessions is associated with roughly a 50 percent lower risk of dropout in an edX MOOC](chat-participation-halves-dropout-risk.md) — related
 - [Some Chinese students felt uncomfortable with case-based learning due to lack of structured instruction content](case-based-learning-uncomfortable-unstructured-instruction.md) — related
+- [Nursing students experienced initial confusion followed by progressive exploration and problem-solving in the in-class flipped classroom](progressive-learning-experience-confusion-to-problem-solving.md) — related

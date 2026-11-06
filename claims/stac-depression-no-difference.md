@@ -49,3 +49,4 @@ GLM repeated measures ANOVA using the BASC-3 SRP-A Depression scale (sample α =
 - [No significant differences between STAC intervention and control groups in frequency of using the STAC strategies at 30-day follow-up](stac-strategy-use-no-group-differences.md) — related
 - [Junior high students in both the STAC intervention and wait-list control groups increased knowledge and confidence to intervene in bullying, with no significant group difference, suggesting carry-over effects](stac-knowledge-confidence-increase-both-groups-carryover.md) — related
 - [STAC-trained junior high students reported a significantly greater ability to identify bullying at 30-day follow-up than wait-list control students](stac-increases-ability-identify-bullying.md) — related
+- [The intervention did not affect school burnout symptoms; both conditions reported increased burnout from pre to 1-year follow-up.](explore-your-brain-no-burnout-effect.md) — related

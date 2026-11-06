@@ -316,6 +316,9 @@ An end-of-course exam advantage, delayed retention, self-efficacy, preparation r
 - [Use AI-generated vignette item sets for post-lecture review and preclinical preparation](../strategies/vega-preclinical-preparation-strategy.md)
 - [Use third-party video resources as preassignment work for flipped classrooms to lessen faculty burden](../strategies/third-party-preassignment-strategy.md)
 - [Five-component blended teaching-practicing module for SRP instruction](../designs/five-component-srp-teaching-practicing-module.md)
+- [Apply Dong et al.'s five flipped-classroom recommendations step-by-step when integrating flipped simulation into PAL simulation courses](../strategies/flipped-simulation-five-recommendations-strategy.md)
+- [In-class flipped classroom model for nursing practice teaching](../designs/in-class-flipped-classroom-model.md)
+- [Seven-step in-class flipped classroom procedure for nursing skills lab courses](../designs/seven-step-in-class-flipped-procedure.md)
 
 ### Illustrative
 

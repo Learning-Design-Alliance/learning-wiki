@@ -45,6 +45,7 @@ The article recommends that future iterations of the G-Jump model incorporate ex
 
 - [Add interactive features — quizzes, gamified modules, and simulated clinical scenarios — to future versions of skills-training software](future-interactive-features-quizzes-gamification-scenarios.md)
 - [Crossover gamified childbirth-protocol training design: half the topics gamified, half lectured, then reversed](crossover-gamified-protocol-training-strategy.md)
+- [Refine IBVR modules with clearer narration, shorter sessions, and gamification to raise hedonic appeal](ibvr-refinements-narration-gamification.md)
 
 ## Examples
 -

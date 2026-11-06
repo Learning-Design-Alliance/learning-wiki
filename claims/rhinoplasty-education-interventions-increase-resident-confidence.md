@@ -54,3 +54,4 @@ The scoping review's synthesis found that "all but one study reported increased 
 - [Experiential education interventions for medical residents showed little effect on medication reconciliation competence and skills](resident-experiential-interventions-little-effect.md) — reports the opposite
 - [A 25-minute skill-focused ultrasound training curriculum enabled all 30 participants to successfully complete US-guided cannulation on a simulation model](brief-skill-focused-us-training-100-cannulation-success.md) — related
 - [All five studies that assessed changes in resident knowledge reported increased knowledge about the specific rhinoplasty technique following the intervention.](rhinoplasty-education-interventions-increase-resident-knowledge.md) — related
+- [Pair-trained students reported higher confidence in their performance but perceived the procedure as less challenging than solo-trained students](qcm-confidence-challenge-pair-training.md) — related

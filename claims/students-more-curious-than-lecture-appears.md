@@ -57,3 +57,4 @@ Observational classroom study in a junior-level electromagnetics engineering phy
 - [Curiosity about trivia answers is a U-shaped function of confidence, supporting information-gap theory](curiosity-u-shaped-function-of-confidence.md) — a broader claim this one bears on
 - [Without feedback, people are more curious about high-confidence errors than about equally high-confidence correct answers, replicated across experiments](no-feedback-high-confidence-errors-more-curiosity.md) — related
 - [In a 2012-13 survey of 241 junior-level engineering students, 92% identified as visual learners and 93% owned a smartphone or tablet](survey-visual-learners-device-ownership.md) — related
+- [Anonymity in remote lectures increased student engagement in question-asking, while remote workshops suffered from absent non-verbal cues and reduced interactivity](remote-anonymity-engagement-workshop-communication-loss.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-10-19
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-06
 recheck_by: 2028
 sources:
   - id: mulvihill-2025
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
+> **Currency** · newest study 2025 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2028: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Cronbach's alpha was acceptable for meta-attention control (0.93/0.91), monitoring (0.78/0.77), and strategy knowledge items (0.84/0.81) in Studies One and Two respectively. [→ Mulvihill 2025](#mulvihill-2025)
@@ -40,7 +41,7 @@ Mulvihill, A., Matthews, N., Chidley, K., Macmahon, S., Armitage, K. L., Sherloc
 
 Reliability analysis in Study One (N = 293) using Cronbach's alpha on the finalised scales; Study Two (N = 83) replicated with alphas of 0.91, 0.77, and 0.81. The article states these were "considered acceptable".
 
-> "The internal consistencies for the meta-attention control subscale (α = 0.93), meta-attention monitoring subscale (α = 0.78), and the strategy knowledge items (α = 0.84) were considered acceptable."
+> "The internal consistencies for the meta-attention control subscale (α = 0.93), meta-attention monitoring subscale (α = 0.78), and the meta-attention strategy items (α = 0.84) were considered acceptable."
 
 ## Discussion
 

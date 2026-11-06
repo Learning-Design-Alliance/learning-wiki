@@ -45,7 +45,7 @@ Dichotomous final item of the validation questionnaires in the twelve-expert cro
 
 
 ## Related Claims
-- [Expert endourologists rate an Aquablation training simulator as highly realistic, with face-validity items averaging above 3.4 on a 4-point scale and Cronbach's alpha of 0.92](aquablation-simulator-high-face-validity.md) — related
+- [Twelve expert urologists rate an Aquablation training simulator as realistic, with face-validity item means of 3.25 to 3.75 on a 4-point scale and Cronbach's alpha of 0.92](aquablation-simulator-high-face-validity.md) — related
 - [Content validity of the Aquablation simulator is rated excellent by experts, with an S-CVI/Ave of 0.91 but unanimous agreement on only half of the items (S-CVI/UA = 0.50)](aquablation-simulator-content-validity-scvi.md) — related
 - [Item-total correlations for the face-validity questionnaire range from 0.53 to 0.88, supporting the instrument's internal consistency](aquablation-face-survey-item-total-correlations.md) — related
 - [Most Aquablation procedural steps receive I-CVI values exceeding 0.80, with average relevance scores of 3.5 or higher and medians reaching 4](aquablation-content-items-icvi-above-080.md) — related

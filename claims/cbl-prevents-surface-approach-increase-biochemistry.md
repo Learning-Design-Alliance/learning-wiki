@@ -46,7 +46,7 @@ Quasi-experimental comparison of four course offerings (non-CBL n=86, CBL n=103)
 
 ## Related Claims
 - [Findings from other postgraduate specialties suggest PBL and CBL improve performance, knowledge and confidence, but overall RCT quality in this field is deemed unsatisfactory](other-postgraduate-specialty-reviews-pbl-cbl-quality-unsatisfactory.md) — related
-- [In a randomised trial of 80 first-year postgraduate oncology trainees, CBL produced significantly higher examination scores and satisfaction than traditional lecture-based learning, though confidence intervals crossed the null for examination results](bi-rct-cbl-higher-posttest-scores-satisfaction.md) — related
+- [In a randomised trial of 80 first-year postgraduate oncology trainees, a CBL group that also had PowerPoint teaching reported significantly higher examination scores and satisfaction than lecture-based teaching, though confidence intervals crossed the null for examination results](bi-rct-cbl-higher-posttest-scores-satisfaction.md) — related
 - [PBL-CBL improves physical examination and case analysis performance relative to LBL](pbl-cbl-physical-exam-case-analysis.md) — related
 - [Case-based learning is viewed positively by practicing doctors, with all eligible postgraduate studies reporting favourable perceptions](cbl-viewed-positively-practicing-doctors.md) — related
 - [MOOC-HFS blended model promotes deep learning approaches without changing surface learning on R-SPQ-2F](mooc-hfs-promotes-deep-learning-approaches.md) — related

@@ -47,7 +47,7 @@ The paper's lesson-of-MOOCs analysis states that by 2016 it became clear MOOCs "
 
 ## Related Claims
 - [MOOC adoption remains limited to a small segment of higher education institutions, with most institutions deciding against or remaining undecided about MOOCs](mooc-adoption-small-segment-institutions.md) — a narrower finding that bears on this claim
-- [A review of music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes](moocs-low-completion-embodied-music-learning.md) — a narrower finding that bears on this claim
+- [A discussion article on music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes](moocs-low-completion-embodied-music-learning.md) — a narrower finding that bears on this claim
 - [Connectivist MOOC aggregation-remix-repurpose-feed-forward model neglects personal self-transformation](connectivist-mooc-neglects-self-transformation.md) — related
 - [A technical review reports a 70% cut in grading time and a 15% rise in learner satisfaction from NLP-based automated grading on one MOOC platform, with no comparison design described](mooc-nlp-grading-70-percent-time-reduction.md) — related
 - [GPT-4 achieves high recall (average 0.958) but low precision (average 0.526) when de-identifying MOOC forum posts](gpt4-high-recall-low-precision-pii-redaction.md) — related

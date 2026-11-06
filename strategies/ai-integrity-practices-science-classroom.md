@@ -43,6 +43,7 @@ This strategy packages the classroom practices teachers in the study used to sup
 - [Embed ethical inquiry into AI-supported instruction by having learners compare AI-generated texts with peer-reviewed sources](compare-ai-texts-with-peer-reviewed-sources.md)
 - [Design AI-integration activities that set explicit expectations for AI-assisted work, integrate reflective assessments of AI outputs, and build tasks strengthening critical thinking and academic integrity](explicit-expectations-reflective-assessments-ai-tasks.md)
 - [Strategies for integrating GenAI in STEAM teaching: outcome-anchored lesson planning, differentiation, inquiry and project variants, assessment redesign, and integrity as pedagogy](genai-steam-integration-strategies.md)
+- [Integrate artificial intelligence into digital teaching with careful planning, quality-assured data, and explicit teaching of critical handling](ai-integration-digital-teaching-pharmacy.md)
 
 ## Examples
 -

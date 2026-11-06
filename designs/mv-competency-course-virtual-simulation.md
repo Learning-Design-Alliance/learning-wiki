@@ -44,7 +44,8 @@ An 8-month online competency-based MV course built on 20 competencies adapted fr
 - [Virtual Sba No Pgy Difference](../claims/virtual-sba-no-pgy-difference.md) [+M]
 
 ## Related Designs
-- 
+
+- [Fully online virtual bedside teaching course for pharmacy students (Universität München)](virtual-bedside-teaching-online-course-munich.md)
 
 ## Examples
 -

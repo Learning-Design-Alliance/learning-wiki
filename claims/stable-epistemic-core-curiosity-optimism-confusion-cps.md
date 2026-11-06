@@ -68,3 +68,4 @@ ONA of retrospective cued-recall affect reports from 9 groups completing a situa
 - [Educators prioritize a creative mindset including creative problem-solving, diversity of perspectives, and playful inquiry](makerspace-creative-mindset-competency.md) — related
 - Physiological research on academic emotion constructs is sparse: no studies of normal confusion, one of frustration, and one of curiosity — related
 - [Learners in the Wikipedia classroom reported higher motivation, sense of communal work, collaboration, and pleasure, and less confusion than learners in the traditional classroom](wikipedia-classroom-motivation-collaboration.md) — related
+- [Nursing students experienced initial confusion followed by progressive exploration and problem-solving in the in-class flipped classroom](progressive-learning-experience-confusion-to-problem-solving.md) — a narrower finding that bears on this claim

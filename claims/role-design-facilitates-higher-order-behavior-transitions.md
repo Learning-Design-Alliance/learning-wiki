@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Transitions among higher-order collaborative behaviors were observed from pre-test to post-test after role design in human-GAI collaboration, in one group with no comparison group
-description: Transitions among higher-order collaborative behaviors were observed from pre-test to post-test after role design in human-GAI collaboration, in one group with no comparison group
+title: Transitions among higher-order collaborative behaviors were observed from pre-test to post-test after role design in human-GAI collaboration, among 58 students in 16 teams with no comparison group
+description: Transitions among higher-order collaborative behaviors were observed from pre-test to post-test after role design in human-GAI collaboration, among 58 students in 16 teams with no comparison group
 id: role-design-facilitates-higher-order-behavior-transitions
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: cheng-2026
     resource: "https://doi.org/10.19173/irrodl.v27i2.9189"
@@ -20,14 +21,14 @@ sources:
     rigour: "?"
 ---
 
-# Transitions among higher-order collaborative behaviors were observed from pre-test to post-test after role design in human-GAI collaboration, in one group with no comparison group
+# Transitions among higher-order collaborative behaviors were observed from pre-test to post-test after role design in human-GAI collaboration, among 58 students in 16 teams with no comparison group
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Transitions among higher-order collaborative behaviors were observed from pre-test to post-test after the role intervention, in one group with no comparison group, as shown by lag sequential analysis of interaction. [→ Cheng 2026](#cheng-2026)
+`q3 i?` Transitions among higher-order collaborative behaviors were observed from pre-test to post-test after the role intervention, in a single-condition pretest-posttest design (58 analysed students in 16 collaborative groups) with no comparison condition, as shown by lag sequential analysis of interaction. [→ Cheng 2026](#cheng-2026)
 
 ## Evidence
 

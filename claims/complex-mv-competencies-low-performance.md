@@ -47,5 +47,5 @@ Competency-level analysis of virtual SBA item performance (Table 3) across five 
 
 ## Related Claims
 - [Accuracy on basic ECG electrophysiology items is high but drops sharply on complex patterns](ecg-basic-high-complex-low-accuracy.md) — a broader claim this one bears on
-- [Pre-course test reveals high factual recall but insufficient clinical application ability under traditional teaching](pre-course-test-reveals-application-deficit-traditional-teaching.md) — a broader claim this one bears on
+- [On a pre-course test, residency trainees in a nuclear medicine course scored above 90% on some conceptual items but below 65% on several treatment-application items, with wide variation across items](pre-course-test-reveals-application-deficit-traditional-teaching.md) — a broader claim this one bears on
 - [Resident confidence in mechanical ventilation skills increased after the course for all skills except setting parameters for patients with obstructive lung disease](confidence-increase-mv-skills-course.md) — related

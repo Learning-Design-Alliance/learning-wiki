@@ -51,3 +51,4 @@ The review reports a follow-up fMRI study by Jeong et al. examining encoding und
 - [L2 words learned via simulated social interaction are processed like L1 words, engaging right SMG rather than left middle frontal gyrus](social-video-l2-words-engage-right-smg-like-l1.md) — related
 - [VR-based interactive L2 vocabulary learning shows cortical-thickness correlations in right IPL across training and with delayed retention, unlike non-VR learning](vr-l2-cortical-thickness-right-ipl.md) — related
 - [Brain activation associated with theory of mind increases with the human-likeness of an interaction partner](human-likeness-increases-theory-of-mind-activation.md) — related
+- [During lecturing in blended teaching, teacher TPJ activity preceded student MFC activity by 8–10 s in time-lagged teacher–student neural synchronization](teacher-student-time-lagged-synchronization-tpj-mfc.md) — related

@@ -9,11 +9,12 @@ generated:
   at: 2026-10-15
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-06
 sources:
   - id: deunk-2018
     resource: "https://doi.org/10.1016/j.edurev.2018.02.002"
-    title: "Deunk, M. I., Jacobse, A. E., de Boer, H., Doolaard, S., & Bosker, R. J. (2018). Effective differentiation Practices: A systematic review and meta-analysis of studies on the cognitive effects of differentiation practices in primary education. Educational Research Review, 24, 31-54. https://doi.org/10.1016/j.edurev.2018.02.002"
-    author: "Deunk, M. I., Jacobse, A. E., de Boer, H., Doolaard, S., & Bosker, R. J."
+    title: "Deunk, M. I., Smale-Jacobse, A. E., de Boer, H., Doolaard, S., & Bosker, R. J. (2018). Effective differentiation Practices: A systematic review and meta-analysis of studies on the cognitive effects of differentiation practices in primary education. Educational Research Review, 24, 31-54. https://doi.org/10.1016/j.edurev.2018.02.002"
+    author: "Deunk, M. I., Smale-Jacobse, A. E., de Boer, H., Doolaard, S., & Bosker, R. J."
     q: 3
     i: "?"
     kind: quant-synthesis
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r?` · `q3`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Between- or within-class homogeneous ability grouping had a small negative effect on low-ability students, but no effect on others. [→ Deunk 2018](#deunk-2018)
@@ -33,7 +34,7 @@ sources:
 
 ### Deunk 2018
 
-Deunk, M. I., Jacobse, A. E., de Boer, H., Doolaard, S., & Bosker, R. J. (2018). Effective differentiation Practices: A systematic review and meta-analysis of studies on the cognitive effects of differentiation practices in primary education. Educational Research Review, 24, 31-54. https://doi.org/10.1016/j.edurev.2018.02.002
+Deunk, M. I., Smale-Jacobse, A. E., de Boer, H., Doolaard, S., & Bosker, R. J. (2018). Effective differentiation Practices: A systematic review and meta-analysis of studies on the cognitive effects of differentiation practices in primary education. Educational Research Review, 24, 31-54. https://doi.org/10.1016/j.edurev.2018.02.002
 
 `q3 · i?` · `quant-synthesis · r?`
 

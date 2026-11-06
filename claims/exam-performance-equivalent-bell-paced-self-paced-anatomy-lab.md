@@ -59,7 +59,7 @@ The same first mixed-effects model from the randomized crossover study assessed 
 
 
 ## Related Claims
-- [Bell-pacing significantly exacerbates reactive test anxiety compared to self-pacing during gross anatomy laboratory examinations.](bell-pacing-exacerbates-reactive-test-anxiety.md) — related
+- [Test anxiety rose significantly from pre- to post-exam under bell-pacing but not under self-pacing in gross anatomy laboratory examinations, though the pacing-by-timepoint interaction was marginally non-significant.](bell-pacing-exacerbates-reactive-test-anxiety.md) — related
 - [Most students paradoxically prefer bell-pacing, a pacing structure that led to greater reactive test anxiety, independent of the pacing structure itself.](students-prefer-pacing-structure-that-increases-anxiety.md) — related
 - [Students identifying as women reported higher levels of reactive test anxiety than students identifying as men, even after controlling for assigned pacing condition.](women-higher-reactive-test-anxiety-anatomy-lab.md) — related
 - [A recent study showed no difference in undergraduate biology lab performance between maximally heterogeneous groups and randomly assigned groups.](no-difference-heterogeneous-vs-random-biology-lab.md) — related

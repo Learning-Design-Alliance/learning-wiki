@@ -49,7 +49,7 @@ Cluster-randomized pilot trial with 94 ninth-grade teachers and 412 students in 
 
 ## Related Claims
 - [E-EMR effects were moderated by baseline scores, with significant benefits for students who started with worse scores on STR, conduct problems, and total problems](e-emr-baseline-moderation-low-scorers-benefit.md) — related
-- [E-EMR showed targeted benefits by race/ethnicity: significant interactions for Asian, Latinx, Black, and Multiracial students relative to White students on nine outcomes](e-emr-race-ethnicity-moderated-benefits.md) — related
+- [E-EMR effects differed by race/ethnicity: seven significant race × condition interactions relative to White students, for Asian, Latinx, Black and Multiracial students, mostly favouring them](e-emr-race-ethnicity-moderated-benefits.md) — related
 - [Some unexpected E-EMR effects disadvantaged high-performing or advantaged groups, including increased conduct problems among students with low baseline conduct problems](e-emr-unexpected-adverse-effects-advantaged-groups.md) — related
 - [Brief social-belonging interventions improve academic outcomes and well-being, especially for students facing identity threat, but risk being used to fix students rather than structures](social-belonging-intervention-improves-outcomes-but-misuse-risk.md) — a broader claim this one bears on
 - [Site A pilot students numbered about 651 in grades 8-9 mathematics, Site B about 2,369 in grades 9-12 social studies and ELA, and Site C about 528 ninth-grade ELA students](proficiency-pilot-populations-three-sites.md) — related

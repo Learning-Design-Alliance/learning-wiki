@@ -60,3 +60,4 @@ Meta-analysis of 6 studies involving 939 students reporting satisfaction with im
 - [TBL develops more students' self-study ability than LBL according to student questionnaires](tbl-increases-self-study-ability-questionnaires.md) — related
 - [Teamwork communication pedagogy through electronic networking sites increased student interest in learning](teamwork-electronic-networking-increased-interest.md) — related
 - [CBL is associated with improved learning interest and self-directed learning ability](cbl-improves-interest-self-directed-learning.md) — related
+- [EIL raises students' active-learning ratings without increasing their perceived academic burden](eil-active-learning-no-added-burden.md) — related

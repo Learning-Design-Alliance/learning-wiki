@@ -50,3 +50,4 @@ The article attributes this to a prior single-blind randomized controlled trial 
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — a broader claim this one bears on
 - [In a randomized trial of robotic mitral annuloplasty training, wet-laboratory, dry-laboratory and control groups improved on time-based scores while the virtual reality group did not](valdis-robotic-sbt-group-differences.md) — related
 - [Correlations between simulator task performance and intraoperative GEARS domains vary by task, and one study found no correlation between dVSS scores and intraoperative GEARS scores](task-specific-correlations-and-null-mills-study.md) — related
+- [VR-training group achieves higher GEARS-assessed basic robotic surgical skill than untrained controls (24.91 ± 3.36 vs. 19.68 ± 3.07)](dvss-vr-training-higher-gears-scores.md) — reports the opposite

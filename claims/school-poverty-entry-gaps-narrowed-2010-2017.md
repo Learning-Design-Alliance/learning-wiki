@@ -83,3 +83,4 @@ The abstract of the national trend analysis reports decreased school-entry inequ
 - [District pre-K enrollment was not associated with kindergarten-entry achievement levels or with districts' achievement trends over time](district-prek-enrollment-not-associated-entry-skills.md) — related
 - [Controlling for school poverty greatly reduces but does not eliminate racial/ethnic gaps at kindergarten entry](school-poverty-controls-reduce-racial-entry-gaps.md) — related
 - [Children's academic achievement at kindergarten entry has declined, per the article's abstract](declining-achievement-kindergarten-entry.md) — related
+- [Despite gains, participating students still scored significantly lower than non-participants, and the inequality between the groups was slightly reduced](participants-still-lower-inequality-reduced.md) — related

@@ -68,3 +68,4 @@ Within-group before-to-after score gains in the same assessor-blinded RCT of 50 
 - [PBL-SP does not significantly change written exam performance relative to LBL-SP](pbl-sp-written-exam-no-significant-difference.md) — reports the opposite
 - [\"Learning, Thinking & Conveying\" training with experiential learning shows no difference in clinical operation skills compared with routine mentoring](ltc-training-no-clinical-skills-difference.md) — reports the opposite
 - [Simulation training added roughly a 12-percentage-point knowledge gain in the intervention group, from 66.7% to 79.2% mean MCQ correct](simulation-added-twelve-point-mcq-gain.md) — related
+- [RCDP ACLS simulation produces greater ACLS knowledge gains than traditional simulation, which showed no significant change](rcdp-acls-simulation-greater-knowledge-gains.md) — related

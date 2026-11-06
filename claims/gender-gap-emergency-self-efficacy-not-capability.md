@@ -54,3 +54,4 @@ Discussion-level interpretation of the gender contrasts in the cross-sectional s
 - [No statistically significant post-test gender differences emerged on any psychological variable, with only small tendencies favoring females on some measures](no-posttest-gender-differences-psychological-variables.md) — related
 - [Dental trainees' self-efficacy and behavioral capability to manage medical emergencies in dental clinics are generally low](low-emergency-preparedness-dental-trainees.md) — related
 - [Few dental trainees know how to activate emergency medical services inside or outside their institution](low-ems-activation-awareness-dental-trainees.md) — related
+- [In this study, male dental students scored slightly higher on the academic motivation scale than female students](male-higher-motivation-dental-jigsaw.md) — related

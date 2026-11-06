@@ -67,3 +67,4 @@ Interview finding from the concerns subcategory; participants noted that "connec
 - [Technical problems with computers and networks are a downside of e-learning implementation](technical-problems-downside-elearning.md) — related
 - [Implementation of student-formulated strategies was limited for actions outside students' governance scope, and infrastructure challenges require sustained financial and institutional support.](governance-and-resource-limits-on-student-strategies.md) — related
 - [Missing facilities, infrastructure, and large class sizes impede PBL delivery](infrastructure-and-class-size-barriers-pbl-ethiopia.md) — related
+- [Internet connectivity problems hindered remote learning and compounded student anxiety during high-stakes assessments](connectivity-problems-assessment-anxiety-remote.md) — related

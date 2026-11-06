@@ -52,5 +52,6 @@ Meta-analysis of two studies measuring subjective workload with the NASA Task Lo
 - [AR telestration lowers cognitive workload during surgical training as measured by validated instruments](ar-lowers-cognitive-workload.md) — related
 - [AR-assisted training shows no statistically significant reduction in task completion time](ar-training-time-not-significant.md) — related
 - [Completion of a dVSS proficiency-based curriculum was associated with significant improvement in RO-SCORE across all domains and significant reduction in NASA-TLX workload](gerull-curriculum-improved-roscore-reduced-workload.md) — related
-- [Teaching orientation strategies to novice laparoscopic surgeons significantly increases performance and reduces cognitive burden](orientation-strategies-improve-novice-laparoscopic-performance.md) — related
+- [Teaching orientation strategies to final-year medical students new to laparoscopy significantly increased performance and reduced cognitive burden](orientation-strategies-improve-novice-laparoscopic-performance.md) — related
 - [Under NASA TLX, AR-group students felt more frustrated but believed they performed relatively better, with nearly equal overall workload scores](nasa-tlx-frustration-perceived-performance-ar.md) — reports the opposite
+- [VR-trained participants perform with lower NASA-TLX workload than controls (40.04 ± 10.55 vs. 48.2 ± 9.88)](dvss-vr-training-lower-nasa-tlx-workload.md) — related

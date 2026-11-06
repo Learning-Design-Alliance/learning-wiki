@@ -49,7 +49,7 @@ Thematic analysis using NVivo of the recorded online Zoom focus group with 25 ML
 
 ## Related Claims
 - [76% of surveyed ML2 teachers believed VR tools are effective for learning, though only 56% believed so for language learning specifically](ml2-teachers-believe-vr-effective-learning.md) — related
-- [Serious games can provide an authentic physical context and task for professional competencies, though a small number of successful games used neither](serious-games-authentic-context-task.md) — related
+- [Serious games can provide an authentic physical context and task for professional competencies, though a few successful games lacked an authentic physical context or an authentic task](serious-games-authentic-context-task.md) — related
 - [Teachers identified cost, bulky headsets, Wi-Fi connectivity, and technical issues as key challenges to integrating VR into ML2 teaching](vr-challenges-cost-headsets-wifi.md) — related
 - [Teachers rated VR's potential effect on ML2 students' learning outcomes at a mean of 6.80 on a 10-point scale, with a significant age-related difference](vr-ml2-outcome-rating-anova.md) — related
 - [Teachers reported VR could enable Maltese speaking practice at a level unachievable in classrooms or online, especially for students abroad](vr-speaking-practice-unachievable-classroom.md) — possibly the same claim (merge candidate)

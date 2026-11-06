@@ -49,3 +49,4 @@ Multivariate linear regression analysis of the trial's test results with group a
 - [Dynamic images improve comprehension of pathological findings over static images in ultrasound education](dynamic-images-improve-pathology-comprehension-ultrasound.md) — related
 - [Within the internist subgroup, dynamic-image training outperformed static-image training on overall and pathology scores](internist-subgroup-dynamic-image-advantage.md) — related
 - [Having previously performed an echocardiography significantly influences post-test theory scores](prior-echocardiography-influences-posttest.md) — related
+- [Ultrasound simulator pathology training is highly valued, but respondents in no group agree that simulator training alone suffices to learn examination techniques](ultrasound-pathology-valued-alone-insufficient.md) — related

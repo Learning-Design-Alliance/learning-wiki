@@ -52,3 +52,4 @@ Survey ratings of four simulation modalities by 154 surgeons. Cadaveric specimen
 - [Validation quality does not consistently correlate with simulator fidelity, and high-fidelity VR simulators' superiority over simpler models for fibreoptic intubation has not been demonstrated](simulator-fidelity-does-not-track-validation-quality.md) — related
 - [Cadaveric simulation training is superior to no simulation training for surgical skill acquisition, per three RCTs](cadaveric-simulation-superior-to-no-training.md) — related
 - [Reported average simulated-training duration for PTED is only about 22.8 hours, with no significant difference across experience levels](pted-simulated-training-averages-22-8-hours.md) — related
+- [Visual feedback was the most preferred feedback modality and acoustic feedback the least preferred](visual-feedback-most-preferred-modality.md) — related

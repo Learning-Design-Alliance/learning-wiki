@@ -47,7 +47,7 @@ Descriptive statistics from Table 3 for experiences reported in fewer than 35 of
 
 ## Related Claims
 - [Mastery experiences may not be the optimal method for initially increasing preservice agriculture teachers' self-efficacy](mastery-experiences-not-optimal-initially-preservice-efficacy.md) — related
-- [Vicarious experiences are positively related to agriculture teachers' general teaching efficacy, with observing a first year teacher explaining 11% of variance](vicarious-experiences-positive-teaching-efficacy.md) — related
+- [Vicarious experiences are positively related to agriculture student teachers' general teaching efficacy, with observing a first year teacher explaining 11% of variance](vicarious-experiences-positive-teaching-efficacy.md) — related
 - [Female students reported significantly lower initial self-efficacy for quantitative biology problems than male students, with small effect sizes](female-students-lower-initial-quantitative-self-efficacy.md) — related
 - [Lower initial self-efficacy significantly increased the odds of students reporting that getting help from peers increased their self-efficacy](lower-initial-self-efficacy-predicts-peer-help.md) — related
 - [Gender/sex predicted reporting that getting help from peers increased self-efficacy when modeled alone, but this relationship was attenuated after accounting for initial self-efficacy](gender-predicts-peer-help-attenuated-by-initial-efficacy.md) — related

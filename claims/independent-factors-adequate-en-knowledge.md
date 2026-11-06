@@ -50,3 +50,4 @@ Multivariate logistic regression on knowledge dichotomised at the 80% threshold,
 - [Multivariable regression confirms gender and university as independent predictors of knowledge score](regression-gender-university-predictors-knowledge-syria.md) — related
 - [SOC is the strongest independent predictor of GPA in simultaneous regression, with female gender and nursing major also significant](soc-strongest-regression-predictor-gpa.md) — related
 - [Lecture attendance is associated with higher knowledge, attitude and practice scores across all three dimensions](lecture-attendance-higher-kap-scores.md) — related
+- [Female gender is independently and positively associated with academic achievement (adjusted OR 2.66)](female-gender-independent-positive-factor-gpa.md) — related

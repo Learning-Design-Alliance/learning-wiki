@@ -48,7 +48,7 @@ Interview finding from the case study. Students found asynchronous discussion cl
 ## Related Claims
 - [Most remote courses used both synchronous and asynchronous delivery mechanisms](remote-courses-mixed-synchronous-asynchronous-delivery.md) — related
 - [Moderation of synchronous computer-mediated interaction differs from face-to-face or asynchronous moderation](moderation-synchronous-cmc-differs-from-other-modes.md) — related
-- [Introductory face-to-face meetings are the dominant strategy for stimulating social interaction in blended learning](introductory-f2f-meeting-stimulates-interaction.md) — related
+- [Introductory face-to-face meetings were the most reported way of stimulating social interaction in reviewed blended-learning studies (6 of the 9 that reported on it)](introductory-f2f-meeting-stimulates-interaction.md) — related
 - [Synchronous and asynchronous communication technologies are commonly employed to support communication between students, industry partners and teaching staff during WIL](communication-technologies-support-wil.md) — related
 - [A trend toward blended educational approaches combining synchronous and asynchronous learning activities emerged after 2019 in SBL for critical thinking](blended-sync-async-trend-sbl.md) — related
 - [Students report technical, typing, time, topic, presentation, and grouping challenges when participating in synchronous online forum discussions](ofd-implementation-challenges.md) — related

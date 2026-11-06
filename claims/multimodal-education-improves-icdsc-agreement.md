@@ -9,6 +9,7 @@ generated:
   at: 2026-11-06
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-06
 sources:
   - id: rl-chang-2025
     resource: "https://doi.org/10.1111/nicc.70168"
@@ -32,11 +33,11 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3`
-> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 > **Design limits** · R.‐L. Chang 2025: groups were assigned but students were analysed as independent · R.‐L. Chang 2025 (2): groups were assigned but students were analysed as independent (read from the study by two models, 2026-11-06)
 
 ## Subclaims
-`q3 i?` Following a multimodal educational intervention, nurse–expert agreement on the total ICDSC result improved significantly, with kappa rising from 0.63 to 0.71 (p = 0.04) and overall agreement rising from 76% to 82%. [→ R.‐L. Chang 2025](#rl-chang-2025)
+`q3 i?` Following a multimodal educational intervention, nurse–expert agreement on the total ICDSC result improved significantly, with kappa rising from 0.63 to 0.71 (p = 0.04, z-test on kappa) and overall agreement rising from 76% to 82% (not separately tested). [→ R.‐L. Chang 2025](#rl-chang-2025)
 
 ## Evidence
 
@@ -46,7 +47,7 @@ R.‐L. Chang, S.‐F. Siao, S.‐C. Ku, Y.‐C. Yeh, Y.‐C. Chang, and C. C.�
 
 `q3 · i?` · `causal · r1`
 
-Pre–post intervention study in three medical ICUs (847 paired assessments: 420 pre, 427 post) comparing bedside nurses' ICDSC ratings with a blinded expert nurse. The reported improvement in "the overall percentage agreement rose from 76% to 82%" was tested with z-tests (p = 0.04).
+Pre–post intervention study in three medical ICUs (847 paired assessments: 420 pre, 427 post) comparing bedside nurses' ICDSC ratings with a blinded expert nurse. The z-tests assessed pre–post differences in Cohen's kappa: kappa rose from 0.63 to 0.71 (p = 0.04). The overall percentage agreement rose from 76% to 82%; no separate significance test is reported for that change.
 
 > "Cohen's kappa value increased from 0.63 (95% CI: 0.57–0.70) to 0.71 (95% CI: 0.66–0.77; p = 0.04), whereas the overall percentage agreement rose from 76% to 82%"
 

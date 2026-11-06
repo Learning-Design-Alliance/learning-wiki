@@ -52,3 +52,4 @@ Organizational-level MSEM path estimates from the nationwide faculty survey (N =
 - [Strategic planning and teaching quality monitoring are positively related to faculty's perceived usefulness of online teaching](strategic-planning-tqm-perceived-usefulness.md) — related
 - [Teaching quality monitoring had the strongest association with faculty acceptance of online teaching, directly influencing both perceived usefulness and behavioral intention](teaching-quality-monitoring-strongest-acceptance-factor.md) — related
 - [Effective leadership plays a pivotal role in guiding digital transformation in educational organizations](leadership-pivotal-digital-transformation-education.md)
+- [Share of pure presence teaching at German universities is expected to fall from 85% to 59% after the pandemic while mixed formats grow](pandemic-shift-toward-mixed-and-online-formats.md) — related

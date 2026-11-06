@@ -1,7 +1,7 @@
 ---
 type: claim
-title: All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback whose credibility was not restricted by facilitator hierarchy
-description: All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback whose credibility was not restricted by facilitator hierarchy
+title: All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback that they felt participants accepted more readily across differences in hierarchy
+description: All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback that they felt participants accepted more readily across differences in hierarchy
 id: facilitators-prefer-vad-objective-feedback
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-06
 sources:
   - id: stefan-a-schreder-2025
     resource: "https://doi.org/10.1007/s11251-025-09716-9"
@@ -20,11 +21,11 @@ sources:
     rigour: 3
 ---
 
-# All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback whose credibility was not restricted by facilitator hierarchy
+# All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback that they felt participants accepted more readily across differences in hierarchy
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` All five facilitators preferred VAD over VD, valuing the visualisation of important events for precise feedback and the objectivity of video that reduced the need to justify negative feedback. [→ Stefan A. Schreder 2025](#stefan-a-schreder-2025)
@@ -37,7 +38,7 @@ Stefan A. Schreder, Helen Jossberger, Hans Gruber. (2025). Mountain rescuers' ex
 
 `q2 · i?` · `qualitative · r3`
 
-Individual interviews with the five facilitators of the SIMMed training cycle. Facilitators reported that "V AD provided the opportunity to review the simulated scenario without bias" and that video evidence supported their professional opinions, which helped acceptance of negative feedback regardless of medical hierarchy.
+Individual interviews with the five facilitators of the SIMMed training cycle. Facilitators reported that "V AD provided the opportunity to review the simulated scenario without bias" and that video evidence supported their professional opinions, because "participants seemed to accept negative feedback more easily regardless of possible differences in hierarchy", which the authors say was especially helpful when the facilitator was lower in medical hierarchy than the participants. This is the facilitators' perception; the study also reports that acceptance of feedback still depended on the recipient.
 
 > "All five facilitators preferred V AD in comparison to VD. The facilitators liked the possibility of visualising important events that happened during the scenario to give precise feedback."
 

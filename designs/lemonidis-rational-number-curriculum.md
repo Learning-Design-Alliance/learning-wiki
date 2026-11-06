@@ -41,7 +41,7 @@ An integrated proposal for teaching fractions and decimals in elementary school 
 ### Claims
 
 - [Storytelling-based introduction of fraction concepts produced significantly higher post-test achievement than manipulative-based introduction in third graders](../claims/storytelling-improves-fraction-achievement-third-grade.md) [+M]
-- [Storytelling improved comparing fractions, equivalent fractions, creating and manipulating representations, and problem solving, but not part-whole interpretation or number-line use](../claims/storytelling-specific-fraction-skills-gains.md) [+M]
+- [Storytelling improved comparing fractions, equivalent fractions, creating and manipulating representations, and problem solving, with no significant difference for part-whole interpretation or number-line use](../claims/storytelling-specific-fraction-skills-gains.md) [+M]
 - [Learning is effective when it builds on children's existing knowledge in real-world contexts, and early fraction foundations matter because many older children struggle with rational numbers](../claims/early-fraction-foundations-given-rational-number-difficulty.md) [+W]
 
 ## Related Designs

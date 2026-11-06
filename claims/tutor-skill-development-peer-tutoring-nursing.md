@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Tutoring developed tutors' problem-solving, critical thinking, communication and patience skills and shaped career aspirations toward education roles"
-description: "Tutoring developed tutors' problem-solving, critical thinking, communication and patience skills and shaped career aspirations toward education roles"
+title: "Peer tutors reported that tutoring developed their problem-solving, critical thinking, communication and patience skills, and some expressed interest in education roles"
+description: "Peer tutors reported that tutoring developed their problem-solving, critical thinking, communication and patience skills, and some expressed interest in education roles"
 id: tutor-skill-development-peer-tutoring-nursing
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-06
 sources:
   - id: dias-jacqueline-maria-2025
     resource: "https://doi.org/10.12688/f1000research.172023.1"
@@ -28,14 +29,14 @@ sources:
     rigour: 2
 ---
 
-# Tutoring developed tutors' problem-solving, critical thinking, communication and patience skills and shaped career aspirations toward education roles
+# Peer tutors reported that tutoring developed their problem-solving, critical thinking, communication and patience skills, and some expressed interest in education roles
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
-> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` The tutoring process helped tutors develop problem-solving and critical thinking skills. [→ Dias Jacqueline Maria 2025](#dias-jacqueline-maria-2025)
+`q2 i?` Tutors described the tutoring process as helping them develop problem-solving and critical thinking skills. [→ Dias Jacqueline Maria 2025](#dias-jacqueline-maria-2025)
 `q2 i?` Tutors reported improved communication skills, patience and openness, and some expressed new interest in education and mentorship roles. [→ Dias Jacqueline Maria 2025 (2)](#dias-jacqueline-maria-2025-2)
 
 ## Evidence
@@ -56,7 +57,7 @@ Dias Jacqueline Maria, Al Kaabi Fatema Salim Bati Salim, Al Hooti Sara Tamim, Ha
 
 `q2 · i?` · `qualitative · r2`
 
-Tutor interview data in the communication skills subtheme; tutors reported improved respect, communication, patience and listening, and the discussion notes several tutors expressed interest in clinical instructor or professor roles.
+Tutor interview data in the communication skills subtheme; tutors reported improved respect, communication, patience and listening, and the discussion notes several tutors expressed interest in clinical instructor or professor roles. These are tutors' own accounts, interpreted thematically by the authors; the study did not measure skills or test whether tutoring changed them.
 
 > "I developed a range of communication skills. In the past, I would avoid difficult patients, but through peer-tutoring, I learned to confront challenges and focus on effective communication with tutees."
 

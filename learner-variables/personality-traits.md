@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 117 claims (75 show a difference, 27 mixed, 15 no difference) · 56 studies (25 associational, 15 review, 9 causal, 5 quant-synthesis, 2 theoretical), `q2`–`q4` · 18 of 56 report an effect size · 117 claims rest on one study
+> **Evidence** · 119 claims (77 show a difference, 27 mixed, 15 no difference) · 57 studies (26 associational, 15 review, 9 causal, 5 quant-synthesis, 2 theoretical), `q2`–`q4` · 18 of 57 report an effect size · 119 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -100,7 +100,7 @@ Personality traits are relatively stable individual differences, most often meas
 - [Behavioral grit measured from pre-pandemic platform effort responses to setbacks predicts platform scores in math and science, especially after Covid commenced](../claims/behavioral-grit-predicts-platform-scores.md) [+M] — learners who differ on it differ in outcomes
 - [Behavioral grit, but not survey grit, predicts academic resilience: grittier students register smaller score declines during the pandemic](../claims/behavioral-grit-predicts-academic-resilience.md) [+M] — learners who differ on it differ in outcomes
 - [The survey grit measure has limited predictive power over platform performance in this sample and does not predict pandemic-era performance declines](../claims/survey-grit-limited-predictive-power.md) [-M] — learners who differ on it differ in outcomes
-- [Direct causal effects of self-control and grit account for only 4.4% of school performance variance, with self-control the stronger causal predictor](../claims/causal-effects-only-4-percent-school-performance.md) [+M] — learners who differ on it differ in outcomes
+- [In a causal twin model, the putatively causal effects of self-control and grit account for only 4.4% of school performance variance, most of the association being genetic confounding](../claims/causal-effects-only-4-percent-school-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Teacher-rated self-control and grit jointly explain 28.4% of the variance in school performance in standard phenotypic regression](../claims/self-control-grit-explain-28-percent-school-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Twin correlations indicate genetic influences on self-control, grit, and school performance, with cross-trait cross-twin correlations higher in MZ than DZ twins](../claims/mz-dz-twin-correlations-genetic-influences-traits.md) [+M] — learners who differ on it differ in outcomes
 - [Big Five personality traits explain 3.18% of variance in fluid intelligence test scores, with Openness and Agreeableness the only meaningful contributors](../claims/big-five-explain-3-percent-fluid-intelligence.md) [+M] — learners who differ on it differ in outcomes
@@ -137,7 +137,7 @@ Personality traits are relatively stable individual differences, most often meas
 - [Self-directed learning correlates positively with conscientiousness, openness, self-esteem, AI cognition, and subjective norms, while self-control correlates negatively with subjective norms](../claims/spearman-correlations-sdl-personality-ai-dimensions.md) [+M] — learners who differ on it differ in outcomes
 - [Work self-control showed a small but significant negative association with academic achievement among Chilean university students](../claims/work-self-control-negative-achievement-association.md) [+M] — learners who differ on it differ in outcomes
 - [Emotional variables fully mediate both grit dimensions' associations with foreign language achievement, with COI acting negatively via boredom and POE showing competitive suppression](../claims/emotions-fully-mediate-grit-achievement.md) [+M] — learners who differ on it differ in outcomes
-- [In an exam-oriented Chinese EFL context, POE predicts enjoyment and reduced boredom while COI predicts boredom and shows no enjoyment association](../claims/poe-coi-divergent-emotional-pathways.md) [~M] — learners who differ on it differ in outcomes
+- [In an exam-oriented Chinese EFL sample, POE was associated with more enjoyment and less boredom, while COI was associated with more boredom and had no significant adjusted path to enjoyment](../claims/poe-coi-divergent-emotional-pathways.md) [~M] — learners who differ on it differ in outcomes
 - [All five Big Five personality traits significantly predict academic achievement among medical master's students](../claims/big-five-traits-predict-achievement-medical-postgraduates.md) [+M] — learners who differ on it differ in outcomes
 - [Neuroticism, Conscientiousness, Agreeableness, and Extraversion did not significantly moderate the stress–achievement relationship](../claims/other-big-five-traits-no-moderation-stress-achievement.md) [-M] — an instructional effect differs with it
 - [Openness significantly moderates the relationship between academic stress and academic achievement, weakening the negative association](../claims/openness-moderates-stress-achievement-relationship.md) [~M] — an instructional effect differs with it
@@ -152,6 +152,8 @@ Personality traits are relatively stable individual differences, most often meas
 - [Engagement is the only well-being element not significantly correlated with L2 achievement, while both grit dimensions correlate significantly positively with it](../claims/engagement-not-correlated-l2-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [Perseverance of effort significantly predicts all four well-being elements while consistency of interest predicts none](../claims/pe-predicts-wellbeing-elements-ci-does-not.md) [~M] — learners who differ on it differ in outcomes
 - [The four well-being elements do not significantly mediate the relationships between grit dimensions and L2 achievement](../claims/wellbeing-mediation-non-significant.md) [-M] — learners who differ on it differ in outcomes
+- [Conscientiousness is independently and positively associated with academic achievement (adjusted OR 1.89) in multivariate analysis](../claims/conscientiousness-independent-positive-factor-gpa.md) [+W] — learners who differ on it differ in outcomes
+- [Grade-12 students with higher GPA score significantly higher on conscientiousness than lower-GPA peers, with no difference in the other four Big Five domains](../claims/conscientiousness-higher-in-academic-achievement-group.md) [+W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

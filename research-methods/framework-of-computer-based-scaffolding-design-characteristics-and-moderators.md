@@ -30,6 +30,7 @@ The article organizes computer-based scaffolding research along several coded di
 ## Related Research Methods
 
 - [Taxonomy of clinical reasoning educational interventions by focus and case presentation](taxonomy-of-clinical-reasoning-educational-interventions-by-focus-and-case-presentation.md)
+- [Five-dimension framework for characterizing virtual simulation tools for communication skills training](five-dimension-framework-for-characterizing-virtual-simulation-tools-for-communication-ski.md)
 
 ## Key Sources
 - Belland, B. R., Walker, A. E., Kim, N. J., & Lefler, M. (2017). Synthesizing Results From Empirical Research on Computer-Based Scaffolding in STEM Education: A Meta-Analysis. Review of Educational Research, 87(2), 309-344. https://doi.org/10.3102/0034654316670999

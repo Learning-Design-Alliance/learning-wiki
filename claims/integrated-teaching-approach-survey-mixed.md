@@ -75,3 +75,4 @@ The same survey found no significant group differences on two of its five dimens
 - [PBL raises student satisfaction and learning interest, and both correlate positively with final overall academic performance](pbl-satisfaction-interest-correlate-performance.md) — related
 - [Experimental-group students rated satisfaction, learning enthusiasm, comprehension, interaction, and interest in nephrology more favorably than control students](boppps-rain-classroom-favorable-student-evaluations.md) — related
 - [RFETM students reported significantly higher questionnaire scores than TETM students for innovation ability, scientific research ideas, and learning interest](rfetm-questionnaire-scores-significantly-higher.md) — related
+- [EIL raises students' active-learning ratings without increasing their perceived academic burden](eil-active-learning-no-added-burden.md) — related

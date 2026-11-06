@@ -51,7 +51,7 @@ Comparative analysis over one academic year: 36 fifth-year students per group, a
 - [BOPPPS-flipped classroom reform is linked to significantly higher final examination scores and a distribution shift toward higher grade intervals](boppps-flipped-higher-final-exam-scores.md) — related
 - [The BOPPPS-Rain Classroom group showed markedly higher classroom participation than the traditional lecture group](boppps-rain-classroom-higher-class-participation.md) — related
 - [Experimental-group students rated satisfaction, learning enthusiasm, comprehension, interaction, and interest in nephrology more favorably than control students](boppps-rain-classroom-favorable-student-evaluations.md) — related
-- [BOPPPS-based blended teaching produces significantly higher final examination and process assessment scores than traditional lecture-based teaching](boppps-higher-final-exam-process-assessment.md) — related
+- [In one nonrandomised quasi-experiment, a BOPPPS-based blended teaching class scored significantly higher on final examination and process assessment than a traditional lecture-based class](boppps-higher-final-exam-process-assessment.md) — related
 - [BOPPPS-based blended teaching produces significantly higher overall course scores than traditional lecture-based teaching](boppps-higher-overall-course-scores.md) — related
 - [BOPPPS-flipped classroom reform is linked to significantly higher regular academic grades in pediatric dentistry than traditional instruction](boppps-flipped-higher-regular-grades-pediatric-dentistry.md) — related
 - [Supplementary questionnaire responses from the experimental group indicate perceived gains in learning experience, problem-solving, cooperation, communication, and commitment](boppps-rain-classroom-supplementary-questionnaire-perceptions.md) — related
@@ -59,3 +59,4 @@ Comparative analysis over one academic year: 36 fifth-year students per group, a
 - [Grading format at fourth- and fifth-year exams did not change final licensing exam performance](grading-format-no-effect-licensing-exam-grades.md) — related
 - [BOPPPS-CBL instruction produces significantly higher post-training total test scores than traditional lecture-based teaching in pediatric dentistry clerkship](boppps-cbl-higher-pt-test-total-scores.md) — related
 - [ChatGPT-guided PBL residents scored significantly higher on a nephrology theoretical exam than traditionally taught residents](chatgpt-pbl-higher-theoretical-exam-nephrology.md) — related
+- [The randomized trial assigned 70 residents equally to BOPPPS-plus-flipped-classroom or traditional teaching with no significant baseline differences](boppps-flipped-og-trial-baseline-comparable.md) — related

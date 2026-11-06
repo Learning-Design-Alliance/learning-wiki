@@ -49,7 +49,7 @@ The review reports qualitative work with working-class university students (G. M
 
 ## Related Claims
 - [Qualitative research shows marginalized students' sense of belonging depends on maintaining connections to their valued identities at school (self-concept fit)](self-concept-fit-qualitative-belonging.md) — a broader claim this one bears on
-- [Financial and economic constraints shape first-generation chemists' career decisions, sometimes deterring advanced training altogether](financial-constraints-shape-first-generation-career-decisions.md) — related
+- [In the reflections of 13 first-generation chemists, financial constraints can shape career decisions and can deter advanced training](financial-constraints-shape-first-generation-career-decisions.md) — related
 - [Interpersonal relationships are the most prominent student concern in qualitative interviews (30.61% of coded responses)](interpersonal-relationships-top-student-concern-30-61.md) — related
 - [Prominent quantitative measures of belonging focus overwhelmingly on social connectedness and general fit, with only 1 of 70 items assessing resource fit](belonging-measures-focus-social-fit-content-analysis.md) — related
 - [Racially marginalized students are less likely to report a sense of belonging in STEM education](marginalized-students-lower-stem-belonging.md) — related

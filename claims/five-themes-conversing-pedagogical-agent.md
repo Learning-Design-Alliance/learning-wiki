@@ -51,3 +51,4 @@ Hermeneutic phenomenological analysis of two interviews and 11 written reflectio
 ## Related Claims
 - [Curiosity balanced against knowledge-gap overwhelm drives prolonged engagement and memory](curiosity-knowledge-gap-balance-engagement-memory.md) — a broader claim this one bears on
 - [Students anthropomorphized the chatbot and built relationships with it through personal and social questions](children-anthropomorphize-educational-chatbot.md) — related
+- [Qualitative analysis of 492 participant quotes suggests the observed behavioral changes resulted from sense-making emerging from five themes about the training experience](vr-training-sense-making-five-themes.md) — related

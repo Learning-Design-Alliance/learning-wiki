@@ -60,3 +60,4 @@ Wilcoxon W test comparing 16 males and 20 females on the post measurement; Table
 - [No statistically significant post-test difference between male and female students within the Prezi experimental group](no-gender-difference-prezi-group-posttest.md) — related
 - [Skill acquisition in the experimental group did not differ significantly by sex, academic year, or university major](no-demographic-differences-skill-acquisition.md) — related
 - [Female students achieved higher MSE accuracy than male students across intervention groups](sex-difference-mse-accuracy-females-higher.md) — related
+- [No significant difference was found in the occurrence of sharp object injuries between male and female dental students](no-sex-difference-sharp-object-injuries.md) — related

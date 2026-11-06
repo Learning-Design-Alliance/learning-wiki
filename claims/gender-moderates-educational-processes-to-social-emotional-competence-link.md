@@ -76,3 +76,4 @@ Simple slope tests probing the gender interaction. The association between educa
 - [Adolescent girls report higher self-reported social competences than boys in vocational high school](girls-report-higher-social-competences-than-boys.md) — related
 - [Indirect effects from emotional regulation and parent-child relationship to later worries through online learning self-efficacy are significantly stronger for girls than boys](indirect-effects-stronger-girls.md) — a narrower finding that bears on this claim
 - [The negative association between online learning self-efficacy and later worries is significantly stronger for girls than for boys](ose-worries-stronger-for-girls.md) — a narrower finding that bears on this claim
+- [SEL competency associations with reading are invariant by sex, but associations of Self-Awareness and Self-Management with numeracy are significantly stronger for boys than girls](sel-numeracy-associations-stronger-boys.md) — related

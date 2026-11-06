@@ -56,3 +56,4 @@ Case-mix adjusted learning-curve estimation using generalized additive mixed mod
 - [The two centers followed opposite volume-complexity trajectories during implementation](opposite-volume-complexity-trajectories.md) — related
 - [Blood loss, transfusion, and conversion outcomes remained low and did not change significantly across the learning curve](blood-loss-transfusion-stable-across-lrp-learning-curve.md) — reports the opposite
 - [Major complications occurred only after the learning phase, and phase differences in severe complications and anastomotic leakage were not statistically significant](complications-after-proficiency-phase.md) — related
+- [The blood-loss learning curve was not affected by the inclusion of new surgeons](rats-blood-loss-curve-unaffected-by-new-surgeons.md) — related

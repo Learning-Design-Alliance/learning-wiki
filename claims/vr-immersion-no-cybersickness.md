@@ -63,3 +63,4 @@ In the experimental group, the Simulator Sickness Questionnaire was completed be
 - [Ocular discomfort after EyeSi VR simulation is mild and infrequent](eyesi-vr-mild-ocular-discomfort.md) — related
 - [Cybersickness screening showed no concern for any student before or after MHW exposure](mhw-cybersickness-no-concern.md) — related
 - [The VR training dose was under 60 cumulative minutes across two sessions, with no reported cybersickness](vr-training-dose-under-60-minutes.md) — related
+- [Physical symptoms such as dizziness and nausea are common during VR MCI training and can degrade training quality for some users](vr-mci-training-physical-symptoms.md) — related

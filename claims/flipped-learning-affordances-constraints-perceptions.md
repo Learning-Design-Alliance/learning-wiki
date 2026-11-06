@@ -9,19 +9,20 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2019
+source_checked: 2026-11-06
 sources:
   - id: almodaires-et-al-2019
     resource: "https://doi.org/10.5539/ies.v12n1p10"
-    title: "Abdullah M. Almodaires, Ghaida M. Alayyar, Tareq O. Almsaud & Faisal M. Almutairi. (2019). The Effectiveness of Flipped Learning: A Quasi-Experimental Study of the Perceptions of Kuwaiti Pre-Service Teachers. International Education Studies, 12(1). https://doi.org/10.5539/ies.v12n1p10"
-    author: "Abdullah M. Almodaires, Ghaida M. Alayyar, Tareq O. Almsaud & Faisal M. Almutairi"
+    title: "Abdullah A. Almodaires, Ghaida M. Alayyar, Tareq O. Almsaud & Faisal M. Almutairi. (2019). The Effectiveness of Flipped Learning: A Quasi-Experimental Study of the Perceptions of Kuwaiti Pre-Service Teachers. International Education Studies, 12(1). https://doi.org/10.5539/ies.v12n1p10"
+    author: "Abdullah A. Almodaires, Ghaida M. Alayyar, Tareq O. Almsaud & Faisal M. Almutairi"
     q: 2
     i: "?"
     kind: qualitative
     rigour: 2
   - id: almodaires-et-al-2019-2
     resource: "https://doi.org/10.5539/ies.v12n1p10"
-    title: "Abdullah M. Almodaires, Ghaida M. Alayyar, Tareq O. Almsaud & Faisal M. Almutairi. (2019). The Effectiveness of Flipped Learning: A Quasi-Experimental Study of the Perceptions of Kuwaiti Pre-Service Teachers. International Education Studies, 12(1). https://doi.org/10.5539/ies.v12n1p10"
-    author: "Abdullah M. Almodaires, Ghaida M. Alayyar, Tareq O. Almsaud & Faisal M. Almutairi"
+    title: "Abdullah A. Almodaires, Ghaida M. Alayyar, Tareq O. Almsaud & Faisal M. Almutairi. (2019). The Effectiveness of Flipped Learning: A Quasi-Experimental Study of the Perceptions of Kuwaiti Pre-Service Teachers. International Education Studies, 12(1). https://doi.org/10.5539/ies.v12n1p10"
+    author: "Abdullah A. Almodaires, Ghaida M. Alayyar, Tareq O. Almsaud & Faisal M. Almutairi"
     q: 2
     i: "?"
     kind: causal
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students reported affordances including being well prepared, accessing materials anywhere, controlling playback (rewind, pause, stop, replay), and increased communication with peers and the instructor. [→ Almodaires et al. 2019](#almodaires-et-al-2019)
@@ -42,7 +43,7 @@ sources:
 
 ### Almodaires et al. 2019
 
-Abdullah M. Almodaires, Ghaida M. Alayyar, Tareq O. Almsaud & Faisal M. Almutairi. (2019). The Effectiveness of Flipped Learning: A Quasi-Experimental Study of the Perceptions of Kuwaiti Pre-Service Teachers. International Education Studies, 12(1). https://doi.org/10.5539/ies.v12n1p10
+Abdullah A. Almodaires, Ghaida M. Alayyar, Tareq O. Almsaud & Faisal M. Almutairi. (2019). The Effectiveness of Flipped Learning: A Quasi-Experimental Study of the Perceptions of Kuwaiti Pre-Service Teachers. International Education Studies, 12(1). https://doi.org/10.5539/ies.v12n1p10
 
 `q2 · i?` · `qualitative · r2`
 
@@ -52,7 +53,7 @@ Thematic analysis (Braun and Clarke, 2006 procedures) of open-ended questionnair
 
 ### Almodaires et al. 2019 (2)
 
-Abdullah M. Almodaires, Ghaida M. Alayyar, Tareq O. Almsaud & Faisal M. Almutairi. (2019). The Effectiveness of Flipped Learning: A Quasi-Experimental Study of the Perceptions of Kuwaiti Pre-Service Teachers. International Education Studies, 12(1). https://doi.org/10.5539/ies.v12n1p10
+Abdullah A. Almodaires, Ghaida M. Alayyar, Tareq O. Almsaud & Faisal M. Almutairi. (2019). The Effectiveness of Flipped Learning: A Quasi-Experimental Study of the Perceptions of Kuwaiti Pre-Service Teachers. International Education Studies, 12(1). https://doi.org/10.5539/ies.v12n1p10
 
 `q2 · i?` · `causal · r2`
 
@@ -73,3 +74,4 @@ Same thematic analysis of open-ended responses: constraints included needing mor
 - [Students valued flexibility and self-directed learning but desired more in-person interaction and better lecture recordings in the hybrid flipped course](student-themes-flexibility-interaction-recordings.md) — related
 - [Medical students perceived asynchronous videos as facilitating prior preparation for hands-on practice by allowing flexible, self-paced review of procedural steps.](asynchronous-videos-support-preparation-for-hands-on-practice.md) — related
 - [Saudi nursing students perceived pre-class assignments in flipped learning as deepening their understanding of course content](fl-preclass-assignments-deepened-understanding-nursing.md) — related
+- [Remote flipped classrooms give pharmacy students time flexibility to engage with recorded lectures and revisit content at their convenience](remote-flipped-flexibility-recorded-lectures.md) — related

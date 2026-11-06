@@ -50,7 +50,7 @@ Randomized comparison of 74 fourth-year students (37 per group) during a one-wee
 - [BOPPPS-CBL and traditional teaching produce no significant differences on the Pt-test knowledge sections A, B, and C](boppps-cbl-no-difference-knowledge-sections-abc.md) — related
 - [BOPPPS-CBL students rate teaching qualities significantly higher than traditionally taught students](boppps-cbl-higher-teaching-quality-ratings.md) — related
 - [Students reported high satisfaction with the BOPPPS-flipped classroom model in pediatric dentistry](boppps-flipped-high-student-satisfaction.md) — related
-- [BOPPPS-based blended teaching produces significantly higher final examination and process assessment scores than traditional lecture-based teaching](boppps-higher-final-exam-process-assessment.md) — related
+- [In one nonrandomised quasi-experiment, a BOPPPS-based blended teaching class scored significantly higher on final examination and process assessment than a traditional lecture-based class](boppps-higher-final-exam-process-assessment.md) — related
 - [BOPPPS-flipped classroom reform is linked to significantly higher final examination scores and a distribution shift toward higher grade intervals](boppps-flipped-higher-final-exam-scores.md) — related
 - [The BOPPPS-CBL effect on Section D and total Pt-test scores persists after adjusting for age, gender, and baseline academic scores](boppps-cbl-pt-test-regression-adjusted.md) — related
 - [BOPPPS-CBL students achieve significantly higher comprehensive case-analysis (Section D) scores than traditionally taught students](boppps-cbl-section-d-case-analysis-superior.md) — related

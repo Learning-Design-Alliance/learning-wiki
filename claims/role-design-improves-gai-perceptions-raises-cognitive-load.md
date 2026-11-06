@@ -68,5 +68,5 @@ Perceived collaborative cognitive load was measured as an outcome in the same qu
 
 ## Related Claims
 - [Collaborative knowledge construction among graduate students working with generative AI online was of higher quality after a symbiosis theory-based role design than before it, in a pretest-posttest study with no comparison group reported](role-design-enhances-collaborative-knowledge-construction-quality.md) — related
-- [Transitions among higher-order collaborative behaviors were observed from pre-test to post-test after role design in human-GAI collaboration, in one group with no comparison group](role-design-facilitates-higher-order-behavior-transitions.md) — related
+- [Transitions among higher-order collaborative behaviors were observed from pre-test to post-test after role design in human-GAI collaboration, among 58 students in 16 teams with no comparison group](role-design-facilitates-higher-order-behavior-transitions.md) — related
 - [Students in secondary mathematics report high acceptance of the domain-specific AI chatbot ADA across all Technology Acceptance Model dimensions](ada-high-tam-acceptance-secondary-math.md) — related

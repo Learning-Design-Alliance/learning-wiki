@@ -47,6 +47,6 @@ The authors report that their multitask matrix factorization model, trained on p
 
 
 ## Related Claims
-- [A multitask matrix factorization approach that jointly learns grades across multiple assessment labels outperforms a single-task (binary relevance) baseline that learns each label separately.](multitask-matrix-factorization-outperforms-single-task-baseline.md) — related
+- [In peer-assessment data from three courses, a multitask matrix factorization approach that jointly learns grades across assessment labels had lower error than a single-task (binary relevance) baseline in 8 of 10 comparisons.](multitask-matrix-factorization-outperforms-single-task-baseline.md) — related
 - [Peer assessment systems can generate explanatory feedback for students by having graders assess multiple labeled aspects of an answer, not just an overall grade.](peer-assessment-multi-label-feedback.md) — related
 - [AGE reduces teacher grading burden by requiring only 1% of student answers in the UNT dataset to be graded](age-grades-only-one-percent-unt.md) — related

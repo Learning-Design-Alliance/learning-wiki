@@ -27,7 +27,8 @@ T-NOTECHS is a five-domain, anchored Likert-scale assessment tool for rating lea
 - [Video review with T-NOTECHS identified communication as a significantly weaker NTS domain than other domains in trauma resuscitations](../claims/video-review-identifies-communication-gaps.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Teamwork Evaluation of Non-Technical Skills (TENTS) instrument](teamwork-evaluation-of-non-technical-skills-tents-instrument.md)
 
 ## Key Sources
 - Alexander Emily G, Denny Fraser, Gordon Malcom WG, McKiernan Cieran, Lowe David J. (2023). Evaluation of video review tools for assessing non-technical skills in emergency department resuscitation teams: a systematic review. BMC Emergency Medicine. https://doi.org/10.1186/s12873-023-00895-7

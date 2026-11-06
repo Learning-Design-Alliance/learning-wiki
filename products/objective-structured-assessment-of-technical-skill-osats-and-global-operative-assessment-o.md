@@ -28,7 +28,8 @@ OSATS and GOALS are validated global rating-scale assessments used by surgical e
 - [Virtual reality training shows no significant improvement in total GOALS scores or GOALS domains compared with no additional training](../claims/vrt-no-goals-improvement-versus-nat.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [CHOLE-VOP](chole-vop.md)
 
 ## Key Sources
 - Humm Gemma; Mohan Helen Peter; Fleming Christina; Harries Rhiannon; Wood Christopher; Dawas Khaled; Stoyanov Danail; Lovat Laurence B. (2022). The impact of virtual reality simulation training on operative performance in laparoscopic cholecystectomy: meta-analysis of randomized clinical trials. BJS Open. https://doi.org/10.1093/bjsopen/zrac086

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Students' self-regulation abilities rose from pre-test to post-test after self-evaluation sections, including monitoring problem-solving processes, correcting irrelevant strategies and reflecting on actions, in one one-group study with no comparison group"
-description: "Students' self-regulation abilities rose from pre-test to post-test after self-evaluation sections, including monitoring problem-solving processes, correcting irrelevant strategies and reflecting on actions, in one one-group study with no comparison group"
+title: "In one one-group study, students were reported to monitor problem-solving and correct irrelevant strategies by the end of a digital-literacy course that included self-evaluation sections; no pre-post result for self-regulation is reported"
+description: "In one one-group study with no comparison group, students were described as able to monitor problem-solving processes, correct irrelevant strategies and reflect on their actions by the end of a digital-literacy course that included self-evaluation sections; the reported pre-post t-tests cover other dimensions, and the self-evaluation sections cannot be separated from the course's other activities"
 id: self-regulation-gains-from-self-evaluation-sections
 status: review
 generated:
@@ -20,14 +20,14 @@ sources:
     rigour: 1
 ---
 
-# Students' self-regulation abilities rose from pre-test to post-test after self-evaluation sections, including monitoring problem-solving processes, correcting irrelevant strategies and reflecting on actions, in one one-group study with no comparison group
+# In one one-group study, students were reported to monitor problem-solving and correct irrelevant strategies by the end of a digital-literacy course that included self-evaluation sections; no pre-post result for self-regulation is reported
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 > **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Students' ability to monitor the problem-solving process, check adopted strategies and correct them when not relevant, and their performance rose from pre-test to post-test after self-evaluation sections administered to each learner, in one one-group study with no comparison group. [→ Feola 2016](#feola-2016)
+`q2 i?` By the end of the course, which included self-evaluation sections administered to each learner, the author reports that students "achieved the ability to monitor the process useful for the solution of a problem, to check out the strategies adopted and correct them"; no separate pre-post result is reported for self-regulation, and in this one-group study with several activities the self-evaluation sections cannot be isolated as the cause. [→ Feola 2016](#feola-2016)
 
 ## Evidence
 
@@ -37,7 +37,7 @@ Elvia Ilaria Feola. (2016). Digital Literacy and New Technological Perspectives.
 
 `q2 · i?` · `causal · r1`
 
-Self-regulation-structures component of the R-I-Z-A evaluation in the one-group study, implemented through self-evaluation sections administered to each individual learner. The article reports students "achieved the ability to monitor the process useful for the solution of a problem" and to correct irrelevant strategies. No effect size is printed.
+Self-regulation-structures component of the R-I-Z-A evaluation in the one-group study, implemented through self-evaluation sections administered to each individual learner. The article reports students "achieved the ability to monitor the process useful for the solution of a problem" and to correct irrelevant strategies. No effect size is printed, and the significant pre-post t-tests the article reports are for the Instant DCA's technological, cognitive and ethical dimensions, not for the self-regulation structures. The study had one group and several course activities, so it cannot separate the effect of the self-evaluation sections from the other activities or from maturation.
 
 > "Students achieved the ability to monitor the process useful for the solution of a problem, to check out the strategies adopted and correct them, if they are not relevant, resul ting in increased performance."
 

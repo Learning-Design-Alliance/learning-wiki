@@ -72,3 +72,4 @@ Aggregated adjusted mathematics regression results; the article reports openness
 - [Of the Big Five personality traits, only conscientiousness (r = .22) and openness (r = .13) correlate appreciably with mathematics achievement](big-five-traits-correlate-weakly-with-math-achievement.md) — related
 - [Conscientiousness correlates more strongly with grades than with standardized test scores, across both language and STEM domains](conscientiousness-grades-vs-test-scores.md) — related
 - [13 of 16 adjusted associations between achievement measures and openness/conscientiousness were statistically significantly positive](thirteen-of-sixteen-adjusted-associations-positive.md) — a broader claim this one bears on
+- [Grade-12 students with higher GPA score significantly higher on conscientiousness than lower-GPA peers, with no difference in the other four Big Five domains](conscientiousness-higher-in-academic-achievement-group.md) — related

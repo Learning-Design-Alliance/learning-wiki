@@ -48,4 +48,4 @@ The authors' comparison of this follow-up study's usage rates with those reporte
 ## Related Claims
 - [Of the control agricultural education teachers still teaching explicit science a year later, only 2 of 7 (29%) used the Science-in-CTE method and lessons](science-in-cte-control-teachers-low-sustained-use.md) — related
 - [12 of the 13 experimental agricultural education teachers still teaching explicit science (92%) used Science-in-CTE materials one year after the pilot study](science-in-cte-treatment-teachers-sustained-use-one-year.md) — related
-- [80% of partnered science teachers voluntarily incorporated Science-in-CTE methods or examples into their science classes](science-teachers-voluntary-adoption-science-in-cte.md) — related
+- [Eight of the 10 responding partnered science teachers (80%) voluntarily incorporated Science-in-CTE methods or examples into their science classes](science-teachers-voluntary-adoption-science-in-cte.md) — related

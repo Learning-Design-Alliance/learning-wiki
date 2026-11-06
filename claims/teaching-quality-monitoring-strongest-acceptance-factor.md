@@ -50,3 +50,4 @@ Authors' summary interpretation of the MSEM results from the nationwide survey (
 - [Leadership and teaching quality monitoring are positively related to faculty's behavioral intention for online teaching, while strategic planning is not](leadership-tqm-behavioral-intention.md) — related
 - [Perceived usefulness strongly predicts faculty's behavioral intention and mediates the influence of teaching quality monitoring, with marginal mediation for strategic planning and leadership](perceived-usefulness-mediation-behavioral-intention.md) — related
 - [Strategic planning and teaching quality monitoring are positively related to faculty's perceived usefulness of online teaching](strategic-planning-tqm-perceived-usefulness.md) — related
+- [Share of pure presence teaching at German universities is expected to fall from 85% to 59% after the pandemic while mixed formats grow](pandemic-shift-toward-mixed-and-online-formats.md) — related

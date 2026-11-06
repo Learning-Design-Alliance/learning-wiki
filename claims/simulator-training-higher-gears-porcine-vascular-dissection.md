@@ -55,3 +55,4 @@ Prospective, controlled, non-randomized feasibility study of 12 novice robotic s
 - [GEARS domain and surgical-step scores were similar across experience groups for both procedures, with all p > 0.05](gears-domain-step-scores-similar-groups.md) — reports the opposite
 - [Training on 3D-printed LRYGB models transfers to porcine organ models: trained residents performed comparably to untrained intermediates](3d-training-transfers-to-porcine-models.md) — a narrower finding that bears on this claim
 - [Agreement on GEARS surgical-performance domains is poor for force control, tissue handling, autonomy, and robot control, and marginal for depth perception, bimanual skill, and efficiency](gears-domain-agreement-poor.md) — related
+- [VR-training group achieves higher GEARS-assessed basic robotic surgical skill than untrained controls (24.91 ± 3.36 vs. 19.68 ± 3.07)](dvss-vr-training-higher-gears-scores.md) — related

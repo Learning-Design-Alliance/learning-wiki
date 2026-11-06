@@ -48,3 +48,4 @@ In the 793-student survey, k-means clustering on TIPI traits and PHQ-4 symptoms 
 - [Positive Acceptance of Change and Secure Relationships is significantly and positively associated with social adaptation in every personality/mental-health cluster](pacsr-social-adaptation-all-clusters.md) — related
 - [Resilience shows no direct association with study performance (grades) among pre-service teachers, regardless of personality or mental health profile](resilience-no-direct-association-study-performance.md) — related
 - [Which resilience domain predicts coping with study demands varies slightly across personality/mental-health clusters: Control in the introverted cluster, Personal Competence in the depressive/anxious and extroverted clusters](cluster-specific-coping-resilience-domains.md) — reports the opposite
+- [Mental health symptoms alone are not significantly associated with academic grades in this sample](mental-health-symptoms-grades-null.md) — related

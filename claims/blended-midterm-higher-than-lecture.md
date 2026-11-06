@@ -46,5 +46,5 @@ Quasi-experimental comparison of 445 experimental versus 431 control students ta
 
 ## Related Claims
 - [Students in the blended learning group scored significantly higher on the final pathophysiology examination than students in the traditional lecture group](blended-final-higher-than-lecture.md) — related
-- [BOPPPS-based blended teaching produces significantly higher final examination and process assessment scores than traditional lecture-based teaching](boppps-higher-final-exam-process-assessment.md) — related
+- [In one nonrandomised quasi-experiment, a BOPPPS-based blended teaching class scored significantly higher on final examination and process assessment than a traditional lecture-based class](boppps-higher-final-exam-process-assessment.md) — related
 - [No statistically significant differences among the three sections on mid-term exam, online journal entries, or combined totals](no-significant-difference-midterm-journal-combined.md) — reports the opposite

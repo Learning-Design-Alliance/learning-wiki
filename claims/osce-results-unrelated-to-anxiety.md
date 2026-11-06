@@ -52,3 +52,5 @@ Null finding from the logistic-regression and pairwise correlation analyses repo
 - [Logistic regression identified access score, final exam knowledge score, final skill score and OSCE score as associated with cohort, but not anxiety measures](regression-factors-pandemic-cohort.md) — related
 - [State anxiety measured before the OSCE decreased after completing the test in both cohorts, suggesting exam-related rather than persistent anxiety](state-anxiety-decreases-after-osce.md) — related
 - [Occupational therapy students assessed after the COVID-19 pandemic showed higher baseline trait anxiety than the prepandemic cohort](postpandemic-higher-trait-anxiety-osce.md) — related
+- [Post-exam anxiety is inversely correlated with OSCE score: students with the lowest post-OSCE anxiety achieved better scores](post-exam-anxiety-inversely-correlated-osce-score.md) — related
+- [Pre-exam anxiety did not correlate with OSCE score, and women reported higher pre-exam anxiety than men](pre-exam-anxiety-no-score-link-gender-difference.md) — a narrower finding that bears on this claim

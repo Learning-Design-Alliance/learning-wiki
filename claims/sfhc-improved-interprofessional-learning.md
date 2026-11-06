@@ -46,7 +46,7 @@ Prospective cohort study comparing SFHC and traditional teaching groups on the A
 
 ## Related Claims
 - [Interprofessional training in a psychiatric ward improved all three subscales of the Assessment of Interprofessional Team Collaboration Scale](ipe-psychiatric-ward-improved-aitcs-subscale.md) — related
-- [The collaborative model shows no significant effect on inter-professional teamwork competence or transformative learning readiness](fsph-3d-model-no-effect-teamwork-transformative-learning.md) — related
+- [The collaborative model's results on teamwork competence and transformative learning readiness are mixed: change scores did not differ, while baseline-adjusted ANCOVA favoured it on teamwork competence but not on transformative learning readiness](fsph-3d-model-no-effect-teamwork-transformative-learning.md) — related
 - [SFHC intervention improved simulated nurse licensure examination (professional practice module) scores post-intervention](sfhc-improved-licensure-exam-scores.md) — related
 - [SFHC intervention improved medical curiosity (SMC) scores of general surgical nursing interns post-intervention](sfhc-improved-medical-curiosity-smc.md) — related
 - [SFHC intervention improved doctor-patient communication (SEGUE) scores post-intervention](sfhc-improved-segue-communication.md) — related

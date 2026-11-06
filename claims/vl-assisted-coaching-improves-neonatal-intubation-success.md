@@ -87,3 +87,4 @@ RCT randomising 49 neonatal learners with under one year of intubation experienc
 - [Just-in-time simulation training immediately before the procedure improves first-attempt intubation success and reduces attempt duration](jitt-improves-first-attempt-intubation-success.md) — related
 - [Just-in-time e-learning boosters immediately before procedures improved neonatal intubation knowledge and some performance measures](jit-elearning-booster-improves-intubation-knowledge-performance.md) — related
 - [Daily simulation practice before shifts improved first-pass intubation rates in a retrieval service, with the significant gain in neonatal patients](frequent-mannequin-practice-improves-first-pass-intubation.md) — related
+- [Video laryngoscopy yields higher intubation success rates than direct laryngoscopy among novice medical students on the first and second attempts, but not on the third](vl-higher-success-first-second-attempt.md) — related

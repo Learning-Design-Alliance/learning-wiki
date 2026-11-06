@@ -53,3 +53,4 @@ Correlational analysis in the same sample of 162 children comparing SEMA scores 
 - [Children's arithmetic skills are the strongest predictor of their explicitly measured math anxiety, with higher skills associated with lower anxiety](arithmetic-skills-predict-explicit-math-anxiety.md) — related
 - [Math anxiety explained variance in posttest monitoring judgments beyond trait anxiety, supporting its distinctness from general anxiety](math-anxiety-distinct-from-trait-anxiety-in-monitoring.md) — related
 - [Non-learners show higher state anxiety than learners, but trait anxiety does not differ between groups](non-learners-higher-state-anxiety-trait-unchanged.md) — related
+- [Higher BMI is strongly correlated with anxiety subscale scores, especially panic agoraphobia (r = 0.851)](bmi-strongly-correlated-anxiety-subscales.md) — related

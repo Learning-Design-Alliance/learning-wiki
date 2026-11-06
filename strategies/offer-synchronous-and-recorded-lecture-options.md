@@ -44,6 +44,7 @@ During the spring 2020 shift, case study institutions commonly built in options 
 - [Virtual Flipped Classroom](virtual_flipped_classroom.md)
 - [Offer course lectures both live and as posted recordings to balance equity of access with schedule and accountability](offer-lectures-synchronous-and-recorded.md)
 - [Provide recorded live virtual classroom sessions that students can access at any time](provide-recorded-live-virtual-classroom-access.md)
+- [Blend asynchronous and synchronous sessions with technical support and virtual simulations when delivering flipped classrooms remotely](blend-async-sync-tech-support-virtual-simulations-remote-flipped.md)
 
 ## Examples
 -

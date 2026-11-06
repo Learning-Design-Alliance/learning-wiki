@@ -18,7 +18,7 @@ sources:
 # Minimize student frustration by making feedback clear, legible, focused, and transparent
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 25 claims (13 for, 12 mixed) · 26 studies (8 review, 5 qualitative, 4 causal, 3 quant-synthesis, 3 design, 2 associational, 1 theoretical), `q1`–`q4` · 5 of 26 report an effect size · 22 claims rest on one study
+> **Evidence** · 26 claims (14 for, 12 mixed) · 27 studies (8 review, 6 qualitative, 4 causal, 3 quant-synthesis, 3 design, 2 associational, 1 theoretical), `q1`–`q4` · 5 of 27 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -124,6 +124,7 @@ Claims found while converting this page that bear on it but were not used in the
 - [Directive feedback is associated with higher cognitive load than Socratic feedback, with no agent-type effects on learning experiences](../claims/directive-feedback-higher-cognitive-load.md) [~M]: postgraduates with AI agents; bears on how comments are phrased, not on clarity as such.
 - [Scaffolding must be balanced: too little led to confusion and overload, while too much reduced opportunities for critical thinking](../claims/scaffolding-balance-confusion-versus-critical-thinking.md) [~M]: a lesson learned from project-based computing courses; bears on support generally, not on comments.
 - [Unstructured peer observation without guidance produces vague, negative feedback that is unhelpful to presenters](../claims/unstructured-peer-feedback-vague-negative.md) [+W] — attached 2026-11-02 from V. Vijaya Vani (2015), which proposed "Give students guidance on what to observe before peer feedback so feedback is constructive rather than vague and negative".
+- [Only 6.4% of preclerkship narrative comments offered guidance on how to improve](../claims/preclerkship-narrative-comments-rarely-suggest-improvement.md) [+W] — attached 2026-11-06 from Bergeron Linda et al. (2025), which proposed "Give clinical teachers explicit instructions on composing effective narrative comments before clerkship".
 
 ## Objective and learner-valued goal
 

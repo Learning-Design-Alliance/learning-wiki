@@ -49,6 +49,7 @@ The article recommends that when learning moves online, each element of the E-5C
 ## Related Strategies
 
 - [Virtual Flipped Classroom](virtual_flipped_classroom.md)
+- [Blend asynchronous and synchronous sessions with technical support and virtual simulations when delivering flipped classrooms remotely](blend-async-sync-tech-support-virtual-simulations-remote-flipped.md)
 
 ## Examples
 -

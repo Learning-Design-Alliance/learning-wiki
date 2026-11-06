@@ -61,6 +61,7 @@ The article recommends the PBL-CBL model as "a feasible and scalable pedagogical
 - [Exercise caution when selecting a single teaching method; consider disciplinary characteristics and student demographics, and weigh combined approaches](caution-single-method-selection-neurology.md)
 - [Increase hands-on training and early patient contact to build clinical examination confidence](hands-on-training-early-patient-contact.md)
 - [When clinical training is restricted, improve teaching methods so students can learn clinical judgment on-site, and develop methods for skills negatively affected by all-on-campus training](improve-on-site-dependent-skill-teaching-strategy.md)
+- [Provide increased exposure to patients with dysphagia during SLT training to raise self-perceived competency](increase-dysphagia-patient-exposure-strategy.md)
 
 ## Examples
 -

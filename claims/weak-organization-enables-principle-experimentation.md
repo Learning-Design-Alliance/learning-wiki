@@ -27,7 +27,7 @@ sources:
 > **Currency** · newest study 2008 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Group 4, which applied no organizing principle during the first phase, could freely move cards and experiment with principles based on card type and contributor. [→ Overdijk 2008](#overdijk-2008)
+`q2 i?` Group 4, whose organization was weak in the first phase (initially no spatial grouping or linking, and no links throughout), could freely move cards; near the end of that phase a student began experimenting with graphical principles based on card type and then contributor. [→ Overdijk 2008](#overdijk-2008)
 
 ## Evidence
 

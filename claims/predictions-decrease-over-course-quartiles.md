@@ -50,6 +50,6 @@ de Bruin, A. B. H., Kok, E. M., Lobbestael, J., & de Grip, A. (2017). The impact
 - [Most students who ultimately failed the exam still expected to pass three days before it, showing persistent overconfidence despite knowledge gain](failers-still-expected-to-pass.md) — related
 - [The level of reflection support (practice-only, grade comparison, or reflection prompts) did not differentially affect the improvement of secondary students' calibration accuracy over time](reflection-support-no-differential-calibration-gain.md) — related
 - [Overconfidence (bias) decreased from pretest to posttest across all groups including control, with no group differences](bias-decreased-across-groups-no-feedback-effect.md) — related
-- [The Monitoring Exercise protected against overconfidence in the second exam score prediction but did not affect exam scores](monitoring-exercise-reduced-overconfidence-only.md) — related
+- [The Monitoring Exercise protected against overconfidence in the second exam score prediction but showed no significant effect on exam scores](monitoring-exercise-reduced-overconfidence-only.md) — related
 - [Grandiose narcissism predicted overconfidence in exam score predictions at both time points, while vulnerable narcissism predicted less overconfidence only at course start and optimism was unrelated](narcissism-predicts-overconfidence.md) — related
 - [Metacognitive monitoring bias and precision modulate when students stop studying relative to their goals](comsa-metacognitive-monitoring-stopping.md) — related

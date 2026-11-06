@@ -50,3 +50,4 @@ Meta-analysis of two observational cohort studies evaluating decision-to-deliver
 - [The effect of obstetric team training on neonatal hypoxic ischemic encephalopathy is uncertain, with conflicting RCT and cohort results](obstetric-team-training-hie-effect-uncertain.md) — related
 - [The effect of obstetric team training on umbilical cord prolapse outcomes is inconclusive, with very low certainty evidence](obstetric-team-training-cord-prolapse-inconclusive.md) — related
 - [Simulation-based obstetric team training shows a positive but statistically non-significant effect on Apgar scores less than 7 at 5 minutes, with moderate certainty evidence](obstetric-team-training-apgar-score-no-significant-effect.md) — related
+- [The training program did not change vacuum extraction rates, cesarean section rates, or Weighted Adverse Outcome Scores](no-change-secondary-obstetric-outcomes.md) — related

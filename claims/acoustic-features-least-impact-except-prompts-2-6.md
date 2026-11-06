@@ -51,3 +51,4 @@ Leave-one-out ablation of the acoustic feature group across six prompts. The aut
 - [Adding fluency features to content features sharply increases scoring QWK for every prompt](fluency-features-sharp-qwk-increase-ablation.md) — related
 - [Lower model performance on Prompt 2 tracks poor inter-annotator agreement (QWK 0.560 vs 0.758)](prompt2-low-performance-tracks-annotator-agreement.md)
 - [Multimodal XGBoost models achieved rubric-aligned scoring comparable to expert ratings, and no single modality approached multimodal performance](multimodal-xgboost-expert-comparable-scoring.md)
+- [Visual feedback was the most preferred feedback modality and acoustic feedback the least preferred](visual-feedback-most-preferred-modality.md) — related

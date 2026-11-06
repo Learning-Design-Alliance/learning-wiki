@@ -47,5 +47,5 @@ Meta-analysis of four studies involving 567 participants (288 receiving TBL) usi
 ## Related Claims
 - [TBL develops more students' self-study ability than LBL according to student questionnaires](tbl-increases-self-study-ability-questionnaires.md) — related
 - [TBL enhances students' communication skills more than LBL according to student questionnaires](tbl-enhances-communication-skills-questionnaires.md) — related
-- [TBL develops students' thinking ability more than LBL, though with high heterogeneity driven by one study](tbl-increases-thinking-ability-questionnaires.md) — related
+- [More TBL than LBL students report that their pedagogy greatly developed their thinking ability, though with high heterogeneity driven by one study](tbl-increases-thinking-ability-questionnaires.md) — related
 - [More PBL than LBL students report satisfaction with improved thinking ability (RR = 1.42)](pbl-satisfaction-thinking-ability.md) — related

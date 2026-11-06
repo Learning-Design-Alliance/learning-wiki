@@ -52,3 +52,4 @@ Descriptive results from the practice items (P1–P5); P2 and P3 were analyzed o
 - [Most residents believe additional simulated laparoscopic training would positively impact their operative autonomy, yet few practice regularly](residents-believe-simulation-improves-autonomy.md) — related
 - [Intervention-group students with knowledge about simulation, desire for simulation education, or belief in its usefulness reported higher satisfaction and self-confidence](simulation-attitudes-linked-satisfaction.md) — related
 - [Most early-career bariatric surgeons want formal endoscopy training but most have never attended a formal upper endoscopy course](endoscopy-course-interest-participation-gap.md) — related
+- [Students reacted favourably to HPOT: most wanted to continue using the techniques despite mixed perceived anxiety benefit](student-acceptance-of-hpot.md) — related

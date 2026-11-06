@@ -30,7 +30,7 @@ A semi-structured interview assessment developed by the North Central Regional E
 
 ### Claims
 - [Upper-level students most often reported contextual analysis, setting the purpose for reading, monitoring comprehension, and rereading](../claims/secondary-students-top-metacognitive-behaviors.md) [+W]
-- [Predicting, using contextual analysis, and rereading were the most frequently used metacognitive behaviors; deciding when to stop, independent reading time, and testing were least frequent](../claims/predicting-contextual-analysis-rereading-most-frequent.md) [+W]
+- [Predicting, using contextual analysis, and rereading were the most frequently used metacognitive behaviors; deciding when to stop and independent reading time were least frequent](../claims/predicting-contextual-analysis-rereading-most-frequent.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -68,7 +68,7 @@ The Metacognitive Interview Form for Younger and Older Students (NCREL, 1995 rev
 ### Claims
 <!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
 - [Upper-level students most often reported contextual analysis, setting the purpose for reading, monitoring comprehension, and rereading](../claims/secondary-students-top-metacognitive-behaviors.md) [+W]
-- [Predicting, using contextual analysis, and rereading were the most frequently used metacognitive behaviors; deciding when to stop, independent reading time, and testing were least frequent](../claims/predicting-contextual-analysis-rereading-most-frequent.md) [+W]
+- [Predicting, using contextual analysis, and rereading were the most frequently used metacognitive behaviors; deciding when to stop and independent reading time were least frequent](../claims/predicting-contextual-analysis-rereading-most-frequent.md) [+W]
 
 ## Related Elements
 

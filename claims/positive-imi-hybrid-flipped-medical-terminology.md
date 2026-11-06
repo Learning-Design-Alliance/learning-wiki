@@ -49,3 +49,4 @@ One-sample t-tests on IMI subscales from 149 valid student responses in a hybrid
 - [Students' perceptions of university lectures are significantly below neutral, with female students rating lectures more positively than males](ul-perceptions-below-neutral-females-higher.md) — related
 - [Undergraduate students rate GenAI's usefulness for programming coursework significantly above neutral](genai-usefulness-perceptions-programming-positive.md) — related
 - [Student satisfaction with the online flipped classroom course was significantly above the neutral point](ofc-student-satisfaction-above-neutral.md) — related
+- [The flipped classroom significantly increased instrumental, integrative and intrinsic motivation factors](flipped-classroom-raises-other-motivation-factors.md) — related

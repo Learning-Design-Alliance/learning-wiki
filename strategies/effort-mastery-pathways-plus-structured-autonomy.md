@@ -40,7 +40,7 @@ The article's practitioner recommendations split into two strands matched to the
 ## Claims
 
 - [Emotional variables fully mediate both grit dimensions' associations with foreign language achievement, with COI acting negatively via boredom and POE showing competitive suppression](../claims/emotions-fully-mediate-grit-achievement.md) [+W]
-- [In an exam-oriented Chinese EFL context, POE predicts enjoyment and reduced boredom while COI predicts boredom and shows no enjoyment association](../claims/poe-coi-divergent-emotional-pathways.md) [+W]
+- [In an exam-oriented Chinese EFL sample, POE was associated with more enjoyment and less boredom, while COI was associated with more boredom and had no significant adjusted path to enjoyment](../claims/poe-coi-divergent-emotional-pathways.md) [+W]
 - [A two-factor grit structure (COI and POE as distinct factors) fits Chinese senior high school students better than a one-factor model](../claims/two-factor-grit-structure-chinese-senior-high.md) [+W]
 
 ## Related Strategies

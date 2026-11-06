@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Math anxiety has both a direct negative effect and a WM-mediated indirect effect on children's verbal Math Reasoning, but only an indirect effect on Numerical Operations"
-description: "Math anxiety has both a direct negative effect and a WM-mediated indirect effect on children's verbal Math Reasoning, but only an indirect effect on Numerical Operations"
+title: "In a cross-sectional model, math anxiety has both a direct negative path and a WM-mediated indirect path to children's verbal Math Reasoning, but only an indirect path to Numerical Operations"
+description: "In a cross-sectional structural equation model of 330 children, math anxiety has both a direct negative path and a WM-mediated indirect path to verbal Math Reasoning, but only an indirect path to Numerical Operations; the design cannot establish the direction of causality"
 id: math-anxiety-direct-effect-verbal-math-reasoning
 status: review
 generated:
@@ -28,15 +28,15 @@ sources:
     rigour: 2
 ---
 
-# Math anxiety has both a direct negative effect and a WM-mediated indirect effect on children's verbal Math Reasoning, but only an indirect effect on Numerical Operations
+# In a cross-sectional model, math anxiety has both a direct negative path and a WM-mediated indirect path to children's verbal Math Reasoning, but only an indirect path to Numerical Operations
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2`–`r3` · `q3`
 > **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` The Partial Mediation model fit MR significantly better than the Full Mediation model, indicating a direct math-anxiety effect on MR beyond WM. [→ Wu 2017](#wu-2017)
-`q3 i?` For NO, removing direct paths caused no significant fit loss, so math anxiety acted only via WM there. [→ Wu 2017 (2)](#wu-2017-2)
+`q3 i?` The Partial Mediation model fit MR significantly better than the Full Mediation model, indicating a direct math-anxiety path to MR in the model beyond the path through WM; the cross-sectional data cannot establish the direction of causality. [→ Wu 2017](#wu-2017)
+`q3 i?` For NO, removing the direct paths caused no significant loss of fit, so the best-fitting model linked math anxiety to NO only through WM (a significant indirect path); the cross-sectional data cannot establish the direction of causality. [→ Wu 2017 (2)](#wu-2017-2)
 
 ## Evidence
 
@@ -46,7 +46,7 @@ Wu, S. S., Chen, L., Battista, C., Watts, A. K. S., Willcutt, E. G., & Menon, V.
 
 `q3 · i?` · `associational · r3`
 
-SEM comparison in the same 330-child sample; the best-fitting modified Partial Mediation model for MR included a significant negative direct path from math anxiety to MR (β = -0.25, z = -4.09) and "accounted for 60.4% variance in MR".
+SEM comparison in the same 330-child sample; the best-fitting modified Partial Mediation model for MR included a significant negative direct path from math anxiety to MR (β = -0.25, z = -4.09) and "accounted for 60.4% variance in MR". These are paths in a model fitted to cross-sectional data, not demonstrated causal effects: the authors write that "due to the cross-sectional nature of our study, we were unable to determine the direction of causality in our results."
 
 > "given that the Full Mediation model resulted in a poorer fit to the data, and that the deviance test between the Full Mediation and Partial Mediation models was significant (χ2(2) = 28.718, p < 0.001), the Partial Mediation model provided a significantly better fit for MR."
 
@@ -56,7 +56,7 @@ Wu, S. S., Chen, L., Battista, C., Watts, A. K. S., Willcutt, E. G., & Menon, V.
 
 `q3 · i?` · `associational · r2`
 
-SEM model comparison for NO in the same sample; the direct math-anxiety path was dropped, consistent with full mediation of anxiety via WM for non-verbal computation.
+SEM model comparison for NO in the same sample; the direct math-anxiety path was dropped, so the best-fitting (Full Mediation) model linked math anxiety to non-verbal computation only through WM. This is a model fit to cross-sectional data and does not show that anxiety causally acts only through WM; the authors note they "were unable to determine the direction of causality in our results."
 
 > "Although a v2 deviation test did not reveal a significant difference between the Partial Mediation (Model 3) and Full Mediation models for NO (χ2(3) = 2.782, p > 0.05), the AIC and BIC values both suggest that the Full Mediation model was the best fitting model for NO"
 

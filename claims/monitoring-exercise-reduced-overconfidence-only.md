@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The Monitoring Exercise protected against overconfidence in the second exam score prediction but did not affect exam scores
-description: The Monitoring Exercise protected against overconfidence in the second exam score prediction but did not affect exam scores
+title: The Monitoring Exercise protected against overconfidence in the second exam score prediction but showed no significant effect on exam scores
+description: The Monitoring Exercise protected against overconfidence in the second exam score prediction but showed no significant effect on exam scores
 id: monitoring-exercise-reduced-overconfidence-only
 status: review
 generated:
@@ -28,14 +28,14 @@ sources:
     rigour: 2
 ---
 
-# The Monitoring Exercise protected against overconfidence in the second exam score prediction but did not affect exam scores
+# The Monitoring Exercise protected against overconfidence in the second exam score prediction but showed no significant effect on exam scores
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2017 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i?` Students who completed the Monitoring Exercise were underconfident at t=2, unlike the overconfident control group, but their exam scores did not improve. [→ de Bruin 2017](#de-bruin-2017)
+`q3 i?` Students who completed the Monitoring Exercise were underconfident at t=2, unlike the overconfident control group, but the Monitoring Exercise had no statistically significant main effect on exam scores (b = .14, p = .24), which does not establish that it had no effect. [→ de Bruin 2017](#de-bruin-2017)
 
 ## Evidence
 

@@ -42,7 +42,7 @@ newest_evidence: 2004
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 1 quant-synthesis `r2`, 1 review `r?`, 1 theoretical `r2` · `q1`–`q4` · `i2` medium
-> **Currency** · newest study 2004 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2004 · not yet checked against its sources · not reviewed by a person
 <!-- title before 2026-10-15: Autonomy support increases intrinsic motivation, engagement, and persistence in learning. -->
 
 When learners experience meaningful choice, volition, and internal causality — rather than external control — they show greater intrinsic motivation, deeper engagement, and longer persistence. The mechanism is not choice for its own sake but perceived self-determination: the sense that one is acting from one's own values rather than external pressure.

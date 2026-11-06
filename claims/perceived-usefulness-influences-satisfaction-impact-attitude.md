@@ -49,7 +49,7 @@ PLS structural model result in the 701-student study; the article states this co
 - [Confirmation of expectations has a large, significant positive influence on perceived usefulness, satisfaction, and perceived enjoyment in CSCL](confirmation-drives-cscl-satisfaction-usefulness-enjoyment.md) — related
 - [Perceived ease of use is a robust predictor, positively and significantly influencing students' attitudes towards CSCL and their perceptions of usefulness](ease-of-use-predicts-attitude-and-usefulness-cscl.md) — related
 - [Students' satisfaction during CSCL positively and significantly influences their perceived impact on learning](satisfaction-influences-perceived-impact-cscl.md) — related
-- [Perceived enjoyment significantly positively influences both satisfaction and perceived impact on learning in CSCL](enjoyment-influences-satisfaction-and-impact-cscl.md) — related
+- [In a cross-sectional survey, students' perceived enjoyment is significantly and positively associated with their satisfaction and perceived impact on learning in CSCL](enjoyment-influences-satisfaction-and-impact-cscl.md) — related
 - [Perceived usefulness and perceived ease of use of GenAI tools significantly predict teachers' attitudes and behavioural intention](usefulness-ease-predict-attitude-intention-genai.md) — related
 - [Positive attitude increases satisfaction, and satisfaction increases course recommendation](attitude-satisfaction-recommendation-chain.md) — related
 - [Information quality, system quality, instructor attitude, assessment diversity, and learner interaction predict satisfaction](five-determinants-of-elearning-satisfaction.md) — related

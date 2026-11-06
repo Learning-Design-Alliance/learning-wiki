@@ -49,3 +49,4 @@ Theoretical argument in the discussion section, citing Ericsson and Simon (1993)
 - [Interaction traces cannot establish answerability or justificatory dispossession because StudyChat does not elicit reconstruction and defense of reasoning](interaction-traces-cannot-establish-answerability.md) — related
 - [Questioning learners prompts and may distort retrospective self-reports of strategy use](prompting-effect-distorts-retrospective-self-reports.md) — possibly the same claim (merge candidate)
 - [Retrieval practice disrupted within-list order reconstruction of eight-item word lists, just as generation did](retrieval-practice-disrupts-within-list-order-reconstruction.md) — related
+- [Self-reported self-care may not reflect real practical behavior in older people, a stated limitation of the HAPA trial](self-report-self-care-limitation-older-adults.md) — possibly the same claim (merge candidate)

@@ -43,7 +43,7 @@ The review organizes the factors enhancing incidental L2 vocabulary acquisition 
 - [Incidental vocabulary gains show retention problems, with losses over time moderated by feedback timing and topic interest](../claims/incidental-vocabulary-retention-problems.md) [+W]
 - [Mastery of incidental vocabulary learning strategies positively predicts L2 incidental vocabulary acquisition through reading](../claims/strategy-mastery-predicts-incidental-vocabulary-acquisition.md) [+W]
 - [L2 proficiency positively predicts L2 incidental vocabulary acquisition through reading](../claims/l2-proficiency-predicts-incidental-vocabulary-acquisition.md) [+W]
-- [L2 proficiency, anxiety, and mastery of strategies jointly explain 18% of variance in incidental vocabulary acquisition](../claims/learner-factors-model-18-percent-variance.md) [+W]
+- [A four-predictor model of L2 proficiency, anxiety, strategy mastery and motivation explains 18% of variance in incidental vocabulary acquisition](../claims/learner-factors-model-18-percent-variance.md) [+W]
 - [Motivation did not significantly predict L2 incidental vocabulary acquisition through reading](../claims/motivation-null-predictor-incidental-vocabulary.md) [~W]
 - [Incidental vocabulary learning anxiety positively predicts L2 incidental vocabulary acquisition through reading](../claims/incidental-vocabulary-anxiety-positive-predictor.md) [+W]
 - [Earlier meta-analyses, as reported second-hand, find that glosses improve L2 vocabulary learning and that text-and-picture glosses outperform single-mode glosses](../claims/glossing-medium-large-effects-l2-vocabulary.md) [+W]

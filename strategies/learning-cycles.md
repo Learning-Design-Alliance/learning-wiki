@@ -59,9 +59,11 @@ Learning cycles embody the "experience before formalization" principle: concepts
 5. **Evaluate** — assess understanding against the original learning goals ([Assessment for Learning](../principles/assessment-for-learning.md))
 
 ## Related Strategies
+
 - [Productive Failure](productive-failure.md) — a learning-cycle variant in which the exploration phase is deliberately allowed to end in failure before canonical instruction
 - [Problem-Based Learning](problem-based-learning.md) — problem exploration precedes and drives self-directed study of the formal content
 - [Flipped Classroom](flipped-classroom.md) — reorders explanation and application; can be combined with cycles by moving the Explain phase outside class time
+- [Tailor in-class flipped classroom design to students' prior knowledge and the learning context](context-aligned-in-class-flipped-design.md)
 
 ## Examples
 - **BSCS Science: An Investigative Approach** ([bscs.org](https://bscs.org)) — the high school biology program built directly on the 5E model, with each chapter structured as Engage–Explore–Explain–Elaborate–Evaluate

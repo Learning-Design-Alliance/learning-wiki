@@ -44,7 +44,8 @@ The article configures a large language model (ChatGPT-5.2, temperature 0.7, top
 - [Ai Simulated Patient Osce Scores Gynecology](../claims/ai-simulated-patient-osce-scores-gynecology.md) [+M]
 
 ## Related Designs
-- 
+
+- [Three-component prompt construction framework for LLM-driven virtual simulated patients](vsp-prompt-three-component-framework.md)
 
 ## Examples
 -

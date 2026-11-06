@@ -43,7 +43,7 @@ The article suggests that having students observe a model's complete problem-sol
 ## Claims
 
 - [Observing the complete problem-solving-and-failing process (VF-process) was more effective for conceptual knowledge acquisition than generating one's own failed solutions (PF) prior to instruction](../claims/vf-process-outperforms-pf-conceptual-knowledge.md) [+M]
-- [Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while prior knowledge did not affect post-test performance in the PF condition](../claims/prior-knowledge-moderates-vf-process-vs-pf.md) [~M]
+- [Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while in the PF condition prior knowledge showed only a small, non-significant correlation with post-test performance](../claims/prior-knowledge-moderates-vf-process-vs-pf.md) [~M]
 - [Students who generated their own solutions or observed the full process did not significantly outperform students who only viewed the outcomes of failed solution attempts on conceptual knowledge](../claims/pf-vf-process-not-superior-to-vf-outcome.md) [~W]
 - [PF students reported more awareness of knowledge gaps than example observers, but awareness of knowledge gaps did not correlate with conceptual knowledge acquisition](../claims/knowledge-gap-awareness-not-linked-to-learning.md) [~W]
 - [Productive Failure Improves Conceptual Learning](../claims/productive-failure-improves-conceptual-learning.md) [+M]

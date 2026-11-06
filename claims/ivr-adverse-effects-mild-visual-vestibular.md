@@ -62,3 +62,4 @@ Narrative synthesis of adverse-effect reporting across 7 included RCTs. The most
 - [Ocular discomfort after EyeSi VR simulation is mild and infrequent](eyesi-vr-mild-ocular-discomfort.md) — a narrower finding that bears on this claim
 - [VR-based simulation significantly increases simulator sickness whereas computer-based simulation does not](vr-simbie-increases-simulator-sickness.md) — related
 - [AR-based anatomy learning is associated with fewer adverse health symptoms overall than traditional learning, except for blurred vision](ar-fewer-adverse-symptoms-except-blurred-vision.md) — related
+- [Physical symptoms such as dizziness and nausea are common during VR MCI training and can degrade training quality for some users](vr-mci-training-physical-symptoms.md) — related

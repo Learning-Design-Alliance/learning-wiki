@@ -46,6 +46,6 @@ Satisfaction survey of 109 fifth-year medical students (ArthroSim n=58, AZBOTS n
 
 ## Related Claims
 - [Novices training on a high-fidelity VR arthroscopy simulator report significantly greater satisfaction with instrument handling and with the overall knee arthroscopy training experience than novices on a low-fidelity simulator](high-fidelity-greater-instrument-handling-and-overall-satisfaction.md) — reports the opposite
-- [Spatial visualizers (SPAT) outperformed object visualizers and verbalizers across all laparoscopic training modalities and performance domains](spatial-learners-outperform-other-cognitive-styles.md) — related
+- [Spatial visualizers (SPAT) outperformed object visualizers and verbalizers across all performance domains on a laparoscopic clip-applying task, pooled across training modalities](spatial-learners-outperform-other-cognitive-styles.md) — related
 - [Over 96% of novice trainees agree simulator training should precede actual surgery for arthroscopy beginners, and over 94% would recommend arthroscopy simulator training to colleagues, with no disagreements in either group](novices-endorse-arthroscopy-simulator-training-before-surgery.md) — related
 - [After a single 90-minute training session, novices trained on a high-fidelity VR arthroscopy simulator show no significant skill-acquisition advantage over novices trained on a low-fidelity benchtop simulator](single-session-no-fidelity-skill-acquisition-difference-arthroscopy.md) — related

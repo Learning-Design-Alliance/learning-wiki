@@ -50,6 +50,7 @@ The article builds on previously identified first principles of instruction, whi
 ## Examples
 
 - [Task-centered strategy pattern: tell/show/do distributed across whole tasks rather than taught topic by topic](../patterns/4cid-four-component-instructional-design.md)
+- [Seven-step in-class flipped classroom procedure for nursing skills lab courses](../designs/seven-step-in-class-flipped-procedure.md)
 
 ## Key Sources
 - M. David Merrill. (2007). A Task-Centered Instructional Strategy. Journal of Research on Technology in Education, 40(1), 5–22. https://eric.ed.gov/?id=EJ826059

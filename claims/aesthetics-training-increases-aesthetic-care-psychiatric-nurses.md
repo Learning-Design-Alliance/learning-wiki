@@ -48,3 +48,4 @@ Quasi-experimental pretest–posttest study with a control group of 90 psychiatr
 - [The intervention improved all five dimensions of aesthetic nursing care, with very large between-group effect sizes across dimensions](aesthetic-care-dimensions-all-improved.md) — a narrower finding that bears on this claim
 - [The aesthetics-based educational intervention significantly increased psychiatric nurses' overall compassion competence compared with controls](aesthetics-training-increases-compassion-competence.md) — related
 - [The intervention improved all three compassion competence subscales—communication, sensitivity, and insight—with large effect sizes](compassion-competence-subscales-improved.md) — related
+- [A seven-session HAPA-based teaching intervention significantly increased overall self-care behavior in older people with hypertension two months after the intervention](hapa-teaching-increases-self-care-older-hypertension.md) — related

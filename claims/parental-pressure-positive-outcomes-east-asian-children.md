@@ -50,3 +50,4 @@ The review asserts, citing Shin et al. (2016) and Song et al. (2015), that paren
 ## Related Claims
 - [Other-made choices produce similar or better motivation and performance than self-made choices for East Asian youth, contrary to Western choice findings](other-made-choices-beneficial-east-asian-youth.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
+- [Students' perceptions of parent and teacher achievement goals frequently diverge, and parent performance goals correlate negatively with achievement](goal-perception-discrepancies-descriptives.md) — related

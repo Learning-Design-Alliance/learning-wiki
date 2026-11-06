@@ -97,3 +97,4 @@ Within-subjects experiment with N = 10 university students (Mage = 20 years) in 
 - [Nature interventions improve working memory in school children relative to control conditions, for both immersive and passive exposures](nature-intervention-improves-working-memory-children.md) — related
 - [Short walks and green playtime improve selective attention in children and adolescents relative to urban or indoor comparisons](nature-walk-improves-selective-attention.md) — related
 - [Effects on sustained/selective attention are mixed across studies, with benefits in some green settings but no effect in others regardless of exposure duration](sustained-selective-attention-mixed-nature-effects.md) — related
+- [Prolonged remote flipped learning produced initial disorientation, then fatigue, isolation, and a desire to return to campus](prolonged-remote-learning-fatigue-isolation.md) — related

@@ -46,4 +46,4 @@ Narrative synthesis statement of the review, attributing knowledge-test improvem
 
 ## Related Claims
 - [Ideation-based interventions are a robustly implemented explicit approach that improves creative performance](ideation-interventions-improve-creative-performance.md) — related
-- [Students' self-directed learning and creative thinking skills increased significantly after QIMS inquiry-based lessons](qims-lessons-increase-self-directed-learning-creative-thinking.md) — related
+- [On a post-intervention self-report survey, students in QIMS inquiry-based classes rated their self-directed learning and creative thinking higher than students in a non-QIMS class](qims-lessons-increase-self-directed-learning-creative-thinking.md) — related

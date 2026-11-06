@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: davis-eric-2026
     resource: "https://doi.org/10.2196/82723"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Time and error benchmarks were derived for Probing (<95 s, no errors), Ring Transfer (<134 s, ≤1 dropped ring), Maze (<99 s, no balls off platform), Meniscectomy (<68 s, ≤1 area of over- or underresection), and Suture Passing (<195 s, <1 mm from target, no anchor unloads). [→ Davis Eric 2026](#davis-eric-2026)
@@ -38,7 +39,7 @@ Davis Eric, Caraet Brianna, Pedowitz Robert, Nicandri Gregg. (2026). Benchmark D
 
 `q2 · i?` · `design · r2`
 
-Observational benchmarking study of 40 sports medicine fellowship–trained faculty who performed each FAST module 3 times per hand after 2 minutes of practice; trimmed means set benchmarks. The article states "The Probing module should be completed in less than 95 seconds with no errors" and analogous thresholds for the other modules (Table 2).
+Observational benchmarking study of 40 sports medicine fellowship–trained faculty in two cohorts of 20: cohort 1 performed the Probing, Ring Transfer and Maze modules and cohort 2 the Meniscectomy and Suture Passing modules, so each module's benchmark rests on 20 surgeons. Each participant performed each of their modules 3 times per hand after 2 minutes of practice; trimmed means set benchmarks. The article states "The Probing module should be completed in less than 95 seconds with no errors" and analogous thresholds for the other modules (Table 2).
 
 > "The Probing module should be completed in less than 95 seconds with no errors. The Ring Transfer module should be completed in less than 134 seconds with no more than 1 error. The Maze module should be completed in less than 99 seconds with no errors."
 

@@ -37,7 +37,7 @@ Winstone, N. E., Gravett, K., Bearman, M., Noble, C., Jensen, L. X., Jones, A., 
 
 `q2 · i?` · `review · r2`
 
-The review reports, citing Steiss et al., Henderson et al., and Lu et al., that "human-generated feedback is still rated by students as superior in quality" and clarity and helpfulness relative to AI-generated feedback, and more likely to be acted upon. No effect sizes are printed; the review narrates these studies without reporting their designs.
+A conceptual paper on feedback as care in the age of GenAI, not an empirical study or systematic review; in its body it states, citing Steiss et al., Henderson et al., and Lu et al., that "human-generated feedback is still rated by students as superior in quality" and clarity and helpfulness relative to AI-generated feedback, and more likely to be acted upon. No effect sizes are printed; the paper narrates these studies without reporting their designs, so the finding is second-hand and rests on the three cited studies.
 
 > "research findings indicate that human-generated feedback is still rated by students as superior in quality (Steiss et al. 2024), helpfulness (Henderson et al. 2025), and clarity (Lu et al. 2024) in comparison to AI-generated feedback, as well as more likely to be accepted and acted upon by students"
 

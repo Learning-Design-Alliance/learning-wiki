@@ -48,7 +48,7 @@ Teacher interview and survey data from Study 1's Results section: teachers "cons
 
 ## Related Claims
 - The range of multiplatform activity types and multiple representations of NGSS-aligned concepts engaged students with different learning preferences and abilities — related
-- [Teachers found Hero Elementary playlist hands-on activities easy to implement because materials were supplied and prepped.](hero-elementary-hands-on-activities-easy-implementation-prepped-materials.md) — related
+- [Teachers reported finding Hero Elementary playlist hands-on activities relatively easy to implement, with lesson planning and hands-on materials supplied and prepped.](hero-elementary-hands-on-activities-easy-implementation-prepped-materials.md) — related
 - [Educators' adaptations of the modified Hero Elementary resources, including accommodations and modifications, provided students with greater access to the virtual learning content](educator-adaptations-greater-access-virtual-content.md) — related
 - [Students were highly engaged in the in-school environment, with engagement increasing over the implementation duration.](hero-elementary-in-school-student-engagement-increased.md) — related
 - Virtual implementation of Hero Elementary varied widely across classrooms, with teachers mixing synchronous and asynchronous instructional strategies — related

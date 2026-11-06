@@ -57,3 +57,5 @@ Reported result of the model taxonomy applied to the PALMA data (five annual wav
 - [The temporal asymmetry in effect sizes: contemporaneous skill effects on self-concept are moderate (d = 0.33 in French) while alternative cross-effects are null or negligible](temporal-asymmetry-effect-sizes.md) — related
 - [Starting contemporaneous effects on wave 2 in the STARTS model yields positive contemporaneous effects of achievement on academic self-concept and positive lagged effects of self-concept on achievement](corrected-starts-positive-contemporaneous-and-lagged-effects.md) — related
 - [Individual mathematics achievement is positively associated with students' ASC development over the school year](individual-achievement-positive-asc-change.md) — related
+- [Changes in students' autonomous motivation predict later mathematics achievement over school trimesters, in a RI-CLPM of secondary students](autonomous-motivation-predicts-later-math-achievement-ri-clpm.md) — related
+- [Higher academic achievement predicts higher academic self-concept over time](higher-grades-predict-higher-asc-longitudinally.md) — related

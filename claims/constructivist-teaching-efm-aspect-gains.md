@@ -1,7 +1,7 @@
 ---
 type: claim
-title: In one uncontrolled pre-post study, midwives’ interpretation scores rose significantly for uterine contractions, baseline fetal heart rate, variability, decelerations, and comprehensive evaluation after constructivist teaching, but did not change for accelerations
-description: In one uncontrolled pre-post study, midwives’ interpretation scores rose significantly for uterine contractions, baseline fetal heart rate, variability, decelerations, and comprehensive evaluation after constructivist teaching, but did not change for accelerations
+title: In one uncontrolled pre-post study, midwives’ interpretation scores rose significantly for uterine contractions, baseline fetal heart rate, variability, decelerations, and comprehensive evaluation after constructivist teaching, with no statistically significant change for accelerations
+description: In one uncontrolled pre-post study, midwives’ interpretation scores rose significantly for uterine contractions, baseline fetal heart rate, variability, decelerations, and comprehensive evaluation after constructivist teaching, with no statistically significant change for accelerations
 id: constructivist-teaching-efm-aspect-gains
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-06
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-06
 sources:
   - id: chen-zhuli-2025
     resource: "https://doi.org/10.1186/s12909-025-07890-5"
@@ -28,11 +29,11 @@ sources:
     rigour: 1
 ---
 
-# In one uncontrolled pre-post study, midwives’ interpretation scores rose significantly for uterine contractions, baseline fetal heart rate, variability, decelerations, and comprehensive evaluation after constructivist teaching, but did not change for accelerations
+# In one uncontrolled pre-post study, midwives’ interpretation scores rose significantly for uterine contractions, baseline fetal heart rate, variability, decelerations, and comprehensive evaluation after constructivist teaching, with no statistically significant change for accelerations
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2025 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Scores improved significantly (P < 0.05) for five aspects including uterine contractions, baseline fetal heart rate, variability, decelerations, and comprehensive evaluation. [→ Chen Zhuli 2025](#chen-zhuli-2025)

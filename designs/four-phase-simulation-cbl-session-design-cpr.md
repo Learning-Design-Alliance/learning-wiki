@@ -45,6 +45,7 @@ The article describes a reusable session structure designed in accordance with t
 ## Related Designs
 
 - [Simulation session structure pairing 20-minute hands-on CBL practice with a 20-minute DwGJ roundtable debriefing](dwgj-cbl-simulation-session-structure.md)
+- [PAL simulation curriculum pattern: four-stage course with team grouping, clinical observation, reverse-selection lesson plan development, and peer-facilitated simulation drills](pal-simulation-four-stage-reverse-selection-pattern.md)
 
 ## Examples
 -

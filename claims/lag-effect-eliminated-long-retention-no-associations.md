@@ -65,7 +65,7 @@ Floor-effect check in Experiment 3 comparing twice-presented to once-presented w
 
 
 ## Related Claims
-- [A within-list lag effect persisted at all retention intervals (up to 7 days) when the orienting task allowed interitem associations, contrary to what a context-only retrieval account predicts for that condition](within-list-lag-persists-with-interitem-associations.md) — related
+- [A within-list lag effect appeared in almost every list, at retention intervals up to 7 days, when the orienting task allowed interitem associations, contrary to what a context-only retrieval account predicts for that condition](within-list-lag-persists-with-interitem-associations.md) — related
 - [Eliminating differential storage of structural components reduces the free-recall spacing effect at moderate to long lags](free-recall-lag-effect-structural-components.md) — a broader claim this one bears on
 - [With incidental orienting tasks that focus processing on individual words and give no incentive to form associations, distributed presentations produce better free recall than massed presentations](contextual-spacing-effect-survives-orienting-tasks.md) — reports the opposite
 - [Recall of words repeated across lists spaced up to 1 week follows a proportionality rule: recall is better after short spacing at short retention intervals but better after long spacing at long retention intervals](proportionality-rule-long-spacing-weeks.md) — related

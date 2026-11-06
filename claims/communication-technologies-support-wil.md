@@ -46,7 +46,7 @@ Synthesis across the 22 reviewed studies: communication tools such as video conf
 
 ## Related Claims
 - [Time zone differences affected international students' timely participation in asynchronous forums, and a balance of synchronous and asynchronous communication was regarded as beneficial](time-zone-differences-asynchronous-participation-balance.md) — related
-- [Introductory face-to-face meetings are the dominant strategy for stimulating social interaction in blended learning](introductory-f2f-meeting-stimulates-interaction.md) — related
+- [Introductory face-to-face meetings were the most reported way of stimulating social interaction in reviewed blended-learning studies (6 of the 9 that reported on it)](introductory-f2f-meeting-stimulates-interaction.md) — related
 - [Key challenges for eWIL include securing partner organizations, lack of support systems, software quality, staff training and equity of access](ewil-implementation-challenges.md) — related
 - [Technology can remove geographical barriers and allow rural and external students to engage in WIL activities](ewil-removes-geographical-barriers.md) — related
 - [Technologies are used to assess student performance during WIL, commonly via online reflective journals and e-portfolios](technology-assessment-reflective-journals-ewil.md) — related

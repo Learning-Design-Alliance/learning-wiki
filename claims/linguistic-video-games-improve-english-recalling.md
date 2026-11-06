@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2018
+source_checked: 2026-11-06
 sources:
   - id: jalalian-2018
     resource: "https://dx.doi.org/10.7575/aiac.alls.v.9n.2p.59"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among 2nd grade high school students, ANCOVA with pretest as covariate showed a significant omnibus difference between the three groups (games with English concepts, games without, no games) in English language posttest scores; raw posttest means were 13.0, 10.8 and 7.3 respectively, and no pairwise comparisons or adjusted means were reported. [→ Jalalian 2018](#jalalian-2018)
@@ -37,7 +38,7 @@ Jalalian, F. (2018). Study on the Role of Video Educational Games with a Linguis
 
 `q2 · i?` · `causal · r2`
 
-Quasi-experimental pretest-posttest study of 90 male students aged 16-17 in three groups of 30, analyzed by ANCOVA omitting the pretest covariate impact. The article reports "a significant difference exists between the mean scores of the three groups in English language posttest" (F = 16.244, p = 0.000); no effect size is printed. Only this omnibus test is reported: there are no pairwise comparisons or adjusted means, so it does not establish that the English-concept games group differed significantly from each of the other two. Raw posttest means were 13.0 (games with English concepts), 10.8 (games without) and 7.3 (no games), against pretest means of 8.9, 9.27 and 9.8. Students in the game groups played at home over the summer.
+Quasi-experimental pretest-posttest study of 90 male students aged 16-17 in three groups of 30, analyzed by ANCOVA omitting the pretest covariate impact. The article reports "a significant difference exists between the mean scores of the three groups in English language posttest" (F = 16.244, p = 0.000); no effect size is printed. Only this omnibus test is reported: there are no pairwise comparisons or adjusted means, so it does not establish that the English-concept games group differed significantly from each of the other two. Raw posttest means were 13.0 (games with English concepts), 10.8 (games without) and 7.3 (no games), against pretest means of 8.9, 9.27 and 9.8. Students in the game groups played over the summer on their own PCs at home, except a few without one, who used the school's computer site on Mondays for two hours.
 
 > "F value of the impact of independent variable is 16.244, which is significant because its probability (0.000) is smaller than the significance level (0.05). This means that a significant difference exists between the mean scores of the three groups in English language posttest."
 

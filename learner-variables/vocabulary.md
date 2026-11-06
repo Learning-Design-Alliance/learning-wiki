@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 226 claims (169 show a difference, 28 mixed, 29 no difference) · 149 studies (88 causal, 30 associational, 15 quant-synthesis, 11 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 33 of 149 report an effect size · 223 claims rest on one study
+> **Evidence** · 226 claims (168 show a difference, 29 mixed, 29 no difference) · 149 studies (88 causal, 30 associational, 15 quant-synthesis, 11 review, 3 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 33 of 149 report an effect size · 223 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -43,7 +43,7 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 <!-- Claims reporting findings about this variable, with evidence tags -->
 - [A 16-week universally designed online depth-of-vocabulary intervention improved standardized vocabulary knowledge relative to a control group in fifth graders](../claims/online-depth-vocabulary-intervention-improved-standardized-vocabulary.md) [+M] — instruction changes it
 - [A critical mass of roughly 10,000-12,000 words is needed for fluent reading, from which ESL strategies can begin](../claims/vocabulary-critical-mass-10000-12000-words.md) [+W] — learners who differ on it differ in outcomes
-- [Academic word list count, word count, and Flesch-Kincaid grade level are the most important features for predicting cognitive engagement in discussion posts](../claims/awl-count-word-count-feature-importance-engagement.md) [+W] — learners who differ on it differ in outcomes
+- [In decision-tree and random-forest models, academic word list count, word count, and Flesch-Kincaid grade level were among the most important features for predicting cognitive engagement in discussion posts; an SVM ranked different features first](../claims/awl-count-word-count-feature-importance-engagement.md) [+W] — learners who differ on it differ in outcomes
 - [Adventure video games with supplementary vocabulary material outperform control conditions on receptive and productive vocabulary tests](../claims/adventure-games-supplementary-material-vocabulary.md) [+M] — instruction changes it
 - [Available second language research indicates extensive reading programs are generally more effective than systematic vocabulary instruction using decontextualized exercises](../claims/l2-extensive-reading-beats-decontextualized-vocabulary-exercises.md) [+M] — instruction changes it
 - [Captioning second-language videos produces large benefits for comprehension and vocabulary acquisition](../claims/captioning-second-language-videos-large-benefits.md) [+M] — instruction changes it
@@ -194,7 +194,7 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Posttest expressive language scores were significantly higher in the experiment group than the control group, while receptive language scores did not differ significantly](../claims/posttest-between-group-expressive-significant-receptive-null.md) [~M] — instruction changes it
 - [The control group, continuing the regular preschool program, also showed significant pretest-to-posttest vocabulary gains](../claims/control-group-regular-program-vocabulary-gains.md) [+M] — instruction changes it
 - [The Interactive Story Reading Method produced significant pretest-to-posttest gains in expressive language vocabulary in the experiment group](../claims/interactive-story-reading-expressive-prepost-gains.md) [+M] — instruction changes it
-- [The Interactive Story Reading Method produced significant pretest-to-posttest gains in receptive language vocabulary in the experiment group](../claims/interactive-story-reading-receptive-prepost-gains.md) [+M] — instruction changes it
+- [Children taught with the Interactive Story Reading Method gained significantly in receptive vocabulary from pretest to posttest, as did the control group, with no significant posttest difference between the groups](../claims/interactive-story-reading-receptive-prepost-gains.md) [~W] — instruction changes it
 - [Initial receptive vocabulary knowledge predicted response to universal Tier-1 vocabulary instruction for students receiving only classroom instruction](../claims/initial-vocabulary-predicts-tier1-response.md) [+M] — learners who differ on it differ in outcomes
 - [Initial vocabulary knowledge moderated the Tier-2 intervention effect on target word learning, favoring students with higher initial PPVT scores](../claims/initial-vocabulary-moderates-target-word-intervention-effect.md) [~M] — an instructional effect differs with it
 - [Tier-2 small-group vocabulary intervention improved at-risk kindergartners' expressive target word learning compared to at-risk controls receiving Tier-1 instruction only](../claims/tier2-vocabulary-intervention-improves-target-word-learning.md) [+M] — instruction changes it

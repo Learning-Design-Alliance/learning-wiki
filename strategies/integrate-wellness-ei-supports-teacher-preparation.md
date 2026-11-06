@@ -51,6 +51,7 @@ The article recommends that "Universities or teacher preparation institutions sh
 - [Integrate coping psychoeducation into academic support workshops and counselling for university teachers](coping-psychoeducation-workshops-faculty.md)
 - [Train university students in stress-coping techniques alongside early screening for attention or learning difficulties](coping-training-plus-attention-screening-strategy.md)
 - [Schools should run time-management and study-skills workshops, provide academic counseling, and teach coping strategies to manage academic stress](workshops-counseling-coping-kazo-recommendation.md)
+- [Provide counselling services and an academically supportive environment for LGBTQ+ college students](counselling-and-academic-support-lgbtq-students.md)
 
 ## Examples
 -

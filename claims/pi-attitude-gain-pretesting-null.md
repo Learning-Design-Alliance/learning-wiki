@@ -47,7 +47,7 @@ Descriptive analysis (means, standard deviations, mean gains) of SADQ scores in 
 ## Related Claims
 - [Students taught with the e-learning module showed a significantly larger gain in attitudes from pre-test to post-test than students taught by the conventional method](elearning-module-gain-attitudes-transistors.md) — related
 - [The only significant pairwise post-test difference in attitudes was between two e-learning-taught groups differing only in pre-test exposure, favouring the pre-tested group](pretest-presence-drove-attitude-difference.md) — reports the opposite
-- [Students taught Structure of the Atom and the Periodic Table with Programmed Instruction obtained significantly higher attitude mean scores than control groups taught conventionally](pi-higher-posttest-attitude-sapt.md) — related
+- [Students taught Structure of the Atom and the Periodic Table with Programmed Instruction obtained higher attitude mean scores than control groups taught conventionally, in a significant four-group ANOVA with no pairwise tests](pi-higher-posttest-attitude-sapt.md) — related
 - [ANCOVA on post-test attitude scores with KCSE covariates found a statistically significant overall difference among the three groups](ancova-posttest-attitudes-significant.md) — related
 - [Before intervention, attitude scores of the pretested experimental and control groups were statistically the same](pi-pretest-attitude-equivalence.md) — related
 - [The experimental group's pretest-to-post-test attitude gain was significantly larger than the control group's, but the behavior dimension showed no significant difference](eas-gain-score-significant-behavior-not.md) — related

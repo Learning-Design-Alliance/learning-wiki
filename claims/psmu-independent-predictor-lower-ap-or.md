@@ -51,3 +51,4 @@ Multivariate logistic regression in a cross-sectional study of 277 students acro
 - [PSMU mediated via technostress and exhaustion predicts academic performance decrement](psmu-technostress-exhaustion-mediation-apd.md) — related
 - [Multivariable regression confirms gender and university as independent predictors of knowledge score](regression-gender-university-predictors-knowledge-syria.md) — related
 - [Psychological symptom burden is independently and negatively associated with self-perceived academic performance](psychological-symptom-burden-negative-aps.md) — related
+- [Conscientiousness is independently and positively associated with academic achievement (adjusted OR 1.89) in multivariate analysis](conscientiousness-independent-positive-factor-gpa.md) — related

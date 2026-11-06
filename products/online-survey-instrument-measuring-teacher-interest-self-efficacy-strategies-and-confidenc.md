@@ -22,7 +22,7 @@ A pretest–posttest, multi-construct self-report survey developed by An et al. 
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [An LBD-grounded online robotics course increased inservice teachers' self-efficacy in robotics, use of problem-solving and collaboration strategies, and confidence in robotics knowledge and teaching](../claims/lbd-online-robotics-course-teacher-self-efficacy-gains.md) [+M]
+- [After an LBD-grounded online robotics course, inservice teachers reported higher self-efficacy in robotics, problem-solving strategy use, and confidence in robotics knowledge and teaching; their reported collaboration gain was not significant](../claims/lbd-online-robotics-course-teacher-self-efficacy-gains.md) [+M]
 
 ## Related Products and Programmes
 -

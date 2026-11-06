@@ -41,7 +41,7 @@ The article recommends technology usage that blends digital and physical learnin
 
 ## Claims
 
-- [Kid Space use shifted children's attention away from the screen toward the physical environment](../claims/kid-space-less-screen-attention.md) [+W]
+- [During Kid Space sessions, on-task children looked at the projected screen about three-quarters of the time and at physical elements of the room the rest](../claims/kid-space-less-screen-attention.md) [+W]
 - [First-graders using Kid Space showed physical activity during play-based learning, in an exploratory case study without a comparison](../claims/kid-space-more-physical-activity.md) [+W]
 
 ## Related Strategies

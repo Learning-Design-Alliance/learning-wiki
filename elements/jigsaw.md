@@ -13,7 +13,7 @@ generated:
 # Jigsaw
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (3 for, 3 mixed, 1 against) · 7 studies (5 causal, 1 review, 1 associational), `q1`–`q3` · 1 of 7 report an effect size · 7 claims rest on one study
+> **Evidence** · 9 claims (5 for, 3 mixed, 1 against) · 8 studies (6 causal, 1 review, 1 associational), `q1`–`q3` · 1 of 8 report an effect size · 9 claims rest on one study
 
 ## Description
 Jigsaw is the element in which parts of a topic are distributed across learners who then teach one another to assemble the whole.
@@ -31,6 +31,8 @@ Jigsaw is the element in which parts of a topic are distributed across learners 
 - [Students most frequently cited increased course success as the jigsaw technique's main advantage](../claims/student-reported-jigsaw-advantages-success-and-cooperation.md) [+W]
 - [Teaching physics in a science teaching laboratory practice course via the Jigsaw method based on cooperative learning yields higher achievement than the confirmatory laboratory method](../claims/jigsaw-lab-higher-physics-achievement-than-confirmatory.md) [+W] — attached 2026-11-03 from Ataman Karacop (2017), which proposed "Adapted Jigsaw for science laboratory applications"; tests this page's relationship.
 - [Collaborative learning (Jigsaw) produces higher immediate post-test enteral nutrition knowledge than individual practice in first-year nursing students](../claims/collaborative-learning-higher-posttest-knowledge-enteral-nutrition.md) [+M] — attached 2026-11-05 from Acun Aysun (2026), which proposed "Three-session Jigsaw implementation for enteral nutrition nursing education"; tests this page's relationship.
+- [Undergraduate dental students taught with the jigsaw method scored significantly higher on a post-test academic achievement test than students taught with tutorials](../claims/jigsaw-tutorial-posttest-achievement-dental.md) [+W] — attached 2026-11-06 from Haider Ambreen Khurshid et al. (2025), which proposed "Jigsaw small-group discussion method with expert and home groups for undergraduate dental Oral Biology sessions"; tests this page's relationship.
+- [Post-intervention academic motivation was significantly higher for dental students taught with the jigsaw method than for those taught with tutorials, with no baseline difference between groups](../claims/jigsaw-tutorial-academic-motivation-postintervention.md) [+W] — attached 2026-11-06 from Haider Ambreen Khurshid et al. (2025), which proposed "Jigsaw small-group discussion method with expert and home groups for undergraduate dental Oral Biology sessions"; tests this page's relationship.
 
 ## Examples
 

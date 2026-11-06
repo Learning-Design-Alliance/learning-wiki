@@ -156,3 +156,5 @@ Structured-response survey item on hardware/software problem frequency; ten perc
 - [Non-users of VM blamed lack of hardware devices, internet access, technical knowledge, and insufficient promotion by instructional personnel](vm-nonusers-obstacles-devices-promotion.md) — related
 - [Key weaknesses were device compatibility, limited personalization, and lack of a navigation aid, each reported by roughly a third of users](elearning-weaknesses-device-navigation-personalization.md) — related
 - [Access to technology and hardware was not seen as a barrier to SBE readiness, with adequate access reported (mean 3.21)](technology-access-not-a-barrier-to-sbe-readiness.md) — related
+- [Internet connectivity problems hindered remote learning and compounded student anxiety during high-stakes assessments](connectivity-problems-assessment-anxiety-remote.md) — related
+- [Skill-based pharmacy learning (compounding, device counselling, OSCEs) faced validation, access, and transferability challenges when delivered remotely](remote-skill-based-learning-challenges-pharmacy.md) — related

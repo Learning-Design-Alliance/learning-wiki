@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Introductory face-to-face meetings are the dominant strategy for stimulating social interaction in blended learning
-description: Introductory face-to-face meetings are the dominant strategy for stimulating social interaction in blended learning
+title: Introductory face-to-face meetings were the most reported way of stimulating social interaction in reviewed blended-learning studies (6 of the 9 that reported on it)
+description: Introductory face-to-face meetings were the most reported way of stimulating social interaction in reviewed blended-learning studies (6 of the 9 that reported on it)
 id: introductory-f2f-meeting-stimulates-interaction
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-21
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-06
 sources:
   - id: boelens-2017
     resource: "https://doi.org/10.1016/j.edurev.2017.06.001"
@@ -20,14 +21,14 @@ sources:
     rigour: 2
 ---
 
-# Introductory face-to-face meetings are the dominant strategy for stimulating social interaction in blended learning
+# Introductory face-to-face meetings were the most reported way of stimulating social interaction in reviewed blended-learning studies (6 of the 9 that reported on it)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` In six of the nine studies that explicitly reported on interaction, an introductory face-to-face meeting was organized to create a sense of community, with additional online synchronous and asynchronous communication afterwards. [→ Boelens 2017](#boelens-2017)
+`q2 i?` In six of the nine studies that explicitly reported on interaction, an introductory face-to-face meeting was organized to create a sense of community; afterwards the online environment was "often" used for additional synchronous and asynchronous communication (not stated for all six). The other 11 of the 20 reviewed studies did not report explicitly on interaction. [→ Boelens 2017](#boelens-2017)
 
 ## Evidence
 

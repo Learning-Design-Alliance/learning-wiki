@@ -9,6 +9,7 @@ generated:
   at: 2026-10-28
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 recheck_by: 2029
 sources:
   - id: lehesvuori-2026
@@ -25,10 +26,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
-`q2 i?` GPT-3.5-turbo five-shot CoT prompting achieved higher precision, recall, balanced accuracy and F1 than zero-shot prompting for detecting teacher questions. [→ Lehesvuori 2026](#lehesvuori-2026)
+`q2 i?` GPT-3.5-turbo five-shot CoT prompting achieved higher recall, balanced accuracy and F1 than every zero-shot variant for detecting teacher questions, and higher precision than basic zero-shot CoT (0.33 vs 0.2818), though zero-shot CoT with preceding and following context had higher precision (0.4239). [→ Lehesvuori 2026](#lehesvuori-2026)
 
 ## Evidence
 
@@ -38,7 +39,7 @@ Lehesvuori, S., Urrutia, F., Heilala, V., Araya, R., & Hämäläinen, R. (2026).
 
 `q2 · i?` · `design · r2`
 
-Seven-lesson test of GPT-3.5-turbo prompting variants (Table 2). The five-shot CoT model reached F1 0.4667 and balanced accuracy 0.8399, versus F1 0.2931 for zero-shot CoT, showing "the GPT-3.5-turbo five-shot approach was the best-performing classification model."
+Seven-lesson test of GPT-3.5-turbo prompting variants (Table 2). The five-shot CoT model reached F1 0.4667 and balanced accuracy 0.8399, versus F1 0.2931 and balanced accuracy 0.6245 for zero-shot CoT (the best zero-shot F1); its precision (0.33) was below that of zero-shot CoT with preceding and following context (0.4239), whose recall was 0.1453. The authors conclude "the GPT-3.5-turbo five-shot approach was the best-performing classification model."
 
 > "the GPT-3.5-turbo five-shot approach was the best-performing classification model. Five-shot prompting approach technique involved five real question examples from the data."
 
@@ -51,3 +52,4 @@ Seven-lesson test of GPT-3.5-turbo prompting variants (Table 2). The five-shot C
 - [In-context examples improve LLM Bloom classification: three-shot and ten-shot prompting score at or above zero-shot on every dataset tested, and above it in most comparisons](in-context-examples-improve-bloom-classification.md) — related
 - [Few-shot LLM approaches outperform standalone supervised ML approaches, yet hand-crafted rules remain relevant](few-shot-llm-outperforms-ml-hcr-relevant.md) — related
 - [Few-shot with chain-of-thought prompting achieves the best concordance with human expert ratings for all tested LLMs](few-shot-cot-best-concordance-human-experts.md) — related
+- [CoT + few-shot prompting delivers high accuracy with minimal computational overhead, offering an efficient alternative to multi-agent frameworks](cot-few-shot-efficient-alternative.md) — related

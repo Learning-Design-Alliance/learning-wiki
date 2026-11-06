@@ -42,7 +42,7 @@ The article's educational implications recommend that "for simple content with l
 ## Claims
 
 - [On the delayed test, guidance interacted with element interactivity: generation was superior for low element interactivity material, with no significant difference for high element interactivity material](../claims/delayed-test-guidance-element-interactivity-interaction.md) [+W]
-- [On the delayed test, a significant three-way interaction showed a worked example effect for high element interactivity material and a generation effect for low element interactivity material for novices](../claims/delayed-test-three-way-interaction-element-interactivity-guidance-expertise.md) [+W]
+- [On the delayed test, guidance, element interactivity and expertise interacted significantly: for novices, generation beat worked examples on low element interactivity material, while the worked example advantage on high element interactivity material fell just short of significance](../claims/delayed-test-three-way-interaction-element-interactivity-guidance-expertise.md) [+W]
 - [For more knowledgeable learners on the delayed test, a generation effect was obtained for both low and high element interactivity materials](../claims/delayed-test-year11-generation-effect-both-materials.md) [+W]
 - [A literature survey suggests the generation effect is more likely to be demonstrated on delayed than immediate tests](../claims/generation-effect-more-likely-delayed-tests.md) [+W]
 

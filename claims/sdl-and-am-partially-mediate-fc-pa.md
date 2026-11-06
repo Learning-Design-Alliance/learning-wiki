@@ -51,3 +51,4 @@ Structural equation modeling with bias-corrected bootstrap (5,000 resamples) tes
 - [Self-directed learning partially mediated the association between iHEC teaching model and educational performance, accounting for 51.4% of the total association](sdl-partial-mediation-ihec-performance.md) — related
 - [AI acceptance partially mediates the relationship between self-directed learning ability and perceived clinical competence](ai-acceptance-partially-mediates-sdl-clinical-competence.md) — related
 - [Professional recognition partially mediates the relationship between psychological quality and entrepreneurial competence](professional-recognition-partial-mediation.md) — related
+- [The flipped classroom significantly increased autonomous learning motivation, the largest motivation-factor gain](flipped-classroom-raises-autonomous-learning-motivation.md) — related

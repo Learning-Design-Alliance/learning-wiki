@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Multiple-choice single-select items are less difficult than open-ended response questions, and delayed perceived task difficulty ratings relate more strongly to relative item difficulty for open-ended items
-description: Multiple-choice single-select items are less difficult than open-ended response questions, and delayed perceived task difficulty ratings relate more strongly to relative item difficulty for open-ended items
+title: In one German secondary-school chemistry test, multiple-choice single-select items were less difficult than open-ended items, and delayed perceived task difficulty ratings related more strongly to relative item difficulty for open-ended items
+description: In one German secondary-school chemistry competence test (content-knowledge and decision-making items), multiple-choice single-select items were less difficult than open-ended items, and delayed perceived task difficulty ratings related more strongly to relative item difficulty for open-ended items
 id: answer-format-availability-affects-difficulty-and-ratings
 status: review
 generated:
@@ -36,11 +36,11 @@ sources:
     rigour: 2
 ---
 
-# Multiple-choice single-select items are less difficult than open-ended response questions, and delayed perceived task difficulty ratings relate more strongly to relative item difficulty for open-ended items
+# In one German secondary-school chemistry test, multiple-choice single-select items were less difficult than open-ended items, and delayed perceived task difficulty ratings related more strongly to relative item difficulty for open-ended items
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r2` · `q2` · `i1`–`i3`
-> **Currency** · newest study 2025 · 2 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i1` Relative item difficulty is significantly lower for multiple-choice single-select items than for open-ended response questions (ΔM = 0.49, d = 0.38). [→ Schuessler 2025](#schuessler-2025)
@@ -75,7 +75,7 @@ Schuessler, K., Fischer, V., & Walpuski, M. (2025). Investigating construct vali
 
 `q2 · i?` · `associational · r2`
 
-Regressions predicting perceived task difficulty by relative item difficulty separately per answer format; the open-ended model explains 64.3% of variance, which the article calls "clearly higher than 19.9%" for the multiple-choice model. Only R² values are printed, so no standardized effect size applies.
+Regressions predicting perceived task difficulty by relative item difficulty separately per answer format; the open-ended model explains 64.3% of variance, which the article calls "clearly higher than 19.9%" for the multiple-choice model. The article prints R², F, p, the number of items and the regression coefficients for each model, but no standardized effect size for the difference between the two models, so none is coded. The items are chemistry content-knowledge and decision-making items from one competence test taken by German secondary-school students.
 
 > "This is clearly higher than 19.9% of variance in perceived task difficulty, which is explained when using the relative item difficulty of multiple-choice single-select items as a predictor, R 2 = 0.20, F(1, 59) = 14.70, p ≤ 0.001, nitems MC = 61."
 

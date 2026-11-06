@@ -36,7 +36,7 @@ Among its educational implications, the article highlights the need for teacher 
 
 ## Claims
 
-- [Faculty concerns centered on academic integrity (80%) and student over-reliance on AI (70%), and their most requested development topic was AI ethics and academic integrity (70%)](../claims/faculty-ai-concerns-integrity-ethics-training-demand.md) [+W]
+- [Faculty concerns centered on academic integrity (80%) and over-reliance on AI by students or faculty (70%), and their most requested development topic was AI ethics and academic integrity (70%)](../claims/faculty-ai-concerns-integrity-ethics-training-demand.md) [+W]
 - [Pedagogical AI competence is positively associated with teachers' AI use](../claims/pedagogical-ai-competence-associated-with-ai-use.md) [+W]
 
 ## Related Strategies

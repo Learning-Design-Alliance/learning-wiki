@@ -49,3 +49,4 @@ Inductive reflexive thematic analysis of the three included studies (Lizotte 201
 - [Prebrief disclosure that the manikin may die was not reported by participants as essential for psychological safety](prebrief-death-disclosure-not-essential.md) — related
 - [Paediatric manikin death does not impair resuscitation performance measured against the NRP algorithm](manikin-death-no-performance-impairment-nrp.md) — related
 - [Participation in neonatal simulation raises salivary cortisol, but the rise is not dependent on whether the manikin dies](cortisol-rise-simulation-not-scenario-dependent.md) — related
+- [Dental students strongly prefer manikins for realistic clinical scenarios and report more confidence after manikin training](manikins-preferred-realism-confidence.md) — related

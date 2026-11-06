@@ -64,5 +64,5 @@ PLS-SEM bootstrapped path analysis of a cross-sectional convenience-sample surve
 - [Perceived ease of use positively influenced attitudes toward using the AVDS tool](peou-positive-impact-attitude-avds.md) — related
 - [Perceived usefulness, attitude, and behavioral intention form a significant TAM pathway predicting GenAI adoption among law students](tam-pathway-genai-adoption-law-students.md) — related
 - [Students' favourable attitudes towards CSCL significantly positively influence perceived impact on learning and perceived enjoyment](attitude-influences-impact-and-enjoyment-cscl.md) — related
-- [Perceived enjoyment significantly positively influences both satisfaction and perceived impact on learning in CSCL](enjoyment-influences-satisfaction-and-impact-cscl.md) — related
+- [In a cross-sectional survey, students' perceived enjoyment is significantly and positively associated with their satisfaction and perceived impact on learning in CSCL](enjoyment-influences-satisfaction-and-impact-cscl.md) — related
 - [Pre-service teachers' attitudes towards ICT (in education) and ease of use positively impact their ICT competence for educational practice](attitudes-ease-of-use-impact-ict-competence.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Financial and economic constraints shape first-generation chemists' career decisions, sometimes deterring advanced training altogether"
-description: "Financial and economic constraints shape first-generation chemists' career decisions, sometimes deterring advanced training altogether"
+title: "In the reflections of 13 first-generation chemists, financial constraints can shape career decisions and can deter advanced training"
+description: "In the reflections of 13 first-generation chemists, financial constraints can shape career decisions and can deter advanced training"
 id: financial-constraints-shape-first-generation-career-decisions
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-06
 recheck_by: 2031
 sources:
   - id: ives-robert-a-2026
@@ -21,14 +22,14 @@ sources:
     rigour: 2
 ---
 
-# Financial and economic constraints shape first-generation chemists' career decisions, sometimes deterring advanced training altogether
+# In the reflections of 13 first-generation chemists, financial constraints can shape career decisions and can deter advanced training
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2031: baselines and conditions change
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2031: baselines and conditions change
 
 ## Subclaims
-`q1 i?` Disproportionate financial pressure (tuition, application fees, relocation costs) can lead first-generation chemists to prioritize immediate financial stability over long-term scientific aspirations, and can deter pursuit of advanced training. [→ Ives Robert A. 2026](#ives-robert-a-2026)
+`q1 i?` In the collective reflections of 13 first-generation chemists from the CAS Future Leaders Top 100 cohort (who say their reflections cannot represent all first-generation scientists, including those who left chemistry), disproportionate financial pressure (tuition, application fees, relocation costs) can lead first-generation chemists to prioritize immediate financial stability over long-term scientific aspirations, and can deter pursuit of advanced training. [→ Ives Robert A. 2026](#ives-robert-a-2026)
 
 ## Evidence
 

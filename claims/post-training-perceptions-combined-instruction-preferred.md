@@ -57,3 +57,4 @@ Post-training perception question administered to all 37 participants after both
 - [Learners report high satisfaction with SDTS video-based feedback and perceived skill improvement](sdts-high-learner-satisfaction.md) — related
 - [Residents strongly prefer VR as an adjunct to conventional training rather than a replacement (89% support adjunct use; only 3.4% prefer VR alone)](residents-prefer-vr-as-adjunct.md) — possibly the same claim (merge candidate)
 - [HFS participants reported higher overall satisfaction, tutor guidance, and authenticity than VR participants, though both groups were highly satisfied](hfs-higher-satisfaction-authenticity.md) — related
+- [Participants express high satisfaction with VR MCI training and motivation to repeat it](vr-mci-training-satisfaction-motivation-repeat.md) — related

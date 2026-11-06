@@ -52,7 +52,7 @@ Wilcoxon analysis for 22 experiment group children on pretest, posttest and foll
 
 ## Related Claims
 - [The Interactive Story Reading Method produced significant pretest-to-posttest gains in expressive language vocabulary in the experiment group](interactive-story-reading-expressive-prepost-gains.md) — related
-- [The Interactive Story Reading Method produced significant pretest-to-posttest gains in receptive language vocabulary in the experiment group](interactive-story-reading-receptive-prepost-gains.md) — related
+- [Children taught with the Interactive Story Reading Method gained significantly in receptive vocabulary from pretest to posttest, as did the control group, with no significant posttest difference between the groups](interactive-story-reading-receptive-prepost-gains.md) — related
 - [Posttest expressive language scores were significantly higher in the experiment group than the control group, while receptive language scores did not differ significantly](posttest-between-group-expressive-significant-receptive-null.md) — related
 - [Zlotos study found confidence gains at post-test and 6-month follow-up, with knowledge peaking immediately then declining but staying above pretest](zlotos-confidence-knowledge-trajectory.md) — related
 - [Achievement declined significantly from post-test to one-month follow-up in both groups, with no significant between-group difference in the decline](jigsaw-followup-decline-no-between-group-difference.md) — related

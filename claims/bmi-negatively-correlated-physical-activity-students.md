@@ -50,3 +50,4 @@ Cross-sectional observational analysis of 401 students using IPAQ-SF and measure
 - [Physical activity is positively correlated with self-regulation in Chilean children aged 8–12](physical-activity-positively-correlated-self-regulation-children.md) — related
 - [Physical activity level is negatively correlated with absenteeism and with academic warnings](physical-activity-negative-correlation-absenteeism-warnings.md) — related
 - [Intervention groups differed significantly in age and BMI at post-test, with the PA+MMNS group oldest and highest in BMI](kazifya-group-differences-age-bmi-t3.md) — related
+- [Higher BMI and extensive physical activity (2 h or more per day) are independently negatively associated with academic achievement](bmi-and-extensive-physical-activity-negative-factors-gpa.md) — related

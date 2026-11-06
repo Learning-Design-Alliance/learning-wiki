@@ -72,3 +72,4 @@ Same DTI study: physical activity associations with white matter remained "after
 - [Frequent and longer screen-based media use, including Internet-related addictive behaviors, is related to a less efficient cognitive control system in adolescence](screen-time-less-efficient-cognitive-control-adolescence.md) — related
 - [Structural brain measures of the arithmetic network correlate with arithmetic performance, but cross-sectional designs cannot separate cause from consequence](structural-brain-arithmetic-network-correlations-cross-sectional.md) — reports the opposite
 - [Pinyin typing effects on brain activation, gray matter, and connectivity remain significant after regressing out confounding variables](pinyin-typing-effects-robust-to-covariates.md) — related
+- [Screen time shows no relationship with children's age or outdoor play time in this sample](screen-time-no-relationship-age-play-time.md) — related

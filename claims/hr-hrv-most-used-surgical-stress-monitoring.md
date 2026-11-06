@@ -53,3 +53,4 @@ Systematic review synthesis of 61 included articles retrieved from Web of Scienc
 - [HRV data show moderate concurrent validity as a measure of stress in educational contexts](hrv-moderate-concurrent-validity-stress.md) — related
 - [FLS performance was positively correlated with heart-rate change across all trials, interpreted as task engagement rather than detrimental stress](fls-score-positive-correlation-heart-rate-change.md) — related
 - [Physiological stress and subjective fatigue changes did not differ significantly between robotic and laparoscopic approaches, though trends favored the robotic approach](hinotori-stress-fatigue-no-significant-difference.md) — a narrower finding that bears on this claim
+- [IBVR and TBVR show no significant differences in quiz knowledge gain, cognitive load, or most HRV metrics](ibvr-tbvr-no-difference-knowledge-load-hrv.md) — related

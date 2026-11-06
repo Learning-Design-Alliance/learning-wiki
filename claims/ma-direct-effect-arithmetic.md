@@ -48,5 +48,5 @@ Authors' interpretation of the fitted arithmetic SEM (N = 170 adults): beyond th
 - [Math anxiety has a statistically significant indirect effect on arithmetic calculation through symbolic number processing](ma-indirect-effect-np-arithmetic.md) — related
 - [Working memory and symbolic number processing are both linked to adult arithmetic and numeracy, replicating prior research](wm-np-predict-adult-math.md) — related
 - [Math anxiety impairs numeracy primarily through working memory, with no significant indirect effect through number processing](ma-wm-pathway-numeracy.md) — related
-- [Math anxiety has both a direct negative effect and a WM-mediated indirect effect on children's verbal Math Reasoning, but only an indirect effect on Numerical Operations](math-anxiety-direct-effect-verbal-math-reasoning.md) — related
+- [In a cross-sectional model, math anxiety has both a direct negative path and a WM-mediated indirect path to children's verbal Math Reasoning, but only an indirect path to Numerical Operations](math-anxiety-direct-effect-verbal-math-reasoning.md) — related
 - [Higher mathematics test anxiety predicts earlier practice-session exit, mediating lower learning gains in an adaptive math program](math-anxiety-earlier-exit-lower-gains.md) — related

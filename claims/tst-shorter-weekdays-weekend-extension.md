@@ -48,3 +48,5 @@ Mixed-model ANOVA (group × weekday/weekend time) on 14-day actigraphy TST in th
 ## Related Claims
 - [High-scoring students show lower night-to-night variability (MAD) of sleep efficiency, sleep onset latency, and total sleep time](lower-mad-se-sol-tst-high-scorers.md) — related
 - [Exam-score associations with sleep parameters are pronounced on weekdays but absent on weekends](weekday-sleep-exam-association-weekend-null.md) — related
+- [Excellent performers keep earlier weekday and weekend sleep schedules than Average performers](excellent-performers-earlier-sleep-schedules.md) — related
+- [Average performers take much longer to fall asleep than Excellent performers](average-performers-longer-sleep-latency.md) — related

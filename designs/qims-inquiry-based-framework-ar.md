@@ -42,7 +42,7 @@ QIMS is an inquiry-based learning framework proposed by the authors to leverage 
 - [Using AR together with QIMS significantly increased students' critical thinking and knowledge creation efficacy skills](../claims/ar-qims-increase-critical-thinking-knowledge-creation-efficacy.md) [+W]
 - [Integrating QIMS and AR proved more beneficial to low-progress students in terms of academic outcomes](../claims/qims-ar-more-beneficial-low-progress-students.md) [+W]
 - [Using AR did not produce a statistically significant difference in primary students' academic performance](../claims/ar-no-significant-academic-performance-difference.md) [~W]
-- [Students' self-directed learning and creative thinking skills increased significantly after QIMS inquiry-based lessons](../claims/qims-lessons-increase-self-directed-learning-creative-thinking.md) [+W]
+- [On a post-intervention self-report survey, students in QIMS inquiry-based classes rated their self-directed learning and creative thinking higher than students in a non-QIMS class](../claims/qims-lessons-increase-self-directed-learning-creative-thinking.md) [+W]
 
 ## Related Designs
 - 

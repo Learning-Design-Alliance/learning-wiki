@@ -60,3 +60,4 @@ Path analysis (LISREL, maximum likelihood) on 102 children; model fit satisfacto
 - [School size statistically significantly predicted handwriting fluency but not the other two writing outcomes](school-size-predicts-handwriting-fluency.md) — related
 - [Working memory is a foundational cognitive skill for language and transcription skills, but its relation to writing is primarily mediated by other component skills](working-memory-foundational-but-mediated-in-writing.md) — related
 - [Story length correlates with National Curriculum attainment level in children's Key Stage 2 narrative writing, with roughly 300 words needed for Level 4 and 400 or more for Level 5](story-length-correlates-with-ks2-attainment.md) — related
+- [Narrative length depends on a grade-by-modality interaction: 7th graders type more words than they handwrite](narrative-length-grade-modality-interaction.md) — related

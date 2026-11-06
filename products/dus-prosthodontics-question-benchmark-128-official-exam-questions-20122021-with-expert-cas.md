@@ -25,7 +25,8 @@ A benchmark dataset assembled by Erdal Selda Gökçe et al. from official Turkis
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Curated EUNACOM question dataset of 1,062 Spanish-language medical licensure items](curated-eunacom-question-dataset-of-1062-spanish-language-medical-licensure-items.md)
 
 ## Key Sources
 - Erdal Selda Gökçe, Güdül Aynur Beyza Çavuşculu, Köroğlu Ayşegül. (2026). The effectiveness of large language models in dental specialty questions: a comparative study in the field of prosthodontics. BMC Medical Education. https://doi.org/10.1186/s12909-026-08808-5

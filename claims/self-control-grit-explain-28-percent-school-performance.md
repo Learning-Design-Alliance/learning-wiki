@@ -48,5 +48,5 @@ Phenotypic regression model (Model 1) fitted in OpenMx to teacher ratings of 872
 - [Personality Traits](../learner-variables/personality-traits.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Direct causal effects of self-control and grit account for only 4.4% of school performance variance, with self-control the stronger causal predictor](causal-effects-only-4-percent-school-performance.md) — related
+- [In a causal twin model, the putatively causal effects of self-control and grit account for only 4.4% of school performance variance, most of the association being genetic confounding](causal-effects-only-4-percent-school-performance.md) — related
 - [Twin correlations indicate genetic influences on self-control, grit, and school performance, with cross-trait cross-twin correlations higher in MZ than DZ twins](mz-dz-twin-correlations-genetic-influences-traits.md) — related

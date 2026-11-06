@@ -72,3 +72,4 @@ The review reports that Berges et al.'s simulator metrics "failed to achieve con
 - [Final-product analysis and procedure time have mixed validity evidence and are unlikely to be useful in isolation as measures of technical proficiency](final-product-and-procedure-time-mixed-validity-adjunctive.md) — possibly the same claim (merge candidate)
 - [Time-limited tests are less equitable because speededness disproportionately impacts some groups](speededness-disproportionate-equity-impact.md) — related
 - [Competence knowledge and competence application are strongly but distinguishably correlated](competence-knowledge-application-correlated.md) — related
+- [Assessment tools may disproportionately favour technical skills because they are easier to measure, contributing to underrepresentation of relational competencies](assessment-tools-favour-measurable-technical-skills.md) — related

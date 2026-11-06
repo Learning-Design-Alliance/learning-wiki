@@ -66,3 +66,4 @@ Same Tubes random intercept model (61 attempts, pseudo R2 = 0.71), reporting "a 
 ## Related Claims
 - [First-attempt EEG features and initial performance score predict learning rate, with higher initial scores associated with lower learning rates](first-attempt-features-predict-learning-rate.md) — related
 - [Random Forest and SHAP analyses identify Gamma and Beta band power at temporal and frontal channels (T3, P3, F7, T4, T4, F8, F7) as the most critical features for EEG familiarity classification](gamma-beta-temporal-frontal-familiarity-biomarkers.md) — related
+- [VR-trained group shows higher beta and low-gamma EEG power than controls during simulator tasks](dvss-vr-training-higher-beta-low-gamma-psd.md) — related

@@ -71,3 +71,4 @@ Between-group ANOVA comparison at baseline and immediately after training found 
 - [Time to first defibrillation is numerically shorter in the app group but not statistically significant](app-numerical-earlier-defibrillation-trend.md) — related
 - [Hands-on CPR, endotracheal intubation, and defibrillation operational scores rose significantly from pre-test to post-test in paediatric postgraduates after integrated simulation with TBL, in a single-group pre-post study](simulation-tbl-improves-paediatric-cpr-skill-scores.md) — related
 - [One-time pass rates for hands-on CPR, intubation, and defibrillation do not change significantly after integrated simulation with TBL](one-time-pass-rates-unchanged.md) — related
+- [RCDP ACLS simulation produces greater ACLS knowledge gains than traditional simulation, which showed no significant change](rcdp-acls-simulation-greater-knowledge-gains.md) — related

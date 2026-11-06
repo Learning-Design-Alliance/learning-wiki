@@ -48,6 +48,8 @@ The article recommends that simulation-based training with VR platforms "may be 
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Integrate AI-based diagnostic analysis into preclinical coursework while keeping AI complementary to instructor-student interaction](ai-diagnostic-training-preclinical-integration.md)
 - [Integrate 3D-printed biomimetic phantoms into VR/MR environments to create a 'see–feel–do' training continuum](integrate-3d-printed-phantoms-vr-mr-continuum.md)
+- [Sequence VR early and manikin training later in an integrated preclinical dental curriculum](integrated-vr-then-manikin-curriculum-sequence.md)
+- [Integrate sharp object injury management modules into the preclinical curriculum and implement a simplified mandatory reporting system with increased faculty oversight](soi-curriculum-modules-and-mandatory-reporting-strategy.md)
 
 ## Examples
 -

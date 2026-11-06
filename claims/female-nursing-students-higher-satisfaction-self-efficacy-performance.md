@@ -57,3 +57,4 @@ Independent samples t-test comparing male (n=73) and female (n=90) nursing stude
 - [Second-year students and male students report higher gerontological nursing competence than first-year and female students respectively](grade-and-gender-competence-differences.md) — related
 - [Male students' self-assessment of communication is statistically higher than female students' self-assessment](male-students-higher-self-assessment.md) — reports the opposite
 - [Female students rated their perceived competence higher than male students while external ratings did not differ](female-fyms-higher-perceived-competence.md) — related
+- [No statistically significant gender differences in academic performance, perceived stress, or chronotype in this sample](no-gender-differences-chronotype-stress-performance.md) — reports the opposite

@@ -50,3 +50,4 @@ Weekday/weekend correlation analysis (Table 4) in the same 33-participant sample
 - [High-scoring students show lower night-to-night variability (MAD) of sleep efficiency, sleep onset latency, and total sleep time](lower-mad-se-sol-tst-high-scorers.md) — related
 - [Subjective sleep measures (PSQI) show no significant differences or correlations with academic performance, contrasting with objective actigraphy](psqi-null-vs-actigraphy-significant.md) — related
 - [Total sleep time is significantly shorter on weekdays than weekends in both score groups, with no group difference](tst-shorter-weekdays-weekend-extension.md) — related
+- [Excellent performers keep earlier weekday and weekend sleep schedules than Average performers](excellent-performers-earlier-sleep-schedules.md) — related

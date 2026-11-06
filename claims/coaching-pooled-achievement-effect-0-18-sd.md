@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r2`–`r3` · `q4` · `i0` negligible
-> **Currency** · newest study 2018 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q4 i0` Across causal studies, coaching raised student performance on standardized tests by 0.18 SD, with substantial between-program variation (random-effect SD 0.18). [→ Kraft 2018](#kraft-2018)

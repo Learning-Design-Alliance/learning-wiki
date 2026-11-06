@@ -26,7 +26,8 @@ CI-CDSS is an electronic clinical decision support system for primary care clini
 - [Clinician exposure to a CI-CDSS plus one-hour training increased primary care clinicians' confidence in managing cognitive impairment care relative to usual care](../claims/ci-cdss-increased-confidence-managing-ci-care.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Current Decision Support (CDSS)](current-decision-support-cdss.md)
 
 ## Key Sources
 - JaKa Meghan M., Rossom Rebecca C., Crouse Bethany, Crain A Lauren, Gustafson Sally K., Ekstrom Heidi L., Zibley Laura J., Borson Soo, O'Connor Patrick J., Werner Ann M., Appana Deepa, von Sternberg Thomas L., Hanson Leah R. (2025). Exposure to clinical decision support and training increases primary care clinician confidence in managing cognitive impairment care but not confidence to diagnose. BMC Primary Care. https://doi.org/10.1186/s12875-025-03053-z

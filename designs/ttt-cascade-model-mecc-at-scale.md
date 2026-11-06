@@ -43,7 +43,8 @@ The TtT model "involves using a principal trainer to provide training to individ
 - [Quantity Monitoring Overlooks Cascade Quality](../claims/quantity-monitoring-overlooks-cascade-quality.md) [~M]
 
 ## Related Designs
-- 
+
+- [Train-the-trainer model cascading simulation-based obstetric training from master trainers to local facilitators to senior house officers](train-the-trainer-obstetric-simulation-cascade.md)
 
 ## Examples
 -

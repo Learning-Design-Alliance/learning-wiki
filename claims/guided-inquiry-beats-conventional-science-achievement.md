@@ -45,7 +45,7 @@ Two-way ANOVA in a quasi-experimental 2×2 factorial study of fifth graders (exp
 
 
 ## Related Claims
-- [Fifth-grade students taught science through inquiry-based instruction supported by the 5E learning cycle achieved significantly higher post-test scores than students taught by traditional methods](5e-inquiry-higher-achievement-than-traditional.md) — related
+- [In a quasi-experiment with 40 fifth-grade girls in Kermanshah, Iran, those taught science through inquiry-based instruction supported by the 5E learning cycle achieved significantly higher post-test scores than those taught by traditional methods](5e-inquiry-higher-achievement-than-traditional.md) — related
 - [Students taught light and sound waves with guided inquiry teaching method scored significantly higher at post-test than students taught with the conventional method](gitm-beats-conventional-light-sound-waves.md) — related
 - [Guided inquiry's advantage over conventional teaching holds for reflective but not impulsive students](guided-inquiry-advantage-reflective-only.md) — a narrower finding that bears on this claim
 - [Teaching model and cognitive style interact significantly in their effect on science achievement](teaching-model-cognitive-style-interaction.md) — related

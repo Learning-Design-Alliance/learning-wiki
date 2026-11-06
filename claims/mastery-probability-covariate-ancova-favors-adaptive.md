@@ -15,7 +15,7 @@ sources:
     title: "Sibley, L., Berner, T., & Schmalfeldt, T. (2026). Effectiveness of adaptive versus non-adaptive intelligent tutoring systems in early primary mathematics. Computers and Education Open 11. https://doi.org/10.1016/j.caeo.2026.100420"
     author: "Sibley, L., Berner, T., & Schmalfeldt, T."
     q: 3
-    i: 3
+    i: 2
     kind: causal
     rigour: 3
 ---
@@ -23,11 +23,11 @@ sources:
 # Exploratory ANCOVA controlling for mastery probability favored the adaptive condition, but is not interpretable as a causal treatment effect
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r3` · `q3` · `i3` large
+> **Evidence** · 1 study · causal `r3` · `q3` · `i2` medium
 > **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q3 i3` When mastery probability was added as a covariate, the adaptive condition showed higher adjusted posttest performance (d = 0.46), though the authors caution against causal interpretation. [→ Sibley 2026](#sibley-2026)
+`q3 i2` The study's main analyses found no significant differences between the adaptive and non-adaptive conditions in learning outcomes; only in an exploratory analysis adding mastery probability as a covariate did the adaptive condition show higher adjusted posttest performance (d = 0.46), which the authors caution against interpreting causally. [→ Sibley 2026](#sibley-2026)
 
 ## Evidence
 
@@ -35,9 +35,9 @@ sources:
 
 Sibley, L., Berner, T., & Schmalfeldt, T. (2026). Effectiveness of adaptive versus non-adaptive intelligent tutoring systems in early primary mathematics. Computers and Education Open 11. https://doi.org/10.1016/j.caeo.2026.100420
 
-`q3 · i3` · `causal · r3`
+`q3 · i2` · `causal · r3`
 
-Exploratory ANCOVA of posttest on condition with prior knowledge and mastery probability as covariates in the N = 132 experiment; mastery probability itself significantly predicted posttest (F(1, 122) = 51.83, p < .001, η² = .30). The article prints d = 0.46 for the adjusted condition difference.
+The abstract reports that "Results revealed no significant differences between conditions for learning outcomes, cognitive load, or enjoyment" in this field experiment with second-graders (N = 132). This entry is a separate, exploratory ANCOVA of posttest on condition with prior knowledge and mastery probability as covariates in the N = 132 experiment; mastery probability itself significantly predicted posttest (F(1, 122) = 51.83, p < .001, η² = .30). The article prints d = 0.46 for the adjusted condition difference.
 
 > "Adjusted marginal means indicated higher posttest performance in the adaptive condition (M = 0.12, SE = 0.07) than in the non-adaptive condition (M = −0.12, SE = 0.07), t(122) = 2.33, p = .022, d = 0.46."
 

@@ -52,6 +52,7 @@ The article concludes that nursing educational software should be layered on top
 - [Integrate simulation technologies with traditional teaching through blended approaches tailored to specific clinical tasks](blended-simulation-integration-orthodontic-curricula.md)
 - [Integrate e-learning and game-based approaches into nursing education to leverage the strengths of both methods](integrate-elearning-and-game-based-nursing-education.md)
 - [Integrate simulation-based education into traditional lecture-based teaching during the clinical apprenticeship phase of medical imaging courses](integrate-sbe-into-tbe-clinical-apprenticeship-phase.md)
+- [Adopt practical training scenario simulation teaching in teaching-hospital internships while managing preparation burden via standardized case templates or digital platforms](adopt-scenario-simulation-manage-preparation-burden.md)
 
 ## Examples
 -

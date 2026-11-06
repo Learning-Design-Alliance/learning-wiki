@@ -47,7 +47,7 @@ The article reports, citing Barbour, Kromrei et al. (2009), an analysis of quest
 ## Related Claims
 - [Students creating homemade PowerPoint games in an environmental chemistry class wrote primarily knowledge-level questions](ppt-games-primarily-knowledge-questions.md) — possibly the same claim (merge candidate)
 - [Student-authored physics questions mostly require application or analysis, with under 5% at the lowest recall level](student-questions-majority-above-recall-bloom.md) — reports the opposite
-- [University examination questions concentrate at the lower cognitive levels of Bloom's Taxonomy, dominated by comprehension and knowledge](exam-questions-concentrate-lower-bloom-levels.md) — related
+- [Examination questions at one Pakistani agricultural university concentrated at the lower cognitive levels of Bloom's Taxonomy, dominated by comprehension and knowledge](exam-questions-concentrate-lower-bloom-levels.md) — related
 - [Collected exam questions required no cognitive processes above apply and no originality in analysis or high-level interdependence](exam-questions-capped-at-apply-and-standardized-analysis.md) — related
 - [75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)](peerwise-student-questions-75-percent-high-quality.md) — related
 - [Published studies of homemade PowerPoint games show no significant performance difference between game-creating and control groups](ppt-games-no-performance-difference-studies.md) — related

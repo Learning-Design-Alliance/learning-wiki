@@ -52,3 +52,4 @@ Partial correlation analysis in a cross-sectional study of 1561 children aged 8�
 - [Active children show higher self-regulation than inactive/high screen time peers regardless of their own screen time level](active-children-high-screen-time-higher-self-regulation.md) — a narrower finding that bears on this claim
 - [Active children show higher self-regulation than inactive children, and children with under 2 h/day screen time show higher self-regulation than those with 2 h or more](active-children-higher-self-regulation-than-inactive.md) — related
 - [BMI is negatively correlated with physical activity level among health sciences students](bmi-negatively-correlated-physical-activity-students.md) — related
+- [School children's weekly screen time is positively correlated with their BMI (r = 0.522)](screen-time-positively-correlated-bmi-indian-children.md) — related

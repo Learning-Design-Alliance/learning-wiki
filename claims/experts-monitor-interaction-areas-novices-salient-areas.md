@@ -73,3 +73,4 @@ Mixed-design repeated measures ANOVA on total AOI revisits found a significant v
 - [Expert teachers interpret complex classroom phenomena more accurately and fluidly than novices and postulants](expert-teachers-interpret-classroom-phenomena-better.md) — related
 - [Both novice and expert teachers state valid behavioral cues when inferring student profiles, but novices rely more on salient cues such as hand raising and quality of answers](novices-rely-on-salient-cues-hand-raising.md) — related
 - [Expert Photoshop users fixated most frequently on the Toolbox area and least frequently on the Menu area while explaining tasks](experts-fixate-toolbox-most-menu-least.md) — related
+- [AI-trained physicians revisit fewer bronchial segments at final test than expert-tutor-trained physicians](ai-trained-fewer-segment-revisits-bronchoscopy.md) — related

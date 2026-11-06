@@ -49,4 +49,4 @@ Narrative literature review (type e) covering Jennings (2005), Reynolds (2005), 
 - [Blended instruction produced more positive attitudes toward music learning than face-to-face instruction](blended-music-course-more-positive-attitudes-than-ftf.md) — related
 - [Blended instruction produced higher course achievement than face-to-face instruction in a university elective music course](blended-music-course-higher-achievement-than-ftf.md) — related
 - [Personalization and differentiated instruction are rare in blended learning designs](personalization-limited-blended-designs.md) — related
-- [Introductory face-to-face meetings are the dominant strategy for stimulating social interaction in blended learning](introductory-f2f-meeting-stimulates-interaction.md) — related
+- [Introductory face-to-face meetings were the most reported way of stimulating social interaction in reviewed blended-learning studies (6 of the 9 that reported on it)](introductory-f2f-meeting-stimulates-interaction.md) — related

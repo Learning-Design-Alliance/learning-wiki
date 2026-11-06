@@ -54,3 +54,4 @@ Likert-type perception items in the survey of 93 undergraduates, summarized as a
 - [Only perceived accuracy differed across educational contexts, rated lower in CTeSP than in secondary and undergraduate education](perceived-accuracy-lower-ctesp-context-difference.md) — related
 - [Students rated ChatGPT-generated narrative endings equal to or higher than student-written endings on setting, themes, clarity of language and tone](chatgpt-endings-rated-higher-narrative-elements.md) — related
 - [Rubric use liberated students from the narrow grammar-based perception of writing but not from the teacher's authority](rubrics-liberate-from-grammar-not-authority.md) — related
+- [The AI feedback agent reliably detected empathy, reassurance, clarity, and tone balance but inconsistently assessed SPIKES adherence, improving when SPIKES was spelled out as a 6-step bulleted list](ai-feedback-agent-spikes-accuracy-mixed.md) — related

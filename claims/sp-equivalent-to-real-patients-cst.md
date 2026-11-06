@@ -53,3 +53,4 @@ The review reports a study comparing a generic communication skills programme wi
 - [In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies](vp-vs-other-digital-no-difference.md) — related
 - [Evidence on simulated patients versus peer role play is mixed: equal competence in one randomised trial, higher skills and satisfaction for SPs in others](sp-versus-peer-role-play-mixed.md) — related
 - [Post hoc analysis suggests OSCE equivalence and non-inferiority of AI-VSP for other learning outcomes and satisfaction](ai-vsp-equivalence-non-inferiority-post-hoc.md) — related
+- [Detailed role representation and joint rehearsal permitted a high degree of standardisation of SP roles, even over long periods](detailed-role-scripts-role-standardisation.md) — related

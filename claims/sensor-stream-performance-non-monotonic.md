@@ -9,11 +9,12 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 recheck_by: 2029
 sources:
   - id: zikang-leng-2026
     resource: "https://doi.org/10.48550/arxiv.2605.01238"
-    title: "Zikang Leng, Edan Eyal, Yingtian Shi, Jiaman He, Yaqi Liu, and Thomas Plötz. (2026). EduGage: A Multimodal Dataset and Benchmark for Sensor-Based Momentary Assessment of Engagement in Self-Guided Video Learning. Proc. ACM Interact. Mob. Wearable Ubiquitous Ubiquitous Technol. https://arxiv.org/abs/2605.01238 [doi:10.48550/arxiv.2605.01238](https://doi.org/10.48550/arxiv.2605.01238)"
+    title: "Zikang Leng, Edan Eyal, Yingtian Shi, Jiaman He, Yaqi Liu, and Thomas Plötz. (2026). EduGage: A Multimodal Dataset and Benchmark for Sensor-Based Momentary Assessment of Engagement in Self-Guided Video Learning. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. https://arxiv.org/abs/2605.01238 [doi:10.48550/arxiv.2605.01238](https://doi.org/10.48550/arxiv.2605.01238)"
     author: Zikang Leng, Edan Eyal, Yingtian Shi, Jiaman He, Yaqi Liu, and Thomas Plötz
     q: 2
     i: "?"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person · recheck by 2029: tool and model accuracy changes quickly
 
 ## Subclaims
 `q2 i?` Smaller sensor configurations sometimes achieve similar or better observed results than larger ones; the five-stream EEG+EDA+eSense IMU+HR+Ring Temperature configuration achieved the highest Within-1 accuracy (85.86%) and binary accuracy (74.44%), while ECG alone achieved the highest binary Macro-F1 (70.54%). [→ Zikang Leng 2026](#zikang-leng-2026)
@@ -34,7 +35,7 @@ sources:
 
 ### Zikang Leng 2026
 
-Zikang Leng, Edan Eyal, Yingtian Shi, Jiaman He, Yaqi Liu, and Thomas Plötz. (2026). EduGage: A Multimodal Dataset and Benchmark for Sensor-Based Momentary Assessment of Engagement in Self-Guided Video Learning. Proc. ACM Interact. Mob. Wearable Ubiquitous Ubiquitous Technol. https://arxiv.org/abs/2605.01238 [doi:10.48550/arxiv.2605.01238](https://doi.org/10.48550/arxiv.2605.01238)
+Zikang Leng, Edan Eyal, Yingtian Shi, Jiaman He, Yaqi Liu, and Thomas Plötz. (2026). EduGage: A Multimodal Dataset and Benchmark for Sensor-Based Momentary Assessment of Engagement in Self-Guided Video Learning. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. https://arxiv.org/abs/2605.01238 [doi:10.48550/arxiv.2605.01238](https://doi.org/10.48550/arxiv.2605.01238)
 
 `q2 · i?` · `design · r2`
 

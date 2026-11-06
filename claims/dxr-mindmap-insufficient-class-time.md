@@ -45,3 +45,4 @@ Table 1 questionnaire comparison between the teaching reform group (n=50) and co
 - [The combined virtual patient and mind mapping approach increases students' perceived workload compared with conventional teaching](dxr-mindmap-increased-workload.md) — related
 - [Virtual patient platform plus mind mapping improves reported learning efficiency versus conventional teaching](dxr-mindmap-learning-efficiency.md) — related
 - [No group difference in perceived emphasis on learning content under the combined virtual patient and mind mapping model](dxr-mindmap-content-emphasis-null.md) — related
+- [Nursing students perceived the in-class flipped classroom as addressing limited self-operational practice time and enhancing learning efficiency and effectiveness](perceived-efficiency-limited-practice-time.md) — reports the opposite

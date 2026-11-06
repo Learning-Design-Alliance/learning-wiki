@@ -41,7 +41,8 @@ The article's training design is a three-month progressive sequence of five stag
 - [Laparoscopic Program High Satisfaction Interest](../claims/laparoscopic-program-high-satisfaction-interest.md) [+M]
 
 ## Related Designs
-- 
+
+- [LaparoscopyBoxx home trainer with SurgTrac instrument tracking and the LS-CAT self-assessment form](laparoscopyboxx-surgtrac-lscat-setup.md)
 
 ## Examples
 -

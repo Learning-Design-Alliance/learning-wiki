@@ -52,4 +52,4 @@ Null comparison from the four-group quasi-experiment, discussed by the authors a
 - [The Combined Group reported significantly higher overall course satisfaction than the FCM-only and traditional groups](combined-fcm-mfcs-higher-satisfaction.md) — related
 - [Flipped classroom advantages appear across outcome measures, with the largest for exam scores and smaller for course grades](flipped-pharmacy-outcome-measure-subgroups.md) — reports the opposite
 - [Students taught with a flipped classroom model in live online classes show significantly higher delayed post-test retention than traditionally taught peers](fcm-loc-higher-delayed-retention.md) — related
-- [BOPPPS-based blended teaching produces significantly higher final examination and process assessment scores than traditional lecture-based teaching](boppps-higher-final-exam-process-assessment.md) — related
+- [In one nonrandomised quasi-experiment, a BOPPPS-based blended teaching class scored significantly higher on final examination and process assessment than a traditional lecture-based class](boppps-higher-final-exam-process-assessment.md) — related

@@ -13,7 +13,7 @@ generated:
 # Mindset
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 88 claims (51 show a difference, 30 mixed, 7 no difference) · 41 studies (20 associational, 9 causal, 7 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 12 of 41 report an effect size · 86 claims rest on one study
+> **Evidence** · 91 claims (53 show a difference, 31 mixed, 7 no difference) · 42 studies (20 associational, 10 causal, 7 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 13 of 42 report an effect size · 89 claims rest on one study
 
 ## Description
 Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset holds that ability is set, a growth mindset that it can be developed. It is measured with short self-report scales. Research tests it as a predictor of achievement, as a moderator, and above all as an outcome of brief growth-mindset interventions. Large preregistered trials and meta-analyses find that the average effect of those interventions on achievement is small and concentrated in lower-achieving students in supportive settings, and that the correlation between mindset and achievement is weak.
@@ -119,6 +119,9 @@ Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset h
 - [Entity ITEI negatively predicts end-of-secondary-school positive emotions and Portuguese grades, while incremental ITEI unexpectedly shows a positive link to negative emotions](../claims/entity-itei-negative-end-of-cycle-outcomes.md) [~M] — learners who differ on it differ in outcomes
 - [Incremental ITEI in 10th grade positively predicts trait EI (perceiving/understanding and managing/regulating emotion) in 11th grade](../claims/incremental-itei-predicts-trait-ei-next-year.md) [+M] — learners who differ on it differ in outcomes
 - [Trait and ability EI mediate, at a low level, the link between entity ITEI and negative emotions and Portuguese grades](../claims/ei-mediation-of-entity-itei-effects.md) [+M] — learners who differ on it differ in outcomes
+- [Changes in growth mindset predicted changes in math grades only within the intervention group (r = .171), providing indirect evidence for the mindset mechanism.](../claims/explore-your-brain-mindset-math-change-correlation.md) [~W] — learners who differ on it differ in outcomes
+- [Latent Transition Analysis identified three mindset profiles (Fixed, Growth non-competitive, Growth competitive); intervention students in the Fixed profile were about 2.6–2.7 times more likely to transition to a growth profile at 1-year follow-up, and students in growth profiles were less likely to shift to Fixed.](../claims/explore-your-brain-lta-profile-transitions.md) [+M] — measured as an outcome of the instruction studied
+- [The growth mindset intervention increased students' growth mindset endorsement directly after the intervention (d = .38) and at 1-year follow-up (d = .25) versus an active control.](../claims/explore-your-brain-mindset-gains-post-and-followup.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Do growth-mindset interventions raise achievement, and for which learners and in which settings?* [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](../claims/growth-mindset-improves-achievement.md) [+S]

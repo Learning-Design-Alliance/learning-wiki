@@ -51,6 +51,7 @@ The article recommends sustaining clinical skills through frequent self-regulate
 - [Embed new solutions into existing operations and procedures to sustain and scale them](embed-solutions-existing-operations.md)
 - [Incorporate simulation training into continuing professional development, differentiating communication approaches for doctors and nurses](simulation-als-continuing-professional-development-strategy.md)
 - [Use flexible, context-specific BLS training strategies — mobile learning, small-group simulation, train-the-trainer, routine refreshers and remote supervision — in conflict settings](wartime-bls-training-strategies-gaza.md)
+- [Embed simulation-based training in integrated packages and consider on-site delivery in low-resource settings](integrated-package-onsite-training-low-resource-settings.md)
 
 ## Examples
 -

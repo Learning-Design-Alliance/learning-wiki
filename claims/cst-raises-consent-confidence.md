@@ -50,3 +50,4 @@ Anonymous pre/post questionnaire of intervention-group students; 49 of 61 (80%) 
 - [Communication simulation training raises senior medical students' informed consent OSCE scores under the UCD rubric versus standard clinical learning (mean grade C to B+, effect size 0.79)](cst-improves-consent-osce-ucd-rubric.md) — related
 - [Most role-play-group students report the activity improved their history-taking skills and confidence communicating with real patients](role-play-student-questionnaire-perceived-benefits.md) — related
 - [No significant difference between CST and control groups at baseline on either consent-scoring rubric, supporting attribution of post-test differences to the training](cst-trial-baseline-equivalence.md) — related
+- [Patient comments frequently cite communication failures, with inadequate communication appearing in 30% of coded comments](communicator-role-inadequate-communication-frequency.md) — related

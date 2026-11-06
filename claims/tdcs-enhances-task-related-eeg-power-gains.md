@@ -75,3 +75,4 @@ Simple main effects analysis of 6-back gamma power showed no group effect at Pos
 - [Validation analyses find no generally reduced neural activity after mnemonic training, with increased alpha power uncorrelated with memory gains](no-processing-efficiency-neural-evidence.md) — reports the opposite
 - [After mnemonic training, children show increased left anterior frontal theta power for even- versus odd-position digits during encoding](theta-odd-even-pattern-post-mnemonic-training.md) — related
 - [Fifty minutes of adaptive n-back training produced small but significant accuracy gains and response-time decreases with large individual differences](fifty-minute-nback-training-improves-accuracy-and-response-time.md) — related
+- [VR-trained group shows higher beta and low-gamma EEG power than controls during simulator tasks](dvss-vr-training-higher-beta-low-gamma-psd.md) — related

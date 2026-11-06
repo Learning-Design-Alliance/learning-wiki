@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: kwon-young-gyu-2026
     resource: "https://doi.org/10.1007/s11701-026-03484-5"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Most participant learning narratives followed the four-stage experiential cycle of concrete experience, reflective observation, abstract conceptualization, and active experimentation during SP transition training. [→ Kwon Young Gyu 2026](#kwon-young-gyu-2026)

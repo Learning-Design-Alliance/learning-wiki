@@ -45,7 +45,8 @@ The program comprises four modules covering delirium assessment, safety measure 
 - [Svvr Immediate Confidence Gain Not Sustained](../claims/svvr-immediate-confidence-gain-not-sustained.md) [+M]
 
 ## Related Designs
-- 
+
+- [45-minute immersive VR training based on TeamSTEPPS principles with pre- and postdebriefing](immersive-vr-teamstepps-surgical-training.md)
 
 ## Examples
 -

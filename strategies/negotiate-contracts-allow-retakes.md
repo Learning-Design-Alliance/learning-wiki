@@ -10,8 +10,8 @@ generated:
 sources:
   - id: fricke-1976
     resource: "https://eric.ed.gov/?id=ED127854"
-    title: "Fricke, B. G. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854"
-    author: Fricke, B. G
+    title: "Ericksen, S. C. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854"
+    author: Ericksen, S. C.
 ---
 
 # Negotiate learning contracts at the start of term and allow test retakes until mastery
@@ -49,4 +49,4 @@ This strategy combines the memo's two implementable moves: at the beginning of t
 -
 
 ## Key Sources
-- Fricke, B. G. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854
+- Ericksen, S. C. (1976). Grading by Contract. Memo to the Faculty, n57. https://eric.ed.gov/?id=ED127854

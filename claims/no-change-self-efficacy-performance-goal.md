@@ -66,3 +66,5 @@ Wilcoxon signed-rank tests within each group (Tables 5-7); self-efficacy and per
 - [All three instructional groups showed significant pre- to post-class quiz improvements with no statistically significant between-group difference in knowledge gains](equal-quiz-gains-across-srp-teaching-groups.md) — related
 - [Students' motivation and restedness declined significantly over the course of the online training session](motivation-restedness-decline-over-session.md) — related
 - [Puzzle-based teaching raises total motivation toward instructional material more than lecture alone](puzzle-teaching-raises-instructional-material-motivation.md) — related
+- [Attention test scores (FAIR2, TMT, ZVT) rose from pre-test to post-test within each of the three groups after training while general self-efficacy (ASKU) did not change](attention-tests-improved-asku-unchanged.md) — related
+- [Control-group overall self-efficacy did not change significantly over the study period while the intervention group's did](control-group-self-efficacy-unchanged.md) — related

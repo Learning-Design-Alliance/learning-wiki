@@ -45,4 +45,4 @@ Mixed-methods action research of the online robotics course for inservice teache
 
 
 ## Related Claims
-- [An LBD-grounded online robotics course increased inservice teachers' self-efficacy in robotics, use of problem-solving and collaboration strategies, and confidence in robotics knowledge and teaching](lbd-online-robotics-course-teacher-self-efficacy-gains.md) — related
+- [After an LBD-grounded online robotics course, inservice teachers reported higher self-efficacy in robotics, problem-solving strategy use, and confidence in robotics knowledge and teaching; their reported collaboration gain was not significant](lbd-online-robotics-course-teacher-self-efficacy-gains.md) — related

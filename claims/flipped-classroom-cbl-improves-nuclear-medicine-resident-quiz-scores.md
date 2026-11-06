@@ -47,7 +47,7 @@ Retrospective single-group pre/post analysis of 40 nuclear medicine residents us
 ## Related Claims
 - [Correct-response rates rose on most, but not all, concept and application items after a flipped classroom combined with CBL, in an uncontrolled pre-post comparison](flipped-classroom-cbl-improves-concept-and-application-questions.md) — related
 - [Lower-baseline residents show larger score gains after flipped classroom combined with CBL](flipped-classroom-cbl-larger-gains-lower-baseline-residents.md) — related
-- [Pre-course test reveals high factual recall but insufficient clinical application ability under traditional teaching](pre-course-test-reveals-application-deficit-traditional-teaching.md) — related
+- [On a pre-course test, residency trainees in a nuclear medicine course scored above 90% on some conceptual items but below 65% on several treatment-application items, with wide variation across items](pre-course-test-reveals-application-deficit-traditional-teaching.md) — related
 - [Trainees report high satisfaction with flipped classroom combined with CBL but flag pre-class time burden](flipped-classroom-cbl-satisfaction-pre-class-time-burden.md) — related
 - [Flipped classroom has a moderately positive effect on college students' academic performance (SMD = 0.66)](flipped-classroom-moderate-positive-effect-college.md) — a broader claim this one bears on
 - [Flipped classroom significantly improves theoretical exam scores over lecture-based learning in Chinese undergraduate preventive medicine courses (pooled SMD 0.99)](fc-theoretical-exam-smd-099-preventive-medicine.md) — related

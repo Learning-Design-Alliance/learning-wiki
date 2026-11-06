@@ -52,6 +52,7 @@ The article recommends that regulatory bodies and National Specialty Commissions
 ## Related Strategies
 
 - [Incorporate reflection-promoting activities into health professions curricula at all educational levels](incorporate-reflection-activities-health-curricula.md)
+- [Integrate relational and technical competencies in nursing education frameworks to address the assessment gap](integrate-relational-and-technical-competencies-nursing-education.md)
 
 ## Examples
 -

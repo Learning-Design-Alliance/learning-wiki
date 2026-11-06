@@ -9,10 +9,11 @@ generated:
   at: 2026-10-30
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-06
 sources:
   - id: denis-pasco-2025
     resource: "https://doi.org/10.1016/j.compedu.2025.105311"
-    title: "Denis Pasco, Erik Gustafsson, Lucas Burget, Thibault Asselborn, Pierre Dillenbourg, Consortium Lamue, Marie Mazerolle. (2025). Rapid in-class assessment of handwriting using a digital tablet: Multidimensional analysis of gender and socioeconomic status. Computers & Education: X Reality, 232, 105311. https://doi.org/10.1016/j.compedu.2025.105311"
+    title: "Denis Pasco, Erik Gustafsson, Lucas Burget, Thibault Asselborn, Pierre Dillenbourg, Consortium Lamue, Marie Mazerolle. (2025). Rapid in-class assessment of handwriting using a digital tablet: Multidimensional analysis of gender and socioeconomic status. Computers & Education, 232, 105311. https://doi.org/10.1016/j.compedu.2025.105311"
     author: Denis Pasco, Erik Gustafsson, Lucas Burget, Thibault Asselborn, Pierre Dillenbourg, Consortium Lamue, Marie Mazerolle
     q: 3
     i: "?"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Each standard deviation increase in socioeconomic index was associated with a 2.249-point increase in handwriting total score. [→ Denis Pasco 2025](#denis-pasco-2025)
@@ -33,7 +34,7 @@ sources:
 
 ### Denis Pasco 2025
 
-Denis Pasco, Erik Gustafsson, Lucas Burget, Thibault Asselborn, Pierre Dillenbourg, Consortium Lamue, Marie Mazerolle. (2025). Rapid in-class assessment of handwriting using a digital tablet: Multidimensional analysis of gender and socioeconomic status. Computers & Education: X Reality, 232, 105311. https://doi.org/10.1016/j.compedu.2025.105311
+Denis Pasco, Erik Gustafsson, Lucas Burget, Thibault Asselborn, Pierre Dillenbourg, Consortium Lamue, Marie Mazerolle. (2025). Rapid in-class assessment of handwriting using a digital tablet: Multidimensional analysis of gender and socioeconomic status. Computers & Education, 232, 105311. https://doi.org/10.1016/j.compedu.2025.105311
 
 `q3 · i?` · `associational · r2`
 

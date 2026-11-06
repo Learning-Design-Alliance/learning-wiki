@@ -9,10 +9,11 @@ generated:
   at: 2026-10-09
 evidence_strength: weak
 newest_evidence: 2018
+source_checked: 2026-11-06
 sources:
   - id: deborah-adkins-2018
     resource: "https://doi.org/10.1111/bjet.12556"
-    title: "Deborah Adkins, Meg Guerreiro. (2018). Learning styles: Considerations for technology enhanced item design: Learning styles. British Journal of Educational Technology 49(10). https://www.nwea.org/research/publication/learning-styles-considerations-for-technology-enhanced-item-design-learning-styles/ [doi:10.1111/bjet.12556](https://doi.org/10.1111/bjet.12556)"
+    title: "Deborah Adkins, Meg Guerreiro. (2018). Learning styles: Considerations for technology enhanced item design. British Journal of Educational Technology 49(3), 574-583 (published online 2017). https://www.nwea.org/research/publication/learning-styles-considerations-for-technology-enhanced-item-design-learning-styles/ [doi:10.1111/bjet.12556](https://doi.org/10.1111/bjet.12556)"
     author: Deborah Adkins, Meg Guerreiro
     q: 1
     i: "?"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r?` · `q1`
-> **Currency** · newest study 2018 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q1 i?` Learning styles have an impact on teachers, pedagogy, student engagement, and assessment. [→ Deborah Adkins 2018](#deborah-adkins-2018)
@@ -33,7 +34,7 @@ sources:
 
 ### Deborah Adkins 2018
 
-Deborah Adkins, Meg Guerreiro. (2018). Learning styles: Considerations for technology enhanced item design: Learning styles. British Journal of Educational Technology 49(10). https://www.nwea.org/research/publication/learning-styles-considerations-for-technology-enhanced-item-design-learning-styles/ [doi:10.1111/bjet.12556](https://doi.org/10.1111/bjet.12556)
+Deborah Adkins, Meg Guerreiro. (2018). Learning styles: Considerations for technology enhanced item design. British Journal of Educational Technology 49(3), 574-583 (published online 2017). https://www.nwea.org/research/publication/learning-styles-considerations-for-technology-enhanced-item-design-learning-styles/ [doi:10.1111/bjet.12556](https://doi.org/10.1111/bjet.12556)
 
 `q1 · i?` · `theoretical · r?`
 

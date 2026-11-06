@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "L2 proficiency, anxiety, and mastery of strategies jointly explain 18% of variance in incidental vocabulary acquisition"
-description: "L2 proficiency, anxiety, and mastery of strategies jointly explain 18% of variance in incidental vocabulary acquisition"
+title: "A four-predictor model of L2 proficiency, anxiety, strategy mastery and motivation explains 18% of variance in incidental vocabulary acquisition"
+description: "A four-predictor model of L2 proficiency, anxiety, strategy mastery and motivation explains 18% of variance in incidental vocabulary acquisition"
 id: learner-factors-model-18-percent-variance
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: moderate
 newest_evidence: 2016
+source_checked: 2026-11-06
 sources:
   - id: zhao-2016
     resource: "https://doi.org/10.64152/10125/66903"
@@ -20,11 +21,11 @@ sources:
     rigour: 1
 ---
 
-# L2 proficiency, anxiety, and mastery of strategies jointly explain 18% of variance in incidental vocabulary acquisition
+# A four-predictor model of L2 proficiency, anxiety, strategy mastery and motivation explains 18% of variance in incidental vocabulary acquisition
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2016 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2016 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The four-predictor regression model was significant, explaining 18% of variance in incidental vocabulary acquisition. [→ Zhao 2016](#zhao-2016)

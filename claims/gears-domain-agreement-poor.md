@@ -51,3 +51,4 @@ GEARS ratings of surgeon performance in the 25 videos were made independently by
 - [Adherence of the most-viewed robotic ventral rectopexy videos to LAP-VEGaS and consensus reporting guidelines is low](low-guideline-adherence-surgical-videos.md) — related
 - [Senior surgeons rate online surgical videos as lower quality and lower educational utility than fellows and trainees do](seniors-rate-videos-more-critically.md) — related
 - [Inter-rater reliability of overall video quality ratings increases with rater seniority, reaching perfect agreement among senior surgeons](video-quality-rater-reliability-seniority.md) — related
+- [VR-training group achieves higher GEARS-assessed basic robotic surgical skill than untrained controls (24.91 ± 3.36 vs. 19.68 ± 3.07)](dvss-vr-training-higher-gears-scores.md) — related

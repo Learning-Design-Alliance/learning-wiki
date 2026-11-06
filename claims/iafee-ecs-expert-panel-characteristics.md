@@ -49,3 +49,4 @@ Characterization of the first-round e-Delphi expert panel. All participants had 
 - [The ICO-OCEX achieved strong content validity through a modified Delphi technique with expert consensus on all 33 items](ico-ocex-content-validity-delphi-consensus.md) — related
 - [Four attributes failed consensus: nursing specialty completion, postgraduate/doctoral degrees, longer experience as automatically higher effectiveness, and younger age](four-attributes-failed-consensus.md) — related
 - [A two-round modified Delphi process with 19 emergency experts produced a three-tier core competency indicator system of 5 first-level, 14 second-level and 34 third-level indicators for emergency residency training in China](delphi-emergency-residency-indicator-system-5-14-34.md) — related
+- [Graduates were predominantly female (84.87%) and mostly nurses (58.16%)](graduate-demographics-female-nurse-predominance.md) — related

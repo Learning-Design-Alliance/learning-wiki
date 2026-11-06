@@ -48,3 +48,4 @@ Multiple linear regression with academic year, age, gender and university as pre
 - [Age correlated positively with materials/organisation and lecturer performance ratings but not with overall comparison with traditional methodology](age-correlates-with-flas-d1-d2-not-d3.md) — related
 - [Nursing students evaluated the flipped classroom positively, with the highest scores for lecturer performance and materials/organisation and the lowest for comparison with traditional methodology](flas-dimension-means-positive-evaluation.md) — related
 - [Third-year nursing students rated the flipped classroom significantly higher than first-year students on the FLAS total scale and all three dimensions, with small effect sizes](third-year-students-rate-flas-higher-than-first-year.md) — reports the opposite
+- [Age, gender, and academic year predict academic achievement in pharmacology alongside perceptions](demographics-predict-pharmacology-achievement.md) — related

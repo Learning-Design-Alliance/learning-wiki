@@ -65,6 +65,7 @@ The review recommends that educators integrate simulation-based methods into ort
 - [Invest in structured coach development alongside curricular planning for simulation-based surgical education](structured-coach-development-surgical-simulation.md)
 - [Blend repeated in-person education with digital reinforcement tools such as quizzes, video reviews and mobile reminders](digital-reinforcement-blended-repeated-education.md)
 - [Use VR simulation as a primer or distance-learning complement to mannequin simulation in a blended approach](vr-as-primer-or-distance-complement-to-mannequin.md)
+- [Multifaceted integration of simulator-based training into medical curricula with adaptive, learner-group-specific teaching methods and qualified supervision](adaptive-sbt-curriculum-integration-strategy.md)
 
 ## Examples
 -

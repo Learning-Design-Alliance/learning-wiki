@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 560 claims (301 show a difference, 117 mixed, 142 no difference) · 396 studies (184 associational, 153 causal, 20 review, 16 quant-synthesis, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 59 of 396 report an effect size · 552 claims rest on one study
+> **Evidence** · 563 claims (304 show a difference, 117 mixed, 142 no difference) · 399 studies (185 associational, 155 causal, 20 review, 16 quant-synthesis, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 60 of 399 report an effect size · 555 claims rest on one study
 
 ## How to read this page
 
@@ -79,7 +79,7 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Female students report higher job finding anxiety, AI anxiety, and negative AI attitudes than male students](../claims/female-students-higher-ai-and-job-anxiety.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Female students reported higher learning agency than male students after controlling for GenAI literacy and year of study](../claims/female-higher-learning-agency-genai-contexts.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Female students reported lower challenge emotions than male students after controlling for other variables](../claims/female-lower-challenge-emotions-genai.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
-- [Female students show broader post-workshop gains than males, including significant increases in AI and computer science career interest, while male career interest remains unchanged](../claims/females-broader-gains-career-interest-narrow-gap.md) [~M] — an instructional effect differs by group
+- [Female students show broader post-workshop gains than males, including significant increases in AI and computer science career interest, while males show no statistically significant change in career interest](../claims/females-broader-gains-career-interest-narrow-gap.md) [~M] — an instructional effect differs by group
 - [Female students show stronger academic self-confidence, more positive attitudes, higher achievement, and fewer absences, but this advantage diminishes almost completely under mastery learning](../claims/sex-advantage-diminishes-under-mastery-learning.md) [~M] — an instructional effect differs by group
 - [Findings on gender differences in engagement with adaptive learning platforms are mixed, with some studies showing higher engagement among girls and others among boys](../claims/gender-engagement-adaptive-platforms-mixed.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Fort Worth charter school male students significantly outgrew district-school male students in reading, while female students showed no significant sector difference](../claims/fort-worth-gender-subgroups-charter-district-growth.md) [~M] — an instructional effect differs by group
@@ -599,6 +599,9 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Female students achieved higher MSE accuracy than male students across intervention groups](../claims/sex-difference-mse-accuracy-females-higher.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Girls report higher academic performance than boys, by about 5 percentage points in mathematics and 13 in language](../claims/girls-outperform-boys-math-language-grades.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Male students showed significantly higher overall satisfaction and attitude toward TBL than female students](../claims/male-students-higher-tbl-satisfaction-attitude.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Female gender is independently and positively associated with academic achievement (adjusted OR 2.66)](../claims/female-gender-independent-positive-factor-gpa.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [In this study, male dental students scored slightly higher on the academic motivation scale than female students](../claims/male-higher-motivation-dental-jigsaw.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Students with minoritized identities earned lower overall lab grades regardless of group formation: women lower than men, URM students lower than non-URM, and first-generation students lower than continuing-generation](../claims/demographic-disparities-overall-lab-grades.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

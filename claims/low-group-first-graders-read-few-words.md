@@ -38,7 +38,7 @@ Walker, B. J. (1989). The Interactive Model of Reading: Deciding How Disability 
 
 `q2 · i?` · `theoretical · r2`
 
-The review reports, citing Allington (1984a), a classroom observational finding on amount read by group placement. The paper adds that Juel (1988) found poor readers read less than half as many words each year as good readers and read at 80% accuracy.
+A conceptual conference paper presenting an interactive model of reading and reading difficulty; it is not an empirical study or a systematic review. It reports, citing Allington (1984a), a classroom observational finding on amount read by group placement; the observation is Allington's, not Walker's own. The paper adds that Juel (1988) found poor readers read less than half as many words each year as good readers and read at 80% accuracy.
 
 > "In fact, Allington (1984a) found that children in high reading groups read 10 times as many word as children in low reading groups.In this study, first graders in low reading groups read silently a total of 60 words during the five-day sample period."
 

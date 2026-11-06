@@ -54,3 +54,7 @@ Pre–postintervention study of nine bronchoscopists (27 pre and 27 post broncho
 - [Evidence that FB SBT improves bronchoscopy performance in a patient setting (Kirkpatrick level 3) is sparse and conflicting](fb-sbt-patient-setting-evidence-sparse.md) — related
 - [Training on a simple low-fidelity 'choose-the-hole' bench model transferred to real clinical fibreoptic intubation performance in an RCT](choose-the-hole-bench-model-predictive-validity-rct.md) — related
 - [Procedural simulation significantly increased learner confidence in performing central lines, intubations, and bronchoscopies](simulation-raises-procedure-confidence.md) — related
+- [Both AI-trained and expert-tutor-trained physicians improved significantly on most performance metrics from pre- to post-training](both-training-methods-improve-bronchoscopy-performance.md) — reports the opposite
+- [AI-guided bronchoscopy training yields significantly more efficient performance (lower mean intersegmental time) than expert tutor instruction in critical-care physicians](ai-guided-bronchoscopy-training-better-efficiency-than-expert-tutor.md) — related
+- [AI-trained physicians perform the final test bronchoscopy significantly faster (shorter procedure time) than expert-tutor-trained physicians](ai-trained-shorter-procedure-time-bronchoscopy.md) — related
+- [No significant difference between AI-trained and expert-tutor-trained physicians in diagnostic completeness or structured progress at final test](no-group-difference-diagnostic-completeness-structured-progress.md) — related

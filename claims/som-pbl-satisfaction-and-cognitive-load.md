@@ -48,3 +48,4 @@ Post-intervention questionnaire with 10 items on a 5-point Likert scale administ
 - [SOM-PBL improves clinical reasoning performance overall and specifically diagnostic cognitive rigor, but not integrative history analysis or time-critical decision-making](som-pbl-clinical-reasoning-gains.md) — related
 - [SOM-PBL yields significantly higher theoretical examination scores than traditional lecture-based teaching in ICU clerkships (Cohen's d = 0.455)](som-pbl-higher-theoretical-knowledge-scores.md) — related
 - [Students in the PBL-DeepSeek group report high satisfaction and would continue using the approach, but a minority worry about AI accuracy](deepseek-pbl-satisfaction-and-accuracy-concerns.md) — related
+- [RCDP can impose high cognitive load and lower learning satisfaction compared to traditional training, per prior literature cited by the authors](rcdp-cognitive-load-and-satisfaction-concerns.md) — related

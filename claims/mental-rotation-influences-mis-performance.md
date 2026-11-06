@@ -52,5 +52,5 @@ The review's Results section states that among the 26 included studies, mental r
 - [Increased image rotation and suboptimal camera and monitor angles degrade MIS performance](image-rotation-camera-angle-degrade-mis-performance.md)
 - [Visuo-spatial ability impacts operative simulator performance in minimally invasive surgery, mainly in inexperienced novices](vsa-predicts-mis-simulator-performance-novices.md)
 - [Preoperative mental practice and mental imagery enhance MIS surgical performance](mental-practice-enhances-mis-performance.md)
-- [Teaching orientation strategies to novice laparoscopic surgeons significantly increases performance and reduces cognitive burden](orientation-strategies-improve-novice-laparoscopic-performance.md)
+- [Teaching orientation strategies to final-year medical students new to laparoscopy significantly increased performance and reduced cognitive burden](orientation-strategies-improve-novice-laparoscopic-performance.md)
 - [Mental rotation ability moderates the alignment benefit: higher-ability participants benefit more from recording–expected angle alignment](mental-rotation-moderates-alignment-benefit.md) — related

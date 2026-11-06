@@ -45,7 +45,7 @@ Quasi-experiment with 60 general physicians and assistants randomly assigned to 
 
 
 ## Related Claims
-- [In a randomised trial of 80 first-year postgraduate oncology trainees, CBL produced significantly higher examination scores and satisfaction than traditional lecture-based learning, though confidence intervals crossed the null for examination results](bi-rct-cbl-higher-posttest-scores-satisfaction.md) — a broader claim this one bears on
+- [In a randomised trial of 80 first-year postgraduate oncology trainees, a CBL group that also had PowerPoint teaching reported significantly higher examination scores and satisfaction than lecture-based teaching, though confidence intervals crossed the null for examination results](bi-rct-cbl-higher-posttest-scores-satisfaction.md) — a broader claim this one bears on
 - [Students taught with academic controversy lessons significantly outperformed students taught by traditional lecture on the TUCE overall post-test score in post-secondary macroeconomics](academic-controversy-outperforms-lecture-tuce-macroeconomics.md) — a broader claim this one bears on
 - [Class IX physical science students taught with the constructivist 7E model achieved significantly higher post-test and gain scores than students taught with traditional methods](7e-model-higher-science-achievement-secondary.md) — a broader claim this one bears on
 - [Undergraduate students using a web-based ITS scored significantly higher on the post-test than students receiving traditional face-to-face instruction](ancova-posttest-its-group-effect.md) — related

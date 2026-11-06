@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Math anxiety arises and relates to math performance already in early primary school (Grades 2-3)
-description: Math anxiety arises and relates to math performance already in early primary school (Grades 2-3)
+title: Math anxiety is present and relates to math performance already in early primary school (Grades 2-3)
+description: Math anxiety is present and relates to math performance already in early primary school (Grades 2-3)
 id: math-anxiety-arises-early-primary-school
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 newest_evidence: 2017
+source_checked: 2026-11-06
 sources:
   - id: cargnelutti-2017
     resource: "https://doi.org/10.1080/02699931.2016.1147421"
@@ -20,11 +21,11 @@ sources:
     rigour: "?"
 ---
 
-# Math anxiety arises and relates to math performance already in early primary school (Grades 2-3)
+# Math anxiety is present and relates to math performance already in early primary school (Grades 2-3)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r?` · `q3`
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Math anxiety is present and linked to math performance in children as young as Grade 2-3, a period when its onset was previously unclear. [→ Cargnelutti 2017](#cargnelutti-2017)
@@ -37,7 +38,7 @@ Cargnelutti, E., Tomasetto, C., Passolunghi, M.C. (2017). How is anxiety related
 
 `q3 · i?` · `associational · r?`
 
-The study addressed the open question of when math anxiety arises in young children by measuring math anxiety and math performance in Grade 2 and Grade 3. The article frames this as a gap: "it is not clear when math anxiety arises in young children".
+The study addressed the open question of when math anxiety arises in young children by measuring math anxiety and math performance in Grade 2 and Grade 3. The article frames this as a gap: "it is not clear when math anxiety arises in young children". It shows math anxiety present and related to performance by Grades 2 and 3; having measured no earlier grade, it does not establish when the anxiety began.
 
 > "However, it is not clear when math anxiety arises in young children, nor how it relates to early math performance."
 

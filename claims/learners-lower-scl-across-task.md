@@ -48,3 +48,4 @@ SCL measured while participants approached flowers was analyzed with a 2 × 4 ×
 - [Learners show differential skin conductance responses to dangerous versus safe zones while non-learners do not discriminate](learners-scr-discrimination-non-learners-overgeneralize.md) — related
 - [Skin conductance level did not differ significantly between instructor-presence conditions, though arousal patterns appeared to vary with content difficulty](instructor-presence-no-scl-difference.md) — related
 - [Only self-reported, not physiological, indices of math-related state anxiety correlate with both math anxiety and math performance](self-report-not-physiological-state-anxiety-predicts.md) — related
+- [Non-verbal parameters significantly predict expert-rated communication quality, explaining 31% of variance, with skin conductance level the only significant individual predictor](nonverbal-parameters-predict-expert-communication-quality.md) — related

@@ -51,3 +51,5 @@ The review reports, citing Takase and Yoshida (2021), a meta-analysis of nursing
 - [Students who perceive assessment demands as assessing deep, higher-level cognitive processing employ deep approaches, while those perceiving rote-recall demands employ surface approaches](perceived-assessment-demands-approaches.md) — related
 - [Correlational meta-analyses of learning styles and achievement average r = 0.24 but do not test or support the matching hypothesis](learning-style-achievement-correlations-r24.md) — related
 - [Deep learning is positively correlated with teaching effect among undergraduate nursing students (r = 0.407)](deep-learning-correlates-teaching-effect-nursing.md) — related
+- [Deep learning strategy use correlates strongly and positively with academic achievement in undergraduate pharmacy students](deep-learning-strategies-correlate-achievement-pharmacy.md) — a narrower finding that bears on this claim
+- [Surface learning strategy use correlates negatively with academic achievement in undergraduate pharmacy students](surface-learning-negative-correlation-achievement.md) — a narrower finding that bears on this claim

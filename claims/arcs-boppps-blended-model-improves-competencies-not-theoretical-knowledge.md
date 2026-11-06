@@ -47,9 +47,10 @@ In the same RCT, independent-samples t-tests compared theoretical knowledge, pra
 ## Related Claims
 - [The ARCS + BOPPPS blended learning model achieves higher attainment rates for knowledge, skills, and professionalism objectives and greater overall teaching satisfaction](arcs-boppps-blended-model-higher-objective-attainment-and-satisfaction.md) — reports the opposite
 - [Self-reported disaster nursing competency rose more in a BOPPPS-based blended disaster-nursing elective than with no disaster-nursing instruction, but not significantly more than in the same elective taught by lecture](boppps-blended-teaching-disaster-nursing-competency-gains.md) — related
-- [BOPPPS-based blended teaching produces significantly higher final examination and process assessment scores than traditional lecture-based teaching](boppps-higher-final-exam-process-assessment.md) — related
+- [In one nonrandomised quasi-experiment, a BOPPPS-based blended teaching class scored significantly higher on final examination and process assessment than a traditional lecture-based class](boppps-higher-final-exam-process-assessment.md) — related
 - [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — a broader claim this one bears on
 - [Blended BOPPPS teaching is associated with favorable subjective outcomes including autonomous learning, teamwork, and problem-solving ability](blended-boppps-favorable-subjective-outcomes.md) — related
 - [Blended BOPPPS teaching is associated with higher practical skills scores than LBL](blended-boppps-higher-practice-scores.md) — a broader claim this one bears on
 - [The ARCS + BOPPPS blended learning model significantly enhances student learning motivation across all four ARCS dimensions in Endodontics education](arcs-boppps-blended-model-enhances-learning-motivation.md) — related
 - [BOPPPS-based blended teaching produces significantly higher overall course scores than traditional lecture-based teaching](boppps-higher-overall-course-scores.md) — a broader claim this one bears on
+- [Hybrid BOPPPS group achieved modestly higher formative, final exam and comprehensive scores than the LBL group](boppps-higher-comprehensive-grades-radiology.md) — related

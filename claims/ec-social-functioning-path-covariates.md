@@ -59,3 +59,4 @@ In the SEM (N=214), social competence and externalizing problems were combined i
 - [Girls outperform boys on effortful control, teacher-rated social competence, and achievement in this sample](sex-differences-ec-social-achievement.md) — related
 - [Latent EC at age 3 does not predict mathematics achievement, but EC at ages 3.75, 4.5, and 5.25 shows independent prospective links with mathematics](ec-predicts-math-from-3-75-onward.md) — related
 - [The mediating role of executive functions remains significant when children's temperament and vocabulary are modeled as alternative mediators](ef-mediation-robust-to-temperament-vocabulary.md) — related
+- [Self-Awareness and Self-Management remain significantly and positively associated with Year 7 reading and numeracy after controlling for Year 5 achievement and sociodemographic covariates](sel-competencies-predict-attainment-covariate-adjusted.md) — a narrower finding that bears on this claim

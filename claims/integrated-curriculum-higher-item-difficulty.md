@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: brinda-desai-bradaric-2026
     resource: "https://doi.org/10.1002/prp2.70258"
@@ -23,7 +24,7 @@ sources:
     title: "Brinda Desai Bradaric, Eric Van Rite, Lalita Prasad‐Reddy, Michael Bradaric. (2026). Implementation of an Integrated Pharmacology Curriculum in a Flipped, Small‐Group, Case‐Based, Pre‐Clerkship Medical Curriculum Improved Student Performance. Pharmacology Research & Perspectives. https://doi.org/10.1002/prp2.70258"
     author: Brinda Desai Bradaric, Eric Van Rite, Lalita Prasad‐Reddy, Michael Bradaric
     q: 2
-    i: "?"
+    i: 1
     kind: design
     rigour: 2
 ---
@@ -31,12 +32,12 @@ sources:
 # Pharmacology assessment items written under the integrated flipped case-based curriculum showed significantly higher item difficulty than legacy items while maintaining item discrimination
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · design `r2` · `q2`
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Evidence** · 1 study (2 entries) · design `r2` · `q2` · `i1` small
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Mean item difficulty was 0.07 higher for integrated-curriculum pharmacology items than legacy items, with mean point biserial differing by only 0.01. [→ Brinda Desai Bradaric 2026](#brinda-desai-bradaric-2026)
-`q2 i?` A Mann–Whitney U test indicated a statistically significant difference between legacy and integrated item difficulty values, with a rank-biserial correlation of 0.214. [→ Brinda Desai Bradaric 2026 (2)](#brinda-desai-bradaric-2026-2)
+`q2 i1` A Mann–Whitney U test indicated a statistically significant difference between legacy and integrated item difficulty values, with a rank-biserial correlation of 0.214. [→ Brinda Desai Bradaric 2026 (2)](#brinda-desai-bradaric-2026-2)
 
 ## Evidence
 
@@ -54,9 +55,9 @@ Descriptive comparison of 505 pharmacology-tagged assessment items stored on Exa
 
 Brinda Desai Bradaric, Eric Van Rite, Lalita Prasad‐Reddy, Michael Bradaric. (2026). Implementation of an Integrated Pharmacology Curriculum in a Flipped, Small‐Group, Case‐Based, Pre‐Clerkship Medical Curriculum Improved Student Performance. Pharmacology Research & Perspectives. https://doi.org/10.1002/prp2.70258
 
-`q2 · i?` · `design · r2`
+`q2 · i1` · `design · r2`
 
-Non-parametric test of the same item statistics comparison, conducted after a Chi-Square Goodness-of-Fit test suggested non-normal distributions. The test printed a "Rank‐biserial correlation = 0.214" alongside U statistic = 24787.00 and p‐value = 0.000035; no d, g, r, or η² effect size is reported for the difficulty difference, so impact is coded i? (no magnitude reported; not a null effect). The authors interpret that more students answered correctly while items still differentiated performers.
+Non-parametric test of the same item statistics comparison, conducted after a Chi-Square Goodness-of-Fit test suggested non-normal distributions. The test printed a "Rank‐biserial correlation = 0.214" alongside U statistic = 24787.00 and p‐value = 0.000035. The rank-biserial correlation is the effect size for this Mann–Whitney comparison, small by correlation benchmarks, so impact is coded i1. The authors interpret that more students answered correctly while items still differentiated performers.
 
 > "The Mann–Whitney U test indicated a statistically significant difference between Legacy and Integrated item difficulty values (U statistic = 24787.00; p‐value = 0.000035; Rank‐biserial correlation = 0.214)."
 

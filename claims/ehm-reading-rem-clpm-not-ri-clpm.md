@@ -55,3 +55,4 @@ The review reports, citing Ehm et al. (2019), that RI-CLPMs showed no statistica
 - [Time-reversed analysis of simulated data suggests a decreasing rather than increasing effect of self-concept on achievement, yielding inconsistent conclusions from the same data](time-reversed-model-suggests-decreasing-self-concept-effect.md) — related
 - [RI-CLPM on simulated PALMA-like data shows positive reciprocal cross-lagged effects between within-individual math achievement and self-concept](riclpm-simulated-palma-positive-reciprocal-effects.md) — related
 - The choice of longitudinal statistical model can determine whether reciprocal motivation-achievement relations are found — possibly the same claim (merge candidate)
+- [Controlled motivation and mathematics achievement show no reciprocal cross-lagged relations in RI-CLPM models](no-reciprocal-relation-controlled-motivation-achievement.md) — related

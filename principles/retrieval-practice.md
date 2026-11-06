@@ -206,7 +206,7 @@ A within-session quiz score, delayed recall, transfer to new questions and value
 - [Transfer of test-enhanced learning is greatest across test formats, to application and inference questions, to medical diagnosis problems, and to mediator and related word cues](../claims/transfer-greatest-test-formats-application-inference-medical-mediator-cues.md) [+W]
 - [Transfer of test-enhanced learning is weakest to rearranged stimulus-response items, to untested materials seen during initial study, and to problems involving worked examples](../claims/transfer-weakest-rearranged-untested-materials-worked-examples.md) [~W]
 - [Testing benefits retention over a conservative restudy control, establishing the testing effect as robust](../claims/testing-effect-robust-versus-restudy-control.md) [+W]
-- [Pretesting benefits for paired associates depend on semantic association between pair members, with cued-recall benefits absent for unrelated pairs](../claims/semantic-association-moderates-pretesting.md) [~W]
+- [Pretesting benefits for paired associates depend on semantic association between pair members, with cued-recall benefits typically not observed for unrelated pairs](../claims/semantic-association-moderates-pretesting.md) [~W]
 - [The meta-analysis supports retrieval effort as a contributor to the testing effect](../claims/retrieval-effort-support-testing-effect.md) [~M]
 - [Offering corrective feedback after class quizzes significantly increases learning gains over withholding feedback (g = 0.537 vs. g = 0.374).](../claims/feedback-enhances-retrieval-practice.md) [+W]
 - [Offloading work to AI costs learning: students given answers did well in practice but scored lower on an unassisted exam](../claims/gpt4-access-harms-learning-after-withdrawal.md) [+W]

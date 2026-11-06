@@ -80,3 +80,4 @@ Comparison-treatment moderator analysis (Table 1). Small-group human instruction
 - [In WHY2 physics studies, AutoTutor outperformed read-textbook and no-materials controls and performed comparably to WHY2/Atlas and non-expert human tutors](why2-autotutor-physics-gains.md) — a narrower finding that bears on this claim
 - [Remediation-level advice matters: Why2-Atlas hints were less effective than human tutors when students lacked prerequisite knowledge](why2-atlas-remediation-limit.md) — related
 - [CBI/CAI effects on mathematics achievement vary from small to medium, with duration and instructional modality as statistically significant moderators](cai-cbi-small-medium-duration-modality-moderators.md) — related
+- [Individual remediation programs benefited reading while small groups of roughly 2-5 students benefited mathematics](group-size-individual-reading-small-group-math.md) — related

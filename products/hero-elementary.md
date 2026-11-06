@@ -26,7 +26,7 @@ Hero Elementary is a multiplatform K–2 science and literacy curriculum program
 ### Claims
 
 - [Students were highly engaged in the in-school environment, with engagement increasing over the implementation duration.](../claims/hero-elementary-in-school-student-engagement-increased.md) [+W]
-- [Teachers found Hero Elementary playlist hands-on activities easy to implement because materials were supplied and prepped.](../claims/hero-elementary-hands-on-activities-easy-implementation-prepped-materials.md) [+W]
+- [Teachers reported finding Hero Elementary playlist hands-on activities relatively easy to implement, with lesson planning and hands-on materials supplied and prepped.](../claims/hero-elementary-hands-on-activities-easy-implementation-prepped-materials.md) [+W]
 - [Teachers found the animated videos the easiest Hero Elementary component to implement virtually and fun and engaging for students, and described them as an equal, shared platform for students with IEPs and English learners](../claims/animated-videos-easiest-engaging-virtual-component.md) [+W]
 - [Digital notebooks presented technical difficulties with projection and loading during in-school implementation.](../claims/hero-elementary-notebook-technical-difficulties-projection-loading.md) [-W]
 - [The Hero Elementary playlist intervention showed no statistically significant effect on K-2 students' science knowledge (effect size 0.10, p ~ 0.38)](../claims/hero-elementary-playlists-no-significant-science-knowledge-effect.md) [-W]

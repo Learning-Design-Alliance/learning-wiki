@@ -51,3 +51,4 @@ Authors' interpretive discussion (type e) of how the technology addresses the fo
 - [Engineering physics undergraduates are more curious than they appear in lecture when given the chance to submit questions about interactive simulations](students-more-curious-than-lecture-appears.md) — related
 - [The authors conclude real-time AI feedback reduces extraneous cognitive load and mitigates fear of failure with expensive laboratory equipment](ai-feedback-reduces-cognitive-load-and-fear-of-failure.md) — related
 - [Anonymity in computer-mediated collaboration can produce a stronger group identity than non-anonymous face-to-face situations](anonymity-strengthens-group-identity-cscl.md) — related
+- [Anonymity in remote lectures increased student engagement in question-asking, while remote workshops suffered from absent non-verbal cues and reduced interactivity](remote-anonymity-engagement-workshop-communication-loss.md) — related

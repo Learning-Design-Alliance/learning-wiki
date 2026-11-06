@@ -41,7 +41,7 @@ The scan organizes barriers to Black learners' and workers' technology career en
 - [Venture Funding One Percent Black Entrepreneurs](../claims/venture-funding-one-percent-black-entrepreneurs.md) [+M]
 - [Black Americans 8 Percent Tech Occupation Jobs](../claims/black-americans-8-percent-tech-occupation-jobs.md) [+M]
 - [Computer programmer employment is projected to decline 10% from 2021 to 2031 due to automation, and apprenticeships placed in automation-vulnerable pathways risk reinforcing disparities](../claims/automation-declines-programmer-jobs-apprenticeship-risk.md) [+W]
-- [Financial and economic constraints shape first-generation chemists' career decisions, sometimes deterring advanced training altogether](../claims/financial-constraints-shape-first-generation-career-decisions.md) [+W]
+- [In the reflections of 13 first-generation chemists, financial constraints can shape career decisions and can deter advanced training](../claims/financial-constraints-shape-first-generation-career-decisions.md) [+W]
 
 ## Related Theories
 

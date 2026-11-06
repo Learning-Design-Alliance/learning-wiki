@@ -51,6 +51,7 @@ An 8-week clinical reasoning course for emergency medicine clerkship students, d
 
 - [mCLEIMS station design: six teams rotating through six 25-minute sequential simulation stations](mcleims-station-rotation-design.md)
 - [A longitudinal, curriculum-integrated simulation-based education program framework for clinical reasoning](longitudinal-curriculum-integrated-sbep-framework.md)
+- [Fully online virtual bedside teaching course for pharmacy students (Universität München)](virtual-bedside-teaching-online-course-munich.md)
 
 ## Examples
 -

@@ -24,7 +24,8 @@ A dataset of 123 text-only Arabic-language multiple-choice questions from publis
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Curated EUNACOM question dataset of 1,062 Spanish-language medical licensure items](curated-eunacom-question-dataset-of-1062-spanish-language-medical-licensure-items.md)
 
 ## Key Sources
 - Cohen Adiel, Eliasi Elior, Meyer Raanan, Brezinov Yoav, Levin Gabriel. (2026). Performance of ChatGPT in Israeli Arabic-language OBGYN national medical licensure exam. BMC Medical Education. https://doi.org/10.1186/s12909-026-08753-3

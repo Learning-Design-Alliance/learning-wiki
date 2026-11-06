@@ -43,7 +43,7 @@ The review distills its technical synthesis into a recommended baseline configur
 - [A random forest classified flagged versus non-flagged word problems with the best accuracy of five tested models (AUC = 0.75)](../claims/random-forest-best-auc-flagged-problems.md) [+W]
 - [A support vector machine classifier outperformed decision tree and random forest models in predicting cognitive engagement levels of online discussion posts](../claims/svm-outperforms-dt-rf-cognitive-engagement-prediction.md) [-W]
 - [An LSTM-based strategy temporal analytics framework outperforms random forest, SVM, and majority-class baselines for stealth assessment predictive accuracy](../claims/lstm-strategy-temporal-analytics-outperforms-baselines.md) [+W]
-- [Academic word list count, word count, and Flesch-Kincaid grade level are the most important features for predicting cognitive engagement in discussion posts](../claims/awl-count-word-count-feature-importance-engagement.md) [+W]
+- [In decision-tree and random-forest models, academic word list count, word count, and Flesch-Kincaid grade level were among the most important features for predicting cognitive engagement in discussion posts; an SVM ranked different features first](../claims/awl-count-word-count-feature-importance-engagement.md) [+W]
 
 ## Related Strategies
 - 

@@ -64,6 +64,8 @@ The article recommends weaving EI training into existing courses with objectives
 - [Integrate structured reflective sessions into clinical curricula, tailored to students' developmental stage](integrate-structured-reflection-clinical-curricula.md)
 - [Incorporate structured non-technical skills training and structured debriefing sessions within simulation-based education](structured-nts-training-debriefing-recommendation.md)
 - [Integrate mindfulness training programs into nursing curricula to support focus, self-awareness, and emotional regulation](mindfulness-training-in-nursing-curricula-strategy.md)
+- [Develop nursing students' compassion competence through role modelling, simulation-based methods, role-playing, and mindfulness techniques within a systematic, continuous curriculum](compassion-focused-education-strategies-nursing-tabriz.md)
+- [Integrate relational and technical competencies in nursing education frameworks to address the assessment gap](integrate-relational-and-technical-competencies-nursing-education.md)
 
 ## Examples
 -

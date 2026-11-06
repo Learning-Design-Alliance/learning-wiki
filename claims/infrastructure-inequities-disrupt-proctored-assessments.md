@@ -67,3 +67,5 @@ Review synthesis of Maboe and Tomas's (2023) qualitative study (n = 17) in South
 - [The Ecology of Resources framework supports design in informal, low-infrastructure contexts as well as formal school ones](ecology-resources-works-in-informal-contexts.md) — related
 - [Tertiary institutions face substantial ICT infrastructure constraints, with 54.2% of colleges lacking well-equipped computer laboratories and only 46% ICT usage reported](ict-infrastructure-constraints-tertiary-colleges.md) — related
 - [The study school faced contextual barriers to game-based learning: teacher shortage, low teacher pedagogic profile, minimal ICT infrastructure, remoteness, and overcrowding](rural-school-barriers-game-based-learning.md) — a narrower finding that bears on this claim
+- [Internet connectivity problems hindered remote learning and compounded student anxiety during high-stakes assessments](connectivity-problems-assessment-anxiety-remote.md) — related
+- [Skill-based pharmacy learning (compounding, device counselling, OSCEs) faced validation, access, and transferability challenges when delivered remotely](remote-skill-based-learning-challenges-pharmacy.md) — related

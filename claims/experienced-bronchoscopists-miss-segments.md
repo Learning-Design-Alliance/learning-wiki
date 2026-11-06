@@ -47,3 +47,4 @@ Descriptive result from the experienced group's bronchoscopies. The article repo
 ## Related Claims
 - [A 40-minute AI-guided simulation-based training intervention did not significantly improve clinical bronchoscopy performance in intermediate and experienced bronchoscopists](ai-simulation-training-no-clinical-bronchoscopy-gain.md) — related
 - [Experienced bronchoscopists outperformed intermediates on diagnostic completeness, structured progress and procedure efficiency but not procedure time](experienced-outperform-intermediates-bronchoscopy-dc-sp-efficiency.md) — related
+- [AI-trained physicians revisit fewer bronchial segments at final test than expert-tutor-trained physicians](ai-trained-fewer-segment-revisits-bronchoscopy.md) — related

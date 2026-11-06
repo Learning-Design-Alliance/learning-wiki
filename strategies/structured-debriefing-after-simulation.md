@@ -51,6 +51,7 @@ The authors used the PEARLS (Promoting Excellence And Reflective Learning in Sim
 - [Use required online discussion boards with specific prompts and peer commenting to facilitate reflection during SLT simulation placements](discussion-board-structured-prompts-simulation-reflection.md)
 - [Use a structured debriefing script (modified PEARLS) to scaffold self-guided debriefing in VR simulation](structured-script-scaffolds-self-guided-debriefing.md)
 - [Use familiar debriefing frameworks (PEARLS, the Diamond, Scottish centre debrief model, Gather-Analyze-Summarize) to structure meta-debriefing conversations and role-model ideal debriefing behaviors](framework-structured-meta-debriefing-strategy.md)
+- [Three-phase debriefing (reaction, analysis, summary) with formative critical-actions feedback](three-phase-debriefing-ecpr-simulation-strategy.md)
 
 ## Examples
 -

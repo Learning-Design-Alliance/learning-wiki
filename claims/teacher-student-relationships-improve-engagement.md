@@ -42,7 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 quant-synthesis `r3`, 1 review `r2` · `q3` · `i2` medium
-> **Currency** · newest study 2025 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Teacher Student Relationships Improve Engagement -->
 
 Across two meta-analyses of correlational and longitudinal studies, positive, warm teacher–student relationships go with greater student engagement (medium-to-large associations in Roorda et al. 2011) and, more weakly, with achievement, and learner-centered teacher variables correlate with student outcomes at a mean r = .31 (Cornelius-White 2007). The claim concerns relationship *quality* — warmth, trust, and appropriate structure — not mere contact time. Neither synthesis tests whether improving relationships raises engagement or achievement.

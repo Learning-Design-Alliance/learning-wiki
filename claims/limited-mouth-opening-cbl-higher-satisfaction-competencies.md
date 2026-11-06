@@ -53,3 +53,4 @@ Anonymous web-based satisfaction survey on a 4-point Likert-type scale with a �
 - [Residents taught with integrated 3D visualization and PBL report higher teaching satisfaction across most survey items](3d-visualization-pbl-higher-satisfaction-pcc.md) — related
 - [In the same RCT, the experimental group reported higher scores than the control group across all five dimensions of teaching satisfaction (all P < 0.05)](pbl-virtual-simulation-satisfaction-all-dimensions-trauma-orthopedics.md) — related
 - [Experimental-group students rated satisfaction, learning enthusiasm, comprehension, interaction, and interest in nephrology more favorably than control students](boppps-rain-classroom-favorable-student-evaluations.md) — related
+- [Experimental-group residents report significantly higher satisfaction than control-group residents across the seven measured teaching dimensions](boppps-flipped-higher-teaching-satisfaction.md) — related

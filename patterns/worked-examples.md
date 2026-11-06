@@ -121,7 +121,7 @@ This pattern is scoped to selecting solution support for structured tasks. Open-
 - [Problem solving after acquisition outperformed example study at a one-week delayed posttest but not immediately](../claims/problem-solving-beats-example-study-at-delay.md) [~W]
 - [Worked examples result in better performance than conventional problem solving with no guidance, per prior work cited in the thesis](../claims/worked-examples-better-than-problem-solving-cited.md) [+W]
 - [Students rated the tutor 3.4 out of 5 overall and particularly liked the worked-out solution feedback](../claims/ask-elle-student-satisfaction-3-4-of-5.md) [~W]
-- [Alternating examples and problems yielded more learning and more conceptual knowledge than examples alone or problem-solving alone](../claims/examples-plus-problems-beat-examples-alone.md) [~W]
+- [Alternating examples and problems yielded more learning than examples alone and more conceptual knowledge than problem-solving alone](../claims/examples-plus-problems-beat-examples-alone.md) [~W]
 - [MetaForest identifies worked-out examples, intervention duration, intervention condition, learning outcome type, and immediate measurement as the most important moderators](../claims/metaforest-top-moderators-its-effects.md) [~M]
 - [On-demand ITS features (worked-out examples, on-demand hints) show significant effects, suggesting student choice enhances learning](../claims/its-on-demand-features-significant-effects.md) [+W]
 

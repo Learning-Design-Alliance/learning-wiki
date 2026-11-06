@@ -17,7 +17,7 @@ sources:
 # Form intentionally heterogeneous instructor-assigned groups of three to four students, avoiding tokenistic demographic balancing, and regroup periodically through controlled randomness.
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 3 studies (1 associational, 1 design, 1 theoretical), `q2` · 0 of 3 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (4 for, 2 mixed, 1 against) · 4 studies (1 causal, 1 associational, 1 design, 1 theoretical), `q2`–`q3` · 0 of 4 report an effect size · 6 claims rest on one study
 
 ## Description
 The essay recommends instructor-assigned heterogeneous grouping using beginning-of-semester surveys collecting information such as GPA, skills, major, prior exposure to biology topics, and demographic information. It recommends limiting groups to three to four students and periodic regrouping through controlled randomness, while cautioning against mechanically ensuring each group represents each demographic present in class.

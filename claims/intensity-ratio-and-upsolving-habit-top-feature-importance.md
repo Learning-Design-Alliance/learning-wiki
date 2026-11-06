@@ -66,7 +66,7 @@ Random Forest feature importance for the survey-based psychographic model (Fig. 
 ## Related Claims
 - [True attrition in competitive programming is preceded by an 83.71% reduction in monthly contest participation](contest-participation-decline-precedes-cp-attrition.md) — related
 - [In the random forest, word count was the most important readability feature while traditional readability formulas ranked near the bottom](word-count-top-traditional-formulas-unimportant.md) — related
-- [Academic word list count, word count, and Flesch-Kincaid grade level are the most important features for predicting cognitive engagement in discussion posts](awl-count-word-count-feature-importance-engagement.md) — related
+- [In decision-tree and random-forest models, academic word list count, word count, and Flesch-Kincaid grade level were among the most important features for predicting cognitive engagement in discussion posts; an SVM ranked different features first](awl-count-word-count-feature-importance-engagement.md) — related
 - [SHAP analysis identifies Hapax Ratio as the most influential stylometric feature in Random Forest predictions, followed by NSR, Noun Ratio, Adverb Ratio, and TTR](shap-hapax-ratio-most-influential-feature.md) — a narrower finding that bears on this claim
 - [Random Forest reaches CV F1 = 0.924 on the psychographic survey dataset, but the article presents this only as a localized exploratory pilot](random-forest-survey-pilot-f1-0924.md) — related
 - [The Skill-Application Paradox: stopped competitive programmers self-report higher theoretical confidence than active peers yet show significantly weaker practice habits and peer support](skill-application-paradox-cp-attrition.md) — related

@@ -45,7 +45,7 @@ The review reports, citing Bachtiar et al. (2020), Chandrasegaran et al. (2007) 
 
 
 ## Related Claims
-- [Multiple-choice single-select items are less difficult than open-ended response questions, and delayed perceived task difficulty ratings relate more strongly to relative item difficulty for open-ended items](answer-format-availability-affects-difficulty-and-ratings.md) — related
+- [In one German secondary-school chemistry test, multiple-choice single-select items were less difficult than open-ended items, and delayed perceived task difficulty ratings related more strongly to relative item difficulty for open-ended items](answer-format-availability-affects-difficulty-and-ratings.md) — related
 - [State tests under NCLB measured little higher-order thinking, with only 2 percent of math items qualifying](nclb-tests-low-higher-order-content.md) — related
 - [Post-interviews with props and embodiment revealed understanding of macro–micro particle changes that the multiple-choice post-test did not capture.](step-interview-surfaces-micro-micro-understanding.md) — related
 - [The tutor-access learning gain was concentrated in conceptual depth of written answers rather than multiple-choice scores](tutor-gain-concentrated-in-written-reasoning-depth.md) — related

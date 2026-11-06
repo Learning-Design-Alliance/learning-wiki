@@ -47,4 +47,4 @@ Post-task questionnaire study: 10 male fellowship-trained head and neck surgeons
 ## Related Claims
 - [Expert surgeons outperformed novices on all four quantitative measures of the resection task: smaller margin errors, lower carbonization, faster resection, fewer grasps](experts-outperform-novices-four-measures.md) — related
 - [The four quantitative measures of the resection task showed good internal consistency (Cronbach's alpha 0.803)](cronbach-alpha-0803-four-measures.md) — related
-- [Novices achieved adequate mean margins mainly by over-resecting deep margins, while experts secured more uniform 10 mm margins across directions](deep-margin-difficulty-novice-over-resection.md) — related
+- [Experts and novices did not differ in mean margin distance, but novices took longer deep margins and experts kept more consistent margins around the 10 mm target](deep-margin-difficulty-novice-over-resection.md) — related

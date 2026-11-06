@@ -9,6 +9,7 @@ generated:
   at: 2026-09-25
 evidence_strength: mixed
 newest_evidence: 2018
+source_checked: 2026-11-06
 sources:
   - id: ariel-2018
     resource: "https://doi.org/10.1037/xap0000133"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
-> **Currency** · newest study 2018 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2018 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Cumulative attempted recall did not differ between groups in either Experiment 2 session, unlike Experiment 1. [→ Ariel 2018](#ariel-2018)
@@ -54,9 +55,9 @@ Experiment 2 cumulative learning analysis (Table 2): both groups attempted retri
 
 Ariel, R., & Karpicke, J. D. (2018). Improving Self-Regulated Learning With a Retrieval Practice Intervention. Journal of Experimental Psychology: Applied. https://doi.org/10.1037/xap0000133
 
-`q3 · i? · no effect size could be confirmed in the full text` · `causal · r2`
+`q3 · i? · no effect size for this descriptive finding; the printed d values are for group differences` · `causal · r2`
 
-In both experiments, instructed students did not apply the three-recall criterion uniformly across items; the authors state the reason is unclear and defer discussion to the General Discussion.
+In both experiments, instructed students did not apply the three-recall criterion uniformly across items; the authors state the reason is unclear and defer discussion to the General Discussion. The article does print effect sizes for the related group difference: the instructed group recalled more items three or more times than the control group (Experiment 1, d = 0.91 [0.37, 1.43]; Experiment 2, d = 0.51 [0.01, 1.01] in the initial session and d = 0.79 [0.28, 1.30] in the transfer session). Those measure how much the instructions raised use of the criterion, not the shortfall from it that this entry reports.
 
 > "students failed to recall all items to the criterion specified by the strategy instructions (i.e., recall every translation correctly 3 times) in both sessions of the experiment. Why students failed to use this strategy consistently for all items is unclear."
 

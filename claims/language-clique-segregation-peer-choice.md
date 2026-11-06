@@ -9,6 +9,7 @@ generated:
   at: 2026-09-27
 evidence_strength: moderate
 newest_evidence: 2000
+source_checked: 2026-11-06
 sources:
   - id: amrein-2000
     resource: "https://eric.ed.gov/?id=ED440548"
@@ -32,12 +33,12 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
-> **Currency** · newest study 2000 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2000 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 > **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on an ERIC document (a report, conference paper or thesis). It is kept because 3 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
 `q2 i?` When students could seat themselves or form their own groups, they broke into homogeneous language groups, contradicting the director's claim that everyone mixed. [→ Amrein 2000](#amrein-2000)
-`q2 i?` The school never attained a stable 50-50 ratio of native English- and Spanish-speaking students; class sizes ranged from 54%:46% to 70%:30% (Spanish:English). [→ Amrein 2000 (2)](#amrein-2000-2)
+`q2 i?` The school never attained a stable 50-50 ratio of native English- and Spanish-speaking students; the program director said population percentages ranged from 54%:46% to 70%:30% (Spanish:English), and classes were usually weighted heavily toward Spanish speakers. [→ Amrein 2000 (2)](#amrein-2000-2)
 
 ## Evidence
 

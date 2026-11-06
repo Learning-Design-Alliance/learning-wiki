@@ -9,6 +9,7 @@ generated:
   at: 2026-10-10
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: nicolas-rodriguez-alvarez-2026
     resource: "https://doi.org/10.48550/arxiv.2605.26010"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` In the full sample, male students reported higher generalized digital confidence (M=4.05) than female students (M=3.89), a statistically significant difference (p=0.001). [→ Nicolas Rodriguez-Alvarez 2026](#nicolas-rodriguez-alvarez-2026)
+`q2 i?` Among the 241 students who identified as male or female (two non-binary respondents of the 243 were excluded from the gender comparison), male students reported higher generalized digital confidence (M=4.05) than female students (M=3.89), a statistically significant difference (p=0.001). [→ Nicolas Rodriguez-Alvarez 2026](#nicolas-rodriguez-alvarez-2026)
 
 ## Evidence
 
@@ -103,3 +104,4 @@ Independent samples t-test with Welch's correction on the survey's gender-based 
 - [Male students reported higher perceived skill improvements and more favorable domain scores than female students across all journal club domains](journal-club-gender-differences-self-reported.md) — related
 - [Gender disparity in emergency self-efficacy favors males, but the behavioral capability difference is not statistically significant](gender-gap-emergency-self-efficacy-not-capability.md) — related
 - [A pretest gender gap in self-efficacy (males higher) was no longer significant after hybrid simulation-based training](hybrid-sbt-closes-pretest-gender-gap-in-self-efficacy.md) — related
+- [No statistically significant gender differences in academic performance, perceived stress, or chronotype in this sample](no-gender-differences-chronotype-stress-performance.md) — reports the opposite

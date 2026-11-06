@@ -154,7 +154,7 @@ A good debrief conversation, a correct stated change, the next performance, dela
 
 - [Educators rarely facilitated connections between playlist activities or to students' lives; introductions focused on instructions and logistics, and debriefings were often unstructured reviews of the activity](../claims/educators-rarely-facilitated-connections-between-playlists.md) [-W]
 - [In one design report on 25 cybersecurity tabletop exercises, the authors observed that trainees consistently wanted more debriefing time than the schedule allowed](../claims/reflection-debriefing-time-underscheduled.md) [+W]
-- [All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback whose credibility was not restricted by facilitator hierarchy](../claims/facilitators-prefer-vad-objective-feedback.md) [~W]
+- [All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback that they felt participants accepted more readily across differences in hierarchy](../claims/facilitators-prefer-vad-objective-feedback.md) [~W]
 - [In the debriefings, students who observed a scenario via live video join facilitators in attempts to reconceptualise the experiences expressed by scenario participants, using audiovisual appearances as a resource](../claims/peer-students-reconceptualisation-supported.md) [+W]
 - [Implementing VAD raised facilitator cognitive demand, debriefing time, and attention competition with the video, with segment-search time greater in lower-tech VAD](../claims/vad-implementation-costs-facilitator-cognitive-load.md) [~W]
 - [Reflections immediately following the events of interest facilitate greater and more situated recall and precision](../claims/immediate-reflection-situated-recall.md) [+W]
@@ -193,6 +193,7 @@ A good debrief conversation, a correct stated change, the next performance, dela
 - [Structured pre-simulation briefing, hands-on practice, and model-based debriefing sequence](../strategies/briefing-practice-debriefing-sequence-sbl.md)
 - [Facilitate debriefing as guided reflection linking theory to practice](../strategies/guided-reflection-debriefing-facilitation.md)
 - [Pause & Discuss: student-controlled pausing of simulation for team clinical reasoning](../strategies/pause-and-discuss-simulation-strategy.md)
+- [Use best-practice video review with instructor explanation as formative feedback between simulation runs](../strategies/best-practice-video-formative-feedback-strategy.md)
 
 ## Key Sources
 - Cheng, A., Grant, V., Dieckmann, P., Arora, S., Robinson, T., & Eppich, W. (2015). Faculty development for simulation programs. *Simulation in Healthcare, 10*(4), 217-222. [doi:10.1097/SIH.0000000000000090](https://doi.org/10.1097/SIH.0000000000000090)

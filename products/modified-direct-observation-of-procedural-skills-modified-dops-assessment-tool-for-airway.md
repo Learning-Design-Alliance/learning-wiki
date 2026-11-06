@@ -25,7 +25,8 @@ A ten-domain, 1–9-rated observational rubric developed by Tang Lijun et al. fo
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Ten-criterion formative assessment rubric for practical radiology sessions](ten-criterion-formative-assessment-rubric-for-practical-radiology-sessions.md)
 
 ## Key Sources
 - Tang Lijun, Zhang Yi, Chen Lianhua, Li Jinbao, Huang Shiwei, Fang Bin, Huang Xiaojing, Huang Lina. (2025). Advancing anesthesiology trainee proficiency in airway management via simulation-based training: a non-hypoxic apnea duration approach. PeerJ. https://doi.org/10.7717/peerj.19555

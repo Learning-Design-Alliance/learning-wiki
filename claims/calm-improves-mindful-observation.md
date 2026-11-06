@@ -50,3 +50,4 @@ ANCOVA analysis of the quasi-experimental trial with 64 educators found the inte
 - [School-based mindfulness interventions show overall effect sizes of g = 0.40 between groups and g = 0.41 within groups](mindfulness-schools-overall-effect-g-040.md) — a broader claim this one bears on
 - [School-based mindfulness interventions produce small-to-moderate significant pre-post improvements in youth mental health and well-being compared to control groups](school-mindfulness-small-moderate-effect-youth-mental-health.md) — a broader claim this one bears on
 - [CALM reduced daily physical symptoms and showed trend-level reductions in time pressure and depersonalization](calm-reduces-physical-symptoms-stress-burnout.md) — related
+- [The intervention did not affect school burnout symptoms; both conditions reported increased burnout from pre to 1-year follow-up.](explore-your-brain-no-burnout-effect.md) — related

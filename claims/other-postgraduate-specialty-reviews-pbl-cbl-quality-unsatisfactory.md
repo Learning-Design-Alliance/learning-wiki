@@ -27,7 +27,7 @@ sources:
 > **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
-`q2 i?` Two systematic reviews published since 2022 concluded that problem-based learning appeared more effective than traditional teaching for improving performance, that PBL was associated with higher scores across multiple skill domains, and that CBL increased knowledge and confidence, though the latter was a non-significant trend. [→ Vundum Jonathon 2025](#vundum-jonathon-2025)
+`q2 i?` Three individual studies in other postgraduate specialties (the review's references 26–28) concluded that problem-based learning appeared more effective than traditional teaching for improving performance, that PBL was associated with higher scores across multiple skill domains, and that CBL increased knowledge and confidence, though the latter was a non-significant trend; two systematic reviews published since 2022 assessed the quality of the RCTs in this field. [→ Vundum Jonathon 2025](#vundum-jonathon-2025)
 `q2 i?` The overall quality of data from available RCTs in postgraduate CBL/PBL was deemed unsatisfactory. [→ Vundum Jonathon 2025](#vundum-jonathon-2025)
 
 ## Evidence
@@ -49,7 +49,7 @@ The review reports, citing three prior studies, that PBL appeared more effective
 - [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
 
 ## Related Claims
-- [In a randomised trial of 80 first-year postgraduate oncology trainees, CBL produced significantly higher examination scores and satisfaction than traditional lecture-based learning, though confidence intervals crossed the null for examination results](bi-rct-cbl-higher-posttest-scores-satisfaction.md) — related
+- [In a randomised trial of 80 first-year postgraduate oncology trainees, a CBL group that also had PowerPoint teaching reported significantly higher examination scores and satisfaction than lecture-based teaching, though confidence intervals crossed the null for examination results](bi-rct-cbl-higher-posttest-scores-satisfaction.md) — related
 - [Case-based discussions show evidence of reasoning and learning occurring and are perceived as useful for teaching and learning by oncology registrars and consultants](cbd-evidence-of-reasoning-and-learning-perceived-useful.md) — a narrower finding that bears on this claim
 - [Case-based learning is viewed positively by practicing doctors, with all eligible postgraduate studies reporting favourable perceptions](cbl-viewed-positively-practicing-doctors.md) — related
 - Only three studies met eligibility criteria for case-based learning in postgraduate medical oncology, totalling 111 participants, indicating a paucity of data in this field — related

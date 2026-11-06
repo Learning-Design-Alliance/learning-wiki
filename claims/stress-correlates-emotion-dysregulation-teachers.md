@@ -49,3 +49,4 @@ Bivariate Pearson correlation among behavioural and demographic measures in 49 s
 - [School meditation studies show significant improvements in emotional regulation, including reduced involuntary stress responses and behavioural dysregulation](meditation-improves-emotional-regulation.md) — related
 - [ER difficulties are positively associated with each burnout dimension: cynicism, emotional exhaustion, and lack of efficacy](er-difficulties-burnout-dimensions.md) — related
 - [School meditation programmes foster small improvements in well-being, more consistently reducing negative outcomes than promoting positive ones](meditation-small-wellbeing-gains-negative-outcomes.md) — related
+- [Average performers report higher perceived stress than Excellent performers](average-performers-higher-perceived-stress.md) — related

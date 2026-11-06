@@ -48,3 +48,4 @@ Retrospective comparison of two admission cohorts: 70 students (2017 intake) tra
 ## Related Claims
 - [Progression-focused simulation curricula (FRS, SIMULATE) yield superior outcomes compared to traditional training methods](frs-simulate-progression-curricula-superior-outcomes.md) — a broader claim this one bears on
 - [Manikin-based simulation produced equal or superior competency outcomes versus traditional clinical practice, except in the Patient Safety domain](manikin-simulation-competency-versus-clinical.md) — related
+- [Most dental students judge VR and manikin training equally helpful for consolidating theoretical knowledge](both-methods-equal-knowledge-consolidation.md) — related

@@ -48,7 +48,7 @@ Content-validation survey of the same twelve experts using a 12-item 4-point rel
 
 ## Related Claims
 - [Most Aquablation procedural steps receive I-CVI values exceeding 0.80, with average relevance scores of 3.5 or higher and medians reaching 4](aquablation-content-items-icvi-above-080.md) — related
-- [Expert endourologists rate an Aquablation training simulator as highly realistic, with face-validity items averaging above 3.4 on a 4-point scale and Cronbach's alpha of 0.92](aquablation-simulator-high-face-validity.md) — related
+- [Twelve expert urologists rate an Aquablation training simulator as realistic, with face-validity item means of 3.25 to 3.75 on a 4-point scale and Cronbach's alpha of 0.92](aquablation-simulator-high-face-validity.md) — related
 - [Experts unanimously recommend integrating the Aquablation simulator into structured Aquablation training programs](aquablation-simulator-unanimous-training-endorsement.md) — related
 - [Expert consultation rated the CCDNS-DRN with excellent content validity (I-CVI 0.78–1.0, S-CVI/UA 0.85, S-CVI/Ave 0.98)](ccdns-drn-content-validity-expert-consultation.md) — related
 - [The article reports PUL has a more accessible learning curve than HoLEP, bipolar enucleation and Aquablation, which require 20–50 and 38 cases respectively](pul-learning-curve-shorter-than-enucleation-modalities.md) — related

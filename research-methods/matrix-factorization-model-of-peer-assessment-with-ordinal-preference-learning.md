@@ -23,7 +23,7 @@ The article proposes representing peer assessment as a sparse three-dimensional 
 
 ### Claims
 - [A matrix factorization model trained on sparse peer assessment data can predict grades for answers from students who did not participate in grading, reducing the grading burden on students.](../claims/matrix-factorization-predicts-grades-for-nongrading-students.md) [+M]
-- [A multitask matrix factorization approach that jointly learns grades across multiple assessment labels outperforms a single-task (binary relevance) baseline that learns each label separately.](../claims/multitask-matrix-factorization-outperforms-single-task-baseline.md) [+M]
+- [In peer-assessment data from three courses, a multitask matrix factorization approach that jointly learns grades across assessment labels had lower error than a single-task (binary relevance) baseline in 8 of 10 comparisons.](../claims/multitask-matrix-factorization-outperforms-single-task-baseline.md) [+M]
 
 ## Related Research Methods
 -

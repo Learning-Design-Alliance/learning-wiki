@@ -41,7 +41,7 @@ The article's curriculum consisted of a standardized 90-minute training session 
 
 ## Claims
 
-- [Among PGY-1 and PGY-2 obstetrics and gynecology residents, task completion times were shorter after a structured four-week laparoscopic simulator curriculum than before, in one single-group pre-post study.](../claims/laparoscopic-simulator-training-improves-task-efficiency-pgy1-pgy2.md) [+W]
+- [Among PGY-1 and PGY-2 obstetrics and gynecology residents, task completion times were shorter in later weeks than in Week 1 of a structured four-week laparoscopic simulator curriculum, in one uncontrolled study with no pre-training baseline.](../claims/laparoscopic-simulator-training-improves-task-efficiency-pgy1-pgy2.md) [+W]
 - [PGY-3 residents entered laparoscopic simulator training with high baseline proficiency, and their completion times did not change significantly across the four-week curriculum in a single-group pre-test/post-test study.](../claims/pgy3-residents-maintain-stable-proficient-performance-throughout-training.md) [~W]
 - [By the end of a four-week structured simulator curriculum, task completion times of PGY-1, PGY-2, and PGY-3 residents no longer differ significantly, indicating skill convergence.](../claims/skill-convergence-across-pgy-levels-after-simulator-training.md) [+W]
 - [The rate of improvement in laparoscopic task completion time differs significantly by training level, with a significant Training Level × Time interaction driven primarily by gains in PGY-1 and PGY-2 residents.](../claims/training-level-by-time-interaction-modulates-simulation-impact.md) [+W]

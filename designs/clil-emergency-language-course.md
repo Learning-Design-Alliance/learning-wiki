@@ -40,7 +40,7 @@ The article describes an 8-week emergency language course designed using the Con
 
 ### Claims
 
-- [Project-based CLIL significantly improved written English competence of mathematics students over one semester](../claims/project-based-clil-improves-written-english-competence.md) [+W]
+- [Mathematics students' written English competence scores rose slightly over one semester of project-based CLIL, but the study reports no valid test of the change](../claims/project-based-clil-improves-written-english-competence.md) [+W]
 
 ## Related Designs
 

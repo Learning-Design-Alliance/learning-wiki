@@ -50,6 +50,7 @@ The article recommends treating evaluation itself as a first-class research obje
 - [Combine holistic with analytic scores as a complementary approach to enhance rating validity](combine-holistic-analytic-complementary-scoring.md)
 - [Include students as active evaluators in the design and validation of learning analytics tools](include-students-as-active-evaluators-of-analytics-validity.md)
 - [Combine objective metrics with validated subjective tools and audio-visual recording to contextualize interpretation of surgical performance data](combine-objective-metrics-with-subjective-and-av-context.md)
+- [Combine subjective scores, simulator metrics and EEG-based cognitive-load measures for multi-perspective skill assessment](multi-perspective-surgical-skill-assessment-strategy.md)
 
 ## Examples
 -

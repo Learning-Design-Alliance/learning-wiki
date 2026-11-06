@@ -56,3 +56,4 @@ Subgroup analysis by teaching method (Figure 3B) in the meta-analysis; PBL appea
 - [Drill-based, exam-oriented teaching environments are associated with negative thinking dispositions such as indifference, bias and negligence](drill-approach-negative-thinking-dispositions.md) — related
 - [Analogies taught in small groups did not produce a statistically significant difference in clinical-case exam performance compared with traditional instruction in a wound-healing unit.](analogies-small-groups-no-significant-difference-surgery.md) — related
 - [Students rated OSCEai favourably compared to lecture-based teaching methods (4.14/5, P < 0.0001)](osceai-favoured-over-lecture-teaching.md) — related
+- [Students taught with SPOC+EIL score higher on the dental adhesion operation test than LBL students](spoc-eil-operation-test-higher.md) — a narrower finding that bears on this claim

@@ -49,3 +49,4 @@ Same cross-sectional survey of 397 nurses; results from the five separate logist
 - [Nurses who received patient rights education demonstrated significantly higher PCC competency scores](patient-rights-education-higher-pcc-competency.md) — related
 - [All NEBPPR subscales correlate positively with PCC competency subscales and total scores, strongest for NEBPPR Total and PCC Total](spearman-positive-correlations-nebppr-pcc.md) — related
 - [The framework prioritises a compassionate, respectful therapeutic relationship and addresses power imbalances with detained, marginalised patients](relationship-first-attitudes-in-inpatient-framework.md) — related
+- [Nursing students rate their overall competence slightly below the scale midpoint while patients rate the care received well below its midpoint, suggesting a perceptual gap](student-competence-patient-care-perceptual-gap.md) — related

@@ -24,7 +24,8 @@ A Chinese-language adaptation of the Academic Motivation Scale–College, develo
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Spanish version of the Academic Motivation Scale (AMS)](spanish-version-of-the-academic-motivation-scale-ams.md)
 
 ## Key Sources
 - Hu Huiling; Luo Hongmei. (2026). A cross-sectional study exploring academic motivation among rehabilitation science students under different teaching approaches in China. Scientific Reports. https://doi.org/10.1038/s41598-025-33548-9

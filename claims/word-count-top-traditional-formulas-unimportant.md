@@ -68,7 +68,7 @@ Variable importance comparison within the same random forest: Custom Magnitude 2
 
 - [4,446 of 9,421 MATHia word problems showed larger-than-expected error-rate gaps between less- and more-skilled readers and were flagged for potential readability concerns](mathia-word-problems-flagged-reading-gaps.md) — related
 - [Partial dependence plots showed higher word count, more dependent clauses, and higher custom magnitude raised predicted flag probability, with non-linear relationships](partial-dependence-nonlinear-relationships.md) — related
-- [Academic word list count, word count, and Flesch-Kincaid grade level are the most important features for predicting cognitive engagement in discussion posts](awl-count-word-count-feature-importance-engagement.md) — related
+- [In decision-tree and random-forest models, academic word list count, word count, and Flesch-Kincaid grade level were among the most important features for predicting cognitive engagement in discussion posts; an SVM ranked different features first](awl-count-word-count-feature-importance-engagement.md) — related
 - [A random forest classified flagged versus non-flagged word problems with the best accuracy of five tested models (AUC = 0.75)](random-forest-best-auc-flagged-problems.md) — related
 - [Flagged word problems were shorter (lower word count) but had more sentences than non-flagged problems in descriptive statistics](flagged-problems-shorter-more-sentences-descriptives.md) — related
 - [Rewriting MATHia word problems for struggling readers, by human experts or LLMs, sped completion by 30% and improved mastery rate](rewritten-word-problems-faster-completion-mastery.md) — related

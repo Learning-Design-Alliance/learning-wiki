@@ -48,3 +48,4 @@ Time-on-task comparison during training (Table 2) in the 24-resident RCT: the RC
 - [RCDP training with an ex vivo porcine intussusception model produces higher post-training theoretical and practical assessment scores than traditional teaching methods in radiology residents](rcdp-exvivo-model-higher-air-enema-scores.md) — related
 - [RCDP training yields larger pre-to-post improvement effect sizes than TTM for theoretical and practical air enema scores](rcdp-larger-prepost-effect-sizes.md) — related
 - [RCDP-trained residents perform air enema reduction with shorter procedural time and lower reduction pressure than TTM-trained residents](rcdp-shorter-time-lower-pressure.md) — related
+- [RCDP can impose high cognitive load and lower learning satisfaction compared to traditional training, per prior literature cited by the authors](rcdp-cognitive-load-and-satisfaction-concerns.md) — related

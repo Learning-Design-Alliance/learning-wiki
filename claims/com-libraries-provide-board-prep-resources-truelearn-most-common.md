@@ -45,5 +45,5 @@ Phase one online survey of 35 COM library directors (83% response rate) conducte
 
 
 ## Related Claims
-- [About half of funding for high-cost board exam prep resources originates outside the library budget](high-cost-board-prep-funding-often-non-library.md) — related
+- [High-cost board exam prep subscriptions are often funded outside the library budget, and about half of board prep funding overall originates outside it](high-cost-board-prep-funding-often-non-library.md) — related
 - [Library directors at U.S. colleges of osteopathic medicine report that their libraries contribute licensing, vendor relations, and usage analytics expertise regardless of whether they hold the budget](library-expertise-essential-regardless-of-funding-source.md) — related

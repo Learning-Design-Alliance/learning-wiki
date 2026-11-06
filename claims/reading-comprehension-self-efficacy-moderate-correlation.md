@@ -55,3 +55,4 @@ Pearson correlation analysis of post-test scores in the same 78-student study. T
 - [Six component reading skills show strong average relationships with reading comprehension in struggling adult readers (rs ≥ .50)](six-strong-component-skills-adult-reading-comprehension.md) — related
 - [Self-efficacy correlates positively with foreign language achievement measures](self-efficacy-correlates-language-achievement.md) — a broader claim this one bears on
 - [The correlation between language learning strategy use and English self-efficacy was larger after explicit strategy instruction than before in one uncontrolled pre-post study.](strategy-instruction-strengthens-strategy-self-efficacy-correlation.md) — related
+- [The four motivation factors correlated significantly and positively with English scores](motivation-factors-correlate-english-scores.md) — related

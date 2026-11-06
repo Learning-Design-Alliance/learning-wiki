@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r2` · `q3`–`q4` · `i1` small
-> **Currency** · newest study 2022 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 <!-- deprecated title (2026-10-05, overstated its evidence): Annotating improves learning -->
 
 <!-- deprecated (2026-10-05, overstated its evidence): Learners who actively mark up texts — highlighting, underlining, margin notes, and other generative annotations — tend to process material more deeply than passive readers. The scope of this claim covers learner-generated annotations on text and multimedia, not instructor-supplied annotations. -->

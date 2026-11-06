@@ -50,6 +50,7 @@ The article's recommendation section proposes concrete school-level actions base
 - [Integrate resilience-building strategies into teacher training programs, prioritizing psychosocial facets of academic success and pairing them with study-skill instruction when grade improvement is the goal](resilience-building-teacher-training-strategy.md)
 - [Train university students in stress-coping techniques alongside early screening for attention or learning difficulties](coping-training-plus-attention-screening-strategy.md)
 - [Integrate counseling, stress-management, resilience, and emotional-intelligence development supports into teacher preparation programmes](integrate-wellness-ei-supports-teacher-preparation.md)
+- [Provide counselling services and an academically supportive environment for LGBTQ+ college students](counselling-and-academic-support-lgbtq-students.md)
 
 ## Examples
 -

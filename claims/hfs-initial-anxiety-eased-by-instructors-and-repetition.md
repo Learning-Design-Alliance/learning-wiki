@@ -72,3 +72,4 @@ Same qualitative theme, instructor sub-theme. Students valued structured pre-sim
 - [VR clinical simulation produced higher anxiety than face-to-face manikin simulation in maternal-newborn nursing](vr-simulation-higher-anxiety-than-face-to-face.md) — related
 - [Male nursing students recommend more functional mannequins, extended lab hours, real-time feedback technology, and additional supervision](student-suggestions-simulation-resources-and-lab-time.md) — related
 - [Students initially experienced hesitance and performance anxiety in role-play, which diminished over time as they gained skills](role-play-initial-hesitance-anxiety.md) — related
+- [Nursing students experienced initial confusion followed by progressive exploration and problem-solving in the in-class flipped classroom](progressive-learning-experience-confusion-to-problem-solving.md) — related

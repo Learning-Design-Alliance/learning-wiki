@@ -76,3 +76,4 @@ NASA TLX final score results (Figure 9): the average workload score achieved by 
 - [Global cognitive load (NASA TLX) change did not differ between training groups](nasa-tlx-global-change-no-group-difference.md) — related
 - [Perceived performance subscale of the NASA-TLX changed differently between groups: simulator trainees reported reduced performance-related workload, game trainees did not](nasa-tlx-performance-subscale-group-difference.md) — related
 - [Perceived mental workload does not differ between 3D VR and 2D video acclimatisation groups](nasa-tlx-no-difference-3d-vr.md) — related
+- [Low-fidelity simulation settings do not differ from high-fidelity settings in overall NASA-TLX workload experienced by a Swedish naval C2 team.](low-fidelity-sbt-comparable-workload-naval-c2.md) — related

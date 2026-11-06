@@ -62,3 +62,4 @@ Multi-level model M3 (Table 4) on test anxiety in online exams; contextual facto
 - [Familiarity with online and proctored exams, approximated by exam quartile, shows no effect on test anxiety](familiarity-no-effect-test-anxiety.md) — related
 - [OLSit model lacks replications and evidence for students with underdeveloped self-regulation](olsit-replication-and-population-gaps.md) — related
 - [Large class size, inadequate classroom facilities, and low internet access are associated with low academic performance in Ethiopian higher education](facility-deficits-associated-low-performance.md) — related
+- [Internet connectivity problems hindered remote learning and compounded student anxiety during high-stakes assessments](connectivity-problems-assessment-anxiety-remote.md) — related

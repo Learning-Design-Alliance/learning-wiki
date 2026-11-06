@@ -72,3 +72,4 @@ Same subgroup analysis: readiness improved in both sectors, with smaller statist
 - [Significant improvements in confidence, performance, management, communication, anxiety and knowledge scores were reported following ISS, but four controlled comparisons found no significant difference versus control or comparison training](iss-ntos-outcomes-mixed-controlled-comparisons.md) — related
 - [Post-intervention self-reported state anxiety (STAI) did not significantly differ between the simulation-intervention and control groups](stai-no-difference-post-simulation.md) — related
 - [State anxiety measured before the OSCE decreased after completing the test in both cohorts, suggesting exam-related rather than persistent anxiety](state-anxiety-decreases-after-osce.md) — related
+- [A 30-minute pre-OSCE HPOT session of relaxation, breathing and positive reinforcement significantly reduces medical students' pre-exam anxiety](hpot-reduces-pre-osce-anxiety.md) — related

@@ -23,7 +23,7 @@ EduBehaviors is an interpretable annotation framework in which researchers write
 
 ### Claims
 
-- [EduBehaviors achieves 0.673 macro-F1 and 0.688 Cohen's kappa on Teacher TalkMoves, generally improving over direct LLM prompting](../claims/edubehaviors-matches-direct-llm-prompting-talkmoves.md) [+M]
+- [EduBehaviors achieves 0.764 macro-F1 and 0.756 Cohen's kappa on Teacher TalkMoves, improving over direct LLM prompting](../claims/edubehaviors-matches-direct-llm-prompting-talkmoves.md) [+M]
 - [Adding a cross-model agreement filter improves performance for the top three LLM annotators](../claims/cross-model-agreement-filter-improves-top-annotators.md) [+M]
 - [Adding regex-based rules to few-shot LLM labeling improves agreement with human annotation (0.818 to 0.852 overall)](../claims/regex-rules-improve-fewshot-llm-labeling-accuracy.md) [+W]
 

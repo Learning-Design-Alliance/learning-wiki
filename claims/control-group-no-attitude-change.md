@@ -47,7 +47,7 @@ Repeated-measures ANOVA on the 30-student control group taught only per the Scie
 ## Related Claims
 - [Within the experimental group, attitudes rose significantly from pretest to posttest and monitoring test, and the gain held between posttest and monitoring test](experimental-group-within-group-attitude-increase.md) — related
 - [Descriptive gains show the experimental group's attitude change exceeded the control group's, and pretesting had no effect on the intervention](pi-attitude-gain-pretesting-null.md) — related
-- [Students taught Structure of the Atom and the Periodic Table with Programmed Instruction obtained significantly higher attitude mean scores than control groups taught conventionally](pi-higher-posttest-attitude-sapt.md) — related
+- [Students taught Structure of the Atom and the Periodic Table with Programmed Instruction obtained higher attitude mean scores than control groups taught conventionally, in a significant four-group ANOVA with no pairwise tests](pi-higher-posttest-attitude-sapt.md) — related
 - [Post-test environmental attitudes did not differ significantly between experimental and control groups in the ANCOVA](posttest-eas-ancova-no-significant-difference.md) — related
 - [Including out-of-school learning environments in 6th-grade science instruction produces significantly higher attitudes toward the science course than curriculum-only instruction at posttest](out-of-school-environments-raise-science-attitudes-posttest.md) — related
 - [Control group showed no significant pretest-to-posttest change except a decline in attitude toward the internet](control-group-within-group-null-results.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Executive function partially mediates the link between family SES and middle-school academic achievement
-description: Executive function partially mediates the link between family SES and middle-school academic achievement
+title: A review reports that executive function mediates the link between family SES and middle-school academic achievement
+description: A review reports that executive function mediates the link between family SES and middle-school academic achievement
 id: ef-mediation-ses-achievement
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2023
+source_checked: 2026-11-06
 sources:
   - id: madeline-b-harms-and-sherona-d-garrett-ruffin-2023
     resource: "https://doi.org/10.1038/s41539-023-00199-2"
@@ -20,11 +21,11 @@ sources:
     rigour: 2
 ---
 
-# Executive function partially mediates the link between family SES and middle-school academic achievement
+# A review reports that executive function mediates the link between family SES and middle-school academic achievement
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Executive function has been shown to mediate the link between family SES in elementary school and middle school academic performance. [→ Madeline B. Harms and Sherona D. Garrett-Ruffin 2023](#madeline-b-harms-and-sherona-d-garrett-ruffin-2023)

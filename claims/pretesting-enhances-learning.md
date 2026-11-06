@@ -42,7 +42,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 3 studies · 2 causal `r1`, 1 review `r3` · `q3` · `i2`–`i3`
-> **Currency** · newest study 2023 · 1 of 3 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
 
 Attempting to answer questions about material before it has been taught — even when those attempts fail — improves later retention of that material relative to studying for the same time without a pretest, provided the attempt is followed by the answer or the instruction. The two multi-experiment laboratory studies recorded here (undergraduates; expository text, fictional trivia and word pairs) test retention, not transfer.
 <!-- deprecated wording (2026-10-05, overstated its evidence): ...improves retention and transfer of that material relative to studying without a pretest. --> The claim covers pre-instruction testing on *not-yet-learned* material; it is distinct from retrieval practice on already-learned material.
@@ -183,7 +183,7 @@ Narrative review of Richland et al. (2009), in which participants attempted five
 - [Learners fail to recognize the benefits of pre-instruction testing, ranking it as least effective despite benefiting from it](metacognitive-illusion-pretesting-underrated.md) — a narrower finding that bears on this claim
 - [Pre-instruction testing enhances memory for directly tested video content, with benefits shown for videos from 5 to 30 minutes](pretesting-enhances-memory-tested-video.md) — a narrower finding that bears on this claim
 - [Effects of pre-instruction testing on untested but studied materials are highly inconsistent across experiments and materials](pretesting-untested-materials-inconsistent.md) — related
-- [Pretesting benefits for paired associates depend on semantic association between pair members, with cued-recall benefits absent for unrelated pairs](semantic-association-moderates-pretesting.md) — a narrower finding that bears on this claim
+- [Pretesting benefits for paired associates depend on semantic association between pair members, with cued-recall benefits typically not observed for unrelated pairs](semantic-association-moderates-pretesting.md) — a narrower finding that bears on this claim
 - [Practicing retrieval of some portions of an educational text can enhance retention of related nontested portions (retrieval-induced facilitation), but not when relational encoding is disrupted](retrieval-induced-facilitation-of-nontested-text-material-requires-relational-encoding.md) — related
 - [Questions interpolated between video lecture segments improve subsequent test performance and reduce mind wandering](interpolated-questions-improve-video-learning.md) — related
 - [Multiple-choice testing improves later cued recall of prose facts, a benefit that persists though reduced after a one-week delay](mc-testing-prose-cued-recall-benefit.md) — related

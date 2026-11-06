@@ -49,7 +49,7 @@ The article reports this gender comparison in its abstract without printing test
 - [Gender](../learner-variables/gender.md) — moderator: an instructional effect differs by group
 
 ## Related Claims
-- [Female students show broader post-workshop gains than males, including significant increases in AI and computer science career interest, while male career interest remains unchanged](females-broader-gains-career-interest-narrow-gap.md) — reports the opposite
+- [Female students show broader post-workshop gains than males, including significant increases in AI and computer science career interest, while males show no statistically significant change in career interest](females-broader-gains-career-interest-narrow-gap.md) — reports the opposite
 - [Both male and female students rated their AI knowledge and confidence significantly higher after a one-day AI literacy workshop, which had no comparison group](both-genders-gain-ai-knowledge-confidence-workshop.md) — related
 - [After gamified security training, female students gave more positive confidence and format-preference ratings than male students (descriptive survey percentages, no inferential test)](gender-differences-gamified-security-training.md) — related
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related

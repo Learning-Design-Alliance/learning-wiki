@@ -28,6 +28,8 @@ A validated behavioral taxonomy and rating framework for assessing surgical lead
 ## Related Products and Programmes
 
 - [Validated error-assessment scoring tools for microsurgical training (ALI, MARS10, OSATS, GRS)](validated-error-assessment-scoring-tools-for-microsurgical-training-ali-mars10-osats-grs.md)
+- [Scrub Practitioner's List of Intraoperative Non-Technical Skills (SPLINTS)](scrub-practitioners-list-of-intraoperative-non-technical-skills-splints.md)
+- [Teamwork Evaluation of Non-Technical Skills (TENTS) instrument](teamwork-evaluation-of-non-technical-skills-tents-instrument.md)
 
 ## Key Sources
 - Gulnaz Nadia, Soomro Faiza Hashim, Nazir Izza, Ansar Mehwish, Arshad Rabia. (2026). From operating room to leadership room: a systematic review of simulation-based interventions for leadership development in general surgery. BMC Medical Education. https://doi.org/10.1186/s12909-026-09486-z

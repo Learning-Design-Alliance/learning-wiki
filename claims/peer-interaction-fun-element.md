@@ -66,3 +66,5 @@ Focus group thematic analysis (N = 12 students): a shy student described friends
 - [Teachers reported that cross-age peer tutoring improved peer relationships and social interaction between year groups](peer-tutoring-improved-cross-year-group-relationships.md) — related
 - [Adult family members of included children reported improved expectations, family activities, and social outcomes, with 71% reporting regular best-friend play and visitation](family-quality-of-life-inclusive-placement.md) — related
 - [Students’ emotional experience of SGLM was mixed: most found it enjoyable while about half reported initial stress and tension](sglm-mixed-enjoyment-and-stress.md) — related
+- [Perceived academic support significantly moderated the negative link between perceived stress and academic performance in Chinese LGBTQ+ college students, but the paper's own slopes show the link was stronger, not weaker, at high support](academic-support-buffers-stress-performance.md) — related
+- [Proactive coping moderates (buffers) the negative relationship between perceived stress and psychological well-being](proactive-coping-buffers-stress-wellbeing.md) — related

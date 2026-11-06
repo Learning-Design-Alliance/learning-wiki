@@ -9,6 +9,7 @@ generated:
   at: 2026-10-22
 evidence_strength: weak
 newest_evidence: 2023
+source_checked: 2026-11-06
 sources:
   - id: fiorella-2023
     resource: "https://doi.org/10.1007/s10648-023-09769-7"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q1 i?` The review identifies insufficient background knowledge or available working memory capacity as cognitive barriers that prevent learners from engaging in GLAs effectively. [→ Fiorella 2023](#fiorella-2023)
+`q1 i?` The review identifies insufficient background knowledge or available working memory capacity as potential cognitive barriers that may impede learners from engaging in GLAs effectively. [→ Fiorella 2023](#fiorella-2023)
 
 ## Evidence
 

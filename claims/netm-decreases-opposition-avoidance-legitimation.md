@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: tümsek-gizem-solmaz-and-akmeşe-zehra-baykal-2026
     resource: "https://doi.org/10.3389/fpubh.2026.1808239"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Mean scores for Vaccine Opposition (22.58 ± 5.44 to 15.54 ± 5.68), Strategies to Avoid Vaccination (18.06 ± 5.04 to 12.62 ± 5.47), and Legitimation of Hesitancy (15.12 ± 5.23 to 10.96 ± 4.89) all decreased significantly (p < 0.001). [→ Tümsek Gizem Solmaz and Akmeşe Zehra Baykal 2026](#tumsek-gizem-solmaz-and-akmese-zehra-baykal-2026)
@@ -37,7 +38,7 @@ Tümsek Gizem Solmaz and Akmeşe Zehra Baykal. (2026). Reducing parents’ vacci
 
 `q2 · i?` · `causal · r1`
 
-Paired samples t-tests in the same 50-parent NICU sample (t-values −5.784, −5.210, −3.933; all p < 0.001). The study reports these three negative-attitude subscales "decreased" significantly, "reflect[ing] a consistent decline in negative attitudes and avoidance-related behaviors". No standardized effect sizes printed.
+Paired samples t-tests in the same 50-parent NICU sample (t-values −5.784, −5.210, −3.933; all p < 0.001). The study reports these three negative-attitude subscales of a self-report attitude scale (VOS) "decreased" significantly. The scores are self-rated attitudes, not observed behaviour: the authors note the study "focused on attitudinal outcomes and did not assess actual vaccination behavior", so a lower "Strategies to Avoid Vaccination" score does not establish less avoidance in practice. No standardized effect sizes printed.
 
 > "mean scores for “Vaccine Opposition” decreased from 22.58 ± 5.44 to 15.54 ± 5.68, “Strategies to Avoid Vaccination” decreased from 18.06 ± 5.04 to 12.62 ± 5.47, and “Legitimation of Hesitancy” decreased from 15.12 ± 5.23 to 10.96 ± 4.89."
 

@@ -52,3 +52,4 @@ Pre/post questionnaire comparison in the study of 179 Tunisian medical students;
 - [State anxiety measured before the OSCE decreased after completing the test in both cohorts, suggesting exam-related rather than persistent anxiety](state-anxiety-decreases-after-osce.md) — related
 - [VR-based anatomy teaching moderately improves learners' examination scores compared with traditional or 2D digital methods](vr-anatomy-teaching-improves-test-scores.md) — related
 - [Students strongly agree that VR anatomy training enhances memorization and learning efficiency](vr-anatomy-training-enhances-memorization-agreement.md) — related
+- [A 30-minute pre-OSCE HPOT session of relaxation, breathing and positive reinforcement significantly reduces medical students' pre-exam anxiety](hpot-reduces-pre-osce-anxiety.md) — related

@@ -23,7 +23,7 @@ A 20-question, non-validated objective test developed by nuclear medicine educat
 
 ### Claims
 
-- [Pre-course test reveals high factual recall but insufficient clinical application ability under traditional teaching](../claims/pre-course-test-reveals-application-deficit-traditional-teaching.md) [+W]
+- [On a pre-course test, residency trainees in a nuclear medicine course scored above 90% on some conceptual items but below 65% on several treatment-application items, with wide variation across items](../claims/pre-course-test-reveals-application-deficit-traditional-teaching.md) [+W]
 - [Correct-response rates rose on most, but not all, concept and application items after a flipped classroom combined with CBL, in an uncontrolled pre-post comparison](../claims/flipped-classroom-cbl-improves-concept-and-application-questions.md) [+W]
 
 ## Related Products and Programmes

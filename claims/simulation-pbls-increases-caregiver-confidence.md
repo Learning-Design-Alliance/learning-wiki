@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: kocyigit-s-2026
     resource: "https://doi.org/10.1186/s12909-026-09158-y"
@@ -32,11 +33,11 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 > **Design limits** · Kocyigit S 2026: no comparison group (read from the study by two models, 2026-11-05)
 
 ## Subclaims
-`q2 i?` Participants reported high satisfaction, with questionnaire domain mean scores exceeding 4.7 out of 5. [→ Kocyigit S 2026](#kocyigit-s-2026)
+`q2 i?` Participants reported high satisfaction, with questionnaire domain mean scores of 4.7 or higher out of 5 (the "Effectiveness of methods and strategies" domain was exactly 4.7; the article summarises the results as exceeding 4.7). [→ Kocyigit S 2026](#kocyigit-s-2026)
 `q2 i?` Participants gained confidence and developed skills, with the skills-and-confidence domain scoring a mean of 5. [→ Kocyigit S 2026 (2)](#kocyigit-s-2026-2)
 
 ## Evidence
@@ -47,7 +48,7 @@ Kocyigit S, Akgun-Dogan O, Hatirnaz Ng O, Alanay Y, Guven F. (2026). Pilot study
 
 `q2 · i?` · `causal · r1`
 
-13-item paper-based questionnaire adapted from validated international tools, using 5-point Likert-scale items across six domains, completed by the ten caregivers. All domain means exceeded 4.7.
+13-item paper-based questionnaire adapted from validated international tools, using 5-point Likert-scale items across six domains, completed by the ten caregivers. Every domain mean was 4.7 or higher (4.77 to 5); the "Effectiveness of methods and strategies" item was exactly 4.7, so the article's summary that the means "exceeded 4.7" is slightly loose.
 
 > "Table 4 shows training assessment questionnaire results, where the mean scores exceeded 4.7 out of 5."
 
@@ -70,7 +71,7 @@ Questionnaire domain on skill and confidence development in the same ten-caregiv
 - [A simulated oncology MDT case-based learning session significantly improved trainee confidence, with a mean increase of 2 points on a 10-point scale (p < 0.01)](simulated-mdt-cbl-improves-trainee-confidence.md) — related
 - [Undergraduate dental students report high satisfaction and self-confidence in simulation-based clinical decision-making training using LLM-based standardized virtual patients](dental-students-high-satisfaction-llm-virtual-patients.md) — related
 - [The proportion of successful attempts on key PBLS actions rose significantly from pre-test to post-test after training, in one uncontrolled pre-post study](simulation-pbls-increases-successful-attempts.md) — related
-- [In a randomised trial of 80 first-year postgraduate oncology trainees, CBL produced significantly higher examination scores and satisfaction than traditional lecture-based learning, though confidence intervals crossed the null for examination results](bi-rct-cbl-higher-posttest-scores-satisfaction.md) — related
+- [In a randomised trial of 80 first-year postgraduate oncology trainees, a CBL group that also had PowerPoint teaching reported significantly higher examination scores and satisfaction than lecture-based teaching, though confidence intervals crossed the null for examination results](bi-rct-cbl-higher-posttest-scores-satisfaction.md) — related
 - [Final-year clinical medicine interns report high acceptance of the Mini-CEX-based four-stage virtual simulation teaching model, with all experience-item means exceeding 7.1 on a 10-point scale](high-student-acceptance-minicex-four-stage-virtual-simulation.md) — related
 - [PA-PBL participants rated all four feedback questionnaire domains above 4.7 on a 5-point scale](pa-pbl-high-satisfaction-reaction-level.md) — related
 - [Caregivers reported high satisfaction with the simulation-based training, and all responding users felt confident using the new device afterwards](high-satisfaction-simulation-device-training.md) — related

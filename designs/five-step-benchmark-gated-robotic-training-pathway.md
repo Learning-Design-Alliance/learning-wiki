@@ -43,7 +43,8 @@ The article describes a structured, sequential training pathway for surgical tra
 - [43 Live Console Operations No Adverse Events](../claims/43-live-console-operations-no-adverse-events.md) [+M]
 
 ## Related Designs
-- 
+
+- [Intuitive Surgical certification pathway for adopting RATS surgeons](intuitive-surgical-certification-pathway-rats.md)
 
 ## Examples
 -

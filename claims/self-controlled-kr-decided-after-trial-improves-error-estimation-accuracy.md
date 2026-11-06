@@ -46,7 +46,7 @@ Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedba
 
 `q3 · i? · partial η² only, no standardised mean difference` · `causal · r1`
 
-Laboratory experiment in which university volunteers learned a slider-positioning task under six knowledge-of-results (KR) conditions; participants estimated each outcome in retention, scored as absolute difference (AD). Self-After and Self-Both "were significantly more accurate in their subjective performance evaluations than the Self-Before group".
+Laboratory experiment in which 48 volunteers (mean age 21.35 years) learned a slider-positioning task under six knowledge-of-results (KR) conditions; participants estimated each outcome in retention, scored as absolute difference (AD). Self-After and Self-Both "were significantly more accurate in their subjective performance evaluations than the Self-Before group".
 
 > "The main effects for Choice and Decision in retention were superseded by a significant interaction, F(2,42) = 7.19, p= 0.002, ηp2 = 0.26, which revealed that both the Self-After (M = 10.44, SE = 1.40) and the Self-Both (M = 13.80, SE = 2.59) groups were significantly more accurate in their subjective performance evaluations than the Self-Before group (M = 27.01, SE = 3.52)."
 

@@ -51,3 +51,6 @@ Authors' interpretation of the randomized trial's primary outcome, consistent wi
 - [The performance advantage of handheld practice appears across all five modified OSAUS subdomains](osaus-subdomain-advantage-handheld-practice.md) — related
 - [One-time educational interventions show transient effects, with knowledge and performance declining within months of initial training](one-time-education-transient-effects-infection-control.md) — related
 - [OSCE skill levels declined over time in both groups, while the intervention group maintained comparatively higher skill levels at 6 months](osce-skills-declined-over-time-both-groups.md) — related
+- [A tailored three-month POCUS program brought office-based GPs to 68.9%–82.3% of maximum OSAUS score across 10 applications at program end](gp-osaus-competence-post-course-tailored-program.md) — related
+- [Lowest OSAUS item scores concerned technical performance (applied knowledge, image optimization, systematic examination), yet all seven items improved significantly at follow-up](osaus-item-scores-technical-items-lowest.md) — related
+- [OSAUS sum scores increased for all POCUS applications at three-month follow-up, with Cohen's d representing a medium or large effect size](osaus-sum-score-increase-follow-up.md) — related

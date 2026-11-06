@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Students taught Structure of the Atom and the Periodic Table with Programmed Instruction obtained significantly higher attitude mean scores than control groups taught conventionally
-description: Students taught Structure of the Atom and the Periodic Table with Programmed Instruction obtained significantly higher attitude mean scores than control groups taught conventionally
+title: Students taught Structure of the Atom and the Periodic Table with Programmed Instruction obtained higher attitude mean scores than control groups taught conventionally, in a significant four-group ANOVA with no pairwise tests
+description: Students taught Structure of the Atom and the Periodic Table with Programmed Instruction obtained higher attitude mean scores than control groups taught conventionally, in a significant four-group ANOVA with no pairwise tests
 id: pi-higher-posttest-attitude-sapt
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2015
+source_checked: 2026-11-06
 sources:
   - id: m-j-wangila-2015
     resource: "https://eric.ed.gov/?id=EJ1086551"
@@ -20,14 +21,14 @@ sources:
     rigour: 2
 ---
 
-# Students taught Structure of the Atom and the Periodic Table with Programmed Instruction obtained significantly higher attitude mean scores than control groups taught conventionally
+# Students taught Structure of the Atom and the Periodic Table with Programmed Instruction obtained higher attitude mean scores than control groups taught conventionally, in a significant four-group ANOVA with no pairwise tests
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
-> **Currency** · newest study 2015 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2015 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` In the post-test, attitude mean scores differed significantly across the four groups, with the PI experimental groups (E1 and E2) scoring higher than the conventional control groups (C1 and C2). [→ M. J. Wangila 2015](#m-j-wangila-2015)
+`q2 i?` In the post-test, attitude mean scores differed significantly across the four groups, with the PI experimental groups (E1 = 74.26, E2 = 73.14) having higher descriptive means than the conventional control groups (C1 = 56.82, C2 = 58.69); no post-hoc or pairwise tests are reported. [→ M. J. Wangila 2015](#m-j-wangila-2015)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ M. J. Wangila, W. Martin, M. Ronald. (2015). Effect of Programmed Instruction on
 
 `q2 · i?` · `causal · r2`
 
-One-way ANOVA on post-test SADQ attitude scores of all 300 students in the four Solomon four-group conditions (E1, E2, C1, C2), computed from the descriptive means and standard deviations in Table 4. The article reports "a statistically significant difference in attitude mean scor es between the four groups". No effect size is printed.
+One-way ANOVA on post-test SADQ attitude scores of all 300 students in the four Solomon four-group conditions (E1, E2, C1, C2), computed from the descriptive means and standard deviations in Table 4. The article reports "a statistically significant difference in attitude mean scor es between the four groups"; the PI groups' means (E1 74.26, E2 73.14) exceed the control groups' (C1 56.82, C2 58.69), but no post-hoc or pairwise comparison is reported, so the omnibus test does not establish that each PI group differs significantly from each control group. No effect size is printed.
 
 > "The results further indicate that in the post -test, there was a statistically significant difference in attitude mean scor es between the four groups [F (3, 296) = 15.661, p < 0.001 at α = 0.05]."
 

@@ -49,3 +49,4 @@ fNIRS hyperscanning during interactive sessions found scaffolding coupling in fi
 - [Child-instructor neural synchrony did not directly correlate with children's word-learning outcomes](no-synchrony-learning-outcome-correlation.md) — related
 - [Scaffolding storytelling yields better novel word learning than passive story-listening in first-grade children during in-person sessions](scaffolding-storytelling-better-word-learning-in-person.md) — related
 - [The scaffolding word-learning advantage disappears in remote (online) learning sessions](scaffolding-advantage-disappears-remote.md) — related
+- [During lecturing in blended teaching, teacher TPJ activity preceded student MFC activity by 8–10 s in time-lagged teacher–student neural synchronization](teacher-student-time-lagged-synchronization-tpj-mfc.md) — related

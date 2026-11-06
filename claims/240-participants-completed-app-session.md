@@ -87,3 +87,4 @@ Age distribution of the 240 completers spans 11-80 years; the largest group is "
 - [Student personal and educational characteristics (gender, age, grade, GPA, courses taken, SAE type) were descriptively profiled for the 102 participants in the two groups](participant-characteristics-oklahoma-animal-science-students.md) — related
 - [Cluster analysis identified two student phenotypes differing in satisfaction, modality, gender and age](two-student-phenotypes-pbl-satisfaction.md) — related
 - [The participant pool spans many health care professions, led by nurses (31.3%) and including nonclinical personnel](professionally-diverse-completer-sample.md) — related
+- [Graduates were predominantly female (84.87%) and mostly nurses (58.16%)](graduate-demographics-female-nurse-predominance.md) — related

@@ -43,6 +43,7 @@ The article's third design consideration states that automated feedback can supp
 ## Related Strategies
 
 - [Distinguish the purposes and scales of coexisting feedback sources in educational gig platforms](distinguish-feedback-types-multisource-gig-platforms.md)
+- [Replace broad Likert-scale patient ratings with goal-directed questions and multisource (360°) feedback structures](goal-directed-patient-questions-360-feedback.md)
 
 ## Examples
 -

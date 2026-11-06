@@ -51,3 +51,4 @@ Individually randomised controlled trial of 205 pupils from 10 secondary schools
 - [Higher attendance at the 20-minute daily coaching sessions was associated with a positive impact on reading comprehension, significant only for secondary-school sessions](textnow-attendance-dosage-effect.md) — related
 - [The programme appeared more effective when coaches were highly trained, enthusiastic and committed and when secondary schools worked closely with feeder primaries](textnow-implementation-facilitators.md) — related
 - [Programme effects on reading comprehension did not differ significantly between FSM-eligible and non-FSM pupils](sarp-fsm-subgroup-attainment.md) — related
+- [Individual remediation programs benefited reading while small groups of roughly 2-5 students benefited mathematics](group-size-individual-reading-small-group-math.md) — related

@@ -49,3 +49,6 @@ Spearman rank-order correlation analysis in the same cross-sectional survey (n =
 - [Demographic and professional characteristics showed no statistically significant associations with PCC competency scores](no-demographic-associations-pcc-competency.md) — related
 - [Nurses who received patient rights education demonstrated significantly higher PCC competency scores](patient-rights-education-higher-pcc-competency.md) — related
 - [Patient values and choices and benefit-not-harming show the strongest associations with PCC competency; providing fair care the weakest](strongest-ethical-dimensions-pcc-values-benefit.md) — related
+- [Students' Ethics and Professional Responsibility competence shows moderate correlations with patients' Assurance and Interpersonal Relationships](ethics-competence-moderate-correlations-patient-trust.md) — related
+- [Nursing students rate their overall competence slightly below the scale midpoint while patients rate the care received well below its midpoint, suggesting a perceptual gap](student-competence-patient-care-perceptual-gap.md) — related
+- [Total competence score correlates strongly with total care perception (r = 0.812), with Assurance and Interpersonal Relationships showing the strongest subscale correlations](total-competence-total-care-perception-correlation.md) — related

@@ -60,3 +60,4 @@ Post-intervention five-point Likert questionnaire completed by all 56 FC partici
 - [Students in the flipped histology course reported positive experiences, high ratings of stimulation and engagement, and unanimous willingness to take further flipped courses](positive-student-experience-flipped-histology.md) — related
 - [Trainees perceived the flipped classroom combined with BOPPPS model as scientific and worthy of promotion](flipped-boppps-trainee-perceptions-positive.md) — related
 - [Students in both the flipped classroom and jigsaw groups reported high satisfaction and preferred these active methods over lecture-based teaching](high-satisfaction-fc-and-jigsaw.md) — related
+- [EIL raises students' active-learning ratings without increasing their perceived academic burden](eil-active-learning-no-added-burden.md) — related

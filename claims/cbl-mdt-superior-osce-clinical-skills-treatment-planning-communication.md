@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: zhang-simin-2026
     resource: "https://doi.org/10.1186/s12909-026-09212-9"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Experimental group students outperformed controls on total OSCE scores and in history taking, diagnostic test interpretation, treatment planning, and doctor-patient communication subdomains, with no significant difference in physical examination. [→ Zhang Simin 2026](#zhang-simin-2026)
@@ -37,7 +38,7 @@ Zhang Simin, Li Jiao, Deng Cui, Zheng Sheng. (2026). CBL combined with MDT mode 
 
 `q3 · i?` · `causal · r3`
 
-OSCE with five blinded stations, three independent assessors per student, in the randomized trial of 112 students. Experimental group outperformed controls in four subdomains; physical examination did not differ significantly between groups.
+OSCE with five standardized stations, rated independently by three assessors per student who were blinded to group allocation, in the randomized trial of 112 students. Experimental group outperformed controls in four subdomains; physical examination did not differ significantly between groups.
 
 > "Subdomain analysis revealed that experimental group students outperformed controls in history taking (17.82 ± 1.56 vs. 16.94 ± 1.78, t = 2.43, P = 0.017), diagnostic test interpretation (17.65 ± 1.72 vs. 16.51 ± 1.93, t = 2.57, P = 0.012), treatment planning (17.93 ± 1.48 vs. 16.32 ± 1.85, t = 3.25, P = 0.002), and doctor-patient communication (17.58 ± 1.63 vs. 16.21 ± 1.89, t = 2.71, P = 0.008). Physical examination scores did not differ significantly between groups (P > 0.05)."
 
@@ -55,7 +56,7 @@ OSCE with five blinded stations, three independent assessors per student, in the
 - [AI-assisted PBL-CBL combined teaching yields higher Mini-CEX scores than lecture-based teaching in interviewing, physical examination, clinical judgment and communication, with no statistically significant difference in humanistic qualities/professionalism or organization/efficiency](ai-pbl-cbl-improves-mini-cex-clinical-reasoning-domains.md) — related
 - [Feedback-oriented and interactive instructional methods are associated with improvements in clinical reasoning, procedural skills, and learner confidence in orthodontic postgraduate education](feedback-oriented-interactive-methods-improve-orthodontic-clinical-competence.md) — related
 - [Simulation training across medical and surgical scenarios yields significantly higher OSCE scores than didactic lectures across two year groups](simulation-higher-osce-scores-zhang.md) — related
-- [Peer role-play and peer assessment improve non-technical clinical competencies (doctor-patient communication, humanistic care, preoperative preparation) with a large effect for communication skills](peer-roleplay-improves-nontechnical-clinical-competencies.md) — related
+- [In a comparison of two consecutive cohorts, adding peer role-play and peer assessment was associated with higher scores on non-technical clinical competencies (doctor-patient communication, humanistic care, preoperative preparation)](peer-roleplay-improves-nontechnical-clinical-competencies.md) — related
 - [A hybrid CBL-SST-simulator model produces significantly higher doctor-patient communication scores than lecture-based learning on the SEGUE Framework](hybrid-cbl-sst-higher-segue-communication-than-lbl.md) — related
 - [Interns' teaching-model preference shifted significantly toward MDT-CBL from pre-test to post-test within the experimental group, with 65.6% preferring it post-test](mdt-cbl-preference-shift-significant.md) — related
 - [WBLP students report significantly better teacher–student interaction, patient–doctor communication, and humanistic care perceptions](wblp-better-interaction-communication-humanistic-care-ratings.md) — related
@@ -69,3 +70,4 @@ OSCE with five blinded stations, three independent assessors per student, in the
 - [Most respondents perceived judging RCT indications in the clinic as more intricate and doctor–patient communication as diverging from academic instruction](clinic-indications-communication-more-intricate.md) — related
 - [Stakeholders preferred integrated case-study teaching of medical conditions over compartmentalised module-by-module content](integrated-case-study-module-design-cep.md) — related
 - [Communication between participants improved markedly in the simulation group](simulation-improved-team-communication.md) — related
+- [Scaffolded case-based learning yields higher clinical reasoning proficiency than lecture-based teaching with the same case at Week 4 in anesthesiology residents](scaffolded-cbd-clinical-reasoning-week4.md) — related

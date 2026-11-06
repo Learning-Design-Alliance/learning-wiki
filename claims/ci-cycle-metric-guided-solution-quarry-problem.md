@@ -32,7 +32,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r1`–`r2` · `q2`
-> **Currency** · newest study 2013 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2013 · not yet checked against its sources · not reviewed by a person
 
 ## Subclaims
 `q2 i?` The process was administered separately to a sophomore class of 23 engineering physics students and a class of 7 graduate physics students. [→ Kowalski 2013](#kowalski-2013)

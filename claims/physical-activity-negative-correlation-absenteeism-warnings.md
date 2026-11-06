@@ -70,3 +70,4 @@ Same cross-sectional correlational analysis of 401 students; IPAQ activity versu
 - [Higher physical activity is strongly positively correlated with GPA while worse sleep quality is moderately negatively correlated](pa-sleep-gpa-bivariate-correlations.md) — related
 - [School-based physical activity shows no significant effect on reading comprehension achievement](school-based-physical-activity-no-effect-reading-comprehension.md) — related
 - [BMI is negatively correlated with physical activity level among health sciences students](bmi-negatively-correlated-physical-activity-students.md) — related
+- [Higher BMI and extensive physical activity (2 h or more per day) are independently negatively associated with academic achievement](bmi-and-extensive-physical-activity-negative-factors-gpa.md) — related

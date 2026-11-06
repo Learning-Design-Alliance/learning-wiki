@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-05
 sources:
   - id: ferrari-de-castro-mario-augusto-dedivitis-rogério-aparecido-mendes-de-matos-fátima-cristina-nakai-marianne-yumi-de-matos-leandro-luongo-kulcsar-marco-aurélio-vamondes-chone-carlos-takahiro-kowalski-luiz-paulo-ferreira-da-silva-julia-fonseca-kuroiwa-thiago-yuuki-2026
     resource: "https://doi.org/10.1016/j.bjorl.2026.101875"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-05 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` During the initial Delphi phase, 12 of the 22 potential competencies received unanimous endorsement while 10 required revisions based on expert feedback. [→ Ferrari de Castro Mario Augusto; Dedivitis Rogério Aparecido; Mendes de Matos Fátima Cristina; Nakai Marianne Yumi; de Matos Leandro Luongo; Kulcsar Marco Aurélio Vamondes; Chone Carlos Takahiro; Kowalski Luiz Paulo; Ferreira da Silva Julia Fonseca; Kuroiwa Thiago Yuuki 2026](#ferrari-de-castro-mario-augusto-dedivitis-rogerio-aparecido-mendes-de-matos-fatima-cristina-nakai-marianne-yumi-de-matos-leandro-luongo-kulcsar-marco-aurelio-vamondes-chone-carlos-takahiro-kowalski-luiz-paulo-ferreira-da-silva-julia-fonseca-kuroiwa-thiago-yuuki-2026)

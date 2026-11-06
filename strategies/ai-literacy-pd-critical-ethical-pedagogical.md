@@ -38,7 +38,7 @@ The article recommends that institutions conceptualize AI literacy development a
 
 ## Claims
 
-- [Faculty concerns centered on academic integrity (80%) and student over-reliance on AI (70%), and their most requested development topic was AI ethics and academic integrity (70%)](../claims/faculty-ai-concerns-integrity-ethics-training-demand.md) [+W]
+- [Faculty concerns centered on academic integrity (80%) and over-reliance on AI by students or faculty (70%), and their most requested development topic was AI ethics and academic integrity (70%)](../claims/faculty-ai-concerns-integrity-ethics-training-demand.md) [+W]
 
 ## Related Strategies
 

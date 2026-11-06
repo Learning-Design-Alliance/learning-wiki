@@ -9,6 +9,7 @@ generated:
   at: 2026-10-26
 evidence_strength: moderate
 newest_evidence: 2023
+source_checked: 2026-11-06
 sources:
   - id: hanna-dumont-and-douglas-d-ready-2023
     resource: "https://doi.org/10.1038/s41539-023-00174-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q2`
-> **Currency** · newest study 2023 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2023 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In one personalized learning system implementation requiring considerable autonomy, low-performing students learned less than high-performing peers even though each student received academic content appropriate for their skill level. [→ Hanna Dumont and Douglas D. Ready 2023](#hanna-dumont-and-douglas-d-ready-2023)
@@ -37,7 +38,7 @@ Hanna Dumont and Douglas D. Ready. (2023). On the promise of personalized learni
 
 `q2 · i?` · `theoretical · r3`
 
-The review reports a study (Nitkin et al.) of a personalized learning system implementation: low-performing students "learned less than their high-performing peers" despite receiving content "just right" for their skill level, because the system assumed high student self-regulation.
+A Perspective article (not a systematic review) that synthesizes theoretical and empirical work; it cites a study by Nitkin et al. of a personalized learning system implementation, which the wiki has not read directly: low-performing students "learned less than their high-performing peers" despite receiving content "just right" for their skill level, because the system assumed high student self-regulation.
 
 > "In the implementation of one personalized learning system that required considerable student autonomy and assumed a high degree of student self-regulation, low-performing students learned less than their high-performing peers, despite the fact that each student had in fact received academic content “just right ” for their skill level"
 

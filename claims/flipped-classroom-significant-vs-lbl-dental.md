@@ -63,3 +63,4 @@ Subgroup analysis by teaching method (Figure 3B) across the 29 included RCTs; FC
 - [Students rated OSCEai favourably compared to lecture-based teaching methods (4.14/5, P < 0.0001)](osceai-favoured-over-lecture-teaching.md) — related
 - [Undergraduate medical students taught acute coronary syndrome with combined PBL, MDT, and flipped classroom methods scored higher on a theoretical exam than students taught by traditional didactic lectures](pbl-mdt-flipped-higher-theoretical-exam-scores-acs.md) — a narrower finding that bears on this claim
 - [Live demonstrations yield higher postdemonstration knowledge than prerecorded video demonstrations in first-year dental students learning a class II amalgam restoration](live-demo-beats-video-demo-postknowledge-dental.md) — related
+- [Students taught with SPOC+EIL score higher on the dental adhesion operation test than LBL students](spoc-eil-operation-test-higher.md) — a narrower finding that bears on this claim

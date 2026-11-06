@@ -49,6 +49,6 @@ Narrative literature review attributing this pattern to cited studies; the revie
 
 ## Related Claims
 - [L2 proficiency positively predicts L2 incidental vocabulary acquisition through reading](l2-proficiency-predicts-incidental-vocabulary-acquisition.md) — related
-- [L2 proficiency, anxiety, and mastery of strategies jointly explain 18% of variance in incidental vocabulary acquisition](learner-factors-model-18-percent-variance.md) — related
+- [A four-predictor model of L2 proficiency, anxiety, strategy mastery and motivation explains 18% of variance in incidental vocabulary acquisition](learner-factors-model-18-percent-variance.md) — related
 - [Higher L2 reading proficiency, motivation, and involvement load are associated with larger incidental vocabulary gains](proficiency-motivation-involvement-gains.md) — related
 - [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — related

@@ -46,6 +46,7 @@ The article's practical implications recommend that instructors actively foster 
 - [Embed SRL-oriented AIGC pedagogy: prompt-and-reflect routines, verification rubrics, and feedback literacy](srl-oriented-aigc-pedagogy-routines.md)
 - [Comprehensive integration approach: experiential teacher learning, iterative design, context-specific tool adaptation, and anxiety mitigation](ai-efl-integration-challenges-strategy.md)
 - [Embed autonomy-supportive, mastery-oriented teaching, developmental advising, and problem-centred pedagogy to strengthen motivation, satisfaction, and successful intelligence](autonomy-supportive-problem-centred-sustainability-pedagogy.md)
+- [Avoid excessively ambitious mastery-goal demands in language learning and prioritize understanding and skill development](moderate-mastery-demands-language-strategy.md)
 
 ## Examples
 -

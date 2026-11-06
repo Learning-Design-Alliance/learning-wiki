@@ -53,3 +53,4 @@ Descriptive analysis of 5-point Likert responses from the mandatory postcourse s
 - [Students rated all student-facing design principles positively, with formative assessment and learning content rated highest (above 6 on a 7-point scale)](design-principles-rated-positively-survey.md) — related
 - [Students in the blended model reported uniformly high satisfaction across course content, teaching effectiveness, and course application dimensions](high-satisfaction-blended-surgical-model.md) — related
 - [Students rated online learning quality positively, with Quality of Online Resources and Perceived Importance of Online Resources the highest Q-OLQ components](qolq-online-resources-quality-rated-highest.md) — related
+- [Participants report very high satisfaction with the cadaveric workshop's content, quality, and materials](cadaveric-workshop-high-satisfaction.md) — related

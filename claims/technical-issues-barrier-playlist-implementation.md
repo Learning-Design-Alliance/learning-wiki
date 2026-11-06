@@ -49,7 +49,7 @@ Observational and interview study of four after-school sites; educators reported
 - [Access](../learner-variables/access.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
-- [Teachers found Hero Elementary playlist hands-on activities easy to implement because materials were supplied and prepped.](hero-elementary-hands-on-activities-easy-implementation-prepped-materials.md) — related
+- [Teachers reported finding Hero Elementary playlist hands-on activities relatively easy to implement, with lesson planning and hands-on materials supplied and prepped.](hero-elementary-hands-on-activities-easy-implementation-prepped-materials.md) — related
 - [Students were highly engaged in the in-school environment, with engagement increasing over the implementation duration.](hero-elementary-in-school-student-engagement-increased.md) — reports the opposite
 - [Large shares of students faced technology problems serious enough to impede course participation: 44 percent internet connectivity and 23 percent hardware/software issues](remote-covid-technology-access-problems-widespread.md) — related
 - Nearly half of STEM students experienced internet connectivity problems that interfered with course participation after the COVID shift to remote instruction — related

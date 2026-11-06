@@ -47,7 +47,7 @@ Prospective cohort study of general surgical nursing interns comparing SFHC and 
 
 ## Related Claims
 - [SFHC intervention improved simulated nurse licensure examination (professional practice module) scores post-intervention](sfhc-improved-licensure-exam-scores.md) — related
-- [SFHC intervention improved nursing learning self-efficacy scores post-intervention](sfhc-improved-nursing-self-efficacy.md) — related
+- [In a nonrandomized cohort, nursing interns taught with SFHC scored higher on learning self-efficacy after the intervention than interns taught traditionally](sfhc-improved-nursing-self-efficacy.md) — related
 - [SFHC intervention improved doctor-patient communication (SEGUE) scores post-intervention](sfhc-improved-segue-communication.md) — related
 - [Nursing interns in the SFHC programme had higher self-reported inter-professional learning (AITCS) scores after the internship than a non-randomised traditional-teaching group](sfhc-improved-interprofessional-learning.md) — related
 - [A 3D printing-assisted family-school-hospital collaborative education model was associated with larger gains in medical interns' knowledge of urinary system tumor early screening than traditional teaching, in a non-randomised comparison](fsph-3d-model-improves-tumor-screening-knowledge.md) — related

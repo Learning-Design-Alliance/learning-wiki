@@ -49,3 +49,4 @@ Subgroup comparison among the 101 participants (63% had no previous VR experienc
 - [Age, previous VR experience and task type did not significantly predict task feasibility](vr-iws-age-vr-experience-not-predictive.md) — related
 - [The motivational advantage of VR-based learning over traditional methods narrows over time, suggesting a novelty effect](vr-motivation-novelty-effect.md) — related
 - [Health professionals achieved a mean of 69.4% correct clinical decisions in an immersive VR hypothermia/helicopter-evacuation ALS scenario](vr-als-hypothermia-mean-69-percent-correct-decisions.md) — related
+- [No significant differences in VR triage timeliness or correctness by age, gender, educational background, or previous VR experience](no-group-differences-vr-triage-outcome.md) — related

@@ -47,3 +47,4 @@ Null result from the Brazilian PLS-SEM survey (β=-0.068 NS in Table 4); the aut
 ## Related Claims
 - [In a cross-sectional survey, computer self-efficacy statistically mediates the association between computer anxiety and perceived ease of use of an LMS](cse-mediates-anxiety-peu-lms.md) — related
 - [Computer anxiety negatively affects students' perceived ease of use of a learning management system](computer-anxiety-negative-effect-lms-peu.md) — related
+- [Perceived ease of use and perceived usefulness both positively affect student satisfaction in blended medical imaging learning](peu-pu-positive-effect-satisfaction-blended-imaging.md) — related

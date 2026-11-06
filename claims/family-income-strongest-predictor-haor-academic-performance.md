@@ -48,7 +48,7 @@ Binary logistic regression on survey data from 189 secondary students in 10 rand
 - [Socioeconomic Status](../learner-variables/socioeconomic-status.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
-- [Bullying and punitive teacher behavior increase chronic absenteeism while household work and family income reduce it](bullying-punitive-behavior-increase-chronic-absenteeism.md) — related
+- [In one Haor-region survey, bullying was associated with higher odds of chronic absenteeism and household work and family income with lower odds; the direction of the teacher-behaviour association is ambiguous](bullying-punitive-behavior-increase-chronic-absenteeism.md) — related
 - [The number of conversational turns is more closely associated with children's language skills and language-related brain function than the raw number of words heard, regardless of family income or education.](conversational-turns-predict-language-development.md) — related
 - [Peer support for study positively predicts academic performance among Haor students](peer-support-predicts-haor-academic-performance.md) — related
 - [All three social class indicators (parental education, family cultural capital, family economic capital) positively predict standardized test performance among 15-year-olds](social-class-indicators-positive-predictors-pisa-performance.md) — a broader claim this one bears on

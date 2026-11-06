@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q3`–`q4` · `i2` medium
-> **Currency** · newest study 2012 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2012 · not yet checked against its sources · not reviewed by a person
 
 Untrained learners systematically misjudge their own performance — typically overestimating it — and self-assessment only becomes reasonably accurate after explicit training, practice with feedback, and access to clear criteria.
 
@@ -142,3 +142,4 @@ A meta-analysis of 51 quantitative studies comparing students' self-assessed mar
 - [Law students overestimated their writing performance when self-assessing against the formal rubric](law-students-overestimate-rubric-self-assessment.md) — related
 - [When ID students lack prior experience with a design activity, they tend to follow guidelines and make judgments without reflection, especially in formative evaluation](no-prior-experience-follow-guidelines-no-reflection.md) — related
 - [Organized training with rubrics reduces the gap between student self-assessment and educator judgment](rubric-training-reduces-self-assessment-bias.md) — a narrower finding that bears on this claim
+- [Agreement between self- and peer-assessment on the CHOLE-VOP is moderate overall but poor for novices, who tend to overestimate their performance, and good for intermediate users](self-peer-assessment-agreement-varies-by-experience.md) — related

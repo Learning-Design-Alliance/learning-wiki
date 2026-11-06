@@ -47,6 +47,7 @@ The design phase limits attendees to "a group of 10 junior radiation oncology re
 - [The ADDIE model as a framework for designing simulation-based delineation training](addie-model-sbl-program-design.md)
 - [CBE-MDT rotation model combining weekly multidisciplinary sessions, simulation modules, and continuous formative assessment](cbe-mdt-radiation-oncology-rotation-pattern.md)
 - [Fixed disease-module curriculum architecture combining contouring, structured plan review, MDT debriefing and narrative feedback](fixed-disease-module-curriculum-architecture.md)
+- [PAL simulation curriculum pattern: four-stage course with team grouping, clinical observation, reverse-selection lesson plan development, and peer-facilitated simulation drills](pal-simulation-four-stage-reverse-selection-pattern.md)
 
 ## Examples
 -

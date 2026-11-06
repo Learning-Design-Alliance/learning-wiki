@@ -53,3 +53,4 @@ Observation of 78 nursing students using an SBAR-inspired 10-item grid (three-po
 - [Simulation-based training is associated with improved patient safety-related skills and knowledge in undergraduate nursing students](simulation-improves-nursing-patient-safety-skills.md) — a broader claim this one bears on
 - [The evidence base on SBAR-based simulation for nursing students comprises 12 studies with 886 participants, most rated weak in methodological quality](sbar-simulation-evidence-base-weak-quality.md) — related
 - [SBAR and handover capabilities did not change significantly from pre-test to post-test in one single-group study with no comparison group](sccdp-sbar-handover-no-significant-change.md) — related
+- [Communication feedback in adult nursing assessment is perfunctory unless tied to functional safety tasks such as SBAR handover and escalation of concerns](communication-feedback-perfunctory-except-functional-contexts.md) — related

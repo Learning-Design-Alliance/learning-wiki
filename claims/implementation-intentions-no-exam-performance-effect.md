@@ -47,7 +47,7 @@ Linear model predicting final exam grade from group and prior performance in the
 ## Related Claims
 - [Implementation-intention students reported lower daily study effort and higher concentration in the exam week than controls](implementation-intentions-lower-effort-higher-concentration.md) — related
 - [In a randomized controlled trial, SI-PASS participation did not significantly improve final exam performance compared to a waiting-list control group](si-pass-rct-no-performance-effect.md) — related
-- [The Monitoring Exercise protected against overconfidence in the second exam score prediction but did not affect exam scores](monitoring-exercise-reduced-overconfidence-only.md) — related
+- [The Monitoring Exercise protected against overconfidence in the second exam score prediction but showed no significant effect on exam scores](monitoring-exercise-reduced-overconfidence-only.md) — related
 - [Training activity scores in cognitive, metacognitive, and behavioral/environmental regulation each significantly related to subsequent exam performance after controlling for prior knowledge](training-scores-partial-correlations-exams.md) — related
 - [Formulating implementation intentions did not increase university students' use of distributed practice during a four-week course](implementation-intentions-no-increase-distributed-practice.md) — related
 - [Choice-based personalization did not affect final exam performance in the MOOC](choice-personalization-no-final-exam-effect.md) — related

@@ -54,7 +54,7 @@ Consensus discussions force learners to articulate, defend, and revise their rea
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Premature shared understanding: a group's bypassing of a member's skeptical comment left the social and technology objects misaligned, with partial agreement (Extract 3)](../claims/fragmented-premature-shared-understanding.md) [~W]
-- [Peer-to-peer prompts show promising effects on collaborative argumentation, consensus, and perceived efficacy, suggesting new roles for peer learning in classrooms](../claims/peer-prompts-argumentation-consensus-efficacy.md) [+W]
+- [An editorial describes a study of peer-to-peer prompts on collaborative argumentation, consensus and perceived efficacy as having promising results, without reporting its effects](../claims/peer-prompts-argumentation-consensus-efficacy.md) [+W]
 - [Consensus reaching and task division together predict learning gains across conditions](../claims/process-codes-predict-learning-gains.md) [+W]
 - [An individual preparation phase yields significantly more integration-oriented and conflict-oriented consensus building and less externalisation and non-task talk in the social dimension](../claims/wip-more-integration-conflict-consensus.md) [+W]
 

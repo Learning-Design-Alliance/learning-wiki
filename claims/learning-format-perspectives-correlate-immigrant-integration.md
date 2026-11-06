@@ -52,3 +52,4 @@ Correlational study using four self-report questionnaires with a quantitative sa
 - Review reports naturalization catalyzes social and political integration (Swiss longitudinal study) — related
 - The SRL and SAL perspectives on student motivation and learning differ, and the article discusses those differences — related
 - [Immigrant graduates of a healthcare-aide training program described completing it as raising their confidence and self-esteem, which for some aided settlement and integration in Canada](program-completion-increased-confidence-autonomy-settlement.md) — related
+- [The four motivation factors correlated significantly and positively with English scores](motivation-factors-correlate-english-scores.md) — related

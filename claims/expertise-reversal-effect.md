@@ -58,7 +58,7 @@ newest_evidence: 2021
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 5 studies · 3 review `r2`, 1 causal `r?`, 1 theoretical `r2` · `q1`–`q3`
-> **Currency** · newest study 2021 · 3 of 5 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2021 · not yet checked against its sources · not reviewed by a person
 
 The expertise reversal effect describes a recurring pattern in instructional research: scaffolds, explanations, and worked examples that reduce cognitive load for novices lose value once learners have already internalized the underlying schema.
 
@@ -236,7 +236,7 @@ Open questions include how finely expertise must be measured (domain-specific vs
 - [Redundancy Effect Impairs Learning](redundancy-principle.md) — related
 - [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](redundancy-hurts-learning.md) — related
 - [Expert performers counteract automaticity by building increasingly complex mental representations, unlike everyday skill learning](experts-counteract-automaticity-mental-representations.md) — related
-- [Redundant text in the diagram did not affect posttest accuracy or difficulty ratings](redundant-text-no-effect-posterior-probability-lesson.md) — related
+- [Redundant text in the diagram made no statistically significant difference to posttest accuracy or difficulty ratings](redundant-text-no-effect-posterior-probability-lesson.md) — related
 - [Current serious games give all learners the same unregulated scaffolding, which the authors argue contradicts the notion of scaffolding](blanket-scaffolding-in-serious-games-contradicts-scaffolding-notion.md) — a narrower finding that bears on this claim
 - The FTS proposes that fading distinguishes expert from non-expert peers via a game-progress threshold, and peer-tutoring collaboration is expected to improve non-expert game progress and knowledge gained — related
 - [Expertise reversal: cognitive load effects for novices decrease, disappear, and can reverse as expertise increases](expertise-reversal-effect-compound.md) — a broader claim this one bears on

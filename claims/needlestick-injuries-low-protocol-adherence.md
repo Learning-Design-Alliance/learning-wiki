@@ -48,3 +48,5 @@ Supplementary scenario-based findings from the cross-sectional survey (N = 420),
 ## Related Claims
 - [Students who self-assessed their dental injury knowledge as adequate answered the contaminated-tooth question correctly at a significantly higher rate (p = 0.006)](perceived-knowledge-adequacy-contamination-accuracy.md) — related
 - [After brief cadaver simulation training, most PA students successfully complete an ultrasound-guided cyst drainage skills test, averaging 1.9 needle sticks and 143 seconds](pa-skills-test-performance-cyst-drainage.md) — related
+- [60.7% of dental students who experienced sharp object injuries did not report them, most commonly because the injury was perceived as minor (44.1%)](majority-injuries-unreported-perceived-minor.md) — related
+- [Before the intervention, most dental students lacked knowledge of correct post-injury response and PEP awareness rose from 40.2% to 92%](pep-knowledge-low-before-intervention-40-to-92.md) — related

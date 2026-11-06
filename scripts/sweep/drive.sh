@@ -31,8 +31,10 @@ PY
   log "start $label ($left left in $q)"
   python3 -u scripts/run_scrape_batch.py --label "$label" --out "eval/corpus/manifest_$label.json" \
     --model z-ai/glm-5.3-flash --pmc 0 --eric 0 --arxiv 0 --queue "$q" --take 80 --concurrency 8 \
-    > "$J/$label.log" 2>&1
-  rc=$?
+    2>&1 | while IFS= read -r line; do   # stamp each step header, so a batch's slow steps can be found
+      case $line in "==="*) printf '%s [%s]\n' "$line" "$(date +%H:%M:%S)" ;; *) printf '%s\n' "$line" ;; esac
+    done > "$J/$label.log"
+  rc=${PIPESTATUS[0]}
   grep -q "fully complete" "$J/$label.log" || rc=${rc/#0/1}
   echo $n > "$J/counter-$tag"
   gen=$(ls eval/runs/$label/*/ 2>/dev/null | wc -l)

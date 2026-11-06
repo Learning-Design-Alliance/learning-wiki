@@ -44,7 +44,8 @@ The article advises that framework selection follow learning goals: "Given that 
 - [Argument diagramming tools increase relevant citations and opposing evidence in college writing, with domain-specific diagrams adding citation validity](../claims/argument-diagramming-increases-citations-opposing-evidence.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Choose between online and face-to-face delivery based on the specific requirements of the course, and continuously review educational practices](choose-format-by-course-requirements.md)
 
 ## Examples
 -

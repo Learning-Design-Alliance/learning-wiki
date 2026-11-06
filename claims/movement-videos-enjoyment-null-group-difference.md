@@ -9,11 +9,12 @@ generated:
   at: 2026-10-27
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: mavilidi-2026
     resource: "https://doi.org/10.1038/s41539-026-00408-8"
-    title: "Mavilidi, M.F., Paas, F., Zou, L., Lubans, D.R., Mokhtari, L., Schmidt, M., Castro Alonso, J.C., Ng, R., & Bennet, S. (2026). Effects of Videos with Whole-Body Movements on Young Children's Geography Learning. npj Science of Learning. https://doi.org/10.1038/s41539-026-00408-8"
-    author: "Mavilidi, M.F., Paas, F., Zou, L., Lubans, D.R., Mokhtari, L., Schmidt, M., Castro Alonso, J.C., Ng, R., & Bennet, S."
+    title: "Mavilidi, M.F., Paas, F., Zou, L., Lubans, D.R., Mokhtari, L., Schmidt, M., Castro Alonso, J.C., Ng, R., & Bennett, S. (2026). Effects of Videos with Whole-Body Movements on Young Children's Geography Learning. npj Science of Learning. https://doi.org/10.1038/s41539-026-00408-8"
+    author: "Mavilidi, M.F., Paas, F., Zou, L., Lubans, D.R., Mokhtari, L., Schmidt, M., Castro Alonso, J.C., Ng, R., & Bennett, S."
     q: 3
     i: "?"
     kind: causal
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Children in both conditions rated the game-based video activity highly and equally, with no significant group difference on the enjoyment measure. [→ Mavilidi 2026](#mavilidi-2026)
@@ -33,7 +34,7 @@ sources:
 
 ### Mavilidi 2026
 
-Mavilidi, M.F., Paas, F., Zou, L., Lubans, D.R., Mokhtari, L., Schmidt, M., Castro Alonso, J.C., Ng, R., & Bennet, S. (2026). Effects of Videos with Whole-Body Movements on Young Children's Geography Learning. npj Science of Learning. https://doi.org/10.1038/s41539-026-00408-8
+Mavilidi, M.F., Paas, F., Zou, L., Lubans, D.R., Mokhtari, L., Schmidt, M., Castro Alonso, J.C., Ng, R., & Bennett, S. (2026). Effects of Videos with Whole-Body Movements on Young Children's Geography Learning. npj Science of Learning. https://doi.org/10.1038/s41539-026-00408-8
 
 `q3 · i?` · `causal · r2`
 

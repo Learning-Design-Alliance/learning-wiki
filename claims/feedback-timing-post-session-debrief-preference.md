@@ -62,3 +62,4 @@ Formative interview finding on feedback timing: a participant stated "Do not int
 - [Physicians expressed a strong desire for immediate real-time procedural feedback with structured debriefing](physicians-desire-real-time-structured-cvc-feedback.md) — reports the opposite
 - [Medical students valued debriefing sessions after VR training as key opportunities for reflection and consolidating learning](debriefing-valued-reflection-consolidation-vr.md) — related
 - [The chorda tympani replica was interrupted in every training session, with residents damaging it earlier than specialists, and it was the least appreciated structure in participant feedback](3dst-chorda-tympani-fragility-limitation.md) — related
+- [Post-intervention, residents more often used scaffolding for procedures, demonstrating a technique first and then allowing supervised student attempts with real-time feedback](post-intervention-scaffolding-hands-on-supervised-practice.md) — related

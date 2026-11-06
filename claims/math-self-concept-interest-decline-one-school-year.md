@@ -80,3 +80,4 @@ Univariate latent growth model for interest in the same three-wave sample showed
 - [Academic self-concept levels are relatively high and stable from fourth to sixth grade of elementary school](asc-stable-fourth-to-sixth-grade.md) — related
 - [Self-efficacy and gameplay interest are negatively associated with elementary students' competitive anxiety in one-on-one gameplay](self-efficacy-interest-negatively-associated-competitive-anxiety.md) — related
 - [All four studies measuring attendance within one academic year found a statistically significant decline across the year](within-year-attendance-decline.md) — related
+- [Adolescents' academic self-concept decreases over 1.5 years in mid-adolescence](asc-declines-over-1-5-years-mid-adolescence.md) — related

@@ -41,7 +41,7 @@ The fetched sources do not agree on what "experience" should count. Usage-based 
 ## Claims
 
 - [Korean EFL learners sort sentences increasingly by construction rather than by verb as grade level increases](../claims/construction-based-sorting-increases-with-grade-level.md) [+M]
-- [Light verbs drive construction-based sorting in intermediate-level but not beginner or advanced EFL learners](../claims/light-verbs-modulate-intermediate-sorting.md) [+M]
+- [Intermediate-level EFL learners, but not beginner or advanced ones, sorted sentences by construction mainly when they contained light verbs](../claims/light-verbs-modulate-intermediate-sorting.md) [+M]
 - [Learners’ proficiency correlates with constructional sorting and translation performance, countering a purely age-based explanation](../claims/proficiency-correlates-with-sorting-and-translation.md) [+M]
 - [The transitive construction is acquired earliest while the resultative construction poses difficulty even for advanced learners](../claims/transitive-earliest-resultative-hardest.md) [+M]
 - [Translation accuracy rises with proficiency but varies substantially across individual constructions](../claims/translation-accuracy-varies-by-construction.md) [+M]

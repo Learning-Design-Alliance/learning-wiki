@@ -52,6 +52,7 @@ Based on their findings, the authors recommend that future ACP training programs
 ## Related Strategies
 
 - [Fund and design future research spanning multiple types of early care and education settings to inform exclusion legislation and intervention funding](multi-setting-ecce-exclusion-research-strategy.md)
+- [Consider multiprofessional team training in obstetrics involving all staff within their units](multiprofessional-team-training-obstetrics-recommendation.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ In the same randomized trial, the clinical skills assessment evaluated core proc
 - [Mid-term exam scores favored the experimental group (79.8 ± 7.0 vs 71.5 ± 7.3, mean difference 8.3, P < 0.001) with baseline prerequisite scores equivalent between groups](ai-kg-midterm-and-baseline-equivalence.md) — related
 - [Pre-reform survey found high flipped-classroom awareness but minimal BOPPPS familiarity and limited willingness to participate](pre-survey-awareness-boppps-flipped-dentistry.md) — related
 - [Experimental group achieved superior theoretical and practical assessment scores compared to control group](flipped-boppps-superior-final-assessment-scores.md) — related
+- [The randomized trial assigned 70 residents equally to BOPPPS-plus-flipped-classroom or traditional teaching with no significant baseline differences](boppps-flipped-og-trial-baseline-comparable.md) — related

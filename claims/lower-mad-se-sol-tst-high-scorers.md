@@ -53,3 +53,5 @@ Group comparison of night-to-night variability computed as mean absolute deviati
 - [Exam-score associations with sleep parameters are pronounced on weekdays but absent on weekends](weekday-sleep-exam-association-weekend-null.md) — related
 - [Total sleep time is significantly shorter on weekdays than weekends in both score groups, with no group difference](tst-shorter-weekdays-weekend-extension.md) — related
 - [Subjective sleep measures (PSQI) show no significant differences or correlations with academic performance, contrasting with objective actigraphy](psqi-null-vs-actigraphy-significant.md) — related
+- [Average performers take much longer to fall asleep than Excellent performers](average-performers-longer-sleep-latency.md) — related
+- [Excellent performers keep earlier weekday and weekend sleep schedules than Average performers](excellent-performers-earlier-sleep-schedules.md) — related

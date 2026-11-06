@@ -46,7 +46,7 @@ Structured questionnaire administered to a panel of six MFM specialists, three p
 
 
 ## Related Claims
-- [Expert endourologists rate an Aquablation training simulator as highly realistic, with face-validity items averaging above 3.4 on a 4-point scale and Cronbach's alpha of 0.92](aquablation-simulator-high-face-validity.md) — related
+- [Twelve expert urologists rate an Aquablation training simulator as realistic, with face-validity item means of 3.25 to 3.75 on a 4-point scale and Cronbach's alpha of 0.92](aquablation-simulator-high-face-validity.md) — related
 - [Expert surgeons rated the model highly on face validity, with all items scoring 5.0 except texture (3.70 ± 0.82)](face-validity-expert-ratings-ldsrs-model.md) — related
 - [Experts rated the DNH model strongly on training efficacy (skills, confidence, risk reduction) but only moderately on operability](dnh-model-content-validity-ratings.md) — related
 - [Expert raters scored the DNH model highest on anatomical accuracy and overall appearance, with weakest ratings for mucosal layer thickness replication](dnh-model-realism-ratings-profile.md) — related

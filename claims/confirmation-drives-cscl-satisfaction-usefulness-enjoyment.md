@@ -45,7 +45,7 @@ PLS structural model on questionnaire data from 701 master's students in online 
 
 
 ## Related Claims
-- [Perceived enjoyment significantly positively influences both satisfaction and perceived impact on learning in CSCL](enjoyment-influences-satisfaction-and-impact-cscl.md) — related
+- [In a cross-sectional survey, students' perceived enjoyment is significantly and positively associated with their satisfaction and perceived impact on learning in CSCL](enjoyment-influences-satisfaction-and-impact-cscl.md) — related
 - [Students' satisfaction during CSCL positively and significantly influences their perceived impact on learning](satisfaction-influences-perceived-impact-cscl.md) — related
 - [Perceived usefulness significantly positively influences satisfaction, perceived impact on learning, and attitude towards CSCL](perceived-usefulness-influences-satisfaction-impact-attitude.md) — related
 - [Perceived ease of use is a robust predictor, positively and significantly influencing students' attitudes towards CSCL and their perceptions of usefulness](ease-of-use-predicts-attitude-and-usefulness-cscl.md) — related

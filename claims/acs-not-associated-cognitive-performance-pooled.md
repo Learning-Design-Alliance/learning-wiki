@@ -55,3 +55,4 @@ Meta-analysis (DerSimonian and Laird random-effects) of studies comparing active
 - [Active commuting to and from school is not associated with improvements in mathematics and language achievement](active-commuting-not-associated-math-language.md) — related
 - [Longer duration of active commuting relates to better cognitive performance in a dose–response pattern among girls](acs-duration-dose-response-cognition.md) — reports the opposite
 - [Active commuting to school shows a positive association with at least one cognitive measure in a majority of reviewed studies, though findings are inconsistent across measures](acs-positive-cognition-association-majority-of-studies.md) — reports the opposite
+- [Commuting time has a negative but statistically negligible impact on students' after-school study time.](commuting-time-negligible-study-time.md) — related

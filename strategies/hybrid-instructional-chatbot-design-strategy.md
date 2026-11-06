@@ -43,6 +43,7 @@ The authors recommend treating the depth-efficiency trade-off not as a limitatio
 - [Enhance student development agents with finetuned or small task-specific models and richer memory architectures rather than prompting alone](finetuning-and-small-models-for-developmental-agents.md)
 - [Integrate diverse feedback types into educational chatbots, matched to instructional goals](match-chatbot-feedback-type-to-learning-goal.md)
 - [Five design guidelines for educational chatbots: comprehensive CCQs, better NLU, error detection, easy access, progressive refinement](five-guidelines-educational-chatbot-design.md)
+- [Select LLM prompting configurations by use-case constraints: efficient single-agent prompting for education, multi-agent frameworks for high-stakes complex cases](match-llm-configuration-to-use-case-constraints.md)
 
 ## Examples
 -

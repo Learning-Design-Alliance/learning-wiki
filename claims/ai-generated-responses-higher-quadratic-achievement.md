@@ -56,7 +56,7 @@ Achievement was measured with the authors' own [Quadratic Equation Achievement T
 - [Polya Method students outscore Dahmus Method students on the equation criterion for verbal problems](polya-method-beats-dahmus-on-equation-criterion.md) — related
 - [Screen reader choice affects time and effort for accessing math: JAWS users completed a quadratic-equation task faster than NVDA users](screen-reader-effort-quadratic-equation-bvi.md) — related
 - [Peer-teaching flipped classroom students show higher calculus conceptual understanding than conventional flipped classroom students after controlling for pretest](ptfc-beats-cfc-conceptual-understanding.md) — related
-- [AI-generated responses positively influenced the self-efficacy of secondary students in solving mathematics problems](ai-generated-responses-positive-self-efficacy.md) — related
+- [Secondary students mildly agreed (mean 2.61 of 4) that AI-generated responses supported their self-efficacy in solving quadratic equations, with no group comparison tested](ai-generated-responses-positive-self-efficacy.md) — related
 - [Senior high school students taught with generative AI-supported instruction scored significantly higher on geometric reasoning and proof construction than students taught conventionally](genai-instruction-higher-geometry-proof-scores.md) — related
 - [AI-supported inquiry-based learning significantly improved secondary students' creative mathematical performance compared with traditional instruction](ai-ibi-improves-creative-mathematical-performance.md) — related
 - [Secondary students taught in an e-classroom with ICT resources significantly outperform students taught by conventional methods on post-test achievement](e-classroom-outperforms-conventional-teaching.md) — related

@@ -47,5 +47,5 @@ Randomized 2 (color coding) × 2 (labeling) between-subjects ANCOVA of posttest 
 ## Related Claims
 - [Color coding does not improve learning about posterior probability from a simple table, and adds no benefit when combined with labeling](color-coding-no-learning-benefit-simple-table.md) — related
 - [Diagrams improve posttest performance on posterior probability problems for students who answered the pretest correctly, whether or not the diagram text is redundant](diagrams-help-pretest-correct-students-posterior-probability.md) — related
-- [Redundant text in the diagram did not affect posttest accuracy or difficulty ratings](redundant-text-no-effect-posterior-probability-lesson.md) — related
+- [Redundant text in the diagram made no statistically significant difference to posttest accuracy or difficulty ratings](redundant-text-no-effect-posterior-probability-lesson.md) — related
 - [Eyetracking process measures do not predict posttest performance, so they do not explain the labeling benefit](process-measures-do-not-explain-labeling-benefit.md) — related

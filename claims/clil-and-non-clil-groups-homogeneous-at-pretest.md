@@ -53,4 +53,4 @@ Independent-samples t-test comparing pretest means of CLIL (M = 64.85, SD = 9.31
 - [CLIL instruction significantly improved aviation English posttest performance compared to traditional instruction](clil-improved-aviation-english-posttest-performance.md) — related
 - [CLIL instruction produced significantly more positive attitudes toward language learning than traditional instruction](clil-produced-more-positive-attitudes-toward-language-learning.md) — related
 - [Postgraduate students in a CLIL Spanish class demonstrated greater autonomy at posttest than students in a traditional textbook class, with 40% reaching the 'largely aware' level versus 12% in the control group](clil-class-greater-autonomy-posttest.md) — related
-- [Project-based CLIL significantly improved written English competence of mathematics students over one semester](project-based-clil-improves-written-english-competence.md) — related
+- [Mathematics students' written English competence scores rose slightly over one semester of project-based CLIL, but the study reports no valid test of the change](project-based-clil-improves-written-english-competence.md) — related

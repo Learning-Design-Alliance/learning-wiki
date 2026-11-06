@@ -49,3 +49,4 @@ Two regressions on STEM GPA in the cognitive sample (N=303 for education; N=104 
 
 ## Related Claims
 - [Parental SES context significantly and simultaneously predicts youth verbal ability in Add Health, with mother's education the largest SES coefficient](ses-context-predicts-verbal-ability-add-health.md) — related
+- [AA-group students more often have mothers with a bachelor's degree or higher, but this association disappears in the multivariate model](mother-education-association-disappears-multivariate.md) — related

@@ -33,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 quant-synthesis `r?`, 1 review `r2` · `q3`–`q4` · `i2` medium
-> **Currency** · newest study 2022 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2022 · not yet checked against its sources · not reviewed by a person
 
 Prompts that direct learners' attention to planning, monitoring, and evaluating their own thinking can improve learning outcomes, particularly when embedded in structured learning tasks.
 
@@ -157,5 +157,5 @@ A systematic review of 35 studies of approaches to support self-regulated learni
 - [Metacognitive strategies such as self-monitoring and reflective questioning have been shown to mitigate epistemic uncertainty](metacognitive-strategies-mitigate-epistemic-uncertainty.md) — a narrower finding that bears on this claim
 - [Self-explanation prompts placed before instruction are more effective than those embedded during or placed after instruction](self-explanation-prompts-before-instruction-most-effective.md) — related
 - [Scaffold compliance varied significantly: compliers engaged in more frequent metacognitive processes than non-compliers](scaffold-compliance-metacognitive-processes.md) — a narrower finding that bears on this claim
-- [Students' self-regulation abilities rose from pre-test to post-test after self-evaluation sections, including monitoring problem-solving processes, correcting irrelevant strategies and reflecting on actions, in one one-group study with no comparison group](self-regulation-gains-from-self-evaluation-sections.md) — a narrower finding that bears on this claim
+- [In one one-group study, students were reported to monitor problem-solving and correct irrelevant strategies by the end of a digital-literacy course that included self-evaluation sections; no pre-post result for self-regulation is reported](self-regulation-gains-from-self-evaluation-sections.md) — a narrower finding that bears on this claim
 - [Metacognitive processes contributing to problem solving include identifying the problem, defining the problem space, representing it, planning, and evaluating performance](metacognitive-processes-problem-solving-components.md) — related

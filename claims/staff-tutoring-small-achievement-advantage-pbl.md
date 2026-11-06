@@ -57,3 +57,4 @@ Field experiment aggregating achievement data at the tutorial-group level across
 - [No achievement difference between staff- and peer-tutored groups in the first curriculum year](no-achievement-difference-year-one-peer-staff.md) — reports the opposite
 - [Staff tutors rated higher on using subject-matter knowledge and relevance, but peer tutors rated higher on these behaviors in year one](tutor-behavior-ratings-interaction-year.md) — related
 - [Interns taught with OBE-integrated PBL achieve their career plans one year after graduation at a higher rate than lecture-taught peers](obe-pbl-career-plan-achievement-one-year.md) — related
+- [Early Larks achieve slightly higher average marks than Night Owls among first-year medical students](early-larks-slightly-higher-marks.md) — related

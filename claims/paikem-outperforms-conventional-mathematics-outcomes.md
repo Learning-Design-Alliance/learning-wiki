@@ -47,7 +47,7 @@ Independent-samples t-test comparing the PAIKEM and conventional groups on mathe
 ## Related Claims
 - [Experiential learning-based Mathematics teaching material improves fifth-graders' Mathematics cognitive ability more than conventional teaching material](experiential-material-improves-math-cognitive-ability.md) — related
 - [Within both the PAIKEM and the conventional method, high-motivation students scored significantly higher than low-motivation students](motivation-gap-within-each-method.md) — related
-- [Fifth-grade students taught science through inquiry-based instruction supported by the 5E learning cycle achieved significantly higher post-test scores than students taught by traditional methods](5e-inquiry-higher-achievement-than-traditional.md) — related
+- [In a quasi-experiment with 40 fifth-grade girls in Kermanshah, Iran, those taught science through inquiry-based instruction supported by the 5E learning cycle achieved significantly higher post-test scores than those taught by traditional methods](5e-inquiry-higher-achievement-than-traditional.md) — related
 - [Multiple-intelligences-based science instruction produced significantly higher post-test achievement than traditional instruction in a quasi-experiment with fifth graders](mi-instruction-higher-science-achievement-quasi-experiment.md) — related
 - [Guided inquiry learning yields higher fifth-grade science achievement than conventional teaching](guided-inquiry-beats-conventional-science-achievement.md) — related
 - [Class IX physical science students taught with the constructivist 7E model achieved significantly higher post-test and gain scores than students taught with traditional methods](7e-model-higher-science-achievement-secondary.md) — related

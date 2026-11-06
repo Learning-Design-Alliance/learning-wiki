@@ -65,4 +65,4 @@ The review reports, citing Li et al. on online collaborative learning, that resi
 
 ## Related Claims
 - [MDT-CBL interns scored numerically higher than traditionally taught interns on a urology knowledge test, but the difference was not statistically significant](mdt-cbl-knowledge-test-null-pilot.md) — related
-- [In a randomised trial of 80 first-year postgraduate oncology trainees, CBL produced significantly higher examination scores and satisfaction than traditional lecture-based learning, though confidence intervals crossed the null for examination results](bi-rct-cbl-higher-posttest-scores-satisfaction.md) — related
+- [In a randomised trial of 80 first-year postgraduate oncology trainees, a CBL group that also had PowerPoint teaching reported significantly higher examination scores and satisfaction than lecture-based teaching, though confidence intervals crossed the null for examination results](bi-rct-cbl-higher-posttest-scores-satisfaction.md) — related

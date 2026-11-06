@@ -59,3 +59,4 @@ Correlational analysis of questionnaire data from 106 preparatory students at U�
 - [Motivational SRL factors correlate with but do not directly predict Japanese EFL learners' proficiency](motivational-factors-correlate-not-predict-efl-proficiency.md) — related
 - [All ten sub-factors of the L2 motivational self-system correlate significantly and positively with L2 self-efficacy](ten-motivation-subfactors-correlate-self-efficacy.md) — related
 - [Lower communication anxiety combined with higher perceived communicative competence is positively correlated with L2 willingness to communicate](anxiety-competence-wtc-correlation.md) — related
+- [The four motivation factors correlated significantly and positively with English scores](motivation-factors-correlate-english-scores.md) — related

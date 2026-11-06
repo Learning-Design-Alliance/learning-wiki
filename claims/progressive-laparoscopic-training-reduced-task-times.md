@@ -46,7 +46,7 @@ Single-group pre-post study of 25 CPMDRs; paired-sample t-tests compared pre- an
 
 ## Related Claims
 - [Among consultant paediatric surgeons, operative time fell significantly from before to after a 12-week porcine-model laparoscopic training programme in one uncontrolled pre-post study](porcine-model-training-reduces-operative-time-consultants.md) — related
-- [Among PGY-1 and PGY-2 obstetrics and gynecology residents, task completion times were shorter after a structured four-week laparoscopic simulator curriculum than before, in one single-group pre-post study.](laparoscopic-simulator-training-improves-task-efficiency-pgy1-pgy2.md) — related
+- [Among PGY-1 and PGY-2 obstetrics and gynecology residents, task completion times were shorter in later weeks than in Week 1 of a structured four-week laparoscopic simulator curriculum, in one uncontrolled study with no pre-training baseline.](laparoscopic-simulator-training-improves-task-efficiency-pgy1-pgy2.md) — related
 - [Experimental and quasi-experimental included studies describe improvements in time, precision, movement economy, task quality or perceived competence after laparoscopic simulation exposure](laparoscopic-simulation-performance-improvements.md) — a broader claim this one bears on
 - [The rate of improvement in laparoscopic task completion time differs significantly by training level, with a significant Training Level × Time interaction driven primarily by gains in PGY-1 and PGY-2 residents.](training-level-by-time-interaction-modulates-simulation-impact.md) — related
 - [Post-training objective assessments show significantly reduced operation time in pattern cutting and suturing tasks and improved suturing quality](objective-task-time-reduction-suturing-quality-gain.md) — related

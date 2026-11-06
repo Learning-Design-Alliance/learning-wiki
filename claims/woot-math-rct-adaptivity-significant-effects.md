@@ -51,4 +51,4 @@ Company-reported evaluation study: Woot Math, funded by an NSF SBIR grant, condu
 - [BARR produces a small statistically significant positive effect on NWEA MAP math outcomes in a multi-site student-level randomized trial](barr-multisite-rct-map-math-es-008.md)
 - [In a large multi-site cluster randomized study, BARR improved PSAT/NMSQT math scores in one cohort but the second cohort performed similarly to comparison students](barr-cluster-randomized-psat-math-mixed-cohorts.md)
 - [Cross-site standard deviations of ITT effects were estimated for education and workforce interventions using data from 16 large multisite randomized controlled trials](cross-site-itt-effect-variation-16-multisite-rcts.md) — related
-- [A randomized controlled trial with 86 K-12 students found a significant gain in self-regulated-learning strategy use from agentic coaching systems](agentic-srl-coaching-rct-86-significant-strategy-gain.md) — related
+- [A survey of agentic AI in education reports an unidentified randomized trial (86 K-12 students) finding a significant SRL-strategy gain from agentic coaching](agentic-srl-coaching-rct-86-significant-strategy-gain.md) — related

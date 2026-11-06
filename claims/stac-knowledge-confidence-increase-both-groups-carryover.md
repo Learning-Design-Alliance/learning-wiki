@@ -56,3 +56,4 @@ GLM repeated measures ANOVA in a randomized controlled study of 57 junior high s
 - [No significant differences between STAC intervention and control groups in frequency of using the STAC strategies at 30-day follow-up](stac-strategy-use-no-group-differences.md) — related
 - [The COMPASS intervention significantly increases students' math self-concept immediately after participation in both an intervention group and a waiting-list control group](compass-increases-math-self-concept-immediately.md) — related
 - [Students with disabilities in SS-SSTP schools report greater willingness to intervene in bullying situations than control students after 2 years](sel-ssstp-willingness-intervene-disabilities.md) — related
+- [The intervention did not affect school burnout symptoms; both conditions reported increased burnout from pre to 1-year follow-up.](explore-your-brain-no-burnout-effect.md) — related

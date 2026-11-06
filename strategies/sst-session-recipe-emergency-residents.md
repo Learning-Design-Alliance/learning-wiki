@@ -56,6 +56,7 @@ The article's implementable session recipe: distribute pre-class materials on cr
 - [Use weekly scenario simulation with structured debriefing and operational skills training to develop new graduate nurses' competence](weekly-scenario-simulation-debriefing-skills-training-strategy.md)
 - [Use a structured one-day simulation program combining pre-briefing, theoretical training, practical skills practice, scenario-based simulation, and video-based debriefing](structured-one-day-simulation-caregiver-training.md)
 - [Structured pre- and post-simulation assignments to consolidate clinical reasoning learning](pre-post-simulation-reflective-assignments.md)
+- [Run a simulated clinical practice ability assessment before residents leave the department and evaluate teaching from results plus student feedback](simulated-pre-departure-assessment-feedback-strategy.md)
 
 ## Examples
 -

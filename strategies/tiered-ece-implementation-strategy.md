@@ -117,6 +117,8 @@ The authors recommend a sequenced implementation model: "It is recommended to ac
 - [Integrate contextualized online materials with real or simulated clinical practice elements into traditional paramedic education](contextualized-online-plus-clinical-practice-mdc.md)
 - [Integrate simulation-based education into traditional lecture-based teaching during the clinical apprenticeship phase of medical imaging courses](integrate-sbe-into-tbe-clinical-apprenticeship-phase.md)
 - [Combine push-based mobile learning with simulation practice and tiered content in a push-practice-feedback loop](push-plus-simulation-hybrid-nursing-education-strategy.md)
+- [Combine low-fidelity theoretical training with high-fidelity real-world application to prepare teams for complex tasks.](combine-low-and-high-fidelity-sbt.md)
+- [Sequence VR early and manikin training later in an integrated preclinical dental curriculum](integrated-vr-then-manikin-curriculum-sequence.md)
 
 ## Examples
 -

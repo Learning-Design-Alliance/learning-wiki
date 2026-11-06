@@ -1,7 +1,7 @@
 ---
 type: claim
-title: ITS-based practice did not improve post-training self-efficacy relative to paper-based practice; baseline self-efficacy was the primary determinant
-description: ITS-based practice did not improve post-training self-efficacy relative to paper-based practice; baseline self-efficacy was the primary determinant
+title: Post-training self-efficacy did not differ significantly between ITS-based and paper-based practice; baseline self-efficacy was the only significant predictor
+description: Post-training self-efficacy did not differ significantly between ITS-based and paper-based practice; baseline self-efficacy was the only significant predictor
 id: its-practice-no-self-efficacy-gain
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-10-11
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: xinfei-cen-2026
     resource: "https://doi.org/10.48550/arxiv.2606.17470"
@@ -28,11 +29,11 @@ sources:
     rigour: 2
 ---
 
-# ITS-based practice did not improve post-training self-efficacy relative to paper-based practice; baseline self-efficacy was the primary determinant
+# Post-training self-efficacy did not differ significantly between ITS-based and paper-based practice; baseline self-efficacy was the only significant predictor
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
-> **Currency** · newest study 2026 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Training condition did not significantly predict post-training self-efficacy (t(57.96) = 0.49, p = .629), contrary to expectation. [→ Xinfei Cen 2026](#xinfei-cen-2026)
@@ -56,7 +57,7 @@ Xinfei Cen, Vincent Aleven, Kenneth R. Koedinger, Conrad Borchers, and Paulo F. 
 
 `q2 · i?` · `causal · r2`
 
-Same RQ2 model (Table 2): baseline self-efficacy was the only significant fixed effect, "t(91.94) = 5.91,p < .001". No effect size printed; impact null.
+Same RQ2 model (Table 2): baseline self-efficacy was the only significant fixed effect, "t(91.94) = 5.91,p < .001". No effect size printed. The non-significant condition effect (t(57.96) = 0.49, p = .629) means no detectable difference in this sample, not that the true effect is zero.
 
 > "baseline self-efficacy had a significant positive ef-fect on post-training self-efficacy for the specific math skills practiced in the study,t(91.94) = 5.91,p < .001"
 

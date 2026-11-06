@@ -50,3 +50,4 @@ Bland–Altman analysis of EATS versus observer coding for the disgust category 
 - [Facial expression recognition of six basic emotions via FACS can detect learner emotional states in real time](facs-six-basic-emotions-detection.md) — related
 - [MathBuddy's multimodal emotion aggregation matched participant-reviewed emotions at 60% overall accuracy, with sharply reduced recall for the Neutral class](multimodal-emotion-aggregation-60-percent-accuracy.md) — related
 - [A Duchenne smile versus a neutral expression does not increase medical students' trustworthiness ratings of avatar trustees](duchenne-smile-no-trustworthiness-effect.md) — related
+- [Advanced medical students display a higher proportion of happy facial expressions and a lower proportion of neutral expressions during simulated consultations than 1st semester students](happy-facial-expressions-higher-advanced-medical-students.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Storytelling improved comparing fractions, equivalent fractions, creating and manipulating representations, and problem solving, but not part-whole interpretation or number-line use
-description: Storytelling improved comparing fractions, equivalent fractions, creating and manipulating representations, and problem solving, but not part-whole interpretation or number-line use
+title: Storytelling improved comparing fractions, equivalent fractions, creating and manipulating representations, and problem solving, with no significant difference for part-whole interpretation or number-line use
+description: Storytelling improved comparing fractions, equivalent fractions, creating and manipulating representations, and problem solving, with no significant difference for part-whole interpretation or number-line use
 id: storytelling-specific-fraction-skills-gains
 status: review
 generated:
@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: moderate
 newest_evidence: 2019
+source_checked: 2026-11-06
 sources:
   - id: charalambos-lemonidis-ioanna-kaiafa-2019
     resource: "https://doi.org/10.5539/jel.v8n2p165"
@@ -28,11 +29,11 @@ sources:
     rigour: 1
 ---
 
-# Storytelling improved comparing fractions, equivalent fractions, creating and manipulating representations, and problem solving, but not part-whole interpretation or number-line use
+# Storytelling improved comparing fractions, equivalent fractions, creating and manipulating representations, and problem solving, with no significant difference for part-whole interpretation or number-line use
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i0` negligible
-> **Currency** · newest study 2019 · 1 of 2 entries checked against their sources (automated) · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-06 (automated, 2 of 2 entries) · not reviewed by a person
 > **Design limits** · Charalambos Lemonidis & Ioanna Kaiafa 2019: the intervention came bundled with another change (read from the study by two models, 2026-11-04)
 
 ## Subclaims

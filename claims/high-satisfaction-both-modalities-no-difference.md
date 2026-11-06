@@ -50,3 +50,4 @@ Learner satisfaction was evaluated post-training using a 5-point Likert scale in
 - [All participants were satisfied with VR training, and most preferred combined instructor-led plus VR instruction and did not believe VR could replace instructor-led explanation](post-training-perceptions-combined-instruction-preferred.md) — related
 - [Participants were highly satisfied with the workshop and all would recommend it to colleagues](bronchoscopy-workshop-high-satisfaction.md) — related
 - [District leaders reported high satisfaction with the key features of the Learning Salon model across all three surveyed salons](district-leaders-satisfied-learning-salon-features.md) — related
+- [Participants express high satisfaction with VR MCI training and motivation to repeat it](vr-mci-training-satisfaction-motivation-repeat.md) — related

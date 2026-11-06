@@ -77,3 +77,5 @@ The review attributes to Arlington et al. the finding of skill decay 4–6 month
 - [Bronchoscopy manipulation skills may decay over time, necessitating periodic practice to maintain proficiency](bronchoscopy-skill-decay-periodic-practice.md) — a broader claim this one bears on
 - [A retrospective chart review identified 1,096 perinatal-loss diagnoses at the hospital over roughly three years](1096-perinatal-loss-diagnoses-2021-2024.md) — related
 - [Having an HBB trained provider at birth is not significantly associated with lower in-facility neonatal mortality](trained-provider-no-significant-mortality-reduction.md) — related
+- [A train-the-trainer, mono-professional simulation-based obstetric training program did not change the combined maternal and perinatal mortality rate in a low-resource referral hospital](mono-professional-obstetric-simulation-no-combined-mortality-change.md) — related
+- [Prior simulation-based obstetric training studies in sub-Saharan Africa reported improved maternal or perinatal outcomes, contrasting with this trial's null result](prior-african-obstetric-simulation-studies-reported-improvements.md) — a broader claim this one bears on

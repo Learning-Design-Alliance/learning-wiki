@@ -46,6 +46,6 @@ ANOVA interaction in the randomized experiment, pretest-incorrect subgroup (N = 
 
 ## Related Claims
 - [Diagrams improved posttest accuracy only in the read-twice condition, not in the questioning conditions](diagrams-help-posttest-only-read-twice-condition.md) — related
-- [Redundant text in the diagram did not affect posttest accuracy or difficulty ratings](redundant-text-no-effect-posterior-probability-lesson.md) — related
+- [Redundant text in the diagram made no statistically significant difference to posttest accuracy or difficulty ratings](redundant-text-no-effect-posterior-probability-lesson.md) — related
 - [For students who answered the pretest incorrectly, reading the lesson twice yielded higher posttest scores than either embedded questioning or elaborative interrogation](read-twice-beats-questioning-pretest-incorrect.md) — related
 - [Diagrams improve posttest performance on posterior probability problems for students who answered the pretest correctly, whether or not the diagram text is redundant](diagrams-help-pretest-correct-students-posterior-probability.md) — related

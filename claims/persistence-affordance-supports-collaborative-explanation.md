@@ -9,6 +9,7 @@ generated:
   at: 2026-10-18
 evidence_strength: weak
 newest_evidence: 2009
+source_checked: 2026-11-06
 sources:
   - id: gerry-stahl-friedrich-hesse-2009
     resource: "https://doi.org/10.1007/s11412-009-9065-9"
@@ -24,10 +25,10 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q2`
-> **Currency** · newest study 2009 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2009 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
-`q2 i?` The persistence of text- and graphics-based inscriptions in VMT was consequential for students' ability to explain their postings and establish a basis for collaborative activity. [→ Gerry Stahl & Friedrich Hesse 2009](#gerry-stahl-friedrich-hesse-2009)
+`q2 i?` An editorial summarising a separate case study (Cakir, Zemel & Stahl) reports that the persistence of text- and graphics-based inscriptions in VMT was consequential for students' ability to explain their postings and establish a basis for collaborative activity. [→ Gerry Stahl & Friedrich Hesse 2009](#gerry-stahl-friedrich-hesse-2009)
 
 ## Evidence
 
@@ -37,7 +38,7 @@ Gerry Stahl & Friedrich Hesse. (2009). Practice perspectives in CSCL. Computer-S
 
 `q2 · i?` · `theoretical · r2`
 
-Case-study analysis from the Virtual Math Teams project, part of the project's design-based research evaluation. The chat, whiteboard, and wiki components each had subtly different forms of persistence, which the group analysis described.
+An editorial introducing a journal issue on practices in CSCL; it reports no study of its own. It summarises a separate detailed case study in the same issue, by Cakir, Zemel and Stahl, of a small group using the Virtual Math Teams (VMT) environment, which provided the primary evaluation component of the VMT project's design-based research process. The editors describe that analysis as showing persistence to be an affordance that mattered: the chat, whiteboard, and wiki components each had subtly different forms of persistence, "as the analysis pointed out by describing how the group took advantage of these affordances".
 
 > "Unlike most audio and video media, the text- and graphics- based VMT components retained inscriptions for later viewing and reference. This was consequential for the ability of students to explain their postings and activities to each other"
 

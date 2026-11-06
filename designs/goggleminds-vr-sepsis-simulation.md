@@ -42,7 +42,8 @@ The VR intervention was a sepsis management simulation developed by Goggleminds,
 - [Vr Ip Sepsis Mqsat No Differences](../claims/vr-ip-sepsis-mqsat-no-differences.md) [+W]
 
 ## Related Designs
-- 
+
+- [45-minute immersive VR training based on TeamSTEPPS principles with pre- and postdebriefing](immersive-vr-teamstepps-surgical-training.md)
 
 ## Examples
 -

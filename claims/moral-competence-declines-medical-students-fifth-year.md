@@ -68,3 +68,4 @@ Mixed-effects regression on MCT C-scores reporting the Field × Year interaction
 - [No statistically significant differences in moral competence between online and paper-based test administration](no-format-effect-online-paper-moral-competence.md) — related
 - [Trait anxiety is higher among medical than psychology students, with the gap larger in fifth year, though the field-by-year interaction is not statistically significant](medical-students-higher-trait-anxiety-than-psychology.md) — related
 - [ANOVA of post-test MCT scores across the four groups was statistically significant](anova-post-test-mct-significant.md) — related
+- [Learning strategy use differs significantly across academic years, with deep strategies lower and surface strategies higher in fifth-year students](learning-strategies-vary-across-academic-years.md) — related

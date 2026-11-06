@@ -48,3 +48,4 @@ LMS usage-log observation in the blended experimental sections, where students v
 - [Students in blended composition sections reported using and perceiving a wider range of learning materials as helpful than F2F students](blended-composition-wider-learning-tool-range.md) — related
 - [Path analysis showed material choice reasons tracked attributions: text was chosen for perceived high ability and effort, video for low evaluations of both](attribution-paths-material-choice-study2.md) — related
 - [Students who chose to comment on videos and rate comments (active/constructive) were reported to gain conceptual understanding of presentation skills while passive watchers did not, in self-selected groups](active-constructive-engagement-improves-video-conceptual-understanding.md) — related
+- [EIL students apply a wider range of bonding methods in practice than LBL students](eil-wider-range-bonding-methods.md) — related
