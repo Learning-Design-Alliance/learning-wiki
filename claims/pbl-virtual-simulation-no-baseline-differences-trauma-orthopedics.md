@@ -67,3 +67,4 @@ Baseline comparison in the same assessor-blinded RCT of 50 clinical medical stud
 - [No significant difference between teaching models in theoretical examination scores](ltm-theoretical-exam-no-difference.md) — related
 - [Before extreme scores are removed, total exam scores do not differ significantly between CBL+MOC and traditional CBL groups](cbl-moc-total-score-not-significant-before-exclusion.md) — related
 - [Written examination scores improved substantially after simulation-based learning, with the largest effect size of the three assessment components](sbl-improves-written-exam-scores-pediatrics.md) — related
+- [PBL-SP does not significantly change written exam performance relative to LBL-SP](pbl-sp-written-exam-no-significant-difference.md) — related

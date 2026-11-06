@@ -54,3 +54,4 @@ Meta-analysis of 27 publications involving 1542 residents (intervention 770, LBL
 - [PBL is associated with higher overall DREEM medical educational environment scores than LBL in randomized trials](pbl-higher-dreem-than-lbl.md) — related
 - [Integrated online-PBL-CBL teaching yields higher total theoretical examination scores than traditional lecture-based teaching in breast surgery education](online-pbl-cbl-higher-theoretical-exam-scores-breast-surgery.md) — a narrower finding that bears on this claim
 - [OBE-PBL teaching improves total practical assessment scores, with no difference at the neurological examination station](obe-pbl-practical-assessment-station-pattern.md) — a narrower finding that bears on this claim
+- [PBL combined with SP yields higher practical exam and overall scores than LBL combined with SP in orthopedic resident training](pbl-sp-higher-practical-overall-exam-scores-orthopedic-residents.md) — a narrower finding that bears on this claim

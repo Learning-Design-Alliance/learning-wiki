@@ -53,3 +53,4 @@ Instrument-quality report for the outcome measure: a 60-question MCQ test with a
 - [GenAI-assisted items had more distractor-functioning red flags — nonfunctioning and negatively discriminating distractors — although these differences were not statistically significant](genai-mcq-distractor-red-flags.md) — related
 - [ChatPDF.com generates more difficult and discriminating MCQs than ChatGPT 3.5 and ChatGPT 4](chatpdf-com-more-difficult-discriminating-mcqs.md) — related
 - [Reducing MCQ distractors from three to two does not compromise item difficulty, discriminative power, or overall quality in second-year medical exams](two-vs-three-distractors-no-psychometric-difference.md) — related
+- [Generative AI, when used under precise conditions, reduces the cost and time of producing high-quality MCQs without compromising quality](genai-reduces-mcq-cost-and-time.md) — related

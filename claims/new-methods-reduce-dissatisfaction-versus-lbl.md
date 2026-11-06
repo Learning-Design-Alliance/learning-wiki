@@ -57,3 +57,4 @@ In the dissatisfaction NMA (42 studies, 2921 trainees), ten interventions each s
 - [Residents report greater satisfaction with PBL-based teaching than with LBL in Chinese standardized residency training](pbl-higher-teaching-satisfaction-chinese-srt.md) — related
 - [PBL-CBL teaching increases resident satisfaction compared with traditional lecture-based teaching](pbl-cbl-increases-resident-satisfaction.md) — related
 - [AI-assisted PBL-CBL combined teaching increases teaching satisfaction among medical interns compared with lecture-based teaching](ai-pbl-cbl-increases-teaching-satisfaction.md) — a narrower finding that bears on this claim
+- [Medical statistics teaching in Chinese medical schools is dominated by large-class lecture-based instruction with limited practical training](lecture-dominated-statistics-teaching-limited-practicals.md) — related

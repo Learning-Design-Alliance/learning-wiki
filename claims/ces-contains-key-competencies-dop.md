@@ -48,3 +48,4 @@ Mapping analysis conducted by the study team comparing learning objectives from 
 - [Delphi panel reached consensus on six competence areas and 43 learning objectives for dental care of DOP](delphi-consensus-43-learning-objectives-dop.md) — related
 - [European dental schools show large variation in gerodontology teaching, with many lacking clinical and outreach components](european-gerodontology-teaching-variation-gaps.md) — related
 - [The authors identify a particular need for research and education on supportive-care competencies and on how to train and assess professionals in them](supportive-care-competency-research-education-gap.md) — related
+- [The framework comprises nine key areas of competency spanning knowledge, skills, attitudes and organisational competences](nine-competency-areas-inpatient-framework.md) — related

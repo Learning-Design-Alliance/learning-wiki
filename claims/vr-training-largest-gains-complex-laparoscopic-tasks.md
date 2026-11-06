@@ -51,3 +51,6 @@ Results section, Clip Applying analysis of the prospective randomized study (80 
 - [Verbal learners improved significantly only in the VR training group, suggesting VR's structured feedback benefits learners with non-spatial cognitive profiles](verbal-learners-improve-only-in-vr-group.md) — related
 - [Simulation-based training translates laparoscopic surgical skills to the operating room](simulation-training-translates-laparoscopic-skills-to-or.md) — a broader claim this one bears on
 - [VR-trained surgical residents outperform non-VR-trained peers in laparoscopic procedures](vr-trained-residents-fewer-errors-laparoscopy.md) — related
+- [Basic skills acquired on the box trainer transferred to the VR system, but VR skills did not transfer to the box system](box-skills-transferred-to-vr-not-vice-versa.md) — related
+- [Neither box nor VR training led to significant improvement in simulated surgical (gastropexy) task performance](neither-program-improved-simulated-surgical-task.md) — related
+- [VR-trained group scored higher than the box-trained group only on VR intracorporeal suturing post-training](vr-group-higher-only-vr-intracorporeal-suturing.md) — related

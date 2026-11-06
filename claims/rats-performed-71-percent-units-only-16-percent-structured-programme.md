@@ -51,3 +51,4 @@ Cross-sectional national survey of 82 cardiothoracic trainees across all 14 UK/R
 - [Thematic analysis identified structured training approach and dual-console access as the most frequently cited improvements trainees want, with 18 and 20 references respectively](thematic-analysis-structured-training-dual-console-top-improvements.md) — related
 - [Surgeons' previous experience and participation in structured training programmes are associated with shorter robot-assisted learning curves](experience-and-training-programmes-shorten-learning-curves.md) — related
 - [Respondents reported a median of 5 hours of simulation training on a robotic console, and restricted simulation access was a key barrier](median-5-hours-simulation-training-restricted-access-barrier.md) — related
+- [Trainees participated as console surgeons in 43 operations across five procedure types with no training-related adverse events](43-live-console-operations-no-adverse-events.md) — related

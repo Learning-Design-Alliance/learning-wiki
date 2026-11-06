@@ -13,7 +13,7 @@ generated:
 # Mindset
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 80 claims (45 show a difference, 28 mixed, 7 no difference) · 38 studies (17 associational, 9 causal, 7 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 10 of 38 report an effect size · 78 claims rest on one study
+> **Evidence** · 84 claims (48 show a difference, 29 mixed, 7 no difference) · 40 studies (19 associational, 9 causal, 7 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 12 of 40 report an effect size · 82 claims rest on one study
 
 ## Description
 Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset holds that ability is set, a growth mindset that it can be developed. It is measured with short self-report scales. Research tests it as a predictor of achievement, as a moderator, and above all as an outcome of brief growth-mindset interventions. Large preregistered trials and meta-analyses find that the average effect of those interventions on achievement is small and concentrated in lower-achieving students in supportive settings, and that the correlation between mindset and achievement is weak.
@@ -111,6 +111,10 @@ Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset h
 - [Growth mindsets are significantly positively associated with math achievement in 50 of 74 PISA 2022 countries after controlling for socioeconomic status](../claims/growth-mindsets-positive-math-50-of-74-countries.md) [+M] — learners who differ on it differ in outcomes
 - [Growth mindsets were significantly negatively associated with math achievement in five countries, where fixed-mindset students outperformed growth-mindset students](../claims/growth-mindsets-negative-five-countries.md) [+M] — learners who differ on it differ in outcomes
 - [Socioeconomic status significantly moderated the growth mindset–math achievement association in 33 of 74 countries, with no consistent direction](../claims/ses-moderates-mindset-33-of-74.md) [~M] — learners who differ on it differ in outcomes
+- [Family SES did not moderate the growth mindset–achievement association but strengthened the association with motivation and engagement (rich get richer)](../claims/family-ses-moderates-mindset-motivation-engagement-not-achievement.md) [~W] — learners who differ on it differ in outcomes
+- [Growth mindsets are positively associated with academic achievement, intrinsic motivation and academic engagement after controlling for covariates](../claims/growth-mindset-positive-association-learning-outcomes-pisa-2018.md) [+W] — learners who differ on it differ in outcomes
+- [Students' fixed mindsets in math positively predict test anxiety and negatively predict self-efficacy, persistence and achievement](../claims/student-fixed-mindset-predicts-math-motivation-outcomes.md) [+M] — learners who differ on it differ in outcomes
+- [Students' fixed mindsets mediate the links between socializers' beliefs and students' math motivation and behavioural outcomes at the student level](../claims/student-mindsets-mediate-socializer-belief-effects.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do growth-mindset interventions raise achievement, and for which learners and in which settings?* [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](../claims/growth-mindset-improves-achievement.md) [+S]

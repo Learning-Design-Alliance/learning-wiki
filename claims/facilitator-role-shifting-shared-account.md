@@ -53,3 +53,4 @@ Observational analysis of Excerpt 2 in the description phase, where the facilita
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
 - [Merging different technical understandings of Minecraft items into shared nomenclature enabled parallel division of building work (Extract 2)](merged-technical-understanding-minecraft-nomenclature.md) — related
 - [Educators used social networks to guide reflection on engagement, roles, and shared mindset during debriefing](educators-used-social-networks-for-engagement-roles-reflection.md) — related
+- [Collaborative social dynamics in learning groups enable agentic learning by making challenges a shared responsibility](collective-social-dynamics-enable-agentic-learning.md) — related

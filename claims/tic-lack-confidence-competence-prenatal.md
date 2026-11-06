@@ -49,3 +49,4 @@ Thematic analysis of interviews with 23 prenatal clinicians found that "some cli
 - [Prenatal clinicians describe inadequate, generic, and disengaging TIC training relying heavily on self-directed learning](inadequate-generic-tic-training-prenatal.md) — related
 - [Prenatal clinicians report increased empathy and understanding of patient behavior through TIC learning](tic-increased-empathy-prenatal-clinicians.md) — related
 - [Prenatal clinicians show a gap between TIC knowledge and practice despite favorable attitudes](tic-knowledge-practice-gap-prenatal-clinicians.md) — a broader claim this one bears on
+- [Clinicians reported their largest perceived practice changes in providing hope, setting aside time for questions and acknowledging feelings](perceived-practice-change-hope-and-feelings.md) — related

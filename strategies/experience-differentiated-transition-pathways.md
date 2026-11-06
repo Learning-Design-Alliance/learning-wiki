@@ -49,6 +49,7 @@ The authors recommend that "transition curricula may benefit from differentiated
 - [Use CT profiles and behavioural metrics to differentiate pre-service teacher instruction and design a learning analytics dashboard](ct-profile-differentiated-teacher-training-dashboard.md)
 - [Differentiate e-module design by achievement level: add spaced repetition and adaptive quizzes for low achievers and advanced case-based challenges for high achievers](differentiated-e-module-design-by-achievement-level.md)
 - [Offer adaptive learning pathways tailored to learners' prior ultrasound experience level](adaptive-pathways-by-prior-experience.md)
+- [Adapt journal club activities to student academic level and provide structured support for junior students](adapt-journal-club-to-student-level.md)
 
 ## Examples
 -

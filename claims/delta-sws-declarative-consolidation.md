@@ -70,3 +70,4 @@ The review synthesizes rodent reactivation findings: cortical and striatal task-
 - [The number of slow oscillations during sleep is positively correlated with attractiveness ratings of faces associated with cued names but not uncued names](slow-oscillations-correlate-cued-attractiveness.md) — related
 - [Closed-loop TMR timed to the slow-oscillation up-state improves memory consolidation relative to down-state cueing, though direct up-vs-down comparisons yield mixed results](closed-loop-tmr-so-up-state-timing.md) — related
 - [Hippocampal sharp-wave ripples during SWS and waking support memory consolidation and spatial task performance](swr-replay-supports-consolidation-and-spatial-memory.md) — related
+- [Physically implementing newly created knowledge in simulation evokes an embodied experience that consolidates learning and motivates change](embodied-implementation-of-new-knowledge-motivates.md) — a narrower finding that bears on this claim

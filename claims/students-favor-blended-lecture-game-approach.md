@@ -49,3 +49,4 @@ Preference question in the end-of-course gamer survey (n=30), with first, second
 - [Students overwhelmingly favored a hybrid approach combining VDTs with cadaveric dissection over full replacement](students-favor-hybrid-vdt-cadaver-approach.md) — related
 - [Seventy percent of surveyed students believed they learned better from the gaming format than from didactic lectures, and most favored reward points for game activities](students-prefer-games-over-lectures-points.md) — reports the opposite
 - [A blended/hybrid flipped calculus course with an FC Orientation module improved student learning performance and perceptions significantly over the traditional lecture format](spencer-2022-hybrid-fc-improved-performance.md) — related
+- [Most medical students demand clinically integrated case teaching and prefer blended learning over traditional classroom instruction](student-demand-case-integrated-blended-statistics-teaching.md) — a broader claim this one bears on

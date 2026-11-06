@@ -63,6 +63,7 @@ The article recommends weaving EI training into existing courses with objectives
 - [Integrate multi-component simulation-plus-counseling strategies into midwifery curricula to strengthen respectful maternity care](integrate-simulation-counseling-into-midwifery-curricula.md)
 - [Integrate structured reflective sessions into clinical curricula, tailored to students' developmental stage](integrate-structured-reflection-clinical-curricula.md)
 - [Incorporate structured non-technical skills training and structured debriefing sessions within simulation-based education](structured-nts-training-debriefing-recommendation.md)
+- [Integrate mindfulness training programs into nursing curricula to support focus, self-awareness, and emotional regulation](mindfulness-training-in-nursing-curricula-strategy.md)
 
 ## Examples
 -

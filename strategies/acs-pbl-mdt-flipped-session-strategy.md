@@ -53,6 +53,7 @@ An implementable session recipe drawn from the article's experimental group proc
 
 - [Mitigate CBL-MDT implementation challenges through fixed protected scheduling, pre-course orientation, quarterly case review, and OSCE-based assessment.](cbl-mdt-implementation-challenges-mitigation-strategies.md)
 - [Structure MDT-CBL as three modules: preparatory self-study, traditional CBL application, and consolidation by a specialist team](three-module-mdt-cbl-structure.md)
+- [Implement a 2-week CDIO-PBL rotation cycle combining PBL case-based theoretical clinics with a conceive-design-implement-operate skills cycle](cdio-pbl-two-week-rotation-cycle-strategy.md)
 
 ## Examples
 -

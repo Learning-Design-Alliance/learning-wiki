@@ -51,3 +51,4 @@ Theoretical argument in Section 5 reviewing longitudinal studies: Kahr et al. on
 - [AI support can improve task performance while weakening users' metacognitive accuracy and leaving their own reasoning unimproved](ai-performance-metacognition-dissociation.md) — related
 - [AI systems relying on black-box models should not be used for high-stakes applications](black-box-ai-not-for-high-stakes-applications.md) — related
 - [More longitudinal studies are needed to see if the effects are maintained over time.](more-longitudinal-studies-needed-to-see-if-effects-maintained.md) — related
+- [Physicians need awareness that AI tools can negatively influence their cognitive processes, including over-reliance on AI-generated advice](ai-tools-negative-cognitive-influence-physicians.md) — related

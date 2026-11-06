@@ -80,3 +80,4 @@ Authors' interpretation of the same regression results, noting the pattern runs 
 - [Growth mindsets were significantly negatively associated with math achievement in five countries, where fixed-mindset students outperformed growth-mindset students](growth-mindsets-negative-five-countries.md) — reports the opposite
 - [Bivariate correlations between math scores and growth mindsets were modest across countries and weaker than those with socioeconomic status](modest-mindset-math-correlations.md) — related
 - [In 26 countries growth mindsets benefited higher-SES students more, while in 7 countries they benefited lower-SES students more](ses-moderation-direction-split-26-7.md) — related
+- [The study found almost no support for the compensatory hypothesis that growth mindsets benefit disadvantaged students more](no-support-compensatory-hypothesis-correlational.md) — reports the opposite

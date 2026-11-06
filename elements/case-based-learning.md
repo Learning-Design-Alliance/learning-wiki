@@ -13,7 +13,7 @@ generated:
 # Case-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 21 claims (15 for, 4 mixed, 2 against) · 29 studies (14 causal, 6 review, 4 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 7 of 29 report an effect size · 15 claims rest on one study
+> **Evidence** · 22 claims (16 for, 4 mixed, 2 against) · 30 studies (15 causal, 6 review, 4 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 7 of 30 report an effect size · 16 claims rest on one study
 
 ## Description
 Case-based learning places learners in the role of analyst or decision-maker confronting a realistic scenario — a patient presentation, a business dilemma, a legal dispute — and asks them to apply theoretical concepts to interpret it and choose a course of action. The case functions as an authentic problem context in which abstract principles must be retrieved, adapted, and defended rather than merely recalled.
@@ -68,6 +68,7 @@ Case-based learning improves exam performance and supports transfer by forcing l
 - [Students perceive that contextualizing physiology in clinical cases improves conceptual clarity, retention and understanding of abstract mechanisms](../claims/cbl-perceived-conceptual-clarity-retention.md) [+W] — attached 2026-11-05 from Ahmed et al. (2026), which proposed "Case-based learning as implemented in preclinical physiology at a resource-limited public-sector medical university".
 - [Residents on a pediatric endocrinology elective report high satisfaction with self-directed online CBL modules](../claims/online-cbl-high-resident-satisfaction-pediatric-endocrinology.md) [+W] — attached 2026-11-05 from Freeman W et al. (2026), which proposed "Five self-directed online CBL modules in pediatric endocrinology with sequential questions and audiovisual feedback".
 - [Residents self-report high knowledge acquisition from online pediatric endocrinology CBL modules](../claims/online-cbl-self-reported-knowledge-gain-endocrinology.md) [+W] — attached 2026-11-05 from Freeman W et al. (2026), which proposed "Five self-directed online CBL modules in pediatric endocrinology with sequential questions and audiovisual feedback".
+- [A retrospective pre-post survey of 30 BS/MD students found that self-rated scores for distinguishing CBL roles, interpreting case components, and formulating a differential diagnosis rose significantly from before to after a student-led CBL workshop, in one group without a comparison group](../claims/cbl-workshop-significant-competency-gains-bsmd.md) [+W] — attached 2026-11-06 from Chauhan Sneha; Martin Luke; Senthil Vani; Cheema Herjot; D'Eon Marcel (2025), which proposed "Medical student-led case-based learning workshop for pre-medical BS/MD undergraduates".
 
 ## The evidence by question
 - *Does teaching through realistic cases, by itself, raise learning?* [Case-based learning improves exam performance](../claims/case-based-learning-improves-exam-performance.md) [+M]

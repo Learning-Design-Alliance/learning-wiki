@@ -49,6 +49,7 @@ The article recommends that educators and system designers not integrate raw LLM
 - [Mitigate LLM feedback errors by supplying course materials and compiler errors in the prompt, fact-checking generated feedback, and adapting feedback structure to student behavior](mitigate-llm-feedback-errors-context-and-fact-checking.md)
 - [Implement sequential feedback models deploying AWE from surface-level corrections to deeper feedback on cohesion and argumentation](awe-sequential-feedback-model-strategy.md)
 - [Frame LLM use in biomedical education around low‐stakes formative tasks with expert‐guided verification and rationale requests](llm-low-stakes-formative-use-expert-verification-strategy.md)
+- [Incorporate student feedback loops so AI assessment systems improve accuracy and guide learning](student-feedback-loops-ai-assessment.md)
 
 ## Examples
 -

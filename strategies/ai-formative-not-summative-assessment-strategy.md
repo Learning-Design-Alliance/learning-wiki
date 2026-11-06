@@ -49,6 +49,7 @@ The review recommends that "the use of AI in summative assessment should be avoi
 - [Design balanced, integrated assessment models that combine theoretical and laboratory learning and incorporate both formative and summative dimensions supported by technology](balanced-integrated-general-chemistry-assessment-models.md)
 - [Use the validated VR simulator test for both formative feedback and summative certification within a mastery learning training program](foi-test-formative-summative-mastery-learning-use.md)
 - [Use the SOE formatively to give students individual feedback on weak skill profiles, and combine it with SKT or KFE modules for broader level-2 evidence](soe-formative-feedback-and-skt-kfe-triangulation-strategy.md)
+- [Implement hybrid AI-generation with expert calibration for examination production](hybrid-ai-generation-expert-calibration-strategy.md)
 
 ## Examples
 -

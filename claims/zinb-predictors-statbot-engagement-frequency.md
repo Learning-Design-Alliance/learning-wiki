@@ -93,3 +93,5 @@ In the same ZINB count model of StatBot use, prior knowledge carried a negative 
 - [Female students and higher previous-year achievers were more likely to be high users of the PPES course](ppes-course-use-predictors-female-achievers.md) — related
 - [240 voluntary participants completed the full app session, predominantly female and mostly aged 21-30](240-participants-completed-app-session.md) — related
 - [Only course repetition, among demographic variables, is significantly associated with lower ATSHWS scores](course-repetition-lower-atshws-scores.md) — related
+- [Gender differences in statistics engagement favor female students in clinical application and method familiarity, with all comparisons significant at p < 0.05](gender-differences-statistics-engagement-medical-students.md) — related
+- [General experience of the journal club differed by gender and course, with engagement and clarity ratings varying between groups](journal-club-engagement-clarity-group-differences.md) — reports the opposite

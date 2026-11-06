@@ -61,3 +61,4 @@ Content validity evaluation by six nursing faculty and clinical nurses using an 
 - [Expert-rated content validity of the scale is strong, with item-level CVI of 0.80 to 1.00 and scale-level CVI of 0.96](endoscopy-nurse-scale-content-validity.md) — related
 - [Expert consultation yields high content validity for the scale: item CVI 0.78–1.00 and overall scale CVI 0.91](palliative-communication-scale-cvi-091-content-validity.md) — related
 - [Expert consultation rated the CCDNS-DRN with excellent content validity (I-CVI 0.78–1.0, S-CVI/UA 0.85, S-CVI/Ave 0.98)](ccdns-drn-content-validity-expert-consultation.md) — related
+- [Expert content review using the Davis method removed five draft items with content validity indices below 0.80](scas-content-validity-davis-cvi-item-removal.md) — related

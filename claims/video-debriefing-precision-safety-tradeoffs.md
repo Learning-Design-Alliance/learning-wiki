@@ -51,3 +51,4 @@ The editorial reports, citing Schreder et al.'s qualitative study comparing vide
 - [High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety](vad-stress-psychological-safety-threat.md) — a narrower finding that bears on this claim
 - [Video evidence in VAD increased participants' acceptance of feedback and its credibility, reducing disputes over whether critical observations were correct](video-evidence-increases-feedback-acceptance.md) — a narrower finding that bears on this claim
 - [Reflections immediately following the events of interest facilitate greater and more situated recall and precision](immediate-reflection-situated-recall.md) — related
+- [Upholding professional credibility under peers' scrutiny is an enabler of agentic learning](professional-credibility-enables-agentic-learning.md) — related

@@ -55,3 +55,4 @@ Pearson correlation analysis among the four main dimensions (Table 3, 200 teache
 - [A DL professional development course improved teachers' DL teaching practices and DL self-efficacy but had no effect on their self-innovativeness](pd-course-improves-practices-not-innovativeness.md) — related
 - [Teachers rated fostering student engagement as the most difficult DL teaching practice, below class management and teaching strategies](student-engagement-hardest-dl-practice.md) — related
 - [Post-test measures of teacher knowledge, self-efficacy, self-reported use, and application were significantly and positively intercorrelated, with the strongest link between self-efficacy and self-reported use](post-measure-correlations-positive.md) — related
+- [Teacher self-efficacy positively predicts innovative teaching practices among Chinese faculty](self-efficacy-predicts-innovative-teaching-chinese-faculty.md) — related

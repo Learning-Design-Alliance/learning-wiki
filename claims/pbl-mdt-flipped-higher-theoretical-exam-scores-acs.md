@@ -53,3 +53,5 @@ Randomized two-group comparison (n = 50 per group) in a two-week ACS clerkship a
 - [Flipped classroom shows a significant pooled advantage over lecture-based learning in dental education (SMD = 0.50)](flipped-classroom-significant-vs-lbl-dental.md) — a broader claim this one bears on
 - [Integrated PBL and medical humanities teaching produced no significant between-group difference in post-intervention theoretical examination scores compared with LBL](integrated-pbl-humanities-no-difference-theoretical-scores.md) — reports the opposite
 - [SOM-PBL yields significantly higher theoretical examination scores than traditional lecture-based teaching in ICU clerkships (Cohen's d = 0.455)](som-pbl-higher-theoretical-knowledge-scores.md) — related
+- [Flipped classroom and lecture-based teaching showed no significant difference in learning scores](fc-vs-lbt-no-learning-difference.md) — reports the opposite
+- [First-year nursing students taught with a flipped classroom scored significantly higher on knowledge post-test and persistence tests than students taught by traditional lecture](fcm-higher-knowledge-posttest-persistence-nursing.md) — related

@@ -46,6 +46,7 @@ The review recommends that staff and student induction and ongoing training in t
 - [During adoption, determine professional learning needs and secure sustainable funding for training before proceeding](adoption-stage-professional-learning-funding.md)
 - [Provide ongoing support and school-day time for teachers completing micro-credentials](ongoing-support-and-release-time-micro-credentials.md)
 - [Sustain technology integration through ongoing professional development, technical support, and sharing of best practices](sustained-institutional-support-digital-pedagogy.md)
+- [Faculty induction through flexible one-to-one tailored drop-in training sessions over an extended timeframe](one-to-one-faculty-haptics-induction.md)
 
 ## Examples
 -

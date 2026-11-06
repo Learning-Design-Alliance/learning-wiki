@@ -13,7 +13,7 @@ generated:
 # Belonging
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 129 claims (91 show a difference, 31 mixed, 7 no difference) · 93 studies (25 review, 18 associational, 17 causal, 15 qualitative, 7 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 8 of 93 report an effect size · 124 claims rest on one study
+> **Evidence** · 130 claims (92 show a difference, 31 mixed, 7 no difference) · 94 studies (25 review, 18 associational, 17 causal, 16 qualitative, 7 design, 6 theoretical, 5 quant-synthesis), `q1`–`q4` · 8 of 94 report an effect size · 125 claims rest on one study
 
 ## Description
 Whether a learner expects to be treated as a full participant here — and how much attention the question itself consumes. It is measured by self-report scales of social belonging, by stereotype-threat manipulations, and by behavioural proxies such as help-seeking and persistence after failure. Belonging is not a proxy for motivation: a learner can want the outcome badly and still spend working memory monitoring whether they are welcome, which is why brief interventions that change the *interpretation* of difficulty can move outcomes without changing the instruction at all [+M].
@@ -166,6 +166,7 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Medical students who attend a student-led peer teaching society report improved knowledge, confidence, motivation and sense of community](../claims/meded-attendance-reported-academic-and-community-benefits.md) [+M] — measured as an outcome of the instruction studied
 - [Teaching practices are associated with sense of belonging: higher group work characterizes agreement on most items that differ](../claims/group-work-belonging-simplex.md) [+M] — measured as an outcome of the instruction studied
 - [Group composition and educator cultural responsiveness shape CALD students' participation and sense of belonging in SBL](../claims/peer-educator-relationships-cald-sbl.md) [+M] — measured as an outcome of the instruction studied
+- [Upholding professional credibility under peers' scrutiny is an enabler of agentic learning](../claims/professional-credibility-enables-agentic-learning.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

@@ -59,3 +59,4 @@ Self-administered 5-point Likert questionnaire completed by the CBL-FC group onl
 - [Residents on a pediatric endocrinology elective report high satisfaction with self-directed online CBL modules](online-cbl-high-resident-satisfaction-pediatric-endocrinology.md) — related
 - [Residents self-report high knowledge acquisition from online pediatric endocrinology CBL modules](online-cbl-self-reported-knowledge-gain-endocrinology.md) — related
 - [Students in the flipped histology course reported positive experiences, high ratings of stimulation and engagement, and unanimous willingness to take further flipped courses](positive-student-experience-flipped-histology.md) — related
+- [More flipped classroom residents self-reported improved communication, problem-solving, information-retrieval and teamwork abilities than lecture-based residents](fc-residents-self-reported-learning-ability-gains.md) — related

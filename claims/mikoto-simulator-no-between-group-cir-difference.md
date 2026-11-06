@@ -48,3 +48,4 @@ Primary endpoint analysis of a multicenter cluster-randomized trial (12 trainees
 - [ACE tool assessments showed significant group-by-period interactions favoring the mikoto group on selected insertion-related items, interpreted as exploratory](mikoto-ace-exploratory-interactions.md) — related
 - [Within the mikoto group, cecal intubation rate rose significantly from 60.0% to 80.0% after simulator training](mikoto-within-group-cir-improvement.md) — related
 - [Cecal intubation time decreased significantly within the mikoto group but not between groups](mikoto-within-group-cit-reduction.md) — related
+- [Cecal intubation rate did not differ significantly between AI-trained and conventionally trained endoscopists](cade-training-cir-no-significant-difference.md) — related

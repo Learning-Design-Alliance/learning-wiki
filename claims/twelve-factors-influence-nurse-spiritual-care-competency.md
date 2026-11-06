@@ -53,3 +53,5 @@ Meta-analysis of influencing factors across the 16 included cross-sectional stud
 - [Univariable differences across competency profiles concentrate in career-stage and psychological variables, while sex, education and specialist nurse status show no significant differences](profile-differences-career-stage-psychological-variables.md) — related
 - [Most psychology training programs offer no courses in religion and spirituality](psychology-training-lacks-religion-spirituality-courses.md) — related
 - [The religious attachment dimension of spiritual health scored lowest and showed only a weak correlation with core competencies](religious-attachment-lowest-weak-correlation-competencies.md) — related
+- [Age and working experience each significantly predict higher spiritual care competency scores](age-experience-predict-spiritual-care-competency.md) — related
+- [Marital status and time for family commitment show significant associations with competency, while gender, educational level and working hours do not](marital-family-time-significant-gender-education-not.md) — related

@@ -54,3 +54,4 @@ Dichotomous course feedback items from the same study; the article reports "87.1
 - [Students valued teacher guidance (90%) and recommended continuation of the activity (93%)](pbl-scaffolding-teacher-guidance-continuation.md) — related
 - [Students received the new PBL oral-health content positively, with most judging PBL a suitable format](students-received-pbl-oral-content-positively.md) — related
 - [LEDs found the SIMBA programme highly acceptable and predominantly preferred it over traditional lecture-based learning](simba-high-acceptability-leds.md) — related
+- [Students perceived the journal club skills as useful for future careers and reported high satisfaction and willingness to recommend the activity](journal-club-perceptions-satisfaction-future-use.md) — related

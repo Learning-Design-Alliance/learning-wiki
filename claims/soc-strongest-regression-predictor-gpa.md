@@ -77,3 +77,4 @@ Stepwise regression performed to confirm robustness of the simultaneous model in
 - [Female gender, administrative position and lecture attendance independently predict adequate enteral nutrition knowledge](independent-factors-adequate-en-knowledge.md) — related
 - [Male students demonstrated higher GPA than female students in this sample, and sex was a significant regression predictor](sex-difference-gpa-male-higher-dilla-sample.md) — reports the opposite
 - [Social well-being components explain 11.1% of variance in academic achievement, with social acceptance the significant predictor (β = 0.136) despite a null bivariate correlation](social-acceptance-predicts-achievement-regression.md) — related
+- [Male nursing students scored slightly higher GPA than female students in this sample](male-students-higher-gpa-sample.md) — reports the opposite

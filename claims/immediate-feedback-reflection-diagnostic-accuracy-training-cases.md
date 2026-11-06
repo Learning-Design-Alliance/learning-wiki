@@ -49,3 +49,4 @@ The review reports this from Choi et al.'s study (reference [77]): feedback plus
 - [In an RCT reviewed here, adding AI-generated feedback to a GenAI virtual patient improved medical students' clinical decision-making relative to simulation alone](ai-feedback-improves-clinical-decision-making-rct.md) — related
 - [AI-driven case simulations in ambulatory settings support diagnostic reasoning and anticipatory thinking in nursing education](ai-ambulatory-case-simulations-diagnostic-reasoning.md) — related
 - [AI-driven teaching paradigm improves diagnostic performance in medical imaging education](ai-paradigm-improves-diagnostic-performance.md) — related
+- [Decision-making biases are prevalent in clinical errors but largely ignored in medical education, which teaches them mainly by lecture](decision-biases-prevalent-but-undert-aught-in-medical-education.md) — related

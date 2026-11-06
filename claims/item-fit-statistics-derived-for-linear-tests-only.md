@@ -52,3 +52,4 @@ The authors' framing statement in the presentation description asserts that fit-
 - Ability-distribution mismatch with the TESTFACT default does not significantly affect item difficulty estimates but slightly improves discrimination estimates — related
 - In a statewide VLE algebra dataset, item missingness is nonignorable: skipping is related to student ability and item difficulty as measured in 2PL-IRT — related
 - [CAT data cannot be fit into factor models at the item level, making item-level construct validity investigation meaningless for CAT](cat-item-level-construct-recovery-impossible.md) — related
+- [CTT-developed uncertainty tolerance scales are unfit for evaluating HPE learners despite adequacy in experienced doctors, because CTT does not account for contextual differences](ctt-uncertainty-scales-unfit-for-hpe-learners.md) — related

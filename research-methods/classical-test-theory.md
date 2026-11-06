@@ -25,6 +25,7 @@ CTT (True Score Theory) describes an observed score as composed of a true score 
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Classical Test Theory (CTT) and its stated limitations**: CTT (True Score Theory) describes an observed score as composed of a true score and random error, estimating true scores from observed scores. The article lists limitations: "item parameters are dependent on the group to which a test is administered", no item-level evaluation of individuals, one standard error for all individuals, difficulty achieving high reliability with few items, and ordinal-scale data. Its advantages are few assumptions, simple computations, and usability with small samples. (Ilhan et al. (2018))
+- **Classical test theory and item response theory as psychometric approaches aligned with positivist and post-positivist worldviews respectively**: The article presents CTT and IRT as two measurement theories whose assumptions map onto worldviews. CTT, the foundation of measurement theory "for over 80 years," models a test score as a true score plus random error, assumes the construct is stable and each person is "equal," and focuses analysis on total scores and reliability. IRT instead postulates that "a response to an item on a measurement tool is a function of the item's difficulty and the person's ability," enabling item-level difficulty and discrimination analysis; Rasch models further assume unidimensionality, local independence, and monotonicity. (Lazarus Michelle D. et al. (2025))
 
 ### Claims
 
@@ -38,8 +39,8 @@ CTT (True Score Theory) describes an observed score as composed of a true score 
 
 ## Key Sources
 - Ilhan, M., & Guler, N. (2018). A Comparison of Difficulty Indices Calculated for Open-Ended Items According to Classical Test Theory and Many Facet Rasch Model. Eurasian Journal of Educational Research, 75. [doi:10.14689/ejer.2018.75.6](https://doi.org/10.14689/ejer.2018.75.6)
-
 <!-- merged 2026-10-10 from theories/ctt-assumptions-and-limitations-ilhan-2018 ("Classical Test Theory (CTT) and its stated limitations"), misfiled as a theorie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Lazarus Michelle D., Sarkar Mahbub, Palermo Claire, Soh Sze‐Ee, Farlie Melanie K. (2025). Expanding worldviews on psychometric analysis of measurement tools in health professions education and research. Anatomical Sciences Education. https://doi.org/10.1002/ase.70053
 
 # Classical Test Theory (CTT) and its stated limitations
 

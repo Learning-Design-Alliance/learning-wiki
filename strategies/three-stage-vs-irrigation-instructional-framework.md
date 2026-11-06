@@ -54,6 +54,7 @@ The authors propose a three-stage instructional framework incorporating the virt
 - [Introduce virtual simulation systems in Periodontics to support integration of theoretical and practical skills](virtual-simulation-systems-perio-skills-integration.md)
 - [Integrate virtual patients into preclinical dental curricula and evaluate with objective outcome measures](integrate-vps-preclinical-dental-curriculum-strategy.md)
 - [Introduce VR simulation during the preclinical phase of dental education, before students perform procedures on patients](vr-simulation-preclinical-phase-integration.md)
+- [Clinical scenario comprehensive training with high-fidelity models and case libraries to build integrated root canal treatment competence](clinical-scenario-comprehensive-training.md)
 
 ## Examples
 -

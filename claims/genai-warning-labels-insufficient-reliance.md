@@ -77,3 +77,4 @@ The review reports these reliance findings as consistent with automation-bias re
 - [Teacher-created video mistake messages were not harmful but produced no significant learning differences compared with answer-only feedback (n = 649)](teacher-video-mistake-messages-null.md) — related
 - [Students rarely cross-check ChatGPT outputs, and use it most on topics where they have least knowledge, increasing risk of absorbing errors](students-rarely-cross-check-chatgpt-errors.md) — related
 - [The LLM gave the learner warnings, ethical advice, and feedback on their PFA performance, including psychoeducation](llm-gives-learner-feedback-and-warnings.md) — related
+- [Physicians need awareness that AI tools can negatively influence their cognitive processes, including over-reliance on AI-generated advice](ai-tools-negative-cognitive-influence-physicians.md) — related

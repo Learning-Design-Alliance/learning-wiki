@@ -84,3 +84,4 @@ Case-study evidence on principals' role in enabling LSCs reports that "they make
 - [Creativity-supportive school climates combine autonomy, psychological safety, teacher encouragement, and rich resources](creativity-supportive-climate-factors.md) — related
 - [Peer learning's effectiveness depends on psychological safety and trust within the group; informal networks may disproportionately benefit those with stronger social capital](peer-learning-psychological-safety-and-equity-conditions.md) — related
 - [Qualified listening within the action research process made dental students feel heard and valued and surfaced problems that would otherwise remain unnoticed.](qualified-listening-fostered-trust-and-surfaced-overlooked-issues.md) — related
+- [Students' trust in peers' clinical answers depends on perceived sense of authority and position of authority](trust-sense-and-position-of-authority-tbl.md) — related

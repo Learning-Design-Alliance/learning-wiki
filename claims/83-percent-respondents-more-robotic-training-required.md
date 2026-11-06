@@ -51,3 +51,4 @@ Descriptive finding from the national survey of 82 trainees: "A majority of resp
 - [Dual console systems were absent or unused in 43% of robotic units, and lack of dual-console access was identified as the most significant barrier to RATS training](dual-console-absent-unused-43-percent-top-barrier.md) — related
 - [Surgeons' previous experience and participation in structured training programmes are associated with shorter robot-assisted learning curves](experience-and-training-programmes-shorten-learning-curves.md) — related
 - [Most participants favor simulator implementation in endoscopy training, but few have institutional access](endonix-implementation-attitudes-and-access.md) — related
+- [Trainees participated as console surgeons in 43 operations across five procedure types with no training-related adverse events](43-live-console-operations-no-adverse-events.md) — related

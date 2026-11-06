@@ -50,3 +50,4 @@ An orthopaedic consultant blinded to group condition rated recorded SawBone perf
 - [Operative time does not differ between training groups for successful implant insertions, despite a medium-sized non-significant difference](haptic-vr-operative-time-successful-null.md) — related
 - [Among participants with unsuccessful implant insertions, the VR group stopped the procedure significantly earlier than the control group](haptic-vr-unsuccessful-operative-time-earlier.md) — related
 - [VR simulation training improves orthopaedic trainees' technical proficiency and shortens operative times](vr-simulation-improves-ortho-technical-proficiency.md) — reports the opposite
+- [Pedicle screw placement accuracy rose from pre-test to post-test after one 50-minute VRFF-SSTS training session among orthopedic fellows across all spinal regions, in one group with no comparison group; assessment used sawbones only](vrff-ssts-study-design-limitations.md) — related

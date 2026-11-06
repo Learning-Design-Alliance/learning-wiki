@@ -50,3 +50,4 @@ This is the protocol's narrative attribution in its introduction, citing prior s
 ## Related Claims
 - [Inadequate evidence synthesis skills left nearly 70% of pharmacy students and practitioners reporting lack of confidence in applying evidence in patient care](inadequate-evidence-synthesis-skills-lack-confidence-applying-evidence.md) — related
 - [Qualitative interviews revealed enhanced critical appraisal skills, evidence synthesis capabilities, and professional confidence](qualitative-ebp-competency-gains.md) — related
+- [A structured paired journal club activity leads pharmacy students to report new knowledge and increased confidence in critically evaluating research](journal-club-self-reported-knowledge-confidence-gains.md) — a narrower finding that bears on this claim

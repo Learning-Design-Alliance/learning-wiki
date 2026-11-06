@@ -50,6 +50,7 @@ The article's intervention used Student Standardized Patients (SSP) in small gro
 - [Use standardized patients with structured training and consistent role portrayal across simulation sessions](standardized-patients-structured-training-consistent-portrayal.md)
 - [Use instructor-led reflective debriefing and role-play with standardized patients to prepare students for the transition to clinical training](debriefing-roleplay-clinical-transition-strategy.md)
 - [Use role-play of standardized clinical scenarios as the shared active-learning core of communication-skills workshops](role-play-standardized-scenarios-communication-workshops.md)
+- [Use a practical role-play unit with standardized drama patients plus an online theory module for one-time communication training](drama-patient-roleplay-communication-training-strategy.md)
 
 ## Examples
 -

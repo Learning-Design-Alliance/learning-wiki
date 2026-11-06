@@ -73,3 +73,4 @@ Effect-size estimation reported in the Results and Discussion section of the sam
 - [Second graders learning multiplication with the JCLS rated constructivist learning significantly higher than the blackboard control group](jcls-higher-constructivist-learning-than-blackboard.md) — related
 - [The utilization of educational technology techniques and innovations has a high effect size on academic achievement (η² = 0.916, D = 6.60)](edtech-high-effect-size-academic-achievement.md) — related
 - [Blended Blackboard CMC instruction using discussion boards, blogs and wikis significantly improves integrated reading/writing performance in EFL college students](blackboard-cmc-improves-integrated-reading-writing.md) — related
+- [The study reports an eta-squared value of 75% indicating the variance in integral practice accounted for by the main themes](eta-squared-75-percent-integral-practice-variance.md) — related

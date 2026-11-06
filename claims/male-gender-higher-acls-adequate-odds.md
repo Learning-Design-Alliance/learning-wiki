@@ -47,3 +47,4 @@ Logistic regression analysis of the 124 ACLS trainees comparing males with femal
 ## Related Claims
 - [Most ACLS-trained health care professionals (73.4%) demonstrated adequate ACLS knowledge and skills immediately after training](ghana-heart-initiative-acls-adequate-73-4-percent.md) — related
 - [Recent workshop attendance predicts confidence in performing CPR (aOR = 6.93), while male dentists report lower confidence (aOR = 0.59)](workshop-and-gender-predict-cpr-confidence.md) — related
+- [Female participants demonstrated significantly better knowledge of oral care/health management for cancer patients than males (58.9% vs. 47.4%, p < 0.05)](females-exceed-males-oral-care-management-knowledge.md) — reports the opposite

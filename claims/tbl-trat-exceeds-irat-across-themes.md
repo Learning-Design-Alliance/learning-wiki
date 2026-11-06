@@ -50,3 +50,4 @@ Team-level performance was considered using supplemental violin plots comparing 
 - [TBL improves team readiness assurance test scores compared to individual tests](tbl-grat-outperforms-irat.md) — a broader claim this one bears on
 - [Students in healthcare-professions TBL achieve significantly higher GRAT scores than IRAT scores (pooled SMD = 2.05)](grat-scores-higher-than-irat-tbl-meta-analysis.md) — a broader claim this one bears on
 - [Students perform significantly higher on the team portion of the Readiness Assessment Test than on the individual portion in a TBL laboratory module](team-rat-scores-higher-than-individual-rat.md) — a broader claim this one bears on
+- [Peer calibration during TBL acts as both an enabler and a deterrent to medical students' self-confidence](peer-calibration-tbl-confidence-enabler-deterrent.md) — related

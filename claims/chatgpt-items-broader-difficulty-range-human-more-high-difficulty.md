@@ -50,3 +50,4 @@ Kiyani Amber, Hanif Fariha, Muhammad Muhammad, Iqbal Sana, Zaib Nadia, Bashir Ul
 - [Faculty-generated SBMCQs showed superior discrimination indices and distractor effectiveness compared with ChatGPT-generated SBMCQs](faculty-sbmcqs-superior-discrimination.md) — related
 - [Faculty-generated SBMCQs met all three ideal item-analysis criteria more often than ChatGPT-generated SBMCQs (19 vs. 9 of 40)](faculty-sbmcqs-outperform-chatgpt-ideal-criteria.md) — related
 - [ChatGPT-generated SBMCQs skewed easier than faculty-generated SBMCQs, whose difficulty was predominantly in the appropriate range](chatgpt-sbmcqs-easier-difficulty-index.md) — reports the opposite
+- [AI-generated X-type questions were easier than human-designed X-type questions (difficulty 0.77 vs. 0.62)](ai-x-type-questions-easier.md) — related

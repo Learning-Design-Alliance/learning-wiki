@@ -67,3 +67,4 @@ This is a small, purposively-sampled design-based research study (6 core teacher
 - [Interpreting student work is an inherently epistemic endeavor in which teachers evaluate others' knowledge representations against their own epistemic ideals](interpreting-student-work-epistemic-endeavor.md) — related
 - [Bennett et al.'s study engaged a diverse cross-section of university teachers across disciplines and modalities, yet reported common shared design practices](diverse-cohort-common-shared-design-practices.md) — related
 - [Disciplinary diversity among facilitators was consistently perceived as a strength enriching training and group supervision](disciplinary-diversity-strength-training-supervision.md) — related
+- [Workshop participants raised no contention about the scaffolded learning design and outcomes across six breakout groups](workshop-no-contention-learning-design-representation.md) — related

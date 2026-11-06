@@ -53,3 +53,4 @@ Paired t test on procedure durations recorded from video performances of the sam
 - [Operative time decreased significantly across the learning curve, from 27.1 to 20.4 minutes between phases](operative-time-reduction-thd-anolift.md) — related
 - [Console time decreased substantially with increasing surgical experience, with an estimated reduction of 33.2 min over the first 14 procedures](console-time-decreases-with-experience-versius.md) — related
 - [FONA procedure duration after three months was on average 3.6 seconds longer for the self-made-model group, with no pre-specified non-inferiority threshold](fona-duration-self-made-plus-3-6s.md) — related
+- [Time to acquire all eight rTEE views decreased from 7.3 minutes at month 6 to 5.7 minutes at month 7, a non-significant difference](rtee-acquisition-time-month6-month7.md) — related

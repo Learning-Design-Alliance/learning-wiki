@@ -52,3 +52,4 @@ Thematic analysis of 24 interviews. Participants consented to sharing educationa
 - [Faculty members and students identify both user-related and algorithm-related ethical risks in AI use in education](user-and-algorithm-related-ethical-risks-ai-education.md) — related
 - [Universities converge on privacy-oriented data guardrails, warning against entering sensitive data into consumer AI tools and encouraging institutionally approved services](genai-privacy-data-guardrails-convergence.md) — related
 - [Senior manager buy-in, teaching staff buy-in, legal framework, privacy protection, and ethics guidelines were rated critically important to achieving LA potential](la-potential-critical-elements.md) — related
+- [Patients are more concerned about AI tool accuracy and data privacy than about tool explainability](patients-prioritize-accuracy-privacy-over-explainability.md) — related

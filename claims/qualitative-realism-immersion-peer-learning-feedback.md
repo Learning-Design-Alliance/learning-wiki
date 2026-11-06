@@ -59,3 +59,4 @@ Qualitative arm: written responses to open questions after training were coded a
 - [Participants perceived the VR camera navigation test as realistic and reflective of their true clinical operational level](participants-perceive-vr-test-realistic-reflective.md) — a narrower finding that bears on this claim
 - [Male undergraduate nursing students in the UAE perceive maternity simulation as practice that mirrors realistic clinical situations and improves their knowledge and skills](male-nursing-students-perceive-simulation-realistic-knowledge-skills.md) — related
 - [Scenario realism and interaction with standardized patients, rather than mannequins, generate immersion and emotional involvement in novice nursing students](sp-realism-drives-immersion-and-involvement.md) — related
+- [Learners' buy-in to a realistic, immersive educational experience ('being' rather than 'pretending') enables agentic engagement](being-not-pretending-enables-agentic-learning.md) — related

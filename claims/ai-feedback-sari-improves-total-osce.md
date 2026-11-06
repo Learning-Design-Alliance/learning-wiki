@@ -55,3 +55,4 @@ Quasi-experimental study of 115 sixth-semester medical students allocated by hos
 - [AI feedback improved the generic medical history OSCE domain (r=0.27) while other domains showed no significant differences](ai-feedback-generic-medical-history-domain-only.md) — a narrower finding that bears on this claim
 - [CRI-HT scores rose from pre-test to post-test after AI-powered simulated patient practice, in one uncontrolled pre-post study](aisp-cortex-improves-cri-ht-reasoning.md) — related
 - [LLM-VSP self-practice improves medical history-taking performance in matched comparison (Cohen d=0.52)](llm-vsp-improves-history-taking-matched.md) — related
+- [Communication simulation training raises senior medical students' informed consent OSCE scores under the UCD rubric versus standard clinical learning (mean grade C to B+, effect size 0.79)](cst-improves-consent-osce-ucd-rubric.md) — related

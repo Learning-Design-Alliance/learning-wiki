@@ -60,3 +60,4 @@ This is the brief's own conceptual argument for the Balance criterion, not a tes
 - [Educators prioritize a creative mindset including creative problem-solving, diversity of perspectives, and playful inquiry](makerspace-creative-mindset-competency.md) — related
 - [Intrapersonal and interpersonal competencies are widely represented across curricula whereas organizational-level competencies appear in relatively few studies](mlm-organizational-competencies-underrepresented.md) — related
 - [The expert workshop yielded key insights including the value of an educational-psychological perspective and the need to differentiate Modalities](bcp-expert-workshop-insights.md) — related
+- [The framework comprises nine key areas of competency spanning knowledge, skills, attitudes and organisational competences](nine-competency-areas-inpatient-framework.md) — a narrower finding that bears on this claim

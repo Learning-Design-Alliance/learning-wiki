@@ -51,3 +51,4 @@ Descriptive analysis of interviews with 10 students, triangulated with student a
 - [Students exposed to the layered curriculum chose activities they believed would reinforce learning and reported increased motivation and responsibility](layered-curriculum-student-activity-choice-motivation.md) — related
 - [About two thirds of the preservice teachers (67%) reported choosing the CEIT department willingly](two-thirds-chose-ceit-willingly.md) — related
 - [Free choice of book motivated students to read more and gain more enjoyment](rsa-free-book-choice-motivates.md) — related
+- [Clinical teachers judged the haptics software's available learning activities excessive for the required competence and curriculum time](haptics-tasks-exceed-required-competence.md) — related

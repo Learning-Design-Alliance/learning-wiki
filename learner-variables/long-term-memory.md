@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 238 claims (138 show a difference, 60 mixed, 40 no difference) · 156 studies (86 causal, 32 review, 17 quant-synthesis, 10 theoretical, 8 associational, 2 qualitative, 1 design), `q1`–`q4` · 51 of 156 report an effect size · 230 claims rest on one study
+> **Evidence** · 239 claims (139 show a difference, 60 mixed, 40 no difference) · 157 studies (86 causal, 32 review, 17 quant-synthesis, 10 theoretical, 8 associational, 3 qualitative, 1 design), `q1`–`q4` · 51 of 157 report an effect size · 231 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -273,6 +273,7 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [Retention of the target medical terms declined significantly over the month across all teaching methods](../claims/retention-declines-over-time-all-groups.md) [+M] — measured as an outcome of the instruction studied
 - [Retention patterns over time differed significantly by teaching method (time × method interaction)](../claims/time-method-interaction-retention-patterns.md) [~M] — measured as an outcome of the instruction studied
 - [Students perceived ChatGPT as helping with time savings and understanding, but far fewer saw benefits for knowledge application or long-term retention](../claims/chatgpt-perceived-time-saving-not-retention.md) [~M] — measured as an outcome of the instruction studied
+- [Physically implementing newly created knowledge in simulation evokes an embodied experience that consolidates learning and motivates change](../claims/embodied-implementation-of-new-knowledge-motivates.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

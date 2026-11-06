@@ -52,3 +52,4 @@ Cross-sectional survey of 646 newly enrolled students at the National University
 - [Students residing in housing indicating higher socio-economic status reported significantly higher empathy and empathic care intentions](housing-ses-empathy-association.md) — related
 - [Female students reported significantly higher empathic care intentions than male students, but the sex difference in empathy was not significant](sex-differences-empathic-care-intentions.md) — related
 - [Students from nursing, pharmacy, and physical therapy expressed slightly higher satisfaction than other programs](program-differences-satisfaction.md) — related
+- [Empathy scores on the Jefferson Scale for Empathy did not significantly change from pre-test to post-test after MAGIC, in one uncontrolled pre-post study](magic-no-empathy-change-jse.md) — related

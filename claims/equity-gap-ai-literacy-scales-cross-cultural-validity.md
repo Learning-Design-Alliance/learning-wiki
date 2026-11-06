@@ -57,3 +57,4 @@ The review reports, citing Lintner's 2024 systematic review, that no AI literacy
 - [A 2024 systematic review identified 22 studies validating 16 AI literacy scales, most of them self-report rather than performance-based](review-22-studies-16-ai-literacy-scales.md) — related
 - Ten years of AIED publications were predominantly by and for the Western world (reported by Blanchard, 2014) — related
 - [Western-developed instruments dominated measurement, with cultural adaptation reported in only five of 22 Global South studies of resilience](instrument-context-mismatch-global-south-resilience.md) — related
+- [Comparing CALD students to a non-CALD reference group on a scale developed in that reference population raises fundamental validity issues under a critical lens](cald-reference-population-validity-issue.md) — a broader claim this one bears on

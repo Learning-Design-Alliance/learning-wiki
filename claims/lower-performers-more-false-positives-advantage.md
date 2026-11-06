@@ -50,3 +50,4 @@ Group-comparison analysis of the RoBERTa-SVM confusion matrices (Table 6): TPR w
 - [No consistent relationship was observed between false-positive and false-negative rates and either the question or the LLM model](no-consistent-fp-fn-pattern.md) — related
 - [A detector can achieve high aggregate accuracy while producing materially different over-detection rates across author groups](aggregate-accuracy-group-fairness-detectors.md) — related
 - [AI-text detectors misclassify authentic TOEFL essays by non-native English speakers at a mean false-positive rate of 61.3% across seven detectors, far more often than native-speaker essays](detector-61-3-percent-false-positives-non-native-toefl.md) — related
+- [The AI achieved perfect precision and specificity (1.0), higher true correct and true incorrect rates than surgeons, and no hallucinations were detected](ai-perfect-precision-specificity-no-hallucinations-vns.md) — related

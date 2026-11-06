@@ -69,3 +69,4 @@ The review attributes, citing Li et al. (2021), that spiritual education courses
 - [Twelve factors are significantly associated with nurses' spiritual care competency (p < 0.01)](twelve-factors-influence-nurse-spiritual-care-competency.md) — a broader claim this one bears on
 - [Nurses assessed in 2023 had the highest average spiritual care score, with 2019–2023 mean differences statistically significant](spiritual-care-scores-highest-2023-subgroup.md) — related
 - [Age findings conflict: one cited study reports spiritual care ability decreasing with age while another reports it increasing](age-spiritual-care-ability-conflicting-direction.md) — related
+- [Participation in in-service spiritual care education is associated with higher spiritual care competency scores](in-service-education-higher-spiritual-care-competency.md) — related

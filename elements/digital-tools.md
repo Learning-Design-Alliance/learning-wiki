@@ -13,7 +13,7 @@ generated:
 # Digital Tools
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 189 claims (98 for, 76 mixed, 15 against) · 160 studies (80 causal, 24 review, 16 associational, 15 quant-synthesis, 12 design, 7 theoretical, 6 qualitative), `q1`–`q4` · 19 of 160 report an effect size · 188 claims rest on one study
+> **Evidence** · 191 claims (99 for, 77 mixed, 15 against) · 161 studies (80 causal, 24 review, 16 associational, 15 quant-synthesis, 13 design, 7 theoretical, 6 qualitative), `q1`–`q4` · 19 of 161 report an effect size · 190 claims rest on one study
 
 ## Description
 Digital tools are the element in which learners use software, platforms, or digital applications to create, collaborate, practice, or receive feedback. They are useful when a tool meaningfully extends what learners can do.
@@ -224,6 +224,8 @@ Digital tools are the element in which learners use software, platforms, or digi
 - [Nursing students who used the digital game-based study guide scored significantly higher on post-intervention practical skills than control students](../claims/game-based-study-guide-higher-practical-skills.md) [+M] — attached 2026-11-06 from Bashiri Bonab Esmaeil et al. (2025), which proposed "Digital Game-Based Study Guide for head trauma assessment (Android mobile application)"; tests this page's relationship.
 - [Immediately after a single 90‐minute session, physiotherapy students learning neuroanatomy with immersive VR scored higher overall than students studying with atlases and textbooks](../claims/ivr-higher-neuroanatomy-posttest-overall.md) [+W] — attached 2026-11-06 from García‐Robles P et al. (2025), which proposed "Meta Quest 2 headset with Sharecare YOU VR brain module as an IVR neuroanatomy learning tool"; tests this page's relationship.
 - [The immediate IVR advantage held across all three question types, with the largest gaps in spatial location and labeling of brain areas](../claims/ivr-advantage-across-question-types.md) [+W] — attached 2026-11-06 from García‐Robles P et al. (2025), which proposed "Meta Quest 2 headset with Sharecare YOU VR brain module as an IVR neuroanatomy learning tool"; tests this page's relationship.
+- [Most students (98.60%) reported AR-assisted learning improved understanding of 3D anatomy and fostered clinical thinking](../claims/ar-obgy-3d-understanding-clinical-thinking-perceptions.md) [+W] — attached 2026-11-06 from Rao Xuan et al. (2025), which proposed "Textbook-affiliated AR software overlaying 3D dynamic anatomical images on 2D textbook figures"; tests this page's relationship.
+- [No significant difference in satisfaction between AR-assisted and traditional teaching for anatomy and delivery sections](../claims/ar-obgy-satisfaction-no-difference.md) [~W] — attached 2026-11-06 from Rao Xuan et al. (2025), which proposed "Textbook-affiliated AR software overlaying 3D dynamic anatomical images on 2D textbook figures".
 
 ## The evidence by question
 - *Does putting instruction on a digital medium change learning by itself, or only through the method, time and teaching it carries?* [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]

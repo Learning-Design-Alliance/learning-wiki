@@ -66,3 +66,5 @@ Randomised trial of 38 general-practice residents (19 per group) in one hospital
 - [BOPPPS-CBL students self-report significantly greater learning effects across all five measured dimensions](boppps-cbl-higher-learning-effect-self-ratings.md) — related
 - [BOPPPS-CBL students rate teaching qualities significantly higher than traditionally taught students](boppps-cbl-higher-teaching-quality-ratings.md) — related
 - [Trainees perceived the flipped classroom combined with BOPPPS model as scientific and worthy of promotion](flipped-boppps-trainee-perceptions-positive.md) — related
+- [Flipped classroom residents reported significantly higher overall satisfaction with teaching than lecture-based residents](fc-higher-overall-teaching-satisfaction.md) — related
+- [Students in both the flipped classroom and jigsaw groups reported high satisfaction and preferred these active methods over lecture-based teaching](high-satisfaction-fc-and-jigsaw.md) — related

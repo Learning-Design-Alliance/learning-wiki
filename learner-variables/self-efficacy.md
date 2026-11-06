@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 297 claims (224 show a difference, 41 mixed, 32 no difference) · 236 studies (79 causal, 75 associational, 32 review, 22 qualitative, 10 quant-synthesis, 10 design, 7 theoretical), `q1`–`q4` · 49 of 236 report an effect size · 293 claims rest on one study
+> **Evidence** · 303 claims (228 show a difference, 42 mixed, 33 no difference) · 241 studies (81 causal, 77 associational, 32 review, 22 qualitative, 11 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 50 of 241 report an effect size · 299 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -328,6 +328,12 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Post-course General Self-Efficacy is significantly higher after RLC debriefing than after Norris and Bullock debriefing, while pre-course self-efficacy did not differ](../claims/rlc-debriefing-gse-self-efficacy-gains.md) [+M] — measured as an outcome of the instruction studied
 - [Professionals' self-rated global and societal perceived competence rose significantly from pre-test to immediately after change-agent training in one uncontrolled pre-post study, while organizational-level perceived competence also rose without a statistically significant change](../claims/ca-training-immediate-perceived-competence-gains.md) [~M] — measured as an outcome of the instruction studied
 - [Six months after training, perceived competence and specific skills decline, but none of these declines is statistically significant](../claims/ca-training-six-month-nonsignificant-declines.md) [-M] — measured as an outcome of the instruction studied
+- [Confidence in managing the dying process and overall confidence in providing palliative care did not change significantly from pre-test to post-test in one uncontrolled pre-post study](../claims/no-confidence-gain-end-of-life.md) [-M] — measured as an outcome of the instruction studied
+- [Experience with people with dementia is associated with higher baseline self-efficacy but not with self-efficacy change](../claims/dementia-experience-baseline-efficacy-not-change.md) [~M] — measured as an outcome of the instruction studied
+- [Interns, actors, and tutors all perceive that personal simulations developed interns' professional counseling skills, including knowledge, clear explanation, and confidence](../claims/personal-simulations-develop-professional-skills-multi-source.md) [+M] — measured as an outcome of the instruction studied
+- [Professional development is perceived as key to bolstering faculty self-efficacy for innovative teaching](../claims/professional-development-bolsters-self-efficacy.md) [+M] — measured as an outcome of the instruction studied
+- [Self-regulation is directly predicted by self-efficacy, critical thinking, and intrinsic motivation](../claims/self-regulation-predicted-by-efficacy-thinking-motivation.md) [+M] — learners who differ on it differ in outcomes
+- [Teacher self-efficacy positively predicts innovative teaching practices among Chinese faculty](../claims/self-efficacy-predicts-innovative-teaching-chinese-faculty.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

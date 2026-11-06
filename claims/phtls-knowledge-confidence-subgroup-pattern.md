@@ -52,3 +52,4 @@ Subgroup analysis by profession and training status (Table 3) in the cross-secti
 - [PHTLS-trained emergency healthcare professionals show higher trauma knowledge than non-trained peers (Cohen's d = 1.15)](phtls-training-higher-trauma-knowledge.md) — related
 - [PHTLS-trained professionals report lower self-perceived competence than non-trained peers](phtls-training-lower-self-perceived-competence.md) — a broader claim this one bears on
 - [Accuracy on basic ECG electrophysiology items is high but drops sharply on complex patterns](ecg-basic-high-complex-low-accuracy.md) — related
+- [Students' trust in peers' clinical answers depends on perceived sense of authority and position of authority](trust-sense-and-position-of-authority-tbl.md) — related

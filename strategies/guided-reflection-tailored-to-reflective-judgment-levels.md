@@ -44,6 +44,7 @@ This strategy directs teacher educators to take preservice teachers' epistemolog
 ## Related Strategies
 
 - [Educators should internalize individual differences and consider the advantages and disadvantages of students' learning styles](educators-consider-learning-style-differences.md)
+- [Adapt journal club activities to student academic level and provide structured support for junior students](adapt-journal-club-to-student-level.md)
 
 ## Examples
 -

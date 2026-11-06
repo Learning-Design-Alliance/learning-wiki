@@ -57,3 +57,4 @@ The review reports, citing Ghiyasvandian and Chakkaravarthy, that nurses showed 
 - [Work experience, but not gender, education, or job category, significantly predicts organizational maturity](work-experience-significant-demographic-predictor-maturity.md) — related
 - [Gender, marital status, living status, and chronic disease show no significant association with older volunteers' competency needs](null-demographic-factors-older-volunteer-needs.md) — related
 - [No significant baseline differences in engagement, positive emotions, or academic emotions by most demographic variables](no-demographic-differences-baseline-nursing-engagement-emotions.md) — related
+- [Marital status and time for family commitment show significant associations with competency, while gender, educational level and working hours do not](marital-family-time-significant-gender-education-not.md) — related

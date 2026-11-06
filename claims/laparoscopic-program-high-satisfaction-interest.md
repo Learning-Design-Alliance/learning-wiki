@@ -48,3 +48,4 @@ Self-report questionnaire (Module 1, six items, 5-point Likert scale) administer
 - [Most ANZMSC participants rated the course materials as valuable for their learning, with 64.3% strongly agreeing and 30.8% agreeing.](anzmsc-course-materials-rated-valuable.md) — related
 - [Residents reported high satisfaction with simulation-based learning, with 100% finding it useful and 70% perceiving psychomotor improvement](resident-satisfaction-vascular-simulation.md) — related
 - [Most students express positive attitudes and willingness toward virtual simulation training, but a substantial minority doubt it can match real clinical practice](student-attitudes-virtual-simulation-survey.md) — related
+- [Students perceived the journal club skills as useful for future careers and reported high satisfaction and willingness to recommend the activity](journal-club-perceptions-satisfaction-future-use.md) — related

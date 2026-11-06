@@ -51,3 +51,4 @@ Thematic synthesis of three included qualitative studies (Dahlke et al. 2021; Ne
 - [Barriers graduate nurses face in dementia care are similar to those of experienced nurses, with supportive colleagues and early exposure as facilitators](graduate-nurse-dementia-care-barriers-facilitators.md) — related
 - [No studies have assessed the dementia care knowledge, confidence and experience of graduate nurses caring for people living with dementia](no-studies-assess-graduate-nurse-dementia-knowledge.md) — reports the opposite
 - Only six qualitative studies on graduate nurses caring for people living with dementia were identified — related
+- [Experience with people with dementia is associated with higher baseline self-efficacy but not with self-efficacy change](dementia-experience-baseline-efficacy-not-change.md) — related

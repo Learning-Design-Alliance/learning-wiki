@@ -53,3 +53,4 @@ Survey of 47 third-year medical students using a 20-item Likert questionnaire (C
 - [Higher GPT usage frequency is associated with more positive student perceptions, with significant differences between high and low usage groups](usage-frequency-associated-with-positive-perceptions-gpt-companion.md) — related
 - [Summative academic performance in the AI-supported Reproduction module does not significantly differ from traditionally taught modules](no-significant-summative-performance-difference-ai-module.md) — related
 - [Students in the PBL-DeepSeek group report high satisfaction and would continue using the approach, but a minority worry about AI accuracy](deepseek-pbl-satisfaction-and-accuracy-concerns.md) — related
+- [Students perceived the journal club skills as useful for future careers and reported high satisfaction and willingness to recommend the activity](journal-club-perceptions-satisfaction-future-use.md) — related

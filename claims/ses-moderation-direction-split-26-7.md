@@ -73,3 +73,5 @@ Pick-a-point probing of Model 2 interactions (Fig 2) in the seven negative-inter
 - [Growth mindset is associated with better PISA performance across SES levels, but appears less beneficial at low SES and advantaged students still achieve better outcomes](mindset-benefit-weaker-at-low-ses.md) — related
 - [The mediated interaction between SES and growth mindset is small but positive (about 0.006), indicating only minimal moderation of the SES effect](mediated-interaction-ses-mindset-minimal.md) — related
 - [Growth mindset mediates only a small share (about 2.9–3.2%) of the effect of SES on academic achievement across 73 countries](growth-mindset-mediation-of-ses-effect-small-pisa-2022.md) — related
+- [Country affluence significantly moderated the growth mindset associations with all three outcomes, providing strong support for the rich get richer hypothesis](country-affluence-moderates-mindset-all-outcomes.md) — related
+- [The study found almost no support for the compensatory hypothesis that growth mindsets benefit disadvantaged students more](no-support-compensatory-hypothesis-correlational.md) — reports the opposite

@@ -65,3 +65,4 @@ Assessor-blinded RCT of 50 clinical medical students interning at the First Affi
 - [Blended MOOC-virtual simulation teaching produces higher Structured Clinical Skills Assessment scores than traditional teaching](mooc-virtual-simulation-higher-clinical-skills-assessment-scores.md) — related
 - [Preclass 3D digital simulation before hands-on carving produces significantly higher practical carving test scores than traditional instruction alone in dental morphology courses](3d-simulation-preclass-improves-carving-test-scores.md) — related
 - [Written examination scores improved substantially after simulation-based learning, with the largest effect size of the three assessment components](sbl-improves-written-exam-scores-pediatrics.md) — related
+- [Clinical medicine students showed the largest score gap, 89.88 versus 68.34, between virtual-simulation and control groups](clinical-medicine-largest-virtual-simulation-score-gap.md) — related

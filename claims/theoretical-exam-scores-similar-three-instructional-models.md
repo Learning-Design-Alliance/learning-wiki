@@ -52,3 +52,4 @@ ANOVA on the 20-item multiple-choice theoretical exam in the three-arm randomize
 - [The hybrid CBL-SST-simulator model shows no significant difference from lecture-based learning in theoretical knowledge scores](hybrid-cbl-sst-no-difference-theoretical-knowledge.md) — related
 - [In the same RCT, no significant between-group differences were observed in baseline theoretical knowledge or clinical skills scores before teaching](pbl-virtual-simulation-no-baseline-differences-trauma-orthopedics.md) — related
 - [No statistically significant differences among the three sections on mid-term exam, online journal entries, or combined totals](no-significant-difference-midterm-journal-combined.md) — related
+- [Three of the 20 theoretical-learning questionnaire items showed no significant difference between groups, and observation and feedback times did not differ](null-items-and-equal-observation-time-cdio-pbl-study.md) — related

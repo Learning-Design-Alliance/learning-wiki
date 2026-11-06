@@ -50,3 +50,4 @@ Qualitative descriptive phenomenological study with 59 first-year nursing studen
 - [Nursing students report emotional responses of inadequacy, low motivation, low self-confidence and fear during clinical practice](emotional-responses-inadequacy-low-motivation-fear.md) — related
 - [Pre-simulation expectations combined high motivation with anxiety, nervousness, self-doubt and insecurity](pre-simulation-expectations-motivation-and-anxiety.md) — related
 - [First simulation experiences with standardized patients strengthen practical self-confidence and contribute to professional identity development in novice nursing students](simulation-builds-self-confidence-and-professional-identity.md) — related
+- [Physically implementing newly created knowledge in simulation evokes an embodied experience that consolidates learning and motivates change](embodied-implementation-of-new-knowledge-motivates.md) — related

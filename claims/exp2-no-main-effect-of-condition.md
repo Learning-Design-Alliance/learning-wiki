@@ -51,3 +51,4 @@ Hierarchical linear modeling with 395 students nested in 28 classrooms (school f
 - [Prior knowledge significantly predicted algebra posttest scores and learning gains, with high-prior-knowledge students scoring higher and low-prior-knowledge students gaining more](prior-knowledge-moderates-algebra-outcomes.md) — related
 - [Order of worked examples and problem solving had no significant effect on application and transfer scores in experimental design or graphing](we-ps-sequence-no-effect-inquiry-competencies.md) — related
 - [Example-based assignments improve procedural performance for students in high-minority classrooms](example-based-assignments-high-minority-classrooms-procedural-gains.md) — reports the opposite
+- [Prediction activities yield larger pretest-to-posttest learning gains than worked example or tell-then-practice activities in a genetics course](prediction-activities-largest-learning-gains-genetics.md) — related

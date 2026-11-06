@@ -47,7 +47,8 @@ Based on the finding that OSCE-based MC training improved general communication 
 - [No significant group differences appeared on five other CWM items: explaining movement methods, checking understanding, explaining with the body, pain assessment, and paraphrasing technical terms](../claims/cwm-items-no-association.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Add a dedicated postgraduate course on differential diagnostic thinking and skills, with emphasis on red-flag recognition, to physiotherapy curricula](dedicated-differential-diagnosis-course-physiotherapy.md)
 
 ## Examples
 -

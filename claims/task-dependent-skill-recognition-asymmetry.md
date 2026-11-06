@@ -50,3 +50,4 @@ Percentage‐normalised confusion matrices aggregated across 10 folds show that 
 - [Approximately 86.61% of trainees prioritize suturing and knot-tying practice as the most critical simulator training component](suturing-knot-tying-most-critical-component.md) — related
 - [Digital effectiveness depends on the skill taught: virtual training matched face-to-face for suturing and knot-tying, but computer-based learning fell short for CPR](skill-type-moderates-digital-effectiveness-suturing-cpr.md) — related
 - [Technical skill assessments show mixed gender effects, with initial task differences disappearing after training and no evidence that stereotype threat impairs female performance](technical-skills-gender-mixed-training-erases-gaps.md) — related
+- [Difficulty varied significantly across Versius Trainer tasks, with endoscope control, suturing and knot-tying the hardest to pass](task-difficulty-varies-endoscope-suturing-knot-tying-hardest.md) — related

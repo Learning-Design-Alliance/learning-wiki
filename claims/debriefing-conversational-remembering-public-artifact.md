@@ -58,3 +58,4 @@ Cognitive-ethnographic analysis of one video-recorded nursing debriefing (Excerp
 - [Teachers designed microgame-based learning with varied microgames and debriefing methods but shared similar scenarios, inserting microgame-based learning into the middle of the main session](teachers-designed-varied-microgames-similar-middle-scenarios.md) — related
 - [Educators used social networks to guide reflection on engagement, roles, and shared mindset during debriefing](educators-used-social-networks-for-engagement-roles-reflection.md) — related
 - [Self-operating IVR scenarios offer scalability and resource efficiency, but their rigidity reduces debriefer engagement](self-operating-ivr-scenarios-rigidity-reduces-debriefer-engagement.md) — related
+- [During the debrief, most students reported noticing wrong turns but very few spoke up, illustrating authoritative bias, bandwagon effect and halo effect first-hand](deliberate-getting-lost-evoked-biases-first-hand.md) — related

@@ -50,6 +50,7 @@ Based on the null results, the article recommends that conflict orientation trai
 - [Design RaT programs as longitudinal, integrated curricula with structured instruction, direct practice, formative feedback, and ongoing coaching](longitudinal-integrated-rat-program-design.md)
 - [Design ICT-integration teacher training that is subject-oriented and workshop-based over a long period](subject-oriented-workshop-ict-teacher-training.md)
 - [Build an orientation activity into XR study designs and use multiple sessions to increase tool familiarity](xr-orientation-activity-multiple-sessions.md)
+- [Faculty induction through flexible one-to-one tailored drop-in training sessions over an extended timeframe](one-to-one-faculty-haptics-induction.md)
 
 ## Examples
 -

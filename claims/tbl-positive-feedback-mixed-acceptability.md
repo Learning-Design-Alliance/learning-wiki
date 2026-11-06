@@ -50,3 +50,4 @@ Survey feedback on eight TBL parameters from 64 students on a 5-point Likert sca
 - [In Chinese neurology education, TBL alone or combined with other methods is associated with improved self-study ability, communication skills, and teamwork ability versus LBL](tbl-improves-self-study-communication-teamwork.md) — related
 - [Higher engagement with case-based learning is significantly associated with greater satisfaction, better understanding, and enhanced perceived skills](cbl-engagement-associated-with-satisfaction-and-perceived-benefits.md) — related
 - [Students in the group-work class reported that group work deepened their understanding of integration and developed their critical and analytical thinking skills](group-work-positive-student-perceptions-mathematics.md) — related
+- [Most surveyed students were satisfied with interprofessional OFST and supported extending it to other colleges or disciplines](ofst-satisfaction-and-extension-support.md) — related

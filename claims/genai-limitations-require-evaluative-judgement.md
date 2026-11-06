@@ -74,3 +74,4 @@ Literature synthesis in the processing-feedback section. The paper cites Essien 
 - [IDs expressed quality concerns over GenAI-generated content, including bias, inaccuracy, hallucinations, and lack of authenticity](genai-quality-concerns-bias-hallucination.md) — related
 - [Prompt engineering is an emerging essential skill — a new computational literacy — for AI-augmented programming environments](prompt-engineering-emerging-computational-literacy.md) — related
 - [Epistemic overtrust is a key risk: learners may accept AI outputs because they appear authoritative even when reasoning is incomplete, biased, or unsupported](epistemic-overtrust-ai-feedback-risk.md) — related
+- [During the debrief, most students reported noticing wrong turns but very few spoke up, illustrating authoritative bias, bandwagon effect and halo effect first-hand](deliberate-getting-lost-evoked-biases-first-hand.md) — related

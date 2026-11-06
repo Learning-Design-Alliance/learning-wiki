@@ -84,3 +84,4 @@ The article reports, citing Garbayo et al. (2023), a replication in high-fidelit
 - [Students tend to overestimate their own performance when self-assessing with rubrics](students-overestimate-self-assessment-with-rubrics.md) — related
 - [Students tend to overestimate their clinical judgment ability relative to evaluator-assessed scores](students-overestimate-clinical-judgment.md) — related
 - [Less surgical experience is associated with overestimation of abilities](less-experience-overestimation.md) — related
+- [Peer calibration during TBL acts as both an enabler and a deterrent to medical students' self-confidence](peer-calibration-tbl-confidence-enabler-deterrent.md) — related

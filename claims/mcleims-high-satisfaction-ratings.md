@@ -56,3 +56,4 @@ Descriptive analysis of a locally developed 23-item five-point Likert questionna
 - [Experimental-group students rated the IAVSE course significantly higher than the control group rated traditional instruction across seven Likert-scale pedagogical dimensions](iavse-higher-likert-feedback.md) — related
 - [G-Jump participants reported high satisfaction, with a mean Vidakis questionnaire score of 34.8 out of 40 and 93.3% in the high-satisfaction range](gjump-high-satisfaction-vidakis.md) — related
 - [Students rated the virtual simulation system highly across learning effectiveness, usability, instructional value, and satisfaction (means above 4.2/5; Cronbach's α > 0.80)](vs-irrigation-questionnaire-high-acceptability.md) — related
+- [Participants rated the POCUS course near the maximum on all evaluation measures, exceeding the pre-set satisfaction threshold](pocus-course-high-satisfaction-ratings.md) — related

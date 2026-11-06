@@ -52,3 +52,4 @@ Results summary of the Dilla University study (n = 30; 20 males, 10 females). De
 - [SOC is the strongest independent predictor of GPA in simultaneous regression, with female gender and nursing major also significant](soc-strongest-regression-predictor-gpa.md) — reports the opposite
 - [Multivariable regression confirms gender and university as independent predictors of knowledge score](regression-gender-university-predictors-knowledge-syria.md) — related
 - [Physical activity and sleep quality independently predict GPA after adjusting for age and BMI, whereas BMI does not](pa-sleep-independent-gpa-predictors-regression.md) — related
+- [Male nursing students scored slightly higher GPA than female students in this sample](male-students-higher-gpa-sample.md) — possibly the same claim (merge candidate)

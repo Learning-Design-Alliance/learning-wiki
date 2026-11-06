@@ -51,6 +51,8 @@ The article recommends that low-resource universities support achievement throug
 - [Integrate psychosocial support strategies—mentoring, mindfulness-based stress reduction, peer-support groups, and academic skills training—into medical education programs](psychosocial-support-strategies-medical-education.md)
 - [Integrate social-emotional learning into school programs alongside academic content](integrate-sel-curricula-academic-content.md)
 - [Targeted training programs focusing on psychological self-adjustment for lower-competency nurse profiles](targeted-psychological-self-adjustment-training-strategy.md)
+- [Integrate mindfulness training programs into nursing curricula to support focus, self-awareness, and emotional regulation](mindfulness-training-in-nursing-curricula-strategy.md)
+- [Schools should run time-management and study-skills workshops, provide academic counseling, and teach coping strategies to manage academic stress](workshops-counseling-coping-kazo-recommendation.md)
 
 ## Examples
 -

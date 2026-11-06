@@ -54,3 +54,4 @@ Qualitative interviews with intervention teachers, thematically coded by the mai
 - [MBSR training unexpectedly decreases measures of teacher work engagement, an effect sustained at follow-up](mbsr-decreases-work-engagement.md) — related
 - [In one small non-randomised waitlist-controlled study, MBSR improved teachers' self-reported self-efficacy and emotion regulation, with mixed effects across self-regulation competences](mbsr-improves-self-regulation-competences.md) — related
 - [Qualitative interviews identified six themes contextualizing the quantitative patterns, including self-efficacy repair, reduced evaluative threat, and residual planning difficulty.](qualitative-themes-personalized-vocabulary-learning.md) — related
+- [Professional development is perceived as key to bolstering faculty self-efficacy for innovative teaching](professional-development-bolsters-self-efficacy.md) — related

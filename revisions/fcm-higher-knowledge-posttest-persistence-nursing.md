@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/fcm-higher-knowledge-posttest-persistence-nursing.md
+---
+
+# Revision history: [claims/fcm-higher-knowledge-posttest-persistence-nursing](../claims/fcm-higher-knowledge-posttest-persistence-nursing.md)
+
+### 2026-11-06 · ingest · process:wiki-ingest
+Ingested from pmc-12285002 (First year nursing students' knowledge, skill levels and learning persistence in nursing practices: a comparison between classical lecture and flipped classroom.) via eval_harness.py + ingest_extractions.py

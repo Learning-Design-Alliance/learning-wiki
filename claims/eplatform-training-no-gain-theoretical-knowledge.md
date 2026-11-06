@@ -48,3 +48,4 @@ Same quasi-experimental study (n = 40); the t-test on the theoretical knowledge 
 - [E-platform in-service training produced more positive attitudes toward teaching Scratch programming than traditional training](eplatform-training-improves-attitudes-teaching-programming.md) — related
 - [E-platform training produced significantly higher practical Scratch programming skills than traditional training](eplatform-training-improves-practical-programming-skills.md) — related
 - [In-service Scratch training via an electronic learning platform produced higher overall programming skills achievement than traditional training among middle school computer science teachers](eplatform-training-improves-scratch-programming-skills.md) — related
+- [Three of the 20 theoretical-learning questionnaire items showed no significant difference between groups, and observation and feedback times did not differ](null-items-and-equal-observation-time-cdio-pbl-study.md) — related

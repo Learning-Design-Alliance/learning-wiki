@@ -50,6 +50,7 @@ The article recommends faculty development workshops to standardize how TBL sess
 - [Expand mCLEIMS through faculty development, standardized scenario templates, and a train-the-trainer model](mcleims-expansion-train-the-trainer-strategy.md)
 - [Integrate BOPPPS, flipped classroom, and case-based learning into a single pedagogical model for residency training](integrate-boppps-fc-cbl-single-model-residency.md)
 - [Use longitudinal follow-up assessments to evaluate knowledge retention and clinical application of TBL](longitudinal-assessment-tbl-retention.md)
+- [Sustain the workshop by expanding to biannual sessions run through a medical student organization](biannual-student-organization-cbl-expansion.md)
 
 ## Examples
 -

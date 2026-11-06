@@ -60,3 +60,4 @@ In this single-center RCT, 60 residents were randomized 1:1 after a pre-course t
 - [Students in the 3D-PBL-annotation group report higher satisfaction with learning motivation, academic atmosphere, teacher-student interaction, and knowledge absorption](3d-pbl-annotation-higher-satisfaction.md) — related
 - [Learner-reported self-evaluation outcomes favour 3D printing-integrated PBL over lecture-based teaching in 9 of 10 dimensions](3dp-pbl-favours-learner-reported-outcomes-nine-of-ten.md) — related
 - [Experimental-group trainees report higher satisfaction than controls in teaching atmosphere, learning interest, and learning efficiency](digital-cbl-higher-satisfaction-interest-efficiency.md) — related
+- [Students in the 3D-printed PBL group rated all ten self-assessment items higher than the traditional PBL group, including learning interest, efficiency, and confidence in future cleft lip surgery](3d-printed-pbl-questionnaire-all-items-higher.md) — related

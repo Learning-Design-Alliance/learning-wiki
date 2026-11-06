@@ -52,3 +52,4 @@ Qualitative interview study by Hartung et al. (2021) with new graduate nurses in
 - [Graduate nurses have little confidence in caring for people with dementia due to lack of knowledge and experience](graduate-nurses-low-confidence-dementia-care.md) — related
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
 - [Short, poorly aligned mental health placements are perceived to leave graduates unprepared for acute inpatient care](short-misaligned-placements-unprepared-acute-inpatient.md) — related
+- [Experience with people with dementia is associated with higher baseline self-efficacy but not with self-efficacy change](dementia-experience-baseline-efficacy-not-change.md) — related

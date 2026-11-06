@@ -51,3 +51,4 @@ Generalized linear model analysis of instructor-assigned GRS rubric scores again
 - [Participant outcomes did not differ significantly by which of the four instructors taught the cadaver simulation workshop](no-instructor-effect-on-training-outcomes.md) — related
 - [Higher global rating scale scores are associated with shorter procedure times and fewer needle attempts in PA students' ultrasound-guided cyst drainage](grs-scores-associated-with-faster-fewer-attempts.md) — related
 - [Instructor assignment does not significantly affect PA students' self-confidence or skills-test outcomes in cadaver ultrasound simulation training](instructor-assignment-no-effect-simulation-outcomes.md) — related
+- [From pre-test to post-test, fellows' global rating scale scores rose in all domains except Preparation, while the most senior group continues to lead in Time and Motion, Flow, and Overall performance](global-rating-improvements-seniority-gaps-persist.md) — related

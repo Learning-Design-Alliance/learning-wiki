@@ -56,3 +56,5 @@ Moderation models (Model 2) adding a growth mindset √ó socioeconomic status i
 - [In 26 countries growth mindsets benefited higher-SES students more, while in 7 countries they benefited lower-SES students more](ses-moderation-direction-split-26-7.md) — a narrower finding that bears on this claim
 - [The mediated interaction between SES and growth mindset is small but positive (about 0.006), indicating only minimal moderation of the SES effect](mediated-interaction-ses-mindset-minimal.md) — related
 - [Growth mindset mediates only a small share (about 2.9–3.2%) of the effect of SES on academic achievement across 73 countries](growth-mindset-mediation-of-ses-effect-small-pisa-2022.md) — related
+- [Country affluence significantly moderated the growth mindset associations with all three outcomes, providing strong support for the rich get richer hypothesis](country-affluence-moderates-mindset-all-outcomes.md) — related
+- [The study found almost no support for the compensatory hypothesis that growth mindsets benefit disadvantaged students more](no-support-compensatory-hypothesis-correlational.md) — related

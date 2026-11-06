@@ -50,3 +50,4 @@ Quasi-experiment with 218 introductory psychology students in two courses, one c
 - [Quiz-and-reflection and extended-quiz conditions show no significant difference in self-reported metacognitive self-regulation](quiz-reflection-vs-extended-quiz-self-regulation-no-difference.md) — related
 - [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — related
 - [The classroom testing effect transfers to mismatched test formats, but consistent quiz–exam formats yield a significantly larger effect (g = 0.531 vs. g = 0.399).](format-consistency-moderates-classroom-testing-effect.md) — related
+- [The number of quiz questions (five vs. ten) does not moderate the improvement in exam performance](quiz-question-number-does-not-moderate-testing-effect.md) — related

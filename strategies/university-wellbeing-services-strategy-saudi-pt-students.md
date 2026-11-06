@@ -51,6 +51,7 @@ The article recommends that universities address student well-being holistically
 - [Embed brief experiential wellness activities longitudinally within existing health professions curricula](embed-longitudinal-experiential-wellness-activities.md)
 - [University programs that strengthen students' social well-being to support academic motivation](social-well-being-support-programs-medical-students.md)
 - [Monitor and support mental health of medical undergraduates in research training](monitor-mental-health-research-trainees.md)
+- [Implement student-support mechanisms and embed well-being in the medical curriculum to sustain strength of motivation](student-support-mechanisms-sustain-motivation.md)
 
 ## Examples
 -

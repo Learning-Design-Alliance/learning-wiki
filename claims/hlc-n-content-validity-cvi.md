@@ -57,3 +57,4 @@ Content validity evaluation based on relevance ratings by the 16 Delphi experts.
 - [Korean experts and survey respondents favored applied health literacy content over theoretical and contextual items](korean-hlc-applied-content-preference.md) — related
 - [Expert-rated content validity of the scale is strong, with item-level CVI of 0.80 to 1.00 and scale-level CVI of 0.96](endoscopy-nurse-scale-content-validity.md) — related
 - [Expert consultation yields high content validity for the scale: item CVI 0.78–1.00 and overall scale CVI 0.91](palliative-communication-scale-cvi-091-content-validity.md) — related
+- [Expert content review using the Davis method removed five draft items with content validity indices below 0.80](scas-content-validity-davis-cvi-item-removal.md) — related

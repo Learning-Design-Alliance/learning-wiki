@@ -73,3 +73,6 @@ Reliability analysis of the four questionnaire domains (perceived learning effec
 - [Virtual simulation training improved dental students' theoretical knowledge of root canal irrigation (mean increase 9.3%, d = 0.65)](vs-irrigation-theory-score-gain.md) — related
 - [IVR trainees rate the educational module higher than control trainees on enjoyment, ease of use, repetitivity, perceived improvement, and overall satisfaction](ivr-higher-perceived-benefits-ratings.md) — related
 - [Over 70% of preclinical dental students expressed satisfaction or high satisfaction with the digital inlay training platform](vr-inlay-platform-high-satisfaction.md) — related
+- [Students report high acceptance of the virtual system: 98.9% improved comprehension, 89.3% willing to adopt it, and 97.2% overall satisfaction](high-satisfaction-and-willingness-virtual-simulation.md) — related
+- [Satisfaction with the virtual simulator perfectly correlated with desire to use it for additional paediatric procedures, and the 12-item questionnaire showed high internal consistency (Cronbach's α = 0.91)](hvrs-survey-consistency-satisfaction-correlation.md) — related
+- [Trainee feedback on the programme was highly positive, with a median score of 5 (IQR 0.75) across questionnaire sections](positive-rcs-feedback-median-5-pilot-robotic-training.md) — related

@@ -50,3 +50,4 @@ Systematic review following PRISMA 2020, preregistered at OSF, searching Scopus 
 - [Populations most exposed to agentic AI risks are least served by AI literacy research: no scale has been tested for cross-cultural validity](equity-gap-ai-literacy-scales-cross-cultural-validity.md) — related
 - [AI literacy scales show good structural validity and internal consistency but are rarely tested for other measurement properties](ai-scales-structural-validity-strong-other-properties-untested.md) — related
 - [Interpretability and feasibility of AI literacy scales remain largely unknown, and open raw data is scarce](ai-scale-interpretability-feasibility-unreported.md) — related
+- [Comparing CALD students to a non-CALD reference group on a scale developed in that reference population raises fundamental validity issues under a critical lens](cald-reference-population-validity-issue.md) — related

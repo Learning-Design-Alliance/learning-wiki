@@ -59,3 +59,4 @@ Meta-analysis of the 20 included RCTs reporting the clinical theory assessment s
 - [Effects of PBL+LBL differ between practical and theoretical courses for some outcomes](pbl-lbl-subgroup-practical-theoretical-courses.md) — related
 - [PBL+LBL combination does not produce a significantly higher pass rate than LBL alone](pbl-lbl-combination-no-significant-pass-rate-gain.md) — related
 - [Experiment-based learning is most effective when adopted as the dominant course strategy rather than an occasional technique](experiment-learning-needs-dominant-strategy.md) — related
+- [Medical statistics teaching in Chinese medical schools is dominated by large-class lecture-based instruction with limited practical training](lecture-dominated-statistics-teaching-limited-practicals.md) — related

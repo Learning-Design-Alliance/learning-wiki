@@ -50,3 +50,4 @@ Model 6 of the multilevel logit analysis of PISA 2018, with student-, school- an
 ## Related Claims
 - [Students' individual growth mindset is positively associated with their odds of being academically resilient in PISA 2018 data across 79 countries](cl-individual-growth-mindset-resilience.md) — related
 - [Academic resilience correlates positively with both individual (r = .15) and peer (r = .19) growth mindset in bivariate analyses](cl-resilience-mindset-bivariate-correlations.md) — possibly the same claim (merge candidate)
+- [Growth mindsets are positively associated with academic achievement, intrinsic motivation and academic engagement after controlling for covariates](growth-mindset-positive-association-learning-outcomes-pisa-2018.md) — related

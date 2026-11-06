@@ -60,3 +60,4 @@ Narrative synthesis of retention findings, attributed by the review to Azman et 
 - [Focus group interviews at 1 and 5 months suggest perceived transfer of desaturation management learning to clinical practice, with rising self-rated ability](fgi-perceived-learning-transfer.md) — related
 - [Phase 1 participants retained their knowledge gains at a 4-week follow-up, with a slight nonsignificant decline from post-test.](venomventure-4week-retention.md) — related
 - [Diagnostic accuracy gains from perceptual learning are retained three months after training ends](plm-accuracy-gains-retained-three-months.md) — a narrower finding that bears on this claim
+- [ICU nurses' MDRO infection control knowledge scores rose from baseline to 2 weeks and remained elevated at 3 months in a one-group pre-post study of repeated education](repeated-education-increased-mdro-knowledge-icu-nurses.md) — related

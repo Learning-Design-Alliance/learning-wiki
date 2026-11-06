@@ -52,3 +52,4 @@ Post-teaching DOPS comparison in the same RCT (n=58, 29 per group) showed the ex
 - [Integrated online-PBL-CBL teaching improves six DOPS procedural dimensions but not overall DOPS performance](online-pbl-cbl-dops-six-dimensions-improved.md) — related
 - [Procedural skill (DOPS) scores of digitally-CBL-trained novices do not differ significantly from traditionally trained specialists](digital-cbl-dops-scores-comparable.md) — related
 - [SOM-PBL improves monitoring technology application and adverse-event management subdomains but not clinical decision-making or aseptic technique](som-pbl-subdomain-mixed-results.md) — related
+- [CDIO-based clinical skills teaching significantly improved obstetric procedural skills across all 12 DOPS evaluation items (P < 0.001)](cdio-improves-dops-procedural-skills-obstetrics.md) — related

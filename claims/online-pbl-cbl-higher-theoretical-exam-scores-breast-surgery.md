@@ -95,3 +95,4 @@ Same RCT, Results section, reporting the two examination subsections. Basic theo
 - [SOM-PBL yields significantly higher theoretical examination scores than traditional lecture-based teaching in ICU clerkships (Cohen's d = 0.455)](som-pbl-higher-theoretical-knowledge-scores.md) — related
 - [BOPPPS-CBL students achieve significantly higher comprehensive case-analysis (Section D) scores than traditionally taught students](boppps-cbl-section-d-case-analysis-superior.md) — related
 - [Students taught with a progressive blended case-based model scored significantly higher on the post-test than lecture-taught students in an integrated urology module](blended-cbl-higher-posttest-urology.md) — related
+- [Most medical students demand clinically integrated case teaching and prefer blended learning over traditional classroom instruction](student-demand-case-integrated-blended-statistics-teaching.md) — related

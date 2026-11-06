@@ -116,3 +116,4 @@ Descriptive item analysis of intrinsic subtypes: "all Intrinsic Motivati on-Know
 - [Children with ADHD show higher external regulation, introjected regulation and amotivation, and lower intrinsic motivation and identified regulation, toward learning than TD children](adhd-motivation-profile-sdt-dimensions.md) — related
 - [Intrinsic motivation ranks among the lowest-centrality factors in students' AI motivational system](intrinsic-motivation-low-centrality-ai.md) — related
 - [Needs with weighted percentages above the questionnaire cut-score became the focus of the ESP course and project work](needs-cut-score-course-focus-qassim.md) — related
+- [Parental or teacher supervision (mean 4.22) and peer support (mean 4.30) are among the stronger self-reported motivators of Kazo District students, while external rewards (mean 3.85) are weaker](kazo-supervision-and-peer-support-motivate.md) — related

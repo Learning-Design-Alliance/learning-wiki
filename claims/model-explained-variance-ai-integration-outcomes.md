@@ -53,3 +53,4 @@ PLS-SEM model assessment for the 548-teacher sample reports R² of 0.355 (intent
 - [Focal paths are robust to background controls, which did not directly predict AI integration intention](focal-paths-robust-to-background-controls.md) — related
 - [The Social Cognitive Model of Technology Integration explains 55% of variation in preservice teachers' technology integration intentions](scmti-explains-55-percent-intention-variance.md) — related
 - [The model explains substantial variance in emotional engagement and active learning with good predictive relevance](swbcl-model-explained-variance.md) — related
+- [The fitted path model shows self-efficacy, critical thinking, and self-regulation explaining 32.9%, 35%, and 46.1% of variance respectively](path-model-variance-explained-endogenous-variables.md) — related

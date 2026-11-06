@@ -73,3 +73,4 @@ Baseline comparison of the two intact classes before treatment: control M=5.730 
 - [The treatment and control groups had equivalent vocabulary sizes at pre-test](equivalent-vocabulary-sizes-at-pretest.md) — related
 - [Before the treatment, the experimental and control groups showed no statistically significant difference in conceptual fluency on the idiom pre-test](pretest-equivalence-idiom-groups.md) — related
 - [Facebook-based learning significantly enhances creativity in writing among Islamic Studies students compared to control group](facebook-based-learning-enhances-creativity-writing-islamic-studies.md) — related
+- [No significant difference between CST and control groups at baseline on either consent-scoring rubric, supporting attribution of post-test differences to the training](cst-trial-baseline-equivalence.md) — related

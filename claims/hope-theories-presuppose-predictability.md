@@ -50,3 +50,4 @@ Theoretical argument from the narrative review's introduction: the article argue
 - [Naive hope is negatively related to civic engagement, while existential hope is proposed to be positively associated with it](naive-hope-negatively-related-civic-engagement.md) — related
 - [Distress tolerance and intolerance of uncertainty are consistently associated with mental health problems](distress-tolerance-uncertainty-intolerance-associations.md) — related
 - [Agentic AI invalidates the three assumptions (evaluation, reversibility, control) on which existing AI literacy frameworks rest](agentic-ai-invalidates-three-ai-literacy-assumptions.md) — related
+- [CTT-developed uncertainty tolerance scales are unfit for evaluating HPE learners despite adequacy in experienced doctors, because CTT does not account for contextual differences](ctt-uncertainty-scales-unfit-for-hpe-learners.md) — related

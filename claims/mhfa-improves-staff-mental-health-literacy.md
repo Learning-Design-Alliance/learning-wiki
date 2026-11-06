@@ -49,3 +49,4 @@ Kidger et al.'s mixed-methods evaluation of Mental Health First Aid in six UK se
 - [Staff agreement that schools provide adequate counseling and support services rose from 59 percent in 2021 to 70 percent in 2023](cal-well-staff-adequate-services-59-to-70-percent.md) — related
 - [Cohort 2 partners trained more than 155,000 Californians outside the mental health workforce and nearly 25,000 within it in identifying and addressing student mental health needs](cal-well-trained-155000-nonworkforce-25000-workforce.md) — related
 - [Providers reported increased skill, knowledge, and confidence after training interventions](provider-confidence-knowledge-skill-increased-after-training.md) — related
+- [Self-reported stigmatising attitude scores toward people with mental health conditions were significantly lower after MAGIC than before MAGIC in one uncontrolled pre-post study (OMS-HC-15)](magic-reduced-stigma-oms-hc.md) — related

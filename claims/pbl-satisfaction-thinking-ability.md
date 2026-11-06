@@ -58,3 +58,4 @@ Meta-analysis of 8 studies involving 1137 students reporting satisfaction with i
 - [TBL develops more students' learning enthusiasm than LBL according to student questionnaires](tbl-increases-learning-enthusiasm-questionnaires.md) — related
 - [AI-assisted peer teaching increases student engagement and satisfaction](ai-assisted-peer-teaching-engagement-satisfaction.md) — related
 - [Sim + LBL students reported greater satisfaction, perceived learning outcomes, and core-competency gains than LBL students](sim-lbl-greater-satisfaction-engagement-competency.md) — related
+- [Fifth-year hospital pharmacy students reported higher critical thinking and presentation skill gains than 3rd-year cardiovascular pharmacology students](journal-club-gains-vary-by-academic-year.md) — related

@@ -51,3 +51,4 @@ Survey item on perceived importance of simulator training modules reported for t
 - [Digital and virtual classroom suturing training can cost less than face-to-face training, with printed savings of 58.9% and 44.2%](digital-suturing-training-cost-savings.md) — related
 - [Knot Tying showed the lowest and most variable expert scores on FRS VR, likely due to poor interaction fidelity](frs-vr-knot-tying-poor-interaction-fidelity.md) — related
 - [High‐skill recognition is better for knot tying, whereas low‐skill recognition is better for the more demanding tasks (CS and IS)](task-dependent-skill-recognition-asymmetry.md) — related
+- [Difficulty varied significantly across Versius Trainer tasks, with endoscope control, suturing and knot-tying the hardest to pass](task-difficulty-varies-endoscope-suturing-knot-tying-hardest.md) — related

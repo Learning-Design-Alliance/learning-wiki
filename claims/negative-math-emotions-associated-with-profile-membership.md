@@ -51,3 +51,4 @@ Multinomial logistic regression of covariates on profile membership: the analysi
 - [Hong Kong fourth graders' OMR self-efficacy and emotions form three distinct motivational-emotional profiles: positive, moderate, and ambivalent](three-omr-motivational-emotional-profiles-grade4.md) — related
 - [The ambivalent profile reported the highest OMR strategy use but achieved the lowest OMR performance, while the positive profile scored highest](ambivalent-high-strategy-lowest-performance.md) — related
 - [Student perceptions of school racial stereotyping are not directly associated with racial-mathematical profile membership](stereotyping-not-associated-with-profile-membership.md) — related
+- [Profile membership related to mathematics test scores at both T1 and T3, with Positive-profile students scoring highest](profile-membership-main-effect-maths-scores.md) — related

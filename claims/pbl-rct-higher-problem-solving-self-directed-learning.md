@@ -62,3 +62,4 @@ These four outcomes (problem-solving, self-directed learning, communication skil
 - [PBL raises student satisfaction and learning interest, and both correlate positively with final overall academic performance](pbl-satisfaction-interest-correlate-performance.md) — related
 - [PA-PBL and control students reported comparable course satisfaction and self-evaluated competencies](pa-pbl-control-comparable-subjective-evaluations.md) — reports the opposite
 - [PBL interns report higher self-efficacy, instructional satisfaction, and perceived critical-thinking improvement than lecture-taught interns](pbl-self-evaluated-learning-gains-esophageal.md) — related
+- [Fifth-year hospital pharmacy students reported higher critical thinking and presentation skill gains than 3rd-year cardiovascular pharmacology students](journal-club-gains-vary-by-academic-year.md) — related

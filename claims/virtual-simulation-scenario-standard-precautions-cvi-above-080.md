@@ -62,3 +62,4 @@ Expert validation study using a researcher-developed Likert-type questionnaire o
 - [A qualitative group assessment judged the scenario feasible, adequately timed, and realistic](pacu-scenario-qualitative-feasibility-realism.md) — related
 - [Expert consultation rated the CCDNS-DRN with excellent content validity (I-CVI 0.78–1.0, S-CVI/UA 0.85, S-CVI/Ave 0.98)](ccdns-drn-content-validity-expert-consultation.md) — related
 - [An expert nurse panel positively evaluated the computer-based BSI-prevention simulation prototype, judging it of quality, theoretically valid, and able to address its intended problem](expert-panel-positive-evaluation-bsi-virtual-simulation.md) — related
+- [Expert content review using the Davis method removed five draft items with content validity indices below 0.80](scas-content-validity-davis-cvi-item-removal.md) — related

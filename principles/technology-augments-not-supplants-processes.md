@@ -31,7 +31,7 @@ sources:
 # Technology should augment, not supplant, learning processes in student-centered environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 174 claims (108 for, 54 mixed, 12 against) · 142 studies (30 review, 30 qualitative, 30 theoretical, 26 causal, 15 design, 10 associational, 1 quant-synthesis), `q1`–`q4` · 8 of 142 report an effect size · 170 claims rest on one study
+> **Evidence** · 175 claims (109 for, 54 mixed, 12 against) · 143 studies (30 review, 30 qualitative, 30 theoretical, 27 causal, 15 design, 10 associational, 1 quant-synthesis), `q1`–`q4` · 8 of 143 report an effect size · 171 claims rest on one study
 
 ## Conditional relationship
 
@@ -268,6 +268,7 @@ Claims this page cited that the model above does not use. Each keeps its old mar
 - [Preclinical medical students use ChatGPT during case-based learning to automate answering workbook questions, bypassing retrieval, elaboration and group problem-solving](../claims/chatgpt-automates-cbl-workbook-effort.md) [+W] — attached 2026-11-05 from Taylor A. W. R. et al. (2026), which proposed "Teach students about effective chatbot use and the value of cognitive effort, and promote autonomy and collaboration, to reduce passive AI use".
 - [Students rarely cross-check ChatGPT outputs, and use it most on topics where they have least knowledge, increasing risk of absorbing errors](../claims/students-rarely-cross-check-chatgpt-errors.md) [~W] — attached 2026-11-05 from Taylor A. W. R. et al. (2026), which proposed "Teach students about effective chatbot use and the value of cognitive effort, and promote autonomy and collaboration, to reduce passive AI use".
 - [Students experienced ethically scaffolded AI tools as cognitive partners, metacognitive mirrors, and equity tools in EFL writing](../claims/ai-cognitive-partner-metacognitive-mirror-equity-roles.md) [+W] — attached 2026-11-05 from Rashid S et al. (2025), which proposed "Embed generative AI in writing instruction through an Ethical Integration Protocol so collaboration promotes rather than undermines active learning".
+- [Pre-laboratory virtual simulation training raises medical students' pathogenic cocci test scores overall in a randomized controlled trial](../claims/virtual-simulation-raises-microbiology-lab-test-scores-rct.md) [+W] — attached 2026-11-06 from Lei Xu et al. (2025), which proposed "Integrate virtual simulation with traditional hands-on laboratory practice rather than substituting one for the other".
 
 ## Objective and learner-valued goal
 

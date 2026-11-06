@@ -47,3 +47,4 @@ From participant observation (approximately 180 hours over 28 visits) and interv
 ## Related Claims
 - [IPE produces negative impacts including logistical challenges, power dynamics, communication barriers, and feeling overwhelmed by extra workload](ipe-negative-impacts-power-dynamics-workload.md) — related
 - [The dominant barrier to EPAAs was high workload, and most interns could not easily fit EPAAs into their day](high-workload-dominant-barrier-to-epaas.md) — related
+- [Faculty identify administrative workload as a primary barrier to intrinsic motivation and teaching innovation](administrative-workload-barrier-faculty-innovation.md) — related

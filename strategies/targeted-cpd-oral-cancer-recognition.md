@@ -47,6 +47,8 @@ The authors recommend that diagnostic knowledge and confidence be enhanced throu
 
 - [Integrate case-based learning, visual diagnostic training, and interdisciplinary teaching into medical curricula to strengthen oral diagnosis](integrate-case-based-oral-diagnosis-training-strategy.md)
 - [Integrate targeted one-hour interactive online lectures on common orofacial conditions into continuing dental education, with periodic reinforcement](targeted-online-lecture-continuing-dental-education.md)
+- [Promote continuing education programs, workshops, and certifications on managing oral complications in cancer patients for practicing dentists](continuing-education-oral-oncology-dental-practitioners.md)
+- [Revise the dental curriculum to better address cancer-treatment complications and add periodic practical visits to head and neck cancer hospitals](revise-dental-curriculum-cancer-complications-practical-visits.md)
 
 ## Examples
 -

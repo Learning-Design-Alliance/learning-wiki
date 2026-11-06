@@ -56,3 +56,4 @@ Paired-samples t-tests within each group showed significant pre- to post-test ga
 - [Knowledge improved significantly from before to after the intervention in both groups](knowledge-improved-both-groups-lectures.md) — related
 - [Both instructional methods produced statistically significant pre-to-post SCT gains, with a larger effect size for the e-LbC theme](elbc-lecture-both-improved-sct-gains.md) — related
 - [Knowledge scores rose significantly within the live demonstration group from pre- to postdemonstration, with a large effect size](ld-within-group-knowledge-improvement-dental.md) — related
+- [In both groups, knowledge post-test and persistence test scores rose significantly above pre-test, and persistence scores exceeded post-test scores](intragroup-knowledge-gains-both-groups.md) — related

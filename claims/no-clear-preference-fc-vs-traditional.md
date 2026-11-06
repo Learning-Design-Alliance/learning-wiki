@@ -47,3 +47,4 @@ Item-level descriptive analysis of Dimension 3 (comparison with traditional meth
 ## Related Claims
 - [Nursing students evaluated the flipped classroom positively, with the highest scores for lecturer performance and materials/organisation and the lowest for comparison with traditional methodology](flas-dimension-means-positive-evaluation.md) — related
 - [Students in flipped college algebra rated 'Overall, the instructor effectively facilitated my learning' significantly lower despite higher exam achievement (p = .04)](flipped-lower-facilitation-rating-despite-higher-achievement.md) — related
+- [Students in both the flipped classroom and jigsaw groups reported high satisfaction and preferred these active methods over lecture-based teaching](high-satisfaction-fc-and-jigsaw.md) — reports the opposite

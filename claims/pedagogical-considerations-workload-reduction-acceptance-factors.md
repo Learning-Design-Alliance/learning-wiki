@@ -53,3 +53,4 @@ Second-order qualitative analysis of think-aloud protocols addressing RQ3. A sec
 - [Teachers envisioned chatbots as extending teacher capacity and availability by providing additional access to support and redistributing planning workload](teachers-envision-chatbots-extending-capacity-availability.md) — related
 - [AI in online learning offers personalization, predictive analytics, and potential reduction of instructor time on tasks](ai-online-learning-benefits-personalization-prediction-time.md) — related
 - [Instructors reported a moderate, acceptable increase in workload from asynchronous chat facilitation in WeChat-based PBL](wechat-pbl-instructor-workload-increase.md) — related
+- [The proposed AI competency list is a non-exhaustive starting point that lacks formal consumer input, a stated limitation](ai-competency-list-limits-consumer-input.md) — related

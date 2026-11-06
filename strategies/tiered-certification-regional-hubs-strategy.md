@@ -52,6 +52,7 @@ To implement digitally enhanced certification equitably, the statement recommend
 - [Implement a tiered system of caregiving competencies with advanced training in swallowing, chewing, and oral care](tiered-caregiving-competency-advanced-training.md)
 - [Match the implementation pathway to institutional ambition: proctor-guided broad training for hub centers versus small-team complexity escalation for technical stewardship](two-implementation-pathways-hub-versus-stewardship.md)
 - [In resource-limited settings, begin simulation training with standardized patients and part-task simulators, progressing to high-fidelity simulation centers as funding becomes available](staged-sbme-implementation-low-resource.md)
+- [Multi-source funding model to remove trainee financial barriers to robotic training](deanery-industry-funded-robotic-training-access-strategy.md)
 
 ## Examples
 -

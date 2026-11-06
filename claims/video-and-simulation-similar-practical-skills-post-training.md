@@ -52,3 +52,4 @@ Pilot RCT practical skills evaluation using a standardised SimBaby paediatric ca
 - [Self-reported confidence progressively increased across the four training steps, from median 2 after the video to median 4 after final evaluation](sbml-probing-confidence-progression.md) — related
 - [Between-group difference in BLS knowledge gain is not statistically significant, with a numerically higher gain in the video group](bls-video-vs-simulation-knowledge-gain-no-difference.md) — related
 - [Scenario-based animation and routine skill video both increased nursing students' ROM exercise knowledge, with no significant difference between the groups](rom-animation-skill-video-equal-knowledge-gains.md) — related
+- [Video-assisted teaching added to traditional instruction produces higher ROM exercise practice skill scores in first-year nursing students one week after training](video-assisted-teaching-higher-rom-practice-skill-scores.md) — related

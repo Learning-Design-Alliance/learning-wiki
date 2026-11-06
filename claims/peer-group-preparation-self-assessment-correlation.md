@@ -66,3 +66,4 @@ Correlational analysis at the midterm exam time point. Students who prepared in 
 
 ## Related Claims
 - [Peer-teaching-based oral exam training (PT-BET) is associated with increased students' confidence in their own competences during exams.](pt-bet-increased-exam-confidence.md) — related
+- [Peer calibration during TBL acts as both an enabler and a deterrent to medical students' self-confidence](peer-calibration-tbl-confidence-enabler-deterrent.md) — related

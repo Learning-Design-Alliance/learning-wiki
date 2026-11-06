@@ -119,3 +119,4 @@ PLS-MGA (Welch–Satterthwaite) comparing male (n = 105) and female (n = 382) su
 - [The structural model explains 75.3% of the variance in self-directed learning, but measurement invariance across gender was only partial](sdl-variance-explained-partial-invariance.md) — related
 - [Thoughtless use of generative AI exerts a significant direct negative effect on undergraduates’ self-directed learning](tuga-negative-direct-effect-sdl-henan-sem.md) — related
 - [SDL use and frequency of use differed significantly between male and female pharmacy students](gender-difference-sdl-use.md) — related
+- [The motivation–self-efficacy–innovation model holds invariantly across gender, career stage, and academic discipline](sem-model-invariant-across-demographics.md) — reports the opposite

@@ -60,6 +60,7 @@ The review recommends that curriculum integration of ECE proceed "through hybrid
 - [Expand simulation-based and laboratory training before and alongside clinical practice](expand-simulation-laboratory-training-nursing.md)
 - [Integrate simulation-based learning into interprofessional curricula to cultivate collaboration early in training](integrate-sbl-into-interprofessional-curricula.md)
 - [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
+- [Implementation strategy for adopting 3D-printed simulator-integrated PBL: cost evaluation, faculty training, case-embedded curriculum, phased training, and ethical compliance](3d-printed-pbl-implementation-strategy.md)
 
 ## Examples
 -

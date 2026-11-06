@@ -75,3 +75,4 @@ A proxy comparison of word counts: the prompt template contained 356 words versu
 - [LearnLens reduces teacher feedback time, with half of teachers previously spending 10–30 minutes per assignment versus a median below 5 minutes with the system](learnlens-reduces-teacher-feedback-time.md) — related
 - [LearnLens's modular pipeline outperforms direct-prompt baselines on scoring quality while matching latency and cost on 100 authentic student answers](learnlens-modular-pipeline-beats-baselines-scoring.md) — related
 - [ConnectED reduces 45-minute lesson preparation time to approximately 15–20 minutes in-system, versus 3–4 hours for manual preparation](connected-reduces-lesson-preparation-time.md) — related
+- [Generative AI, when used under precise conditions, reduces the cost and time of producing high-quality MCQs without compromising quality](genai-reduces-mcq-cost-and-time.md) — related

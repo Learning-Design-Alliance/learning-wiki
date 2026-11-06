@@ -70,3 +70,4 @@ Subgroup analysis of paired pre–post scores by academic year of study, reporte
 - [Male sex was the only factor independently associated with lower skills retention one year after simulation training](male-sex-lower-skills-retention-apr.md) — related
 - [Males scored significantly lower than females on skills scores one year after implementation, independent of other factors](males-lower-one-year-skill-scores.md) — related
 - [Second-year students and male students report higher gerontological nursing competence than first-year and female students respectively](grade-and-gender-competence-differences.md) — related
+- [Male students reported higher perceived skill improvements and more favorable domain scores than female students across all journal club domains](journal-club-gender-differences-self-reported.md) — related

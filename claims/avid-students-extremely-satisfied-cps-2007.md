@@ -50,3 +50,4 @@ Summary of findings from the 2007 AVID student survey administered in ninth and 
 - [Even students in lowest-rated AVID schools are fairly positive, though only half would recommend AVID to friends](avid-lowest-schools-students-fairly-positive.md) — related
 - [Small gaps in AVID experiences by gender, achievement, and grade, with girls, lower achievers, and tenth graders more positive](avid-small-gaps-gender-achievement-grade.md) — related
 - [Teachers report high satisfaction and willingness to recommend We Have Skills!](whs-high-social-validity-satisfaction.md) — related
+- [Students perceived the journal club skills as useful for future careers and reported high satisfaction and willingness to recommend the activity](journal-club-perceptions-satisfaction-future-use.md) — related

@@ -69,3 +69,4 @@ Meta-analysis of 22 publications involving 1096 residents (intervention 547, LBL
 - [PBL is associated with higher overall DREEM medical educational environment scores than LBL in randomized trials](pbl-higher-dreem-than-lbl.md) — related
 - [Microscopic image interpretation scores showed a borderline between-group difference favoring the integrated PBL and medical humanities group over LBL](integrated-pbl-humanities-borderline-microscopic-interpretation.md) — related
 - [In the same RCT, no significant between-group differences were observed in baseline theoretical knowledge or clinical skills scores before teaching](pbl-virtual-simulation-no-baseline-differences-trauma-orthopedics.md) — related
+- [PBL combined with SP yields higher practical exam and overall scores than LBL combined with SP in orthopedic resident training](pbl-sp-higher-practical-overall-exam-scores-orthopedic-residents.md) — a narrower finding that bears on this claim

@@ -70,3 +70,4 @@ ANCOVA of the interaction between method and gender (Table 6, 240 students) show
 - [Treatment and gender did not interact significantly in their effects on algebra achievement](no-treatment-gender-interaction-algebra.md) — reports the opposite
 - [Learning achievement in game-based learning shows no significant difference between males and females](game-based-learning-achievement-no-gender-difference.md) — reports the opposite
 - [Preservice teachers' social skills differ significantly by gender on some SSES items, favouring male preservice teachers](sses-gender-difference-favouring-males.md) — related
+- [Gender differences in statistics engagement favor female students in clinical application and method familiarity, with all comparisons significant at p < 0.05](gender-differences-statistics-engagement-medical-students.md) — reports the opposite

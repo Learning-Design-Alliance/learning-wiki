@@ -91,3 +91,4 @@ Same Mini-CEX assessment in the RCT. Two domains showed "no statistically signif
 - [Interns taught with OBE-integrated PBL achieve their career plans one year after graduation at a higher rate than lecture-taught peers](obe-pbl-career-plan-achievement-one-year.md) — related
 - [Mini-CEX intervention groups achieved significantly higher ward test scores than control groups (Cohen's d = 0.65)](mini-cex-higher-ward-test-scores.md) — related
 - [Paired t-tests showed statistically significant differences in overall assessment scores between the two teaching methods](pbl-sth-paired-ttest-assessment-outcomes.md) — related
+- [A retrospective pre-post survey of 30 BS/MD students found that self-rated scores for distinguishing CBL roles, interpreting case components, and formulating a differential diagnosis rose significantly from before to after a student-led CBL workshop, in one group without a comparison group](cbl-workshop-significant-competency-gains-bsmd.md) — related

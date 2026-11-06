@@ -53,3 +53,4 @@ Hierarchical regression (Model 2, Table 3) in the three-wave study of 363 studen
 - [Academic engagement positively predicts academic competence, an effect the authors grade as medium](academic-engagement-predicts-academic-competence.md) — related
 - [Academic self-efficacy positively moderates the relationship between critical thinking and academic engagement, an effect the authors grade as small](self-efficacy-moderates-ct-engagement.md) — related
 - [Critical thinking correlates positively with engagement and competence among Chinese college students](ct-engagement-competence-correlations.md) — related
+- [Self-efficacy directly predicts critical thinking among university students](self-efficacy-predicts-critical-thinking.md) — related

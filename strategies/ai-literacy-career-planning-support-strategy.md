@@ -52,6 +52,7 @@ Based on its findings, the article recommends that universities offer programs t
 - [Fund AI literacy initiatives integrating AI ethics into curricula and adapting assessments](ai-literacy-ethics-curricula-assessment-strategy.md)
 - [Differentiated, profile-matched university AI-readiness and career-education support instead of uniform AI-literacy programs](profile-differentiated-ai-career-education-support.md)
 - [Institutions should adopt clear, prominently displayed AI policies and cultivate AI literacy for ethical, employability-oriented use](clear-ai-policies-and-ai-literacy-strategy.md)
+- [Integrate digital health topics and practical experience with digital technologies into medical curricula](integrate-digital-health-curricula-practical-experience.md)
 
 ## Examples
 -

@@ -63,7 +63,7 @@ sources:
 # Active Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 88 claims (52 for, 32 mixed, 4 against) · 72 studies (34 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 11 of 72 report an effect size · 80 claims rest on one study
+> **Evidence** · 90 claims (53 for, 33 mixed, 4 against) · 73 studies (35 causal, 11 quant-synthesis, 9 review, 8 associational, 5 theoretical, 3 design, 2 qualitative), `q1`–`q4` · 12 of 73 report an effect size · 82 claims rest on one study
 
 ## Conditional relationship
 
@@ -169,6 +169,8 @@ Claims read against the model on 2026-10-19 that do not change it. Each says why
 - [Anesthesiologist-led active learning yields higher 12-month theoretical knowledge retention in medical history-taking, vital signs monitoring, and safe local anesthetic dosing than theory-based instruction](../claims/anesthesiologist-led-active-learning-12-month-knowledge-retention.md) [+W] — attached 2026-11-04 from Erkan Gözde Nur (2026), which proposed "Incorporate interdisciplinary, specialist-led active learning into health education curricula to support long-term knowledge retention and autonomous clinical practice"; tests this page's relationship.
 - [Active learning students report higher confidence in independently managing high-risk patients at 12 months (46.7% vs. 6%, r = 0.467)](../claims/active-learning-higher-confidence-managing-high-risk-patients.md) [+W] — attached 2026-11-04 from Erkan Gözde Nur (2026), which proposed "Incorporate interdisciplinary, specialist-led active learning into health education curricula to support long-term knowledge retention and autonomous clinical practice"; tests this page's relationship.
 - [Across five units and 15 objectives, students scored higher on the examination question for the objective they had prepared and taught than students who taught other objectives, in non-randomised groups analysed per student](../claims/peer-teachers-outperform-peer-learners-assigned-objective.md) [+W] — attached 2026-11-06 from Bradley LJ et al. (2025), which proposed "Design active learning so students prepare and teach specific content, since performance benefits attach to the taught material rather than receiving peer instruction".
+- [The jigsaw method produced significantly higher learning scores than both flipped classroom and lecture-based teaching in nursing students](../claims/jigsaw-higher-learning-scores-than-fc-and-lbt.md) [+M] — attached 2026-11-06 from Khodadadeh Alireza et al. (2025), which proposed "Adopt learner-centered active methods such as jigsaw and flipped classroom as alternatives to lecture, considering needs, conditions, and resources"; tests this page's relationship.
+- [No statistically significant difference in retention of course content among flipped classroom, jigsaw, and lecture groups six weeks after the intervention](../claims/no-retention-difference-three-methods.md) [~W] — attached 2026-11-06 from Khodadadeh Alireza et al. (2025), which proposed "Adopt learner-centered active methods such as jigsaw and flipped classroom as alternatives to lecture, considering needs, conditions, and resources"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

@@ -48,6 +48,7 @@ A curriculum strategy in which students receive standardised digital preparation
 ## Related Strategies
 
 - [Use brief task-specific training with handheld ultrasound devices to enable rapid procedural skill acquisition in novices within limited rotations](brief-task-specific-us-training-strategy.md)
+- [Train prehospital providers on the portable ultrasound devices their agencies already use or plan to adopt](train-on-agency-own-pocus-devices.md)
 
 ## Examples
 -

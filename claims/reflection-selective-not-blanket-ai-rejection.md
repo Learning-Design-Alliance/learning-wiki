@@ -56,3 +56,4 @@ Figure 2 analysis of AI-consistent final responses by advice correctness and tas
 - [Students frequently accepted misleading AI recommendations (overreliance) while rarely rejecting correct ones (underreliance)](overreliance-frequent-underreliance-rare.md) — related
 - [Trust and reliance can diverge, and self-reported reliance measures cannot classify calibration without output-quality ground truth](trust-reliance-divergence-measures-not-calibrated.md) — related
 - [Similarity between AI and peer feedback reassured students and increased their confidence in peer response](similarity-between-ai-and-peer-feedback-reassuring.md) — related
+- [Physicians need awareness that AI tools can negatively influence their cognitive processes, including over-reliance on AI-generated advice](ai-tools-negative-cognitive-influence-physicians.md) — related

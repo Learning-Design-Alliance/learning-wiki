@@ -102,3 +102,4 @@ The review reports Dwisaptarini et al.'s RCT of minimal invasive caries removal 
 - [Progression-focused simulation curricula (FRS, SIMULATE) yield superior outcomes compared to traditional training methods](frs-simulate-progression-curricula-superior-outcomes.md) — related
 - [VR simulator practice is more effective for learning spatial parameters of cavity preparation than conventional practice](vr-simulator-effective-spatial-parameters-dental.md) — reports the opposite
 - [VR simulator practice reduces critical errors in cavity preparation more than conventional practice alone](vr-simulator-reduces-critical-errors-dental.md) — reports the opposite
+- [Evidence on the pedagogical effectiveness of haptic training in dentistry is sparse, with a recent review finding most of 36 included studies were cross-sectional with short-term evaluation data](paucity-haptic-dental-training-evidence.md) — related

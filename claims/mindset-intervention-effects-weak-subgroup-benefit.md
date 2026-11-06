@@ -66,3 +66,4 @@ Second meta-analysis of mind-set interventions (k = 43 effect sizes, N = 57,155)
 - [Children with lower baseline achievement, lower IQ or lower school engagement may benefit more from school-based PA interventions, though evidence is mixed](pa-math-benefits-low-baseline-learners.md) — related
 - [ITS effects are similar for low-achieving students and the general student population](its-effects-similar-low-achievers-general-population.md) — related
 - [Pupils in both interventions achieved higher growth mindset scores than controls, but with low security](mindset-scores-higher-low-security.md) — a narrower finding that bears on this claim
+- [The study found almost no support for the compensatory hypothesis that growth mindsets benefit disadvantaged students more](no-support-compensatory-hypothesis-correlational.md) — related

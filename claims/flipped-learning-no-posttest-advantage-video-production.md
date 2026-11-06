@@ -70,3 +70,5 @@ The same quasi-experiment's pre-test comparison using the Mann Whitney U test fo
 - [Pre-service teachers in the flipped-learning group reported high satisfaction with the flipped learning activity's usefulness for video-production skills](positive-questionnaire-feedback-flipped-activity.md) — related
 - [Total time-on-tutor did not differ significantly between conditions and did not explain the post-test gains](time-on-tutor-no-significant-difference.md) — related
 - [Participation in the flipped classroom model does not significantly improve university students' self-directed learning skills](fcm-loc-no-sls-improvement.md) — related
+- [Flipped classroom and lecture-based teaching showed no significant difference in learning scores](fc-vs-lbt-no-learning-difference.md) — possibly the same claim (merge candidate)
+- [First-year nursing students taught with a flipped classroom scored significantly higher on knowledge post-test and persistence tests than students taught by traditional lecture](fcm-higher-knowledge-posttest-persistence-nursing.md) — related

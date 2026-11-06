@@ -53,3 +53,4 @@ Cross-sectional partial correlation analysis of 713 adolescents, adjusted for ag
 - [Students with good school achievement showed higher balance, lower limb coordination, and global physical fitness than insufficient achievers](good-achievement-higher-motor-fitness-scores.md) — reports the opposite
 - [Adolescents whose parents have short education or were born abroad have lower fitness, and lower cognitive and academic performance](parental-education-birth-socioeconomic-gaps.md) — related
 - [Cardiovascular fitness is positively associated with cognitive performance in Swedish adolescents, adjusting for gender, puberty, parental education and parental country of birth](fitness-associated-cognitive-performance-adolescents.md) — related
+- [Higher cardiorespiratory fitness is associated with higher academic performance across subjects in children](higher-crf-higher-academic-performance-children.md) — related

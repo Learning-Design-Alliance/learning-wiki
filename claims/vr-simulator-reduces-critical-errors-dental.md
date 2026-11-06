@@ -51,3 +51,4 @@ In the same randomized study of 55 dental students, "The reduction in catastroph
 - [Students who complete VR haptic simulator training before artificial-tooth practice report lower stress before and after access cavity preparation than students who start with artificial teeth](vr-first-lower-stress-artificial-teeth.md) — related
 - [Preclinical HVRS training significantly improves endodontic access cavity preparation scores on real patients](hvrs-training-improves-access-cavity-scores.md) — related
 - [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](ir-dental-equivalence-mixed-findings.md) — reports the opposite
+- [Only 3.7% of respondents reported exposure to VR or AR in school learning, while cavity preparation training and video demonstration predominated](minimal-vr-ar-exposure-dental-education.md) — related

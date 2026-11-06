@@ -70,3 +70,4 @@ The article reports a second study comparing an undergraduate lecture with and w
 - [Students report a far higher likelihood of answering questions in class when handsets are used than when responding by raising hands or verbally](evs-raises-participation-likelihood-vs-hands-verbal.md) — related
 - [Response cards improve academic achievement and student responding compared with traditional hand raising](response-cards-improve-outcomes-vs-hand-raising.md) — a broader claim this one bears on
 - [A student response system increased response rates but showed no functional relation for on-task behavior or academic achievement](srs-response-rate-no-achievement-relation.md) — related
+- [Quizzes increase students' practice of quiz questions as a study strategy and class participation, but not attendance or reported reading](quizzes-improve-participation-and-practice-not-attendance-reading.md) — related

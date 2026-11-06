@@ -66,3 +66,4 @@ Item 9 (MDI disposal) showed only 11.63% to 25.58% correct (p = 0.146, McNemar),
 ## Related Claims
 - [Pharmacy students' knowledge scores rose significantly from mean 6.86 to 8.44 after a peer-led workshop, in one uncontrolled pre-post study (r = 0.74)](peer-led-workshop-improved-medication-disposal-knowledge.md) — related
 - [Correct-response rates rose on most, but not all, concept and application items after a flipped classroom combined with CBL, in an uncontrolled pre-post comparison](flipped-classroom-cbl-improves-concept-and-application-questions.md) — a broader claim this one bears on
+- [Specific knowledge items showed very low correct-response rates, including effects of high-dose therapy on child development (17.2%) and pre-radiotherapy oral care benefits (15.8%)](lowest-scoring-knowledge-items-cancer-therapy.md) — related

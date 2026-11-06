@@ -52,3 +52,4 @@ Quasi-experimental study (Masoumian Hosseini et al. 2022, Iran) of 60 third-year
 - [Virtual reality simulation training improved reserve nurses' theoretical knowledge, emergency care capability, and total disaster preparedness, but not post-disaster management](vr-simulation-training-improved-response-capability.md) — related
 - [Knowledge and skills decline significantly at 3 months after both training modalities](knowledge-and-skills-decline-significantly-at-3-months.md) — related
 - [Performance deteriorated over time in both teaching approaches, with two-month scores significantly lower than two-week post-intervention results](performance-deterioration-both-approaches.md) — related
+- [One-time educational interventions show transient effects, with knowledge and performance declining within months of initial training](one-time-education-transient-effects-infection-control.md) — reports the opposite

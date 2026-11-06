@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 139 claims (81 show a difference, 38 mixed, 20 no difference) · 57 studies (23 associational, 19 causal, 8 review, 4 quant-synthesis, 3 theoretical), `q1`–`q4` · 20 of 57 report an effect size · 137 claims rest on one study
+> **Evidence** · 140 claims (82 show a difference, 38 mixed, 20 no difference) · 58 studies (24 associational, 19 causal, 8 review, 4 quant-synthesis, 3 theoretical), `q1`–`q4` · 20 of 58 report an effect size · 138 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -174,6 +174,7 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [Peer competition, but not peer cooperation, predicts a proxy measure of performance-approach goals in the PISA sample](../claims/competition-predicts-performance-goal-proxy.md) [+M] — measured as an outcome of the instruction studied
 - [Performance avoidance goals are negatively associated with in-degree but positively associated with out-degree centrality, suggesting ineffective social outreach](../claims/performance-avoidance-goals-ineffective-social-outreach.md) [~M] — learners who differ on it differ in outcomes
 - [Positive associations of peer cooperation and competition with mastery-approach goals persist after controlling for motives, demographics, and a proxy for performance-approach goals](../claims/peer-effects-robust-to-covariates.md) [+W] — measured as an outcome of the instruction studied
+- [Fuzzy logic model results suggest deep-approach students with high GPA perform best on TQT-PE while surface-approach students with low academic averages perform worst](../claims/fuzzy-model-deep-approach-high-gpa-best-tqtpe.md) [+W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

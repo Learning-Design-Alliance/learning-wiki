@@ -51,3 +51,4 @@ Comparison of standardized SEM results across full-sample, multigroup, and laten
 - [CVT structural relations are largely stable across gender and prior-education groupings, supporting relative universalism under variable-centered tests](cvt-invariant-across-demographic-groupings.md) — related
 - [Nonlinear CVT extensions show cubic control terms with negative coefficients for negative emotions in the full sample, but the coefficient's sign differs across latent profiles](nonlinear-cvt-diverges-across-profiles.md) — related
 - Research questions framed in academic emotion constructs tend to yield markedly lower or insignificant p-values than basic emotion constructs in the same studies — related
+- [Intrinsic value showed the closest alignment with enjoyment and boredom across profiles and appeared protective against anxiety when control was lower than value](intrinsic-value-aligned-enjoyment-boredom.md) — related

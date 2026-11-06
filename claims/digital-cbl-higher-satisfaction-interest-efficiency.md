@@ -53,3 +53,4 @@ Satisfaction survey of both groups in the pilot study, scored on a 5-point scale
 - [Residents in the modified Peyton group report higher teaching satisfaction across all surveyed dimensions](modified-peyton-higher-satisfaction.md) — related
 - [Integrated model raises satisfaction, clinical thinking, practical skill self-ratings and engagement, with no difference in resource utilization](microskills-cptm-questionnaire-engagement.md) — related
 - [Experimental-group trainees' theoretical implantology knowledge scores rose significantly from pre-course to post-course in a single-group pre-post study with no comparison group](digital-cbl-significant-pre-post-theoretical-gain.md) — related
+- [Students in the 3D-printed PBL group rated all ten self-assessment items higher than the traditional PBL group, including learning interest, efficiency, and confidence in future cleft lip surgery](3d-printed-pbl-questionnaire-all-items-higher.md) — related

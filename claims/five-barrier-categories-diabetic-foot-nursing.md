@@ -49,3 +49,4 @@ Manual thematic analysis (Braun and Clarke framework) of open-ended responses by
 - [Nurses report high autonomy in foot examinations (88.1%) but far lower autonomy in independent wound-care decisions (45.5%)](autonomy-gap-examination-versus-wound-care-decisions.md) — related
 - [Thematic analysis of open-ended responses identified four themes: enhanced skill development and safe learning environment, bridging theory with practice, barriers, and looking ahead](four-themes-sbl-oral-radiology-qualitative.md) — related
 - [Many nurses in SSA have adequate knowledge of diabetes self-management support and care in some studies](ssa-nurses-adequate-diabetes-care-knowledge.md) — related
+- [Lack of guidelines and lack of training are the most frequently identified barriers to DCM assessment and diagnosis](dcm-barriers-guidelines-and-training.md) — related

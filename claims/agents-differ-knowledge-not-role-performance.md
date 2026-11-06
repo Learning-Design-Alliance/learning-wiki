@@ -72,3 +72,4 @@ Rubric-based scoring of all 167 dialogues by Claude Opus 4.8 (mean of 4 runs). C
 - [Boundary compliance (S3) drives nearly all inter-model safety divergence, with a 53-point gap between the safest and least safe models](boundary-compliance-drives-safety-divergence-academiclaw.md) — related
 - [Current AI instructional-video systems score higher on content dimensions (Accuracy, Logic) than on delivery dimensions (Engagement, Adaptability), with Adaptability lowest](ai-video-systems-content-stronger-than-delivery.md) — related
 - [Strengthening empathy in the family-member agent did not translate into broader knowledge delivery](a8-empathy-revision-lowest-knowledge-coverage.md) — related
+- [Students rated the AI-generated examination significantly lower on difficulty adaptability, knowledge coverage, and learning inspiration](students-rate-ai-exam-lower-feedback.md) — related

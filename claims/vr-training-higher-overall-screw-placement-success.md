@@ -54,3 +54,4 @@ Random-effects meta-analysis of six RCTs on overall screw placement success prin
 - [In thyroid surgery training, simulation and virtual-reality training improved technical performance and task completion time, and simulators were rated as realistic](simulation-vr-improves-thyroid-surgery-technical-performance.md) — related
 - [No control-group trainee experiences pedicle breach while breaches occur in a quarter of control trainees during exercise](imr-ss-no-pedicle-breaches.md) — related
 - [IMR-SS shows no advantage over a digital textbook for theoretical knowledge of pedicle screw placement](imr-ss-no-theoretical-knowledge-advantage.md) — related
+- [Pre-training lumbar pedicle screw placement accuracy (75.94%) significantly exceeds atlantoaxial, subaxial cervical, and thoracic accuracy](pre-training-lumbar-accuracy-highest-region.md) — related

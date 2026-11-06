@@ -59,6 +59,7 @@ The article recommends a structured, stepwise progression integrating theoretica
 - [Three-stage instructional sequence: theoretical instruction, virtual simulation training, then phantom-head practice](three-stage-vs-irrigation-instructional-framework.md)
 - [Structure high-gap RT competencies into progressive beginner, intermediate, and advanced learning phases](progressive-learning-phases-high-gap-competencies.md)
 - [Adopt a staged, LMIC-sensitive pathway linking simulation-based preparation to authentic supervised bedside practice, with competency-based progression and EPAs](staged-simulation-to-bedside-pathway-lmic.md)
+- [Supervised, low-intensity graduated surgical training before a trainee's first complete vitrectomy](supervised-graduated-ppv-training-before-first-complete-vitrectomy.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ Secondary endpoint analyses of the cluster-randomized trial (mixed-effects model
 - [Self-reported apprehension and confidence do not differ significantly between structured-training and usual-teaching students](structured-training-no-difference-self-reported-confidence.md) — related
 - [Patient-reported procedural pain is numerically lower when local anesthesia is used, but the difference is not statistically significant](anesthesia-patient-pain-nonsignificant-trend.md) — related
 - [Patients rated the procedure duration perception significantly better with simulator-trained students and tended to feel more at ease](patient-perception-better-simulator-trained-students.md) — reports the opposite
+- [Cecal intubation rate did not differ significantly between AI-trained and conventionally trained endoscopists](cade-training-cir-no-significant-difference.md) — related

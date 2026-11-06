@@ -49,3 +49,4 @@ Semi-structured interviews with seven experimental-group participants (four fema
 - [Exposure to TV-series video clips did not produce a statistically significant advantage in immediate learning of formulaic sequences](tv-clips-no-significant-fs-learning-difference.md) — related
 - [Iranian EFL teachers hold positive attitudes toward using authentic listening materials and report enhanced listening comprehension relative to simplified materials](iranian-efl-teachers-positive-attitudes-authentic-listening.md) — related
 - [Judicious use of technology, video, film and TV with captions can support FL learning, but technology use for its own sake is not advantageous](judicious-technology-use-fl-learning.md) — related
+- [Qualitative findings show EFL teachers frequently relied on non-authentic listening materials in integral lessons](efl-teachers-rely-on-non-authentic-listening-materials.md) — related

@@ -58,3 +58,5 @@ Grounded-coding finding from the Delphi panel: "Over half the panel (55%)" expli
 - [Equitable access emerged as a prominent governance theme, with one-third of panelists explicitly mentioning equity or inclusion](genai-equitable-access-governance-theme.md) — related
 - [IDs raised data security, privacy, authorship, ownership, and plagiarism concerns, noting a lack of guidelines and policies for ethical GenAI use](genai-data-security-authorship-policy-gaps.md) — possibly the same claim (merge candidate)
 - [Senior manager buy-in, teaching staff buy-in, legal framework, privacy protection, and ethics guidelines were rated critically important to achieving LA potential](la-potential-critical-elements.md) — related
+- [The proposed AI competency list is a non-exhaustive starting point that lacks formal consumer input, a stated limitation](ai-competency-list-limits-consumer-input.md) — related
+- [Patients are more concerned about AI tool accuracy and data privacy than about tool explainability](patients-prioritize-accuracy-privacy-over-explainability.md) — related

@@ -50,3 +50,4 @@ In the randomised trial, intervention-group state anxiety moved from 39.5 ± 5.8
 ## Related Claims
 - [Non-learners show higher state anxiety than learners, but trait anxiety does not differ between groups](non-learners-higher-state-anxiety-trait-unchanged.md) — related
 - [AI simulation induced higher state anxiety than standardized patient simulation in one RCT, while qualitative studies reported reduced anxiety](ai-simulation-anxiety-divergent.md) — related
+- [Video-assisted teaching does not significantly reduce nursing students' state anxiety before ROM practice compared with traditional teaching alone](video-assisted-teaching-no-anxiety-difference-rom.md) — related

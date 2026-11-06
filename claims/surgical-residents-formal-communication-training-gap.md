@@ -51,3 +51,4 @@ Cross-sectional online survey (COSTRUIRE) of 189 Italian surgical residents and 
 - [Over 70% of surgical trainees who communicated difficult diagnoses would have preferred to handle the conversation differently](trainees-prefer-different-communication-approach.md) — related
 - [85.2% of surgical trainees report having communicated a difficult diagnosis without supervision during training](unsupervised-difficult-diagnosis-communication-prevalence.md) — related
 - [Increased exposure to unsupervised difficult conversations is associated with greater emotional confidence, while rare exposure is associated with higher distress](exposure-frequency-emotional-reaction-association.md) — related
+- [Only half of early-career metabolic and bariatric surgeons reported endoscopic education integrated into their general surgery residency, and 30.8% performed no endoscopic procedures during residency](young-ifso-endoscopy-training-integration-gaps.md) — related

@@ -51,3 +51,5 @@ Paired-sample t-tests (repeated-measures group) and independent-samples t-tests 
 - [AOI-dependent eye-tracking and motion metrics classify novices into High and Mid-Low skill levels during early-stage peg transfer training](aoi-metrics-classify-novice-skill-levels-early-training.md) — related
 - [PLS simulator is the most commonly used pediatric MIS training model, with construct validity established for its pattern-cutting task](pls-simulator-most-used-construct-validity.md) — related
 - [3D-printed pediatric chest model with embedded force sensors distinguished skill levels where a conventional box trainer did not](takazawa-chest-model-skill-differentiation.md) — related
+- [Novices show longer fixation durations on the adult box trainer than on the pediatric box trainer during peg transfer training](longer-fixation-durations-adult-than-pediatric-trainer.md) — reports the opposite
+- [Trial order affects mental workload: novices who started with the pediatric trainer had higher pupil diameter than those who started with the adult trainer](trial-order-pediatric-first-higher-pupil-diameter.md) — related

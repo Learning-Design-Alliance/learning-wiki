@@ -56,3 +56,4 @@ Secondary analysis of the same study comparing female (n=20 pooled pre/post grou
 - [The effect of games-based instruction on algebraic expressions achievement interacted significantly with gender, favoring male students](method-gender-interaction-algebra-games.md) — related
 - [No significant difference in vocabulary achievement between male and female young learners learning vocabulary through games](no-gender-difference-game-based-vocabulary-learning.md) — related
 - [Learning achievement in game-based learning shows no significant difference between males and females](game-based-learning-achievement-no-gender-difference.md) — related
+- [Males scored significantly higher than females on the gamified test (Cohen d=0.52), but the gender difference was no longer significant after controlling for video game experience](gba-gender-difference-explained-by-video-game-experience.md) — reports the opposite

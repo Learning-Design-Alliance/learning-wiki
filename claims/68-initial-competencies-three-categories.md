@@ -53,3 +53,5 @@ Delphi study reporting initial competency generation. The abstract states "The e
 - [Over 80% of surveyed palliative care physicians reported that mental health comorbidities reduce their comfort in delivering palliative care.](over-80-percent-comfort-reduced-by-mental-health-comorbidities.md) — related
 - [Only 15% of U.S. HPM fellowships include a required mental health clinical rotation.](15-percent-hpm-fellowships-required-mental-health-rotation.md) — related
 - [Second-round voting participation was 89% (32/36) and seven deferred competencies were added to the final list.](second-round-89-percent-participation-seven-added.md) — related
+- [Knowledge of physical symptom management (other than pain) and psychological symptom management showed no significant change after the course](no-knowledge-gain-symptom-management.md) — related
+- [Organisational competences are included as essential to safe inpatient care delivery](organisational-competences-inpatient-framework.md) — related

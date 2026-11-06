@@ -75,3 +75,4 @@ Correlational analysis under RQ3 in the survey of 47 graduate students in the on
 - [Invested effort and perceived value positively predicted social presence across all topics](perceived-value-predicts-social-presence.md) — related
 - [Students in higher SRL profiles perceive significantly higher teaching, social, and cognitive presence than students in lower SRL profiles](higher-srl-profiles-higher-coi-perceptions.md) — related
 - [SRL sub-constructs correlate substantially with all three CoI presences, and a seven-factor OSLQ model fits better than the original six-factor model](srl-coi-correlations-seven-factor-oslq.md) — reports the opposite
+- [Teaching, social, and cognitive presence each significantly positively predict learning performance in blended learning](three-presences-predict-performance-blended.md) — related

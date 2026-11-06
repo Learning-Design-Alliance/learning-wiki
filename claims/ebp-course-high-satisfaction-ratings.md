@@ -54,3 +54,4 @@ Course evaluation survey using a researcher-designed five-point Likert scale adm
 - [Both groups report similarly high satisfaction with the simulation training, with session duration rated lowest](high-satisfaction-similar-groups-duration-lowest.md) — related
 - [Nursing students report high satisfaction with creating educational videos, with applicability rated highest (4.12 ± 0.59) and complexity lowest (3.47 ± 0.69)](nursing-students-high-satisfaction-video-creation.md) — related
 - [Healthcare providers report high satisfaction with an asynchronous virtual care CPD module](virtual-care-cpd-module-high-satisfaction.md) — related
+- [Participants rated the POCUS course near the maximum on all evaluation measures, exceeding the pre-set satisfaction threshold](pocus-course-high-satisfaction-ratings.md) — related

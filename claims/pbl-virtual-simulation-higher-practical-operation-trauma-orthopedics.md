@@ -56,3 +56,4 @@ Same assessor-blinded RCT of 50 clinical medical students. Clinical skills were 
 - [PBL combined with 3D-VRT produced higher practical operation scores than traditional teaching in trauma orthopaedics education](pbl-3d-vrt-higher-practical-operation-scores.md) — possibly the same claim (merge candidate)
 - [Blended MOOC-virtual simulation teaching produces higher Structured Clinical Skills Assessment scores than traditional teaching](mooc-virtual-simulation-higher-clinical-skills-assessment-scores.md) — related
 - [Trainees trained on an animal-experiment-based simulation platform achieved significantly higher anatomy scores than control trainees (d = 0.68)](simulation-platform-higher-anatomy-scores-endoscopic-thyroidectomy.md) — related
+- [Clinical medicine students showed the largest score gap, 89.88 versus 68.34, between virtual-simulation and control groups](clinical-medicine-largest-virtual-simulation-score-gap.md) — related

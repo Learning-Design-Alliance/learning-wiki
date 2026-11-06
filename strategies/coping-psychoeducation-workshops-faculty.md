@@ -49,6 +49,7 @@ The article recommends that "academic support systems could integrate psychoeduc
 - [Multi-level institutional response to problematic internet use: digital wellbeing policies, psychoeducational curriculum programs, peer-led initiatives, and screening services](ia-multi-level-institutional-response-strategy.md)
 - [Integrate resilience-building strategies into teacher training programs, prioritizing psychosocial facets of academic success and pairing them with study-skill instruction when grade improvement is the goal](resilience-building-teacher-training-strategy.md)
 - [Embed resilience and coherence-strengthening interventions into existing curricular structures rather than standalone courses](embed-soc-interventions-existing-frameworks.md)
+- [Schools should run time-management and study-skills workshops, provide academic counseling, and teach coping strategies to manage academic stress](workshops-counseling-coping-kazo-recommendation.md)
 
 ## Examples
 -

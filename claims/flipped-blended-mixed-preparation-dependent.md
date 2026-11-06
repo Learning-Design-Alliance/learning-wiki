@@ -50,3 +50,4 @@ Synthesis of 4 flipped/blended studies in the review; direction-of-effect coding
 - [Flipped classroom significantly improves practical exam scores over lecture-based learning (pooled SMD 0.50)](fc-practical-exam-smd-050.md) — related
 - [Flipped classroom significantly improves theoretical exam scores over lecture-based learning in Chinese undergraduate preventive medicine courses (pooled SMD 0.99)](fc-theoretical-exam-smd-099-preventive-medicine.md) — related
 - [A blended/hybrid flipped calculus course with an FC Orientation module improved student learning performance and perceptions significantly over the traditional lecture format](spencer-2022-hybrid-fc-improved-performance.md) — related
+- [Integrating TBL, flipped classroom, and experiential home visits significantly improved fifth-year medical students' knowledge of palliative care principles, assessment, pain management, and advance care planning](active-learning-palliative-knowledge-gains.md) — related

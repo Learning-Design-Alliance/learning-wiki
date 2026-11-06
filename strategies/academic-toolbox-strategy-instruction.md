@@ -61,6 +61,7 @@ Within the SSC, after the diagnostic assessment component, instructors teach a s
 - [Toolbox assignments applying taught reading strategies directly to the paired content course material](toolbox-assignments-applied-reading-strategies.md)
 - [Advising strategies for students on academic probation: validation, just-in-time resources, goal setting, and mindset dialogues](star-lite-advising-strategies-probation.md)
 - [Train university students in stress-coping techniques alongside early screening for attention or learning difficulties](coping-training-plus-attention-screening-strategy.md)
+- [Schools should run time-management and study-skills workshops, provide academic counseling, and teach coping strategies to manage academic stress](workshops-counseling-coping-kazo-recommendation.md)
 
 ## Examples
 -

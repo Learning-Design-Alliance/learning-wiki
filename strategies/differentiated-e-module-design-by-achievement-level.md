@@ -52,6 +52,7 @@ Based on the subgroup findings, the authors recommend tailoring future e-modules
 - [Future improvements: real-world user studies, advanced student modeling, and spaced repetition](future-work-user-studies-student-modeling-spaced-repetition.md)
 - [Offer adaptive learning pathways tailored to learners' prior ultrasound experience level](adaptive-pathways-by-prior-experience.md)
 - [Add interactive features — quizzes, gamified modules, and simulated clinical scenarios — to future versions of skills-training software](future-interactive-features-quizzes-gamification-scenarios.md)
+- [Adapt journal club activities to student academic level and provide structured support for junior students](adapt-journal-club-to-student-level.md)
 
 ## Examples
 -

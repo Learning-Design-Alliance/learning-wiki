@@ -48,3 +48,4 @@ SEM with maximum likelihood estimation and Bootstrap mediation testing (n = 587)
 - [Self-directed learning partially mediated the association between iHEC teaching model and educational performance, accounting for 51.4% of the total association](sdl-partial-mediation-ihec-performance.md) — related
 - [Online real-time teaching interaction and deep learning jointly account for 18.5% of variance in teaching effect](interaction-deep-learning-explain-teaching-effect-variance.md) — related
 - [The blended model's effect on clinical skills scores splits into a direct pedagogical effect and an indirect effect mediated by increased training time](mediation-direct-pedagogical-effect-plus-training-time.md) — related
+- [Positive-low arousal academic emotions (calmness and relaxation) partially mediate the relationship between online presence and learning performance](positive-low-arousal-emotions-partially-mediate-presence-performance.md) — related

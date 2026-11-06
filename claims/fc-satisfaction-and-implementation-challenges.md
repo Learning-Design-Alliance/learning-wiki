@@ -59,3 +59,4 @@ Post-intervention five-point Likert questionnaire completed by all 56 FC partici
 - [First-year surgery residents were highly satisfied with the homemade CVCD TIVAP simulator, with a mean overall rating of 8.7 of 10 (n = 28)](residents-high-satisfaction-homemade-tivap-simulator.md) — related
 - [Students in the flipped histology course reported positive experiences, high ratings of stimulation and engagement, and unanimous willingness to take further flipped courses](positive-student-experience-flipped-histology.md) — related
 - [Trainees perceived the flipped classroom combined with BOPPPS model as scientific and worthy of promotion](flipped-boppps-trainee-perceptions-positive.md) — related
+- [Students in both the flipped classroom and jigsaw groups reported high satisfaction and preferred these active methods over lecture-based teaching](high-satisfaction-fc-and-jigsaw.md) — related

@@ -47,7 +47,8 @@ The authors recommend their multimodal approach "for broader application in orth
 - [Residents taught with integrated 3D visualization and PBL report higher teaching satisfaction across most survey items](../claims/3d-visualization-pbl-higher-satisfaction-pcc.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Implementation strategy for adopting 3D-printed simulator-integrated PBL: cost evaluation, faculty training, case-embedded curriculum, phased training, and ethical compliance](3d-printed-pbl-implementation-strategy.md)
 
 ## Examples
 -

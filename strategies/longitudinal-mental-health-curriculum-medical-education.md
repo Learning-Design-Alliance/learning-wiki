@@ -61,6 +61,8 @@ The article recommends that institutions integrate mandatory, longitudinal teach
 - [Embed brief experiential wellness activities longitudinally within existing health professions curricula](embed-longitudinal-experiential-wellness-activities.md)
 - [Implement integrated stress-management strategies and structured physical activity programmes for medical students in military institutions](integrated-stress-management-structured-pa-military-medical-students.md)
 - [Sustain engagement across the programme with system-level reforms, collaborative and experiential activities, and stimulating environments](sustain-engagement-system-level-strategies.md)
+- [Combine active and experiential learning with coping-skill training, reflective practices, and peer support to address the emotional burden of palliative care education](palliative-coping-support-strategy.md)
+- [Implement student-support mechanisms and embed well-being in the medical curriculum to sustain strength of motivation](student-support-mechanisms-sustain-motivation.md)
 
 ## Examples
 -

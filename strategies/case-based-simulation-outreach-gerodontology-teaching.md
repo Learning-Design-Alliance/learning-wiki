@@ -42,7 +42,8 @@ To make gerodontology learning clinically relevant, the article recommends caseâ
 - [Experiential learning in authentic clinical environments (community engagement, home visits, outreach rotations) was reported to produce the greatest positive impact on student attitudes, confidence, and perceived competence, but is the most resource-intensive](../claims/experiential-learning-greatest-impact-geriatric-dentistry.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Revise the dental curriculum to better address cancer-treatment complications and add periodic practical visits to head and neck cancer hospitals](revise-dental-curriculum-cancer-complications-practical-visits.md)
 
 ## Examples
 -

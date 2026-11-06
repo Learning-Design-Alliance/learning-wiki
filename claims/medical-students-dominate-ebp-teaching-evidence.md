@@ -50,3 +50,4 @@ Descriptive synthesis of the 20 included studies' characteristics. The review re
 - [Undergraduate physiotherapy students who used iVR alongside traditional teaching scored higher on overall manual therapy performance one week later](ivr-complement-improves-manual-therapy-performance-score.md) — related
 - [Prior discipline studies of IF-AT cards show mixed learning outcomes: significant advantages in nursing, physics and human resources, but equivalent scores in athletic training and pharmacy](ifat-prior-discipline-evidence-mixed.md) — related
 - [Students from nursing, pharmacy, and physical therapy expressed slightly higher satisfaction than other programs](program-differences-satisfaction.md) — related
+- [Self-rated self-efficacy did not change from pre-test to post-test among medical and nursing clinicians but changed among allied health and psychology clinicians, in one uncontrolled pre-post study](self-efficacy-gains-vary-by-profession.md) — related

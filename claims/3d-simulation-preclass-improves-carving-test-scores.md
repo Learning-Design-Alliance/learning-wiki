@@ -52,3 +52,4 @@ Randomized controlled trial of 86 second-year dental technology students (n = 43
 - [Satisfaction with the digital course correlates moderately with practical test scores and independently predicts them in regression (β = 0.28)](satisfaction-correlates-practical-performance.md) — related
 - [In an RCT of trauma orthopedic teaching, PBL combined with virtual simulation produced significantly higher written examination scores than lecture-based teaching (88.48 ± 4.02 vs. 77.04 ± 5.31, p < 0.01)](pbl-virtual-simulation-higher-written-exam-trauma-orthopedics.md) — related
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — related
+- [Pre-laboratory virtual simulation training raises medical students' pathogenic cocci test scores overall in a randomized controlled trial](virtual-simulation-raises-microbiology-lab-test-scores-rct.md) — related

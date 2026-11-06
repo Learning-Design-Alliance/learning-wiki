@@ -58,3 +58,4 @@ Qualitative thematic finding from focus group discussions with 40 nursing studen
 - [Nursing students report ineffective and inconsistent feedback in clinical practice due to overcrowded groups and limited instructor availability](students-report-ineffective-clinical-feedback-nanda.md) — related
 - [Physicians expressed a strong desire for immediate real-time procedural feedback with structured debriefing](physicians-desire-real-time-structured-cvc-feedback.md) — related
 - [Medical students valued debriefing sessions after VR training as key opportunities for reflection and consolidating learning](debriefing-valued-reflection-consolidation-vr.md) — related
+- [Feedback via simulation debriefing acts as a mirroring tool that builds self-knowledge and ownership of actions](debrief-feedback-mirror-self-knowledge-ownership.md) — related

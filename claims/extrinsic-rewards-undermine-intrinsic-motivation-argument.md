@@ -66,3 +66,4 @@ The essay's 'Learning Motivation' section reports, citing Deci, Koestner & Ryan 
 - [External rewards can undermine intrinsic motivation for learners who are already motivated](external-rewards-undermine-intrinsic-motivation-for-motivated-learners.md) — related
 - [Most of the 45 reviewed studies report positive gamification effects on motivation and engagement in mathematics; only four report negative effects](gamification-mathematics-mostly-positive-four-negative.md) — related
 - [Restrictive digital-use policies may reduce short-term exposure while doing less to build long-term self-regulatory capacity](restrictive-policies-reduce-exposure-not-capacity.md) — related
+- [Parental or teacher supervision (mean 4.22) and peer support (mean 4.30) are among the stronger self-reported motivators of Kazo District students, while external rewards (mean 3.85) are weaker](kazo-supervision-and-peer-support-motivate.md) — related

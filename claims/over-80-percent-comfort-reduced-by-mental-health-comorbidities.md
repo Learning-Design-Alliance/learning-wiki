@@ -50,3 +50,4 @@ Introduction section citing a prior national survey (ref 2) of more than 600 pra
 - [Only 15% of U.S. HPM fellowships include a required mental health clinical rotation.](15-percent-hpm-fellowships-required-mental-health-rotation.md) — related
 - [The expert panel proposed 68 initial competencies divided into psychological foundations, psychiatric disorders, and systems-based practice.](68-initial-competencies-three-categories.md) — related
 - [85% of surveyed therapists reported needing extra SM training, most commonly for delivering intervention, working with co-occurring conditions, and multidisciplinary teams](sm-training-needs-85-percent.md) — related
+- [Knowledge of physical symptom management (other than pain) and psychological symptom management showed no significant change after the course](no-knowledge-gain-symptom-management.md) — related

@@ -48,3 +48,4 @@ Post-training anonymous questionnaire (60 of 65 recovered, Cronbach's α = 0.891
 - [Trainees' self-reported interest in learning obstetric ultrasound did not change significantly from before to after the simulation course (null result)](obstetric-sim-interest-unchanged.md) — related
 - [Virtual simulation trainees scored higher medians on motivation and satisfaction questionnaires, with only the Confidence dimension borderline significant](virtual-simulation-higher-motivation-satisfaction-medians.md) — related
 - [Participants rated the EBP course highly on materials, methods, relevance, clarity and applicability, with course duration rated lowest](ebp-course-high-satisfaction-ratings.md) — related
+- [Trainee feedback on the programme was highly positive, with a median score of 5 (IQR 0.75) across questionnaire sections](positive-rcs-feedback-median-5-pilot-robotic-training.md) — related

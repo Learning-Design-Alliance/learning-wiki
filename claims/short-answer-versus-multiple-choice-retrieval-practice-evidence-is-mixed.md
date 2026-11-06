@@ -156,3 +156,4 @@ The chapter reports laboratory experiments by Smith and Karpicke (2014), includi
 - [Both SRE approaches produced significant but small effects on basic story comprehension measures](sre-basic-comprehension-effects.md) — related
 - [Switching from written short-answer to multiple-choice test format did not substantially change score levels](test-format-written-vs-mcq-little-difference.md) — related
 - [Question-generation strategy produces significantly better overall reading comprehension performance than conventional instruction](question-generation-significant-overall-effect-reading-comprehension.md) — related
+- [The number of quiz questions (five vs. ten) does not moderate the improvement in exam performance](quiz-question-number-does-not-moderate-testing-effect.md) — related

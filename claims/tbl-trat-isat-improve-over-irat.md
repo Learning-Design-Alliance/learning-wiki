@@ -64,3 +64,4 @@ Discussion of performance results: the authors state the tRAT gain is expected b
 - [Team-based readiness assurance test scores significantly exceeded individual readiness assurance test scores in an interdisciplinary TBL session](t-rat-exceeds-i-rat-interdisciplinary-tbl.md) — a narrower finding that bears on this claim
 - [TBL sessions improved knowledge acquisition: tRAT and end-of-session test scores were significantly higher than iRAT scores (p < 0.0001).](tbl-improved-knowledge-acquisition-irat-comparison.md) — related
 - [The voluntary survey subgroup (n = 25) also showed a significant knowledge gain from IRAT to TRAT (r = .85)](tbl-sbl-clinic-knowledge-gain-subgroup.md) — a narrower finding that bears on this claim
+- [Peer calibration during TBL acts as both an enabler and a deterrent to medical students' self-confidence](peer-calibration-tbl-confidence-enabler-deterrent.md) — related

@@ -75,3 +75,4 @@ A repeated-measures ANOVA on the GBS likelihood subscale (two items on a 4-point
 - [Self-rated knowledge, skills, and confidence improved across all domains and were sustained at 3 months](pr-training-self-rated-gains-sustained-3-months.md) — related
 - [Knowledge and self-efficacy scores remained stable, while attitude scores slightly decreased from post-test to two-month follow-up among medical interns in one uncontrolled pre-post study](knowledge-self-efficacy-attitude-retention.md) — related
 - [RVTs' seven-item communication self-confidence scores significantly increased by 2 months after a 5-day training programme, but not immediately after training](rvt-training-seven-item-confidence-increase-at-2-months.md) — related
+- [ICU nurses' MDRO infection control knowledge scores rose from baseline to 2 weeks and remained elevated at 3 months in a one-group pre-post study of repeated education](repeated-education-increased-mdro-knowledge-icu-nurses.md) — related

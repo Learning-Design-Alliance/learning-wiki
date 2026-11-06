@@ -56,3 +56,4 @@ Randomized comparison of 20 students per group (40 analyzed) in preclinical endo
 - [VR simulator practice produces significantly greater improvement in overall cavity preparation performance than conventional typodont practice alone](vr-simulator-greater-overall-performance-improvement-dental.md) — related
 - [VR simulator practice reduces critical errors in cavity preparation more than conventional practice alone](vr-simulator-reduces-critical-errors-dental.md) — related
 - [Digital group students reported significantly greater clinical confidence in mastering cavity preparation than traditional group students](digital-group-greater-clinical-confidence.md) — related
+- [Only 3.7% of respondents reported exposure to VR or AR in school learning, while cavity preparation training and video demonstration predominated](minimal-vr-ar-exposure-dental-education.md) — related

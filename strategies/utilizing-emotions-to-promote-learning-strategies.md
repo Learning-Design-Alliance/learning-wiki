@@ -48,6 +48,7 @@ The review enumerates implementable strategies by which teachers can use emotion
 - [Discussing Emotions](discussing_emotions.md)
 - [Explicate, Validate, and Address Negative Emotions](explicate-validate-and-address-negative-emotions.md)
 - [Teaching strategies to prevent and manage negative emotions in learning](strategies-prevent-manage-negative-emotions.md)
+- [Promote intrinsic motivation through interactive teaching methods that relate lessons to real-life applications and recognize student achievements](interactive-teaching-intrinsic-motivation-strategy.md)
 
 ## Examples
 -

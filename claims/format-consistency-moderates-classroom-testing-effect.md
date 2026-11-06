@@ -77,3 +77,4 @@ Meta-analytic moderator analysis of quiz–exam format consistency; the review r
 - [Taking a practice test before a final test produces a moderately large, statistically significant benefit for learning overall (g = 0.61 fixed-effects; g = 0.70 random-effects)](practice-testing-overall-meta-analytic-benefit.md) — a broader claim this one bears on
 - [Pedagogical augmentations of ITSs show inconsistent effects: self-assessment helped in some studies but not others, while personalization and matched test-practice format showed benefits](its-modified-its-mixed-pedagogical-effects.md) — related
 - [Quiz-and-reflection and extended-quiz conditions show no significant difference in unit exam performance](quiz-reflection-vs-extended-quiz-unit-exam-no-difference.md) — related
+- [The number of quiz questions (five vs. ten) does not moderate the improvement in exam performance](quiz-question-number-does-not-moderate-testing-effect.md) — related

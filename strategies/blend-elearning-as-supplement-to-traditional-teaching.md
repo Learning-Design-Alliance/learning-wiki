@@ -72,6 +72,7 @@ The review's design recommendation is that educators should not seek to replace 
 - [Adopt Sim + LBL as a cost-effective, scalable approach for visually intensive, practice-oriented disciplines](adopt-sim-lbl-cost-effective-scalable.md)
 - [Integrate open-source AI-supported, self-paced tracing tools with immediate feedback into undergraduate orthodontic curricula](ai-supported-self-paced-cephalometric-training-strategy.md)
 - [Use educational simulation software as a supplement to lectures and hospital-based clinical practice in nursing education](simulation-software-supplement-to-lecture-and-clinical-practice.md)
+- [Blend repeated in-person education with digital reinforcement tools such as quizzes, video reviews and mobile reminders](digital-reinforcement-blended-repeated-education.md)
 
 ## Examples
 -

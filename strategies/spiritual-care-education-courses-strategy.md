@@ -47,6 +47,7 @@ The article recommends that hospitals conduct spiritual care education courses a
 - [Incorporate palliative care into nursing curricula and provide regular palliative care training and continuing education for nurses](regular-palliative-care-training-and-curriculum-incorporation.md)
 - [Use nurses' spiritual care model profiles to assess and develop spiritual care competence in palliative care nursing](assess-develop-competence-via-spiritual-care-models.md)
 - [Incorporate life-meaning reflection and spiritual care training into nursing intern management to strengthen competencies](spiritual-health-intervention-life-meaning-reflection-strategy.md)
+- [Implement structured, continuous in-service education programmes on spiritual care practices for nurses](structured-continuous-in-service-spiritual-care-education.md)
 
 ## Examples
 -

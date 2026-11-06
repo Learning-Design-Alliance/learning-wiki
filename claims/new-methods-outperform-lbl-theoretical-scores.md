@@ -86,3 +86,4 @@ In the theoretical-score NMA (72 studies, 4874 trainees), eight interventions ea
 - [BOPPPS-CBL instruction is associated with significantly higher adjusted post-test knowledge scores than lecture-based learning in undergraduate HAI education](boppps-cbl-higher-adjusted-posttest-hai-knowledge.md) — related
 - [The hybrid CBL-SST-simulator model shows no significant difference from lecture-based learning in theoretical knowledge scores](hybrid-cbl-sst-no-difference-theoretical-knowledge.md) — related
 - [OBE-integrated PBL teaching yields higher theoretical assessment scores than lecture-based teaching in psychiatric clinical practice](obe-pbl-higher-theoretical-assessment-psychiatry.md) — related
+- [PBL combined with SP yields higher practical exam and overall scores than LBL combined with SP in orthopedic resident training](pbl-sp-higher-practical-overall-exam-scores-orthopedic-residents.md) — related

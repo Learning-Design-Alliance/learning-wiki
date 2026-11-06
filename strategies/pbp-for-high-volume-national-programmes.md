@@ -55,6 +55,7 @@ The authors recommend integrating PBP into high-volume national training program
 - [Integrate cost-effective simulation with structured, proficiency-based curricula into pediatric MIS training](proficiency-based-curricula-neonatal-mis.md)
 - [Integrate dedicated surgical care practitioners into robotic programmes to free trainees from the bedside assistant role and facilitate their transition to the console](scp-bedside-assistant-integration-robotic-training.md)
 - [Stepwise progression pathway integrating theoretical instruction, simulation, and supervised clinical practice](stepwise-progression-theory-simulation-supervised-practice.md)
+- [Multi-source funding model to remove trainee financial barriers to robotic training](deanery-industry-funded-robotic-training-access-strategy.md)
 
 ## Examples
 -

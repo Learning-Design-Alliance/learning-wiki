@@ -63,6 +63,7 @@ The review recommends that educators integrate simulation-based methods into ort
 - [Use educational simulation software as a supplement to lectures and hospital-based clinical practice in nursing education](simulation-software-supplement-to-lecture-and-clinical-practice.md)
 - [Enhance escape room simulation fidelity with AR, VR, AI, and real-time adaptive data](er-emerging-technology-fidelity-strategy.md)
 - [Invest in structured coach development alongside curricular planning for simulation-based surgical education](structured-coach-development-surgical-simulation.md)
+- [Blend repeated in-person education with digital reinforcement tools such as quizzes, video reviews and mobile reminders](digital-reinforcement-blended-repeated-education.md)
 
 ## Examples
 -

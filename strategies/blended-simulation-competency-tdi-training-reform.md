@@ -42,6 +42,8 @@ The article recommends a package of curricular reforms for TDI education: blende
 - [Integrate TBL with other teaching methods and modern educational technologies](tbl-integration-with-other-methods.md)
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Scaffold method choice by student progression: CBL early, transitioning to PBL and TBL](scaffold-cbl-early-transition-pbl-tbl.md)
+- [Reform medical statistics teaching through blended, case-based, tiered instruction with diversified competency-based assessment](blended-case-based-tiered-statistics-teaching-reform.md)
+- [Clinical scenario comprehensive training with high-fidelity models and case libraries to build integrated root canal treatment competence](clinical-scenario-comprehensive-training.md)
 
 ## Examples
 -

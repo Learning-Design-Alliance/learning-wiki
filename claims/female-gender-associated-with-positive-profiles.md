@@ -53,3 +53,4 @@ Multinomial logistic regression results for background variables; sex was signif
 - [The Devalued/Ambivalent profile is significantly overrepresented in academically selective magnet schools, and Resistors are underrepresented there](devalued-ambivalent-profile-overrepresented-in-magnet-schools.md) — related
 - [Three distinct racial-mathematical identity profiles emerge among Black adolescents and are robust across two time points one year apart](three-racial-mathematical-identity-profiles-lpa.md) — related
 - [Student perceptions of school racial stereotyping are not directly associated with racial-mathematical profile membership](stereotyping-not-associated-with-profile-membership.md) — related
+- [Profile membership related to mathematics test scores at both T1 and T3, with Positive-profile students scoring highest](profile-membership-main-effect-maths-scores.md) — related

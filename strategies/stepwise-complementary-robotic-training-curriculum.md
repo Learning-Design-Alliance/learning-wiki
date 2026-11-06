@@ -82,6 +82,7 @@ The review recommends that training modalities be combined in a progressive curr
 - [Provide animal-based simulation training before performing actual endoscopic surgeries](animal-simulation-before-actual-surgery-strategy.md)
 - [Use the hinotori™ system for structured skill acquisition in pediatric surgical training for novice robotic users](hinotori-structured-skill-acquisition-training-strategy.md)
 - [Pair LLM-assisted learning with VR/AR or simulation-based training for procedural skills](llm-plus-vrar-for-procedural-skills.md)
+- [Supervised, low-intensity graduated surgical training before a trainee's first complete vitrectomy](supervised-graduated-ppv-training-before-first-complete-vitrectomy.md)
 
 ## Examples
 -

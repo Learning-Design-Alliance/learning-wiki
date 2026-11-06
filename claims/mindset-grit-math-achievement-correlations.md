@@ -64,3 +64,4 @@ Bivariate correlations (Table 2) among the three constructs and math achievement
 - [Grit shows the strongest relationship to academic performance of all non-cognitive factors examined in rehabilitation science students](grit-strongest-non-cognitive-correlate-academic-performance-rehabilitation.md) — related
 - [Grit, sense of belonging, and motives for attending college showed no significant direct associations with academic achievement in this sample](grit-belonging-motives-no-achievement-association.md) — reports the opposite
 - [Challenge state correlates positively with academic self-efficacy, resilience, grit, and growth mindset](challenge-state-correlates-noncognitive.md) — related
+- [Students' fixed mindsets in math positively predict test anxiety and negatively predict self-efficacy, persistence and achievement](student-fixed-mindset-predicts-math-motivation-outcomes.md) — related

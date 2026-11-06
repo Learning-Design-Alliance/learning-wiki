@@ -48,3 +48,4 @@ Secondary endpoint analysis of the cluster-randomized trial using mixed-effects 
 - [Self-directed mikoto simulator training did not produce a statistically significant between-group difference in post-training cecal intubation rate versus standard training](mikoto-simulator-no-between-group-cir-difference.md) — related
 - [Within the mikoto group, cecal intubation rate rose significantly from 60.0% to 80.0% after simulator training](mikoto-within-group-cir-improvement.md) — related
 - [Simulator training showed no significant effects on adenoma detection rate, polyp detection rate, or patient pain scores](mikoto-no-detection-outcome-effects.md) — related
+- [Cecal intubation rate did not differ significantly between AI-trained and conventionally trained endoscopists](cade-training-cir-no-significant-difference.md) — related

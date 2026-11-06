@@ -64,3 +64,5 @@ Within-group before-to-after score gains in the same assessor-blinded RCT of 50 
 - [Written examination scores improved substantially after simulation-based learning, with the largest effect size of the three assessment components](sbl-improves-written-exam-scores-pediatrics.md) — related
 - [Simulation-platform trainees rated their theoretical knowledge acquisition and operational-skill improvement more favorably than controls](simulation-platform-higher-self-assessed-knowledge-and-skills.md) — related
 - [DVRS students reported the simulator relieved procedural anxiety, honed operational skills, and boosted confidence for clinical practice](dvrs-anxiety-skills-confidence-ratings.md) — related
+- [Clinical medicine students showed the largest score gap, 89.88 versus 68.34, between virtual-simulation and control groups](clinical-medicine-largest-virtual-simulation-score-gap.md) — related
+- [PBL-SP does not significantly change written exam performance relative to LBL-SP](pbl-sp-written-exam-no-significant-difference.md) — reports the opposite

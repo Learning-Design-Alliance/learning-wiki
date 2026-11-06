@@ -49,3 +49,4 @@ Inductive thematic analysis of free-text post-simulation questionnaire responses
 - [Focus groups identify structured practice, limited emotional realism, and recommendations for case variety and curriculum integration](aisp-focus-group-three-themes.md) — related
 - [Thematic analysis of open-ended responses identified four themes: enhanced skill development and safe learning environment, bridging theory with practice, barriers, and looking ahead](four-themes-sbl-oral-radiology-qualitative.md) — related
 - [Students viewed the debrief and structured reflection following the group simulation assessment as beneficial to their professional development](debrief-reflection-benefited-professional-development.md) — related
+- [Open-ended feedback themes highlighted course quality, instructor teaching, hands-on experience, and requests for advanced and refresher sessions](pocus-course-feedback-themes.md) — related

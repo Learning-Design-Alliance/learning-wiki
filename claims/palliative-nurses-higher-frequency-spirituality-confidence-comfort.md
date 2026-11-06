@@ -49,3 +49,4 @@ Exploratory supplementary Mann–Whitney comparisons of nurse characteristics be
 - [Palliative care nurses subscribing to more competent spiritual care models report higher palliative care experience, spiritual care frequency, and personal spirituality](palliative-nurses-competent-models-higher-experience-frequency-spirituality.md) — related
 - [Palliative care nurses subscribe to more competent models of spiritual care than a general sample of nurses](palliative-nurses-subscribe-more-competent-models.md) — related
 - [The replication refines training adequacy as a predictor of spiritual care competence to experience in caring for the dying, whether on-the-job or via training](predictor-refined-to-experience-caring-for-dying.md) — related
+- [Confidence in managing the dying process and overall confidence in providing palliative care did not change significantly from pre-test to post-test in one uncontrolled pre-post study](no-confidence-gain-end-of-life.md) — related

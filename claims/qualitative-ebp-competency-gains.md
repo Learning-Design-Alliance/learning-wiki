@@ -51,3 +51,4 @@ Thematic analysis of semi-structured interviews with 18 undergraduate nursing st
 ## Related Claims
 - [Qualitative interviews identify five themes: learning interest, self-directed learning, communication and humanistic care, clinical thinking, and improvement suggestions](boppps-virtual-simulation-qualitative-themes.md) — related
 - [Journal club activities are reported to enhance critical appraisal skills and confidence among pharmacy students](journal-clubs-enhance-critical-appraisal-pharmacy-students.md) — related
+- [A structured paired journal club activity leads pharmacy students to report new knowledge and increased confidence in critically evaluating research](journal-club-self-reported-knowledge-confidence-gains.md) — related

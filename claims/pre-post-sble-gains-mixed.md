@@ -52,3 +52,4 @@ Kirkpatrick levels 1 and 2 evaluation in the Fluharty et al. study (370 BSN and 
 - [Simulation-based learning experiences are being used to teach palliative and end-of-life communication skills to nursing students and clinicians](sble-teach-palliative-eol-communication-nursing.md) — a broader claim this one bears on
 - [Communication skills training improves clinician communication behaviors and confidence in goals-of-care conversations, with effects varying by skill and measure](gopc-training-improves-clinician-communication.md) — related
 - [SBLE significantly reduces emotional exhaustion among nursing students compared with traditional instruction](sble-reduces-emotional-exhaustion-nursing-students.md) — related
+- [Students reported significantly increased emotional stress and feelings of hopelessness after the palliative care course](increased-emotional-stress-hopelessness.md) — related

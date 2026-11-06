@@ -74,3 +74,4 @@ Profile characterization from the same LPA: the Positive Group (G1, N = 96, 34.2
 - [Four distinct action-control belief profiles (agentic, moderate, avoidant, and mixed) emerge among Finnish ninth graders](four-action-control-belief-profiles-ninth-graders.md) — related
 - [Latent profile analysis of 12-year-old twins identifies five distinct profiles of math achievement, numerosity, and math anxiety](five-latent-profiles-math-achievement-numerosity-anxiety.md) — related
 - [Higher negative math emotions are associated with lower odds of membership in the positively oriented profiles](negative-math-emotions-associated-with-profile-membership.md) — related
+- [Primary school mathematics students fall into three latent profiles of control, value and achievement emotions: Positive, Mixed and Negative](three-emotion-profiles-primary-maths.md) — related

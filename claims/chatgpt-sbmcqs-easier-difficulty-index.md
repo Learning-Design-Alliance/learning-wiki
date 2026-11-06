@@ -53,3 +53,4 @@ Difficulty-index classification of the 40 ChatGPT items in the crossover item-an
 - [ChatPDF.com generates more difficult and discriminating MCQs than ChatGPT 3.5 and ChatGPT 4](chatpdf-com-more-difficult-discriminating-mcqs.md) — related
 - [A majority of ChatGPT-generated MCQs met 'good quality' criteria for balanced difficulty and discrimination](chatgpt-mcq-good-quality-proportion.md) — reports the opposite
 - [Difficulty ranges of ChatGPT and instructor items differed: ChatGPT items spanned a broader range while the human test included more high-difficulty items](chatgpt-items-broader-difficulty-range-human-more-high-difficulty.md) — reports the opposite
+- [AI-generated X-type questions were easier than human-designed X-type questions (difficulty 0.77 vs. 0.62)](ai-x-type-questions-easier.md) — related
