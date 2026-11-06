@@ -59,3 +59,4 @@ The second-order meta-analysis included four moderator variables: types of SES i
 - [Teachers' mathematics anxiety is positively associated with the mathematics anxiety of their low-SES students via a teacher-anxiety-by-FARM interaction](teacher-math-anxiety-farm-interaction.md) — related
 - [The relationship between student characteristics and achievement does not differ significantly by academic area, cultural context, publication bias status, research quality, report type, or publication year](non-significant-moderators-characteristics-achievement.md) — related
 - [Authentic learning raised achievement similarly across low, medium and high socioeconomic status schools](authentic-learning-effective-across-ses-levels.md) — related
+- [Students with high educational goals gain more achievement from both higher individual SES and attending higher-SES schools (interaction B = 0.02 mathematics; 0.02 and 0.01 science)](education-goal-moderates-ses-effects.md) — related

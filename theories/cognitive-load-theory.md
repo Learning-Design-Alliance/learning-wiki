@@ -34,7 +34,7 @@ moved_from: [pattern/cognitive-load-theory]
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 135 claims (89 for, 35 mixed, 11 against) · 111 studies (49 causal, 26 review, 19 theoretical, 13 quant-synthesis, 2 associational, 2 design), `q1`–`q4` · 21 of 111 report an effect size · 123 claims rest on one study
+> **Evidence** · 136 claims (90 for, 35 mixed, 11 against) · 112 studies (49 causal, 26 review, 19 theoretical, 13 quant-synthesis, 2 associational, 2 design, 1 qualitative), `q1`–`q4` · 21 of 112 report an effect size · 124 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -206,6 +206,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [The modality effect: complex visual displays are better understood when explanatory words are presented auditorily rather than visually](../claims/modality-effect-audiovisual-superiority.md) [+W] — attached 2026-11-05 from Paridon H (2026), which proposed "Cognitive Load Theory: learning depends on managing limited working memory capacity".
 - [Expertise reversal effect: benefits of two modalities and worked examples diminish or reverse as learner expertise increases](../claims/expertise-reversal-modality-worked-examples.md) [+W] — attached 2026-11-05 from Paridon H (2026), which proposed "Cognitive Load Theory: learning depends on managing limited working memory capacity"; tests this page's relationship.
 - [Working memory resources can be exhausted during learning, decreasing performance, and restored through a break](../claims/working-memory-exhaustion-restored-by-break.md) [+W] — attached 2026-11-05 from Paridon H (2026), which proposed "Extended CLT model for clinical practice: schema construction and automation reduce intrinsic and extraneous load for experienced medical professionals"; tests this page's relationship.
+- [Virtual tasks that deviated from real-world procedures increased task burden, causing fixation on technical actions that impeded the simulation's core learning objectives](../claims/vr-task-burden-from-deviant-procedures.md) [+W] — attached 2026-11-06 from Loeb Daniel et al. (2025), which proposed "A blended constructivism and cognitive load theory framework for understanding how simulation modality influences participant attention and behavior".
 
 ## The evidence by question
 

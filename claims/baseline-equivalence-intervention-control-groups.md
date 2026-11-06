@@ -48,3 +48,4 @@ Pre-test one-way ANOVAs comparing the randomly assigned groups on all dependent 
 - [The intervention increases students' intention to choose complex tasks and shifts goal orientation toward learning goals](intervention-increases-complex-task-intention-and-learning-goals.md) — related
 - [Experimental and control groups were equivalent at pre-test on all motivation dimensions except test anxiety](grid-model-pretest-equivalence-except-anxiety.md) — related
 - [A one-hour presentation intervention shifts first-year university students toward a more incremental theory of intelligence in the short term](one-hour-intervention-shifts-incremental-theory-short-term.md) — related
+- [Nursing students showed adequate baseline emotional intelligence with no differences between groups](baseline-emotional-intelligence-adequate-no-group-differences.md) — related

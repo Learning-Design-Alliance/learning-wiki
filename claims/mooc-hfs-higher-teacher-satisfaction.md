@@ -49,3 +49,4 @@ Five-item teacher experience questionnaire (Cronbach's α = 0.91) covering satis
 - [High-fidelity simulation improves ECT procedural skills substantially but does not reliably improve theoretical knowledge or confidence](hfs-ect-procedural-skills.md) — reports the opposite
 - [HF simulation shows no significant benefit for satisfaction, confidence, or teamwork behaviors, and no long-term knowledge retention benefit](hf-simulation-null-secondary-outcomes.md) — reports the opposite
 - [The e-learning group reported significantly higher motivation to learn than the lecture-based group](ecme-motivation-higher-than-lecture.md) — related
+- [Students in the blended model reported uniformly high satisfaction across course content, teaching effectiveness, and course application dimensions](high-satisfaction-blended-surgical-model.md) — related

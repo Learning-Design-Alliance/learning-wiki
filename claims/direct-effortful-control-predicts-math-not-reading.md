@@ -70,3 +70,4 @@ Model D growth model. Direct effortful control assessment was not associated wit
 - [Combined teacher and parent report of effortful control predicts both prekindergarten math level and growth, persisting through the most stringent model](effortful-control-report-predicts-math-growth.md) — related
 - [Effortful control predicts social functioning, which predicts achievement, controlling for SES, age, and sex](ec-social-functioning-path-covariates.md) — related
 - [African American children show lower prekindergarten math but faster math growth, and higher prekindergarten letter–word knowledge with slower growth after covariate adjustment](african-american-ethnicity-math-reading-growth-patterns.md) — related
+- [Perceived teacher support has a significant positive direct effect on middle school students' mathematics performance after controlling for gender and age](teacher-support-direct-effect-math-performance.md) — related

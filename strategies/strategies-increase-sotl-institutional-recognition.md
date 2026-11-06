@@ -47,7 +47,8 @@ The review proposes three levers grounded in institutional logics theory. At the
 - [SoTL is inconsistently recognized by P&T committees: 58 articles (45%) addressed P&T, 15 described guideline revisions, and 40 (69%) warned of obstructions](../claims/sotl-inconsistently-recognized-by-promotion-tenure-committees.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Hiring committees should weigh education-research training when PoTs are expected to engage in scholarly activity, and provide teaching relief and physical space](align-pot-hiring-training-resources.md)
 
 ## Examples
 -

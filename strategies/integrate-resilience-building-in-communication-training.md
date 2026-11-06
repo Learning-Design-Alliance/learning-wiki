@@ -48,6 +48,8 @@ Based on the finding that internal psychological factors—especially resilience
 - [Teachers should incorporate PP-based strategies (fostering enjoyment, building resilience) into language teaching](incorporate-pp-strategies-in-language-teaching.md)
 - [Implement dual-focused nursing curricula combining communication skills training with alexithymia reduction and self-efficacy enhancement](dual-focused-alexithymia-self-efficacy-nursing-curriculum.md)
 - [Integrate resilience-building strategies into teacher training programs, prioritizing psychosocial facets of academic success and pairing them with study-skill instruction when grade improvement is the goal](resilience-building-teacher-training-strategy.md)
+- [Integrate SBLE into nursing curricula to strengthen emotional resilience and prepare students for clinical psychological demands](integrate-sble-nursing-curricula-burnout-strategy.md)
+- [Integrate structured stress-management and resilience-building supports into undergraduate nursing education](stress-management-resilience-in-nursing-curriculum.md)
 
 ## Examples
 -

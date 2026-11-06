@@ -49,3 +49,4 @@ Review synthesis reporting that "knowledge and self-efficacy in caring for peopl
 - [Informal caregivers tend to seek more health information on the internet than non-caregivers](caregivers-seek-more-health-information-than-non-caregivers.md) — related
 - [A within-subjects pilot with 27 professional software engineers found statistically significant self-reported self-efficacy gains across all 10 assessed skill areas after completing the cc-self-train curriculum](cc-self-train-pilot-self-efficacy-gains.md) — related
 - [Included wound care educational interventions showed positive effects on students' wound care knowledge and clinical skills, mainly via self-assessment](wound-care-interventions-improve-knowledge-skills-self-assessed.md) — related
+- [Self-directed learning with a mobile skills training system significantly increases healthcare professionals' self-assessed self-efficacy for trained care tasks.](sdl-mobile-system-increases-self-efficacy.md) — related

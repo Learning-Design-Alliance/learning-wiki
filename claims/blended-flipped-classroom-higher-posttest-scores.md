@@ -53,3 +53,4 @@ The review reports, from the included study by Aristotle et al. (2021) on histol
 - [VDT use is associated with improved academic performance in 86% of studies, with score increases of 8–31% over traditional teaching methods](vdt-improved-academic-performance-86-percent-studies.md) — a broader claim this one bears on
 - [Both e-lecturing and eHistoLab instruction significantly improved histology knowledge from pre-test to post-test](both-methods-improved-histology-knowledge.md) — related
 - [MOOC-HFS blended internship improves academic performance across all assessments compared to traditional teaching](mooc-hfs-blended-improves-academic-performance.md) — related
+- [Medical students taught histology with a flipped-classroom blended model scored significantly higher on the end-of-course exam than students taught conventionally in a randomized trial](flipped-classroom-higher-histology-exam-scores.md) — possibly the same claim (merge candidate)

@@ -53,3 +53,4 @@ Aiso Heinze, Julia Arend, Meike Gruessing, Frank Lipowsky. (2018). Instructional
 - [Implicit and explicit learning environments do not differ in third graders' accurate use of strategies](implicit-explicit-no-difference-accurate-strategy-use.md) — related
 - [Implicit and explicit learning environments do not differ in third graders' skills in adaptive use of strategies at post-test or at 3- and 8-month follow-ups](implicit-explicit-no-difference-adaptive-strategy-use.md) — related
 - [The strategy intervention improved third graders' adaptive use of strategies relative to untreated classmates](intervention-improved-adaptive-use-versus-classmates.md) — related
+- [Explicitly instructed students memorized more movement-related rules than implicitly instructed students after three training sessions](explicit-group-recalled-more-rules.md) — related

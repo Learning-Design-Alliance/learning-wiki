@@ -55,3 +55,4 @@ Validation testing with a cohort of 3 attending critical care physicians at a lo
 - [Student–expert agreement on bias assessment improves significantly after EBD training](student-expert-agreement-improves-post-ebd-training.md) — related
 - [Rubric scoring of concept image protocols showed inter-rater reliability exceeding acceptable thresholds (Fleiss Kappa 0.60–0.88; Krippendorff's Alpha 0.60–0.88; ICC 0.89–0.98)](concept-image-rubric-inter-rater-reliability.md) — related
 - [Agreement between expert raters' consensus and the gold-standard ACLS checklist ranged from substantial to near-perfect in most scenarios but was negative for one pVT scenario](acls-llm-sim-gold-standard-agreement-mixed.md) — related
+- [Trained SPs achieved moderate-to-substantial inter-rater reliability across history-taking subscales, with lowest agreement for Professionalism & Communication](sp-inter-rater-reliability-kappa.md) — related

@@ -51,6 +51,7 @@ Based on the identified importance-performance gap in faculty competence, the ar
 - [Sustain educational interventions throughout development and evaluate long-term rather than short-term efficacy](sustained-interventions-throughout-development.md)
 - [Direct faculty development funding for a multiplier effect rather than standalone student workshops](faculty-development-multiplier-effect-strategy.md)
 - [Integrate digital-competency development into nursing curricula through pedagogically guided real-world technology activities](integrate-digital-competencies-nursing-curricula.md)
+- [Faculty development combining technology-adaptation support, contextualized TPACK capacity building, and growth mindset interventions](faculty-development-technostress-tpack-gm-support.md)
 
 ## Examples
 -

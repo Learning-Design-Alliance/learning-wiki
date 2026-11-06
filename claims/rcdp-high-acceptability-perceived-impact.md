@@ -48,3 +48,4 @@ Paper-based acceptability and impact survey completed by all 23 learners who fin
 - [Average attendance at weekly RCDP sessions was 77% among available learners, and 23 of 85 rotating learners (27%) completed the week-4 formative assessment](rcdp-attendance-77-percent-assessment-uptake.md) — related
 - [During a 4-week ICU rotation with weekly RCDP simulations, 43% of assessed learners (10 of 23) completed ≥80% of targeted key clinical tasks, missing the pre-set target of ≥80% of learners](rcdp-icu-43-percent-reach-80-percent-target.md) — related
 - [Mandated multi-role rotation and full attendance in the participatory simulation phase achieved complete learner engagement](multi-role-rotation-full-engagement.md) — related
+- [Participants rate the multidisciplinary neurology simulation course very positively and report high confidence in identifying and managing acute neurological scenarios](sbme-neurology-high-satisfaction-confidence.md) — related

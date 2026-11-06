@@ -51,3 +51,4 @@ Quasi-experimental study (Masoumian Hosseini et al. 2022, Iran) of 60 third-year
 - [Structured digital-based education improved nursing students' disaster literacy and disaster preparedness beliefs](structured-digital-education-improved-disaster-literacy.md) — related
 - [Virtual reality simulation training improved reserve nurses' theoretical knowledge, emergency care capability, and total disaster preparedness, but not post-disaster management](vr-simulation-training-improved-response-capability.md) — related
 - [Knowledge and skills decline significantly at 3 months after both training modalities](knowledge-and-skills-decline-significantly-at-3-months.md) — related
+- [Performance deteriorated over time in both teaching approaches, with two-month scores significantly lower than two-week post-intervention results](performance-deterioration-both-approaches.md) — related

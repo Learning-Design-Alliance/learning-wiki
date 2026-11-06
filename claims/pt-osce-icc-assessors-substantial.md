@@ -58,3 +58,4 @@ Random effects meta-analysis of intraclass correlation coefficients between OSCE
 - [Rater reliability was good for the adapted checklist, and objective and subjective scores correlated strongly](adapted-checklist-irr-and-score-coherence.md) — related
 - [Inter-rater reliability was high for both Team OSCE (Kappa 0.80 pre, 0.76 post) and TPOT (ICC 0.94 pre, 0.93 post)](ipstar-interrater-reliability.md) — related
 - [Rubric-based scoring in the PROMPTa study showed strong intra-rater and moderate-to-strong inter-rater reliability](prompta-rater-reliability-estimates.md) — related
+- [Trained SPs achieved moderate-to-substantial inter-rater reliability across history-taking subscales, with lowest agreement for Professionalism & Communication](sp-inter-rater-reliability-kappa.md) — related

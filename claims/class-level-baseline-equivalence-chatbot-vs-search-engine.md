@@ -73,3 +73,5 @@ Quasi-experimental baseline check comparing the two intact classes on previous-s
 - [No pre-treatment differences in biofuels content knowledge existed between adaptive and innovative students before the treatment](pretest-equivalence-adaptive-innovative-groups.md) — related
 - [Prior knowledge does not significantly influence treatment-dependent learning achievement](prior-knowledge-no-treatment-influence.md) — related
 - [The two groups were comparable in gender, age, and educational background before instruction](3d-visualization-pbl-groups-comparable-baseline.md) — related
+- [Prior AI tool use and end-of-semester course scores did not differ between groups, supporting attribution of the score difference to chatbot use](baseline-ai-use-and-course-scores-comparable.md) — related
+- [The intervention and control groups did not differ significantly in knowledge before the intervention](no-baseline-knowledge-difference-groups.md) — related

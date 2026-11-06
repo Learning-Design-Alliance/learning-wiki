@@ -85,3 +85,4 @@ Covariate multigroup omnibus comparisons in Results across all three EF groups: 
 - [Without covariates, the rate of math growth and the shape of growth did not differ across the three EF trajectory groups](ef-groups-similar-math-growth-rate-baseline.md) — related
 - [Preschool executive functions robustly predict mathematical skills during preschool and later in development](preschool-ef-predicts-mathematics.md) — a broader claim this one bears on
 - [Executive functioning and early numeracy skills assessed in kindergarten directly predict mathematical performance in second grade, jointly explaining 57.3% of its variance](ef-and-early-numeracy-directly-predict-grade-2-math.md) — related
+- [Worse childhood global executive functioning predicted slower math growth over time, but did not predict initial childhood math scores](global-ef-predicts-math-growth-slope.md) — related

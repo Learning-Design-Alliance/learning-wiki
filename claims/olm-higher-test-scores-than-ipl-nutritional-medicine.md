@@ -53,3 +53,5 @@ Randomized controlled single post-test trial with 78 students completing the tes
 - [College students' scores on an online source credibility assessment improved significantly after four course-embedded modules in an asynchronous nutrition course](course-embedded-modules-improve-credibility-scores.md) — related
 - [OLM students reported self-paced viewing as beneficial for retention and motivation, and studied longer than the scheduled lecture time](olm-self-paced-benefits-and-study-time.md) — related
 - [Theory-based EBP teaching improved EBP skills, with fluctuations over time and mixed results for distinguishing credibility of online sources](ebp-skills-gains-fluctuations.md) — related
+- [An online nutrition course increased family medicine residents' nutrition knowledge test scores (p = 0.027) in a small pre-post study](online-nutrition-course-knowledge-increase-residents.md) — a narrower finding that bears on this claim
+- [Self-reflection prompts improve post-training theoretical knowledge in a brief online asynchronous training module (medium effect)](self-reflection-improves-knowledge-quiz-gains.md) — related

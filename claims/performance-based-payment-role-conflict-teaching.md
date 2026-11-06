@@ -47,3 +47,4 @@ Interview finding; Participant 8 stated that when payments are based on patient 
 ## Related Claims
 - [Faculty described a gradual identity shift from educator–clinician toward service-oriented clinician under repeated exposure to service-oriented metrics](htp-faculty-role-identity-shift-toward-service-provider.md) — related
 - [Faculty perceived education as marginalized in HTP policy and evaluation frameworks, which lack educational indicators](htp-policy-marginalization-of-education.md) — related
+- [Faculty report that treatment workload and revenue priorities in Iranian teaching hospitals overshadow teaching, and that faculty teaching performance is not monitored or rewarded.](education-service-integration-poor-iran.md) — possibly the same claim (merge candidate)

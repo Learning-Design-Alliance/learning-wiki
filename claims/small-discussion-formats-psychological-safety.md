@@ -53,3 +53,4 @@ Theme 5 of the thematic analysis; students reported that discussion-based format
 - [For some students, AI-generated feedback reduces the perceived personal risk of exposing weaknesses, functioning as a psychologically safe space for feedback seeking](ai-feedback-reduces-perceived-personal-risk.md) — related
 - [Undergraduate dental students perceive reflection and feedback as central mechanisms for monitoring progress and refining learning strategies in PBL](pbl-reflection-feedback-monitoring-progress.md) — related
 - [Peer learning's effectiveness depends on psychological safety and trust within the group; informal networks may disproportionately benefit those with stronger social capital](peer-learning-psychological-safety-and-equity-conditions.md) — related
+- [Peer-to-peer SDL in pairs fosters psychological safety, reflection, and constructive feedback among healthcare professionals.](peer-sdl-pairs-psychological-safety.md) — related

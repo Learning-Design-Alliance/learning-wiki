@@ -49,3 +49,4 @@ Longitudinal log monitoring of ELM-ART usage rather than a controlled study; the
 - [Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it](pretesting-can-harm-motivation.md) — related
 - [Multimedia initial instruction lowers students' perceived difficulty of problems across instruction, practice, and posttest phases](multimedia-instruction-lowers-perceived-difficulty.md) — related
 - [Students show signs of dropout risk early in high school, and schools that reach out in the ninth-grade year can keep them on track to graduate](ninth-grade-early-outreach-keeps-students-on-track.md) — related
+- [High early dropout (65% after the first registration page) means feasibility findings may reflect a self-selecting subset](early-dropout-limits-feasibility-interpretation.md) — related

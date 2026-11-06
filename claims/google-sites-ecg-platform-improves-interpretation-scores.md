@@ -51,3 +51,4 @@ Open-label, single-center, cluster-randomized study of 46 first-year second-cycl
 - [CAI is not better than face-to-face teaching for acquiring ECG competence overall, with high heterogeneity among studies](cai-no-overall-advantage-ecg-competence.md) — a broader claim this one bears on
 - [Unrestricted 24/7 access to CAI materials is associated with better ECG outcomes, while restricted access is not](unrestricted-cai-access-benefit.md) — a broader claim this one bears on
 - [Subanalyses by training level tend to favour CAI for both medical students and residents, though confidence intervals are imprecise](cai-students-residents-subanalysis.md) — a broader claim this one bears on
+- [The synchronised EYE-ECG2 video produced a moderate but nonsignificant tendency toward better ECG interpretation performance than training as usual](eye-ecg2-video-nonsignificant-tendency.md) — related

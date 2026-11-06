@@ -20,6 +20,7 @@ A six-stage AI-integrated instructional-design framework for developing learner-
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **MIND microlearning module design characteristics: bite-sized, multi-modal, interactive content aligned to outcomes**: The MIND development stage prescribes microlearning content that is multi-sensory and multi-modal, presented in bite-sized segments, and enriched with interactive elements. The article states, "Instructional content should include interactive elements, e.g., quizzes and simulations, to foster active learning and provide opportunities for practical application", and that modules should incorporate rich media such as visuals, graphs, charts, audio, and video, with short durations from a few seconds to a few minutes to prevent cognitive overload. (Monib Wali Khan et al. (2025))
 
 ### Claims
 - [Instructional design using the MIND model produced significantly higher post-test learning outcomes than design using the ADDIE model](../claims/mind-model-outperforms-addie-learning-outcomes.md) [+M]

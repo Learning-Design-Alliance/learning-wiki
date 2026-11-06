@@ -49,3 +49,4 @@ Review synthesis of eleven studies assessing burnout dimensions in medical stude
 - [Cynicism is significantly negatively related to academic achievement (rc+ = −.24)](cynicism-negative-achievement.md) — a narrower finding that bears on this claim
 - [Reduced efficacy shows the largest negative correlation with academic achievement (rc+ = −.39)](reduced-efficacy-largest-negative-achievement.md) — a narrower finding that bears on this claim
 - [Total academic burnout is significantly negatively related to academic achievement (rc+ = −.24)](total-burnout-negative-achievement-meta-analysis.md) — a narrower finding that bears on this claim
+- [Within the traditional classroom instruction group, burnout dimensions did not change significantly from pre-test to post-test](control-group-no-burnout-changes.md) — a narrower finding that bears on this claim

@@ -54,3 +54,4 @@ Bivariate correlation analysis (Table 2) of the same cross-sectional acceleromet
 - [Vigorous physical activity significantly predicts originality, fluency and flexibility in regression models, but not elaboration](vigorous-activity-predicts-o-flu-fle-not-ela.md) — related
 - [In a multiple regression model, vigorous physical activity significantly accounts for 4.5% of variance in overall creativity](vigorous-activity-regression-creativity-variance.md) — related
 - [Daily moderate-to-vigorous physical activity is associated with better executive functioning in boys with ADHD](mvpa-associated-executive-function-adhd-boys.md) — related
+- [Learning behavior engagement correlates positively with operational skill outcomes, with no significant correlation for flexibility](engagement-correlates-skill-outcomes.md) — related

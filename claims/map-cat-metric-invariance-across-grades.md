@@ -57,3 +57,4 @@ MGCFA nested-model comparisons (no constraint, equal loadings, equal loadings pl
 - [The motivational measures show strict longitudinal measurement invariance across the two time points](strict-measurement-invariance-motivation-two-waves.md) — related
 - [Measurement invariance across studies was met, and cross-lagged betas were invariant across studies (ΔCFI < .001, ΔRMSEA = .001)](cross-lagged-beta-invariance-across-studies.md) — related
 - [Measurement invariance of the cognitive load, adaptability, and innovation model holds across teacher subgroups](cl-measurement-invariance-teacher-subgroups.md) — related
+- [Measurement invariance across test and questionnaire versions held at least at metric level, allowing versions to be combined in one analysis](measurement-invariance-test-versions.md) — related

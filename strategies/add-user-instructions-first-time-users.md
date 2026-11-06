@@ -45,6 +45,7 @@ Based on teacher and student user experience, the study recommends that systems 
 - [Add an approval/confirmation function to RTC so learners choose whether to accept a collaborator's change](rtc-approval-confirmation-function.md)
 - [User-Friendly Library Website Practices](user-friendly_library_website_practices.md)
 - [Support less digitally savvy learners with targeted digital scaffolding and add collaborative activities to AI-enhanced microlearning](digital-scaffolding-and-peer-interaction-microlearning.md)
+- [Deploy an LLM-based chatbot trained on course materials to support course orientation and onboarding, particularly for ESL students](llm-chatbot-course-orientation-strategy.md)
 
 ## Examples
 -

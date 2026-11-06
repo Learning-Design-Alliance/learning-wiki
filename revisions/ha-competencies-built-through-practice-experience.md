@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/ha-competencies-built-through-practice-experience.md
+---
+
+# Revision history: [claims/ha-competencies-built-through-practice-experience](../claims/ha-competencies-built-through-practice-experience.md)
+
+### 2026-11-06 · ingest · process:wiki-ingest
+Ingested from pmc-12530416 (Evolving roles of hospital administrators in India: a qualitative study on health information technology competencies for improved healthcare delivery.) via eval_harness.py + ingest_extractions.py

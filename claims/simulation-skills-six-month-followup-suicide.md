@@ -54,3 +54,4 @@ Meta-analysis of 8 RCTs (n = 1,097) assessing skills. The six-month pooled effec
 - [Virtual patient simulations show mixed effects: improved diagnostic accuracy in one trial, no advantage over video teaching in another, and short-lived knowledge gains](virtual-patients-mixed-psychiatry.md) — related
 - [Simulation Based Education With Deliberate Practice Improves Clinical Skill Acquisition](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
 - [EBP attitude change depends on measurement timing: immediate post-test measures show no difference while longer-term measures show improvement](ebp-attitude-change-timing-longer-term.md) — related
+- [Game-based learning improved observed patient safety performance at two weeks (p = 0.04) but the difference was no longer significant at two months (p = 0.63), with a moderate effect (partial η² = 0.034)](gbl-performance-short-term-only.md) — related

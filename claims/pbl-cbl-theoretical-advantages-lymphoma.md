@@ -47,3 +47,4 @@ This is the authors' theoretical argument in the advantages section, not a teste
 ## Related Claims
 - [Case-based learning combined with multidisciplinary team teaching yields significantly higher satisfaction rates across learning interest, clinical thinking, team collaboration, and communication skills dimensions.](cbl-mdt-higher-satisfaction-rates-competency-domains.md) — related
 - [The authors propose that MDT-CBL's primary pilot-phase value lies in process benefits — engagement and exposure to interdisciplinary dialogue — rather than measured knowledge gains](mdt-cbl-process-benefits-interpretation.md) — related
+- [The authors attribute the competition group's advantage to stimulated motivation, peer guidance, and task-reporting debriefing rather than to additional equipment or instructor time](competition-mechanism-peer-evaluation-mechanism-account.md) — related

@@ -50,3 +50,4 @@ Pooled random-effects correlation between adaptive ER strategies and overall bur
 - Publication-bias adjustments render the ER difficulties–lack of efficacy and adaptive ER–emotional exhaustion effects non-significant — related
 - [Student burnout is positively associated with dropout intentions, with a pooled meta-analytic correlation of r+ = .46](burnout-dropout-intentions-pooled-r46.md) — related
 - [With growing job experience, teachers may shift toward different, more adaptive emotion regulation strategies](job-experience-shift-toward-adaptive-er-strategies.md) — related
+- [Within the traditional classroom instruction group, burnout dimensions did not change significantly from pre-test to post-test](control-group-no-burnout-changes.md) — related

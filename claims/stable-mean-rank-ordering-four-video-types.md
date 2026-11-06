@@ -53,3 +53,4 @@ Mean rank aggregation of complete four-item rankings from the end-of-term survey
 - [Participants reported preferring learning from videos over learning from digital texts](students-prefer-learning-from-videos.md) — related
 - [Students most enjoyed creating images with AI, followed by generating text, with video creation least favoured](students-enjoyed-image-creation-most.md) — related
 - [AI-generated teaching videos will likely proliferate given comparable learning outcomes and ease of creation](ai-teaching-videos-likely-proliferate.md) — related
+- [No single digital format was preferred: video podcast ranked highest while the animation was polarising](no-single-preferred-digital-format.md) — related

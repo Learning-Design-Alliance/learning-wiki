@@ -54,3 +54,4 @@ Bootstrap significance analysis in the PLS-SEM model of 200 teachers (Table 4) s
 - [A DL professional development course improved teachers' DL teaching practices and DL self-efficacy but had no effect on their self-innovativeness](pd-course-improves-practices-not-innovativeness.md) — related
 - [Teachers' self-innovativeness has a significant positive effect on their accountability among Israeli teachers during COVID-19 distance teaching](self-innovativeness-increases-teacher-accountability.md) — related
 - [Cognitive load was positively associated with pedagogical knowledge but negatively associated with teaching efficacy](cognitive-load-opposite-associations-knowledge-efficacy.md) — related
+- [Physicians' teaching experience correlates positively with their teaching-related self-efficacy (ρ=0.186)](teaching-experience-self-efficacy-physicians.md) — related

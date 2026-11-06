@@ -67,3 +67,6 @@ Random‐effects proportional meta‐analysis comparing newer LLM models from co
 - [Pairwise McNemar comparisons showed OpenAI o1 significantly better than GPT-4o, Gemini, and Copilot in Respiratory Medicine, with mixed significance across other courses](mcnemar-pairwise-openai-o1-vs-other-llms-mixed.md) — related
 - [OpenAI o1 achieved the highest aggregated mean score among the five LLMs, followed by Copilot, DeepSeek, Gemini, and GPT-4o](openai-o1-highest-aggregated-mean-five-llms.md) — related
 - [ChatGPT's Reason function and DeepSeek's DeepThink function did not differ significantly in MCQ accuracy (84.7% vs 80.4%, P=.12)](reason-vs-deepthink-mcq-accuracy-not-significant.md) — related
+- [Claude, Copilot, and Gemini showed model-specific topic strengths and weaknesses and lower cross-attempt reliability than GPT-4o](claude-copilot-gemini-topic-strengths-reliability.md) — related
+- [Current LLMs answer USMLE-style anatomy MCQs with an average accuracy of 76.8%, far above GPT-3.5's 44.4% a year earlier and above random guessing](current-llms-anatomy-mcq-76-8-percent-accuracy.md) — a narrower finding that bears on this claim
+- [GPT-4o showed the highest accuracy (92.9%) on anatomy MCQs, followed by Claude, Copilot, and Gemini](gpt-4o-highest-anatomy-mcq-accuracy.md) — related

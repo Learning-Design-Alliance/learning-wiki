@@ -51,3 +51,4 @@ Self-report satisfaction data from the same 39 residents, collected with a valid
 - [Over 96% of flipped classroom residents express satisfaction, but 32.1% report increased time demands and 28.6% report greater self-presentation pressure](fc-satisfaction-and-implementation-challenges.md) — related
 - [Immersive VR-haptic and ITS modalities are more often associated with objective psychomotor and cognitive gains, while generative AI platforms are more often associated with affective outcomes](ads-modality-domain-patterns.md) — related
 - [Learners report high satisfaction with SDTS video-based feedback and perceived skill improvement](sdts-high-learner-satisfaction.md) — related
+- [Rwandan medical students perceive residents as competent and effective simulation instructors and favor a small team of residents with faculty](students-perceive-residents-effective-simulation-instructors.md) — related

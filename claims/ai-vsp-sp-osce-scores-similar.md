@@ -55,3 +55,4 @@ End-of-course OSCE history-taking station in the RCT: "6.5 ± 1.5 for the AI-VSP
 - [VSP-based training produced significantly higher post-intervention clinical interview scores than traditional practice in a small randomized controlled trial](vsp-training-improves-interview-skills-rct.md) — reports the opposite
 - [SP training produced no significant differences in history-taking, differential diagnosis, laboratory tests, or diagnosis scores](sp-training-no-gain-history-diagnosis-scores.md) — related
 - [Most VSP-trained students reported the training benefited history collection, condition analysis, diagnosis, treatment, and clinical thinking abilities](cl-vsp-student-satisfaction-clinical-thinking.md) — related
+- [SP-based training produced no statistically significant difference in final OSCE scores compared with traditional instruction, with a small negative effect size](sp-training-no-significant-osce-difference.md) — related

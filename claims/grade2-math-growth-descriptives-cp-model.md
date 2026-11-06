@@ -52,3 +52,4 @@ Fixed-effects estimates from the CP model for math centered at grade two (Table 
 - [Achievement of the lowest-growth schools varies dramatically, and fall achievement accounts for about 80% of spring achievement versus 14% for growth](low-growth-schools-achievement-varies-growth-achievement-correlation.md) — related
 - [Within-year fall-to-spring gains are largest in second grade (about 13.4 RIT in math) and slow by roughly 1.4 RIT per year as students progress through elementary school](within-year-gains-largest-second-grade-then-slow.md) — related
 - [More of the variance in linear growth lies at the school level for fall-to-spring than for spring-to-spring estimates, in some cases twice or three times as much](more-school-level-variance-fall-to-spring-growth.md) — related
+- [Skill growth decelerates over time for all children regardless of disability status, with negative quadratic growth in all seven outcomes](skill-growth-decelerates-over-time.md) — related

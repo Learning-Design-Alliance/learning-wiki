@@ -58,3 +58,4 @@ Post-hoc comparison within the developmental sample of 225 participants in the f
 - [The nap effect on encoding is consistent across male and female students, with a significant main effect of group](nap-effect-consistent-across-sexes.md) — related
 - [Mind wandering detection is more accurate for female than male learners, with the gender gap larger for temporal models](gender-bias-favoring-female-mind-wandering-detection.md) — related
 - [Female students outperformed males in non-linear PBL in one of five years, with no difference in the other four](gender-differences-non-linear-pbl-one-year-only.md) — related
+- [Within the VSE group, female students outperformed male students on several skill dimensions, though the cause cannot be attributed to VSE](vse-gender-skill-differences.md) — related

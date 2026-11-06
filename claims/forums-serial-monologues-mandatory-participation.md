@@ -48,3 +48,4 @@ Survey and interview data on tool preferences. The authors report forum use is "
 - [Students respond positively to e-mail exchanges, guest speaker interviews, and video projects aimed at cross-cultural awareness](positive-student-response-cross-cultural-activities.md) — related
 - [Teachers perceived the potential of Web 2.0 tools but did not currently consider including them in their courses, citing lack of training](teachers-not-yet-include-web20-tools-lack-training.md) — related
 - [Prenatal clinicians prefer live, dynamic sessions over online video-based training modules](tic-live-sessions-preference-prenatal.md) — related
+- [Survey respondents rated top tips (76%), case studies (72%), videos (56%), additional resources (55%), and forums/discussion groups (48%) as extremely useful learning formats](learning-preferences-top-tips-case-studies-videos.md) — reports the opposite

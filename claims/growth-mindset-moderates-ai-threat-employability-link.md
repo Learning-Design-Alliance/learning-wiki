@@ -71,3 +71,4 @@ Simple slope analysis at one SD below and above the growth mindset mean showed a
 - [Profiles also differ in self-perceived employability, and elevated AI-related threat is not necessarily incompatible with career preparation](profiles-differ-in-perceived-employability-threat-not-incompatible.md) — related
 - [Perceived employability partially mediates the relationship between AI employment threat perception and career decision-making anxiety](employability-partially-mediates-ai-threat-anxiety.md) — related
 - [Personal growth initiative moderates the growth mindset–academic performance link, with a steeper slope at high PGI](pgi-moderation-growth-mindset-performance.md) — related
+- [Growth mindset buffers the negative effects of technostress on both CIT and TPACK, more strongly for TPACK](growth-mindset-moderates-technostress-cit-tpack.md) — related

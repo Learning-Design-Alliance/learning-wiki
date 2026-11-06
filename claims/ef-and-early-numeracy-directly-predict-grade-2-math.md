@@ -55,3 +55,4 @@ Structural equation modeling of 180 children assessed at T1 (kindergarten) and T
 - [An after-school EF/VS intervention improves directly assessed executive function in kindergarten and first-grade children (intent-to-treat)](after-school-intervention-improves-executive-function.md) — related
 - [EF Touch performance at kindergarten entry longitudinally predicts later math achievement at kindergarten exit in autistic kindergartners](ef-touch-entry-predicts-exit-math.md) — a narrower finding that bears on this claim
 - [Mathematics learning strategy and perceived task difficulty jointly explain 22% of variance in students' mathematics achievement in an SEM path model](sem-strategy-task-difficulty-22-percent-math-achievement.md) — related
+- [Worse childhood global executive functioning predicted slower math growth over time, but did not predict initial childhood math scores](global-ef-predicts-math-growth-slope.md) — related

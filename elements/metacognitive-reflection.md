@@ -13,7 +13,7 @@ generated:
 # Metacognitive Reflection
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (1 for, 4 mixed) · 5 studies (2 associational, 1 causal, 1 review, 1 qualitative), `q2`–`q3` · 2 of 5 report an effect size · 5 claims rest on one study
+> **Evidence** · 7 claims (2 for, 5 mixed) · 6 studies (2 causal, 2 associational, 1 review, 1 qualitative), `q2`–`q3` · 3 of 6 report an effect size · 7 claims rest on one study
 
 ## Description
 Metacognitive reflection is the element in which learners examine how they thought, what strategies they used, where they were confused, and what they should do next. It is useful when the goal is to make reflection more explicitly about thinking and strategy, not just about feelings or outcomes.
@@ -41,6 +41,8 @@ Metacognitive reflection is the element in which learners examine how they thoug
 - [Adolescents who engaged in reflective activities alongside dialogic argumentation showed greater gains in using evidence to weaken the opposing position than peers who only argued](../claims/reflection-boosts-weakening-other-argument-skill.md) [+W] — attached 2026-10-19 from Iordanou (2022), which proposed "Reflection sheets prompting reflection on one's own dialog transcript during argumentation"; tests this page's relationship.
 - [Reflection increased in the adaptable and non-adaptable script conditions, but only the adaptable script had positive effects on monitoring, supporting overall positive effects on self-regulation](../claims/adaptable-script-monitoring-self-regulation-effects.md) [~W]
 - [Five- and six-year-olds describe changing thoughts more often than changing goals as a metacognitive strategy](../claims/children-change-thoughts-more-than-goals.md) [~W]
+- [Self-reflection prompts improve two specific procedural interviewing skills — specifying the problem behaviour and questioning its consequences — but not procedural skills overall](../claims/self-reflection-improves-specific-procedural-skills.md) [+M] — attached 2026-11-06 from Hoang April et al. (2025), which proposed "Asynchronous Triple P clinical skills training module with structured self-reflection prompts and mindfulness activity"; tests this page's relationship.
+- [Self-reflection prompts do not improve self-reported confidence or self-efficacy despite observed skill gains](../claims/self-reflection-no-gain-self-reported-confidence-efficacy.md) [~M] — attached 2026-11-06 from Hoang April et al. (2025), which proposed "Asynchronous Triple P clinical skills training module with structured self-reflection prompts and mindfulness activity".
 
 ## Related Elements
 - [Reflection Activities](reflection-activities.md)

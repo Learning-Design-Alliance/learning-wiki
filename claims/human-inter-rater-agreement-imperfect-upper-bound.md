@@ -58,3 +58,4 @@ Inter-rater agreement analysis of the 2024 calibration phase, in which ten evalu
 - [Rubrics enhance grading consistency and inter-rater reliability in dental education assessment](rubrics-enhance-grading-consistency-dental-education.md) — reports the opposite
 - [Rubric-guided grading pipelines can approach human-level agreement when explicit rubrics, exemplars, and calibration are used](rubric-guided-grading-human-agreement.md) — related
 - [A minute-by-minute whole-classroom observation protocol achieved 80% or higher inter-rater agreement for student behavior](minute-by-minute-observation-protocol-80-percent-agreement.md) — related
+- [Teachers' scores for identical LLM-generated clinical cases differed significantly, with a tiered distribution linked to teaching experience](inter-rater-discrepancies-llm-case-scoring.md) — related

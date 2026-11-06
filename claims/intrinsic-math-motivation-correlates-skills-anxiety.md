@@ -75,3 +75,4 @@ Pearson correlation analysis of children's measures (Table 2) in the same sample
 - [Intrinsic motivation was related to mathematical accuracy but not to fluency in Grade 3](intrinsic-motivation-accuracy-not-fluency-grade-3.md) — related
 - [At semester end, intrinsic motivation was positively correlated and programming anxiety negatively correlated with programming performance](motivation-anxiety-correlate-with-programming-performance.md) — a narrower finding that bears on this claim
 - [Self-efficacy and gameplay interest are negatively associated with elementary students' competitive anxiety in one-on-one gameplay](self-efficacy-interest-negatively-associated-competitive-anxiety.md) — related
+- [Learning behavior engagement correlates positively with operational skill outcomes, with no significant correlation for flexibility](engagement-correlates-skill-outcomes.md) — related

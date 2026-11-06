@@ -40,6 +40,7 @@ The article proposes an incremental methodology in which a minimal deterministic
 ## Related Strategies
 
 - [Evaluate AI systems before deploying them with students](evaluate-ai-before-deployment-with-students.md)
+- [Deploy an LLM-based chatbot trained on course materials to support course orientation and onboarding, particularly for ESL students](llm-chatbot-course-orientation-strategy.md)
 
 ## Examples
 -

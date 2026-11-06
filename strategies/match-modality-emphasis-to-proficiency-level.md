@@ -51,6 +51,7 @@ The authors recommend that training for beginners be dominated by theoretical le
 - [Stratify embodied Tai Chi tasks by proficiency: simplified movements for beginners, autonomy in creation for advanced learners, paired practice for similar-ability peers](stratified-embodied-task-support.md)
 - [Blend VR and IP simulation within a curriculum, matching each modality to learning objectives and training stage](blended-vr-ip-simulation-curriculum.md)
 - [Structure high-gap RT competencies into progressive beginner, intermediate, and advanced learning phases](progressive-learning-phases-high-gap-competencies.md)
+- [Tiered competency training for mobile nurses: simulation-based serious games for junior nurses and crisis-leadership modules for senior nurses](tiered-mobile-nurse-competency-training.md)
 
 ## Examples
 -

@@ -13,7 +13,7 @@ generated:
 # Learning Disabilities and Developmental Differences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 168 claims (117 show a difference, 31 mixed, 20 no difference) · 95 studies (47 associational, 23 causal, 11 review, 6 quant-synthesis, 5 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 17 of 95 report an effect size · 166 claims rest on one study
+> **Evidence** · 172 claims (119 show a difference, 31 mixed, 22 no difference) · 96 studies (48 associational, 23 causal, 11 review, 6 quant-synthesis, 5 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 17 of 96 report an effect size · 170 claims rest on one study
 
 ## Description
 Identified differences in how a learner learns: specific learning disabilities such as dyslexia and dyscalculia, autism, intellectual disability, and the special educational needs (an IEP in the United States, an EHC plan in England) that formally record them. In the research it appears as a population a design targets, as a moderator (an approach that works differently for these learners), and as a predictor of outcomes. It is distinct from [access](access.md), which is about perceiving and operating the material (sensory and motor impairments, devices); a learner can need both. Attention-related differences such as ADHD sit on [attention](attention.md).
@@ -202,6 +202,10 @@ Identified differences in how a learner learns: specific learning disabilities s
 - [After controlling for co-occurring neurodevelopmental disorders, intellectual disabilities are the strongest predictor of poor academic performance across all subjects](../claims/id-strongest-predictor-adjusted.md) [+M] — learners who differ on it differ in outcomes
 - [Disability severity affects screening performance mainly in vocabulary (test 2); mild intellectual disability resembles other SEN](../claims/disability-severity-only-test2-significant.md) [~M] — learners who differ on it differ in outcomes
 - [Reading screening scores differ significantly by special educational needs status across all four subtests, with students with intellectual disabilities lowest](../claims/sen-status-differences-all-four-subtests.md) [+M] — learners who differ on it differ in outcomes
+- [Co-occurring MD and RD follows an additive pattern: growth patterns combine the math patterns of MD and the reading patterns of RD with no compounding cross-domain impairment](../claims/additive-co-occurrence-growth-patterns.md) [+M] — learners who differ on it differ in outcomes
+- [Math and reading growth trajectories of children with learning disabilities parallel those of children without disabilities in rate and shape across Grades 1–5](../claims/ld-trajectories-parallel-non-disabled.md) [-M] — learners who differ on it differ in outcomes
+- [MD impairments are domain-specific while RD impairments affect both domains early: RD-only children score comparably to MD-only children on math outcomes](../claims/md-domain-specific-rd-cross-domain-math.md) [+M] — learners who differ on it differ in outcomes
+- [Skill growth decelerates over time for all children regardless of disability status, with negative quadratic growth in all seven outcomes](../claims/skill-growth-decelerates-over-time.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do learners with disabilities reach lower achievement, graduation and postsecondary outcomes than their peers, by how much, and does it differ by disability type?* [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](../claims/disability-largest-postsecondary-outcome-gap.md) [+M]

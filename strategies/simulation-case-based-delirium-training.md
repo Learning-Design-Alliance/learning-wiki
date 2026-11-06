@@ -56,6 +56,7 @@ Students advocated incorporating high-fidelity simulations, role-playing, and ca
 - [Incorporate hands-on clinical simulation with low-fidelity task trainers into basic science curricula to bridge theoretical knowledge and clinical application](hands-on-clinical-simulation-basic-science-strategy.md)
 - [Incorporate more clinical exposure and preclinical simulations to improve dental students' TDI management knowledge and confidence.](more-clinical-exposure-preclinical-simulations-tadi.md)
 - [Combine standardized theoretical training with high-fidelity simulation-based practical skills training](combine-theoretical-training-with-simulation-phtls.md)
+- [Include simulation-based experiences with standardized patients focused on basic care from the early stages of nursing education](early-basic-care-sbe-with-standardized-patients.md)
 
 ## Examples
 -

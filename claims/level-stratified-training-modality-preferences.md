@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: dong-xue-2026
     resource: "https://doi.org/10.1186/s12909-026-09652-3"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Rankings of the six training programs differed significantly by cohort for perfused organ modules (P < 0.001), box-trainer simulators (P = 0.001) and theoretical instruction (P = 0.01). [→ Dong Xue 2026](#dong-xue-2026)

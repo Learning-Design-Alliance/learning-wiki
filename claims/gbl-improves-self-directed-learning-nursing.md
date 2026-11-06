@@ -49,3 +49,4 @@ Quasi-experimental two-group pretest–posttest study with one-month follow-up; 
 - [Game-based learning in a mental health nursing internship significantly improves nursing students' academic self-efficacy, with large within-group effects sustained at one-month follow-up](gbl-improves-academic-self-efficacy-nursing.md) — related
 - [Conventional internship instruction alone produced no significant change in self-directed learning or academic self-efficacy over the five-week course](conventional-instruction-no-sdl-selfefficacy-change.md) — related
 - [An RCT using self-reported combined knowledge and skills found a significant within-group pretest-to-posttest increase with a large effect size, but reported no between-group comparison](self-report-knowledge-skills-within-group-gain.md) — related
+- [SBLE significantly increases perceived efficacy among nursing students](sble-increases-perceived-efficacy-nursing-students.md) — related

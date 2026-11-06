@@ -49,3 +49,4 @@ Reliability analysis of the ten scenario transcripts against the gold-standard A
 - [Blinded expert raters showed very high agreement when evaluating the LLM-based ACLS simulation scenarios (Kendall W > 0.754)](acls-llm-sim-high-interrater-reliability.md) — related
 - [Rubric scoring of concept image protocols showed inter-rater reliability exceeding acceptable thresholds (Fleiss Kappa 0.60–0.88; Krippendorff's Alpha 0.60–0.88; ICC 0.89–0.98)](concept-image-rubric-inter-rater-reliability.md) — related
 - [The checklist assessment showed strong interrater reliability, contributing validation evidence](checklist-interrater-reliability-kappa-0875.md) — related
+- [Trained SPs achieved moderate-to-substantial inter-rater reliability across history-taking subscales, with lowest agreement for Professionalism & Communication](sp-inter-rater-reliability-kappa.md) — related

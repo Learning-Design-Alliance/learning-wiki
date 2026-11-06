@@ -48,3 +48,4 @@ Intra-group comparison across all 180 intervention students using Wilcoxon match
 - [Students with access to online cadaveric image repositories achieve significantly higher practical exam scores than controls in the image-covered regions](online-cadaveric-images-improve-practical-exam-performance.md) — related
 - [Greatest VDT performance gains were observed in musculoskeletal and neuroanatomy modules](vdt-greatest-gains-msk-neuroanatomy.md) — related
 - [Trainees show variable delineation skills, with greatest difficulty in anatomically complex regions such as the head and neck](delineation-skill-variability-complex-regions.md) — related
+- [LLM performance on anatomy MCQs varies significantly across anatomical topics, with Head & Neck and Abdomen highest and Upper Limb lowest](llm-anatomy-topic-performance-variation.md) — related

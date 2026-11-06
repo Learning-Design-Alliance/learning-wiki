@@ -89,3 +89,4 @@ Final examination administered one week after course completion. The experimenta
 - [A blended flipped classroom produced statistically significantly higher post-test scores than traditional teaching in one included histology study (p < 0.0001)](blended-flipped-classroom-higher-posttest-scores.md) — related
 - [Blended e-learning significantly raised students' overall self-assessment scores relative to traditional learning (η2 = .129)](blended-elearning-overall-self-assessment-higher.md) — related
 - [MOOC-HFS blended model promotes deep learning approaches without changing surface learning on R-SPQ-2F](mooc-hfs-promotes-deep-learning-approaches.md) — related
+- [Medical students taught histology with a flipped-classroom blended model scored significantly higher on the end-of-course exam than students taught conventionally in a randomized trial](flipped-classroom-higher-histology-exam-scores.md) — related

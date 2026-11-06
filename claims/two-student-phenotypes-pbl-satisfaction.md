@@ -50,3 +50,4 @@ K-means clustering of 204 students with complete responses identified two phenot
 - [Female students give a higher average global satisfaction rating to e-learning courses than male students](female-students-more-satisfied-e-learning.md) — related
 - [Female participants tended to outperform male participants in online SRL, while no substantial age differences were found](gender-difference-online-srl-females.md) — related
 - [Participants report high satisfaction with both training modalities with no difference between groups](high-satisfaction-both-modalities-no-difference.md) — related
+- [240 voluntary participants completed the full app session, predominantly female and mostly aged 21-30](240-participants-completed-app-session.md) — related

@@ -70,3 +70,4 @@ Interview finding (Subtheme 3c); participants noted resource cost varies widely,
 - [Physicians expressed a strong desire for immediate real-time procedural feedback with structured debriefing](physicians-desire-real-time-structured-cvc-feedback.md) — related
 - [Physicians reported manikin-based training was regarded as inadequate for replicating technical nuances and anatomical variability of real patients](manikin-training-inadequate-real-patient-variability-cvc.md) — related
 - [CVC training reportedly lacked patient interactions, communication, consent, and ethical scenario preparation, and gave minimal sterile-field instruction](cvc-training-lacks-patient-centered-and-sterility-preparation.md) — related
+- [Lack of training is the most significant perceived barrier to POCUS practice, and dedicated practice with an ultrasound machine is the most preferred proficiency intervention](lack-of-training-top-pocus-barrier.md) — related

@@ -50,3 +50,4 @@ Nationwide survey of simulation center employees rating technician skills; the a
 - [Involvement, willingness to work, helpfulness/proactivity, trustworthiness, and reliability are the most valued personal attributes of simulation technicians](top-attributes-simulation-technician-poland.md) — related
 - [Neurodivergent students cope with collaborative active learning discomfort by self-selecting roles and explicitly disclosing access needs](nd-coping-self-selected-roles-self-disclosure.md) — related
 - [When coping methods fail, neurodivergent students report avoiding socialization and courses requiring public presentations](nd-coping-failure-avoidance-public-presentations.md) — related
+- [Turkish perfusionists report frequent equipment failures and perfusion accidents during practice](perfusionists-report-frequent-equipment-failures.md) — related

@@ -50,3 +50,4 @@ Self-controlled before-and-after study of 340 nursing students using GSES. Paire
 - [Structured PEARLS debriefing is associated with higher theoretical exam scores in surgical nursing simulation education](debriefing-higher-theoretical-exam-scores-surgical-nursing.md) — related
 - [Structured PEARLS debriefing is associated with higher critical thinking disposition across all seven CTDI-CV dimensions](debriefing-higher-critical-thinking-disposition.md) — related
 - [AI-enabled personalized teaching raised overall critical thinking disposition (CTDI-CV total score) above the positive-disposition threshold](ai-teaching-ctdi-cv-total-score-higher.md) — related
+- [Post-course General Self-Efficacy is significantly higher after RLC debriefing than after Norris and Bullock debriefing, while pre-course self-efficacy did not differ](rlc-debriefing-gse-self-efficacy-gains.md) — related

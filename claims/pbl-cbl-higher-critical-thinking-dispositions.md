@@ -60,3 +60,4 @@ Anonymous questionnaire based on the California Critical Thinking Disposition In
 - [The PBL-CBL group achieved significantly higher total post-course test scores than the traditional LBL group in fundamental nursing](pbl-cbl-higher-total-test-scores-anaphylactic-shock.md) — related
 - [Several individual clinical-reasoning questionnaire items showed no significant difference between the DwGJ and control groups](dwgj-reasoning-item-level-null-differences.md) — related
 - [PBL combined with 3D-VRT produced higher critical thinking disposition scores across all seven dimensions than traditional teaching](pbl-3d-vrt-critical-thinking-all-seven-dimensions.md) — related
+- [PBL teaching produced significantly higher post-intervention critical thinking ability scores than traditional teaching among nursing interns (P = 0.002)](pbl-higher-critical-thinking-nursing-interns.md) — related

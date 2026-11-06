@@ -72,3 +72,5 @@ Theme from the same focus group thematic analysis with intervention participants
 - [Training programs at designated infectious disease institutions improved confidence, role clarity, and interdepartmental collaboration among personnel](fgi-training-improved-confidence-role-clarity-collaboration.md) — related
 - [All interviewed interns reported that role rotation and teamwork were central benefits of the simulation-with-CBL training](role-rotation-teamwork-central-benefit-simulation-cbl.md) — related
 - [Students most frequently named collaborative teamwork as the best aspect of escape room teaching, and suggested more briefing, smaller groups and more playing time](escape-room-teamwork-best-aspect.md) — related
+- [Students perceived flipped learning group work as building communication confidence and collaborative understanding](fl-group-work-communication-confidence-nursing.md) — related
+- [Male nursing students reported simulation improved their communication and teamwork in neonatal emergencies](simulation-improved-communication-teamwork-male-students.md) — related

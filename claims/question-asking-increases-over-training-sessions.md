@@ -51,3 +51,4 @@ Within-condition analysis of transcribed lessons: a 1-tailed paired t-test on fi
 - [Encouraging 5-7-year-olds to ask questions during science lessons increases how much they value new science information relative to a careful-listening control](question-asking-raises-willingness-to-pay-science.md) — related
 - [A peer-role robot in break-time science classrooms did not increase overall science curiosity, though it increased for students who asked it questions](robovie-science-curiosity-mixed-effect.md) — related
 - [No consistent learning effect of repeated TrackFX gameplay was found across children, though 37% showed positive performance slopes and improvement reached an asymptote after six sessions](no-consistent-trackfx-practice-effect.md) — related
+- [Repeated SDL skills training increases the approval rate of care tasks among healthcare professionals.](repeated-sdl-training-increases-approval-rate.md) — related

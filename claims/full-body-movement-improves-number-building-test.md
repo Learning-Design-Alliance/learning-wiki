@@ -48,3 +48,4 @@ Randomized four-condition experiment with 118 first-graders (after excluding fou
 ## Related Claims
 - [Mirror-based self-observation of self-initiated body movements does not differentially affect number building performance during training or on the final math test](mirror-self-observation-no-effect-number-building.md) — related
 - [Movement conditions outperform non-movement controls during the practice phase on both position and instruction scores](movement-training-better-practice-phase.md) — related
+- [Competition training produced significantly better arm-movement work habits, though the workspace-range clutch-pedal parameter itself showed no group difference](competition-better-arm-movement-habits.md) — related

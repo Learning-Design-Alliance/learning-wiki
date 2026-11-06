@@ -53,3 +53,4 @@ Level 3 (BEHAVIOR) evaluation reported in the review: face-to-face semistructure
 - [Simulation-based learning experiences are being used to teach palliative and end-of-life communication skills to nursing students and clinicians](sble-teach-palliative-eol-communication-nursing.md) — a broader claim this one bears on
 - [Simulation-based education contributes to developing communication, interviewing and therapeutic engagement skills in undergraduate psychiatry](simulation-develops-clinical-skills-undergraduate-psychiatry.md) — related
 - [Students evaluate structured debriefing positively across knowledge, emotional attitude, and nursing skills](debriefing-positive-student-evaluations.md) — related
+- [SBLE significantly reduces emotional exhaustion among nursing students compared with traditional instruction](sble-reduces-emotional-exhaustion-nursing-students.md) — related

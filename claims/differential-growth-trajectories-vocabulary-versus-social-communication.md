@@ -50,3 +50,4 @@ Growth multilevel models across three waves (N = 164) with time centered at Wave
 - [Growth in both vocabulary and social communication skills predicts kindergarten math achievement](vocabulary-and-communication-growth-predict-kindergarten-math.md) — related
 - [AI ethics research shows a pronounced acceleration in publications after 2021, with nonlinear accelerating growth rather than linear development](ai-ethics-publications-accelerate-after-2021.md) — related
 - [Growth models show substantial variability in the shape and rate of learning, but no statistically significant EAPGS associations with that variation](growth-models-pgs-null-shape-rate.md) — related
+- [Skill growth decelerates over time for all children regardless of disability status, with negative quadratic growth in all seven outcomes](skill-growth-decelerates-over-time.md) — related

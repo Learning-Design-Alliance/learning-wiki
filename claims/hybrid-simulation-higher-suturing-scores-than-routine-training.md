@@ -52,3 +52,4 @@ Mann–Whitney U comparison of post-intervention suturing scores in the two-grou
 - [A hybrid CBL-SST-simulator model produces significantly higher doctor-patient communication scores than lecture-based learning on the SEGUE Framework](hybrid-cbl-sst-higher-segue-communication-than-lbl.md) — related
 - [Scenario-based simulation yields higher post-test knowledge scores than video-based training in anaesthesia undergraduates learning perioperative anaphylaxis management](sbs-higher-post-test-than-vbt-perioperative-anaphylaxis.md) — related
 - [Repeated practice in a case-based VR suture simulation significantly improved stomatology undergraduates' item and total scores from formative to final test](vr-facial-wound-suture-score-improvement.md) — related
+- [Blended-model students performed about twice as many suturing practice attempts as controls, and simulation attempts correlated with skills scores](doubled-practice-attempts-correlate-with-skills-scores.md) — related

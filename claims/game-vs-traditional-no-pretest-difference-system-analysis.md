@@ -53,3 +53,4 @@ Baseline t-test in the quasi-experiment: Table 3 reports pre-test t=-0.381, df=6
 - [Before instruction, the jigsaw and traditional groups were equivalent on prior knowledge, unit pre-test, and prior grades](jigsaw-groups-equivalent-at-baseline.md) — related
 - [Before instruction, the PBL and control groups did not differ significantly in mixtures achievement](pretest-equivalence-mixtures-groups.md) — related
 - [CAVI and TVI groups were equivalent in target vocabulary knowledge before the experiment](cavi-tvi-pretest-equivalence.md) — related
+- [The intervention and control groups did not differ significantly in knowledge before the intervention](no-baseline-knowledge-difference-groups.md) — possibly the same claim (merge candidate)

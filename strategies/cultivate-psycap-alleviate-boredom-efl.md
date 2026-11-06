@@ -47,7 +47,8 @@ The article recommends that EFL educators strengthen students' PsyCap and reduce
 - [Behavioural engagement mediates the relationship between EFL PsyCap and EFL achievement](../claims/engagement-mediatepsycap-achievement.md) [+W]
 
 ## Related Strategies
-- 
+
+- [School-, teacher-, family-, and policy-level practices to cultivate psychological capital and positive life attitude in Chinese middle schools](psycap-life-attitude-intervention-recommendations.md)
 
 ## Examples
 -

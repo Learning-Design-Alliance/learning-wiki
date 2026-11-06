@@ -13,7 +13,7 @@ generated:
 # Adverse Experiences
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 52 claims (42 show a difference, 7 mixed, 3 no difference) · 30 studies (12 review, 10 associational, 3 theoretical, 2 quant-synthesis, 2 design, 1 causal), `q1`–`q3` · 3 of 30 report an effect size · 52 claims rest on one study
+> **Evidence** · 53 claims (43 show a difference, 7 mixed, 3 no difference) · 31 studies (13 review, 10 associational, 3 theoretical, 2 quant-synthesis, 2 design, 1 causal), `q1`–`q3` · 3 of 31 report an effect size · 53 claims rest on one study
 
 ## Description
 Adverse experiences are events that can be traumatic: physical, sexual or emotional abuse and neglect, witnessing violence at home or in the community, family instability, and discrimination experienced as racial trauma. The concern for learning is the stress response they set off. Repeated or prolonged stress releases stress hormones that can change how the body and brain develop, and childhood is a sensitive period for this, so effects on cognition, health, emotional well-being and achievement can carry into adulthood. Exposure is usually measured with self-report or parent-report trauma checklists. The LVN treats it as relevant at every age it covers, from pre-kindergarten to adult education: for children it bears on learning to read, write and do mathematics, and for adults it includes earlier negative experiences of school that make returning to learning harder. The summaries are equally clear that harm is not fixed: children's brains are plastic enough to recover, evidence-based interventions exist, and protective factors such as [social supports](social-supports.md), a [sense of belonging](belonging.md) and a positive [identity](identity.md) can buffer the effects. It overlaps with [affect regulation](affect-regulation.md), which covers the emotional side, and with [safety](safety.md).
@@ -88,6 +88,7 @@ Adverse experiences are events that can be traumatic: physical, sexual or emotio
 - [High academic abuse is associated with lower probability of adequate academic performance among medical students in Lima](../claims/high-academic-abuse-lower-adequate-performance-medical-students.md) [+M] — learners who differ on it differ in outcomes
 - [Number of lifetime adversity categories positively predicts performance, while adversity frequency negatively predicts the professional dimension and age negatively predicts clinical performance](../claims/lifetime-adversity-and-age-effects-on-performance.md) [~M] — learners who differ on it differ in outcomes
 - [School engagement partially mediates the relationship between stressful life events and academic achievement](../claims/school-engagement-partial-mediation-sles-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Teacher empathy reduces student stress and contributes to safe learning environments and engagement](../claims/teacher-empathy-stress-engagement-safety.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Brief Trauma Questionnaire** (Schnurr et al., 2002): self-report of lifetime exposure to traumatic events such as accidents, combat, illness, abuse and disasters.

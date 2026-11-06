@@ -86,3 +86,4 @@ The abstract states this as framing: ELs "lag behind their peers in academic ach
 - [Only 5% of Chilean secondary students reached the Ministry's basic English requirement by the end of twelfth grade (2010 diagnostic)](chile-5-percent-secondary-basic-english-level.md) — related
 - [English learners scored lower than non-ELs on content knowledge and content reading comprehension in comparison classrooms](els-score-lower-than-non-els-comparison-classes.md) — related
 - [Pre-test diagnosis showed most grade-3 students had not attained writing and reading competencies in English after grade 2](pretest-diagnosis-writing-reading-deficiencies.md) — a narrower finding that bears on this claim
+- [Daily exposure to a non-English language is associated with higher Calculation and Math Fluency scores, with early gaps narrowing by around Grade 4](non-english-exposure-math-fluency-calculation.md) — related

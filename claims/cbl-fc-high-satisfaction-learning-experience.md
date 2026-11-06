@@ -58,3 +58,4 @@ Self-administered 5-point Likert questionnaire completed by the CBL-FC group onl
 - [Experimental-group students rated satisfaction, learning enthusiasm, comprehension, interaction, and interest in nephrology more favorably than control students](boppps-rain-classroom-favorable-student-evaluations.md) — related
 - [Residents on a pediatric endocrinology elective report high satisfaction with self-directed online CBL modules](online-cbl-high-resident-satisfaction-pediatric-endocrinology.md) — related
 - [Residents self-report high knowledge acquisition from online pediatric endocrinology CBL modules](online-cbl-self-reported-knowledge-gain-endocrinology.md) — related
+- [Students in the flipped histology course reported positive experiences, high ratings of stimulation and engagement, and unanimous willingness to take further flipped courses](positive-student-experience-flipped-histology.md) — related

@@ -67,6 +67,7 @@ The article's intervention model combines weekly scenario simulation courses wit
 - [Incorporate structured non-technical skills training and structured debriefing sessions within simulation-based education](structured-nts-training-debriefing-recommendation.md)
 - [Use instructor-led reflective debriefing and role-play with standardized patients to prepare students for the transition to clinical training](debriefing-roleplay-clinical-transition-strategy.md)
 - [Implement SST as pre-class self-study, a scenario simulation with role players and mannequin deterioration, debriefing, and post-class personalized feedback](sst-session-recipe-emergency-residents.md)
+- [Predefine mandatory core debriefing elements for each simulation scenario to standardize knowledge consolidation](predefined-core-debriefing-elements.md)
 
 ## Examples
 -

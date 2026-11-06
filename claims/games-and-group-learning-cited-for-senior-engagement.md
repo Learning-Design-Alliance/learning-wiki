@@ -68,3 +68,4 @@ Category definition from the same coding exercise; 26 extracts were coded for te
 - [Individual teaching and video tutorials are valued for personalised pacing in older adults' digital learning](individual-teaching-video-tutorials-personalised-pacing.md) — related
 - [Trainers' preferred methods align with constructivist, humanistic, and andragogical didactic paradigms](geragogy-methods-align-constructivist-humanistic-paradigms.md) — related
 - [Trainers view empathy-based teaching as helping older adults overcome fear of technology and build self-confidence](empathy-based-teaching-overcomes-tech-fear.md) — related
+- [Teachers who enjoy teaching, maintain close relationships, and adapt content tend to foster greater student engagement, a key to learning](teacher-enthusiasm-fosters-engagement.md) — related

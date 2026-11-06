@@ -50,3 +50,4 @@ Questionnaire and open-comment data; one student suggested repeating similar sim
 - [Most learner-facing studies of technology-enhanced simulation in laparoscopic training report favorable learner responses, mainly confidence, satisfaction, perceived safety and self-efficacy](simulation-laparoscopic-favorable-perceptions.md) — a broader claim this one bears on
 - [Participants reported high satisfaction with simulation sessions but criticized time allocation and group size](simulation-session-satisfaction-time-group-size.md) — related
 - [Students responded favorably to the modified labs, with 76.5% preferring technology-based labs and 60.3% reporting increased interest](favorable-student-perceptions-spirometry-lab.md) — related
+- [Male nursing students reported a theory-practice gap and insufficient simulation lab time before OSCE examinations](theory-practice-gap-insufficient-simulation-lab-time.md) — related

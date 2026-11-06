@@ -51,3 +51,4 @@ Operative scores and times in the 10th training session were compared across the
 - [Significant gaps persist in perceived adequacy of rhinoplasty training exposure, with 72% of senior residents reporting adequate training versus only 13% of junior residents.](rhinoplasty-training-exposure-gap-senior-junior-residents.md) — related
 - [Learning curves showed proficiency gains with inflection points at session 6 (juniors) and session 4 (intermediates)](learning-curve-cusum-inflection-points.md) — related
 - [Novices achieve significantly lower rubric scores than intermediate and expert providers in simulated WFWB collection and transfusion](novices-lower-rubric-scores-wfwb-simulation.md) — related
+- [MBOSATS scores on the 3D-printed LRYGB model differentiate surgical expertise levels, with scores decreasing and operation times increasing from experts to intermediates to residents](mbosats-construct-validity-3d-lrygb-model.md) — related

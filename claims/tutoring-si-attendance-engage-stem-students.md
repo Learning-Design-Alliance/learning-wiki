@@ -54,3 +54,4 @@ Frequency: Attended supplemental instruction sessions 0.05 0.01 ***"
 - [Attendance at offered SI sessions is low and highly variable: on average 2.3 of 7 sessions, with 29% never attending](si-attendance-low-variable.md) — related
 - [Regardless of resource-use profile, students reported more frequent use of near-peer social resources (e.g., classmates) than non-peer supports such as instructors or tutoring centers.](near-peer-social-resource-preference.md) — related
 - [Students who reported frequent use of both social and material resources earned significantly lower grades than students in other resource-use profiles.](high-frequency-resource-use-lower-grades.md) — reports the opposite
+- [Students perceived flipped learning as increasing learning independence, including resource-seeking and time management](fl-increased-learning-independence-nursing.md) — related

@@ -53,3 +53,4 @@ Descriptive perception-of-AI-performance results from questionnaire 2 (Table 5).
 - [Participants perceived the AI-simulated patient interaction as authentic and potentially useful for shared decision-making training](perceived-authenticity-ai-sdm-chatbot.md) — related
 - [Final-year dental students perceived the AI role-play as authentic and relevant to clinical practice, with 85.7% strongly agreeing it relates to real-life scenarios](ai-roleplay-perceived-authenticity-survey.md) — related
 - [The LLM cooperated with the trainer by improvising scripts and adjusting its attitude on instruction, but sometimes violated timing and role-boundary directives](llm-cooperates-with-trainer-but-breaks-instructions.md) — related
+- [Among 20 undergraduates, 95% agreed LLM-generated cases enriched learning resources and 80% reported improved interdisciplinary integration and learning efficiency](student-perceptions-llm-cases-benefits.md) — related

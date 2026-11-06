@@ -78,3 +78,4 @@ Sequential invariance tests met Chen's criteria: metric transition ΔCFI = −0.
 - [Within-person change in perceived fairness mediates the longitudinal association between trust and learning motivation](within-person-fairness-mediates-trust-motivation.md) — related
 - [The motivational measures show strict longitudinal measurement invariance across the two time points](strict-measurement-invariance-motivation-two-waves.md) — related
 - [Students' motivation in physical education combines into three distinct profiles: self-determined, non self-determined, and moderate levels of both types](three-motivational-profiles-pe-cluster-analysis.md) — related
+- [Measurement invariance across test and questionnaire versions held at least at metric level, allowing versions to be combined in one analysis](measurement-invariance-test-versions.md) — related

@@ -52,6 +52,7 @@ The whitepaper's third recommendation area treats well-prepared educators as "th
 - [Four-part state policy agenda: coherent administration, universal affordability, a well-qualified workforce, and quality improvement for all programs](california-ece-four-part-policy-agenda.md)
 - [Six state policy steps to support early educator preparation, paired with adequate compensation and retention policies](state-policy-steps-ece-workforce-preparation.md)
 - [Six state policy recommendations to stabilize, support, and expand the early childhood workforce and build diverse TK pathways](six-state-recommendations-tk-workforce.md)
+- [Stakeholder-recommended improvements: better SP compensation and breaks, backup rosters, hybrid training, and clinical faculty involvement](stakeholder-sp-programme-improvement-strategies.md)
 
 ## Examples
 -

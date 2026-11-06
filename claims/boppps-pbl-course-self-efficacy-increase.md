@@ -52,3 +52,5 @@ Paired-samples t-test on the same 60-nurse single-group pilot, using a locally m
 - [Self-efficacy for ultrasound procedural performance increased significantly after training among Korean Medicine students (p < .001, d = 1.44)](ultrasound-training-self-efficacy-increase-km.md) — related
 - [Programmed instruction improved nursing students' general self-efficacy more than traditional teaching, though the authors caution the contribution cannot be isolated](programmed-instruction-self-efficacy-gses.md) — related
 - [VP training adds no measurable benefit over standard training for general self-efficacy in nursing students](vp-no-added-effect-general-self-efficacy.md) — related
+- [Nursing interns randomised to PBL combined with comparative nursing rounds scored higher on a health education ability questionnaire than traditionally taught interns (P = 0.003)](pbl-higher-health-education-ability-nursing-interns.md) — related
+- [SBLE significantly increases perceived efficacy among nursing students](sble-increases-perceived-efficacy-nursing-students.md) — related

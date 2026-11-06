@@ -56,3 +56,4 @@ Content assessment by seven nurse reviewers via an online Likert-scale form, ana
 - [Expert review established content validity of VEGA's generated content, with I-CVIs of 0.83–1.00 and S-CVI/Ave of 0.96](vega-content-validity-cvi.md) — related
 - [Expert content validation revised the scenario-in-action checklist domain from 16 to 14 items and produced a final 28-item checklist](cvi-validation-28-item-simulation-checklist.md) — related
 - [Content validity of the EVD KAP questionnaire is satisfactory, with I-CVI from 0.861 to 1.000 and S-CVI of 0.950](evd-kap-scale-content-validity.md) — related
+- [The knowledge questionnaire and skills checklist showed acceptable validity and reliability for assessing head trauma assessment learning](trauma-assessment-tool-validity-reliability.md) — related

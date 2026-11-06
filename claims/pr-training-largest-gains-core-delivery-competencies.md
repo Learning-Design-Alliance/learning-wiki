@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-06
 sources:
   - id: walsh-jessica-a-2026
     resource: "https://doi.org/10.1017/S146342362610139X"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-06 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Among self-rated domains, exercise capacity assessment, exercise prescription, and patient education showed the most clinically meaningful pre-to-post shifts and are the competencies most directly required for day-to-day PR delivery in private practice. [→ Walsh Jessica A. 2026](#walsh-jessica-a-2026)

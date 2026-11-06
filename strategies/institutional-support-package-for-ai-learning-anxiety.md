@@ -49,6 +49,7 @@ Based on the observed associations, the article recommends that "universities co
 - [Provide institutional support: regular GenAI workshops, subsidized access to advanced tools, reliable resources, and curriculum inclusion](institutional-support-genai-translation-workshops-curriculum.md)
 - [Institutional support package: professional development, technical support, engagement strategies, and assessment reform](institutional-support-technology-integration-strategy.md)
 - [Sustain technology integration through ongoing professional development, technical support, and sharing of best practices](sustained-institutional-support-digital-pedagogy.md)
+- [Faculty development combining technology-adaptation support, contextualized TPACK capacity building, and growth mindset interventions](faculty-development-technostress-tpack-gm-support.md)
 
 ## Examples
 -

@@ -51,3 +51,4 @@ Observational and multimodal analysis in the exploratory case study found "less 
 - [Cluttered classroom walls distract children and reduce learning, while intermediate-stimulation orderly classrooms support it](orderly-classroom-environments-support-learning.md) — related
 - [Much bodily-material coordination in touchscreen collaboration occurs in the space off the screen](bodily-material-interaction-off-screen.md) — related
 - [Episodes of off-task play with maker materials caused temporal fragmentation of groups' joint attention on the learning challenge](temporal-fragmentation-joint-attention-makerspace.md) — related
+- [Navigational and interactional challenges in VR, such as unintended teleportation and difficulty triggering the capillary refill animation, broke fidelity and shifted attention away from learning objectives](vr-fidelity-breakers-shift-attention.md) — related

@@ -46,6 +46,7 @@ The article recommends that culturally adapted shared decision-making interventi
 ## Related Strategies
 
 - [Adapt practice activities to learners' age, cultural background, and aptitudes](adapt-practice-age-culture-aptitude.md)
+- [Five-step cross-cultural adaptation procedure: forward translation, back-translation, expert committee review, pre-test, and test-retest](five-step-questionnaire-cross-cultural-adaptation.md)
 
 ## Examples
 -

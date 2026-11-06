@@ -51,3 +51,4 @@ Cross-case thematic analysis of Modules 6-10 logs and interviews, in which the A
 - [LLM error simulation rarely fails, but the model is less likely to reproduce a targeted distractor on problems with longer correct solutions](error-simulation-accurate-but-longer-solutions-harder.md) — related
 - [Adult learners expect AI to support problem-centered learning by activating background knowledge, generating diagnostic insights, and strengthening critical thinking](ai-supports-problem-centered-critical-thinking.md) — related
 - [Misconceptions can lead to other misconceptions as students interpret new concepts](misconceptions-interact-and-lead-to-other-misconceptions.md) — related
+- [The consequence-free, non-punitive simulated environment gives error a formative value, enabling rehearsal, correction, and learning from peers' mistakes](simulation-safe-environment-learning-from-errors.md) — a broader claim this one bears on

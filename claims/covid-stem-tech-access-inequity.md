@@ -108,3 +108,4 @@ Same national student survey (n = 1,008, weighted sample 23% Hispanic, 15% Black
 - [Technological prerequisites such as internet access and device availability were identified only by the South African panel, with equity of education as a distal outcome](technological-prerequisites-south-african-panel-equity.md) — related
 - [Only one included study described technology-based teaching in a rural or remote clinical education setting, leaving rural implications unclear](rural-gap-one-study-tech-stroke-teaching.md) — related
 - [Internet and computer access problems limited participation in the online argumentation implementation](internet-access-limits-online-argumentation.md) — related
+- [LIC-LMIC participants had substantially less access to prior ultrasound training than HIC-UMIC participants (37.5% vs 62.1% course attendance, p = 0.002)](ultrasound-training-access-gap-income.md) — related

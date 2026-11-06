@@ -55,3 +55,4 @@ Meta-analysis of randomized and prospective studies comparing XR training to no 
 - [A systematic review identified 131 original studies describing 93 different ophthalmic simulation models, distributed across virtual reality, wet-lab, dry-lab and e-learning modalities.](131-studies-93-ophthalmic-simulators-four-modalities.md) — related
 - [Time to visualize the PLAX view is longer in the XR training group than the standard group](xr-training-slower-plax-acquisition.md) — related
 - [Image quality scores are slightly higher in the XR training group compared to the standard group](xr-training-higher-image-quality.md) — related
+- [By the end of the study the competition group completed tasks significantly faster than the independent-training group, though overall completion times did not differ significantly](competition-faster-task-completion-end.md) — related

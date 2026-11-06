@@ -60,3 +60,4 @@ The review reports, citing multiple studies, a paradox in the AI-feedback litera
 - [Fear of embarrassment and lack of psychological safety reduce nursing students' participation and retention in active learning activities](psychological-safety-barrier-active-learning-nursing.md) — related
 - [The placement acted as a safe space fostering self-efficacy, intellectual humility, and uncertainty tolerance](anatomy-ems-safe-space-personal-development.md) — related
 - [Small, discussion-based course formats are described by students as fostering psychological safety, validation, and peer connection that function as a central learning mechanism](small-discussion-formats-psychological-safety.md) — related
+- [Teacher empathy reduces student stress and contributes to safe learning environments and engagement](teacher-empathy-stress-engagement-safety.md) — related

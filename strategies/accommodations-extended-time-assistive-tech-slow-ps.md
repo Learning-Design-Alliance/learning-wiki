@@ -49,6 +49,7 @@ The article recommends that youth whose evaluations confirm slow processing spee
 - [Accommodating Processing Speed Challenges](accommodating_processing_speed_challenges.md)
 - [Allow Think-Time and Re-reading (Processing Speed)](allow-think-time-and-re-reading-processing-speed.md)
 - [Empowering Students Through Self-Advocacy](empowering_students_through_self-advocacy.md)
+- [Accommodate slower processing speed in academic interventions for children with ADHD, alongside existing WM-focused approaches](accommodate-processing-speed-adhd-interventions.md)
 
 ## Examples
 -

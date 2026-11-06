@@ -72,3 +72,4 @@ Evaluation of six GPT and Llama models prompted out-of-the-box to score essays o
 - [AI showed moderate to high correlations with human evaluators for essay grading and thematic analysis](ai-moderate-high-correlation-human-essay-grading.md) — reports the opposite
 - [ChatGPT LLM scores showed only moderate agreement with human transcript scores.](llm-moderate-agreement-human-scores.md) — reports the opposite
 - [Pearson correlations between AI and expert scores are weak (all r < 0.3) and statistically non-significant across all five criteria](ai-expert-pearson-weak-nonsignificant.md) — a narrower finding that bears on this claim
+- [Raters agreed more consistently when evaluating SP performances (ICC 0.588–0.594) than when evaluating student performances (ICC 0.34–0.469)](icc-higher-for-sp-than-student-evaluations.md) — a narrower finding that bears on this claim

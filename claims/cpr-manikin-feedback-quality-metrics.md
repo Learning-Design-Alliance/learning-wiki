@@ -49,3 +49,4 @@ Objective manikin-based metrics recorded during the 2-minute compression task in
 - [Real-time feedback systems generally improve CPR quality in simulation-based training, particularly compression rate and depth](real-time-feedback-improves-cpr-quality-simulation.md) — related
 - [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — related
 - [Complete chest recoil shows a significant theory–practice gap (98.80% theoretical vs 62.97% practical)](cpr-recoil-theory-practice-gap.md) — related
+- [Feedback-equipped CPR training does not significantly change chest recoil or hand position, which were already near ceiling at baseline](feedback-cpr-no-change-recoil-hand-position.md) — related

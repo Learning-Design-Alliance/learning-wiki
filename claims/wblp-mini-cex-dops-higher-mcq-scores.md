@@ -53,3 +53,4 @@ Retrospective cohort of 77 fourth-year students (WBLP n = 39, control n = 38) in
 - [WBLP students report significantly better teacher–student interaction, patient–doctor communication, and humanistic care perceptions](wblp-better-interaction-communication-humanistic-care-ratings.md) — related
 - [WBLP students show the largest performance gap in procedural skills (bone marrow aspiration and thoracentesis), with gains also in history taking, clinical reasoning, and physical examination](wblp-largest-gap-procedural-skills-station.md) — related
 - [Structured reflective sessions significantly improve procedural skills (DOPS) of operating room technology students](reflective-sessions-improve-dops-skills.md) — related
+- [Participants report that clinical competence assessment in Iranian medical education relies on written and multiple-choice exams rather than performance-based evaluation.](weak-performance-based-assessment-iran.md) — related

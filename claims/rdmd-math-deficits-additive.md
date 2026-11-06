@@ -69,3 +69,4 @@ Equivalence testing (Lakens, 2017) with a smallest effect size of interest of |g
 - [The reading deficit profile of children with comorbid RDMD is additive relative to isolated RD and MD](rdmd-reading-deficits-additive.md) — related
 - [Children with comorbid RDMD are significantly more impaired than children with isolated RD or MD in math, reading, and executive function outcomes](rdmd-more-impaired-than-isolated-groups.md) — related
 - [The comorbid RD+MD group is more impaired than groups with RD only or MD only on seven of ten neuropsychological composites](rd-md-comorbid-more-impaired-neuropsych.md) — related
+- [Co-occurring MD and RD follows an additive pattern: growth patterns combine the math patterns of MD and the reading patterns of RD with no compounding cross-domain impairment](additive-co-occurrence-growth-patterns.md) — related

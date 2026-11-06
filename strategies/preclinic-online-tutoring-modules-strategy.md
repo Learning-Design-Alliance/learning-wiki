@@ -47,6 +47,7 @@ The article recommends that pre-doctoral students practice radiographic diagnosi
 
 - [Use AI language models as adjunctive tools in medical education, especially for test preparation or knowledge reinforcement](ai-adjunctive-tool-medical-education-test-prep.md)
 - [Use AI-based caries detection applications as educational tools for dental students with limited clinical experience](ai-tool-for-novice-dental-students-caries-training.md)
+- [Integrate AI-based diagnostic analysis into preclinical coursework while keeping AI complementary to instructor-student interaction](ai-diagnostic-training-preclinical-integration.md)
 
 ## Examples
 -

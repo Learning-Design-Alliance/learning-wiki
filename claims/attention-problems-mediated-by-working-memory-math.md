@@ -66,3 +66,6 @@ Discussion of the SEM results in 330 children; in the models, attention showed s
 - [Testing elementary psychic states is a poor direct measure of adult intelligence, but attention or memory measures are legitimate indirect indices in children](indirect-intelligence-measurement-children.md) — related
 - [Student engagement fully mediates the relationships between lecturer charismatic leadership/technology use and learning performance](engagement-fully-mediates-performance.md) — related
 - [The association between inhibition and first-grade achievement in math, reading, and writing is fully mediated by LRBs](lrb-full-mediation-inhibition-achievement.md) — related
+- [In children with ADHD, the relation between inattention symptom severity and achievement in reading, mathematics and spelling is statistically mediated serially through processing speed and working memory](inattention-achievement-serial-mediation-ps-wm.md) — related
+- [Processing speed fully mediates the relation between inattention symptom severity and working memory performance in children with ADHD](ps-fully-mediatates-inattention-wm.md) — related
+- [Processing speed is a single mediator of the relation between inattention symptom severity and mathematics and spelling performance, but not reading performance](ps-single-mediator-math-spelling-not-reading.md) — related

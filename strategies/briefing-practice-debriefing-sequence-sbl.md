@@ -54,6 +54,7 @@ The article prescribes a session sequence: a pre-simulation briefing that explai
 - [DBSS session protocol: defect-identification exercise followed by GAS-framework debriefing](dbss-session-protocol-gas-debriefing.md)
 - [Structure AI virtual patient sessions with pre-briefing, a structured diagnostic guide, and case-specific debriefing](pre-briefing-debriefing-ai-virtual-patient-session.md)
 - [Structure a remote AR simulation session as orientation, preparatory video, simulation, structured debriefing, and post-intervention questionnaires](remote-ar-session-structure-strategy.md)
+- [Structure VDT practical sessions as paired 2-hour table sessions with general training followed by student-led clinical application](vdt-hands-on-session-structure.md)
 
 ## Examples
 -

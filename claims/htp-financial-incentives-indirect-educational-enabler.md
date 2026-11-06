@@ -49,3 +49,4 @@ Interview finding from the grounded theory study of 21 faculty; Participant 18 s
 - [Faculty described a gradual identity shift from educator–clinician toward service-oriented clinician under repeated exposure to service-oriented metrics](htp-faculty-role-identity-shift-toward-service-provider.md) — related
 - [Faculty perceived education as marginalized in HTP policy and evaluation frameworks, which lack educational indicators](htp-policy-marginalization-of-education.md) — related
 - [Faculty acknowledged supportive structural changes under the HTP, including improved educational equipment and budgets, but perceived these resources as underused](htp-supportive-structural-changes-underused-resources.md) — related
+- [Faculty and students report declining senior-faculty engagement in clinical teaching, with educational duties delegated to residents without ensuring learner competence.](reduced-faculty-mentoring-engagement-iran.md) — related

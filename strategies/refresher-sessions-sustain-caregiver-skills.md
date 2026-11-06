@@ -57,6 +57,7 @@ The article recommends that to sustain and extend the benefits of simulation-bas
 - [Recalibrate CPR training toward regular, simulation-based skills refreshers with real-time audiovisual feedback and instructor-led debriefing](simulation-feedback-cpr-training-recalibration.md)
 - [Offer recurring evidence-based suturing workshops, including through ACNM state affiliates, to support confidence and skill retention](recurring-suturing-workshops-recommendation.md)
 - [Sustain simulation skills through ongoing practice opportunities, logbook signoffs, designated skills leads, collaborative partnerships and equipment maintenance](us-pivc-skill-maintenance-strategies.md)
+- [Supplement game-based learning with reinforcement strategies such as periodic refresher sessions and adaptive difficulty to sustain patient safety competency](gbl-reinforcement-refresher-strategy.md)
 
 ## Examples
 -

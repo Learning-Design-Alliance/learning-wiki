@@ -48,3 +48,4 @@ Chi-squared independence tests for the learned versus PT groups on the remaining
 - [Trained students were significantly less likely than physiotherapists to perform physical contact, moving around the patient, and explanation of test results during CWM tasks](cwm-item-gaps-physical-contact-results.md) — related
 - [Trained physiotherapy students scored significantly lower than practicing physiotherapists on total CWM skills](students-lower-cwm-than-pts.md) — related
 - [OSCE-based medical communication training produced no significant difference in total communication-with-movement (CWM) skill scores between trained and untrained physiotherapy students](osce-mc-training-no-cwm-gain.md) — related
+- [Physiotherapists in the experimental e-learning intervention valued its communication strategies as highly useful, while traditional-intervention participants criticised their absence](eei-communication-strategies-valued-tei-lamented.md) — related

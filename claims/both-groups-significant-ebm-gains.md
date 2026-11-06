@@ -54,3 +54,4 @@ Paired t-tests within each group showed significant pre-to-post gains. In the in
 - [A three-session EBM and critical appraisal course produced a highly statistically significant overall pre-post score difference (Z-score=-3.398, P=0.001) among medical students](three-session-course-significant-pre-post-difference.md) — related
 - [Advantage of game-based blended learning increases with cognitive complexity of EBM tasks, with no significant difference for question formulation](effect-size-gradient-ebm-task-complexity.md) — related
 - [Knowledge scores improved over time in both groups, with a stronger overall effect in the collaborative learning group](knowledge-gains-over-time-both-groups-collaborative-stronger.md) — related
+- [Knowledge improved significantly from before to after the intervention in both groups](knowledge-improved-both-groups-lectures.md) — possibly the same claim (merge candidate)

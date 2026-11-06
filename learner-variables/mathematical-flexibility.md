@@ -13,7 +13,7 @@ generated:
 # Mathematical Flexibility
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 22 claims (13 show a difference, 7 mixed, 2 no difference) · 18 studies (11 causal, 4 associational, 1 quant-synthesis, 1 review, 1 qualitative), `q1`–`q4` · 7 of 18 report an effect size · 21 claims rest on one study
+> **Evidence** · 23 claims (13 show a difference, 7 mixed, 3 no difference) · 19 studies (12 causal, 4 associational, 1 quant-synthesis, 1 review, 1 qualitative), `q1`–`q4` · 8 of 19 report an effect size · 22 claims rest on one study
 
 ## Description
 Mathematical flexibility is the ability to keep several representations of a number in mind (a fraction as a shaded region, a decimal, a point on a line) and several ways of solving a problem, and to move among them adaptively, choosing the strategy that suits the problem rather than always using the same one. The Learner Variability Navigator says it helps learners understand concepts more deeply and find solutions more efficiently. It is measured with tasks that test knowledge of multiple strategies for solving equations and judgement of which is most efficient.
@@ -58,6 +58,7 @@ LVN follows it from preschool to grade 10. Its general counterpart is cognitive 
 - [The positive association between flexible reactions and reversal learning is significant only in adults, with no significant age-by-flexibility interaction](../claims/flexibility-rl-relation-adults-only.md) [~M] — learners who differ on it differ in outcomes
 - [Homework solutions showed experimental students using multiple strategies correctly while control students made additive errors](../claims/homework-solutions-show-strategy-and-error-differences.md) [+W] — instruction changes it
 - [Additional time with comparison materials particularly improved students' conceptual and flexibility knowledge, not procedural knowledge](../claims/dosage-improves-conceptual-flexibility-knowledge.md) [+M] — measured as an outcome of the instruction studied
+- [Learning behavior engagement correlates positively with operational skill outcomes, with no significant correlation for flexibility](../claims/engagement-correlates-skill-outcomes.md) [-M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Flexibility in problem solving** (Star & Rittle-Johnson, 2008): Measures students' knowledge of multiple strategies and strategy efficiency in equation solving.

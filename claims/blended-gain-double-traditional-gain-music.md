@@ -55,3 +55,4 @@ Paired samples t-test on gain for each group: experimental t(119) = 17.852, cont
 - [University students in a blended learning German course showed significantly greater achievement gains than students in a traditional face-to-face course over 10 weeks](blended-learning-greater-german-achievement-gains.md) — related
 - [Both jigsaw and traditionally taught groups showed statistically significant pre-test to post-test gains, with a larger gain in the jigsaw group](jigsaw-and-control-both-gain-significantly-pre-to-post.md) — related
 - [Both traditional teaching and the OCRA approach significantly improved pre-test to post-test achievement, with a larger gain in the OCRA group](ocra-and-control-pre-post-gains.md) — related
+- [Blended-model students performed about twice as many suturing practice attempts as controls, and simulation attempts correlated with skills scores](doubled-practice-attempts-correlate-with-skills-scores.md) — related

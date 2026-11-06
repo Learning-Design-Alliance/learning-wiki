@@ -50,3 +50,4 @@ Descriptive comparison of grade point averages between the two groups (n = 30 ea
 - [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](pretest-equivalence-noss-sks-groups.md) — related
 - [The four groups were equivalent in prior science knowledge before the intervention](gpa-study-pretest-equivalence.md) — related
 - [AI Interaction Competence, not GPA or prior knowledge, is the decisive moderator of LLM-assisted learning gains](aic-moderates-llm-learning-gains.md) — reports the opposite
+- [Nursing students showed adequate baseline emotional intelligence with no differences between groups](baseline-emotional-intelligence-adequate-no-group-differences.md) — related

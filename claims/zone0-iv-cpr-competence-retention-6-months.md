@@ -51,3 +51,4 @@ Pilot randomized educational trial of 52 nursing students randomized 2:1 to SimZ
 - [CPR skills deteriorate within three to six months without frequent practice or retraining](cpr-skills-decay-3-6-months.md) — related
 - [73% of experimental students achieved CPR competence during the self-directed zone 0 interactive-video phase alone](zone0-self-directed-competence-acquisition.md) — related
 - [Nurses trained with simulation showed higher skill retention at 3 months than nurses trained with video-based instruction (exploratory)](simulation-higher-skill-retention-nurses-exploratory.md) — related
+- [SDL alone is insufficient for CPR training; instructor presence is needed for quality assurance.](sdl-insufficient-cpr-training.md) — related

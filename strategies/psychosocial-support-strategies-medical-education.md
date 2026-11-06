@@ -54,6 +54,8 @@ Based on the review's findings that distress and burnout hinder performance whil
 - [Integrate resilience-building strategies into teacher training programs, prioritizing psychosocial facets of academic success and pairing them with study-skill instruction when grade improvement is the goal](resilience-building-teacher-training-strategy.md)
 - [Train university students in stress-coping techniques alongside early screening for attention or learning difficulties](coping-training-plus-attention-screening-strategy.md)
 - [University programs that strengthen students' social well-being to support academic motivation](social-well-being-support-programs-medical-students.md)
+- [Integrate SBLE into nursing curricula to strengthen emotional resilience and prepare students for clinical psychological demands](integrate-sble-nursing-curricula-burnout-strategy.md)
+- [Integrate structured stress-management and resilience-building supports into undergraduate nursing education](stress-management-resilience-in-nursing-curriculum.md)
 
 ## Examples
 -

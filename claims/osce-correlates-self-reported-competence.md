@@ -56,3 +56,4 @@ Pearson correlation analysis among 97 Tehran Emergency Center personnel; the art
 - [Self‐assessed nutritional competencies did not correlate with actual nutritional knowledge, suggesting a mismatch between perceived and actual proficiency](self-assessment-knowledge-no-correlation.md) — reports the opposite
 - [Self-confidence scores show a positive but non-significant correlation with exam performance in this cohort](confidence-exam-correlation-non-significant.md) — related
 - [Students' post-training confidence ratings do not correlate with their objectively assessed US-PIVC competency scores.](us-pivc-confidence-not-correlated-with-competency.md) — related
+- [EBM Confidence Scale scores correlated moderately positively with OSCE Physical Interview performance in the EBM-BOPPPS group](ebm-confidence-osce-physical-interview-correlation.md) — a narrower finding that bears on this claim

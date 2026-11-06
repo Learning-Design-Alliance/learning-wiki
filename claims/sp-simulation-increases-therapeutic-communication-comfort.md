@@ -58,3 +58,4 @@ Qualitative focus-group study: six in-person focus groups with 47 BSN students a
 - [House officers attribute the effectiveness of psychiatric emergency simulation to realistic immersive scenarios, equipment practice, and peer learning in a safe environment](qualitative-realism-immersion-peer-learning-feedback.md) — related
 - [Repeated VR practice of therapeutic conversations builds students' confidence and flow in communication](vr-repeated-practice-confidence-flow.md) — related
 - [Simulation-based learning at the start of a psychiatric rotation increases house officers' self-reported confidence in managing a medical emergency in a psychiatric hospital](simulation-training-increases-house-officer-confidence-psychiatric-emergencies.md) — related
+- [Scenario realism and interaction with standardized patients, rather than mannequins, generate immersion and emotional involvement in novice nursing students](sp-realism-drives-immersion-and-involvement.md) — related

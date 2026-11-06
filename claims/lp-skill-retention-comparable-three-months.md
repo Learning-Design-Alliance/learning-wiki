@@ -51,3 +51,4 @@ Cross-sectional follow-up comparison among the 42 of 88 participants who returne
 - [Students who received VR-supplemented LP training report higher interest in LP and higher training satisfaction than conventionally trained students](vr-training-higher-interest-and-satisfaction.md) — related
 - [Skill retention after FONA training was generally preserved after three months regardless of training model used](fona-skill-retention-preserved-three-months.md) — related
 - [Three-month FONA skill retention after training on a self-made model is non-inferior to training on a high-fidelity simulator in checklist scores](self-made-model-non-inferior-fona-retention.md) — related
+- [No significant performance differences between students trained every 3 months and every 6 months](no-difference-3-versus-6-month-cpr-training.md) — related

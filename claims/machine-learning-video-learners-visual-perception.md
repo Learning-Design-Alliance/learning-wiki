@@ -49,3 +49,4 @@ The review reports Goldberg, Sümer, Stürmer, Wagner, Göllner, Gerjets, Kasnec
 - [Machine learning measures of student engagement correlate moderately to highly with manual ratings, but manual ratings better predict self-reported engagement](goldberg-ml-engagement-measurement.md) — related
 - [Experienced teachers can deduce student engagement profiles from visual observation, while beginning teachers struggle](experienced-teachers-deduce-engagement-profiles-visually.md) — related
 - [Instructional roles of group members can be deduced from machine-inferable factors, and presence or absence of roles indicates learning effectiveness](instructional-roles-deduced-from-collaboration-factors.md) — related
+- [In authentic classroom videos, students' attention directions are almost consistent with their body orientations, allowing engagement to be inferred non-intrusively](body-orientation-indicates-classroom-attention.md) — a narrower finding that bears on this claim

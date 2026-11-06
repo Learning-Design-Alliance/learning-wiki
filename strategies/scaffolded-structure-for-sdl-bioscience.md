@@ -44,6 +44,7 @@ For students with self-reported dyslexia or ADHD, the article recommends accessi
 
 - [Teach SDL skills explicitly and differentiate support by student group in bioscience courses](explicit-sdl-skills-teaching-differentiated-support.md)
 - [Provide proactive weekly instructor-initiated support emails to all online students without requiring them to ask for help](proactive-weekly-instructor-support-emails.md)
+- [Implement SDL through clinical educators supported by a clinical skills centre](clinical-educators-skills-centre-sdl-strategy.md)
 
 ## Examples
 -

@@ -66,3 +66,4 @@ Narrative synthesis of the review's own included studies: of 11 studies included
 - [Students report low self-assessed knowledge but high perceived need for education and willingness to train](low-self-knowledge-high-education-need.md) — related
 - [Simulation-related variables (usability, satisfaction, presence, technology acceptance) do not predict training outcomes](simulation-variables-do-not-predict-outcomes.md) — related
 - [Student confidence in laparoscopic skills improved significantly after practice, with no difference between near-peer-taught and self-taught groups](confidence-improves-independent-of-group.md) — a narrower finding that bears on this claim
+- [Rwandan medical students perceive residents as competent and effective simulation instructors and favor a small team of residents with faculty](students-perceive-residents-effective-simulation-instructors.md) — a narrower finding that bears on this claim

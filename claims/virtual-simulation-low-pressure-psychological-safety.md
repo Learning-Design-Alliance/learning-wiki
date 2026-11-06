@@ -65,3 +65,5 @@ Focus group participants described accessing high-fidelity simulation from home 
 - [A mixed-methods evaluation found SBE is a distinct learning environment with little or no support for students navigating between environments](sims-week-little-navigation-support.md) — related
 - [RCDP simulation sessions were perceived as psychologically safe by almost all participants, regardless of the number of facilitators present](rcdp-psychological-safety-high.md) — related
 - [Prior physical Room of Error evaluations found participants detected fewer than half of embedded hazards, with interprofessional group interaction enhancing error detection](physical-roe-hazard-detection-under-half.md) — related
+- [Rwandan medical students perceive simulation as critical for acquiring procedural skills in a relaxed, no-stakes environment and for practicing rare procedures](simulation-procedural-skills-relaxed-no-stakes.md) — related
+- [Virtual dissection tables allow students to practice procedures in a low-risk environment where errors can be recognized and virtually reverted without consequences](vdt-low-risk-error-recovery-practice.md) — related

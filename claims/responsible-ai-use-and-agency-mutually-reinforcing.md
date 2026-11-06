@@ -50,3 +50,4 @@ This is the paper's central conceptual thesis, argued from literature on AI ethi
 - [Current AIED rests on five faulty assumptions that risk learner dependence, isolation, and reduced flourishing](five-faulty-assumptions-aied-dependence.md) — related
 - The article argues that GAI systems' adaptive functionality inherently encourages over-reliance rather than fostering learner-centric data collection for SDL — related
 - [AI intuition emphasizes epistemic judgment rather than output optimization, distinguishing it from prompt engineering](ai-intuition-epistemic-judgment-not-prompt-engineering.md) — related
+- [Online learning with certificates and hands-on SDL skills training mutually reinforce each other in CPD.](online-learning-sdl-mutual-reinforcement.md) — related

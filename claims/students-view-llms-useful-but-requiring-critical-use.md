@@ -78,3 +78,4 @@ Questionnaire with five-point Likert scales and open-text feedback in both user-
 - [Overconfidence in situational awareness under stress increases risk-taking, and perceived team engagement reduces this overconfidence](team-engagement-reduces-sa-overconfidence-risk-taking.md) — related
 - [Cited pilot trial and transcript-grading work show scenario-dependent strengths and reliability limits of AI in OSCE-adjacent tasks](ai-osce-evidence-mixed-strengths-limits.md) — related
 - [The LLM gave the learner warnings, ethical advice, and feedback on their PFA performance, including psychoeducation](llm-gives-learner-feedback-and-warnings.md) — related
+- [85% of students used LLMs for post-class case generation practice but raised concerns about content accuracy and difficulty calibration](post-class-llm-practice-student-concerns.md) — related

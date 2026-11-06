@@ -73,3 +73,4 @@ Subanalysis for residents rested on a single study with n=19; pooled "SMD=0.64 (
 - [Unrestricted 24/7 access to CAI materials is associated with better ECG outcomes, while restricted access is not](unrestricted-cai-access-benefit.md) — related
 - [CAI within a blended learning strategy outperforms face-to-face teaching alone for ECG competence acquisition](blended-cai-beats-face-to-face-ecg.md) — related
 - [Access to a dedicated Google Sites ECG-learning platform added to conventional teaching improves post-rotation ECG interpretation test scores among pre-graduate medical students.](google-sites-ecg-platform-improves-interpretation-scores.md) — a narrower finding that bears on this claim
+- [The synchronised EYE-ECG2 video produced a moderate but nonsignificant tendency toward better ECG interpretation performance than training as usual](eye-ecg2-video-nonsignificant-tendency.md) — a narrower finding that bears on this claim

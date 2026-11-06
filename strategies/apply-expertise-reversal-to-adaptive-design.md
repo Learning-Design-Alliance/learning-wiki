@@ -40,7 +40,8 @@ The review recommends using expertise reversal findings as the basis for learner
 - [Cognitive Load Explanation Expertise Reversal](../theories/expertise-reversal-effect.md)
 
 ## Related Strategies
-- 
+
+- [Offer adaptive learning pathways tailored to learners' prior ultrasound experience level](adaptive-pathways-by-prior-experience.md)
 
 ## Examples
 -

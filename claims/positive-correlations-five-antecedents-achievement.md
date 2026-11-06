@@ -56,3 +56,4 @@ Correlation analysis (diagnostic, not hypothesis-testing) in the survey of 276 u
 - [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](trait-ei-no-direct-association-university-gpa.md) — related
 - [Three configurational pathways drive high academic achievement among Chinese undergraduates](three-configurations-high-academic-achievement.md) — related
 - [Knowledge, academic self-efficacy, and self-directed learning readiness are positively correlated](knowledge-self-efficacy-sdlr-positive-correlations.md) — related
+- [Self-efficacy correlates positively with perceived academic success among non-medical healthcare students (r = .43)](self-efficacy-correlates-academic-success-healthcare-students.md) — related

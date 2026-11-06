@@ -52,3 +52,4 @@ Multivariable multinomial logistic regression (table 4) in the 605-nurse survey;
 - [Junior title, low self-perceived achievement, and medication error history distinguish Profile 1 from Profile 4](profile1-predictors-junior-no-achievement-error-history.md) — related
 - [Sociodemographic and job-related characteristics differ across competence profiles](sociodemographic-differences-across-profiles.md) — a broader claim this one bears on
 - [Work experience, supervisor title, and self-perceived achievement distinguish Profile 3 from Profile 4](profile3-predictors-experience-supervisor-achievement.md) — related
+- [Nurses' clinic communication competency differs significantly by age, gender, nursing years, professional title, and department](ncccs-demographic-differences-tertiary-nurses.md) — related

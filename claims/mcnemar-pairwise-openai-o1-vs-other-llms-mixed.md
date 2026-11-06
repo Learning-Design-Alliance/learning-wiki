@@ -69,3 +69,4 @@ McNemar pairwise tests in Infectious Diseases found no significant differences; 
 - [OpenAI o1 achieved the highest aggregated mean score among the five LLMs, followed by Copilot, DeepSeek, Gemini, and GPT-4o](openai-o1-highest-aggregated-mean-five-llms.md) — related
 - [McNemar's exact test confirms o1-Pro's advantage is statistically significant (P=0.0015, OR 5.00)](mcnemar-significant-o1-pro-advantage-ukmla.md) — related
 - [o1-Pro consistently outperformed GPT-4o in dermatology and respiratory medicine (+18.2 points each) among specialty differences](o1-pro-dermatology-respiratory-specialty-gaps.md) — related
+- [Pairwise inter-model agreement showed no statistically significant differences among the five AI models (all p > 0.05)](no-significant-inter-model-agreement-differences.md) — related

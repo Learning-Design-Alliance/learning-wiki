@@ -61,3 +61,4 @@ Randomized controlled trial of 67 third-year medical students in Vietnam, random
 - [SP training produced no significant differences in history-taking, differential diagnosis, laboratory tests, or diagnosis scores](sp-training-no-gain-history-diagnosis-scores.md) — related
 - [VSP training produced significantly greater improvement in medical history-taking ability than traditional teaching](cl-vsp-greater-history-taking-gains.md) — related
 - [Most VSP-trained students reported the training benefited history collection, condition analysis, diagnosis, treatment, and clinical thinking abilities](cl-vsp-student-satisfaction-clinical-thinking.md) — related
+- [SP-based training produced no statistically significant difference in final OSCE scores compared with traditional instruction, with a small negative effect size](sp-training-no-significant-osce-difference.md) — related

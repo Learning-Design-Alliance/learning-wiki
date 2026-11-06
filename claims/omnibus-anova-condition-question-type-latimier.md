@@ -49,3 +49,4 @@ Omnibus mixed ANOVA on final test scores (learning condition between-subject, qu
 - [No gender × question-type interaction and no gender main effect on TEMA-3 formal vs. informal math items](no-gender-question-type-interaction-formal-informal-math.md) — related
 - [Lab-based versus textbook-based instruction produced no significant difference in novices' quiz learning over the experiment's timecourse](no-group-effect-quiz-lab-vs-textbook.md) — related
 - [A marginal, non-significant interaction between question type and language was observed for LLM accuracy (F(2,10) = 3.57, P = 0.068)](marginal-question-type-language-interaction.md) — related
+- [Two-way ANOVA showed significant main effects of group allocation and question on score, with a group-by-question interaction approaching significance](anova-group-and-question-main-effects-score.md) — related

@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 186 claims (126 show a difference, 37 mixed, 23 no difference) · 142 studies (51 causal, 33 associational, 24 review, 15 quant-synthesis, 8 qualitative, 7 design, 4 theoretical), `q1`–`q4` · 29 of 142 report an effect size · 180 claims rest on one study
+> **Evidence** · 188 claims (128 show a difference, 37 mixed, 23 no difference) · 144 studies (52 causal, 34 associational, 24 review, 15 quant-synthesis, 8 qualitative, 7 design, 4 theoretical), `q1`–`q4` · 29 of 144 report an effect size · 182 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -224,6 +224,8 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [ADHD status predicts lower teacher-rated study skills and higher learning problems in early adolescents](../claims/adhd-predicts-poorer-study-skills-learning-problems.md) [+W] — learners who differ on it differ in outcomes
 - [Active-break and control groups differed on the Stroop Test regardless of time, but the Group × Time interaction was not significant, so no effect of the active breaks on inhibitory control was shown](../claims/active-breaks-improve-executive-function-stroop.md) [~W] — measured as an outcome of the instruction studied
 - [ADHD symptoms were not significantly related to GPA in this sample](../claims/adhd-symptoms-not-related-gpa-ethiopian-sample.md) [-M] — learners who differ on it differ in outcomes
+- [Both girls with and without ADHD declined in average math standard scores from childhood to adulthood, with the ADHD sample reaching the 18th percentile by adulthood](../claims/both-groups-decline-math-standard-scores.md) [+M] — learners who differ on it differ in outcomes
+- [Cognitive activity training produced significant interaction effects in LOTCA subdomains of spatial perception, praxis, visual-motor organization, thinking processes, and attention](../claims/cat-mixed-anova-lotca-subdomains.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

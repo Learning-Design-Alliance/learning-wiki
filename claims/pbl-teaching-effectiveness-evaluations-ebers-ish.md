@@ -48,3 +48,4 @@ Chi-square comparisons of a 10-item teaching evaluation form (Table 2) showed si
 ## Related Claims
 - [The review finds flipped learning, PBL, gamification, and collaborative learning adapted to digital environments produced positive effects on motivation, participation, and transversal competences](flipped-pbl-gamification-collaborative-digital-effects.md) — a broader claim this one bears on
 - [The control group improved more than the intervention group on only two items, instructor enthusiasm and helpful feedback, without surpassing intervention post-ratings](control-group-gains-enthusiasm-feedback.md) — related
+- [Teachers who enjoy teaching, maintain close relationships, and adapt content tend to foster greater student engagement, a key to learning](teacher-enthusiasm-fosters-engagement.md) — related

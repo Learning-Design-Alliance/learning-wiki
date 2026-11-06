@@ -50,3 +50,4 @@ The review reports, citing prior studies, that most UK medical students receive 
 - [The review names stigma, personal health habits and clinical practice constraints (time, funding, guidance, low dietitian referrals) among the reasons for the nutrition knowledge gap](msad-stigma-habits-clinical-challenges.md) — related
 - [The review reports that low confidence in counselling patients and perceived insignificance of nutrition contribute to the knowledge deficit among medical students and doctors](msad-low-confidence-perceived-insignificance.md) — related
 - [PPS is absent or minimal in medical curricula, with just 11% of newly qualified doctors receiving formal PPS teaching](pps-absent-medical-curricula-11-percent.md) — related
+- [Post-course, most respondents reported their nutrition counselling increased or improved and they planned more counselling and dietitian referrals](nutrition-course-counselling-increase-post.md) — related

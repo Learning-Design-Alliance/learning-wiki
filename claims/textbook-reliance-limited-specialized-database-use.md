@@ -71,3 +71,4 @@ Chi-square comparisons of search-engine and source use by EBM training status (T
 - [Self-reported frequent engagement with traditional EBM steps is low among UK GPs](low-self-reported-ebm-activity-uk-gps.md) — a broader claim this one bears on
 - [Prior EBM training is associated with higher self-rated EBM skills across all skill domains among Palestinian medical students](ebm-training-higher-self-rated-skills-palestinian-students.md) — related
 - [Practical workshops are the most preferred EBM learning modality among Palestinian medical students, though preference does not differ significantly by training status](practical-workshops-preferred-ebm-modality.md) — related
+- [After the EBM-BOPPPS clerkship, clerks' preferred learning resources shifted toward evidence-based guidelines and away from general search engines](resource-preference-shift-evidence-based-guidelines.md) — related

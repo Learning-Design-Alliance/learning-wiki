@@ -53,3 +53,5 @@ Randomized comparison of 20 students per group (40 analyzed) in preclinical endo
 - [A hybrid CBL-SST-simulator model produces significantly higher clinical thinking scores than lecture-based learning in preclinical endodontics](hybrid-cbl-sst-higher-clinical-thinking-than-lbl.md) — related
 - [Participants trained with simulated models and phantom bodies in addition to extracted teeth reported better understanding and practice of endodontics (P < 0.001)](simulative-models-better-understanding-practice.md) — related
 - [Within the P-I-T-D-S model, students who used the OSCRS simulator before class scored significantly higher than those who used it after class](pre-class-oscrs-timing-higher-scores.md) — related
+- [VR simulator practice produces significantly greater improvement in overall cavity preparation performance than conventional typodont practice alone](vr-simulator-greater-overall-performance-improvement-dental.md) — related
+- [VR simulator practice reduces critical errors in cavity preparation more than conventional practice alone](vr-simulator-reduces-critical-errors-dental.md) — related

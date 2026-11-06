@@ -54,3 +54,4 @@ Anonymous 10-item questionnaire administered only to the PBL-DeepSeek group, wit
 - [GPT-4o and GPT-5.2 achieve higher accuracy and more fully correct answers on university IVDA multiple-choice questions than the smaller Mistral-7B and DeepSeek-R1 models](gpt-models-outperform-smaller-llms-on-ivda-mcqs.md) — related
 - [Students preferred the book-free, activity-based teaching and recommended the method for other courses](students-prefer-book-free-scenario-teaching.md) — related
 - [Third-year medical students report high satisfaction with a customized GPT reproductive physiology companion](high-student-satisfaction-customized-gpt-reproductive-physiology-companion.md) — related
+- [Most SOM-PBL students report high satisfaction, but about one-third report the method imposed additional cognitive load](som-pbl-satisfaction-and-cognitive-load.md) — related

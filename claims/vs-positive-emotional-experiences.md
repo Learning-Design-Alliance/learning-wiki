@@ -75,3 +75,5 @@ Synthesized finding from the meta-synthesis of 17 qualitative studies, drawing o
 - [Repeated VR practice of therapeutic conversations builds students' confidence and flow in communication](vr-repeated-practice-confidence-flow.md) — a narrower finding that bears on this claim
 - [VR simulation training fostered active engagement and a greater sense of preparedness for clinical practice among medical students](vr-training-fostered-engagement-preparedness.md) — related
 - [Externally enrolled (online) midwifery students felt more confident with virtual platforms through their mode of study rather than telehealth training](external-online-students-virtual-platform-confidence.md) — a narrower finding that bears on this claim
+- [Simulation increased male nursing students' self-confidence for clinical practice](simulation-increased-male-students-self-confidence.md) — related
+- [Rwandan medical students perceive simulation as critical for acquiring procedural skills in a relaxed, no-stakes environment and for practicing rare procedures](simulation-procedural-skills-relaxed-no-stakes.md) — related

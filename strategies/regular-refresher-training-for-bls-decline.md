@@ -50,6 +50,7 @@ The article states that the observed decline in knowledge and skills at 3 months
 - [Combine knowledge-based BLS instruction with hands-on and simulation-based training.](combine-knowledge-instruction-with-simulation-bls.md)
 - [Provide regular refresher sessions and periodic reassessment to sustain caregiver emergency-response skills over time](refresher-sessions-sustain-caregiver-skills.md)
 - [Deliver smartphone-based, scenario-based PFA review modules and peer case-sharing via WeChat to sustain skills after initial training](wechat-microlearning-pfa-booster-strategy.md)
+- [Supplement game-based learning with reinforcement strategies such as periodic refresher sessions and adaptive difficulty to sustain patient safety competency](gbl-reinforcement-refresher-strategy.md)
 
 ## Examples
 -

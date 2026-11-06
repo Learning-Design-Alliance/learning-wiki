@@ -19,7 +19,7 @@ sources:
 # Direct Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 50 claims (26 for, 19 mixed, 5 against) · 58 studies (27 causal, 12 quant-synthesis, 10 review, 6 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 10 of 58 report an effect size · 41 claims rest on one study
+> **Evidence** · 52 claims (26 for, 20 mixed, 6 against) · 59 studies (28 causal, 12 quant-synthesis, 10 review, 6 theoretical, 2 qualitative, 1 associational), `q1`–`q4` · 11 of 59 report an effect size · 43 claims rest on one study
 
 ## Conditional relationship
 
@@ -96,6 +96,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Explicit instruction outperforms implicit instruction in boosting Iranian EFL learners' pragmatic performance of refusals](../claims/explicit-outperforms-implicit-refusal-instruction.md) [+W] — attached 2026-11-02 from Farahman Farrokhi (2012), which proposed "Teach speech acts explicitly because explicit instruction proves more efficient for learners' pragmatic development"; tests this page's relationship.
 - [Explicit instruction of refusals significantly improves Iranian EFL learners' pragmatic performance of refusals](../claims/explicit-refusal-instruction-improves-pragmatic-performance.md) [+W] — attached 2026-11-02 from Farahman Farrokhi (2012), which proposed "Teach speech acts explicitly because explicit instruction proves more efficient for learners' pragmatic development"; tests this page's relationship.
 - [Explicit instruction of English consonant clusters outperformed implicit instruction for Iranian intermediate EFL learners on a read-aloud post-test](../claims/explicit-beats-implicit-consonant-cluster-instruction.md) [+W] — attached 2026-11-03 from Ruhollah Khanbeiki; Seyed Jalal Abdolmanafi-Rokni (2015), which proposed "Direct learners' attention explicitly to pronunciation features through rule explanation, examples, and cross-language comparison"; tests this page's relationship.
+- [After three training sessions, implicit- and explicit-group students performed equally well on bandaging retention and multitasking transfer tests](../claims/equal-retention-transfer-after-three-sessions.md) [~W] — attached 2026-11-06 from Van Brakel-Van Lobenstein et al. (2025), which proposed "Favor instructional methods that facilitate implicit learning over detailed step-by-step protocols when teaching complex nursing psychomotor skills to novices"; tests this page's relationship.
+- [In Study 3, implicit-group students showed greater pressure consistency across tests and more often applied bandages within the 40–60 mmHg range during multitasking transfer](../claims/implicit-group-consistency-pressure-range-study3.md) [-M] — attached 2026-11-06 from Van Brakel-Van Lobenstein et al. (2025), which proposed "Favor instructional methods that facilitate implicit learning over detailed step-by-step protocols when teaching complex nursing psychomotor skills to novices"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

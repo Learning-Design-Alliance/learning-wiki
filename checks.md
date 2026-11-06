@@ -8,16 +8,16 @@ This wiki is written by language models, from published research, and checked by
 
 | | |
 |---|---|
-| Claims | 53,067, from 12,592 sources |
+| Claims | 53,473, from 12,670 sources |
 | Reviewed by a person | 0 |
-| Every evidence entry compared with its source by the faithfulness judge | 7,128 claims (13%) |
-| Claims citing at least one DOI | 39,972 claims (75%) |
-| Sources whose citations went through the Crossref identity gate | 11,791 of 12,592 |
+| Every evidence entry compared with its source by the faithfulness judge | 7,143 claims (13%) |
+| Claims citing at least one DOI | 40,362 claims (75%) |
+| Sources whose citations went through the Crossref identity gate | 11,869 of 12,670 |
 | Sources read for impossible statistics and invented references | 6,251 of 7,135 (2026-10-25) |
 | Cited DOIs checked for retraction | 6,793 of 6,793 (2026-10-25) |
 | Retracted sources found and acted on | 4 |
-| Claims past their recheck year (fast-ageing kinds only) | 4,238 of 10,045 with one |
-| Claims removed by a check, all time | 6,326 |
+| Claims past their recheck year (fast-ageing kinds only) | 4,238 of 10,138 with one |
+| Claims removed by a check, all time | 6,338 |
 
 ## The checks, in the order a claim meets them
 
@@ -27,7 +27,7 @@ Each source is screened against the published [inclusion criteria](https://githu
 
 **Cannot catch.** A source that is in scope and badly done. Inclusion is about what a source is, not how good it is.
 
-**Coverage.** 14,849 sources reviewed: 12,592 ingested, 2,257 refused (out-of-scope 1,873, no-ingestable-content 207, validation-error 133, uncoded 22, opinion-piece 17, parse-error 3, no-contributions-extracted 2).
+**Coverage.** 14,927 sources reviewed: 12,670 ingested, 2,257 refused (out-of-scope 1,873, no-ingestable-content 207, validation-error 133, uncoded 22, opinion-piece 17, parse-error 3, no-contributions-extracted 2).
 
 ### 2. Extraction and structural validation
 
@@ -43,7 +43,7 @@ Every DOI written on a page is resolved against Crossref (DataCite after a Cross
 
 **Cannot catch.** A citation with no DOI and no registry record; a correct citation to a study that is itself wrong.
 
-**Coverage.** 11,791 of 12,592 ingested sources passed the gate with the registry reachable; 471 DOIs removed as the wrong paper, 81 flagged for a person; 3 book citations verified by a person.
+**Coverage.** 11,869 of 12,670 ingested sources passed the gate with the registry reachable; 479 DOIs removed as the wrong paper, 81 flagged for a person; 3 book citations verified by a person.
 
 ### 4. A verifiable source for every claim
 
@@ -51,7 +51,7 @@ A claim whose evidence has no DOI after a Crossref and DataCite search is remove
 
 **Cannot catch.** Whether the DOI'd source is any good.
 
-**Coverage.** 39,972 of 53,067 claims (75%) cite a DOI; 2,886 claims removed for having none.
+**Coverage.** 40,362 of 53,473 claims (75%) cite a DOI; 2,886 claims removed for having none.
 
 ### 5. Faithfulness to the source
 
@@ -59,7 +59,7 @@ A second model, from a different provider, reads each evidence entry beside the 
 
 **Cannot catch.** A claim checked only against an abstract, for detail an abstract does not carry. The judge is a model and has been wrong; its failures are read before they are acted on.
 
-**Coverage.** 7,128 claims (13%) have had every evidence entry compared with its source and passed; 186 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
+**Coverage.** 7,143 claims (13%) have had every evidence entry compared with its source and passed; 186 judge failures were read and recorded with a reason. Each claim states this on its page, in its *Currency* line.
 
 ### 6. Can the source be believed?
 
@@ -75,7 +75,7 @@ Also added 2026-10-25, from the same audit's most common findings. For each caus
 
 **Cannot catch.** Problems the paper does not report. The judge reads only what the study says about itself.
 
-**Coverage.** causal entries on AI claims: 1,319 of 1,319 judged (2026-10-25); found unit 108, isolation 96, comparison 71. every causal entry: 0 of 0 judged (2026-11-04); found nothing. 1,914 findings read and acted on.
+**Coverage.** causal entries on AI claims: 1,319 of 1,319 judged (2026-10-25); found unit 108, isolation 96, comparison 71. every causal entry: 0 of 0 judged (2026-11-04); found nothing. 1,925 findings read and acted on.
 
 ### 8. Evidence codes
 
@@ -83,7 +83,7 @@ Each evidence entry carries a design tier (`q1`–`q4`), an impact code (`i0`–
 
 **Cannot catch.** Whether a study's conclusion is true. The codes describe how a study was done, not whether it was right.
 
-**Coverage.** 62,476 evidence entries; 8,899 rest on a printed effect size and 53,605 report none (`i?`); 57,084 carry a rigour rating.
+**Coverage.** 62,987 evidence entries; 8,968 rest on a printed effect size and 54,047 report none (`i?`); 57,593 carry a rigour rating.
 
 ### 9. Duplicates and merges
 
@@ -91,7 +91,7 @@ Two claims stating the same finding are merged, and two pages on the same thing 
 
 **Cannot catch.** Near-duplicates phrased far apart.
 
-**Coverage.** 4,679 pair decisions recorded.
+**Coverage.** 4,702 pair decisions recorded.
 
 ### 10. Currency
 
@@ -99,7 +99,7 @@ Each claim states the year of its newest study and when its sources were last ch
 
 **Cannot catch.** A finding superseded by newer research the wiki has not ingested.
 
-**Coverage.** 10,045 claims carry a recheck year; 4,238 are past it.
+**Coverage.** 10,138 claims carry a recheck year; 4,238 are past it.
 
 ### 11. Structure
 
@@ -116,7 +116,7 @@ Removals are logged with their reason in `eval/removed/pages.ndjson`; git histor
 | Reason | Claims and pages |
 |---|---|
 | No verifiable source (no DOI after a Crossref and DataCite search) | 2,886 |
-| About how research is done, not a design decision | 2,878 |
+| About how research is done, not a design decision | 2,890 |
 | Local context only (one district, programme or year) | 217 |
 | Source cannot be believed (impossible statistics, invented references, retraction) | 12 |
 | Citation chase: a retracted article or off-topic methods literature | 83 |

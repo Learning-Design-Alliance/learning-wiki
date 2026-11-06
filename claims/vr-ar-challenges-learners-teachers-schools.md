@@ -80,3 +80,4 @@ The review's challenges synthesis (RQ2, Table 2) codes challenges to learners (d
 - [External and internal barriers, including cybersickness, logistics, workload and lack of time, limited residents' use of VR simulation](barriers-limit-residents-vr-use.md) — a narrower finding that bears on this claim
 - [Medical students reported system usability barriers to VR training involving headset accessibility, technical issues, and limited scenario variability](vr-training-usability-barriers-medical-students.md) — a narrower finding that bears on this claim
 - [Participants raised financial cost of VR headsets as a barrier to sustainable adoption, though not deterring acceptance](vr-financial-burden-sustainability-concern.md) — related
+- [Virtual tasks that deviated from real-world procedures increased task burden, causing fixation on technical actions that impeded the simulation's core learning objectives](vr-task-burden-from-deviant-procedures.md) — related

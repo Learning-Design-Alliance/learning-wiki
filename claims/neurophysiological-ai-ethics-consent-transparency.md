@@ -57,3 +57,4 @@ Synthesis of the nine AIHEd reviews covering facial recognition/mood detection a
 - [Privacy protections lag behind reputational concerns: institutions rarely consider implications of capturing audio-visual and behavioral data from private spaces, and AI algorithms are seldom transparent about error rates](privacy-transparency-lags-proctoring-adoption.md) — related
 - No included ITS study considered AI ethics, and the review calls for longer interventions, larger and more diverse samples, and ethical investigation — related
 - [Ethical and legal considerations were emphasized by 71% of included studies on AI competencies for health professionals](ethical-legal-considerations-71-percent-studies.md) — related
+- [Researchers report that a lack of knowledge about legal, ethical, and methodological issues is the root of the exclusion of adults lacking capacity to consent from trials](knowledge-gap-root-exclusion-impaired-capacity.md) — related

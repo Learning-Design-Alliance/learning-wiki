@@ -55,6 +55,7 @@ The authors recommend a sequence for curricular integration: "First, it is neces
 - [Integrate structured debriefing into simulation curricula with systematic teacher training and multi-method evaluation](debriefing-integration-strategy-nursing-education.md)
 - [Use small-group standardized patient simulation series focused on therapeutic communication within psychiatric-mental health nursing courses](small-group-sp-simulation-therapeutic-communication-series.md)
 - [Integrate collaborative learning into nursing education for newly acquired skills, with instructor numbers matching group numbers](integrate-collaborative-learning-nursing-skills-strategy.md)
+- [Integrate the DNH model into structured ESD curricula via simulation workshops with progressive difficulty and bleeding scenarios](dnh-model-structured-curriculum-workshops.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Multivariable logistic regression on the 220-intern cross-sectional dataset iden
 - [High self-reported confidence in ECG interpretation strongly predicts actual competency (AOR up to 9.10)](self-confidence-predicts-ecg-competency.md) — related
 - [Only 19.1% of Ethiopian medical interns across four institutions meet the ≥80% ECG interpretation competency threshold](ethiopian-interns-low-ecg-competency-19-percent.md) — related
 - [ECG competency varies significantly across Ethiopian training institutions, from 7.1% at JUMC to 32.7% at SPHMMC](institutional-variation-ecg-competency-ethiopia.md) — related
+- [Randomising the presentation order of clinical case 1 attenuated its previously observed special role in predicting ECG interpretation skills](randomised-case-order-attenuates-case1-effect.md) — related

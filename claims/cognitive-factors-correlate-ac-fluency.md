@@ -77,3 +77,4 @@ Spearman's rho correlations between the two learning factors and post-interventi
 - [Symbolic magnitude comparison contributes more unique variance to fourth graders' multiplication fact performance than nonsymbolic magnitude comparison](symbolic-beats-nonsymbolic-multiplication-variance.md) — related
 - [Numerical magnitude comparison explains significant unique variance in multiplication fact performance over and above phonological processing, intellectual ability, and general reaction time](magnitude-comparison-unique-variance-multiplication.md) — related
 - [Different domain-general factors uniquely account for variation in different arithmetic skills](domain-general-factors-skill-specific.md) — a broader claim this one bears on
+- [Learning behavior engagement correlates positively with operational skill outcomes, with no significant correlation for flexibility](engagement-correlates-skill-outcomes.md) — related

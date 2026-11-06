@@ -60,6 +60,7 @@ The authors recommend that advanced simulation-based scenarios be embedded into 
 - [Integrate structured reflective sessions into clinical curricula, tailored to students' developmental stage](integrate-structured-reflection-clinical-curricula.md)
 - [Incorporate structured non-technical skills training and structured debriefing sessions within simulation-based education](structured-nts-training-debriefing-recommendation.md)
 - [Incorporate practical gerontological nursing teaching early in the curriculum, using situational simulation and case-based teaching](early-practical-gerontological-teaching-strategy.md)
+- [Integrate the DNH model into structured ESD curricula via simulation workshops with progressive difficulty and bleeding scenarios](dnh-model-structured-curriculum-workshops.md)
 
 ## Examples
 -

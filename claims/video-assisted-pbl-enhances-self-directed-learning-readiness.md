@@ -51,3 +51,4 @@ The randomized trial reported the video-assisted PBL group achieved the highest 
 - [Web-assisted instruction with emotional intelligence content produced higher post-test academic achievement, environmental attitudes and emotional intelligence than traditional lecture in 8th-grade energy-saving instruction](web-assisted-ei-content-posttest-advantage.md) — related
 - [3DIPT-assisted teaching produces higher self-directed anatomy learning scores than traditional teaching after 6 months](3dipt-higher-self-directed-anatomy-learning.md) — related
 - [3DIPT-assisted teaching produces higher mobile learning willingness scores than traditional teaching after 6 months](3dipt-higher-mobile-learning-willingness.md) — related
+- [PBL teaching produced significantly higher post-intervention self-directed learning ability scores than traditional teaching among nursing interns (P = 0.005)](pbl-higher-self-directed-learning-nursing-interns.md) — related

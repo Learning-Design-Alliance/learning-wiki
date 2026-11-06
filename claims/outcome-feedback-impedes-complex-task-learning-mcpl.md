@@ -54,3 +54,4 @@ Narrative review attribution: the authors report, citing multiple MCPL-paradigm 
 - [AI assistance that substitutes for learning activities may improve immediate performance while impeding long-term skill development](ai-substitution-impedes-long-term-skill-development.md) — related
 - [Students given AI assistance in peer feedback tended to rely on the AI-generated feedback and struggled to perform the task when the assistance was removed](ai-assistance-peer-feedback-overreliance.md) — related
 - The feedback research field may already be experiencing a paradigm shift that five further steps could solidify — related
+- [Peer feedback effectiveness may be compromised when task complexity exceeds a threshold, as observed for simple interrupted suturing](peer-feedback-task-complexity-threshold.md) — a narrower finding that bears on this claim

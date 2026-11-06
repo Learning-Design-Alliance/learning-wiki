@@ -58,3 +58,5 @@ Qualitative thematic analysis of reflective narratives from 103 students, coded 
 - [Medical students experienced strong immersion in VR simulation due to realistic environments, but reduced interactivity constrained authenticity](vr-immersion-strong-but-interactivity-limited.md) — related
 - [All 37 respondents affirmed that OSCEai filled a gap in their medical training](osceai-fills-training-gap.md) — related
 - [Participants perceived the VR camera navigation test as realistic and reflective of their true clinical operational level](participants-perceive-vr-test-realistic-reflective.md) — a narrower finding that bears on this claim
+- [Male nursing students saw maternity simulation as preparation for realistic situations and as essential to integrating theory into clinical practice](simulation-preparation-realistic-situations-theory-integration.md) — a narrower finding that bears on this claim
+- [Simulation with standardized patients supports theoretical-practical integration and spontaneous activation of clinical reasoning in first-year nursing students](simulation-supports-theory-practice-integration.md) — possibly the same claim (merge candidate)

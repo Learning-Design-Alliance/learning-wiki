@@ -49,3 +49,4 @@ Thematic analysis of open-ended survey responses following Braun and Clarke, fro
 - [Open-ended reflections most often highlighted realism of the simulation (51.5%), the simulation patient's role (32.0%), and interprofessional collaboration (20.6%)](mcleims-open-ended-themes.md) — related
 - [Qualitative findings indicate SVVR immersion enhanced engagement, concentration, perceived realism, patient assessment, clinical decision-making, and interdisciplinary collaboration](qualitative-immersion-enhanced-engagement-realism.md) — related
 - [Thematic analysis identified hands-on practice, contextualization, educator variety, and clinical application as key student-perceived themes](thematic-themes-scenario-feedback.md) — related
+- [Qualitative feedback from 20.5% of post-course survey respondents yielded five themes, with recommendations for scenario-based videos, more challenging quizzes, and offline resources](rush-mooc-qualitative-themes.md) — related

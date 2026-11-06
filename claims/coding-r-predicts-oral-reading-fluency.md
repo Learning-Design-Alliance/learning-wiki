@@ -55,3 +55,4 @@ Hierarchical regression in the same 62-child sample used a residualized Coding s
 - [Skill-specific genetic variance in working memory and processing speed predicts reading components](skill-specific-genetic-variance-predicts-reading-components.md) — related
 - [Children with ADHD perform worse than controls on WISC-IV Coding but not on Coding Copy, indicating deficits beyond graphomotor speed](adhd-coding-deficit-beyond-graphomotor-speed.md) — related
 - [Verbal and spatial working memory, and verbal attention span, explain unique variance in Coding beyond motor speed, symptom severity, and IQ](working-memory-explains-coding-variance.md) — related
+- [All three childhood cognitive measures (global EF, processing speed, working memory) significantly predicted adult math scores, and these predictive relations were not moderated by ADHD diagnosis](childhood-cognitive-predictors-adult-math-regressions.md) — related

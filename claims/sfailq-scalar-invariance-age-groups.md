@@ -55,3 +55,4 @@ Multi-group confirmatory factor analyses across the three age groups tested prog
 - [The same three-factor model of emergent writing fits both younger and older preschool children despite skill-level differences](three-factor-model-invariance-across-preschool-ages.md) — related
 - [The motivational measures show strict longitudinal measurement invariance across the two time points](strict-measurement-invariance-motivation-two-waves.md) — related
 - [Measurement invariance of the cognitive load, adaptability, and innovation model holds across teacher subgroups](cl-measurement-invariance-teacher-subgroups.md) — related
+- [Measurement invariance across test and questionnaire versions held at least at metric level, allowing versions to be combined in one analysis](measurement-invariance-test-versions.md) — related

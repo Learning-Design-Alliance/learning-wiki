@@ -53,6 +53,7 @@ The article recommends that teachers treat LLM output as a starting point for co
 - [Use generative AI as a brainstorming partner for divergent ideation while treating didactic transformation as a human responsibility](ai-as-brainstorming-partner-human-didactic-transformation.md)
 - [Educators gamify learning materials or create learning games using generative AI with iterative, phased prompting](gamifying-learning-materials-with-generative-ai.md)
 - [Use prompt-based LLM simulation and reflection via a web interface as a pre-class rehearsal for teaching plan refinement](prompt-based-web-interface-plan-enhancement.md)
+- [Hybrid pedagogical framework: AI-generated cases refined through expert review and supplemented with curated imaging data](hybrid-ai-expert-case-generation-framework.md)
 
 ## Examples
 -

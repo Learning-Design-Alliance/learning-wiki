@@ -68,3 +68,4 @@ Case analysis of one substantive correction in the generated worked example: the
 ## Related Claims
 - [Lesson designers identify generic feedback and unclear title-page and instruction sections as key weaknesses of LLM-generated lessons](llm-lesson-weaknesses-generic-feedback-clarity.md) — related
 - [LLM-generated lessons produced inauthentic references even when combined with RAG over verified academic papers](rag-does-not-ensure-citation-authenticity.md) — related
+- [16.67% (2/12) of LLM-generated ophthalmology cases contained hallucinations, including contradictory gonioscopy findings and inappropriate imaging modalities](llm-case-hallucinations-2-of-12.md) — related

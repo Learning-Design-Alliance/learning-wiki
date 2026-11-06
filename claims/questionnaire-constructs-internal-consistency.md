@@ -78,3 +78,4 @@ collaboration."
 - [The ICO-OCEX demonstrated high internal consistency with an overall Cronbach's alpha of 0.995](ico-ocex-internal-consistency-high-alpha.md) — related
 - [The satisfaction survey showed excellent internal consistency while the competence questionnaire showed borderline reliability](cblc-instrument-reliability-contrast.md) — related
 - [IAFEE-ECS® demonstrated high internal consistency with Cronbach's alpha of 0.993](iafee-ecs-cronbach-alpha-reliability.md) — related
+- [The FVS system showed internal consistency of task scores (Cronbach's α = 0.781) in the Ghanaian setting](fvs-internal-consistency-cronbach-ghana.md) — related

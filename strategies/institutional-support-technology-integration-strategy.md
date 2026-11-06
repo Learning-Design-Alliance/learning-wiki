@@ -55,6 +55,7 @@ Based on its findings, the article recommends a set of institutional actions to 
 - [Organize faculty digital competence development at the institutional level beyond a help desk model](beyond-help-desk-faculty-development.md)
 - [Teacher AI professional development should pair readiness-building with structured engagement with attribution and pedagogy](pd-pairs-readiness-with-attribution-engagement.md)
 - [Incorporate guided AI-based learning activities, structured training on responsible AI use, and institutional guidelines for AI integration](guided-ai-learning-activities-training-guidelines.md)
+- [Faculty development combining technology-adaptation support, contextualized TPACK capacity building, and growth mindset interventions](faculty-development-technostress-tpack-gm-support.md)
 
 ## Examples
 -

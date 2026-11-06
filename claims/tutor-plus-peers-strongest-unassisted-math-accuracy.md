@@ -74,3 +74,4 @@ Same Experiment-1 test-phase analysis of isomorphic problem variants solved unas
 - [Students show large immediate pre-to-post knowledge gains within a single LLM-supported learning session](large-immediate-gains-llm-supported-session.md) — related
 - [Access to a structured conversational AI tutor increased post-test content scores over a no-AI holdout with ambient consumer AI available](structured-ai-tutor-raises-post-test-scores-field-experiment.md) — related
 - [In a thermodynamics course, pairs working with a tutorial dialogue agent learned about 1.24 standard deviations more than students working alone, with partner and agent support synergistic rather than redundant](agent-plus-partner-synergy-1-24-sd.md) — related
+- [Zero scores on the course-requirements test occurred exclusively in the Traditional group, and most AI-group students reached five or more correct answers](zero-scores-only-traditional-group.md) — related

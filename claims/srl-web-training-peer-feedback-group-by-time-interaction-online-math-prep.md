@@ -137,3 +137,4 @@ Follow-up univariate repeated-measures ANOVAs in the same randomized trial: SRL 
 - [The interactive training program did not develop planning, locus of control, or self-confidence, which the authors attribute to prior knowledge and insufficient activities](program-failed-planning-locus-self-confidence.md) — related
 - [Online EI workshops combined with mindfulness training significantly predicted peer-assessed EI growth, while neither intervention alone did](online-ei-plus-mindfulness-significant-peer-growth.md) — related
 - [Pintrich SRL-based activities improve elementary teacher candidates' overall self-regulated learning perceptions](pintrich-srl-activities-improve-srl-perceptions.md) — a narrower finding that bears on this claim
+- [Self-reflection prompts do not improve self-reported confidence or self-efficacy despite observed skill gains](self-reflection-no-gain-self-reported-confidence-efficacy.md) — reports the opposite

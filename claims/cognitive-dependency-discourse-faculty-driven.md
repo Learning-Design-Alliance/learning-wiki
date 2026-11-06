@@ -52,3 +52,4 @@ Theme profiling of T01 Learning Quality & Cognitive Dependency (13,421 records, 
 - [Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access](ai-concerns-critical-thinking-plagiarism-nursing.md) — related
 - [Engineering faculty report reluctant engagement with GenAI, concerns about cognitive offloading, and frustration with uncoordinated institutional policy](faculty-reluctant-engagement-genai.md) — related
 - [Teachers express concern that student overreliance on AI may degrade independent thinking and hands-on scientific skills](teacher-concern-overreliance-ai-degrades-skills.md) — possibly the same claim (merge candidate)
+- [Participants report that excessive dependence on laboratory tests and imaging erodes students' clinical reasoning and history-taking skills.](paraclinical-dependence-erodes-reasoning-iran.md) — a narrower finding that bears on this claim

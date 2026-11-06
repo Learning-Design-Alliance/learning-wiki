@@ -53,3 +53,4 @@ Authors' own stated limitations in the Discussion: single institution, quasi-exp
 - [Control and PBL cohorts of kidney transplantation trainees were comparable at baseline on demographics, training exposure, and initial theoretical performance](pbl-kidney-transplant-cohorts-baseline-comparable.md) — related
 - [The study's evidence for effectiveness is limited to self-assessment; the authors note a possible mismatch with objectively measured skill acquisition, selection bias, and a 21.7% drop-out rate](self-assessment-limitation-ai-virtual-patient-pilot.md) — related
 - [The curriculum's generalizability is limited by a single-institution convenience sample and reliance on self-efficacy measures](otolaryngology-simulation-self-efficacy-study-limitations.md) — related
+- [A non-study-related internal medicine assessment showed no between-group differences, arguing against a Hawthorne effect explanation](internal-medicine-control-hawthorne-effect.md) — related

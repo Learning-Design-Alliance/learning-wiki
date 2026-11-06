@@ -50,6 +50,7 @@ The article recommends that although AI provides scalable educational support, "
 - [Audit AI vocal-assessment systems for bias, transparency, privacy, and recording-context robustness before evaluative use](responsible-assessment-context-audit-ai-vocal.md)
 - [Use independent expert physician review as a governance safeguard before deploying LLM-generated questions to learners](expert-physician-review-governance.md)
 - [Deploy the predictive model as a mid-semester triage tool with capacity-aligned thresholds, recalibration, non-punitive governance, and bias auditing](mid-semester-triage-deployment-strategy.md)
+- [Stratified human oversight and verification safeguards for clinical LLM deployment, scaled to task risk](stratified-human-oversight-clinical-llm-deployment.md)
 
 ## Examples
 -

@@ -48,3 +48,4 @@ Spearman correlation analysis in the same 261-student cross-sectional study; Tab
 - [Academic motivation is not significantly correlated with academic achievement in this sample](academic-motivation-no-correlation-achievement.md) — related
 - [Social well-being components explain 11.1% of variance in academic achievement, with social acceptance the significant predictor (β = 0.136) despite a null bivariate correlation](social-acceptance-predicts-achievement-regression.md) — related
 - [Interpersonal communication shows a significant negative partial association with GPA, consistent with a statistical suppressor effect rather than a substantive finding](ic-negative-partial-association-suppressor.md) — related
+- [GPA correlates negligibly with perceived academic success in non-medical healthcare students (r = .04, not significant)](gpa-insignificant-correlation-perceived-academic-success.md) — related

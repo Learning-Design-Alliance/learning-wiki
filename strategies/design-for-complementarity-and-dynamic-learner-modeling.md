@@ -49,6 +49,7 @@ The article's forward-looking design recommendations are threefold: use factoria
 - [Design AI-supported VET environments that augment human judgment and strengthen learner agency rather than replicating human instruction (avoiding the Turing Trap)](avoid-turing-trap-augment-human-judgment-vet-ai.md)
 - [Complement outcome measures with continuous process measures to assess social effects and enable adaptive pedagogical agents](process-measures-for-adaptive-pedagogical-agents.md)
 - [Adapt multi-agent AI roles to learners' prior knowledge and regulate agent participation dynamically from interaction cues](adaptive-agent-roles-by-prior-knowledge.md)
+- [Use AI chatbots to provide dynamic, personalized explanations that adapt to a student's specific misunderstandings](llm-dynamic-personalized-explanations-strategy.md)
 
 ## Examples
 -

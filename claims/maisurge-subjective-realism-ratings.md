@@ -47,3 +47,4 @@ Subjective evaluation on a 5-point Likert scale comparing the PVA model, a silic
 ## Related Claims
 - [On the MaiSurge model, expert gynecologists achieve significantly higher modified H-OSATS and general OSATS scores than novices performing a total laparoscopic hysterectomy](maisurge-differentiates-experts-novices-hosats.md) — related
 - [Approximately 92% of novices reported improved surgical performance after training on the MaiSurge model, while few experts did](maisurge-novices-perceived-improvement.md) — related
+- [3D-printed silicone models have tensile strengths close to human gastrointestinal tissue, and PVA/PAM hydrogel components match human tissue conductivity, thermal conductivity and viscoelasticity](3d-silicone-models-physical-properties-match-human-tissue.md) — related

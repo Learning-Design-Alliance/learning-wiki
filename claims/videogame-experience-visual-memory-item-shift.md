@@ -48,3 +48,4 @@ Pre/post survey responses on item 8 of the 9-item questionnaire. The article sta
 - [Trainee teachers shift toward agreement that videogames help develop the curriculum crosswise after experiencing one](videogame-experience-shifts-trainee-teacher-acceptance.md) — related
 - [After playing the videogame, 100% of students fully agreed with the heuristic (trial-and-error) thinking item; before playing, 94% were indifferent and 6% disagreed, based on self-reported responses in one single-group pre-post study](videogame-heuristic-thinking-unanimous-agreement.md) — related
 - [Students remained largely disagreeing that the videogame supports self-regulation of learning (continuous assessment)](videogame-self-regulation-item-stays-negative.md) — related
+- [The app embeds a 14-item pre/post assessment questionnaire with 5-level responses, 9 items shared across both surveys](pre-post-14-item-in-app-questionnaire.md) — related

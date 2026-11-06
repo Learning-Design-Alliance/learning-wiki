@@ -47,7 +47,8 @@ The article draws practical implications from its findings: measures of WM capac
 - [Cognitive deficits in children with ADHD are not permanent neuropsychological impairments and cognitive capacity can be modulated by motivation](../claims/adhd-cognitive-capacity-modulated-by-motivation.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Accommodate slower processing speed in academic interventions for children with ADHD, alongside existing WM-focused approaches](accommodate-processing-speed-adhd-interventions.md)
 
 ## Examples
 -

@@ -53,6 +53,7 @@ Based on nurses' feedback and the authors' recommendations, digital training pla
 - [Expand the VSP case library, stratify difficulty, and add richer interactivity and non-verbal cue capture](expand-vsp-case-library-and-nonverbal-cues.md)
 - [Support less digitally savvy learners with targeted digital scaffolding and add collaborative activities to AI-enhanced microlearning](digital-scaffolding-and-peer-interaction-microlearning.md)
 - [Iterate digital simulation platforms using trainee suggestions: add haptic feedback modules, case-discussion content, scoring and login tracking, and a streamlined interface](trainee-driven-platform-improvement-strategy.md)
+- [Future red flag trainings should keep asynchronous flexible learning, vary formats, and add complex vignettes with detailed background information](red-flag-training-enhancement-strategy.md)
 
 ## Examples
 -

@@ -78,6 +78,7 @@ The review recommends that training modalities be combined in a progressive curr
 - [Stepwise blended learning: train clinical reasoning with the AI chatbot first, then practice procedural and communication skills through PRP or standardized patients, with structured debriefing](stepwise-blended-chatbot-then-prp-osce-strategy.md)
 - [Three-stage instructional sequence: theoretical instruction, virtual simulation training, then phantom-head practice](three-stage-vs-irrigation-instructional-framework.md)
 - [Integrate formal VR education with hands-on clinical experiences in physical therapy curricula](integrate-formal-vr-education-hands-on.md)
+- [Prioritize competency-based training models integrating VR-based surgical practice and AI-assisted procedural assessments in dental education](competency-based-vr-ai-training-stomatology.md)
 
 ## Examples
 -

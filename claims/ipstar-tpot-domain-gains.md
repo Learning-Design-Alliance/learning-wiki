@@ -50,3 +50,4 @@ Pre-post comparison of TPOT scores (n = 12 sessions, Wilcoxon signed rank test) 
 - [Structured trauma resuscitation team training augmented by simulation improved teamwork domain ratings and reduced time to CT scanner, intubation, and operating room](simulation-augmented-team-training-improves-trauma-care-efficiency.md) — related
 - [SBS-trained students show higher non-technical skills (ANTS) overall, driven by teamwork and situation awareness but not task management or decision-making](sbs-higher-ants-teamwork-situation-awareness.md) — related
 - [App use shows no clear difference in teamwork (TEAM) or non-technical skills (ANTS) scores](app-no-team-ants-difference.md) — reports the opposite
+- [Teams score best in situation monitoring and worst in mutual support, with profession-specific strengths across TeamSTEPPS domains](teamstepps-domain-strengths-by-profession.md) — related

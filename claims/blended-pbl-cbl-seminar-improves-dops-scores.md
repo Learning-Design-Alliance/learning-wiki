@@ -51,3 +51,4 @@ Post-teaching DOPS comparison in the same RCT (n=58, 29 per group) showed the ex
 - [Blended PBL-CBL-seminar chairside teaching improves Mini-CEX clinical competence scores versus LBL in fourth-year dental students](blended-pbl-cbl-seminar-improves-mini-cex-scores.md) — related
 - [Integrated online-PBL-CBL teaching improves six DOPS procedural dimensions but not overall DOPS performance](online-pbl-cbl-dops-six-dimensions-improved.md) — related
 - [Procedural skill (DOPS) scores of digitally-CBL-trained novices do not differ significantly from traditionally trained specialists](digital-cbl-dops-scores-comparable.md) — related
+- [SOM-PBL improves monitoring technology application and adverse-event management subdomains but not clinical decision-making or aseptic technique](som-pbl-subdomain-mixed-results.md) — related

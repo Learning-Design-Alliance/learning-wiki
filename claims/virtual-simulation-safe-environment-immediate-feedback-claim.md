@@ -52,3 +52,4 @@ The article asserts this in its introduction citing prior literature (references
 - [Students perceived community care simulation scenarios as realistic and valuable for applying theory, clinical reasoning and communication](ccs-perceived-strengths-realism-reasoning-communication.md) — a narrower finding that bears on this claim
 - [Clinical simulation is perceived as a safe environment that allows learning from mistakes without risk to patients](simulation-safe-environment-learning-from-errors.md) — a narrower finding that bears on this claim
 - [Structured debriefing is reported to enhance clinical skills and affect patient care outcomes](structured-debriefing-enhances-clinical-skills.md) — related
+- [Virtual dissection tables allow students to practice procedures in a low-risk environment where errors can be recognized and virtually reverted without consequences](vdt-low-risk-error-recovery-practice.md) — related

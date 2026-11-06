@@ -59,6 +59,7 @@ The review recommends treating GTA programmes as part of a broader educational s
 - [Integrate simulation as a curriculum-embedded component with trained instructors and technological infrastructure](embed-simulation-in-curriculum-strategy.md)
 - [Expand simulation-based teaching to additional physiology practicals and organ systems](expand-simulation-across-physiology-curriculum.md)
 - [Evaluate short-term teaching innovations with longitudinal, skills-based assessments and delayed post-tests rather than a single written test](longitudinal-skills-based-assessment-recommendation.md)
+- [Stakeholder-recommended improvements: better SP compensation and breaks, backup rosters, hybrid training, and clinical faculty involvement](stakeholder-sp-programme-improvement-strategies.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ Bivariate correlation analysis (Table 3) in the same survey: narrative competenc
 - [Nursing professional values mediate the relationship between digital literacy and narrative competence](professional-values-mediate-digital-literacy-narrative-competence.md) — related
 - [Chinese nursing students show moderate narrative competence, with only 16.1% at the strong level](nursing-students-moderate-narrative-competence-16-percent-strong.md) — related
 - [Narrative competence differs by leadership experience, family atmosphere, extroversion, and liking the major, but not by gender, residence, or practicum experience](narrative-competence-demographic-differences-nursing-students.md) — related
+- [Self-directed learning total score correlates weakly but significantly and directly with clinical competence total score among third- and fourth-year nursing students](sdl-weak-significant-direct-correlation-clinical-competence.md) — related

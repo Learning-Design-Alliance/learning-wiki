@@ -13,7 +13,7 @@ generated:
 # Social Supports
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 134 claims (100 show a difference, 22 mixed, 12 no difference) · 104 studies (35 associational, 17 causal, 17 review, 16 qualitative, 8 theoretical, 7 quant-synthesis, 4 design), `q1`–`q3` · 13 of 104 report an effect size · 134 claims rest on one study
+> **Evidence** · 136 claims (102 show a difference, 22 mixed, 12 no difference) · 105 studies (36 associational, 17 causal, 17 review, 16 qualitative, 8 theoretical, 7 quant-synthesis, 4 design), `q1`–`q3` · 14 of 105 report an effect size · 136 claims rest on one study
 
 ## Description
 Social supports are the people available to help a learner if needed, and the learner's perception that they are there: parents and family, friends and classmates, teachers and other school staff, and the wider community. The support they give can be emotional (care and compassion), appraisal (useful feedback), instrumental (time, money, resources) and informational (advice). The LVN stresses perception: feeling that support would be there, even if it is never called on, contributes to well-being and academic success, and help that is actually received can strengthen that perception and a learner's sense of efficacy. Effective support looks different across families and cultures and can be provided across income levels; what matters is what the people around a learner do. Supports can be eroded by family separation, bereavement, parental imprisonment, substance misuse or illness, by bullying and discrimination, and by moving schools, and a relationship with another trusted adult can partly make up for that. It is measured with perceived-support scales for children, adolescents and adults. It overlaps with [belonging](belonging.md) and with the [home learning environment](home-learning-environment.md).
@@ -170,6 +170,8 @@ Social supports are the people available to help a learner if needed, and the le
 - [Perceived emotional support from peers positively predicts personally referred performance self-talk, self-efficacy enhancement and enhancement of situational interest in secondary students](../claims/emotional-peer-support-predicts-motivational-regulation-strategies.md) [+M] — learners who differ on it differ in outcomes
 - [Social support directly and positively predicts English academic achievement among Chinese secondary school students](../claims/social-support-predicts-english-achievement.md) [+W] — learners who differ on it differ in outcomes
 - [English academic self-concept did not significantly moderate the association of social support with foreign language boredom](../claims/boredom-path-not-moderated-by-self-concept.md) [+M] — learners who differ on it differ in outcomes
+- [Parental involvement has a significant positive direct effect on middle school students' mathematics performance](../claims/parental-involvement-direct-effect-math-performance.md) [+M] — learners who differ on it differ in outcomes
+- [Teacher support and parental involvement correlate positively with self-efficacy, buoyancy, and mathematics performance](../claims/support-correlations-noncognitive-math.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

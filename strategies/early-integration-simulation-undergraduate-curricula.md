@@ -66,6 +66,8 @@ The authors recommend formally embedding simulation-based learning into undergra
 - [Integrate occupational adaptive learning with simulation training, case studies, and interdisciplinary collaboration to strengthen clinical pharmacist preparation](integrate-adaptive-learning-with-simulation-case-studies.md)
 - [Integrate ATLS-based simulation programs into nursing curricula](integrate-atls-simulation-into-nursing-curricula.md)
 - [Incorporate structured dental traumatology content into the medical curriculum using active, practical formats such as simulations, interactive case studies, and workshops](structured-dental-trauma-education-active-formats.md)
+- [Integrate the DNH model into structured ESD curricula via simulation workshops with progressive difficulty and bleeding scenarios](dnh-model-structured-curriculum-workshops.md)
+- [Include simulation-based experiences with standardized patients focused on basic care from the early stages of nursing education](early-basic-care-sbe-with-standardized-patients.md)
 
 ## Examples
 -

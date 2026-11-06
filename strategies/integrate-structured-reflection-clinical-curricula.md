@@ -55,6 +55,7 @@ The authors recommend that "clinical education programmes incorporate reflective
 - [Integrate EI into health sciences curricula through structured experiential methods such as reflective journaling, simulation, peer mentoring, and structured debriefing](ei-experiential-curriculum-integration-strategy.md)
 - [Embed simulation-based scenarios into the curriculum as structured learning modules with guided debriefings and reflective exercises](simulation-modules-debriefing-strategy.md)
 - [Scaffold method choice by student progression: CBL early, transitioning to PBL and TBL](scaffold-cbl-early-transition-pbl-tbl.md)
+- [Integrate PBL modules into existing clinical nursing curricula to cultivate reflective thinking and engagement](integrate-pbl-modules-clinical-curricula-strategy.md)
 
 ## Examples
 -

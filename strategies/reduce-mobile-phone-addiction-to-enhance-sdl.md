@@ -45,6 +45,7 @@ The article recommends intervening on mobile phone addiction to strengthen self-
 ## Related Strategies
 
 - [Implement dual-focused nursing curricula combining communication skills training with alexithymia reduction and self-efficacy enhancement](dual-focused-alexithymia-self-efficacy-nursing-curriculum.md)
+- [Add SDL components to nursing curricula and teach SDL skills through training courses, workshops, and problem-based, student-centered methods](sdl-components-and-training-courses-strategy.md)
 
 ## Examples
 -

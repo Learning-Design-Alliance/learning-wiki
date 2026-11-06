@@ -68,3 +68,4 @@ A second decomposition result stated in the abstract and supported by the articl
 - [RMPW was applied to test whether employment mediated the effect of an experimental welfare-to-work program on maternal depression](rmpw-application-welfare-to-work-maternal-depression.md) — a narrower finding that bears on this claim
 - Correct specification of the mediator propensity score models is crucial when parametric RMPW is applied — related
 - RMPW requires relatively few assumptions about outcome and mediator distributions and outcome-model functional form compared with model-based alternatives — related
+- [The blended model's effect on clinical skills scores splits into a direct pedagogical effect and an indirect effect mediated by increased training time](mediation-direct-pedagogical-effect-plus-training-time.md) — a narrower finding that bears on this claim

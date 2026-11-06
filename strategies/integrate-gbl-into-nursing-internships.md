@@ -49,7 +49,8 @@ The article recommends integrating game-based strategies into nursing curricula 
 - [Game-based learning in a mental health nursing internship significantly improves nursing students' self-directed learning, with large within-group effects sustained at one-month follow-up](../claims/gbl-improves-self-directed-learning-nursing.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Incorporate game-based mobile study guides into nursing education for clinical assessment skills](incorporate-game-based-study-guides-nursing-education.md)
 
 ## Examples
 -

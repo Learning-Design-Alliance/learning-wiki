@@ -95,3 +95,4 @@ Manual error analysis found missed nuanced evidence mainly in long learning acti
 - [Authoring by Tutoring produces fewer errors of all types than Authoring by Demonstration](tutoring-fewer-error-types-than-demonstration.md) — related
 - [Hallucination — the generation of inaccurate, unverified, or illogical content — is the most frequently reported technical challenge for LLMs in dental education](hallucination-most-frequent-technical-challenge.md) — related
 - [An exploratory LLM-judge audit labels knowledge gaps (39.1%) and reasoning errors (26.9%) as the most frequent failure modes among incorrect frontier-model responses](llm-judge-audit-failure-modes.md) — related
+- [16.67% (2/12) of LLM-generated ophthalmology cases contained hallucinations, including contradictory gonioscopy findings and inappropriate imaging modalities](llm-case-hallucinations-2-of-12.md) — a narrower finding that bears on this claim

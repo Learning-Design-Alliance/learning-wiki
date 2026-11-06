@@ -57,3 +57,5 @@ Qualitative arm: written responses to open questions after training were coded a
 - [Perceived realism of virtual patient scenarios and comfort interacting in VR rose substantially from pre to post (realism 2.9 to 4.4; VR comfort 3.0 to 4.6)](vr-pilot-realism-comfort-gains.md) — related
 - [All 37 respondents affirmed that OSCEai filled a gap in their medical training](osceai-fills-training-gap.md) — related
 - [Participants perceived the VR camera navigation test as realistic and reflective of their true clinical operational level](participants-perceive-vr-test-realistic-reflective.md) — a narrower finding that bears on this claim
+- [Male undergraduate nursing students in the UAE perceive maternity simulation as practice that mirrors realistic clinical situations and improves their knowledge and skills](male-nursing-students-perceive-simulation-realistic-knowledge-skills.md) — related
+- [Scenario realism and interaction with standardized patients, rather than mannequins, generate immersion and emotional involvement in novice nursing students](sp-realism-drives-immersion-and-involvement.md) — related

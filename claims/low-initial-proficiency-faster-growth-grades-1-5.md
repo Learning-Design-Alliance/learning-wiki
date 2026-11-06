@@ -53,3 +53,4 @@ Conditional latent growth curve models on 5,912 students from one large Texas di
 - [Lower SES predicted slower reading and math growth, with the largest SES differences in growth occurring in Grade 1](ses-predicts-slower-reading-math-growth.md) — related
 - [Math self-efficacy trajectories differ in initial math skills and rate of math skill development](math-skills-differ-across-se-trajectories.md) — related
 - [Training-aid effectiveness did not differ for lower- versus higher-proficiency mechanics](training-aid-effectiveness-independent-of-proficiency.md) — related
+- [RD-only children improve faster than MD-only children on Math Fluency and Applied Problems, widening the score gap, while MD-only children outpace RD-only children in Passage Comprehension growth](cross-domain-growth-rate-differences-md-rd.md) — related

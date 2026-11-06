@@ -54,3 +54,4 @@ Independent t-test of CASP-rubric critique scores, double-rated (Cohen's kappa a
 - [BOPPPS-based blended teaching produces significantly higher final examination and process assessment scores than traditional lecture-based teaching](boppps-higher-final-exam-process-assessment.md) — related
 - [Mobile learning applications improve undergraduate academic achievement compared with traditional lecture-based instruction](mobile-learning-improves-achievement-quasi-experiment.md) — related
 - [Total academic performance favored the blended AI-integrated curriculum group but the difference was not statistically significant](total-performance-nonsignificant-trend-blended-ai-curriculum.md) — related
+- [No significant differences between chatbot and traditional groups in total completion time, time per question, or question revisits](no-time-or-navigation-differences-chatbot.md) — related

@@ -51,3 +51,4 @@ Ablation study reported in the training section comparing the novel KL-divergenc
 - [Fine-tuning LLMs and MLMs with cross-entropy loss using soft targets outperforms standard discretization and regression-head approaches on vocabulary difficulty prediction](soft-target-finetuning-beats-standard-loss-vocabulary-difficulty.md) — related
 - [Removing student major from the input marginally improves TRACE performance, suggesting major is recoverable from course history](major-ablation-no-predictive-signal.md) — related
 - [A multitask matrix factorization approach that jointly learns grades across multiple assessment labels outperforms a single-task (binary relevance) baseline that learns each label separately.](multitask-matrix-factorization-outperforms-single-task-baseline.md) — related
+- [Hard-sample filtering threshold τ = 0.2 and orientation loss weight λ = 0.05 yield the best detection–orientation balance](tau-lambda-ablation-optimal-settings.md) — related

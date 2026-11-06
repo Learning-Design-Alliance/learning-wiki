@@ -45,6 +45,7 @@ The article's future-directions section recommends three advancement pathways, w
 - [Implement AI in assessment as a hybrid support tool for low-stakes, formative stages while humans retain final grading authority](hybrid-ai-human-assessment-implementation.md)
 - [Use hybrid architectures in which KG-grounded classifiers handle diagnosis while LLMs provide open-ended scaffolding and dialogue](hybrid-kg-diagnosis-llm-scaffolding-architecture.md)
 - [Frame LLM use in biomedical education around low‐stakes formative tasks with expert‐guided verification and rationale requests](llm-low-stakes-formative-use-expert-verification-strategy.md)
+- [Use AI chatbots as supportive, non-autonomous supplements in dental education and practice, with expert oversight](ai-as-supplementary-non-autonomous-dental-tool.md)
 
 ## Examples
 -

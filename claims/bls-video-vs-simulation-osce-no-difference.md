@@ -54,3 +54,5 @@ Prospective randomized controlled trial; 121 fourth-year medical students random
 - [Scenario-based simulation yields higher post-test knowledge scores than video-based training in anaesthesia undergraduates learning perioperative anaphylaxis management](sbs-higher-post-test-than-vbt-perioperative-anaphylaxis.md) — related
 - [Scenario simulation combined with case teaching improved doctor-patient communication skills more than traditional lecture-based training](scenario-simulation-improves-doctor-patient-communication.md) — related
 - [Mentored simulation training with a 3D-printed coronary simulator produced higher procedural efficacy scores than conventional video training in final-year medical students](simulation-training-higher-ica-efficacy-score.md) — related
+- [SOM-PBL produces no significant improvement in procedural skills compared with traditional teaching](som-pbl-no-procedural-skills-gain.md) — related
+- [SP-based training produced no statistically significant difference in final OSCE scores compared with traditional instruction, with a small negative effect size](sp-training-no-significant-osce-difference.md) — related

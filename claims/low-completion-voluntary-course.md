@@ -51,3 +51,4 @@ Descriptive participation statistics from the results overview of 199 registrant
 - [Intrinsic motivation was associated with full participation (χ21=4.03; P=.045)](intrinsic-motivation-full-participation.md) — related
 - [A review of music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes](moocs-low-completion-embodied-music-learning.md) — a broader claim this one bears on
 - [Viewing of the personalized AI videos declined sharply across the quarter, with views of the first week-9 video set suggesting fewer than 10% of the course population was watching voluntarily by the end of the course](video-views-declined-across-quarter.md) — related
+- [High early dropout (65% after the first registration page) means feasibility findings may reflect a self-selecting subset](early-dropout-limits-feasibility-interpretation.md) — related

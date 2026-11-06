@@ -53,3 +53,4 @@ Baseline comparison in the randomized trial (Table 2): age (P = 0.351), sex (P >
 - [PBL-DeepSeek students show higher Mini-CEX clinical competence across all seven domains than traditionally taught students](deepseek-pbl-minicex-clinical-gains.md) — related
 - [The two groups were comparable in gender, age, and educational background before instruction](3d-visualization-pbl-groups-comparable-baseline.md) — related
 - [Control and PBL cohorts of kidney transplantation trainees were comparable at baseline on demographics, training exposure, and initial theoretical performance](pbl-kidney-transplant-cohorts-baseline-comparable.md) — related
+- [The VFB and GD groups were statistically comparable at baseline on demographics and OSLER scores](vfb-gd-baseline-equivalence.md) — related
