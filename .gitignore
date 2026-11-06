@@ -11,7 +11,9 @@ venv/
 # eval harness: cached article text (may be copyrighted full text) and
 # per-run outputs (regenerable, and can be large across many model x article
 # pairs) — never committed. Keep eval/corpus/manifest.json and eval/README.md.
-eval/corpus/cache/
+# no trailing slash: a worktree's symlink to the cache is not a directory, and
+# "cache/" let one be committed, which replaced the real cache on merge.
+eval/corpus/cache
 eval/corpus/.discovery_cache.json
 eval/corpus/manifest_*.json
 eval/corpus/doi_resolution_cache.json
