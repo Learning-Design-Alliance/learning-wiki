@@ -46,7 +46,7 @@ Cross-sectional questionnaire survey of 120 final-year clinical medicine interns
 
 ## Related Claims
 - [The study's single-center, no-control-group, cross-sectional design limits attribution of positive perceptions to the Mini-CEX integration](single-center-no-control-design-limits-attribution.md) — related
-- [AI simulation improves Mini-CEX medical interviewing skills and organization/efficiency but not professionalism, clinical judgment, counseling, or overall competence](ai-simulated-patient-minicex-domains-gynecology.md) — related
+- [AI simulated-patient practice improved Mini-CEX medical interviewing and organization/efficiency scores, with no significant difference detected in professionalism, clinical judgment, counseling, or overall competence](ai-simulated-patient-minicex-domains-gynecology.md) — related
 - [AI-Mentor pilot improves overall clinical competence on Mini-CEX from pretest to posttest](ai-mentor-pilot-improves-overall-mini-cex.md) — related
 - [AI-assisted PBL-CBL combined teaching yields higher Mini-CEX scores than lecture-based teaching in interviewing, physical examination, clinical judgment and communication, with no statistically significant difference in humanistic qualities/professionalism or organization/efficiency](ai-pbl-cbl-improves-mini-cex-clinical-reasoning-domains.md) — related
 - [AI-Mentor pilot yields the largest gains in reasoning-aligned Mini-CEX domains, notably clinical judgment](ai-mentor-largest-gains-reasoning-domains.md) — related

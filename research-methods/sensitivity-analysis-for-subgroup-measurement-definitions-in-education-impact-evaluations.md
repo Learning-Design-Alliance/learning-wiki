@@ -22,7 +22,7 @@ The article recommends that subgroup measurement decisions in preschool evaluati
 - **Preschool evaluators should state which special needs subgroup they intend to study and formally assess the sensitivity of impact estimates to measurement decisions**: The article recommends that subgroup measurement decisions in preschool evaluations be deliberate and tested rather than default. The authors "recommend that researchers be clear on which possible special needs subgroup they are interested in studying" and that analytic decisions be guided by hypotheses about why students identified under a definition might experience programs differently. They further advise that "future studies should formally assess the impact of any measurement decisions", both by describing subgroup composition under each definition and by testing estimate sensitivity. (Anna Shapiro et al. (2019))
 
 ### Claims
-- [Estimated intent-to-treat effects of Head Start on cognitive and socioemotional outcomes for children with special needs are sensitive to how the subgroup is defined, with consistently larger effects under the IEP definition](../claims/hs-itt-effects-sensitive-subgroup-definition.md) [+M]
+- [Estimated intent-to-treat effects of Head Start for children with special needs are sensitive to how the subgroup is defined, with consistently larger cognitive effects under the IEP definition](../claims/hs-itt-effects-sensitive-subgroup-definition.md) [+M]
 
 ## Related Research Methods
 -

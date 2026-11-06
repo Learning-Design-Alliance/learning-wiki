@@ -52,4 +52,4 @@ Spearman correlation analysis of T0–T1 change scores in the same cohort (Table
 - [In one uncontrolled pre-post study, non-dominant-hand dexterity rose as sensitivity fell in certain fingers](dexterity-gain-inverse-nondominant-sensitivity-correlation.md) — related
 - [Grip strength significantly decreases after the dexterity-focused home training programme (medium effect)](grip-strength-decreases-after-dexterity-training.md) — related
 - [Dental students' two-point discrimination thresholds fell in both hands after a home training programme, in a single-group pre-post study with no control (per-finger r up to 0.55)](home-training-improves-tactile-sensitivity-dental-students.md) — related
-- [Manual dexterity scores rose from pre-test to post-test after an eight-week home training programme in first-year dental students (small effect, both hands)](home-training-improves-dental-student-dexterity.md) — related
+- [Manual dexterity improved from pre-test to post-test after an eight-week home training programme in first-year dental students (small effect, both hands)](home-training-improves-dental-student-dexterity.md) — related

@@ -44,7 +44,7 @@ The article describes a teaching pattern that "divides the teaching process into
 - [Boppps Flipped Higher Og Resident Assessment Scores](../claims/boppps-flipped-higher-og-resident-assessment-scores.md) [+M]
 - [Boppps Flipped Higher Pta Clinical Thinking](../claims/boppps-flipped-higher-pta-clinical-thinking.md) [+M]
 - [Boppps Flipped Higher Sdlrs Self Directed Learning](../claims/boppps-flipped-higher-sdlrs-self-directed-learning.md) [+M]
-- [BOPPPS-based blended teaching produces significantly higher final examination and process assessment scores than traditional lecture-based teaching](../claims/boppps-higher-final-exam-process-assessment.md) [+W]
+- [In one nonrandomised quasi-experiment, a BOPPPS-based blended teaching class scored significantly higher on final examination and process assessment than a traditional lecture-based class](../claims/boppps-higher-final-exam-process-assessment.md) [+W]
 
 ## Related Designs
 

@@ -46,4 +46,4 @@ Training-trajectory analysis of the PT track (RQ1 discussion, Table 3 and Figure
 
 
 ## Related Claims
-- [GRPO alignment without the directness reward raises Socratic scaffolding effectiveness from 0.300 to 0.633 and cuts keyword leakage from 26.7% to 13.3% on held-out questions](grpo-without-directness-raises-socratic-scaffolding-effectiveness.md) — related
+- [GRPO alignment without the directness reward raises Socratic scaffolding effectiveness from 0.300 to 0.633 and cuts keyword leakage from 30.0% to 13.3% against the prompt-only base on held-out questions](grpo-without-directness-raises-socratic-scaffolding-effectiveness.md) — related

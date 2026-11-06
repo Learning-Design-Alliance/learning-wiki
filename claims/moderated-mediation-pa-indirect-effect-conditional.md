@@ -51,5 +51,5 @@ Moderated mediation models (Table 4) tested with PROCESS in the GRaD sample; the
 ## Related Claims
 - [The observed gene-by-environment pattern supports the diathesis-stress model over the bioecological model of G × E interaction on reading, in this sample of unrelated children](diathesis-stress-model-supported-reading-gxe.md) — related
 - [Parental education and SES moderate the relationship between RU2-Short and reading outcomes](home-environment-moderates-read1-reading-link.md) — a broader claim this one bears on
-- [Phonological awareness mediates the effect of the DCDC2-READ1 RU2-Short allele on word reading accuracy, word reading fluency, and reading comprehension](phonological-awareness-mediate-read1-reading-outcomes.md) — related
+- [Phonological awareness statistically mediates the association between the DCDC2-READ1 RU2-Short allele and word reading accuracy, word reading fluency, and reading comprehension](phonological-awareness-mediate-read1-reading-outcomes.md) — related
 - [RU2-Short correlates negatively with phonological awareness and reading comprehension, and positively with SES, in the overall sample](ru2-short-small-correlations-pa-comprehension-ses.md) — related

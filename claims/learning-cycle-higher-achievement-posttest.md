@@ -47,5 +47,5 @@ Pretest-posttest quasi-experiment with 65 4th-grade students in two randomly ass
 ## Related Claims
 - [Learning cycle approach-based teaching produced higher motivation scale post-test scores than teacher-centered teaching](learning-cycle-higher-motivation-posttest.md) — related
 - [Learning cycle approach-based teaching did not significantly change attitudes towards science course compared with teacher-centered teaching](learning-cycle-no-attitude-difference.md) — related
-- [Fifth-grade students taught science through inquiry-based instruction supported by the 5E learning cycle achieved significantly higher post-test scores than students taught by traditional methods](5e-inquiry-higher-achievement-than-traditional.md) — related
+- [In a quasi-experiment with 40 fifth-grade girls in Kermanshah, Iran, those taught science through inquiry-based instruction supported by the 5E learning cycle achieved significantly higher post-test scores than those taught by traditional methods](5e-inquiry-higher-achievement-than-traditional.md) — related
 - [Learning cycle approach-based teaching produced higher retention test scores eight months after implementation](learning-cycle-higher-retention-8-months.md) — related

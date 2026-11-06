@@ -40,7 +40,7 @@ Because the BOPPPS-based blended teaching model and traditional lecture-based te
 ## Claims
 
 - [Self-reported disaster nursing competency rose more in a BOPPPS-based blended disaster-nursing elective than with no disaster-nursing instruction, but not significantly more than in the same elective taught by lecture](../claims/boppps-blended-teaching-disaster-nursing-competency-gains.md) [+W]
-- [BOPPPS-based blended teaching produces significantly higher final examination and process assessment scores than traditional lecture-based teaching](../claims/boppps-higher-final-exam-process-assessment.md) [+W]
+- [In one nonrandomised quasi-experiment, a BOPPPS-based blended teaching class scored significantly higher on final examination and process assessment than a traditional lecture-based class](../claims/boppps-higher-final-exam-process-assessment.md) [+W]
 - [BOPPPS-based blended teaching produces significantly higher overall course scores than traditional lecture-based teaching](../claims/boppps-higher-overall-course-scores.md) [+W]
 - [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](../claims/blended-boppps-higher-total-scores.md) [+W]
 

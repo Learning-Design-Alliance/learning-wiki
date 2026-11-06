@@ -67,5 +67,5 @@ ADE twin model (Model 2) variance decomposition (Table 2). For school performanc
 - [Personality Traits](../learner-variables/personality-traits.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Direct causal effects of self-control and grit account for only 4.4% of school performance variance, with self-control the stronger causal predictor](causal-effects-only-4-percent-school-performance.md) — related
+- [In a causal twin model, the putatively causal effects of self-control and grit account for only 4.4% of school performance variance, most of the association being genetic confounding](causal-effects-only-4-percent-school-performance.md) — related
 - [Teacher-rated self-control and grit jointly explain 28.4% of the variance in school performance in standard phenotypic regression](self-control-grit-explain-28-percent-school-performance.md) — related

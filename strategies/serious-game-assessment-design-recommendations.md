@@ -41,7 +41,7 @@ The review derives four recommendations for practice: design the serious game so
 
 ## Claims
 
-- [Serious games can provide an authentic physical context and task for professional competencies, though a small number of successful games used neither](../claims/serious-games-authentic-context-task.md) [+W]
+- [Serious games can provide an authentic physical context and task for professional competencies, though a few successful games lacked an authentic physical context or an authentic task](../claims/serious-games-authentic-context-task.md) [+W]
 - [In-game behaviors collected unobtrusively in serious games show promising relationships with candidate ability level in the target professional competency](../claims/in-game-behavior-indicates-ability.md) [+W]
 
 ## Related Strategies

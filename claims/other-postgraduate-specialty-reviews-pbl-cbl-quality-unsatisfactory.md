@@ -49,7 +49,7 @@ The review reports, citing three prior studies, that PBL appeared more effective
 - [Self-Efficacy](../learner-variables/self-efficacy.md) — outcome: instruction changes it
 
 ## Related Claims
-- [In a randomised trial of 80 first-year postgraduate oncology trainees, CBL produced significantly higher examination scores and satisfaction than traditional lecture-based learning, though confidence intervals crossed the null for examination results](bi-rct-cbl-higher-posttest-scores-satisfaction.md) — related
+- [In a randomised trial of 80 first-year postgraduate oncology trainees, a CBL group that also had PowerPoint teaching reported significantly higher examination scores and satisfaction than lecture-based teaching, though confidence intervals crossed the null for examination results](bi-rct-cbl-higher-posttest-scores-satisfaction.md) — related
 - [Case-based discussions show evidence of reasoning and learning occurring and are perceived as useful for teaching and learning by oncology registrars and consultants](cbd-evidence-of-reasoning-and-learning-perceived-useful.md) — a narrower finding that bears on this claim
 - [Case-based learning is viewed positively by practicing doctors, with all eligible postgraduate studies reporting favourable perceptions](cbl-viewed-positively-practicing-doctors.md) — related
 - Only three studies met eligibility criteria for case-based learning in postgraduate medical oncology, totalling 111 participants, indicating a paucity of data in this field — related

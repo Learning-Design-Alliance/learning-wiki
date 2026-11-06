@@ -75,7 +75,7 @@ The article reports, citing Garbayo et al. (2023), a replication in high-fidelit
 - [Most preservice teachers were overconfident in the completeness of their fraction comparison explanations at both first draft and revision](pst-overconfidence-fraction-explanation-calibration.md) — related
 - [The tribute reports students tend to overestimate their sport performance, and four-level model instruction may improve calibration accuracy](students-overestimate-sport-performance-calibration.md) — related
 - [AI support can improve task performance while weakening users' metacognitive accuracy and leaving their own reasoning unimproved](ai-performance-metacognition-dissociation.md) — related
-- [Self-assessment accuracy in PBL depends on achievement level: low achievers graded generously, high achievers accurately](self-assessment-accuracy-achievement-level-pbl.md) — related
+- [Self-assessment accuracy in PBL depends on achievement level: low achievers graded generously, high achievers graded themselves harshly but their peers accurately](self-assessment-accuracy-achievement-level-pbl.md) — related
 - [Email-detection confidence judgments show good calibration but poor resolution, with aggregate overconfidence of 18%](phishing-metacognition-good-calibration-poor-resolution.md) — a narrower finding that bears on this claim
 - [Hard-easy effect: students are more accurate but underconfident on easy items and less accurate but overconfident on difficult items](hard-easy-effect-calibration.md) — related
 - [Secondary students tend to overestimate their text comprehension, though monitoring is relatively accurate in this sample](students-overestimate-text-comprehension-delayed-diagramming.md) — related

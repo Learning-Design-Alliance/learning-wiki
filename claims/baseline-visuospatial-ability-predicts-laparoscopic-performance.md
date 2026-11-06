@@ -75,4 +75,4 @@ Pearson correlations at baseline (T1) between the 3D visuospatial T-score and la
 - [tDCS showed no independent effect on camera navigation or hand–eye coordination outcomes in laparoscopic training](tdcs-no-effect-camera-navigation-hand-eye.md) — related
 - [Male participants performed significantly better than females in final camera navigation and bimanual coordination, but not hand–eye coordination](sex-difference-laparoscopic-final-performance.md) — related
 - [No significant associations between baseline anatomical knowledge or visuospatial ability and ultrasound performance](no-baseline-predictors-ultrasound-performance.md) — reports the opposite
-- [Spatial visualizers (SPAT) outperformed object visualizers and verbalizers across all laparoscopic training modalities and performance domains](spatial-learners-outperform-other-cognitive-styles.md) — related
+- [Spatial visualizers (SPAT) outperformed object visualizers and verbalizers across all performance domains on a laparoscopic clip-applying task, pooled across training modalities](spatial-learners-outperform-other-cognitive-styles.md) — related

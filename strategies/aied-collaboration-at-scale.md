@@ -40,7 +40,7 @@ The paper argues that current MOOCs use simple technology—video, quizzes, foru
 
 - [MOOCs failed to deliver on their proponents' promises of transforming higher education](../claims/moocs-failed-to-deliver-on-promises.md) [-W]
 - [MOOC video engagement declines with video length, with median engagement under half the duration for videos longer than nine minutes](../claims/mooc-engagement-declines-with-video-length.md) [-W]
-- [A review of music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes](../claims/moocs-low-completion-embodied-music-learning.md) [-W]
+- [A discussion article on music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes](../claims/moocs-low-completion-embodied-music-learning.md) [-W]
 - [A University of Pennsylvania study found only about half of MOOC registrants viewed a lecture and only about four percent finished a course entirely](../claims/mooc-completion-four-percent.md) [-W]
 - [The UDMOOC reaches a learner demographic unlike typical MOOC cohorts, with a 42% completion rate](../claims/udmooc-reaches-underserved-demographics-42-percent-completion.md) [~W]
 

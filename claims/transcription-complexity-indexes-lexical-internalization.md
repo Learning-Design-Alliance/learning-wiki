@@ -48,4 +48,4 @@ The article reports that performance varied with transcription regularity of the
 ## Related Claims
 - [Typically developing children benefit from both handwriting and typing when learning novel words](td-children-benefit-from-both-writing-modalities.md) — related
 - [All narrative microstructure measures increase with age group, but only lexical diversity (NDW) differs between Japanese–English bilingual and English monolingual children](ndw-only-language-group-difference-narrative-microstructure.md) — related
-- [No macrostructure measure differs significantly between bilingual and monolingual children, while age improves story structure, internal state terms, comprehension, and aggregate scores but not structural complexity](macrostructure-stable-across-language-groups.md) — related
+- [No macrostructure measure differs significantly between bilingual and monolingual children, while school-age children score higher than preschoolers on story structure, internal state terms, comprehension, and aggregate scores but not structural complexity](macrostructure-stable-across-language-groups.md) — related

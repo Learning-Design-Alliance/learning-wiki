@@ -53,6 +53,6 @@ Systematic review synthesis of 22 correlational and 4 comparative studies (26 in
 
 - [Increased image rotation and suboptimal camera and monitor angles degrade MIS performance](image-rotation-camera-angle-degrade-mis-performance.md)
 - [Mental rotation ability shows a specific, significant influence on MIS learning and operative performance](mental-rotation-influences-mis-performance.md)
-- [Teaching orientation strategies to novice laparoscopic surgeons significantly increases performance and reduces cognitive burden](orientation-strategies-improve-novice-laparoscopic-performance.md) — related
+- [Teaching orientation strategies to final-year medical students new to laparoscopy significantly increased performance and reduced cognitive burden](orientation-strategies-improve-novice-laparoscopic-performance.md) — related
 - [In neonatal minimally invasive surgery, operative performance is shaped more by recency and depth of MIS-focused training than by surgeon seniority](mis-performance-shaped-by-training-recency-not-seniority.md) — related
 - [The transparent SAPIENS model is considered ideal for inexperienced surgeons because it visualizes hidden anatomical structures](transparent-model-ideal-for-inexperienced-surgeons.md) — a narrower finding that bears on this claim

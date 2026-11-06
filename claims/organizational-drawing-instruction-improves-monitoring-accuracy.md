@@ -45,7 +45,7 @@ Study of 5th-grade students drawing during reading under two instruction conditi
 
 
 ## Related Claims
-- [Boundary conditions: explicit relation-focused instructions and no access to products during judgment are needed for mapping and drawing to improve monitoring accuracy](mapping-drawing-boundary-conditions-instructions-and-retrieval.md) — related
+- [A review of relative monitoring accuracy concludes that concept mapping and drawing seem to need relation-focused instructions, and that accuracy benefited only when students lacked access to their products during judgment, so retrieval might be necessary](mapping-drawing-boundary-conditions-instructions-and-retrieval.md) — related
 - [Students using representation-based cues showed higher draw relative accuracy than those using heuristic cues](representation-based-cues-support-draw-relative-accuracy.md) — related
 - [Drawing after learning, both from scratch and with spatial scaffolds, improves absolute monitoring accuracy (calibration) compared with a time-matched mental reactivation control condition](drawing-after-learning-improves-absolute-monitoring-accuracy.md) — related
 - [Delayed diagram completion improves students' relative monitoring accuracy of text comprehension compared with no diagramming](delayed-diagram-completion-improves-relative-monitoring-accuracy.md) — related

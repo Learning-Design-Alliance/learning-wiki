@@ -71,5 +71,5 @@ Mann-Whitney U comparison of receptive posttest scores: experiment mean 133.8 ve
 
 ## Related Claims
 - [The Interactive Story Reading Method produced significant pretest-to-posttest gains in expressive language vocabulary in the experiment group](interactive-story-reading-expressive-prepost-gains.md) — related
-- [The Interactive Story Reading Method produced significant pretest-to-posttest gains in receptive language vocabulary in the experiment group](interactive-story-reading-receptive-prepost-gains.md) — related
+- [Children taught with the Interactive Story Reading Method gained significantly in receptive vocabulary from pretest to posttest, as did the control group, with no significant posttest difference between the groups](interactive-story-reading-receptive-prepost-gains.md) — related
 - [Experiment group vocabulary gains persisted at the five-month follow-up, with no significant posttest-to-follow-up decline](vocabulary-gains-persist-five-month-follow-up.md) — related

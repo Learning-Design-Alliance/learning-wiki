@@ -40,7 +40,7 @@ From pilot and follow-up observations, the authors recommend teachers "pay littl
 ## Claims
 
 - [Fiction excerpts increased engagement and interest particularly among students who typically underachieved in science](../claims/fiction-engages-lower-achieving-chemistry-students.md) [+W]
-- [Inserting fiction excerpts into chemistry instruction shifted classroom discourse toward more student questions, peer challenge, and evidence-based argumentation](../claims/fiction-insertion-shifts-chemistry-discourse.md) [+W]
+- [A chemistry class taught with inserted fiction excerpts showed more student questions, peer challenge and evidence-based argumentation, a shift the authors do not attribute to the fiction itself](../claims/fiction-insertion-shifts-chemistry-discourse.md) [+W]
 - [Intervention students reported fiction videos made instruction more interesting and helped them understand difficult concepts, but rated hands-on labs as most helpful](../claims/student-interviews-fiction-interest-labs-preferred.md) [+W]
 
 ## Related Strategies

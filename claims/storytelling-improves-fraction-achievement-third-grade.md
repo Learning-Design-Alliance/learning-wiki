@@ -46,4 +46,4 @@ Quasi-experiment with 76 third graders in two Greek primary schools, experimenta
 
 ## Related Claims
 - [Medium and low achievement students benefited most from storytelling in fraction teaching, while high achievers showed no significant difference](storytelling-benefits-medium-low-achievers-fractions.md) — related
-- [Storytelling improved comparing fractions, equivalent fractions, creating and manipulating representations, and problem solving, but not part-whole interpretation or number-line use](storytelling-specific-fraction-skills-gains.md) — related
+- [Storytelling improved comparing fractions, equivalent fractions, creating and manipulating representations, and problem solving, with no significant difference for part-whole interpretation or number-line use](storytelling-specific-fraction-skills-gains.md) — related

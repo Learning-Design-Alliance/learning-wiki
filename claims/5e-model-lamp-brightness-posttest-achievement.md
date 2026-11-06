@@ -46,7 +46,7 @@ Independent-samples t-test on BLAT posttest scores in a quasi-experimental prete
 
 ## Related Claims
 - [The 5E intervention produced no significant differences on any of the three attitude-scale subfactors](5e-attitude-scale-no-significant-differences.md) — related
-- [Fifth-grade students taught science through inquiry-based instruction supported by the 5E learning cycle achieved significantly higher post-test scores than students taught by traditional methods](5e-inquiry-higher-achievement-than-traditional.md) — a broader claim this one bears on
+- [In a quasi-experiment with 40 fifth-grade girls in Kermanshah, Iran, those taught science through inquiry-based instruction supported by the 5E learning cycle achieved significantly higher post-test scores than those taught by traditional methods](5e-inquiry-higher-achievement-than-traditional.md) — a broader claim this one bears on
 - [The 5E instructional model produced significantly higher posttest mathematics achievement than traditional instruction in a Nigerian quasi-experiment](5e-model-improves-math-achievement-nigeria.md) — a broader claim this one bears on
 - [Class IX physical science students taught with the constructivist 7E model achieved significantly higher post-test and gain scores than students taught with traditional methods](7e-model-higher-science-achievement-secondary.md) — related
 - [In one quasi-experiment with two intact senior secondary classes in Ilorin, Nigeria, students taught Civic Education with the 5Es strategy scored higher on civic literacy than a conventionally taught class](5es-higher-civic-literacy-scores.md) — related

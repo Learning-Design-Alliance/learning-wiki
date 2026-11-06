@@ -45,4 +45,4 @@ The article's methodological argument, grounded in the observation that most pre
 
 
 ## Related Claims
-- [Estimated intent-to-treat effects of Head Start on cognitive and socioemotional outcomes for children with special needs are sensitive to how the subgroup is defined, with consistently larger effects under the IEP definition](hs-itt-effects-sensitive-subgroup-definition.md) — related
+- [Estimated intent-to-treat effects of Head Start for children with special needs are sensitive to how the subgroup is defined, with consistently larger cognitive effects under the IEP definition](hs-itt-effects-sensitive-subgroup-definition.md) — related

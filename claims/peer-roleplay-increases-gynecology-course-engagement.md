@@ -47,5 +47,5 @@ Comparative cohort study of course participation in gynecology teaching: the exp
 
 ## Related Claims
 - [International medical students receiving peer role-play and peer assessment report significantly higher course satisfaction across all measured dimensions than students in traditional collaborative group learning](peer-roleplay-higher-course-satisfaction-gynecology.md) — related
-- [Peer role-play and peer assessment improve non-technical clinical competencies (doctor-patient communication, humanistic care, preoperative preparation) with a large effect for communication skills](peer-roleplay-improves-nontechnical-clinical-competencies.md) — related
+- [In a comparison of two consecutive cohorts, adding peer role-play and peer assessment was associated with higher scores on non-technical clinical competencies (doctor-patient communication, humanistic care, preoperative preparation)](peer-roleplay-improves-nontechnical-clinical-competencies.md) — related
 - [Adding peer role-play and peer assessment does not change technical procedural proficiency: no significant difference between cohorts in procedural steps and key points](peer-roleplay-technical-proficiency-comparable.md) — related

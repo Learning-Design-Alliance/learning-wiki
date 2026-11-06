@@ -71,4 +71,4 @@ Narratively summarized outcome from one study (Caramanica and Spiva 2018) using 
 - [Educational interventions significantly improve nurse leaders' EBP implementation leadership (SMD = 0.74)](ebp-education-improves-nurse-leader-implementation-leadership.md) — related
 - [Educational interventions improve nurse leaders' EBP knowledge (SMD = 1.05)](ebp-education-improves-nurse-leader-knowledge.md) — related
 - Certainty of evidence for all outcomes was rated low due to serious risk of bias and heterogeneity — related
-- [SFHC intervention improved nursing learning self-efficacy scores post-intervention](sfhc-improved-nursing-self-efficacy.md) — related
+- [In a nonrandomized cohort, nursing interns taught with SFHC scored higher on learning self-efficacy after the intervention than interns taught traditionally](sfhc-improved-nursing-self-efficacy.md) — related

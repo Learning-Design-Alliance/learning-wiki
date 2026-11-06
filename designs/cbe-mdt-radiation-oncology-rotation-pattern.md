@@ -45,7 +45,7 @@ A 12-week rotation design in which weekly multidisciplinary teaching sessions ar
 - [Cbe Mdt Higher Satisfaction Radiation Oncology](../claims/cbe-mdt-higher-satisfaction-radiation-oncology.md) [+M]
 - [CBE-MDT teaching improves case analysis and practical performance subcomponents of the exam](../claims/cbe-mdt-case-analysis-practical-performance.md) [+W]
 - [A simulated oncology MDT case-based learning session significantly improved trainee confidence, with a mean increase of 2 points on a 10-point scale (p < 0.01)](../claims/simulated-mdt-cbl-improves-trainee-confidence.md) [+W]
-- [In a randomised trial of 80 first-year postgraduate oncology trainees, CBL produced significantly higher examination scores and satisfaction than traditional lecture-based learning, though confidence intervals crossed the null for examination results](../claims/bi-rct-cbl-higher-posttest-scores-satisfaction.md) [+W]
+- [In a randomised trial of 80 first-year postgraduate oncology trainees, a CBL group that also had PowerPoint teaching reported significantly higher examination scores and satisfaction than lecture-based teaching, though confidence intervals crossed the null for examination results](../claims/bi-rct-cbl-higher-posttest-scores-satisfaction.md) [+W]
 - [MDT-CDIO integrated teaching yields higher student satisfaction across all five evaluated dimensions than traditional teaching](../claims/mdt-cdio-higher-satisfaction-all-dimensions.md) [+W]
 
 ## Related Designs

@@ -46,7 +46,7 @@ ANCOVA on PCSC self-report subscales in the RCT found no group differences; Tabl
 
 ## Related Claims
 - [Self-reflection prompts increase observed interpersonal consultation skills, especially confidence in delivering consultations (medium effect)](self-reflection-raises-interpersonal-skills-and-delivery-confidence.md) — reports the opposite
-- [A randomized controlled trial with 86 K-12 students found a significant gain in self-regulated-learning strategy use from agentic coaching systems](agentic-srl-coaching-rct-86-significant-strategy-gain.md) — related
+- [A survey of agentic AI in education reports an unidentified randomized trial (86 K-12 students) finding a significant SRL-strategy gain from agentic coaching](agentic-srl-coaching-rct-86-significant-strategy-gain.md) — related
 - [Self-reflection prompts improve two specific procedural interviewing skills — specifying the problem behaviour and questioning its consequences — but not procedural skills overall](self-reflection-improves-specific-procedural-skills.md) — related
 - [Self-reflection prompts improve post-training theoretical knowledge in a brief online asynchronous training module (medium effect)](self-reflection-improves-knowledge-quiz-gains.md) — related
 - [Self-reflection prompts raise total observed interview competency post-training (medium effect)](self-reflection-raises-interview-competency-observation.md) — related

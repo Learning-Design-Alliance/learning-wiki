@@ -37,7 +37,7 @@ Discrepant events are demonstrations, observations, or scenarios that violate le
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [External disequilibrium level systematically influences subsequent changes in internal disequilibrium: discrepant conditions increase mixture among low mix subjects and decrease it among high mix subjects](../claims/external-disequilibrium-shapes-internal-mixture-changes.md) [~W]
+- [In one spatial-reasoning experiment, discrepant external conditions were followed by trends toward more Level Mixture among low mix subjects and less among high and mid mix subjects](../claims/external-disequilibrium-shapes-internal-mixture-changes.md) [~W]
 - [Eleven-month-old infants learn a new object-sound mapping after a surprising core knowledge violation but not after an expected outcome](../claims/surprise-enhances-infant-object-sound-learning.md) [+W]
 - [Infants' exploratory behavior after a core knowledge violation is tailored to the type of violation seen](../claims/violation-specific-hypothesis-testing-exploration.md) [+W]
 - [Discrepant peer feedback leads to more transitions between feedback and essay, but only for students who report the discrepancy afterwards](../claims/discrepant-peer-feedback-more-transitions-only-reporters.md) [~W]

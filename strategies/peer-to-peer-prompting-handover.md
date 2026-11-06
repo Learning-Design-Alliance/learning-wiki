@@ -41,7 +41,7 @@ In Harney and Hogan's experimental study in an undergraduate Psychology course, 
 
 ## Claims
 
-- [Peer-to-peer prompts show promising effects on collaborative argumentation, consensus, and perceived efficacy, suggesting new roles for peer learning in classrooms](../claims/peer-prompts-argumentation-consensus-efficacy.md) [+W]
+- [An editorial describes a study of peer-to-peer prompts on collaborative argumentation, consensus and perceived efficacy as having promising results, without reporting its effects](../claims/peer-prompts-argumentation-consensus-efficacy.md) [+W]
 
 ## Related Strategies
 

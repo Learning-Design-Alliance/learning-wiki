@@ -53,7 +53,7 @@ Meta-analytic subgroup analysis of expressive vocabulary among disadvantaged chi
 
 - [Effects were larger in intervention schools with a higher percentage of economically disadvantaged students or a lower percentage of White students](assistments-school-composition-moderators.md) — the general claim this finding bears on, with the studies behind it
 - [Technology-enhanced stories yield a small but significant additional benefit over traditional story presentations for story comprehension and expressive vocabulary in young children](technology-enhanced-stories-small-benefit-comprehension-expressive-vocabulary.md) — a broader claim this one bears on
-- [Multimedia-only stories benefit story comprehension, whereas stories that also include interactive features do not](multimedia-only-benefits-interactive-features-detrimental.md) — related
+- [Multimedia-only stories benefit story comprehension, whereas stories that also include interactive features show no significant benefit](multimedia-only-benefits-interactive-features-detrimental.md) — related
 - [Dialogic Reading Improves Language Outcomes](dialogic-reading-improves-language-outcomes.md) — related
 - [Technology-enhanced stories show no significant additional effect on receptive vocabulary compared with traditional storybook reading](technology-stories-no-receptive-vocabulary-effect.md) — related
 - [A language-based bedtime routine at age 3 predicted longer nighttime sleep duration at age 5 and higher language abilities and receptive vocabulary at age 5](language-based-bedtime-routine-predicts-sleep-and-language.md) — related

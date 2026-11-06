@@ -79,7 +79,7 @@ One-way ANOVA on deviation scores from verb-based (Vdev) and construction-based 
 - [Syntax](../learner-variables/syntax.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Light verbs drive construction-based sorting in intermediate-level but not beginner or advanced EFL learners](light-verbs-modulate-intermediate-sorting.md) — related
+- [Intermediate-level EFL learners, but not beginner or advanced ones, sorted sentences by construction mainly when they contained light verbs](light-verbs-modulate-intermediate-sorting.md) — related
 - [Translation accuracy rises with proficiency but varies substantially across individual constructions](translation-accuracy-varies-by-construction.md) — related
 - [The transitive construction is acquired earliest while the resultative construction poses difficulty even for advanced learners](transitive-earliest-resultative-hardest.md) — related
 - [Learners’ proficiency correlates with constructional sorting and translation performance, countering a purely age-based explanation](proficiency-correlates-with-sorting-and-translation.md) — related

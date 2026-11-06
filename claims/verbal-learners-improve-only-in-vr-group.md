@@ -48,5 +48,5 @@ Discussion section interpretation of the randomized study's cognitive-style subg
 - [Spatial Ability](../learner-variables/spatial-ability.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
-- [Spatial visualizers (SPAT) outperformed object visualizers and verbalizers across all laparoscopic training modalities and performance domains](spatial-learners-outperform-other-cognitive-styles.md) — related
+- [Spatial visualizers (SPAT) outperformed object visualizers and verbalizers across all performance domains on a laparoscopic clip-applying task, pooled across training modalities](spatial-learners-outperform-other-cognitive-styles.md) — related
 - [VR simulator training produced the largest gains on the VR-simulator post-test, outperforming box trainer, serious game, and control groups on the complex Clip Applying task](vr-training-largest-gains-complex-laparoscopic-tasks.md) — related

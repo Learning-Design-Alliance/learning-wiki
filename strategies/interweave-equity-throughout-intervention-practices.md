@@ -44,7 +44,7 @@ The article's design recommendation from its implications section is that equity
 
 ## Claims
 
-- [E-EMR showed targeted benefits by race/ethnicity: significant interactions for Asian, Latinx, Black, and Multiracial students relative to White students on nine outcomes](../claims/e-emr-race-ethnicity-moderated-benefits.md) [+W]
+- [E-EMR effects differed by race/ethnicity: seven significant race × condition interactions relative to White students, for Asian, Latinx, Black and Multiracial students, mostly favouring them](../claims/e-emr-race-ethnicity-moderated-benefits.md) [+W]
 - [Some unexpected E-EMR effects disadvantaged high-performing or advantaged groups, including increased conduct problems among students with low baseline conduct problems](../claims/e-emr-unexpected-adverse-effects-advantaged-groups.md) [~W]
 
 ## Related Strategies

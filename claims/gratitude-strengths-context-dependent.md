@@ -46,5 +46,5 @@ Qualitative finding from co-development workshops with teachers (n = 10) and you
 
 ## Related Claims
 - [Flexible thinking and problem-solving activities were perceived as feasible and beneficial through co-regulation, playfulness, characterisation and low-stakes whole-class design](flexible-thinking-low-stakes-design.md) — related
-- [Self-talk activities were perceived as feasible and beneficial only when grounded in authentic, realistic modelling rather than exaggerated positivity](self-talk-authentic-modelling.md) — related
+- [Teachers and young people saw self-talk activities as most effective when grounded in authentic, realistic modelling, and young people rejected exaggerated positivity](self-talk-authentic-modelling.md) — related
 - [Expressive Writing Improves Health Outcomes](expressive-writing-improves-health-outcomes.md) — a broader claim this one bears on

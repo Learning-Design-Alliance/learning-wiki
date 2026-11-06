@@ -46,4 +46,4 @@ Systematic review of 20 blended learning design studies coded by two coders. The
 
 ## Related Claims
 - [Personalization and differentiated instruction are rare in blended learning designs](personalization-limited-blended-designs.md) — related
-- [Introductory face-to-face meetings are the dominant strategy for stimulating social interaction in blended learning](introductory-f2f-meeting-stimulates-interaction.md) — related
+- [Introductory face-to-face meetings were the most reported way of stimulating social interaction in reviewed blended-learning studies (6 of the 9 that reported on it)](introductory-f2f-meeting-stimulates-interaction.md) — related

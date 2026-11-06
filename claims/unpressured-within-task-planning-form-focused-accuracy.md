@@ -51,7 +51,7 @@ The review reports Hulstijn and Hulstijn's (1984) study of L2 Dutch students per
 ## Related Claims
 
 - [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — the general claim this finding bears on, with the studies behind it
-- [Fluency can have a high effect on accuracy, whereas accuracy will not lead to fluency](fluency-precedes-accuracy-oral-l2.md) — related
+- [One author argues, without testing it, that in oral L2 teaching fluency can have a high effect on accuracy whereas accuracy will not lead to fluency](fluency-precedes-accuracy-oral-l2.md) — related
 - [The influence of strategic planning on accuracy is unclear and depends on task type and planning conditions](strategic-planning-accuracy-mixed.md) — related
 - [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — related
 - [Guided Notes Improve Note Accuracy](guided-notes-improve-note-accuracy.md) — related

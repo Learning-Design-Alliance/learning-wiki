@@ -46,6 +46,6 @@ Discussion-section observation from the randomized trial, in which one of the th
 
 ## Related Claims
 - [Simulation training across medical and surgical scenarios yields significantly higher OSCE scores than didactic lectures across two year groups](simulation-higher-osce-scores-zhang.md) — a broader claim this one bears on
-- [Peer role-play and peer assessment improve non-technical clinical competencies (doctor-patient communication, humanistic care, preoperative preparation) with a large effect for communication skills](peer-roleplay-improves-nontechnical-clinical-competencies.md) — related
+- [In a comparison of two consecutive cohorts, adding peer role-play and peer assessment was associated with higher scores on non-technical clinical competencies (doctor-patient communication, humanistic care, preoperative preparation)](peer-roleplay-improves-nontechnical-clinical-competencies.md) — related
 - [AI-SP training was associated with higher simulated clinical interview scores in information collection, communication, and diagnostic reasoning, but not empathy](ai-sp-interview-performance-empathy-null.md) — related
 - [Case-based learning combined with multidisciplinary team teaching yields superior OSCE clinical skills scores, particularly in treatment planning and doctor-patient communication, but not in physical examination.](cbl-mdt-superior-osce-clinical-skills-treatment-planning-communication.md) — related

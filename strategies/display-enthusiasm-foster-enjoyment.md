@@ -42,7 +42,7 @@ The article suggests that expressing enthusiasm—gestures, varied intonation, e
 ## Claims
 
 - [Only the current teacher's enthusiasm relates to students' enjoyment; prior-year teacher enthusiasm is unrelated to next-year enjoyment](../claims/current-teacher-only-enjoyment-effect.md) [+W]
-- [Perceived teacher enthusiasm positively predicts student enjoyment at the within-class (individual student) level](../claims/enthusiasm-within-class-student-enjoyment.md) [+W]
+- [Perceived teacher enthusiasm is positively associated with student enjoyment at the within-class (individual student) level, beyond prior enjoyment](../claims/enthusiasm-within-class-student-enjoyment.md) [+W]
 - [Teacher enjoyment and student enjoyment in mathematics classrooms are positively related even after controlling for students' prior-year enjoyment](../claims/teacher-enjoyment-student-enjoyment-positive-link.md) [+W]
 - [Student-perceived teacher enthusiasm mediates the relationship between teacher enjoyment and student enjoyment](../claims/teacher-enthusiasm-mediation-enjoyment.md) [+W]
 

@@ -46,7 +46,7 @@ Final assessment rubric domain analysis of the two cohorts. The article reports 
 
 ## Related Claims
 - [Peer role-play and peer assessment increase course engagement among international medical students, including a 22.5 percentage-point increase in active participation rate](peer-roleplay-increases-gynecology-course-engagement.md) — related
-- [Peer role-play and peer assessment improve non-technical clinical competencies (doctor-patient communication, humanistic care, preoperative preparation) with a large effect for communication skills](peer-roleplay-improves-nontechnical-clinical-competencies.md) — related
+- [In a comparison of two consecutive cohorts, adding peer role-play and peer assessment was associated with higher scores on non-technical clinical competencies (doctor-patient communication, humanistic care, preoperative preparation)](peer-roleplay-improves-nontechnical-clinical-competencies.md) — related
 - [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](ir-dental-equivalence-mixed-findings.md) — related
 - [Linear virtual patients and student role-plays produce equivalent patient-centered attitudes (PPOS) in third-year medical students](linear-vps-roleplay-equivalent-ppos-attitudes.md) — related
 - [Both the online role-playing game-based guide and the traditional online guide produced significant pretest-to-posttest learning effectiveness gains, with no significant difference between the two groups](game-guide-and-traditional-guide-both-significant-learning-gains.md) — related

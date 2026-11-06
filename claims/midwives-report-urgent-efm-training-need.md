@@ -48,4 +48,4 @@ Table 2 reports prior training resources and methods: lecture 95.45%, practical 
 ## Related Claims
 - [Midwives' overall fetal monitoring interpretation scores rose from 62.35 to 71.36 after constructivist teaching in a single-group pre-post study with no comparison group](constructivist-teaching-raises-midwife-efm-scores.md) — related
 - [Midwives most frequently expected six-monthly training centered on typical graph analysis](midwife-efm-training-expectations-survey.md) — related
-- [In one uncontrolled pre-post study, midwives’ interpretation scores rose significantly for uterine contractions, baseline fetal heart rate, variability, decelerations, and comprehensive evaluation after constructivist teaching, but did not change for accelerations](constructivist-teaching-efm-aspect-gains.md) — related
+- [In one uncontrolled pre-post study, midwives’ interpretation scores rose significantly for uterine contractions, baseline fetal heart rate, variability, decelerations, and comprehensive evaluation after constructivist teaching, with no statistically significant change for accelerations](constructivist-teaching-efm-aspect-gains.md) — related

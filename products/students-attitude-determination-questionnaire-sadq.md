@@ -22,7 +22,7 @@ A validated 16-item Likert-scale questionnaire developed by M. J. Wangila et al.
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Students taught Structure of the Atom and the Periodic Table with Programmed Instruction obtained significantly higher attitude mean scores than control groups taught conventionally](../claims/pi-higher-posttest-attitude-sapt.md) [+M]
+- [Students taught Structure of the Atom and the Periodic Table with Programmed Instruction obtained higher attitude mean scores than control groups taught conventionally, in a significant four-group ANOVA with no pairwise tests](../claims/pi-higher-posttest-attitude-sapt.md) [+M]
 
 ## Related Products and Programmes
 

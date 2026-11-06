@@ -67,7 +67,7 @@ This review classifies redundancy effects across 63 multimedia-learning experime
 | [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · review · r2 | i2 | [Redundancy principle: animation plus narration beats animation, narration, and on-screen t](redundancy-principle-mayer-2008.md) (supports) |
 | [Adesope 2012](https://doi.org/10.1037/a0026147) | q3 · quant-synthesis · r3 | i? | [Verbal redundancy does not facilitate learning when materials include images or animation](images-animation-eliminate-redundancy-benefit.md) (qualifies) |
 | Kutbay 2020 | q2 · causal · r2 | i? | [In one middle-school quasi-experiment, adding written text to spoken narration makes no si](redundancy-effect-not-significant-middle-school.md) (qualifies) |
-| [Clinton 2016](https://doi.org/10.1080/00220973.2015.1048847) | q3 · causal · r2 | i? | [Redundant text in the diagram did not affect posttest accuracy or difficulty ratings](redundant-text-no-effect-posterior-probability-lesson.md) (qualifies) |
+| [Clinton 2016](https://doi.org/10.1080/00220973.2015.1048847) | q3 · causal · r2 | i? | [Redundant text in the diagram made no statistically significant difference to posttest accuracy or difficulty ratings](redundant-text-no-effect-posterior-probability-lesson.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -154,7 +154,7 @@ The page records one review (Trypke et al. 2023); the classic primary experiment
 - [Dual coding theory.](../theories/dual-coding-theory.md) — explains why complementary (not redundant) visual–verbal pairing helps learning
 - [Laptop note-takers transcribed more verbatim and did worse on conceptual questions than longhand note-takers in one set of experiments, but a direct replication found no consistent difference in test performance](laptop-notes-verbatim-shallower.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
-- [Redundant text in the diagram did not affect posttest accuracy or difficulty ratings](redundant-text-no-effect-posterior-probability-lesson.md) — related
+- [Redundant text in the diagram made no statistically significant difference to posttest accuracy or difficulty ratings](redundant-text-no-effect-posterior-probability-lesson.md) — related
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — related
 - [Despite ignorance of CLT, surveyed teachers report using some of its principles when designing instructions](teachers-use-clt-principles-despite-ignorance.md) — related
 - [Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)](voice-media-outperform-picture-text-overall.md) — related

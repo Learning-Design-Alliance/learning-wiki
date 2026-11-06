@@ -51,4 +51,4 @@ Content analysis of the semi-structured diaries the 30 experimental-group studen
 ## Related Claims
 - [Content analysis of student diaries identifies specific science concepts that arouse the most curiosity, including extra-terrestrials, celestial bodies, space vehicles, genetics, and simple machines](diary-content-analysis-curiosity-concepts.md) — related
 - [Middle-school students who read a mostly science-fiction book set alongside the science curriculum gained significantly in science curiosity, in a study whose groups already differed at pre-test](science-fiction-books-increase-science-curiosity.md) — a broader claim this one bears on
-- [Inserting fiction excerpts into chemistry instruction shifted classroom discourse toward more student questions, peer challenge, and evidence-based argumentation](fiction-insertion-shifts-chemistry-discourse.md) — related
+- [A chemistry class taught with inserted fiction excerpts showed more student questions, peer challenge and evidence-based argumentation, a shift the authors do not attribute to the fiction itself](fiction-insertion-shifts-chemistry-discourse.md) — related

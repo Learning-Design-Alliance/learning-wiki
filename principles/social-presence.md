@@ -153,7 +153,7 @@ Perceived presence, participation, satisfaction, persistence and individual lear
 - [Danmaku learners engage in parasocial greetings and compliments to the instructor and seek co-learning presence, phenomena absent on the discussion board](../claims/parasocial-greetings-and-co-learning-presence-in-danmaku.md) [+W]
 - [Human–human pair programming fostered the highest perceptions of collaboration and social presence, surpassing both AI-assisted and individual conditions](../claims/human-pairing-highest-collaboration-social-presence.md) [+W]
 - [Students rated icebreaker/introduction discussions and collaborative work with online communication tools as the most beneficial learner-to-learner strategies](../claims/icebreaker-collaboration-top-learner-learner-strategies.md) [+W]
-- [Introductory face-to-face meetings are the dominant strategy for stimulating social interaction in blended learning](../claims/introductory-f2f-meeting-stimulates-interaction.md) [+W]
+- [Introductory face-to-face meetings were the most reported way of stimulating social interaction in reviewed blended-learning studies (6 of the 9 that reported on it)](../claims/introductory-f2f-meeting-stimulates-interaction.md) [+W]
 - [Social presence influences how social interaction unfolds in online group learning, which in turn affects learning outcomes](../claims/social-presence-shapes-online-group-interaction-and-outcomes.md) [+W]
 - [Lack of instructor embodiment in tutorials may limit effectiveness for DHH students](../claims/dhh-embodiment-limits-effectiveness.md) [~W]
 - [A visible instructor increased social presence in an exploratory field study (d = 0.85)](../claims/visible-instructor-social-presence-study1.md) [+W]

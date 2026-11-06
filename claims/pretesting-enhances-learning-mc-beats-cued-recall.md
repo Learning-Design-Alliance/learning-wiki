@@ -70,7 +70,7 @@ The commentary describes Little and Bjork (2016), who used multiple-choice and c
 ## Related Claims
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — a broader claim this one bears on
 - [Multiple-choice testing improves later cued recall of prose facts, a benefit that persists though reduced after a one-week delay](mc-testing-prose-cued-recall-benefit.md) — a narrower finding that bears on this claim
-- [Pretesting benefits for paired associates depend on semantic association between pair members, with cued-recall benefits absent for unrelated pairs](semantic-association-moderates-pretesting.md) — related
+- [Pretesting benefits for paired associates depend on semantic association between pair members, with cued-recall benefits typically not observed for unrelated pairs](semantic-association-moderates-pretesting.md) — related
 - [A review reports that in three cued-recall studies pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours](feedback-timing-moderates-pretesting.md) — related
 - [Learners fail to recognize the benefits of pre-instruction testing, ranking it as least effective despite benefiting from it](metacognitive-illusion-pretesting-underrated.md) — related
 - [Providing feedback after initial multiple-choice tests cut lure intrusions on final short-answer tests roughly in half, with immediate and delayed feedback equally effective](feedback-after-multiple-choice-tests-halves-lure-intrusions.md) — related

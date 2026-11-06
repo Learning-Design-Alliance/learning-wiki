@@ -118,7 +118,7 @@ Do not rank a MOOC against a campus or paid online course from these claims: non
 
 ## The evidence by question
 
-- *How many people who enrol in an open online course finish it, and where do they stop?* [A review of music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes](../claims/moocs-low-completion-embodied-music-learning.md) [-W] gathers the reports of MOOC completion and of where online learners drop out.
+- *How many people who enrol in an open online course finish it, and where do they stop?* [A discussion article on music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes](../claims/moocs-low-completion-embodied-music-learning.md) [-W] gathers the reports of MOOC completion and of where online learners drop out.
 
 ## Further evidence, not yet read against this model
 <!-- Claims this page cited before the 2026-10-15 rewrite, and neighbouring claims found while converting it, which are not used as core evidence above. Each marker keeps its old direction, capped by the claim's recorded evidence. -->

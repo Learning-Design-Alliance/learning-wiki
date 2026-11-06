@@ -52,5 +52,5 @@ Item-level analysis of the 12-item content-validation questionnaire completed by
 - [Expert endourologists rate the TURP simulator highly for resectoscope handling, ergonomics, and procedural-step practice, but rate simulated bleeding and obturator reflex lowest](turp-simulator-face-validity-expert-ratings.md) — related
 - [The TURB simulator achieves excellent adjusted content validity for core skills (S-CVI/Ave 0.97; all-items 0.81), with tumor identification, resection technique, and base sampling rated 1.00](turb-simulator-adjusted-content-validity.md) — related
 - [Expert review establishes excellent content validity for TAILS (S-CVI/Ave = 0.98; I-CVI 0.86–1.00)](tails-content-validity-cvi.md) — related
-- [Expert endourologists rate an Aquablation training simulator as highly realistic, with face-validity items averaging above 3.4 on a 4-point scale and Cronbach's alpha of 0.92](aquablation-simulator-high-face-validity.md) — related
+- [Twelve expert urologists rate an Aquablation training simulator as realistic, with face-validity item means of 3.25 to 3.75 on a 4-point scale and Cronbach's alpha of 0.92](aquablation-simulator-high-face-validity.md) — related
 - [Experts unanimously recommend integrating the Aquablation simulator into structured Aquablation training programs](aquablation-simulator-unanimous-training-endorsement.md) — related

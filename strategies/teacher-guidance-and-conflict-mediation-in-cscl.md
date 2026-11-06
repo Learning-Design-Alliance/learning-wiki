@@ -40,7 +40,7 @@ At the micro level the article recommends that "Teachers should make efforts to 
 ## Claims
 
 - [Confirmation of expectations has a large, significant positive influence on perceived usefulness, satisfaction, and perceived enjoyment in CSCL](../claims/confirmation-drives-cscl-satisfaction-usefulness-enjoyment.md) [+W]
-- [Perceived enjoyment significantly positively influences both satisfaction and perceived impact on learning in CSCL](../claims/enjoyment-influences-satisfaction-and-impact-cscl.md) [+W]
+- [In a cross-sectional survey, students' perceived enjoyment is significantly and positively associated with their satisfaction and perceived impact on learning in CSCL](../claims/enjoyment-influences-satisfaction-and-impact-cscl.md) [+W]
 - [Students' satisfaction during CSCL positively and significantly influences their perceived impact on learning](../claims/satisfaction-influences-perceived-impact-cscl.md) [+W]
 
 ## Related Strategies

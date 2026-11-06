@@ -45,7 +45,7 @@ Satisfaction questionnaire analysis (75 valid returns): "Cohen's d = 0.48" for p
 
 
 ## Related Claims
-- [Peer role-play and peer assessment improve non-technical clinical competencies (doctor-patient communication, humanistic care, preoperative preparation) with a large effect for communication skills](peer-roleplay-improves-nontechnical-clinical-competencies.md) — related
+- [In a comparison of two consecutive cohorts, adding peer role-play and peer assessment was associated with higher scores on non-technical clinical competencies (doctor-patient communication, humanistic care, preoperative preparation)](peer-roleplay-improves-nontechnical-clinical-competencies.md) — related
 - [Narrative medicine education improves residents' humanistic care ability and doctor-patient communication compared with lecture-based learning](narrative-medicine-improves-care-and-communication.md) — related
 - [Case-based learning combined with multidisciplinary team teaching yields superior OSCE clinical skills scores, particularly in treatment planning and doctor-patient communication, but not in physical examination.](cbl-mdt-superior-osce-clinical-skills-treatment-planning-communication.md) — related
 - [3D visualization technology supports doctor-patient communication in resident training](3d-visualization-supports-doctor-patient-communication.md) — related

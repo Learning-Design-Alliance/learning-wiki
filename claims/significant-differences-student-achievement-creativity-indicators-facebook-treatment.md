@@ -49,6 +49,6 @@ A one-way ANOVA analysis of the treatment group's achievement test marks based o
 - [Problem Solving](../learner-variables/problem-solving.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Facebook-based learning significantly enhances creativity in producing missionary motto among Islamic Studies students compared to control group](facebook-based-learning-enhances-creativity-missionary-motto-islamic-studies.md) — related
+- [Islamic Studies students taught through Facebook-based learning scored significantly higher than a non-randomised control class on creativity in producing a missionary motto](facebook-based-learning-enhances-creativity-missionary-motto-islamic-studies.md) — related
 - [Facebook-based learning significantly enhances creativity in problem solving among Islamic Studies students compared to control group](facebook-based-learning-enhances-creativity-problem-solving-islamic-studies.md) — related
 - [Facebook-based learning significantly enhances creativity in writing among Islamic Studies students compared to control group](facebook-based-learning-enhances-creativity-writing-islamic-studies.md) — related

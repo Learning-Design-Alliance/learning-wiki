@@ -52,6 +52,6 @@ Controlled experiment with 142 fourth graders randomly assigned to teach a low- 
 - [Low self-efficacy students teaching a low self-efficacy tutee performed on par with high self-efficacy students](low-se-students-match-performance-par.md) — related
 - [The self-efficacy manipulation of the digital tutee was validated: students perceived the low-SE tutee as less confident than the high-SE tutee](se-manipulation-validated.md) — related
 - [The digital tutee's expressed self-efficacy did not affect students' attitude towards the tutee](agent-se-no-attitude-effect.md) — related
-- [Low self-efficacy students significantly increased their self-efficacy when matched with a low self-efficacy tutee, but mismatched students did not](se-match-increases-low-se-students.md) — related
+- [Low self-efficacy students significantly increased their self-efficacy when matched with a low self-efficacy tutee and increased it less, not significantly, with a high self-efficacy tutee; the match-mismatch difference was not significant](se-match-increases-low-se-students.md) — related
 - [Similarity attraction was not supported for self-efficacy matching: matched students did not show a more positive attitude towards their tutee](similarity-attraction-not-supported-se-attitude.md) — related
 - [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md) — a broader claim this one bears on

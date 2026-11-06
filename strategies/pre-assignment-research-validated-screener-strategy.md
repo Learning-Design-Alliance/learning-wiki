@@ -41,7 +41,7 @@ As a feasible alternative to relying on administrative records that reflect uneq
 
 - [Measuring special needs earlier improves internal validity but narrows the subgroup to children diagnosed before preschool, creating an external validity trade-off](../claims/early-measurement-external-validity-tradeoff.md) [+W]
 - [The HSIS baseline special needs imbalance was concentrated in informal care settings and among higher-incidence disabilities, supporting an access-to-diagnosis mechanism](../claims/hs-imbalance-informal-care-higher-incidence.md) [+W]
-- [Estimated intent-to-treat effects of Head Start on cognitive and socioemotional outcomes for children with special needs are sensitive to how the subgroup is defined, with consistently larger effects under the IEP definition](../claims/hs-itt-effects-sensitive-subgroup-definition.md) [+W]
+- [Estimated intent-to-treat effects of Head Start for children with special needs are sensitive to how the subgroup is defined, with consistently larger cognitive effects under the IEP definition](../claims/hs-itt-effects-sensitive-subgroup-definition.md) [+W]
 
 ## Related Strategies
 - 

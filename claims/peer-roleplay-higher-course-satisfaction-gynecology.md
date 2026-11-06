@@ -46,7 +46,7 @@ Post-course Likert-scale (1–5) satisfaction survey administered to both cohort
 
 ## Related Claims
 - [Peer role-play and peer assessment increase course engagement among international medical students, including a 22.5 percentage-point increase in active participation rate](peer-roleplay-increases-gynecology-course-engagement.md) — related
-- [Peer role-play and peer assessment improve non-technical clinical competencies (doctor-patient communication, humanistic care, preoperative preparation) with a large effect for communication skills](peer-roleplay-improves-nontechnical-clinical-competencies.md) — related
+- [In a comparison of two consecutive cohorts, adding peer role-play and peer assessment was associated with higher scores on non-technical clinical competencies (doctor-patient communication, humanistic care, preoperative preparation)](peer-roleplay-improves-nontechnical-clinical-competencies.md) — related
 - [Blended learning interns reported significantly higher satisfaction than traditional-group interns across all five evaluated dimensions](blended-radiology-assistant-higher-satisfaction-all-dimensions.md) — related
 - [MDT-CDIO integrated teaching yields higher student satisfaction across all five evaluated dimensions than traditional teaching](mdt-cdio-higher-satisfaction-all-dimensions.md) — related
 - [Evidence on simulated patients versus peer role play is mixed: equal competence in one randomised trial, higher skills and satisfaction for SPs in others](sp-versus-peer-role-play-mixed.md) — related

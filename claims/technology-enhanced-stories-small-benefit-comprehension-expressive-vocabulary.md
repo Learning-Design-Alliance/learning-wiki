@@ -69,7 +69,7 @@ Same meta-analytic synthesis (43 studies, 2,147 children, random effects model).
 
 - [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md) — the general claim this finding bears on, with the studies behind it
 - [Technology-enhanced stories (any digital addition, not multimedia alone) significantly improve expressive vocabulary for children disadvantaged by environmental factors such as low parental education](multimedia-expressive-vocabulary-environmentally-disadvantaged.md) — a narrower finding that bears on this claim
-- [Multimedia-only stories benefit story comprehension, whereas stories that also include interactive features do not](multimedia-only-benefits-interactive-features-detrimental.md) — a narrower finding that bears on this claim
+- [Multimedia-only stories benefit story comprehension, whereas stories that also include interactive features show no significant benefit](multimedia-only-benefits-interactive-features-detrimental.md) — a narrower finding that bears on this claim
 - [Technology-enhanced stories show no significant additional effect on receptive vocabulary compared with traditional storybook reading](technology-stories-no-receptive-vocabulary-effect.md) — related
 - Study design moderates the technology effect: between-subject studies yield a significantly higher average effect than within-subject studies — related
 - [Technology-enhanced stories show no significant effect on child engagement and communication during reading](technology-stories-no-engagement-effect.md) — related

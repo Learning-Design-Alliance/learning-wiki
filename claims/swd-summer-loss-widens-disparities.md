@@ -61,5 +61,5 @@ The brief's description of its research on differential growth during school yea
 - [Students with disabilities in grades K-4 grow as much or more academically during some school years than peers without disabilities](swd-school-year-growth-matches-or-exceeds-peers.md) — related
 - [In math, ELs grew more than never-ELs during academic years but lost more during summers](el-math-academic-year-growth-greater-summer-loss.md) — related
 - [The reality of summer learning loss is more complex than the long-standing gap-widening account](summer-loss-more-complex-than-gap-account.md) — related
-- [Early failure in phonetic recoding and decoding widens the acquisition gap between false beginners and successful learners over time](early-decoding-failure-widens-acquisition-gap.md) — related
+- [Japanese young-adult EFL false beginners struggle mainly with phonetic recoding and decoding; from a one-time comparison, the author infers that this early failure widens their gap with successful learners](early-decoding-failure-widens-acquisition-gap.md) — related
 - [Math and reading growth trajectories of children with learning disabilities parallel those of children without disabilities in rate and shape across Grades 1–5](ld-trajectories-parallel-non-disabled.md) — reports the opposite

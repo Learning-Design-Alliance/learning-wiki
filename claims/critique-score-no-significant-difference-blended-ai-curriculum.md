@@ -51,7 +51,7 @@ Independent t-test of CASP-rubric critique scores, double-rated (Cohen's kappa a
 - [Intervention group achieved significantly higher post-intervention total EBM scores than control group (13.11 vs 10.12)](intervention-group-higher-post-test-total-ebm.md) — related
 - [Both blended learning and problem-based learning produced significantly higher algebra achievement than traditional lecture method, while BL and PBL did not differ significantly](bl-pbl-outperform-tlm-algebra.md) — related
 - [The context-based instructional design produced higher post-test cognitive achievement than the existing curriculum when prior readiness was controlled](context-based-ecosystem-design-higher-achievement.md) — related
-- [BOPPPS-based blended teaching produces significantly higher final examination and process assessment scores than traditional lecture-based teaching](boppps-higher-final-exam-process-assessment.md) — related
+- [In one nonrandomised quasi-experiment, a BOPPPS-based blended teaching class scored significantly higher on final examination and process assessment than a traditional lecture-based class](boppps-higher-final-exam-process-assessment.md) — related
 - [Mobile learning applications improve undergraduate academic achievement compared with traditional lecture-based instruction](mobile-learning-improves-achievement-quasi-experiment.md) — related
 - [Total academic performance favored the blended AI-integrated curriculum group but the difference was not statistically significant](total-performance-nonsignificant-trend-blended-ai-curriculum.md) — related
 - [No significant differences between chatbot and traditional groups in total completion time, time per question, or question revisits](no-time-or-navigation-differences-chatbot.md) — related

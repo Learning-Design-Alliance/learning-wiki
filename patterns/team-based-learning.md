@@ -184,7 +184,7 @@ The retrieval evidence supports the readiness tests as retrieval with feedback; 
 - [TBL benefits pharmacy students in both 4-year university and 3-year college programs, with a larger pooled effect in colleges](../claims/tbl-benefits-university-and-college-pharmacy-students.md) [+W]
 - [TBL significantly increases students' learning attitude compared with LBL (pooled SMD = 3.23)](../claims/tbl-increases-learning-attitude.md) [+W]
 - [TBL develops more students' learning enthusiasm than LBL according to student questionnaires](../claims/tbl-increases-learning-enthusiasm-questionnaires.md) [+W]
-- [TBL develops students' thinking ability more than LBL, though with high heterogeneity driven by one study](../claims/tbl-increases-thinking-ability-questionnaires.md) [+W]
+- [More TBL than LBL students report that their pedagogy greatly developed their thinking ability, though with high heterogeneity driven by one study](../claims/tbl-increases-thinking-ability-questionnaires.md) [+W]
 - [TBL develops more students' self-study ability than LBL according to student questionnaires](../claims/tbl-increases-self-study-ability-questionnaires.md) [+W]
 - [TBL significantly increases students' learning skill compared with LBL (pooled SMD = 2.70)](../claims/tbl-increases-learning-skill.md) [+W]
 - [TBL significantly increases medical students' theoretical examination scores compared with LBL in Chinese medical education (pooled SMD = 2.46)](../claims/tbl-increases-theoretical-examination-scores-china.md) [+W]

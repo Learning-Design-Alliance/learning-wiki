@@ -57,4 +57,4 @@ Same PLS-SEM survey study (n = 548); the structural path from AI-TPACK to scienc
 - [AI-TPACK dimensions are significantly and positively associated with college teachers' professional identity and AI literacy](ai-tpack-dimensions-associated-with-identity-and-ai-literacy.md) — related
 - [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](teacher-beliefs-mediate-ai-integration.md) — related
 - [In a first-order support-dimension model, only informational support retained a significant path to AI learning self-efficacy](informational-support-unique-dimension-path-self-efficacy.md) — related
-- [ITS-based practice did not improve post-training self-efficacy relative to paper-based practice; baseline self-efficacy was the primary determinant](its-practice-no-self-efficacy-gain.md) — related
+- [Post-training self-efficacy did not differ significantly between ITS-based and paper-based practice; baseline self-efficacy was the only significant predictor](its-practice-no-self-efficacy-gain.md) — related

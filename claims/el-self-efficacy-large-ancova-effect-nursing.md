@@ -51,5 +51,5 @@ Prespecified baseline-adjusted one-way ANCOVA with Bonferroni correction (α=0.0
 - [The teaching quality advantage remained significant after covariate adjustment, intention-to-treat, and mixed-effects sensitivity analyses](patient-in-classroom-sensitivity-analyses.md) — related
 - [In the combined nursing sample, academic performance correlated moderately with self-efficacy, and attitudes correlated moderately with self-efficacy, while academic performance and attitudes were not significantly associated.](el-outcome-intercorrelations-nursing-sample.md) — related
 - [Within-group gains over time occurred in both groups for academic performance, but only the embodied learning group showed significant within-group gains in attitudes and self-efficacy.](el-within-group-gains-three-outcomes.md) — related
-- [SFHC intervention improved nursing learning self-efficacy scores post-intervention](sfhc-improved-nursing-self-efficacy.md) — related
+- [In a nonrandomized cohort, nursing interns taught with SFHC scored higher on learning self-efficacy after the intervention than interns taught traditionally](sfhc-improved-nursing-self-efficacy.md) — related
 - [Traditional lecture-based teaching produced only a negligible, non-significant 0.8% increase in nursing students' self-efficacy](traditional-lecture-negligible-self-efficacy-change.md) — related

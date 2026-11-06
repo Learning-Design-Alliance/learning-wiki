@@ -24,7 +24,7 @@ Duong et al.'s E-EMR is a professional-development framework that guides teacher
 ### Claims
 - [E-EMR showed no significant main effects on ninth graders' student–teacher relationships, belonging, motivation, engagement, or behavior over four months](../claims/e-emr-no-significant-main-effects-high-school.md) [+M]
 - [E-EMR effects were moderated by baseline scores, with significant benefits for students who started with worse scores on STR, conduct problems, and total problems](../claims/e-emr-baseline-moderation-low-scorers-benefit.md) [+M]
-- [E-EMR showed targeted benefits by race/ethnicity: significant interactions for Asian, Latinx, Black, and Multiracial students relative to White students on nine outcomes](../claims/e-emr-race-ethnicity-moderated-benefits.md) [+M]
+- [E-EMR effects differed by race/ethnicity: seven significant race × condition interactions relative to White students, for Asian, Latinx, Black and Multiracial students, mostly favouring them](../claims/e-emr-race-ethnicity-moderated-benefits.md) [+M]
 
 ## Related Products and Programmes
 -

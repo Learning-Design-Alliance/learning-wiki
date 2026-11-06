@@ -47,7 +47,7 @@ Results section, Clip Applying analysis of the prospective randomized study (80 
 ## Related Claims
 - [Box trainer training produced pronounced improvements across all performance domains, particularly in precision and error reduction](box-trainer-error-reduction-gains.md) — related
 - [Serious game training improved basic laparoscopic skills but showed limited transfer to complex tasks, failing to reach significance on Clip Applying overall performance](serious-game-limited-transfer-complex-tasks.md) — related
-- [Spatial visualizers (SPAT) outperformed object visualizers and verbalizers across all laparoscopic training modalities and performance domains](spatial-learners-outperform-other-cognitive-styles.md) — related
+- [Spatial visualizers (SPAT) outperformed object visualizers and verbalizers across all performance domains on a laparoscopic clip-applying task, pooled across training modalities](spatial-learners-outperform-other-cognitive-styles.md) — related
 - [Verbal learners improved significantly only in the VR training group, suggesting VR's structured feedback benefits learners with non-spatial cognitive profiles](verbal-learners-improve-only-in-vr-group.md) — related
 - [Simulation-based training translates laparoscopic surgical skills to the operating room](simulation-training-translates-laparoscopic-skills-to-or.md) — a broader claim this one bears on
 - [VR-trained surgical residents outperform non-VR-trained peers in laparoscopic procedures](vr-trained-residents-fewer-errors-laparoscopy.md) — related

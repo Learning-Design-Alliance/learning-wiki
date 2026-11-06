@@ -44,7 +44,7 @@ The article proposes an organizing framework in which the Mini-CEX competency-ba
 - [AI-Mentor pilot improves overall clinical competence on Mini-CEX from pretest to posttest](../claims/ai-mentor-pilot-improves-overall-mini-cex.md) [+W]
 - [AI-Mentor pilot yields the largest gains in reasoning-aligned Mini-CEX domains, notably clinical judgment](../claims/ai-mentor-largest-gains-reasoning-domains.md) [+W]
 - [AI-assisted PBL-CBL combined teaching yields higher Mini-CEX scores than lecture-based teaching in interviewing, physical examination, clinical judgment and communication, with no statistically significant difference in humanistic qualities/professionalism or organization/efficiency](../claims/ai-pbl-cbl-improves-mini-cex-clinical-reasoning-domains.md) [+W]
-- [AI simulation improves Mini-CEX medical interviewing skills and organization/efficiency but not professionalism, clinical judgment, counseling, or overall competence](../claims/ai-simulated-patient-minicex-domains-gynecology.md) [+W]
+- [AI simulated-patient practice improved Mini-CEX medical interviewing and organization/efficiency scores, with no significant difference detected in professionalism, clinical judgment, counseling, or overall competence](../claims/ai-simulated-patient-minicex-domains-gynecology.md) [+W]
 - [The study's single-center, no-control-group, cross-sectional design limits attribution of positive perceptions to the Mini-CEX integration](../claims/single-center-no-control-design-limits-attribution.md) [-W]
 - [Integrated online-PBL-CBL teaching improves overall Mini-CEX clinical competence but not its individual sub-dimensions](../claims/online-pbl-cbl-minicex-overall-competence-gain.md) [+W]
 

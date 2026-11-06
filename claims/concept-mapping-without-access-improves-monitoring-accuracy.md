@@ -45,5 +45,5 @@ Experiment with at-risk university readers across three conditions; concept-mapp
 
 
 ## Related Claims
-- [Boundary conditions: explicit relation-focused instructions and no access to products during judgment are needed for mapping and drawing to improve monitoring accuracy](mapping-drawing-boundary-conditions-instructions-and-retrieval.md) — related
+- [A review of relative monitoring accuracy concludes that concept mapping and drawing seem to need relation-focused instructions, and that accuracy benefited only when students lacked access to their products during judgment, so retrieval might be necessary](mapping-drawing-boundary-conditions-instructions-and-retrieval.md) — related
 - [Five of seven situation-model interventions significantly improved relative metacomprehension accuracy, concept mapping only marginally (p = .097), and self-explaining not significantly](individual-interventions-effective-except-self-explaining.md) — related

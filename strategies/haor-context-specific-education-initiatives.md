@@ -38,7 +38,7 @@ The article's respondents judged current school initiatives insufficient and rec
 
 ## Claims
 
-- [Bullying and punitive teacher behavior increase chronic absenteeism while household work and family income reduce it](../claims/bullying-punitive-behavior-increase-chronic-absenteeism.md) [+M]
+- [In one Haor-region survey, bullying was associated with higher odds of chronic absenteeism and household work and family income with lower odds; the direction of the teacher-behaviour association is ambiguous](../claims/bullying-punitive-behavior-increase-chronic-absenteeism.md) [+M]
 - [Bullying and punitive teacher behavior sharply reduce the odds of good academic performance](../claims/bullying-punitive-teacher-behavior-reduce-performance.md) [+M]
 - [Early marriage is associated with poorer academic performance and higher chronic absenteeism among female Haor students](../claims/early-marriage-poorer-performance-absenteeism-female-students.md) [+W]
 - [Family income is the strongest positive predictor of good academic performance among Haor secondary students](../claims/family-income-strongest-predictor-haor-academic-performance.md) [+W]

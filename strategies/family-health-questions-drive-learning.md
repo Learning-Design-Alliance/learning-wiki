@@ -45,7 +45,7 @@ In the SFHC model, family members "could upload real case information, laborator
 ## Claims
 
 - [SFHC intervention improved medical curiosity (SMC) scores of general surgical nursing interns post-intervention](../claims/sfhc-improved-medical-curiosity-smc.md) [+W]
-- [SFHC intervention improved nursing learning self-efficacy scores post-intervention](../claims/sfhc-improved-nursing-self-efficacy.md) [+W]
+- [In a nonrandomized cohort, nursing interns taught with SFHC scored higher on learning self-efficacy after the intervention than interns taught traditionally](../claims/sfhc-improved-nursing-self-efficacy.md) [+W]
 - [SFHC intervention improved doctor-patient communication (SEGUE) scores post-intervention](../claims/sfhc-improved-segue-communication.md) [+W]
 - [Medical interns in a 3D printing-assisted family-school-hospital programme had higher social medical curiosity scores after baseline adjustment than a non-randomised traditional-teaching group](../claims/fsph-3d-model-improves-social-medical-curiosity.md) [+W]
 

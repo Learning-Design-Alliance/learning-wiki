@@ -85,7 +85,7 @@ Final examination administered one week after course completion. The experimenta
 ## Related Claims
 - [Performance differences favoring the blended model are larger in practical skill-focused Refractive Classroom than memory-based Amblyopia Classroom](mooc-hfs-larger-effects-practical-refractive-classroom.md) — a narrower finding that bears on this claim
 - [Significant Time × Group interaction shows experimental group maintained scores while control group declined at final examination](mooc-hfs-time-group-interaction-retention.md) — related
-- [BOPPPS-based blended teaching produces significantly higher final examination and process assessment scores than traditional lecture-based teaching](boppps-higher-final-exam-process-assessment.md) — related
+- [In one nonrandomised quasi-experiment, a BOPPPS-based blended teaching class scored significantly higher on final examination and process assessment than a traditional lecture-based class](boppps-higher-final-exam-process-assessment.md) — related
 - [A blended flipped classroom produced statistically significantly higher post-test scores than traditional teaching in one included histology study (p < 0.0001)](blended-flipped-classroom-higher-posttest-scores.md) — related
 - [Blended e-learning significantly raised students' overall self-assessment scores relative to traditional learning (η2 = .129)](blended-elearning-overall-self-assessment-higher.md) — related
 - [MOOC-HFS blended model promotes deep learning approaches without changing surface learning on R-SPQ-2F](mooc-hfs-promotes-deep-learning-approaches.md) — related

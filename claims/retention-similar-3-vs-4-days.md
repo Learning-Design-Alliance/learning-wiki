@@ -47,4 +47,4 @@ Secondary analysis of the weekly retention tests by retention interval (3 vs 4 d
 ## Related Claims
 - [Long post-class naps (>30 min) improve retention versus waking with specific interference (another lecture in the same discipline)](long-naps-vs-specific-interference-retention.md) — related
 - [No significant differences between conditions on the retention test, and scores of the Visual and Timeline conditions decreased significantly from post-test to retention](timeline-effect-disappears-at-retention.md) — related
-- [A within-list lag effect persisted at all retention intervals (up to 7 days) when the orienting task allowed interitem associations, contrary to what a context-only retrieval account predicts for that condition](within-list-lag-persists-with-interitem-associations.md) — related
+- [A within-list lag effect appeared in almost every list, at retention intervals up to 7 days, when the orienting task allowed interitem associations, contrary to what a context-only retrieval account predicts for that condition](within-list-lag-persists-with-interitem-associations.md) — related

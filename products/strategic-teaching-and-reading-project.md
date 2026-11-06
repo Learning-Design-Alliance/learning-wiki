@@ -34,7 +34,7 @@ A North Central Regional Educational Laboratory professional-development program
 - **Strategic Teaching and Reading Project (STRP) and its five global reading strategies**: STRP is a research-based instructional improvement and staff development project, originally developed in 1987 by NCREL with Wisconsin agencies, that measurably improves student reading comprehension. It works with any existing curriculum, adapts to local and state objectives, suits all K-12 classrooms, and maintains teacher creativity and instructional freedom. It presents five global reading strategies: Metacognition, Prior Knowledge, Inference, Word Meaning, and Text Structure, delivered through at least two years of consultant support with twice-yearly teacher training and classroom observations. (Gil et al. (2001))
 
 ### Claims
-- [Predicting, using contextual analysis, and rereading were the most frequently used metacognitive behaviors; deciding when to stop, independent reading time, and testing were least frequent](../claims/predicting-contextual-analysis-rereading-most-frequent.md) [+W]
+- [Predicting, using contextual analysis, and rereading were the most frequently used metacognitive behaviors; deciding when to stop and independent reading time were least frequent](../claims/predicting-contextual-analysis-rereading-most-frequent.md) [+W]
 - [Upper-level students most often reported contextual analysis, setting the purpose for reading, monitoring comprehension, and rereading](../claims/secondary-students-top-metacognitive-behaviors.md) [+W]
 
 ## Related Products and Programmes
@@ -111,7 +111,7 @@ STRP is a research-based instructional improvement and staff development project
 
 ### Claims
 
-- [Predicting, using contextual analysis, and rereading were the most frequently used metacognitive behaviors; deciding when to stop, independent reading time, and testing were least frequent](../claims/predicting-contextual-analysis-rereading-most-frequent.md) [+W]
+- [Predicting, using contextual analysis, and rereading were the most frequently used metacognitive behaviors; deciding when to stop and independent reading time were least frequent](../claims/predicting-contextual-analysis-rereading-most-frequent.md) [+W]
 - [Upper-level students most often reported contextual analysis, setting the purpose for reading, monitoring comprehension, and rereading](../claims/secondary-students-top-metacognitive-behaviors.md) [+W]
 
 ## Related Theories

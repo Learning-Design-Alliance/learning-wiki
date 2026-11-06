@@ -42,7 +42,7 @@ A strategy where the teacher delivers lesson content through Facebook social net
 
 ## Claims
 
-- [Facebook-based learning significantly enhances creativity in producing missionary motto among Islamic Studies students compared to control group](../claims/facebook-based-learning-enhances-creativity-missionary-motto-islamic-studies.md) [+W]
+- [Islamic Studies students taught through Facebook-based learning scored significantly higher than a non-randomised control class on creativity in producing a missionary motto](../claims/facebook-based-learning-enhances-creativity-missionary-motto-islamic-studies.md) [+W]
 - [Facebook-based learning significantly enhances creativity in problem solving among Islamic Studies students compared to control group](../claims/facebook-based-learning-enhances-creativity-problem-solving-islamic-studies.md) [+W]
 - [Facebook-based learning significantly enhances creativity in writing among Islamic Studies students compared to control group](../claims/facebook-based-learning-enhances-creativity-writing-islamic-studies.md) [+W]
 - [Significant differences exist in student achievement based on creativity indicators within the Facebook-based learning treatment group](../claims/significant-differences-student-achievement-creativity-indicators-facebook-treatment.md) [+W]

@@ -47,5 +47,5 @@ Chi-square test in the 189-student Haor survey found number of teachers (6–10,
 ## Related Claims
 - [Peer support for study positively predicts academic performance among Haor students](peer-support-predicts-haor-academic-performance.md) — related
 - [Early marriage is associated with poorer academic performance and higher chronic absenteeism among female Haor students](early-marriage-poorer-performance-absenteeism-female-students.md) — related
-- [Bullying and punitive teacher behavior increase chronic absenteeism while household work and family income reduce it](bullying-punitive-behavior-increase-chronic-absenteeism.md) — related
+- [In one Haor-region survey, bullying was associated with higher odds of chronic absenteeism and household work and family income with lower odds; the direction of the teacher-behaviour association is ambiguous](bullying-punitive-behavior-increase-chronic-absenteeism.md) — related
 - [Parental education positively predicts regular attendance while school distance and limited peer help negatively predict it](parental-education-distance-peer-help-predict-attendance.md) — related

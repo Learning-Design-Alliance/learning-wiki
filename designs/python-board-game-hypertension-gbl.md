@@ -38,7 +38,7 @@ The GBL intervention was a board game format consisting of multiple-choice pract
 
 ### Claims
 
-- [Multiple-choice single-select items are less difficult than open-ended response questions, and delayed perceived task difficulty ratings relate more strongly to relative item difficulty for open-ended items](../claims/answer-format-availability-affects-difficulty-and-ratings.md) [~W]
+- [In one German secondary-school chemistry test, multiple-choice single-select items were less difficult than open-ended items, and delayed perceived task difficulty ratings related more strongly to relative item difficulty for open-ended items](../claims/answer-format-availability-affects-difficulty-and-ratings.md) [~W]
 
 ## Related Designs
 

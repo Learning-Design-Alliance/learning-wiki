@@ -47,7 +47,7 @@ The course design placed learners "before problematic situations in order to ena
 - [Post-test Instant DCA profiles show sufficient technological expertise on interface identification (59%) and technical problem solving (52%) but very low technological understanding (26%)](../claims/dca-post-technological-dimension-profile.md) [+W]
 - [A 60-hour e-learning activity programme significantly increased pre-service teachers' Instant DCA scores on the technological, cognitive and ethical dimensions](../claims/elearning-activities-increase-dca-digital-competence.md) [+W]
 - [R-I-Z-A-based assessment reported satisfactory qualitative outcomes in one uncontrolled pre-post study: the resources component rose from beginning to end (86%), 81% of participants had excellent interpretation performance at the end, and 76% could produce a medial message at the end](../claims/riza-competence-profiles-satisfactory-outcomes.md) [+W]
-- [Students' self-regulation abilities rose from pre-test to post-test after self-evaluation sections, including monitoring problem-solving processes, correcting irrelevant strategies and reflecting on actions, in one one-group study with no comparison group](../claims/self-regulation-gains-from-self-evaluation-sections.md) [+W]
+- [In one one-group study, students were reported to monitor problem-solving and correct irrelevant strategies by the end of a digital-literacy course that included self-evaluation sections; no pre-post result for self-regulation is reported](../claims/self-regulation-gains-from-self-evaluation-sections.md) [+W]
 
 ## Related Strategies
 

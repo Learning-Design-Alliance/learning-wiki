@@ -48,7 +48,7 @@ Experiment with 120 undergraduates randomly assigned to six conditions reading a
 ## Related Claims
 - [Readers in all conditions except sketching were overconfident, with the most overconfidence in the photograph condition and the least in the sketching condition](overconfidence-all-conditions-except-sketching.md) — related
 - [Sketching during reading yielded the most accurate comprehension monitoring, with significantly less absolute error than photograph, no-image, and animation conditions](sketching-most-accurate-monitoring-absolute-error.md) — related
-- [Spatial thinking and generative activity reduced monitoring error while higher interest increased it](spatial-generative-reduce-error-interest-increases.md) — related
+- [Spatial-thinking and generative-activity conditions predicted less monitoring error, while higher interest ratings predicted more](spatial-generative-reduce-error-interest-increases.md) — related
 - [A WestEd research bulletin reports a curriculum revision that replaced a decorative photograph in a math problem with a problem-relevant sketch, on the developers' view that such photographs distract students](decorative-images-distract-from-math-problems.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
 - [Related decorative pictures do not increase triggered or maintained situational interest; in Experiment 2 they reduced maintained interest](related-pictures-no-interest-increase.md) — related

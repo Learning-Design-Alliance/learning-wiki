@@ -25,7 +25,7 @@ An evaluation pipeline that scores both sides of student-chatbot interactions at
 ### Claims
 
 - [The LLM-judge scoring pipeline for the two metrics aligns with human labels and human raters](../claims/llm-judge-pipeline-validated-against-human-raters.md) [+M]
-- [GRPO alignment without the directness reward raises Socratic scaffolding effectiveness from 0.300 to 0.633 and cuts keyword leakage from 26.7% to 13.3% on held-out questions](../claims/grpo-without-directness-raises-socratic-scaffolding-effectiveness.md) [+M]
+- [GRPO alignment without the directness reward raises Socratic scaffolding effectiveness from 0.300 to 0.633 and cuts keyword leakage from 30.0% to 13.3% against the prompt-only base on held-out questions](../claims/grpo-without-directness-raises-socratic-scaffolding-effectiveness.md) [+M]
 - [The best GRPO variant also achieves the highest Conversation Depth (0.722), suggesting stronger scaffolding accompanies deeper semantic progression](../claims/grpo-without-directness-highest-conversation-depth.md) [+M]
 - [Interaction patterns of benchmark datasets and real-world deployment categories are statistically distinct in the scaffolding-uptake space](../claims/benchmark-and-realworld-interaction-categories-statistically-distinct.md) [~W]
 

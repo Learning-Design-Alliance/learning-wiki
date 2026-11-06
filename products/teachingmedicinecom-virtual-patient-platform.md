@@ -24,7 +24,7 @@ TeachingMedicine.com virtual patient platform is a computer-based clinical-case 
 
 ### Claims
 - [Correct diagnoses are associated with higher diagnostic justification and test-ordering scores and fewer cognitive errors in pre-clerkship virtual patient cases](../claims/correct-diagnoses-higher-dxj-fewer-cognitive-errors.md) [+M]
-- [Repeated deliberate practice over 20 virtual patient cases improves diagnostic justification, test ordering, cognitive errors, and misdiagnosis rates without plateau](../claims/deliberate-practice-improves-cr-no-plateau.md) [+M]
+- [Across 20 virtual patient cases with automated feedback, students' diagnostic justification, test ordering, cognitive errors and misdiagnosis rates improved with case sequence without plateau, in a non-randomised observational study](../claims/deliberate-practice-improves-cr-no-plateau.md) [+M]
 
 ## Related Products and Programmes
 -

@@ -69,7 +69,7 @@ Multiple regression on mean learning rate in the speechreading training group, a
 - [Visual Processing](../learner-variables/visual-processing.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Age, general cognition (MoCA), visual working memory, and hearing loss showed no significant association with the extent of training-induced change, and the three-way modality-by-AWM-by-hearing-loss interaction was not significant](null-moderators-training-induced-change.md) — related
+- [Age, general cognition (MoCA), visual working memory, and hearing loss showed no significant main association with the extent of training-induced change, though hearing loss and auditory working memory each moderated it by training modality; the three-way interaction was not significant](null-moderators-training-induced-change.md) — related
 - [General processing speed (choice reaction time and figure matching) does not significantly predict mathematics achievement in Grade 7 or Grade 9](general-processing-speed-does-not-predict-math.md) — related
 - [Three weeks of computer-based speechreading training improves audiovisual speech-in-noise comprehension in middle-aged and older adults, with the effect limited to the audiovisual condition](speechreading-training-improves-av-speech-in-noise.md) — related
 - [Participants who improved on audiovisual speech-in-noise comprehension had significantly lower pre-training scores than non-learners, reflecting the inherent correlation between baseline and change scores](learners-lower-baseline-av-scores.md) — related

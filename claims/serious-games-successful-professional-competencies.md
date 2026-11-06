@@ -46,6 +46,6 @@ Systematic review of 56 studies (published 2006–2020) on serious games for pro
 
 ## Related Claims
 - [Adaptivity is rarely implemented in serious games for professional competencies, no reviewed game adjusts difficulty down based on player actions, and none were found for cognitive skills](adaptivity-rare-in-serious-games.md) — related
-- [Serious games can provide an authentic physical context and task for professional competencies, though a small number of successful games used neither](serious-games-authentic-context-task.md) — related
+- [Serious games can provide an authentic physical context and task for professional competencies, though a few successful games lacked an authentic physical context or an authentic task](serious-games-authentic-context-task.md) — related
 - [In-game behaviors collected unobtrusively in serious games show promising relationships with candidate ability level in the target professional competency](in-game-behavior-indicates-ability.md) — related
 - [Nearly all reviewed serious games include game mechanics providing freedom of gameplay, most commonly choice options, interactive elements, and free exploration](freedom-of-gameplay-mechanics-common.md) — related

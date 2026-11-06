@@ -43,7 +43,7 @@ Because the study found no micro-lecture advantage for communication-related ski
 
 - [The BOPPPS-based micro-lecture system showed no significant advantage over ordinary teaching for doctor-patient communication skills, informed consent, or humanistic care, which the authors deem unsuitable for micro-lecture delivery](../claims/boppps-microlecture-no-communication-advantage.md) [+W]
 - [The BOPPPS-based micro-lecture group outperformed controls on eight of eleven DOPS clinical skills indicators (p < 0.005), with preoperative preparation at the significance threshold and no differences on informed consent or patient communication](../claims/boppps-microlecture-dops-clinical-skills.md) [+W]
-- [Peer role-play and peer assessment improve non-technical clinical competencies (doctor-patient communication, humanistic care, preoperative preparation) with a large effect for communication skills](../claims/peer-roleplay-improves-nontechnical-clinical-competencies.md) [+W]
+- [In a comparison of two consecutive cohorts, adding peer role-play and peer assessment was associated with higher scores on non-technical clinical competencies (doctor-patient communication, humanistic care, preoperative preparation)](../claims/peer-roleplay-improves-nontechnical-clinical-competencies.md) [+W]
 
 ## Related Strategies
 

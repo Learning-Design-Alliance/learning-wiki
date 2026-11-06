@@ -46,6 +46,6 @@ Qualitative finding from co-development workshops with teachers (n = 10) and you
 
 ## Related Claims
 - [Embedding movement into routine lessons was perceived as feasible, acceptable and beneficial when designed as whole-class, creative, curriculum-based activity](movement-feasible-whole-class-design.md) — related
-- [Self-talk activities were perceived as feasible and beneficial only when grounded in authentic, realistic modelling rather than exaggerated positivity](self-talk-authentic-modelling.md) — related
+- [Teachers and young people saw self-talk activities as most effective when grounded in authentic, realistic modelling, and young people rejected exaggerated positivity](self-talk-authentic-modelling.md) — related
 - [Gratitude and strengths-reflection activities were rejected as public classroom disclosures but accepted as discrete short summary activities](gratitude-strengths-context-dependent.md) — related
 - [Teachers perceived the embedded activities to have positive impacts on pupils' mental health, engagement, learning and enjoyment in class](teacher-perceived-positive-impact.md) — a broader claim this one bears on

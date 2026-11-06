@@ -39,7 +39,7 @@ Rather than requiring every student to grade peers, the method trains a model on
 ## Claims
 
 - [A matrix factorization model trained on sparse peer assessment data can predict grades for answers from students who did not participate in grading, reducing the grading burden on students.](../claims/matrix-factorization-predicts-grades-for-nongrading-students.md) [+W]
-- [A multitask matrix factorization approach that jointly learns grades across multiple assessment labels outperforms a single-task (binary relevance) baseline that learns each label separately.](../claims/multitask-matrix-factorization-outperforms-single-task-baseline.md) [+W]
+- [In peer-assessment data from three courses, a multitask matrix factorization approach that jointly learns grades across assessment labels had lower error than a single-task (binary relevance) baseline in 8 of 10 comparisons.](../claims/multitask-matrix-factorization-outperforms-single-task-baseline.md) [+W]
 - [Peer assessment systems can generate explanatory feedback for students by having graders assess multiple labeled aspects of an answer, not just an overall grade.](../claims/peer-assessment-multi-label-feedback.md) [+W]
 - [AGE reduces teacher grading burden by requiring only 1% of student answers in the UNT dataset to be graded](../claims/age-grades-only-one-percent-unt.md) [+W]
 

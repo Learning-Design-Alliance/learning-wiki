@@ -31,7 +31,7 @@ GeoGebra is a free dynamic mathematics software platform developed and maintaine
 
 ### Claims
 
-- [A dynamic geometry model of the quilt problem helped an informal educator understand its spatial relations](../claims/geometry-software-model-helped-informal-educator-understand-spatial-relations.md) [+W]
+- [A geometry-software model of the quilt problem helped an informal educator understand its spatial relations, by her own report](../claims/geometry-software-model-helped-informal-educator-understand-spatial-relations.md) [+W]
 
 ## Related Products and Programmes
 

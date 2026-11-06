@@ -51,5 +51,5 @@ Step 3 ML-SEM mediation model (Figure 1) in the same 71-classroom longitudinal f
 
 ## Related Claims
 - [Only the current teacher's enthusiasm relates to students' enjoyment; prior-year teacher enthusiasm is unrelated to next-year enjoyment](current-teacher-only-enjoyment-effect.md) — related
-- [Perceived teacher enthusiasm positively predicts student enjoyment at the within-class (individual student) level](enthusiasm-within-class-student-enjoyment.md) — related
+- [Perceived teacher enthusiasm is positively associated with student enjoyment at the within-class (individual student) level, beyond prior enjoyment](enthusiasm-within-class-student-enjoyment.md) — related
 - [Instructor body posture shows no direct effects on students' situational interest, but indirect-only mediation effects through perceived enthusiasm](posture-interest-indirect-enthusiasm-mediation.md) — related

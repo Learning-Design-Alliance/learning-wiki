@@ -47,5 +47,5 @@ Bivariate correlations among the three informants' SEL composite ratings in the 
 
 ## Related Claims
 - [Teachers' SEL ratings correlate more strongly with students' academic scores than students' or parents' ratings, and only teachers maintain significant correlations in ninth grade](teacher-sel-ratings-strongest-academic-correlations.md) — related
-- [Parents rate Arabic-speaking students' SEL skills higher than students themselves, and teachers rate them lowest (parents > students > teachers), regardless of grade level](sel-perception-discrepancy-parents-students-teachers.md) — related
+- [Parents rate Arabic-speaking students' SEL skills higher than students themselves, and teachers rate them lowest (parents > students > teachers) overall, though all three differ significantly only in grades seven and nine](sel-perception-discrepancy-parents-students-teachers.md) — related
 - [SEL ratings decline with grade level, and informant discrepancies widen with age (significant group × grade interaction)](sel-ratings-decline-with-grade-discrepancies-widen.md) — related

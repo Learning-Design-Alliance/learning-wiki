@@ -38,7 +38,7 @@ The article imports Funnell's three-route model of single word reading, develope
 
 ### Claims
 
-- [Early failure in phonetic recoding and decoding widens the acquisition gap between false beginners and successful learners over time](../claims/early-decoding-failure-widens-acquisition-gap.md) [+W]
+- [Japanese young-adult EFL false beginners struggle mainly with phonetic recoding and decoding; from a one-time comparison, the author infers that this early failure widens their gap with successful learners](../claims/early-decoding-failure-widens-acquisition-gap.md) [+W]
 
 ## Related Theories
 - 

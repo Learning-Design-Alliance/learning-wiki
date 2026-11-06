@@ -85,5 +85,5 @@ Within-group cross-semester comparison from Table 5: image reading Cohen's d = 1
 
 ## Related Claims
 - [No statistically significant difference between the BOPPPS and traditional teaching groups on multiple-choice (theoretical) question scores](boppps-his-no-difference-multiple-choice.md) — related
-- [BOPPPS-based blended teaching produces significantly higher final examination and process assessment scores than traditional lecture-based teaching](boppps-higher-final-exam-process-assessment.md) — related
+- [In one nonrandomised quasi-experiment, a BOPPPS-based blended teaching class scored significantly higher on final examination and process assessment than a traditional lecture-based class](boppps-higher-final-exam-process-assessment.md) — related
 - [BOPPPS-plus-scenario-simulation teaching was associated with significantly higher summative assessment and total scores than traditional lecture-based instruction](boppps-simulation-higher-summative-total-scores.md) — related

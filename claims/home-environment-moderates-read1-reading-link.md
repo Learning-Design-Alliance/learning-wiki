@@ -49,6 +49,6 @@ Moderation regression analyses (Table 3) in the GRaD sample; the article also re
 
 ## Related Claims
 - [The indirect effect of RU2-Short on reading outcomes through phonological awareness is conditional on home environment: significant at low and medium parental education and low SES, but not at high parental education or high SES](moderated-mediation-pa-indirect-effect-conditional.md) — a narrower finding that bears on this claim
-- [Phonological awareness mediates the effect of the DCDC2-READ1 RU2-Short allele on word reading accuracy, word reading fluency, and reading comprehension](phonological-awareness-mediate-read1-reading-outcomes.md) — related
+- [Phonological awareness statistically mediates the association between the DCDC2-READ1 RU2-Short allele and word reading accuracy, word reading fluency, and reading comprehension](phonological-awareness-mediate-read1-reading-outcomes.md) — related
 - [RU2-Short correlates negatively with phonological awareness and reading comprehension, and positively with SES, in the overall sample](ru2-short-small-correlations-pa-comprehension-ses.md) — related
 - [The observed gene-by-environment pattern supports the diathesis-stress model over the bioecological model of G × E interaction on reading, in this sample of unrelated children](diathesis-stress-model-supported-reading-gxe.md) — related

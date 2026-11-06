@@ -70,6 +70,6 @@ Step 1 ML-SEM model correlating teacher enjoyment with class-average student enj
 
 ## Related Claims
 - [Only the current teacher's enthusiasm relates to students' enjoyment; prior-year teacher enthusiasm is unrelated to next-year enjoyment](current-teacher-only-enjoyment-effect.md) — related
-- [Perceived teacher enthusiasm positively predicts student enjoyment at the within-class (individual student) level](enthusiasm-within-class-student-enjoyment.md) — related
+- [Perceived teacher enthusiasm is positively associated with student enjoyment at the within-class (individual student) level, beyond prior enjoyment](enthusiasm-within-class-student-enjoyment.md) — related
 - [In the HghLBO profile, boredom and enjoyment lose nearly all predictive power for persistence, though they predict persistence in full-sample and multigroup analyses](boredom-enjoyment-prediction-lost-in-hghlbo.md) — related
 - [Higher synopsis enjoyment predicts better comprehension of that synopsis, even controlling for reading ability in Experiment 1](enjoyment-predicts-synopsis-comprehension.md) — related

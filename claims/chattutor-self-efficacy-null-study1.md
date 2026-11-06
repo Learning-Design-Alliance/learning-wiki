@@ -52,5 +52,5 @@ In pre-registered Study 1, the one-way ANOVA on the three-item self-efficacy mea
 ## Related Claims
 - [Prompts increased learners' self-efficacy during learning within the prompted group but did not produce between-group differences at mid-learning or post-learning](prompts-increase-self-efficacy-during-learning.md) — related
 - [In Study 1, the three conditions did not differ significantly on the immediate post-test of conceptual knowledge](chattutor-immediate-posttest-null-study1.md) — related
-- [ITS-based practice did not improve post-training self-efficacy relative to paper-based practice; baseline self-efficacy was the primary determinant](its-practice-no-self-efficacy-gain.md) — related
+- [Post-training self-efficacy did not differ significantly between ITS-based and paper-based practice; baseline self-efficacy was the only significant predictor](its-practice-no-self-efficacy-gain.md) — related
 - The four experimental conditions did not differ in self-reported prior physics performance at baseline — related

@@ -45,7 +45,7 @@ The article recommends that training designs combine sensory and cognitive chall
 - [More pronounced hearing loss moderates the training benefit: participants with PTA 1 SD above the mean improve significantly more after immersive than auditory training](../claims/hearing-loss-moderates-immersive-training-benefit.md) [+W]
 - [Speech-in-noise perception improves significantly after a short-term immersive auditory-cognitive training, but not after an audio-only training session](../claims/immersive-act-improves-speech-in-noise.md) [+W]
 - [Immersive presentation keeps comprehension performance stable across a training session while auditory-only performance decreases toward the end](../claims/immersive-training-comprehension-stability.md) [+W]
-- [Age, general cognition (MoCA), visual working memory, and hearing loss showed no significant association with the extent of training-induced change, and the three-way modality-by-AWM-by-hearing-loss interaction was not significant](../claims/null-moderators-training-induced-change.md) [~W]
+- [Age, general cognition (MoCA), visual working memory, and hearing loss showed no significant main association with the extent of training-induced change, though hearing loss and auditory working memory each moderated it by training modality; the three-way interaction was not significant](../claims/null-moderators-training-induced-change.md) [~W]
 - [Older adults show larger multisensory gains for simple stimuli but multisensory deficits for complex speech stimuli](../claims/aging-multisensory-gains-simple-deficits-complex.md) [~W]
 
 ## Related Strategies

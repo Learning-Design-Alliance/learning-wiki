@@ -24,7 +24,7 @@ A pair of validated instruments developed by Oladayo et al. to measure Senior Se
 ### Claims
 
 - [Students exposed to AI-generated responses achieved higher performance in solving quadratic equations than those taught through conventional teaching methods](../claims/ai-generated-responses-higher-quadratic-achievement.md) [+M] (achievement measured with the QEAT)
-- [AI-generated responses positively influenced the self-efficacy of secondary students in solving mathematics problems](../claims/ai-generated-responses-positive-self-efficacy.md) [+M] (self-efficacy measured with the SQEIAIGRASQ)
+- [Secondary students mildly agreed (mean 2.61 of 4) that AI-generated responses supported their self-efficacy in solving quadratic equations, with no group comparison tested](../claims/ai-generated-responses-positive-self-efficacy.md) [+M] (self-efficacy measured with the SQEIAIGRASQ)
 
 ## Related Products and Programmes
 -

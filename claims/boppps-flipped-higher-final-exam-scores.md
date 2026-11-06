@@ -66,7 +66,7 @@ Descriptive distribution analysis of final grades across the 2021–2024 academi
 ## Related Claims
 - [Students reported high satisfaction with the BOPPPS-flipped classroom model in pediatric dentistry](boppps-flipped-high-student-satisfaction.md) — related
 - [Fifth-year medical students taught with BOPPPS combined with Rain Classroom scored significantly higher on a nephrology final examination than students taught by traditional lecture](boppps-rain-classroom-higher-nephrology-exam-scores.md) — related
-- [BOPPPS-based blended teaching produces significantly higher final examination and process assessment scores than traditional lecture-based teaching](boppps-higher-final-exam-process-assessment.md) — related
+- [In one nonrandomised quasi-experiment, a BOPPPS-based blended teaching class scored significantly higher on final examination and process assessment than a traditional lecture-based class](boppps-higher-final-exam-process-assessment.md) — related
 - [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](blended-boppps-higher-total-scores.md) — a broader claim this one bears on
 - [Final-test score distributions concentrated differently by group: the ChatGPT class peaked at interval 79-83 (32.26% of students) while the control class peaked at 56-61 (25.81%)](frequency-distribution-experimental-79-83-control-56-61.md) — related
 - [By the end of the course the experimental group's final grade distribution was markedly skewed toward higher grades and poor project presenters fell from 22% to 5%, versus 28% in the control group](cl-final-grades-poor-presenters.md) — related

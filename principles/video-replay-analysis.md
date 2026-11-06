@@ -158,7 +158,7 @@ Noticing in a recording, explaining it, the next performance and lasting change 
 
 - [Findings suggest VR-mediated mentoring with 360VR supports newly qualified teachers' noticing, classroom management competencies and self-efficacy](../claims/abc-vr-mentoring-supports-teacher-noticing-self-efficacy.md) [+W]
 - [Most simulation participants preferred high-tech video-assisted debriefing over lower-tech VAD and verbal debriefing, mainly for its better audio/video quality and focused review](../claims/participants-prefer-high-tech-vad-debriefing.md) [+W]
-- [All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback whose credibility was not restricted by facilitator hierarchy](../claims/facilitators-prefer-vad-objective-feedback.md) [+W]
+- [All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback that they felt participants accepted more readily across differences in hierarchy](../claims/facilitators-prefer-vad-objective-feedback.md) [+W]
 - [A five-step structured video-based reflection cycle led teachers to produce substantially more new and more specific solutions than a vicarious-reflection control condition](../claims/ceble-structured-reflection-more-specific-solutions.md) [+W]
 - [Residents report positive perceptions of being recorded and of video review, with discomfort typically fading](../claims/resident-perceptions-video-recording-positive.md) [~W]
 - [Video-based coaching produces significantly larger improvement from baseline to final assessment than control feedback](../claims/vbc-larger-change-scores-baseline.md) [+W]

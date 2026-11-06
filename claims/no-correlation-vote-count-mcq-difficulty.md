@@ -46,6 +46,6 @@ Correlational check within the lecture study to rule out difficulty bias found "
 
 ## Related Claims
 - [Individual and group reflection produce similar short-term MCQ scores in large lecture-based groups](ir-gr-similar-short-term-retention-large-lectures.md) — related
-- [Multiple-choice single-select items are less difficult than open-ended response questions, and delayed perceived task difficulty ratings relate more strongly to relative item difficulty for open-ended items](answer-format-availability-affects-difficulty-and-ratings.md) — related
+- [In one German secondary-school chemistry test, multiple-choice single-select items were less difficult than open-ended items, and delayed perceived task difficulty ratings related more strongly to relative item difficulty for open-ended items](answer-format-availability-affects-difficulty-and-ratings.md) — related
 - [PeerWise student ratings of multiple-choice questions correlate well with instructor ratings (0.5 and 0.58)](peerwise-student-ratings-correlate-instructor-ratings.md) — related
 - [Participant ratings of perceived difficulty, clarity, and relevance did not differ by item origin, and subjective difficulty ratings tracked objective item difficulty](genai-mcq-participant-ratings-no-difference.md) — related

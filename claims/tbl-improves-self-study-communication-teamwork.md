@@ -75,7 +75,7 @@ Meta-analysis of 16 RCTs (1,267 students, interns and residents) in neurology ed
 - [Questionnaire surveys favor PBL over LBL for theoretical knowledge mastery, clinical diagnostic thinking, teamwork, problem solving, document consultation, learning interest, and learning efficiency](pbl-questionnaire-advantages-chinese-srt.md) — related
 - [TBL significantly increases students' learning attitude compared with LBL (pooled SMD = 3.23)](tbl-increases-learning-attitude.md) — related
 - [TBL develops more students' self-study ability than LBL according to student questionnaires](tbl-increases-self-study-ability-questionnaires.md) — related
-- [TBL develops students' thinking ability more than LBL, though with high heterogeneity driven by one study](tbl-increases-thinking-ability-questionnaires.md) — related
+- [More TBL than LBL students report that their pedagogy greatly developed their thinking ability, though with high heterogeneity driven by one study](tbl-increases-thinking-ability-questionnaires.md) — related
 - [Students perceived PBL as providing significant benefits to presentation skills, teamwork, leadership and ability to use IT](pbl-significant-perceived-skill-benefits.md) — related
 - [Teamwork ability, professional ethics awareness, and understanding of healthcare-related social responsibility did not differ significantly between integrated PBL-humanities and LBL groups](integrated-pbl-humanities-null-teamwork-ethics-social-responsibility.md) — related
 - [Higher engagement with case-based learning is significantly associated with greater satisfaction, better understanding, and enhanced perceived skills](cbl-engagement-associated-with-satisfaction-and-perceived-benefits.md) — related

@@ -47,4 +47,4 @@ The review's adaptivity synthesis (Table 7) categorizes games by whether difficu
 ## Related Claims
 - [In-game behaviors collected unobtrusively in serious games show promising relationships with candidate ability level in the target professional competency](in-game-behavior-indicates-ability.md) — related
 - [Serious games are frequently successful in teaching, training, or assessing professional competencies, with reported success rates of 84% for cognitive skills, 83% for knowledge, and 100% for motor skills](serious-games-successful-professional-competencies.md) — related
-- [Serious games can provide an authentic physical context and task for professional competencies, though a small number of successful games used neither](serious-games-authentic-context-task.md) — related
+- [Serious games can provide an authentic physical context and task for professional competencies, though a few successful games lacked an authentic physical context or an authentic task](serious-games-authentic-context-task.md) — related

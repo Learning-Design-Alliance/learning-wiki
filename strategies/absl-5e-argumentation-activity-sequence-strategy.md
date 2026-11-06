@@ -44,7 +44,7 @@ The article's implementation strategy organizes ABSL teaching as a weekly plan o
 
 ## Claims
 
-- [Students most liked the competing theories, news, and concept cartoon activities because these made creating and defending arguments easier](../claims/absl-favorite-activities-ranking.md) [+W]
+- [Interviewed students named competing theories, news and concept cartoons as their favourite argumentation activities, giving reasons that differed by activity, chiefly easier argument creation and better expression of ideas](../claims/absl-favorite-activities-ranking.md) [+W]
 - [Seventh-grade students taught social studies with the ABSL approach scored significantly higher on post-test academic achievement than students in two traditionally taught control groups, with a large effect size](../claims/absl-social-studies-posttest-achievement-higher.md) [+M]
 - [Before implementation, the experimental and control groups showed no statistically significant difference in academic achievement pre-test scores](../claims/absl-social-studies-pretest-equivalence.md) [+W]
 - [Students reported difficulties with the ABSL implementation, most commonly problems in the discussion process and difficulties creating arguments in concept cartoon and migration story activities](../claims/absl-student-views-difficulties.md) [~W]

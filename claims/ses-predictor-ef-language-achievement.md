@@ -47,5 +47,5 @@ The systematic review reports that SES is a powerful predictor of executive func
 ## Related Claims
 - [Cognitive stimulation mediates the association between SES and executive function, language ability, and academic achievement](cognitive-stimulation-mediation-ses-cognition.md) — related
 - [The cross-sectional ToM–achievement association remains significant after controlling for verbal ability, executive functions, non-verbal ability, and SES](tom-achievement-unique-beyond-covariates.md) — related
-- [Executive function partially mediates the link between family SES and middle-school academic achievement](ef-mediation-ses-achievement.md) — related
+- [A review reports that executive function mediates the link between family SES and middle-school academic achievement](ef-mediation-ses-achievement.md) — related
 - [Stress, support, and stimulation mediate the association of SES with EF, language ability, and academic achievement](stress-support-stimulation-mediation-ses.md) — related

@@ -67,7 +67,7 @@ Sensitivity analysis collapsing the "Very Nervous" and "Very Very Nervous" ratin
 ## Related Claims
 - [Math anxiety is significantly negatively correlated with math achievement in second and third graders, independent of trait anxiety and IQ](math-anxiety-negative-math-achievement-young-children.md) — related
 - [Math anxiety is not significantly correlated with reading achievement in young children](math-anxiety-not-correlated-reading-achievement.md) — related
-- [Math anxiety has both a direct negative effect and a WM-mediated indirect effect on children's verbal Math Reasoning, but only an indirect effect on Numerical Operations](math-anxiety-direct-effect-verbal-math-reasoning.md) — related
+- [In a cross-sectional model, math anxiety has both a direct negative path and a WM-mediated indirect path to children's verbal Math Reasoning, but only an indirect path to Numerical Operations](math-anxiety-direct-effect-verbal-math-reasoning.md) — related
 - [Reading comprehension significantly predicts verbal Math Reasoning but not non-verbal Numerical Operations](reading-comprehension-predicts-mr-not-no.md) — related
 - [Both SEMA subscales — numerical and situational anxiety — are equally negatively related to math achievement](math-anxiety-subscale-effects-on-achievement.md) — related
 - [Math anxiety is not significantly correlated with trait anxiety in young children](math-anxiety-uncorrelated-trait-anxiety-children.md) — related

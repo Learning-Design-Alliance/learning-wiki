@@ -39,7 +39,7 @@ The article recommends moving beyond general instructional claims and considerin
 ## Claims
 
 - [Among low baseline self-efficacy students, favorability toward a format moderated its benefit: tutor favorability favored tutor gains, paper unfavorability favored paper gains](../claims/favorability-moderates-format-benefit-low-self-efficacy.md) [+W]
-- [ITS-based practice did not improve post-training self-efficacy relative to paper-based practice; baseline self-efficacy was the primary determinant](../claims/its-practice-no-self-efficacy-gain.md) [+W]
+- [Post-training self-efficacy did not differ significantly between ITS-based and paper-based practice; baseline self-efficacy was the only significant predictor](../claims/its-practice-no-self-efficacy-gain.md) [+W]
 - [The effect of practice condition on learning gains was moderated by a three-way interaction of condition, baseline self-efficacy, and favorability](../claims/three-way-interaction-condition-self-efficacy-favorability-learning.md) [+W]
 
 ## Related Strategies

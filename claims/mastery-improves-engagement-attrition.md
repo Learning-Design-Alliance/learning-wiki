@@ -74,7 +74,7 @@ Both findings come from one conference-paper synthesis (Guskey & Gates 1985). Th
 
 - [Mastery learning effects are larger with a higher mastery standard, group-based pacing, local tests, and less feedback for the comparison group](mastery-learning-effects-vary-with-standard-pacing-and-test-type.md) — the general claim this finding bears on, with the studies behind it
 - [Group-based mastery learning programs yield positive achievement effects in every included study, but effect sizes vary so widely that an average was deemed inappropriate](group-mastery-positive-achievement-all-studies.md) — related
-- [Mastery learning sections show higher earned credit rates than comparable non-mastery sections at the City Colleges of Chicago](mastery-learning-higher-earned-credit-rates.md) — related
+- [Mastery learning sections had higher earned credit rates than comparable non-mastery sections in eight of nine course comparisons at the City Colleges of Chicago](mastery-learning-higher-earned-credit-rates.md) — related
 - [Group-based mastery learning improves retention of learned material, with an average effect size of .62 across four studies](mastery-improves-retention.md) — related
 - [Non-instructional time averages 23 percent in observed Chicago elementary classrooms, with half of teachers at 14 percent and half at 30 percent](non-instructional-time-23-percent-teacher-split.md) — related
 - [Achievement effects of group-based mastery learning are larger for elementary students than for high school or college students](mastery-effects-larger-elementary.md) — related

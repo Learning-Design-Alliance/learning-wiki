@@ -49,6 +49,6 @@ Summary of main effects from the linear mixed-effects models (N = 222), in a wit
 
 ## Related Claims
 - [In TTS dialogue-based lessons, the teacher–teacher format significantly moderates the motivation effects of both the CE factor (positive) and the RCE factor (negative)](tt-format-moderates-ce-rce-motivation.md) — reports the opposite
-- [Interactions between learner characteristics and dialogue format for learning outcomes showed only trends toward significance, not significant effects](learning-outcome-interactions-trend-only.md) — related
+- [No interaction between learner characteristics and dialogue format was significant for self-reported learning outcomes after correction for multiple tests](learning-outcome-interactions-trend-only.md) — related
 - [Student–student and teacher–teacher dialogue formats elicited significantly higher ARCS motivation than the teacher–student format](ss-tt-higher-motivation-than-ts.md) — related
 - [The teacher–teacher format received a significantly lower overall evaluation than the teacher–student format despite raising motivation, with no significant learner-characteristic interactions](tt-lower-overall-evaluation-divergence.md) — related

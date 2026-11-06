@@ -31,7 +31,7 @@ A taxonomy and implementation tool developed by IUPUI for designing, implementin
 - [Students in ePortfolio-based Personal Development Plan sections had significantly higher first-year GPAs and retention than non-ePDP peers, but gains were not sustained without intensive professional development](../claims/epdp-pilot-gpa-retention-gains-not-sustained.md) [+M]
 - [Compared with non-ePortfolio peers, students in courses requiring ePortfolios were generally more engaged, earned higher grades, and were more likely to complete and persist, per the 26-institution project evidence](../claims/epportfolio-courses-engagement-grades-persistence.md) [+M]
 - [ePortfolio produced more powerful outcomes when faculty and staff received extended intensive professional development than brief training or none](../claims/intensive-professional-development-stronger-epportfolio-outcomes.md) [+W]
-- [Philanthropic Studies case: ePortfolio moved from a capstone-only final project to full curricular integration across four required courses over a decade](../claims/philanthropic-studies-epportfolio-curricular-integration.md) [+W]
+- [Philanthropic Studies case: ePortfolio moved from a capstone-only final project (2013) to four required courses (by 2017), described as the foundation for fully integrating it into the curriculum](../claims/philanthropic-studies-epportfolio-curricular-integration.md) [+W]
 - [Public capstone ePortfolio showcases gave students an authentic audience and renewed energy and focus for integrative work](../claims/public-capstone-epportfolio-showcase-audience-effect.md) [+W]
 
 ## Related Products and Programmes
@@ -72,7 +72,7 @@ This framework, drawn from Yancey and adopted as the organizing idea of the IUPU
 - [Students in ePortfolio-based Personal Development Plan sections had significantly higher first-year GPAs and retention than non-ePDP peers, but gains were not sustained without intensive professional development](../claims/epdp-pilot-gpa-retention-gains-not-sustained.md) [+M]
 - [Compared with non-ePortfolio peers, students in courses requiring ePortfolios were generally more engaged, earned higher grades, and were more likely to complete and persist, per the 26-institution project evidence](../claims/epportfolio-courses-engagement-grades-persistence.md) [+M]
 - [ePortfolio produced more powerful outcomes when faculty and staff received extended intensive professional development than brief training or none](../claims/intensive-professional-development-stronger-epportfolio-outcomes.md) [+W]
-- [Philanthropic Studies case: ePortfolio moved from a capstone-only final project to full curricular integration across four required courses over a decade](../claims/philanthropic-studies-epportfolio-curricular-integration.md) [+W]
+- [Philanthropic Studies case: ePortfolio moved from a capstone-only final project (2013) to four required courses (by 2017), described as the foundation for fully integrating it into the curriculum](../claims/philanthropic-studies-epportfolio-curricular-integration.md) [+W]
 - [Public capstone ePortfolio showcases gave students an authentic audience and renewed energy and focus for integrative work](../claims/public-capstone-epportfolio-showcase-audience-effect.md) [+W]
 
 ## Related Theories

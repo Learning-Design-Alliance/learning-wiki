@@ -38,7 +38,7 @@ The article argues that interventions designed to enhance self-control and grit 
 
 ## Claims
 
-- [Direct causal effects of self-control and grit account for only 4.4% of school performance variance, with self-control the stronger causal predictor](../claims/causal-effects-only-4-percent-school-performance.md) [+W]
+- [In a causal twin model, the putatively causal effects of self-control and grit account for only 4.4% of school performance variance, most of the association being genetic confounding](../claims/causal-effects-only-4-percent-school-performance.md) [+W]
 
 ## Related Strategies
 - 

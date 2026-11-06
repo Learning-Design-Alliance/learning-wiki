@@ -77,7 +77,7 @@ A meta-analysis of 57 independent effect sizes from 33 experimental reports, mos
 | [Noetel 2022](https://doi.org/10.3102/00346543211052329) | q3 · quant-synthesis · r3 | i3 | [Captioning second-language videos produces large benefits for comprehension and vocabulary](captioning-second-language-videos-large-benefits.md) (qualifies) |
 | [Trypke et al. 2023](https://doi.org/10.3389/fpsyg.2023.1148035) | q3 · review · r? | i? | [Redundant on-screen text impairs learning when it competes with a visualization, though wr](redundancy-principle.md) (supports) |
 | Kutbay 2020 | q2 · causal · r2 | i? | [In one middle-school quasi-experiment, adding written text to spoken narration makes no si](redundancy-effect-not-significant-middle-school.md) (qualifies) |
-| [Clinton 2016](https://doi.org/10.1080/00220973.2015.1048847) | q3 · causal · r2 | i? | [Redundant text in the diagram did not affect posttest accuracy or difficulty ratings](redundant-text-no-effect-posterior-probability-lesson.md) (qualifies) |
+| [Clinton 2016](https://doi.org/10.1080/00220973.2015.1048847) | q3 · causal · r2 | i? | [Redundant text in the diagram made no statistically significant difference to posttest accuracy or difficulty ratings](redundant-text-no-effect-posterior-probability-lesson.md) (qualifies) |
 | [Richard E. Mayer 2008](https://doi.org/10.1037/0003-066x.63.8.760) | q3 · review · r2 | i2 | [Redundancy principle: animation plus narration beats animation, narration, and on-screen t](redundancy-principle-mayer-2008.md) (supports) |
 | [Darcy 2018](https://doi.org/10.5070/b5.35963) | q1 · theoretical · r3 | i? | [Bimodal captioned input improved L2 listening skills, generalizing to unfamiliar sentences](bimodal-captioned-input-improves-segmentation.md) (supports) |
 <!-- synthesis:end -->
@@ -125,7 +125,7 @@ A meta-analysis of 57 independent effect sizes from 33 experimental reports, mos
 - [APA presentations tend to overload the visual channel, especially with high element interactivity content](apa-visual-channel-overload.md) — related
 - [Redundant speech-gesture cooperation improves recall and social perception more than complementarity](speech-gesture-redundancy-better.md) — related
 - [The spoken–written advantage over spoken-only presentation appears for system-paced but not learner-paced materials](system-paced-moderates-verbal-redundancy.md) — related
-- [Redundant text in the diagram did not affect posttest accuracy or difficulty ratings](redundant-text-no-effect-posterior-probability-lesson.md) — reports the opposite
+- [Redundant text in the diagram made no statistically significant difference to posttest accuracy or difficulty ratings](redundant-text-no-effect-posterior-probability-lesson.md) — reports the opposite
 - [Weeding extraneous information such as music and complex backgrounds improves retention and transfer from video](weeding-extraneous-content-improves-video-learning.md) — related
 - [Spoken–written presentations do not outperform written-only presentations but do outperform spoken-only presentations](spoken-written-beats-spoken-only-not-written-only.md) — related
 - [Congruent pictures paired with text facilitate reading comprehension better than text alone or pictures alone](congruent-pictures-with-text-facilitate-comprehension.md) — related
