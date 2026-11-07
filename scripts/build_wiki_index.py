@@ -51,6 +51,31 @@ import page_identity as pid
 
 WIKI_ROOT = Path(__file__).parent.parent
 OUT_PATH = WIKI_ROOT / "wiki-index.json"
+# The per-page records again, one file per kind and slug prefix: wiki-index/<kind>/<xx>.ndjson,
+# one record per line, sorted by id (2026-11-07). wiki-index.json had reached 48 MB, growing about
+# 1 MB a batch toward GitHub's 100 MB file limit, and 41 MB of it is `pages`. The shards are
+# additive: wiki-index.json keeps its shape until its readers (Learning-engineering-research's
+# wiki_agent.py, learning-design-spec's check-wiki-links.py) read pages from here, and only then
+# does `pages` leave it, keeping `resolve`, `moved`, `kinds` and `counts`.
+SHARD_DIR = WIKI_ROOT / "wiki-index"
+
+
+def page_shards(pages: list) -> dict:
+    """{"<kind>/<xx>.ndjson": text}: records grouped by kind and the first two characters of
+    the id (lower-cased, anything outside [a-z0-9] as '_'), one compact record per line."""
+    out = {}
+    for p in sorted(pages, key=lambda r: (r["type"], r["id"])):
+        key = re.sub(r"[^a-z0-9]", "_", p["id"][:2].lower()).ljust(2, "_")
+        out.setdefault(f"{p['type']}/{key}.ndjson", []).append(
+            json.dumps(p, sort_keys=True, separators=(",", ":"), ensure_ascii=False))
+    return {k: "\n".join(v) + "\n" for k, v in out.items()}
+
+
+def committed_shards() -> dict:
+    if not SHARD_DIR.is_dir():
+        return {}
+    return {str(f.relative_to(SHARD_DIR)): f.read_text(encoding="utf-8")
+            for f in sorted(SHARD_DIR.glob("*/*.ndjson"))}
 
 # folder -> the `type:` value a page in it carries. The folder is what actually
 # determines a page's kind (see add_type_banner.py); frontmatter `type` is the
@@ -158,7 +183,10 @@ def build() -> tuple[dict, list]:
         "note": ("Resolution table for learning-design-spec: every content page's "
                  "id, kind and title, plus every retired slug that still resolves. "
                  "Built by scripts/build_wiki_index.py; committed because the "
-                 "consuming repo has no wiki checkout."),
+                 "consuming repo has no wiki checkout. The same page records are in "
+                 "wiki-index/<kind>/<xx>.ndjson (first two characters of the id); read "
+                 "them there: `pages` will leave this file, which is nearing GitHub's "
+                 "100 MB file limit."),
         "okf_version": "0.2",
         "kinds": sorted(set(KINDS.values())),
         "counts": {kind: sum(1 for p in pages if p["type"] == kind)
@@ -191,6 +219,7 @@ def main() -> None:
         sys.exit(1)
 
     rendered = okf_lib.dump_json_records(index, depth=3)
+    shards = page_shards(index["pages"])
 
     if args.check:
         if not OUT_PATH.exists():
@@ -199,10 +228,20 @@ def main() -> None:
         if OUT_PATH.read_text(encoding="utf-8") != rendered:
             print(f"{OUT_PATH.name} is stale — run scripts/build_wiki_index.py")
             sys.exit(1)
-        print(f"{OUT_PATH.name} is current.")
+        if committed_shards() != shards:
+            print(f"{SHARD_DIR.name}/ is stale — run scripts/build_wiki_index.py")
+            sys.exit(1)
+        print(f"{OUT_PATH.name} and {SHARD_DIR.name}/ are current.")
         return
 
     OUT_PATH.write_text(rendered, encoding="utf-8")
+    for name in set(committed_shards()) - set(shards):   # a prefix no page has any more
+        (SHARD_DIR / name).unlink()
+    for name, text in shards.items():
+        path = SHARD_DIR / name
+        path.parent.mkdir(parents=True, exist_ok=True)
+        if not path.exists() or path.read_text(encoding="utf-8") != text:
+            path.write_text(text, encoding="utf-8")
     n_aliases = sum(len(p.get("aliases", [])) for p in index["pages"])
     print(f"Wrote {OUT_PATH.name}: {len(index['pages'])} page(s), "
           f"{n_aliases} retired slug(s) still resolving.")

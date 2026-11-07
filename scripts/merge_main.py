@@ -55,7 +55,9 @@ APPEND_ONLY = [
     "eval/load-bearing/reviewed.ndjson",
     "eval/duplicates/*.ndjson",
     "eval/claim-merges/decisions.ndjson",
-    "eval/candidates/decisions.ndjson",
+    # the candidate ledger, sharded by slug prefix since 2026-11-07 (candidates_lib.shard_key)
+    "eval/candidates/candidates/*.ndjson",
+    "eval/candidates/decisions/*.ndjson",
     "eval/missing-dois/decisions.ndjson",
     "eval/removed/pages.ndjson",
 ]
@@ -66,6 +68,7 @@ GENERATED = [
     "evidence.md",
     "reverse-index.json",
     "wiki-index.json",
+    "wiki-index/*/*.ndjson",   # the same page records, sharded (build_wiki_index.page_shards)
     "situation-index.json",
 ]
 REGENERATE = [

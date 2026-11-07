@@ -45,21 +45,29 @@ not the same publishing organisation: settle_candidates.independent), or on one
 synthesis (a meta-analysis or systematic review) coded q3 or above. Nothing here
 writes a principle or pattern page.
 
-Two append-only files, committed, so a ledger survives the machine that ran the
+Two append-only ledgers, committed, so a ledger survives the machine that ran the
 batch and the next batch can see what the last one left waiting:
 
-    eval/candidates/candidates.ndjson   one line per candidate, as extracted
-    eval/candidates/decisions.ndjson    one line per settling decision; the latest
-                                        line for a candidate is its state
+    eval/candidates/candidates/<xx>.ndjson   one line per candidate, as extracted
+    eval/candidates/decisions/<xx>.ndjson    one line per settling decision; the latest
+                                             line for a candidate is its state
+
+Each is sharded by the first two characters of the candidate's slug (shard_key), the
+rule the evidence cells use (2026-10-24). Until 2026-11-07 each was one file, and at
+about 1 MB a batch candidates.ndjson had reached 50 MB against GitHub's 100 MB limit.
+Every line for one candidate lands in one shard in the order written, so "first line
+wins" (load_candidates) and "latest line wins" (load_decisions) mean what they did.
+Read and write them only through this module.
 """
 import json
+import re
 from datetime import date
 from pathlib import Path
 
 WIKI_ROOT = Path(__file__).parent.parent
 LEDGER_DIR = WIKI_ROOT / "eval" / "candidates"
-CANDIDATES = LEDGER_DIR / "candidates.ndjson"
-DECISIONS = LEDGER_DIR / "decisions.ndjson"
+CANDIDATES = LEDGER_DIR / "candidates"   # a directory of shards, <xx>.ndjson
+DECISIONS = LEDGER_DIR / "decisions"
 CANDIDATE_TYPES = ("principle", "pattern", "element", "theory")
 OUTCOMES = ("attach", "join", "new", "design", "product", "research-method", "artifact", "drop", "promoted")
 # Decisions after which a candidate is settled and never re-asked. `new` and `join`
@@ -76,19 +84,35 @@ def candidate_id(article_id: str, ctype: str, slug: str) -> str:
     return f"{article_id}:{ctype}:{slug}"
 
 
-def _read(path: Path) -> list:
-    if not path.exists():
+def shard_key(cid: str) -> str:
+    """The shard a candidate's lines live in: the first two characters of its slug
+    (the part after the last ':'), lower-cased, anything outside [a-z0-9] as '_'."""
+    head = re.sub(r"[^a-z0-9]", "_", cid.rsplit(":", 1)[-1][:2].lower())
+    return head.ljust(2, "_")
+
+
+def _read(ledger: Path) -> list:
+    """Every line of a sharded ledger. Shards are read in name order; within one, in the
+    order written, which is the only order the loaders rely on (one candidate, one shard)."""
+    if not ledger.is_dir():
         return []
-    return [json.loads(l) for l in path.read_text(encoding="utf-8").splitlines() if l.strip()]
+    rows = []
+    for shard in sorted(ledger.glob("*.ndjson")):
+        rows += [json.loads(l) for l in shard.read_text(encoding="utf-8").splitlines() if l.strip()]
+    return rows
 
 
-def _append(path: Path, rows: list) -> None:
+def _append(ledger: Path, rows: list) -> None:
     if not rows:
         return
-    path.parent.mkdir(parents=True, exist_ok=True)
-    with path.open("a", encoding="utf-8") as fh:
-        for r in rows:
-            fh.write(json.dumps(r, ensure_ascii=False) + "\n")
+    by_shard = {}
+    for r in rows:
+        by_shard.setdefault(shard_key(r["id"]), []).append(r)
+    ledger.mkdir(parents=True, exist_ok=True)
+    for key, group in sorted(by_shard.items()):
+        with (ledger / f"{key}.ndjson").open("a", encoding="utf-8") as fh:
+            for r in group:
+                fh.write(json.dumps(r, ensure_ascii=False) + "\n")
 
 
 def load_candidates() -> dict:

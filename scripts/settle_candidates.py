@@ -3,7 +3,7 @@
 settle_candidates.py — decide what each principle, pattern, element or theory candidate becomes.
 
 Pass 2 of the candidate process (candidates_lib.py has the why). Ingest puts every
-principle and pattern an extraction proposes into eval/candidates/candidates.ndjson
+principle and pattern an extraction proposes into eval/candidates/candidates/
 instead of writing a page. This shows each open candidate, with the claims it cites,
 the canonical principle and pattern pages nearest to it (BM25) and the open
 candidates from other sources nearest to it, to one model, which answers:
@@ -32,7 +32,7 @@ marker, and whether each tests the page's own relationship. With --apply:
             for that name (write_named): a new draft page, or a component or account,
             claims and source added to the page the name already has.
 
-and every decision is appended to eval/candidates/decisions.ndjson. `new` and `join`
+and every decision is appended to eval/candidates/decisions/. `new` and `join`
 stay open and are asked again on the next run, when a later batch may have brought
 the matching page or the second source.
 
