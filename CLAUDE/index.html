@@ -2211,6 +2211,13 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   docs describe a platform copy that was never committed). Its readers read this repo directly:
   Learning-engineering-research's <code>wiki_agent.py</code> reads <code>pages</code> from a local checkout, and the spec's
   <code>check-wiki-links.py</code> checks page URLs. So there is nothing to keep in sync.</li>
+<li><strong>The page records are also written sharded, to <code>wiki-index/&lt;kind&gt;/&lt;xx&gt;.ndjson</code></strong> (first two characters
+  of the id, one record per line; maintainer, 2026-11-07). <code>wiki-index.json</code> had reached 48 MB, 41 MB of it
+  <code>pages</code>, growing about 1 MB a batch toward GitHub's 100 MB file limit. The shards are additive:
+  <code>wiki-index.json</code> keeps its full shape until the two readers above read <code>pages</code> from the shards, and only
+  then does <code>pages</code> leave it (<code>resolve</code>, <code>moved</code>, <code>kinds</code> and <code>counts</code> stay). <code>build_wiki_index.py --check</code>
+  checks both. Do not drop <code>pages</code> before both readers have moved: one is in another repo and would break
+  silently.</li>
 <li><strong><code>canonical: true</code></strong> marks the pages the candidate ledger settles against
   (<code>settle_candidates.py --mark-canonical</code>), and every learner-variable page. Search ranks them
   first when a query names them.</li>
@@ -2232,7 +2239,8 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   <code>eval/runs/queues/fetch-failed.ndjson</code>. Campbell reviews are fetched by their PMC copy
   (<code>--campbell</code>), DSpace repositories through their REST API.</li>
 <li><strong>Batches write no principle, pattern, element or theory page.</strong> Ingest puts each in
-  <code>eval/candidates/candidates.ndjson</code>, and <code>settle_candidates.py --apply</code> (run in every batch)
+  the candidate ledger (<code>eval/candidates/candidates/&lt;xx&gt;.ndjson</code>, decisions in <code>eval/candidates/decisions/</code>,
+  sharded by slug prefix since 2026-11-07 and read only through <code>candidates_lib</code>), and <code>settle_candidates.py --apply</code> (run in every batch)
   attaches it to a canonical page, joins it to another candidate, writes a design page,
   writes it to its product's page (<code>product</code>, grouped by name: a programme's tools and
   frameworks become components of one page) or a research-method page, or drops it. The old
@@ -3499,6 +3507,7 @@ indexes with <code>python3 scripts/build_indexes.py</code>.</p>
   index.md           ← OKF bundle-root index; carries okf_version in frontmatter
   reverse-index.json ← generated: which pages point AT each page (see The reverse index below)
   wiki-index.json    ← generated: id + kind + title per page, for the design-spec side (see The wiki index below)
+  wiki-index/        ← generated: the same page records, sharded as &lt;kind&gt;/&lt;xx&gt;.ndjson (see the standing rules)
   evidence-scales.json ← what q3 / i2 / n= mean, as data (read by agents and by the docs hook)
   evidence-dimensions.json ← the shared dimensions of evidence and design (learner state, goal, outcome, ...)
   evidence.md        ← generated: the state of the wiki's evidence (build_evidence_report.py)
