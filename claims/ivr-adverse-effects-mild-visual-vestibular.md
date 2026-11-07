@@ -65,3 +65,5 @@ Narrative synthesis of adverse-effect reporting across 7 included RCTs. The most
 - [Physical symptoms such as dizziness and nausea are common during VR MCI training and can degrade training quality for some users](vr-mci-training-physical-symptoms.md) — related
 - [3D vision increases difficulty focusing only in the first training session, with no other visual or physical side effects](3d-difficulty-focusing-first-session-only.md) — related
 - [Simulator sickness shows significant gender differences in VR trauma simulation acceptance, with women more susceptible to nausea and dizziness.](vr-simulator-sickness-gender-differences.md) — a narrower finding that bears on this claim
+- [The 3D VR mode of RiNeo MR caused no simulator sickness: subjects reported discomfort levels of 1 or lower out of 3 on all SSQ symptoms](rineo-3d-no-simulator-sickness.md) — a narrower finding that bears on this claim
+- [VR simulation training is well tolerated, with most participants reporting no or only mild adverse symptoms](vr-training-mild-or-no-adverse-reactions.md) — a narrower finding that bears on this claim

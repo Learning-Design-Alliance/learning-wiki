@@ -61,6 +61,7 @@ The article recommends immersive VR simulation as a strategy for settings where 
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Integrate more clinical decision-making experience and medical humanities, add virtual simulation and optimize time use in future preclinical SCT courses](integrate-clinical-experience-and-humanities-in-sct.md)
 - [Incorporate virtual learning for communication training alongside face-to-face practice for added realism](mix-vl-with-face-to-face-practice.md)
+- [Use immersive VR headset training as a feasible, accessible option for robotic set-up training in resource-limited settings](ivr-resource-limited-robotic-setup-training-strategy.md)
 
 ## Examples
 -

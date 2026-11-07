@@ -13,7 +13,7 @@ generated:
 # Multimedia Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 57 claims (40 for, 17 mixed) · 54 studies (31 causal, 7 review, 6 quant-synthesis, 5 associational, 3 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 14 of 54 report an effect size · 52 claims rest on one study
+> **Evidence** · 59 claims (40 for, 19 mixed) · 55 studies (32 causal, 7 review, 6 quant-synthesis, 5 associational, 3 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 14 of 55 report an effect size · 54 claims rest on one study
 
 ## Description
 Multimedia learning is the element in which learners engage with coordinated combinations of words, visuals, audio, animation, or interactive media. It is useful when multiple representations clarify structure, process, or relationship more effectively than a single mode alone.
@@ -93,6 +93,8 @@ Multimedia learning is the element in which learners engage with coordinated com
 - [Students learning venipuncture with a segmented-interactive video scored significantly higher on the communication component than students using a continuous video](../claims/segmented-interactive-video-communication-component-significant.md) [+W] — attached 2026-11-04 from Hamzah Nurul Rimadhayanti et al. (2026), which proposed "Segmented-interactive venipuncture video built in H5P with overlays, quizzes, and guided narration".
 - [Students reported that VR-based orientation to the clinic layout relieved anxiety when they had not yet been exposed to clinics, but offered little extra once they had clinical experience.](../claims/vr-orientation-useful-before-clinical-exposure.md) [~W] — attached 2026-11-06 from Nabeela C et al. (2025), which proposed "Interactive annotated 360-video of the periodontology clinic with linked learning-resource buttons".
 - [Students reported the VR headset added little over the 360-video viewed on a phone, citing setup effort and cost as barriers.](../claims/headset-added-little-over-360-video.md) [~W] — attached 2026-11-06 from Nabeela C et al. (2025), which proposed "Interactive annotated 360-video of the periodontology clinic with linked learning-resource buttons".
+- [An interactive educational animated video alone is non-inferior to combined regular and interactive videos for children's MRI cooperativeness outcomes](../claims/interactive-video-noninferior-combined-videos-mri.md) [~W] — attached 2026-11-07 from Utama Evelyn Gabriela MD et al. (2024), which proposed "Interactive educational animated video for MRI preparation".
+- [In children aged 3–7 years, the confidence benefit appeared only in the combined videos group, with no between-group differences](../claims/age-3-7-subgroup-confidence-gain-combined-only.md) [~W] — attached 2026-11-07 from Utama Evelyn Gabriela MD et al. (2024), which proposed "Interactive educational animated video for MRI preparation".
 
 ## The evidence by question
 

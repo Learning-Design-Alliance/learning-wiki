@@ -62,6 +62,8 @@ The article recommends adopting RCDP in nursing education because it provides im
 - [Provide post-exam feedback with correct answers and guideline references to increase educational value](post-exam-feedback-references-strategy.md)
 - [Embed immediate corrective feedback in virtual simulation practice sessions](real-time-corrective-feedback-virtual-simulation.md)
 - [Organise SP role-play as microteaching with frequent coach-initiated interruptions instead of a long simulation with wrap-up feedback](microteaching-interruptions-acp-role-play.md)
+- [Combine RCDP with additional reinforcement methods to sustain long-term skill retention](combine-rcdp-with-reinforcement-for-retention.md)
+- [Trial a combined debriefing strategy alternating RCDP practice cycles with interval reflective debriefing sessions](rcdp-with-interval-trd-strategy.md)
 
 ## Examples
 -

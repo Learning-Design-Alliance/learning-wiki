@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 92 claims (39 for, 48 mixed, 5 against) · 68 studies (36 causal, 14 review, 7 quant-synthesis, 4 associational, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 14 of 68 report an effect size · 87 claims rest on one study
+> **Evidence** · 94 claims (39 for, 50 mixed, 5 against) · 69 studies (37 causal, 14 review, 7 quant-synthesis, 4 associational, 3 design, 3 theoretical, 1 qualitative), `q1`–`q4` · 14 of 69 report an effect size · 89 claims rest on one study
 
 ## Description
 
@@ -113,6 +113,8 @@ Twenty-one more were linked to this page by the orphan-claim linker after that a
 - [Distributed preclinical practice is associated with roughly twofold odds of complete simulated calculus removal versus massed training](../claims/distributed-training-calculus-removal-or.md) [+W] — attached 2026-11-04 from Glevitzky et al. (2026), which proposed "Distribute preclinical fine-motor skill practice across sessions rather than condensing it into a massed block, because distributed scheduling was associated with higher absolute performance"; tests this page's relationship.
 - [Review scheduled by a model of each student's memory improved end-of-semester retention in a middle-school language course more than massed or uniformly spaced review of the same duration](../claims/personalized-spaced-review-improves-course-retention.md) [+M] — added 2026-11-05 from Lindsey et al. (2014); entry written from the abstract; not yet read against the model above.
 - [No significant performance differences between students trained every 3 months and every 6 months](../claims/no-difference-3-versus-6-month-cpr-training.md) [~W] — attached 2026-11-06 from Joyce Kelly Barreto Silva et al. (2025), which proposed "Schedule CPR refresher training every 6 months rather than every 3 months when using feedback-equipped simulators"; tests this page's relationship.
+- [Shorter intervals (1–2 days) between proficiency-based laparoscopy simulator training sessions are not superior to longer intervals (6–8 days) in time to reach proficiency](../claims/short-versus-long-intervals-no-difference-time-to-proficiency.md) [~W] — attached 2026-11-07 from Tang Diana Hai Yen et al. (2024), which proposed "Schedule distributed skills training so sessions are separated by at least one night of sleep, and keep programs flexible for trainee schedules"; tests this page's relationship.
+- [Both schedule groups reached proficiency significantly faster at the retention test than during initial training, with no between-group difference in retention level](../claims/retention-test-faster-than-initial-training-no-group-effect.md) [~W] — attached 2026-11-07 from Tang Diana Hai Yen et al. (2024), which proposed "Schedule distributed skills training so sessions are separated by at least one night of sleep, and keep programs flexible for trainee schedules"; tests this page's relationship.
 
 ## Elements
 

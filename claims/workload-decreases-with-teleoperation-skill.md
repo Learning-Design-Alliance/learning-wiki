@@ -78,3 +78,4 @@ Within-subject Pearson correlations between NASA-TLX and performance score acros
 - [Novices reported higher temporal demand, performance, and frustration on NASA-TLX subscales than experts during peg transfer training](novices-higher-tlx-temporal-demand-performance-frustration.md) — related
 - [AR-based anatomy learning is associated with lower overall cognitive workload compared to traditional learning methods](ar-lower-cognitive-workload-than-traditional-learning.md) — related
 - [VR-trained participants perform with lower NASA-TLX workload than controls (40.04 ± 10.55 vs. 48.2 ± 9.88)](dvss-vr-training-lower-nasa-tlx-workload.md) — related
+- [VR training after crossover was associated with significantly lower subjective workload (TLX) than theory-based training](vr-training-lower-subjective-workload-tlx.md) — related

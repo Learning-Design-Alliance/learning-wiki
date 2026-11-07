@@ -55,3 +55,4 @@ Descriptive analysis of 5-point Likert responses from the mandatory postcourse s
 - [Students rated online learning quality positively, with Quality of Online Resources and Perceived Importance of Online Resources the highest Q-OLQ components](qolq-online-resources-quality-rated-highest.md) — related
 - [Participants report very high satisfaction with the cadaveric workshop's content, quality, and materials](cadaveric-workshop-high-satisfaction.md) — related
 - [Students rate the SBE ophthalmology workshop highly on relevance, clarity, facilitation, and applicability to future clinical practice](sbe-ophthalmology-workshop-feedback-ratings.md) — related
+- [Medical faculty members positively perceive e-learning resources, with usefulness for learning rated highest](korean-medical-faculty-positive-e-learning-perceptions.md) — related

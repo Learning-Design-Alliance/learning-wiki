@@ -54,6 +54,7 @@ The article recommends building early warning systems that integrate cognitive, 
 - [Use an early warning system based on linked school and human services data to target resources and lessen risks before they become more serious](early-warning-system-target-resources-near-term-risks.md)
 - [Use postsecondary readiness indicators in an early warning system and combine cultural responsiveness with tiered interventions to address disparities](early-warning-system-with-tiered-culturally-responsive-supports.md)
 - [Build early-warning indicators and leverage online-learning-system process data to support students before gaps widen in Grade 3](early-indicators-online-system-process-data.md)
+- [Establish an academic early warning system for primary school students using ensemble learning methods](ensemble-learning-academic-early-warning-system.md)
 
 ## Examples
 -

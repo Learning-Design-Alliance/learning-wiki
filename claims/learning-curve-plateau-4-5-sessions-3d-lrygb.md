@@ -68,3 +68,4 @@ CUSUM analysis of operation time across the 8 sessions for the same 6 trainees, 
 - [Training on 3D-printed LRYGB models transfers to porcine organ models: trained residents performed comparably to untrained intermediates](3d-training-transfers-to-porcine-models.md) — related
 - [Learning curves showed proficiency gains with inflection points at session 6 (juniors) and session 4 (intermediates)](learning-curve-cusum-inflection-points.md) — related
 - [MBOSATS scores on the 3D-printed LRYGB model differentiate surgical expertise levels, with scores decreasing and operation times increasing from experts to intermediates to residents](mbosats-construct-validity-3d-lrygb-model.md) — related
+- [Operation time on the 3D-printed simulation model decreases across repeated training sessions and plateaus by the fifth session](repeated-3d-simulation-training-reduces-operation-time.md) — related

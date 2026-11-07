@@ -189,3 +189,4 @@ Cross-unit thematic findings from the seven-respondent survey case study; the ar
 - [Panelists identified professionalism, reflective practice, and critical thinking—including bias awareness and data-informed decision-making—as a core domain](smh-collab-professionalism-reflective-practice-domain.md) — related
 - [Qualitative analysis found Web 2.0 tool adoption intertwined with shifting power dynamics, pedagogical vulnerability, emotional labour of inclusion, and institutional resistance](web20-adoption-qualitative-themes.md) — related
 - [The proposed AI competency list is a non-exhaustive starting point that lacks formal consumer input, a stated limitation](ai-competency-list-limits-consumer-input.md) — related
+- [Faculty reluctance to share e-learning resources stems mainly from lack of institutional support and concerns about ownership and intellectual property](faculty-sharing-barriers-support-ownership-ip.md) — related

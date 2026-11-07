@@ -58,3 +58,4 @@ Pearson correlation analysis (Table 8) in the cross-sectional survey of 134 inte
 - [Age correlates negatively with AMS opinion scores among clinical dental students in southern Nigeria](age-negative-correlation-ams-opinion-scores.md) — related
 - [Knowledge scores correlate positively with attitude and opinion scores among clinical dental students in southern Nigeria](knowledge-attitude-positive-correlation-ams-dental-students.md) — related
 - [Self-assessed knowledge does not correlate with objective TDI-KNOW scores overall, but correlates negatively among sixth-year students](self-assessment-not-reliable-measure-of-knowledge.md) — related
+- [Knowledge scores show no significant correlation with attitude or communication performance in any group](knowledge-no-correlation-attitude-performance.md) — related

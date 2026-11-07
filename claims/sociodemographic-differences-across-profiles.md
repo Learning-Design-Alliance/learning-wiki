@@ -67,3 +67,5 @@ Chi-square and ANOVA comparisons of sociodemographic variables across the four p
 - [No demographic, attitudinal or experience variable assessed differentiated the three teletherapy skill latent profiles](no-predictors-of-teletherapy-skill-profiles.md) — reports the opposite
 - [Mean clinical competence score is significantly associated with age, nursing education level, and years of clinical work experience (P<0.001)](competence-associated-age-education-experience.md) — related
 - [Sex differences in competence are significant for professional behaviors, general performance, and advanced skills but not for core nursing skills](sex-difference-competence-significant-except-core-skills.md) — reports the opposite
+- [Post-intervention EBP knowledge differed by workplace and years of experience but not by age, sex, or academic qualification](ebp-knowledge-workplace-experience-differences.md) — related
+- [Post-intervention EBP skills differed by age, workplace, and years of experience but not by sex](ebp-skills-age-workplace-experience-differences.md) — related

@@ -73,3 +73,4 @@ Logistic regression in the same cohort using the SMFQ clinical cut-point (≥12)
 - [Peer-problem mediation of the ADHD–depression link is not driven entirely by victimisation](peer-mediation-not-solely-victimisation.md) — a narrower finding that bears on this claim
 - [At least 15% of children with ADHD continue to meet full diagnostic criteria by age 25 and a further 50% meet criteria in partial remission, with European estimates of persistence up to 80%](adhd-persistence-into-adulthood-subthreshold.md) — related
 - [ADHD symptoms and depressive symptoms are the only variables remaining significantly correlated with APS after correction across all 26 comparisons](adhd-depression-survive-correction-aps.md) — related
+- [ADHD scale score significantly predicts IGD severity (β = .27, R² = .38), with a stronger predictive value in females (β = .49) than males (β = .21)](adhd-predicts-gd-severity-regression.md) — related

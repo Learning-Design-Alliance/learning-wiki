@@ -51,3 +51,4 @@ One-way ANOVA comparing knowledge decline by education level (certificate n = 76
 - [Educational qualification shows no significant association with wound-care knowledge or practice levels](qualification-no-association-wound-knowledge.md) — related
 - [Higher formal education was not associated with better nutritional knowledge; Bachelor's degree holders scored significantly worse than university‐diploma holders](education-not-linked-to-nutrition-knowledge.md) — related
 - [Diploma-qualified nurses self-rated highest across all competence domains, which the discussion attributes inconsistently to bachelor's-degree nurses](education-level-competence-diploma-highest-table-inconsistency.md) — related
+- [Education level showed no significant pre-test differences, but diploma-level nurses scored significantly higher than secondary-educated nurses on the gastric cancer post-test (p = 0.039)](education-level-gastric-cancer-post-test-difference.md) — related

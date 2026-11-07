@@ -70,3 +70,4 @@ Discussion of the SEM results in 330 children; in the models, attention showed s
 - [Processing speed fully mediates the relation between inattention symptom severity and working memory performance in children with ADHD](ps-fully-mediatates-inattention-wm.md) — related
 - [Processing speed is a single mediator of the relation between inattention symptom severity and mathematics and spelling performance, but not reading performance](ps-single-mediator-math-spelling-not-reading.md) — related
 - [Working memory significantly mediates the SES-educational achievement association, accounting for 39% of the total effect](working-memory-mediation-ses-achievement.md) — related
+- [Verbal and visuospatial working memory are indirectly associated with mathematics achievement via number fact knowledge, calculation skills, algebra and geometry](wm-indirect-effects-via-four-math-components.md) — related

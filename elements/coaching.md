@@ -13,7 +13,7 @@ generated:
 # Coaching
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 36 claims (21 for, 11 mixed, 4 against) · 37 studies (11 review, 10 causal, 5 quant-synthesis, 5 qualitative, 2 associational, 2 design, 2 theoretical), `q2`–`q4` · 3 of 37 report an effect size · 28 claims rest on one study
+> **Evidence** · 37 claims (22 for, 11 mixed, 4 against) · 38 studies (11 review, 10 causal, 5 quant-synthesis, 5 qualitative, 3 design, 2 associational, 2 theoretical), `q2`–`q4` · 3 of 38 report an effect size · 29 claims rest on one study
 
 ## Description
 Coaching is the provision of individualized support and guidance while learners actively perform a task. The coach observes performance, diagnoses gaps between current and target performance, and intervenes with hints, questions, modeling, or [Feedback](feedback.md) calibrated to what the learner needs at that moment. Unlike one-time instruction, coaching is sustained and adaptive — support rises and falls with learner performance.
@@ -80,6 +80,7 @@ Coaching accelerates skill development by keeping learners in a productive strug
 - [Past trials of MTP web-mediated coaching yielded moderate to large improvements in teacher implementation and teaching practices](../claims/mtp-past-trial-improvements.md) [+W]
 - [AI-assisted coaching improves novice surgeons' overall operative performance in laparoscopic cholecystectomy, outperforming self-learning by study end](../claims/smartcoach-improves-lcrf-performance.md) [+W] — attached 2026-11-07 from Wu Shangdi et al. (2024), which proposed "SmartCoach: an AI-based surgical coaching program combining SurgSmart surgical reports with a 30-minute coach-led debriefing workflow"; tests this page's relationship.
 - [AI-assisted coaching substantially increases achievement of the critical view of safety in novice surgeons, which self-learning does not](../claims/smartcoach-improves-cvs-achievement.md) [+W] — attached 2026-11-07 from Wu Shangdi et al. (2024), which proposed "SmartCoach: an AI-based surgical coaching program combining SurgSmart surgical reports with a 30-minute coach-led debriefing workflow"; tests this page's relationship.
+- [Coach-identified deficits differed from or added to those identified by the program director or learner in 79% of referrals](../claims/coaches-identified-additional-deficits-79-percent.md) [+M] — attached 2026-11-07 from Redman Charles et al. (2024), which proposed "GME success coaching program for residents and fellows".
 
 ## The evidence by question
 - *Must support be contingent on the learner's last response, rather than fixed?* [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S]

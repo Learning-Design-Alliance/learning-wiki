@@ -56,3 +56,4 @@ Review's discussion of Budde et al. (2008), a school experiment with 115 adolesc
 - [Self-chosen exercise intensity produced the greatest mood benefits in a small study, suggesting enjoyable workouts may best improve mood](self-chosen-exercise-greatest-mood-benefit.md) — related
 - [Acute physical activity has a positive effect on attention in preadolescent children (g = 0.43)](acute-physical-activity-improves-attention-preadolescents.md) — related
 - [Age, setting, design, number of conditions, activity type, duration, intensity and test timing showed no significant moderation of acute physical activity effects on academic outcomes](no-significant-moderators-other-than-behavior-change-techniques.md) — reports the opposite
+- [A 1-year school-based karate intervention improved academic achievement in children aged 7–8 years compared with traditional PE lessons](karate-intervention-improves-academic-achievement.md) — related

@@ -68,3 +68,4 @@ PLS-SEM structural analysis of survey data from 842 Lesotho students (bootstrapp
 - [Behavioral intention positively predicts self-directed learning ability while social influence shows a negative direct effect on it](intention-positive-social-influence-negative-sdla.md) — related
 - [Performance expectancy, effort expectancy, facilitating condition, hedonic motivation, and computer literacy each positively predict intention to use eLearning-based CPD](utaut2-positive-predictors-elcpd.md) — related
 - [Social influence and price value do not significantly predict intention to use eLearning-based CPD](si-pv-null-predictors-elcpd.md) — related
+- [TAME-ChatGPT construct scores indicated a generally positive attitude towards ChatGPT and its use in the study sample](tame-chatgpt-positive-attitude-descriptive.md) — related

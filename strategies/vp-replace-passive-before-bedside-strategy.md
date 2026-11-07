@@ -69,6 +69,7 @@ The review recommends deploying virtual patients where they show the greatest be
 - [Deploy screen-based simulation as an accessible training alternative when face-to-face clinical education is disrupted](screen-simulation-disrupted-education-alternative.md)
 - [Use social robotic virtual patient sessions as a scheduled complement to broadly accessible computer-based virtual patients in a hybrid approach](hybrid-computer-based-and-social-robotic-vp-sessions.md)
 - [Conduct virtual patient clinical reasoning training in dyads or small groups of two to three students rather than individually](vp-training-in-dyads-small-groups.md)
+- [Implement active learning strategies such as case studies, group discussions, and virtual collaborative projects to enhance engagement in virtual courses](active-learning-strategies-virtual-engagement-strategy.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Process evaluation conducted alongside the trial: interviews with three headteac
 - [Individual learning curves rise by irregular increments with occasional losses, with plateau-like periods attributed to changes in method and waning interest](irregular-individual-learning-increments-plateaus.md) — related
 - [The Talk for Writing programme was feasible to implement, with most teachers enthusiastic and programme features embedded in classroom practice](talk-for-writing-feasible-whole-school-implementation.md) — related
 - [A new independent teacher group endorsed the refined intervention's feasibility, practice-change potential and scalability](refinement-group-endorsement.md) — related
+- [Teachers perceive that the PAL program improves student attention and focus immediately after sessions, an effect that faded over the course of the day](pal-temporary-attention-focus-benefit.md) — related

@@ -69,3 +69,4 @@ Table 2 reports the intervention group's pre-to-post SF-36 quality of life chang
 - [Health behavior partially mediates the relationship between health education satisfaction and quality of life](health-behavior-mediation-satisfaction-quality-of-life.md) — related
 - [Health behavior level moderates the indirect effect of education satisfaction on health beliefs through quality of life](health-behavior-moderates-indirect-path-health-beliefs.md) — related
 - [Simulation-based breast health education significantly increased confidence, skills, and behavioral awareness related to breast cancer among Afghan refugee women compared to the control group](simulation-education-confidence-behavior-increase.md) — related
+- [Simulation-based training combined with education supported self-monitoring of continuous drainage, with most mastectomy patients keeping the system patent (study A6)](drainage-self-monitoring-patency-a6.md) — related

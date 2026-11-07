@@ -63,3 +63,4 @@ In the same qualitative interview study of 14 Rhode Island key officials, partic
 - [Qualitative findings across four studies describe improved leadership knowledge, skills, beliefs, attitudes, and stakeholder engagement](qualitative-improvements-leadership-competencies.md) — related
 - [Institutional approaches to academic integrity have shifted over two decades from punitive, rules-focused responses to educative, values-based approaches](ai-shift-punitive-to-educative-approaches.md) — related
 - [Connectedness with stakeholders acts as a catalyst enabling the factors that sustain teacher motivation](connectedness-catalyst-sustaining-teacher-motivation.md) — related
+- [Organizational culture, communication and motivational efforts are identified as organizational behaviour factors in department chair performance improvement](dc-organizational-culture-communication-motivation.md) — related

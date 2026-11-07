@@ -100,3 +100,4 @@ Same pairwise correlation analysis; printed coefficients r = .18 to .65, with th
 - [Cognitive load ratings rise and interest and self-assessed understanding fall in sections introducing new content knowledge compared with introductory sections of worked examples](load-higher-interest-lower-in-content-knowledge-sections.md) — related
 - [Mental effort is more suitably modeled as a non-linear than linear predictor of learning outcomes in most re-analyzed studies](mental-effort-nonlinear-predictor-reanalyses.md) — related
 - [Perceived task difficulty negatively predicts mathematics achievement (β = −.374)](perceived-task-difficulty-negative-predictor-math-achievement.md) — related
+- [Question interest correlated negatively with difficulty for students but positively for teachers](pharmacotrophy-interest-difficulty-divergence.md) — related

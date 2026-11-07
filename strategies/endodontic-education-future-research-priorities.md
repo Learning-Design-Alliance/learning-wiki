@@ -50,6 +50,7 @@ The review sets out unanswered educational questions for future work: whether "i
 
 - [Future research should use standardized validated outcome measures, longitudinal follow-up designs, and methods linking learner gains to patient-relevant outcomes](vp-communication-future-research-validated-longitudinal.md)
 - [Use case-based learning and performance-based assessments to strengthen undergraduate vital pulp therapy education](case-based-performance-assessment-vpt-teaching.md)
+- [Sequence undergraduate endodontic clinical training from simple anterior and premolar RCTs before molar RCT, with conservative molar management and post-graduation training for molar RCT](sequence-simple-rct-before-molar-rct-strategy.md)
 
 ## Examples
 -

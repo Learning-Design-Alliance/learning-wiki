@@ -51,3 +51,4 @@ Qualitative existential-phenomenological interviews with 39 nursing students (32
 ## Related Claims
 - [The type and intensity of emotions students experience in feedback situations depend on feedback focus (task vs person) and valence, in interplay with context and student characteristics](feedback-focus-and-valence-shape-emotions.md) — related
 - [Sentiment analysis shows interviewees overwhelmingly used positive emotions when describing their SRL strategies and the ALT feedback](sentiment-analysis-positive-emotion-dominance.md) — related
+- [Teachers experienced both stress (attributed to the pandemic) and pride (attributed to active involvement) during the co-design process](pal-codesign-teacher-emotions-pride-stress.md) — related

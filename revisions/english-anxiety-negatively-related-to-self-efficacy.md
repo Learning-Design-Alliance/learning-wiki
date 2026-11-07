@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/english-anxiety-negatively-related-to-self-efficacy.md
+---
+
+# Revision history: [claims/english-anxiety-negatively-related-to-self-efficacy](../claims/english-anxiety-negatively-related-to-self-efficacy.md)
+
+### 2026-11-07 · ingest · process:wiki-ingest
+Ingested from pmc-11036769 (Investigating learning burnout and academic performance among management students: a longitudinal study in English courses.) via eval_harness.py + ingest_extractions.py

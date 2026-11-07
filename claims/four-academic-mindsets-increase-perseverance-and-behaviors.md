@@ -89,3 +89,4 @@ The review's synthesis of psychological research on belonging, implicit theories
 - [Grit, sense of belonging, and motives for attending college showed no significant direct associations with academic achievement in this sample](grit-belonging-motives-no-achievement-association.md) — related
 - [Challenge state correlates positively with academic self-efficacy, resilience, grit, and growth mindset](challenge-state-correlates-noncognitive.md) — a narrower finding that bears on this claim
 - [Programme outcome and experience ratings were moderately associated with self-efficacy, while only learning-from-success-and-failure and goal-thinking items were weakly associated with mindset](self-efficacy-outcome-associations.md) — related
+- [Basic psychological needs positively predict college students' academic self-efficacy](bpn-predict-academic-self-efficacy.md) — related

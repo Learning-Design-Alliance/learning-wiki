@@ -71,3 +71,4 @@ Null result from Table 3 of the same pre-post study: self-esteem median 3.30 (3.
 - [Pre-training knowledge correlated positively with self-efficacy, and post-training self-efficacy correlated with course satisfaction](knowledge-self-efficacy-satisfaction-correlations.md) — related
 - [Self-rated general self-efficacy scores rose modestly from before to after the BOPPPS-PBL course among newly recruited nurses in one uncontrolled pre-post study](boppps-pbl-course-self-efficacy-increase.md) — related
 - [Medical students' self-rated self-efficacy scores rose significantly from pretest to posttest after hybrid simulation-based training, in one uncontrolled pre-post study](hybrid-sbt-increases-self-efficacy-medical-students.md) — related
+- [Self-efficacy and knowledge rose from pre-test to post-test within the full sample, with the knowledge change significant and self-efficacy change also significant overall](full-sample-pre-post-increases-haematology.md) — related

@@ -50,3 +50,4 @@ Structural equation modeling with bootstrap confidence intervals (1,000 resample
 - [Global perceived-SEC is indirectly associated with greater prosocial behavior via autonomous motivation (β = .23), the only significant indirect path](indirect-path-global-sec-autonomous-motivation-prosocial.md) — related
 - [Indirect paths through AI learning self-efficacy and perceived usefulness account for about 69.5% of the total association between school support and AI learning anxiety](indirect-appraisal-paths-dominate-support-anxiety-association.md) — related
 - [OECD membership attenuates motivation-to-support and motivation-to-engagement paths](oecd-membership-attenuates-am-paths.md) — related
+- [School motivation significantly positively predicts learning engagement, and learning engagement significantly positively predicts academic achievement](motivation-predicts-engagement-engagement-predicts-achievement.md) — related

@@ -67,3 +67,4 @@ Same modelled cost analysis, reporting per-trainee costs at large cohort sizes; 
 - [All PBP-based trainees reached the robotic suturing proficiency benchmark versus 58% of apprenticeship trainees, with far fewer trials and less training time](pbp-100-percent-proficiency-versus-58-apprenticeship.md) — related
 - [Total PBP training cost crosses the apprenticeship cost-equivalence point at about 25 trainees and saves 110% at 500 trainees](pbp-total-cost-equivalence-point-25-trainees.md) — possibly the same claim (merge candidate)
 - [Time to reach proficiency rises progressively as training deviates from full PBP methodology](training-time-rises-as-pbp-adherence-declines.md) — related
+- [Cost per trainee depends strongly on trainee volume: development and validation costs fall below about 10% of total costs with more than 50 trainees](cost-per-trainee-volume-sensitivity-analysis.md) — related

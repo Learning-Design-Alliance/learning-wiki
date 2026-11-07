@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2025
+source_checked: 2026-11-07
 sources:
   - id: dávidovics-a-2025
     resource: "https://doi.org/10.1186/s12909-025-08507-7"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Qualitative thematic analysis of open-ended questionnaire responses and two focus group interviews found students valued immersion, communication practice and risk-free decision-making. [→ Dávidovics A 2025](#davidovics-a-2025)

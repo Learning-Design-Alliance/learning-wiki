@@ -48,3 +48,4 @@ Qualitative finding from the subtheme on limited access to the clinical simulati
 - [Students identified mannequin realism limitations, technical and operational issues, and restricted access to simulation labs as barriers to SBL in oral radiology](barriers-sbl-oral-radiology-realism-technical-access.md) — related
 - [Organizational issues, limited simulation capacity, and restricted access are major barriers to simulation-based learning reported by Rwandan medical students](organizational-capacity-access-barriers-simulation.md) — related
 - [Student nurses experience time constraints that hinder their utilisation of self-directed simulation-based learning](time-constraints-hinder-nursing-ssl-utilisation.md) — related
+- [Most asynchronous training (81.0%) occurred outside traditional Monday–Friday 9AM–5PM work hours](training-occurred-outside-work-hours.md) — related

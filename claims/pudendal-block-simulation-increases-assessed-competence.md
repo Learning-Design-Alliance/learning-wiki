@@ -51,3 +51,4 @@ Pre/post knowledge assessment (maximum score 13) within the same multi-instituti
 - [Clinicians who had completed residency training scored significantly higher on the final Fair Grader 2000 assessment than those still in residency](fair-grader-completed-vs-ongoing-final-scores.md) — related
 - [FICB procedural simulation produced positive but non-significant increases in residents' perceived comfort and knowledge with performing the procedure](ficb-procedural-simulation-confidence-trend-pilot.md) — related
 - [Within-group baseline-to-final Fair Grader 2000 score changes were not statistically significant in either residency group](fair-grader-within-group-change-not-significant.md) — related
+- [Initial post-GBL performance did not differ significantly by practitioner type, though practicing clinicians scored lowest](gbl-practitioner-type-differences.md) — related

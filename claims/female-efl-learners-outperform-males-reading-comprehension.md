@@ -61,3 +61,4 @@ Between-gender comparison of 60 experimental-group students (30 male, 30 female)
 - [Gender is not a significant factor in EFL learners' reading comprehension gains from debate instruction](gender-no-effect-reading-comprehension-debate.md) — reports the opposite
 - [Gender does not moderate the effect of intertextuality-aware instruction on EFL reading comprehension](gender-no-moderator-intertextuality-instruction.md) — related
 - [In AI-mediated active learning, female EFL students show higher engagement and greater improvement than male students](ai-active-learning-gender-engagement-females.md) — related
+- [Parenting style's association with academic performance is almost identical for male and female students, with no significant gender difference in performance](no-gender-difference-parenting-performance.md) — related

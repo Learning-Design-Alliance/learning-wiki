@@ -51,3 +51,4 @@ Bivariate correlation analysis in a cross-sectional study of 71 children with LD
 - [Sustained attention significantly moderates the physical fitness–Chinese language relationship, with stronger fitness–achievement association at low (better) sustained attention](dauf-moderates-fitness-chinese-language.md) — related
 - [Sustained attention significantly moderates the physical fitness–mathematics relationship, with stronger fitness–achievement association at low (better) sustained attention](dauf-moderates-fitness-mathematics.md) — related
 - [Children with language-type and mathematics-type LD showed no significant differences in age, BMI, IQ, physical activity, fitness, or sustained attention](no-subtype-differences-demographics-fitness-attention.md) — related
+- [Improvements in physical fitness were not associated with improvements in academic achievement or conduct problems](fitness-gains-not-associated-with-academic-gains.md) — reports the opposite

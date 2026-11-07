@@ -62,3 +62,4 @@ Pearson correlation analysis of GPA (n = 1,304) against DASS-21 and IES-R scores
 - [Depression and anxiety are prevalent among medical students and generally negatively associated with academic performance, though findings are mixed](depression-anxiety-negative-academic-performance-medical-students.md) — related
 - [Positive emotions and motivation are positively associated with medical students' academic achievement, while negative emotions show small negative correlations](positive-emotions-motivation-academic-achievement-medical-students.md) — related
 - [Test anxiety was not significantly correlated with OSCE scores or GPA in one study of medical students](test-anxiety-null-osce-gpa-medical-students.md) — reports the opposite
+- [Age, suspension history, and later academic year correlate negatively with dental students' GPA](age-suspension-year-negative-correlation-dental-gpa.md) — related

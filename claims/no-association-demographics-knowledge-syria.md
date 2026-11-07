@@ -50,3 +50,4 @@ Chi-square tests across 500 participants found no significant association for an
 - [Syrian medical students show low overall theoretical knowledge of clinical and surgical skills](syrian-medical-students-low-clinical-surgical-knowledge.md) — related
 - [No statistically significant associations between overall VHV competency classification and any demographic or occupational variable examined](vhv-competency-not-differentiated-by-demographics.md) — related
 - [Gender and marital status are significantly associated with AMS knowledge scores, and marital status with attitude scores, among clinical dental students in southern Nigeria](gender-marital-status-associated-ams-knowledge-dental-students.md) — reports the opposite
+- [Academic success shows no statistically significant association with gender, marital status, GPA, academic year, residence status, or income adequacy](demographics-null-associations-academic-success.md) — related

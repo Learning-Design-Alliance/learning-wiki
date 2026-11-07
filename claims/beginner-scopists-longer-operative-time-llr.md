@@ -52,3 +52,4 @@ Retrospective comparison of 161 LLRs by a single surgeon (82 expert-assisted, 79
 - [Beginner scopists have higher intraoperative transfusion and open conversion rates than expert scopists in LLR](beginner-scopists-transfusion-conversion-llr.md) — related
 - [Trainee-performed laparoscopic pyloromyotomy takes modestly longer than specialist-performed cases (median +5 minutes)](trainee-lp-longer-operative-time.md) — related
 - [Expert surgeons outperformed novices on all four quantitative measures of the resection task: smaller margin errors, lower carbonization, faster resection, fewer grasps](experts-outperform-novices-four-measures.md) — related
+- [Longer operational time is associated with more assistance requests during novices' first mastoidectomy](operational-time-assistance-correlation-mastoidectomy.md) — related

@@ -51,3 +51,4 @@ Graphical comparison of year-to-year mark variations (Figures 1 and 2) for the C
 - [CLIL participation shows no significant effect on primary students' Spanish-language subject marks](clil-no-significant-effect-spanish-marks.md) — related
 - [School marks differ significantly across academic years and, for Spanish, across educational levels](time-and-level-effects-on-marks.md) — related
 - [Correlation between CLIL exposure and evaluations over time is very low for both subjects](low-correlation-clil-evaluations-over-time.md) — related
+- [Tournament participants and non-participants showed similar pharmacology levels in the year before the tournament](pharmacotrophy-baseline-equivalence.md) — related

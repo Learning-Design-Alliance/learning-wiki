@@ -75,3 +75,4 @@ The brief asserts that community trauma, including "grief and collective hardshi
 - [Narratives of love and happiness for academic work intertwine with normalization of exploitation, producing a \"passion trap\" of pain and fatigue amid unstable contracts](passion-trap-normalizes-academic-exploitation.md) — related
 - [The COVID-19 pandemic was accompanied by increased depression and anxiety and diminished mental wellness among students and faculty](pandemic-increased-depression-anxiety-diminished-wellness.md) — related
 - [Transversal competencies—establishing a safe learning environment, accessibility, and empathy for students' situations—were emphasized as crucial during the pandemic](transversal-competencies-crucial-during-got.md) — related
+- [Teachers experienced both stress (attributed to the pandemic) and pride (attributed to active involvement) during the co-design process](pal-codesign-teacher-emotions-pride-stress.md) — related

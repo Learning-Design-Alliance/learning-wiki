@@ -55,6 +55,7 @@ The authors recommend that medical schools implement faculty development program
 - [Incorporate the BOPPPS-CBL method into clinical clerkships with faculty training to ensure effective execution](adopt-boppps-cbl-clerkship-faculty-training.md)
 - [Prepare CBL facilitators with clear learning outcomes, structured case handbooks, role-play training, and continuity of facilitator across a case](cbl-facilitator-preparation-strategy.md)
 - [Comprehensive facilitator training and support program before and during CBL implementation](cbl-facilitator-training-support-program.md)
+- [Use integrated CBL sessions in prematriculation programs to introduce study strategies alongside integrated content](prematriculation-integrated-cbl-study-strategies-strategy.md)
 
 ## Examples
 -

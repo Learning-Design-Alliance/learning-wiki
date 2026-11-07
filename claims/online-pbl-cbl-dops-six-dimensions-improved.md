@@ -75,3 +75,5 @@ Results section reporting non-significant DOPS findings. The Discussion attribut
 - [Procedural skill (DOPS) scores of digitally-CBL-trained novices do not differ significantly from traditionally trained specialists](digital-cbl-dops-scores-comparable.md) — related
 - [SOM-PBL improves monitoring technology application and adverse-event management subdomains but not clinical decision-making or aseptic technique](som-pbl-subdomain-mixed-results.md) — related
 - [BOPPPS-CBL raises DOPS procedural skill scores in five of seven dimensions but not informed consent or pre-procedure preparation](boppps-cbl-dops-five-dimensions-higher.md) — related
+- [DOPS-assessed nurses score higher on the PI theoretical examination than traditionally assessed nurses](dops-higher-pi-theoretical-scores.md) — related
+- [DOPS-based assessment yields no statistically significant difference in PI skill operation scores compared with traditional assessment](dops-no-difference-pi-skill-operation-scores.md) — related

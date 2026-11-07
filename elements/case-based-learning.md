@@ -13,7 +13,7 @@ generated:
 # Case-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 27 claims (21 for, 4 mixed, 2 against) · 33 studies (18 causal, 6 review, 4 quant-synthesis, 2 qualitative, 2 design, 1 theoretical), `q1`–`q4` · 7 of 33 report an effect size · 21 claims rest on one study
+> **Evidence** · 30 claims (24 for, 4 mixed, 2 against) · 35 studies (18 causal, 6 review, 4 quant-synthesis, 3 design, 2 qualitative, 1 associational, 1 theoretical), `q1`–`q4` · 7 of 35 report an effect size · 24 claims rest on one study
 
 ## Description
 Case-based learning places learners in the role of analyst or decision-maker confronting a realistic scenario — a patient presentation, a business dilemma, a legal dispute — and asks them to apply theoretical concepts to interpret it and choose a course of action. The case functions as an authentic problem context in which abstract principles must be retrieved, adapted, and defended rather than merely recalled.
@@ -74,6 +74,9 @@ Case-based learning improves exam performance and supports transfer by forcing l
 - [Agreement rates endorsing research misconduct behaviors decreased significantly for all listed behaviors in the CBL group but for only four behaviors in the traditional-lecture group](../claims/cbl-decreases-all-misconduct-agreement-rates-lecture-only-four.md) [+W] — attached 2026-11-07 from Chen Lulin et al. (2025), which proposed "CBL course on research misconduct with two escalating cases, small mixed-year groups, readiness assessment, and structured discussion".
 - [Average posttest scores improved across all four pediatric pulmonary e-learning modules, with gains ranging from 9% to 21%](../claims/posttest-gains-across-four-pulmonary-modules.md) [+M] — attached 2026-11-07 from Vaziri Sanaz MD et al. (2024), which proposed "Four interactive case-based e-learning modules on pediatric pulmonary topics built in Articulate Rise 360"; tests this page's relationship.
 - [Trainees reported the case-based modules improved their knowledge and confidence in history-taking, differentials, and medication techniques](../claims/trainee-feedback-knowledge-confidence-gains.md) [+W] — attached 2026-11-07 from Vaziri Sanaz MD et al. (2024), which proposed "Four interactive case-based e-learning modules on pediatric pulmonary topics built in Articulate Rise 360".
+- [Fifth-year medical students report high satisfaction with case-based learning, with 92.4% agreeing it is an effective teaching strategy](../claims/cbl-high-student-satisfaction-clerkship-survey.md) [+W] — attached 2026-11-07 from Salaheldin et al. (2024), which proposed "Case-based learning (CBL) as implemented weekly for fifth-year clerkship students at National Ribat University".
+- [Postsession quiz scores improved significantly after the integrated CBL session (p < .001)](../claims/cbl-session-significant-quiz-score-improvement.md) [+M] — attached 2026-11-07 from Merritt E. et al. (2024), which proposed "Integrated CBL session on upper limb, breast, embryology, and histology for incoming medical students".
+- [Students uniformly agreed the CBL session improved understanding, integrated anatomy content, and was well organized](../claims/cbl-session-survey-agreement-understanding-integration.md) [+M] — attached 2026-11-07 from Merritt E. et al. (2024), which proposed "Integrated CBL session on upper limb, breast, embryology, and histology for incoming medical students".
 
 ## The evidence by question
 - *Does teaching through realistic cases, by itself, raise learning?* [Case-based learning improves exam performance](../claims/case-based-learning-improves-exam-performance.md) [+M]

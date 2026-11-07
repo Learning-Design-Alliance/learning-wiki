@@ -47,7 +47,8 @@ The article describes a concrete training recipe: quarterly sessions combining a
 - [Vaginal twin birth rates increased significantly after training interventions, from 9.2% to 40.8% overall](../claims/vaginal-twin-birth-rate-increased-after-training-interventions.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Hybrid shoulder dystocia training combining theoretical instruction, simulation and 360°-VR](hybrid-vr-shoulder-dystocia-training-strategy.md)
 
 ## Examples
 -

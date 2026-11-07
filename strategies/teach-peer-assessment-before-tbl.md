@@ -45,6 +45,7 @@ Because satisfaction with peer evaluation was the lowest-rated attitude dimensio
 ## Related Strategies
 
 - [Implement TBL with dedicated teaching teams, systematic teacher training, and diversified assessment](tbl-implementation-strategy-dedicated-teams.md)
+- [Introduce a two-step peer assessment process so students can act on feedback between assessments](two-step-peer-assessment-process.md)
 
 ## Examples
 -

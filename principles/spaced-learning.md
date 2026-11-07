@@ -497,6 +497,10 @@ The article concludes that AI-generated podcasts are best positioned as a 'mobil
 - [Cognitive psychology reviews show spacing effects are robust and the optimal inter-study interval scales with the retention interval](../claims/optimal-isi-scales-with-retention-interval-cognitive-reviews.md) [~W]
 - [Defibrillation-related and CPR-related domain scores are also significantly higher after low-dose high-frequency ALS training](../claims/ldhf-als-defibrillation-cpr-domain-gains.md) [+W]
 
+## Examples
+
+- [Spread time-limited skills courses over several days in shorter sessions rather than massing practice on one day](../strategies/spread-skills-courses-over-several-days-strategy.md)
+
 ## Key Sources
 
 - Cepeda, N. J., Pashler, H., Vul, E., Wixted, J. T., & Rohrer, D. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. *Psychological Bulletin, 132*(3), 354–380. [doi:10.1037/0033-2909.132.3.354](https://doi.org/10.1037/0033-2909.132.3.354)

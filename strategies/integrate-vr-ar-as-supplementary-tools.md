@@ -69,6 +69,8 @@ The review recommends that immersive technologies like VR and AR be used as supp
 - [Use video guides and workbooks as supplementary resources to address resource intensity of hands-on simulation](video-guides-workbooks-supplement-simulation.md)
 - [Strengthen interinstitutional collaboration and investigate emerging technologies (3D printing, augmented reality) in simulation-based medical education research](strengthen-collaboration-emerging-technologies-strategy.md)
 - [Use 3D-printed patient-specific models as a complementary tool within CBL sessions on complex orthopaedic conditions](3d-models-as-complement-to-cbl-strategy.md)
+- [Use digital-human simulation as a complementary tool alongside traditional teaching for echocardiography education](digital-human-complementary-echo-teaching-strategy.md)
+- [Use interactive streamed bedside teaching as a supplement to, not a replacement for, conventional face-to-face teaching](e-visite-supplement-not-replacement-strategy.md)
 
 ## Examples
 -

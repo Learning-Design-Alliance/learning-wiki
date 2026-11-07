@@ -49,3 +49,4 @@ ANOVA and chi-square comparison of anonymised results from three cohorts of four
 - [The shortened 2020 OSCE's reduced blueprint is linked to reduced discriminative power across grading categories](reduced-osce-blueprint-reduced-discriminative-power.md) — related
 - [Majorities of students rated both modified OSCEs as safe, well-coordinated and fair, but roughly half reported face masks impeded communication with patients](modified-osce-student-satisfaction-masks-communication.md) — related
 - [Spidergram learning-outcome data showed safety practice marks higher in 2020 and communication skills marks higher in 2021](spidergram-safety-communication-year-differences.md) — related
+- [Year-6 OSCE pass rates on the medical emergency station are significantly associated with the number of times the module was completed](osce-pass-associated-with-module-frequency.md) — related

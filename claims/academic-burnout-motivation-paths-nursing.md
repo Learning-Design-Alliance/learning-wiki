@@ -53,3 +53,4 @@ Direct-path coefficients (Table 4, paths b1–b4) from the path analysis of 261 
 - [Intrinsic and extrinsic motivation each positively predict academic success, while amotivation shows no significant direct effect](motivation-predicts-academic-success-nursing-gpa.md) — related
 - [Health-related quality of life indirectly improves academic success via intrinsic motivation alone and via burnout plus intrinsic motivation serially](hrqol-indirect-effects-via-burnout-intrinsic-motivation.md) — related
 - [Higher health-related quality of life correlates strongly negatively with academic burnout, and motivation dimensions correlate positively with academic success](hrqol-burnout-motivation-correlations-nursing.md) — related
+- [Self-efficacy has no significant direct effect on English learning performance; its effect is indirect through burnout](self-efficacy-effect-on-performance-mediated-by-burnout.md) — related

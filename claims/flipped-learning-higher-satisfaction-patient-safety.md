@@ -50,3 +50,4 @@ In the RCT, posttest satisfaction was measured with the 16-item Satisfaction Que
 - [Students taught with PBL combined with 3D-VRT rated teaching methods higher than students taught traditionally](pbl-3d-vrt-higher-student-teaching-evaluations.md) — related
 - [BOPPPS/FC-CBL residents self-rated their teamwork and clinical thinking higher than LBL residents on a five-point questionnaire](boppps-fc-cbl-higher-teamwork-clinical-thinking.md) — related
 - [Students in the combined PBL-MDT-flipped classroom group reported more positive learning outcomes than the traditional group across seven survey dimensions](pbl-mdt-flipped-survey-seven-dimensions-favorable.md) — related
+- [Residents and the programme rated teaching quality significantly higher for the ADDIE-based flipped classroom than for traditional teaching](addie-flipped-classroom-higher-teaching-quality-rating.md) — related

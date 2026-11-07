@@ -56,3 +56,4 @@ Descriptive statistical analysis of the pilot's 5-point Likert questionnaire (1 
 - [Five of seven pilot participants found MHW-based TBL more engaging than traditional TBL for learning complex pharmacology concepts](mhw-tbl-more-engaging-than-traditional.md) — related
 - [Six of seven students found the VR environment interactive and collaborative and recommended future MHW use, and most agreed it could be a game changer in pharmacology education](mhw-tbl-recommended-future-pharmacology-use.md) — related
 - [Participants rated the POCUS course near the maximum on all evaluation measures, exceeding the pre-set satisfaction threshold](pocus-course-high-satisfaction-ratings.md) — related
+- [Participants report high engagement and satisfaction with the course but mixed technical experiences](sci-pa-elearning-engagement-satisfaction-technical-issues.md) — a narrower finding that bears on this claim

@@ -56,3 +56,5 @@ Analysis of the five training results and final test across 26 students (Table 1
 - [Medical students training MIS RYGB on a VR trainer in pairs reached proficiency with significantly fewer exercise repetitions than students training solo](pair-training-fewer-repetitions-rygb-proficiency.md) — related
 - [Result scores on the Aizhixing system tended to increase from earlier to later examinations after practice repetitions in one group with no comparison group, but the trend was not statistically significant](aizhixing-score-trend-not-significant.md) — related
 - [Offline haptic VR practice scores improved across six weekly sessions, with several procedural items reaching a plateau after 2 to 4 practice sessions](offline-haptic-practice-plateau-two-to-four-sessions.md) — related
+- [Residents reached the expert benchmark on small-intestine suturing after a median of 11 repetitions, with a plateau after roughly 11 repetitions](rostrac-learning-curve-suturing-plateau.md) — related
+- [Residents achieved DaVinci Skills Simulator targets after a median of 3 repetitions and about 8 hours of VR training](rostrac-vr-training-targets.md) — related

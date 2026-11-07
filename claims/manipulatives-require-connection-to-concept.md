@@ -175,3 +175,4 @@ Open questions: how much guidance is optimal (over-guidance may trigger its own 
 - [Students taught with MEAC produced work showing understanding of line and angle concepts, including manipulating figures to determine angles](meac-student-work-line-angle-understanding.md) — related
 - [Media scaffolding helped students investigate geometry properties, form mental concrete shapes, and complete geometry tasks](media-scaffolding-three-helps-geometry.md) — a narrower finding that bears on this claim
 - [Manipulative materials foster pupils' love for reading more than visual materials, despite pupils being predominantly visual learners.](manipulative-materials-foster-reading-love.md) — related
+- [Teachers perceive that combining movement with academic content consolidates learning, particularly for practice-friendly concepts such as multiplication tables](pal-movement-academic-consolidates-learning-perceived.md) — related

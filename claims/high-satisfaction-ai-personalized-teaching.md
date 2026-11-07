@@ -54,3 +54,4 @@ Self-developed satisfaction questionnaire administered only in the experimental 
 - [AI-assisted trainees rated learning engagement and responsiveness to questions significantly higher, but learning interest and satisfaction did not differ significantly](deepseek-assistant-satisfaction-engagement-higher-interest-not.md) — related
 - [Mean Likert ratings across engagement, collaboration, conceptual understanding, and satisfaction criteria were approximately 4.00 on the 5-point scale](mhw-tbl-mean-likert-4.md) — related
 - [Trainee satisfaction, goal achievement, and technical-application ratings ranked the ChatGPT group highest, followed by the template group, then the traditional group](chatgpt-group-highest-satisfaction-ratings.md) — related
+- [Participants report high engagement and satisfaction with the course but mixed technical experiences](sci-pa-elearning-engagement-satisfaction-technical-issues.md) — related

@@ -71,3 +71,4 @@ Total and direct effect regressions from the same PROCESS model 6 analysis. The 
 - [Teamwork predicts critical thinking via educational motivation (Ind2: Twork→EdMot→CThink, β=.052, 95% CI .0318-.0747)](teamwork-via-educational-motivation-indirect-effect.md) — related
 - [The number of substantive comments during discussion mediated the effect of preparatory condition on immediate learning, but not on long-term learning](substantive-comments-mediate-immediate-learning.md) — related
 - [Homework management skills partially mediate the relationship between teacher homework involvement and homework behavior](homework-management-partially-mediates-teacher-involvement-behavior.md) — related
+- [Improved clinical thinking skills correlate strongly with improved teamwork skills after Stop the Bleed training (R = 0.82)](clinical-thinking-teamwork-correlation-stb.md) — related

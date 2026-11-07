@@ -52,3 +52,4 @@ Bootstrap mediation analysis (5,000 samples) in Table 3 shows significant indire
 - [Emotional intelligence is positively and significantly linked with self-efficacy, motivation, and resilience among both undergraduate and postgraduate students](ei-positive-links-self-efficacy-motivation-resilience.md) — related
 - [Emotional intelligence is directly and positively related to academic achievement and psychological well-being in university students](ei-direct-achievement-wellbeing.md) — related
 - [Structural paths differ between undergraduate and postgraduate students, but the indirect mediating effects do not differ significantly](multigroup-paths-differ-indirect-similar.md) — related
+- [Personality traits significantly mediate the relationship between entrepreneurial intention and student academic performance among university students](personality-traits-mediate-ei-academic-performance.md) — related

@@ -49,3 +49,4 @@ PROCESS macro mediation analyses (Hayes procedure, 10,000 bootstrap samples; val
 - [Higher cardiorespiratory fitness is associated with higher academic performance across subjects in children](higher-crf-higher-academic-performance-children.md) — related
 - [Mental health difficulties are associated with poorer academic performance across multiple school subjects in 7–8-year-old European schoolchildren](mental-health-difficulties-worse-academic-performance-children.md) — related
 - [Fitness mediation of the gross motor competence-academic achievement relationship is more relevant in girls, especially through cardiorespiratory fitness and speed/agility](fitness-mediation-more-relevant-girls-gmc-academic-achievement.md) — related
+- [Improvements in physical fitness were not associated with improvements in academic achievement or conduct problems](fitness-gains-not-associated-with-academic-gains.md) — related

@@ -58,3 +58,4 @@ Thematic analysis under the ITEM debriefing domain of interviews with 11 medical
 - [Teachers highlighted debriefing after each simulation as central to the development of nursing students' critical thinking.](post-simulation-debriefing-central-to-ct-nursing-sbl.md) — related
 - [Learner reactions to IVR technical aspects consume more debriefing time than in mannequin-based simulation; debriefers suggest allocating dedicated feedback channels](ivr-technical-discussions-consume-debriefing-time.md) — related
 - [Debriefing and reflection are absent from LTT courses, and participants did not report on these known benefits of simulation training](ltt-debriefing-absent.md) — related
+- [Nursing students valued the reflective DML debriefing over CRM-principles debriefing for euthanasia simulation](dml-debriefing-preferred-euthanasia-simulation.md) — related

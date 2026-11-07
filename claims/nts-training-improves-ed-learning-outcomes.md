@@ -80,3 +80,4 @@ The review's synthesis of 15 included studies (two RCTs, one quasi-experimental,
 - [Interprofessional CPR training with MAES is perceived by nursing and medical students to enhance teamwork and nontechnical skill development](maes-ipe-enhances-teamwork-perceptions.md) — a narrower finding that bears on this claim
 - [Trauma team training improves team-specific performance outcomes such as teamwork and task completion scores](ttt-improves-team-specific-outcomes.md) — related
 - [Virtual on-call simulations yield self-reported confidence outcomes consistent with in-situ models and offer greater scalability](virtual-on-call-simulation-consistent-with-in-situ.md) — related
+- [Neither RCDP nor TRD is meaningfully better than the other for improving teamwork knowledge or team performance in interprofessional pediatric emergency department simulation training](rcdp-vs-trd-no-meaningful-difference.md) — a narrower finding that bears on this claim

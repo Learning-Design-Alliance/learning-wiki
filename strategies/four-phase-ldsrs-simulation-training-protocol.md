@@ -62,6 +62,7 @@ The article describes a standardized simulation-based training protocol structur
 - [Four-step graduated practical training sequence from trainer demonstration to learner performance with real-time feedback](four-step-graduated-echo-simulator-practice-sequence.md)
 - [Use Peyton's 4-step teaching approach during the guided teaching phase of skills practice](peytons-4-step-approach-in-laparoscopic-teaching-phase.md)
 - [Use pre-recorded OSCE-style skills videos with pause and replay to build procedural knowledge before practice](pre-recorded-osce-skills-videos-strategy.md)
+- [Deliver novel psychomotor skill training asynchronously via a flipped-classroom, learner-centric model to reduce reliance on synchronous expert sessions](asynchronous-flipped-classroom-skill-training-strategy.md)
 
 ## Examples
 -

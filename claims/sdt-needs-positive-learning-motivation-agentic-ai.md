@@ -69,3 +69,4 @@ Cross-sectional perception-based survey of 398 business-school students in India
 - [In the AI motivation network with correlates, autonomy need satisfaction was strongly related to competence need satisfaction](autonomy-competence-satisfaction-strong-edge-ai.md) — related
 - [SDT-based online unit significantly increased relatedness in online Algebra 2 students](sdt-based-online-unit-increased-relatedness.md) — related
 - [Student online engagement (cognitive, emotional, behavioral) positively predicts learning performance and satisfaction](online-engagement-predicts-performance-satisfaction.md) — related
+- [Participants reported moderate satisfaction of basic psychological needs and moderate successful academic identity](moderate-needs-identity-descriptives.md) — related

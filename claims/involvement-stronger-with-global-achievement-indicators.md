@@ -58,3 +58,4 @@ A moderator analysis of achievement-measure type in the meta-analysis found the 
 - [Teacher expectations correlate most strongly with achievement among Year-10 expectation and aspiration measures](teacher-expectations-highest-achievement-correlations.md) — related
 - [Training in parental school involvement at home, positive reinforcement, psychoeducation, and use of explicit goals showed positive frequency values across reading, math, and GPA outcomes](parental-involvement-positive-fv-all-outcomes.md) — related
 - [Students' GPA shows a high positive correlation with their SLPAT physics achievement scores](gpa-slpat-positive-correlation.md) — a narrower finding that bears on this claim
+- [Mental unwellness correlates weakly and negatively with all three Grade 8 subjects; parental involvement variables correlate weakly to moderately and positively](unwellness-involvement-correlations-ceps.md) — related

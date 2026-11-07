@@ -45,6 +45,7 @@ Based on the finding that some students value live in-person lectures, the autho
 
 - [Flipped Learning](flipped-learning.md)
 - [Optimization strategies for hybrid teaching: varied online instruction styles, curriculum reorganization, an online teaching library, and emerging technologies](hybrid-teaching-optimization-strategies-physiology.md)
+- [Encourage teachers to use the flipped classroom model when teaching courses students perform badly in, while attending to self-control readiness](encourage-fcm-for-weakly-performed-courses.md)
 
 ## Examples
 -

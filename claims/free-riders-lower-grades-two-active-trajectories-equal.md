@@ -66,3 +66,4 @@ Post hoc Dunn's tests with Holm correction on the same trajectory–grade compar
 ## Related Claims
 - [Trajectories differed in transition structure: free-rider students migrated from social mediator and leader roles into the peripheral explorer role, and rarely returned to leadership directly.](free-rider-transition-structure.md) — related
 - [Students' roles showed strong temporal stability: each trajectory returned to its initial roles across the 13 weeks, which the authors interpret as stable collaborative dispositions.](role-trajectories-return-to-initial-roles.md) — related
+- [Constructively engaged students earn higher post-test and final grades than active, passive, or interactive profiles (adjusted p ≤ 0.01), with no differences on pre-tests or teamwork](constructive-engagement-higher-posttest-final-grades.md) — related

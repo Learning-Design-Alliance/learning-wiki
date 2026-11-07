@@ -47,6 +47,7 @@ Because lecturers applied debriefing inconsistently—with differences in opinio
 - [Blend the PEARLS debrief with CHAT-guided facilitation to extend debriefing from the individual to the team and system](blended-pearls-chat-debrief-strategy.md)
 - [Use the PEARLS Healthcare Debriefing Tool with paired otolaryngology faculty and nurse educator facilitators](pearls-debrief-with-dual-discipline-facilitators.md)
 - [When implementing DwGJ-based simulation with CBL, structure teaching hours and expand trained instructor capacity](dwgj-cbl-implementation-recommendations.md)
+- [Structure peer debriefing around observed actions, good judgement, and closing performance gaps](structured-peer-debriefing-form-strategy.md)
 
 ## Examples
 -

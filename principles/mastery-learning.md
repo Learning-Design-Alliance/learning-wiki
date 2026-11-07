@@ -18,7 +18,7 @@ sources:
 # Mastery Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 39 claims (19 for, 17 mixed, 3 against) · 35 studies (11 causal, 7 quant-synthesis, 7 review, 5 theoretical, 2 associational, 2 qualitative, 1 design), `q1`–`q4` · 7 of 35 report an effect size · 35 claims rest on one study
+> **Evidence** · 40 claims (20 for, 17 mixed, 3 against) · 36 studies (11 causal, 7 quant-synthesis, 7 review, 5 theoretical, 2 associational, 2 qualitative, 2 design), `q1`–`q4` · 7 of 36 report an effect size · 36 claims rest on one study
 
 ## Conditional relationship
 
@@ -90,6 +90,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Students in online practice systems differ widely in initial knowledge but very little in learning rate per practice opportunity](../claims/students-differ-in-initial-knowledge-not-learning-rate.md) [+M] — added 2026-11-05 from Koedinger et al. (2023): with practice and feedback held to the same kind of opportunity, students who start lower need more opportunities rather than learning more slowly; not yet read against the model above.
 - [After up-front instruction, students start practice at about 65% correct and need about seven opportunities per knowledge component to reach 80%](../claims/practice-opportunities-needed-after-verbal-instruction.md) [+M] — added 2026-11-05 from Koedinger et al. (2023); not yet read against the model above.
 - [Fellows required an average of 4.5 training sessions (about 90 minutes of individualized bedside instruction) to reach the mastery learning standard, and 7 of 11 recruited fellows met it](../claims/mastery-learning-sessions-to-mps-echocardiography.md) [+W] — attached 2026-11-07 from Talan Jordan et al. (2024), which proposed "Use a mastery learning model with a minimum passing standard and fading instructor support to teach advanced point-of-care echocardiographic measurement skills".
+- [21 of 24 ultrasound-naive trainees attained the predefined mastery learning level twice consecutively on a VR abdominal ultrasound simulator, with a median of 2h38min and 7 attempts](../claims/21-of-24-attain-abdominal-us-mastery-median-2h38.md) [+W] — attached 2026-11-07 from Post JH et al. (2023), which proposed "Set mastery standards for simulator training using an expert benchmark (contrasting-groups method) with a twice-consecutive pass criterion".
 
 ## Objective and learner-valued goal
 

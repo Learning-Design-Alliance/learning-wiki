@@ -51,3 +51,4 @@ The review reports, from a Chinese study of first-year medical students in an ex
 - [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — related
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [Students overwhelmingly support VR as a supplementary anatomy learning tool but a majority do not see it fully replacing physical labs](students-support-vr-supplement-not-replacement.md) — related
+- [Despite generational familiarity with technology, students uniformly requested more familiarization with VR hardware and free exploration before managing a virtual patient](students-requested-vr-hardware-familiarization.md) — related

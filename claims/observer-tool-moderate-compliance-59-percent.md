@@ -46,3 +46,4 @@ Compliance analysis in the RCT intervention group: 59% of observation forms full
 
 ## Related Claims
 - [The authors tentatively conclude the SLMS intervention shows promise for boosting achievement despite unfavorable descriptive trends](slms-tentative-promise-despite-trends.md) — related
+- [Observer tools may be more effective when technical and non-technical skills are trained together, per the reviewed literature](observer-tools-mixed-skills-training-context.md) — related

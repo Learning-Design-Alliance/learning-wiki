@@ -49,3 +49,4 @@ Bivariate Pearson correlation analysis in JAMOVI preceding the mediational model
 - [Teamwork predicts critical thinking directly and via work skills (Ind1: Twork→WSk→CThink, β=.053, 95% CI .0312-.0717)](teamwork-via-work-skills-indirect-effect.md) — related
 - [Teamwork predicts critical thinking via educational motivation (Ind2: Twork→EdMot→CThink, β=.052, 95% CI .0318-.0747)](teamwork-via-educational-motivation-indirect-effect.md) — related
 - [Serial mediation through work skills then educational motivation is significant but smaller (Ind3: Twork→WSk→EdMot→CThink, β=.004, 95% CI .0010-.0079)](serial-mediation-work-skills-motivation-smaller.md) — related
+- [Improved clinical thinking skills correlate strongly with improved teamwork skills after Stop the Bleed training (R = 0.82)](clinical-thinking-teamwork-correlation-stb.md) — a narrower finding that bears on this claim

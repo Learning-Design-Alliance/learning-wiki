@@ -49,3 +49,4 @@ Mini-CEX clinical judgment scores from Table 2 of the randomized study (n = 21 p
 - [PBL-DeepSeek students show higher Mini-CEX clinical competence across all seven domains than traditionally taught students](deepseek-pbl-minicex-clinical-gains.md) — related
 - [BOPPPS-CBL raises Mini-CEX clinical competence scores in six of seven dimensions but not physical examination skills](boppps-cbl-mini-cex-six-dimensions-higher.md) — related
 - [The PBL-ChatGPT group scored significantly higher than the traditional teaching group on the Mini-CEX medical interviewing skills domain](pbl-chatgpt-higher-mini-cex-medical-interviewing-skills.md) — related
+- [The ADDIE-based flipped classroom group outperformed the traditional-teaching group on all seven Mini-CEX clinical competence domains](addie-flipped-classroom-mini-cex-all-domains-neurology-residents.md) — related

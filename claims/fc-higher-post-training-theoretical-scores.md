@@ -58,3 +58,4 @@ Pre- and post-training 20-question multiple-choice examinations (100 points) dra
 - [Pre-class test scores did not differ between BOPPPS-CBL and LBL groups at baseline](boppps-cbl-lbl-equal-pre-class-scores.md) — related
 - [Hemodialysis nurses trained with flipped classroom scored significantly higher on objective, subjective, and overall theoretical knowledge than nurses trained with lecture-based learning](fc-beats-lbl-hemodialysis-theoretical-knowledge.md) — related
 - [Residents' baseline non-technical skills were already high before observation-based training, limiting room for improvement](high-baseline-ants-before-training.md) — related
+- [Groups were equivalent on baseline acute asthma knowledge before training, with no statistically significant pre-test difference](no-pretest-difference-hfs-ivc.md) — related

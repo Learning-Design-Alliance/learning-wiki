@@ -62,6 +62,7 @@ The authors recommend that "nursing education institutions should commit to deve
 - [Develop nursing students' compassion competence through role modelling, simulation-based methods, role-playing, and mindfulness techniques within a systematic, continuous curriculum](compassion-focused-education-strategies-nursing-tabriz.md)
 - [Use innovative, technology-based teaching methods—simulation, role-playing, videos, case studies, and debriefings—to train psychological safety competencies](innovative-methods-psychological-safety-training.md)
 - [Integrate structured feedback and video debriefing with CVS annotation into preclinical and clinical surgical training](integrate-cvs-annotation-debriefing-into-surgical-training.md)
+- [Use clinical simulation scenarios in health institutions to develop and assess nurses' infusion-therapy clinical judgment](encourage-clinical-simulation-infusion-nurse-education.md)
 
 ## Examples
 -

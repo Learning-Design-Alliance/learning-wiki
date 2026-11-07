@@ -13,7 +13,7 @@ generated:
 # Geometric Reasoning
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 54 claims (37 show a difference, 10 mixed, 7 no difference) · 34 studies (20 causal, 6 qualitative, 2 quant-synthesis, 2 associational, 2 theoretical, 1 review, 1 design), `q1`–`q3` · 5 of 34 report an effect size · 54 claims rest on one study
+> **Evidence** · 55 claims (38 show a difference, 10 mixed, 7 no difference) · 35 studies (20 causal, 6 qualitative, 3 associational, 2 quant-synthesis, 2 theoretical, 1 review, 1 design), `q1`–`q3` · 5 of 35 report an effect size · 55 claims rest on one study
 
 ## Description
 Geometric reasoning is the abstract thinking used to define shapes, analyse their properties and relationships, and argue about them; in the secondary grades it extends to formalising those arguments as written proofs. The Learner Variability Navigator notes that geometric knowledge gives concrete representations and models for abstract mathematical ideas, which can serve as an entry point to higher-order mathematical thinking. It is assessed with short geometry tasks that ask learners to explain their reasoning in writing or diagrams, which also reveal misconceptions, and with the geometry subtests of diagnostic batteries.
@@ -91,6 +91,7 @@ LVN follows it from grade 3 to grade 10. It is distinct from, but draws on, [spa
 - [Children with a good understanding of the concept of area and the area formula exhibit competency in identifying geometric shapes, using formulas for determining areas, and self-correcting mistakes.](../claims/good-area-understanding-competency-claim.md) [+M] — learners who differ on it differ in outcomes
 - [The association between quality of children's understanding and their application of the area formula of a parallelogram did not reach significance.](../claims/parallelogram-formula-association-not-significant-claim.md) [-M] — learners who differ on it differ in outcomes
 - [BeeBot polygon activities support geometry learning through decomposition, embodied turn-taking, and mediating artifacts](../claims/beebot-polygon-activity-geometry-decomposition.md) [+W] — measured as an outcome of the instruction studied
+- [Algebra and geometry explain an additional 15% of variance in secondary-school mathematics achievement beyond arithmetic-based skills](../claims/algebra-geometry-add-15-percent-variance-math-achievement.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Geometry Tasks with Explanation** (e.g., Carroll, 1998): Short geometry tasks that elicit reasoning and argumentation through writing, diagrams, and other representations can be used to assess students' understanding and misconceptions of basic geometric properties while giving insight into students' thinking.

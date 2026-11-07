@@ -25,7 +25,7 @@ sources:
 # Debriefing
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 36 claims (26 for, 8 mixed, 2 against) · 52 studies (15 review, 13 causal, 13 quant-synthesis, 4 qualitative, 3 design, 2 associational, 2 theoretical), `q1`–`q4` · 9 of 52 report an effect size · 25 claims rest on one study
+> **Evidence** · 38 claims (26 for, 10 mixed, 2 against) · 53 studies (15 review, 14 causal, 13 quant-synthesis, 4 qualitative, 3 design, 2 associational, 2 theoretical), `q1`–`q4` · 9 of 53 report an effect size · 27 claims rest on one study
 
 ## Conditional relationship
 
@@ -137,6 +137,8 @@ Claims about debriefs or group reflection that the earlier page did not cite, an
 - [Participants perceive manikin death as reflecting inadequate resuscitation, but facilitator reassurance and debriefing resolve this](../claims/death-perceived-as-failure-mitigated-by-debrief.md) [+W] — attached 2026-10-31 from Apara Teleireoluwa et al. (2024), which proposed "Debriefs after paediatric manikin death need skilled facilitation with designated time for emotional and communication discussion"; tests this page's relationship.
 - [Focus-group participants in the RLC group attributed their improvements to the model's learner-centred, incremental reflective structure, psychological safety, and support for equitable participation in multicultural groups](../claims/qualitative-rlc-incremental-psychological-safety.md) [+W] — attached 2026-11-06 from Almomani Emad et al. (2025), which proposed "Offer structured, scaffolded debriefing models like RLC especially to junior or less experienced staff".
 - [ER-VIPE with co-debriefing significantly lowered burnout relative to computer-based SIMBIE without debriefing, while the VR-based ER-VIPE arm showed no significant burnout differences](../claims/ervipe-burnout-reduction-versus-control.md) [+W] — attached 2026-11-06 from Lesselroth Blake et al. (2025), which proposed "Conduct co-debriefing with explicit psychological safety practices and address power imbalances between professions and co-debriefers".
+- [Peer-led debriefing improves undergraduate medical students' non-technical skills in simulated crises as effectively as instructor-led debriefing](../claims/peer-led-debriefing-as-effective-as-instructor-led.md) [~W] — attached 2026-11-07 from Jaffrelot M et al. (2024), which proposed "Use peer-led debriefing as a feasible, lower-cost alternative to instructor-led debriefing in simulation-based crisis training".
+- [Peer debriefers' non-technical crisis-management skill scores rose from pre-test to post-test and retention test in within-group comparisons](../claims/peer-debriefer-own-skill-improvement.md) [~W] — attached 2026-11-07 from Jaffrelot M et al. (2024), which proposed "Use peer-led debriefing as a feasible, lower-cost alternative to instructor-led debriefing in simulation-based crisis training".
 
 ## Objective and learner-valued goal
 

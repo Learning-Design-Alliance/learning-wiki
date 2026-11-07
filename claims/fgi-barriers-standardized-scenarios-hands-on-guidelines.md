@@ -49,3 +49,4 @@ In the focus group study of 34 infectious disease control personnel, qualitative
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
 - [Participants identified five categories of educational needs: training methods, content, objectives, institutional and policy support, and other specific requirements](fgi-five-educational-needs-categories.md) — related
 - [Training programs at designated infectious disease institutions improved confidence, role clarity, and interdepartmental collaboration among personnel](fgi-training-improved-confidence-role-clarity-collaboration.md) — related
+- [Case scenario-related barriers — ambiguous cases, equal time allocation across cases, and poor alignment of PBL cases with class lectures — hinder PBL implementation](dbu-pbl-case-related-barriers.md) — related

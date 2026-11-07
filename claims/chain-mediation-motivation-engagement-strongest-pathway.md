@@ -73,3 +73,4 @@ Comparison of the three significant indirect effects in the same bootstrap analy
 - [Academic self-efficacy and academic emotions sequentially chain-mediate the effect of teacher support on academic achievement](chain-mediation-efficacy-emotions-teacher-support-achievement.md) — related
 - [Academic boredom and behavioural engagement sequentially (chain) mediate the link between EFL PsyCap and EFL achievement](chain-mediation-boredom-engagement.md) — related
 - [Learning engagement partially mediates the association between peer relationships and academic achievement](learning-engagement-partial-mediation-peer-achievement.md) — related
+- [School motivation and learning engagement chain-mediate the effect of online class-related enjoyment on academic achievement](chain-mediation-enjoyment-motivation-engagement-achievement.md) — related

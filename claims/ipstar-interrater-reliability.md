@@ -51,3 +51,4 @@ Reliability analysis of two independent raters scoring team performance in all 1
 - [Team OSCE total scores rose from a pre-intervention median of 6.25 to a post-intervention median of 17 after IP-STAR training](ipstar-team-osce-gain.md) — related
 - [Blinded dual-rater scoring of the modified Welling Scale shows substantial inter‐rater reliability (overall ICC 0.822)](welling-scale-dual-rater-relicability-icc-0822.md) — related
 - [Blinded video-based scoring showed acceptable inter-rater agreement for technical and non-technical performance](inter-rater-agreement-video-performance-scoring-shoulder-dystocia.md) — related
+- [Inter-rater reliability of the modified Likert set-up assessment was fair overall and higher for unprompted (score 1) performance](fair-interrater-reliability-likert-setup-tool.md) — related

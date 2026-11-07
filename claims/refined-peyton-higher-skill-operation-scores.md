@@ -52,3 +52,4 @@ Cohort comparison of 57 RP residents (2022 intake) with 59 TTM residents (2021 i
 - [Modified Peyton’s four-step approach yields higher immediate post-training OSCE scores than traditional Peyton in resident clinical skills training](modified-peyton-higher-immediate-osce.md) — related
 - [Modified Peyton’s four-step approach yields better one-month skill retention than traditional Peyton](modified-peyton-one-month-retention.md) — related
 - [Theoretical knowledge exam scores did not differ significantly between refined Peyton and traditional teaching groups one month after training](refined-peyton-no-theoretical-knowledge-difference.md) — related
+- [RCDP training yields significantly higher immediate post-training forceps operation scores than traditional teaching among G&O residents](rcdp-higher-immediate-forceps-scores.md) — related

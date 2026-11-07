@@ -61,3 +61,4 @@ Investigator-developed supplementary questionnaire of eight items on five-point 
 - [Facilitators received CBL positively, with 85% agreeing the hybrid approach enhances communication skills and 80% supporting its regular timetable incorporation](facilitators-positive-cbl-feedback-physiology.md) — related
 - [Students in the REPs-VS group rated gains in learning needs identification, clinical reasoning, and communication highly, with 98.3% agreeing the platform enhanced their understanding](reps-vs-perceptions-knowledge-skills.md) — related
 - [Student self-assessment scores were high across CBL cases but declined significantly in the final case, with cooperation and communication falling most](self-assessment-declined-final-cbl-case.md) — related
+- [Most clerkship students perceive that CBL improved their clinical reasoning ability](cbl-perceived-clinical-reasoning-gain.md) — related

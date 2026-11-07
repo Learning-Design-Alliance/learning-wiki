@@ -55,3 +55,4 @@ Summative content analysis of open-ended questionnaire answers on physical sympt
 - [Participants express high satisfaction with VR MCI training and motivation to repeat it](vr-mci-training-satisfaction-motivation-repeat.md) — related
 - [Cybersickness (dizziness and headaches) occurs more frequently with VR or image-rich MR than with standard MR, favouring MR and shorter, well-designed HMD sessions](cybersickness-more-frequent-vr-than-standard-mr.md) — a broader claim this one bears on
 - [Simulator sickness shows significant gender differences in VR trauma simulation acceptance, with women more susceptible to nausea and dizziness.](vr-simulator-sickness-gender-differences.md) — related
+- [VR simulation training is well tolerated, with most participants reporting no or only mild adverse symptoms](vr-training-mild-or-no-adverse-reactions.md) — reports the opposite

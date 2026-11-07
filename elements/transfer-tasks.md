@@ -13,7 +13,7 @@ generated:
 # Transfer Tasks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 19 claims (9 for, 9 mixed, 1 against) · 23 studies (15 causal, 3 quant-synthesis, 2 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 9 of 23 report an effect size · 15 claims rest on one study
+> **Evidence** · 21 claims (9 for, 11 mixed, 1 against) · 24 studies (16 causal, 3 quant-synthesis, 2 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 9 of 24 report an effect size · 17 claims rest on one study
 
 ## Description
 A transfer task asks learners to apply what they have learned to a new problem, context, or situation that differs in surface features from the original instruction. It functions both as an assessment of whether learning is flexible rather than rote and as an instructional event that itself deepens abstraction of the underlying principle.
@@ -66,6 +66,8 @@ Transfer tasks are the primary way to verify and build far transfer, since perfo
 - [Students across all conditions demonstrated significant pre-post learning gains on near-transfer physics questions, but not on far-transfer questions](../claims/significant-near-transfer-learning-gains-all-conditions.md) [~W]
 - [Tumour-stage reasoning scores rose significantly from pre-test to post-test for both near transfer (r = 0.75) and far transfer (r = 0.78), in one uncontrolled pre-post study](../claims/tumour-stage-reasoning-gains-near-far-transfer.md) [+W]
 - [Initial patient impressions improved significantly for far transfer (r = 0.73) but not for near transfer (p = 0.12)](../claims/initial-impressions-far-transfer-gain.md) [~W]
+- [In the 2D transfer task, novices with straight instruments made fewer errors than those with curved instruments, with no difference in performance score or time](../claims/2d-transfer-task-fewer-errors-straight-instruments.md) [~W] — attached 2026-11-07 from Hidding Johanna et al. (2024), which proposed "Novel unvalidated laparoscopic transfer task combining FLS cutting and suturing skills".
+- [In the transfer task with curved instruments, the 3D group showed better performance and significantly fewer errors than the 2D group](../claims/3d-transfer-task-better-performance-fewer-errors.md) [~W] — attached 2026-11-07 from Hidding Johanna et al. (2024), which proposed "Novel unvalidated laparoscopic transfer task combining FLS cutting and suturing skills".
 
 ## The evidence by question
 

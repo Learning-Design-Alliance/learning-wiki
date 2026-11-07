@@ -50,3 +50,4 @@ Matched before-and-after cohort study of 78 first-year family medicine residents
 - [Participants reported high satisfaction with the EDC e-learning module (mean 4.0/5 overall)](edc-elearning-satisfaction.md) — related
 - [Secondary knowledge outcomes: high posttraining identification of at-risk populations, health effects, and EDC locations, with persistent gaps for behavioral disorders, alkylphenols, and phenoxyethanol](edc-elearning-secondary-knowledge.md) — a narrower finding that bears on this claim
 - [Most participants declined to pursue thesis work on EDCs or environmental health despite increased training interest](edc-elearning-thesis-interest.md) — related
+- [Vaccine storage knowledge scores rose from 5.6 to 9.8 of 11 correct answers among physicians and practice assistants after KeepCoool participation, in one single-group pre-post study with no comparison group](keepcoool-knowledge-score-increase.md) — related

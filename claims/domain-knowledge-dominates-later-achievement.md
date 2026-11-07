@@ -100,3 +100,5 @@ SEM models including academic precursors (Figures 3 and 4) showed spelling and m
 - [Grade 5 academic and non-cognitive skills are positive predictors of grade 8 mathematics scores](grade-5-skills-predict-grade-8-math-achievement.md) — related
 - [Improvements in suturing skills are not significantly associated with age, seniority or previous training history](suturing-gain-unrelated-to-age-seniority-history.md) — related
 - [Number of prior high school mathematics courses reliably predicts data visualization assessment performance](math-coursework-predicts-visualization-literacy.md) — related
+- [Poorer reading comprehension, but not word-recognition speed or history of reading difficulties, is associated with lower university academic achievement](comprehension-not-decoding-predicts-wam.md) — related
+- [Regression analysis identifies age, high school grades, and test scores as significant GPA predictors, with the final model explaining about 31.58% of variance](regression-predictors-dental-gpa-model.md) — related

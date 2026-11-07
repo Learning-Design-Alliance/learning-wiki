@@ -49,3 +49,4 @@ Multicenter study across 3 Danish simulation centers comparing 9 orthopedic trau
 - [The contrasting groups method yields a 91% pass/fail cutoff, which the authors judged too low and raised to the expert average of 96%](contrasting-groups-cutoff-91-raised-to-expert-average-96.md) — related
 - [All novices training to mastery reached the 96% expert-level pass/fail standard without more hands-on training time than novices training to plateau](mastery-learning-novices-reach-expert-standard-same-training-time.md) — related
 - [Test–retest reliability of the simulator test was 0.80 (ICC), supporting internal-structure validity evidence](femoral-nail-simulator-test-retest-icc-080.md) — related
+- [The median expert-benchmarked mastery level was 85% of the maximum simulator score, and learning curves showed a plateau correlating with the mastery level](expert-median-85-percent-mastery-standard-plateau.md) — related

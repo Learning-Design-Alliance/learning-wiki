@@ -51,3 +51,5 @@ Review synthesis of comparative patient studies with traditional (often anatomic
 - [Needle passes and procedure time favoured the ultrasound-guided phase but did not reach statistical significance](needle-passes-and-time-favour-us-non-significant.md) — related
 - [PGY residents completed US-guided cannulation significantly faster than clerks (68.5 vs. 133 s)](pgy-faster-than-clerks-cannulation-time.md) — related
 - [Completion rate increased from 43% to 100% in the ultrasound-guided phase, a large but statistically non-significant difference](us-guided-completion-rate-100-vs-43-non-significant.md) — related
+- [Ultrasound-guided PIV placement required significantly fewer sticks than the anatomy approach](us-guided-piv-fewer-sticks.md) — related
+- [Ultrasound-guided PIV attempts by trained nurses succeeded more often than anatomy-based attempts (77.4% vs 35.9%)](us-guided-piv-higher-success-than-anatomy.md) — a narrower finding that bears on this claim

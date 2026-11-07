@@ -54,3 +54,4 @@ Re-testing at the end of the school year compared the experimental group taught 
 - [Flipped classroom instruction produced significantly better post-test writing scores than traditional instruction among Iraqi EFL sophomores](fci-improves-iraqi-efl-writing-posttest.md) — related
 - [Vocabulary instruction with the educational marble game produced significantly higher adjusted post-test scores than traditional instruction in a German second-foreign-language course](marble-game-higher-vocabulary-posttest-than-traditional.md) — related
 - [Culture-based activities improve EFL learners' communicative and linguistic competence](culture-based-activities-improve-communicative-linguistic-competence.md) — related
+- [Students in the online communication training reported a significantly larger pre/post gain in self-assessed communication skills than the face-to-face group](online-group-double-self-assessed-gain.md) — related

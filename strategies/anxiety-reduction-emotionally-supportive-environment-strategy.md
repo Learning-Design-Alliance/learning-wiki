@@ -52,6 +52,7 @@ The review recommends that future work develop practical strategies for managing
 - [Train teaching staff in SEL tools and abilities as a preventive route to student mental health](sel-teacher-training-prevention-strategy.md)
 - [Manage pre-task expectation anxiety with cognitive restructuring or relaxation alongside gradual exposure to mathematics](manage-anticipatory-math-anxiety-strategy.md)
 - [Integrate psychosocial support strategies—mentoring, mindfulness-based stress reduction, peer-support groups, and academic skills training—into medical education programs](psychosocial-support-strategies-medical-education.md)
+- [Anxiety-reduction support strategy for medical students, with special attention to females](anxiety-reduction-support-medical-students-strategy.md)
 
 ## Examples
 -

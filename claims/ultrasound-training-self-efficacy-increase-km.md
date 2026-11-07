@@ -56,3 +56,4 @@ Paired t-test analysis of 105 KM students' pre- and post-practice self-efficacy 
 - [Novice trainees' confidence in laparoscopic skill rose from pre-test to post-test within Group A after training with AEDS real-time feedback](aeds-feedback-increases-novice-confidence.md) — a narrower finding that bears on this claim
 - [US-PIVC training significantly increases foundation doctors' confidence in performing ultrasound-guided PIVC itself](us-pivc-training-increases-us-pivc-confidence.md) — related
 - [Confidence to perform the procedure on a live patient without help rose from 1.06 to 3.70 on the 5-point scale after training](live-patient-confidence-item-increase.md) — related
+- [Self-efficacy and knowledge rose from pre-test to post-test within the full sample, with the knowledge change significant and self-efficacy change also significant overall](full-sample-pre-post-increases-haematology.md) — related

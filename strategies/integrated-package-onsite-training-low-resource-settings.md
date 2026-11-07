@@ -51,6 +51,7 @@ The authors note that their program was stand-alone, "while simulation-based tra
 - [Implement simulation-based refresher drills, visual job aids, mentorship champions, and stocked emergency kits for MgSO4 readiness](mgso4-competency-intervention-package.md)
 - [Improve HBB implementation through better work routines, equipment maintenance, psychological safety, and training that explains neonatal physiology](hbb-implementation-support-strategy.md)
 - [Integrate simulation courses and structured sub-step assistance, including an Education Team-Time-Out, into emergency surgical training](simulation-and-substep-integration-emergency-surgery-training.md)
+- [Develop multi-scenario VR programs for rare obstetric emergencies, enhanced with artificial intelligence](vr-multi-scenario-obstetric-emergency-training-strategy.md)
 
 ## Examples
 -

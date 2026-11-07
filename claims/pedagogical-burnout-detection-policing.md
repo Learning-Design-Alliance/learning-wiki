@@ -50,3 +50,4 @@ Inductive thematic analysis of open-ended responses in the n=20 survey. Faculty 
 - [Academic integrity and professional-development concerns about AI spanned all surveyed units, though interpreted differently, and several respondents raised equity concerns](integrity-equity-concerns-span-all-units.md) — related
 - [Qualitative narratives reveal temporal guilt patterns, authenticity concerns, and skill-atrophy fears among academics using AI](ai-guilt-qualitative-themes.md) — related
 - [Young researchers show higher risk for burnout, and extreme workload is normalised in academic success narratives](young-researchers-burnout-extreme-workload.md) — related
+- [Workload is positively related to learning burnout, and workload increases track burnout increases](workload-positively-related-to-learning-burnout.md) — related

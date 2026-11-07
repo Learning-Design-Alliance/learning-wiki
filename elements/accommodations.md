@@ -70,6 +70,7 @@ Accommodations improve access and performance for learners whose needs conflict 
 - **Preferential seating and reduced-distraction testing environments** — environmental accommodations for attention-related barriers
 - [Support youth with confirmed slow processing speed through acceptance, advocacy, accommodations, extended time, time-management teaching, and assistive technology](../strategies/accommodations-extended-time-assistive-tech-slow-ps.md)
 - [Use computer-proctored gamified ability assessments as an accessible, accommodating early selection step](../strategies/gamified-assessments-accommodating-selection-step.md)
+- [Provide university accommodations and comprehension support for students with poor reading comprehension](../strategies/university-reading-accommodations-strategy.md)
 
 ## Key Sources
 - Fuchs, L. S., & Fuchs, D. (2001). Principles for the prevention and intervention of mathematics difficulties. In *Psychological Perspectives* — see instead: Fuchs, D., & Fuchs, L. S. (2006). Introduction to response to intervention. *Reading Research Quarterly, 41*(1), 93–99. [doi:10.1111/0938-8982.00010](https://doi.org/10.1111/0938-8982.00010)

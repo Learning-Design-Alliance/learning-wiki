@@ -261,6 +261,7 @@ Engagement, immediate achievement on an aligned test, time saved, delayed retent
 - [Use highly individualized instruction tailored to each specific student with ASD, aligned with their level of mathematical thinking](../strategies/individualized-instruction-for-asd-math.md)
 - [Offer a wide variety of optional form-focussed activities learners choose from according to individual needs, pre- or post-task](../strategies/optional-choice-based-fonf-activities.md)
 - [Use video-recorded think-aloud case reports to diagnose knowledge gaps and tailor teaching strategies](../strategies/video-transcription-diagnosis-strategy.md)
+- [Recommend individualised eLearning educational plans matched to students’ demands and needs](../strategies/individualised-elearning-plans-student-needs.md)
 
 ### Validated
 - [Contingent scaffolding improves learning.](../claims/contingent-scaffolding-improves-learning.md) [+M] — Walkington (2013) personalized algebra word problems to individual learners' out-of-school interests (sports, music, gaming) and found improved performance relative to standard contexts, with the largest gains for struggling learners.

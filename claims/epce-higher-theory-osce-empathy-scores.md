@@ -51,3 +51,4 @@ The review reports, citing Ali et al., a non-randomized quasi-experimental compa
 - [Early clinical exposure improves the clinical skills of medical students compared with traditional teaching](ece-improves-clinical-skills.md) — a broader claim this one bears on
 - [Early clinical exposure is associated with higher empathy scores regardless of gender and academic year](ece-higher-empathy-scores.md) — related
 - [ECE benefits both junior and senior preclinical dental students, with a larger pooled effect in junior students](ece-benefits-junior-and-senior-students.md) — related
+- [Empathy is unrelated to medical students' academic performance](empathy-unrelated-academic-performance-medical-students.md) — related

@@ -69,3 +69,4 @@ The Grade 5 questionnaire results showed the same pattern: higher satisfaction i
 - [Flipped classroom shifts study time toward pre-class preparation and away from post-class review, with no difference in total studying time](fc-study-time-reallocation-total-equal.md) — related
 - [Total cumulative study time is comparable between AI-assisted CBL+FC and lecture-based groups despite more intensive pre-class preparation](ai-assisted-cbl-fc-comparable-total-study-time.md) — related
 - [Medical students taught with combined CBL/FC outperform lecture-based peers on clinical case scenarios in nephrology bedside teaching](cbl-fc-superior-clinical-case-scenario-nephrology.md) — related
+- [PRI-E consumed more student spare time than LBL, which may have reduced satisfaction](pri-e-spare-time-cost.md) — related

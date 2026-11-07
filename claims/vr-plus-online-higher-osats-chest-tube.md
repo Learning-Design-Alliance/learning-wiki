@@ -51,3 +51,4 @@ In this assessor-blinded pilot RCT, 30 medical students randomized 1:1 to online
 - [Immersive VR training yields higher overall OSATS scores than textbook-and-video training in thyroidectomy steps, driven by knowledge of instruments and flow of operation](ivr-training-higher-osats-thyroidectomy.md) — related
 - [In thyroid surgery training, simulation and virtual-reality training improved technical performance and task completion time, and simulators were rated as realistic](simulation-vr-improves-thyroid-surgery-technical-performance.md) — related
 - [No significant differences between VR-based and conventional training in operational understanding, technical skills, or system usability](no-difference-operational-skills-usability.md) — related
+- [IVR-trained participants self-assessed their performance more accurately than e-learning participants](ivr-accurate-self-assessment-confidence.md) — related

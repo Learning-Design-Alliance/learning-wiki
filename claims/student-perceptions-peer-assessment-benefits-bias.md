@@ -48,3 +48,4 @@ Content analysis of open-ended suggestions from the ten student groups at course
 - [Peer and teacher ratings of PtBL video presentations correlate substantially (r = 0.73), supporting criterion-related validity](peer-teacher-rating-correlation-ptbl.md) — related
 - [Business Writing students valued AI feedback for higher-order and sentence-level comments but found it sometimes too general, while appreciating peers' contextual knowledge](business-writing-students-value-ai-feedback-but-find-it-general.md) — related
 - [Higher-performing students took peer assessment seriously while lower-performing students questioned its credibility due to friendship bias and perceived lack of peer expertise](peer-feedback-credibility-distrust-lower-performers.md) — related
+- [Students perceived peer assessment as a fair way of assessing intervention reports and presentations](peer-assessment-perceived-fair.md) — related

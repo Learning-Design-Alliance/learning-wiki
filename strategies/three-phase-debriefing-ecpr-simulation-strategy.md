@@ -49,6 +49,7 @@ Debriefing was "structured based on the three-phase approach, including reaction
 - [Use structured debriefing after simulation scenarios to consolidate transferable prevention actions](structured-daa-debriefing-after-simulation.md)
 - [Blend the PEARLS debrief with CHAT-guided facilitation to extend debriefing from the individual to the team and system](blended-pearls-chat-debrief-strategy.md)
 - [Run in-situ simulation sessions in five stages from pre-briefing to immediate feedback](five-stage-insitu-simulation-session-structure.md)
+- [Structure peer debriefing around observed actions, good judgement, and closing performance gaps](structured-peer-debriefing-form-strategy.md)
 
 ## Examples
 -

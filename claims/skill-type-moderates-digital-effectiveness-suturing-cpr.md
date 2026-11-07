@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-07
 sources:
   - id: mcgee-rg-2024
     resource: "https://doi.org/10.1186/s12909-024-06471-2"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` Virtual training in practical skills like suturing and knot-tying proved as effective as face-to-face training, while computer-based learning fell short in critical areas such as CPR training. [→ McGee RG 2024](#mcgee-rg-2024)

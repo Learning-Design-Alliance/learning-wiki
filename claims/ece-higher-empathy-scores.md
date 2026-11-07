@@ -63,3 +63,4 @@ One cross-sectional study (Ye et al., China) synthesized narratively: "significa
 - [Empathy levels among medical students show equivocal trajectories across educational years, with significantly lower levels reported in 14 of 30 studies and higher, mixed or unchanged levels in the remainder](medical-student-empathy-trajectory-equivocal.md)
 - [Both groups' JSPE-HPS scores increased over time, suggesting a general effect of theoretical empathy education](jspe-time-effect-both-groups.md) — related
 - [Assessment performance showed no significant difference based on year of medical school, suggesting the assessment primarily targeted language and communication skills rather than medical knowledge](no-year-of-school-difference-spanish-assessment.md) — related
+- [Empathy is unrelated to medical students' academic performance](empathy-unrelated-academic-performance-medical-students.md) — related

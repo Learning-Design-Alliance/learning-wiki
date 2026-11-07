@@ -55,3 +55,4 @@ Descriptive UEQ and IPQ results from the feasibility study (n = 32), scored per 
 - [Students rated the VSP system positively for usability and learning assistance, with comparatively low ratings for patient realism and authenticity](positive-ueq-ratings-vsp-system.md) — related
 - [Users rate the CAE Vimedix simulator's physical characteristics and image sharpness positively but rate realism and direct transferability of its display to real conditions lower](vimedix-realism-transferability-lower-ratings.md) — related
 - [Nursing students rated the ESNPNSD positively on all six UEQ dimensions](esnpnsd-positive-ueq-scores-all-dimensions.md) — related
+- [Sense of presence in the 3D mode was moderate (involvement, realism, and spatial presence below 5 out of 7) with no differences between groups, attributed to a static virtual world](rineo-3d-presence-moderate-static-world.md) — related

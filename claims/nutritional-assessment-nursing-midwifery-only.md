@@ -49,3 +49,4 @@ Thematic analysis of nutrition-related learning objectives across ten Polish hea
 - [Pharmacy and nursing programmes contain the highest number of nutrition-related learning objectives](pharmacy-nursing-highest-nutrition-los.md) — related
 - [Seven themes of nutrition-related learning objectives were identified across the analysed programmes](seven-nutrition-themes-identified.md) — related
 - [Nutrition-related learning objectives are inconsistently distributed across knowledge, skills, and attitudes domains](nutrition-los-domain-distribution.md) — related
+- [Advanced mathematics course offerings are broadly consistent across medical majors, with localized differences in Nursing, Midwifery and Forensic Medicine](localized-differences-course-offerings-medical-majors.md) — related

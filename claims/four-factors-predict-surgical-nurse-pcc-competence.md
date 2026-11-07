@@ -49,3 +49,4 @@ Cross-sectional web-based questionnaire survey of 437 surgical nurses from 4 ter
 - [Surgical nurses who received humanistic nursing training reported higher PCC competence, while gender and one-child family status showed no significant difference](humanistic-training-higher-pcc-gender-null.md) — related
 - [PCC competence is negatively correlated with job burnout among surgical nurses (r = −0.583)](pcc-competence-burnout-negative-correlation.md) — related
 - [PCC competence is strongly positively correlated with empathy among surgical nurses (r = 0.700)](pcc-competence-empathy-correlation.md) — related
+- [Higher self-reported empathy is a positive factor for medical students' mental health](high-empathy-positive-factor-medical-student-mental-health.md) — related

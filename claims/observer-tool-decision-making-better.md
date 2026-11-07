@@ -50,3 +50,4 @@ In the same randomised trial (OT+ n = 33, OT- n = 30), the decision-making sub-i
 - [Flipped classroom raises ANTS decision making, team-working and leadership, and task management scores, but not situation awareness](fc-ants-subscores-situation-awareness-null.md) — related
 - [Observer-tool use shows no significant difference in team performance, satisfaction, or perceived impact on future professional life](observer-tool-no-secondary-outcome-differences.md) — related
 - [Observer tool use lowered student satisfaction and showed no benefit for non-technical skills or perceived improvement](observer-tool-lower-satisfaction-no-nts-benefit.md) — related
+- [Observer tools may be more effective when technical and non-technical skills are trained together, per the reviewed literature](observer-tools-mixed-skills-training-context.md) — related

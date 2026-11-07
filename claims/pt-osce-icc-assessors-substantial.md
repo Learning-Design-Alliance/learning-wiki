@@ -68,3 +68,5 @@ Random effects meta-analysis of intraclass correlation coefficients between OSCE
 - [Remote OSCE double scoring shows high rater agreement and total-score consistency (weighted Cohen's Kappa 0.97; Pearson correlation 0.9; Cronbach's alpha 0.66)](remote-osce-double-scoring-high-agreement-kappa-097.md) — related
 - [Blinded dual-rater scoring of the modified Welling Scale shows substantial inter‐rater reliability (overall ICC 0.822)](welling-scale-dual-rater-relicability-icc-0822.md) — a narrower finding that bears on this claim
 - [Blinded video-based scoring showed acceptable inter-rater agreement for technical and non-technical performance](inter-rater-agreement-video-performance-scoring-shoulder-dystocia.md) — related
+- [Inter-rater reliability of the modified Likert set-up assessment was fair overall and higher for unprompted (score 1) performance](fair-interrater-reliability-likert-setup-tool.md) — related
+- [Objective assessment of otoscopy in a practical exam is feasible with strong interrater reliability for the OSATS checklist and good reliability for the IPPI](simulator-based-otoscopy-exam-interrater-reliability.md) — related

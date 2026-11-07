@@ -41,6 +41,7 @@ Free-text survey responses yielded concrete adjustments for implementing the pro
 - [Iterate real-time tutor feedback based on user questionnaires: add explanations, positive feedback, session summaries and pause warnings](cpr-tutor-questionnaire-driven-feature-improvements.md)
 - [Improve transmedia-curriculum professional development with classroom observation, Q&A-only webinars, and later scheduling](tec-pd-improvement-suggestions.md)
 - [Facilitate sessions with a welcoming environment, probing questions, and structured pauses](facilitation-protocol-probing-questions.md)
+- [Use questionnaire-driven iteration between flipped sessions to adjust difficulty and teacher scaffolding](questionnaire-driven-iteration-between-flipped-sessions.md)
 
 ## Examples
 -

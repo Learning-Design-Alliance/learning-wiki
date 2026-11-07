@@ -50,3 +50,4 @@ Distribution of steps correctly followed by the 75 observed nurses on the 31-ite
 - [Nurse knowledge was poor on 18 of 36 questionnaire items, each with a correct response rate below 50%](poor-knowledge-18-of-36-items.md) — related
 - [Nearly all nurses at a tertiary cardiac center show poor knowledge of blood pressure measurement](nurses-poor-bp-measurement-knowledge-tertiary-center.md) — related
 - [Nurses who read the AHA guidelines showed relatively good blood pressure measurement knowledge, while no other baseline characteristic was associated with skill or knowledge](reading-aha-guidelines-associated-bp-knowledge.md) — related
+- [Baseline compliance with evidence-based poststroke depression practice was poor in the neurology ward, with three of six audit criteria at 0% adherence](psd-baseline-audit-poor-compliance.md) — a narrower finding that bears on this claim

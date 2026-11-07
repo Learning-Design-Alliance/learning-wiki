@@ -13,7 +13,7 @@ generated:
 # Long-Term Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 240 claims (140 show a difference, 60 mixed, 40 no difference) · 158 studies (86 causal, 32 review, 17 quant-synthesis, 10 theoretical, 8 associational, 3 qualitative, 2 design), `q1`–`q4` · 51 of 158 report an effect size · 232 claims rest on one study
+> **Evidence** · 241 claims (140 show a difference, 60 mixed, 41 no difference) · 159 studies (87 causal, 32 review, 17 quant-synthesis, 10 theoretical, 8 associational, 3 qualitative, 2 design), `q1`–`q4` · 51 of 159 report an effect size · 233 claims rest on one study
 
 ## Description
 Long-term memory holds information, such as words, facts, events, concepts and procedures, so that it can be retrieved and used later, over spans from hours to decades, and in principle indefinitely. Skills and knowledge get there through repeated practice and use, and stay accessible while they continue to be used. It matters for learning because what is stored there is the base for everything that follows: the [prior knowledge](prior-knowledge.md) and vocabulary that support reading and writing, and the arithmetic facts and procedures that free a learner to work on new mathematics problems. It develops through childhood and adolescence as the brain systems supporting it mature, and older learners lean more on memory-based strategies, for example in mathematics. It is measured with standardised memory batteries that ask learners to recall stories, lists or figures after a delay. It is distinct from [working memory](working-memory.md), which holds information briefly while it is being used; rehearsal and use move material from one to the other.
@@ -275,6 +275,7 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 - [Students perceived ChatGPT as helping with time savings and understanding, but far fewer saw benefits for knowledge application or long-term retention](../claims/chatgpt-perceived-time-saving-not-retention.md) [~M] — measured as an outcome of the instruction studied
 - [Physically implementing newly created knowledge in simulation evokes an embodied experience that consolidates learning and motivates change](../claims/embodied-implementation-of-new-knowledge-motivates.md) [+M] — measured as an outcome of the instruction studied
 - [Participant feedback was uniformly positive and a six-month survey provides weak evidence of skill retention and long-term impact](../claims/participant-feedback-and-six-month-retention-survey.md) [+W] — measured as an outcome of the instruction studied
+- [Both schedule groups reached proficiency significantly faster at the retention test than during initial training, with no between-group difference in retention level](../claims/retention-test-faster-than-initial-training-no-group-effect.md) [-M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.

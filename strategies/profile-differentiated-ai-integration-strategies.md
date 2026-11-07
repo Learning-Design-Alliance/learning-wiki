@@ -52,6 +52,7 @@ The article recommends tailoring AI-integration support to the four latent learn
 - [Prioritize autonomous motivation and scaffold concept-focused AI support tailored to learner trajectories rather than providing uniform access alone](prioritize-autonomous-motivation-concept-focused-ai-support.md)
 - [Differentiated AI literacy training matched to acceptance profiles, with interventions beyond operational skills for Resistant Skeptics](differentiated-ai-literacy-training-by-profile.md)
 - [Tailor professional development to demographic subgroups of teachers (gender, education level, school level)](demographic-tailored-pd-programs.md)
+- [Tailor university ChatGPT adoption policies to local context, including student age and academic performance](tailor-chatgpt-policies-age-gpa-context.md)
 
 ## Examples
 -

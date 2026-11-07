@@ -47,3 +47,4 @@ Systematic review of 62 studies of ultrasound‐guided regional anaesthesia simu
 ## Related Claims
 - [Evidence on transfer to clinical behavior and patient outcomes is scarce: only 2 studies reached Kirkpatrick level 3 and 1 reached level 4](transfer-and-patient-outcomes-scarce.md) — related
 - [Simulation-based training enhances outcomes across multiple Kirkpatrick levels in neuraxial space access education](simulation-based-training-enhances-neuraxial-outcomes.md) — related
+- [Asynchronous cart-based training is feasible for critical care nurses to learn ultrasound-guided PIV placement, with outcomes across Kirkpatrick levels I–IV](asynchronous-cart-training-feasible-us-piv-nurses.md) — a narrower finding that bears on this claim

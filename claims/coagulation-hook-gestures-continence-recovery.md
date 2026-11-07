@@ -47,3 +47,4 @@ Mann–Whitney U comparison of gesture usage among 78 patients grouped by 3-mont
 ## Related Claims
 - [No statistically significant associations were found between DART domains and time to continence recovery](dart-domains-null-continence-association.md) — related
 - [Gesture usage correlates with DART technical skills scores, with retraction proportion negatively associated with total DART score](gestures-correlate-dart-scores.md) — related
+- [VR simulation performance for robot-assisted radical prostatectomy correlates with live surgical performance and postoperative outcomes](vr-rarp-performance-correlates-live-surgery.md) — related

@@ -48,3 +48,4 @@ Multivariable logistic regression (Table 5) treating decreased family financial 
 - [Dysfunctional COVID-19 anxiety (CAS) was not a predictor of academic decline after adjustment](cas-anxiety-not-predictor-of-academic-decline.md) — related
 - [Need for psychological support, non-Italian nationality, and science/technology faculty enrollment predict decline in academic performance, while senior year and good finances protect against it](multivariable-predictors-academic-decline-covid.md) — related
 - [One in four university students surveyed in 2022 reported a decline in academic performance during the COVID-19 pandemic](quarter-students-reported-academic-decline-covid.md) — related
+- [Risk of GPA decline during the shift to eLearning was higher among senior students, students with a B-grade GPA, and students with shy personalities](gpa-decline-predictors-elearning-shift.md) — related

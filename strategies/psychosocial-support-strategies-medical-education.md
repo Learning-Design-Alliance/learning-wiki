@@ -68,6 +68,7 @@ Based on the review's findings that distress and burnout hinder performance whil
 - [Future interventions should prioritise anxiety-reduction strategies and emotionally supportive learning environments informed by Control-Value Theory](anxiety-reduction-emotionally-supportive-environment-strategy.md)
 - [Nursing programs strengthen academic achievement via mentorship, peer support, self-efficacy workshops and interactive learning environments](mentorship-peer-support-strengthen-professional-identity.md)
 - [Universities should develop emergency plans with psychological support interventions and resilient infrastructures to protect academic performance in future crises](university-emergency-plans-psychological-support-resilient-infrastructure.md)
+- [Anxiety-reduction support strategy for medical students, with special attention to females](anxiety-reduction-support-medical-students-strategy.md)
 
 ## Examples
 -

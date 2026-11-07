@@ -52,6 +52,7 @@ Based on DLP evidence, the report recommends that school and district leaders wo
 - [Sustain educator learning through schoolwide, network, and districtwide approaches that embed professional learning across the system](systemic-support-educator-learning.md)
 - [Support school leaders in low-satisfaction schools to develop coaching skills and implement evaluations in ways that encourage instructional improvement](leader-coaching-support-low-satisfaction-schools.md)
 - [Implement classroom videogame interventions with teacher training, curriculum alignment, extended schedules, and administrative support](videogame-classroom-implementation-recommendations.md)
+- [Implement GME coaching with coaches outside the learner's department to promote psychological safety and surface undisclosed concerns](cross-departmental-gme-coaching-strategy.md)
 
 ## Examples
 -

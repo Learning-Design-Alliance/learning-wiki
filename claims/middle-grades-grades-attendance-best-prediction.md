@@ -63,3 +63,4 @@ The review reports, citing Allensworth et al. (2014), a Chicago study of middle 
 - [The survey grit measure has limited predictive power over platform performance in this sample and does not predict pandemic-era performance declines](survey-grit-limited-predictive-power.md) — related
 - [Parental education positively predicts regular attendance while school distance and limited peer help negatively predict it](parental-education-distance-peer-help-predict-attendance.md) — related
 - [High school GPA has partial but limited discriminative power for at-risk status, with midterm performance adding predictive value beyond prior GPA](high-school-gpa-partial-limited-predictive-value.md) — related
+- [Grit does not significantly predict GPA among physical education and sport university students](grit-not-significant-predictor-gpa-pes-students.md) — related

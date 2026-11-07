@@ -81,3 +81,4 @@ Video-rated ANTS assessment across 40 teams. "Across all four ANTS categories—
 - [In situ simulation training did not further improve ANTS-rated non-technical skills and team interaction during actual postnatal stabilization, which were already high before training](ants-nontechnical-skills-no-improvement-in-situ-sbt.md) — related
 - [Team communication, stress management, and task management were not significantly associated with high technical performance](team-communication-stress-task-management-not-associated-technical-performance.md) — related
 - [Observer tool use lowered student satisfaction and showed no benefit for non-technical skills or perceived improvement](observer-tool-lower-satisfaction-no-nts-benefit.md) — related
+- [Self-assessed team performance reached a TEAM score of 39 ± 5.3 and a global rating of 8.2 ± 2.0, indicating good bilingual teamwork](team-score-good-bilingual-teamwork.md) — related

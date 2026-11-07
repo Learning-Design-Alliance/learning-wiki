@@ -90,3 +90,4 @@ Students reflected on growing ability to cope, with one noting experience from t
 - [Students initially experienced hesitance and performance anxiety in role-play, which diminished over time as they gained skills](role-play-initial-hesitance-anxiety.md) — a narrower finding that bears on this claim
 - [Nursing students reported enhanced academic self-efficacy and professional identity after the in-class flipped classroom](enhanced-self-efficacy-and-professional-identity.md) — related
 - [After blended learning, students more often respond to emotional patient vignettes with patient-centered techniques and less often with space-reducing responses](blended-vignette-patient-centered-responses.md) — related
+- [Simulation training initially triggered fear and anxiety in caregivers of children with special health needs, after which they felt relieved and self-confident (study A2)](caregiver-fear-to-confidence-simulation-a2.md) — related

@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 297 claims (140 for, 142 mixed, 15 against) · 219 studies (69 causal, 65 associational, 28 review, 18 quant-synthesis, 15 theoretical, 14 qualitative, 10 design), `q1`–`q4` · 51 of 219 report an effect size · 281 claims rest on one study
+> **Evidence** · 298 claims (141 for, 142 mixed, 15 against) · 220 studies (69 causal, 65 associational, 28 review, 18 quant-synthesis, 15 theoretical, 14 qualitative, 11 design), `q1`–`q4` · 51 of 220 report an effect size · 282 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -344,6 +344,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Students report structured self-assessment stimulates self-judgement, learning monitoring, motivation, tutorial performance, and awareness of external feedback in PBL](../claims/self-assessment-qualitative-five-themes-pbl.md) [+W] — attached 2026-11-06 from Khoiriyah Umatul (2025), which proposed "Zimmerman's three-phase self-regulated learning cycle (forethought, performance, self-reflection)".
 - [Self-assessment was associated with 10% additional explained variance in post-test SRL beyond pre-test SRL in one single-group pre-test/post-test study with no comparison group](../claims/self-assessment-predicts-srl-beyond-pretest.md) [+W] — attached 2026-11-06 from Khoiriyah Umatul (2025), which proposed "Zimmerman's three-phase self-regulated learning cycle (forethought, performance, self-reflection)".
 - [EPAs hinder self-regulated learning most towards the end of placements, when trainees experience entrustment assessment as bureaucratic and demotivating](../claims/epas-hinder-most-final-stage.md) [~W] — attached 2026-11-07 from Thoonen Bart P. A. et al. (2024), which proposed "Three-stage model of trainees' EPA use across placements: adaptation, taking control, and checking the boxes".
+- [The CBL session prompted students to evaluate and adapt their study techniques in preparation](../claims/cbl-session-prompts-study-technique-evaluation.md) [+W] — attached 2026-11-07 from Merritt E. et al. (2024), which proposed "Self-regulated learning as a cycle of preparation, strategy implementation, and outcome evaluation".
 
 ## The evidence by question
 

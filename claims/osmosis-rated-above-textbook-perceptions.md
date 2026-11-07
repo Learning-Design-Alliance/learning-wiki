@@ -51,3 +51,4 @@ Self-report survey of 53 of 86 treatment-group students, collected before final 
 - [Videos were the most preferred Osmosis feature among treatment-group students](osmosis-videos-most-preferred-feature.md) — related
 - [Students strongly endorse online anatomical image repositories and quizzes as learning aids](student-satisfaction-anatomical-image-repository.md) — related
 - [Computing students rate short AI-generated Markdown videos favorably across quality, comprehension, and accuracy dimensions](students-rate-ai-markdown-videos-favorably.md) — related
+- [Students perceive that CBL helped retention and retrieval of information (item mean 4.3/5)](cbl-perceived-retention-retrieval-gain.md) — related

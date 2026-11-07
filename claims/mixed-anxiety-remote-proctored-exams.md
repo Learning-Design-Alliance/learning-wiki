@@ -64,3 +64,4 @@ Review synthesis of Ford et al.'s (2023) UK mixed-methods realist evaluation (n 
 - [Participants reported VR assessment environments may reduce anxiety compared with physical assessment settings](vr-assessment-reduces-performance-anxiety.md) — related
 - [Internet connectivity problems hindered remote learning and compounded student anxiety during high-stakes assessments](connectivity-problems-assessment-anxiety-remote.md) — related
 - [Skill-based pharmacy learning (compounding, device counselling, OSCEs) faced validation, access, and transferability challenges when delivered remotely](remote-skill-based-learning-challenges-pharmacy.md) — related
+- [The most commonly reported difficulty with online exams was the limited allocated time for each exam](limited-allocated-time-main-online-exam-difficulty.md) — related

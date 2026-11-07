@@ -75,3 +75,4 @@ Narrative synthesis reporting the empathy–prescription null from the review's 
 - [Clinicians' emotional responses to patients impacted patient engagement and diagnostic decisions, with negative emotions associated with poorer quality care and positive emotions with more comprehensive care](clinician-emotions-shape-patient-engagement-and-care-quality.md) — related
 - [Fear and clinical uncertainty were associated with more cautious clinical decisions, including more admissions, more diagnostic tests, and more antibiotic prescriptions](fear-and-uncertainty-lead-to-cautious-decisions.md) — related
 - [Direct effects of digital learning on patient outcomes are rarely studied and not consistently detected](dlr-patient-outcomes-not-established.md) — related
+- [High affective empathy is associated with more depression, anxiety and burnout, while cognitive empathy shows the opposite pattern](affective-empathy-mental-health-issues-cognitive-opposite.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-07
 evidence_strength: moderate
 newest_evidence: 2024
+source_checked: 2026-11-07
 sources:
   - id: pereira-ri-2024
     resource: "https://doi.org/10.1590/1516-3180.2023.0271.16022024"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` After RCDP training, 91% of 302 professionals demonstrated chest-compression technique quality within AHA guideline standards, compared with 26% pre-intervention, a significant paired difference (P < 0.01). [→ Pereira RI 2024](#pereira-ri-2024)
@@ -50,3 +51,4 @@ Pre- and post-performance assessment of chest compressions in a single-group des
 - [RCDP pediatric resuscitation simulation significantly increases multidisciplinary staff self-reported confidence in providing high-quality CPR and managing airway, breathing, and circulation in the first 3 minutes of a code](rcdp-simulation-increases-first-responder-confidence.md) — related
 - [Self-perceived confidence improved significantly across all ten surveyed pediatric CPR and interprofessional collaboration items (p < 0.001 each)](ipstar-confidence-gains.md) — related
 - [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — related
+- [RCDP-trained resident teams complete shorter pauses between chest compression cycles than IS-trained teams (6.20 vs 14.20 seconds)](rcdp-shortens-cpr-pause-duration-vs-is.md) — related

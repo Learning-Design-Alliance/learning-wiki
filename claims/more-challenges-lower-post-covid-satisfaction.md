@@ -54,3 +54,4 @@ Cross-tabulation of an eight-point challenge scale against satisfaction (Table 1
 - [Over 90% of students reported satisfaction with online learning resources and completion of online assignments in the blended PET course](high-online-self-learning-satisfaction-blended-pet.md) — related
 - [92.60% of students were satisfied with the A-SPIRE model and 96.3% believed their science communication ability improved](a-spire-high-satisfaction-self-assessed-improvement.md) — related
 - [Students report lower satisfaction with and lower evaluation of curriculum effectiveness for online neurosurgery teaching than face-to-face teaching](satisfaction-effectiveness-lower-online-neurosurgery.md) — related
+- [A majority of students were dissatisfied with their institutes' preparedness and with the structure of online courses](institute-preparedness-and-course-structure-dissatisfaction.md) — related

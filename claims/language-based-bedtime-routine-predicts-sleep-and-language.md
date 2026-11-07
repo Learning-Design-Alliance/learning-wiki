@@ -72,3 +72,5 @@ The same prospective Hale et al. study linked age-3 language-based routines to a
 - [Technology-enhanced stories (any digital addition, not multimedia alone) significantly improve expressive vocabulary for children disadvantaged by environmental factors such as low parental education](multimedia-expressive-vocabulary-environmentally-disadvantaged.md) — related
 - [The later, shorter, inconsistent sleep health class shows later bedtimes, shorter sleep duration, less consistent routines, and higher pre-bedtime caffeine consumption than the earlier, longer, consistent class](later-shorter-inconsistent-class-profile.md) — related
 - [Two parent-reported sleep health patterns characterize low-income pre-kindergarteners: an earlier, longer, consistent class (87%) and a later, shorter, inconsistent class (13%)](two-sleep-health-classes-prek-low-income.md) — related
+- [Later bedtime at 3 years of age is associated with lower first-grade national language scores](age-3-bedtime-lower-national-language-scores.md) — related
+- [A bedtime of 23:00 or later at age 3 is associated with lower first-grade math scores](age-3-late-bedtime-lower-math-scores.md) — related

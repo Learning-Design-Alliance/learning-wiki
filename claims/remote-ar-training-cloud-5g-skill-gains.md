@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-07
 sources:
   - id: menna-grazia-2025
     resource: "https://doi.org/10.1007/s11060-025-04972-8"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` A remote AR-based training framework combining cloud computing and AR/VR technologies demonstrated significant improvements in surgical skill acquisition, with AR outperforming VR in tactile realism and scene authenticity. [→ Menna Grazia 2025](#menna-grazia-2025)

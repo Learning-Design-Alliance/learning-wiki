@@ -67,3 +67,4 @@ A pragmatic randomized controlled trial with 84 second-year nursing students (42
 - [The REPs-VS group reported significantly higher self-directed learning skill, confidence in future patient encounters, and reduced performance stress than the traditional group](reps-vs-confidence-and-stress-attitudes.md) — related
 - [Live-streaming participants reported greater confidence in performing the procedure independently than face-to-face participants](ls-greater-confidence-independent-performance.md) — related
 - [One round of VR-based geriatric oral health simulation training improves nursing students' knowledge and self-efficacy more than no training](vr-training-round1-knowledge-self-efficacy.md) — related
+- [VR simulation training produces higher post-intervention knowledge scores than video-based training in a randomized trial of PROM management and cesarean section](vr-simulation-higher-knowledge-scores-than-video-cs-training.md) — related

@@ -53,3 +53,4 @@ Conventional content analysis (Hsieh and Shannon method) of the 60 included arti
 - [ICM students rated time flexibility and overall flexibility significantly higher than frontal-teaching students](icm-higher-flexibility-ratings-dental.md) — related
 - [The authors interpret the OLM's advantages as stemming primarily from learner autonomy and asynchronicity rather than online delivery per se](autonomy-asynchronicity-interpretation-olm-advantage.md) — related
 - [The authors argue SL simulation via video conference is a flexible debriefer-training model adaptable across expertise levels and professions, enabling deliberate hands-on practice regardless of distance or time](sl-simulation-flexible-distance-independent-training.md) — related
+- [Nurses enjoyed the asynchronous self-directed training, with no one reporting dissatisfaction with self-directed learning or learning without an instructor](nurses-enjoy-asynchronous-self-directed-training.md) — related

@@ -50,3 +50,4 @@ Standard-setting analysis plotting novice and expert plateau score distributions
 - [A contrasting-groups discriminatory standard of 6.15 points yields one false positive and one false negative](contrasting-groups-standard-615-consequences.md) — related
 - [Experts outperform novices on the TraumaVision short antegrade femoral nail simulator plateau test, supporting validity evidence for relations to other variables](experts-outperform-novices-femoral-nail-simulator-plateau-score.md) — related
 - [All novices training to mastery reached the 96% expert-level pass/fail standard without more hands-on training time than novices training to plateau](mastery-learning-novices-reach-expert-standard-same-training-time.md) — related
+- [The median expert-benchmarked mastery level was 85% of the maximum simulator score, and learning curves showed a plateau correlating with the mastery level](expert-median-85-percent-mastery-standard-plateau.md) — related

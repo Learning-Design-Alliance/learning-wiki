@@ -66,3 +66,4 @@ Qualitative thematic finding from focus group discussions with 40 nursing studen
 - [Facilitator role management — psychological safety awareness, structure, and managing dominant voices — conditions whether CBL supports active learning](facilitator-role-management-cbl-active-learning.md) — related
 - [All responding students agreed that reflecting on and discussing the simulation in the debrief enhanced their learning](debrief-enhanced-learning-unanimous.md) — a narrower finding that bears on this claim
 - [Structured debriefing after simulation sessions enhances learning outcomes and improves clinical performance](structured-debriefing-enhances-sbt-outcomes.md) — related
+- [Nursing students valued the reflective DML debriefing over CRM-principles debriefing for euthanasia simulation](dml-debriefing-preferred-euthanasia-simulation.md) — related

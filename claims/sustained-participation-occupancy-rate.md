@@ -48,3 +48,4 @@ Participation analysis across 2 academic years reported in Results and Table 2; 
 ## Related Claims
 - [Students rated the peer-assisted simulation workshops highly, with mean satisfaction scores above 4 of 5](high-satisfaction-peer-simulation-workshops.md) — related
 - [Office hours attendance and Piazza posting declined over prior semesters and rose in Fall 2025 when LLMs and retakes were allowed](help-seeking-decline-then-rise-dura-semester.md) — related
+- [The role-play emergency module ran over four consecutive academic years, with 2020 pre-test scores highest across all academic years for every school year in one uncontrolled pre-post study](module-reproducible-sustainable-four-years.md) — related

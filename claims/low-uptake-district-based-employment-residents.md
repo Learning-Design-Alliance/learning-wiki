@@ -50,3 +50,4 @@ Resident survey respondents offered but not taking up district-based employment 
 - [Novice teachers trained through teaching residency programs are more likely than similar non-TRP teachers to remain teaching in the same district](residency-graduates-higher-retention.md) — related
 - [TCLAS stipends of $20,000 enabled residents to participate in yearlong residencies by forgoing outside employment](stipends-enable-full-residency-participation.md) — related
 - [The main barrier to preceptorship was limited time and irregular preceptor schedules, reported by 71.4% of participants](preceptorship-barrier-limited-time-irregular-schedules.md) — related
+- [Most residents completed the self-directed curriculum mainly in their free time rather than during working hours](rostrac-training-mainly-free-time.md) — related

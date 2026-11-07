@@ -130,3 +130,4 @@ Planned gain contrasts on the seven SRL questionnaire subscales. "Group TD showe
 - [Students' motivation and restedness declined significantly over the course of the online training session](motivation-restedness-decline-over-session.md) — related
 - [Control-group overall self-efficacy did not change significantly over the study period while the intervention group's did](control-group-self-efficacy-unchanged.md) — related
 - [Baseline self-efficacy and knowledge differed by university type and GPA, and gain patterns differed: public students started higher while private students and low-GPA students gained more](demographic-moderators-of-training-gains.md) — related
+- [Self-efficacy and knowledge rose from pre-test to post-test within the full sample, with the knowledge change significant and self-efficacy change also significant overall](full-sample-pre-post-increases-haematology.md) — related

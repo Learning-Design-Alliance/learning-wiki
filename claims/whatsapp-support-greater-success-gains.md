@@ -54,3 +54,4 @@ Quasi-experimental pretest-posttest control group study with 60 10th-grade stude
 - [The systematically designed learning environment did not produce a significantly greater pretest–posttest improvement in domain-general CT than regular instruction](first-principles-no-domain-general-ct-gain.md) — related
 - [Students in a blended course with weekly WhatsApp-mediated learning activities achieved significantly higher post-test scores than students in a fully in-class control group](whatsapp-blended-achievement-gains.md) — related
 - [Mobile voice-based WhatsApp chat use produces greater speaking proficiency gains than traditional instruction alone in B1 ESL learners](whatsapp-voice-chat-improves-speaking-proficiency.md) — related
+- [Supplementing traditional instruction with a mobile virtual patient application produces a significant group-by-measurement interaction in physiotherapy students' achievement](mobile-vp-interaction-achievement-gains.md) — related

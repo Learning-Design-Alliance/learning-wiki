@@ -50,3 +50,4 @@ Narrative synthesis (Section 3.2.1) of the scoping review's 43 included studies,
 - [School-only substance use interventions such as HeadOn and SUPEP improved knowledge and attitudes without corresponding behavioural change](school-only-interventions-knowledge-attitude-no-behaviour-change.md) — related
 - [Health topics of school health-education interventions shifted over four decades and varied by region](health-topic-trends-over-decades.md) — related
 - [Theoretical or pedagogical foundations of research education programs were inconsistently reported, with some programs naming theories such as self-efficacy theory and Roger's Diffusion of Innovation](research-education-pedagogical-theories-inconsistent.md) — related
+- [Gamification-based training shifts male adolescents toward a significantly more negative attitude toward substances, sustained one month](gamification-training-negative-substance-attitude.md) — related

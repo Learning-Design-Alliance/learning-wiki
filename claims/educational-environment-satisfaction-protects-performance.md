@@ -48,3 +48,4 @@ Multivariate ordinal logistic regression in the cross-sectional study (n = 701),
 - [Family satisfaction partially mediates the association between family structure and autonomous motivation and academic achievement](family-satisfaction-partial-mediator-family-structure-achievement.md) — related
 - [Tunisian nationality independently predicts higher academic performance among Tunisian medical students (OR = 4.99)](tunisian-nationality-higher-academic-performance.md) — related
 - [Need for psychological support, non-Italian nationality, and science/technology faculty enrollment predict decline in academic performance, while senior year and good finances protect against it](multivariable-predictors-academic-decline-covid.md) — related
+- [Field satisfaction is associated with higher academic success (β = 9.797, P = 0.001)](field-satisfaction-associated-academic-success.md) — related

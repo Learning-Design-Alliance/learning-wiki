@@ -51,3 +51,5 @@ Correlational analysis of a stratified-sample questionnaire survey of 971 colleg
 - [Positive online academic emotions positively predict learning performance, and negative online academic emotions negatively predict it, in blended learning](online-academic-emotions-predict-performance.md) — related
 - [Positive-low arousal academic emotions (calmness and relaxation) partially mediate the relationship between online presence and learning performance](positive-low-arousal-emotions-partially-mediate-presence-performance.md) — related
 - [Teaching, social, and cognitive presence each significantly positively predict learning performance in blended learning](three-presences-predict-performance-blended.md) — related
+- [Academic grit is positively associated with positive high- and low-arousal academic emotions and with academic achievement](academic-grit-predicts-emotions-achievement.md) — related
+- [Online class-related enjoyment is significantly positively correlated with academic achievement among college students](online-enjoyment-correlates-academic-achievement.md) — related

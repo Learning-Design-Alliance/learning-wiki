@@ -49,6 +49,7 @@ The authors propose a curriculum structure in which an expert-narrated instructi
 - [Embed tailored e-learning in blended, multimodal delirium training that combines face-to-face interaction with regular repetition](blended-multimodal-delirium-training-strategy.md)
 - [Menu of active-learning strategies deployed in case sessions, matched to curricular timing and objective level](active-learning-strategies-menu-pharmacology-cases.md)
 - [Show a video of the simulated procedure before hands-on simulation](presimulation-procedure-video-strategy.md)
+- [Combine instructional video viewing with hands-on practice on a 3D-printed procedure-specific model before live performance](video-plus-3d-printed-model-training-strategy.md)
 
 ## Examples
 -

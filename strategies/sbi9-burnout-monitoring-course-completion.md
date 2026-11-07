@@ -45,7 +45,8 @@ The article administered the validated School Burnout Inventory (SBI-9), which "
 - [The burnout–dropout intentions association is moderated by burnout dimension, being highest for cynicism](../claims/burnout-dimension-moderates-dropout-intentions.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Four-part strategy set for reducing learning burnout in English courses](reduce-burnout-english-course-strategies.md)
 
 ## Examples
 -

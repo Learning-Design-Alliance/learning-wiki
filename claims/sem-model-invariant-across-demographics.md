@@ -49,3 +49,4 @@ Multi-group SEM invariance testing across gender, age groups, and academic disci
 - [The effects of thoughtless GenAI use on motivation, self-efficacy, and self-directed learning differ significantly by gender](gender-moderates-tuga-effects.md) — reports the opposite
 - [Structural paths did not differ significantly across AI usage-frequency groups, though exploratory coefficients varied numerically](no-significant-path-differences-across-usage-frequency-groups.md) — related
 - [Self-efficacy has a significant positive effect on motivation among undergraduates using generative AI](se-positive-effect-mov.md) — related
+- [The mediation pattern from online class-related enjoyment to achievement is moderated by gender but not by major or grade](gender-moderates-enjoyment-mediation-pattern.md) — related

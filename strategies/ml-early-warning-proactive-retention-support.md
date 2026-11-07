@@ -57,6 +57,7 @@ The article recommends that institutions use machine learning predictions of wit
 - [Integrate real-time engagement analytics into large-class clinical instruction to support data-informed teaching](real-time-engagement-analytics-strategy.md)
 - [Integrate OSCE results into coaching or mentoring programs to target coaching and enable early identification of struggling interns](integrate-osce-results-into-coaching-mentoring.md)
 - [Deploy AI-based emotion monitoring and early-warning systems plus adaptive academic support platforms to promote student mental health](ai-emotion-monitoring-early-warning-strategy.md)
+- [Establish an academic early warning system for primary school students using ensemble learning methods](ensemble-learning-academic-early-warning-system.md)
 
 ## Examples
 -

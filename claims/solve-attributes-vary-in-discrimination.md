@@ -50,3 +50,4 @@ Table 9 mean mastery probabilities for solve attributes by proficiency group. Th
 - [Rule Space successfully classified most examinees in architecture, with solve attributes the most powerful and check attributes the least powerful](rule-space-classifies-architecture-examinees-solve-strongest.md) — related
 - [Case-based (vignette) MCQs are classified as testing higher-order thinking and discriminate better between low- and high-information students](case-based-questions-higher-order-value.md) — related
 - [The proficiency grouping procedure produced a very large pre-test difference between high- and low-proficiency groups](proficiency-grouping-large-pretest-difference.md) — related
+- [Students' entrepreneurial-intention attributes differ across three pocket-money groups, though the discriminant model shows low discrimination power](pocket-money-groups-entrepreneurial-intention-profiles.md) — related

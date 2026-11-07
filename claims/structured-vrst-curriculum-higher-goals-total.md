@@ -62,3 +62,4 @@ Prospective comparative study of 71 novice trainees (19 intervention, 52 control
 - [Naïve surgical residents show a wide baseline range of laparoscopic skill, and a single repeated cholecystectomy alone yields minimal improvement](wide-baseline-skill-range-minimal-control-gain.md) — related
 - [LSPPDM group scored higher on all five GOALS technical-skill dimensions in live-pig cholecystectomy](lsppdm-higher-goals-technical-scores.md) — related
 - [LSPPDM-based laparoscopic training improved technical and non-technical skills versus traditional training](lsppdm-improves-laparoscopic-training-outcomes.md) — related
+- [An immersive VR PCNL simulator outperformed conventional VR in ratings but did not differ from a porcine physical model](immersive-vr-pcnl-vs-porcine-ratings.md) — related

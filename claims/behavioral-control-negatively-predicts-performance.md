@@ -51,3 +51,4 @@ Cross-lagged SEM path in the same CEPS reciprocal model with covariates. The art
 - [Gender moderates only the path from prior academic performance to later behavioral control, which is significant for boys but not girls](gender-moderates-performance-to-control-path.md) — related
 - [Parental involvement and early adolescents' academic performance are reciprocally associated over one year in China](reciprocal-parental-involvement-academic-performance-china.md) — a broader claim this one bears on
 - [Chinese parents show gendered involvement patterns: more educational trips, discussion, and control for daughters, more school contact for sons](gendered-forms-of-parental-involvement.md) — related
+- [Grade 7 mental unwellness negatively predicts Grade 8 academic performance in Chinese, mathematics, and English after controlling for prior performance and demographics](mental-unwellness-predicts-lower-academic-performance-china.md) — related

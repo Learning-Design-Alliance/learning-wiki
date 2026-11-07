@@ -47,3 +47,4 @@ Post-intervention simulation checklist comparison across two randomly chosen sce
 ## Related Claims
 - [High-fidelity simulation outperformed case-based discussion on simulation checklist performance in clinical reasoning, communication, attitude, and leadership, with large effect sizes](hfs-beats-cbd-simulation-checklist-large-effects.md) — possibly the same claim (merge candidate)
 - [Both high-fidelity simulation and case-based discussion increased medical students' self-confidence, with no significant difference between groups](hfs-cbd-equal-self-confidence-gains.md) — related
+- [Students trained by high-fidelity simulation scored higher on the acute asthma simulation scenario checklist clinical score than video-case-trained students](hfs-higher-checklist-clinical-score.md) — related

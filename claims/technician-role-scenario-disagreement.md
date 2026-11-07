@@ -47,3 +47,4 @@ Comparison between independent respondent groups (technicians vs. academic/clini
 ## Related Claims
 - [Role-playing in a ship simulator constitutes an activity context whose ephemeral resources can collapse](role-play-activity-context-simulator.md) — related
 - [Evidence on simulated patients versus peer role play is mixed: equal competence in one randomised trial, higher skills and satisfaction for SPs in others](sp-versus-peer-role-play-mixed.md) — related
+- [Perceptions of the good-practice video were mixed, with no consensus on whether it should be shown before or after the simulation](good-practice-video-mixed-timing.md) — related

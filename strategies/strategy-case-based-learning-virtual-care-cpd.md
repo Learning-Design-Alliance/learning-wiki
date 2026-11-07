@@ -44,6 +44,7 @@ The article recommends enhancing asynchronous virtual care CPD modules by adding
 
 - [Incorporate telelactation standardized patient cases into primary care medical curricula](incorporate-telelactation-cases-into-curricula.md)
 - [Integrate interactive, competency-based diabetic foot care training into continuing professional development, supported by organizational resources](integrate-interactive-diabetic-foot-training-cpd.md)
+- [Incorporate virtual patient cases into continuous professional development of nurses at primary health centers](vp-cases-cpd-primary-health-nurses-strategy.md)
 
 ## Examples
 -

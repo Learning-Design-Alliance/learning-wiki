@@ -54,3 +54,4 @@ Repeated measures ANOVA on the susceptibility (five items) and seriousness (seve
 - [The PBL-KAP-AI model improves health beliefs in breast cancer patients more than conventional health education](pbl-kap-ai-improves-health-beliefs.md) — reports the opposite
 - [Simulation-based breast health education significantly increased confidence, skills, and behavioral awareness related to breast cancer among Afghan refugee women compared to the control group](simulation-education-confidence-behavior-increase.md) — related
 - [Simulation-based breast health education significantly increased awareness of breast cancer risk factors among Afghan refugee women compared to the control group](simulation-education-risk-factor-awareness-increase.md) — related
+- [Simulation-based training combined with education supported self-monitoring of continuous drainage, with most mastectomy patients keeping the system patent (study A6)](drainage-self-monitoring-patency-a6.md) — related

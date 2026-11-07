@@ -58,3 +58,4 @@ Multi-group invariance testing on the N = 600 sample across subgroups by teachin
 - [Cognitive load is negatively associated with teachers' technological adaptability](cl-cognitive-load-reduces-adaptability.md) — related
 - [The negative load–adaptability relationship is weaker in institutions with established technology support infrastructure](cl-institutional-infrastructure-moderates-load-adaptability.md) — related
 - [Technological adaptability mediates over half of the negative relationship between cognitive load and innovative teaching behavior](cl-mediation-tech-adaptability.md) — related
+- [The AGS shows scalar measurement invariance across gender among Chinese early adolescents](ags-scalar-invariance-gender.md) — related

@@ -52,3 +52,4 @@ The review reports, citing Hande et al., that the peer-assisted group "had highe
 - [The near-peer bootcamp was feasible to coordinate as an alternative to faculty-led teaching](near-peer-bootcamp-feasibility.md) — related
 - [Peer-assisted simulation workshops significantly improve immediate workshop-specific knowledge test scores in undergraduate medical students](peer-simulation-workshops-immediate-knowledge-gain.md) — related
 - [Near-peer teaching is experienced as relatable and lowers the barrier to asking questions compared with faculty-led sessions](near-peer-relatability-comfort-asking-questions.md) — related
+- [Peer-led debriefing improves undergraduate medical students' non-technical skills in simulated crises as effectively as instructor-led debriefing](peer-led-debriefing-as-effective-as-instructor-led.md) — related

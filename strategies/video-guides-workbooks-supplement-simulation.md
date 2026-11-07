@@ -49,6 +49,7 @@ The focus group consensus gravitated towards integrating video-based guides as p
 - [Integrate virtual and augmented reality as supplementary tools rather than full replacements for traditional learning methods](integrate-vr-ar-as-supplementary-tools.md)
 - [Use AISPs as a supplementary self-directed learning resource where direct patient contact is limited](aisp-supplementary-sdl-strategy.md)
 - [Provide intensive early supervision to build mental representation, then transition learners to self-directed practice with automated feedback](early-intensive-supervision-then-self-directed-practice.md)
+- [Provide a video-based hardware demonstration for students to watch before a VR session](video-based-vr-hardware-demonstration-before-session.md)
 
 ## Examples
 -

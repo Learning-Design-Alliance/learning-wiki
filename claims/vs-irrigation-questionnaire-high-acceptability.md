@@ -83,3 +83,5 @@ Reliability analysis of the four questionnaire domains (perceived learning effec
 - [Over 90% of virtual simulation students expressed satisfaction with the platform, rating realism, knowledge coverage, system smoothness and evaluation criteria above 4.5](students-view-virtual-simulation-as-future-teaching-trend.md) — related
 - [Trainees report high satisfaction with simulation-based training and willingness to continue using simulators](trainees-satisfied-sbt-lapsim.md) — related
 - [Students taught with the virtual simulation platform reported higher satisfaction with learning outcomes across all surveyed items than MOOC students](virtual-simulation-higher-satisfaction-than-mooc.md) — related
+- [80% of digital-group students strongly endorse the use of digital-human simulation for echocardiography teaching](digital-human-high-acceptance.md) — related
+- [Interns and trainees rated the disease-teaching application positively, with overall scores above 4 of 5 across satisfaction, efficiency, learning, usability and scientific-educational domains](positive-student-evaluation-med-app-five-domains.md) — possibly the same claim (merge candidate)

@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 120 claims (76 show a difference, 27 mixed, 17 no difference) · 75 studies (32 causal, 22 associational, 12 review, 5 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 19 of 75 report an effect size · 119 claims rest on one study
+> **Evidence** · 122 claims (78 show a difference, 27 mixed, 17 no difference) · 76 studies (32 causal, 23 associational, 12 review, 5 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 19 of 76 report an effect size · 121 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -156,6 +156,8 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [After a 15-hour undergraduate ultrasound course, objective theory-test scores rose significantly in overall score, theoretical ultrasound competencies, abdominal cross-section understanding and both visual-spatial measures, but not neck-region cross-section understanding, in a single-group pre-post study](../claims/ultrasound-course-objective-competency-gains.md) [+W] — measured as an outcome of the instruction studied
 - [Self-assessed ultrasound skills correlate positively with self-assessed topographical understanding at T1 (R = 0.53), and objective ultrasound understanding correlates with tube-figure (visual-spatial) test results at post-test (R = 0.32)](../claims/ultrasound-skill-correlations-with-topography-and-vsa.md) [+M] — learners who differ on it differ in outcomes
 - [Subjective competence increases after the ultrasound course are significant only for knowledge of anatomical spatial relationships (p = 0.009), with the overall subjective score rising without statistical significance](../claims/ultrasound-course-subjective-asr-gain.md) [~M] — measured as an outcome of the instruction studied
+- [Verbal and visuospatial working memory are indirectly associated with mathematics achievement via number fact knowledge, calculation skills, algebra and geometry](../claims/wm-indirect-effects-via-four-math-components.md) [+M] — learners who differ on it differ in outcomes
+- [Visuospatial WM independently predicts all five specific mathematical components, while verbal WM independently predicts only algebra](../claims/vswm-predicts-all-components-verbal-wm-algebra-only.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

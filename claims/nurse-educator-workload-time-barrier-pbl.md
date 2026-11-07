@@ -52,3 +52,5 @@ Qualitative interview finding from eighteen nurse educators at ten Ethiopian pub
 - [Key barriers to SBE implementation are lack of knowledge or training, lack of awareness of resources, limited time and resources, and limited institutional support](sbe-barriers-knowledge-time-institutional-support.md) — related
 - [Lack of PBL training opportunities leaves nurse educators without knowledge of the approach](pbl-training-opportunity-gap-ethiopian-nurse-educators.md) — related
 - [Dietetic students face specific challenges with PBL, particularly online: finding solutions, lack of in-person contact, scheduling, and interdisciplinary workload imbalances](pbl-challenges-dietetic-students-online.md) — related
+- [Tutor-related barriers including lack of motivation, work overload from a shortage of trained tutors, and lack of PBL training and experience impede PBL implementation](dbu-pbl-tutor-related-barriers.md) — related
+- [Students report uneven workload within PBL groups and insufficient time allocated per topic](pbl-group-workload-and-time-limitations.md) — related

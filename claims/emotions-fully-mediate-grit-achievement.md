@@ -88,3 +88,4 @@ Direct-effect estimates (Table 5) from the SEM with N = 310; FLE's direct associ
 ## Related Claims
 - [In an exam-oriented Chinese EFL sample, POE was associated with more enjoyment and less boredom, while COI was associated with more boredom and had no significant adjusted path to enjoyment](poe-coi-divergent-emotional-pathways.md) — related
 - [A two-factor grit structure (COI and POE as distinct factors) fits Chinese senior high school students better than a one-factor model](two-factor-grit-structure-chinese-senior-high.md) — a broader claim this one bears on
+- [Academic grit is positively associated with positive high- and low-arousal academic emotions and with academic achievement](academic-grit-predicts-emotions-achievement.md) — related

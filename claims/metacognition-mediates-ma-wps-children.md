@@ -64,3 +64,4 @@ Structural equation modeling of data from 224 fourth-grade children, controlling
 - [The direct association between teacher support and mathematics achievement becomes non-significant after including mathematics anxiety and learning engagement, indicating full mediation.](full-mediation-no-direct-effect-teacher-support-achievement.md) — related
 - [Mathematics anxiety mediates the association between teacher support and mathematics achievement.](math-anxiety-mediation-teacher-support-achievement.md) — related
 - [The association between inhibition and first-grade achievement in math, reading, and writing is fully mediated by LRBs](lrb-full-mediation-inhibition-achievement.md) — related
+- [Reading anxiety does not mediate the relationship between reading ability and academic achievement in university students](no-mediation-reading-anxiety-achievement.md) — related

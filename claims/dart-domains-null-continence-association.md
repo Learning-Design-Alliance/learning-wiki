@@ -47,3 +47,4 @@ Analysis of the same 78-case cohort comparing DART domain scores against 3-month
 ## Related Claims
 - [More coagulation and hook gestures during apical dissection are found in cases with 3-month continence recovery than ongoing incontinence](coagulation-hook-gestures-continence-recovery.md) — related
 - [Gesture usage correlates with DART technical skills scores, with retraction proportion negatively associated with total DART score](gestures-correlate-dart-scores.md) — related
+- [VR simulation performance for robot-assisted radical prostatectomy correlates with live surgical performance and postoperative outcomes](vr-rarp-performance-correlates-live-surgery.md) — related

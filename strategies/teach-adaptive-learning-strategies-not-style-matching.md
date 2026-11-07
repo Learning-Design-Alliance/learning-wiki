@@ -49,6 +49,7 @@ The article's core recommendation is that "instead of tailoring instruction to s
 
 - [Align taught discussion strategies with learning tasks and provide timely individual feedback on strategy and label use](align-discussion-strategies-with-tasks-and-feedback.md)
 - [Use general teaching techniques and materials that cover the needs of learners with diverse learning preferences](general-techniques-diverse-learning-preferences.md)
+- [Recommend individualised eLearning educational plans matched to students’ demands and needs](individualised-elearning-plans-student-needs.md)
 
 ## Examples
 -

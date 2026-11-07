@@ -58,3 +58,4 @@ The review's narrative synthesis of 34 studies involving over 5,700 healthcare p
 - [Trainees propose five strategy areas for improving SDL: mindset, goal setting, teaching methods, communication and institutional support](trainee-proposed-sdl-improvement-strategies.md) — related
 - [Family encouragement, educational atmosphere and support are reported facilitators of trainees' SDL](family-factors-facilitate-sdl.md) — related
 - [Physicians engage in lifelong learning through contextual, social, and independent processes](contextual-social-independent-lifelong-learning-processes.md) — related
+- [Organizational culture, communication and motivational efforts are identified as organizational behaviour factors in department chair performance improvement](dc-organizational-culture-communication-motivation.md) — a narrower finding that bears on this claim

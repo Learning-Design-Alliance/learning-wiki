@@ -50,3 +50,4 @@ Split-plot ANOVA on difference scores in the RCT (n = 30; 15 per group) found no
 - [Preclinical dental students improve significantly in tooth volume loss, procedural error scores, and task completion time after either VR or phantom head training](pre-post-improvement-vr-ph-endodontics.md) — related
 - [Conservative access cavity preparation is completed significantly faster than traditional access cavity preparation, with a training-method-by-technique interaction approaching significance](consac-faster-task-completion-time.md) — related
 - [Training method and test stage show significant main effects and a significant method-by-stage interaction on tooth preparation scores, while evaluation criteria do not differ](vr-simulation-anova-method-stage-interaction-tooth-preparation.md) — related
+- [Human-factor skills (HuFSHI) scores were comparable between VR-trained and theory-trained groups](husfhi-comparable-between-groups.md) — related

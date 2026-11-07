@@ -50,6 +50,7 @@ A preparation strategy in which institutions give students extended, OSCE-specif
 - [Offer a peer-led practice day before the OSCE to support skills training and simulated station practice.](peer-led-practice-day-osce-preparation.md)
 - [Implement anxiety-coping programs and orientation sessions before OSCE examinations](pre-osce-anxiety-coping-orientation-strategy.md)
 - [Use OSCE as a strategy to enhance occupational therapy students' clinical skills and prepare them for practice](osce-strategy-ot-educators.md)
+- [Increase practice questions, simulated examinations, and peer tutoring to strengthen test strategies](practice-questions-simulated-exams-peer-tutoring-strategy.md)
 
 ## Examples
 -

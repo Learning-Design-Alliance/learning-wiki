@@ -51,3 +51,4 @@ Chi-Square comparison of risk-factor awareness items after training in the rando
 - [Simulation-based breast health education significantly increased awareness of the 11 warning signs of breast cancer among Afghan refugee women compared to the control group](simulation-education-warning-sign-awareness-increase.md) — related
 - [Perceived susceptibility and seriousness of breast cancer did not differ by teaching method, remaining parallel across groups after the intervention and at follow-up](susceptibility-seriousness-parallel-across-teaching-methods.md) — related
 - [Knowledge gains were consistent across breast cancer signs, risk factors, and screening domains.](bc-knowledge-gains-consistent-across-domains.md) — related
+- [Simulation-based training combined with education supported self-monitoring of continuous drainage, with most mastectomy patients keeping the system patent (study A6)](drainage-self-monitoring-patency-a6.md) — related

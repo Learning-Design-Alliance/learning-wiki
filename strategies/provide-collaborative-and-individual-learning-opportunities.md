@@ -48,6 +48,7 @@ Based on the finding that most Grade 12 Thai EFL students preferred group activi
 ## Related Strategies
 
 - [Provide both digital 3D and physical learning modalities to accommodate diverse student preferences](provide-both-digital-and-physical-modalities.md)
+- [Recommend individualised eLearning educational plans matched to students’ demands and needs](individualised-elearning-plans-student-needs.md)
 
 ## Examples
 -

@@ -60,3 +60,4 @@ ANCOVA treatment*gender analysis in the same quasi-experiment (Table 3) failed t
 - [Class time in the flipped model was devoted to active learning activities rather than lecturing](flipped-class-time-active-learning-activities.md) — related
 - [Male students held stronger attitudes toward mathematics than female students](gender-main-effect-mathematics-attitudes.md) — reports the opposite
 - [Female students outperformed males in the live lecture condition, but not in the flipped conditions](gender-difference-live-lecture-gains.md) — related
+- [No statistically significant gender difference in students' attitudes towards physics at pre- or post-test](no-gender-difference-physics-attitude.md) — related

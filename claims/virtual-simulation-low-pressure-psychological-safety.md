@@ -69,3 +69,4 @@ Focus group participants described accessing high-fidelity simulation from home 
 - [Virtual dissection tables allow students to practice procedures in a low-risk environment where errors can be recognized and virtually reverted without consequences](vdt-low-risk-error-recovery-practice.md) — related
 - [LTT is valued for practising rare technical skills, especially haemorrhage control, that learners are not otherwise exposed to in clinical practice](ltt-valued-rare-haemorrhage-skills.md) — related
 - [Simulation is limited in replicating crisis adaptation, anatomical variability, and the psychological pressures of real patient care](simulation-limits-crisis-stress-risk-replication.md) — related
+- [Small groups of 5–6 students and the absence of grading supported communication and reduced pressure during the simulation](small-groups-no-grading-euthanasia-simulation.md) — a narrower finding that bears on this claim

@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 131 claims (97 for, 31 mixed, 3 against) · 90 studies (35 associational, 19 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 19 of 90 report an effect size · 125 claims rest on one study
+> **Evidence** · 132 claims (98 for, 31 mixed, 3 against) · 91 studies (36 associational, 19 causal, 13 review, 9 quant-synthesis, 6 theoretical, 4 qualitative, 4 design), `q1`–`q4` · 20 of 91 report an effect size · 126 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -187,6 +187,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Alternative grading practices with retakes strengthened students' feelings of relatedness to instructors, while rigid traditional grading harmed them](../claims/quiz-retakes-increase-relatedness.md) [+W] — attached 2026-11-07 from Tripp Brie et al. (2025), which proposed "Self-determination theory as a lens for interpreting grading practices' effects on motivation".
 - [Autonomy for exploration sustains teachers' motivation](../claims/autonomy-for-exploration-sustains-teacher-motivation.md) [+W] — attached 2026-11-07 from Bahramnezhad F (2025), which proposed "Establishing pathways to excellence in the teaching profession: a framework of sustainable motivators for medical sciences university teachers".
 - [Students of instructors with interactive-lecture and student-centred teaching profiles reported significantly higher perceived competence than students of didactic instructors, while autonomy support differed less consistently](../claims/active-learning-profiles-higher-competence-autonomy.md) [+W] — attached 2026-11-07 from Stieha Vicki et al. (2024), which proposed "Self-determination theory: competence, autonomy, and relatedness as supports for motivation quality".
+- [Basic psychological needs directly predict successful academic identity](../claims/bpn-direct-effect-academic-identity.md) [+M] — attached 2026-11-07 from Chen Shuya (2024), which proposed "Self-determination theory model of successful academic identity with mindfulness and self-efficacy mediators"; tests this page's relationship.
 
 ## The evidence by question
 
@@ -229,6 +230,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Foster self-determined motivation at the start of a learning cycle to support later achievement](../strategies/foster-self-determined-motivation-before-instruction-cycle.md)
 - [Build students' competence in AI-enriched environments by choosing appropriate tools, giving clear guidance, establishing role models, and offering frequent encouragement](../strategies/build-competence-ai-learning-strategies.md)
 - [Design running programs to support autonomy, competence and relatedness needs](../strategies/sdt-aligned-running-program-design.md)
+- [Support basic psychological needs and mindfulness through family education sessions and school conditions](../strategies/family-education-sessions-needs-mindfulness.md)
 
 ## Key Sources
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227-268. [https://doi.org/10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)

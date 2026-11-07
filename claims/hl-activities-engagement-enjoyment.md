@@ -50,3 +50,4 @@ Observation data across 15 HL sessions (30–60 min) used sustained and growing 
 - [Stakeholders perceived the museum-delivered Healthy Living program as feasible, with all 56 planned sessions implemented](hl-program-feasible-museum.md) — related
 - [Caregivers perceived only minimal changes in children's healthy eating and physical activity knowledge, attitudes and behaviour](hl-perceived-impact-minimal.md) — related
 - [Experiential learning activities improve children's knowledge, attitudes, and behaviors towards healthy eating](experiential-learning-improves-children-healthy-eating-outcomes.md) — a broader claim this one bears on
+- [Students and teachers perceive increased physical activity inside and outside the classroom and reduced screen time, but observed no changes in children's physical fitness](pal-perceived-pa-gains-no-fitness-change.md) — related

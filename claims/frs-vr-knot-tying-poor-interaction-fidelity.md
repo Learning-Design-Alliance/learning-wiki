@@ -56,3 +56,4 @@ Expert repetitions on the SimNow platform showed four Knot Tying repetitions sco
 - [Difficulty varied significantly across Versius Trainer tasks, with endoscope control, suturing and knot-tying the hardest to pass](task-difficulty-varies-endoscope-suturing-knot-tying-hardest.md) — related
 - [Virtual simulation platform practice does not significantly improve simulator-based laparoscopic suturing and knot-tying performance](virtual-simulation-no-gain-suturing-knot-tying.md) — related
 - [Laparoscopic novices trained digitally complete the final assessment tasks significantly faster than in-person trained novices, with the suture-and-knot task the only individual task reaching significance](digital-training-faster-task-completion-laparoscopy.md) — related
+- [Robot-system training requires significantly fewer repetitions than VR training to reach proficiency in three of six FRS tasks](robot-training-fewer-repetitions-to-proficiency.md) — related

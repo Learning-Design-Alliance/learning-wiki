@@ -61,3 +61,4 @@ Systematic review (PRISMA) of 20 prospective studies with 6032 students aged 7�
 - [Effects of classroom physical activity breaks on academic performance in university students are mixed or inconclusive](pa-breaks-academic-performance-mixed.md) — related
 - [Classroom physical activity breaks show strong evidence of improving positive academic emotions in university students](pa-breaks-positive-emotions-strong-evidence.md) — related
 - [Dose-response evidence suggests 10-minute active breaks, moderate intensity, and twice-daily frequency favour academic-related outcomes](active-break-dose-response-academic-outcomes.md) — related
+- [Leisure-time physical activity, but not PA breaks, is associated with fewer self-reported attention difficulties during home studying](ltpa-reduces-daily-attention-difficulties.md) — related

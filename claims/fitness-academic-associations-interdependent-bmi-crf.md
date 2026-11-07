@@ -56,3 +56,4 @@ Cross-sectional regression (Model 2) in 106 children with overweight/obesity. Re
 - [Higher muscular fitness is associated with better cognition and academic achievement in school-aged youth](muscular-fitness-associated-cognition-academic-achievement.md) — related
 - [Students with good school achievement showed higher balance, lower limb coordination, and global physical fitness than insufficient achievers](good-achievement-higher-motor-fitness-scores.md) — reports the opposite
 - [Normal BMI is associated with better academic performance](normal-bmi-better-academic-performance.md) — related
+- [Sex, body mass index, muscle strength, cardiorespiratory function, inhibition, working memory, and shifting are key factors collaboratively influencing primary school students' academic achievement, with shifting rated most important by most algorithms](ef-fitness-demographics-key-factors-academic-achievement.md) — related

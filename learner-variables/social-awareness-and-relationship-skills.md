@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 248 claims (170 show a difference, 48 mixed, 30 no difference) · 183 studies (57 causal, 43 review, 43 associational, 16 quant-synthesis, 14 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 49 of 183 report an effect size · 241 claims rest on one study
+> **Evidence** · 254 claims (173 show a difference, 50 mixed, 31 no difference) · 185 studies (58 causal, 44 review, 43 associational, 16 quant-synthesis, 14 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 49 of 185 report an effect size · 247 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -290,6 +290,12 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Learning motivation partially mediates the association between peer relationships and academic achievement](../claims/learning-motivation-partial-mediation-peer-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [Peer relationships are directly and positively associated with academic achievement among junior high school students](../claims/peer-relationships-direct-positive-academic-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [Skills practised diverge by setting: classroom covers a broad range, clinical encounters focus on information-gathering and relationship-building, OSCEs compress into rushed information-gathering and explanation](../claims/skill-focus-diverges-classroom-clinical-osce.md) [~M] — measured as an outcome of the instruction studied
+- [Empathy is positively correlated with medical students' clinical competence, particularly communication skills](../claims/empathy-positive-clinical-competence-communication.md) [+M] — learners who differ on it differ in outcomes
+- [Empathy is unrelated to medical students' academic performance](../claims/empathy-unrelated-academic-performance-medical-students.md) [-M] — learners who differ on it differ in outcomes
+- [High affective empathy is associated with more depression, anxiety and burnout, while cognitive empathy shows the opposite pattern](../claims/affective-empathy-mental-health-issues-cognitive-opposite.md) [~M] — learners who differ on it differ in outcomes
+- [Higher self-reported empathy is a positive factor for medical students' mental health](../claims/high-empathy-positive-factor-medical-student-mental-health.md) [+M] — learners who differ on it differ in outcomes
+- [Medical students with high empathy tend to prefer people-oriented specialties, though findings are mixed](../claims/high-empathy-people-oriented-specialty-preference-mixed.md) [~M] — learners who differ on it differ in outcomes
+- [Students rated PRI-E higher than LBL on ability development including critical thinking, presentation skills and interpersonal relationships](../claims/pri-e-student-ability-development-ratings.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

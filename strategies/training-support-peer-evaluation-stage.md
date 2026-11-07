@@ -49,6 +49,7 @@ From the study's findings the authors recommend that "training, tutoring and sup
 - [Safeguard assessment objectivity in peer-assessment evaluations by separating teaching and evaluation roles, blinding assessors to group allocation, and standardizing assessor training](assessor-bias-safeguards-peer-assessment.md)
 - [Teacher intervention in peer grouping and timely feedback to keep peer-assisted learning objective](teacher-intervention-peer-grouping-timely-feedback.md)
 - [Train peer tutors to mastery on the exact skill checklist before they teach, using the same Peyton's-method module as the trainees will receive](peer-tutor-mastery-training-strategy.md)
+- [Provide continuous tutor training in PBL case facilitation, assessment, and evaluation](continuous-pbl-tutor-training-strategy.md)
 
 ## Examples
 -

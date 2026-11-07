@@ -71,3 +71,4 @@ Same synthesis section: each of these design- and delivery-related factors was r
 - [Learners reported higher perceived learning and satisfaction and lower mental effort with the instructor video, despite no performance gains — a perception-performance gap](instructor-presence-perception-performance-gap.md) — related
 - [Resilience correlates positively with satisfaction domains; pandemic-related concerns associate with lower satisfaction](resilience-satisfaction-correlations.md) — related
 - [Lecturers frequently accompanied students in clinical practice, but only about half agreed lecturers dedicated adequate time](lecturer-clinical-involvement-time-concerns.md) — related
+- [Students most often reported that recorded lectures, supportive multimedia, and an easy-to-use platform enhanced their subject understanding in eLearning](recorded-lectures-multimedia-enhance-understanding.md) — related

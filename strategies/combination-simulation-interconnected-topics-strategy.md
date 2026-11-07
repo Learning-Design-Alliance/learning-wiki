@@ -44,7 +44,8 @@ The authors recommend pairing an immersive case on a procedure's dangerous compl
 - [Immersive LAST simulation showed no change in residents' perceived comfort with diagnosing and managing uncommon conditions generally or with interdisciplinary teamwork](../claims/last-simulation-no-change-uncommon-conditions-teamwork.md) [-W]
 
 ## Related Strategies
-- 
+
+- [Use sedation complication simulations for new trainees at the start of the academic year and as review where a sedative is less commonly used, adding deeper consent discussion in future iterations](sedation-simulation-deployment-strategy.md)
 
 ## Examples
 -

@@ -50,3 +50,4 @@ Satisfaction questionnaire results comparing the two formats: "more learners who
 - [More serious-game learners obtained a full score in the initial management step than clinical case-MCQ learners](sg-full-score-initial-management-step.md) — related
 - [More serious-game-assessed medical students obtain a total score ≥50% than clinical case-MCQ-assessed students on the same STEMI case](sg-higher-total-score-passage-than-mcq.md) — related
 - [More serious-game learners report knowledge improvement after assessment than clinical case-MCQ learners](sg-perceived-knowledge-improvement.md) — related
+- [Perceived difficulty of online question types differed, with puzzle questions rated significantly more difficult than other formats](pharmacotrophy-question-difficulty-puzzles.md) — related

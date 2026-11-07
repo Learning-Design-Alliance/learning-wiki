@@ -50,3 +50,4 @@ Narrative review of international measurement approaches: the OECD notes ECEC ha
 - [California's ECE programs are held to very different quality standards, which can mean unequal learning opportunities for similar children](california-ece-uneven-quality-standards.md) — related
 - [Prior meta-analyses report few or weak associations between ECEC quality indices and child progress, with process quality more predictive than structural quality](prior-meta-analyses-weak-quality-outcome-associations.md) — related
 - [Quality measures vary widely in foci, observation approach and index derivation, obscuring which specific characteristics drive stronger child outcomes](quality-measures-vary-in-foci-observation-and-index-derivation.md) — related
+- [UK and Australian environmental health accreditation criteria show significant overlap, removing an accreditation barrier to collaboration](uk-australia-eh-accreditation-overlap.md) — related

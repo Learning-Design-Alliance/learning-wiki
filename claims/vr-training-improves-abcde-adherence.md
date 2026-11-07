@@ -49,3 +49,4 @@ Same randomised pilot trial; ABCDE checklist adherence (0–3 scale) rated from 
 - [Self-guided and facilitator-guided debriefing showed no significant difference in paediatric emergency performance outcomes](no-performance-difference-between-debriefing-methods.md) — related
 - [Time to critical actions improved significantly only in the self-guided debriefing group](time-to-critical-actions-improved-self-guided-only.md) — related
 - [Immersive VR paediatric emergency training significantly improves interprofessional teamwork from baseline to 1-month follow-up in both debriefing groups](vr-training-improves-teamwork-both-debriefing-groups.md) — related
+- [In post-scenario self-assessments, ABCDE primary survey was performed in 18 of 21 scenarios but history-taking and handover schemes were applied only partly and communication aids mostly unused](abcde-used-history-schemes-incomplete.md) — related

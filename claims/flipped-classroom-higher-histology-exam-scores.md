@@ -60,3 +60,4 @@ Randomized educational trial (permuted block randomization, CONSORT) with 120 me
 - [Blended learning produced higher knowledge gain than traditional lecture in an evidence-based medicine course for medical postgraduates](blended-learning-higher-knowledge-gain-ebm-course.md) — related
 - [Medical students taught with a flipped classroom using clinical scenarios and educational technology scored significantly higher on theoretical post-tests than students taught with subject-based lectures](flipped-classroom-clinical-scenarios-higher-theory-posttest.md) — related
 - [Students' final comprehensive evaluation grade averaged 78.38 ± 7.12 under the O-AMAS blended course](oamas-final-comprehensive-grade-78.md) — related
+- [Understanding and knowledge retention is the same for basic-science topics taught by PBL and by lectures among Nepalese medical students](pbl-lecture-equal-retention-basic-science-nepal.md) — reports the opposite

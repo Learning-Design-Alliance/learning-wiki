@@ -57,3 +57,4 @@ Systematic review of 30 quantitative studies (24 cross-sectional, 6 longitudinal
 - [Only three of nine cross-sectional studies found an association between empathy scores and a preference for people-orientated specialties](specialty-preference-empathy-weak-association.md)
 - [Early clinical exposure is associated with higher empathy scores regardless of gender and academic year](ece-higher-empathy-scores.md)
 - [Both groups' JSPE-HPS scores increased over time, suggesting a general effect of theoretical empathy education](jspe-time-effect-both-groups.md) — a narrower finding that bears on this claim
+- [Empathy is unrelated to medical students' academic performance](empathy-unrelated-academic-performance-medical-students.md) — related

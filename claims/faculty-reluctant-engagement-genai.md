@@ -59,3 +59,4 @@ The review reports Saravanan et al.'s qualitative study of three focus groups wi
 - [AI-augmented instructional design creates tensions between generative affordances and student agency, identity, and academic integrity](genai-instructional-design-tensions-agency-authorship.md) — related
 - [Faculty reluctance and limited expertise are common challenges in implementing IPE, which can harm interprofessional relationships if poorly planned](faculty-reluctance-ipe-challenge.md) — related
 - [Unconstrained chat interfaces are recurrently associated with solution dumping, reduced productive struggle, integrity concerns, and over-reliance](unconstrained-chat-negative-patterns.md) — a broader claim this one bears on
+- [Faculty reluctance to share e-learning resources stems mainly from lack of institutional support and concerns about ownership and intellectual property](faculty-sharing-barriers-support-ownership-ip.md) — related

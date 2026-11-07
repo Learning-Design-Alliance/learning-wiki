@@ -52,3 +52,4 @@ Randomized control trial (n=20 students) using the SIMENDO VR simulator, three d
 - [Daily training on consecutive days appears more effective than weekly or massed schedules for VR-based psychomotor skill acquisition](daily-consecutive-days-optimal-vr-spacing-interval.md) — related
 - [The optimal spacing interval is bounded by reactive inhibition at short intervals and skill deterioration at long intervals](spacing-interval-inverted-u-reactive-inhibition-forgetting.md) — related
 - [Simulator-based skills training improves performance in therapeutic endoscopic procedures (polypectomy, upper GI bleeding control, esophageal dilation)](simulator-training-improves-therapeutic-endoscopy-skills.md) — related
+- [Shorter intervals (1–2 days) between proficiency-based laparoscopy simulator training sessions are not superior to longer intervals (6–8 days) in time to reach proficiency](short-versus-long-intervals-no-difference-time-to-proficiency.md) — related

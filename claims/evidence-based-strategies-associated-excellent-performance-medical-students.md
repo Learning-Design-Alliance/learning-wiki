@@ -48,3 +48,4 @@ Multivariable logistic regression among 556 surveyed medical students, dichotomi
 - [Common/passive learning strategies are not independently associated with excellent academic performance after adjustment](common-passive-strategies-not-associated-excellent-performance.md) — related
 - [Study patterns combining regular semester-long study with intensive pre-exam study are independently associated with excellent performance, while study hours and time-management techniques are not](study-patterns-independently-associated-excellent-performance.md) — related
 - [Use of spaced repetition is independently associated with higher odds of success in the medical school entrance examination](spaced-repetition-independent-predictor-medical-entrance-success.md) — a narrower finding that bears on this claim
+- [Students with very good or good GPA reported significantly higher ChatGPT usage than students with excellent GPA](lower-gpa-higher-chatgpt-usage.md) — related

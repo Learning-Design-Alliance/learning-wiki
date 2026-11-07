@@ -70,3 +70,4 @@ Chi-square analysis of top versus bottom quartile placement of average marks; th
 - [First-language English undergraduates show a strong advantage over EAL and EFL peers in English vocabulary and grammar](l1e-vocabulary-grammar-advantage-uk-undergraduates.md) — related
 - [Top-quartile time-restricted reading comprehension, essay quality, reading speed, writing speed and vocabulary are each associated with top academic marks](literacy-quartile-association-academic-marks.md) — related
 - [Open-response themes show English-language and cultural-adjustment challenges concentrated among EFL and EAL students, while L1E students more often cite self-management and transition](thematic-challenges-language-culture-eal-efl.md) — related
+- [Poorer reading comprehension, but not word-recognition speed or history of reading difficulties, is associated with lower university academic achievement](comprehension-not-decoding-predicts-wam.md) — related

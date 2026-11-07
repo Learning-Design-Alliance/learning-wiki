@@ -71,3 +71,4 @@ Same Figure 3C results: instructor and learner improvement suggestions with prin
 - [Faculty acknowledged supportive structural changes under the HTP, including improved educational equipment and budgets, but perceived these resources as underused](htp-supportive-structural-changes-underused-resources.md) — related
 - [State apprenticeship administrators leveraged technology to pivot work online, streamline processes, and expand reach and responsiveness during the pandemic](technology-pivot-expanded-apprenticeship-agency-reach.md) — related
 - [After implementation of the Simulation Instructor Development Program, faculty involvement increased by 45%](instructor-development-program-faculty-growth.md) — related
+- [Faculty called for a repository mapped to national learning-outcome standards, faculty development programs, and better promotion of the portal](faculty-development-and-mapped-repository-needs.md) — related

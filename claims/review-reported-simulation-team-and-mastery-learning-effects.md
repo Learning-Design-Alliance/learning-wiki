@@ -52,3 +52,4 @@ Narrative review section attributing these findings to cited prior studies (e.g.
 - [Technical performance during the simulated cardiac arrest was low, with a mean of 16 of 42 points](technical-performance-16-of-42-points-during-simulation.md) — related
 - [Simulation training is associated with reduced surgical errors and improved team performance, but translation to patient-level outcomes remains unproven](simulation-clinical-outcomes-intermediate-only.md) — related
 - [Trauma team training reduces time-related outcomes, especially time to CT, though findings are not uniform across settings](ttt-reduces-time-to-ct-mixed.md) — a narrower finding that bears on this claim
+- [Simulator-based learning curves do not translate directly to clinical performance, and prior studies report shorter mastery times for simpler ultrasound procedures](simulator-learning-curves-do-not-translate-directly-to-clinical-performance.md) — a narrower finding that bears on this claim

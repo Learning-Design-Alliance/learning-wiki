@@ -49,3 +49,4 @@ Structural equation modeling analysis of questionnaire data from 343 first-year 
 - [Perseverance of effort significantly predicts all four well-being elements while consistency of interest predicts none](pe-predicts-wellbeing-elements-ci-does-not.md) — related
 - [The four well-being elements do not significantly mediate the relationships between grit dimensions and L2 achievement](wellbeing-mediation-non-significant.md) — related
 - [Engagement is the only well-being element not significantly correlated with L2 achievement, while both grit dimensions correlate significantly positively with it](engagement-not-correlated-l2-achievement.md) — related
+- [Grit does not significantly predict GPA among physical education and sport university students](grit-not-significant-predictor-gpa-pes-students.md) — related

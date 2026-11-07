@@ -53,3 +53,4 @@ Spearman correlation analysis in a cross-sectional survey of 321 new nurses in e
 - [New nurses' emergency response competence is at a moderate level, lower than previously reported for nurses overall](moderate-emergency-response-competence-new-nurses.md) — related
 - [Nurses with more than 15 years of emergency-care experience perceive fewer barriers than less-experienced colleagues](experience-reduces-perceived-barriers.md) — related
 - [PCC competence is negatively correlated with job burnout among surgical nurses (r = −0.583)](pcc-competence-burnout-negative-correlation.md) — a narrower finding that bears on this claim
+- [Changes in self-efficacy are negatively related to changes in learning burnout](self-efficacy-change-negatively-related-to-burnout-change.md) — related

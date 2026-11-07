@@ -13,7 +13,7 @@ generated:
 # Creativity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 184 claims (141 show a difference, 29 mixed, 14 no difference) · 94 studies (42 causal, 23 associational, 13 review, 8 quant-synthesis, 4 design, 2 qualitative, 2 theoretical), `q1`–`q3` · 19 of 94 report an effect size · 182 claims rest on one study
+> **Evidence** · 185 claims (142 show a difference, 29 mixed, 14 no difference) · 95 studies (42 causal, 24 associational, 13 review, 8 quant-synthesis, 4 design, 2 qualitative, 2 theoretical), `q1`–`q3` · 19 of 95 report an effect size · 183 claims rest on one study
 
 ## Description
 Creativity as a learner characteristic is the ability to produce ideas that are both new and fitting. It is most often measured with divergent-thinking tests (how many and how varied the uses someone can find for an object). It correlates with intelligence and with achievement, including in mathematics, where generating several solution paths may deepen understanding. Creativity can also be an outcome that instruction aims at; this page is about learners who differ in it.
@@ -219,6 +219,7 @@ Creativity as a learner characteristic is the ability to produce ideas that are 
 - [Experiential learning partially mediates the relationship between creative thinking and organizational maturity](../claims/experiential-learning-partially-mediates-creative-thinking-maturity.md) [+M] — learners who differ on it differ in outcomes
 - [Scores changed significantly across the three observations in both groups, with the experimental group improving and the control group declining over successive observations](../claims/divergent-trajectory-rlc-versus-control-repeated-measures.md) [~W] — measured as an outcome of the instruction studied
 - [82%–89% of students agreed experiential learning courses gave them chances to think creatively and judge data and arguments, and improved their ability to apply knowledge to new problems](../claims/el-critical-thinking-gains-82-89-percent.md) [+M] — measured as an outcome of the instruction studied
+- [Creativity positively predicts academic achievement in geography](../claims/creativity-predicts-geography-achievement.md) [+W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

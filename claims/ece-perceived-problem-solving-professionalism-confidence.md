@@ -59,3 +59,4 @@ Systematic review with narrative synthesis of 15 studies of early clinical expos
 - [Students reported that early exposure to surface anatomy, palpation, and systematic physical examination enhanced their confidence and competence with real patients](early-surface-anatomy-exposure-confidence.md) — related
 - [87.1% of students preferred group exams and 90.3% perceived improved future consultation skills](group-exam-and-consultation-perceptions-pilot.md) — related
 - [The intervention increased students' self-assessed confidence in dealing with oral diseases](pbl-case-increases-self-assessed-oral-confidence.md) — a narrower finding that bears on this claim
+- [Students reported the application increased self-confidence before meeting real patients and supported case-solving ability](mobile-vp-qualitative-confidence-case-solving.md) — related

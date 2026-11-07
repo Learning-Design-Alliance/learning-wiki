@@ -54,3 +54,4 @@ Three-level multilevel meta-analysis of 20 studies (105 effect sizes; N = 4,227)
 - [EI task nature, country, academic performance criterion, and age do not significantly moderate the EI–academic success relationship](non-significant-moderators-ei-md-success.md) — related
 - [Emotional intelligence is positively correlated with student achievement (pooled r = 0.50)](emotional-intelligence-correlated-student-achievement.md) — a broader claim this one bears on
 - [Digital technology use, emotional intelligence, and learning engagement are each significantly positively correlated with English academic performance](correlations-digital-technology-ei-engagement-english-performance.md) — a narrower finding that bears on this claim
+- [Achievement and aptitude test scores show significant but weaker positive correlations with dental students' GPA](test-scores-weaker-positive-correlation-dental-gpa.md) — related

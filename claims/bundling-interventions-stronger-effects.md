@@ -50,3 +50,4 @@ A panel assertion in the guide's introduction, offered without a specific effect
 - High-dosage tutoring directly tied to classroom content can substantially accelerate learning in math and reading for the most struggling students — related
 - [ASAP likely increases community college students' graduation and degree attainment rates](asap-increases-degree-attainment.md) — a narrower finding that bears on this claim
 - [The between-cohort exam gain is attributable only to a composite intervention (autograding plus corrections plus expanded office hours), not to LaTA alone](composite-intervention-exam-confound.md) — related
+- [Active learning enhanced exam performance in both academically strong and weaker cohorts, suggesting benefits independent of student background or course of study](active-learning-benefit-independent-of-background.md) — related

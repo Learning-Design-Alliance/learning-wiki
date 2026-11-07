@@ -51,3 +51,4 @@ Descriptive statistics on competency frameworks across institutions (Fig. 1) fro
 - [Simulation-based training should be incorporated into surgical curricula targeting novice learners](simulation-training-should-be-incorporated-into-curricula.md) — related
 - [Most participants favor simulator implementation in endoscopy training, but few have institutional access](endonix-implementation-attitudes-and-access.md) — related
 - [RT leaders overwhelmingly endorse competency-based education and a global CBE framework for standardizing RT training](rt-leaders-endorse-global-cbe-standardization.md) — related
+- [Structured laparoscopic training curricula and assessments are rare despite wide simulator availability, and self-training sites are used infrequently](simulation-access-utilization-gap-switzerland.md) — related

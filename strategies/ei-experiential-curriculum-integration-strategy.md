@@ -71,6 +71,7 @@ The article recommends weaving EI training into existing courses with objectives
 - [Use innovative, technology-based teaching methods—simulation, role-playing, videos, case studies, and debriefings—to train psychological safety competencies](innovative-methods-psychological-safety-training.md)
 - [Integrate emotional intelligence development into residency training through humanistic care courses and social activities](ei-development-in-residency-training-strategy.md)
 - [Integrate pedagogic-didactic competence, content knowledge and socio-emotional skills in authentic teaching practice within health education teacher education](integrated-authentic-practice-he-teacher-education.md)
+- [Design targeted empathy training that reduces affective empathy and improves cognitive empathy within an appropriate range](targeted-empathy-training-reduce-affective-improve-cognitive.md)
 
 ## Examples
 -

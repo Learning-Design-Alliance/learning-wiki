@@ -54,3 +54,4 @@ Unpaired t-test comparison of procedural checklist scores (maximum 48) in the sa
 - [Baseline Fair Grader 2000 scores below 60 points were concentrated among clinicians still in residency training](baseline-scores-below-60-ongoing-residency.md) — related
 - [Clinicians who had completed residency training scored significantly higher on the final Fair Grader 2000 assessment than those still in residency](fair-grader-completed-vs-ongoing-final-scores.md) — related
 - [The self-serve training model significantly increases procedural confidence of novice ophthalmology residents but does not significantly improve skill assessment scores](self-serve-model-raises-confidence-not-skill-scores.md) — related
+- [Initial post-GBL performance did not differ significantly by practitioner type, though practicing clinicians scored lowest](gbl-practitioner-type-differences.md) — related

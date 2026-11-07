@@ -61,3 +61,4 @@ Pre- and post-workshop survey study of 79 regulated allied health professionals 
 - [After a peer-led workshop, the proportion of students classified as high knowledge rose from 41.9% at pre-test to 86.0% at post-test in one uncontrolled pre-post study](knowledge-category-shift-after-peer-led-workshop.md) — related
 - [Self-rated self-efficacy did not change from pre-test to post-test among medical and nursing clinicians but changed among allied health and psychology clinicians, in one uncontrolled pre-post study](self-efficacy-gains-vary-by-profession.md) — related
 - [Perceived knowledge and skills in student assessment topics increase significantly immediately after the faculty development workshops](fd-workshops-significant-perceived-knowledge-gains.md) — related
+- [Training did not enhance perceived preparedness for CB-EMS operations, and transferability of training content was ranked lower after training](preparedness-and-transfer-not-enhanced.md) — related

@@ -48,6 +48,7 @@ The article recommends combining e-learning with hands-on training rather than t
 - [Reinforce central OSCE modules and build integrated teaching modules around strongly connected skills](reinforce-central-modules-integrated-skill-teaching.md)
 - [Incorporate pathological findings and additional practice into pre-clerkship ultrasound training](add-pathology-and-practice-to-pocus-curriculum-strategy.md)
 - [Combine technique education with ongoing monitoring, reinforcement, and quality assurance to sustain blood pressure measurement proficiency](ongoing-reinforcement-bp-measurement-training.md)
+- [Offer eLearning to practices with detected cold chain breaches and add reinforcement strategies for sustained improvement](elearning-offer-on-cold-chain-breach-detection.md)
 
 ## Examples
 -

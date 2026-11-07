@@ -62,3 +62,4 @@ Longitudinal study of 46 children with Developmental Language Disorder and 122 t
 - [A strength in verbal reasoning partly compensates for geometry and fraction delays in children with DLD at the individual level](verbal-reasoning-strength-compensates-dld-math.md) — related
 - [Early working memory, processing speed, and attentive behavior predict later calculations, word-problem solving, and reading, but nonverbal reasoning is not significantly associated with any outcome](domain-general-predictors-null-nonverbal-reasoning.md) — reports the opposite
 - [In the combined sample, ADHD status showed a small negative correlation with all assessed skills except vocabulary](adhd-negative-correlation-arithmetic-skills.md) — related
+- [Verbal and visuospatial working memory are indirectly associated with mathematics achievement via number fact knowledge, calculation skills, algebra and geometry](wm-indirect-effects-via-four-math-components.md) — related

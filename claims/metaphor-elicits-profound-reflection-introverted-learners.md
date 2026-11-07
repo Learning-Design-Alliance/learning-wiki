@@ -50,3 +50,4 @@ In the same case study, direct-question answers were terse (e.g., 'The feedback 
 - [Learners' metaphoric perceptions of online feedback coded into six analogous characteristics describing how online feedback benefited them](six-analogous-characteristics-online-feedback.md) — related
 - [Reflection in language learning contexts is hindered by learners' difficulty expressing thoughts in the target language](language-learners-expression-difficulty-reflection.md) — related
 - [Culturally metaphorical English expressions of Tai Chi movement names are associated with higher comprehension than direct translations](metaphorical-translation-comprehension.md) — related
+- [Specific metaphor practices reduced effectiveness: stigmatizing prefaces, forced insertion, symptom-invalidating phrasing, and poor relatability or cultural fit](metaphor-use-challenges-contexts.md) — related

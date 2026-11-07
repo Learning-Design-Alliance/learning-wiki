@@ -49,3 +49,4 @@ Between-group analysis by unit (CCU, CIU, HDU) in the results: each group improv
 - [Nurses' ECG arrhythmia interpretation knowledge rose significantly from pre-test to post-test after a self-directed e-learning package in cardiology units, in one uncontrolled pre-test/post-test study](sdl-package-improves-nurse-ecg-arrhythmia-interpretation.md) — related
 - [Acute-care nurses (ED/UCC, ICU/HDU) demonstrate significantly higher sepsis knowledge than general ward nurses](acute-care-nurses-higher-sepsis-knowledge.md) — related
 - [Overall knowledge scores did not differ significantly by sepsis training level or highest qualification, with differences only at item level](no-overall-knowledge-score-group-differences.md) — related
+- [No statistically significant difference in nurses' VP-case CPD scores between urban and rural workplaces across all four illness areas](no-urban-rural-difference-vp-case-scores.md) — related

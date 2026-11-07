@@ -46,7 +46,8 @@ The authors recommend offering entrepreneurial games such as TBG in entrepreneur
 - [Bao gameplay is linked to economic decision-making and entrepreneurial skills](../claims/bao-gameplay-economic-entrepreneurial-skills.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Develop entrepreneurship education programs that target students' personality traits to enhance both entrepreneurial intentions and academic performance](entrepreneurship-programs-targeting-personality-traits.md)
 
 ## Examples
 -

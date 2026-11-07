@@ -13,7 +13,7 @@ generated:
 # Gender
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 574 claims (307 show a difference, 122 mixed, 145 no difference) · 410 studies (194 associational, 157 causal, 20 review, 16 quant-synthesis, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 60 of 410 report an effect size · 566 claims rest on one study
+> **Evidence** · 578 claims (309 show a difference, 123 mixed, 146 no difference) · 412 studies (195 associational, 158 causal, 20 review, 16 quant-synthesis, 11 design, 7 theoretical, 5 qualitative), `q1`–`q4` · 60 of 412 report an effect size · 570 claims rest on one study
 
 ## How to read this page
 
@@ -613,6 +613,10 @@ Gender is recorded in most education studies, usually as a binary category taken
 - [Sex differences in competence are significant for professional behaviors, general performance, and advanced skills but not for core nursing skills](../claims/sex-difference-competence-significant-except-core-skills.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [No sex differences in team-composition effects or in the TBL benefit on dkTest scores](../claims/no-sex-moderation-team-composition-or-tbl-benefit.md) [-W] — an instructional effect differs by group
 - [Sex differences in OSCE outcome appear in univariate analysis but are not significant in the path model, and SSC mitigates them](../claims/ssc-mitigates-sex-differences-osce.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Anxiety explains more performance variation for female than male medical students, particularly on USMLE Step 1](../claims/anxiety-explains-more-female-performance-variation.md) [+M] — an instructional effect differs by group
+- [Concentration, Motivation, and Time Management predict performance more strongly for female than male medical students despite showing no gender difference in scores](../claims/concentration-motivation-time-management-stronger-female-predictors.md) [~M] — an instructional effect differs by group
+- [Female students in the flipped group showed a significantly greater self-efficacy increase than female students in the control group, while the female-versus-male interaction was not significant](../claims/female-flipped-group-self-efficacy-gain-gender-interaction.md) [-M] — an instructional effect differs by group
+- [Males score higher on Anxiety, Information Processing, Selecting Main Ideas, Self-Testing, and Test Strategies, while females score higher on Attitude and Using Academic Resources](../claims/males-higher-anxiety-test-strategies-females-higher-attitude-resources.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Do girls and boys differ in mathematics and reading achievement, by how much, and where in the distribution?* [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](../claims/pisa-sex-differences-math-small-reading-three-times-larger.md) [+M]

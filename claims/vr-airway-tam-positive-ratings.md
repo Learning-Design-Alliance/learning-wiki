@@ -51,3 +51,4 @@ Pre- and post-simulation TAM surveys with 7 attending physicians (emergency medi
 - [Participants rated NCPR-VR highly useful and were willing to recommend it (median 5 of 5 on both)](ncpr-vr-usefulness-recommend-medians.md) — related
 - [Gamification-group students reported positive technology acceptance, with Perceived Usefulness, Concentration, and Attitude towards Using the highest-rated TAM domains](tam-acceptance-perceived-usefulness-highest.md) — related
 - [Learners rated the combined simulation experience positively and supported future sessions despite non-significant knowledge gains](combined-simulation-positive-learner-perceptions.md) — related
+- [Students rated VR pediatric emergency training as highly useful (median 91.7/100) but ease-of-use was lower (median 77.8/100)](vr-pem-high-usefulness-lower-ease-of-use.md) — related

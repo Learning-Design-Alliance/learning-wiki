@@ -50,3 +50,4 @@ Paired samples t-test within the control group (N=29) taught with the TLEI appro
 - [Pre-service science teachers' scientific process skills rose significantly from pretest to post-test within the experimental group during inquiry-based instruction in a university biology laboratory](inquiry-instruction-improved-preservice-spst-pre-post.md) — related
 - [The control group taught with the traditional approach also improved significantly on scientific process skills from pretest to post-test](control-group-spst-also-improved.md) — reports the opposite
 - [Science process skills scores rose significantly from pre-test to post-test among students taught with GIBLEI, in one uncontrolled pre-post study](giblei-within-group-sps-gain-wilcoxon.md) — related
+- [About 79% of students judged traditional learning more effective than e-learning for developing practical, clinical and laboratory skills](traditional-learning-preferred-for-practical-skills-79-percent.md) — related

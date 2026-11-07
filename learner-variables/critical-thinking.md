@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 198 claims (141 show a difference, 36 mixed, 21 no difference) · 132 studies (67 causal, 23 review, 15 associational, 8 quant-synthesis, 7 design, 7 theoretical, 5 qualitative), `q1`–`q3` · 28 of 132 report an effect size · 196 claims rest on one study
+> **Evidence** · 199 claims (142 show a difference, 36 mixed, 21 no difference) · 133 studies (68 causal, 23 review, 15 associational, 8 quant-synthesis, 7 design, 7 theoretical, 5 qualitative), `q1`–`q3` · 28 of 133 report an effect size · 197 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -239,6 +239,7 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Mock evaluation total utility scores improve significantly after the workshop (12.4 to 15.5)](../claims/mock-evaluation-utility-improves-after-workshop.md) [+M] — measured as an outcome of the instruction studied
 - [Only the context subcomponent improves significantly on real evaluations](../claims/real-evaluation-only-context-subcomponent-improved.md) [~M] — measured as an outcome of the instruction studied
 - [Real end-of-rotation evaluation utility improves significantly after the workshop (13.7 to 15.0)](../claims/real-evaluation-utility-improves-after-workshop.md) [+M] — measured as an outcome of the instruction studied
+- [DOPS assessment is associated with higher critical thinking disposition three months after training, driven by analytical ability, self-confidence, and curiosity](../claims/dops-higher-critical-thinking-three-months.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

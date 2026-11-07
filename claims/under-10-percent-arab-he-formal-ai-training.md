@@ -54,3 +54,4 @@ The review reports this second-hand finding as evidence of limited AI readiness 
 - [Educator AI training and readiness remain limited, with only about half of teachers trained on AI and resistance increasing at higher grade levels](limited-educator-ai-training-resistance-by-grade.md) — related
 - [Non-users cite lack of training, distrust of responses, preference for teaching staff, academic-integrity fear and lack of interest as reasons for not using chatbots](non-user-reasons-training-trust-integrity.md) — related
 - [Successful AI integration in Arab EL2 classrooms consistently depends on teacher mediation, institutional support, and responsible-use practices](teacher-mediation-institutional-support-ai-integration.md) — related
+- [Among Arab university students aware of ChatGPT, 46.8% had heard of it and 52.6% of those had used it before the study](arab-students-chatgpt-awareness-usage-rates.md) — related

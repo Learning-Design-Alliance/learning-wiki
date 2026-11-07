@@ -56,3 +56,4 @@ Post-training comparison across the seven dimensions of the Critical Thinking Ab
 - [PBL-CBL teaching was associated with higher critical thinking disposition scores than LBL across CCTDI-adapted questionnaire traits](pbl-cbl-higher-critical-thinking-dispositions.md) — related
 - [New nurses in TA+CBL teaching rounds achieve higher case analysis scores than nurses in CBL-only rounds](ta-cbl-rounds-higher-case-analysis-scores.md) — related
 - [TA+CBL teaching rounds yield higher overall critical thinking ability scores than CBL-only rounds](ta-cbl-rounds-higher-critical-thinking-total.md) — a broader claim this one bears on
+- [DOPS assessment is associated with higher critical thinking disposition three months after training, driven by analytical ability, self-confidence, and curiosity](dops-higher-critical-thinking-three-months.md) — related

@@ -20,6 +20,7 @@ A teacher-education and self-evaluation framework developed by Paakkari et al. t
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- **Use defined health education teacher competencies to build competence-based curricula and support teacher self-evaluation**: The article proposes that clearly defined competence domains and competencies serve as practical tools for programme development and teacher reflection. According to the authors, "The core competencies can be used to evaluate the content, emphasis, prioritization needs and future directions of HE teacher education programmes", and defined competencies can serve as a development and assessment tool for self-evaluation and reflection among pre- and in-service teachers. They argue clearly defined domains increase conceptual coherence and reduce the risk of fragmented teacher education programmes. (Paakkari et al. (2024))
 
 ### Claims
 - [A three-round Delphi study with 25 Finnish experts identified 52 health education teacher competencies, categorized into eight core competence domains](../claims/delphi-52-he-teacher-competencies-eight-domains.md) [+M]

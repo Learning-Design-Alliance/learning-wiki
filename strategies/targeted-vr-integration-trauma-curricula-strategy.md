@@ -50,6 +50,7 @@ The article recommends that future work concentrate on "outlining specific scena
 
 - [Use case-based VR simulation as a complement to, not a replacement for, traditional pelvic trauma teaching, and improve it by enlarging the case database, widening disease coverage, and advancing ESP intelligence](vr-complement-traditional-teaching-improvement-strategy.md)
 - [Integrate VR simulation design with prebriefing, intuitive interfaces, adaptive difficulty, scenario variability, ergonomic hardware, and structured debriefing](vr-design-balance-usability-load-debriefing-strategy.md)
+- [Develop multi-scenario VR programs for rare obstetric emergencies, enhanced with artificial intelligence](vr-multi-scenario-obstetric-emergency-training-strategy.md)
 
 ## Examples
 -

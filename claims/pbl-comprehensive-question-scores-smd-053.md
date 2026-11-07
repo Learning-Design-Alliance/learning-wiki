@@ -59,3 +59,4 @@ Random-effects pooling of the 3 included studies that reported comprehensive que
 - [GenAI-assisted progressive-disclosure CBL is associated with modestly higher delayed final exam performance in a nonrandomized class-level comparison](genai-progressive-disclosure-cbl-final-exam.md) — related
 - [Case review-based learning improves orthodontic examination scores compared with lecture-based learning](cbl-improves-orthodontic-exam-scores.md) — related
 - [Hybrid BOPPPS group achieved modestly higher formative, final exam and comprehensive scores than the LBL group](boppps-higher-comprehensive-grades-radiology.md) — related
+- [Participation in the Pharmacotrophy tournament was associated with 20.1% higher pharmacology exam marks than non-participants, with comparable overall academic levels](pharmacotrophy-higher-pharmacology-marks.md) — a narrower finding that bears on this claim

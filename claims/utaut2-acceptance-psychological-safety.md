@@ -56,3 +56,4 @@ Descriptive analysis of a modified 18-item UTAUT2 questionnaire completed post-i
 - [Judges endorsed the simulation as a continuing education strategy with potential to strengthen patient safety culture](judges-endorse-continuing-education-safety-culture-potential.md) — related
 - [All eleven pilot participants recommended curricular integration of VR, and matched self-reported reflections on perceived usefulness shifted from hesitant or uninformed pre-course views to strongly positive post-course views in a single-group pre-post study](vr-pilot-unanimous-curricular-endorsement.md) — related
 - [Participants rate the vENC app positively, with ease of navigation lower and some VR-mode discomfort reported](venc-participant-feedback-acceptable.md) — related
+- [80% of digital-group students strongly endorse the use of digital-human simulation for echocardiography teaching](digital-human-high-acceptance.md) — related

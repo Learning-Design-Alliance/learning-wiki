@@ -62,3 +62,4 @@ Supplementary linear regressions on the same sample; Table 6 prints non-signific
 - [Discussion section attendance significantly increases agreement with 10 of 19 sense of belonging items](attendance-predicts-belonging.md) — related
 - [Challenge state correlates positively with academic self-efficacy, resilience, grit, and growth mindset](challenge-state-correlates-noncognitive.md) — related
 - [Academic motivation is not significantly correlated with academic achievement in this sample](academic-motivation-no-correlation-achievement.md) — related
+- [Academic motivation significantly and positively predicts sustainable learning (β = 0.205)](acm-positive-predicts-sustainable-learning.md) — related

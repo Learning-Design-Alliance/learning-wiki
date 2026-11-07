@@ -68,3 +68,4 @@ Same ANCOVA analysis of the 450-nurse survey (Table 3 prints F = 41.7, P<0.001 f
 - [Nurses' clinic communication competency differs significantly by age, gender, nursing years, professional title, and department](ncccs-demographic-differences-tertiary-nurses.md) — related
 - [Hospital grade, job position, work experience, and teaching experience distinguish core competence levels](demographic-factors-core-competence-nurses.md) — related
 - [Sociodemographic and job-related characteristics differ across competence profiles](sociodemographic-differences-across-profiles.md) — related
+- [Evaluation scores differed significantly by demographics: female, younger, and undergraduate students rated e-learning quality higher](elearning-quality-demographic-differences.md) — related

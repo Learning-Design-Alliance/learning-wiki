@@ -49,3 +49,4 @@ Retrospective comparison of all US-FNAs performed by the participants 12 months 
 - [Prior experience, gender, age, and preferred orientation showed no significant influence on the learning curve, though men benefited more from training in clinical yield](no-experience-influence-on-learning-curve-male-benefit.md) — related
 - [Tutor-rated OSAUS scores improved significantly for image recognition and both in-plane and out-of-plane US-FNA after model training](osaus-scores-improve-after-liver-model-training.md) — related
 - [Procedure timing improved for probe positioning but not consistently for time to successful puncture](timing-improves-start-to-touch-not-puncture-time.md) — related
+- [Certification eligibility requires auditable key performance indicators: FNA/B diagnostic adequacy above 85%, photo documentation in over 90% of procedures, and a 30-day complication rate under 5%](eus-certification-kpi-thresholds.md) — related

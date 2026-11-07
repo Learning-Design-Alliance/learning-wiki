@@ -55,3 +55,4 @@ Narrative review synthesis reporting the reviewed meta-analysis (Xiong et al.) f
 - [Only one included study assessed predictive validity, showing a curriculum including body donor lab sessions improved real-patient laparoscopic performance over conventional training](single-predictive-validity-study-palter.md) — a broader claim this one bears on
 - [Simulation-based training improves laparoscopic performance time in the operating room](simulation-training-improves-performance-time.md) — a broader claim this one bears on
 - [All participants improved their surgical performance over the course of the training sessions](all-attendees-improved-surgical-performance-training.md) — related
+- [Low-cost physical simulators embedded in a urological emergency curriculum produced statistically significant performance improvements](urologic-emergency-physical-simulation-curriculum-gains.md) — related

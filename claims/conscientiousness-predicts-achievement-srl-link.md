@@ -59,3 +59,4 @@ The review attributes this to prior meta-analytic work (Mammadov, 2022; Poropat,
 - [Both conscientiousness (β = .25) and openness (β = .17) are positively associated with GPA in adjusted models](gpa-associated-with-conscientiousness-and-openness.md) — related
 - [Gaze patterns during intelligence test completion are unrelated to Big Five personality traits, though several facets are linked to gaze](gaze-patterns-unrelated-to-big-five-traits.md) — related
 - [Planning and implementation is the strongest positive SDL-R predictor of preclinical GPA, with the four domains explaining 22.2% of GPA variance in Year 1 and 9.0% in Year 2](planning-implementation-strongest-gpa-predictor.md) — a narrower finding that bears on this claim
+- [Conscientiousness (r = .17) and Openness (r = .14) are the Big Five traits most strongly correlated with ACT composite scores](big-five-conscientiousness-openness-act-correlations.md) — related

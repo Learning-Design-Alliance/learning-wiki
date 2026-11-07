@@ -64,6 +64,7 @@ The report recommends that states integrate co-design with feedback loops—defi
 - [Integrate GPT models into LA-supported feedback systems with an iterative instructor-student validation loop to improve reliability](iterative-validation-loop-gpt-feedback-systems.md)
 - [Use Kotter's 8-step and COM-B models within iterative action-research cycles to co-design EPA implementation improvements with expert and stakeholder panels](kotter-comb-action-research-epa-implementation.md)
 - [Incorporate student feedback loops so AI assessment systems improve accuracy and guide learning](student-feedback-loops-ai-assessment.md)
+- [Meaningfully engage end-users and experts as partners throughout e-learning co-development and evaluation using the IKT Guiding Principles](ikt-partner-engagement-elearning-codevelopment-strategy.md)
 
 ## Examples
 -

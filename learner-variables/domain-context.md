@@ -13,7 +13,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 101 claims (72 show a difference, 23 mixed, 6 no difference) · 89 studies (20 review, 19 qualitative, 17 causal, 16 design, 7 associational, 5 quant-synthesis, 5 theoretical), `q1`–`q4` · 10 of 89 report an effect size · 97 claims rest on one study
+> **Evidence** · 104 claims (74 show a difference, 23 mixed, 7 no difference) · 91 studies (20 review, 19 causal, 19 qualitative, 16 design, 7 associational, 5 quant-synthesis, 5 theoretical), `q1`–`q4` · 10 of 91 report an effect size · 100 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -142,6 +142,9 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [Innovative fieldwork placements during the COVID-19 pandemic (administration, intrapreneurship, and virtual care cases) supported competency development in occupational therapy learners, though development was complex and contextually based](../claims/innovative-fieldwork-supported-competency-development-pandemic.md) [~M] — an instructional effect differs with it
 - [Only the context subcomponent improves significantly on real evaluations](../claims/real-evaluation-only-context-subcomponent-improved.md) [+M] — measured as an outcome of the instruction studied
 - [Virtual care placements uniquely developed niche communication skills, including virtual group facilitation and virtual client communication](../claims/virtual-care-niche-communication-competencies.md) [+M] — an instructional effect differs with it
+- [No statistically significant difference in nurses' VP-case CPD scores between urban and rural workplaces across all four illness areas](../claims/no-urban-rural-difference-vp-case-scores.md) [-M] — learners who differ on it differ in outcomes
+- [Post-intervention EBP knowledge differed by workplace and years of experience but not by age, sex, or academic qualification](../claims/ebp-knowledge-workplace-experience-differences.md) [+M] — learners who differ on it differ in outcomes
+- [Post-intervention EBP skills differed by age, workplace, and years of experience but not by sex](../claims/ebp-skills-age-workplace-experience-differences.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

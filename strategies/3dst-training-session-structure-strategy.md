@@ -52,6 +52,7 @@ The article's training recipe pairs a short didactic introduction with self-pace
 ## Related Strategies
 
 - [Show a video of the simulated procedure before hands-on simulation](presimulation-procedure-video-strategy.md)
+- [Combine instructional video viewing with hands-on practice on a 3D-printed procedure-specific model before live performance](video-plus-3d-printed-model-training-strategy.md)
 
 ## Examples
 -

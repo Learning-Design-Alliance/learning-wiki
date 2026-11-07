@@ -58,3 +58,4 @@ Farah T, Besbes H, Ajmi H, Zayani S, Chemli J, Chouchane S. (2026). Comparing vi
 - [Total BLS skill retention scores remain stable across two weeks, two months and one year after training](total-bls-scores-stable-across-retention-intervals.md) — related
 - [One-time educational interventions show transient effects, with knowledge and performance declining within months of initial training](one-time-education-transient-effects-infection-control.md) — possibly the same claim (merge candidate)
 - [Skill scores decline within seven days after video-based acquisition, while self-study after an initial low score raises performance](skill-decline-seven-days-after-video.md) — related
+- [Technical skill in ascites puncture is maintained or improved at 3 months after simulation training, with median grid scores rising from 7 to 8 out of 10](simulation-ascites-puncture-three-month-skill-retention.md) — related

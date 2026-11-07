@@ -58,3 +58,5 @@ Descriptive safety outcome of the feasibility RCT. The article reports "3 partic
 - [Physical symptoms such as dizziness and nausea are common during VR MCI training and can degrade training quality for some users](vr-mci-training-physical-symptoms.md) — related
 - [Cybersickness (dizziness and headaches) occurs more frequently with VR or image-rich MR than with standard MR, favouring MR and shorter, well-designed HMD sessions](cybersickness-more-frequent-vr-than-standard-mr.md) — a broader claim this one bears on
 - [Simulator sickness shows significant gender differences in VR trauma simulation acceptance, with women more susceptible to nausea and dizziness.](vr-simulator-sickness-gender-differences.md) — related
+- [The 3D VR mode of RiNeo MR caused no simulator sickness: subjects reported discomfort levels of 1 or lower out of 3 on all SSQ symptoms](rineo-3d-no-simulator-sickness.md) — related
+- [VR simulation training is well tolerated, with most participants reporting no or only mild adverse symptoms](vr-training-mild-or-no-adverse-reactions.md) — a broader claim this one bears on

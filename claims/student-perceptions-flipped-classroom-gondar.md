@@ -50,3 +50,5 @@ Descriptive survey of the 50 flipped classroom students using a validated 5-poin
 - [Iraqi EFL learners held predominantly positive attitudes toward flipped classroom instruction](positive-learner-attitudes-fci-iraq.md) — related
 - [Most experimental students reported the design-thinking flipped classroom enhanced knowledge comprehension and comprehensive abilities without increasing learning burden](dt-flipped-perceived-gains-no-burden.md) — related
 - [Students perceived the flipped classroom as more interactive and thought-provoking but rated teachers as less helpful and called preparation time-consuming](fc-student-perception-interactive-time-consuming.md) — related
+- [After two flipped sessions, nearly 80% of students reported developing multiple abilities, with pre-existing learning pain points reportedly addressed](dt-flipped-students-report-multiple-ability-gains.md) — related
+- [Flipped-group students perceived the approach positively for class preparation and confidence, though some remained unsure about preferring pre-recorded over live lectures](flipped-learning-positive-perceptions-haematology.md) — related

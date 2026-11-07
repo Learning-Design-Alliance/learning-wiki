@@ -63,3 +63,4 @@ Between-subjects experiment comparing diagram completion plus self-assessment (n
 - [Teachers' monitoring accuracy is higher in the name+diagram condition than in the diagram-only condition, opposite to the blinding hypothesis](teacher-monitoring-accuracy-higher-name-plus-diagram-than-diagram-only.md) — related
 - [In-between explaining did not improve metacomprehension accuracy relative to other conditions in either experiment](no-metacomprehension-accuracy-effect-in-between-explaining.md) — related
 - [Argument diagramming tools increase relevant citations and opposing evidence in college writing, with domain-specific diagrams adding citation validity](argument-diagramming-increases-citations-opposing-evidence.md) — related
+- [Adding weekly follow-up emails with case studies did not improve diagnostic accuracy beyond the GBL session alone](gbl-followup-emails-no-benefit.md) — a narrower finding that bears on this claim

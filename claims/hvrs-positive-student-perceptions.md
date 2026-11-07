@@ -62,3 +62,4 @@ A 10-item 5-point Likert questionnaire developed by the authors and administered
 - [Pair-trained students reported higher confidence in their performance but perceived the procedure as less challenging than solo-trained students](qcm-confidence-challenge-pair-training.md) — related
 - [Perceptions of VR training do not differ significantly between preclinical and clinical dental students](vr-perception-similar-across-cohorts.md) — related
 - [Most VR-group students reported satisfaction with the course and improved security and confidence in clinical diagnosis](vr-students-satisfaction-confidence-survey.md) — related
+- [Students reported the application increased self-confidence before meeting real patients and supported case-solving ability](mobile-vp-qualitative-confidence-case-solving.md) — related

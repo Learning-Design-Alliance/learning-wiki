@@ -47,6 +47,7 @@ Because engagement declined as the term progressed and seminar-linked videos wer
 
 - [Sequence self-directed e-learning before interactive PBL case seminars so seminars build on an established theoretical foundation](elearning-before-pbl-case-seminars-sequence.md)
 - [Adopt a guided hybrid homework approach when seminar time is limited for cartooning](guided-hybrid-homework-cartooning.md)
+- [Anchor voluntary case-based e-learning in exam relevance and repeatedly reference it in in-person teaching](exam-relevance-and-repeated-referencing-strategy.md)
 
 ## Examples
 -

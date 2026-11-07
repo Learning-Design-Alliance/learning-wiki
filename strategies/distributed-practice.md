@@ -87,6 +87,7 @@ Distributed practice is one of the most robust findings in learning science: spa
 - [Select feedback technology to match the learner population, setting and learning objective, and reinforce with spaced booster training](match-feedback-device-to-context-plus-booster-training.md)
 - [Provide short, distributed booster sessions during the early clinical phase to consolidate instrumentation competence](distributed-booster-sessions-early-clinical-phase.md)
 - [Use repeated practice sessions with structured feedback to develop preclinical rest seat preparation skills](repeated-practice-sessions-rest-seat-skills.md)
+- [Spread time-limited skills courses over several days in shorter sessions rather than massing practice on one day](spread-skills-courses-over-several-days-strategy.md)
 
 ## Examples
 - **Anki / spaced-repetition flashcards** ([https://apps.ankiweb.net](https://apps.ankiweb.net)) — implements expanding-interval scheduling for vocabulary, medicine, and law study; used widely in medical education.

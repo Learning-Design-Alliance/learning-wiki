@@ -75,3 +75,4 @@ The review reports, citing Shute and Ke (2012) and Wouters et al. (2013), that f
 - [Peer observation and structured debriefing are perceived by students as key opportunities for reflection and learning during simulation](debriefing-peer-observation-reflection.md) — a narrower finding that bears on this claim
 - [Students report high satisfaction and perceived applicability of the Puzzle activity for learning consolidation](puzzle-high-satisfaction-perceived-applicability.md) — a narrower finding that bears on this claim
 - [Medical students valued debriefing sessions after VR training as key opportunities for reflection and consolidating learning](debriefing-valued-reflection-consolidation-vr.md) — related
+- [Debriefing is a critical component of learning in simulation-based education, consistent with prior randomized trials of observer versus active roles](debriefing-critical-component-simulation-learning.md) — a narrower finding that bears on this claim

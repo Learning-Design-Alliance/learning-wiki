@@ -55,3 +55,4 @@ Mediation analysis (Process add-on in SPSS, bootstrapping set at 5000 cycles) wi
 - [Verbal reasoning is directly related to fifth-grade fraction skills over and above arithmetic skills](verbal-reasoning-directly-related-fraction-skills.md) — related
 - [Academic vocabulary, verbal reasoning, nonverbal reasoning, and working memory directly predict sixth-grade geometric and fraction skills](advanced-linguistic-direct-effects-geometry-fractions.md) — related
 - [Phonological skills and naming speed indirectly predict sixth-grade geometric and fraction skills via arithmetic skills in both DLD and TD children](phonological-naming-speed-indirect-via-arithmetic.md) — related
+- [Verbal and visuospatial working memory are indirectly associated with mathematics achievement via number fact knowledge, calculation skills, algebra and geometry](wm-indirect-effects-via-four-math-components.md) — related

@@ -50,3 +50,4 @@ The review's synthesis of included studies reports that "Some control groups als
 - [Pre-training educational video review improved simulator scores and shortened the learning curve but temporarily increased completion time](video-review-improves-scores-plateau-earlier.md) — related
 - [Stepwise task progression was reported in five of ten included studies and identified as important for skills training](stepwise-task-progression-in-dp-sbst.md) — related
 - [Performance in the VR suture training improved with practice repetitions but reached a plateau after 2 to 4 practices](vr-suture-practice-plateau.md) — related
+- [Residents reached the expert benchmark on small-intestine suturing after a median of 11 repetitions, with a plateau after roughly 11 repetitions](rostrac-learning-curve-suturing-plateau.md) — related

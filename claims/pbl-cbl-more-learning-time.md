@@ -46,3 +46,4 @@ Results section reporting the free time consumption item of the anonymous questi
 
 ## Related Claims
 - [The PBL-CBL group achieved significantly higher total post-course test scores than the traditional LBL group in fundamental nursing](pbl-cbl-higher-total-test-scores-anaphylactic-shock.md) — related
+- [PRI-E consumed more student spare time than LBL, which may have reduced satisfaction](pri-e-spare-time-cost.md) — related

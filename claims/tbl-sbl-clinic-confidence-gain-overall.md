@@ -50,3 +50,4 @@ Voluntary pre/post self-rating survey (20 questions, 5-point Likert, CBOS-derive
 - [Final-year SLP students' knowledge of infant feeding observation skills rose significantly from pre-test to post-test after the integrated TBL-SBL clinic, in one group with no comparison group (n = 40)](tbl-sbl-clinic-knowledge-gain-whole-class.md) — related
 - [A mannequin-based dysphagia simulation lab significantly improves third-year speech-language therapy students' overall pre-post ratings of attitudes and perceived confidence](simulation-improves-dysphagia-confidence-ratings.md) — related
 - [Six of eight survey items improve significantly from pre- to post-simulation, with the highest post-rating on feeling competent to assess dysphagia](six-of-eight-items-significant.md) — related
+- [Participants rated the cross-border simulation training more positively after attending than before](post-training-rating-more-positive.md) — related

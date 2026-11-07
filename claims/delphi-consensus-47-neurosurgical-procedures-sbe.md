@@ -55,3 +55,4 @@ The third-round survey of the modified Delphi process, completed by 31 KOLs, "re
 - [The ICO-OCEX achieved strong content validity through a modified Delphi technique with expert consensus on all 33 items](ico-ocex-content-validity-delphi-consensus.md) — related
 - [Patient positioning with pinning and flap design, ICP probe insertion, and EVD insertion were ranked the three highest-priority procedural skills for neurosurgical SBE](top-three-neurosurgical-sbe-skills-positioning-icp-evd.md) — a narrower finding that bears on this claim
 - [The Delphi panel selected 15 situations as starting points for priority use in emergency medicine residency simulation scenarios](delphi-selected-15-ssps-priority-simulation-scenarios.md) — related
+- [A two-step needs assessment (faculty nomination then intern prioritization) identified 15 common diseases for the mobile curriculum](faculty-intern-needs-assessment-15-diseases.md) — related

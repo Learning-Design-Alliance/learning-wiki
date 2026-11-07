@@ -52,3 +52,4 @@ Correlational analysis in the same cross-sectional survey of 160 dental students
 - [No categorical demographic variable was significantly related to AMS opinion scores, and no participant scored Poor on any AMS measure](null-opinion-associations-no-poor-scorers-ams.md) — related
 - [Objective knowledge and self-perceived clinical confidence show a weak negative correlation (r = -0.201) among dental interns](negative-knowledge-confidence-correlation-veneers.md) — related
 - [Knowledge scores are positively associated with self-reported screening and counselling practice among dental interns](knowledge-practice-association-dental-interns-opmd.md) — related
+- [Knowledge scores show no significant correlation with attitude or communication performance in any group](knowledge-no-correlation-attitude-performance.md) — reports the opposite

@@ -60,3 +60,5 @@ In the reduced final structural equation model (fit: Chi²[4] = 0.75, p = .95), 
 - [Kindergarten phonological awareness explains about 34% of the variance in basic numerical skills (QNC Level I) one year later](phonological-awareness-predicts-qnc-level-i.md) — related
 - [Spatial ability predicts algebra word problem performance above and beyond its general relation to mathematics ability](spatial-predicts-algebra-word-problems-specifically.md) — related
 - [Baseline visuospatial ability independently predicted final camera navigation and hand–eye coordination performance](baseline-visuospatial-ability-predicts-laparoscopic-performance.md) — related
+- [Visuospatial WM independently predicts all five specific mathematical components, while verbal WM independently predicts only algebra](vswm-predicts-all-components-verbal-wm-algebra-only.md) — related
+- [Verbal and visuospatial working memory are indirectly associated with mathematics achievement via number fact knowledge, calculation skills, algebra and geometry](wm-indirect-effects-via-four-math-components.md) — related

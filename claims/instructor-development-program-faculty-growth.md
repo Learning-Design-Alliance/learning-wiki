@@ -47,3 +47,4 @@ Descriptive institutional analysis using training logs reported that after the S
 ## Related Claims
 - [Stakeholders call for expanded investment and faculty development (administrators), intensified instructor training and standardized processes (instructors), and better scheduling and methods (learners)](stakeholder-suggestions-improve-sbme.md) — related
 - [The main obstacles to perioperative SBME are shortages of training space, simulators, and faculty, with tertiary hospitals reporting more severe shortages](sbme-obstacles-space-simulator-faculty-shortages.md) — related
+- [Faculty called for a repository mapped to national learning-outcome standards, faculty development programs, and better promotion of the portal](faculty-development-and-mapped-repository-needs.md) — related

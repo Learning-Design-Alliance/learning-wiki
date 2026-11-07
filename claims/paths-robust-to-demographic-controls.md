@@ -55,3 +55,4 @@ Robustness SEM with control variables in the same 547-student sample; the model 
 - [The six-path specification was structurally incomplete: exploratory direct paths from PNT to ACS, SRL, and CT improved fit beyond the hypothesised model](six-path-model-structurally-incomplete-exploratory-pnt-paths.md) — related
 - [CVT structural relations are largely stable across gender and prior-education groupings, supporting relative universalism under variable-centered tests](cvt-invariant-across-demographic-groupings.md) — related
 - [In the PLS inner model, maternal judgement has the largest significant path coefficient to interaction, and all six paths are significant](pls-inner-model-significant-paths-judgement-strongest.md) — related
+- [The mediation pattern from online class-related enjoyment to achievement is moderated by gender but not by major or grade](gender-moderates-enjoyment-mediation-pattern.md) — related

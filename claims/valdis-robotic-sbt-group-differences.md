@@ -58,3 +58,4 @@ Randomized controlled trial reported in the review: 40 surgical trainees with fe
 - [VR-training group achieves higher GEARS-assessed basic robotic surgical skill than untrained controls (24.91 ± 3.36 vs. 19.68 ± 3.07)](dvss-vr-training-higher-gears-scores.md) — related
 - [All medical students significantly improved endoscopic forceps time-trial performance from the first to the second half of two-week dry laboratory training](all-students-improved-forceps-skills-repeated-practice.md) — related
 - [VR simulator training improves laparoscopic surgical speed and accuracy compared with traditional training, per the review's cited study](vr-laparoscopic-training-speed-accuracy-review.md) — related
+- [VR and physical simulators show skill transferability and an additive effect when used together in urological training](vr-physical-simulator-skill-transferability-additive.md) — related

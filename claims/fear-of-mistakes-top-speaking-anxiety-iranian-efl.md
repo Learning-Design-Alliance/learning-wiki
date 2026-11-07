@@ -58,3 +58,4 @@ Questionnaire survey of 154 EFL learners in English language institutes in Shira
 - [EFL learners rank speaking as the skill most urgently needing improvement, with pragmatic routines the top speaking sub-skill](efl-learners-rank-speaking-and-pragmatic-routines-top-needs.md) — related
 - [Test anxiety is the highest FLCA component, followed by communication apprehension and fear of negative evaluation](flca-component-ranking-test-anxiety-highest.md) — related
 - [Collaboration and private speech fostered a supportive classroom climate](sct-tblt-classroom-climate.md) — related
+- [Before the flipped classes, students reported specific learning pain points including fear of public speaking, unfamiliarity with the method, and PPT-making difficulty](dt-flipped-pre-survey-pain-points.md) — related

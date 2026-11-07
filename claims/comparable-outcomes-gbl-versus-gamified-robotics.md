@@ -72,3 +72,4 @@ Syed Tanzim Mubarrat, Byung-Cheol Min, Tianyu Shao, E. Cho Smith, Bedrich Benes,
 - [Formal learning context is a significant positive predictor of whether a robotics study reports quantifiable learning gains](formal-context-predicts-learning-gains-robotics.md) — related
 - [Motivational outcomes are the most consistently positive dimension across AI-GBL studies](ai-gbl-motivation-most-consistent-outcome.md) — related
 - [Proportions of significant CT gains vary by instructional approach, but approach alone does not determine effectiveness](instructional-approach-alone-does-not-determine-ct-effectiveness.md) — related
+- [Participants rated GBL positively: most would recommend it, found it enjoyable, and believed it improves test interpretation](gbl-positive-perceptions.md) — related

@@ -69,3 +69,5 @@ Self-reported supervisor assistance frequency from 454 trainees, dichotomized as
 - [Completion rate increased from 43% to 100% in the ultrasound-guided phase, a large but statistically non-significant difference](us-guided-completion-rate-100-vs-43-non-significant.md) — related
 - [Both EM residents and PGY trainees reported significantly lower procedural stress with ultrasound guidance](lower-stress-with-us-guidance-both-groups.md) — related
 - [Female trainees using AR-US identified insertion-site anatomy and located the IJV faster than male trainees using AR-US](ar-us-female-faster-anatomy-identification.md) — related
+- [Ultrasound-guided PIV placement required significantly fewer sticks than the anatomy approach](us-guided-piv-fewer-sticks.md) — a narrower finding that bears on this claim
+- [Ultrasound-guided PIV attempts by trained nurses succeeded more often than anatomy-based attempts (77.4% vs 35.9%)](us-guided-piv-higher-success-than-anatomy.md) — related

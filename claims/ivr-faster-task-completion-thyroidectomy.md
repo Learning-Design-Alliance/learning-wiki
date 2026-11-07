@@ -47,3 +47,4 @@ In the same randomized trial, task completion time from neck incision to C-IONM 
 ## Related Claims
 - [Immersive VR training yields higher overall OSATS scores than textbook-and-video training in thyroidectomy steps, driven by knowledge of instruments and flow of operation](ivr-training-higher-osats-thyroidectomy.md) — related
 - [Coronary anastomosis simulation training is associated with faster task completion than no formal simulation training](simulation-improves-coronary-anastomosis-time.md) — a broader claim this one bears on
+- [Time to complete the operating room set-up tasks did not differ between IVR and e-learning groups](no-time-difference-ivr-e-learning-setup.md) — related

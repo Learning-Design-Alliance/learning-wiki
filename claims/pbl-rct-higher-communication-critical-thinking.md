@@ -67,3 +67,5 @@ These four outcomes (problem-solving, self-directed learning, communication skil
 - [Students receiving simulation-based education rate the teaching higher than traditionally taught students for learning interest, imaging thinking, teamwork, and communication skills](sbe-higher-ratings-nontechnical-domains.md) — related
 - [FC-TBL students reported greater perceived gains in independent learning, teamwork, thinking, communication and problem-solving than LBL students](fc-tbl-perceived-competency-gains.md) — related
 - [Dietetic students in PBL perceived stronger thinking, problem-solving, communication and collaborative-learning skills than didactically taught students](pbl-dietetic-students-perceived-skill-gains.md) — related
+- [Staff rated PRI-E higher for student ability development and teacher-student bonds, with no difference in teaching load](pri-e-staff-ratings-bonds.md) — related
+- [Students rated PRI-E higher than LBL on ability development including critical thinking, presentation skills and interpersonal relationships](pri-e-student-ability-development-ratings.md) — related

@@ -50,3 +50,4 @@ Cumulative error scores over all five attempts were compared with the Mann–Whi
 - [3D VR acclimatisation reduces simulator penalty scores versus 2D video, with task-level effects mixed](3d-vr-reduces-penalty-scores.md) — related
 - [3D VR video acclimatisation improves overall robotic simulator performance among novices compared with 2D video](3d-vr-acclimatisation-improves-simulator-performance.md) — reports the opposite
 - [Both 3D and 2D groups improve on efficiency parameters with repeated attempts, with no differential learning-curve benefit from 3D](both-groups-improve-over-attempts-no-interaction.md) — related
+- [With curved instruments, 3D visualization benefits PEG Transfer performance only at early test times, with no difference in errors](3d-peg-transfer-early-advantage-curved.md) — related

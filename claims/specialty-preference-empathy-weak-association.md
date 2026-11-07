@@ -48,3 +48,4 @@ Synthesis of the nine cross-sectional studies that investigated a possible relat
 ## Related Claims
 
 - [Empathy levels among medical students show equivocal trajectories across educational years, with significantly lower levels reported in 14 of 30 studies and higher, mixed or unchanged levels in the remainder](medical-student-empathy-trajectory-equivocal.md)
+- [Medical students with high empathy tend to prefer people-oriented specialties, though findings are mixed](high-empathy-people-oriented-specialty-preference-mixed.md) — reports the opposite

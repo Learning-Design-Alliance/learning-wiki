@@ -77,3 +77,4 @@ Xu Shuzi, Chen Yiyang, and Wu Juanjuan. (2025). Practical Exploration of Medical
 - [Preventive medicine students taught with case-based learning scored higher on the final exam (77.62) than traditionally taught peers (69.2)](cbl-higher-final-exam-preventive-medicine.md) — related
 - [Students in the PBL-online group had significantly higher grade point averages in their internship semester than the traditional group, but the two groups were not equivalent at baseline](pbl-online-group-gpa-difference.md) — related
 - [Students' final comprehensive evaluation grade averaged 78.38 ± 7.12 under the O-AMAS blended course](oamas-final-comprehensive-grade-78.md) — related
+- [Overall course grades showed no significant difference between the flipped-design 2021 cohort and the 2020 cohort, despite a slight improvement](dt-flipped-overall-course-grades-no-significant-difference.md) — related

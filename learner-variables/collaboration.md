@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 170 claims (134 show a difference, 25 mixed, 11 no difference) · 145 studies (56 causal, 29 review, 23 qualitative, 11 quant-synthesis, 10 associational, 10 design, 6 theoretical), `q1`–`q3` · 11 of 145 report an effect size · 170 claims rest on one study
+> **Evidence** · 177 claims (139 show a difference, 27 mixed, 11 no difference) · 151 studies (59 causal, 29 review, 23 qualitative, 12 design, 11 quant-synthesis, 11 associational, 6 theoretical), `q1`–`q3` · 13 of 151 report an effect size · 177 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -212,6 +212,13 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [The 7E instructional model raised self-regulated learning ability in nursing probation students, with gains in motivation, cooperation and information literacy but no significant difference in independent learning ability](../claims/7e-model-self-regulated-learning-nursing.md) [+M] — measured as an outcome of the instruction studied
 - [The combined number of all five targeted teamwork events rose from before to after in situ simulation training in one uncontrolled pre-post study, without reaching statistical significance](../claims/total-teamwork-events-nonsignificant-increase.md) [-M] — measured as an outcome of the instruction studied
 - [Overall teamwork and team communication ratings on the Clinical Teamwork Scale rose from pre-test to post-test in pediatric interprofessional teams after a simulation-based CRM workshop, in one uncontrolled pre-post study](../claims/simulation-crm-workshop-improves-cts-teamwork-communication.md) [+M] — measured as an outcome of the instruction studied
+- [Frustrations with group work, especially unequal participation, recurred in every year group](../claims/groupwork-unequal-participation-frustration.md) [+M] — measured as an outcome of the instruction studied
+- [High-fidelity simulation training produced higher team skills scores than interactive video-case training on the Mayo High Performance Teamwork Scale](../claims/hfs-higher-team-skills-score.md) [+M] — measured as an outcome of the instruction studied
+- [Improved clinical thinking skills correlate strongly with improved teamwork skills after Stop the Bleed training (R = 0.82)](../claims/clinical-thinking-teamwork-correlation-stb.md) [+M] — measured as an outcome of the instruction studied
+- [PTEBL-based Stop the Bleed training produces greater self-reported improvement in teamwork skills than traditional teaching (94.8% vs 81.6%, P = 0.011)](../claims/ptebl-improves-teamwork-skills-stb.md) [+M] — measured as an outcome of the instruction studied
+- [Self-assessed team performance reached a TEAM score of 39 ± 5.3 and a global rating of 8.2 ± 2.0, indicating good bilingual teamwork](../claims/team-score-good-bilingual-teamwork.md) [+M] — measured as an outcome of the instruction studied
+- [Students are polarised on whether CBL improved teamwork: 8.2% strongly agree while 31.6% strongly disagree](../claims/cbl-teamwork-perceptions-polarised.md) [~M] — measured as an outcome of the instruction studied
+- [Teamwork knowledge improved only minimally after either debriefing method, with a significant but small pre-post gain in the TRD group and a non-significant gain in the RCDP group](../claims/teamwork-knowledge-small-pre-post-gains.md) [~M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

@@ -50,6 +50,7 @@ This strategy responds to the finding that restrictive laboratory hours block se
 
 - [Design training rotas with consistent, protected time for access to robotic simulators for skill progression](protected-simulation-time-robotic-training-rotas.md)
 - [Integrate SSL into the nursing curriculum by blocking out dedicated time slots and attaching credits to its utilisation](integrate-ssl-curriculum-time-slots-credits.md)
+- [Schedule flexible online learning with weekend and evening sessions to support participation alongside clinical training](flexible-online-scheduling-weekend-evening-sessions.md)
 
 ## Examples
 -

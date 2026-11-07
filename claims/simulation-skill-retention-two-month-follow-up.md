@@ -74,3 +74,4 @@ RCT of 120 medical and nursing students comparing VR with live simulation, asses
 - [LP skill retention at 3 months is comparable between VR-supplemented and conventional training groups, with skills declining in both groups](lp-skill-retention-comparable-three-months.md) — related
 - [VR simulator performance of interventional radiologists improved significantly from pretest to posttest on all outcome measures in both test cases, except contrast volume in case 1](vr-simulator-performance-improves-after-thrombectomy-training.md) — related
 - [Small post-test to follow-up declines in knowledge, skills, and overall competence are not statistically significant in either group](post-to-retention-declines-not-significant.md) — related
+- [Non-technical skill gains from simulated crisis scenarios with debriefing are retained for at least two months](debriefing-skill-gains-retained-two-months.md) — related

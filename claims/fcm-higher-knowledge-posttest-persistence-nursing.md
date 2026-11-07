@@ -55,3 +55,4 @@ Controlled quasi-experiment with 71 first-year nursing students (35 experimental
 - [Flipped classroom combined with active-learning activities yields higher pooled exam scores than flipped classroom with minimal discussion in introductory A&P](flipped-active-learning-higher-pooled-exam-scores-ap.md) — related
 - [Puzzle-based teaching substantially increases nursing students' knowledge test scores compared with lecture-only instruction](puzzle-teaching-increases-nursing-knowledge.md) — related
 - [Students in the flipped classroom group scored higher on the final theory exam than lecture-group students (8.2 ± 0.7 vs 7.0 ± 0.8)](flipped-classroom-higher-theory-exam-scores-endodontics.md) — related
+- [Nursing students taught with the flipped classroom model improved more in overall self-directed learning readiness than students taught with the conventional teaching method (p=0.030)](fcm-greater-sdlr-gain-than-ctm.md) — related

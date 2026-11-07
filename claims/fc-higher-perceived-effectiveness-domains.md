@@ -81,3 +81,4 @@ Anonymous three-point-scale questionnaires completed by both groups after the ob
 - [Residents in the Peyton's four-step and flipped classroom group reported greater improvement in learning interest than control group residents](peyton-flipped-greater-learning-interest.md) — related
 - [Flipped classroom students reported significantly higher engagement than traditional lecture students](flipped-classroom-higher-engagement-gondar.md) — related
 - [Intervention-group students perceived a moderate level of effectiveness of the flipped teaching classroom, rating logical thinking and application of knowledge highest](flipped-teaching-moderate-perceived-effectiveness.md) — related
+- [ADDIE-based flipped classroom training improved neurology residents' self-directed learning ability scores significantly more than traditional teaching](addie-flipped-classroom-self-directed-learning-neurology-residents.md) — related

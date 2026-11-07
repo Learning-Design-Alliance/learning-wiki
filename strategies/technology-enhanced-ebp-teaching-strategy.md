@@ -48,6 +48,7 @@ The review recommends that future studies take advantage of technology improveme
 - [Design EBP education that is multi‐modal, clinically integrated, and team‐based with mentorship and case‐based discussions](multimodal-clinically-integrated-team-based-ebp-education.md)
 - [Deliver worked examples through mobile learning applications to support independent physics study](mobile-delivery-of-worked-examples-strategy.md)
 - [Targeted educational interventions (lectures, smartphone applications, low-cost reminder tools) to improve trainee knowledge of screening ages and non-invasive modality follow-up](targeted-crc-screening-education-interventions.md)
+- [Internet-based application for post-discharge adherence reminders and health education](app-based-followup-adherence-support-strategy.md)
 
 ## Examples
 -

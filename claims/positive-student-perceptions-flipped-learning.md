@@ -75,3 +75,5 @@ Same questionnaire's lower-agreement items: adequate time to view videos (Q2, 78
 - [Over 90% of residents responded positively to most feedback items, but about 57% were neutral or negative on time required](snapps-feedback-positive-except-time-burden.md) — related
 - [Students reported positive perceptions of the e-LbC session, with 90% agreeing it improves future clinical reasoning and 62% satisfied overall](elbc-positive-student-perceptions.md) — related
 - [Teachers viewed the flipped classroom favourably overall but raised workload and student-preparation concerns, with experienced flipped teachers more receptive](fc-teacher-perception-workload-resistance.md) — related
+- [Iterative redesign between flipped sessions, informed by questionnaire feedback, shifted student perceptions toward a more supportive teacher role and higher participation](dt-iteration-between-sessions-improved-student-feedback.md) — related
+- [Flipped-group students perceived the approach positively for class preparation and confidence, though some remained unsure about preferring pre-recorded over live lectures](flipped-learning-positive-perceptions-haematology.md) — related

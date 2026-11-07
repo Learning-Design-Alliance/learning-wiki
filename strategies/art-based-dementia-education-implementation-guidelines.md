@@ -46,7 +46,8 @@ Drawing on its findings that artistic interventions were most effective, the rev
 - [Face-to-face and non-face-to-face formats both improve attitudes, but virtual formats show inconsistent outcomes](../claims/virtual-dementia-learning-inconsistent-outcomes.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Design targeted empathy training that reduces affective empathy and improves cognitive empathy within an appropriate range](targeted-empathy-training-reduce-affective-improve-cognitive.md)
 
 ## Examples
 -

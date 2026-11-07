@@ -49,3 +49,4 @@ LMM analysis of training performance in the RCT found the case-specific group sc
 - [Trainees rated both case-specific and generic-anatomy 3D-printed models highly for realism, planning, and preparedness despite objective transfer differences](high-perceived-realism-both-model-types.md) — related
 - [Correlation between training performance and cadaveric performance was non-significant and moderate in the case-specific group but very strong in the generic-anatomy group](training-cadaver-correlation-weaker-case-specific.md) — related
 - [A significant group–cadaver interaction indicates the effect of case-specific training varied across cadaver specimens](group-cadaver-interaction-anatomy-moderation.md) — related
+- [Adding cochlear implant VR simulation training to mastoidectomy VR training did not significantly improve cadaver dissection performance](ci-vr-training-no-significant-cadaver-transfer.md) — related

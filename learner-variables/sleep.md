@@ -13,7 +13,7 @@ generated:
 # Sleep
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 68 claims (40 show a difference, 22 mixed, 6 no difference) · 29 studies (13 associational, 10 causal, 5 review, 1 quant-synthesis), `q2`–`q3` · 11 of 29 report an effect size · 68 claims rest on one study
+> **Evidence** · 74 claims (44 show a difference, 22 mixed, 8 no difference) · 30 studies (14 associational, 10 causal, 5 review, 1 quant-synthesis), `q2`–`q3` · 11 of 30 report an effect size · 74 claims rest on one study
 
 ## Description
 Sleep is the period in which consciousness is suspended and the body and brain rest and recuperate. During sleep the brain consolidates memories, the body heals and recovers energy, and waste products of brain activity may be cleared. Its quantity, regularity and quality matter for nearly every aspect of cognition, as well as for physical and emotional well-being. When learners do not get enough good sleep, mood and cognitive skills suffer and focus is lost more easily. Sleep is measured with self-report and parent-report questionnaires on sleep habits, timing, quality and daytime sleepiness. The LVN treats it as relevant from pre-kindergarten to adulthood, and suggests extra cognitive supports, such as redirecting attention when a learner's mind wanders, for students who are short of sleep. It overlaps with [physical well-being](physical-wellbeing.md), of which adequate sleep is a part, and with [long-term memory](long-term-memory.md) through consolidation.
@@ -104,6 +104,12 @@ Sleep is the period in which consciousness is suspended and the body and brain r
 - [Excellent performers keep earlier weekday and weekend sleep schedules than Average performers](../claims/excellent-performers-earlier-sleep-schedules.md) [+M] — learners who differ on it differ in outcomes
 - [Both conventional and animated video education reduced uncertainty, anxiety, and improved sleep over time, with no baseline differences on these measures](../claims/both-education-forms-improve-patient-outcomes.md) [+M] — measured as an outcome of the instruction studied
 - [Simulated animated video education improved sleep quality more than conventional education in digestive endoscopy patients at post-education and one-month follow-up](../claims/animated-video-improves-sleep-quality-endoscopy.md) [+M] — measured as an outcome of the instruction studied
+- [A bedtime of 23:00 or later at age 3 is associated with lower first-grade math scores](../claims/age-3-late-bedtime-lower-math-scores.md) [+M] — learners who differ on it differ in outcomes
+- [Bedtime at 3 years of age is not associated with first-grade self-esteem](../claims/age-3-bedtime-not-associated-self-esteem.md) [-M] — learners who differ on it differ in outcomes
+- [Bedtimes of 22:00 or later at age 3 are associated with lower self-reported kindness in first grade](../claims/age-3-late-bedtime-lower-kindness-first-grade.md) [+M] — learners who differ on it differ in outcomes
+- [Later bedtime at 3 years of age is associated with lower first-grade national language scores](../claims/age-3-bedtime-lower-national-language-scores.md) [+M] — learners who differ on it differ in outcomes
+- [Later bedtime at 3 years of age is associated with lower self-reported diligence in first grade](../claims/age-3-late-bedtime-lower-diligence-first-grade.md) [+M] — learners who differ on it differ in outcomes
+- [Sleep duration at 3 years of age is not significantly associated with first-grade academic performance](../claims/age-3-sleep-duration-not-associated-academic-performance.md) [-M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Sleep Timing Questionnaire** (Monk et al., 2003): self-report of sleep-wake patterns on weekdays and weekends.

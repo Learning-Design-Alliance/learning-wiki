@@ -58,3 +58,4 @@ In final hierarchical regression models for the four grade 1 outcomes, "verbal w
 - [Symbolic number predictors account for substantial additional variance in grade 1 math outcomes beyond counting and domain general predictors](symbolic-number-r2-change-grade1-math.md) — related
 - [Working memory, processing speed, and verbal comprehension weaknesses are shared across reading and math deficits](shared-wm-speed-verbal-comprehension-rd-md.md) — related
 - [Different domain-general factors uniquely account for variation in different arithmetic skills](domain-general-factors-skill-specific.md) — related
+- [Visuospatial WM independently predicts all five specific mathematical components, while verbal WM independently predicts only algebra](vswm-predicts-all-components-verbal-wm-algebra-only.md) — related

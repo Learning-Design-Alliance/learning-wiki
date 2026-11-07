@@ -72,3 +72,4 @@ Cumulative link mixed modeling of highest credential earned among TECTA entrants
 - [No significant urban–rural difference in AI literacy scores, though the p-value approaches threshold](no-urban-rural-ai-literacy-difference.md) — related
 - [Rural youth report less access to internship opportunities than urban peers (38% vs. 55%)](rural-youth-internship-access-gap-38-vs-55.md) — reports the opposite
 - [PD knowledge gains varied by district type but not school level: suburban participants improved significantly while urban and rural participants and all three school levels did not](cybersecurity-pd-gains-district-type-school-level.md) — related
+- [No statistically significant difference in nurses' VP-case CPD scores between urban and rural workplaces across all four illness areas](no-urban-rural-difference-vp-case-scores.md) — related

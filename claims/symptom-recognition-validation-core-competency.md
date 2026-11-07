@@ -50,3 +50,4 @@ Qualitative finding from the focus groups and matrix analysis: given the lack of
 - [Stakeholders endorsed cautious use of exercise-based therapies in Long COVID management because of post-exertional malaise, which the article reports affects approximately 25% of people with Long COVID](pem-caution-exercise-based-therapies.md) — related
 - [Stakeholder groups differ in their conceptions of a good doctor, with patients emphasizing communication and doctors medical skills](stakeholder-differences-good-doctor-concept.md) — related
 - [Communication competencies centered on validation, trauma-informed care, and discussing prognostic uncertainty while preserving realistic hope](trauma-informed-communication-prognostic-uncertainty.md) — related
+- [Specific metaphor practices reduced effectiveness: stigmatizing prefaces, forced insertion, symptom-invalidating phrasing, and poor relatability or cultural fit](metaphor-use-challenges-contexts.md) — related

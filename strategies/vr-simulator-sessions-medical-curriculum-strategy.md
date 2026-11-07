@@ -58,6 +58,7 @@ The authors recommend raising students' exposure to interventional radiology thr
 - [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
 - [Use self-directed simulator practice as an adjunct to early colonoscopy training, with future curricula adding targeted instructor feedback](self-directed-simulator-adjunct-colonoscopy-training.md)
 - [Integrate VR simulation design with prebriefing, intuitive interfaces, adaptive difficulty, scenario variability, ergonomic hardware, and structured debriefing](vr-design-balance-usability-load-debriefing-strategy.md)
+- [Extend reusable VR simulations with progress bars, awards, and social interaction across repeated runs](add-progress-awards-social-interaction-reusable-vr.md)
 
 ## Examples
 -

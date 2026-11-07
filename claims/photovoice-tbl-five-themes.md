@@ -50,3 +50,4 @@ Qualitative component: semi-structured interviews with 10 of the 36 students, pu
 - [Interviews revealed six themes: enhanced efficiency, improved quality, facilitated reflection, increased interaction, improved collaboration, and concerns about over-reliance](gai-dst-interview-six-themes.md) — related
 - [A formative study with 7 students and 3 instructors identified five key challenges impeding exploratory learning in existing supply chain simulations.](five-barriers-exploratory-scm-simulation.md) — related
 - [Over 90% of nursing students agreed that Photovoice combined with team-based learning enhanced motivation, active participation, teamwork, and overall learning experience](photovoice-tbl-high-agreement-motivation-teamwork.md) — related
+- [Interview participants identified unsuitable teaching approaches, low engagement, and boredom as the main weaknesses of virtual education](virtual-education-weakness-engagement-boredom.md) — related

@@ -90,3 +90,4 @@ Theme 2 (learning from error) of the qualitative analysis. One participant said 
 - [Structured analytical (GAS) debriefing in MAES is perceived to support learning from errors without students feeling evaluated](structured-analytical-debriefing-learning-from-errors.md) — a narrower finding that bears on this claim
 - [Experienced simulation facilitators do not explicitly define what constitutes a mistake, alternating between 'severe' and 'minor' mistakes](facilitators-undefined-mistake-conceptions.md) — related
 - [Medical students most frequently describe actor simulations as creating a safe learning environment for practising doctor-patient communication](actor-simulations-safe-learning-environment.md) — a narrower finding that bears on this claim
+- [Small groups of 5–6 students and the absence of grading supported communication and reduced pressure during the simulation](small-groups-no-grading-euthanasia-simulation.md) — related

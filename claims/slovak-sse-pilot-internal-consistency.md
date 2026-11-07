@@ -49,3 +49,4 @@ Pilot test of the forward-and-backward translated Slovak SSE version among 168 f
 - [Questionnaire constructs showed acceptable to strong internal consistency (α = 0.740 to 0.945)](questionnaire-constructs-internal-consistency.md) — related
 - [The DIGISOC questionnaire shows acceptable validity and reliability, including CFA data and favorable Cronbach's alpha coefficients](digisoc-acceptable-validity-reliability.md) — related
 - [SSE subscales show excellent internal consistency in both language groups (omega and alpha 0.89–0.95)](sse-subscales-excellent-reliability-medical-students.md) — related
+- [RCDP trainees report higher satisfaction with debriefing and reflection, driving a higher overall SSE score, while confidence in independent operation does not differ](rcdp-higher-debriefing-reflection-satisfaction.md) — related
