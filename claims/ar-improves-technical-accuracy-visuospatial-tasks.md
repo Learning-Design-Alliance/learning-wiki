@@ -89,3 +89,6 @@ Prospective cohort study (n=8 neurosurgery residents) using Magic Leap One with 
 - [For lower-stakes basic skills, AR shows noninferiority rather than superiority over traditional instruction](ar-noninferiority-basic-skills.md) — related
 - [An augmented reality bracket navigation system enhanced bracket placement accuracy for novice orthodontists compared with a conventional method](ar-bracket-navigation-enhances-novice-placement-accuracy.md) — a narrower finding that bears on this claim
 - [Mixed reality surgical mentoring shows no benefit over audio guidance for combat casualty care procedures](mixed-reality-combat-casualty-null.md) — related
+- [After one drilling session, AR‐trained novices scored 19.5 on the Welling Scale, above the novice group score of 13.9 reported by Frithioff et al.](ar-group-19-5-exceeds-frithioff-novice-13-9.md) — related
+- [A single AR‐guided session on a 3D‐printed temporal bone yields higher overall mastoidectomy drilling scores than traditional training in medical students](ar-guided-session-higher-overall-welling-score.md) — a narrower finding that bears on this claim
+- [AR guidance significantly improves specific mastoidectomy subtasks including margins, sinodural angle, tegmen/ossicles, antrum/semicircular canal, and external auditory canal](ar-guided-significant-welling-subsections.md) — related

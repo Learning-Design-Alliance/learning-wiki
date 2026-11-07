@@ -70,3 +70,4 @@ Table 2 records, for study after study, "No follow-up cohort" or "No follow-up,"
 - [Peer-assisted ultrasound teaching can produce long-term retention of knowledge and skills](peer-teaching-long-term-retention-ultrasound.md) — reports the opposite
 - [Simulator-based training was more effective than traditional training at improving obstetric ultrasound performance, with large ANCOVA effect sizes](simulator-training-outperforms-traditional-training-obstetric-ultrasound.md) — related
 - [Acquired ultrasound skills decay without repeated practice, supporting longitudinal curricula and periodic re-assessment](ultrasound-skill-decay-longitudinal-curriculum.md) — related
+- [Encouraging mistakes during simulation-based obstetric ultrasound training produced better performance scores and improved transfer to clinical settings than error avoidance](encouraged-mistakes-better-simulation-transfer.md) — related

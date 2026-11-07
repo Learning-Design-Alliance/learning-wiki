@@ -48,3 +48,5 @@ Meta-analysis of six cohorts from three studies (Total No = 1,191) pooling stand
 - [After excluding the Dhok et al. (2023) outlier, students score significantly lower on VSAQs than MCQs](vsaq-scores-lower-than-mcq-outlier-removed.md) — related
 - [Flipped classrooms are associated with improved self-directed learning ability in medical education (pooled SMD = 2.54), but extreme heterogeneity precludes interpreting this as a uniform effect](flipped-classroom-self-directed-learning-ability.md) — related
 - [VSAQ assessments demonstrate strong discriminatory power between high- and low-performing students](vsaq-strong-discrimination-pooled-fishers-z-1-45.md) — related
+- [Final test question format has a significant main effect: students score lower on VSAQ-formatted final test questions than MCQ-formatted ones](final-test-format-main-effect-vsaq-lower.md) — reports the opposite
+- [Practice question format (VSAQ vs MCQ) shows no significant main effect on final retention test performance in a real-life health science course](no-practice-format-effect-on-retention-vsaq-mcq.md) — related

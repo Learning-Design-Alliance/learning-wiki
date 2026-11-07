@@ -17,7 +17,7 @@ sources:
 # Transfer-Appropriate Processing Account of Retrieval Practice
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 15 claims (9 for, 3 mixed, 3 against) · 11 studies (5 causal, 4 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 4 of 11 report an effect size · 14 claims rest on one study
+> **Evidence** · 16 claims (9 for, 3 mixed, 4 against) · 12 studies (6 causal, 4 quant-synthesis, 1 review, 1 qualitative), `q2`–`q4` · 4 of 12 report an effect size · 15 claims rest on one study
 
 ## Description
 Transfer-appropriate processing holds that performance is best when initial learning processing matches the processing required on a later final assessment. The chapter says it "provides a useful heuristic for explaining why practicing retrieval during learning should bolster long-term retention", illustrated by the need to practice a skill such as playing the violin.
@@ -54,6 +54,7 @@ Transfer-appropriate processing holds that performance is best when initial lear
 - [Transfer across response formats is incomplete: practicing terms benefited definition recall, but practicing definitions showed no overt-over-covert advantage on a term test](../claims/transfer-across-term-definition-formats-mixed.md) [+M]
 - [Word items transfer to Story items but Story items show no significant transfer to Word items in LCM practice](../claims/word-to-story-asymmetric-transfer.md) [+W]
 - [A motor skill learned from one point of view is best performed when the viewpoint during performance is the same](../claims/same-viewpoint-performance-film-motor-skill.md) [+W]
+- [No interaction between practice and final test question format: matching formats does not enhance the retrieval effect, challenging transfer-appropriate processing](../claims/no-format-interaction-challenges-tap.md) [-W] — attached 2026-11-07 from van Wijk EV et al. (2024), which proposed "Retrieval effort hypothesis and transfer-appropriate processing as competing accounts of question-format effects in retrieval practice"; tests this page's relationship.
 
 ## The evidence by question
 

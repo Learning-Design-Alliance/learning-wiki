@@ -50,3 +50,4 @@ Ward-type comparison within the 635-nurse survey. The null on general knowledge 
 - [Overall knowledge scores did not differ significantly by sepsis training level or highest qualification, with differences only at item level](no-overall-knowledge-score-group-differences.md) — related
 - [Shorter time since the last training is associated with higher general knowledge of nosocomial infections and higher self-assessed knowledge](recent-training-linked-to-higher-nosocomial-knowledge.md) — related
 - [Holding a specialization raises the odds of sufficient nosocomial-infection knowledge, while medical high-school and vocational education lower them](specialization-and-education-predict-nosocomial-knowledge.md) — related
+- [ICU nurses report targeted knowledge gaps in sepsis risk factors, screening tools, and infection-prevention strategies](icu-nurse-sepsis-knowledge-gaps.md) — related

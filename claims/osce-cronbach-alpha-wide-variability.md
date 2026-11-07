@@ -57,3 +57,4 @@ Descriptive synthesis of all 26 alpha values from 23 studies. The wide range (0.
 - [OSCE scores across three virtual-patient stations show low reliability (Cronbach's alpha 0.415)](vp-low-reliability-osce.md) — a narrower finding that bears on this claim
 - [Internal reliability (Cronbach's alpha) remained similar across the unmodified 2019 and the modified 2020 and 2021 OSCEs](osce-reliability-stable-across-modified-formats.md) — related
 - [A seven-station virtual OSCE showed Cronbach's alpha of 0.67 across stations, with no station deletion improving alpha](virtual-osce-cronbach-alpha-067.md) — a narrower finding that bears on this claim
+- [The OSCE performance measure showed acceptable internal consistency (Cronbach's alpha = 0.858)](osce-performance-measure-cronbach-alpha-0858.md) — a narrower finding that bears on this claim

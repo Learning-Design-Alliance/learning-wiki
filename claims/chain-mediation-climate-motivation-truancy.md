@@ -54,3 +54,4 @@ Bootstrap test of the chain pathway ASC→SC→AM→PT in the SEM of 628 medical
 - [Academic self-concept, school climate, and academic motivation correlate substantially with psychological truancy](correlations-four-study-variables.md) — related
 - [A serial chain through psychological state then behavioral engagement mediates exam success (10.8% of total effect)](serial-chain-psychological-state-behavioral-engagement.md) — a broader claim this one bears on
 - [Psychological state alone mediates the academic foundation–exam success relationship (21.9% of total effect)](psychological-state-direct-mediation-path.md) — related
+- [Learning environment perceptions and intrinsic motivation serially mediated the relationship between grading system and academic performance, while neither mediated it alone](serial-mediation-perceptions-then-motivation-grading-performance.md) — related

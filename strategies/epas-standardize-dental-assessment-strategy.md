@@ -48,6 +48,7 @@ The article recommends implementing EPAs so that dental schools can set consiste
 ## Related Strategies
 
 - [Tailor Angoff implementation to programme and assessment needs, using trained multi-disciplinary panels with consensus-building](tailor-angoff-implementation-context.md)
+- [Involve multiple institutions in standard-setting panels to broaden credibility of licensure examinations](multi-institution-standard-setting-panels.md)
 
 ## Examples
 -

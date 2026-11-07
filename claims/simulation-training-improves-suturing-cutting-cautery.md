@@ -53,3 +53,4 @@ Review of 3 studies measuring suturing, cutting, and cautery skills, finding "si
 - [Approximately 86.61% of trainees prioritize suturing and knot-tying practice as the most critical simulator training component](suturing-knot-tying-most-critical-component.md) — related
 - [Cumulative exposure (total simulation time and repetitions) shows no significant association with final suturing performance](exposure-not-associated-with-suturing-proficiency.md) — related
 - [Virtual simulation platform practice does not significantly improve simulator-based laparoscopic suturing and knot-tying performance](virtual-simulation-no-gain-suturing-knot-tying.md) — reports the opposite
+- [Physical simulator training improved suturing and knot-tying performance versus conventional methods in a cited randomized controlled trial](physical-simulator-suturing-knot-tying-rct.md) — a narrower finding that bears on this claim

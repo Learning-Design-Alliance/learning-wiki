@@ -49,3 +49,4 @@ Evaluation questionnaires completed by the 48 students at the final meeting. The
 - [Mindful-condition students completed fewer problem-solving steps and requested fewer hints per step than Cognitive-condition students](mindful-condition-fewer-steps-hints.md) — related
 - [System usability was rated low in both conditions, with no significant difference between them](low-usability-both-conditions.md) — related
 - [Field-tested IDSA prototype received moderate usability ratings: usage enjoyment highest, design and realization lowest](idsa-usability-ratings-enjoyment-high-design-low.md) — related
+- [Underperforming students rated role play highly useful and preferred open-book tests over closed-book tests in remediation feedback](students-rated-role-play-open-book-tests-useful-remediation.md) — related

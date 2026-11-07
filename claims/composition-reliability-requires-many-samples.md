@@ -48,3 +48,4 @@ Grade VIII reading study reliability analysis: composition (two written topics) 
 ## Related Claims
 - [Rate tests that mechanically control comprehension yield more reliable results than uncontrolled rate tests](comprehension-controlled-rate-tests-more-reliable.md) — related
 - [Comprehension strategy instruction shows a large overall effect, but reliability is undermined by few standardized measures](comprehension-strategy-large-effect-unreliable.md) — related
+- [At least 7–10 SETs per teacher are needed for reliable ratings, making SET feedback in small programs infrequent and unreliable](seven-to-ten-sets-needed-reliable-ratings.md) — related

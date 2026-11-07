@@ -13,7 +13,7 @@ generated:
 # Concrete Modeling
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 17 claims (8 for, 6 mixed, 3 against) · 12 studies (7 causal, 3 quant-synthesis, 2 review), `q1`–`q4` · 4 of 12 report an effect size · 17 claims rest on one study
+> **Evidence** · 18 claims (9 for, 6 mixed, 3 against) · 13 studies (7 causal, 3 quant-synthesis, 2 review, 1 qualitative), `q1`–`q4` · 4 of 13 report an effect size · 18 claims rest on one study
 
 ## Description
 Concrete modeling is the element in which physical or tangible representations are used to make abstract relationships visible.
@@ -40,6 +40,7 @@ Concrete modeling is the element in which physical or tangible representations a
 - [Novice trainees who trained on case-specific 3D-printed temporal bone models scored lower in subsequent cadaveric mastoidectomy than those who trained on generic-anatomy models](../claims/case-specific-3d-printed-training-lower-cadaver-transfer-novices.md) [~W]
 - [The case-specific model group outperformed the generic-anatomy group on the first 3D-printed training procedure, but scores were similar on the second procedure](../claims/first-training-procedure-advantage-case-specific-models.md) [~W]
 - [Most students rated the colored tooth and digital evaluation system positively, though only 60% endorsed the system's scoring fairness](../claims/positive-student-perceptions-colored-tooth-digital-evaluation.md) [+W] — attached 2026-11-06 from Zeng Yanglin et al. (2025), which proposed "Colored model tooth with red target region for Class II cavity preparation".
+- [3D printed bone models created opportunities for peer teaching, instructor modeling, and self-discovery during a clinical skills laboratory](../claims/3d-printed-models-classroom-interactivity.md) [+W] — attached 2026-11-07 from Lisk Kristina (2024), which proposed "De-articulated 3D printed shoulder bone models (clavicle, scapula, humerus) as clinical skills learning adjuncts".
 
 ## Related Elements
 - [Conceptual Overviews](conceptual-overviews.md)

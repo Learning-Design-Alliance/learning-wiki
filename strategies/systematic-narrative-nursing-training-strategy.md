@@ -52,6 +52,7 @@ The authors recommend that nursing managers advance narrative nursing skills thr
 - [Combined organizational-support, mentorship, simulation-based confidence-building, and workload-management interventions for new emergency and critical care nurses](four-part-support-intervention-new-critical-care-nurses.md)
 - [Integrate EI into health sciences curricula through structured experiential methods such as reflective journaling, simulation, peer mentoring, and structured debriefing](ei-experiential-curriculum-integration-strategy.md)
 - [Embed simulation-based scenarios into the curriculum as structured learning modules with guided debriefings and reflective exercises](simulation-modules-debriefing-strategy.md)
+- [Expand curriculum scope, increase hands-on practice time, and optimize scheduling in response to resident feedback](ultrasound-curriculum-feedback-driven-expansion-strategy.md)
 
 ## Examples
 -

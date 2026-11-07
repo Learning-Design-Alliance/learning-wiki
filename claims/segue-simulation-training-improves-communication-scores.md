@@ -57,3 +57,4 @@ Within-group paired comparisons in the RCT (AI-VSP n = 40, traditional SP n = 42
 - [Students' pre-course self-assessment of history-taking skills exceeds post-course self-assessment in all three groups](pre-course-self-assessment-higher.md) — related
 - [Both AI-trained and expert-tutor-trained physicians improved significantly on most performance metrics from pre- to post-training](both-training-methods-improve-bronchoscopy-performance.md) — related
 - [Mean performance scores showed no statistically significant difference between virtual and in-person assessment formats in a small comparison of students who completed both](virtual-equivalent-in-person-spanish-assessment.md) — related
+- [Within the SP group, specific reception skills improved significantly between the training day and two weeks later](sp-group-specific-skill-gains-first-two-weeks.md) — a narrower finding that bears on this claim

@@ -71,3 +71,4 @@ Same iterative procedure on experiment 2 data (23 students, 6 analyzable constra
 - [Theoretically defined test reliability computable from a single administration via parallel-half vector lengths and angle exceeds split-half reliability but falls below Cronbach alpha](single-administration-theoretical-reliability-vectors.md) — related
 - [An exam with low internal consistency cannot be used to verify peer assessment validity](low-reliability-exam-excluded-from-validity-check.md) — related
 - The three statistical techniques produce consistent diagnoses of constraint quality across two experiments — a broader claim this one bears on
+- [The FLAS shows acceptable internal consistency, with total Cronbach's alpha of 0.893](flas-reliability-cronbach-alpha-0893.md) — related

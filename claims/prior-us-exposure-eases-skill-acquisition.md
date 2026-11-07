@@ -46,3 +46,4 @@ Authors' interpretation (type e) drawn from the PA-versus-medical-student compar
 
 ## Related Claims
 - [PA students outperform first-year medical students on selected GRS categories and procedure time after the same cadaver cyst-draining simulation, attributed to prior clinical and ultrasound exposure](pa-students-outperform-medical-students-grs.md) — related
+- [Ultrasound simulation training improves cognitive and psychomotor skills, provides continuous immediate feedback, and enables standardized reproducible assessment](simulation-benefits-ultrasound-training.md) — related

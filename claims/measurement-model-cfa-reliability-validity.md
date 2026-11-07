@@ -61,3 +61,4 @@ CFA of the PIQNS, GeNTS, and WEANS in the 842-student sample, estimated by maxim
 - [The self-developed evaluation instrument showed high internal consistency across its three parts (Cronbach's α = 0.941, 0.973, 0.953)](self-developed-training-evaluation-instrument-reliability.md) — related
 - [The 29-item SCAS shows high internal consistency (Cronbach's alpha 0.960) with all item-total correlations above 0.3](scas-high-internal-consistency-alpha-960.md) — related
 - [The CKAPQ measurement model shows adequate construct validity, with composite reliability 0.729–0.848 and AVE 0.516–0.669 exceeding discriminant MSV values](ckapq-construct-validity-cr-ave.md) — related
+- [The FLAS shows acceptable internal consistency, with total Cronbach's alpha of 0.893](flas-reliability-cronbach-alpha-0893.md) — related

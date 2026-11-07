@@ -75,3 +75,5 @@ The review reports behavioural improvement "across study designs", with ratings 
 - [Introducing clearer communication routines, including regular team briefings and increased nurse involvement in meetings, addressed communication gaps between professional groups](communication-routines-team-briefings-improve-coordination.md) — related
 - [Training significantly improved self-efficacy in situation awareness and in communication and teamwork, but not task management](splints-training-component-specific-self-efficacy.md) — a narrower finding that bears on this claim
 - [PGY trainees' TEAM self-assessment identified situation monitoring and composure as weaknesses while team morale, leadership, and communication scored highest.](team-self-assessment-monitoring-composure-weaknesses.md) — related
+- [Closed-loop communication is rare in real-life trauma teams (3.6% of utterances) and significantly higher in simulation (7.7%)](clc-low-in-real-trauma-teams-higher-in-simulation.md) — related
+- [Trauma team training improves team-specific performance outcomes such as teamwork and task completion scores](ttt-improves-team-specific-outcomes.md) — related

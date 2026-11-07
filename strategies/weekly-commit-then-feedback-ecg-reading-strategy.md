@@ -47,7 +47,8 @@ The article recommends addressing competency gaps in ECG interpretation through 
 - [Pediatric cardiology trainees' ECG interpretations in pECGreview were generally correct in only 66.1% of responses, with a mean Accuracy score of 76.6 ± 13.7%](../claims/pecgreview-cohort-mean-accuracy-76-6-percent.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Provide well-designed, structured ECG training sessions for pediatric residents to fill competency gaps](structured-urgent-ecg-training-sessions-strategy.md)
 
 ## Examples
 -

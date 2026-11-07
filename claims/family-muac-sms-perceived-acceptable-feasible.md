@@ -51,3 +51,4 @@ Qualitative analysis of eight focus group discussions with 51 caregivers and 32 
 - [Baseline-only training was insufficient for sustained measurement accuracy; healthcare workers recommended refresher training](refresher-training-needed-for-muac-accuracy.md) — related
 - [Direct SMS communication with healthcare workers strengthened patient-provider relationships and trust](sms-communication-strengthens-patient-provider-relationships.md) — related
 - [Inconsistent MUAC measurements, negative social influences, and phone sharing compromised uptake, especially among low interactors](family-muac-uptake-barriers.md) — related
+- [Student observers report that local health worker involvement improved project participation rates and trust](local-health-workers-improved-participation-trust.md) — related

@@ -53,3 +53,4 @@ Resident survey results stratified by diagnosis (Fig. 3). Autonomy was "low (< 3
 - [Knowledge–confidence inverse pattern is strongest among paramedics and non-trained resident physicians](phtls-knowledge-confidence-subgroup-pattern.md) — related
 - [Accuracy on basic ECG electrophysiology items is high but drops sharply on complex patterns](ecg-basic-high-complex-low-accuracy.md) — related
 - [Interns recognize high-alarm ECG conditions well (STEMI 85.9%, ventricular fibrillation 84%) but perform poorly on nuanced abnormalities (second-degree block 41.8%)](ecg-pattern-recognition-high-alarm-versus-nuanced.md) — related
+- [Pediatric residents rarely correctly diagnose life-threatening emergent ECG conditions, with correct rates from 42.1% for long QTc syndrome down to 4.2% for hyperkalemia](pediatric-residents-low-emergent-ecg-diagnosis-accuracy.md) — related

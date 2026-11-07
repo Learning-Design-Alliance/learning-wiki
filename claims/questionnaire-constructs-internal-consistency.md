@@ -84,3 +84,4 @@ collaboration."
 - [A pilot of the Slovak SSE translation in 168 first-year students showed satisfactory internal consistency (α = 0.911 overall)](slovak-sse-pilot-internal-consistency.md) — related
 - [The ten-item ACLS simulation rubric shows overall Cronbach's alpha of 0.76](acls-rubric-cronbach-alpha-076.md) — related
 - [The final 20-item PHLCS shows high internal consistency and discriminant validity](phlcs-reliability-and-discriminant-validity.md) — related
+- [An 18-item, four-domain questionnaire shows good internal consistency and satisfactory construct validity for assessing student perception of MyDispense virtual simulation](validated-18-item-mydispense-perception-questionnaire.md) — related

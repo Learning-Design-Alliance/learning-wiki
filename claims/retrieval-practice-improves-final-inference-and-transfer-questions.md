@@ -116,3 +116,4 @@ The chapter reports Eglington and Kang (2016), who reused Tran et al.'s material
 - [Practice testing outperforms no-activity controls and restudy, with format and feedback moderators](practice-testing-superior-to-restudy.md) — related
 - [Addressing did not enhance transfer performance in study 1](addressing-no-transfer-effect.md) — related
 - [Comprehension gains appeared on main-idea and inference items but not on word-meaning-guessing items](item-level-gains-except-guessing-meaning.md) — related
+- [No interaction between practice and final test question format: matching formats does not enhance the retrieval effect, challenging transfer-appropriate processing](no-format-interaction-challenges-tap.md) — related

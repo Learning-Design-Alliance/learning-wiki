@@ -49,3 +49,5 @@ Systematic review synthesis of process indicators from before-and-after studies 
 - [NTS training in ICUs shows no significant changes in patient safety culture, length of stay or mortality rates](nts-training-icu-no-organizational-mortality-effect.md) — related
 - [Evidence that NTS training improves clinical or process outcomes in EDs is limited but generally favourable in single-centre studies, including shorter resuscitation times and improved protocol adherence (low to very low certainty).](nts-training-clinical-outcomes-limited-evidence.md) — related
 - [In one included study, simulation-based team training in a trauma bay was followed by a 16 percent reduction in total resuscitation time and faster completion of primary surveys.](steinemann-resuscitation-time-reduction.md) — related
+- [A mortality reduction from trauma training appeared only in the severe-injury subgroup, not overall](ttt-mortality-reduction-severe-injuries-subgroup.md) — related
+- [Trauma team training consistently shows no statistically significant improvement in patient mortality](ttt-no-patient-mortality-improvement.md) — related

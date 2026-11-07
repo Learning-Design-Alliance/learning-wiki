@@ -55,3 +55,4 @@ Paired t-tests in the pretest-intervention-posttest study with 23 middle school 
 - [Game Show availability did not affect tutor learning on either test](game-show-no-effect-tutor-learning.md) — related
 - [Tutoring after competition was rare and not predictive of procedural learning gains](low-tutoring-after-competition-not-predictive.md) — related
 - [Students improved procedural equation-solving skill after tutoring SimStudent, but conceptual understanding did not improve](tutoring-simstudent-improves-procedural-not-conceptual.md) — reports the opposite
+- [Knowledge questions on Gagne's model and deliberate practice improved after the workshop, but the small sample did not allow significance testing](gagne-deliberate-practice-questions-untested-improvement.md) — related

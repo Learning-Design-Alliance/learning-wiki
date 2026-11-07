@@ -58,3 +58,4 @@ Subscale analysis of the problem solution criterion: no occasion difference on t
 - [Polya Method students outscore Dahmus Method students on the equation criterion for verbal problems](polya-method-beats-dahmus-on-equation-criterion.md) — related
 - [Algebra ability level differences appear on both criteria with no treatment-by-ability interaction](ability-level-differences-verbal-problem-solving.md) — related
 - [Dahmus Method students translated phrases successfully but failed to combine them into a single solution equation](dahmus-students-translate-but-no-single-equation.md) — related
+- [Final test scores were significantly lower than practice test scores over retention intervals of three to six weeks in a single-group pre-test/post-test study with no comparison group](final-test-lower-than-practice-scores.md) — related

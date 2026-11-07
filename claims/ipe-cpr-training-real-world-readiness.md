@@ -50,3 +50,4 @@ Focus-group findings from the same qualitative study. A student noted neither pr
 - [Self-perceived confidence improved significantly across all ten surveyed pediatric CPR and interprofessional collaboration items (p < 0.001 each)](ipstar-confidence-gains.md) — related
 - [Students report that MAES places them at the center of CPR learning and increases perceived knowledge retention and integration](maes-learner-centered-knowledge-retention.md) — related
 - [Clinical instructors perceive SBE as developing multidisciplinary teamwork and communication skills currently missing in Malawian nursing and midwifery education](sbe-multidisciplinary-teamwork-skills.md) — related
+- [Stakeholders at a Ugandan medical school perceive interprofessional collaboration, mutual learning, and preparation for future teamwork as key facilitators of simulation-enhanced IPE](sim-ipe-significance-facilitator-uganda.md) — related

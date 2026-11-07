@@ -46,3 +46,4 @@ Authors' report of a prototype 3D-printed baseboard (Fig. 3) discussed as a futu
 
 ## Related Claims
 - [3DPAM production costs ranged from 1.25 to 2800 USD per model, and eleven studies concluded 3D printing costs less than plastinated or commercial models](3dpam-low-cost-feasibility.md) — a broader claim this one bears on
+- [The 3D‐printed temporal bone training model is inexpensive to produce (about 4 USD per model; printers from 300 USD)](3d-printed-temporal-bone-model-cost-4-usd.md) — related

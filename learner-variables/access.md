@@ -13,7 +13,7 @@ generated:
 # Access
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 112 claims (80 show a difference, 24 mixed, 8 no difference) · 87 studies (34 associational, 15 causal, 13 review, 8 qualitative, 7 design, 7 theoretical, 3 quant-synthesis), `q1`–`q4` · 7 of 87 report an effect size · 107 claims rest on one study
+> **Evidence** · 113 claims (80 show a difference, 24 mixed, 9 no difference) · 88 studies (34 associational, 16 causal, 13 review, 8 qualitative, 7 design, 7 theoretical, 3 quant-synthesis), `q1`–`q4` · 7 of 88 report an effect size · 108 claims rest on one study
 
 ## Description
 Whether a learner can perceive and operate the material at all: device, bandwidth, screen reader, captions, motor demands. Distinct from [digital literacy](digital-literacy.md), which is whether they can *drive* it. Access is binary in a way the other dimensions are not — a design that cannot be perceived does not teach less, it teaches nothing — which is why it is checked rather than optimised.
@@ -156,6 +156,7 @@ Whether a learner can perceive and operate the material at all: device, bandwidt
 - [Current institutional access to ultrasound equipment is associated with higher confidence, with access rates varying by institution type, while residency institution type shows no association with confidence](../claims/ultrasound-equipment-access-confidence.md) [~W] — learners who differ on it differ in outcomes
 - [Skill-based pharmacy learning (compounding, device counselling, OSCEs) faced validation, access, and transferability challenges when delivered remotely](../claims/remote-skill-based-learning-challenges-pharmacy.md) [+M] — measured as an outcome of the instruction studied
 - [Internet connectivity problems hindered remote learning and compounded student anxiety during high-stakes assessments](../claims/connectivity-problems-assessment-anxiety-remote.md) [+W] — learners who differ on it differ in outcomes
+- [Podiatric medical students with Osmosis access showed no statistically significant difference in final exam scores compared to a prior cohort without access](../claims/osmosis-access-no-significant-final-exam-difference.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

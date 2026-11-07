@@ -51,3 +51,4 @@ Qualitative interview finding from eighteen nurse educators at ten Ethiopian pub
 - [Time-consuming assessment and manual documentation plus heavy clinical workload were primary obstacles to implementing mini-CEX and DOPS](mini-cex-dops-time-burden-primary-obstacle.md) — related
 - [Key barriers to SBE implementation are lack of knowledge or training, lack of awareness of resources, limited time and resources, and limited institutional support](sbe-barriers-knowledge-time-institutional-support.md) — related
 - [Lack of PBL training opportunities leaves nurse educators without knowledge of the approach](pbl-training-opportunity-gap-ethiopian-nurse-educators.md) — related
+- [Dietetic students face specific challenges with PBL, particularly online: finding solutions, lack of in-person contact, scheduling, and interdisciplinary workload imbalances](pbl-challenges-dietetic-students-online.md) — related

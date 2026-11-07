@@ -69,3 +69,4 @@ Same Pearson correlation analysis (N = 120). The anxiety–evaluation link did n
 ## Related Claims
 - [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](pre-actional-components-predict-actional-regulation.md) — related
 - [Learning engagement dimensions correlate negatively with learning anxiety and positively with academic self-efficacy](engagement-anxiety-negative-correlations.md) — related
+- [Middle-grade students' e-learning performance correlates strongly with self-efficacy for learning and performance](middle-grade-self-efficacy-correlation.md) — related

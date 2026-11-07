@@ -68,3 +68,4 @@ Results section comparison across the three PISA subjects from the same decompos
 - [The mediated interaction between SES and growth mindset is small but positive (about 0.006), indicating only minimal moderation of the SES effect](mediated-interaction-ses-mindset-minimal.md) — related
 - [The proportion of the SES effect mediated by growth mindset varies across countries, reaching at most 0.11 in a few countries while most fall between 0 and 0.08](cross-national-variation-mindset-mediation-pisa.md) — related
 - [Teachers' mathematics anxiety is positively associated with the mathematics anxiety of their low-SES students via a teacher-anxiety-by-FARM interaction](teacher-math-anxiety-farm-interaction.md) — related
+- [The total effect of SES on educational achievement is positive, with the direct effect representing the majority (58-61%) of it](ses-total-direct-effect-achievement.md) — reports the opposite

@@ -64,3 +64,4 @@ Qualitative thematic finding from focus group discussions with 40 nursing studen
 - [The ad hoc structure of group supervision sessions is perceived to limit reflective learning; participants want pre-determined structured content](adhoc-structure-limits-group-supervision-reflection.md) — related
 - [Familiar instructors who knew participants' clinical context were perceived to improve learning outcomes compared with unknown instructors](familiar-instructors-improve-relevance-learning.md) — a narrower finding that bears on this claim
 - [Facilitator role management — psychological safety awareness, structure, and managing dominant voices — conditions whether CBL supports active learning](facilitator-role-management-cbl-active-learning.md) — related
+- [All responding students agreed that reflecting on and discussing the simulation in the debrief enhanced their learning](debrief-enhanced-learning-unanimous.md) — a narrower finding that bears on this claim

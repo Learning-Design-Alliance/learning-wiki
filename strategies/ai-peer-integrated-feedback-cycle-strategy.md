@@ -58,6 +58,7 @@ The article's implementable procedure: students draft an essay, submit it to Cha
 - [Classroom exercise cycle: select a task, formulate a baseline prompt, submit it to an LLM, then critically analyse the output before revising instructions](prompt-analyse-revise-classroom-exercise.md)
 - [Implement an AI-Peer-Teacher hybrid integrated feedback model staged across drafting, revision, and polishing phases](ai-peer-teacher-hybrid-feedback-model.md)
 - [Scaffolded LLM-collaboration assignment cycle: draft, LLM critique, then rebut or incorporate](scaffolded-llm-argumentation-assignment-cycle.md)
+- [Integrate ChatGPT into hands-on skills training through pre-practice preparation, in-session tablet consultation, and post-practice reflection, capped at about 5 minutes per 30-minute session](chatgpt-capped-integration-skills-training-strategy.md)
 
 ## Examples
 -

@@ -83,3 +83,4 @@ The chapter's own methodological argument: because restudy reexposes the whole s
 - [Retrieval-practice-first sequences show small advantages over generative-first in some conditions](retrieval-first-sequence-small-advantage.md) — related
 - [Retrieval practice produced a reliable overall testing effect and a main effect of working memory capacity on final-test accuracy](main-effect-testing-effect-wm-capacity.md) — a narrower finding that bears on this claim
 - [Retention declines with interval (time-dependent forgetting) across images, details, and details-per-image measures](time-dependent-forgetting-across-intervals.md) — related
+- [Final test scores were significantly lower than practice test scores over retention intervals of three to six weeks in a single-group pre-test/post-test study with no comparison group](final-test-lower-than-practice-scores.md) — related

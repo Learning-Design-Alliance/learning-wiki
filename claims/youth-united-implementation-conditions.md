@@ -73,3 +73,4 @@ The process evaluation identified factors preventing delivery as planned, includ
 - [Implementation of the FLL intervention varied widely, with some schools delivering fewer weeks and some omitting the linked English literacy component](fll-variable-implementation-english-component-omitted.md) — related
 - [Schools delivered very few RTI sessions in practice, making it impossible to implement, monitor and adjust the intervention as intended](rti-few-sessions-fidelity-problem.md) — related
 - [Successful implementation of both interventions was supported by a training programme emphasising fidelity and consistency with ongoing project-team support](abra-implementation-training-fidelity-support.md) — related
+- [Lack of curriculum integration and unharmonized timetables are key structural barriers to implementing Sim-IPE](sim-ipe-curriculum-scheduling-barriers.md) — related

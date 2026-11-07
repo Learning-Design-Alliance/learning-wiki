@@ -56,3 +56,4 @@ Quasi-experimental study of 115 sixth-semester medical students allocated by hos
 - [CRI-HT scores rose from pre-test to post-test after AI-powered simulated patient practice, in one uncontrolled pre-post study](aisp-cortex-improves-cri-ht-reasoning.md) — related
 - [LLM-VSP self-practice improves medical history-taking performance in matched comparison (Cohen d=0.52)](llm-vsp-improves-history-taking-matched.md) — related
 - [Communication simulation training raises senior medical students' informed consent OSCE scores under the UCD rubric versus standard clinical learning (mean grade C to B+, effect size 0.79)](cst-improves-consent-osce-ucd-rubric.md) — related
+- [Structured LLM-generated feedback improves medical students' clinical decision-making performance across four AI-simulated history-taking scenarios](ai-feedback-improves-clinical-decision-making-rct.md) — related

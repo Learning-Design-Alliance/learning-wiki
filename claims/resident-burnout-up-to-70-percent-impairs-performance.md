@@ -71,3 +71,4 @@ The perspective attributes to cited studies the finding that "high degrees of bu
 - [Hardiness shows its strongest burnout correlation with reduced academic accomplishment, while AI-assisted learning is not correlated with emotional exhaustion](correlation-pattern-hardiness-raa-strongest.md) — related
 - [Observational studies showed statistically significant improvement in all burnout subscales, with pooled emotional-exhaustion SMD of -0.67](observational-burnout-meta-analysis-significant.md) — related
 - [Educators report affective costs of AI-related grading, including derealisation, exhaustion, and burnout](educator-affective-toll-ai-grading.md) — related
+- [Residents in the intervention group reported reduced residency examination pressure compared with the control group](peyton-flipped-reduced-exam-pressure.md) — related

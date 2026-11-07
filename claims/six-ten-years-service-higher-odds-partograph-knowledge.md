@@ -52,3 +52,4 @@ Multivariable logistic regression in the cross-sectional survey of 373 providers
 - [Clinical experience over five years and good knowledge independently predict exemplary wound-care practice](experience-and-knowledge-predict-exemplary-practice.md) — related
 - [59.8% of obstetric care providers in West Cameroon had a good level of partograph knowledge](west-cameroon-partograph-good-knowledge-59-8.md) — related
 - [72.1% of obstetric care providers in West Cameroon systematically used the partograph](west-cameroon-partograph-systematic-use-72-1.md) — related
+- [In a multivariate logistic model, SS knowledge is predicted by experience (OR = 0.373), a master's degree (OR = 27.451), and SS training (OR = 25.293)](soft-skills-knowledge-multivariate-predictors.md) — reports the opposite

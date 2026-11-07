@@ -66,3 +66,4 @@ Module-level comparison for experienced trainees in the same study: no significa
 ## Related Claims
 - [OUCAT operational skill scores rose significantly from pre-test to post-test after a 4-hour modular simulation course among inexperienced and experienced obstetric ultrasound residents, and gain scores did not differ significantly between groups in a pre-test–post-test study](obstetric-sim-oucat-score-gains.md) — related
 - [After the simulation course, passing rates rose to 90.5% for inexperienced and 97.7% for experienced trainees, while mastery learning rates reached only 23.8% and 70.5% respectively](obstetric-sim-passing-mastery-rates.md) — related
+- [Small-group size (1–4 persons) did not significantly affect outcomes in a short simulation-based obstetric ultrasound course](group-size-no-effect-ultrasound-simulation.md) — related

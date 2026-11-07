@@ -49,3 +49,4 @@ Regression models comparing television time and internet/game time in the CEPS s
 - [Online gaming shows a stronger negative association with academic performance than television viewing](online-gaming-stronger-negative-association-than-tv.md) — possibly the same claim (merge candidate)
 - [Recreational screen time is negatively associated with academic performance among Chinese middle school students](recreational-screen-time-negative-academic-performance-chinese-adolescents.md) — a broader claim this one bears on
 - [Screen time effects vary across academic subjects, with mathematics most affected](screen-time-subject-heterogeneity-mathematics-most-affected.md) — related
+- [Video game playing is negatively related to Chinese adolescents' academic achievement](video-game-playing-negative-academic-achievement-chinese-adolescents.md) — related

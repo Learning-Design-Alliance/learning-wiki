@@ -172,3 +172,6 @@ The review reports countervailing findings in the same category, including that 
 - [Tool learning objectives were heterogeneous: 42% targeted anamnesis/history-taking interviews, 42% taught general communication skills, and 8% covered giving bad news](heterogeneous-learning-objectives-virtual-tools.md) — related
 - [Baseline OSCE scores on the generative AI platform did not differ between the podcast and control groups](ai-osce-baseline-scores-equivalent-groups.md) — related
 - [Standardized patients rated the experimental group's post-test OSCE communication performance significantly higher than pre-test on all questions (p < 0.001)](osce-sp-rated-performance-gains.md) — a narrower finding that bears on this claim
+- [Audio-recorded OSCE assessment cannot capture non-verbal communication, a stated limitation of the trial](audio-recording-limits-nonverbal-assessment.md) — related
+- [LLM-generated feedback improved the creating context and securing information subdomains of clinical decision making, but not focusing questions](feedback-improves-creating-context-securing-information-not-focusing.md) — related
+- [Trainees reported the case-based modules improved their knowledge and confidence in history-taking, differentials, and medication techniques](trainee-feedback-knowledge-confidence-gains.md) — related

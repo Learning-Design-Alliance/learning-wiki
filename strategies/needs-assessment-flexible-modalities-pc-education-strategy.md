@@ -49,6 +49,7 @@ The article recommends designing education from identified practice gaps and lea
 - [Conduct a training needs analysis and deliver contextualised, structured end-of-life training combining didactic lectures with small-group case-based discussions](needs-analysis-contextualised-eol-training-strategy.md)
 - [Provide flexible learning plans and time-management support for working nursing students](flexible-learning-plans-working-nursing-students.md)
 - [Support EBP education with mentorship, protected time, and continuity of initiatives rather than isolated courses](ebp-institutional-support-strategy.md)
+- [Individualized SMART learning plans and skill acquisition plans for clinical ultrasound training](smart-learning-plans-ultrasound-skills.md)
 
 ## Examples
 -

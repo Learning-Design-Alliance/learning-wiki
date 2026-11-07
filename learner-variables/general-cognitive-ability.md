@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 207 claims (131 show a difference, 43 mixed, 33 no difference) · 144 studies (57 causal, 49 associational, 15 quant-synthesis, 13 review, 7 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 34 of 144 report an effect size · 204 claims rest on one study
+> **Evidence** · 212 claims (136 show a difference, 43 mixed, 33 no difference) · 145 studies (57 causal, 50 associational, 15 quant-synthesis, 13 review, 7 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 34 of 145 report an effect size · 209 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -243,6 +243,11 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Content-rich subtests combining crystallized and fluid intelligence (e.g., HAM-Nat knowledge test, TMS reasoning and text-comprehension subtests) correlate most strongly with preclinical performance](../claims/content-rich-subtests-strongest-validity.md) [+M] — learners who differ on it differ in outcomes
 - [ChatGPT assistance disproportionately benefits dental students with low spatial ability; high spatial ability learners show no significant difference between modes](../claims/chatgpt-benefits-low-spatial-ability-learners-most.md) [~M] — an instructional effect differs with it
 - [Three months after a PAL high-fidelity simulation course, PGY trainees reported significantly higher clinical confidence, reasoning ability, resuscitation familiarity, and teamwork in TRM (all p < 0.001).](../claims/pal-simulation-pgy-cpe-significant-gains.md) [+W] — measured as an outcome of the instruction studied
+- [Children born extremely preterm whose preschool IQ is above −1 SD have a lower risk of school difficulties (17%) than the term-born background population (24%)](../claims/iq-above-minus-1sd-lower-risk-than-term.md) [+W] — learners who differ on it differ in outcomes
+- [Low grades in mathematics become more prevalent as preschool IQ decreases, and the distribution of the lowest and highest student profiles differs significantly across IQ groups](../claims/iq-student-profiles-math-difficulties.md) [+W] — learners who differ on it differ in outcomes
+- [Preschool IQ predicts school difficulties at 18 years with an AUC of 0.80, and a cut-off below −1 SD shows sensitivity of 0.72 and specificity of 0.77](../claims/preschool-iq-auc-predicts-school-difficulties.md) [+W] — learners who differ on it differ in outcomes
+- [Preschool IQ shows a stepwise association with grade point averages at 18 years, and the association is stronger for mathematics than for language](../claims/iq-gpa-stepwise-math-stronger.md) [+W] — learners who differ on it differ in outcomes
+- [The odds of school difficulties at age 18 increase stepwise as preschool IQ decreases in children born extremely preterm or with extremely low birthweight](../claims/iq-stepwise-school-difficulties-ept.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

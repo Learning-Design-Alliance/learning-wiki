@@ -47,3 +47,4 @@ Likert-scale survey responses (Survey Part 2.2) comparing educators with more th
 ## Related Claims
 - [Trainee teachers shift toward agreement that videogames help develop the curriculum crosswise after experiencing one](videogame-experience-shifts-trainee-teacher-acceptance.md) — related
 - [In every district, more educators agree than disagree that they share a common language for the SLO process](common-language-slo-process.md) — related
+- [No trainee reported augmented reality availability in their centre, and most were uncertain whether AR should be part of every dental education program](ar-unavailable-prosthodontics-trainees-pakistan.md) — related

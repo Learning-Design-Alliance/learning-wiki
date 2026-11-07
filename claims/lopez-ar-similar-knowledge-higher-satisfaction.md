@@ -69,3 +69,4 @@ Study of 67 neuropsychology students comparing a mobile AR application for brain
 - [The authors state no prior platform has superimposed MRI slices onto a 3D neuroanatomical model within a mobile app](first-mobile-app-mri-superimposition-neuroanatomy.md) — related
 - [Prior study (as cited by the authors) found students using an integrated 3D-plus-2D-MRI approach achieved higher comprehension scores than separate engagement](integrated-3d-mri-approach-higher-comprehension-cited.md) — related
 - [Post-intervention, a majority of students preferred the virtual learning module over traditional teaching and VR headset over desktop delivery](post-intervention-preference-vl-and-vr.md) — related
+- [Students perceived 3D printed bone models as better than 2D images or a single skeleton and reported deeper learning and increased confidence](3d-printed-models-perceived-deeper-learning.md) — related

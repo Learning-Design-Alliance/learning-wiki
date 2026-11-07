@@ -74,3 +74,4 @@ Observer records and usage logs during the school computer-lab testing sessions.
 - [Students rated the game positively, most often citing fun/interactive features, visuals, and new information learned](losing-the-lake-positive-student-feedback.md) — related
 - [Students expressed highly positive feedback toward the game-based learning approach across knowledge, attitude, habit, and viewpoint aspects](positive-student-feedback-game-based-nutrition.md) — related
 - [Students rated the interdisciplinary escape room positively, with the highest ratings for recommendation to peers, fun, relevance, and learning atmosphere](escape-room-student-satisfaction.md) — related
+- [Underperforming students rated role play highly useful and preferred open-book tests over closed-book tests in remediation feedback](students-rated-role-play-open-book-tests-useful-remediation.md) — related

@@ -50,3 +50,4 @@ In the OSSET randomised trial, mean hands-on training time to proficiency rose m
 - [Total PBP training cost crosses the apprenticeship cost-equivalence point at about 25 trainees and saves 110% at 500 trainees](pbp-total-cost-equivalence-point-25-trainees.md) — related
 - [In CRT training, proficiency-based progression demonstrated superiority over traditional simulation in which proficiency benchmarks were optional](pbp-superiority-crt-training.md) — a broader claim this one bears on
 - [A meta-analysis of 12 medical simulation studies found proficiency-based progression training reduces procedural errors by 60%, procedure time by 15%, and increases correctly executed steps by 47% versus conventional simulation](pbp-meta-analysis-errors-time-steps.md) — a broader claim this one bears on
+- [Adaptive e-learning diagnostics reveal initial unconscious incompetence concentrated in surgical step ordering](adaptive-elearning-reveals-unconscious-incompetence.md) — related

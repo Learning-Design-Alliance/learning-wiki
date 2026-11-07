@@ -13,7 +13,7 @@ generated:
 # Safety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 153 claims (108 show a difference, 32 mixed, 13 no difference) · 95 studies (25 associational, 23 review, 17 qualitative, 12 causal, 7 quant-synthesis, 7 design, 4 theoretical), `q1`–`q4` · 10 of 95 report an effect size · 153 claims rest on one study
+> **Evidence** · 158 claims (112 show a difference, 32 mixed, 14 no difference) · 96 studies (26 associational, 23 review, 17 qualitative, 12 causal, 7 quant-synthesis, 7 design, 4 theoretical), `q1`–`q4` · 10 of 96 report an effect size · 158 claims rest on one study
 
 ## Description
 Safety here means both being and feeling physically and psychologically secure in the places a learner spends time: home, school or work, the neighbourhood and the wider community. It covers violence and crime, bullying and cyberbullying, and, from adolescence on, a learner's own risk-taking behaviour such as substance use. It matters for learning because a learner who feels safe can focus on the task, while one who feels unsafe tends to miss school and take part less in class, losing learning opportunities. For adults, the LVN adds that learners who had bad experiences of school need to feel safe enough to learn again. It is measured with self-report bullying and victimisation scales, neighbourhood questionnaires and screening tools for risky behaviour. It overlaps with [adverse experiences](adverse-experiences.md), since feeling unsafe can be traumatic, and with [belonging](belonging.md).
@@ -189,6 +189,11 @@ Safety here means both being and feeling physically and psychologically secure i
 - [Facilitator role management — psychological safety awareness, structure, and managing dominant voices — conditions whether CBL supports active learning](../claims/facilitator-role-management-cbl-active-learning.md) [~M] — an instructional effect differs with it
 - [Psychological safety, supported by working in the same peer group with the same facilitator, enabled CBL participation](../claims/psychological-safety-same-group-cbl-participation.md) [+M] — learners who differ on it differ in outcomes
 - [Students accepted the virtual learning module, with psychological safety the most strongly endorsed benefit over other teaching methods](../claims/utaut2-acceptance-psychological-safety.md) [+M] — measured as an outcome of the instruction studied
+- [Perception of patient safety culture and safety control mediate the effect of safety education on patient safety competency](../claims/culture-and-control-mediate-education-competency.md) [+M] — measured as an outcome of the instruction studied
+- [Perception of patient safety culture is positively associated with safety control and patient safety competency](../claims/safety-culture-perception-associated-control-and-competency.md) [+M] — learners who differ on it differ in outcomes
+- [Safety control is positively associated with patient safety competency](../claims/safety-control-associated-patient-safety-competency.md) [+M] — learners who differ on it differ in outcomes
+- [Safety education does not directly influence patient safety competency or safety control](../claims/safety-education-no-direct-effect-competency-control.md) [-M] — measured as an outcome of the instruction studied
+- [Safety education frequency is positively associated with perception of patient safety culture among clinical nurses](../claims/safety-education-frequency-associated-safety-culture-perception.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Electronic Bullying Questionnaire** (Kowalski & Limber, 2007): self-report of how often a person has been cyberbullied or has cyberbullied others.

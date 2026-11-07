@@ -50,3 +50,4 @@ Planned paired-samples t-test within the same OSCE cohort (valid cases 103–104
 - [Self-other rating differences vary across competency domains in first-year nursing OSCEs, with the largest discrepancy in social/communication skills (Rating Type × Domain interaction η²ₚ = 0.416)](osce-rating-type-domain-interaction-nursing.md) — a broader claim this one bears on
 - [Students perceived greater writing improvements than evaluators confirmed](student-perceived-gains-exceed-evaluator-ratings.md) — related
 - [Self-assessment overestimates ultrasound skills relative to external examination, while meta-analyses show moderate self-assessment accuracy overall](self-assessment-overestimates-ultrasound-skills.md) — related
+- [No standardized method exists for assessing ultrasound knowledge or examination performance, and self-assessment reliance risks skill overestimation](no-standardized-ultrasound-assessment.md) — related

@@ -60,3 +60,4 @@ Meta-analysis of the 20 included RCTs reporting the clinical theory assessment s
 - [PBL+LBL combination does not produce a significantly higher pass rate than LBL alone](pbl-lbl-combination-no-significant-pass-rate-gain.md) — related
 - [Experiment-based learning is most effective when adopted as the dominant course strategy rather than an occasional technique](experiment-learning-needs-dominant-strategy.md) — related
 - [Medical statistics teaching in Chinese medical schools is dominated by large-class lecture-based instruction with limited practical training](lecture-dominated-statistics-teaching-limited-practicals.md) — related
+- [Fourth-year medical students taught with SPOC+PBL scored higher on a closed-book neurology unit test than students taught with LBL](spoc-pbl-higher-neurology-unit-test-scores.md) — a narrower finding that bears on this claim

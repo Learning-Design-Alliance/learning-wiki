@@ -69,3 +69,4 @@ Same two-level multivariate model: no statistically significant prediction of be
 - [Self-efficacy positively and test anxiety negatively predicted classroom grades, while test anxiety positively predicted cognitive strategy use but negatively predicted regulatory strategy use](self-efficacy-and-test-anxiety-predict-performance.md) — related
 - [Bullying involvement is associated with lower cognitive-motivational factors, especially engagement, motivation and self-esteem](bullying-involvement-lower-cognitive-motivational-factors.md) — related
 - [Time of day shows no significant effect on students' situation-specific engagement once subject, teacher, and day of week are controlled](no-time-of-day-effect-on-situational-engagement.md) — related
+- [GPA is positively predicted by behavioral and cognitive engagement but not by emotional engagement, with only 6% of variance explained](engagement-dimensions-predict-gpa.md) — reports the opposite

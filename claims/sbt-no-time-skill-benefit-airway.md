@@ -55,3 +55,4 @@ Meta-analysis of four comparative trials reporting time to complete task. The po
 - [AccuTouch VR simulator training improved live fibreoptic intubation performance in inexperienced paediatric residents, reducing time to intubation from 5.15 to 0.88 minutes](accutouch-training-improves-live-intubation-time.md) — reports the opposite
 - [VR bronchoscopy simulator training improves medical staff intubation skills and reduces complications](vr-bronoscopy-intubation-skills.md) — related
 - [Procedural simulation significantly increased learner confidence in performing central lines, intubations, and bronchoscopies](simulation-raises-procedure-confidence.md) — related
+- [Just-in-time coaching improved technical skill metrics (airway views, advancement maneuvers, technical difficulties, intubation time) but complications did not differ significantly](jit-coaching-technical-metrics-complications-null.md) — related

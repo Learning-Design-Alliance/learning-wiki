@@ -54,3 +54,4 @@ Anonymous 20-item validated questionnaire (100 points) completed by all 58 stude
 - [Differences among the six novel teaching strategies are minor, and in pairwise meta-analysis only BOPPPS and SBL significantly beat LBL on all three outcomes](minor-differences-among-novel-strategies-pairwise.md) — related
 - [Sim + LBL students reported greater satisfaction, perceived learning outcomes, and core-competency gains than LBL students](sim-lbl-greater-satisfaction-engagement-competency.md) — related
 - [Experimental-group students report high satisfaction with VSO but note limited emotional interaction and virtual-to-real transfer issues](vso-student-survey-feedback.md) — related
+- [The two teaching modes showed no significant difference in shaping physicians' sense of professionalism after the cardiac surgery internship](pbl-online-no-professionalism-difference.md) — related

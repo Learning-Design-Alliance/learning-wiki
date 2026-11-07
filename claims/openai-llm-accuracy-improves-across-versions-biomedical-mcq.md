@@ -76,3 +76,8 @@ Random‐effects proportional meta‐analysis of 41 articles comprising 207 prop
 - [ChatGPT-4o mini outperformed the average human candidate on part 2 of the 2023 PNA, while ChatGPT-3.5 Turbo scored significantly below humans on part 1](chatgpt-4o-mini-outperformed-human-pna-candidates.md) — a narrower finding that bears on this claim
 - [ChatGPT can complete multiple-choice exams to a very high standard, across disciplines and including image- and data-based questions](chatgpt-high-performance-mcq-exams.md) — a broader claim this one bears on
 - [GPT-4V outperformed GPT-3.5 Turbo and GPT-4 on multiple-choice medical exam questions with images](gpt4v-outperforms-earlier-llms-image-questions.md) — related
+- [GPT-4o achieves the highest accuracy on USMLE-style MCQs (90.4%), outperforming GPT-4 (81.1%) and GPT-3.5 (60.0%)](gpt-4o-90-percent-usmle-mcq-accuracy-outperforms-predecessors.md) — a narrower finding that bears on this claim
+- [GPT-4o and GPT-4 significantly outperform the medical student average accuracy of 59.3% on the same question set](gpt-4o-and-gpt-4-outperform-medical-student-average.md) — a narrower finding that bears on this claim
+- [GPT-4o significantly outperforms GPT-4 in diagnostics (92.7% vs 83.5%), and both beat GPT-3.5 (65.2%)](gpt-4o-diagnostics-accuracy-beats-gpt-4-and-gpt-3-5.md) — a narrower finding that bears on this claim
+- [GPT-4o significantly outperforms GPT-4 in management (88.8% vs 77.0%), and both beat GPT-3.5 (57.9%)](gpt-4o-management-accuracy-beats-gpt-4-and-gpt-3-5.md) — a narrower finding that bears on this claim
+- [On USMLE imaging-based questions, GPT-4o and GPT-4 did not differ significantly from each other but both outperformed Google Bard](gpt4o-gpt4-outperform-bard-imaging-questions.md) — related

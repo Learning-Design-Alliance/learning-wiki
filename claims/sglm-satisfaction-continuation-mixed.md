@@ -51,3 +51,4 @@ Satisfaction sub-theme from the thematic analysis, coded in 21 of 26 written ref
 - [Most experimental-group students liked the digital-storytelling mathematics courses and wanted the application to continue](students-liked-digital-storytelling-math-courses.md) — related
 - [Students in the PBL-DeepSeek group report high satisfaction and would continue using the approach, but a minority worry about AI accuracy](deepseek-pbl-satisfaction-and-accuracy-concerns.md) — related
 - [Qualitative themes linked intervention-group satisfaction to course clarity, active and collaborative learning, and research preparedness, and control-group dissatisfaction to workload and logistics](qualitative-themes-clarity-engagement-versus-workload-logistics.md) — related
+- [Students in the PBL-ChatGPT group gave highly positive satisfaction feedback, with no dissatisfied responses reported](high-student-satisfaction-pbl-chatgpt-teaching.md) — related

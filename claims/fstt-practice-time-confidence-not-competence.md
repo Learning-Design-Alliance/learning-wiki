@@ -68,3 +68,6 @@ From the discussion of the same cross-sectional study (mean 58 ± 14 lab hours i
 - [Upper-year chiropractic students are generally more confident than first-year students in performing SMT force–time characteristics](upper-year-students-higher-smt-confidence.md) — related
 - [Very few students could achieve the 800 N peak thrust force, and confidence dropped and became more variable at this highest target force](800n-target-lowest-competence-confidence.md) — related
 - [Male and later-year students show higher competence in fast time-to-peak force, and males in achieving the 800 N peak thrust force, with no other strong competence associations](sex-year-competence-time-to-peak-800n.md) — related
+- [Students' confidence in SMT force modulation may be built on factors other than force–time modulation ability, such as body anthropometrics](confidence-may-rest-on-non-force-factors.md) — related
+- [The confidence–performance association is not moderated by year of study or time spent in the FSTT laboratory](confidence-performance-association-not-moderated-by-experience.md) — related
+- [Higher confidence is positively associated with better ability to modulate SMT force–time characteristics, especially preload, time to peak force, and 800N impulse force](confidence-positively-associated-force-modulation-ability.md) — reports the opposite

@@ -70,3 +70,4 @@ The review attributes to Blanch-Hartigan's three meta-analyses the finding that 
 - [SRSD instruction improved students' accuracy in self-evaluating their texts' quality, although overestimation persisted](srsd-improves-monitoring-accuracy-overestimation-persists.md) — related
 - [First-year nursing students show no significant self-examiner discrepancy in professional knowledge or methodological domains](accurate-calibration-technical-domains-osce.md) — related
 - [Agreement between self- and peer-assessment on the CHOLE-VOP is moderate overall but poor for novices, who tend to overestimate their performance, and good for intermediate users](self-peer-assessment-agreement-varies-by-experience.md) — related
+- [No standardized method exists for assessing ultrasound knowledge or examination performance, and self-assessment reliance risks skill overestimation](no-standardized-ultrasound-assessment.md) — possibly the same claim (merge candidate)

@@ -55,6 +55,7 @@ Based on its findings and institutional case studies, the review proposes operat
 - [Use active methodologies, case studies, simulation, portfolios, flipped classroom, and problem-based learning to develop soft skills in nursing curricula](active-methodologies-soft-skills-nursing-strategy.md)
 - [Develop standardized DHN training curricula that integrate interpersonal soft skills with digital competencies](dhn-training-integrating-soft-and-digital-skills.md)
 - [Reinforce central OSCE modules and build integrated teaching modules around strongly connected skills](reinforce-central-modules-integrated-skill-teaching.md)
+- [Include a soft skills module and the flipped classroom in the initial training of nursing and health technology students](soft-skills-module-initial-nursing-training-strategy.md)
 
 ## Examples
 -

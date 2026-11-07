@@ -70,3 +70,5 @@ Between-group comparison of gain scores in the same pre-test–post-test study f
 - [After the simulation course, passing rates rose to 90.5% for inexperienced and 97.7% for experienced trainees, while mastery learning rates reached only 23.8% and 70.5% respectively](obstetric-sim-passing-mastery-rates.md) — related
 - [Participants without prior ultrasound course experience showed greater knowledge gains (26.7 vs 20 points, p = 0.003) despite lower pre- and post-course scores](rush-mooc-novice-greater-gains.md) — reports the opposite
 - [Baseline skill differences by prior helicopter boarding experience largely disappear after the course, except impact-protection positioning](metra-course-experience-subgroup-differences.md) — a narrower finding that bears on this claim
+- [Small-group size (1–4 persons) did not significantly affect outcomes in a short simulation-based obstetric ultrasound course](group-size-no-effect-ultrasound-simulation.md) — related
+- [Prior UBE experience moderates e-learning knowledge gains but not simulator skill gains](prior-experience-moderates-elearning-not-simulator-gains.md) — related

@@ -18,7 +18,7 @@ sources:
 # Adaptive Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 39 claims (23 for, 13 mixed, 3 against) · 38 studies (12 causal, 11 review, 5 quant-synthesis, 3 associational, 3 qualitative, 2 design, 2 theoretical), `q1`–`q4` · 4 of 38 report an effect size · 38 claims rest on one study
+> **Evidence** · 40 claims (24 for, 13 mixed, 3 against) · 39 studies (12 causal, 11 review, 5 quant-synthesis, 3 associational, 3 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 4 of 39 report an effect size · 39 claims rest on one study
 
 ## Description
 Adaptive learning tailors content, pacing, support, or task sequence in response to evidence about a learner's current performance, needs, or prior knowledge.
@@ -91,6 +91,7 @@ Adaptive learning tailors content, pacing, support, or task sequence in response
 - [In an adaptive e-learning system, students whose actual learning mode matches their profile achieve higher test scores than mismatched students](../claims/matched-learning-mode-higher-scores-aes.md) [+W] — attached 2026-11-02 from Herman Dwi Surjono (2015), which proposed "Adaptive e-learning system (AES) for the Analogue Electronics course"; tests this page's relationship.
 - [Attending to students' learning pace was a significant moderator of TPR vocabulary effects in one meta-analysis, but only one study implemented it: ES=2.745 versus 1.021 for the 12 studies that did not](../claims/tpr-learning-pace-moderator-significant.md) [+W]
 - [Reinforcement-learning sequencing policies beat baseline sequencing in about half of controlled studies, mostly in constrained tasks and against weak baselines](../claims/rl-sequencing-policies-beat-baselines-in-constrained-tasks.md) [~M] — attached 2026-11-05 from Doroudi, Aleven & Brunskill (2019): adaptive ordering learned from data helped most for independent items and activity-type choice, and was often compared only with random order.
+- [Adaptive e-learning significantly increases neurosurgeons' self-assessed perceived knowledge of UBE](../claims/adaptive-elearning-increases-perceived-ube-knowledge.md) [+M] — attached 2026-11-07 from Motov Stefan et al. (2024), which proposed "Adaptive e-learning module for UBE with 45 probes and distractors".
 
 ## The evidence by question
 - *Does adaptive instruction raise achievement over non-individualised instruction or the same content in a fixed sequence?* [Intelligent tutoring systems improve achievement over non-individualised instruction](../claims/adaptive-learning-improves-outcomes.md) [+S]

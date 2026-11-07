@@ -51,3 +51,4 @@ Interview theme from twelve medical students: performing in simulation externali
 - [High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety](vad-stress-psychological-safety-threat.md) — related
 - [Self-directed learning in postgraduate PBL develops along a trajectory from initially triggered motivation to sustained reinforcement through reflection](pbl-self-directed-learning-trajectory.md) — related
 - [Video-assisted debriefing enhances precision but risks psychological safety and narrows reflection to individual performance](video-debriefing-precision-safety-tradeoffs.md) — related
+- [Agentic engagement in PBL groups occurs both as student-initiated and as teacher-prompted behaviour, and can be directed at peers as well as the tutor](teacher-prompted-and-peer-directed-agentic-engagement.md) — related

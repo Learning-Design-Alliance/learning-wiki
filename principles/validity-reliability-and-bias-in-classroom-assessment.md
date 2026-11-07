@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 416 claims (193 for, 195 mixed, 28 against) · 313 studies (100 associational, 74 design, 51 causal, 46 review, 26 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 27 of 313 report an effect size · 409 claims rest on one study
+> **Evidence** · 418 claims (194 for, 196 mixed, 28 against) · 314 studies (100 associational, 74 design, 51 causal, 47 review, 26 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 27 of 314 report an effect size · 411 claims rest on one study
 
 ## Conditional relationship
 
@@ -260,6 +260,8 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [The agentic scale of the CD-SJT was unrelated to OSCE performance in both samples](../claims/cd-sjt-agency-unrelated-osce.md) [~W] — attached 2026-11-06 from Mielke et al. (2025), which proposed "Use construct-driven SJTs to supplement undergraduate medical admission with a theory-based assessment of social skills"; tests this page's relationship.
 - [D-studies indicate three raters suffice in a crossed design, while a nested design reaches Phi 0.83 with two raters and ten items](../claims/d-study-raters-items-phi-acls.md) [+W] — attached 2026-11-06 from Lertsakulbunlue et al. (2025), which proposed "Assign a unique set of raters to each student within a nested r:(p×i) design to enhance reliability and reduce assessment time under resource constraints"; tests this page's relationship.
 - [IC-MD scores are independent of cognitive admission criteria (TMS r = .01; GPA r = .14), supporting divergent validity](../claims/ic-md-divergent-validity-cognitive-criteria.md) [+W] — attached 2026-11-07 from Fleck et al. (2024), which proposed "Use theory-based, construct-driven measures of interactional competencies to complement cognitive criteria in medical student selection"; tests this page's relationship.
+- [SETs are significantly associated with instructor gender and grade expectation but generally not with final exam performance](../claims/sets-gender-grade-expectation-not-effectiveness.md) [~W] — attached 2026-11-07 from Randall Armel (2025), which proposed "Limit SETs to aspects students are equipped to assess and triangulate with other data sources"; tests this page's relationship.
+- [At least 7–10 SETs per teacher are needed for reliable ratings, making SET feedback in small programs infrequent and unreliable](../claims/seven-to-ten-sets-needed-reliable-ratings.md) [+W] — attached 2026-11-07 from Randall Armel (2025), which proposed "Limit SETs to aspects students are equipped to assess and triangulate with other data sources"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 
@@ -514,6 +516,7 @@ Content validity, construct validity, criterion validity, consistency across occ
 - [Administer the Inquiry with classroom test procedures and interpret by item-by-item comparison with expert votes](../strategies/inquiry-item-by-item-expert-comparison-strategy.md)
 - [Use external instruments rather than teacher judgment to measure learning strategies for differentiation decisions](../strategies/external-instruments-measure-learning-strategies.md)
 - [Researcher-made 50-mark English achievement test](../products/researcher-made-50-mark-english-achievement-test.md)
+- [Use element-weighted rubrics and social moderation to standardise interpretation of marking criteria](../strategies/rubric-elemental-weighting-social-moderation.md)
 
 ## Key Sources
 - Linn, R. L., & Miller, M. D. (2005). *Measurement and assessment in teaching* (9th ed.). Pearson.

@@ -52,6 +52,7 @@ The authors recommend integrating 3D-printed temporal bone models into surgical 
 
 - [Integrate hybrid simulation into clinical skills curricula to concurrently train communication and technical skills in a safe, repeatable environment](integrate-hybrid-simulation-clinical-skills-curricula.md)
 - [Integrate simulation-based learning early into undergraduate medical curricula, particularly where clinical exposure is limited](early-integration-simulation-undergraduate-curricula.md)
+- [Add real‐time AR anatomical overlay to single‐session drilling practice on 3D‐printed temporal bone models for novices](real-time-ar-overlay-during-3d-printed-drilling-practice.md)
 
 ## Examples
 -

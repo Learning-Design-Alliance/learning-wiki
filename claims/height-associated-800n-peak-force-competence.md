@@ -48,3 +48,4 @@ Multivariable logistic regression of competence in 149 chiropractic students; th
 - [Very few students could achieve the 800 N peak thrust force, and confidence dropped and became more variable at this highest target force](800n-target-lowest-competence-confidence.md) — related
 - [Male and later-year students show higher competence in fast time-to-peak force, and males in achieving the 800 N peak thrust force, with no other strong competence associations](sex-year-competence-time-to-peak-800n.md) — related
 - [Male chiropractic students report higher confidence in performing SMT force–time characteristics than female students, especially at higher target forces](male-students-higher-smt-confidence.md) — related
+- [Students modulate 200N and 400N impulse forces close to target but have difficulty accurately modulating 800N forces](performance-difficulty-800n-target-force.md) — related

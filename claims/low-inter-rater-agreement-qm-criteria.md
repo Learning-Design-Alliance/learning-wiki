@@ -57,3 +57,4 @@ Reliability analysis of the human expert ratings: the article reports Fleiss' κ
 - [MAS-CMD was rated significantly higher than MAS-Roles on QM criterion 5.2C active learning by 20 expert teachers, with a large effect size](mas-cmd-higher-active-learning-rating-than-mas-roles.md) — related
 - [Inter-rater agreement among pre-service teachers is low regardless of grading approach or essay quality](low-inter-rater-agreement-preservice-grading.md) — possibly the same claim (merge candidate)
 - [Intra-student agreement between baseline and post-training responses is low, suggesting answers reflect learning rather than consistency](intra-student-agreement-low-t0-t1.md) — related
+- [Overall inter-examiner agreement on grades and pass-fail classifications is slight, with Fleiss kappa of 0.07 and 0.14](fleiss-kappa-slight-agreement-examiners.md) — related

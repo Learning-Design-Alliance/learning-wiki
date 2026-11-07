@@ -48,3 +48,4 @@ Qualitative interview study: 10 semi-structured interviews with simulation centr
 - [With current technology, IVR is a barrier to training sensorimotor skills and non-verbal teamwork skills, while verbal communication goals remain feasible](ivr-limits-sensorimotor-and-nonverbal-teamwork-skills.md) — possibly the same claim (merge candidate)
 - [Observed group differences likely reflect the combined influence of modality, self-directed structure, feedback format, and instructor involvement, not VR technology alone](vr-acupuncture-confounded-comparison.md) — related
 - [EVT team members experience simulation training as a valuable introduction to the angio suite, equipment, team roles and communication](evt-simulation-valued-introduction.md) — related
+- [Participants unanimously perceived the PBL-VR module as a supplement to, not a replacement for, traditional in-person instruction](participants-perceive-pbl-vr-as-supplement-not-replacement.md) — related

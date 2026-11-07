@@ -50,3 +50,4 @@ One-way ANOVA comparing knowledge decline by education level (certificate n = 76
 - [Knowledge scores declined significantly across all four assessed HMS/HBS domains after training](hms-hbs-knowledge-decline-all-four-domains.md) — related
 - [Educational qualification shows no significant association with wound-care knowledge or practice levels](qualification-no-association-wound-knowledge.md) — related
 - [Higher formal education was not associated with better nutritional knowledge; Bachelor's degree holders scored significantly worse than university‐diploma holders](education-not-linked-to-nutrition-knowledge.md) — related
+- [Diploma-qualified nurses self-rated highest across all competence domains, which the discussion attributes inconsistently to bachelor's-degree nurses](education-level-competence-diploma-highest-table-inconsistency.md) — related

@@ -45,6 +45,7 @@ The article's forward-looking plan is that the consensus competencies feed curri
 
 - [Develop targeted, competency-based interprofessional continuing education programs and European frameworks for geriatric care](targeted-competency-based-geriatric-cpd-strategy.md)
 - [Redesign the geriatric curriculum to comprehensively cover interdisciplinary teamwork and patient/caregiver-centered competencies](redesign-geriatric-curriculum-teamwork-caregiver-competencies.md)
+- [Assess competencies lacking vOSCE consensus through longitudinal virtual assessment programs aligned with knowledge progression](longitudinal-virtual-assessment-for-nonconsensus-competencies.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ The review reports, from Khalid et al.'s comparison of Angoff with relative/norm
 - [Mastery Angoff produces the highest cut scores and lowest pass rates among Angoff variants](mastery-angoff-highest-cut-scores.md) — related
 - [Number of judges positively influences cut scores, while test length influences pass rates](angoff-moderators-judges-items.md)
 - [Correlations between course evaluations and grade measures become non-significant when grades are corrected using modified Hofstee cut points](hofstee-cut-points-eliminate-grade-evaluation-correlation.md) — related
+- [Norm-referenced SET cut-offs label more professors unsatisfactory than criterion-referenced cut-offs, and quantitative courses draw lower SET ratings](norm-referenced-set-cutoffs-label-more-unsatisfactory.md) — related

@@ -51,3 +51,4 @@ Independent t-test comparing 97 personnel by education level; the article report
 - [Pre-hospital emergency personnel demonstrate moderate knowledge of obstetric emergencies with a mean score of 46.6%](p-hep-moderate-knowledge-obstetric-emergencies.md) — related
 - [Work experience correlates positively with complicated child delivery skill but negatively with newborn and pregnant women's resuscitation skills](work-experience-skill-correlations.md) — related
 - [Higher formal education was not associated with better nutritional knowledge; Bachelor's degree holders scored significantly worse than university‐diploma holders](education-not-linked-to-nutrition-knowledge.md) — related
+- [Diploma-qualified nurses self-rated highest across all competence domains, which the discussion attributes inconsistently to bachelor's-degree nurses](education-level-competence-diploma-highest-table-inconsistency.md) — reports the opposite

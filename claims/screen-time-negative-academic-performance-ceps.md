@@ -51,3 +51,4 @@ Multiple linear regression analysis of 17,150 CEPS students with Chinese, mathem
 - [Sleep duration, mental health, and cognitive performance mediate the screen time–academic performance association](sleep-mental-health-cognition-mediate-screen-academic-association.md) — related
 - [Screen time effects vary across academic subjects, with mathematics most affected](screen-time-subject-heterogeneity-mathematics-most-affected.md) — a narrower finding that bears on this claim
 - [School children's screen time is negatively associated with academic performance](screen-time-negatively-associated-academic-performance.md) — related
+- [Video game playing is negatively related to Chinese adolescents' academic achievement](video-game-playing-negative-academic-achievement-chinese-adolescents.md) — related

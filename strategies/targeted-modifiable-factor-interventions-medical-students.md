@@ -47,7 +47,8 @@ The article's discussion and conclusion recommend a set of interventions aimed a
 - [In univariate analysis, performance was associated with age, gender, nationality, substance and tobacco use, stress, academic year, prior failure, revision hours, satisfaction and motivation; only the DREEM atmosphere subscale was significant among DREEM domains](../claims/univariate-associations-performance-factors.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Improve GMKT performance by strengthening favorable and weakening or compensating unfavorable modifiable nonacademic factors](modifiable-nonacademic-factors-gmkt-strategy.md)
 
 ## Examples
 -

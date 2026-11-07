@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-07
 sources:
   - id: herschbach-l-2026
     resource: "https://doi.org/10.2196/100467"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` 54.39% (31/57) of participants considered the chatbot authentic, 52.63% (30/57) intended to use SDM more often, and 87.72% (50/57) agreed SDM is feasible in everyday clinical practice. [→ Herschbach L 2026](#herschbach-l-2026)
@@ -53,3 +54,4 @@ Exploratory outcome analysis of participant perceptions in the feasibility study
 - [Undergraduate dental students report high satisfaction and self-confidence in simulation-based clinical decision-making training using LLM-based standardized virtual patients](dental-students-high-satisfaction-llm-virtual-patients.md) — related
 - [Students perceived the GPT-based virtual patient encounters as realistic and easy to converse with](ai-virtual-patient-perceived-realistic.md) — related
 - [Final-year dental students perceived the AI role-play as authentic and relevant to clinical practice, with 85.7% strongly agreeing it relates to real-life scenarios](ai-roleplay-perceived-authenticity-survey.md) — related
+- [Medical students rated the LLM patient simulation as highly accurate, feasible, and realistic](students-rate-llm-patient-simulation-realistic-accurate.md) — related

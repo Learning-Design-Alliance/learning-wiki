@@ -49,3 +49,4 @@ A descriptive account in the article's introduction of the policy context: feder
 - [By spring 2021 students remained behind typical prepandemic achievement averages in both math and reading](spring-2021-students-behind-prepandemic-averages.md) — related
 - [Student achievement at the start of the 2021-22 school year lagged pre-pandemic norms, especially in math](fall-2021-achievement-lagged-pre-pandemic-norms-especially-math.md) — related
 - [Assessments are framed as one indicator among many of student impact from COVID-19](assessments-one-indicator-among-many-covid-impact.md) — related
+- [Educators criticise assessment focused on factual recall and advocate continuous formative assessment and skill-based evaluation](educators-criticise-recall-assessment-advocate-formative.md) — related

@@ -54,3 +54,4 @@ Inter-rater reliability analysis of three expert raters' scores across the five-
 - [Trained scorers applied the historical thinking skills rubrics with good overall inter-rater consistency](hts-rubrics-good-inter-rater-consistency.md) — related
 - [Rubric scoring of concept image protocols showed inter-rater reliability exceeding acceptable thresholds (Fleiss Kappa 0.60–0.88; Krippendorff's Alpha 0.60–0.88; ICC 0.89–0.98)](concept-image-rubric-inter-rater-reliability.md) — related
 - [Inter-rater reliability of the drawing assessments was high, with an average-measures ICC of 0.988 for the total score](high-inter-rater-reliability-drawing-assessments.md) — related
+- [Peer evaluations show higher internal and inter-rater reliability than SETs but are hard to apply to one-to-one clinical teaching](peer-evaluation-higher-reliability-limited-clinical-fit.md) — related

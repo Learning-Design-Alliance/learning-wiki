@@ -77,3 +77,4 @@ Completion broken down by college type: immediate four-year enrollees completed 
 - [CPS class of 2024 students reached near-record highs in high school graduation (84%) and immediate college enrollment (66%), on par with national averages](cps-2024-graduation-enrollment-near-record-highs.md) — related
 - [CPS four-year completion rates rose 7 percentage points over ten years while enrollees nearly doubled, but remained far below six-year rates](cps-four-year-rates-increased-seven-points.md) — related
 - [Middle school students completed a larger percentage of assigned videos than high school students](rmep-middle-school-higher-video-completion.md) — related
+- [Foster care alumni students obtain somewhat lower grades and fail exams more often, but show comparable study progression to their peers](foster-alumni-academic-performance-resilient.md) — related

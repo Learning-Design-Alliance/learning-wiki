@@ -83,6 +83,7 @@ Collaborative reflection works because it combines external perspective with soc
 - [Implement UbD through collaborative teacher design groups with iterative evaluation meetings](ubd-teacher-design-groups-strategy.md)
 - [Engage in FA development opportunities: peer observation, PLCs, and coaching](fa-development-opportunities.md)
 - [Run meta-debriefing clubs as communities of practice where debriefers critically review audiovisual footage of previous debriefings](meta-debriefing-club-community-of-practice.md)
+- [Implement peer support groups in which small groups of clinical teaching faculty collectively reflect, debrief, and share teaching strategies](peer-support-groups-clinical-teaching-faculty.md)
 
 ## Examples
 - **Lesson study in Japan and the U.S.** — Teams of teachers jointly plan a "research lesson," observe it live while collecting data on student thinking, then revise and reteach it in another class. Documented in the U.S. via the Mills College Lesson Study Group ([lessonresearch.net](https://www.lessonresearch.net)).

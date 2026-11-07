@@ -55,3 +55,4 @@ The authors' interpretive argument in the Discussion, contrasting VDT practice w
 - [Virtual simulation fosters clinical reasoning and psychomotor skills in a safe, realistic environment with immediate feedback](virtual-simulation-safe-environment-immediate-feedback-claim.md) — related
 - [LTT is valued for practising rare technical skills, especially haemorrhage control, that learners are not otherwise exposed to in clinical practice](ltt-valued-rare-haemorrhage-skills.md) — related
 - [Students favoured practical, hands-on experience over lecture-based tutorials and saw simulation, including VR, as a safe way to practise without consequences for real patients.](practical-experience-preferred-over-lectures.md) — related
+- [Digital visualization of structures that are hard to see on body donors improved the quality of preparation in dissection courses](digital-visualization-improves-dissection-quality.md) — related

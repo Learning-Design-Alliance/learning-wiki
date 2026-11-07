@@ -64,3 +64,4 @@ These four outcomes (problem-solving, self-directed learning, communication skil
 - [PBL interns report higher self-efficacy, instructional satisfaction, and perceived critical-thinking improvement than lecture-taught interns](pbl-self-evaluated-learning-gains-esophageal.md) — related
 - [Fifth-year hospital pharmacy students reported higher critical thinking and presentation skill gains than 3rd-year cardiovascular pharmacology students](journal-club-gains-vary-by-academic-year.md) — related
 - [In a randomized controlled study, pharmacy students with access to a digital medication-analysis tool performed better and only they felt secure in the physician conversation](digital-medication-analysis-tool-improves-student-performance.md) — related
+- [Dietetic students in PBL perceived stronger thinking, problem-solving, communication and collaborative-learning skills than didactically taught students](pbl-dietetic-students-perceived-skill-gains.md) — related

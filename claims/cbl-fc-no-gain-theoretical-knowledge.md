@@ -61,3 +61,4 @@ Post-intervention sub-score comparison in the same quasi-randomized study: singl
 - [Theoretical training alone raised PPH knowledge similarly in both randomized groups immediately post-training, with no significant difference (p = 0.285)](theory-only-training-raises-mcq-immediately-equally.md) — related
 - [The randomized trial assigned 70 residents equally to BOPPPS-plus-flipped-classroom or traditional teaching with no significant baseline differences](boppps-flipped-og-trial-baseline-comparable.md) — related
 - [CBL multimodal teaching did not weaken single-mode image analysis or basic knowledge performance relative to traditional teaching](cbl-multimodal-no-difference-basic-and-single-mode.md) — related
+- [CBL-PBL training yields substantially higher professional knowledge test scores than LBL](cbl-pbl-higher-professional-knowledge-test-scores.md) — reports the opposite

@@ -57,6 +57,7 @@ The article recommends that institutions delivering remote education mix asynchr
 - [Adapt the E-5C model for fully online delivery by converting each of the 5Cs to a virtual equivalent](e5c-online-adaptation-strategy.md)
 - [Position immersive technologies and virtual patients as supplementary components within blended learning rather than stand-alone replacements for established clinical communication training](immersive-tech-adjunctive-blended-not-replacement.md)
 - [Use blended bookend learning combining self-paced online modules with synchronous interactive discussion and case supervision](blended-bookend-learning-psychiatric-education.md)
+- [Mitigations for delivering virtual surgical skills courses: facilitators, re-playable demonstrations, and connectivity safeguards](virtual-course-technical-mitigations-strategy.md)
 
 ## Examples
 -

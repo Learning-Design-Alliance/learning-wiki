@@ -48,3 +48,4 @@ Frequency synthesis across the 33 articles addressing intra-operative errors in 
 ## Related Claims
 - [Back-wall stitches, uneven lumens, and excessive suture tension are consistently associated with reduced anastomotic patency](backwall-uneven-lumens-tension-reduce-patency.md) — related
 - [Intra-operative errors are the most frequently reported microsurgical errors across studies](intraoperative-errors-most-frequently-reported.md) — related
+- [Error frequency differs significantly across suturing gestures and error types, with pulling the needle out of tissue and poor instrument control most frequent](error-distribution-gesture-type-rarp.md) — related

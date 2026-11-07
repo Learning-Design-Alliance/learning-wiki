@@ -28,3 +28,4 @@ A 14-item five-point Likert-scale instrument developed to assess undergraduate l
 
 ## Key Sources
 - Gonzalez-Sanz Juan D., Teresa-Morales Cristina, Rodríguez-Pérez Margarita, Torres-Enamorado Dolores, Feria-Ramírez Carmen, Urcola-Pardo Fernando. (2026). Nursing students’ evaluations of the flipped classroom using the FLAS scale: a quantitative analysis. BMC Medical Education. https://doi.org/10.1186/s12909-026-08625-w
+- Urcola‐Pardo, F., Subiron‐Valera, A. B., Anton‐Solanas, I., Orkaizagirre‐Gomara, A., Torres‐Enamorado, D., & Gonzalez‐Sanz, J. D. (2024). Design and Validation of the Flipped‐Learning Assessment Scale for Undergraduate Nursing Education. Nursing Open. https://doi.org/10.1002/nop2.70112

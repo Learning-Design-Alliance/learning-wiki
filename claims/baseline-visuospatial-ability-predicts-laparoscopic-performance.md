@@ -77,3 +77,4 @@ Pearson correlations at baseline (T1) between the 3D visuospatial T-score and la
 - [Male participants performed significantly better than females in final camera navigation and bimanual coordination, but not hand–eye coordination](sex-difference-laparoscopic-final-performance.md) — related
 - [No significant associations between baseline anatomical knowledge or visuospatial ability and ultrasound performance](no-baseline-predictors-ultrasound-performance.md) — reports the opposite
 - [Spatial visualizers (SPAT) outperformed object visualizers and verbalizers across all performance domains on a laparoscopic clip-applying task, pooled across training modalities](spatial-learners-outperform-other-cognitive-styles.md) — related
+- [Higher pre-training apparel spatial visualization skill predicted larger fit correction skill gains from the PBL-VR training](asvt-pretest-predicts-fcst-gain.md) — a narrower finding that bears on this claim

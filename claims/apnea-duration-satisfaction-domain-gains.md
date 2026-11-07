@@ -51,3 +51,4 @@ Domain-level analysis of the satisfaction questionnaire in the randomized trial 
 - [A VR ECMO simulation raised nursing students' learning immersion and satisfaction without improving knowledge, confidence, or clinical reasoning](vr-ecmo-immersion-without-knowledge-gain.md) — related
 - [Self-perceived confidence improved significantly across all ten surveyed pediatric CPR and interprofessional collaboration items (p < 0.001 each)](ipstar-confidence-gains.md) — related
 - [Simulator use for specific clinical content differs by learner group, with practical-year students reporting the highest use in airway management, emergency medicine, gynecology, and ultrasound diagnostics](sbt-field-specific-usage-group-differences.md) — related
+- [The self-efficacy gain does not extend to shared decision-making confidence, where groups showed no significant difference](self-efficacy-shared-decision-making-null-item.md) — related

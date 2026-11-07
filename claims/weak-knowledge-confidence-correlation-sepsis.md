@@ -58,3 +58,4 @@ Pearson product-moment correlation in the 355-nurse survey found "a weak yet sta
 - [Nursing students' e-learning motivation and attitude were positively correlated after training, strongest in the control group](motivation-attitude-positive-correlation-nursing.md) — related
 - [Practice frequency and perceived competence were positively but weakly correlated (Spearman's r = 0.303, p = 0.019)](practice-frequency-perceived-competence-correlation.md) — related
 - [Self-confidence scores show a positive but non-significant correlation with exam performance in this cohort](confidence-exam-correlation-non-significant.md) — related
+- [Perceived barriers and facilitators differ between sepsis recognition and sepsis management](recognition-vs-management-barriers.md) — related

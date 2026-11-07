@@ -49,6 +49,7 @@ The article recommends starting RaT training at the beginning of residency becau
 
 - [Design RaT programs as longitudinal, integrated curricula with structured instruction, direct practice, formative feedback, and ongoing coaching](longitudinal-integrated-rat-program-design.md)
 - [Offer low-threshold, accessible didactics training and early teaching involvement to promote physicians' teaching-related self-efficacy](didactics-training-promote-physician-self-efficacy-strategy.md)
+- [Start robotic surgery training early, at the beginning of residency programs, capitalising on young adults' precision](start-robotic-training-at-residency-start.md)
 
 ## Examples
 -

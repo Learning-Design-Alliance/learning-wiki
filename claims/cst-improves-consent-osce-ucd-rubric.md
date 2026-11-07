@@ -55,3 +55,4 @@ Randomised cluster-sampling trial of 122 students (61 per arm) in a UCD surgical
 - [A specialty-specific OSCE plus WBA curriculum raised end-of-rotation OSCE total scores versus historical controls in radiation oncology postgraduates](specialty-osce-wba-curriculum-higher-osce-total.md) — related
 - [Medical students' confidence in obtaining patient consent rose significantly from pre-test to post-test within the CST group](cst-raises-consent-confidence.md) — related
 - [Patient comments frequently cite communication failures, with inadequate communication appearing in 30% of coded comments](communicator-role-inadequate-communication-frequency.md) — related
+- [A 2.5-hour patient education training intervention significantly improves final-year physiotherapy students' OSCE-assessed patient education performance versus control](short-training-improves-physiotherapy-osce-patient-education.md) — related

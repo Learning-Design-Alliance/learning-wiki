@@ -56,3 +56,4 @@ Pre-/post-training self-assessment using a 10-point Likert scale among the enrol
 - [GEARS domain and surgical-step scores were similar across experience groups for both procedures, with all p > 0.05](gears-domain-step-scores-similar-groups.md) — related
 - [Novice trainees' confidence in laparoscopic skill rose from pre-test to post-test within Group A after training with AEDS real-time feedback](aeds-feedback-increases-novice-confidence.md) — related
 - [Students' self-rated competency scores across all 12 suturing techniques rose from 1.85 to 3.84 after the course, in one uncontrolled pre-post study](self-rated-competency-improved-median-1-85-to-3-84.md) — related
+- [Trainees rate simultaneous remote laparoscopic training favorably, with remote-coached trainees rating self-practice proficiency higher](favorable-ratings-remote-training.md) — related

@@ -48,3 +48,4 @@ Resident-level covariate estimates from the same multilevel multivariable linear
 - [Yearly inpatient volume as a continuous variable is not significantly associated with GM-ITE scores or burnout symptoms](continuous-inpatient-volume-not-significant.md) — related
 - [PGY trainees spend less daily self-directed learning time after work than medical interns, alongside differences in hospital level](pgy-less-self-directed-learning-time.md) — related
 - [In multivariable analysis, region of medical school graduation was not associated with GM-ITE total score, while postgraduate year, night shifts, and assigned inpatient caseload were](gm-ite-multivariable-region-not-associated-caseload-associated.md) — related
+- [Univariable analysis associated correct CSV-IE answers with emergency outpatient volume, PGY-2, general medicine rotation, longer internal medicine rotation, night shifts, and moderate duty hours](univariable-factors-csv-ie-correct-answer.md) — related

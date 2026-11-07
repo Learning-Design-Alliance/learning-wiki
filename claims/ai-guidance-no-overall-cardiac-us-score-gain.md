@@ -48,3 +48,4 @@ Prospective randomized controlled trial of 44 novices (21 AI-enhanced, 23 non-AI
 - [Real-time AI guidance improved novices' acquisition of the Apical-4-chamber and Apical-5-chamber views after a short cardiac ultrasound course](ai-guidance-improved-a4c-a5c-views.md) — related
 - [Novices trained with real-time AI guidance completed the cardiac ultrasound proficiency exam more slowly than non-AI peers](ai-guidance-slower-exam-completion.md) — related
 - [Tutored residents obtain higher-quality echocardiographic images and more interpretable cardiac findings, with no significant difference for lung ultrasound](tutoring-improves-echocardiography-image-quality-not-lung.md) — related
+- [Fellow image quality matched technicians for PLAX and A5C views but was significantly worse for the A3C view](fellow-image-quality-a3c-worse.md) — related

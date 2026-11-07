@@ -1,0 +1,50 @@
+---
+type: claim
+title: Peer-to-peer ultrasound teaching achieves learning outcomes comparable to faculty-led instruction when students have pre-existing anatomical knowledge
+description: Peer-to-peer ultrasound teaching achieves learning outcomes comparable to faculty-led instruction when students have pre-existing anatomical knowledge
+id: peer-tutors-comparable-outcomes-ultrasound
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-11-07
+evidence_strength: moderate
+newest_evidence: 2024
+sources:
+  - id: recker-f-2024
+    resource: "https://doi.org/10.1186/s12909-024-06092-9"
+    title: "Recker F, Neubauer R, Dong Y, Gschmack AM, Jenssen C, Möller K, Blaivas M, Ignacio Prats M, Lucius C, Ruppert J, Sänger SL, Sirli R, Weimer J, Westerway SC, Zervides C, Dietrich CF. (2024). Exploring the dynamics of ultrasound training in medical education: current trends, debates, and approaches to didactics and hands-on learning. BMC Medical Education. https://doi.org/10.1186/s12909-024-06092-9"
+    author: Recker F, Neubauer R, Dong Y, Gschmack AM, Jenssen C, Möller K, Blaivas M, Ignacio Prats M, Lucius C, Ruppert J, Sänger SL, Sirli R, Weimer J, Westerway SC, Zervides C, Dietrich CF
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
+---
+
+# Peer-to-peer ultrasound teaching achieves learning outcomes comparable to faculty-led instruction when students have pre-existing anatomical knowledge
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q2`
+> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+
+## Subclaims
+`q2 i?` Students taught by peer tutors show comparable learning success to those taught by physician instructors, and long-term retention shows no significant difference between the two. [→ Recker F 2024](#recker-f-2024)
+
+## Evidence
+
+### Recker F 2024
+
+Recker F, Neubauer R, Dong Y, Gschmack AM, Jenssen C, Möller K, Blaivas M, Ignacio Prats M, Lucius C, Ruppert J, Sänger SL, Sirli R, Weimer J, Westerway SC, Zervides C, Dietrich CF. (2024). Exploring the dynamics of ultrasound training in medical education: current trends, debates, and approaches to didactics and hands-on learning. BMC Medical Education. https://doi.org/10.1186/s12909-024-06092-9
+
+`q2 · i?` · `review · r2`
+
+Narrative review of comparative studies on peer-to-peer ultrasound instruction; the review reports that with pre-existing anatomical knowledge, "peer tutors can lead to comparable learning success among students as physician instructors". Long-term retention studies also showed no significant difference.
+
+> "Comparative studies have shown that with pre-existing anatomical knowledge, peer tutors can lead to comparable learning success among students as physician instructors [3, 4, 10, 11]."
+
+## Discussion
+
+
+## Related Claims
+- [Peer teaching effectiveness varies by ultrasound application and student prior knowledge, with faculty favored for complex applications and novices](peer-teaching-limits-complex-applications-novices.md) — reports the opposite
+- [Peer-assisted ultrasound instruction is comparably effective to faculty-led instruction in most comparative studies](peer-teaching-ultrasound-comparable-to-faculty.md) — a broader claim this one bears on
+- [Near-peer teaching is experienced as relatable and lowers the barrier to asking questions compared with faculty-led sessions](near-peer-relatability-comfort-asking-questions.md) — related

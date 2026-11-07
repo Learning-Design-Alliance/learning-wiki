@@ -50,3 +50,4 @@ Synthesis across the eight included cross-sectional surveys; the review lists th
 - [Exposure to and student awareness of clinical rheumatology has markedly decreased over time](rheumatology-exposure-decreased-over-time.md) — related
 - [Undergraduate rheumatology teaching hours range widely from 4 to 120 hours per medical student across institutions](rheumatology-teaching-hours-4-120-range.md) — related
 - [In the UK, rheumatology is taught in the latter years of study, whereas in the USA it is taught every year](uk-latter-years-usa-every-year-rheumatology.md) — related
+- [Educators identify curriculum problems including poor subject integration, late clinical exposure, and outdated content, and report that faculty development changed their teaching](curriculum-integration-faculty-development-theme.md) — related

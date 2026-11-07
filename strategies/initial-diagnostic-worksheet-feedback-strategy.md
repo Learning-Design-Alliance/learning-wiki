@@ -51,6 +51,7 @@ The article recommends generating several diverse worksheets from a platform ite
 
 - [Diagnostic Assessment](diagnostic-assessment.md)
 - [Frame LLM use in biomedical education around low‐stakes formative tasks with expert‐guided verification and rationale requests](llm-low-stakes-formative-use-expert-verification-strategy.md)
+- [Use LLM interactive features for clinical scenario simulations with performance-based feedback in medical education](llm-clinical-scenario-simulation-feedback-strategy.md)
 
 ## Examples
 -

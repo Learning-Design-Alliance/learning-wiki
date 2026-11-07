@@ -72,3 +72,5 @@ Independent-samples t-tests comparing 67 lower-proficiency (L) and 30 higher-pro
 - [Speaking proficiency and speaking anxiety were significantly negatively correlated at posttest](speaking-proficiency-anxiety-negative-correlation.md) — related
 - [Self-efficacy correlates positively with foreign language achievement measures](self-efficacy-correlates-language-achievement.md) — related
 - [Learning engagement dimensions correlate negatively with learning anxiety and positively with academic self-efficacy](engagement-anxiety-negative-correlations.md) — related
+- [Item MSLQ_22 and MBI_08 scores are negatively correlated with performance in the high-grade group](high-grade-item-negative-correlation.md) — related
+- [Motivation item scores differ significantly across academic performance groups in e-learning medical technology students](mslq-item-differences-across-performance-groups.md) — related

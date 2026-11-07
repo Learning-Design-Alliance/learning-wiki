@@ -68,3 +68,4 @@ Assessor-blinded RCT of 50 clinical medical students interning at the First Affi
 - [Clinical medicine students showed the largest score gap, 89.88 versus 68.34, between virtual-simulation and control groups](clinical-medicine-largest-virtual-simulation-score-gap.md) — related
 - [Low-fidelity otoscopy simulation raises anatomical knowledge scores by 32% over control instruction](otoscopy-simulation-knowledge-gain.md) — related
 - [Adding a virtual simulation teaching platform to traditional teaching improves medical undergraduates' anatomical knowledge of gastrointestinal diseases](virtual-simulation-platform-improves-anatomical-knowledge.md) — related
+- [Students in the PBL-online group had significantly higher grade point averages in their internship semester than the traditional group, but the two groups were not equivalent at baseline](pbl-online-group-gpa-difference.md) — related

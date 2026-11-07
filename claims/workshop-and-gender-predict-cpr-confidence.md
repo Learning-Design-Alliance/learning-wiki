@@ -72,3 +72,4 @@ Same regression model predicting CPR confidence; gender was entered with female 
 - [Less experienced nurses (< 10 years) and untrained nurses are more likely to report insufficient preparedness](less-experienced-nurses-insufficient-preparedness.md) — related
 - [Male health care professionals were 7.05 times more likely than females to have adequate ACLS knowledge and skills](male-gender-higher-acls-adequate-odds.md) — related
 - [Any form of BLS training and current certification are associated with higher competency, while experience and CPR frequency are not](bls-training-certification-competency-association.md) — related
+- [Grade incentives in formative assessments were associated with student performance in one group with no comparison group (odds ratio 6.19)](grade-incentives-fa-strongest-remediation-predictor-or-6-19.md) — related

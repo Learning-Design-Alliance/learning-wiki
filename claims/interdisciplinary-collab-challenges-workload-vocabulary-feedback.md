@@ -61,3 +61,4 @@ Interview findings: editing students finished early and had lighter loads, progr
 - [IPE produces negative impacts including logistical challenges, power dynamics, communication barriers, and feeling overwhelmed by extra workload](ipe-negative-impacts-power-dynamics-workload.md) — related
 - [Before the experiment, most students lacked sufficient knowledge for cross-disciplinary integration and were unfamiliar with the target equipment](baseline-low-technological-preparation.md) — related
 - [Opponents of CSA raised eleven categories of concerns, including sufficiency of the written exam, scoring-rubric difficulty, and academic workload](csa-opposition-eleven-concern-categories.md) — related
+- [Barriers arising during interprofessional simulation sessions include unclear team leadership, unequal profession numbers, unfamiliar teammates, perceived hierarchies, and information-sharing gaps](sim-ipe-session-level-barriers.md) — related

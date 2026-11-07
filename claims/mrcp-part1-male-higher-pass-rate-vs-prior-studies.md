@@ -51,3 +51,4 @@ Univariable chi-squared comparison of first-sitting pass rates by sex in the 604
 - [Gender differences appear in progression outcomes and workplace-based assessments, including ARCP outcomes, milestone ratings, feedback language and granted autonomy, with direction varying by specialty and rater](gender-progression-workplace-assessment-gaps.md) — related
 - [Candidates who passed MRCP Part 1 at first sitting had significantly higher medical school performance (EPM) and SJT scores than those who failed](mrcp-part1-passers-higher-epm-sjt.md) — related
 - [Religion predicts first-attempt outcomes, with effects differing by examination format and reversing direction for some groups](religion-predicts-first-attempt-outcomes-format-dependent.md) — related
+- [First-time PANCE pass rates were similar between the MMI cohort (98%) and the two panel-interview cohorts (100%)](mmi-simulation-similar-pance-pass-rates.md) — related

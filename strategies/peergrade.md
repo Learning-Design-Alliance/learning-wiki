@@ -64,6 +64,7 @@ Peer assessment works best when it is criterion-referenced rather than impressio
 
 - Structured peer review more broadly — Peergrade is one platform implementation of the general peer assessment strategy; the design principles (rubrics, anonymity, feedback appraisal) transfer to any tool.
 - [Implement AI-peer integrated feedback as a standardized two-phase revision cycle with rubric-aligned prompting and instructor monitoring](ai-peer-integrated-feedback-cycle-strategy.md)
+- [Use element-weighted rubrics and social moderation to standardise interpretation of marking criteria](rubric-elemental-weighting-social-moderation.md)
 
 ## Related Elements
 - [Assess Performance](../elements/assess-performance.md) — the rubric-based evaluation step that structures what reviewers attend to

@@ -58,6 +58,7 @@ The article recommends structured training programmes for newly appointed nurse 
 - [Structured mentorship system in which trained nurse mentors deliver EBP education, bedside teaching and ongoing monitoring](nurse-mentor-ebp-monitoring-strategy.md)
 - [Integrate structured mentorship and reflective coaching alongside technical competency programs to support psychological outcomes](sccdp-mentorship-coaching-supplement-strategy.md)
 - [Screen for SMA and nomophobia and build academic self-efficacy through mastery experiences, role models, feedback, and coaching](ase-building-and-digital-wellbeing-strategy-nursing-interns.md)
+- [Differentiate safety education content and teaching methods for novice versus experienced nurses](differentiate-safety-education-novice-experienced-nurses.md)
 
 ## Examples
 -

@@ -55,3 +55,6 @@ Pre- and post-simulation questionnaires on 5-point Likert scales compared with t
 - [Participants' perceived confidence in the RUSH protocol significantly increased from a median of 6 to 9 (p < 0.001, effect size −0.842)](rush-mooc-confidence-gain.md) — a narrower finding that bears on this claim
 - [Students' self-rated competency scores across all 12 suturing techniques rose from 1.85 to 3.84 after the course, in one uncontrolled pre-post study](self-rated-competency-improved-median-1-85-to-3-84.md) — related
 - [Subjective competence in brain death diagnosis increased significantly after the VR simulation](subjective-competence-gain-after-vr-simulation.md) — a narrower finding that bears on this claim
+- [Foundation doctors report low baseline confidence and little prior ultrasound teaching, and unanimously support including US-PIVC in the foundation curriculum](foundation-doctors-low-baseline-us-pivc-confidence.md) — related
+- [US-PIVC training significantly increases foundation doctors' self-reported confidence in performing PIVC on patients with difficult venous access, regardless of ultrasound use](us-pivc-training-increases-difficult-access-confidence.md) — related
+- [US-PIVC training significantly increases foundation doctors' confidence in performing ultrasound-guided PIVC itself](us-pivc-training-increases-us-pivc-confidence.md) — related

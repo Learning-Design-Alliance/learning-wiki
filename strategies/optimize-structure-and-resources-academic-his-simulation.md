@@ -54,6 +54,7 @@ Based on student feedback from both groups, the authors recommend reallocating c
 - [When implementing DwGJ-based simulation with CBL, structure teaching hours and expand trained instructor capacity](dwgj-cbl-implementation-recommendations.md)
 - [Prioritize systematic integration of instructional resources and timely feedback of assessment information in online teaching platforms](prioritize-resources-and-assessment-feedback-platforms.md)
 - [Equip instructors with concrete personalization strategies when adopting flipped designs dominated by group activities](personalization-strategies-flipped-designs.md)
+- [Expand contextualised simulation to non-technical skills and co-create future cases with students as partners](expand-simulated-cases-nontechnical-cocreation.md)
 
 ## Examples
 -

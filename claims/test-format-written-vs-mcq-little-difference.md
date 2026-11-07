@@ -51,3 +51,4 @@ Authors' comparison of written-format scores in the first period with MCQ-format
 - [Practice test format moderates the testing effect: mixed-format (g = 0.80) and multiple-choice (g = 0.70) practice tests produced larger effects than short-answer tests (g = 0.48)](practice-test-format-moderates-effect.md) — related
 - [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) — related
 - [Multiple-choice reading test scores failed to significantly improve at all proficiency levels after the intervention](reading-test-no-significant-improvement.md) — related
+- [Final test question format has a significant main effect: students score lower on VSAQ-formatted final test questions than MCQ-formatted ones](final-test-format-main-effect-vsaq-lower.md) — related

@@ -58,6 +58,7 @@ The article's implementable session recipe: distribute pre-class materials on cr
 - [Structured pre- and post-simulation assignments to consolidate clinical reasoning learning](pre-post-simulation-reflective-assignments.md)
 - [Run a simulated clinical practice ability assessment before residents leave the department and evaluate teaching from results plus student feedback](simulated-pre-departure-assessment-feedback-strategy.md)
 - [Structure VRS sessions as group scenario drills followed by peer discussion and instructor-led debriefing](vrs-group-drills-feedback-debriefing-strategy.md)
+- [Before/during/after CBL session recipe: pre-class case distribution and student-led preparation, student-facilitated in-class discussion, and post-class self-assessment and homework](three-phase-student-led-cbl-session-strategy.md)
 
 ## Examples
 -

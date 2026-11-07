@@ -74,6 +74,7 @@ The review enumerates crucial considerations for maximizing CBL's potential: "en
 - [Standardize delivery of a new teaching model via instructor training, standardized curriculum and shared teaching aids](standardized-delivery-instructor-training-curriculum-aids.md)
 - [Increase student preparation for preclass material via clear expectations, focused preparation tasks, and explicit links to in-class active learning](clear-expectations-focused-prep-increase-preparation.md)
 - [Key considerations and proposed strategies for better CBL implementation in applied physiology](cbl-implementation-improvement-strategies-applied-physiology.md)
+- [Before/during/after CBL session recipe: pre-class case distribution and student-led preparation, student-facilitated in-class discussion, and post-class self-assessment and homework](three-phase-student-led-cbl-session-strategy.md)
 
 ## Examples
 -

@@ -56,3 +56,4 @@ Nonrandomized curriculum-embedded comparison of intact cohorts: fourth-year Zoom
 - [VR-based acupuncture training was associated with higher theoretical knowledge posttest scores than conventional instruction](vr-acupuncture-higher-theoretical-knowledge.md) — related
 - [Prior meta-analytic evidence indicates 3D visualization technology yields superior anatomical knowledge and satisfaction compared to 2D materials](3dvt-meta-analysis-superior-knowledge-satisfaction.md) — a broader claim this one bears on
 - [Perceived usefulness of VR correlated with perceived knowledge impact, with the strongest association between immersion and understanding (R = 0.73)](vr-perception-correlations-immersion-understanding.md) — related
+- [A short PBL-VR training session significantly increased both apparel spatial visualization and fit correction skills](pbl-vr-improves-spatial-visualization-fit-correction.md) — related

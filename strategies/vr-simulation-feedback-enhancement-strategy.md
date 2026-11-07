@@ -52,6 +52,7 @@ Because VR's head-mounted displays prevented tutors from observing intern perfor
 - [Integrate VR simulation design with prebriefing, intuitive interfaces, adaptive difficulty, scenario variability, ergonomic hardware, and structured debriefing](vr-design-balance-usability-load-debriefing-strategy.md)
 - [Administer the cognitive load self-report tool after simulation debriefing to identify excessive strain and adapt simulation teaching](cognitive-load-tool-informs-simulation-teaching-adaptation.md)
 - [Embed immediate corrective feedback in virtual simulation practice sessions](real-time-corrective-feedback-virtual-simulation.md)
+- [Prepare backup head-mounted displays and on-site technical knowledge for VR simulation sessions, and develop scenarios through co-creative processes with end-users](vr-simi-backup-hmd-cocreative-scenario-development-strategy.md)
 
 ## Examples
 -

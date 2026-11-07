@@ -75,3 +75,4 @@ Quasi-experimental baseline check comparing the two intact classes on previous-s
 - [The two groups were comparable in gender, age, and educational background before instruction](3d-visualization-pbl-groups-comparable-baseline.md) — related
 - [Prior AI tool use and end-of-semester course scores did not differ between groups, supporting attribution of the score difference to chatbot use](baseline-ai-use-and-course-scores-comparable.md) — related
 - [The intervention and control groups did not differ significantly in knowledge before the intervention](no-baseline-knowledge-difference-groups.md) — related
+- [Feedback and control groups were comparable at baseline in conversation length and sociodemographics before the feedback intervention](baseline-comparability-chat-transcript-word-count.md) — related

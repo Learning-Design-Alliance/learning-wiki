@@ -60,3 +60,4 @@ The article describes prior research on the same platform using a between-group 
 - [Time spent using MasterMaths software was positively and significantly correlated with mathematics performance improvement in Louw et al.'s (2008) study](mastermaths-time-on-task-correlated-with-mathematics-improvement.md) — related
 - [No significant correlation between total platform usage time and score improvement](cataract-vsim-usage-time-no-correlation.md) — reports the opposite
 - [Time spent on e-learning modules and number of authentic videos watched did not correlate with MSE test performance](engagement-no-correlation-mse-scores.md) — related
+- [Platform usage metrics showed a positive correlation with final grades, with quiz questions answered showing a moderate significant correlation (r = 0.279)](osmosis-usage-correlates-with-grades.md) — related

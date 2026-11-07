@@ -44,6 +44,7 @@ The review recommends that programs should adopt standardized, competency-based 
 - [Adopt competency-based, outcome-targeted simulation training rather than merely allocating simulation time](adopt-competency-based-outcome-targeted-simulation.md)
 - [Adopt structured reporting standards for prescribing assessment research including reliability, validity, cut scores and costs](recommend-structured-reporting-prescribing-assessment.md)
 - [Adopt flexible, competency-based attendance policies and flipped classrooms for senior medical students](flexible-attendance-flipped-classroom-senior-students.md)
+- [Use validated admission competency criteria to design admission-evaluation methodologies and align curriculum with graduation competencies](admission-competency-criteria-inform-assessment-and-curriculum.md)
 
 ## Examples
 -

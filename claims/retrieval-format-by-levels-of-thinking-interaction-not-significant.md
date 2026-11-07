@@ -56,3 +56,4 @@ Classroom experiment with 100 first-year Cognitive Psychology undergraduates in 
 - [Information retrieval questions were consistently easier than comprehension questions across both visualisation formats](retrieval-easier-than-comprehension-questions.md) — related
 - [The training-by-content interaction is not specific to test question type, indicating transfer between skill and fact learning](no-three-way-interaction-test-question-type-transfer.md) — related
 - [Implicit feedback via higher- and lower-order questions showed no significant effect on first-graders' reading comprehension](implicit-question-feedback-no-comprehension-effect.md) — related
+- [No interaction between practice and final test question format: matching formats does not enhance the retrieval effect, challenging transfer-appropriate processing](no-format-interaction-challenges-tap.md) — related

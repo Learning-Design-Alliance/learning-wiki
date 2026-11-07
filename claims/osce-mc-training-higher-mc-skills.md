@@ -50,3 +50,4 @@ Cross-sectional comparison of three groups (learned students n = 15, unlearned s
 - [OSCE-based medical communication training produced no significant difference in total communication-with-movement (CWM) skill scores between trained and untrained physiotherapy students](osce-mc-training-no-cwm-gain.md) — related
 - [Trained physiotherapy students scored significantly lower than practicing physiotherapists on total CWM skills](students-lower-cwm-than-pts.md) — related
 - [Correspondence analysis of CWM conversations identified distinct characteristic words per group: identification and politeness phrases for trained students and the word “dull” for physiotherapists](cwm-conversation-characteristic-words.md) — related
+- [A 2.5-hour patient education training intervention significantly improves final-year physiotherapy students' OSCE-assessed patient education performance versus control](short-training-improves-physiotherapy-osce-patient-education.md) — related

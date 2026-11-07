@@ -73,3 +73,4 @@ D-study for the two-facet nested r:(p×i) design, which matches the course's rat
 - [Two raters using the QASSH achieve a G coefficient above 0.85, while a single rater still yields Coef-G above 0.75](qassh-two-raters-g-above-085.md) — related
 - [A fully crossed PtBL peer-assessment design requires 27 student raters, 7 MDs, or 5 non-MDs for a Phi-coefficient ≥ 0.70 on a six-item rubric](fully-crossed-dstudy-rater-requirements.md) — related
 - [A nested r:(p × i) design achieves acceptable reliability with far fewer raters: 9 students, 5 MDs, or 4 non-MDs](nested-design-fewer-raters-reliable.md) — related
+- [A g-coefficient above 0.7 requires at least a random set of 3 different EPAs, each rated 4 times by 4 different supervisors, totalling 12 assessments](twelve-assessments-three-epas-four-supervisors-g70.md) — related

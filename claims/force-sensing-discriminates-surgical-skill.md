@@ -66,3 +66,4 @@ The review reports a prospective cross-skill comparison of 60 participants (20 n
 - [Positional tracking and force sensing were considered important simulator features](position-and-pressure-sensing-important-features.md) — related
 - [Novice surgeons using force feedback apply significantly less force to tissue during robotic-assisted suturing tasks](ffb-reduces-applied-force-robotic-suturing.md) — related
 - [Force feedback significantly reduces suturing errors, particularly suture breaks and suture fray, in robotic-assisted suturing](ffb-reduces-suturing-errors-breaks-fray.md) — related
+- [Error frequency differs significantly across suturing gestures and error types, with pulling the needle out of tissue and poor instrument control most frequent](error-distribution-gesture-type-rarp.md) — related

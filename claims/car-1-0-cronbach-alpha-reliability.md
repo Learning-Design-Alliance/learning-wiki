@@ -61,3 +61,4 @@ Reliability calibration study in which three raters (the authors) independently 
 - [A literature review found that only 26 of 54 published process-of-science assessment tools examined some aspect of conclusion making](literature-review-conclusion-assessment-tools-scarcity.md)
 - [Two independent observers showed excellent interrater agreement when assessing nursing students' VAP prevention skill performance in simulation](excellent-interrater-agreement-vap-checklist.md) — related
 - [Only diagnostic ranking shows excellent inter-rater reliability among the five scoring dimensions for evaluating ChatGPT-4 clinical responses](diagnostic-ranking-only-reliable-scoring-dimension.md) — related
+- [Peer evaluations show higher internal and inter-rater reliability than SETs but are hard to apply to one-to-one clinical teaching](peer-evaluation-higher-reliability-limited-clinical-fit.md) — related

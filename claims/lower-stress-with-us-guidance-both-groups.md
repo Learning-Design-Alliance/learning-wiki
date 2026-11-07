@@ -53,3 +53,4 @@ Retrospective single-item self-report questionnaire administered once at program
 - [A majority of trainees reported anxiety about performing vascular access without ultrasound, and most acknowledged the importance of landmark-based skills](trainee-anxiety-and-landmark-importance-perceptions.md) — related
 - [Trainees report greater confidence with ultrasound-guided than with landmark-based cannulation for both IJV and RA access](trainees-greater-confidence-ultrasound-guided-cannulation.md) — related
 - [Ultrasound-guided cannulation was associated with fewer required attempts and less frequent supervisor assistance than landmark-based technique](ultrasound-guided-fewer-attempts-less-assistance.md) — related
+- [Patients reported that POCUS-assisted cannulation supported nurse competency and increased their confidence in needle placement (n = 17)](patients-report-pocus-improves-cannulation-experience.md) — related

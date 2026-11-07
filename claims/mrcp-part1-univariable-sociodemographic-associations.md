@@ -50,3 +50,4 @@ Univariable chi-squared and rank tests in a retrospective longitudinal cohort of
 - [When prior attainment (EPM) is added to the model, only male sex and higher medical school performance remain associated with passing MRCP Part 1; the minority-ethnic and gateway-programme effects are no longer significant](mrcp-part1-model2-prior-attainment-adjustment.md) — related
 - [Candidates who passed MRCP Part 1 at first sitting had significantly higher medical school performance (EPM) and SJT scores than those who failed](mrcp-part1-passers-higher-epm-sjt.md) — related
 - [Lower socioeconomic background, older age, graduate-entry and non-professional parental background are associated with lower MRCS pass rates and more non-satisfactory ARCP outcomes](socioeconomic-age-background-attainment-gaps.md) — related
+- [Panellist age and sex showed no statistically significant effect on Angoff ratings](panellist-age-sex-no-significant-effect.md) — related

@@ -55,3 +55,4 @@ Interrupted time series study observing teamwork behaviours during 39 real traum
 - [Team training programs in hospitals produce sustained improvements in teamwork knowledge, skills, attitudes, and behaviors on the job, up to 12 months after training](team-training-sustained-ksa-transfer-hospitals.md) — related
 - [Mean simulated resuscitation skills scores dropped 10.2 percentage points from baseline to one year despite frequent in situ simulation training](mean-skills-score-drop-10-points-one-year.md) — related
 - [Empathic tendency scores changed over time across all groups, rising after simulation and returning near baseline during counseling](empathy-changed-over-time-all-groups.md) — related
+- [Trauma team training improves team-specific performance outcomes such as teamwork and task completion scores](ttt-improves-team-specific-outcomes.md) — related

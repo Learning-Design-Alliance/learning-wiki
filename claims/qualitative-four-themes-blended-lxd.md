@@ -53,3 +53,4 @@ Deductive thematic analysis of students' open-ended survey responses collected v
 - [Qualitative analysis identifies realism, usability, technical performance, social presence, and engagement as key experience themes with the VP system](qualitative-vp-experience-themes.md) — related
 - [Thematic analysis of 120 free-form comments identified four themes: improved learning experience, engagement, collaborative learning and skill development](cartooning-feedback-four-themes.md) — related
 - [Free-text student feedback on the 2021 OSCE clustered into four themes, including that the longer examination was too tiring and feedback was lacking](2021-osce-free-text-four-themes.md) — related
+- [Free-text feedback on the US-PIVC course clusters around technical skills, improved confidence, clinical utility and future use, with praise for interactivity and repeated practice](us-pivc-course-feedback-themes.md) — related

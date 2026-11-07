@@ -49,3 +49,4 @@ Meta-analysis of Fisher's z-transformed discrimination indices across 12 data po
 - [VSAQ assessments maintain acceptable internal consistency (reliability)](vsaq-acceptable-reliability-pooled-fishers-z-0-43.md) — related
 - [After excluding the Dhok et al. (2023) outlier, students score significantly lower on VSAQs than MCQs](vsaq-scores-lower-than-mcq-outlier-removed.md) — related
 - [Initial pooled analysis shows no statistically significant difference between VSAQ and MCQ scores but with extreme heterogeneity](vsaq-mcq-initial-pooled-no-difference-high-heterogeneity.md) — related
+- [The CSV-IE demonstrated high discriminatory power (DI ≥ 0.20) across all assessed GM-ITE domains](csv-ie-high-discrimination-all-domains.md) — related

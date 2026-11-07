@@ -68,3 +68,4 @@ Freeman-Halton extension of Fisher's exact test compared survey responses for th
 - [A statistically significant majority of postgraduate dental students reported improved clinical confidence (67%) and satisfaction with the VDT lecture (96%)](vdt-clinical-confidence-lecture-satisfaction.md) — related
 - [Virtual dissection tables allow students to practice procedures in a low-risk environment where errors can be recognized and virtually reverted without consequences](vdt-low-risk-error-recovery-practice.md) — related
 - [In open-ended feedback, 83% of postgraduate dental students stated they had no further suggestions and were satisfied with the VDT sessions](vdt-open-ended-feedback-no-suggestions.md) — related
+- [Digital visualization of structures that are hard to see on body donors improved the quality of preparation in dissection courses](digital-visualization-improves-dissection-quality.md) — related

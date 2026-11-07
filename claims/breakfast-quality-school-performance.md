@@ -56,3 +56,4 @@ The review's synthesis of cross-sectional studies using food-group-based breakfa
 - [Robust RCTs of school breakfast programs failed to find behavioral benefits, with low and variable attendance and a shift from at-home to at-school consumption limiting impact](sbp-rcts-null-behavior-attendance-limits.md) — related
 - [Breakfast After the Bell shows benefits for attendance and behavior, but mixed evidence on test scores](batb-mixed-academic-evidence.md) — related
 - [A 16-week integrated structured breakfast and morning sport program was associated with greater improvement in Stroop Test performance (selective attention and inhibitory control) than ordinary school routine](breakfast-morning-sport-improves-stroop-selective-attention.md) — related
+- [Abstaining from junk food is associated with better academic performance](junk-food-avoidance-better-academic-performance.md) — a narrower finding that bears on this claim

@@ -49,3 +49,4 @@ Descriptive results from the cross-sectional survey (N = 701). The article repor
 - [PBL is associated with higher overall DREEM medical educational environment scores than LBL in randomized trials](pbl-higher-dreem-than-lbl.md) — related
 - [Evidence for PBL's DREEM advantage comes from six small Chinese RCTs with randomization and blinding weaknesses](pbl-dreem-evidence-limited-chinese-rcts.md) — related
 - [In univariate analysis, performance was associated with age, gender, nationality, substance and tobacco use, stress, academic year, prior failure, revision hours, satisfaction and motivation; only the DREEM atmosphere subscale was significant among DREEM domains](univariate-associations-performance-factors.md) — related
+- [Four educational environment subscales directly and positively affect emotional engagement, explaining 48% of its variance in HPE students](environment-subscales-predict-emotional-engagement.md) — related

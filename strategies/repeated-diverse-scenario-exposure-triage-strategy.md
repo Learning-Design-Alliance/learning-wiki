@@ -52,6 +52,7 @@ In the discussion, the authors recommend that, to reduce triage time in high-unc
 - [Integrate VR simulation design with prebriefing, intuitive interfaces, adaptive difficulty, scenario variability, ergonomic hardware, and structured debriefing](vr-design-balance-usability-load-debriefing-strategy.md)
 - [Adapt and tailor the triage simulation across program stages, modalities, and cohort needs](adapt-tailor-triage-simulation-blueprint.md)
 - [Gradually introduce unpredictable elements into SBL to build adaptability for CALD students preferring structured preparation](gradual-unpredictability-in-sbl.md)
+- [Incorporate multiple representative clinical cases repeatedly and group students into small cohorts to scale reception training](repeat-multiple-cases-small-cohort-reception-training.md)
 
 ## Examples
 -

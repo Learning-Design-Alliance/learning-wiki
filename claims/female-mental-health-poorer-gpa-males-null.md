@@ -52,3 +52,5 @@ Logistic regression analysis of 6,923 students (2,153 male, 4,770 female) at a S
 - [Female students with GPA below 3.0 show higher SCL-90 positive rates across all ten dimensions; male differences appear in only five dimensions](gpa-below-3-scl90-positivity-gender-patterns.md) — related
 - [Overall SCL-90 positive rate was 41.2%, with female students showing higher positive rates for depression and males higher for paranoid ideation and psychoticism](scl90-positive-rate-gender-differences.md) — related
 - [Year of study and minority ethnicity predict poor academic performance in both genders, with other demographic predictors differing by gender](demographic-predictors-gpa-gender-specific.md) — related
+- [Female students outperform male students academically in the studied Thai school](female-students-better-academic-performance-thai-school.md) — related
+- [Among Chinese vocational-college freshmen, worse mental health (higher SCL-90) significantly negatively predicts academic achievement](mental-health-negatively-predicts-achievement-freshmen.md) — related

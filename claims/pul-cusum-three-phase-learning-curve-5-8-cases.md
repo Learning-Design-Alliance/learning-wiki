@@ -67,3 +67,4 @@ CUSUM chart for the experienced urologist (>100 prior PUL cases) in the same coh
 - [The article reports PUL has a more accessible learning curve than HoLEP, bipolar enucleation and Aquablation, which require 20–50 and 38 cases respectively](pul-learning-curve-shorter-than-enucleation-modalities.md) — related
 - [Learning curves showed proficiency gains with inflection points at session 6 (juniors) and session 4 (intermediates)](learning-curve-cusum-inflection-points.md) — related
 - [PUL performed by PUL-naïve urologists achieves functional-outcome improvements comparable to those of an experienced urologist](pul-naive-vs-experienced-comparable-functional-outcomes.md) — related
+- [Baseline patient characteristics did not differ across the three learning-curve phases except for the Ba point of POP-Q, suggesting operative time in the competency phase is not affected by degree of prolapse](rscp-baseline-characteristics-phases-ba-exception.md) — related

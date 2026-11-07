@@ -79,3 +79,4 @@ Same questionnaire: sense-of-burden scores were 2.85 ± 1.37 (LBL) vs 2.90 ± 1.
 - [Students taught with SPOC+EIL score higher on the dental adhesion operation test than LBL students](spoc-eil-operation-test-higher.md) — related
 - [Blended learning raises student engagement and satisfaction with electronic contents without reducing satisfaction with the face-to-face lecture](blended-engagement-satisfaction-gains.md) — related
 - [Most experimental students reported the design-thinking flipped classroom enhanced knowledge comprehension and comprehensive abilities without increasing learning burden](dt-flipped-perceived-gains-no-burden.md) — related
+- [SPOC+PBL students reported higher satisfaction with teaching than LBL students across interest, participation, collaboration, interaction and clinical thinking dimensions](spoc-pbl-higher-teaching-satisfaction.md) — related

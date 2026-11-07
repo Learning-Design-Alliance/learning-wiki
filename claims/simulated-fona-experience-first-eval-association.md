@@ -68,3 +68,4 @@ Same exploratory analysis, final (three-month) evaluation: "practically no corre
 - [FONA procedure duration after three months was on average 3.6 seconds longer for the self-made-model group, with no pre-specified non-inferiority threshold](fona-duration-self-made-plus-3-6s.md) — related
 - [Skill retention after FONA training was generally preserved after three months regardless of training model used](fona-skill-retention-preserved-three-months.md) — related
 - [During-simulation physiological synchrony is positively correlated with team leaders' CRM performance scores (preliminary, 9 teams)](ps-correlates-leader-crm-performance.md) — related
+- [Procedural experience correlated with procedural confidence but not with confidence in applying instructional design, providing feedback, or understanding deliberate practice](procedural-experience-not-correlated-teaching-confidence.md) — related

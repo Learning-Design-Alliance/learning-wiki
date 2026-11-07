@@ -50,3 +50,4 @@ Internal-structure validity evidence: standardized Cronbach's alpha computed acr
 - [Cronbach's alpha values for OSCE scores vary widely across studies, ranging from 0.43 to 0.93, with most studies not reaching good internal consistency](osce-cronbach-alpha-wide-variability.md) — related
 - [Meta-analytic average Cronbach's Alpha of domain-specific knowledge tests is 0.85 with expected item intercorrelation of 0.22](meta-analytic-alpha-knowledge-tests-085.md) — related
 - [Novice participants' simulator evaluation scores did not significantly differ from those of experienced surgeons, with high internal consistency (Cronbach's alpha 0.872) and interrater agreement (ICC 0.851)](traps-simulator-novice-expert-rating-agreement.md) — related
+- [The OSCE performance measure showed acceptable internal consistency (Cronbach's alpha = 0.858)](osce-performance-measure-cronbach-alpha-0858.md) — related

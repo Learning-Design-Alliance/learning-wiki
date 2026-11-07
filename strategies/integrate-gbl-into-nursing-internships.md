@@ -51,6 +51,7 @@ The article recommends integrating game-based strategies into nursing curricula 
 ## Related Strategies
 
 - [Incorporate game-based mobile study guides into nursing education for clinical assessment skills](incorporate-game-based-study-guides-nursing-education.md)
+- [Adopt low-cost, non-digital board games as adjuncts for complex biomedical topics](board-games-as-adjunct-for-complex-topics.md)
 
 ## Examples
 -

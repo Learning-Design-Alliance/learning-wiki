@@ -53,6 +53,7 @@ The article recommends leveraging virtual patient simulations to give trainees r
 - [Provide at least three repeated practice sessions with expert-answer feedback when training novice raters on standardized assessment scoring](three-practice-sessions-feedback-strategy.md)
 - [Deliver multilingual GenAI simulation training in the trainee's preferred language to standardize training across linguistic contexts](multilingual-genai-simulation-preferred-language-strategy.md)
 - [Use rater training, diversity recruitment, and equitable resource access to mitigate assessment disparities](rater-training-and-diversity-efforts-for-assessment-equity.md)
+- [Use LLM interactive features for clinical scenario simulations with performance-based feedback in medical education](llm-clinical-scenario-simulation-feedback-strategy.md)
 
 ## Examples
 -

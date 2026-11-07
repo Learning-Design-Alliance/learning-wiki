@@ -50,3 +50,4 @@ Subgroup analysis of the same 38-item evaluation, graphically represented in Fig
 - [GPT-4o answered image-based USMLE sample items with 89.5% accuracy versus GPT-4's 73.4%, a numerically higher but not statistically significant difference](gpt4o-89-5-percent-image-usmle-accuracy.md) — related
 - [All four items GPT-4o answered incorrectly were also answered incorrectly by GPT-4](gpt4o-errors-subset-of-gpt4-errors.md) — related
 - [GPT-4 examination accuracy is moderated by item type: multi-step vignettes (61–71%) and image-dependent items (48–63%) fall well below single-fact recall (83–88%)](gpt4-accuracy-item-type-moderators.md) — a broader claim this one bears on
+- [All three models show a higher likelihood of responding incorrectly to vignettes that were more challenging for medical students](vignette-difficulty-predicts-llm-error-rate.md) — related

@@ -48,3 +48,4 @@ Psychometric validation of a newly developed pediatric SCT using aggregate scori
 - [Structured preceptorship improved SCT clinical reasoning scores in only one of 14 pediatric topics (hematology & oncology)](preceptorship-sct-hematology-oncology-only-topic-improved.md) — related
 - [Most variables of the START-Play fidelity measure show good to excellent interrater reliability, with ICCs ranging from 0.77 to 0.95](start-play-fidelity-icc-077-095.md) — related
 - [Angoff and Modified Angoff standard-setting show good inter-rater reliability in dental education, with reported coefficients ranging from 0.65 to 0.94](angoff-good-inter-rater-reliability-dental.md) — related
+- [Peer evaluations show higher internal and inter-rater reliability than SETs but are hard to apply to one-to-one clinical teaching](peer-evaluation-higher-reliability-limited-clinical-fit.md) — related

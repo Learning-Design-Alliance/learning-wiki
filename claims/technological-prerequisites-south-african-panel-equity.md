@@ -87,3 +87,4 @@ Qualitative Delphi data from the South African panel; the article reports this l
 - [Non-users of VM blamed lack of hardware devices, internet access, technical knowledge, and insufficient promotion by instructional personnel](vm-nonusers-obstacles-devices-promotion.md) — related
 - [Access to technology and hardware was not seen as a barrier to SBE readiness, with adequate access reported (mean 3.21)](technology-access-not-a-barrier-to-sbe-readiness.md) — related
 - [Young new farmers show high acceptance and proficiency with digital technologies and platforms.](young-new-farmers-digital-technology-acceptance.md) — related
+- [Student participants report that one-on-one immersion in South African daily life deepened learning beyond their home courses](immersion-deeper-than-home-courses.md) — related

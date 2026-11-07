@@ -68,3 +68,5 @@ Same ANOVA analysis of the competency score by professional rank. The quote repo
 - [Interns have higher baseline paediatric BLS knowledge than nurses](interns-higher-baseline-bls-knowledge-than-nurses.md) — related
 - [Doctors outscore nurses on BLS knowledge/practice in Gaza hospitals](doctors-outscore-nurses-bls-gaza.md) — related
 - [Nurses at Cape Town district hospitals show very low BLS knowledge and skill scores, with only 3.0% reaching the 80% knowledge threshold](nurses-district-hospital-low-bls-competency.md) — related
+- [Diploma-qualified nurses self-rated highest across all competence domains, which the discussion attributes inconsistently to bachelor's-degree nurses](education-level-competence-diploma-highest-table-inconsistency.md) — reports the opposite
+- [Nurses with master's or doctoral degrees scored significantly lower in infectious disease emergency response competence than nurses with diploma or associate degrees](higher-degree-lower-competence.md) — related

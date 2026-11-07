@@ -56,3 +56,4 @@ Paired t-tests within each group showed significant pre-to-post gains. In the in
 - [Knowledge scores improved over time in both groups, with a stronger overall effect in the collaborative learning group](knowledge-gains-over-time-both-groups-collaborative-stronger.md) — related
 - [Knowledge improved significantly from before to after the intervention in both groups](knowledge-improved-both-groups-lectures.md) — possibly the same claim (merge candidate)
 - [Knowledge and performance scores rose significantly from pre-test to post-test in both gamified and lecture groups; the gamified group's knowledge gain was more than 2.5 times the lecture group's, and its performance gain was three times the lecture group's](within-group-gains-gamified-versus-lecture-over-time.md) — related
+- [Both game-based and self-study learning significantly improved diabetes knowledge from pretest to post-test](both-conditions-improved-diabetes-knowledge.md) — related

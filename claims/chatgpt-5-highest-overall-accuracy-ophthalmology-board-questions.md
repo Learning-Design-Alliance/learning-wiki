@@ -61,3 +61,5 @@ Evaluation of four LLMs on 81 board-style multiple-choice questions (27 recall-,
 - [GPT-4o achieves the highest overall accuracy on KMLE questions (83.2%), significantly outperforming Claude 3.5 Sonnet and Gemini 1.5 Pro across 2022–2024](gpt4o-highest-kmle-accuracy-83-2.md) — related
 - [ChatGPT-4o achieves higher final-attempt accuracy than Gemini 1.5 Pro on ophthalmology MCQs, significantly in English but not in Turkish](chatgpt4o-outperforms-gemini-ophthalmology-mcq-final-attempt.md) — related
 - [Claude achieved the highest biochemistry MCQ accuracy (92.5%), followed by GPT-4 (85.1%), Gemini (78.5%), and Copilot (64%), with only Copilot below the student average](claude-highest-accuracy-biochemistry-mcq-ranking.md) — related
+- [GPT-4o achieves the highest accuracy on USMLE-style MCQs (90.4%), outperforming GPT-4 (81.1%) and GPT-3.5 (60.0%)](gpt-4o-90-percent-usmle-mcq-accuracy-outperforms-predecessors.md) — related
+- [GPT-4o significantly outperforms GPT-4 in diagnostics (92.7% vs 83.5%), and both beat GPT-3.5 (65.2%)](gpt-4o-diagnostics-accuracy-beats-gpt-4-and-gpt-3-5.md) — related

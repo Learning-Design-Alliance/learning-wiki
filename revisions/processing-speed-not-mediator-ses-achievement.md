@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/processing-speed-not-mediator-ses-achievement.md
+---
+
+# Revision history: [claims/processing-speed-not-mediator-ses-achievement](../claims/processing-speed-not-mediator-ses-achievement.md)
+
+### 2026-11-07 · ingest · process:wiki-ingest
+Ingested from pmc-11657664 (Do executive functions and processing speed mediate the relationship between socioeconomic status and educational achievement? Analysis of an observational birth cohort study.) via eval_harness.py + ingest_extractions.py

@@ -78,3 +78,4 @@ Meta-analytic moderator analysis of quiz–exam format consistency; the review r
 - [Pedagogical augmentations of ITSs show inconsistent effects: self-assessment helped in some studies but not others, while personalization and matched test-practice format showed benefits](its-modified-its-mixed-pedagogical-effects.md) — related
 - [Quiz-and-reflection and extended-quiz conditions show no significant difference in unit exam performance](quiz-reflection-vs-extended-quiz-unit-exam-no-difference.md) — related
 - [The number of quiz questions (five vs. ten) does not moderate the improvement in exam performance](quiz-question-number-does-not-moderate-testing-effect.md) — related
+- [No interaction between practice and final test question format: matching formats does not enhance the retrieval effect, challenging transfer-appropriate processing](no-format-interaction-challenges-tap.md) — reports the opposite

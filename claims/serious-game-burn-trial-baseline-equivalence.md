@@ -55,3 +55,4 @@ Baseline comparison in the randomized trial (Table 2): age (P = 0.351), sex (P >
 - [Control and PBL cohorts of kidney transplantation trainees were comparable at baseline on demographics, training exposure, and initial theoretical performance](pbl-kidney-transplant-cohorts-baseline-comparable.md) — related
 - [The VFB and GD groups were statistically comparable at baseline on demographics and OSLER scores](vfb-gd-baseline-equivalence.md) — related
 - [No significant baseline differences in gender, age, or experimental technical background between the TETM and RFETM groups](no-baseline-differences-tetm-rfetm-groups.md) — related
+- [Baseline clinical skill performance did not differ between the randomized groups, while baseline knowledge did and was controlled in the analysis](baseline-differences-knowledge-controlled-skill-equivalent.md) — related

@@ -47,3 +47,4 @@ The review attributes this finding to Hewitt et al.'s study, which enhanced vide
 ## Related Claims
 - [Reflections immediately following the events of interest facilitate greater and more situated recall and precision](immediate-reflection-situated-recall.md) — related
 - [A five-step structured video-based reflection cycle led teachers to produce substantially more new and more specific solutions than a vicarious-reflection control condition](ceble-structured-reflection-more-specific-solutions.md) — related
+- [Peer group reflection combined with teaching self-assessment produces deeper critical reflection and more specific teaching-modification plans](peer-group-reflection-deeper-critical-reflection.md) — related

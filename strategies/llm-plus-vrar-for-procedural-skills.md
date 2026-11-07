@@ -56,6 +56,7 @@ The article recommends that because text-based LLM support has limited influence
 - [Harmonize VRS training practices and use remote mentoring and multimodal simulation to broaden access](harmonize-vrs-practices-remote-mentoring-strategy.md)
 - [Integrate prompt engineering into medical curricula through hands-on workshops, simulation-based learning, and AI courses](prompt-engineering-in-medical-curricula.md)
 - [Adopt a hybrid teaching strategy prioritizing face-to-face instruction for practical skills and remote education for theoretical content](hybrid-face-to-face-practical-remote-theory-strategy.md)
+- [Integrate simulation-based training into gynaecology training programs to compensate for declining hands-on experience in vaginal hysterectomy](simulation-integration-gynaecology-training.md)
 
 ## Examples
 -

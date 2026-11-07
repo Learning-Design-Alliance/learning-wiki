@@ -9,6 +9,7 @@ generated:
   at: 2026-10-31
 evidence_strength: weak
 newest_evidence: 2026
+source_checked: 2026-11-07
 sources:
   - id: chan-alice-mei-ling-2026
     resource: "https://doi.org/10.1186/s12909-026-09255-y"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Common challenges in IPE contexts were limited availability of expertise and lack of willingness to contribute, and poorly planned IPE could exacerbate negative relationships between disciplines. [→ Chan Alice Mei Ling 2026](#chan-alice-mei-ling-2026)
@@ -62,3 +63,5 @@ Review discussion of implementation challenges, attributed to the reviewed liter
 - [Fewer than 40% of Chinese GP residency programs employ interactive learning methods such as role-playing, multidisciplinary team participation, or situational teaching for PMSC training.](interactive-pmsc-methods-fewer-than-40-percent.md) — related
 - [Programs cite lack of funding, limited simulation lab or equipment access, and lack of faculty expertise or availability as barriers to simulation implementation](simulation-barriers-funding-faculty-expertise.md) — related
 - [Non-clinician facilitators' lack of case expertise initially undermined confidence, but confidence improved with facilitating experience](non-clinician-cbl-confidence-expertise-concerns.md) — related
+- [Attitudinal barriers to Sim-IPE include facilitator bias toward one profession during debriefing, faculty resistance to change, and senior students' skepticism about mannequin practice](sim-ipe-attitude-barriers.md) — a narrower finding that bears on this claim
+- [Departmental and individual faculty support facilitates Sim-IPE, but the absence of formal administrative policies hinders it](sim-ipe-support-and-policy-gap.md) — related

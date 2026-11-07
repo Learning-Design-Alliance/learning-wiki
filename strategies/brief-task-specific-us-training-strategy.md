@@ -56,6 +56,8 @@ The article recommends a goal-directed, skill-focused curriculum using handheld 
 - [Integrate voluntary handheld ultrasound practice into undergraduate eFAST curricula alongside digital self-study](integrate-handheld-ultrasound-practice-undergraduate-curriculum.md)
 - [Train prehospital providers on the portable ultrasound devices their agencies already use or plan to adopt](train-on-agency-own-pocus-devices.md)
 - [Extend self-practice time and delay testing to strengthen AI-guided ultrasound training research](extended-self-practice-and-delayed-testing-for-ai-ultrasound-training.md)
+- [Individualized SMART learning plans and skill acquisition plans for clinical ultrasound training](smart-learning-plans-ultrasound-skills.md)
+- [Expand curriculum scope, increase hands-on practice time, and optimize scheduling in response to resident feedback](ultrasound-curriculum-feedback-driven-expansion-strategy.md)
 
 ## Examples
 -

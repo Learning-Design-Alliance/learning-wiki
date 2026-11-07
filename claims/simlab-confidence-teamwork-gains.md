@@ -61,3 +61,4 @@ Session 4 group interview self-reports. A participant reported "an increase in o
 - [Participants reported perceived increases in confidence when approaching early clinical tasks after completing the integrated module.](integrated-module-increases-confidence-early-clinical-tasks.md) — related
 - [Providers reported increased skill, knowledge, and confidence after training interventions](provider-confidence-knowledge-skill-increased-after-training.md) — related
 - [Team collaboration scores rose from pre-test to post-test after integrated simulation with TBL in paediatric postgraduates, in one single-group pre-post study using the French TEAM system](simulation-tbl-improves-teamwork-team-scores.md) — related
+- [In-situ team simulation surfaced emergent leadership from any team member and strengthened team identity among ward colleagues](insitu-simulation-emergent-leadership-team-identity.md) — related

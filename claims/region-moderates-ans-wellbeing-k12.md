@@ -52,3 +52,4 @@ Mixed-effects meta-regression within the K-12 meta-analysis testing study region
 - [Geographical region moderated several engagement-correlate relations, with Eastern students showing higher relations than Western students](region-moderates-engagement-correlate-relations.md) — a broader claim this one bears on
 - [Consistent with the dual process model, autonomy-outcome correlations are stronger when the valence of need experience and outcome match](dual-process-matched-valence-stronger-k12.md) — related
 - [Meta-analytic evidence supports autonomy's universality, with student and teacher autonomy predicting better outcomes across cultures](autonomy-universality-meta-analytic-support.md) — related
+- [Total DREEM scores differ by nationality, with Asian students scoring significantly higher than Middle Eastern and North American students](nationality-differences-dreem-scores.md) — related

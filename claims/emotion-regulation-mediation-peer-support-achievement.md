@@ -56,3 +56,4 @@ Bias-corrected bootstrapping with 5,000 resamples in the SEM analysis (Table 7).
 - [A sequential mediation pathway runs from perceived peer support through emotion regulation and behavioral engagement to academic achievement](sequential-mediation-er-be-pathway.md) — a broader claim this one bears on
 - [Motivational regulation strategies mediate the relationship between perceived peer support provisions and academic achievement, with all observed mediating effects being total effects](mrs-mediate-peer-support-achievement.md) — related
 - [Peer support does not mediate the relationship between motivational regulation strategies and achievement in the tested alternative models](peer-support-not-mediator-alternative-models.md) — related
+- [Learning engagement partially mediates the relationship between social support and academic performance](learning-engagement-partial-mediation-social-support-academic.md) — related

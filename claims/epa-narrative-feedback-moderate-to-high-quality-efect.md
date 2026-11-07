@@ -49,3 +49,4 @@ Observational scoring study of 748 randomly sampled anonymised EPA observations 
 - [In the 2022–2023 academic year, 164 third-year students completed 15,240 EPA observations, from which a random sample of 748 (approximately 5%) was analysed](epa-observations-volume-15240-sample-748.md) — related
 - [Inter-rater reliability of EFeCT scoring improved from moderate (ICC 0.67) to excellent (ICC 0.96) after consensus calibration, with an overall ICC of 0.66 across the full sample](efect-inter-rater-reliability-consensus-calibration.md) — related
 - [Undergraduate medical students report EPA narrative feedback as individualised and aligned with scores](epa-narrative-feedback-perceived-individualised-aligned.md) — related
+- [App-based EPA assessments stimulated a feedback process in 57% of assessments, with a learning goal documented in 96% of those](app-epa-assessments-stimulate-feedback-learning-goals.md) — related

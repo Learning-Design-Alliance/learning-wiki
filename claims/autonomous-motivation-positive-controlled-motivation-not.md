@@ -57,3 +57,5 @@ Review synthesis of seven studies evaluating motivational variables among medica
 - [Intrinsic life aspirations are moderately linked to mastery approach goals, extrinsic aspirations to performance approach goals, with cross-links near zero](life-aspirations-differentially-linked-to-goal-types.md) — related
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
 - [Neither intervention produced significant gains on most motivation components or on the reunion and comparison meanings of addition](math-routines-null-effects-other-components.md) — a narrower finding that bears on this claim
+- [Higher health-related quality of life correlates strongly negatively with academic burnout, and motivation dimensions correlate positively with academic success](hrqol-burnout-motivation-correlations-nursing.md) — reports the opposite
+- [Intrinsic and extrinsic motivation each positively predict academic success, while amotivation shows no significant direct effect](motivation-predicts-academic-success-nursing-gpa.md) — reports the opposite

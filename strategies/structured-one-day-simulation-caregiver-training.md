@@ -69,6 +69,7 @@ The article describes a specific instructional sequence for caregiver emergency-
 - [Combine online pre-learning with supervised one-hour small-group simulator practice for invasive procedural skills](prelearning-plus-supervised-simulator-practice-bmat.md)
 - [Structured simulation practice session: teacher demonstration, group case practice, individual reporting, and peer-informed revision](demonstrate-group-practice-report-revision-simulation-session.md)
 - [Protocolize the prebriefing with a fiction contract, a preplanned written briefing script, and a case-design checklist](protocolized-prebriefing-fiction-contract.md)
+- [Train all NIBS trainees in a seven-step seizure response protocol and in distinguishing seizures from syncope](nibs-seizure-response-protocol-training.md)
 
 ## Examples
 -

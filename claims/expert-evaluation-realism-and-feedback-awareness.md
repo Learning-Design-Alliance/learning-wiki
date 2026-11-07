@@ -66,3 +66,4 @@ Mixed-methods expert evaluation with two female psychologists (ages 25–30), on
 - [Students perceived the GPT-based virtual patient encounters as realistic and easy to converse with](ai-virtual-patient-perceived-realistic.md) — related
 - [A qualitative group assessment judged the scenario feasible, adequately timed, and realistic](pacu-scenario-qualitative-feasibility-realism.md) — related
 - [Conversation length with virtual patients increased significantly after VITAL-COMS training in both scenarios](vital-coms-conversation-length-increase.md) — related
+- [Medical students rated the LLM patient simulation as highly accurate, feasible, and realistic](students-rate-llm-patient-simulation-realistic-accurate.md) — related

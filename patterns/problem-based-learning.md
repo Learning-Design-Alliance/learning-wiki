@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 191 claims (80 for, 96 mixed, 15 against) · 105 studies (36 causal, 32 quant-synthesis, 12 review, 8 design, 7 qualitative, 7 theoretical, 3 associational), `q1`–`q4` · 26 of 105 report an effect size · 186 claims rest on one study
+> **Evidence** · 193 claims (82 for, 96 mixed, 15 against) · 106 studies (37 causal, 32 quant-synthesis, 12 review, 8 design, 7 qualitative, 7 theoretical, 3 associational), `q1`–`q4` · 26 of 106 report an effect size · 188 claims rest on one study
 
 ## Description and scope
 
@@ -163,6 +163,8 @@ The twelve claims listed here before that wave were read against the model on 20
 - [PBL teaching produced significantly higher post-test assessment scores than traditional teaching among nursing interns (P = 0.006)](../claims/pbl-higher-post-test-assessment-scores-nursing-interns.md) [+W] — attached 2026-11-06 from Xue Huarong et al. (2025), which proposed "PBL combined with comparative nursing rounds: a four-stage clinical teaching pattern"; tests this page's relationship.
 - [ChatGPT-guided PBL residents scored significantly higher on a nephrology theoretical exam than traditionally taught residents](../claims/chatgpt-pbl-higher-theoretical-exam-nephrology.md) [+W] — attached 2026-11-06 from Tong Xiaoya et al. (2025), which proposed "ChatGPT-guided PBL session structure: AI-assisted pre-class self-directed learning followed by instructor-facilitated in-class discussion"; tests this page's relationship.
 - [ChatGPT-guided PBL residents scored significantly higher on the clinical practice assessment than traditionally taught residents](../claims/chatgpt-pbl-higher-clinical-practice-score.md) [+W] — attached 2026-11-06 from Tong Xiaoya et al. (2025), which proposed "ChatGPT-guided PBL session structure: AI-assisted pre-class self-directed learning followed by instructor-facilitated in-class discussion"; tests this page's relationship.
+- [During the cardiac surgery internship, PBL-plus-Tencent-Conference teaching produced higher participation, teacher-student interaction and acceptance/understanding scores than traditional teaching, with no difference in concentration](../claims/pbl-online-during-internship-engagement.md) [+W] — attached 2026-11-07 from Chen Xiuwen et al. (2024), which proposed "A PBL-online cardiac surgery internship course structure: pre-formed groups, pre-internship case discussion without the teacher, then a Tencent Conference group discussion with instructor summary and feedback"; tests this page's relationship.
+- [PBL-plus-Tencent-Conference teaching produced higher post-internship mastery of cardiac surgical history taking and ancillary tests than traditional teaching, with no differences on overall satisfaction items](../claims/pbl-online-post-internship-skills.md) [+W] — attached 2026-11-07 from Chen Xiuwen et al. (2024), which proposed "A PBL-online cardiac surgery internship course structure: pre-formed groups, pre-internship case discussion without the teacher, then a Tencent Conference group discussion with instructor summary and feedback"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

@@ -68,3 +68,4 @@ The review lists OSCE limitations: students may narrow preparation to tested sce
 - [Raters of a videotaped fracture-scenario OSCE showed high internal consistency but only moderate inter-rater reliability across subspecialties and seniority levels](videotaped-osce-rater-reliability.md) — related
 - [Inter-assessor agreement on OSCE scores is substantial, with a pooled intraclass correlation coefficient of 0.77](pt-osce-icc-assessors-substantial.md) — related
 - [OSCE and DOPS represent the gold standard for assessing student ultrasound competence according to current research](osce-dops-gold-standard-ultrasound-assessment.md) — related
+- [No standardized method exists for assessing ultrasound knowledge or examination performance, and self-assessment reliance risks skill overestimation](no-standardized-ultrasound-assessment.md) — related

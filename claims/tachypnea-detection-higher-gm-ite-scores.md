@@ -48,3 +48,4 @@ Cross-sectional observational analysis of 5105 GM-ITE 2022 participants, with 95
 - [Tachypnea-detecting residents answer the clinical simulation video question correctly far more often than non-detecting residents after matching](tachypnea-detection-higher-video-answer-rate.md) — related
 - [Among the non-verbal cues embedded in the simulation video, tachypnea showed the largest identification-rate difference between correct and incorrect responders](tachypnea-largest-cue-detection-gap.md) — related
 - [The association between tachypnea detection and correct video answers varies by postgraduate year and age but not by sex](tachypnea-answer-interactions-pgy-age-sex.md) — related
+- [Only 10.0% of resident physicians provided a correct CSV-IE diagnosis, and those who did had significantly higher GM-ITE scores](csv-ie-correct-diagnosis-rate-and-gm-ite-score.md) — related

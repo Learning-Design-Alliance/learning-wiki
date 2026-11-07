@@ -56,3 +56,4 @@ Bootstrap chain mediation analysis (PROCESS Model 80, 5000 resamples) in the 691
 - [Grit, sense of belonging, and motives for attending college showed no significant direct associations with academic achievement in this sample](grit-belonging-motives-no-achievement-association.md) — reports the opposite
 - [Grit mediates the relationship between growth mindset and academic performance of female art majors](grit-mediation-growth-mindset-performance.md) — related
 - [Learning adaptability mediates the relationship between growth mindset and academic performance of female art majors](learning-adaptability-mediation-growth-mindset-performance.md) — related
+- [Learning environment perceptions and intrinsic motivation serially mediated the relationship between grading system and academic performance, while neither mediated it alone](serial-mediation-perceptions-then-motivation-grading-performance.md) — related

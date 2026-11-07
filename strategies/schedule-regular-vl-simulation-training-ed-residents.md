@@ -47,7 +47,8 @@ Based on their findings, the authors recommend that "This kind of training shoul
 - [The source described shared visualisation between instructor and learner and immediate corrections during videolaryngoscopy intubation training](../claims/vl-shared-view-supports-instructor-feedback.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Expand curriculum scope, increase hands-on practice time, and optimize scheduling in response to resident feedback](ultrasound-curriculum-feedback-driven-expansion-strategy.md)
 
 ## Examples
 -

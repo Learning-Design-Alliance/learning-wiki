@@ -48,3 +48,4 @@ Review synthesis of subgroup findings: the review reports ocular ultrasound as m
 - [Peer ultrasound teachers are typically fourth-year medical students about one year ahead of their students](peer-teachers-fourth-year-one-year-ahead.md) — related
 - [Peer-assisted ultrasound instruction is comparably effective to faculty-led instruction in most comparative studies](peer-teaching-ultrasound-comparable-to-faculty.md) — reports the opposite
 - [Peer-assisted ultrasound teaching can produce long-term retention of knowledge and skills](peer-teaching-long-term-retention-ultrasound.md) — related
+- [Peer-to-peer ultrasound teaching achieves learning outcomes comparable to faculty-led instruction when students have pre-existing anatomical knowledge](peer-tutors-comparable-outcomes-ultrasound.md) — reports the opposite

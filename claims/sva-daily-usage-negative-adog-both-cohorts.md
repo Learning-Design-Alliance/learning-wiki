@@ -48,3 +48,4 @@ Correlational analysis of survey and cognitive-test data from 454 younger and 36
 ## Related Claims
 - [SVA daily usage correlates negatively with academic performance in both cohorts, while recommender reliance correlates negatively only in the younger cohort](sva-use-negative-academic-performance.md) — related
 - [Younger adolescents show stronger negative effects of SVA use on cognitive functioning and academic performance than older adolescents](younger-adolescents-more-susceptible-sva-effects.md) — related
+- [Higher short video usage among elementary school students is associated with lower academic performance](short-video-usage-negative-academic-performance.md) — related

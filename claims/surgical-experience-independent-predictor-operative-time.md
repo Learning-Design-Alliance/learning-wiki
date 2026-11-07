@@ -70,3 +70,4 @@ The authors' discussion notes the logarithmic model left "approximately 75.5% of
 - [Console time decreased substantially with increasing surgical experience, with an estimated reduction of 33.2 min over the first 14 procedures](console-time-decreases-with-experience-versius.md) — related
 - [Operative time is independently associated with obstructive median lobe, number of implants, implant deployment failure, and early case number](pul-operative-time-predictors-multivariate.md) — related
 - [Dissection time decreases across the three models, with significantly shorter time on fresh-frozen bone than the transparent 3D model (p = 0.002)](dissection-time-decreases-across-models.md) — related
+- [Each additional training session reduces the ventilation failure score by 2% and increases the chance of a high global competence score by approximately 3%](each-session-improves-competence-score.md) — related

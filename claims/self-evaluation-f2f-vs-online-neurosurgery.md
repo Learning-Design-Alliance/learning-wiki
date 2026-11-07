@@ -72,3 +72,4 @@ Two of the seven self-evaluation items showed no significant difference between 
 - [Students receiving simulation-based education rate the teaching higher than traditionally taught students for learning interest, imaging thinking, teamwork, and communication skills](sbe-higher-ratings-nontechnical-domains.md) — related
 - [BOPPPS/FC-CBL residents self-rated their teamwork and clinical thinking higher than LBL residents on a five-point questionnaire](boppps-fc-cbl-higher-teamwork-clinical-thinking.md) — related
 - [Online and face-to-face neurosurgery teaching produce no statistically significant difference in theory test scores](online-f2f-neurosurgery-theory-scores-no-difference.md) — related
+- [Online PBL is as effective as traditional face-to-face PBL, with no significant difference in knowledge outcomes or assignment grades](online-pbl-equivalent-to-face-to-face-pbl.md) — related

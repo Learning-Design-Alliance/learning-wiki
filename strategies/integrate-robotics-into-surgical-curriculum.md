@@ -54,6 +54,7 @@ The authors recommend establishing robotic techniques in students' education bec
 - [Use validated simulators to widen access to Aquablation training where clinical cases and robotic systems are scarce](simulator-training-access-scarce-robotic-procedures.md)
 - [Structure robotic surgery curricula as a stepwise progression in which training modalities complement rather than replace each other](stepwise-complementary-robotic-training-curriculum.md)
 - [Structured cross-platform training curriculum combining generalised exposure and platform-specific proficiency](cross-platform-training-curriculum-robotic-surgery.md)
+- [Start robotic surgery training early, at the beginning of residency programs, capitalising on young adults' precision](start-robotic-training-at-residency-start.md)
 
 ## Examples
 -

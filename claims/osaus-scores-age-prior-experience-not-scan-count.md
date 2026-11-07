@@ -70,3 +70,4 @@ Graphical evaluation at follow-up found "no clear relationship was found between
 - [Formal scanning proficiency varied across POCUS applications and changed unevenly by follow-up, decreasing for pleural effusion](formal-scanning-proficiency-varied-uneven-change.md) — related
 - [Lowest OSAUS item scores concerned technical performance (applied knowledge, image optimization, systematic examination), yet all seven items improved significantly at follow-up](osaus-item-scores-technical-items-lowest.md) — related
 - [OSAUS sum scores increased for all POCUS applications at three-month follow-up, with Cohen's d representing a medium or large effect size](osaus-sum-score-increase-follow-up.md) — related
+- [No significant differences in diagnostic performance between physicians with POCUS certification or trainer experience and those without formal training](pocus-certification-no-performance-difference.md) — related

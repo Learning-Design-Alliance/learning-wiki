@@ -64,3 +64,4 @@ Safety evaluation in the multisite trial used exclusion criteria (seizures, migr
 - [Most participants found first VR engagement exciting and easy to use, though a minority reported discomfort and initial difficulty](vtracs-excitement-with-minority-adverse-experiences.md) — related
 - [Ocular discomfort after EyeSi VR simulation is mild and infrequent](eyesi-vr-mild-ocular-discomfort.md) — related
 - [Physical symptoms such as dizziness and nausea are common during VR MCI training and can degrade training quality for some users](vr-mci-training-physical-symptoms.md) — related
+- [Cybersickness (dizziness and headaches) occurs more frequently with VR or image-rich MR than with standard MR, favouring MR and shorter, well-designed HMD sessions](cybersickness-more-frequent-vr-than-standard-mr.md) — a broader claim this one bears on

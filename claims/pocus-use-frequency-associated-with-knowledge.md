@@ -47,3 +47,4 @@ Multivariable logistic regression (Table 4) on the 97-resident cross-sectional s
 ## Related Claims
 - [Pediatric residents report poor comfort and confidence with POCUS practice and image interpretation](pediatric-residents-poor-pocus-comfort-confidence.md) — related
 - [Any form of prior POCUS training is strongly associated with good POCUS knowledge among pediatric residents](prior-pocus-training-associated-with-knowledge.md) — related
+- [POCUS was rapidly adopted in practice, with 179 uses across the three sites in the two months after training](pocus-high-uptake-two-months-post-training.md) — related

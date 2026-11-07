@@ -13,7 +13,7 @@ generated:
 # Coaching
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 34 claims (19 for, 11 mixed, 4 against) · 36 studies (11 review, 9 causal, 5 quant-synthesis, 5 qualitative, 2 associational, 2 design, 2 theoretical), `q2`–`q4` · 3 of 36 report an effect size · 26 claims rest on one study
+> **Evidence** · 36 claims (21 for, 11 mixed, 4 against) · 37 studies (11 review, 10 causal, 5 quant-synthesis, 5 qualitative, 2 associational, 2 design, 2 theoretical), `q2`–`q4` · 3 of 37 report an effect size · 28 claims rest on one study
 
 ## Description
 Coaching is the provision of individualized support and guidance while learners actively perform a task. The coach observes performance, diagnoses gaps between current and target performance, and intervenes with hints, questions, modeling, or [Feedback](feedback.md) calibrated to what the learner needs at that moment. Unlike one-time instruction, coaching is sustained and adaptive — support rises and falls with learner performance.
@@ -78,6 +78,8 @@ Coaching accelerates skill development by keeping learners in a productive strug
 - [Coaching produced no additional experimental gains on teacher self-reported efficacy or stress, and no significant pre-post ODR changes appeared in the full sample](../claims/no-coaching-effect-on-teacher-self-reports.md) [-W]
 - [Supportive coaching had no direct impact on technology integration strategies due to standardized testing](../claims/coaching-no-direct-impact-tech-integration.md) [-W]
 - [Past trials of MTP web-mediated coaching yielded moderate to large improvements in teacher implementation and teaching practices](../claims/mtp-past-trial-improvements.md) [+W]
+- [AI-assisted coaching improves novice surgeons' overall operative performance in laparoscopic cholecystectomy, outperforming self-learning by study end](../claims/smartcoach-improves-lcrf-performance.md) [+W] — attached 2026-11-07 from Wu Shangdi et al. (2024), which proposed "SmartCoach: an AI-based surgical coaching program combining SurgSmart surgical reports with a 30-minute coach-led debriefing workflow"; tests this page's relationship.
+- [AI-assisted coaching substantially increases achievement of the critical view of safety in novice surgeons, which self-learning does not](../claims/smartcoach-improves-cvs-achievement.md) [+W] — attached 2026-11-07 from Wu Shangdi et al. (2024), which proposed "SmartCoach: an AI-based surgical coaching program combining SurgSmart surgical reports with a 30-minute coach-led debriefing workflow"; tests this page's relationship.
 
 ## The evidence by question
 - *Must support be contingent on the learner's last response, rather than fixed?* [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S]

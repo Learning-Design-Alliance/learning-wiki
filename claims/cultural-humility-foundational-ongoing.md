@@ -9,6 +9,7 @@ generated:
   at: 2026-11-06
 evidence_strength: weak
 newest_evidence: 2025
+source_checked: 2026-11-07
 sources:
   - id: charnetski-md-2025
     resource: "https://doi.org/10.1186/s12909-025-07515-x"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2025 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2025 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Participants framed cultural humility as ongoing self-reflection on bias, power differentials, and assumptions, forming the foundation of every theme and step of adaptation. [→ Charnetski MD 2025](#charnetski-md-2025)

@@ -54,3 +54,4 @@ Post hoc internal consistency computation on nine attitudinal preference items f
 - [IAFEE-ECS® demonstrated high internal consistency with Cronbach's alpha of 0.993](iafee-ecs-cronbach-alpha-reliability.md) — related
 - [The purpose-built 19-item questionnaire showed excellent internal consistency (Cronbach's Alpha = 0.910) but lacked formal validation](purpose-built-questionnaire-alpha-0910.md) — related
 - [The app embeds a 14-item pre/post assessment questionnaire with 5-level responses, 9 items shared across both surveys](pre-post-14-item-in-app-questionnaire.md) — related
+- [An 18-item, four-domain questionnaire shows good internal consistency and satisfactory construct validity for assessing student perception of MyDispense virtual simulation](validated-18-item-mydispense-perception-questionnaire.md) — related

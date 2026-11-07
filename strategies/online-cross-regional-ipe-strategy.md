@@ -57,6 +57,7 @@ A concrete implementation strategy for addressing regional disparities in educat
 
 - [Adapt RaT curricula to local cultural, institutional, and workforce characteristics rather than directly adopting Western-designed programs](contextually-adapted-rat-program-design.md)
 - [A standardized retraining curriculum delivered through combined online and offline teaching methods helps reduce disparities in faculty resources and teaching capacity across different hospitals.](standardized-curriculum-online-offline-reduces-disparities.md)
+- [Use simultaneous remote coaching to reduce regional disparities in surgical education where instructors are scarce](remote-coaching-reduce-regional-disparities-strategy.md)
 
 ## Examples
 -

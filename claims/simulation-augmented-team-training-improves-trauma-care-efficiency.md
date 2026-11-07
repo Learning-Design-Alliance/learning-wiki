@@ -55,3 +55,7 @@ Uncontrolled before-and-after study of 114 trauma team members (28 surgery resid
 - [Hands-on CPR, endotracheal intubation, and defibrillation operational scores rose significantly from pre-test to post-test in paediatric postgraduates after integrated simulation with TBL, in a single-group pre-post study](simulation-tbl-improves-paediatric-cpr-skill-scores.md) — related
 - [Team collaboration scores rose from pre-test to post-test after integrated simulation with TBL in paediatric postgraduates, in one single-group pre-post study using the French TEAM system](simulation-tbl-improves-teamwork-team-scores.md) — related
 - [TPOT scores improved significantly across all five TeamSTEPPS domains, with greatest gains in team structure and leadership](ipstar-tpot-domain-gains.md) — related
+- [Reported pre/post time-to-CT data suggest a larger benefit from in-situ than off-site simulation training, an untested observation](in-situ-simulation-larger-time-to-ct-benefit.md) — related
+- [Adding a communication module to RTTDC training further shortened transfer-related times in rural trauma care](rttdc-communication-module-transfer-times.md) — related
+- [Trauma team training improves team-specific performance outcomes such as teamwork and task completion scores](ttt-improves-team-specific-outcomes.md) — related
+- [Trauma team training reduces time-related outcomes, especially time to CT, though findings are not uniform across settings](ttt-reduces-time-to-ct-mixed.md) — possibly the same claim (merge candidate)

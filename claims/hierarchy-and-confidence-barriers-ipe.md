@@ -50,3 +50,5 @@ This quote is from the abstract summary of themes; the results theme describes h
 - [Students perceive virtual simulation as creating equitable, low-pressure, psychologically safe environments that enable autonomy and confidence](virtual-simulation-low-pressure-psychological-safety.md) — related
 - [Participants anticipate professional development and patient-level benefits from interprofessional learning](anticipated-benefits-ipe-pharmacy.md) — related
 - [Participants identify skilled facilitation, curriculum integration, institutional support, and simulation's safe learning environment as enablers of sim-IPE](sim-ipe-implementation-enablers.md) — related
+- [Lack of curriculum integration and unharmonized timetables are key structural barriers to implementing Sim-IPE](sim-ipe-curriculum-scheduling-barriers.md) — related
+- [Resource constraints — insufficient time, limited simulation lab space, and too few qualified instructors — are barriers to Sim-IPE](sim-ipe-resource-barriers.md) — related

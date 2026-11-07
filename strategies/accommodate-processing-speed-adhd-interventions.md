@@ -46,6 +46,7 @@ The article recommends that academic interventions for underperformance in child
 - [Support youth with confirmed slow processing speed through acceptance, advocacy, accommodations, extended time, time-management teaching, and assistive technology](accommodations-extended-time-assistive-tech-slow-ps.md)
 - [Monitor working memory and processing speed in girls with ADHD and provide accommodations such as breaking down instructions into manageable pieces](wm-ps-accommodations-adhd-girls-math.md)
 - [Use WM capacity measures for early identification and give clear, one-item-at-a-time instructions to children with attention deficits](wm-screening-and-clear-instructions-attention-deficits.md)
+- [Support children with working memory difficulties in the classroom through approaches other than WM training, including teacher training about WM](classroom-support-working-memory-difficulties.md)
 
 ## Examples
 -

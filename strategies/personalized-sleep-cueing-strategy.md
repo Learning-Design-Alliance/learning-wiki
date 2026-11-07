@@ -47,7 +47,8 @@ A strategy for sleep-based memory interventions: instead of delivering cues unif
 - [TMR efficacy depends on memory strength and task difficulty: benefits concentrate on moderately strong and challenging items, with limited advantage for easy (L1) items](../claims/tmr-efficacy-depends-memory-strength-difficulty.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Individualize simulation training schedules by profession and skill element rather than applying one fixed interval](individualized-simulation-training-schedules.md)
 
 ## Examples
 -

@@ -47,3 +47,4 @@ Stepwise multiple regression analysis (Table 5) using the six CINS sub-dimension
 ## Related Claims
 - [Higher professional competence is associated with lower medical error tendency among final-year nursing students (r = .713 on reversed scoring)](competence-correlates-lower-error-tendency-nursing-students.md) — related
 - [Competence and error-tendency scores differ by academic achievement, clinical department, self-perceived competence, and confidence in nursing skills](manova-academic-department-self-perceived-differences.md) — related
+- [Weekly article readings relate to clinical thinking skills in univariate analysis but not significantly in regression](weekly-article-readings-mixed-effect-clinical-thinking.md) — related

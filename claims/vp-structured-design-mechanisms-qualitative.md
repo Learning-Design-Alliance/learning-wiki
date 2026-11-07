@@ -66,3 +66,4 @@ Focus group theme on reflective learning. Residents reported that hearing peers'
 ## Related Claims
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
 - [Virtual patient simulations show mixed effects: improved diagnostic accuracy in one trial, no advantage over video teaching in another, and short-lived knowledge gains](virtual-patients-mixed-psychiatry.md) — related
+- [Focus group analysis identified four themes, with the CDA exposing clinical reasoning difficulties including semantic transformation, prioritization, management planning, cognitive bias and diagnostic uncertainty](cda-exposes-clinical-reasoning-difficulties.md) — related

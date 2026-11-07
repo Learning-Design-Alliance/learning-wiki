@@ -46,6 +46,7 @@ The authors recommend broad, nationwide introduction of ex vivo laparoscopic bas
 ## Related Strategies
 
 - [Integrate virtual reality training as an adjunct into surgical training curricula for junior trainees](integrate-vrt-adjunct-surgical-curricula.md)
+- [Start robotic surgery training early, at the beginning of residency programs, capitalising on young adults' precision](start-robotic-training-at-residency-start.md)
 
 ## Examples
 -

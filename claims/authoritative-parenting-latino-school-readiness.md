@@ -50,3 +50,4 @@ Multi-group SEM on longitudinal data from 750 Mexican and Dominican American mot
 - [Academic readiness and adaptive behaviors at school entry predict higher academic achievement at the end of first grade](school-readiness-predicts-first-grade-achievement-latino.md) — related
 - [The role of respeto socialization and authoritarian parenting in achievement differs between Mexican and Dominican American families](respeto-authoritarian-ethnic-group-differences.md) — related
 - [Pedagogical and social resistance factors positively predict actual parental resistance, while an authoritative parenting style is a negative predictor](pedagogical-social-factors-predict-parental-resistance.md) — related
+- [Progressive beliefs predicted higher authoritative parenting while traditional beliefs predicted lower authoritative parenting in Chinese families](beliefs-predict-authoritative-parenting-longitudinally.md) — related

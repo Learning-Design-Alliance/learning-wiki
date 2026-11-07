@@ -49,3 +49,4 @@ Observational analysis of the 5105-resident GM-ITE 2022 cohort reported in the R
 - [The association between tachypnea detection and correct video answers varies by postgraduate year and age but not by sex](tachypnea-answer-interactions-pgy-age-sex.md) — related
 - [Resident physicians who detect tachypnea in a clinical simulation video achieve significantly higher GM-ITE scores than non-detecting peers after propensity score matching](tachypnea-detection-higher-gm-ite-scores.md) — related
 - [Tachypnea-detecting residents answer the clinical simulation video question correctly far more often than non-detecting residents after matching](tachypnea-detection-higher-video-answer-rate.md) — related
+- [Only 10.0% of resident physicians provided a correct CSV-IE diagnosis, and those who did had significantly higher GM-ITE scores](csv-ie-correct-diagnosis-rate-and-gm-ite-score.md) — related

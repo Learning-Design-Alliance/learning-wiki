@@ -13,7 +13,7 @@ generated:
 # Mindset
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 95 claims (56 show a difference, 32 mixed, 7 no difference) · 43 studies (21 associational, 10 causal, 7 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 13 of 43 report an effect size · 93 claims rest on one study
+> **Evidence** · 96 claims (57 show a difference, 32 mixed, 7 no difference) · 44 studies (22 associational, 10 causal, 7 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 13 of 44 report an effect size · 94 claims rest on one study
 
 ## Description
 Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset holds that ability is set, a growth mindset that it can be developed. It is measured with short self-report scales. Research tests it as a predictor of achievement, as a moderator, and above all as an outcome of brief growth-mindset interventions. Large preregistered trials and meta-analyses find that the average effect of those interventions on achievement is small and concentrated in lower-achieving students in supportive settings, and that the correlation between mindset and achievement is weak.
@@ -126,6 +126,7 @@ Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset h
 - [In the combined model, the original mindset measure became an unexpected positive predictor of persistence and grade after accounting for shared variance with the ULTrA](../claims/combined-model-unexpected-positive-original-effect.md) [~M] — learners who differ on it differ in outcomes
 - [The original mindset measure fails to detect relationships between mindset and academic outcomes (intent to persist, course grade) that the ULTrA fixed factor detects](../claims/ultra-detects-academic-outcomes-original-fails.md) [+M] — learners who differ on it differ in outcomes
 - [The ULTrA fixed factor predicts more variance in every studied outcome than the original mindset measure, and adds variance explained above and beyond it](../claims/ultra-predicts-more-variance-all-outcomes.md) [+M] — learners who differ on it differ in outcomes
+- [Growth mindset mediates the effect of ethical leadership on academic achievement](../claims/growth-mindset-mediation-ethical-leadership.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Do growth-mindset interventions raise achievement, and for which learners and in which settings?* [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](../claims/growth-mindset-improves-achievement.md) [+S]

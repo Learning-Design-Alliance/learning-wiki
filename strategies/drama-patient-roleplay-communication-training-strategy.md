@@ -50,6 +50,7 @@ The intervention combined an online theory module (twice 45 minutes, aligned wit
 - [Use student standardized patients with role rotation and multi-source debriefing in scenario-based skills training](ssp-role-rotation-debriefing-strategy.md)
 - [Use blended learning—combining lectures, digital modules, and limited in-person simulation—as a scalable compromise for communication training](blended-learning-scalable-communication-training.md)
 - [Design PPS training as blended learning with short, concise online modules and in-person workshops focused on role-play skills practice](blended-learning-pps-training-design.md)
+- [Blended 3-hour workshop combining a 1.5-h online module with a 1.5-h experiential face-to-face session for patient-centered communication training](blended-3h-workshop-pcc-older-people.md)
 
 ## Examples
 -

@@ -69,3 +69,4 @@ Discussion-section interpretation of the study's findings, attributed to the con
 - [Participants reported that the trust-building collaborative environment enabled open and vulnerable sharing](trust-climate-enabled-open-sharing.md) — related
 - [Effective leadership plays a pivotal role in guiding digital transformation in educational organizations](leadership-pivotal-digital-transformation-education.md) — a broader claim this one bears on
 - [The study identifies well-structured project design, adequate teacher support, and cultivated self-directed learning awareness as core elements for effective PBL implementation](pbl-core-elements-postgraduate-implementation.md) — a broader claim this one bears on
+- [The four-stage interdisciplinary online PBL task successfully transitioned from classroom to online learning with educators as facilitators](four-stage-online-pbl-successful-transition-case-study.md) — a narrower finding that bears on this claim

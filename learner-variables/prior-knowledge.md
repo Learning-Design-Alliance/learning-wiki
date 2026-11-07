@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 265 claims (153 show a difference, 73 mixed, 39 no difference) · 212 studies (79 causal, 37 associational, 34 review, 24 theoretical, 18 design, 11 quant-synthesis, 9 qualitative), `q1`–`q4` · 35 of 212 report an effect size · 248 claims rest on one study
+> **Evidence** · 268 claims (154 show a difference, 74 mixed, 40 no difference) · 214 studies (79 causal, 37 associational, 34 review, 24 theoretical, 19 design, 11 quant-synthesis, 10 qualitative), `q1`–`q4` · 35 of 214 report an effect size · 251 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -313,6 +313,9 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Novices reported higher temporal demand, performance, and frustration on NASA-TLX subscales than experts during peg transfer training](../claims/novices-higher-tlx-temporal-demand-performance-frustration.md) [+M] — learners who differ on it differ in outcomes
 - [Novices spent on average 8.04% of training time attending to the mixed-reality feedback screen](../claims/novices-attend-feedback-screen-8-percent.md) [+M] — learners who differ on it differ in outcomes
 - [The expertise gap in decision accuracy is largest in punishment scenarios (Cohen's d = 1.407)](../claims/punishment-scenario-expertise-accuracy-gap.md) [~M] — learners who differ on it differ in outcomes
+- [At 3 months, novices trained with handmade phantoms perform thoracocentesis at a level comparable to experienced PGY-3 emergency medicine residents](../claims/novices-match-pgy3-thoracocentesis.md) [-M] — learners who differ on it differ in outcomes
+- [Experienced PGY-3 residents outperform novices in pericardiocentesis at the 3-month assessment despite comparable puncture times](../claims/pgy3-outperform-novices-pericardiocentesis.md) [+M] — learners who differ on it differ in outcomes
+- [Platform difficulty supported a progression: the computer-based platform suited students with less rheumatology knowledge, the social robot those with consolidated theoretical background](../claims/vp-platform-difficulty-progression.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

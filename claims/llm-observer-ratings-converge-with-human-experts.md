@@ -62,3 +62,4 @@ Human-rater validation study: five M.Sc.-level psychologists, blind to persona c
 - [Two independent observers showed excellent interrater agreement when assessing nursing students' VAP prevention skill performance in simulation](excellent-interrater-agreement-vap-checklist.md) — related
 - [The OPTION-12 scale shows good internal consistency when applied by AI in simulated consultations](option12-internal-consistency-ai-setting.md) — related
 - [Blinded expert raters showed very high agreement when evaluating the LLM-based ACLS simulation scenarios (Kendall W > 0.754)](acls-llm-sim-high-interrater-reliability.md) — related
+- [Peer evaluations show higher internal and inter-rater reliability than SETs but are hard to apply to one-to-one clinical teaching](peer-evaluation-higher-reliability-limited-clinical-fit.md) — related

@@ -49,3 +49,4 @@ Item analysis revealed a large difference in the difficulty of the 12 cases, wit
 - [A post-search study found no significant difference in item difficulty between AI- and human-generated MCQs, but higher discriminatory power for human questions](laupichler-difficulty-equal-discrimination-human-higher.md) — related
 - [Item analysis showed high self-reported engagement and subscale differences in discriminatory power, with social engagement items weakest and cognitive engagement items strongest](qcge-sas-item-analysis-discrimination-subscale-differences.md) — related
 - [A simulation-based FOI test on a portable VR simulator demonstrates strong validity evidence across all five sources in Messick's framework](vr-simulator-foi-test-strong-validity-evidence.md) — a broader claim this one bears on
+- [The CSV-IE demonstrated high discriminatory power (DI ≥ 0.20) across all assessed GM-ITE domains](csv-ie-high-discrimination-all-domains.md) — related

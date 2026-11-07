@@ -69,3 +69,4 @@ Because of group size, gender effects could only be analyzed within the PC clust
 - [Gender differences in self-esteem change under character education: boys increased while girls decreased](character-education-gender-differences-self-esteem.md) — reports the opposite
 - [The gap in self-esteem between intellectually able and less able students narrowed after character education](character-education-narrowed-ability-gap-self-esteem.md) — related
 - [Character education activities improved self-esteem of intellectually less able students but decreased self-esteem of intellectually able students](character-education-self-esteem-ability-groups-kuwait.md) — related
+- [Baseline self-efficacy and knowledge differed by university type and GPA, and gain patterns differed: public students started higher while private students and low-GPA students gained more](demographic-moderators-of-training-gains.md) — related

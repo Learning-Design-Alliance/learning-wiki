@@ -52,3 +52,4 @@ Bootstrap mediation analysis in the same Mplus SEM of 398 female art majors; the
 - [Growth mindset is positively associated with academic performance among Chinese female art majors (direct effect 0.25, p < .001)](growth-mindset-positive-direct-effect-female-art-majors.md) — related
 - [Grit mediates the relationship between growth mindset and mathematics achievement](grit-mediation-growth-mindset-math.md) — related
 - [Achievement goals and grit sequentially chain-mediate the growth mindset–mathematics achievement relationship](chain-mediation-goals-grit-math.md) — related
+- [The standalone mediation path from mental health through learning adaptation to academic achievement is not significant](learning-adaptation-mediation-not-significant.md) — related

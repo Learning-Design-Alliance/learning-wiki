@@ -72,3 +72,4 @@ Descriptive questionnaire results in the same pilot; Table 2 prints Q3 means of 
 - [Participants rated the immersive VR hypothermia training very positively, with realism 8.87/10 and usefulness scores above 4.7/5](vr-als-training-positive-perception-ratings.md) — related
 - [Students reported high satisfaction with Simroid robot training across multiple dimensions](simroid-robot-high-student-satisfaction.md) — related
 - [The closer training content is to authentic clinical scenarios, the smoother its translation into practice](contextualized-teaching-facilitates-transfer.md) — related
+- [Student perception of the simulated patient cases was overwhelmingly positive, with 96.70% agreeing the cases developed clinical skills](simulated-cases-positive-perceptions.md) — related

@@ -67,3 +67,4 @@ Modelled total-cost comparison at the largest cohort size, showing total PBP cos
 - [All PBP-based trainees reached the robotic suturing proficiency benchmark versus 58% of apprenticeship trainees, with far fewer trials and less training time](pbp-100-percent-proficiency-versus-58-apprenticeship.md) — related
 - [Full PBP robotic training costs nearly 100% more per trainee than apprenticeship training for 12 trainees but becomes cheaper as cohort size grows](pbp-per-trainee-cost-cohort-size.md) — possibly the same claim (merge candidate)
 - [Time to reach proficiency rises progressively as training deviates from full PBP methodology](training-time-rises-as-pbp-adherence-declines.md) — related
+- [The riAniMO approach was cost-saving, training 322 more HCPs and saving €61.7 per participant versus standard BLSD retraining](rianimo-cost-savings-per-participant.md) — related

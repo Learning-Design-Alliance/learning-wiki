@@ -123,7 +123,7 @@ sources:
 # Simulations & Immersive Virtual Environments
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 451 claims (270 for, 156 mixed, 25 against) · 282 studies (113 causal, 78 review, 39 quant-synthesis, 22 qualitative, 21 design, 8 theoretical, 1 associational), `q1`–`q4` · 58 of 282 report an effect size · 446 claims rest on one study
+> **Evidence** · 452 claims (270 for, 157 mixed, 25 against) · 283 studies (114 causal, 78 review, 39 quant-synthesis, 22 qualitative, 21 design, 8 theoretical, 1 associational), `q1`–`q4` · 58 of 283 report an effect size · 447 claims rest on one study
 
 ## Conditional relationship
 
@@ -449,6 +449,7 @@ Read against this model on 2026-10-15 and again on 2026-10-19; the claims below 
 - [Simulation training with haptic feedback lowers residents' overall NASA-TLX workload during subsequent live robot-assisted sleeve gastrectomies performed without haptic feedback](../claims/haptic-training-lowers-live-or-workload.md) [+W] — attached 2026-11-07 from Gomez ED et al. (2024), which proposed "Provide naturalistic haptic feedback of instrument vibrations during early robotic surgery simulation training to reduce trainee workload in later live operations"; tests this page's relationship.
 - [Haptic-feedback simulation training reduces physical demand and improves perceived performance in both simulation and live OR settings, with setting-specific effects on effort and mental demand](../claims/haptic-feedback-subscales-physical-demand-performance.md) [+W] — attached 2026-11-07 from Gomez ED et al. (2024), which proposed "Provide naturalistic haptic feedback of instrument vibrations during early robotic surgery simulation training to reduce trainee workload in later live operations".
 - [Experienced HEMS participants rate the MeTra simulator's enclosed environment and communication system as highly similar to a real helicopter](../claims/metra-simulator-fidelity-ratings.md) [~W] — attached 2026-11-07 from Omori Kazuhiko et al. (2025), which proposed "Align simulator fidelity with learners' needs and key tasks rather than maximizing physical realism".
+- [3D vision increases difficulty focusing only in the first training session, with no other visual or physical side effects](../claims/3d-difficulty-focusing-first-session-only.md) [~W] — attached 2026-11-07 from Østdal TB et al. (2024), which proposed "Use 3D monitors for open-console robotic surgery training, as they improve speed and efficiency without added side effects".
 
 ## Objective and learner-valued goal
 

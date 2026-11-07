@@ -68,3 +68,4 @@ Model fit assessment of the four SEM models in the same analysis, reporting χ2/
 - [Chinese nursing interns show elevated alexithymia, with 27.4% scoring in the alexithymia range and moderate communication competence](nursing-interns-elevated-alexithymia-moderate-communication.md) — related
 - [Self-efficacy is positively associated with most clinical communication subdomains among nursing interns](self-efficacy-positive-communication-subdomains.md) — related
 - [The integrated mediation-moderation model fits the data well and explains 38% of variance in academic performance](sem-model-fit-r2-38-percent.md) — related
+- [Social support explains 14% of variance in self-efficacy and, with self-efficacy, 26% in learning engagement; the full model explains 47% of variance in academic performance](variance-explained-structural-model-social-support.md) — related

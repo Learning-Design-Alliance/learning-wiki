@@ -59,3 +59,4 @@ Anonymous postencounter online questionnaire completed by 63 of 92 students (68.
 - [Sentiment analysis of GAI-generated VSP responses showed predominantly negative sentiment, consistent with clinical realism](vsp-responses-negative-sentiment.md) — related
 - [Expert panel rates the FROST simulator realistic and recommends it for training, except for the skin undermining step](expert-panel-face-content-validity-frost-simulator.md) — related
 - [Participants rate the pudendal block simulation intervention as useful and report satisfaction with the model, citing faculty feedback, hands-on practice, and realism](pudendal-block-simulation-high-satisfaction-ratings.md) — related
+- [Simulator-trained students rate realism and overall learning experience worse, and both groups accept simulators as a supplement but not a replacement for human training](fatesim-realism-supplement-not-replacement-attitudes.md) — related

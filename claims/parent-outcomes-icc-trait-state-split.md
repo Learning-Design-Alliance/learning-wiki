@@ -47,3 +47,4 @@ Numerical result from the latent single-trait multiple-states SEMs fitted separa
 ## Related Claims
 - [Most variance in students' momentary classroom emotions lies at the within-person level, yet person-aggregated state measures are fairly reliable (ICC(2) from 0.735 to 0.901)](aggregated-state-emotions-reliable-icc2.md) — related
 - [Teacher technology-related motivation varies substantially across lessons, with 60-70% of variance attributed to instructional context](teacher-tech-motivation-varies-across-lessons.md) — related
+- [High inter- and intra-individual variability of NIBS outcomes motivates uniform training guidelines](nibs-variability-motivates-training-guidelines.md) — a narrower finding that bears on this claim

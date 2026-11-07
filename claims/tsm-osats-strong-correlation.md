@@ -51,3 +51,4 @@ Spearman's rank correlation analysis across the 30-participant cohort. The artic
 - [Robotic simulation training independently associated with higher OSATS and TSM scores after adjustment](robotic-simulation-training-higher-performance.md) — related
 - [Virtual simulation performance scores correlate strongly with post-training practical performance (r = 0.73)](vs-score-correlates-practical-performance.md) — related
 - [Simulator-generated analytic scores correlate moderately and significantly with blinded human OSATS assessments of single surgical knot performance](simulator-analytic-scores-correlate-osats.md) — related
+- [OSATS and M-GEARS show very strong concurrent validity and both correlate moderately and inversely with OCHRA error counts in robotic suturing](osats-mgears-concurrent-validity-error-correlation.md) — related

@@ -56,3 +56,4 @@ Discussion of follow-up evidence across included studies. The shortest follow-up
 - [ACLS knowledge and skill retention is poor, dropping below 40 percent in physicians and 14 percent in nurses at one year](acls-skill-retention-poor-one-year.md) — reports the opposite
 - [Knowledge declined at 3 and 6 months in both groups but significantly more in the theory-only group, which reverted to near pre-training levels (45.4%)](knowledge-declines-faster-in-theory-only-group.md) — related
 - [CPR self-efficacy significantly improved 3 months after simulation-based training among professional caregivers](cpr-self-efficacy-improved-3-months-after-simulation-training.md) — related
+- [Small post-test to follow-up declines in knowledge, skills, and overall competence are not statistically significant in either group](post-to-retention-declines-not-significant.md) — related

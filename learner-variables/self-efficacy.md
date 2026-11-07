@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 312 claims (235 show a difference, 43 mixed, 34 no difference) · 249 studies (83 causal, 80 associational, 33 review, 22 qualitative, 13 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 51 of 249 report an effect size · 308 claims rest on one study
+> **Evidence** · 317 claims (240 show a difference, 43 mixed, 34 no difference) · 252 studies (84 causal, 82 associational, 33 review, 22 qualitative, 13 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 51 of 252 report an effect size · 313 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -343,6 +343,11 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [Patients' distrust and residents' lack of confidence were the primary factors limiting resident trainees' clinical reception in oral and maxillofacial surgery outpatient clinics](../claims/resident-reception-barriers-distrust-and-confidence.md) [+M] — learners who differ on it differ in outcomes
 - [More hours of IPV-and-disability training are associated with higher self-perceived competence among service providers, with the highest competence among those with more than 20 hours of training](../claims/ipv-disability-training-hours-higher-self-perceived-competence.md) [+M] — measured as an outcome of the instruction studied
 - [E-learning significantly increased participants' satisfaction with knowledge and self-assessed ability to diagnose and manage patients, and by more than knowledge and practices scores.](../claims/mali-elearning-confidence-gains-exceed-knowledge.md) [+M] — measured as an outcome of the instruction studied
+- [Higher confidence is positively associated with better ability to modulate SMT force–time characteristics, especially preload, time to peak force, and 800N impulse force](../claims/confidence-positively-associated-force-modulation-ability.md) [+M] — learners who differ on it differ in outcomes
+- [Mental health, learning adaptation and academic self-efficacy show significant pairwise correlations among freshmen](../claims/correlations-mental-health-adaptation-self-efficacy.md) [+M] — learners who differ on it differ in outcomes
+- [Pre-training knowledge correlated positively with self-efficacy, and post-training self-efficacy correlated with course satisfaction](../claims/knowledge-self-efficacy-satisfaction-correlations.md) [+M] — learners who differ on it differ in outcomes
+- [Self-efficacy and the combined self-efficacy/self-esteem score rose significantly from pre-test to post-test, but self-esteem alone did not change significantly, in one uncontrolled pre-post study](../claims/self-efficacy-rose-self-esteem-not-significant.md) [+M] — measured as an outcome of the instruction studied
+- [The confidence–performance association is not moderated by year of study or time spent in the FSTT laboratory](../claims/confidence-performance-association-not-moderated-by-experience.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

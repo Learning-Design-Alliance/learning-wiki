@@ -70,6 +70,7 @@ CFP works because structure and role separation reduce the social costs of criti
 - [Use a consultancy protocol in which each leader presents a problem of practice for structured peer discovery](consultancy-protocol-leader-problem-of-practice.md)
 - [Use professional learning communities to review student work and give teachers feedback](plc-student-work-review-feedback-bhs.md)
 - [Implement PAIRR through scaffolded steps: AI readings, criteria-based peer review, role-assigned chatbot prompting, and comparative reflection](pairr-implementation-steps-strategy.md)
+- [Implement peer support groups in which small groups of clinical teaching faculty collectively reflect, debrief, and share teaching strategies](peer-support-groups-clinical-teaching-faculty.md)
 
 ## Examples
 - **National School Reform Faculty (NSRF)** — the originating organization; publishes the Tuning, Consultancy, and other protocols freely at [nsrfharmony.org](https://nsrfharmony.org). Widely used in school-based professional learning communities.

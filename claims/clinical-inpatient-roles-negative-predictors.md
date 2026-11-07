@@ -51,3 +51,4 @@ Stepwise regression on 387 nurses (EBP-COQ model 5; CDMNS model 4). The CDMNS mo
 - [Foreign language knowledge, EBP training, following publications, scientific event participation, and research experience each associate with higher EBP and CDM scores](professional-engagement-factors-higher-ebp-cdm.md) — related
 - [Nurses' EBP competence is attitude-dominant while knowledge and skills lag, and CDM is weakest in adopting new information impartially](attitude-dominant-ebp-knowledge-skill-gaps.md) — related
 - [Higher education, research involvement, and following scientific publications positively predict nurses' EBP competence](education-research-publications-predict-ebp-competence.md) — related
+- [Nurse educators and part-time nurses showed more positive attitudes toward EBP than clinicians and full-time nurses](nurse-educators-parttime-better-ebp-attitudes.md) — related

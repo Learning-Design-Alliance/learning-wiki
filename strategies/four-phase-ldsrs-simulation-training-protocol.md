@@ -57,6 +57,7 @@ The article describes a standardized simulation-based training protocol structur
 - [Use interactive 3D object-based VR to let students repeat radiation-involved procedures without exposure and with feedback](3d-object-vr-repeat-procedures-without-radiation-strategy.md)
 - [Provide preparatory VR tutorials and video podcasts before the VR course session](preparatory-tutorials-podcasts-before-vr-course.md)
 - [Structured three-day intensive suturing course progressing from daily single-knot practice to a final anastomosis task](three-day-intensive-suturing-course-progression.md)
+- [Use sequential adaptive e-learning plus simulator training to establish novel minimally invasive surgical techniques](sequential-elearning-simulator-for-novel-mis-techniques.md)
 
 ## Examples
 -

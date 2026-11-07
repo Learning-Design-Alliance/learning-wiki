@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 114 claims (72 show a difference, 25 mixed, 17 no difference) · 73 studies (32 causal, 21 associational, 12 review, 5 quant-synthesis, 2 qualitative, 1 theoretical), `q1`–`q4` · 18 of 73 report an effect size · 113 claims rest on one study
+> **Evidence** · 117 claims (74 show a difference, 26 mixed, 17 no difference) · 74 studies (32 causal, 21 associational, 12 review, 5 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 18 of 74 report an effect size · 116 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -150,6 +150,9 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [Cognitive activity training produced significant interaction effects in LOTCA subdomains of spatial perception, praxis, visual-motor organization, thinking processes, and attention](../claims/cat-mixed-anova-lotca-subdomains.md) [+W] — measured as an outcome of the instruction studied
 - [Prior experience in tasks requiring spatial skills did not significantly differentiate post‐intervention neuroanatomy knowledge within the IVR group](../claims/spatial-experience-no-difference-ivr-group.md) [-M] — learners who differ on it differ in outcomes
 - [ChatGPT assistance disproportionately benefits dental students with low spatial ability; high spatial ability learners show no significant difference between modes](../claims/chatgpt-benefits-low-spatial-ability-learners-most.md) [~M] — an instructional effect differs with it
+- [A short PBL-VR training session significantly increased both apparel spatial visualization and fit correction skills](../claims/pbl-vr-improves-spatial-visualization-fit-correction.md) [+M] — measured as an outcome of the instruction studied
+- [Gender and the gender × pre-test interaction significantly predicted ASVT post-test scores, with women improving more at low spatial skill levels](../claims/gender-interaction-asvt-women-greater-low-spatial-gains.md) [~M] — an instructional effect differs with it
+- [Higher pre-training apparel spatial visualization skill predicted larger fit correction skill gains from the PBL-VR training](../claims/asvt-pretest-predicts-fcst-gain.md) [+M] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

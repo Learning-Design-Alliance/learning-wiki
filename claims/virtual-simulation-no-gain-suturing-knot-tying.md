@@ -52,3 +52,4 @@ Null finding on the hands-on laparoscopic simulator task scored on suture placem
 - [Knot Tying showed the lowest and most variable expert scores on FRS VR, likely due to poor interaction fidelity](frs-vr-knot-tying-poor-interaction-fidelity.md) — related
 - [On a baseline vaginal cuff suturing task, experts perform significantly faster and score significantly better than novices](maisurge-baseline-suturing-experts-faster.md) — related
 - [Virtual simulation platform practice improves medical undergraduates' scores on a virtual laparoscopic appendectomy task](virtual-simulation-platform-improves-appendectomy-scores.md) — related
+- [Physical simulator training improved suturing and knot-tying performance versus conventional methods in a cited randomized controlled trial](physical-simulator-suturing-knot-tying-rct.md) — reports the opposite

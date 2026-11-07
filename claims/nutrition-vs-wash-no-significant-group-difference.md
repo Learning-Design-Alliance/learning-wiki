@@ -51,3 +51,4 @@ Subgroup meta-analysis comparing "Nutrition_only" (12 studies, effect sizes 0.68
 - [Intestinal parasitic infection is associated with poorer academic performance (pooled effect size 0.570)](intestinal-parasitic-infection-academic-performance-ethiopia.md) — related
 - [Breakfast skipping is associated with poor academic performance among Ethiopian students (pooled effect size 3.47)](breakfast-skipping-poor-academic-performance-ethiopia.md) — related
 - [Underweight children are less likely to achieve high academic scores (pooled effect size 0.605)](underweight-lower-academic-scores-ethiopia.md) — related
+- [Nutrition knowledge shows no significant association with academic performance](nutrition-knowledge-no-association-academic-performance.md) — related

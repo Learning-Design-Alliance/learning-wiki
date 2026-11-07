@@ -59,3 +59,5 @@ Wilcoxon test for related pairs on the experimental group's scores from post mea
 - [Learning advantages of AI-assisted peer teaching persist at 3-month follow-up](ai-assisted-peer-teaching-retention-3-month.md) — related
 - [Junctional tourniquet skill scores rose from 1.7 ± 2.1 to 10.8 ± 0.9 and were 10.4 ± 1.0 at two-month follow-up in one single-group pre-post study](junctional-tourniquet-skill-retention-two-months.md) — related
 - [Advantages of scaffolded case-based learning persist and widen at Week 8, including significant knowledge retention differences](scaffolded-cbd-week8-retention.md) — related
+- [Gains in patient-centered communication competence are retained at 6-week follow-up regardless of teaching method](pcc-gains-retained-six-week-follow-up.md) — related
+- [Small post-test to follow-up declines in knowledge, skills, and overall competence are not statistically significant in either group](post-to-retention-declines-not-significant.md) — related

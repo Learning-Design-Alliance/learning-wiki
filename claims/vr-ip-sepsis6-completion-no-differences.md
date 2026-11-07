@@ -48,3 +48,4 @@ Secondary analysis of the pilot (n=32) compared Sepsis 6 component completion ac
 - [Overall knowledge scores did not differ significantly by sepsis training level or highest qualification, with differences only at item level](no-overall-knowledge-score-group-differences.md) — related
 - [Recent sepsis training was associated with higher confidence but not higher knowledge scores](recent-training-confidence-not-knowledge.md) — related
 - [AI-based virtual reality sepsis training shows no significant performance difference from human-controlled virtual reality training](ai-versus-human-control-vr-sepsis-null.md) — related
+- [VPS and IPS produce no significant difference in overall sepsis resuscitation checklist performance among novices at delayed assessment](vps-ips-no-difference-sepsis-checklist.md) — related

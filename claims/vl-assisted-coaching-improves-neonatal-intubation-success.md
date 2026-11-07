@@ -89,3 +89,4 @@ RCT randomising 49 neonatal learners with under one year of intubation experienc
 - [Daily simulation practice before shifts improved first-pass intubation rates in a retrieval service, with the significant gain in neonatal patients](frequent-mannequin-practice-improves-first-pass-intubation.md) — related
 - [Video laryngoscopy yields higher intubation success rates than direct laryngoscopy among novice medical students on the first and second attempts, but not on the third](vl-higher-success-first-second-attempt.md) — related
 - [Instructor assessment found similar screening technique across groups except that the test group more often provided instructions and screened according to protocol](hss-instructor-technique-assessment.md) — related
+- [The first attempt success benefit of just-in-time coaching was significant among residents but not among fellows or student registered nurse anesthetists](jit-coaching-resident-subgroup-benefit.md) — related

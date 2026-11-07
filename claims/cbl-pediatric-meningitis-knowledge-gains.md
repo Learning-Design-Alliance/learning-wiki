@@ -50,3 +50,5 @@ Paired pre/post 10-item quiz evaluation with 49 learners completing matched quiz
 - [Facilitators reported reduced preparation time using the CBL module compared with preparing didactic teaching materials de novo](cbl-pediatric-meningitis-facilitator-prep-time.md) — related
 - [A structured Quality and Patient Safety module significantly improves medical interns' knowledge test scores across graduating cohorts](qps-module-improves-intern-knowledge-scores.md) — related
 - [A simulated oncology MDT case-based learning session significantly improved trainee confidence, with a mean increase of 2 points on a 10-point scale (p < 0.01)](simulated-mdt-cbl-improves-trainee-confidence.md) — related
+- [Post-session quiz scores were significantly higher than pre-session quiz scores in all five analyzed anatomy workshops](anatomy-workshops-raise-post-quiz-scores.md) — related
+- [Trainees reported the case-based modules improved their knowledge and confidence in history-taking, differentials, and medication techniques](trainee-feedback-knowledge-confidence-gains.md) — related

@@ -71,3 +71,4 @@ Among 47 participants assessed with the manikin at both time points, appropriate
 - [In-person WHO ENC training significantly improves nurses' and midwives' BVM ventilation, knowledge-check and case-scenario scores immediately after the course](enc-inperson-training-immediate-gains-nigeria.md) — related
 - [Real-time feedback training does not improve ventilation quality; both groups fail the 500–600 mL tidal volume target](real-time-feedback-no-ventilation-improvement.md) — related
 - [Knowledge-check trajectories differ: ENC 1 knowledge scores decline by 6 months while remaining above pretraining, and ENC 2 knowledge scores stay stable](venc-knowledge-check-trajectories.md) — related
+- [Training load needed for ventilation rate varies by profession: midwives and pediatricians were predicted to succeed without training while anesthetists needed 36 cases](ventilation-rate-threshold-varies-by-profession.md) — related

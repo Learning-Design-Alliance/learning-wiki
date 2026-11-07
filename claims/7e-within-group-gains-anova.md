@@ -83,3 +83,4 @@ One-way repeated-measures ANOVA on experiment-1's pre-test, post-test and retent
 - [Within the experimental group all pairwise score gains across assessments were significant, whereas the control group showed no significant admission-to-mid-term gain](within-group-score-trajectories-experimental-versus-control.md) — related
 - [Group×time interactions were significant for all four outcomes in two-way repeated measures ANOVA](snpcohs-group-time-interaction-significant.md) — related
 - [Communication self-confidence improved significantly over time in both groups, with a significant group-by-time interaction favoring the experimental group](communication-confidence-time-effect-and-interaction.md) — related
+- [Gains in patient-centered communication competence are retained at 6-week follow-up regardless of teaching method](pcc-gains-retained-six-week-follow-up.md) — related

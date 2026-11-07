@@ -53,3 +53,4 @@ The review's narrative synthesis of included studies found that system-embedded 
 - [Effective experiential learning interventions combine enjoyable practical activities with behaviour change techniques, theory, and short intense delivery](effective-experiential-learning-intervention-characteristics.md) — related
 - [In situ simulation improved teamwork behaviours in 12 of 14 domains during the simulation phase, but benefits returned to baseline when the program was discontinued](in-situ-simulation-teamwork-gains-lost-without-continuation.md) — related
 - [In situ simulated emergency training added to routine training raises self-rated first aid ability in junior nurses](in-situ-set-improves-first-aid-junior-nurses.md) — related
+- [Trauma team training improves team-specific performance outcomes such as teamwork and task completion scores](ttt-improves-team-specific-outcomes.md) — a narrower finding that bears on this claim

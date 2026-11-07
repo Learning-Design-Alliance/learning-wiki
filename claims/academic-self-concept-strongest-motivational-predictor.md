@@ -57,3 +57,4 @@ Among the motivational constructs examined in the Flemish seventh-grade sample, 
 - [Math self-concept is a stronger predictor of math achievement, whereas value beliefs are stronger predictors of self-reported effort](self-concept-predicts-achievement-value-predicts-effort.md) — related
 - [Motivational processes explain unique variance in achievement beyond intelligence and personality, totaling about a quarter of explained variance](motivation-unique-variance-beyond-intelligence-personality.md) — related
 - [Intelligence and need for cognition are strong predictors of academic achievement in Flemish seventh graders](intelligence-need-for-cognition-strong-achievement-predictors.md) — related
+- [Students' Academic Self-Perceptions strongly affect cognitive engagement, explaining 39% of its variance](academic-self-perceptions-cognitive-engagement.md) — related

@@ -50,3 +50,4 @@ Cross-sectional comparison using Steel post-hoc tests on total CWM scores from a
 - [Physiotherapy students who learned OSCE-based medical communication techniques scored significantly higher on total MC skills than both untrained students and practicing physiotherapists](osce-mc-training-higher-mc-skills.md) — related
 - [Trained physiotherapy students scored significantly lower than practicing physiotherapists on total CWM skills](students-lower-cwm-than-pts.md) — related
 - [Correspondence analysis of CWM conversations identified distinct characteristic words per group: identification and politeness phrases for trained students and the word “dull” for physiotherapists](cwm-conversation-characteristic-words.md) — related
+- [A 2.5-hour patient education training intervention significantly improves final-year physiotherapy students' OSCE-assessed patient education performance versus control](short-training-improves-physiotherapy-osce-patient-education.md) — related

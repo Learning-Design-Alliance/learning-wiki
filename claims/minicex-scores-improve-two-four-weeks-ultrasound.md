@@ -52,3 +52,4 @@ Repeated Mini-CEX assessment of the 21 experimental-group residents at admission
 - [Within the intervention cohort, workplace-based assessment mini-CEX and FCB-CHOPS scores rose from pre-test to post-test after the curriculum, while 360-degree overall score did not change significantly](wba-mini-cex-fcb-chops-improved-360-null.md) — related
 - [AI-Mentor pilot improves overall clinical competence on Mini-CEX from pretest to posttest](ai-mentor-pilot-improves-overall-mini-cex.md) — related
 - [Integrated online-PBL-CBL teaching improves overall Mini-CEX clinical competence but not its individual sub-dimensions](online-pbl-cbl-minicex-overall-competence-gain.md) — related
+- [Admission competencies map onto graduation competencies, distinguishing traits expected at entry from those deepened during education](admission-graduation-competency-progression-mapping.md) — related

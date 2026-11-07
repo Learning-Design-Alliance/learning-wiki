@@ -57,3 +57,4 @@ In the review's synthesis of procedural-time outcomes, Philip et al.'s pilot stu
 - [VR simulation training reduced learning time and improved procedure accuracy in African and UK studies](vr-training-learning-curve-reductions.md) — related
 - [Students who began training with HVRS completed the subsequent laboratory pulpotomy task faster than those who began with the conventional model, suggesting transfer of procedural fluency](hvrs-first-faster-lab-drilling-time.md) — related
 - [Evidence on the pedagogical effectiveness of haptic training in dentistry is sparse, with a recent review finding most of 36 included studies were cross-sectional with short-term evaluation data](paucity-haptic-dental-training-evidence.md) — related
+- [Novice learners taught virtually complete the MISTELS peg transfer task faster than face-to-face-taught learners (11.25 vs 16.88 min; P=0.015)](online-group-faster-peg-transfer.md) — related

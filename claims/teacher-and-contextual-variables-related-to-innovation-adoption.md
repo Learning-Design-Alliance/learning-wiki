@@ -54,3 +54,4 @@ Interview-derived listing of teacher and contextual variables related to adoptio
 - [An innovation foreign to the rest of its system may be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related
 - [A constructivist, process-oriented syllabus was suggested to be more effective than a knowledge-based approach for cross-cultural learning (Wright, 2000, as reported)](constructivist-syllabus-beats-knowledge-based-culture-teaching.md) — related
 - [Both teaching strategies are viable in the distance learning mathematics classroom](both-strategies-viable-distance-math.md) — related
+- [The four-stage interdisciplinary online PBL task successfully transitioned from classroom to online learning with educators as facilitators](four-stage-online-pbl-successful-transition-case-study.md) — related

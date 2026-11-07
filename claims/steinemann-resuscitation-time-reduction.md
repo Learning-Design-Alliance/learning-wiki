@@ -55,3 +55,6 @@ The review attributes this Level 4 finding to Steinemann (2011), a before-and-af
 - [A relatively brief four-hour simulation-based curriculum improved clinical performance of multidisciplinary trauma teams, including a 16% reduction in mean overall ED resuscitation time](brief-simulation-curriculum-improves-trauma-team-performance.md) — possibly the same claim (merge candidate)
 - [Structured trauma resuscitation team training augmented by simulation improved teamwork domain ratings and reduced time to CT scanner, intubation, and operating room](simulation-augmented-team-training-improves-trauma-care-efficiency.md) — related
 - [Trauma-informed training before simulation does not increase time to scenario completion relative to control](tic-training-no-simulation-time-penalty.md) — related
+- [Simulation training is associated with reduced surgical errors and improved team performance, but translation to patient-level outcomes remains unproven](simulation-clinical-outcomes-intermediate-only.md) — related
+- [Trauma team training consistently shows no statistically significant improvement in patient mortality](ttt-no-patient-mortality-improvement.md) — related
+- [Trauma team training reduces time-related outcomes, especially time to CT, though findings are not uniform across settings](ttt-reduces-time-to-ct-mixed.md) — related

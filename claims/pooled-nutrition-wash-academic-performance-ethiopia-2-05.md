@@ -57,3 +57,4 @@ Random-effects meta-analysis of 19 studies (16 cross-sectional, 3 prospective co
 - [Underweight children are less likely to achieve high academic scores (pooled effect size 0.605)](underweight-lower-academic-scores-ethiopia.md) — related
 - [Intestinal parasitic infection is associated with poorer academic performance (pooled effect size 0.570)](intestinal-parasitic-infection-academic-performance-ethiopia.md) — related
 - [Normal BMI is associated with approximately four times higher academic performance compared with underweight among Ethiopian primary school students](normal-bmi-associated-academic-performance-ethiopia.md) — a narrower finding that bears on this claim
+- [Nutrition knowledge shows no significant association with academic performance](nutrition-knowledge-no-association-academic-performance.md) — related

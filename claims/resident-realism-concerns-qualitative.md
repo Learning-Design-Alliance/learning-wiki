@@ -49,3 +49,4 @@ Thematic analysis of open-ended resident feedback collected alongside the struct
 - [Residents rated the Calgary Simulation Curriculum highly on educational value, teaching quality, and preparatory materials across three annual iterations](csc-face-validity-high-ratings.md) — related
 - [Realism of technology is a prominent enabler of critical thinking development in technologically supported SBL, mapped to the information quality dimension of the D&M IS Success Model](realism-enabler-critical-thinking-sbl.md) — related
 - [Students identified mannequin realism limitations, technical and operational issues, and restricted access to simulation labs as barriers to SBL in oral radiology](barriers-sbl-oral-radiology-realism-technical-access.md) — related
+- [Resident feedback identifies expanded training scope, more practice time, and better scheduling as the top improvement requests](resident-feedback-curriculum-improvements.md) — related

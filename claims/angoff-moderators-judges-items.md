@@ -51,3 +51,4 @@ Meta-regression analyses explored heterogeneity by number of judges and test len
 - [Angoff (Yes/No) variant shows the highest variability in cut scores](angoff-yes-no-highest-variability.md)
 - [Mastery Angoff produces the highest cut scores and lowest pass rates among Angoff variants](mastery-angoff-highest-cut-scores.md)
 - [The Angoff method produced lower cut-off scores and higher pass rates than Cohen and Hofstee methods in dental written assessments, especially in early and middle years](angoff-lower-cutoffs-higher-pass-rates.md)
+- [Panellist age and sex showed no statistically significant effect on Angoff ratings](panellist-age-sex-no-significant-effect.md) — related

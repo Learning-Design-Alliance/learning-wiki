@@ -78,3 +78,4 @@ Even the lowest techniques average d = 0.44, but the outcomes were mostly surfac
 - [Critical readers underlined and took notes of more critical points (ironies, questions, metaphors) and summarized less than less-critical readers](critical-readers-note-critical-points.md) — related
 - [Intervention students poorly utilized brainstorming and need more training in it, while underlining the main idea was a planning technique they found helpful](poor-brainstorming-use-underlining-planning-efl-writers.md) — related
 - [Students choose high-yield active recall techniques driven by a cost–benefit analysis of assessment demands against time, potentially favouring surface learning](cost-benefit-strategic-learning-selection.md) — related
+- [Only 47.20% of students found the formal self-reflection and goal-setting exercises helpful, the least positively received component](low-uptake-formal-reflection-goal-setting.md) — related

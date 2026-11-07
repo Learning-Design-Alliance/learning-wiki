@@ -47,3 +47,4 @@ Exploratory, unadjusted and non-preregistered analyses re-estimating the SEM sep
 ## Related Claims
 - [Digital use intensity attenuates the positive EF–reappraisal association, more pronouncedly on the EF→ER pathway than the reverse](digital-intensity-attenuates-ef-reappraisal-link.md) — a broader claim this one bears on
 - [High-intensity digital users show lower EF and reappraisal than moderate and low users, suggesting a threshold rather than linear dose-response pattern](digital-use-threshold-pattern-ef-er.md) — related
+- [Parental short video usage duration positively moderates the negative link between students' short video usage and attention](parental-usage-moderates-attention-link.md) — related

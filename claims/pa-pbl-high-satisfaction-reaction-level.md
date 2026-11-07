@@ -53,3 +53,4 @@ Post-session on-site questionnaires (51 items, four domains) from the experiment
 - [Participants rated the POCUS course near the maximum on all evaluation measures, exceeding the pre-set satisfaction threshold](pocus-course-high-satisfaction-ratings.md) — related
 - [Students reported high satisfaction with the script strategy teaching method (mean 74.37 ± 16.31 on a 100-point scale)](script-strategy-high-satisfaction.md) — related
 - [Student and faculty satisfaction with PBL sessions after the intervention averaged 4.8 and 4.1 respectively on a five-point scale](pbl-intervention-satisfaction-ratings.md) — related
+- [Average CLEE scores after case teaching exceeded 80 points, and professional interest increased significantly as case teaching proceeded, in a single-group pre-post study](clee-positive-cbl-effectiveness-professional-interest.md) — related

@@ -72,3 +72,4 @@ Same three-month follow-up of the pilot study; mean knowledge score was 11 ± 3.
 - [Knowledge gains persisted one month post-intervention despite a slight decline, remaining above pre-intervention levels](knowledge-gains-persisted-one-month-post-intervention.md) — related
 - [Synectics workshops significantly increase perceived teamwork skills immediately after training, with gains retained three months later](synectics-improves-teamwork-skills-retained.md) — related
 - [A short simulation-based ophthalmology workshop immediately improves medical students' ophthalmology knowledge, confidence, and interest in the specialty](sbe-ophthalmology-workshop-immediate-gains.md) — related
+- [Midwives' knowledge gains from e-learning decay: one-month retention knowledge is significantly lower than immediately post-intervention but still significantly above pre-intervention](knowledge-decays-one-month-after-e-learning-but-stays-above-baseline.md) — related

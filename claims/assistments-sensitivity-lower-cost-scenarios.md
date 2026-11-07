@@ -52,3 +52,4 @@ Sensitivity analysis (Table 2) varying length of professional development, avail
 - [Bulk negotiation with the Kahoot! provider reduced the per-teacher price from $149.99 to $44.60, saving the district over $25,000 on licenses](dps-kahoot-bulk-price-saving-25000.md) — related
 - [NBA Math Hoops can be implemented at low marginal cost: $17.85 per pupil (analytic sample) in materials and training beyond typical summer programming, yielding 0.19 SD math gain](nba-math-hoops-cost-effective-summer-program.md) — related
 - [Districts' costs for using Ecree depend on implementation and support needs, and the price per student would likely be lower for larger districts](ecree-district-costs-depend-on-implementation-lower-for-larger-districts.md) — related
+- [The riAniMO approach was cost-saving, training 322 more HCPs and saving €61.7 per participant versus standard BLSD retraining](rianimo-cost-savings-per-participant.md) — related

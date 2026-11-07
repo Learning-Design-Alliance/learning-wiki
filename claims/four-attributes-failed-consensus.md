@@ -72,3 +72,5 @@ Discussion-section interpretation of the contrast between the failed degree item
 - [Strongest expert consensus emerged in the non-technical and technical skills domains of the nursing resuscitation attribute framework](strongest-consensus-nts-technical-domains.md) — related
 - [Korean experts and survey respondents favored applied health literacy content over theoretical and contextual items](korean-hlc-applied-content-preference.md) — related
 - [Expert panel was predominantly female, doctoral-level, with healthcare and SCI experience](iafee-ecs-expert-panel-characteristics.md) — related
+- [Diploma-qualified nurses self-rated highest across all competence domains, which the discussion attributes inconsistently to bachelor's-degree nurses](education-level-competence-diploma-highest-table-inconsistency.md) — related
+- [Nurses with master's or doctoral degrees scored significantly lower in infectious disease emergency response competence than nurses with diploma or associate degrees](higher-degree-lower-competence.md) — related

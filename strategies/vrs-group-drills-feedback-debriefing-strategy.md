@@ -52,6 +52,7 @@ The article's VRS session recipe combines collaborative drills with structured r
 - [Implement SST as pre-class self-study, a scenario simulation with role players and mannequin deterioration, debriefing, and post-class personalized feedback](sst-session-recipe-emergency-residents.md)
 - [Team-based, bilingual VR training session format combining orientation, remote-facilitated simulation, and debriefing](team-based-bilingual-vr-session-format.md)
 - [Structure a remote AR simulation session as orientation, preparatory video, simulation, structured debriefing, and post-intervention questionnaires](remote-ar-session-structure-strategy.md)
+- [Deliver short-term, intensive, simulation-based infectious disease emergency training with frequent drills](short-term-simulation-drill-training-strategy.md)
 
 ## Examples
 -

@@ -55,3 +55,4 @@ Descriptive self-report ratings on the 12-item Teaching Effectiveness Evaluation
 - [Nurses report very high satisfaction with the BOPPPS-plus-simulation training course, with objectives and assessment criteria rated lowest](high-satisfaction-boppps-simulation-training.md) — related
 - [Pre-reform survey found high flipped-classroom awareness but minimal BOPPPS familiarity and limited willingness to participate](pre-survey-awareness-boppps-flipped-dentistry.md) — related
 - [Students reported high satisfaction with the BOPPPS-flipped classroom model in pediatric dentistry](boppps-flipped-high-student-satisfaction.md) — related
+- [Students in the PBL-ChatGPT group gave highly positive satisfaction feedback, with no dissatisfied responses reported](high-student-satisfaction-pbl-chatgpt-teaching.md) — related

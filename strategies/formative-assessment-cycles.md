@@ -111,6 +111,7 @@ Two design consequences follow. The eliciting move has to be diagnostic rather t
 - [Retrieval Practice](retrieval-practice-activities.md) — low-stakes quizzing that doubles as formative evidence and memory strengthening
 - [Self-assessment as a formative assessment practice that supports students to act as self-regulated agents](self-assessment-supports-self-regulated-agents.md)
 - [Disrupt the performative assessment cycle through structural assessment reform rather than technological solutionism](structural-assessment-reform-over-technological-solutionism.md)
+- [Create a supportive assessment environment that emphasizes the concept and purpose of formative testing](supportive-assessment-environment-formative-value.md)
 
 ## Examples
 

@@ -53,6 +53,7 @@ The article recommends that regulatory bodies and National Specialty Commissions
 
 - [Incorporate reflection-promoting activities into health professions curricula at all educational levels](incorporate-reflection-activities-health-curricula.md)
 - [Integrate relational and technical competencies in nursing education frameworks to address the assessment gap](integrate-relational-and-technical-competencies-nursing-education.md)
+- [Health establishments should develop needs-based soft skills training programmes, incorporate them into staff appraisals, and exploit e-learning platforms for flexible access](institutional-soft-skills-training-programmes-strategy.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Comparison against the pass standard in the overall performance analysis of 374 
 - [o1-Pro significantly outperforms GPT-4o on UKMLA-style single-best-answer items (93.0% vs 88.8% accuracy)](mcnemar-significant-o1-pro-advantage-ukmla.md) — a narrower finding that bears on this claim
 - [Newer OpenAI LLM versions achieve significantly higher pooled accuracy on biomedical MCQs than earlier versions (GPT‐4o–o1: 90%; GPT‐4: 82%; GPT‐3/3.5: 59%)](openai-llm-accuracy-improves-across-versions-biomedical-mcq.md) — a broader claim this one bears on
 - [GPT-4 exceeds pass marks on India NEET-PG and UK PLAB 1 but falls below pass on clinical reasoning and procedural items](gpt4-neetpg-plab-pass-clinical-reasoning-below.md) — related
+- [GPT-4o significantly outperforms GPT-4 in management (88.8% vs 77.0%), and both beat GPT-3.5 (57.9%)](gpt-4o-management-accuracy-beats-gpt-4-and-gpt-3-5.md) — related

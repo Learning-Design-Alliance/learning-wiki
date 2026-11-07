@@ -53,6 +53,7 @@ This strategy delivers scenario-based assessment of resuscitation team leadershi
 - [Structure a remote AR simulation session as orientation, preparatory video, simulation, structured debriefing, and post-intervention questionnaires](remote-ar-session-structure-strategy.md)
 - [Deploy LLM-powered ACLS simulations as a structured, scalable adjunct to traditional resuscitation leadership training](llm-simulation-adjunct-resuscitation-leadership-training.md)
 - [Team-based, bilingual VR training session format combining orientation, remote-facilitated simulation, and debriefing](team-based-bilingual-vr-session-format.md)
+- [Use simultaneous remote coaching to reduce regional disparities in surgical education where instructors are scarce](remote-coaching-reduce-regional-disparities-strategy.md)
 
 ## Examples
 -

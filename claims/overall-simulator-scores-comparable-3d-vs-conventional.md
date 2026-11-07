@@ -50,3 +50,5 @@ Prospective single-center crossover study of 16 medical students and 16 resident
 - [Students tended to prefer the 3D system while residents more often preferred the conventional microscope, a non-significant difference](student-resident-preference-divergence.md) — related
 - [Exploratory subgroup analysis found no cataract performance difference between systems among students but higher conventional-microscope scores among residents](subgroup-cataract-students-residents.md) — related
 - [Participants rated the 3D heads-up system superior for control, instrument handling, movement precision, comfort and instructor interaction](subjective-ratings-favour-3d-system.md) — related
+- [Novice surgeons achieve significantly higher phacoemulsification competency scores when operating on a 3D heads-up display microscope than on a traditional microscope.](3d-hud-higher-novice-surgical-competency-scores.md) — related
+- [Novice surgeons complete phacoemulsification surgeries significantly faster on a 3D heads-up display microscope than on a traditional microscope.](3d-hud-shorter-novice-surgical-duration.md) — related

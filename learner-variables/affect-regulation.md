@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 306 claims (216 show a difference, 58 mixed, 32 no difference) · 198 studies (72 associational, 54 causal, 32 review, 14 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 44 of 198 report an effect size · 298 claims rest on one study
+> **Evidence** · 307 claims (217 show a difference, 58 mixed, 32 no difference) · 199 studies (72 associational, 54 causal, 32 review, 15 qualitative, 12 quant-synthesis, 8 theoretical, 6 design), `q1`–`q4` · 44 of 199 report an effect size · 299 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -346,6 +346,7 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Clinical training environment is not associated with stress or confidence in managing endodontic emergencies](../claims/training-site-not-associated-stress-confidence-endodontic-emergencies.md) [-M] — measured as an outcome of the instruction studied
 - [Academic achievement correlated inversely with depression, anxiety, stress, and hyperarousal, most strongly with stress (r = −0.632)](../claims/inverse-correlation-mental-health-gpa-wartime-students.md) [+M] — learners who differ on it differ in outcomes
 - [Prior teaching was somewhat stressful for junior doctor tutors but participation in the near-peer program provided only some relief of that stress](../claims/near-peer-teaching-stress-relief-minimal.md) [~M] — measured as an outcome of the instruction studied
+- [Hospital-based post-graduate feedback experiences were predominantly problematic or absent, and trainees developed coping strategies that cemented non-acceptance of supervision and feedback](../claims/hospital-feedback-problematic-coping-strategies.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

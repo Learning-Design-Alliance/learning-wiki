@@ -37,7 +37,7 @@ sources:
 # Case-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 93 claims (50 for, 41 mixed, 2 against) · 69 studies (35 causal, 14 quant-synthesis, 10 review, 4 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 20 of 69 report an effect size · 88 claims rest on one study
+> **Evidence** · 95 claims (52 for, 41 mixed, 2 against) · 70 studies (36 causal, 14 quant-synthesis, 10 review, 4 design, 3 associational, 2 qualitative, 1 theoretical), `q1`–`q4` · 20 of 70 report an effect size · 90 claims rest on one study
 
 ## Description and scope
 
@@ -161,6 +161,8 @@ Claims this page cited before it was rewritten as a conditional model. Both clai
 - [CBL multimodal imaging teaching produced higher final theoretical examination and case analysis scores than traditional teaching](../claims/cbl-multimodal-higher-final-theory-and-case-analysis.md) [+W] — attached 2026-11-06 from Shi X et al. (2025), which proposed "Case-based multimodal imaging teaching pattern: disease-centred cases integrating CFP, FFA, ICGA and OCT"; tests this page's relationship.
 - [Traditional lecture alone does not significantly change residents' agreement toward the three most integrity-damaging misconduct behaviors (paper selling/ghost-writing, plagiarism, and data falsification)](../claims/lecture-fails-on-most-severe-misconduct-attitudes.md) [~W] — attached 2026-11-07 from Chen Lulin et al. (2025), which proposed "Use case-based analysis and discussion rather than lecture alone when the goal is to change attitudes toward severe research misconduct"; tests this page's relationship.
 - [Applied physiology grades rose from the first-semester TTMs period to the fourth-semester combined CBL-and-TTMs period in the same cohort, in a pre-post comparison without a separate comparison group (minimum 2.0 to 7.5; median 8.5 to 10.0; Z = −11.668, P < 0.001)](../claims/cbl-ttm-hybrid-improved-physiology-grades.md) [+W] — attached 2026-11-07 from Elgheit Rehab E. Abo (2025), which proposed "Kaddoura five-step CBL session structure for applied physiology labs".
+- [Preventive medicine students taught with case-based learning scored higher on the final exam (77.62) than traditionally taught peers (69.2)](../claims/cbl-higher-final-exam-preventive-medicine.md) [+W] — attached 2026-11-07 from Liu Zhipeng et al. (2024), which proposed "Promote case-based learning in medical education reform to enhance students' comprehensive quality and classroom participation"; tests this page's relationship.
+- [Instructor-evaluated classroom performance rose across the five CBL cases, with all dimensions improving significantly from the first case](../claims/instructor-evaluation-rose-across-cbl-cases.md) [+W] — attached 2026-11-07 from Liu Zhipeng et al. (2024), which proposed "Promote case-based learning in medical education reform to enhance students' comprehensive quality and classroom participation".
 
 ## Illustrative design instance and observation record
 

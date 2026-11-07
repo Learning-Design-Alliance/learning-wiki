@@ -55,3 +55,4 @@ Cross-sectional regression (Model 2) in 106 children with overweight/obesity. Re
 - [Laboratory-based lower-limb muscular strength (1-RM leg press) is associated with mathematics skills and persists after adjustment for BMI and cardiorespiratory fitness](leg-press-mathematics-association-persists-adjustment.md) — reports the opposite
 - [Higher muscular fitness is associated with better cognition and academic achievement in school-aged youth](muscular-fitness-associated-cognition-academic-achievement.md) — related
 - [Students with good school achievement showed higher balance, lower limb coordination, and global physical fitness than insufficient achievers](good-achievement-higher-motor-fitness-scores.md) — reports the opposite
+- [Normal BMI is associated with better academic performance](normal-bmi-better-academic-performance.md) — related

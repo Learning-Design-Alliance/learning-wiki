@@ -69,3 +69,4 @@ Multivariable logistic regression on the binary outcome "complete eFAST achieved
 - [Handheld ultrasound practice increases the proportion of students performing a complete eFAST scan](handheld-practice-increases-complete-efast-rate.md) — related
 - [Handheld ultrasound practice shortens eFAST examination time on a simulator](handheld-practice-shortens-efast-examination-time.md) — related
 - [The teaching quality advantage remained significant after covariate adjustment, intention-to-treat, and mixed-effects sensitivity analyses](patient-in-classroom-sensitivity-analyses.md) — related
+- [Perceived ultrasound competence was significantly associated with practical (RR: 4.08) or combined theoretical-and-practical education (RR: 4.34) in medical school and with being tested in ultrasound (adjusted RR: 1.55)](perceived-ultrasound-competence-associated-with-practical-education-and-tests.md) — related

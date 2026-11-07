@@ -203,6 +203,7 @@ Combining two methods, the share of time each gets, the order of the two, and th
 - [Chilean national English curriculum combines the Communicative Approach with Natural Approach, Cooperative Learning, Content-Based Instruction and Task-Based Language Teaching](../designs/chilean-efl-curriculum-four-communicative-approaches.md)
 - [Adopt an eclectic approach combining diverse vocabulary instruction types in early foreign language teaching](../strategies/eclectic-approach-preschool-vocabulary-teaching.md)
 - [Combine virtual and traditional teaching methods to facilitate knowledge transfer in competency-based nursing skills courses](../strategies/combine-virtual-traditional-nursing-skills-teaching.md)
+- [Educators should flexibly use PBL alone or combined with other methods, matched to teaching content and the learning situation, rather than adopting one mode universally](../strategies/flexibly-match-pbl-to-content-and-learners.md)
 
 ## Key Sources
 - Ediger, Marlow. (1995). To Every Action There Is an Opposite and Equal Reaction: An Essay on Teaching. https://eric.ed.gov/?id=ED386319

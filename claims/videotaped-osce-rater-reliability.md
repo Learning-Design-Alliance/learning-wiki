@@ -70,3 +70,4 @@ Authors' interpretation of the videotaped-OSCE rater study, as reported in the r
 - [Over the course, students proposed more comprehensive and practical solutions to increasingly complex scenarios, as rated by four examiners](scenario-solutions-improved-over-time.md) — related
 - [Self-assessed knowledge does not significantly predict correct decision-making in fracture scenarios](self-assessed-knowledge-not-predictive-fracture-decisions.md) — related
 - [OSCEs provide standardized, objective practical assessment but carry high organizational effort and scenario-preparation risks](osce-advantages-limitations-ultrasound.md) — related
+- [Peer evaluations show higher internal and inter-rater reliability than SETs but are hard to apply to one-to-one clinical teaching](peer-evaluation-higher-reliability-limited-clinical-fit.md) — related

@@ -49,3 +49,4 @@ A satisfaction survey developed for this study was completed by 590 parents who 
 - [Understanding kindergarten expectations and acquiring tools to support children at home were especially beneficial for families without prior preschool or structured school experience](transition-program-benefits-families-without-preschool-experience.md) — related
 - [A parent-focused transition program increases parental self-efficacy to manage the transition to primary school](parent-transition-program-increases-transition-self-efficacy.md) — related
 - [A parent-focused transition program does not change parents' overall sense of competence in the parenting role](parent-transition-program-no-general-parenting-competence-change.md) — related
+- [Students reported satisfaction with workshop content and facilitation and planned to use session materials to study for Step 1](workshop-satisfaction-and-step1-study-intent.md) — related

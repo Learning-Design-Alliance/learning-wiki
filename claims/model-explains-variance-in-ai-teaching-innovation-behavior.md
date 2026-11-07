@@ -50,3 +50,4 @@ Structural model assessment in PLS-SEM evaluated explanatory power and predictiv
 - [The integrated model explains substantial variance in student engagement (R² = 0.700) in GenAI-supported learning](integrated-model-explains-engagement-variance-r2-700.md) — related
 - [The four-predictor model explains approximately 55.4% of variance in teachers' AI integration ability](plssem-model-explains-55-percent-variance-ai-integration.md) — related
 - [The modified UTAUT model accounts for 62% of variance in behavioral intention and 19% of variance in use behavior.](modified-utaut-variance-explained-mall.md) — related
+- [Social support explains 14% of variance in self-efficacy and, with self-efficacy, 26% in learning engagement; the full model explains 47% of variance in academic performance](variance-explained-structural-model-social-support.md) — related

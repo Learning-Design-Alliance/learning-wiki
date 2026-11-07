@@ -64,6 +64,7 @@ The review recommends that clinical practice should design CPD programs with "ha
 - [Embed standardized fall-risk tools and structured professional development into physiotherapy training and clinical workflows](embed-standardized-fall-risk-tools-professional-development.md)
 - [On-site personalized mentoring based on healthcare workers' own consultation data, eLearning programs, and continuous monitoring of CDSA data trends to track skill development](data-driven-mentoring-elearning-strategy.md)
 - [Build eLearning-based CPD systems that are user-friendly, enjoyable, and habit-forming, supported by infrastructure and digital-literacy training](elcpd-uptake-design-strategy.md)
+- [Implement organizational educational interventions — mentorship, structured feedback, and continuing professional development — to raise nurses' clinical competence](educational-interventions-mentorship-feedback-nurse-competence.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ In the trial's primary outcome comparison (n = 173 analysed; 89 control, 84 inte
 - [The performance advantage of handheld practice appears across all five modified OSAUS subdomains](osaus-subdomain-advantage-handheld-practice.md) — a narrower finding that bears on this claim
 - [Intervention students spent more preparation time and control students more often felt disadvantaged, while other feedback items did not differ](student-feedback-prep-time-and-allocation-fairness.md) — related
 - [No between-group differences in changes on any modified OSAUS subcategory, including image optimization](osaus-subcategory-changes-null-between-groups.md) — related
+- [Perceived ultrasound competence was significantly associated with practical (RR: 4.08) or combined theoretical-and-practical education (RR: 4.34) in medical school and with being tested in ultrasound (adjusted RR: 1.55)](perceived-ultrasound-competence-associated-with-practical-education-and-tests.md) — related

@@ -72,3 +72,4 @@ A Viewpoint article (a conceptual proposal, not a review or empirical study) sum
 - [Faculty testing of AI chatbots on real student homework found feedback quality uneven, prompting-dependent, and focused on surface features](ai-chatbot-homework-feedback-limits.md) — related
 - [Usability testing with educators and developers identified chatbot strengths for independent challenge-solving but limited feedback for low-participation learners](usability-test-strengths-and-limits.md) — related
 - [In the shoulder pain OSCE scenario, the AI chatbot group recorded higher patient education and physician-patient interaction scores than the PRP group, with large and moderate effect sizes but no adjusted significance](chatbot-tends-higher-patient-education-ppi-shoulder-osce.md) — related
+- [Audio-recorded OSCE assessment cannot capture non-verbal communication, a stated limitation of the trial](audio-recording-limits-nonverbal-assessment.md) — related

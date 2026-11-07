@@ -46,3 +46,4 @@ Multivariate logistic regression on seven variables (age, gender, ethnicity, maj
 
 ## Related Claims
 - [Higher GPA rankings are associated with higher JHLES scores among Chinese medical students (p < 0.001)](gpa-ranking-associated-with-jhles-scores.md) — a broader claim this one bears on
+- [Grade incentives in formative assessments were associated with student performance in one group with no comparison group (odds ratio 6.19)](grade-incentives-fa-strongest-remediation-predictor-or-6-19.md) — related

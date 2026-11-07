@@ -58,3 +58,4 @@ Analytical discussion in the reliability section of the paper, drawing on classi
 - [Subjective symptoms are an unreliable measure of fatigue, and physiological tests have not yet yielded a reliable measurement method (Offner)](unreliable-subjective-physiological-fatigue-measures.md) — a narrower finding that bears on this claim
 - The study was powered to detect effect sizes from d = 0.34 to 0.65 across the five tasks, so smaller effects would not have been reliably detected — related
 - [The one-minute paper significantly enhances students' statistics knowledge in an OLS controlled-vs-experimental comparison](one-minute-paper-ols-significant-knowledge-gain.md) — related
+- [At least 7–10 SETs per teacher are needed for reliable ratings, making SET feedback in small programs infrequent and unreliable](seven-to-ten-sets-needed-reliable-ratings.md) — related

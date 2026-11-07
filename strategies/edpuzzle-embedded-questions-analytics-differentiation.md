@@ -41,6 +41,7 @@ The article recommends using Edpuzzle's customization and data features to perso
 - [Interactive Video Quizzing](interactive-video-quizzing.md)
 - [Learning Dashboards](learning-dashboards.md)
 - [Tiered Assignments](tiered-assignments.md)
+- [Integrate a multimedia learning platform as a complement to traditional instruction, assigning curated playlists with embedded quizzes and flashcards for spaced repetition](multimedia-tool-complement-traditional-instruction-strategy.md)
 
 ## Examples
 -

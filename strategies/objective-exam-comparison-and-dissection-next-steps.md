@@ -48,6 +48,7 @@ The authors propose two next steps: future work "could compare objective anatomy
 ## Related Strategies
 
 - [Replicate the near-peer anatomy supplement at low cost using free cadaveric images and student volunteer tutors](low-cost-replication-free-cadaveric-images.md)
+- [Continue offering monthly optional anatomy workshops and add a formative anatomy readiness exam before Step 1](monthly-anatomy-workshops-readiness-exam-strategy.md)
 
 ## Examples
 -

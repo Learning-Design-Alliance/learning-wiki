@@ -69,3 +69,4 @@ The review reports a discourse-analytic study of student HCP and SP interactions
 - [Direct comparisons find simulated patients as effective as real patients for CST outcomes](sp-equivalent-to-real-patients-cst.md) — related
 - [Recurring movements between professional (in-role) and educational (out-of-role) contexts during simulation are important for simulator training to fulfil its pedagogical potential](role-shifts-between-professional-and-educational-contexts.md) — related
 - [Studies of simulated patient-based CST report positive effects on trainee confidence and communication performance](sp-cst-positive-effects-confidence-performance.md) — related
+- [The simulation-versus-real closed-loop communication gap suggests a Hawthorne effect, and real-life CLC may differ from textbook CLC](hawthorne-effect-clc-simulation-gap.md) — a narrower finding that bears on this claim

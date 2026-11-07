@@ -51,3 +51,4 @@ Baseline comparison of the 71 analyzed participants (Table 1) using Chi2 statist
 - [Subjective performance ratings (NRS) were significantly higher after structured VRST than after deliberate practice](structured-vrst-higher-nrs-ratings.md) — related
 - [In the trial, control-group participants had significantly more prior cholecystectomy and appendectomy experience than MI-group participants, a baseline imbalance the authors argue may have underestimated the MI effect](baseline-experience-imbalance-favors-control-group.md) — reports the opposite
 - [Baseline characteristics and baseline outcome scores did not differ significantly between the experimental and comparison groups](snpcohs-baseline-equivalence-no-significant-differences.md) — related
+- [Virtual and F2F teaching groups showed no significant baseline differences in characteristics or prior laparoscopic experience](no-baseline-differences-groups.md) — related

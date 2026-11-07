@@ -53,3 +53,4 @@ Prospective parallel-group RCT; 120 undergraduates stratified by major and rando
 - [PBL produces higher examination scores than LBL in undergraduate pharmacology education (SMD = 2.03)](pbl-higher-examination-scores-pharmacology.md) — related
 - [In one nonrandomised quasi-experiment, a BOPPPS-based blended teaching class scored significantly higher on final examination and process assessment than a traditional lecture-based class](boppps-higher-final-exam-process-assessment.md) — related
 - [WeChat-based PBL students scored lower on memorization but higher on understanding and knowledge application than traditional-teaching peers in ophthalmology](wechat-pbl-exam-cognitive-levels-ophthalmology.md) — related
+- [Fourth-year medical students taught with SPOC+PBL scored higher on a closed-book neurology unit test than students taught with LBL](spoc-pbl-higher-neurology-unit-test-scores.md) — related

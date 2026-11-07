@@ -52,3 +52,4 @@ Exploratory correlational observation within the single-participant questionnair
 - [Action video-game players show greater integration rate (sensitivity) than non-players in a visual motion direction discrimination task](vgp-greater-integration-rate-motion-ddm.md) — related
 - [Fluoroscopy-time reduction is steepest between the third and fourth simulator session](steepest-fluoroscopy-decline-session-three-to-four.md) — related
 - [Median virtual fluoroscopy time decreased from 19.3 min to 9.3 min after five repeated VR endovascular simulator training sessions among medical students in a single-group pre-post study](vr-simulator-training-reduces-virtual-fluoroscopy-time.md) — related
+- [Frequency of playing video games was not confirmed to be associated with Da Vinci Skills Simulator performance](gaming-frequency-no-association.md) — related

@@ -70,3 +70,4 @@ Model-change statistics from the stepwise regression in Table 3. Model 2 added e
 - [A reduced set of non-cognitive factors alone explains 17–25% of the variance in university GPA across three years of a degree](noncognitive-factors-explain-17-25-percent-gpa-variance-three-years.md) — related
 - [Previous academic performance is the strongest predictor of university GPA, and adding cognitive predictors raises explained variance to about 44–50%](previous-ap-strongest-predictor-gpa-up-to-50-percent.md) — related
 - [Stepwise regression explains 44.0% of GPA variance through anxiety, loneliness and gender in physiotherapy students](stepwise-regression-44-percent-gpa-variance.md) — related
+- [Students' Academic Self-Perceptions strongly affect cognitive engagement, explaining 39% of its variance](academic-self-perceptions-cognitive-engagement.md) — related

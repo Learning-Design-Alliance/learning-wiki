@@ -46,3 +46,4 @@ Document-analysis comparison of eight operational characteristics from two DI mo
 
 ## Related Claims
 - [GURU, a tutor embodying expert-teacher behaviour, produced learning gains similar to small-group human teaching and better than classroom teaching alone](guru-evaluation-similar-gains-to-human-augmentation.md) — related
+- [Augmenting review of student evaluations with expert teaching consultation improves teaching effectiveness](teaching-consultation-improves-teaching-effectiveness.md) — related

@@ -49,3 +49,4 @@ Matched comparison of correct video-question answers among 959 pairs of GM-ITE 2
 - [Resident physicians who detect tachypnea in a clinical simulation video achieve significantly higher GM-ITE scores than non-detecting peers after propensity score matching](tachypnea-detection-higher-gm-ite-scores.md) — related
 - [Among the non-verbal cues embedded in the simulation video, tachypnea showed the largest identification-rate difference between correct and incorrect responders](tachypnea-largest-cue-detection-gap.md) — related
 - [The authors interpret clinical experience, motivational factors, and patient exposure as contributors to non-verbal cue detection ability](experience-and-motivation-cue-detection-interpretation.md) — related
+- [Only 10.0% of resident physicians provided a correct CSV-IE diagnosis, and those who did had significantly higher GM-ITE scores](csv-ie-correct-diagnosis-rate-and-gm-ite-score.md) — related

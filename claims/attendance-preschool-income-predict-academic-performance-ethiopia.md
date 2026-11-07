@@ -53,3 +53,4 @@ Adjusted multivariate logistic regression in the 399-child cross-sectional study
 - [Father-headed households showed significantly higher odds of good academic performance compared with mother-headed households](father-head-household-academic-performance-ethiopia.md) — related
 - [Peer support for study positively predicts academic performance among Haor students](peer-support-predicts-haor-academic-performance.md) — related
 - [In the adjusted model, height-for-age (HAZ) nutritional status did not statistically predict academic performance among urban primary school children in northern Ethiopia](haz-nutritional-status-not-predicting-academic-performance-ethiopia.md) — related
+- [Positive attitudes towards nutrition are associated with better academic performance](nutrition-attitudes-better-academic-performance.md) — related

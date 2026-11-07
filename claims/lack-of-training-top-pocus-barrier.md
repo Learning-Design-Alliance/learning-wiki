@@ -49,3 +49,5 @@ Descriptive survey results from Table 3 of the 97-resident cross-sectional study
 - [Lack of time was the most frequently reported barrier to integrating LUS into ED workflows](lack-of-time-top-lus-barrier.md) — related
 - [Physicians called for standardized CVC training protocols across programs and reliable access to high-quality training resources](physicians-call-for-standardized-cvc-protocols-and-resources.md) — related
 - [Any form of prior POCUS training is strongly associated with good POCUS knowledge among pediatric residents](prior-pocus-training-associated-with-knowledge.md) — related
+- [POCUS access and utilization during clerkships were concentrated in Emergency Medicine clerkships and the Emergency Department](pocus-access-concentrated-emergency-medicine-clerkships.md) — related
+- [A four-module POCUS education programme significantly increased haemodialysis nurses' perceived confidence in ultrasound-based vascular access assessment (n = 15)](pocus-training-increases-nurse-cannulation-confidence.md) — related

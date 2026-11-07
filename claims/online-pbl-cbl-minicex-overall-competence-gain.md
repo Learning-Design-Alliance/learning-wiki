@@ -88,3 +88,4 @@ Results section reporting all six Mini-CEX sub-dimensions as non-significant. Th
 - [Scaffolded case-based learning yields higher self-directed learning capacity than lecture-based teaching at Week 4, driven by resource utilization and reflective learning](scaffolded-cbd-self-directed-learning-week4.md) — related
 - [After teaching, medical interns taught with practical training scenario simulation score significantly higher on all Mini-CEX clinical-skill dimensions than interns taught with bedside teaching](simulation-teaching-higher-minicex-post-teaching.md) — related
 - [BOPPPS-CBL raises Mini-CEX clinical competence scores in six of seven dimensions but not physical examination skills](boppps-cbl-mini-cex-six-dimensions-higher.md) — related
+- [The two teaching modes showed no significant difference in shaping physicians' sense of professionalism after the cardiac surgery internship](pbl-online-no-professionalism-difference.md) — related

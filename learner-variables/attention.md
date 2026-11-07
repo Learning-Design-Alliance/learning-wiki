@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 195 claims (131 show a difference, 40 mixed, 24 no difference) · 147 studies (52 causal, 36 associational, 24 review, 15 quant-synthesis, 9 qualitative, 7 design, 4 theoretical), `q1`–`q4` · 31 of 147 report an effect size · 189 claims rest on one study
+> **Evidence** · 197 claims (133 show a difference, 40 mixed, 24 no difference) · 148 studies (52 causal, 37 associational, 24 review, 15 quant-synthesis, 9 qualitative, 7 design, 4 theoretical), `q1`–`q4` · 31 of 148 report an effect size · 191 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -233,6 +233,8 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [In South African first-year undergraduates, higher ADHD symptom counts predict a smaller magnitude of change in academic adjustment over the semester, but ADHD symptoms do not significantly predict first-semester GPA or end-of-semester adjustment](../claims/adhd-symptoms-smaller-magnitude-academic-adjustment-south-african-first-years.md) [~M] — learners who differ on it differ in outcomes
 - [The combination of ADHD symptoms with depression and anxiety symptoms is a stronger predictor of smaller magnitude of academic adjustment than ADHD symptoms alone](../claims/adhd-comorbid-combination-stronger-predictor-adjustment-change.md) [+M] — learners who differ on it differ in outcomes
 - [The combination of ADHD symptoms with depression and anxiety symptoms predicts worse academic adjustment at the end of the semester, driven by depression and anxiety rather than ADHD symptoms](../claims/adhd-comorbid-combination-predicts-end-semester-adjustment.md) [-M] — learners who differ on it differ in outcomes
+- [Higher short video usage among elementary school students is associated with weaker attention](../claims/short-video-usage-negative-attention.md) [+W] — measured as an outcome of the instruction studied
+- [Parental short video usage duration shows a counterintuitive positive direct association with children's attention](../claims/parental-usage-positive-attention-anomaly.md) [+W] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

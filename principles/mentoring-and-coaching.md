@@ -31,7 +31,7 @@ sources:
 # Mentoring and Coaching
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 85 claims (45 for, 33 mixed, 7 against) · 66 studies (19 causal, 14 review, 12 associational, 10 qualitative, 5 quant-synthesis, 4 design, 2 theoretical), `q1`–`q4` · 7 of 66 report an effect size · 81 claims rest on one study
+> **Evidence** · 88 claims (48 for, 33 mixed, 7 against) · 67 studies (20 causal, 14 review, 12 associational, 10 qualitative, 5 quant-synthesis, 4 design, 2 theoretical), `q1`–`q4` · 7 of 67 report an effect size · 84 claims rest on one study
 
 ## Conditional relationship
 
@@ -162,6 +162,9 @@ Claims the earlier page cited that this model does not use, each with a note on 
 - [Preceptorship implementation was suboptimal: most sessions were short and fewer than two meetings per week](../claims/preceptorship-suboptimal-implementation-short-infrequent-sessions.md) [+W] — attached 2026-11-04 from Setyoningrum Retno Asih et al. (2026), which proposed "Preceptorship sessions should be frequent and long enough for intensive preceptor-trainee contact".
 - [Student midwives perceive regular communication, constructive feedback, student–preceptor relationships, role modelling and the learning environment as factors affecting their SFH competence](../claims/factors-influencing-sfh-competence-student-midwives.md) [+W] — attached 2026-11-05 from Factors influencing the competence of student midwives in symphysis-fundal height measurem, which proposed "Structure and standardise clinical teaching, mentorship and the clinical learning environment for SFH skills"; tests this page's relationship.
 - [Structured POCUS tutoring with scheduled supervision increases the proportion of residents completing at least 25 supervised examinations at 6 months (70% vs 0%)](../claims/structured-pocus-tutoring-25-examinations-primary-outcome.md) [+W] — attached 2026-11-06 from Leidi Antonio et al. (2024), which proposed "Pair hands-on point-of-care ultrasound courses with structured longitudinal supervision including scheduled bedside time slots"; tests this page's relationship.
+- [Just-in-time expert coaching on a manikin within one hour of clinical care increases first attempt success of infant intubation by inexperienced clinicians](../claims/just-in-time-coaching-improves-first-attempt-infant-intubation.md) [+W] — attached 2026-11-07 from Flynn Stephen G et al. (2024), which proposed "Provide brief expert coaching immediately before a high stakes procedure rather than relying only on intraoperative instruction"; tests this page's relationship.
+- [Just-in-time coaching significantly lowered trainee cognitive load on the mental demand, temporal demand, effort, and frustration NASA-TLX domains](../claims/jit-coaching-lowers-cognitive-load-nasa-tlx.md) [+W] — attached 2026-11-07 from Flynn Stephen G et al. (2024), which proposed "Provide brief expert coaching immediately before a high stakes procedure rather than relying only on intraoperative instruction"; tests this page's relationship.
+- [Just-in-time coaching accelerated competency: success-rate advantages emerged by intubation rounds two and three, then narrowed as controls improved](../claims/jit-coaching-competency-acceleration-rounds.md) [+W] — attached 2026-11-07 from Flynn Stephen G et al. (2024), which proposed "Provide brief expert coaching immediately before a high stakes procedure rather than relying only on intraoperative instruction"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

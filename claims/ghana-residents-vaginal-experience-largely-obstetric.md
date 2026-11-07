@@ -67,3 +67,5 @@ Survey-based self-report of vaginal surgery participation among all 34 enrolled 
 ## Related Claims
 - [Ob/Gyn residents in the Ghanaian program reported uniformly low confidence in performing vaginal hysterectomy and other vaginal surgeries](ghana-residents-low-confidence-vaginal-surgery.md) — related
 - [Most residents at a Ghanaian teaching hospital did not reach the region-specific FVS proficiency score of 266, including most experienced residents](fvs-proficiency-score-266-most-residents-below.md) — related
+- [71% of surveyed surgeons believe trainees should be competent in vaginal hysterectomy before completing general obstetrics and gynaecology training, an expectation the article reports is not consistently met](vh-competency-before-completion-expectation.md) — related
+- [79% of surveyed surgeons believe 10–30 vaginal hysterectomy cases are required to achieve and to maintain proficiency](vh-perceived-10-30-cases-proficiency.md) — related
