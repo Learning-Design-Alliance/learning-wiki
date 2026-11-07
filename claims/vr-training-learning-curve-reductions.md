@@ -89,3 +89,4 @@ The review reports a Groote Schuur Hospital study in which VR-trained trainees "
 - [Haptic virtual reality simulation reduces procedural time for pulpotomy training compared with conventional simulators](ir-reduces-procedural-time-dental.md) — related
 - [VR simulation training improves orthopaedic trainees' technical proficiency and shortens operative times](vr-simulation-improves-ortho-technical-proficiency.md) — related
 - [VR training improves surgical performance and reduces the learning curve for complex procedures](vr-training-improves-surgical-performance.md) — a broader claim this one bears on
+- [Human cadaver models allow trainees to complete all steps of three-portal VATS lobectomy with high rated simulation quality](cadaver-model-vats-lobectomy-training-feasible.md) — related

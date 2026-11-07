@@ -56,3 +56,5 @@ Post-workshop satisfaction survey of the 53 participants (Table 4). The article 
 - [Participants in the e-learning group were more likely to recommend the learning method to a colleague than video-group participants](elearning-higher-recommendation-likelihood.md) — related
 - [Students reported high satisfaction with SATMAS and would recommend it to peers](satmas-satisfaction-recommendation.md) — related
 - [Participant satisfaction with the tournament was overwhelmingly high in both editions](pharmacotrophy-high-satisfaction.md) — related
+- [Participants report high satisfaction with the e-learning program, with most willing to recommend it to colleagues](elearning-abuse-program-high-satisfaction.md) — related
+- [Most pre-clerkship students report satisfaction with simulation-based venipuncture training and recommend extending it](student-satisfaction-sbpt-venipuncture.md) — a narrower finding that bears on this claim

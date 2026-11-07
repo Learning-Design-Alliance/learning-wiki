@@ -49,3 +49,4 @@ ANCOVA on post-test scores with pre-test as covariate for both groups (Table 2).
 - [ANCOVA confirms the multimedia group's speaking-skill advantage after adjusting for pre-test differences.](ancova-confirms-multimedia-speaking-advantage.md) — related
 - [The context-based instructional design produced higher post-test cognitive achievement than the existing curriculum when prior readiness was controlled](context-based-ecosystem-design-higher-achievement.md) — related
 - [Paired sample t-test confirms significantly higher post-test scores for the experimental group](pbl-paired-t-test-significant.md) — related
+- [Knowledge advantage of e-learning at 4 weeks is not significant after multiple-testing adjustment, and no difference remains at 12 weeks](elearning-knowledge-advantage-not-retained.md) — related

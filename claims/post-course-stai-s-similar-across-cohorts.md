@@ -46,3 +46,4 @@ Independent-samples t-test on post-course STAI-S in 186 students. The article re
 
 ## Related Claims
 - [Repeated simulated patient encounters produced no significant change in state anxiety or LSAS over time among students with repeated responses](no-anxiety-reduction-repeated-simulation-exposure.md) — related
+- [No significant difference in pre-course anxiety levels between e-learning and written material groups](no-anxiety-difference-elearning-preparation.md) — related

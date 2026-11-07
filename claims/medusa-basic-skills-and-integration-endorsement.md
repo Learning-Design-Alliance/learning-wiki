@@ -53,3 +53,4 @@ Descriptive questionnaire results from the external validation with 40 neurosurg
 - [The mixed-reality aneurysm clipping simulator achieved robust face and content validity, with mean questionnaire scores between 3.13 and 4.25 among 40 neurosurgeons](medusa-simulator-face-content-validity.md) — a broader claim this one bears on
 - [Most fellows rate VRFF-SSTS helpful and support its integration into residency programs, but rate its haptic feedback inferior to the sawbone model](fellows-rate-vrff-ssts-helpful-haptics-inferior.md) — related
 - [The VR TTTS simulator received strong positive validation across five domains, with training effectiveness the highest-endorsed at 87%](vr-ttts-simulator-strong-positive-validation.md) — related
+- [Residents overwhelmingly endorse simulation training sessions as part of the residency curriculum after the course](residents-endorse-simulation-curriculum.md) — related

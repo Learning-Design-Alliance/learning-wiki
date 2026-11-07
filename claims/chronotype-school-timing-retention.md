@@ -72,3 +72,4 @@ Odds ratios from the retention model for two students with math grades of 5.15 d
 - [First-year grades predict grade retention: 1-point-lower math or language grades are associated with higher odds of repeating a year](grades-predict-grade-retention.md) — related
 - [Evening chronotype residents were more likely to achieve higher standardized training grades, with morning types less likely](evening-chronotype-higher-residency-grades.md) — related
 - [Adolescents with an evening chronotype report significantly lower GPA than those with a morning chronotype](evening-chronotype-lower-gpa-than-morning.md) — related
+- [Course grades are marginally higher for afternoon-only courses than morning-only courses, a difference the authors consider probably not meaningful](afternoon-course-grades-marginally-higher.md) — related

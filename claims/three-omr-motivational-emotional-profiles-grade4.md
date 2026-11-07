@@ -75,3 +75,4 @@ Profile characterization from the same LPA: the Positive Group (G1, N = 96, 34.2
 - [Latent profile analysis of 12-year-old twins identifies five distinct profiles of math achievement, numerosity, and math anxiety](five-latent-profiles-math-achievement-numerosity-anxiety.md) — related
 - [Higher negative math emotions are associated with lower odds of membership in the positively oriented profiles](negative-math-emotions-associated-with-profile-membership.md) — related
 - [Primary school mathematics students fall into three latent profiles of control, value and achievement emotions: Positive, Mixed and Negative](three-emotion-profiles-primary-maths.md) — related
+- [Greek secondary students' motivational beliefs and metacognitive self-regulation form three synergistic profiles, with no incompatible motivation–metacognition profiles emerging](three-synergistic-motivation-metacognition-profiles.md) — related

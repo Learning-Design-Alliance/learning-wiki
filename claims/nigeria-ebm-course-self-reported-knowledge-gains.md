@@ -59,3 +59,4 @@ Pre-post evaluation of a 3-month single-intervention EBM course for 5th-year med
 - [Medical undergraduates who participated in research training report higher research skills than untrained peers](research-training-higher-research-skills.md) — related
 - [Baseline self-confidence moderates knowledge gains, with somewhat confident and neutral nurses improving most and very confident nurses least](baseline-confidence-moderates-sdl-ecg-gains.md) — related
 - [Post-training attitudes improved overall, but only the attitude towards telerehabilitation changed significantly](stp-attitude-change-telerehabilitation-only.md) — related
+- [Among participating residents, self-rated confidence scores rose from pre-test to post-test after team-based simulation training in one group with no comparison group; the change was statistically significant](confidence-gain-significant.md) — related

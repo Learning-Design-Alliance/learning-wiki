@@ -90,3 +90,4 @@ Multivariate linear regression of the Polish cohort; on the attitudes subscale, 
 - [Male students, students from minority ethnic groups, and Muslim students demonstrated higher AMS competencies in the southern Nigerian dental cohort](demographic-subgroups-higher-ams-competencies.md) — related
 - [In the Spanish cohort, no analyzed variable significantly predicted knowledge scores](here-spain-knowledge-no-predictors.md) — related
 - [In the Polish cohort, age was positively associated with clinical preparedness and physicians scored higher than nurses/midwives](here-poland-age-profession-predictors.md) — related
+- [Female students report significantly higher expectation and interest scores than male students before training, and higher expectation after training](gender-differences-obstetric-expectation-interest.md) — related

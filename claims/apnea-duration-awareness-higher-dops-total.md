@@ -48,3 +48,4 @@ Quasi-experimental trial at Shanghai General Hospital; 30 trainees randomly allo
 - [Apnea duration awareness improves specific DOPS domains: pre-anesthesia preparation, pre-oxygenation technique and difficult airway management](apnea-duration-dops-domain-gains.md) — a narrower finding that bears on this claim
 - [Trainees given apnea duration information show markedly higher help-seeking scores, but crisis management and team cooperation DOPS domains do not differ between groups](apnea-duration-help-seeking-gain-other-domains-null.md) — related
 - [Apnea duration-aware training yields higher overall trainee satisfaction than conventional training](apnea-duration-higher-satisfaction.md) — related
+- [Vortex-trained students showed reduced prolonged apnea episodes compared with controls (47.9% vs 81.3%, P=0.0009)](vortex-reduced-prolonged-apnea.md) — related

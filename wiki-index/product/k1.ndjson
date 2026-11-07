@@ -1,0 +1,3 @@
+{"description":"K12-Bench is a 23,640-item multi-select benchmark dataset created by Hao Liang et al.","id":"k12-bench","path":"products/k12-bench.md","status":"review","title":"K12-Bench","type":"product"}
+{"description":"A heterogeneous, curriculum-aligned knowledge graph extracted and expert-verified from official Chinese People's Education Press K–12 mathematics, physics, chemistry, and biology textbooks, created by Hao Liang et al.","id":"k12-kgraph","path":"products/k12-kgraph.md","status":"review","title":"K12-KGraph","type":"product"}
+{"description":"K12-Train is a knowledge-graph-guided dataset and generation pipeline by Hao Liang et al.","id":"k12-train","path":"products/k12-train.md","status":"review","title":"K12-Train","type":"product"}

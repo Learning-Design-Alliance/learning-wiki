@@ -50,3 +50,4 @@ Group comparison in the randomized trial of 1044 Styrian paramedics after the tw
 - [Live webinars foster greater intrinsic motivation than recorded lectures, an effect fully mediated by perceived choice](webinar-intrinsic-motivation-mediated-by-perceived-choice.md) — related
 - [Webinar training induces more perceived pressure/tension than learning-platform training, while perceived competence is equal](webinar-more-pressure-equal-competence.md) — related
 - [Webinar participants perceive greater freedom of choice than learning-platform participants](webinar-greater-perceived-choice.md) — related
+- [Asynchronous and synchronous e-learning produce no difference in total clinical record writing quality among speech therapy students](async-sync-no-difference-cr-total-score.md) — related

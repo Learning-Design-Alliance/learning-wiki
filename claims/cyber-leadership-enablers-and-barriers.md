@@ -72,3 +72,4 @@ Authors' thematic summary of the interview data linking the three conditions to 
 - [Four implementation themes emerged from UK process evaluations: intervention format, policy consistency, staff buy-in, and perceived effectiveness](four-implementation-themes-exclusion-interventions.md) — related
 - [Eight enabling factors support relationship-centered school transformation in comprehensive high school settings](enabling-factors-relationship-centered-transformation.md) — related
 - [Cyber leaders believed peers found them more credible than adults, and other students proactively sought them out to discuss cyber issues](peer-credibility-of-student-cyber-leaders.md) — related
+- [Leadership is reported as a crucial factor in both barriers to and enablers of ED simulation programmes](leadership-crucial-ed-sbt.md) — related

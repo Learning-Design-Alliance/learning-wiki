@@ -49,6 +49,7 @@ The article describes how facilitators established shared ground rules during pr
 - [Create a Classroom Code of Conduct](create_a_classroom_code_of_conduct.md)
 - [Establish Ground Rules for Peer Critique](establish_ground_rules_for_peer_critique.md)
 - [Briefing practices facilitators use to establish a safe simulation learning environment](simulation-briefing-safety-practices.md)
+- [Establish team ground rules—such as listening to others' opinions and controlling tone—to encourage discussion and team functioning](team-ground-rules-discussion-strategy.md)
 
 ## Examples
 -

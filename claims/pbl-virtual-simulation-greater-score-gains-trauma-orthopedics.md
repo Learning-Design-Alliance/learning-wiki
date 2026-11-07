@@ -76,3 +76,5 @@ Within-group before-to-after score gains in the same assessor-blinded RCT of 50 
 - [Within the experimental group, theory examination scores improved significantly from before to after REPs-VS learning](reps-vs-within-group-theory-gain.md) — related
 - [Debridement operation time was significantly shorter for students taught with the virtual simulation platform than with a MOOC](virtual-simulation-shorter-debridement-operation-time.md) — related
 - [Mobile-based learning produces greater post-test knowledge gains than conventional education in nursing students learning operating theatre procedures](mbl-greater-knowledge-gains-than-conventional-ot-procedures.md) — possibly the same claim (merge candidate)
+- [Most experimental-group students liked the blended design and found it fun, but minorities reported virtual simulation training and the PAL app were not helpful](positive-student-attitudes-smart-classroom-design.md) — related
+- [New nurses trained with role reversal and SPS report higher training satisfaction than routinely trained nurses](role-reversal-sps-higher-training-satisfaction.md) — related

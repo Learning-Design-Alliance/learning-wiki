@@ -49,3 +49,4 @@ Perception items of the cross-sectional survey of 90 trainees, reported as frequ
 - [Simulation-based learning was available to 42.2% of Pakistani prosthodontics postgraduate trainees, with availability varying across provinces](prosthodontics-sbl-availability-42-percent-pakistan.md) — related
 - [Only 24% of prosthodontics postgraduate trainees received regular training on simulators despite reported SBL availability](quarter-trainees-regular-simulator-training-pakistan.md) — related
 - [Students favoured practical, hands-on experience over lecture-based tutorials and saw simulation, including VR, as a safe way to practise without consequences for real patients.](practical-experience-preferred-over-lectures.md) — related
+- [Dental students report positive perceptions of Mirrosistant training, especially improved direction and distance perception](student-positive-perceptions-mirrosistant.md) — related

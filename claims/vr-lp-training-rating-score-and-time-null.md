@@ -55,3 +55,4 @@ First LP assessment in the randomized trial (88 students, blinded dual scoring).
 - [Complication rates were low and comparable between simulation-trained and conventionally trained students](lp-complications-comparable-simulation.md) — related
 - [Simulator-trained students felt significantly more comfortable and confident about their subsequent lumbar punctures](simulator-training-confidence-next-lp.md) — related
 - [Nonimmersive VR simulation training produced no significant difference in theoretical test scores compared with conventional training](nivr-isolation-training-no-theoretical-score-difference.md) — related
+- [62.5% of participants had no prior lumbar puncture experience and only 2 of 40 had prior simulator-based LP training.](participant-baseline-lp-experience-low.md) — related

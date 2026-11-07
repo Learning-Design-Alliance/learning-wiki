@@ -67,3 +67,5 @@ Not used for this subclaim; see the separate duration and knowledge claims for t
 - [Fewer non-critical Errors and no procedure-duration difference: PBP advantage did not extend to every measure](pbp-noncritical-errors-and-duration-not-significant.md) — related
 - [Proficiency-based progression simulation training produces superior objectively assessed surgical performance in novice CIED implanters than traditional simulation training](pbp-superior-surgical-performance-novel-cied-implanters.md) — a broader claim this one bears on
 - [Requiring the proficiency benchmark in the eLearning module raised surgical knowledge scores: the PBP group scored 23% higher on surgical-task questions](pbp-elearning-benchmark-higher-knowledge-scores.md) — related
+- [The PBP group made the fewest critical errors post-intervention, significantly fewer than both comparison groups](pbp-elearning-fewer-critical-errors.md) — related
+- [Post-intervention, PBP e-learning produced the highest simulation proficiency (81.1%) among the three training groups, significantly above both comparison groups](pbp-elearning-highest-post-simulation-proficiency.md) — related

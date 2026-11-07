@@ -48,3 +48,5 @@ Finding from the same study of 198 German mathematics teachers, concerning the i
 ## Related Claims
 - [Gymnasium-qualified mathematics teachers outscore teachers from other school types on both PCK and CK](gymnasium-teachers-outscore-both-knowledge-categories.md) — related
 - [PCK and CK of secondary mathematics teachers can be distinguished empirically](pck-ck-empirically-distinguishable.md) — related
+- [Integrating pedagogical/psychological knowledge with PCK in instruction showed positive effects on teacher training outcomes](integrated-ppk-pck-instruction-positive-effects.md) — related
+- [Secondary mathematics teachers with thorough mathematics training outperformed teachers from other schools in both PCK and CK](math-trained-teachers-outperformed-in-pck-and-ck.md) — related

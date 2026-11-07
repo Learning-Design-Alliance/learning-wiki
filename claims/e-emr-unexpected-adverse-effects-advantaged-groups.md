@@ -66,3 +66,4 @@ Authors' interpretation, not a tested result: they suggest the unexpected effect
 ## Related Claims
 - [E-EMR effects were moderated by baseline scores, with significant benefits for students who started with worse scores on STR, conduct problems, and total problems](e-emr-baseline-moderation-low-scorers-benefit.md) — a broader claim this one bears on
 - [E-EMR showed no significant main effects on ninth graders' student–teacher relationships, belonging, motivation, engagement, or behavior over four months](e-emr-no-significant-main-effects-high-school.md) — related
+- [Subgroup analysis finds no interaction between intervention and subgroup, though benefit appears uneven across sex and handedness](sa-training-subgroup-no-interaction.md) — related

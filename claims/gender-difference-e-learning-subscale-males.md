@@ -56,3 +56,4 @@ Two-way MANOVA with group and gender variables on the 42-participant quasi-exper
 - [Male students show higher PSMU scores than female students in three of five studies examining gender](males-higher-psmu-scores-mena-students.md) — related
 - [Three-way interaction of group, gender and pre-achievement favored high-achievement males in the experimental group](three-way-interaction-group-gender-level.md) — related
 - [Group × gender interaction favored females in the experimental group](group-gender-interaction-favor-female-experimental.md) — related
+- [Female students report significantly higher expectation and interest scores than male students before training, and higher expectation after training](gender-differences-obstetric-expectation-interest.md) — related

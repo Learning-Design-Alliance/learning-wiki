@@ -48,3 +48,4 @@ Dichotomised unadjusted mixed model analysis of geometric mean DNT by simulation
 - [Patients treated by inexperienced registrars had longer door-to-needle times than patients treated by experienced registrars](inexperienced-registrars-longer-dnt.md) — related
 - [Clinical experience does not significantly moderate the benefit of team simulation training on door-to-needle time](no-experience-simulation-interaction-on-dnt.md) — related
 - [Simulation attendance is associated with a significant reduction in door-to-needle time across experience levels](simulation-attendance-reduces-dnt-21-8-percent.md) — a broader claim this one bears on
+- [Improvements after MR simulator training were seen in both experienced and non-experienced participants.](mr-training-improved-experienced-and-novice.md) — possibly the same claim (merge candidate)

@@ -50,3 +50,4 @@ Content validity was assessed by ten expert surgeons using eight items covering 
 - [The ICO-OCEX achieved strong content validity through a modified Delphi technique with expert consensus on all 33 items](ico-ocex-content-validity-delphi-consensus.md) — related
 - [Experts rated the DNH model strongly on training efficacy (skills, confidence, risk reduction) but only moderately on operability](dnh-model-content-validity-ratings.md) — related
 - [First-year residents strongly agreed the silicone appendectomy model is adequate, replicates anatomy, and shows face and content validity](silicone-appendectomy-model-face-content-validity.md) — related
+- [Five experts rated the 3D-printed LIIA model highly on face and content validity, though texture was rated as needing improvement](liia-3d-model-face-content-validity.md) — related

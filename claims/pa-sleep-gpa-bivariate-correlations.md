@@ -60,3 +60,4 @@ Pearson correlation analysis among GPA, PSQI global score, ordinal IPAQ score, a
 - [Physical activity level is negatively correlated with absenteeism and with academic warnings](physical-activity-negative-correlation-absenteeism-warnings.md) — related
 - [Higher BMI and extensive physical activity (2 h or more per day) are independently negatively associated with academic achievement](bmi-and-extensive-physical-activity-negative-factors-gpa.md) — reports the opposite
 - [GPA is strongly positively correlated with knowledge gain across all three teaching methods (r = 0.708)](gpa-strong-positive-correlation-knowledge-gain.md) — related
+- [Waterpipe smoking, physical activity, and BMI relate to academic achievement in bivariate analysis but do not remain significant in the multivariable model](bivariate-only-health-factors-saas.md) — related

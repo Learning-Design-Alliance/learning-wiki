@@ -52,3 +52,4 @@ A quasi-experimental study of 64 fourth-year nursing students at two Southeast N
 - [At post-test, the FCM group rated high on desire for learning and overall SDLR, while the CTM group remained fairly high](posttest-fcm-desire-learning-high.md) — related
 - [First-year nursing students taught with a flipped classroom scored significantly higher on knowledge post-test and persistence tests than students taught by traditional lecture](fcm-higher-knowledge-posttest-persistence-nursing.md) — related
 - [The flipped classroom alone showed no significant advantage over traditional teaching on class performance, practical assessment, or theoretical examination in this course](fcm-alone-no-advantage-over-traditional.md) — related
+- [More than 90% of students reported being more motivated to learn and meet learning targets in the flipped classroom](fcm-motivation-learning-targets.md) — related

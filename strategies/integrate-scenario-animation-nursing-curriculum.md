@@ -47,6 +47,7 @@ The authors recommend that "Scenario-based animation videos should be integrated
 ## Related Strategies
 
 - [Use scenario-based learning in teacher-education professional knowledge courses, with curricular activities fostering positive attitudes](scenario-based-learning-in-teacher-education-strategy.md)
+- [Produce PBL scenario animations inexpensively with off-the-shelf web-based animation apps](off-the-shelf-animation-scenario-production-strategy.md)
 
 ## Examples
 -

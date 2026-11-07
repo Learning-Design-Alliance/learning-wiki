@@ -5,6 +5,36 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-11-07 · the candidate ledger is sharded, and wiki-index.json's page records are written sharded too
+
+Asked for by the maintainer ("do what you recommend for the file splitting"). A push of batch
+j-scrpmc-31 drew GitHub's large-file warning. Measured across the last batches, three committed
+files grew about 0.5-1 MB a batch: `eval/candidates/candidates.ndjson` (50.2 MB),
+`wiki-index.json` (48.1 MB) and `eval/candidates/decisions.ndjson` (40.8 MB). GitHub refuses a file
+over 100 MB, which the first two would reach in about 50 batches, partway through the arXiv tranche.
+
+**The candidate ledger** is internal, so it was split outright, by the rule the evidence cells
+already use (2026-10-24): the first two characters of the candidate's slug
+(`candidates_lib.shard_key`), as `eval/candidates/candidates/<xx>.ndjson` and
+`eval/candidates/decisions/<xx>.ndjson`. Every line for one candidate lands in one shard in the
+order written, so the loaders' "first line wins" and "latest line wins" mean what they did; only
+the order of different candidates relative to each other changes, and nothing settles by it.
+Verified on the live ledger before the single files were removed (21,743 candidate lines and
+85,385 decision lines, 586 shards each, the largest 3.8 MB): both loaders return identical
+dicts and every shard holds its lines in their original order;
+`settle_candidates.py --report` prints the same lines, re-ordered. `merge_main.py` and
+`.gitattributes` treat the shards as append-only, as they did the single decisions file (the
+candidates file had been missing from both).
+
+**wiki-index.json** is read from two other repos (Learning-engineering-research's `wiki_agent.py`
+reads `pages`; learning-design-spec's `check-wiki-links.py` checks page URLs), and CLAUDE.md allows
+it only additive changes. So its 82,538 page records (41 MB of the 48) are now also written to
+`wiki-index/<kind>/<xx>.ndjson`, one record per line, 2,639 files, the largest 1.2 MB, and its
+`note` tells readers to read them there. `pages` stays in `wiki-index.json` until both readers
+have moved; then it leaves, and the file keeps `resolve` (7.8 MB), `moved`, `kinds` and `counts`.
+That is a change in the other two repos and was not made here. `build_wiki_index.py --check`
+fails on a stale or stray shard.
+
 ## 2026-11-04 · causal titles on single-group pre-post claims are reworded in every batch
 
 Asked for by the maintainer ("add the batch check for causal titles and fix existing claims").

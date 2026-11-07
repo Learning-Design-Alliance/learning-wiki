@@ -57,3 +57,4 @@ Prospective observational analysis of 180 procedures by 3 novice residents; pool
 - [Needle insertion time plateaued at 27.54 s, with 90% of the plateau reached after 21 procedures and early procedure groups significantly slower than the reference group](needle-insertion-time-plateau-27-5s-21-procedures.md) — related
 - [Novices needed an average of 28.92 ± 4.68 simulated RFA procedures to reach technical competency, after which success improved from 88.2% to 96.7%](rfa-traps-simulator-29-procedures-competency.md) — related
 - [Learning curve-based training required shorter training duration and significantly fewer simulator procedures than fixed 1-hour training](individualized-training-shorter-duration-fewer-procedures.md) — related
+- [CUSUM analysis of time-to-completion shows the video group reached a learning-curve plateau within two cycles versus four cycles for the control group](educational-video-shortens-cusum-learning-curve.md) — related

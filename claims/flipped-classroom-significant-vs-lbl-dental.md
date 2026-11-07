@@ -65,3 +65,4 @@ Subgroup analysis by teaching method (Figure 3B) across the 29 included RCTs; FC
 - [Live demonstrations yield higher postdemonstration knowledge than prerecorded video demonstrations in first-year dental students learning a class II amalgam restoration](live-demo-beats-video-demo-postknowledge-dental.md) — related
 - [Students taught with SPOC+EIL score higher on the dental adhesion operation test than LBL students](spoc-eil-operation-test-higher.md) — a narrower finding that bears on this claim
 - [All three teaching methods (live, flipped video, interactive flipped) produced statistically significant pre-to-post knowledge gains in a single dental lecture](three-methods-significant-pre-post-gains-dental-lecture.md) — related
+- [FC+CBL students scored lower on the final exam than traditional-method students in Introduction to Environmental Health Science](fc-cbl-lower-final-exam-score-mph.md) — a narrower finding that bears on this claim

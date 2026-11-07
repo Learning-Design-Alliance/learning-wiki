@@ -48,3 +48,4 @@ Pre-test T-test on the 48-student sample: experimental mean 8.05 (SD 0.152) vers
 - [Before the intervention, the iPad and control groups showed no significant differences in mental skills](ipad-pretest-mental-skills-equivalence.md) — related
 - [Eighth-grade social studies students taught with the iPad scored significantly higher on performance skills at post-test than traditionally taught controls](ipad-posttest-performance-skills-advantage.md) — related
 - [Eighth-grade social studies students taught with the iPad scored significantly higher on mental skills at post-test than traditionally taught controls](ipad-posttest-mental-skills-advantage.md) — related
+- [No statistically significant difference in practical pathology and practical semiology scores between e-learning and in-person education](no-significant-difference-practical-courses-e-learning.md) — related

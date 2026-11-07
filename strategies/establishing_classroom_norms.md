@@ -67,6 +67,7 @@ Norms function as procedural scaffolding: they reduce the cognitive and social u
 - [Co-design AI policies with students through open dialogue rather than enforcement and surveillance](codesign-ai-policies-open-dialogue.md)
 - [Establish group norms and procedural roles, delegate authority, and monitor group dynamics to foster student accountability.](group-roles-norms-accountability.md)
 - [Co-construct definitions of active learning with students and train staff in practices that reduce anxiety and disengagement](co-construct-active-learning-with-students.md)
+- [Establish team ground rules—such as listening to others' opinions and controlling tone—to encourage discussion and team functioning](team-ground-rules-discussion-strategy.md)
 
 ## Examples
 - **Intensive Summer institutes (e.g., HILT/Harvard Bok Center teaching consultations)** recommend posting 3–5 discussion norms and rehearsing them with a first-day pair-share before the first graded discussion.

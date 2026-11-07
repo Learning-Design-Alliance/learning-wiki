@@ -49,3 +49,5 @@ Post-rotation 10-question survey completed by the 33 experimental-group trainees
 - [Residents taught with BOPPPS/FC-CBL self-rated teaching satisfaction and self-directed learning higher than lecture-taught residents, with large reported effect sizes but an inconsistently described rating scale](boppps-fc-cbl-large-effect-satisfaction-self-directed-learning.md) — related
 - [Over 96% of flipped classroom residents express satisfaction, but 32.1% report increased time demands and 28.6% report greater self-presentation pressure](fc-satisfaction-and-implementation-challenges.md) — related
 - [Facilitators perceive CBL as a powerful educational tool, believing active learning promotes retention of knowledge](facilitators-perceive-cbl-powerful-educational-tool.md) — related
+- [More than 80% of flipped classroom students were satisfied and none disagreed about using the model](fcm-high-satisfaction-medical-students.md) — related
+- [All FC+CBL students perceived blended learning as beneficial for the course](mph-unanimous-blended-learning-beneficial.md) — related

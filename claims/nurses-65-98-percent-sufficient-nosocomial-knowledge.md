@@ -51,3 +51,4 @@ Cross-sectional diagnostic survey of 635 nurses in Kielce hospitals using a 20-i
 - [Shorter time since the last training is associated with higher general knowledge of nosocomial infections and higher self-assessed knowledge](recent-training-linked-to-higher-nosocomial-knowledge.md) — related
 - [Ward type did not differentiate general knowledge (p=0.993), but medical-ward nurses scored higher on basic concepts (p=0.031)](ward-type-null-general-knowledge-medical-ward-area-advantage.md) — related
 - [Nurses seeking specialist courses most often want further training in post-exposure management and monitoring of nosocomial infections](training-demand-postexposure-and-monitoring.md) — related
+- [Most nurses surveyed in Hohoe Municipality, Ghana (69.2%) were not knowledgeable about nosocomial infection preventive measures](ghana-nurses-nci-knowledge-low-69-percent.md) — reports the opposite

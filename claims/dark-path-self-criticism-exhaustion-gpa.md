@@ -105,3 +105,4 @@ Indirect effects tested with 5000 bootstrap samples and 95% corrected confidence
 - [In the bright path, engagement does not mediate the relationship between self-compassion and academic achievement, though higher initial self-compassion is associated with higher initial engagement](bright-path-no-mediation-engagement.md) — related
 - [Nationality and gender covariates predict engagement, self-criticism and exhaustion trajectories among medical Bachelor students](nationality-gender-covariate-trajectories.md) — related
 - [Exhaustion declines moderately over the Bachelor's programme, contrasting with prior research reporting rising burnout as medical students advance](exhaustion-moderate-decline-contrasts-prior-research.md) — related
+- [Engagement, but not exhaustion, shows a positive direct relationship with veterinary students' GPA](engagement-positive-gpa-exhaustion-null-veterinary.md) — related

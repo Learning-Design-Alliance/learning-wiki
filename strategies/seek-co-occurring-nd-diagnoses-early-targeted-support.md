@@ -47,6 +47,7 @@ The article recommends that schools and clinicians look beyond a presenting cond
 
 - [Implement proactive inclusive support: early identification, flexible assessment design, structured mentoring, and increased staff awareness](proactive-inclusive-support-spld-medical-education.md)
 - [Systematic screening for gaming disorder among students with ADHD and vice versa, with gender-sensitive interventions](systematic-gd-adhd-mutual-screening-strategy.md)
+- [Provide early rehabilitative activities and special training modules adapted to the child from early school life for children with bilateral cataract](early-rehabilitation-training-modules-bilateral-cataract.md)
 
 ## Examples
 -

@@ -56,3 +56,4 @@ Wilcoxon signed-rank within-group tests in the pilot RCT of 35 interns. VR SA ro
 - [The mannequin simulator received significantly higher total feedback scores than the VR simulator, and higher scores in all six domains except knowledge](mannequin-higher-feedback-scores-than-vr.md) — related
 - [Medical students trained with the VR NVD simulator achieved significantly higher post-simulation knowledge scores than those trained with the mannequin simulator](vr-simulator-higher-post-simulation-knowledge-scores.md) — related
 - [A fully immersive VR trauma simulation is feasible to deploy as an adjunct preparation for the ATLS course, with all completing participants achieving correct patient stabilisation.](vr-trauma-simulation-feasible-atls-adjunct.md) — related
+- [Error reduction after SA training is specific: clip misplacement improved while liver-bed preparation errors did not](sa-error-reduction-structure-specific.md) — related

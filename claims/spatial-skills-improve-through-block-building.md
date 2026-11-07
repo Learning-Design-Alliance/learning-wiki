@@ -69,3 +69,4 @@ Boundary conditions and open questions remain. It is not established whether gai
 - [Tetris cognitive gains mostly appear on tests resembling the game itself, with training studies finding no gains on general cognitive tasks](tetris-gains-test-resemblance-only.md) — related
 - [No evidence that experience with metal building outfits or Tinker Toy blocks improves constructive ability test performance](no-transfer-metal-and-tinker-toy-experience.md) — reports the opposite
 - [Building products change qualitatively with age: young children build static, skeleton structures supplemented by imagination, while adolescents build structures that work](static-to-functional-structures-with-age.md) — related
+- [The authors recommend planning to strengthen visual memory and spatial intelligence and considering them in admission for medicine and dentistry](strengthen-visual-memory-spatial-intelligence-recommendation.md) — related

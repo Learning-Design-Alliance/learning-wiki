@@ -53,3 +53,4 @@ ANOVA/t-test comparisons across demographic groups (Table 3) in the 1,377-teache
 - [Age group and staff position are the only demographic factors associated with significant growth in perceived competency, with registered nurses and nurses aged 30–34 showing the greatest gains](age-and-staff-position-moderate-competency-growth.md) — related
 - [Teacher pedagogical competence mediates the relationship between teacher resilience and professional well-being](pedagogical-competence-mediation-resilience-wellbeing.md) — related
 - [Resilience, professional well-being and pedagogical competence are significantly positively intercorrelated among early childhood teachers](resilience-wellbeing-competence-correlations.md) — related
+- [Instructor e-readiness differed significantly by gender, age, teaching method, university type, and prior experience](instructor-ereadiness-significant-group-differences.md) — related

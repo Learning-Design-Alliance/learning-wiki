@@ -58,3 +58,4 @@ Reliability analysis of the human expert ratings: the article reports Fleiss' κ
 - [Inter-rater agreement among pre-service teachers is low regardless of grading approach or essay quality](low-inter-rater-agreement-preservice-grading.md) — possibly the same claim (merge candidate)
 - [Intra-student agreement between baseline and post-training responses is low, suggesting answers reflect learning rather than consistency](intra-student-agreement-low-t0-t1.md) — related
 - [Overall inter-examiner agreement on grades and pass-fail classifications is slight, with Fleiss kappa of 0.07 and 0.14](fleiss-kappa-slight-agreement-examiners.md) — related
+- [Portfolio presentation and content categories show the lowest inter-evaluator agreement regardless of assessment method](portfolio-content-presentation-lowest-agreement.md) — related

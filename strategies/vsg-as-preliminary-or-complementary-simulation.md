@@ -72,6 +72,7 @@ The authors recommend integrating well-designed VSGs into nursing education as p
 - [Use serious games with unlimited-time access for teaching assessment of distressing clinical content](serious-game-strategy-distressing-clinical-content.md)
 - [Deliver emergency simulation training at scale using 360-degree VR blended with in-person clinical placements](vr-simulation-scalable-blended-emergency-training.md)
 - [Use narrated case-based mobile virtual patient applications as a supplement to traditional instruction to improve clinical reasoning skills](narrated-case-based-mobile-vp-supplement-strategy.md)
+- [Use repeatable virtual standardized patient practice with real-time feedback as a low-cost supplement to bedside and standardized patient teaching](vsp-repeatable-practice-strategy.md)
 
 ## Examples
 -

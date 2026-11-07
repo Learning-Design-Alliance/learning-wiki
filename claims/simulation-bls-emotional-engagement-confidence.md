@@ -61,3 +61,5 @@ Qualitative thematic finding from five focus group discussions with 40 nursing s
 - [Simulation increased male nursing students' self-confidence for clinical practice](simulation-increased-male-students-self-confidence.md) — related
 - [Rwandan medical students perceive simulation as critical for acquiring procedural skills in a relaxed, no-stakes environment and for practicing rare procedures](simulation-procedural-skills-relaxed-no-stakes.md) — a narrower finding that bears on this claim
 - [Microteaching gives ACP facilitator trainees a feeling of self-efficacy through successful repetition, according to the authors' course experience](microteaching-self-efficacy-successful-repetition.md) — a narrower finding that bears on this claim
+- [Simulated high-stakes scenarios with moulage shifted students into observational roles, revealing affective-domain barriers](moulage-scenarios-affective-domain-observational-roles.md) — related
+- [Students perceived outside-OR robotic simulation as a safe place to learn and make mistakes, contrasting with high-stakes robotic OR settings](simulation-safe-place-versus-high-stakes-or.md) — related

@@ -51,3 +51,4 @@ Descriptive analysis of an 11-item 4-point Likert learning experience survey (Cr
 - [Both high and low baseline-ability groups improved significantly, with larger raw gains in the low group but no statistically significant between-group difference](low-group-gained-more-than-high-group-dti.md) — related
 - [Flexibility in thinking scores rose significantly from pre-test to post-test, while structure in memory subscale scores did not change significantly, in one group with no comparison group](ft-improved-sm-did-not-illness-script-flipped.md) — related
 - [Professors rated the flipped clinical reasoning course positively, with a mean of 3.43 out of 4](professors-positive-response-flipped-clinical-reasoning.md) — related
+- [Students rated the flipped classroom positively, emphasizing clinical-case activities and teacher involvement, with video-viewing time the main weakness](fc-neurosurgery-student-satisfaction.md) — related

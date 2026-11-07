@@ -46,6 +46,7 @@ The article recommends that simulation precede real clinical practice: the major
 ## Related Strategies
 
 - [Use repeated practice sessions with structured feedback to develop preclinical rest seat preparation skills](repeated-practice-sessions-rest-seat-skills.md)
+- [Deliver a three-day simulation workshop on normal vaginal birth before formal clinical education](pre-clinical-vaginal-birth-simulation-workshop-strategy.md)
 
 ## Examples
 -

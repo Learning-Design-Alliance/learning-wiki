@@ -13,7 +13,7 @@ generated:
 # Identity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 125 claims (98 show a difference, 20 mixed, 7 no difference) · 82 studies (22 qualitative, 20 associational, 18 review, 12 causal, 6 theoretical, 3 quant-synthesis, 1 design), `q1`–`q4` · 5 of 82 report an effect size · 124 claims rest on one study
+> **Evidence** · 127 claims (99 show a difference, 20 mixed, 8 no difference) · 83 studies (22 qualitative, 20 associational, 18 review, 13 causal, 6 theoretical, 3 quant-synthesis, 1 design), `q1`–`q4` · 6 of 83 report an effect size · 126 claims rest on one study
 
 ## Description
 Identity is a learner's sense of self and understanding of who they are, which shapes how they engage with the world. It begins forming in infancy, develops most intensely during adolescence, and keeps changing in adult life. Commonly named aspects include race, ethnicity, gender, cultural background, language and disability status. In early childhood children begin to form identities as they learn about themselves and their world; in middle childhood they come to understand social categories in more depth and start to take on social identities through interaction with peers and educators; in adolescence peers and social life take on more weight and learners navigate social spaces more independently. The LVN summaries tie identity to learning in three ways: a positive ethnic-racial identity is associated with achievement and self-esteem, it can buffer the harm of discrimination, and identity-based stereotypes can produce [stereotype threat](stereotype-threat.md) and weaken [belonging](belonging.md). It is measured mainly with ethnic and racial identity scales for older children and adolescents. The group categories themselves are not causes of learning outcomes: see the wiki's pages on [race and ethnicity](race-and-ethnicity.md) and [gender](gender.md), where differences are read as reflecting circumstances and treatment. The LVN covers identity for pre-kindergarten to grade 12 only.
@@ -161,6 +161,8 @@ Identity is a learner's sense of self and understanding of who they are, which s
 - [Basic psychological needs directly predict successful academic identity](../claims/bpn-direct-effect-academic-identity.md) [+M] — measured as an outcome of the instruction studied
 - [Mindfulness mediates the effect of basic psychological needs on successful academic identity](../claims/mindfulness-mediation-bpn-identity.md) [+M] — measured as an outcome of the instruction studied
 - [Participants reported moderate satisfaction of basic psychological needs and moderate successful academic identity](../claims/moderate-needs-identity-descriptives.md) [~M] — measured as an outcome of the instruction studied
+- [No evidence of ethnic bias in teachers' judgements of an identical piece of work, and no SES or ethnicity effect on perceived objective errors](../claims/no-ethnicity-bias-or-error-perception-effect.md) [-M] — learners who differ on it differ in outcomes
+- [Teachers grade an identical piece of work more harshly when it is attributed to a lower-SES student](../claims/ses-bias-teacher-grading-experiment.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Multigroup Ethnic Identity Measure, Revised (MEIM-R)** (Phinney & Ong, 2007): a brief survey of affiliation with one's ethnic group for older elementary students and adolescents.

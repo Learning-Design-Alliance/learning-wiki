@@ -50,3 +50,4 @@ Reliability analysis in which all appliances in one randomly selected course wer
 - [Rater reliability was good for the adapted checklist, and objective and subjective scores correlated strongly](adapted-checklist-irr-and-score-coherence.md) — related
 - [Appliance quality was slightly higher under 15-point grading than pass/fail in all three courses, but the overall difference was not statistically significant](15-point-grading-slightly-higher-appliance-quality-not-significant-overall.md) — related
 - [In course 3 (Fränkel functional regulator type 3), the 15-point grading group produced significantly better appliances than the pass/fail group (p = 0.0222)](course3-15-point-grading-significant-better-appliance-quality.md) — related
+- [The Dentist automated scoring metric correlates strongly with expert dentists' ratings of root canal access outcomes](dentist-automated-scoring-metric-correlates-experts.md) — related

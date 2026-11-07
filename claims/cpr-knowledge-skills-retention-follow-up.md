@@ -57,3 +57,4 @@ Discussion of follow-up evidence across included studies. The shortest follow-up
 - [Knowledge declined at 3 and 6 months in both groups but significantly more in the theory-only group, which reverted to near pre-training levels (45.4%)](knowledge-declines-faster-in-theory-only-group.md) — related
 - [CPR self-efficacy significantly improved 3 months after simulation-based training among professional caregivers](cpr-self-efficacy-improved-3-months-after-simulation-training.md) — related
 - [Small post-test to follow-up declines in knowledge, skills, and overall competence are not statistically significant in either group](post-to-retention-declines-not-significant.md) — related
+- [No statistically significant reduction in CPR knowledge or skills was detected between six and nine months after the first training](cpr-no-significant-decline-six-to-nine-months.md) — related

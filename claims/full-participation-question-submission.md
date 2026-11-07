@@ -48,3 +48,4 @@ In the Results section the authors report full participation: "Every student pre
 - [Engineering physics undergraduates are more curious than they appear in lecture when given the chance to submit questions about interactive simulations](students-more-curious-than-lecture-appears.md) — related
 - [Most students submitted JoLs out of curiosity about the system rating, often without attending to the LA graphs, and reported behaviour change more from JoL than from the agent](self-reported-jol-motivation-and-behaviour-change.md) — related
 - [The category distribution of student questions varies substantially across different simulations](simulation-content-shifts-curiosity-categories.md) — related
+- [Every participant engaged with the e-learning before the birth course, with 95 completing it in full](e-learning-engagement-before-birth-course.md) — related

@@ -50,3 +50,4 @@ Objective ForceSense force measurements during the second hepaticojejunostomy ex
 - [The simulation-first advantage on OSATS was not robust in sensitivity and multivariate analyses adjusting for baseline robotic experience](simulation-first-advantage-not-robust-sensitivity.md) — related
 - [Novices rated suture-pad training as more realistic, didactic and feasible than SimNow robotic simulation, yet most recommended including both modalities in the curriculum](participant-preferences-suture-pad-versus-simnow.md) — related
 - [After both training sessions, robotic novices who started with robotic simulation scored higher on the modified OSATS for robotic hepaticojejunostomy than novices who started with suture-pads](simulation-first-higher-osats-after-both-trainings.md) — related
+- [Force parameters decrease over trials for novices and experts but not intermediates](force-decrease-learning-curve-novices-experts-only.md) — related

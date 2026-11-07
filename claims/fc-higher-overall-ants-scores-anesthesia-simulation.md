@@ -52,3 +52,4 @@ Quasi-experimental study of 40 anesthesiology residents randomly assigned to FC 
 - [App use shows no clear difference in teamwork (TEAM) or non-technical skills (ANTS) scores](app-no-team-ants-difference.md) — related
 - [Flipped classroom shifts study time toward pre-class preparation and away from post-class review, with no difference in total studying time](fc-study-time-reallocation-total-equal.md) — related
 - [Residents' baseline non-technical skills were already high before observation-based training, limiting room for improvement](high-baseline-ants-before-training.md) — related
+- [E-learning as pre-course preparation yields higher pre-course knowledge than written course material in resident anaesthetists (mean difference 1.8 points, p = .002)](elearning-precourse-knowledge-superiority.md) — related

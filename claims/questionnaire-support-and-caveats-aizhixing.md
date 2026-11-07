@@ -50,3 +50,4 @@ Anonymous 10-item five-point Likert questionnaire (Cronbach's alpha 0.80) comple
 - [DVRS students rated the simulator as user-friendly, with clear automatic scoring and timely, effective feedback](dvrs-students-rate-usability-and-feedback-positively.md) — related
 - [Result scores on the Aizhixing system tended to increase from earlier to later examinations after practice repetitions in one group with no comparison group, but the trend was not statistically significant](aizhixing-score-trend-not-significant.md) — related
 - [Novice dental students overestimated their cavity preparation quality: peer evaluation deemed most work acceptable while digital evaluation showed low compliance on most parameters](novices-overestimate-preparation-quality-peer-vs-digital.md) — related
+- [Dental students report positive perceptions of Mirrosistant training, especially improved direction and distance perception](student-positive-perceptions-mirrosistant.md) — related

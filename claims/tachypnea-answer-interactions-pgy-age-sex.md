@@ -54,3 +54,4 @@ Interaction-test analysis (Multimedia Appendix 4) of the matched GM-ITE 2022 coh
 - [Attrition at time 3 was high (73.6%) but responders and nonresponders did not differ significantly in age or sex](time3-attrition-missing-at-random.md) — related
 - [Baseline characteristics including age, sex, previous experience, and resident versus intern status did not significantly influence clinical intubation time](baseline-characteristics-not-influence-intubation-time.md) — related
 - [Logs indicating future patient-care changes differed significantly by postgraduate year, with PGY-1 residents recording the most and a dip in PGY-2 and -3](pgy-subgroup-future-care-change-logs.md) — related
+- [Subgroup analysis finds no interaction between intervention and subgroup, though benefit appears uneven across sex and handedness](sa-training-subgroup-no-interaction.md) — related

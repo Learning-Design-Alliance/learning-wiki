@@ -77,3 +77,4 @@ Same questionnaire's lower-agreement items: adequate time to view videos (Q2, 78
 - [Teachers viewed the flipped classroom favourably overall but raised workload and student-preparation concerns, with experienced flipped teachers more receptive](fc-teacher-perception-workload-resistance.md) — related
 - [Iterative redesign between flipped sessions, informed by questionnaire feedback, shifted student perceptions toward a more supportive teacher role and higher participation](dt-iteration-between-sessions-improved-student-feedback.md) — related
 - [Flipped-group students perceived the approach positively for class preparation and confidence, though some remained unsure about preferring pre-recorded over live lectures](flipped-learning-positive-perceptions-haematology.md) — related
+- [More than 80% of flipped classroom students were satisfied and none disagreed about using the model](fcm-high-satisfaction-medical-students.md) — related

@@ -67,3 +67,4 @@ Same unplanned subanalysis: cohort 1 completed the VR femoral module in 18.65 mi
 - [Prior VR training significantly speeds femoral nailing synthetic-bone performance in both cohorts (about 7 minutes faster, P<.01; about 4 minutes faster, P=.05)](vr-pretraining-faster-femoral-nailing.md) — related
 - [Independent senior-resident femoral IMN yields overall surgical complication rates comparable to fellowship-trained surgeons after propensity matching](resident-imn-comparable-complication-rates.md) — related
 - [VR training shifts residents' self-rated ease of understanding and performance ratings upward, though the trend was not statistically significant](vr-improves-self-assessed-performance.md) — related
+- [More experienced surgeons complete the training exercises faster, with specialists fastest, followed by senior residents and young residents](tes-training-experience-gradient-completion-time.md) — related

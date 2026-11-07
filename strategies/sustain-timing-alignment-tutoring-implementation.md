@@ -43,6 +43,7 @@ Based on the null long-term findings, the authors recommend that future tutoring
 - [Sustain educational interventions throughout development and evaluate long-term rather than short-term efficacy](sustained-interventions-throughout-development.md)
 - [Plan school-based intervention research around recruitment, scheduling, dosage, and fidelity challenges](school-based-intervention-research-challenges-strategies.md)
 - [Test, track and extend readiness support programs for disadvantaged children](readiness-support-program-research-agenda-strategy.md)
+- [Schedule reinforcement follow-up when designing sepsis education interventions to sustain nurses' knowledge](reinforcement-follow-up-sustain-sepsis-knowledge.md)
 
 ## Examples
 -

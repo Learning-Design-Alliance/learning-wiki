@@ -52,3 +52,4 @@ Exploratory Pearson correlation coefficients calculated on the combined sample (
 ## Related Claims
 - [GenAI feedback perceptions, pronunciation self-efficacy, and WTC are all positively intercorrelated, and learners report positive feedback perceptions and moderate self-efficacy and WTC](genai-epse-wtc-positive-correlations-descriptives.md) — related
 - [Embodied learning instruction produced large, baseline-adjusted improvements in nursing students' self-efficacy perceptions toward measurement and evaluation compared to traditional lectures.](el-self-efficacy-large-ancova-effect-nursing.md) — related
+- [Attitudes toward PBL, GPA, and PBL scores are positively and significantly intercorrelated](attitude-gpa-pbl-positive-correlations.md) — reports the opposite

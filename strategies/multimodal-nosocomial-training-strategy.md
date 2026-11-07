@@ -53,6 +53,7 @@ The article recommends that prevention and control of nosocomial infections be p
 - [Integrate case-based learning, supervised clinical simulations and e-learning modules aligned with WHO and CDC standards into infection control curricula](integrate-case-based-simulation-elearning-ipc-training.md)
 - [Institutionalise brief repeated education as annual training or competency-based assessment in high-risk units](institutionalise-repeated-education-icu-strategy.md)
 - [Blend repeated in-person education with digital reinforcement tools such as quizzes, video reviews and mobile reminders](digital-reinforcement-blended-repeated-education.md)
+- [Provide ongoing in-service training and age-tailored programs to strengthen nurses' infection-prevention knowledge](ongoing-age-tailored-nci-in-service-training-strategy.md)
 
 ## Examples
 -

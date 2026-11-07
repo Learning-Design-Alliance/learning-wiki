@@ -56,3 +56,4 @@ Paired t test on procedure durations recorded from video performances of the sam
 - [Time to acquire all eight rTEE views decreased from 7.3 minutes at month 6 to 5.7 minutes at month 7, a non-significant difference](rtee-acquisition-time-month6-month7.md) — related
 - [Adding a hardware podcast and tutorial reduced the time students needed for the VR simulation](preparatory-podcast-tutorial-reduced-simulation-time.md) — a narrower finding that bears on this claim
 - [Median procedure time fell from before to after instructor feedback in one uncontrolled pre-post study; senior residents' time fell by nearly 40%, while junior residents' time was similar before and after](procedure-time-drops-after-feedback-seniors.md) — related
+- [After MR simulator training, operation time decreased from 4.08 ± 1.96 min to 2.07 ± 0.92 min (p = 0.0001).](mr-training-reduced-operation-time.md) — related

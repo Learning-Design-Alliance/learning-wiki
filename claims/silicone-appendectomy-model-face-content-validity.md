@@ -50,3 +50,4 @@ Post-course questionnaire answered by 32 of 35 participants (91%) using five-poi
 - [Residents who watched a video of the simulated procedure before simulation scored higher on global performance, execution and quality than residents who did not](presimulation-video-higher-appendectomy-performance.md) — related
 - [Expert surgeons confirmed strong content validity, with all items receiving mean scores above 4.0](content-validity-expert-ratings-ldsrs-model.md) — related
 - [Expert surgeons rated the model highly on face validity, with all items scoring 5.0 except texture (3.70 ± 0.82)](face-validity-expert-ratings-ldsrs-model.md) — related
+- [Students rate the 8-hour silicone-model course positively, with 83.3% positive answers overall](positive-student-course-evaluation-83-percent.md) — related

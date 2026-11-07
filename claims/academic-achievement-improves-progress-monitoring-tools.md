@@ -55,3 +55,4 @@ Random-effects meta-analysis of 4 studies using progress monitoring tools as the
 - [In-classroom physical activity breaks significantly improve primary school children's spelling performance](icpab-improve-spelling.md) — related
 - [Effects of active classrooms on academic subjects vary, with language showing a clear increase and math and reading showing small imprecise effects](active-classrooms-subject-subgroups.md) — related
 - [Classroom-based physical activity interventions did not affect children's overall physical activity levels in meta-analysis (SMD = 0.40, CI crossing zero)](classroom-physical-activity-no-effect-overall-pa.md) — related
+- [A 12-week classroom-based physical activity break program significantly improves objective study-test performance (comprehension and memorization) in adolescents](active-breaks-improve-objective-study-tests.md) — a narrower finding that bears on this claim

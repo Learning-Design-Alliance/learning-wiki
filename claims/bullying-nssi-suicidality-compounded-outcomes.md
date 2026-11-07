@@ -56,3 +56,4 @@ Cross-sectional ABCD analysis examining the combined effect of bullying and NSSI
 - [Bullied preadolescent children have lower cognitive scores than non-bullied peers](bullying-associated-with-lower-cognitive-scores.md) — related
 - [Bullied girls show lower episodic memory and crystallized composite cognitive scores than non-bullied girls](bullied-girls-lower-episodic-memory-crystallized-scores.md) — related
 - [Emotion regulation difficulties are reliably associated with maladaptive trajectories including non-suicidal self-injury, aggression, bullying, and social withdrawal in at-risk adolescents](er-difficulties-maladaptive-trajectories-at-risk-adolescents.md) — related
+- [Low self-esteem is associated with significantly higher scores on maladaptive behaviors including procrastination, self-injury, and suicidal behaviors](low-self-esteem-linked-maladaptive-behaviors.md) — related

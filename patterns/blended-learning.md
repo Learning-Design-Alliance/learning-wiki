@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 99 claims (65 for, 32 mixed, 2 against) · 71 studies (33 causal, 14 quant-synthesis, 9 associational, 7 review, 3 design, 3 theoretical, 2 qualitative), `q1`–`q4` · 17 of 71 report an effect size · 97 claims rest on one study
+> **Evidence** · 100 claims (66 for, 32 mixed, 2 against) · 72 studies (34 causal, 14 quant-synthesis, 9 associational, 7 review, 3 design, 3 theoretical, 2 qualitative), `q1`–`q4` · 17 of 72 report an effect size · 98 claims rest on one study
 
 ## Description and scope
 
@@ -126,6 +126,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Students rated the redesigned blended learning radiotherapy module positively across design, skills acquisition, seminar, and internship items](../claims/positive-student-evaluation-blended-radiotherapy-module.md) [+W] — attached 2026-11-06 from Knöchelmann AC et al. (2025), which proposed "Blended learning pattern interweaving digital self-learning modules, activating online case seminars, and clinical practical experience".
 - [Students preferred a hybrid ALG model (50.4%) over fully in-person (40.4%) or fully virtual (9.2%), with no significant difference across groups](../claims/hybrid-alg-preference-plurality.md) [+W] — attached 2026-11-07 from Malta Kiana et al. (2025), which proposed "Deliver case-based active learning groups in a primarily in-person hybrid format, reserving virtual sessions for flexibility".
 - [Face-to-face students scored substantially higher than remote students on practical skills in a hybrid chest physiotherapy seminar](../claims/hybrid-face-to-face-better-practical-skills-airway-clearance.md) [+W] — attached 2026-11-07 from Bellini Raffaella et al. (2024), which proposed "Use hybrid teaching for theoretical lectures, but not as a substitute for face-to-face teaching of hands-on skills"; tests this page's relationship.
+- [Nursing undergraduates in the smart-classroom blended group scored significantly higher on theoretical assessment, experimental assessment, and subjective questions than the lecture-based control group](../claims/smart-classroom-blended-higher-theory-and-practical-scores.md) [+W] — attached 2026-11-07 from Meng Ya et al. (2023), which proposed "Implement smart-classroom blended teaching only where facilities, network, and teacher support meet its high requirements"; tests this page's relationship.
 
 ## Illustrative design instance and observation record
 

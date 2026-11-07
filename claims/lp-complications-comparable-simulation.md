@@ -50,3 +50,4 @@ Safety outcomes of the randomized trial: traumatic LP incidence (CSF with more t
 - [VR-supplemented and purely conventional training produce no significant difference on the Standard Lumbar Puncture Rating Score or total procedure time](vr-lp-training-rating-score-and-time-null.md) — related
 - [LP skill retention at 3 months is comparable between VR-supplemented and conventional training groups, with skills declining in both groups](lp-skill-retention-comparable-three-months.md) — related
 - [Complication rates did not differ significantly between pre- and post-training periods](no-significant-complication-change-after-porcine-training.md) — related
+- [62.5% of participants had no prior lumbar puncture experience and only 2 of 40 had prior simulator-based LP training.](participant-baseline-lp-experience-low.md) — related

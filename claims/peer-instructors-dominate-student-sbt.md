@@ -48,3 +48,4 @@ Questionnaire items on instructor roles in the 343-participant survey: "64% of P
 - [Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences](motivation-and-lost-interaction-challenges-remote.md) — related
 - [Integration of simulator-based training into mandatory education differs sharply by training stage, with only 14% of physicians reporting such integration and 34% reporting none](sbt-mandatory-integration-stage-disparity.md) — related
 - [The dominant school-based CPR interventions were instructor-led training with video simulations, assessed mainly by subjective questionnaires](instructor-led-video-simulation-dominant-cpr-intervention.md) — related
+- [Depth perception was the stage students most often reported as the most difficult on both simulators (50.9% on simulator I; 74.5% on simulator II)](depth-perception-most-difficult-simulation-stage.md) — related

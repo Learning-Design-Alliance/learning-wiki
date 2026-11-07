@@ -71,7 +71,7 @@ sources:
 # Spaced Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 92 claims (49 for, 40 mixed, 3 against) · 65 studies (37 causal, 14 review, 9 quant-synthesis, 3 theoretical, 1 associational, 1 design), `q1`–`q4` · 17 of 65 report an effect size · 84 claims rest on one study
+> **Evidence** · 94 claims (51 for, 40 mixed, 3 against) · 66 studies (38 causal, 14 review, 9 quant-synthesis, 3 theoretical, 1 associational, 1 design), `q1`–`q4` · 17 of 66 report an effect size · 86 claims rest on one study
 
 ## Description
 
@@ -185,6 +185,8 @@ Claims this page cited before it was rewritten as a conditional model, or that w
 - [Repeated mental imagery based on a cognitive aid improves the non-technical skills of novice anesthesia residents in simulated cardiopulmonary resuscitation at 6 months](../claims/mental-imagery-cognitive-aid-improves-nontechnical-skills-cpr-simulation.md) [+W] — attached 2026-11-06 from Levy Manon et al. (2025), which proposed "Structure mental imagery training of a cognitive aid as relaxation before, guided imagery, and refocusing after, repeated at gradually increasing intervals".
 - [Repeated 5-minute reversed-classroom workshops produced significantly greater ECG interpretation score gains than a single 2-hour lecture course over 5 weeks](../claims/reversed-classroom-workshops-beat-lecture-ecg.md) [+W] — attached 2026-11-07 from Chaumont Corentin et al. (2024), which proposed "Combine spaced repetition with reversed pedagogy (students teaching others) when teaching complex interpretive skills like ECG analysis"; tests this page's relationship.
 - [Spaced E-learning produced higher BLS knowledge scores than massed E-learning at immediate, two-week and one-month post-tests in nursing students](../claims/spaced-elearning-higher-bls-knowledge-than-massed.md) [+W] — attached 2026-11-07 from Ranjbar Fataneh et al. (2024), which proposed "Incorporate spaced learning approaches in nursing curricula to promote long-term retention of knowledge and skills"; tests this page's relationship.
+- [After retraining nine months after first training, theoretical knowledge and practical skills declined less over nine months than after first training among nursing professionals, in a single-group pre-post study](../claims/cpr-retraining-greater-retention-than-first-training.md) [+W] — attached 2026-11-07 from de Araujo Nyagra Ribeiro R et al. (2022), which proposed "Maintain regular CPR training with a defined interval of up to twelve months to retain nursing professionals' resuscitation competencies"; tests this page's relationship.
+- [Nine months after retraining, CPR knowledge and skills were statistically higher than nine months after the first training](../claims/cpr-nine-month-scores-higher-after-retraining.md) [+W] — attached 2026-11-07 from de Araujo Nyagra Ribeiro R et al. (2022), which proposed "Maintain regular CPR training with a defined interval of up to twelve months to retain nursing professionals' resuscitation competencies"; tests this page's relationship.
 
 ## Source verification and open tests
 

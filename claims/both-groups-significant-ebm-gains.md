@@ -58,3 +58,4 @@ Paired t-tests within each group showed significant pre-to-post gains. In the in
 - [Knowledge and performance scores rose significantly from pre-test to post-test in both gamified and lecture groups; the gamified group's knowledge gain was more than 2.5 times the lecture group's, and its performance gain was three times the lecture group's](within-group-gains-gamified-versus-lecture-over-time.md) — related
 - [Both game-based and self-study learning significantly improved diabetes knowledge from pretest to post-test](both-conditions-improved-diabetes-knowledge.md) — related
 - [Blended learning produced higher learning satisfaction than traditional lecture in the evidence-based medicine course](blended-learning-higher-satisfaction-ebm.md) — related
+- [Medical students' overall knowledge test scores rose from the in-person to the e-learning semester in one single-group pre-post study](e-learning-overall-scores-higher-than-in-person.md) — related

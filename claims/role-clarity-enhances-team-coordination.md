@@ -49,3 +49,4 @@ Focus group statement from Workshop 2 in the qualitative thematic analysis. Earl
 - [Panelists identified distributed leadership, role clarity, and structured team functioning as a core collaboration domain](smh-collab-leadership-team-functioning-domain.md) — a broader claim this one bears on
 - [Introducing clearer communication routines, including regular team briefings and increased nurse involvement in meetings, addressed communication gaps between professional groups](communication-routines-team-briefings-improve-coordination.md) — related
 - [The clinical EVT team leader facilitates collaboration inconsistently, in contrast with leadership behaviour observed in simulation](evt-leader-inconsistent-clinical-presence.md) — related
+- [SBTT increases awareness of teamwork through role clarification and precise communication, including a defined team leader](sbtt-awareness-teamwork-roles-communication.md) — related

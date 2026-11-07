@@ -76,3 +76,4 @@ Difficulty-range classification against thresholds P≤.25, .25<P<.75, and P≥.
 - [AI-generated X-type questions were easier than human-designed X-type questions (difficulty 0.77 vs. 0.62)](ai-x-type-questions-easier.md) — related
 - [Item difficulty and discrimination indices do not differ significantly by school of origin in a Brazilian cross-institutional progress test](no-psychometric-index-differences-by-item-origin-school.md) — related
 - [AI-generated questions showed significantly lower discrimination indices than traditional board examination questions despite similar difficulty](ai-exam-lower-discrimination.md) — related
+- [After the international histology project, significantly more histology image-based examination questions were rated 'average' and significantly fewer were rated 'difficult'.](fewer-difficult-more-average-histology-image-questions.md) — related

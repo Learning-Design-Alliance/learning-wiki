@@ -70,3 +70,4 @@ Endpoint simple effect on the combined acceptance and adaptation subscale; the p
 - [A daily learning diary alone (Group D) did not produce statistically significant pre-post gains on any measured outcome in an online mathematics preparation course](learning-diary-alone-no-significant-srl-gains-online-math-prep-course.md) — related
 - [Virtual exchange participation develops student teachers' intercultural competence](virtual-exchange-develops-intercultural-competence-student-teachers.md) — reports the opposite
 - [Traditionally taught control students showed no significant pre-to-post gains in patient preparation or drug preparation skills](control-group-limited-skill-gains.md) — related
+- [Simple multicultural contact in mixed PBL groups did not enhance students' intercultural sensitivity](multicultural-contact-did-not-enhance-intercultural-sensitivity.md) — possibly the same claim (merge candidate)

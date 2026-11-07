@@ -56,3 +56,4 @@ The review's discussion synthesizes findings on learning environment, noting tha
 - [Teacher empathy reduces student stress and contributes to safe learning environments and engagement](teacher-empathy-stress-engagement-safety.md) — related
 - [Facilitator role management — psychological safety awareness, structure, and managing dominant voices — conditions whether CBL supports active learning](facilitator-role-management-cbl-active-learning.md) — related
 - [Small groups of 5–6 students and the absence of grading supported communication and reduced pressure during the simulation](small-groups-no-grading-euthanasia-simulation.md) — a narrower finding that bears on this claim
+- [Students valued the uncomfortable, low-stakes bedside-assist simulation exercise as facilitating learning through stress in a realistic setting](uncomfortable-simulation-low-stakes-stress-facilitates-learning.md) — a narrower finding that bears on this claim

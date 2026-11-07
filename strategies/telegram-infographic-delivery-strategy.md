@@ -47,6 +47,7 @@ The infographic intervention sent educational content on CPR skills as infograph
 
 - [Use recorded practice with expert video review and re-practice to improve practical CPR skills](video-feedback-practice-review-repractice-strategy.md)
 - [Deliver pre-class content and practical-session videos through messaging platforms (Eitaa and Telegram) to enable non-attendance preparation](messaging-platform-preclass-content-strategy.md)
+- [Deliver short, low-cost, in-service theoretical-practical CPR training with small groups of at most six participants](short-low-cost-inservice-cpr-training-strategy.md)
 
 ## Examples
 -

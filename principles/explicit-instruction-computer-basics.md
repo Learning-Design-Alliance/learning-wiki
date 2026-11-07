@@ -165,6 +165,7 @@ Doing a routine with the tutor beside them, doing it unaided at the end of a ses
 - [Digital Learning](digital-learning.md) — learning through a digital medium, a separate question from learning to use one
 
 ## Examples
+
 - [Integrate English language learning with digital literacy instruction](../designs/integrate-ell-with-digital-literacy-curriculum.md) — Briya's immigrant adult learners practise English while learning computer routines
 
 <!-- Links to elements or patterns that apply this principle -->
@@ -173,6 +174,7 @@ Doing a routine with the tutor beside them, doing it unaided at the end of a ses
 - File-management mini-lessons tied to real tasks such as uploading assignments or attaching documents
 - Small-group digital-skills labs where learners practice the same routine repeatedly with support nearby
 - [Support digital inclusion through onboarding processes, device lending and technical support when deploying digital learning programmes with older adults](../strategies/digital-inclusion-onboarding-device-lending.md)
+- [Use a graded in-VR onboarding tutorial starting from a single basic action before task instruction](../strategies/graded-vr-onboarding-tutorial-strategy.md)
 
 ## Key Sources
 - Chaffin, A. J., & Harlow, S. D. (2005). Cognitive learning applied to older adult learners and technology. *Educational Gerontology, 31*(4), 301-329. [doi:10.1080/03601270590916803](https://doi.org/10.1080/03601270590916803)

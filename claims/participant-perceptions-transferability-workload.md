@@ -49,3 +49,4 @@ The review reports participants' opinion data collected in two included studies 
 - [Skill transferability is demonstrated in cross-platform simulated training amongst experts and novices](cross-platform-skill-transfer-novices-experts.md) — related
 - [Intermediate-level trainees exhibit reduced performance when transferring between robotic platforms (GEARS −2.9)](intermediates-reduced-scores-platform-transfer.md) — related
 - [No significant correlation between simulator performance and self-reported mental workload (SURG-TLX)](no-correlation-performance-mental-workload-surg-tlx.md) — related
+- [All ten participants perceived multi-platform access as beneficial and console skills as transferrable across platforms](participants-perceive-skills-transferrable.md) — related

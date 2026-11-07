@@ -47,3 +47,4 @@ Quasi-experiment 2: 68 first-year engineering students in a 2016 TBL calculus co
 ## Related Claims
 - [Incorporating video review feedback into leadership training had a positive effect on emergency medicine residents' team-leader performance in a pilot study](video-review-feedback-resident-leadership-pilot.md) — related
 - [Buddy Leaders reported consolidation of their own learning, developing networks, and improved team and leadership skills as benefits of leading SBS groups](buddy-leaders-reported-consolidation-and-leadership-benefits.md) — related
+- [Group opinion on peer evaluation (for or against) has no significant impact on team approach scores in M-TBL](peer-evaluation-opinion-no-impact-team-approach.md) — related

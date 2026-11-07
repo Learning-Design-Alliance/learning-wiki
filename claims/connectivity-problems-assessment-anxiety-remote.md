@@ -56,3 +56,4 @@ Focus group theme on technological challenges: students worried about "missing i
 - [Infrastructure and access constraints were reported in 18 of 54 studies (33%) as the second higher-order technical limitation category](infrastructure-access-constraints-ai-efl.md) — a broader claim this one bears on
 - [Infrastructure barriers — limited internet speed, connectivity problems and lack of technical support — hinder effective AI use in nursing education institutions](infrastructure-barriers-ai-use-nursing-education.md) — related
 - [Skill-based pharmacy learning (compounding, device counselling, OSCEs) faced validation, access, and transferability challenges when delivered remotely](remote-skill-based-learning-challenges-pharmacy.md) — related
+- [Remote assessment of low-stake skills was viewed as comparable to in-person assessment and able to standardise competency assessment](remote-assessment-standardises-low-stake-competency.md) — related

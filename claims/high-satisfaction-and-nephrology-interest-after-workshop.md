@@ -50,3 +50,4 @@ Post-workshop evaluation questionnaire of the 113-student cohort. All students (
 - [Most students had minimal prior exposure to renal biopsy before the workshop, and one third observed one during the clerkship](limited-prior-biopsy-exposure-among-students.md) — related
 - [A renal biopsy simulation workshop significantly increased fifth-year medical students' self-perceived ability to perform renal biopsy](renal-biopsy-simulation-workshop-increased-student-confidence.md) — related
 - [Urology interest groups and mandatory skills sessions significantly increase medical student interest and procedural confidence](urology-interest-groups-skills-sessions-student-interest.md) — related
+- [All participants reported satisfaction and perceived gains in knowledge and skills, and 78% judged the simulator effective at replicating anatomical structures](oasis-simulator-satisfaction-and-anatomical-fidelity.md) — related

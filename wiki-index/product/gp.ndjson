@@ -1,0 +1,2 @@
+{"description":"A language-analysis tool developed by OpenAI that estimates whether submitted text resembles AI-generated writing, particularly GPT-2-style output.","id":"gpt-2-output-detector-demo","path":"products/gpt-2-output-detector-demo.md","status":"review","title":"GPT-2 Output Detector Demo","type":"product"}
+{"description":"GPT Tutor is a GPT-4 chat-based mathematics tutoring interface developed and studied by Bastani Hamsa et al.","id":"gpt-tutor","path":"products/gpt-tutor.md","status":"review","title":"GPT Tutor","type":"product"}

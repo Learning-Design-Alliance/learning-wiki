@@ -13,7 +13,7 @@ generated:
 # Scenario-Based Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (7 for, 4 mixed) · 9 studies (5 causal, 2 qualitative, 1 review, 1 associational), `q2`–`q3` · 0 of 9 report an effect size · 11 claims rest on one study
+> **Evidence** · 12 claims (8 for, 4 mixed) · 10 studies (6 causal, 2 qualitative, 1 review, 1 associational), `q2`–`q3` · 0 of 10 report an effect size · 12 claims rest on one study
 
 ## Description
 Scenario-based learning is the element in which instruction is organized around a realistic situation, case, or mission that requires learners to interpret information and make decisions in context. It is useful when the goal is application, transfer, and judgment under conditions that resemble real use.
@@ -53,6 +53,7 @@ Scenario-based learning is the element in which instruction is organized around 
 - [AI-empowered scenario-based simulation teaching produced higher Mini-CEX clinical skills scores than traditional teaching](../claims/ai-scenario-simulation-higher-mini-cex-clinical-skills.md) [~M] — attached 2026-11-07 from Zheng Koulong et al. (2024), which proposed "AI-empowered scenario-based simulation teaching mode for cardiovascular disease education".
 - [Nurses were less likely than physicians to be unqualified after scenario-simulation training](../claims/nurses-less-likely-unqualified-than-physicians.md) [~W] — attached 2026-11-07 from Cai Manyuan et al. (2024), which proposed "Blended scenario-simulation training program for COVID-19 clinical skills (online videos plus on-site practice in a three-zone/two-channel area)".
 - [Supplementing traditional instruction with a mobile virtual patient application produces a significant group-by-measurement interaction in physiotherapy students' achievement](../claims/mobile-vp-interaction-achievement-gains.md) [+W] — attached 2026-11-07 from Çetinkaya Levent et al. (2024), which proposed "Mobile virtual patient application with narrated case-based scenarios for clinical reasoning"; tests this page's relationship.
+- [Overall questionnaire scores rose from pre-test to post-test after the digital scenario, in one uncontrolled pre-post study; 23 of 27 items showed statistically significant differences](../claims/digital-scenario-higher-overall-rating-23-of-27-items.md) [+W] — attached 2026-11-07 from Martins et al. (2023), which proposed "Digital scenario-based tool for standardized nursing simulation scenario writing".
 
 ## Related Elements
 - [Problem Scenario](problem-scenario.md)
@@ -70,6 +71,7 @@ Scenario-based learning is the element in which instruction is organized around 
 - [Cognitive performance training embedded in operational scenarios under fatigue](../strategies/cognitive-training-embedded-operational-scenarios.md)
 - [Scenario-based learner-centered facilitator training using APA's learner-centered psychological principles](../strategies/scenario-based-lcp-facilitator-training.md)
 - [Assess social sensibility and multitasking in residency applicants using OSCEs, situational judgment tests and simulated multitasking scenarios](../strategies/og-residency-selection-assessment-strategies.md)
+- [Produce PBL scenario animations inexpensively with off-the-shelf web-based animation apps](../strategies/off-the-shelf-animation-scenario-production-strategy.md)
 
 ## Key Sources
 - Clark, R. C. (2013). *Scenario-based e-learning*. Pfeiffer.

@@ -91,3 +91,5 @@ Students reflected on growing ability to cope, with one noting experience from t
 - [Nursing students reported enhanced academic self-efficacy and professional identity after the in-class flipped classroom](enhanced-self-efficacy-and-professional-identity.md) — related
 - [After blended learning, students more often respond to emotional patient vignettes with patient-centered techniques and less often with space-reducing responses](blended-vignette-patient-centered-responses.md) — related
 - [Simulation training initially triggered fear and anxiety in caregivers of children with special health needs, after which they felt relieved and self-confident (study A2)](caregiver-fear-to-confidence-simulation-a2.md) — related
+- [With support, redeployed junior doctors can become more confident managing unwell patients and performing advanced practical procedures in ICU](icu-rich-learning-environment-redeployed-juniors.md) — a narrower finding that bears on this claim
+- [In situ SBTT provides an experience of coping after an initial failed scenario, which participants saw as significant for transfer of learning](sbtt-second-scenario-coping-experience.md) — related

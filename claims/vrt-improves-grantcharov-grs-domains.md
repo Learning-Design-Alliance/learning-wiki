@@ -55,3 +55,5 @@ Single-centre RCT randomizing 20 participants to VR training or no additional tr
 - [Simulation-based training increases economy of movement in laparoscopic surgery](simulation-training-increases-economy-of-movement.md) — a broader claim this one bears on
 - [Simulation-based training reduces intraoperative errors in laparoscopic surgery](simulation-training-reduces-intraoperative-errors.md) — related
 - [Novice trainees completing a structured VR simulation curriculum achieved significantly higher total GOALS scores than controls in a porcine cholecystectomy post-test](structured-vrst-curriculum-higher-goals-total.md) — related
+- [Blinded expert OSATS ratings favored the VOA group on overall performance and economy of movement despite measured efficiency losses, exposing a limitation of granular metric-based assessment](osats-economy-of-movement-discrepancy.md) — related
+- [VR-trained radiography students made significantly fewer total X-ray tube movements than physical-simulation-trained students](vr-simulation-fewer-tube-movements.md) — related

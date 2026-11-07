@@ -1,0 +1,1 @@
+{"description":"L2C is the article's trainable coaching framework built on the Coaching Game formalism.","id":"l2c-rl-coaching-framework","path":"designs/l2c-rl-coaching-framework.md","status":"review","title":"Learning to Coach (L2C): an RL pipeline combining adaptive blending, a skill-change PFA, and a surrogate reward","type":"design"}

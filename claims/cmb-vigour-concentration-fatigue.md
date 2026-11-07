@@ -58,3 +58,4 @@ Single-group intervention–control study (Blasche et al., n = 66) comparing 6 m
 - [Working memory resources can be exhausted during learning, decreasing performance, and restored through a break](working-memory-exhaustion-restored-by-break.md) — a broader claim this one bears on
 - [Twelve weeks of daily active breaks significantly improved psychological resilience in management students, with a significant Group × Time interaction favouring the experimental group](active-breaks-improve-resilience-management-students.md) — related
 - [Teachers perceive that the PAL program improves student attention and focus immediately after sessions, an effect that faded over the course of the day](pal-temporary-attention-focus-benefit.md) — related
+- [A 12-week classroom-based physical activity break program significantly increases scholastic self-efficacy in adolescents compared with regular lessons](active-breaks-increase-scholastic-self-efficacy.md) — related

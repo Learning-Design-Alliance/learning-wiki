@@ -96,3 +96,5 @@ Control-group result in the same RCT: nurses receiving lecture plus routine inst
 - [Student nurse-midwives' skills scores in postpartum hemorrhage prevention and management rose from baseline to endline after simulation-based education, in one uncontrolled pre-post study](simulation-education-improves-pph-skills-tanzanian-nurse-midwives.md) — related
 - [Simulator practice produces greater quiz-score improvement than video review after an identical didactic lecture](simulator-practice-beats-video-review-eom-quiz-gain.md) — related
 - [Nonimmersive VR simulation training produced no significant difference in theoretical test scores compared with conventional training](nivr-isolation-training-no-theoretical-score-difference.md) — reports the opposite
+- [Exploratory post hoc subgroup analysis suggests the postpartum haemorrhage e-learning module outperformed the preeclampsia module](pph-elearning-outperformed-pe-explorative.md) — related
+- [New nurses trained with role reversal and SPS report higher training satisfaction than routinely trained nurses](role-reversal-sps-higher-training-satisfaction.md) — related

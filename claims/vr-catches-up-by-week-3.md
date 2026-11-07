@@ -49,3 +49,4 @@ In the week 3 assessment of the RCT, the VR group scored 248.6 ± 11.4 versus 24
 - [The VR group scored significantly lower than controls at week 2, reflecting an initial learning curve with the VR system](vr-initial-learning-curve-week-2.md) — related
 - [Training intensity was not equivalent between groups, confounding the comparison of VR versus mannequin-based training](vr-training-intensity-confound.md) — related
 - [80% of the VR group achieved excellent final scores (≥270 points) compared to 10% of the control group](vr-excellent-competency-proportion.md) — related
+- [The video group's advantage was concentrated in the first five cycles, after which the control group caught up through self-learning](video-advantage-concentrated-early-cycles.md) — related

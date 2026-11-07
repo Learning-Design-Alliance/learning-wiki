@@ -55,3 +55,4 @@ The review's narrative synthesis across its 292 included studies. It reports tha
 - [VR training's effect on OSATS-assisted skill acquisition shows conflicting evidence](vr-osats-conflicting-evidence.md) — a narrower finding that bears on this claim
 - [Feedback-oriented and interactive instructional methods are associated with improvements in clinical reasoning, procedural skills, and learner confidence in orthodontic postgraduate education](feedback-oriented-interactive-methods-improve-orthodontic-clinical-competence.md) — related
 - [Performance differences among formats hold in most courses but not orthodontics](format-performance-differs-by-course.md) — a narrower finding that bears on this claim
+- [Health science staff and students consistently express a desire for blended teaching of practical clinical skills in the post-pandemic era](staff-students-desire-blended-clinical-skills-teaching.md) — related

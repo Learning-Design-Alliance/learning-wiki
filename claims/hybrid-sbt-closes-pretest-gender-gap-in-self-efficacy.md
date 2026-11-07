@@ -54,3 +54,4 @@ Mann-Whitney U subgroup analysis of SE by sex (n = 91 after dropping two 'prefer
 - [The effects of thoughtless GenAI use on motivation, self-efficacy, and self-directed learning differ significantly by gender](gender-moderates-tuga-effects.md) — related
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
 - [Male students reported higher confidence in using VR simulation technology independently than female students](gender-gap-vr-confidence-orthodontics.md) — related
+- [After simulation-based training, students report high satisfaction and self-confidence with no difference between genders](high-satisfaction-self-confidence-after-sbt.md) — related

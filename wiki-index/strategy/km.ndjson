@@ -1,0 +1,1 @@
+{"description":"An analytical strategy for identifying distinctive movement subgroups from time-series tracking data.","id":"kmeans-clustering-teacher-movement","path":"strategies/kmeans-clustering-teacher-movement.md","status":"review","title":"Use K-means clustering of spatial point-pattern statistics to identify teacher movement patterns","type":"strategy"}

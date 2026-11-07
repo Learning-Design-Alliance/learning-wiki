@@ -80,3 +80,5 @@ Single-centre RCT randomizing 16 general surgery trainees and residents to conve
 - [Naïve surgical residents show a wide baseline range of laparoscopic skill, and a single repeated cholecystectomy alone yields minimal improvement](wide-baseline-skill-range-minimal-control-gain.md) — related
 - [VR simulator training improves laparoscopic surgical speed and accuracy compared with traditional training, per the review's cited study](vr-laparoscopic-training-speed-accuracy-review.md) — related
 - [LSPPDM-based laparoscopic training improved technical and non-technical skills versus traditional training](lsppdm-improves-laparoscopic-training-outcomes.md) — related
+- [Video-based SA training with interposed questions improves post-test OSATS performance in laparoscopic novices](sa-video-training-improves-osats.md) — related
+- [Trainees with additional virtual reality simulator training performed significantly more surgical steps without supervisor intervention than the other groups](vr-group-more-steps-without-supervisor-intervention.md) — related

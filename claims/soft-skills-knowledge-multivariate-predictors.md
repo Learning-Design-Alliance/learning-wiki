@@ -89,3 +89,4 @@ Same logistic regression model: "SS training also significantly influenced SS kn
 - [Providers with 6-10 years of service had higher odds of good partograph knowledge than those with less than one year](six-ten-years-service-higher-odds-partograph-knowledge.md) — reports the opposite
 - [Working position and department policy, not age, nationality, experience or confidence, predicted consistent SCMR knowledge in multivariate logistic regression](position-and-policy-predict-consistent-scmr-knowledge.md) — reports the opposite
 - [Prior real-life emergency encounters strongly predict good BLS/CPR knowledge among dentists (aOR = 12.97)](emergency-encounter-predicts-bls-knowledge.md) — related
+- [Nurses with a master's degree had almost four times higher odds of good practice regarding ACS care than nurses with a bachelor degree (AOR=4.258)](masters-degree-associated-good-acs-practice.md) — related

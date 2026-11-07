@@ -50,3 +50,4 @@ Latent mean analysis across all three modality pairs with rotated reference grou
 - [The IQ→LS and PU→CI paths were strongest in the conventional online course model](iq-ls-and-pu-ci-strongest-in-coc.md) — related
 - [Asynchronous lessons were rated higher than synchronous lessons on the POET-O](poet-o-asynchronous-rated-higher-than-synchronous.md) — related
 - [Synchronous online discussions produce higher behavioral, emotional, and cognitive engagement than asynchronous online discussions in online math courses](synchronous-discussion-increases-engagement.md) — related
+- [Asynchronous and synchronous e-learning produce no difference in total clinical record writing quality among speech therapy students](async-sync-no-difference-cr-total-score.md) — related

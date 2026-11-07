@@ -71,3 +71,4 @@ Reverse preference question from the same survey: conventional methods remained 
 - [Stakeholders prefer students experience social prescriptions in real nature with community organizations, viewing VR as an addition rather than a replacement](prefer-direct-nature-experience-over-virtual.md) — related
 - [Students preferred continuing the course in VR over the manikin format](students-prefer-vr-over-manikin-format.md) — related
 - [Participants unanimously perceived the PBL-VR module as a supplement to, not a replacement for, traditional in-person instruction](participants-perceive-pbl-vr-as-supplement-not-replacement.md) — related
+- [Teachers hold a positive view of VSP-TCM as a cost-effective adjunct that should be built around syndromes rather than diseases](teachers-positive-vsp-tcm-perspective.md) — related

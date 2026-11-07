@@ -68,3 +68,4 @@ The authors attribute the insecurity to "the perception that this is not a routi
 - [Availability of materials, adequate physical structure, service routine and work processes are reported as determining factors for arrest care in Primary Health Care.](work-processes-materials-determine-phc-cpa-care.md) — related
 - [Soft skills of leadership, agility, security, emotional control, focus, attention and sense of belonging emerged as relevant to arrest care in Primary Health Care.](soft-skills-phc-cpa-care.md) — related
 - [Healthcare professionals in tertiary hospitals had significantly higher odds of high knowledge-based BLS competency than those in primary hospitals.](tertiary-hospital-higher-bls-competency-than-primary.md) — related
+- [Nursing professionals showed insufficient baseline CPR knowledge and skills before training despite frequent exposure to resuscitation situations](cpr-baseline-deficits-nursing-professionals.md) — related

@@ -47,6 +47,7 @@ The brief recommends schoolwide policies, practices, and programs that make educ
 - [Provide targeted intensive supports for educators at elevated risk, including check-ins, buddy systems, and fast-access mental health services](targeted-intensive-educator-mental-health-supports.md)
 - [Address educator wellbeing structurally: institutional policies and collective responsibility rather than individual enforcement](structural-support-educator-wellbeing-ai.md)
 - [Foster a supportive organizational climate through a university-department-supervisor tri-level linkage](tri-level-organizational-climate-support.md)
+- [Provide dedicated well-being supports such as Wobble rooms and junior doctor forums for redeployed staff](wobble-rooms-junior-doctor-forums-wellbeing.md)
 
 ## Examples
 -

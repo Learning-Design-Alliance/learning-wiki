@@ -53,3 +53,4 @@ The authors' interpretation of false classifications: experienced participants c
 - [GPT-4 scoring errors clustered on multiple possible answers, unrecognized vocabulary, and missed incorrect or missing answers, while faculty were overly generous graders](gpt4-faculty-error-patterns-oeq-scoring.md) — related
 - [A Contrasting Groups' Method pass/fail standard of 34.0 points completely discriminated between novices and experienced surgeons, with no false positives or false negatives](cgm-cut-score-34-complete-discrimination-drf.md) — reports the opposite
 - [A contrasting groups' method sets a 70% pass/fail score with one false positive and no false negatives](contrasting-groups-pass-fail-70-camera-navigation.md) — related
+- [Contrasting groups' standard setting establishes a pass-or-fail score of 19 points, with 19% false positives among novices and 5% false negatives among experienced students](vr-contrasting-groups-pass-score-19.md) — related

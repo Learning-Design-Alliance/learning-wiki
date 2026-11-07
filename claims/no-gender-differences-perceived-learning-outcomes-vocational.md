@@ -97,3 +97,4 @@ Independent-samples t-test comparing male (n = 388) and female (n = 722) student
 - [Knowledge scores rose from pre-test to post-test after the STP, with significantly larger gains among female participants, 30-39-year-olds, and physiotherapists with 6-10 years' experience in a single-group pre-post study](stp-knowledge-gain-demographic-moderators.md) — reports the opposite
 - [No significant gender differences in examination performance within any of the three teaching-modality groups](no-gender-difference-anatomy-modality-groups.md) — related
 - [Evaluation scores differed significantly by demographics: female, younger, and undergraduate students rated e-learning quality higher](elearning-quality-demographic-differences.md) — reports the opposite
+- [Graduating GPA did not differ significantly between male and female students except within the Makrumah pathway, where male students performed better](no-gender-gpa-difference-except-makrumah.md) — related

@@ -56,3 +56,4 @@ Multivariable binary logistic regression with GPA as low (≤3.5–4) versus hig
 - [Trait anxiety, GAD symptoms, social anxiety and anxiety sensitivity do not predict any school grades after controlling for other predictors](four-anxiety-measures-predict-no-grades.md) — related
 - [Physical activity and sleep quality independently predict GPA after adjusting for age and BMI, whereas BMI does not](pa-sleep-independent-gpa-predictors-regression.md) — reports the opposite
 - [No predictors reached conventional statistical significance for academic referral status in the multivariable logistic regression](no-significant-predictors-referral-status-ghana-nursing.md) — related
+- [Waterpipe smoking, physical activity, and BMI relate to academic achievement in bivariate analysis but do not remain significant in the multivariable model](bivariate-only-health-factors-saas.md) — related

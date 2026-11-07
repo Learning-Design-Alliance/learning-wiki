@@ -60,3 +60,4 @@ KJ-method qualitative descriptive analysis of open-ended responses from all 20 p
 - [Several included studies found no significant difference between haptic VR and conventional dental training, rather than an advantage for VR](ir-dental-equivalence-mixed-findings.md) — related
 - [AR/VR training shows equal or superior outcomes versus conventional training in dental and OMFS education](arvr-noninferior-or-superior-dental-omfs-training.md) — related
 - [VR neurosurgical simulators show favourable visual realism but low haptic fidelity, with only 12% of participants in one study agreeing haptics were realistic](vr-neurosurgical-simulators-low-haptic-fidelity.md) — related
+- [Dental students report positive perceptions of Mirrosistant training, especially improved direction and distance perception](student-positive-perceptions-mirrosistant.md) — related

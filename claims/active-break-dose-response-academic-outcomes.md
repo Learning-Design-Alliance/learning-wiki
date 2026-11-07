@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2017
+source_checked: 2026-11-07
 sources:
   - id: watson-amanda-2017
     resource: "https://doi.org/10.1186/s12966-017-0569-9"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q2` · `i1` small
-> **Currency** · newest study 2017 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2017 · checked against its sources 2026-11-07 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i1` On-task behaviour significantly improved after the 10-min active break condition, and math scores were highest after the 10-min (ES = 0.24) and 20-min (ES = 0.27) conditions. [→ Watson Amanda 2017](#watson-amanda-2017)
@@ -56,7 +57,7 @@ Watson Amanda, Timperio Anna, Brown Helen, Best Keren, Hesketh Kylie D. (2017). 
 
 `q2 · i?` · `quant-synthesis · r3`
 
-Narrative synthesis of two dose studies: Janssen et al. compared no break, passive, moderate- and vigorous-intensity 15-min breaks, and Altenburg et al. compared once- versus twice-daily 20-min moderate breaks, with significantly better selective attention for the twice-daily frequency; no effect sizes printed for these contrasts.
+Narrative synthesis of two dose studies: Janssen et al. compared no break, passive, moderate- and vigorous-intensity 15-min breaks, and Altenburg et al. compared once- versus twice-daily 20-min moderate breaks, with significantly better selective attention for the twice-daily frequency. The review's table gives regression coefficients rather than standardised effect sizes (a negative value means better attention): Janssen et al., moderate-intensity breaks B = −0.59 (95% CI −0.70 to −0.49) against vigorous −0.29 and passive 0.27; Altenburg et al., two bouts β = −0.26 (95% CI −0.52 to −0.004) against one bout 0.06 (95% CI −0.23 to 0.36).
 
 > "Results showed that selective attention scores improved most after the moderate-intensity active break [41]."
 

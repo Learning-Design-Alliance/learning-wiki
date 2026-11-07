@@ -62,3 +62,4 @@ Multivariable linear regression on 2,017 responses with college-or-below as refe
 - [Nurses with master's or doctoral degrees scored significantly lower in infectious disease emergency response competence than nurses with diploma or associate degrees](higher-degree-lower-competence.md) — related
 - [In a multivariate logistic model, SS knowledge is predicted by experience (OR = 0.373), a master's degree (OR = 27.451), and SS training (OR = 25.293)](soft-skills-knowledge-multivariate-predictors.md) — related
 - [Higher educational attainment was associated with better qualification up to a plateau at the doctoral level](education-level-qualification-plateau-doctorate.md) — related
+- [Nurses with a master's degree were significantly more likely to have good knowledge of ACS than Bachelor degree holders (AOR=3.801)](masters-degree-associated-good-acs-knowledge.md) — related

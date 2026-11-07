@@ -92,3 +92,4 @@ The review reports contradictory individual findings: Zhao et al (2021), Ochoa e
 - [Simulation-based training helps reduce and mitigate surgical skill decay, but its role is not yet fully investigated](simulation-mitigates-surgical-skill-decay.md) — related
 - [High-fidelity simulation improves skill acquisition and retention compared with traditional training methods](high-fidelity-sim-improves-skill-acquisition.md) — a narrower finding that bears on this claim
 - [Simulated cadaver practice does not significantly improve observed injection technique scores over lecture and video alone](no-technique-score-difference-simulation.md) — related
+- [Educator-guided D-Box simulator training enabled novices to perform acceptable wedge resection, though the educator's score advantage was not significant](educator-guided-dbox-training-novice-wedge-resection.md) — a narrower finding that bears on this claim

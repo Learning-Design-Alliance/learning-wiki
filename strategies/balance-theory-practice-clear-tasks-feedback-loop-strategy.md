@@ -52,6 +52,7 @@ The authors' recommendations for future interventions drawn from survey comments
 - [Encourage students to post comments on video feedback to complete the feedback loop and foster dialogue.](student-comments-on-video-feedback-dialogue.md)
 - [Recalibrate CPR training toward regular, simulation-based skills refreshers with real-time audiovisual feedback and instructor-led debriefing](simulation-feedback-cpr-training-recalibration.md)
 - [Implement brainstorming sessions in EFL writing lessons through small monitored groups with clarified problems, open expression, deferred judgment and fixed timing](brainstorming-session-procedures-efl-writing.md)
+- [Provide a manageable, easy-to-use e-learning offer and enable prompt practical application in small groups with instructor feedback](manageable-elearning-prompt-small-group-practice-strategy.md)
 
 ## Examples
 -

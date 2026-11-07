@@ -52,3 +52,4 @@ Secondary outcome of the randomized trial: duration from patient setup to first 
 - [VR-supplemented and purely conventional training produce no significant difference on the Standard Lumbar Puncture Rating Score or total procedure time](vr-lp-training-rating-score-and-time-null.md) — related
 - [The duration of successful lumbar punctures does not differ significantly between the bioimpedance and conventional needles](no-significant-duration-difference-bioimpedance-needle.md) — related
 - [VR-trained students were not significantly faster at performing puncture cricothyrotomy than video-trained students; the time difference reached only trend level](vr-cricothyrotomy-time-trend-not-significant.md) — related
+- [62.5% of participants had no prior lumbar puncture experience and only 2 of 40 had prior simulator-based LP training.](participant-baseline-lp-experience-low.md) — related

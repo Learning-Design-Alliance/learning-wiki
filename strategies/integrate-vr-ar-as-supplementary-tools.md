@@ -71,6 +71,7 @@ The review recommends that immersive technologies like VR and AR be used as supp
 - [Use 3D-printed patient-specific models as a complementary tool within CBL sessions on complex orthopaedic conditions](3d-models-as-complement-to-cbl-strategy.md)
 - [Use digital-human simulation as a complementary tool alongside traditional teaching for echocardiography education](digital-human-complementary-echo-teaching-strategy.md)
 - [Use interactive streamed bedside teaching as a supplement to, not a replacement for, conventional face-to-face teaching](e-visite-supplement-not-replacement-strategy.md)
+- [Incorporate VR simulation into VATS training programs as an integrative tool alongside clinical experience](vr-simulation-integrative-vats-training-strategy.md)
 
 ## Examples
 -

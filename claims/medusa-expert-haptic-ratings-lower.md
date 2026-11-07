@@ -70,3 +70,4 @@ In the same validation study, the learnability of haptic interaction with the an
 - [Content validity of the Endonix simulator is merely sufficient, with realism ratings lowest among experienced endoscopists](endonix-limited-content-validity-realism.md) — related
 - [Neurosurgical simulation models across 18 included studies received favourable face validity ratings for visual realism, but haptic realism was a key limitation](neurosurgical-simulation-face-validity-visual-favourable-haptic-limited.md) — possibly the same claim (merge candidate)
 - [The mixed-reality aneurysm clipping simulator achieved robust face and content validity, with mean questionnaire scores between 3.13 and 4.25 among 40 neurosurgeons](medusa-simulator-face-content-validity.md) — related
+- [The simulator shows face validity: overall realism rated 4.57/5 with no significant expert–novice differences](tp-simulator-face-validity-realism-ratings.md) — related

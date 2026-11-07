@@ -49,3 +49,4 @@ Self-controlled before-after trial of 76 second-year nursing undergraduates taug
 - [SDL improvement held in learning motivation, planning and implementation, and self-management, but not in interpersonal communication](sdl-dimensions-mixed-oamas.md) — a narrower finding that bears on this claim
 - [Students' final comprehensive evaluation grade averaged 78.38 ± 7.12 under the O-AMAS blended course](oamas-final-comprehensive-grade-78.md) — related
 - [Total SDL ability scores increased after a pediatric nursing course taught with Tronclass combined with team-based learning](tronclass-tbl-increased-sdl-ability-pre-post.md) — related
+- [The blended group's total independent learning ability score and its learning motivation, learn-and-collaborate, and self-management dimensions were significantly higher than the control group's](independent-learning-ability-dimensions-higher-blended-group.md) — related

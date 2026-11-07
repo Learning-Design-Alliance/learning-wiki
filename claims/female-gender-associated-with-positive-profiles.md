@@ -54,3 +54,4 @@ Multinomial logistic regression results for background variables; sex was signif
 - [Three distinct racial-mathematical identity profiles emerge among Black adolescents and are robust across two time points one year apart](three-racial-mathematical-identity-profiles-lpa.md) — related
 - [Student perceptions of school racial stereotyping are not directly associated with racial-mathematical profile membership](stereotyping-not-associated-with-profile-membership.md) — related
 - [Profile membership related to mathematics test scores at both T1 and T3, with Positive-profile students scoring highest](profile-membership-main-effect-maths-scores.md) — related
+- [Male gender and older age predict greater odds of membership in the minimal motivation and metacognitive self-regulation profile](gender-age-predict-minimal-mmsr-membership.md) — related

@@ -9,6 +9,7 @@ generated:
   at: 2026-11-06
 evidence_strength: weak
 newest_evidence: 2024
+source_checked: 2026-11-07
 sources:
   - id: fenzi-giulio-2024
     resource: "https://doi.org/10.1155/jonm/9470402"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2024 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2024 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students valued the gather–analyze–summarize debriefing with plus/delta analysis as a supportive environment for positive error analysis, unlike teacher-feedback-only debriefing. [→ Fenzi Giulio 2024](#fenzi-giulio-2024)

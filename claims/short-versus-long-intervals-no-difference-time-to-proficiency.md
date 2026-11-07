@@ -49,3 +49,4 @@ Single-center randomized superiority trial; 39 medical students randomized 1:1 t
 - [Both schedule groups reached proficiency significantly faster at the retention test than during initial training, with no between-group difference in retention level](retention-test-faster-than-initial-training-no-group-effect.md) — related
 - [Spaced trainees completed endoscopic exercises 18.7% faster than massed trainees in Verdaasdonk et al.](verdaasdonk-spaced-18-7-percent-faster-endoscopic.md) — related
 - [Spaced VR simulator training yields better performance and faster skill acquisition than massed training for surgical psychomotor skills](spaced-vr-training-superior-to-massed-surgical-psychomotor.md) — related
+- [After using the low-cost laparoscopy simulator, 76.4% of medical students reported acquired confidence in performing video-surgical procedures, up from 2% initially feeling safe (p<0.0001)](low-cost-laparoscopy-simulator-increased-student-confidence.md) — related

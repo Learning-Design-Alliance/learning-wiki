@@ -66,3 +66,4 @@ Thematic analysis of open-ended comments on shadowing; common negative themes we
 ## Related Claims
 - [The scGY program affirmed or strengthened most participants' intent to pursue a healthcare career, while helping a few rule the path out](scgy-career-affirmation-and-exploration.md) — related
 - [scGY participants who matriculated into professional school self-report feeling more or much more prepared than peers who did not complete a gap year](scgy-self-reported-preparedness-vs-peers.md) — related
+- [Senior medical students rated the pilot robotic training as valuable and increasing preparedness for surgical sub-internships and surgical training](students-rate-robotic-training-valuable-preparedness.md) — related

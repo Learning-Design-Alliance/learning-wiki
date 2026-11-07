@@ -68,3 +68,4 @@ The editorial reports, citing Ma, Zhang, Ni and Zhou, a latent profile analysis 
 - [Cooperative learning benefits both low- and high-proficiency EFL students in the Chinese context](cooperative-writing-benefits-all-proficiency-levels.md) — related
 - [Latent profile analysis identifies four AI-context learner subgroups — Active Adopters, Cognitively Advanced but Constrained, Passive Followers, and Disengaged — with markedly different self-directed learning levels](four-latent-profiles-ai-context-sdl.md) — related
 - [Latent profile analysis of Chinese clinical nurses' medication safety competence yields four distinct profiles](four-latent-profiles-medication-safety-competence-nurses.md) — related
+- [Greek secondary students' motivational beliefs and metacognitive self-regulation form three synergistic profiles, with no incompatible motivation–metacognition profiles emerging](three-synergistic-motivation-metacognition-profiles.md) — related

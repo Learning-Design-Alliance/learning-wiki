@@ -51,3 +51,7 @@ Post-course student feedback questionnaire (chi-square tests on Likert items) in
 - [PA-PBL and control students reported comparable course satisfaction and self-evaluated competencies](pa-pbl-control-comparable-subjective-evaluations.md) — related
 - [Both SP-TCM groups outperformed the TT group on summative online knowledge test, TCM technology application, and real-time assessment scores](sp-tcm-summative-assessment-advantage.md) — related
 - [Both SP-TCM groups scored higher than the TT group on written medical records and TCM syndrome differentiation and therapeutic regimen](sp-tcm-written-records-syndrome-differentiation-advantage.md) — related
+- [Trainees in both SP groups reported more favorable post-training feedback than TM trainees across multiple perceived outcomes](sp-groups-more-favorable-post-training-feedback.md) — possibly the same claim (merge candidate)
+- [SP-based simulation improved TCM syndrome differentiation and therapeutic regimen scores, with the SSP-TCM advantage not significant in 2018](sp-simulation-improves-syndrome-differentiation-scores.md) — related
+- [Both SSP-TCM and OSP-TCM simulation training improved TCM clinical skills performance relative to traditional didactic training](sp-simulation-improves-tcm-clinical-skills.md) — related
+- [Students trained with VSP-TCM report greater gains in TCM thinking, history collection, communication, and autonomous learning than traditionally trained students](vsp-tcm-student-feedback-gains.md) — related

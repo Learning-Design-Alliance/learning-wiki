@@ -51,3 +51,4 @@ In model 3 of the linear mixed models for females, the parental-mental-disorder 
 - [In a Norwegian population sample, 18.8% of children experience a parent with an internalizing disorder diagnosis in the last three years of compulsory education (11.5% in an average year).](parental-internalizing-prevalence-norway.md) — related
 - [Observational associations between parental symptoms and children's maths and reading scores are small and negative](small-observational-parental-symptom-achievement-associations.md) — related
 - [The school-performance gap between non-immigrant and second-generation immigrant children in Sweden increased between 2010 and 2020 in the unadjusted model, more among males than females](sweden-school-gap-increase-second-generation.md) — related
+- [Children with cataract score significantly lower in pooled mathematics tests after adjustment for confounders](cataract-children-lower-pooled-mathematics-scores.md) — related

@@ -55,3 +55,4 @@ Randomized controlled single post-test trial with 78 students completing the tes
 - [Theory-based EBP teaching improved EBP skills, with fluctuations over time and mixed results for distinguishing credibility of online sources](ebp-skills-gains-fluctuations.md) — related
 - [An online nutrition course increased family medicine residents' nutrition knowledge test scores (p = 0.027) in a small pre-post study](online-nutrition-course-knowledge-increase-residents.md) — a narrower finding that bears on this claim
 - [Self-reflection prompts improve post-training theoretical knowledge in a brief online asynchronous training module (medium effect)](self-reflection-improves-knowledge-quiz-gains.md) — related
+- [E-learning as pre-course preparation yields higher pre-course knowledge than written course material in resident anaesthetists (mean difference 1.8 points, p = .002)](elearning-precourse-knowledge-superiority.md) — related

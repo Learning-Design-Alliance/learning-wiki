@@ -52,3 +52,4 @@ Focus group finding interpreted through social positioning theory: balancing the
 - [Low psychological readiness and fear of complications cause hesitancy and referral preferences among junior staff administering MgSO4](low-confidence-mgso4-hesitancy.md) — related
 - [Group supervision is valued because aquatic physiotherapy is a specialised area practised infrequently, leaving little other dedicated reflection time](specialised-infrequent-practice-drives-supervision-value.md) — related
 - [Junior nurses hesitate to seek guidance from senior colleagues and physicians about medication procedures, creating error risk](junior-nurse-communication-hesitation-medication-errors.md) — related
+- [Students were initially hesitant about student-led interactive sessions, with tutorial attendance 5% lower than traditional lecture delivery before engagement rose](initial-student-hesitancy-pbl-sessions.md) — related

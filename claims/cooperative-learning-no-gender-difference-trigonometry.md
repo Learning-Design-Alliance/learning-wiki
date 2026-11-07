@@ -65,3 +65,4 @@ Within the cooperative learning group (Table 6: 37 males, 33 females), females' 
 - [Female participants report slightly higher overall retrospective CRM learning gains than male participants](gender-difference-retrospective-crm-gain.md) — related
 - [Male students score higher on average in mathematics achievement than females in both grades in descriptive comparisons](gender-descriptive-achievement-gap-grades-10-11.md) — reports the opposite
 - [Gender differences in skill scores were not statistically significant overall, though female participants in one group scored lower at retention](gender-score-differences-null-with-one-retention-exception.md) — related
+- [Graduating GPA did not differ significantly between male and female students except within the Makrumah pathway, where male students performed better](no-gender-gpa-difference-except-makrumah.md) — related

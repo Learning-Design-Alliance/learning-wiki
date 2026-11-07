@@ -54,3 +54,4 @@ Safety errors (pedicle breaches, collisions) were auto-flagged by the IMR system
 - [Virtual reality training improves OSATS scores compared with no additional training for junior trainees in laparoscopic cholecystectomy](vrt-improves-osats-versus-nat-laparoscopic-cholecystectomy.md) — related
 - [IMR-SS shows no advantage over a digital textbook for theoretical knowledge of pedicle screw placement](imr-ss-no-theoretical-knowledge-advantage.md) — related
 - [IMR-SS trainees show significantly smaller transverse screw placement angles in the unassisted assessment session](imr-ss-smaller-transverse-angle-assessment.md) — related
+- [SA training reduces errors in laparoscopic cholecystectomy without lengthening procedure time](sa-training-reduces-errors-same-time.md) — related

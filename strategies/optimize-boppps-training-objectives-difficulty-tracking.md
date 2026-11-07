@@ -51,6 +51,7 @@ The article recommends that future implementations focus on "dynamically refinin
 - [Prioritize multicenter, randomized designs with standardized reporting and longitudinal follow-up in future surgical education research](prioritize-multicenter-randomized-standardized-reporting-research.md)
 - [Maintain a difficulty-classified dynamic case bank and rotate group roles to counter implementation challenges](case-bank-role-rotation-strategies.md)
 - [Design room of horror exercises with realistic room design, group sizes below four, and repetition with increasing complexity across the programme](roh-design-realistic-rooms-small-groups-repetition.md)
+- [Refine robotic student training by shortening the IS-led overview, adding console practice time, and clarifying simulation guidance](robotic-course-refinements-more-simulation-guidance.md)
 
 ## Examples
 -

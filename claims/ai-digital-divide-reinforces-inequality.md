@@ -111,3 +111,4 @@ This is a conceptual policy paper drawing on the literature and international po
 - [Young new farmers show high acceptance and proficiency with digital technologies and platforms.](young-new-farmers-digital-technology-acceptance.md) — related
 - [The SIAPeC Quiz revealed a gap in digital resource literacy among trainees](siapec-quiz-digital-resource-literacy-gap.md) — related
 - [Web-SPs and telesimulation face constraints in technological accessibility, internet stability, user confidence, and digital literacy](web-sp-technical-and-literacy-constraints.md) — a narrower finding that bears on this claim
+- [Remote assessment of low-stake skills was viewed as comparable to in-person assessment and able to standardise competency assessment](remote-assessment-standardises-low-stake-competency.md) — related

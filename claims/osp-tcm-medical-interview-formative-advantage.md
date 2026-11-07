@@ -50,3 +50,5 @@ Formative mini-CEX medical interview domain in the three-group RCT (n = 30 per g
 - [Both SP-TCM groups outperformed the TT group on summative online knowledge test, TCM technology application, and real-time assessment scores](sp-tcm-summative-assessment-advantage.md) — related
 - [Both SP-TCM groups scored higher than the TT group on written medical records and TCM syndrome differentiation and therapeutic regimen](sp-tcm-written-records-syndrome-differentiation-advantage.md) — related
 - [Most teachers favored FSP-TCM: 83% were willing to continue using it and 91.66% agreed it supplements bedside teaching and reduces costs](teachers-favor-fsp-tcm-continuation.md) — related
+- [SP-based simulation improved TCM syndrome differentiation and therapeutic regimen scores, with the SSP-TCM advantage not significant in 2018](sp-simulation-improves-syndrome-differentiation-scores.md) — related
+- [VSP-TCM training improves formative mini-CEX scores in medical interviewing, clinical judgment, and comprehensive ability versus traditional academic training](vsp-tcm-formative-mini-cex-gains.md) — related

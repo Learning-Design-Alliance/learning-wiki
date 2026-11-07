@@ -55,3 +55,4 @@ Kirkpatrick level 1 questionnaire completed by the 13 participating nurses and p
 - [Participants most cited improved teamwork and exposure to rare clinical scenarios as key benefits](simulation-participants-valued-teamwork-and-rare-scenario-exposure.md) — related
 - [Participants overwhelmingly perceived the interprofessional in situ simulation program as a medical education tool that could improve patient safety culture](simulation-perceived-improving-safety-culture.md) — related
 - [House officers attribute the effectiveness of psychiatric emergency simulation to realistic immersive scenarios, equipment practice, and peer learning in a safe environment](qualitative-realism-immersion-peer-learning-feedback.md) — related
+- [Participants report that realism and fidelity in SBTT are important for learning outcome and transfer of learning](sbtt-realism-fidelity-learning-outcome.md) — related

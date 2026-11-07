@@ -58,3 +58,4 @@ Random effects meta-analysis of Pearson correlations between OSCE station scores
 - [A significant positive correlation exists between OSCE performance and self-reported knowledge and skill levels](osce-correlates-self-reported-competence.md) — related
 - [Overall OSCE internal consistency is acceptable but varies widely across stations](osce-internal-consistency-varies-across-stations.md) — related
 - [Cronbach's alpha is below 0.7 for every competency scale, which the authors attribute to the heterogeneity of SJT domains](sjt-cronbach-alpha-below-07-per-competency.md) — related
+- [First impression ratings formed a moderately internally consistent scale across MMI stations (α = 0.71), about equal to the internal consistency of MMI performance ratings (α = 0.69)](fir-internal-consistency-alpha-071.md) — related

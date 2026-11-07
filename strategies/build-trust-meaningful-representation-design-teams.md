@@ -49,6 +49,7 @@ This strategy governs the first activity phase, forming design teams. It has two
 - [Build personal connections and find common ground in research-practice partnerships](personal-connections-rpp-common-ground.md)
 - [Build community-wide foundations before implementation through knowledge exchanges and planning meetings across sites](pre-implementation-community-knowledge-exchanges.md)
 - [Weekly design meetings as key sites of teacher inquiry, collaboration, and knowledge creation](weekly-design-meetings-teacher-inquiry.md)
+- [Run icebreaking activities before formal team activities to build trust and intimacy among newly formed teams](icebreaking-before-team-activities-strategy.md)
 
 ## Examples
 -

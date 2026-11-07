@@ -50,3 +50,4 @@ Exploratory questionnaire (Table 2, n = 122) after simulator training in both gr
 - [AR and haptic feedback simulation training did not significantly improve lumbar puncture success rates compared to traditional bedside teaching](ar-simulation-no-lp-success-rate-improvement.md) — related
 - [Peyton's 4-step method and \"see one, do one\" produce no statistically significant difference in change in student confidence after a simulated lumbar puncture workshop](peyton-vs-see-one-do-one-no-confidence-change-difference-slp.md) — related
 - [VR-supplemented and purely conventional training produce no significant difference on the Standard Lumbar Puncture Rating Score or total procedure time](vr-lp-training-rating-score-and-time-null.md) — related
+- [62.5% of participants had no prior lumbar puncture experience and only 2 of 40 had prior simulator-based LP training.](participant-baseline-lp-experience-low.md) — related

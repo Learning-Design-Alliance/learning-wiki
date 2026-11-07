@@ -52,3 +52,5 @@ Single-center validation trial comparing 12 novice medical students with 12 expe
 - [Performance scores increased significantly with surgical experience, demonstrating strong construct validity](construct-validity-performance-scores-experience.md) — related
 - [A Leap Motion Controller-based system discriminated expert from novice surgical knot-tying performance with 100% accuracy, supporting construct validity for objective dexterity assessment](lmc-construct-validity-dexterity-assessment.md) — related
 - [Gamified test scores correlate significantly with technical aptitude test scores (r=0.46), remaining significant after controlling for video game experience (semipartial r=0.38)](gba-technical-aptitude-correlation.md) — related
+- [LapSim VATS lobectomy metrics (time, blood loss, total instrument path length) discriminate experienced surgeons from novices](lapsim-metrics-discriminate-novice-expert-vats.md) — a narrower finding that bears on this claim
+- [VR-based MCQ test scores discriminate significantly between medical students of three different emergency medicine experience levels](vr-mcq-scores-discriminate-experience-levels.md) — related

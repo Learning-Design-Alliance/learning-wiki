@@ -59,6 +59,7 @@ The authors propose a pragmatic reform model in which simulation is an "on-ramp"
 - [Use Entrustable Professional Activities (EPAs) to standardise assessment of trainee independence in clinical skills](epas-standardise-trainee-assessment.md)
 - [Use VR sensitive-exam rehearsal as a stepwise bridge from non-immersive simulation toward live-patient practice, accompanied by physical models and standardized patients](vr-bridge-simulation-to-live-patient.md)
 - [Implement simulation-based learning and AR/VR in LMIC postgraduate dental programs through stakeholder investment, equitable access, and comprehensive training](lmic-sbl-integration-steps-prosthodontics.md)
+- [Adopt a step-wise approach to technology integration in clinical skills teaching, starting with simple familiar tools matched to learning outcomes](stepwise-technology-integration-clinical-skills.md)
 
 ## Examples
 -

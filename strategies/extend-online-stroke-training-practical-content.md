@@ -42,7 +42,8 @@ Based on participants' improvement suggestions from the qualitative interviews, 
 - [Qualitative interviews identified three themes: positive feedback and experience, limitations of the STP, and applicability of the training](../claims/stp-qualitative-themes-experience-limitations-applicability.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Before disseminating an e-learning program, condense already-known content, keep statistically grounded explanations, and offer a face-to-face alternative](condense-elearning-content-offer-face-to-face-alternative.md)
 
 ## Examples
 -

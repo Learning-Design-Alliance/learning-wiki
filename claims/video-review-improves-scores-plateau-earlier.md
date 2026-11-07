@@ -78,3 +78,6 @@ The review's discussion of the video-review study reports improved accuracy with
 - [The VR group scored significantly lower than controls at week 2, reflecting an initial learning curve with the VR system](vr-initial-learning-curve-week-2.md) — related
 - [3D VR acclimatisation shortens simulator completion time and reduces instrument path length versus 2D video](3d-vr-reduces-path-length-and-time.md) — related
 - [Performance in the VR suture training improved with practice repetitions but reached a plateau after 2 to 4 practices](vr-suture-practice-plateau.md) — related
+- [Video-prepared trainees also scored significantly higher on efficiency (time, economy of motion, workspace range) than control trainees](educational-video-raises-robotic-simulation-efficiency-score.md) — related
+- [Surgical trainees who watched an educational video before robotic simulation training achieved significantly higher overall scores across ten cycles than trainees who did simulation alone](educational-video-raises-robotic-simulation-overall-score.md) — possibly the same claim (merge candidate)
+- [CUSUM analysis of time-to-completion shows the video group reached a learning-curve plateau within two cycles versus four cycles for the control group](educational-video-shortens-cusum-learning-curve.md) — possibly the same claim (merge candidate)

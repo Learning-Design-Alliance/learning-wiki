@@ -69,3 +69,4 @@ Same regression set predicting negative feelings in the national survey. The art
 - [After controlling for selection factors and EduYears GPS, genetic differences between school types disappear and school type explains less than 1% of GCSE variance (down from 7%)](school-type-explains-under-1-percent-gcse-after-controls.md) — related
 - [Demographic covariates showed modest baseline differences by age, ethnicity, and gender but no difference in rate of change](demographic-covariates-baseline-no-change-rate-difference.md) — a narrower finding that bears on this claim
 - [Demographic covariates explain less than 15% of within-school variance in science test scores but much more at the school level](demographics-explain-under-15-percent-within-school.md) — related
+- [Age and ethnicity significantly predicted PBL group interactions while gender did not](age-ethnicity-predict-interaction-gender-does-not.md) — related

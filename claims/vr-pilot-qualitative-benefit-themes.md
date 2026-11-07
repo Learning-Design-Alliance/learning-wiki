@@ -70,3 +70,4 @@ Braun and Clarke thematic analysis of two post-course focus groups (five and six
 - [Students most valued the safe simulated learning environment, hands-on practice, and learning EFAST indications in the curriculum](simulated-environment-valued-efast-training.md) — related
 - [Free-text feedback on the US-PIVC course clusters around technical skills, improved confidence, clinical utility and future use, with praise for interactivity and repeated practice](us-pivc-course-feedback-themes.md) — related
 - [Students saw virtual patients as a safe, standardised complement to clinical rotations that guarantees exposure to representative diagnoses](vp-potential-safe-standardised-rotation-complement.md) — related
+- [Simulated high-stakes scenarios with moulage shifted students into observational roles, revealing affective-domain barriers](moulage-scenarios-affective-domain-observational-roles.md) — related

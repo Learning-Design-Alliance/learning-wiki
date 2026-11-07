@@ -70,3 +70,4 @@ Per-unit analysis across all cohorts (Tables 8A/8B) found theoretical examinatio
 - [Practical examination first-term passing rates remained below pre-pandemic levels in both the online and first post-lockdown cohorts](practical-passing-rates-remained-below-prepandemic.md) — related
 - [Polish Division and English Division examination performance differed significantly in 34 of 48 compared examinations, requiring separate analyses](pd-ed-scores-differed-34-of-48-examinations.md) — related
 - [Professionalism scores increased after COVID-19, but the increase was not statistically significant](covid-nonsignificant-increase-professionalism-dental-rotations.md) — related
+- [In 2022/23 the Blood Science unit showed higher first-attempt pass rates (+14%) than other biomedical science units, but no comparable assessment data exist for earlier cohorts](blood-science-first-attempt-pass-rates-14-percent.md) — related

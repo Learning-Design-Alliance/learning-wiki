@@ -52,3 +52,4 @@ Descriptive analysis of 14 physiotherapists' follow-up phone-call transcripts, e
 - [Physiotherapists' open discovery-question responses rose from 20 to 78 of 92 responses immediately after MECC HCS training, in one group with no comparison group](mecc-hcs-response-style-shift-post-training.md) — related
 - [At 6-month follow-up, MECC HCS-trained physiotherapists used significantly more open discovery questions than untrained treatment-as-usual physiotherapists](mecc-hcs-trained-vs-tau-odq-6month.md) — related
 - [The STP significantly increased physiotherapists' confidence in carer education, outcome measures, goal-setting and telerehabilitation, but not in supporting patients prior to discharge](stp-confidence-gains-four-of-five-items.md) — related
+- [Items measuring listening, respect, and answering questions showed no interaction effects in any setting](snapps-no-effect-respect-items.md) — related

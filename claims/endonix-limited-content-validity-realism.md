@@ -49,3 +49,4 @@ Likert-style survey on simulator realism after module completion in the congress
 - [VR neurosurgical simulators show favourable visual realism but low haptic fidelity, with only 12% of participants in one study agreeing haptics were realistic](vr-neurosurgical-simulators-low-haptic-fidelity.md) — related
 - [Nursing students express positive perception of preclinical maternity simulation sessions, with objectives and information rated highest and fidelity/realism rated lowest](positive-perception-preclinical-maternity-simulation.md) — related
 - [Experts rated the haptic interaction between instruments and artificial anatomy as less realistic and less learnable than intermediates and novices did](medusa-expert-haptic-ratings-lower.md) — related
+- [The simulator shows face validity: overall realism rated 4.57/5 with no significant expert–novice differences](tp-simulator-face-validity-realism-ratings.md) — related

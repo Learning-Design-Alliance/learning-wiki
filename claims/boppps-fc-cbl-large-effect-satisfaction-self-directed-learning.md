@@ -78,3 +78,4 @@ Randomised trial of 38 general-practice residents (19 per group) in one hospital
 - [Flipped classroom training significantly improved self-learning ability across self-management, learning motivation, learning-plan formulation and execution, and active learning relative to lecture-based learning](fc-improves-self-learning-ability-hemodialysis-nurses.md) — related
 - [Students taught with gamification (in a flipped learning environment or alone) were more satisfied than students taught by flipped class or lecture](gamification-methods-higher-satisfaction.md) — related
 - [Residents and the programme rated teaching quality significantly higher for the ADDIE-based flipped classroom than for traditional teaching](addie-flipped-classroom-higher-teaching-quality-rating.md) — related
+- [MPH students reported high overall satisfaction with the FC+CBL format in Introduction to Environmental Health Science](mph-high-satisfaction-fc-cbl-environmental-health.md) — related

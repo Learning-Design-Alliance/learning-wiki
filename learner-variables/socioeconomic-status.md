@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 266 claims (143 show a difference, 63 mixed, 60 no difference) · 200 studies (89 associational, 77 causal, 14 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 33 of 200 report an effect size · 265 claims rest on one study
+> **Evidence** · 267 claims (144 show a difference, 63 mixed, 60 no difference) · 201 studies (89 associational, 78 causal, 14 review, 12 quant-synthesis, 5 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 34 of 201 report an effect size · 266 claims rest on one study
 
 ## How to read this page
 
@@ -351,6 +351,7 @@ A learner's economic and social position: family income or poverty (often measur
 - [Racial/ethnic and socioeconomic score disparities increased from before to after optional exam retakes in one group with no comparison group; differences in participation were also reported](../claims/retakes-exacerbate-score-disparities.md) [+M] — an instructional effect differs by group
 - [Pell-eligible, Black, Latinx, International students, and students working jobs received lower scores on first exam attempts than reference groups](../claims/first-attempt-score-disparities.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Students who worked a job, especially more than 20 h a week, were less likely to retake exams even when retakes were offered during class time or online](../claims/working-students-less-likely-retake.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
+- [Teachers allocate lower-SES students to lower ability sets and judge them to be working at a lower level than higher-SES students](../claims/ses-bias-set-allocation-and-level.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

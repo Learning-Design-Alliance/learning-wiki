@@ -68,3 +68,4 @@ Qualitative observation for slides combining text instructions with annotated sc
 - [Multimodal LLMs outperform the OCR-based pipeline on visually dense slides, while the OCR pipeline produces comparable instruction on text-centric slides](multimodal-vs-ocr-pipeline-slide-type-comparison.md) — related
 - [The OCR-based text input uses far fewer tokens than image-based multimodal input for the same slide, making it more cost-effective](ocr-input-lower-token-cost-than-image-input.md) — related
 - [Students rate LLM-generated simplified instructions positively, averaging 7.83 on a 1-10 usefulness scale across 42 ratings in a live cybersecurity course](student-feedback-7-83-ocr-llm-instructions.md) — related
+- [Student-generated annotated e-workbooks were rated the most valuable resource for examination preparation.](student-generated-eworkbooks-best-revision-resource.md) — related

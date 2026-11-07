@@ -67,6 +67,7 @@ Bias awareness supports equitable learning environments, but the evidence base d
 - [Use external instruments rather than teacher judgment to measure learning strategies for differentiation decisions](external-instruments-measure-learning-strategies.md)
 - [Structural, school-level approaches to address teachers' explicit immigration attitudes](structural-school-level-attitude-interventions.md)
 - [Future research should measure both explicit stereotypes and implicit bias toward students with learning problems](measure-explicit-and-implicit-teacher-bias.md)
+- [Institutional debiasing: give teachers time to reflect on biases, reduce cognitive load and provide clear evaluation rubrics, and use values affirmation to lower defensiveness](institutional-teacher-debiasing-strategy.md)
 
 ## Examples
 - **Structured grading in large courses**: Instructors using analytic rubrics and anonymized submissions (common in writing-intensive MOOCs and university writing programs) to decouple evaluation from identity cues.

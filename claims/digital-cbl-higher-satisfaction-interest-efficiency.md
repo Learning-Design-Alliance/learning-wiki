@@ -59,3 +59,4 @@ Satisfaction survey of both groups in the pilot study, scored on a 5-point scale
 - [LSPPDM trainees reported higher subjective perception of the course on four of six questionnaire dimensions](lsppdm-higher-subjective-perception.md) — related
 - [Teaching satisfaction did not differ significantly between O2O/PBL and LBT trainees across five surveyed aspects](o2o-pbl-teaching-satisfaction-no-difference-nephrology.md) — reports the opposite
 - [Digital-human simulation teaching yields significantly higher student satisfaction than traditional lecturing across multiple SEEQ dimensions](digital-human-higher-satisfaction-seeq.md) — related
+- [Experimental-group students' approval rates were significantly higher than the control group's for four teaching-effect items, including creating an active classroom atmosphere](higher-approval-teaching-effect-items-blended-group.md) — related

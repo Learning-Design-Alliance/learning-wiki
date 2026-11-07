@@ -79,3 +79,4 @@ p < 0.001) followed the correlational pattern of the full scale."
 - [The MID competency scale showed acceptable model fit except for a mediocre RMSEA](mid-competency-instrument-model-fit.md) — related
 - [Excluding low-loading items yields an eight-item ACLS rubric with better CFA fit than the full ten-item form](cfa-eight-item-acls-rubric-fit.md) — related
 - [Confirmatory factor analysis showed the ten-factor admission competency model fit the data at a good-to-acceptable level](cfa-ten-factor-model-acceptable-fit.md) — a narrower finding that bears on this claim
+- [Confirmatory factor analysis supports STRICT's construct validity with acceptable fit indices](strict-cfa-acceptable-fit.md) — related

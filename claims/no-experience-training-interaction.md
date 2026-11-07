@@ -49,3 +49,4 @@ Authors' conclusion drawn from the mixed-effects analyses of nine residents. The
 - [Both video-based peer feedback and video-based expert feedback significantly improve first-year surgical residents' OSCE performance across three fundamental clinical skills](vpf-vef-significant-pre-post-improvement.md) — related
 - [The association between tachypnea detection and correct video answers varies by postgraduate year and age but not by sex](tachypnea-answer-interactions-pgy-age-sex.md) — related
 - [Video plus augmented-reality training significantly reduced total and peak wrist tremor power in neurosurgical residents over two weeks of simulator training](video-ar-training-reduces-wrist-tremor-power.md) — related
+- [Subgroup analysis finds no interaction between intervention and subgroup, though benefit appears uneven across sex and handedness](sa-training-subgroup-no-interaction.md) — related

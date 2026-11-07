@@ -50,3 +50,4 @@ Self-report questionnaire (Module 2, six items, 5-point Likert scale) on perceiv
 - [Participation in the course with the low-cost model increased residents' confidence and perceived learning about laparoscopic appendectomy](appendectomy-course-confidence-and-learned-foundations.md) — related
 - [Residents in the combined progressive-plus-imagery group had significantly higher surgical confidence and imagery-training participation scores at post-test than at pre-test](progressive-imagery-training-confidence-participation-gains.md) — related
 - [Most VR-group students reported satisfaction with the course and improved security and confidence in clinical diagnosis](vr-students-satisfaction-confidence-survey.md) — related
+- [Participants approved the simulation-based laparoscopic training program at very high rates, with module ratings of excellent or very good for all respondents](high-satisfaction-simulation-laparoscopic-program.md) — related

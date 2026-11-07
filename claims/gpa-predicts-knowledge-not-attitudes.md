@@ -54,3 +54,4 @@ ANOVA of GPA effects (Table 4) in the same experiment; the GPA–attitudes relat
 - [Engagement in data practices is associated with both cognitive and non-cognitive learning outcomes](data-practices-associated-cognitive-noncognitive-outcomes.md) — related
 - [Pretest performance and average math grade correlate with conceptual knowledge but not procedural knowledge posttest scores](pretest-grade-correlate-conceptual-not-procedural.md) — related
 - [Acquisition of non-cognitive skills showed only a weak, statistically insignificant correlation with GPA (r = 0.064)](gpa-correlation-weak-insignificant-0-064.md) — related
+- [Attitudes toward PBL, GPA, and PBL scores are positively and significantly intercorrelated](attitude-gpa-pbl-positive-correlations.md) — reports the opposite

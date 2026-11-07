@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 428 claims (284 show a difference, 100 mixed, 44 no difference) · 305 studies (110 associational, 104 causal, 42 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 7 design), `q1`–`q4` · 82 of 305 report an effect size · 416 claims rest on one study
+> **Evidence** · 431 claims (284 show a difference, 102 mixed, 45 no difference) · 306 studies (110 associational, 105 causal, 42 review, 16 theoretical, 14 quant-synthesis, 12 qualitative, 7 design), `q1`–`q4` · 82 of 306 report an effect size · 419 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -478,6 +478,9 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Student interest concentrated in emergency medicine, internal medicine and surgery, and interest was linked to better blended-teaching outcomes](../claims/content-interest-moderates-blended-outcomes.md) [+M] — learners who differ on it differ in outcomes
 - [Writing more about the interest to learn ('interest to learn' move) predicts higher master grades](../claims/interest-to-learn-move-predicts-higher-grades.md) [+M] — learners who differ on it differ in outcomes
 - [School motivation significantly positively predicts learning engagement, and learning engagement significantly positively predicts academic achievement](../claims/motivation-predicts-engagement-engagement-predicts-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [A warm demeanor in a fixed mindset teacher does not support students' growth mindset effects; warm versus firm fixed mindset teachers did not differ in the mindset–choice link](../claims/warm-demeanor-not-sufficient-for-mindset-effects.md) [-M] — an instructional effect differs with it
+- [Both growth mindset messages and structural opportunities matter: the mindset–choice link is strongest when both are growth-aligned, weakest when both are fixed, and intermediate when they are misaligned](../claims/messages-and-opportunities-jointly-moderate-mindset.md) [~M] — an instructional effect differs with it
+- [Students' growth mindset beliefs predict learning-oriented assignment choices when a hypothetical teacher provides growth mindset messages and opportunities, but not when the teacher is depicted with fixed mindset practices](../claims/teacher-mindset-practices-moderate-mindset-choice-link.md) [~M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

@@ -54,3 +54,4 @@ Same feasibility RCT, automated performance metrics aggregated across the four t
 - [Kinematic-based metrics such as reduced path length and lower instrument vibration correlate with higher rubric scores and distinguish experts from novices](kinematic-metrics-correlate-rubric-performance.md) — related
 - [Surgical novices training with 3D monitors on an open-console robotic simulator consistently outperform the 2D group on efficiency parameters](3d-monitors-outperform-2d-efficiency-hugo-ras.md) — related
 - [3D monitors show no overall advantage over 2D on error metrics in robotic simulation, except wire collisions in one exercise](3d-no-advantage-error-metrics-except-wire-collisions.md) — related
+- [3D video systems reduced task time and errors compared with 2D systems in basic endoscopic skills training](3d-video-system-reduced-time-errors-uniportal-training.md) — related

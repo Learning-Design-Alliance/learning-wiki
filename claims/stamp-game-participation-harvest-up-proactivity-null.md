@@ -68,3 +68,4 @@ Same questionnaire analysis (Table 2): proactivity 3.86 (control) vs 3.97 (exper
 - [Students in the stamp collecting game group achieved significantly higher post-rotation neonatal test scores than controls](stamp-game-higher-post-rotation-test-scores.md) — related
 - [In a pilot RCT on a neonatology rotation, students using a stamp collecting game scored higher on total self-evaluation than standard-education controls](stamp-game-higher-total-self-evaluation.md) — related
 - [Instructors rated the stamp-game group as more proactive across both clinical courses during the rotation](instructor-rated-proactivity-higher-both-courses.md) — related
+- [Participants' sense of proactiveness in responding to suspected abuse cases rose from pre-test to post-test after the e-learning program, in one single-group pre-post study with no comparison group](elearning-abuse-program-raises-proactiveness.md) — related

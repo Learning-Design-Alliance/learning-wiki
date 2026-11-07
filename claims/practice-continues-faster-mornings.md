@@ -61,3 +61,5 @@ Gross weekly comparison of Groups A (morning) and B (afternoon) from Table II. I
 - [Daily practice over three weeks reduces the first-minute advantage, with first-minute accomplishment sometimes falling below later minutes](extended-practice-reduces-initial-spurt.md) — related
 - [Late-afternoon immediate memory work shows about 2 per cent relative inefficiency compared with early morning work in 11-year-old boys](afternoon-memory-inefficiency-two-percent-winch-1911.md) — related
 - [A minority of children cease to improve and deteriorate during repeated memory tests, deterioration being concentrated among afternoon workers](individual-deterioration-afternoon-workers-winch-1911.md) — related
+- [Course grades are marginally higher for afternoon-only courses than morning-only courses, a difference the authors consider probably not meaningful](afternoon-course-grades-marginally-higher.md) — related
+- [Students with morning classes on more days of the week have a lower grade point average](more-morning-class-days-lower-gpa.md) — related

@@ -51,3 +51,4 @@ Review synthesis of satisfaction outcomes across included studies. The review re
 - [Students preferred the hybrid viva-voce format (56%) over structured (28%) and traditional (16%) formats](students-prefer-hybrid-viva-format.md) — related
 - [EDAIC Part 2 examiners experience high perceived workload (mean NASA TLX 59.61 ± 14.13), with the online format scoring higher than hybrid but comparable to face-to-face](edaic-soe-high-examiner-workload-format-comparison.md) — related
 - [Perceived workload shows no relation to marking agreement or examination scores across all formats](workload-unrelated-to-marking-agreement-and-scores.md) — related
+- [Candidates and examiners reported satisfaction, perceived fairness and trust in a remotely conducted high-stakes viva voce examination](post-exam-survey-satisfaction-fairness-trust.md) — a narrower finding that bears on this claim

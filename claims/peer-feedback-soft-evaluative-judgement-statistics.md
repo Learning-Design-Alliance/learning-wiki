@@ -84,3 +84,4 @@ Interview response from Viki, a peer feedback participant, coded under limited c
 - [Students reported AWA highlighting provoked reflection on their writing despite questioning its accuracy](awa-highlighting-provokes-student-reflection.md) — related
 - [Instructors who visibly promoted iHelp and the peer help model seemed to engender greater student engagement](ihelp-instructor-promotion-engagement.md) — related
 - [Benefits of peer-assisted learning are sensitive to the perceived expertise of peer mentors, a boundary condition identified in qualitative data](pal-boundary-condition-mentor-expertise.md) — related
+- [Students in both groups preferred peer-to-peer discussion over contacting the lecturer directly](peer-discussion-preferred-over-lecturer-theme.md) — related

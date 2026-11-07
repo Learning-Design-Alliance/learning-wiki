@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 254 claims (173 show a difference, 50 mixed, 31 no difference) · 185 studies (58 causal, 44 review, 43 associational, 16 quant-synthesis, 14 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 49 of 185 report an effect size · 247 claims rest on one study
+> **Evidence** · 255 claims (174 show a difference, 50 mixed, 31 no difference) · 186 studies (59 causal, 44 review, 43 associational, 16 quant-synthesis, 14 qualitative, 6 design, 4 theoretical), `q1`–`q4` · 49 of 186 report an effect size · 248 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -296,6 +296,7 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [Higher self-reported empathy is a positive factor for medical students' mental health](../claims/high-empathy-positive-factor-medical-student-mental-health.md) [+M] — learners who differ on it differ in outcomes
 - [Medical students with high empathy tend to prefer people-oriented specialties, though findings are mixed](../claims/high-empathy-people-oriented-specialty-preference-mixed.md) [~M] — learners who differ on it differ in outcomes
 - [Students rated PRI-E higher than LBL on ability development including critical thinking, presentation skills and interpersonal relationships](../claims/pri-e-student-ability-development-ratings.md) [+M] — measured as an outcome of the instruction studied
+- [The authors attribute the training benefit to experiential role-taking that builds empathy and patient-perspective thinking](../claims/role-reversal-empathy-mechanism-claim.md) [+W] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

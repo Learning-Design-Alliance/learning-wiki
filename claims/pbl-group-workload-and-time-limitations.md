@@ -48,3 +48,4 @@ Qualitative comments from a few respondents in the perception questionnaire, rep
 - [Experimental group students valued expert roles and group knowledge exchange but reported boredom, lack of time and uneven member preparation](jigsaw-group-opinions-expert-roles-and-drawbacks.md) — related
 - [Nurse educators report high workload and insufficient time as barriers to PBL implementation](nurse-educator-workload-time-barrier-pbl.md) — related
 - [Undergraduate dental students perceive peer collaboration and facilitator guidance as key enablers of agency, while uneven participation and inconsistent facilitation are barriers](pbl-peer-facilitator-enablers-barriers.md) — related
+- [Students formed self-initiated peer groups for peer-to-peer teaching and collaborative pamphlet writing, which reduced workload and supported learning](collaborative-peer-teaching-pamphlet-strategies.md) — related

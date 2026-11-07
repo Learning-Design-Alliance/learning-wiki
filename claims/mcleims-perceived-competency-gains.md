@@ -59,3 +59,4 @@ Multiple-response competency item completed by the 107 questionnaire respondents
 - [Lecturers and clinical instructors perceive SBE as a gap-filler that relieves overloaded curricula and congested clinical sites in Malawian nursing and midwifery education](sbe-gap-filler-overloaded-curricula-malawi.md) — related
 - [Students perceive that frequent use of SBE would sharpen lecturers' and clinical instructors' own clinical skills and knowledge](sbe-improves-educator-skill-mastery.md) — related
 - [Students report uniformly positive attitudes toward the SSC, with all reporting improved communication and comprehension](ssc-positive-student-attitudes.md) — related
+- [Students perceived foundational robotic knowledge as important to their OR role and their performance ratings from residents and faculty](foundational-robotic-knowledge-or-expectations.md) — related

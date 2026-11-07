@@ -47,3 +47,4 @@ Process evaluation finding from practitioner feedback gathered via survey and de
 ## Related Claims
 - [Some tutors, particularly those less experienced with groups of primary school children, needed more guidance, and some strings workshops struggled to keep pupils on task](asp-tutors-needed-more-guidance-strings-focus.md) — related
 - [Staff views of the interventions were more positive in schools with experienced TAs, senior staff support, and a dedicated delivery space.](reach-staff-views-favourable-implementation-conditions.md) — related
+- [The majority of BSc students said virtual microscope sessions could not be run adequately without staff present.](vm-sessions-need-staff-present.md) — related

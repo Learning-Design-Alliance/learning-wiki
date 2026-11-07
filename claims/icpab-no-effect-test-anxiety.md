@@ -54,3 +54,4 @@ Meta-analysis of two intervention samples (n = 68 students) from a single one-da
 - [In-classroom physical activity breaks show no significant effects on children's executive function and attention outcomes](icpab-no-effect-cognition.md) — related
 - [Classroom active breaks show no statistically significant effect on inhibitory control in schoolchildren](active-breaks-no-significant-effect-inhibitory-control.md) — related
 - [Preschoolers' participation in physical activity during the day is associated with better self-regulation and inhibitory control](physical-activity-associated-self-regulation-preschoolers.md) — related
+- [Classroom-based physical activity breaks improve study-approach variables (motivation, organization, flexibility, concentration) and reduce anxiety, with no change in didactic material development or attitude towards school](active-breaks-improve-study-approach-qas.md) — related

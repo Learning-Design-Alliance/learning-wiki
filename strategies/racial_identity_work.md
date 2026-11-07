@@ -113,6 +113,7 @@ Racial identity work functions as a form of [Scaffolding](../principles/scaffold
 - [Restorative Practices](restorative-practices.md) — discipline approach whose equitable use depends on examined bias
 - [Build identity safety through empathy-building, connection tools, and values affirmation routines](identity-safety-relationship-building-strategies.md)
 - [Implement anti-bias curricular models with four goals to build culturally relevant, strength-based classrooms](anti-bias-curriculum-four-goals-strategy.md)
+- [Institutional debiasing: give teachers time to reflect on biases, reduce cognitive load and provide clear evaluation rubrics, and use values affirmation to lower defensiveness](institutional-teacher-debiasing-strategy.md)
 
 ## Related Elements
 - [Individual Reflection](../elements/individual-reflection.md) — the private processing layer that precedes public dialogue

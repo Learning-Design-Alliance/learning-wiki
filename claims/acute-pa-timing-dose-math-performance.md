@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: mixed
 newest_evidence: 2019
+source_checked: 2026-11-07
 sources:
   - id: sneck-s-2019
     resource: "https://doi.org/10.1186/s12966-019-0866-6"
@@ -32,7 +33,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r3` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-07 (automated, 2 of 2 entries) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In one within-subjects experiment, math scores were higher after 10-min and 20-min exercise breaks compared with control, but not after 5-min breaks. [→ Sneck S. 2019](#sneck-s-2019)

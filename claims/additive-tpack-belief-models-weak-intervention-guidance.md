@@ -50,3 +50,4 @@ Theoretical argument in the article's review of additive TPACK–belief integrat
 - [AI knowledge and attitudes toward AI did not significantly predict teachers' AI integration ability](ai-knowledge-attitudes-not-significant-predictors.md) — related
 - [AI literacy relates to AI integration intention through a serial indirect pathway via AI-TPACK and science teaching self-efficacy](serial-mediation-ai-literacy-tpack-efficacy-intention.md) — related
 - [Prior comparative evidence shows small intention–norm and intention–control associations and a TPB model significant in Thailand but not South Africa](comparative-tpb-evidence-thailand-south-africa.md) — related
+- [Moral norm, beliefs about capabilities and beliefs about consequences influenced post-course intention, explaining about 82% of its variance](moral-norm-capabilities-consequences-predict-post-course-intention.md) — related

@@ -51,3 +51,4 @@ Qualitative arm: semi-structured interviews with 11 participants (mean duration 
 - [All interviewed interns reported that role rotation and teamwork were central benefits of the simulation-with-CBL training](role-rotation-teamwork-central-benefit-simulation-cbl.md) — related
 - [Inductive analysis of 24 empathy canvases identified 32 learning gains and 18 pain points across self-awareness, teamwork, learning efficiency, and comprehensive ability](empathy-canvas-gains-pain-points-four-dimensions.md) — related
 - [Students' VRS learning experiences formed four themes converging on a core theme of strengthening clinical patient care competencies](vrs-experience-themes-clinical-competencies.md) — related
+- [Student free comments about M-TBL fall into four categories: sense of learning efficacy, achievement of teamwork, issues related to course approach, and satisfaction with course approach](mtbl-comment-four-categories.md) — related

@@ -48,3 +48,4 @@ NASA-TLX administered after each simulated case; medians [IQR] for mental demand
 - [Beginners show higher high-frequency HRV components and lower LF/HF ratio than experts during simulated angiographies](beginners-higher-hf-components-lower-lfhf-than-experts.md) — related
 - [No significant difference in cognitive workload between novices and experienced participants across NASA-TLX domains](no-nasa-tlx-difference-novice-experienced.md) — possibly the same claim (merge candidate)
 - [Novices reported higher temporal demand, performance, and frustration on NASA-TLX subscales than experts during peg transfer training](novices-higher-tlx-temporal-demand-performance-frustration.md) — reports the opposite
+- [The VR scenarios are experienced as mentally demanding (mean NASA-TLX 13.3 of 21), and the experienced group rates its performance significantly higher than the novice group](vr-nasa-tlx-mental-demand-performance.md) — reports the opposite

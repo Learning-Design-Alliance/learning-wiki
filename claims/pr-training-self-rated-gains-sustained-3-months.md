@@ -72,3 +72,4 @@ Five-point Likert self-ratings (assigned −2 to +2) were collected before and a
 - [A 1-hour framework workshop improves faculty confidence in writing narrative evaluations, sustained at 3 months](framework-workshop-improves-faculty-confidence-sustained.md) — a narrower finding that bears on this claim
 - [proACT training increases healthcare professionals' knowledge of identifying and managing critical conditions, with sustained improvement at six months](proact-increases-knowledge-critical-conditions.md) — related
 - [proACT training increases self-confidence to identify, initially treat, and communicate critical conditions, sustained over six months, most prominently among assistant nurses](proact-increases-self-confidence.md) — related
+- [Participants report that knowledge and behaviour gains from SBTT decline without frequent training, describing learning as fresh produce](sbtt-frequency-needed-for-sustained-transfer.md) — related

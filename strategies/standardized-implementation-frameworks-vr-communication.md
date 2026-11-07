@@ -45,6 +45,7 @@ The review concludes that realizing VR's full potential requires establishing st
 
 - [Develop standardized simulation-based leadership curricula with longitudinal evaluation and multi-center randomized comparison of formats](standardized-leadership-simulation-research-agenda.md)
 - [Address theoretical grounding, longitudinal study designs, and standardized design protocols before broad implementation of GenAI virtual patients](genai-vp-theory-longitudinal-protocol-strategy.md)
+- [Standardize educational video production methodologies and conduct further studies on process organization](standardize-educational-video-production-methodologies.md)
 
 ## Examples
 -

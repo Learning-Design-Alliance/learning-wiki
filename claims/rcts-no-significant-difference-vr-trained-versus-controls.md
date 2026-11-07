@@ -52,3 +52,4 @@ Whitehurst RCT (Table 3) comparing 20 gynaecology and urology trainees trained t
 - [Dry lab training on the da Vinci Surgical System was the most common training modality in robotic surgery training studies](da-vinci-dry-lab-most-common-training-modality.md) — related
 - [VR-training group outperforms controls on dVSS simulator objective scores for most tasks](dvss-objective-scores-training-group-outperforms.md) — related
 - [VR and physical simulators show skill transferability and an additive effect when used together in urological training](vr-physical-simulator-skill-transferability-additive.md) — related
+- [Both experimental and control medical students significantly improved within-group on Sea Spikes 1 and Big Dipper Needle Driving measures between the two dVSS sessions](within-group-simnow-improvement-both-groups.md) — related

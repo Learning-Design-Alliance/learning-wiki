@@ -50,3 +50,4 @@ Multivariable logistic regression on 198 items categorized as easy (DI > 0.7, n 
 - [GenAI-assisted items had more distractor-functioning red flags — nonfunctioning and negatively discriminating distractors — although these differences were not statistically significant](genai-mcq-distractor-red-flags.md) — related
 - [Distractor efficiency is higher in MCQs than EMQs](distractor-efficiency-higher-mcqs.md) — related
 - [Distractor efficiency did not differ significantly between AI-generated and student-generated exams](distractor-efficiency-no-difference.md) — related
+- [Five-option MCQs contain substantially more non-functioning distractors than three-option MCQs](five-option-mcq-more-non-functioning-distractors.md) — related

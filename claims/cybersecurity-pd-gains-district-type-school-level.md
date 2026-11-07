@@ -49,3 +49,4 @@ Wilcoxon signed-rank subgroup analyses by district type and school level in the 
 - [Mentoring experiences did not differ statistically significantly across districts with different poverty, achievement, or rurality levels](mentoring-did-not-vary-by-district-characteristics.md) — related
 - [Rural and urban TECTA participants showed no statistically significant differences in credential attainment or time to completion](rural-urban-no-significant-difference-tecta-credential-outcomes.md) — related
 - [Knowledge gains were concentrated in module 2 and the awareness dimension: ask and action knowledge remained unchanged after the PD](cybersecurity-pd-gains-module-aaa-dimension.md) — related
+- [Help-seeking's within-school effect on literacy varies by school location: positive in urban and suburban schools, negative in rural schools](help-seeking-literacy-varies-by-location.md) — related

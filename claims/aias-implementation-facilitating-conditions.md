@@ -61,3 +61,4 @@ Theme 2 of the hybrid thematic analysis of five focus groups. Staff reported mar
 - [GenAI undermines academic integrity systemically rather than as individual dishonesty, because it optimises plausibility over truth and erodes the conditions for integrity](genai-undermines-integrity-systemically.md) — related
 - [Culturally and religiously grounded educational contexts function as sensitivity amplifiers revealing conditional dynamics of AI integration](value-based-contexts-sensitivity-amplifiers.md) — related
 - [Australian universities show an escalating trend toward contingent academic appointments and a declining trend in continuing teaching-and-research staff](contingent-academic-employment-trend-australia.md) — related
+- [Educators experienced unrecognised workload and institutional pressure when designing digital teaching resources, undermining maintenance of high standards](educator-workload-unrecognised-digital-resource-design.md) — related

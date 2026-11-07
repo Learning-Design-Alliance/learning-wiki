@@ -54,4 +54,5 @@ Review synthesis of the 17 articles (Table 3 frequencies); the discussion adds t
 - [Implementation of the OMP was hindered mainly by lack of time and workload, and facilitated by alignment with existing practice, workplace atmosphere and laminated reminder cards](omp-implementation-barriers-facilitators.md) — a narrower finding that bears on this claim
 - [TDF analysis identified Intentions and Social/Professional Role and Identity as enablers, and Environmental Context and Resources plus Memory, Attention and Decision Processes as the biggest barriers to MECC HCS implementation](mecc-hcs-tdf-barriers-enablers.md) — related
 - [Item-level analysis identifies personal responsibility for learning as the top enabler and difficulty learning in a culturally diverse milieu as the top barrier to SDL](sdl-enablers-barriers-item-analysis.md) — related
+- [Six months after courses, reported barriers to behavior adoption mapped most often to the TDF domain of environmental context and resources, while facilitators mapped most often to beliefs about capabilities and skills](tdf-barriers-resources-facilitators-capabilities-skills.md) — related
 

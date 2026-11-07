@@ -55,3 +55,4 @@ Linear regression and Pearson correlation analysis of MRT-A scores against compe
 - [Visuospatial ability showed negligible correlation with illustration scores across all three reference modalities](no-vz-illustration-score-correlation.md) — related
 - [The core predictors of seventh-grade word reading achievement differ from those predicting seventh-grade mathematics achievement](word-reading-predictors-differ-from-math-predictors.md) — related
 - [Remote one-to-one procedural training via HoloLens 2 was feasible, with no tutorials cancelled for technology issues](hololens-remote-procedural-training-feasible.md) — related
+- [Visual-spatial ability (MRT) shows no correlation with suturing skill improvement in this novice cohort](mrt-no-correlation-suturing-improvement.md) — related

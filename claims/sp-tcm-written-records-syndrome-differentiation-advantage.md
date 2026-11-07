@@ -50,3 +50,6 @@ Offline clinical skill test written medical records scores in the three-group RC
 - [The OSP-TCM group outperformed the TT group on formative medical interview scores, with no significant FSP–OSP difference](osp-tcm-medical-interview-formative-advantage.md) — related
 - [Both SP-TCM groups outperformed the TT group on summative online knowledge test, TCM technology application, and real-time assessment scores](sp-tcm-summative-assessment-advantage.md) — related
 - [Students in both SP-TCM groups reported higher satisfaction, confidence, motivation, and perceived skill gains than TT students](sp-tcm-student-feedback-advantage.md) — related
+- [SP-based simulation training produced higher written medical record quality scores than traditional didactic training](sp-simulation-improves-medical-record-quality.md) — related
+- [SP-based simulation improved TCM syndrome differentiation and therapeutic regimen scores, with the SSP-TCM advantage not significant in 2018](sp-simulation-improves-syndrome-differentiation-scores.md) — related
+- [VSP-TCM training improves summative assessment outcomes in systematic knowledge, TCM technology application, syndrome differentiation, and communication skills, but not medical writing](vsp-tcm-summative-assessment-gains.md) — related

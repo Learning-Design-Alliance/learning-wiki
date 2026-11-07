@@ -54,6 +54,7 @@ The article's first recommendation is that "Narrated case-based mobile virtual p
 - [Integrate simulation, case-based learning and self-directed methods as complements to bedside teaching rather than substitutes for direct patient contact](simulation-complementary-to-bedside-teaching.md)
 - [Use virtual simulation games as a preliminary or complementary method to face-to-face simulation and clinical practice](vsg-as-preliminary-or-complementary-simulation.md)
 - [Integrate simulation-based education into traditional lecture-based teaching during the clinical apprenticeship phase of medical imaging courses](integrate-sbe-into-tbe-clinical-apprenticeship-phase.md)
+- [Use repeatable virtual standardized patient practice with real-time feedback as a low-cost supplement to bedside and standardized patient teaching](vsp-repeatable-practice-strategy.md)
 
 ## Examples
 -

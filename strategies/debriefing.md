@@ -86,6 +86,7 @@ Debriefing operationalizes the reflection stage of experiential learning: experi
 - [Run in-situ simulation sessions in five stages from pre-briefing to immediate feedback](five-stage-insitu-simulation-session-structure.md)
 - [Structure each in situ simulation session as short interprofessional scenario practice followed by extended structured debriefing](interprofessional-sbt-with-structured-debriefing-strategy.md)
 - [Use short online game-based learning with natural frequencies and immediate feedback to teach diagnostic test interpretation](gbl-natural-frequencies-diagnosis-strategy.md)
+- [Video-based structured debriefing with a plus-delta approach immediately after each simulation scenario](video-plus-delta-debriefing-strategy.md)
 
 ## Examples
 - **Simulation-based healthcare education** — Post-scenario debriefing is considered the pedagogical heart of simulation; programs following Fanning & Gaba's framework treat the scenario as merely the stimulus for the debrief.

@@ -48,3 +48,4 @@ Comparative evaluation in the Experiments and results section: YOLOv5, YOLOv8 an
 ## Related Claims
 - [On the test set approximately 7.3% of RCFLA-YOLO predictions were false positives and 15.5% false negatives, leading the authors to recommend use as a decision-support tool rather than an independent evaluator](rcfla-yolo-error-rates-decision-support-role.md) — related
 - [The RCFLA-YOLO model based on YOLOv11m achieves 77.51% precision, 79.03% recall, 78.28% F1-score and 87.89% mAP50 for assessing root canal filling length acceptability on the RCFL dataset](rcfla-yolo-yolov11m-performance-rcfl-dataset.md) — related
+- [The Dentist automated scoring metric correlates strongly with expert dentists' ratings of root canal access outcomes](dentist-automated-scoring-metric-correlates-experts.md) — related

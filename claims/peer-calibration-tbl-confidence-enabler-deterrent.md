@@ -53,3 +53,4 @@ Descriptive qualitative focus-group analysis of 26 third-year medical students a
 - [Practice with feedback, regardless of feedback type, improves metacognitive calibration relative to lecture, reducing overconfidence by about 13 percentage points](practice-feedback-improves-metacognitive-calibration.md) — related
 - [A theoretical article, citing two simulation studies, reports that novice clinical learners overestimated their performance and that their confidence exceeded their accuracy](novice-metacognitive-calibration-deficits.md) — related
 - [Peer group preparation for exams correlated positively with self-assessment at the time of the midterm exam but not during training rounds.](peer-group-preparation-self-assessment-correlation.md) — related
+- [Students in both groups preferred peer-to-peer discussion over contacting the lecturer directly](peer-discussion-preferred-over-lecturer-theme.md) — related

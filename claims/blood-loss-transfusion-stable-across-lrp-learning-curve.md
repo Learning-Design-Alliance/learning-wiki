@@ -54,3 +54,4 @@ Kruskal–Wallis testing of estimated blood loss across the three groups (means 
 - [In a non-randomized trial, surgeons trained to proficiency on the da Vinci Skills Simulator outperformed controls in operative time and estimated blood loss, with no significant difference in GOALS scores](culligan-simulator-training-outperformed-controls-time-ebl.md) — related
 - [Length of hospital stay decreased significantly with surgical experience in laparoscopic radical prostatectomy, while catheterization duration did not change](hospital-stay-decreases-with-lrp-experience.md) — related
 - [Within the audit period, completed laparoscopic surgery showed less blood loss and shorter stay than open surgery, with no significant difference in operative time, node yield or leak rate](laparoscopic-vs-open-within-audit.md) — related
+- [Conversion to open surgery decreased across the training periods, reaching the lowest rate after SLSST](slsst-era-lower-conversion-rate.md) — related

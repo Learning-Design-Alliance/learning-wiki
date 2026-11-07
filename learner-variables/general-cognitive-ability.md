@@ -13,7 +13,7 @@ generated:
 # General Cognitive Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 213 claims (137 show a difference, 43 mixed, 33 no difference) · 146 studies (57 causal, 51 associational, 15 quant-synthesis, 13 review, 7 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 35 of 146 report an effect size · 210 claims rest on one study
+> **Evidence** · 218 claims (142 show a difference, 43 mixed, 33 no difference) · 148 studies (57 causal, 53 associational, 15 quant-synthesis, 13 review, 7 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 35 of 148 report an effect size · 215 claims rest on one study
 
 ## Description
 General cognitive ability is what intelligence and reasoning tests measure: fluid reasoning, crystallised knowledge and processing speed. It is a strong predictor of achievement, and research uses it as a covariate and as a moderator: some designs, such as highly structured instruction, help lower-ability learners more, while discovery-based designs can favour higher-ability learners (aptitude-treatment interactions). It overlaps with [prior knowledge](prior-knowledge.md) and [working memory](working-memory.md), and studies often cannot separate them.
@@ -249,6 +249,11 @@ General cognitive ability is what intelligence and reasoning tests measure: flui
 - [Preschool IQ shows a stepwise association with grade point averages at 18 years, and the association is stronger for mathematics than for language](../claims/iq-gpa-stepwise-math-stronger.md) [+W] — learners who differ on it differ in outcomes
 - [The odds of school difficulties at age 18 increase stepwise as preschool IQ decreases in children born extremely preterm or with extremely low birthweight](../claims/iq-stepwise-school-difficulties-ept.md) [+W] — learners who differ on it differ in outcomes
 - [Achievement and aptitude test scores show significant but weaker positive correlations with dental students' GPA](../claims/test-scores-weaker-positive-correlation-dental-gpa.md) [+W] — learners who differ on it differ in outcomes
+- [Polychoric correlations between cognitive ability and latent educational liability decline steadily from just under 0.75 to just above 0.65 across cohorts](../claims/polychoric-latent-educational-liability-decline.md) [+M] — learners who differ on it differ in outcomes
+- [The correlation between cognitive ability and constant educational-earnings rank roughly halves, from over 0.60 to roughly 0.35, across one generation of cohorts](../claims/cognitive-ability-constant-earnings-rank-declines.md) [+M] — learners who differ on it differ in outcomes
+- [The correlation between cognitive ability and years of schooling at age 30 declines across Norwegian male birth cohorts, from above 0.63 to under 0.50](../claims/cognitive-ability-years-of-schooling-correlation-declines.md) [+M] — learners who differ on it differ in outcomes
+- [Visual memory and spatial intelligence are significant regression predictors of anatomy scores, with visual memory the better predictor in medicine and spatial intelligence in dentistry](../claims/regression-predictors-anatomy-scores-discipline-specific.md) [+M] — learners who differ on it differ in outcomes
+- [When educational-earnings ranks are allowed to vary by cohort, the cognitive ability correlation declines further, to around 0.40 for the youngest cohorts](../claims/cognitive-ability-variable-earnings-rank-declines.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's general cognitive ability predict how well they achieve, and how much of achievement does it explain?* [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](../claims/cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) [+M]

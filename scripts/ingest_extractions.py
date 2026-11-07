@@ -17,7 +17,7 @@ the same blank `- ` placeholder bullet CLAUDE.md's own templates use for an
 unfilled section — never invented content.
 
 Principles and patterns are not written as pages (2026-10-07): each goes to the
-candidate ledger, eval/candidates/candidates.ndjson, and settle_candidates.py
+candidate ledger, eval/candidates/candidates/, and settle_candidates.py
 decides what it becomes (candidates_lib.py has the why). --direct-pages restores
 the old behaviour.
 

@@ -59,3 +59,5 @@ Post-training perception question administered to all 37 participants after both
 - [HFS participants reported higher overall satisfaction, tutor guidance, and authenticity than VR participants, though both groups were highly satisfied](hfs-higher-satisfaction-authenticity.md) — related
 - [Participants express high satisfaction with VR MCI training and motivation to repeat it](vr-mci-training-satisfaction-motivation-repeat.md) — related
 - [Students recommended blended learning with supervised skills-lab practice, peer pairing for videoing, and earlier curricular inclusion of surgical skills](student-recommendations-blended-peer-pairing.md) — related
+- [All participants reported satisfaction and perceived gains in knowledge and skills, and 78% judged the simulator effective at replicating anatomical structures](oasis-simulator-satisfaction-and-anatomical-fidelity.md) — related
+- [Dental students report positive perceptions of Mirrosistant training, especially improved direction and distance perception](student-positive-perceptions-mirrosistant.md) — related

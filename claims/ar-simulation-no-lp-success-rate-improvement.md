@@ -54,3 +54,4 @@ Per-protocol analysis of the randomized controlled trial's primary outcome: LP s
 - [VR-supplemented and purely conventional training produce no significant difference on the Standard Lumbar Puncture Rating Score or total procedure time](vr-lp-training-rating-score-and-time-null.md) — related
 - [LP skill retention at 3 months is comparable between VR-supplemented and conventional training groups, with skills declining in both groups](lp-skill-retention-comparable-three-months.md) — related
 - [Adding 10 minutes of VR training to conventional training yields overall LP proficiency comparable to 30 minutes of purely conventional training in preclinical medical students](vr-supplemented-lp-training-comparable-overall-proficiency.md) — related
+- [62.5% of participants had no prior lumbar puncture experience and only 2 of 40 had prior simulator-based LP training.](participant-baseline-lp-experience-low.md) — related

@@ -52,3 +52,4 @@ Paired pre/post analysis of self-reported confidence on a 5-point Likert scale, 
 - [Simulation-based PBLS training significantly improves specific life-support skills including airway opening, rescue breathing, and chest compression quality](simulation-pbls-improves-specific-pbls-steps.md) — related
 - [In a single-group pre-post study, learner self-reported confidence in managing coma and status epilepticus rose from pre-test to post-test after multidisciplinary simulation sessions](simulation-raises-coma-se-confidence.md) — related
 - [In one uncontrolled pre-post study, adequate pediatric CPR chest-compression technique rose from 26% to 91% among multidisciplinary hospital professionals after RCDP simulation training](rcdp-raises-adequate-pediatric-cpr-technique-26-to-91-percent.md) — related
+- [The e-learning program significantly increases participants' confidence in responding to suspected abuse cases](elearning-abuse-program-raises-confidence.md) — related

@@ -13,7 +13,7 @@ generated:
 # Mindset
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 97 claims (58 show a difference, 32 mixed, 7 no difference) · 45 studies (23 associational, 10 causal, 7 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 13 of 45 report an effect size · 95 claims rest on one study
+> **Evidence** · 101 claims (58 show a difference, 35 mixed, 8 no difference) · 46 studies (23 associational, 11 causal, 7 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 13 of 46 report an effect size · 99 claims rest on one study
 
 ## Description
 Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset holds that ability is set, a growth mindset that it can be developed. It is measured with short self-report scales. Research tests it as a predictor of achievement, as a moderator, and above all as an outcome of brief growth-mindset interventions. Large preregistered trials and meta-analyses find that the average effect of those interventions on achievement is small and concentrated in lower-achieving students in supportive settings, and that the correlation between mindset and achievement is weak.
@@ -128,6 +128,10 @@ Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset h
 - [The ULTrA fixed factor predicts more variance in every studied outcome than the original mindset measure, and adds variance explained above and beyond it](../claims/ultra-predicts-more-variance-all-outcomes.md) [+M] — learners who differ on it differ in outcomes
 - [Growth mindset mediates the effect of ethical leadership on academic achievement](../claims/growth-mindset-mediation-ethical-leadership.md) [+M] — learners who differ on it differ in outcomes
 - [Growth and fixed mindset correlate with psychosocial and academic outcomes more strongly than universality and brilliance beliefs](../claims/mindset-larger-correlations-outcomes.md) [+M] — learners who differ on it differ in outcomes
+- [A warm demeanor in a fixed mindset teacher does not support students' growth mindset effects; warm versus firm fixed mindset teachers did not differ in the mindset–choice link](../claims/warm-demeanor-not-sufficient-for-mindset-effects.md) [-W] — an instructional effect differs with it
+- [Both growth mindset messages and structural opportunities matter: the mindset–choice link is strongest when both are growth-aligned, weakest when both are fixed, and intermediate when they are misaligned](../claims/messages-and-opportunities-jointly-moderate-mindset.md) [~W] — an instructional effect differs with it
+- [Students' growth mindset beliefs predict learning-oriented assignment choices when a hypothetical teacher provides growth mindset messages and opportunities, but not when the teacher is depicted with fixed mindset practices](../claims/teacher-mindset-practices-moderate-mindset-choice-link.md) [~W] — learners who differ on it differ in outcomes
+- [The fixed-versus-growth mindset teacher moderation of the mindset–choice link replicated for comfort with academic risk-taking across all four studies, with slight differences in simple effects in a few cases](../claims/mindset-moderation-academic-risk-taking.md) [~W] — an instructional effect differs with it
 
 ## The evidence by question
 - *Do growth-mindset interventions raise achievement, and for which learners and in which settings?* [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](../claims/growth-mindset-improves-achievement.md) [+S]

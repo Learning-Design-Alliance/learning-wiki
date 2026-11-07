@@ -52,3 +52,4 @@ Randomized controlled trial of 58 fourth-year dental students randomized to blen
 - [Integrated online-PBL-CBL teaching improves overall Mini-CEX clinical competence but not its individual sub-dimensions](online-pbl-cbl-minicex-overall-competence-gain.md) — related
 - [Humanistic care-integrated Mini-CEX teaching improves Mini-CEX scores and comprehensive course performance but not the personal traits dimension](mini-cex-humanistic-care-minicex-course-gains.md) — related
 - [BOPPPS-CBL raises Mini-CEX clinical competence scores in six of seven dimensions but not physical examination skills](boppps-cbl-mini-cex-six-dimensions-higher.md) — related
+- [Up to 90% of students felt their humanistic care literacy was improved after the clinical-medicine integrated PBL course, with <36.7% feeling stressed](integrated-pbl-humanistic-care-and-stress-findings.md) — related

@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/sp-simulation-improves-tcm-clinical-skills.md
+---
+
+# Revision history: [claims/sp-simulation-improves-tcm-clinical-skills](../claims/sp-simulation-improves-tcm-clinical-skills.md)
+
+### 2026-11-07 · ingest · process:wiki-ingest
+Ingested from pmc-10074708 (Student standardized patients versus occupational standardized patients for improving clinical competency among TCM medical students: a 3-year prospective randomized study.) via eval_harness.py + ingest_extractions.py

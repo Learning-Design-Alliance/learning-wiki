@@ -54,3 +54,4 @@ RCT outcome measured with two equal-difficulty examination papers built on Bloom
 - [No significant difference between PBL-CBL and traditional groups in post-class basic knowledge or skills scores](pbl-cbl-no-difference-basic-knowledge-skills-scores.md) — reports the opposite
 - [The CBL group performed significantly better on the final exam than the non-CBL group](cbl-improves-final-exam-performance-biochemistry.md) — related
 - [CBL combined with BOPPPS yields higher theoretical knowledge scores than traditional LBL in oral and maxillofacial surgery master's students](cbl-boppps-higher-theoretical-knowledge-scores.md) — related
+- [FC+CBL students scored lower on the final exam than traditional-method students in Introduction to Environmental Health Science](fc-cbl-lower-final-exam-score-mph.md) — related

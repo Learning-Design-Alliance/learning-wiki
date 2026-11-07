@@ -47,3 +47,4 @@ Monthly questionnaire administration on simulation days collected 107 responses 
 ## Related Claims
 - [First-year medical students show elevated baseline social anxiety before any simulated patient exposure (mean LSAS 56.66 ± 26.71)](elevated-baseline-social-anxiety-first-year-medical-students.md) — related
 - [Repeated simulated patient encounters produced no significant change in state anxiety or LSAS over time among students with repeated responses](no-anxiety-reduction-repeated-simulation-exposure.md) — related
+- [No significant difference in pre-course anxiety levels between e-learning and written material groups](no-anxiety-difference-elearning-preparation.md) — related

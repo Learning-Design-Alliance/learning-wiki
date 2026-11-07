@@ -59,3 +59,5 @@ DHC class 1 on emotional regulation drew on students' self-administered question
 - [Male nursing students felt anxiety and stress during simulation due to cultural, religious and evaluative factors](simulation-anxiety-stress-cultural-evaluative-factors.md) — related
 - [After blended learning, students more often respond to emotional patient vignettes with patient-centered techniques and less often with space-reducing responses](blended-vignette-patient-centered-responses.md) — related
 - [Odds of avoiding interaction during online lectures are higher with unsatisfactory platform atmosphere, slow instructor response, not feeling safe, opposite-sex students, poor internet, and fear of negative comments](adjusted-predictors-of-interaction-avoidance-online-lectures.md) — related
+- [Mindset and emotional barriers, including fear of being tested, deter learners from participating in in situ simulation](mental-barriers-in-situ-participation.md) — related
+- [In situ SBTT provides an experience of coping after an initial failed scenario, which participants saw as significant for transfer of learning](sbtt-second-scenario-coping-experience.md) — related

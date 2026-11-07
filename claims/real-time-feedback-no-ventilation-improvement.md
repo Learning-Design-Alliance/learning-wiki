@@ -56,3 +56,4 @@ In the randomized study's 30:2 test, ventilation target compliance was 0% in bot
 - [The proportion of successful attempts on key PBLS actions rose significantly from pre-test to post-test after training, in one uncontrolled pre-post study](simulation-pbls-increases-successful-attempts.md) — reports the opposite
 - [Compression-to-ventilation ratio is the only core CPR indicator with no significant theory–practice difference](cpr-ventilation-ratio-no-theory-practice-gap.md) — related
 - [Manikin-measured ventilation time is stable from immediately after the course to 6 months, while appropriate ventilation rates show no significant change](venc-manikin-ventilation-stable.md) — related
+- [Vortex-trained students more often successfully ventilated the patient with a face mask (82.4% vs 55.6%, P=0.04) and no Vortex-group participant failed to ventilate with any device](vortex-better-face-mask-ventilation.md) — related

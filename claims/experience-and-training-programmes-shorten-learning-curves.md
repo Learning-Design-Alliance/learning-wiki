@@ -78,4 +78,5 @@ The review attributes this finding to Guend and colleagues, describing it as bas
 - [A surgeon's robotic liver resection learning curve divides into four phases: Competency (cases 1–20), Proficiency (21–30), Early Mastery (31–65), and Full Mastery (66–100)](four-phase-robotic-liver-learning-curve.md) — a narrower finding that bears on this claim
 - [Surveyed German general and visceral surgeons report very little expertise in interventions required after abdominal trauma, with highly significant trainee–specialist differences](little-expertise-abdominal-trauma-interventions.md) — related
 - [Most participating surgeons had limited TAPP herniorrhaphy experience, and a majority reported high laparoscopic volume](participant-experience-profile-hernia-model-evaluation.md) — related
+- [Across the full cohort, the experienced robotic surgeon showed shorter T1 and T2 operative times than the surgeon in training, while T3 and T4 durations were similar](experienced-surgeon-shorter-t1-t2-rtapp.md) — a narrower finding that bears on this claim
 

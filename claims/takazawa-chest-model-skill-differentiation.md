@@ -57,3 +57,4 @@ Study in which 53 surgeons each performed an endoscopic intracorporeal suturing 
 - [Novices' visual attention did not differ between pediatric and adult box trainers](no-visual-attention-difference-pediatric-adult-trainers.md) — related
 - [Positional tracking and force sensing were considered important simulator features](position-and-pressure-sensing-important-features.md) — related
 - [Skill and error scores did not differ across surgeon seniority groups, so construct validity was not established for the simpler suturing task](no-construct-validity-seniority-dvc-suturing.md) — related
+- [The TuThor porcine heart-lung trainer box was rated suitable and realistic by most participants at hands-on courses](tuthor-trainer-box-suitable-vats-training.md) — related

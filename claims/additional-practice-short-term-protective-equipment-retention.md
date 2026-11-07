@@ -69,3 +69,4 @@ Comparison of all three skill retention assessments (Table 5): the between-group
 - [Total BLS skill retention scores remain stable across two weeks, two months and one year after training](total-bls-scores-stable-across-retention-intervals.md) — related
 - [A BLS practical examination does not confer a significant advantage in overall skill retention over additional practice with continuous assessment among fifth-year medical students](bls-practical-exam-no-advantage-over-additional-practice.md) — related
 - [Retention of the target medical terms declined significantly over the month across all teaching methods](retention-declines-over-time-all-groups.md) — related
+- [Improved one-year ratings cannot be attributed to SBPT retention because superimposed clinical training likely masked skill decay](delayed-gains-confounded-by-clerkship-training.md) — related

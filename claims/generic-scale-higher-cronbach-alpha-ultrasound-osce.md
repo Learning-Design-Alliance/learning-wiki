@@ -69,3 +69,4 @@ Per-station analysis across the OSCE stations showed the extended scale's Cronba
 - [Rating-scale format differences in ultrasound OSCE scores are concentrated in anatomically complex stations (retroperitoneum, hepatic veins), with series interaction non-significant](scale-difference-station-specific-ultrasound-osce.md) — related
 - [The generic scale shows higher generalisability than the extended scale, indicating greater performance-related variance](generic-scale-higher-phi-ultrasound-osce.md) — related
 - [The four quantitative measures of the resection task showed good internal consistency (Cronbach's alpha 0.803)](cronbach-alpha-0803-four-measures.md) — related
+- [First impression ratings formed a moderately internally consistent scale across MMI stations (α = 0.71), about equal to the internal consistency of MMI performance ratings (α = 0.69)](fir-internal-consistency-alpha-071.md) — related

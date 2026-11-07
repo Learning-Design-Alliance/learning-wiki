@@ -189,6 +189,13 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   docs describe a platform copy that was never committed). Its readers read this repo directly:
   Learning-engineering-research's `wiki_agent.py` reads `pages` from a local checkout, and the spec's
   `check-wiki-links.py` checks page URLs. So there is nothing to keep in sync.
+- **The page records are also written sharded, to `wiki-index/<kind>/<xx>.ndjson`** (first two characters
+  of the id, one record per line; maintainer, 2026-11-07). `wiki-index.json` had reached 48 MB, 41 MB of it
+  `pages`, growing about 1 MB a batch toward GitHub's 100 MB file limit. The shards are additive:
+  `wiki-index.json` keeps its full shape until the two readers above read `pages` from the shards, and only
+  then does `pages` leave it (`resolve`, `moved`, `kinds` and `counts` stay). `build_wiki_index.py --check`
+  checks both. Do not drop `pages` before both readers have moved: one is in another repo and would break
+  silently.
 - **`canonical: true`** marks the pages the candidate ledger settles against
   (`settle_candidates.py --mark-canonical`), and every learner-variable page. Search ranks them
   first when a query names them.
@@ -210,7 +217,8 @@ reasons and the numbers (moved there 2026-10-09, when this file had reached 272 
   `eval/runs/queues/fetch-failed.ndjson`. Campbell reviews are fetched by their PMC copy
   (`--campbell`), DSpace repositories through their REST API.
 - **Batches write no principle, pattern, element or theory page.** Ingest puts each in
-  `eval/candidates/candidates.ndjson`, and `settle_candidates.py --apply` (run in every batch)
+  the candidate ledger (`eval/candidates/candidates/<xx>.ndjson`, decisions in `eval/candidates/decisions/`,
+  sharded by slug prefix since 2026-11-07 and read only through `candidates_lib`), and `settle_candidates.py --apply` (run in every batch)
   attaches it to a canonical page, joins it to another candidate, writes a design page,
   writes it to its product's page (`product`, grouped by name: a programme's tools and
   frameworks become components of one page) or a research-method page, or drops it. The old
@@ -1540,6 +1548,7 @@ ld-wiki/
   index.md           ← OKF bundle-root index; carries okf_version in frontmatter
   reverse-index.json ← generated: which pages point AT each page (see The reverse index below)
   wiki-index.json    ← generated: id + kind + title per page, for the design-spec side (see The wiki index below)
+  wiki-index/        ← generated: the same page records, sharded as <kind>/<xx>.ndjson (see the standing rules)
   evidence-scales.json ← what q3 / i2 / n= mean, as data (read by agents and by the docs hook)
   evidence-dimensions.json ← the shared dimensions of evidence and design (learner state, goal, outcome, ...)
   evidence.md        ← generated: the state of the wiki's evidence (build_evidence_report.py)

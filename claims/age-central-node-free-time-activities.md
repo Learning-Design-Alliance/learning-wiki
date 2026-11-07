@@ -50,3 +50,4 @@ Network structure results: older participants watched more TV (.26) and read mor
 - [ENA reveals different utterance co-occurrence structures by age: older adults show a stronger active–interactive connection while younger adults' constructive–interactive connection is not statistically confirmed](ena-network-structure-age-differences-icap.md) — related
 - [No age difference in the strength of active–constructive connections in collaborative discourse networks](no-age-difference-active-constructive-connection.md) — related
 - [Network analysis identified motor coordination as the most central node in the insufficient-achievement network, while age was most central in the high-achievement network](network-centrality-motor-coordination-insufficient-age-good.md) — related
+- [Teachers acquire intercultural knowledge mainly through entertainment media and devote little weekly time to it](informal-minimal-intercultural-self-improvement.md) — related

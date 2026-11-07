@@ -60,3 +60,4 @@ Single-center RCT with 120 interns randomized 1:1 (n = 60 each) at the Affiliate
 - [Structured PBL is associated with higher overall clinical reasoning scores than conventional lectures in esophageal cancer teaching for medical interns](pbl-higher-clinical-reasoning-esophageal-cancer-interns.md) — related
 - [ChatGPT-guided PBL residents scored significantly higher on a nephrology theoretical exam than traditionally taught residents](chatgpt-pbl-higher-theoretical-exam-nephrology.md) — related
 - [Medical students taught with combined CBL/FC outperform lecture-based peers on clinical case scenarios in nephrology bedside teaching](cbl-fc-superior-clinical-case-scenario-nephrology.md) — related
+- [Undergraduate medical students receiving integrated PBL combined with LBC scored significantly higher than LBC-only students in most clinical examinations (all P < .01)](integrated-pbl-lbc-higher-clinical-exam-scores.md) — related

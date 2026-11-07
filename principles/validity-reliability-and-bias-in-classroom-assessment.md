@@ -36,7 +36,7 @@ sources:
 # Validity, Reliability, and Bias in Classroom Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 419 claims (194 for, 197 mixed, 28 against) · 315 studies (100 associational, 75 design, 51 causal, 47 review, 26 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 27 of 315 report an effect size · 412 claims rest on one study
+> **Evidence** · 421 claims (195 for, 198 mixed, 28 against) · 317 studies (101 associational, 75 design, 52 causal, 47 review, 26 theoretical, 13 quant-synthesis, 3 qualitative), `q1`–`q3` · 27 of 317 report an effect size · 414 claims rest on one study
 
 ## Conditional relationship
 
@@ -263,6 +263,8 @@ Claims linked to this page that do not bear on its relationship, a step or a sit
 - [SETs are significantly associated with instructor gender and grade expectation but generally not with final exam performance](../claims/sets-gender-grade-expectation-not-effectiveness.md) [~W] — attached 2026-11-07 from Randall Armel (2025), which proposed "Limit SETs to aspects students are equipped to assess and triangulate with other data sources"; tests this page's relationship.
 - [At least 7–10 SETs per teacher are needed for reliable ratings, making SET feedback in small programs infrequent and unreliable](../claims/seven-to-ten-sets-needed-reliable-ratings.md) [+W] — attached 2026-11-07 from Randall Armel (2025), which proposed "Limit SETs to aspects students are equipped to assess and triangulate with other data sources"; tests this page's relationship.
 - [The assessment showed high inter-station reliability and acceptable inter-rater reliability, but 14 stations would be required for absolute (Phi ≥ 0.8) reliability](../claims/sim-assessment-reliability-alpha-icc-generalizability.md) [~W] — attached 2026-11-07 from Toale Conor et al. (2024), which proposed "Simulation-based assessment can provide validity evidence to inform operative competence decisions within competency-based surgical curricula"; tests this page's relationship.
+- [Three- and five-option MCQ tests show comparable reliability in senior medical student assessments](../claims/three-vs-five-option-mcq-comparable-reliability.md) [~W] — attached 2026-11-07 from Al-lawama Manar (2023), which proposed "Adopt three-option MCQs after a school-specific review of item quality and distractor functioning"; tests this page's relationship.
+- [Confirmatory factor analysis supports STRICT's construct validity with acceptable fit indices](../claims/strict-cfa-acceptable-fit.md) [+W] — attached 2026-11-07 from Huang Pin-Hsiang et al. (2023), which proposed "Use frequency anchors rather than agreement anchors in teaching-rating scales to reduce acquiescence and social desirability bias".
 
 ## Objective and learner-valued goal
 

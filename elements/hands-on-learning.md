@@ -13,7 +13,7 @@ generated:
 # Hands-on Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 26 claims (21 for, 5 mixed) · 23 studies (11 causal, 4 design, 3 quant-synthesis, 3 review, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 23 report an effect size · 25 claims rest on one study
+> **Evidence** · 27 claims (22 for, 5 mixed) · 24 studies (11 causal, 4 design, 3 quant-synthesis, 3 review, 2 associational, 1 theoretical), `q1`–`q4` · 2 of 24 report an effect size · 26 claims rest on one study
 
 ## Description
 Hands-on learning is the element in which learners manipulate materials, tools, or environments directly while applying ideas in practice. It is useful when understanding depends on doing, making, testing, or experiencing rather than only discussing.
@@ -65,6 +65,7 @@ Hands-on learning is the element in which learners manipulate materials, tools, 
 - [A one-day cadaveric neurosurgical workshop significantly increases general and pediatric surgeons' immediate self-rated confidence across most life-saving cranial trauma procedural steps](../claims/neurosave-immediate-confidence-gains.md) [+W] — attached 2026-11-05 from Górecki W et al. (2026), which proposed "NEUROSAVE one-day cadaveric neurosurgical workshop with six neurosurgeon-supervised stations".
 - [A ChatGPT-supported virtual manipulative learning environment produces higher anatomy academic achievement than simulation-only and traditional teaching](../claims/chatgpt-virtual-manipulatives-higher-anatomy-achievement.md) [+W] — attached 2026-11-05 from An Alternative Approach in Anatomy Education: Design of a Learning Environment Based on Ar, which proposed "Web-based anatomy learning module integrating 3D virtual manipulatives with a ChatGPT sidebar".
 - [Cadaveric ultrasound-guided injection workshops significantly increase physicians' self-reported confidence for hip, knee, and ankle injections, with the largest gain for hip injections](../claims/cadaveric-workshop-confidence-gains-three-joints.md) [+W] — attached 2026-11-06 from Zure Mert et al. (2025), which proposed "One-day cadaveric musculoskeletal ultrasound-guided injection workshop with theoretical sessions and four hands-on stations".
+- [Total laparoscopic hysterectomy operative time was significantly shorter for residents trained after SLSST implementation than before it](../claims/slsst-shortens-tlh-operative-time.md) [+W] — attached 2026-11-07 from Lobão Gonçalves Anna Luiza et al. (2019), which proposed "Systematic Laparoscopic Skills and Suture Training (SLSST) program".
 
 ## The evidence by question
 - *Does a concrete stage help at all over abstract symbols alone?* [Manipulatives Improve Math Learning](../claims/manipulatives-improve-math-learning.md) [+M]

@@ -53,3 +53,4 @@ Within-participant pre/post comparison using the same 5-point confidence scale i
 - [Students report that progressive simulation practice builds handover confidence by reducing anxiety](progressive-simulation-practice-builds-confidence.md) — related
 - [Scenario-based simulation yields higher post-test knowledge scores than video-based training in anaesthesia undergraduates learning perioperative anaphylaxis management](sbs-higher-post-test-than-vbt-perioperative-anaphylaxis.md) — related
 - [Participants rated the cross-border simulation training more positively after attending than before](post-training-rating-more-positive.md) — a narrower finding that bears on this claim
+- [Trainees' self-rated confidence in making perioperative management decisions rose significantly from pre-test to post-test after the e-module, in one uncontrolled pre-post study](perioperative-e-module-improves-confidence.md) — related

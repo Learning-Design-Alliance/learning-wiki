@@ -67,6 +67,7 @@ The article recommends that to sustain and extend the benefits of simulation-bas
 - [Reevaluate and shorten the time intervals between pediatric CPR training sessions to optimize retention](shorter-intervals-between-cpr-training-sessions.md)
 - [Sustain framework use with rotation-start references, embedded evaluation prompts, and ongoing self-feedback](sustain-narrative-framework-with-references-and-self-feedback.md)
 - [Combine RCDP with additional reinforcement methods to sustain long-term skill retention](combine-rcdp-with-reinforcement-for-retention.md)
+- [Provide regular simulation training for all providers, with additional individualised training for those lacking competency](regular-simulation-training-all-providers-strategy.md)
 
 ## Examples
 -

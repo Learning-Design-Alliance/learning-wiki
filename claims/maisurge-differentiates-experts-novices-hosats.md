@@ -69,3 +69,4 @@ Secondary scoring of the same video-recorded TLH performances with the Martin et
 - [On a baseline vaginal cuff suturing task, experts perform significantly faster and score significantly better than novices](maisurge-baseline-suturing-experts-faster.md) — related
 - [Blinded scoring of MaiSurge performances shows excellent interrater reliability for the modified H-OSATS score and good reliability for the general OSATS score](maisurge-hosats-interrater-reliability-icc.md) — related
 - [Participants rate the MaiSurge PVA model as realistic and at least as suitable for training as a silicone version and a commercial model](maisurge-subjective-realism-ratings.md) — related
+- [Blinded expert OSATS ratings favored the VOA group on overall performance and economy of movement despite measured efficiency losses, exposing a limitation of granular metric-based assessment](osats-economy-of-movement-discrepancy.md) — related

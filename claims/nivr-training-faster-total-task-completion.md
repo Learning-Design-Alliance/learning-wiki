@@ -67,3 +67,4 @@ The article's discussion reports the same trial result descriptively: "the avera
 - [NIVR training sped up patient reception and ward-exit tasks only, with no significant difference in the other four tasks](nivr-faster-task3-task6-only.md) — reports the opposite
 - [Simulation-trained residents complete the 11-view pediatric TEE protocol significantly faster than apprenticeship-trained residents](simulation-training-shorter-tee-examination-duration.md) — related
 - [NIVR simulation training and conventional training produced no significant difference in OSCE drill scores](nivr-isolation-training-no-drill-score-difference.md) — related
+- [First-year radiography students trained with VR simulation completed an OSCE significantly faster than students trained with physical simulation](vr-simulation-shorter-osce-time-radiography.md) — related

@@ -50,3 +50,4 @@ Qualitative small-group discussion and guided whole-class reporting in the treat
 - [Students entered the courses highly confident they could identify their own and others' race and ethnicity](baseline-overconfidence-race-identification.md) — related
 - [Treated students attributed their new uncertainty to personal and emotive engagement with classmates' self-identified racial narratives](personal-narratives-drove-racial-doubt.md) — related
 - [Students who received active-learning lessons designed to raise racial doubt became far less certain in classifying nationalities as White or non-White than students in a lecture-only course](racial-doubt-lessons-reduce-classification-confidence.md) — related
+- [Teachers acquire intercultural knowledge mainly through entertainment media and devote little weekly time to it](informal-minimal-intercultural-self-improvement.md) — related

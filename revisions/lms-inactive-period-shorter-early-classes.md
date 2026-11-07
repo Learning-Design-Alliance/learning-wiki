@@ -1,0 +1,9 @@
+---
+type: revisions
+page: ../claims/lms-inactive-period-shorter-early-classes.md
+---
+
+# Revision history: [claims/lms-inactive-period-shorter-early-classes](../claims/lms-inactive-period-shorter-early-classes.md)
+
+### 2026-11-07 · ingest · process:wiki-ingest
+Ingested from pmc-10129866 (Early morning university classes are associated with impaired sleep and academic performance.) via eval_harness.py + ingest_extractions.py

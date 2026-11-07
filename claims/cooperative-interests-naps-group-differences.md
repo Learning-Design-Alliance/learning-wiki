@@ -49,3 +49,4 @@ Chi-square comparisons of demographic variables in the cross-sectional survey (T
 - [Cooperative program students report higher scores on all six intrinsic and extrinsic motivation subscales and lower amotivation than domestic students](cooperative-subscales-lower-amotivation.md) — related
 - [Final-year rehabilitation students in a Chinese-foreign cooperative program report higher self-determined academic motivation than peers in a domestic program at the same college](cooperative-program-higher-sdi-rehabilitation-students.md) — related
 - [Rehabilitation students with at least one specific professional interest report higher self-determined academic motivation than students without one](specific-interest-higher-sdi-rehabilitation-students.md) — related
+- [Daytime napping is more frequent on days when students' first class is in the morning](napping-higher-morning-classes.md) — related

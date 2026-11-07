@@ -68,3 +68,4 @@ Follow-up survey of online-group students on shortcomings, summarized in Fig. 4;
 - [Most undergraduate dental students preferred blended teaching, and a majority reported it reduced their study load](students-prefer-blended-teaching-orthodontics.md) — related
 - [Most medical students demand clinically integrated case teaching and prefer blended learning over traditional classroom instruction](student-demand-case-integrated-blended-statistics-teaching.md) — related
 - [Free-text comments from online-course students indicate high acceptance, citing contact maintenance and telemedicine practice as benefits and technical disruptions and difficulty evaluating nonverbal communication as drawbacks](online-format-student-comments-acceptance-critique.md) — reports the opposite
+- [Students preferred face-to-face tutoring and online answering as guidance methods in the blended course](students-prefer-face-to-face-and-online-guidance-mix.md) — related

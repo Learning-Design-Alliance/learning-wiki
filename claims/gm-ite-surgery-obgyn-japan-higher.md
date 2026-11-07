@@ -51,3 +51,4 @@ One-way ANOVA across regional groups on GM-ITE field scores; Table 2 reports Sur
 - [Overall GM-ITE scores did not differ significantly among resident physicians educated in Japan, Non-Japan Asia, and Europe and Other regions (p = 0.153)](gm-ite-overall-score-no-regional-difference.md) — a broader claim this one bears on
 - [Receiving teaching during the physical examination stage is associated with lower GM-ITE clinical scores among residents](physical-examination-teaching-lower-gm-ite-scores.md) — related
 - [Perceived forensic competence and defensive reporting attitudes differ across specialties, with emergency medicine residents scoring highest and obstetrics-gynecology and general surgery residents lowest](forensic-competence-differs-by-specialty.md) — related
+- [No significant difference in Obstetrics and Gynecology scores between integrated PBL + LBC and LBC groups](obgyn-no-significant-difference-integrated-pbl.md) — related

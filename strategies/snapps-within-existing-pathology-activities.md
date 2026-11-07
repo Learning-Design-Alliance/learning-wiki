@@ -49,7 +49,8 @@ The article recommends embedding SNAPPS in routine academic activities: "SNAPPS 
 - [Residents' probing-question scores rose from 3 to 4 from before to after SNAPPS, in one uncontrolled pre-post study](../claims/snapps-probe-increases-resident-questions.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Implement a brief SNAPPS lecture within a resident-as-teacher program to improve teaching of clinical reasoning](snapps-rat-45min-lecture-strategy.md)
 
 ## Examples
 -

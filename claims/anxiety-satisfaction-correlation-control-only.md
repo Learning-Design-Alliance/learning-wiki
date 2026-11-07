@@ -49,3 +49,4 @@ Spearman correlation analysis (Table 4) of STAI scores with the satisfaction and
 - [Student satisfaction correlates positively with self-confidence and negatively with somatic and cognitive anxiety](satisfaction-correlates-self-confidence-anxiety.md) — related
 - [Non-learners show higher state anxiety than learners, but trait anxiety does not differ between groups](non-learners-higher-state-anxiety-trait-unchanged.md) — related
 - [Post-intervention self-reported state anxiety (STAI) did not significantly differ between the simulation-intervention and control groups](stai-no-difference-post-simulation.md) — related
+- [Pre-training anxiety is not correlated with post-training satisfaction or self-confidence](no-correlation-anxiety-satisfaction-self-confidence.md) — reports the opposite

@@ -54,3 +54,4 @@ In an independent-measures simulation study of 41 participants (12 novices, 13 i
 - [The EyeSi Surgical Simulator can differentiate VRS novices from experts, providing construct validity evidence](eyesi-differentiates-novices-from-experts-vrs.md) — related
 - [After ten training sessions, junior and intermediate groups still scored significantly lower than the senior group](persistent-performance-gap-after-repeated-training.md) — related
 - [GRS summed scores and final competency ratings effectively discriminate between experience levels in the simulated cholecystectomy module](chole-vop-grs-final-rating-discriminate-levels.md) — related
+- [VR-based MCQ test scores discriminate significantly between medical students of three different emergency medicine experience levels](vr-mcq-scores-discriminate-experience-levels.md) — related

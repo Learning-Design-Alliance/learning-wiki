@@ -55,3 +55,4 @@ Cross-sectional logistic regression of unhealthy food and beverage intake (more 
 - [Breakfast consumption shows a mainly positive effect on on-task behavior in the classroom in children](breakfast-mainly-positive-on-task-behavior.md) — related
 - [Game-based instruction significantly improved students' food and drink habits relative to PowerPoint instruction](game-based-instruction-improves-food-drink-habits.md) — related
 - [Lower BMI, higher healthy diet score, and better sleep quality are associated with high language performance in girls but not boys](bmi-diet-sleep-quality-girls-language-performance.md) — related
+- [Snacking on vegetables and fruits is associated with higher subjective academic achievement, though the association is weaker than other dietary factors](fruit-vegetable-snacks-higher-saas.md) — related

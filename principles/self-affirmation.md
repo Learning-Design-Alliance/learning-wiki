@@ -145,6 +145,7 @@ Grades in the targeted course, overall GPA, persistence, test anxiety and long-t
 ## Examples
 
 - [Brief in-school self-affirmation writing exercises administered before major assessments](../strategies/self-affirmation-writing-exercise-strategy.md)
+- [Institutional debiasing: give teachers time to reflect on biases, reduce cognitive load and provide clear evaluation rubrics, and use values affirmation to lower defensiveness](../strategies/institutional-teacher-debiasing-strategy.md)
 
 ### Illustrative
 

@@ -58,6 +58,7 @@ The article recommends that institutions delivering remote education mix asynchr
 - [Position immersive technologies and virtual patients as supplementary components within blended learning rather than stand-alone replacements for established clinical communication training](immersive-tech-adjunctive-blended-not-replacement.md)
 - [Use blended bookend learning combining self-paced online modules with synchronous interactive discussion and case supervision](blended-bookend-learning-psychiatric-education.md)
 - [Mitigations for delivering virtual surgical skills courses: facilitators, re-playable demonstrations, and connectivity safeguards](virtual-course-technical-mitigations-strategy.md)
+- [Choose or blend asynchronous and synchronous e-learning based on skills targeted, student and teacher preferences, and organisational needs rather than performance alone](blend-sync-async-by-needs-and-preferences.md)
 
 ## Examples
 -

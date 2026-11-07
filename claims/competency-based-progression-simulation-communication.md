@@ -50,3 +50,4 @@ Systematic review of 20 studies of simulation-based training for undergraduate n
 - [Manikin-based simulation produced equal or superior competency outcomes versus traditional clinical practice, except in the Patient Safety domain](manikin-simulation-competency-versus-clinical.md) — related
 - [Evidence on simulated patients versus peer role play is mixed: equal competence in one randomised trial, higher skills and satisfaction for SPs in others](sp-versus-peer-role-play-mixed.md) — related
 - [Hybrid simulation with role-playing improves hand hygiene compliance and PPE use in medication administration among nursing students](hybrid-simulation-improves-hand-hygiene-and-ppe-nursing.md) — related
+- [New nurses trained with role reversal and SPS report higher training satisfaction than routinely trained nurses](role-reversal-sps-higher-training-satisfaction.md) — related

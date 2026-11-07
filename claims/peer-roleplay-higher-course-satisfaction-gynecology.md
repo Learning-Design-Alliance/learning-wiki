@@ -52,3 +52,4 @@ Post-course Likert-scale (1–5) satisfaction survey administered to both cohort
 - [Evidence on simulated patients versus peer role play is mixed: equal competence in one randomised trial, higher skills and satisfaction for SPs in others](sp-versus-peer-role-play-mixed.md) — related
 - [Intervention students report higher educational satisfaction than controls after structured reflective sessions](reflective-sessions-increase-satisfaction.md) — related
 - [Students in clinical roles (doctor, patient) report higher course satisfaction than students in evaluator roles](clinical-roles-higher-satisfaction.md) — related
+- [Peer-to-peer Goldilocks scores showed a wider range in the 2020 cohort than 2021, with professionalism improving in respect and compassion between first and last 2021 surveys](peer-evaluation-professionalism-pbl-course.md) — related

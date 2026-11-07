@@ -54,3 +54,4 @@ The review's synthesis of sex-subgroup findings from three included cross-sectio
 - [Active commuting to school shows a positive association with at least one cognitive measure in a majority of reviewed studies, though findings are inconsistent across measures](acs-positive-cognition-association-majority-of-studies.md) — related
 - [ACE-outcome associations did not differ between girls and boys](no-gender-differences-ace-associations.md) — reports the opposite
 - [Subgroup analyses by mode of ACS, age, and sex show no significant differences in pooled effect sizes for academic outcomes](acs-subgroup-analyses-no-significant-differences.md) — reports the opposite
+- [Active school transport is positively associated with perceived academic performance at any reported dose among 15- to 16-year-old adolescents](ast-positive-perceived-academic-performance.md) — related

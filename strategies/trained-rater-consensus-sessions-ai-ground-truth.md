@@ -47,6 +47,8 @@ The article recommends that, given the need for valid skill ratings in AI develo
 
 - [Validate automated video analytics and reach metric consensus before widespread adoption in surgical training](validate-video-analytics-before-adoption.md)
 - [Provide pre-assessment training to raters before video-based quality assessment](pre-assessment-rater-training-strategy.md)
+- [Combine a validated global rating scale (GOALS) with a specific suture checklist for scored video assessment and individualized feedback](goals-plus-checklist-combined-assessment-strategy.md)
+- [Validate educational videos with both expert judges and the target audience](validate-videos-with-experts-and-target-audience.md)
 
 ## Examples
 -

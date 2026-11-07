@@ -44,7 +44,8 @@ Based on its limitations, the study recommends implementing standardized simulat
 - [Technical skill in ascites puncture is maintained or improved at 3 months after simulation training, with median grid scores rising from 7 to 8 out of 10](../claims/simulation-ascites-puncture-three-month-skill-retention.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Evaluate simulation training with pre- and post-simulation objective tests and delayed retention assessment](pre-post-osats-retention-evaluation-strategy.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Item-level analysis of correct responses showed that "the most difficult words f
 - [Across frontier LLMs, Counseling is the easiest educational activity center (average 8.78) while Assessment and Research are hardest (8.42), and performance degrades from Easy to Hard difficulty](center-difficulty-difficulty-degradation-llms.md) — related
 - [Letter-writing difficulty varies widely across letters, with O easiest and K hardest, and knowing the letter name raises per-letter probabilities substantially](per-letter-difficulty-and-name-knowledge-gains.md) — related
 - [Model performance varies by task category, with Basic Geometry easiest and Spiral consistently the most challenging category](spiral-hardest-basic-geometry-easiest-categories.md) — related
+- [The synthetic exercises differ in difficulty, with Teddy bears and Circles easiest, Matches and Glove finger intermediate, and Beans hardest](tes-exercise-difficulty-ordering.md) — related

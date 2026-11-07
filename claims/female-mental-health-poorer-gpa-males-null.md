@@ -55,3 +55,4 @@ Logistic regression analysis of 6,923 students (2,153 male, 4,770 female) at a S
 - [Female students outperform male students academically in the studied Thai school](female-students-better-academic-performance-thai-school.md) — related
 - [Among Chinese vocational-college freshmen, worse mental health (higher SCL-90) significantly negatively predicts academic achievement](mental-health-negatively-predicts-achievement-freshmen.md) — related
 - [Parenting style's association with academic performance is almost identical for male and female students, with no significant gender difference in performance](no-gender-difference-parenting-performance.md) — related
+- [Diagnosis with mental illness independently predicts low self-esteem among Saudi medical students](mental-illness-diagnosis-predicts-low-self-esteem.md) — related

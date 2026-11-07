@@ -57,3 +57,4 @@ ANOVA of task completion times in the same 41-participant simulation study showe
 - [Expert surgeons outperformed novices on all four quantitative measures of the resection task: smaller margin errors, lower carbonization, faster resection, fewer grasps](experts-outperform-novices-four-measures.md) — related
 - [GRS summed scores and final competency ratings effectively discriminate between experience levels in the simulated cholecystectomy module](chole-vop-grs-final-rating-discriminate-levels.md) — related
 - [Intermediate microsurgeons complete task segments faster than novices, significantly in the first three segments](intermediates-faster-completion-time-microsurgery.md) — related
+- [Time to complete the HMD ultrasound task did not differ significantly between expertise groups](osaus-hmd-task-time-no-group-differences.md) — related

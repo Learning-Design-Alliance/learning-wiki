@@ -1,0 +1,2 @@
+{"description":"An analytic dataset assembled by Fesler et al.","id":"nsf-proposal-analytic-dataset","path":"products/nsf-proposal-analytic-dataset.md","status":"review","title":"NSF proposal analytic dataset","type":"product"}
+{"description":"A benchmark dataset created by George Boateng and colleagues containing 1,840 scientific and mathematical riddles from Ghana's National Science and Maths Quiz for evaluating automated question-answering systems.","id":"nsmq-riddles","path":"products/nsmq-riddles.md","status":"review","title":"NSMQ Riddles","type":"product"}

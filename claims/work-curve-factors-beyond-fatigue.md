@@ -62,3 +62,4 @@ The review summarizes Offner's analysis of factors other than fatigue that condi
 - Prior initial-spurt experiments failed because test periods were too lengthy and subjects too few — related
 - [General skill learning appears to occur during rest periods, but fatigue release cannot be excluded as an explanation](general-skill-learning-offline-fatigue-caveat.md) — a narrower finding that bears on this claim
 - [The VR group scored significantly lower than controls at week 2, reflecting an initial learning curve with the VR system](vr-initial-learning-curve-week-2.md) — a narrower finding that bears on this claim
+- [Second console times were slower on average by the end of the intensive simulation protocol, potentially due to fatigue](fatigue-slows-second-console-times.md) — a narrower finding that bears on this claim

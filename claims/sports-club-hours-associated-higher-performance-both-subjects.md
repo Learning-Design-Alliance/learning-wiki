@@ -49,3 +49,4 @@ Fully adjusted logistic models for high mathematics grades in the I.Family cohor
 - [Girls who engage in sport at least one hour per week show better math and reading results; this relationship did not hold for boys](girls-sport-one-hour-better-math-reading.md) — related
 - [Regular physical activity (at least once per week) was associated with 81% higher odds of entrance exam success](regular-sport-associated-entrance-success.md) — related
 - [Students' favourable attitudes towards sports were positively associated with higher academic achievement](student-sports-attitudes-academic-achievement.md) — related
+- [Leisure-time moderate-to-vigorous physical activity is positively associated with competency in all academic skills, with the strongest relationships for mathematics and classroom concentration](mvpa-academic-skill-competency-math-strongest.md) — related

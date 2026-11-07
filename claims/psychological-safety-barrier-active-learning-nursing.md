@@ -64,3 +64,5 @@ Student focus group data (Theme 3, Subtheme 3.1.3). Participants reported fear o
 - [Psychological safety, supported by working in the same peer group with the same facilitator, enabled CBL participation](psychological-safety-same-group-cbl-participation.md) — related
 - [Odds of avoiding interaction during online lectures are higher with unsatisfactory platform atmosphere, slow instructor response, not feeling safe, opposite-sex students, poor internet, and fear of negative comments](adjusted-predictors-of-interaction-avoidance-online-lectures.md) — related
 - [Before the flipped classes, students reported specific learning pain points including fear of public speaking, unfamiliarity with the method, and PPT-making difficulty](dt-flipped-pre-survey-pain-points.md) — related
+- [Mindset and emotional barriers, including fear of being tested, deter learners from participating in in situ simulation](mental-barriers-in-situ-participation.md) — related
+- [Simulated high-stakes scenarios with moulage shifted students into observational roles, revealing affective-domain barriers](moulage-scenarios-affective-domain-observational-roles.md) — related

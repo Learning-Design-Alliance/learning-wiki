@@ -51,3 +51,4 @@ Comparative analysis of initial 10 versus final 10 cases (Fig. 4) in the retrosp
 - [The trainee's textbook-outcome learning curve was completed after 83 cases, and overall TO was significantly higher in the trainee cohort (40.66% vs 27.00%)](mie-trainee-textbook-outcome-lc-83-cases.md) — related
 - [Surgical training did not compromise survival: no significant difference in 2-year overall (p = 0.436) or disease-free (p = 0.305) survival between trainer and trainee patients](mie-training-no-survival-difference.md) — related
 - [Operative time decreased significantly across the learning curve, from 27.1 to 20.4 minutes between phases](operative-time-reduction-thd-anolift.md) — related
+- [After completion of the learning phase, the experienced robotic surgeon's skin-to-skin operative time was significantly shorter than the trainee's (52 vs 65 min, p = 0.0001)](post-learning-skin-to-skin-expert-shorter.md) — related

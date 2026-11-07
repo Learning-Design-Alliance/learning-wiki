@@ -98,3 +98,4 @@ Qualitative analysis of fall 2023 interviews with 36 district leaders, school le
 - [Senior managers' lack of belief in assessment is the most important cultural challenge to Assessment Center implementation](senior-manager-disbelief-top-cultural-ac-challenge.md) — related
 - [Connectedness with stakeholders acts as a catalyst enabling the factors that sustain teacher motivation](connectedness-catalyst-sustaining-teacher-motivation.md) — related
 - [Institutional interventions to promote psychological safety competencies are rated as barely implemented yet highly significant](institutional-interventions-low-implementation-high-significance.md) — related
+- [Leadership is reported as a crucial factor in both barriers to and enablers of ED simulation programmes](leadership-crucial-ed-sbt.md) — related

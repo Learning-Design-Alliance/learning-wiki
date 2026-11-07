@@ -70,3 +70,4 @@ Correlational analysis comparing attempt-two dry task sums with the summative cy
 - [Novice participants significantly improve dry-lab M-GEARS technical skill scores from attempt 1 to attempt 2 in a four-day core robotic skills curriculum](dry-m-gears-significant-improvement-four-day-curriculum.md) — related
 - [Participants significantly reduce technical errors in dry-lab tasks as measured by the OCHRA error methodology over the four-day curriculum](dry-ochra-error-reduction-curriculum.md) — related
 - [VR and physical simulators show skill transferability and an additive effect when used together in urological training](vr-physical-simulator-skill-transferability-additive.md) — possibly the same claim (merge candidate)
+- [Optical flow and suture counts from video correlate with OSATS GRS and can supplement it as assessment measures](optical-flow-correlates-with-grs.md) — related

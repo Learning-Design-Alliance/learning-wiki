@@ -15,7 +15,7 @@ grain_size: unit, course
 # Team Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 113 claims (75 for, 34 mixed, 4 against) · 58 studies (18 causal, 17 quant-synthesis, 8 review, 6 associational, 6 design, 3 theoretical), `q1`–`q4` · 18 of 58 report an effect size · 105 claims rest on one study
+> **Evidence** · 115 claims (76 for, 35 mixed, 4 against) · 59 studies (19 causal, 17 quant-synthesis, 8 review, 6 associational, 6 design, 3 theoretical), `q1`–`q4` · 18 of 59 report an effect size · 107 claims rest on one study
 
 ## Description and scope
 
@@ -128,6 +128,8 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [FC-TBL students expressed high satisfaction, with about 78% reporting sparked interest and over 74% willing to choose the model again](../claims/fc-tbl-high-satisfaction.md) [+W] — attached 2026-11-07 from Qu Meng et al. (2024), which proposed "FC-TBL laboratory course pattern: pre-class self-study with iRAT, in-class tRAT and team experiments, post-class discussion".
 - [Permanent versus temporary TBL teams did not differ in domain knowledge test scores](../claims/permanent-vs-temporary-teams-no-dktest-difference.md) [~W] — attached 2026-11-07 from Heber Stefan et al. (2024), which proposed "For knowledge acquisition, TBL team formation can be relaxed rather than strictly controlling team familiarity".
 - [Preclass preparation, measured as average iRAT performance, was the only significant predictor of exam performance in each course unit.](../claims/irat-preparation-predicts-exam-performance.md) [+W] — attached 2026-11-07 from Woodbury J (2024), which proposed "Team-based learning course structure with permanent diverse teams, readiness assurance, and team exercises".
+- [Group opinion on peer evaluation (for or against) has no significant impact on team approach scores in M-TBL](../claims/peer-evaluation-opinion-no-impact-team-approach.md) [~W] — attached 2026-11-07 from Murata et al. (2023), which proposed "Remove the peer evaluation step from team-based learning when implementing TBL with Japanese nursing students, and team-approach gains are still obtained".
+- [Modified team-based learning in a flipped classroom increases nursing students' team approach scores across a course, particularly after the second and third cases](../claims/mtbl-flipped-increases-team-approach-nursing.md) [+W] — attached 2026-11-07 from Murata et al. (2023), which proposed "Remove the peer evaluation step from team-based learning when implementing TBL with Japanese nursing students, and team-approach gains are still obtained".
 
 ## Illustrative design instance and observation record
 

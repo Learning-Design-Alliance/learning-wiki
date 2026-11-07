@@ -52,3 +52,4 @@ Quasi-experimental pre-test/post-test study of 267 medical students (129 fifth-y
 - [Sixth-year simulation students reported higher post-training knowledge, competence, and comfort than fifth-year lecture students](simulation-cohort-higher-post-training-scores.md) — a narrower finding that bears on this claim
 - [All three resident cohorts improved significantly, with the first-year 2023 cohort showing the largest relative gain and post-training scores converging across cohorts](cohort-differential-gains-post-training-convergence.md) — related
 - [Residents' self-reported comfort with US-FNA increased significantly after model training](self-reported-comfort-increases-after-model-training.md) — related
+- [Self-reported preparedness to repair OASIS increased after simulation training, with most participants moving from not ready to ready](oasis-simulator-self-rated-preparedness-increase.md) — related

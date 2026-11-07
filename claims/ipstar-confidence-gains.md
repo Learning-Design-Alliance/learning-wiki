@@ -56,3 +56,4 @@ Paired Likert survey (n = 72, Wilcoxon signed rank test) administered before and
 - [Students perceive interprofessional CPR training as more aligned with real-world work dynamics than discipline-separate training](ipe-cpr-training-real-world-readiness.md) — related
 - [Team CPR training significantly improves skill confidence and active participation (Kirkpatrick behavior level)](cpr-training-improves-confidence-participation.md) — related
 - [In one uncontrolled pre-post study, adequate pediatric CPR chest-compression technique rose from 26% to 91% among multidisciplinary hospital professionals after RCDP simulation training](rcdp-raises-adequate-pediatric-cpr-technique-26-to-91-percent.md) — related
+- [Trainees' self-rated confidence in making perioperative management decisions rose significantly from pre-test to post-test after the e-module, in one uncontrolled pre-post study](perioperative-e-module-improves-confidence.md) — related

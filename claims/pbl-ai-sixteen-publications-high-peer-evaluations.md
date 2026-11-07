@@ -48,3 +48,4 @@ Three-year case study (2021–2023) across three courses with 248 students in 62
 - [More years of coding experience were associated with better performance in AI-supported PBL courses (exploratory)](coding-experience-associated-with-pbl-performance.md) — related
 - MLME student grades improved across the three course years, shifting from a 60–85 range with a median around 75 in Fall 2021 to concentrations in the high 80s and low 90s by Fall 2023 — related
 - [The overall effect of PBL in the tutor-background meta-analysis is modest (g = 0.27) with large, statistically significant heterogeneity](pbl-overall-effect-modest-large-heterogeneity.md) — related
+- [Peer-to-peer Goldilocks scores showed a wider range in the 2020 cohort than 2021, with professionalism improving in respect and compassion between first and last 2021 surveys](peer-evaluation-professionalism-pbl-course.md) — related

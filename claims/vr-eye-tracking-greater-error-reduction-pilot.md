@@ -54,3 +54,4 @@ Pilot randomized pretest–posttest study; errors scored as absolute cumulative 
 - [Students rated the VR-based brain death course significantly higher than the manikin-based course in a randomized pilot](vr-brain-death-course-rated-higher-than-manikin.md) — related
 - [VR simulation as ATLS course preparation shows no significant difference from control in knowledge test scores, clinical scenario pass rates, or course completion.](vr-atls-no-objective-effectiveness-difference.md) — related
 - [A fully immersive VR trauma simulation is feasible to deploy as an adjunct preparation for the ATLS course, with all completing participants achieving correct patient stabilisation.](vr-trauma-simulation-feasible-atls-adjunct.md) — related
+- [Error reduction after SA training is specific: clip misplacement improved while liver-bed preparation errors did not](sa-error-reduction-structure-specific.md) — related

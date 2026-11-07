@@ -56,3 +56,4 @@ Postsession survey of the intern cohort (postsession response rate 94%, 33 of 35
 - [Residents rated the mirror simulation program highly for perceived benefit and interest, averaging 3.87 and 4.08 out of 5](mirror-sim-benefit-interest-ratings.md) — related
 - [Students accepted the virtual learning module, with psychological safety the most strongly endorsed benefit over other teaching methods](utaut2-acceptance-psychological-safety.md) — related
 - [Students unanimously rated working with standardized clients as beneficial and a valuable learning experience, developing communication skills and a sense of reality](standardized-clients-valuable-realistic-learning.md) — related
+- [Residents overwhelmingly endorse simulation training sessions as part of the residency curriculum after the course](residents-endorse-simulation-curriculum.md) — related

@@ -100,3 +100,4 @@ Reliability analysis of essay scoring by three high school physics teachers of 1
 - [The LISA-AT shows high test-retest reliability (Spearman's rho = 0.87), high internal consistency (Cronbach's alpha = 0.88), and good inter-rater reliability (Cronbach's alpha = 0.82)](lisa-at-reliability-evidence.md) — related
 - [D-studies indicate three raters suffice in a crossed design, while a nested design reaches Phi 0.83 with two raters and ten items](d-study-raters-items-phi-acls.md) — related
 - [Inter-student diagnostic agreement was moderate for third-year and moderate-good for fifth-year students (Fleiss' Kappa 0.42 and 0.48)](fleiss-kappa-moderate-student-diagnostic-agreement.md) — related
+- [The OD marking rubric achieved fair-to-good inter-rater reliability, with higher agreement in the expert CR examiner group than the typical examiner group](od-rubric-fair-to-good-inter-rater-reliability.md) — related

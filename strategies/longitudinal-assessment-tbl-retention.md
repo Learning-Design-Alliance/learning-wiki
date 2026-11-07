@@ -45,6 +45,7 @@ The article recommends that future studies assess knowledge retention and clinic
 - [Use longitudinal approaches combining repeated exposure, clinical case discussions, and practical application to translate knowledge into practice](longitudinal-repeated-exposure-knowledge-translation.md)
 - [Evaluate short-term teaching innovations with longitudinal, skills-based assessments and delayed post-tests rather than a single written test](longitudinal-skills-based-assessment-recommendation.md)
 - [Incorporate institution-level benchmarking, collaboration process measures, and delayed or performance-based assessments in future CBLC evaluations](cblc-future-evaluation-strategy.md)
+- [Evaluate simulation training with pre- and post-simulation objective tests and delayed retention assessment](pre-post-osats-retention-evaluation-strategy.md)
 
 ## Examples
 -

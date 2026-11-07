@@ -61,3 +61,4 @@ Pre- and post-class comparisons in the quasi-experimental study showed "both the
 - [Students in problem-based learning curricula outperform students in traditional curricula on the European Prescribing Exam](pbl-curriculum-higher-prescribing-exam-scores.md) — related
 - [Within the conventional CBL group, practical skills scores did not improve significantly from pre-course to post-course, while theory and total scores improved in both groups](cbl-group-practical-no-pre-post-difference.md) — related
 - [Both PRI-E and LBL groups significantly improved from entrance to final examination](both-groups-significant-score-gains.md) — related
+- [FC+CBL students scored lower on the final exam than traditional-method students in Introduction to Environmental Health Science](fc-cbl-lower-final-exam-score-mph.md) — related

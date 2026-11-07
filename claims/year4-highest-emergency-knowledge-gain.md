@@ -48,3 +48,4 @@ Pre/post paired t-tests by school year from the same module (Year 4 N=577, Year 
 - [The role-play emergency module ran over four consecutive academic years, with 2020 pre-test scores highest across all academic years for every school year in one uncontrolled pre-post study](module-reproducible-sustainable-four-years.md) — related
 - [Dental students' knowledge test scores rose significantly from pre-test to post-test after a role-play simulation-based medical emergency module, in one uncontrolled pre-post study](roleplay-emergency-module-improves-knowledge-scores.md) — a broader claim this one bears on
 - [Score improvement varied by training level: second-year residents improved most while third-year residents scored highest and improved least](training-level-differences-module-gains.md) — related
+- [Knowledge and confidence gains from the e-module are largest for medical students and smallest for residents](e-module-gains-largest-in-students.md) — related

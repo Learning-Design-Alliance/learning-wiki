@@ -58,3 +58,4 @@ CFA of the 13-item self-report model in the full sample (N = 288) demonstrated "
 - [Excluding low-loading items yields an eight-item ACLS rubric with better CFA fit than the full ten-item form](cfa-eight-item-acls-rubric-fit.md) — related
 - [Confirmatory factor analysis supports a three-factor structure of the six-item PtBL rubric with good fit](cfa-three-factor-rubric-good-fit.md) — related
 - [Confirmatory factor analysis showed the ten-factor admission competency model fit the data at a good-to-acceptable level](cfa-ten-factor-model-acceptable-fit.md) — a narrower finding that bears on this claim
+- [Confirmatory factor analysis supports STRICT's construct validity with acceptable fit indices](strict-cfa-acceptable-fit.md) — related

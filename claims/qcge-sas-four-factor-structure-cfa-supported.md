@@ -79,3 +79,4 @@ The authors' summary of the same confirmatory factor analysis, stating the "four
 - [Adapted PCE and MSLQ scales show good model fit and internal consistency for measuring collective and self-efficacy in simulation contexts](adapted-pce-mslq-scales-valid-in-simulation-context.md) — related
 - [Confirmatory factor analysis supports a three-factor structure for the Turkish-adapted Simulation Self-Report Cognitive Load Measurement Tool 2.0 with acceptable-to-good fit](turkish-clt-tool-cfa-three-factor-fit.md) — related
 - [Confirmatory factor analysis showed the ten-factor admission competency model fit the data at a good-to-acceptable level](cfa-ten-factor-model-acceptable-fit.md) — a narrower finding that bears on this claim
+- [Confirmatory factor analysis supports STRICT's construct validity with acceptable fit indices](strict-cfa-acceptable-fit.md) — related

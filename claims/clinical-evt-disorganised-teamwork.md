@@ -50,3 +50,4 @@ Focus group findings: "silos of team members" communicated solely within their o
 - [Teamwork is valued as essential in simulated basic-care scenarios, but students experienced coordination and role-definition difficulties, especially at the start](teamwork-valued-but-coordination-difficulties.md) — related
 - [The clinical EVT team leader facilitates collaboration inconsistently, in contrast with leadership behaviour observed in simulation](evt-leader-inconsistent-clinical-presence.md) — related
 - [Joint team-based training during single-port transition clarifies role-specific constraints and improves collaborative problem-solving](joint-sp-team-training-shared-mental-models.md) — related
+- [SBTT increases awareness of teamwork through role clarification and precise communication, including a defined team leader](sbtt-awareness-teamwork-roles-communication.md) — related

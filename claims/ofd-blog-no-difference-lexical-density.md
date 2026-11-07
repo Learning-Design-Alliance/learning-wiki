@@ -52,3 +52,4 @@ Post-test t-test on lexical density between the OFD group (M = 0.20, SD = 0.04) 
 - [Synchronous online learning significantly and positively impacts cognitive outcomes compared with asynchronous online learning (g = 0.37)](sol-beats-asynchronous-cognitive-outcomes.md) — related
 - [Synchronous online discussions produce higher behavioral, emotional, and cognitive engagement than asynchronous online discussions in online math courses](synchronous-discussion-increases-engagement.md) — related
 - [Four EFL learners interviewed about synchronous online forum discussion described seven themes: positive feelings, motivation, interaction, writing-skill gains and autonomy, alongside practical challenges and a cultural issue](ofd-learner-perceptions-seven-themes.md) — related
+- [Asynchronous and synchronous e-learning produce no difference in total clinical record writing quality among speech therapy students](async-sync-no-difference-cr-total-score.md) — related

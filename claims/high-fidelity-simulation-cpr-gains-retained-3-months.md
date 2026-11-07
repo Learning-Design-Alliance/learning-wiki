@@ -9,6 +9,7 @@ generated:
   at: 2026-11-01
 evidence_strength: weak
 newest_evidence: 2019
+source_checked: 2026-11-07
 sources:
   - id: garcía-suárez-2019
     resource: "https://doi.org/10.3390/ijerph16050768"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r3` · `q2`
-> **Currency** · newest study 2019 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2019 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` In the Aqel et al. trial, the high-fidelity simulation group showed significant immediate improvements in knowledge and skills that remained at the three-month measurement. [→ García-Suárez 2019](#garcia-suarez-2019)
@@ -58,3 +59,5 @@ Review's retention-period synthesis: in Aqel et al. (first-year nursing students
 - [Nursing students' knowledge of bleeding control rose from pre-training to immediately post-training and remained above pre-training levels at three months after training with a low-cost haemorrhage-control task simulator in a high-fidelity scenario, in one uncontrolled pre-post study](task-simulator-improves-bleeding-control-knowledge.md) — a narrower finding that bears on this claim
 - [Personalized video feedback produces higher BCLS skills scores one week and one month after training than in-person feedback alone](pvf-higher-bcls-skills-one-week-one-month.md) — related
 - [BCLS knowledge and skills scores rise over time in both groups after lecture and simulation training](bcls-scores-ascending-trend-both-groups.md) — a narrower finding that bears on this claim
+- [CBT plus high-fidelity simulation significantly improved nurses' sepsis knowledge immediately after the intervention, but the improvement was not sustained at 90 days](cbt-hfs-improved-sepsis-knowledge-not-sustained-90-days.md) — reports the opposite
+- [No statistically significant reduction in CPR knowledge or skills was detected between six and nine months after the first training](cpr-no-significant-decline-six-to-nine-months.md) — related

@@ -57,3 +57,4 @@ Feasibility outcomes from the pilot trial: 40 interns enrolled, 5 excluded befor
 - [All 20 enrolled residents completed the full simulation-based mastery learning program for nasolacrimal duct probing](sbml-nasolacrimal-probing-feasibility-completion.md) — related
 - [The chorda tympani replica was interrupted in every training session, with residents damaging it earlier than specialists, and it was the least appreciated structure in participant feedback](3dst-chorda-tympani-fragility-limitation.md) — related
 - [A fully immersive VR trauma simulation is feasible to deploy as an adjunct preparation for the ATLS course, with all completing participants achieving correct patient stabilisation.](vr-trauma-simulation-feasible-atls-adjunct.md) — related
+- [A pilot robotic simulation course adapted from Intuitive Surgical training was successfully implemented with senior medical students](pilot-robotic-course-implemented-senior-students.md) — related

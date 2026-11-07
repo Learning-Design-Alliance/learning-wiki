@@ -52,3 +52,4 @@ A 12-week randomized controlled pilot with 60 management students (30 per group)
 - [Classroom movement breaks increase vigour and concentration and decrease fatigue immediately after the break](cmb-vigour-concentration-fatigue.md) — related
 - [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — related
 - [MITCA prevented the growth of self-regulatory deficits seen under traditional homework over twelve weeks](mitca-limits-self-regulatory-deficits.md) — related
+- [A 12-week classroom-based physical activity break program significantly increases scholastic self-efficacy in adolescents compared with regular lessons](active-breaks-increase-scholastic-self-efficacy.md) — related

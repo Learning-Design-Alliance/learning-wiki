@@ -52,6 +52,7 @@ The article recommends integrating interactive electronic visualization formats 
 - [Integrate simulation, case-based learning and self-directed methods as complements to bedside teaching rather than substitutes for direct patient contact](simulation-complementary-to-bedside-teaching.md)
 - [Integrate virtual and augmented reality as supplementary tools rather than full replacements for traditional learning methods](integrate-vr-ar-as-supplementary-tools.md)
 - [Position immersive technologies and virtual patients as supplementary components within blended learning rather than stand-alone replacements for established clinical communication training](immersive-tech-adjunctive-blended-not-replacement.md)
+- [Use repeatable virtual standardized patient practice with real-time feedback as a low-cost supplement to bedside and standardized patient teaching](vsp-repeatable-practice-strategy.md)
 
 ## Examples
 -

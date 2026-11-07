@@ -62,3 +62,4 @@ Inter-rater reliability assessment of the concept image rubric, with all protoco
 - [The custom-made anatomical recognition score agrees strongly with the reference TTE quality score](reference-custom-tte-score-agreement.md) — a narrower finding that bears on this claim
 - [Inter-student diagnostic agreement was moderate for third-year and moderate-good for fifth-year students (Fleiss' Kappa 0.42 and 0.48)](fleiss-kappa-moderate-student-diagnostic-agreement.md) — related
 - [Inter-rater reliability of the modified Likert set-up assessment was fair overall and higher for unprompted (score 1) performance](fair-interrater-reliability-likert-setup-tool.md) — related
+- [The OD marking rubric achieved fair-to-good inter-rater reliability, with higher agreement in the expert CR examiner group than the typical examiner group](od-rubric-fair-to-good-inter-rater-reliability.md) — related

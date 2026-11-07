@@ -54,3 +54,4 @@ Theme 1 interview data: educators described ECNs "ticking a lot of questions off
 - [Short, poorly aligned mental health placements are perceived to leave graduates unprepared for acute inpatient care](short-misaligned-placements-unprepared-acute-inpatient.md) — related
 - [SP simulations evoked perceived ambiguity among nursing students about the psychiatric-mental health nurse's role, blurring therapeutic communication and psychotherapy](sp-simulation-role-ambiguity-psychiatric-nurses.md) — related
 - [Chronic psychiatric placement shortage in the UAE left most mental health nursing practicum students without traditional placements, motivating AI simulation](clinical-placement-shortage-uae-mental-health.md) — a narrower finding that bears on this claim
+- [VR in radiography focuses on image acquisition with little support for building patient relationships, which hybrid simulation may address](vr-limits-non-technical-skills-hybrid-simulation.md) — related

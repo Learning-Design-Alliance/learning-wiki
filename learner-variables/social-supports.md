@@ -13,7 +13,7 @@ generated:
 # Social Supports
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 153 claims (117 show a difference, 24 mixed, 12 no difference) · 114 studies (43 associational, 18 qualitative, 17 causal, 17 review, 8 theoretical, 7 quant-synthesis, 4 design), `q1`–`q3` · 16 of 114 report an effect size · 153 claims rest on one study
+> **Evidence** · 155 claims (118 show a difference, 25 mixed, 12 no difference) · 116 studies (43 associational, 19 qualitative, 18 causal, 17 review, 8 theoretical, 7 quant-synthesis, 4 design), `q1`–`q3` · 16 of 116 report an effect size · 155 claims rest on one study
 
 ## Description
 Social supports are the people available to help a learner if needed, and the learner's perception that they are there: parents and family, friends and classmates, teachers and other school staff, and the wider community. The support they give can be emotional (care and compassion), appraisal (useful feedback), instrumental (time, money, resources) and informational (advice). The LVN stresses perception: feeling that support would be there, even if it is never called on, contributes to well-being and academic success, and help that is actually received can strengthen that perception and a learner's sense of efficacy. Effective support looks different across families and cultures and can be provided across income levels; what matters is what the people around a learner do. Supports can be eroded by family separation, bereavement, parental imprisonment, substance misuse or illness, by bullying and discrimination, and by moving schools, and a relationship with another trusted adult can partly make up for that. It is measured with perceived-support scales for children, adolescents and adults. It overlaps with [belonging](belonging.md) and with the [home learning environment](home-learning-environment.md).
@@ -189,6 +189,8 @@ Social supports are the people available to help a learner if needed, and the le
 - [Teacher support, academic self-efficacy, academic emotions and academic achievement are all strongly positively correlated](../claims/teacher-support-efficacy-emotions-achievement-correlations.md) [+M] — learners who differ on it differ in outcomes
 - [Out-of-school visual art participation in private training centers and parent-supported activities predicts primary students' academic performance](../claims/oos-visual-art-predicts-academic-performance.md) [+W] — learners who differ on it differ in outcomes
 - [Parent-supported visual art participation correlates strongly with academic performance, SES, and private-center participation](../claims/vap2-correlations-academic-ses.md) [+W] — learners who differ on it differ in outcomes
+- [Lecturer presence was experienced positively by synchronous students while asynchronous students reported reduced social pressure despite missing the personal contact](../claims/lecturer-presence-social-pressure-theme.md) [~M] — measured as an outcome of the instruction studied
+- [Students formed self-initiated peer groups for peer-to-peer teaching and collaborative pamphlet writing, which reduced workload and supported learning](../claims/collaborative-peer-teaching-pamphlet-strategies.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

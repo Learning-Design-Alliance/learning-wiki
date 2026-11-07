@@ -58,3 +58,4 @@ Multilevel meta-analysis of cross-sectional (k = 35) and longitudinal (k = 8) ob
 - [Resistance training interventions have a small positive effect on combined cognition, academic achievement, and on-task behaviour in school-aged youth](resistance-training-small-positive-effect-academic-outcomes-youth.md) — related
 - [Students with good school achievement showed higher balance, lower limb coordination, and global physical fitness than insufficient achievers](good-achievement-higher-motor-fitness-scores.md) — related
 - [Participation in organized PA/sports at ages 5.5 and 8 years is associated with higher executive function, and at age 8 years with higher academic achievement](organized-sports-favorable-executive-function-academic.md) — related
+- [A 2-hour after-school outdoor physical activity program significantly improves overall physical fitness scores compared with free after-school time](after-school-physical-activity-improves-physical-fitness.md) — related

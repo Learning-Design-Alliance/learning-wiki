@@ -83,6 +83,7 @@ The review's design recommendation is that educators should not seek to replace 
 - [Incorporate the HMSS into health management teaching curricula as a supplement to traditional teaching](incorporate-hmss-as-supplement-to-traditional-teaching.md)
 - [Integrate simulation-based ultrasound training into peer-teaching programs rather than treating them as rivals](integrate-simut-into-peer-teaching-programs.md)
 - [Use narrated case-based mobile virtual patient applications as a supplement to traditional instruction to improve clinical reasoning skills](narrated-case-based-mobile-vp-supplement-strategy.md)
+- [Apply e-learning alongside in-person instruction as a complementary learning opportunity, especially for practical and clinical courses](combine-e-learning-with-in-person-for-practical-skills.md)
 
 ## Examples
 -

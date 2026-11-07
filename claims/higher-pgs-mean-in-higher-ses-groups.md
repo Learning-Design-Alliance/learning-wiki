@@ -60,3 +60,4 @@ Between-family analysis of PGS means across four SES groups in 2335 children wit
 - [Family environments, especially family SES, mediate polygenic score effects on academic achievement across development, with SES mediating nearly one third of the EA PGS prediction at some ages](family-environments-mediate-pgs-achievement-effects.md) — related
 - [Neighbourhood characteristics show only weak mediation of polygenic score effects on academic achievement](neighbourhood-weak-mediation-pgs-achievement.md) — related
 - [PGS–achievement associations did not differ across socio-economic strata: no significant Cog or NonCog PGS × SES interaction was detected](no-pgs-ses-interaction-achievement.md) — a broader claim this one bears on
+- [The declining ability–attainment correlation persists in robustness checks addressing reverse causality and parental SES](ability-attainment-decline-robust-to-reverse-causality-and-ses.md) — related

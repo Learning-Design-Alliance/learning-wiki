@@ -48,3 +48,4 @@ Descriptive within-OLM-group questionnaire results (n = 39, Table 3). Students a
 - [Self-reported attention, concentration, and involvement did not differ between OLM and IPL students](no-difference-attention-concentration-involvement-olm-ipl.md) — related
 - [Medical students taught via an asynchronous online learning module achieved significantly higher knowledge test scores than students taught via an in-person lecture in nutritional medicine](olm-higher-test-scores-than-ipl-nutritional-medicine.md) — related
 - [Students valued flexibility and self-directed learning but desired more in-person interaction and better lecture recordings in the hybrid flipped course](student-themes-flexibility-interaction-recordings.md) — related
+- [Synchronous students felt constrained by the lecturer's schedule while asynchronous students appreciated flexibility in managing their own time](time-management-flexibility-theme.md) — related

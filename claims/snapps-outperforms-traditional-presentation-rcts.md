@@ -71,3 +71,4 @@ The article reports, citing Shindala et al (2024), an RCT with 30 Family Medicin
 - [Post-test MCQ scores rose from pre-test to post-test across all three pathology residency years in one single-group pre-post study of SNAPPS-based case presentation](snapps-improves-mcq-scores-pathology-residents.md) — related
 - [SNAPPS outperformed the one-minute preceptor and both outperformed traditional clinical teaching for clinical reasoning skill](snapps-superior-one-minute-preceptor-traditional-teaching.md) — a broader claim this one bears on
 - [Nine of 14 preceptors (64%) had received no formal clinical teaching training despite precepting final-year nursing students](preceptors-lack-formal-teaching-training-pakistan.md) — related
+- [A 45-minute SNAPPS lecture significantly improves psychiatry residents' case-discussion teaching scores across outpatient, ward, and emergency settings](snapps-lecture-improves-resident-teaching-scores.md) — related

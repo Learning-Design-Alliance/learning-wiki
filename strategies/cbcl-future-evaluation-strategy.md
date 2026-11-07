@@ -50,6 +50,7 @@ The article recommends that future CBCL studies move beyond subjective perceptio
 
 - [Use longitudinal follow-up assessments to evaluate knowledge retention and clinical application of TBL](longitudinal-assessment-tbl-retention.md)
 - [Incorporate institution-level benchmarking, collaboration process measures, and delayed or performance-based assessments in future CBLC evaluations](cblc-future-evaluation-strategy.md)
+- [Evaluate simulation training with pre- and post-simulation objective tests and delayed retention assessment](pre-post-osats-retention-evaluation-strategy.md)
 
 ## Examples
 -

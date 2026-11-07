@@ -73,3 +73,4 @@ Two of the seven self-evaluation items showed no significant difference between 
 - [BOPPPS/FC-CBL residents self-rated their teamwork and clinical thinking higher than LBL residents on a five-point questionnaire](boppps-fc-cbl-higher-teamwork-clinical-thinking.md) — related
 - [Online and face-to-face neurosurgery teaching produce no statistically significant difference in theory test scores](online-f2f-neurosurgery-theory-scores-no-difference.md) — related
 - [Online PBL is as effective as traditional face-to-face PBL, with no significant difference in knowledge outcomes or assignment grades](online-pbl-equivalent-to-face-to-face-pbl.md) — related
+- [CORE clinical reasoning scores do not differ by platform; CORE correlates with GPA but not with PBL scores](core-scores-platform-equivalent-gpa-correlation.md) — related

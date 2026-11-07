@@ -137,3 +137,4 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Trainers report financial incentives, partner choice, institutional recognition and dedicated time as motivators, and lack of time and of trainee awareness as main barriers to dissemination](trainer-reported-motivators-and-barriers-pfa-o.md) — related
 - [Student nurses experience time constraints that hinder their utilisation of self-directed simulation-based learning](time-constraints-hinder-nursing-ssl-utilisation.md) — related
 - [Tutor-related barriers including lack of motivation, work overload from a shortage of trained tutors, and lack of PBL training and experience impede PBL implementation](dbu-pbl-tutor-related-barriers.md) — related
+- [Management and clinical staff prioritise different aspects of ED simulation training](clinician-management-priority-split-sbt.md) — related

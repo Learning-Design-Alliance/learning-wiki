@@ -70,3 +70,4 @@ Lack of punctuality and commitment subtheme from tutor interviews; the tutor als
 - [Sixth graders acting as peer tutors tended to take over problems and provide inaccurate feedback rather than help their tutee](sixth-graders-poor-peer-tutors.md) — related
 - [Peer tutoring enhanced tutees' understanding of complex subjects, exam performance and study strategies in a UAE undergraduate nursing program](peer-tutoring-tutee-academic-gains-nursing-uae.md) — related
 - [Most first-year medical student participants in the Academic Tutoring programme reported changing their study habits, including adopting active strategies and abandoning passive ones](at-programme-reported-study-habit-changes.md) — related
+- [Some students remained passive in pandemic e-learning, giving up and taking no effective action to support their learning](passive-surrender-elearning-challenges.md) — related

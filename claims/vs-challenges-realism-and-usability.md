@@ -90,3 +90,5 @@ Synthesized student-challenges finding; one student described sweating and feeli
 - [Qualitative feedback raised concerns about perceived lack of experience for certain tasks, such as complex endodontic treatment and communication skills](qualitative-concerns-experience-epas.md) — related
 - [Virtual tasks that deviated from real-world procedures increased task burden, causing fixation on technical actions that impeded the simulation's core learning objectives](vr-task-burden-from-deviant-procedures.md) — related
 - [Students most often credit the virtual system with enhanced safety (90.8%), unlimited repetition (79.6%), and cost reduction (74.6%)](student-perceived-advantages-safety-repetition-cost.md) — related
+- [Participants report that realism and fidelity in SBTT are important for learning outcome and transfer of learning](sbtt-realism-fidelity-learning-outcome.md) — related
+- [VR showed no statistical difference from physically operating a real CT scanner for technical knowledge and decision-making](vr-equivalent-real-ct-scanner-outcomes.md) — related

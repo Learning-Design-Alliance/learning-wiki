@@ -47,3 +47,4 @@ R3STEP multinomial logistic regression predicting Time 1 profile membership from
 - [At Time 3, profile membership was significantly associated with Japanese learning self-efficacy and learning burnout, with all three profiles differing pairwise](profiles-predict-self-efficacy-and-burnout.md) — related
 - [Greater prior AI learning experience and female gender predicted upward motivational profile transitions](prior-ai-experience-gender-predict-profile-transitions.md) — related
 - [Gender predicted SRL profile membership, with male students more likely in lower SRL profiles; major, prior experience, and time commitment did not predict membership](gender-predicts-srl-profile-membership.md) — related
+- [Male gender and older age predict greater odds of membership in the minimal motivation and metacognitive self-regulation profile](gender-age-predict-minimal-mmsr-membership.md) — related

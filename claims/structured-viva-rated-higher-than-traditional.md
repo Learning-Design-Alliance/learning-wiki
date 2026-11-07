@@ -48,3 +48,4 @@ Likert-scale quantitative feedback analysis (Fig. 3) of student ratings across p
 - [Student and examiner satisfaction is high for structured and virtual oral formats (72–96% agreement), with preference for SOEs over traditional viva](high-satisfaction-structured-oral.md) — related
 - [Students preferred the hybrid viva-voce format (56%) over structured (28%) and traditional (16%) formats](students-prefer-hybrid-viva-format.md) — related
 - [Structured viva shows higher internal consistency reliability (Cronbach alpha 0.75–0.80) than traditional viva (alpha 0.50)](structured-viva-cronbach-alpha-higher-than-traditional.md) — related
+- [Candidates and examiners reported satisfaction, perceived fairness and trust in a remotely conducted high-stakes viva voce examination](post-exam-survey-satisfaction-fairness-trust.md) — related

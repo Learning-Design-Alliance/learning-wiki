@@ -50,3 +50,4 @@ Contrasting groups' standard setting on mean composite z-scores across all six r
 - [A contrasting groups' method sets a 70% pass/fail score with one false positive and no false negatives](contrasting-groups-pass-fail-70-camera-navigation.md) — related
 - [A credible pass/fail standard of 34.4% was established using the contrasting groups' method](foi-test-pass-fail-standard-34-4-percent.md) — related
 - [The contrasting groups method yields a 91% pass/fail cutoff, which the authors judged too low and raised to the expert average of 96%](contrasting-groups-cutoff-91-raised-to-expert-average-96.md) — related
+- [Contrasting groups' standard setting establishes a pass-or-fail score of 19 points, with 19% false positives among novices and 5% false negatives among experienced students](vr-contrasting-groups-pass-score-19.md) — related

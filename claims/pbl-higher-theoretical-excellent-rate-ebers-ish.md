@@ -48,3 +48,4 @@ Randomized controlled trial in a pathology training program comparing PBL (n=29)
 ## Related Claims
 - [Assessment scoring standards remained stable across the four-year study period, with no significant inter-year score differences in either group](inter-year-score-stability-ebers-ish-assessment.md) — related
 - [The RFPETM group had a far larger proportion of students rated excellent (69.77%) on final scores than the TPETM group (4.62%)](rfpetm-excellent-final-score-proportion-69-77-percent.md) — related
+- [Far more simulation-trained students reached good or excellent skill levels than controls](simulation-group-good-excellent-skill-levels.md) — related

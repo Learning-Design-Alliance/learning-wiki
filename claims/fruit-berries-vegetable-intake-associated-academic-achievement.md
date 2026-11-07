@@ -52,3 +52,4 @@ Cross-sectional analysis of food intake versus dichotomized grades, adjusted for
 - [Regular breakfast consumption is associated with increased odds of high academic achievement in Norwegian adolescent girls and boys, most strongly in girls](regular-breakfast-associated-high-academic-achievement-norwegian-adolescents.md) — related
 - [Smoking and snuffing are inversely associated with high academic achievement in both adolescent girls and boys](smoking-snuffing-inversely-associated-academic-achievement.md) — related
 - [Individual aMED components: vegetable, nut, and moderate alcohol intakes show protective associations with cognitive function](amed-components-vegetables-nuts-alcohol-protective.md) — related
+- [Snacking on vegetables and fruits is associated with higher subjective academic achievement, though the association is weaker than other dietary factors](fruit-vegetable-snacks-higher-saas.md) — related

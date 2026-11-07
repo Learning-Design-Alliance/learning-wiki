@@ -582,7 +582,7 @@ def append_manifest_entry(
     bare "ingested".
 
     `candidates` lists the principle and pattern candidates the source added to
-    eval/candidates/candidates.ndjson instead of writing pages (2026-10-07). An
+    eval/candidates/candidates/ instead of writing pages (2026-10-07). An
     "ingested" source needs pages or candidates: one whose only contribution was a
     candidate has contributed, and must not read as a failed run.
     """

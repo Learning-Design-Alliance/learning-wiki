@@ -51,3 +51,4 @@ Hierarchical regression (Table 8) on the Time 1 sample predicted weighted first-
 - [ADHD symptoms were not significantly related to GPA in this sample](adhd-symptoms-not-related-gpa-ethiopian-sample.md) — related
 - [Psychological symptom burden is independently and negatively associated with self-perceived academic performance](psychological-symptom-burden-negative-aps.md) — related
 - [Study completers had significantly better first-semester academic performance than non-completers, while baseline psychiatric symptoms did not differ between groups](completers-higher-gpa-than-non-completers.md) — related
+- [Depressive symptoms are negatively related to GPA among college students](depressive-symptoms-negatively-related-to-gpa.md) — related
