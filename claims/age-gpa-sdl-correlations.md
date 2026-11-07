@@ -50,3 +50,4 @@ Pearson correlation analysis in the same cross-sectional study of 300 nursing st
 - [Age showed a weak but significant positive correlation with all evaluation domains, while gender showed no significant effect](age-correlation-domain-scores.md) — related
 - [Emotional intelligence correlates positively with self-directed learning among nursing students (r = 0.63)](ei-sdl-positive-correlation-nursing-students.md) — related
 - [GPA correlates weakly but significantly with monthly income (negatively) and motivation (positively) in physiotherapy students](income-motivation-weak-gpa-correlations.md) — related
+- [Self-efficacy for learning estimated by IRT was not significantly correlated with one-time exam scores or full-range GPA, but showed a weak positive correlation with GPA among students with positive SEL](sel-gpa-positive-range-correlation.md) — related

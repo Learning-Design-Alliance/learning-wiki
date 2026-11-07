@@ -71,3 +71,5 @@ The same Mann-Whitney U analysis of Likert-survey dimensions found no significan
 - [Experimental-group students rated satisfaction, learning enthusiasm, comprehension, interaction, and interest in nephrology more favorably than control students](boppps-rain-classroom-favorable-student-evaluations.md) — reports the opposite
 - [Experimental-group trainees report higher satisfaction than controls in teaching atmosphere, learning interest, and learning efficiency](digital-cbl-higher-satisfaction-interest-efficiency.md) — reports the opposite
 - [DeepSeek assistance does not significantly increase perceived engagement via interactive elements or confidence in learning](deepseek-pbl-null-interactive-engagement-confidence.md) — reports the opposite
+- [Training interest is higher with the 12-hole clock model, while confidence rises and satisfaction, acceptance, and difficulty ratings are comparable between models](clock-model-higher-interest-comparable-satisfaction.md) — related
+- [Teaching satisfaction did not differ significantly between O2O/PBL and LBT trainees across five surveyed aspects](o2o-pbl-teaching-satisfaction-no-difference-nephrology.md) — related

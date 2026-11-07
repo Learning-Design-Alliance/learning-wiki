@@ -49,3 +49,4 @@ Paired pre-post analysis of the student study group (n=48) in a prospective cont
 - [Students' anatomy subitem scores did not change from pre-test to post-test after e-learning preparation in one single-group pre-post study](no-anatomy-gain-elearning.md) — a narrower finding that bears on this claim
 - [Both simulator- and human-based training significantly increase theoretical and self-assessed FATE competency in third-year medical students](fatesim-both-modalities-improve-fate-competency.md) — related
 - [The simulator-trained group achieves a significantly larger objective theory-test increase from T1 to T2 than the human-trained group](fatesim-simulator-group-larger-theory-gain.md) — related
+- [Paramedics' theoretical POCUS competence improved significantly across the digital preparation and on-site phases, from 41.3% at T1 to 82.7% at T3](paramedics-theoretical-pocus-gains-three-timepoints.md) — related

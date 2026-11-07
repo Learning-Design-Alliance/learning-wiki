@@ -71,3 +71,4 @@ Review synthesis across four disciplines; Table 2 prints retention interval β =
 - [Basic science knowledge scores decline with increasing years post-graduation](basic-science-scores-decline-years-post-graduation.md) — related
 - [Children retain self-derived knowledge over a one-week delay in classroom settings, with performance increasing from Session 1 to Session 2](retention-self-derived-knowledge-one-week.md) — related
 - [Rehearsal significantly optimises retention of basic science knowledge among medical practitioners](rehearsal-optimises-basic-science-retention-practitioners.md) — related
+- [Discipline-level predictors differed: gender predicted anatomy scores, graduate type predicted physiology, social sciences and biochemistry scores](discipline-level-predictors-bsre.md) — related

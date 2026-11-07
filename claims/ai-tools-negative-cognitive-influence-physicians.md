@@ -53,3 +53,4 @@ Authors' viewpoint assertion in the foundational-knowledge section, offered with
 - [Reflection improves correspondence between perceived and behavioral reliance on ChatGPT](reflection-improves-awareness-calibration.md) — related
 - [AI support can improve task performance while weakening users' metacognitive accuracy and leaving their own reasoning unimproved](ai-performance-metacognition-dissociation.md) — possibly the same claim (merge candidate)
 - [Longitudinal studies of trust and reliance in AI advice examine whether users rely appropriately over time but not whether independent reasoning capacity is maintained](longitudinal-trust-studies-omit-skill-outcomes.md) — related
+- [Electronic prognostic tools used alone performed significantly worse than physicians on the surprise question and did not improve physician accuracy when used alongside them](prognostic-tools-alone-worse-and-no-added-benefit.md) — a narrower finding that bears on this claim

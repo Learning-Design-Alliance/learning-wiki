@@ -53,3 +53,4 @@ Interrater reliability analysis via intra-class coefficients for rater groups as
 - [Rater reliability was good for the adapted checklist, and objective and subjective scores correlated strongly](adapted-checklist-irr-and-score-coherence.md) — related
 - [Assessment reliability was high: intra-rater ICCs of 0.98 and 0.79 and inter-rater ICCs of 0.92 and 0.73](osats-assessor-reliability-iccs.md) — related
 - [Experienced and naive raters score scenarios similarly with the QASSH, with significant differences in only two of the assessed scenarios](qassh-naive-vs-experienced-raters-mostly-no-difference.md) — related
+- [Interrater reliability of NOTSS ratings was low with 3 raters and improved with 2 raters](notss-interrater-reliability-low-three-raters-improved-two.md) — related

@@ -47,7 +47,8 @@ The article recommends that because simulators cannot fully reproduce the realis
 - [The simulator-trained group performs significantly worse than the human-trained group on the practical FATE examination with human subjects](../claims/fatesim-simulator-group-worse-on-humans.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Integrate ultrasound and radiological training early into medical degree programs, combining practical and theoretical cross-sectional imaging teaching](early-ultrasound-radiology-training-integration.md)
 
 ## Examples
 -

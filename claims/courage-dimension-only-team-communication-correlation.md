@@ -48,3 +48,4 @@ Correlation analysis (Table 4) in the 1977-nurse cross-sectional survey found "t
 - [Stronger caring ability is associated with stronger clinical communication competency among tertiary-hospital staff nurses (r = 0.490)](caring-ability-communication-competency-correlation-nurses.md) — related
 - [Department, nursing years, and caring ability are independent predictors of nurses' clinic communication competency, explaining 30.2% of variance](regression-predictors-ncccs-department-years-cai.md) — related
 - [Nurses scored highest on team communication competency and lowest on communication competency in difficult clinical scenes](ncccs-dimension-profile-difficult-scenes-lowest.md) — related
+- [The courage dimension of humanistic care competence is negatively correlated with emotional intelligence (r = -0.248)](courage-dimension-negative-correlation-ei.md) — related

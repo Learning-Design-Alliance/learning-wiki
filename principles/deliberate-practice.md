@@ -150,6 +150,7 @@ Drill performance, whole-task performance at the end of a session, retained perf
 - [Provide at least three repeated practice sessions with expert-answer feedback when training novice raters on standardized assessment scoring](../strategies/three-practice-sessions-feedback-strategy.md)
 - [Use deliberate practice with repeated case-based engagement and immediate feedback for assessment skill training](../strategies/deliberate-practice-case-based-pain-assessment-training.md)
 - [Three design principles — authentic learning, deliberate practice, and scaffolding complexity — guiding iterative design of telementoring sessions](../designs/telementoring-three-design-principles.md)
+- [Procedural simulation instructional design strategy: mastery learning, process feedback, and competency decay prevention](../strategies/procedural-sim-mastery-decay-strategy.md)
 
 ### Illustrative
 

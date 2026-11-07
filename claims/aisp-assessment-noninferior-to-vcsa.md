@@ -49,3 +49,4 @@ Within-intervention-group comparison of AISP conversation assessments against vC
 - [AISP-based self-directed learning is statistically noninferior to standard online SDL resources in vCSA scores among fourth-year surgical students](aisp-noninferior-vcsa-scores.md) — related
 - [No significant differences between AISP and control groups in any individual vCSA domain](aisp-no-domain-differences.md) — related
 - [Students who learned with an AISP received significantly more distinction grades than controls (6 vs 1)](aisp-more-distinction-grades.md) — related
+- [Lecturer-rated performance showed no significant difference between students’ first and second simulated patient consultations](no-significant-difference-first-second-simulated-encounters.md) — related

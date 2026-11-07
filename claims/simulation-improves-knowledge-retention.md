@@ -60,3 +60,4 @@ Retention theme within the Time dimension synthesis; the review cites a randomiz
 - [VR and conventional teaching produce equivalent medium-term learning success after one month](vr-unit-equivalent-medium-term-learning-success.md) — reports the opposite
 - [Component-level retention shows the same pattern: LTM superior except knowledge, where the traditional method is superior](ltm-component-retention-pattern.md) — related
 - [Technology-enhanced simulation improves knowledge, procedural skills, teamwork behaviors, and transfer to practice](simulation-improves-knowledge-skills-teamwork-transfer.md) — related
+- [High-fidelity simulation improves skill acquisition and retention compared with traditional training methods](high-fidelity-sim-improves-skill-acquisition.md) — a narrower finding that bears on this claim

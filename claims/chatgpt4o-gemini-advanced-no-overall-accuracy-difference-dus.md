@@ -54,3 +54,4 @@ Comparative cross-sectional analysis of 1,504 text-based multiple-choice questio
 - [Discipline-specific accuracy differences favor ChatGPT-4o in Prosthetic Dentistry and Dentomaxillofacial Radiology and Gemini Advanced in Pediatric Dentistry](discipline-specific-llm-accuracy-differences-dus.md) — a narrower finding that bears on this claim
 - [Incorrect chatbot responses concentrate in clinical dental sciences rather than fundamental medical sciences](llm-errors-concentrate-clinical-dental-sciences-dus.md) — related
 - [ChatGPT and Gemini produced questions of comparable technical accuracy (84.3% vs 83.8%) and equal retention rates](chatgpt-gemini-comparable-question-accuracy.md) — related
+- [The three AI chatbots differ significantly in overall accuracy on the Italian CINECA entrance test for healthcare science degrees (p < 0.001)](ai-chatbots-accuracy-differ-cineca-entrance-test.md) — related

@@ -52,3 +52,4 @@ Objective performance metrics in the 80-radiographer study: supervisor evaluatio
 - [VR-trained students outperformed control students in all three assessed competency modules in both assessment modes](vr-cataract-three-module-subscore-advantage.md) — related
 - [Figure 2 boxplots show VR-trained students with higher median preparedness, though the article reports both lower and similar variability](figure2-preparedness-distribution.md) — related
 - [Virtual and traditionally taught nursing groups showed no significant difference in practical skills measured by OSCE](osce-no-difference-virtual-traditional-nursing.md) — related
+- [Meta-analytic evidence cited by the review finds simulation-trained medical students outperformed traditionally trained peers in technical and non-technical skills assessments](meta-analysis-sbt-outperforms-traditional-training.md) — related

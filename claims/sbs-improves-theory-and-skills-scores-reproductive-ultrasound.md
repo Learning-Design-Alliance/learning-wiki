@@ -51,3 +51,4 @@ Exploratory randomized comparison of 50 postgraduate reproductive medicine stude
 - [Overall training satisfaction is descriptively higher under step-by-step teaching (96.0% vs. 72.0%) but not statistically significant](sbs-overall-satisfaction-not-significant.md) — related
 - [Integrated clinical pathway and case-based teaching yields higher post-training theoretical examination scores than traditional teaching in endocrinology residency](clinical-pathway-cbt-higher-theoretical-scores.md) — related
 - [Modified Peyton’s four-step approach yields higher immediate post-training OSCE scores than traditional Peyton in resident clinical skills training](modified-peyton-higher-immediate-osce.md) — related
+- [Theoretical knowledge exam scores did not differ significantly between refined Peyton and traditional teaching groups one month after training](refined-peyton-no-theoretical-knowledge-difference.md) — related

@@ -52,3 +52,4 @@ Mixed-effects linear regression with experience (<10 vs ≥10 years) and trainin
 - [Self-reported reader confidence in measuring MUL rose significantly from pre-test to post-test across all training groups in one uncontrolled pre-post study](online-training-improves-mul-reader-confidence.md) — related
 - [Prior radiological experience has no significant impact on PI-RADSv2.1 or PI-QUALv2 learning, with only a minor effect on EPE grading](prior-radiological-experience-minimal-impact.md) — a broader claim this one bears on
 - [No significant interaction between experience level and training effect was observed, suggesting video and AR training benefits across residency years](no-experience-training-interaction.md) — related
+- [Radiology residents, regardless of prior prostate MRI experience, achieve high whole-gland segmentation accuracy against an expert reference](residents-high-prostate-segmentation-accuracy.md) — related

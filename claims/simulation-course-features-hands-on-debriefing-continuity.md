@@ -54,3 +54,4 @@ Inductive thematic analysis of free-text post-simulation questionnaire responses
 - [Dental students' views on the pre-clinical to clinical transition cluster into three themes: familiarity with the clinical environment, preparation prior to clinical sessions, and the benefit of practical experience.](three-themes-dental-transition-focus-groups.md) — related
 - [Students most valued the safe simulated learning environment, hands-on practice, and learning EFAST indications in the curriculum](simulated-environment-valued-efast-training.md) — related
 - [Free-text feedback on the US-PIVC course clusters around technical skills, improved confidence, clinical utility and future use, with praise for interactivity and repeated practice](us-pivc-course-feedback-themes.md) — related
+- [Structured debriefing after simulation sessions enhances learning outcomes and improves clinical performance](structured-debriefing-enhances-sbt-outcomes.md) — related

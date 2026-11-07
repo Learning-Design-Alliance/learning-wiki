@@ -51,3 +51,5 @@ Pilot randomized pretest–posttest study; ATLS performance measured with a rese
 - [VR group showed numerically greater trauma-management error reduction than the mannequin group in exploratory comparison](vr-eye-tracking-greater-error-reduction-pilot.md) — related
 - [Both VR and mannequin simulation situational-awareness scores rose significantly from pre-test to post-test within each group](both-modalities-improved-sa-within-groups.md) — related
 - [VR-based training leads to significantly higher final thoracentesis procedural scores than traditional mannequin-based training in medical interns](vr-training-improves-thoracentesis-final-scores.md) — related
+- [VR simulation as ATLS course preparation shows no significant difference from control in knowledge test scores, clinical scenario pass rates, or course completion.](vr-atls-no-objective-effectiveness-difference.md) — related
+- [A fully immersive VR trauma simulation is feasible to deploy as an adjunct preparation for the ATLS course, with all completing participants achieving correct patient stabilisation.](vr-trauma-simulation-feasible-atls-adjunct.md) — related

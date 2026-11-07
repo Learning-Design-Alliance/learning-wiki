@@ -51,6 +51,7 @@ The article recommends designing education from identified practice gaps and lea
 - [Support EBP education with mentorship, protected time, and continuity of initiatives rather than isolated courses](ebp-institutional-support-strategy.md)
 - [Individualized SMART learning plans and skill acquisition plans for clinical ultrasound training](smart-learning-plans-ultrasound-skills.md)
 - [Involve physicians with palliative medicine expertise in perioperative care and determine treatment limitations beforehand through structured advance care planning](palliative-expertise-perioperative-involvement-strategy.md)
+- [Platform-based flexible practice scheduling with logged attendance](platform-appointment-practice-logging-strategy.md)
 
 ## Examples
 -

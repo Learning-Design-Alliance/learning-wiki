@@ -13,7 +13,7 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 293 claims (194 show a difference, 56 mixed, 43 no difference) · 182 studies (68 associational, 62 causal, 27 review, 10 quant-synthesis, 6 qualitative, 6 theoretical, 3 design), `q1`–`q4` · 40 of 182 report an effect size · 285 claims rest on one study
+> **Evidence** · 294 claims (194 show a difference, 57 mixed, 43 no difference) · 183 studies (69 associational, 62 causal, 27 review, 10 quant-synthesis, 6 qualitative, 6 theoretical, 3 design), `q1`–`q4` · 41 of 183 report an effect size · 286 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
@@ -329,6 +329,7 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Most students reported that having a retake opportunity reduced their anxiety on the initial exam, similarly across social identities, though about half felt anxious while retaking](../claims/retakes-reduce-initial-exam-anxiety.md) [+M] — measured as an outcome of the instruction studied
 - [Test anxiety is negatively correlated with academic performance measures such as USMLE scores and academic grades](../claims/test-anxiety-negative-correlation-performance-medical-students.md) [+M] — learners who differ on it differ in outcomes
 - [Test anxiety was not significantly correlated with OSCE scores or GPA in one study of medical students](../claims/test-anxiety-null-osce-gpa-medical-students.md) [-W] — learners who differ on it differ in outcomes
+- [Supported techniques show higher associations with self-efficacy, growth mindset, control beliefs and learning goals than unsupported techniques, but low elaboration relates to more exam anxiety](../claims/supported-techniques-beliefs-associations.md) [~M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]

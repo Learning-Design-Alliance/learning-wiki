@@ -46,7 +46,8 @@ The article recommends implementing peer assessment in PtBL with specific design
 - [Student groups perceive peer assessment in PtBL as beneficial for feedback and engagement but raise bias concerns](../claims/student-perceptions-peer-assessment-benefits-bias.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Provide pre-assessment training to raters before video-based quality assessment](pre-assessment-rater-training-strategy.md)
 
 ## Examples
 -

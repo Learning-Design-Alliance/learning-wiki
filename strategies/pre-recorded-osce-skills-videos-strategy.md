@@ -51,6 +51,7 @@ The article recommends providing students with step-by-step pre-recorded demonst
 - [Structure a simulation-based mastery learning program as sequential steps: video tutorial, MCQ with feedback, supervised practice, then repeated self-directed practice with video-based assessment](sbml-sequential-training-protocol-probing.md)
 - [Video Based Modeling](video-based-modeling.md)
 - [Video Based Instruction](video-based-instruction.md)
+- [Deliver a portion of clinical nursing skills instruction through mobile-based video learning that students can replay anytime](mobile-video-learning-for-clinical-skills-strategy.md)
 
 ## Examples
 -

@@ -79,3 +79,4 @@ The review reports behavioural improvement "across study designs", with ratings 
 - [Trauma team training improves team-specific performance outcomes such as teamwork and task completion scores](ttt-improves-team-specific-outcomes.md) — related
 - [Teams with low technical performance scored far lower on situation awareness and patient communication than high-performing teams](low-performers-situation-awareness-patient-communication-scores.md) — related
 - [Team communication, stress management, and task management were not significantly associated with high technical performance](team-communication-stress-task-management-not-associated-technical-performance.md) — related
+- [Participants regard post-simulation debriefing, role allocation, and interprofessional knowledge-sharing as critical to learning CRM skills](fgd-debriefing-role-allocation-knowledge-sharing-crm.md) — related

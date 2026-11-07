@@ -55,6 +55,8 @@ The article's forward-looking recommendations combine a caution and an improveme
 - [Tiered ECE implementation: virtual and case-based learning first, then simulated patient interaction, then supervised real patient contact](tiered-ece-implementation-strategy.md)
 - [Strengthen interinstitutional collaboration and investigate emerging technologies (3D printing, augmented reality) in simulation-based medical education research](strengthen-collaboration-emerging-technologies-strategy.md)
 - [Communicate that VR assessment complements rather than replaces existing examination formats, and retain manual recording during early implementation](vr-as-complement-communication-strategy.md)
+- [Identify specific scenarios, learner populations and domains where VR surpasses or enhances traditional trauma training before integrating it into curricula](targeted-vr-integration-trauma-curricula-strategy.md)
+- [Add virtual simulation to the online platform of blended clinical skills courses](virtual-simulation-in-blended-skills-platform.md)
 
 ## Examples
 -

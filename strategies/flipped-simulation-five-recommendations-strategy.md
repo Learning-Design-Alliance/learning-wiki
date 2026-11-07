@@ -49,6 +49,7 @@ The article operationalizes five recommendations for flipped simulation: learnin
 - [In online flipped classrooms, set appropriate task difficulty, organize team grouping, build incentive mechanisms, and use multi-dimensional digital evaluation](online-flipped-classroom-task-difficulty-grouping-incentives.md)
 - [Virtual Flipped Classroom](virtual_flipped_classroom.md)
 - [Integrate AI-assisted virtual patient pre-class work with flipped classroom in-class discussion for clinical decision-making training](ai-assisted-cbl-fc-blended-strategy.md)
+- [Use blended learning with 'internet plus' and flipped classroom in evidence-based medicine teaching](internet-plus-fc-strategy-ebm-teaching.md)
 
 ## Examples
 -

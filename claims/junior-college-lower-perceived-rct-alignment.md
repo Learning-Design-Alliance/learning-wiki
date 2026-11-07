@@ -66,3 +66,4 @@ Descriptive results from the same survey of 83 practitioners: junior college deg
 ## Related Claims
 - [Practitioners aged 40 and above perceived higher school–clinical alignment in root canal disinfection and temporary sealing than those aged 21–29](older-group-higher-perceived-rct-alignment.md) — related
 - [Educational level was significantly associated with total BLS knowledge score, with bachelor's and master's degree holders scoring higher.](education-level-associated-bls-knowledge-score.md) — related
+- [Higher educational attainment was associated with better qualification up to a plateau at the doctoral level](education-level-qualification-plateau-doctorate.md) — related

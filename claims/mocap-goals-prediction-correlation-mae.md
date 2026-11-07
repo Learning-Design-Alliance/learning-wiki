@@ -49,3 +49,4 @@ External validation against two experts' blinded video-based GOALS ratings (inte
 - [A motion-capture ML three-tier classification model classifies laparoscopic experience with 67.3% accuracy on a dissection task and 56.9% on a suturing task in external validation](mocap-three-tier-classification-external-validation-accuracy.md) — related
 - [Models with similar rank correlations differ substantially in estimating difficulty magnitude (RMSE and MAE)](llm-difficulty-magnitude-error-varies-across-models.md) — related
 - [Self-assessment and expert evaluation scores correlate strongly on a suture exercise](sa-ee-strong-correlation-suture.md) — related
+- [Kinematic indices computed from the developed system correlate strongly with those from the six-camera system, indicating comparable skill-evaluation capability](kinematic-indices-high-spearman-correlation.md) — related

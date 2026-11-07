@@ -66,6 +66,7 @@ The review recommends that, given pooled LLM accuracy of about 64%, dental educa
 - [Use multimodal AI chatbots such as ChatGPT-4o as diagnostic support tools in dental education, particularly endodontics](multimodal-ai-chatbot-diagnostic-support-dental-education.md)
 - [Use LLMs as a supplementary educational tool in dental education and exam preparation, with reliability evaluated per specialty](llm-supplementary-dental-education-strategy.md)
 - [Use advanced LLMs as supplementary oncology education and decision-support tools, with outputs verified by medical professionals and models regularly updated](llm-oncology-support-with-professional-verification.md)
+- [Use AI chatbots as supplementary, not primary, resources in entrance-exam preparation](chatbots-supplement-not-primary-exam-preparation.md)
 
 ## Examples
 -

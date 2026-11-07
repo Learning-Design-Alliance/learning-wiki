@@ -48,3 +48,4 @@ Focus group data with academics (n=8) and registered CEPs (n=5) thematically ana
 - [Clinical placements are identified as the most important source of knowledge and skill attainment for student clinical exercise physiologists](clinical-placements-optimal-cep-competency.md) — related
 - [Assessor role diversity is greater in secondary care placements and the most common assessor type shifted from nurse (2016/17) to clinical educator (2017/18 and 2018/19)](assessor-role-diversity-secondary-care.md) — related
 - [Common barriers to pressure injury prevention include staff shortages, high workload, limited resources, and insufficient institutional support.](systemic-barriers-pi-prevention.md) — related
+- [Workforce shortages and heavy workloads confound supervisors' judgements of nurses' competency](workload-confounds-competency-judgement.md) — related

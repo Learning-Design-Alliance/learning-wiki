@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 319 claims (242 show a difference, 43 mixed, 34 no difference) · 254 studies (84 causal, 82 associational, 33 review, 24 qualitative, 13 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 51 of 254 report an effect size · 315 claims rest on one study
+> **Evidence** · 321 claims (244 show a difference, 43 mixed, 34 no difference) · 255 studies (84 causal, 83 associational, 33 review, 24 qualitative, 13 design, 10 quant-synthesis, 7 theoretical), `q1`–`q4` · 52 of 255 report an effect size · 317 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -350,6 +350,8 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [The confidence–performance association is not moderated by year of study or time spent in the FSTT laboratory](../claims/confidence-performance-association-not-moderated-by-experience.md) [+M] — learners who differ on it differ in outcomes
 - [Higher-performing medical students found self-assessment beneficial while lower-performing students lacked confidence to self-assess](../claims/self-assessment-confidence-varies-by-performance-level.md) [+M] — learners who differ on it differ in outcomes
 - [Students attribute increased confidence to making mistakes and receiving immediate feedback in the simulation lab](../claims/mistakes-feedback-build-confidence-sle.md) [+M] — measured as an outcome of the instruction studied
+- [Self-efficacy shows the highest correlation with achievement (r = 0.555) among the measured beliefs, with performance goals ahead of learning goals](../claims/self-efficacy-highest-belief-correlation-grades.md) [+M] — learners who differ on it differ in outcomes
+- [Supported techniques show higher associations with self-efficacy, growth mindset, control beliefs and learning goals than unsupported techniques, but low elaboration relates to more exam anxiety](../claims/supported-techniques-beliefs-associations.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

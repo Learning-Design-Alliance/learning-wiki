@@ -62,3 +62,4 @@ Gender comparison within the demonstration condition (25 males, mean 52.52; 25 f
 - [No significant gender difference in achievement among students taught with interactive whiteboard](iwb-gender-friendly-achievement.md) — related
 - [Within-gender comparisons showed males taught with LMM scored slightly higher than males taught with LMC, while females taught with LMM scored higher than females taught with LMC.](within-gender-lmm-lmc-retention-comparisons.md) — related
 - [Female and male students' histology post-test scores did not differ significantly](no-gender-difference-histology-posttest.md) — related
+- [Gender differences in skill scores were not statistically significant overall, though female participants in one group scored lower at retention](gender-score-differences-null-with-one-retention-exception.md) — related

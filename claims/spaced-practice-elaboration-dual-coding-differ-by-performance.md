@@ -72,3 +72,4 @@ Chi-square tests across performance categories found no significant differences 
 - [Interleaved practice improves delayed posttest performance compared with blocked practice](interleaved-practice-improves-posttest-performance.md) — related
 - [Classroom testing (quizzing) significantly boosts student academic achievement to a medium extent (g = 0.499).](classroom-quizzing-medium-effect-achievement.md) — related
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — related
+- [Research-supported study techniques (high elaboration, retrieval practice, focusing) correlate positively with secondary school grades, while spacing and low elaboration do not](supported-techniques-correlate-grades-secondary.md) — related

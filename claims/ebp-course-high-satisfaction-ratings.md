@@ -59,3 +59,4 @@ Course evaluation survey using a researcher-designed five-point Likert scale adm
 - [Students rate the SBE ophthalmology workshop highly on relevance, clarity, facilitation, and applicability to future clinical practice](sbe-ophthalmology-workshop-feedback-ratings.md) — related
 - [Trainees reported high course satisfaction, with a total average score of 45.08 (SD ± 5.41) on a 10–50 scale](high-satisfaction-critical-care-course.md) — related
 - [Students reported satisfaction with workshop content and facilitation and planned to use session materials to study for Step 1](workshop-satisfaction-and-step1-study-intent.md) — related
+- [Nursing students exposed to mobile-based learning rate it highly satisfactory](mbl-high-satisfaction-nursing-students.md) — related

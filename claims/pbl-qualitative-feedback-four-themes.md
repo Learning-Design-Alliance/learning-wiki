@@ -68,3 +68,5 @@ Example of student feedback quoted under the fourth theme: students lacking acco
 - [Thematic analysis of open responses surfaced four themes: immediacy as core value, calibrated trust, pinpointing the mistake, and progress and control](four-qualitative-themes-genai-practice-feedback.md) — related
 - [Thematic analysis of 120 free-form comments identified four themes: improved learning experience, engagement, collaborative learning and skill development](cartooning-feedback-four-themes.md) — related
 - [Free-text student feedback on the 2021 OSCE clustered into four themes, including that the longer examination was too tiring and feedback was lacking](2021-osce-free-text-four-themes.md) — related
+- [Students identified authentic cases, collaborative learning, feedback, worksheets, journal writing, and appropriate difficulty as beneficial, with time constraints and workload as challenges](focus-group-benefits-challenges-flipped-reasoning.md) — related
+- [Faculty focus groups on the PBL-FDP yielded five themes spanning self-insight, challenges, preparation, feedback, and workshop improvement](pbl-focus-groups-five-themes.md) — related

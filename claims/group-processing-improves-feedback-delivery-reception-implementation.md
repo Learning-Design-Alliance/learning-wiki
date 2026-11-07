@@ -51,3 +51,4 @@ Paired t-tests in the retrospective survey of 46 former seminar students showed 
 - [Most former students reported using group processing after their seminar and rated it as transferable to other contexts](group-processing-skills-transferable-to-other-contexts.md) — related
 - [Students retrospectively evaluated group processing as time well spent and vividly remembered it years later](group-processing-retrospectively-valued-time-well-spent.md) — related
 - [Participants reported markedly improved feedback skills as the most tangible improvement from the program.](pedagogical-internship-track-feedback-skills.md) — possibly the same claim (merge candidate)
+- [Self-assessed communication skills improved only non-significantly between the beginning and end of the internship despite the training](self-assessed-skills-nonsignificant-change-over-term.md) — related

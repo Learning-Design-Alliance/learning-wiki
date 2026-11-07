@@ -62,3 +62,5 @@ Wilcoxon signed-rank tests on self-reported perceived competence (15 items, Cron
 - [Subjective competence in brain death diagnosis increased significantly after the VR simulation](subjective-competence-gain-after-vr-simulation.md) — a narrower finding that bears on this claim
 - [SATMAS improved students' confidence in assessing and managing trauma patients](satmas-confidence-gains.md) — related
 - [Six of eight survey items improve significantly from pre- to post-simulation, with the highest post-rating on feeling competent to assess dysphagia](six-of-eight-items-significant.md) — related
+- [Paramedics' motivation, attitude, and self-assessed skill improved significantly during the curriculum, but subjective–objective correlation was only present at baseline](pocus-self-assessment-improves-correlation-baseline-only.md) — related
+- [Confidence in providing emergency care to a polytrauma patient rose significantly from before to after VR trauma training in the intervention group.](vr-training-increases-trauma-care-confidence.md) — a narrower finding that bears on this claim

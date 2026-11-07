@@ -53,3 +53,4 @@ t-test comparison of perceived simulation design (Table 2) in the same cross-sec
 - [Psychological safety and simulation design features remain significant predictors of satisfaction within both gender subgroups, with predictors explaining more variance among male students](subgroup-predictors-consistent-across-genders.md) — related
 - [Perception of individual CBL features did not differ significantly by gender, but female students' total perception score was significantly higher than males' (median 100.0 vs 96.5, P = 0.049)](gender-differences-cbl-perception-physiotherapy.md) — related
 - [Male and female participants showed no difference in Overall Score on the simulator](no-gender-difference-overall-score.md) — related
+- [Gender differences in skill scores were not statistically significant overall, though female participants in one group scored lower at retention](gender-score-differences-null-with-one-retention-exception.md) — related

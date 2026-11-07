@@ -90,6 +90,7 @@ Simulation works because it allows deliberate practice with immediate feedback â
 - [Use simulation debriefing with Crisis Resource Management, effective communication methods, and teamwork improvement to reduce communication-related errors](crm-communication-teamwork-simulation-strategy.md)
 - [Structure each in situ simulation session as short interprofessional scenario practice followed by extended structured debriefing](interprofessional-sbt-with-structured-debriefing-strategy.md)
 - [Use scenario-based high-fidelity ALS simulation with video-review debriefing and realistic scenario elements in undergraduate medical education](scenario-based-als-simulation-debriefing-strategy.md)
+- [Procedural simulation instructional design strategy: mastery learning, process feedback, and competency decay prevention](procedural-sim-mastery-decay-strategy.md)
 
 ## Examples
 - **[Center for Medical Simulation, Harvard](https://harvardmedsim.org)** â€” pioneer of the "debriefing with good judgment" method now widely adopted in simulation faculties.

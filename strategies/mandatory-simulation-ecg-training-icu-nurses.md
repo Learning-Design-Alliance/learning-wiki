@@ -54,6 +54,7 @@ The article recommends structured, mandatory in-service ECG education tailored t
 - [Implement mandatory, flexible, and financially supported CPD programs in public dental services with peer learning and monitoring](mandatory-flexible-supported-pds-cpd-strategy.md)
 - [Tailor ECG education by experience level and schedule regular refresher courses](tailor-ecg-education-by-experience-and-refreshers.md)
 - [Incorporate standardized, simulation-based emergency response training and annual competency assessments for CT radiographers](simulation-based-scmr-emergency-training-strategy.md)
+- [Provide competency-based in-service training through the CPD system for OBE-trained nurses and supervisors](cpd-in-service-cbe-training-for-obe-staff.md)
 
 ## Examples
 -

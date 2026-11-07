@@ -74,3 +74,4 @@ From the same interview-based thematic analysis of tutors' experiences and profe
 - [A descriptive report defines peer assisted learning and asserts, without a tested result, that it promotes knowledge construction, collaboration ability and interpersonal interaction](peer-assisted-learning-improves-learning-outcomes.md) — a broader claim this one bears on
 - [A synergistic effect between tutor and tutee roles may explain the peer agent's advantage](tutor-tutee-synergistic-effect.md) — related
 - [Post-coaching interviews revealed professional growth and personal gains among program participants](field-coaching-professional-personal-gains.md) — related
+- [Physicians' lifelong learning attention focuses on medical knowledge and clinical/procedural skills, with less articulation of interpersonal, emotional, and professionalism domains](clinical-skills-dominate-lifelong-learning-content.md) — related

@@ -49,3 +49,4 @@ Online questionnaire-star survey of the reformed course; 59 valid responses of 6
 - [LLMs help bridge the gap between theoretical curricula and real-world skills by creating simulated scenarios, cases and problem contexts that are hard to reproduce in traditional classrooms](llm-simulations-bridge-theory-practice-gap.md) — related
 - [92.60% of students were satisfied with the A-SPIRE model and 96.3% believed their science communication ability improved](a-spire-high-satisfaction-self-assessed-improvement.md) — related
 - [First-year Biology students report high satisfaction with a QR-based active learning bioinformatics lesson, with 94.6% finding the lesson important and about 89% finding it effective for information-management skills](qr-gymkhana-bioinformatics-high-student-satisfaction.md) — related
+- [Course satisfaction reached 96.1%, with over 80% agreeing the course stimulated interest and initiative](oamas-teaching-satisfaction-96.md) — related

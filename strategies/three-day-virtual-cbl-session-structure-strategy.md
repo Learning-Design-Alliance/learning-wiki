@@ -48,6 +48,7 @@ The article's implementable recipe: divide students into teams of 5–7 with tra
 
 - [Before/during/after CBL session recipe: pre-class case distribution and student-led preparation, student-facilitated in-class discussion, and post-class self-assessment and homework](three-phase-student-led-cbl-session-strategy.md)
 - [Implement an ACS case teaching session combining pre-class self-study, small-group PBL, and simulated MDT role discussion](acs-pbl-mdt-flipped-session-strategy.md)
+- [Team assignments graded by teachers plus anonymous peer scoring within and across teams](tbl-team-assignments-anonymous-peer-scoring.md)
 
 ## Examples
 -

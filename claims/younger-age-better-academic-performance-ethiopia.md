@@ -52,3 +52,4 @@ Multivariate logistic regression among 399 public primary school children found 
 - [Minimum dietary diversity is associated with approximately three times better academic performance in Ethiopian primary school children](dietary-diversity-associated-academic-performance-ethiopia.md) — related
 - [Positive attitudes towards nutrition are associated with better academic performance](nutrition-attitudes-better-academic-performance.md) — related
 - [Students aged 16–18 are more likely to achieve good academic performance than those aged 14–15](older-adolescents-better-academic-performance.md) — related
+- [Need for psychological support, non-Italian nationality, and science/technology faculty enrollment predict decline in academic performance, while senior year and good finances protect against it](multivariable-predictors-academic-decline-covid.md) — related

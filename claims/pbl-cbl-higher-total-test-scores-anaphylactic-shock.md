@@ -59,3 +59,5 @@ Randomized two-group trial of 100 nursing undergraduates (n=50 per group) compar
 - [BOPPPS-CBL students achieve significantly higher comprehensive case-analysis (Section D) scores than traditionally taught students](boppps-cbl-section-d-case-analysis-superior.md) — related
 - [CBL-PBL training yields substantially higher professional knowledge test scores than LBL](cbl-pbl-higher-professional-knowledge-test-scores.md) — possibly the same claim (merge candidate)
 - [CBL combined with BOPPPS yields higher theoretical knowledge scores than traditional LBL in oral and maxillofacial surgery master's students](cbl-boppps-higher-theoretical-knowledge-scores.md) — related
+- [Blended teaching produced higher total OSCE scores than traditional offline teaching in a clinical skills training course](blended-teaching-higher-osce-total-clinical-skills.md) — related
+- [Undergraduate medical laboratory students taught with the BOPPPS-PBL model achieved significantly higher summative assessment scores than students taught with traditional methods](boppps-pbl-higher-summative-scores-hematology.md) — related

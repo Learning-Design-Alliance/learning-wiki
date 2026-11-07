@@ -56,3 +56,4 @@ Randomized two-group comparison (n = 50 per group) in a two-week ACS clerkship a
 - [Flipped classroom and lecture-based teaching showed no significant difference in learning scores](fc-vs-lbt-no-learning-difference.md) — reports the opposite
 - [First-year nursing students taught with a flipped classroom scored significantly higher on knowledge post-test and persistence tests than students taught by traditional lecture](fcm-higher-knowledge-posttest-persistence-nursing.md) — related
 - [Medical students taught with combined PBL-CBL scored significantly higher on vascular surgery theoretical tests than students taught with traditional teaching](pbl-cbl-higher-theoretical-test-scores-vascular-surgery.md) — related
+- [O2O/PBL trainees scored higher on the clinical thinking examination than LBT trainees](o2o-pbl-higher-clinical-thinking-scores-nephrology.md) — related

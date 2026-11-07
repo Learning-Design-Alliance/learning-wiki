@@ -63,3 +63,4 @@ Narrative synthesis of retention findings, attributed by the review to Azman et 
 - [ICU nurses' MDRO infection control knowledge scores rose from baseline to 2 weeks and remained elevated at 3 months in a one-group pre-post study of repeated education](repeated-education-increased-mdro-knowledge-icu-nurses.md) — related
 - [Knowledge gains persisted one month post-intervention despite a slight decline, remaining above pre-intervention levels](knowledge-gains-persisted-one-month-post-intervention.md) — related
 - [Self-reported confidence in performing and teaching the slit-lamp exam increased significantly after the SBML curriculum and remained elevated at two months](sbml-slitalmp-confidence-increase.md) — a narrower finding that bears on this claim
+- [Self-efficacy gains from TMTD and lecture training persisted one month after the sessions ended, aided by follow-up](self-efficacy-gains-persist-one-month-ms.md) — related

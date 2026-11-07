@@ -79,7 +79,7 @@ sources:
 # Productive Failure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 59 claims (24 for, 28 mixed, 7 against) · 34 studies (20 causal, 6 review, 4 theoretical, 2 quant-synthesis, 2 associational), `q1`–`q4` · 13 of 34 report an effect size · 56 claims rest on one study
+> **Evidence** · 60 claims (24 for, 29 mixed, 7 against) · 35 studies (21 causal, 6 review, 4 theoretical, 2 quant-synthesis, 2 associational), `q1`–`q4` · 13 of 35 report an effect size · 57 claims rest on one study
 
 ## Conditional relationship
 
@@ -201,6 +201,7 @@ Read 2026-10-19 (second pass, claims linked overnight); the others linked then m
 - [Initial PF activities were too frustrating and were refined with moderate metacognitive support so students struggled without giving up](../claims/pf-moderate-support-refinement.md) [~W] — attached 2026-10-26 from Sunita G. Chowrira et al. (2019), which proposed "DIY productive failure cycle for large university classes: Exploration then Consolidation with pre-reading".
 - [PF students outperformed AL students on condition-topic midterm items by nearly five percentage points after controlling for prior performance](../claims/pf-beats-al-midterm-biology.md) [+M] — attached 2026-10-26 from Sunita G. Chowrira et al. (2019), which proposed "DIY productive failure cycle for large university classes: Exploration then Consolidation with pre-reading"; tests this page's relationship.
 - [Number of generated solution methods is the strongest measured predictor of posttest learning from Productive Failure in both topics](../claims/inventive-production-strongest-predictor-pf-learning.md) [+W] — attached 2026-10-26 from Manu Kapur et al. (2023), which proposed "Facilitate learning environments that give space to inventive production, since generating more solution methods promotes learning regardless of prior achievement".
+- [Learning strategy made no difference in routine expertise on familiar head CT cases](../claims/no-difference-routine-expertise-emt.md) [~M] — attached 2026-11-07 from Aliaga L et al. (2024), which proposed "Use error management training — guiding learners to make errors before instruction — to develop adaptive expertise with cognitive skills"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

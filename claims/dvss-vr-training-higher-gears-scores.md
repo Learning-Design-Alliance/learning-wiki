@@ -52,3 +52,4 @@ Randomized controlled comparison on the dVSS simulator after proficiency-based V
 - [VR-training group outperforms controls on dVSS simulator objective scores for most tasks](dvss-objective-scores-training-group-outperforms.md) — related
 - [GEARS domain and surgical-step scores were similar across experience groups for both procedures, with all p > 0.05](gears-domain-step-scores-similar-groups.md) — related
 - [Agreement on GEARS surgical-performance domains is poor for force control, tissue handling, autonomy, and robot control, and marginal for depth perception, bimanual skill, and efficiency](gears-domain-agreement-poor.md) — related
+- [Basic surgical task performance was higher at exit than entry after free, unstructured virtual reality training on simulators, in one uncontrolled pre-post study, with proficiency-based progression not evaluated](free-vrst-training-improves-tasks-without-structured-protocol.md) — a narrower finding that bears on this claim

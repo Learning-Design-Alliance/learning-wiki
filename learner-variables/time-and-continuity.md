@@ -13,7 +13,7 @@ generated:
 # Time and Continuity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 218 claims (143 show a difference, 49 mixed, 26 no difference) · 187 studies (92 causal, 44 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 39 of 187 report an effect size · 214 claims rest on one study
+> **Evidence** · 220 claims (145 show a difference, 49 mixed, 26 no difference) · 189 studies (94 causal, 44 associational, 22 review, 15 quant-synthesis, 6 qualitative, 5 design, 3 theoretical), `q1`–`q4` · 39 of 189 report an effect size · 216 claims rest on one study
 
 ## Description
 How much uninterrupted time a learner actually gets, and whether progress survives the gap to the next session. It sets page length, whether a task finishes in one sitting, and whether a multi-week deliverable survives a bad month. The awkward part is that the schedule which produces the best retention is the one learners reliably judge worst: spacing feels harder and less effective while producing more durable learning [~S], so this dimension cannot be designed by learner preference.
@@ -275,6 +275,8 @@ How much uninterrupted time a learner actually gets, and whether progress surviv
 - [Technical interruptions during conversational pauses and user-related challenges such as language barriers limited the social robotic platform's learning experience](../claims/social-robotic-vp-technical-and-user-related-limitations.md) [+W] — learners who differ on it differ in outcomes
 - [Repeated attempts within a two-hour basic laparoscopy training significantly decrease novices' completion times on both tasks, and failure rates decrease significantly on task 1 but not task 2](../claims/novice-laparoscopy-learning-curve-two-hour-training.md) [~M] — learners who differ on it differ in outcomes
 - [Supporting continuation of the formative assignment is associated with a 13% higher mean exam score](../claims/formative-assignment-support-associated-with-higher-scores.md) [+M] — learners who differ on it differ in outcomes
+- [At the after-test for knot tying by hand, the continuous training and self-assessment groups scored better than the clinical exposure group](../claims/knot-tying-aftertest-training-groups-better.md) [+M] — learners who differ on it differ in outcomes
+- [Students spend a significantly greater percentage of time on task in VR simulation than in desktop simulation](../claims/vr-simulation-greater-time-on-task-eye-tracking.md) [+M] — measured as an outcome of the instruction studied
 
 ## The evidence by question
 

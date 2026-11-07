@@ -57,3 +57,4 @@ Randomized clinical trial with 84 nursing students (42 per group) reported in th
 - [Hybrid simulation with role-playing improves hand hygiene compliance and PPE use in medication administration among nursing students](hybrid-simulation-improves-hand-hygiene-and-ppe-nursing.md) — related
 - [Clinical decision-making scores of new graduate paediatric surgery nurses rose significantly after Jeffries-framework simulation training, in one uncontrolled pre/post study](jeffries-simulation-improves-clinical-decision-making-new-graduate-nurses.md) — related
 - [Simulation-based teaching yields significantly greater gains in clinical interpretation skills than traditional practical instruction](simulation-greater-clinical-interpretation-gains.md) — related
+- [High-fidelity simulation improves skill acquisition and retention compared with traditional training methods](high-fidelity-sim-improves-skill-acquisition.md) — related

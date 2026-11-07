@@ -70,3 +70,4 @@ Linear regression of influencing factors on clinical FNA results (age, gender, p
 - [Male students reported higher confidence than female students despite no performance difference](male-students-report-higher-confidence-no-performance-difference.md) — related
 - [Gender, prior digital experience, training and related factors influence digital competence](digital-competence-influencing-factors.md) — related
 - [Gender differences in prior disassembly experience and perceived competence did not affect DAA learning or transfer outcomes](daa-gender-experience-null-moderators.md) — related
+- [Prior ultrasound experience predicted early theoretical performance but its influence was no longer measurable after the tailored curriculum](prior-experience-influence-fades-after-curriculum.md) — related

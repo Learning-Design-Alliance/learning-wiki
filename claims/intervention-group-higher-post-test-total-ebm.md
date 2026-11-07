@@ -56,3 +56,5 @@ Independent t-test comparison of post-intervention ACE total scores between inte
 - [A single two-hour EBM literature searching workshop did not significantly improve medical students' overall EBM literature searching skills at one week (10.51 vs. 10.50, P=0.99)](single-workshop-no-literature-searching-gain.md) — related
 - [A longitudinal small-group EBM intervention improved medical students' overall attitudes and skills scores across three assessment points over 15 months](longitudinal-small-group-attitudes-skills-gains.md) — related
 - [Critique scores did not differ significantly between the blended AI-integrated curriculum group and the traditional lecture group](critique-score-no-significant-difference-blended-ai-curriculum.md) — related
+- [Blended learning produced higher post-test knowledge scores than traditional lecture in the evidence-based medicine course](blended-learning-higher-post-test-ebm.md) — related
+- [Blended learning produced higher learning satisfaction than traditional lecture in the evidence-based medicine course](blended-learning-higher-satisfaction-ebm.md) — related

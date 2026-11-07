@@ -50,3 +50,4 @@ Post hoc McNemar pairwise comparisons among chatbots. On Day-0, significant diff
 - [Correct-answer totals shifted in opposite directions over one month: CoPilot Pro and Gemini Advanced increased while both ChatGPT versions decreased](opposite-accuracy-shifts-over-one-month.md) — related
 - [No statistically significant difference was found in any chatbot's performance between Day-0 and Month-1](no-significant-chatbot-performance-change-one-month.md) — related
 - [GPT-4o was the most inconsistent chatbot, with 19 questions answered correctly in the first round answered incorrectly in the second](gpt-4o-most-inconsistent-across-rounds.md) — related
+- [The three AI chatbots differ significantly in overall accuracy on the Italian CINECA entrance test for healthcare science degrees (p < 0.001)](ai-chatbots-accuracy-differ-cineca-entrance-test.md) — related

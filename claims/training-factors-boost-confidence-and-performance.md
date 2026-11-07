@@ -53,3 +53,4 @@ Linear mixed-effects models for confidence as the dependent variable found that 
 - [Median self-confidence in performing US-guided peripheral venous access increased from 5 to 8 after the brief training](us-training-confidence-5-to-8.md) — a narrower finding that bears on this claim
 - [Anesthesia trainees who first learned vascular access using ultrasound are more likely to prefer ultrasound guidance than those who first learned landmark-based techniques](initial-ultrasound-training-associated-with-ultrasound-preference.md) — related
 - [Performance declined and confidence decreased over the six-month follow-up period](performance-decline-confidence-decrease-six-months.md) — reports the opposite
+- [Prior ultrasound experience predicted early theoretical performance but its influence was no longer measurable after the tailored curriculum](prior-experience-influence-fades-after-curriculum.md) — related

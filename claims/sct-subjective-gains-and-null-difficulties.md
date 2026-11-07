@@ -69,3 +69,4 @@ Question 7 of the before-and-after Case 1 comparison asked about treatment diffi
 - [After SCT, students' feasible treatment plan selections shifted significantly, with post and core crown rising from 39.80% to 96.94% and resin filling falling from 78.57% to 57.14%](sct-shifted-treatment-plan-selection.md) — related
 - [In one uncontrolled pre-post study, students' optimal restoration choices for the case changed: full crown fell from 47.96% to 9.18% while post and core crown rose from 16.33% to 70.41%, both p < 0.001](sct-shifted-optimal-restoration-choice.md) — related
 - [After SCT, more students specified fiber posts (10.20% to 33.67%) and all students preferred all-ceramic over PFM crowns for the case](sct-improved-restoration-material-selection.md) — related
+- [After the communication course, dental students paid significantly more attention to asking open-ended questions of patients](open-ended-questions-attention-increased-after-training.md) — related

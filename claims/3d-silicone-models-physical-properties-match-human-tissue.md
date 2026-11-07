@@ -68,3 +68,4 @@ Bench-top material characterization of 10% PVA/PAM hydrogel: conductivity measur
 - [3D-printed silicone LRYGB models show face, content and technical realism broadly comparable to porcine organ models, with strengths and weaknesses on specific steps](3d-model-face-content-validity-lrygb.md) — related
 - [Participants rate the MaiSurge PVA model as realistic and at least as suitable for training as a silicone version and a commercial model](maisurge-subjective-realism-ratings.md) — related
 - [Most participants rated the porcine stomach model as having higher tissue and physiologic fidelity than the towel uterus model](porcine-stomach-fidelity-beats-towel-uterus.md) — related
+- [Compared with a biological tissue model, the 3D-printed model showed less dissection sensitivity but higher anatomical representation and easier reuse](hernia-model-vs-biological-model-tradeoff.md) — related

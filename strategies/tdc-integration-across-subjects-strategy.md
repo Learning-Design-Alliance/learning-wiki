@@ -49,6 +49,7 @@ The article recommends teacher education students be encouraged to identify wher
 - [Embed AI literacy across disciplines by identifying intersections with existing content and using case studies, interdisciplinary modules, and collaborative projects](embed-ai-literacy-across-disciplines.md)
 - [Map and audit existing teacher education courses across disciplines against the TDC framework to identify competency-building opportunities](tdc-course-mapping-audit-strategy.md)
 - [Embed research methods and creative activity across physics studies to strengthen competency formation](embed-research-methods-across-physics-studies.md)
+- [Integrate pedagogic-didactic competence, content knowledge and socio-emotional skills in authentic teaching practice within health education teacher education](integrated-authentic-practice-he-teacher-education.md)
 
 ## Examples
 -

@@ -49,3 +49,4 @@ Randomized prospective study of 12 veterinary students without prior laparoscopi
 - [Basic skills acquired on the box trainer transferred to the VR system, but VR skills did not transfer to the box system](box-skills-transferred-to-vr-not-vice-versa.md) — related
 - [Post-training scores on all box tasks were higher for the box-trained group than the VR-trained group](box-group-outperformed-vr-group-on-box-tasks.md) — related
 - [Neither box nor VR training led to significant improvement in simulated surgical (gastropexy) task performance](neither-program-improved-simulated-surgical-task.md) — related
+- [Rope measurement deviation in the laparoscopic box trainer was similar at baseline, second, and final measurement in one single-group pre-post study](rope-measurements-did-not-improve.md) — reports the opposite

@@ -99,3 +99,4 @@ A scoping review of simulation-based education (SBE) for delirium recognition. I
 - [After controlling for pre-test scores, dietetic students completing a 12-week scenario-based simulation course scored significantly higher than controls on self-assessed communication confidence, self-efficacy, and competence](simulation-course-posttest-higher-than-control-ancova.md) — related
 - [The self-efficacy gain does not extend to shared decision-making confidence, where groups showed no significant difference](self-efficacy-shared-decision-making-null-item.md) — related
 - [Live-streaming participants self-trained more often during the week yet did not acquire the same posttest score increase](ls-more-self-training-not-more-gain.md) — related
+- [Simulation training raises primary care physicians' post-testing self-confidence in subacromial injection more than lecture and video alone](simulation-training-raises-injection-self-confidence.md) — related

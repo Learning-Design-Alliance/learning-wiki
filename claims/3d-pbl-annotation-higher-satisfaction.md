@@ -53,3 +53,4 @@ Satisfaction domain of the same 10-point questionnaire in the RCT. Table 3 shows
 - [In the same RCT, the experimental group reported higher scores than the control group across all five dimensions of teaching satisfaction (all P < 0.05)](pbl-virtual-simulation-satisfaction-all-dimensions-trauma-orthopedics.md) — related
 - [Experimental-group trainees report higher satisfaction than controls in teaching atmosphere, learning interest, and learning efficiency](digital-cbl-higher-satisfaction-interest-efficiency.md) — related
 - [Students in the 3D-printed PBL group rated all ten self-assessment items higher than the traditional PBL group, including learning interest, efficiency, and confidence in future cleft lip surgery](3d-printed-pbl-questionnaire-all-items-higher.md) — related
+- [Teaching satisfaction did not differ significantly between O2O/PBL and LBT trainees across five surveyed aspects](o2o-pbl-teaching-satisfaction-no-difference-nephrology.md) — related

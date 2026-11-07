@@ -49,3 +49,5 @@ Review synthesis of satisfaction outcomes across included studies. The review re
 - [Virtual oral examination formats perform comparably to in-person formats, with no significant differences in scores or pass rates](virtual-oral-comparable-in-person.md) — related
 - [Students rated the structured viva-voce more positively than the traditional viva-voce, particularly in content coverage and clarity of objectives](structured-viva-rated-higher-than-traditional.md) — related
 - [Students preferred the hybrid viva-voce format (56%) over structured (28%) and traditional (16%) formats](students-prefer-hybrid-viva-format.md) — related
+- [EDAIC Part 2 examiners experience high perceived workload (mean NASA TLX 59.61 ± 14.13), with the online format scoring higher than hybrid but comparable to face-to-face](edaic-soe-high-examiner-workload-format-comparison.md) — related
+- [Perceived workload shows no relation to marking agreement or examination scores across all formats](workload-unrelated-to-marking-agreement-and-scores.md) — related

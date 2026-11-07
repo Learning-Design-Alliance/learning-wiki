@@ -79,3 +79,5 @@ Even the lowest techniques average d = 0.44, but the outcomes were mostly surfac
 - [Intervention students poorly utilized brainstorming and need more training in it, while underlining the main idea was a planning technique they found helpful](poor-brainstorming-use-underlining-planning-efl-writers.md) — related
 - [Students choose high-yield active recall techniques driven by a cost–benefit analysis of assessment demands against time, potentially favouring surface learning](cost-benefit-strategic-learning-selection.md) — related
 - [Only 47.20% of students found the formal self-reflection and goal-setting exercises helpful, the least positively received component](low-uptake-formal-reflection-goal-setting.md) — related
+- [Secondary students rarely use spaced practice or retrieval practice, with question-preparation self-testing among the least used behaviours](spacing-retrieval-least-used-secondary.md) — related
+- [Research-supported study techniques (high elaboration, retrieval practice, focusing) correlate positively with secondary school grades, while spacing and low elaboration do not](supported-techniques-correlate-grades-secondary.md) — related

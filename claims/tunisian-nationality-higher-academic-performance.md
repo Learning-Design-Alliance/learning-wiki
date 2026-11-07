@@ -49,3 +49,4 @@ Multivariate ordinal logistic regression of the cross-sectional survey of 701 FM
 - [More daily revision hours independently predict higher academic performance (OR = 1.08 per hour)](daily-revision-hours-predict-performance.md) — related
 - [Satisfaction with the educational environment is a protective factor for academic performance (OR = 0.60)](educational-environment-satisfaction-protects-performance.md) — related
 - [Gender, socioeconomic status, stress level and DREEM atmosphere score were not significant independent predictors of performance](null-multivariate-predictors-gender-ses-stress-atmosphere.md) — related
+- [Need for psychological support, non-Italian nationality, and science/technology faculty enrollment predict decline in academic performance, while senior year and good finances protect against it](multivariable-predictors-academic-decline-covid.md) — related

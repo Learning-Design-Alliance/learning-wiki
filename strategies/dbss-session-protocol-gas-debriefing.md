@@ -57,6 +57,7 @@ A repeatable weekly session structure for implementing DBSS: after a unified lec
 - [Use timely facilitator-led debriefing, realistic scenario fidelity, and immediate feedback to enhance simulation learning](debriefing-fidelity-feedback-strategies.md)
 - [Pair the simulation with a structured 30–40 minute debrief including a PowerPoint lecture, reflection, and checklist review](simulation-debrief-lecture-checklist-review.md)
 - [Combined lecture plus simulated video-scenario sessions for teaching non-technical skills](lecture-plus-video-scenario-nts-training-strategy.md)
+- [Structured SP simulation session recipe: pre-briefing, 15-minute interview with checklist, and three-part debriefing](spsp-session-structure-strategy.md)
 
 ## Examples
 -

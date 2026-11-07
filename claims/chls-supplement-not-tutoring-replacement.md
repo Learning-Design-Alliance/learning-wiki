@@ -49,3 +49,4 @@ Survey items on intended use and tutoring substitution. Separately, 73.13% answe
 - [Nearly half of students found CHLS English content difficult, and about a third found learning with it interesting](chls-content-difficulty-and-interest-perceptions.md) — related
 - [Sites offering tutoring during school were much more likely than out-of-school-hours sites to offer tutoring more than twice a week](ontrack-timing-frequency-association.md) — related
 - [Attendance at offered SI sessions is low and highly variable: on average 2.3 of 7 sessions, with 29% never attending](si-attendance-low-variable.md) — related
+- [About three quarters of participating medical students would choose the Friendly Feedback condition over weekly testing or a stress-management workshop if given the choice](students-prefer-friendly-feedback-condition.md) — related

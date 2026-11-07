@@ -72,3 +72,4 @@ Complications were categorized as severe or non-severe per Pediatric Difficult I
 - [Simulation-based training shows no significant benefit over non-simulation based training for time-skill in airway management](sbt-no-time-skill-benefit-airway.md) — related
 - [The just-in-time coaching benefit on first attempt success was significant with video laryngoscopy but not with direct laryngoscopy](jit-coaching-video-laryngoscopy-subgroup.md) — related
 - [Just-in-time expert coaching on a manikin within one hour of clinical care increases first attempt success of infant intubation by inexperienced clinicians](just-in-time-coaching-improves-first-attempt-infant-intubation.md) — related
+- [In one uncontrolled pre-post study, median LP completion time among EM interns fell from 12.9 to 10.3 minutes after viewing a brief just-in-time instructional video](jit-video-reduced-lp-completion-time.md) — related

@@ -13,7 +13,7 @@ generated:
 # BOPPPS six-step teaching model
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 30 claims (26 for, 4 mixed) · 14 studies (13 causal, 1 quant-synthesis), `q2`–`q3` · 6 of 14 report an effect size · 30 claims rest on one study
+> **Evidence** · 31 claims (27 for, 4 mixed) · 15 studies (14 causal, 1 quant-synthesis), `q2`–`q3` · 6 of 15 report an effect size · 31 claims rest on one study
 
 ## Description
 BOPPPS is a goal-oriented, student-centered teaching framework organized around bridge-in, objectives, pre-assessment, participatory learning, post-assessment, and summary, used by educators to structure lessons and courses.
@@ -39,6 +39,7 @@ BOPPPS is a goal-oriented, student-centered teaching framework organized around 
 - **Use structured six-step BOPPPS within a hybrid online-offline model to improve radiology outcomes for undergraduates**: The article recommends the hybrid BOPPPS model as an effective radiology teaching method for five-year pediatric undergraduates, concluding it "is deserving of recommendation". It structures each lesson around bridge-in, objectives, pre-assessment, participatory learning, post-assessment and summary, supported by pre-class online learning nodes and post-class online resources, so that teaching objectives, instruction and assessment remain constructively aligned. (Cheng Wei-Qin et al. (2025))
 - **BOPPPS-CBL model: structured six-phase framework integrated with case-based learning**: The BOPPPS-CBL model combines the bridge-in, objective, pre-assessment, participatory learning, post-assessment, and summary (BOPPPS) framework with case-based learning. The article states it "combines the strengths of both approaches: the structured, participatory nature of BOPPPS and the practical, case-driven focus of CBL," producing "a more systematic and engaging learning experience." Participatory learning is described as "the core section of the BOPPPS-CBL model, dominated by the resident physicians." (Fan J et al. (2025))
 - **BOPPPS six-phase lesson structure: bridge-in, objectives, pre-assessment, participatory learning, post-assessment, and summary**: The BOPPPS model is a lesson-level instructional pattern proposed by the Instructional Skills Workshop, organizing a teaching session into six named phases. In this study it served as the framework for the experimental teaching intervention: "Bridge-in: A We Chat group is created and the teacher will send the case content and related questions to the We Chat group 3 days before each course". Participatory learning is described as "the core link of this model, teaching based on real cases", and the summary phase requires students to draw mind maps or knowledge trees. (Gao Ning et al. (2024))
+- **BOPPPS six-stage lesson-structure model**: The BOPPPS model, suggested by the Canadian Instructional Skills Workshop in the 1970s, organizes a lesson into six stages: "course introduction (B-Bridge in), learning objectives or outcomes (O-Objective or Outcome), pre assessment (P-Pre assessment), participatory learning (P-Participant Learning), post assessment (P-Post assessment), and summary (S-Summary)". In this course each stage has defined teacher and student actions, e.g. bridge-in uses clinical cases to kindle curiosity, and participatory learning is described as "the core of teaching activities" using questioning, heuristic teaching and group discussion. The article states the model "not only prioritizes student participation, but also improves the teaching ability and efficiency of teachers". (Feng Xinrui et al. (2024))
 
 ### Claims
 - [Blended BOPPPS teaching is associated with higher total scores than lecture-based learning in Chinese medical undergraduates](../claims/blended-boppps-higher-total-scores.md) [+M]
@@ -71,6 +72,7 @@ BOPPPS is a goal-oriented, student-centered teaching framework organized around 
 - [BOPPPS-CBL raises Mini-CEX clinical competence scores in six of seven dimensions but not physical examination skills](../claims/boppps-cbl-mini-cex-six-dimensions-higher.md) [+M]
 - [BOPPPS-CBL raises DOPS procedural skill scores in five of seven dimensions but not informed consent or pre-procedure preparation](../claims/boppps-cbl-dops-five-dimensions-higher.md) [+M]
 - [A trial reports residents' satisfaction and self-adjustment as higher under BOPPPS-CBL than lecture-based learning, but its own table, scored 1 = best, shows most items favouring lecture](../claims/boppps-cbl-higher-satisfaction-self-adjustment.md) [~W]
+- [Undergraduate medical laboratory students taught with the BOPPPS-PBL model achieved significantly higher summative assessment scores than students taught with traditional methods](../claims/boppps-pbl-higher-summative-scores-hematology.md) [+M]
 
 ## Related Products and Programmes
 
@@ -97,3 +99,4 @@ BOPPPS is a goal-oriented, student-centered teaching framework organized around 
 - Cheng Wei-Qin, He Ling, Cai Jin-Hua, Fan Xiao. (2025). Hybrid BOPPPS model in radiology education: a case study of pediatric undergraduates. BMC Medical Education, 25. https://doi.org/10.1186/s12909-025-07279-4
 - Fan J, Wang M, Lv Q, Li D, Jiang H, Fu G, Zhang W. (2025). Application of the BOPPPS-CBL model in emergency chest pain management teaching for resident physicians: a randomized comparison. BMC Medical Education. https://doi.org/10.1186/s12909-025-06939-9
 - Gao Ning, Fu Kun, Li Na, He Wei. (2024). Research on the application of CBL combined with BOPPPS teaching mode in oral and maxillofacial surgery teaching: a randomized controlled study. Scientific Reports. https://doi.org/10.1038/s41598-024-77432-4
+- Feng Xinrui, Wu Weiru, Bi Qinghua. (2024). Reform of teaching and practice of the integrated teaching method BOPPPS-PBL in the course “clinical haematological test technique”. BMC Medical Education. https://doi.org/10.1186/s12909-024-05765-9

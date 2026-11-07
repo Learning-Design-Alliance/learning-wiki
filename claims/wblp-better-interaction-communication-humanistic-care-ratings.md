@@ -55,3 +55,4 @@ Satisfaction questionnaire analysis (75 valid returns): "Cohen's d = 0.48" for p
 - [WBLP students report higher interest in learning and in-depth study, but independent study and self-confidence do not significantly differ](wblp-higher-engagement-satisfaction-motivation-domains.md) — related
 - [WBLP students achieve higher total OSCE clinical competence scores than standard-clerkship controls](wblp-higher-total-osce-scores.md) — related
 - [Fourth-year medical students in a workplace-based learning program with mini-CEX and DOPS achieve higher MCQ knowledge scores than standard-clerkship peers](wblp-mini-cex-dops-higher-mcq-scores.md) — related
+- [A larger share of the combined-method group reported improved doctor–patient communication skills (82.69% vs 56.86%)](cbl-clinical-pathway-communication-skills-improved.md) — related

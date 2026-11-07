@@ -13,7 +13,7 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 117 claims (74 show a difference, 26 mixed, 17 no difference) · 74 studies (32 causal, 21 associational, 12 review, 5 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 18 of 74 report an effect size · 116 claims rest on one study
+> **Evidence** · 120 claims (76 show a difference, 27 mixed, 17 no difference) · 75 studies (32 causal, 22 associational, 12 review, 5 quant-synthesis, 2 qualitative, 1 design, 1 theoretical), `q1`–`q4` · 19 of 75 report an effect size · 119 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
@@ -153,6 +153,9 @@ Spatial ability covers mental rotation, visualising objects from other viewpoint
 - [A short PBL-VR training session significantly increased both apparel spatial visualization and fit correction skills](../claims/pbl-vr-improves-spatial-visualization-fit-correction.md) [+M] — measured as an outcome of the instruction studied
 - [Gender and the gender × pre-test interaction significantly predicted ASVT post-test scores, with women improving more at low spatial skill levels](../claims/gender-interaction-asvt-women-greater-low-spatial-gains.md) [~M] — an instructional effect differs with it
 - [Higher pre-training apparel spatial visualization skill predicted larger fit correction skill gains from the PBL-VR training](../claims/asvt-pretest-predicts-fcst-gain.md) [+M] — learners who differ on it differ in outcomes
+- [After a 15-hour undergraduate ultrasound course, objective theory-test scores rose significantly in overall score, theoretical ultrasound competencies, abdominal cross-section understanding and both visual-spatial measures, but not neck-region cross-section understanding, in a single-group pre-post study](../claims/ultrasound-course-objective-competency-gains.md) [+W] — measured as an outcome of the instruction studied
+- [Self-assessed ultrasound skills correlate positively with self-assessed topographical understanding at T1 (R = 0.53), and objective ultrasound understanding correlates with tube-figure (visual-spatial) test results at post-test (R = 0.32)](../claims/ultrasound-skill-correlations-with-topography-and-vsa.md) [+M] — learners who differ on it differ in outcomes
+- [Subjective competence increases after the ultrasound course are significant only for knowledge of anatomical spatial relationships (p = 0.009), with the overall subjective score rising without statistical significance](../claims/ultrasound-course-subjective-asr-gain.md) [~M] — measured as an outcome of the instruction studied
 
 ## Related Learner Variables
 

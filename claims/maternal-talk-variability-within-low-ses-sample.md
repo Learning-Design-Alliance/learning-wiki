@@ -55,3 +55,4 @@ Descriptive analysis of maternal speech from 12-minute play sessions at 18 month
 - [Child-directed speech varies dramatically among low-SES families, up to an 18-fold difference, largely independent of maternal education and overall talkativeness](cds-variability-within-low-ses-families.md) — related
 - [Parental language input differs in quantity and quality across SES groups and relates to children's vocabulary, grammar, and processing development](ses-differences-quantity-quality-parental-input.md) — reports the opposite
 - [Amount of child-directed speech at 19 months predicts expressive vocabulary size at 24 months in low-SES Spanish-learning infants](child-directed-speech-predicts-vocabulary-low-ses.md) — related
+- [Children's SES substantially predicts academic performance in the Guizhou sample](ses-predicts-academic-performance-china.md) — related

@@ -135,3 +135,4 @@ Barrier subtheme from manager and trainee interviews; participants also cited eq
 - [Trainees propose five strategy areas for improving SDL: mindset, goal setting, teaching methods, communication and institutional support](trainee-proposed-sdl-improvement-strategies.md) — related
 - [Five barriers hinder implementation of physically active university teaching: uncertainty, lack of space, lack of time, students' unwillingness to move, and organisational social norms](five-barriers-physically-active-teaching.md) — related
 - [Trainers report financial incentives, partner choice, institutional recognition and dedicated time as motivators, and lack of time and of trainee awareness as main barriers to dissemination](trainer-reported-motivators-and-barriers-pfa-o.md) — related
+- [Student nurses experience time constraints that hinder their utilisation of self-directed simulation-based learning](time-constraints-hinder-nursing-ssl-utilisation.md) — related

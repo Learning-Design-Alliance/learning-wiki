@@ -55,3 +55,4 @@ Manual error coding of GPT-4V's incorrect explanations by three health care prof
 - [With expert hints describing the image, 40% (22/55) of GPT-4V's incorrect responses switched to the correct answer](image-hints-corrected-40-percent-errors.md) — related
 - [Expert hints raised GPT-4V's accuracy and flattened its performance across question difficulty levels, while medical students' performance declined with difficulty](expert-hints-raise-gpt4v-accuracy-plateau-difficulty.md) — related
 - [Informational errors account for over 70% of incorrect answers across all models, with simple logical errors under 10%](informational-errors-dominate-incorrect-answers.md) — related
+- [AI chatbots' incorrect answers on the CINECA test are predominantly logical errors rather than information or statistical errors](chatbot-incorrect-answers-predominantly-logical-errors.md) — related

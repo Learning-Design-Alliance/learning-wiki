@@ -57,9 +57,11 @@ Brief bouts of moderate-to-vigorous physical activity acutely improve attention 
 5. Use calming activities as a recurring [Check-In](../elements/check-in.md) routine to build self-regulation habits over the year.
 
 ## Related Strategies
+
 - [Active Recess](active-recess.md) — unstructured physical activity serving the same attention-regulation function without screens
 - [Brain Breaks](brain-breaks.md) — the generic pattern GoNoodle productizes
 - [Mindfulness Activities](../principles/mindfulness-activities.md) — the calming subset of GoNoodle's library
+- [Multi-channel activation of students before and during class](oamas-multi-channel-activation-strategy.md)
 
 ## Examples
 - **GoNoodle "Brez" and flow channels** — guided breathing videos used before tests to settle a class ([gonoodle.com](https://www.gonoodle.com))

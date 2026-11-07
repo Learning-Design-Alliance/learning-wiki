@@ -52,6 +52,7 @@ The authors set out next steps for the SJT programme: re-evaluate items with poo
 ## Related Strategies
 
 - [Validate ASR-based reading fluency instruments with the Argument-Based Approach before classroom use](validate-asr-fluency-instruments-argument-based.md)
+- [Develop SJT test content in the culture and language where the test is administered and confirm psychometric properties within an actual selection procedure](develop-sjt-content-in-administration-culture-strategy.md)
 
 ## Examples
 -

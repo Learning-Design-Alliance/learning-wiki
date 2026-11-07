@@ -90,3 +90,5 @@ The review reports contradictory individual findings: Zhao et al (2021), Ochoa e
 - [Residents trained on the 3D-printed lung model reported greater confidence performing thoracoscopic wedge resection than FLS-trained residents](lung-model-greater-trainee-confidence.md) — related
 - [Lung-model-trained residents outperformed FLS-trained residents on overall OSATS technical skill in live animal thoracoscopic wedge resection, with advantages in four of five domains but comparable stapling scores](lung-model-higher-osats-live-animal-transfer.md) — a narrower finding that bears on this claim
 - [Simulation-based training helps reduce and mitigate surgical skill decay, but its role is not yet fully investigated](simulation-mitigates-surgical-skill-decay.md) — related
+- [High-fidelity simulation improves skill acquisition and retention compared with traditional training methods](high-fidelity-sim-improves-skill-acquisition.md) — a narrower finding that bears on this claim
+- [Simulated cadaver practice does not significantly improve observed injection technique scores over lecture and video alone](no-technique-score-difference-simulation.md) — related

@@ -51,3 +51,4 @@ In the same four online focus groups, participants described high-fidelity scena
 - [Interactive whiteboard groups showed more adaptive decision-making behavior earlier than traditional whiteboard groups in simulated medical emergencies](iwb-adaptive-decision-making-medical-emergency.md) — related
 - [Students perceive virtual simulation as standardising interprofessional learning experiences across clinical placements and campuses](virtual-simulation-standardises-ipe-experiences.md) — related
 - [Participants perceived the AI-simulated patient interaction as authentic and potentially useful for shared decision-making training](perceived-authenticity-ai-sdm-chatbot.md) — related
+- [Students perceive that interacting with service users enhanced the authenticity of a simulation-based placement and improved communication and clinical reasoning for subsequent placements](service-user-authenticity-sbl.md) — related

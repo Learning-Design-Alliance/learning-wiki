@@ -73,3 +73,4 @@ Score-level analysis of mid-range responses (Results): "all but one of the 6×4�
 - [MLS-WEPs improved the quality of written explanations, with larger gains in fully correct explanations and reduced blank and concept-irrelevant responses](mls-weps-improved-explanation-quality.md) — related
 - [Stopping algorithm performance is weaker for middle placement categories (labels 4 and 5)](weaker-stopping-performance-middle-labels.md) — possibly the same claim (merge candidate)
 - [Grade discrepancies span about half a grade for excellent candidates but two to three grades for weaker candidates](grade-discrepancy-half-grade-versus-two-three-grades.md) — related
+- [Probabilistic surprise question accuracy collapses in the mid-range of the confidence spectrum (54.5% for 40%–60% answers) but reaches 89.9% at the extremes](probabilistic-sq-midrange-coin-flip-accuracy.md) — a narrower finding that bears on this claim

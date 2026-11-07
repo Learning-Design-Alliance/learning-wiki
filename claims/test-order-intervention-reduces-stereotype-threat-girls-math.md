@@ -56,3 +56,4 @@ Two studies varied whether students took the math or the verbal test first, anal
 - [Intellectual helplessness mediates the relation between chronic stereotype threat and mathematical achievement only for highly gender-identified girls](intellectual-helplessness-mediation-stereotype-threat.md) — related
 - [Working memory effectiveness mediates the relation between chronic stereotype threat and mathematical achievement only for highly gender-identified girls](working-memory-mediation-chronic-stereotype-threat.md) — related
 - [Gender identification moderates the relation between chronic stereotype threat and both working memory effectiveness and intellectual helplessness](gender-identity-moderates-stereotype-threat-effects.md) — related
+- [Students who took the conventional PT first performed slightly better on the conventional PT (Cohen's d = 0.16)](ptfirst-slightly-better-conventional-pt.md) — related

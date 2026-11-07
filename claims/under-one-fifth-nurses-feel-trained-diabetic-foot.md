@@ -50,3 +50,4 @@ Cross-sectional questionnaire administered to 176 nurses from the Murcian Health
 - [Many nurses in SSA have adequate knowledge of diabetes self-management support and care in some studies](ssa-nurses-adequate-diabetes-care-knowledge.md) — related
 - [Confidence in dressing selection and use is limited: 42.6% felt confident selecting dressings by healing phase and 48.3% were unsure they used dressings correctly](nurse-dressing-selection-confidence-limited.md) — related
 - [Nurses begin with low baseline knowledge of diabetic foot care, and educational qualifications may moderate post-training knowledge gains](low-baseline-nurse-knowledge-moderated-by-qualification.md) — related
+- [Forty-seven percent of surveyed Namibian nursing students self-reported being clinically competent while 53% reported not being competent.](namibia-nursing-students-47-percent-self-reported-competent.md) — related

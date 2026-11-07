@@ -57,3 +57,4 @@ The review's narrative synthesis of 34 studies involving over 5,700 healthcare p
 - [Career-related factors — professional identity and accomplishment as facilitators, burnout as a barrier — influence trainees' SDL](career-factors-burnout-identity-sdl.md) — related
 - [Trainees propose five strategy areas for improving SDL: mindset, goal setting, teaching methods, communication and institutional support](trainee-proposed-sdl-improvement-strategies.md) — related
 - [Family encouragement, educational atmosphere and support are reported facilitators of trainees' SDL](family-factors-facilitate-sdl.md) — related
+- [Physicians engage in lifelong learning through contextual, social, and independent processes](contextual-social-independent-lifelong-learning-processes.md) — related

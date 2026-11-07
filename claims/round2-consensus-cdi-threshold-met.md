@@ -48,3 +48,4 @@ Descriptive analysis of round 2 Delphi ratings from 26 experts (100% response ra
 ## Related Claims
 - [Expert consensus was reached on four core competency domains for Eating Support Healthcare Aides: chewing/swallowing assessment, oral function and safe eating support, meal-type application, and nutritionally adequate meal preparation.](four-competency-domains-eating-support-aides.md) — related
 - [In Delphi round 1, all four competency categories showed limited consensus, with Category 1 (assessment of chewing and swallowing functions) showing the lowest agreement (CV = 0.27, CDI = 0.22).](round1-low-consensus-all-categories.md) — related
+- [Delphi round two selected 40 of the 52 competencies as most important using pre-defined consensus cut-off values](round-two-40-competencies-selected.md) — related

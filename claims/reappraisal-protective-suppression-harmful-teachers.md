@@ -76,3 +76,4 @@ The review attributes to Aldrup et al. (2024) that "surface acting and suppressi
 - [Direct repression subdues outward emotional expression but is incomplete as a means of control and may damage the child](direct-repression-incomplete-emotional-control.md) — related
 - [Reappraisal negatively predicts subsequent suppression, but suppression does not predict subsequent reappraisal](reappraisal-negatively-predicts-suppression.md) — related
 - [Teacher burnout is linked to contextual and compositional elements of the school environment (as cited by the commentary from Shackleton et al., 2019)](teacher-burnout-school-environment-elements.md) — related
+- [Lifelong learning for personal growth and fulfillment may protect against physician burnout](lifelong-learning-fulfillment-burnout-protection.md) — related

@@ -49,3 +49,4 @@ Descriptive comparison of posttest means in the quasi-experiment: the experiment
 - [In the 2010 posttest the experimental group averaged 57.72% versus 44.41% in the control group (N=70 each)](2010-posttest-means-experimental-vs-control.md) — related
 - [The experimental group's RCT mean-score increment exceeded the control group's increment (53.26 to 59.63 versus 54.14 to 55.34)](elbrcs-larger-mean-increment-than-control.md) — related
 - [Experimental groups' post-test mean scores far exceeded control groups' across all three school categories](pbl-post-test-means-exceed-control.md) — related
+- [Both teaching approaches raised mean knowledge scores above the 70% sufficiency threshold, but only the game group's mean skill score did](both-methods-knowledge-above-threshold-only-game-skills.md) — related

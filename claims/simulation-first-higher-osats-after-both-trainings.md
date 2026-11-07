@@ -49,3 +49,4 @@ Randomized controlled crossover trial of 20 robotic novices randomized to start 
 - [After a single training session, robotic suturing performance did not differ between novices trained with SimNow simulation alone versus suture-pad alone](single-training-no-osats-difference-first-exam.md) — related
 - [Training sequence did not significantly affect force exerted on tissue during the second robotic hepaticojejunostomy exam](no-force-difference-between-sequences-second-exam.md) — related
 - [The simulation-first advantage on OSATS was not robust in sensitivity and multivariate analyses adjusting for baseline robotic experience](simulation-first-advantage-not-robust-sensitivity.md) — reports the opposite
+- [Performance scores are comparable after the first LC, with the feedback advantage emerging from the second LC onward](feedback-advantage-emerges-after-first-lc.md) — related

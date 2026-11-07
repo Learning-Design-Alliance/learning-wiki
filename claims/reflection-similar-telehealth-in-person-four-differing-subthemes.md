@@ -50,3 +50,4 @@ Qualitative comparison of two separately analysed datasets: telehealth (23 conse
 - [Demonstrating compassion in serious illness conversations is more challenging via telehealth because the whole person cannot be seen](sic-compassion-telehealth-challenge.md) — related
 - [Observing therapeutic conversations through 360-degree video provides students practical insight into adapting communication to different client groups](360-video-observation-therapeutic-conversations.md) — related
 - [Medical students’ reflections in the e-learning course addressed all key communication topics conveyed in the course](reflections-recalled-course-content-communication.md) — related
+- [Virtual care placements uniquely developed niche communication skills, including virtual group facilitation and virtual client communication](virtual-care-niche-communication-competencies.md) — related

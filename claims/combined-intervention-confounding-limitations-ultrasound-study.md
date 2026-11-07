@@ -52,3 +52,4 @@ Authors' own stated limitations in the Discussion: restricted sample size, inabi
 - [The no-intervention control group also showed significant knowledge and attitude increases, attributed to confounding](control-group-also-improved-confounding.md) — related
 - [The independent contributions of progressive training and imagery training could not be separated in this trial, and the small sample size may amplify Type II error](combined-method-unquantified-components-small-sample.md) — related
 - [The authors state the study's design limits causal attribution of the observed improvements to DST](dst-study-design-limitations.md) — related
+- [Generalizability of the SPSP effect is limited to diploma nursing students in the two sampled regions, with the lecture contribution unseparated](spsp-generalizability-limits-tanzania.md) — related

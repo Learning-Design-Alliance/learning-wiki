@@ -43,7 +43,8 @@ Immediately after the first simulation, the instructor played a recording of the
 - [RCDP can impose high cognitive load and lower learning satisfaction compared to traditional training, per prior literature cited by the authors](../claims/rcdp-cognitive-load-and-satisfaction-concerns.md) [~W]
 
 ## Related Strategies
-- 
+
+- [Use recorded practice with expert video review and re-practice to improve practical CPR skills](video-feedback-practice-review-repractice-strategy.md)
 
 ## Examples
 -

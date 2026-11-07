@@ -55,3 +55,5 @@ Qualitative semi-structured interviews with four OFD participants (S1–S4), ana
 - [A review of 17 e-learning course-design studies identified four major design themes: course structure, content presentation, collaboration and interaction, and timely feedback](lister-four-elearning-design-themes.md) — related
 - [Learners in an EFL academic-writing course reported positive responses on most critical-thinking indicators after peer review, with mixed answers on identifying proper academic writing](peer-review-critical-thinking-perception.md) — related
 - [EFL students in the blended Blackboard course reported positive attitudes toward using discussion boards, blogs and wikis for integrated reading/writing](blackboard-cmc-positive-attitudes.md) — related
+- [Students reported positive motivation and engagement during the CA-PT despite its perceived difficulty](ca-pt-motivation-engagement-positive.md) — related
+- [Students identified authentic cases, collaborative learning, feedback, worksheets, journal writing, and appropriate difficulty as beneficial, with time constraints and workload as challenges](focus-group-benefits-challenges-flipped-reasoning.md) — related

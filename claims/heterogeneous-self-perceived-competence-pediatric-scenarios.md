@@ -52,3 +52,4 @@ Online survey of 437 emergency physicians assessing self-perceived competence ac
 - [Knowledge–confidence inverse pattern is strongest among paramedics and non-trained resident physicians](phtls-knowledge-confidence-subgroup-pattern.md) — related
 - [Neonatal resuscitation knowledge and skills deteriorate significantly in the months following NRP certification](nrp-knowledge-skills-decay-months-after-certification.md) — related
 - [Self-rated confidence in managing oxygen desaturation rose from pre-test to post-test more than self-rated confidence in unrelated emergency scenarios among novice physicians](targeted-confidence-gain-exceeds-nontargeted.md) — related
+- [Confidence in providing emergency care to a polytrauma patient rose significantly from before to after VR trauma training in the intervention group.](vr-training-increases-trauma-care-confidence.md) — related

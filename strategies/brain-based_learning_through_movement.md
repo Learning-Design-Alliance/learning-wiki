@@ -62,6 +62,7 @@ Movement supports cognition primarily through improved attention and executive f
 - [Active Learning](../principles/active-learning.md) — movement is one channel for the active engagement this principle requires
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — movement warm-ups can double as activation activities
 - [Use review evidence to make teachers critical consumers of brain-based explanations, rather than dropping neuroscience directly into practice](critical-consumers-of-brain-based-explanations.md)
+- [Multi-channel activation of students before and during class](oamas-multi-channel-activation-strategy.md)
 
 ## Examples
 - **[GoNoodle](https://www.gonoodle.com)** — free classroom movement-break videos used as structured transitions between instructional segments in K–5 classrooms.

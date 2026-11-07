@@ -58,3 +58,4 @@ Post-training perception question administered to all 37 participants after both
 - [Residents strongly prefer VR as an adjunct to conventional training rather than a replacement (89% support adjunct use; only 3.4% prefer VR alone)](residents-prefer-vr-as-adjunct.md) — possibly the same claim (merge candidate)
 - [HFS participants reported higher overall satisfaction, tutor guidance, and authenticity than VR participants, though both groups were highly satisfied](hfs-higher-satisfaction-authenticity.md) — related
 - [Participants express high satisfaction with VR MCI training and motivation to repeat it](vr-mci-training-satisfaction-motivation-repeat.md) — related
+- [Students recommended blended learning with supervised skills-lab practice, peer pairing for videoing, and earlier curricular inclusion of surgical skills](student-recommendations-blended-peer-pairing.md) — related

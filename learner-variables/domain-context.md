@@ -13,7 +13,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 95 claims (68 show a difference, 21 mixed, 6 no difference) · 85 studies (20 review, 17 causal, 16 qualitative, 15 design, 7 associational, 5 quant-synthesis, 5 theoretical), `q1`–`q4` · 10 of 85 report an effect size · 91 claims rest on one study
+> **Evidence** · 101 claims (72 show a difference, 23 mixed, 6 no difference) · 89 studies (20 review, 19 qualitative, 17 causal, 16 design, 7 associational, 5 quant-synthesis, 5 theoretical), `q1`–`q4` · 10 of 89 report an effect size · 97 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -136,6 +136,12 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [Workplace-organised training and frequent emergency-drill participation are associated with higher engagement in disaster management roles](../claims/training-and-drills-boost-disaster-engagement.md) [+M] — learners who differ on it differ in outcomes
 - [Gender, age, workplace setting, years of experience, family history, caring experience, and tertiary education show no significant association with ADKS scores](../claims/demographics-null-adks-jeddah.md) [-M] — learners who differ on it differ in outcomes
 - [EPAs interact with workplace learning factors in both helping and hindering ways across learning goals, study, debriefing, motivation, case mix, and supervisors](../claims/epa-helping-hindering-factors.md) [~M] — an instructional effect differs with it
+- [Across all three innovation cases, learners developed competencies in OT expertise, excellence in practice, and communication and collaboration, but which specific competencies developed depended on the case context](../claims/competency-domains-common-across-innovation-cases.md) [~M] — an instructional effect differs with it
+- [CBE-trained nurses as a workplace minority struggle to demonstrate their competencies where most colleagues and supervisors are OBE-trained](../claims/cbe-minority-workplace-barriers.md) [+M] — an instructional effect differs with it
+- [Free-text responses identify staffing, physician access, leadership, competence, and interprofessional collaboration as essential requirements for capability, with NEWS and proACT perceived as providing structure and confidence](../claims/capability-requirements-free-text-themes.md) [+M] — learners who differ on it differ in outcomes
+- [Innovative fieldwork placements during the COVID-19 pandemic (administration, intrapreneurship, and virtual care cases) supported competency development in occupational therapy learners, though development was complex and contextually based](../claims/innovative-fieldwork-supported-competency-development-pandemic.md) [~M] — an instructional effect differs with it
+- [Only the context subcomponent improves significantly on real evaluations](../claims/real-evaluation-only-context-subcomponent-improved.md) [+M] — measured as an outcome of the instruction studied
+- [Virtual care placements uniquely developed niche communication skills, including virtual group facilitation and virtual client communication](../claims/virtual-care-niche-communication-competencies.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

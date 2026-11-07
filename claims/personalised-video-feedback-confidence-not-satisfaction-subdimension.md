@@ -52,3 +52,4 @@ Subscale analysis of the Student Satisfaction and Self-Confidence in Learning Sc
 - [Personalised video-assisted feedback does not significantly improve theoretical knowledge scores compared to structured self-debriefing](personalised-video-feedback-knowledge-not-significant.md) — related
 - [Simulation-assisted application increases nursing students' satisfaction and self-confidence in learning compared with clinical practice alone](simulation-raises-nursing-satisfaction-self-confidence.md) — related
 - [A chatbot-based self-directed learning program raises nursing students' self-confidence in mechanical ventilation nursing more than video lectures alone](chatbot-sdl-raises-ventilation-self-confidence.md) — related
+- [Simulation training raises primary care physicians' post-testing self-confidence in subacromial injection more than lecture and video alone](simulation-training-raises-injection-self-confidence.md) — related

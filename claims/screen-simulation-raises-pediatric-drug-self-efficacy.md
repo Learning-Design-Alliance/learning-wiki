@@ -50,3 +50,4 @@ Randomized controlled trial of 198 nursing students randomized (n = 99 per group
 - [Both SCLS sub-dimensions — student satisfaction and self-confidence in learning — show significant post-test advantages for the simulation group](screen-simulation-scls-subdimension-advantages.md) — related
 - [Immersive virtual reality disaster training improved emergency nurses' preparedness and self-efficacy with short-term retention](immersive-vr-training-improved-preparedness-self-efficacy.md) — related
 - [SPLINTS-based lecture and video-scenario training significantly raises scrub practitioners' overall self-efficacy in intraoperative non-technical skills one month after training](splints-training-raises-scrub-practitioner-self-efficacy.md) — related
+- [Simulation training raises primary care physicians' post-testing self-confidence in subacromial injection more than lecture and video alone](simulation-training-raises-injection-self-confidence.md) — related

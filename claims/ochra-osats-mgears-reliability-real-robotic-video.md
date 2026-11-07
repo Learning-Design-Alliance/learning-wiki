@@ -69,3 +69,5 @@ Rater training analysis on 10 JIGSAWS videos before the main annotation. The art
 - [Task-specific metrics show excellent inter-rater reliability for simulated laparoscopic crural repair assessment](tsm-excellent-inter-rater-reliability-crural-repair.md) — related
 - [Assessment reliability was high: intra-rater ICCs of 0.98 and 0.79 and inter-rater ICCs of 0.92 and 0.73](osats-assessor-reliability-iccs.md) — related
 - [Structured grading rubrics such as OSATS and GEARS are validated to reliably distinguish levels of surgical expertise and remain the standard approach to surgical skill assessment](structured-rubrics-standard-surgical-skill-assessment.md) — a broader claim this one bears on
+- [The assessment tools show strong concurrent validity, correlating moderately to strongly in dry and VR tasks](concurrent-validity-m-gears-apms-ochra.md) — related
+- [The OCHRA error-assessment tool shows excellent inter-rater reliability in robotic basic skills assessment](ochra-inter-rater-reliability-excellent.md) — related

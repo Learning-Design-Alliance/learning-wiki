@@ -54,3 +54,4 @@ Cross-sectional survey of 400 licensed dentists in Saudi Arabia using a 9-item k
 - [Defibrillation-related knowledge had the lowest domain-specific accuracy among BLS knowledge domains.](defibrillation-knowledge-lowest-domain-accuracy.md) — related
 - [Only 40.26% of surveyed healthcare professionals met the criterion for high knowledge-based BLS competency (score ≥80 points).](40-percent-high-bls-knowledge-competency.md) — related
 - [Item-level BLS knowledge accuracy varied considerably, with the lowest accuracy on airway-management, defibrillation, and quality-control items.](item-level-bls-accuracy-varies-considerably.md) — related
+- [About half of newly licensed Italian physicians had adequate theoretical knowledge of CPR, well below their expected competence](half-of-new-physicians-adequate-cpr-theory.md) — related

@@ -59,3 +59,4 @@ Narrative synthesis identified these five barriers as "commonly reported" across
 - [Participants saw the internship model as an opportunity for greater university-hospital interaction and for relieving shortages of anesthesiologists, instructors, and affordable clinical labor](anesthesia-internship-opportunities-workforce-interaction.md) — related
 - [Using practising CEPs as in-situ placement assessors faces barriers of assessor training, standardisation, workload, workforce size and lack of tariff](in-situ-assessor-barriers-cep.md) — related
 - [Nurse educators report high workload and insufficient time as barriers to PBL implementation](nurse-educator-workload-time-barrier-pbl.md) — related
+- [Professional pressures — time constraints, workload and vast scope of knowledge — hindered registrars' revisitation of basic science knowledge](professional-pressure-hinders-knowledge-revisitation.md) — related

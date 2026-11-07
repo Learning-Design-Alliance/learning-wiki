@@ -48,3 +48,4 @@ Perceptual comparison item in the student questionnaire (n=129); students rated 
 - [Teachers rated the DCBL model as more promising than LBL and PBL for student interest, understanding depth, and diagnostic-treatment level](dcbl-teacher-comparison-lbl-pbl.md) — related
 - [Surveyed dermatology teachers showed high acceptance of the DCBL model, with 98.1% expecting enhanced learning outcomes and 100% willing to adopt it](dcbl-teacher-acceptance-expectations.md) — related
 - [Most surveyed dermatology students reported positive perceptions of the DCBL model, with 82.62% satisfied or highly satisfied and over 89% expecting improvements across learning dimensions](dcbl-student-perceptions-positive.md) — related
+- [Teachers rated the TCLEBL class significantly higher than the LBL class on all five feedback items](tclebl-teacher-satisfaction-higher-than-lbl.md) — related

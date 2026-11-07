@@ -51,3 +51,4 @@ Pairwise Wald χ2 tests with Benjamini–Yekutieli correction on class-specific 
 - [Women had significantly lower odds than men of being in the Low Overall Frequency profile versus the Moderate Guided Users profile (OR = 0.57).](women-lower-odds-low-frequency-profile.md) — related
 - [Hispanic students had significantly higher odds than white students of being in the Independent Navigator profile versus the Moderate Guided Users profile (OR = 2.01).](hispanic-students-independent-navigator-odds.md) — related
 - [Postclass review did not independently predict final scores but characterized excellent learners in ROC analysis](postclass-review-excellent-learners.md) — reports the opposite
+- [Students who report being taught how to study use more spaced practice but earn lower grades than those who report not being taught](taught-to-study-more-spacing-lower-grades.md) — related

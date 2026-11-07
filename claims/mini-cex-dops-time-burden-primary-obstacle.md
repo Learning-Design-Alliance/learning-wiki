@@ -52,3 +52,4 @@ Obstacles theme from interviews at one tertiary hospital; an ICU educator report
 - [Nearly one-third of Mini-CEX students cited limited faculty availability and insufficient training as implementation barriers](mini-cex-faculty-availability-barriers.md) — related
 - [Evaluation-system factors—doubted anonymity, insufficient feedback, tight timing, heavy workload, and unclear indicators—drive self-protective and arbitrary SET scoring](evaluation-system-factors-anonymity-feedback-timing.md) — related
 - [Nurse educators report high workload and insufficient time as barriers to PBL implementation](nurse-educator-workload-time-barrier-pbl.md) — related
+- [Most residents reported positive perceptions of the Mini-CEX plus DOPS evaluation mode, with 85% support and 15% reporting increased learning burden](resident-feedback-supports-minicex-dops-mode.md) — related

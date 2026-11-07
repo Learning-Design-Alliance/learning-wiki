@@ -49,3 +49,4 @@ Self-developed questionnaire on subjective safety rated on a four-point Likert s
 - [In situ simulated emergency training does not significantly improve clinical communication in junior nurses](in-situ-set-no-effect-clinical-communication.md) — related
 - [Active methodologies show no definitive superiority over traditional teaching in undergraduate dentistry](no-definitive-superiority-active-methods-dentistry.md) — a broader claim this one bears on
 - [Immediately after zone 1 training, competence did not differ significantly between groups despite 100% vs 84% competence](zone0-iv-cpr-competence-immediate-nonsignificant.md) — related
+- [Virtual on-call simulations yield self-reported confidence outcomes consistent with in-situ models and offer greater scalability](virtual-on-call-simulation-consistent-with-in-situ.md) — related

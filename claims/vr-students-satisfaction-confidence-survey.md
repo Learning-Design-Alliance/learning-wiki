@@ -49,3 +49,4 @@ Post-course satisfaction questionnaire administered only to the 29 VR-group stud
 - [Students perceived HVRS training as useful and wanted it integrated into the endodontics curriculum](hvrs-positive-student-perceptions.md) — related
 - [DVRS students reported the simulator relieved procedural anxiety, honed operational skills, and boosted confidence for clinical practice](dvrs-anxiety-skills-confidence-ratings.md) — related
 - [Residents perceived marked improvements in basic laparoscopic skills, VR-based surgical skills, animal-based procedural ability, and clinical environment adaptability after the program](perceived-competency-gains-laparoscopic-program.md) — related
+- [Students in both SP-TCM groups reported higher satisfaction, confidence, motivation, and perceived skill gains than TT students](sp-tcm-student-feedback-advantage.md) — related

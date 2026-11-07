@@ -48,6 +48,7 @@ The authors recommend applying the same low-cost homemade simulator principle to
 - [Use validated simulators to widen access to Aquablation training where clinical cases and robotic systems are scarce](simulator-training-access-scarce-robotic-procedures.md)
 - [Extend competency-driven procedural training to other under-taught clinical skills and resource-limited settings](extend-competency-driven-training-to-other-procedures.md)
 - [Extend high-fidelity clinical simulation to other Dentistry curriculum areas such as pediatric dentistry](extend-simulation-pediatric-dentistry.md)
+- [Include procedure-specific low-fidelity vaginal surgery models in ObGyn residency surgical teaching curricula, with preceptorship for juniors and coaching for seniors](vaginal-simulation-preceptorship-juniors-coaching-seniors.md)
 
 ## Examples
 -

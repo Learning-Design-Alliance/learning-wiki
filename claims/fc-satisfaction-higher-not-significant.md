@@ -47,7 +47,7 @@ Anonymous end-of-year Qualtrics survey with a trichotomous scale (good, satisfac
 ## Related Claims
 - [Flipped classroom students achieved significantly higher mean pharmacology exam grades than traditional classroom students](fc-higher-mean-exam-grade-dental-pharmacology.md) — related
 - [Flipped classrooms are associated with higher learner satisfaction in medical education (pooled SMD = 0.69), with residents showing larger improvement than undergraduates (SMD 1.69 vs 0.37)](flipped-classroom-learner-satisfaction-residents.md) — reports the opposite
-- [Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82).](flipped-classroom-higher-student-satisfaction-medical-education.md) — reports the opposite
+- [Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82), but a trim-and-fill adjustment for publication bias reduces it to SMD 0.07](flipped-classroom-higher-student-satisfaction-medical-education.md) — reports the opposite
 - [A higher proportion of flipped classroom students passed the pharmacology exam (75% vs 60% above 50%)](fc-higher-pass-rate-dental-pharmacology.md) — related
 - [Flipped classroom and traditional classroom groups show comparable multiple-choice question performance (p = 0.651)](fc-comparable-multiple-choice-performance.md) — related
 - [Dental students in a flipped classroom report significantly higher satisfaction with training than students in a face-to-face classroom](flipped-classroom-higher-satisfaction-wirebending.md) — reports the opposite

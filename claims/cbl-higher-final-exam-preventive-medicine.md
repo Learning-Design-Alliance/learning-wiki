@@ -50,3 +50,4 @@ Observational comparison reported in the Discussion: the 79 CBL joint-program st
 - [BOPPPS-flipped classroom reform is linked to significantly higher regular academic grades in pediatric dentistry than traditional instruction](boppps-flipped-higher-regular-grades-pediatric-dentistry.md) — related
 - [Medical students taught histology with a flipped-classroom blended model scored significantly higher on the end-of-course exam than students taught conventionally in a randomized trial](flipped-classroom-higher-histology-exam-scores.md) — related
 - [ChatGPT-guided PBL residents scored significantly higher on a nephrology theoretical exam than traditionally taught residents](chatgpt-pbl-higher-theoretical-exam-nephrology.md) — related
+- [Students' final comprehensive evaluation grade averaged 78.38 ± 7.12 under the O-AMAS blended course](oamas-final-comprehensive-grade-78.md) — related

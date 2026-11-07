@@ -74,6 +74,8 @@ The authors recommend a "scaffolded integration of these methods": utilizing "Ca
 - [Add dedicated research methodology, ethics, and mentoring components to case-based curricula to address competency gaps](add-research-ethics-components-to-cbl.md)
 - [Collaborative workshop as a methodology for scaffolding simulation learning design](collaborative-workshop-scaffolding-learning-design.md)
 - [Integrate student-active teaching methods such as TBL and formative assignments into preclinical curricula](integrate-active-learning-tbl-formative-assignments-medical-curricula.md)
+- [Use clinical pathway forms as a standardized teaching scaffold to avoid inconsistencies between teachers' varied teaching programs](clinical-pathway-forms-standardize-teaching-strategy.md)
+- [PBL-case fusion teaching via a problem chain around real clinical hematological disease cases](pbl-case-fusion-problem-chain-strategy.md)
 
 ## Examples
 -

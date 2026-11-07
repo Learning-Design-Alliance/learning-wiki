@@ -71,3 +71,4 @@ Discussion section attributing this second-hand: the article reports, citing a C
 - [Lectures and videos are the most common learning aids for vaginal hysterectomy training in surveyed units, with simulation training used in 32% and cadavers in 14%](vh-learning-aids-lecture-video-simulation.md) — related
 - [79% of surveyed surgeons believe 10–30 vaginal hysterectomy cases are required to achieve and to maintain proficiency](vh-perceived-10-30-cases-proficiency.md) — related
 - [Surveyed surgeons perceive opening the uterovesical fold as the most difficult vaginal hysterectomy step to learn and colpotomy as the easiest](vh-step-difficulty-uterovesical-fold-hardest.md) — related
+- [About 90% of surveyed surgeons consider emergency surgery an indispensable basic skill, yet fewer than 30% report sufficient learning opportunities in everyday clinical practice](emergency-surgery-core-competence-but-few-learning-opportunities.md) — related

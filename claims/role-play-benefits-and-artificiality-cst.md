@@ -63,3 +63,5 @@ The review's narrative synthesis of role play studies with medical and nursing s
 - [Scenario realism and interaction with standardized patients, rather than mannequins, generate immersion and emotional involvement in novice nursing students](sp-realism-drives-immersion-and-involvement.md) — related
 - [Clinical educators propose simulated patients in scenarios informed by real patient experiences as a way to prepare students for complex, unpredictable patient encounters.](sp-scenarios-complex-unpredictable-encounters.md) — related
 - [Nursing students report that role-play and video simulations fostered empathy, enhanced communication, and built confidence in a safe practice environment](role-play-video-simulation-empathy-confidence.md) — possibly the same claim (merge candidate)
+- [Students rated the communication training with simulated patients as very good and especially valued the small-group format](students-rated-small-group-simulated-patient-training-useful.md) — related
+- [Students valued the workshop's realism, real-time SP feedback, and paired-observer support in narrative feedback](students-valued-realism-and-feedback.md) — related

@@ -50,6 +50,7 @@ The review recommends blending online and offline methods to avoid the potential
 - [Optimise the mix of classroom instruction with online learning and performance support tools](optimize-mix-classroom-online-performance-support.md)
 - [A standardized retraining curriculum delivered through combined online and offline teaching methods helps reduce disparities in faculty resources and teaching capacity across different hospitals.](standardized-curriculum-online-offline-reduces-disparities.md)
 - [Blend digital resources with traditional teaching to create a blended learning approach](blended-digital-traditional-pathology-teaching.md)
+- [Optimization strategies for hybrid teaching: varied online instruction styles, curriculum reorganization, an online teaching library, and emerging technologies](hybrid-teaching-optimization-strategies-physiology.md)
 
 ## Examples
 -

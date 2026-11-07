@@ -63,3 +63,4 @@ First Delphi round of the national consensus-development study evaluating specia
 - [A two-round modified Delphi process with an integrated workshop produced consensus on 97 of 120 formulated competencies for a delirium e-learning curriculum](delphi-consensus-97-of-120-delirium-competencies.md) — related
 - [A three-round modified Delphi consensus process with neurosurgical key opinion leaders produced a prioritised list of 47 procedural skills for simulation-based learning](delphi-consensus-47-neurosurgical-procedures-sbe.md) — related
 - [Expert consensus supports using the vOSCE to assess 92% and the OSCE to assess 97% of the competencies in the Brazilian DCNs](expert-consensus-vosce-assesses-92-percent-dcn-competencies.md) — related
+- [A three-round Delphi study with 25 Finnish experts identified 52 health education teacher competencies, categorized into eight core competence domains](delphi-52-he-teacher-competencies-eight-domains.md) — related

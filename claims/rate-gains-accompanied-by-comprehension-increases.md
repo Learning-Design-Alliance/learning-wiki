@@ -50,3 +50,4 @@ Descriptive analysis of weekly comprehension percentages (Table 6, Figure 2) acr
 ## Related Claims
 - [The TROR group (timed reading plus repeated oral reading with chunking and prosody) made statistically significant reading rate gains of about 13 to 27 swpm across four scoring methods](tror-group-significant-rate-gains-four-scoring-methods.md) — related
 - [The TROR group showed significant comprehension gains on the average and last-minus-first scoring methods, but not on the extreme methods](tror-comprehension-gains-mixed-by-method.md) — related
+- [Both teaching approaches raised mean knowledge scores above the 70% sufficiency threshold, but only the game group's mean skill score did](both-methods-knowledge-above-threshold-only-game-skills.md) — related

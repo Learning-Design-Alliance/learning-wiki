@@ -47,3 +47,4 @@ Format-type subgroup analysis (Table 5) of the DUS benchmark: four image-based i
 
 ## Related Claims
 - [All seven LLMs showed markedly lower accuracy on image-based than text-based DUS questions, with significant text-image gaps for five models but not Gemini or Claude](llms-lower-accuracy-image-based-dus-questions.md) — a broader claim this one bears on
+- [A sensitivity analysis excluding not-applicable answers (e.g., image-based items) yielded results similar to the main accuracy comparison](cineca-accuracy-sensitivity-analysis-similar-results.md) — related

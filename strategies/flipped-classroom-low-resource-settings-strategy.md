@@ -39,7 +39,7 @@ The article's conclusions recommend concrete steps for low-resource settings: "i
 ## Claims
 
 - [Flipped classroom instruction is associated with higher final knowledge scores than traditional instruction in medical education (SMD 0.90).](../claims/flipped-classroom-higher-knowledge-scores-medical-education.md) [+W]
-- [Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82).](../claims/flipped-classroom-higher-student-satisfaction-medical-education.md) [+W]
+- [Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82), but a trim-and-fill adjustment for publication bias reduces it to SMD 0.07](../claims/flipped-classroom-higher-student-satisfaction-medical-education.md) [+W]
 - [The flipped classroom effect on knowledge scores is larger in basic science subjects than in clinical or public health subjects.](../claims/flipped-classroom-larger-effect-basic-science-subjects.md) [+W]
 - [Publication bias inflates flipped classroom effect estimates for knowledge outcomes but not for baseline knowledge.](../claims/flipped-classroom-publication-bias-knowledge-outcomes.md) [-W]
 

@@ -52,3 +52,4 @@ Simple linear regression on the experimental group's post-test scores (Table 10)
 ## Related Claims
 - [L2 proficiency positively predicts L2 incidental vocabulary acquisition through reading](l2-proficiency-predicts-incidental-vocabulary-acquisition.md) — related
 - [Active listening training produced a significantly larger vocabulary gain than traditional listening practice in fourth-grade students over eight weeks](active-listening-training-vocabulary-gain.md) — related
+- [Written knowledge-test scores explain only a small share of overall OSCE score variability in both groups (11% comparator, 14% intervention)](written-test-score-small-share-osce-variance.md) — related

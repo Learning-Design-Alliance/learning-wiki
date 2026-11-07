@@ -52,3 +52,4 @@ Two-way repeated measures ANOVA across 3 time points for 60 NPs. Table 2 reports
 - [Repeated measures ANOVA shows significant time-of-testing effect and significant time-by-group interaction on word-problem scores](time-by-group-interaction-problem-solving-plan.md) — a broader claim this one bears on
 - [No significant instruction-by-time interaction was found on the discourse completion test](dct-no-interaction-instruction-time.md) — related
 - [The EmMa course showed no significant effect on early childhood teachers' mathematical content knowledge](emma-no-effect-mck.md) — related
+- [In the BLS E-learning experiment, knowledge score changes were significantly influenced by time, number of sessions, and their interactive effect](repeated-measures-anova-time-sessions-interaction-bls.md) — related

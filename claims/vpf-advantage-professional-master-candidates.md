@@ -49,3 +49,4 @@ Subgroup analysis in the RCT (Table 3): PMM candidates' mean improvements favore
 - [Video-based peer feedback produces higher post-training scores than video-based expert feedback for wound dressing change with suture removal](vpf-superior-wound-dressing-change.md) — a narrower finding that bears on this claim
 - [No significant difference between video-based peer feedback and expert feedback for indwelling urinary catheterization or simple interrupted suture](vpf-vef-no-difference-catheterization-suturing.md) — reports the opposite
 - [Peer feedback effectiveness may be compromised when task complexity exceeds a threshold, as observed for simple interrupted suturing](peer-feedback-task-complexity-threshold.md) — related
+- [O2O/PBL trainees scored higher on practical skills examination (urinary catheterization proficiency) than LBT trainees](o2o-pbl-higher-practical-skills-scores-nephrology.md) — related

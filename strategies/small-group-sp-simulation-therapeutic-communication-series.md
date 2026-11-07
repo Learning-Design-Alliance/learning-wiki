@@ -52,6 +52,7 @@ A concrete implementation recipe drawn from the study's procedures: run a semest
 - [Six-step implementation guideline for integrating collaborative simulation-based learning into health sciences curricula](collaborative-sbl-implementation-guidelines.md)
 - [Integrate complementary methods — simulations, feedback, and targeted tools — into mental health nurse training and assessment](integrate-simulations-feedback-targeted-tools-mhn-assessment.md)
 - [Administer a rotating virtual breakout-room SP assessment with 15-minute interviews and 5-minute feedback](virtual-breakout-room-sp-assessment-rotation.md)
+- [Structured SP simulation session recipe: pre-briefing, 15-minute interview with checklist, and three-part debriefing](spsp-session-structure-strategy.md)
 
 ## Examples
 -

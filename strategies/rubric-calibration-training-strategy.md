@@ -59,6 +59,7 @@ The review recommends that "Faculty and student training in rubric use is essent
 - [Use standardized checklists to improve the quality of peer feedback in video-based skill training](standardized-checklists-peer-feedback-quality.md)
 - [Calibration and implementation pathways for analytic rubrics in clinical dental courses](rubric-calibration-implementation-pathways-dental-clinics.md)
 - [Improve SBL rubric reliability through rater calibration, detailed domain-level checklists, and formative assessment with a single rater](reliability-improvement-strategies-sbl-rubrics.md)
+- [Provide pre-assessment training to raters before video-based quality assessment](pre-assessment-rater-training-strategy.md)
 
 ## Examples
 -

@@ -48,6 +48,7 @@ The article's implications section recommends that parents "maintain appropriate
 ## Related Strategies
 
 - [Adopt autonomy-supportive practices to cultivate emotionally supportive EFL environments](autonomy-supportive-practices-efl-emotional-support.md)
+- [Foster positive peer relationships, motivation, and engagement through classroom interventions](peer-relationship-motivation-engagement-interventions-strategy.md)
 
 ## Examples
 -

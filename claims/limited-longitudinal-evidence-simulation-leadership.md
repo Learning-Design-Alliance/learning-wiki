@@ -58,3 +58,5 @@ The review's own limitations analysis of its 12 included studies, many of which 
 - [Students conceptualize EI as the foundation of leadership development and leadership readiness, including patient-centered leadership](ei-leadership-readiness-foundation.md) — related
 - [Comprehensive data linking simulation training to patient outcomes, complication rates, and long-term skill retention are lacking](simulation-skill-transfer-outcomes-lacking.md) — related
 - [Evidence for transfer of SBE-gained knowledge and skills to clinical practice is weak, with scarce control groups and longitudinal studies](sbe-evidence-gaps-transfer-weak.md) — related
+- [Evidence for bootcamp benefits is limited by absent control groups, self-reported subjective measures and lack of long-term follow-up](bootcamp-evidence-limits-no-control-no-followup.md) — a narrower finding that bears on this claim
+- [Whether RCDP skill gains transfer to real clinical care and are retained over time remains untested](rcdp-transfer-and-retention-untested.md) — related

@@ -61,3 +61,4 @@ Multivariate linear regression on 392 nurses (F = 71.446, p < 0.001, R2 = 0.711)
 - [Nurses in level III (tertiary) hospitals score higher on NM competence than counterparts in level II hospitals](tertiary-hospital-nurses-higher-nm-competence.md) — related
 - [Mean clinical competence score is significantly associated with age, nursing education level, and years of clinical work experience (P<0.001)](competence-associated-age-education-experience.md) — related
 - [Work setting relates to competence unevenly: core nursing skills score higher in primary healthcare while general performance scores higher in government hospitals](work-setting-competence-differences-by-domain.md) — a narrower finding that bears on this claim
+- [Scenario simulation is reported as an effective strategy for training clinical skills in treating infectious diseases](scenario-simulation-effective-infectious-disease-training.md) — related

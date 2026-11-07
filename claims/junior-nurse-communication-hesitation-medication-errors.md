@@ -53,3 +53,4 @@ Focus group finding across career stages: experienced nurses observed that junio
 - [Divergence between high self-reported collaboration and hesitancy in error reporting within perceived punitive environments](divergence-collaboration-scores-error-reporting-hesitancy.md) — related
 - [Inexperienced participants hesitate to contribute in mixed-seniority group supervision, a social-positioning challenge unique to the group format](social-positioning-junior-hesitance-group-supervision.md) — related
 - [Nurses at all career stages lacked knowledge of root cause analysis tools for medication error prevention](nurses-lack-rca-tool-knowledge.md) — related
+- [Physicians rarely provide direct feedback to colleagues on clinical decisions, limiting collegial feedback as a lifelong learning mechanism](physician-reluctance-colleague-feedback.md) — related

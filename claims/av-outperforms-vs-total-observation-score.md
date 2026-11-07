@@ -66,3 +66,4 @@ Paired comparison of the 8 groups' observation assignments after Workshop 1 (VS)
 - [Analytical competence showed a leap-plateau trajectory across sequential authentic-video workshops, improving mainly between Workshops 2 and 3](analysis-leap-plateau-trajectory.md) — related
 - [Supportive competence grew continuously through Workshop 4 while basic observation ability remained stable across sequential AV workshops](support-growth-observation-stable-longitudinal.md) — related
 - [Authentic video enhanced self-reported acuity for detail, though the non-parametric check was marginal](av-higher-acuity-detail-sensitivity.md) — related
+- [Skill scores decline within seven days after video-based acquisition, while self-study after an initial low score raises performance](skill-decline-seven-days-after-video.md) — related

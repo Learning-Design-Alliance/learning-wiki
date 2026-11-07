@@ -13,7 +13,7 @@ generated:
 # Critical Thinking
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 195 claims (139 show a difference, 35 mixed, 21 no difference) · 131 studies (67 causal, 23 review, 15 associational, 8 quant-synthesis, 7 theoretical, 6 design, 5 qualitative), `q1`–`q3` · 28 of 131 report an effect size · 193 claims rest on one study
+> **Evidence** · 198 claims (141 show a difference, 36 mixed, 21 no difference) · 132 studies (67 causal, 23 review, 15 associational, 8 quant-synthesis, 7 design, 7 theoretical, 5 qualitative), `q1`–`q3` · 28 of 132 report an effect size · 196 claims rest on one study
 
 ## Description
 Critical thinking is purposeful, reasoned evaluation: asking who is presenting information, in what context and on what evidence, considering several perspectives and kinds of evidence before drawing an inference, and using that to make decisions and solve problems. It combines a set of reasoning skills with a disposition to use them. It is often measured by questionnaires about attitudes toward critical thinking, as well as by reasoning tasks.
@@ -236,6 +236,9 @@ It draws on [metacognition](metacognition.md) (monitoring one's own reasoning), 
 - [Academic achievement is directly predicted by self-regulation and critical thinking, with self-regulation the more influential predictor](../claims/self-regulation-critical-thinking-predict-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [\"Learning, Thinking & Conveying\" training with experiential learning improves critical thinking disposition in 5 of 7 CTDI-CV dimensions but not systematicity or cognitive maturity](../claims/ltc-training-improves-ctdi-cv-critical-thinking-partially.md) [~M] — measured as an outcome of the instruction studied
 - [Critical thinking skills scores rose from pretest to posttest after simulation-based training among Vietnamese nursing students in a single-group pre-post study; the change was not statistically significant](../claims/simulation-training-no-critical-thinking-change-vietnam.md) [-M] — measured as an outcome of the instruction studied
+- [Mock evaluation total utility scores improve significantly after the workshop (12.4 to 15.5)](../claims/mock-evaluation-utility-improves-after-workshop.md) [+M] — measured as an outcome of the instruction studied
+- [Only the context subcomponent improves significantly on real evaluations](../claims/real-evaluation-only-context-subcomponent-improved.md) [~M] — measured as an outcome of the instruction studied
+- [Real end-of-rotation evaluation utility improves significantly after the workshop (13.7 to 15.0)](../claims/real-evaluation-utility-improves-after-workshop.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **California Critical Thinking Disposition Inventory** (Facione et al., 2001): learner questionnaire on attitudes and dispositions toward critical thinking.

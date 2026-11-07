@@ -51,3 +51,4 @@ Systematic review synthesis of survey and qualitative findings on barriers to EB
 - [GPs widely believe evidence must be integrated with clinical experience and tailored to individual patients](gps-integrate-evidence-with-experience.md) — related
 - [Direct observation found GPs rarely engaged in the traditional five-step EBM process, relying instead on 'mindlines'](gps-rely-on-mindlines-not-five-step-ebm.md) — related
 - [Self-reported frequent engagement with traditional EBM steps is low among UK GPs](low-self-reported-ebm-activity-uk-gps.md) — related
+- [Resident EBM log activity led to real-time changes in ED patient care in 3.7% of logs and planned future care changes in 18.7% of logs](pbl-logs-real-time-ebm-care-change.md) — related

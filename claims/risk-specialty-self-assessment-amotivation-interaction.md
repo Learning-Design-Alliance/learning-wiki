@@ -47,3 +47,4 @@ Post hoc moderation analysis (SPSS PROCESS model 3, bootstrapping with deviation
 ## Related Claims
 - [General surgeons and trauma-related specialty consultants were more likely to pass ATLS, while general practitioners and OMFS specialists were more likely to fail](atls-specialty-outcome-differences.md) — related
 - [Age, pre-test scores, and refresher-course attendance significantly predicted ATLS success among physicians](atls-success-predictors-age-pretest-refresher.md) — related
+- [Surveyed German general and visceral surgeons report very little expertise in interventions required after abdominal trauma, with highly significant trainee–specialist differences](little-expertise-abdominal-trauma-interventions.md) — related

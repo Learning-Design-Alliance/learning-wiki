@@ -69,6 +69,7 @@ Arts integration works when the art activity is *integral* to the content — a 
 - [Activate Background Knowledge](activating-prior-knowledge.md) — the preparatory move that makes art-based construction conceptually productive
 - [Academic Choice (Planning, Working, Reflecting)](academic-choice-planning-working-reflecting.md) — structures the learner choice of art form and medium
 - [Use creative drama techniques across different grades and courses to support achievement and affective outcomes](use-creative-drama-across-grades-and-courses.md)
+- [Policy recommendations: integrate visual art into formal curriculum and expand low-cost community activity centers](visual-art-policy-recommendations-china.md)
 
 ## Examples
 - **Kindergarten science:** learners finger-paint the stages of a butterfly's life cycle, then narrate their paintings to a partner — pairing visual/embodied encoding with oral rehearsal.

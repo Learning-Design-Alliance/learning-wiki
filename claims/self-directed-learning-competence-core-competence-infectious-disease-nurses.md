@@ -51,3 +51,4 @@ Cross-sectional survey of 392 infectious disease nurses using Pearson correlatio
 - [Self-directed learning ability is positively associated with membership of the moderate- and high-level competency profiles rather than the low-level profile](self-directed-learning-ability-higher-competency-profiles.md) — related
 - [Health education ability, self-directed learning, and critical thinking were significantly positively intercorrelated among nursing interns (r = 0.478–0.854)](positive-correlations-three-nursing-competencies.md) — related
 - [Work experience, very good clinical competence, field satisfaction, and academic success predict self-directed learning scores in multiple linear regression](regression-predictors-of-sdl-scores.md) — related
+- [Scenario simulation is reported as an effective strategy for training clinical skills in treating infectious diseases](scenario-simulation-effective-infectious-disease-training.md) — related

@@ -53,3 +53,4 @@ Results-section behavioral measure from the debridement animal experiment class:
 - [Students taught with the virtual simulation platform reported higher satisfaction with learning outcomes across all surveyed items than MOOC students](virtual-simulation-higher-satisfaction-than-mooc.md) — related
 - [BOPPPS with virtual simulation yields significantly higher total internship performance scores than traditional teaching (d = 3.12)](boppps-virtual-simulation-higher-internship-performance.md) — related
 - [In the same RCT, PBL combined with virtual simulation produced significantly higher total critical thinking scores than lecture-based teaching (314.12 ± 10.68 vs. 270.28 ± 19.76, p < 0.05)](pbl-virtual-simulation-higher-critical-thinking-trauma-orthopedics.md) — related
+- [The feedback group takes significantly longer total operative time than the control group](feedback-group-longer-operative-time.md) — related

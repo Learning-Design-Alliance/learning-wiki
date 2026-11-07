@@ -49,3 +49,4 @@ Standardized SUS questionnaire administered to the 101 participants (Fig. 4 dist
 - [Health professionals achieved a mean of 69.4% correct clinical decisions in an immersive VR hypothermia/helicopter-evacuation ALS scenario](vr-als-hypothermia-mean-69-percent-correct-decisions.md) — related
 - [Students rated the VR-IWS highly usable, with a mean SUS score of 85.36](vr-iws-sus-usability-85.md) — related
 - [Students rated the HoloLens 2 above average on the System Usability Scale (mean 79.4)](hololens-sus-79-above-average-usability.md) — related
+- [Nursing students rate the VR oral health learning system as a good experience, and satisfaction does not differ by prior VR game experience](vr-system-satisfaction-sus.md) — related

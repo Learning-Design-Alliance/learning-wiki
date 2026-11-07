@@ -54,3 +54,4 @@ Interview-based finding: Rachel attributed persistence to students' uncertainty 
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — a broader claim this one bears on
 - [Teachers perceived the Teach-First Approach as more focused and a more efficient approach to learning](teach-first-focused-efficient.md) — related
 - [Undergraduate dental students perceive that PBL builds self-efficacy, moving from initial uncertainty toward confidence in independent learning](pbl-builds-self-efficacy-from-uncertainty.md) — related
+- [Students reported positive motivation and engagement during the CA-PT despite its perceived difficulty](ca-pt-motivation-engagement-positive.md) — related

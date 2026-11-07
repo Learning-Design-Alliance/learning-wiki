@@ -68,3 +68,4 @@ A senior lecturer cited two SBE training sessions and examples from South Africa
 - [Male nursing students recommend more functional mannequins, extended lab hours, real-time feedback technology, and additional supervision](student-suggestions-simulation-resources-and-lab-time.md) — related
 - [Missing facilities, infrastructure, and large class sizes impede PBL delivery](infrastructure-and-class-size-barriers-pbl-ethiopia.md) — related
 - [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
+- [Student nurses booked and used the clinical simulation laboratory for SSL at far lower rates than other health science students in 2019](nursing-students-low-ssl-booking-rates.md) — related

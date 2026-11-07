@@ -76,4 +76,6 @@ The review attributes this finding to Guend and colleagues, describing it as bas
 - [83% of respondents agreed that more robotic training is required before the completion of training](83-percent-respondents-more-robotic-training-required.md) — related
 - [Approximately 65 robotic liver resections are needed for a surgeon already experienced in open and laparoscopic liver surgery to attain full mastery](65-cases-to-full-mastery-robotic-liver-resection.md) — related
 - [A surgeon's robotic liver resection learning curve divides into four phases: Competency (cases 1–20), Proficiency (21–30), Early Mastery (31–65), and Full Mastery (66–100)](four-phase-robotic-liver-learning-curve.md) — a narrower finding that bears on this claim
+- [Surveyed German general and visceral surgeons report very little expertise in interventions required after abdominal trauma, with highly significant trainee–specialist differences](little-expertise-abdominal-trauma-interventions.md) — related
+- [Most participating surgeons had limited TAPP herniorrhaphy experience, and a majority reported high laparoscopic volume](participant-experience-profile-hernia-model-evaluation.md) — related
 

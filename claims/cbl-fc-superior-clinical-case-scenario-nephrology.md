@@ -50,3 +50,5 @@ A randomized controlled study assigned 46 students to CBL/FC and 46 to LBT durin
 - [CBL/FC students are more satisfied with classes than LBT students without spending more preparation time](cbl-fc-satisfaction-without-extra-burden.md) — related
 - [AI-assisted CBL+FC residents achieve higher OSCE total scores than lecture controls, driven by history collection and physical examination stations](ai-assisted-cbl-fc-osce-total-scores.md) — related
 - [AI-assisted PBL-CBL combined teaching raises medical interns' theoretical examination scores in post-herpetic neuralgia compared with lecture-based teaching](ai-pbl-cbl-improves-theoretical-examination-scores.md) — related
+- [Medical students taught with a flipped classroom using clinical scenarios and educational technology scored significantly higher on theoretical post-tests than students taught with subject-based lectures](flipped-classroom-clinical-scenarios-higher-theory-posttest.md) — related
+- [Nephrology residency trainees taught with O2O/PBL scored higher on theoretical knowledge examinations than trainees taught with lecture-based teaching](o2o-pbl-higher-theory-scores-nephrology-residency.md) — related

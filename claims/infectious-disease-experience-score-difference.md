@@ -49,3 +49,4 @@ Univariate t-test comparison in the 2055-nurse survey (t2053=3.333, P=.001). In 
 - [Higher frequency of infectious disease training sessions is associated with higher competence scores, with the largest coefficient at 5-9 sessions](training-frequency-competence-association.md) — related
 - [Most nurses (91.19%) are willing to undertake further infectious disease emergency training, and willingness is associated with competence scores](willingness-further-training-competence.md) — related
 - [Chinese nurses' mean infectious disease emergency response competence score is 141.75 (SD 20.09), a moderate to above-average level after COVID-19 restrictions were lifted](nurse-competence-mean-141-75-post-covid.md) — related
+- [Scenario simulation is reported as an effective strategy for training clinical skills in treating infectious diseases](scenario-simulation-effective-infectious-disease-training.md) — related

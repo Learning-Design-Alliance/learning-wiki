@@ -48,6 +48,7 @@ The review recommends that, for the best results in physician engagement in SDL 
 ## Related Strategies
 
 - [Design CPD programs with hands-on skill development, ongoing reinforcement, and integration into workplace protocols](cpd-hands-on-skills-reinforcement-protocol-integration.md)
+- [Support basic science knowledge renewal through CPD workshops, webinars and clinically relevant, easily accessible online resources](cpd-and-online-resources-for-basic-science-renewal.md)
 
 ## Examples
 -

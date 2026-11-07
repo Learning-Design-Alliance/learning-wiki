@@ -70,3 +70,4 @@ Inter-rater agreement analysis of ratings assigned by three different raters (Ra
 - [Inter-rater scoring of the writing tests showed good correlation-coefficient reliability](inter-rater-reliability-writing-scores.md) — related
 - [Inter-assessor agreement on OSCE scores is substantial, with a pooled intraclass correlation coefficient of 0.77](pt-osce-icc-assessors-substantial.md) — related
 - [Test–retest reliability of rater scores declined across the four clinical rotations, from 0.81–0.98 in Rotation 1 to 0.47–0.65 in Rotation 4](test-retest-reliability-declines-across-rotations.md) — related
+- [The AIxSuture dataset shows strong inter-rater agreement (average pairwise Pearson correlation of 0.8) with systematic individual rater biases](open-suturing-rater-agreement-and-bias.md) — related

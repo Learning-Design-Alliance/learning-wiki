@@ -70,3 +70,4 @@ Correlations between each rater's ratings and actual examinee difficulty for the
 - [An automated LLM assessor rates 3E clinical communication skills with agreement comparable to individual human raters](llm-assessor-agrees-with-human-raters-3e.md) — related
 - [An LLM-based AI Evaluator agrees with expert human raters on collaboration transcripts at a level similar to inter-expert agreement](llm-evaluator-agreement-matches-expert-raters.md) — related
 - [The automated scoring system's agreement with human raters varied widely by dimension, with information fidelity showing a weak, non-significant correlation](yunyi-human-agreement-varies-by-dimension.md) — related
+- [The AIxSuture dataset shows strong inter-rater agreement (average pairwise Pearson correlation of 0.8) with systematic individual rater biases](open-suturing-rater-agreement-and-bias.md) — related

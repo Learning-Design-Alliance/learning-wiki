@@ -61,3 +61,4 @@ Descriptive synthesis of software-based platform RCTs (desktop VR, web-based sim
 - [AI chatbots, simulations, and generative models enhanced student engagement and learning efficiency in dental education](ai-tools-enhance-dental-student-engagement-efficiency.md) — related
 - [Virtual patient platform plus mind mapping improves reported learning efficiency versus conventional teaching](dxr-mindmap-learning-efficiency.md) — related
 - [VRNET virtual reality-based neurological examination training yields higher neurological physical examination scores than standardized patients](vrnet-higher-npe-scores-than-standardized-patients.md) — a narrower finding that bears on this claim
+- [Training with standardized patients improves diagnostic accuracy, patient interaction skills, and overall clinical performance](standardized-patients-improve-diagnostic-accuracy.md) — related

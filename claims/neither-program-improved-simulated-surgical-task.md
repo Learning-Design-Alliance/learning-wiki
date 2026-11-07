@@ -51,3 +51,4 @@ Within-group comparisons on the simulated gastropexy task (a continuous suturing
 - [Post-training scores on all box tasks were higher for the box-trained group than the VR-trained group](box-group-outperformed-vr-group-on-box-tasks.md) — related
 - [VR-trained group scored higher than the box-trained group only on VR intracorporeal suturing post-training](vr-group-higher-only-vr-intracorporeal-suturing.md) — related
 - [Box trainer training produced pronounced improvements across all performance domains, particularly in precision and error reduction](box-trainer-error-reduction-gains.md) — related
+- [Basic surgical task performance was higher at exit than entry after free, unstructured virtual reality training on simulators, in one uncontrolled pre-post study, with proficiency-based progression not evaluated](free-vrst-training-improves-tasks-without-structured-protocol.md) — reports the opposite

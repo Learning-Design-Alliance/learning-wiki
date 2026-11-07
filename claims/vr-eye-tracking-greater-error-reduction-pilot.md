@@ -52,3 +52,5 @@ Pilot randomized pretest–posttest study; errors scored as absolute cumulative 
 - [Both VR and mannequin simulation situational-awareness scores rose significantly from pre-test to post-test within each group](both-modalities-improved-sa-within-groups.md) — related
 - [The mannequin simulator received significantly higher total feedback scores than the VR simulator, and higher scores in all six domains except knowledge](mannequin-higher-feedback-scores-than-vr.md) — related
 - [Students rated the VR-based brain death course significantly higher than the manikin-based course in a randomized pilot](vr-brain-death-course-rated-higher-than-manikin.md) — related
+- [VR simulation as ATLS course preparation shows no significant difference from control in knowledge test scores, clinical scenario pass rates, or course completion.](vr-atls-no-objective-effectiveness-difference.md) — related
+- [A fully immersive VR trauma simulation is feasible to deploy as an adjunct preparation for the ATLS course, with all completing participants achieving correct patient stabilisation.](vr-trauma-simulation-feasible-atls-adjunct.md) — related

@@ -48,3 +48,4 @@ Wilcoxon signed-rank tests with Benjamini–Hochberg correction on differences b
 ## Related Claims
 - [Perception alignment improves mainly in the early weeks and does not consistently decrease through the project](ai-use-perception-alignment-improves-early-then-plateaus.md) — related
 - [Participants substantially overestimated their performance in all trace conditions, with the largest overestimation under full traces](overestimation-largest-under-full-traces.md) — related
+- [Prognostic errors are direction-dependent: survival is overestimated for patients surviving under 9 months and underestimated for those surviving longer](overestimation-under-9-months-underestimation-beyond.md) — related

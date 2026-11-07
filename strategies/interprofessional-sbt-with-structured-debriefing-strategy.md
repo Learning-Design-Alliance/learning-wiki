@@ -54,6 +54,7 @@ A session recipe for in situ simulation in clinical environments: keep the simul
 - [Six practical solutions for implementing interprofessional in situ simulation on a working ward](in-situ-simulation-implementation-solutions.md)
 - [Simulation Based Medical Training](simulation-based-medical-training.md)
 - [Debriefing](debriefing.md)
+- [Structured SP simulation session recipe: pre-briefing, 15-minute interview with checklist, and three-part debriefing](spsp-session-structure-strategy.md)
 
 ## Examples
 -

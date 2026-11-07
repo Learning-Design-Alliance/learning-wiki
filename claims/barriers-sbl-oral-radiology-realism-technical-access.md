@@ -9,6 +9,7 @@ generated:
   at: 2026-11-04
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-07
 sources:
   - id: almashraqi-abeer-a-2026
     resource: "https://doi.org/10.1002/jdd.70138"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q2 i?` Students reported that mannequins do not fully replicate human anatomy or patient behavior, encountered mechanical rigidity, unstable bite blocks, loose parts, and unrealistic positioning, and faced limited access to mannequins and simulation lab time. [→ Almashraqi Abeer A. 2026](#almashraqi-abeer-a-2026)
@@ -59,3 +60,4 @@ Theme 3 (Barriers) from thematic analysis of open-ended responses across both in
 - [Peer-to-peer simulated tasks are identified as lacking effectiveness for developing CEP practical competencies](peer-simulation-lacking-effectiveness-cep.md) — related
 - [Three themes emerged from qualitative analysis: prioritizing patient care; representing variability in anatomy and PFDs for realism; and consideration of implementation, cost, and accessibility](three-themes-patient-care-realism-cost-accessibility.md) — related
 - [Some medical students hold critical perspectives on actor simulations, perceiving them as unrealistic and artificial and overly focused on biomedical content](student-critical-perspectives-simulations.md) — related
+- [Restricted clinical simulation laboratory operating hours limit student nurses' access to self-directed simulation learning in their free time](restricted-lab-hours-limit-ssl-access.md) — related

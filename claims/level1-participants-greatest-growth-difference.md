@@ -48,3 +48,4 @@ Authors' interpretation in the Conclusions section, not a tested result: it expl
 - [Participation in the Reading Success Academy did not significantly improve reading growth on the 2012 reading FCAT compared to the control group](reading-success-academy-no-growth-difference.md) — related
 - [Participation in the Reading Success Academy did not significantly improve reading proficiency levels compared to non-participation among nonproficient ninth-grade readers](reading-success-academy-no-proficiency-gain.md) — related
 - [A smaller share of the treatment group (50%) than the control group (70%) demonstrated reading proficiency on the 2011-2012 reading FCAT after the intervention](treatment-50-versus-control-70-proficiency.md) — related
+- [The intervention group entered with a lower baseline knowledge-test success rate, which the authors interpret as the strategy benefiting lower-achieving students](video-vignette-benefit-lower-achieving-students.md) — related

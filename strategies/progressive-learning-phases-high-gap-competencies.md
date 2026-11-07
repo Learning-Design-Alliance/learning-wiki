@@ -55,6 +55,7 @@ An implementation recommendation from the Discussion: high-gap competencies "can
 - [Scaffold method choice by student progression: CBL early, transitioning to PBL and TBL](scaffold-cbl-early-transition-pbl-tbl.md)
 - [Implement progressive and layered simulation training across career stages for paediatric surgery nurses](progressive-layered-simulation-training-career-stages.md)
 - [Use predefined progression criteria and staged supervised practice to standardize training in invasive dental procedures](predefined-progression-criteria-staged-supervised-practice.md)
+- [Integrate ultrasound and radiological training early into medical degree programs, combining practical and theoretical cross-sectional imaging teaching](early-ultrasound-radiology-training-integration.md)
 
 ## Examples
 -

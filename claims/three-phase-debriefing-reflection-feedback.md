@@ -76,3 +76,4 @@ Self-reported satisfaction data from the six residents who took part in high-fid
 - [The authors argue SL simulation via video conference is a flexible debriefer-training model adaptable across expertise levels and professions, enabling deliberate hands-on practice regardless of distance or time](sl-simulation-flexible-distance-independent-training.md) — related
 - [Familiar instructors who knew participants' clinical context were perceived to improve learning outcomes compared with unknown instructors](familiar-instructors-improve-relevance-learning.md) — related
 - [All responding students agreed that reflecting on and discussing the simulation in the debrief enhanced their learning](debrief-enhanced-learning-unanimous.md) — possibly the same claim (merge candidate)
+- [Structured debriefing after simulation sessions enhances learning outcomes and improves clinical performance](structured-debriefing-enhances-sbt-outcomes.md) — a broader claim this one bears on

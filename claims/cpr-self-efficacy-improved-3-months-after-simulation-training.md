@@ -53,3 +53,4 @@ Prospective pilot case-control study measuring CPR-SES (range 20–160) before a
 - [At 3 months, trait anxiety was lower in trained participants than controls but without reaching statistical significance](trait-anxiety-controls-vs-participants-3-months-not-significant.md) — related
 - [No significant difference in trait anxiety immediately after simulation-based training](no-immediate-trait-anxiety-change-after-simulation-training.md) — related
 - [Adding a SimZone 0 interactive-video preparatory phase before instructor-led CPR training is associated with significantly higher competence retention at 6 months among nursing students](zone0-iv-cpr-competence-retention-6-months.md) — related
+- [Before training, the two groups showed no significant differences in CPR knowledge, skill scores, or technique performance](no-pre-training-differences-between-groups.md) — related

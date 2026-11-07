@@ -54,3 +54,4 @@ Cross-sectional survey of 192 students (132 women, 60 men) disaggregated by gend
 - [Female students report significantly higher trait anxiety than male students](female-students-higher-trait-anxiety.md) — related
 - [Female participants significantly outperformed male participants in total scores, specimen preparation, and microscopic examination](sex-differences-competency-hainan.md) — related
 - [Women report greater stress and lower confidence than men in managing endodontic emergencies](women-more-stressed-less-confident-endodontic-emergencies.md) — related
+- [Men rate their emergency surgical self-competence significantly higher than women across indication, laparoscopic and open surgery items](gender-differences-emergency-surgery-self-assessed-competence.md) — related

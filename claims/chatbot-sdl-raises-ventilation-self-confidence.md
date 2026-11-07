@@ -52,3 +52,4 @@ In the same randomized controlled trial (31 experimental, 29 control fourth-year
 - [Personalised video-assisted feedback raises confidence in learning but not satisfaction with current learning](personalised-video-feedback-confidence-not-satisfaction-subdimension.md) — related
 - [Simulation alone significantly improves satisfaction and self-confidence within both groups regardless of feedback condition](simulation-alone-improves-satisfaction-both-groups.md) — related
 - [Simulation-assisted application increases nursing students' satisfaction and self-confidence in learning compared with clinical practice alone](simulation-raises-nursing-satisfaction-self-confidence.md) — a broader claim this one bears on
+- [Simulation training raises primary care physicians' post-testing self-confidence in subacromial injection more than lecture and video alone](simulation-training-raises-injection-self-confidence.md) — related

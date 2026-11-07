@@ -52,3 +52,5 @@ Non-randomized controlled trial (Table 3) with 18 credentialed gynaecological su
 - [VR-training group outperforms controls on dVSS simulator objective scores for most tasks](dvss-objective-scores-training-group-outperforms.md) — related
 - [In one uncontrolled pre-post study, the volume of simulated blood lost while controlling haemorrhage fell from pre-test to post-test after training with the task simulator and rose at three months but remained below baseline](task-simulator-reduces-blood-volume-lost.md) — related
 - [The simulation-first advantage on OSATS was not robust in sensitivity and multivariate analyses adjusting for baseline robotic experience](simulation-first-advantage-not-robust-sensitivity.md) — related
+- [Simulation-trained and usual-training residents show similar intraoperative parameters (OR time, estimated blood loss, complications)](simulation-intraoperative-parameters-similar.md) — reports the opposite
+- [The review reports VR simulation steepens the learning curve, but studies disagree on whether experienced surgeons or novices improve faster](vr-learning-curve-experience-level-disagreement.md) — related

@@ -53,3 +53,5 @@ Repeated Mini-CEX assessment of the 21 experimental-group residents at admission
 - [AI-Mentor pilot improves overall clinical competence on Mini-CEX from pretest to posttest](ai-mentor-pilot-improves-overall-mini-cex.md) — related
 - [Integrated online-PBL-CBL teaching improves overall Mini-CEX clinical competence but not its individual sub-dimensions](online-pbl-cbl-minicex-overall-competence-gain.md) — related
 - [Admission competencies map onto graduation competencies, distinguishing traits expected at entry from those deepened during education](admission-graduation-competency-progression-mapping.md) — related
+- [DOPS scores of community general-practice residents rose significantly from admission to 2 and 4 weeks of training in one uncontrolled pre-post study](dops-scores-improve-community-resident-training.md) — related
+- [Mini-CEX scores of community general-practice residents rose significantly from admission to 2 and 4 weeks of formative-assessment training in one uncontrolled pre-post study](mini-cex-scores-improve-community-resident-training.md) — related

@@ -54,3 +54,4 @@ Bootstrap test of the serial mediation pathway in the SEM of 1460 learners; the 
 - [A serial chain through psychological state then behavioral engagement mediates exam success (10.8% of total effect)](serial-chain-psychological-state-behavioral-engagement.md) — related
 - [A sequential mediation pathway runs from perceived peer support through emotion regulation and behavioral engagement to academic achievement](sequential-mediation-er-be-pathway.md) — related
 - [Academic self-efficacy and academic emotions sequentially chain-mediate the effect of teacher support on academic achievement](chain-mediation-efficacy-emotions-teacher-support-achievement.md) — related
+- [Learning motivation and learning engagement chain-mediate the peer relationship–achievement link, with the motivation pathway strongest](chain-mediation-motivation-engagement-strongest-pathway.md) — related

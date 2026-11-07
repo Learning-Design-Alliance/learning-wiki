@@ -52,3 +52,4 @@ Paired t-tests and Wilcoxon signed-rank sensitivity analyses on needle-pass coun
 - [Patient-reported procedural pain is numerically lower when local anesthesia is used, but the difference is not statistically significant](anesthesia-patient-pain-nonsignificant-trend.md) — related
 - [Simulation-trained students performed lumbar punctures faster than bedside-trained students, though the difference was not statistically significant](ar-simulation-shorter-procedure-duration.md) — related
 - [Procedure times for ultrasound-guided CVC placement steps were shorter with AR-US than S-US but did not reach statistical significance](ar-us-procedure-times-shorter-nonsignificant.md) — related
+- [The duration of successful lumbar punctures does not differ significantly between the bioimpedance and conventional needles](no-significant-duration-difference-bioimpedance-needle.md) — related

@@ -48,3 +48,4 @@ Post-clerkship satisfaction questionnaire (7 domains, 5-point Likert) from 75 va
 - [WBLP students report significantly better teacher–student interaction, patient–doctor communication, and humanistic care perceptions](wblp-better-interaction-communication-humanistic-care-ratings.md) — related
 - [Self-reported confidence with module skills did not differ significantly within the PGY1 cohort over the year or between end-of-year PGY1 and control residents](self-confidence-no-significant-difference-modules.md) — related
 - [WBLP students achieve higher total OSCE clinical competence scores than standard-clerkship controls](wblp-higher-total-osce-scores.md) — related
+- [Training interest is higher with the 12-hole clock model, while confidence rises and satisfaction, acceptance, and difficulty ratings are comparable between models](clock-model-higher-interest-comparable-satisfaction.md) — related

@@ -52,3 +52,4 @@ Subgroup analyses of retrospective learning gains per CRM factor among 238 parti
 - [SBS-trained students show higher non-technical skills (ANTS) overall, driven by teamwork and situation awareness but not task management or decision-making](sbs-higher-ants-teamwork-situation-awareness.md) — related
 - [Retrospective self-assessed CRM-related competencies improve significantly after in-situ ATLS®-based trauma team training, with a small mean gain relative to the scale range](in-situ-trauma-simulation-crm-self-assessed-gains.md) — related
 - [Video-supported self-directed learning was feasible across professions, education levels, and experience levels in anaesthesia](self-directed-video-feasible-interprofessional.md) — related
+- [A simulation-based CRM workshop significantly improves situational awareness, decision-making, and role responsibility ratings on the Clinical Teamwork Scale](simulation-crm-workshop-improves-cts-awareness-decision-role.md) — related

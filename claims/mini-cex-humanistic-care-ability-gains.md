@@ -53,3 +53,4 @@ In the quasi-experimental study, humanistic care competence was measured with th
 - [In the same RCT, the experimental group reported higher scores than the control group across all five dimensions of teaching satisfaction (all P < 0.05)](pbl-virtual-simulation-satisfaction-all-dimensions-trauma-orthopedics.md) — related
 - [In the same RCT, the experimental group scored higher than the control group on all seven dimensions of critical thinking ability (all P < 0.05)](pbl-virtual-simulation-critical-thinking-all-dimensions-trauma-orthopedics.md) — related
 - [The 7E instructional model improved empathy ability in nursing probation students across viewpoint acquisition, emotional care and transposition thinking](7e-model-empathy-nursing-students.md) — related
+- [Patience is the highest-scoring and courage the lowest-scoring dimension of residents' humanistic care competence](patience-highest-courage-lowest-dimension.md) — related

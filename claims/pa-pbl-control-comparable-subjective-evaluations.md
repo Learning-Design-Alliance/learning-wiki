@@ -56,3 +56,4 @@ End-of-course questionnaire completed by 472 of 523 students (90.2% valid respon
 - [PBL interns report higher self-efficacy, instructional satisfaction, and perceived critical-thinking improvement than lecture-taught interns](pbl-self-evaluated-learning-gains-esophageal.md) — reports the opposite
 - [Course satisfaction does not differ significantly between the CBL+MOC and traditional CBL teaching models](cbl-moc-satisfaction-unaffected.md) — related
 - [Student perceived-gain responses did not differ significantly between the community-engaged course and the simulated incubator capstone course](no-significant-difference-between-two-el-courses.md) — related
+- [Students in both SP-TCM groups reported higher satisfaction, confidence, motivation, and perceived skill gains than TT students](sp-tcm-student-feedback-advantage.md) — related

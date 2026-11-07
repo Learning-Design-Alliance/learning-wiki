@@ -50,3 +50,4 @@ Meta-analysis of six cohorts from three studies (Total No = 1,191) pooling stand
 - [VSAQ assessments demonstrate strong discriminatory power between high- and low-performing students](vsaq-strong-discrimination-pooled-fishers-z-1-45.md) — related
 - [Final test question format has a significant main effect: students score lower on VSAQ-formatted final test questions than MCQ-formatted ones](final-test-format-main-effect-vsaq-lower.md) — reports the opposite
 - [Practice question format (VSAQ vs MCQ) shows no significant main effect on final retention test performance in a real-life health science course](no-practice-format-effect-on-retention-vsaq-mcq.md) — related
+- [In ISF-VSAQ path analysis, the second-attempt self-reflected understanding level directly affects final MCQ score (β = 0.25, p = 0.033), while passing the VSAQ does not](understanding-level-predicts-mcq-not-vsaq-score.md) — related

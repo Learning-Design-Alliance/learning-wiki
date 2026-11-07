@@ -47,3 +47,4 @@ Comparison of trainee self-assessed and supervisor-assessed level of supervision
 ## Related Claims
 - [Frequent app-based workplace-based assessments of EPAs were feasible at scale in Swiss anesthesia residency programs, with 3936 assessments recorded by 306 supervisors for 295 trainees over five months](app-based-epa-wba-feasible-at-scale-swiss-anesthesia.md) — related
 - [Large and small anesthesia residency programs showed no statistically significant differences in numbers of assessments, feedback incidence, supervisor-trainee agreement, or entrustability ratings when using an app for EPA assessment](no-size-differences-app-based-epa-assessment-usage.md) — related
+- [Trainee-supervisor rating agreement improves as supervisor ratings rise, with lower-rated trainees more likely to over-rate themselves](rating-agreement-improves-with-higher-supervisor-rating.md) — related

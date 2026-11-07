@@ -47,3 +47,4 @@ Qualitative finding from co-development workshops with teachers (n = 10) and you
 ## Related Claims
 - [Flexible thinking and problem-solving activities were perceived as feasible and beneficial through co-regulation, playfulness, characterisation and low-stakes whole-class design](flexible-thinking-low-stakes-design.md) — related
 - [Teachers perceived the embedded activities to have positive impacts on pupils' mental health, engagement, learning and enjoyment in class](teacher-perceived-positive-impact.md) — related
+- [Instructors perceive sandwich feedback-based apprenticeship training as feasible and beneficial to student self-evaluation and feedback-seeking](instructor-perceptions-fbl-feasibility.md) — a narrower finding that bears on this claim

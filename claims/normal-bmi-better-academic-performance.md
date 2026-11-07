@@ -51,3 +51,4 @@ Cross-sectional study of 350 students; adjusted logistic regression on GPA. The 
 - [In the adjusted model, height-for-age (HAZ) nutritional status did not statistically predict academic performance among urban primary school children in northern Ethiopia](haz-nutritional-status-not-predicting-academic-performance-ethiopia.md) — related
 - [Lower BMI, higher healthy diet score, and better sleep quality are associated with high language performance in girls but not boys](bmi-diet-sleep-quality-girls-language-performance.md) — reports the opposite
 - [Female gender, normal waist circumference and good mindfulness predict normal BMI](predictors-normal-bmi-students.md) — related
+- [Age, BMI, and median working time showed no significant association with qualification rates](age-bmi-working-time-null-qualification.md) — reports the opposite

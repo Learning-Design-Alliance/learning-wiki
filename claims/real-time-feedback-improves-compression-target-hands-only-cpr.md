@@ -9,6 +9,7 @@ generated:
   at: 2026-11-03
 evidence_strength: moderate
 newest_evidence: 2026
+source_checked: 2026-11-07
 sources:
   - id: piñeros-alvarez-jl-2026
     resource: "https://doi.org/10.5811/westjem.50647"
@@ -24,7 +25,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
-> **Currency** · newest study 2026 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2026 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 ## Subclaims
 `q3 i?` In the hands-only CPR test, the intervention group achieved a higher compression target (72% vs 3.4%) than the control group. [→ Piñeros-Alvarez JL 2026](#pineros-alvarez-jl-2026)
@@ -50,3 +51,4 @@ Randomized single-blind study of 98 fourth-year medical students; intervention t
 - [Real-time feedback systems generally improve CPR quality in simulation-based training, particularly compression rate and depth](real-time-feedback-improves-cpr-quality-simulation.md) — a broader claim this one bears on
 - [Feedback-based CPR training is associated with more accurate chest compression performance than standard instruction](feedback-based-cpr-training-improves-compression-performance.md) — a broader claim this one bears on
 - [Among fifth- and sixth-year medical students, overall CPR performance, compression depth, and compression rate were higher after practice with a feedback-equipped CPR simulator than at baseline practice without feedback, with change measured within one group from pre-test to post-test](feedback-cpr-simulator-improves-performance-baseline.md) — related
+- [Video feedback produces higher post-intervention performance than infographics on specific CPR techniques, including compression depth, compression rate, airway opening, and hand positioning](video-feedback-better-specific-cpr-techniques.md) — related

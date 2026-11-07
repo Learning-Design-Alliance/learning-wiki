@@ -46,6 +46,7 @@ The article recommends a multicomponent capacity-building strategy for PHC worke
 - [Establish institutional supports — standardized MDT protocols, guidelines access, and regular wound care training — to translate knowledge into practice](institutional-mdt-protocols-and-training-strategy.md)
 - [Cascading training model from tertiary specialists to primary care physicians and community health workers for MASLD screening](cascading-masld-training-model.md)
 - [Expand sarcopenia coverage in medical curricula, add primary-care guidelines, and provide equipment support for screening and diagnosis](sarcopenia-curriculum-guideline-equipment-strategy.md)
+- [Provide competency-based in-service training through the CPD system for OBE-trained nurses and supervisors](cpd-in-service-cbe-training-for-obe-staff.md)
 
 ## Examples
 -

@@ -56,3 +56,5 @@ T-tests comparing male and female mean ratings (Tables 4-7) find "female student
 - [Female students scored significantly higher than males on higher-order thinking skills (p = 0.015).](females-higher-hot-scores.md) — related
 - [Male students reported higher confidence than female students despite no performance difference](male-students-report-higher-confidence-no-performance-difference.md) — related
 - [Male students' self-assessment of communication is statistically higher than female students' self-assessment](male-students-higher-self-assessment.md) — reports the opposite
+- [Female students awarded tutors a significantly higher mean performance ranking than male students](female-students-higher-tutor-performance-ranking.md) — related
+- [Female students rated tutors' learning approaches more favorably than male students on four of five categories](female-students-rate-tutor-approaches-higher.md) — related

@@ -49,3 +49,4 @@ Online questionnaire survey of 53 clinical dermatologists with teaching experien
 - [Most surveyed dermatology students reported positive perceptions of the DCBL model, with 82.62% satisfied or highly satisfied and over 89% expecting improvements across learning dimensions](dcbl-student-perceptions-positive.md) — related
 - [Teachers rated the DCBL model as more promising than LBL and PBL for student interest, understanding depth, and diagnostic-treatment level](dcbl-teacher-comparison-lbl-pbl.md) — related
 - [Teachers identified limited clinical time, passive learning, and static case exposure as key problems of the LBL model, and time demands and weak guidance as problems of PBL](teacher-identified-lbl-pbl-problems-dermatology.md) — related
+- [Teachers rated the TCLEBL class significantly higher than the LBL class on all five feedback items](tclebl-teacher-satisfaction-higher-than-lbl.md) — related

@@ -50,3 +50,4 @@ Voluntary post-session survey of the pooled 2023 and 2024 human SP simulations, 
 - [Students rate the simulation program highly acceptable and useful, with the simulation component rated most useful.](simulation-high-acceptability-ratings.md) — related
 - [Interns highly accepted the formative OSCE, with 97% agreeing it was valuable and 94% agreeing it should continue](osce-high-acceptance-interns-valuable-continue.md) — related
 - [Learners rated the combined simulation experience positively and supported future sessions despite non-significant knowledge gains](combined-simulation-positive-learner-perceptions.md) — related
+- [Medical students rated the SP verbal de-escalation workshop highly, with 82% agreeing it met the learning objectives and 86% assigning it a letter grade A](sp-deescalation-workshop-high-student-ratings.md) — related

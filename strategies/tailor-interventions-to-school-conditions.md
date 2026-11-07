@@ -50,6 +50,7 @@ Because the study found treatment-effect heterogeneity by implementation year an
 
 - [Shift toward resilience-sensitive differentiated support rather than blanket universal support](resilience-sensitive-differentiated-support.md)
 - [Tailor professional development to demographic subgroups of teachers (gender, education level, school level)](demographic-tailored-pd-programs.md)
+- [Tailor attendance interventions to pupils' specific absence trajectory patterns rather than uniform attendance-threshold policies](trajectory-tailored-attendance-interventions.md)
 
 ## Examples
 -

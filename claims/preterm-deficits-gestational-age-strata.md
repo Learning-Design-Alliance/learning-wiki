@@ -73,3 +73,5 @@ Subgroup meta-analyses by gestational age. Very preterm children showed signific
 - [Each decreasing week of gestation is associated with a higher proportion of very preterm children not achieving expected educational levels, persisting after adjustment](gestational-age-dose-response-attainment.md) — related
 - [More than half of very preterm children do not meet expected school readiness or attainment levels at ages 5 to 7 years](half-very-preterm-below-expected-attainment.md) — related
 - [Birth weights of 2.5–3.9 kg and ≥ 4.0 kg were associated with reduced odds of good academic performance compared with < 2.5 kg](birth-weight-reduced-odds-good-performance.md) — related
+- [Children born at 35-36 6/7 weeks gestation show no significant difference in academic test scores from term children in reading, mathematics, or science](late-preterm-no-score-difference.md) — related
+- [Children born at 32-34 6/7 weeks gestation have significantly lower test scores than term children in reading, mathematics, and science at multiple grades kindergarten through fifth grade](moderately-preterm-lower-academic-scores-multiple-grades.md) — related

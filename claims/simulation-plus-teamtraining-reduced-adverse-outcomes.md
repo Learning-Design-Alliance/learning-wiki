@@ -52,3 +52,5 @@ The review reports the only identified study measuring transfer from a simulatio
 - [No statistically significant differences in adverse maternal or neonatal outcomes between pre- and post-intervention periods](no-significant-change-adverse-outcomes-twin-birth-training.md) — related
 - [No adverse events or patient-related procedural complications occurred in either training group during live TEE training and assessment](no-adverse-events-during-live-tee-training-assessment.md) — related
 - [The training program did not change vacuum extraction rates, cesarean section rates, or Weighted Adverse Outcome Scores](no-change-secondary-obstetric-outcomes.md) — related
+- [Global adverse event rates did not change significantly across the project periods, and the study could not establish an effect of training on obstetric complication rates](adverse-event-rates-no-significant-change.md) — reports the opposite
+- [Nursing-related adverse events decreased significantly after implementation of the combined training system](informatization-training-reduced-adverse-nursing-events.md) — related

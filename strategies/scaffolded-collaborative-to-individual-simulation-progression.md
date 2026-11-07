@@ -58,6 +58,8 @@ The article recommends that collaborative simulation "should not be restricted t
 - [In resource-limited settings, begin simulation training with standardized patients and part-task simulators, progressing to high-fidelity simulation centers as funding becomes available](staged-sbme-implementation-low-resource.md)
 - [Include simulation-based experiences with standardized patients focused on basic care from the early stages of nursing education](early-basic-care-sbe-with-standardized-patients.md)
 - [Collaborative workshop as a methodology for scaffolding simulation learning design](collaborative-workshop-scaffolding-learning-design.md)
+- [Introduce targeted communication skills training early in clinical training rather than waiting until the internship phase](introduce-communication-training-at-entry-level-clinical.md)
+- [Use simulated patients in the early study period and integrate real patients gradually as communication skills develop](sp-early-rp-gradual-integration-strategy.md)
 
 ## Examples
 -

@@ -52,3 +52,4 @@ The review reports, citing prior work, that a redundancy effect can occur when u
 - [Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text](voice-media-outperform-picture-text-overall.md) — related
 - [Synced auditory and visual information in narrated presentations produces better learning than single-channel or out-of-sync presentation](synced-audio-visual-presentation-better-learning.md) — related
 - [Observing gestures embedded in instruction aids learning, especially when gestures convey a different strategy than speech](observing-gestures-in-instruction-aids-learning.md) — related
+- [Poorly matched vibration feedback modalities may deteriorate laparoscopic performance rather than improve it](mismatched-vibration-feedback-may-deteriorate-performance.md) — a narrower finding that bears on this claim

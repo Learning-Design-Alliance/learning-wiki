@@ -46,6 +46,7 @@ Tip 9's banking component instructs that questions generated through the precedi
 - [Subject AI-generated items to trained human expert review, including a technical review and difficulty refinement](human-expert-review-of-ai-mcqs.md)
 - [Grow the MCD item bank during operation using online calibration embedded alongside scored items](online-calibration-item-bank-growth.md)
 - [Use detailed, structured prompts specifying question type, case details, distractors, explanation, source, and difficulty level](structured-nine-component-mcq-prompt.md)
+- [Develop SJT test content in the culture and language where the test is administered and confirm psychometric properties within an actual selection procedure](develop-sjt-content-in-administration-culture-strategy.md)
 
 ## Examples
 -

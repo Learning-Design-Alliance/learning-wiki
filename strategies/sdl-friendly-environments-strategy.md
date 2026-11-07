@@ -56,6 +56,7 @@ Based on the review's findings, the authors recommend that "institutions should 
 - [Multi-level strategy for strengthening EBM implementation: individual workshops and protected time, institutional access and culture, and system-level public awareness](multi-level-ebm-implementation-strategy.md)
 - [Implement organizational educational interventions — mentorship, structured feedback, and continuing professional development — to raise nurses' clinical competence](educational-interventions-mentorship-feedback-nurse-competence.md)
 - [Implement faculty development programs, continuous formative assessment, and curriculum reform to support student-centred learning](faculty-development-continuous-assessment-strategy.md)
+- [Restructure clinical environments to combine outcomes-oriented formal CPD with informal, social workplace learning](combine-formal-cpd-informal-social-workplace-learning.md)
 
 ## Examples
 -

@@ -53,3 +53,4 @@ ASE outcome model of the same 660-participant survey; the article reports EI "di
 - [Emotional intelligence significantly moderates the relationship between psychological well-being and CGPA, with the association strongest at high EI](ei-moderates-pwb-cgpa-link.md) — related
 - [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](trait-ei-no-direct-association-university-gpa.md) — related
 - [Psychological well-being significantly and positively predicts academic self-efficacy among pre-service teachers](pwb-predicts-ase-preservice-teachers.md) — related
+- [Emotional intelligence is directly and positively related to academic achievement and psychological well-being in university students](ei-direct-achievement-wellbeing.md) — related

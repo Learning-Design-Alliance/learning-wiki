@@ -13,7 +13,7 @@ generated:
 # Collaboration
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 169 claims (133 show a difference, 25 mixed, 11 no difference) · 144 studies (55 causal, 29 review, 23 qualitative, 11 quant-synthesis, 10 associational, 10 design, 6 theoretical), `q1`–`q3` · 11 of 144 report an effect size · 169 claims rest on one study
+> **Evidence** · 170 claims (134 show a difference, 25 mixed, 11 no difference) · 145 studies (56 causal, 29 review, 23 qualitative, 11 quant-synthesis, 10 associational, 10 design, 6 theoretical), `q1`–`q3` · 11 of 145 report an effect size · 170 claims rest on one study
 
 ## Description
 Collaboration is the ability to work with a diverse group toward a common goal: putting forward one's own ideas, listening to others' thoughts and needs, being flexible and compromising, and sharing responsibility for the result. It is measured in several ways, including observation, self-report, rating scales, standardised measures and performance tasks.
@@ -211,6 +211,7 @@ It overlaps with [social awareness and relationship skills](social-awareness-and
 - [Teamwork perceptions were already high before the intervention and rose significantly after it, though perceived attentiveness of teammates remained below the agree threshold](../claims/teamwork-perceptions-high-and-improved.md) [~M] — measured as an outcome of the instruction studied
 - [The 7E instructional model raised self-regulated learning ability in nursing probation students, with gains in motivation, cooperation and information literacy but no significant difference in independent learning ability](../claims/7e-model-self-regulated-learning-nursing.md) [+M] — measured as an outcome of the instruction studied
 - [The combined number of all five targeted teamwork events rose from before to after in situ simulation training in one uncontrolled pre-post study, without reaching statistical significance](../claims/total-teamwork-events-nonsignificant-increase.md) [-M] — measured as an outcome of the instruction studied
+- [Overall teamwork and team communication ratings on the Clinical Teamwork Scale rose from pre-test to post-test in pediatric interprofessional teams after a simulation-based CRM workshop, in one uncontrolled pre-post study](../claims/simulation-crm-workshop-improves-cts-teamwork-communication.md) [+M] — measured as an outcome of the instruction studied
 
 ## Measures
 - **Measuring Student Collaboration** (Evans et al., 2020): a guide to collaboration measures of several types: observation, self-report, rating scales, standardised measures and performance assessments.

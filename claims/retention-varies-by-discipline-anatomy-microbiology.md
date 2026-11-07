@@ -51,3 +51,5 @@ Review synthesis of cross-sectional knowledge-test studies among interns: bioche
 - [Rehearsal significantly optimises retention of basic science knowledge among medical practitioners](rehearsal-optimises-basic-science-retention-practitioners.md) — related
 - [Basic science knowledge scores decline with increasing years post-graduation](basic-science-scores-decline-years-post-graduation.md) — related
 - [Generative retrieval improves anatomy knowledge retention in anaesthesiology residents at one week and one month](generative-retrieval-improves-anatomy-retention-residents.md) — related
+- [GP registrars' basic science retention varied by discipline, with the highest mean score in biochemistry and the lowest in anatomy](bsre-discipline-score-variation-gp-registrars.md) — reports the opposite
+- [Perceived clinical relevance of a basic science discipline did not equate to knowledge retention, and AMGs outperformed IMGs in most disciplines](relevance-does-not-equate-retention-triangulation.md) — reports the opposite

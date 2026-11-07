@@ -49,3 +49,4 @@ Bayesian ordinal regression (cumulative logit) of overall video quality ratings 
 - [Adherence of the most-viewed robotic ventral rectopexy videos to LAP-VEGaS and consensus reporting guidelines is low](low-guideline-adherence-surgical-videos.md) — related
 - [Inter-rater reliability of overall video quality ratings increases with rater seniority, reaching perfect agreement among senior surgeons](video-quality-rater-reliability-seniority.md) — related
 - [Agreement on GEARS surgical-performance domains is poor for force control, tissue handling, autonomy, and robot control, and marginal for depth perception, bimanual skill, and efficiency](gears-domain-agreement-poor.md) — related
+- [No significant performance differences are found across seniority groups (junior doctors, senior trainees, consultants) on any assessment domain](construct-validity-null-across-seniority-groups.md) — related

@@ -72,3 +72,4 @@ The review reports a video-only assessment study: "surgical tool tracking from r
 - [Current data indicate AI-based automated assessment tools in robotic surgery are not well validated and remain at a conceptual stage](ai-robotic-surgery-assessment-not-well-validated.md) — reports the opposite
 - [The predictive certainty of the trained networks was high (99% for action recognition, 95% for skill assessment) despite differing accuracies](predictive-certainty-ar-99-sa-95.md) — related
 - [The skill assessment network distinguishing novice from expert surgeons reached only 56% test accuracy, failing to achieve useful performance](skill-assessment-network-56-percent-accuracy-failed.md) — reports the opposite
+- [Kinematic indices computed from the developed system correlate strongly with those from the six-camera system, indicating comparable skill-evaluation capability](kinematic-indices-high-spearman-correlation.md) — related

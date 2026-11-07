@@ -55,3 +55,4 @@ The review attributes long-term findings to two studies: retained knowledge and 
 - [Empathy and communication interventions show short-term gains but evidence on persistence over time is inconsistent](soft-skills-intervention-gains-not-sustained.md) — related
 - [The literature poorly addresses whether simulation-learned obstetric ultrasound skills transfer to clinical practice and are sustained over time](simulation-skill-transfer-to-clinic-poorly-addressed.md) — reports the opposite
 - [A reciprocity cycle in which past attendees become student-teachers sustains the peer teaching community over time](giving-back-cycle-sustains-peer-teaching-community.md) — related
+- [Whether RCDP skill gains transfer to real clinical care and are retained over time remains untested](rcdp-transfer-and-retention-untested.md) — related

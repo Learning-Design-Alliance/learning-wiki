@@ -47,3 +47,4 @@ Multiple regression analysis (Table 5) controlling for demographics and academic
 ## Related Claims
 - [Positive perceptions of pharmacology correlate with, and predict, higher academic achievement](pharmacology-perception-predicts-achievement.md) — possibly the same claim (merge candidate)
 - [In multiple regression, academic year significantly predicted only the materials/organisation dimension, age only lecturer performance, and gender no dimension](regression-year-d1-age-d2-gender-null.md) — related
+- [Formative clinical examination score and male gender predicted BSRE performance in multivariable regression](formative-exam-and-gender-predict-bsre.md) — related

@@ -69,3 +69,4 @@ For cognitively unchallenging tasks, the review reports the group advantage disa
 - [Collaborative learning distributes cognitive load across multiple working memories, aiding learning of high-load tasks](collaborative-learning-collective-working-memory-advantage.md) — related
 - [Collaborative tasks should be complex enough that joint effort is worthwhile, engaging the collective working memory effect](collective-working-memory-effect-task-complexity.md) — a narrower finding that bears on this claim
 - [Collaborative learning is beneficial or detrimental depending on individual and situational factors](collaborative-learning-conditionally-beneficial.md) — a broader claim this one bears on
+- [Embedding illness script worksheets and collaborative learning in flipped learning allowed one facilitator to oversee multiple student groups efficiently](flipped-format-enables-one-facilitator-multiple-groups.md) — a narrower finding that bears on this claim

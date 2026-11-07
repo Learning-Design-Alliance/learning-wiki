@@ -55,3 +55,5 @@ Expert evaluation by ten laparoscopic surgeons using a 15-item questionnaire wit
 - [Expert panel rates the FROST simulator realistic and recommends it for training, except for the skin undermining step](expert-panel-face-content-validity-frost-simulator.md) — related
 - [First-year residents strongly agreed the silicone appendectomy model is adequate, replicates anatomy, and shows face and content validity](silicone-appendectomy-model-face-content-validity.md) — related
 - [Domain correlations suggest coherent construct validity, with realism–skill-replication r = 0.85 and effectiveness–engagement r = 0.79](vr-simulator-domain-correlations-construct-validity.md) — related
+- [Surgeons gave the model their highest ratings for training usefulness, including resident preparation before the operating room](hernia-model-highest-ratings-training-usefulness.md) — related
+- [Surgeons rated the 3D hernia model as easy to use, realistic, and anatomically representative](surgeons-rate-hernia-3d-model-realistic-easy-to-use.md) — related

@@ -68,3 +68,4 @@ Qualitative arm: written responses to open questions after training were coded a
 - [Participants rate in-situ bronchoscopy simulation training positively on relevance, safety, realism, and perceived team competence gains](positive-reaction-to-in-situ-bronchoscopy-simulation.md) — related
 - [Realism/immersiveness was the most commented focus-group theme for the VR version, with most comments affirming it was realistic](realism-immersiveness-top-vr-theme.md) — related
 - [Resident doctors in child and adolescent psychiatry experienced VR-SIMI as an appropriate method for training non-technical skills during residency](vr-simi-experienced-appropriate-nons-technical-skill-training-residents.md) — related
+- [Students valued the workshop's realism, real-time SP feedback, and paired-observer support in narrative feedback](students-valued-realism-and-feedback.md) — related

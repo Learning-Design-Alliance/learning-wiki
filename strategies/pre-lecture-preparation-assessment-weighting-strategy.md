@@ -44,6 +44,7 @@ Because roughly half of the students approached the flipped course by prioritisi
 ## Related Strategies
 
 - [Explain flipped classroom principles and the integration of online and in-person activities at the start of the course to foster favourable perceptions](explaining-flipped-classroom-design-and-integration.md)
+- [Implementation strategies for flipped clinical reasoning courses: manage pre-learning load, simplify quizzes, orient thoroughly, and use reflective journals for assessment](flipped-reasoning-implementation-strategies.md)
 
 ## Examples
 -

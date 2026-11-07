@@ -50,3 +50,5 @@ Self-report outcomes from the post-course questionnaire (n = 32 respondents). "P
 - [Residents perceived marked improvements in basic laparoscopic skills, VR-based surgical skills, animal-based procedural ability, and clinical environment adaptability after the program](perceived-competency-gains-laparoscopic-program.md) — related
 - [Surgical residents rate laparoscopic procedures on Fix4Life cadavers as Good or Very Good for face validity](residents-rate-fix4life-good-face-validity.md) — related
 - [More than 90% of participants perceived the RFM as helpful, confidence-boosting and valuable for future training](participants-perceive-rfm-helpful-for-training.md) — related
+- [About 90% of surveyed surgeons consider emergency surgery an indispensable basic skill, yet fewer than 30% report sufficient learning opportunities in everyday clinical practice](emergency-surgery-core-competence-but-few-learning-opportunities.md) — related
+- [Men rate their emergency surgical self-competence significantly higher than women across indication, laparoscopic and open surgery items](gender-differences-emergency-surgery-self-assessed-competence.md) — related

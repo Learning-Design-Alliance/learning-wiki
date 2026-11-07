@@ -51,3 +51,4 @@ Descriptive statistics from the same survey of middle school students. Students 
 - [Some students struggled to use Ecree's and MI Write's automated feedback](some-students-struggled-automated-feedback-use.md) — related
 - [K-12 students across five schools valued CyberScholar's detailed, specific, rubric-aligned feedback as helpful for identifying areas to revise](students-value-detailed-rubric-aligned-genai-feedback.md) — related
 - [Students tended to make more edits than substantive revisions when responding to MI Write's automated feedback](more-edits-than-revisions-mi-write.md) — related
+- [Residents found the curriculum's grading rubrics helpful and reported knowing how to improve after graded feedback](rubric-feedback-helped-residents-know-how-to-improve.md) — related

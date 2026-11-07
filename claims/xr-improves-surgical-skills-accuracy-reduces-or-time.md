@@ -55,3 +55,4 @@ Umbrella review of 44 systematic reviews and meta-analyses, synthesized descript
 - The umbrella review included 44 systematic reviews, most covering XR training in orthopedics, neurology, and laparoscopy — related
 - [XR-based training is associated with improved user performance in cranial neurosurgical simulation compared to non-XR conditions](xr-training-improves-neurosurgical-user-performance.md) — a narrower finding that bears on this claim
 - [No evidence currently supports transfer of simulator-based VRS training to the operating room](no-evidence-vrs-simulator-transfer-operating-room.md) — related
+- [VR training improves surgical performance and reduces the learning curve for complex procedures](vr-training-improves-surgical-performance.md) — a narrower finding that bears on this claim

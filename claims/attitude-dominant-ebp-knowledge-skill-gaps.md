@@ -50,3 +50,4 @@ Descriptive statistics from the survey of 387 nurses (Table 2). Means printed: E
 - [Education, EBP competence, and research experience positively predict nurses' clinical decision-making](education-ebp-research-predict-cdm.md) — related
 - [Nurses in southwestern China show moderately high frailty-management KAP, with attitude scoring highest and practice lowest relative to its maximum](nurses-frailty-kap-attitude-high-practice-low.md) — related
 - [Working as a clinical nurse and working in inpatient units negatively predict EBP competence and clinical decision-making](clinical-inpatient-roles-negative-predictors.md) — related
+- [Knowledge score correlated strongly and positively with skills total score](knowledge-skills-positive-correlation-burn-assessment.md) — related

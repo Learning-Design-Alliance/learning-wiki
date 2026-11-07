@@ -47,3 +47,4 @@ Station-level group comparisons reported in Table 4, with significance values ra
 
 ## Related Claims
 - [The eight-station simulation-based assessment produced a significant difference in mean station score between junior (ST2–ST4) and senior (ST5–ST8) trainees](sim-assessment-junior-senior-score-difference.md) — a broader claim this one bears on
+- [Almost 40% of participating assistant doctors reported having never performed an emergency laparotomy](assistant-doctors-never-performed-emergency-laparotomy.md) — related

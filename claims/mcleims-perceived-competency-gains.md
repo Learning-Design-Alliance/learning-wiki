@@ -58,3 +58,4 @@ Multiple-response competency item completed by the 107 questionnaire respondents
 - [Clinical instructors perceive SBE as developing multidisciplinary teamwork and communication skills currently missing in Malawian nursing and midwifery education](sbe-multidisciplinary-teamwork-skills.md) — related
 - [Lecturers and clinical instructors perceive SBE as a gap-filler that relieves overloaded curricula and congested clinical sites in Malawian nursing and midwifery education](sbe-gap-filler-overloaded-curricula-malawi.md) — related
 - [Students perceive that frequent use of SBE would sharpen lecturers' and clinical instructors' own clinical skills and knowledge](sbe-improves-educator-skill-mastery.md) — related
+- [Students report uniformly positive attitudes toward the SSC, with all reporting improved communication and comprehension](ssc-positive-student-attitudes.md) — related

@@ -75,3 +75,4 @@ Same SEM, Table 2: mother German coefficient -0.276 (SE 0.089, p = 0.002) on M1 
 - [Secondary school achievement directly predicts early medical school exam performance among admitted students](secondary-school-achievement-predicts-m1-performance.md) — related
 - [Father-headed households showed significantly higher odds of good academic performance compared with mother-headed households](father-head-household-academic-performance-ethiopia.md) — related
 - [Foster care alumni students more often carry informal care responsibilities and have parents with lower educational attainment than their peers](foster-alumni-care-responsibilities-parental-education.md) — related
+- [Parental SES components differentially relate to parent-supported art participation and academic performance](parental-ses-components-vap2-academic.md) — related

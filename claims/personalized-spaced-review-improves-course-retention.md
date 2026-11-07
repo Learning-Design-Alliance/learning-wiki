@@ -9,6 +9,7 @@ generated:
   at: 2026-11-05
 evidence_strength: moderate
 newest_evidence: 2014
+source_checked: 2026-11-07
 sources:
   - id: lindsey-et-al-2014
     resource: "https://doi.org/10.1177/0956797613504302"
@@ -25,7 +26,7 @@ sources:
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2` · n=not stated in the abstract
-> **Currency** · newest study 2014 · not yet checked against its sources · not reviewed by a person
+> **Currency** · newest study 2014 · checked against its sources 2026-11-07 (automated, 1 of 1 entry) · not reviewed by a person
 
 The personalized method decides which material each student should review and when, by combining a psychological theory of memory with statistical estimates of how individual students and items differ. It ran inside retrieval-practice software used in the course.
 

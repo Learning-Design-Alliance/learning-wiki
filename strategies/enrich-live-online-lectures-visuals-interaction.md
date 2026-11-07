@@ -48,6 +48,7 @@ The article's recommendations section advises that live online instruction avoid
 
 - [Design synchronous online sessions as interactive lessons rather than recorded-style lectures](interactive-synchronous-sessions-strategy.md)
 - [Use varied face-to-face teaching strategies matched to learning objectives to sustain engagement in a full-day course](varied-face-to-face-teaching-strategies-ams-course.md)
+- [Optimization strategies for hybrid teaching: varied online instruction styles, curriculum reorganization, an online teaching library, and emerging technologies](hybrid-teaching-optimization-strategies-physiology.md)
 
 ## Examples
 -

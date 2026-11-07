@@ -80,3 +80,4 @@ The review's synthesis of Table 3 outcome data across the 30 studies, assessed v
 - [Error rates in audited clinical practice were lower after DBSS than after traditional teaching across the three core procedures](dbss-reduces-clinical-practice-error-rates.md) — a narrower finding that bears on this claim
 - [Systematic review evidence indicates SBE supports skills and knowledge acquisition, with short-term retention holding up but long-term retention unresolved](sbe-supports-knowledge-skills-acquisition.md) — related
 - [Telesimulation develops cognitive and communication skills but does not facilitate hands-on procedural practice](telesimulation-scope-cognitive-not-procedural.md) — a narrower finding that bears on this claim
+- [High-fidelity simulation improves skill acquisition and retention compared with traditional training methods](high-fidelity-sim-improves-skill-acquisition.md) — a narrower finding that bears on this claim

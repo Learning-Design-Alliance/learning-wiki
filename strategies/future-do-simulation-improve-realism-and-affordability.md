@@ -49,7 +49,8 @@ The review recommends that future developments in direct ophthalmoscopy simulati
 - [Deuchler et al. found learning occurs with EyeSi simulator training but is higher when combined with an online theory platform](../claims/eyesi-plus-online-platform-higher-learning-deuchler.md) [+M]
 
 ## Related Strategies
-- 
+
+- [Sequence direct ophthalmoscopy training to begin with the Eyesi simulator before transitioning to the traditional ophthalmoscope](eyesi-before-tdo-sequential-training-strategy.md)
 
 ## Examples
 -

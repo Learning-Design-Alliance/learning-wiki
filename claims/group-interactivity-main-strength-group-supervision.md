@@ -51,3 +51,4 @@ Focus group findings on the group interactivity theme: participants valued "the 
 - [Inexperienced participants hesitate to contribute in mixed-seniority group supervision, a social-positioning challenge unique to the group format](social-positioning-junior-hesitance-group-supervision.md) — related
 - [Disciplinary diversity among facilitators was consistently perceived as a strength enriching training and group supervision](disciplinary-diversity-strength-training-supervision.md) — related
 - [Group supervision is perceived as an adjunct to, not a substitute for, direct supervision for aquatic physiotherapy skill development](group-supervision-adjunct-not-substitute-direct-supervision.md) — related
+- [Physicians rarely provide direct feedback to colleagues on clinical decisions, limiting collegial feedback as a lifelong learning mechanism](physician-reluctance-colleague-feedback.md) — related

@@ -47,3 +47,4 @@ Cost comparison between the VRS and PHS modalities conducted as part of the feas
 ## Related Claims
 - [In one reviewed study, Anatomage virtual dissection increased medical student engagement by 34% over cadaver-based practice, constrained by equipment costs exceeding $72,000 per station](anatomage-vr-engagement-34-percent.md) — related
 - [The ANZMSC start-up cost of $US 5,160.42 is substantially lower than the $US 437,896 capital cost reported for establishing a comparable phacoemulsification wet and dry laboratory with EyeSi.](anzmsc-cost-lower-than-comparable-labs.md) — related
+- [FSP-TCM total cost ($7590.00) was significantly lower than OSP-TCM total cost ($17415.60)](fsp-tcm-lower-cost-than-osp-tcm.md) — related

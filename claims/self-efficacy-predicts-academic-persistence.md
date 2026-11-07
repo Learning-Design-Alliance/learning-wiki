@@ -226,3 +226,5 @@ The key constraint is specificity: telling learners they are "smart" or "good at
 - [Increased self-reported internal focus negatively predicts event-level goal achievement and self-efficacy](internal-focus-negative-achievement-efficacy.md) — related
 - [Associations between programme engagement and self-efficacy/mindset do not permit causal inference, and effects on academic outcomes were not measured](at-evaluation-no-causal-inference.md) — related
 - [Programme outcome and experience ratings were moderately associated with self-efficacy, while only learning-from-success-and-failure and goal-thinking items were weakly associated with mindset](self-efficacy-outcome-associations.md) — related
+- [Students reported positive motivation and engagement during the CA-PT despite its perceived difficulty](ca-pt-motivation-engagement-positive.md) — a narrower finding that bears on this claim
+- [Self-efficacy shows the highest correlation with achievement (r = 0.555) among the measured beliefs, with performance goals ahead of learning goals](self-efficacy-highest-belief-correlation-grades.md) — a narrower finding that bears on this claim

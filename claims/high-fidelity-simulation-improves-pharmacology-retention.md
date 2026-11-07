@@ -53,3 +53,4 @@ Randomized controlled trial of 90 fifth-year Italian medical students (30 per gr
 - [High-fidelity simulation yields higher stoma care skill scores than low-fidelity static models](hfs-3d-printer-moulage-higher-stoma-skills.md) — related
 - [Theoretical pharmacology knowledge scores rose from pre-test to post-test after simulation training, except for the right patient domain, in one uncontrolled pre-post study](simulation-improves-pharmacology-knowledge-except-right-patient.md) — related
 - [Both high- and medium-fidelity simulation groups showed a significant pretest-to-posttest increase in theoretical knowledge about pressure injuries](simulation-pre-post-knowledge-gain-both-fidelity-groups.md) — related
+- [High-fidelity simulation improves skill acquisition and retention compared with traditional training methods](high-fidelity-sim-improves-skill-acquisition.md) — related

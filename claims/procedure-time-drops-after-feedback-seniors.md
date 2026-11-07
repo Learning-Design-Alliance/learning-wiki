@@ -50,3 +50,4 @@ Descriptive subgroup analysis of median procedure times, illustrated in Fig. 2, 
 - [Mean anastomosis completion time decreased significantly after training, with significant reductions among second- and third-year residents](anastomosis-completion-time-reduction-pgy2-3.md) — related
 - [Junior and non-cardiothoracic residents show larger time improvements from coronary anastomosis simulation than senior residents](junior-residents-gain-more-time-from-simulation.md) — reports the opposite
 - [Mean procedure time decreased from 3.45 to 1.53 minutes after training (p < 0.001)](sbml-probing-procedure-time-reduction.md) — related
+- [Median major checklist steps missed on infant LP fell from 5 to 1 after the just-in-time video intervention](jit-video-reduced-missed-lp-steps.md) — related

@@ -56,3 +56,5 @@ Usability assessment in the multisite trial used the 10-item SUS with the 21 stu
 - [Students rated Meta Quest 3 headset usability and comfort very highly (mean 4.7 ± 0.5) and openness to curricular VR integration rose from 3.6 to 4.4](vr-pilot-headset-usability-openness.md) — related
 - [The VR system received a mean System Usability Scale score of 76.68, indicating good usability](vr-als-system-sus-76-good-usability.md) — related
 - [Fourth-year medical students rated the interdisciplinary simulation system 'excellent' on a modified SUS (mean 80.77)](sus-80-77-interdisciplinary-simulation-system.md) — related
+- [Nursing students rate the VR oral health learning system as a good experience, and satisfaction does not differ by prior VR game experience](vr-system-satisfaction-sus.md) — related
+- [The VR trauma simulation is well accepted by medical students, with good usability, moderate immersion, balanced workload, and high satisfaction and technology acceptance.](vr-trauma-simulation-well-accepted.md) — related

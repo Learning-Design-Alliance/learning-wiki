@@ -54,3 +54,4 @@ Quasi-experimental study comparing practical skill performance via objective str
 - [Undergraduates trained on a VR cataract simulation platform scored significantly higher total scores than traditionally trained peers in both traditional and VR assessments](vr-cataract-simulation-higher-total-scores.md) — reports the opposite
 - [VR-trained radiographers outperform traditionally trained peers on objective clinical measures: supervisor evaluations, radiograph quality and emergency performance](vr-superior-objective-clinical-performance.md) — related
 - [VRS teaching produced significantly higher posttest infection control knowledge scores than traditional teaching in undergraduate nursing students](vrs-higher-posttest-infection-control-knowledge.md) — related
+- [Blended teaching produced higher total OSCE scores than traditional offline teaching in a clinical skills training course](blended-teaching-higher-osce-total-clinical-skills.md) — related

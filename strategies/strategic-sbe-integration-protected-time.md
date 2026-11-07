@@ -49,6 +49,7 @@ The article recommends that simulation-based education not merely be available b
 - [Develop a centralised, strategically governed SBE framework with embedded leadership and faculty development](centralised-strategically-governed-sbe-framework.md)
 - [Integrate simulation-based education into Malawian nursing and midwifery education via simulation centres and corners to alleviate clinical-teaching challenges](integrate-sbe-malawian-nursing-education.md)
 - [Incorporate structured non-technical skills training and structured debriefing sessions within simulation-based education](structured-nts-training-debriefing-recommendation.md)
+- [Platform-based flexible practice scheduling with logged attendance](platform-appointment-practice-logging-strategy.md)
 
 ## Examples
 -

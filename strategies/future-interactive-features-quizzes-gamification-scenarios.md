@@ -44,6 +44,7 @@ The authors' forward-looking design recommendation is that "Future versions of t
 - [Future improvements: real-world user studies, advanced student modeling, and spaced repetition](future-work-user-studies-student-modeling-spaced-repetition.md)
 - [Add explicit information-literacy modules or quests to gamified open-book assessments to convert engagement into high-quality evidence-based inquiry](information-literacy-quests-in-gamified-assessment.md)
 - [Develop more realistic, clinically relevant VR software and naked eye 3D technology to improve simulated teaching efficiency](vr-anesthesia-future-development-strategy.md)
+- [Add virtual simulation to the online platform of blended clinical skills courses](virtual-simulation-in-blended-skills-platform.md)
 
 ## Examples
 -

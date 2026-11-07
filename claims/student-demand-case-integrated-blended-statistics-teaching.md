@@ -50,3 +50,4 @@ Descriptive survey results on demand for statistics education (N = 274) from sec
 - [Integrated online-PBL-CBL teaching yields higher total theoretical examination scores than traditional lecture-based teaching in breast surgery education](online-pbl-cbl-higher-theoretical-exam-scores-breast-surgery.md) — related
 - [Stakeholders preferred integrated case-study teaching of medical conditions over compartmentalised module-by-module content](integrated-case-study-module-design-cep.md) — related
 - [Only a minority of students prefer online teaching for clinical courses, and the primary drawback cited is the lack of a classroom atmosphere](online-teaching-willingness-shortcomings-neurosurgery.md) — related
+- [Student interest concentrated in emergency medicine, internal medicine and surgery, and interest was linked to better blended-teaching outcomes](content-interest-moderates-blended-outcomes.md) — related

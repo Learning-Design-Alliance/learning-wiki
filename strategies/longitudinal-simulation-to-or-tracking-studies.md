@@ -59,6 +59,7 @@ The review recommends that future research prioritize longitudinal designs conne
 - [Combine low-fidelity theoretical training with high-fidelity real-world application to prepare teams for complex tasks.](combine-low-and-high-fidelity-sbt.md)
 - [Test surgical simulators with novices and track learning-curve metrics before clinical translation](novice-testing-learning-curve-metrics-strategy.md)
 - [Design simulation-training studies in complex clinical settings with whole-team enrollment, learner and evaluator continuity, and confirmatory validation](ecmo-sim-study-design-recommendations.md)
+- [Establish competency benchmarks and objective assessment tools to translate simulation skills into operating-room practice](competency-benchmark-simulation-transfer-strategy.md)
 
 ## Examples
 -

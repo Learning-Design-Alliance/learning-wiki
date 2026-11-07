@@ -52,6 +52,7 @@ The article recommends that large language models serve as an auxiliary resource
 - [Verify ChatGPT outputs against reliable resources and do not rely on it solely for high-stakes exam study](verify-chatgpt-outputs-high-stakes-exams.md)
 - [Use LLMs as supportive educational tools and complements, not replacements, in medical education](llms-as-supportive-tools-not-replacements-medical-education.md)
 - [Use AI language models as adjunctive tools in medical education, especially for test preparation or knowledge reinforcement](ai-adjunctive-tool-medical-education-test-prep.md)
+- [Use AI chatbots as supplementary, not primary, resources in entrance-exam preparation](chatbots-supplement-not-primary-exam-preparation.md)
 
 ## Examples
 -

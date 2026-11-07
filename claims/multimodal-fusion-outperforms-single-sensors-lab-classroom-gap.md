@@ -49,3 +49,4 @@ The review's multimodal sensing synthesis states "multimodal fusion outperforms 
 - [Chest-worn ECG provides the strongest cardiac-sensing performance for attention-difficulty prediction, and fusing all cardiac streams does not improve upon chest ECG alone](chest-ecg-strongest-cardiac-engagement-signal.md) — related
 - [Predictive performance of sensor configurations does not change monotonically with the number of sensing streams; preferred configuration depends on target metric and sensing cost](sensor-stream-performance-non-monotonic.md) — related
 - [Combining more modalities does not always improve detection of learner mental states](more-modalities-not-always-better-mental-state-detection.md) — a broader claim this one bears on
+- [About 10% of data are missing in the cadaver system, a major challenge for applications beyond skill evaluation; IMU sensor fusion is proposed](ten-percent-missing-data-imu-sensor-fusion.md) — related

@@ -53,3 +53,4 @@ Random-effects meta-analysis pooling mean differences on standardized mathematic
 - [Preterm children show deficits in all mathematics subskills, with the higher-order skill of applied problems most associated with preterm birth](preterm-mathematics-subskill-deficits.md) — a narrower finding that bears on this claim
 - [Each decreasing week of gestation is associated with a higher proportion of very preterm children not achieving expected educational levels, persisting after adjustment](gestational-age-dose-response-attainment.md) — related
 - [More than half of very preterm children do not meet expected school readiness or attainment levels at ages 5 to 7 years](half-very-preterm-below-expected-attainment.md) — related
+- [Children born at 35-36 6/7 weeks gestation show no significant difference in academic test scores from term children in reading, mathematics, or science](late-preterm-no-score-difference.md) — related

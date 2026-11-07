@@ -55,3 +55,4 @@ Cross-sectional ANOVA comparing male and female students across all preclinical 
 - [Female sex is associated with lower probability of adequate academic performance among medical students in Lima](female-sex-lower-adequate-performance-medical-students.md) — related
 - [Males scored significantly lower than females on skills scores one year after implementation, independent of other factors](males-lower-one-year-skill-scores.md) — related
 - [In this study, male dental students scored slightly higher on the academic motivation scale than female students](male-higher-motivation-dental-jigsaw.md) — related
+- [SDL improvement held in learning motivation, planning and implementation, and self-management, but not in interpersonal communication](sdl-dimensions-mixed-oamas.md) — related

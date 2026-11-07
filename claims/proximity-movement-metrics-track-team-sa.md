@@ -48,3 +48,5 @@ The review attributes this finding to sensor-based behavior metric studies of su
 ## Related Claims
 - [Computer vision tracking is the most common method of automated operative video analysis, with CNN the leading AI-based approach](computer-vision-tracking-most-common-video-analysis-method.md) — related
 - [Team cognition predicts team performance: transactive memory systems (20%) and shared mental models (10%) explain significant variance, and situational awareness shows the largest relationship but rests on a small sample](team-cognition-predicts-team-performance.md) — related
+- [Acceleration of team displacement is positively correlated with overall NOTSS scores in cardiac surgery teams](team-displacement-acceleration-positively-correlated-notss.md) — related
+- [Team displacement entropy is negatively correlated with overall NOTSS scores in cardiac surgery teams](team-displacement-entropy-negatively-correlated-notss.md) — related

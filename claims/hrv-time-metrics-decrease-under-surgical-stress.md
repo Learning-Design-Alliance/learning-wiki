@@ -48,3 +48,4 @@ Review synthesis of studies using HRV time-domain metrics (SDNN n = 9, RMSSD n =
 - [Heart rate and heart rate variability analysis is the most used physiological stress monitoring tool in surgical educational environments](hr-hrv-most-used-surgical-stress-monitoring.md) — related
 - [The LF/HF heart rate variability ratio increases significantly when surgeons perform or train under stressful situations](lf-hf-ratio-increases-under-surgical-stress.md) — related
 - [SDNN and RMSSD are significantly associated with the interaction between VR module and training sequence](hrv-module-sequence-interaction-sdnn-rmssd.md) — related
+- [Expert and beginner neurointerventionalists differ in HRV metrics during simulated cerebral angiographies, with experts showing decreased short-term HRV](experts-show-decreased-hrv-during-simulated-neuroangiography.md) — a narrower finding that bears on this claim

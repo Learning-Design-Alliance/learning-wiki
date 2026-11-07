@@ -53,3 +53,4 @@ Interview finding from the grounded theory study; Participant 16 contrasted pre-
 - [Faculty endorsed a multimodal, scaffolded teaching structure—skills lab, tutorials, case-based learning, wards and outpatient departments—while favouring a bedside-heavy time split](multimodal-clinical-teaching-structure-faculty-preferences.md) — related
 - [Faculty and students report that inadequate physical facilities and restricted human resources limit clinical learning in Iranian teaching hospitals.](limited-resources-clinical-education-iran.md) — related
 - [Faculty and students report declining senior-faculty engagement in clinical teaching, with educational duties delegated to residents without ensuring learner competence.](reduced-faculty-mentoring-engagement-iran.md) — related
+- [Workforce shortages and heavy workloads confound supervisors' judgements of nurses' competency](workload-confounds-competency-judgement.md) — related

@@ -79,3 +79,4 @@ The same workshop position paper, which runs no study and has no review method, 
 - [Student prompts that omit key pertinent negatives are associated with AI-induced diagnostic errors](prompt-omission-pertinent-negatives-ai-errors.md) — a narrower finding that bears on this claim
 - [AI use is associated with lower critical thinking, with trust strengthening and AI literacy weakening the effect](ai-use-lower-critical-thinking-literacy-buffer.md) — related
 - [Physicians need awareness that AI tools can negatively influence their cognitive processes, including over-reliance on AI-generated advice](ai-tools-negative-cognitive-influence-physicians.md) — possibly the same claim (merge candidate)
+- [Electronic prognostic tools used alone performed significantly worse than physicians on the surprise question and did not improve physician accuracy when used alongside them](prognostic-tools-alone-worse-and-no-added-benefit.md) — related

@@ -50,7 +50,8 @@ An implementable management strategy drawn from the article's implications secti
 - [Interns who experienced real patient CPR had higher skill confidence and skill test scores than those who did not](../claims/real-cpr-experience-higher-confidence-skill.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Use Kirkpatrick's Four-Level Model to evaluate simulation-based training programs](kirkpatrick-evaluation-sbt-programs.md)
 
 ## Examples
 -

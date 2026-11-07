@@ -54,3 +54,5 @@ Retrospective cohort comparison of 115 trainees (56 control, 59 PBL) at a single
 - [Integrated clinical pathway and case-based teaching yields higher post-training theoretical examination scores than traditional teaching in endocrinology residency](clinical-pathway-cbt-higher-theoretical-scores.md) — related
 - [PBL-DeepSeek students show higher Mini-CEX clinical competence across all seven domains than traditionally taught students](deepseek-pbl-minicex-clinical-gains.md) — related
 - [ChatGPT-guided PBL residents scored significantly higher on a nephrology theoretical exam than traditionally taught residents](chatgpt-pbl-higher-theoretical-exam-nephrology.md) — related
+- [O2O/PBL trainees scored higher on practical skills examination (urinary catheterization proficiency) than LBT trainees](o2o-pbl-higher-practical-skills-scores-nephrology.md) — related
+- [Nephrology residency trainees taught with O2O/PBL scored higher on theoretical knowledge examinations than trainees taught with lecture-based teaching](o2o-pbl-higher-theory-scores-nephrology-residency.md) — related

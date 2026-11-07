@@ -35,7 +35,7 @@ sources:
 # Multiple Methods of Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 51 claims (31 for, 18 mixed, 2 against) · 57 studies (15 causal, 10 review, 9 associational, 8 theoretical, 5 quant-synthesis, 5 qualitative, 5 design), `q1`–`q4` · 5 of 57 report an effect size · 45 claims rest on one study
+> **Evidence** · 52 claims (32 for, 18 mixed, 2 against) · 58 studies (16 causal, 10 review, 9 associational, 8 theoretical, 5 quant-synthesis, 5 qualitative, 5 design), `q1`–`q4` · 5 of 58 report an effect size · 46 claims rest on one study
 
 ## Conditional relationship
 
@@ -161,6 +161,7 @@ Relevant claims read against the model that do not change it, and off-topic clai
 - [GRS identifies station-level failures that checklist scores do not capture in a high-stakes OSCE](../claims/grs-discriminates-station-failures-checklists-miss.md) [+W] — attached 2026-11-05 from Ibrahim Olayinka Rasheed et al. (2026), which proposed "Combine checklists and GRS in high-stakes OSCE scoring to capture both critical steps and overall competence"; tests this page's relationship.
 - [Students rate their own empathy higher than standardized patients rate them](../claims/students-rate-empathy-higher-than-sps.md) [+W] — attached 2026-11-05 from Induru Vikranth et al. (2025), which proposed "Use multisource feedback (self, standardized patient, faculty) when assessing communication skills".
 - [The vOSCE is judged unable to formally assess 8% of DCN competencies, and 3% (notably physical examinations) cannot be assessed via either method](../claims/vosce-and-osce-assessment-boundaries-dcn.md) [+W] — attached 2026-11-07 from Comparison of the adequacies of the OSCE and vOSCE to assess the competencies required und, which proposed "Use the vOSCE as a complement to other assessment methodologies, not as the sole means of assessing competencies".
+- [Adopting diversified formative assessment significantly improved grade discrimination among BOPPPS-PBL cohorts, unlike the subjective pre-reform daily-performance evaluation](../claims/diversified-formative-assessment-improved-grade-discrimination.md) [+W] — attached 2026-11-07 from Feng Xinrui et al. (2024), which proposed "Diversified formative-plus-summative assessment system weighting assignments, experimental operations and a final exam".
 
 ## Objective and learner-valued goal
 

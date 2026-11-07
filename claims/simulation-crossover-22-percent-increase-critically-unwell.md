@@ -70,3 +70,6 @@ Narrative review attributing this to McCoy et al.'s prospective randomised cross
 - [Simulator practice produces greater quiz-score improvement than video review after an identical didactic lecture](simulator-practice-beats-video-review-eom-quiz-gain.md) — related
 - [A 2.5-hour patient education training intervention significantly improves final-year physiotherapy students' OSCE-assessed patient education performance versus control](short-training-improves-physiotherapy-osce-patient-education.md) — related
 - [Scenario-based ALS simulation training produces a significantly higher increase in combined self-efficacy perception than regular internship alone in final-year medical students](als-simulation-raises-self-efficacy-perception.md) — related
+- [A blended tutorial-plus-simulation induction outperforms a didactic lecture alone for on-call preparedness](blended-induction-superior-to-lecture-alone.md) — related
+- [Eyesi training produced significantly higher fundus structure identification scores than traditional direct ophthalmoscope training](eyesi-higher-fundus-structure-identification-than-tdo.md) — related
+- [TMTD produces greater improvement in self-efficacy than the regular lecture method in MS patients](tmtd-superior-to-lecture-for-ms-self-efficacy.md) — a narrower finding that bears on this claim

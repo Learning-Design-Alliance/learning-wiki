@@ -42,7 +42,7 @@ The authors recommend deploying well-designed Internet-based material before or 
 - [Internet-based learning and traditional lecture produce no significant difference in CPR knowledge gains for physicians](../claims/ibl-tcl-no-knowledge-difference-cpr.md) [+W]
 - [Physicians learning CPR via IBL required substantially less time than the six-hour traditional lecture](../claims/ibl-time-savings-cpr-cme.md) [+W]
 - [Both IBL and TCL groups show significant pre-to-post knowledge increases in CPR learning](../claims/significant-pre-post-gains-both-formats.md) [+W]
-- [Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82).](../claims/flipped-classroom-higher-student-satisfaction-medical-education.md) [+M]
+- [Flipped classroom instruction is associated with higher student satisfaction than traditional instruction in medical education (SMD 0.82), but a trim-and-fill adjustment for publication bias reduces it to SMD 0.07](../claims/flipped-classroom-higher-student-satisfaction-medical-education.md) [+W]
 - [Evidence on flipped-classroom effectiveness is inconsistent across disciplines, with some studies showing no gains in satisfaction, motivation, or exam results](../claims/flipped-classroom-evidence-inconsistent.md) [~M]
 
 ## Related Strategies
@@ -50,6 +50,7 @@ The authors recommend deploying well-designed Internet-based material before or 
 - [Use virtual patients to replace passive instruction and train clinical reasoning before bedside learning, without diminishing bedside teaching hours](vp-replace-passive-before-bedside-strategy.md)
 - [Schedule virtual simulation training before the flipped classroom course rather than after it](oscrs-training-before-class-strategy.md)
 - [Tailor CME programs to physician subgroups and add interactive, competency-based formats and online self-assessment](tailor-cme-interactive-formats-self-assessment-strategy.md)
+- [Use blended learning with 'internet plus' and flipped classroom in evidence-based medicine teaching](internet-plus-fc-strategy-ebm-teaching.md)
 
 ## Examples
 -

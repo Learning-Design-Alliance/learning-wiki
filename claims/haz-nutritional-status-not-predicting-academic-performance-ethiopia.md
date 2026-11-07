@@ -55,3 +55,4 @@ Cross-sectional logistic regression analysis of 399 urban primary school childre
 - [Maternal literacy and education are associated with better academic performance of first-cycle primary school children in North Shoa Zone, Ethiopia](maternal-education-associated-academic-performance-ethiopia.md) — related
 - [Normal BMI is associated with better academic performance](normal-bmi-better-academic-performance.md) — related
 - [Positive attitudes towards nutrition are associated with better academic performance](nutrition-attitudes-better-academic-performance.md) — related
+- [Need for psychological support, non-Italian nationality, and science/technology faculty enrollment predict decline in academic performance, while senior year and good finances protect against it](multivariable-predictors-academic-decline-covid.md) — related

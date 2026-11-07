@@ -98,3 +98,4 @@ Reliability analysis of the post-study Likert survey administered to undergradua
 - [The professional identity and self-efficacy scales showed good to excellent internal consistency (α = .844–.964)](osce-study-scales-internal-consistency.md) — related
 - [The final 20-item PHLCS shows high internal consistency and discriminant validity](phlcs-reliability-and-discriminant-validity.md) — related
 - [The FLAS shows acceptable internal consistency, with total Cronbach's alpha of 0.893](flas-reliability-cronbach-alpha-0893.md) — related
+- [A 50-knowledge-point Mokken scale extracted from a difficulty-rating questionnaire shows high internal consistency for measuring student self-efficacy for learning](mokken-scale-50-kp-sel-high-reliability.md) — related

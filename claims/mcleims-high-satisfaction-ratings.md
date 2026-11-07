@@ -61,3 +61,4 @@ Descriptive analysis of a locally developed 23-item five-point Likert questionna
 - [Experimental-group students reported very high satisfaction with the scenario-based simulation course, averaging above 4.4 of 5 across 11 items](simulation-course-high-satisfaction.md) — related
 - [Medical and nursing staff rated the blended training approach and its three components very highly, including that the contents complemented each other well](high-ratings-blended-approach-components.md) — related
 - [Course evaluations for the workshop were positive for all six questions, with mean scores of 4.8–5.0 on a 5-point Likert scale](workshop-course-evaluations-positive-4-8-to-5-0.md) — possibly the same claim (merge candidate)
+- [Nursing students exposed to mobile-based learning rate it highly satisfactory](mbl-high-satisfaction-nursing-students.md) — related

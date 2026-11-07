@@ -67,3 +67,4 @@ From the same LED thematic analysis: participants suggested "dedicated time for 
 ## Related Claims
 - [Stakeholders identified an educational-support gap: LEDs stabilise the workforce but receive less structured teaching than HEE trainees, with lack of protected time a key barrier](led-education-support-gap-protected-time.md) — a broader claim this one bears on
 - [A tailored SIMBA programme significantly increases LEDs' self-reported confidence in managing acute medical scenarios, with greater gains in simulated than non-simulated cases](simba-boosts-led-confidence-acute-care.md) — related
+- [Workforce shortages and heavy workloads confound supervisors' judgements of nurses' competency](workload-confounds-competency-judgement.md) — related

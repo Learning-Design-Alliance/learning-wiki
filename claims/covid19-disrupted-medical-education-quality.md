@@ -48,3 +48,4 @@ The review attributes this figure to a McGill University cross-sectional survey 
 ## Related Claims
 - [Student-reported instructional quality declined during remote learning, most sharply in middle-grade science and academic press, and had not recovered to pre-pandemic levels by 2022-23](instructional-quality-declined-remote-learning.md) — related
 - [COVID-19 school closures in Pennsylvania are likely to have caused substantial learning losses, with harms concentrated in populations also disproportionately harmed by the disease](covid-closures-pennsylvania-learning-loss-equity.md) — related
+- [One in four university students surveyed in 2022 reported a decline in academic performance during the COVID-19 pandemic](quarter-students-reported-academic-decline-covid.md) — related

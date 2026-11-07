@@ -60,3 +60,4 @@ NASA Task Load Index questionnaire administered after the simulated procedure. T
 - [Self-directed AI training produced no additional perceived cognitive workload compared with expert tutor instruction on the NASA-TLX](ai-training-no-extra-cognitive-workload-nasa-tlx.md) — related
 - [Mental demand is experienced as higher in the low-fidelity simulation setting during the second part of the scenario.](higher-mental-demand-low-fidelity-sbt.md) — related
 - [Experts report higher self-assessed performance and lower perceived negative workload than residents on the NASA-TLX](experts-higher-self-assessed-performance-lower-negative-workload.md) — reports the opposite
+- [Subjective workload (NASA-TLX) did not differ between beginners and experts during simulated angiographies](nasa-tlx-did-not-differ-between-beginners-and-experts.md) — possibly the same claim (merge candidate)

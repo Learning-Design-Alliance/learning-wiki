@@ -61,3 +61,4 @@ Quasi-experiment with 120 nursing interns (60 per group) comparing BOPPPS plus v
 - [Blended MOOC-virtual simulation teaching produces higher Structured Clinical Skills Assessment scores than traditional teaching](mooc-virtual-simulation-higher-clinical-skills-assessment-scores.md) — related
 - [Most students worked on the digital learning materials before the internship, supporting preparation-based use of the blended design](pre-internship-digital-preparation-behavior.md) — related
 - [Debridement operation time was significantly shorter for students taught with the virtual simulation platform than with a MOOC](virtual-simulation-shorter-debridement-operation-time.md) — related
+- [Blended learning produced higher learning satisfaction than traditional lecture in the evidence-based medicine course](blended-learning-higher-satisfaction-ebm.md) — related

@@ -50,3 +50,4 @@ Structural equation modeling (N = 488) in a two-year longitudinal survey of Japa
 - [The direct effect of extracurricular music participation on general academic performance is significantly negative after controlling for SES and music score](eca-music-negative-direct-effect-acgp.md) — related
 - [An inverse model assuming academic performance mediates the link between arts ECA and art grades finds no significant mediating role of academic performance](inverse-model-no-acgp-mediation.md) — related
 - [In a subsample excluding extracurricular sports participants, the total effect of visual arts ECA on academic performance is significantly positive](eca-visual-arts-total-effect-sports-excluded.md) — related
+- [Writing about prior education and extracurricular activities shows no significant effect on master grades](prior-education-extracurricular-no-grade-effect.md) — related

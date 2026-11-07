@@ -53,3 +53,4 @@ Multi-group invariance testing (Models 4–6; N = 436 with 180 boys, 256 girls) 
 - [Negative cross-domain relations between math and L1 motivation were far more prevalent among girls than boys](girls-dimensional-comparison-cross-domain-relations.md) — reports the opposite
 - [Contrast effects appear between math-like and verbal-like domains in both self-concept and intrinsic value](contrast-effects-math-like-verbal-like-self-concept-intrinsic-value.md) — related
 - [Within all domains, achievement is positively related to self-concept in the same domain among German academic-track secondary students](within-domain-positive-achievement-self-concent-relations-eight-domains.md) — a narrower finding that bears on this claim
+- [No gender differences in visual art participation or academic performance among Chinese primary students](no-gender-differences-vap-academic.md) — related

@@ -52,3 +52,4 @@ Systematic review following PRISMA with PROSPERO registration (ID CRD42022376552
 - [A systematic search identified six studies of performance metrics for robotic hysterectomy, revealing a lack of standardized and validated metrics specific to the procedure.](robotic-hysterectomy-metrics-systematic-review-six-studies.md) — related
 - [Most identified assessment tools demonstrate construct or concurrent validity, but predictive validity is absent across tool categories](construct-validity-common-predictive-absent.md) — related
 - [Systematic review identifies 11 studies yielding 12 heterogeneous procedural assessment tools for medical students, none designed for final certification](systematic-review-12-procedural-assessment-tools-medical-students.md) — related
+- [On-call simulation shows limited objective evidence of improved performance outcomes, and patient-related outcomes are absent](on-call-simulation-limited-objective-outcomes.md) — related

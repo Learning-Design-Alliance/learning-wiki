@@ -58,3 +58,4 @@ Paired-samples t-test on the same 60-nurse single-group pilot, using a locally m
 - [Self-efficacy and the combined self-efficacy/self-esteem score rose significantly from pre-test to post-test, but self-esteem alone did not change significantly, in one uncontrolled pre-post study](self-efficacy-rose-self-esteem-not-significant.md) — related
 - [Undergraduate MSUS course participants' self-rated ultrasound competency rose significantly from course start to end within the course group during a blended-learning course](msus-course-self-perceived-competency-gain.md) — related
 - [Self-efficacy improved from before to after intervention in all groups but did not differ significantly between the four teaching methods](self-efficacy-gains-no-group-difference.md) — related
+- [Total SDL ability scores increased after a pediatric nursing course taught with Tronclass combined with team-based learning](tronclass-tbl-increased-sdl-ability-pre-post.md) — related

@@ -49,3 +49,5 @@ Test-set evaluation of the action recognition network trained on 435 annotated r
 - [Fivefold cross-validation of the action recognition network yields a mean accuracy of 98%, while skill assessment cross-validation varies widely (mean 79%)](cross-validation-ar-98-sa-79-mean-accuracy.md) — related
 - [Grad-CAM visualization shows the action recognition network focuses on the needle, suture, and instrument tips during suturing and on the tissue during dissection](gradcam-focus-needle-suture-instrument-tips.md) — related
 - [The skill assessment network distinguishing novice from expert surgeons reached only 56% test accuracy, failing to achieve useful performance](skill-assessment-network-56-percent-accuracy-failed.md) — related
+- [This is the first end-to-end trained approach classifying open surgery skill directly from video without hand-crafted feature extraction](first-end-to-end-video-skill-assessment-open-surgery.md) — related
+- [Deep learning models classify open suturing videos into three skill levels with up to 75% accuracy and 72% F1, comparable to individual human raters](video-models-three-level-open-suturing-skill-classification.md) — related

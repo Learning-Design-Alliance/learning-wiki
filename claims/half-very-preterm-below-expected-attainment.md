@@ -54,3 +54,5 @@ Retrospective national cohort linking neonatal records to statutory education da
 - [Children born preterm score significantly lower than term-born peers on aggregate standardized reading measures](preterm-aggregate-reading-deficit.md) — related
 - [Children born preterm score significantly lower than term-born peers on aggregate standardized mathematics measures, with a larger pooled deficit than for reading](preterm-aggregate-mathematics-deficit.md) — related
 - [Preterm birth is associated with deficits in both higher-order reading comprehension and lower-order reading subskills of decoding and word identification, but not pseudoword decoding](preterm-reading-subskill-deficits.md) — related
+- [Children born at 35-36 6/7 weeks gestation show no significant difference in academic test scores from term children in reading, mathematics, or science](late-preterm-no-score-difference.md) — related
+- [Children born at 32-34 6/7 weeks gestation have significantly lower test scores than term children in reading, mathematics, and science at multiple grades kindergarten through fifth grade](moderately-preterm-lower-academic-scores-multiple-grades.md) — related
